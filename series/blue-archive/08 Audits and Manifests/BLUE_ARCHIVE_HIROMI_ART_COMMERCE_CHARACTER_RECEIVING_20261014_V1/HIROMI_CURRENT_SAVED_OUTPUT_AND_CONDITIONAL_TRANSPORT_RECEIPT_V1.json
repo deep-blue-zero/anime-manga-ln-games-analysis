@@ -1,0 +1,128 @@
+{
+  "schema": "HIROMI_CURRENT_EXACT8_SAVED_AUTHOR_ARGUMENT_AND_CONDITIONAL_TRANSPORT_V1",
+  "existing_home": "P3-CHAR-HIROMI-ART-COMMERCE-SOURCE-SCOPED",
+  "future_primary": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "bytes": 38412,
+    "sha256": "6ed549b1e76db558a86ddb2ef39b40a5f272aea40007c53b115b4324cfb84815",
+    "git_blob_oid_of_actual_bytes": "9da57abe2825476c858b6297714a6aa159e7d704"
+  },
+  "author": "/root/minato_105_derivative",
+  "first7_actual_current_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 38412,
+      "sha256": "6ed549b1e76db558a86ddb2ef39b40a5f272aea40007c53b115b4324cfb84815",
+      "git_blob_oid_of_actual_bytes": "9da57abe2825476c858b6297714a6aa159e7d704"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT105_NEW_PURPOSE_JUDGMENTS_HP000_HP035_V1.json",
+      "bytes": 390693,
+      "sha256": "6bece01e0408845e55e12d4aec88d3a94e52b0ff38c7f76e7b7fd5543a608296",
+      "git_blob_oid_of_actual_bytes": "27462fa74726c3033d6bcd44b6a3cda435f7da54"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT105_NEW_PURPOSE_JUDGMENTS_HP036_HP070_V1.json",
+      "bytes": 526443,
+      "sha256": "93336a2abeba3b2066c280602bb5f698899cd767ea47cea2d63b79fb27dccf4f",
+      "git_blob_oid_of_actual_bytes": "78a4274256d8b92e1444f6c78acbb2e916ccab31"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT105_NEW_PURPOSE_JUDGMENTS_HP071_HP104_V1.json",
+      "bytes": 686375,
+      "sha256": "9da771cab53e4d62e4f90cf5f0652fbede5d69758e2c978c5389c4c382a9dcd2",
+      "git_blob_oid_of_actual_bytes": "e882189e9362e4081bde41084cec0c116031f8f9"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+      "bytes": 25239,
+      "sha256": "47fddbae2ca4f601cc8c1b6d0c0698da0c1cf808c21d611aba93f3520d41e213",
+      "git_blob_oid_of_actual_bytes": "5d2e05e308c4b0fc46638eded259a57a3807edec"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "bytes": 191861,
+      "sha256": "c6e48bda54d7d045d6392a78bb3699597f920182cc74dc430b1767ed9c392528",
+      "git_blob_oid_of_actual_bytes": "f85a0392eeb6a48462453cac6ec10f3246d981da"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT_LITERAL42_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 444818,
+      "sha256": "8f9e371eb80f67491e1226146b48c9031401eaae4dbd85d1e625221943981e80",
+      "git_blob_oid_of_actual_bytes": "ee0df151556cf968698b3f4172273163bfec4e41"
+    }
+  ],
+  "argument_extent": {
+    "physical_lines": 183,
+    "literal_claims": 42,
+    "actual_method_character_concerns": 16,
+    "main_sections": 11,
+    "serious_rivals": 8,
+    "finite_endpoints": 16,
+    "original_OPEN_gaps": 14,
+    "prior_source_question_results": 10,
+    "new_purpose_rows": 105,
+    "new_fivefield_judgments": 525
+  },
+  "source_grade": "Own adequate whole139maintainedwrittenargumentreuse plusHiromiselectedcontext;original12primaryproducer attributed;new105reportuseoriginal26whole79selected/sourceROOT105grades attributed,no defaultprimary/native/raw/AV/privatefamily replay.",
+  "original_recovery": "All11 raworiginalreceiving envelopes and3 actualM008V2carriers restore exactly from public retainedsourceobjects/privateenvelope/residualkeyorder controls;core receipt allactualpathfields reverse exactinitialraw bytes. Currentbody V2 fullV1inverse kept private,no fabricated canonicalpredecessor.",
+  "full_private_inverse_controls": [
+    {
+      "private_control_id": "HIROMI_ALL11_ORIGINAL_COMMON105_COMPLETE_RAW_ENVELOPE_EXECUTED_INVERSES_V1.json",
+      "bytes": 21261,
+      "sha256": "4e0d72fecee425bc4be247a014b9e66060292741b6f14df57d8443491b08cecf",
+      "git_blob_oid_of_actual_bytes": "d3a5f6699a50d2ac594909520a50e106d2a0d50c"
+    },
+    {
+      "private_control_id": "HIROMI_FULL_ORIGINAL_M008_CURRENT105_NEW_PURPOSE_JUDGMENTS_CP000_CP035_V1.json",
+      "bytes": 160382,
+      "sha256": "7993a3564800575bb89e5096dfbc0bf3664ebf2769b1d771f4cd0643f8860ded",
+      "git_blob_oid_of_actual_bytes": "aad21c3bebd95c9da0aa96b0f1d2cb875af33bb3"
+    },
+    {
+      "private_control_id": "HIROMI_FULL_ORIGINAL_M008_CURRENT105_NEW_PURPOSE_JUDGMENTS_CP036_CP070_V1.json",
+      "bytes": 166171,
+      "sha256": "19cbaf552d1e424c471abb06314504e8f3deff24a0f013b5ddfeb735f7d32a48",
+      "git_blob_oid_of_actual_bytes": "1ce6c582726936cbaa6f3bbe69da5443c0332b7b"
+    },
+    {
+      "private_control_id": "HIROMI_FULL_ORIGINAL_M008_CURRENT105_NEW_PURPOSE_JUDGMENTS_CP071_CP104_V1.json",
+      "bytes": 168665,
+      "sha256": "4043e8633501fa8d3319bf5392775869b3cea55d8c7322879a340c9a2a4b34e9",
+      "git_blob_oid_of_actual_bytes": "f2e0ba8927a638ba08e58299d8041e1004816065"
+    },
+    {
+      "private_control_id": "HIROMI_CORE1_FULL_SOURCE_RECEIPT_PATHONLY_FIELD_PLAN_AND_EXECUTED_COMPLETE_ORIGINAL_RAW_INVERSE_V1.json",
+      "bytes": 3763,
+      "sha256": "bb51a3ca6c26b1e4027407aa488e4382a4dd23d5543aa909f9abf48b8b8afb35",
+      "git_blob_oid_of_actual_bytes": "b3cac2912cbbe085974b83237833951d98de5edd"
+    }
+  ],
+  "current61767_dependency": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+    "scope": "EXISTING_SIX_SOURCE_QUALIFIERS_ONLY_O025_071_073_075_079_087_NOT_GLOBAL_SOURCE"
+  },
+  "current59334_dependency": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_COFFEE_DIRECTION_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 59334,
+    "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+    "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679",
+    "scope": "EXISTING_PUBLISHED_OLD_GSC134_COFFEE_DIRECTION_ONLY16ALIASES_NOT_FUTURE_GSC_ADOPTION"
+  },
+  "current_author_stage": "COMPLETE_C_ONLY_CHARACTER_ARGUMENT_NEW105_SOURCE_LITERAL_COMPONENT_PREPARATION_WITH_LIMITS",
+  "different_author_body_only_QA": "PENDING_M008_QUEUED_NOT_COMPLETED",
+  "different_author_complete105_component_QA": "PENDING",
+  "ROOT_semantic_receiving_and_formalacceptance": "PENDING",
+  "actual_install_preflight_commit_push_freshnewheadCI_MAIN": "PENDING_ROOT_SOLE_WRITER_NO_PREDECESSOR_GREEN_TRANSFER",
+  "fixed355_29_25_384_788": true,
+  "mandatory_named_duty": null,
+  "new_requiredENSEMBLE_REL_or_named_denominator": 0,
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_source_identity_canonical_package_named_milestonecredit": 0,
+  "merge": "RESERVED;178UNREACHED",
+  "R_Git_provider_sharedmetadatawrites": "NONE"
+}

@@ -1,0 +1,50 @@
+{
+  "schema": "KONOSUBA_PRIVATE_SOURCE_KNOWN_INTERNAL_CONTRAST_SPEC_V1",
+  "recorded_utc": "2026-10-20T01:11:15.096812+00:00",
+  "model_file": "DUST_RECONSTRUCTION_MODEL_DRAFT_01.md",
+  "model_sha256": "8b7be8048772bc8da28e756b1dde4455686b9b5800e61f757aeff76c665a4384",
+  "status": "FROZEN_BEFORE_ACTUAL_FIRST_RESPONSES",
+  "provenance": "Same root author; source-known hypothetical internal receiving. No new source, independent judge, blinded test, prospective original outcome or reliability denominator.",
+  "response_requirements": [
+    "One actual first committed appraisal/action/short Japanese reply and English gloss per variant; do not backfill an ideal response after review.",
+    "Do not import private facts, silently repair actual adverse tendencies, or infer audio/native-human adequacy.",
+    "Preserve outcome uncertainty where no subsequent outcome is stipulated.",
+    "Review later in a separate artifact against alternatives, failed discrimination, and exact model scope."
+  ],
+  "pairs": [
+    {
+      "id": "DS-H01",
+      "target": [
+        "DS-D-01",
+        "DS-D-02",
+        "DS-D-03"
+      ],
+      "shared_context": "Canonical fantasy setting. Dust is his ordinary current self. He remembers the actual spear instruction permitting use for Rionor or another person he truly wants to protect. He has a serviceable sword and spear, and an onlooking weapons specialist might recognize his older training. Taylor is present and has freely agreed to hold a shield for a short action. No private narrator facts may be imported.",
+      "A": "Leen is presently being forcibly held behind a barred passage. Dust knows her objection and the near-term coercive danger. From his current position he knows the spear tip can cut the exposed fastening and free her; the sword cannot reach it. There is no comparably quick concealed route. He must choose what he actually does next.",
+      "B": "Nobody is held or in danger. A local audience offers a modest fixed appearance fee for a weapon display; a competent ordinary sword demonstration earns the same fee. The spear would attract more admiration and possible recognition. The remembered instruction has not changed. He must choose what he actually does next.",
+      "pre_response_receiving_boundary": "A permits a source-plausible protective spear choice with exposure cost; B gives a viable current-role alternative. The explicit instruction alone can explain a difference, so the pair cannot isolate a unique privacy cause or prove a general protection override. An adverse choice must remain possible under DS-D-02; do not invent unavailable means."
+    },
+    {
+      "id": "DS-H02",
+      "target": [
+        "DS-D-04",
+        "DS-D-06"
+      ],
+      "shared_context": "Ordinary Axel interaction, no urgent rescue. Dust wants a ten-thousand-eris leisure purchase. He understands the amount, source, and stated term; no arithmetic, hearing, or hidden-ownership difficulty is stipulated. He has no spare money of his own and no guaranteed later repayment.",
+      "A": "An adult merchant places ten thousand eris in Dust's hand as an unconditional gift, explicitly permitting spending or resale use and refusing any later return claim. Dust has heard this. Choose his next appraisal, action, and short reply.",
+      "B": "Lolisa places the same amount in Dust's hand solely for immediate delivery of her shop's rent, explicitly forbidding personal spending. Dust has heard and understood that she remains the owner. Choose his next appraisal, action, and short reply.",
+      "pre_response_receiving_boundary": "A may be accepted under a genuinely secured term. B is a known ownership constraint: appropriation would be deliberate adverse conduct rather than failure to discover a term. The model does not uniquely choose honest delivery versus appropriation. Do not sanitize B or score any bad outcome as evidence of mere underchecking."
+    },
+    {
+      "id": "DS-H03",
+      "target": [
+        "DS-D-05",
+        "DS-D-06"
+      ],
+      "shared_context": "Ordinary current Dust meets a woman who looks and speaks like Leen and offers him a free supper. He wants both the meal and her company. A prior directly heard agreement says Leen wears a right-wrist ribbon and the temporary lookalike wears a left-wrist ribbon. Both can use the same invitation; neither has already been unmasked. The actual woman is the lookalike in both variants, but Dust receives only the information stated in each variant.",
+      "A": "Her left-wrist ribbon is clearly visible under ordinary viewing conditions. No one explicitly corrects Dust. Generate his first appraisal, action, and short reply without assuming that a visible cue must automatically capture his attention.",
+      "B": "Both wrists are fully covered. Only the reader has seen the lookalike change clothes in a private room. No new identifying detail is accessible to Dust. Generate his first appraisal, action, and short reply without giving him the reader's knowledge.",
+      "pre_response_receiving_boundary": "A can show an accessible-cue omission if appetite captures the interpretation; B cannot be an established missed-visible-cue failure. The same accepting behavior would have different diagnostic scope. There is no guaranteed accuracy from skepticism and no automatic cue awareness; record underidentification rather than force a successful discriminating output."
+    }
+  ]
+}

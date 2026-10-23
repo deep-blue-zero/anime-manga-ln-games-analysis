@@ -1,0 +1,4267 @@
+---
+series: KONOSUBA
+artifact_type: project_execution_changelog
+status: historical_legacy
+do_not_use_as_current_authority: true
+supersedes: []
+superseded_by: []
+---
+
+# KonoSuba execution history
+
+The current operation is governed only by [CURRENT_STATE_AND_CORPUS_MAP.md](CURRENT_STATE_AND_CORPUS_MAP.md). This file preserves dated historical state, including pending/paused or closed-source statements that applied only at their own boundary. Publication identities and outcomes are checked through Git and exact audit receipts.
+
+## Verbatim prior corpus-map snapshot
+
+The following entire earlier map is preserved byte-for-byte within the fenced block. Its embedded authority/status language is historical, not a second entrypoint.
+
+````markdown
+---
+series: KONOSUBA
+artifact_type: corpus_map
+scope: FULL_MAIN_SERIES
+generation: V1
+status: canonical
+source_boundary: Dust05 fullgate aafa7d65closed at19text/21imagescopes; supplemental5of19/mixed5of5published; Dust06whole separateadmission next; fullfixed41StageC/StageD/finalrelease active; frozenexact
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md
+  method_status: canonical
+  source_reconnaissance_complete: true
+  required_ledgers_initialized: true
+  sequential_analysis_lock: open
+  next_permitted_operation: EXPANDED_DUST06_ADMISSION
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume
+  authorized_start: V11
+  terminal_boundary: V17
+  committed_high_water_mark: V17
+  next_candidate_operation: EXPANDED_DUST06_ADMISSION
+  confirmation_between_units: false
+  run_state: active
+---
+
+# KONOSUBA - Current State and Corpus Map
+
+## 1. Purpose
+
+This is the canonical first-read document for the KONOSUBA analytical project. It identifies the current source boundary, governing methods, project phase, authority rules, intended analytical architecture, and the retrieval path an analyst should follow before reading or modeling the series.
+
+The project is designed around one primary objective:
+
+> Build evidence-grounded, prospectively tested models of KONOSUBA's major characters that can reproduce plausible behavior, decision-making, interpersonal dynamics, ordinary-life preferences, comic failure modes, seriousness overrides, and Japanese-language voice across both canonical-comic and transferred cross-context situations.
+
+The project is not primarily a plot-summary project and is not satisfied by trait lists, catchphrase imitation, or fandom shorthand such as "Aqua is stupid" or "Megumin likes Explosion." It seeks the generative mechanisms underneath those surface descriptions.
+
+## 2. Current authority state
+
+**Latest verified publication — 2026-10-18T09:17:39.888189+00:00:** [Dust5](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md) source`aafa7d65be8738e6862374a33ff5b720fa3c7da8`/tree`78e9f0588afbfb935fa098c95f392f3a849d6f70` accepted/published/full-gate closed at all19text/21imagescopes. All8406remote paths/35changedstreams exact. Source39114201812/job117636525043 and final39114517860/job117637456270 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39114484477/job117637359384NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Displayed workflowmain metadata remains distinct from actual AUDIT_COMMIT. [Gate](09%20Audits%20and%20Manifests/KONOSUBA_DUST05_EXPANDED_PUBLICATION_GATE_CLOSE.json) and fresh371project/66current/fourscores/original14blank reload2026-10-18T09:17:44.149379+00:00 close prior pendinghistory. Dust04additive N01coercive-scope correction is included/published/full-gate-closed by this containing source; original Dust04historical report/assessment remain byteexact. All72historicalpins exact; main308f4db1c492f23699c6021afe756074cce99117reconciled without protected-main integration claim. Supplemental5of19/mixed5of5published; globalcomponentpercentage null. Dust06whole separately unopened despite declared prior principal exposure; remaining StageC/StageD/secondary/index/finalrelease continues.
+
+**Authorship-time Dust05 acceptance — 2026-10-18T09:04:10.135762+00:00:** [Dust5 whole edition](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md) accepted at19text/21image scopes; exact containing publication/fullgate pending. Principal2733P/other60P/total2793P; all ruby/residuals/images before08:23:51UTCuncodedseal;68selectedpremises/98nativevoice/7unchangedquestionassessments/34ten-ledgerappends. [29qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_RECEIVING_AND_PROVENANCE.json) preserve actual old-name/white-dragon disclosure, chosen present identity, partial new trigger comparability, term-checking/owned-veto counterevidence, coercive delay, force, forest remainder, real costs and payment/permission limits. The [additive Dust04 N01 correction](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) also travels: no bodily-injury threshold; earlier direct contraries intact. Frozen66current/72historical/fourscores/original14blanks exact. Supplemental5accepted/4already publishedof19, mixed5published; overallpercentage null. Dust04a3451baa remains latest fullgateclosed until exactreadback/sourceaudit/housekeeping/finalactualsourceaudit/status/freshreload. Dust06whole separately unopened despite declared prior principal exposure; full StageC/StageD/secondary/index/finalrelease continues.
+
+**Current Dust04 N01 precision — 2026-10-18T08:13:02.489477+00:00:** [Coercive-danger correction](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) overrides the bodily-danger narrowing in the a3451baa assessment/report and three ledger qualifications. The original trigger never required bodily injury. The unilateral leisure wager after explicit refusal now retains direct contrary weight; later business consent, benign outcome and actual rescues do not erase it. Original Dust04 artifacts, seals, scores and fourteen blanks remain exact; later precision is attributable, with no Dust05 formal outcome or prebody rewrite. This correction joins the next containing publication.
+
+**Dust05 admission at its own earlier boundary — 2026-10-18T07:48:01.687936+00:00:** Exact local`Konosuba Extra - Dust - Volume 05.epub`,6713820bytes/SHA256`bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc`,freshCRC/JapaneseOPF/19text/21image structure verified after preceding fullgate/freshreload. Pre-body informed-root context sealed with unchanged sevenDust01questions/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+**Preceding Dust04 publication — 2026-10-18T07:46:38.668683+00:00:** [Dust4](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md) source`a3451baadc55920d79d82c702e9cfc6d6eb817c0`/tree`14f61171233e0b9816213dfd951f5cc5e19daebe` is accepted/published/full-gate closed at all21text/24image scopes. All8387remote paths/34changedstreams equal reviewed candidates. Source39108260010/job117618687790and final39108563252/job117619585614each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39108534761/job117619502548NO_OP/exactfinalsource dispatch; exact integrationstatus succeeds on the actual source. Displayed workflowmain metadata is distinguished from actual AUDIT_COMMIT. [Gate](09%20Audits%20and%20Manifests/KONOSUBA_DUST04_EXPANDED_PUBLICATION_GATE_CLOSE.json) and fresh352project/66current/fourscores/original14blank reload2026-10-18T07:46:42.711151+00:00close earlier pending history. All72historicalpins remain exact; main308f4db1c492f23699c6021afe756074cce99117is reconciled without a protected-main integration claim. Supplemental whole editions4of19 and mixed5of5published; globalcomponentpercentage null. Dust05remains unopened and separately unadmitted at this reload. Full remaining StageC/StageD/secondary/index/finalrelease continues.
+
+**Authorship-time Dust04 acceptance — 2026-10-18T07:29:49.102050+00:00:** [Dust4 whole supplied edition](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md) is accepted at21actual textual/24native image scopes, containing exact publication/full gate pending. Principal2648P/other61P/total2709P, all ruby/residuals and images actually read before07:07:56UTCuncodedseal;68selectedpremises/80nativevoice/7unchangedquestionassessments/34ten-ledgerdecisions follow. [Provenance](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_RECEIVING_AND_PROVENANCE.json) and [23qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_CURRENT_PRECISION_QUALIFICATIONS.json) retain sameinformedroot/knownlaterholdout exposure, actual protective costs, coercive choices, partial conjuncts, paid compensation for a failed commission and unresolved accounting. All66current/72historical/fourscores/original14blanks exact. Supplemental4accepted/3already publishedof19, mixed5published; globalpercentage null. Dust03da2babc2 remains latestfullgatecloseduntil Dust04exactreadback/sourceaudit/housekeeping/finalactualsourceaudit/status/freshreload closes. Dust05 separately unopened; full StageC/StageD/secondary/index/finalrelease continues.
+
+**Dust04 admission at its own earlier boundary — 2026-10-18T06:35:44.765568+00:00:** Exact local`Konosuba Extra - Dust - Volume 04.epub`,11564184bytes/SHA256`db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23`,freshCRC/JapaneseOPF/21text/24image structure verified after preceding fullgate/freshreload. Pre-body informed-root context sealed with unchanged sevenDust01questions/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+**Preceding Dust03 publication — 2026-10-18T06:35:26.264364+00:00:** [Dust3](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md) source`da2babc20ac4553d7e1e576e0fdcb6ba98b0394c`/tree`36aa82d62d9293cf0fd4cabe2584dcbe83d83b57` is accepted/published/full-gate closed at all25text/24image scopes. All8369remote paths/34changedstreams equal reviewed candidates. Source39103945422/job117605722774and final39104164541/job117606373548each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39104140091/job117606299063NO_OP/exactfinalsource dispatch; exact integrationstatus succeeds on the actual source. Displayed workflowmain metadata is distinguished from actual AUDIT_COMMIT. [Gate](09%20Audits%20and%20Manifests/KONOSUBA_DUST03_EXPANDED_PUBLICATION_GATE_CLOSE.json) and fresh334project/66current/fourscores/original14blank reload2026-10-18T06:35:31.151608+00:00close earlier pending history. All72historicalpins remain exact; main308f4db1c492f23699c6021afe756074cce99117is reconciled without a protected-main integration claim. Supplemental whole editions3of19 and mixed5of5published; globalcomponentpercentage null. Dust04remains unopened and separately unadmitted at this reload. Full remaining StageC/StageD/secondary/index/finalrelease continues.
+
+**Authorship-time Dust03 acceptance — 2026-10-18T06:18:22.445096+00:00:** [Dust3 whole supplied edition](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md) is accepted at25actual textual/24native image scopes, containing exact publication/full gate pending. Complete principal2755P/other131P including50Pbonus, all ruby/residuals and images were actually read before uncoded seal05:55:31UTC;60selectedpremises/77nativevoice/7unchanged-question assessments/34ten-ledger decisions follow. [Provenance](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json) and [qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json) preserve same-informed-root/knownlaterholdout exposure, original errors and actual contrary behavior. N01has direct contrary rescue obstruction; N02/N03lack full triggers; exact spear-rule wording is now known; checking counterevidence remains. All66current/72historical/fourscores/original14blanks exact. Supplemental editions3accepted/2publishedof19, mixed5published; globalcomponentpercentage null. Advancedc121df15 remains latestfullgatecloseduntil Dust03exactreadback/sourceaudit/housekeeping/finalactualsourceaudit/status/freshreload closes. Dust04 remains separately unadmitted/unopened. Full StageC/StageD/secondary/index/finalrelease continues.
+
+**Dust03 admission at its own earlier boundary — 2026-10-18T05:23:57.419984+00:00:** Exact local `Konosuba Extra - Dust - Volume 03.epub`,18686443bytes/SHA256`58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040`,freshCRC/JapaneseOPF/25textunitand24image native structure verified after Advancedc121df15fullgate/fresh316projectreload. Pre-body informed-root context sealed with unchanged sevenDust01questions/original14blanks. No story paragraph or image had been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first reading now active/unaccepted, all formal L/H/local outcomes await complete uncoded seal. Same root knows laterDust06/07principalholdouts; no pristine out-of-sample claim. Full program continues; other future sources remain separately unadmitted.
+
+**Preceding Advanced publication — 2026-10-18T05:23:29.595043+00:00:** [Advanced](10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md) source`c121df158194c0fd01608899ed07080520b9cfc0`/tree`4ee04aad4fec7e1989f9ccc33771506a6f237f8e` is accepted/published/full-gate closed at331individual scopes. All8351remote paths/32changedstreams match. Source39099672458/job117593176333and final39100029214/job117594232141each executed352fulltests/allfive non-success zero/selectiondisabled; housekeeping39100006603/job117594164734wasNO_OPwith exactfinalsource dispatch. Actual AUDIT_COMMIT is distinct from displayed workflowmain metadata; successful exact integrationstatus targets the finalrun. [Gate](09%20Audits%20and%20Manifests/KONOSUBA_TRPG_ADV_EXPANDED_PUBLICATION_GATE_CLOSE.json) and fresh316project/66current/fourscore/original14blank reload2026-10-18T05:23:33.141746+00:00close the earlier containing-pending state. Main308f4db1c492f23699c6021afe756074cce99117is reconciled; protected-main integration is not asserted. All five mixedprograms are published at stated scopes; supplemental whole editions2of19/globalcomponentpercentage null. Dust03 remains unopened and requires separate exact admission. Fullremaining StageC/StageD/revisedmodels/secondary/index/finalrelease continues.
+
+**Authorship-time Advanced acceptance — 2026-10-18T05:03:55.185963+00:00:** [TRPG Advanced](10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md) is accepted at331actual individual native-component scopes, with containing exact publication/full gate pending. The same continuing informed root read all eligible continuous bodies, sealed282uncoded comic observations/49voice witnesses before formal coding, authored the17responsibility report and100selectedpremises/49voice arguments/30ten-ledger appends. [Provenance](10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json) and [qualifications](10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json) preserve original notes, dense numeric/index limits, actual source discrepancies, unequal replay/reference/optional/scenario planes and no independent-reader claim. Frozen66current/72historical/fourscores/original14blanks remain exact. Five mixedprograms accepted/fouralready published; supplemental whole editions2of19; global componentpercentage null. Latest completed publication remains Core01d92730 until this exactsource readback/sourceaudit/housekeeping/finalactualsourceaudit/status/reload closes. No Dust03 source body has been opened. Full remaining program continues.
+
+**Advanced admission at its own earlier boundary — 2026-10-18T02:48:19.409431+00:00:** TRPG-ADV uses exact local `Konosuba - TRPG - Advanced Rulebook.epub`,123248665bytes/SHA256`2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c`. Fresh CRC/Japanese OPF and all331native image-wrapper joins pass under the closed Core gate and fresh300project-authority reload. Ordered actual source-first viewing/eligible prose reading is active and unaccepted; initial12pages are acknowledged. Admission/extraction is not literary completion, no formal L/H assignments precede a complete uncoded seal, and no model/score is changed. Full remaining StageC/StageD/finalrelease work continues; Dust03unopened.
+
+**Preceding Core publication — 2026-10-18T02:47:28.322414+00:00:** [Core](10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md) source`01d9273078ff4d836984af086c16ee8633edc0c8`, tree`dd9f52d88bdca2507775c2403d0489233f404365`, is accepted/published/full-gate closed at its individual component scopes. All8335remote paths/37changedstreams match. Source39090702900/job117566639926 and final39090974804/job117567468482 each passed352fulltests, all five non-success counterszero, selectiondisabled. Housekeeping39090951006/job117567395332 was NO_OP and dispatched the final actualsource; displayed workflowmain metadata remains separate. Exact integrationauditstatus succeeds on Core and points to the finalrun. The [Core gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_TRPG_CORE_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes older containing-pending statements. Fresh published reload2026-10-18T02:47:31.606335+00:00 verified300projectstreams/66currentpins/four scores/original14blanks. Main308f4db1c492f23699c6021afe756074cce99117 is reconciled; protected-main integration not asserted. Four mixedprograms are now published, two of19 supplemental editions accepted; global componentpercentage null. Advanced and Dust03 remain unopened and require separate exact admission. Next permitted operation is TRPG-ADV admission; the full remaining program continues.
+
+**Authorship-time Core acceptance — 2026-10-18T02:29:30.403076+00:00:** [TRPG Core whole supplied edition](10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md) is accepted at its individually declared component scopes, containing publication pending. All333original native-page dispositions/full eligible replay-guide-scenario/flavor,75premise arguments,41voice witnesses and30ten-ledger proposals have been received; root43freshpages include completeguide/scenario and consequential replay/rules checks. The [current qualifications](10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) preserve original codes while correcting conditionalcover, glyph/pun, form warrants, Htargets and advertised-fee scope. [Receiving](10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_RECEIVING_AND_PROVENANCE.json) distinguishes missing historicalrawack/routeproof from exact transported records and fresh333nativejoins. No fresh333rootpass, exhaustive numericalaudit, independenttrial or score change is claimed. Allten current ledger prefixes/frozenauthority/four scores/original14blanks stay exact. Two supplemental editions remain accepted/published; mixedprograms4of5accepted including Corepending and3of5published. Globalcomponentpercentage null. Close this exactpublication/readback/sourceaudit/housekeeping/finalactualsourceaudit/status/reload before separately admitting Advanced or Dust03. Fullremaining program continues.
+
+**Preceding Dust02 publication — 2026-10-18T02:01:19.189055+00:00:** Dust02 source`8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6`, tree`407a09ca6dc49273cf8a7385f3a1935bbad0cf87`, passed full exact-source publication closure. All8316 remote paths/all27 changed streams match. Source39087791087/job117557900141 and final39088145784/job117558966962 each passed352 full tests with every non-success counter zero and selection disabled. Housekeeping39088120420/job117558888145 was NO_OP and dispatched the final actual-source audit; displayedmain1065d51c is separate from audited8656b8ae. Exact Repository integration audit succeeds on that source and targets the finalrun. The [Dust02 gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_DUST02_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes earlier containing-pending statements. Published reload at2026-10-18T02:02:16.022492+00:00 verified all281 project streams,66 current immutable products,72 historical pins, four scores and the original14 blank fields before further source admission. Protected-main integration is not asserted. Core was already admitted and unaccepted at that closed publication; the later Core acceptance below supersedes that receiving state. Dust03 has no remaining Dust02 publication blocker but requires its own separate exact admission; it has not been opened here. The complete remaining fixed41 program continues.
+
+**Preceding recovery publication — 2026-10-18T01:21:22.385449+00:00:** recovery source `ee740bf0023b6cc7167f80cbbc70fa949f29f232`, tree `2cd1538b30473761f79f736620a20d0fa62eae31`, preserves the exact paused6938b506 merge, six metadata changes, historical pauses and explicit owner resumption. All8,305 remote paths/all20 changed streams match: seven authored recovery paths and13 exact accepted main imports. Source39085407327/job117550774950 and final39085785856/job117551935243 each passed all352 full tests with zero non-success; NO_OP housekeeping39085759547/job117551857631 dispatched that final actual-source audit. Exact Repository integration audit succeeded2026-10-18T01:20:17Z and targets the finalrun. Dispatched displayed main1065d51c is separate from auditedee740bf0. The [recovery gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_LOCAL_RECOVERY_PUBLICATION_GATE_CLOSE.json) closes the recovery-pending authorship state. Fresh published reload verified all270 project streams,66 current immutable suite products,72 historical pins, four unchanged scorecards and the original Dust question hash before resumed receiving. The already closed fanbook31921a9c gate and exact receipt remain preserved. Protected-main integration of this recovery source is not asserted.
+
+**Authorship-time accepted unit — 2026-10-18T01:39:32.953430+00:00:** [Dust02 whole supplied edition](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_DEEP_READING.md) is substantively accepted with its [component register](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_COMPONENT_REGISTER.json) and [receiving record](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json). Seven principal members/3052P, all16 excluded containers/139P/17nav, complete67-P bonus and23 native images have separate actual scopes. All61 humor/35 voice and91 principal ledger proposals are received;10 bonus responsibility entries are separately appended. N01 retains direct coercion contrary evidence, N02 remains partial for the full conjunction, and unnamed Final378 is not assigned to Small. Both readers’ original labels/arguments and all14 blank question fields remain preserved. Containing publication/readback/full audit sequence is required before Dust03 admission; Core remains separately admitted/unaccepted. Book accounting is2of19 supplemental editions accepted and3of5 mixed programs accepted/published; global narrative percentage null.
+
+**Project state:** ACTIVE / PROVISIONAL — V01–V17 principal narratives and the [final V16–V17 checkpoint](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V16-V17_FINAL_SEQUENTIAL_CHECKPOINT.md) are substantively accepted. Formal Gen05 outcomes are 8C/6P/1F/3AMB/7NT; Aqua’s broad service-language tendency fails while practical competence remains. All original model/forecast bytes, blank pairs, local histories and earlier failures are preserved. The [main-principal evidence receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN_PRINCIPAL_EVIDENCE_FREEZE.json), published at a1539842, freezes the exact source-located main evidence state and all ten ledger responsibilities, with inherited reading/exposure limits. This is distinct from the now-recorded [main-only reconstruction-suite freeze](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json), whose separate exact publication gate closed at3b92 as reconciled below.
+
+The preceding fully audited CP06 source is `a1539842ca7ea51e4414cff2331999d69ca52453`, tree `27d9935d58948562e7e34277fea5cabf21a28232`, containing the final sequential checkpoint and main-principal evidence freeze. Its full gate closed 2026-10-17T12:39:00.799140Z after all 8,023 remote paths and 11 changed streams matched, source audit39032578430/job117395868194, no-op housekeeping39032861815/job117396684599 and final audit39032884756/job117396750970. Both audits passed all352 tests without failure/error/skip; exact Repository integration audit succeeded at12:35:08Z targeting that final run. Dispatched workflow metadata displayed main ef1e29ab, but actual AUDIT_COMMIT/SOURCE_SHA equal a1539842. Pending wording in older checkpoint/review/map history records authorship, not a live blocker. Exact published authority and all66 evidence pins were reloaded before releasing actual specialist authorship. All seven required main-only specialists and six-entry claim revisions are substantively accepted at 2026-10-17T13:04:45.202871+00:00; the [receiving record](09%20Audits%20and%20Manifests/KONOSUBA_MAIN_ONLY_SPECIALIST_SYNTHESIS_RECEIVING_REVIEW.md) identifies exact bodies, actual source/peer scopes, corrections and unresolved limits. The separate specialist publication gate closed2026-10-17T13:22:42.924731Z at `39b498f1852225424830b7daf6de59abedbb8c02`, tree `7f1add9a2e1c868a02cdffad6a5f6a9e008d7fb6`, the latest fully audited source at that13:22 closure. Exact remote readback matched8,034paths/all22changed streams:11 authored KonoSuba files and11 byte-preserved current-main Shuukura imports from fcf30802. Source39035513843/job117404397014, no-op housekeeping39035892002/job117405460456 and final39035918473/job117405535824 bind actual39b498f1; both audits passed352 full tests without error/failure/skip, and exact Repository integration audit succeeded13:22:06Z targeting the finalrun. Dispatched displayed-main metadata fcf30802 is not the audited source. Published authority/all66 main evidence pins were reloaded13:23:06.445871Z before actual model authorship. Earlier pending wording records authorship history. At that earlier suite closure, source-branch operation was **WITHHELD_SOURCE_VALIDATION**. The current operation is **EXPANDED_CORPUS_ANALYSIS** after the four-book c781 full gate reconciled below. Its unchanged-baseline tests were accepted before YORI01 principal admission; all other narrative stays separately gated as recorded below. No next principal volume or Gen06 exists. The full program remains active through unchanged-baseline four holdouts, complete19-book/17-edition-component/five-mixed-book analysis, attributable revisions/secondary work, synthesis/indexes and substantive completion audit. The earlier39b source was subsequently integrated through PR205 at276043b5 with an identical whole repository tree and successful main audit; no protected-main integration of the new suite transaction or archival release is asserted.
+
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** This is continuation of the mature imported project, with its four current methods, existing ten ledgers and source boundary verified. The structured run declarations recover the current owner-authorized bounds; they do not create new source authority. The [run and reconciliation audit](09%20Audits%20and%20Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md) records accepted, working and published state separately.
+
+**Historical owner pause — 2026-10-17T01:59:20.802530+00:00.** The owner paused work at the recorded time. Accepted/published high-water remained V13 at `ee4e2882cb69cf58d87c3d48437dec7270c163ab`; V14 source reading had begun but its analytical transaction was incomplete and unpublished. Active readers/reviewers were interrupted. Local current-state/audit edits and the clean main-reconciliation index were preserved without commit or push. The subsequent resume and recovery are recorded below.
+
+**Owner resume — 2026-10-17T02:01:53.149995+00:00.** The owner’s “Resume” restores the continuous authorized program. Published source remains `ee4e2882`; current main remains `55ed747f8c04d027a92496bb702f54697309f1f1`. Recovery verifies the pending clean main merge, unchanged source/method/frozen-model bytes and retained partial V14 discovery. Earlier pause wording above is historical. V14 resumes from recovered partial coverage, with no complete-reading or coding claim for interrupted work. Replacement reader sessions preserve their separate original annotation lineages and disclose the context handoff; they are not counted as extra independent discoveries.
+
+**V14 recovery and accepted analytical boundary.** The ordinary local merge `fb8049c267f711c4a09b2479cc05db0051776a1f` preserves published source `ee4e2882` and main `55ed747f` as ordered parents; its 15 imported Yuru Camp blobs change no KonoSuba or governing file. It is not yet a published analytical head. Root, the recovered producer lineage, the recovered independent humor/voice lineage and the new semantic reviewer have each completed an ordered pass through all 2,691 admitted V14 principal paragraphs. Their overlapping scopes are not summed. Both original uncoded discovery sets sealed before exchange; root fixed 154 disjoint units and all 44 original voice comparisons before formal assignment. Both complete classification/evaluation files then sealed before comparison. Current census grouping is 151 clear L0–L2 and three unresolved mixed units after an attributable source-form correction; the original 150/four comparison and both initial code histories remain preserved. The corrected seventeen-section reading, complete census/voice comparison and ten append payloads are accepted through the V14 receiving review. Initial drafts, sealed assignments and attributable source corrections remain preserved. Analytical high-water is V14; the last verified fully audited published source remains V13 at ee4e2882 until the containing V14 publication sequence is verified. V15 and every withheld, supplemental and edition-bonus narrative remain unopened.
+
+**V14 publication reconciliation — 2026-10-17.** The accepted principal transaction was published as `850b11bc38e1a0088e5f8205a6056b002d8196b4`, tree `0f31dd26428b1a8c82831e28ba86d2ab0ef92af0`; all eighteen remote blobs read back exactly. The pre-push main-head check was erroneous: this single-branch clone fetched main into FETCH_HEAD but checked a stale `origin/main` at 55ed747f. Live main 54ad4554 had already advanced and was not incorporated. This is an attributable publication-procedure correction, not a change to the accepted reading or frozen models. Explicit refspec fetching and a main tracking mapping now prevent that cached-ref error. The containing ordinary reconciliation preserves source 850b11bc and accepted main `5d3c740092dc142234d8617b5c2e729e03d6697f`, including the intervening Shuukura and Oregairu commits; all 47 imported blobs equal main and no KonoSuba analytical byte changes. First source audit 38998294732 succeeded for 850b11bc, but it cannot certify the reconciled head or close V14's full gate. This correction starts a fresh exact-head source-audit, housekeeping and final-audit cycle. V15 remains unopened pending that successful close and fresh source admission; its cached raw bytes alone are not narrative exposure. Earlier accepted-artifact publication statements retain their historical authorship boundary.
+
+**Technical publication blocker — 2026-10-17.** The reconciled V14 candidate passed final staged author preflight (7,983 paths), exact preservation checks and bounded receiving review. Before commit/publication, workspace Git and gh authentication began returning HTTP 401; ordinary public Git reads through the managed route also failed. Connected GitHub reads still verified source `850b11bc38e1a0088e5f8205a6056b002d8196b4`, main `5d3c740092dc142234d8617b5c2e729e03d6697f` and both required live ruleset details. The connected commit tool exposes no author/committer identity parameters, and its approved default authorship cannot be established; the checklist requires that confirmation before connector commits. No connector commit, ref update or credential workaround was attempted. The two-file provenance correction and all 47 exact main imports are retained locally for ordinary publication after workspace authentication is restored. This local blocker record is not itself a published authority transition. Next: refresh both live histories and protections, preserve any drift, revalidate the exact candidate, publish normally, verify all remote bytes and close the new source-audit → housekeeping → final exact-head gate; only then admit V15. Accepted V14 analysis, all freezes and the V15 narrative boundary remain unchanged.
+
+**Authentication recovery — 2026-10-17.** A subsequent ordinary gh request succeeded, and a fresh normal Git fetch plus authenticated owner check also succeeded without credential replacement, interactive login or provider-setting changes. The earlier HTTP 401 observations remain historical; their cause is unknown. Explicit fetched refs and separate live provider reads again agree on main `5d3c740092dc142234d8617b5c2e729e03d6697f` and source `850b11bc38e1a0088e5f8205a6056b002d8196b4`. Local merge `9f1b7b1b0d6a94f7de8d4dba7ac1146902f6a317` preserves both ordered parents, all 47 exact main imports and the two provenance records; its complete 49-path readback and recovery bundle verify. It has not been published at this update's authorship. The credential blocker is therefore resolved, not a reason to halt the authorized program. This successor records recovery only; fresh final-candidate validation, immediate live head/ruleset checks, normal publication, remote readback and the complete new audit cycle remain necessary. V15 narrative stays closed until that gate succeeds.
+
+**V15 source admission and working boundary — 2026-10-17.** After V14's verified exact-head close, MAIN-15 was freshly matched to Drive object `1cw7WsiP59V3sR3XIR8lFkpb5qGcSQhbc`, 2,513,225 bytes, SHA256 `ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005`. OPF, manifest, spine and both navigation routes identify Japanese `邪教シンドローム【電子特別版】`, author 暁 なつめ, KADOKAWA; opaque package identifier and historical date mismatch are retained without a new edition/provenance claim. Principal admission is exactly seven members `OEBPS/Text/part0009.xhtml`–`part0015.xhtml`, Pr/C1/C2/C3/C4/F/Ep, 3,013 all-body paragraphs, 2,737 nonempty and 100,670 native base characters, with all ruby retained and no non-p residual. Principal source processing began 2026-10-17T03:55:09.953304+00:00; root's first semantic display began 2026-10-17T03:55:58.699066+00:00, both after the completed V14 gate. V15 is IN_PROGRESS, not accepted or published analysis; the accepted high-water remains V14. Afterword part0016 and the TOC-identified bonus 貴族スタイル at part0018 remain unopened. Unlabeled wrappers part0008/0017 received structure-only checks with images unviewed. Post-bonus part0019 contains nonempty text found by mechanical inspection; its text was not displayed or semantically read. Stable component MAIN15-POSTBONUS-0019 remains unclassified and excluded from derivation, with actual component inspection required in the later expanded phase. All 25 unchanged Gen04 forecasts and earlier adverse histories govern; V16+, all four holdouts and all other later-stage narrative remain closed.
+
+**V15 complete principal reading and pre-coding freeze — 2026-10-17.** Root, the existing producer and independent discovery lineages, and the semantic reviewer have each completed the ordered 3,013-paragraph principal narrative; overlapping reading scopes are not additional independent samples. Root additionally inspected all 2,513 base/reading ruby pairs. Both uncoded discoveries sealed before exchange: 151 producer and 138 independent originals. After source-first boundary review, root accepted and froze 150 disjoint episodes and all 95 original voice comparisons at 2026-10-17T04:49:45.350815Z. All 289 original records, scoped flags and all 95 exact role/mapping/window/limit records remain preserved. All 36 soft-touched episodes stay in the primary denominator. The principal register is SHA256 `8170abee32eafc398e49d6ac410feef43c7bc52c66444caa7665ab87f045f16d`; the voice registry is `c8705ea43a718d802c7597386dcbc9708d7435866c88cd63f3bf1c60668104a1`. Separate complete coding is now authorized, with code/aggregate exchange closed until both full L/voice seals. Shared factual QA and collaborative boundary decisions preclude claims of full blindness or statistical independence. V15 remains IN_PROGRESS, without final analytical acceptance or publication; Gen04 and every later-source gate remain unchanged.
+
+**V15 publication gate closed — 2026-10-17T06:09:22.074526Z.** Exact source `f011d24aaaca31c95168ce05bed15ba1e9384056`, tree `1070bb906f640dfdf79fd8d3b4b43c6debcd1d32`, passed source audit39008208656/job117324931117, no-op housekeeping39008563180/job117325972140 and final audit39008585088/job117326038904. Actual AUDIT_COMMIT/SOURCE_SHA equal that source, despite dispatched-run metadata displaying main. Both audits passed all352 tests; the final exact Repository integration audit status became success at2026-10-17T06:07:53Z. Remote commit/tree/all7,989paths and all37changed streams match, including18authored KonoSuba paths and19exact main imports. No protected-main integration is asserted. Earlier pending statements preserve authorship history. The next operation is the separate V13–V15 checkpoint and Gen05 freeze, which must itself pass publication/audits before V16. All later/excluded/withheld narratives remain closed.
+
+**CP05 publication close and V16 admission — 2026-10-17.** The exact checkpoint source `b4c4c61412e93f16a218dcacd9d700253f6aea19` completed source audit39010598159/job117332129525, no-op housekeeping39010929332/job117333108900 and final audit39010954322/job117333184654; actual AUDIT_COMMIT/SOURCE_SHA agree despite default-main workflow display metadata. Both audits passed352tests on7,991paths. Final exact status became success at06:48:26Z; root gate close06:49:08.667886Z followed complete remote readback. No protected-main integration is asserted. Fresh published authority and exact Gen05 blocks/all25 forecasts were reloaded before the next source opened. MAIN-16 freshly matches Drive `1IDfx2vWkl8YzSpVVsl6Q-oPj2a-FwcYs`,8,530,869bytes,SHA256 `7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1`. OPF `item/standard.opf` declares Japanese; publisher/opaque identifier/creator-role limitations are preserved. Principal admission is exactly `item/xhtml/p-002.xhtml`–`p-011.xhtml`, ordered C1/I1/C2/I2/C3/I3/C4/I4/F/Ep:2,844all-body paragraph slots,2,657nonempty,111,788base characters and2,666ruby occurrences. Extraction/structure counts are not literary reading. Afterwordp012, bonusp014 **アクセルの街の名物女神**, unclassified postbonus `MAIN16-POSTBONUS-p015`, images/front/end matter remain semantically uninspected and excluded. The bonus’s full extent is unresolved. Root and the continuing three reader/reviewer lineages begin only the admitted principal reading; their overlapping scopes must not be summed or called new independent discoveries. V16 remains unaccepted/unpublished analysis.
+
+**V16 complete paired receiving and current assembly — 2026-10-17T08:34:48.304848+00:00.** Root has actually read all175 paired humor core rationales and all185 paired voice core rationales/eligibility/adequacy/function fields, with complete untruncated ranges recorded in seal `ROOT_COMPLETE_INITIAL_FORMAL_PAIRED_RECEIVING_READING_SEAL.json` at2026-10-17T08:32:08.239468Z. Previously fully read fixed metadata and byte-identical repeated boilerplate were reused explicitly; duplicated raw source arrays are not claimed freshly reread. Root also read all138 newly selected short-form/literal-gloss/pragmatic presentation records. The semantic review separately received all185 paired core voice records plus266 actual native paragraph rechecks, report SHA256 `c3cba2e9502a98f1c7e42ab48e231b327bf73d6fcbfe87884c652e14c90e1037`; its scope is not a second complete175-unit L receiving. The other discovery lineage completed all175/185 paired receiving and independently verified the public render. These overlapping scopes are not statistical trials or new initial coding. Originals, contrary evidence, fine differences and current factual errata remain attributable. The story-service countercase remains visible without adding a professional/water/physical-crisis eligibility floor after exposure. Current harm description is actual binding/tree suspension/rope pulling with threatened imminent execution, not completed execution/death; earlier insufficient repair wording is preserved historically.
+
+Final seventeen-section/ten-ledger composition, source-record reconciliation and root adoption remain pending. The ordinary clean merge now incorporates exact main `a532b3b7c7f7b0441575613a443f1adf73b8aca9` in the index, with all13 accepted Shuukura streams equal to that main; it is not yet committed or published. Local/source parent remainsb4c4c61. No KonoSuba or governance main change was imported. The source-four acceptance candidate is private and conditional on substantive final acceptance. V16 remains unaccepted/unpublished, accepted high-waterV15, currentGen05, and V17/extras/images/holdouts/expanded narrative remain closed.
+
+**V16 principal analytical acceptance — 2026-10-17T08:46:57.670477+00:00.** Root accepts the exact received seventeen-section reading, ten targeted ledger successors, full175/340/185 evidence histories and all25 local Gen05 assessments at the scopes in the receiving review. Humor remains173 clear portable/1L3/1mixed out of175, all38soft-touched retained;65 fine differences remain. The voice histories preserve153main/adjacent+32auxiliary, all370windows and meaningful disagreements. Root actually read all paired primary rationales and all138 new form/gloss/pragmatic selections; semantic and independent scopes remain separately bounded. Main-only Gen05 bytes/blank fields and all old histories stay exact. This is principal analysis only, with afterword/bonus/postbonus/image components still open.
+
+The containing transaction preserves the ordinary clean merge of sourceb4c4c61 and maina532b3b7, including all13 exact accepted Shuukura streams. Structured committed high-waterV16 describes this containing commit’s analytical contents, not a prior successful publication. Until exact publication/readback, source audit, housekeeping and final exact-head status succeed, the latest fully audited published boundary remains CP05 throughV15 and the next operation is **V16_PUBLICATION_GATE**. No V17 or later source is opened.
+
+**V16 first publication and concurrent-main reconciliation — 2026-10-17T08:55:55.877827+00:00.** The accepted analytical transaction published on exact source `df6955216e3f3a451f8857550689bd2bae710375`, tree `0ff34cae34ff35ae602429c9bcb8024631aa49bf`. Complete remote readback verified all8,002paths and all34changed streams (21KonoSuba/13exact main imports). Source audit39018796863/job117356272486 succeeded for that actual SHA. During its execution, owner-authorized nightly integration advanced main to `285393c1eaf0eab5c60a74f3c7a3e06bdeb611c8` through accepted ShuukuraV04 #201. Housekeeping39019123266/job117357203443 correctly failed the current-main ancestry check; there is no completed final gate.
+
+An ordinary clean reconciliation now imports that main’s11changed Shuukura streams exactly. No KonoSuba analysis, source identity, forecast, original scoring field, code, window, ledger finding or governance file changes through that import. Only the current map and existing run audit add this attributable publication receipt. The original V16 receiving review and all nineteen other analytical/source/evidence streams remain byte-identical to the accepted first publication. Earlier pending/authored status and first source audit are historical, not proof of the new containing commit. Fresh validation, nonforced publication/readback, source audit, housekeeping and final exact-head status are required for the reconciled head. V17 and every later-stage narrative remain closed.
+
+**V16 full publication close and V17 principal admission — 2026-10-17.** Source `4343c8bb5c162a4b35406f590b783a5e1735abb2`, tree `c9a12d3d546949a5402d93aba6b0b7908893da4c`, passed source39019357818/job117357886208, no-op housekeeping39019715353/job117358932274 and final39019738383/job117359003026. Actual AUDIT_COMMIT/SOURCE_SHA match4343 despite the dispatched workflows displaying main285393c1. Both audits executed all352tests without failures/errors/skips on8,004paths. Final exact Repository integration audit status became success2026-10-17T09:09:34Z; root gate close09:10:10.172553Z followed exact remote tree/path/blob readback. No protected-main integration is asserted. This reconciles the stale pending state without rewriting historical receipts. **Count clarification:** the prior receipt’s “receiving review and all nineteen other” wording means19 total analytical/source/evidence streams: the review plus18 others, excluding the two map/audit streams. All19 are byte-identical to first publicationdf695; its failed concurrent-main housekeeping remains historical, not a current blocker.
+
+Fresh published authority, all25 unchanged Gen05 contracts and V16 local/adverse history were recovered before source admission. Root and three continuing reader/reviewer lineages preserve their original pre-exposure preparation/questions and separately attributable4343 reloads; reused complete prior reads are distinguished from new provenance-delta reads. No additional independent reader or full blindness is claimed. MAIN-17 matches canonical Drive `1IIFWiOJ25qVMxlU10HxHDQl-m89ygoqz`,2,197,695bytes,SHA256 `5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c`. Fresh OPF2.0 `content.opf` declares Japanese and reproduces the governed title/creator/publisher/opaque identifiers and both distinct dates; identifiers are not asserted as publisher ISBNs. The exact principal allowlist is `text/part0009.html`–`part0013.html`, C1/C2/C3/F/Ep,2,608all-body paragraph slots/2,327nonempty/89,511base characters/2,269ruby occurrences, no non-p residual. Native1-based paragraph locators include blank/image slots, separate base/rt-rp and preserve native member hashes, ruby and break metadata. These extraction counts are not completed literary reading.
+
+Afterwordpart0014, navigation-identified colophonpart0016, image/front/end material and all other edition components remain semantically uninspected. Structure-only pre-navigationpart0006 and post-colophonpart0017 have stable identities `MAIN17-PREFRONT-0006` and `MAIN17-POSTCOLOPHON-0017`; actual later component classification is required. Navigation supplies no separate bonus label, which does not prove bonus fiction absent. All images remain unviewed. Only the five principal members are released for complete source-first reading, separate uncoded humor/voice discovery and later fixed-input coding. Accepted/published high-water remainsV16; V17 remains IN_PROGRESS without outcome, acceptance or publication. All four holdouts and expanded narrative remain closed.
+
+**V17 complete source passes and uncoded discoveries — 2026-10-17T09:54:24.113789+00:00.** Root and the continuing producer, independent-discovery and semantic-review lineages have each completed the ordered five-member principal pass: 2,608 all-body paragraph slots, 2,327 nonempty, 89,511 base characters and 2,269 ruby occurrences. Their overlapping scopes are not summed. Both original uncoded discoveries sealed before exchange: 185 producer + 157 independent humor candidates, and 99 + 144 fixed voice records (243 total, 194 main-four/adjacent + 49 auxiliary, 486 original windows). All original artifact hashes and every original interval/window have passed the declared native/derivative integrity checks. Those checks are mechanical and do not themselves establish literary acceptance.
+
+The shared uncoded union proposal preserves all 342 original candidates and all 243 voice originals. Its provisional 179 disjoint premises, 43 soft-touched scopes and 62 overlap presentation groups remain **UNACCEPTED / UNFROZEN**, pending actual boundary/role/window receiving. No L/form/effect outcomes have been assigned or released. Root has received the complete 377-entry repeated metadata text catalog and all 185 producer humor metadata records; complete remaining original metadata/operative-boundary receiving is still underway. Separate root/semantic initial all-25 proposals sealed before their bounded exchange; attributable corrections preserve both originals and uncertainty. Producer's source-only all-25/prose remains shielded until its own draft seal. A separate source-register candidate passes bounded identity/preservation review but remains private and conditional on complete volume acceptance. None of these preparation steps accepts or publishes V17, freezes the final main-series evidence state, or opens any excluded/holdout/expanded source.
+
+**V17 exact uncoded input freeze — 2026-10-17T10:09:38.615911Z.** Root has completed actual receiving of all342 original humor substantive metadata, all243 original voice metadata and all179 whole-premise boundary rows, with exact repeated-text reuse disclosed. The producer completed its own all25/17-section/seven-narrative-ledger draft seal before peer metadata exposure; its preparation referent error and later source-fact corrections remain external to preserved originals. Bounded semantic receiving covers all243 voice metadata,486 mechanically verified windows and20new native ranges; this is not a second complete literary reread or a third initial coder. Source-order/speaker, reported anger, restriction-actor, narrator-inference and hash-contract qualifications are explicit.
+
+Root accepted and froze179 whole premises, all342 original provenance objects and all243 original voice comparisons at the stated time. All43 soft-touched scopes remain in the primary179 denominator;194main-four/adjacent+49auxiliary,486windows and62 presentation groups are not eligible independent trials. Exact humor bytes are6,301,699, SHA256 `bd1dc310cd57f4486ffad58e3b4962658299b726f7aeebb76e4d682270f8af42`; voice bytes10,649,511, SHA256 `60b3164aeed48363b0971a44c9888cfa28f58029c890cdb76c055f0343f89298`; root freeze receipt7,693bytes,SHA256 `14a64b4a1c33b6db9cf9e96e06bdfebf12208b1a93814d281ed9aaebc980e8dc`. Both continuing coders are separately assigning all fixed inputs; neither outcomes nor aggregates may be exchanged before both complete seals. Shared evidence, source/schema/role QA and boundaries limit independence; no full blindness or statistical reliability claim follows.
+
+The earlier UNACCEPTED/UNFROZEN statement is historical and is superseded only for input fixation. V17 remains IN_PROGRESS without analytical acceptance or publication. All25 provisional source-only proposals,120 narrative-ledger entries and the complete17-section draft are receiving further semantic review; formal sections and three remaining ledger responsibilities are unfinished. Accepted/published high-water remainsV16, Gen05 and all original blank pairs stay exact. This is neither the final main-series evidence freeze nor the mandatory main-only reconstruction-suite freeze. Every excluded body/image, holdout and expanded narrative remains closed. Fresh main is `16ed020c0a8d7c3d58a25057118e4cab280349b4`, one accepted ShuukuraV05 commit/11paths beyond integrated285393c1; no KonoSuba or governance change is present. Stable source remains4343c8bb, and ordinary main reconciliation is still required before V17 publication. OpenPR inspection finds no continuing KonoSuba PR; other active projects remain separate.
+
+**Historical paratext exposure clarification.** The accepted [V01–V03 checkpoint](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V01-V03_CHECKPOINT.md) §2 lists illustrations as corroborating paratext and §9.4 cites the V03 afterword concerning Japanese expression/translation. Those original statements remain historical; they do not establish a completed component inventory or independently verify which images were actually viewed. MAIN-03’s maintained matrix explicitly inherits principal completion while leaving exact component inspection unestablished. Current statements that excluded bodies/images remain closed describe the fresh continuation’s gated source exposure, particularly V14–V17; they must not be read as a claim that no earlier analyst ever encountered any paratext. The four designated holdout narratives remain unexposed in this continuation and no historical holdout opening has been established. The final main-only evidence/reconstruction baseline must route behavioral/fictional-event claims to admitted principal narrative, preserve this legacy contextual-exposure limitation, and leave actual afterword/visual/bonus component review to its authorized later stage. No source object, earlier reading/model/freeze or original source audit is rewritten, no legacy component is marked fully analyzed, and no excluded source is newly opened by this clarification.
+
+**Canonical entrypoint:** this file.
+
+**Governing framework documents:**
+
+1. `00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md`
+2. `00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md`
+3. `00 Frameworks and Methods/KONOSUBA_CHARACTER_RECONSTRUCTION_AND_VALIDATION_PROTOCOL.md`
+4. `00 Frameworks and Methods/KONOSUBA_JAPANESE_HUMOR_AND_VOICE_PROTOCOL.md`
+5. `01 Source Lock and Inventory/KONOSUBA_SOURCE_LOCK.md`
+6. `01 Source Lock and Inventory/KONOSUBA_SOURCE_INVENTORY.md`
+
+These documents are canonical methodology until explicitly superseded. Sequential readings and later syntheses must conform to them unless a documented methodological revision is made.
+
+## 3. Canonical source route
+
+**Primary-source root:** `Konosuba`
+
+Google Drive folder:
+Canonical Drive source-folder ID: `1cCqwK0Bvd9OjcnN8jdsixAQrVOmlFfuw`.
+
+Subdirectories:
+
+- `Main Series` - Japanese EPUBs V01-V17, source-complete.
+- `Short Stories` - four Yorimichi collections.
+- `Spin-offs` - seven novels: Explosions V01–V03, Continued Explosions V01–V02, Masked Devil and Fantastic Days.
+- `Extra - Dust` - V01–V07 and the separately titled, unnumbered continuation.
+- `Artbooks` - Cheers and Blessing.
+- `Fanbooks` - Official Memorial Fanbook.
+- `TRPG` - core and advanced rulebooks.
+- `Source Audit and Manifests` - six audit/import/propagation files; no EPUB.
+
+The [source inventory](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_INVENTORY.md) and [41-object coverage/admission matrix](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.md) reconcile all eight live folders: 17 main novels, 19 supplemental prose volumes and five mixed/reference books. The current audit manifest covers 36 objects; five later Calibre imports complete the 41. Newly retrieved bytes match all recorded hashes. The older 20-book language audit, V07 audit and 21-book Git inventory retain their historical scopes and are not present-corpus completeness certificates. The former migrated `drive-ref` fragments are unresolved in the current reference index; verified source-plane IDs in the inventory/matrix supply recovery without changing frozen migration records.
+
+## 4. Main-series source boundary
+
+### Present
+
+`V01 V02 V03 V04 V05 V06 V07 V08 V09 V10 V11 V12 V13 V14 V15 V16 V17`
+
+### Missing
+
+`none`
+
+The former V07 continuity gate was resolved on 2026-08-27. V07 is present in the canonical Main Series folder, matches the updated manifest SHA-256, and passed a dedicated Japanese-language/integrity audit. Canonical analysis may now proceed in sequence through V08-V17 subject to the established tranche checkpoints and frozen-prediction rules.
+
+## 5. Derivation corpus versus validation corpus
+
+### Core derivation corpus
+
+The Japanese main-series novels V01-V17 are the corpus from which the principal character models will be derived.
+
+### Withheld validation corpus
+
+The following material is intentionally withheld from core model construction until the main-series models have been frozen:
+
+- `Konosuba - Short Stories - Yorimichi.epub`
+- `Konosuba - Spin-off - Consulting the Masked Devil.epub`
+- `Konosuba Extra - Dust - Volume 06.epub`
+- `Konosuba Extra - Dust - Volume 07.epub`
+
+After chronology, canonicity, narrator/viewpoint, and character-coverage checks, suitable portions of these sources may be used as out-of-sample validation. This separation is deliberate: a model that predicts behavior in material it was not built from is stronger than one that merely explains the entire corpus retrospectively.
+
+### Expanded-corpus and post-validation stages
+
+The other 15 supplemental prose books, individual main-EPUB bonuses, and eligible fiction within the five mixed/reference books belong to a separate post-validation stage. Their presence does not expand main-series derivation. The [source-lock amendment](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_LOCK.md) and [architecture §9](00%20Frameworks%20and%20Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md#9-expanded-corpus-responsibility-amendment--2026-10-16) define the four-stage dependency and evidence-proportional outputs. Additional sources are supplementary-only in this run rather than selectively recruited tests. Image-only artbooks, fanbook and TRPG books require direct page/component inspection. Expanded synthesis remains incomplete until the full admitted narrative scope and required outputs have validated dispositions; the original four validation books are insufficient by themselves.
+
+## 6. Mandatory reconstruction subjects
+
+The initial mandatory full-model subjects are:
+
+- Satou Kazuma
+- Aqua
+- Megumin
+- Darkness
+
+Secondary characters are promoted to full reconstruction subjects only when the corpus provides enough varied evidence across speech, action, relationships, ordinary life, conflict, and changing stakes. Narrative importance alone is not sufficient.
+
+A secondary character may first receive a limited profile, relationship role, or voice note without being promoted to a full reconstruction model.
+
+## 7. Core analytical commitments
+
+The project treats comedy as evidence, but as evidence whose literalness must be adjudicated.
+
+The analyst must distinguish:
+
+- stable disposition from one-off gag;
+- trait from temporary state;
+- ignorance from bad reasoning;
+- ability from judgment;
+- judgment from self-regulation;
+- deliberate impracticality from inability;
+- comic amplification from realistic baseline behavior;
+- Kazuma's narration from independently observable character evidence;
+- literal semantic meaning from pragmatic Japanese-language effect;
+- affection from politeness or idealization;
+- ritualized conflict from genuinely relationship-threatening conflict;
+- canonical farce from behavior expected to transfer into a more realistic crossover context.
+
+The project aims to explain **why a character selects an apparently foolish action**, not merely to label the action foolish.
+
+## 8. Prospective model-validation rule
+
+Character-model development is intentionally prospective.
+
+At each checkpoint, the project must freeze the current model and record falsifiable behavioral predictions **before** reading the next tranche. Later evidence then receives one of the established revision states:
+
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
+
+Prediction failures are analytical evidence. They must not be erased by silently rewriting the earlier model after the fact.
+
+## 9. Planned analytical phases
+
+### Phase 0 - Framework, source lock, and baseline infrastructure
+
+**COMPLETE.** Governing methods, source lock, source inventory, and current-state map are established.
+
+### Phase 1 - V01-V03
+
+**COMPLETE.** V01-V03 deep readings are complete. `KONOSUBA_V01-V03_CHECKPOINT.md` freezes Model Generation 0.1, and `KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` preserves the V04-V06 predictions written before V04 exposure.
+
+### Phase 2 - V04-V06
+
+**COMPLETE.** V04-V06 prospectively tested frozen Model Generation 0.1. `KONOSUBA_V04-V06_CHECKPOINT.md` closes the tranche, adjudicates the 20 Gen 0.1 predictions, and freezes Model Generation 0.2. The frozen Gen 0.1 prediction text remains provenance and was not rewritten after exposure.
+
+The tranche result is 16 CONFIRMED, 2 PARTIAL/revision-bearing, 2 NOT_TESTED, and 0 complete falsifications. The count is not treated as a standalone score; the partial and untested cases remain open evidence obligations.
+
+### Phase 2.5 - V07 continuity gate
+
+**COMPLETE.** V07 was acquired, manifest-reconciled, Japanese-language/integrity audited, registered in the source inventory/lock, and only then opened for canonical analysis. The old 20-book source audit remains preserved as historical provenance; a dedicated V07 audit records the gate closure.
+
+### Phase 3 - V07-V09
+
+**COMPLETE.** V07-V09 prospectively tested the immutable Model Generation 0.2 predictions. `KONOSUBA_V07-V09_CHECKPOINT.md` closes the 22-prediction tranche: 13 CONFIRMED, 5 PARTIAL, 3 NOT_TESTED and 1 AMBIGUOUS. The partial cases include a locally failed cost-inhibition prediction (`MG02-M02`); `MG02-M04` remains AMBIGUOUS. Model Generation 0.3 and its 25 V10-V12 predictions are frozen after V09 and before V10 exposure. The original Gen 0.1/0.2 wording and historical outcomes remain preserved.
+
+### Phase 4 - V10-V12
+
+**COMPLETE.** V10–V12 principal narratives, separate local outcomes, complete pooled J02 review and formal25-prediction adjudication are accepted. The [V10–V12 checkpoint](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md) freezes Gen04 and25 V13–V15 forecasts. All prior freezes and outcomes remain immutable; source-branch publication/readback and exact-head CI remain separately verified obligations.
+
+### Phase 5 - V13-V15
+
+**COMPLETE.** V13–V15 principal analyses and formal Gen04 closeout 6C/7P/12NT are accepted. CP05 froze Gen05 through V15 before V16 exposure; source b4c4c614 completed its full exact publication gate. All 75 local records, original 25 blank pairs and adverse evidence remain preserved.
+
+### Phase 6 - V16-V17
+
+**COMPLETE AND PUBLISHED.** All17 principal readings and final Gen05 checkpoint8C/6P/1F/3AMB/7NT are accepted. CP06 and the exact main-principal evidence freeze completed publication/readback and their full a1539842 gate as recorded above. The separate reconstruction-suite freeze and exact3b92 publication gate are closed; unchanged-baseline validation and all later stages remain active.
+
+### Phase 7 - Specialist synthesis
+
+**COMPLETE AND PUBLISHED.** Root accepted all seven at 2026-10-17T13:04:45.202871+00:00 after full new-prose receiving, material source checks and bounded versioned repairs. The [receiving review](09%20Audits%20and%20Manifests/KONOSUBA_MAIN_ONLY_SPECIALIST_SYNTHESIS_RECEIVING_REVIEW.md) pins the current bodies and limitations; [six claim revisions](08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md) qualify old amount, institution, recipient, agency and object wording without changing frozen66 or prospective histories. The managed-cloud continuing lineages share context; no fresh/human/statistical-independence certification is implied. This batch completed its exact39b498f1 publication/readback/source-audit/housekeeping/final-status gate as recorded above. The original received specialist snapshot remains retrievable at39b498f1; current Darkness age wording is qualified through attributable CR-MAIN007, while the other six bodies remain unchanged. Historical candidate/adoption-pending language is superseded by the live entrypoint.
+
+- [KONOSUBA_KAZUMA_CHARACTER_MONOGRAPH.md](05%20Specialist%20Synthesis/KONOSUBA_KAZUMA_CHARACTER_MONOGRAPH.md)
+- [KONOSUBA_AQUA_CHARACTER_MONOGRAPH.md](05%20Specialist%20Synthesis/KONOSUBA_AQUA_CHARACTER_MONOGRAPH.md)
+- [KONOSUBA_MEGUMIN_CHARACTER_MONOGRAPH.md](05%20Specialist%20Synthesis/KONOSUBA_MEGUMIN_CHARACTER_MONOGRAPH.md)
+- [KONOSUBA_DARKNESS_CHARACTER_MONOGRAPH.md](05%20Specialist%20Synthesis/KONOSUBA_DARKNESS_CHARACTER_MONOGRAPH.md)
+- [KONOSUBA_PARTY_ENSEMBLE_SYNTHESIS.md](05%20Specialist%20Synthesis/KONOSUBA_PARTY_ENSEMBLE_SYNTHESIS.md)
+- [KONOSUBA_HUMOR_SYSTEM_SYNTHESIS.md](05%20Specialist%20Synthesis/KONOSUBA_HUMOR_SYSTEM_SYNTHESIS.md)
+- [KONOSUBA_JAPANESE_LANGUAGE_AND_COMEDY_SYNTHESIS.md](05%20Specialist%20Synthesis/KONOSUBA_JAPANESE_LANGUAGE_AND_COMEDY_SYNTHESIS.md)
+
+### Phase 8 - Reconstruction suite
+
+**ACCEPTED, FROZEN AND PUBLISHED; EXACT3b92 GATE CLOSED.** Root accepted the complete six-model main-only derivation and simulation/receiving suite at2026-10-17T15:04:33.118647+00:00; actual freeze followed2026-10-17T15:05:30.667128+00:00. The [suite audit](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md) and [freeze receipt](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json) bind exact models,39 behavioral/valuation commitments (38+1), four typed constraints,45 fixed settings/90 first responses, settings, original assessment and governing six-record overlay. Eleven received localized diagnostic operations preserve every first output. The party credit case is qualified locally adverse with its prebound rival;34 commitments lack a full initial conjunction. No VERY_HIGH, overall accuracy or fresh blind-source claim follows. Only after the separate source publication/readback/sourceaudit/housekeeping/finalactualheadgate closes may the four designated holdouts open. The unchanged main-only baseline and eventual validation scorecard remain independently retrievable through all later revisions.
+
+### Phase 8.5 - Frozen-model holdout validation and expanded evidence
+
+**FOUR PRINCIPAL VALIDATION PROGRAMS ACCEPTED AND PUBLISHED; EXPANDED PROGRAM IN_PROGRESS.** The unchanged MAIN_ONLY_R1 tests were fixed before exposure; accepted source-local outcomes and all39 four-book diagnoses are published atc7811557 with full exact-source gate closed21:58:19.916567Z. YORI K08 and DUST07 E06 local failures, ambiguity/missingness/contrary evidence and reviewer limits are preserved. Stage C now separately admits Dust01 principal prose; complete expanded literary/component analysis of all19 supplements,17 main-edition excluded-component programs and five mixed/reference books remains required. Validation reading is not whole-edition completion or Stage D model revision.
+
+### Phase 9 - Full-series synthesis and archival closure
+
+Full-series synthesis, evidence indexes, claim revision ledger, final source/authority audit, and corpus-map conversion to stable release form if the project is frozen.
+
+## 10. Folder materialization policy
+
+Do not create empty folders merely because the target architecture contains them. Create each layer when it has a distinct active responsibility.
+
+Current materialized layers:
+
+- `00 Frameworks and Methods`
+- `01 Source Lock and Inventory`
+- `02 Sequential Readings`
+- `03 Longitudinal Ledgers`
+- `04 Checkpoints and Model Validation`
+- `05 Specialist Synthesis`
+- `06 Character Modeling and Reconstruction`
+- `08 Evidence and Indexes`
+- `09 Audits and Manifests`
+
+Later folders should be materialized only when the first artifact of that role is generated.
+
+## 11. Retrieval precedence
+
+For later work, retrieve in this order:
+
+1. this `CURRENT_STATE_AND_CORPUS_MAP.md`;
+2. governing framework/method document for the task;
+3. latest checkpoint and prospective prediction state;
+4. relevant longitudinal ledger;
+5. relevant volume deep reading;
+6. specialist synthesis or reconstruction model once those exist;
+7. Japanese primary source for final verification.
+
+A later synthesis never licenses invented evidence. Exact wording, linguistic claims, and scene-level assertions should escalate to the Japanese source.
+
+## 12. Current sequential state
+
+### Completed
+
+- `02 Sequential Readings/KONOSUBA_V01_DEEP_READING.md` — active provisional V01 authority.
+- `02 Sequential Readings/KONOSUBA_V02_DEEP_READING.md` — active provisional V02 authority.
+- `02 Sequential Readings/KONOSUBA_V03_DEEP_READING.md` — active provisional V03 authority.
+- `02 Sequential Readings/KONOSUBA_V04_DEEP_READING.md` — active provisional V04 authority; first prospective validation volume against Model Generation 0.1.
+- `02 Sequential Readings/KONOSUBA_V05_DEEP_READING.md` — active provisional V05 authority; second prospective validation volume against Model Generation 0.1.
+- `02 Sequential Readings/KONOSUBA_V06_DEEP_READING.md` — active provisional V06 authority; tranche-closing prospective validation volume against Model Generation 0.1.
+- `02 Sequential Readings/KONOSUBA_V07_DEEP_READING.md` — active provisional V07 authority; first prospective validation volume against Model Generation 0.2.
+- `02 Sequential Readings/KONOSUBA_V08_DEEP_READING.md` — active provisional V08 authority; second prospective validation volume against Model Generation 0.2.
+- `02 Sequential Readings/KONOSUBA_V09_DEEP_READING.md` — active provisional V09 authority; tranche-closing prospective validation volume against Model Generation 0.2.
+- `02 Sequential Readings/KONOSUBA_V10_DEEP_READING.md` — active provisional V10 authority; first prospective validation volume against frozen Model Generation 0.3, with the V10-V12 tranche still open.
+
+- [KONOSUBA_V11_DEEP_READING.md](02%20Sequential%20Readings/KONOSUBA_V11_DEEP_READING.md) — active provisional V11 authority; second local prospective test of Gen03, complete main narrative and synchronized ledgers.
+
+- [KONOSUBA_V12_DEEP_READING.md](02%20Sequential%20Readings/KONOSUBA_V12_DEEP_READING.md) — active provisional V12 authority; third local prospective test of Gen03, complete principal narrative and synchronized ledgers.
+
+- [KONOSUBA_V13_DEEP_READING.md](02%20Sequential%20Readings/KONOSUBA_V13_DEEP_READING.md) — active provisional V13 authority; first local prospective test of Gen04, complete principal narrative and synchronized ten-ledger record.
+
+- [KONOSUBA_V14_DEEP_READING.md](02%20Sequential%20Readings/KONOSUBA_V14_DEEP_READING.md) — active provisional V14 authority; second local prospective test of Gen04, complete admitted principal narrative, source-first census/voice work and synchronized ten-ledger record.
+
+- [KONOSUBA_V15_DEEP_READING.md](02%20Sequential%20Readings/KONOSUBA_V15_DEEP_READING.md) — active provisional V15 principal authority; third local Gen04 contribution with complete source-first census/voice work and all ten synchronized ledgers.
+
+- [KONOSUBA_V13-V15_CHECKPOINT.md](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md) — accepted formal Gen04 closeout, pooled humor/voice responsibility and Gen05 freeze; exact b4c4c614 publication gate is closed.
+
+- [KONOSUBA_V16_DEEP_READING.md](02%20Sequential%20Readings/KONOSUBA_V16_DEEP_READING.md) — accepted principal reading; exact 4343 publication gate closed.
+
+- [KONOSUBA_V17_DEEP_READING.md](02%20Sequential%20Readings/KONOSUBA_V17_DEEP_READING.md) — accepted principal reading; exact 4b4ed3ad publication gate closed.
+
+- [KONOSUBA_V16-V17_FINAL_SEQUENTIAL_CHECKPOINT.md](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V16-V17_FINAL_SEQUENTIAL_CHECKPOINT.md) — accepted separate25 Gen05 adjudications, terminal state/failures, earlier92 reconciliation and main-principal evidence freeze; exacta1539842 full publication gate closed.
+
+### Active cumulative ledgers through V17
+
+- `KONOSUBA_CHARACTER_STATE_LEDGER.md`
+- `KONOSUBA_RELATIONSHIP_STATE_LEDGER.md`
+- `KONOSUBA_DECISION_ERROR_LEDGER.md`
+- `KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md`
+- `KONOSUBA_HUMOR_MECHANICS_LEDGER.md`
+- `KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md`
+- `KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md`
+- `KONOSUBA_KAZUMA_NARRATOR_LEDGER.md`
+- `KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md`
+- `KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` — preserves all older freezes and blank fields, formal Gen03 closeout and all75 Gen04 local records; adds the separate formal Gen04 tranche closeout and the exact25 Gen05 V16–V17 forecasts. Gen05 remains the exact CP05 main-only freeze through V15; accepted separate V16/V17 local histories append without filling its blank original pairs. The separate final checkpoint accepts 8C/6P/1F/3AMB/7NT and pins all ten ledger states. The Gen05 main-only V15 freeze is preserved; no local outcome or original blank pair is overwritten.
+
+### V01-V03 Model Generation 0.1 state
+
+`04 Checkpoints and Model Validation/KONOSUBA_V01-V03_CHECKPOINT.md` is the canonical first model freeze. Model Generation 0.1 was derived only from V01-V03 main narrative and was frozen before V04 exposure.
+
+`03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` preserves the immutable prospective V04-V06 predictions and their completed V04-V06 adjudications. It now also contains Model Generation 0.2 predictions for V07-V09 frozen before any V07 exposure. Earlier prediction text may not be rewritten.
+
+Checkpoint-level conclusions include: Kazuma's systems/exploit competence is strong but not identical to globally high judgment; Aqua's global “uselessness” and globally weak-updater models are rejected in favor of extreme competence plus state-specific deployment/externality errors; Megumin's Explosion commitment is a knowingly protected identity rather than low intelligence; Darkness wants specific danger/powerlessness conditions while also strongly valuing contribution, protector duty, and belonging; party attachment is better inferred from costly action than reduced verbal aggression.
+
+The V01 EPUB ebook bonus `アクア先生`, V02 ebook purchase bonus, and V03 ebook bonus `眠れる森のクルセイダー` are treated as non-sequential supplementary material pending chronology adjudication. They do not update the canonical longitudinal model at this stage.
+
+### V04 prospective-validation state
+
+V04 produced strong support for Model Generation 0.1 without a clear falsification, but the project does not convert this into an early Model Generation 0.2. Key V04 interim outcomes include:
+
+- `MG01-K01` CONFIRMED with unusually strong replication of both exploit preference and the predicted embodied second-order blind spot;
+- `MG01-E01` CONFIRMED by two independent specialist-routing resolutions (Running Hawk-Kites and Hans);
+- Kazuma concrete loyalty, grievance retaliation, and mixed-motive predictions confirmed at V04 level;
+- Aqua sacred/domain diagnosis, loyalty-by-action, and high-output externality mechanisms strongly supported;
+- Megumin social-framing and group-support predictions confirmed, while direct friendly-fire inhibition remains untested in V04;
+- Darkness protector/contribution/belonging predictions confirmed, while pain-based coercion receives only partial/supportive evidence;
+- Japanese seriousness/register-shift and non-L3-dominant humor predictions confirmed at V04 level.
+
+The V04 ebook bonus `町内会の不死の王` remains supplementary paratext pending chronology adjudication and does not update the sequential model.
+
+### V05 prospective-validation state
+
+V05 provides a second prospective test and, unlike V04, introduces a genuine model-boundary revision alongside broad confirmation. Key V05 outcomes include:
+
+- `MG01-K01` strongly CONFIRMED again: Japanese interface/facility exploitation succeeds locally but produces the Magic Killer second-order disaster, independently replicating Kazuma's post-transition consequence blind spot;
+- Kazuma concrete loyalty, grievance retaliation, and mixed-motive predictions remain CONFIRMED; V05 newly shows that identity recognition can override his own optimization preference when he preserves Megumin's Explosion build;
+- Aqua sacred/domain action and loyalty-by-action remain CONFIRMED, while `MG01-A03` tedious-duty shortcut remains NOT_TESTED;
+- `MG01-M01`, `M02`, and `M03` are strongly CONFIRMED; V05 also reveals that Megumin can voluntarily abandon Explosion identity under sufficiently strong relational guilt/contribution pressure; `M04` friendly-fire inhibition remains NOT_TESTED;
+- Darkness protector and meaningful-contribution predictions remain CONFIRMED; pain-only coercion still lacks a clean matched test; noble/belonging anxiety remains active and the royal invitation makes V06 a high-value direct test;
+- `MG01-E01` and `E02` are strongly CONFIRMED by the Sylvia/Magic Killer routing and reciprocal cleanup/identity-preservation behaviors;
+- `MG01-J02` remains CONFIRMED; `MG01-J01` is now PARTIAL and requires REVISE because Yunyun becomes *more* theatrically Crimson-Demon-like under serious duty, showing that seriousness realigns register around active role rather than universally reducing theatricality.
+
+V05 also supports mutual Kazuma/Megumin romantic interest as an active relationship variable, but not formal couple status.
+
+The V05 ebook bonus, if present in the collected EPUB, remains supplementary paratext pending chronology adjudication and does not update the sequential model.
+
+### V06 prospective-validation and Model Generation 0.2 state
+
+V06 closes the first prospective-validation tranche. `04 Checkpoints and Model Validation/KONOSUBA_V04-V06_CHECKPOINT.md` is the canonical Generation 0.2 freeze. Final Gen 0.1 adjudication across V04-V06: **16 CONFIRMED, 2 PARTIAL/revision-bearing, 2 NOT_TESTED, 0 complete falsifications**.
+
+Key tranche-closing revisions and discoveries include:
+
+- Kazuma's indirect exploit competence remains strongly supported, but V06 isolates a distinct failure mode: status/recognition success can induce overextension even without an exploit-transition error;
+- Kazuma is not indispensable to high-stakes victory when an institution supplies role structure. His comparative advantage is strongest in novel, under-structured, rule-heavy, cross-domain problems;
+- Kazuma's recurring fantasy of replacing his dysfunctional party is downgraded as a stable preference: actual separation/reclassification produces attachment and exclusion anxiety;
+- Aqua remains an elite sacred/support specialist whose judgment quality depends heavily on context, salience, and incentives; `MG01-A03` remains untested rather than being confirmed by analogy;
+- Megumin's Explosion commitment is relationally permeable rather than absolute, while direct serious valued-companion friendly-fire inhibition (`MG01-M04`) remains untested under a clean matched trigger;
+- Darkness's protector ethic now clearly includes social fairness/dignity protection and can override royal hierarchy; peer-belonging sensitivity remains a stronger psychological vulnerability than generic pain, while pain-only coercion (`MG01-D02`) remains only partially tested;
+- the ensemble routing theorem is revised from “Kazuma routes the specialists” to **“successful extreme specialization requires routing, but the routing source is substitutable”**;
+- the Japanese seriousness rule is revised from universal de-theatricalization to **register alignment with the role/identity that becomes authoritative under serious stakes**;
+- Iris is promoted to a secondary reconstruction candidate based on V06 evidence about constrained agency, nondeferential safety, learning, royal duty, and older-brother attachment. She is twelve in this source state; present behavior must not be back-projected into adult romantic commitment.
+
+Model Generation 0.2 was frozen before V07 exposure. `KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` contains the immutable 22 V07-V09 predictions plus V07 and V08 prospective-validation addenda. V09 remains required before Model Generation 0.3.
+
+The V06 author afterword is excluded from character-model derivation. Narrative interlude and epilogues are included because they resolve causal and relationship state within the volume.
+
+### V07 prospective-validation state
+
+V07 is the first prospective test of Model Generation 0.2 and strongly validates several mechanism-level predictions without creating an early new model generation.
+
+Key V07 outcomes include:
+
+- `MG02-K01` and `K02` CONFIRMED strongly: Kazuma solves the Hydra and Dustiness/wedding problems through state changes, weak-tool/incentive exploits and then sacrifices his IP/wealth route for a concrete companion loss;
+- `MG02-K04` CONFIRMED strongly: Darkness's credible departure/marriage produces loneliness, failed replacement, investigation and rescue;
+- `MG02-K03` receives PARTIAL support from post-Sylvia status inflation but no clean V07 dangerous overextension;
+- `MG02-A01` CONFIRMED very strongly through Hydra domain reasoning and instant removal of Dustiness father's hidden demonic curse; `A02` is strongly confirmed by the false dragon-egg prestige/caretaking capture; `A03/A04` remain cleanly untested;
+- `MG02-M01` Trigger A and `M03` are strongly confirmed; `M02` receives partial support and `M04` remains untested;
+- `MG02-D01`, `D03`, and especially `D04` receive strong confirmation. V07 adds a new Darkness failure path: protector paternalism/self-erasure through concealed burden absorption;
+- `MG02-D02` is strongly confirmed for belonging sensitivity through resignation and re-entry anxiety, while pain-only coercion remains incompletely tested;
+- `MG02-E01/E02` are strongly confirmed. Community/social capital is now an explicit routing/resource layer;
+- `MG02-J01/J02` are confirmed at V07 level; Megumin's serious `bad wizard` rescue is a direct example of seriousness increasing theatricality around the authoritative role;
+- Iris `I01/I02` are not tested because Iris is not directly present in qualifying V07 scenes.
+
+V07 also confirms Chris/Eris identity within the canonical sequence through Kazuma's behavioral/address-pattern deduction.
+
+The V07 ebook bonus `たまにはお礼を言いたくて` remains supplementary paratext pending chronology adjudication and does not update the sequential model.
+
+
+### V08 prospective-validation state
+
+V08 is the second prospective test of Model Generation 0.2. It adds several strong confirmations plus useful non-tests without creating an early model generation.
+
+Key V08 outcomes include:
+
+- `MG02-K01` and `K02` CONFIRMED strongly through joint-festival incentive architecture, Aigis preference modeling, entrusted Chris/Eris artifact duty and Kazuma's crowd-cover action;
+- `MG02-K03` receives a cleaner noncombat confirmation: advisor praise/sales success increases scope, status reward and reputational/social risk;
+- `MG02-A01` is strongly confirmed in the guild insect-support role; `A02` is very strongly confirmed by worship/status goal substitution;
+- `MG02-A03` is now strongly supported as **selective real learning plus state-dependent defense**: Aqua prospectively applies a learned overconfidence rule, yet later defends the pyramid scheme while status/legal face-saving remains available;
+- `MG02-A04` remains untested;
+- Megumin `M01` receives partial support, while `M02`, `M03` and `M04` do not receive clean trigger matches. The forest Explosion provides strong inverse-condition evidence for why safe target separation matters;
+- `MG02-D01`, `D02` and `D03` are strongly supported; V08's ant versus public-stage contrast materially strengthens the semantic/agency-sensitive Darkness model. `D04` is not newly tested;
+- `MG02-E01` is strongly confirmed by guild versus Kazuma routing substitution, while `E02` is not newly tested;
+- `MG02-J01/J02` are confirmed at V08 level;
+- Iris `I01/I02` remain untested because Iris is absent.
+
+V08 also adds two major relationship developments: direct Megumin romantic interest with interrupted Kazuma reciprocity, and a serious Kazuma/Darkness intimacy branch constrained by Darkness's fairness toward Megumin. Neither establishes formal couple status.
+
+Chris/Eris is expanded as a secondary reconstruction candidate: V08 explicitly distinguishes divine and Chris social modes while preserving identity continuity, and identifies conscientious over-compliance as a new possible failure mechanism.
+
+The V08 ebook bonus `漢のロマンを叶えるために` remains supplementary paratext pending chronology adjudication and does not update the sequential model.
+
+### V09 prospective-validation and Model Generation 0.3 state
+
+The [V09 receiving review](09%20Audits%20and%20Manifests/KONOSUBA_V09_RECEIVING_REVIEW.md) records acceptance, bounded source verification and correction RC-V09-01. Read its equipment-disposal correction alongside frozen CP03-M05; the original model and prediction bytes remain preserved.
+
+V09 is complete as the third and tranche-closing prospective test of Model Generation 0.2. `02 Sequential Readings/KONOSUBA_V09_DEEP_READING.md` is the active provisional V09 reading authority. The prologue, main chapters and both narrative epilogues are included; afterword, ebook bonus, poll and other non-main-narrative material do not contribute to the canonical model.
+
+`04 Checkpoints and Model Validation/KONOSUBA_V07-V09_CHECKPOINT.md` is the completed tranche checkpoint and canonical Model Generation 0.3 freeze. Its 22-row Gen 0.2 closeout is **13 CONFIRMED, 5 PARTIAL, 3 NOT_TESTED and 1 AMBIGUOUS**. The checkpoint preserves the exact frozen predictions and the original V07/V08 outcome wording alongside V09 evidence, confidence transitions and failure diagnostics.
+
+The count must be read with its boundaries: `MG02-M02` is PARTIAL with a locally failed ordinary-companion-cost inhibition prediction; `MG02-M04` is AMBIGUOUS because adverse collateral is visible but the full serious-harm/tactical-choice trigger is unresolved. `MG02-E01` is PARTIAL and requires revision of the broad routing-necessity claim. These results are not erased by narrower Gen 0.3 hypotheses. Untested inherited branches remain untested rather than gaining confirmation from analogous scenes.
+
+Model Generation 0.3 is derived from Japanese V01-V09 main-narrative evidence and its **25 V10-V12 predictions are already frozen before any V10 narrative exposure in this analytical session**. The exact block and freeze receipt are identified by the checkpoint and prediction ledger; outcome/adjudication fields remain blank. V10 is next, as the first prospective test of this frozen generation. Retrieve and preserve that block before opening V10.
+
+The earlier V01-V08 subsections, including the V06-era Gen 0.2 freeze-state prose, remain historical records of their original analytical states. Their future-facing statements are not rewritten; this V09 subsection and the live status/next-action fields provide the current continuation state.
+
+### V10 local prospective-validation state
+
+The [V10 receiving review](09%20Audits%20and%20Manifests/KONOSUBA_V10_RECEIVING_REVIEW.md) records acceptance and source-timing correction RC-V10-01. The correction preserves all frozen predictions and V10 outcome labels.
+
+V10 is complete as the first prospective test of frozen Model Generation 0.3. `02 Sequential Readings/KONOSUBA_V10_DEEP_READING.md` is the active provisional V10 reading authority. The prologue, Chapters 1–5 and narrative epilogue (`text/part0009.html`–`text/part0015.html`) were read completely in sequence: 3,026 all-body paragraphs. Afterword, ebook bonus, other paratext and uninspected illustrations do not contribute narrative evidence; V11+, withheld side narrative and external series knowledge were not used.
+
+The V10 local addendum in `03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` adjudicates all 25 Gen03 predictions: **6 CONFIRMED, 6 PARTIAL and 13 NOT_TESTED**, with no whole-row AMBIGUOUS or FALSIFIED outcome. This is a local coverage record, not a closed-tranche score. PARTIAL rows retain tested versus untested branches and contrary evidence; NOT_TESTED does not count as confirmation or failure.
+
+Key boundaries include: `MG03-K01` supports indirect search and delegation without fully replicating the exact new-capability revision branch; `MG03-M01` supports specialist identity activation without isolating companion-utility priority; `MG03-D02` supports audience sensitivity while retaining enjoyment of actual coercive control as contrary agency-component evidence; `MG03-E01` supports deployment repair without completing the alternative-provider/comparative branches. `MG03-J01` remains mapping-specific, and `MG03-J02` remains open for the complete V10–V12 pooled census. The single admired meal, farm casts/return hunt and Iris's duty-linked self-restriction do not silently fill the stricter repeated-service, planned-exit, weakening-operation or original-wish/duty triggers.
+
+The funding decision's chronology is material: Levi agrees to continued defense and additional offensive support before Ragcraft's identity is exposed. Later exposure strengthens gratitude and the alliance; it does not cause the earlier support reversal. Specialist success also retains its actual contributions and limits: Aqua's engaged support competence does not erase the fugu readiness failure; Darkness initiates protective actions and the gag-release escape idea; Iris supplies the dragon's terminal attack and independently defeats the impersonator as Kazuma and Darkness try to open her door, before they can intervene.
+
+Model Generation 0.3 remains the current frozen prospective model, derived from V01–V09. Its exact 25-prediction V10–V12 block remains **45,675 bytes**, SHA-256 `ebe83ef5dc87fc2e85f8f711e2ba373239d4eea4fd14f466537dbd3625d76150`, with original Outcome/Adjudication fields blank. The model block remains **17,746 bytes**, SHA-256 `dfd92578ddef97eeaf942a6a5d713f37a84678abc9433bce05d36d2ec659d85a`. V10 evidence is additive; frozen wording, confidences and disconfirmation conditions are unchanged. The V09 receiving correction RC-V09-01 continues to govern the earlier equipment-disposal shorthand without rewriting frozen bytes.
+
+Phase 4 V10–V12 is **ACTIVE**, with V10 complete and the tranche **OPEN**. V11 is next, **UNOPENED and awaiting new authorization**. No V10–V12 checkpoint or Model Generation 0.4 freeze has been completed, and no V13–V15 prediction set is created at this stage. The completed V07–V09 checkpoint remains the current model-freeze authority.
+
+Source-policy metadata remains a separate responsibility. The source-lock reading-state lag and the previously user-reported expanded side-corpus inventory lag remain deferred as recorded in the V09 receiving review; the expanded inventory was not re-audited by this V10 analysis. No source lock, inventory, source-route listing or withholding rule is updated by this state change. Side narratives remain withheld under the governing source policy.
+
+All earlier V01–V09 subsections, including their original future-facing freeze/next-volume statements and the V09 receiving-review route, remain historical records. This V10 subsection and the live current-state/next-action fields supply the current continuation state without rewriting those records.
+
+### V11 local prospective-validation state
+
+The [V11 reading](02%20Sequential%20Readings/KONOSUBA_V11_DEEP_READING.md) and [receiving review](09%20Audits%20and%20Manifests/KONOSUBA_V11_RECEIVING_REVIEW.md) close the main source through epilogue P0143: seven members, 2,865 all-body paragraphs, 108,101 base characters. All ten ledgers carry additive V11 records. The 25 local outcomes are **8 CONFIRMED / 4 PARTIAL / 12 NOT_TESTED / 1 FALSIFIED**.
+
+`MG03-K04` fails locally: Kazuma notices Aqua’s actual tears and continues the selected teasing/humiliation before later relief. Legitimate property recovery and eventual mercy remain coexisting evidence. `MG03-I02` now has a clean expressed-wish/understood-duty/narrowed-request match. `MG03-E02` remains untested because the required efficiency-promising reorganization is not established, despite actual lasting retirement and strong household resistance. Missing safety/logistics, harm-knowledge and membership-change conjuncts remain visible in M03/M05/D02.
+
+The complete V11 humor census contains 112 fixed episodes: 108 clear L0–L2, 2 L3 and 2 unresolved; original fine-code disagreement and partial coding blindness remain disclosed. Eleven role/window comparisons retain adverse and insufficient cases. J02 is still PARTIAL/TRANCHE_OPEN until the complete V10–V12 pooled scope is scored. No new model generation is introduced.
+
+Kazuma’s actual castle departure, coerced return, delayed confession and reciprocal care do not collapse into a unitary loyalty claim. Aqua’s accurate appraisal/effective power coexist with prestige-goal failure. Megumin’s dignity inhibition differs from build-burden guilt; the intermediate relationship request is not a completed exclusive couple. Darkness’s protective initiative coexists with manipulation and usefulness insecurity. The final child’s identity and parentage remain unknown at this boundary. Komekko’s diary is a report, not proof she witnessed every event it names.
+
+V11’s separately identified bonus **そのスキル、危険につき** remains unread and reserved for the expanded stage. Source metadata reconciliation covers all 41 objects; this source-unit acceptance advances only MAIN-11’s principal main narrative. Earlier map subsections retain their historical future-facing wording. Current authority and next-operation declarations govern continuation to V12 after exact publication checks close.
+
+### V12 local prospective-validation state
+
+The [V12 reading](02%20Sequential%20Readings/KONOSUBA_V12_DEEP_READING.md) and [receiving review](09%20Audits%20and%20Manifests/KONOSUBA_V12_RECEIVING_REVIEW.md) accept the eight principal-main members `text/part0009.html`–`part0016.html`: 2,841 all-body paragraphs, 2,624 nonempty and 101,448 base characters. The producer, independent humor reader and receiving integrator each read that complete main narrative; their overlapping coverage is not added. Independent semantic review is separately bounded. All ten ledgers receive additive V12 records.
+
+K04 retains a strong adverse actual-visible-tears candidate with explicit cue/motive matching limits; its local ambiguity does not rescue V11's clean failure. Aqua's owned sustained healing is observed, but recognition-conditioned continuation remains untested because reward onset is unshown. Actual tactical contribution, injury and finite endurance coexist with pleasure; eventual Eris rescue remains distinct from Kazuma's useful prepared water. The mutual intermediate relationship advances beyond V11 without becoming an exclusive settled couple. Initial unwanted contact and later directed participation remain separate. Civic education predates Kazuma's discovery; principal pension/treatment tax and temporary orphanage bridging remain distinct.
+
+The complete source-first humor census has130 fixed units:127 clear L0–L2 and three unresolved mixed cases, giving local bounds127–130/130. All119 original lineages and22 pre-coding operations survive. Both L files sealed before code/aggregate exchange; disclosed within-volume boundary preview means discovery was not fully blind. Fourteen fixed voice comparisons retain weak, adverse and sparse windows. A factual role gloss is corrected by an explicit erratum outside the immutable window registry. J02 remains PARTIAL/TRANCHE_OPEN until the complete V10–V12 pool is independently verified at checkpoint.
+
+The separately identified V12 bonus **伝説の魔女**, afterword and other edition components remain unread and assigned to later component review. Only MAIN-12's principal narrative advances to READ_COMPLETE/ANALYZED; the fixed41-object identity seal and all other narrative dispositions are preserved. A metadata-only field rename clarifies membership in the five-record incremental Calibre manifest without asserting that the other36 never underwent Calibre processing. No future main or side narrative enters these prospective states. Earlier map subsections preserve historical future-facing wording; the current declarations and this update govern continuation.
+
+### V10–V12 formal checkpoint and Model Generation 0.4
+
+The [V10–V12 checkpoint](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md) closes all25 unchanged Gen03 forecasts: **9 CONFIRMED /5 PARTIAL /10 NOT_TESTED /1 FALSIFIED**. These are descriptive dispositions, not predictive accuracy. K04 remains FALSIFIED from V11; V12's partly matched adverse tears case does not erase it. A03 confirms observed service components without causal recognition credit; D02 and E01 retain mixed or incomplete branches. All original model/prediction bytes, blank fields and local outcomes remain preserved.
+
+The complete J02 pool contains354 fixed units:341 clear L0–L2,3 clear L3,6 mixed and4 uncertain. Conservative bounds341–351/354 satisfy the original strict-majority rule. Original coding disagreements, V10's supplemented boundary discovery and whitespace-count convention, V11 aggregate exposure and V12 limited boundary preview remain explicit. No forced fine-code consensus, reliability statistic, translation-effort estimate or universal transfer claim follows.
+
+Gen04 is derived exclusively from main narrative through V12 and freezes25 fresh behavioral forecasts for V13–V15, each with blank Outcome/Adjudication fields. It retires the sufficient tear-stop rule, separates Aqua capacity/readiness/comparative goal clarity, preserves conditional service-causation limits, and narrows Darkness and language tests prospectively without rescoring old failures. Exact model and forecast identities and the actual freeze event are in the checkpoint and its [receiving review](09%20Audits%20and%20Manifests/KONOSUBA_V10-V12_CHECKPOINT_RECEIVING_REVIEW.md). V13 exposure still requires accepted, committed, published and read-back bytes; publication checks remain a separate obligation. Earlier map subsections retain their historical future-facing wording.
+
+### V13 local prospective-validation state
+
+The [V13 reading](02%20Sequential%20Readings/KONOSUBA_V13_DEEP_READING.md) and [receiving review](09%20Audits%20and%20Manifests/KONOSUBA_V13_RECEIVING_REVIEW.md) close the seven principal-main members `text/part0009.html`–`part0015.html`:2,456 all-body paragraphs,2,285 nonempty and97,758 base characters. The producer and independent humor reader each completed an ordered full principal narrative pass. Root receiving inspection is separately bounded to1,709 distinct paragraphs; overlapping reader coverage is not added. All ten ledgers carry additive V13 records, with the actual semantic/reference review scope and preacceptance repairs documented by the receiving review.
+
+All25 unchanged Gen04 forecasts receive separate local dispositions: **3 CONFIRMED /8 PARTIAL /13 NOT_TESTED /1 local FALSIFIED**. K03's matched unchanged-scope case supplies contrary evidence under the literal forecast; it does not by itself satisfy the forecast's repeated-countercase global retirement condition. Gen04's model and original blank scoring fields remain immutable, and the complete V13–V15 tranche remains OPEN. No new model generation is introduced.
+
+Two complete uncoded discovery censuses,169 primary and190 independent units, sealed before boundary exchange. Thirty-seven pre-coding operations add a net23 units while preserving every original primary lineage. The accepted fixed census has192 units:188 clear L0–L2,1 clear L3 and3 unresolved mixed, conservative bounds188–191/192. Removing all22 premarked soft-eligibility units gives166–169/170; those units remain in the primary denominator. Both complete L files sealed before code/aggregate exchange was released at2026-10-16T23:04:33.828295Z. Original fine-code differences and unresolved forms remain recoverable. This is V13's local J02 contribution, not a completed pooled V13–V15 judgment or translation-effort measure.
+
+Twenty-one voice captures retain16 original primary windows plus5 supplements from14 independently fixed windows, with overlaps and sparse/adverse cases preserved rather than counted as independent trials. Local J01 remains PARTIAL. The afterword, bonus **本物のマジックアイテム！**, illustrations and other edition components remain uninspected and reserved for their later stage. Only MAIN-13's principal narrative advances; the41-object identity seal, all seven protected frozen-block copies, all earlier prospective states and all19 supplemental/five mixed-book obligations remain unchanged. Main-only synthesis/reconstruction, frozen-model holdout validation, expanded-corpus analysis and post-validation reconstruction retain their separate gates.
+
+### V14 local prospective-validation state
+
+The [V14 reading](02%20Sequential%20Readings/KONOSUBA_V14_DEEP_READING.md) and [receiving review](09%20Audits%20and%20Manifests/KONOSUBA_V14_RECEIVING_REVIEW.md) accept the eight principal members `OEBPS/Text/part0009.xhtml`–`part0016.xhtml`: Pr/C1/C2/C3/I13/C4/F/Ep, 2,691 all-body paragraphs, 2,460 nonempty and 95,482 base characters. I13 supplies Yunyun’s own interior account. Root, producer lineage, independent discovery lineage and semantic reviewer each completed the principal narrative; overlapping scopes and recovery rereads are not counted as extra independent discoveries. All ten ledgers append source-located V14 evidence.
+
+Yunyun’s inherited leadership target becomes meaningful through rivalry, and achievement makes possible separation emotionally consequential; her return is chosen, without invented parental approval. Kazuma’s private support for Megumin coexists with intoxication, self-presentation, poor finishing, injury and imposed intimacy. Megumin contributes protection and the terminal attack while both helping and wounding Yunyun. Darkness’s protective duty, ordinary romantic wishes and meaning-specific embarrassment resist a uniform pain-seeking caricature. Aqua’s actual capacities, failed cemetery result, autonomous task resumption after a divinity taunt and later dishonest conduct are distinct observations. The cemetery cause and infiltrator’s larger purpose remain unresolved through this volume.
+
+All 25 unchanged Gen04 forecasts receive separate V14-local dispositions: **4 CONFIRMED / 7 PARTIAL / 13 NOT_TESTED / 1 local FALSIFIED**. A02 is one matched contrary direction, without satisfying the repeated-countercase whole-tranche retirement criterion. K04 explicitly retains the strongest C2 B sequence and its guilt/alternative-frame uncertainty; K02 credits substantive cheap help without adding a personal-contribution cost floor, while the refusal-to-preventable-harm conjunction remains unestablished. V13’s K03 failure and Gen03’s K04 failure remain unchanged. Gen04’s original model, forecast text and all 25 original blank Outcome/Adjudication pairs are exact; V13–V15 remains OPEN and no Gen05 is created here.
+
+The complete source-first census fixes 154 units with all 314 original annotation records retained. Current grouping is 151 clear L0–L2 and three mixed unresolved (U028/U040/U082), bounds 151–154/154. Initial 150/four and 109 fine agreements/45 differences remain historical: U052’s source-form correction is an attributable retrospective reassessment, not new initial agreement. All eight originally soft-touched units remain in the main denominator; their broad removal gives 143–146/146 only as sensitivity. Both sealed original assignments, nested forms, context schemes and disagreements remain recoverable. All 44 original voice comparisons plus one auxiliary retain exact windows, both judgments, actual recipients, sparse/adjacent/adverse limits and overlap; 33 presentation groups are not independent trials. J01/J02 remain local PARTIAL, with J02’s pooled V13–V15 denominator still required after V15.
+
+V14’s first exposure followed the fully closed V13 publication gate. The containing V14 transaction still requires its own exact publication/readback, source audit, housekeeping and final exact-head success before V15 opens. Afterword part0017, bonus part0020 **少女の苗は無邪気に嗤う**, images and other edition components remain unread/open; their TOC/package identification is not narrative analysis. V15–V17, main-only syntheses/reconstruction freeze, four-book validation, all expanded components and post-validation revision remain separate obligations.
+
+### V15 accepted principal contribution; checkpoint still open
+
+The [V15 reading](02%20Sequential%20Readings/KONOSUBA_V15_DEEP_READING.md) and [receiving review](09%20Audits%20and%20Manifests/KONOSUBA_V15_RECEIVING_REVIEW.md) accept all seven principal members Pr/C1/C2/C3/C4/F/Ep, `OEBPS/Text/part0009.xhtml`–`part0015.xhtml`: 3,013 all-body paragraphs, 2,737 nonempty, 100,670 base characters and 2,513 ruby occurrences. MAIN-15 is 2,513,225 bytes, SHA256 `ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005`. Each of root, the continuing producer and independent discovery lineages, and the semantic reviewer completed the ordered principal narrative. Their overlapping coverage is not additional independent samples. All seventeen reading responsibilities and all ten additive ledger payloads are accepted together; exact reviewing scopes and source corrections belong to the review.
+
+All 25 unchanged Gen04 forecasts receive separate local assessments: **3 CONFIRMED / 7 PARTIAL / 13 NOT_TESTED / 1 AMBIGUOUS / 1 scoped local FALSIFIED**. K03 preserves the actual reward-to-reconciliation contrary direction with the original prior-Wiz-harm modifier uncertainty; no repeated unmodified failure or global retirement is claimed. A02 remains AMBIGUOUS with actual persistence despite provocation, exact challenge-class uncertainty and no automatic external-inhibition exemption. K02 retains genuine pragmatic emotional-support evidence without a named-tactic, physical-harm-only or cost floor. E02 retains the concrete heaven-recruitment benefit and credible home-loss candidate, with feasibility unresolved. M01 preserves known ordinary communication cost before the later blast while its exact Explosion-identity trigger remains uncertain. V13 K03, V14 A02 and Gen03 K04 adverse histories remain exact. All original forecast text and blank fields remain immutable.
+
+The accepted fixed census has 150 whole-premise units, preserving all 289 original discovery records and all 36 soft-touched units. Both initial classifications give 149 clear L0–L2 and one unresolved L1/L3 whole-premise case U15-120; bounds 149–150/150. The broad 114-unit soft-removal diagnostic gives 113–114/114 and never replaces the governed denominator. Both fine histories remain: 106 exact-string agreements, 107 after the explicit same-uncertainty label normalization, and 43 portable fine differences. These are descriptive comparisons, not reliability or translation-quality estimates. All 95 original voice comparisons (85 primary-four, 10 auxiliary), both evaluations, exact windows and missing/adverse/role-limited records survive; 66 overlap groups are not independent trials. Separate discoveries, shared factual QA, precode boundary collaboration and actual exchange timing are disclosed. Postcoding actor/source corrections remain externally attributable.
+
+V14's publication gate closed at exact `6533c7213db6f2279b02a98f1bd95bac50bb41f2` before V15 source processing and narrative exposure. The containing V15 transaction still requires its own exact publication/readback, source audit, housekeeping and final exact-head success. The last fully audited published boundary at this authorship is V14. Ordinary local reconciliation `41ad33e7ae4347672167139d748d4d69fea74e0e` incorporates main `c1daedff530415ffab8e9c6009563df64966de15`, preserving all 13 imported Oregairu/Shuukura blobs with no KonoSuba or repository-global governance change. This is no claim of a future containing commit or successful CI. After V15's gate, the next operation is the separate adversarial V13–V15 checkpoint, including complete pooled humor/voice work and a Gen05 model/forecast freeze before any V16 exposure. Earlier dated working/pending statements remain historical.
+
+Afterword part0016, bonus 貴族スタイル beginning part0018, unclassified `MAIN15-POSTBONUS-0019`, all images and remaining edition components stay unread and later gated. The bonus's exact extent is unresolved. V16+, four holdouts and all other supplemental/mixed narratives remain closed. Main-only synthesis/reconstruction freeze, holdout validation, all admitted 41-object components, post-validation models, full synthesis, evidence indexes and the substantive final audit remain required. This unit does not close the project.
+
+### V13–V15 formal checkpoint and Model Generation 0.5
+
+The [checkpoint](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md) and [receiving review](09%20Audits%20and%20Manifests/KONOSUBA_V13-V15_CHECKPOINT_RECEIVING_REVIEW.md) accept the complete25-record adversarial closeout and all ten additive ledger updates. **6C/7P/12NT describes coverage, not accuracy.** K03’s earlier article feedback and ongoing-reward versus strict-baseline distinction remain explicit; M01 has one bounded priority attempt with known ordinary companion convenience cost, not two completed casts or unique causal proof. V15’s recorded order700→705→707→714→715→722→724→726→733 separates the first peace preference from the later truce. The new completion partition is prospective, not a demonstrated explanation of the earlier preference. K03/A02 broad rules lose confidence without invented global retirement. Gen03’s sufficient tear brake remains retired; Serena’s C3P161–181 tears occur in subsequent altered-state narration after the diary closes123–124, and the mud endpoint441 shows satisfaction/leaving after causing tears, without a fresh attack after those actual tears.
+
+The complete pooled J02 census has496 units:488 clear L0–L2,1 clear L3 and7 mixed, bounds488–495/496. All66 soft-touched units remain; removal is diagnostic only. All original disagreements and V14’s attributable U052 correction survive. Written voice retains170 provenance originals (159 main-four/11 auxiliary),161 available mappings and nine unrecovered overlapping V13 raw originals; presentation groups are not trials. Shared QA, bounded source reinspection and exact reuse are disclosed, without new-reader or full-blindness claims.
+
+**Gen05 root freeze — 2026-10-17T06:34:16.125156+00:00.** Exact model33,163bytes SHA256 `792ae4b45cb69190ff8e2f839d613e5fee13c51c684f967a01276ea14aad76df`; exact forecast103,088bytes SHA256 `aa7243c8a2a03e5f79993dd7d1690f715d4dd659299b847d9624a117e57e28cf`, embedded identically in checkpoint and prediction ledger. All25 new blank pairs and every older frozen block remain preserved. This freeze follows V15’s full gate and precedes any V16 exposure. It is a main-only prospective checkpoint, not the later reconstruction-suite freeze. Its own source-branch publication gate is pending; no protected-main integration or V16 permission is claimed yet.
+
+### V16 admitted principal narrative — IN_PROGRESS
+
+The current Gen05 entering state and all prior adverse/local/formal histories are pinned at the fully audited checkpoint source b4c4c614. Fresh exact native admission follows its complete gate; extraction began 2026-10-17T06:52:01.905691+00:00 and admission closed2026-10-17T06:52:01.978882Z. The ten approved members include all four interludes in source order; their narrator/viewpoint must be established from the actual reading, not inferred from headings. Native1-based paragraph locators retain blank/image slots; base text excludes rt/rp while ruby, tails, paragraph attributes and material break locations remain recoverable. No non-p prose residual is present. Source-first discovery/windows must seal before classification/exchange, and all25 Gen05 local outcomes append separately without filling frozen blank fields. This working admission advances no principal analytical high-water beyond V15 and no later source gate.
+
+### V16 complete root pass and sealed working candidates — PRE-ACCEPTANCE
+
+Root completed the entire ordered ten-member principal pass, displaying native base text and all ruby base/reading pairs before sealing source-first causal notes. The root full-pass receipt SHA256 is `9970222fbf9842295c8da7c0fbbe4d753d331f8fbd58c2f0419f983d4848263d`, sealed at2026-10-17T07:10:44.976836Z; notes52,925bytes SHA256 `fe522170dc025572cdfac49b5bc2cdba93a96955d410585c9b93332664180773`. This is actual2,844-slot reading, not serialized-XML-byte reading or a complete independent humor census. Root subsequently sealed its own all25 provisional source-eligibility/branch judgments before reading other V16 annotations; these are unaccepted candidates, not frozen-field edits.
+
+The continuing producer and semantic reviewer separately report complete ordered principal passes; their exact full-pass receipts409472…/cedf16… are retained. The other continuing discovery reader is still completing its own source-first work. Producer’s complete177-candidate uncoded discovery (18soft/uncertain) and83original voice records/166windows sealed as6089c02c… before any cross-lineage access or formal L/form assignment. Root verified the receipt/census/window bytes against reported hashes without opening their substantive annotations. Original discovery exchange remains CLOSED until both complete originals are sealed. These are continuing AI-reader scopes, not additional human readers, statistical independence or wholly blind analysis.
+
+Seven substantive root ledger payloads and20claim-family routes are drafted privately; humor/voice/prediction adoption and all substantive receiving remain incomplete. No V16 canonical reading/receiving artifact or accepted local outcome exists yet. High-water remainsV15 with published/audited CP05/Gen05. V17, all bonuses/afterwords/images, fourholdouts and all other supplemental/mixed narratives remain closed. Continue the complete discovery/window fixation, separately sealed coding, full twelve-pass/all25/ten-ledger receiving and the V16 publication gate.
+
+### V16 complete uncoded discoveries and boundary receiving — PRE-CLASSIFICATION
+
+Both original discoveries are now complete and sealed. The continuing independent reader's full ordered 2,844-slot receipt is `26559d3e6c5d072abae7bebff0785d39452846e07e928c026c8be42435e5334e`; its 163 uncoded candidates, including26soft cases, and102 original voice records sealed before exchange. Together with the producer's177 candidates/83voice records, these yield340 original humor annotations and185 original voice comparisons. Those provenance counts are not episode denominators or independent trials. Authorized uncoded exchange opened at2026-10-17T07:34:03.878830Z, receipt `b335bcad6f833524eacfbc39a9f725f77d1dbd23cb06d4f6751ce3fb931d0ffb`, after both originals and root's own pre-exchange candidates were sealed.
+
+Root actually reviewed all340 descriptors and their eligibility/scoped soft/nested/cultural limits, all185 speaker/addressee/role/window/limit metadata records, and all175 proposed whole-premise boundary/operation rows. Separate mechanical native reinspection passed all340 original interval hashes and all370 exact before/after windows, with6,036 duplicated paragraph records, ruby structures, paragraph attributes and break locations: receipt `1d2bb4bc814f736af6b4f556fda903f03679ede9a90d7a29ff6da66d1aff1067`. This is source-integrity verification, not a second literary reading of each duplicated window. Root's actual annotation-review receipt is `3a5a2427959083098ebdf81b9b45852b3e04f3d79d0482f2e7baf415da3390e2`. Factual qualifications preserve every original object/window; native passages distinguish requests from completed actions, the vampire removing his own ring, directed speech to horses, restraint/healing from an unshown embrace, and explicit Aqua-target rhetoric from an unproved harmless or accidental effect.
+
+The175-unit disjoint union and185-record voice consolidation remain unaccepted candidates pending the final boundary review and attributable qualifications. No formal L/form outcomes have been assigned or exchanged, and no other-reader all25 interpretation has been opened by root. Shared uncoded evidence and boundary QA narrow independence claims. Earlier working statements about an unfinished discovery remain historical. Accepted/published high-water staysV15; Gen05 and all later-source gates remain unchanged. Main has advanced through an unrelated nine-path Shuukura transaction to `5233bfa580bbd6df1c214cf0136a48dc1225e0d8`; ordinary publication reconciliation must preserve those accepted imports and any subsequent drift.
+
+### V16 exact source-first input freeze — 2026-10-17T07:46:13.935799Z
+
+Root accepted and froze175 ordered disjoint whole-premise units and185 original fixed voice records before formal classification. Exact private humor input1,664,936bytes SHA256 `a8cdaeb21d666b0f8641894d6c1ec4d1741fcaeb6e724cbf5f91ab45cccdc054`; voice input4,765,438bytes SHA256 `e904bd2dbd4c829d0939f2d3f016a1a70fb002750612bf8b378a803096df4515`; actual freeze/release receipt `017b34c2c576cba45069a972b1b8b42708e7afaea860cd373fce8eed6e85a63c`. All340 original discovery objects and185 original voice objects/windows/mappings remain exact. The38 soft-touched units remain in the175-unit denominator; the65 broad voice overlap groups are presentation aids, not independent trials.
+
+Root read all175 boundary/operation rows and all attributable v2 deltas/qualifications; the producer's separate complete uncoded receiving seal `4cf826b69434c5e9414bf75677d3bbf13d6fff941b4ce5bdcace43ac8c0a7708` reports no remaining segmentation objection. Four operative prose repairs and nine recipient/context overlays preserve v1 beforeimages and every original object. The initial freeze helper stopped on a seal-schema field mismatch before creating any freeze receipt or releasing coding; its exact copied inputs were verified and reused, and the corrected helper verified every pinned file before the actual freeze above. No unsuccessful attempt is represented as an earlier freeze.
+
+Both continuing coders are now authorized to classify all175 humor units and185 fixed voice records separately, with complete result seals required before comparison. Other-coder outputs/aggregates and root/semantic/all25 interpretations stay closed to them. Root has separately begun substantive receiving of the sealed producer prose/all25 proposals and semantic all25 proposals, while the semantic reviewer receives the root/producer candidates after preserving its own source-only initial judgments. No resulting judgment may alter the frozen input windows or original forecast fields. This is input acceptance only: V16 analysis, allten current ledger updates, formal comparison and publication remain incomplete; V17 and all other narrative gates stay closed.
+
+### V16 substantive receiving and sealed coding progress — 2026-10-17T08:07:40.208612+00:00
+
+Root fully received the producer’s fifteen narrative sections, both complete source-only all25 memos and all seven full noncoding ledger bodies. Semantic receiving independently checked source actors, chronology and the exact frozen contracts, with563 targeted principal-slot redisplays in addition to its complete ordered source pass. Bounded producer-derived prose/ledger successor v3 closes reviewed source corrections; receipt `51fb81a6260f306a954dc4b4d54261af6392bfc6d38543d3a4941db393454267` and semantic changed-field receiving `255c767d9b44fed30dc3ffb4317f211ef670f061520863277d99d3c739b1d2a6` remain private review evidence. This is bounded receiving, not whole-volume acceptance.
+
+Root’s separate twenty-family/seven-payload/source-route successor v2 preserves initial bytes while correcting chapter, actor and modal routes, coach-delay causes, first-gifted-armor scope, reported future labor and stock authorization versus full depletion. Its72 declared substantive/text operations and exact input/output pins are recorded under receipt `8a6dbca37402c2939a12b144320cfa956c4e6df7f348c8faea89c161299e702b`; receiving has identified further bounded edges and two additional metadata operations for the next attributable successor. No maintained ledger has been regenerated or adopted yet. Revised all25 JSON99,044bytes SHA256 `6d6da02956e9d01b8493e4194c3c72dfe9845a0cfc4cac6768c730ccfb804d5d` retains all initial proposals and counterevidence; current candidate M02 supports serious consideration, A02/D02 retain uncertain eligibility, M01 distinguishes contextual activation from the uncompleted ordinary-cost priority test, and E02 retains attachment evidence without inventing durable feasibility. These are receiving candidates, not accepted labels or edits to frozen fields.
+
+Both175-unit L assignment sets are sealed independently. Producer has also sealed all185 voice evaluations, combined receipt `aaab908ca8881d82f8a38a5da8d7592954c60d04508dc8f7e40b924355767ffe`; the independent fixed-window voice pass remains IN_PROGRESS. Root has opened neither formal result file. Comparison remains CLOSED until both complete L+voice seals are verified and explicitly released. Shared uncoded QA and continuing-model lineages limit independence; no fresh human, acoustic or statistical-trial claim is made.
+
+Accepted/published high-water remains V15 with fully audited CP05/Gen05 at `b4c4c61412e93f16a218dcacd9d700253f6aea19`. V16 seventeen-section/ten-ledger receiving, source-register disposition and its exact publication gate remain incomplete. Next permitted work is remaining source-route/all25 receiving and sealed formal comparison, followed by whole-unit acceptance/publication. V17, all edition extras, four holdouts and expanded narrative remain closed; the full later synthesis/reconstruction/validation/expanded/audit program remains outstanding and authorized.
+
+### V16 formal comparison released; receiving in progress — 2026-10-17T08:24:32.836393+00:00
+
+Both complete initial sets are sealed:175 humor classifications and185 voice evaluations per continuing coder. Producer combined seal `aaab908ca8881d82f8a38a5da8d7592954c60d04508dc8f7e40b924355767ffe`; independent complete metadata `0297e30e3167d2a05d402187c35d4b4819d1914fee53f7bd0c6f994555b5fc0d` binds its voice seal at2026-10-17T08:16:54.656711Z. Root verified all14 assignment/seal/native-coverage input pins, then released formal comparison at2026-10-17T08:17:30.833809Z, receipt `ab2638515ba63105a0dac38d7fab906d7b634fe7aa46081ac06b27c12ace25df`. Both original code sets, windows and every forecast byte remain exact. Earlier statements that comparison was closed describe their actual authored stages.
+
+Root has now actually read all175 paired primary-mechanism rationales, culture/uncertainty/material-anchor fields, reusing previously fully read unchanged source-first metadata and exact repeated boilerplate. Both originals classify173 clear L0–L2,1L3(U16-054) and1mixed(U16-083), conservative bounds173–174/175. All38soft-touched units remain; broad removal gives135–136/137 only as a diagnostic. Fine110equal/65different initial weights remain recoverable. These are conditional descriptive comparisons, not translation-quality, reliability or calibrated accuracy. Gen05J02 remains PARTIAL because the governed new V16–V17 tranche is incomplete. Source-role corrections are externally attributable; classifications and boundaries are not rewritten.
+
+All185 paired voice records and final public projections remain in receiving. Original absent-baseline, sparse, already-active, auxiliary, mixed and adverse cases must remain. One voice or speaker correction cannot silently become a new initial agreement. Conceptual humor/language prose and all25 current eligibility reasoning have bounded independent semantic receiving; actual final joined17-section/ten-payload acceptance is still pending. Supporting volume registers will remain subordinate evidence in the existing ledger home where faithful full histories exceed a rolling file’s ordinary1MiB gate; the ten maintained ledger identities/responsibilities and all prior bytes are preserved. No size-control waiver, evidence truncation or second current-state home is introduced.
+
+Fresh main is `a532b3b7c7f7b0441575613a443f1adf73b8aca9`, two accepted Shuukura commits/13 changed paths after integrated main2daceaba; no KonoSuba or governance change was imported. Stable remote/local head remains `b4c4c61412e93f16a218dcacd9d700253f6aea19`; ordinary reconciliation is still pending before publication. No V16 commit, acceptance or successful publication is claimed. Accepted/published high-water remainsV15 with CP05/Gen05 closed; V17, all edition extras/images and holdout/expanded narrative remain closed. Complete receiving, source-record reconciliation, exact intended-path publication and all audits before V17.
+
+### V17 accepted principal transaction — publication gate pending
+
+Root substantively accepted the complete five-member principal analysis after full ordered reading, separate source-first discoveries, both complete179/243 assignment seals and complete received contributions. The ten maintained ledgers append120 narrative records plus Humor/Voice/Prediction responsibilities, with targeted current front-boundary updates. All342 humor originals/179 whole premises and243 voice originals/486 windows remain attributable. V17 humor178 clear portable/one mixed retains all43 soft scopes;100 fine agreements/79 differences are descriptive. All25 separate local categories are5C/8P/2AMB/10NT; original Gen05 blocks/blanks and prior local/adverse histories remain exact. The intermediate urgent-care retirement is withdrawn because FP45 can be a protective wait directive; its history and the clear PV054 adverse remain. The six-field access-versus-prior-intention correction is independently closed, without certifying Kazuma’s claimed private earlier plan.
+
+Root’s actual substantive acceptance, semantic07/source03 closure and bounded independent register receiving precede canonical adoption. Review scopes distinguish fresh prose/native work from exact reused earlier fields and mechanical inverse checks; same-model/common-QA work supplies no full blindness or statistical independence. Source-four reconciles only MAIN17 principal completion and preserves other40 objects/fixed41 seal; excluded afterword/front/end/unclassified component bodies remain semantically unread and images unviewed; wrapper XML was inspected structurally only. Historical V01–V03 paratext context is disclosed separately, not rewritten.
+
+The containing commit’s high-water17 is an accepted-content declaration, not proof of its future publication. Last fully audited source remains4343/V16; next permitted operation is **V17_PUBLICATION_GATE**, followed by the separate final checkpoint/main-principal evidence freeze. No Gen06, specialist acceptance, reconstruction-suite freeze, holdout test or expanded literary completion is implied. All later required stages remain active. Earlier V17 IN_PROGRESS and pending receiving statements above are historical stages rather than current blockers.
+
+### CP06 accepted terminal checkpoint and main-principal evidence boundary — 2026-10-17T12:10:44.998131+00:00
+
+The separate final checkpoint formally adjudicates every frozen Gen05 prediction 8C/6P/1F/3AMB/7NT and reconciles all 92 earlier formal records without rescoring them. J01 fails through the two distinct Aqua service comparisons PV17-017 and PV17-079; Anna 38 and urgent 45 remain mixed, V17-local J01P remains history, and actual service competence is retained. A03C is bounded support-category recurrence, not unique recognition causation. K03P preserves actual Ep40 speech and strong V16 sufficiency evidence without a numeric quota. A02/M05/D02 remain ambiguous with their adverse evidence intact. New J02 uses 354 units/351 clear portable/1 L3/2 unresolved, all 81 soft scopes retained; the old Gen03 pool with the same size is separate.
+
+The evidence receipt enumerates 17 exact source identities, 137 text-member metadata contracts, actual accepted readings/checkpoints/registers/reviews and all ten ledgers. Nine split chapter resources are metadata-affiliated; two explicit afterwords remain excluded. Early source QA newly read 773 slots/20 windows/13 members per the named reader scopes, not whole early volumes. Root’s separate 10-slot SP10 check preserves Megumin’s expressed intention and Kazuma’s unilateral skill allocation. Historical paratext context remains an authority/exposure limit, with principal behavior witnessed in admitted narrative. Main-only specialist/suite work, holdouts, full expanded components and release remain unperformed.
+
+The earlier V17 publication-pending section is historical: exact 4b4ed3ad’s gate is closed. Initial integration of main 16ed020c imported 11 streams; final 4b also incorporated main ef1e29ab and its cumulative delta from 4343 contained 39 streams, 26 Kono plus 13 exact accepted-main imports. The original review is not rewritten. This new checkpoint is a separate publication unit, and its final source SHA/audit result is not yet known.
+
+## 13. Current next actions
+
+1. Preserve every older checkpoint, seven protected older frozen-block copies, all original blank fields/local histories and RC-V09-01/RC-V10-01. Keep the exact Gen05 model/forecast blocks and their freeze receipt immutable. Separate formal adjudications never fill the original frozen scoring fields.
+2. V16’s accepted full transaction and the concurrent-main reconciliation completed exact source publication/readback, source audit, no-op housekeeping and final actual-SHA audit on4343c8bb, as reconciled above. Preserve originals, all adverse evidence, exact Gen05/older freezes and fixed41identity seal. Three V16 volume registers remain subordinate evidence under the existing ledger home.
+3. Preserve the closed V17/CP06/seven-specialist/R1/four-book gates and all original histories. Dust01 whole edition and Cheers/Blessing/Memorial Fanbook supplied programs are accepted and fully published. The exact paused merge and six metadata edits have been recovered after explicit owner resumption. Recoveryee740bf0 completed its own full gate; current operation is EXPANDED_CORPUS_RECEIVING_DUST02_CORE, with no new analytical acceptance from recovery. No next main-principal volume, Gen06 or retrospective score repair exists.
+4. After the recovery publication gate, finish the preserved Dust02 principal/component receiving and Core receiving, then publish each accepted coherent unit through its own full gate. Complete the remaining18 not-yet-whole-accepted supplemental editions, all17 main-edition excluded-component programs and both TRPG acceptances within the fixed41 corpus. Preserve the four original holdout scores and every original exploratory question blank. Preserve natural secondary-series order and distinct publication/fictional/exposure chronologies; this receiving context is retrospective after the previously admitted later-Dust/holdout evidence. Do not expose Dust03 before Dust02 whole-edition publication closure or Advanced without its separate admission.
+5. Produce attributable post-validation principal/qualified secondary models, extended and full-series syntheses, all three evidence indexes and the substantive component-level completion audit. Metadata/hash/source completeness is not literary completion. Keep this canonical entrypoint active until an authorized, verified release transition. Routine stage changes need no owner confirmation.
+
+## 14. Governing principle
+
+The project succeeds only if the final models can explain not merely that the characters are funny, but **what repeatedly makes each specific character become funny in a specific way, what suppresses that behavior, and how the same underlying person should behave when the genre register changes**.
+
+
+## Main-only reconstruction accepted/frozen and publication reconciliation — 2026-10-17T15:05:30.667128+00:00
+
+All six models and the suite audit are accepted as a bounded main-only baseline, not full-corpus completion. The [freeze receipt](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json) is27,695bytes SHA256a446f7f59c9ae1044a42b6ebe525bb75e8bfde00e78d9a10ec0dc73f67ce06a4 and pins66 public products plus the current six-path CR007 qualification overlay. The complete six accepted model bodies also have a lossless retrieval snapshot. Current roles/settings, all90 first outputs, initial720criterion assessment and postshared six-record overlay, all702 prebound primary views/360typed views, losses and untested conditions are preserved. The public partitions reproduce the original1,382,202-byte prebinding exactly; no oversized stream or private source/acquisition body is published.
+
+CR-MAIN007 distinguishes the V03 father's age-unspecified earlier social/companionship report from an unsupported childhood-age claim. The exact D-W03 two-member route, current monograph/claim-ledger qualification and four mutable-ledger appendices were accepted before model-owner case exposure. The original66 evidence pins and all old Gen01–05 histories remain historically exact at39b; current append versions do not pretend to be the old frozen snapshot. No afterword, bonus, image, holdout or expanded narrative was newly opened.
+
+Live main reconciliation verifies PR205 source39b498f1852225424830b7daf6de59abedbb8c02 → integration276043b5a7062d456f33cbaa5254c0a5aa40649f, identical whole tree7f1add9a2e1c868a02cdffad6a5f6a9e008d7fb6, main integration audit success14:14:19Z/run39039524390. Current main d542be706366f4a9a39e51a7817b85729dd1d399 adds11 Shuukura changed streams; the ordinary clean reconciliation preserves all11 exact main blobs and all8 local KonoSuba beforeimages. Its main audit succeeded14:46:07Z/run39041781421. These verified integrations concern earlier work, not the containing suite publication.
+
+At authorship the next operation is MAIN_ONLY_RECONSTRUCTION_SUITE_PUBLICATION_GATE: exact final index validation, normal push, full remote readback, source audit, housekeeping and final actual-source status. The latest fully audited source is still39b until that close. On verified closure reload the published freeze and prepare unchanged-baseline holdout tests, without routine confirmation. Earlier pending model/assessment/recipe statements are authored-time history, not permanent blockers. All later full-program responsibilities remain active/OPEN/highwater17; no archival release or future/background execution is claimed.
+
+
+## Reconstruction-suite publication gate closed; unchanged-baseline validation released — 2026-10-17T15:22:14.543481Z
+
+The accepted main-only R1 suite is published at `3b92d9fac53c6065098d690aef68773588126def`, tree `d9222408ed491a5184e277fd47c90e56a52c560a`. Its ordered parents preserve source39b498f1 and current main d542be70; all11 imported Shuukura streams equal main. Exact final-index author preflight and remote readback passed for8,103paths/all86changed streams (75authored KonoSuba,11main imports). Source audit39044000655/job117428992769 and final39044263471/job117429750490 each passed352fulltests with zero failure/error/skip. No-op housekeeping39044235774/job117429670146 verified actualSOURCE_SHA3b92 and dispatched the final audit. Repository integration audit succeeded15:18:48Z targeting39044263471. The dispatched runs’ displayed main d542 metadata does not replace their actual AUDIT_COMMIT3b92. Root closed the full gate15:19:27.894053Z; receipt SHA256`9795d71ac65f350043eab7d3f18c6e88180d49732bc9a4b76cfa6d26b2c4f008`. This certifies source-branch publication, without asserting protected-main integration or archival release.
+
+The exact27,695-byte R1 freeze SHA256`a446f7f59c9ae1044a42b6ebe525bb75e8bfde00e78d9a10ec0dc73f67ce06a4` remains unchanged. Root reloaded exact published authority/all66suite products/sixCR007overlay pins15:20:44.500951Z, reload receipt SHA256`8ccde8509c1a955c985b67d72da0e6a3ca363ae99c2de7b2dc67e44af7de2829`. Both assessment layers, E02’s locally adverse synthetic credit case, all original outputs, binder errata and D1 diagnostic distinctions remain governing. The freeze’s PENDING and earlier dated map/audit statements record authorship time; they are not current blockers.
+
+Before source admission, the source-unexposed four-book protocol/all43 exact contracts were sealed15:17:56.564139Z (protocol20,107bytes/SHA256`1a3461f7f511931cf9beec80c7633ee81046554303e32c141ffc5119db7c2c83`; structured preparation161,722bytes/SHA256`9af3bfabd0b5cf2fde1d90bc8fa4a9504e0606f4fd5ef48e8ae1d7e00adf8226`). Root received the complete new protocol/all43 questions and verified literal registry equality15:19:20.102963Z, acceptance SHA256`f7d74fc3e64fe4cce2ec8f66f3140bf5143b65cf848a3701d009a1306a63108f`. Actual appearances, chronology and opportunities were unknown; no156book-contract trials or new plot predictions were fabricated. The38behavioral plus one valuation commitments remain distinct from four constraints on generated responses, which cannot earn canonical-source behavioral wins. The predeclared encounter order is YORI01, MASK, DUST06, DUST07; it does not establish fictional chronology. Actual outcome-aware scene selection, model memory/shared-context/legacy exposure, missing appraisals and dependent retellings must be disclosed.
+
+YORI01 was freshly retrieved through its canonical Drive object1jtENWC4aPn1d3EJlXiuqNtOBGZEUHFUQ and matches2,395,940bytes/SHA256`71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594`. Japanese OPF2.0/content.opf, CRC, spine and NCX identify eight alternating prose continuations text/part0010,0012,0014,0016,0018,0020,0022,0024.html after chapter-image wrappers. Only those eight are admitted:2,748all-body paragraph slots/108,300base characters/2,603ruby, no non-p residual; extraction and admission closed15:22:14.543481Z, receipt SHA256`1e29700eb7c531018cc541ea323afad114233232eac1dc9d8bc62e5fb974086f`. Native member-local one-based P counts retain blank/image slots; base excludesrt/rp while fullp/rubyXML, attributes and break offsets remain recoverable. These are admission/extraction facts, not completed reading or validation. Actual anthology subcomponents require located reading. All image wrappers, the afterword image and other excluded/front/end components remain unviewed and require separate StageC dispositions.
+
+Root and the continuing independent/semantic lineages have separately released principal reading tasks, with initial notes/findings withheld from exchange until actual complete seals; this does not claim new readers, full blindness or completed coverage. The producer remains shielded from all four holdout narratives/findings/scores for possible later bounded natural-order Dust01–05 reading. No canonical reconstruction model or prospective history changes. Current validation is IN_PROGRESS, not accepted/published; MASK/DUST06/DUST07 await separate admission. Full19book/17editioncomponent/fiveactualmixedinspection analysis, expanded synthesis, attributable revisions/secondary work, full synthesis/indexes/component audit remain authorized and unfinished. The canonical entrypoint remains CURRENT_STATE_AND_CORPUS_MAP.md, ACTIVE/OPEN/highwater17; there is no routine-confirmation dependency.
+
+
+## YORI01 actual principal reading complete; unchanged-baseline receiving in progress — 2026-10-17T16:13:50.973940+00:00
+
+The published R1 authority remains source `3b92d9fac53c6065098d690aef68773588126def`, whose complete exact-source gate closed15:19:27.894053Z. A fresh normal fetch reverified source3b92 and main `d542be706366f4a9a39e51a7817b85729dd1d399`, with no concurrent KonoSuba PR. The two local map/audit progress changes are not a later published source. All frozen models, forecasts, original blank fields, initial simulation results/overlays, main evidence identities and fixed41 source seal remain unchanged.
+
+Root, the continuing independent lineage and the continuing semantic lineage each actually completed the eight admitted YORI01 principal prose members:2,748 all-body paragraph slots/108,300 base characters/all2,603 ruby occurrences. Their overlapping passes are not summed. Root completed the ordered source reading15:46:31.934984Z, sealing its26-range initial discoveries at SHA256`aca7e5101a4e6e458c0f0760c52bc8596de61ffa756182a34b4fe6cf4a4e7286`. Root's first all39 assessment sealed16:04:34.599085Z,233,763bytes/SHA256`4f93534180cec77b5a208c12a5b256ee8be05b7e288db71415dcbaa0cd699b9b`. The semantic source-first/all39 seal is16:02:16.380786Z/SHA256`7ff9c81647f1c9d7f0e02497035d70c4699fd4159284c6cbd627ccb11b907e70`; the independent full49-event/all39 seal is16:06:55.802003Z/SHA256`908740412cf3d23b8d4bac8f4036871a15da9d0063ac65ec87eba11e1fe34a85`. Each first complete bundle predates substantive findings exchange with that reader. These are continuing informed AI lineages with common main-source/model history and possible pretraining memory, not fresh human/native readers, statistical independence or absolute blindness. Later event selection is outcome-aware, not prefix-blind prediction.
+
+The unchanged registry has38 behavioural commitments, one cognitive valuation and four generated-response constraints. All39 source commitments now have actual initial applicability/contrary/missingness assessments; the four constraints have no source-behaviour win. A contract disposition, source event, repeated description and unique opportunity remain different units. There is no39/156-trial accuracy denominator, no pooling with90 synthetic executions, earlier Gen01–05 scores, J02 populations or voice views. Principal reading is complete; formal receiving, final source-local adjudication and the four-book validation transaction are still IN_PROGRESS. No initial score has silently replaced a frozen score or become a model revision.
+
+The first comparison produced substantive corrections and adverse candidates. In C04P130–137 Chris, not Kazuma, makes the cat sound; Kazuma actually uses StealthP127 and does not know the Neroid explanationP136. C05P302–308 shows attempts to restrain Aqua, with resistance and actual continuing harmP311–312, not completed stopping. C03P23/37 are Kazuma's tentacle-motive accusations, deniedP24/38; Darkness's legitimate missionP28–30 remains a rival to inferred helplessness reward. Her later no-rescue requestP49 cannot be backdated to her first rejectionP33. C01P315–316 is Aqua answering the ghost; Kazuma is hiddenP302/privateP317. Megumin deliberately destroys the polished crystalC01P41/45/47, contrary to an initial independent event adjective calling it accidental. Each original annotation remains recoverable; root's separate14-item receiving basis is15,594bytes/SHA256`d3d4d6995965ca6408039218bdbb982166107fe1bed08239ba38770ab985e89a`.
+
+The strongest new K08 adverse is C04P34→35: a separately received debt-NEET status insult produces direct reciprocal abuse/stop-demand without the predicted civil/informational contrast. Earlier wallet inquiryP27 has a different trigger and cannot rescue that reply. The compatible two-Steal-users understatementP393 remains, without cancelling an eligible opposite. K04's cream replacement demandC03P170 can satisfy the literal pressure/redress forecast; the initial neutral-redress disagreement is preserved and no extra-profit floor is added. K02 low-stakes eligibility is limited by his explicit Vanir one-hit danger appraisalC06P23. E07 has a stronger accepted finite outside-Wiz phaseC05P50–51/105/120–122. E05's alternative different-accounts trigger does not require sole-organiser withholding; correct inferenceC07P222–230 remains a potentially adverse near-match with an implicit cooperation/opportunity limit. These are receiving positions, not yet a published final scorecard.
+
+Important uncertainties remain explicit: Aqua's adopted ghoul purification fails, with independently new gore fear and unchanged two-full-failure reliability threshold; her post-divinity-denial response has disputed self-legitimation function; Megumin's eager proposed Wiz attack has an unknown independently significant early bond and no performed cast/aftermath; Darkness gives partial real safety calibration before later unsafe reassurance, while Kazuma's prior-survival reminderC07P351 is whispered to OzumaP348/352 and cannot be certified received by her. Ghost-client aftercare and exhausted Megumin after the wolf battle preserve unresolved response-opportunity adversity. Receiving may close these as appropriately bounded partial/ambiguous states; uncertainty is not an invented exception or a favourable result. The unchanged baseline will govern all four holdouts.
+
+MASK's raw package has separately been retrieved and its exact2,895,671bytes/SHA256`fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127`, Japanese OPF2.0/content.opf, CRC/spine/NCX mechanically verified. Metadata identifies seven principal prose continuations0009/0011/0013/0015/0017/0019/0021,2,862paragraph slots/111,130base characters/2,915ruby. It also identifies a separately labelled electronic bonus story0023(57P/2,328base characters) and afterword image0022. No MASK paragraph body or image has been semantically opened or admitted by this metadata inspection. The next source operation is separately bounded MASK principal admission after YORI receiving; Dust06/Dust07 and all excluded bonus/afterword/front/end/image bodies remain closed. Producer remains shielded from all holdout narratives/findings/scores while preparing main-only index work.
+
+The current operation remains WITHHELD_SOURCE_VALIDATION, ACTIVE/OPEN/highwater17. Full four-book validation, all19 supplemental books' complete admitted narrative components,17 main-edition excluded-component audits, actual five mixed/reference inspections, expanded synthesis, attributable post-validation models/qualified secondary subjects, full-series synthesis, three final indexes and substantive completion audit remain authorized and unfinished. YORI principal reading alone does not complete that EPUB's excluded components, its full StageC literary responsibility or the entire project. No routine owner confirmation or archival release is implied.
+
+
+## YORI01 source-local validation accepted and concrete publication unit — 2026-10-17T16:32:18.058252+00:00
+
+Root accepted the exact87,574-byte [YORI01 all39 source-local register](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_ACCEPTED_ADJUDICATIONS.json) at16:18:33.421393Z, SHA256`7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026`, after the complete initial/receiving comparison and final bounded register closure. Thirteen C/seven P/one local F/two AMB/sixteen NT are descriptive overlapping contract dispositions, not accuracy. K08 is locally falsified by the new debt-NEET insult34→direct unmitigated reply35; compatible393 remains and does not cancel it. Four generated-response constraints remain N/A. Main-only R1 models and all earlier Gen01–05 predictions/blanks/adverse histories are unchanged; future revision is deferred until unchanged-baseline validation and expanded evidence responsibilities are completed.
+
+The substantive [four-book validation](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md) is now materialized with this first accepted source. The other three books have no invented results. All original root/I/S first assessments, both full receiving reports,14-item correction basis, late source qualifications, current event/access index and source/reading receipt are separately recoverable. Actual three full principal passes cover the same eight members/2,748P/108,300base/all2,603ruby, not additive coverage. All source exclusions, early chronology, report/motive/access limitations, qualified adverse cases and no-absolute-blindness boundaries remain explicit. Complete principal reading and limited validation are not complete StageC literary/EPUB-component analysis.
+
+All ten current ledger responsibilities receive30 explicitly tagged PhaseB observations through targeted appends. Every complete prior ledger stream remains the exact prefix and retrievable at3b92; mutable latest appendices do not replace the frozen state. The66 suite products and two unchanged CR007 overlay products remain current-byte exact, while four overlay ledger versions now have approved validation appends; all72 original identities remain exact at3b92. No original freeze or model is rewritten to match its test. Source coverage updates only YORI01's eight principal validation components and preserves every other object's current narrative state plus the fixed41 identity seal.
+
+The independent receiving closure for the accepted register is2,686bytes/SHA256`3623ea3f39cb63392dfb94a69d376020577cf786d2c9d04f7c56a32dd3ec2c6c`; concrete12-public-stream receiving is2,711bytes/SHA256`6b88420aeb891fa20d4f2c331ca793f8dbb1cabe47d5e79553dc98ae72c1f096`. The semantic ten-ledger closure preserves30rows and all before-pins; final clarity/presentation derivatives remain attributable root edits. Receiving, mechanical preservation and future repository audit are distinct. The [canonical adoption/publication audit](09%20Audits%20and%20Manifests/KONOSUBA_YORI01_VALIDATION_RECEIVING_AND_PUBLICATION_AUDIT.json) records exact final streams and complete prefix/targeted-inverse proofs. No primary media, raw XML arrays, private acquisition details or credentials are published.
+
+Next operation is this YORI01 increment's final staged author preflight, normal source push, exact remote readback, source audit, housekeeping and final actual-source integration status. Latest fully audited source remains3b92 until that complete new gate closes. Then reload actual published authority and separately admit MASK principal prose under the same frozen baseline. MASK is still package-only, both Dust holdout bodies and all excluded/expanded/image bodies remain closed, and producer remains shielded. The run is ACTIVE/OPEN/highwater17; all later full-program stages remain authorized, with no routine owner confirmation or archival release.
+
+
+## Yorimichi publication reconciled; MASK principal admission — 2026-10-17T16:51:08.472589+00:00
+
+The YORI01 increment is fully published and audited at `0f8ae12a3b18c968ba4f5f6052dffab25c3eee59`, tree `abecbd7d91a9ba4df5d3c8cbab3482a8f50b21a2`. Normal reconciliation merge `afd786c900bb3fcaf3d25c6110e450eafabaccb5` preserved source3b92 and current main `108300099ba20305091a1050fcde33f203afb671`; all11 imported Shuukura streams equal that main. Final author preflight passed for8,118paths. Exact remote commit/tree/all8,118paths/all39changed streams matched (28 authored KonoSuba,11 approved main imports). Source audit39050310856/job117447377156 and final39050739717/job117448624400 each passed all352fulltests without error/failure/skip; housekeeping39050709951/job117448538300 was NO_OP. Actual AUDIT_COMMIT/SOURCE_SHA are0f8ae12a; displayed dispatched-main10830009 is not the audited source. Repository integration audit succeeded16:49:25Z targeting the finalrun. Root closed the gate16:49:52.041133Z, receipt SHA256`317fa90b9258d4df02c0704826c8b3078ac9de3a6b2fe01778e90e2c85b55b44`. Earlier pending-at-authorship statements are historical and no longer block continuation. This is source-branch closure; protected-main integration and archival release are not asserted.
+
+YORI01 retains13C/7P/1localF/2AMB/16NT across39 overlapping contract dispositions, with K08's direct insult opposite and all receiving disagreements/initial states intact. No accuracy denominator or whole-model retirement follows. MAIN_ONLY_R1 remains unchanged at its original3b92 freeze; all66 suite products are current-byte exact and all72 original suite/CR007overlay identities remain exact at3b92. Four latest overlay ledger versions contain approved YORI validation appends and are distinguished from those historical pins. Root freshly reloaded94 published inputs16:49:53 before the next admission, reload SHA256`bbda2f091cb415c6a069331f3308bb6520c9a07ed5422b551a6b903304521e08`. The sealed source-unexposed protocol/all43literal questions still govern unchanged; their complete actual pre-MASK refresh is recorded separately. PriorYORI outcomes are known; no claim of absolute model-memory blindness or independent statistical trials is made.
+
+MASK principal was separately admitted16:49:53.455649Z after that complete gate/reload. Canonical Drive1K0RpOsXiMK-9JKIXxmOxX1YcD30-MwuS matches2,895,671bytes/SHA256`fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127`; Japanese OPF2.0/content.opf, CRC, manifest/spine/NCX and fixed41matrix identity were verified. Only Pro/C01-C05/Epi at text/part0009/0011/0013/0015/0017/0019/0021.html are admitted:2,862all-bodyP/111,130base/all2,915ruby, zero non-p prose residual. One-based member-local blank/image slots and rawp/ruby/base/break distinctions remain reproducible. Admission SHA256`6fc626cd801c5ca51864a41e3c284d113ef7cd566bfdace616e7885d673bf2e7`. Actual source reading is now released but incomplete; no MASK test outcome or StageC literary/component completion is invented. Its separately labelled electronic bonus0023, afterword image0022 and all other excluded/front/end/image components remain closed, as do DUST06/07 bodies. New root/independent/semantic full passes will seal before substantive findings exchange. Producer remains shielded from holdout narratives/findings/scores.
+
+Current operation remains WITHHELD_SOURCE_VALIDATION, ACTIVE/OPEN/highwater17. Continue MASK actual ordered principal reading/all39 unchanged-baseline opportunity assessment, receiving and its separate publication gate; then the two designated Dust holdouts. All19 supplemental books' full literary/component responsibilities,17 main-edition excluded-component inventories,five actual mixed/reference inspections,expanded synthesis,attributable post-validation revisions/qualified secondary subjects,full synthesis/evidence indexes/component audit remain authorized and unfinished. Principal validation reading is not complete EPUB or expanded-program coverage. No routine confirmation is required.
+
+
+## MASK source-local validation accepted; containing publication pending
+
+The [MASK all39 register](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_ACCEPTED_ADJUDICATIONS.json) was accepted at 2026-10-17T17:53:18.365009+00:00: 210,188 bytes, SHA256 `adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967`. It records 8C/9P/22NT plus four generated-response-only N/A constraints, not accuracy or independent trials. Each root/I/S lineage completed the same seven principal members: 2,862 paragraphs, 111,130 base characters and all 2,915 ruby objects, in 31/28/30 ordered displays respectively. Overlap is not added. Separate initial seals precede substantive exchange; later receiving is coordinated. Shared main/model/YORI ancestry, possible memory/legacy exposure and unknown settings preclude absolute blindness, human/native review or statistical-independence claims.
+
+Original assessments, source-first event/form observations, corrections and actual reviewer boundaries remain retrievable in the [four-book validation](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md) and its evidence streams. K04’s first eligible settlement, K05’s continuing prior objective, K08’s complete pragmatic purpose/surface, A01’s joint failure parameters, A03’s later authority function and E06’s transferred boundary remain qualified. E08’s royal C at MODERATE functional confidence preserves I’s P dissent, the earlier safe choice and separate night confounds. Actor/chronology errors and later search-rule/friendship-invitation/locator corrections are attributable; no opposite is silently removed or rescued with a new guard.
+
+Ten ledgers receive 30 Phase B observations outside derivation, preserving every complete 0f8 prefix and the original 3b92 main-only versions. All 66 suite artifacts remain current-byte exact. All 72 historical suite/CR007-overlay identities remain exact at 3b92. The original a446 freeze/680748 registry, 43 literal contracts, 90 synthetic responses/settings/criteria and every Gen01–05/YORI score remain unchanged. YORI’s K08 local F and earlier failures remain adverse. Latest ledger appends do not replace frozen states. Source coverage advances only MASK’s mutable validation fields and seven principal components; all other 40 objects and the fixed 41-object identity seal remain unchanged.
+
+The last fully audited source remains `0f8ae12a3b18c968ba4f5f6052dffab25c3eee59`, with its closed YORI gate at 16:49:52.041133Z. That satisfied historical gate does not certify this new MASK transaction. Ordinary local merge `9167acb39cad7b323d3d07b20cddce7589df5c5f` preserves source 0f8 and main `23064c95c652cafefea486e30d806ba858d0e1a9`; all 13 imported Shuukura blobs equal that main, and the committed KonoSuba subtree plus both unstaged progress files were preserved. It is not yet published. The [MASK receiving/publication audit](09%20Audits%20and%20Manifests/KONOSUBA_MASK_VALIDATION_RECEIVING_AND_PUBLICATION_AUDIT.json) binds the candidate and preservation proofs. Next: refresh current refs again, finalize exact-path staging and author preflight, publish normally, then complete remote readback, source audit, designated housekeeping and final exact-head integration status. Protected-main integration of this transaction and archival release are not asserted.
+
+After that full gate closes, reload published authority, refresh unchanged questions and separately admit Dust06, then Dust07 after its own gate. Both Dust bodies, MASK bonus0023/afterword image0022, all excluded images/front/end and other expanded bodies remain closed. Producer remains shielded from holdout findings for potentially bounded later natural-order secondary reading. Principal validation leaves full Stage C literary and edition responsibilities pending. All 19 supplemental books, 17 main-edition excluded-component programs, five actual mixed/reference inspections, expanded synthesis, attributable revisions/qualified secondary models, full-series synthesis, evidence indexes/claim revision and substantive final audit remain active. No routine owner confirmation, arbitrary coverage percentage or project-completion claim is introduced.
+
+
+## MASK publication reconciled; Dust06 principal admission — 2026-10-17T18:20:42.190951+00:00
+
+MASK’s complete publication gate closed at 2026-10-17T18:20:00.931531+00:00 for `404591edabad4b8fc1224c75de0ca57ea1d034d3`, tree `44bc6798708d683effb077ce627126cab4184019`. All 8,164 remote tree paths and 79 changed streams matched: 31 authored KonoSuba files and 48 unchanged accepted main imports (13 Shuukura, 35 Genocidal Organ). Ordinary merges 9167acb3 and cc48007d preserve both histories. Source audit 39056897745/job117466603352, no-op housekeeping 39057125739/job117467273649 and final audit 39057158345/job117467367120 all succeeded. Source and final each executed all 352 tests without non-success. Actual AUDIT_COMMIT/SOURCE_SHA are 404591edabad4b8fc1224c75de0ca57ea1d034d3; dispatched displayed-main metadata is separate. Repository integration audit succeeded at 2026-10-17T18:17:38Z and targets the exact final run. Gate receipt SHA256: `0ebe4b071fb05cc99037a2af49c3f53eef76765a7d4d98492b7e93c27b63042c`. Earlier pending-at-authorship statements are reconciled and do not block continuation. This is source-branch publication; protected-main integration and archival release are not asserted.
+
+MASK retains 8C/9P/22NT and four generated-only N/A constraints, including E08’s MODERATE functional C with independent P dissent. YORI01 retains 13C/7P/1localF/2AMB/16NT, including K08’s local failure. These overlapping dispositions are not accuracy. All 66 main-only suite products and the original a446 freeze/680748 registry remain exact; all 72 historical suite/CR007-overlay identities remain retrievable at 3b92. Later ledger appends do not replace those snapshots. No model, literal contract, original simulation or earlier Gen01–05 score changed between sources.
+
+Before this admission, current published authority was freshly reloaded at 2026-10-17T18:20:26.537101+00:00: 116 current pins, all 66 frozen products, 72 historical identities, both prior accepted registers and all 11 original YORI evidence streams were checked. Reload receipt SHA256: `a3609e0e7f962d1d5dea6d8e7b8b1b38af2dbcdfab3a82c85adf11177d15d3ef`. Root freshly read the complete original four-source protocol and all 43 applicability questions/cautions, reusing exact previously received literal model texts. Both continuing reviewers separately sealed their preparation with no Dust source exposure. Earlier findings and possible pretraining/legacy memory are known; no absolute blindness or statistical independence is claimed.
+
+Dust06 was separately admitted at 2026-10-17T18:20:38.004420+00:00 under unchanged MAIN_ONLY_R1. Canonical Drive object 1deppIfv8B-2XrcwqxIvgg-k9Y3CAURQq matches 4,582,670 bytes, SHA256 `d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1`. Japanese OPF3.0 item/standard.opf, spine/EPUB3 navigation, CRC and source-matrix identity were verified. Multiple OPF creators are not conflated into one author role. Exactly C01–C04 and Epi at item/xhtml/p-002.xhtml through p-006.xhtml are admitted: 2,977 all-body paragraphs, 97,693 base characters and all 2,787 ruby objects. One-based member-local blank/image slots and material base/ruby/style/break distinctions remain reproducible. Admission receipt SHA256: `baab90f8286f56cf6c11d80a96eed55c0ed2e39e2868d699801a463ee20c4786`.
+
+Admission/extraction is not completed reading or a validation result. Actual principal reading is released and IN_PROGRESS; no Dust06 event or outcome is invented from a title or metadata count. Afterword p-007, every actual illustration, front/end/colophon and other excluded components remain semantically unread or unviewed pending separate Stage C review; structural wrapper/package inspection is a different scope. Dust07 remains closed. Producer remains shielded from all holdout narratives/findings/scores for potentially bounded later natural-order Dust01–05 work. Root and the two continuing source reviewers will seal their separate initial Dust06 discoveries and all39 assessments before substantive exchange.
+
+The current operation is WITHHELD_SOURCE_VALIDATION, ACTIVE/OPEN, main high-water V17. Continue the entire admitted Dust06 principal narrative, unchanged-contract opportunity assessment, receiving and its separate publication gate; then Dust07 through its own gate. Complete four-book validation before expanded analysis or model revision. All 19 supplemental books’ complete literary/component responsibilities, 17 main-edition excluded-component programs, five actual mixed/reference inspections, expanded synthesis, attributable revisions/qualified secondary subjects, full synthesis, evidence indexes and substantive final audit remain authorized and unfinished. Principal validation is not complete edition or expanded-program coverage; no routine confirmation is required.
+
+
+## Dust06 complete root principal pass; initial assessment sealed — 2026-10-17T19:03:03.422697+00:00
+
+Root has completed the five admitted Dust06 principal members in source order: 2,977 all-body paragraph slots, 2,862 nonempty, 97,693 base characters and all 2,787 ruby objects. The 22 complete durable display windows preserve material paragraph/emphasis/break cues. An earlier unacknowledged C01P301–400 display was actually reread after context recovery; it is not extra source coverage. Complete-reading seal SHA256: `1efdf40ec22ca22f8a42836fb8f0e71fc81e1def1d83f1c073f060253f1e814c`. Root’s 67 source-first observations retain adverse evidence and are grouped into 29 underlying episode cards, which are not independent statistical trials. Source reading, analytical acceptance and publication remain distinct.
+
+Root’s unchanged-contract all39 initial assessment plus four generated-only N/A records sealed at 2026-10-17T18:43:45.104193+00:00, before any substantive Dust06 peer findings were received. Initial seal SHA256: `5e1873d5f1a4f973c10b4c9d0b8c1246b65badb9fa6d5728a30d37a69cd2d5ac`; product SHA256: `50054343e593d8f7ce583028e0687e4da692b8f2318be0d9d5565adbc6a9844c`. The semantic reader has separately sealed a complete source-only initial bundle. The independent reader has separately completed the full source pass and is still finalizing its initial assessment. All substantive exchange remains closed until all initial seals are complete. The producer remains shielded. No final Dust06 score, canonical ledger adoption, reconstruction change or new publication is claimed.
+
+Current Dust06 chronology is explicitly after the MAIN15 Serena affair (C01P167); no exact upper bound is established. The knight-era seven-day flight, prison/farewell and the present outing are separate source timelines. Leen’s first-person captivity passages must not be assigned to Dust’s knowledge. MAIN15 retelling, daily Explosion references and hypothetical Darkness preferences do not manufacture new principal-character decision opportunities. A reported unnamed priest’s Cure (C04P131) remains unidentified. Possible adverse quiet behavior, actual objections, incapacity, later cooperation, unreliable accounts and the timing of safety assurances remain open for adversarial receiving under the original literal thresholds.
+
+**Attributable operational precision.** The private MASK gate receipt’s statement that no Dust06 package member had been opened was too broad: OPF/navigation/mechanical structure inspection actually occurred at 18:08:18.466249Z, before the gate closed, without displaying any narrative paragraph or actual image. Raw acquisition and package inspection were not narrative admission. Separate Dust06 principal admission remained 18:20:38.004420Z, after the MASK gate and published-authority reload. The original gate receipt is preserved; this clarification corrects its literal metadata-exposure wording without inventing earlier narrative blindness or changing the valid narrative gate.
+
+A clean pending main reconciliation was found in the workspace after a runtime transition. Its parent is current accepted main `6a9e07c5175b884e8f2e567d25141d52353f35c0`; all 26 staged Harmony paths exactly match that main, and the indexed KonoSuba subtree still matches source `404591edabad4b8fc1224c75de0ca57ea1d034d3`. Root did not initiate that merge in this resumed segment; both source-review lineages deny Git mutation. Its originator is not invented. The verified pending candidate is preserved for later controlled reconciliation/adoption, with no merge commit or publication yet. The prior private resume note’s count of 25 Harmony paths is corrected to 26. These are accepted imports, not new KonoSuba authorship.
+
+Next: finish the independent initial seal, receive all new substantive reports/records with exact prior-text reuse disclosed, resolve or preserve disagreements, and only then assemble an accepted Dust06 validation transaction and its full publication gate. Dust07 remains closed. Afterword p-007, actual illustrations, front/end material and every other unadmitted expanded component remain semantically unread or unviewed. The latest fully audited source remains MASK at404591ed. The complete authorized expanded program, revisions, indexes and final audit remain unfinished and active; no routine confirmation is required.
+
+
+## Main-only evidence indexes adopted; Dust06 coordinated receiving — 2026-10-17T19:24:32.932815+00:00
+
+The accepted main-only [source locator index](08%20Evidence%20and%20Indexes/KONOSUBA_SOURCE_LOCATOR_INDEX.md) and [character-model evidence matrix](08%20Evidence%20and%20Indexes/KONOSUBA_CHARACTER_MODEL_EVIDENCE_MATRIX.md), with its structured companion, are now adopted at their required canonical homes. Their [adoption audit](09%20Audits%20and%20Manifests/KONOSUBA_MAIN_ONLY_EVIDENCE_INDEX_ADOPTION_AUDIT.json) records exact complete products, bounded substantive receiving, unchanged analytical arrays, reversible public metadata transformations, all66 checked relative links and six actual tested-core recoveries. Private tested-core locations become opaque recovery aliases; the public inverse record still reproduces every original tested byte. The semantic receiver’s V3 review is closed. Its lifecycle findings are repaired; its initial misreading of an existence-boolean mapping is explicitly corrected. Earlier private/pending paragraphs remain preserved and clearly historical.
+
+This accepts the main-only index plane, not the whole41-object/component program. The75 curated claims,102 windows,61 witness joins,162 section responsibilities,168 protocol routes and43 frozen contracts overlap and are not independent observations or a complete claim census. Inherited coarse locators and the main freeze’s actual versus metadata-affiliated member-reading limits remain visible. No new source, current model, original score, CR007 overlay or frozen ledger state is changed. Full expanded evidence indexing and final acceptance remain required. Containing source-branch publication and its exact-head gate are pending at this entry’s authorship; live publication will be reconciled here after actual completion. Latest fully audited source remains MASK404591ed, not this new unpushed candidate.
+
+All three Dust06 complete principal initial assessments are now sealed and substantive exchange has been released separately. Root has actually received all new39+4T fields from both readers, their complete65/75 event inventories,10/26 exact-witness records and both full reports. Unchanged43 literals/questions are reused by exact equality; repeated metadata is explicitly factored. All212 independent-reader interval occurrences and36 witness joins pass mechanical source checks; that is not literary acceptance. Root’s full principal pass remains67 discovery notes/29 episode groups, with26 later purposive voice/humor examples, not a new J02 census or reliability denominator. All original initial bytes are preserved. Coordinated adversarial receiving/adjudication remains IN_PROGRESS; no final Dust06 score or canonical ledger/source-coverage acceptance is asserted.
+
+Attributable source corrections remain external: root’s old-wedding shorthand “tomorrow” was wrong; C02P173/196 says the day after tomorrow, matching the independent initial. C02P896 is Line’s conditional judgment that all-out fighting could probably repel the commander, separately constrained by gratitude and no escape897–898. Vacant eyes304 coexist with actual speech305 and muttering306; later exhaustion323 is not proof of earlier incapacity or consent. The aerial sleep effect has an actual provider/cue but no printed formal spell name. No correction silently edits a frozen model or prior initial.
+
+The ordinary accepted-main reconciliation is recorded separately and preserves all26 Harmony imports and all earlier source history. No originator is invented for the previously detected pending merge. Root controls the verified final adoption transaction. Dust07 and all excluded/image/expanded narrative components remain closed. Producer remains shielded. Continue complete Dust06 receiving, source-backed acceptance and its separate full publication gate, then Dust07; all later authorized StageC/D/synthesis/index/audit responsibilities remain active without routine confirmation. This index transaction neither closes StageB nor grants archival authority.
+
+
+## Main-only indexes fully published; Dust06 source-local acceptance — 2026-10-17T19:39:37.770198+00:00
+
+The main-only evidence-index transaction is fully published and audited at source `0d8067f1e3909556c9c5ee54f293678dff0406b7`, tree `48e595997747e0e4330861fba25b30f34578e82d`. Its gate closed 2026-10-17T19:38:19.994444+00:00. All8,186 remote paths and32 changed streams matched:6 authored KonoSuba paths and26 unchanged accepted Harmony imports. Source audit39062623198/job117483548992, no-op housekeeping39062993304/job117484639564 and final audit39063028797/job117484751875 succeeded. Source/final each executed all352 tests without non-success; actual AUDIT_COMMIT/SOURCE_SHA are0d8067f1. The final Repository integration audit status succeeded at19:37:08Z and targets that final run; displayed default-main6a9e07c5 is separate. Gate receipt3,760bytes/SHA256`5937f1340e133223f8c2d65f4a3be2b9d314fcca8d7d103c8898bd16f9b7040d`. Earlier pending index wording is historical and reconciled. Protected-main integration and archival release are not asserted.
+
+Dust06’s five admitted principal members were substantively accepted at 2026-10-17T19:39:07.686147+00:00 against unchanged MAIN_ONLY_R1. The accepted private register is229,826bytes/SHA256`f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e`:4C(E03/E04/E05/E07),1P(E08),2AMB(E01/E06),32NT(all31 individual contracts plusE02), with four generated-only N/A controls. E02’s formal NT preserves both reviewers’ component-only P/full-trigger-untested labels. E01’s worm-delay and E06’s quiet/yield cases retain genuine one-case adverse interpretations and unresolved original guard/function/access questions; compatible examples do not cancel them. E04’s historical matched choice supports bounded C with initial P and staff counterevidence retained. All original initials, literal conditions, earlier failures and original blank fields remain exact. Counts are overlapping dispositions, not accuracy.
+
+Both reviewers closed the concrete all39 successor and all20 observations across ten ledger payloads. Exact route repairs, source corrections, prefix preservation and full inverses are received at their declared bounded scopes; no new full primary reading is claimed from those mechanical checks. Actual acceptance is now recorded, while public evidence/report/source-coverage/ledger adoption, commitment and this Dust06 transaction’s separate full publication gate remain pending. Only actual acceptance metadata may replace the reviewed private placeholders. Root will materialize those concrete products, verify and publish them, then close their exact-head gate before admitting Dust07. All excluded afterword/image/front/end bodies remain closed, producer remains shielded, and the complete authorized StageC/D/reconstruction/synthesis/index/audit program remains active without routine confirmation.
+
+
+## DUST06 accepted evidence materialized; separate publication pending — 2026-10-17T19:49:53.629486+00:00
+
+The [third holdout validation](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md) now has concrete public original initials, accepted all 39 record, source/event/form indexes, attributable corrections and actual receiving records. Accepted at 2026-10-17T19:39:07.686147+00:00, the unchanged-R1 score is 4C/1P/2AMB/32NT with four generated-only N/A controls, not independent trials or accuracy. E01's pre-reward delay and E06's quiet/yield cases preserve plausible single-case adverse readings with unresolved original guard/function questions. E04's bounded historical C preserves the original P and staff counterevidence. E02 is formally NT with both component-P/full-trigger-untested recommendations visible; E08 remains P without actor/scene splicing.
+
+Twenty accepted Phase B observations append to all ten existing ledgers; every complete prior ledger remains an exact prefix. Only the actual acceptance UTC, removal of the private pre-adoption qualifier, and three previously reviewed candidate-to-accepted labels change in the payloads. The source matrix advances only DUST06's current fields and five principal member dispositions; all 40 other source objects/register rows and the fixed 41-object seal remain exact. No frozen R1 model, 43-contract registry, 90 original simulation responses/settings/criteria, Gen01–05 history, YORI K08 local F or MASK dissent changes. All original initials and earlier outcomes remain independently retrievable.
+
+The [receiving/publication audit](09%20Audits%20and%20Manifests/KONOSUBA_DUST06_VALIDATION_RECEIVING_AND_PUBLICATION_AUDIT.json) binds exact reviewed products and the preservation boundary. Latest fully audited source remains 0d8067f1, whose main-only index gate closed 19:38:19.994444Z. This new Dust06 candidate still requires exact final author preflight, ordinary source publication, complete remote readback, source audit, designated housekeeping and final actual-source audit/status. Accepted main 98ffb5d8 was incorporated through ordinary merge 4bb538a2: all 15 Shuukura imported paths match main, the committed KonoSuba subtree is unchanged, and both existing progress streams are preserved. Protected-main integration and archival release are separate and not asserted.
+
+Next after the Dust06 full gate: reload the actual published authority and unchanged preparation, then verify/admit/read Dust07 separately. Dust07 and all excluded source bodies/images remain closed. The source-first root 26-form sample is purposive, not a J02/reliability denominator; separate sealed initials and later coordinated receiving do not create statistical or absolute blindness. Root's later Dust01–05 account would be retrospective after Dust06 exposure; the producer remains shielded for potentially bounded natural-order work. Full Stage C literary/component analysis, all 19 supplements, all 17 main-edition excluded components, five actual mixed/reference inspections, expanded synthesis, attributable principal/interaction/transfer revisions, justified secondary treatments, full-series synthesis, expanded evidence indexes/claim revisions and final substantive completion audit remain active without routine owner confirmation.
+
+
+## DUST06 full gate closed; DUST07 principal admission — 2026-10-17T20:14:01.279970+00:00
+
+DUST06 is fully published and audited at source `757c58fc8ab0dbd11ac7ea3a904197dc3299cf26`, tree `8fb12bff9f92328f3b93202b5bc9a8d098fe69ac`. The gate closed at 2026-10-17T20:11:08.526739+00:00. All 8,213 remote paths and 53 changed streams match: 38 authored KonoSuba paths and 15 exact accepted-main Shuukura imports. Source audit 39064800996/job 117490088243, no-op housekeeping 39065206698/job 117491308536 and final audit 39065239510/job 117491404679 succeeded. Both actual-source audits passed all 352 tests without failure, error, skip or expected-failure exceptions. Final Repository integration audit status succeeded at 20:10:42Z and targets the actual final run. Displayed main 98ffb5d8 is separate from audited source 757c58fc. Gate receipt SHA256 `92978c86d69b5e0d659bb9332639410cc5103fe0c6416a050060fa4819293f1f`. This reconciles the earlier pending-at-authorship statements; those original observations remain preserved. Protected-main integration and archival release are not asserted.
+
+The accepted Dust06 record remains 4C/1P/2AMB/32NT plus four generated-only source N/A controls, not independent trials or accuracy. All source/guard disputes and prior failures remain unchanged. Its five-principal validation and twenty Phase B ledger observations leave full Stage C literary/edition/component responsibilities pending. Main-only R1, all 43 literal contracts and original execution histories remain exact.
+
+Fresh published-authority reload at 20:11:10.876881Z pinned all 198 current project artifacts, all 66 current immutable suite products and all 72 historical suite/CR007 identities at 3b92. The three accepted source score registers remain exact; the fixed 41-object seal remains unchanged. Original all-four preparation remains governing. Root freshly received all 43 questions/cautions before this admission; both continuing readers sealed late informed readiness without new source access. Prior source/model knowledge, shared AI ancestry/workspace and uncertain pretraining preclude absolute blindness, native-human review or statistical independence.
+
+DUST-07 was separately admitted at 2026-10-17T20:13:03.558500+00:00, after exact native/hash, Japanese OPF3/spine/navigation and principal-boundary verification. Drive object `1CmJWSWaNgb14en11kT76YFBOqK9-uCoF` is 4,740,436 bytes/SHA256 `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5`. Only Pro/C01/C02/C03/Epi at item/xhtml/p-002.xhtml–p-006.xhtml are admitted: 2,881 all-body slots, 2,769 nonempty, 100,169 base characters and 2,837 ruby objects. Base/ruby, full paragraph XML, material styles and breaks are preserved privately with exact per-member/projection hashes and one-based locators. The source-admission receipt SHA256 is `ff8dac88a7a67064fab6c6522b285fe93103b94cafe5a7df36d29e1e0ac37239`. This is admission, not completed reading, validation or publication. The source register's last accepted boundary remains distinct from this in-progress private admission and will advance through the accepted transaction.
+
+Next: complete the entire ordered principal reading and source-first literary/humor/voice discovery, seal original all39+4T assessments before substantive peer exchange, receive counterevidence, and publish/audit the accepted Dust07 transaction before expanded admission. Afterword p-007 (35 slots/1,769 base characters), actual images and all excluded front/end/colophon/promotional bodies remain semantically unread or unviewed. The no-non-p-residual statement applies only to the five principal members; excluded colophon residuals are metadata only. No absence of bonus fiction is inferred from navigation. Producer remains shielded. Full four-book validation, all 19 supplemental prose volumes, all 17 main-edition excluded-component programs, five actual mixed/reference inspections, expanded synthesis, attributable model revisions, justified secondary treatments, full-series synthesis, expanded indexes/claim revisions and substantive final audit remain authorized and unfinished.
+
+
+## DUST07 complete root principal pass and sealed original assessment — 2026-10-17T20:44:19.124932+00:00
+
+The latest fully published/audited authority remains source `757c58fc8ab0dbd11ac7ea3a904197dc3299cf26`, tree `8fb12bff9f92328f3b93202b5bc9a8d098fe69ac`; the Dust06 full gate is closed as recorded above. Root has now actually received the entire admitted Dust07 principal narrative in order: all five members, 2,881 paragraph slots/2,769 nonempty, 100,169 base characters, all 2,837 ruby objects/all 4,367 rt nodes. Twenty-seven complete acknowledged display windows and 107 original source-first observations are sealed. The separate full-pass receipt is 3,945 bytes/SHA256 `7d31abcf06ad4de00b9fcc1e6c765e0c8a9ad674db24141cc986ebabb1d42b6d`. Source admission/acquisition, actual reading, contract adjudication, receiving acceptance and publication remain distinct responsibilities. Actual images and every excluded body, including afterword p-007, remain unopened.
+
+Root's original complete 39 behavioral/valuation assessments plus four generated-only source-N/A controls were sealed before receiving any peer Dust07 substantive findings: assessment 392,966 bytes/SHA256 `556cfc12e64be07fba3603f2c338d4a76e583c1fac17d5abe0c047b78c900254`; initial seal 929 bytes/SHA256 `d0bf1435a2b3d5447338667192762195db6bcf235223541e6351700626ab34c4`. These are original initial recommendations, not an accepted scorecard. Previously known MAIN16/17 events, new Dust-view consequences, actor/impersonator separation and candidate adverse/ambiguous cases are retained. The original main-only R1 and all 43 literal contracts, prior forecast histories and three accepted holdout registers remain unchanged. Root's separately coded 68 selected source-first humor/voice witnesses are 92,648 bytes/SHA256 `b7a5755db89ec05f4eb5f5c149142f26f46dc2f6492bab15ca443488ef33cb2a`; three are explicitly noncomic/sincere voice witnesses. This purposive sample is neither a complete gag census, J02 denominator nor statistical reliability estimate; mixed language/register cases and reported/imitation voices remain qualified.
+
+Both continuing readers report full ordered principal passes, but their original all39+4T seals still require receipt and exact verification. No substantive findings have been exchanged. Next: verify all three complete original assessment seals, explicitly release the bounded comparison, actually receive newly authored reasoning and primary checks, resolve or preserve disagreements, then accept the Dust07/four-book validation transaction and close its complete publication gate before Stage C source admission. Earlier pending-at-authorship statements remain historical. Full expanded literary/component coverage, post-validation attributable reconstructions, evidence indexes and the final substantive audit remain authorized and unfinished; no protected-main integration or archival completion is asserted.
+
+
+## DUST07 and four-book validation accepted/materialized; containing gate pending — 2026-10-17T21:23:16.911562+00:00
+
+All four predefined principal validation programs and all 39 cross-source diagnoses were accepted at 2026-10-17T21:16:29.555881+00:00 under unchanged MAIN_ONLY_R1. DUST07 has 6 C/1 P/1 local F/31 NT plus four generated-only source N/A controls. Full [validation report](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md) and exact original/accepted/attributed-review evidence preserve YORI K08 and DUST07 E06 failures; DUST06 E01/E06 ambiguity; MASK E08 dissent; E03 care gaps/E05 correct inference/E08 compound limits; and named-subject dependent/adverse surfaces. No pooled accuracy, 156 independent trials, source 4T replay, or model retirement is claimed. Historical candidate/pending strings remain authored history, expressly superseded by actual acceptance and later publication facts.
+
+Thirty Phase B observations append to all ten existing ledgers with exact complete previous prefixes; the sole reviewed header operation stamps actual acceptance UTC. DUST07 source matrix current fields advance for five principal members only, with other 40 objects/register rows, fixed 41 identity seal, edition/provenance history and all 66 current immutable suite pins exact and all 72 historical suite/CR007 pins independently retrievable at 3b92; six overlay latest paths may contain later accepted ledger history. Principal/main-only forecasts/models/43 contracts/original 90 simulations/settings/criteria, Gen01–05 and prior 3 scores remain unchanged. No main-only reading or retrospective forecast is rewritten. The sword-loan private viewpoint requires later attributable Stage D qualification, not silent baseline repair.
+
+Latest fully audited source is `757c58fc8ab0dbd11ac7ea3a904197dc3299cf26`, tree `8fb12bff9f92328f3b93202b5bc9a8d098fe69ac`, gate closed 20:11:08.526739Z. Ordinary accepted-main reconciliations 697e91e0/747f4973 preserved all 11 d1021d6d and 13 cce4eb7c imported Shuukura paths, the committed KonoSuba subtree and both unstaged progress streams. This new concrete transaction still needs author preflight/nonforce publication/exact remote readback/source audit/designated housekeeping/final actual-source Repository integration audit. Its [receiving/publication audit](09%20Audits%20and%20Manifests/KONOSUBA_DUST07_AND_FOUR_BOOK_VALIDATION_RECEIVING_AND_PUBLICATION_AUDIT.json) records acceptance, reviewer limits and preservation; pending publication cannot be certified by an older gate. Protected-main integration/release remain separate.
+
+**Next permitted operation:** close this containing publication gate; then reload current published authority and admit substantive Stage C work in the existing architecture. Until then Stage C narrative access remains CLOSED. Four principal validations do not complete entire editions or literary analysis. All 19 supplemental prose books/components, 17 main-edition excluded-component programs, five actual mixed/reference inspections, expanded synthesis, versioned principal/party/transfer revisions, qualified secondary models/profiles, full-series synthesis, expanded locator/evidence/claim-revision indexes and final component audit/release remain authorized and unfinished. Root/I/S know Dust06/07, so their later Dust01–05 accounts are retrospective; the shielded producer may supply narrowly bounded natural-order evidence after explicit admission. No universal blindness, new independent coding, acoustic certification or actual image inspection is invented. No final archive/analytical completion is declared.
+
+
+## Concurrent nightly source and main reconciliation preserved — 2026-10-17T21:46:18.550724+00:00
+
+The intervening source `a31d63672aa7da96f51cdcc60ab8378fa1d0fbae` completed its own full gate at 2026-10-17T21:43:20.528541+00:00: source audit 39071340313/job 117509429424, NO_OP housekeeping 39071648835/job 117510332379 and final audit 39071676537/job 117510412923; both full audits passed all 352 tests. Its exact Repository integration audit succeeded 21:42:00Z. These live later facts supersede earlier dated latest-source statements without changing their historical observations. This mechanical main reconciliation is not the pending DUST07 analytical publication.
+
+Owner-authored PR 216 merged that exact source into main `ff5e454a598c0de3d506a9c5d45e80c63b24cc28` at 21:42:10Z. The complete source/integration/local-base trees are identical: `47841ef2a6ec60c480cfa2dae9b7e9b1d9e7b76f`. Separate ordinary local merges 9de7162e4a39b6ffe49e8b2d86eb0880a0692f44 and 4e81cc98e592c0b4653bfa4afb54f50acad5396c preserve both histories. Each exact unchanged index passed author preflight; all 52 accepted working products stayed byte-identical. The main commit's separate postmerge audit remains separately tracked; its success is not inferred from source audit or tree equality.
+
+The adopted DUST07/four-book transaction still requires its own final author preflight, ordinary source push, full readback/source audit/housekeeping/final actual-SHA audit. No older successful gate certifies its new commit. Stage C narrative access remains CLOSED until that separate gate; principal validation, whole-edition inspection, literary completion and model revision remain distinct. All original source/model/prediction/score and analytical acceptance boundaries remain unchanged.
+
+
+## Four-book validation publication closed; Stage C Dust01 admission — 2026-10-17T22:00:16.674116+00:00
+
+The accepted fourth-source/four-book validation is fully published on source `c781155764c1d605a2859e1e87fb2cddf67e40b5`, tree `6ae521605d9462b065639fdaa83559fa57169bfe`. Exact readback matched all8,254 tree paths/all52 authored streams. Source audit39072403230/job117512538433, NO_OP housekeeping39072781523/job117513656555 and final actual-source audit39072808783/job117513740788 succeeded; both audits ran all352 tests without failure/error/skip. Exact Repository integration audit succeeded21:57:57Z; the gate closed2026-10-17T21:58:19.916567+00:00. Dispatched displayed-main ff5e is not the audited sourcec781. The [public gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_DUST07_VALIDATION_PUBLICATION_GATE_CLOSE.json) preserves these identities. Earlier pending-at-authorship statements remain historical and no longer block Stage C. Main PR216 through DUST06 separately passed its mandatory explicit postmerge audit39072059601/job117511525849 with all352 tests, verified21:49:45.022593Z; this does not assert protected-main integration of c781.
+
+Fresh exact published-authority recovery at2026-10-17T21:58:38.324101+00:00 verified all233 current project paths, all66 current immutable R1 products/all72 historical suite and CR007 pins at3b92, all four accepted source scorecards, the unchanged four-book diagnosis register and fixed41 identity seal. Original forecasts/models/90 simulations/settings/criteria/contracts/scores remain exact. Source acquisition now caches all41 matching native byte streams, which supplies no new literary completion.
+
+DUST-01 principal prose was separately admitted at2026-10-17T22:00:16.674116+00:00 after fresh native/hash, Japanese OPF3/manifest/spine/navigation/component checks:19,450,953bytes/SHA256`b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`, exactlynine Pro/C01–C05/I01/Final/Epi members item/xhtml/p-002.xhtml–p-010.xhtml. They contain3,185 all-body slots/3,068 nonempty/123,624base characters/3,299ruby/4,913rt; source locators preserve original XML/ruby/base distinctions. Admission/extraction is not reading or analytical acceptance. The first structural helper stopped on an element-tail serialization parse error without semantic text display; corrected with_tail=False projection completed and the failed partial run is retained privately.
+
+The shielded producer may read only those principal members in natural Dust01→05 order, retaining known MAIN01–17/model history/shared lineage/unknown-pretraining limits. Root/I/S already know Dust06/07 and their early-Dust interpretation is retrospective. Unknown-date ebook bonus アクアを観察, afterwordp011, all images/front/end/colophon and other nonprincipal components stay closed to that producer, while root may separately inspect them in this expanded phase. Main publication2017-08-01, package modification2023-03-25, fictional chronology and actual encounter order remain different facts. No later-Dust findings/scores/current full map are supplied to the producer.
+
+Next: complete admitted Dust01 actual ordered reading/source-first literary/humor/voice analysis, complete its separately identified edition components, receive the substantive findings and publish a coherent accepted expanded unit with separately tagged ledger/index/coverage updates. Complete the entire19-book/17-main-edition/five-mixed-book component program, expanded synthesis, attributable Stage D principal/party/transfer and qualified-secondary work, full synthesis/evidence indexes and substantive final audit. No source-local rescore, full-corpus completion or archival release is claimed.
+
+
+## Stage C Dust01 whole-edition acceptance; first expanded publication candidate — 2026-10-17T22:53:08.846506+00:00
+
+The [complete Dust V01 reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), separate edition-component analysis/register and selected 53 humor / 33 voice records are accepted with bounded receiving. The producer’s complete principal pass remains shielded from later Dust/bonus findings. Its early EpiP5 ruby/tail diagnostic is a separately disclosed within-Dust01 order exception; the second complete reader/root know later Dust. No statistical independence, pristine blindness, third root full principal pass or new holdout score is claimed. Five exact prose precisions and five component/context corrections retain originals and reversible before-images. Bonus DUST-01-BONUS-01 is completely read and analyzed separately. Seven new exploratory natural-order questions preserve all 14 blank outcome/adjudication fields.
+
+All ten ledgers gain separately tagged expanded observations; Phase B evidence-index extensions preserve exact accepted outcomes/failures. All 41 source identities and frozen main-only/forecast/score authorities remain unchanged. Cheers and Blessing have actual page-reading candidates under review; they are not accepted expanded publications in this batch. No other Stage C whole-edition completion is inferred from the four validation books. The full narrative-component denominator is still being mapped;1 of 19 supplemental book editions accepted is book accounting, not an expanded narrative-coverage percentage.
+
+Latest fully audited published source remains c7811557. Local ef8bfa56 ordinary-merged accepted main7f4f438e (11 unrelated Shuukura paths); all current Kono work was byte-preserved. This containing Dust01 batch still requires exact candidate verification, author preflight, normal push, remote readback/source audit/housekeeping/final actual-source audit. Dust02 narrative remains CLOSED until that gate and fresh source admission. Next dependencies remain all 19 supplemental editions/components,17 main excluded-component programs,5 mixed/reference actual inspections, expanded synthesis, attributable Stage D principal/party/transfer and justified secondary treatment, full synthesis/indexes/final substantive audit. The sole current entrypoint remains active; no archival completion.
+
+
+## Dust01 full gate closed; Dust02 and Memorial Fanbook separately admitted — 2026-10-17T23:14:53.541860+00:00
+
+Dust01 source `0ce33a0ff540c4aea0f695c375bfcc57db244bca` completed exact readback/source audit/NO_OP housekeeping/final actual-source audit at `2026-10-17T23:12:06.135006+00:00`. Earlier pending wording records authorship, not a live blocker. Both audits passed all352 tests; no R1/model/forecast/holdout score changes. Exact244published project paths and all66current frozen artifacts/four accepted scores were recovered before new admission. The complete seven Dust01 exploratory questions and all14original `future_outcome`/`adjudication` blanks remain exact. A preliminary admission helper checked a nonexistent `future_adjudication` name and stopped before narrative exposure; the actual immutable schema was then verified, the earlier reload reused by exact equality, and admission completed.
+
+DUST-02 freshly matches canonical Drive object1LSIVIe7jiHqBcoAKYjDawZNouMpaqmBP,18,886,514bytes,SHA256 `4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f`; fresh ZIP CRC/OPF/native member identities confirm Japanese EPUB3. Admission is exactly seven principal members item/xhtml/p-002.xhtml–p-008.xhtml (Pro/C01–C04/Final/Epi),3,052all-body P slots; admission/hash checks are not reading. Producer remains shielded from later-Dust/holdout findings, bonus p010 仲間の秘密, afterwordp009, actual images/front/end bodies. It retains main/shared-lineage/pretraining limits and the separately recorded within-Dust01 EpiP5 order exception. Whole-edition component work and retrospective receiving remain attributable separate responsibilities.
+
+FAN-MEM freshly matches canonical Drive1n0QMaIDQNDvRBqelMYPE_BjK_iLQ7jsh,69,401,330bytes,SHA256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`. All121native image/wrapper joins, OPF Japanese and actual ZIP CRC verify. Continuing semantic reader is admitted for actual page/component inspection, full eligible fiction/vignette reading and unequal-authority dispositions; no page viewing or narrative completion was credited at admission. Full121image metadata count is not a narrative denominator.
+
+Next: actually complete these admitted operations, receive and publish meaningful validated units; accept/publish source-correct Cheers/Blessing candidates separately. Complete all remaining19-book/17-main-edition/five-mixed programs, expanded synthesis, attributable Stage D models/secondary treatment, full synthesis/indexes/final substantive audit. Only Dust01 has accepted whole supplemental-edition analysis so far; no global component percentage or archival closure. Routine transitions require no owner confirmation.
+
+
+## Cheers/Blessing supplied-component acceptance; TRPG Core separately admitted — 2026-10-17T23:27:29.977226+00:00
+
+The [Cheers](10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) analyses, actual-page registers, linguistic records and receiving/provenance are accepted in this candidate. Cheers: root all137 actual pages, P complete5story pages, I12bounded pages; source-correct V5 preserves both Yunyun’s question and Kazuma’s page-edge hedge. Blessing: Iall157 actual pages; root full report/all157inventory/all68H/all22V/all28H3qualification receiving and14actual primary pages including complete song/story. Later receiving is coordinated, not pristineblind, independent-human or pooled coding. The original68Blessing labels are preserved; all28H3rationale warrants are separately qualified under the actual gag-contingency definition. No silent recoding, invented zero-H3 conclusion or new J02/holdout score.
+
+All ten ledgers and three evidence indexes gain source-plane-tagged additions, and only separately attributable Stage C fields augment the two matrix source/register rows. All41native identities, main-only R1/Gen01–05, original predictions/blanks and four-book outcomes remain unchanged. Current component denominator remains unresolved; two of five mixed supplied books accepted and one of19prose editions accepted are book accounting only, not an expanded narrative percentage.
+
+TRPG-CORE is newly separately admitted after Dust01’s closed gate and exact published-authority reload:118,704,701bytes/SHA256 `038bfc2d98f5e30853e041942805c7fe17eb8487ee33b8f18da5507f9e57e59c`, fresh ZIP CRC/Japanese OPF/all333native wrapper-image hashes. Admission is not reading/completion. The I reader may inspect only CORE, fullread eligible replay/fiction/embedded examples and separate GM/player/PC/rules/hypothetical/reference planes. ADV remains closed to that reader. Dust02 principal and FAN-MEM inspection are independently active under their already recorded admissions; later Dust remains closed to the shielded producer. Root’s early-Dust account remains retrospective after06/07.
+
+Latest fully closed published source is Dust01 `0ce33a0ff540c4aea0f695c375bfcc57db244bca`; this artbook candidate needs exact path staging/final-candidate review/author preflight/normal publication/readback/source audit/housekeeping/final actual-source audit. Before editing, current main `f6ff03557ed9a977dd860e232f2e7de52ac41722` was fetched and ordinary-merged, preserving the two accepted unrelated character-curation paths; no global file was manually edited. Continue remaining expanded19book/17main-excluded/five-mixed program, expanded synthesis, attributable StageD principal/party/transfer/qualified-secondary work, final synthesis/indexes/substantive audit. This remains the single active entrypoint; no complete/archived release.
+
+
+## Two-artbook exact gate reconciled; active expanded receiving — 2026-10-18T00:01:50.341293+00:00
+
+**Latest verified publication — 2026-10-17T23:44:50.688567+00:00:** source `1ef78c578734f01c3806eaa65bc346f6da5e10ab`, tree `de62b732d916236909178f86a1c7030310b006bc`, accepts the Cheers/Blessing supplied-component programs after Dust01. All8,282remote paths/all35changed streams match:33authored KonoSuba paths and2exact accepted main curation imports. Source39079377125, NO_OP housekeeping39079583747 and final39079611210 succeeded at actual1ef78c57; both audits ran all352tests. Exact Repository integration audit succeeded2026-10-17T23:39:27Z. The [two-artbook gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_TWO_ARTBOOKS_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes authorship-time pending states. Protected-main integration of1ef78c57 is not asserted. Fresh259-path published recovery confirms all66current frozen R1 artifacts,72historical pins and four accepted scorecards; the mutable claim-revision ledger has one attributable PhaseB frontmatter change plus appended history, not a changed frozen CR-MAIN body. Current main `03c2b3c1b6250a896c45eb337aad620b06786d62` was separately ordinary-merged at `e2555706e5da873530811e1222b81ff1e6967a8f` with19exact unrelated Shuukura paths and unchanged KonoSuba bytes. That local reconciliation is not a newly published analytical unit. Dust02/FAN-MEM/CORE continue under their separately verified admissions.
+
+Earlier artbook acceptance/publication-pending paragraphs describe authorship-time history. The containing1ef78c57 transaction is fully closed, not a permanent blocker. The exact original gate receipt is preserved; its remaining-program shorthand “all other19” does not alter actual accounting: one of19 supplemental whole supplied editions is accepted,18not yet whole-edition accepted; two of5 mixed objects are accepted andthree remain. All17main excluded-component programs and the global admitted-narrative-component denominator remain open; percentage staysnull. Dust02 producer has sealed complete principal analysis before excluded reading; FAN complete121-page report is in bounded receiving and CORE actual inspection remains active. None gains completion merely from a candidate, image count or source hash. No frozen R1/Gen01–05/forecast/blank/holdout score changes; no StageD or archival closure.
+
+The first current-authority reload guard stopped on the known mutable claim-revision frontmatter change. Exact historical3b92 bytes were recovered; reversing only the declared PhaseB source-boundary line proves the complete historical body prefix remains, with later additions appended. All66immutable products andall72historical pins verified separately. Reload receipt SHA256`7970e09fd6759c2d3b57c7d3556c1f53dc59e40c5e9a737ab65a57da41760b90`. No narrative admission or canonical mutation was based on the failed assertion. Continue full StageC, attributable StageD/qualifiedsecondary, final synthesis/indexes and substantive component/publication audit.
+
+
+## Stage C Memorial Fanbook supplied-program acceptance — 2026-10-18T00:05:03.198219+00:00
+
+The [completefanbookanalysis](10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), all121native-page/21groupregister, allthreefictionbodies,24selectedH/23V and sourcecorrectreceiving areaccepted inthiscandidate. Fullreaderall121actualpages; root37initial+5laterreferencechecks,42unique, not121. SharedAI/main/holdout/laterDustlineages andcoordinatedcorrections disclosed. Originaluncoded/selectedV1/V2/rootinitialnotes remain; V3qualifiesfakeexpiry/unexecutedLeentest/H07capacitynotbehavior/V15ordinaryidiomL3overreach. RootownS102actorreversal correctedtoKazumakicksAqua; comicMblastshown, prosefinaltoweroutcomeunshown. No newmodel/forecast/J02/holdoutscore or statindependence claim.
+
+Alltenledgers gain20taggedobservations; threeindexes andlaterStageCmatrix/coveragerows supplyexactroutes. Fixed41seal/all66frozenR1 andacceptedfourbookscorecardsunchanged. Thismakes3of5mixedsuppliedprogramsanalyticallyaccepted, but fanbookpublicationgate ispending; onlyCheers/Blessingofthosethreearefullypublished. Dust01isstill1of19wholesupplementaleditionsaccepted;18remainnotwholeaccepted. All17mainexcluded-componentprograms andglobaladmittedcomponentdenominatorremainopen, percentnull. Dust02completeprincipalcandidate/excludedcomponentreaders areinreceiving, notyetacceptedpublished. COREactualreadingactive; ADVunopened. ContinueallremainingStageC/StageD/qualifiedsecondary/full synthesis/indexes/substantiveaudit; noarchivalclosure.
+
+Latestclosedpublishedsource remainsartbooks1ef78c57. Localordinarymergee2555706 preserves19acceptedmainShuukura paths from03c2b3c1; allKono bytes wereunchangedbeforetargetedgate/fanupdates. Thiscontainingbatchneedsexactcandidateauthorpreflight/normalpush/fullremotereadback/sourceaudit/housekeeping/finalactual-sourceaudit. No nextDustprincipalexposurebeforeDust02ownfullgate.
+
+
+## Owner pause after fanbook exact-head gate — 2026-10-18T00:24:33.030461+00:00
+
+The owner instructed: **“After completing your immediate task, pause work.”** The immediate fanbook publication gate is fully closed at31921a9c, as recorded above and in the exact gate receipt. All readers have finished only their already active bounded packet/seal tasks and stopped. No new source unit, DUST03, TRPG Advanced or further comparison is released. The project remains analytically unfinished; this is an owner interruption, not a technical blocker, source release or archival closure.
+
+**Published high-water:** V01–V17 principal analyses, both final checkpoints, seven main specialists, frozen main-only R1 suite, four-book unchanged-baseline validation, Dust01 whole edition, Cheers/Blessing and the complete supplied Memorial Fanbook program. Three of five mixed books and one of19 whole supplemental editions are accepted/published. All17 main excluded-component programs,18 not-yet-whole-accepted supplemental editions, both TRPG acceptances, expanded synthesis, StageD revisions/qualified secondary work, full synthesis/evidence completion and substantive final audit remain. The global admitted narrative-component denominator remains unresolved; no percentage is invented.
+
+**Preserved but unaccepted Dust02 work:** P’s complete3,052-P principal packet (17 sections,61 selectedH/35voice, seven local exploratory assessments,91 append proposals) was sealed before excluded reading. Its separate16-container/23-image component packet and coordinated comparison are sealed. Root read the full principal argument, all seven local arguments, full component argument/all39 disposition records,8bonusH/9voice, complete component comparison and S’s bonus report. Root’s61-H receiving stops afterH021; H022–061,35principalvoice,91append proposals and full supporting receipt/graph receiving remain. Root actually read all139 excluded P/all23images and328unique principalP, not all3,052. Preserve source corrections: three recruited former criminals pull the rope; measured versus contracted rough plain speech is not formal/plain grammar; purchase precedes giving/guilt; final bonus retreat is proposed, not performed. Root’s independent adverse-context checks flag N01’s understood-coercion scope, N02’s unisolated concealment/care conjunct and N05’s unproven specific attribution ofFinal378. These are receiving questions, not new accepted outcomes. All original seven question pairs/fourteen blanks stay exact. S completed a separate retrospective full3,052-P pass and sealed its uncoded bundle and seven literal assessments before seeing P/root principal conclusions; comparison has not begun. P remains shielded from later-Dust/holdout findings; S/root are later-Dust informed. Shared AI lineage and pretraining limits remain.
+
+**Preserved but unaccepted TRPG Core work:** I completed actual333-page inspection and full eligible replay/world fiction/scenario reading, with explicitly narrower dense numerical-rule/index scope. Its first author packet,75 selected premise assessments,41 voice analyses and30 observations across ten ledger proposals are sealed. One113 label/form and two normalized fragments retain qualifications. All ten old0ce ledger streams remain exact prefixes; later artbook/fan tails were not semantically read by I. Root has not received the complete CORE analytical bundle or performed its bounded primary source review. No acceptance, publication or exhaustive rules audit is claimed. ADV remains unexposed.
+
+Private recovery aliases and exact seals (native media and acquisition material stay private):
+
+- `DUST02_COMPLETE_INITIAL_AUTHORING_SEAL.json`: 2313 bytes; SHA-256 `aeb729c0ba14e246cf325390df9377c6f6d5d5730374561f5aeac590d077fdc0`.
+- `DUST02_COMPONENT_COMPLETE_AUTHORING_SEAL.json`: 1995 bytes; SHA-256 `0dfac277f9402b0f945f7f4963b69a15574bff136122096acad5f994e50802e5`.
+- `COORDINATED_COMPONENT_RECEIVING_SEAL.json`: 1400 bytes; SHA-256 `bf0bd672ca518a2a11c755c7aa263907515756cd3c179b47aeafe3b10ffa1bb3`.
+- `DUST02_BONUS_INITIAL_COMPLETE_UNCODED_SEAL_v1.json`: 1303 bytes; SHA-256 `a6419aed540973148b7da8d273a90ff5f3b9df6a4789f2122435d219965f8cd0`.
+- `DUST02_INITIAL_COMPLETE_PRINCIPAL_UNCODED_SEAL_v1.json`: 3407 bytes; SHA-256 `0793d650425bb275c55e15f591920c9e3e7abfcdf504757bbe37299db6d7cbb3`.
+- `DUST02_SEVEN_RETROSPECTIVE_INITIAL_SEAL_v1.json`: 2755 bytes; SHA-256 `4de69f7f3aee3d56fce7c078429e3f0fdf57f2540f401f561b07d76df2bdd007`.
+- `COMPLETE_INITIAL_CORE_AUTHOR_SEAL.json`: 816 bytes; SHA-256 `082fcfddd9ae445d8f9ef00bb27ef9c1ba0d679130a9b589e2507965bdbf2f72`.
+- `COMPLETE_INITIAL_CORE_HANDOFF_MANIFEST.json`: 6773 bytes; SHA-256 `bb91f68aed6dce8e467fc189fd6fe9bed1e0041af1653595fb6d3cb934533183`.
+- `OWNER_PAUSE_AND_FINAL_PACKET_READINESS.json`: 2418 bytes; SHA-256 `3a1dfa018b2794e2c4e9a8e53aca4b02ed664290df789290c5231810f170da04`.
+
+**Resume only after a new owner instruction.** First recover current local/remote heads, open PRs, governance and this unpublished reconciliation; preserve the ordinary6938 merge and exact local edits. Reconcile any intervening accepted work, publish/audit the source-closure/pause metadata through the normal route, then resume receiving Dust02 and CORE from the precise limits above. Do not repeat accepted fanbook analysis, infer acceptance from a sealed candidate, open DUST03 before Dust02’s whole-edition acceptance/publication/full gate, or alter frozen R1/Gen01–05/holdout results. All66 frozen R1 artifacts, original forecast histories and four accepted scorecards remain unchanged. This local owner-pause entry and containing metadata edits are **uncommitted and unpublished**; the fully closed public source remains31921a9c. No background or asynchronous continuation is arranged.
+
+## Owner-authorized local recovery and resumption — 2026-10-18T01:00:29.876928+00:00
+
+The owner supplied the verified handoff archive and explicitly instructed recovery and resumption of the **full KonoSuba program using the local EPUBs**. This supersedes the historical cloud pause and the later local hold while the archive was obtained; both remain preserved above. The transport documents record earlier state and do not supply new authorization. The [recovery receipt](09%20Audits%20and%20Manifests/KONOSUBA_OWNER_RESUME_AND_LOCAL_HANDOFF_RECOVERY_20261018.json) records integrity, exact Git recovery, preserved analytical boundaries and the still-pending containing publication.
+
+All462 archive members,460 manifest files and461 checksum entries verify;263 project documents equal published31921a9c and all six other project documents equal the exact paused metadata. The original6938b506 merge/tree and its two parents are recovered. A clean ordinary reconciliation incorporates current main536328c3 through11 exact unrelated Shuukura paths; the original two accepted curation imports remain preserved. All41 owner-selected local EPUBs match the fixed identities:679,308,092 bytes, exact sizes/SHA256/CRC/Japanese OPF checks. This is source transport and structure verification, not new narrative reading. The66 current immutable suite products,72 historical pins, four accepted scores and all14 Dust exploratory blanks verify unchanged. Redacted export copies retain separately verified export hashes; original seals certify their original bytes.
+
+**Current operation: RECOVERY_PUBLICATION_GATE.** The restored fanbook closure and pause history plus this resumption require their own final-index author preflight, ordinary push, exact remote readback, source audit, housekeeping and final actual-source status. Old31921a9c success cannot certify this later candidate. Once that full gate closes, resume Dust02 at the outstanding H022–H061/35 voice/91 ledger-proposal/supporting-receipt and semantic-report/seven-assessment receiving; preserve inherited versus fresh primary scopes and adverse questions. Receive Core’s complete packet and perform bounded actual primary checks before acceptance. Dust03 and Advanced remain separately gated. The full remaining Stage C, attributable Stage D/qualified secondary work, extended/full syntheses, evidence/claim indexes and substantive completion audit remain authorized. The historical V11–V17 structured bounds retain the completed main-principal high-water; the broader continuing program is the fixed41 responsibility in this paragraph, the architecture and run audit. No percentage or archival completion is claimed.
+
+## Pre-push main drift preserved — 2026-10-18T01:06:15.630366+00:00
+
+The immediate pre-push check stopped the first recovery candidate `4a435bdeed9ffcfaab4ebfb12a142c75f572b2f6` before any push: main had advanced from536328c3 to`1065d51ce5d4bec523e144fc2aec36f25abee8a1` through accepted Shuukura curation PR222. The first candidate and its passing8,305-path preflight remain preserved as earlier state, not certification of the successor. A clean ordinary merge imports exactly the two accepted curation paths, `CHARACTER_ANALYSIS_INDEX.md` and `characters/registry.jsonl`, byte-equal to that main. No global file was manually authored and no KonoSuba analytical content or source boundary changed through the import. This successor requires fresh exact-candidate author preflight, head/protection checks, normal publication/readback and its complete audit cycle. Recovery publication remains the next operation; Dust02/Core receiving and successor admissions remain gated.
+
+## Recovery full gate closed; actual receiving resumed — 2026-10-18T01:23:55.834872+00:00
+
+Recovery sourceee740bf0 completed its own exact readback, source audit, NO_OP housekeeping and final actual-source audit at2026-10-18T01:21:22.385449+00:00; see the [closed gate](09%20Audits%20and%20Manifests/KONOSUBA_LOCAL_RECOVERY_PUBLICATION_GATE_CLOSE.json). Both audits executed all352 tests without failure/error/skip/expected-failure/unexpected-success. Final status success01:20:17Z targets run39085785856 for actualee740bf0, despite default-main1065 metadata. Earlier recovery-pending and owner-pause paragraphs retain their authorship-time meanings and no longer block this authorized continuation. This is source-branch closure, with protected-main integration and final release separate.
+
+Fresh published-authority reload at2026-10-18T01:22:30.533248+00:00 checked every one of270 project streams, all66 current frozen suite products/all72 historical pins, four accepted scorecards and exact seven Dust questions. Existing admissions were revalidated against local native bytes: Dust02 all3,052 principal P/all139 excluded P/all23 images and Core333 wrapper-image joins. New local projections are separately identified derivatives; neither mechanical processing nor this reload counts as new semantic reading or image viewing. The local receiver now proceeds from the preserved Dust02/Core substantive receiving boundary and records its actual fresh scope separately. No original question blank, model, forecast, score, code or initial annotation is rewritten; no new source or successor admission is granted by this progress update. The complete remaining program remains authorized and unfinished.
+
+
+## Dust02 whole supplied edition root acceptance — 2026-10-18T01:39:32.953430+00:00
+
+Complete local receiving closes the preserved Dust02 analytical handoff with attributable corrections and seven separate current dispositions. The17-section argument and source receipts preserve original authoring/exposure histories. Two complete principal readers have different informed-source limits; root’s historical328 unique principal P/all139 excluded P/23images and new bounded local checks remain separately recorded. Bonus fiction, afterword, three signed creator comments, edition/marketing/navigation matter and23images retain unequal authority. Art and the prologue preview do not create repeated independent events.
+
+All ten current ledger files keep exact prior bytes and receive coherent expanded additions. The locator index adds all seven principal native joins and separate bonus/component routes. Only two DUST02 expanded Stage C overlays enter the matrix; original metadata, other40 object/register rows, fixed41 seal, frozen forecasts/models,14 original blanks and four scorecards stay exact. The closed recoverygateee740bf0 receipt accompanies this transaction. Dust03 stays CLOSED until this unit’s full publication gate/reload and separate admission. Core remains its own admitted receiving task. The remaining fixed41 program stays active.
+
+
+## Dust02 full gate closure and resumed Core receiving — 2026-10-18T02:04:16.716239+00:00
+
+Dust02 is accepted/published/full-gate closed at8656b8ae after exact8316-path/27-stream readback,352-test source audit,NO_OP housekeeping and352-test final actual-source audit/status. The exact closure and subsequent published authority reload preserve every frozen source/model/score boundary. All earlier dated pending statements describe authorship and are not live blockers. Book accounting remains2of19 supplemental whole editions and3of5 mixed programs accepted/published; the global admitted-narrative denominator remains unresolved and percentage null.
+
+Core remains separately admitted/unaccepted. Root has received its complete28475-character literary argument, all333 individual disposition records, full source/reading receipt/route map/initial precision overlay, and a growing selected-register scope recorded privately. New native image checks and the clarified printed113 label do not constitute a fresh333-page source pass. Core acceptance still requires completed75H/41V/30-ledger receiving, native consequential checks and attributable current qualifications, then its own publication gate. Dust03 and TRPG Advanced require their separate governed admissions; neither is opened by this progress update.
+````
+
+
+## Dust06 admission transition — 2026-10-18T09:18:47.287658+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+Stage C is active. Dust01–05 whole supplied editions and all five mixed/reference programs have accepted analyses at their declared scopes. Dust06 is the next separate whole-edition admission; its earlier holdout-principal reading does not establish whole-edition completion. The fixed41-source program remains authorized through the outstanding stages. Publication identities, CI runs and dated transitions belong to the [continuous audit](09%20Audits%20and%20Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md), exact gate receipts and Git history.
+````
+
+**Current Dust06 separate admission — 2026-10-18T09:18:47.121939+00:00:** Exact local`Konosuba Extra - Dust - Volume 06.epub`,4582670bytes/SHA256`d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1`,freshCRC/JapaneseOPF/20text/19image structure verified after preceding fullgate/freshreload. Pre-body informed-root context sealed with unchanged sevenDust01questions/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Dust06 analytical acceptance transition — 2026-10-18T10:04:54.033110+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**Dust06 whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba Extra - Dust - Volume 06.epub` has 20textual units and 19native images. Pre-body informed exposure, the unchanged seven questions and prior working inquiries are sealed. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**Dust06 whole-edition analysis is accepted at its supplied-component scopes; its publication gate is pending.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all20text/19imagescopes. Principal2977P/other76P, 63selected premises/107native voice fragments/7unchanged-question assessments/34ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Dust07 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Principal2977P/other76P/total3053P; full ruby/residual/image scopes before uncoded seal 2026-10-18T09:47:38.481368+00:00;63selected premises/107native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental6accepted/5already publishedof19; mixed5published; global percentage null. Baseline`aafa7d65be8738e6862374a33ff5b720fa3c7da8`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Dust07 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Dust06 full gate and fresh authority reload — 2026-10-18T10:24:32.047959+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Dust06 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all20text/19imagescopes. Principal2977P/other76P, 63selected premises/107native voice fragments/7unchanged-question assessments/34ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Dust07 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Dust06 supplied-edition analysis is accepted at all20text/19imagescopes. The next operation is separate Dust07 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_DUST06_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental6of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Dust07remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`e9f4ae451a02bfc2c8a0b8220fc7e2d7b91c4ace`/tree`d61e36a3864b0f3a77b2f1700387e08bf00c5290`;8425remote paths/35changedstreams exact. Source39118281947/job117648447726 and final39118685767/job117649638740 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39118654174/job117649548089NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh390project/66current/fourscores/14blankreload 2026-10-18T10:24:12.713175+00:00. All72historicalpins exact, current main`308f4db1c492f23699c6021afe756074cce99117`reconciled without protected-main integration claim. Dust07whole unopened at this boundary; fullprogramcontinues.
+
+
+## Dust07 admission transition — 2026-10-18T10:25:01.585808+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**Dust06 supplied-edition analysis is accepted at all20text/19imagescopes. The next operation is separate Dust07 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_DUST06_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental6of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Dust07remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current Dust07 separate admission — 2026-10-18T10:24:43.680030+00:00:** Exact local`Konosuba Extra - Dust - Volume 07.epub`,4740436bytes/SHA256`cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5`,freshCRC/JapaneseOPF/20text/19image structure verified after preceding fullgate/freshreload. Pre-body informed-root context sealed with unchanged sevenDust01questions/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Dust07 analytical acceptance transition — 2026-10-18T11:33:07.334458+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**Dust07 whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba Extra - Dust - Volume 07.epub` has 20textual units and 19native images. Pre-body informed exposure, the unchanged seven questions and prior working inquiries are sealed. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**Dust07 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all20text/19imagescopes. Principal2881P/other71P, 64selected premises/146native voice fragments/7unchanged-question assessments/34ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before separately titled unnumbered Dust continuation separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Principal2881P/other71P/total2952P; full ruby/residual/image scopes before uncoded seal 2026-10-18T11:04:05.328502+00:00;64selected premises/146native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental7accepted/6already publishedof19; mixed5published; global percentage null. Baseline`e9f4ae451a02bfc2c8a0b8220fc7e2d7b91c4ace`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate separately titled unnumbered Dust continuation whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Dust07 full gate and fresh authority reload — 2026-10-18T11:46:37.613998+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Dust07 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all20text/19imagescopes. Principal2881P/other71P, 64selected premises/146native voice fragments/7unchanged-question assessments/34ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before separately titled unnumbered Dust continuation separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Dust07 supplied-edition analysis is accepted at all20text/19imagescopes. The next operation is separate separately titled unnumbered Dust continuation whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_DUST07_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental7of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. separately titled unnumbered Dust continuationremains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`9a5ac5e4b58cc60501df32142505d4ce4a38860d`/tree`6a7ec689a2f6f449e4a99c23f2651bd87df2af7a`;8444remote paths/37changedstreams exact. Source39123855460/job117664789277 and final39124174967/job117665713213 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39124143792/job117665628266NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh409project/66current/fourscores/14blankreload 2026-10-18T11:46:32.964787+00:00. All72historicalpins exact, current main`308f4db1c492f23699c6021afe756074cce99117`reconciled without protected-main integration claim. separately titled unnumbered Dust continuationwhole unopened at this boundary; fullprogramcontinues.
+
+
+## DustContinuation admission transition — 2026-10-18T11:46:53.916081+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**Dust07 supplied-edition analysis is accepted at all20text/19imagescopes. The next operation is separate separately titled unnumbered Dust continuation whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_DUST07_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental7of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. separately titled unnumbered Dust continuationremains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current DustContinuation separate admission — 2026-10-18T11:46:51.471833+00:00:** Exact local`Konosuba Extra - Dust - Motto Ano Orokamono ni mo Kyakkou wo - Himesama kara no Shoutaijou.epub`,5588468bytes/SHA256`c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023`,freshCRC/JapaneseOPF/23text/22image structure verified after preceding fullgate/freshreload. Pre-body informed-root context sealed with unchanged sevenDust01questions/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Dust continuation analytical acceptance transition — 2026-10-18T12:46:17.242979+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**DustContinuation whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba Extra - Dust - Motto Ano Orokamono ni mo Kyakkou wo - Himesama kara no Shoutaijou.epub` has 23textual units and 22native images. Pre-body informed exposure, the unchanged seven questions and prior working inquiries are sealed. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**Dust continuation whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all23text/22imagescopes. Principal2846P/other70P, 73selected premises/150native voice fragments/7unchanged-question assessments/34ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Explosions01 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Principal2846P/other70P/total2916P; full ruby/residual/image scopes before uncoded seal 2026-10-18T12:18:47.351639+00:00;73selected premises/150native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental8accepted/7already publishedof19; mixed5published; global percentage null. Baseline`9a5ac5e4b58cc60501df32142505d4ce4a38860d`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Explosions01 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Dust continuation full gate and fresh authority reload — 2026-10-18T12:59:49.746708+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Dust continuation whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all23text/22imagescopes. Principal2846P/other70P, 73selected premises/150native voice fragments/7unchanged-question assessments/34ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Explosions01 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Dust continuation supplied-edition analysis is accepted at all23text/22imagescopes. The next operation is separate Explosions01 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_DUSTCONT_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental8of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Explosions01remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`eb4ddb3c1c176a749df2d74fe9cbfe3d821dcf52`/tree`d63464c1d7a9b3ead80eb80c346a3aa2790bddae`;8462remote paths/35changedstreams exact. Source39128872820/job117679715437 and final39129294619/job117680960934 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39129265164/job117680878820NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh427project/66current/fourscores/14blankreload 2026-10-18T12:59:49.558977+00:00. All72historicalpins exact, current main`308f4db1c492f23699c6021afe756074cce99117`reconciled without protected-main integration claim. Explosions01whole unopened at this boundary; fullprogramcontinues.
+
+
+## EXP01 admission transition — 2026-10-18T13:00:03.469991+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**Dust continuation supplied-edition analysis is accepted at all23text/22imagescopes. The next operation is separate Explosions01 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_DUSTCONT_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental8of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Explosions01remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current EXP01 separate admission — 2026-10-18T12:59:50.599706+00:00:** Exact local`Konosuba - Spin-off - Explosions - Volume 01.epub`,19168549bytes/SHA256`ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e`,freshCRC/JapaneseOPF/54text/51image structure verified after preceding fullgate/freshreload. Pre-body applicable informed family context sealed with original Dust01 questions retained as unchanged historical controls/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Explosions01 analytical acceptance transition — 2026-10-18T14:03:52.139683+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**EXP01 whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba - Spin-off - Explosions - Volume 01.epub` has 54textual units and 51native images. Pre-body informed exposure, applicable family model contracts and working inquiries are sealed; unchanged Dust01 questions remain historical controls. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**Explosions01 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all54text/51imagescopes. Principal3187P/other45P, 76selected premises/108native voice fragments/7 unchanged-contract local assessments/34ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Explosions02 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Principal3187P/other45P/total3232P; full ruby/residual/image scopes before uncoded seal 2026-10-18T13:26:33.940923+00:00;76selected premises/108native-joined voices/7unchanged-contract local assessments/34ten-ledger appends. Supplemental9accepted/8already publishedof19; mixed5published; global percentage null. Baseline`eb4ddb3c1c176a749df2d74fe9cbfe3d821dcf52`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Explosions02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Explosions01 full gate and fresh authority reload — 2026-10-18T14:17:49.522166+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Explosions01 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all54text/51imagescopes. Principal3187P/other45P, 76selected premises/108native voice fragments/7 unchanged-contract local assessments/34ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Explosions02 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Explosions01 supplied-edition analysis is accepted at all54text/51imagescopes. The next operation is separate Explosions02 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_EXP01_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental9of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Explosions02remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`ca8fa360d1b8e75a06b1f36e30c6189514e96090`/tree`141e8ab215ba5581e59d9c41e1cfd1461e3e3523`;8480remote paths/35changedstreams exact. Source39134506247/job117696171650 and final39134874474/job117697240045 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39134841789/job117697140236NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh445project/66current/fourscores/14blankreload 2026-10-18T14:17:46.999724+00:00. All72historicalpins exact, current main`308f4db1c492f23699c6021afe756074cce99117`reconciled without protected-main integration claim. Explosions02whole unopened at this boundary; fullprogramcontinues.
+
+
+## Explosions02 admission transition — 2026-10-18T14:18:41.230609+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**Explosions01 supplied-edition analysis is accepted at all54text/51imagescopes. The next operation is separate Explosions02 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_EXP01_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental9of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Explosions02remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current Explosions02 separate admission — 2026-10-18T14:18:19.361476+00:00:** Exact local`Konosuba - Spin-off - Explosions - Volume 02.epub`,13672536bytes/SHA256`ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff`,freshCRC/JapaneseOPF/58text/50image structure verified after preceding fullgate/freshreload. Pre-body applicable informed family context sealed with original Dust01 questions retained as unchanged historical controls/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Explosions02 analytical acceptance transition — 2026-10-18T15:42:43.100280+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**Explosions02 whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba - Spin-off - Explosions - Volume 02.epub` has 58textual units and 50native images. Pre-body informed exposure, applicable family model contracts and working inquiries are sealed; unchanged Dust01 questions remain historical controls. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**Explosions02 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all58text/50imagescopes. Principal3140P/other49P, 80selected premises/93native voice fragments/7 unchanged-contract local assessments/34ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Explosions03 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Principal3140P/other49P/total3189P; full ruby/residual/image scopes before uncoded seal 2026-10-18T15:16:14.227298+00:00;80selected premises/93native-joined voices/7unchanged-contract local assessments/34ten-ledger appends. Supplemental10accepted/9already publishedof19; mixed5published; global percentage null. Baseline`a71e462accc17a9eada8b13b82023634e7d451c4`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Explosions03 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Explosions02 full gate and fresh authority reload — 2026-10-18T15:56:55.466061+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Explosions02 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all58text/50imagescopes. Principal3140P/other49P, 80selected premises/93native voice fragments/7 unchanged-contract local assessments/34ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Explosions03 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Explosions02 supplied-edition analysis is accepted at all58text/50imagescopes. The next operation is separate Explosions03 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_EXP02_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental10of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Explosions03remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`f8198f2c6b7915c7340fb36e1a99f3f94fb431b3`/tree`09fc64172798e7a011c0d213be3e5255fa70874f`;8498remote paths/35changedstreams exact. Source39141929634/job117717944358 and final39142342429/job117719139920 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39142311912/job117719051505NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh463project/66current/fourscores/14blankreload 2026-10-18T15:56:55.277722+00:00. All72historicalpins exact, current main`780c8bec3e538021257915a5489d79a95ee07726`reconciled without protected-main integration claim. Explosions03whole unopened at this boundary; fullprogramcontinues.
+
+
+## Explosions03 admission transition — 2026-10-18T15:57:28.441987+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**Explosions02 supplied-edition analysis is accepted at all58text/50imagescopes. The next operation is separate Explosions03 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_EXP02_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental10of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Explosions03remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current Explosions03 separate admission — 2026-10-18T15:57:28.102926+00:00:** Exact local`Konosuba - Spin-off - Explosions - Volume 03.epub`,15716486bytes/SHA256`22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87`,freshCRC/JapaneseOPF/52text/48image structure verified after preceding fullgate/freshreload. Pre-body applicable informed family context sealed with original Dust01 questions retained as unchanged historical controls/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Explosions03 analytical acceptance transition — 2026-10-18T17:11:11.518523+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**Explosions03 whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba - Spin-off - Explosions - Volume 03.epub` has 52textual units and 48native images. Pre-body informed exposure, applicable family model contracts and working inquiries are sealed; unchanged Dust01 questions remain historical controls. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**Explosions03 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all52text/48imagescopes. Principal2614P/other48P, 87selected premises/114native voice fragments/7 unchanged-contract local assessments/31ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before ContinuedExplosions01 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Principal2614P/other48P/total2662P; full ruby/residual/image scopes before uncoded seal 2026-10-18T16:44:48.214319+00:00;87selected premises/114native-joined voices/7unchanged-contract local assessments/31ten-ledger appends. Supplemental11accepted/10already publishedof19; mixed5published; global percentage null. Baseline`f8198f2c6b7915c7340fb36e1a99f3f94fb431b3`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate ContinuedExplosions01 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Explosions03 full gate and fresh authority reload — 2026-10-18T17:25:08.934403+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Explosions03 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all52text/48imagescopes. Principal2614P/other48P, 87selected premises/114native voice fragments/7 unchanged-contract local assessments/31ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before ContinuedExplosions01 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Explosions03 supplied-edition analysis is accepted at all52text/48imagescopes. The next operation is separate ContinuedExplosions01 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_EXP03_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental11of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. ContinuedExplosions01remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`d2debefa1191927594547b89320923ebfb8fffd3`/tree`76cfb6c15a7d9dad84b0cbab8af4479094a60acf`;8516remote paths/35changedstreams exact. Source39148638857/job117737568810 and final39149121697/job117738960936 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39149083363/job117738856154NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh481project/66current/fourscores/14blankreload 2026-10-18T17:25:05.163789+00:00. All72historicalpins exact, current main`780c8bec3e538021257915a5489d79a95ee07726`reconciled without protected-main integration claim. ContinuedExplosions01whole unopened at this boundary; fullprogramcontinues.
+
+
+## ContinuedExplosions01 admission transition — 2026-10-18T17:25:29.519925+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**Explosions03 supplied-edition analysis is accepted at all52text/48imagescopes. The next operation is separate ContinuedExplosions01 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_EXP03_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental11of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. ContinuedExplosions01remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current ContinuedExplosions01 separate admission — 2026-10-18T17:25:22.481780+00:00:** Exact local`Konosuba - Spin-off - Continued Explosions - Volume 01.epub`,18609246bytes/SHA256`60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f`,freshCRC/JapaneseOPF/31text/28image structure verified after preceding fullgate/freshreload. Pre-body applicable informed family context sealed with original Dust01 questions retained as unchanged historical controls/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## ContinuedExplosions01 analytical acceptance transition — 2026-10-18T18:33:42.020793+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**ContinuedExplosions01 whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba - Spin-off - Continued Explosions - Volume 01.epub` has 31textual units and 28native images. Pre-body informed exposure, applicable family model contracts and working inquiries are sealed; unchanged Dust01 questions remain historical controls. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**ContinuedExplosions01 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all31text/28imagescopes. Main2646P/bonus50P/nonfiction77P, 72selected premises/117native voice fragments/7 unchanged-contract local assessments/33ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before ContinuedExplosions02 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Main2646P/bonus50P/nonfiction77P/total2773P; full ruby/residual/image scopes before uncoded seal 2026-10-18T18:05:27.347969+00:00;72selected premises/117native-joined voices/7unchanged-contract local assessments/33ten-ledger appends. Supplemental12accepted/11already publishedof19; mixed5published; global percentage null. Baseline`f4c8684db02772b0606db2f94c629cbbf57de913`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate ContinuedExplosions02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## ContinuedExplosions01 full gate and fresh authority reload — 2026-10-18T19:03:05.464510+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**ContinuedExplosions01 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all31text/28imagescopes. Main2646P/bonus50P/nonfiction77P, 72selected premises/117native voice fragments/7 unchanged-contract local assessments/33ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before ContinuedExplosions02 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**ContinuedExplosions01 supplied-edition analysis is accepted at all31text/28imagescopes. The next operation is separate ContinuedExplosions02 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_CONTEXP01_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental12of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. ContinuedExplosions02remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`b0668884aeb1e0f58db2395b214b9b3b947f0d8f`/tree`bfe536383447bb0981352516766727c62f85520d`;8536remote paths/55changedstreams exact. Source39156117969/job117759579842 and final39156575085/job117760926921 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39156544696/job117760836958NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh499project/66current/fourscores/14blankreload 2026-10-18T19:02:04.737344+00:00. All72historicalpins exact, current main`14f077fa43012012f9eca72fd83fc0cadb971ac6`reconciled without protected-main integration claim. ContinuedExplosions02whole unopened at this boundary; fullprogramcontinues.
+
+
+## ContinuedExplosions02 admission transition — 2026-10-18T19:03:46.948332+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**ContinuedExplosions01 supplied-edition analysis is accepted at all31text/28imagescopes. The next operation is separate ContinuedExplosions02 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_CONTEXP01_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental12of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. ContinuedExplosions02remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current ContinuedExplosions02 separate admission — 2026-10-18T19:03:27.479348+00:00:** Exact local`Konosuba - Spin-off - Continued Explosions - Volume 02.epub`,2412289bytes/SHA256`ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267`,freshCRC/JapaneseOPF/35text/25image structure verified after preceding fullgate/freshreload. Pre-body applicable informed family context sealed with original Dust01 questions retained as unchanged historical controls/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## ContinuedExplosions02 analytical acceptance transition — 2026-10-18T20:19:12.906750+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**ContinuedExplosions02 whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba - Spin-off - Continued Explosions - Volume 02.epub` has 35textual units and 25native images. Pre-body informed exposure, applicable family model contracts and working inquiries are sealed; unchanged Dust01 questions remain historical controls. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**ContinuedExplosions02 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all35text/25imagescopes. Main2573P/bonus57P/nonfiction73P, 92selected premises/148native voice fragments/7 unchanged-contract local assessments/37ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Consulting the Masked Devil separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Main2573P/bonus57P/nonfiction73P/total2703P; full ruby/residual/image scopes before uncoded seal 2026-10-18T19:51:53.347000+00:00;92selected premises/148native-joined voices/7unchanged-contract local assessments/37ten-ledger appends. Supplemental13accepted/12already publishedof19; mixed5published; global percentage null. Baseline`b0668884aeb1e0f58db2395b214b9b3b947f0d8f`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Consulting the Masked Devil whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## ContinuedExplosions02 full gate and fresh authority reload — 2026-10-18T20:34:26.701384+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**ContinuedExplosions02 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all35text/25imagescopes. Main2573P/bonus57P/nonfiction73P, 92selected premises/148native voice fragments/7 unchanged-contract local assessments/37ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Consulting the Masked Devil separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**ContinuedExplosions02 supplied-edition analysis is accepted at all35text/25imagescopes. The next operation is separate Consulting the Masked Devil whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_CONTEXP02_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental13of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Consulting the Masked Devilremains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`b274b31dfcc96932643feba27e53e1deb2dc7813`/tree`319712d7d52ad22010724a434aa8c2d27aae2a66`;8554remote paths/35changedstreams exact. Source39163046457/job117780187546 and final39163450779/job117781405592 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39163415212/job117781302032NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh517project/66current/fourscores/14blankreload 2026-10-18T20:34:04.884288+00:00. All72historicalpins exact, current main`14f077fa43012012f9eca72fd83fc0cadb971ac6`reconciled without protected-main integration claim. Consulting the Masked Devilwhole unopened at this boundary; fullprogramcontinues.
+
+
+## Consulting the Masked Devil admission transition — 2026-10-18T20:34:48.699588+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**ContinuedExplosions02 supplied-edition analysis is accepted at all35text/25imagescopes. The next operation is separate Consulting the Masked Devil whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_CONTEXP02_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental13of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Consulting the Masked Devilremains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current Consulting the Masked Devil separate admission — 2026-10-18T20:34:30.309852+00:00:** Exact local`Konosuba - Spin-off - Consulting the Masked Devil.epub`,2895671bytes/SHA256`fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127`,freshCRC/JapaneseOPF/29text/26image structure verified after preceding fullgate/freshreload. Pre-body applicable informed family context sealed with original Dust01 questions retained as unchanged historical controls/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Consulting the Masked Devil analytical acceptance transition — 2026-10-18T21:29:39.453525+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**Consulting the Masked Devil whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba - Spin-off - Consulting the Masked Devil.epub` has 29textual units and 26native images. Pre-body informed exposure, applicable family model contracts and working inquiries are sealed; unchanged Dust01 questions remain historical controls. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**Consulting the Masked Devil whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all29text/26imagescopes. Main2862P/bonus57P/nonfiction51P, 88selected premises/130native voice fragments/31 unchanged-contract local assessments/27ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Fantastic Days separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Main2862P/bonus57P/nonfiction51P/total2970P; full ruby/residual/image scopes before uncoded seal 2026-10-18T21:05:47.312234+00:00;88selected premises/130native-joined voices/31unchanged-contract local assessments/27ten-ledger appends. Supplemental14accepted/13already publishedof19; mixed5published; global percentage null. Baseline`5a4bcad174badda442db4169ddb5f0cd9a17c6d1`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Fantastic Days whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Consulting the Masked Devil full gate and fresh authority reload — 2026-10-18T21:55:37.813935+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Consulting the Masked Devil whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all29text/26imagescopes. Main2862P/bonus57P/nonfiction51P, 88selected premises/130native voice fragments/31 unchanged-contract local assessments/27ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Fantastic Days separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Consulting the Masked Devil supplied-edition analysis is accepted at all29text/26imagescopes. The next operation is separate Fantastic Days whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MASK_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental14of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Fantastic Daysremains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`e3289990f823c0fe9027d7c940b1456590361094`/tree`b8e8f870aebbc22c0168f1820ffe33f6c404e542`;8593remote paths/70changedstreams exact. Source39169061209/job117798115170 and final39169505085/job117799434773 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39169475314/job117799343788NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh535project/66current/fourscores/14blankreload 2026-10-18T21:55:03.518280+00:00. All72historicalpins exact, current main`25150d631638264c0bf383fe88bf7d6c2385b8d7`reconciled without protected-main integration claim. Fantastic Dayswhole unopened at this boundary; fullprogramcontinues.
+
+
+## Fantastic Days admission transition — 2026-10-18T21:56:20.119441+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**Consulting the Masked Devil supplied-edition analysis is accepted at all29text/26imagescopes. The next operation is separate Fantastic Days whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MASK_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental14of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Fantastic Daysremains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current Fantastic Days separate admission — 2026-10-18T21:55:38.486618+00:00:** Exact local`Konosuba - Spin-off - Fantastic Days.epub`,5358777bytes/SHA256`a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde`,freshCRC/JapaneseOPF/25text/15image structure verified after preceding fullgate/freshreload. Pre-body applicable informed family context sealed with original Dust01 questions retained as unchanged historical controls/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Fantastic Days analytical acceptance transition — 2026-10-18T22:54:49.794527+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**Fantastic Days whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba - Spin-off - Fantastic Days.epub` has 25textual units and 15native images. Pre-body informed exposure, applicable family model contracts and working inquiries are sealed; unchanged Dust01 questions remain historical controls. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**Fantastic Days whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all25text/15imagescopes. Main3645P/bonus0P/nonfiction62P, 92selected premises/177native voice fragments/31 unchanged-contract local assessments/27ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Yorimichi 01 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Main3645P/bonus0P/nonfiction62P/total3707P; full ruby/residual/image scopes before uncoded seal 2026-10-18T22:35:15.015450+00:00;92selected premises/177native-joined voices/31unchanged-contract local assessments/27ten-ledger appends. Supplemental15accepted/14already publishedof19; mixed5published; global percentage null. Baseline`e3289990f823c0fe9027d7c940b1456590361094`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 01 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Fantastic Days full gate and fresh authority reload — 2026-10-18T23:10:16.997377+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Fantastic Days whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all25text/15imagescopes. Main3645P/bonus0P/nonfiction62P, 92selected premises/177native voice fragments/31 unchanged-contract local assessments/27ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Yorimichi 01 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Fantastic Days supplied-edition analysis is accepted at all25text/15imagescopes. The next operation is separate Yorimichi 01 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_FD_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental15of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Yorimichi 01remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`8cb0beaf1a17447785ebbb7d4402d0557035ff48`/tree`645e01e0c50d85336743f54b5c17be965baf4a5a`;8612remote paths/36changedstreams exact. Source39174456428/job117814148261 and final39174902036/job117815453006 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39174868389/job117815355320NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh554project/66current/fourscores/14blankreload 2026-10-18T23:10:01.017871+00:00. All72historicalpins exact, current main`25150d631638264c0bf383fe88bf7d6c2385b8d7`reconciled without protected-main integration claim. Yorimichi 01whole unopened at this boundary; fullprogramcontinues.
+
+
+## Yorimichi 01 admission transition — 2026-10-18T23:10:26.898392+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**Fantastic Days supplied-edition analysis is accepted at all25text/15imagescopes. The next operation is separate Yorimichi 01 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_FD_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental15of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Yorimichi 01remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current Yorimichi 01 separate admission — 2026-10-18T23:10:20.533665+00:00:** Exact local`Konosuba - Short Stories - Yorimichi.epub`,2395940bytes/SHA256`71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594`,freshCRC/JapaneseOPF/32text/26image structure verified after preceding fullgate/freshreload. Pre-body applicable informed family context sealed with original Dust01 questions retained as unchanged historical controls/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Yorimichi 01 analytical acceptance transition — 2026-10-19T00:06:26.131773+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**Yorimichi 01 whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba - Short Stories - Yorimichi.epub` has 32textual units and 26native images. Pre-body informed exposure, applicable family model contracts and working inquiries are sealed; unchanged Dust01 questions remain historical controls. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**Yorimichi 01 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all32text/26imagescopes. Main2748P/bonus0P/nonfiction36P, 91selected premises/126native voice fragments/31 unchanged-contract local assessments/26ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Yorimichi 02 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Main2748P/bonus0P/nonfiction36P/total2784P; full ruby/residual/image scopes before uncoded seal 2026-10-18T23:45:55.735751+00:00;91selected premises/126native-joined voices/31unchanged-contract local assessments/26ten-ledger appends. Supplemental16accepted/15already publishedof19; mixed5published; global percentage null. Baseline`8cb0beaf1a17447785ebbb7d4402d0557035ff48`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Yorimichi 01 full gate and fresh authority reload — 2026-10-19T00:22:24.577033+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Yorimichi 01 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all32text/26imagescopes. Main2748P/bonus0P/nonfiction36P, 91selected premises/126native voice fragments/31 unchanged-contract local assessments/26ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Yorimichi 02 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Yorimichi 01 supplied-edition analysis is accepted at all32text/26imagescopes. The next operation is separate Yorimichi 02 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_YORI01_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental16of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Yorimichi 02remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`8d83c69b16cdd4b6272518fdccc1282504cc0714`/tree`8f80e0f341211f60f66cb0c492a82f5f75827a1b`;8630remote paths/35changedstreams exact. Source39179568640/job117829226492 and final39179964202/job117830416021 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39179927450/job117830309863NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh572project/66current/fourscores/14blankreload 2026-10-19T00:22:05.391148+00:00. All72historicalpins exact, current main`25150d631638264c0bf383fe88bf7d6c2385b8d7`reconciled without protected-main integration claim. Yorimichi 02whole unopened at this boundary; fullprogramcontinues.
+
+
+## Yorimichi 02 admission transition — 2026-10-19T00:22:52.109841+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**Yorimichi 01 supplied-edition analysis is accepted at all32text/26imagescopes. The next operation is separate Yorimichi 02 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_YORI01_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental16of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Yorimichi 02remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current Yorimichi 02 separate admission — 2026-10-19T00:22:28.188019+00:00:** Exact local`Konosuba - Short Stories - Yorimichi 2.epub`,9172954bytes/SHA256`f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf`,freshCRC/JapaneseOPF/35text/28image structure verified after preceding fullgate/freshreload. Pre-body applicable informed family context sealed with original Dust01 questions retained as unchanged historical controls/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Yorimichi 02 analytical acceptance transition — 2026-10-19T01:01:13.963846+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**Yorimichi 02 whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba - Short Stories - Yorimichi 2.epub` has 35textual units and 28native images. Pre-body informed exposure, applicable family model contracts and working inquiries are sealed; unchanged Dust01 questions remain historical controls. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**Yorimichi 02 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all35text/28imagescopes. Main2675P/bonus0P/nonfiction71P, 86selected premises/83native voice fragments/31 unchanged-contract local assessments/23ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Yorimichi 03 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Main2675P/bonus0P/nonfiction71P/total2746P; full ruby/residual/image scopes before uncoded seal 2026-10-19T00:45:32.454836+00:00;86selected premises/83native-joined voices/31unchanged-contract local assessments/23ten-ledger appends. Supplemental17accepted/16already publishedof19; mixed5published; global percentage null. Baseline`599fe8823ff0768ad01fba8800e3ec4656c1408a`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 03 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Yorimichi 02 full gate and fresh authority reload — 2026-10-19T01:33:25.635115+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Yorimichi 02 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all35text/28imagescopes. Main2675P/bonus0P/nonfiction71P, 86selected premises/83native voice fragments/31 unchanged-contract local assessments/23ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Yorimichi 03 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Yorimichi 02 supplied-edition analysis is accepted at all35text/28imagescopes. The next operation is separate Yorimichi 03 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_YORI02_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental17of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Yorimichi 03remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`db1454ef9027993713c8bcce58e8b993e6e8a0cd`/tree`ce3d7ce78e4c6e4a80a48b3b271c3559d6020dc5`;8667remote paths/60changedstreams exact. Source39185092387/job117845731354 and final39185385499/job117846619902 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39185353219/job117846521670NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh590project/66current/fourscores/14blankreload 2026-10-19T01:32:58.409620+00:00. All72historicalpins exact, current main`1f48c045276db2b58d4198d2acb4eec48a59447a`reconciled without protected-main integration claim. Yorimichi 03whole unopened at this boundary; fullprogramcontinues.
+
+
+## Yorimichi 03 admission transition — 2026-10-19T01:33:27.097231+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**Yorimichi 02 supplied-edition analysis is accepted at all35text/28imagescopes. The next operation is separate Yorimichi 03 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_YORI02_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental17of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Yorimichi 03remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current Yorimichi 03 separate admission — 2026-10-19T01:33:26.395948+00:00:** Exact local`Konosuba - Short Stories - Yorimichi 3.epub`,8547808bytes/SHA256`f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d`,freshCRC/JapaneseOPF/26text/26image structure verified after preceding fullgate/freshreload. Pre-body applicable informed family context sealed with original Dust01 questions retained as unchanged historical controls/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Yorimichi 03 analytical acceptance transition — 2026-10-19T02:34:12.353600+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**Yorimichi 03 whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba - Short Stories - Yorimichi 3.epub` has 26textual units and 26native images. Pre-body informed exposure, applicable family model contracts and working inquiries are sealed; unchanged Dust01 questions remain historical controls. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**Yorimichi 03 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all26text/26imagescopes. Main3006P/bonus0P/nonfiction54P, 98selected premises/146native voice fragments/31 unchanged-contract local assessments/24ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Yorimichi 04 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Main3006P/bonus0P/nonfiction54P/total3060P; full ruby/residual/image scopes before uncoded seal 2026-10-19T02:05:31.362330+00:00;98selected premises/146native-joined voices/31unchanged-contract local assessments/24ten-ledger appends. Supplemental18accepted/17already publishedof19; mixed5published; global percentage null. Baseline`fe08a355bc5c5743dd6500022bfa11cd7120974d`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 04 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Yorimichi 03 full gate and fresh authority reload — 2026-10-19T02:52:05.935087+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Yorimichi 03 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all26text/26imagescopes. Main3006P/bonus0P/nonfiction54P, 98selected premises/146native voice fragments/31 unchanged-contract local assessments/24ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Yorimichi 04 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Yorimichi 03 supplied-edition analysis is accepted at all26text/26imagescopes. The next operation is separate Yorimichi 04 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_YORI03_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental18of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Yorimichi 04remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`f98205cf33575040fa9aa2706c4da99b86ad7d9d`/tree`76864a34cbf1cf841978dff07a879a08bf0e8030`;8687remote paths/39changedstreams exact. Source39191032703/job117863674966 and final39191462923/job117864978003 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39191428467/job117864880947NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh610project/66current/fourscores/14blankreload 2026-10-19T02:51:53.647882+00:00. All72historicalpins exact, current main`21481fc5a376634a0b402392c1435f2f170e198d`reconciled without protected-main integration claim. Yorimichi 04whole unopened at this boundary; fullprogramcontinues.
+
+
+## Current-map book-accounting reconciliation — 2026-10-19T02:52:08.927256+00:00
+
+The old summary table still described the Dust05 boundary while later source-specific records and the current operation described Yorimichi03. Replace only that current accounting block against the measured18 closed supplemental gates and five closed mixed programs; retain its old bytes below. No new reading, component percentage, principal-model revision or protected-main integration is implied. The current source operation remains separately gated.
+
+````markdown
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Principal narratives/checkpoints complete;17 excluded-edition-component programs still require their own dispositions |
+| Dust | 8 | Dust01–05 whole editions accepted; Dust06–07 and the separately titled unnumbered continuation still require whole-edition work |
+| Explosions / Continued Explosions | 5 | Three plus two whole editions outstanding |
+| Masked Devil / Fantastic Days | 2 | Whole editions outstanding; Mask holdout principal assessment is retained separately |
+| Yorimichi | 4 | Whole editions outstanding; first collection's holdout principal assessment retained separately |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five accepted at declared supplied-component/page scopes, with their dense-page and unequal-plane limits |
+
+Five of19 supplemental whole-edition analyses are accepted. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain their historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion.
+````
+
+
+## Yorimichi 04 admission transition — 2026-10-19T02:53:27.604969+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**Yorimichi 03 supplied-edition analysis is accepted at all26text/26imagescopes. The next operation is separate Yorimichi 04 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_YORI03_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental18of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Yorimichi 04remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current Yorimichi 04 separate admission — 2026-10-19T02:52:40.515958+00:00:** Exact local`Konosuba - Short Stories - Yorimichi 4.epub`,10437818bytes/SHA256`22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f`,freshCRC/JapaneseOPF/26text/26image structure verified after preceding fullgate/freshreload. Pre-body applicable informed family context sealed with original Dust01 questions retained as unchanged historical controls/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Yorimichi 04 analytical acceptance transition — 2026-10-19T03:57:29.377540+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**Yorimichi 04 whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba - Short Stories - Yorimichi 4.epub` has 26textual units and 26native images. Pre-body informed exposure, applicable family model contracts and working inquiries are sealed; unchanged Dust01 questions remain historical controls. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+
+
+Preceding current book-accounting statements retained verbatim:
+
+| Yorimichi | 4 | Collections01–03 whole-supplied-edition gates closed; collection04 remains separately unadmitted at this correction; collection01's original principal holdout remains separately preserved |
+
+Eighteen of19 supplemental whole-supplied-edition gates and all five mixed/reference programs are closed at the current Yorimichi03 boundary.
+````
+
+**Yorimichi 04 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all26text/26imagescopes. Main2900P/bonus0P/nonfiction52P, 82selected premises/76native voice fragments/31 unchanged-contract local assessments/26ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Main 01 previously excluded components with accepted principal bodies retained separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Main2900P/bonus0P/nonfiction52P/total2952P; full ruby/residual/image scopes before uncoded seal 2026-10-19T03:35:10.750313+00:00;82selected premises/76native-joined voices/31unchanged-contract local assessments/26ten-ledger appends. Supplemental19accepted/18already publishedof19; mixed5published; global percentage null. Baseline`dd778d4e57b2b898990f543cb7d46ce54648ff8b`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Main 01 previously excluded components with accepted principal bodies retained admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+Prior current source-accounting table and statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Principal narratives/checkpoints complete; all17 excluded-edition-component programs still require separate dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | Collections01–03 whole-supplied-edition gates closed; collection04 fully read and accepted at declared scopes with containing publication gate pending; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+Nineteen of19 supplemental supplied editions are analytically accepted; eighteen full publication gates and all five mixed/reference gates are closed. Yorimichi04 is at its containing publication gate.
+
+
+
+## Yorimichi 04 full gate and fresh authority reload — 2026-10-19T05:35:30.389335+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Yorimichi 04 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all26text/26imagescopes. Main2900P/bonus0P/nonfiction52P, 82selected premises/76native voice fragments/31 unchanged-contract local assessments/26ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Main 01 previously excluded components with accepted principal bodies retained separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Yorimichi 04 supplied-edition analysis is accepted at all26text/26imagescopes. The next operation is separate admission of Main 01 previously excluded components with accepted principal bodies retained; accepted principal bodies retain their earlier acceptance.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_YORI04_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental19of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Main 01 previously excluded components with accepted principal bodies retainedremains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`06d75f592a6e88278b59067d88c4cc2f76884467`/tree`209a90f208a8918418b3383989e87e4347c51e74`;8714remote paths/56changedstreams exact. Source39203377666/job117900895182 and final39203922224/job117902532053 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39203883244/job117902412178NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh628project/66current/fourscores/14blankreload 2026-10-19T05:35:30.124997+00:00. All72historicalpins exact, current main`aaa8eaf09ca64e2d5ef82e3f5b6b05383e33b25f`observed; verified post-publication non-K drift remains to be merged before the next push; protected-main integration is not claimed. Main 01 previously excluded components with accepted principal bodies retained remain separately unadmitted at this boundary; accepted principal bodies are retained; fullprogramcontinues.
+
+
+## MAIN01EXCLUDED admission transition — 2026-10-19T05:36:04.924881+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Yorimichi 04 supplied-edition analysis is accepted at all26text/26imagescopes. The next operation is separate admission of Main 01 previously excluded components with accepted principal bodies retained; accepted principal bodies retain their earlier acceptance.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_YORI04_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental19of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Main 01 previously excluded components with accepted principal bodies retainedremains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Main 01 excluded-component source-first reading is active and not yet accepted.** MAIN-01 exact local supplied edition 7058492bytes/SHA256 7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6, admitted after preceding full gate/fresh reload. Retain 6 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 21 excluded text resources and 29 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main01 excluded-component acceptance transition — 2026-10-19T05:59:52.607980+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 01 excluded-component source-first reading is active and not yet accepted.** MAIN-01 exact local supplied edition 7058492bytes/SHA256 7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6, admitted after preceding full gate/fresh reload. Retain 6 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 21 excluded text resources and 29 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Principal narratives/checkpoints complete; all17 excluded-edition-component programs still require separate dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+All17 main excluded-component programs remain, with accepted principal bodies retained and zero new principal reading credit.
+
+**Main 01 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_RECEIVING_AND_PROVENANCE.json) distinguish new21resources152P/29images from six retained accepted principal members2878P, withzero newprincipal reading credit. Selected17comic premises/22written fragments and31principal+8party informed comparisons retain all partial/untested branches; fourtypedconstraints are not behavioral scores. Supplemental19/mixed5gates are closed. Main02excluded admission follows this full gate/fresh reload. The other16mainexcluded programs, syntheses, versioned models, secondary-character artifacts, curation and finalrelease continue; globalnarrative percentage remains unresolved.
+
+
+New21textual resources152P/29individually viewed images; one56Pbonus,96Pnonfiction/wrappers; six accepted principal members2878P retained exact/newprincipal credit0. Selected17premises/22voicefragments,31principal+8party informed comparisons/fourtypedconstraints,11appends across tenledgers,22qualifications. Supplemental19/mixed5fullgates closed. Main01excluded analysis accepted/publicationpending; other16mainexcluded programs remain unadmitted; globalcomponentpercentage null.
+
+Exact publication/readback/source/HK/finalsource audit/status/freshreload before Main02excluded admission. Before nextpush ordinarily merge then-current main and rerun affected checks. Full17mainexcluded/syntheses/versionedmodels/secondaryaudit/curation/release continue.
+
+
+## Main01 excluded-component full gate and reload — 2026-10-19T06:37:02.995940+00:00
+
+Prior current operation preserved verbatim:
+
+````markdown
+**Main 01 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_RECEIVING_AND_PROVENANCE.json) distinguish new21resources152P/29images from six retained accepted principal members2878P, withzero newprincipal reading credit. Selected17comic premises/22written fragments and31principal+8party informed comparisons retain all partial/untested branches; fourtypedconstraints are not behavioral scores. Supplemental19/mixed5gates are closed. Main02excluded admission follows this full gate/fresh reload. The other16mainexcluded programs, syntheses, versioned models, secondary-character artifacts, curation and finalrelease continue; globalnarrative percentage remains unresolved.
+````
+
+Prior source-accounting row and statement preserved verbatim:
+
+| Main series | 17 | Principal narratives/checkpoints retained; Main01 excluded-component analysis accepted with publication gate pending; other16 excluded-component programs require separate admission and dispositions |
+
+Main01 excluded-component analysis is accepted with its publication gate pending; the other16 programs remain, with accepted principal bodies retained and zero new principal reading credit.
+
+**Main01 excluded-component full publication gate is closed; the next operation is separate Main02 excluded-component admission.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN01EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. New21textresources152P/29images actually read/viewed; six accepted principal members2878P retained exact/newprincipal reading credit0. Supplemental19/mixed5 gates closed;1of17mainexcluded programs fullgateclosed/16remain; narrativecomponent percentage null. Main02 previously excluded resources remain unadmitted; its accepted principal bodies retain exact original authority withzero newprincipal reading credit. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+
+Exact source56857658929112f685397277cf8be187a9683ab8/tree36d9b9bec731c0715de4e96f575ff5376a8eaf42; all8809remote paths/17changedstreams equal reviewed candidate. Source39209629312/job117919908813 and final39210236998/job117921763663 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39210190180/job117921618468NO_OP/exact finalsource dispatch. Final status targets the actualsource. Fresh646project/66current/fourscores/14blankreload2026-10-19T06:36:44.682036+00:00.
+
+
+## MAIN02EXCLUDED admission transition — 2026-10-19T06:37:10.821581+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main01 excluded-component full publication gate is closed; the next operation is separate Main02 excluded-component admission.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN01EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. New21textresources152P/29images actually read/viewed; six accepted principal members2878P retained exact/newprincipal reading credit0. Supplemental19/mixed5 gates closed;1of17mainexcluded programs fullgateclosed/16remain; narrativecomponent percentage null. Main02 previously excluded resources remain unadmitted; its accepted principal bodies retain exact original authority withzero newprincipal reading credit. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 02 excluded-component source-first reading is active and not yet accepted.** MAIN-02 exact local supplied edition 6872479bytes/SHA256 44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15, admitted after preceding full gate/fresh reload. Retain 7 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 21 excluded text resources and 30 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main02 excluded-component acceptance transition — 2026-10-19T07:00:11.798491+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 02 excluded-component source-first reading is active and not yet accepted.** MAIN-02 exact local supplied edition 6872479bytes/SHA256 44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15, admitted after preceding full gate/fresh reload. Retain 7 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 21 excluded text resources and 30 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Principal narratives/checkpoints retained; Main01 excluded-component full gate closed; other16 excluded-component programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+One of17main excluded-component programs has a closed full gate; the other16remain, with accepted principal bodies retained and zero new principal reading credit.
+
+**Main 02 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_RECEIVING_AND_PROVENANCE.json) distinguish new21resources171P/30images from seven retained accepted principal members2915P, withzero newprincipal reading credit. Selected11comic premises/24written fragments and31principal+8party informed comparisons retain all partial/untested branches; fourtypedconstraints are not behavioral scores. Supplemental19/mixed5gates are closed. Main03excluded admission follows this full gate/fresh reload. The other15mainexcluded programs, syntheses, versioned models, secondary-character artifacts, curation and finalrelease continue; globalnarrative percentage remains unresolved.
+
+
+New21textual resources171P/30individually viewed images; one63Pbonus,108Pafterword/wrapper slots; seven accepted principal members2915P retained exact/newprincipal credit0. Selected11premises/24voicefragments,31principal+8party informed comparisons/fourtypedconstraints,11appends across tenledgers,25qualifications. Supplemental19/mixed5fullgates closed. Main01excluded full gate remains closed; Main02excluded analysis accepted/publicationpending; other15mainexcluded programs remain unadmitted; globalcomponentpercentage null.
+
+Exact publication/readback/source/HK/finalsource audit/status/freshreload before Main03excluded admission. Before nextpush ordinarily merge then-current main and rerun affected checks. Fullremaining mainexcluded/syntheses/versionedmodels/secondaryaudit/curation/release continue.
+
+
+## Main02 full gate/reload — 2026-10-19T07:19:39.479821+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 02 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_RECEIVING_AND_PROVENANCE.json) distinguish new21resources171P/30images from seven retained accepted principal members2915P, withzero newprincipal reading credit. Selected11comic premises/24written fragments and31principal+8party informed comparisons retain all partial/untested branches; fourtypedconstraints are not behavioral scores. Supplemental19/mixed5gates are closed. Main03excluded admission follows this full gate/fresh reload. The other15mainexcluded programs, syntheses, versioned models, secondary-character artifacts, curation and finalrelease continue; globalnarrative percentage remains unresolved.
+
+| Main series | 17 | Principal narratives/checkpoints retained; Main01 excluded-component full gate closed; Main02 analysis accepted with publication pending; other15 excluded-component programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are also closed. One of17main excluded-component programs has a closed full gate; Main02 analysis is accepted with its publication gate pending, and the other15remain. Accepted principal bodies retain exact original authority with zero new principal reading credit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain their historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and the final audit remain active.
+````
+
+**Main 02 excluded-component full publication gate is closed; separate Main 03 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN02EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All21new textual resources171P/30images actually read/viewed;7accepted principal members2915P retained exact withzero newprincipal credit. One complete63Pbonus;108othertextslots include45Pcreator afterword and63Pwrappers/credits/navigation, with raster profile/preview/coda planes separate. No equivalent narrative-component denominator. Supplemental19/mixed5closed;2of17mainexcluded programs fullgateclosed/15remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact source2c5b72d31da9c8d015768aa9babe9c2bbec2c7d6/tree8d83ef0eb2f518ba62b9b73ada9fada173079d03; all8829remote paths/45changedstreams match. Source39213613214/job117932305134 and final39214184765/job117934111893 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39214139195/job117933965607NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh664project-path authority reload2026-10-19T07:19:32.281756+00:00.
+
+
+## MAIN03EXCLUDED admission transition — 2026-10-19T07:20:02.971669+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main 02 excluded-component full publication gate is closed; separate Main 03 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN02EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All21new textual resources171P/30images actually read/viewed;7accepted principal members2915P retained exact withzero newprincipal credit. One complete63Pbonus;108othertextslots include45Pcreator afterword and63Pwrappers/credits/navigation, with raster profile/preview/coda planes separate. No equivalent narrative-component denominator. Supplemental19/mixed5closed;2of17mainexcluded programs fullgateclosed/15remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 03 excluded-component source-first reading is active and not yet accepted.** MAIN-03 exact local supplied edition 3497582bytes/SHA256 c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc, admitted after preceding full gate/fresh reload. Retain 8 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 24 excluded text resources and 30 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main03 excluded-component acceptance transition — 2026-10-19T07:53:15.549291+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 03 excluded-component source-first reading is active and not yet accepted.** MAIN-03 exact local supplied edition 3497582bytes/SHA256 c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc, admitted after preceding full gate/fresh reload. Retain 8 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 24 excluded text resources and 30 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 2of17 excluded-component full gates closed; other15 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+2of17main excluded-component programs have closed full gates; other15remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 03 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All24newresources180P/30images actually received;8accepted principal members3001P retained exact/newprincipalcredit0. One62Pbonus,53Pcreatorafterword and65otherwrapper/credit/navigation slots; two-page embedded imagined sequence and Aqua rhetorical callout have separate image-only roles. Profiles/preview/coda are separate planes. These slot counts are not a narrative denominator. Selected12comic premises/30written fragments,31principal+8party informed comparisons andfourtypedconstraints retain all partial/untested branches. MAIN01/MAIN02excluded andsupplemental19/mixed5gates are closed. MAIN04excluded admission follows this fullgate/freshreload;other14mainexcluded programs andallremaining synthesis/model/secondary/curation/releasework continue.
+
+
+All24newresources180P/30images actually received;8accepted principal members3001P retained exact/newprincipalcredit0. One62Pbonus,53Pcreatorafterword and65otherwrapper/credit/navigation slots; two-page embedded imagined sequence and Aqua rhetorical callout have separate image-only roles. Profiles/preview/coda are separate planes. These slot counts are not a narrative denominator. Selected12premises/30voicefragments,31principal+8party informedcomparisons/fourtypedconstraints,11appends across tenledgers/28qualifications. Supplemental19/mixed5fullgates closed;MAIN01/MAIN02excludedfullgates remain closed;MAIN03analysis accepted/publicationpending;other14mainexcluded programs remain;globalcomponentpercentage null.
+
+Exact sourcepublication/all-treeandchanged-streamreadback/sourceaudit/housekeeping/finalactualsourceaudit-status/freshauthorityreload beforeMAIN04excluded admission. Ordinary then-currentmain merge and affected author checks before nextpush. Fullremaining sources/syntheses/versionedmodels/secondarycensus/earnedartifacts/curation/release continue.
+
+
+## Main03 full gate/reload — 2026-10-19T08:15:31.618694+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 03 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All24newresources180P/30images actually received;8accepted principal members3001P retained exact/newprincipalcredit0. One62Pbonus,53Pcreatorafterword and65otherwrapper/credit/navigation slots; two-page embedded imagined sequence and Aqua rhetorical callout have separate image-only roles. Profiles/preview/coda are separate planes. These slot counts are not a narrative denominator. Selected12comic premises/30written fragments,31principal+8party informed comparisons andfourtypedconstraints retain all partial/untested branches. MAIN01/MAIN02excluded andsupplemental19/mixed5gates are closed. MAIN04excluded admission follows this fullgate/freshreload;other14mainexcluded programs andallremaining synthesis/model/secondary/curation/releasework continue.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01/MAIN02 excluded full gates closed; MAIN03 analysis accepted/publication pending; other14 programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 2of17main excluded-component programs have closed full gates; MAIN03analysis is accepted with its publication gate pending; other14remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**Main 03 excluded-component full publication gate is closed; separate Main 04 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN03EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All24newresources180P/30images actually received;8accepted principal members3001P retained exact/newprincipalcredit0. One62Pbonus,53Pcreatorafterword and65otherwrapper/credit/navigation slots; two-page embedded imagined sequence and Aqua rhetorical callout have separate image-only roles. Profiles/preview/coda are separate planes. These slot counts are not a narrative denominator. Supplemental19/mixed5closed;3of17mainexcluded programs fullgateclosed/14remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact source910badd95227b2a105ec9ba89ca74129434ebaf0/tree2190eae6748b1a4e276370b304949445aeaa7fa8; all8847remote paths/38changedstreams match. Source39219927315/job117952581402 and final39220678540/job117954982809 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39220620651/job117954797165NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh682project-path authority reload2026-10-19T08:14:59.063095+00:00.
+
+
+## MAIN04EXCLUDED admission transition — 2026-10-19T08:15:49.353348+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main 03 excluded-component full publication gate is closed; separate Main 04 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN03EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All24newresources180P/30images actually received;8accepted principal members3001P retained exact/newprincipalcredit0. One62Pbonus,53Pcreatorafterword and65otherwrapper/credit/navigation slots; two-page embedded imagined sequence and Aqua rhetorical callout have separate image-only roles. Profiles/preview/coda are separate planes. These slot counts are not a narrative denominator. Supplemental19/mixed5closed;3of17mainexcluded programs fullgateclosed/14remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 04 excluded-component source-first reading is active and not yet accepted.** MAIN-04 exact local supplied edition 3907671bytes/SHA256 1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6, admitted after preceding full gate/fresh reload. Retain 9 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 24 excluded text resources and 31 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main04 excluded-component acceptance transition — 2026-10-19T08:40:35.136963+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 04 excluded-component source-first reading is active and not yet accepted.** MAIN-04 exact local supplied edition 3907671bytes/SHA256 1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6, admitted after preceding full gate/fresh reload. Retain 9 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 24 excluded text resources and 31 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 3of17 excluded-component full gates closed; other14 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+3of17main excluded-component programs have closed full gates; other14remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 04 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All24newresources144P/31images actually received;9acceptedprincipal members3135P retainedexact/newprincipalcredit0. One67Pbonus,26Pcreatorafterword and51otherwrapper/credit/navigation slots; one embedded welcome composition and one two-page imagined sequence identified. Staged frontmatter/profile/promotion separate. These slot counts are not a narrative denominator. Selected12comic premises/32written fragments,31principal+8party informed comparisons andfourtypedconstraints retain all partial/untested branches. MAIN01/MAIN02/MAIN03excluded andsupplemental19/mixed5gates are closed. MAIN05excluded admission follows this fullgate/freshreload;other13mainexcluded programs andallremaining synthesis/model/secondary/curation/releasework continue.
+
+
+All24newresources144P/31images actually received;9acceptedprincipal members3135P retainedexact/newprincipalcredit0. One67Pbonus,26Pcreatorafterword and51otherwrapper/credit/navigation slots; one embedded welcome composition and one two-page imagined sequence identified. Staged frontmatter/profile/promotion separate. These slot counts are not a narrative denominator. Selected12premises/32voicefragments,31principal+8party informedcomparisons/fourtypedconstraints,11appends across tenledgers/28qualifications. Supplemental19/mixed5fullgates closed;MAIN01/MAIN02/MAIN03excludedfullgates remain closed;MAIN04analysis accepted/publicationpending;other13mainexcluded programs remain;globalcomponentpercentage null.
+
+Exact sourcepublication/all-treeandchanged-streamreadback/sourceaudit/housekeeping/finalactualsourceaudit-status/freshauthorityreload beforeMAIN05excluded admission. Incorporate then-currentmain ordinarily if needed and run affected author checks before nextpush. Fullremaining sources/syntheses/versionedmodels/secondarycensus/earnedartifacts/curation/release continue.
+
+
+## Main04 full gate/reload — 2026-10-19T08:57:36.627320+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 04 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All24newresources144P/31images actually received;9acceptedprincipal members3135P retainedexact/newprincipalcredit0. One67Pbonus,26Pcreatorafterword and51otherwrapper/credit/navigation slots; one embedded welcome composition and one two-page imagined sequence identified. Staged frontmatter/profile/promotion separate. These slot counts are not a narrative denominator. Selected12comic premises/32written fragments,31principal+8party informed comparisons andfourtypedconstraints retain all partial/untested branches. MAIN01/MAIN02/MAIN03excluded andsupplemental19/mixed5gates are closed. MAIN05excluded admission follows this fullgate/freshreload;other13mainexcluded programs andallremaining synthesis/model/secondary/curation/releasework continue.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01/MAIN02/MAIN03 excluded full gates closed; MAIN04 analysis accepted/publication pending; other13 programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 3of17main excluded-component programs have closed full gates; MAIN04analysis is accepted with its publication gate pending; other13remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**Main 04 excluded-component full publication gate is closed; separate Main 05 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN04EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All24newresources144P/31images actually received;9acceptedprincipal members3135P retainedexact/newprincipalcredit0. One67Pbonus,26Pcreatorafterword and51otherwrapper/credit/navigation slots; one embedded welcome composition and one two-page imagined sequence identified. Staged frontmatter/profile/promotion separate. These slot counts are not a narrative denominator. Supplemental19/mixed5closed;4of17mainexcluded programs fullgateclosed/13remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact source1cb2c60dc554334252d3994c72e45db3e28aaadc/tree246790a5505779d5d7b45e2916bd874c1138b50c; all8865remote paths/35changedstreams match. Source39225067834/job117969227559 and final39225757083/job117971519446 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39225701641/job117971329718NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh700project-path authority reload2026-10-19T08:57:23.759774+00:00.
+
+
+## MAIN05EXCLUDED admission transition — 2026-10-19T08:58:01.394917+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main 04 excluded-component full publication gate is closed; separate Main 05 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN04EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All24newresources144P/31images actually received;9acceptedprincipal members3135P retainedexact/newprincipalcredit0. One67Pbonus,26Pcreatorafterword and51otherwrapper/credit/navigation slots; one embedded welcome composition and one two-page imagined sequence identified. Staged frontmatter/profile/promotion separate. These slot counts are not a narrative denominator. Supplemental19/mixed5closed;4of17mainexcluded programs fullgateclosed/13remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 05 excluded-component source-first reading is active and not yet accepted.** MAIN-05 exact local supplied edition 14376279bytes/SHA256 57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717, admitted after preceding full gate/fresh reload. Retain 12 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 24 excluded text resources and 37 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main05 excluded-component acceptance transition — 2026-10-19T09:26:04.528432+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 05 excluded-component source-first reading is active and not yet accepted.** MAIN-05 exact local supplied edition 14376279bytes/SHA256 57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717, admitted after preceding full gate/fresh reload. Retain 12 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 24 excluded text resources and 37 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 4of17 excluded-component full gates closed; other13 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+4of17main excluded-component programs have closed full gates; other13remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 05 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All24newresources58P/37images actually received;12acceptedprincipal members3417P retainedexact/newprincipalcredit0. No separate prose bonus is supplied:14Pcreatorafterword plus44otherwrapper/credit/navigation slots. New raster documents, tourism article/map, contextual illustrations and embedded quoted/hypothetical sequences retain distinct planes. These resource/slot/image counts are not a narrative denominator. Selected17comic premises/16written fragments,31principal+8party explicit new-enactment non-tests andfourtypedconstraints retain all partial/untested branches. MAIN01-MAIN04excluded andsupplemental19/mixed5gates are closed. MAIN06excluded admission follows this fullgate/freshreload;other12mainexcluded programs andallremaining synthesis/model/secondary/curation/releasework continue.
+
+
+All24newresources58P/37images actually received;12acceptedprincipal members3417P retainedexact/newprincipalcredit0. No separate prose bonus is supplied:14Pcreatorafterword plus44otherwrapper/credit/navigation slots. New raster documents, tourism article/map, contextual illustrations and embedded quoted/hypothetical sequences retain distinct planes. These resource/slot/image counts are not a narrative denominator. Selected17premises/16voicefragments;31principal+8party explicit new-enactment non-tests andfourtypedconstraints;11appends across tenledgers/26qualifications. Supplemental19/mixed5fullgates closed;MAIN01-MAIN04excluded fullgates remain closed;MAIN05analysis accepted/publicationpending;other12mainexcluded programs remain;globalcomponentpercentage null.
+
+Exact sourcepublication/all-treeandchanged-streamreadback/sourceaudit/housekeeping/finalactualsourceaudit-status/freshauthorityreload beforeMAIN06excluded admission. Incorporate then-currentmain ordinarily if needed and run affected author checks before nextpush. Fullremaining sources/syntheses/versionedmodels/secondarycensus/earnedartifacts/curation/release continue.
+
+
+## Main05 full gate/reload — 2026-10-19T09:42:31.440575+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 05 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All24newresources58P/37images actually received;12acceptedprincipal members3417P retainedexact/newprincipalcredit0. No separate prose bonus is supplied:14Pcreatorafterword plus44otherwrapper/credit/navigation slots. New raster documents, tourism article/map, contextual illustrations and embedded quoted/hypothetical sequences retain distinct planes. These resource/slot/image counts are not a narrative denominator. Selected17comic premises/16written fragments,31principal+8party explicit new-enactment non-tests andfourtypedconstraints retain all partial/untested branches. MAIN01-MAIN04excluded andsupplemental19/mixed5gates are closed. MAIN06excluded admission follows this fullgate/freshreload;other12mainexcluded programs andallremaining synthesis/model/secondary/curation/releasework continue.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN04 excluded full gates closed; MAIN05 analysis accepted/publication pending; other12 programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 4of17main excluded-component programs have closed full gates; MAIN05analysis is accepted with its publication gate pending; other12remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**Main 05 excluded-component full publication gate is closed; separate Main 06 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN05EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All24newresources58P/37images actually received;12acceptedprincipal members3417P retainedexact/newprincipalcredit0. No separate prose bonus is supplied:14Pcreatorafterword plus44otherwrapper/credit/navigation slots. New raster documents, tourism article/map, contextual illustrations and embedded quoted/hypothetical sequences retain distinct planes. These resource/slot/image counts are not a narrative denominator. Supplemental19/mixed5closed;5of17mainexcluded programs fullgateclosed/12remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact source0b301c0024b91e24de7dc4817fa32ac594856075/tree3adc01ecddb1e831927bcb850754a0f00014ab7b; all8883remote paths/35changedstreams match. Source39230452141/job117986868413 and final39231262646/job117989508129 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39231203692/job117989314962NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh718project-path authority reload2026-10-19T09:42:06.521297+00:00.
+
+
+## MAIN06EXCLUDED admission transition — 2026-10-19T09:42:55.123268+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main 05 excluded-component full publication gate is closed; separate Main 06 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN05EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All24newresources58P/37images actually received;12acceptedprincipal members3417P retainedexact/newprincipalcredit0. No separate prose bonus is supplied:14Pcreatorafterword plus44otherwrapper/credit/navigation slots. New raster documents, tourism article/map, contextual illustrations and embedded quoted/hypothetical sequences retain distinct planes. These resource/slot/image counts are not a narrative denominator. Supplemental19/mixed5closed;5of17mainexcluded programs fullgateclosed/12remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 06 excluded-component source-first reading is active and not yet accepted.** MAIN-06 exact local supplied edition 2529639bytes/SHA256 279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a, admitted after preceding full gate/fresh reload. Retain 11 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 19 excluded text resources and 31 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main06 excluded-component acceptance transition — 2026-10-19T10:08:16.796949+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 06 excluded-component source-first reading is active and not yet accepted.** MAIN-06 exact local supplied edition 2529639bytes/SHA256 279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a, admitted after preceding full gate/fresh reload. Retain 11 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 19 excluded text resources and 31 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 5of17 excluded-component full gates closed; other12 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+5of17main excluded-component programs have closed full gates; other12remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 06 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All19newresources69P/31images actually received;11acceptedprincipal members3392P retainedexact/newprincipalcredit0. No separately supplied prose bonus:22Pcreatorafterword plus47otherwrapper/credit/navigation slots. Front composites, one embedded masked-heist composition, profile, two artist contributions and future promotion retain separate planes. CR-MAIN06EX-001 corrects the old V06restraint account with original frozen bytes preserved. These counts are not a narrative denominator. Selected14comic premises/18written fragments,31principal+8party explicit new-enactment non-tests andfourtypedconstraints retain all partial/untested branches. MAIN01-MAIN05excluded andsupplemental19/mixed5gates are closed. MAIN07excluded admission follows this fullgate/freshreload;other11mainexcluded programs andallremaining synthesis/model/secondary/curation/releasework continue.
+Current sourced erratum [CR-MAIN06EX-001](08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md) qualifies frozen V06 section4.4: Kazuma requested Chris Bind as cover; Darkness tried release. Original report/forecasts/scores remain exact.
+
+
+All19newresources69P/31images actually received;11acceptedprincipal members3392P retainedexact/newprincipalcredit0. No separately supplied prose bonus:22Pcreatorafterword plus47otherwrapper/credit/navigation slots. Front composites, one embedded masked-heist composition, profile, two artist contributions and future promotion retain separate planes. CR-MAIN06EX-001 corrects the old V06restraint account with original frozen bytes preserved. These counts are not a narrative denominator. Selected14premises/18voicefragments;31principal+8party explicit new-enactment non-tests/fourtypedconstraints;11appends across tenledgers/29qualifications, plus1sourced claim-ledger erratum. Supplemental19/mixed5fullgates closed;MAIN01-MAIN05excluded fullgates remain closed;MAIN06analysis accepted/publicationpending;other11mainexcluded programs remain;globalcomponentpercentage null.
+
+Exact publication/all-treeandchanged-streamreadback/sourceaudit/housekeeping/finalactualsourceaudit-status/freshauthorityreload beforeMAIN07excluded admission. Incorporate then-currentmain ordinarily if needed and rerun affected author checks before nextpush. Allremaining sources/syntheses/versionedmodels/secondarycensus/earnedcohorts/curation/release continue.
+
+
+## Main06 full gate/reload — 2026-10-19T10:23:55.629059+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 06 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All19newresources69P/31images actually received;11acceptedprincipal members3392P retainedexact/newprincipalcredit0. No separately supplied prose bonus:22Pcreatorafterword plus47otherwrapper/credit/navigation slots. Front composites, one embedded masked-heist composition, profile, two artist contributions and future promotion retain separate planes. CR-MAIN06EX-001 corrects the old V06restraint account with original frozen bytes preserved. These counts are not a narrative denominator. Selected14comic premises/18written fragments,31principal+8party explicit new-enactment non-tests andfourtypedconstraints retain all partial/untested branches. MAIN01-MAIN05excluded andsupplemental19/mixed5gates are closed. MAIN07excluded admission follows this fullgate/freshreload;other11mainexcluded programs andallremaining synthesis/model/secondary/curation/releasework continue.
+Current sourced erratum [CR-MAIN06EX-001](08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md) qualifies frozen V06 section4.4: Kazuma requested Chris Bind as cover; Darkness tried release. Original report/forecasts/scores remain exact.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN05 excluded full gates closed; MAIN06 analysis accepted/publication pending; other11 programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 5of17main excluded-component programs have closed full gates; MAIN06analysis is accepted with its publication gate pending; other11remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**Main 06 excluded-component full publication gate is closed; separate Main 07 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN06EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All19newresources69P/31images actually received;11acceptedprincipal members3392P retainedexact/newprincipalcredit0. No separately supplied prose bonus:22Pcreatorafterword plus47otherwrapper/credit/navigation slots. Front composites, one embedded masked-heist composition, profile, two artist contributions and future promotion retain separate planes. CR-MAIN06EX-001 corrects the old V06restraint account with original frozen bytes preserved. These counts are not a narrative denominator. Supplemental19/mixed5closed;6of17mainexcluded programs fullgateclosed/11remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact source57c44c52e923800515c236a312f6c204c931432c/tree445d621327a286597f33695512654b0be089e966; all8901remote paths/36changedstreams match. Source39235620530/job118003845554 and final39236395834/job118006388731 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39236341473/job118006210579NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh736project-path authority reload2026-10-19T10:23:55.395743+00:00.
+
+
+## Iris cohort01 semantic acceptance — 2026-10-19T10:36:23.961554+00:00
+
+Accepted the first evidence-proportional secondary cohort: Iris monograph, distinct bounded mechanism model, exact eight-block forecast lineage, seven separately scoped informed commitments, actual22-output/11-pair synthetic exercise history and reviews, and native/derivative attribution evidence. Published35-row initial coverage responsibility includes all18mandatory candidates and additional discovery queues; only Iris receives a new scoped Tier3 disposition. SI-D05 LOW retains CONTEXP01 warning/cast adversity; competitive tactics qualify general fairness, unfamiliar-person choice remains underdetermined, journal privacy weak. MAIN06 gate is closed; this new cohort publication remains pending. No source admission, full-principal rereading, source-validation score or global enrollment occurs here. All remaining full41program responsibilities continue.
+
+
+## Iris cohort01 full publication gate — 2026-10-19T10:54:46.081453+00:00
+
+Exact sourcebc9b67dc37212868b16e8b6eed1a39f07b258dd0/tree9f35e61dfcc12aa79bb71b5d173c7d67f76bcc83; all8917remote paths/25changedstreams match. Source audit39239266627/job118015835543, housekeeping39239969560/job118018126187NO_OP/exact dispatch, final audit39240031135/job118018336065; both352fulltests/zeroall5non-success/selectionfalse; actual-source finalstatus and fresh752project authority reload2026-10-19T10:54:45.929292+00:00. ScopedTier3, eight exact historical blocks, seven informed optional future rules and22actual synthetic outputs retain all stated uncertainty. Original authority/scores/questions stay exact. Next MAIN07 excluded resources require separate admission; broad census/synthesis/revised models/curation/release continue. No protected-main integration claimed.
+
+
+## MAIN07EXCLUDED admission transition — 2026-10-19T10:55:18.249369+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Iris cohort01 full publication gate is closed; separate Main07 excluded-component admission is next.** [Iris monograph](05%20Specialist%20Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md), [bounded reconstruction](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md), [coverage audit](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md), [evidence index](08%20Evidence%20and%20Indexes/KONOSUBA_IRIS_EVIDENCE_INDEX.md) and [exact-source gate](09%20Audits%20and%20Manifests/KONOSUBA_IRIS_COHORT01_PUBLICATION_GATE_CLOSE.json) govern uptake. Actual sourcebc9b67dc37212868b16e8b6eed1a39f07b258dd0; all8917paths/25changedstreams match; both audits352full/zeroallfive non-success and final exactsource status verified; fresh752project authority reload completed. Only Iris receives a new scopedTier3 disposition; seven informed rules and22actual synthetic outputs retain adverse, LOW and underdetermined branches withzero source-validation credit. Other mandatory/discovered candidate responsibilities remain in the incomplete35-row audit, without final tiers. Supplemental19/mixed5 and6of17mainexcluded gates are closed;11mainexcluded programs and allremaining expanded/secondary/principal/party/transfer/curation/release work continue. MAIN07 is still unadmitted at this reconciliation. Component percentage remains null.
+````
+
+**Main 07 excluded-component source-first reading is active and not yet accepted.** MAIN-07 exact local supplied edition 11201415bytes/SHA256 38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5, admitted after preceding full gate/fresh reload. Retain 9 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 19 excluded text resources and 32 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main07 excluded-component acceptance transition — 2026-10-19T11:42:36.577532+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 07 excluded-component source-first reading is active and not yet accepted.** MAIN-07 exact local supplied edition 11201415bytes/SHA256 38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5, admitted after preceding full gate/fresh reload. Retain 9 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 19 excluded text resources and 32 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 6of17 excluded-component full gates closed; other11 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+6of17main excluded-component programs have closed full gates; other11remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 07 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All19new textual resources131P and32native images actually received;9accepted principal members3288P retained exact with zero new principal reading credit. New52P electronic bonus『たまにはお礼を言いたくて』,34P author afterword and45other wrapper/credit/navigation slots are distinct. Front composites, printed profile, paired bedside images, illustrator/guest production contributions and Volume8 promotional script retain their own planes. These counts are component accounting, not a narrative denominator. Twenty-five selectedcomicpremises/24shortwrittenfragments;39explicitprincipal-party comparisons retain35absentfulltriggers and4adjacent/ambiguous findings;fourtypedconstraints andsevenIrisno-opportunityrows do not change original outcomes. MAIN01-MAIN06excluded andsupplemental19/mixed5fullgates plusIriscohort areclosed. MAIN08excluded admission follows this fullgate/freshreload;other10mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+
+All19new textual resources131P and32native images actually received;9accepted principal members3288P retained exact with zero new principal reading credit. New52P electronic bonus『たまにはお礼を言いたくて』,34P author afterword and45other wrapper/credit/navigation slots are distinct. Front composites, printed profile, paired bedside images, illustrator/guest production contributions and Volume8 promotional script retain their own planes. These counts are component accounting, not a narrative denominator. Selected25premises/24writtenfragments;31principal+8party comparisons distinguish35absent fulltriggers from4adjacent/ambiguous findings;fourtypedconstraints andsevenIrisno-opportunityrows preserve originaloutcomes. Twelveappends across tenledgers/32qualifications. Supplemental19/mixed5 andMAIN01-MAIN06fullgates plusIriscohort remainclosed; MAIN07analysis accepted/publicationpending; other10mainexcluded programs remain. Globalcomponentpercentage null.
+
+Exact publication/all-tree and changed-stream readback/source audit/housekeeping/final actual-source audit and status/fresh published-authority reload before MAIN08 excluded admission. Incorporate then-current main ordinarily if needed and repeat affected checks before the next push. Remaining main components, secondary census and earned cohorts, synthesis, versioned principal/party/transfer models, curation and release continue.
+
+
+## Main07 full gate/reload — 2026-10-19T11:58:11.917217+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 07 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All19new textual resources131P and32native images actually received;9accepted principal members3288P retained exact with zero new principal reading credit. New52P electronic bonus『たまにはお礼を言いたくて』,34P author afterword and45other wrapper/credit/navigation slots are distinct. Front composites, printed profile, paired bedside images, illustrator/guest production contributions and Volume8 promotional script retain their own planes. These counts are component accounting, not a narrative denominator. Twenty-five selectedcomicpremises/24shortwrittenfragments;39explicitprincipal-party comparisons retain35absentfulltriggers and4adjacent/ambiguous findings;fourtypedconstraints andsevenIrisno-opportunityrows do not change original outcomes. MAIN01-MAIN06excluded andsupplemental19/mixed5fullgates plusIriscohort areclosed. MAIN08excluded admission follows this fullgate/freshreload;other10mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN06 excluded full gates closed; MAIN07 analysis accepted/publication pending; other10 programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 6of17main excluded-component programs have closed full gates; MAIN07analysis is accepted with publication gate pending; other10remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**Main 07 excluded-component full publication gate is closed; separate Main 08 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN07EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All19new textual resources131P and32native images actually received;9accepted principal members3288P retained exact with zero new principal reading credit. New52P electronic bonus『たまにはお礼を言いたくて』,34P author afterword and45other wrapper/credit/navigation slots are distinct. Front composites, printed profile, paired bedside images, illustrator/guest production contributions and Volume8 promotional script retain their own planes. These counts are component accounting, not a narrative denominator. Supplemental19/mixed5closed;7of17mainexcluded programs fullgateclosed/10remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact source854da7b49c6d9f428de41becfb74b9e3ed511b73/treedbd8c5b24bf6ac0ba8f2ae783c4ec44aca38fa2d; all8935remote paths/36changedstreams match. Source39246910233/job118040932852 and final39247662441/job118043443022 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39247614375/job118043285332NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh770project-path authority reload2026-10-19T11:57:09.012856+00:00.
+
+
+## MAIN08EXCLUDED admission transition — 2026-10-19T11:59:29.514320+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main 07 excluded-component full publication gate is closed; separate Main 08 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN07EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All19new textual resources131P and32native images actually received;9accepted principal members3288P retained exact with zero new principal reading credit. New52P electronic bonus『たまにはお礼を言いたくて』,34P author afterword and45other wrapper/credit/navigation slots are distinct. Front composites, printed profile, paired bedside images, illustrator/guest production contributions and Volume8 promotional script retain their own planes. These counts are component accounting, not a narrative denominator. Supplemental19/mixed5closed;7of17mainexcluded programs fullgateclosed/10remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 08 excluded-component source-first reading is active and not yet accepted.** MAIN-08 exact local supplied edition 2964798bytes/SHA256 ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e, admitted after preceding full gate/fresh reload. Retain 8 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 18 excluded text resources and 30 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main08 excluded-component acceptance transition — 2026-10-19T12:41:07.289490+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 08 excluded-component source-first reading is active and not yet accepted.** MAIN-08 exact local supplied edition 2964798bytes/SHA256 ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e, admitted after preceding full gate/fresh reload. Retain 8 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 18 excluded text resources and 30 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 7of17 excluded-component full gates closed; other10 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+7of17main excluded-component programs have closed full gates; other10remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 08 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All18new text resources128P/30native images actually received;8accepted principal members2927P retained exact/newprincipalcredit0. New60P electronic bonus『漢のロマンを叶えるために』,22Pauthorafterword and46other wrapper/credit/contents slots are distinct. Covers/fronts/profile/eight chapter banners/body illustrations/illustrator and guest codas/future promotion retain separate planes.650bounded retainedP support image attribution and current corrections; no extra events or full principal pass. Counts are not a narrative denominator. Selected25comicpremises/24writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/sevenIrisno-opportunityrows do not change original outcomes. MAIN01-MAIN07excluded,supplemental19/mixed5fullgates andIriscohort areclosed. MAIN-09excluded admission follows this fullgate/freshreload;other9mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+
+All18new text resources128P/30native images actually received;8accepted principal members2927P retained exact/newprincipalcredit0. New60P electronic bonus『漢のロマンを叶えるために』,22Pauthorafterword and46other wrapper/credit/contents slots are distinct. Covers/fronts/profile/eight chapter banners/body illustrations/illustrator and guest codas/future promotion retain separate planes.650bounded retainedP support image attribution and current corrections; no extra events or full principal pass. Counts are not a narrative denominator. Selected25premises/24writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/sevenIrisno-opportunityrows. 39explicit comparisons:34full conjunctions absent/unestablished; K04restraint/K08directpressure eligibility ambiguous; E03dependency-directed request locally supported without completed recovery; E06boundary continuity and E07reported production retain missing branches. No full heldoutC/F or accuracy update;4typeddiagnostics/7IrisNT preserve original fields. Retained events are not fresh trials. 12appends across tenledgers/30qualifications. Supplemental19/mixed5 andMAIN01-MAIN07fullgates plusIriscohort remainclosed; MAIN-08analysis accepted/publicationpending;other9mainexcluded programs remain;globalcomponentpercentage null.
+
+Exact publication/all-tree and changed-stream readback/source audit/housekeeping/final actual-source audit-status/fresh published-authority reload before MAIN09 excluded admission. Reconcile then-current main ordinarily before any later push. Remaining main components, full secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue.
+
+
+## Main08 full gate/reload — 2026-10-19T13:00:55.451823+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 08 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All18new text resources128P/30native images actually received;8accepted principal members2927P retained exact/newprincipalcredit0. New60P electronic bonus『漢のロマンを叶えるために』,22Pauthorafterword and46other wrapper/credit/contents slots are distinct. Covers/fronts/profile/eight chapter banners/body illustrations/illustrator and guest codas/future promotion retain separate planes.650bounded retainedP support image attribution and current corrections; no extra events or full principal pass. Counts are not a narrative denominator. Selected25comicpremises/24writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/sevenIrisno-opportunityrows do not change original outcomes. MAIN01-MAIN07excluded,supplemental19/mixed5fullgates andIriscohort areclosed. MAIN-09excluded admission follows this fullgate/freshreload;other9mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN07 excluded full gates closed; MAIN08 analysis accepted/publication pending; other9 programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 7of17main excluded-component programs have closed full gates; MAIN08analysis is accepted with publication gate pending; other9remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**Main 08 excluded-component full publication gate is closed; separate Main 09 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN08EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All18new text resources128P/30native images actually received;8accepted principal members2927P retained exact/newprincipalcredit0. New60P electronic bonus『漢のロマンを叶えるために』,22Pauthorafterword and46other wrapper/credit/contents slots are distinct. Covers/fronts/profile/eight chapter banners/body illustrations/illustrator and guest codas/future promotion retain separate planes.650bounded retainedP support image attribution and current corrections; no extra events or full principal pass. Counts are not a narrative denominator. Supplemental19/mixed5closed;8of17mainexcluded programs fullgateclosed/9remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact source8bde99e740ce0c23d9dee951aeb27cbb1aaa7c85/tree72e0c78e47af82b1188ff347d47106026babe7b6; all8953remote paths/35changedstreams match. Source39255069863/job118068182192 and final39255588642/job118069938990 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39255533521/job118069752928NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh788project-path authority reload2026-10-19T13:00:42.326423+00:00.
+
+
+## Yunyun cohort01 semantic acceptance — 2026-10-19T13:21:08.660638+00:00
+
+Accepted a distinct source-qualified monograph, provisional reconstruction model,18familyevidenceindex,1050actualnativeP/twelveunits and20nativeown-focalizerpages/fourlinkedinterludes, exactthree-blockY01lineage, seven separately scoped optional commitments, and16actualsame-authorresponses/eightfixedcontrasts with full causal receiving. The maintained coverage audit now has51workingrows, with grouped queues split where supported and Aigis/Zel/priest leads distinguished. Only Iris/Yunyun have scopedTier3 treatment. D04/D06stayLOW; protective-method and irreversible company/achievement ranking remain underidentified. No hypothetical source score, independent validation, source admission, new whole-principal pass or curator enrollment. MAIN08gateclosed; newcohort publication pending; full41programcontinues.
+
+
+## Yunyun cohort01 full publication gate — 2026-10-19T13:37:40.162803+00:00
+
+Exact source906a29b4c986de8035b2511ed19dbf3e7c3e0676/tree284a6a74d4c4f3cec439670cad4ddaa6acd93579; all8965remote paths/26changedstreams match. Source audit39260117525/job118085252942, housekeeping39260745026/job118087409631NO_OP/exact dispatch, final audit39260809810/job118087627394; both352fulltests/zeroall5non-success/selectionfalse; actual-source finalstatus and fresh800project authority reload2026-10-19T13:37:28.714961+00:00. ScopedTier3 monograph/model/index, three exact historical blocks, seven optional source rules and16actualsame-authorresponses retain all LOW/underidentified limits. Census51rows remains incomplete; only Iris/Yunyun assigned scopedTier3. Original authority/scores/questions and both secondary scopes remain exact. Next MAIN09 excluded resources require a distinct dual-gate admission after MAIN08 component gate and this cohort gate; all remaining work continues. No protected-main integration claimed.
+
+
+## MAIN09EXCLUDED admission transition — 2026-10-19T13:38:12.699911+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Yunyun cohort01 full publication gate is closed; separate Main09 excluded-component admission is next.** [Monograph](05%20Specialist%20Synthesis/KONOSUBA_YUNYUN_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md), [coverage audit](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md), [evidence index](08%20Evidence%20and%20Indexes/KONOSUBA_YUNYUN_EVIDENCE_INDEX.md) and [exact-source gate](09%20Audits%20and%20Manifests/KONOSUBA_YUNYUN_COHORT01_PUBLICATION_GATE_CLOSE.json) govern uptake. Actual source906a29b4c986de8035b2511ed19dbf3e7c3e0676; all8965remote paths/26changedstreams match; both352fullaudits/zero5non-success, NO_OP housekeeping and final exactsource status/reload verified. Iris and Yunyun have scopedTier3 treatment, predictive reliability provisional. The51-row working census remains incomplete;16same-authoroutputs/eightpairs supply no independent/source validation. SevenYunyun andsevenIris optional rules retain14originalnulls each. MAIN08component gate remains closed separately; supplemental19/mixed5 and8of17mainexcluded gates closed/9remain. MAIN09 is still unadmitted here. All remaining source/secondary/expanded/versionedprincipal-party-transfer/curation/integration/release work continues; overall componentpercentage null.
+````
+
+**Main 09 excluded-component source-first reading is active and not yet accepted.** MAIN-09 exact local supplied edition 3086699bytes/SHA256 a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e, admitted after preceding full gate/fresh reload. Retain 8 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 22 excluded text resources and 33 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main09 excluded-component acceptance transition — 2026-10-19T14:19:02.477176+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 09 excluded-component source-first reading is active and not yet accepted.** MAIN-09 exact local supplied edition 3086699bytes/SHA256 a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e, admitted after preceding full gate/fresh reload. Retain 8 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 22 excluded text resources and 33 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 8of17 excluded-component full gates closed; other9 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+8of17main excluded-component programs have closed full gates; other9remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 09 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All22new textual resources131P and33unique native images actually received. Eight accepted principal members3076P remain exact, with zero new principal reading credit. Separate61P electronic bonus『とあるひよこの必殺芸』,21P author afterword and49other wrapper/credit/contents slots; illustrator coda and five-page popularity appendix are separate raster paratext.1187bounded retainedP support current image/knowledge/chronology checks; these are no new events, full principal pass or eligible secondary source tests. Counts do not supply a narrative-component denominator. Selected26comicpremises/29writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/fourteenIris-Yunyunno-opportunityrows do not change original outcomes. MAIN01-MAIN08excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-10excluded admission follows this fullgate/freshreload;other8mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+
+All22new textual resources131P and33unique native images actually received. Eight accepted principal members3076P remain exact, with zero new principal reading credit. Separate61P electronic bonus『とあるひよこの必殺芸』,21P author afterword and49other wrapper/credit/contents slots; illustrator coda and five-page popularity appendix are separate raster paratext.1187bounded retainedP support current image/knowledge/chronology checks; these are no new events, full principal pass or eligible secondary source tests. Counts do not supply a narrative-component denominator. Selected26premises/29writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/fourteenIris-Yunyunno-opportunityrows. 39explicit comparisons:K02narrowresponse supported;K01adjacent game option;E01/E07partialcoordination;35fullconjunctionsNT. Fourtypeddiagnostics/14separateIris-YunyunNT preserve original fields. No full heldoutC/F, accuracy or confidence update; retained events are not fresh trials. 12appends across tenledgers/40qualifications. Supplemental19/mixed5 andMAIN01-MAIN08fullgates plusIris/Yunyuncohorts remainclosed; MAIN-09analysis accepted/publicationpending;other8mainexcluded programs remain;globalcomponentpercentage null.
+
+Exact publication/all-tree and changed-stream readback, full source audit, housekeeping, final actual-source audit/status and fresh published-authority reload before MAIN10 excluded admission. Reconcile then-current main ordinarily before any later push. Remaining main components, complete secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue.
+
+
+## Main09 full gate/reload — 2026-10-19T14:35:53.215476+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 09 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All22new textual resources131P and33unique native images actually received. Eight accepted principal members3076P remain exact, with zero new principal reading credit. Separate61P electronic bonus『とあるひよこの必殺芸』,21P author afterword and49other wrapper/credit/contents slots; illustrator coda and five-page popularity appendix are separate raster paratext.1187bounded retainedP support current image/knowledge/chronology checks; these are no new events, full principal pass or eligible secondary source tests. Counts do not supply a narrative-component denominator. Selected26comicpremises/29writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/fourteenIris-Yunyunno-opportunityrows do not change original outcomes. MAIN01-MAIN08excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-10excluded admission follows this fullgate/freshreload;other8mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN08 excluded full gates closed; MAIN09 analysis accepted/publication pending; other8 programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 8of17main excluded-component programs have closed full gates; MAIN09analysis is accepted with publication gate pending; other8remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**Main 09 excluded-component full publication gate is closed; separate Main 10 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN09EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All22new textual resources131P and33unique native images actually received. Eight accepted principal members3076P remain exact, with zero new principal reading credit. Separate61P electronic bonus『とあるひよこの必殺芸』,21P author afterword and49other wrapper/credit/contents slots; illustrator coda and five-page popularity appendix are separate raster paratext.1187bounded retainedP support current image/knowledge/chronology checks; these are no new events, full principal pass or eligible secondary source tests. Counts do not supply a narrative-component denominator. Supplemental19/mixed5closed;9of17mainexcluded programs fullgateclosed/8remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact sourcef5ab57916f33302c0b81a700b56876aab05777a9/tree8b98cf7aa0ab05fd4755234710c6d63bea4803a6; all8983remote paths/37changedstreams match. Source39268367075/job118113819436 and final39269119731/job118116456183 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39269044682/job118116187128NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh818project-path authority reload2026-10-19T14:35:32.929983+00:00.
+
+
+## MAIN10EXCLUDED admission transition — 2026-10-19T14:35:54.275305+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main 09 excluded-component full publication gate is closed; separate Main 10 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN09EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All22new textual resources131P and33unique native images actually received. Eight accepted principal members3076P remain exact, with zero new principal reading credit. Separate61P electronic bonus『とあるひよこの必殺芸』,21P author afterword and49other wrapper/credit/contents slots; illustrator coda and five-page popularity appendix are separate raster paratext.1187bounded retainedP support current image/knowledge/chronology checks; these are no new events, full principal pass or eligible secondary source tests. Counts do not supply a narrative-component denominator. Supplemental19/mixed5closed;9of17mainexcluded programs fullgateclosed/8remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 10 excluded-component source-first reading is active and not yet accepted.** MAIN-10 exact local supplied edition 1630298bytes/SHA256 8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733, admitted after preceding full gate/fresh reload. Retain 7 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 17 excluded text resources and 28 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main10 excluded-component acceptance transition — 2026-10-19T15:15:14.350755+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 10 excluded-component source-first reading is active and not yet accepted.** MAIN-10 exact local supplied edition 1630298bytes/SHA256 8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733, admitted after preceding full gate/fresh reload. Retain 7 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 17 excluded text resources and 28 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 9of17 excluded-component full gates closed; other8 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+9of17main excluded-component programs have closed full gates; other8remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 10 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All17new textual resources127P and28unique native images actually received. Seven accepted principal members3026P remain exact with zero new principal reading credit. New60P electronic bonus『女神、頑張ってます』,20P author afterword and47other wrapper/contents/credit slots; illustrator coda and future-volume11 promotion are separate raster paratext.955bounded retainedP across allseven principal members support current scene/identity/chronology precision without a new full-principal pass, new event or eligible secondary trial. Counts do not establish a narrative denominator. Selected21comicpremises/23writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/fourteenIris-Yunyunno-opportunityrows do not change original outcomes. MAIN01-MAIN09excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-11excluded admission follows this fullgate/freshreload;other7mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+
+All17new textual resources127P and28unique native images actually received. Seven accepted principal members3026P remain exact with zero new principal reading credit. New60P electronic bonus『女神、頑張ってます』,20P author afterword and47other wrapper/contents/credit slots; illustrator coda and future-volume11 promotion are separate raster paratext.955bounded retainedP across allseven principal members support current scene/identity/chronology precision without a new full-principal pass, new event or eligible secondary trial. Counts do not establish a narrative denominator. Selected21premises/23writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/fourteenIris-Yunyunno-opportunityrows. 39explicitcomparisons:2narrowlocalsupports(A01/D06),1K08direct-pressureadverse,4partial(K02/A02/E01/E07),2adjacent(K01/E05),1ambiguousK04 and29fullconjunctionsNT. Fourtypeddiagnostics/14separateIris-YunyunNT preserveoriginalfields. Sameinformedsource-localobservations,noblindC/F,accuracyorconfidenceupdate;retainedscenesarenotfreshtrials. 12appends across tenledgers/38qualifications. Supplemental19/mixed5 andMAIN01-MAIN09fullgates plusIris/Yunyuncohorts remainclosed; MAIN-10analysis accepted/publicationpending;other7mainexcluded programs remain;globalcomponentpercentage null.
+
+Exact publication/all-tree and changed-stream readback, full source audit, housekeeping, final actual-source audit/status and fresh published-authority reload before MAIN11 excluded admission. Ordinarily reconcile then-current main before another push. Remaining main components, complete secondary census/earned monographs/models/profiles, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue.
+
+
+## Main10 full gate/reload — 2026-10-19T15:39:48.895172+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 10 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All17new textual resources127P and28unique native images actually received. Seven accepted principal members3026P remain exact with zero new principal reading credit. New60P electronic bonus『女神、頑張ってます』,20P author afterword and47other wrapper/contents/credit slots; illustrator coda and future-volume11 promotion are separate raster paratext.955bounded retainedP across allseven principal members support current scene/identity/chronology precision without a new full-principal pass, new event or eligible secondary trial. Counts do not establish a narrative denominator. Selected21comicpremises/23writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/fourteenIris-Yunyunno-opportunityrows do not change original outcomes. MAIN01-MAIN09excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-11excluded admission follows this fullgate/freshreload;other7mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN09 excluded full gates closed; MAIN10 analysis accepted/publication pending; other7 programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 9of17main excluded-component programs have closed full gates; MAIN10analysis is accepted with publication gate pending; other7remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**Main 10 excluded-component full publication gate is closed; separate Main 11 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN10EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All17new textual resources127P and28unique native images actually received. Seven accepted principal members3026P remain exact with zero new principal reading credit. New60P electronic bonus『女神、頑張ってます』,20P author afterword and47other wrapper/contents/credit slots; illustrator coda and future-volume11 promotion are separate raster paratext.955bounded retainedP across allseven principal members support current scene/identity/chronology precision without a new full-principal pass, new event or eligible secondary trial. Counts do not establish a narrative denominator. Supplemental19/mixed5closed;10of17mainexcluded programs fullgateclosed/7remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact source64e350b3d074dc84decf180fc1a369b421de9c4e/tree76f8dd1b46f995f108fc761512046567d958fb42; all9001remote paths/35changedstreams match. Source39276959587/job118143702491 and final39277703856/job118146200902 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39277625865/job118145991978NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh836project-path authority reload2026-10-19T15:39:48.621209+00:00.
+
+
+## MAIN11EXCLUDED admission transition — 2026-10-19T15:40:12.895339+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main 10 excluded-component full publication gate is closed; separate Main 11 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN10EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All17new textual resources127P and28unique native images actually received. Seven accepted principal members3026P remain exact with zero new principal reading credit. New60P electronic bonus『女神、頑張ってます』,20P author afterword and47other wrapper/contents/credit slots; illustrator coda and future-volume11 promotion are separate raster paratext.955bounded retainedP across allseven principal members support current scene/identity/chronology precision without a new full-principal pass, new event or eligible secondary trial. Counts do not establish a narrative denominator. Supplemental19/mixed5closed;10of17mainexcluded programs fullgateclosed/7remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 11 excluded-component source-first reading is active and not yet accepted.** MAIN-11 exact local supplied edition 6177663bytes/SHA256 ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46, admitted after preceding full gate/fresh reload. Retain 7 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 18 excluded text resources and 28 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main11 excluded-component acceptance transition — 2026-10-19T16:08:00.804474+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 11 excluded-component source-first reading is active and not yet accepted.** MAIN-11 exact local supplied edition 6177663bytes/SHA256 ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46, admitted after preceding full gate/fresh reload. Retain 7 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 18 excluded text resources and 28 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 10of17 excluded-component full gates closed; other7 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+10of17main excluded-component programs have closed full gates; other7remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 11 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V11_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V11_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V11_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V11_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All18 new textual resources130P and28 unique native images actually received, including EPUB3 nonparagraph navigation residual. Seven accepted principal members2865P remain exact with zero new principal-pass credit. New53P electronic bonus『そのスキル、危険につき』,30P author afterword and47other wrapper/contents/credit slots. Domestic sisters/book composition has no uniquely bound prose event; illustrator coda and future-volume12 promotional script remain separate raster paratext.1119 bounded retained base-textP across allseven members support current scene/identity/chronology precision without a new full-principal pass, event or eligible secondary trial. Counts are not a narrative denominator. Selected20comicpremises/27writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/fourteenIris-Yunyunno-opportunityrows do not change original outcomes. MAIN01-MAIN10excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-12excluded admission follows this fullgate/freshreload;other6mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+
+All18 new textual resources130P and28 unique native images actually received, including EPUB3 nonparagraph navigation residual. Seven accepted principal members2865P remain exact with zero new principal-pass credit. New53P electronic bonus『そのスキル、危険につき』,30P author afterword and47other wrapper/contents/credit slots. Domestic sisters/book composition has no uniquely bound prose event; illustrator coda and future-volume12 promotional script remain separate raster paratext.1119 bounded retained base-textP across allseven members support current scene/identity/chronology precision without a new full-principal pass, event or eligible secondary trial. Counts are not a narrative denominator. Selected20premises/27writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/fourteenIris-Yunyunno-opportunityrows. 39explicitcomparisons:1narrowE03proposal support/5partialK01-K03-K04-E01-E06/1adjacentK05/32NT;4typeddiagnostics/14separateIrisYunyunNT preserveoriginalfields. Actualnotification/unresolvedgiftremedy andfulltriggerconditionsnotinvented; sameinformedsource-localuptake,noblindscore/accuracy/confidenceupdate. 12appends across tenledgers/38qualifications. Supplemental19/mixed5 andMAIN01-MAIN10fullgates plusIris/Yunyuncohorts remainclosed; MAIN-11analysis accepted/publicationpending;other6mainexcluded programs remain;globalcomponentpercentage null.
+
+Exact publication/all-tree and changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh published-authority reload before MAIN12 excluded admission. Ordinarily reconcile then-current main before another push. Remaining main components, complete secondary census/earned monographs/models/profiles, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue.
+
+
+## Main11 full gate/reload — 2026-10-19T16:43:44.036700+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 11 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V11_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V11_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V11_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V11_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All18 new textual resources130P and28 unique native images actually received, including EPUB3 nonparagraph navigation residual. Seven accepted principal members2865P remain exact with zero new principal-pass credit. New53P electronic bonus『そのスキル、危険につき』,30P author afterword and47other wrapper/contents/credit slots. Domestic sisters/book composition has no uniquely bound prose event; illustrator coda and future-volume12 promotional script remain separate raster paratext.1119 bounded retained base-textP across allseven members support current scene/identity/chronology precision without a new full-principal pass, event or eligible secondary trial. Counts are not a narrative denominator. Selected20comicpremises/27writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/fourteenIris-Yunyunno-opportunityrows do not change original outcomes. MAIN01-MAIN10excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-12excluded admission follows this fullgate/freshreload;other6mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN10 excluded full gates closed; MAIN11 analysis accepted/publication pending; other6 programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 10of17main excluded-component programs have closed full gates; MAIN11analysis is accepted with publication gate pending; other6remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**Main 11 excluded-component full publication gate is closed; separate Main 12 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V11_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V11_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN11EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All18 new textual resources130P and28 unique native images actually received, including EPUB3 nonparagraph navigation residual. Seven accepted principal members2865P remain exact with zero new principal-pass credit. New53P electronic bonus『そのスキル、危険につき』,30P author afterword and47other wrapper/contents/credit slots. Domestic sisters/book composition has no uniquely bound prose event; illustrator coda and future-volume12 promotional script remain separate raster paratext.1119 bounded retained base-textP across allseven members support current scene/identity/chronology precision without a new full-principal pass, event or eligible secondary trial. Counts are not a narrative denominator. Supplemental19/mixed5closed;11of17mainexcluded programs fullgateclosed/6remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact source70516f603eb2f02b3563091be6f81f142bda60d6/tree5182ea30a7318a628d012f65f3879af4ccbb49c7; all9019remote paths/35changedstreams match. Source39283431955/job118162650320 and final39285935448/job118171812976 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39285865691/job118171536789NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh854project-path authority reload2026-10-19T16:43:31.279054+00:00.
+
+
+## MAIN12EXCLUDED admission transition — 2026-10-19T16:43:45.115726+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main 11 excluded-component full publication gate is closed; separate Main 12 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V11_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V11_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN11EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All18 new textual resources130P and28 unique native images actually received, including EPUB3 nonparagraph navigation residual. Seven accepted principal members2865P remain exact with zero new principal-pass credit. New53P electronic bonus『そのスキル、危険につき』,30P author afterword and47other wrapper/contents/credit slots. Domestic sisters/book composition has no uniquely bound prose event; illustrator coda and future-volume12 promotional script remain separate raster paratext.1119 bounded retained base-textP across allseven members support current scene/identity/chronology precision without a new full-principal pass, event or eligible secondary trial. Counts are not a narrative denominator. Supplemental19/mixed5closed;11of17mainexcluded programs fullgateclosed/6remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 12 excluded-component source-first reading is active and not yet accepted.** MAIN-12 exact local supplied edition 1570295bytes/SHA256 d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24, admitted after preceding full gate/fresh reload. Retain 8 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 17 excluded text resources and 29 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main12 excluded-component acceptance transition — 2026-10-19T17:16:31.624596+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 12 excluded-component source-first reading is active and not yet accepted.** MAIN-12 exact local supplied edition 1570295bytes/SHA256 d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24, admitted after preceding full gate/fresh reload. Retain 8 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 17 excluded text resources and 29 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 11of17 excluded-component full gates closed; other6 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+11of17main excluded-component programs have closed full gates; other6remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 12 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V12_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V12_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V12_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V12_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All17 new textual resources124P and29 unique native images actually received and uncoded-sealed. Eight accepted principal members2841P remain exact with zero new principal-pass credit. New53P electronic bonus『伝説の魔女』,23P creator afterword and48other wrapper/contents/credit slots. Color portraits/montages and scene art join retained sources; cover pose is editorial, character profile, illustrator comment and NEXT13 script retain separate planes.1497 bounded retained base-textP across all eight members support exact current scene/identity/chronology/agency precision without a new whole-principal/ruby/independent-test claim. Counts are not a global narrative denominator. Selected14comicpremises/35writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows do not change original outcomes. MAIN01-MAIN11excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-13excluded admission follows this fullgate/freshreload;other5mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+
+All17 new textual resources124P and29 unique native images actually received and uncoded-sealed. Eight accepted principal members2841P remain exact with zero new principal-pass credit. New53P electronic bonus『伝説の魔女』,23P creator afterword and48other wrapper/contents/credit slots. Color portraits/montages and scene art join retained sources; cover pose is editorial, character profile, illustrator comment and NEXT13 script retain separate planes.1497 bounded retained base-textP across all eight members support exact current scene/identity/chronology/agency precision without a new whole-principal/ruby/independent-test claim. Counts are not a global narrative denominator. Selected14premises/35writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows. 39explicit informed comparisons:1narrowE05 differing-account support/7partialK01-K03-K05-M01-E01-E03-E07/31NT;4typeddiagnostics;7IrisNT/7Yunyunno-full-eligible-predicate preserve original fields. Yunyun actual new choices are retained, not denied; no blind score, accuracy or confidence update. 12appends across tenledgers/42qualifications. Supplemental19/mixed5 andMAIN01-MAIN11fullgates plusIris/Yunyuncohorts remainclosed; MAIN-12analysis accepted/publicationpending;other5mainexcluded programs remain;globalcomponentpercentage null.
+
+Complete exact candidate review/preflight, ordinary publication, all-tree/changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh authority reload before MAIN13 excluded admission. Ordinarily reconcile then-current main before another push. Remaining sources, full secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curation/integration and release continue.
+
+
+## Main12 full gate/reload — 2026-10-19T17:36:18.262246+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 12 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V12_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V12_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V12_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V12_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All17 new textual resources124P and29 unique native images actually received and uncoded-sealed. Eight accepted principal members2841P remain exact with zero new principal-pass credit. New53P electronic bonus『伝説の魔女』,23P creator afterword and48other wrapper/contents/credit slots. Color portraits/montages and scene art join retained sources; cover pose is editorial, character profile, illustrator comment and NEXT13 script retain separate planes.1497 bounded retained base-textP across all eight members support exact current scene/identity/chronology/agency precision without a new whole-principal/ruby/independent-test claim. Counts are not a global narrative denominator. Selected14comicpremises/35writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows do not change original outcomes. MAIN01-MAIN11excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-13excluded admission follows this fullgate/freshreload;other5mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN11 excluded full gates closed; MAIN12 analysis accepted/publication pending; other5 programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 11of17main excluded-component programs have closed full gates; MAIN12analysis is accepted with publication gate pending; other5remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**Main 12 excluded-component full publication gate is closed; separate Main 13 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V12_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V12_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN12EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All17 new textual resources124P and29 unique native images actually received and uncoded-sealed. Eight accepted principal members2841P remain exact with zero new principal-pass credit. New53P electronic bonus『伝説の魔女』,23P creator afterword and48other wrapper/contents/credit slots. Color portraits/montages and scene art join retained sources; cover pose is editorial, character profile, illustrator comment and NEXT13 script retain separate planes.1497 bounded retained base-textP across all eight members support exact current scene/identity/chronology/agency precision without a new whole-principal/ruby/independent-test claim. Counts are not a global narrative denominator. Supplemental19/mixed5closed;12of17mainexcluded programs fullgateclosed/5remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact source83b5b9db60b7ff548bb25a69eb0163fabe9e86e6/tree0d513fc8494dc186be91f799fdd0097ebd29254d; all9037remote paths/35changedstreams match. Source39293963863/job118201543891 and final39294858304/job118204606825 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39294789055/job118204364038NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh872project-path authority reload2026-10-19T17:35:55.054577+00:00.
+
+
+## MAIN13EXCLUDED admission transition — 2026-10-19T17:36:22.300008+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main 12 excluded-component full publication gate is closed; separate Main 13 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V12_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V12_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN12EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All17 new textual resources124P and29 unique native images actually received and uncoded-sealed. Eight accepted principal members2841P remain exact with zero new principal-pass credit. New53P electronic bonus『伝説の魔女』,23P creator afterword and48other wrapper/contents/credit slots. Color portraits/montages and scene art join retained sources; cover pose is editorial, character profile, illustrator comment and NEXT13 script retain separate planes.1497 bounded retained base-textP across all eight members support exact current scene/identity/chronology/agency precision without a new whole-principal/ruby/independent-test claim. Counts are not a global narrative denominator. Supplemental19/mixed5closed;12of17mainexcluded programs fullgateclosed/5remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 13 excluded-component source-first reading is active and not yet accepted.** MAIN-13 exact local supplied edition 2779947bytes/SHA256 20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b, admitted after preceding full gate/fresh reload. Retain 7 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 17 excluded text resources and 28 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main13 excluded-component acceptance transition — 2026-10-19T18:17:30.984903+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 13 excluded-component source-first reading is active and not yet accepted.** MAIN-13 exact local supplied edition 2779947bytes/SHA256 20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b, admitted after preceding full gate/fresh reload. Retain 7 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 17 excluded text resources and 28 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 12of17 excluded-component full gates closed; other5 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+12of17main excluded-component programs have closed full gates; other5remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 13 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All17new textual resources129P and28unique native images actually received and uncoded-sealed. Seven accepted principal members2456P remain exact with zero new principal-pass credit. New60P electronic bonus『本物のマジックアイテム！』,22P creator afterword and47other wrapper/contents/credit slots. Cover/profile/montage/banners, illustrator staged comic and NEXT14 keep separate planes. Current2008retained base-textP across7units provide source-specific image/identity/transaction/agency/chronology precision; no fresh whole retained novel/ruby/residual/independent validation credit. Five retained units complete at current base-text scope, C2/C4 bounded. Counts are not a global narrative denominator. Selected16comicpremises/43writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows do not change original outcomes. MAIN01-MAIN12excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-14excluded admission follows this fullgate/freshreload;other4mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+
+All17new textual resources129P and28unique native images actually received and uncoded-sealed. Seven accepted principal members2456P remain exact with zero new principal-pass credit. New60P electronic bonus『本物のマジックアイテム！』,22P creator afterword and47other wrapper/contents/credit slots. Cover/profile/montage/banners, illustrator staged comic and NEXT14 keep separate planes. Current2008retained base-textP across7units provide source-specific image/identity/transaction/agency/chronology precision; no fresh whole retained novel/ruby/residual/independent validation credit. Five retained units complete at current base-text scope, C2/C4 bounded. Counts are not a global narrative denominator. Selected16premises/43writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows. 39explicit informed comparisons:4narrowK01-K07-D02-E07supports/5partialK02-K03-K05-M01-E05/1E03ambiguous possible-adverse physical recovery omission/1E06boundary adjacency/28NT;4typeddiagnostics;7IrisNT/7YunyunNT preserve original fields. Neither actor chooses in the new bonus; retained context is not a fresh trial; no blind score, accuracy or confidence update. 12appends across tenledgers/46qualifications. Supplemental19/mixed5 andMAIN01-MAIN12fullgates plusIris/Yunyuncohorts remainclosed; MAIN-13analysis accepted/publicationpending;other4mainexcluded programs remain;globalcomponentpercentage null.
+
+Complete exact candidate review/preflight, ordinary publication, all-tree/changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh authority reload before MAIN14 excluded admission. Ordinarily reconcile then-current main before another push. Remaining sources, full individual secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curation/integration and release continue.
+
+
+## Main13 full gate/reload — 2026-10-19T18:33:41.852449+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 13 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All17new textual resources129P and28unique native images actually received and uncoded-sealed. Seven accepted principal members2456P remain exact with zero new principal-pass credit. New60P electronic bonus『本物のマジックアイテム！』,22P creator afterword and47other wrapper/contents/credit slots. Cover/profile/montage/banners, illustrator staged comic and NEXT14 keep separate planes. Current2008retained base-textP across7units provide source-specific image/identity/transaction/agency/chronology precision; no fresh whole retained novel/ruby/residual/independent validation credit. Five retained units complete at current base-text scope, C2/C4 bounded. Counts are not a global narrative denominator. Selected16comicpremises/43writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows do not change original outcomes. MAIN01-MAIN12excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-14excluded admission follows this fullgate/freshreload;other4mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN12 excluded full gates closed; MAIN13 analysis accepted/publication pending; other4 programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 12of17main excluded-component programs have closed full gates; MAIN13analysis is accepted with publication gate pending; other4remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**Main 13 excluded-component full publication gate is closed; separate Main 14 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN13EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All17new textual resources129P and28unique native images actually received and uncoded-sealed. Seven accepted principal members2456P remain exact with zero new principal-pass credit. New60P electronic bonus『本物のマジックアイテム！』,22P creator afterword and47other wrapper/contents/credit slots. Cover/profile/montage/banners, illustrator staged comic and NEXT14 keep separate planes. Current2008retained base-textP across7units provide source-specific image/identity/transaction/agency/chronology precision; no fresh whole retained novel/ruby/residual/independent validation credit. Five retained units complete at current base-text scope, C2/C4 bounded. Counts are not a global narrative denominator. Supplemental19/mixed5closed;13of17mainexcluded programs fullgateclosed/4remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact source6c12a8013ec256bb998acdda2e15970aae5fea88/tree0aabb65cf3d002611873defd37ba18894aa8a026; all9055remote paths/35changedstreams match. Source39301879551/job118228888489 and final39302779599/job118232002768 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39302709804/job118231759994NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh890project-path authority reload2026-10-19T18:33:17.222518+00:00.
+
+
+## MAIN14EXCLUDED admission transition — 2026-10-19T18:33:50.860979+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main 13 excluded-component full publication gate is closed; separate Main 14 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN13EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All17new textual resources129P and28unique native images actually received and uncoded-sealed. Seven accepted principal members2456P remain exact with zero new principal-pass credit. New60P electronic bonus『本物のマジックアイテム！』,22P creator afterword and47other wrapper/contents/credit slots. Cover/profile/montage/banners, illustrator staged comic and NEXT14 keep separate planes. Current2008retained base-textP across7units provide source-specific image/identity/transaction/agency/chronology precision; no fresh whole retained novel/ruby/residual/independent validation credit. Five retained units complete at current base-text scope, C2/C4 bounded. Counts are not a global narrative denominator. Supplemental19/mixed5closed;13of17mainexcluded programs fullgateclosed/4remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 14 excluded-component source-first reading is active and not yet accepted.** MAIN-14 exact local supplied edition 2839172bytes/SHA256 33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463, admitted after preceding full gate/fresh reload. Retain 8 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 18 excluded text resources and 29 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main14 excluded-component acceptance transition — 2026-10-19T19:20:28.212005+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 14 excluded-component source-first reading is active and not yet accepted.** MAIN-14 exact local supplied edition 2839172bytes/SHA256 33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463, admitted after preceding full gate/fresh reload. Retain 8 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 18 excluded text resources and 29 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 13of17 excluded-component full gates closed; other4 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+13of17main excluded-component programs have closed full gates; other4remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 14 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All18new textual resources129P and29unique native images actually received and uncoded-sealed. Eight accepted principal members2691P remain exact with zero new principal-pass credit. New57P electronic bonus『少女の苗は無邪気に嗤う』,22P creator afterword and50other wrapper/contents/heading/credit slots. Cover/profile/montage/banners/decorative vacation art, Nerimaki's imagined contributor comic and NEXT15 keep separate planes. All2691retained principal base-textP across8complete units were actually re-received for current image/identity/agency/chronology precision; no fresh retained ruby/residual, whole-EPUB or independent validation claim. Counts are not a global narrative denominator. Selected17comicpremises/41writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/seven Iris NT and seven Yunyun unscored rows including two explicit near cases do not change original outcomes. MAIN01-MAIN13excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-15excluded admission follows this fullgate/freshreload;other3mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+
+All18new textual resources129P and29unique native images actually received and uncoded-sealed. Eight accepted principal members2691P remain exact with zero new principal-pass credit. New57P electronic bonus『少女の苗は無邪気に嗤う』,22P creator afterword and50other wrapper/contents/heading/credit slots. Cover/profile/montage/banners/decorative vacation art, Nerimaki's imagined contributor comic and NEXT15 keep separate planes. All2691retained principal base-textP across8complete units were actually re-received for current image/identity/agency/chronology precision; no fresh retained ruby/residual, whole-EPUB or independent validation claim. Counts are not a global narrative denominator. Selected17premises/41writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/seven Iris NT and seven Yunyun unscored rows including two explicit near cases. 39explicit informed comparisons:5narrowA01-D01-D06-E05-E07compatibilities/2partialK07-E01/32full-guardNT;4typeddiagnostics;7IrisNT/7Yunyununscored including2explicit nearcases preserve original fields. Yunyun makes actual new bonus choices;0full SY guards are established. Retained context is not a fresh trial; no blind score, accuracy or confidence update. 12appends across tenledgers/44qualifications. Supplemental19/mixed5 andMAIN01-MAIN13fullgates plusIris/Yunyuncohorts remainclosed; MAIN-14analysis accepted/publicationpending;other3mainexcluded programs remain;globalcomponentpercentage null.
+
+Complete exact candidate review/preflight, ordinary publication, all-tree/changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh authority reload before MAIN15 excluded admission. Ordinarily reconcile then-current main before another push. MAIN15-17, full individual secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curation/integration and release continue.
+
+
+## Main14 full gate/reload — 2026-10-19T19:35:22.915836+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 14 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All18new textual resources129P and29unique native images actually received and uncoded-sealed. Eight accepted principal members2691P remain exact with zero new principal-pass credit. New57P electronic bonus『少女の苗は無邪気に嗤う』,22P creator afterword and50other wrapper/contents/heading/credit slots. Cover/profile/montage/banners/decorative vacation art, Nerimaki's imagined contributor comic and NEXT15 keep separate planes. All2691retained principal base-textP across8complete units were actually re-received for current image/identity/agency/chronology precision; no fresh retained ruby/residual, whole-EPUB or independent validation claim. Counts are not a global narrative denominator. Selected17comicpremises/41writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/seven Iris NT and seven Yunyun unscored rows including two explicit near cases do not change original outcomes. MAIN01-MAIN13excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-15excluded admission follows this fullgate/freshreload;other3mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN13 excluded full gates closed; MAIN14 analysis accepted/publication pending; other3 programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 13of17main excluded-component programs have closed full gates; MAIN14analysis is accepted with publication gate pending; other3remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**Main 14 excluded-component full publication gate is closed; separate Main 15 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN14EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All18new textual resources129P and29unique native images actually received and uncoded-sealed. Eight accepted principal members2691P remain exact with zero new principal-pass credit. New57P electronic bonus『少女の苗は無邪気に嗤う』,22P creator afterword and50other wrapper/contents/heading/credit slots. Cover/profile/montage/banners/decorative vacation art, Nerimaki's imagined contributor comic and NEXT15 keep separate planes. All2691retained principal base-textP across8complete units were actually re-received for current image/identity/agency/chronology precision; no fresh retained ruby/residual, whole-EPUB or independent validation claim. Counts are not a global narrative denominator. Supplemental19/mixed5closed;14of17mainexcluded programs fullgateclosed/3remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact source4e66641fdd9cdb23fd00718d540c08840240f1f2/tree9c30b75df909fa5a693f754cec8809c7b6c629e5; all9078remote paths/43changedstreams match. Source39310717608/job118259258550 and final39311279225/job118261194693 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39311216480/job118260981712NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh908project-path authority reload2026-10-19T19:35:22.647731+00:00.
+
+
+## MAIN15EXCLUDED admission transition — 2026-10-19T19:36:45.730648+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main 14 excluded-component full publication gate is closed; separate Main 15 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN14EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All18new textual resources129P and29unique native images actually received and uncoded-sealed. Eight accepted principal members2691P remain exact with zero new principal-pass credit. New57P electronic bonus『少女の苗は無邪気に嗤う』,22P creator afterword and50other wrapper/contents/heading/credit slots. Cover/profile/montage/banners/decorative vacation art, Nerimaki's imagined contributor comic and NEXT15 keep separate planes. All2691retained principal base-textP across8complete units were actually re-received for current image/identity/agency/chronology precision; no fresh retained ruby/residual, whole-EPUB or independent validation claim. Counts are not a global narrative denominator. Supplemental19/mixed5closed;14of17mainexcluded programs fullgateclosed/3remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 15 excluded-component source-first reading is active and not yet accepted.** MAIN-15 exact local supplied edition 2513225bytes/SHA256 ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005, admitted after preceding full gate/fresh reload. Retain 7 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 19 excluded text resources and 27 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main15 excluded-component acceptance transition — 2026-10-19T20:17:21.829775+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 15 excluded-component source-first reading is active and not yet accepted.** MAIN-15 exact local supplied edition 2513225bytes/SHA256 ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005, admitted after preceding full gate/fresh reload. Retain 7 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 19 excluded text resources and 27 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 14of17 excluded-component full gates closed; other3 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+14of17main excluded-component programs have closed full gates; other3remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 15 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All19new textual resources108P/ruby/residuals and27unique native images actually received and uncoded-sealed. Seven accepted principal members3013P remain exact with zero new principal-pass credit. New57P electronic bonus『貴族スタイル』,14P creator afterword and37other notice/contents/heading/colophon/use slots. Current retained native precision recheck1088unique BASE-TEXTP across6of7units, with onlyPr44/Ep65complete; no fresh retained ruby/residual/C3whole-unit/whole-EPUB/independent reading claim. Cover/montage/main illustrations, anniversary composition, editorial profile, illustrator's note-drafting vignette, jacket biographies and NEXT16 retain distinct planes. Counts are not a global narrative denominator. Selected12comicpremises/36writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows do not change original outcomes. MAIN01-MAIN14excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-16excluded admission follows this fullgate/freshreload;other2mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+
+All19new textual resources108P/ruby/residuals and27unique native images actually received and uncoded-sealed. Seven accepted principal members3013P remain exact with zero new principal-pass credit. New57P electronic bonus『貴族スタイル』,14P creator afterword and37other notice/contents/heading/colophon/use slots. Current retained native precision recheck1088unique BASE-TEXTP across6of7units, with onlyPr44/Ep65complete; no fresh retained ruby/residual/C3whole-unit/whole-EPUB/independent reading claim. Cover/montage/main illustrations, anniversary composition, editorial profile, illustrator's note-drafting vignette, jacket biographies and NEXT16 retain distinct planes. Counts are not a global narrative denominator. Selected12premises/36writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows. 39explicit informed comparisons:4narrowD06/E03/E05/E07compatibilities,4partialK04/K07/D01/E01,31full-trigger-absent. Four typeddiagnostics;7IrisNT/7YunyunNT preserve original fields. Neither actor chooses in the new bonus; retained context is not a fresh trial; overlapping source-local matches are not independent validation, accuracy or confidence updates. 12appends across tenledgers/44qualifications. Supplemental19/mixed5 andMAIN01-MAIN14fullgates plusIris/Yunyuncohorts remainclosed; MAIN-15analysis accepted/publicationpending;other2mainexcluded programs remain;globalcomponentpercentage null.
+
+Complete candidate review/preflight, ordinary publication, all-tree/changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh authority reload before MAIN16 excluded admission. Reconcile then-current main before another push. MAIN16–17, full individual secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue.
+
+
+## Main15 full gate/reload — 2026-10-19T20:34:13.267334+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 15 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All19new textual resources108P/ruby/residuals and27unique native images actually received and uncoded-sealed. Seven accepted principal members3013P remain exact with zero new principal-pass credit. New57P electronic bonus『貴族スタイル』,14P creator afterword and37other notice/contents/heading/colophon/use slots. Current retained native precision recheck1088unique BASE-TEXTP across6of7units, with onlyPr44/Ep65complete; no fresh retained ruby/residual/C3whole-unit/whole-EPUB/independent reading claim. Cover/montage/main illustrations, anniversary composition, editorial profile, illustrator's note-drafting vignette, jacket biographies and NEXT16 retain distinct planes. Counts are not a global narrative denominator. Selected12comicpremises/36writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows do not change original outcomes. MAIN01-MAIN14excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-16excluded admission follows this fullgate/freshreload;other2mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN14 excluded full gates closed; MAIN15 analysis accepted/publication pending; other2 programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 14of17main excluded-component programs have closed full gates; MAIN15analysis is accepted with publication gate pending; other2remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**Main 15 excluded-component full publication gate is closed; separate Main 16 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN15EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All19new textual resources108P/ruby/residuals and27unique native images actually received and uncoded-sealed. Seven accepted principal members3013P remain exact with zero new principal-pass credit. New57P electronic bonus『貴族スタイル』,14P creator afterword and37other notice/contents/heading/colophon/use slots. Current retained native precision recheck1088unique BASE-TEXTP across6of7units, with onlyPr44/Ep65complete; no fresh retained ruby/residual/C3whole-unit/whole-EPUB/independent reading claim. Cover/montage/main illustrations, anniversary composition, editorial profile, illustrator's note-drafting vignette, jacket biographies and NEXT16 retain distinct planes. Counts are not a global narrative denominator. Supplemental19/mixed5closed;15of17mainexcluded programs fullgateclosed/2remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact source9e0000b3372e3f98672e0e07038b8120455875fd/tree882e1bd99e42dafadf26d672ae4a991044a14ce2; all9096remote paths/35changedstreams match. Source39318412264/job118285817785 and final39319294786/job118288840952 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39319233609/job118288625821NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh926project-path authority reload2026-10-19T20:33:50.903321+00:00.
+
+
+## MAIN16EXCLUDED admission transition — 2026-10-19T20:35:00.268643+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main 15 excluded-component full publication gate is closed; separate Main 16 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN15EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All19new textual resources108P/ruby/residuals and27unique native images actually received and uncoded-sealed. Seven accepted principal members3013P remain exact with zero new principal-pass credit. New57P electronic bonus『貴族スタイル』,14P creator afterword and37other notice/contents/heading/colophon/use slots. Current retained native precision recheck1088unique BASE-TEXTP across6of7units, with onlyPr44/Ep65complete; no fresh retained ruby/residual/C3whole-unit/whole-EPUB/independent reading claim. Cover/montage/main illustrations, anniversary composition, editorial profile, illustrator's note-drafting vignette, jacket biographies and NEXT16 retain distinct planes. Counts are not a global narrative denominator. Supplemental19/mixed5closed;15of17mainexcluded programs fullgateclosed/2remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 16 excluded-component source-first reading is active and not yet accepted.** MAIN-16 exact local supplied edition 8530869bytes/SHA256 7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1, admitted after preceding full gate/fresh reload. Retain 10 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 18 excluded text resources and 28 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main16 excluded-component acceptance transition — 2026-10-19T21:09:10.045932+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 16 excluded-component source-first reading is active and not yet accepted.** MAIN-16 exact local supplied edition 8530869bytes/SHA256 7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1, admitted after preceding full gate/fresh reload. Retain 10 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 18 excluded text resources and 28 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 15of17 excluded-component full gates closed; other2 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+15of17main excluded-component programs have closed full gates; other2remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 16 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All18new textual resources121P/ruby/residuals and28unique native images actually received and uncoded-sealed. Ten accepted principal members2844P retain exact authority and zero new principal-pass credit. New60P electronic bonus『アクセルの街の名物女神』,21Pcreator afterword and40other notice/contents/heading/colophon/use slots. Current retained precision1395unique BASE-TEXTP acrossall10units: fourinterludes179P/final515P/epilogue29Pcomplete at base-text scope, four main chapters bounded. No fresh retained ruby/residual, full2844P/wholeEPUB/newprincipalpass or independent-reading claim. Cover/crop, contents, two montages, banners/profile, dependent contributor closet art, jacket biographies and NEXT17 keep their own planes. Counts are not a global narrative denominator. Selected12comicpremises/36writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows do not change original outcomes. MAIN01-MAIN15excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-17excluded admission follows this fullgate/freshreload;other1mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+
+All18new textual resources121P/ruby/residuals and28unique native images actually received and uncoded-sealed. Ten accepted principal members2844P retain exact authority and zero new principal-pass credit. New60P electronic bonus『アクセルの街の名物女神』,21Pcreator afterword and40other notice/contents/heading/colophon/use slots. Current retained precision1395unique BASE-TEXTP acrossall10units: fourinterludes179P/final515P/epilogue29Pcomplete at base-text scope, four main chapters bounded. No fresh retained ruby/residual, full2844P/wholeEPUB/newprincipalpass or independent-reading claim. Cover/crop, contents, two montages, banners/profile, dependent contributor closet art, jacket biographies and NEXT17 keep their own planes. Counts are not a global narrative denominator. Selected12premises/36writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows. 39 explicit informed comparisons: 2 narrow E03/E07 compatibilities, 3 partial K03/E01/E05 cases and 34 full-trigger-absent cases. Four typeddiagnostics;7IrisNT/7YunyunNT preserve original fields. Neither actor chooses in the new bonus; retained context is not a fresh trial; overlapping source-local matches are not independent validation, accuracy or confidence updates. 12appends across tenledgers/48qualifications. Supplemental19/mixed5 andMAIN01-MAIN15fullgates plusIris/Yunyuncohorts remainclosed; MAIN-16analysis accepted/publicationpending;other1mainexcluded programs remain;globalcomponentpercentage null.
+
+Finish exact candidate review/author preflight, ordinary publication, remote all-tree/all changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh published-authority reload before MAIN17 excluded admission. Reconcile then-current main before another push. MAIN17, full individual census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, designated curation/integration and release continue.
+
+
+## Main16 full gate/reload — 2026-10-19T21:23:48.465361+00:00
+
+Prior current operation, table row and accounting paragraph preserved verbatim:
+
+````markdown
+**Main 16 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All18new textual resources121P/ruby/residuals and28unique native images actually received and uncoded-sealed. Ten accepted principal members2844P retain exact authority and zero new principal-pass credit. New60P electronic bonus『アクセルの街の名物女神』,21Pcreator afterword and40other notice/contents/heading/colophon/use slots. Current retained precision1395unique BASE-TEXTP acrossall10units: fourinterludes179P/final515P/epilogue29Pcomplete at base-text scope, four main chapters bounded. No fresh retained ruby/residual, full2844P/wholeEPUB/newprincipalpass or independent-reading claim. Cover/crop, contents, two montages, banners/profile, dependent contributor closet art, jacket biographies and NEXT17 keep their own planes. Counts are not a global narrative denominator. Selected12comicpremises/36writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows do not change original outcomes. MAIN01-MAIN15excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-17excluded admission follows this fullgate/freshreload;other1mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN15 excluded full gates closed; MAIN16 analysis accepted/publication pending; other1 programs require separate admission and dispositions |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 15of17main excluded-component programs have closed full gates; MAIN16analysis is accepted with publication gate pending; other1remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**Main 16 excluded-component full publication gate is closed; separate Main 17 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN16EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All18new textual resources121P/ruby/residuals and28unique native images actually received and uncoded-sealed. Ten accepted principal members2844P retain exact authority and zero new principal-pass credit. New60P electronic bonus『アクセルの街の名物女神』,21Pcreator afterword and40other notice/contents/heading/colophon/use slots. Current retained precision1395unique BASE-TEXTP acrossall10units: fourinterludes179P/final515P/epilogue29Pcomplete at base-text scope, four main chapters bounded. No fresh retained ruby/residual, full2844P/wholeEPUB/newprincipalpass or independent-reading claim. Cover/crop, contents, two montages, banners/profile, dependent contributor closet art, jacket biographies and NEXT17 keep their own planes. Counts are not a global narrative denominator. Supplemental19/mixed5closed;16of17mainexcluded programs fullgateclosed/1remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+Exact source870756ef7cfeb3d14f395deac59be65e909ba9a3/treeabd947f210636261e421e21138470ac7cee6479d; all9114remote paths/35changedstreams match. Source39325601577/job118310509049 and final39326540500/job118313755256 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39326329714/job118313363120NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh944project-path authority reload2026-10-19T21:23:40.393716+00:00.
+
+
+## MAIN17EXCLUDED admission transition — 2026-10-19T21:23:57.196586+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main 16 excluded-component full publication gate is closed; separate Main 17 excluded-component admission is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN16EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. All18new textual resources121P/ruby/residuals and28unique native images actually received and uncoded-sealed. Ten accepted principal members2844P retain exact authority and zero new principal-pass credit. New60P electronic bonus『アクセルの街の名物女神』,21Pcreator afterword and40other notice/contents/heading/colophon/use slots. Current retained precision1395unique BASE-TEXTP acrossall10units: fourinterludes179P/final515P/epilogue29Pcomplete at base-text scope, four main chapters bounded. No fresh retained ruby/residual, full2844P/wholeEPUB/newprincipalpass or independent-reading claim. Cover/crop, contents, two montages, banners/profile, dependent contributor closet art, jacket biographies and NEXT17 keep their own planes. Counts are not a global narrative denominator. Supplemental19/mixed5closed;16of17mainexcluded programs fullgateclosed/1remain; componentpercentage null. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 17 excluded-component source-first reading is active and not yet accepted.** MAIN-17 exact local supplied edition 2197695bytes/SHA256 5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c, admitted after preceding full gate/fresh reload. Retain 5 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 15 excluded text resources and 25 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main17 excluded-component acceptance transition — 2026-10-19T21:48:03.016912+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 17 excluded-component source-first reading is active and not yet accepted.** MAIN-17 exact local supplied edition 2197695bytes/SHA256 5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c, admitted after preceding full gate/fresh reload. Retain 5 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 15 excluded text resources and 25 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 16of17 excluded-component full gates closed; other1 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+16of17main excluded-component programs have closed full gates; other1remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main17 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All15 new textual resources71P/ruby/residuals and25 unique native images actually received and uncoded-sealed. Five accepted principal members2,608P retain exact authority and zero new principal-pass credit. There is no separate prose bonus:37Pcreator afterword includes a modal parallel-campaign synopsis and future threads;34other notice/contents/colophon/use slots. Current retained precision1,517unique BASE-TEXTP acrossallfiveunits: completeC1=591P/Ep=93P;C2=342P/C3=141P/final=350Pbounded. No fresh retainedruby/residual/all2,608P/wholeEPUB/newprincipalpass/independent claim. Cover/crop, two color compositions, promotional role montage, profiles/banners, closing contributor dedication, jacket biographies/blurb and edition text keep distinct source planes. These counts are not a global narrative denominator. Selected9comicpremises/27writtenfragments;39explicitprincipal-partyNTcomparisons/fourtypeddiagnostics/sevenIrisNT/sevenYunyunNT preserveoriginaloutcomes. MAIN01-MAIN16excluded,supplemental19/mixed5 andIris/Yunyuncohorts areclosed. Fullsecondarycensus/earnedartifacts/expanded synthesis/versionedprincipal-party-transfer/curation/integration/release follows this fullgate/freshreload;noMAIN18admission.
+
+
+All15 new textual resources71P/ruby/residuals and25 unique native images actually received and uncoded-sealed. Five accepted principal members2,608P retain exact authority and zero new principal-pass credit. There is no separate prose bonus:37Pcreator afterword includes a modal parallel-campaign synopsis and future threads;34other notice/contents/colophon/use slots. Current retained precision1,517unique BASE-TEXTP acrossallfiveunits: completeC1=591P/Ep=93P;C2=342P/C3=141P/final=350Pbounded. No fresh retainedruby/residual/all2,608P/wholeEPUB/newprincipalpass/independent claim. Cover/crop, two color compositions, promotional role montage, profiles/banners, closing contributor dedication, jacket biographies/blurb and edition text keep distinct source planes. These counts are not a global narrative denominator. Selected9premises/27writtenfragments;31principal+8party individualNTcomparisons/fourtypeddiagnostics/sevenIrisNT/sevenYunyunNT. 39explicit informed full-trigger-absent comparisons for creator/profile/promotion/retained-image planes. Four typeddiagnostics;7IrisNT/7YunyunNT preserve original fields. No separate bonus fiction; creator synopsis is useful attributed information but explicitly outside scoped eligibility. Retained actual choices do not become fresh trials. No independent validation, accuracy or confidence updates. 12appends across tenledgers/40qualifications. Supplemental19/mixed5 andMAIN01-MAIN16fullgates plusIris/Yunyuncohorts remainclosed;MAIN17analysis accepted/publicationpending. Terminalmainexcludedsource;globalcomponentpercentage null;fullsecondary/synthesis/versionedmodels/curation/integration/release continues.
+
+Finish exact candidate review/author preflight, ordinary publication, remote all-tree/all changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh published-authority reload. MAIN17 is the terminal main excluded-component program: no MAIN18 admission. Then complete full individual census/joins/incidental dispositions, earned secondary profiles/monographs/distinct models, expanded synthesis and versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits. Global completion remains unclaimed.
+
+
+## Main17 terminal gate/reload and continuing program — 2026-10-19T22:02:58.451130+00:00
+
+Prior current operation, source-group row and accounting paragraph retained verbatim:
+
+````markdown
+**Main17 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All15 new textual resources71P/ruby/residuals and25 unique native images actually received and uncoded-sealed. Five accepted principal members2,608P retain exact authority and zero new principal-pass credit. There is no separate prose bonus:37Pcreator afterword includes a modal parallel-campaign synopsis and future threads;34other notice/contents/colophon/use slots. Current retained precision1,517unique BASE-TEXTP acrossallfiveunits: completeC1=591P/Ep=93P;C2=342P/C3=141P/final=350Pbounded. No fresh retainedruby/residual/all2,608P/wholeEPUB/newprincipalpass/independent claim. Cover/crop, two color compositions, promotional role montage, profiles/banners, closing contributor dedication, jacket biographies/blurb and edition text keep distinct source planes. These counts are not a global narrative denominator. Selected9comicpremises/27writtenfragments;39explicitprincipal-partyNTcomparisons/fourtypeddiagnostics/sevenIrisNT/sevenYunyunNT preserveoriginaloutcomes. MAIN01-MAIN16excluded,supplemental19/mixed5 andIris/Yunyuncohorts areclosed. Fullsecondarycensus/earnedartifacts/expanded synthesis/versionedprincipal-party-transfer/curation/integration/release follows this fullgate/freshreload;noMAIN18admission.
+
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN16 excluded full gates closed; terminal MAIN17 analysis accepted/publication pending; full census/synthesis/models/curation/release continues |
+
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 16of17main excluded-component programs have closed full gates; MAIN17analysis is accepted with publication gate pending; other0remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+````
+
+**All seventeen main excluded-component publication gates are closed; full secondary census and expanded synthesis/model work is active.** [Main17 reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN17EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) govern terminal-source uptake. All15 new textual resources71P/ruby/residuals and25 unique native images actually received and uncoded-sealed. Five accepted principal members2,608P retain exact authority and zero new principal-pass credit. There is no separate prose bonus:37Pcreator afterword includes a modal parallel-campaign synopsis and future threads;34other notice/contents/colophon/use slots. Current retained precision1,517unique BASE-TEXTP acrossallfiveunits: completeC1=591P/Ep=93P;C2=342P/C3=141P/final=350Pbounded. No fresh retainedruby/residual/all2,608P/wholeEPUB/newprincipalpass/independent claim. Cover/crop, two color compositions, promotional role montage, profiles/banners, closing contributor dedication, jacket biographies/blurb and edition text keep distinct source planes. These counts are not a global narrative denominator. All nineteen supplemental and five mixed/reference publication gates remain closed; all seventeen main excluded-component gates are now closed. Source-program accounting is not a narrative-component denominator. All seventeen supplied-edition main excluded-component programs are closed at their declared scopes. Full individual secondary census, identity/event joins, incidental dispositions, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active. No MAIN18 admission; global narrative percentage remains null.
+
+Exact source 49dbe1b11b22a4007c33c9d3bea16c7877006bc1, tree 2d7c07ede64bed3c71339bdd53de4760972aff27; all 9132 remote paths and 35 changed file streams match the reviewed candidate. Source audit 39330616539/job 118327562131 and final audit 39331108747/job 118329213956 certify the actual source with 352 full tests, zero failures/errors/skips/expected-failures/unexpected-successes and selection disabled. Housekeeping 39331056356/job 118329042115 completed NO_OP with exact final-source dispatch. Final exact-source status and fresh 962-project-path authority reload 2026-10-19T22:02:47.211792+00:00 verified.
+
+
+## Vanir cohort03 semantic receiving — 2026-10-19T22:27:38.961104+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**All seventeen main excluded-component publication gates are closed; full secondary census and expanded synthesis/model work is active.** [Main17 reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN17EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) govern terminal-source uptake. All15 new textual resources71P/ruby/residuals and25 unique native images actually received and uncoded-sealed. Five accepted principal members2,608P retain exact authority and zero new principal-pass credit. There is no separate prose bonus:37Pcreator afterword includes a modal parallel-campaign synopsis and future threads;34other notice/contents/colophon/use slots. Current retained precision1,517unique BASE-TEXTP acrossallfiveunits: completeC1=591P/Ep=93P;C2=342P/C3=141P/final=350Pbounded. No fresh retainedruby/residual/all2,608P/wholeEPUB/newprincipalpass/independent claim. Cover/crop, two color compositions, promotional role montage, profiles/banners, closing contributor dedication, jacket biographies/blurb and edition text keep distinct source planes. These counts are not a global narrative denominator. All nineteen supplemental and five mixed/reference publication gates remain closed; all seventeen main excluded-component gates are now closed. Source-program accounting is not a narrative-component denominator. All seventeen supplied-edition main excluded-component programs are closed at their declared scopes. Full individual secondary census, identity/event joins, incidental dispositions, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active. No MAIN18 admission; global narrative percentage remains null.
+
+````
+
+**Vanir cohort03 is semantically accepted at a scoped Tier3 boundary; its exact publication gate is next.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_VANIR_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md), [evidence index](08%20Evidence%20and%20Indexes/KONOSUBA_VANIR_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_VANIR_COHORT_01_RECEIVING_AND_PROVENANCE.json) control uptake. Eight rules and12actualsame-authorresponses/sixcontrasts retain adverse behavior and uncertain rankings, with no independent/source score or confidence increase. The [coverage audit](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) now have150qualifiedworkingrows, not a final population. Iris/Yunyun earlier scoped authorities and all original frozen histories stay exact. [MAIN17 fullgate](09%20Audits%20and%20Manifests/KONOSUBA_MAIN17EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes all17mainexcluded source programs;19supplemental/5mixed gates remain closed at declared scopes. Full individual census/earned artifacts, expanded synthesis/versioned principal-party-transfer models, designated curation/integration and component/release/final-entry audits continue. Global component percentage remains null; no MAIN18.
+
+Accepted separate Vanir monograph/model/index and source-safe provenance/exactdraftlineage with8rules,12actualfirsthypotheticalresponses/6fixedcontrasts and causal review. Only the actor/narrator assent precision changes after the sealed first model; confidence states do not rise. Complete core MASK2862BASE-TEXT P/sevenmembers and boundedMAIN07327P/twomembers are reception scopes, not source rereads or independent events. Published census representation expands from51to150qualifiedrows with full historical qualifications in a structured companion;13existingrows targeted,5newsubjects,132priorrowsexact. Only Vanir is newly scopedTier3. All17mainexcluded source gates are closed; full secondary/synthesis/model/curation/release program remains active. Exact candidate/preflight/normalpublication/readback/audits/reload pending.
+
+
+## Vanir cohort03 publication gate and continued program — 2026-10-19T22:47:32.595648+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Vanir cohort03 is semantically accepted at a scoped Tier3 boundary; its exact publication gate is next.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_VANIR_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md), [evidence index](08%20Evidence%20and%20Indexes/KONOSUBA_VANIR_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_VANIR_COHORT_01_RECEIVING_AND_PROVENANCE.json) control uptake. Eight rules and12actualsame-authorresponses/sixcontrasts retain adverse behavior and uncertain rankings, with no independent/source score or confidence increase. The [coverage audit](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) now have150qualifiedworkingrows, not a final population. Iris/Yunyun earlier scoped authorities and all original frozen histories stay exact. [MAIN17 fullgate](09%20Audits%20and%20Manifests/KONOSUBA_MAIN17EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes all17mainexcluded source programs;19supplemental/5mixed gates remain closed at declared scopes. Full individual census/earned artifacts, expanded synthesis/versioned principal-party-transfer models, designated curation/integration and component/release/final-entry audits continue. Global component percentage remains null; no MAIN18.
+
+````
+
+Exact source90fb18d5302711cb265687c140ab5d5d151ebe06,tree9cb9d66e55fe3901742268086f84c19a99358cc1; all9143remote paths/29changedstreams match reviewedcandidate. Sourceaudit39336167193/job118346083116 and finalaudit39336731911/job118347983956 certify actualsource with352fulltests,zero5non-success and selectiondisabled. Housekeeping39336682866/job118347812475 completedNO_OP/exactfinaldispatch. Finalstatus and fresh973projectpathreload2026-10-19T22:46:57.519405+00:00verified. All8enteringmodels and newVanirmodel,66current/72historical,fourscores,Dust14blanks,SI/SY28originalnulls and80scratch remain exact.
+
+**Vanir cohort03 has closed its full exact-source publication gate; continued individual census and expanded synthesis/model work is active.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_VANIR_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md), [evidence index](08%20Evidence%20and%20Indexes/KONOSUBA_VANIR_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_VANIR_COHORT_01_RECEIVING_AND_PROVENANCE.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_VANIRCOHORT01_PUBLICATION_GATE_CLOSE.json) govern uptake. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retain150qualifiedworkingrows, not a final population. Only Iris/Yunyun/Vanir have scopedTier3 artifacts so far. EightVanirrules/12same-authoroutputs/sixcontrasts carry no independent/source score or confidence gain. Full individual census/identity-event joins/incidental dispositions and earned artifacts, expanded specialist synthesis/versioned principal-party-transfer revisions, designated curator enrollment/integration and component/release/final-entry audits remain active. All17mainexcluded/19supplemental/5mixed source gates retain their declared scopes; no MAIN18 or global completion claim.
+
+
+## Wiz cohort04 semantic receiving — 2026-10-19T23:10:02.760949+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Vanir cohort03 has closed its full exact-source publication gate; continued individual census and expanded synthesis/model work is active.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_VANIR_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md), [evidence index](08%20Evidence%20and%20Indexes/KONOSUBA_VANIR_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_VANIR_COHORT_01_RECEIVING_AND_PROVENANCE.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_VANIRCOHORT01_PUBLICATION_GATE_CLOSE.json) govern uptake. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retain150qualifiedworkingrows, not a final population. Only Iris/Yunyun/Vanir have scopedTier3 artifacts so far. EightVanirrules/12same-authoroutputs/sixcontrasts carry no independent/source score or confidence gain. Full individual census/identity-event joins/incidental dispositions and earned artifacts, expanded specialist synthesis/versioned principal-party-transfer revisions, designated curator enrollment/integration and component/release/final-entry audits remain active. All17mainexcluded/19supplemental/5mixed source gates retain their declared scopes; no MAIN18 or global completion claim.
+
+````
+
+**Wiz cohort04 is semantically accepted at a scoped Tier3 boundary; its exact publication gate is next.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_WIZ_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_WIZ_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_WIZ_COHORT_01_RECEIVING_AND_PROVENANCE.json) govern uptake. Seven rules and eight actual same-author first responses/four contrasts retain adverse and underidentified branches, with no source/independent score or confidence gain. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retain150qualified rows, not a final population. Earlier Iris/Yunyun/Vanir models and gates stay exact; the [Vanir gate](09%20Audits%20and%20Manifests/KONOSUBA_VANIRCOHORT01_PUBLICATION_GATE_CLOSE.json) is closed at90fb18d5. All17mainexcluded/19supplemental/5mixed source programs retain closed declared scopes. Full individual census/earned artifacts, expanded synthesis/versioned principal-party-transfer models, designated curator enrollment/integration and component/release/final-entry audits remain active. Global percentage stays null; no MAIN18.
+
+Nine new source-safe Wiz artifacts and one maintained census payload receive targeted integration. Monograph02/model03 retain exact earlier drafts, seven rules, eight first hypothetical responses/four fixed contrasts and causal review. The cast-effect ambiguity stays visible; explicit early-main derivative capacity adds no new native pass or confidence. Shared MASK2,862slots plus current MAIN04439slots describe eight member scopes. The census remains150qualified rows with nine updates/141prior rows exact and six separate incidental/identity leads. Vanir gate/reload closed; Wiz exact publication pending. All original frozen authorities remain exact and the full program continues.
+
+
+## Wiz cohort04 publication gate and continued program — 2026-10-19T23:39:05.904908+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Wiz cohort04 is semantically accepted at a scoped Tier3 boundary; its exact publication gate is next.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_WIZ_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_WIZ_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_WIZ_COHORT_01_RECEIVING_AND_PROVENANCE.json) govern uptake. Seven rules and eight actual same-author first responses/four contrasts retain adverse and underidentified branches, with no source/independent score or confidence gain. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retain150qualified rows, not a final population. Earlier Iris/Yunyun/Vanir models and gates stay exact; the [Vanir gate](09%20Audits%20and%20Manifests/KONOSUBA_VANIRCOHORT01_PUBLICATION_GATE_CLOSE.json) is closed at90fb18d5. All17mainexcluded/19supplemental/5mixed source programs retain closed declared scopes. Full individual census/earned artifacts, expanded synthesis/versioned principal-party-transfer models, designated curator enrollment/integration and component/release/final-entry audits remain active. Global percentage stays null; no MAIN18.
+
+````
+
+Exact source ca5c7a4f427ab7e9ff8284fc1b37286f0951517c, tree 6a672cdaf2b6c03635764d7c097ee43204796447; all 9,159 remote paths and 27 changed streams match the reviewed candidate. Source audit 39341259408/job 118363096786 and final audit 39341928248/job 118365310601 certify the actual source with 385 full tests, zero failures/errors/skips/expected failures/unexpected successes, and selection disabled. Housekeeping 39341884384/job 118365161555 completed NO_OP and dispatched the exact final source. Final status and fresh 983-project-path reload at 2026-10-19T23:38:32.705357+00:00 are verified. All nine entering models and the new Wiz model, 66 current/72 historical authorities, four scores, Dust fourteen original blanks, SI/SY twenty-eight original nulls and eighty unrelated scratch files remain exact.
+
+**Wiz cohort04 has closed its full exact-source publication gate; the individual census and expanded synthesis/model program continue.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_WIZ_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_WIZ_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_WIZ_COHORT_01_RECEIVING_AND_PROVENANCE.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_WIZCOHORT01_PUBLICATION_GATE_CLOSE.json) govern uptake. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retain 150 qualified working rows, not a final population. Iris, Yunyun, Vanir and Wiz have scoped Tier3 artifacts with provisional predictive reliability. Seven Wiz rules and eight same-author first hypothetical outputs/four contrasts retain H04B effect ambiguity and carry no source/independent score or confidence gain. The full individual census, identity/event joins, incidental dispositions and remaining earned artifacts continue. Expanded specialist synthesis and versioned principal/party/transfer revisions, designated curator enrollment, integration and component/release/final-entry audits remain active. All seventeen main excluded-component, nineteen supplemental and five mixed/reference programs retain closed declared source gates; no new main volume or global completion is claimed.
+
+
+## Chris/Eris cohort05 semantic receiving — 2026-10-20T00:03:03.648922+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Wiz cohort04 has closed its full exact-source publication gate; the individual census and expanded synthesis/model program continue.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_WIZ_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_WIZ_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_WIZ_COHORT_01_RECEIVING_AND_PROVENANCE.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_WIZCOHORT01_PUBLICATION_GATE_CLOSE.json) govern uptake. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retain 150 qualified working rows, not a final population. Iris, Yunyun, Vanir and Wiz have scoped Tier3 artifacts with provisional predictive reliability. Seven Wiz rules and eight same-author first hypothetical outputs/four contrasts retain H04B effect ambiguity and carry no source/independent score or confidence gain. The full individual census, identity/event joins, incidental dispositions and remaining earned artifacts continue. Expanded specialist synthesis and versioned principal/party/transfer revisions, designated curator enrollment, integration and component/release/final-entry audits remain active. All seventeen main excluded-component, nineteen supplemental and five mixed/reference programs retain closed declared source gates; no new main volume or global completion is claimed.
+
+````
+
+**Chris/Eris cohort05 is semantically received at a scoped Tier3 boundary; its exact publication gate is next.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_CHRIS_ERIS_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_CHRIS_ERIS_COHORT_01_RECEIVING_AND_PROVENANCE.json) govern uptake. Seven informed rules and six exact same-author first hypothetical outputs/three contrasts preserve role, knowledge and resource limits and underidentified attack/enforcement outcomes; they earn no source/independent score or confidence gain. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) contain151qualified working rows, including new Heidel, not a final population. Earlier four scoped gates/models stay exact; the [Wiz gate](09%20Audits%20and%20Manifests/KONOSUBA_WIZCOHORT01_PUBLICATION_GATE_CLOSE.json) is closed atca5c7a4f. MAIN01–12 plus MAIN17 and the first four checkpoints are currently received as derivatives; MAIN13–16, later checkpoints, all ten ledger bodies and final identity/incidental dispositions remain active. Expanded specialists/versioned principal-party-transfer revisions, designated curator enrollment/integration and component/release/final-entry audits continue. All17mainexcluded/19supplemental/5mixed source programs retain closed declared scopes. Global percentage stays null; no new main volume.
+
+Nine new source-safe Chris/Eris artifacts and a maintained census payload receive targeted uptake. Monograph01/model02 preserve exact prose/input/output lineage, seven informed rules, six first hypothetical responses/three contrasts and causal review. H02B actual attack/procedural breach and H03 later enforcement remain unverified. Native1,063member-scope slots combine734current and329inherited slots without another whole-source/independent pass. Census151qualified rows receives25targeted updates/oneHeidel/125priorrowsexact. MAIN12Zereschilt and MAIN11Bifrantz stay distinct. Wiz seven-path full-gate carry is preserved; Chris/Eris exact publication remains pending. All frozen authorities remain exact and the full program continues.
+
+
+## Chris/Eris cohort05 publication gate and continued program — 2026-10-20T00:19:13.357890+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Chris/Eris cohort05 is semantically received at a scoped Tier3 boundary; its exact publication gate is next.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_CHRIS_ERIS_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_CHRIS_ERIS_COHORT_01_RECEIVING_AND_PROVENANCE.json) govern uptake. Seven informed rules and six exact same-author first hypothetical outputs/three contrasts preserve role, knowledge and resource limits and underidentified attack/enforcement outcomes; they earn no source/independent score or confidence gain. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) contain151qualified working rows, including new Heidel, not a final population. Earlier four scoped gates/models stay exact; the [Wiz gate](09%20Audits%20and%20Manifests/KONOSUBA_WIZCOHORT01_PUBLICATION_GATE_CLOSE.json) is closed atca5c7a4f. MAIN01–12 plus MAIN17 and the first four checkpoints are currently received as derivatives; MAIN13–16, later checkpoints, all ten ledger bodies and final identity/incidental dispositions remain active. Expanded specialists/versioned principal-party-transfer revisions, designated curator enrollment/integration and component/release/final-entry audits continue. All17mainexcluded/19supplemental/5mixed source programs retain closed declared scopes. Global percentage stays null; no new main volume.
+
+````
+
+Exact source 5a4bc7d7386452c9afc5aa5e12bc8e9af44d8c23, tree 084095a488065b076dce95d49a96351e9576f388; all 9,169 remote paths and 27 changed streams match the reviewed candidate. Source audit 39345838991/job 118378084253 and final audit 39346255702/job 118379465666 certify the actual source with 385 full tests, zero failures/errors/skips/expected failures/unexpected successes, and selection disabled. Housekeeping 39346208025/job 118379309104 completed NO_OP and dispatched the exact final source. Final status and fresh 993-project-path reload at 2026-10-20T00:19:12.627707+00:00 are verified. All ten entering models and the new Chris/Eris model, 66 current/72 historical authorities, four scores, Dust fourteen original blanks, SI/SY twenty-eight original nulls and eighty unrelated scratch files remain exact.
+
+**Chris/Eris cohort05 has closed its full exact-source publication gate; the individual census and expanded synthesis/model program continue.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_CHRIS_ERIS_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_CHRIS_ERIS_COHORT_01_RECEIVING_AND_PROVENANCE.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_CECOHORT01_PUBLICATION_GATE_CLOSE.json) govern uptake. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) contain151qualified working rows, not a final population. Iris, Yunyun, Vanir, Wiz and Chris/Eris have scoped Tier3 artifacts with provisional predictive reliability. Seven Chris/Eris rules and six same-author first hypothetical outputs/three contrasts preserve underidentified attack and later boundary enforcement; no source/independent score or confidence gain follows. The full individual census, identity/event joins, incidental dispositions and remaining earned artifacts continue. Expanded specialist synthesis and versioned principal/party/transfer revisions, designated curator enrollment, integration and component/release/final-entry audits remain active. All seventeen main excluded-component, nineteen supplemental and five mixed/reference programs retain closed declared source gates; no new main volume or global completion is claimed.
+
+
+## Dust cohort06 semantic receiving — 2026-10-20T01:41:46.866225+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Chris/Eris cohort05 has closed its full exact-source publication gate; the individual census and expanded synthesis/model program continue.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_CHRIS_ERIS_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_CHRIS_ERIS_COHORT_01_RECEIVING_AND_PROVENANCE.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_CECOHORT01_PUBLICATION_GATE_CLOSE.json) govern uptake. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) contain151qualified working rows, not a final population. Iris, Yunyun, Vanir, Wiz and Chris/Eris have scoped Tier3 artifacts with provisional predictive reliability. Seven Chris/Eris rules and six same-author first hypothetical outputs/three contrasts preserve underidentified attack and later boundary enforcement; no source/independent score or confidence gain follows. The full individual census, identity/event joins, incidental dispositions and remaining earned artifacts continue. Expanded specialist synthesis and versioned principal/party/transfer revisions, designated curator enrollment, integration and component/release/final-entry audits remain active. All seventeen main excluded-component, nineteen supplemental and five mixed/reference programs retain closed declared source gates; no new main volume or global completion is claimed.
+
+````
+
+Prior Section6 remaining-work paragraph retained verbatim:
+
+````markdown
+The authorized remaining work is sequential whole-edition supplemental reading, the17 main excluded-component programs, expanded synthesis and source-plane reconciliation, revised principal/party/transfer models and qualified secondary work, synchronized evidence/locators/indexes, and final source/authority/release audit. A completed book or recovery milestone does not end this program. Each next source retains separate admission and receiving gates; a warm ending or paid task does not imply complete causal repair, full consent or model success.
+````
+
+**Dust cohort06 is semantically received at a scoped Tier3 boundary; its exact publication gate is next.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_DUST_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_DUST_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_DUST_COHORT_01_RECEIVING_AND_PROVENANCE.json) govern uptake. Six informed rules and six exact same-author first responses/three contrasts preserve skill, privacy, mixed motives, real care and direct contrary choices; no independent score or confidence gain follows, and the third pair does not discriminate behavior. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) contain157qualified working rows, not a final population. Earlier Iris/Yunyun/Vanir/Wiz/Chris-Eris scoped gates and eleven entering model bodies remain exact; the [Chris/Eris gate](09%20Audits%20and%20Manifests/KONOSUBA_CECOHORT01_PUBLICATION_GATE_CLOSE.json) is closed at5a4bc7d7. Complete MAIN01–17 reports, all six checkpoints and the earlier92 documentary appendix are currently received at their declared derivative scopes. Dust targeted receiving spans all ten ledger responsibilities; broader ledger/identity/event/census and proportional artifacts remain active. Expanded specialists/versioned principal-party-transfer models, designated curation/integration and component/release/final-entry audits continue. All17mainexcluded/19supplemental/5mixed source programs retain closed declared scopes. The separate [MAIN15 PV29 actor erratum](09%20Audits%20and%20Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json) preserves historical cells and outcomes. Global percentage stays null; no new main volume is admitted.
+
+Eleven new source-safe artifacts and a targeted157row census candidate receive uptake. Twenty-nine prior rows updated/six narrow MAIN16 subjects added/122prior rows exact; only Dust newly scopedTier3. Exact analytical draft lineage preserves the first locator errors and versioned fixes, then named-subject repairs. Six known-source first responses/three contrasts retain underidentification and failed third-pair discrimination. DUST07 current-specific native lineage1218slots is not a new whole source or independent-event count. MAIN15 PV29 Aqua-accuser erratum is external; original report/cell/code/window and all outcomes stay exact. Chris/Eris seven-path gate carry remains; Dust exact publication pending. Imported current main governance and unrelated Mio curation are preserved through ordinary merge without taking over their authorship or activating integration apply.
+
+
+## Dust cohort06 exact publication gate and continuation — 2026-10-20T02:11:57.390771+00:00
+
+Prior current operation preserved:
+
+````markdown
+**Dust cohort06 is semantically received at a scoped Tier3 boundary; its exact publication gate is next.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_DUST_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_DUST_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_DUST_COHORT_01_RECEIVING_AND_PROVENANCE.json) govern uptake. Six informed rules and six exact same-author first responses/three contrasts preserve skill, privacy, mixed motives, real care and direct contrary choices; no independent score or confidence gain follows, and the third pair does not discriminate behavior. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) contain157qualified working rows, not a final population. Earlier Iris/Yunyun/Vanir/Wiz/Chris-Eris scoped gates and eleven entering model bodies remain exact; the [Chris/Eris gate](09%20Audits%20and%20Manifests/KONOSUBA_CECOHORT01_PUBLICATION_GATE_CLOSE.json) is closed at5a4bc7d7. Complete MAIN01–17 reports, all six checkpoints and the earlier92 documentary appendix are currently received at their declared derivative scopes. Dust targeted receiving spans all ten ledger responsibilities; broader ledger/identity/event/census and proportional artifacts remain active. Expanded specialists/versioned principal-party-transfer models, designated curation/integration and component/release/final-entry audits continue. All17mainexcluded/19supplemental/5mixed source programs retain closed declared scopes. The separate [MAIN15 PV29 actor erratum](09%20Audits%20and%20Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json) preserves historical cells and outcomes. Global percentage stays null; no new main volume is admitted.
+
+````
+
+**Dust cohort06 has closed its full exact-source publication gate; the individual census and expanded synthesis/model program continue.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_DUST_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_DUST_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_DUST_COHORT_01_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_DUSTCOHORT01_PUBLICATION_GATE_CLOSE.json) govern uptake. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) contain157qualified working rows, not a final population. Iris, Yunyun, Vanir, Wiz, Chris/Eris and Dust have scoped Tier3 artifacts with provisional predictive reliability. Dust's six rules/six exact same-author first responses/three contrasts retain mixed motives, actual adverse conduct, uncertain choice weights and no third-pair behavioral discrimination; no independent score or confidence gain follows. Complete MAIN01–17 reports, all six checkpoints and the earlier92 documentary appendix are currently received at declared derivative scopes. Dust targeted inspection spans all ten ledger responsibilities; broader ledger/identity/event/individual dispositions and remaining proportional artifacts continue. Komekko's independent evidence and justified scope receive next attention. Expanded specialists/versioned principal-party-transfer models, designated curation/integration and component/release/final-entry audits remain active. All17 main excluded-component,19supplemental and5mixed/reference source gates remain closed at their declared scopes. The external [MAIN15 PV29 actor erratum](09%20Audits%20and%20Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json) preserves original cells/outcomes. No new main volume or global completion is claimed.
+
+Publishedsource59a60ed821e8bf295a37e0770b52023f60f7ae9c/tree6694640879ec16afb1f3868cb4b26ffe9895eb2c;9181remote paths/39changedstreams exact. Source39356025994/HK39356388057NO_OP/final39356428059;385fulltestseach,zero5non-success,selectionfalse; exact final status and fresh1005project/authority reload verified. Six scoped secondary gates and12current models remain provisional and source-informed. No original score/question/null or protected-main/executor state changed. Seven local progress paths are carried forward; remaining full census, earned artifacts, expanded specialists/versioned six models, designated curation/integration and release continue.
+
+
+## Komekko cohort07 scoped semantic candidate — 2026-10-20T03:13:02.170207+00:00
+
+Komekko earns a provisional six-rule model/monograph/index at the recorded actual18image/1602BASE/79selected-ledger boundary. Two census rows change;155others and twelve entering model bodies remain exact. Hoost's native name is confirmed without tier promotion. Four source-known same-author contrasts/eight first bodies retain one spatial packet error and no H04 behavioral discrimination; no independent score/voice/confidence claim. Ten ledger responsibilities, source locators, expanded evidence matrix and mutable claim revisions receive attributable append-only uptake. Dust's verified gate/progress is carried. Publication/full gate/curation/integration and the broader program remain active.
+
+### Verbatim previous current-state map; SHA256 cabc0bd82c5697ea9011e7a80421d37dccee0af9cb6ed035321cd5d52c07ecad
+
+```markdown
+---
+series: KONOSUBA
+artifact_type: corpus_map
+scope: FULL_MAIN_SERIES
+generation: V1
+status: canonical
+source_boundary: DUSTCOHORT01 full gate closed/fresh authority reload; six scoped secondary gates and all declared source programs closed; fullcensus/earnedartifacts/expanded specialists/versionedmodels/curation/integration/release active; percentage null
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md
+  method_status: canonical
+  source_reconnaissance_complete: true
+  required_ledgers_initialized: true
+  sequential_analysis_lock: open
+  next_permitted_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume
+  authorized_start: V11
+  terminal_boundary: V17
+  committed_high_water_mark: V17
+  next_candidate_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+  confirmation_between_units: false
+  run_state: active
+---
+
+# KONOSUBA - Current State and Corpus Map
+
+## 1. Purpose
+
+This is the canonical first-read document for the KONOSUBA analytical project. It identifies the current source boundary, governing methods, project phase, authority rules, intended analytical architecture, and the retrieval path an analyst should follow before reading or modeling the series.
+
+The project is designed around one primary objective:
+
+> Build evidence-grounded, prospectively tested models of KONOSUBA's major characters that can reproduce plausible behavior, decision-making, interpersonal dynamics, ordinary-life preferences, comic failure modes, seriousness overrides, and Japanese-language voice across both canonical-comic and transferred cross-context situations.
+
+The project is not primarily a plot-summary project and is not satisfied by trait lists, catchphrase imitation, or fandom shorthand such as "Aqua is stupid" or "Megumin likes Explosion." It seeks the generative mechanisms underneath those surface descriptions.
+
+## 2. Current authority state
+
+<!-- CURRENT_OPERATION_START -->
+**Dust cohort06 has closed its full exact-source publication gate; the individual census and expanded synthesis/model program continue.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_DUST_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_DUST_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_DUST_COHORT_01_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_DUSTCOHORT01_PUBLICATION_GATE_CLOSE.json) govern uptake. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) contain157qualified working rows, not a final population. Iris, Yunyun, Vanir, Wiz, Chris/Eris and Dust have scoped Tier3 artifacts with provisional predictive reliability. Dust's six rules/six exact same-author first responses/three contrasts retain mixed motives, actual adverse conduct, uncertain choice weights and no third-pair behavioral discrimination; no independent score or confidence gain follows. Complete MAIN01–17 reports, all six checkpoints and the earlier92 documentary appendix are currently received at declared derivative scopes. Dust targeted inspection spans all ten ledger responsibilities; broader ledger/identity/event/individual dispositions and remaining proportional artifacts continue. Komekko's independent evidence and justified scope receive next attention. Expanded specialists/versioned principal-party-transfer models, designated curation/integration and component/release/final-entry audits remain active. All17 main excluded-component,19supplemental and5mixed/reference source gates remain closed at their declared scopes. The external [MAIN15 PV29 actor erratum](09%20Audits%20and%20Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json) preserves original cells/outcomes. No new main volume or global completion is claimed.
+<!-- CURRENT_OPERATION_END -->
+
+The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.
+
+The [Dust04 additive N01 precision](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) controls the bodily-danger narrowing in that earlier local assessment/report. The original question requires coercive danger without a bodily-injury threshold. Its unilateral leisure wager retains direct contrary weight; later agreement/outcome or protective acts do not erase the earlier choice. Original Dust04 report/assessment/uncoded records remain preserved.
+
+The [Dust05 reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [29 current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) and [seven local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json) distinguish new identity/contract disclosures, actual care/costs, coercive delay, partial new trigger comparability, real term checks and owned vetoes, forest remainder, payments and unshown permission. The seven Dust01 questions keep their14 original future/adjudication fields blank; later assessments are separate attributed records.
+
+All dated prior map material is retained verbatim in the [project changelog](KONOSUBA_PROJECT_CHANGELOG.md). It is historical provenance and cannot override this entrypoint's current operation. In particular, old paused, pending, withheld or unexposed statements describe their own earlier boundaries.
+
+## 3. Governing methods and evidence routes
+
+1. [Synthesis architecture and roadmap](00%20Frameworks%20and%20Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md)
+2. [Volume deep-reading method](00%20Frameworks%20and%20Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md)
+3. [Character reconstruction and validation](00%20Frameworks%20and%20Methods/KONOSUBA_CHARACTER_RECONSTRUCTION_AND_VALIDATION_PROTOCOL.md)
+4. [Japanese humor and voice](00%20Frameworks%20and%20Methods/KONOSUBA_JAPANESE_HUMOR_AND_VOICE_PROTOCOL.md)
+5. [Source lock](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_LOCK.md)
+6. [Source inventory](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_INVENTORY.md)
+
+These remain canonical until explicitly superseded. The [source admission matrix](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.json) and [expanded component coverage](10%20Expanded%20Corpus/KONOSUBA_EXPANDED_COMPONENT_COVERAGE.json) supply maintained object-specific dispositions. [Source locators](08%20Evidence%20and%20Indexes/KONOSUBA_SOURCE_LOCATOR_INDEX.md), [claim revisions](08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md), the ten longitudinal ledgers and the governing report/receiving records control claim-level uptake. This entrypoint does not duplicate their evidence catalogs.
+
+## 4. Fixed source corpus and current execution route
+
+This execution uses the owner-designated local primary-source EPUB collection; its private filesystem location is recorded in the local recovery receipts. All41 local EPUB identities have been reconciled against the preserved corpus. The Drive inventory and historical folder IDs remain provenance; this run reads the local copies. Native EPUBs, complete native story text and artwork remain private.
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; all17 supplied-edition excluded-component full gates closed; full secondary/census/synthesis/models/curation/release active |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+Nineteen of19 supplemental supplied editions, all five mixed/reference programs and all17 main excluded-component programs have closed their full publication gates at the declared supplied-edition scopes. Original accepted principal histories retain exact authority and zero new principal-pass credit. This source-program accounting is not a narrative-component percentage: the global component denominator remains unresolved and percentage is null. Original metadata audits retain their historical scopes. Full individual secondary census and joins, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active.
+
+Before another source is admitted, its predecessor's exact publication/readback, source audit, housekeeping, final actual-source audit/status and fresh published-authority reload must be satisfied under the governing workflow. Admission then verifies exact local identity/CRC/OPF/structure, records current informed exposure/questions and seals zero-new-body preparation. Full actual text/ruby/residual/image reading and an uncoded seal precede formal outcomes. Extraction, prior principal validation, captions and marketing do not substitute for that work.
+
+## 5. Frozen derivation, validation and revision boundaries
+
+The main-series derivation and MAIN_ONLY_R1 suite remain retrievable through the [reconstruction audit](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md) and [main-only freeze receipt](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json). Their four principal models, party interaction and transfer models preserve original evidence and diagnostic qualifications. The39 commitments and original response/assessment histories are not a general accuracy statistic.
+
+The four unchanged-baseline source-local results are [YORI01](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_ACCEPTED_ADJUDICATIONS.json), [MASK](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_ACCEPTED_ADJUDICATIONS.json), [DUST06](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_ACCEPTED_ADJUDICATIONS.json) and [DUST07](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ACCEPTED_ADJUDICATIONS.json). Local failures, partial/ambiguous/not-tested states, reviewer limits and known exposure remain visible. Later whole-edition reading is informed and cannot be called a pristine holdout.
+
+All66 current immutable files,72 historical pins at their frozen revision and the four score files retain their governed byte identities. Earlier main generations/predictions/outcomes are never silently rewritten. Expanded evidence and current claim corrections are separately attributable. StageD must produce revised versions with traceable changes while preserving MAIN_ONLY_R1 and its accepted validation evidence. Secondary characters receive evidence-proportional roles/profiles/voice notes unless varied evidence supports full reconstruction.
+
+Historical early checkpoints cited some illustrations and a V03 afterword, without establishing a complete component inventory or known independent viewing scope. That legacy exposure remains declared; present component work neither claims universal historical nonexposure nor marks those components complete without actual inspection. Reader/narrator/alternate-view knowledge, same-lineage context and absence of acoustic/native-human validation remain explicit.
+
+## 6. Mandatory subjects and outstanding program
+
+The four mandatory principal subjects remain Satou Kazuma, Aqua, Megumin and Darkness, with party interaction and cross-context transfer as separate model responsibilities. Current main-only specialists remain in `05 Specialist Synthesis`; current main-only models/evidence remain in `06 Character Modeling and Reconstruction`. No new empty architecture layers or parallel project roots are required.
+
+All declared supplemental, mixed/reference and main excluded-component source programs have closed their stated publication gates. Remaining work is the full individual secondary census and event joins, earned monographs/models/bounded profiles, expanded specialist synthesis, separately versioned principal/party/transfer revisions, synchronized evidence/locators/indexes, designated curation/integration and final source/component/authority/release audits. Any later source operation still requires its applicable admission and receiving gates; none is opened by this paragraph. A character cohort or recovery milestone does not end the program, and a warm ending or paid task does not imply complete causal repair, full consent or model success.
+
+## 7. Core analytical commitments
+
+The project treats comedy as evidence, but as evidence whose literalness must be adjudicated.
+
+The analyst must distinguish:
+
+- stable disposition from one-off gag;
+- trait from temporary state;
+- ignorance from bad reasoning;
+- ability from judgment;
+- judgment from self-regulation;
+- deliberate impracticality from inability;
+- comic amplification from realistic baseline behavior;
+- Kazuma's narration from independently observable character evidence;
+- literal semantic meaning from pragmatic Japanese-language effect;
+- affection from politeness or idealization;
+- ritualized conflict from genuinely relationship-threatening conflict;
+- canonical farce from behavior expected to transfer into a more realistic crossover context.
+
+The project aims to explain **why a character selects an apparently foolish action**, not merely to label the action foolish.
+
+## 8. Prospective model-validation rule
+
+The prediction/validation responsibility spans the [original ledger](03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md) and [Continuation01](03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md). Existing forecasts, local outcomes, adverse evidence and original blank fields remain in their exact historical parts; further expanded-source entries append to the continuation.
+
+Character-model development is intentionally prospective.
+
+At each checkpoint, the project must freeze the current model and record falsifiable behavioral predictions **before** reading the next tranche. Later evidence then receives one of the established revision states:
+
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
+
+Prediction failures are analytical evidence. They must not be erased by silently rewriting the earlier model after the fact.
+
+## 11. Retrieval precedence
+
+For later work, retrieve in this order:
+
+1. this `CURRENT_STATE_AND_CORPUS_MAP.md`;
+2. governing framework/method document for the task;
+3. latest checkpoint and prospective prediction state;
+4. relevant longitudinal ledger;
+5. relevant volume deep reading;
+6. specialist synthesis or reconstruction model once those exist;
+7. Japanese primary source for final verification.
+
+A later synthesis never licenses invented evidence. Exact wording, linguistic claims, and scene-level assertions should escalate to the Japanese source.
+
+## 12. Current next actions
+
+Continue the structured current operation above. Each next source requires separate admission with informed exposure declared. Preserve original questions, the preceding working inquiries and adverse history before any new body is read. Only after complete actual reading/seal may formal coding, seventeen-responsibility analysis, ten-ledger uptake and exact publication follow.
+
+Further source units then proceed in the governed natural order and scopes in the matrix/architecture. Keep accepted past readings and frozen baseline evidence intact, and use attributed revisions for analytical corrections. Git/audit receipts own publication identities; this map owns present state and governing routes.
+```
+
+
+## Komekko cohort07 full publication gate and continuation — 2026-10-20T03:36:49.927418+00:00
+
+Source 673227da7aebc30b698cdef2ac065f643a862f57, tree ef13558debc5c07beb78ccda6316134a2c643518; 9,192 remote paths/thirty changed streams exact. Source 39363879873, HK 39364335339 NO_OP, final 39364372057; both 385 full tests/zero five non-success classes/selection disabled, exact source status and fresh 1,016-project-path/authority reload verified. Seven scoped secondary gates/thirteen current model bodies remain evidence-proportionate and provisionally reliable. No original forecast, outcome, score, null, protected merge or executor state changed. Full census/earned artifacts/expanded specialists/versioned six models/curation/integration/release continue.
+
+### Verbatim previous current-state map; SHA256 035ca33393ab69edc0ee0d8f8c0416355d26e63df07995aa2674941d04725050
+
+````markdown
+---
+series: KONOSUBA
+artifact_type: corpus_map
+scope: FULL_MAIN_SERIES
+generation: V1
+status: canonical
+source_boundary: KOMEKKOCOHORT01 scoped semantic receiving complete/publication pending; six earlier scoped gates and declared source programs closed; full individual/synthesis/versioned-model/curation/integration/release active; percentage null
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md
+  method_status: canonical
+  source_reconnaissance_complete: true
+  required_ledgers_initialized: true
+  sequential_analysis_lock: open
+  next_permitted_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume
+  authorized_start: V11
+  terminal_boundary: V17
+  committed_high_water_mark: V17
+  next_candidate_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+  confirmation_between_units: false
+  run_state: active
+---
+
+# KONOSUBA - Current State and Corpus Map
+
+## 1. Purpose
+
+This is the canonical first-read document for the KONOSUBA analytical project. It identifies the current source boundary, governing methods, project phase, authority rules, intended analytical architecture, and the retrieval path an analyst should follow before reading or modeling the series.
+
+The project is designed around one primary objective:
+
+> Build evidence-grounded, prospectively tested models of KONOSUBA's major characters that can reproduce plausible behavior, decision-making, interpersonal dynamics, ordinary-life preferences, comic failure modes, seriousness overrides, and Japanese-language voice across both canonical-comic and transferred cross-context situations.
+
+The project is not primarily a plot-summary project and is not satisfied by trait lists, catchphrase imitation, or fandom shorthand such as "Aqua is stupid" or "Megumin likes Explosion." It seeks the generative mechanisms underneath those surface descriptions.
+
+## 2. Current authority state
+
+<!-- CURRENT_OPERATION_START -->
+**Komekko cohort07 has completed scoped semantic receiving; its exact publication gate is pending.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_KOMEKKO_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_KOMEKKO_COHORT_01_RECEIVING_AND_PROVENANCE.json) own uptake. Five EXP01 first-person groups/eighteen actual pages and1,602known-source BASE member slots support play/state, selective giving/guarding, concrete bargaining, attachment, mistakes/knowledge and learned voice. Seventy-nine selected ledger entries span ten responsibilities without closing whole bodies. Four same-author pairs/eight first answer bodies retain one location error, strong generic/bundled-input rivals and identical hidden-knowledge answers; no independent score, voice adequacy or confidence gain follows. The new model joins twelve entering model bodies preserved exact.
+
+The [coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retain157qualified working rows, no final population or percentage. Only Komekko and native ホースト alias resolution change;155other rows and six prior scopedTier3 states remain exact. Iris, Yunyun, Vanir, Wiz, Chris/Eris and [Dust](09%20Audits%20and%20Manifests/KONOSUBA_DUSTCOHORT01_PUBLICATION_GATE_CLOSE.json) have closed their full scoped publication gates. Komekko's new provisional scope remains distinct from publication and mature readiness. Complete MAIN01–17 reports, all six checkpoints and earlier92 documentary appendix retain declared derivative receiving; bounded native checks and original source traversal remain separate. All17main excluded/19supplemental/5mixed-reference source gates retain their stated closed scopes. The external [MAIN15 PV29 actor erratum](09%20Audits%20and%20Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json), all frozen forecasts/outcomes and scores remain exact.
+
+Continue the full individual/event/alias census, further evidence-proportional monographs/models/profiles, expanded specialists and separately versioned principal-party-transfer models, designated curation/evaluation/integration and component/release/final-entry audits. No new main volume, protected-merge executor activation or global completion is claimed.
+<!-- CURRENT_OPERATION_END -->
+
+The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.
+
+The [Dust04 additive N01 precision](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) controls the bodily-danger narrowing in that earlier local assessment/report. The original question requires coercive danger without a bodily-injury threshold. Its unilateral leisure wager retains direct contrary weight; later agreement/outcome or protective acts do not erase the earlier choice. Original Dust04 report/assessment/uncoded records remain preserved.
+
+The [Dust05 reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [29 current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) and [seven local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json) distinguish new identity/contract disclosures, actual care/costs, coercive delay, partial new trigger comparability, real term checks and owned vetoes, forest remainder, payments and unshown permission. The seven Dust01 questions keep their14 original future/adjudication fields blank; later assessments are separate attributed records.
+
+All dated prior map material is retained verbatim in the [project changelog](KONOSUBA_PROJECT_CHANGELOG.md). It is historical provenance and cannot override this entrypoint's current operation. In particular, old paused, pending, withheld or unexposed statements describe their own earlier boundaries.
+
+## 3. Governing methods and evidence routes
+
+1. [Synthesis architecture and roadmap](00%20Frameworks%20and%20Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md)
+2. [Volume deep-reading method](00%20Frameworks%20and%20Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md)
+3. [Character reconstruction and validation](00%20Frameworks%20and%20Methods/KONOSUBA_CHARACTER_RECONSTRUCTION_AND_VALIDATION_PROTOCOL.md)
+4. [Japanese humor and voice](00%20Frameworks%20and%20Methods/KONOSUBA_JAPANESE_HUMOR_AND_VOICE_PROTOCOL.md)
+5. [Source lock](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_LOCK.md)
+6. [Source inventory](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_INVENTORY.md)
+
+These remain canonical until explicitly superseded. The [source admission matrix](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.json) and [expanded component coverage](10%20Expanded%20Corpus/KONOSUBA_EXPANDED_COMPONENT_COVERAGE.json) supply maintained object-specific dispositions. [Source locators](08%20Evidence%20and%20Indexes/KONOSUBA_SOURCE_LOCATOR_INDEX.md), [claim revisions](08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md), the ten longitudinal ledgers and the governing report/receiving records control claim-level uptake. This entrypoint does not duplicate their evidence catalogs.
+
+## 4. Fixed source corpus and current execution route
+
+This execution uses the owner-designated local primary-source EPUB collection; its private filesystem location is recorded in the local recovery receipts. All41 local EPUB identities have been reconciled against the preserved corpus. The Drive inventory and historical folder IDs remain provenance; this run reads the local copies. Native EPUBs, complete native story text and artwork remain private.
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; all17 supplied-edition excluded-component full gates closed; full secondary/census/synthesis/models/curation/release active |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+Nineteen of19 supplemental supplied editions, all five mixed/reference programs and all17 main excluded-component programs have closed their full publication gates at the declared supplied-edition scopes. Original accepted principal histories retain exact authority and zero new principal-pass credit. This source-program accounting is not a narrative-component percentage: the global component denominator remains unresolved and percentage is null. Original metadata audits retain their historical scopes. Full individual secondary census and joins, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active.
+
+Before another source is admitted, its predecessor's exact publication/readback, source audit, housekeeping, final actual-source audit/status and fresh published-authority reload must be satisfied under the governing workflow. Admission then verifies exact local identity/CRC/OPF/structure, records current informed exposure/questions and seals zero-new-body preparation. Full actual text/ruby/residual/image reading and an uncoded seal precede formal outcomes. Extraction, prior principal validation, captions and marketing do not substitute for that work.
+
+## 5. Frozen derivation, validation and revision boundaries
+
+The main-series derivation and MAIN_ONLY_R1 suite remain retrievable through the [reconstruction audit](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md) and [main-only freeze receipt](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json). Their four principal models, party interaction and transfer models preserve original evidence and diagnostic qualifications. The39 commitments and original response/assessment histories are not a general accuracy statistic.
+
+The four unchanged-baseline source-local results are [YORI01](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_ACCEPTED_ADJUDICATIONS.json), [MASK](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_ACCEPTED_ADJUDICATIONS.json), [DUST06](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_ACCEPTED_ADJUDICATIONS.json) and [DUST07](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ACCEPTED_ADJUDICATIONS.json). Local failures, partial/ambiguous/not-tested states, reviewer limits and known exposure remain visible. Later whole-edition reading is informed and cannot be called a pristine holdout.
+
+All66 current immutable files,72 historical pins at their frozen revision and the four score files retain their governed byte identities. Earlier main generations/predictions/outcomes are never silently rewritten. Expanded evidence and current claim corrections are separately attributable. StageD must produce revised versions with traceable changes while preserving MAIN_ONLY_R1 and its accepted validation evidence. Secondary characters receive evidence-proportional roles/profiles/voice notes unless varied evidence supports full reconstruction.
+
+Historical early checkpoints cited some illustrations and a V03 afterword, without establishing a complete component inventory or known independent viewing scope. That legacy exposure remains declared; present component work neither claims universal historical nonexposure nor marks those components complete without actual inspection. Reader/narrator/alternate-view knowledge, same-lineage context and absence of acoustic/native-human validation remain explicit.
+
+## 6. Mandatory subjects and outstanding program
+
+The four mandatory principal subjects remain Satou Kazuma, Aqua, Megumin and Darkness, with party interaction and cross-context transfer as separate model responsibilities. Current main-only specialists remain in `05 Specialist Synthesis`; current main-only models/evidence remain in `06 Character Modeling and Reconstruction`. No new empty architecture layers or parallel project roots are required.
+
+All declared supplemental, mixed/reference and main excluded-component source programs have closed their stated publication gates. Remaining work is the full individual secondary census and event joins, earned monographs/models/bounded profiles, expanded specialist synthesis, separately versioned principal/party/transfer revisions, synchronized evidence/locators/indexes, designated curation/integration and final source/component/authority/release audits. Any later source operation still requires its applicable admission and receiving gates; none is opened by this paragraph. A character cohort or recovery milestone does not end the program, and a warm ending or paid task does not imply complete causal repair, full consent or model success.
+
+## 7. Core analytical commitments
+
+The project treats comedy as evidence, but as evidence whose literalness must be adjudicated.
+
+The analyst must distinguish:
+
+- stable disposition from one-off gag;
+- trait from temporary state;
+- ignorance from bad reasoning;
+- ability from judgment;
+- judgment from self-regulation;
+- deliberate impracticality from inability;
+- comic amplification from realistic baseline behavior;
+- Kazuma's narration from independently observable character evidence;
+- literal semantic meaning from pragmatic Japanese-language effect;
+- affection from politeness or idealization;
+- ritualized conflict from genuinely relationship-threatening conflict;
+- canonical farce from behavior expected to transfer into a more realistic crossover context.
+
+The project aims to explain **why a character selects an apparently foolish action**, not merely to label the action foolish.
+
+## 8. Prospective model-validation rule
+
+The prediction/validation responsibility spans the [original ledger](03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md) and [Continuation01](03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md). Existing forecasts, local outcomes, adverse evidence and original blank fields remain in their exact historical parts; further expanded-source entries append to the continuation.
+
+Character-model development is intentionally prospective.
+
+At each checkpoint, the project must freeze the current model and record falsifiable behavioral predictions **before** reading the next tranche. Later evidence then receives one of the established revision states:
+
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
+
+Prediction failures are analytical evidence. They must not be erased by silently rewriting the earlier model after the fact.
+
+## 11. Retrieval precedence
+
+For later work, retrieve in this order:
+
+1. this `CURRENT_STATE_AND_CORPUS_MAP.md`;
+2. governing framework/method document for the task;
+3. latest checkpoint and prospective prediction state;
+4. relevant longitudinal ledger;
+5. relevant volume deep reading;
+6. specialist synthesis or reconstruction model once those exist;
+7. Japanese primary source for final verification.
+
+A later synthesis never licenses invented evidence. Exact wording, linguistic claims, and scene-level assertions should escalate to the Japanese source.
+
+## 12. Current next actions
+
+Continue the structured current operation above. Each next source requires separate admission with informed exposure declared. Preserve original questions, the preceding working inquiries and adverse history before any new body is read. Only after complete actual reading/seal may formal coding, seventeen-responsibility analysis, ten-ledger uptake and exact publication follow.
+
+Further source units then proceed in the governed natural order and scopes in the matrix/architecture. Keep accepted past readings and frozen baseline evidence intact, and use attributed revisions for analytical corrections. Git/audit receipts own publication identities; this map owns present state and governing routes.
+````
+
+
+## Hoost cohort08 scoped semantic candidate — 2026-10-20T04:07:47.235077+00:00
+
+Hoost/ホースト earns a scoped provisional six-rule model/monograph/index at reused18actual EXP01 pages/1172actual EXP03BASE slots/13selected-ledger boundary. Only his census row changes;156others and thirteen entering model bodies remain exact. Three same-author pairs/six first bodies retain underidentified address, generic/near-canonical rivals, same-bargain affect variation and identical hidden-truth outputs. No new independent score, source trial or voice/confidence gain. Ten ledger responsibilities, locators, mutable expanded evidence matrix and claim revisions receive attributable append-only uptake. Previous Komekko gate/progress is carried. Hoost publication/full gate and the wider individual/specialist/versioned-six-model/curation/integration/release program remain active.
+
+### Verbatim previous current-state map; SHA256 bbe7dcfdcade5ec321a62e86a71daa66ce4dacb1cec968138e786610e8682fa2
+
+```markdown
+---
+series: KONOSUBA
+artifact_type: corpus_map
+scope: FULL_MAIN_SERIES
+generation: V1
+status: canonical
+source_boundary: KOMEKKOCOHORT01 full exact-source gate/fresh authority reload closed; seven scoped secondary gates and declared source programs closed; full individual/specialist/versioned-model/curation/integration/release active; percentage null
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md
+  method_status: canonical
+  source_reconnaissance_complete: true
+  required_ledgers_initialized: true
+  sequential_analysis_lock: open
+  next_permitted_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume
+  authorized_start: V11
+  terminal_boundary: V17
+  committed_high_water_mark: V17
+  next_candidate_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+  confirmation_between_units: false
+  run_state: active
+---
+
+# KONOSUBA - Current State and Corpus Map
+
+## 1. Purpose
+
+This is the canonical first-read document for the KONOSUBA analytical project. It identifies the current source boundary, governing methods, project phase, authority rules, intended analytical architecture, and the retrieval path an analyst should follow before reading or modeling the series.
+
+The project is designed around one primary objective:
+
+> Build evidence-grounded, prospectively tested models of KONOSUBA's major characters that can reproduce plausible behavior, decision-making, interpersonal dynamics, ordinary-life preferences, comic failure modes, seriousness overrides, and Japanese-language voice across both canonical-comic and transferred cross-context situations.
+
+The project is not primarily a plot-summary project and is not satisfied by trait lists, catchphrase imitation, or fandom shorthand such as "Aqua is stupid" or "Megumin likes Explosion." It seeks the generative mechanisms underneath those surface descriptions.
+
+## 2. Current authority state
+
+<!-- CURRENT_OPERATION_START -->
+**Komekko cohort07 has closed its full exact-source publication gate; the full individual and expanded synthesis/model program continues.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_KOMEKKO_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_KOMEKKO_COHORT_01_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_KOMEKKOCOHORT01_PUBLICATION_GATE_CLOSE.json) own uptake. Five EXP01 first-person groups/eighteen actual pages and 1,602 known-source BASE member slots support differentiated play, food, giving, bargaining, attachment, mistakes, knowledge and written voice. Seventy-nine selected ledger entries span ten responsibilities, with full bodies still open. Four same-author pairs/eight first recorded answers retain one adverse spatial packet error, strong generic/bundled-input rivals and no H04 behavioral discrimination. No independent score, native-human voice adequacy or general confidence gain follows.
+
+[Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) contain 157 qualified working rows, without a final population or percentage. Komekko and native Hoost alias resolution were the only two cohort07 row changes; the other 155 rows and six prior scoped states were preserved. Iris, Yunyun, Vanir, Wiz, Chris/Eris, Dust and Komekko now have closed scoped publication gates. Six original principal/party/transfer bodies and seven provisional secondary models total thirteen current model bodies. Full staged integrity, remote 9,192-path/thirty-stream readback, source audit, NO_OP housekeeping, final actual-source 385-test audit/status and fresh 1,016-project-path/authority reload are separately verified. All frozen forecasts, outcomes, scores and original null/blank fields remain exact.
+
+Complete MAIN01–17 reports, all six checkpoints and earlier92 documentary appendix retain their declared analytical receiving; bounded native checks and original traversals remain separate. All17 main excluded/19 supplemental/5 mixed-reference source programs retain stated closed scopes. Continue individual/event/alias dispositions, Hoost's own source-proportionate review and other earned artifacts/profiles, expanded specialists, separately versioned principal-party-transfer models, designated curation/evaluation/integration and component/release/final-entry audits. No new main volume, protected merge/executor activation or full-program completion is claimed.
+<!-- CURRENT_OPERATION_END -->
+
+The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.
+
+The [Dust04 additive N01 precision](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) controls the bodily-danger narrowing in that earlier local assessment/report. The original question requires coercive danger without a bodily-injury threshold. Its unilateral leisure wager retains direct contrary weight; later agreement/outcome or protective acts do not erase the earlier choice. Original Dust04 report/assessment/uncoded records remain preserved.
+
+The [Dust05 reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [29 current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) and [seven local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json) distinguish new identity/contract disclosures, actual care/costs, coercive delay, partial new trigger comparability, real term checks and owned vetoes, forest remainder, payments and unshown permission. The seven Dust01 questions keep their14 original future/adjudication fields blank; later assessments are separate attributed records.
+
+All dated prior map material is retained verbatim in the [project changelog](KONOSUBA_PROJECT_CHANGELOG.md). It is historical provenance and cannot override this entrypoint's current operation. In particular, old paused, pending, withheld or unexposed statements describe their own earlier boundaries.
+
+## 3. Governing methods and evidence routes
+
+1. [Synthesis architecture and roadmap](00%20Frameworks%20and%20Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md)
+2. [Volume deep-reading method](00%20Frameworks%20and%20Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md)
+3. [Character reconstruction and validation](00%20Frameworks%20and%20Methods/KONOSUBA_CHARACTER_RECONSTRUCTION_AND_VALIDATION_PROTOCOL.md)
+4. [Japanese humor and voice](00%20Frameworks%20and%20Methods/KONOSUBA_JAPANESE_HUMOR_AND_VOICE_PROTOCOL.md)
+5. [Source lock](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_LOCK.md)
+6. [Source inventory](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_INVENTORY.md)
+
+These remain canonical until explicitly superseded. The [source admission matrix](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.json) and [expanded component coverage](10%20Expanded%20Corpus/KONOSUBA_EXPANDED_COMPONENT_COVERAGE.json) supply maintained object-specific dispositions. [Source locators](08%20Evidence%20and%20Indexes/KONOSUBA_SOURCE_LOCATOR_INDEX.md), [claim revisions](08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md), the ten longitudinal ledgers and the governing report/receiving records control claim-level uptake. This entrypoint does not duplicate their evidence catalogs.
+
+## 4. Fixed source corpus and current execution route
+
+This execution uses the owner-designated local primary-source EPUB collection; its private filesystem location is recorded in the local recovery receipts. All41 local EPUB identities have been reconciled against the preserved corpus. The Drive inventory and historical folder IDs remain provenance; this run reads the local copies. Native EPUBs, complete native story text and artwork remain private.
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; all17 supplied-edition excluded-component full gates closed; full secondary/census/synthesis/models/curation/release active |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+Nineteen of19 supplemental supplied editions, all five mixed/reference programs and all17 main excluded-component programs have closed their full publication gates at the declared supplied-edition scopes. Original accepted principal histories retain exact authority and zero new principal-pass credit. This source-program accounting is not a narrative-component percentage: the global component denominator remains unresolved and percentage is null. Original metadata audits retain their historical scopes. Full individual secondary census and joins, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active.
+
+Before another source is admitted, its predecessor's exact publication/readback, source audit, housekeeping, final actual-source audit/status and fresh published-authority reload must be satisfied under the governing workflow. Admission then verifies exact local identity/CRC/OPF/structure, records current informed exposure/questions and seals zero-new-body preparation. Full actual text/ruby/residual/image reading and an uncoded seal precede formal outcomes. Extraction, prior principal validation, captions and marketing do not substitute for that work.
+
+## 5. Frozen derivation, validation and revision boundaries
+
+The main-series derivation and MAIN_ONLY_R1 suite remain retrievable through the [reconstruction audit](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md) and [main-only freeze receipt](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json). Their four principal models, party interaction and transfer models preserve original evidence and diagnostic qualifications. The39 commitments and original response/assessment histories are not a general accuracy statistic.
+
+The four unchanged-baseline source-local results are [YORI01](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_ACCEPTED_ADJUDICATIONS.json), [MASK](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_ACCEPTED_ADJUDICATIONS.json), [DUST06](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_ACCEPTED_ADJUDICATIONS.json) and [DUST07](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ACCEPTED_ADJUDICATIONS.json). Local failures, partial/ambiguous/not-tested states, reviewer limits and known exposure remain visible. Later whole-edition reading is informed and cannot be called a pristine holdout.
+
+All66 current immutable files,72 historical pins at their frozen revision and the four score files retain their governed byte identities. Earlier main generations/predictions/outcomes are never silently rewritten. Expanded evidence and current claim corrections are separately attributable. StageD must produce revised versions with traceable changes while preserving MAIN_ONLY_R1 and its accepted validation evidence. Secondary characters receive evidence-proportional roles/profiles/voice notes unless varied evidence supports full reconstruction.
+
+Historical early checkpoints cited some illustrations and a V03 afterword, without establishing a complete component inventory or known independent viewing scope. That legacy exposure remains declared; present component work neither claims universal historical nonexposure nor marks those components complete without actual inspection. Reader/narrator/alternate-view knowledge, same-lineage context and absence of acoustic/native-human validation remain explicit.
+
+## 6. Mandatory subjects and outstanding program
+
+The four mandatory principal subjects remain Satou Kazuma, Aqua, Megumin and Darkness, with party interaction and cross-context transfer as separate model responsibilities. Current main-only specialists remain in `05 Specialist Synthesis`; current main-only models/evidence remain in `06 Character Modeling and Reconstruction`. No new empty architecture layers or parallel project roots are required.
+
+All declared supplemental, mixed/reference and main excluded-component source programs have closed their stated publication gates. Remaining work is the full individual secondary census and event joins, earned monographs/models/bounded profiles, expanded specialist synthesis, separately versioned principal/party/transfer revisions, synchronized evidence/locators/indexes, designated curation/integration and final source/component/authority/release audits. Any later source operation still requires its applicable admission and receiving gates; none is opened by this paragraph. A character cohort or recovery milestone does not end the program, and a warm ending or paid task does not imply complete causal repair, full consent or model success.
+
+## 7. Core analytical commitments
+
+The project treats comedy as evidence, but as evidence whose literalness must be adjudicated.
+
+The analyst must distinguish:
+
+- stable disposition from one-off gag;
+- trait from temporary state;
+- ignorance from bad reasoning;
+- ability from judgment;
+- judgment from self-regulation;
+- deliberate impracticality from inability;
+- comic amplification from realistic baseline behavior;
+- Kazuma's narration from independently observable character evidence;
+- literal semantic meaning from pragmatic Japanese-language effect;
+- affection from politeness or idealization;
+- ritualized conflict from genuinely relationship-threatening conflict;
+- canonical farce from behavior expected to transfer into a more realistic crossover context.
+
+The project aims to explain **why a character selects an apparently foolish action**, not merely to label the action foolish.
+
+## 8. Prospective model-validation rule
+
+The prediction/validation responsibility spans the [original ledger](03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md) and [Continuation01](03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md). Existing forecasts, local outcomes, adverse evidence and original blank fields remain in their exact historical parts; further expanded-source entries append to the continuation.
+
+Character-model development is intentionally prospective.
+
+At each checkpoint, the project must freeze the current model and record falsifiable behavioral predictions **before** reading the next tranche. Later evidence then receives one of the established revision states:
+
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
+
+Prediction failures are analytical evidence. They must not be erased by silently rewriting the earlier model after the fact.
+
+## 11. Retrieval precedence
+
+For later work, retrieve in this order:
+
+1. this `CURRENT_STATE_AND_CORPUS_MAP.md`;
+2. governing framework/method document for the task;
+3. latest checkpoint and prospective prediction state;
+4. relevant longitudinal ledger;
+5. relevant volume deep reading;
+6. specialist synthesis or reconstruction model once those exist;
+7. Japanese primary source for final verification.
+
+A later synthesis never licenses invented evidence. Exact wording, linguistic claims, and scene-level assertions should escalate to the Japanese source.
+
+## 12. Current next actions
+
+Continue the structured current operation above. Each next source requires separate admission with informed exposure declared. Preserve original questions, the preceding working inquiries and adverse history before any new body is read. Only after complete actual reading/seal may formal coding, seventeen-responsibility analysis, ten-ledger uptake and exact publication follow.
+
+Further source units then proceed in the governed natural order and scopes in the matrix/architecture. Keep accepted past readings and frozen baseline evidence intact, and use attributed revisions for analytical corrections. Git/audit receipts own publication identities; this map owns present state and governing routes.
+```
+
+
+## Hoost cohort08 full gate and continuation — 2026-10-20T04:28:03.811756+00:00
+
+Source263916a894815bdbd3b0101d31af9682004a6cdb/tree6fdc95cb44a49c7e7e6fd24f55bdc65ef404c327;9,203remote paths/thirty changed streams exact. Source39368478263,HK39369020617NO_OP,final39369062043; both385fulltests/zero five non-success/selection disabled, exact-source status and fresh1,027project-path/authority reload verified. Eight scoped secondary gates/fourteen model bodies retain provisional reliability; full ledger/individual/earned-artifact/specialist/versioned-six-model/curation/integration/release active. No original model/history/score/null/protected merge/executor state changed.
+
+### Verbatim previous current-state map; SHA256 1a71369a764380a74c3ef8f323946b86362aff404dd117f8f8e4f3e5d443fd3c
+
+````markdown
+---
+series: KONOSUBA
+artifact_type: corpus_map
+scope: FULL_MAIN_SERIES
+generation: V1
+status: canonical
+source_boundary: HOOSTCOHORT01 scoped semantic receiving complete/publication pending; seven earlier scoped gates and declared source programs closed; full individual/synthesis/versioned-model/curation/integration/release active; percentage null
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md
+  method_status: canonical
+  source_reconnaissance_complete: true
+  required_ledgers_initialized: true
+  sequential_analysis_lock: open
+  next_permitted_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume
+  authorized_start: V11
+  terminal_boundary: V17
+  committed_high_water_mark: V17
+  next_candidate_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+  confirmation_between_units: false
+  run_state: active
+---
+
+# KONOSUBA - Current State and Corpus Map
+
+## 1. Purpose
+
+This is the canonical first-read document for the KONOSUBA analytical project. It identifies the current source boundary, governing methods, project phase, authority rules, intended analytical architecture, and the retrieval path an analyst should follow before reading or modeling the series.
+
+The project is designed around one primary objective:
+
+> Build evidence-grounded, prospectively tested models of KONOSUBA's major characters that can reproduce plausible behavior, decision-making, interpersonal dynamics, ordinary-life preferences, comic failure modes, seriousness overrides, and Japanese-language voice across both canonical-comic and transferred cross-context situations.
+
+The project is not primarily a plot-summary project and is not satisfied by trait lists, catchphrase imitation, or fandom shorthand such as "Aqua is stupid" or "Megumin likes Explosion." It seeks the generative mechanisms underneath those surface descriptions.
+
+## 2. Current authority state
+
+<!-- CURRENT_OPERATION_START -->
+**Hoost cohort08 has completed scoped semantic receiving; its exact publication gate is pending.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_HOOST_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_HOOST_COHORT_01_RECEIVING_AND_PROVENANCE.json) own the new scope. The prior eighteen actually read EXP01 integral image-prose pages are reused;1,172unique EXP03BASE slots/five members and thirteen selected ledger rows/seven files are newly received at known-source scope. Scarce-skill dependence, particular friendship, loyal but fallible search, coercion, resource-sensitive tactics and act-sensitive voice support six defeasible rules. Three same-root pairs/six first bodies retain address underidentification, generic/near-canonical rivals, same-bargain affect variation and exact hidden-truth invariance. No separate runtime/judge, source trial, score or confidence gain follows. The new provisional model joins thirteen entering model bodies preserved exact.
+
+The [coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retain157qualified working rows, no final population or percentage. Only Hoost changes;156other rows and seven earlier scopedTier3 states remain exact. Iris, Yunyun, Vanir, Wiz, Chris/Eris, Dust and [Komekko](09%20Audits%20and%20Manifests/KONOSUBA_KOMEKKOCOHORT01_PUBLICATION_GATE_CLOSE.json) have closed full scoped publication gates. Komekko's latest source673227da7aebc30b698cdef2ac065f643a862f57, complete9,192-path/thirty-stream readback, source/HK/final actual-source385-test/status checks and fresh1,016-project-path authority reload are recorded in its gate. Seven post-gate progress paths are carried into this candidate. Hoost's current receiving is distinct from publication, independent predictive reliability and evaluator readiness.
+
+Complete MAIN01–17 reports, six checkpoints and earlier92 documentary appendix keep declared derivative receiving; all17 main excluded/19 supplemental/5 mixed-reference programs retain stated closed source scopes. Original66immutable files/72historical pins, forecasts/outcomes/scorecards and original blank/null fields remain exact. Hoost's mistaken target and correction both occur, so the original EXP03report161 remains supported. Contract/life doctrine, offscreen retaliation and future service retain attribution/conditions. Current stewardship authority does not deploy or activate an independently enforcing executor/shared exclusion; no protected merge or service activation is performed.
+
+Continue the full individual/event/alias/incidental census, remaining earned monographs/models/profiles, expanded specialists, separately versioned principal-party-transfer models, designated curation/evaluation/integration and component/release/final-entry audits. A source or character cohort does not end the full program; no new main volume or global completion is claimed.
+<!-- CURRENT_OPERATION_END -->
+
+The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.
+
+The [Dust04 additive N01 precision](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) controls the bodily-danger narrowing in that earlier local assessment/report. The original question requires coercive danger without a bodily-injury threshold. Its unilateral leisure wager retains direct contrary weight; later agreement/outcome or protective acts do not erase the earlier choice. Original Dust04 report/assessment/uncoded records remain preserved.
+
+The [Dust05 reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [29 current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) and [seven local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json) distinguish new identity/contract disclosures, actual care/costs, coercive delay, partial new trigger comparability, real term checks and owned vetoes, forest remainder, payments and unshown permission. The seven Dust01 questions keep their14 original future/adjudication fields blank; later assessments are separate attributed records.
+
+All dated prior map material is retained verbatim in the [project changelog](KONOSUBA_PROJECT_CHANGELOG.md). It is historical provenance and cannot override this entrypoint's current operation. In particular, old paused, pending, withheld or unexposed statements describe their own earlier boundaries.
+
+## 3. Governing methods and evidence routes
+
+1. [Synthesis architecture and roadmap](00%20Frameworks%20and%20Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md)
+2. [Volume deep-reading method](00%20Frameworks%20and%20Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md)
+3. [Character reconstruction and validation](00%20Frameworks%20and%20Methods/KONOSUBA_CHARACTER_RECONSTRUCTION_AND_VALIDATION_PROTOCOL.md)
+4. [Japanese humor and voice](00%20Frameworks%20and%20Methods/KONOSUBA_JAPANESE_HUMOR_AND_VOICE_PROTOCOL.md)
+5. [Source lock](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_LOCK.md)
+6. [Source inventory](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_INVENTORY.md)
+
+These remain canonical until explicitly superseded. The [source admission matrix](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.json) and [expanded component coverage](10%20Expanded%20Corpus/KONOSUBA_EXPANDED_COMPONENT_COVERAGE.json) supply maintained object-specific dispositions. [Source locators](08%20Evidence%20and%20Indexes/KONOSUBA_SOURCE_LOCATOR_INDEX.md), [claim revisions](08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md), the ten longitudinal ledgers and the governing report/receiving records control claim-level uptake. This entrypoint does not duplicate their evidence catalogs.
+
+## 4. Fixed source corpus and current execution route
+
+This execution uses the owner-designated local primary-source EPUB collection; its private filesystem location is recorded in the local recovery receipts. All41 local EPUB identities have been reconciled against the preserved corpus. The Drive inventory and historical folder IDs remain provenance; this run reads the local copies. Native EPUBs, complete native story text and artwork remain private.
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; all17 supplied-edition excluded-component full gates closed; full secondary/census/synthesis/models/curation/release active |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+Nineteen of19 supplemental supplied editions, all five mixed/reference programs and all17 main excluded-component programs have closed their full publication gates at the declared supplied-edition scopes. Original accepted principal histories retain exact authority and zero new principal-pass credit. This source-program accounting is not a narrative-component percentage: the global component denominator remains unresolved and percentage is null. Original metadata audits retain their historical scopes. Full individual secondary census and joins, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active.
+
+Before another source is admitted, its predecessor's exact publication/readback, source audit, housekeeping, final actual-source audit/status and fresh published-authority reload must be satisfied under the governing workflow. Admission then verifies exact local identity/CRC/OPF/structure, records current informed exposure/questions and seals zero-new-body preparation. Full actual text/ruby/residual/image reading and an uncoded seal precede formal outcomes. Extraction, prior principal validation, captions and marketing do not substitute for that work.
+
+## 5. Frozen derivation, validation and revision boundaries
+
+The main-series derivation and MAIN_ONLY_R1 suite remain retrievable through the [reconstruction audit](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md) and [main-only freeze receipt](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json). Their four principal models, party interaction and transfer models preserve original evidence and diagnostic qualifications. The39 commitments and original response/assessment histories are not a general accuracy statistic.
+
+The four unchanged-baseline source-local results are [YORI01](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_ACCEPTED_ADJUDICATIONS.json), [MASK](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_ACCEPTED_ADJUDICATIONS.json), [DUST06](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_ACCEPTED_ADJUDICATIONS.json) and [DUST07](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ACCEPTED_ADJUDICATIONS.json). Local failures, partial/ambiguous/not-tested states, reviewer limits and known exposure remain visible. Later whole-edition reading is informed and cannot be called a pristine holdout.
+
+All66 current immutable files,72 historical pins at their frozen revision and the four score files retain their governed byte identities. Earlier main generations/predictions/outcomes are never silently rewritten. Expanded evidence and current claim corrections are separately attributable. StageD must produce revised versions with traceable changes while preserving MAIN_ONLY_R1 and its accepted validation evidence. Secondary characters receive evidence-proportional roles/profiles/voice notes unless varied evidence supports full reconstruction.
+
+Historical early checkpoints cited some illustrations and a V03 afterword, without establishing a complete component inventory or known independent viewing scope. That legacy exposure remains declared; present component work neither claims universal historical nonexposure nor marks those components complete without actual inspection. Reader/narrator/alternate-view knowledge, same-lineage context and absence of acoustic/native-human validation remain explicit.
+
+## 6. Mandatory subjects and outstanding program
+
+The four mandatory principal subjects remain Satou Kazuma, Aqua, Megumin and Darkness, with party interaction and cross-context transfer as separate model responsibilities. Current main-only specialists remain in `05 Specialist Synthesis`; current main-only models/evidence remain in `06 Character Modeling and Reconstruction`. No new empty architecture layers or parallel project roots are required.
+
+All declared supplemental, mixed/reference and main excluded-component source programs have closed their stated publication gates. Remaining work is the full individual secondary census and event joins, earned monographs/models/bounded profiles, expanded specialist synthesis, separately versioned principal/party/transfer revisions, synchronized evidence/locators/indexes, designated curation/integration and final source/component/authority/release audits. Any later source operation still requires its applicable admission and receiving gates; none is opened by this paragraph. A character cohort or recovery milestone does not end the program, and a warm ending or paid task does not imply complete causal repair, full consent or model success.
+
+## 7. Core analytical commitments
+
+The project treats comedy as evidence, but as evidence whose literalness must be adjudicated.
+
+The analyst must distinguish:
+
+- stable disposition from one-off gag;
+- trait from temporary state;
+- ignorance from bad reasoning;
+- ability from judgment;
+- judgment from self-regulation;
+- deliberate impracticality from inability;
+- comic amplification from realistic baseline behavior;
+- Kazuma's narration from independently observable character evidence;
+- literal semantic meaning from pragmatic Japanese-language effect;
+- affection from politeness or idealization;
+- ritualized conflict from genuinely relationship-threatening conflict;
+- canonical farce from behavior expected to transfer into a more realistic crossover context.
+
+The project aims to explain **why a character selects an apparently foolish action**, not merely to label the action foolish.
+
+## 8. Prospective model-validation rule
+
+The prediction/validation responsibility spans the [original ledger](03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md) and [Continuation01](03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md). Existing forecasts, local outcomes, adverse evidence and original blank fields remain in their exact historical parts; further expanded-source entries append to the continuation.
+
+Character-model development is intentionally prospective.
+
+At each checkpoint, the project must freeze the current model and record falsifiable behavioral predictions **before** reading the next tranche. Later evidence then receives one of the established revision states:
+
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
+
+Prediction failures are analytical evidence. They must not be erased by silently rewriting the earlier model after the fact.
+
+## 11. Retrieval precedence
+
+For later work, retrieve in this order:
+
+1. this `CURRENT_STATE_AND_CORPUS_MAP.md`;
+2. governing framework/method document for the task;
+3. latest checkpoint and prospective prediction state;
+4. relevant longitudinal ledger;
+5. relevant volume deep reading;
+6. specialist synthesis or reconstruction model once those exist;
+7. Japanese primary source for final verification.
+
+A later synthesis never licenses invented evidence. Exact wording, linguistic claims, and scene-level assertions should escalate to the Japanese source.
+
+## 12. Current next actions
+
+Continue the structured current operation above. Each next source requires separate admission with informed exposure declared. Preserve original questions, the preceding working inquiries and adverse history before any new body is read. Only after complete actual reading/seal may formal coding, seventeen-responsibility analysis, ten-ledger uptake and exact publication follow.
+
+Further source units then proceed in the governed natural order and scopes in the matrix/architecture. Keep accepted past readings and frozen baseline evidence intact, and use attributed revisions for analytical corrections. Git/audit receipts own publication identities; this map owns present state and governing routes.
+````
+
+
+## Hoost first-forest voice attributable erratum — 2026-10-20T04:47:13.604510+00:00
+
+CR-SECONDARY-HOOST-003 corrects an index identity exclusion through the external erratum and current claim/locator/coverage/census/receiving routes. It preserves the original index and all prior source/model/exercise/gate bytes. Same heard voice becomes visibly identified as Hoost; pre-awakening protection is only Megumin’s guess. No rule/tier/score/source-credit change follows. Full CS ledger receiving and CC1–508 progress are recorded separately from primary-source credit.
+
+### Exact entrypoint before this current operation update
+
+```markdown
+---
+series: KONOSUBA
+artifact_type: corpus_map
+scope: FULL_MAIN_SERIES
+generation: V1
+status: canonical
+source_boundary: HOOSTCOHORT01 full exact-source gate/fresh authority reload closed; eight scoped secondary gates and declared source programs closed; full individual/specialist/versioned-model/curation/integration/release active; percentage null
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md
+  method_status: canonical
+  source_reconnaissance_complete: true
+  required_ledgers_initialized: true
+  sequential_analysis_lock: open
+  next_permitted_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume
+  authorized_start: V11
+  terminal_boundary: V17
+  committed_high_water_mark: V17
+  next_candidate_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+  confirmation_between_units: false
+  run_state: active
+---
+
+# KONOSUBA - Current State and Corpus Map
+
+## 1. Purpose
+
+This is the canonical first-read document for the KONOSUBA analytical project. It identifies the current source boundary, governing methods, project phase, authority rules, intended analytical architecture, and the retrieval path an analyst should follow before reading or modeling the series.
+
+The project is designed around one primary objective:
+
+> Build evidence-grounded, prospectively tested models of KONOSUBA's major characters that can reproduce plausible behavior, decision-making, interpersonal dynamics, ordinary-life preferences, comic failure modes, seriousness overrides, and Japanese-language voice across both canonical-comic and transferred cross-context situations.
+
+The project is not primarily a plot-summary project and is not satisfied by trait lists, catchphrase imitation, or fandom shorthand such as "Aqua is stupid" or "Megumin likes Explosion." It seeks the generative mechanisms underneath those surface descriptions.
+
+## 2. Current authority state
+
+<!-- CURRENT_OPERATION_START -->
+**Hoost cohort08 has closed its full exact-source publication gate; the full individual and expanded synthesis/model program continues.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_HOOST_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_HOOST_COHORT_01_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_HOOSTCOHORT01_PUBLICATION_GATE_CLOSE.json) own uptake. Prior18actually read EXP01 integral image-prose pages/five groups are reused;1,172unique EXP03BASE slots/five members and13selected ledger rows/seven files are actually received. Scarce-skill dependence, particular friendship, fallible loyal search, coercion, resource-sensitive means and act-sensitive voice support six defeasible rules. Three same-root pairs/six first bodies retain underidentified address, generic/near-canonical rivals, same-bargain affect variation and exact hidden-truth invariance. No separate runtime/judge, independent source test, native-human adequacy, score or confidence gain follows.
+
+[Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retain157qualified working rows, no final population/percentage. Only Hoost changed in cohort08;156others and seven earlier scoped states were exact. Iris, Yunyun, Vanir, Wiz, Chris/Eris, Dust, Komekko and Hoost have closed scoped publication gates. Six original principal/party/transfer bodies plus eight provisional secondary models total fourteen current bodies. Remote9,203-path/thirty-stream readback, source audit, NO_OP housekeeping, final actual-source385-test audit/status and fresh1,027-project-path/authority reload are separately verified. All frozen forecasts, outcomes, scores and original null/blank fields remain exact.
+
+Complete MAIN01–17 reports, six checkpoints and earlier92documentary appendix retain declared receiving. All17main excluded/19supplemental/5mixed-reference source programs retain stated closed scopes. Full current ledgers preserve their earlier bytes as exact prefixes; prepared reader02 adds no semantic credit and the next recorded Character State raw line is584. Continue full ledger/individual/event/alias/incidental dispositions, other earned monographs/models/profiles, expanded specialists, separately versioned principal-party-transfer models, designated curation/evaluation/integration and component/release/final-entry audits. No new main volume, protected merge, executor activation or full-program completion is claimed.
+<!-- CURRENT_OPERATION_END -->
+
+The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.
+
+The [Dust04 additive N01 precision](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) controls the bodily-danger narrowing in that earlier local assessment/report. The original question requires coercive danger without a bodily-injury threshold. Its unilateral leisure wager retains direct contrary weight; later agreement/outcome or protective acts do not erase the earlier choice. Original Dust04 report/assessment/uncoded records remain preserved.
+
+The [Dust05 reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [29 current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) and [seven local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json) distinguish new identity/contract disclosures, actual care/costs, coercive delay, partial new trigger comparability, real term checks and owned vetoes, forest remainder, payments and unshown permission. The seven Dust01 questions keep their14 original future/adjudication fields blank; later assessments are separate attributed records.
+
+All dated prior map material is retained verbatim in the [project changelog](KONOSUBA_PROJECT_CHANGELOG.md). It is historical provenance and cannot override this entrypoint's current operation. In particular, old paused, pending, withheld or unexposed statements describe their own earlier boundaries.
+
+## 3. Governing methods and evidence routes
+
+1. [Synthesis architecture and roadmap](00%20Frameworks%20and%20Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md)
+2. [Volume deep-reading method](00%20Frameworks%20and%20Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md)
+3. [Character reconstruction and validation](00%20Frameworks%20and%20Methods/KONOSUBA_CHARACTER_RECONSTRUCTION_AND_VALIDATION_PROTOCOL.md)
+4. [Japanese humor and voice](00%20Frameworks%20and%20Methods/KONOSUBA_JAPANESE_HUMOR_AND_VOICE_PROTOCOL.md)
+5. [Source lock](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_LOCK.md)
+6. [Source inventory](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_INVENTORY.md)
+
+These remain canonical until explicitly superseded. The [source admission matrix](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.json) and [expanded component coverage](10%20Expanded%20Corpus/KONOSUBA_EXPANDED_COMPONENT_COVERAGE.json) supply maintained object-specific dispositions. [Source locators](08%20Evidence%20and%20Indexes/KONOSUBA_SOURCE_LOCATOR_INDEX.md), [claim revisions](08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md), the ten longitudinal ledgers and the governing report/receiving records control claim-level uptake. This entrypoint does not duplicate their evidence catalogs.
+
+## 4. Fixed source corpus and current execution route
+
+This execution uses the owner-designated local primary-source EPUB collection; its private filesystem location is recorded in the local recovery receipts. All41 local EPUB identities have been reconciled against the preserved corpus. The Drive inventory and historical folder IDs remain provenance; this run reads the local copies. Native EPUBs, complete native story text and artwork remain private.
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; all17 supplied-edition excluded-component full gates closed; full secondary/census/synthesis/models/curation/release active |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+Nineteen of19 supplemental supplied editions, all five mixed/reference programs and all17 main excluded-component programs have closed their full publication gates at the declared supplied-edition scopes. Original accepted principal histories retain exact authority and zero new principal-pass credit. This source-program accounting is not a narrative-component percentage: the global component denominator remains unresolved and percentage is null. Original metadata audits retain their historical scopes. Full individual secondary census and joins, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active.
+
+Before another source is admitted, its predecessor's exact publication/readback, source audit, housekeeping, final actual-source audit/status and fresh published-authority reload must be satisfied under the governing workflow. Admission then verifies exact local identity/CRC/OPF/structure, records current informed exposure/questions and seals zero-new-body preparation. Full actual text/ruby/residual/image reading and an uncoded seal precede formal outcomes. Extraction, prior principal validation, captions and marketing do not substitute for that work.
+
+## 5. Frozen derivation, validation and revision boundaries
+
+The main-series derivation and MAIN_ONLY_R1 suite remain retrievable through the [reconstruction audit](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md) and [main-only freeze receipt](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json). Their four principal models, party interaction and transfer models preserve original evidence and diagnostic qualifications. The39 commitments and original response/assessment histories are not a general accuracy statistic.
+
+The four unchanged-baseline source-local results are [YORI01](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_ACCEPTED_ADJUDICATIONS.json), [MASK](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_ACCEPTED_ADJUDICATIONS.json), [DUST06](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_ACCEPTED_ADJUDICATIONS.json) and [DUST07](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ACCEPTED_ADJUDICATIONS.json). Local failures, partial/ambiguous/not-tested states, reviewer limits and known exposure remain visible. Later whole-edition reading is informed and cannot be called a pristine holdout.
+
+All66 current immutable files,72 historical pins at their frozen revision and the four score files retain their governed byte identities. Earlier main generations/predictions/outcomes are never silently rewritten. Expanded evidence and current claim corrections are separately attributable. StageD must produce revised versions with traceable changes while preserving MAIN_ONLY_R1 and its accepted validation evidence. Secondary characters receive evidence-proportional roles/profiles/voice notes unless varied evidence supports full reconstruction.
+
+Historical early checkpoints cited some illustrations and a V03 afterword, without establishing a complete component inventory or known independent viewing scope. That legacy exposure remains declared; present component work neither claims universal historical nonexposure nor marks those components complete without actual inspection. Reader/narrator/alternate-view knowledge, same-lineage context and absence of acoustic/native-human validation remain explicit.
+
+## 6. Mandatory subjects and outstanding program
+
+The four mandatory principal subjects remain Satou Kazuma, Aqua, Megumin and Darkness, with party interaction and cross-context transfer as separate model responsibilities. Current main-only specialists remain in `05 Specialist Synthesis`; current main-only models/evidence remain in `06 Character Modeling and Reconstruction`. No new empty architecture layers or parallel project roots are required.
+
+All declared supplemental, mixed/reference and main excluded-component source programs have closed their stated publication gates. Remaining work is the full individual secondary census and event joins, earned monographs/models/bounded profiles, expanded specialist synthesis, separately versioned principal/party/transfer revisions, synchronized evidence/locators/indexes, designated curation/integration and final source/component/authority/release audits. Any later source operation still requires its applicable admission and receiving gates; none is opened by this paragraph. A character cohort or recovery milestone does not end the program, and a warm ending or paid task does not imply complete causal repair, full consent or model success.
+
+## 7. Core analytical commitments
+
+The project treats comedy as evidence, but as evidence whose literalness must be adjudicated.
+
+The analyst must distinguish:
+
+- stable disposition from one-off gag;
+- trait from temporary state;
+- ignorance from bad reasoning;
+- ability from judgment;
+- judgment from self-regulation;
+- deliberate impracticality from inability;
+- comic amplification from realistic baseline behavior;
+- Kazuma's narration from independently observable character evidence;
+- literal semantic meaning from pragmatic Japanese-language effect;
+- affection from politeness or idealization;
+- ritualized conflict from genuinely relationship-threatening conflict;
+- canonical farce from behavior expected to transfer into a more realistic crossover context.
+
+The project aims to explain **why a character selects an apparently foolish action**, not merely to label the action foolish.
+
+## 8. Prospective model-validation rule
+
+The prediction/validation responsibility spans the [original ledger](03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md) and [Continuation01](03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md). Existing forecasts, local outcomes, adverse evidence and original blank fields remain in their exact historical parts; further expanded-source entries append to the continuation.
+
+Character-model development is intentionally prospective.
+
+At each checkpoint, the project must freeze the current model and record falsifiable behavioral predictions **before** reading the next tranche. Later evidence then receives one of the established revision states:
+
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
+
+Prediction failures are analytical evidence. They must not be erased by silently rewriting the earlier model after the fact.
+
+## 11. Retrieval precedence
+
+For later work, retrieve in this order:
+
+1. this `CURRENT_STATE_AND_CORPUS_MAP.md`;
+2. governing framework/method document for the task;
+3. latest checkpoint and prospective prediction state;
+4. relevant longitudinal ledger;
+5. relevant volume deep reading;
+6. specialist synthesis or reconstruction model once those exist;
+7. Japanese primary source for final verification.
+
+A later synthesis never licenses invented evidence. Exact wording, linguistic claims, and scene-level assertions should escalate to the Japanese source.
+
+## 12. Current next actions
+
+Continue the structured current operation above. Each next source requires separate admission with informed exposure declared. Preserve original questions, the preceding working inquiries and adverse history before any new body is read. Only after complete actual reading/seal may formal coding, seventeen-responsibility analysis, ten-ledger uptake and exact publication follow.
+
+Further source units then proceed in the governed natural order and scopes in the matrix/architecture. Keep accepted past readings and frozen baseline evidence intact, and use attributed revisions for analytical corrections. Git/audit receipts own publication identities; this map owns present state and governing routes.
+```
+
+
+## Hoost factual correction closed and three full current ledgers received — 2026-10-20T05:04:09.298058+00:00
+
+CR-SECONDARY-HOOST-003 corrective source `de46f030039b8420d18756dc3d88e59aa1adf5f8` has closed exact remote9,205-path/ten-stream readback, source audit39371756703, NO_OP housekeeping39372211177, final actual-source audit39372250364 and fresh1,029project/authority reload. Both full audits ran385tests with selection disabled and zero five non-success categories. Original Hoost index, monograph/model, lineage/first bodies and prior cohort gate remain exact; eight scoped subjects/fourteen models are unchanged. The [gate](09%20Audits%20and%20Manifests/KONOSUBA_HOOSTVOICE01_PUBLICATION_GATE_CLOSE.json) owns exact identities. Full CS/CC/DE current ledger bodies are actually received; remaining ledger/individual/event/alias/incidental work, earned artifacts, expanded specialists, separately versioned six models, designated curation/integration and component/release/final-entry audits continue. No full-program completion or protected-main integration follows.
+
+### Exact entrypoint before post-gate status update
+
+```markdown
+---
+series: KONOSUBA
+artifact_type: corpus_map
+scope: FULL_MAIN_SERIES
+generation: V1
+status: canonical
+source_boundary: HOOSTCOHORT01 full exact-source gate/fresh authority reload closed; eight scoped secondary gates and declared source programs closed; full individual/specialist/versioned-model/curation/integration/release active; percentage null
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md
+  method_status: canonical
+  source_reconnaissance_complete: true
+  required_ledgers_initialized: true
+  sequential_analysis_lock: open
+  next_permitted_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume
+  authorized_start: V11
+  terminal_boundary: V17
+  committed_high_water_mark: V17
+  next_candidate_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+  confirmation_between_units: false
+  run_state: active
+---
+
+# KONOSUBA - Current State and Corpus Map
+
+## 1. Purpose
+
+This is the canonical first-read document for the KONOSUBA analytical project. It identifies the current source boundary, governing methods, project phase, authority rules, intended analytical architecture, and the retrieval path an analyst should follow before reading or modeling the series.
+
+The project is designed around one primary objective:
+
+> Build evidence-grounded, prospectively tested models of KONOSUBA's major characters that can reproduce plausible behavior, decision-making, interpersonal dynamics, ordinary-life preferences, comic failure modes, seriousness overrides, and Japanese-language voice across both canonical-comic and transferred cross-context situations.
+
+The project is not primarily a plot-summary project and is not satisfied by trait lists, catchphrase imitation, or fandom shorthand such as "Aqua is stupid" or "Megumin likes Explosion." It seeks the generative mechanisms underneath those surface descriptions.
+
+## 2. Current authority state
+
+<!-- CURRENT_OPERATION_START -->
+**Hoost cohort08 has closed its full exact-source publication gate; the full individual and expanded synthesis/model program continues.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_HOOST_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_HOOST_COHORT_01_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_HOOSTCOHORT01_PUBLICATION_GATE_CLOSE.json) own uptake. Prior18actually read EXP01 integral image-prose pages/five groups are reused;1,172unique EXP03BASE slots/five members and13selected ledger rows/seven files are actually received. Scarce-skill dependence, particular friendship, fallible loyal search, coercion, resource-sensitive means and act-sensitive voice support six defeasible rules. Three same-root pairs/six first bodies retain underidentified address, generic/near-canonical rivals, same-bargain affect variation and exact hidden-truth invariance. No separate runtime/judge, independent source test, native-human adequacy, score or confidence gain follows.
+
+**Current factual qualification CR-SECONDARY-HOOST-003:** Read the [Hoost voice erratum](09%20Audits%20and%20Manifests/KONOSUBA_HOOST_FIRST_FOREST_VOICE_ATTRIBUTION_ERRATUM_01.json) with the preserved index. EXP03 U020P476–511 identifies the initially unknown voice as Hoost; it is not a separate actor. P488’s protection idea remains Megumin’s unconfirmed guess. Original index, lineage, monograph, model and closed gate remain exact. This corrective tranche carries the Hoost gate metadata; its own publication checks are pending at authorship.
+
+[Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retain157qualified working rows, no final population/percentage. Only Hoost changed in cohort08;156others and seven earlier scoped states were exact. Iris, Yunyun, Vanir, Wiz, Chris/Eris, Dust, Komekko and Hoost have closed scoped publication gates. Six original principal/party/transfer bodies plus eight provisional secondary models total fourteen current bodies. Remote9,203-path/thirty-stream readback, source audit, NO_OP housekeeping, final actual-source385-test audit/status and fresh1,027-project-path/authority reload are separately verified. All frozen forecasts, outcomes, scores and original null/blank fields remain exact.
+
+Complete MAIN01–17 reports, six checkpoints and earlier92documentary appendix retain declared receiving. All17main excluded/19supplemental/5mixed-reference source programs retain stated closed scopes. Full current ledgers preserve their earlier bytes as exact prefixes. Character State current raw1–1623 has now actually been received; Competence Context raw1–508 has been received and509 is next. These are analytical-derivative ledger readings, not new native source or independent-test credit. Continue full ledger/individual/event/alias/incidental dispositions, other earned monographs/models/profiles, expanded specialists, separately versioned principal-party-transfer models, designated curation/evaluation/integration and component/release/final-entry audits. No new main volume, protected merge, executor activation or full-program completion is claimed.
+<!-- CURRENT_OPERATION_END -->
+
+The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.
+
+The [Dust04 additive N01 precision](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) controls the bodily-danger narrowing in that earlier local assessment/report. The original question requires coercive danger without a bodily-injury threshold. Its unilateral leisure wager retains direct contrary weight; later agreement/outcome or protective acts do not erase the earlier choice. Original Dust04 report/assessment/uncoded records remain preserved.
+
+The [Dust05 reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [29 current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) and [seven local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json) distinguish new identity/contract disclosures, actual care/costs, coercive delay, partial new trigger comparability, real term checks and owned vetoes, forest remainder, payments and unshown permission. The seven Dust01 questions keep their14 original future/adjudication fields blank; later assessments are separate attributed records.
+
+All dated prior map material is retained verbatim in the [project changelog](KONOSUBA_PROJECT_CHANGELOG.md). It is historical provenance and cannot override this entrypoint's current operation. In particular, old paused, pending, withheld or unexposed statements describe their own earlier boundaries.
+
+## 3. Governing methods and evidence routes
+
+1. [Synthesis architecture and roadmap](00%20Frameworks%20and%20Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md)
+2. [Volume deep-reading method](00%20Frameworks%20and%20Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md)
+3. [Character reconstruction and validation](00%20Frameworks%20and%20Methods/KONOSUBA_CHARACTER_RECONSTRUCTION_AND_VALIDATION_PROTOCOL.md)
+4. [Japanese humor and voice](00%20Frameworks%20and%20Methods/KONOSUBA_JAPANESE_HUMOR_AND_VOICE_PROTOCOL.md)
+5. [Source lock](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_LOCK.md)
+6. [Source inventory](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_INVENTORY.md)
+
+These remain canonical until explicitly superseded. The [source admission matrix](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.json) and [expanded component coverage](10%20Expanded%20Corpus/KONOSUBA_EXPANDED_COMPONENT_COVERAGE.json) supply maintained object-specific dispositions. [Source locators](08%20Evidence%20and%20Indexes/KONOSUBA_SOURCE_LOCATOR_INDEX.md), [claim revisions](08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md), the ten longitudinal ledgers and the governing report/receiving records control claim-level uptake. This entrypoint does not duplicate their evidence catalogs.
+
+## 4. Fixed source corpus and current execution route
+
+This execution uses the owner-designated local primary-source EPUB collection; its private filesystem location is recorded in the local recovery receipts. All41 local EPUB identities have been reconciled against the preserved corpus. The Drive inventory and historical folder IDs remain provenance; this run reads the local copies. Native EPUBs, complete native story text and artwork remain private.
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; all17 supplied-edition excluded-component full gates closed; full secondary/census/synthesis/models/curation/release active |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+Nineteen of19 supplemental supplied editions, all five mixed/reference programs and all17 main excluded-component programs have closed their full publication gates at the declared supplied-edition scopes. Original accepted principal histories retain exact authority and zero new principal-pass credit. This source-program accounting is not a narrative-component percentage: the global component denominator remains unresolved and percentage is null. Original metadata audits retain their historical scopes. Full individual secondary census and joins, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active.
+
+Before another source is admitted, its predecessor's exact publication/readback, source audit, housekeeping, final actual-source audit/status and fresh published-authority reload must be satisfied under the governing workflow. Admission then verifies exact local identity/CRC/OPF/structure, records current informed exposure/questions and seals zero-new-body preparation. Full actual text/ruby/residual/image reading and an uncoded seal precede formal outcomes. Extraction, prior principal validation, captions and marketing do not substitute for that work.
+
+## 5. Frozen derivation, validation and revision boundaries
+
+The main-series derivation and MAIN_ONLY_R1 suite remain retrievable through the [reconstruction audit](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md) and [main-only freeze receipt](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json). Their four principal models, party interaction and transfer models preserve original evidence and diagnostic qualifications. The39 commitments and original response/assessment histories are not a general accuracy statistic.
+
+The four unchanged-baseline source-local results are [YORI01](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_ACCEPTED_ADJUDICATIONS.json), [MASK](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_ACCEPTED_ADJUDICATIONS.json), [DUST06](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_ACCEPTED_ADJUDICATIONS.json) and [DUST07](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ACCEPTED_ADJUDICATIONS.json). Local failures, partial/ambiguous/not-tested states, reviewer limits and known exposure remain visible. Later whole-edition reading is informed and cannot be called a pristine holdout.
+
+All66 current immutable files,72 historical pins at their frozen revision and the four score files retain their governed byte identities. Earlier main generations/predictions/outcomes are never silently rewritten. Expanded evidence and current claim corrections are separately attributable. StageD must produce revised versions with traceable changes while preserving MAIN_ONLY_R1 and its accepted validation evidence. Secondary characters receive evidence-proportional roles/profiles/voice notes unless varied evidence supports full reconstruction.
+
+Historical early checkpoints cited some illustrations and a V03 afterword, without establishing a complete component inventory or known independent viewing scope. That legacy exposure remains declared; present component work neither claims universal historical nonexposure nor marks those components complete without actual inspection. Reader/narrator/alternate-view knowledge, same-lineage context and absence of acoustic/native-human validation remain explicit.
+
+## 6. Mandatory subjects and outstanding program
+
+The four mandatory principal subjects remain Satou Kazuma, Aqua, Megumin and Darkness, with party interaction and cross-context transfer as separate model responsibilities. Current main-only specialists remain in `05 Specialist Synthesis`; current main-only models/evidence remain in `06 Character Modeling and Reconstruction`. No new empty architecture layers or parallel project roots are required.
+
+All declared supplemental, mixed/reference and main excluded-component source programs have closed their stated publication gates. Remaining work is the full individual secondary census and event joins, earned monographs/models/bounded profiles, expanded specialist synthesis, separately versioned principal/party/transfer revisions, synchronized evidence/locators/indexes, designated curation/integration and final source/component/authority/release audits. Any later source operation still requires its applicable admission and receiving gates; none is opened by this paragraph. A character cohort or recovery milestone does not end the program, and a warm ending or paid task does not imply complete causal repair, full consent or model success.
+
+## 7. Core analytical commitments
+
+The project treats comedy as evidence, but as evidence whose literalness must be adjudicated.
+
+The analyst must distinguish:
+
+- stable disposition from one-off gag;
+- trait from temporary state;
+- ignorance from bad reasoning;
+- ability from judgment;
+- judgment from self-regulation;
+- deliberate impracticality from inability;
+- comic amplification from realistic baseline behavior;
+- Kazuma's narration from independently observable character evidence;
+- literal semantic meaning from pragmatic Japanese-language effect;
+- affection from politeness or idealization;
+- ritualized conflict from genuinely relationship-threatening conflict;
+- canonical farce from behavior expected to transfer into a more realistic crossover context.
+
+The project aims to explain **why a character selects an apparently foolish action**, not merely to label the action foolish.
+
+## 8. Prospective model-validation rule
+
+The prediction/validation responsibility spans the [original ledger](03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md) and [Continuation01](03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md). Existing forecasts, local outcomes, adverse evidence and original blank fields remain in their exact historical parts; further expanded-source entries append to the continuation.
+
+Character-model development is intentionally prospective.
+
+At each checkpoint, the project must freeze the current model and record falsifiable behavioral predictions **before** reading the next tranche. Later evidence then receives one of the established revision states:
+
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
+
+Prediction failures are analytical evidence. They must not be erased by silently rewriting the earlier model after the fact.
+
+## 11. Retrieval precedence
+
+For later work, retrieve in this order:
+
+1. this `CURRENT_STATE_AND_CORPUS_MAP.md`;
+2. governing framework/method document for the task;
+3. latest checkpoint and prospective prediction state;
+4. relevant longitudinal ledger;
+5. relevant volume deep reading;
+6. specialist synthesis or reconstruction model once those exist;
+7. Japanese primary source for final verification.
+
+A later synthesis never licenses invented evidence. Exact wording, linguistic claims, and scene-level assertions should escalate to the Japanese source.
+
+## 12. Current next actions
+
+Continue the structured current operation above. Each next source requires separate admission with informed exposure declared. Preserve original questions, the preceding working inquiries and adverse history before any new body is read. Only after complete actual reading/seal may formal coding, seventeen-responsibility analysis, ten-ledger uptake and exact publication follow.
+
+Further source units then proceed in the governed natural order and scopes in the matrix/architecture. Keep accepted past readings and frozen baseline evidence intact, and use attributed revisions for analytical corrections. Git/audit receipts own publication identities; this map owns present state and governing routes.
+```
+
+
+## Preserved operation before Levi cohort09 — 2026-10-20T06:13:07.283554+00:00
+
+**Hoost cohort08 has closed its full exact-source publication gate; the full individual and expanded synthesis/model program continues.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_HOOST_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_HOOST_COHORT_01_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_HOOSTCOHORT01_PUBLICATION_GATE_CLOSE.json) own uptake. Prior18actually read EXP01 integral image-prose pages/five groups are reused;1,172unique EXP03BASE slots/five members and13selected ledger rows/seven files are actually received. Scarce-skill dependence, particular friendship, fallible loyal search, coercion, resource-sensitive means and act-sensitive voice support six defeasible rules. Three same-root pairs/six first bodies retain underidentified address, generic/near-canonical rivals, same-bargain affect variation and exact hidden-truth invariance. No separate runtime/judge, independent source test, native-human adequacy, score or confidence gain follows.
+
+**Current factual qualification CR-SECONDARY-HOOST-003:** Read the [Hoost voice erratum](09%20Audits%20and%20Manifests/KONOSUBA_HOOST_FIRST_FOREST_VOICE_ATTRIBUTION_ERRATUM_01.json) with the preserved index. EXP03 U020P476–511 identifies the initially unknown voice as Hoost; it is not a separate actor. P488’s protection idea remains Megumin’s unconfirmed guess. Original index, lineage, monograph, model and closed gate remain exact. The [corrective publication gate](09%20Audits%20and%20Manifests/KONOSUBA_HOOSTVOICE01_PUBLICATION_GATE_CLOSE.json) and fresh authority reload are closed for source `de46f030039b8420d18756dc3d88e59aa1adf5f8`: all9,205remote paths/ten changed streams, source385tests, NO_OP housekeeping and final actual-source385tests/status/fresh1,029project-path reload are verified. The displayed final-workflow main metadata is distinct from its actual audited source.
+
+[Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retain157qualified working rows, no final population/percentage. Only Hoost changed in cohort08;156others and seven earlier scoped states were exact. Iris, Yunyun, Vanir, Wiz, Chris/Eris, Dust, Komekko and Hoost have closed scoped publication gates. Six original principal/party/transfer bodies plus eight provisional secondary models total fourteen current bodies. Remote9,203-path/thirty-stream readback, source audit, NO_OP housekeeping, final actual-source385-test audit/status and fresh1,027-project-path/authority reload are separately verified. All frozen forecasts, outcomes, scores and original null/blank fields remain exact.
+
+Complete MAIN01–17 reports, six checkpoints and earlier92documentary appendix retain declared receiving. All17main excluded/19supplemental/5mixed-reference source programs retain stated closed scopes. Full current ledgers preserve their earlier bytes as exact prefixes. Character State raw1–1623, Competence Context raw1–1374 and Decision Error raw1–1836 have now actually been received in full at their pinned current bytes. Humor Mechanics raw1 is next. These are analytical-derivative ledger readings, not new native source or independent-test credit. Continue full ledger/individual/event/alias/incidental dispositions, other earned monographs/models/profiles, expanded specialists, separately versioned principal-party-transfer models, designated curation/evaluation/integration and component/release/final-entry audits. No new main volume, protected merge, executor activation or full-program completion is claimed.
+
+## Levi cohort09 current expansion — 2026-10-20T06:13:07.283554+00:00
+
+Levi monograph/five-rule provisional model/index and source-known internal limitations are substantively received; containing publication gate pending. Six narrow EXP03 profiles and five individual replay PC candidates enter168qualified working rows. Three group rows remain historical aggregates. All ten rolling responsibilities were actually received at disclosed literal/verified-reuse scopes; no fresh primary or independent credit follows. Fourteen prior model bodies, historical forecasts/scores/nulls and Hoost original/erratum/gates remain exact. Full individual/specialist/six-versioned-model/curation/integration/component-release program continues.
+
+
+## Preserved Levi operation before full gate closure — 2026-10-20T06:31:28.926664+00:00
+
+**Levi cohort09 is substantively received; its containing publication gate is pending.** The new [monograph](05%20Specialist%20Synthesis/KONOSUBA_LEVI_CHARACTER_MONOGRAPH.md), [five-rule provisional model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_LEVI_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_LEVI_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_LEVI_COHORT_01_RECEIVING_AND_PROVENANCE.json) distinguish perceived contest limits, specific updating, political choice, acknowledged debt with later coercion and printed stance. Aid precedes Ragcraft exposure; its causal weights remain OPEN. Four same-author hypothetical first bodies preserve generic/near-canonical rivals, exact hidden-truth invariance and overly coherent administrative English. No independent validity, Japanese adequacy, score or confidence gain follows.
+
+Eight earlier scoped secondary gates, all declared source programs and the Hoost factual correction full gate remain closed at their exact scopes. [CR-SECONDARY-HOOST-003](09%20Audits%20and%20Manifests/KONOSUBA_HOOST_FIRST_FOREST_VOICE_ATTRIBUTION_ERRATUM_01.json) still controls the preserved original index. Source`de46f030039b8420d18756dc3d88e59aa1adf5f8` audits certify that published source, not this later candidate. Six original principal/party/transfer bodies and eight entering secondary models remain exact; Levi adds a fifteenth model body with provisional reliability.
+
+The [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) and [coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) now retain168working rows. Six EXP03 trial-party actors have individual scopedTier1 profiles in Character State; five replay PCs have separate substantial candidates, without a Tier1 ceiling. Three old group rows are historical routes and another discovery bucket stays open. These are not final people/tiers or a percentage.
+
+Complete MAIN01–17 reports, six checkpoints, earlier92 documentary appendix and supplemental/mixed report routes retain their declared receiving. All ten rolling ledger responsibilities have now actually been received in eleven physical current files, through literal views plus explicitly verified exact prior-semantic reuse where recorded. This is analytical-derivative receiving, not new native or independent reading. Continue full individual/event/alias/incidental reconciliation, other earned artifacts, expanded seven specialists and extended/full-series syntheses, six separately versioned principal/party/transfer models, designated curation/evaluation/integration and component/release/final-entry audits. No source admission, protected merge, executor activation or full-program completion is claimed.
+
+## Levi cohort09 exact publication gate closed — 2026-10-20T06:31:28.926664+00:00
+
+Source`02a355704ac14db3455f1f738c92a6c576e78746`/tree`6b6e5af77b4c7f1bbe54b567f5d72a4e5c3da046`: all9,215remote paths/29changed streams, source39379825295/NO_OP housekeeping39380153236/final actual-source39380197761, each full audit385tests/zero5non-success/selectionfalse and fresh1,039project/control/model reload verified. Fifteen model bodies, earlier histories/errata/gates and six source-local profiles remain exact. Full census/specialist/six-versioned-model/curation/integration/component-release program remains active; percentage null.
+
+
+## Preserved operation before cohort10 — 2026-10-20T07:02:46.042359+00:00
+
+**Levi cohort09 has closed its full exact-source publication gate; the full KonoSuba program continues.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_LEVI_CHARACTER_MONOGRAPH.md), [five-rule provisional model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_LEVI_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_LEVI_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_LEVI_COHORT_01_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_LEVICOHORT01_PUBLICATION_GATE_CLOSE.json) retain local contest limits, updating, political choice, gratitude with coercive grievance and printed stance. Aid precedes Ragcraft exposure; causal weights remain OPEN. Four same-author first bodies retain generic/near-canonical rivals, exact hidden-truth invariance and overly coherent administrative English, with no independent validity, Japanese adequacy, score or confidence gain.
+
+All9,215remote paths/29changed streams, full source385test audit, NO_OP housekeeping, final actual-source385test audit/status and fresh1,039project/control/model reload are verified for source`02a355704ac14db3455f1f738c92a6c576e78746`. Displayed final-workflow main metadata is distinct from the actual audited source. Six original principal/party/transfer models and nine provisional secondary models total fifteen unchanged current bodies after publication. Earlier gates and [CR-SECONDARY-HOOST-003](09%20Audits%20and%20Manifests/KONOSUBA_HOOST_FIRST_FOREST_VOICE_ATTRIBUTION_ERRATUM_01.json) remain exact.
+
+The [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) and [coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) retain168qualified working rows. Six EXP03 trial-party actors have published source-local Tier1 profiles in Character State; five replay PCs have separate substantial candidates, without a Tier1 ceiling. Three old groups are historical routes and another discovery bucket stays open. This is no final population/tier denominator or percentage.
+
+Complete MAIN01–17 reports, six checkpoints, earlier92 documentary appendix and supplemental/mixed routes retain their stated receiving. All ten rolling ledger responsibilities were actually received in eleven physical files through literal views plus disclosed verified exact prior-semantic reuse; current cohort appendices preserve that history. Declared41source-object programs remain closed at their scopes. Continue full individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separately versioned principal/party/transfer successors, designated curation/evaluation/integration and component/release/final-entry audits. No source admission, protected merge, executor activation or full-program completion is claimed.
+
+## Cohort10 current substantive expansion — 2026-10-20T07:02:46.042359+00:00
+
+Nos Tier2 monograph/index, high-confidence episode join, three bounded profiles and helper index are semantically received; external MAIN03report outcome/source-plane qualification preserves original bytes and reported cost. No new model: all15current model bodies/nineTier3subjects and previous scopes remain exact. Containing publication gate pending.168working rows are nonfinal; full census/expanded seven specialists/extended-fullseries/six separate StageD/curation-integration/component-release program continues.
+
+
+## Preserved cohort10 operation before full gate closure — 2026-10-20T07:30:32.042803+00:00
+
+**Cohort10 substantively receives Nos's Tier2 monograph and source-plane profiles; its containing publication gate is pending.** The [Nos monograph](05%20Specialist%20Synthesis/KONOSUBA_NOS_CHARACTER_MONOGRAPH.md) and [index](08%20Evidence%20and%20Indexes/KONOSUBA_NOS_EVIDENCE_INDEX.md) join the MAIN17castle knight with DUST07's displaced swordsman through specific name/role/armor/destination/castle cues. This is high-confidence inference, not an explicit cross-volume narrator equation. Own self-command, coalition affect, actual inference, real skill, errors and harm justify the monograph; no separate reconstruction is earned automatically.
+
+The [MAIN03 qualification](09%20Audits%20and%20Manifests/KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json) preserves the frozen report while separating Megumin report, Aqua gift/intention account, visible props and Kazuma livelihood inference. Reported distress/externality remain; performed departure/completed farm work/permanent ruin are unestablished. Pierre, the reported performer and the mother receive narrow profiles in Character State; the helper staysTier0. Shared profession gives no proven alias or distinct-person certainty.
+
+The [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json), [coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and [cohort receiving](09%20Audits%20and%20Manifests/KONOSUBA_NOS_AND_INCIDENTAL_COHORT_01_RECEIVING_AND_PROVENANCE.json) retain168working rows, historical groups, a joined episode route and an open bucket. No final population or percentage follows. All nine priorTier3subject gates, fifteen model bodies, six earlier narrow profiles, source-program closures and prior errata remain exact. The [Levi gate](09%20Audits%20and%20Manifests/KONOSUBA_LEVICOHORT01_PUBLICATION_GATE_CLOSE.json) certifies published02a35570 and fresh1,039project paths, not this later candidate.
+
+Complete current ten-responsibility ledger receiving and earlier source/report/checkpoint histories retain their exact scopes.526source-known BASEcontextslots across five members are bounded rechecks, with no new whole-source/ruby/image/admission/independent-test credit. Continue all individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists/extended-full-series syntheses, six separately versioned principal/party/transfer successors, designated curation/evaluation/integration and component/release/final-entry audits. No source admission, protected merge, executor activation or full-program completion is claimed.
+
+## Cohort10 full exact publication gate closed — 2026-10-20T07:30:32.042803+00:00
+
+Source `6958c3726a1dc3f9fb505915508af32a2f7e7bae` / tree `c5099aabc11179acdd12299c018de5c75fd4cb54`: all 9,221 remote paths and 25 changed streams, source 39385391510, NO_OP housekeeping 39385943214, final actual-source 39385994786, full source/final 385 tests with selection disabled/all five non-success categories zero, exact-source status and fresh 1,045 project/control paths verified. All fifteen model bodies, original MAIN03 report, prior gates/errata and historical scores/blanks/nulls remain exact. Nos Tier2 monograph, three profiles, helper index and joined episode are scoped dispositions. Full census, further artifacts, expanded specialists, six separately versioned StageD successors, designated curation/integration and component/release/final-entry work continue; percentage null.
+
+
+## Preserved operation before royal cohort11 — 2026-10-20T08:16:00.363533+00:00
+
+**Cohort10 has closed its full exact-source publication gate; the full KonoSuba program continues.** The [Nos monograph](05%20Specialist%20Synthesis/KONOSUBA_NOS_CHARACTER_MONOGRAPH.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_NOS_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_NOS_AND_INCIDENTAL_COHORT_01_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_NOSCOHORT01_PUBLICATION_GATE_CLOSE.json) preserve own self-command, coalition affect, actual inference, skill, errors and harmful conduct. The MAIN17/DUST07 identity join remains high-confidence multi-cue inference. Nos earns Tier2; a separate generative model is not automatically earned.
+
+The [MAIN03 qualification](09%20Audits%20and%20Manifests/KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json) leaves the original report exact and separates Megumin report, Aqua gift/intention account, visible props and Kazuma livelihood inference. Reported distress and externality remain; completed departure/farming/permanent ruin are not proved. Pierre, the reported performer and the mother have narrow profiles in Character State; the helper has an incidental index. No Pierre/MAIN03 alias or distinct-person certainty is established.
+
+All 9,221 remote paths and 25 changed streams, source/final 385-test audits, NO_OP housekeeping, exact-source final status and fresh 1,045 project/control paths are verified for `6958c3726a1dc3f9fb505915508af32a2f7e7bae`. Final workflow main metadata is distinct from the verified actual source. All fifteen model bodies, nine prior Tier3 subjects, earlier gates/errata and historical failures/scores/blanks/nulls remain exact.
+
+The [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) and [coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) retain 168 working records, historical groups, a joined episode route and an open discovery bucket. Nine narrow profiles and one monograph-only subject do not close the full population or tier denominator. All ten rolling ledger responsibilities and source/report/checkpoint receiving retain their exact earlier scopes. The current 526 BASE-context rechecks add no new global unique-primary, full-source, ruby, image, admission or independent-test credit.
+
+Continue all individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separately versioned principal/party/transfer successors, designated curation/evaluation/integration and component/release/final-entry audits. No protected merge, executor activation, new source admission or full-program completion is claimed; percentage remains null.
+
+## Royal cohort11 current substantive expansion — 2026-10-20T08:16:00.363533+00:00
+
+Claire and Rain each have a separate monograph, five-rule provisional model and evidence index. Seven same-author first bodies retain an invented council defect, generic/near-canonical rivals, designed/primed contrasts and unknown thresholds. Two targeted census rows change;166 others and all earlier histories remain exact. Fifteen entering models are preserved; two new candidate bodies make seventeen after adoption. Full containing publication gate pending; no new source/independent credit. Full census, further artifacts, seven expanded specialists/full-series synthesis, six separate Stage D successors and designated curation/integration/component-release/final-entry program continue.
+
+
+## Preserved royal cohort11 operation before gate closure — 2026-10-20T08:48:29.372932+00:00
+
+**Royal cohort11 substantively receives Claire and Rain as separate scoped Tier3 model candidates; its containing publication gate is pending.** Their individual monographs, five-rule models and evidence indexes retain own agency, constraints, contrary choices, ordinary concerns and source-sensitive voice. [Claire](05%20Specialist%20Synthesis/KONOSUBA_CLAIRE_CHARACTER_MONOGRAPH.md) combines office/skill, conditional rank restraint, affection with refusals and imposed control. [Rain](05%20Specialist%20Synthesis/KONOSUBA_RAIN_CHARACTER_MONOGRAPH.md) combines practical repair, finite means, contextual knowledge/protest and warning with compromised compliance.
+
+The shared [provenance](08%20Evidence%20and%20Indexes/KONOSUBA_CLAIRE_RAIN_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json) receives 3,285 known-source BASE context slots in eleven members/eight admitted objects, counted once. Rain's cast and Iris's surprise passenger, proposed versus performed treatment, actual memory gaps and later recovery/guarantor reports, and Dust controlling Rain's body retain exact actors and planes. No fresh global unique-primary/full-source/ruby/image/admission/independent credit follows.
+
+Seven first bodies follow the bound prebody contract. Claire's B appeal response invents a council absent from the packet; the defect stays exact. Reader-only truth does not become new knowledge; Rain's cost pair and unmatched primed compliance case retain generic-role and near-canonical rivals. No separate runtime/judge, Japanese adequacy, capability grade, source accuracy or confidence gain is claimed.
+
+The [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retains 168 nonfinal working records. Two rows change;166 others and all earlier histories remain exact. Fifteen entering models and nine prior model-subject gates are protected; two new candidates would make seventeen model bodies after adoption. Nos Tier2 monograph and nine bounded profiles retain their scopes. The [Nos gate](09%20Audits%20and%20Manifests/KONOSUBA_NOSCOHORT01_PUBLICATION_GATE_CLOSE.json) certifies published `6958c372` and fresh 1,045 project paths, not this later candidate.
+
+Complete source/report/checkpoint and ten-ledger receiving retain their exact scopes. Continue full individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separately versioned principal/party/transfer successors, designated curation/evaluation/integration and component/release/final-entry audits. No new source admission, protected merge, executor activation or full-program completion is claimed; percentage null.
+
+## Royal cohort11 full exact-source gate closed — 2026-10-20T08:48:29.372932+00:00
+
+Source `56dd3653c85d475ab85cdf891202d8e97531d729` / tree `23c73348bd59d7a231ffc85e0644884050732ae5`: all 9,239 remote paths and 37 changed streams, source 39394115696, NO_OP housekeeping 39394836833, final actual-source 39394885667, full source/final 385 tests with selection disabled/all five non-success categories zero, exact-source status and fresh 1,063 project/control paths verified. All seventeen model bodies, entering fifteen models, original reports, prior gates/errata, first bodies and historical scores/blanks/nulls remain exact. Claire and Rain each earn a scoped Tier3 model/monograph/index; no independent accuracy, native-human voice adequacy, capability grade or confidence gain. Eleven secondary model subjects, nine bounded profiles and one Nos Tier2 monograph-only subject retain different scopes. Full census, further earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors, designated curation/evaluation/integration and component/release/final-entry work continue; percentage null.
+
+
+## Preserved operation before Luna cohort12 — 2026-10-20T09:00:50.328496+00:00
+
+**Royal cohort11 has closed its full exact-source publication gate; the full KonoSuba program continues.** [Claire](05%20Specialist%20Synthesis/KONOSUBA_CLAIRE_CHARACTER_MONOGRAPH.md) and [Rain](05%20Specialist%20Synthesis/KONOSUBA_RAIN_CHARACTER_MONOGRAPH.md) have separate monographs, five-rule models and evidence indexes. [Receiving](09%20Audits%20and%20Manifests/KONOSUBA_ROYAL_COHORT_11_RECEIVING_AND_PROVENANCE.json) and the [exact-source gate](09%20Audits%20and%20Manifests/KONOSUBA_ROYAL_COHORT11_PUBLICATION_GATE_CLOSE.json) distinguish substantive receiving, publication and later capability evaluation.
+
+Source `56dd3653c85d475ab85cdf891202d8e97531d729` / tree `23c73348bd59d7a231ffc85e0644884050732ae5`: all 9,239 remote paths and 37 changed streams, source 39394115696, NO_OP housekeeping 39394836833, final actual-source 39394885667, full source/final 385 tests with selection disabled/all five non-success categories zero, exact-source status and fresh 1,063 project/control paths verified. All seventeen model bodies, entering fifteen models, original reports, prior gates/errata, first bodies and historical scores/blanks/nulls remain exact. Claire and Rain each earn a scoped Tier3 model/monograph/index; no independent accuracy, native-human voice adequacy, capability grade or confidence gain. Eleven secondary model subjects, nine bounded profiles and one Nos Tier2 monograph-only subject retain different scopes. Full census, further earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors, designated curation/evaluation/integration and component/release/final-entry work continue; percentage null.
+
+The shared [provenance](08%20Evidence%20and%20Indexes/KONOSUBA_CLAIRE_RAIN_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json) counts 3,285 known-source BASE context slots in eleven members/eight admitted objects once. Actors, reports, body controllers and later knowledge remain distinct. Seven same-author hypothetical first bodies preserve the invented council, generic/near-canonical rivals, designed cost contrast and unmatched primed compliance case. No new global unique-primary/full-source/ruby/image/admission/independent credit.
+
+The [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) and [coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) retain 168 nonfinal working records. Two rows receive gate closure;166 others and all earlier histories stay exact. Historical groups, episode alias and open discovery bucket are not a final population or tier denominator. Complete source/report/checkpoint and ten-ledger receiving retain their exact scopes. No protected merge, executor activation, new source admission or full-program completion is claimed.
+
+## Luna cohort12 substantive expansion — 2026-10-20T09:00:50.328496+00:00
+
+Luna has a separate monograph, four-rule provisional model and evidence index. Three actual same-author first bodies retain designed audience leverage, continued asking after refusal and unmatched hopeful appraisal; generic-role/company rivals, tidy English and unisolated mechanisms remain. One target row changes;167 others and all histories stay exact. Seventeen entering models protected, one new candidate makes eighteen after adoption. Full containing publication gate pending. No new global source/independent credit. Full census, further artifacts, expanded seven specialists/full-series synthesis, six separate StageD successors and designated curation/integration/component-release/final-entry work continue; percentage null.
+
+
+## Preserved Luna cohort12 operation before gate closure — 2026-10-20T09:17:45.612017+00:00
+
+**Luna cohort12 substantively receives a scoped Tier3 model candidate; its containing publication gate is pending.** Her [monograph](05%20Specialist%20Synthesis/KONOSUBA_LUNA_CHARACTER_MONOGRAPH.md), [four-rule model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_LUNA_RECONSTRUCTION_MODEL.md) and [evidence index](08%20Evidence%20and%20Indexes/KONOSUBA_LUNA_EVIDENCE_INDEX.md) preserve own work, finite means, ordinary wants, actual pressure and real withdrawal. Useful selection, gratitude and payment do not supply broad consent, repair or infallible judgment.
+
+The current [provenance](08%20Evidence%20and%20Indexes/KONOSUBA_LUNA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json) counts1033known-source BASEcontextslots in eight members/four admitted objects once. Vanir's narrator knowledge, Luna's own words, complaint and payment reports, DarkStalker narration and Assassin's mediated objection retain distinct planes. Three actual same-author internal first bodies preserve a designed audience contrast, continued asking after refusal and an unmatched hopeful plan. Generic official/company rivals, tidy English and unknown thresholds remain; no source/independent accuracy, Japanese adequacy, capability grade or confidence gain.
+
+The [royal gate](09%20Audits%20and%20Manifests/KONOSUBA_ROYAL_COHORT11_PUBLICATION_GATE_CLOSE.json) certifies published `56dd3653` and fresh1063project paths, controls and17models, not this later candidate. Eleven prior scoped model-subject gates, Nos Tier2 monograph and nine bounded profiles retain their scopes. One row changes;167 others and all earlier histories remain exact. One new model would make eighteen bodies after adoption.
+
+The [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retains168nonfinal working records; historical groups, episode alias and open discovery bucket are not a final population or tier denominator. Full source/report/checkpoint and ten-ledger receiving retain exact scopes. Continue all individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work. No new admission, protected merge, executor activation or full-program completion; percentage null.
+
+## Luna cohort12 full exact-source gate closed — 2026-10-20T09:17:45.612017+00:00
+
+Source `432b8fd18d0d4ad0047defc8d8a614ecfb2770f4` / tree `779d0f1f1d581c991aac25a0507c163f39b205cc`: all 9,250 remote paths and 30 changed streams, source 39398221230, NO_OP housekeeping 39398653037, final actual-source 39398706376, full source/final 385 tests with selection disabled/all five non-success categories zero, exact-source status and fresh 1,074 project/control paths verified. All eighteen model bodies, entering seventeen models, original reports, earlier gates/errata, first bodies and historical scores/blanks/nulls remain exact. Luna earns a scoped Tier3 four-rule model/monograph/index; no independent accuracy, native-human voice adequacy, capability grade or confidence gain. Twelve secondary model subjects, nine bounded profiles and one Nos Tier2 monograph-only subject retain different scopes. Full census, further earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors, designated curation/evaluation/integration and component/release/final-entry work continue; percentage null.
+
+
+## Preserved operation before Cecily/Zesta cohort13 — 2026-10-20T10:24:46.733311+00:00
+
+**Luna cohort12 has closed its full exact-source publication gate; the full KonoSuba program continues.** Her [monograph](05%20Specialist%20Synthesis/KONOSUBA_LUNA_CHARACTER_MONOGRAPH.md), [four-rule model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_LUNA_RECONSTRUCTION_MODEL.md) and [evidence index](08%20Evidence%20and%20Indexes/KONOSUBA_LUNA_EVIDENCE_INDEX.md) preserve useful work, own relief/company goals, actual social pressure and real boundary-respecting withdrawal. [Receiving](09%20Audits%20and%20Manifests/KONOSUBA_LUNA_COHORT_12_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_LUNA_COHORT12_PUBLICATION_GATE_CLOSE.json) distinguish semantic receiving, publication and capability evaluation.
+
+Source `432b8fd18d0d4ad0047defc8d8a614ecfb2770f4` / tree `779d0f1f1d581c991aac25a0507c163f39b205cc`: all 9,250 remote paths and 30 changed streams, source 39398221230, NO_OP housekeeping 39398653037, final actual-source 39398706376, full source/final 385 tests with selection disabled/all five non-success categories zero, exact-source status and fresh 1,074 project/control paths verified. All eighteen model bodies, entering seventeen models, original reports, earlier gates/errata, first bodies and historical scores/blanks/nulls remain exact. Luna earns a scoped Tier3 four-rule model/monograph/index; no independent accuracy, native-human voice adequacy, capability grade or confidence gain. Twelve secondary model subjects, nine bounded profiles and one Nos Tier2 monograph-only subject retain different scopes. Full census, further earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors, designated curation/evaluation/integration and component/release/final-entry work continue; percentage null.
+
+The current [provenance](08%20Evidence%20and%20Indexes/KONOSUBA_LUNA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json) counts 1,033 known-source BASE context slots/eight members/four objects once. Three same-author hypothetical first bodies retain designed audience leverage, continued asking after refusal, an unmatched hopeful plan, generic official/company rivals and tidy English. Hidden inaccessible intent is not an ignored knowable cue. No new global unique-primary/full-source/ruby/image/admission/independent credit.
+
+The [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) and [coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) retain 168 nonfinal records. One row receives gate closure;167 others and all prior histories stay exact. Historical groups, episode alias and open discovery bucket are not a final population or tier denominator. Complete source/report/checkpoint/ten-ledger receiving retains exact scopes. No protected merge, executor activation, new admission or full-program completion is claimed.
+
+## Cecily and Zesta cohort13 substantive receiving — 2026-10-20T10:24:46.733311+00:00
+
+Cecily and Zesta each receive a separate monograph, four-rule scoped model and event index. Eight actual same-author first bodies retain designed sensitivity/invariance, generic rivals, stage/style defects and continued pressure without repair, accuracy/Japanese/capability/confidence gain. Two Tier1 profiles receive Tristan and existing reporting priest142. Nineteen source-bound records extend168to187workingrecords, not final unique-person population; three old rows targeted,165others exact. Eighteen entering model bodies protected; two additions make20/fourteen secondary model subjects. Nos Tier2/nine prior profiles retained; two new profiles make eleven. Exact containing publication gate pending; full census/synthesis/six StageD successors/designated curation/evaluation/integration/release continue; percentage null.
+
+
+## Preserved cohort13 operation before gate closure — 2026-10-20T10:51:34.613595+00:00
+
+**Cecily and Zesta cohort13 receive separate scoped models; their containing publication gate is pending.** Each has a monograph, four-rule model and event index. [Shared provenance](08%20Evidence%20and%20Indexes/KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json) preserves3702knownBASEcontextslots/fifteenmembers/sevenobjects plus20known image-prose pages once. Useful work, power and particular care coexist with false appraisal, deception, coercion and unreliable protection; actor/access/action stages stay separate.
+
+Eight actual same-author hypothetical first bodies follow frozen contracts and retain generic rivals, weak discrimination, invariant Zesta departure, stage/style defects and continued pressure. No source/independent/Japanese/capability/confidence gain. [Two bounded clergy profiles](05%20Specialist%20Synthesis/KONOSUBA_COHORT13_BOUNDED_PROFILES.md) receive Tristan and existing reporting priest142; [nineteen source-bound returns](08%20Evidence%20and%20Indexes/KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md) bring working records to187, not a final population.
+
+The [Luna gate](09%20Audits%20and%20Manifests/KONOSUBA_LUNA_COHORT12_PUBLICATION_GATE_CLOSE.json) certifies432b8fd1/1074publishedprojectpaths/18models, not this later candidate. Eighteen entering bodies protected; two additions would make20models/fourteen scoped secondary model subjects. Nos Tier2 monograph and nine earlier profiles retain scopes; two more would make eleven. Three existing rows change;165others and all historical protections stay exact.
+
+Continue the full individual/event/alias/incidental census, further earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work. All41declared source programs retain their closed exact scopes. No new admission, protected merge, executor activation or full-program completion; percentage null.
+
+## Cecily and Zesta cohort13 full exact-source gate closed — 2026-10-20T10:51:34.613595+00:00
+
+Source `9904a30d88aadc00d8d5748a28e1bc1be3d43eef` / tree `4bcb52bf2402477741b47e8e1fa4a889217a095f`: all9,271remote paths and40changed streams exact; source 39409185153, NO_OP housekeeping 39409888446, final actual-source 39409943168; source/final385fulltests, selection disabled/all five non-success categories zero, exact-source status and fresh1,095project/control paths verified. Twenty current model bodies include eighteen unchanged entering models and two separate four-rule candidates. Eight source-known same-author first bodies retain generic rivals, weak discrimination, invariant action, stage/style defects and continued pressure without repair or independent/Japanese/capability/confidence gain. Two Tier1 clergy profiles and19qualifiedindividual/occurrence records retain source/identity limits;187workingrecords are not final people. Fourteen scoped secondary model subjects, eleven bounded profiles and Nos Tier2 retain separate scopes. Full census, further earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+
+## Preserved operation before clergy/merchant cohort14 — 2026-10-20T11:15:25.845559+00:00
+
+**Cecily and Zesta cohort13 has closed its full exact-source publication gate; the full KonoSuba program continues.** Separate [Cecily monograph](05%20Specialist%20Synthesis/KONOSUBA_CECILY_CHARACTER_MONOGRAPH.md)/[model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_CECILY_RECONSTRUCTION_MODEL.md) and [Zesta monograph](05%20Specialist%20Synthesis/KONOSUBA_ZESTA_CHARACTER_MONOGRAPH.md)/[model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_ZESTA_RECONSTRUCTION_MODEL.md) preserve wanted ordinary lives, useful skills, particular care, mistaken appraisal, deception and coercion. [Two clergy profiles](05%20Specialist%20Synthesis/KONOSUBA_COHORT13_BOUNDED_PROFILES.md), [individual returns](08%20Evidence%20and%20Indexes/KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_CECILY_ZESTA_COHORT_13_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_CECILY_ZESTA_COHORT13_PUBLICATION_GATE_CLOSE.json) own distinct scopes.
+
+Source `9904a30d88aadc00d8d5748a28e1bc1be3d43eef` / tree `4bcb52bf2402477741b47e8e1fa4a889217a095f`: all9,271remote paths and40changed streams exact; source 39409185153, NO_OP housekeeping 39409888446, final actual-source 39409943168; source/final385fulltests, selection disabled/all five non-success categories zero, exact-source status and fresh1,095project/control paths verified. Twenty current model bodies include eighteen unchanged entering models and two separate four-rule candidates. Eight source-known same-author first bodies retain generic rivals, weak discrimination, invariant action, stage/style defects and continued pressure without repair or independent/Japanese/capability/confidence gain. Two Tier1 clergy profiles and19qualifiedindividual/occurrence records retain source/identity limits;187workingrecords are not final people. Fourteen scoped secondary model subjects, eleven bounded profiles and Nos Tier2 retain separate scopes. Full census, further earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+The [provenance](08%20Evidence%20and%20Indexes/KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json) counts3702knownBASEcontextslots/fifteenmembers/sevenobjects plus20knownimage-prose pages once. Counts include others/blanks, not per-subject independent trials. Two private prebody indices retain original CRLF; disclosed publication derivatives change only line endings. Frozen models/inputs/firstbodies and prior histories remain exact.
+
+The [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) and [coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) retain187qualifiedsource-bound records, not final unique population or tiers. Four status rows receive closure;183others exact. Complete prior41source programs/report/checkpoint/ten-responsibility scopes remain. No protected merge, executor activation, new admission or full-program completion is claimed.
+
+## Four clergy and merchant bounded profiles — 2026-10-20T11:15:25.845559+00:00
+
+Four existing records170/171/172/177 receive separate bounded Tier1 profiles: returning Axis guide, distinct Axel/Arcanretia Eris priests and merchant chair. Exact earlier guide co-reference and actual kick versus unproved mob participation; refusal/Powered/defense; actual agreement, reported reward delivery and visible bag retain attribution/action stages.534knownBASEcontexts/ninemembers/fiveobjects are not new global/full/ruby/image/admission/independent credit. Four rows targeted,183others exact;187records not final population. Twenty model bodies/fourteen scoped secondary model subjects/Nos Tier2/eleven prior profiles exact; four current profiles would make fifteen. No new model/test/grade/confidence or fixed tier ceiling. Current Claire/Rain/Luna pending-status sentence corrected to their closed gates; historical chronology retained. Containing gate pending; full program/six separate StageD successors/designated ownership continue; percentage null.
+
+
+## Preserved cohort14 operation before gate closure — 2026-10-20T11:38:58.506493+00:00
+
+**Four clergy and merchant profiles are semantically received; the containing cohort14 publication gate is pending.** The returning Axis guide, separate Axel/Arcanretia Eris priests and merchant chair receive [bounded profiles](05%20Specialist%20Synthesis/KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES.md) with an [event index](08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md). The exact earlier guide co-reference, actual kick versus unproved mob participation, recipient denials, performed defensive spell and agreement/reward stages stay explicit.
+
+Two later packets have534knownBASEcontextslots/ninemembers/fiveobjects, including repetitions and adjacent actors. No new admission, globalunique/full/ruby/image/independent credit, model, scenario output, accuracy/confidence/capability grade or fixed tier ceiling. Twenty model bodies/fourteen scoped secondary model subjects and Nos Tier2 remain exact. Eleven earlier bounded profiles plus four candidates would make fifteen after adoption. Four existing census rows change;183others remain exact, and the working count stays187nonfinal records.
+
+The [Cecily/Zesta cohort13 gate](09%20Audits%20and%20Manifests/KONOSUBA_CECILY_ZESTA_COHORT13_PUBLICATION_GATE_CLOSE.json) certifies9904a30d/1095projectpaths/20models, not this later candidate. Full candidate review, preflight, normal publication, remote readback, source audit, housekeeping, final actual-source audit and fresh reload are still required for cohort14.
+
+Continue the full individual/event/alias/incidental reconciliation and earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work. All41declared source programs retain exact closed scopes; full program active and percentage null.
+
+## Clergy and merchant cohort14 full exact-source gate closed — 2026-10-20T11:38:58.506493+00:00
+
+Source `587fb9d0eea923c730c4e7e532dfc4929862e344` / tree `b673527a6ef11dd7f24dda060dcd8eb9f6ee7245`: all9,276remote paths and24changed streams exact; source 39414733032, NO_OP housekeeping 39415444499, final actual-source 39415509323; source/final385fulltests, selection disabled/all five non-success categories zero, exact-source status and fresh1,100project/control paths verified. Four bounded Tier1 profiles receive returning Axis guide, distinct Axel/Arcanretia Eris priests and merchant chair. Direct harm, refusal, actual defense, agreement and reported reward delivery/visible money retain actors and stages. Two known packets534BASEcontextslots/ninemembers/fiveobjects include repetitions and adjacent actors; zero new globalunique/full/ruby/image/admission/independent credit. Twenty model bodies/fourteen scoped secondary model subjects/Nos Tier2 stay exact; four profiles make fifteen. No new model/test/grade/confidence or fixed tier ceiling;187records are not final people. Full census/earned artifacts/seven expanded specialists/full-series/six separate StageD successors/designated curation/evaluation/integration/component-release/final entry continue; percentage null.
+
+
+## Cohort15 separate Leen, Keith and Taylor candidates — 2026-10-20T13:13:27.338436+00:00
+
+**Leen, Keith and Taylor have separate monographs and provisional conditional models; the containing cohort15 publication gate is pending.** Their event indices preserve individual agency, shared-event deduplication, source access, practical contributions, mistakes, coercion and partial repair: [Leen](08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith](08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor](08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md).
+
+Three new candidates add ten frozen rules and twelve actual source-known same-informed-author English first bodies with zero regeneration. Generic rivals, underidentification, unprobed branches, overcoherence and Leen practice-permission ambiguity remain. No pristine forecast, independent accuracy, source-validation/confidence gain, Japanese adequacy or capability grade. Earlier twenty model bodies are exact; the candidate would carry23models/seventeen scoped secondary subjects. Fifteen bounded profiles and Nos Tier2 remain unchanged. Relative to the verified post-cohort14 working census, rows14–16 receive new analytical dispositions and184other rows stay exact. Four earlier gate-closure status rows are also carried relative to published587fb9d0;187records remain nonfinal. Seven later packets2394knownBASEcontextslots/13members/7objects include repetitions/other actors/blanks, zero new globalunique/full/ruby/image/admission/independent credit.
+
+The [clergy/merchant cohort14 gate](09%20Audits%20and%20Manifests/KONOSUBA_CLERGY_MERCHANT_COHORT14_PUBLICATION_GATE_CLOSE.json) certifies587fb9d0/1100publishedprojectpaths/20models, with source39414733032, NO_OP housekeeping39415444499 and final39415509323,385fulltests in each audit. It does not certify this later candidate. Cohort15 still requires complete candidate review, author preflight, normal publication, full remote readback, source audit, housekeeping, final actual-source audit/status and fresh authority reload.
+
+Continue full individual/event/alias/incidental reconciliation and earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work. All41declared source programs retain exact closed scopes; full program active and percentage null. No protected merge, executor activation, new admission or designated global-output authorship.
+
+### Preserved preceding map operation
+
+**Four clergy and merchant profiles have closed their full exact-source cohort14 publication gate; the full KonoSuba program continues.** The returning Axis guide, distinct Axel/Arcanretia Eris priests and merchant chair now have [bounded profiles](05%20Specialist%20Synthesis/KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES.md), an [event index](08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md), [native provenance](08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_NATIVE_PROVENANCE_01.json), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_CLERGY_MERCHANT_COHORT_14_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_CLERGY_MERCHANT_COHORT14_PUBLICATION_GATE_CLOSE.json). Their source-bound individual agency and actual/claimed/unperformed stages stay explicit.
+
+Source `587fb9d0eea923c730c4e7e532dfc4929862e344` / tree `b673527a6ef11dd7f24dda060dcd8eb9f6ee7245`: all9,276remote paths and24changed streams exact; source 39414733032, NO_OP housekeeping 39415444499, final actual-source 39415509323; source/final385fulltests, selection disabled/all five non-success categories zero, exact-source status and fresh1,100project/control paths verified. Four bounded Tier1 profiles receive returning Axis guide, distinct Axel/Arcanretia Eris priests and merchant chair. Direct harm, refusal, actual defense, agreement and reported reward delivery/visible money retain actors and stages. Two known packets534BASEcontextslots/ninemembers/fiveobjects include repetitions and adjacent actors; zero new globalunique/full/ruby/image/admission/independent credit. Twenty model bodies/fourteen scoped secondary model subjects/Nos Tier2 stay exact; four profiles make fifteen. No new model/test/grade/confidence or fixed tier ceiling;187records are not final people. Full census/earned artifacts/seven expanded specialists/full-series/six separate StageD successors/designated curation/evaluation/integration/component-release/final entry continue; percentage null.
+
+The current [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) and [coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) retain187nonfinalrecords with four status rows changed and183others exact. Earlier41source/report programs and full ten-responsibility receiving retain exact qualified scopes. New local Leen/Keith/Taylor preparation follows its own receiving boundary; it cannot retrospectively validate this cohort. No protected merge, executor activation, new admission or full-program completion is claimed.
+
+
+## Preserved cohort15 operation before gate closure — 2026-10-20T13:47:53.507682+00:00
+
+**Leen, Keith and Taylor have separate monographs and provisional conditional models; the containing cohort15 publication gate is pending.** Their event indices preserve individual agency, shared-event deduplication, source access, practical contributions, mistakes, coercion and partial repair: [Leen](08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith](08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor](08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md).
+
+Three new candidates add ten frozen rules and twelve actual source-known same-informed-author English first bodies with zero regeneration. Generic rivals, underidentification, unprobed branches, overcoherence and Leen practice-permission ambiguity remain. No pristine forecast, independent accuracy, source-validation/confidence gain, Japanese adequacy or capability grade. Earlier twenty model bodies are exact; the candidate would carry23models/seventeen scoped secondary subjects. Fifteen bounded profiles and Nos Tier2 remain unchanged. Relative to the verified post-cohort14 working census, rows14–16 receive new analytical dispositions and184other rows stay exact. Four earlier gate-closure status rows are also carried relative to published587fb9d0;187records remain nonfinal. Seven later packets2394knownBASEcontextslots/13members/7objects include repetitions/other actors/blanks, zero new globalunique/full/ruby/image/admission/independent credit.
+
+The [clergy/merchant cohort14 gate](09%20Audits%20and%20Manifests/KONOSUBA_CLERGY_MERCHANT_COHORT14_PUBLICATION_GATE_CLOSE.json) certifies587fb9d0/1100publishedprojectpaths/20models, with source39414733032, NO_OP housekeeping39415444499 and final39415509323,385fulltests in each audit. It does not certify this later candidate. Cohort15 still requires complete candidate review, author preflight, normal publication, full remote readback, source audit, housekeeping, final actual-source audit/status and fresh authority reload.
+
+Continue full individual/event/alias/incidental reconciliation and earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work. All41declared source programs retain exact closed scopes; full program active and percentage null. No protected merge, executor activation, new admission or designated global-output authorship.
+
+## Leen, Keith and Taylor cohort15 full exact-source gate closed — 2026-10-20T13:47:53.507682+00:00
+
+Source `76851fae4b84b13b182e0112b17ccc5765bcd712` / tree `b4513500f6e87ce770a796e38dd19dc1d53235ab`: all9,300remote paths and43changed streams exact; source 39431008010, NO_OP housekeeping 39431926119, final actual-source 39431995144; both audits385fulltests, selection disabled/all five non-success categories zero, terminal reporters/exact-source status and fresh1,124project/control paths verified. Three distinct monographs and conditional models add ten rules and twelve actual source-known same-author English first bodies, zero regeneration. Generic rivals, underidentification, unprobed branches, overcoherence and Leen practice-permission ambiguity remain; publication checks are not independent behavioral accuracy, Japanese adequacy, capability grades or confidence gains. All23model bodies and original inputs/first bodies/assessments remain exact. Seventeen scoped secondary model subjects, fifteen bounded profiles and Nos Tier2 are scoped dispositions, not full census completion. Seven known preparation packets2394BASEcontextslots/13members/7objects include repetitions/other actors/blanks and supply zero new globalunique/full/ruby/image/admission/independent credit.187records remain nonfinal; full census, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+
+## Cohort16 separate Lolisa, Rionor and Feit artifacts — 2026-10-20T14:54:40.490143+00:00
+
+**Lolisa, Rionor and Feit have completed scoped semantic receiving; exact containing cohort16 publication remains pending.** Separate [Lolisa](08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md) and [Feit](08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md) indices route three substantial monographs and one new Lolisa conditional model. [Native provenance](08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_LOLISA_ROYAL_DRAGON_COHORT_16_RECEIVING_AND_PROVENANCE.json) retain exact exposure and chronology.
+
+The candidate adds three rules and four actual source-known same-author English first replies,zero regeneration. H01 shows a provenance-related answer contrast with generic fandom/reciprocity rivals. H02 retains pressure after refusal and essentially the same chair grip; no completed forced movement or interview is inferred. Most R02 and own-threat R03 claims remain unprobed; compound inputs and a minor input-format typo remain visible. No independent source prediction,accuracy,Japanese adequacy,grade or confidence gain. Rionor and Feit earn Tier2 monographs without automatic models or case batteries; future reconstruction remains open. Prior23models exact; candidate24model bodies/eighteen scoped secondary subjects/fifteen bounded profiles/three monograph-only subjects including Nos.
+
+Seven pre-case packets2902knownBASEcontextslots/18members/7acceptedobjects and a separately dated20Ppost-case precision check total2922contexts/19members. They include repetitions,other actors,blanks and reports,with zero new globalunique/full/ruby/image/admission/independent credit. The post-case check is not backdated validation. Only existing census rows17-19 change analytically relative to verified post-C15current authority;184others exact. Three preceding C15gate-status rows are carried relative to published76851fae,so six rows differ from that parent and181others remain exact.187records are not a final unique population.
+
+Entering published source76851fae4b84b13b182e0112b17ccc5765bcd712/treeb4513500f6e87ce770a796e38dd19dc1d53235ab retains its [full C15gate](09%20Audits%20and%20Manifests/KONOSUBA_LEEN_PARTY_COHORT15_PUBLICATION_GATE_CLOSE.json): all9300paths/43changedstreams,source39431008010,NO_OPhousekeeping39431926119,final39431995144,both385fulltests and fresh1124projectpaths. That gate certifies its source,not this later candidate. C16still requires complete candidate review/preflight,normal push/full remote readback,source-housekeeping-final actual-source terminal reports/status and fresh authority reload. Full census,seven expanded specialists,extended/full-series synthesis,six separate StageDsuccessors,designated curation/evaluation/integration/component-release/final-entry remain unfinished; percentage null. No protected merge,executor activation,new admission or designated global-output authorship.
+
+### Preserved preceding map operation
+
+**Leen, Keith and Taylor have closed their full exact-source cohort15 publication gate; the full KonoSuba program continues.** Their distinct monographs, conditional models and event access are routed through [Leen](08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith](08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor](08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md), [provenance](08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_PARTY_NATIVE_PROVENANCE_01.json), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_LEEN_PARTY_COHORT_15_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_LEEN_PARTY_COHORT15_PUBLICATION_GATE_CLOSE.json).
+
+Source `76851fae4b84b13b182e0112b17ccc5765bcd712` / tree `b4513500f6e87ce770a796e38dd19dc1d53235ab`: all9,300remote paths and43changed streams exact; source 39431008010, NO_OP housekeeping 39431926119, final actual-source 39431995144; both audits385fulltests, selection disabled/all five non-success categories zero, terminal reporters/exact-source status and fresh1,124project/control paths verified. Three distinct monographs and conditional models add ten rules and twelve actual source-known same-author English first bodies, zero regeneration. Generic rivals, underidentification, unprobed branches, overcoherence and Leen practice-permission ambiguity remain; publication checks are not independent behavioral accuracy, Japanese adequacy, capability grades or confidence gains. All23model bodies and original inputs/first bodies/assessments remain exact. Seventeen scoped secondary model subjects, fifteen bounded profiles and Nos Tier2 are scoped dispositions, not full census completion. Seven known preparation packets2394BASEcontextslots/13members/7objects include repetitions/other actors/blanks and supply zero new globalunique/full/ruby/image/admission/independent credit.187records remain nonfinal; full census, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+The census/coverage receive three gate-status rows relative to published76851fae, with184others exact. The earlier four cohort14 status rows were already carried in76851fae. New private Lolisa/Rionor/Feit preparation is separately receipted and cannot retrospectively validate this cohort. No protected merge, executor activation, new admission, designated global-output authorship or full-program completion is claimed.
+
+
+## Preserved cohort16 operation before gate closure — 2026-10-20T15:27:39.206585+00:00
+
+**Lolisa, Rionor and Feit have completed scoped semantic receiving; exact containing cohort16 publication remains pending.** Separate [Lolisa](08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md) and [Feit](08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md) indices route three substantial monographs and one new Lolisa conditional model. [Native provenance](08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_LOLISA_ROYAL_DRAGON_COHORT_16_RECEIVING_AND_PROVENANCE.json) retain exact exposure and chronology.
+
+The candidate adds three rules and four actual source-known same-author English first replies,zero regeneration. H01 shows a provenance-related answer contrast with generic fandom/reciprocity rivals. H02 retains pressure after refusal and essentially the same chair grip; no completed forced movement or interview is inferred. Most R02 and own-threat R03 claims remain unprobed; compound inputs and a minor input-format typo remain visible. No independent source prediction,accuracy,Japanese adequacy,grade or confidence gain. Rionor and Feit earn Tier2 monographs without automatic models or case batteries; future reconstruction remains open. Prior23models exact; candidate24model bodies/eighteen scoped secondary subjects/fifteen bounded profiles/three monograph-only subjects including Nos.
+
+Seven pre-case packets2902knownBASEcontextslots/18members/7acceptedobjects and a separately dated20Ppost-case precision check total2922contexts/19members. They include repetitions,other actors,blanks and reports,with zero new globalunique/full/ruby/image/admission/independent credit. The post-case check is not backdated validation. Only existing census rows17-19 change analytically relative to verified post-C15current authority;184others exact. Three preceding C15gate-status rows are carried relative to published76851fae,so six rows differ from that parent and181others remain exact.187records are not a final unique population.
+
+Entering published source76851fae4b84b13b182e0112b17ccc5765bcd712/treeb4513500f6e87ce770a796e38dd19dc1d53235ab retains its [full C15gate](09%20Audits%20and%20Manifests/KONOSUBA_LEEN_PARTY_COHORT15_PUBLICATION_GATE_CLOSE.json): all9300paths/43changedstreams,source39431008010,NO_OPhousekeeping39431926119,final39431995144,both385fulltests and fresh1124projectpaths. That gate certifies its source,not this later candidate. C16still requires complete candidate review/preflight,normal push/full remote readback,source-housekeeping-final actual-source terminal reports/status and fresh authority reload. Full census,seven expanded specialists,extended/full-series synthesis,six separate StageDsuccessors,designated curation/evaluation/integration/component-release/final-entry remain unfinished; percentage null. No protected merge,executor activation,new admission or designated global-output authorship.
+
+## Lolisa, Rionor and Feit cohort16 full exact-source gate closed — 2026-10-20T15:27:39.206585+00:00
+
+Source `5ec165a0b9a209ad3d8781e751a3feb4064484e7` / tree `7e0431ff118502689b4e3f2bab0d4901b8c06975`: all 9,314 remote paths and 33 changed streams match. Source audit 39445400476, NO_OP housekeeping 39446324144 and final actual-source audit 39446399201 are verified. Both audits ran 385 full tests with selection disabled and all five non-success categories zero; terminal reporters and exact-source status passed. Fresh 1,138 project paths,12 governing controls and all 24 model bodies match the published source. Three individual monographs add one Lolisa conditional model/three rules and four actual source-known same-author English first replies,zero regeneration. Rionor and Feit retain Tier2 monograph scope with future reconstruction open. Generic rivals,partial rule coverage,compound inputs and the same chair grip/pressure after refusal remain; no completed movement or interview inferred. Publication checks add no independent behavioral accuracy,Japanese adequacy,grade or confidence gain. Seven pre-case known packets contain 2,902 BASE context slots/eighteen members/seven objects; the separately dated post-case 20P precision check brings known context to 2,922/nineteen members,with no backdated validation. Other actors,blanks,reports and prior qualified contexts are included,not new global unique/full/ruby/image/admission/independent coverage. Eighteen scoped secondary model subjects,fifteen bounded profiles and Nos/Rionor/Feit Tier2 monographs are scoped dispositions;187records remain nonfinal. Full census,seven expanded specialists,extended/full-series synthesis,six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+
+## Cohort17 separate Wolbach and Chomusuke artifacts — 2026-10-20T16:09:06.702226+00:00
+
+**Wolbach and Chomusuke have completed scoped semantic receiving; exact containing cohort17 publication remains pending.** Separate [Wolbach](08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices route two substantial monographs and one Wolbach conditional model. [Native provenance](08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_WOLBACH_CHOMUSUKE_COHORT_17_RECEIVING_AND_PROVENANCE.json) retain exact scope/chronology.
+
+Four provisional rules precede four exact all-adult English hypothetical inputs,then four actual first saved bodies and internal assessment,zero regeneration/repair. Same informed author anticipated directions and response ideas. H01different means share intended delivery; H02goal-purpose cues strongly drive refusal/cooperation and B adds an unvoiced blanket-favor obligation argument. Generic rivals remain; R03/R04largelyunprobed. No independent source prediction,accuracy,Japanese adequacy,grade or confidence gain. Chomusuke earns Tier2 monograph/index without automatic model/cases; future Tier3open. Prior24models exact; candidate25model bodies/nineteen scoped secondary subjects/fifteen bounded profiles/four monograph-only subjects Nos/Rionor/Feit/Chomusuke.
+
+Current union3093knownBASEcontextslots/twenty text members/seven accepted native objects plus eight separately inspected known EXP03 integral prose images with visible ruby includes collateral actors,blanks/reports/hypotheses and is not global coverage or independent decisions. Only rows20-21 change analytically relative current,185others exact. Three C16closure rows17-19 are carried relative published5ec165a0,so five rows differ from that parent and182others remain exact.187records are not a final population; private historical-only fields are not wholesale imported into canonical records.
+
+Entering source5ec165a0b9a209ad3d8781e751a3feb4064484e7/tree7e0431ff118502689b4e3f2bab0d4901b8c06975 retains its [full C16gate](09%20Audits%20and%20Manifests/KONOSUBA_LOLISA_ROYAL_DRAGON_COHORT16_PUBLICATION_GATE_CLOSE.json): all9314paths/33changedstreams,source39445400476,NO_OPhousekeeping39446324144,final39446399201,both385fulltests and fresh1138projectpaths. That gate certifies its source,not this candidate. C17requires full diff review/preflight,normal push/remote readback,source-housekeeping-final actual-source reports/status and fresh reload. Full census,seven expanded specialists,extended/full-series synthesis,six separate StageDsuccessors,designated curation/evaluation/integration/component-release/final-entry remain unfinished; percentage null. No protected merge,executor activation,new admission or global-output authorship.
+
+### Preserved preceding map operation
+
+**Lolisa, Rionor and Feit have closed their full exact-source cohort16 publication gate; the full KonoSuba program continues.** Their distinct [Lolisa](08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md) and [Feit](08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md) indices route three monographs and one new model. [Provenance](08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json),[receiving](09%20Audits%20and%20Manifests/KONOSUBA_LOLISA_ROYAL_DRAGON_COHORT_16_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_LOLISA_ROYAL_DRAGON_COHORT16_PUBLICATION_GATE_CLOSE.json) retain scope and exposure.
+
+Source `5ec165a0b9a209ad3d8781e751a3feb4064484e7` / tree `7e0431ff118502689b4e3f2bab0d4901b8c06975`: all 9,314 remote paths and 33 changed streams match. Source audit 39445400476, NO_OP housekeeping 39446324144 and final actual-source audit 39446399201 are verified. Both audits ran 385 full tests with selection disabled and all five non-success categories zero; terminal reporters and exact-source status passed. Fresh 1,138 project paths,12 governing controls and all 24 model bodies match the published source. Three individual monographs add one Lolisa conditional model/three rules and four actual source-known same-author English first replies,zero regeneration. Rionor and Feit retain Tier2 monograph scope with future reconstruction open. Generic rivals,partial rule coverage,compound inputs and the same chair grip/pressure after refusal remain; no completed movement or interview inferred. Publication checks add no independent behavioral accuracy,Japanese adequacy,grade or confidence gain. Seven pre-case known packets contain 2,902 BASE context slots/eighteen members/seven objects; the separately dated post-case 20P precision check brings known context to 2,922/nineteen members,with no backdated validation. Other actors,blanks,reports and prior qualified contexts are included,not new global unique/full/ruby/image/admission/independent coverage. Eighteen scoped secondary model subjects,fifteen bounded profiles and Nos/Rionor/Feit Tier2 monographs are scoped dispositions;187records remain nonfinal. Full census,seven expanded specialists,extended/full-series synthesis,six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+Three gate-status rows change relative to published5ec165a0,with184others exact. Earlier C15closure rows were already carried in that source. Separately receipted private Wolbach/Chomusuke source preparation cannot retrospectively validate C16. No protected merge,executor activation,new admission,designated global-output authorship or full-program completion is claimed.
+
+
+## Wolbach and Chomusuke cohort17 full exact-source gate closed — 2026-10-20T16:39:44.082658+00:00
+
+Source `3ed7a3e59383fc701f72073619ec8a7b5d6c16f2` / tree `995baa89ee644239afa783e887d7cea75d1ed247`: all 9,326 remote paths and 31 changed streams match. Source audit 39456715375, NO_OP housekeeping 39457421618 and final actual-source audit 39457492287 are verified. Both audits ran 385 full tests with selection disabled and all five non-success categories zero; terminal reporters and exact-source status passed. Fresh 1,150 project paths,12 governing controls and all 25 model bodies match the published source. Two substantial individual monographs add one four-rule Wolbach conditional model and four actual same-author source-known English first saved bodies,zero regeneration/repair. Chomusuke retains Tier2 monograph-only scope with future modeling open. H01explicit arm cue changes means/shared intended delivery; H02purpose/value cues strongly drive cooperation/refusal and B adds an unvoiced blanket-favor obligation argument. Generic rivals and largely unprobed R03/R04 remain; no completed whole task,bus journey or later conversation inferred. Publication checks add no independent behavioral accuracy,Japanese adequacy,grade or confidence gain. Six known text receipts bind 3,093 BASE context slots/twenty members/seven native objects plus eight separately inspected known EXP03 integral prose images with visible ruby. Collateral actors,blanks,reports and hypotheses are included,not new admission/global coverage/full-principal/ruby passes or independent decisions. Nineteen scoped secondary model subjects,fifteen bounded profiles and four monograph-only subjects Nos/Rionor/Feit/Chomusuke retain distinct maturity limits;187records remain nonfinal. Full census,seven expanded specialists,extended/full-series synthesis,six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+
+## Cohort18 separate Sena and Arnes artifacts — 2026-10-20T17:16:34.203945+00:00
+
+**Sena and Arnes have completed scoped semantic receiving; exact containing cohort18 publication remains pending.** Separate [Sena](08%20Evidence%20and%20Indexes/KONOSUBA_SENA_EVIDENCE_INDEX.md) and [Arnes](08%20Evidence%20and%20Indexes/KONOSUBA_ARNES_EVIDENCE_INDEX.md) indices route two substantial monographs and two provisional conditional models. [Native provenance](08%20Evidence%20and%20Indexes/KONOSUBA_SENA_ARNES_NATIVE_PROVENANCE_01.json) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_SENA_ARNES_COHORT_18_RECEIVING_AND_PROVENANCE.json) retain exact scope and freeze order.
+
+Three Sena/four Arnes rules precede eight exact all-adult English hypothetical inputs,then eight actual first saved root-authored bodies and internal assessments,zero regeneration/repair. Same informed author anticipated broad directions and response ideas. Strong contradiction/commitment/current-preference/information cues support generic rivals. Sena’s unprovided note/furniture and time ambiguity remain; Arnes’s uncued influence/extra-errand anticipation/broad silence remain,and both capability outputs grant two minutes/tap the schedule. Unprobed mechanisms remain open. No independent source prediction,accuracy,Japanese adequacy,grade or confidence gain. Prior25models exact; candidate27models/twenty-one scoped secondary subjects/fifteen bounded profiles/four monograph-only subjects Nos,Rionor,Feit,Chomusuke.
+
+Shared3,275knownBASEcontextslots/fifteen members/four accepted native objects include collateral,blanks,reports and hypotheses,not global coverage or independent decisions. No new image/full-ruby/source admission. Only rows22/50 change analytically relative current,185others exact. Two C17closure rows20/21 carry relative published3ed7a3e5,so four rows differ from that parent,183others exact.187records are not final people; private historical-only fields are not wholesale imported.
+
+Entering source3ed7a3e59383fc701f72073619ec8a7b5d6c16f2/tree995baa89ee644239afa783e887d7cea75d1ed247 retains its [full C17gate](09%20Audits%20and%20Manifests/KONOSUBA_WOLBACH_CHOMUSUKE_COHORT17_PUBLICATION_GATE_CLOSE.json): all9,326paths/31changedstreams,source39456715375,NO_OPhousekeeping39457421618,final39457492287,both385fulltests and fresh1,150projectpaths. It certifies that source,not this candidate. C18requires complete diff review/preflight,normal push/whole remote tree and changed bytes,source-housekeeping-final actual-source reports/status and fresh reload. Full census,seven expanded specialists,extended/full-series synthesis,six separate StageDsuccessors,designated curation/evaluation/integration/component-release/final-entry remain active; percentage null. No protected merge,executor activation,new admission or global-output authorship.
+
+### Preserved preceding map operation
+
+**Wolbach and Chomusuke have closed their full exact-source cohort17 publication gate; the full KonoSuba program continues.** Their separate [Wolbach](08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices route two monographs and one conditional model. [Provenance](08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json),[receiving](09%20Audits%20and%20Manifests/KONOSUBA_WOLBACH_CHOMUSUKE_COHORT_17_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_WOLBACH_CHOMUSUKE_COHORT17_PUBLICATION_GATE_CLOSE.json) retain exact scope and exposure.
+
+Source `3ed7a3e59383fc701f72073619ec8a7b5d6c16f2` / tree `995baa89ee644239afa783e887d7cea75d1ed247`: all 9,326 remote paths and 31 changed streams match. Source audit 39456715375, NO_OP housekeeping 39457421618 and final actual-source audit 39457492287 are verified. Both audits ran 385 full tests with selection disabled and all five non-success categories zero; terminal reporters and exact-source status passed. Fresh 1,150 project paths,12 governing controls and all 25 model bodies match the published source. Two substantial individual monographs add one four-rule Wolbach conditional model and four actual same-author source-known English first saved bodies,zero regeneration/repair. Chomusuke retains Tier2 monograph-only scope with future modeling open. H01explicit arm cue changes means/shared intended delivery; H02purpose/value cues strongly drive cooperation/refusal and B adds an unvoiced blanket-favor obligation argument. Generic rivals and largely unprobed R03/R04 remain; no completed whole task,bus journey or later conversation inferred. Publication checks add no independent behavioral accuracy,Japanese adequacy,grade or confidence gain. Six known text receipts bind 3,093 BASE context slots/twenty members/seven native objects plus eight separately inspected known EXP03 integral prose images with visible ruby. Collateral actors,blanks,reports and hypotheses are included,not new admission/global coverage/full-principal/ruby passes or independent decisions. Nineteen scoped secondary model subjects,fifteen bounded profiles and four monograph-only subjects Nos/Rionor/Feit/Chomusuke retain distinct maturity limits;187records remain nonfinal. Full census,seven expanded specialists,extended/full-series synthesis,six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+Two gate-status rows change relative published3ed7a3e5,with185others exact. Earlier C16closure rows were already carried in that source. No protected merge,executor activation,new admission,designated global-output authorship or full-program completion is claimed.
+
+
+## Sena and Arnes cohort18 full exact-source gate closed — 2026-10-20T17:44:03.663249+00:00
+
+Source `5e001f0e5c97f994f9bce98707e2566026b74a33` / tree `a035ffafe045b633560c4a33b36d2f3691fbac47`: all9,343remote paths and36changed streams match. Source audit39465831329,NO_OPhousekeeping39466847043 and final actual-source audit39466913288 are verified. Both audits ran385full tests with selection disabled and all five non-success categories zero; terminal reporters and latest exact-source status passed. Fresh1,167project paths,12governing controls and all27model bodies match the published source. Separate substantial Sena/Arnes monographs add provisional three-rule/four-rule models and eight actual same-informed-author English first saved bodies,zero regeneration/repair. Sena’s strongly cued contradiction/commitment contrasts retain unprovided note/table/book and temporal ambiguity. Arnes’s explicitly cued current-preference/context contrasts retain an uncued influence suspicion,extra-errand anticipation and overstated silence; both capability versions grant two minutes/tap the schedule. Generic rivals and unprobed mechanisms remain; no completed recipient consent,staffed shift,return or presentation inferred. Six known text receipts bind3,275BASEcontextslots/fifteen members/four local native objects including collateral,blanks,reports and hypotheses,not new image/full-ruby/whole-source/admission/globalcoverage or independent decisions. Publication checks add no independent accuracy,Japanese adequacy,grade or confidence gain. Twenty-one scoped secondary model subjects,fifteen bounded profiles and four monograph-only Nos,Rionor,Feit,Chomusuke retain distinct maturity limits.187records remain nonfinal; full census,seven expanded specialists,extended/full-series synthesis,six separate StageDsuccessors and designated curation/evaluation/integration/component-release/final-entry work remain active; percentage null.
+
+
+## Cohort19 Rex and separate companion profiles — 2026-10-20T18:04:44.598318+00:00
+
+**Rex, Sophie and Terry completed scoped semantic receiving; exact cohort19 publication remains pending and the full KonoSuba program continues.** The [crew index](08%20Evidence%20and%20Indexes/KONOSUBA_REX_SOPHIE_TERRY_EVIDENCE_INDEX.md) routes a separate twelve-dimension Rex monograph/provisional three-rule model and individual Sophie/Terry bounded profiles. [Provenance](08%20Evidence%20and%20Indexes/KONOSUBA_REX_SOPHIE_TERRY_NATIVE_PROVENANCE_01.json) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT_19_RECEIVING_AND_PROVENANCE.json) retain exact source,freeze and authorship scopes.
+
+Rex keeps selective ability judgment,partial corrections,actual team work and finite bodily readiness alongside ambition,pressure and a later role-sensitive invitation. Sophie’s correction/risk argument/spear support and Terry’s information/transport/interception remain their own; each profile is revisable without an automatic model or fixed ceiling. Four actual same-informed-author English first saved bodies/two controlled modern pairs have zero regeneration/repair. H01 changes evidential access but shares a help endpoint;H02 uses explicit refusal/role-fit cues and does not perform departure inA. Unasked capability challenge,blame shift,unprovided look/plan location/prior knowledge and largely unprobed RX-R02 remain. Generic rivals are strong; no independent accuracy,Japanese adequacy,grade or confidence gain. Five actual native receipts bind1,556 distinct known BASE context slots/six members/two native objects including other actors,blanks,reports and hypotheses,not new ruby/image/whole-source/admission/globalcoverage or independent decisions. Current candidate 28 model bodies/twenty-two secondary model subjects/seventeen bounded profiles/four monograph-only Nos,Rionor,Feit,Chomusuke retain different responsibilities. Prior 27 models and all frozen history remain intact.
+
+The preceding cohort18 source `5e001f0e5c97f994f9bce98707e2566026b74a33` closed its source audit 39465831329, NO_OP housekeeping 39466847043 and final audit 39466913288 gate. Both audits passed 385 full tests; 9,343 whole-tree paths, 36 changed streams, 1,167 fresh project paths and 27 models were verified. Cohort19 still requires complete candidate review, index preflight, normal push, whole remote tree/changed bytes, terminal source/HK/final reports/reporters/status and fresh published reload. Only analytical rows 51/52/53 change relative current, 184 others exact; carried C18 closure rows 22/50 make five differ from the parent, 182 others exact. The 187 records remain nonfinal. The full census, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work remain active; percentage null. No protected merge, executor activation, new admission or designated global-output authorship is claimed.
+
+### Preserved preceding map operation
+
+**Sena and Arnes have closed their full exact-source cohort18 publication gate; the full KonoSuba program continues.** Separate [Sena](08%20Evidence%20and%20Indexes/KONOSUBA_SENA_EVIDENCE_INDEX.md) and [Arnes](08%20Evidence%20and%20Indexes/KONOSUBA_ARNES_EVIDENCE_INDEX.md) indices route their substantial monographs and provisional models. [Provenance](08%20Evidence%20and%20Indexes/KONOSUBA_SENA_ARNES_NATIVE_PROVENANCE_01.json),[receiving](09%20Audits%20and%20Manifests/KONOSUBA_SENA_ARNES_COHORT_18_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_SENA_ARNES_COHORT18_PUBLICATION_GATE_CLOSE.json) retain exact scopes and exposure.
+
+Source `5e001f0e5c97f994f9bce98707e2566026b74a33` / tree `a035ffafe045b633560c4a33b36d2f3691fbac47`: all9,343remote paths and36changed streams match. Source audit39465831329,NO_OPhousekeeping39466847043 and final actual-source audit39466913288 are verified. Both audits ran385full tests with selection disabled and all five non-success categories zero; terminal reporters and latest exact-source status passed. Fresh1,167project paths,12governing controls and all27model bodies match the published source. Separate substantial Sena/Arnes monographs add provisional three-rule/four-rule models and eight actual same-informed-author English first saved bodies,zero regeneration/repair. Sena’s strongly cued contradiction/commitment contrasts retain unprovided note/table/book and temporal ambiguity. Arnes’s explicitly cued current-preference/context contrasts retain an uncued influence suspicion,extra-errand anticipation and overstated silence; both capability versions grant two minutes/tap the schedule. Generic rivals and unprobed mechanisms remain; no completed recipient consent,staffed shift,return or presentation inferred. Six known text receipts bind3,275BASEcontextslots/fifteen members/four local native objects including collateral,blanks,reports and hypotheses,not new image/full-ruby/whole-source/admission/globalcoverage or independent decisions. Publication checks add no independent accuracy,Japanese adequacy,grade or confidence gain. Twenty-one scoped secondary model subjects,fifteen bounded profiles and four monograph-only Nos,Rionor,Feit,Chomusuke retain distinct maturity limits.187records remain nonfinal; full census,seven expanded specialists,extended/full-series synthesis,six separate StageDsuccessors and designated curation/evaluation/integration/component-release/final-entry work remain active; percentage null.
+
+Two gate-status rows22/50change relative published5e001f0e,185others exact; earlier C17closure is already in that source. No protected merge,executor activation,new admission,designated global-output authorship or full-program completion is claimed.
+
+
+## Rex and separate Sophie/Terry profiles cohort19 full gate closed — 2026-10-20T18:29:43.118489+00:00
+
+Source `fdd72d658e75bf527f9b564118a39edaf5809caa` / tree `7902e3e007f7f74119ea99259097096b031a5ee9`: all 9,354 remote paths and 30 changed streams matched. Source audit 39473086304, NO_OP housekeeping 39473978223 and final actual-source audit 39474051339 are verified. Both audits passed 385 full tests with selection disabled and all five non-success categories zero; terminal isolated reporters and latest exact-source status passed. Fresh 1,178 project paths, 12 governing controls and all 28 model bodies match the published source. Rex adds a substantial twelve-dimension monograph and provisional three-rule model; Sophie and Terry have separate revisable Tier1 profiles. Four actual same-informed-author English first saved bodies have zero regeneration or repair. Explicit evidence/refusal/role-fit cues leave strong generic rivals; unasked capability challenge/blame shift, unprovided reaction/plan location/prior knowledge, a shared help endpoint and largely unprobed RX-R02 remain. H02A has verbal leave-taking, no performed departure. Five actual native receipts bind 1,556 distinct known BASE context slots in six members/two objects, including other actors, blanks, reports and hypotheses. They give no fresh full-source, ruby/image, admission, global coverage or independent decision credit. Publication checks add no independent accuracy, Japanese adequacy, grade or confidence gain. Twenty-two scoped secondary model subjects, seventeen bounded profiles and four monograph-only subjects (Nos, Rionor, Feit, Chomusuke) retain distinct responsibilities. The 187 records remain nonfinal. Full census, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work remain active; percentage null.
+
+
+## Cohort20 separate village-peer artifacts and attributed correction — 2026-10-20T19:11:37.518747+00:00
+
+**Funifura and Dodonko have separate Tier2 monographs; Nerimaki has a Tier1 profile with an explicit Arue writer-attribution correction. Cohort20 semantic receiving is complete; containing publication remains pending.** The [individual index](08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md), [native provenance](08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_NATIVE_PROVENANCE_01.json) and [receiving record](09%20Audits%20and%20Manifests/KONOSUBA_VILLAGE_PEERS_COHORT_20_RECEIVING_AND_PROVENANCE.json) preserve each responsibility. No new model, rule, scenario input, first body or test is added; the prior 28 model bodies remain exact. Generic peer/status/family incentives, group speech and private-reasoning gaps leave future modeling open without a fixed ceiling. Earlier writer wording remains recoverable history; MAIN14 C3 writer/publication/pay belongs to Arue, while C1 selfname/service/imagination belongs to Nerimaki.
+
+Nine actual receiving receipts bind 2,535 unique known BASE context slots/fifteen members/eight native objects plus one actual afterword-image recheck. Other actors, blanks, reports, hypotheses and collateral costs remain included; neither the union nor 42 retrieval rows are independent decisions. No fresh whole-source/ruby/residual/image-set/admission/accuracy/grade/confidence gain is claimed. Three existing analytical rows 48/49/85 change relative current; 184 other existing records remain exact. Three Tier0 family/operator occurrences bring the nonfinal register to 190, not 190 proven distinct people. Carried C19 closure rows 51/52/53 make six existing rows differ from published fdd72d65, 181 others exact. Candidate totals remain 28 model bodies/twenty-two scoped secondary model subjects, eighteen bounded profiles and six monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko).
+
+The preceding Rex/Sophie/Terry source fdd72d658e75bf527f9b564118a39edaf5809caa/tree7902e3e007f7f74119ea99259097096b031a5ee9 closed source audit 39473086304, NO_OP housekeeping 39473978223 and final 39474051339, both audits 385 full tests; its postgate record is carried intact. Full individual/event/alias/incidental census, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors, designated curation/evaluation/integration/component-release/final-entry work remain active. Percentage null. No protected merge, executor activation or designated global-output authorship is claimed.
+
+### Preserved preceding map operation
+
+**Rex, Sophie and Terry have closed their full exact-source cohort19 publication gate; the full KonoSuba program continues.** The [crew index](08%20Evidence%20and%20Indexes/KONOSUBA_REX_SOPHIE_TERRY_EVIDENCE_INDEX.md) routes Rex’s monograph/provisional model and the separate Sophie/Terry profiles. [Provenance](08%20Evidence%20and%20Indexes/KONOSUBA_REX_SOPHIE_TERRY_NATIVE_PROVENANCE_01.json), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT_19_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT19_PUBLICATION_GATE_CLOSE.json) retain exact scopes and exposure.
+
+Source `fdd72d658e75bf527f9b564118a39edaf5809caa` / tree `7902e3e007f7f74119ea99259097096b031a5ee9`: all 9,354 remote paths and 30 changed streams matched. Source audit 39473086304, NO_OP housekeeping 39473978223 and final actual-source audit 39474051339 are verified. Both audits passed 385 full tests with selection disabled and all five non-success categories zero; terminal isolated reporters and latest exact-source status passed. Fresh 1,178 project paths, 12 governing controls and all 28 model bodies match the published source. Rex adds a substantial twelve-dimension monograph and provisional three-rule model; Sophie and Terry have separate revisable Tier1 profiles. Four actual same-informed-author English first saved bodies have zero regeneration or repair. Explicit evidence/refusal/role-fit cues leave strong generic rivals; unasked capability challenge/blame shift, unprovided reaction/plan location/prior knowledge, a shared help endpoint and largely unprobed RX-R02 remain. H02A has verbal leave-taking, no performed departure. Five actual native receipts bind 1,556 distinct known BASE context slots in six members/two objects, including other actors, blanks, reports and hypotheses. They give no fresh full-source, ruby/image, admission, global coverage or independent decision credit. Publication checks add no independent accuracy, Japanese adequacy, grade or confidence gain. Twenty-two scoped secondary model subjects, seventeen bounded profiles and four monograph-only subjects (Nos, Rionor, Feit, Chomusuke) retain distinct responsibilities. The 187 records remain nonfinal. Full census, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work remain active; percentage null.
+
+Three gate-status rows51/52/53 change relative published fdd72d65,184 others exact; C18closure is already in that source. No protected merge,executor activation,new admission,designated global-output authorship or full-program completion is claimed.
+
+
+## Separate village-peer artifacts cohort20 full gate closed — 2026-10-20T19:40:05.958093+00:00
+
+Source `9449d4288becc31754e064ea8436a5c09145738a` / tree `a196360b13fe2709ce9aa2dd50c73d22f6ca2a3a`: all 9,361 remote paths and 26 changed streams matched. Source audit 39482808547, NO_OP housekeeping 39483693612 and final actual-source audit 39483754414 are verified. Both audits passed 385 full tests with selection disabled and all five non-success categories zero; terminal isolated reporters and latest exact-source status passed. Fresh 1,185 project paths, 12 governing controls and all 28 model bodies match the published source. Funifura and Dodonko have separate revisable Tier2 monographs; Nerimaki has a Tier1 profile with an explicit correction assigning writer/publication/pay material to named Arue. The exact old attribution remains recoverable. Generic peer/status/family incentives, collective dialogue and private-reasoning gaps leave future models open without a fixed ceiling. No new reconstruction, rule, scenario input, first body or test was added. Nine actual receipts bind 2,535 unique known BASE context slots in fifteen members/eight objects plus one actual afterword-image recheck, including blanks, other actors, reports and hypotheses. The 42 index rows are retrieval units, not independent decisions. No new whole-source/ruby/residual/image-set/admission/independent accuracy/Japanese adequacy/grade/confidence gain is claimed. Twenty-two scoped secondary model subjects, eighteen bounded profiles and six monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko) retain distinct responsibilities. Three Tier0 family/operator occurrences remain report/identity bounded; the 190 records are nonfinal. Six gate-status rows change relative published 9449d428, 184 other records exact. Full census, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work remain active; percentage null.
+
+
+## C20-CR04 medicine wording and attribution clarification — 2026-10-20T20:03:49.238645+00:00
+
+**Cohort20 remains fully published and audited; a focused medicine-attribution clarification is semantically received with containing publication pending.** The [external erratum](08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md) qualifies medicine work in the two sealed village-peer monographs and shared index. EXP02 U023 P433 reports apparent good effect of Megumin-made potion, not Dodonko production or treatment. Her speaker assignment there is contextual, not an explicit narrator tag. Actual ingredient assistance in EXP01 U037 belongs to Arue with Megumin. All five prior core bytes remain unchanged.
+
+The [focused receiving record](09%20Audits%20and%20Manifests/KONOSUBA_VILLAGE_PEERS_MEDICINE_CLARIFICATION_01_RECEIVING_AND_PROVENANCE.json) binds qualified reuse of 96 known BASE context slots/two members/two objects, not a new source pass or independent cure test. Existing rows 48/49/187 receive current qualifications; 187 other rows exact relative current. Carried C20 gate-status changes make six rows differ from published 9449d428, 184 others exact. No new row, tier, model, rule, input, first body or test. Current 28 models/twenty-two scoped secondary model subjects, eighteen bounded profiles, six monograph-only subjects and 190 nonfinal records retain their scopes.
+
+The preceding source 9449d4288becc31754e064ea8436a5c09145738a / tree a196360b13fe2709ce9aa2dd50c73d22f6ca2a3a closed source audit 39482808547, NO_OP housekeeping 39483693612 and final 39483754414; both audits 385 full tests. New clarification requires exact-index author preflight, normal publication/readback, source-HK-final gates and fresh reload. Full census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work remain active; percentage null. No protected merge, executor activation or designated global-output authorship.
+
+### Preserved preceding map operation
+
+**Funifura, Dodonko and Nerimaki have closed their full exact-source cohort20 publication gate; the full KonoSuba program continues.** The [individual index](08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md) routes two separate Tier2 monographs and one Tier1 profile. [Provenance](08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_NATIVE_PROVENANCE_01.json), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_VILLAGE_PEERS_COHORT_20_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_VILLAGE_PEERS_COHORT20_PUBLICATION_GATE_CLOSE.json) preserve exact scopes and the attributable Arue correction.
+
+Source `9449d4288becc31754e064ea8436a5c09145738a` / tree `a196360b13fe2709ce9aa2dd50c73d22f6ca2a3a`: all 9,361 remote paths and 26 changed streams matched. Source audit 39482808547, NO_OP housekeeping 39483693612 and final actual-source audit 39483754414 are verified. Both audits passed 385 full tests with selection disabled and all five non-success categories zero; terminal isolated reporters and latest exact-source status passed. Fresh 1,185 project paths, 12 governing controls and all 28 model bodies match the published source. Funifura and Dodonko have separate revisable Tier2 monographs; Nerimaki has a Tier1 profile with an explicit correction assigning writer/publication/pay material to named Arue. The exact old attribution remains recoverable. Generic peer/status/family incentives, collective dialogue and private-reasoning gaps leave future models open without a fixed ceiling. No new reconstruction, rule, scenario input, first body or test was added. Nine actual receipts bind 2,535 unique known BASE context slots in fifteen members/eight objects plus one actual afterword-image recheck, including blanks, other actors, reports and hypotheses. The 42 index rows are retrieval units, not independent decisions. No new whole-source/ruby/residual/image-set/admission/independent accuracy/Japanese adequacy/grade/confidence gain is claimed. Twenty-two scoped secondary model subjects, eighteen bounded profiles and six monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko) retain distinct responsibilities. Three Tier0 family/operator occurrences remain report/identity bounded; the 190 records are nonfinal. Six gate-status rows change relative published 9449d428, 184 other records exact. Full census, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work remain active; percentage null.
+
+Six local gate-status rows 48/49/85/187/188/189 change relative published 9449d428; 184 other records exact. No protected merge, executor activation, new admission, designated global-output authorship or full-program completion is claimed.
+
+
+## C20-CR04 focused medicine clarification full gate closed — 2026-10-20T20:29:17.090732+00:00
+
+Source `0c0146c354b05649cb669cc5ec7e414d4dddac5c` / tree `6286c3f5f34618f92745a0f6643298747a18d37b` matched all 9,364 remote paths and 15 changed streams. Source audit 39490429192, NO_OP housekeeping 39491113325 and final actual-source audit 39491183580 are verified. Both audits passed 385 full tests with selection disabled and all five non-success categories zero; terminal isolated reporters and latest exact-source status passed. Fresh 1,188 project paths, twelve governing controls and all 28 model bodies matched the published source. C20-CR04 clarifies apparent effect of Megumin-made potion, Arue's actual preparation assistance and contextual P433 speaker attribution. All five sealed C20 cores remain exact. The source basis reuses 96 known BASE context slots in two members/two objects; no new primary pass, independently watched cure, source admission, tier, model, rule, input, first body or test. Counts remain 190 nonfinal records, twenty-two scoped secondary model subjects, eighteen bounded profiles and six monograph-only subjects. Three current qualification-status rows 48/49/187 change relative this published source; 187 other rows remain exact. No independent accuracy, Japanese adequacy, grade or confidence gain. Full individual/event/alias/incidental census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work remain active; percentage null.
+
+### Preserved preceding map operation
+
+**Cohort20 remains fully published and audited; a focused medicine-attribution clarification is semantically received with containing publication pending.** The [external erratum](08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md) qualifies medicine work in the two sealed village-peer monographs and shared index. EXP02 U023 P433 reports apparent good effect of Megumin-made potion, not Dodonko production or treatment. Her speaker assignment there is contextual, not an explicit narrator tag. Actual ingredient assistance in EXP01 U037 belongs to Arue with Megumin. All five prior core bytes remain unchanged.
+
+The [focused receiving record](09%20Audits%20and%20Manifests/KONOSUBA_VILLAGE_PEERS_MEDICINE_CLARIFICATION_01_RECEIVING_AND_PROVENANCE.json) binds qualified reuse of 96 known BASE context slots/two members/two objects, not a new source pass or independent cure test. Existing rows 48/49/187 receive current qualifications; 187 other rows exact relative current. Carried C20 gate-status changes make six rows differ from published 9449d428, 184 others exact. No new row, tier, model, rule, input, first body or test. Current 28 models/twenty-two scoped secondary model subjects, eighteen bounded profiles, six monograph-only subjects and 190 nonfinal records retain their scopes.
+
+The preceding source 9449d4288becc31754e064ea8436a5c09145738a / tree a196360b13fe2709ce9aa2dd50c73d22f6ca2a3a closed source audit 39482808547, NO_OP housekeeping 39483693612 and final 39483754414; both audits 385 full tests. New clarification requires exact-index author preflight, normal publication/readback, source-HK-final gates and fresh reload. Full census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work remain active; percentage null. No protected merge, executor activation or designated global-output authorship.
+
+
+## Cohort21 individual artifacts, diagnostics and actor qualification — 2026-10-20T21:31:49.825104+00:00
+
+**Cohort21 semantic receiving is complete; exact containing publication remains pending.** Arue has a separate revisable Tier2 monograph; Soketto and Bukkorori each have a substantial monograph and distinct conditional model candidate. A compact profile for Bukkorori’s father remains in the existing state ledger, while a departure operator and reported grandfather retain Tier0 occurrences. The [individual index](08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md), [native provenance](08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_NATIVE_PROVENANCE_01.json) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_ARUE_SOKETTO_BUKKORORI_COHORT_21_RECEIVING_AND_PROVENANCE.json) own the scoped responsibilities.
+
+The [bandaging erratum](08%20Evidence%20and%20Indexes/KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_01.md) corrects the accepted report's Soketto treatment attribution to explicitly named Yunyun; original bytes remain exact. Arue patch contradiction/fiction, father's promise, collective/individual casts and reported/present acts remain qualified. Three old analytical rows 45/46/47 and three new bounded occurrences yield 193 nonfinal records; 187 other current rows stay exact. Carried focused-clarification closure rows 48/49/187 makes six old rows differ from source 0c0146c3,184 others exact. Private divergent histories are not wholesale imported.
+
+Candidate scope is 30 model bodies/twenty-four scoped secondary model subjects, nineteen bounded profiles and seven monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko, Arue). Seven new conditional rules have eight actual first English hypothetical bodies/four pairs from the same informed model/case/response/assessment author, zero regenerations/repairs. Strong cues, generic rivals, shared endpoints, unprovided details and unprobed mechanisms remain; no independent accuracy, Japanese adequacy, grade or confidence gain. The 3,154 known BASE contexts/twenty members/five objects plus three actual prior images are not a fresh whole-source/admission pass or independent-event denominator.
+
+The preceding source 0c0146c354b05649cb669cc5ec7e414d4dddac5c/tree 6286c3f5f34618f92745a0f6643298747a18d37b closed source audit 39490429192, NO_OP housekeeping 39491113325 and final audit 39491183580, each audit 385 full tests. New candidate requires complete diff/link/preservation review, index author preflight, normal publication/exact remote readback, source-HK-final terminal evidence/status and fresh authority reload. Full census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry remain active;percentage null. No protected merge, executor activation, new source admission or designated global-output authorship.
+
+### Preserved preceding map operation
+
+**The focused C20-CR04 medicine attribution clarification has closed its full exact-source publication gate; the KonoSuba program continues.** The [erratum](08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_VILLAGE_PEERS_MEDICINE_CLARIFICATION_01_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_VILLAGE_PEERS_MEDICINE_CLARIFICATION_PUBLICATION_GATE_CLOSE.json) provide current qualification while preserving the sealed monographs/index.
+
+Source `0c0146c354b05649cb669cc5ec7e414d4dddac5c` / tree `6286c3f5f34618f92745a0f6643298747a18d37b` matched all 9,364 remote paths and 15 changed streams. Source audit 39490429192, NO_OP housekeeping 39491113325 and final actual-source audit 39491183580 are verified. Both audits passed 385 full tests with selection disabled and all five non-success categories zero; terminal isolated reporters and latest exact-source status passed. Fresh 1,188 project paths, twelve governing controls and all 28 model bodies matched the published source. C20-CR04 clarifies apparent effect of Megumin-made potion, Arue's actual preparation assistance and contextual P433 speaker attribution. All five sealed C20 cores remain exact. The source basis reuses 96 known BASE context slots in two members/two objects; no new primary pass, independently watched cure, source admission, tier, model, rule, input, first body or test. Counts remain 190 nonfinal records, twenty-two scoped secondary model subjects, eighteen bounded profiles and six monograph-only subjects. Three current qualification-status rows 48/49/187 change relative this published source; 187 other rows remain exact. No independent accuracy, Japanese adequacy, grade or confidence gain. Full individual/event/alias/incidental census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work remain active; percentage null.
+
+Eight later local progress paths publish with the next governed revision; this gate certifies the exact source above. No protected merge, executor activation or designated global-output authorship is claimed.
+
+
+## Cohort21 full publication gate closed — 2026-10-20T22:12:04.560586+00:00
+
+Source `6cdc432fc24893957af1717db86982aa9da8b848` / tree `e1fba0a2affab5772b105995b8b7322c07c520dd` matched all 9,382 remote paths and 43 changed streams: 38 analytical paths plus three exact current-main governance and two designated-curator imports through an ordinary merge. Source audit 39504607065, NO_OP housekeeping 39505210888 and final actual-source audit 39505275375 are verified. Both audits passed 385 full tests with selection disabled and all five non-success categories zero; terminal isolated reporters and latest exact-source status passed. Fresh 1,206 project paths, twelve governing controls and all thirty model bodies matched the published source. Arue has a revisable Tier2 monograph; Soketto and Bukkorori each have a separate monograph and conditional Tier3 model. Bukkorori’s father has a compact existing-ledger Tier1 profile; an unnamed departure operator and reported grandfather retain Tier0 occurrences. Twenty-four scoped secondary model subjects, nineteen profiles, seven monograph-only subjects and 193 qualified records remain nonfinal. Seven new rules have eight informed English first bodies/four pairs with zero regeneration or repair, strong generic cues, shared endpoints, unprovided details and weak/unprobed mechanisms. No independent accuracy, Japanese adequacy, grade or confidence gain. Twelve actual known-source receipts bind 3,154 BASE contexts/twenty members/five objects plus three prior actual images; these are not fresh whole-source/ruby/residual/image-set/admission passes or independent decisions. The external bandaging erratum identifies Yunyun while preserving the accepted report. Arue patch contradiction/retracted fiction, unresolved identity joins and individual/group/report/performance distinctions remain explicit. Six publication-status rows 45/46/47/190/191/192 change relative this source; 187 other rows remain exact. Full individual/event/alias/incidental census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+### Preserved preceding map operation
+
+**Cohort21 semantic receiving is complete; exact containing publication remains pending.** Arue has a separate revisable Tier2 monograph; Soketto and Bukkorori each have a substantial monograph and distinct conditional model candidate. A compact profile for Bukkorori’s father remains in the existing state ledger, while a departure operator and reported grandfather retain Tier0 occurrences. The [individual index](08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md), [native provenance](08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_NATIVE_PROVENANCE_01.json) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_ARUE_SOKETTO_BUKKORORI_COHORT_21_RECEIVING_AND_PROVENANCE.json) own the scoped responsibilities.
+
+The [bandaging erratum](08%20Evidence%20and%20Indexes/KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_01.md) corrects the accepted report's Soketto treatment attribution to explicitly named Yunyun; original bytes remain exact. Arue patch contradiction/fiction, father's promise, collective/individual casts and reported/present acts remain qualified. Three old analytical rows 45/46/47 and three new bounded occurrences yield 193 nonfinal records; 187 other current rows stay exact. Carried focused-clarification closure rows 48/49/187 makes six old rows differ from source 0c0146c3,184 others exact. Private divergent histories are not wholesale imported.
+
+Candidate scope is 30 model bodies/twenty-four scoped secondary model subjects, nineteen bounded profiles and seven monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko, Arue). Seven new conditional rules have eight actual first English hypothetical bodies/four pairs from the same informed model/case/response/assessment author, zero regenerations/repairs. Strong cues, generic rivals, shared endpoints, unprovided details and unprobed mechanisms remain; no independent accuracy, Japanese adequacy, grade or confidence gain. The 3,154 known BASE contexts/twenty members/five objects plus three actual prior images are not a fresh whole-source/admission pass or independent-event denominator.
+
+The preceding source 0c0146c354b05649cb669cc5ec7e414d4dddac5c/tree 6286c3f5f34618f92745a0f6643298747a18d37b closed source audit 39490429192, NO_OP housekeeping 39491113325 and final audit 39491183580, each audit 385 full tests. New candidate requires complete diff/link/preservation review, index author preflight, normal publication/exact remote readback, source-HK-final terminal evidence/status and fresh authority reload. Full census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry remain active;percentage null. No protected merge, executor activation, new source admission or designated global-output authorship.
+
+
+## Cohort22 Mitsurugi/companion candidate — 2026-10-20T23:27:45.174708+00:00
+
+**Cohort22 semantic receiving is complete; exact containing publication remains pending.** Mitsurugi has a [separate monograph](05%20Specialist%20Synthesis/KONOSUBA_MITSURUGI_CHARACTER_MONOGRAPH.md), four-rule provisional model and four original informed English responses/two pairs. His spear-user and thief companions have separate compact Tier1 profiles in the existing character-state ledger. The [individual index](08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md), [native provenance](08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_NATIVE_PROVENANCE.json) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_MITSURUGI_COMPANIONS_COHORT_22_RECEIVING_AND_PROVENANCE.json) own qualifications.
+
+The candidate adds one model to thirty preserved bodies: thirty-one model bodies/twenty-five scoped secondary model subjects, twenty-one profiles and seven monograph-only subjects. All 193 source-bound records remain nonfinal; only current rows10/127/128 change for this cohort, with the other190 exact. Shared names フィオ/クレメア stay role-unmapped, working Latin spellings qualified and no duplicate people added. Four rules preserve capable aid and local learning beside pressure/idealization and generic rivals. The first bodies retain unsupported duration/selective framing, an unprovided possession, added relative staging, shared preparation and potentially overtidy cooperation; R02/R04 lack dedicated contrasts. Zero regeneration/feedback repair, no independent accuracy, Japanese adequacy, evaluator grade or confidence gain.
+
+Fifteen actual known-source receipts bind the recomputed union of 5,026 BASE slots/thirty-five text members/seventeen text objects plus five actual reference images in two further objects: nineteen objects total, including blanks and other actors. No fresh whole-source/ruby/residual/image-set/admission/independent credit. Aqua's private fear versus audible request, changed Kazuma skill premises, actual earlier healing versus later need, real crafted gift value, equipment types, role-tagged versus shared voices and main/Dust/FD/redo/reference planes remain distinct. Eight sealed owned artifacts and two exact profile fragments are reviewed; earlier cores, thirty models, firsts, four scores, prospective missingness and eighty unrelated scratch files are preserved.
+
+Cohort21's [closed gate](09%20Audits%20and%20Manifests/KONOSUBA_ARUE_SOKETTO_BUKKORORI_COHORT21_PUBLICATION_GATE_CLOSE.json) certifies source6cdc432fc24893957af1717db86982aa9da8b848 and its exact 9,382-path tree, source/NO_OP-housekeeping/final terminal audits and fresh1,206-project reload. Its seven later progress paths travel with this revision. That prior gate does not certify this new candidate. Source audit, completed housekeeping, final actual-source audit/status, fresh reload and PR254 body refresh are still required for cohort22. Full individual/event/alias/incidental census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null. No protected merge, executor activation or designated global-output authorship is claimed.
+
+### Preserved preceding map operation
+
+**Cohort21 has closed its full exact-source publication gate; the KonoSuba program continues.** The [individual index](08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_ARUE_SOKETTO_BUKKORORI_COHORT_21_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_ARUE_SOKETTO_BUKKORORI_COHORT21_PUBLICATION_GATE_CLOSE.json) carry the source qualifications and diagnostics.
+
+Source `6cdc432fc24893957af1717db86982aa9da8b848` / tree `e1fba0a2affab5772b105995b8b7322c07c520dd` matched all 9,382 remote paths and 43 changed streams: 38 analytical paths plus three exact current-main governance and two designated-curator imports through an ordinary merge. Source audit 39504607065, NO_OP housekeeping 39505210888 and final actual-source audit 39505275375 are verified. Both audits passed 385 full tests with selection disabled and all five non-success categories zero; terminal isolated reporters and latest exact-source status passed. Fresh 1,206 project paths, twelve governing controls and all thirty model bodies matched the published source. Arue has a revisable Tier2 monograph; Soketto and Bukkorori each have a separate monograph and conditional Tier3 model. Bukkorori’s father has a compact existing-ledger Tier1 profile; an unnamed departure operator and reported grandfather retain Tier0 occurrences. Twenty-four scoped secondary model subjects, nineteen profiles, seven monograph-only subjects and 193 qualified records remain nonfinal. Seven new rules have eight informed English first bodies/four pairs with zero regeneration or repair, strong generic cues, shared endpoints, unprovided details and weak/unprobed mechanisms. No independent accuracy, Japanese adequacy, grade or confidence gain. Twelve actual known-source receipts bind 3,154 BASE contexts/twenty members/five objects plus three prior actual images; these are not fresh whole-source/ruby/residual/image-set/admission passes or independent decisions. The external bandaging erratum identifies Yunyun while preserving the accepted report. Arue patch contradiction/retracted fiction, unresolved identity joins and individual/group/report/performance distinctions remain explicit. Six publication-status rows 45/46/47/190/191/192 change relative this source; 187 other rows remain exact. Full individual/event/alias/incidental census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+Seven later local progress paths publish with the next governed revision; this gate certifies the exact source above. No protected merge, executor activation or designated global-output authorship is claimed.
+
+
+## Cohort22 full publication gate closed — 2026-10-20T23:55:18.557669+00:00
+
+Source `9b191f37ae735b24786a52a52f46d10e82609771` / tree `486141c171ff750e54d8e5a155bd4d9a6a485617` matched all 9,392 remote paths and 29 changed streams. Source audit 39516379860, NO_OP housekeeping 39517020268 and final actual-source audit 39517069341 are verified. Both audits passed all 385 full tests with selection disabled and all five non-success categories zero; terminal isolated reporters and latest exact-source status passed. Fresh 1,216 project paths, twelve governing controls and all thirty-one model bodies matched the published source. Mitsurugi has a separate monograph and four-rule provisional Tier3 model; his spear-user and thief companions have separate compact existing-ledger Tier1 profiles. Twenty-five scoped secondary model subjects, twenty-one profiles, seven monograph-only subjects and 193 qualified records remain nonfinal. Four original informed English first bodies/two pairs retain zero regeneration or feedback repair, strong generic cues, unsupported duration/possession/staging, shared preparation, potentially overtidy cooperation and R02/R04 without dedicated contrasts. No independent accuracy, Japanese adequacy, evaluator grade or confidence gain. Fifteen actual known-source receipts bind 5,026 BASE slots/thirty-five text members/seventeen text objects plus five actual reference views in two further objects: nineteen objects total, including blanks and other actors. These are no fresh whole-source/ruby/residual/image-set/admission passes or independent decisions. The shared names フィオ/クレメア remain role-unmapped; working Latin spellings, early voice joins, actor knowledge, real crafted gifts, equipment types, healing/recovery and main/Dust/FD/redo/reference planes remain qualified. Three publication-status rows 10/127/128 change relative this source; 190 other rows remain exact. Earlier models, cores, firsts, four scores, prospective missingness and eighty unrelated scratch files are preserved. Full individual/event/alias/incidental census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+### Preserved preceding map operation
+
+**Cohort22 semantic receiving is complete; exact containing publication remains pending.** Mitsurugi has a [separate monograph](05%20Specialist%20Synthesis/KONOSUBA_MITSURUGI_CHARACTER_MONOGRAPH.md), four-rule provisional model and four original informed English responses/two pairs. His spear-user and thief companions have separate compact Tier1 profiles in the existing character-state ledger. The [individual index](08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md), [native provenance](08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_NATIVE_PROVENANCE.json) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_MITSURUGI_COMPANIONS_COHORT_22_RECEIVING_AND_PROVENANCE.json) own qualifications.
+
+The candidate adds one model to thirty preserved bodies: thirty-one model bodies/twenty-five scoped secondary model subjects, twenty-one profiles and seven monograph-only subjects. All 193 source-bound records remain nonfinal; only current rows10/127/128 change for this cohort, with the other190 exact. Shared names フィオ/クレメア stay role-unmapped, working Latin spellings qualified and no duplicate people added. Four rules preserve capable aid and local learning beside pressure/idealization and generic rivals. The first bodies retain unsupported duration/selective framing, an unprovided possession, added relative staging, shared preparation and potentially overtidy cooperation; R02/R04 lack dedicated contrasts. Zero regeneration/feedback repair, no independent accuracy, Japanese adequacy, evaluator grade or confidence gain.
+
+Fifteen actual known-source receipts bind the recomputed union of 5,026 BASE slots/thirty-five text members/seventeen text objects plus five actual reference images in two further objects: nineteen objects total, including blanks and other actors. No fresh whole-source/ruby/residual/image-set/admission/independent credit. Aqua's private fear versus audible request, changed Kazuma skill premises, actual earlier healing versus later need, real crafted gift value, equipment types, role-tagged versus shared voices and main/Dust/FD/redo/reference planes remain distinct. Eight sealed owned artifacts and two exact profile fragments are reviewed; earlier cores, thirty models, firsts, four scores, prospective missingness and eighty unrelated scratch files are preserved.
+
+Cohort21's [closed gate](09%20Audits%20and%20Manifests/KONOSUBA_ARUE_SOKETTO_BUKKORORI_COHORT21_PUBLICATION_GATE_CLOSE.json) certifies source6cdc432fc24893957af1717db86982aa9da8b848 and its exact 9,382-path tree, source/NO_OP-housekeeping/final terminal audits and fresh1,206-project reload. Its seven later progress paths travel with this revision. That prior gate does not certify this new candidate. Source audit, completed housekeeping, final actual-source audit/status, fresh reload and PR254 body refresh are still required for cohort22. Full individual/event/alias/incidental census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null. No protected merge, executor activation or designated global-output authorship is claimed.
+
+
+## Cohort23 Crimson parents/teacher candidate — 2026-10-21T01:25:18.918639+00:00
+
+**Cohort23 semantic receiving is complete; its exact publication sequence is pending and the full KonoSuba program continues.** The [individual index](08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_CRIMSON_PARENTS_TEACHER_COHORT_23_RECEIVING_AND_PROVENANCE.json) preserve actor-specific evidence and limitations.
+
+Yuiyui and Pucchin each have a separate twelve-dimension monograph, three-rule provisional Tier3 model and six informed English first bodies/three pairs. Hyoizaburoo has a separate twelve-dimension Tier2 monograph; craft/control/budget/private-choice mechanisms remain underidentified, with no matched-parent model quota. Candidate totals are33model bodies/27scoped secondary model subjects,21bounded profiles,eight monograph-only subjects and207nonfinal census records. Three current rows39/40/44 change,190others remain exact and14candidate/role/roster/mediated occurrence slots are added; they are not14proved unique people. Private and canonical histories remain separately preserved.
+
+Eleven actual known-source receipts bind3,992 BASE context slots/22text members in7text native objects plus one actually viewed FAN-MEM S036 image in an eighth object. Direct action, heard casts, later attribution, daughter/other actor reports, narrator inference and editorial repeat remain distinct. The contextual pudding hit is excluded as teacher evidence. No new whole-source/ruby/residual/image-set/admission or independent validation credit. Parent preference and later particular willingness do not grant prior assent; failed spells/exhaustion constrain Yuiyui, mediated craft reports constrain Hyoizaburoo and effective intervention does not make Pucchin's admitted delay safe.
+
+All twelve original bodies were frozen before assessment with zero regeneration/feedback repair. One YY-H01-B executable launch failed before identical text serialized once successfully. The same informed author designed, composed and assesses all visible contrasts; no external model call/independent judge. Shared cards/tea/intervention endpoints, strong generic rivals, source-colored unscaled grades, possible overtidy restraint, extra context/history/spatial/timing assumptions and an invented prior pupil failure remain explicit. All six rules have dedicated pairs, not every source mechanism tested; no independent accuracy, Japanese adequacy, evaluator grade, readiness classification or confidence gain.
+
+Prior cohort22 source9b191f37/tree486141c1 has a closed full source/HK/final gate; its seven later progress paths travel with this revision. Current main b6614b13's curator-authored Kazuma discovery was incorporated by ordinary local merge ac8fd87a; both imported files are preserved exactly and no designated global output was authored here. Exact candidate review, author preflight, fresh-head reconciliation, normal owner publication, full source audit/housekeeping/final exact-source audit, fresh authority reload and PR254 refresh remain required for cohort23. All earlier models/cores/firsts/four scores, prospective missingness and80unrelated scratch files remain protected. Full individual/event/alias/incidental census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; global percentage null.
+### Preserved preceding map operation
+
+**Cohort22 has closed its full exact-source publication gate; the KonoSuba program continues.** The [individual index](08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_MITSURUGI_COMPANIONS_COHORT_22_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_MITSURUGI_COMPANIONS_COHORT22_PUBLICATION_GATE_CLOSE.json) own exact source qualifications.
+
+Source `9b191f37ae735b24786a52a52f46d10e82609771` / tree `486141c171ff750e54d8e5a155bd4d9a6a485617` matched all 9,392 remote paths and 29 changed streams. Source audit 39516379860, NO_OP housekeeping 39517020268 and final actual-source audit 39517069341 are verified. Both audits passed all 385 full tests with selection disabled and all five non-success categories zero; terminal isolated reporters and latest exact-source status passed. Fresh 1,216 project paths, twelve governing controls and all thirty-one model bodies matched the published source. Mitsurugi has a separate monograph and four-rule provisional Tier3 model; his spear-user and thief companions have separate compact existing-ledger Tier1 profiles. Twenty-five scoped secondary model subjects, twenty-one profiles, seven monograph-only subjects and 193 qualified records remain nonfinal. Four original informed English first bodies/two pairs retain zero regeneration or feedback repair, strong generic cues, unsupported duration/possession/staging, shared preparation, potentially overtidy cooperation and R02/R04 without dedicated contrasts. No independent accuracy, Japanese adequacy, evaluator grade or confidence gain. Fifteen actual known-source receipts bind 5,026 BASE slots/thirty-five text members/seventeen text objects plus five actual reference views in two further objects: nineteen objects total, including blanks and other actors. These are no fresh whole-source/ruby/residual/image-set/admission passes or independent decisions. The shared names フィオ/クレメア remain role-unmapped; working Latin spellings, early voice joins, actor knowledge, real crafted gifts, equipment types, healing/recovery and main/Dust/FD/redo/reference planes remain qualified. Three publication-status rows 10/127/128 change relative this source; 190 other rows remain exact. Earlier models, cores, firsts, four scores, prospective missingness and eighty unrelated scratch files are preserved. Full individual/event/alias/incidental census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+Seven later local progress paths publish with the next governed revision; this gate certifies the exact source above. No protected merge, executor activation or designated global-output authorship is claimed.
+
+
+## Cohort23 full publication gate closed — 2026-10-21T01:51:18.190475+00:00
+
+Source `d7eb6ef45283a473c97f019f9db4400647cfce5a` / tree `acb2a7424a8b3585e4aa9b179c3e0295aa4f991e` matched all 9,409 remote paths and 38 changed streams:36owned/carried project paths and2exact curator-authored main imports through ordinary merge. Source audit 39528315830, NO_OP housekeeping 39528885954 and final actual-source audit 39528923925 are verified. Both audits passed all385full tests with selection disabled and all five non-success categories zero; terminal isolated reporters and latest exact-source status passed. Fresh1,233project paths,twelve governing controls and all33models matched the published source. Yuiyui/Pucchin each have a separate12dimension monograph/three-rule provisional Tier3 model; Hyoizaburoo has a separate12dimension Tier2 monograph only, with no matched-parent model quota.27scoped secondary model subjects,21bounded profiles,eight monograph-only subjects and207qualified records remain nonfinal. Twelve original informed English first bodies/six pairs retain zero regeneration/feedback repair; YY-H01-B had a failed executable launch before identical text serialized once successfully. Strong generic rivals,shared endpoints,source-colored unscaled grades,possibly overtidy restraint,unsupported context/history/spatial/timing assumptions and an invented earlier pupil failure remain. All6rules have dedicated pairs,not all source mechanisms tested. No independent accuracy,Japanese adequacy,evaluator grade,readiness classification or confidence gain. Eleven actual known-source receipts bind3,992BASE context slots/22text members/7text objects plus one actual FAN-MEM reference image in eighth object,including blanks/other actors. No new whole-source/ruby/residual/image-set/admission or independent validation credit. Direct action,heard casts,later attribution,craft/financial reports,narrator inference and editorial repeat remain distinct. Parent preference and later particular willingness do not grant prior assent; failed spells/exhaustion,mediated craft limits and effective intervention versus safe timing remain. Three original target rows39/40/44 and14new occurrence rows193-206 change publication status;190other rows remain exact. New candidate/role/roster/letter slots are not14proved unique people or newly completed profiles. Earlier models,cores,firsts,four scores,prospective missingness and80unrelated scratch files remain preserved. Full individual/event/alias/incidental census,earned artifacts,seven expanded specialists,extended/full-series synthesis,six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+### Preserved preceding map operation
+
+**Cohort23 semantic receiving is complete; its exact publication sequence is pending and the full KonoSuba program continues.** The [individual index](08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_CRIMSON_PARENTS_TEACHER_COHORT_23_RECEIVING_AND_PROVENANCE.json) preserve actor-specific evidence and limitations.
+
+Yuiyui and Pucchin each have a separate twelve-dimension monograph, three-rule provisional Tier3 model and six informed English first bodies/three pairs. Hyoizaburoo has a separate twelve-dimension Tier2 monograph; craft/control/budget/private-choice mechanisms remain underidentified, with no matched-parent model quota. Candidate totals are33model bodies/27scoped secondary model subjects,21bounded profiles,eight monograph-only subjects and207nonfinal census records. Three current rows39/40/44 change,190others remain exact and14candidate/role/roster/mediated occurrence slots are added; they are not14proved unique people. Private and canonical histories remain separately preserved.
+
+Eleven actual known-source receipts bind3,992 BASE context slots/22text members in7text native objects plus one actually viewed FAN-MEM S036 image in an eighth object. Direct action, heard casts, later attribution, daughter/other actor reports, narrator inference and editorial repeat remain distinct. The contextual pudding hit is excluded as teacher evidence. No new whole-source/ruby/residual/image-set/admission or independent validation credit. Parent preference and later particular willingness do not grant prior assent; failed spells/exhaustion constrain Yuiyui, mediated craft reports constrain Hyoizaburoo and effective intervention does not make Pucchin's admitted delay safe.
+
+All twelve original bodies were frozen before assessment with zero regeneration/feedback repair. One YY-H01-B executable launch failed before identical text serialized once successfully. The same informed author designed, composed and assesses all visible contrasts; no external model call/independent judge. Shared cards/tea/intervention endpoints, strong generic rivals, source-colored unscaled grades, possible overtidy restraint, extra context/history/spatial/timing assumptions and an invented prior pupil failure remain explicit. All six rules have dedicated pairs, not every source mechanism tested; no independent accuracy, Japanese adequacy, evaluator grade, readiness classification or confidence gain.
+
+Prior cohort22 source9b191f37/tree486141c1 has a closed full source/HK/final gate; its seven later progress paths travel with this revision. Current main b6614b13's curator-authored Kazuma discovery was incorporated by ordinary local merge ac8fd87a; both imported files are preserved exactly and no designated global output was authored here. Exact candidate review, author preflight, fresh-head reconciliation, normal owner publication, full source audit/housekeeping/final exact-source audit, fresh authority reload and PR254 refresh remain required for cohort23. All earlier models/cores/firsts/four scores, prospective missingness and80unrelated scratch files remain protected. Full individual/event/alias/incidental census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; global percentage null.
+
+
+## Cohort24 Crimson trades/staff candidate — 2026-10-21T03:05:19.428176+00:00
+
+**Cohort24 is semantically received; exact containing publication is pending. The full KonoSuba program continues.** Chekera has a scoped [Tier2 monograph](05%20Specialist%20Synthesis/KONOSUBA_CHEKERA_CHARACTER_MONOGRAPH.md); six compact Tier1 work/staff profiles extend the [existing coverage audit](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort24-six-compact-crimson-work-and-staff-profiles). The [index](08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md), [native provenance](08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE.json) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT_24_RECEIVING_AND_PROVENANCE.json) own exact evidence and authority limits.
+
+The candidate retains all 33 models/27 scoped secondary model subjects and contains 27 bounded profiles, nine monograph-only subjects and 219 nonfinal records. Six entering rows change; 201 other current rows remain exact; twelve new occurrences include one profiled supervisor, ten indexed incidental dispositions and a deferred Arcanretia manager review. These are not twelve proved unique people or a final denominator. Thirty-two complete known-source windows cover 1,149 BASE context slots/seven text members/four objects, including blanks, other actors and rejected joins. No new whole-source/ruby/residual/image-set/admission/independent credit or new model/first body is added.
+
+Chekera practical correction coexists with a second failed test, unverified advice, shared village ceremony and ordinary trade rivals. Reported family/client identities, manufacturing/clinical claims, payment/repayment, diner dismissal/settlement and future rehire retain their access limits. Earlier cores/firsts, four scores, fourteen Dust blanks, twenty-eight SI/SY null fields and eighty unrelated scratch files remain preserved. Cohort23 full gate remains closed at its exact source; PR254 has merged as fed8be4aa1be8213e1baa703972eb3201ce7ac1b, whose complete tree equals remote source d7cc099fd6b5bccaeb64ae54a28801ed98172021. Current main is ordinarily reconciled; no protected merge or executor activation is performed here. The full census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work remain active; percentage null.
+
+### Preserved preceding map operation at cohort24 preparation
+
+**Cohort23 has closed its full exact-source publication gate; the KonoSuba program continues.** The [individual index](08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_CRIMSON_PARENTS_TEACHER_COHORT_23_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_CRIMSON_PARENTS_TEACHER_COHORT23_PUBLICATION_GATE_CLOSE.json) own exact source qualifications.
+
+Source `d7eb6ef45283a473c97f019f9db4400647cfce5a` / tree `acb2a7424a8b3585e4aa9b179c3e0295aa4f991e` matched all 9,409 remote paths and 38 changed streams:36owned/carried project paths and2exact curator-authored main imports through ordinary merge. Source audit 39528315830, NO_OP housekeeping 39528885954 and final actual-source audit 39528923925 are verified. Both audits passed all385full tests with selection disabled and all five non-success categories zero; terminal isolated reporters and latest exact-source status passed. Fresh1,233project paths,twelve governing controls and all33models matched the published source. Yuiyui/Pucchin each have a separate12dimension monograph/three-rule provisional Tier3 model; Hyoizaburoo has a separate12dimension Tier2 monograph only, with no matched-parent model quota.27scoped secondary model subjects,21bounded profiles,eight monograph-only subjects and207qualified records remain nonfinal. Twelve original informed English first bodies/six pairs retain zero regeneration/feedback repair; YY-H01-B had a failed executable launch before identical text serialized once successfully. Strong generic rivals,shared endpoints,source-colored unscaled grades,possibly overtidy restraint,unsupported context/history/spatial/timing assumptions and an invented earlier pupil failure remain. All6rules have dedicated pairs,not all source mechanisms tested. No independent accuracy,Japanese adequacy,evaluator grade,readiness classification or confidence gain. Eleven actual known-source receipts bind3,992BASE context slots/22text members/7text objects plus one actual FAN-MEM reference image in eighth object,including blanks/other actors. No new whole-source/ruby/residual/image-set/admission or independent validation credit. Direct action,heard casts,later attribution,craft/financial reports,narrator inference and editorial repeat remain distinct. Parent preference and later particular willingness do not grant prior assent; failed spells/exhaustion,mediated craft limits and effective intervention versus safe timing remain. Three original target rows39/40/44 and14new occurrence rows193-206 change publication status;190other rows remain exact. New candidate/role/roster/letter slots are not14proved unique people or newly completed profiles. Earlier models,cores,firsts,four scores,prospective missingness and80unrelated scratch files remain preserved. Full individual/event/alias/incidental census,earned artifacts,seven expanded specialists,extended/full-series synthesis,six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+Seven later local progress paths publish with the next governed revision; this gate certifies the exact source above. No protected merge,executor activation or designated global-output authorship is claimed.
+
+
+## Cohort24 full publication gate closed — 2026-10-21T04:26:25.289224+00:00
+
+Source `bb4de2bd0c6dfad9d4134f73ac9312339d02cb08` / tree `7adba31479a90fd5c49f69894d99c1ee01b0a491` matched all 9,417 remote paths and 37 changed streams:24owned/carried project paths and13exact integrated-owner main imports across this cohort. The last governance reconciliation changed9paths and preserved all1,238project files. Source audit 39542387120, NO_OP housekeeping 39542745230 and final actual-source audit 39542784032 are verified; both audits passed all447full tests with selection disabled and all five non-success categories zero. Terminal isolated reporters and latest exact-source status passed. The final displayed workflow head is main, while the verified actual source is the commit above. Fresh1,238project paths,twelve governing controls,five additional policy/workflow pins and all33models matched the published source. Chekera has one scoped Tier2 monograph only; six Tier1 work/staff profiles are consolidated in the existing coverage audit.33models/27scoped secondary model subjects,27bounded profiles,nine monograph-only subjects and219qualified records remain nonfinal. No new model,rule,input,first body,paired hypothetical,evaluator grade,readiness classification,independent accuracy or confidence gain. Ten actual known-source receipts/32complete windows bind1,149BASE context slots/seven text members/four native text objects,including blanks,other actors and rejected joins. No new whole-source/ruby/residual/image-set/admission or independent reading credit. Chekera practical correction coexists with repeated test failure,unverified advice and strong ordinary trade/shared-village rivals. Six profiles retain direct/report/inference boundaries; family number,client joins,manufacturing/clinical claims,payment/repayment,diner dismissal/settlement and future rehire remain limited. Six entering target rows and twelve new occurrence rows change publication status;201others remain exact. Ten new Tier0 dispositions,one profiled supervisor and one deferred Arcanretia role do not prove twelve unique people. Earlier cores/firsts,four scores,prospective missingness and eighty unrelated scratch files remain preserved. Publication incorporated main `d3623758cfd1324b4f05597078936349b4d699ce`; later observed main `524f5978cf79311e3d648b9c32313e2e2b9a37ff` is recorded without claiming current protected-merge readiness. Fresh main reconciliation remains due before the next push if drifted. Full individual/event/alias/incidental census,earned artifacts,seven expanded specialists,extended/full-series synthesis,six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+### Preserved preceding map operation
+
+**Cohort24 is semantically received; exact containing publication is pending. The full KonoSuba program continues.** Chekera has a scoped [Tier2 monograph](05%20Specialist%20Synthesis/KONOSUBA_CHEKERA_CHARACTER_MONOGRAPH.md); six compact Tier1 work/staff profiles extend the [existing coverage audit](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort24-six-compact-crimson-work-and-staff-profiles). The [index](08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md), [native provenance](08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE.json) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT_24_RECEIVING_AND_PROVENANCE.json) own exact evidence and authority limits.
+
+The candidate retains all 33 models/27 scoped secondary model subjects and contains 27 bounded profiles, nine monograph-only subjects and 219 nonfinal records. Six entering rows change; 201 other current rows remain exact; twelve new occurrences include one profiled supervisor, ten indexed incidental dispositions and a deferred Arcanretia manager review. These are not twelve proved unique people or a final denominator. Thirty-two complete known-source windows cover 1,149 BASE context slots/seven text members/four objects, including blanks, other actors and rejected joins. No new whole-source/ruby/residual/image-set/admission/independent credit or new model/first body is added.
+
+Chekera practical correction coexists with a second failed test, unverified advice, shared village ceremony and ordinary trade rivals. Reported family/client identities, manufacturing/clinical claims, payment/repayment, diner dismissal/settlement and future rehire retain their access limits. Earlier cores/firsts, four scores, fourteen Dust blanks, twenty-eight SI/SY null fields and eighty unrelated scratch files remain preserved. Cohort23 full gate remains closed at its exact source; PR254 has merged as fed8be4aa1be8213e1baa703972eb3201ce7ac1b, whose complete tree equals remote source d7cc099fd6b5bccaeb64ae54a28801ed98172021. Current main is ordinarily reconciled; no protected merge or executor activation is performed here. The full census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work remain active; percentage null.
+
+
+## Cohort25 semantic receiving — 2026-10-21T05:15:30.747701+00:00
+
+One Sylvia Tier2 monograph and three consolidated Tier1 profiles (chief,Moguninnin,MASK courier) are semantically received. No new model,rule,input,first body or pair; all33models/27scoped secondary model subjects remain unchanged. Candidate30profiles/10monograph-only subjects/223nonfinal records; three entering rows change,216others exact and four new occurrence records are not four proved people.35complete known-source windows bind2122BASE slots/19members/9native text objects; no fresh whole-source,ruby,residual,image-set,admission or independent credit. Sylvia information updates coexist with coercion and revenge; chief agency is not daughter/institution proxy; machine original policy competes with attributed Serena interference; courier reports remain distinct from full watched fights. Earlier cores/firsts,scores,prospective missingness and80unrelated scratch files are preserved. Exact containing publication is pending. C24 full447-test gate remains exact at BB4; its reviewed seven later progress paths are carried. Five current-table stale publication labels are corrected from existing closed-gate receipts,with no semantic-core rewrite. Full census,earned artifacts,seven expanded specialists,extended/full-series synthesis,six distinct StageD successors and designated closure work continue; percentage null.
+
+[Individual evidence index](08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md).
+
+### Preserved preceding map operation
+
+**Cohort24 has closed its full exact-source publication gate; the KonoSuba program continues.** The [Chekera monograph](05%20Specialist%20Synthesis/KONOSUBA_CHEKERA_CHARACTER_MONOGRAPH.md), [six compact profiles](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort24-six-compact-crimson-work-and-staff-profiles), [index](08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT_24_RECEIVING_AND_PROVENANCE.json) and [gate](09%20Audits%20and%20Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json) own exact qualifications.
+
+Source `bb4de2bd0c6dfad9d4134f73ac9312339d02cb08` / tree `7adba31479a90fd5c49f69894d99c1ee01b0a491` matched all 9,417 remote paths and 37 changed streams:24owned/carried project paths and13exact integrated-owner main imports across this cohort. The last governance reconciliation changed9paths and preserved all1,238project files. Source audit 39542387120, NO_OP housekeeping 39542745230 and final actual-source audit 39542784032 are verified; both audits passed all447full tests with selection disabled and all five non-success categories zero. Terminal isolated reporters and latest exact-source status passed. The final displayed workflow head is main, while the verified actual source is the commit above. Fresh1,238project paths,twelve governing controls,five additional policy/workflow pins and all33models matched the published source. Chekera has one scoped Tier2 monograph only; six Tier1 work/staff profiles are consolidated in the existing coverage audit.33models/27scoped secondary model subjects,27bounded profiles,nine monograph-only subjects and219qualified records remain nonfinal. No new model,rule,input,first body,paired hypothetical,evaluator grade,readiness classification,independent accuracy or confidence gain. Ten actual known-source receipts/32complete windows bind1,149BASE context slots/seven text members/four native text objects,including blanks,other actors and rejected joins. No new whole-source/ruby/residual/image-set/admission or independent reading credit. Chekera practical correction coexists with repeated test failure,unverified advice and strong ordinary trade/shared-village rivals. Six profiles retain direct/report/inference boundaries; family number,client joins,manufacturing/clinical claims,payment/repayment,diner dismissal/settlement and future rehire remain limited. Six entering target rows and twelve new occurrence rows change publication status;201others remain exact. Ten new Tier0 dispositions,one profiled supervisor and one deferred Arcanretia role do not prove twelve unique people. Earlier cores/firsts,four scores,prospective missingness and eighty unrelated scratch files remain preserved. Publication incorporated main `d3623758cfd1324b4f05597078936349b4d699ce`; later observed main `524f5978cf79311e3d648b9c32313e2e2b9a37ff` is recorded without claiming current protected-merge readiness. Fresh main reconciliation remains due before the next push if drifted. Full individual/event/alias/incidental census,earned artifacts,seven expanded specialists,extended/full-series synthesis,six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+Seven later local progress paths publish with the next governed revision; this gate certifies the exact source above. No protected merge,executor activation or designated global-output authorship is claimed.

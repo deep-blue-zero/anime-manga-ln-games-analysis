@@ -140,7 +140,7 @@ def test_temporary_root() -> Iterator[str]:
         yield directory
 
 
-def run_full_checks(root: Path, base: str, test_tmp: str) -> None:
+def run_full_checks(root: Path, test_tmp: str) -> None:
     run_python(
         root,
         "tools/validate_repository.py",
@@ -156,10 +156,6 @@ def run_full_checks(root: Path, base: str, test_tmp: str) -> None:
         "tools/audit_execution.py",
         "--snapshot",
         "index",
-        "--base",
-        base,
-        "--profile",
-        "full",
         overrides={"MANGA_ANIME_TEST_TMP": test_tmp},
     )
 
@@ -201,6 +197,8 @@ def main() -> int:
         run_python(root, "tools/update_repository_indexes.py", "--snapshot", "index", "--write")
         if any(rule.get("id") == "character-discovery" for rule in rules):
             run_python(root, "tools/generate_character_index.py", "--snapshot", "index")
+        if any(rule.get("id") == "character-reconstruction" for rule in rules):
+            run_python(root, "tools/generate_reconstruction_index.py", "--snapshot", "index")
         print("Generated files were written to the worktree and were not staged.")
         print("Review and stage the reported outputs by exact path, then run --check.")
         return 0
@@ -226,9 +224,17 @@ def main() -> int:
             "index",
             "--check",
         )
+    if any(rule.get("id") == "character-reconstruction" for rule in rules):
+        run_python(
+            root,
+            "tools/generate_reconstruction_index.py",
+            "--snapshot",
+            "index",
+            "--check",
+        )
     if args.full:
         with test_temporary_root() as test_tmp:
-            run_full_checks(root, base, test_tmp)
+            run_full_checks(root, test_tmp)
         level = "full"
     else:
         run_python(root, "-m", "unittest", "tools.tests.test_repository_indexes")

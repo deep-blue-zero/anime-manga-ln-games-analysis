@@ -1,0 +1,1661 @@
+{
+  "schema": "KONOSUBA_YORI04_SELECTED_WHOLE_PREMISE_REGISTER_V1",
+  "created_utc": "2026-10-19T03:44:00.647760+00:00",
+  "source_id": "YORI-04",
+  "H_protocol": "H1 literal source-compatible conduct; H2 bounded amplification; H3 gag-contingent mechanism unsafe to generalize; H4 nonliteral behavioral license. Classify the selected causal premise, not all rhetoric in its window. Magic, deception, nested fiction and uncertainty are not automatically H3/H4.",
+  "L_protocol": "L0 portable proposition; L1 material rhythm/form; L2 pragmatic audience/register/scope; L3 central Japanese form requiring reconstruction or annotation. One narrow Cinderella title pun receives L3; ordinary grammar, borrowed names and role language do not automatically do so.",
+  "selected_record_count": 82,
+  "counts_describe_selected_records_only": {
+    "H": {
+      "H1": 82
+    },
+    "L": {
+      "L2": 80,
+      "L0": 1,
+      "L3": 1
+    }
+  },
+  "no_population_denominator_or_accuracy_score": true,
+  "records": [
+    {
+      "id": "YORI04-WHOLE-H001",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 6,
+        "end_P": 20
+      },
+      "whole_selected_premise": "A noble visitor tactfully praises white water, then must disclose that Megumin borrows the household maids.",
+      "primary_L": "L2",
+      "L_rationale": "Hagen’s broken polite compliment and deferred complaint preserve visitor tact while carrying genuine work boundaries.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Water purification and an earlier deliberate tea story are separate events; K’s promise to stop maid use is not yet a completed remedy.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H002",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 43,
+        "end_P": 66
+      },
+      "whole_selected_premise": "The dismissed guests offer a real adviser connection but propose a humiliating tsundere request as its price.",
+      "primary_L": "L2",
+      "L_rationale": "The exact proposed familiar wording contrasts with Darkness’s official role and explicit refusal.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "K invents the wording; Darkness has not spoken it here and Vanir has not yet accepted a consultation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H003",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 71,
+        "end_P": 86
+      },
+      "whole_selected_premise": "K offers unpaid help for an overworked friend, then a servant’s medicine explanation exposes an embarrassing cost of her work.",
+      "primary_L": "L2",
+      "L_rationale": "A sincere affiliation claim, imagined Chris voice and D’s stop demand have different speakers and planes.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Useful concern does not authorize continued exposure; Aqua offers Heal without an observed cast.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H004",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 93,
+        "end_P": 100
+      },
+      "whole_selected_premise": "Aqua interprets document work as paper art, then accepts exact squaring and bundling.",
+      "primary_L": "L2",
+      "L_rationale": "Task reinterpretation becomes an actual narrow manual service rather than a proof of clerical incompetence.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Execution is later175/458; no financial or administrative expertise is inferred.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H005",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 112,
+        "end_P": 123
+      },
+      "whole_selected_premise": "The defender of seasoning tolerance makes his own absolute judgment and wastes the workday.",
+      "primary_L": "L2",
+      "L_rationale": "K’s categorical speech contradicts his stated tolerant premise; the next-day apology is candid.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Own acknowledged error is adverse to universal selective self-excusing; no all-context forecast from one admission.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H006",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 134,
+        "end_P": 156
+      },
+      "whole_selected_premise": "Imported crop rotation advice fails because local crops move and fight.",
+      "primary_L": "L0",
+      "L_rationale": "Officials use ordinary technical reasoning under independently supplied fantasy facts.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Their theories remain attributed explanations; fantasy does not license importing modern farming success.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H007",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 167,
+        "end_P": 188
+      },
+      "whole_selected_premise": "Actual productive work slides into a command dispute and an unwanted old-name taunt.",
+      "primary_L": "L2",
+      "L_rationale": "K’s class-modest refusal and D’s official order precede a specific private-identity objection.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "No old marriage is established by the taunt; D’s apology/stop is a real boundary, not inferred pleasure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H008",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 194,
+        "end_P": 219
+      },
+      "whole_selected_premise": "Useful collaboration turns into a pool plan while Darkness explains elite ice leisure.",
+      "primary_L": "L2",
+      "L_rationale": "A report of improved office morale and an explanation of private luxury differ from enacted public policy.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "No reported cost or economic defense proves the pool will profit or all elite expenditure is justified.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H009",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 230,
+        "end_P": 262
+      },
+      "whole_selected_premise": "A usable leisure proposal is tied to compulsory revealing swimwear, which Darkness rejects while considering narrower terms.",
+      "primary_L": "L2",
+      "L_rationale": "The compromise256 and K’s insistence258 locate the disagreement in specific conditions.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Aqua’s water-care bargain is prospective; neither completed pool nor accepted compelled attire exists.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H010",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 269,
+        "end_P": 281
+      },
+      "whole_selected_premise": "Unpaid-help entitlement becomes a direct stamp demand and an actual forced hand grab.",
+      "primary_L": "L2",
+      "L_rationale": "The valid fact of prior work is used for self-benefit, then openly coercive imperatives replace any civil surface.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Claimed profit is unverified; D’s resistance prevents approval and does not erase the attempted coercion.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H011",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 283,
+        "end_P": 311
+      },
+      "whole_selected_premise": "Megumin makes a grand expert entrance while being carried, then actually contributes useful knowledge.",
+      "primary_L": "L2",
+      "L_rationale": "Polite role assertion and physical dependency coexist with competent paperwork/ecological information.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "A maid carries her; disability after Explosion is not general intellectual incapacity.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H012",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 322,
+        "end_P": 350
+      },
+      "whole_selected_premise": "Party-name discussion again destroys the workday despite a second candid apology.",
+      "primary_L": "L2",
+      "L_rationale": "Each member’s desired public designation competes with the office task.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Two wasted days are distinct from three earlier useful days; later apologies do not retroactively restore time.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H013",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 352,
+        "end_P": 358
+      },
+      "whole_selected_premise": "Aqua reports Vanir demanded the very request Darkness previously rejected, exhausting his foresight through her shield.",
+      "primary_L": "L2",
+      "L_rationale": "The repeated borrowed formula has a different reported speaker and real humiliation price.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Aqua’s witness report, not K’s firsthand viewing; promised locust forecast is later specifically corroboratedU020380.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H014",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 369,
+        "end_P": 387
+      },
+      "whole_selected_premise": "Megumin resists identification from generic red-black features until a complaint quotes her own name-boast.",
+      "primary_L": "L2",
+      "L_rationale": "Initial reasonable insufficiency is defeated by the identifying line, not the trope alone.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Complaint/fight account is mediated; Yunyun’s proposed assistance is Megumin’s report, not a newly seen fight.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H015",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 399,
+        "end_P": 418
+      },
+      "whole_selected_premise": "A public watchtower proposal doubles as Megumin’s named Explosion platform and preferred carrying arrangement.",
+      "primary_L": "L2",
+      "L_rationale": "Useful civic language and privately voiced convenience occur together.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "D rejects/redirects it; the plan does not prove completed construction or accepted unpaid future carrying.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H016",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 421,
+        "end_P": 458
+      },
+      "whole_selected_premise": "Backhanded praise, cruel comparisons and another pile of paperwork break the acting ruler; Aqua repairs the torn documents.",
+      "primary_L": "L2",
+      "L_rationale": "Praise421 and ensuing reaction are not generic endorsement; paper-task callbacks culminate in actual rice-grain repair458.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Real fitted manual skill coexists with the group’s emotional pressure and staff’s participation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H017",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 464,
+        "end_P": 507
+      },
+      "whole_selected_premise": "A restful escort is spoiled by an unsolicited Explosion before the intended dragon investigation.",
+      "primary_L": "L2",
+      "L_rationale": "K’s resurrection no-count469 is explicitly rejected470; intended warming and expedition success use incompatible criteria.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "No dragon appears and no mission death occurs here; a powerful cast does not fulfill the promised restful escort.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H018",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "start_P": 510,
+        "end_P": 545
+      },
+      "whole_selected_premise": "A fallback slime outing and Aqua’s temporary Axis advice let Darkness choose to postpone despair.",
+      "primary_L": "L2",
+      "L_rationale": "Self-repair protect/exterminate525 and “今を楽に行きなさい”531 reveal distinct desires without proving lasting conversion.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Fallback quest remains uncompleted; D chooses rest545, not permanent religious transfer.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H019",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 3,
+        "end_P": 44
+      },
+      "whole_selected_premise": "A secret veteran observer interprets a negotiated theater outing through a romance she herself has never experienced.",
+      "primary_L": "L2",
+      "L_rationale": "The narrator’s delighted private register differs from the pair’s literal choices; her inference is not neutral omniscience.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Actual ticket purchase is not proof of every projected romantic intention; covert observation is not prior blanket consent.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H020",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 47,
+        "end_P": 68
+      },
+      "whole_selected_premise": "Megumin’s remittances and carrying preference become a paid shared outing and a kiss offer.",
+      "primary_L": "L2",
+      "L_rationale": "Her explicit 仲間以上恋人未満56 fixes a local self-description against a clerk’s couple label.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Handholding is actual; no kiss/play attendance/tomorrow outing is completed in this interval.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H021",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 74,
+        "end_P": 103
+      },
+      "whole_selected_premise": "A retired spy retells 真・デレラ as a class-limited romance.",
+      "primary_L": "L3",
+      "L_rationale": "The reconstructed Cinderella title splits シン into 真; the marked title’s Japanese sound/orthography is central and needs annotation.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "This is her abbreviated retold fiction with her interpretation, not another fully supplied independent novel.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H022",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 106,
+        "end_P": 120
+      },
+      "whole_selected_premise": "The covert professionals decline to teach invasive skills while openly inspecting the party’s meal-sharing.",
+      "primary_L": "L2",
+      "L_rationale": "A claim of ethical restraint contrasts with actual covert access; table complaints retain their actual speakers.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "No skill is taught to K and the observer’s benevolent self-description does not settle privacy permission.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H023",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 133,
+        "end_P": 169
+      },
+      "whole_selected_premise": "Luxury boasts and a masked partner’s revealed gender puncture the observer’s social assumptions.",
+      "primary_L": "L2",
+      "L_rationale": "Status talk and the professional no-name rule explain the surprise without revealing either personal name.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Both women remain identified by class only; do not merge Assassin with Chris, Vanir or Lolisa.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H024",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 174,
+        "end_P": 209
+      },
+      "whole_selected_premise": "Two professionals attribute restored limbs to casual encounters with Aqua and K’s recognition to a dream-service likeness.",
+      "primary_L": "L2",
+      "L_rationale": "Gratitude reports and conjectured divine identity have different certainty from direct new spells.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "These are retrospective accounts; neither innate divinity proof nor a new accepted-help A01 trial follows.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H025",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 214,
+        "end_P": 245
+      },
+      "whole_selected_premise": "A duel called a draw later reveals abandonment, resurrection/healing reliance and the observer’s own liquor gift.",
+      "primary_L": "L2",
+      "L_rationale": "Delayed disclosures revise “draw” and explain why Aqua cannot cure Megumin’s stomach now.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "First duel damage332 repeats this same event; do not count it as a second independent duel.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H026",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 253,
+        "end_P": 268
+      },
+      "whole_selected_premise": "K technically never promised romance but deliberately sells Darkness a frightening substitute outing.",
+      "primary_L": "L2",
+      "L_rationale": "Literal truth and intended misdirection separate the words from innocence.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Darkness threatens a ban rather than carrying it out; Megumin actually requested the replacement.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H027",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 279,
+        "end_P": 317
+      },
+      "whole_selected_premise": "Vanir’s profitable scroll pitch meets a spy’s public true-name information, sending him running.",
+      "primary_L": "L2",
+      "L_rationale": "Mocking gender/status language and a real summoning-privacy concern explain the reversal.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "He acknowledges hard-to-read strong spies311; no blanket omniscience or completed summoning/contract is established.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H028",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 320,
+        "end_P": 369
+      },
+      "whole_selected_premise": "A second challenge is won by stealing chest binding despite the victor’s broken ribs.",
+      "primary_L": "L2",
+      "L_rationale": "“Victory” is the participant’s account under a specific wager, not physical domination in every sense.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Actual privacy harm and injury remain; meal compliance does not authorize the earlier invasive act.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H029",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 371,
+        "end_P": 411
+      },
+      "whole_selected_premise": "The party recruits Dust and Leen to its misleading horror recommendation while the hidden observer becomes a saleable creature.",
+      "primary_L": "L2",
+      "L_rationale": "Literal recommendations and conditional payment hide the intended experience; Neroid camouflage changes audience knowledge.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Dust and Leen really enter383; a requested photo is not later delivered on page.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H030",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 415,
+        "end_P": 449
+      },
+      "whole_selected_premise": "A noninterference pledge survives only because emergency defense proves unnecessary.",
+      "primary_L": "L2",
+      "L_rationale": "Knife/poison readiness coexists with claimed XP-preserving restraint.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "No spy attack is executed; Hans poison is reported purchase, not K’s acquired resource.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H031",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 453,
+        "end_P": 478
+      },
+      "whole_selected_premise": "A finite guild banquet invites triumph while resurrection accounting and a rejected goblin act qualify the celebration.",
+      "primary_L": "L2",
+      "L_rationale": "Luna’s today limit456 and K’s repeated no476/478 contradict unlimited hospitality and playful assent.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Reported zero-death year excludes revived deaths459; Dust and Leen missed the quest, not magically participated.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H032",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 488,
+        "end_P": 521
+      },
+      "whole_selected_premise": "Luna respectfully asks retired professionals for night help; one volunteers but cannot sign for the other.",
+      "primary_L": "L2",
+      "L_rationale": "Office respect, age boundary and the observer’s religious gratitude coexist with informal bargaining.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Her own unpaid acceptance495 is not Assassin’s acceptance; no actual future night campaign is completed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H033",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+        "start_P": 529,
+        "end_P": 557
+      },
+      "whole_selected_premise": "Assassin corrects a falsely assumed agreement before an ordinary morning plan finally earns assent.",
+      "primary_L": "L2",
+      "L_rationale": "Professional restraint and personal rescue history supply alternative motives to heroic duty alone.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Old Mammon and rescues are her reports; promise553 is not enacted monster defeat, and afterword confirms only class names.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H034",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 3,
+        "end_P": 26
+      },
+      "whole_selected_premise": "The party knows it is watched while the observer thought herself unseen.",
+      "primary_L": "L2",
+      "L_rationale": "Cross-story epistemic reversal uses K’s limited tolerance14, not a new omniscient narrator.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Knowing some present surveillance does not authorize every past intrusion or private detail.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H035",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 29,
+        "end_P": 59
+      },
+      "whole_selected_premise": "Yunyun’s visit exposes a one-sided claim to friendship exclusivity and Vanir’s leaked secrets.",
+      "primary_L": "L2",
+      "L_rationale": "M’s sole-bully privilege claim38 is challenged by K’s reciprocity question48 and D’s welcome37/50.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Yun’s awkwardness is not consent to mistreatment or inability to understand the letter.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H036",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 65,
+        "end_P": 88
+      },
+      "whole_selected_premise": "Vanir anticipates reactions in a letter; a fake second letter says ハズレ.",
+      "primary_L": "L2",
+      "L_rationale": "The reply seemingly answers live listeners through prewritten text; point-of-view access stays textual.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Yunyun is reader, not original speaker; D actually restrains the raised-fist M86; foresight not universally reliable.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H037",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 93,
+        "end_P": 127
+      },
+      "whole_selected_premise": "Summoning lore makes a privacy leak consequential, but K’s spare-life escape plan fails the prior contract’s wording.",
+      "primary_L": "L2",
+      "L_rationale": "Extreme wizard/rare class conditions and one-life termination127 correct an overgeneralized reset.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Komekko ability is a remembered succubus report103, not direct new demonstrated aptitude; no actual summoning yet.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H038",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 133,
+        "end_P": 158
+      },
+      "whole_selected_premise": "Aqua’s attempted exorcism burns a product and hurts Wiz, while K’s NEET comparison boomerangs.",
+      "primary_L": "L2",
+      "L_rationale": "Audience/status change redirects the humiliation; effective sacred power can still be wrong-target harmful conduct.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Not an adopted fitted help step; actual collateral cost is not made harmless by demon labels.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H039",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 162,
+        "end_P": 203
+      },
+      "whole_selected_premise": "Wiz stops the teasing, then sells a meticulous private-life manual as a serious merchant while withholding its details.",
+      "primary_L": "L2",
+      "L_rationale": "Her direct merchant identity opposes K’s insulting guesses; privacy ownership is separate from sales competence.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Journalist-law belief is reported wrong/arrest193; equal partnership is her claim backed by interaction, not permission for all tactics.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H040",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 210,
+        "end_P": 224
+      },
+      "whole_selected_premise": "Vanir invokes forced contract termination, then joins the profitable scheme; Yunyun has been arrested defending him.",
+      "primary_L": "L2",
+      "L_rationale": "His never-break promise is checked by Wiz’s remembered earlier threat211.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Yun’s assault is reported, not direct observed technique; sincere loyalty does not make its means good judgment.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H041",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 232,
+        "end_P": 277
+      },
+      "whole_selected_premise": "Chris’s converted-friend alarm meets Darkness’s actual ethical refusal and a withdrawn official-force request.",
+      "primary_L": "L2",
+      "L_rationale": "K knows Eris identity248; D does not. Chris changes request262 before personal inquiry267 and teasing274.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Self-withdrawal is real but not full CE01public cumulative load; literal ignorance versus performed cover remains unresolved.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H042",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 279,
+        "end_P": 338
+      },
+      "whole_selected_premise": "Aqua demonizes a harmless applicant and a chipped cup while K corrects the accused succubus’s actual purpose.",
+      "primary_L": "L2",
+      "L_rationale": "Repeated causal labels are contradicted by the provider303 and D’s own remembered cup handling338.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Not every hood is Satanist; the shop succubus is unnamed and not automatically Lolisa.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H043",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 340,
+        "end_P": 379
+      },
+      "whole_selected_premise": "K’s promised demon-house investigation becomes a technically truthful service visit, then public help loses out to booking scarcity.",
+      "primary_L": "L2",
+      "L_rationale": "“Devil house” conceals intended route; explicit alternatives and own access375 precede abandonment378.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Actual booking not completed service; causal account is not an omniscient guarantee of his sole motive.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H044",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 384,
+        "end_P": 412
+      },
+      "whole_selected_premise": "An incidental failed ritual makes K stay awake and report danger before any VIP offer.",
+      "primary_L": "L2",
+      "L_rationale": "New information changes his choice; the prospective benefit arrives later436.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "No hidden early heroic investigation plan; his practical report precedes reward but follows earlier service-seeking.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H045",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 422,
+        "end_P": 448
+      },
+      "whole_selected_premise": "A devotional clay relic calms the frightened provider while a coveted book shocks her.",
+      "primary_L": "L2",
+      "L_rationale": "Jealous status claims and K’s perceived relic value belong to their distinct appraisals.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Aftermath448 reports life loss, not an on-page medical death sequence or a reliable universal species rule.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H046",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 455,
+        "end_P": 480
+      },
+      "whole_selected_premise": "Vanir’s celebrity and a queue of protectors mix privacy fear with acquisitive wishes; Aqua seeks breakfast after forgetting her search.",
+      "primary_L": "L2",
+      "L_rationale": "K’s competing-motive interpretation466-467 stays attributed and Aqua’s empty-stomach timing does not uniquely prove it.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Photobooks are reports, not fully read new works; invited breakfast is not yet served.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H047",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 489,
+        "end_P": 518
+      },
+      "whole_selected_premise": "Aqua stops threatened violence, then delighted Vanir accepts human worship and offers a bargain.",
+      "primary_L": "L2",
+      "L_rationale": "Small-audience status gratification reverses his prior privacy caution.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Unwanted relatives are proposed sacrifices, not owned consent or completed offerings; no actual coerced world-end contract.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H048",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 522,
+        "end_P": 556
+      },
+      "whole_selected_premise": "The feared summoners actually want succubi, reducing Vanir to a gatekeeper for others’ desire.",
+      "primary_L": "L2",
+      "L_rationale": "Misaligned object of adoration flips rank; K changes stance when the provider hears him536-537.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Physical service not assented to, buyout not completed; actual bans555-556 and Wiz’s suppressed laughter548 remain.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H049",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "start_P": 559,
+        "end_P": 573
+      },
+      "whole_selected_premise": "Mundane requests and mistaken ハニル replace existential awe, prompting Vanir’s departure.",
+      "primary_L": "L2",
+      "L_rationale": "Wrong-name insult and ordinary petition register are the immediate discouraging meanings.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "ハニル is a mistaken name, not a new alias; younger-looking succubus569 is not identified as Lolisa.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H050",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 3,
+        "end_P": 43
+      },
+      "whole_selected_premise": "K’s luck excludes him from cards, so he scatters them with Wind and receives sincerely worried responses.",
+      "primary_L": "L2",
+      "L_rationale": "His “only choice” claim24 is opposed by his actual voluntary sabotage21.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "No gamble losing-streak A07 trial; silent wallet offer42 is K’s interpretation and no gift acceptance follows.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H051",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 49,
+        "end_P": 89
+      },
+      "whole_selected_premise": "An adventure book activates longing; a class explanation produces shame rather than a new skill.",
+      "primary_L": "L2",
+      "L_rationale": "Primary/basic/primordial meanings and local rank ideology differ; polite kindness can sting through perceived pity.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "No guaranteed sole basic adventurer and no new profession or advanced powers are acquired.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H052",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 97,
+        "end_P": 120
+      },
+      "whole_selected_premise": "A returned Vanir’s VIP card redirects the supposed grand adventure into a familiar mock mugging.",
+      "primary_L": "L2",
+      "L_rationale": "Explicit narrator translations distinguish the friends’ staged rough talk from actual predation.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "This script is not evidence that all Dust harassment elsewhere is harmless roleplay.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H053",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 125,
+        "end_P": 171
+      },
+      "whole_selected_premise": "A stranger’s well-intended intervention is misled by K’s invented Dust predator story and her own curiosity.",
+      "primary_L": "L2",
+      "L_rationale": "BL inference and honorific hierarchy alter her help, while K’s thanks preserves the helpful intention.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "The story is false, not evidence of Dust orientation; mistaken aid and actual coercion are distinct.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H054",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 174,
+        "end_P": 224
+      },
+      "whole_selected_premise": "K repeatedly tests a painful heated finger, denies resentment, then internally admits payback.",
+      "primary_L": "L2",
+      "L_rationale": "Demonstration requests serve harassment, and favorable self-description conflicts with explicit motive224.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Angie is not yet an established valued bond for every K03 condition; actual suffering still remains.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H055",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 227,
+        "end_P": 265
+      },
+      "whole_selected_premise": "Age and frontier experience undermine the assumed senior-junior hierarchy, which Angie tries to preserve.",
+      "primary_L": "L2",
+      "L_rationale": "Avoiding K’s age answer244 matters because both just disclosed17; technical competence and status needs coexist.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Exact age is this source slice; no global earlier-age backfill or diagnosis follows.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H056",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 275,
+        "end_P": 324
+      },
+      "whole_selected_premise": "An intimidating devil proves a good waiter, while K forces a costly cultivated drink they both dislike.",
+      "primary_L": "L2",
+      "L_rationale": "Public sophistication321 conflicts with her actual sensory verdict324 and tried objection305.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Angie’s offer to pay is not unlimited consent to every veteran’s later orders; Wiz’s absence is a report of overwork.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H057",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 328,
+        "end_P": 353
+      },
+      "whole_selected_premise": "A server’s completed-tense anticipation and an intrusive bottle-taking watcher worsen the mentor’s status anxiety.",
+      "primary_L": "L2",
+      "L_rationale": "いたしました328 versus いたします330 locates preemption in wording; no untranslatability claim is necessary.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "DarkStalker’s claimed nonintervention conflicts with actual bottle contact; donation claim350 remains self-serving.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H058",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 360,
+        "end_P": 397
+      },
+      "whole_selected_premise": "K blinds protesting housemates to escape a joke about babysitting; a thrown pet then injures Aqua.",
+      "primary_L": "L2",
+      "L_rationale": "M’s third-eye claim387 is a performance, while actual cat scratches391 and D’s false blame392 have distinct agents.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "One purchased Flash is used, not an acquired spell; danger to Chomusuke is not automatically decisive bonded-target harm.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H059",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 404,
+        "end_P": 448
+      },
+      "whole_selected_premise": "The hungover mentor has paid veterans’ whole bill, then offers a resource quest that fits both her skills and K’s desired view.",
+      "primary_L": "L2",
+      "L_rationale": "Her tired protest and K’s revised paraphrase expose exploitation; nonsense-sounding ore names retain genuine utility.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Technical valuation is not meaningless because K dislikes names; future reward not assured.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H060",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 458,
+        "end_P": 500
+      },
+      "whole_selected_premise": "K hides behind his protector, who actually kills and harvests a correctly named slug.",
+      "primary_L": "L2",
+      "L_rationale": "Fake deadly-monster name477 is corrected478, and professional acknowledgment486 follows real skill.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Sharpness and careful harvesting are real; his unshared enemy detection500 is not missing sensing ability.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H061",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 501,
+        "end_P": 551
+      },
+      "whole_selected_premise": "Solo stealth and genuine view appreciation coexist with leaving a partner exposed and dreading the walk home.",
+      "primary_L": "L2",
+      "L_rationale": "Angie’s cooperative objection524 is not a complaint about success; scenic awe need not be pure or false.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Actual beginning of mountain bird chase is omitted between551 and555; do not invent flower theft as its cause.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H062",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 565,
+        "end_P": 599
+      },
+      "whole_selected_premise": "A wanted flower defeats an intended eye shot; known butterfly risk then changes K’s next choice.",
+      "primary_L": "L2",
+      "L_rationale": "Desire582 is explicit before revised restraint589 and her costly town-protection commitment591.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Ore value565 explains Angie’s load, not safety; genuine local updating does not predict every later inhibition succeeds.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H063",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 604,
+        "end_P": 630
+      },
+      "whole_selected_premise": "K anticipates the evening Explosion and pulls Angie down, saving them through a blast that still injures them.",
+      "primary_L": "L2",
+      "L_rationale": "Angie’s misheard emergency bell and K’s local knowledge differ; M’s minimal-damage claim629 is not zero harm.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "M did not identify K627; specific prior friend separation/recovery for full M03 is not independently established.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H064",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 636,
+        "end_P": 669
+      },
+      "whole_selected_premise": "A flower trophy and admired ore bring real recognition while the morning Flash grievance remains.",
+      "primary_L": "L2",
+      "L_rationale": "M’s name-driven ore preference and K’s admiration request650 coexist with D’s more material flower interest641.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Dinner is promised665, swap proposed646; neither completed by ending; gratitude does not authorize morning Flash.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H065",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+        "start_P": 671,
+        "end_P": 682
+      },
+      "whole_selected_premise": "A ghost’s adventure book and mineral pretend-birth finish the day.",
+      "primary_L": "L2",
+      "L_rationale": "Authorship/name675 is printed inside fiction; Aq narrates invisible play678 and M denies fear672.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Ghost/book-author linkage is strong inference pending identity census, no actual birth or independently seen ghost by K.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H066",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 11,
+        "end_P": 37
+      },
+      "whole_selected_premise": "Ignis’s return brings a crushing hug, an explicit stop and a candid failed-admin admission.",
+      "primary_L": "L2",
+      "L_rationale": "Official family dignity and vulnerable honest answer28 meet actual paternal responsibility31.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "No fracture; father’s need to intervene19 is real; he accepts his own training duty rather than simply blaming daughter.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H067",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 44,
+        "end_P": 78
+      },
+      "whole_selected_premise": "K’s compressed “converted” report turns a temporary trial into a false alarm and menacing compulsory laughter.",
+      "primary_L": "L2",
+      "L_rationale": "Deformed compliance やるます68 expresses pressure from Ignis, not K using his own leverage.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "No actual execution sentence established; current70 denies permanent conversion.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H068",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 88,
+        "end_P": 103
+      },
+      "whole_selected_premise": "Ignis silences supernatural experts by threatening exact domains of status and faith.",
+      "primary_L": "L2",
+      "L_rationale": "Vanir true name and Aq’s dread of demon governance make institution jokes consequential threats.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "No city renamed/no governor appointed; Cecily’s blunt promise103 is not already completed purification.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H069",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 109,
+        "end_P": 141
+      },
+      "whole_selected_premise": "Angie’s forced enthusiasm and Yunyun’s weather logic become an assigned locust role with a pardon.",
+      "primary_L": "L2",
+      "L_rationale": "Hesitant retractions reveal coercion while Yun’s rain inference131 is genuinely technical.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "No SEC01-Y01free trusted invitation confirmation; M knowingly conceals responsibility for attacks wrongly blamed on Yun.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H070",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 147,
+        "end_P": 194
+      },
+      "whole_selected_premise": "The mentor worries about inexperienced townspeople while the father accepts his own exposed battle role.",
+      "primary_L": "L2",
+      "L_rationale": "M’s bounty-theft interpretation172 is explicitly disputed173; K’s all-no-plan claim183 is his inference.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Angie protective intent and local competence remain even when her town model is wrong; Ignis coercion is not erased by participation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H071",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 205,
+        "end_P": 231
+      },
+      "whole_selected_premise": "A legitimate aide role becomes direct insults and a Steal threat toward critics who identify real plan holes.",
+      "primary_L": "L2",
+      "L_rationale": "The actual215 imperative and insult have no civil/procedural contrast merely because explanation is underway.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Distinguish own status-pressure episode from father-facing68; valid criticism is not a known valid grievance for K04.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H072",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 237,
+        "end_P": 269
+      },
+      "whole_selected_premise": "Aqua accepts and executes mass buffs while Wiz is unavailable from Vanir’s admitted nonstop labor.",
+      "primary_L": "L2",
+      "L_rationale": "Practical request237/assent238 and actual Power/Blessing267/269 contrast with a shopkeeper’s food/revival rationalization242.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Fitted support is real; Vanir’s self-report does not make coerced overwork freely agreed or literal ferryman combat.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H073",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 273,
+        "end_P": 302
+      },
+      "whole_selected_premise": "The profitable flower again diverts K’s aim; a killed bird breaks windows, and D’s decoy exposes a remaining safety problem.",
+      "primary_L": "L2",
+      "L_rationale": "K’s money admission278 precludes pure random-miss account; M’s question297 is after her own cast.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Actual destructive success287 is not complete M03prepared-safe reliability; broken windows290 are retained.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H074",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 301,
+        "end_P": 323
+      },
+      "whole_selected_premise": "Darkness invokes her hydra endurance and high levels, but Megumin protests while K spots civic exposure.",
+      "primary_L": "L2",
+      "L_rationale": "Direct reassurance301 meets equally explicit 問題しかありません302; neither is inferred from later survival.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "The current dangerous commitment belongs to Darkness; Megumin dissents and no unanimous safety shift is invented.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H075",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 326,
+        "end_P": 357
+      },
+      "whole_selected_premise": "A changed flower tactic grounds the bird, but limited wire forces Ignis to become the anchoring link.",
+      "primary_L": "L2",
+      "L_rationale": "K’s urgent order and father’s rewarded call coordinate real limited contributions rather than effortless genius.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Aq begins resurrection355; explicit completion only477. One kill is “no-count”357, not no death.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H076",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 365,
+        "end_P": 390
+      },
+      "whole_selected_premise": "Paid demonic help saves a father, then the rescued daughter forces an unwilling devil to keep working.",
+      "primary_L": "L2",
+      "L_rationale": "Narrator possession reversal370/374 and simultaneous parenthetical objections373/389 distribute real agency.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Vanir explicitly wants out; unilateral5000Eextension377, held mask379 and tied mask388 are not consent from original contract.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H077",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 393,
+        "end_P": 426
+      },
+      "whole_selected_premise": "A shared victory becomes a half-day reward quarrel and K forces a worn-out mentor into the fight.",
+      "primary_L": "L2",
+      "L_rationale": "K’s peacemaking opening412 becomes self-credit and denial of others418, opposed by the crowd.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Earlier flower miss and successful rescue are separate; Angie objects425 and is physically pushed426.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H078",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 427,
+        "end_P": 451
+      },
+      "whole_selected_premise": "Yun asks after Vanir; Ignis’s pardon is challenged as an insufficient reward until repair costs and light attraction are explained.",
+      "primary_L": "L2",
+      "L_rationale": "Yun’s concern and role-independent technical agency coexist; legal/economic accounting changes the reward frame.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Aq reports Vanir’s distress429;20million447 is official estimate, and threats451 stay threats.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H079",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 453,
+        "end_P": 486
+      },
+      "whole_selected_premise": "Angie finally receives achievement/card/name evidence but leaves after a collective draw.",
+      "primary_L": "L2",
+      "L_rationale": "Own seniority narrative gives way to 駆け出し詐欺481 accusation; M’s personal value statement465 is direct.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "No individual K victory, no permanent recruitment, no hidden relation inferred.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H080",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 490,
+        "end_P": 499
+      },
+      "whole_selected_premise": "Chris’s letter forgives an offense Darkness says never occurred and invokes the goddess she herself embodies.",
+      "primary_L": "L2",
+      "L_rationale": "K’s divine knowledge and D’s ignorance produce the indulgence joke; letter/report planes stay separate.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "No directly enacted reunion or CE01public-load test. D says Chris needs Eris’s punishment498, not author-confirmed fraud.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H081",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 503,
+        "end_P": 526
+      },
+      "whole_selected_premise": "Shared tea and an invisible ghost place end in competing credit and an explicit harassment diagnosis.",
+      "primary_L": "L2",
+      "L_rationale": "The extra serving refutes greed accusation; K calls D’s conduct セクハラ523 while M’s mask-theft plan525 remains prospective.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "Aq’s predicted demon sexual misconduct526 is explicitly called rumor527, not established Vanir behavior.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI04-WHOLE-H082",
+      "source_id": "YORI-04",
+      "boundary": {
+        "component_id": "YORI-04-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "start_P": 527,
+        "end_P": 540
+      },
+      "whole_selected_premise": "K keeps a flower for memory and privately wishes a peer could leave dangerous leadership behind.",
+      "primary_L": "L2",
+      "L_rationale": "Private care538-540 and withheld praise530 coexist with earlier deliberate provocations.",
+      "primary_H": "H1",
+      "H_rationale": "The selected causal sequence consists of literal source-compatible speech, choices, attributed reports and consequences. Its rhetoric and imagined propositions are not all asserted true; comedic presentation does not remove refusal, cost or actual agency.",
+      "eligibility_and_limits": "He wishes another hero solves the war, no own new campaign commitment; M’s jealousy and future challenge remain distinct.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "not_an_independent_prediction_trial": true
+    }
+  ]
+}

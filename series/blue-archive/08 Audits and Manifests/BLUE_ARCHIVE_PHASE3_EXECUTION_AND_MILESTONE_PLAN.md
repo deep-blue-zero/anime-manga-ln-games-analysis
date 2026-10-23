@@ -3,14 +3,14 @@ series: BLUE_ARCHIVE
 artifact_type: analytical_execution_plan
 scope: Phase 3 character, relationship and institution packages across the full eligible cast at the admitted Japanese boundary
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 source_boundary: "electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; BA_REFRESH_20260928T032248159554Z; 480 MAIN units and 3940 supplemental objects admitted with limits through Cycle008; written Japanese"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-10-09
-updated: 2026-10-10
+updated: 2026-10-16
 canonical_home: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_EXECUTION_AND_MILESTONE_PLAN.md
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
@@ -59,7 +59,7 @@ Semantic acceptance requires full received arguments, consequential evidence che
 
 ## 5. Progress and the four merges
 
-**Required denominator:355. Mandatory substantial named sections:29. Milestones:89/178/267/355.** No quarter has been reached. The current21-package batch has persistence only after ROOT installation; other local drafts/acceptances remain outside this publication snapshot. Inventory, source/header mechanics and indexes add no completed literary packages.
+**Required denominator: 355. Mandatory substantial named sections: 29. Milestones: 89/178/267/355.** Current verified published source `f93ab42fc3cfdeedd8df37455d9c8da4c88ae49d` contains **152 accepted and persisted packages (about 42.8%) and 19 completed named duties**. The first 89-package milestone is integrated; the next 178-package threshold remains unreached, with 26 packages remaining. The owner explicitly authorizes the current 152-package tranche and Rio binding repair to integrate now. This is an authorized interim integration, not completion of the 50% milestone. Inventory, source/header mechanics and indexes add no completed literary packages. The [canonical current map](../CURRENT_STATE_AND_CORPUS_MAP.md#current-publication-and-integration-authorization--2026-10-16) owns current progress and routes the existing PR receipts for actual publication/integration results.
 
 The adopted required scope fixes `N=355`, including character, directed relationship, ensemble, institutional, Sensei and register packages. Each package counts once when its declared responsibility has passed semantic acceptance and its complete work is persisted on the series branch. Track drafting, acceptance, source publication and main integration separately. Package rows cannot be marked complete merely because supporting sources have been read.
 
@@ -74,7 +74,7 @@ Every quarter should preserve the architecture's structural variety and justifie
 
 If evidence changes membership, record the old and new package sets, reason, affected claims and revised thresholds. Do not reduce the denominator to erase unfinished eligible work or retrospectively announce a milestone that was never integrated. Legitimate deferrals must remain recoverable and must not conceal a mandatory source debt.
 
-The current user instruction supplies merge authorization for these four milestones, superseding older merge reservations for this Phase 3 work. Ordinary source publication before a milestone may preserve completed work, but must use a draft PR or the governed nightly hold so it cannot be integrated early by the scheduler. Finish the complete source-audit/housekeeping/final-head sequence before the next source publication. Each milestone additionally requires a protected owner-authored PR merge and the explicit successful audit of the actual integration SHA. No force push, history rewrite, direct main push, security bypass or character/housekeeping ownership transfer is authorized.
+The owner instruction supplies publication, push and merge authorization at 25%, 50%, 75% and 100%, superseding older merge reservations for this Phase 3 work. Publish and integrate the accumulated accepted work at each threshold; do not wait for 100%. The 2026-10-16 clarification additionally releases the current PR173/PR158 tranche at 152/355 for promotion, reconciliation and merger now. A milestone is a required publication/integration checkpoint, not an automatic hold on otherwise owner-authorized interim progress. Use a draft PR or governed nightly hold only for a current owner-directed hold or an identified unresolved integration blocker, and remove a stale hold when its owner releases it. Preserve acceptance and source boundaries for unfinished candidates. Finish the complete source-audit/housekeeping/final-head sequence before the next source publication. Every integration requires a protected owner-authored PR merge and the explicit successful audit of the actual integration SHA. No force push, history rewrite, direct main push, security bypass or character/housekeeping ownership transfer is authorized.
 
 ## 6. Execution and first operations
 

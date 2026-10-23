@@ -2,7 +2,7 @@
 
 `characters/registry.jsonl` is the canonical structured source for the generated root `CHARACTER_ANALYSIS_INDEX.md`. One nonblank JSONL line is one schema-v2 **analysis subject**. The Markdown index is a deterministic discovery view and must never be edited as independent authority.
 
-The production discovery registry contains 162 reviewed subjects across 25 analytical series/study scopes. Of these, 120 have dedicated evidence and 42 qualify through distributed substantial analysis. The 2026-09-04 comprehensive audit added 128 subjects after reviewing all 40 registered series roots, including previously undiscoverable character-profile, character-core, monograph, longitudinal-ledger, shared-monograph, and explicitly high-readiness distributed work. The complete per-series disposition and the deliberately excluded or blocked scopes are recorded in `governance/reports/CHARACTER_REGISTRY_COMPREHENSIVE_AUDIT_2026-09-04.md`. Reconstruction capability is specified separately and remains deliberately unpopulated.
+At the 2026-09-04 comprehensive audit checkpoint, the production discovery registry contained 162 reviewed subjects across 25 analytical series/study scopes; 120 had dedicated evidence and 42 qualified through distributed substantial analysis. That audit added 128 subjects after reviewing all 40 registered series roots, including previously undiscoverable character-profile, character-core, monograph, longitudinal-ledger, shared-monograph, and explicitly high-readiness distributed work. The complete per-series disposition and the deliberately excluded or blocked scopes are recorded in `governance/reports/CHARACTER_REGISTRY_COMPREHENSIVE_AUDIT_2026-09-04.md`. Those figures describe that checkpoint and are not maintained; the live population is the set of `INCLUDED` rows in `registry.jsonl`, rendered by the generated `../CHARACTER_ANALYSIS_INDEX.md`. Reconstruction capability is a separate layer; its production registry is active but holds no published assessment.
 
 ## Maintenance ownership
 
@@ -24,7 +24,7 @@ Substantive monographs and analyses remain in their canonical homes:
 series-specific analysis                    -> series/<stable-slug>/
 cross-series or taxonomy study              -> studies/<stable-slug>/
 character discovery metadata                -> characters/registry.jsonl
-future reconstruction capability metadata   -> characters/reconstruction_capabilities.jsonl
+reconstruction capability metadata          -> characters/reconstruction_capabilities.jsonl
 ```
 
 The `characters/` directory is global metadata and specification infrastructure, not a parallel home for analytical prose.
@@ -117,7 +117,7 @@ The canonical registry never stores `migration_status`.
 
 ## Evidence and analytical coverage
 
-Every evidence object has a stable local `evidence_id`, an exact repository path, human-readable label, optional verified anchor, review state, controlled analytical dimensions, and nullable provenance note. An omitted anchor has the same digest projection as `null`; migration tooling must not invent one. A future reconstruction reference is the exact concatenation:
+Every evidence object has a stable local `evidence_id`, an exact repository path, human-readable label, optional verified anchor, review state, controlled analytical dimensions, and nullable provenance note. An omitted anchor has the same digest projection as `null`; migration tooling must not invent one. A reconstruction evidence reference is the exact concatenation:
 
 ```text
 <analysis_subject_id>#<evidence_id>
@@ -301,11 +301,11 @@ If the two leaves have continuities `anime` and `light-novel`, the derived effec
 
 ## Separate reconstruction layer
 
-Discovery says where substantial analysis exists. Reconstruction capability says what extrapolations an exact, commit-bound evidence set can responsibly support. The latter is defined in `RECONSTRUCTION_CAPABILITY_SPEC.md` and its schema, but these production files do not yet exist:
+Discovery says where substantial analysis exists. Reconstruction capability says what extrapolations an exact, commit-bound evidence set can responsibly support. The latter is defined in `RECONSTRUCTION_CAPABILITY_SPEC.md` and its schema; its production surfaces are:
 
 ```text
 characters/reconstruction_capabilities.jsonl
 characters/CHARACTER_RECONSTRUCTION_INDEX.md
 ```
 
-Creating or populating them, assigning grades, or scoring characters requires a separate owner-reviewed assessment phase. Migration does not perform reconstruction assessment.
+Only the reconstruction evaluator writes them, under `../governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md`; the curation agent never does. Discovery inclusion never implies a capability grade. A discovery change that makes an assessment stale needs no synchronous capability update; the evaluator reconciles it. Migration does not perform reconstruction assessment.

@@ -1,0 +1,205 @@
+{
+  "schema": "KONOSUBA_FAN_MEM_RECEIVING_PROVENANCE_V1",
+  "accepted_utc": "2026-10-18T00:05:03.198219+00:00",
+  "status": "ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+  "source_id": "FAN-MEM",
+  "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+  "source_plane": "STAGE_C_EXPANDED_MIXED_REFERENCE_FICTION_UNEQUAL_AUTHORITY",
+  "private_originals_and_recovery_pins": [
+    {
+      "private_recovery_alias": "FAN_MEM_ENTIRE_EDITION_UNCODED_SOURCE_FIRST_REPORT_v1.md",
+      "bytes": 36699,
+      "sha256": "0f06b0e6d28b0ec8b6817438ed062bfb1f9271d8a19845a3d67def7365091d88"
+    },
+    {
+      "private_recovery_alias": "FAN_MEM_COMPONENT_INVENTORY_UNCODED_v1.json",
+      "bytes": 177439,
+      "sha256": "2539aa136f51dfe3972803f4bfe10b9a72231134fc9e4efeb738a26268da1545"
+    },
+    {
+      "private_recovery_alias": "FAN_MEM_PURPOSIVE_HUMOR_EVIDENCE_ASSIGNMENTS_v2.json",
+      "bytes": 47074,
+      "sha256": "d8218ba6a73f0f1fe8a4a283e07d44334360fd9f95f63b641a62f6d93f41a82d"
+    },
+    {
+      "private_recovery_alias": "FAN_MEM_PURPOSIVE_JAPANESE_VOICE_ASSIGNMENTS_v2.json",
+      "bytes": 33733,
+      "sha256": "7a1dec7b919c6619e9a6601ea3bd0a394d73a15c76e307ce0151fde4b2ae762f"
+    },
+    {
+      "private_recovery_alias": "FAN_RECEIVING_PRECISION_OVERLAY_v3.md",
+      "bytes": 6430,
+      "sha256": "7cf29fe8de17949ce3be503472f848a565f8f3e52ad6b5d428956d107ebafefb"
+    },
+    {
+      "private_recovery_alias": "FAN_RECEIVING_PRECISION_OVERLAY_v3.json",
+      "bytes": 4053,
+      "sha256": "57ab319148686201f1eacae603653e03f328ada9336a4bd3f1775dd939b62636"
+    },
+    {
+      "private_recovery_alias": "ROOT_BOUNDED37_SOURCE_FIRST_ANALYTICAL_NOTE_v1.md",
+      "bytes": 10989,
+      "sha256": "bbc4eba71aeb2e2e3de2d7b41459af87040605a2c4eadb41a11cd84bd32add0a"
+    },
+    {
+      "private_recovery_alias": "ROOT_ATTRIBUTABLE_POSTCOMPARISON_SOURCE_CORRECTIONS_v1.md",
+      "bytes": 1813,
+      "sha256": "5bdc16d4e3edeb9928a50fa02f11afcb6b186f7dffd1006e98d717d5572c3cd1"
+    },
+    {
+      "private_recovery_alias": "POSTCOMPARISON_REFERENCE5PAGE_ACTUAL_READING.json",
+      "bytes": 2777,
+      "sha256": "03eac384e49f9565bf95360e239523dd1b85a0d61cdf4e77dee079a5647dab76"
+    },
+    {
+      "private_recovery_alias": "INITIAL_COMPLETE_UNCODED_SOURCE_FIRST_SEAL_v1.json",
+      "bytes": 1786,
+      "sha256": "107ffea666fdea4a0edea6177edb8b4901874e3f977ebd5fe413b37756cfb45b"
+    },
+    {
+      "private_recovery_alias": "SELECTED_ASSIGNMENTS_COMPLETE_SEAL_v1.json",
+      "bytes": 1299,
+      "sha256": "d52050a15ce69548bde42be70b86b641f3dc4bc24b3456de4241ac56c51e37b9"
+    },
+    {
+      "private_recovery_alias": "CURRENT_SELECTED_SOURCE_PRECISION_SEAL_v2.json",
+      "bytes": 957,
+      "sha256": "2b1086759e0b23fc995ee85fcde09b9b928baefea67c87aae45177eaf90f1f43"
+    },
+    {
+      "private_recovery_alias": "EXACT_SELECTED_V1_TO_V2_SOURCE_ANCHOR_CORRECTIONS_AND_INVERSES.json",
+      "bytes": 6254,
+      "sha256": "0af162b1f5ea4a4ccefb5eddaf212b608cef79246f93461bd580a97c320583ba"
+    },
+    {
+      "private_recovery_alias": "FINAL_BUNDLE_INTEGRITY_AND_ZIP_RESIDUAL_SCOPE_ADDENDUM.json",
+      "bytes": 2756,
+      "sha256": "5203b75af425c0baa3d22fc5b556af8e53e29138a9eb8b2bbaa65fa1355ccbf4"
+    },
+    {
+      "private_recovery_alias": "FAN_RECEIVING_PRECISION_OVERLAY_SEAL_v3.json",
+      "bytes": 533,
+      "sha256": "24f4436ea58c3ea174f7f38c6caa7363b828b2a446bb10bea9a82192a3c98e6d"
+    },
+    {
+      "private_recovery_alias": "ROOT_BOUNDED37_INITIAL_UNCODED_SOURCE_FIRST_SEAL.json",
+      "bytes": 1848,
+      "sha256": "619ede6e3f0d196f1eeeeca6999ab0b62b234edea0da1647fbdcd7ba06798fa3"
+    },
+    {
+      "private_recovery_alias": "ROOT_BOUNDED37_INITIAL_ANALYTICAL_NOTE_SEAL.json",
+      "bytes": 346,
+      "sha256": "ab6c1b0c4a6eb5909a58c8ea7f9adfea265a585747867178bd6c604f54237473"
+    },
+    {
+      "private_recovery_alias": "ACTUAL_BOUNDED_ROOT_PAGE_ACKNOWLEDGMENTS_AND_UNCODED_NOTES.jsonl",
+      "bytes": 38383,
+      "sha256": "af40ad6aab57ae0d3795ec4399f66a0ef9bf71b9ecbf192c6b391cbcd62d2f62"
+    },
+    {
+      "private_recovery_alias": "POSTCOMPARISON_REFERENCE5PAGE_ADMISSION.json",
+      "bytes": 3170,
+      "sha256": "56e3144d4770f3299c82e61459a3c3c57c38529fe57d4e30169efb07ef9094e8"
+    },
+    {
+      "private_recovery_alias": "S098_S099_SAME_PAGE_PRECISION_CROP_RECEIPT.json",
+      "bytes": 877,
+      "sha256": "53a56fe1628cd2e2145b83a595bf55812f6ce0aeec3c2cd18dc7cb1f47dadd66"
+    }
+  ],
+  "actual_reading": {
+    "semantic_reader_pages": 121,
+    "semantic_reader_complete_fiction_bodies": 3,
+    "semantic_reader_complete_navigation": [
+      "item/navigation-documents.xhtml",
+      "item/toc.ncx"
+    ],
+    "root_initial_pages": 37,
+    "root_later_reference_pages": 5,
+    "root_total_unique_pages": 42,
+    "other79_root_actual_reading": "NOT_CLAIMED",
+    "root_entire_report_and_inventory_H_V_qualifications_received": true,
+    "independent_human_statistical_or_pristineblindness": false,
+    "audio": "NONE"
+  },
+  "current_qualifications": [
+    {
+      "id": "FAN-PREC-01",
+      "affected": [
+        "Report§7",
+        "FM-H-14 title/setup/H rationale",
+        "FM-V-11 context/pragmatics/L rationale",
+        "Any S098 ticket summary"
+      ],
+      "original_scope_error": "Ticket described as expiring/date constraints/true institutional deadline without distinguishing label truth.",
+      "current": "Genuine ticket; Kazuma himself writes date and same-day-only label. True service expiry not established. Deceptive perceived cutoff is the mechanism.",
+      "code_scope": "Original H1/L0 may remain for actual labeling/deception, not truth of expiry."
+    },
+    {
+      "id": "FAN-PREC-02",
+      "affected": [
+        "Acknowledgement98 uncoded_source_notes",
+        "Inventory S098 uncoded_observation"
+      ],
+      "original_exact_ambiguous_phrase": "Dustparty/Leen-specific ticketcontest proposed and observed without actualsexualservice demonstration.",
+      "current": "Dust party arrival is observed. Vanir proposes a Leen-facing ticket experiment; no execution/outcome of that proposal is shown.",
+      "no_Dust_or_Leen_performed_choice_inferred": true
+    },
+    {
+      "id": "FAN-PREC-03",
+      "affected": [
+        "FM-H-07 H_class/H_scope_and_rival"
+      ],
+      "initial_H_class": "H1",
+      "current_behavioral_H_applicability": "NOT_APPLICABLE_TO_NEW_PERFORMED_BEHAVIOR",
+      "current": "Editorial reported capacity and limits, with literal world-mechanical claim preserved; no actual new injury test. Neither H3 merely for reference status nor H4 for magic."
+    },
+    {
+      "id": "FAN-PREC-04",
+      "affected": [
+        "FM-V-15 selected_L_class/rival rationale"
+      ],
+      "initial_L_class": "L3",
+      "current_recommendation": "L2",
+      "confidence": "MODERATE",
+      "alternative": "L1 phrase-focused reading",
+      "reason": "Ordinary offer-of-help idiom; no locally exploited literal undressing ambiguity. Literal-translation error alone does not establish Japanese-form-central L3."
+    },
+    {
+      "id": "FAN-PREC-05",
+      "affected": [
+        "FM-V-05 justification"
+      ],
+      "initial_and_current_L_class": "L3 defensible, not compulsory",
+      "current": "Specific self-used proverb undercuts intended praise. Separate lexical/cultural/pragmatic contributions; no all-idioms-L3 rule."
+    },
+    {
+      "id": "FAN-ROOT-PREC-06",
+      "affected": [
+        "FM-V-05 source_plane/context",
+        "S072 caption"
+      ],
+      "current": "Reported Aqua self-quotation in editorial caption, not a fully staged newA/Kturn; source historical scene not independently reconstructed here. L3proverb misuse defensible, cultural/pragmatic alternatives visible."
+    },
+    {
+      "id": "FAN-ROOT-PREC-07",
+      "affected": [
+        "S060",
+        "FM-H-04 setup"
+      ],
+      "current": "Aqua rankrecollection hedged 気がするんだけど. Darkness corrects Ragcraftcategory; no confidentassertion/globalignorance inferred."
+    },
+    {
+      "id": "FAN-ROOT-PREC-08",
+      "affected": [
+        "Root initial S102 shorthand",
+        "Root initial blast attribution restriction"
+      ],
+      "current": "FreshactualS102 shows Kazuma kicksAqua, correctingrootreversedagency. S106–107 sequentialMstaff/aura/cast/graphic supportsMeguminblast; no deaths/durablebuildingconsequences certified. Originalrootnotes preserved, S initialcorrect."
+    }
+  ],
+  "preservation": "Originaluncoded/selectedV1/V2/initialroot records unchanged. V3 and root sourcecorrections govern currentuse, no silentlyrecodedoriginals or scorechange.",
+  "publication": "Exactheadpublicationgatependingatacceptance",
+  "native_media_or_full_source_text_published": false,
+  "full_corpus_complete": false
+}

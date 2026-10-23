@@ -1,0 +1,313 @@
+{
+  "schema": "ODY_CURRENT_INPUT_AND_PREPARATION_RECEIPT_V1",
+  "existing_home": "P3-INST-ODYSSEIA",
+  "ROOT_authored_body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ODYSSEIA_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 33349,
+    "sha256": "99fa75c73f38f08d79d6d1da8d79bac6b48aee3a4651103e220d8a9bc1714a26",
+    "git_blob_oid_of_actual_bytes": "4099606621ba8f7d18ba2f44b0a64143b4ef468f",
+    "physical_lines": 173,
+    "ROOT_author_private_snapshot_id": "BLUE_ARCHIVE_ODYSSEIA_INSTITUTIONAL_SYNTHESIS_PRIVATE_DRAFT_V3.md",
+    "exact_preserved_final_LF_count": 1
+  },
+  "body_final_two_LF_preservation": "Exact ROOT33350-byte body intentionally preserved with two LF, as ROOT confirmed; public JSON components independently use one final LF.",
+  "fixed_body_receiving_basis_snapshot": "**Fixed preparation basis:** local series/blue-archive c600754976b6c53278d6136045d098904962d7af, tree 6fb07be4a326e9c1dbe5a8e740ec4eb6333301b3; published source 3495ee6b4712c7ca4de25a75054d83863cccbf3f; main cb99d141317d51f9c47ee098c7a07982c07c3a20. Source135/355 packages and14/29 named duties, main133/355 and13/29. These describe this draft's receiving basis, not its future publication or validation.",
+  "not_future_publication_head": true,
+  "current_input_witnesses": [
+    {
+      "artifact_id": "ODYSSEIA_INSTITUTION_O005_O029_NEW_TARGET_PURPOSE_JUDGMENTS_V1.json",
+      "bytes": 247794,
+      "sha256": "e5a78b5abdd8d66913ef5da281a86e45240d7de1c3ecde25dcf13a3379f5d014",
+      "git_blob_oid_of_actual_bytes": "121bc71e75bc5727f8749605ca36de9009729685"
+    },
+    {
+      "artifact_id": "ODYSSEIA_INSTITUTION_O030_O054_NEW_TARGET_PURPOSE_JUDGMENTS_V1.json",
+      "bytes": 320959,
+      "sha256": "d73e1982905df826db48db442df8ab17979320707045a43b24e41325a2b7f7d8",
+      "git_blob_oid_of_actual_bytes": "1fe99aa09f8cf6fecc5ef41ce6e218e48f866f79"
+    },
+    {
+      "artifact_id": "ODYSSEIA_INSTITUTION_O055_O079_NEW_TARGET_PURPOSE_JUDGMENTS_V1.json",
+      "bytes": 409356,
+      "sha256": "c4a5f86337dad36e25ea1c0692d5ed9bccd5c5a763f8a6ad58f68811ec6094a6",
+      "git_blob_oid_of_actual_bytes": "5dc56035c49e9bf2912893cddb91fc2292eb7627"
+    },
+    {
+      "artifact_id": "ODYSSEIA_INSTITUTION_O080_O104_NEW_TARGET_PURPOSE_JUDGMENTS_V1.json",
+      "bytes": 516344,
+      "sha256": "900392fc2f2c1dc6347d0c9b5c24b854966e0ee7df97c3967cbe513547e4b103",
+      "git_blob_oid_of_actual_bytes": "c2bb4dceedae946147c69403d0ebcd517dd5b6a9"
+    },
+    {
+      "artifact_id": "AUTHORED_INSTITUTIONAL_QUESTIONS_O005_O054_V1.json",
+      "bytes": 16175,
+      "sha256": "6cbe8c9da441ff7f9158475c278224ef83663067314c8436f18f780bdf71fd1c",
+      "git_blob_oid_of_actual_bytes": "5888798e62fccf5cbd36bfbd3a59202d3c7af680"
+    },
+    {
+      "artifact_id": "AUTHORED_INSTITUTIONAL_QUESTIONS_O055_O104_V1.json",
+      "bytes": 17599,
+      "sha256": "e00fe32504e2d80a756699602ebafffc19072b448d66ae5347c2def481b3f259",
+      "git_blob_oid_of_actual_bytes": "edcd5f6d2180602329e68c17b0a0e060f6832da2"
+    },
+    {
+      "artifact_id": "ODYSSEIA_INSTITUTION_REMAINING100_SOURCE_SPECIFIC_PURPOSE_INDEX_AND_PRESERVATION_V1.json",
+      "bytes": 5260,
+      "sha256": "5550daedb4fe56a62b72c5e2e32b85990e9f7ab424559ec22cf373eec187bcff",
+      "git_blob_oid_of_actual_bytes": "b20056b10e9f67e10a20a06f92082bc4a9a2efd4"
+    },
+    {
+      "artifact_id": "ODYSSEIA_INSTITUTION_REMAINING100_EXACT_PRIOR_INPUT_CUSTODY_AND_RECEIVING_SCOPE_V1.json",
+      "bytes": 13221,
+      "sha256": "80363cee83b2932c515b40564d77e6e6f3d74174576e510130d456c71a3f9d79",
+      "git_blob_oid_of_actual_bytes": "a1a5f73a65d90129f8ed937f38a4c0e124810af0"
+    },
+    {
+      "artifact_id": "ODYSSEIA_INSTITUTION_OWN20_CONSEQUENTIAL_CONTEXT_REUSE_PURPOSE_CROSSWALK_V1.json",
+      "bytes": 29634,
+      "sha256": "de2ba0009cb2def424f10c792ab8d6feecd434a10d97906cfb509cf452ff0247",
+      "git_blob_oid_of_actual_bytes": "d865926285511579438135abc1872fa556145d4e"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_O000_O004_OWN_TARGET_SPECIFIC_PURPOSE_ADJUDICATION_V1.json",
+      "bytes": 8154,
+      "sha256": "268e4d6c81983f8d2ecf72be34b2e4b8fa11a99dcee48d61e595617fc27ce72c",
+      "git_blob_oid_of_actual_bytes": "4e06316f332852f6731a92d3536d210e842a174a"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA_INSTITUTION_OWN_TARGET_QUESTIONS_CONSEQUENTIAL_RECEIVING_AND_REUSE_GRADE_PLAN_V1.json",
+      "bytes": 7277,
+      "sha256": "a7e2793895853f39ce4122b5b8a9713bde275afaf45dcf084c15e9237049f746",
+      "git_blob_oid_of_actual_bytes": "ee5e943dba50c757fc34c534d5270e746ea500fd"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_PRIOR_MEANING_INPUT_PARTS_AND_ZERO_NEW_CREDIT_V2.json",
+      "bytes": 5618,
+      "sha256": "e52e202f3d150fb71572c539472d8adfef9cc086e6be80bd65802b34bca33a3e",
+      "git_blob_oid_of_actual_bytes": "2fd076727eceb349a03d18014469a5a609467d61"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_NEW_TARGET_MEANING_COMPLETE_RECEIVING_PRELIMINARY_DECISION_V1.json",
+      "bytes": 3131,
+      "sha256": "da6304daaafccde12d82e6f85acb3cda86ee2f492706269e754ac5513381d996",
+      "git_blob_oid_of_actual_bytes": "8997f480cd85c09376ffd5c1764fe9cb402edb9b"
+    },
+    {
+      "artifact_id": "INDEPENDENT_ODYSSEIA_INSTITUTION_REMAINING100_ALL_CURRENT_MEANINGS_THREE_REPAIRS_AND_EXACT_FIELD_INVERSIONS_V2.json",
+      "bytes": 252441,
+      "sha256": "2fa412bd222a8443ceeda7e35b937256a88da6dd24374d9c46bec1dc4337d7ce",
+      "git_blob_oid_of_actual_bytes": "de2fe7f7307229e9f04cab62c99448dd15c48662"
+    },
+    {
+      "artifact_id": "BLUE_ARCHIVE_ODYSSEIA_INSTITUTIONAL_SYNTHESIS_PRIVATE_DRAFT_V3.md",
+      "bytes": 33350,
+      "sha256": "2a5857a5bad2f8708672cbd3458845db28789615f161ef21cb46c775d406ad52",
+      "git_blob_oid_of_actual_bytes": "2655f5798c709d34a8cb9800b96a5a65303221d5"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA_INSTITUTION_PRIVATE_BODY_ONLY_AUTHOR_BINDING_V3.json",
+      "bytes": 980,
+      "sha256": "f85cf439b1a4a50130fa6c7dd6dc89cf8a88eec56c0561ae9de2b075051754de",
+      "git_blob_oid_of_actual_bytes": "b858db2ef0e38768be319dad071069e6381944d2"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA_AUTHOR_V2_V3_TWO_SUPPORTED_PRECISIONS_AND_FULL_INVERSE_V1.json",
+      "bytes": 5646,
+      "sha256": "32bb457351ebba7449f36536a28aa7afa214490404f1b16ed3c4ee7f04ab3220",
+      "git_blob_oid_of_actual_bytes": "3ec0712e6170a1b3fcb1bb5730e9b525e4d5cbb8"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_000_009_V2.json",
+      "bytes": 58865,
+      "sha256": "2e923d2763c8073d0d61d54acb78ce99d5bbe4edef0eb84efca38cd0783bab5d",
+      "git_blob_oid_of_actual_bytes": "914909a538f54ac969e280fe5f60c55e96dd2906"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_010_019_V2.json",
+      "bytes": 53604,
+      "sha256": "9ffdf06d3991c7677bf1377a4e599dbd61136029c80220cb2b9540bca56d0735",
+      "git_blob_oid_of_actual_bytes": "bd835b21400054707d5113ec6c23e6a0cd26bf18"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_020_029_V2.json",
+      "bytes": 55023,
+      "sha256": "7421defc4b0f32b5a3f603763d76cd744ba09a9bf40cd7a4e629d2efc2467bba",
+      "git_blob_oid_of_actual_bytes": "ed66acda47094a411487ea10f8ec3b41091f55cc"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_030_039_V2.json",
+      "bytes": 70082,
+      "sha256": "26b6f1b31df148c44134c599510f60cec5e58203bb9f60b2f964e56916cf8e5f",
+      "git_blob_oid_of_actual_bytes": "5cc40b03dd38e6eaf935699be4765b68aa7820c4"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_040_049_V2.json",
+      "bytes": 85986,
+      "sha256": "83870b947a0f25a459b4b0d8fec33a552bc0fe74b92e0ba62572fbe44e1e3d36",
+      "git_blob_oid_of_actual_bytes": "79380b8b1b6dfb4757064663f8f14135b12bbc07"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_050_059_V2.json",
+      "bytes": 96346,
+      "sha256": "ade26f1d99ddfe1835a7a39a718816dd283c385945e0100893058c9835be945a",
+      "git_blob_oid_of_actual_bytes": "fdcc1cb8850106660091c1560b7ea88c9a8d00aa"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_060_069_V2.json",
+      "bytes": 110226,
+      "sha256": "342d9319537817e2ebca80032572b88e24c889655d1d1b921df242164fd490c5",
+      "git_blob_oid_of_actual_bytes": "1e7a194861dd50acaa4668e51dd026337db8468b"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_070_079_V2.json",
+      "bytes": 131988,
+      "sha256": "776d61eb17eb70111047e21a6cc38ebd0b58fdf3c93510de16786ca12a95e640",
+      "git_blob_oid_of_actual_bytes": "6bb3ba99a453c0b537273fd3aaa7915edfa8b46b"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_080_089_V2.json",
+      "bytes": 140190,
+      "sha256": "322e14ed4c07435f2ec419786f9551c47e55d99fceafff1a5ae81504e1311947",
+      "git_blob_oid_of_actual_bytes": "e43d962d95815f01556bb04b91f580c870235eda"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_090_099_V2.json",
+      "bytes": 152450,
+      "sha256": "3408232ce6a8f0624ab792e92c01ca818aab2f5d4f682cc92ecc6e4596686309",
+      "git_blob_oid_of_actual_bytes": "cad8c10fc131ccbaacce780a5101c99c77d8b5ec"
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_100_104_V2.json",
+      "bytes": 83739,
+      "sha256": "81364d28d5da8a26c88fb390645099415f5b6db8723f9475a3ff6df5d783d387",
+      "git_blob_oid_of_actual_bytes": "5b1be5e3ef3bdc9e5174f0953893704b1968641d"
+    }
+  ],
+  "current_remaining100_V2_exact8_precision_successor_recovery": {
+    "artifact_id": "REMAINING100_EXACT8_OPERATIONS_ALL6_FRAGMENTS_AND_DATA_FULL_INVERSES_AND_INDEX_RECOVERY_V1.json",
+    "bytes": 14178,
+    "sha256": "e8e31b7dacc24e850d565f9a11843b0c08b6bdd0c8f46dd4762084133c4f6af5",
+    "git_blob_oid_of_actual_bytes": "97850e7de63200d4f4ab6455ad14b891d697ec53"
+  },
+  "current_source_custody_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_SOURCE_BINDINGS_AND_FROZEN_INPUT_CUSTODY_V1.json",
+  "current105_purpose_index_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_CURRENT_PURPOSE_INDEX_V1.json",
+  "current_ROOT_literal_register_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ROOT_AUTHORED_COMPLETE_LITERAL_CLAIM_SOURCE_RIVAL_END_GAP_REGISTER_V1.json",
+  "dated_independent100_QA_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_REMAINING100_INDEPENDENT_PURPOSE_REVIEW_CURRENT_QUALIFIER_V1.json",
+  "current_qualification": {
+    "stage": "C_ONLY_CORRECTED_CURRENT_PURPOSES_PREPARED_FINAL_COMPONENT_QA_AND_ROOT_ADOPTION_PENDING",
+    "supported_QA_artifact_id": "INDEPENDENT_ODYSSEIA_INSTITUTION_REMAINING100_ALL_CURRENT_MEANINGS_THREE_REPAIRS_AND_EXACT_FIELD_INVERSIONS_V2.json",
+    "supported_QA_tuple": {
+      "bytes": 252441,
+      "sha256": "2fa412bd222a8443ceeda7e35b937256a88da6dd24374d9c46bec1dc4337d7ce",
+      "git_blob_oid_of_actual_bytes": "de2fe7f7307229e9f04cab62c99448dd15c48662"
+    },
+    "three_source_specific_precision_findings": [
+      "INST_QA_F01",
+      "INST_QA_F02",
+      "INST_QA_F03"
+    ],
+    "exact_operative_semantic_operations": 8,
+    "current_field_author": "/root/receive_middle_remaining",
+    "ROOT_body_author": "/root",
+    "dated_V1_pending_and_then_erroneous_current_fields": "Retained immutable at their exact V1 snapshots; only the specified new V2 target fields supersede them. No source payload, source-grade or ROOT own5 rewrite.",
+    "ROOT_reported_actual_complete_newtarget_receiving": [
+      {
+        "owners": "O005-O019",
+        "tool": "648748",
+        "grade": "COMPLETE_CURRENT_NEW_TARGET_QUESTION_POSITIVE_CONTRARY_FINITE_USE_DIMENSIONS_TRIGGER_AT_ADEQUATE_PRIOR_ROOT_REPORT_MEANING_REUSE",
+        "decision": "ADOPT_WITH_LIMITS_EXCEPT_O010_CURRENT_CONTRARY_QUALIFICATION_PENDING"
+      },
+      {
+        "owners": "O020-O029",
+        "tool": "679c50",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS",
+        "extra": "O010 full inherited source meaning confirms qualification required; no primary consumption."
+      },
+      {
+        "owners": "O030-O044",
+        "tool": "b888dc",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      },
+      {
+        "owners": "O045-O054",
+        "tool": "999edb",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      },
+      {
+        "owners": "O055-O069",
+        "tool": "42a9ab",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      },
+      {
+        "owners": "O070-O079",
+        "tool": "6c85fa",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      },
+      {
+        "owners": "O080-O094",
+        "tool": "35635d",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS",
+        "O083": "Fine defeated-party identity remains deferred; no denial of initial numerical defeat or later broad defense."
+      },
+      {
+        "owners": "O095-O104",
+        "tool": "de7533",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      }
+    ],
+    "final_ROOT_current105_adoption": "PENDING_CURRENT8_CORRECTIONS_AND_COMPONENT_QA",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "new_source_grade_or_primary_native_raw_AV_identity_package_named_generated_registry_or_model_credit": 0
+  },
+  "known_originals_persist_untouched": true,
+  "ROOT_receiving_and_current_final_adoption": "CURRENT_COMPONENT_QA_AND_FINAL_ROOT_ADOPTION_PENDING",
+  "author_preparer_grade": "No new whole primary/native/raw/AV/source admission; current repeated tuple/serialization checks are mechanics, not semantic counts.",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "fixed355_29_25_384_788": "UNCHANGED",
+  "new_package_named_identity_source_admission_model_or_registry_generated_credit": 0,
+  "R_Git_provider_mutations": false,
+  "current_format_only_publication_successor_qualification": {
+    "schema": "ODYSSEIA_REQUIRED_PUBLICATION_WHITESPACE_ONE_FINAL_LF_SUCCESSOR_QUALIFICATION_V1",
+    "reason": "Required publication whitespace gate found new blank line at EOF at old174. Remove only last LF; no analytical prose or source change.",
+    "historical_ROOT_V3_and_whole_review_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ODYSSEIA_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 33350,
+      "sha256": "2a5857a5bad2f8708672cbd3458845db28789615f161ef21cb46c775d406ad52",
+      "git_blob_oid_of_actual_bytes": "2655f5798c709d34a8cb9800b96a5a65303221d5",
+      "physical_lines": 174,
+      "final_LF_count": 2,
+      "role": "Frozen original authored/received argument and all original ROOT/QA declarations stay literal history."
+    },
+    "current_saved_format_only_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ODYSSEIA_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 33349,
+      "sha256": "99fa75c73f38f08d79d6d1da8d79bac6b48aee3a4651103e220d8a9bc1714a26",
+      "git_blob_oid_of_actual_bytes": "4099606621ba8f7d18ba2f44b0a64143b4ef468f",
+      "physical_lines": 173,
+      "final_LF_count": 1,
+      "claims": 36,
+      "all_claim_heading_rival_endpoint_gap_physical_locations": "UNCHANGED; only terminal empty physical line174 removed."
+    },
+    "review_coverage": "Prior complete V2 whole174 plus current V3 complete three affected lines/full inverse and full current36/105 exact11 QA cover the unchanged argument. This one-byte format delta is not a fresh whole173 literary or source pass.",
+    "ROOT_original_literary_semantic_adoption": "Complete original body/current105 purposes accepted WITHLIMITS; same argument retained. Current format delta/composition adoption still requires ROOT separate actual receiving.",
+    "frozen_snapshot_fields": "All original174/33350 ROOT and complete QA body/tuple/decision declarations and original11 snapshot arrays remain literal dated history. Only explicit operative current binding fields are updated.",
+    "required_whitespace_gate": {
+      "algorithm": "C-local git diff --no-index --check against an empty beforeimage",
+      "actual_body_exit_code": 1,
+      "whitespace_output": "EMPTY",
+      "result": "PASS",
+      "status_role": "Expected diff-only status1 is no whitespace failure; no Git repository or provider action."
+    },
+    "complete_full_actual_V1_recovery_artifact_id": "ODYSSEIA_EXACT14_V2_ONE_FINAL_LF_AND_ALL_CURRENT_BINDING_COMPLETE_FIELD_DIFFS_EXECUTED_ACTUAL_V1_FULL_BYTE_INVERSES_V1.json",
+    "current_format_delta_and_public_composition_ROOT_adoption": "PENDING_SEPARATE_CURRENT_ROOT_RECEIVING",
+    "actual_installation_sharedmetadata_publication_SOURCE_HK_FINAL_and_main": "PENDING_ROOT",
+    "composition_author": "/root/minato_105_derivative; format binding/composition author, not a new independent reviewer.",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "fixed355_29_25_384_788": "UNCHANGED",
+    "new_source_primary_native_raw_AV_admission_identity_package_named_registry_generated_or_model_credit": 0,
+    "merge_approval": "RESERVED"
+  }
+}

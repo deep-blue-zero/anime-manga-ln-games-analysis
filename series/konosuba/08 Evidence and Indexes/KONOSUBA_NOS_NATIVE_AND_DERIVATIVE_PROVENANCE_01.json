@@ -1,0 +1,79 @@
+{
+  "schema": "KONOSUBA_NOS_NATIVE_AND_DERIVATIVE_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T06:49:48.331631+00:00",
+  "source_commit": "02a355704ac14db3455f1f738c92a6c576e78746",
+  "identity_decision": "High-confidence inferred single Nos subject across MAIN17/DUST07; open-join history preserved.",
+  "native_BASE_contexts": [
+    {
+      "source": "DUST-07",
+      "component": "DUST-07-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "member_sha256": "6777b851ec9f2e450e5cb21d96956c1ab584b9f2d3438842eceafb76241bf39a",
+      "cache_sha256": "8a035626f9d0b20b13cc6132da64cd024ff6b8c45c515e46f530a545b0a7556a",
+      "actual_complete_BASE_views": [
+        [
+          205,
+          260
+        ]
+      ],
+      "unique_slots_within_this_receipt_only": 56,
+      "nonempty_BASE_slots": 54
+    },
+    {
+      "source": "MAIN-17",
+      "component": "MAIN-17-U011",
+      "member": "text/part0009.html",
+      "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "member_sha256": "8d1d0017ca714c02613753f0a7811f0cd7d1ee3e7691cff5029765548338f90a",
+      "cache_sha256": "5c023742e0da486402dfdebe8bf7cb169df245da0d57149d6b6b3374d9259b66",
+      "actual_complete_BASE_views": [
+        [
+          403,
+          489
+        ],
+        [
+          490,
+          591
+        ]
+      ],
+      "unique_slots_within_this_receipt_only": 189,
+      "nonempty_BASE_slots": 178
+    },
+    {
+      "source": "MAIN-17",
+      "component": "MAIN-17-U012",
+      "member": "text/part0010.html",
+      "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "member_sha256": "beb44a5a379c32617f442231d29760eafd4897fc2e1b29ee6847390d1cb73118",
+      "cache_sha256": "e126ad92c95d9ffb816de5f564ffc56290ab802cef84c4e93d2d6ba51f8706b1",
+      "actual_complete_BASE_views": [
+        [
+          1,
+          72
+        ],
+        [
+          71,
+          130
+        ]
+      ],
+      "unique_slots_within_this_receipt_only": 130,
+      "nonempty_BASE_slots": 115
+    }
+  ],
+  "unique_context_slots_within_receipt_not_NoS_action_count": 375,
+  "new_global_unique_primary_whole_source_ruby_image_or_independent_credit": 0,
+  "private_actual_receiving_receipt_sha256": "93f7ab7ba104b66f1c83ed6f26df0e30e111797210f47b550e99b207236b0cbe",
+  "preceding_Levi_full_gate_sha256": "dc8ca3f71a3c6c9ecf565da32c2ac18f605ef6aedf3e3de32bdbff28a34d6f07",
+  "tier_responsibility": "Tier2 monograph/evidence return earned from concentrated own self-concept, coalition/coercive choices, actual inference/correction, affect, information/resource failures and printed voice. No appearance quota and no automatically imposed full model.",
+  "limits": "One connected handoff from two narrator views, no prospective/independent trial. Mammon report, Kazuma disguise, Aqua armor hypothesis, true Nos speech/actions and Dust aftermath kept separate. No new witnessed jailing, exact enchantment or species claim.",
+  "separate_MAIN03_correction_pin": {
+    "file": "KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json",
+    "bytes": 5323,
+    "sha256": "9834227f9304862715f10f205a898865cb8e61d0053eb01ea87bd5da86caedc8"
+  },
+  "all_fifteen_model_bodies_to_remain_exact": true,
+  "frozen_histories_to_remain_exact": true,
+  "canonical_adoption": false,
+  "full_program_complete": false
+}

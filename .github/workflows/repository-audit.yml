@@ -5,9 +5,11 @@ on:
     branches:
       - main
       - character-registry
+      - character-reconstruction
       - "codex/**"
       - "chatgpt/**"
       - "claude/**"
+      - "agent/**"
       - "series/**"
       - "studies/**"
   repository_dispatch:
@@ -16,14 +18,6 @@ on:
   schedule:
     - cron: "17 6 * * 0"
   workflow_dispatch:
-    inputs:
-      regression_profile:
-        description: Full regression execution or full execution with a shadow selection report
-        type: choice
-        options:
-          - full
-          - shadow
-        default: full
 
 permissions:
   contents: read
@@ -39,8 +33,6 @@ jobs:
       AUDIT_COMMIT: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}
       AUDIT_EVENT: ${{ github.event_name }}
       AUDIT_BRANCH: ${{ github.ref_name }}
-      AUDIT_BASE: ${{ github.event_name == 'push' && github.ref_name == 'main' && github.event.before || '' }}
-      REGRESSION_PROFILE: ${{ github.event_name == 'schedule' && 'full' || github.event_name == 'workflow_dispatch' && inputs.regression_profile || 'shadow' }}
       PIP_DISABLE_PIP_VERSION_CHECK: "1"
       PYTHONDONTWRITEBYTECODE: "1"
     steps:
@@ -56,8 +48,13 @@ jobs:
           test "$(git rev-parse HEAD)" = "${AUDIT_COMMIT}"
           test "$(git rev-parse --is-shallow-repository)" = "false"
           git fetch --no-tags origin refs/heads/main:refs/remotes/origin/main
-          if [[ -z "${AUDIT_BASE}" ]]; then
-            echo "AUDIT_BASE=$(git rev-parse refs/remotes/origin/main)" >> "${GITHUB_ENV}"
+          # Branch identity comes from the live ref, never a dispatch payload. A
+          # missing curation branch (exit 2) is allowed; any other failure stops.
+          if git ls-remote --exit-code --heads origin character-registry > /dev/null; then
+            git fetch --no-tags origin refs/heads/character-registry:refs/remotes/origin/character-registry
+          else
+            status=$?
+            test "${status}" -eq 2
           fi
 
       - name: Install hash-locked validation dependencies
@@ -77,9 +74,12 @@ jobs:
           if [[ "${AUDIT_EVENT}" = "push" && "${AUDIT_BRANCH}" =~ ^(series|studies)/[a-z0-9][a-z0-9-]*$ ]]; then
             audit_args+=(--routing-preflight "${AUDIT_BRANCH}")
           fi
+          if [[ "${AUDIT_BRANCH}" = "character-registry" && "${AUDIT_EVENT}" != "repository_dispatch" ]]; then
+            audit_args+=(--discovery-branch-confinement)
+          fi
           python tools/validate_repository.py "${audit_args[@]}"
           mkdir -p "${MANGA_ANIME_TEST_TMP}"
-          python tools/audit_execution.py --snapshot commit --commit "${AUDIT_COMMIT}" --base "${AUDIT_BASE}" --profile "${REGRESSION_PROFILE}" --report-json "${RUNNER_TEMP}/test-timings.json"
+          python tools/audit_execution.py --snapshot commit --commit "${AUDIT_COMMIT}" --report-json "${RUNNER_TEMP}/test-timings.json"
           # Markdown uses two trailing spaces as an intentional hard line break.
           git show --check --format= "${AUDIT_COMMIT}" -- . \
             ':(top,glob,exclude)**/*.md' \
@@ -121,9 +121,6 @@ jobs:
               lines.append(f"- {label}: {report['outcome']}, {report['seconds']:.2f} seconds.")
               if "tests_run" in report:
                   lines.append(f"- Tests executed: {report['tests_run']}; skipped: {report['skipped']}.")
-              if "shadow_plan" in report:
-                  plan = report["shadow_plan"]
-                  lines.append(f"- Advisory plan: {plan['proposed_profile']}; {len(plan['selected_ids'])} selected, {len(plan['excluded_ids'])} excluded. Actual execution remained full.")
           with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as output:
               output.write("\n".join(lines) + "\n")
           PY
@@ -144,7 +141,6 @@ jobs:
           AUDIT_COMMIT: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}
           AUDIT_RESULT: ${{ needs.audit.result }}
           INTEGRATION_STATE: ${{ needs.audit.outputs.integration_state }}
-          ANALYTICAL_SOURCE: ${{ github.event_name == 'push' && (startsWith(github.ref_name, 'series/') || startsWith(github.ref_name, 'studies/')) }}
         run: |
           set -euo pipefail
           python - <<'PY'
@@ -162,11 +158,11 @@ jobs:
           result = os.environ["AUDIT_RESULT"]
           integration = os.environ["INTEGRATION_STATE"]
           if result == "success" and integration in {"success", "pending"}:
-              state = "pending" if os.environ["ANALYTICAL_SOURCE"] == "true" else integration
+              state = integration
               description = (
                   "Exact commit passed the repository audit"
                   if state == "success"
-                  else "Authored content passed; awaiting housekeeping and final audit"
+                  else "Authored content passed; awaiting housekeeping to regenerate routing outputs"
               )
           else:
               state = "error" if result in {"cancelled", "skipped"} else "failure"

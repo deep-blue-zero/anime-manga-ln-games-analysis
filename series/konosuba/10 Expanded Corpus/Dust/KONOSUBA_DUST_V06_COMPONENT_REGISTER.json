@@ -1,0 +1,2915 @@
+{
+  "schema": "KONOSUBA_DUST06_WHOLE_SUPPLIED_EDITION_ACTUAL_COMPONENT_DISPOSITIONS_V1",
+  "source_id": "DUST-06",
+  "accepted_utc": "2026-10-18T10:04:53.783186+00:00",
+  "status": "ACCEPTED_AT_DECLARED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "native_bytes": 4582670,
+  "native_sha256": "d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1",
+  "language": "ja",
+  "textual_component_count": 20,
+  "actual_native_image_count": 19,
+  "principal_P_slots": 2977,
+  "other_P_slots": 76,
+  "separate_bonus_narrative": false,
+  "text_components": [
+    {
+      "component_id": "DUST-06-U001",
+      "member": "item/xhtml/p-cover.xhtml",
+      "member_sha256": "44d7a4dae90fdd48cfdea255e181e8e63e4e803947626e3578bb9366967cb204",
+      "bytes": 796,
+      "native_spine_order": 1,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "DUST-06-IMG001"
+      ],
+      "current_component_role": "COVER_ART_WRAPPER",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:19:51.251331+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U001",
+          "native_member": "item/xhtml/p-cover.xhtml",
+          "native_member_sha256": "44d7a4dae90fdd48cfdea255e181e8e63e4e803947626e3578bb9366967cb204",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:19:51.251331+00:00",
+          "source_first_notes": "Image-only cover wrapper actually received; no P or non-P residual, IMG001 separately viewed.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Cover art not an independent narrative event.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [],
+      "selected_voice_ids": [],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U002",
+      "member": "item/xhtml/p-fmatter-001.xhtml",
+      "member_sha256": "72617235e60e5bbd10ded7a05c66946dc40b7cb9cc6180143ea0caf26097b22b",
+      "bytes": 783,
+      "native_spine_order": 2,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "DUST-06-IMG005"
+      ],
+      "current_component_role": "FRONT_PRINCESS_ART",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:19:51.251331+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U002",
+          "native_member": "item/xhtml/p-fmatter-001.xhtml",
+          "native_member_sha256": "72617235e60e5bbd10ded7a05c66946dc40b7cb9cc6180143ea0caf26097b22b",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:19:51.251331+00:00",
+          "source_first_notes": "Image-only first front wrapper actually received; no P/non-P text, IMG005 repeats cover woman and title, separately viewed.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Dependent image reuse only.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [],
+      "selected_voice_ids": [],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U003",
+      "member": "item/xhtml/p-fmatter-002.xhtml",
+      "member_sha256": "86c32f9a25796a75ab4c78e4df7c8ee4b3bdc9bb5c3f0e061170c3c768e61107",
+      "bytes": 783,
+      "native_spine_order": 3,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "DUST-06-IMG006"
+      ],
+      "current_component_role": "IMAGE_CONTENTS",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:20:15.080114+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U003",
+          "native_member": "item/xhtml/p-fmatter-002.xhtml",
+          "native_member_sha256": "86c32f9a25796a75ab4c78e4df7c8ee4b3bdc9bb5c3f0e061170c3c768e61107",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:20:15.080114+00:00",
+          "source_first_notes": "Image-only contents wrapper; no native P/non-P residual, IMG006 fully read separately.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Navigation/art not independently repeated story.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [],
+      "selected_voice_ids": [],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U004",
+      "member": "item/xhtml/p-fmatter-003.xhtml",
+      "member_sha256": "482e7cd411c6a90eea8d2df8cd8e24b4498247113b94254f993b08dcab9eea37",
+      "bytes": 783,
+      "native_spine_order": 4,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "DUST-06-IMG007"
+      ],
+      "current_component_role": "UNCAPTIONED_FRONT_YUN_ART",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:20:15.081106+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U004",
+          "native_member": "item/xhtml/p-fmatter-003.xhtml",
+          "native_member_sha256": "482e7cd411c6a90eea8d2df8cd8e24b4498247113b94254f993b08dcab9eea37",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:20:15.081106+00:00",
+          "source_first_notes": "Uncaptioned front illustration wrapper; no paragraph/residual text. IMG007 viewed separately at non-graphic visual scope.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Identity and scene occasion not inferred solely from art.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [],
+      "selected_voice_ids": [],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U005",
+      "member": "item/xhtml/p-fmatter-004.xhtml",
+      "member_sha256": "6baa6216cbd975f6eba52714458a4939c8a2e8f344e9146df0840eef4603e569",
+      "bytes": 783,
+      "native_spine_order": 5,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "DUST-06-IMG008"
+      ],
+      "current_component_role": "CAPTIONED_FRONT_PRINCESS_ART",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:20:48.871664+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U005",
+          "native_member": "item/xhtml/p-fmatter-004.xhtml",
+          "native_member_sha256": "6baa6216cbd975f6eba52714458a4939c8a2e8f344e9146df0840eef4603e569",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:20:48.871664+00:00",
+          "source_first_notes": "Captioned front-art wrapper zero native P/non-P residual. IMG008 separately viewed; one printed teasing line, no names, non-graphic descriptive scope.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Dependent art/caption not independent completed event or proof of consent.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [],
+      "selected_voice_ids": [],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U006",
+      "member": "item/xhtml/p-titlepage.xhtml",
+      "member_sha256": "247e11e0aaa1d9e06ac99ee885818c43bed3e5ad150f971be00e0a2f01a75300",
+      "bytes": 782,
+      "native_spine_order": 6,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "DUST-06-IMG003"
+      ],
+      "current_component_role": "TITLE_CREDITS",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:20:48.872160+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U006",
+          "native_member": "item/xhtml/p-titlepage.xhtml",
+          "native_member_sha256": "247e11e0aaa1d9e06ac99ee885818c43bed3e5ad150f971be00e0a2f01a75300",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:20:48.872160+00:00",
+          "source_first_notes": "Image-only title/credits wrapper actually received; IMG003 title, subtitle, original/prose and imprint credits read.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Printed21974 is an identifier, not asserted year/date.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [],
+      "selected_voice_ids": [],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U007",
+      "member": "item/xhtml/p-caution.xhtml",
+      "member_sha256": "49c6724be5fe694366b3fb9b9f34b5b4d575a047ee916c7093e807669a02ec67",
+      "bytes": 789,
+      "native_spine_order": 7,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 4,
+      "nonempty_paragraphs": 3,
+      "base_characters": 113,
+      "ruby_count": 0,
+      "image_ids": [],
+      "current_component_role": "CAUTION_PARATEXT",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 4,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:20:48.873152+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U007",
+          "native_member": "item/xhtml/p-caution.xhtml",
+          "native_member_sha256": "49c6724be5fe694366b3fb9b9f34b5b4d575a047ee916c7093e807669a02ec67",
+          "start_P": 1,
+          "end_P": 4,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:20:48.873152+00:00",
+          "source_first_notes": "All caution text read: thumbnail may change on redownload; vertical setting; reading-system differences. Historical edition notice, not task instruction.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "No story or independent current software claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [],
+      "selected_voice_ids": [],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U008",
+      "member": "item/xhtml/p-toc-001.xhtml",
+      "member_sha256": "5f5fbca5db082514c93e1213a999add9e78e9d7d35346fbf04c93bef6aae2ea2",
+      "bytes": 1156,
+      "native_spine_order": 8,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 9,
+      "nonempty_paragraphs": 7,
+      "base_characters": 77,
+      "ruby_count": 0,
+      "image_ids": [],
+      "current_component_role": "TEXT_CONTENTS",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 9,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:20:48.873648+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U008",
+          "native_member": "item/xhtml/p-toc-001.xhtml",
+          "native_member_sha256": "5f5fbca5db082514c93e1213a999add9e78e9d7d35346fbf04c93bef6aae2ea2",
+          "start_P": 1,
+          "end_P": 9,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:20:48.873648+00:00",
+          "source_first_notes": "Text contents fully read, four chapters match image contents: あのおてんば姫が騒動を/あの逃避行の真相を/あの約束の冒険を/あのドラゴンナイトに決着を, then epilogue/afterword.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "No separately listed bonus/prologue in this supplied route; no all-editions absence claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [],
+      "selected_voice_ids": [],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U009",
+      "member": "item/xhtml/p-001.xhtml",
+      "member_sha256": "7205f14dd48b87b950056b6a0d8d6b8bb615a11c7c0151ed9529171561794921",
+      "bytes": 777,
+      "native_spine_order": 9,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "DUST-06-IMG014"
+      ],
+      "current_component_role": "EDITORIAL_CHARACTER_PROFILES",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:20:48.874640+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U009",
+          "native_member": "item/xhtml/p-001.xhtml",
+          "native_member_sha256": "7205f14dd48b87b950056b6a0d8d6b8bb615a11c7c0151ed9529171561794921",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:20:48.874640+00:00",
+          "source_first_notes": "Image-only character profile wrapper zero P/non-P residual, IMG014 separately read at editorial profile scope.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Profile generalizations are not universally independent behavioral tests.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [],
+      "selected_voice_ids": [],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U010",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_sha256": "650c8f241a553f41945bb77f0605b830d4c99e92c89121632d2f3d488edacfcb",
+      "bytes": 94664,
+      "native_spine_order": 10,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 640,
+      "nonempty_paragraphs": 618,
+      "base_characters": 22199,
+      "ruby_count": 604,
+      "image_ids": [
+        "DUST-06-IMG009"
+      ],
+      "current_component_role": "PRINCIPAL_CHAPTER_ONE",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 210,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:21:58.145402+00:00"
+        },
+        {
+          "start_P": 211,
+          "end_P": 420,
+          "nonparagraph_residual_received": false,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:22:55.146847+00:00"
+        },
+        {
+          "start_P": 421,
+          "end_P": 640,
+          "nonparagraph_residual_received": false,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:24:19.617917+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U010",
+          "native_member": "item/xhtml/p-002.xhtml",
+          "native_member_sha256": "650c8f241a553f41945bb77f0605b830d4c99e92c89121632d2f3d488edacfcb",
+          "start_P": 1,
+          "end_P": 210,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:21:58.145402+00:00",
+          "source_first_notes": "Dust/child actually packed to flee expected princess visit but tell party first; Taylor restrains/asks reason, Keith extrapolates offenses, food distracts child. Apparent Leen is unusually elegant/fails habitual vegetable behavior; Dust initially appearance explanations, then recognizes old smile/manner. Whispered full old name plus his explicit リオノール姫様 atP51 confirms princess's personal name now, too quiet for men. Princess has replaced Leen with brown-hair disguise: her own hair gold, Leen brown, lookalikes not identical/twins. Dust recalls first mistaking Leen for princess on first arriving Axel. She reports Leen held as stand-in at noble mansion after 'coincidental' lodging escape; Dust infers planned targeting from expertise. She reports she investigated no royal relation, not an independent genealogy proof. Dust asks veto, she explicitly denies and offers him personally appealing to retinue, knowing his old loss makes that difficult. He appraises familiar retinue as physically safe even if they reject Leen's protests as another joke; coercive detention itself remains real, no bodily-harm-only narrowing. Princess explicitly says she imposed Dust name and gave cherished sword, then asks him to drop honorifics/use normal casual manner to conceal her; formal-to-rough repairs recur. Promise of kingdom paying child food for disguise cooperation causes instant work enthusiasm, partly desire to overclaim surplus. Actual payout not yet shown. Few quests because recovered Serena followers rushed them, not guild sloth. Luna names Dust's recent taunting burden. Retrospective drunk mockery of former controlled people includes explicit boast neverfooled and actual escalating mob attack, failed apology offer, three downed but eventual beating. Backpresent he still denies fault. Remaining chores don't match princess desire for monster combat; she actually has trained magic competence, but Dust fears diplomatic consequences if injured. No new quest chosen byP210.",
+          "uncoded_comic_observations": [
+            "Flight disclosure invokes crime taxonomy in which ordinary crimes cannot explain unusually fleeing; actual restraint and uninformed teammates remain.",
+            "Apparent Leen's elegant unfamiliar habits and body difference prompt concrete recognition, not magical psychic identification; he starts with other explanations.",
+            "Princess's coincidence/tears/innocence are performances against Dust's informed past pattern; her relational denial includes regret losing leverage over father.",
+            "She complains Dust name hard to say though she chose it; crowd misreads audible 姫 as borrowing flattery.",
+            "Forced no-honorifics rule exposes habitual polite repairs; material food offer promptly reverses refusal of work.",
+            "Expert adventurer indispensability boast meets Luna's skeptical body response.",
+            "Mockery of forced followers becomes a real numerical defeat; grand apology wording actually offers his own prostration, not their apology, and is refused.",
+            "Backpresent denial of wrongdoing persists despite his own detailed account."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U010:P0015–0024",
+              "speaker_addressee": "Dust/Taylor/Keith",
+              "context": "Attempted short flight without revealing past",
+              "short_exact_anchor_if_recorded": "大人の事情ってやつだ！",
+              "basic_gloss": "Invokes adult circumstances instead of explaining the actual identity problem.",
+              "limit": "Teammates' offense guesses are guesses, not proof of a new offense here."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0046–0053",
+              "speaker_addressee": "Princess/Dust",
+              "context": "Private recognition and exact name",
+              "short_exact_anchor_if_recorded": "リオノール姫様",
+              "basic_gloss": "Dust finally names the old princess after her whispered old full name.",
+              "limit": "Men do not hear; this resolves a name now, not earlier unknown fields."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0077–0083",
+              "speaker_addressee": "Dust/princess",
+              "context": "Claimed coincidence in taking Leen's place",
+              "short_exact_anchor_if_recorded": "リオノール、なんの事か分かんなーい",
+              "basic_gloss": "Self-name/elongated childish innocence performance against his planned-targeting inference.",
+              "limit": "Her reported physical custody is real account; exact targeting remains his informed inference."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0091–0099",
+              "speaker_addressee": "Dust/princess then interior",
+              "context": "No veto over replacement",
+              "short_exact_anchor_if_recorded": "ないわね！",
+              "basic_gloss": "Explicit refusal of a right to reject, coupled with a difficult personal appeal option.",
+              "limit": "Retinue's predicted physical safety does not remove coercive detention or Leen's unshown assent."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0101–0114",
+              "speaker_addressee": "Dust/princess",
+              "context": "Name and courtesy requirements",
+              "short_exact_anchor_if_recorded": "分かりま……分かったよ",
+              "basic_gloss": "Habitual polite assent repaired to commanded casual wording.",
+              "limit": "Her status independently known; register does not itself prove affection or consent."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0140–0148",
+              "speaker_addressee": "Princess/Dust",
+              "context": "Food subsidy inducement",
+              "short_exact_anchor_if_recorded": "よーし、てめえら。張り切って仕事すんぞ！",
+              "basic_gloss": "Instant rough enthusiasm after kingdom food-cost offer.",
+              "limit": "Agreement/offer, not a completed kingdom payment or legitimate surplus claim."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0184–0189",
+              "speaker_addressee": "Dust to angry crowd",
+              "context": "Mocking former Serena followers then losing numerical position",
+              "short_exact_anchor_if_recorded": "今なら土下座をして謝ってやるから",
+              "basic_gloss": "Offers his own apology while styling it a concession once surrounded.",
+              "limit": "Refused; actual beating follows, no harmless ritual or successful escape."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0199–0203",
+              "speaker_addressee": "Dust/Luna",
+              "context": "After recounting his own provocation",
+              "short_exact_anchor_if_recorded": "本当に自分には非がないと思ってそうですよね",
+              "basic_gloss": "Luna names his apparently sincere lack of self-blame.",
+              "limit": "No universal inability to self-correct inferred from this one event."
+            }
+          ],
+          "limits": "No formal categories/outcomes. Personal princess name newly printed here, while resemblance remains distinct from identity equality and genealogy claim is reported. Actual coercive replacement and conditioned food promise must not be retroactively cured by physical-safety appraisal or future outcome. No payment/new quest yet.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        },
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U010",
+          "native_member": "item/xhtml/p-002.xhtml",
+          "native_member_sha256": "650c8f241a553f41945bb77f0605b830d4c99e92c89121632d2f3d488edacfcb",
+          "start_P": 211,
+          "end_P": 420,
+          "nonparagraph_residual_received": false,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:22:55.146847+00:00",
+          "source_first_notes": "Dust chooses normally-disdained chores to occupy princess and avoid uncontrolled danger. Sales job target80percent of overordered stock. With men absent he deliberately resumes old formal manner; princess asks regret, Dust explicitly says decision was his and likes current free life, despite attributing change to shared one-week flight before wedding. Princess and child actual effective sellers; Dust objects to child manipulative advice. Shopkeeper detects odd Leen behavior, Dust supplies drinking cover, then insults job/provokes actual fistfight; women sell all stock by noon, earlier than planned. Courtesy corrections recur under princess's look. He avoids rejoining men to preserve disguise. At succubus shop he intentionally shares misfortune by deterring customers with women/child presence, while initially arrived by habit. Small actually objects/threatens complaint for business obstruction and Dust promises departure/actuallyleaves. Princess asks Small relationship, Dust gives halftruthmental-magic helper, asks childkeepsecretbylook; food offer makes child explicitly reveal species/business, creating owed secrecy favor to princess. Non-graphic bounded description of adult-service references; no service performed here. Princess knows child dragonform but not human appetite. Restaurants charging per dish compete while buffets close; Dust remembers ignoring prior owner's plea to stop child eating. Princess checkswallet, laterencouragesmoremealdespitecost; no printedsettlementyet. Dust invites Yun to avoid nostalgic three-person mood, assumes she won'tdetectreplacement because limitedcontacts. Her reluctant formula answeredwithwithdrawninvitation→urgenthonestacceptance; princess welcomesandgets overenthusiasticagreementtofoodcompanionship, temporarilyunsettled. Yun independentlyofferspayownshare, notfreeunboundedmeal. Princess invitesouting/seeksinfoonDust; Yun complainsaboutrefusedchieft trial, princess promisesrebuke, Yun saysmoredependableLeentoday. Dust atP420assumeslimitedsharedcontextprotectshim, notyetresult.",
+          "uncoded_comic_observations": [
+            "Taking responsibility for past choice and liking current life coexist with blaming princess for behavioral change; neither is a false-self certificate.",
+            "Sales target exceeded early by actual customer-facing skill while cover allegation causes Dust/storekeeper fight, undermining time-buying plan.",
+            "Formal endings repeatedly monitored and repaired under looks, not accidental loss of known status.",
+            "Dust's kindness-as-sharingmisfortune has actual business cost and Smallownedobjection; hech angescourseafterherboundary.",
+            "Child accepts dinner inducement and immediatelyreveals secret after agreeingnotto, likeDust'sownfoodmotivatedswitch.",
+            "Opposite restaurant pricing produces oppositechildwelcome; appearance/cutenessaloneisnot thecause.",
+            "Yun'sgrandreluctanceimmediatelycollapseswhenDustwithdrawsinvitation, thenherenthusiasticfoodcompanionshipoverwhelmsprincess'ssocialconfidence.",
+            "Princesslackofhuman-formfoodcostknowledgechallengescheapinducementassumption; Dustknowsactualriskandlooksaway."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U010:P0223–0234",
+              "speaker_addressee": "Dust/princess",
+              "context": "Past responsibility and current life",
+              "short_exact_anchor_if_recorded": "決めたのは俺ですからね",
+              "basic_gloss": "Owns the old choice and explicitly likes present freedom, while repeatedly repairing courtesy.",
+              "limit": "His causal blame elsewhere remains; no proof all current misconduct forced by princess."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0236–0246",
+              "speaker_addressee": "Princess to customers/child; Dust",
+              "context": "Improvised sales",
+              "short_exact_anchor_if_recorded": "程々に使い勝手のいい物",
+              "basic_gloss": "Moderate rather than extravagant praise in public sales, then blunt instruction to flatter.",
+              "limit": "Actual quick sales follow; objection to child coaching remains non-graphic."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0248–0258",
+              "speaker_addressee": "Dust/shopkeeper",
+              "context": "Drinking cover for unusual manner",
+              "short_exact_anchor_if_recorded": "納得……出来るか！",
+              "basic_gloss": "Begins assent then rejects working after drinking, provoking a job-insult fight.",
+              "limit": "Drinking is Dust's lie; seller skill, not fight, completes sales."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0289–0296",
+              "speaker_addressee": "Small/Dust",
+              "context": "Shop business boundary",
+              "short_exact_anchor_if_recorded": "営業妨害ですか？",
+              "basic_gloss": "Names interference and threatens complaint; Dust agrees to leave and does.",
+              "limit": "No physical force in this particular boundary; later cooperation separate."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0305–0319",
+              "speaker_addressee": "Princess/child/Dust",
+              "context": "Dinner inducement versus secrecy",
+              "short_exact_anchor_if_recorded": "これで貸し一つね？",
+              "basic_gloss": "Extracted species/business secret creates a claimed favor debt.",
+              "limit": "Secrecy agreement, not performed service or morally neutral child inducement; prior look-assent changed for food."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0376–0382",
+              "speaker_addressee": "Yun/Dust",
+              "context": "Food invitation and status protection",
+              "short_exact_anchor_if_recorded": "食べさせてください！",
+              "basic_gloss": "Reluctant grand acceptance immediately turns to pleading when invitation withdrawn.",
+              "limit": "Actual welcome still follows; social embarrassment not global incapacity."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0392–0407",
+              "speaker_addressee": "Yun/princess/Dust narration",
+              "context": "Meal enthusiasm and responsibility",
+              "short_exact_anchor_if_recorded": "私は自分の分は払いますから",
+              "basic_gloss": "Yun expressly accepts her own meal cost while princess checks limited wallet.",
+              "limit": "No printed actual settlement or permanent royal funding fulfillment yet."
+            }
+          ],
+          "limits": "No formal outcomes. Current genuine Leen still held elsewhere as reported, princess's causal past influence is Dustappraisal, offer of kingdom funding distinctfromwallet/actualpayment. AtP420Yunhasnotfinishedrevealinginformation, so donotcreditDust'sforecastsuccess.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        },
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U010",
+          "native_member": "item/xhtml/p-002.xhtml",
+          "native_member_sha256": "650c8f241a553f41945bb77f0605b830d4c99e92c89121632d2f3d488edacfcb",
+          "start_P": 421,
+          "end_P": 640,
+          "nonparagraph_residual_received": false,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:24:19.617917+00:00",
+          "source_first_notes": "Yun actually supplies more shared encounters than Dust expected, recounts knightlegend through repaired Iris/イリス reference and expressly regrets insulting knightnotDust. PrincessrequestsretellingthoughYunrecallspriorconversation;actualfootstampstopsDustinterruption. Legendmostlybutnotfullycorrect accordingDust, exactwrongpartswithheldhere/royalsecrecy breachwonder. DusttriestoavoidVanir,recruitschildsupportassumingspecieshostility;childreportsownhair-for-snackexchanges/abandonedattackplan, acceptsvisit. Dustconsiderssellinghairhimselfthenrejectsbaldnesscostpreferringunperformedgamblingwindfall. Princess first-meeting slipchallengedbyYun, Dustsuppliescover. HeexplicitlyworriesaboutLeenandlookalikeexposure/powerfultargeting. Yunactuallyleavesownmealpaymenton table; princessattemptsleave,DustinvokescurrentLeenroleagainstroyaldeferenceclaim. Herwalletinsufficient, asksjewel-saleescort;Dustofferstopaybalancefromquestincomeat10percentinterest, exits; phrasingoffer/coverratherthanprintedcashcount. Princesscallscontinuingkindness;recipientprincessnotgenuineLeen. Atshopprincessmisreadsdomesticpairing,Dustqualifiesnotyoungcouple. HerdailyExplosiondisbeliefinterruptedbyactualblast/localsunconcern;sheupdatesquicklyandlikeslivelytown. Wizlooksdead/scorched,Dustfamiliarityvsprincessfear;laterWizactuallyrevives. Vanirimmediatelydetectslookalike, Yuncatchesword;Dustdivertswithpopularityrosary. Vanir'ssilenceisconditionedonbuyingunknownuseitem, Dustactuallyagrees/payscostknowingpromisekeeping. Childsnacks/hairtradecontinuesasdirectarrangement, Vanirexplicitlyoffersoptionalpaymentwording. Vanirproposesfuturehelpexpectingroyal/childcustom,Dustrecognizescostrisk. Yunasksefficacy/buysrosarybeforefullusagescoperevealsmonstersincluded;Dusthearsandleavesherforpotentialshopsale. Heproposesguilddrinking,thenrecognizesheshouldhaveaskedVanirtocheckgenuineLeenanddefersuntilnexttime. U010P596switchestoLeenfirstpersonあたし: retinuesearchinghotel,sheassumespossiblyDustoffense,actuallyseized. Herfacecheckdeepensfalseidentification,hairdisguisemeta-theory,concreteguildverificationproposalcutoff. Ropesbind,carriedandthrownintoluxurycarriageagainstexplicitprotest. Butlerassertslifelongservicecan'tmisidentify,theactualwrongcaptureexposesclaim. Shewant sDusttorescuebyfinalP640. Thisisactualcoercivedetention,notordinaryroyalhospitality.",
+          "uncoded_comic_observations": [
+            "Yun'sapologytargetisidealizedknight,notpresentDust;dramaticlegendprivatelyinvolvesbothlistenerswhohidetheirroles.",
+            "Species-hostilityassumptionfailsafteractualsnacktradechangeschildpreference;herpreviouspreferenceisnotfixedbiologicaldestiny.",
+            "BorrowedLeenidentitydefeatsprincess'sroyalprivilegeclaimwhenmealcostarrives;sheownsinducementunderestimatedfoodquantity.",
+            "Outsider'sskepticismaboutdailyExplosionmeetsactualblastandrapidupdate;Wizfalse-deathappraisalcorrectswhenactualrevivalshown.",
+            "Vanirpromisesstrongersilenceforpurchase,childbodymaterialhascommercialvalueunderoptional-giftframing;Dustrecognizesbothprofitablemotives.",
+            "Yunchecksproducteffectbutcommitstobuybeforebroadundesiredtargetscopeisdisclosed;thisisherdecision,notDust'sfullundercheckingtrial.",
+            "Leen'sconcreteverificationplanisinterpretedasfurthercunning;butler'sconfidencefromlongfamiliarityispreciselywrongaboutlookalike.",
+            "LeenfirstthinksDustcauseddisturbance,thenactuallycallsforhishelp;expectationandneedcoexist."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U010:P0422–0430",
+              "speaker_addressee": "Yun/Dust/princess",
+              "context": "Knightlegend and apologyrecipient",
+              "short_exact_anchor_if_recorded": "ドラゴンナイトさんに",
+              "basic_gloss": "She directs regret to the ideal knight, explicitly excludes Dust.",
+              "limit": "Unawareidentity;notactualtwopeopleorcertaincompletelegendtruth."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0461–0477",
+              "speaker_addressee": "Child/Dust",
+              "context": "ReversedVanirpreference",
+              "short_exact_anchor_if_recorded": "髪の毛あげたらおかち、いっぱいくれた",
+              "basic_gloss": "Reported hair-for-snacks changed willingness to visit.",
+              "limit": "Separate new exchange, not retroactive permission for earlier Dust-paid divination materials."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0488–0500",
+              "speaker_addressee": "Princess/Dust",
+              "context": "Mealbill after costly inducement",
+              "short_exact_anchor_if_recorded": "今はリーンだから関係ねえな",
+              "basic_gloss": "Her current borrowed identity prevents invoking royal privilege to escape payment.",
+              "limit": "Yunownpaymentactual;Dustbalancecoverisoffered10percentloan,recipientnotgenuineLeen."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0514–0525",
+              "speaker_addressee": "Princess/Dust",
+              "context": "RoutineExplosiondeniedthenheard",
+              "short_exact_anchor_if_recorded": "だから、街の人が騒いでないのね",
+              "basic_gloss": "She updates against initial disbelief after native event/context.",
+              "limit": "Not a failure to revise; actual local commonness not universally harmlessness."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0558–0563",
+              "speaker_addressee": "Vanir/Dust",
+              "context": "Pricedsecrecy",
+              "short_exact_anchor_if_recorded": "我輩の口は更に強固なものとなる、かもしれぬぞ",
+              "basic_gloss": "Purchase inducement couches stronger silence as a possibility.",
+              "limit": "Dustagreesknowingpromisevalue;notclaimingunknownproduct'sfunctionalbenefitwasverified."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0596–0607",
+              "speaker_addressee": "Butler/Leeninterior",
+              "context": "Searchretinue'srules",
+              "short_exact_anchor_if_recorded": "常識を捨てて探索するように",
+              "basic_gloss": "Habituatedsearchrequiresdroppingordinaryassumptionsanddisbelievingthesoughtperson.",
+              "limit": "TheirrecipientisactuallyLeen;expertiseframeproducesfalsecapture."
+            },
+            {
+              "native_locator": "DUST-06-U010:P0625–0638",
+              "speaker_addressee": "Leen/butler",
+              "context": "Falseidentificationandrefusedverification",
+              "short_exact_anchor_if_recorded": "たぶん、節穴じゃないかな！",
+              "basic_gloss": "Answers his denial of fallibility with a direct contrary judgment.",
+              "limit": "Actualropes/transport;herguildcheckproposalnotperformed."
+            }
+          ],
+          "limits": "Chapter1complete. Noformaloutcomes. Materialgaps:exactmealsettlementloanrealization, royalfoodfundingfulfillment, exactrumorerrorsandfuture rescue unresolvedhere. D5epiloguecalledprincesshairbrown;D6explicitownhairgold/magicdisguisebrownmayexplainpossibilitybutdoesnotstateexactearlierepiloguecause;preservebothtextswithoutrepair. KnownVanircheckopportunitypassedandfuturedeferralareimportanttoactualcoercivedangerassessmentwithoutbodyinjurythreshold.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": true,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 640,
+      "selected_humor_ids": [
+        "DUST06-H001",
+        "DUST06-H002",
+        "DUST06-H003",
+        "DUST06-H004",
+        "DUST06-H005",
+        "DUST06-H006",
+        "DUST06-H007",
+        "DUST06-H008",
+        "DUST06-H009",
+        "DUST06-H010",
+        "DUST06-H011",
+        "DUST06-H012",
+        "DUST06-H013",
+        "DUST06-H014",
+        "DUST06-H015"
+      ],
+      "selected_voice_ids": [
+        "DUST06-V001",
+        "DUST06-V002",
+        "DUST06-V003",
+        "DUST06-V004",
+        "DUST06-V005",
+        "DUST06-V006",
+        "DUST06-V007",
+        "DUST06-V008",
+        "DUST06-V009",
+        "DUST06-V010",
+        "DUST06-V011",
+        "DUST06-V012",
+        "DUST06-V013",
+        "DUST06-V014",
+        "DUST06-V015",
+        "DUST06-V016",
+        "DUST06-V017",
+        "DUST06-V018",
+        "DUST06-V019",
+        "DUST06-V020",
+        "DUST06-V021",
+        "DUST06-V022"
+      ],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "c5c70671020fd39427857d6572b3037e53506fc7e4e1dc29dbdb2d5d57f5b716",
+      "bytes": 144099,
+      "native_spine_order": 11,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1033,
+      "nonempty_paragraphs": 982,
+      "base_characters": 33153,
+      "ruby_count": 946,
+      "image_ids": [
+        "DUST-06-IMG010",
+        "DUST-06-IMG015",
+        "DUST-06-IMG016"
+      ],
+      "current_component_role": "PRINCIPAL_CHAPTER_TWO_WITH_PAST_FLIGHT",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 210,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:25:38.125066+00:00"
+        },
+        {
+          "start_P": 211,
+          "end_P": 420,
+          "nonparagraph_residual_received": false,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:26:49.729228+00:00"
+        },
+        {
+          "start_P": 421,
+          "end_P": 630,
+          "nonparagraph_residual_received": false,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:28:22.766644+00:00"
+        },
+        {
+          "start_P": 631,
+          "end_P": 840,
+          "nonparagraph_residual_received": false,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:29:29.288416+00:00"
+        },
+        {
+          "start_P": 841,
+          "end_P": 1033,
+          "nonparagraph_residual_received": false,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:30:34.859937+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U011",
+          "native_member": "item/xhtml/p-003.xhtml",
+          "native_member_sha256": "c5c70671020fd39427857d6572b3037e53506fc7e4e1dc29dbdb2d5d57f5b716",
+          "start_P": 1,
+          "end_P": 210,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:25:38.125066+00:00",
+          "source_first_notes": "Present guild drinking starts before sundown with disguisedprincess;Dustwarnsmoderatebecauseheavy-drinkingpastactuallycausedsharedpunishment,herclaimofcapacityistheproblemnotreassurance. SheprobesDust/Leenromance/physicalrelation,hespitsdrinkanddoesnotconfirmrelationship;intelligenceagencyisDustfearedguessnotshownmethod. Sheexpressesreliefheenjoyspresentlife,thenjealousresentment/actedcryingwhichheexplicitlycallsout, courtesyperformance. Dustframespopularromanticflightlegend as alteredstoryand hisactualexperience ascomedy, notnonliteral events. Extendedpastfirst-person私 scene: heactuallybeatsseveralknightstrainees, thenfindsprincesssleepingdragonstables, habituated toherunseemlypranks. Recallremainsnon-graphic;inappropriateproposals andhermisrepresentation are rejected;hethreatenslimiteddragonbiteasextractiontactic,actualpullout, no specificbiteinjuryshown. Shedeniesrelievingcaretakerbecauseheamusesher/closeage. Shewantsbare-nameequalityprivate, herpublicauthorityandhisfearotherwitnessescontradictsimpleequality. Hisapparentlymenacingapproachactuallycleansdirt,deliberateretaliatoryfright;hercounterprovocationbackfiresintoaffectlesscleanupandlonglecture,thenbothactuallypunishedfordelay. Othersrecognizehisbeingdrawnin;kingintendedmutualbeneficialinfluence. Pastprincessusespost-midnighttoday/tomorrowloopholetoevadeconfinement,nextdaystillvisits. Herfrequencyincreased, heattributesdragonridewish. Knightrefusesrideforprofessionalpride,dangerandexplicitpermissionrulewith emergencyexception;rejectsinducement, retainsdirectformalopposition. Hecitesrealcolleagues'positiveappraisalofnewflexibility/socialease,princessalsoreportedmoremodest;mutualinfluence,notunilateralpurecorruption. Suddenseriousweddingintwodays/requestescapewithhim,shakingvoice/hands andexplicitmutualfeelingsrecognized. Heunderstandsstatus/job/deathrisk,choosesone-dayridewithdeadlinebeforewedding,saysnolaterregret. Princessactuallyhasstashedtreasuryjewels/valuablesready,acknowledgesstolen,shymoodreplacedbyhopefulexcitement. Preparationmayqualifyspontaneitybutdoesnotitselfproveallfeelingsfalse. AtP210flightnotyetdeparted.",
+          "uncoded_comic_observations": [
+            "Heavy-drinkingcapacityisofferedasreassurancethoughDustwarnsbecauseheknowsdisruptiveconsequences.",
+            "Actedcryingnamesitsownsoundwithouttearsandgetsexposed;refinedthankfulnessrespondstoapparentblame.",
+            "Epiccombatcompetencetransitionsintoembarrassingpersonalcaretakingwithdifferentconstraints.",
+            "Privateequalityrequestcoexistswithno righttobe relievedoftaskedserviceandpublicpenaltyrisk.",
+            "Anticipatedthreatisactuallydirtremoval,acounterteaseproducesfunctionalcleanupinsteadofexpectedembarrassment;non-graphic criticalnote.",
+            "Dayboundarywordingcreatesaloopholeinaone-dayconfinementorder;joint-fateappealgetsflatrefusal.",
+            "Seriousromanticrequestisunderstoodandacceptedwithone-dayterm;immediatereadystolenvaluablesexposespriorpreparationwithoutretroactivelynegatingallaffect."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U011:P0009–0015",
+              "speaker_addressee": "Dust/princess",
+              "context": "Warningagainstheavy-drinkingdisruption",
+              "short_exact_anchor_if_recorded": "知ってるから警戒してんだけどな",
+              "basic_gloss": "He warns precisely because he knows the capacity she cites as reassurance.",
+              "limit": "Pastpunishmentreported,currentdisguisedidentityvulnerabilityactual."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0030–0042",
+              "speaker_addressee": "Princess/Dust",
+              "context": "Relief,jealousy,andperformedcrying",
+              "short_exact_anchor_if_recorded": "口でシクシク言うのやめてくれ",
+              "basic_gloss": "He exposes spokencryingsoundandabsenceoftears.",
+              "limit": "Doesnotproveallherrelief/affectioninsincere."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0074–0078",
+              "speaker_addressee": "Pastknight/princess",
+              "context": "Requesttorelievecaretakerrole",
+              "short_exact_anchor_if_recorded": "そ、れ、は、無、理",
+              "basic_gloss": "Segmentedflatdenialretainsamusingcompanioninservice.",
+              "limit": "Privateequalityrhetoricdoesnotremoveinstitutionalpower."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0090–0099",
+              "speaker_addressee": "Pastprincess/knight",
+              "context": "Privatebare-namewishandpublicrisk",
+              "short_exact_anchor_if_recorded": "無理を言わないでください",
+              "basic_gloss": "Formalrefusaltobare-nameaprincessdespiteprivatepermission.",
+              "limit": "Hefearsotherwitnesses;notproofhehasnoaffection."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0127–0134",
+              "speaker_addressee": "Pastprincess/knight",
+              "context": "Temporalconfinementloophole",
+              "short_exact_anchor_if_recorded": "深夜まで説教されて日を跨いでいたから、まだ今日よ",
+              "basic_gloss": "Midnightmakestheking'stomorrowapplydifferentlyunderherself-servingreading.",
+              "limit": "Actualsubsequentvisit,notanunperformedhypothetical;noautomaticL3."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0148–0154",
+              "speaker_addressee": "Pastknight/princess",
+              "context": "Refuseddragonride",
+              "short_exact_anchor_if_recorded": "非常事態を除き、許可なく乗せる事は禁じられています",
+              "basic_gloss": "Explicitridepermission/emergencyrulebesideprofessionalprideanddanger.",
+              "limit": "Notthesameasspearpromise;preflightseriousrequestlaterchangeschoice."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0177–0204",
+              "speaker_addressee": "Pastprincess/knight",
+              "context": "Seriousrequestandone-daypermission",
+              "short_exact_anchor_if_recorded": "一日だけですよ",
+              "basic_gloss": "Actuallyacceptsboundedridewhileknowingriskandmutualfeeling.",
+              "limit": "One-daytermnotyetfulfilled;preparedvaluablesnotproofallrequestemotionfalse."
+            }
+          ],
+          "limits": "Noformaloutcomes;pastsceneiscontinuousnarratedmemorynotindependenttest.PresentLeenrelationnotconfirmedbyprincess'squestion;currentLeendetentionnotyetresolved.U011firstactualridepromiseatP195distinctfrompriorrefusalandspearrestraint.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        },
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U011",
+          "native_member": "item/xhtml/p-003.xhtml",
+          "native_member_sha256": "c5c70671020fd39427857d6572b3037e53506fc7e4e1dc29dbdb2d5d57f5b716",
+          "start_P": 211,
+          "end_P": 420,
+          "nonparagraph_residual_received": false,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:26:49.729228+00:00",
+          "source_first_notes": "Pastflight: knighttriescancelafterpreparedjewels;princessinvokesexistingpromise/prideandthreatensmisleadingpubliccomplaint. Heaskswhatnotesaid,findslove/explicitdenialofcoercionanddeathwarningwouldimplicatehim;asksrecovernote,butmaidactuallyreadsitaloud. Maidcoordination/paymentisinformedinference notconfirmedamount. Rivalangryvoice,othersurgehalt/understandprincessrole. Princessthenoffersiftrulyunwillingcanstop,she'lltellfatherjoke;hepositivelychoosesagainandhelpsheraboard, actualdeparture. Herdemandtothreatenchancellorwithbreathnotperformed. Shehasactuallycuttackofotherdragons to delaypursuit. Choosingdestination reveals no romanticlandscapeprioritybutconcreteout-of-country/forest/cash-conversionplan,andfivealternativeescapeideas;trust/mostfunwithhimemotioncoexistswithplanning. Hechoosesknownoldcouplehelocation. Princessprodsairspeed;heinitiallyslowerforherthenactualfastmaneuvers,hearsstoppleasbutignoresunderdenialofrevenge;sheendsdistressedandwantingground. Coupleinitialghostdragonfear,recogniz esknightwhopreviouslyrescuedthem;heclaimssecrettask/asksdragonhousingandrest,actualpermission/room. Food/feegratitudepromisednocashsettlementhere. Nextdayprincessbrownhairmagic変色五号 self-named, warnsnotusepublictitle, bare-nameattemptnotacceptedfalsealiasリールchosen. Herefusesadventurerrisk,remembersone-daydeadline,princesslaterapparentlyagreesreturnaftermeal. Smallestjewel-necklaceactuallysoldforlargecash;heasksvalueonlyaftertransaction,shementionsnear-nationaltreasure,andhedecidesnothear. Onewill-returnassentmakeshimashamedofsuspicion. Dinneroffereddrinkfirstsipthenmemorygap;wakesnextdaynoonafterdeparturedeadline,panics. Bedcluesandprincess'sinappropriateclaimsinducefear ofunrememberedactivity;heasksexactclarification,doesnotremember/confirm, thenlosesconsciousnessfromshockuntilevening. AtP420princessnowgonefrombed,truthofherimpliednightclaimnotyetresolvedinthisrange. Keepnon-graphic;no completedactorconsentcertified.",
+          "uncoded_comic_observations": [
+            "Pledgeargumentlocksinitialwithdrawal,misleadingdenialnotecreatesexactlycoercionappearance;laterpositivechoiceafterofferedstopisdifferentfromearlierpressure.",
+            "Highromanticflightimageundercutbyactuallydisruptivechatterandunperformedbreathproposal.",
+            "Practicalescapeplanningandmultiplebackupplanssurpris enobleromanticexpectationwhileactualaffectionstillmatters.",
+            "Flight-serviceclaimcontradictedbyheardrequestsforlessspeedandcontinuedmaneuvers;distressnoterasedbyserviceword.",
+            "Oldcouple'sdragon-ghostfearbecomesgratefulrecognitionofactualpastrescuerandconcretepermissionforlodging.",
+            "No-public-titleconstraint is usedtoaskbare-namebutknightchoosesaliasinstead;unusuallyaristocraticfalsealiasrejected.",
+            "Largecashgaincheckedforownershipsignificanceonlyaftercompletedjewelsale;hedeliberatelyleavesnewbadnewsunpursued.",
+            "Apparentone-dayreturnagreementrestoresconfidenceimmediatelybeforealcoholmemorygapanddeadlinefailure;clues/claimproducefearnotconfirmedpastactivity."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U011:P0214–0224",
+              "speaker_addressee": "Pastprincess/knight",
+              "context": "Withdrawal,pledgeandmisleadingletter",
+              "short_exact_anchor_if_recorded": "誤解される言い回しはやめてもらっていいですかね!?",
+              "basic_gloss": "Recognizesdangerouslymisleading wordingandasksrecallnote.",
+              "limit": "Actualnoteisreadaloud;noactualcoercivekidnapbyhimcertifiedfromletter."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0240–0248",
+              "speaker_addressee": "Pastprincess/knight",
+              "context": "Offeredwithdrawalthenrenewedchoice",
+              "short_exact_anchor_if_recorded": "本当に嫌ならやめていいのよ",
+              "basic_gloss": "Explicitoffertostopprecedes his positive renewed departurechoice.",
+              "limit": "Willingnesstointercedebeforefatherisherclaim,notverifiedoutcome;earlierpressurepreserved."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0279–0287",
+              "speaker_addressee": "Pastknight/princess",
+              "context": "Priorplanningversusattachment",
+              "short_exact_anchor_if_recorded": "五つぐらい策を練っていたわよ",
+              "basic_gloss": "Shehasmultipleescapealternativesbutpreferstrustandfunwithhim.",
+              "limit": "Preparedalternativesdonotproveallfeelingfalseorallwouldsucceed."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0293–0305",
+              "speaker_addressee": "Pastknight/princess",
+              "context": "Speedrequestandignoredretraction",
+              "short_exact_anchor_if_recorded": "ワタシ地面スキ",
+              "basic_gloss": "Flattenedbrokenwordingfollowsoverwhelmingactualflightmaneuvers.",
+              "limit": "Actualstoppleasheard/ignored;hisdenialofretaliationnotinnocencefinding."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0342–0351",
+              "speaker_addressee": "Pastprincess/knight",
+              "context": "Publicnamesecrecyandalias",
+              "short_exact_anchor_if_recorded": "じゃあ、偽名考えましょうか",
+              "basic_gloss": "Usesaliasinsteadofthebare-nameintimacysheseeks.",
+              "limit": "リール falseidentityactuallyadopted;notfullprincessnamevariantorequalsLeen."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0363–0368",
+              "speaker_addressee": "Pastknight/princess/interior",
+              "context": "Afterjewelsale",
+              "short_exact_anchor_if_recorded": "聞かなかった事にしよう",
+              "basic_gloss": "Checksafteractualsale,hearsnear-nationaltreasurevalueandchoosestofeignnonreceipt.",
+              "limit": "Ownershipsignificanceknownlate;do not treatasadequateprecommitmentcheck."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0408–0415",
+              "speaker_addressee": "Pastknight/princess",
+              "context": "Unrememberednightfearandclarification",
+              "short_exact_anchor_if_recorded": "昨晩は何もありませんでしたよね？",
+              "basic_gloss": "Askswhetheranythinghappenedratherthanremembering/confirmingherimplication.",
+              "limit": "Unconfirmedhere;non-graphicnote,no completedsexualactivityorconsentclaim."
+            }
+          ],
+          "limits": "Noformaloutcomes. Actualone-dayreturnfailureandlossconsciousness;laterexplanationunreadatP420. PastsourceD5epiloguehairdiscrepancyremainsunrepaired;thisexplicitpastuseofbrownmagic is possibilitynotproofearlierparticularscene. Third-partypermitsforlodgingreal,tackowners'assentnotshown.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        },
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U011",
+          "native_member": "item/xhtml/p-003.xhtml",
+          "native_member_sha256": "c5c70671020fd39427857d6572b3037e53506fc7e4e1dc29dbdb2d5d57f5b716",
+          "start_P": 421,
+          "end_P": 630,
+          "nonparagraph_residual_received": false,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:28:22.766644+00:00",
+          "source_first_notes": "Pastknightfirstacceptsresponsibilityforunrememberedclaimandwantsreassureprincess,thenactualletter/bottle disclose sheputasleepingdrugindrinkandnothinghappened;sheisnowhidinguntilweddingtime. Earlierimpliedintimacyisfalse,notanactualcompletedencounter. Heconfirmshodepartedafternoonwithinnstaff,searchestillmidnight,no successagainstexpertmagichairdisguise. Choosesaerialdragonscenttrackingratherthansamegroundmethod,actualprincessblackhairchasedinstreet. Herecognizesinternationalconsequencesyetdisregards,threatensbindingflight,asksreturn/responsibilityaccountafterhersurrender/apology. Watergiven,trustnotjusttheater;shethrowsactualpepper,affectsdragon'snosemore,escapesafterpromisingfuturemeat. Latercaptureafterhalfday/twoextraescapesactuallybindsandhangsprincessfromdragon'sneck,actualdistressandheadmovements;herlateradaptation/playdoesnotretroactivelysupplyconsent. Atthreedaysdeadlinenowgone, knightquestionsrigidity,likesfreedomandthinksothers'burdenmaybeworthselfenjoyment;potentialpunishmentprivatelyexpectsallblameonhim,princessclaimstoabsorbitunderstandsless. Reportednotheardmutterturnsoutprincesshearsitlater. Hedeliberatelyignorespleasandtakesupspearpracticewhileherropehangs;sheexplicitlynamesdangerofcutropeandthreatenscurse,novisiblefall/actualcurseperformed. Day4casino: princessteachescrudeadventurerpersona/roughspeech,hervenueinsultsprovokeactualresentment;knightactuallyapologizes/paysroundforsafety. Redcoatselectedbyprincess,roleclothingcoupledwithform-training; hemodelsboastfulsenior,awkwardpolite-plusぜ,tweakedbypainfulpinch. Heknowscardgamesbutnotreel-moneygambling,plansmoderationthenloses20card/20ballroundsandkeepschasingwhilesheactuallywinsmorethanheloses. Jealousdesireprovehimselfandsupposedrecoverallbetdrivecontinuation,notunknownuniversalcheating. Hisch eatingclaimmetwithdealer'splausiblereasonwhywouldoccasionallylethimwinandwouldn'tawardcompanion;stillunverifiedgamefairness. Shewins,conductoffendsvenue,heignoresrequesttodepartuntilvictory. NoendofcasinoatP630.",
+          "uncoded_comic_observations": [
+            "Letterflipsfearofunrememberedintimacyintodeliberate drugging/deadlinemanipulation;earlierclaimsremainfalseandlatercorrectionattributable.",
+            "Groundsearchfailurepromptsactualchangedgeometry/sensoryprovider,withinternational/collateralcostsnotexcused.",
+            "Apparentlysincereapologyandofferedwaterenablepepperescape;dragoninterestsdifferentfromhumanresistance.",
+            "Noblefreedomdiscourseinterruptedbyactuallyboundcompanion'sfear;lateramusementdoesnotmakeinitialexposure consensual.",
+            "Metaphoricalbeingdraggedaroundisconvertedintoactualbinding/rotation;figurativeandliteralplanesexplicitlyopposed.",
+            "Knightpersonatrainingboltsぜontoformalendings,painfullycorrected;costlysocialrepairshowspracticalsocialabilityalready.",
+            "Planmoderateplaybecomesactualrepeatedloss-chasingandenvy,simultaneouscompanionwinsprovidefundswhileembarrassinghim.",
+            "Dealerdeniescheatingwithspecificincentivecounterargumentandwantsthemgone,distinguishablefromconfirmedproof."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U011:P0428–0437",
+              "speaker_addressee": "Princessletter/knight",
+              "context": "Actualdrugginglett erandfalsepriorimplication",
+              "short_exact_anchor_if_recorded": "だから、なーんにもなかったから安心して",
+              "basic_gloss": "Explicitletterdeniesanysuchnightactivityandadmitssleepingdrug.",
+              "limit": "Pastmanipulativeclaimcorrection,non-graphic;no consensual completed encounterinferred."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0457–0465",
+              "speaker_addressee": "Knight/princess",
+              "context": "Aerialsearchandbindingthreat",
+              "short_exact_anchor_if_recorded": "物理的なのは違うと思うの",
+              "basic_gloss": "She rejects literal binding as counterpart to his figurative being pushed around.",
+              "limit": "Lateractualbinding/distressretained;notautomaticH3fromwordplay."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0468–0484",
+              "speaker_addressee": "Knight/princess",
+              "context": "Water,apologyandpepperbetrayal",
+              "short_exact_anchor_if_recorded": "本当にごめんね！",
+              "basic_gloss": "Repeatedapologyprecedesphysicalpepperescape,notcompliancewithreturn.",
+              "limit": "Futuremeatpromisenotactualpayment;dragondiscomfortreal."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0503–0515",
+              "speaker_addressee": "Knight/princess/dragon",
+              "context": "Freedomquestionduringboundtransport",
+              "short_exact_anchor_if_recorded": "ここにきて横揺れ",
+              "basic_gloss": "Interruptionmakesthedragon'sheadreplyhaveaconcretecosttotheboundprincess.",
+              "limit": "Actualcoerciveexposure,notunseenharmlessroleplay;noactualvomitshownhere."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0532–0545",
+              "speaker_addressee": "Knight/princess",
+              "context": "Deliberatelyroughermanneranddangerouspractice",
+              "short_exact_anchor_if_recorded": "ロープに当たったらどうするつもり!?",
+              "basic_gloss": "Sheexplicitlyidentifiesrope-cutdangerwhilehepracticesspear.",
+              "limit": "Heignoresherspeech;noactualcut/fallorperformedcurseprinted."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0562–0569",
+              "speaker_addressee": "Princess/knight/casinoothers",
+              "context": "Socialrepairaftervenueinsult",
+              "short_exact_anchor_if_recorded": "おかげさまで",
+              "basic_gloss": "Politegratitudetargetsherasthecauseoflearnedcostlysocialrepair.",
+              "limit": "Actualpaidroundandapology;notliteralunmixedthanksordisproofsocialskill."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0580–0596",
+              "speaker_addressee": "Knight/princess",
+              "context": "Awkwardrough-personavoicepractice",
+              "short_exact_anchor_if_recorded": "はい、分かりました、ぜ",
+              "basic_gloss": "Politeclausewithroughparticleawkwardlyappendedunderinstruction.",
+              "limit": "Role-trainingexplicit;writtenrepresentationnotaudioorfullnewvoiceexperiment."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0601–0629",
+              "speaker_addressee": "Knight/dealer/princess",
+              "context": "Losschasingdespiteplannedmoderation",
+              "short_exact_anchor_if_recorded": "勝つまでは帰らないからな！",
+              "basic_gloss": "Actualcontinuedplaytoforceonewinwhilecompanionfundsitwithwins.",
+              "limit": "Twentyplus20lossesnarratedbeforeadditionalround;notaprovedcheatingdetectororall-lifetimecensus."
+            }
+          ],
+          "limits": "Noformaloutcomes.Pastdragontackcut,binding/spearpracticeanddrugging retainagency/harmdistinctions.Princess'slateownadaptationnotretroconsent.Knightunderstandsprojectedpunishmentdoesn'tmakecoerciveactsinevitableorharmless.N03oldpromisechronologyknownlater,notautomaticactiveconstraintinthispre-exileflashback.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        },
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U011",
+          "native_member": "item/xhtml/p-003.xhtml",
+          "native_member_sha256": "c5c70671020fd39427857d6572b3037e53506fc7e4e1dc29dbdb2d5d57f5b716",
+          "start_P": 631,
+          "end_P": 840,
+          "nonparagraph_residual_received": false,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:29:29.288416+00:00",
+          "source_first_notes": "Pastday5losingcontinued,dealeroffershalf-lossrefund/departure,princesswinningbannedbutinsistswatchonly. Knight'sroug hrebuffdrivesherout;headmitspreviouslyunexpectedenjoymentofgamblingyetimmediatelyclaimsplayonly/doesn'tlikeitwhilechasingloss. Day6moneygrab/childdestitution/wifeperformance is explicitlystagedretaliationforpriorban,NOTactualwife/child-starvationfactsoractualownerexploitation. Falseowneraccusationcausesrealreputationdamage. Ownerreportsbothwin/lossharassment/dealerwithdrawal,expels. Princesssuppliesmopforspear-likefight,heappraisesusefulbutactuallyrefusesciviliansassault, carriesheroutwhilebeaten,bodypainwithnoshownseriouswounds. Sheenjoysactualrout,mirrorconfirmshisowninvoluntarysmile, ordersmorefreedom/smileandpartlyforcesexpression. Hisoldadventurerattractionpreexistsher,nowacceptsrequestjudgingcanprotectandwantsittoo. Polite/roughendingand私→俺trainingcontinues. Guildnotpreviouslyvisitedbyprincessbecausebountyforfindingher,routineofficialcaptureinhomecity. Heactuallyasksregistrationidentityrisk,sheassuresaliasokay;feesactuallypaidboth;description/disguiseredcontactsmasqueradeeye color,hisnaturalblueeyes/noblemarkerreportedlore. PrincesscoinsDustfrom騎士のほこり usingpride/dustsame-sound;heexplicitlynotessensewrongbutacceptstemporaryalias. Sheisリール, initialreceptionistlineP766saysリーンthenP771リール: preserve exactinconsistency,nounprovidednewidentityexplanation. Princesscardcapacitieshigh, sourceattributeswealthconsumables/hero bloodin-world,notautomaticcombatknowledge;herbraggingmakesothersretractrecruitmentinterest. KnightcardexposesexistingDragonKnightclassheforgotpriorregistrationceremony;verificationdoesnotconcealclassunderalias. Crowdrecognizespostedsearchbounty. Feignedcoupledeparturefails,crowdrusheswithsomeunwantedtouchplans. Knightusestip-covered spearto sweepfeet/creategap,actuallycarriesprincessescapesguild,chased;herobjectiondemandsprincesscarryinsteadbecauseactualprincess,whilesheenjoysflight. Oldspearpromise notyetgiveninthisflashback,sonocurrentactiveconstraintassumed.",
+          "uncoded_comic_observations": [
+            "Simulatedruinroleplaycoexistswithrealearlierlosschasing,butmustnotturnscriptedwife/childorownerabuseintoactualfacts.",
+            "Mopbattlecapacityavailable,butmoralreluctancetoattackcitizensleadstocostlyescape;skillandchoicearenotincapacity.",
+            "Claimsmerelyacting/dislikinggamblingcontradictactualexpressedenjoymentandcontinuedstakes.",
+            "Forcedsmileinstructionfollowsactualreflectionofspontaneoussmile;twoevidencestatesdistinct.",
+            "Dustnameconstructedfrom誇り/埃homophonyandEnglishdusttranslation;exactmeaningdifferenceexplicitlyacknowledged.",
+            "Cardhighstatsandbraggingperformancecauserecruitmentinterestthenretraction;abilityanddesirabilityseparate.",
+            "Identityprecautionchecksname/eyesbutoverlookspriorclassregistration,causesactualbountyrecognition;notgeneralcarefulchecksorundercheckingonly.",
+            "Falsecoupl eplanfails,covered-spearsweepcreatesactualegressgap;princesscomplainscarryformduringrealpursuit."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U011:P0638–0656",
+              "speaker_addressee": "Pastknight/princess/dealer",
+              "context": "Roug hroleandenjoymentcontradiction",
+              "short_exact_anchor_if_recorded": "本当はギャンブルも好きじゃない",
+              "basic_gloss": "Claimsdoesn'tlikegamblingimmediatelybesideadmittedfunandlosschasing.",
+              "limit": "Deliberateroleperformanceexistsbutdoesnotmakeallpastloss/enjoymentfictional."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0678–0693",
+              "speaker_addressee": "Owner/knight/princess",
+              "context": "Stagedretaliationandmopproposal",
+              "short_exact_anchor_if_recorded": "やり直すな！　帰れ！",
+              "basic_gloss": "Ownerrejectsactualtheatricalredoanddemandsdeparture.",
+              "limit": "Falsedestitution/abuseaccusationsnotfacts;actuallibel/harassment/costlyescape remain."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0704–0712",
+              "speaker_addressee": "Princess/knight",
+              "context": "Reflectionandsmilingorder",
+              "short_exact_anchor_if_recorded": "これは姫からの命令よ！",
+              "basic_gloss": "Freedom/smilinginstructionusesstatuscommandandphysicalmouthmovement.",
+              "limit": "Actualunpromptedsmilewasalreadyvisible;orderdoesnotprovewholelifeunfreeoruniformassent."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0740–0749",
+              "speaker_addressee": "Knight/princess/registryclerk",
+              "context": "Identitycheckandpronounpractice",
+              "short_exact_anchor_if_recorded": "ああ、わた……俺と彼女の分もある",
+              "basic_gloss": "Self-pronounrepairaccompaniesactualpreparedfee/paymentforboth.",
+              "limit": "Hechecksname/identityriskbutclassregistrationstillmissed;noauditoryclaim."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0762–0766",
+              "speaker_addressee": "Princess/knight",
+              "context": "Dustnameorigin",
+              "short_exact_anchor_if_recorded": "騎士のほこり、ほこりってうるさいし",
+              "basic_gloss": "Usespride/dusthomophonytocoinaliasDust;herecognizessensemisfit.",
+              "limit": "SpecificJapaneseformwarrantaftersealonly;receptionistリーンlineinconsistentwithリールelsewhere,notnormalized."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0780–0801",
+              "speaker_addressee": "Crowd/clerk/knightinterior",
+              "context": "Statisticsandrecruitment/identityexposure",
+              "short_exact_anchor_if_recorded": "既に職業に就いている？",
+              "basic_gloss": "ClerkdetectsexistingjobregistrationandnamesDragonKnight.",
+              "limit": "Exactcardmechanismfictional;earlierceremonyrecalledafterexposure,notfullycheckedbefore."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0817–0837",
+              "speaker_addressee": "Knight/princess/crowd",
+              "context": "Failedcouplecoverthencarryescape",
+              "short_exact_anchor_if_recorded": "お姫様なのよ私は！",
+              "basic_gloss": "Realprincessdemandsprincesscarryformwhileconcealingidentityandfleeing.",
+              "limit": "Covered-spearfootsweepactuallymakesgap;nooldpromiseactiveyet,notfullcurrentrestrain ttrial."
+            }
+          ],
+          "limits": "Noformaloutcomes. Aliasリール/リーンnativevariationretained. Day6fictionalwife/child/ownerabusecannotbeusedasactualN01danger;realpreviousbinding/druggingandactualcitizens'costsstay.PastDragonKnightidentityknownthenbutcurrentlocaltestalreadyinformed. No completedreturn/knightpunishmentyet.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        },
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U011",
+          "native_member": "item/xhtml/p-003.xhtml",
+          "native_member_sha256": "c5c70671020fd39427857d6572b3037e53506fc7e4e1dc29dbdb2d5d57f5b716",
+          "start_P": 841,
+          "end_P": 1033,
+          "nonparagraph_residual_received": false,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:30:34.859937+00:00",
+          "source_first_notes": "Pastfugitivesescapeandrejoinchildoutsideforest. Knightactuallypromisesfuturejointadventurewhencrisisover;rejectsprincess'sinventedbare-namepromise,explicitmomentumtrap. Day7hepredictsteleporttracking/reporting,theyactuallypaylodgingandprepare;shequicklyunderstandsneedmove. Elroadnextdestinationonlyplanned,bothkeenoncasi no. Atchildwaitingforestretinuealreadyencirclesdragon;captainoldbenefactor. Knightappraisescouldbeatcaptainbutrefusesharmbenefactor,andmultipleknights/secureddragonmeanescapenotfeasible. Princessactuallyarguesherowninitiative, captainacknowledgesinstitutionalstorymustbekidnapforforeignface. Knighttakesformalblameknowingforeseeablefatalconsequence,privatepartialregretaboutprincessgrief/dragonpromise—notliteralno regrets. Actualprisonseveraldays,washedbeforeaudience, kingreducesdeathatprincessrequesttohouseabolition/exile/nameprohibition. Others'sympathy/knowledgeappraisedfromlooks;captainexplicitlystatesofficialfictionearlier. Butleractuallyreportsprincessacceptsnewmarriageandproperconductasconditionforhisleniency;king'smotivespartlyknightinferenc e. Atfarewellprincessapologizes,saysacceptedmarriage,hedeclaresfreedomonlyhalftrue/halfbravado. Holdsouthandhopinganotherflight, sherefusestakeit,visiblegrief,acceptsduty. Swordactuallygivenas魔法剣/nationaltreasureclaim,P1015exactnewpromiseforherorothertrulywantedprotectedpersonelseusesword, notabsolute spearban. Farewellactualkiss,headoptsbareリオノールP1019afterherdeclinedfurtherflight,leaves. Returntopresentdisguisedprincessdrunk/asleep,demandsnextdayadventure/promisefulfillment;DustadmitsactuallyforcedextraalcoholonTaylor/Keithtosendto roomsbeforeprincessmaskcouldfail. Heanswerssleepingprincessinoldcourtesynowmenabsent. ActualgenuineLeenstillunresolvedincurrenttimeline.",
+          "uncoded_comic_observations": [
+            "Realfutureadventurepromiseisimmediatelyusedtoassertafalsebare-namepromise;heactuallycheckstheclaimandrefuses.",
+            "Atday7natural俺slipswithoutintent,showinglearningratherthanpermanentpretendmask;formalvoicecanstillreturnforparticularrecipient.",
+            "Institutionalofficialkidnapstoryexplicitlydivergesfromknownprivateinitiative;princess'sgenuineintercessionreducespunishmentwithherowncost.",
+            "Claimfreeandnoregretisexplicitlyqualifiedaspartialbravado/remainingties;neitherpureunhappinessnorperfectnewfreedom.",
+            "Handnotchosen,actualvaluablefarewellgift/protectiveexception/kissandfirstbare-namefarewellcoexistwithoutcompletedfuturemarriage.",
+            "Presentdisguisecoveractuallyusescoercive/drunkenremovalofteammates,thenprivatecourtesyreturnforwarmresponsetopastpromise."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U011:P0846–0856",
+              "speaker_addressee": "Knight/princess",
+              "context": "Realpromiseandattemptedexpansion",
+              "short_exact_anchor_if_recorded": "そんな約束してませんよね？",
+              "basic_gloss": "Rejectsaddedbare-nameconditiondespiterealjoint-adventurepromise.",
+              "limit": "Meaningfulactualtermcheck,notuniversalcarefulnessorretroactivepromiseamendment."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0873–0879",
+              "speaker_addressee": "Knight/princess/interior",
+              "context": "Naturalpronounlearning",
+              "short_exact_anchor_if_recorded": "芝居する気もなく自然に口から出た",
+              "basic_gloss": "Heexplicitlysays俺nowappearswithoutdeliberateroleacting.",
+              "limit": "Writtenfirst-personaccount,notaseparateacousticexperimentorproofofirreversiblechange."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0903–0916",
+              "speaker_addressee": "Princess/captain/knight",
+              "context": "Captureandinstitutionalaccount",
+              "short_exact_anchor_if_recorded": "そうなっているのです",
+              "basic_gloss": "Captainexplicitlynamesofficialkidnapaccountdespiteknownprivateinitiative.",
+              "limit": "Noendorsementasactualcoercivekidnapbyknight;earlier/coerciveactselsewhereremain."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0937–0947",
+              "speaker_addressee": "King/knightinterior",
+              "context": "Actualsentence",
+              "short_exact_anchor_if_recorded": "ライン・シェイカーを名乗ることも許さぬ",
+              "basic_gloss": "Forbidsoldnamealongsideexileandhouseabolition,deathcommuted.",
+              "limit": "Fictionalinstitutionalpenalty;noactualreal-worldlawclaimorcategoricalclaimallrelativesdead."
+            },
+            {
+              "native_locator": "DUST-06-U011:P0965–0969",
+              "speaker_addressee": "Princess/knight/interior",
+              "context": "Apologyandqualifiedfreedomclaim",
+              "short_exact_anchor_if_recorded": "半分本音で半分強がり",
+              "basic_gloss": "Explicitlyqualifiesdeclarationofhappyfreedomwithbravado.",
+              "limit": "Doesnotmakeallordinarylifefalseortheforbiddennameunchangedlegalstatus."
+            },
+            {
+              "native_locator": "DUST-06-U011:P1008–1019",
+              "speaker_addressee": "Princess/knight",
+              "context": "Giftandpreciseprotectiveweaponpromise",
+              "short_exact_anchor_if_recorded": "私か、私以外の本当に守りたい人のため以外には槍は使わず",
+              "basic_gloss": "Specificothers-protectionexception,thenuseswordotherwise;barepersonalnamefinallyspoken.",
+              "limit": "ExactrulealreadyknownfromDust03source,nowfullorigincontext;pre-promiseearlierflashbackusesnottrialsunderactivelaterconstraint."
+            },
+            {
+              "native_locator": "DUST-06-U011:P1023–1033",
+              "speaker_addressee": "Presentprincess/Dust",
+              "context": "Sleepingtalk/privatecourtesy",
+              "short_exact_anchor_if_recorded": "ええ、冒険しましょうね",
+              "basic_gloss": "Oldcourtesyreturnstoanswerunfinishedadventurepromiseafterothermenremovedthroughdrink.",
+              "limit": "Nextdayadventureunperformedatendchapter;actualteammateintoxicationtacticnoterasedbywarmtone."
+            }
+          ],
+          "limits": "Chapter2complete.Noformaloutcomes. ExactpromiseknownbeforethiswholepassfromD3butorigin/farewellnowreread;fouroriginalholdoutscoresunchanged. Officialkidnapnarrative/privatechoices/actualpunishmentdistinct. Familyhouseabolitionnotdeaths.Newmarriageacceptedthen,latestcurrentstatusnotyetresolved.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": true,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 1033,
+      "selected_humor_ids": [
+        "DUST06-H016",
+        "DUST06-H017",
+        "DUST06-H018",
+        "DUST06-H019",
+        "DUST06-H020",
+        "DUST06-H021",
+        "DUST06-H022",
+        "DUST06-H023",
+        "DUST06-H024",
+        "DUST06-H025",
+        "DUST06-H026",
+        "DUST06-H027",
+        "DUST06-H028",
+        "DUST06-H029",
+        "DUST06-H030",
+        "DUST06-H031",
+        "DUST06-H032",
+        "DUST06-H033",
+        "DUST06-H034",
+        "DUST06-H035"
+      ],
+      "selected_voice_ids": [
+        "DUST06-V023",
+        "DUST06-V024",
+        "DUST06-V025",
+        "DUST06-V026",
+        "DUST06-V027",
+        "DUST06-V028",
+        "DUST06-V029",
+        "DUST06-V030",
+        "DUST06-V031",
+        "DUST06-V032",
+        "DUST06-V033",
+        "DUST06-V034",
+        "DUST06-V035",
+        "DUST06-V036",
+        "DUST06-V037",
+        "DUST06-V038",
+        "DUST06-V039",
+        "DUST06-V040",
+        "DUST06-V041",
+        "DUST06-V042",
+        "DUST06-V043",
+        "DUST06-V044",
+        "DUST06-V045",
+        "DUST06-V046",
+        "DUST06-V047",
+        "DUST06-V048",
+        "DUST06-V049",
+        "DUST06-V050",
+        "DUST06-V051",
+        "DUST06-V052",
+        "DUST06-V053",
+        "DUST06-V054",
+        "DUST06-V055",
+        "DUST06-V056",
+        "DUST06-V057",
+        "DUST06-V058"
+      ],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "b5af4a189f729eb64a67120258f8b811d76d1d0905468d74fdb85805cd2cc719",
+      "bytes": 82136,
+      "native_spine_order": 12,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 597,
+      "nonempty_paragraphs": 570,
+      "base_characters": 19021,
+      "ruby_count": 515,
+      "image_ids": [
+        "DUST-06-IMG011",
+        "DUST-06-IMG017"
+      ],
+      "current_component_role": "PRINCIPAL_CHAPTER_THREE_AND_LEEN_VIEWPOINT",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 200,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:32:11.528310+00:00"
+        },
+        {
+          "start_P": 201,
+          "end_P": 400,
+          "nonparagraph_residual_received": false,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:33:26.541627+00:00"
+        },
+        {
+          "start_P": 401,
+          "end_P": 597,
+          "nonparagraph_residual_received": false,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:34:40.739656+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U012",
+          "native_member": "item/xhtml/p-004.xhtml",
+          "native_member_sha256": "b5af4a189f729eb64a67120258f8b811d76d1d0905468d74fdb85805cd2cc719",
+          "start_P": 1,
+          "end_P": 200,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:32:11.528310+00:00",
+          "source_first_notes": "Presentdayafterdrinking, Taylor/Keithabsent;princessexplicitlyadmitsputtingsamegreen-labelsleepingdrugintheirdrinks, beyondDust'sownforcedalcoholplan. Theycan'twakeuntilnoonbyDustexperience. Sheappraiseschildpowermakespartyunneeded;Dustcorrectsdragontransformwouldexposevaluablespecies/bringhunters. DustrecruitsYunwithpublicinsultand5-secondultimatum,sheassertsmannersfirstthenpleadstojoin;princesscriticizestreatment. SmallluredwithclaimedVanirusedbrokenunwashedcup,physicallycarriedbeforeterms. Sheobjectsstillworking/cupunknown; oncehearssuccess-basedlatercupreward,explicitlyagreesandannouncesdeparture,managerwaves. Yun/princesscallalmostactualkidnap;Dustend-resultjustificationignoresprocess;Small'sprofessionalreassuranceinsults himnon-graphically. Questdetailswithhelduntilexistinghelpersask:2toadsplusgiantworm,claimedsoftenemybutlifeful/avoidbeingswallowed;genuineLeenhadrefusedbefore,princess/Yundislike,Smallresearchinterest not blanketassenttoallactivities.Childnowvoluntarilyclimbsonbackandtiescarrier,unlikeinitialD5resistedapplication;hededucessavesownhunger. Princessrefusestocarrydespitesympathy,clearownedboundary. PrincessinterruptsYunspellviaunwantedcontact,abnormalLeenbehaviorcoveredbydrinkinglie;Yunaccepts,Smallnotesnosmell/behaviorfitfromworkexperience,Dustconsidersboundeddisclosuretoher. PrincessactuallycastsoversizedFireballmissestoadthenexplodesbehind,realheatpain;toadbodyshieldsothers/blacksone,outofcontrolfirstlivespellnotcombatincapacity. Otherspraiseafteractualnearharm,princessboasts andisactuallyswallowedbyremainingtoad. Dustrecognizesfromownexperience,deliberatelyjokes/askswarmthwhilelegsstruggle,doesnotperformrescue;Yunexplicitlystopsmockeryandactuallycutsfree. Actualneed/actionretained,no completed-goal orbodyinjuryexemption. Dustrefusescloth/proximityasretaliationforearliercarrierrefusal,princessproposeshug;bothsecretlyintendfeint/avoidbutchoosesamedirectionandactuallycollide/fall/pain/slime,childjoinsseeingplay,YunrefusesjoinfromactualprioraversionandcastswaterwashatP200. Non-graphicboundedaccount;servicefantasy/childcommentsnotsexualcompletion.",
+          "uncoded_comic_observations": [
+            "AbsenceDustattributesdrinkquantityactuallyalsointentionaldrugging;princess'sownexcludedstaffproblemcausesdemandonnewproviders.",
+            "Apparentchildcapacityismissingusableformundersecrecycondition,notunlimitedfreecombatcapacity.",
+            "Yun andSmallinitialrequestprocessobjectionsareoverriddenbyspeed/force;Smallonlylaterhearsandacceptsspecificrewardterms,notretroactivepermissionforthegrab.",
+            "Sympathyexplicitlydoesnotentailwillingnesstoshareunpleasantcarrying;valuableexperienceargumentdoesnotchangeprincessveto.",
+            "CoverthatworksforYunfacesactualcontrarysensory/workevidencefromSmall.",
+            "Hugepowermissesintendedtargetandthreatenshelpers,gratitudefortoadshieldthenpraise/boastingendsinactualcapture.",
+            "Dust'swarmthjokingreplaceshisownprotectiveactionduringparticularcompanioncapture;Yunrescueisrealandattributedtoher.",
+            "Mutualnonconsensualfeintsturnintoactualcollisionbecausebothdodge sameway;laterchildplay/Yunwashingdifferentfromplannedhug."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U012:P0009–0028",
+              "speaker_addressee": "Princess/Dust",
+              "context": "Missingteammatesanddrugdisclosure",
+              "short_exact_anchor_if_recorded": "二人には盛っておいたから",
+              "basic_gloss": "Explicitdruggingstatementexplainsabsencebeyondalcoholquantity.",
+              "limit": "Actualcompulsionnotfreequitting;Dust'searlieralcoholtacticseparate."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0029–0043",
+              "speaker_addressee": "Yun/Dust/princess",
+              "context": "Rushedinvitation",
+              "short_exact_anchor_if_recorded": "誘い方にも礼儀ってありますよね？",
+              "basic_gloss": "Sheasksforaproperrequestbeforebeingpressuredbycountdown.",
+              "limit": "Laterjoinnotproofinitialobjectioninsincere;princesscriticizesindependently."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0055–0071",
+              "speaker_addressee": "Small/Dust/Yun/princess",
+              "context": "Cupinducementaftergrab",
+              "short_exact_anchor_if_recorded": "それを早く言ってくださいよ",
+              "basic_gloss": "Explicitacceptancearrivesonlyaftersuccess-basedrewardtermisheard.",
+              "limit": "Cupauthenticity/deliveryunshownhere;managerwaveandlaterchoicearenotpermissionfortheinitialgrab."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0111–0117",
+              "speaker_addressee": "Dust/princess",
+              "context": "Refusedburdenshare",
+              "short_exact_anchor_if_recorded": "それとこれとは話が別よ",
+              "basic_gloss": "Sympathyseparatedfromownedchoicetocarry.",
+              "limit": "Theboundaryisnotconsenthiddenbehinddenial;child'spresentcarrierchoiceisdifferentfromD5resistance."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0127–0133",
+              "speaker_addressee": "Yun/Dust/Small",
+              "context": "DrinkingcoverforunusualLeenbehavior",
+              "short_exact_anchor_if_recorded": "酒の匂いもしませんし",
+              "basic_gloss": "SmallcitesmissingodorandworkexperienceagainstthecoverYunaccepted.",
+              "limit": "Suspicionnotyetformalidentitydisclosure;noimmutablegullible/sharpglobaltraits."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0158–0168",
+              "speaker_addressee": "Dust/Yun",
+              "context": "Companionactuallyswallowed",
+              "short_exact_anchor_if_recorded": "からかってないで助けないと！",
+              "basic_gloss": "YuncallsforactionandactuallyrescueswhileDusthadbeenmocking.",
+              "limit": "Genuinecaptur eneednotrequirerenderedbodilyinjury;no later-success/joke-settingexemption orcreditDustwithYun'sspell."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0184–0200",
+              "speaker_addressee": "Dust/princess/Yun",
+              "context": "Mutualfeintcollisionandwash",
+              "short_exact_anchor_if_recorded": "三人同時に洗い流しますよ",
+              "basic_gloss": "Yunchoosesactualcleanupafterrefusingjoin;herownprioraversionexplicit.",
+              "limit": "Bothintendedavoidance,notmutuallyagreedhug;actualheadpainandodorretained.Non-graphic."
+            }
+          ],
+          "limits": "Noformaloutcomes.Taylor/Keithdruggednotyetrecovered,genuineLeenstilldetained,cuppromisednotdelivered,royalfoodarrangementqualifiedbyquestmeatneed. Realtoadcapture/delayedDustresponseandYunrescuemustremainseparatefromsubsequentplay.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        },
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U012",
+          "native_member": "item/xhtml/p-004.xhtml",
+          "native_member_sha256": "b5af4a189f729eb64a67120258f8b811d76d1d0905468d74fdb85805cd2cc719",
+          "start_P": 201,
+          "end_P": 400,
+          "nonparagraph_residual_received": false,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:33:26.541627+00:00",
+          "source_first_notes": "Waterwashactuallycompleted,taodquestcompleteandchildate2toads. Princesssayswillstopmonopolizing/partycooperate,Dustappraisescanbackupsmallmonsterbutseriousriskwithstronger;plansAquahealingifneedednotactualinjurycurehere. Wormhabitatdiscussion'notrighthere'instantlyactualeruptionunderDust. Selfswordinaccessiblebecausewaistswallowed, companionsinitiallycomment/watchdespitepleas;nativegradualswallowshoulders/recognizedrealrisk. DustoffersfirstrescuerlimitedexclusiveoriginalVanir dietbun token;all3actuallyattack/killfor3differentmotives. Heexplicitlyonlyhascounterfeitlookalikeordinarybun,claimsknownfalse;realbrandproductorigin/limitedrawmaterialandnorestocksreported,notrealmedicalguidance. Rewardfutureattown/notcurrentlycarried,recipientsdisappointed,actualdeliveryunshown.Childapproachmisreadconcernactuallyaskswormfood. ReturnDustdeclarespastadventurepromisefulfilledprincesspleasedbutwantsmore;bothspeculategenuineLeensubstitutionlikelyalreadyexposed;childidentifieshiddenpersonthenDustchecksvisible shadow. Dustassumesretinue,actualred-dresswomanペリエ,namebyP336. Groupcriticizesherclothes,Dustharassment/victim-blamingarguedagainstbyothers;princessfirstoffersromanticmotivealternativebutwomanexplicitlyownfashionpreference,soevenhergenerousmale-orientedtheorynotestablished. 'Encouragement'containsinsults,Smallsolicitedfranknessbecomesactualinsult/angryattemptedhits,Dustphysicallyholdshead. RetinueidentityanddisguisefashionareDusthighconfidenceguesses,notconfirmedhere. ペリエwantswomancomeorforce,YunactuallydefendsperceivedLeenwhilehesitatesfriendlabel;DustexplainsgenuineLeenkeptdistanceprotectingYunfrommaleinfluenceasappraisal. Princess/Smallconsultthenactuallyparalyzeopponentmid-declaration,Yunleftwithoutscene. Dustcallsbeingparalyzeduninjuredkindnessyetproposesdeterrentcoercion;heactuallyattemptsunwantedexposureofimmobilizedopponentandfalselytreatsinabilitytoresistasconsent.Princessactuallystopswithhit/callscrime;Yunobjects/Smallresearchframestaysdistinct,childcriticizes. Dustassertswinwin/nobodylosesandprincessnamesactualvictimcost. Non-graphiccriticalaccount,noconsent orharmlessoutcomefromparalysis/defeatedenemy.",
+          "uncoded_comic_observations": [
+            "Not-hereassuranceinstantlymetbyactualwormcapture;others'commentarydelaysactualrescuewhileDustknowsurgency.",
+            "Singleexclusiveprizecreatescoordinatedmulti-providerattackwithdifferentexpectedbenefits;counterfeit anddeferreddeliveryknownmisrepresentationnotaccidentalundercheck.",
+            "Expectedworriedchildactuallyasksfood,defeatingDust'sparticularcareinferencehere.",
+            "Callerassumesroyalretinuefromowncurrentproblem,whilered-dresswoman'sactualpurposeunverified.",
+            "Dustassertsclothingasblanketviewerinvitationbutrecipientandotherscontradict;princess'sownromanticexplanationalsocorrectedbywearer'sownedtaste.",
+            "Invitedfranknessisnotunlimitedrequestforhurtfulinsult;Smallangrynotsecretlygrateful.",
+            "Yun'sheroicdefenseinterruptedbysmallfriendlabelhesitancyandotherproviders'actualpreemptiveaction.",
+            "Falseconsentfromparalysisandwinwin claimaredirectlycriticizedandphysicallystopped;actualcoerciondoesnotbecomefreecomicplay."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U012:P0213–0226",
+              "speaker_addressee": "Dust/princess/companions",
+              "context": "Wormcaptureafterhabitatassurance",
+              "short_exact_anchor_if_recorded": "感想はいいから、どうにかしてくれ！",
+              "basic_gloss": "Requestshelpinstead ofirrelevantappraisalswhileactuallybeing swallowed.",
+              "limit": "Unabletodrawwaistweapon,gradualdangerreal;othersnotcreditedwithinstantprotection."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0237–0258",
+              "speaker_addressee": "Dust/3helpers",
+              "context": "Counterfeit exclusive reward induces rescue",
+              "short_exact_anchor_if_recorded": "先着一名様に",
+              "basic_gloss": "First-onlyprizeofferrecruitsall3atoncefordifferentaims.",
+              "limit": "Dustknowstokenfake,actualrescuereal,delivery/notnewstockunshown. Noaudio/newmedicalclaim."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0263–0269",
+              "speaker_addressee": "Princess/child/Dustinterior",
+              "context": "Deferredprizeandmisreadcare",
+              "short_exact_anchor_if_recorded": "ミミズ食べていい？",
+              "basic_gloss": "Child'sapproachforfooddefeatsDust'sconcerninterpretation.",
+              "limit": "Specificmotiveinthismoment,notabsenceofallattachment/care."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0323–0331",
+              "speaker_addressee": "Princess/ペリエ/others",
+              "context": "Motivesforclothing",
+              "short_exact_anchor_if_recorded": "こういう服が好きなだけなんだが",
+              "basic_gloss": "Wearernamesownedtasteagainstsexual/romanticmotiveclaims.",
+              "limit": "Clothingdoesnotauthorizecontact/looking;princess'salternativealsoonlyhypothesis."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0339–0347",
+              "speaker_addressee": "Small/Dust",
+              "context": "Challengeforfranknessandactualinsult",
+              "short_exact_anchor_if_recorded": "これは正当なキレ方です！",
+              "basic_gloss": "Rejectslabelofirrationalangerafterhisinsult.",
+              "limit": "Non-graphicboundednote,actualattemptedhits/physicalrestraintremain;notconsenttoanyinsult."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0359–0378",
+              "speaker_addressee": "Yun/ペリエ/princess/Small",
+              "context": "Defenseandpreemptiveparalysis",
+              "short_exact_anchor_if_recorded": "ま、まだ友達未満ですしぃ",
+              "basic_gloss": "HesitatesfriendstatusduringrealdefenseofperceivedLeen.",
+              "limit": "Othersactuallyparalyze;no verifiedretinueidentity, same-timecastsnotenoughforuniversalstackingrule."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0382–0400",
+              "speaker_addressee": "Dust/princess/Yun",
+              "context": "Immobilizedopponentagencyandcost",
+              "short_exact_anchor_if_recorded": "この人だけ損しているじゃない",
+              "basic_gloss": "Namesvictim'slossagainstDust'sfalsewinwinclaimafterstoppingunwantedexposureattempt.",
+              "limit": "Unabletoresistnotconsent;non-graphicanalysis,no completedsexualactivity orharmlessroleplayinference."
+            }
+          ],
+          "limits": "Noformaloutcomes.Pastpromiseapparentlyfulfilledbyrealquestinpresent,butgenuineLeenstilldetained/opponentidentityunknown;counterfeitprizedeliveryunshown. Actualcoercion and delay/rescue suppliers keptseparate,notclaimedbenevolentsafe-totalexecution.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        },
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U012",
+          "native_member": "item/xhtml/p-004.xhtml",
+          "native_member_sha256": "b5af4a189f729eb64a67120258f8b811d76d1d0905468d74fdb85805cd2cc719",
+          "start_P": 401,
+          "end_P": 597,
+          "nonparagraph_residual_received": false,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:34:40.739656+00:00",
+          "source_first_notes": "Afterunwantedexposureattemptstopped, Smallwarnsparalysiswillwearoff;Dustappraisesnomonstersnearbyandchoosesleave,princessaddsParalyzeagain. Actualquestfeereceivedguild,helpersdepart,childtemporarilyfull. Dust/princessstillassumeペリエretinue, unverified. Dustsuggestsreturn,andrecognizesgenuineLeennodutytoimpersonate;princessnowreportsmaidletterofferingcompensationforcooperationandprotectionfrompunishmentifexposed. Theyassumesafe/luxurytreated;actualunknowntoDust. NativeP427switchesLeenあたし: actuallockedluxuryroom, protestsdiscounted;sheconsidersbutrejectsdamagebecausecan'tpay. Photoassertssimilarity, potentialphysicalproofrejectedfromshame/pride(unperformed,non-graphic). Hiddenmaidrevealsalwayspresent, skills/employmenttofindprincess;actuallyknowsLeendifferent,princesscooperator/bribeddualpay. Explainsplannedlookalikescheme/notcoincidence, slips'利用'into'お手伝い'. Princessletterearlyformalapologyturnsinstantclaimedforgiveness/selfexcusing seriousoffenses;Leenchecksvisionratherthanbelievecontentsimplausible. Maiddescriptionadds3traitsandmultipliesby2,normallyexpectedaverage. Letterstatesfreedom/adventurepromise,rewardyearsofleisureandadditionaloldDustinfoifmaintainmaskdays;explicitinitialoptiondeclineandbereleased. Photoactualgiven:youngDustsmilingwithprincess/whitedragon, confirmsoldrelationenoughforLeenbutuncomfortableenvyexpressedasdon'tcare/repeatedinterest. Leenpositivelychoosestoplay, then halfdaytraining/dinnerdeadline/fullschedule,maidholdswhipthreat notactualstrikeprinted. Firstdinneractuallycompletedwithhelpers'cover,maidcallsbarepassing;Leenexhausted/wantscancel,maidinitiallysaysonceacceptednoveto,watchers/recaptureprobabilityexpress. Furtheroldknightstoryentices;maidexplicitlyqualifies princessstorybecausefrequentlies,notindependentlyverifieseveryscene. Synchronoussighbonding,Leenrepeatdeniesinterestwhileirritated. Maid offersperformanceasretaliation/replacingprincesssymbol,thenactuallyreofferscancellationwithcompensation/escortP594. LeenexplicitlychoosescontinueP595,motivedeniesjealousyP596. Actualinitialforce,proposedwithdrawal,ownedinformedentry,laterrefusalofexitandrenewedexitoffer/choicearetemporallydistinct. Reward/payout/unveilingunperformedhere.",
+          "uncoded_comic_observations": [
+            "Dust/princess'ssafe-guestexpectationimmediatelycontrastedwithLeen'sactuallocked-roomvoice;differentknowledgeplanes.",
+            "A seeminglyrationaldoubtaboutmisidentificationmeetsmaidwhoknewallalongandprofitablycolluded;poshpolitenessrepairs'using'into'helping'.",
+            "Letter'sformalapologyturnsintoforgivenessdemandandselfexcusinggraveacts;Leenquestionsvisionthenmaidmultipliestraits ratherthanaverages.",
+            "Dust'sformerlyharmlesssmileisexperiencedasgrotesqueagainstreputation;emotionalinterestdrawnintodenialrefrain.",
+            "Promisesofleisurepay/interestinginformationbecomesexhaustivetraining/dinnerrole;initialnownovetostatementlaterreplacedbyrealexitoffer,notpermanentcoercionorretroconsent.",
+            "Maidchangesexcitedwordfromぞくぞくtoわくわくwhenimaginingroyalfrustration,flatperformancemaintainsunreliablereputationcommentary."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U012:P0414–0423",
+              "speaker_addressee": "Dust/princess",
+              "context": "AssumedLeensafet yandnewletterreport",
+              "short_exact_anchor_if_recorded": "リーンは姫の真似をする義理はねえからな",
+              "basic_gloss": "Explicitlyrecognizessubstitutedpersonhasnodutytoactherrole.",
+              "limit": "Theircomfortableguestappraisalisnotknowledgeofactualroom/choice;lateroffersnotavailableearlier."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0450–0467",
+              "speaker_addressee": "Leen/maid",
+              "context": "Knownmistakenidentityandpaidcollusion",
+              "short_exact_anchor_if_recorded": "はい、別人なのは知ってますよ",
+              "basic_gloss": "Calmlyadmitsidentityknownthroughplannedcollusionratherthannewlysolvingmistake.",
+              "limit": "Butler'searliermisidentificationandinitialcapturestillreal;maid'sownpayreportnotbankconfirmation."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0475–0481",
+              "speaker_addressee": "Princessletter/maid/Leen",
+              "context": "Princesscharacterassessment",
+              "short_exact_anchor_if_recorded": "割らないで掛けるんだ",
+              "basic_gloss": "Expectedaveragingformulaamplifiedbymultiplication,Leenexplicitlycorrectsexpectation.",
+              "limit": "Attributedmetaphorictraitappraisal,notquantitativemeasureormean-modelscore."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0490–0518",
+              "speaker_addressee": "Princessletter/Leeninterior",
+              "context": "OldDustinformationandchoice",
+              "short_exact_anchor_if_recorded": "本当に、本当に、ダストの昔話なんてどうでもいいんだけどね!!",
+              "basic_gloss": "Repetitiondeniesinterestafterphotoandactualdecisiontolearneveryword.",
+              "limit": "Actualphotoishistoricalevidence,notindependentretellingofallpastplot;jealousyclaiminterpretwithlocalcontrarybehavior."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0553–0559",
+              "speaker_addressee": "Leen/maid",
+              "context": "Firstcancellationrequest",
+              "short_exact_anchor_if_recorded": "一度引き受けた場合、拒否権はございません",
+              "basic_gloss": "Maidrejectsexitafteracceptanceandinvokessurveillancecapacity.",
+              "limit": "Contradictedbylaterre-offeredexit;mustnotflattenwholehistoryintoeitherfreechoiceorunchangingcaptivity."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0576–0584",
+              "speaker_addressee": "Leen/maid",
+              "context": "Limitsonprincess'sownpaststory",
+              "short_exact_anchor_if_recorded": "日頃の行いって大事ですよ",
+              "basic_gloss": "Herhabituallyingqualifiesself-toldlegenddespitedirectparticipantstatus.",
+              "limit": "Notproofallstatementsfalse;maidaffirmsactualjointflight,scopeofdetailslimited."
+            },
+            {
+              "native_locator": "DUST-06-U012:P0591–0596",
+              "speaker_addressee": "Maid/Leen",
+              "context": "Revengeincentiveandrenewedexitoffer",
+              "short_exact_anchor_if_recorded": "姫様ごっこ続投してあげるわ！",
+              "basic_gloss": "Leenactuallyoptscontinueafterofferedcompensationandescortout.",
+              "limit": "Laterowneddecisiondoesn'tretroactivelyauthorizeinitialforceorearlierrefusedwithdrawal;promiseofpaymentnotactualpayment."
+            }
+          ],
+          "limits": "Chapter3complete.Noformaloutcomes.GenuineLeenhasnowherowninformedlaterchoiceandoldDustpartialstory;Dustdoesnotknowtheseprivateevents.Perieidentitynotconfirmed,prizetokenpromisednotdelivered,royalfoodobligationnotfullysettled. Maidwhipvisible/threateningtrainingbutnoactualstrikeinvented.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": true,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 597,
+      "selected_humor_ids": [
+        "DUST06-H036",
+        "DUST06-H037",
+        "DUST06-H038",
+        "DUST06-H039",
+        "DUST06-H040",
+        "DUST06-H041",
+        "DUST06-H042",
+        "DUST06-H043",
+        "DUST06-H044",
+        "DUST06-H045",
+        "DUST06-H046"
+      ],
+      "selected_voice_ids": [
+        "DUST06-V059",
+        "DUST06-V060",
+        "DUST06-V061",
+        "DUST06-V062",
+        "DUST06-V063",
+        "DUST06-V064",
+        "DUST06-V065",
+        "DUST06-V066",
+        "DUST06-V067",
+        "DUST06-V068",
+        "DUST06-V069",
+        "DUST06-V070",
+        "DUST06-V071",
+        "DUST06-V072",
+        "DUST06-V073",
+        "DUST06-V074",
+        "DUST06-V075",
+        "DUST06-V076",
+        "DUST06-V077",
+        "DUST06-V078",
+        "DUST06-V079"
+      ],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "5fa013adda41e8989c0fa71b01618d38b85cddb31f2b7b8be9d8c1f1074e3bb6",
+      "bytes": 94697,
+      "native_spine_order": 13,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 640,
+      "nonempty_paragraphs": 627,
+      "base_characters": 21541,
+      "ruby_count": 667,
+      "image_ids": [
+        "DUST-06-IMG012",
+        "DUST-06-IMG018"
+      ],
+      "current_component_role": "PRINCIPAL_CHAPTER_FOUR",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 210,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:36:23.866499+00:00"
+        },
+        {
+          "start_P": 211,
+          "end_P": 420,
+          "nonparagraph_residual_received": false,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:38:01.955232+00:00"
+        },
+        {
+          "start_P": 421,
+          "end_P": 640,
+          "nonparagraph_residual_received": false,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:39:35.819493+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U013",
+          "native_member": "item/xhtml/p-005.xhtml",
+          "native_member_sha256": "5fa013adda41e8989c0fa71b01618d38b85cddb31f2b7b8be9d8c1f1074e3bb6",
+          "start_P": 1,
+          "end_P": 210,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:36:23.866499+00:00",
+          "source_first_notes": "Two nightsafterreplacement, noexpectedretinuearrival. Taylor/Keithrecoverfromone-daysleepunawareofdrugging,selfblamedrinking,princesslectureanddeferredthanksgifts;Dustfirstwithholdsrebukeknowingtruthbuttheirnormalmoneyclaim/reputationdescriptionmakeshimimposechildmealpunishmentanyway,princessagrees, actualexpensiveplates/formerhelpersfinancialworry. No revealeddrugtruthorethicalamends. Dustandprincessadmitredwomanunrecognizedbutassumehiredretinue,possiblehandoverforLeen;princessthreatensoldhistoryexposure,DustassumeseventualLeenreleasewithoutnewcheck. ペリエarriveswearingjacketaftercriticism;princessapologyaddsnewinsults. Herthreattobystandersfailsbecauseprincesssaysownwelfareonly,half-seriousDustappraisal. Moraldenunciationofdaydrinkingactuallyoffendswholeguild,crowdphysicallyforcesalcohol,thenPeriejoinscelebrationintoxicated/forgetsmission. Dusttakesprincessouttoavoidmaskslips;herclearvoicemakeshimthinkacteddrunkbutdoesnotproveallpriorintoxicationfalse. SheasksifLeenmatters/whetherlookalikecanreplaceher,Dustinsteadpressestruepurposecitinguncharacteristicadvancechildwarning. Shesayspossiblylastmeeting,butexactreasoninterrupted. Periereturnscuredbyunknownpriestagainstherbadbehavior,claimsDustinsteadsettrapthoughactualself-offense. Askedemployer,eventuallynamesdemon-executivecommand;bothDust/princessopenlyadmittheyhadnoidea,Periehadmisreadsubstituteschemeasgeniusanti-hostageprecaution. Dust/princesssubstitutionwasactuallyfreedom/notenemyescape. Periedisclosesnearlarge-scaleinvasion/royalhostageplantoimmobilizedragonknights. PrincesssaysBelzergtripforthese talksasaccompanyingmember. Dustliesprincessunvalued/universallyhateddespiteprivateknowledgepopularwithpeople/soldiers;princessshockmaybegenuine,begstobehostageforproof,demandsluxury,Periewithdrawsinterest. Dustthinksinitialsuccessbutactualopponentchangesplan tokillboth/her+ witness,invokesbossobeywarningandactuallystepsinfronttoshieldprincess. Perierevealswings/horns,dressbackcutpurposefitswings;earlierfashion/socialmotiveinferencescorrectedbutpersonalwearerpreferencealsostillreal. No battleoutcomebyP210.",
+          "uncoded_comic_observations": [
+            "Druggerlecturesdruggedvictimsaboutmoderation;knownfalseblamebecomesactualchildmealchargewhenDustwithdrawssympathy.",
+            "Apologyforstyleaddsinsults,coercivebystanderthreatfailsagainstactualdisregardratherthanassumedethicalsolidarity.",
+            "Highmoraldrinkingcritiqueinaday-drinkingguildproducesgroup coercionandactualmissionloss,notproofofplannedDusttrap.",
+            "Bothsidesprojectcurrentproblem: Dust/princessseeretinue,Perieseesshrewdanti-enemydisguise;explicitexchangeprovesbothwrong.",
+            "Intentionaldevaluationlietacticallyworksagainsthostagegoalbutcreatesnewdeadlysideeffect,no safe-total-success.",
+            "Princessfearofbeingdislikedmakesselfnominationforhostagerolewithlavishconditions,refusedbyenem y;truepopularityprivatelyknownDust.",
+            "Wingsprovidefunctionalexplanationforopen-backdressunavailablebefore,notpermissionforharassmentorproofofromanticexhibitionmotive."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U013:P0010–0028",
+              "speaker_addressee": "Princess/Taylor/Keith/Dust",
+              "context": "Falseblameafteractualdrugging",
+              "short_exact_anchor_if_recorded": "酒は飲んでも飲まれるな",
+              "basic_gloss": "Drugger'smoderationmaximdeflectsresponsibilitytowardvictims.",
+              "limit": "Latermealchargeactual;notnaturalself-causedsleeporfreelychosenpunishmentterms."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0067–0077",
+              "speaker_addressee": "Perie/princess",
+              "context": "Bystanderthreat",
+              "short_exact_anchor_if_recorded": "別にいいわよ巻き込んで",
+              "basic_gloss": "Rejectsassumedcareforunrelatedothers,undercuttingcoercivebargain.",
+              "limit": "Dustappraiseshalftrue;notindependentuniversalpreferenceoractualperformedbystanderkilling."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0081–0099",
+              "speaker_addressee": "Perie/Dust/guilddrinkers",
+              "context": "Moralcritiqueinwrongvenue",
+              "short_exact_anchor_if_recorded": "ここをどこだと思ってんだ、あんた",
+              "basic_gloss": "Dustidentifiesaudience/venuecontrarytoherattackondrinkers.",
+              "limit": "Crowdactuallyforcesalcohol,notconsensualordinaryhospitality;unidentifiedpriestlatercures."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0112–0125",
+              "speaker_addressee": "Princess/Dust",
+              "context": "Truevisitpurposeandlookalikequestion",
+              "short_exact_anchor_if_recorded": "本当は何しにここに来たんだ？",
+              "basic_gloss": "Hechallengesstatedaccountwithspecificuncharacteristicadvancewarning.",
+              "limit": "Lastmeetingremarkinterrupted;fullreasonnotyetknown. Crispvoicedoesnotproveallpastdrinkinganact."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0134–0156",
+              "speaker_addressee": "Perie/Dust/princess",
+              "context": "Employerrevelationandmutualwronginference",
+              "short_exact_anchor_if_recorded": "これっぽっちも",
+              "basic_gloss": "Bothopenlyadmitno priorrecognitionofenemyarmyconnection.",
+              "limit": "Actualupdate;neitherside'searlierconfidentassumptioncertifiedasfact."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0174–0188",
+              "speaker_addressee": "Dust/princess/Perie",
+              "context": "Falsehostagevaluedevaluation",
+              "short_exact_anchor_if_recorded": "これは噓だ",
+              "basic_gloss": "Narratorexplicitlylabelsownhated-princessclaimfalseagainstknownpopularity.",
+              "limit": "Herfearseemsgenuinebutnotconfirmedmindaccess;tacticlatercausesnewdeaththreat."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0198–0208",
+              "speaker_addressee": "Dust/Perie",
+              "context": "Apparentsuccessescalatestokillplan",
+              "short_exact_anchor_if_recorded": "悪い方に転びやがった！",
+              "basic_gloss": "Heupdatesfromhostagetacticsuccesstoexplicitnewmortalriskandshieldsher.",
+              "limit": "Protectiveactionactual,no finalvictoryyet;initialunintendedsideeffectretained."
+            }
+          ],
+          "limits": "Noformaloutcomes.GenuineLeenstillseparatelaterownedchoiceunknownDust;princess'struefinalvisitpurposeinterrupted;Perieenemyconnectionnewlydisclosed,formerretinueassumptionincorrect. Paid/boundedquestnotwholecausalrepair,druggedfriendsmealcostreal.Nobodilyinjurythresholdaddedtoanycoercivecase.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        },
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U013",
+          "native_member": "item/xhtml/p-005.xhtml",
+          "native_member_sha256": "5fa013adda41e8989c0fa71b01618d38b85cddb31f2b7b8be9d8c1f1074e3bb6",
+          "start_P": 211,
+          "end_P": 420,
+          "nonparagraph_residual_received": false,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:38:01.955232+00:00",
+          "source_first_notes": "Princessrunsfromenemy,Dustaskswhyfightaftertargetleft,Perieinsistsrevengeandwillkillherlater. Realbattle:clawsreachlongerthan sword/twohands/aerialretreat, hecanonlydefend;escapeavailableforhimselfbutwouldsendherafterprincess,explicitlywon'tretreat. Princessactuallyreturnswithspear,notabandonment:hecatcheswithoutlooking,dropsthecherishedsword,plantsbutt/aimspointanddodgeslastmoment,enemycan'tturnspeed,actualgoryaftermathnotdescribedgraphically;heblocksprincessviewleaves. No explicitfinaldeathcheckandlaterunknownmustnotlabelpermanentkillwithoutmore. Princessthenactuallychoosesreturnbecauserealassassinationrisktoher/genuineLeen,expectsotherassassinsandgoodretinueprotection,thanksforadventure. Mansiongate:guardsinformedlookalikeexists, authenticprincessdismissedasfalse;DustwearsVanir-boughtmasktohideknownface. Butler/maidapparentlyknowyetuseLeenpreferredroleastool,allstaffclaimedagreekeepreplacement. Directattentiontospecificunderlyingdesiretoreturnmissestheirpunishment/reputationcontext. DustasksifLeenagrees;messagefromher sayscaremorecomegether,maidreportssheheardembellishedoldflightstoryandwon'tleaveuntilDustbows/apologizes. Dustacknowledgespromisefullpaststillnotdelivered/actualsecrecyirritation. Theyofferexchangeifpenetrateguardsbutwillreallyoppose;Dustinferunderlyingplanpromoteprincessreflection,notprovenallharmlesspretend. DirectsightLeenatwindowangrytongueout,hecommitstoretrieveforhermood. Nightrecruitsownparty/Yun/Smallwithinsufficientdetailsfirst,Smallobjectsnightjobcost;heexplainsonlywhenmennearwithdraw. Explanationisexplicitlyinventedstory oforphanedheiressforcedmarriagebygreedyrelativesandaccidentallycapturedLeen. Princessperformsfalsegrief,helpersbelieve;actualparentsdeath/forcedmarriageofcurrentaliasnotfacts. Childactuallywantedjoinandproximityboostreallyreasonbesidecovercare,childsleeping. DustproposesYunnon-graphicexposure/distractioncriminalplan,sheexplicitlyrefuses unnecessarycost,menobject,hewithdrawsproposal. Underpressureproposedaskingguards,Yunactuallysent,exactappealinaudiblethenreportsnight-safetyrebuke/norelease;Dustunfairlycallsv alueless,othersnowavoidproposinglestforcedtodo. Princessofferssplitinfiltration/diversionwithclaimedavoidlowstaffharm;realpeopleandliemaintained. Menactuallyagreedeployment, Dustchooseshimself/princess/child/Smallformental magicandinfiltrationexpertise;Smallissurprised,notyetownfullspecificterms.Herworkcost/forceandothers'falsebeliefremain.",
+          "uncoded_comic_observations": [
+            "Escapingprincessactuallyfetchescriticalweapon,correctingabandonmentappearance;enemyrecklessspeedbecomesgeometryweakpoint.",
+            "Authenticprincessdisbelievedaslookalikebyinformedgate andlaterknowingstaff;mask/liedrolescomplicateidentityproofratherthanfacealone.",
+            "Freedomsoughtisgrantedinunwantedformofnoauthority/luxury,staff'sliteralwishfulfillmentiseffectiverevengewithrealblocking.",
+            "Leen'sretrievalchallenge/em bellishedpaststorygivesDustspecificapologyobligationratherthanmeregenericrescue.",
+            "Explicitforgedheiressplotrecruitsactualhelpunderfalsepremises;roleplaynotproofallclaimsactualorH3automatic.",
+            "Rejectedunnecessaryhumiliatingdistractionproposalredrawntoaskgate;Yunactualattemptfailsforreportedreason,not universalincompetence.",
+            "Responsibilityrhetoricforcesproposertotry,andactuallysilencesfutureideas;princessstilloffersconcretegroupgeometry."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U013:P0234–0254",
+              "speaker_addressee": "Dust/princess/Perie",
+              "context": "Retreatdecisionandactualspearreturn",
+              "short_exact_anchor_if_recorded": "じゃあ……引けねえよなっ",
+              "basic_gloss": "Refusespersonalescapebecauseenemywouldpursueparticularprincess.",
+              "limit": "No competingdiscretionaryleisureestablished;actualprotectiveweaponexceptionknown,notgeneraladmirationdisplay."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0257–0267",
+              "speaker_addressee": "Princess/Dust",
+              "context": "Returningforothers'actualrisk",
+              "short_exact_anchor_if_recorded": "リーンちゃんをこれ以上巻き込むわけにはいかないわ",
+              "basic_gloss": "Acknowledgesrisktootherlookalikeandchoosesreturn.",
+              "limit": "Actualattemptreturnfollows;notclaimallpriorforceerasedorallotherenemiesconfirmedpresent."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0303–0314",
+              "speaker_addressee": "Butler/maid/princess/Dust",
+              "context": "KnowingsubstitutionandLeenchoicequestion",
+              "short_exact_anchor_if_recorded": "リーンは納得しているのか？",
+              "basic_gloss": "DustactuallyaskswhethergenuineLeenagrees,thenhearsconditionedretrievalmessage.",
+              "limit": "NoactualaudiencewithLeenyet;maidmessageisreportedandlaterdirectwindowlooklimited."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0319–0339",
+              "speaker_addressee": "Maid/Dust/butler",
+              "context": "Embellishedpastandtacticalexchangechallenge",
+              "short_exact_anchor_if_recorded": "脚色たっぷりでお伝えしたら",
+              "basic_gloss": "MaidexplicitlyadmitsadornedstoryandLeen'sreturncondition.",
+              "limit": "Novelstorynotfullindependentcorroboration;staffreallyblockevenifDustinferreflectionmotive."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0361–0368",
+              "speaker_addressee": "Dust/princess/helpers",
+              "context": "Inventedheiressplotforrecruitment",
+              "short_exact_anchor_if_recorded": "という設定だ",
+              "basic_gloss": "Narratorexplicitlylabelsrecruitmentbackstoryasfabrication.",
+              "limit": "Currentorphan/forcedmarriageclaimsfalse,nobackfilledparentdeaths;actualhelpunderfalseinformation."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0381–0391",
+              "speaker_addressee": "Dust/Yun/party",
+              "context": "Rejecteddistractionplan",
+              "short_exact_anchor_if_recorded": "その要素は必要ないですよね！",
+              "basic_gloss": "Yunrejectsunnecessarypersonalexposure/crimeingredientandplaniswithdrawn.",
+              "limit": "Unperformedproposal,non-graphic;criticismdoesnotobligatehertoacceptit."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0394–0418",
+              "speaker_addressee": "Yun/Dust/Taylor/princess",
+              "context": "Failedgateappealandsplitplan",
+              "short_exact_anchor_if_recorded": "批判だけなら誰だって出来るんだぜ？",
+              "basic_gloss": "Usesresponsibilityrhetorictoforceproposer'simplementation,whichdetersothers'ideas.",
+              "limit": "Actualappealnotaudible,rebukereported;splitplanisprincess'scontributionnotDustsolodiscovery."
+            }
+          ],
+          "limits": "Noformaloutcomes;Perie'spermanentdeathnotchecked, upcomingretrievalnotyetaccomplishedatP420.Suppliedspear/protectiveexceptionactivevspr e-promiseflashbackdistinguished. GenuineLeen'sinformedchallengeanduncontrolledactualenemyarenotthesamedangerstate.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        },
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U013",
+          "native_member": "item/xhtml/p-005.xhtml",
+          "native_member_sha256": "5fa013adda41e8989c0fa71b01618d38b85cddb31f2b7b8be9d8c1f1074e3bb6",
+          "start_P": 421,
+          "end_P": 640,
+          "nonparagraph_residual_received": false,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:39:35.819493+00:00",
+          "source_first_notes": "Princess'sclaimcurrentheiressmarriagecancelplanexplicitlyallfalse;helpersearnestinfalsepremise. ActualdistractionYunnervousbutpleasedatattention/Taylorawkward/Keithsuitable,performanceflawsstilldrawguardattentionandpermitgateentry. Alternatewallrouteexplicitlybadforprincess/highwall. Princesssuppliespre-acquiredfloorplanforownescape, leads, cross80percentcourtyardthenlightsdetect. Shetriesfireattack,DustactuallyinterruptsbecausegenuineLeeninside,expresslynotconcernedwithstaffburning. Leenbroughtrooftop,sayswon'treturn/questionsallattractionmereprincesslikeness;her悪い？firstseemsjealousyadmissionthenclarifies'accusationbad', laterquietunfinishedstatementnotaudible. Dustackfirstmistakebutrejectseverythingonlyresemblance,wantscompleteexplanationcutoff. Butlerknowsidentity,Dustremovesuselessmask, vowsforciblyretrieveandbow;staffcriticizeline'sstyle. Twoformerknightsappear. Princesssayshefoundtrulyprotectedperson,heexplicitlyagrees;sheannouncesformalupcomingmarriagenow,originalearlierengagementnotyetwedding,Dustgenuinelycongratulateswithoutoldagitation. Semanticscurrentloverstatusnotformallyannounced.Dustrequestschildaspartnerinsteadoffoodinducement,childhappy/agrees/actuallytransforms,staffevidencefirstunderstandinghumanescape. Nographicchilddescription.Pastprincesssaysfarewellknight. Dustchangesfightplaneaerialroute,buttwoformerknightsblockw/realordersretrievewhitedragon/reducedpayrisk,onepersonalrivalry. Spearactuallyprovidedbyopponent;heappraisesskillsandtrainingdifferences,confidenceinpresentgrowth. RealinitialexchangeprovesbothskilledthenfingersignalactivatesprearrangedSmallmentalspellfromabove, disarms/knocksoutboth. Theirdragonscarefullylandunconsciousriderssafely. Smallcriticizesspectaclefit,butactuallydidagreedplan afterprivateidentitydisclosure;heusedknowledgeofhersecretasmutualsecrecyincentive. Historicalnarrationvulnerabilitygainsnotindependentexpertiseorallfairness. Rooftopothersfleeexceptbutlerwhoallowsapproach;Leenretainsdefensivewords/doesn'ttakeextendedhand,explicitlyunusedtothis/blushes. Dustsay sactualprincesssheismyLeen,thenphysicallyliftsherontochild-dragonagainstinitialprotest/motion,holdswhileflying. Shesoonlikesview,asksoldprincessrelation,heexplainsforthcomingwedding/actualpastescapeandnewmatchandstatesagainLeenpresentprotectedprincess. Shespecificallyleansheadonshoulder/teaseshisembarrassment;tonemutuallywarm,formalrelationshipstatusnotexplicitlysettled. Initialliftresistance,notretroactivelyremovedbylaterenjoyment. Pastnightcomparisonprivatelyprivilegescurrentflight. Noactualextendedbow/apology/fullhistorydeliveryyetbeyondspokenclarification.",
+          "uncoded_comic_observations": [
+            "Badactingactuallysucceedsasattentionbaitthoughintendedharassment-roleisn'tperformedconvincingly;successdoesn'tproveactingcompetence.",
+            "Princess'sownescape-mapassethelpsreturn,butlightsandactualstaffoppositionblockeasyinfiltration.",
+            "Leen's悪い？isinitiallyreadasjealousyconcessionthenclarified;quietunfinishedphraseunheardcannotbesuppliedasfullconfession.",
+            "Dust'sroughretrievallinecriticizedforstyle;privatecourtesyreturnsforgenuinecongratulationsandprincessnamesnewprotectiveobject.",
+            "Childaskedforpartnershipratherthanbribedwithfood,explicitactualagreementcounterpointtoearlierinstrumentalapproach.",
+            "Airborneheroicduelhasactualskillthenprearrangedremoteprovideroutflanksit;Small'sscenestyleobjectiondoesnotstopcooperationorundorealphysicaleffect.",
+            "Grandextendedhandreceivesnotake/embarrassedwithdrawal,forcedliftdistinctfromlaterenjoyment;actualspokenmyprincessandreciprocalteasingadvanceattachmentwithoutinventedmarriage/status."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U013:P0434–0450",
+              "speaker_addressee": "Dust/Yun/Taylor/Keith",
+              "context": "Distractionactingandunexpectedattention",
+              "short_exact_anchor_if_recorded": "人から求められるのって貴重で",
+              "basic_gloss": "Yunenjoysattentionwhenrolecallsresistance;clumsyperformanceisstilleffectivebait.",
+              "limit": "Actualprovidersnamed,notproofallbehaviorfakeorsafeconsenttoothercosts."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0470–0475",
+              "speaker_addressee": "Dust/princess",
+              "context": "StoppedfirebecauseLeeninside",
+              "short_exact_anchor_if_recorded": "まだ中にリーンがいるんだぞ",
+              "basic_gloss": "Specificrecipientdangeractuallystopsproposedattack.",
+              "limit": "Heexpresslydisregardsstaffharm;neededactactualbutpure-motiveandgeneralethicalcapacitynotinferred."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0485–0492",
+              "speaker_addressee": "Dust/Leen",
+              "context": "Ambiguous悪いandrelationshipexplanation",
+              "short_exact_anchor_if_recorded": "悪い、って言ったのよ",
+              "basic_gloss": "Clarifiesbadrefershisstatementwhilejealousyquestionremainsdeflected.",
+              "limit": "Herquietunfinishedwordingunheard;notfullmutualconfessionfromambiguousuptake."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0505–0514",
+              "speaker_addressee": "Princess/Dust",
+              "context": "Newprotectedpersonandforthcomingmarriage",
+              "short_exact_anchor_if_recorded": "おめでとうございます",
+              "basic_gloss": "Genuinecourteouscongratulationswithoutoldagitationafterhernewformalweddingnews.",
+              "limit": "Weddingfuture,eventnotreadorperformedhere;presentattachmentdeclarednotrelationshipcontract."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0532–0545",
+              "speaker_addressee": "Dust/child/princess",
+              "context": "Partnerrequestandrevealedform",
+              "short_exact_anchor_if_recorded": "相棒、力を貸してくれ",
+              "basic_gloss": "Repairsfoodinducementintopartnershipask,childactuallywelcomesandagrees.",
+              "limit": "Specificinformedagreementdoesnotretroactivelyauthorizeearliercarrier/materialtransfers."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0580–0602",
+              "speaker_addressee": "Dust/Small",
+              "context": "Prearrangedmentalinterventioninsteadofstraightduel",
+              "short_exact_anchor_if_recorded": "格好良い戦闘シーンを見せつける場面ですよね？",
+              "basic_gloss": "Helperquestionsspectacleappropriatenessafteractuallycompletingagreedintervention.",
+              "limit": "WrittenmetascenecommentnotbyitselfH3;realknockouts/dragonssafelanding/providercontributionretained."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0606–0624",
+              "speaker_addressee": "Dust/Leen",
+              "context": "Retrievallineandinitialresistance",
+              "short_exact_anchor_if_recorded": "俺の姫は……お前だよ、リーン",
+              "basic_gloss": "Specificpresentpersonnamedinembarrassingdeclarationratherthanlikenessonly.",
+              "limit": "Handnot taken,initialliftresistanceactual;laterenjoymentnotretroactiveconsent."
+            },
+            {
+              "native_locator": "DUST-06-U013:P0626–0640",
+              "speaker_addressee": "Leen/Dust",
+              "context": "Oldrelationshipclarificationandrepeatedstatement",
+              "short_exact_anchor_if_recorded": "今の俺が守るべき姫は、お前だよリーン",
+              "basic_gloss": "ExplicitlyplacescurrentparticularcarewithLeenafterexplainingprincess'swedding.",
+              "limit": "Leenhead-on-shoulder/teasingactual,butnoformalmutualdatingormarriagestatusdeclared."
+            }
+          ],
+          "limits": "Chapter4complete.Noformaloutcomes. Perieaftermathnotfinaldeathproof;Smallcup/fakebunrewardsunsettled;forgedheiressplotstillunknownhelpers andnoactualfullhistory/apologydeliveryshown. Actualspearavailable/activeprotectiveexception,currentidentitydisclosuretoboundedhelperattributed;notunconstrainedadmirationtrial.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": true,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 640,
+      "selected_humor_ids": [
+        "DUST06-H047",
+        "DUST06-H048",
+        "DUST06-H049",
+        "DUST06-H050",
+        "DUST06-H051",
+        "DUST06-H052",
+        "DUST06-H053",
+        "DUST06-H054",
+        "DUST06-H055",
+        "DUST06-H056",
+        "DUST06-H057",
+        "DUST06-H058",
+        "DUST06-H059"
+      ],
+      "selected_voice_ids": [
+        "DUST06-V080",
+        "DUST06-V081",
+        "DUST06-V082",
+        "DUST06-V083",
+        "DUST06-V084",
+        "DUST06-V085",
+        "DUST06-V086",
+        "DUST06-V087",
+        "DUST06-V088",
+        "DUST06-V089",
+        "DUST06-V090",
+        "DUST06-V091",
+        "DUST06-V092",
+        "DUST06-V093",
+        "DUST06-V094",
+        "DUST06-V095",
+        "DUST06-V096",
+        "DUST06-V097",
+        "DUST06-V098",
+        "DUST06-V099",
+        "DUST06-V100",
+        "DUST06-V101"
+      ],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "fc476f7ed5a0ab7a7ed57a0f15c41273d00517e5a7025d2b5cf3b4f63a66d37e",
+      "bytes": 8831,
+      "native_spine_order": 14,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 67,
+      "nonempty_paragraphs": 65,
+      "base_characters": 1885,
+      "ruby_count": 55,
+      "image_ids": [
+        "DUST-06-IMG013"
+      ],
+      "current_component_role": "PRINCIPAL_EPILOGUE",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 67,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:41:09.071530+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U014",
+          "native_member": "item/xhtml/p-006.xhtml",
+          "native_member_sha256": "fc476f7ed5a0ab7a7ed57a0f15c41273d00517e5a7025d2b5cf3b4f63a66d37e",
+          "start_P": 1,
+          "end_P": 67,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:41:09.071530+00:00",
+          "source_first_notes": "Actualepilogue: princess/retinueleaveAxelforBelzerg,whitedragonflightseenbyfew/no rumorDustaware. DustinitiallyclaimsLeenrelationnotprogressed,sheasleeponride;Keithobservescloser/awkwardmutualawareness,Taylorcallsfinally.Leendenies/Dustteasesasifregularlovers,actualfullpunchsendschairback;fight/magicevaded,claimwoulddieisDustappraisalnotindependentinjuryproof. WholeguildbacksLeencitinghabitualconduct. Dustprivatelygenuinelylikesboisteroushomewhilegetsattackedmidreflection,Leenallegesstilloldlady;hesaysonlylovesLeenpubliclyasplannedretort/embarrassingstrategy. Shereactsandheadbuttsbellyinsteadofembrace,sayswouldn'tdoitandquietlynotpubliclybecauseembarrassment, finalquietwordsnotheardbyDust(readerhastext). Dustthreatensunwantedexposureasretaliation,proposalnotshownperformed,fullbrawlresumes.Lunas eriousemergencycallquietseveryoneannouncesrumorsofenemyraid;endingcollectiveheatdrops,raidnotyetoccurring.Latewarmboisterousendingdoesn'terasepain/force/ownprofessedwishes.",
+          "uncoded_comic_observations": [
+            "Narratednoprogresscontradictedbyothers'closerdistanceobservations,withoutformaldatingstatus.",
+            "Privatecontentedhomeaffectioninterruptedbyactualblow,groupbad-reputationchorusopposesDust'sself-pity.",
+            "Publicloveclaimusedasretaliatoryembarrassmentstrategyendsinheadbutt,notunqualifiedmutualconfession;reader-onlyquietqualificationdiffersfromDust'saccess.",
+            "Routinecrowdnoiseabruptlysilencedbynewseriousinstitutionalcall,invasionrumorstaysfuture."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U014:P0011–0022",
+              "speaker_addressee": "Keith/Leen/Taylor/Dust",
+              "context": "Apparentnoprogressandpublicteasing",
+              "short_exact_anchor_if_recorded": "むしろ、ようやくか",
+              "basic_gloss": "Taylorrespondstoobservedclosenessaslong-awaitedwithoutsettlingformalstatus.",
+              "limit": "ActualpunchfollowsDustteasing;violencenotautomaticallyharmlessaffection."
+            },
+            {
+              "native_locator": "DUST-06-U014:P0032–0042",
+              "speaker_addressee": "Guild/Leen/Dustinterior",
+              "context": "Reputationchorusandhomeappraisal",
+              "short_exact_anchor_if_recorded": "日頃の行い",
+              "basic_gloss": "UnisonbacksLeenagainstDust,whoactuallyvaluesboisteroushome.",
+              "limit": "No blanketjustificationofeveryactfromreputationorallmembers'consenttocosts."
+            },
+            {
+              "native_locator": "DUST-06-U014:P0046–0055",
+              "speaker_addressee": "Dust/Leen",
+              "context": "Publicloveclaimandheadbuttreply",
+              "short_exact_anchor_if_recorded": "こんな場所じゃ恥ずかしいし",
+              "basic_gloss": "Quietpublic-settingqualificationunheardbyDustafterphysicallyrejectingembrace.",
+              "limit": "Reader-onlylastwords;hisdeclarationisalsoembarrassmenttactic,notformalmutualrelationshipcontract."
+            },
+            {
+              "native_locator": "DUST-06-U014:P0060–0067",
+              "speaker_addressee": "Luna/guild/Dust",
+              "context": "Emergencychangeofstakes",
+              "short_exact_anchor_if_recorded": "緊急招集を掛けています",
+              "basic_gloss": "Seriousofficialsummonendsboisterousfightoverraidrumor.",
+              "limit": "Noactualraidoutcomeinthisedition'sending."
+            }
+          ],
+          "limits": "Noformaloutcomes. Princessdepartureactual,weddingfuture,royalfoodpayments/fakebun/cuprewardsnotsettledbyepilogue. Somecloseness/ownattachmentwithoutformalrelationshipresolution;actualviolenceandthreatsunperformed/performedseparate.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": true,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 67,
+      "selected_humor_ids": [
+        "DUST06-H060",
+        "DUST06-H061"
+      ],
+      "selected_voice_ids": [
+        "DUST06-V102",
+        "DUST06-V103",
+        "DUST06-V104",
+        "DUST06-V105"
+      ],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U015",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "084fff11de325055fb23a7380ed596e2bd83d2b89e1407da2f98c8037957c3b0",
+      "bytes": 7690,
+      "native_spine_order": 15,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 40,
+      "nonempty_paragraphs": 32,
+      "base_characters": 1680,
+      "ruby_count": 44,
+      "image_ids": [
+        "DUST-06-IMG019"
+      ],
+      "current_component_role": "AUTHOR_AFTERWORD_AND_CONTRIBUTOR_IMAGE",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 40,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:41:09.072026+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U015",
+          "native_member": "item/xhtml/p-007.xhtml",
+          "native_member_sha256": "084fff11de325055fb23a7380ed596e2bd83d2b89e1407da2f98c8037957c3b0",
+          "start_P": 1,
+          "end_P": 40,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:41:09.072026+00:00",
+          "source_first_notes": "Authorafterwordactualwholetext: saysvolume6revealsunderlyingrumorfromContinuedExplosions/Iris, backstoryprovidedbyAkatsukiandprincessfinepersonality/detailsHirukumadevelopment. Distinctprovenancefrompreviouswhite-childoriginalcharacter.Discussesstandoutcast/lookalikes/body-baseddistinctionwithwarning/cost(non-graphic), initialreactiontopastDust'whothis'andprincessinfluence, explicitLeeninitiallydrawninnotowninstigation. SayswantsmoreTaylor/Keithroles. Movieexperienceauthorreportnotrootaudio/filmviewing, illnessdelaymadehimrealizemissingfirstbonusnovel;hopeseditorgivesこそっとくれないかなーthen紅伝説だけに tiesrequestshape/title. Praisesmain16cover/upcomingend/thanksillustrators/newprincessart/supportreaders/signature昼熊. NoactualsupplementbonusnovelreceivedintheEPUBbythemention.",
+          "uncoded_comic_observations": [
+            "Originalcreatorprovidedbackgroundvsauthoraddedpersonalitydistinctnotallclaimedsingleauthorship.",
+            "Strongpast/currentDustgapproducesauthor'swhothisreaction,attributedtohisdevelopmentcommentnotindependentcharactertrial.",
+            "Delayedmovietripmissesbenefit,andcovertrequestforbonusnovelsetsup紅/くれないwordshapeechoexplicitだけに;source-scopedlanguageobservationunclassified.",
+            "Thankspraiseexistingmain16andanticipateend;notcurrentpublicationreleaseschedule."
+          ],
+          "uncoded_voice_witnesses": [
+            {
+              "native_locator": "DUST-06-U015:P0012–0016",
+              "speaker_addressee": "Hirukumaauthor/readers",
+              "context": "PastDustreaction",
+              "short_exact_anchor_if_recorded": "誰だこれ？",
+              "basic_gloss": "Authorreportsownsurpriseatprovidedpastsetting.",
+              "limit": "Paratextaccount,notindependentreviewerorproofactualcharacterincoherent."
+            },
+            {
+              "native_locator": "DUST-06-U015:P0026–0029",
+              "speaker_addressee": "Hirukuma/readers/editor",
+              "context": "Missingbonusnovelandtitleecho",
+              "short_exact_anchor_if_recorded": "紅伝説だけにっ！",
+              "basic_gloss": "Explicittitle-onlyjokelineafterくれないrequestforbonustext.",
+              "limit": "Authorialwordplay,notnarrativeH3 orrootmovieviewing;noabsentbonusstoryread."
+            }
+          ],
+          "limits": "Noformaloutcomes.Authorclaimsattributed,notexternalinterviewverification.Currentfilmdetailsnotasserted;nointernetneededforprovidedhistoricalfictionalparatext.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [
+        "DUST06-H062",
+        "DUST06-H063"
+      ],
+      "selected_voice_ids": [
+        "DUST06-V106",
+        "DUST06-V107"
+      ],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U016",
+      "member": "item/xhtml/p-allcover-001.xhtml",
+      "member_sha256": "a5429d5df1a9b4e0ee0e7cd1b1a0e8587309e1b1f2ab8de4071f81d2794da7e8",
+      "bytes": 782,
+      "native_spine_order": 16,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "DUST-06-IMG004"
+      ],
+      "current_component_role": "WRAP_COVER_MARKETING_FLAPS",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:47:36.177923+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U016",
+          "native_member": "item/xhtml/p-allcover-001.xhtml",
+          "native_member_sha256": "a5429d5df1a9b4e0ee0e7cd1b1a0e8587309e1b1f2ab8de4071f81d2794da7e8",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:47:36.177923+00:00",
+          "source_first_notes": "End wrap image wrapper actually received with no residual paragraph text; actual wrap image separately viewed and acknowledged.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Wrapper credit only; image credit recorded separately.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [],
+      "selected_voice_ids": [],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U017",
+      "member": "item/xhtml/p-colophon.xhtml",
+      "member_sha256": "9d9121e56322a40c39dfdd1bc880b8297695e4b0c7b37662d43d6be22f07882e",
+      "bytes": 2847,
+      "native_spine_order": 17,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 20,
+      "nonempty_paragraphs": 20,
+      "base_characters": 372,
+      "ruby_count": 10,
+      "image_ids": [],
+      "current_component_role": "ELECTRONIC_COLOPHON",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 20,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:47:36.178915+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U017",
+          "native_member": "item/xhtml/p-colophon.xhtml",
+          "native_member_sha256": "9d9121e56322a40c39dfdd1bc880b8297695e4b0c7b37662d43d6be22f07882e",
+          "start_P": 1,
+          "end_P": 20,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:47:36.178915+00:00",
+          "source_first_notes": "Actual colophon read in full. Volume subtitle 騎士の誓いをあなたに; original 暁なつめ, prose 昼熊, Kadokawa Sneaker imprint; native publication 2020-01-01/ver.001 and print-base first edition 2020-01-01; creator copyright 2020, issuer 三坂泰二/KADOKAWA. Historical publication and contact information are edition content, not independently checked current facts.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Full twenty native paragraph slots; no present-day publisher/contact verification or external-source credit.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [],
+      "selected_voice_ids": [],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U018",
+      "member": "item/xhtml/p-colophon2.xhtml",
+      "member_sha256": "d10d75fcd1be1caf43e8a8649bee6aaaaf72ad0e5a04e42258cf8286ec4e68c7",
+      "bytes": 1110,
+      "native_spine_order": 18,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 3,
+      "nonempty_paragraphs": 3,
+      "base_characters": 177,
+      "ruby_count": 0,
+      "image_ids": [],
+      "current_component_role": "USE_NOTICE_PARATEXT",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 3,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:47:36.179412+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U018",
+          "native_member": "item/xhtml/p-colophon2.xhtml",
+          "native_member_sha256": "d10d75fcd1be1caf43e8a8649bee6aaaaf72ad0e5a04e42258cf8286ec4e68c7",
+          "start_P": 1,
+          "end_P": 3,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:47:36.179412+00:00",
+          "source_first_notes": "All three use-notice clauses actually read: reproduction, transfer and publication-time basis of supplied information. These are source contents, not user or agent instructions.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Edition notice only; no narrative or bonus-story credit.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [],
+      "selected_voice_ids": [],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U019",
+      "member": "item/xhtml/p-bookwalker.xhtml",
+      "member_sha256": "65719179002ebb0468c3ba14986dda2049ad4c6a087daba3350b8c2189eeb97d",
+      "bytes": 671,
+      "native_spine_order": 19,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "DUST-06-IMG002"
+      ],
+      "current_component_role": "RETAILER_LOGO_WRAPPER",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:47:36.179907+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U019",
+          "native_member": "item/xhtml/p-bookwalker.xhtml",
+          "native_member_sha256": "65719179002ebb0468c3ba14986dda2049ad4c6a087daba3350b8c2189eeb97d",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:47:36.179907+00:00",
+          "source_first_notes": "BOOK WALKER end-logo wrapper actually read; no residual text. Native logo separately viewed.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "No story content.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [],
+      "selected_voice_ids": [],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    },
+    {
+      "component_id": "DUST-06-U020",
+      "member": "item/navigation-documents.xhtml",
+      "member_sha256": "994d43e76c70503d5e0ddd2ee6bd20f5b224b199b4c9bbb95ac00ae5d1ecaf42",
+      "bytes": 1328,
+      "native_spine_order": null,
+      "in_spine": false,
+      "properties": "nav",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [],
+      "current_component_role": "NONSPINE_NAVIGATION_REFERENCE",
+      "actual_full_text_and_ruby_read": true,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:47:36.180899+00:00"
+        }
+      ],
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "DUST-06",
+          "component_id": "DUST-06-U020",
+          "native_member": "item/navigation-documents.xhtml",
+          "native_member_sha256": "994d43e76c70503d5e0ddd2ee6bd20f5b224b199b4c9bbb95ac00ae5d1ecaf42",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-18T09:47:36.180899+00:00",
+          "source_first_notes": "All non-spine navigation residual actually read: Navigation; cover; CONTENTS; the four chapter titles; epilogue; afterword; colophon; Guide; cover; TOC; body. Links and labels match the supplied route; no separately supplied bonus narrative or prologue appears.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Actual navigation and links scope only; does not invent a missing bonus story from the afterword's mention of a theater bonus novel.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ],
+      "current_disposition": "ACCEPTED_AT_STATED_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "contains_principal_fiction_body_rather_than_only_wrapper": false,
+      "new_independent_validation_trial": false,
+      "principal_paragraph_accounting": 0,
+      "selected_humor_ids": [],
+      "selected_voice_ids": [],
+      "no_gag_census_claim": true,
+      "original_unassigned_fields_are_historical": true
+    }
+  ],
+  "actual_native_images": [
+    {
+      "image_id": "DUST-06-IMG001",
+      "member": "item/image/cover.jpg",
+      "sha256": "a96ef33edc48a3428ce40a67ae6ca9bbf4e3cbb4ebe64e7a963987bd2b1e29b4",
+      "bytes": 509524,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG001",
+        "native_image_member": "item/image/cover.jpg",
+        "native_image_sha256": "a96ef33edc48a3428ce40a67ae6ca9bbf4e3cbb4ebe64e7a963987bd2b1e29b4",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:19:23.830417+00:00",
+        "source_first_notes": "Actual cover volume6, subtitle 騎士の誓いをあなたに. Foreground long-blond-haired woman in ornate green dress, gems/headpiece and large green ribbon, winking; behind Dust in familiar red coat holds sword. Creator/prose/illustration/concept credits and publisher imprint all read.",
+        "reading_scope_and_limit": "Cover presentation, no spoken contract or completed reunion. Princess-like appearance and previous image familiarity are informed context, not an independently established present personal name.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG002",
+      "member": "item/image/i-bookwalker.jpg",
+      "sha256": "bc975294a3d8d2ba20666c6bdbf6dce43df027b50247ce1b877ac3f61dd8ce64",
+      "bytes": 313701,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG002",
+        "native_image_member": "item/image/i-bookwalker.jpg",
+        "native_image_sha256": "bc975294a3d8d2ba20666c6bdbf6dce43df027b50247ce1b877ac3f61dd8ce64",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:47:38.120719+00:00",
+        "source_first_notes": "Native BOOK WALKER retailer logo on white with book symbols actually viewed; no narrative.",
+        "reading_scope_and_limit": "Logo visual only; no external-site access or additional source credit.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG003",
+      "member": "item/image/titlepage.jpg",
+      "sha256": "b8625abcf20b558caeb89d143df69ef1a0c893eb3c55a4b4db1df9e5ffdb0e32",
+      "bytes": 137901,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG003",
+        "native_image_member": "item/image/titlepage.jpg",
+        "native_image_sha256": "b8625abcf20b558caeb89d143df69ef1a0c893eb3c55a4b4db1df9e5ffdb0e32",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:20:48.979493+00:00",
+        "source_first_notes": "Actual title page: あの愚か者にも脚光を！6 騎士の誓いをあなたに, original 暁なつめ/prose昼熊, Kadokawa Sneaker imprint and printed21974.",
+        "reading_scope_and_limit": "Identifier not asserted as publication date; creator roles separate.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG004",
+      "member": "item/image/allcover-001.jpg",
+      "sha256": "9b310853b3c80bec95df4dca65eb6c381d8ec06066ebb27f502bc603dc16561d",
+      "bytes": 277905,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG004",
+        "native_image_member": "item/image/allcover-001.jpg",
+        "native_image_sha256": "9b310853b3c80bec95df4dca65eb6c381d8ec06066ebb27f502bc603dc16561d",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:47:38.110256+00:00",
+        "source_first_notes": "Full native cover wrap actually viewed: same blonde princess/green dress and red-coated sword-bearing Dust; spine volume 6 and 騎士の誓いをあなたに. Author blurb says switched feature phone to smartphone yet uses phone/email and does most things on home PC; illustrator praises 紅伝説. Back marketing quotes old full name, princess adventurer visit and Leen replacement, foreshadows exile/revised vow. Credits/design text actually received.",
+        "reading_scope_and_limit": "Visual and printed wrap text read. Marketing compression is not additional witnessed plot. Historical creator comment does not confer film viewing or audio credit. No inferred unprinted settlement or relationship.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG005",
+      "member": "item/image/kuchie-001.jpg",
+      "sha256": "fb03d0eca1f496629c250a5183633c4c13f690ec6adbca6fe07b835b62240813",
+      "bytes": 476993,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG005",
+        "native_image_member": "item/image/kuchie-001.jpg",
+        "native_image_sha256": "fb03d0eca1f496629c250a5183633c4c13f690ec6adbca6fe07b835b62240813",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:19:23.839346+00:00",
+        "source_first_notes": "Front matter repeats long-haired green-dress woman and volume6/subtitle 騎士の誓いをあなたに, without Dust behind her. Full figure white gloves/headpiece/ribbon and layered dress.",
+        "reading_scope_and_limit": "Dependent front-art reuse, not a second event or name/identity trial.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG006",
+      "member": "item/image/kuchie-002.jpg",
+      "sha256": "ef17684b6f4a4971ce64526a729daaaf8166a8e9ea752c7bdafaaad19de34767",
+      "bytes": 387564,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG006",
+        "native_image_member": "item/image/kuchie-002.jpg",
+        "native_image_sha256": "ef17684b6f4a4971ce64526a729daaaf8166a8e9ea752c7bdafaaad19de34767",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:19:51.355756+00:00",
+        "source_first_notes": "Actual contents art read: Ch1あのおてんば姫が騒動をP003;Ch2あの逃避行の真相をP058;Ch3あの約束の冒険をP143;Ch4あのドラゴンナイトに決着をP192;Ep245;Afterword251. Dust/sword art reused as background; title/subtitle/illustration-design credits present. No separately listed prologue/bonus.",
+        "reading_scope_and_limit": "Contents is an edition route, not proof of narrative events completed or a universal absence of bonus in other editions.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG007",
+      "member": "item/image/kuchie-003.jpg",
+      "sha256": "d995eaf4a0ca1279a5601751c0758b9a3fc83dec49f5a7a60f611f7cdf622524",
+      "bytes": 262461,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG007",
+        "native_image_member": "item/image/kuchie-003.jpg",
+        "native_image_sha256": "d995eaf4a0ca1279a5601751c0758b9a3fc83dec49f5a7a60f611f7cdf622524",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:19:51.364684+00:00",
+        "source_first_notes": "Actually viewed image-only front illustration: clothed brown-haired red-eyed female figure with paired gold hair ornaments, dark/pink outfit, posed against pale patterned background. No printed caption/name/dialogue.",
+        "reading_scope_and_limit": "Non-graphic visual description only; identity/costume occasion and any associated agency or event remain unestablished by this unlabelled art. No republication of artwork.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG008",
+      "member": "item/image/kuchie-004.jpg",
+      "sha256": "0df639e246cdc004d2609812cb4dc279cbd65e709764b23be3d2c9f3e5c74981",
+      "bytes": 303759,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG008",
+        "native_image_member": "item/image/kuchie-004.jpg",
+        "native_image_sha256": "0df639e246cdc004d2609812cb4dc279cbd65e709764b23be3d2c9f3e5c74981",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:20:15.191051+00:00",
+        "source_first_notes": "Actually viewed captioned front art of the long-blond-haired woman in bed setting; bounded non-graphic description. Printed line fully read: もう、今更何を照れているのよ♥. It teases a blushing addressee; no speaker/addressee name printed.",
+        "reading_scope_and_limit": "Dependent front-art excerpt; does not independently establish completed sexual activity, recipient consent, personal identity or the narrative context not yet reread in this whole-edition pass.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG009",
+      "member": "item/image/m001.jpg",
+      "sha256": "599ae12be728ef7ff02f8dfb02d0f40c64352f8e39e6cbcb2ff89e1338ae0c8d",
+      "bytes": 66096,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG009",
+        "native_image_member": "item/image/m001.jpg",
+        "native_image_sha256": "599ae12be728ef7ff02f8dfb02d0f40c64352f8e39e6cbcb2ff89e1338ae0c8d",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:24:35.596416+00:00",
+        "source_first_notes": "Actual chapter1 banner 第一章 あのおてんば姫が騒動を, lower silhouette Dust with sword alone, unlike Dust05child banner.",
+        "reading_scope_and_limit": "Title/silhouette only, no additional identity or behavioral trial.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG010",
+      "member": "item/image/m002.jpg",
+      "sha256": "715bb5acddd009cff96f8f8ae3f1b1a3a16843de8c880c135f201c2909ab15c8",
+      "bytes": 63172,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG010",
+        "native_image_member": "item/image/m002.jpg",
+        "native_image_sha256": "715bb5acddd009cff96f8f8ae3f1b1a3a16843de8c880c135f201c2909ab15c8",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:27:05.241534+00:00",
+        "source_first_notes": "Actual chapter2 banner 第二章 あの逃避行の真相を, same sword-bearing Dust silhouette.",
+        "reading_scope_and_limit": "Banner/title, not independent proof of all legend truth.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG011",
+      "member": "item/image/m003.jpg",
+      "sha256": "1ce7905070e36d0c1d56d61002108f4fc13c0c7b400776a9364749827307fd30",
+      "bytes": 60876,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG011",
+        "native_image_member": "item/image/m003.jpg",
+        "native_image_sha256": "1ce7905070e36d0c1d56d61002108f4fc13c0c7b400776a9364749827307fd30",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:35:01.734385+00:00",
+        "source_first_notes": "Actual chapter3 banner 第三章 あの約束の冒険を with repeated sword-bearing Dust silhouette.",
+        "reading_scope_and_limit": "Title/banner only, not proof promise fully completed beyond displayed quest scenes.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG012",
+      "member": "item/image/m004.jpg",
+      "sha256": "37da56fc8cef881e17a41cc59f7b3dac1373bbe02d2f59c57a8c702e68bfa458",
+      "bytes": 64187,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG012",
+        "native_image_member": "item/image/m004.jpg",
+        "native_image_sha256": "37da56fc8cef881e17a41cc59f7b3dac1373bbe02d2f59c57a8c702e68bfa458",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:39:59.160052+00:00",
+        "source_first_notes": "Actual chapter4 banner 第四章 あのドラゴンナイトに決着を, repeated sword-bearing Dust silhouette.",
+        "reading_scope_and_limit": "Banner/title only; no independent trial of duel rules or completed legacy settlement.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG013",
+      "member": "item/image/m005.jpg",
+      "sha256": "20cffa94b014a1b0499460e9c497fb0a7337fe0778b064334d4457f03f52e259",
+      "bytes": 43079,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG013",
+        "native_image_member": "item/image/m005.jpg",
+        "native_image_sha256": "20cffa94b014a1b0499460e9c497fb0a7337fe0778b064334d4457f03f52e259",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:41:35.281636+00:00",
+        "source_first_notes": "Actual banner エピローグ with repeated sword-bearing Dust silhouette, confirming U014epilogue role.",
+        "reading_scope_and_limit": "Banner only; no new independent episode or outcome.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG014",
+      "member": "item/image/p002.jpg",
+      "sha256": "3dc5d19c4db6e747b7d577ba85e8358aeca5021d3111c07d15e1d76b58d42505",
+      "bytes": 529915,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG014",
+        "native_image_member": "item/image/p002.jpg",
+        "native_image_sha256": "3dc5d19c4db6e747b7d577ba85e8358aeca5021d3111c07d15e1d76b58d42505",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:20:48.988918+00:00",
+        "source_first_notes": "All profile labels/descriptions read: DustWarrior/reputedAxeladventurer/rumorswithtruthunknown;LeenWizard/partyguardianrole;YunArchwizard/skilledusuallysolo;Smallshopstaff/dreamprovider/easily-swayededitorialtag. Bottom AquaArchpriest,MeguminArchwizard,DarknessCrusader. Profile art identifies paired-gold-ornament brown-haired woman as Yun contextually, though IMG007itself uncaptioned.",
+        "reading_scope_and_limit": "Editorial summaries are not a universal nobody-knows census or blanket Small consent/gullibility; native scenes and known informed exposure govern exact identity/agency claims.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG015",
+      "member": "item/image/p063.jpg",
+      "sha256": "0c9a590a8d48ffd7140835de2ce77d25c2bbabff7325f72194f47fb1fece70ce",
+      "bytes": 329875,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG015",
+        "native_image_member": "item/image/p063.jpg",
+        "native_image_sha256": "0c9a590a8d48ffd7140835de2ce77d25c2bbabff7325f72194f47fb1fece70ce",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:27:05.249981+00:00",
+        "source_first_notes": "Actual monochrome illustration joins U011P63: princess in ornate dress asleep against the white dragon, eyes closed/mouth open with small drool mark, hand at abdomen. Non-graphic descriptive scope.",
+        "reading_scope_and_limit": "Past stable nap, not current replacement, later unremembered-night claim or completed intimate activity; no printed dialogue.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG016",
+      "member": "item/image/p141.jpg",
+      "sha256": "51dc03ba7082dc07419eb01f3dcf078ac4c5169fc897bb99eba31c946a99d6d9",
+      "bytes": 378282,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG016",
+        "native_image_member": "item/image/p141.jpg",
+        "native_image_sha256": "51dc03ba7082dc07419eb01f3dcf078ac4c5169fc897bb99eba31c946a99d6d9",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:30:53.083155+00:00",
+        "source_first_notes": "Actual farewell image at U011P1020: リオノール in ornate dress, tearful smile, gloved hand holds out an unsheathed sword toward viewer. No dialogue printed.",
+        "reading_scope_and_limit": "Depicts offered sword, not the just-adjacent kiss, exact vow wording, or actual departure. Sword identity/value follow text, not visual proof alone.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG017",
+      "member": "item/image/p191.jpg",
+      "sha256": "1906e1c1328fd7d201ba61c9dd7fb3678f419f3106d0cce2d117c68fc5e37f3e",
+      "bytes": 303251,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG017",
+        "native_image_member": "item/image/p191.jpg",
+        "native_image_sha256": "1906e1c1328fd7d201ba61c9dd7fb3678f419f3106d0cce2d117c68fc5e37f3e",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:35:01.742823+00:00",
+        "source_first_notes": "Actual image at U012P597: genuine Leen with dark hair/head ornament and ornate light dress, arms crossed, cheeks puffed/small breath mark, seated against decorated bed backdrop.",
+        "reading_scope_and_limit": "Leen impersonating princess in her own viewpoint segment, not リオノール's present quest or the earlier historical group photograph; no printed dialogue/assent proof.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG018",
+      "member": "item/image/p243.jpg",
+      "sha256": "d031aa2cca531b448dec2722419395422841a7c5b298d01f61414e11f1d57a6b",
+      "bytes": 322084,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG018",
+        "native_image_member": "item/image/p243.jpg",
+        "native_image_sha256": "d031aa2cca531b448dec2722419395422841a7c5b298d01f61414e11f1d57a6b",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:39:59.168639+00:00",
+        "source_first_notes": "Actually viewed split composition: Dust in red-coat design (monochrome) extending open hand toward viewer; left Leen in formal dress, blushing/surprised, night stars background. Native insertion after flight begins at P625, but depicted gesture corresponds to preceding hand offer.",
+        "reading_scope_and_limit": "Does not show her hand accepting, the physical lift/resistance, the dragon or actual airborne ride. Placement alone must not be described as flight illustration or consent proof.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    },
+    {
+      "image_id": "DUST-06-IMG019",
+      "member": "item/image/p255.jpg",
+      "sha256": "295e759fb65398412b83d8e91cea6616346432ad60e0dcc9af6219c2a1f54c87",
+      "bytes": 390793,
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "DUST-06",
+        "image_id": "DUST-06-IMG019",
+        "native_image_member": "item/image/p255.jpg",
+        "native_image_sha256": "295e759fb65398412b83d8e91cea6616346432ad60e0dcc9af6219c2a1f54c87",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-18T09:41:35.290594+00:00",
+        "source_first_notes": "Actual contributor illustration/comment page: smiling/winking リオノール in ornate outfit. All3comment blocks read: Hagure says story approaching climax/illustrates throughend; Akatsuki congratulates6andmentionsfilm/app/multiplemedia whileencouragingbooks; Mishima saysDustcanperformandwondersfuturewithLeen. Signatures憂姫はぐれ/暁なつめ/三嶋くろね.",
+        "reading_scope_and_limit": "Historical creator comments, not independent score/relationshipsettlement/currentproductrecommendation. No movie/app/audio actually used by root from this mention.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_disposition": "ACCEPTED_AT_ACTUAL_VISUAL_AND_PRINTED_TEXT_SCOPE_CONTAINING_PUBLICATION_PENDING",
+      "source_plane_guard": "Illustration/caption/banner/profile/contributor/marketing/branding follows actual note; no independent repeated event or consent/ability trial. Current qualifications control placement."
+    }
+  ],
+  "current_qualifications": "KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json",
+  "no_universal_equal_authority": "All20text/19image supplied-edition scopes actually read; principal U010-0142977P, other76P. Past flight, current Dust, Leen alternate viewpoint, explicit lies, mediated legend and letters retain access. IMG015pastnap/IMG016farewellsword/IMG018earlieropenhand do not certify unpictured night/vow/kiss/lift/flight. Front/profile/wrap/contributor/notice planes unequal; no separately supplied bonus/audio/movie credit."
+}

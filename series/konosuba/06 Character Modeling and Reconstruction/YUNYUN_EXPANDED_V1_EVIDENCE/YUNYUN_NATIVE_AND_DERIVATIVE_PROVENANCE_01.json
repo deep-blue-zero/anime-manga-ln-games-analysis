@@ -1,0 +1,823 @@
+{
+  "schema": "KONOSUBA_YUNYUN_NATIVE_AND_DERIVATIVE_PROVENANCE_V1",
+  "accepted_utc": "2026-10-19T13:17:14.046407+00:00",
+  "scope": "Twelve accepted native units/1050actual unique P across those units;20native image pages/fourlinked own interludes. Counts are receiving scopes, never independent events or fresh whole-source credit. Earlier MAIN07/08 attribution backjoins are inherited separately.",
+  "new_whole_source_or_independent_validation_credit": 0,
+  "records": [
+    {
+      "preserved_input_name": "SECONDARY_YUNYUN_ACCEPTED_NATIVE_AND_REPORT_RECHECK_02.json",
+      "sha256": "646854d740d15073cd94d1b05d9c6fbe1dd0be471ee83a5905e1dce7076260cc",
+      "actual_receiving_record": {
+        "schema": "KONOSUBA_YUNYUN_ACCEPTED_NATIVE_AND_DERIVATIVE_RECHECK_02",
+        "recorded_utc": "2026-10-19T12:55:41.159964+00:00",
+        "published_source": "8bde99e740ce0c23d9dee951aeb27cbb1aaa7c85",
+        "scope": "Seven accepted native units /494unique actual P; eight fully received focused report intervals. Previously truncated broad report or retrieval-lead displays excluded. All primary/source edition histories remain inherited, not recreated.",
+        "native_windows": [
+          {
+            "source_id": "MAIN-03",
+            "native_bytes": 3497582,
+            "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+            "member": "item/xhtml/p-007.xhtml",
+            "member_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d",
+            "accepted_principal_contract": {
+              "alias": "C2 / start",
+              "paragraph_slots": 638,
+              "member_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d"
+            },
+            "actual_untruncated_P_windows": [
+              [
+                430,
+                505
+              ],
+              [
+                570,
+                605
+              ]
+            ],
+            "unique_actual_P": 112
+          },
+          {
+            "source_id": "MAIN-09",
+            "native_bytes": 3086699,
+            "native_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+            "member": "OEBPS/Text/part0014.xhtml",
+            "member_sha256": "c9f50626467b97b546fe002429f26293ee9437169d4fd9bad81b6a91c6e0bd3a",
+            "accepted_principal_contract": {
+              "alias": "F / start",
+              "paragraph_slots": 868,
+              "member_sha256": "c9f50626467b97b546fe002429f26293ee9437169d4fd9bad81b6a91c6e0bd3a"
+            },
+            "actual_untruncated_P_windows": [
+              [
+                199,
+                226
+              ],
+              [
+                268,
+                321
+              ]
+            ],
+            "unique_actual_P": 82
+          },
+          {
+            "source_id": "MAIN-14",
+            "native_bytes": 2839172,
+            "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+            "member": "OEBPS/Text/part0013.xhtml",
+            "member_sha256": "a8071cb8fc1d0a95331b2f144583e9a237cd2b7a166e92dd566ced148a1eeaf2",
+            "accepted_principal_contract": {
+              "alias": "I13 / start",
+              "paragraph_slots": 85,
+              "member_sha256": "a8071cb8fc1d0a95331b2f144583e9a237cd2b7a166e92dd566ced148a1eeaf2"
+            },
+            "actual_untruncated_P_windows": [
+              [
+                1,
+                43
+              ],
+              [
+                44,
+                85
+              ]
+            ],
+            "unique_actual_P": 85
+          },
+          {
+            "source_id": "MAIN-14",
+            "native_bytes": 2839172,
+            "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+            "member": "OEBPS/Text/part0014.xhtml",
+            "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+            "accepted_principal_contract": {
+              "alias": "C4 / start",
+              "paragraph_slots": 681,
+              "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319"
+            },
+            "actual_untruncated_P_windows": [
+              [
+                1,
+                65
+              ],
+              [
+                628,
+                681
+              ]
+            ],
+            "unique_actual_P": 119
+          },
+          {
+            "source_id": "MAIN-15",
+            "native_bytes": 2513225,
+            "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+            "member": "OEBPS/Text/part0011.xhtml",
+            "member_sha256": "284a00b2c93af6021012842422f47d9e46a92ca2c9e4d4eb27e0a073c7ef1e33",
+            "accepted_principal_contract": {
+              "alias": "C2 / start",
+              "paragraph_slots": 958,
+              "member_sha256": "284a00b2c93af6021012842422f47d9e46a92ca2c9e4d4eb27e0a073c7ef1e33"
+            },
+            "actual_untruncated_P_windows": [
+              [
+                217,
+                260
+              ]
+            ],
+            "unique_actual_P": 44
+          },
+          {
+            "source_id": "MAIN-16",
+            "native_bytes": 8530869,
+            "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+            "member": "item/xhtml/p-002.xhtml",
+            "member_sha256": "aac0476d3091ee405a7becfd1362e430bfe1b60ea423dd7b76f7689131ef9eb9",
+            "accepted_principal_contract": {
+              "alias": "C1 / start",
+              "paragraph_slots": 513,
+              "member_sha256": "aac0476d3091ee405a7becfd1362e430bfe1b60ea423dd7b76f7689131ef9eb9"
+            },
+            "actual_untruncated_P_windows": [
+              [
+                190,
+                210
+              ]
+            ],
+            "unique_actual_P": 21
+          },
+          {
+            "source_id": "MAIN-17",
+            "native_bytes": 2197695,
+            "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+            "member": "text/part0012.html",
+            "member_sha256": "43b8bcea92d4723fb7ea62d3d84cb6e2e862c0ac9c3c596c088d455a741e6b84",
+            "accepted_principal_contract": {
+              "alias": "F / start",
+              "paragraph_slots": 789,
+              "member_sha256": "43b8bcea92d4723fb7ea62d3d84cb6e2e862c0ac9c3c596c088d455a741e6b84"
+            },
+            "actual_untruncated_P_windows": [
+              [
+                730,
+                760
+              ]
+            ],
+            "unique_actual_P": 31
+          }
+        ],
+        "report_windows": [
+          {
+            "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V03_DEEP_READING.md",
+            "bytes": 51030,
+            "sha256": "2f081277c91caf13ff7964ca0ef1341cab5508275e2a4ff9e1da25ec16bca5d6",
+            "actual_untruncated_lines": [
+              110,
+              180
+            ]
+          },
+          {
+            "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V05_DEEP_READING.md",
+            "bytes": 53663,
+            "sha256": "ab29a472cd0714e125d2de414e3d4d8a4efdb083f5b0fad7bbe5a4e9f4ddf1dc",
+            "actual_untruncated_lines": [
+              121,
+              200
+            ]
+          },
+          {
+            "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V05_DEEP_READING.md",
+            "bytes": 53663,
+            "sha256": "ab29a472cd0714e125d2de414e3d4d8a4efdb083f5b0fad7bbe5a4e9f4ddf1dc",
+            "actual_untruncated_lines": [
+              65,
+              122
+            ]
+          },
+          {
+            "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V09_DEEP_READING.md",
+            "bytes": 83538,
+            "sha256": "628fc5b663031395ee053689ccdf179f313e16840be071b79b8f33c305a63331",
+            "actual_untruncated_lines": [
+              90,
+              155
+            ]
+          },
+          {
+            "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V13_DEEP_READING.md",
+            "bytes": 284570,
+            "sha256": "52da1486a8d276a3be36809d6fc9d8d98b9ef22bb6340c8c71cd17cd4bb4b9ac",
+            "actual_untruncated_lines": [
+              180,
+              183
+            ]
+          },
+          {
+            "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V15_DEEP_READING.md",
+            "bytes": 979019,
+            "sha256": "4def6d40eda5cb620f30c778aee0256d0b7b8542df7c9f6f22be4d4e8bad8edc",
+            "actual_untruncated_lines": [
+              251,
+              273
+            ]
+          },
+          {
+            "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V16_DEEP_READING.md",
+            "bytes": 242821,
+            "sha256": "3abfddeea351603a856e1ef56c7638c4c64e5ec9754b21e09c0eaaa82ae25c22",
+            "actual_untruncated_lines": [
+              185,
+              201
+            ]
+          },
+          {
+            "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V17_DEEP_READING.md",
+            "bytes": 66777,
+            "sha256": "cc5df8a45547c7058bc6152bfdfd8822747146be0cb848f3d425a3c5411be1c6",
+            "actual_untruncated_lines": [
+              54,
+              74
+            ]
+          }
+        ],
+        "findings": [
+          {
+            "id": "Y-N01",
+            "sources": [
+              "MAIN-03 C2 P452-499"
+            ],
+            "finding": "Kazuma observes Yunyun copy a food purchase, wait for couples to leave a shooting game, try repeatedly, accept his plush gift, nearly detain him and then thank him. His inexperience, loneliness and romantic-return interpretations remain his attributions; her gratitude is direct. This episode supplies ordinary preferences and hesitant request behavior, not global incompetence or reciprocal romance."
+          },
+          {
+            "id": "Y-N02",
+            "sources": [
+              "MAIN-03 C2 P574-605"
+            ],
+            "finding": "Yunyun refuses an actual walk invitation while invoking rivalry, then regrets separation in observed posture and protests Megumin's account. This is a contrary case to unconditional inclusion acceptance. She reports paying Funifura/Dodonko after friendship language; actual historic expenditures are her report. Megumin's provocations and Yunyun grabbing/protesting are not harmless proof of covert benevolence."
+          },
+          {
+            "id": "Y-N03",
+            "sources": [
+              "MAIN-09 F P199-226",
+              "MAIN-09 F P268-321"
+            ],
+            "finding": "Yunyun acknowledges the assigned Teleport/back-up role and actually supplies withdrawal magic in the campaign montage. She explicitly objects that the group resembles the Demon Army while Kazuma and Megumin continue attacks amid surrender/mercy claims. The campaign is one linked cluster, not one test per spell; protest is not completed withdrawal or prevention of harm."
+          },
+          {
+            "id": "Y-N04",
+            "sources": [
+              "MAIN-14 I13 P3-12"
+            ],
+            "finding": "Own first-person Yunyun refuses the proposed Teleport cheating shortcut because she wants to earn chiefdom by ability. Childhood praise and an initially narrow available aspiration partly explain the goal; neither alone proves a timeless overriding merit ethic."
+          },
+          {
+            "id": "Y-N05",
+            "sources": [
+              "MAIN-14 I13 P24-43"
+            ],
+            "finding": "Yunyun questions Aigis's created duty and rejects his proposed sexualized clothing rule. She likes the companionship/travel part of his proposal, excluding its beauty criterion, and momentarily struggles to name a chief-exclusive purpose. Aigis is an independent sentient armor actor, not its distinct paired shield or a compliant tool."
+          },
+          {
+            "id": "Y-N06",
+            "sources": [
+              "MAIN-14 I13 P44-85"
+            ],
+            "finding": "Yunyun directly names Megumin as admired, foolish, valued friend whose pursued dream matters to her own goal. She attempts Inferno inside Aigis, discovers armor blocks magic/skills, then friendship wording and the commemorative dagger distract her while the armor is bitten. Attempt is not successful spell; combat expertise is not immunity to equipment mismatch or affiliation distraction."
+          },
+          {
+            "id": "Y-N07",
+            "sources": [
+              "MAIN-14 C4 P6-20"
+            ],
+            "finding": "Returned Yunyun is actually exhausted. Alternating spells with rest inside Aigis and conserving mana through intermediate magic are reported logistics; the source establishes passed trial and next-chief selection. Aigis's protection is a real causal resource even where Kazuma describes her nearly solo endurance. Father remains current chief."
+          },
+          {
+            "id": "Y-N08",
+            "sources": [
+              "MAIN-14 C4 P54-65",
+              "MAIN-14 C4 P638-681"
+            ],
+            "finding": "Yunyun corrects premature chief address and rejects Aigis's sexual insinuations. She chooses return to Axel and a further achievement, but immediately says many friends would have led her to abandon chiefdom. Megumin's withheld information and its stated rationale are explicit. Companionship and earned-achievement priorities are genuinely conditional; the loud rival coda does not cancel gratitude or agency."
+          },
+          {
+            "id": "Y-N09",
+            "sources": [
+              "MAIN-15 C2 P217-260"
+            ],
+            "finding": "Yunyun voices crime concern, then emphatically agrees after Kazuma singles her out as trusted necessary friend. Her Invisibility is actually staged. Silent is described as next requested task without a separately shown cast; Kazuma performs the repeated water/freezing. Accepted report table shorthand 'Yunyun recruitment/ice' cannot assign his ice work to her. Her harmful assistance and hesitant question constrain a universal moral-veto account."
+          },
+          {
+            "id": "Y-N10",
+            "sources": [
+              "MAIN-16 C1 P190-210"
+            ],
+            "finding": "Dust brings Yunyun back and names her concrete magical/escape value; she agrees to help Aqua as friend. She then declines Mitsurugi's explicit permanent party offer while accepting a handshake. Temporary task acceptance neither proves permanent membership nor erases selection/refusal."
+          },
+          {
+            "id": "Y-N11",
+            "sources": [
+              "MAIN-17 F P730-760"
+            ],
+            "finding": "Yunyun gives an approximate remaining two-cast resource estimate and notes nine people versus four-per-transfer. Megumin supplies Kazuma's Manatite; Yunyun coordinates and executes two transfers. Finite capacity and distributed resources remain, no universal transport power or unsupported separate heal. Her hand on Aqua is actual contact."
+          },
+          {
+            "id": "Y-N12",
+            "sources": [
+              "All actual windows"
+            ],
+            "finding": "Voice varies: respectful さん and polite hesitation with Kazuma, sharp plain-form protests and rival declarations with Megumin, own private reflective 私, clear technical mana/equipment limits, and ritualized chief declaration. No recorded audio, fixed stutter ratio or translation-invariant suffix performance is claimed."
+          }
+        ],
+        "new_whole_EPUB_image_pass_or_independent_test_credit": 0,
+        "original_forecasts_scores_notes_unchanged": true,
+        "global_census_closed": false
+      }
+    },
+    {
+      "preserved_input_name": "SECONDARY_YUNYUN_ACCEPTED_SUPPLEMENTAL_NATIVE_RECHECK_03.json",
+      "sha256": "ea24605b9de6f8352030a73fc53ca107b1bc6d1fa83fc6ed5e34b29458475a23",
+      "actual_receiving_record": {
+        "schema": "KONOSUBA_YUNYUN_ACCEPTED_SUPPLEMENTAL_NATIVE_RECHECK_03",
+        "recorded_utc": "2026-10-19T13:02:16.342192+00:00",
+        "native_windows": [
+          {
+            "source_id": "EXP-01",
+            "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+            "unit": "EXP-01-U043",
+            "member": "item/xhtml/p-033.xhtml",
+            "member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+            "actual_untruncated_P_windows": [
+              [
+                239,
+                284
+              ],
+              [
+                300,
+                365
+              ],
+              [
+                515,
+                580
+              ]
+            ],
+            "unique_actual_P": 178
+          },
+          {
+            "source_id": "EXP-02",
+            "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+            "unit": "EXP-02-U044",
+            "member": "item/xhtml/p-035.xhtml",
+            "member_sha256": "ab04b3fd93b2e314f27aae8c514d14a3965fe5b70831e6ca0179a4a3ace16b17",
+            "actual_untruncated_P_windows": [
+              [
+                575,
+                640
+              ]
+            ],
+            "unique_actual_P": 66
+          },
+          {
+            "source_id": "CONTEXP-02",
+            "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+            "unit": "CONTEXP-02-U016",
+            "member": "OEBPS/Text/part0014.xhtml",
+            "member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+            "actual_untruncated_P_windows": [
+              [
+                165,
+                240
+              ],
+              [
+                241,
+                267
+              ],
+              [
+                267,
+                315
+              ]
+            ],
+            "unique_actual_P": 151
+          },
+          {
+            "source_id": "CONTEXP-02",
+            "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+            "unit": "CONTEXP-02-U018",
+            "member": "OEBPS/Text/part0016.xhtml",
+            "member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+            "actual_untruncated_P_windows": [
+              [
+                378,
+                419
+              ],
+              [
+                425,
+                470
+              ]
+            ],
+            "unique_actual_P": 88
+          }
+        ],
+        "unique_actual_P_total": 483,
+        "findings": [
+          {
+            "id": "Y-N13",
+            "locator": "EXP01 U043P239-284,300-365,515-580",
+            "finding": "Actual early magical protection, Fireball, exhaustion and continued criticism of Explosion. Yunyun protects cat/child/friend interests and explicitly refuses Megumin immediate casting after the crisis. Megumin carries her, but her denied gift of a dream is not thereby repaid in Yunyun own appraisal. Her claim Megumin broke the seal lacks reader-known Komekko cause; no omniscience."
+          },
+          {
+            "id": "Y-N14",
+            "locator": "EXP02 U044P575-640",
+            "finding": "Megumin capstone cast attracts praise; Yunyun both admires and competes, retracts earlier joint-party proposal because she expects to be a burden, and plans further advanced-magic training. Narrator missed original request while sleepy, not Yunyun never asked. Peak-force comparison undervalues earlier repeated service; ordinary child thanks is mutually enjoyed. Source1cluster, not every sentence a replicated trait."
+          },
+          {
+            "id": "Y-N15",
+            "locator": "CONTEXP02 U016P188-220",
+            "finding": "Yesterday-to-now shell work is Yunyun report with actual delivery of shells; Vanir friend language and tea visibly reward her. She explicitly corrects Megumin describing taken lunches as offerings. She wants the outing, cites own dagger/level/mana-stone plan and presses past rest alternative. Mana-stone order is speech, no shown payment or handoff."
+          },
+          {
+            "id": "Y-N16",
+            "locator": "CONTEXP02 U016P259-266",
+            "finding": "Yunyun learns Alcanretia after being sent there. She reappraises that group company may improve an unwanted place and remains. This does not erase the earlier EXP03 predeparture refusal or provide informed destination assent before transit. Specific temporal state distinguishes choices without making every other friendship harmful by default."
+          },
+          {
+            "id": "Y-N17",
+            "locator": "CONTEXP02 U018P378-419",
+            "finding": "Yunyun attempts a dangerous Light of Saber toward the balloon, dispelled by Zesta; later actually bursts/cuts it and rejects a nice-ending account, disputing lost quarry with Megumin. Personal objection and agency coexist with hazardous retaliatory execution. No measured harmlessness, general moral pacifism or universal consent ethic."
+          }
+        ],
+        "new_whole_source_or_independent_test_credit": 0,
+        "all_original_reports_notes_forecasts_scores_unchanged": true,
+        "warnings": [
+          "Same episodes recur across reports/registers/ledgers/native pages; deduplicate causally.",
+          "Main-series17 principal and completed supplemental histories remain already exposed; no pristine blindness.",
+          "U018P425-470 actually received neighboring nonYunyun aftermath; its receipt is not a Yunyun mana-refusal claim."
+        ]
+      }
+    },
+    {
+      "preserved_input_name": "SECONDARY_YUNYUN_EXP03_SLEEP_NATIVE_RECHECK_01.json",
+      "sha256": "910f2319f638e5d30fd20058d14a41fd1993d1340e8f864679ce46c4c5a513c7",
+      "actual_receiving_record": {
+        "schema": "KONOSUBA_COMPLETED_SOURCE_BOUNDED_NATIVE_RECHECK_V1",
+        "source_id": "EXP-03",
+        "native_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+        "component_id": "EXP-03-U034",
+        "member": "item/xhtml/p-025.xhtml",
+        "member_sha256": "f67e8f5027c5bbd24e77d3495c3ea33c451f84d45da9bae18364347087b02c4b",
+        "actual_untruncated_windows_P": [
+          [
+            168,
+            205
+          ],
+          [
+            206,
+            240
+          ]
+        ],
+        "actual_unique_P": 73,
+        "new_full_source_or_principal_pass_credit": 0,
+        "findings": [
+          "Yunyun unlocks the door, believes Megumin asleep, admires courage; Megumin is actually awake and privately admits insomnia/overlooked mana leakage.",
+          "Yunyun identifies the Hide/chant leakage failure before intervention, reports her first own party request to Rex crew and their acceptance. Reported recruitment is distinct from later actual team action.",
+          "She calls Megumin her most important friend, apologizes and actually casts Sleep, then Megumin wakes to daylight and a missingdecoy. Protective motive does not supply prior consent; imagined facial expression is Megumin inference."
+        ],
+        "actual_received_utc": "2026-10-19T11:57:45.422662+00:00"
+      }
+    }
+  ],
+  "actual_native_image_recheck_records": [
+    {
+      "actual_received_utc": "2026-10-19T10:53:31.292556+00:00",
+      "image_id": "EXP-03-IMG019",
+      "native_member": "item/image/img-txt01.jpg",
+      "sha256": "5c82187cddb758aa059a045bbc5cc6bb85010dca6b32fd7eda1f41136af62ea2",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full native page. Yunyun first-person 私 checks notices alone, self-corrects friend to rival for Megumin, compares Megumin's greater sociability despite quick temper, and admits prior attempts to address strangers were abandoned. Home ornament was her most-talked-to object. She notices someone read her own notice; no universal nobody-interested claim.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T10:53:31.292556+00:00",
+      "image_id": "EXP-03-IMG020",
+      "native_member": "item/image/img-txt02.jpg",
+      "sha256": "4886fcb665f19449409f495de433ee873a0c50b58bbe652272505f4e57f915ab",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full page. A party points/nods positively at notice and searches; Yunyun becomes flushed/excited and watches, but their eye-contact reaction is fear/withdrawal. She concludes they were not recruiters, then reassures herself the notice explicitly gives Archwizard class. Several analogous groups are reported in aggregate, not individually enumerated new trials. A glasses-wearing woman approaches.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T10:53:31.292556+00:00",
+      "image_id": "EXP-03-IMG021",
+      "native_member": "item/image/img-txt03.jpg",
+      "sha256": "a99f4e1ea7332da4f3af3f72f7851f37cafdedc5c23b63ebb45e55bfc48f0b9d",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full page. Yunyun hurriedly supplies name/class/current intermediate-only magic and promises later advanced learning before listening. The woman identifies herself as guild staff, apologizes and relays complaints about threatening-looking observation as well as notice wording. Yunyun explains emotion makes Crimson eyes shine, that she was happy someone might come, then apologizes/undertakes care. Class Archwizard does not establish advanced-magic acquisition.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T10:53:31.292556+00:00",
+      "image_id": "EXP-03-IMG022",
+      "native_member": "item/image/img-txt04.jpg",
+      "sha256": "12234a2b896a43c57bad792feac204c38e171428f2f291a1facb4eaea7f48f65",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full page. Staff looks relieved and leaves; Yunyun feels hurt at being feared. A heavy-armored man who looks in his forties to her claims he is thirteen, corrects uncle-like self-reference and claims high-level Crusader/protection. Actual age/ability not independently certified. Yunyun offers at least conversation; he is startled despite initiating. The page ends before the later reported meal; no lasting party or contract shown.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T10:54:15.657272+00:00",
+      "image_id": "EXP-03-IMG024",
+      "native_member": "item/image/img-txt06.jpg",
+      "sha256": "b21f1ba32a65e4bb0ab4914f7ef80f5a0800ccaf169e36092d61c6919620fca0",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full page. Two young-looking female adventurers exchange rumor about celebrated spear-user Line=Shaker and noble/blond appearance, admitting they do not know his face. Yunyun observes the spear/thief-styled pair as roughly her age. Rumor, visual estimate and identity are different planes; no independent Dust biography or complete class proof from this gossip.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T10:54:15.657272+00:00",
+      "image_id": "EXP-03-IMG025",
+      "native_member": "item/image/img-txt07.jpg",
+      "sha256": "c336f97bd7cb414bfff032098c2439aa66cf66b3fcc1b0f86981bbc89adcb21b",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full page. A magic-sword bearer converses with the women, wanting a mage/priest; Yunyun explicitly resolves not to remain second to Megumin and stands to approach him despite earlier abandoning stranger approaches. The two women hiss/threaten proximity, and she glares back then withdraws. No refusal by the man or inevitable passive waiting is supplied.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T10:54:15.657272+00:00",
+      "image_id": "EXP-03-IMG026",
+      "native_member": "item/image/img-txt08.jpg",
+      "sha256": "24a6fc6068e3c338ba0e3d6b10e4669afffbae1f266fd46b9b09c4843b86571e",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full page. After approach failure she generalizes herself as forever second and slumps. An unnamed beautiful blue-robed priest offers listening; Yunyun infers Axis and remembers prior mistreatment but begins disclosing trouble despite wanting distance. This is a specific conflict of past distrust and immediate conversational need; robe does not identify Cecily.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T10:54:15.657272+00:00",
+      "image_id": "EXP-03-IMG027",
+      "native_member": "item/image/img-txt09.jpg",
+      "sha256": "df106f84ff93d94ecd433ab38564644a7109bf2c67947fb3f652e7af5495bf06",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full page. The woman offers a familiar enrollment form with promised encounters; onlookers condemn the cruel raising of hope and attribute doctrine. Yunyun grips form and eagerly says she will join to gain friends/companions; the recruiter is startled. Intention and form possession are actual, not completed registration. Onlooker claims about all Axis behavior remain claims.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T11:46:19.751215+00:00",
+      "image_id": "EXP-03-IMG028",
+      "native_member": "item/image/img-txt10.jpg",
+      "sha256": "73ca82af6c74a1f04799e756eb2457e9914dfcc67e45c874171475b04d70a5dc",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full native page. Third interlude, Yunyun first-person: after even Axis recruitment rejected her, the guild corner is now her regular place. She receives advice from the person she calls teacher to find causes and remove them one by one rather than jump straight to solving the problem, repeats the inferred lesson, then admits she does not know her own cause. He reassures her and requests beer because talking made him thirsty; no Yunyun drinking or verified teacher expertise is shown.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T11:46:19.757189+00:00",
+      "image_id": "EXP-03-IMG029",
+      "native_member": "item/image/img-txt11.jpg",
+      "sha256": "9e586f17cb017372c729c6512eeadc30b266672f33409197c8aee1908128b9b9",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full native page. Yunyun supplies beer while the teacher drinks and asks why he can address strangers and has many guild acquaintances. He attributes ease to alcohol and requests more. She explicitly says alcohol is still too early for her and asks another method; he promises a better idea after finishing another drink and she offers it. She is not shown drinking, following alcohol advice or receiving effective instruction yet. No exact beer count is supplied.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T11:46:19.763141+00:00",
+      "image_id": "EXP-03-IMG030",
+      "native_member": "item/image/img-txt12.jpg",
+      "sha256": "c5b68e06463a6270095a23dec8375b821ce2a536627cb24ab5ea3c4a316dff8c",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full native page. One hour later the teacher is drunk and slumped on the table; Yunyun shakes him and presses for how to gain friends/companions. He suggests revealing clothing and sex appeal. She angrily rejects this as irrelevant and slaps the table; he reacts fearfully, apologizes, calls it a joke/testing her obedience and offers to buy her a drink as well. No change to revealing clothing or acceptance of sexualized advice is shown; his testing account is self-exculpation after protest.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T11:46:19.768618+00:00",
+      "image_id": "EXP-03-IMG031",
+      "native_member": "item/image/img-txt13.jpg",
+      "sha256": "4f218503e9bc8161e975c8ae10f4922369f348c9d8103b8ddcdd862bdbc7a8de",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full native page. Yunyun rejects the irrelevant advice, insists on actual help making friends and does not want her found consultant to escape. She grasps his collar while he reacts with fear; her red eyes are her inferred anger signal, not an observed medical measure. He nervously suggests posting that she will pay a friendship fee, then tries to call it a joke; she interrupts with sincere thanks and says she will try it. No notice posting, paid friend, completed contract or effective advice outcome occurs on this page.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T11:48:27.525369+00:00",
+      "image_id": "EXP-03-IMG032",
+      "native_member": "item/image/img-txt14.jpg",
+      "sha256": "9fba6341faad24e740842628d440cc0240b642dbc3a2f8b66226c3e5fb5e93fa",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full native page. Final interlude: two weeks after parting from Megumin and leaving Axel, Yunyun says she also failed to find companions in two intervening towns. She repeatedly tells herself companions half do not matter because solo fighting can raise levels faster with sufficient ability; she aims to surpass Megumin and become the Crimson Demons' best magician, accepts some danger and stronger monsters, and says she therefore cannot collect companions casually. This is an explicit self-reassuring achievement appraisal, not proof her social desire disappeared.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T11:48:27.530826+00:00",
+      "image_id": "EXP-03-IMG033",
+      "native_member": "item/image/img-txt15.jpg",
+      "sha256": "43edb2e7a112e47c4c3f40fd9e3db7ad11fca3e3810177d781394209028e011a",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full native page. Yunyun immediately retracts that solitude claim in a prayer to Eris: she still wants human companions, dependable party members, or at least someone to talk with. A concerned woman addresses her after she has been shaking her head/acting oddly while thinking; Yunyun notices, blushes, waves and apologizes. The woman guesses she is a traveling mage and gives packaged baked sweets with gentle advice not to overdo things. The woman is not yet named on this page; no party recruitment or permanent bond is shown.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T11:48:27.535807+00:00",
+      "image_id": "EXP-03-IMG034",
+      "native_member": "item/image/img-txt16.jpg",
+      "sha256": "341a6d399dc6f7ea959259caff3e13ce07eed8ef7c1e7347153ce505ffa6933f",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full native page. The woman encourages Yunyun to eat the sweets. Yunyun remembers receiving similar sweets from a woman with a child while traveling with Megumin. The current woman removes her hood, revealing short red hair and distinctive yellow eyes, recognizes Crimson Demon eyes and appears nostalgic. Yunyun stammers into a formal self-introduction; the woman says a difficult name need not be given because she knows Crimson Demon names are unusual. No explicit rejection of a given name or disclosure of the woman's own name occurs.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T11:48:27.541264+00:00",
+      "image_id": "EXP-03-IMG035",
+      "native_member": "item/image/img-txt17.jpg",
+      "sha256": "7987254c64771b552e486c3134d64bbc94831b5380f27dfbae3ce62a9596129e",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full native page. Only Yunyun and the woman are aboard the nearly empty carriage. The woman offers to hear her problem; Yunyun, despite their first meeting, recounts leaving the village with a friend, going to Axel as the reputed best recruiting town, failing to find a party and leaving to surpass that friend. The woman pauses with eyes shut, then says her long-serving subordinates died one after another and parting is painful, with a somewhat lonely smile. Those deaths are her report; Yunyun infers a difficult history, not a known identity or independently observed military events.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T11:48:27.546720+00:00",
+      "image_id": "EXP-03-IMG036",
+      "native_member": "item/image/img-txt18.jpg",
+      "sha256": "e136d75d3700cac10cf5ab75e944fc9bfd229f20ee1d04b5a257d49718502522",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full native page. After condolences, the woman reassures Yunyun that her friend is only temporarily separated and can be met again, then asks her next destination. Yunyun says she wants strong monsters for rapid leveling. The woman offers to travel/stay in a hot-spring town and sometimes adventure together, claiming to be fairly strong; Yunyun immediately accepts before hearing the destination, then hesitates on learning it is Alcanretia, where she had earlier trouble. The invitation is actual; completed joint adventuring is not shown.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T11:48:27.552176+00:00",
+      "image_id": "EXP-03-IMG037",
+      "native_member": "item/image/img-txt19.jpg",
+      "sha256": "aeefa6c75131a3a9587fa67250146081ea3432ab11c0c01f2e6583b6984f86f5",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full native page. Yunyun explains she was caught in an Alcanretia incident attributed to Demon King Army personnel. The woman changes expression and quietly questions the timing, saying a plan there was meant for much later; this is her uttered planning hint, not an executed operation or knowledge of her identity by Yunyun. Yunyun describes hot springs turned to slime, reports a female devil sighting and Axis members' conclusion that every bad event in town is the Army's work. The woman questions the implausible sabotage and grips Yunyun's shoulders for clarification; reported attribution and actual perpetration remain separate.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T11:48:27.557653+00:00",
+      "image_id": "EXP-03-IMG038",
+      "native_member": "item/image/img-txt20.jpg",
+      "sha256": "a52300faee5364a067e824b66ad58d7b80862655df53afe4e1ea5077d39e86f6",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full native page. Yunyun warns about Alcanretia's unusual people; the woman says she understands enough from the account and will change carriages there. Yunyun says such invitations are rare and promises never to forget her, while the woman hurriedly minimizes the weight of the offer, citing Yunyun's magic potential and interest in training her. She sincerely advises both training and friends as important for becoming chief, lest Yunyun become a Demon King. She actually disembarks and waves; no joint hot-spring stay, adventuring phase or enduring friendship pact is performed.",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "actual_received_utc": "2026-10-19T11:48:27.563605+00:00",
+      "image_id": "EXP-03-IMG039",
+      "native_member": "item/image/img-txt21.jpg",
+      "sha256": "ce3fd499672b88b7a2e6bf7e286fd1bf78f2a2a54a8ad4c2e4508d532a2d2a9a",
+      "actual_full_native_page_pixels_read": true,
+      "source_first_recheck_notes": "Actually read full native page. Yunyun reflects on the woman's Demon King warning through the known story of a very strong, strangely named, lonely Demon King who gave a child powerful abilities meaningless alone. This is recalled lore rather than an observed encounter here. Yunyun explicitly names her own available bond as companion/friend/best friend and then rival, resolves to surpass Megumin and become Crimson Demon chief, then realizes she forgot to ask the woman's name. Her interlocutor remains unnamed to Yunyun; the reader's later identification cannot be assigned to her earlier knowledge.",
+      "new_whole_source_or_independent_test_credit": 0
+    }
+  ],
+  "complete_accepted_report_receiving": [
+    {
+      "preserved_input_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_13.json",
+      "input_sha256": "75b4f89a2bc7423ccfa9c1895bf2554f3e2c016450e465a2a6c1b9d5ea2ec617",
+      "scope": "Complete accepted EXP01 report, lines1-266, received in four untruncated tool displays; inherited original whole-edition/native-image reading history is separate.",
+      "source_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md",
+        "bytes": 66567,
+        "sha256": "0dd1f5123c50ea410625f1f2656c26f6190d8a792f5788b337cfb941402fcd33",
+        "actual_received_line_ranges": [
+          [
+            1,
+            65
+          ],
+          [
+            66,
+            125
+          ],
+          [
+            126,
+            190
+          ],
+          [
+            191,
+            266
+          ]
+        ]
+      },
+      "Yunyun_findings": [
+        {
+          "subjects": [
+            "Yunyun"
+          ],
+          "locators": [
+            "EXP01 U018P3-96,252-363",
+            "U023P3-144,269-671",
+            "U034P8-128",
+            "U037P249-427",
+            "U043P183-614"
+          ],
+          "finding": "Own desired distinction beyond chief parentage, practical and aesthetic judgments, method-specific refusals, complaints over exceeded food/ownership grants, physical competence, independently chosen intermediate magic and costly protection. Continued opposition to Explosion coexists with preserving Megumin dream; specific safety/return terms remain real.",
+          "contrary_or_limit": "Hesitant wanted company can be exploited, deliberate point alignment rests on a mistaken shared-goal assumption, and generosity does not imply unlimited assent. Multiple artifacts repeat these scenes rather than replicate choices."
+        }
+      ]
+    },
+    {
+      "preserved_input_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_14.json",
+      "input_sha256": "47fc7ce7b99d41961d11ba395aa554fdfceab7f68dcdce13dc3f11fd6df2732f",
+      "scope": "Complete accepted EXP02 report, lines1-299 in five untruncated displays; inherited original whole-edition/native-image reading history remains separate.",
+      "source_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V02_DEEP_READING.md",
+        "bytes": 81416,
+        "sha256": "cb8da61e4b49d247af96f0031f10ef533756d4770daf6878219400e6bde5fce1",
+        "actual_received_line_ranges": [
+          [
+            1,
+            65
+          ],
+          [
+            66,
+            130
+          ],
+          [
+            131,
+            195
+          ],
+          [
+            196,
+            260
+          ],
+          [
+            261,
+            299
+          ]
+        ]
+      },
+      "Yunyun_findings": [
+        {
+          "subjects": [
+            "Yunyun"
+          ],
+          "locators": [
+            "EXP02 U015/U017",
+            "U023 farewell/work",
+            "U029/U032 reunion/training",
+            "U038 investigation",
+            "U044P1-671 caravan"
+          ],
+          "finding": "Independent training/advanced competence and desired peer status coexist with wanted company. Direct no-blanket-forgiveness, casting restrictions, shield/target objections, work-finding and paid labor, invitation hosting/equipment gifts, investigation, repeated defense, refund offer and actual pet catch establish agency beyond timid supply. Same-party proposals are spoken and missed before withdrawal.",
+          "adverse_or_limit": "She misreads the large sum, strikes/retaliates, competes and accepts a peak-output comparison that wrongly devalues her repeated contribution. Withdrawal is her appraisal with real relational consequence, not proof she was operationally useless. Multiple depictions and repetitions are not independent trials."
+        }
+      ]
+    },
+    {
+      "preserved_input_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_15.json",
+      "input_sha256": "ca792f57bae1ca77603e591049d85e6ebb7fa92501e360231705f4061c6f53fb",
+      "scope": "Complete accepted EXP03 report lines1-367, six untruncated displays. Original native/source/image traversal is inherited and receives no new full-reading credit here.",
+      "source_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_DEEP_READING.md",
+        "bytes": 95947,
+        "sha256": "6bbb421413e45ab1f9129ee7617e2b68e1005bc3ced95e947e58fa85106338bb",
+        "actual_received_line_ranges": [
+          [
+            1,
+            65
+          ],
+          [
+            66,
+            130
+          ],
+          [
+            131,
+            195
+          ],
+          [
+            196,
+            260
+          ],
+          [
+            261,
+            325
+          ],
+          [
+            326,
+            367
+          ]
+        ]
+      },
+      "Yunyun_findings": [
+        {
+          "subjects": [
+            "Yunyun"
+          ],
+          "locators": [
+            "EXP03 U013P1-575",
+            "U020P1-611",
+            "U026P469-568",
+            "U032/U034P177-233,285-476",
+            "Four image interludes IMG019-022/024-027/028-031/032-039"
+          ],
+          "finding": "Four own-focalizer interludes independently reveal desires, actual approaches and refusals. Excitement is misread as glare; she receives a guild-worker correction and apologizes. She offers limited conversation, is refused by Axis recruiters, angrily demands useful advice, refuses alcohol and later refuses Arcanretia company despite loneliness. She chooses training/chief ambition without achieving either yet.",
+          "adverse_or_limit": "Strong attachment coexists with mistaken restraint of Megumin before an uninitiated cast, unilateral protective Sleep, over-simple strength comparisons, tactical product self-effect, unverified stranger claims and forgotten name. Actual fight assent is not permission for pushing; real friend joy does not imply anything-goes. No blanket safety or compliance model."
+        }
+      ]
+    }
+  ],
+  "additional_inherited_continuation_native_routes": [
+    "CONTEXP01 U013P104-153,389-424",
+    "CONTEXP02 U013P150-178"
+  ],
+  "limitations": [
+    "No raw EPUB text, images, full transcriptions or private acquisition evidence included.",
+    "Broad truncated retrieval/report displays excluded; only actual declared untruncated scopes credited.",
+    "Source/header/editorial/player/narrator planes remain distinct; continuous arcs and retellings deduplicate.",
+    "Remaining dispersed Dust/Mask evidence is not declared wholly reinspected for this model."
+  ]
+}
