@@ -11,6 +11,8 @@ Named branches isolate concurrent work and keep temporary branches from accumula
 
 These branches remain while their corpus is active. A retired series or study branch is pruned like a temporary branch.
 
+A repository ruleset blocks deleting or force-pushing every `series/` and `studies/` branch, `character-registry`, `character-reconstruction`, `agent/tooling` and `agent/governance`, with no bypass. Retiring one of them is an owner step: lift the rule, prune the branch, restore the rule.
+
 ## Continuing character curation
 
 The discovery agent uses the reusable `character-registry` branch with at most one open PR; the repository audit rejects any path beside `characters/registry.jsonl` and `CHARACTER_ANALYSIS_INDEX.md`. Keep it while the agent is active, recreate it from current `main` if it is deleted after a verified integration, and update it without force. See `CHARACTER_DISCOVERY_MAINTENANCE.md`.
