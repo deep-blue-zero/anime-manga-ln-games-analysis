@@ -119,7 +119,8 @@ The preferred long-series arrangement is fresh cloud architecture, local sequent
 | Comparative, taxonomy, or cross-series study | `studies/<stable-slug>/` content on the continuing `studies/<stable-slug>` branch; never force into a series |
 | Character discovery registry and generated index | Discovery agent on reusable `character-registry`; a broken reference on an analysis branch is repaired under `CHARACTER_DISCOVERY_MAINTENANCE.md` |
 | Character reconstruction capability registry and generated index | Reconstruction evaluator on reusable `character-reconstruction` under `CHARACTER_RECONSTRUCTION_MAINTENANCE.md`; never on a series/study branch |
-| Other governance, Git indexes, or repository tooling | Narrow temporary `agent/<purpose>` branch (the older `codex/`, `chatgpt/` and `claude/` prefixes remain valid) with heightened review and verified post-integration pruning |
+| Automation, tooling, Git indexes or validation | Continuing `agent/tooling` branch under [`BRANCH_LIFECYCLE.md`](policies/BRANCH_LIFECYCLE.md#continuing-maintenance-branches); a temporary `agent/<purpose>` branch only when it cannot wait |
+| Policy, governance or analytical frameworks | Continuing `agent/governance` branch under the same rules |
 | CI repair, reconciliation and PR integration | The CI agent under [the integration policy](policies/NIGHTLY_ANALYTICAL_INTEGRATION.md), on the PR's own branch; merges run only through the merge gate |
 | Primary sources, media, or extraction outputs | Source/ingestion domain; never analytical Git |
 | Existing `DRIVE_NATIVE_PRIMARY` Doc/Sheet | Controlled Drive-native workflow, then verified Git projection refresh |
