@@ -1575,3 +1575,10 @@ Zel’s proximity to Chomusuke contributes to Kazuma giving up an eventual eatin
 Vanir connection constrains Duke treatment of Small despite demon hostility;she is not actually sent by Vanir. His own nonwithdrawal claim limits patronage obedience. Garden reaches toward Aqua rather than threatener Kazuma;Darkness stops disposal before hearing private evidence. Yunyun declared adoption and Aqua later reported child-care promise do not complete institutional transfer or plant assent.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+Dust and Rionor initially infer Perie belongs to the royal retinue;Perie withholds affiliation rather than claiming that role. Her later princess/hostage understanding changes. Yunyun calls the disguised princess Leen without making that identity true. Perie expects royal concern for bystanders and is surprised when Rionor refuses the premise. Dust unwanted exposure attempt occurs under incapacity and Rionor stops it;liking a dress is not assent. The gate guard refuses the real outside princess while offering limited nonreporting and believing the resident authentic.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

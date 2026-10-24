@@ -1585,3 +1585,10 @@ Megumin’s early high-mana testimony and rejected spell/flight/breath expectati
 Duke actual knife/fire/holy capacities differ from judgment and usable advantage. His claimed lie-aura theory is not calibrated omniscience;lich power creates an adverse holy/drain matchup. The seller finite stock/caveat is useful input,while Kazuma retrieval fails. Plant speech is actually represented despite adult infant-language assumptions;no nutritional or developmental universal follows.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+Perie actual speed,claws,reach and accurate aerial withdrawal from danger qualify a blanket mindless-brute reading. Wings/horns are shown;Rionor explains the open-backed costume practicality without disproving her liking it. The planted-spear encounter defeats her approach locally,not on a universal power scale. Cure is her report and severe aftermath is not an independent death examination. The guard reasons from likeness,prior escapes and an instruction while wrongly identifying the outside princess.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
