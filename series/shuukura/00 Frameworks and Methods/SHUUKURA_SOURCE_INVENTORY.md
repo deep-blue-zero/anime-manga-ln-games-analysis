@@ -5,14 +5,14 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.49"
+version: "1.50"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Frozen I1 plus five accepted BW bonuses; LN01–09,23 supplements and KAK-JP-E0001–E0019 through whole transactions; E0020+ unread, main LN10/E0432+/premature V1 excluded"
+source_boundary: "Original I1 and five BW additions retained; accepted LN01–09,23 supplements and KAK-JP-E0001–E0019; LN-JP-V10 separately authorized at metadata-only admission; E0020+ original work paused; E0432+/automatic releases/premature V1 excluded"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0019_COMPLETE_SOURCE_CORRESPONDENCE_AND_CUMULATIVE_REVIEW
+review_status: LN10_METADATA_ADMISSION_ONLY_NO_NARRATIVE_INSPECTION
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,6 +20,14 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Source inventory and edition/witness architecture
+
+## Current bounded LN10 admission — 2026-10-24
+
+The newest owner instruction admits only main `LN-JP-V10` for one complete deep-reading transaction under the unchanged method/architecture procedures, expressly adopted for this source by the dated current-state successor and [addendum](SHUUKURA_V2_LN10_ADMISSION_INVENTORY_20261024_A1.json). The acquired Japanese EPUB is **12,106,996 bytes / SHA-256 `80e1c8ad88eeeecc61dc8ab6d19072121ab46b9c5b5c14bd7137894c69556640`**. All 31 spine components are mandatory; fiction, paratext and image roles remain unclassified until actual inspection. Metadata/structure verification earns no narrative or visual coverage. The [latest LN10 record](#bounded-main-ln10-admission--2026-10-24) owns admission; the [current entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) owns operational state.
+
+Accounting is **458 immutable I1 + 5 immutable BW additions + 1 main LN10 = 464**. Completion remains **46/458 original I1**, **51/463 before LN10**, **51/464 combined** and LN10 **0/1**. There are **52 admitted / 51 completed** sources. Original I1 and E0020+ dependent execution stay owner-paused; this source admits no other release, release bonus or V1 interpretation. The old LN10 exclusion remains true of frozen I1 membership and its bootstrap cutoff; this separate addendum supersedes that exclusion for the one operation.
+
+### Preserved E0019 inventory checkpoint — before LN10 admission
 
 This is the canonical source-and-coverage home. The bootstrap snapshot is **2026-10-17 UTC** (initial planning date2026-10-16); its initial tables distinguish acquisition/structure from reading. [Original I1](SHUUKURA_V2_EXECUTION_INVENTORY_20261017.json) remains immutable. Current accepted coverage is LN01–09, BW02/03/04/05/06/07/08/09/10, KSS01–12, OFF01–02 and KakuyomuE0001–E0019, only through complete introducing commits. The [2026-10-22 five-source addendum](SHUUKURA_V2_BW_BACKFILL_INVENTORY_20261022_A1.json) remains immutable; narrative coverage in that lane is5/5. Current coverage and the latest appended acceptance record own progress; dated candidate tables remain historical. The later resumption defines the unfinished frozen E0431 and original dependent I1 scope; execution pauses after E19 publication at the owner’s request. Current web coverage is19/431 through whole E0019; E0020 is unread and next after the complete E19 introducing transaction. Older stops remain historical; the full architecture is unfinished. Main LN10/E0432+/premature V1 interpretation remain excluded, and the completed five-bonus scope remains historical.
 
@@ -1997,3 +2005,22 @@ After genuine E19 entry and Q1, an attributed private E18 handoff successor corr
 The preceding actual E18 source passed owner-push run **40099590510**, attempt1, with **459tests / 9600paths**, successful jobs and trusted required-context status **57165396576**, followed by independent/root publication acceptance. That source green does not certify protected-main integration or E19. This unit still requires actual final whole-nine acceptance, staged INDEX validation, atomic commit, normal push/full remote readback and its own successful published-head audit. All18forecasts,13historical attempts, failures, ties, exposure limits, noncurrent UNTESTED M0.13/S0.14 and zero newly validated domains remain unchanged.
 
 The [current E19 reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0019_DEEP_READING.md#recoverable-observation-and-actor-clock-record) and transaction audit retain the original source, observations, actor clocks, lineages and review boundaries. E0020is the next narrative only after the whole E19 introducing commit. At the owner's request, execution pauses after E19's verified upstream publication. E0020 and all original dependent I1 stages remain unfinished and require owner resumption before further execution. G3–G7, Narō290 correspondence duties,27discovery duties and unresolved supplemental gaps remain unfinished. MainLN10, E0432+/automatic releases and premature V1 stay excluded. Both OFF archives stay local.
+
+## Bounded main LN10 admission — 2026-10-24
+
+The owner’s request, “V10 has been added to the sources and needs to have a deep reading done,” authorizes exactly **LN-JP-V10**, start=terminal, with no E0020+ or wider I1 resumption. [Admission inventory](SHUUKURA_V2_LN10_ADMISSION_INVENTORY_20261024_A1.json), ID `SHUUKURA-V2-LN10-20261024-A1`, freezes the source and 31 ordered components. Original I1 SHA-256 `6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b`, ordered identity digest `2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95` and BW addendum SHA-256 `26c5a1ced2334329bb302a3c1a57acae51ba0f9927383cc705936a87ea52d159` remain unchanged.
+
+| Responsibility | Metadata-only admission result |
+| --- | --- |
+| Exact witness | `LN-JP-V10`; 12,106,996 bytes; SHA-256 `80e1c8ad88eeeecc61dc8ab6d19072121ab46b9c5b5c14bd7137894c69556640` |
+| OPF identity | `item/standard.opf`; Japanese volume-10 title; 羽田宇佐/U35; KADOKAWA; `ja`; UUID `urn:uuid:8eeb04f3-05a4-45c7-95f1-8d138efe5fb5` |
+| Structure | 69 ZIP members; no duplicate names; CRC passes; 31 spine components; 4,405 native p; 23 image assets; 628 ruby/936 rt; no audio/video manifest type |
+| Whole-volume duty | All 31 components, internal fiction and interludes must be inspected/classified; visual claims require direct image inspection. Counts and decoding earn no reading credit. |
+| Intake receipt | `SOURCE_STRUCTURE_METADATA_A1.json`, 21,509 bytes / SHA-256 `5919bd7b36d18e2bb1cc3f50eacea63b9240b07a6bb4be1c506a01b9d55e59c8`; no private local path published |
+| Edition limit | Acquired-byte admission is not a retail-original binary, purchase or conversion-lineage certificate. Colophon and rendering checks remain source-reading duties. |
+| Coverage | LN10 0/1; accepted LN01–09, 23 supplements and WEB19/431; 51/464 combined, 46/458 I1 and 51/463 pre-LN10 |
+| Paused/excluded | Original I1 and all dependent stages, including E0020–E0431, remain paused; E0432+, automatic releases, unrequested release bonuses and premature V1 remain outside this operation. |
+
+This dated record supersedes only the former current LN10 exclusion and I1-only applicability for this source, adopting the existing prospective, Japanese-language, epistemic, four-ledger, claim-revision and atomic publication procedures unchanged. `BW-JP-V10` is a distinct accepted bonus; no duplicate or gap-resolution credit follows. The 51 historical gap candidates, four resolved/47 unresolved, 27 discovery duties and Narō0/290 state remain unchanged.
+
+This active single-operation admission is real metadata preparation. Narrative/visual inspection, entering/endpoint freezes, current ledger outcomes, due-prediction/claim adjudication, source correspondence, semantic review and final publication remain pending. Only the whole LN10 transaction can yield 52/464 and LN10 1/1. It then records completed/NONE and stops; original I1 remains interrupted and the full architecture unfinished.
