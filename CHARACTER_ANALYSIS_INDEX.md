@@ -2939,6 +2939,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Ikumi Mito dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_MITO_CHARACTER_MODEL.md) — **active provisional authority**
 
+### Inuyama Aoi
+
+- Entity ID: `yuru-camp:inuyama-aoi`
+- Entity aliases:
+  - 犬山あおい (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `yuru-camp:inuyama-aoi@manga`
+- Series: `yuru-camp`
+- Continuity: `yuru-camp-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `manga-v01-v19`: MANGA VOLUME 1–19 (inclusive); continuity `yuru-camp-manga`
+- Reviewed current evidence:
+  - [`reviewed-synthesis-document04-aoi` — Document04 shared character synthesis, §3 Inuyama Aoi (V01–V19)](series/yuru-camp/05%20Full-Series%20Synthesis/04_OGAKI_CHIAKI_INUYAMA_AOI_AND_SAITOU_ENA.md) — **active provisional authority**
+
 ### Iris
 
 - Entity ID: `konosuba:iris`
@@ -3184,6 +3204,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `juo-sena-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-12-juo-sena` — GKM CORE 12 JUO SENA](series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/12_JUO_SENA/GKM_CORE_12_JUO_SENA.md)
+
+### Kagamihara Nadeshiko
+
+- Entity ID: `yuru-camp:kagamihara-nadeshiko`
+- Entity aliases:
+  - 各務原なでしこ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `yuru-camp:kagamihara-nadeshiko@manga`
+- Series: `yuru-camp`
+- Continuity: `yuru-camp-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `manga-v01-v19`: MANGA VOLUME 1–19 (inclusive); continuity `yuru-camp-manga`
+- Reviewed current evidence:
+  - [`reviewed-synthesis-document03` — Document03 provisional character synthesis (V01–V19)](series/yuru-camp/05%20Full-Series%20Synthesis/03_KAGAMIHARA_NADESHIKO_CHARACTER_VOICE_CURIOSITY_AND_HOSPITALITY.md) — **active provisional authority**
 
 ### Kaiser director
 
@@ -6049,6 +6089,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`opm-relationship-state-ledger` — OPM RELATIONSHIP STATE LEDGER](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md)
   - [`opm-saitama-character-state-ledger` — OPM SAITAMA CHARACTER STATE LEDGER](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_SAITAMA_CHARACTER_STATE_LEDGER.md)
 
+### Saitō Ena
+
+- Entity ID: `yuru-camp:saito-ena`
+- Entity aliases:
+  - 斉藤恵那 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `yuru-camp:saito-ena@manga`
+- Series: `yuru-camp`
+- Continuity: `yuru-camp-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `manga-v01-v19`: MANGA VOLUME 1–19 (inclusive); continuity `yuru-camp-manga`
+- Reviewed current evidence:
+  - [`reviewed-synthesis-document04-ena` — Document04 shared character synthesis, §4 Saitō Ena (V01–V19)](series/yuru-camp/05%20Full-Series%20Synthesis/04_OGAKI_CHIAKI_INUYAMA_AOI_AND_SAITOU_ENA.md) — **active provisional authority**
+
 ### Sakayanagi Arisu
 
 - Entity ID: `classroom-of-the-elite:sakayanagi-arisu`
@@ -6466,6 +6526,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Leo/need original-Japanese human-unit main-story foundation, leo_01_00–leo_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
   - [`reviewed-shared-synthesis` — Shiho analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
+
+### Shima Rin
+
+- Entity ID: `yuru-camp:shima-rin`
+- Entity aliases:
+  - 志摩リン (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `yuru-camp:shima-rin@manga`
+- Series: `yuru-camp`
+- Continuity: `yuru-camp-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `manga-v01-v19`: MANGA VOLUME 1–19 (inclusive); continuity `yuru-camp-manga`
+- Reviewed current evidence:
+  - [`reviewed-synthesis-document02` — Document02 provisional character synthesis (V01–V19)](series/yuru-camp/05%20Full-Series%20Synthesis/02_SHIMA_RIN_CHARACTER_VOICE_SOLITUDE_AND_RELATIONSHIPS.md) — **active provisional authority**
 
 ### Shinei Nouzen
 
@@ -8103,6 +8183,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-scope`: LIGHT_NOVEL VOLUME: Japanese light-novel V06 and V08–V11 craft, instruction, disclosure, violence and care; V13–V15 collaboration, research, rescue and armor work.; continuity `light-novel`
 - Reviewed current evidence:
   - [`character-model` — Bounded character analysis through V15](series/mushoku-tensei/04%20Character%20Analysis/zanoba/RECONSTRUCTION_MODEL.md)
+
+### Ōgaki Chiaki
+
+- Entity ID: `yuru-camp:ogaki-chiaki`
+- Entity aliases:
+  - 大垣千明 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `yuru-camp:ogaki-chiaki@manga`
+- Series: `yuru-camp`
+- Continuity: `yuru-camp-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `manga-v01-v19`: MANGA VOLUME 1–19 (inclusive); continuity `yuru-camp-manga`
+- Reviewed current evidence:
+  - [`reviewed-synthesis-document04-chiaki` — Document04 shared character synthesis, §2 Ōgaki Chiaki (V01–V19)](series/yuru-camp/05%20Full-Series%20Synthesis/04_OGAKI_CHIAKI_INUYAMA_AOI_AND_SAITOU_ENA.md) — **active provisional authority**
 
 ### ターシャ・ロマノフスキー
 
