@@ -1,0 +1,92 @@
+---
+title: "Cornered Mouse — Bootstrap Receipt"
+artifact_id: CORNERED_MOUSE_BOOTSTRAP_RECEIPT
+artifact_type: bootstrap_audit_receipt
+series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
+series_id: cornered-mouse
+generation: CORNERED_MOUSE_BOOTSTRAP_V1
+version: "0.1"
+status: active_provisional
+scope: "Historical reconnaissance, exact authored manifest and owner-review handoff"
+source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
+canonical_home: series/cornered-mouse/07 Audits and Handoffs/CORNERED_MOUSE_BOOTSTRAP_RECEIPT.md
+created: "2026-10-24"
+review_status: OWNER_BOOTSTRAP_AUDIT_PENDING
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+do_not_use_as_literary_evidence: true
+---
+
+# Bootstrap provenance and audit receipt
+
+Receipt identity: `CORNERED_MOUSE_BOOTSTRAP_20261024`. Producer: owner-operated Codex, local Windows tool runtime; assignment is architecture/bootstrap only. Receiver: owner bootstrap reviewer, then a source-capable analyst only after authorization. Stage: READY_FOR_HANDOFF only when the validations below and exact-head publication verification have actually completed. No model label or reasoning-control setting is inferred from unexposed UI configuration.
+
+## Repository and authorization
+
+Repository: `deep-blue-zero/anime-manga-ln-games-analysis`. Initial fetched base and worktree branch point: `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd`. Execution branch: `series/cornered-mouse`; canonical root: `series/cornered-mouse/`; canonical entrypoint: `CURRENT_STATE_AND_CORPUS_MAP.md`.
+
+The owner's bootstrap brief authorizes reconnaissance, local architecture and evidence schemas, validation, commit/push and an owner-held PR against main. It excludes substantive narrative analysis and merge. Root/branch collision search covered complete corpus catalogs, series/study registry identities, existing paths, relevant aliases/Japanese titles, crosswalk references and local/remote branch names; no project identity or existing branch/PR was found. Generic uses of 窮鼠 in unrelated analysis were not project matches. The explicitly requested slug is preserved. A separate worktree preserves the unrelated existing checkout.
+
+Live governance was acquired from main, including AGENTS/routing/checklist, branch lifecycle, complete initiation policy and machine gate, change obligations, artifact eligibility/publication, housekeeping, execution reasoning/capability, handoff and continuation contracts, archive authority, reconstruction specification/schema and approved draft/hold procedure. The live operating card archives the old authority epoch files; stale local checkout instructions did not replace current main governance. Precedents were bounded inspection of Peach Girl's initialization/routing, Watayuri's prospective method and NTR's reconstruction contract; their larger layouts and findings were not copied.
+
+## Reconnaissance actually performed
+
+1. Read the canonical evidence-root README and live inventory, listed the exact series folder, and retrieved its three provenance records. It contains one Japanese All-in-One EPUB; no separate original-form Japanese, Reboot or English pair was located in that bounded listing.
+2. Consulted publisher and official author sources for edition/publication distinctions, Hummingbird's magazine publication and Black Cat's two-part placement/author-described chronology. The [source map](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SOURCE_AND_SCOPE_MAP.md) owns all detailed bibliographic claims and exact public references.
+3. Downloaded the complete EPUB and both JSON manifests into an external working cache, independently matching 109,599,529 bytes and SHA-256 `ce389cb785a37f6b271065c33a177bd8c9a62428e5c3c58c6bf2be756822b617` to their acquisition/propagation bindings. Manifests retain private provenance externally; the import's individual-purchase-receipt limitation remains explicit.
+4. Checked ZIP CRC, EPUB mimetype/container/OPF, all declared resources, 539 spine/image mappings, image decoding/dimensions and encryption-descriptor absence. Existing source-side read-only `open_book` also parsed 539 pages, rtl, with zero structure findings. This is not full EPUBCheck or a narrative completeness audit.
+5. Visually read **only** the contents (`sp0010`, i-0008) and colophon (`sp0537`, i-0535). These confirm component labels, printed starts, edition/ISBN and colophon issue date. No narrative pages, balloons, scenes or endings were inspected. A container-probe console print initially failed on Windows encoding after successfully saving its report; the saved UTF-8 report was read back and the independent existing inspector succeeded. No failed check is treated as a successful narrative inspection.
+
+Capability scope: Drive transport, hashing, ZIP/XML parsing, image decoding and non-narrative Japanese image viewing verified; narrative legibility, full component boundaries, translation comparison and OCR quality unverified. Primary/derived sources stay in Drive; local caches/scripts and images are not canonical evidence merely by existing and are not published.
+
+## Created artifact manifest
+
+All eleven author paths are beneath the project root:
+
+```text
+.repository/series-registry.json
+CURRENT_STATE_AND_CORPUS_MAP.md
+00 Frameworks and Methods/CORNERED_MOUSE_SOURCE_AND_SCOPE_MAP.md
+00 Frameworks and Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md
+00 Frameworks and Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md
+00 Frameworks and Methods/CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+03 Longitudinal Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md
+03 Longitudinal Ledgers/CORNERED_MOUSE_RELATIONSHIP_COMMITMENT_AND_BOUNDARY_LEDGER.md
+03 Longitudinal Ledgers/CORNERED_MOUSE_INFORMATION_LEVERAGE_AND_DECISION_LEDGER.md
+03 Longitudinal Ledgers/CORNERED_MOUSE_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
+07 Audits and Handoffs/CORNERED_MOUSE_BOOTSTRAP_RECEIPT.md
+```
+
+No global routing output, character discovery/capability file, repository control or raw source is authored. Housekeeping may append its separately owned five-output synchronization commit. Exact committed blobs and the source-to-final-child lineage are recoverable in Git history; the publication audit must use the latest remote branch tip, not only the initial author commit. This receipt cannot contain a self-referential final commit hash.
+
+## Architectural decisions and initial authority
+
+One root joins both works. A chapter/component transaction follows the actual contents structure; two nominal book transactions were rejected because an omnibus plus embedded/later material requires finer disclosure boundaries. Four ledgers each own a recurring independent duty; information mechanics link to relational consequences rather than duplicating them. Visual/language/chronology/ethics remain observations or claims unless recurrence warrants promotion. No empty specialists are created. A separate reconstruction protocol is justified by the intended unfamiliar-scenario use and its need to distinguish stable, temporal, relational and leverage-conditioned behavior.
+
+The available revised All-in-One is the practical candidate; choosing unavailable original-form 2009 books by assumption was rejected. The definitive witness choice is deferred. Later supplements remain manga candidates with explicit disclosure barriers, not automatically noncanon or silently part of the early reading. Character monographs, literary synthesis and operational models have separate readiness/validation gates.
+
+All ten Markdown artifacts use the current-eligible `active_provisional` authority quartet, pending owner review; no owner-approved canonical status is claimed. Architecture INITIAL; CLOSED admission lock; no run or narrative high-water mark; zero source-derived ledger records and no readiness grades. A draft PR is required as the approved hold, and only the owner releases it. This bootstrap author will not merge.
+
+## Validation and publication evidence
+
+Initial author preflight rejected direct Google Drive hyperlinks in the entrypoint and source map as publication hazards. The correction retains exact object IDs, hashes and retrieval instructions while removing those hyperlinks; no validator or control was changed. Project-local link/authority/infrastructure/CLOSED-state checks and staged whitespace checks passed. Corrected author preflight: PASS, exit 0, with `AWAITING_SYNCHRONIZATION` for the three projected routing outputs (corpus index, series README and series registry); authored content passed. This is author readiness, not exact-head integration certification. Commands against the exact staged candidate:
+
+```text
+python -X utf8 tools/validate_repository.py --phase current --snapshot index --routing-preflight series/cornered-mouse --repo .
+git diff --cached --check
+git diff --cached --name-only
+git diff --cached
+```
+
+Supplementary project review checks every project-relative artifact link, authority quartet, listed infrastructure, source IDs/hashes and component labels, zero sequential artifacts, zero ledger records and consistent CLOSED state. The CLOSED bootstrap validator path does not certify all OPEN-admission prerequisites; method/architecture substance and source admission require semantic review.
+
+Review result: all eleven complete staged files were checked against the declared manifest and full authored contents; staged/worktree bytes, UTF-8/LF, links, authority quartet, four infrastructure paths and CLOSED/no-admission state agreed. The complete staged diff was reviewed, including the targeted publication correction. The bounded name/reference review covered the method opening, analytical lenses and closeout; architecture scope, responsibility matrix and gates; and reconstruction target, rules and validation. Kyoichi/Imagase occur as bibliographic candidates only; generic party/actor labels serve explicit schema roles. No source-derived attribution or identity claim was created and no material reference defect was found. No test/control change or global curation write was made.
+
+Before every push, fetch current main and source heads, preserve intervening work, reconcile normally, repeat affected checks and push without force. After publication inspect actual changed files, draft status and latest tip, wait for housekeeping and require successful **Repository integration audit** on that exact tip. Commit/status/PR facts belong to immutable Git/GitHub records and the final owner handoff; no future success is predeclared here.
+
+## Owner review and next responsibility
+
+Decisions requiring the owner: accept/amend the provisional architecture; accept revised AIO2020 as the mainline basis or defer for original-form comparison; decide the required later-supplement boundary given the missing Reboot-only short; then authorize a specific source unit or bounded run after admission checks. Acquisition of optional comparison witnesses is not automatically required. Structural validation cannot substitute for those decisions.
+
+Next permitted operation: **OWNER_BOOTSTRAP_AUDIT**. Required source work before a first reading: verify exact component ranges/legibility, settle witness choice and quarantine, establish source/admission lock and an entering knowledge boundary, record owner authorization and consistent continuation fields. No sequential reading, psychological profile, behavioral rule, fabricated forecast or completed-series interpretation occurred during this bootstrap.
