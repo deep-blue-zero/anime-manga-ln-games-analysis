@@ -72,6 +72,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Chris / Eris: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+<a id="doreck"></a>
+
+### Doreck
+
+- Entity ID: `konosuba:doreck`
+- Entity aliases:
+  - ドレック (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:doreck@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-40`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete DUST-CONT U011–U016 paragraph projections, including the private ending, with bounded opening and earlier retinue contexts. Paragraph and ruby scope only, with no image or whole-edition credit. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Doreck: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DORECK_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="duke"></a>
 
 ### Duke
@@ -115,6 +137,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - `expanded-cohort-01`: LIGHT_NOVEL OTHER: Bounded synthesis of admitted DUST01–07 analytical reports and separately identified unnumbered DUST-CONT, with qualified main-series and expanded supplemental context. Shared-event retellings are not independent trials. This is monograph review, not new whole-book primary reading or a completed scene/identity census; game-novelization evidence does not automatically merge another continuity.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Dust: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DUST_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="gaibil"></a>
+
+### Gaibil
+
+- Entity ID: `konosuba:gaibil`
+- Entity aliases:
+  - ガイビル (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:gaibil@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-40`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete DUST-CONT U011–U016 paragraph projections: disclosure, captivity, the wedding, the battle and the private aftermath. Paragraph and ruby scope only, with no image or whole-edition credit. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Gaibil: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_GAIBIL_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="iris"></a>
 
