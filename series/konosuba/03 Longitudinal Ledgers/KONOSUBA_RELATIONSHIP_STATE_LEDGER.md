@@ -1547,3 +1547,10 @@ Brad actual retrieval/carrying and his gaze despite Rosary explicit boundary coe
 Karen selectively solicits Kazuma, competes with Darkness and apologizes to Aqua on an employee's behalf. Darkness's reciprocal insult and threatened killing are not erased by Karen's misconduct. Karen's fear under humiliating theft remains real, while later bounty threat shows no permanent submission or demonstrated remorse. Chris stops the third attempt; Megumin's encouragement is her own action. Beat and Clarice each initiate welcoming speech, and their retreat after disclosure does not make the earlier invitation insincere. MASK Karen remains unjoined with Donnelly.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Lucy accepts Megumin’s relevant claim, thanks a helper whose name she does not yet know, and retorts against Aqua while leaving. Regina’s own mind is not supplied by either Lucy or Serena. The Princess’s reported visitors/helpers have unresolved memberships and access layers. Threat-induced bodily offers do not provide general permission. Biflantz’s engagement question and Darkness’s courteous assertion of family refusal establish a boundary, without proving his receipt of earlier notice or romantic acceptance. Reported unwanted-gift senders remain unjoined.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

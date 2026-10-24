@@ -547,12 +547,12 @@
     {
       "character": "クレイン (Crane retrieval only)",
       "identity": "Native name signed in the note at CONTEXP02U018P64; English retrieval spelling and identity beyond this scene unresolved.",
-      "likely_tier": "1 scoped; compact written/report-bound profile; exact publication pending",
-      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact written/report-bound profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 33 bounded author publication complete; continuing full program.",
       "evidence_distribution": "CONTEXP02 U018P47–82 within complete current P1–100 base/ruby context. Embedded note read by Cecily, later return and contested motive reports have different access.",
       "substantive_responsibility": "Signed claim reframes taking as payment with possible extra money; later return is reported by Megumin. This supports a narrow transactional choice account without certifying permission or his private motive.",
       "gaps": "No prior consent, accepted sale/payment, directly heard own spoken voice, proved repentance, verified identity elsewhere or stable generative mechanism. Cecily all-Axis hyperbole is not an individual fact.",
-      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT33_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_cohort33_current_fields": {
         "character": "クレイン (Crane retrieval only)",
@@ -580,7 +580,25 @@
         ],
         "reason": "A signed written payment justification and reported return support a narrow transaction/permission account and one actual written formulation. Return motive is contested and no direct spoken persona, consent receipt or stable generic Axis model is supplied."
       },
-      "cohort33_current_qualifications": "Source-known scoped reconstruction. Current C33 artifacts govern; prior fields retain dated history. Source roles/groups are not disjoint people; no independent grade, accuracy, confidence gain, final model maturity or global census closure."
+      "cohort33_current_qualifications": "Source-known scoped reconstruction. Current C33 artifacts govern; prior fields retain dated history. Source roles/groups are not disjoint people; no independent grade, accuracy, confidence gain, final model maturity or global census closure.",
+      "prior_cohort33_publication_fields": {
+        "likely_tier": "1 scoped; compact written/report-bound profile; exact publication pending",
+        "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort33_publication_resolution": {
+        "source": "48d5b27916773293b054a0bbd04b8a65d347b458",
+        "tree": "4bf5dbf620c49b9c136a28595f46ed5d36af94bf",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "9143f776478157531ec95b82457fff00302ac7bd6e2bc04964ab4ef98483428f",
+        "source_run": 40087962089,
+        "full_discovered_tests": 459,
+        "current_models": 53,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed returning Axis church guide (MAIN16)",
@@ -757,12 +775,12 @@
     {
       "character": "Unnamed inn woman reporting stolen snack (CONTEXP02)",
       "identity": "Source-required unnamed woman; Megumin initially guesses employee status. Her inheritance/scout story is own assertion, not independent ownership or career proof.",
-      "likely_tier": "1 scoped; compact ordinary-interest profile; exact publication pending",
-      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact ordinary-interest profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 33 bounded author publication complete; continuing full program.",
       "evidence_distribution": "CONTEXP02 U018P19–40 within complete current P1–100 base/ruby context; no new image, audio or independent observer.",
       "substantive_responsibility": "Own saved-snack loss report, feared reputational/customer loss, possible-allergy argument, response-seeking gaze and attempted occasional work solicitation form a bounded individual account. Megumin leaves without accepting.",
       "gaps": "No confirmed allergy injury, inn closure, actual guest loss, accepted job, verified scout offer or universal manipulation trait. No join to other innkeepers or complete invented ordinary life.",
-      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT33_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_cohort33_current_fields": {
         "character": "Unnamed inn woman reporting stolen snack (CONTEXP02)",
@@ -790,7 +808,25 @@
         ],
         "reason": "Own loss report, fear of business reputation, escalating work solicitation and rejected request give meaningful choices and a local ordinary interest. Narrator employment guess and her inheritance/scout story retain their source layers."
       },
-      "cohort33_current_qualifications": "Source-known scoped reconstruction. Current C33 artifacts govern; prior fields retain dated history. Source roles/groups are not disjoint people; no independent grade, accuracy, confidence gain, final model maturity or global census closure."
+      "cohort33_current_qualifications": "Source-known scoped reconstruction. Current C33 artifacts govern; prior fields retain dated history. Source roles/groups are not disjoint people; no independent grade, accuracy, confidence gain, final model maturity or global census closure.",
+      "prior_cohort33_publication_fields": {
+        "likely_tier": "1 scoped; compact ordinary-interest profile; exact publication pending",
+        "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort33_publication_resolution": {
+        "source": "48d5b27916773293b054a0bbd04b8a65d347b458",
+        "tree": "4bf5dbf620c49b9c136a28595f46ed5d36af94bf",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "9143f776478157531ec95b82457fff00302ac7bd6e2bc04964ab4ef98483428f",
+        "source_run": 40087962089,
+        "full_discovered_tests": 459,
+        "current_models": 53,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed butcher confronted by Cecily (CONTEXP01)",

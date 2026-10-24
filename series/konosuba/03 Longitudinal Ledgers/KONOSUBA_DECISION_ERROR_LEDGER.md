@@ -2010,3 +2010,10 @@ Brad dismisses rank through a prank-based inference and continues to gaze despit
 Karen's explanation of Darkness's repeated dress is corrected by the maternal attachment account. Her confidence in guards has a concrete barrier failure; Megumin's dropped-stone explanation remains conjecture. Darkness is cut off at U021P213, so Karen's knowledge of Kazuma's death before mockery is not established. Six original firsts retain an unprovided exhibition-ownership implication, an unprovided speaker for profitability information and an ambiguous fee-collector role. Those actual defects remain without body repair or a clean success claim.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Kazuma’s inference that device silence proves the Princess harmless exceeds a false-utterance detector’s scope. His narrow not-cutting promise differs from her inferred safety. Audience departure and hostile confrontation covary, so no isolated audience cause is identified. Lucy’s historical gift/rejection account does not establish a former marriage or desire for renewed romance. Original diagnostics retain archive-role ambiguity, added registration imagery, sorrow-mask and map-position assumptions, a finitude implication, unprovided past speech and afternoon.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

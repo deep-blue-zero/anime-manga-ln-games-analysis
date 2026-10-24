@@ -1,11 +1,11 @@
 {
   "schema": "konosuba.secondary_character.partitioned_census.v1",
   "status": "INCREMENTAL_219_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-24T10:43:54.974512+00:00",
-  "scope": "Cohort 32 exact-source author gate remains closed at a36777f6 / full audit 40082421051. Cohort 33 bounded semantic receiving is complete; exact publication pending. Candidate totals: 53 models, 47 scoped secondary model subjects, 78 profiles, 27 monograph-only subjects and 320 nonfinal records. Full census, program and protected-main integration remain open.",
+  "updated_utc": "2026-10-24T12:23:53.695527+00:00",
+  "scope": "Cohort33 exact-source author gate remains closed at48d5b279/full459 audit40087962089. Cohort34 bounded semantic receiving complete; exact publication pending. Candidate totals:55 models,49 scoped secondary model subjects,80 profiles,27 monograph-only subjects and329 nonfinal records. Full census, program and protected-main integration remain open.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
-  "working_row_count_not_population_denominator": 320,
+  "working_row_count_not_population_denominator": 329,
   "global_census_closed": false,
   "final_tiers_assigned": false,
   "global_completion_percentage": null,
@@ -37,7 +37,7 @@
     "Cohort23 Yuiyui/Pucchin conditional Tier3 candidates and Hyoizaburoo Tier2 monograph-only; fourteen bounded new discovery records retain source-plane/identity gaps and candidate profile review where due. Semantic receiving complete, exact publication pending.",
     "Cohort24 Chekera Tier2 monograph-only and six compact Tier1 profiles in existing coverage audit; ten new indexed incidental dispositions and one deferred Arcanretia manager review remain source-bound/nonfinal. No model or matched synthetic quota; semantic receiving complete, exact publication pending."
   ],
-  "current_actual_individual_audit_scope": "Cohort33: 1151 unique contextual native P/base/ruby slots plus3 complete MASK paragraph rechecks, 1154 current slots total. Two current context objects and three with any P; prior C32 complete MASK context reused exact. All41 byte/name retrieval is technical, not reading or alias absence proof. No new whole-source, residual, image-set, OCR, audio, human or independent admission. Six entering rows change,309 others remain exact per plane; five new records are not five certified disjoint people. Six original firsts/three dependent pairs retain ownership, assurance-speaker and fee-role defects, explicit cues and procedural voice without repairs or independent validity.",
+  "current_actual_individual_audit_scope": "1538 unique current contextual P with1396 inline ruby occurrences/13 members/6 known P objects/34 complete displays; one known EXP01 coda image makes7 objects with any actual native content. Complete MAIN11 principal/excluded derivative reports and MAIN15 erratum, bounded MAIN15 principal sections only:207952 characters/26pages. All41 technical byte/name retrieval is not reading or alias absence proof; no new whole-source/globally-unique/OCR/audio/human/independent credit. Ten original firsts/five dependent pairs retain input underbinding and all unprovided-detail defects; source/generic/cueing rivals unresolved, no independent validity. Seven entering rows change,313 others exact per plane; nine new records are not disjoint people.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -1913,7 +1913,7 @@
     "updated_utc": "2026-10-20T17:44:03.663249+00:00",
     "scope": "Cohorts01-18 have closed exact-source gates at declared scopes: twenty-one scoped secondary conditional-model subjects/27model bodies,fifteen bounded profiles and four Tier2monograph-only Nos,Rionor,Feit,Chomusuke.187qualifiedrecords include groups,aliases and occurrence slots,not final unique people. Reliability remains provisional; full census/final tiers/program open."
   },
-  "canonical_status": "Karen Donnelly has a twelve-dimension monograph and asymmetric provisional three-rule model. Beat, Clarice, クレイン and the unnamed inn woman have four separate compact profiles; five sparse new name/role/group records remain Tier0. Reported MASK Karen62 receives only a route with C32 tier/support unchanged. All52 entering models remain exact; exact publication pending.",
+  "canonical_status": "Lucy and the individual forest Princess have separate twelve-dimension monographs and provisional two-rule models; Biflantz and reported Regina have two compact profiles. Nine sparse report/role/group records remain Tier0. Aggregate54/55 active fields synchronize to six already published exact EXP03 child profiles; garden76 route only with core support unchanged. All53 entering model bodies remain exact; publication pending.",
   "cohort19_current_receiving": {
     "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT_19_RECEIVING_AND_PROVENANCE.json",
@@ -2757,9 +2757,9 @@
   "prior_single_file_schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
   "row_storage": {
     "kind": "AUTHORITATIVE_ORDERED_ROW_PARTS",
-    "logical_nonfinal_record_count": 320,
-    "part_count": 4,
-    "row_array_sha256": "c15ac8bdec4d735c929f9944345519d02f697dcb90bcbc0bbd216b8c3518c8a7",
+    "logical_nonfinal_record_count": 329,
+    "part_count": 5,
+    "row_array_sha256": "79b7d2b398ae0dfbe60eec9c64c21109209eed072670da2233b1c956299c2144",
     "read_instruction": "Read the listed parts in order,verify their hashes,bounds and counts,and concatenate rows. Each row occurs once; the existing census path remains the single authority. Physical part boundaries assign no analytical tiers or person denominator.",
     "source_identity_or_report_not_population_proof": true
   },
@@ -2770,8 +2770,8 @@
       "first_row_index": 0,
       "last_row_index": 79,
       "row_count": 80,
-      "bytes": 560408,
-      "sha256": "fe5cd3c0ea1751ec2f4d7b599b95a8d1b13121034b32b3dbb618b2a059efb97a"
+      "bytes": 590318,
+      "sha256": "cfea60f25b0dae757f44065d02297e7a886d5bbd191d4a87ca3b407ec531f706"
     },
     {
       "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_002.json",
@@ -2788,8 +2788,8 @@
       "first_row_index": 160,
       "last_row_index": 239,
       "row_count": 80,
-      "bytes": 289463,
-      "sha256": "5ef1ff69cf26910da947d96449d0e5223e08474accf7b28315c1629255e61965"
+      "bytes": 291592,
+      "sha256": "4ce3beb6aed9b97afe6480f4593473efdce84ad014123ead2125d8ad65ac8e3d"
     },
     {
       "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_004.json",
@@ -2797,8 +2797,17 @@
       "first_row_index": 240,
       "last_row_index": 319,
       "row_count": 80,
-      "bytes": 195359,
-      "sha256": "5ced5429be3bd19070d4c717162960e4e2fde8d3680340cdafb1bccef11ccd29"
+      "bytes": 200684,
+      "sha256": "91922fce5fd87855d01ae234cb35b10580548d3fb93aa2c8a1d22f148d1ae673"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_005.json",
+      "part_ordinal": 5,
+      "first_row_index": 320,
+      "last_row_index": 328,
+      "row_count": 9,
+      "bytes": 13929,
+      "sha256": "21ca137fb22ce7fd1ffbbb03fbbd6bcae4343f64e9925a63066fddb7fb570c71"
     }
   ],
   "storage_transition": {
@@ -3174,7 +3183,7 @@
       "separate_housekeeping_run": null
     }
   },
-  "current_scope_precedence": "Latest cohort33_current_receiving and root current fields govern totals/scope. Earlier pending-at-authorship lists and gate statements remain dated history. Source roles/groups are not disjoint people; no final maturity, census closure or protected integration follows.",
+  "current_scope_precedence": "Latest cohort34_current_receiving and root current fields govern scope/totals; earlier pending-at-authorship fields and gate statements remain dated history. No final model maturity, global census closure or protected integration follows.",
   "prior_current_metadata_before_cohort28_gate_close": {
     "scope": "Cohort 27 retains its closed exact-source author gate at b7a698ec/audit 40048307237. Cohort 28 source-bound semantic receiving is complete; exact containing publication pending. Candidate 41 models/35 scoped secondary model subjects, 46 profiles, 19 monograph-only subjects and 264 nonfinal records. Final census, tiers, model maturity, protected-main integration and full program remain open.",
     "canonical_status": "Alderp, Maxwell, Ragcraft, Ignis scoped Tier 3 monographs and separate provisional three-rule generators; Aulip, Balter, Hagen, wedding guard, Elroad prosecutor and casino manager Tier 2 monographs; ten Tier 1 profiles and fifteen Tier 0 indexes. Exact publication pending; 37 entering model bodies exact.",
@@ -3632,7 +3641,7 @@
     "current_scope_precedence": "Latest `cohort32_current_receiving` and root current fields govern current totals/scope. Earlier pending-at-authorship statements, lists and gate resolutions retain dated history. Source roles/groups are not disjoint people; no final model maturity, census closure or protected integration follows."
   },
   "cohort33_current_receiving": {
-    "status": "SEMANTIC_RECEIVING_COMPLETE_EXACT_PUBLICATION_PENDING",
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_RECEIVING_AND_PROVENANCE.json",
     "semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d",
     "candidate_models": 53,
@@ -3693,6 +3702,116 @@
     "rule_counts": {
       "Karen Donnelly": 3
     },
-    "MASK_Karen62_route_only_C32_support_unchanged": true
+    "MASK_Karen62_route_only_C32_support_unchanged": true,
+    "publication_resolution": {
+      "source": "48d5b27916773293b054a0bbd04b8a65d347b458",
+      "tree": "4bf5dbf620c49b9c136a28595f46ed5d36af94bf",
+      "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_PUBLICATION_GATE_CLOSE.json",
+      "gate_sha256": "9143f776478157531ec95b82457fff00302ac7bd6e2bc04964ab4ef98483428f",
+      "source_run": 40087962089,
+      "full_discovered_tests": 459,
+      "current_models": 53,
+      "author_publication_tranche_complete": true,
+      "main_integration_not_certified_by_author_gate": true,
+      "no_independent_accuracy_grade_or_confidence_gain": true,
+      "separate_housekeeping_run": null
+    }
+  },
+  "prior_current_metadata_before_cohort33_gate_close": {
+    "scope": "Cohort 32 exact-source author gate remains closed at a36777f6 / full audit 40082421051. Cohort 33 bounded semantic receiving is complete; exact publication pending. Candidate totals: 53 models, 47 scoped secondary model subjects, 78 profiles, 27 monograph-only subjects and 320 nonfinal records. Full census, program and protected-main integration remain open.",
+    "canonical_status": "Karen Donnelly has a twelve-dimension monograph and asymmetric provisional three-rule model. Beat, Clarice, クレイン and the unnamed inn woman have four separate compact profiles; five sparse new name/role/group records remain Tier0. Reported MASK Karen62 receives only a route with C32 tier/support unchanged. All52 entering models remain exact; exact publication pending.",
+    "current_actual_individual_audit_scope": "Cohort33: 1151 unique contextual native P/base/ruby slots plus3 complete MASK paragraph rechecks, 1154 current slots total. Two current context objects and three with any P; prior C32 complete MASK context reused exact. All41 byte/name retrieval is technical, not reading or alias absence proof. No new whole-source, residual, image-set, OCR, audio, human or independent admission. Six entering rows change,309 others remain exact per plane; five new records are not five certified disjoint people. Six original firsts/three dependent pairs retain ownership, assurance-speaker and fee-role defects, explicit cues and procedural voice without repairs or independent validity.",
+    "updated_utc": "2026-10-24T10:43:54.974512+00:00"
+  },
+  "cohort33_publication_resolution": {
+    "source": "48d5b27916773293b054a0bbd04b8a65d347b458",
+    "tree": "4bf5dbf620c49b9c136a28595f46ed5d36af94bf",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "9143f776478157531ec95b82457fff00302ac7bd6e2bc04964ab4ef98483428f",
+    "source_run": 40087962089,
+    "full_discovered_tests": 459,
+    "current_models": 53,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "separate_housekeeping_run": null
+  },
+  "prior_current_metadata_before_cohort34": {
+    "scope": "Cohorts 01–33 retain their declared exact-source author publication gates. There are 53 models, 47 scoped secondary model subjects, 78 bounded profiles, 27 monograph-only subjects and 320 nonfinal records. Full census, final tiers, model maturity and full program remain open; protected-main integration is separately owned.",
+    "canonical_status": "Cohort 33 exact-source author gate and published-authority reload closed. Karen Donnelly retains a twelve-dimension monograph and asymmetric provisional three-rule model; Beat, Clarice, クレイン and the unnamed inn woman retain four individual compact profiles. Five new Tier 0 name/role/group records remain source-bound. Eleven scoped publication-status rows change, including route-only reported MASK Karen62; 309 other histories remain exact in each census plane. C32 MASK Karen core fields and frozen support stay exact; no surname/event join or certified disjoint-person split. No independent accuracy, grade or confidence gain.",
+    "current_actual_individual_audit_scope": "Cohort 33 retains 1154 unique current native P/base/ruby slots: 1151 contextual slots in CONTEXP01/02 plus three complete MASK name paragraphs against preserved C32 context. Two main context objects and three with any P remain distinct. All41 EPUB technical identity/retrieval checks are not reading/absence proof. The two complete CONTEXP derivative reports retain their own evidence status. Six source-informed firsts/three dependent pairs retain H01B ownership assumption, H02B assurance-speaker attribution, H03A fee-role ambiguity, source echo, strong cues and explanatory English without repair. No new whole-source, residual, image-set, OCR, audio, human, independent credit, final battery or protected integration.",
+    "updated_utc": "2026-10-24T11:13:58.948173+00:00",
+    "working_row_count_not_population_denominator": 320,
+    "current_scope_precedence": "Latest cohort33_current_receiving and root current fields govern totals/scope. Earlier pending-at-authorship lists and gate statements remain dated history. Source roles/groups are not disjoint people; no final maturity, census closure or protected integration follows."
+  },
+  "cohort34_current_receiving": {
+    "status": "SEMANTIC_RECEIVING_COMPLETE_EXACT_PUBLICATION_PENDING",
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT34_RECEIVING_AND_PROVENANCE.json",
+    "semantic_receiving_sha256": "07ffd9fe83c86b5c5bd7597bcc8f618a972ccc09564b93a93c0929fe4abd8423",
+    "candidate_models": 55,
+    "candidate_scoped_secondary_model_subjects": 49,
+    "bounded_profiles": 80,
+    "monograph_only_subjects": [
+      "Nos",
+      "Rionor",
+      "Feit",
+      "Chomusuke",
+      "Funifura",
+      "Dodonko",
+      "Arue",
+      "Hyoizaburoo",
+      "Chekera",
+      "Sylvia",
+      "Aloerina",
+      "Lolierina",
+      "Unnamed DUST07 Dullahan commander",
+      "Aulip",
+      "Balter",
+      "Hagen",
+      "Unnamed Dustiness wedding guard",
+      "Unnamed Elroad prosecutor",
+      "Unnamed Elroad state-casino manager",
+      "Sylphina",
+      "Charlie",
+      "Daniel",
+      "Froger",
+      "Goran",
+      "Brad",
+      "Rosary",
+      "Unnamed MASK succubus leader"
+    ],
+    "records_not_final_people": 329,
+    "changed_current_rows": [
+      54,
+      55,
+      66,
+      67,
+      68,
+      69,
+      76
+    ],
+    "untouched_entering_rows": 313,
+    "new_rows": [
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328
+    ],
+    "new_Tier0_records": 9,
+    "new_compact_profiles": 2,
+    "new_first_bodies": 10,
+    "new_dependent_pairs": 5,
+    "new_rules": 4,
+    "rule_counts": {
+      "Lucy": 2,
+      "forest Tranquility Princess": 2
+    },
+    "aggregate_parent_rows54_55_synchronized_without_child_credit": true,
+    "garden76_route_only_core_support_unchanged": true
   }
 }

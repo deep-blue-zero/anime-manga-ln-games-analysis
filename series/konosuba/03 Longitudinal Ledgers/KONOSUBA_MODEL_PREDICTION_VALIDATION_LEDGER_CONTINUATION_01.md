@@ -582,3 +582,10 @@ The separately frozen unnamed-worker reconstruction has three asymmetric hypothe
 Karen Donnelly has three unequal provisional rules and six unchanged original firsts in three dependent pairs after separate foundation/input/body freezes. H01B adds an exhibition-ownership presupposition; H02B assigns a profitability assurance to an unprovided speaker; H03A blurs the disputed-fee roles. H02 approval in both conditions was explicitly permitted before generation; its probe concerns cost representation rather than a manufactured required cancellation. H03 is a weaker nonsexual analogue with generic fear and explicit cueing. No body repair, independent accuracy, grade, confidence gain or completed final nine-category battery follows.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Lucy and the forest Princess each have two provisional rules, with ten unchanged original English firsts in five dependent pairs after separate foundation/input/body freezes. The same informed root knows all contrasts and assesses its responses. Lucy’s archive responsibility is underbound. Princess originals add an initial mask, finitude implication, past conversation not given in H02, afternoon and a map-position transition. Possible carryover is unproved. Overt cues, generic gratitude/dignity/bargaining, source echoes and explanatory English remain rivals; no full-constraint-clean pair, repair, independent accuracy, grade, confidence gain, Japanese voice or completed final battery is claimed.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

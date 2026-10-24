@@ -1,0 +1,172 @@
+{
+  "schema": "konosuba.secondary-census.row-part.v1",
+  "canonical_census_manifest": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
+  "part_ordinal": 5,
+  "first_row_index": 320,
+  "last_row_index": 328,
+  "row_count": 9,
+  "rows": [
+    {
+      "character": "Unnamed man in Lucy’s gift/rejection account",
+      "identity": "A man Lucy says accepted extensive gifts then harshly rejected her; no verified former-partner or marriage status.",
+      "likely_tier": "0 scoped; bounded occurrence/report/group index; exact publication pending",
+      "priority": "Cohort34 bounded sparse semantic receiving complete; exact publication pending.",
+      "evidence_distribution": "MAIN11 C3P542 within complete currentP404–579.",
+      "substantive_responsibility": "Reported relational injury is part of Lucy’s credited debt to Regina.",
+      "gaps": "No personal name, own speech, accepted relationship, exact sums, independent wrongdoing or verified later fate. No join to other rejected men.",
+      "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Lucy own testimony about another person; divine redress also testimony.",
+      "cohort34_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-34-main11-cast-reported-deity-and-qualified-identity-routes"
+      ],
+      "cohort34_semantic_receiving_sha256": "07ffd9fe83c86b5c5bd7597bcc8f618a972ccc09564b93a93c0929fe4abd8423"
+    },
+    {
+      "character": "Lucy’s reported younger brother",
+      "identity": "Lucy identifies a younger brother in her personal grievance account; distinct role from her helper goddess.",
+      "likely_tier": "0 scoped; bounded occurrence/report/group index; exact publication pending",
+      "priority": "Cohort34 bounded sparse semantic receiving complete; exact publication pending.",
+      "evidence_distribution": "MAIN11 C3P542.",
+      "substantive_responsibility": "Reported victim of alleged marriage fraud/all-property loss motivates her gratitude.",
+      "gaps": "No age, own decision/voice, adjudicated loss or separate divine encounter.",
+      "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Lucy testimony; no directly observed brother.",
+      "cohort34_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-34-main11-cast-reported-deity-and-qualified-identity-routes"
+      ],
+      "cohort34_semantic_receiving_sha256": "07ffd9fe83c86b5c5bd7597bcc8f618a972ccc09564b93a93c0929fe4abd8423"
+    },
+    {
+      "character": "Woman accused in Lucy’s brother’s marriage-fraud account",
+      "identity": "Source-required unnamed woman accused by Lucy; accusation is not a conviction.",
+      "likely_tier": "0 scoped; bounded occurrence/report/group index; exact publication pending",
+      "priority": "Cohort34 bounded sparse semantic receiving complete; exact publication pending.",
+      "evidence_distribution": "MAIN11 C3P542.",
+      "substantive_responsibility": "Lucy alleges marriage fraud and loss of the brother’s property, and credits Regina with reducing the woman to poverty.",
+      "gaps": "No own voice, name, exact legal/financial facts or independent proof of divine retaliation; no join to other women.",
+      "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Third-person accusation inside Lucy’s direct plea.",
+      "cohort34_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-34-main11-cast-reported-deity-and-qualified-identity-routes"
+      ],
+      "cohort34_semantic_receiving_sha256": "07ffd9fe83c86b5c5bd7597bcc8f618a972ccc09564b93a93c0929fe4abd8423"
+    },
+    {
+      "character": "Forest Princess’s reported former visitor/care group",
+      "identity": "Unresolved visitors/retired or suffering adventurer roles; no uniform consent, motive or distinct-person count.",
+      "likely_tier": "0 scoped; bounded occurrence/report/group index; exact publication pending",
+      "priority": "Cohort34 bounded sparse semantic receiving complete; exact publication pending.",
+      "evidence_distribution": "MAIN11 C4P178,221–225,231,315,363,401,407 in complete currentP1–530.",
+      "substantive_responsibility": "Reported seeking of company/care, alleged defense of the forest, death and nutrient use contextualize the Princess’s interests.",
+      "gaps": "Different speakers and allegations remain distinct. No complete membership, independently verified care/death history, universal voluntary arrival or deliberate-killing proof.",
+      "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Narrator/other-character reports and Princess interested testimony; actual past acts not newly watched.",
+      "cohort34_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-34-main11-cast-reported-deity-and-qualified-identity-routes"
+      ],
+      "cohort34_semantic_receiving_sha256": "07ffd9fe83c86b5c5bd7597bcc8f618a972ccc09564b93a93c0929fe4abd8423"
+    },
+    {
+      "character": "Forest Princess’s reported relocation helpers",
+      "identity": "Unnamed human-helper role in her division/relocation account; number and membership unknown.",
+      "likely_tier": "0 scoped; bounded occurrence/report/group index; exact publication pending",
+      "priority": "Cohort34 bounded sparse semantic receiving complete; exact publication pending.",
+      "evidence_distribution": "MAIN11 C4P354–356.",
+      "substantive_responsibility": "She says humans can be persuaded to carry divided plants and that she was moved to a safer region.",
+      "gaps": "No name, observed journey, exact date, shared membership with visitors or promise they will transplant the current entire forest.",
+      "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Princess own interested species/history account.",
+      "cohort34_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-34-main11-cast-reported-deity-and-qualified-identity-routes"
+      ],
+      "cohort34_semantic_receiving_sha256": "07ffd9fe83c86b5c5bd7597bcc8f618a972ccc09564b93a93c0929fe4abd8423"
+    },
+    {
+      "character": "Food-focused noble at MAIN11 banquet",
+      "identity": "First older noble targeted by Aqua/Kazuma lip-reading demonstration; distinct from Biflantz and the two political interlocutors.",
+      "likely_tier": "0 scoped; bounded occurrence/report/group index; exact publication pending",
+      "priority": "Cohort34 bounded sparse semantic receiving complete; exact publication pending.",
+      "evidence_distribution": "MAIN11U021 electronic bonusP3–11, complete currentP1–53.",
+      "substantive_responsibility": "Mediated wish for a favorite stuffed-lizard-dragon dish supplies a bounded ordinary preference.",
+      "gaps": "No personal name, broader appetite/routine, political deal or count identity.",
+      "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Kazuma represented lip-reading and voicing; not independently heard audio.",
+      "cohort34_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-34-main11-cast-reported-deity-and-qualified-identity-routes"
+      ],
+      "cohort34_semantic_receiving_sha256": "07ffd9fe83c86b5c5bd7597bcc8f618a972ccc09564b93a93c0929fe4abd8423"
+    },
+    {
+      "character": "Two covert banquet interlocutors discussing Elroad trade",
+      "identity": "Two separate unnamed noble roles in one decoded exchange; group occurrence retains unbound body-to-turn mapping.",
+      "likely_tier": "0 scoped; bounded occurrence/report/group index; exact publication pending",
+      "priority": "Cohort34 bounded sparse semantic receiving complete; exact publication pending.",
+      "evidence_distribution": "MAIN11U021P15–25, especiallyP20.",
+      "substantive_responsibility": "One asks whether a minister-army rumor is true; the reply admits secret dealings and proposes destroying evidence.",
+      "gaps": "No names, full crimes, performed evidence destruction, completed notification or join to Biflantz/food noble. Two voices are not one group persona.",
+      "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Current represented lip-reading through Kazuma; Aqua proposed underwear theft is her wrong guess.",
+      "cohort34_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-34-main11-cast-reported-deity-and-qualified-identity-routes"
+      ],
+      "cohort34_semantic_receiving_sha256": "07ffd9fe83c86b5c5bd7597bcc8f618a972ccc09564b93a93c0929fe4abd8423"
+    },
+    {
+      "character": "Women in Kazuma’s reported earlier lip-reading encounter",
+      "identity": "Unresolved plural female-adventurer roles; not the current Darkness/count pair.",
+      "likely_tier": "0 scoped; bounded occurrence/report/group index; exact publication pending",
+      "priority": "Cohort34 bounded sparse semantic receiving complete; exact publication pending.",
+      "evidence_distribution": "MAIN11U021P13–15.",
+      "substantive_responsibility": "Kazuma says their laughter concealed criticism, then reports pressuring them for a drink and roughly ten compliments.",
+      "gaps": "Exact speakers, encounter, consent, internal beliefs, complete interaction and number remain unverified; no claim all women dislike him.",
+      "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Kazuma retrospective self-account, including his initial mistaken attraction inference.",
+      "cohort34_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-34-main11-cast-reported-deity-and-qualified-identity-routes"
+      ],
+      "cohort34_semantic_receiving_sha256": "07ffd9fe83c86b5c5bd7597bcc8f618a972ccc09564b93a93c0929fe4abd8423"
+    },
+    {
+      "character": "Reported unwanted-gift senders to Dustiness household",
+      "identity": "Unresolved later sender group; identities unjoined to Biflantz, political nobles or every spectator.",
+      "likely_tier": "0 scoped; bounded occurrence/report/group index; exact publication pending",
+      "priority": "Cohort34 bounded sparse semantic receiving complete; exact publication pending.",
+      "evidence_distribution": "MAIN11U021P53 after Aqua’s public misreadingP45–51.",
+      "substantive_responsibility": "Darkness reportedly asks advice about strange gifts/harassment after the false public interpretation.",
+      "gaps": "No sender names, exact gifts/count, proven individual belief, consent or completed remedy.",
+      "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Kazuma later report of Darkness’s complaint; deliveries/senders not directly depicted.",
+      "cohort34_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-34-main11-cast-reported-deity-and-qualified-identity-routes"
+      ],
+      "cohort34_semantic_receiving_sha256": "07ffd9fe83c86b5c5bd7597bcc8f618a972ccc09564b93a93c0929fe4abd8423"
+    }
+  ]
+}

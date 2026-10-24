@@ -1350,3 +1350,10 @@ Possession, imposed exposure, threatened erasure, intimidation and costly depend
 Actual fear, coercion, property loss, unwanted labor appeals and interrupted companionship remain inside the comedy. Two clothing thefts complete and a third is stopped; no full exposure or justified punishment is inferred. Karen's profit rationale does not authorize violating her agency, and her fear does not acquit the business. The evidence handoff is not a legal verdict. The new threat probes use weaker nonsexual property/face stakes, which cannot be treated as equivalent validation of severe source danger.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Aqua actually punches a fading Lucy; the ghost’s sharp reply does not erase that harm or make it the sole release cause. The Princess experiences threat and actual poisoning; deception does not establish harmlessness, justify every act against her or prove every visitor was killed. Distress and post-poisoning spite constrain a stable-policy account. Zesta’s later sexual-crime proposal remains an unperformed threat with no divine permission inferred. Diagnostic trimming uses milder nonsexual stakes and supplies correspondingly weaker transfer evidence.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

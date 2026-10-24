@@ -1473,3 +1473,10 @@ MAIN02 Kazuma mistaken dream appraisal and the party manipulation theory do not 
 The CONTEXP01 final episode uses Kazuma's narration after an explicit post-Elroad interval. His business assembly at U021P478–479 differs from Karen's own profit speech and Megumin's technical identification. Earlier artifact suspicion and portable-house explanation are hypotheses. Megumin's rescue report and no-damage denial, Karen's representative apology and actual one-kill payment retain their owners. No private afterlife, fatality or plan knowledge is automatically assigned to Karen. Shelf accident and court outcome remain unperformed or conjectured at their own scopes.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Lucy’s personal-history/divine-redress testimony, Megumin’s release claim, her new-believer conjecture and Kazuma’s sincerity inference remain separate. The forest narrator’s device-based inference and later account of destroyed upper body do not establish every past visitor’s consent or completed root disposal. Kazuma represents the bonus lip-reading; no independent audio follows. His MAIN15C4P325–328 recall joins the named deity reference, while later power explanations and recaps do not retroactively establish Lucy’s knowledge or an audited follower chronology.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

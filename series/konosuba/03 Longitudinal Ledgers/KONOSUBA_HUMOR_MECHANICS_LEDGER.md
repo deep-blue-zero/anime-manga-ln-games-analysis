@@ -2036,3 +2036,10 @@ The treasure competition, kicked-away catalyst and bilateral barrier expose mism
 Useful flattery changes into a class/wealth comparison; authority is invoked before its local means work; a spoken threat reverses at a hand gesture. These are actual fictional choices, not automatic nonliteral exemptions. The inn woman's actual snack loss coexists with response-seeking labor solicitation. Crane's written payment framing does not establish consent. Beat and Clarice's welcome is real, as is Yunyun's wanted opportunity and Megumin's role in its loss. Comic timing does not erase ownership, fear or consequence.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Lucy’s sharp farewell after being punched preserves dignity while the actual departure continues. It does not turn retaliatory faith into uniform pacifism or grant a new curse. The forest chapter’s detector loopholes, failed offers and returning-witness accusations are actual acts with stakes, while poisoned insults constrain purely optimal bargaining. In the bonus, Kazuma’s embarrassed voicing and Aqua’s comic misreadings belong to their performances, rather than proving Darkness’s preferences or Biflantz’s intentions.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

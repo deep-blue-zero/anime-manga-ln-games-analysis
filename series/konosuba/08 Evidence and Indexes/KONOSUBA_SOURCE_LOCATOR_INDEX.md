@@ -1999,3 +1999,10 @@ Cohort 32 provenance binds 2360 unique current Japanese native P/base/ruby slots
 Cohort 33 native provenance binds 1,151 actual contextual P/base/ruby slots plus three complete MASK paragraph rechecks, 1,154 unique current slots in all. CONTEXP01 U021P1–518 and U023P1–45 are complete paragraph scopes, U019P283–540 bounded; CONTEXP02 U020P1–145, U013P1–85, U018P1–100 are bounded. Prior C32 complete MASK context is reused exact. All 41 EPUB byte/name retrieval is technical and not alias absence proof. The two complete derivative reports total 149,462 characters; no new image, residual, whole-source, audio, human or independent admission.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Cohort 34 provenance binds 1,538 complete current contextual P slots with 1,396 inline ruby occurrences across thirteen members of six known EPUBs and 34 actual displays, plus one fully viewed known EXP01 coda image. Complete MAIN11 principal/excluded reports and MAIN15 erratum, alongside bounded MAIN15 principal sections, total 207,952 derivative characters in 26 displays. All 41 byte/name retrieval is technical, not alias absence or new complete-corpus reading. No new whole-source, globally unique paragraph, OCR, audio, human or independent credit follows.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

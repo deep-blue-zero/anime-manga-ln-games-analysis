@@ -2003,3 +2003,10 @@ Native スズキ・チホ/チホ governs both books; older Chio is derivative er
 Karen's カレンと申します at U021P28, 従業員に代わり at P54 and お金を生み出す at P476 have distinct self-presentation, representative-apology and commercial-redefinition functions. Beat's self-name and level-four reassurance differ from Clarice's level-two/equipment/name compliment, explicitly attached at CONTEXP02U020P104. P112–113 exclamations stay unassigned. The payment sentence attributed to クレイン is a note read by Cecily, not a heard personal voice. アーシェア is the complete native name; アーシェ was a prefix lead. Six polished English probes do not validate Japanese or audio.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Lucy names Regina and states a retaliation doctrine at MAIN11C3P525/533; the interested debt account at542, thanks at553 and angry departure at567–579 have different functions. The Princess’s accepted human label 安楽王女 and later selective accusations are written witnesses, not an audio persona. ビフランツ伯 remains the native count name, with English retrieval spelling qualified. The EXP01 coda’s 先日、逃げたそうですよ？ is explicitly hearsay under the existing Arue attribution. Ten English exercises do not certify Japanese or acoustic voice.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

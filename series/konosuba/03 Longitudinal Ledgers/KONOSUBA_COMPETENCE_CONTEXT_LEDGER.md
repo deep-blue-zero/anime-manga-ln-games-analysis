@@ -1557,3 +1557,10 @@ Brad coordinates complementary spells and actual recovery but misdescribes an in
 Karen arranges work and pays for one kill, but two item uses are prevented and guards arrive behind bars. Her claimed high level does not demonstrate a spell or successful delay. Megumin identifies the manufactured random-summon item; Kazuma supplies the broader business inference. Beat's village experience and Clarice's claimed equipment safety are self-reports, not witnessed combat successes. Guard warnings, duty, capture and later response retain their own role scope and unresolved memberships.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Lucy’s persistence and resistance are locally represented; follower counts and Regina’s interventions remain attributed. The Princess’s selective detector-compatible speech is not proof of total innocence or unlimited competence. Money, praise and intimate offers fail; rooted dependence limits relocation. Upper-body destruction leaves roots requiring disposal. Biflantz’s recent battle is a report, not a measured feat. Serena’s divine-mechanics explanation, Kazuma’s conjecture and Aqua’s theory remain distinct from an observed Regina decision.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

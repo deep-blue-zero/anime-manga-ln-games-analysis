@@ -2702,87 +2702,177 @@
     {
       "character": "アーシェア (Arshea retrieval only)",
       "identity": "Exact native アーシェア at CONTEXP02U013P20; earlier アーシェ string was a prefix, not a complete recovered name. English spelling unresolved.",
-      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
-      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 33 bounded author publication complete; continuing full program.",
       "evidence_distribution": "CONTEXP02 U013P16–24 within current complete P1–85 context.",
       "substantive_responsibility": "Receptionist names this adventurer and attributes an abrupt turned face after Megumin asks for recommendations. Preserve reported observable avoidance without inventing inner reasons.",
       "gaps": "No own speech, class, detailed history, completed recruitment or connection to another inn/worker. Not the other separately named Andy.",
-      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT33_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort33_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
       ],
-      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d"
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d",
+      "prior_cohort33_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
+        "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort33_publication_resolution": {
+        "source": "48d5b27916773293b054a0bbd04b8a65d347b458",
+        "tree": "4bf5dbf620c49b9c136a28595f46ed5d36af94bf",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "9143f776478157531ec95b82457fff00302ac7bd6e2bc04964ab4ef98483428f",
+        "source_run": 40087962089,
+        "full_discovered_tests": 459,
+        "current_models": 53,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "アンディ (Andy retrieval only)",
       "identity": "Separately named native アンディ at CONTEXP02U013P20; English retrieval form not externally certified.",
-      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
-      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 33 bounded author publication complete; continuing full program.",
       "evidence_distribution": "CONTEXP02 U013P16–24 within current complete P1–85 context.",
       "substantive_responsibility": "Receptionist points to a praying gesture directed toward her during Megumin recommendations. This is a reported action, not a full known motive.",
       "gaps": "No own speech, class, religion, accepted invitation or uniquely explained emotion. Do not infer cleric profession from the gesture.",
-      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT33_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort33_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
       ],
-      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d"
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d",
+      "prior_cohort33_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
+        "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort33_publication_resolution": {
+        "source": "48d5b27916773293b054a0bbd04b8a65d347b458",
+        "tree": "4bf5dbf620c49b9c136a28595f46ed5d36af94bf",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "9143f776478157531ec95b82457fff00302ac7bd6e2bc04964ab4ef98483428f",
+        "source_run": 40087962089,
+        "full_discovered_tests": 459,
+        "current_models": 53,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed young wife reporting clothing theft (CONTEXP02)",
       "identity": "Source-required unnamed individual occurrence at CONTEXP02U018P47–64; separate from the inn woman.",
-      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
-      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 33 bounded author publication complete; continuing full program.",
       "evidence_distribution": "CONTEXP02 U018P47–66, with later return/motive reports P80–82.",
       "substantive_responsibility": "Reports the missing preferred clothing. The note and money found nearby do not establish her permission or acceptance; Zesta intrusive questions remain his acts.",
       "gaps": "No name, exact age, known link to another shop/wife, consent to a purchase or proven emotional response to the return. Keep the description non-graphic.",
-      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT33_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort33_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
       ],
-      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d"
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d",
+      "prior_cohort33_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
+        "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort33_publication_resolution": {
+        "source": "48d5b27916773293b054a0bbd04b8a65d347b458",
+        "tree": "4bf5dbf620c49b9c136a28595f46ed5d36af94bf",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "9143f776478157531ec95b82457fff00302ac7bd6e2bc04964ab4ef98483428f",
+        "source_run": 40087962089,
+        "full_discovered_tests": 459,
+        "current_models": 53,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Donnelly household guard roles (unresolved group occurrence)",
       "identity": "Source-required unnamed guard roles; first rescue defenders, nighttime sentry pair and later responding guards are not individually joined.",
-      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
-      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 33 bounded author publication complete; continuing full program.",
       "evidence_distribution": "CONTEXP01 U019P427–458; U021P421–429,472,495–505.",
       "substantive_responsibility": "Defenders report warnings and inability to leave without the mistress; the night sentry pair are drained; later guards arrive behind bars. Own task constraints differ from Karen confidence.",
       "gaps": "Unknown membership overlaps and individual line ownership. Group is not a single personality or a count of disjoint people; no completed later route/capture or direct responsibility for summoning established.",
-      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT33_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort33_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
       ],
-      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d"
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d",
+      "prior_cohort33_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
+        "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort33_publication_resolution": {
+        "source": "48d5b27916773293b054a0bbd04b8a65d347b458",
+        "tree": "4bf5dbf620c49b9c136a28595f46ed5d36af94bf",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "9143f776478157531ec95b82457fff00302ac7bd6e2bc04964ab4ef98483428f",
+        "source_run": 40087962089,
+        "full_discovered_tests": 459,
+        "current_models": 53,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Reported Donnelly finance employee roles",
       "identity": "Unspecified employee role or roles in Aqua loan-refusal account and Karen representative apology; no individual native name.",
-      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
-      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 33 bounded author publication complete; continuing full program.",
       "evidence_distribution": "CONTEXP01 U021P10,53–55 within complete current U021 context.",
       "substantive_responsibility": "Aqua reports being refused credit as an Axis adherent; Karen apologizes on an employee behalf. The refusal is not newly witnessed or proved Karen personal action.",
       "gaps": "No employee count, own voice, uniform company policy, verified motive, approval of loan after apology or independent borrower agreement.",
-      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT33_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort33_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
       ],
-      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d"
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d",
+      "prior_cohort33_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
+        "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort33_publication_resolution": {
+        "source": "48d5b27916773293b054a0bbd04b8a65d347b458",
+        "tree": "4bf5dbf620c49b9c136a28595f46ed5d36af94bf",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "9143f776478157531ec95b82457fff00302ac7bd6e2bc04964ab4ef98483428f",
+        "source_run": 40087962089,
+        "full_discovered_tests": 459,
+        "current_models": 53,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     }
   ]
 }
