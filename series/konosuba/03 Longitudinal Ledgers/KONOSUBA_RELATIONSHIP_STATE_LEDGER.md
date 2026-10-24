@@ -1582,3 +1582,10 @@ Vanir connection constrains Duke treatment of Small despite demon hostility;she 
 Dust and Rionor initially infer Perie belongs to the royal retinue;Perie withholds affiliation rather than claiming that role. Her later princess/hostage understanding changes. Yunyun calls the disguised princess Leen without making that identity true. Perie expects royal concern for bystanders and is surprised when Rionor refuses the premise. Dust unwanted exposure attempt occurs under incapacity and Rionor stops it;liking a dress is not assent. The gate guard refuses the real outside princess while offering limited nonreporting and believing the resident authentic.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+Rouzeri fears/resents Vanir as a former executive and invokes Wiz current barrier/neutrality terms;no verified direct former supervision is invented. Owner recipient differences across Dust,Leen,Yunyun,Feit,Mitsurugi and noble are not one secret-affection policy. Noble desired adult closeness does not establish Dust consent;actual child care and separate horse loan stay nonsexual. Late wife,parents and commissioned thief are reported relations with sparse independent agency.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

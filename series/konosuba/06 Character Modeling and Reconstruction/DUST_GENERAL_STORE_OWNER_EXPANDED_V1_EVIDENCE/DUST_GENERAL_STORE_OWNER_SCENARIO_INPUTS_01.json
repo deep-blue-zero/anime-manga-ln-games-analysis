@@ -1,0 +1,109 @@
+{
+  "schema": "konosuba.character-scenario-inputs.v1",
+  "frozen_utc": "2026-10-24T18:46:01.595121+00:00",
+  "generation": "DUST_GENERAL_STORE_OWNER_EXPANDED_V1",
+  "subject": "Recurring Axel general-store owner",
+  "model_foundation_freeze_sha256": "2e8a6f6db0b8e35ab9b899d4563931208fb3c9cde19a6d8b6475f1940355be65",
+  "frozen_model": {
+    "file": "GENERAL_STORE_OWNER_MODEL_DRAFT_02.md",
+    "bytes": 7813,
+    "sha256": "33cfc513643f3574c16267f0403a479a8403055f36e293b02108887bb561325b"
+  },
+  "frozen_rule_inventory": {
+    "file": "GENERAL_STORE_OWNER_RULE_INVENTORY_DRAFT_02.json",
+    "bytes": 6249,
+    "sha256": "e1f9b69da47844ba40a7b105f2a9264d1eccff1988c1cefe08030c021521eb5e"
+  },
+  "cases": [
+    {
+      "case_id": "DGO-A1",
+      "pair_id": "DGO-A",
+      "generation": "DUST_GENERAL_STORE_OWNER_EXPANDED_V1",
+      "mode": "CANONICAL_COMIC",
+      "categories": [
+        "resource_conflict",
+        "moral_pressure"
+      ],
+      "shared_state": "The familiar Axel general-store owner is taking stock before closing. His only spare handlamp is sale stock. He needs it back by dusk to complete the inventory. Dust appears with no cash and says,You owe me,so hand it over. The owner can see Dust and the lamp,and can speak,refuse,ask for terms or hand it over. If lent for the stated task,the lamp can be back before dusk. No payment,prior loan promise,compensation agreement or completed later return exists. Dust has not stolen the lamp in this new scene.",
+      "variant_fact": "Dust wants the lamp for a leisurely card game. No one needs help,and there is no other stated benefit to the owner or town. Dust offers neither payment nor an exchange.",
+      "output_request": "Write a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "exact_prompt": "Subject: Recurring Axel general-store owner\nMode: CANONICAL_COMIC\n\nThe familiar Axel general-store owner is taking stock before closing. His only spare handlamp is sale stock. He needs it back by dusk to complete the inventory. Dust appears with no cash and says,You owe me,so hand it over. The owner can see Dust and the lamp,and can speak,refuse,ask for terms or hand it over. If lent for the stated task,the lamp can be back before dusk. No payment,prior loan promise,compensation agreement or completed later return exists. Dust has not stolen the lamp in this new scene.\n\nPresent variant fact: Dust wants the lamp for a leisurely card game. No one needs help,and there is no other stated benefit to the owner or town. Dust offers neither payment nor an exchange.\n\nWrite a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "prompt_sha256": "0a0054681525518a9a9f6b8f3a49f24079a31020d1c97d934f795761fe8e0ed7"
+    },
+    {
+      "case_id": "DGO-A2",
+      "pair_id": "DGO-A",
+      "generation": "DUST_GENERAL_STORE_OWNER_EXPANDED_V1",
+      "mode": "CANONICAL_COMIC",
+      "categories": [
+        "resource_conflict",
+        "moral_pressure"
+      ],
+      "shared_state": "The familiar Axel general-store owner is taking stock before closing. His only spare handlamp is sale stock. He needs it back by dusk to complete the inventory. Dust appears with no cash and says,You owe me,so hand it over. The owner can see Dust and the lamp,and can speak,refuse,ask for terms or hand it over. If lent for the stated task,the lamp can be back before dusk. No payment,prior loan promise,compensation agreement or completed later return exists. Dust has not stolen the lamp in this new scene.",
+      "variant_fact": "A trapped adult courier is plainly visible in the dim alley beside the shop,and the owner has himself heard the courier calling for help. Dust needs the lamp to see the loose debris and guide the courier out. The owner recognizes that the need is real;no injury treatment,magic cure or guaranteed rescue result is supplied.",
+      "output_request": "Write a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "exact_prompt": "Subject: Recurring Axel general-store owner\nMode: CANONICAL_COMIC\n\nThe familiar Axel general-store owner is taking stock before closing. His only spare handlamp is sale stock. He needs it back by dusk to complete the inventory. Dust appears with no cash and says,You owe me,so hand it over. The owner can see Dust and the lamp,and can speak,refuse,ask for terms or hand it over. If lent for the stated task,the lamp can be back before dusk. No payment,prior loan promise,compensation agreement or completed later return exists. Dust has not stolen the lamp in this new scene.\n\nPresent variant fact: A trapped adult courier is plainly visible in the dim alley beside the shop,and the owner has himself heard the courier calling for help. Dust needs the lamp to see the loose debris and guide the courier out. The owner recognizes that the need is real;no injury treatment,magic cure or guaranteed rescue result is supplied.\n\nWrite a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "prompt_sha256": "8152014e9da65f8425300a00225cd18e96753c49e872959dfce252fb175963f4"
+    },
+    {
+      "case_id": "DGO-B1",
+      "pair_id": "DGO-B",
+      "generation": "DUST_GENERAL_STORE_OWNER_EXPANDED_V1",
+      "mode": "MUNDANE_HUMAN_TRANSFER",
+      "categories": [
+        "mundane_inconvenience",
+        "relationship_conflict",
+        "resource_conflict"
+      ],
+      "shared_state": "In this explicitly ordinary human setting,the owner runs the store he built with his late wife. Heavy rain is causing water to collect near its doorway. There is no immediate physical danger to him,but the stock and their old business ledger could be damaged. A neighboring organizer asks him to leave the shop for twenty minutes to help move community supplies. He wants those supplies moved,and can freely agree,decline or arrange a bounded alternative. He has a phone,a key and a named shop assistant already present;no other staff,insurance guarantee,rescue vehicle or message from his wife may be invented.",
+      "variant_fact": "The assistant says she cannot cover the shop during those twenty minutes. If the owner leaves now,the stock and ledger will be unattended;he knows no other protection is in place.",
+      "output_request": "Write a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "exact_prompt": "Subject: Recurring Axel general-store owner\nMode: MUNDANE_HUMAN_TRANSFER\n\nIn this explicitly ordinary human setting,the owner runs the store he built with his late wife. Heavy rain is causing water to collect near its doorway. There is no immediate physical danger to him,but the stock and their old business ledger could be damaged. A neighboring organizer asks him to leave the shop for twenty minutes to help move community supplies. He wants those supplies moved,and can freely agree,decline or arrange a bounded alternative. He has a phone,a key and a named shop assistant already present;no other staff,insurance guarantee,rescue vehicle or message from his wife may be invented.\n\nPresent variant fact: The assistant says she cannot cover the shop during those twenty minutes. If the owner leaves now,the stock and ledger will be unattended;he knows no other protection is in place.\n\nWrite a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "prompt_sha256": "1e555cad5a5d44d7df4664de7316af8aefcf1d10f0ee2930cbc420d79ec5b485"
+    },
+    {
+      "case_id": "DGO-B2",
+      "pair_id": "DGO-B",
+      "generation": "DUST_GENERAL_STORE_OWNER_EXPANDED_V1",
+      "mode": "MUNDANE_HUMAN_TRANSFER",
+      "categories": [
+        "mundane_inconvenience",
+        "relationship_conflict",
+        "resource_conflict"
+      ],
+      "shared_state": "In this explicitly ordinary human setting,the owner runs the store he built with his late wife. Heavy rain is causing water to collect near its doorway. There is no immediate physical danger to him,but the stock and their old business ledger could be damaged. A neighboring organizer asks him to leave the shop for twenty minutes to help move community supplies. He wants those supplies moved,and can freely agree,decline or arrange a bounded alternative. He has a phone,a key and a named shop assistant already present;no other staff,insurance guarantee,rescue vehicle or message from his wife may be invented.",
+      "variant_fact": "The assistant has already placed the ledger and exposed stock safely upstairs and can remain to watch the door for the twenty minutes. The owner has seen this and trusts her report. He can keep the key and return after that interval.",
+      "output_request": "Write a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "exact_prompt": "Subject: Recurring Axel general-store owner\nMode: MUNDANE_HUMAN_TRANSFER\n\nIn this explicitly ordinary human setting,the owner runs the store he built with his late wife. Heavy rain is causing water to collect near its doorway. There is no immediate physical danger to him,but the stock and their old business ledger could be damaged. A neighboring organizer asks him to leave the shop for twenty minutes to help move community supplies. He wants those supplies moved,and can freely agree,decline or arrange a bounded alternative. He has a phone,a key and a named shop assistant already present;no other staff,insurance guarantee,rescue vehicle or message from his wife may be invented.\n\nPresent variant fact: The assistant has already placed the ledger and exposed stock safely upstairs and can remain to watch the door for the twenty minutes. The owner has seen this and trusts her report. He can keep the key and return after that interval.\n\nWrite a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "prompt_sha256": "cea7e1b86aa582bd326ee4d47e0fb3643761c5be600d53d113be5377710d30cc"
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "DGO-A",
+      "case_ids": [
+        "DGO-A1",
+        "DGO-A2"
+      ],
+      "control_limit": "The concrete purpose and known need change together. Generic aid to visible need can explain the direction;this does not isolate a personal care mechanism or entitle Dust to future stock."
+    },
+    {
+      "pair_id": "DGO-B",
+      "case_ids": [
+        "DGO-B1",
+        "DGO-B2"
+      ],
+      "control_limit": "Protection and workload availability change;ordinary ownership and risk management are strong rivals. The source has one siege refusal and supplies no universal life-versus-property ranking or direct prior evacuation after a guarantee."
+    }
+  ],
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "novel_situations_not_canonical_events": true,
+  "no_actual_firsts_yet": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

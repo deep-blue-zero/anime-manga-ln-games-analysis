@@ -2038,3 +2038,10 @@ Duke grand self-naming/contempt,quiet clarification,Vanir honorific/request and 
 Perie self-nameペリエ and roughあたい are anchored in current Japanese prose. Attention demands,affiliation withholding,live-capture report and later killing proposal belong to different knowledge and affect states. Early fashion comments and guild crowd turns remain untagged. Waitress recommendation/cost wording and guard refusal/nonreporting offer remain separate speakers;head-butler/maid speech is not borrowed into a composite guard. Textual voice is not acoustic performance certification.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+Rouzeri self-nameルーゼリ,courteous introduction,resentment,compact argument and age protest vary by addressee. Owner rough rebuttal,polite sales address,child apology and siege account differ. Noble own僕viewpoint,courteous eagerness,practical questions and no-cleaning request are situated;breath marks are not compulsory. Inline ruby is preserved in actual receiving;English firsts certify no Japanese or acoustic voice.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

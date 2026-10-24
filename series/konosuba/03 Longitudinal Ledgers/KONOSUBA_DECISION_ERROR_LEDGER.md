@@ -2045,3 +2045,10 @@ Quoted military-job challenge differs from Kazuma paraphrase and Wiz inserted ho
 Perie first infers negotiating pressure will protect the army,then accepts Dust deliberately false low-hostage-value account and proposes killing princess and witnesses despite the reported live-capture order. Her claim that superior personnel selection caused the problem meets her later admission of taking the mission by force. Reported superior praise and executive candidacy are not an observed promotion. The gate guard mistaken identity and narrator explanation do not establish universal stupidity or hidden plot knowledge.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+Rouzeri refuses a particular exit while wanting to flee;no universal cowardice or bravery follows. Her own army-life reason is not the different ogre salary complaint. Owner misorder and disguise misreading oppose infallibility. Noble jealous interpretations and Dust truth-inverter theory do not establish reciprocity or engineering fact. Current unknown joins stay open;gate wine explanation overturns Dust fatal-wound inference without certifying physiology or zero casualties.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

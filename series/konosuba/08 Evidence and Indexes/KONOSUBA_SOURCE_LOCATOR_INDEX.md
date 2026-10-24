@@ -2034,3 +2034,10 @@ C37 actual known-source recheck:2128P/1965inline ruby,15members7EPUBs,49complete
 C38 actual native recheck:622P/548inline ruby,4members2known EPUBs,12complete displays;one full member and three bounded ranges,no current images. DUST06U012P275-426,U013P1-302,U014fullP1-67 andDUST07U011P470-570 govern coverage. Two full Dust06 reports total48135characters/8displays;all34 precision qualifications received separately. All41fresh object hashes/literal-name retrieval produce18paragraph leads inside these contexts;retrieval adds no unnamed,alias,image,nonparagraph absence or new whole-book reading credit.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+C39actual selected native coverage4192P/4128inline ruby,23members7knownEPUBs84complete displays;4167fictionP and25Dust05author-afterwordP. Nine complete paragraph projections/fourteen bounded members,zero current images/nonparagraph residuals. D1-D4analytical contexts actually received;prior fullD5/D6analytical surfaces reused with exact receipts. All41literal retrieval is technical,not unnamed/alias/image absence proof or another whole-edition read.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

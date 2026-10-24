@@ -7,15 +7,58 @@
   "row_count": 80,
   "rows": [
     {
-      "priority": "Discovery",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "priority": "Cohort39 bounded semantic receiving complete;exact containing publication pending.",
+      "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "character": "Unnamed weapon-store merchant (Dust07)",
-      "identity": "Source-bound actual spear giver, wider recurring Dust merchant join still open; distinct from MAIN13 magic seller.",
-      "likely_tier": "1 bounded candidate",
-      "evidence_distribution": "Complete Dust07 report; direct nativeU011361-378.",
-      "substantive_responsibility": "Report gives valued store/late-wife basis for staying. Actual valuable-spear gift explicitly permits use/disposal despite Dust resale statement. Expressed expectation and weapon knowledge do not prove full private-identity knowledge.",
-      "gaps": "No invented sale/return, tip-failure cause or pure motive; repair remains reported. Final recurring-merchant identity/disposition due."
+      "character": "Recurring Axel general-store owner (Dust01–07)",
+      "identity": "Explicitly recurring 雑貨店/雑貨屋 owner across Dust01-07;corrects old weapon-store label without erasing it. Personal name absent. Tomato seller,MAIN13magic seller and earlier other-country generic store option remain unjoined.",
+      "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact publication pending",
+      "evidence_distribution": "Current Dust01-07 native contexts cover property/lunch/frontage disputes,actual helmet trade/sale,information,child-directed provision,overstock/work insult and siege shared-work account/spear gift. Seven known EPUBs4192selectedP/4128ruby23members84displays across cohort;4167fictionP and25afterwordP,zero images/nonparagraph views. Prior completeD5/D6analytical contexts reused under exact receipts;full bounds in provenance.",
+      "substantive_responsibility": "Retains ownership and work boundaries while choosing recipient- and purpose-specific finite help. DGO-R01 binds need,purpose and terms before choice;does not infer acceptable use from whether help occurred. Ordinary provision,late-wife/shared-work account,actual errors and varied relationships earn individual treatment without cash-only or secret-affection simplification.",
+      "gaps": "No personal name,complete household,perfect disguise detection or isolated commercial/care motive. Spear tip fallsP832;neglect is DustP834;later repair account is not witnessed workshop. Free use/disposal follows no-return warning. DGO-B1 imports upstairs from its contrast and unspecified ledger duration;original kept. Generic ownership,care and risk rivals remain. No independent result,grade,confidence gain,voice certification or final battery.",
+      "prior_cohort39_current_fields": {
+        "character": "Unnamed weapon-store merchant (Dust07)",
+        "identity": "Source-bound actual spear giver, wider recurring Dust merchant join still open; distinct from MAIN13 magic seller.",
+        "likely_tier": "1 bounded candidate",
+        "evidence_distribution": "Complete Dust07 report; direct nativeU011361-378.",
+        "substantive_responsibility": "Report gives valued store/late-wife basis for staying. Actual valuable-spear gift explicitly permits use/disposal despite Dust resale statement. Expressed expectation and weapon knowledge do not prove full private-identity knowledge.",
+        "gaps": "No invented sale/return, tip-failure cause or pure motive; repair remains reported. Final recurring-merchant identity/disposition due.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort39_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_GENERAL_STORE_OWNER_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_GENERAL_STORE_OWNER_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_RULE_INVENTORY_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_DIAGNOSTIC_ASSESSMENT_01.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_FIRST_OUTPUT_ANNOTATIONS_01.json"
+      ],
+      "cohort39_rules": [
+        "DGO-R01"
+      ],
+      "cohort39_semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+      "cohort39_scope_assessment": {
+        "row": 80,
+        "subject": "Recurring Axel general-store owner",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "DGO-R01"
+        ],
+        "justification": "Explicit recurrence across Dust01-07,ordinary property/work choices,recipient differences,chosen aid,own shared-life history and errors earn twelve dimensions and one bounded provision/ownership hypothesis. Correct old weapon-store label without erasing history.",
+        "limits_and_rivals": "No personal name,complete household or uniform pricing/care mechanism. Generic property defense,commercial interest,child-directed care and collective-defense investment remain. Source-known report and inference boundaries constrain former career,identity recognition and repair."
+      },
+      "cohort39_current_qualifications": "Current scoped provisional individual disposition governs;prior current fields remain dated exact history. Actual act,own report,narrator inference,untagged turn,dream,anticipated outcome and unknown remain distinct. No permanent ceiling,independent trial,mature reliability or census closure.",
+      "cohort39_prior_semantic_receiving_before_status_normalization": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+      "cohort39_public_status_normalization": {
+        "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+        "bytes": 4391,
+        "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      }
     },
     {
       "priority": "Discovery",
@@ -220,16 +263,59 @@
       }
     },
     {
-      "character": "Unnamed helmet admirer / noble (Dust01–03)",
-      "identity": "Own alternate POV inDust01I01, joined by actual prior shop/helper and helmet recognition inDust03; personal name and wider alias unresolved.",
-      "likely_tier": "2-3 candidate, evidence-proportional mechanism decision open",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "Complete52PDUST01I01native +107PDUST03U014244–350; receipts24/26 and corresponding direct-native receipts.",
-      "substantive_responsibility": "Private report/surveillance acquisition, jealous relationship inference, own desired speech/contact, particular helmet valuation and actual purchase differ fromDust's appraisals. Later finite one-day loan/armor/cleaning veto and private shyness are actual separate choices.",
-      "gaps": "No reciprocal Dust desire/known surveillance permission, proved fake-necklace purchase/device or MASK noble alias from similar traits. State ordinary object goals, limits, rivals and disconfirmers before any model promotion.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "character": "Helmeted noble / Dust admirer (Dust01,03,07)",
+      "identity": "Own Dust01private viewpoint and explicit prior-helper/former-Dust-helmet references join Dust03/07. No personal name supplied. MAIN07photograph-seeking noble246,Andain and Aigis remain unjoined;role similarity does not prove sameness or global disjointness.",
+      "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact publication pending",
+      "priority": "Cohort39 bounded semantic receiving complete;exact containing publication pending.",
+      "evidence_distribution": "Current completeDUST01private52P,rescue/aftermath contexts,DUST03loan/armor/no-cleaning/substitute face cover,andDUST07child care plus explicitP184horse loan. DUST05crowd rumor is attributed,unidentified bath watcher unjoined. All cohort source/member/ruby/range bindings and actual receiving in C39provenance.",
+      "substantive_responsibility": "Private object association,actual purchase,finite resource aid,combat competence,concealment accommodation and accepted lending terms earn HNO-R01 useful-role/associated-object seeking with preservation or substitute means. Dust proposed one-day limit is accepted,not a noble-invented ultimatum. Actual held hand and continued approach after stop requests remain adverse;child care and adult attraction stay distinct.",
+      "gaps": "No reciprocal Dust attraction,verified magic inverter,unlimited resources or actual payment for private reports. Generic sentiment,generosity,shyness and ownership remain rivals. HNO-A2 adds price marking and ambiguous audience absence;original retained. Four firsts/two dependent source-known pairs do not calibrate cost thresholds or isolate motive. No independent accuracy,grade,confidence gain,Japanese/acoustic certification or final battery.",
+      "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
+      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
+      "prior_cohort39_current_fields": {
+        "character": "Unnamed helmet admirer / noble (Dust01–03)",
+        "identity": "Own alternate POV inDust01I01, joined by actual prior shop/helper and helmet recognition inDust03; personal name and wider alias unresolved.",
+        "likely_tier": "2-3 candidate, evidence-proportional mechanism decision open",
+        "evidence_distribution": "Complete52PDUST01I01native +107PDUST03U014244–350; receipts24/26 and corresponding direct-native receipts.",
+        "substantive_responsibility": "Private report/surveillance acquisition, jealous relationship inference, own desired speech/contact, particular helmet valuation and actual purchase differ fromDust's appraisals. Later finite one-day loan/armor/cleaning veto and private shyness are actual separate choices.",
+        "gaps": "No reciprocal Dust desire/known surveillance permission, proved fake-necklace purchase/device or MASK noble alias from similar traits. State ordinary object goals, limits, rivals and disconfirmers before any model promotion.",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort39_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_HELMETED_NOBLE_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HELMETED_NOBLE_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_RULE_INVENTORY_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_DIAGNOSTIC_ASSESSMENT_01.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_FIRST_OUTPUT_ANNOTATIONS_01.json"
+      ],
+      "cohort39_rules": [
+        "HNO-R01"
+      ],
+      "cohort39_semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+      "cohort39_scope_assessment": {
+        "row": 88,
+        "subject": "Helmeted noble / Dust admirer",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "HNO-R01"
+        ],
+        "justification": "Own private viewpoint,object-associated value,fallible rival inferences,actual acquisition,resources/combat assistance,concealment accommodation and finite lending terms earn one provisional closeness/preservation hypothesis. No anonymity or comic-sexual ceiling.",
+        "limits_and_rivals": "No personal name,wider noble alias join,precise cost threshold or reciprocity. Generic attachment,generosity,shyness and ordinary ownership remain. Contact violation stays adverse;child care and adult attraction distinct."
+      },
+      "cohort39_current_qualifications": "Current scoped provisional individual disposition governs;prior current fields remain dated exact history. Actual act,own report,narrator inference,untagged turn,dream,anticipated outcome and unknown remain distinct. No permanent ceiling,independent trial,mature reliability or census closure.",
+      "cohort39_prior_semantic_receiving_before_status_normalization": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+      "cohort39_public_status_normalization": {
+        "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+        "bytes": 4391,
+        "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      }
     },
     {
       "character": "Lake 安楽少女 (Dust03 individual)",

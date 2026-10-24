@@ -3,8 +3,8 @@
   "canonical_census_manifest": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
   "part_ordinal": 5,
   "first_row_index": 320,
-  "last_row_index": 347,
-  "row_count": 28,
+  "last_row_index": 356,
+  "row_count": 37,
   "rows": [
     {
       "character": "Unnamed man in Lucy’s gift/rejection account",
@@ -825,12 +825,12 @@
     {
       "character": "Unnamed red-haired guild waitress (DUST06)",
       "identity": "Source-bound waitress role at DUST06U013P29-34;unjoined to Perie,Nerimaki,Barbera,Luna or another server. Shared hair color is not a personal-identity bridge.",
-      "likely_tier": "1 scoped; compact role profile; exact publication pending",
-      "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "1 scoped; compact role profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort38 bounded author publication complete;continuing full program.",
       "evidence_distribution": "Current native DUST06U013P29-34 within complete selected P1-302 context;complete accepted Dust06 report/component account separately received.",
       "substantive_responsibility": "Offers the recommended large meal and dessert while acknowledging cost;Taylor/Keith request lower cost and filling food. Narrator appraises them as pressed into the offered choice;actual plates pile up. Useful local commercial agency,without a global professional personality.",
       "gaps": "No personal name,exact price,commission motive,independently verified popularity,printed cash settlement or wider recurring-server identity. Actual service and narrator inference remain distinct.",
-      "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT38_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort38_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md",
@@ -838,17 +838,36 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-38-perie-and-selected-dust06-roles"
       ],
-      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7"
+      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7",
+      "prior_cohort38_publication_fields": {
+        "likely_tier": "1 scoped; compact role profile; exact publication pending",
+        "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort38_publication_resolution": {
+        "source": "9eb4d4c1a4f2c4c6ac130e9869ad478ecb40e47a",
+        "tree": "ee52b44c0ab5bb6d43b9ecc320f1934f28ec13bb",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "b3e4fd84a6d30460d4a3080937af8d8d6b516e94f43f2f555cb1b873568ac82d",
+        "source_run": 40115509649,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 314
+      }
     },
     {
       "character": "Unnamed Bridol-retinue mansion gate guard (DUST06)",
       "identity": "One source-bound gate interlocutor at Axel mansion;unjoined to other guards/captains and not a composite retinue personality. Gender/name unprovided.",
-      "likely_tier": "1 scoped; compact role profile; exact publication pending",
-      "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "1 scoped; compact role profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort38 bounded author publication complete;continuing full program.",
       "evidence_distribution": "Current native DUST06U013P272-302;own guard turnsP275/279/282/284/288 and narrator P285.",
       "substantive_responsibility": "Recognizes likeness,claims three salary deductions for earlier escapes,continues to refuse entry despite royal demand,and offers to leave the supposed impersonation unreported. Acts under reported head-butler warning and believes resident is real;institutional rule,personal cost and limited leniency coexist.",
       "gaps": "Pay history is own report,not inspected payroll. Mistaken identity does not prove universal stupidity,secret plot knowledge or general moral authority. No unprinted punishment,accepted entry or cross-book guard join.",
-      "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT38_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort38_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md",
@@ -856,17 +875,36 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-38-perie-and-selected-dust06-roles"
       ],
-      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7"
+      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7",
+      "prior_cohort38_publication_fields": {
+        "likely_tier": "1 scoped; compact role profile; exact publication pending",
+        "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort38_publication_resolution": {
+        "source": "9eb4d4c1a4f2c4c6ac130e9869ad478ecb40e47a",
+        "tree": "ee52b44c0ab5bb6d43b9ecc320f1934f28ec13bb",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "b3e4fd84a6d30460d4a3080937af8d8d6b516e94f43f2f555cb1b873568ac82d",
+        "source_run": 40115509649,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 314
+      }
     },
     {
       "character": "Reported guild priest who used Cure on Perie (DUST06)",
       "identity": "Unnamed priest role reported by Perie;no gender,sect,class upgrade or join to named/unnamed church actors certified.",
-      "likely_tier": "0 scoped; source-role/occurrence index; exact publication pending",
-      "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "0 scoped; source-role/occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort38 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST06U013P131 within current native P1-302.",
       "substantive_responsibility": "Perie reports a priest objected to her drinking conduct and cast Cure;her apparent recovered state is observed separately. Treatment and motive/quoted rebuke reach the reader through her account.",
       "gaps": "No independently witnessed cure,personal name,known fee,broader service history or knowledge of Perie mission. May overlap patrons;no disjoint-person count.",
-      "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT38_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort38_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md",
@@ -874,17 +912,36 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-38-perie-and-selected-dust06-roles"
       ],
-      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7"
+      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7",
+      "prior_cohort38_publication_fields": {
+        "likely_tier": "0 scoped; source-role/occurrence index; exact publication pending",
+        "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort38_publication_resolution": {
+        "source": "9eb4d4c1a4f2c4c6ac130e9869ad478ecb40e47a",
+        "tree": "ee52b44c0ab5bb6d43b9ecc320f1934f28ec13bb",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "b3e4fd84a6d30460d4a3080937af8d8d6b516e94f43f2f555cb1b873568ac82d",
+        "source_run": 40115509649,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 314
+      }
     },
     {
       "character": "Guild patrons surrounding and drinking with Perie (DUST06 group)",
       "identity": "Unresolved group and untagged turnsP87-99;size,individual mapping and joins to other guild crowds remain open.",
-      "likely_tier": "0 scoped; source-role/occurrence index; exact publication pending",
-      "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "0 scoped; source-role/occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort38 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST06U013P81-102 current full selected paragraph/ruby context.",
       "substantive_responsibility": "Respond to public day-drinking rebuke,surround Perie and force alcohol mid-speech;later shared drinking and her demand for more are separate phases. Dust is not established as sole planner or physical administrator.",
       "gaps": "No exact count,named initiator,uniform personality or personal mapping of every voice. Could include the reported Cure priest;later participation does not retroactively authorize force.",
-      "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT38_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort38_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md",
@@ -892,17 +949,36 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-38-perie-and-selected-dust06-roles"
       ],
-      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7"
+      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7",
+      "prior_cohort38_publication_fields": {
+        "likely_tier": "0 scoped; source-role/occurrence index; exact publication pending",
+        "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort38_publication_resolution": {
+        "source": "9eb4d4c1a4f2c4c6ac130e9869ad478ecb40e47a",
+        "tree": "ee52b44c0ab5bb6d43b9ecc320f1934f28ec13bb",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "b3e4fd84a6d30460d4a3080937af8d8d6b516e94f43f2f555cb1b873568ac82d",
+        "source_run": 40115509649,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 314
+      }
     },
     {
       "character": "Perie-reported demon-army executive superior (DUST06)",
       "identity": "Source-bound superior role in Perie account;personal identity,gender and wider commander joins unresolved.",
-      "likely_tier": "0 scoped; source-role/occurrence index; exact publication pending",
-      "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "0 scoped; source-role/occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort38 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST06U013P135-142/170/200/205/225 current native;later name retrieval does not identify this superior.",
       "substantive_responsibility": "Perie attributes live-capture instructions and limited praise of combat ability to this superior,then blames personnel selection. Her later admission of forcing an assignment swap is contrary to sole superior responsibility.",
       "gaps": "No witnessed order issuance,promotion decision,private motive or certified Rouzeri/Demon King/other executive join. Perie quote and analyst fact remain distinct.",
-      "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT38_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort38_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md",
@@ -910,17 +986,36 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-38-perie-and-selected-dust06-roles"
       ],
-      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7"
+      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7",
+      "prior_cohort38_publication_fields": {
+        "likely_tier": "0 scoped; source-role/occurrence index; exact publication pending",
+        "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort38_publication_resolution": {
+        "source": "9eb4d4c1a4f2c4c6ac130e9869ad478ecb40e47a",
+        "tree": "ee52b44c0ab5bb6d43b9ecc320f1934f28ec13bb",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "b3e4fd84a6d30460d4a3080937af8d8d6b516e94f43f2f555cb1b873568ac82d",
+        "source_run": 40115509649,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 314
+      }
     },
     {
       "character": "Perie-reported original kidnapping assignee (DUST06)",
       "identity": "Another assignment recipient reported by Perie;identity,gender,rank and role overlap with wider cast unresolved.",
-      "likely_tier": "0 scoped; source-role/occurrence index; exact publication pending",
-      "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "0 scoped; source-role/occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort38 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST06U013P225-228 current native.",
       "substantive_responsibility": "Perie says the mission originally belonged to another person and she took it by force;Dust infers this contradicts her selection complaint. The earlier transfer is reported,not independently replayed.",
       "gaps": "No name,actual consent,observed transfer,subsequent fate or guaranteed personal distinctness from other indexed military roles.",
-      "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT38_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort38_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md",
@@ -928,7 +1023,260 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-38-perie-and-selected-dust06-roles"
       ],
-      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7"
+      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7",
+      "prior_cohort38_publication_fields": {
+        "likely_tier": "0 scoped; source-role/occurrence index; exact publication pending",
+        "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort38_publication_resolution": {
+        "source": "9eb4d4c1a4f2c4c6ac130e9869ad478ecb40e47a",
+        "tree": "ee52b44c0ab5bb6d43b9ecc320f1934f28ec13bb",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "b3e4fd84a6d30460d4a3080937af8d8d6b516e94f43f2f555cb1b873568ac82d",
+        "source_run": 40115509649,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 314
+      }
+    },
+    {
+      "character": "Larger apparent ogre leader at Axel defense (DUST07)",
+      "identity": "One larger individual steps forward;Dust calls the leader attribution apparent. Not automatically MAIN17Logia or MASKoni courier.",
+      "likely_tier": "1 scoped candidate; compact profile; exact publication pending",
+      "priority": "Cohort39 scoped source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "DUST07U013P63-108/127-129",
+      "substantive_responsibility": "Taunts wounded defenders,recognizes Vanir and switches to respectful questioning,objects to his shop employment,then falls silent after dismissal. An enemy ogre starts competing bids;untagged later funding demand is not individually assigned.",
+      "gaps": "No personal name,global disjoint identity,final payment or full troop-death check;Dust leaves during the outcome. One local agency profile,no inherited ogre model.",
+      "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_identity_or_report_not_population_proof": true,
+      "proposed_scoped_tier": 1,
+      "cohort39_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-39-rouzeri-store-owner-noble-and-local-supporting-roles"
+      ],
+      "cohort39_semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+      "cohort39_prior_semantic_receiving_before_status_normalization": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+      "cohort39_public_status_normalization": {
+        "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+        "bytes": 4391,
+        "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      }
+    },
+    {
+      "character": "Familiar arresting officer requesting evacuation time (DUST07)",
+      "identity": "Officer whom Dust explicitly recognizes as arresting him two weeks earlier;not automatically chief Aloerina,deputy Lolierina,MAIN08stall officer or every uniformed voice.",
+      "likely_tier": "1 scoped candidate; compact profile; exact publication pending",
+      "priority": "Cohort39 scoped source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "DUST07U013P201-225/233-254",
+      "substantive_responsibility": "Initially rebukes apparent shirking,then accepts needed help,asks time to move wounded and obtain reinforcement,and warns Dust about the dangerous opponent. Recent arrest is not described as an innocent charge.",
+      "gaps": "Request and danger warning are actual;completed evacuation/reinforcement by this hand unshown. Nos self-name and knockout retain existing78/137routes;no automatic future immunity from arrest.",
+      "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_identity_or_report_not_population_proof": true,
+      "proposed_scoped_tier": 1,
+      "cohort39_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-39-rouzeri-store-owner-noble-and-local-supporting-roles"
+      ],
+      "cohort39_semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+      "cohort39_prior_semantic_receiving_before_status_normalization": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+      "cohort39_public_status_normalization": {
+        "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+        "bytes": 4391,
+        "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      }
+    },
+    {
+      "character": "Tomato seller lending a cart (DUST01)",
+      "identity": "Source-bound produce seller at the gate district;not the familiar general-store owner who later points out one surviving tomato.",
+      "likely_tier": "1 scoped candidate; compact profile; exact publication pending",
+      "priority": "Cohort39 scoped source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "DUST01U012P353-377/428-465",
+      "substantive_responsibility": "Reports scarcity and a contracted farm,quotes a large total,actually takes Dust payment,and lends a cart with a return request. Dust notes changed sales manner after money is visible.",
+      "gaps": "Crop/farm claims and source-of-money indifference are seller speech;no certified provenance,actual returned cart,completed compensation or identity join to other vendors. General-store owner later offers a separate purchase that is not completed.",
+      "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_identity_or_report_not_population_proof": true,
+      "proposed_scoped_tier": 1,
+      "cohort39_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-39-rouzeri-store-owner-noble-and-local-supporting-roles"
+      ],
+      "cohort39_semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+      "cohort39_prior_semantic_receiving_before_status_normalization": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+      "cohort39_public_status_normalization": {
+        "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+        "bytes": 4391,
+        "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      }
+    },
+    {
+      "character": "Café waitress requiring an order (DUST01)",
+      "identity": "Untitled service worker in the planning café;personal name and continuity to other cafés/waitresses unprovided.",
+      "likely_tier": "1 scoped candidate; compact profile; exact publication pending",
+      "priority": "Cohort39 scoped source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "DUST01U014P298-305",
+      "substantive_responsibility": "Interrupts a lengthy discussion to require ordering and quieter speech;after customers reject expense and insult pricing,she explicitly tells them to leave.",
+      "gaps": "Waitress role is explicit;ownership,private life,police action,actual bill and identity join to DUST06red-haired guild waitress342 remain unproved. Bounded service veto,not a new generic waitress model.",
+      "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_identity_or_report_not_population_proof": true,
+      "proposed_scoped_tier": 1,
+      "cohort39_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-39-rouzeri-store-owner-noble-and-local-supporting-roles"
+      ],
+      "cohort39_semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+      "cohort39_prior_semantic_receiving_before_status_normalization": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+      "cohort39_public_status_normalization": {
+        "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+        "bytes": 4391,
+        "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      }
+    },
+    {
+      "character": "Gate coughing soldier and separate wine-explanation voice (DUST07)",
+      "identity": "Two locally differentiated speaking occurrences;not assumed globally disjoint persons or one composite individual.",
+      "likely_tier": "0 scoped candidate; sparse role/report index; exact publication pending",
+      "priority": "Cohort39 scoped source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "DUST07U013P12-20",
+      "substantive_responsibility": "The soldier reports monsters split toward guild and affluent district,then coughs up apparent blood. Dust initially infers a fatal wound;another voice explains it as earlier secretly drunk wine,and Dust drops that inference.",
+      "gaps": "Sparse roles only. Wine explanation is attributed speech,not verified physiology;no death,global zero-casualty claim or confirmed identity with previous gate guards. Later narrated healing does not independently identify this hand.",
+      "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_identity_or_report_not_population_proof": true,
+      "proposed_scoped_tier": 0,
+      "cohort39_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-39-rouzeri-store-owner-noble-and-local-supporting-roles"
+      ],
+      "cohort39_semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+      "cohort39_prior_semantic_receiving_before_status_normalization": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+      "cohort39_public_status_normalization": {
+        "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+        "bytes": 4391,
+        "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      }
+    },
+    {
+      "character": "Unidentified Axel defenders,healers and dragon-battle witnesses (DUST07)",
+      "identity": "Unresolved actor/voice groups and role occurrences;overlap across scenes stays open.",
+      "likely_tier": "0 scoped candidate; sparse role/report index; exact publication pending",
+      "priority": "Cohort39 scoped source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "DUST07U013P55-129/201-254;U014P4/7-10",
+      "substantive_responsibility": "Wounded defense,requests/auction-side voices,healing and later battle-witness talk contribute local action and information.",
+      "gaps": "No assignment of every auction bid or collective utterance to the apparent leader;no new personal identities,exact group headcount,verified knight identity or checked Rouzeri death. Rumor fading is a forecast,not completed forgetting.",
+      "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_identity_or_report_not_population_proof": true,
+      "proposed_scoped_tier": 0,
+      "cohort39_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-39-rouzeri-store-owner-noble-and-local-supporting-roles"
+      ],
+      "cohort39_semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+      "cohort39_prior_semantic_receiving_before_status_normalization": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+      "cohort39_public_status_normalization": {
+        "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+        "bytes": 4391,
+        "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      }
+    },
+    {
+      "character": "General-store owner reported deceased wife (DUST07)",
+      "identity": "Wife identified through the owner shared-labor/store history;personal name unprovided.",
+      "likely_tier": "0 scoped candidate; sparse role/report index; exact publication pending",
+      "priority": "Cohort39 scoped source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "DUST07U011P358-363",
+      "substantive_responsibility": "Reported shared work and loss help explain the owner stated attachment to the store.",
+      "gaps": "No onstage private viewpoint,exact biography,death mechanism or invented instruction to remain. Reported relation,not a separately modeled motive or global new-person proof.",
+      "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_identity_or_report_not_population_proof": true,
+      "proposed_scoped_tier": 0,
+      "cohort39_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-39-rouzeri-store-owner-noble-and-local-supporting-roles"
+      ],
+      "cohort39_semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+      "cohort39_prior_semantic_receiving_before_status_normalization": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+      "cohort39_public_status_normalization": {
+        "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+        "bytes": 4391,
+        "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      }
+    },
+    {
+      "character": "Noble commissioned covert photographer / thief (DUST01)",
+      "identity": "Specialist thief in the noble own account of photographs and reports;personal name and wider continuity unprovided.",
+      "likely_tier": "0 scoped candidate; sparse role/report index; exact publication pending",
+      "priority": "Cohort39 scoped source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "DUST01U016P5-6/12-14/33",
+      "substantive_responsibility": "The noble describes commissioning a concealed photograph and receiving reports,then plans more detailed instructions.",
+      "gaps": "Commission and report history are own narrator account;no newly witnessed photo-taking scene,agreed Dust surveillance permission or automatic identity join to a main-series photographer.",
+      "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_identity_or_report_not_population_proof": true,
+      "proposed_scoped_tier": 0,
+      "cohort39_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-39-rouzeri-store-owner-noble-and-local-supporting-roles"
+      ],
+      "cohort39_semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+      "cohort39_prior_semantic_receiving_before_status_normalization": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+      "cohort39_public_status_normalization": {
+        "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+        "bytes": 4391,
+        "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      }
+    },
+    {
+      "character": "Helmeted noble reported parents (DUST01)",
+      "identity": "Parental role group in anticipated opposition to indoor helmet wearing;not a newly observed confrontation.",
+      "likely_tier": "0 scoped candidate; sparse role/report index; exact publication pending",
+      "priority": "Cohort39 scoped source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "DUST01U016P49-52",
+      "substantive_responsibility": "Expected family objection constrains his stated wearing plan.",
+      "gaps": "No actual parental speech,executed veto,complete household or independently certified global person count.",
+      "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_identity_or_report_not_population_proof": true,
+      "proposed_scoped_tier": 0,
+      "cohort39_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-39-rouzeri-store-owner-noble-and-local-supporting-roles"
+      ],
+      "cohort39_semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+      "cohort39_prior_semantic_receiving_before_status_normalization": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+      "cohort39_public_status_normalization": {
+        "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+        "bytes": 4391,
+        "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      }
     }
   ]
 }

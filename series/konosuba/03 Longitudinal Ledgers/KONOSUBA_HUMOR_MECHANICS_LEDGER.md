@@ -2071,3 +2071,10 @@ The courtship/work confusion depends on referent and access rather than fabricat
 Fashion criticism draws anger and later narrated discouragement;redness alone does not establish embarrassment about the dress. Mission monologues are repeatedly interrupted,including actual paralysis and forced drinking. Later participation does not authorize the earlier coercion. Perie blame of her superior is punctured by her own reported assignment takeover. Comedy supplies no consent,completed sexual act,harmlessness exemption or automatic reset after the severe combat outcome.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+Military-manager complaints,age protest,stock/lunch disputes and object-associated delight depend on actual stakes and information. Rouzeri civilian threat and coercive recruitment remain harmful. Noble held hand/continued approach after withdrawal remain actual violations;comic framing supplies no assent. Dream-revealed infiltrator episode is not an actual assault on Leen. Gear packing is not completed return,and battle fall is not a checked permanent death.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

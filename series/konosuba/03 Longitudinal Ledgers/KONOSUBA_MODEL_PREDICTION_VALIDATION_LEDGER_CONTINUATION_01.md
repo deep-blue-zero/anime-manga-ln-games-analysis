@@ -617,3 +617,10 @@ One Duke rule froze before exact inputs. Four actual immutable original English 
 C38 disposition is one Tier2 monograph,two Tier1 profiles and four Tier0 role indexes. Clothing presentation,practical costume use,military utility,status,irritation and retaliation remain confounded;accurate retreats and reported takeover resist a padded brute-force rule. No new model,rule,exact input or diagnostic first was authored. Existing56 models and all earlier original first bodies remain exact. No independent accuracy,grade,confidence gain,Japanese/acoustic certification or final-battery credit follows.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+Three one-rule foundations froze before exact inputs;twelve actual original firsts/six dependent pairs were emitted once and sealed before feedback. DGO-B1 imports upstairs from contrasting prompt plus unspecified ledger duration;HNO-A2 adds price marking and ambiguous audience absence. Originals remain exact. Four other pairs respect current body constraints,but no pair cleanly isolates cause against generic prudence,ownership,care,sentiment or source/prompt cues. No regeneration,rule change,independent accuracy,grade,confidence gain,voice or final-battery credit.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

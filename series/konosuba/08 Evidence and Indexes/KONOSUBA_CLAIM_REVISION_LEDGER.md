@@ -470,3 +470,10 @@ CR-C37-JOB01 CORRECT:original military challenge is not marriage proposal. CR-C3
 CR-C38-AFFECT01 QUALIFY:redness and anger do not establish dress embarrassment;later discouragement is Dust narration. CR-C38-MODAL02 RETAIN:jacket cause,Cure,superior order/praise and mission transfer retain attribution. CR-C38-ORDER03 CORRECT:reported live-capture order is violated by proposed killing,not merciful release. CR-C38-CAPACITY04 QUALIFY:accurate aerial retreats resist blanket mindlessness. CR-C38-TIME05 RETAIN:DUST07comparison is retrospective,not a return or new Perie event. CR-C38-CONSENT06 RETAIN:paralysis/exposure attempt and forced alcohol do not gain consent from fashion preference or later participation. CR-C38-TIER07 OPEN:substantial monograph earned;differentiated generative policy not presently isolated.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+CR-C39-SPEAKER01 CORRECT:ogre salary remark is not Rouzeri reason. CR-C39-STATUS02 QUALIFY:Vanir former executive versus Wiz current compact;no direct former Rouzeri supervision verified. CR-C39-ROLE03 CORRECT:recurring general store,not weapon-only shop. CR-C39-FAULT04 QUALIFY:tip fallsP832,neglect DustP834,repair reported. CR-C39-LOAN05 RETAIN:Dust proposes one-day helmet loan;D7P184explicit horse loan. CR-C39-PAY06 QUALIFY:covert reports commissioned,actual payment unshown. CR-C39-TEST07 RETAIN:DGO-B1/HNO-A2defects and all12firsts unchanged;body compliance is not cause isolation.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
