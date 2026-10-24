@@ -1606,12 +1606,12 @@
     {
       "character": "Unnamed dragon-egg seller (MAIN07)",
       "identity": "Unnamed itinerant seller in Aqua’s reported MAIN07 exchange. Later marketing sender(s),garden-seed seller and other unnamed merchants are unjoined; neither sameness nor personal distinctness is certified.",
-      "likely_tier": "1 scoped; compact reported-actor profile; exact publication pending",
-      "priority": "Cohort36 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact reported-actor profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort36 bounded author publication complete; continuing full program.",
       "evidence_distribution": "Current native MAIN07U012P147–170,especially Aqua’s embedded seller speech153 and reported all-cash price/caretaker justification162. MAIN09U018full42P distinguishes later reported marketing letters from the actual Iris letter; complete ranges and source bindings in C36 provenance.",
       "substantive_responsibility": "Attributed sales framing praises heroic adventurers,offers a dragon familiar for future fighting,and favors working caretakers over wealthy status owners while taking all Aqua’s available money. This specific reported persuasion earns a compact profile. Kazuma’s wealth-targeting/fraud reading remains his inference; Aqua’s subsequent care is her action.",
       "gaps": "Seller name,knowledge,sincerity,precise private motive,wider conduct,exact market price and reaction after purchase remain unresolved. Transaction/speech are mediated by Aqua,not a second watched negotiation. No uniform dishonest-merchant generator,additional completed sale or forced join/distinctness split.",
-      "disposition_status": "COHORT36_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT36_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working25": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
       "prior_cohort36_current_fields": {
@@ -1647,6 +1647,24 @@
         "file": "COHORT36_PUBLICATION_PATH_PRECISION_01.json",
         "bytes": 5370,
         "sha256": "a7c8b5429458996253caf875b3a179a9e56e906fb92882aeb9b8db4d430aa531"
+      },
+      "prior_cohort36_publication_fields": {
+        "likely_tier": "1 scoped; compact reported-actor profile; exact publication pending",
+        "priority": "Cohort36 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT36_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort36_publication_resolution": {
+        "source": "b264fb26b64cf94d2281981779c26f2f3d21ecb8",
+        "tree": "d7308228e73804b384b162d1ea6655b12a23e114",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT36_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "2af7cf0334bfc782ef2725dfff6e08497514c88ee86cb42e16832978fe768cfc",
+        "source_run": 40102047304,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
       }
     },
     {

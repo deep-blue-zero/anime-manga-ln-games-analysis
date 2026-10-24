@@ -1448,3 +1448,10 @@ The correction speaker’s local choice is to distinguish the actor of a reporte
 Zel’s actual approach to Vanir,curling sleep and proximity to Chomusuke support bounded relations without certified humanlike motives. Warmth remains a hedged cause. Early coop requests and helper reports differ from the later visible finished coop. A feeding assignment or souvenir offer is not its completed performance.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Duke alone drinking and actual paid drinks coexist with ambition;gambling/trivia settlement is Aqua report. Garden watering,grasp,smiles and private reply retain dependent own agency without invented inner plan. Seller stock,terms,sale interest and cash transfer are finite;return request has no printed acceptance. No whole lifestyle or durable sales policy is supplied.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

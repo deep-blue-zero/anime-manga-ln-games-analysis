@@ -1901,3 +1901,10 @@ Maris and Selis earn separate compact profiles for consequential reported respon
 Zel’s own resistance,approach,quiet holding,pecks,sleeping proximity and crowing are retained as animal actions. The transition from early high-mana chick to observed grown bird with reported mana-to-level dosing is time-sensitive. The original seller separately earns a compact profile for Aqua-reported persuasion; later mail senders remain unresolved roles.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Duke earns a monograph and one provisional status/affiliation rule:the weak/interfering person,credited Vanir connection and retained military challenge change treatment. The distinct DUST05 Small encounter adds an explicit restraint rationale. Garden individual and magic seller receive compact profiles with their own responses/terms;no caretaker projection or ordinary sales role is padded into another model.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

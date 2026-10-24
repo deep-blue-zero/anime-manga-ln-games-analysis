@@ -1,0 +1,57 @@
+{
+  "schema": "konosuba.character-rule-inventory.v1",
+  "recorded_utc": "2026-10-24T15:05:47.710852+00:00",
+  "generation": "DUKE_EXPANDED_V1",
+  "subject": "Duke / デューク",
+  "existing_census_row": 75,
+  "scope_assessment_sha256": "651f24103660d41b3a20e57cd4070f18382cb6634abac563b0f55805b55f5afb",
+  "source_review_receiving_sha256": "1429397cdd704817acc20e5b2e756e3b070ae69e2315fa7c620a214aa7992d8c",
+  "model_draft_file": "DUKE_MODEL_DRAFT_01.md",
+  "model_draft_sha256": "9d6adbd97e22fa28b4992867ca5af9d3ebbe75e44ef5fbf9ba15f10ba1c926fd",
+  "monograph_draft_file": "DUKE_MONOGRAPH_DRAFT_01.md",
+  "monograph_draft_sha256": "0f85a23601ff503cc3f0bff41dd50f065002e15ab60421c74cd84bdcf70565e7",
+  "rules": [
+    {
+      "rule_id": "DK-R01",
+      "proposition": "Recognized standing and a credited Vanir connection can qualify coercion toward an apparently weak interlocutor while Duke retains the aim of his central challenge.",
+      "support": [
+        "MAIN13C3P357-363 intimidation then seating;P400-407 knife threat;P411-441 partial trust revision and acknowledged Vanir difficulty.",
+        "DUST05C1P395-406 distinct Small encounter:species recognition,suspected Vanir order,threat and explicit sparing because connection.",
+        "MAIN13FinalP341-342 polite noninterference request and retreat before Vanir."
+      ],
+      "contrary": [
+        "MAIN13C3P441 refuses to withdraw from Wiz matter even for Vanir.",
+        "Darkness noble identity alone does not constrain him;Small initially threatened despite suspected affiliation.",
+        "Dust cover acceptance does not expose whether Duke believes it."
+      ],
+      "rivals": [
+        "ordinary caution before much greater power",
+        "generic patronage/retaliation risk",
+        "task priority and face-saving",
+        "effect specific to Vanir rather than a general hierarchy"
+      ],
+      "applies_when": [
+        "Duke receives credible information about this interlocutor power and specific Vanir connection.",
+        "The actual demand/interference,core aim,available means and immediate danger are supplied."
+      ],
+      "do_not_assume": [
+        "Vanir issued an order or possesses an unprovided enforcement device.",
+        "Every noble name or unknown patron carries the same weight.",
+        "Affiliation automatically ends the core challenge.",
+        "Gratuitous violence,omniscient aura detection,shared private knowledge or sincere common goals."
+      ],
+      "confidence": "Moderate local direction;explicit Small rationale and distinct recipients matter. Distinctive cause,affiliation-only threshold and unfamiliar transfer weak.",
+      "falsifier": "Repeated unqualified attack on a weak nonthreatening interlocutor whose Vanir connection Duke accepts,without overriding supplied danger/prohibition,or repeated automatic abandonment of his core aim merely on that connection,would weaken the respective treatment/retained-goal branch."
+    }
+  ],
+  "rule_count": 1,
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "exact_inputs_or_firsts_serialized": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

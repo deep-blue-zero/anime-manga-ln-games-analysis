@@ -1371,3 +1371,10 @@ Keith’s and Dust’s taunts are attributed sexual/religious harassment, not ve
 The seller’s reported heroic-recognition and caretaker framing has a real resource consequence: Aqua says she paid all available money. Exploitation is a serious interpretation without verified private knowledge or an invented uniform merchant psychology. Threats to eat or punish and future military instructions do not become completed harm,animal agreement or battlefield action.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Duke military warning precedes Wiz protective escalation. MAIN15attributes receipt but says Axel was already targeted;Duke is not sole cause. Surrender,renewed ritual,purification and later survival appeal are separate changes. Plant burning is attempted and stopped;food appraisal causes fear without eating. Merchant payment is real,and requesting refund does not fix Megumin paralysis or supply seller acceptance.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

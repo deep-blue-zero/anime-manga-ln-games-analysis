@@ -1494,3 +1494,10 @@ MAIN07’s two anecdotes are embedded in Kazuma’s guesses about Eris’s terre
 Kazuma is outside during the MAIN08 hatch,then hears Aqua/Vanir’s reports and sees the chick. Imprinting,parent recognition,friendship and fraud motives remain his explanations at their actual times. CONTEXP01 feeding is in Megumin’s narration; MAIN16I1 is Aqua’s. The creator’s unnamed high-level chicken is another evidential plane,not a watched personal battle.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Kazuma lip-reading can accurately receive words while paraphrasing them under a false courtship frame. Wiz reported approach/years and later invented flattering quotes retain attribution. MAIN15missing/received-report andMAIN17Kazuma death recollection are later planes;the gatekeeper is another figure. He accurately hears plant speech but overextends morality;his publicity and refund appraisals do not identify unnamed actors.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

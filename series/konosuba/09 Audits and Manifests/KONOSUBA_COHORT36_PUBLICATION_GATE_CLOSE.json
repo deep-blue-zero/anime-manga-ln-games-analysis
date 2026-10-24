@@ -1,0 +1,204 @@
+{
+  "schema": "konosuba.cohort36.exact-source-author-publication-gate.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-24T14:27:46.569867+00:00",
+  "gate_scope": "Author publication tranche:ordinary continuing-source push,ready PR and full passing exact-source audit. Protected-main integration/post-integration checks remain separately owned.",
+  "actual_source_commit": "b264fb26b64cf94d2281981779c26f2f3d21ecb8",
+  "tree": "d7308228e73804b384b162d1ea6655b12a23e114",
+  "source_parent": "4491664acee5ad901620d795acf0812f86e5747c",
+  "previous_published_source": "4491664acee5ad901620d795acf0812f86e5747c",
+  "publication_main": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "main_observed_at_close": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "pull_request": {
+    "number": 298,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/298",
+    "state": "open",
+    "merged": false,
+    "head": "b264fb26b64cf94d2281981779c26f2f3d21ecb8",
+    "ready": true,
+    "labels": []
+  },
+  "author_preflight": {
+    "file": "COHORT36_AUTHOR_PREFLIGHT_VERIFIED_01.json",
+    "sha256": "15c76f451700694adce7df47f38b7fc8a2fe7ab4e3364f0019c66c4da56ad035",
+    "paths": 9761,
+    "project_paths": 1424
+  },
+  "remote_readback": {
+    "file": "COHORT36_REMOTE_READBACK_VERIFIED_01.json",
+    "sha256": "5f709525cb7ae70d7f3c54e50d2ff1e11faceafbfcd09e302f754f6ec2532ddc",
+    "all9761_files_and27_changed_streams_exact": true
+  },
+  "source_audit": {
+    "file": "C36_SOURCE_AUDIT_VERIFIED_01.json",
+    "sha256": "eeb8fd81a5bccd7e4eaf2f41b330b286266382491c4c525e64a9ce405d1e58cb",
+    "run": 40102047304,
+    "job": 120896034284,
+    "reporter_job": 120897099396,
+    "actual_source": "b264fb26b64cf94d2281981779c26f2f3d21ecb8",
+    "full_discovered_tests": 459,
+    "all_five_non_success_categories_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/b264fb26b64cf94d2281981779c26f2f3d21ecb8",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57166357100,
+      "node_id": "SC_kwDOUJ9ads8AAAANT2FibA",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40102047304",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-24T14:25:22Z",
+      "updated_at": "2026-10-24T14:25:22Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    }
+  },
+  "housekeeping": {
+    "status": "NOT_REQUIRED_WHEN_ROUTING_ALREADY_MATERIALIZED_UNDER_CURRENT_POLICY",
+    "run": null,
+    "execution_credit": false
+  },
+  "post_integration_main_audit": {
+    "status": "NOT_CERTIFIED_BY_THIS_AUTHOR_TRANCHE_GATE",
+    "run": null,
+    "execution_credit": false
+  },
+  "author_publication_tranche_complete": true,
+  "overall_git_integration_transaction_closed": false,
+  "authority_reload": {
+    "file": "COHORT36_POST_GATE_PUBLISHED_AUTHORITY_RELOAD.json",
+    "bytes": 355855,
+    "sha256": "232af4675ed9a9d7827de213edb4cf5e00196544dc69d7848e88c3391c6a3e90"
+  },
+  "current55_models_exact": true,
+  "new_scope": {
+    "schema": "konosuba.cohort36.scope-assessment.v1",
+    "assessed_utc": "2026-10-24T14:00:30.861934+00:00",
+    "subjects": [
+      {
+        "row": 59,
+        "subject": "Zel / Emperor Zel",
+        "tier": 1,
+        "artifact": "Compact profile in existing coverage audit",
+        "basis": "A named nonhuman agent with directly narrated resistance to handling,approach to Vanir,quiet holding,pecks,startle-linked reaction,curling/sleep,proximity to Chomusuke,later crowing and growth. These actions and changing care relationships deserve individual treatment.",
+        "Tier2_alternative": "The longitudinal development story is substantial in its effects on the household. However,much explanatory variety consists of other people’s purchase,training,dragon and combat projections. The bird’s discriminating behavior remains a small set of locally observed ordinary responses plus mediated reports; a substantial independently motivated interpretation would mostly repeat these or populate dimensions with unsupported human intentions.",
+        "Tier3_alternative": "Warmth,early attachment,food-seeking,startle and ordinary chick/rooster behavior remain serious generic rivals. Imprinting is Kazuma’s explanation,not an isolated causal test. No differentiated falsifiable individual generator across changed incentives is identified.",
+        "limits": "No permanent animal/secondary ceiling or requirement of verbal interiority. Stronger nonverbal choice evidence could support later depth. Handler dragon beliefs,decoded clucks and future battle promises do not substitute for it."
+      },
+      {
+        "row": 149,
+        "subject": "Unnamed original dragon-egg seller",
+        "tier": 1,
+        "artifact": "Separate compact reported-actor profile in existing coverage audit",
+        "basis": "Aqua reports specific sales framing,chosen heroic-adventurer audience,dragon-familiar need,all-her-money price and working-caretaker justification at MAIN07U012P153/P162: a consequential attributed choice sequence.",
+        "Tier2_alternative": "One retrospectively reported exchange supplies no own perspective,wider conduct or response to contrary conditions. A monograph would overextend this narrow source.",
+        "Tier3_alternative": "Persuasion for profit is plausible; exact motive and knowledge remain unavailable. One mediated exchange does not identify a stable individual policy rather than ordinary sales framing.",
+        "limits": "Keep Aqua’s report separate from Kazuma’s fraud/wealth inference. No name,verified knowing fraud,disjointness from later senders or identity with seed/weapon merchants is established."
+      }
+    ],
+    "indexed_records": [
+      {
+        "row": 332,
+        "subject": "Reported dragon-egg marketing sender(s) (MAIN09)",
+        "tier": 0,
+        "reason": "Aqua reports repeated letters and quotes sales wording without naming or enumerating senders. Preserve a role/occurrence index; no individual profile or original-seller join. Kazuma’s separate opened letter is from Iris."
+      }
+    ],
+    "changed_entering_rows": [
+      59,
+      149
+    ],
+    "untouched_entering_rows": 330,
+    "new_rows": [
+      332
+    ],
+    "planned_totals": {
+      "models": 55,
+      "scoped_secondary_model_subjects": 49,
+      "bounded_profiles": 85,
+      "monograph_only_subjects": 27,
+      "nonfinal_records": 333,
+      "new_compact_profiles": 2,
+      "new_monographs": 0,
+      "new_models": 0,
+      "new_rules": 0,
+      "new_inputs": 0,
+      "new_original_firsts": 0,
+      "new_dependent_pairs": 0,
+      "new_Tier0_records": 1
+    },
+    "no_new_model_or_diagnostic_reason": "Observed animal responses and the narrowly reported seller exchange earn compact profiles without a differentiated individual causal generator. No padded models or manufactured diagnostics. Existing final batteries and six distinct original Stage D successors remain owed.",
+    "actual_native_receiving_sha256": "e2a0c60aa2a0cfb76889f098890acce0be21eaccf240eedd6ef205303985d5b3",
+    "criteria": "User tiers applied by contextual diversity,observational quality,identifiability,counterevidence and falsification opportunities. No appearance,word-count,animal or historical-secondary ceiling.",
+    "scope_is_current_bounded_candidate": true,
+    "canonical_changes": false,
+    "full_program_complete": false
+  },
+  "scope_qualification": "Two compact profiles and one new Tier0 reported marketing role; no new monograph,model,rule,input or first output. Frozen pre-adoption flags remain dated facts. Possible unnamed-role overlaps remain open.",
+  "actual_received_artifact_scope": {
+    "models": 55,
+    "scoped_secondary_model_subjects": 49,
+    "bounded_profiles": 85,
+    "monograph_only_subjects": 27,
+    "nonfinal_records": 333,
+    "new_compact_profiles": 2,
+    "new_monographs": 0,
+    "new_models": 0,
+    "new_rules": 0,
+    "new_inputs": 0,
+    "new_original_firsts": 0,
+    "new_dependent_pairs": 0,
+    "new_Tier0_records": 1,
+    "new_records": 1,
+    "new_Tier1_records": 0,
+    "new_Tier0_dispositions": 1
+  },
+  "current_totals": {
+    "models": 55,
+    "scoped_secondary_model_subjects": 49,
+    "bounded_profiles": 85,
+    "monograph_only_subjects": 27,
+    "nonfinal_records": 333,
+    "new_compact_profiles": 2,
+    "new_monographs": 0,
+    "new_models": 0,
+    "new_rules": 0,
+    "new_inputs": 0,
+    "new_original_firsts": 0,
+    "new_dependent_pairs": 0,
+    "new_Tier0_records": 1
+  },
+  "source_known_same_root_author": true,
+  "actual_original_firsts": 0,
+  "actual_dependent_pairs": 0,
+  "earlier_original_outputs_and_defects_preserved": true,
+  "final_nine_category_battery_complete": false,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}

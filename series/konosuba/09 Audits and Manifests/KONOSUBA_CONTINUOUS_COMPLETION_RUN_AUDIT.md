@@ -1901,3 +1901,15 @@ Cohort 35 source `4491664acee5ad901620d795acf0812f86e5747c` and tree `fbc6a0eb5f
 ## Cohort36 semantic receiving — 2026-10-24T14:05:41.973035+00:00
 
 Ten reviewed private foundation artifacts include two exact public cores and the two-profile fragment. One Tier0 reported marketing role appends. Candidate totals:55models/49scoped secondary model subjects/85profiles/27monograph-only/333nonfinal records. Two entering rows change,330 remain exact per plane; nineteen older differences remain separate. Actual2382P/2389ruby,40members/13knownobjects,8full members/32bounded,63displays,2knownimage rechecks and206874derivative characters/26displays earn no new whole-source or independent credit. All55 models and earlier originals remain exact. Ten C35 closing paths are carried; its full459audit does not certify this candidate. Exact-index preflight,ordinary publication,full remote readback and own full source audit/status/reload remain due. Full program continues.
+
+
+## Cohort36 exact-source author gate closed — 2026-10-24T14:28:33.928596+00:00
+
+Cohort36 source `b264fb26b64cf94d2281981779c26f2f3d21ecb8` and tree `d7308228e73804b384b162d1ea6655b12a23e114` close the author tranche. Audit40102047304:459/459tests,all five non-success categories zero. Reporter/latest status,9761remote bindings/27changed files and1424project-path reload verified. Totals55models/49scoped secondary model subjects/85profiles/27monograph-only/333nonfinal records. Three publication-status rows change;330others exact per plane. No new model or diagnostic. Animal/source-time/identity qualifications,failed preflight,eleven frozen private artifacts,WORK107/108 and all prior originals remain preserved. Full program and separately owned protected integration remain open.
+
+[Gate receipt](KONOSUBA_COHORT36_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort37 semantic receiving — 2026-10-24T15:26:24.755654+00:00
+
+Nine public cores,22private artifacts,10supporting records and4original body/receipt pairs are frozen. Duke one-rule model/monograph,two compact profiles and9sparse records yield56models50scoped87profiles27monograph-only342nonfinal records. Three entering rows change,330others exact per plane;19older differences and garden forest-route support retained. Actual2128P/1965ruby15members7knownEPUBs49displays4images;452129derivative characters61displays. DUST05Small encounter distinct;later death/targeting and plant/seller modalities qualified. Four firsts/two dependent pairs preserve shelving defect,body-compliance/causal-isolation distinction and generic/cueing rivals. Ten C36closing paths carried;its audit does not certify this candidate. Accepted main merged ordinarily;exact preflight,publication,remote readback and own full audit/status/reload due. Full program continues.
