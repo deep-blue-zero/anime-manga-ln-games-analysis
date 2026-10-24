@@ -109,14 +109,42 @@ Record the AV object: identity, bytes, hash, duration, resolution, frame rate, a
 Declare one citation clock, normally the episode bundle's timeline, and cite every observation against it with the nearest cue ID or frame filename.
 
 1. Identify known offsets. Streaming pre-rolls, intro cards, or trimmed derivatives shift timelines. A bundle may exclude a pre-roll from its frames while its complete audio keeps the source timeline; record both values.
-2. Check alignment at no fewer than three subtitle cues spread across the object (beginning, middle, end). Record the offset and any drift.
-3. Never cite a timestamp reported by the model without this calibration. If the offset cannot be held within the series tolerance (default ±0.5 s), stop.
+2. Align the AV object to the citation clock with anchors, preferring, in order:
+   1. verified subtitle or dialogue cues;
+   2. distinctive audiovisual events identifiable in both objects, such as a hard cut, a flash, or an impact;
+   3. verified audio-event timestamps or waveform features, such as a song's first downbeat or a distinctive sound onset;
+   4. frame or shot-index and presentation-time metadata;
+   5. other independently documented timing references.
+
+   Use several anchors spread across the object. For a full episode the normal target is three or more, spread across beginning, middle, and end. A short or sparse object (a music video, a concert segment, a clip, an instrumental or nearly wordless sequence) needs enough independent anchors for the precision its claims require; record which anchors were used and the resulting limitation. Few subtitles is a reason to use other anchors, not to accept a weaker alignment.
+3. Record the offset, any drift, the anchors used, and the precision achieved.
+4. Never cite a timestamp reported by the model without calibration. If no reliable mapping can be established, leave precise cross-object timing claims unresolved, and continue only with claims whose accuracy does not depend on the alignment, such as the order of events within one object or observations located by their content.
+
+### Precision adequate to the claim
+
+| Claim | Precision required |
+|---|---|
+| Scene or sequence location | Coarse alignment; the default tolerance is ample |
+| Relative order of events | Alignment finer than the gap between the events |
+| Approximate timing of gesture, speech, or music | The default tolerance, with the timing stated as approximate |
+| Subsecond synchronization, such as a cut landing on a beat | Precision finer than the asserted offset, from a route that resolves it: frame-level inspection or measurement |
+| Frame-accurate or sample-accurate values | Deterministic measurement (`AM`) on the source, not model perception |
+
+The default tolerance (±0.5 s unless the series sets another) is a baseline for ordinary episode navigation. It never authorizes a finer-grained claim.
 
 ## 6. Capability probe and sampling rate
 
 Before analysis, confirm that the session perceives picture and sound together. A short probe works: describe the lip movement and an audible sound onset at a known cue. Record the result in the execution profile.
 
-Record the effective visual sampling rate when it is known. Some AV models sample video at a reduced rate (on some surfaces, around one frame per second by default) while hearing audio continuously. Claims about events shorter than the sampling interval (a fast cut sequence, a flicker of expression, a smear frame) need a higher-rate inspection, a targeted clip, or `AM`.
+Record the effective visual sampling rate when it is known, and `UNKNOWN` when it cannot be established. Some AV models sample video at a reduced rate while hearing audio continuously (on some surfaces, around one frame per second by default at the time of writing). Defaults differ by product and change over time; verify the rate rather than assume one.
+
+A session may hold `CONTINUOUS_AV` capability while lacking sufficient visual temporal resolution for a particular claim. Capability verification is necessary but not sufficient for fine-grained visual or synchronization assertions. Therefore:
+
+- do not claim motion or change inside an interval shorter than the effective sampling interval; a fast cut sequence, a flicker of expression, or a smear frame may fall between samples;
+- when the rate is `UNKNOWN`, treat sub-second visual claims as unresolved until independently verified;
+- for a load-bearing rapid visual event, use a higher-resolution inspection of a targeted clip, frame-level inspection of the bundle or source, or a measurement (`AM`);
+- continuous audio does not compensate for missing visual samples: hearing an impact does not show the frame it lands on;
+- if no available route resolves the event, the claim stays `OPEN`.
 
 If the session cannot perceive the audio, it is not a `CONTINUOUS_AV` session; record the actual route.
 
@@ -253,7 +281,7 @@ Close the analysis by stating what the continuous evidence established that a re
 
 ## 21. Path claims and their resolution
 
-Continuous inspection can establish the path between endpoints that sampled frames cannot (bundle specification Section 8.7), but only at the resolution actually perceived. A path claim records its interval and the effective sampling rate.
+Continuous inspection can establish the path between endpoints that sampled frames cannot (bundle specification Section 8.7), but only at the resolution actually perceived. A path claim records its interval and the effective sampling rate. With an `UNKNOWN` rate, a sub-second path claim is unresolved until verified (Section 6).
 
 ## 22. Corroboration
 
