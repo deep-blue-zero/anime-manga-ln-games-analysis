@@ -94,6 +94,8 @@ Projects may keep their own vocabularies. A generic set:
 
 Each observation in the evidence ledger records its locator, the situation type (ordinary or crisis), the interlocutor or audience, the character's state at the time, and the source-language status of any quoted speech.
 
+Where the source nests fictional frames (a game within the game, a performed role, a dream, a hypothetical), the observation also records its narrative frame and how the depicted figure corresponds to the subject. Evidence from an alternate frame enters the model only as conditional characterization labeled with its premise. It never supplies biography or relationship history without independent support in the subject's own continuity ([generic game method](GENERIC_GAME_ANALYTICAL_METHOD.md), Section 20). A cross-scenario prediction that rests on it states that premise in its scenario contract (Section 12).
+
 ## 5. Interiority access
 
 State, per character and medium, how the source gives access to the inner life:

@@ -229,6 +229,7 @@ Content in a game can be conditional on many dimensions. Identify those the sour
 | Variant | Cards, costumes, alternate versions, seasonal or collaboration editions of one character |
 | Context class | Ordinary continuity, alternate-world or special events, April Fools, collaborations |
 | Parallel continuity or era | Separate story structures, timelines, or game generations |
+| Narrative frame | A game within the game, a performed play or film, a dream, a hypothetical, a simulation (Section 20) |
 | Manifestation or persona | One entity appearing in several forms, or under several public identities |
 | Operational context | Disguise, mission role, combat condition, tactical secrecy |
 
@@ -263,8 +264,9 @@ Rules:
 - What is true on one route is not true on another until shown.
 - Never infer a branch's meaning from a label or file-name suffix such as "true", "normal", "bad", or a number; it may mark a result grade, a terminal failure, a world-state branch (one that changes shared facts), or a runtime composition fragment. Establish which from the source.
 - A "true"-labeled route is a labeled branch, not the sole canon, unless the source says so.
-- Results from mutually exclusive branches are each valid only inside their branch. Never average them.
-- A trait that recurs across mutually exclusive branches is an invariant and earns higher confidence than a trait found on one branch only.
+- Results from mutually exclusive branches are each valid only inside their branch. Never average them, and never union them into one history.
+- A trait that recurs across mutually exclusive branches is an invariant of that branch family and earns higher confidence than a trait found on one branch only. Two limits apply. It is invariant within the observed branch family or narrative frame, not automatically across other frames or the mainline continuity. And recurrence counts only between independent branches: the same line, scene, or asset reused across branches (shared scripts, common pre-branch text, duplicated content) is one observation, not corroboration.
+- Establish route structure (which choice leads where) from native data or verified play. A fan-reconstructed route map is a research proxy (Section 13).
 - Branch-conditioned possibility is not biography. For each branch record whether its content is safe to use in a character's biography: yes, conditionally, invariants only, or no. Write branch-scoped prose explicitly ("in the failure branch…").
 - A variant's behavior does not define the base character. A seasonal card's story is evidence about that variant in that context.
 - Unlock-gated material does not define every state of a relationship; a high-rank bond line describes that rank.
@@ -289,9 +291,57 @@ The player character is a designed position, often deliberately underdetermined;
 
 Where the game marks a canonical path, or later content presupposes one choice, record that as a source fact, with its locator.
 
-## 20. Parallel continuities
+## 20. Parallel continuities and nested narrative frames
 
 Keep an independent source frontier, semantic horizon, state horizon, and completion state for each continuity or era. A later continuity may open only through a transition decision recorded in the entrypoint. A connection found later between continuities is retrospective evidence, recorded as a typed bridge; it does not alter a completed continuity's frozen account.
+
+### Nested narrative frames
+
+A branch and a narrative frame are different things. Games often embed fictions inside their story: a game the characters play, a play or film they perform, a dream, a hypothetical, a simulation, a story one character tells. Inside such a frame, a participant can have a different identity from the character outside it. Keep five questions apart:
+
+| Concept | Question |
+|---|---|
+| Narrative frame | In which fictional world or narrative level does this event occur? |
+| Branch or route | Which conditional path within that frame? |
+| Depicted-role identity | Who is this participant within the depicted narrative? |
+| Canonical-character correspondence | How, and with what confidence, does the depicted figure relate to an established character in another frame? |
+| Player-controlled identity | Whom is the player actually controlling in the frame currently shown? |
+
+Where a source nests frames, extend `state_scope` with an optional record; ordinary single-frame dialogue needs none:
+
+```yaml
+frame_identity:
+  narrative_frame_id: <frame ID; MAINLINE for ordinary continuity>
+  parent_frame_id: <enclosing frame, or null>
+  frame_kind: EMBEDDED_GAME | PERFORMANCE | DREAM | HYPOTHETICAL | SIMULATION | NARRATED_STORY | OTHER
+  depicted_role_identity: <the role as the frame names it>
+  canonical_character_correspondence: <character ID, or none>
+  correspondence_type: SAME_PERSON | PLAYS_ROLE | ANALOGUE | UNRELATED | UNRESOLVED
+  player_controlled_identity: <who is controlled in this frame, or none>
+```
+
+Never assume that the protagonist of an embedded game, simulation, or story is the person playing, running, or imagining it. If an established character plays a romance simulator inside the story, the simulator's protagonist may be a student or office worker with a biography of their own; the player controls that protagonist, and the simulator's romantic outcomes are facts inside the simulator, not about the established character's relationships. A character performing a role is cast in it; the role's biography is not theirs.
+
+**Evidence transfer.** Evidence from an alternate frame reaches a mainline character model only as follows:
+
+| Evidence | Use in a mainline model |
+|---|---|
+| Facts established inside the frame: its events, relationships, outcomes | None. They are true only inside the frame |
+| Facts established by the enclosing narrative: who plays, writes, performs, or dreams the frame, and how they react to it in and out of role | Ordinary mainline evidence |
+| Conditional characterization where the figure is the same person under a premise (a dream, a hypothetical, an established character playing as themselves) | Conditional evidence, labeled with its frame and premise, at lower confidence; corroborate in the mainline before load-bearing use |
+| Premise-dependent behavior: what the role, script, or the embedded work's genre requires | None; it does not generalize |
+| Biography, relationship, and history claims | Never from frame evidence alone; they need independent mainline support |
+
+Applied to common cases:
+
+| Case | Treatment |
+|---|---|
+| An established player character chooses different dialogue in ordinary continuity | One frame (`MAINLINE`); the choices are branches under Section 19 |
+| An embedded game whose protagonist has a different biography | A new frame; the player controls the embedded protagonist (`UNRELATED` to the player character); outcomes stay inside the frame |
+| One character portrayed in several fictional roles | Each role is a frame-scoped depicted identity (`PLAYS_ROLE`); what recurs across roles may be performance style, not biography |
+| A dream or hypothetical episode | A frame (`DREAM` or `HYPOTHETICAL`), usually `SAME_PERSON`; it is conditional evidence about wishes or fears as framed, not about events |
+| The same dialogue shared by several alternative endings | One shared source counted once; it is not corroboration across branches |
+| The same behavior in genuinely independent branches | An invariant of that branch family, at higher confidence within it; extending it beyond that frame needs mainline support |
 
 ---
 
@@ -529,7 +579,8 @@ Also compare a reading from a fan transcript with one from native data for the s
 15. **Never average mutually exclusive branches.**
 16. **A file name or label is not a meaning.**
 17. **Contradictions are recorded, not harmonized.**
-18. **Counterevidence belongs inside the analysis.**
+18. **An embedded fiction's protagonist is not the person playing it, and a role is not a biography.**
+19. **Counterevidence belongs inside the analysis.**
 
 ---
 
