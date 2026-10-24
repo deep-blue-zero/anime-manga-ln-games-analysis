@@ -1752,3 +1752,152 @@ Source `bb4de2bd0c6dfad9d4134f73ac9312339d02cb08` / tree `7adba31479a90fd5c49f69
 One Sylvia Tier2 monograph and three consolidated Tier1 profiles (chief,Moguninnin,MASK courier) are semantically received. No new model,rule,input,first body or pair; all33models/27scoped secondary model subjects remain unchanged. Candidate30profiles/10monograph-only subjects/223nonfinal records; three entering rows change,216others exact and four new occurrence records are not four proved people.35complete known-source windows bind2122BASE slots/19members/9native text objects; no fresh whole-source,ruby,residual,image-set,admission or independent credit. Sylvia information updates coexist with coercion and revenge; chief agency is not daughter/institution proxy; machine original policy competes with attributed Serena interference; courier reports remain distinct from full watched fights. Earlier cores/firsts,scores,prospective missingness and80unrelated scratch files are preserved. Exact containing publication is pending. C24 full447-test gate remains exact at BB4; its reviewed seven later progress paths are carried. Five current-table stale publication labels are corrected from existing closed-gate receipts,with no semantic-core rewrite. Full census,earned artifacts,seven expanded specialists,extended/full-series synthesis,six distinct StageD successors and designated closure work continue; percentage null.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md).
+
+
+## Cohort25 full publication gate closed — 2026-10-23T20:45:09.778022+00:00
+
+Certified source `8330092eb4ad1c76bd9b4930180652ab47d47c3c` and integrated main `5aabc6aee871d3292bc22c14c152c6bd3400a0a7` share tree `14b9962773ef9560b98bf7d9530f6077435bbe61`. Source audit 39866466186 and post-integration main audit 39867325429 each executed all450discovered tests with all five non-success categories zero; terminal isolated reporters and latest exact-source statuses passed. Under the current owner-revised publication rules,the source push is directly certified when routing is already materialized. No separate housekeeping or repository_dispatch execution is invented,and absent selection metadata is not fabricated as false. The initial444source's failed458-test run remains historical. Remote readback matched all9,485paths;137owner-reconciliation changed paths equal accepted main and127unique changed remote blobs matched. All1,243KonoSuba files equal the original reviewed author source,including its24authored/carried project paths. Fresh project bytes,33models,and published-source/current-main control pins were reacquired. Sylvia has one scoped Tier2 monograph only; current village chief,Moguninnin and an unnamed MASK courier have three compact Tier1 profiles in the existing coverage audit.33models/27scoped secondary model subjects,30bounded profiles,ten monograph-only subjects and223qualified records remain nonfinal. No new model,rule,input,first body,paired hypothetical,evaluator grade,readiness classification,independent accuracy or confidence gain. Thirty-five complete known-source windows bind2,122BASE context slots/19text members/9native text objects,including blanks,other actors and rejected joins. No new whole-source/ruby/residual/image-set/admission or independent reading credit. Sylvia revises some threat beliefs but incurs repeated feint and retaliation errors; reciprocity does not erase coercion. Generic strategic,affective and instrumental rivals remain unseparated. Chief acts remain distinct from daughter/institution reports and unproved office transfer. Machine own acts remain distinct from Kazuma hypotheses and attributed later Serena interference; unknown maker and unobserved data receipt stay open. Courier operational initiative and fear do not establish broad courage or a named identity. Seven scoped rows change publication status;216others remain exact. Three group/reported-role dispositions and one compact courier profile are not four proved new people. Earlier cores/firsts,four scores,prospective missingness and eighty unrelated scratch files remain preserved. Publication incorporated main `d9e94eb6452e1ee329a3cf95e13033766dddbc71`; current local base `297bc0d05040a24facbeb5440481b9c604de5568` contains the certified source with identical project bytes. Fresh main reconciliation remains due before the next push if drifted. Full individual/event/alias/incidental census,earned artifacts,seven expanded specialists,extended/full-series synthesis,six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; percentage null.
+
+[Gate](KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_COHORT25_PUBLICATION_GATE_CLOSE.json). Seven later progress paths remain unpublished until the next governed revision.
+
+
+## Cohort26 semantic receiving — 2026-10-23T21:55:59.322577+00:00
+
+Aigis adds a scoped Tier3 monograph and separate provisional three-rule generator. Three contest/flower individuals have consolidated Tier1 profiles; five lower-density roles/groups/reports have Tier0 indexing. Candidate34models/28scoped secondary model subjects,33bounded profiles,ten monograph-only subjects and231nonfinal records remain revisable. Only entering row58 changes;222others retain their own histories. Eight new records do not prove eight unique people.28known complete windows bind1427BASE slots/11members/3local EPUBs,without new whole-source,ruby,residual,image-set,admission or independent credit. Six exact prompts and six original responses in three dependent pairs follow foundation/input freezes and precede receiving. Same informed root authored all stages; no external responder,blind accuracy,evaluator grade or confidence gain. Cosmetic/temporal embellishments and blame displacement are retained with strong generic rivals; no regeneration or feedback repair. Earlier33models,cores,firsts,four scores,Dust14blanks,SI/SY28nulls and80unrelated scratch files remain exact. C25 semantic closure and its separately published a907 closing records remain certified by their own450/459-test audits. Current C26 exact publication is pending; full census,specialists,synthesis,six StageD successors and designated global/integration/release/final-entry work continue; percentage null.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md).
+
+
+## Cohort26 full exact-source author gate closed — 2026-10-23T22:21:59.963197+00:00
+
+Cohort26 source `27dc73f0948e41dfcb49aa9eb014fc657cc81d00` and tree `0217a4e5106938caa566115f80361f4e41ab7882` close the exact-source author publication tranche. Audit 40031152155 executed all459discovered tests with all five non-success categories zero; isolated reporter/latest trusted status and full9,569-path/26-stream remote readback were verified.34models/28scoped secondary subjects,33profiles,ten monograph-only subjects and231nonfinal records remain provisional. Aigis three rules/six original informed firsts/three dependent pairs give no independent accuracy,grade or confidence gain; all defects and earlier evidence remain exact. Nine scoped status rows change;222other canonical/private rows retain their histories. Full program and separately owned protected integration remain open. No separate housekeeping/dispatch execution is invented.
+
+
+## Census row storage transition and C26 closure records — 2026-10-23T22:29:10.568729+00:00
+
+The existing structured-census path becomes one authoritative manifest with three ordered row files. All 231 canonical rows, their order, metadata and histories are preserved. Restoring the original schema and root order with the concatenated rows reproduces the complete 1,032,255-byte input. Each component stays below the repository’s 1 MiB review threshold.
+
+Stable part numbers keep payload paths unchanged as the last part grows. These storage boundaries impose no analytical tier or quota. Canonical and private histories remain separate, and WORK88 is unchanged. This revision carries the seven C26 closing records; its full 459-test author gate certifies source `27dc73f0948e41dfcb49aa9eb014fc657cc81d00`.
+
+The storage change adds no source reading, model, rule, first response, independent accuracy, capability grade or confidence gain. The full program and separately owned protected integration remain open.
+
+
+## Cohort 27 semantic receiving — 2026-10-24T01:01:02.909360+00:00
+
+Beldia, Hans and Serena add separate scoped Tier 3 monographs and provisional 3/3/4-rule generators. Aloerina, Lolierina and the distinct DUST07 commander receive Tier 2 monographs; Sedol, Hains and Garil receive Tier 1 compact profiles. Candidate 37 models / 31 scoped secondary model subjects, 36 bounded profiles, 13 monograph-only subjects and 236 nonfinal records remain revisable. Four entering rows change, 227 others retain their own histories; five new records do not prove five unique people. 195 known complete windows bind 9685 BASE slots/68 members / 29 local EPUBs without new whole-source, ruby, residual, image-set, admission or independent credit. Eighteen exact inputs and actual original firsts in nine dependent pairs follow foundation/input freezes and precede receiving. The same informed root authored all stages, with all contrasts visible; no blind accuracy, evaluator grade or confidence gain. Unsupported states, overstated agency, audit-language leakage and strong generic rivals remain explicit without regeneration or feedback repair. SE-R02 lacks a dedicated isolated pair; no final nine-category maturity is claimed. Earlier 34 models, originals, four scores, Dust’s 14 blank fields, SI/SY’s 28 null fields and 80 unrelated scratch files remain exact. Cohort 26 and the storage transition retain their earlier exact-source author gates at 27dc / audit 40031152155 and 85aae / audit 40035191128. Fresh main 6a3afaaf was merged ordinarily before this tranche. Current C27 publication is pending; protected-main integration, full census, seven specialist expansions, extended synthesis, six StageD successors and designated global/integration/release/final-entry work remain open; percentage null.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md).
+
+
+## Cohort 27 exact-source author gate closed — 2026-10-24T01:15:30.394628+00:00
+
+Cohort 27 source `b7a698ec8b8567012eab945d5c96756e27c67f99` and tree `7bdc074beee89f2b1c0dca2ef3f5c454e3ee1f83` close the exact-source author publication tranche. Audit 40048307237 executed all 459 discovered tests with all five non-success categories zero; the isolated reporter, latest trusted status, all 9,596 remote file bindings and 43 changed byte streams were verified. The 37 models, 31 scoped secondary model subjects, 36 profiles, 13 monograph-only subjects and 236 nonfinal records remain scoped. Eighteen known-source same-root firsts form nine dependent pairs; no independent accuracy, grade or confidence gain. All defects and earlier evidence remain exact. Nine scoped status rows change; 227 canonical/private rows retain their histories. Full program and separately owned protected integration remain open.
+
+
+## Cohort 28 semantic receiving — 2026-10-24T02:34:13.712112+00:00
+
+Cohort 28 receives four provisional models/ten monographs, ten compact profiles and fifteen Tier 0 indexes. Candidate 41 models/35 scoped secondary model subjects, 46 profiles, 19 monograph-only subjects and 264 nonfinal records remain revisable. Seven entering rows change, 229 others exact; 28 new records are not a person denominator. 89 complete known windows/12655 BASE/43 members/18 EPUB objects/24 complete BASE members cover all 560 routed hit paragraphs without new whole-source/ruby/residual/image-set/admission or independent credit. 24 original firsts/12 dependent pairs retain MX-H02 nonisolation/strike-to-kill error, IG-H02 unsupported partition, strong generic/cueing and analytic-prose limitations without regeneration or repair. All 37 entering models and historical scores/blanks/nulls/scratch remain exact. Cohort 27 closed gate and its ten progress records are carried. Current exact publication is pending; full census, specialists, synthesis, six Stage D successors, designated global/integration/release/final entry remain open; percentage null.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md).
+
+
+## Cohort 28 exact-source author gate closed — 2026-10-24T02:55:05.894431+00:00
+
+Cohort 28 source `068a950a967d9fcf7a5f15bceaa317a48380ec30` and tree `9ca1a6ad407c3f239e7696a695bba422824224cc` close the exact-source author publication tranche. Audit 40055608877 executed all 459 discovered tests with all five non-success categories zero. Reporter, latest trusted status, all 9,627 remote file bindings and 53 changed byte streams were verified; all 1,309 project paths reloaded exactly. Totals remain 41 models/35 scoped secondary model subjects, 46 profiles, 19 monograph-only subjects and 264 nonfinal records. Twenty-four original informed firsts/twelve dependent pairs retain all failures without repair or independent accuracy/grade/confidence gain. Thirty-five scoped publication-status rows change; 229 other histories remain exact. Full program and separately owned protected integration remain open.
+
+[Gate receipt](KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort 29 semantic receiving — 2026-10-24T04:01:04.559905+00:00
+
+Cohort 29 receives two provisional four-rule models, three monographs, six compact profiles and one unresolved-group index. Candidate totals are 43 models, 37 scoped secondary model subjects, 52 profiles, 20 monograph-only subjects and 270 nonfinal records. Six old rows change; 258 others stay exact. Six new records are not a person denominator. The 68 complete known windows comprise 6,730 BASE slots across forty members in eighteen objects, with fourteen complete BASE members. No new whole-source, ruby, residual, image-set, admission or independent credit follows. Sixteen original firsts form eight dependent pairs and preserve defects, underidentified transfer, cueing and generic rivals without repair. Cohort 28 retains its closed gate and eleven closing records. Current exact publication is pending; all 41 entering models and earlier scores, blanks, nulls and scratch files remain exact. The full program remains active; percentage is null.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md).
+
+
+## Cohort 29 exact-source author gate closed — 2026-10-24T04:19:02.466690+00:00
+
+Cohort 29 source `f6297f384640a97edf0bbd31853699e6f632edea` and tree `abb5d944c89bb5054b623934964fb2522a546fbb` close the exact-source author publication tranche. Audit 40061340948 executed all 459 discovered tests with all five non-success categories zero. Reporter, latest trusted status, all 9,642 remote file bindings and 38 changed byte streams were verified; all 1,324 project paths reloaded exactly. Totals remain 43 models, 37 scoped secondary model subjects, 52 profiles, 20 monograph-only subjects and 270 nonfinal records. Sixteen original informed firsts/eight dependent pairs retain defects without repair or independent accuracy, grade or confidence gain. Ten scoped status rows change; 260 other histories remain exact. Full program and separately owned protected integration remain open.
+
+[Gate receipt](KONOSUBA_COHORT29_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort 30 semantic receiving — 2026-10-24T05:35:03.079134+00:00
+
+Cohort 30 receives three provisional four-rule models, five monographs, seven compact profiles and five occurrence indexes. Candidate totals: 46 models, 40 scoped secondary model subjects, 59 profiles, 22 monograph-only subjects and 282 nonfinal records. Five entering rows change and 265 others remain exact; twelve new source-bound records are not a person denominator. Thirty-three known native deliveries covering 3,707 BASE slots in 15 complete members from one object add no fresh whole-source, ruby, residual, image-set, admission or independent credit. Twenty-four original firsts in twelve dependent pairs preserve unprovided additions, overrides, cueing and generic rivals without repair. The C29 closed gate and nine closing records are carried. Current exact publication is pending; all 43 entering models and earlier histories/scores/blanks/nulls/scratch remain exact. The full program remains active; its completion percentage is null.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md).
+
+
+## Cohort 30 exact-source author gate closed — 2026-10-24T05:56:05.063055+00:00
+
+Cohort 30 source `681d9d058caabc38a26c56496c255677e2a2d616` and tree `36f40e0ce1b96d153a9b9386e66c748a44fbfa47` close the exact-source author publication tranche. Audit 40067718104 executed all 459 discovered tests with all five non-success categories zero. Reporter, latest trusted status, all 9,663 remote file bindings and 42 changed byte streams were verified; all 1,345 project paths reloaded exactly. Totals remain 46 models, 40 scoped secondary model subjects, 59 profiles, 22 monograph-only subjects and 282 nonfinal records. Twenty-four original informed firsts in twelve dependent pairs retain defects without repair or independent accuracy, grade or confidence gain. Seventeen scoped status rows change; 265 other histories remain exact. The full program and separately owned protected integration remain open.
+
+[Gate receipt](KONOSUBA_COHORT30_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort 31 semantic receiving — 2026-10-24T07:16:33.598838+00:00
+
+Cohort 31 receives five provisional models with 13 rules, seven monographs, seven compact profiles and four occurrence indexes. Candidate totals:51 models, 45 scoped secondary model subjects, 66 profiles, 24 monograph-only subjects, 295 nonfinal records. Seven entering rows change, 275 others/history stay exact per plane; 13 new records are not unique people.56 current native images/170 complete source-order replay notes/3 current derivatives add no new whole-source or independent credit.26 original firsts/13 dependent pairs retain source echo, unprovided additions, possibly overconscientious rendering, cueing and generic rivals without repair. C30 closed gate/nine closing records carried; all 46 entering models, earlier histories, scores, blanks, nulls and scratch remain exact. Current exact publication pending; full program active; percentage null.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md).
+
+
+## Cohort 31 exact-source author gate closed — 2026-10-24T08:00:50.914593+00:00
+
+Cohort 31 source `be0005b8599c08c9d8eb15ddbf453e68dfc12b49` and tree `57e93d3379599a2f1de2b27d6ad322e0a3002a69` close the exact-source author publication tranche. Audit 40074965468 executed all 459 discovered tests with all five non-success categories zero. Reporter, latest trusted status, all 9,694 remote file bindings and 53 changed byte streams were verified; all 1,376 project paths reloaded exactly. Totals remain 51 models, 45 scoped secondary model subjects, 66 profiles, 24 monograph-only subjects and 295 nonfinal records. Twenty-six original informed firsts in thirteen dependent pairs retain defects without repair or independent accuracy, grade or confidence gain. Twenty scoped publication-status rows change; 275 other histories remain exact in each census plane. Aggregate 37 adds no extra PC and population route 38 stays open. The full program and separately owned protected integration remain open.
+
+[Gate receipt](KONOSUBA_COHORT31_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort 32 semantic receiving — 2026-10-24T09:20:49.568045+00:00
+
+Source-known complete foundation/name review, separate exact-input freeze and six original first serializations precede bounded receiving. Four monographs/one provisional model/three rules, eight compact profiles and fifteen Tier 0 dispositions are proportionate to current evidence; no quota or permanent secondary ceiling. Candidate totals: 52 models,46 scoped secondary model subjects,74 profiles,27 monograph-only subjects,315 nonfinal records. Eight old rows change;287 others and nineteen older canonical/private history differences remain exact in their own planes. Twenty new roles/groups/reports are not twenty disjoint people. Current native recheck is 2,360 P/base/ruby slots, not independent observations or new whole-source/image admission. Six source-informed dependent firsts retain all identified assumptions and methodological voice. Ten C31 closing paths carry its exact-source audit/gate history. Author preflight, ordinary publication, full remote readback and exact-head audit remain due; protected-main integration and the full program remain open.
+
+
+## Cohort 32 exact-source author gate closed — 2026-10-24T09:44:24.793262+00:00
+
+Cohort 32 source `a36777f6eec6274b3da1b40e899b37bf279b46a0` and tree `867e192da1ac1aa657e2f0d145d05a1e72272f87` close the exact-source author publication tranche. Audit 40082421051 executed all 459 discovered tests with all five non-success categories zero. Reporter, latest trusted status, all 9,707 remote file bindings and 36 changed byte streams were verified; all 1,389 project paths reloaded exactly. Totals remain 52 models,46 scoped secondary model subjects,74 profiles,27 monograph-only subjects and315 nonfinal records. Six original informed firsts/three dependent pairs retain defects without repair or independent accuracy,grade or confidence gain. Twenty-eight scoped publication-status rows change,including route-only17;287 other histories remain exact per plane. Qualified MAIN02/MASK event identity and unresolved Lolisa name join stay explicit. Full program and separately owned protected integration remain open.
+
+[Gate receipt](KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort 33 semantic receiving — 2026-10-24T10:43:54.974512+00:00
+
+Nine complete foundations/name checks were reviewed across 15 actual pages before separate foundation/input/body freezes. One monograph, one provisional model/three rules, four compact profiles and five Tier 0 records are proportionate to actual choices and identified limits, without a word/appearance/rule quota. Candidate totals: 53 models, 47 scoped secondary model subjects, 78 profiles, 27 monograph-only subjects, 320 nonfinal records. Six old rows change; 309 others and 19 plane-specific historical differences remain exact. Current source recheck is 1151 contextual P/base/ruby slots plus 3 complete MASK paragraphs; all 41 byte/name retrieval remains technical. Six unchanged source-informed firsts/three dependent pairs retain H01B ownership, H02B assurance-speaker and H03A fee-role defects, generic rivals and procedural voice. All ten C32 closing paths are carried from verified current bytes. Local `40571cea` includes current main b20de0ed and published a36777f6; previous source audit does not certify that unpublished merge. Exact-index preflight, ordinary publication, full remote readback and full exact-head audit remain due. Protected integration and full program remain open.
+
+
+## Cohort 33 exact-source author gate closed — 2026-10-24T11:13:58.948173+00:00
+
+Cohort 33 source `48d5b27916773293b054a0bbd04b8a65d347b458` and tree `4bf5dbf620c49b9c136a28595f46ed5d36af94bf` close the exact-source author publication tranche. Audit 40087962089 executed all 459 discovered tests with all five non-success categories zero. Reporter, latest trusted status, all 9,736 remote file bindings and 33 changed byte streams were verified; all 1,399 project paths reloaded exactly. Totals remain 53 models, 47 scoped secondary model subjects, 78 profiles, 27 monograph-only subjects and 320 nonfinal records. Six original informed firsts/three dependent pairs retain defects without repair or independent accuracy, grade or confidence gain. Eleven scoped publication-status rows change, including route-only62; 309 other histories remain exact per plane. Karen Donnelly and reported MASK Karen remain unjoined without a certified unique-person split. Full program and separately owned protected integration remain open.
+
+[Gate receipt](KONOSUBA_COHORT33_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort 34 semantic receiving — 2026-10-24T12:23:53.695527+00:00
+
+Twelve frozen foundation artifacts and later exact inputs preceded ten separately serialized original firsts. Complete annotation and index/provenance reviews retain actual defects. Two twelve-dimension monographs, two provisional two-rule models, two compact profiles and nine Tier 0 records follow individual agency and evidence limits without a quota. Candidate totals: 55 models, 49 scoped secondary model subjects, 80 profiles, 27 monograph-only subjects and 329 nonfinal records. Seven entering rows change; 313 others and nineteen plane-specific historical differences remain exact. Six already published EXP03 child profiles remain exact and earn no duplicate credit; garden row 76 remains route only. Current native recheck: 1,538 P slots/1,396 inline ruby occurrences/thirteen members/six P objects/34 displays, plus one known EXP01 image; 207,952 derivative characters include bounded MAIN15 sections. All 41 retrieval remains technical. Ten source-known firsts/five dependent pairs retain archive-role underbinding and unprovided response details, with no repair, independent accuracy, grade or confidence gain. All ten C33 gate-closing paths are carried from verified current bytes. The `48d5b279` source audit does not certify this candidate. Fresh exact-index preflight, ordinary publication, full remote readback and full exact-source audit remain due. Protected integration and full program remain open.
+
+
+## Cohort 34 exact-source author gate closed — 2026-10-24T12:42:58.508345+00:00
+
+Cohort 34 source `dd66c466d1b14accf73646e3b52e8418dc8e349b` and tree `ac9e6cc19cb9f85d7bf822a8a3fc640abfa4e1fa` close the author publication tranche. Audit 40094359692 executed all 459 discovered tests with all five non-success categories zero. Reporter/latest trusted status, all 9,753 remote file bindings and 39 changed streams were verified; all 1,416 project paths reloaded exactly. Totals: 55 models, 49 scoped secondary model subjects, 80 profiles, 27 monograph-only subjects and 329 nonfinal records. Ten informed originals/five dependent pairs retain underbinding/unprovided details without repair or independent accuracy, grade, confidence gain. Sixteen scoped publication-status rows change; 313 others stay exact per plane. Existing EXP03 children and garden core fields remain exact. Full program and separately owned protected integration remain open.
+
+[Gate receipt](KONOSUBA_COHORT34_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort 35 semantic receiving — 2026-10-24T13:11:58.197962+00:00
+
+Ten reviewed private foundation artifacts include the two exact public core bodies and compact-profile fragment. Three profiles and three source records follow meaningful agency with qualified speaker/identity access; no monograph,model,rule,input or first output is created. All 55 models and previous originals remain exact. Candidate totals: 55 models,49 scoped secondary model subjects,83 profiles,27 monograph-only subjects and332 nonfinal records. Three entering rows change,326 stay exact per plane,and nineteen historical plane differences remain separate. Row171 keeps all earlier fields/support. Current301 P slots/240 inline ruby occurrences/two members/two known EPUBs/seven displays and74791 derivative characters/ten displays earn no new whole-source or independent credit. Nine C34 closing paths are carried. The dd66c466 full459 source audit does not certify this new candidate. Exact-index preflight,ordinary publication,complete remote readback and own full source audit/status/reload remain due; protected integration and full program continue.
+
+
+## Cohort 35 exact-source author gate closed — 2026-10-24T13:24:47.565385+00:00
+
+Cohort 35 source `4491664acee5ad901620d795acf0812f86e5747c` and tree `fbc6a0eb5f1d2b5b0c569e43620986ca11bc1b99` close the author publication tranche. Audit 40097531812 executed all 459 discovered tests with all five non-success categories zero. Reporter/latest trusted status, all 9,757 remote file bindings and 26 changed files were verified; all 1,420 project paths reloaded exactly. Totals: 55 models, 49 scoped secondary model subjects, 83 profiles, 27 monograph-only subjects and 332 nonfinal records. No new model or diagnostic was created. Six scoped publication-status rows change; 326 others stay exact per plane. The earlier CONTEXP01 priest fields/support and all previous model bodies/original outputs remain exact. Named reports, inferred Selis identity and untied church turns remain qualified. Full program and separately owned protected integration remain open.
+
+[Gate receipt](KONOSUBA_COHORT35_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort36 semantic receiving — 2026-10-24T14:05:41.973035+00:00
+
+Ten reviewed private foundation artifacts include two exact public cores and the two-profile fragment. One Tier0 reported marketing role appends. Candidate totals:55models/49scoped secondary model subjects/85profiles/27monograph-only/333nonfinal records. Two entering rows change,330 remain exact per plane; nineteen older differences remain separate. Actual2382P/2389ruby,40members/13knownobjects,8full members/32bounded,63displays,2knownimage rechecks and206874derivative characters/26displays earn no new whole-source or independent credit. All55 models and earlier originals remain exact. Ten C35 closing paths are carried; its full459audit does not certify this candidate. Exact-index preflight,ordinary publication,full remote readback and own full source audit/status/reload remain due. Full program continues.

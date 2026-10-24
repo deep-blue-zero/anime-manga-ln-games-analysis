@@ -1,0 +1,163 @@
+{
+  "schema": "konosuba.cohort28.original-first-annotations.v1",
+  "subject": "Ignis",
+  "recorded_utc": "2026-10-24T02:28:03.144756+00:00",
+  "source_known": true,
+  "original_output_file": "IGNIS_FIRST_OUTPUTS_01.json",
+  "original_output_sha256": "26dffc597aeea5444fd36595cd6d9c304567d8b99ee5a5a471b268158a9d2241",
+  "cases": [
+    {
+      "case_id": "IG-H01-A",
+      "original_first_body_sha256": "ec51accc0b664dae52417563d28cdf0a2fa2f4dbb64665ef360c5911c22d9b93",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Feasible anchoring and responsible speech largely follow supplied task affordance."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "IG-H01-B",
+      "original_first_body_sha256": "9750af01e9790dfe7ce9a15ab443ffa0270259be31f0c480378cf29908c78bd5",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Funding/delegation is plausible but exact worker requirements remain unspecified."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "IG-H02-A",
+      "original_first_body_sha256": "0981644838ddf89d52adb0d675954f5ab83cde081b78b5390b29a6f01c7e4522",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Checked cost does not settle prior promise; response appropriately leaves agreement open."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "IG-H02-B",
+      "original_first_body_sha256": "8155c64d2c09bd42b0c2075c1b33fc5c40d5e145f0ad0cda3a6b588d66b6a929",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "UNSUPPORTED_PARTITION: no undisputed portion is supplied.",
+        "Partial withholding applies pressure while causal/amount dispute remains; no lawful/fair result credit."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "IG-H03-A",
+      "original_first_body_sha256": "7edc17c26cd6123645e08b28963b059af1591e9f0e6563c11d506931491e3928",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Rumor remains unverified; worker waiting is narrated after command rather than independently shown."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "IG-H03-B",
+      "original_first_body_sha256": "dc33bc10bec9fc781fa5cff9eab338294fc540e20b740f8a31e52ddcc3265eaa",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Ordinary priority choice could come from a generic administrator; no broad tolerance claim."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "IG-H01",
+      "primary_rule": "IG-R01",
+      "case_ids": [
+        "IG-H01-A",
+        "IG-H01-B"
+      ],
+      "actual_local_observation": "Healthy feasible condition elicits effortful personal anchoring; severe weakness elicits funded/delegated contribution.",
+      "qualitative_assessment": "Capacity-respecting contrast,not proof of distinctive responsibility.",
+      "contrary_rival_and_design_limits": "Generic responsible organization and explicit feasibility cue explain both. Worker compliance/repair success are not shown; no independent engineering or body-capacity test.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    },
+    {
+      "pair_id": "IG-H02",
+      "primary_rule": "IG-R02",
+      "case_ids": [
+        "IG-H02-A",
+        "IG-H02-B"
+      ],
+      "actual_local_observation": "Checked cost elicits offset proposal; disputed estimate elicits defended estimate,partial withholding and requested check.",
+      "qualitative_assessment": "Visible pressure/evidence difference,with unsupported partition retained.",
+      "contrary_rival_and_design_limits": "IG-H02-B invents an undisputed portion without a supplied partition. It does not establish a legal entitlement to withhold or verified estimate. A generic controlling payer could show the same conduct; no fair settlement achieved.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    },
+    {
+      "pair_id": "IG-H03",
+      "primary_rule": "IG-R03",
+      "case_ids": [
+        "IG-H03-A",
+        "IG-H03-B"
+      ],
+      "actual_local_observation": "Daughter rumor interrupts briefing/seeks source; unrelated visitor rumor goes to routine correspondence and work continues.",
+      "qualitative_assessment": "Visible priority difference,highly cued.",
+      "contrary_rival_and_design_limits": "Generic paternal concern is a strong rival. Some directive effect on workers is narrated without separate response; no rumor confirmation,punishment or general tolerance is established.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    }
+  ],
+  "retained_failures_and_limits": [
+    "Feasible anchoring and responsible speech largely follow supplied task affordance.",
+    "Funding/delegation is plausible but exact worker requirements remain unspecified.",
+    "Checked cost does not settle prior promise; response appropriately leaves agreement open.",
+    "UNSUPPORTED_PARTITION: no undisputed portion is supplied.",
+    "Partial withholding applies pressure while causal/amount dispute remains; no lawful/fair result credit.",
+    "Rumor remains unverified; worker waiting is narrated after command rather than independently shown.",
+    "Ordinary priority choice could come from a generic administrator; no broad tolerance claim."
+  ],
+  "shared_limitations": [
+    "Same informed root wrote models,all exact inputs,expectations,both responses and annotations; all prior and opposing material visible.",
+    "High cueing,generic rivals and stipulated capacities prevent model-specific causal attribution.",
+    "Audit-like narration and explicit future-boundary guardposts weaken natural performance across every subject.",
+    "English prose does not test Japanese printed voice,audio,L3 or the complete final battery.",
+    "No regeneration,feedback repair,independent validation,accuracy,grade or confidence gain."
+  ],
+  "completed_final_nine_category_battery": false,
+  "aggregate_accuracy_score": null,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "full_program_complete": false
+}

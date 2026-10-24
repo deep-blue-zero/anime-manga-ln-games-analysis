@@ -1501,3 +1501,80 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Sylvia catches an ordinary weapon and later improves movement after fusion,but prepared barrier equipment fails at a nonmagical lock. Holy attack causes a pain response in the earlier body; later resistance is not universal immunity. A failed tail shield is still a defense. Megumin supplies Explosion energy,Kazuma aims and Komekko pulls the trigger. The chief actually casts then fails against one armor; Moguninnin remains mobile after component theft. Capacity,access,activation,delivery and observed outcome stay separate.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Actual dragging and escape, two failed Bind attempts, failed Freeze cooling and deflected Lightning coexist with successful netting, hazardous heat and an enclosed caster unable to deploy outward magic. Universal immunity, automatic healing, material value and impossible disassembly remain broader claims. The forest-trial limit on useful offense does not erase earlier physical harm. Protected rest and later offense are reported as alternating, with strategy authorship unassigned. Milk inability is Kazuma statement, supported by nonconsumption rather than a watched failed drinking trial (AG26-07–08,17–18,20,25,27–28).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia survives painful purification while questioning Aqua’s apparent beginner status; partial resistance is neither a failed cast nor holy invulnerability. Water, head theft, armor break and purification interact. Hans is actually frozen, then sacrifices/regrows material and uses fragments; enlargement changes the resource problem. Final distributed cleanup is reported after Kazuma’s blackout. Serena’s real healing and control coexist with local failures, finite allocation and retained reflection at level 1. Aqua’s actual failed TurnUndead on later-admitted puppets is preserved without a general anti-undead ranking. The distinct commander survives Leen’s Fireball but is hurt by Feit’s fire; the different conditions do not yield a universal threshold. Capacity, access, willingness and ethical permission remain separate (BE27-02–04; HA27-02–07; SE27-01–09, 13; DU27-02–03).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Alderp's rank, money and artifact access have actual defeats; delegated influence is not his omnipotent direct power. Maxwell states location/seal/church/light limits without performed failed retrieval casts. Ragcraft can administer, disguise and confine but misidentifies, overdiscloses and loses captives; his career is an attributed account. Ignis allocates work and physically anchors with short wire/strain, while illness and distraction remain. Balter wins technically before voluntarily ceasing blows. No capacity stipulation in the exercises earns behavioral-success credit.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton knows useful ecology but can answer the wrong practical question; exact den inference is explicitly refused. Material discovery, weather causation and tactical execution are separate. Zereschilt's nail pain and holy vulnerability coexist with actual shop defense; Vanir's immediate nearby life sharing is another agent's costly intervention. Sylphina's greeting, play and requests demonstrate bounded social competence without adult judgment or medical independence. No exercise's stipulated capacity earns a skill grade.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia contributes spear skill, a missing-plan question and costume-rule knowledge; keyboard range and mana remain finite, and Aqua supplies her resurrection. Cielo's strength is directly demonstrated, while healing is offered by her and credited by Megumin after the quest (FD-U012 P163/P388-390); apologies P404/P422 are not separate casts. Erika's trap lapse coexists with speed, rehearsal and a correct quiz answer. Charlie reads the manual and later gives a correct warning despite disclosure errors. Daniel learns barehand cost, acquires gloves and later fails to attend to their loss. Stipulated hypothetical skills earn no canonical competence.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Gilbert Heal/Shield aid coexists with failed exorcism and need for a scroll user. Chiho actual attack and real vulnerability coexist with harmful health claims. Otohime protection depends on defense, allies, resources and applicable Covering doubling; final 41→82 survival uses no Death Return. Temiren identification/scroll successes do not erase cost or failed evasion.21 trap detection 15 does not cover GM event lightning; statue recovery explicitly includes undead as facility data, not Heal/miracle. Stipulated hypothetical arithmetic and eligibility earn no canonical competence.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Brad coordinates complementary spells and actual recovery but misdescribes an interrupted seal and initially accepts the scroll category mistake. Rosary recognition and barrier objection coexist with actual failed exorcism and possession. The leader attempts Charm on a mistaken target; group defense is not her uniquely observed cast. The small worker fetches help and offers delay without a performed victory. Aigis chooses departure; household security, reported acquisition and noble complaint are separate competence planes. No new skill is imported into Lolisa or a principal model.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen arranges work and pays for one kill, but two item uses are prevented and guards arrive behind bars. Her claimed high level does not demonstrate a spell or successful delay. Megumin identifies the manufactured random-summon item; Kazuma supplies the broader business inference. Beat's village experience and Clarice's claimed equipment safety are self-reports, not witnessed combat successes. Guard warnings, duty, capture and later response retain their own role scope and unresolved memberships.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Lucy’s persistence and resistance are locally represented; follower counts and Regina’s interventions remain attributed. The Princess’s selective detector-compatible speech is not proof of total innocence or unlimited competence. Money, praise and intimate offers fail; rooted dependence limits relocation. Upper-body destruction leaves roots requiring disposal. Biflantz’s recent battle is a report, not a measured feat. Serena’s divine-mechanics explanation, Kazuma’s conjecture and Aqua’s theory remain distinct from an observed Regina decision.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+MAIN07 reports Maris breaking Keith’s nose; DUST05 assigns the associated blow to Maris without newly certifying that injury. Selis’s reported joint violence and the current unnamed assailant’s punch are not a measured stable combat ability or certain personal join. The church visit does not complete the intended curse consultation.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Megumin’s early high-mana testimony and rejected spell/flight/breath expectations retain their source-world authority. MAIN15 growth is observed while potion administration is reported. Neither an exact level,measured zero mana,unchanged later high mana,dragon transformation nor watched Zel combat follows. Paw training is attempted,without successful paw performance.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

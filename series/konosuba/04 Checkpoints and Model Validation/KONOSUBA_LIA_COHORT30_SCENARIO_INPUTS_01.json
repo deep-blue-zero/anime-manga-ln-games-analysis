@@ -1,0 +1,258 @@
+{
+  "schema": "konosuba.cohort30.exact-scenario-inputs.v1",
+  "subject": "Lia",
+  "created_utc": "2026-10-24T05:15:07.937953+00:00",
+  "foundation_seal_sha256": "d732ece2042e585a2801246830d9ad875fbeb0070064068ed98a82f661ccef70",
+  "foundation_model_sha256": "62f5cce3030b35e81511688394ff04e40c956a94245d061693ceef9bde49ba76",
+  "same_informed_root_author": true,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "independent_judge": false,
+  "pristine_holdout": false,
+  "synthetic_pairs": 4,
+  "cases": [
+    {
+      "case_id": "LI-H01-A",
+      "pair_id": "LI-H01",
+      "variant": "A",
+      "target_rules": [
+        "LIA-R01"
+      ],
+      "purpose": "Sensitivity of perceived personal duty to an available substitute, while guilt and desired work remain fixed.",
+      "exact_prompt": "Use the frozen Lia candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Lia. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: Imagine a new afternoon in Axel after the novel. Lia wants to continue a scheduled rehearsal with Cielo and Erika. A nearby repair area needs someone to watch a simple gate for thirty minutes so children do not wander in. There is no current injury. Lia knows how to do this watch, believes her earlier delay helped create the repair problem, and cannot watch and rehearse simultaneously. No prior promise or order binds her. No other capable person is available during these thirty minutes.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "709bff5e893012801fa49dd5bc7339f747a3ece6666bcdb18f384857906b3925",
+      "fixed_common_facts": "Imagine a new afternoon in Axel after the novel. Lia wants to continue a scheduled rehearsal with Cielo and Erika. A nearby repair area needs someone to watch a simple gate for thirty minutes so children do not wander in. There is no current injury. Lia knows how to do this watch, believes her earlier delay helped create the repair problem, and cannot watch and rehearse simultaneously. No prior promise or order binds her.",
+      "variant_fact": "No other capable person is available during these thirty minutes.",
+      "paired_design_limit": "Availability changes actual burden as well as perceived uniqueness. Generic responsible behavior remains a rival; no causal or source-validation inference.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "LI-H01-B",
+      "pair_id": "LI-H01",
+      "variant": "B",
+      "target_rules": [
+        "LIA-R01"
+      ],
+      "purpose": "Sensitivity of perceived personal duty to an available substitute, while guilt and desired work remain fixed.",
+      "exact_prompt": "Use the frozen Lia candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Lia. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: Imagine a new afternoon in Axel after the novel. Lia wants to continue a scheduled rehearsal with Cielo and Erika. A nearby repair area needs someone to watch a simple gate for thirty minutes so children do not wander in. There is no current injury. Lia knows how to do this watch, believes her earlier delay helped create the repair problem, and cannot watch and rehearse simultaneously. No prior promise or order binds her. A reliable capable attendant has already volunteered and is present to do exactly this watch safely.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "2759c7f1dc65190274b9bbeae0c941905dd820dc7b55aab3188f5cb10cdfc304",
+      "fixed_common_facts": "Imagine a new afternoon in Axel after the novel. Lia wants to continue a scheduled rehearsal with Cielo and Erika. A nearby repair area needs someone to watch a simple gate for thirty minutes so children do not wander in. There is no current injury. Lia knows how to do this watch, believes her earlier delay helped create the repair problem, and cannot watch and rehearse simultaneously. No prior promise or order binds her.",
+      "variant_fact": "A reliable capable attendant has already volunteered and is present to do exactly this watch safely.",
+      "paired_design_limit": "Availability changes actual burden as well as perceived uniqueness. Generic responsible behavior remains a rival; no causal or source-validation inference.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "LI-H02-A",
+      "pair_id": "LI-H02",
+      "variant": "A",
+      "target_rules": [
+        "LIA-R02"
+      ],
+      "purpose": "Particular belonging versus an otherwise matched performance opportunity.",
+      "exact_prompt": "Use the frozen Lia candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Lia. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: In an imagined nonurgent afternoon, Lia has voluntarily paused performing and still wants to sing. There is no external mission, emergency, debt or contract obligation in this scene. Two performers offer an ordinary rehearsal with the same venue, schedule and modest pay: Will you sing with us today? Only Lia responds; no reply or completed reunion may be supplied. The two inviters are Cielo and Erika, the particular partners Lia knows from Axel Hearts.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "cbf752111840e1517adcc4761f411455be54846174961e2fc9a4a0c1f7576042",
+      "fixed_common_facts": "In an imagined nonurgent afternoon, Lia has voluntarily paused performing and still wants to sing. There is no external mission, emergency, debt or contract obligation in this scene. Two performers offer an ordinary rehearsal with the same venue, schedule and modest pay: Will you sing with us today? Only Lia responds; no reply or completed reunion may be supplied.",
+      "variant_fact": "The two inviters are Cielo and Erika, the particular partners Lia knows from Axel Hearts.",
+      "paired_design_limit": "Relationship familiarity and shared history travel together; a generic familiarity preference could produce the contrast. The scene supplies an invitation, not automatic full membership.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "LI-H02-B",
+      "pair_id": "LI-H02",
+      "variant": "B",
+      "target_rules": [
+        "LIA-R02"
+      ],
+      "purpose": "Particular belonging versus an otherwise matched performance opportunity.",
+      "exact_prompt": "Use the frozen Lia candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Lia. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: In an imagined nonurgent afternoon, Lia has voluntarily paused performing and still wants to sing. There is no external mission, emergency, debt or contract obligation in this scene. Two performers offer an ordinary rehearsal with the same venue, schedule and modest pay: Will you sing with us today? Only Lia responds; no reply or completed reunion may be supplied. The two inviters are unfamiliar performers of comparable skill. Lia has never shared work or private history with them.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "7e9576587f91e26a57a7fb0c862c60344331ea483689eb3f4368a3ce2c467eec",
+      "fixed_common_facts": "In an imagined nonurgent afternoon, Lia has voluntarily paused performing and still wants to sing. There is no external mission, emergency, debt or contract obligation in this scene. Two performers offer an ordinary rehearsal with the same venue, schedule and modest pay: Will you sing with us today? Only Lia responds; no reply or completed reunion may be supplied.",
+      "variant_fact": "The two inviters are unfamiliar performers of comparable skill. Lia has never shared work or private history with them.",
+      "paired_design_limit": "Relationship familiarity and shared history travel together; a generic familiarity preference could produce the contrast. The scene supplies an invitation, not automatic full membership.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "LI-H03-A",
+      "pair_id": "LI-H03",
+      "variant": "A",
+      "target_rules": [
+        "LIA-R03"
+      ],
+      "purpose": "Information-sensitive response to a particular valued object and a hostile unverified claim.",
+      "exact_prompt": "Use the frozen Lia candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Lia. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: Imagine Lia receiving an unsigned note at home: We have Konjiro. Come to the old doorway alone before sunset. Nobody speaks aloud. There is ample daylight, no other evidence of a hostage and no established immediate injury. She knows hostile people have used that attachment before. Only her present ability to verify the named plush differs. Do not animate the toy or provide a new captor. Konjiro is not visible from where she stands; she has not yet checked the room or her bag.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "c283ad52a4c2fd52904813b4dcbd829762c09f9da30d048ce7171a3307ea68a1",
+      "fixed_common_facts": "Imagine Lia receiving an unsigned note at home: We have Konjiro. Come to the old doorway alone before sunset. Nobody speaks aloud. There is ample daylight, no other evidence of a hostage and no established immediate injury. She knows hostile people have used that attachment before. Only her present ability to verify the named plush differs. Do not animate the toy or provide a new captor.",
+      "variant_fact": "Konjiro is not visible from where she stands; she has not yet checked the room or her bag.",
+      "paired_design_limit": "A direct disconfirmation is strong cueing and ordinary reasoning can explain it. This does not reproduce the source voice trap or isolate an exact deception threshold.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "LI-H03-B",
+      "pair_id": "LI-H03",
+      "variant": "B",
+      "target_rules": [
+        "LIA-R03"
+      ],
+      "purpose": "Information-sensitive response to a particular valued object and a hostile unverified claim.",
+      "exact_prompt": "Use the frozen Lia candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Lia. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: Imagine Lia receiving an unsigned note at home: We have Konjiro. Come to the old doorway alone before sunset. Nobody speaks aloud. There is ample daylight, no other evidence of a hostage and no established immediate injury. She knows hostile people have used that attachment before. Only her present ability to verify the named plush differs. Do not animate the toy or provide a new captor. The actual Konjiro is visibly on the table beside her, and she recognizes it as her own familiar plush.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "ce221e2d6c1d4ba102c6031c1805f4075853016a3ea870c4d8e65afb507eed6c",
+      "fixed_common_facts": "Imagine Lia receiving an unsigned note at home: We have Konjiro. Come to the old doorway alone before sunset. Nobody speaks aloud. There is ample daylight, no other evidence of a hostage and no established immediate injury. She knows hostile people have used that attachment before. Only her present ability to verify the named plush differs. Do not animate the toy or provide a new captor.",
+      "variant_fact": "The actual Konjiro is visibly on the table beside her, and she recognizes it as her own familiar plush.",
+      "paired_design_limit": "A direct disconfirmation is strong cueing and ordinary reasoning can explain it. This does not reproduce the source voice trap or isolate an exact deception threshold.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "LI-H04-A",
+      "pair_id": "LI-H04",
+      "variant": "A",
+      "target_rules": [
+        "LIA-R04"
+      ],
+      "purpose": "Known procedure versus novel task, preserving competence and information limits.",
+      "exact_prompt": "Use the frozen Lia candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Lia. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: In an imagined backstage task, a small manual gate must be secured before props pass through. No one is currently in danger. There is no magic in this task. Lia is asked for the immediate next step, not a completed successful repair. The gate has a lever, latch and a closed instruction card within reach. Nobody else has yet answered her questions. For this hypothetical only, she has already practiced the stated procedure: lower the lever until the latch catches, then visually check that the marked pin is seated. This gate matches that training.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "12606f236019d64f4b9caf8452427f2803ae017d27869886401906821de239b3",
+      "fixed_common_facts": "In an imagined backstage task, a small manual gate must be secured before props pass through. No one is currently in danger. There is no magic in this task. Lia is asked for the immediate next step, not a completed successful repair. The gate has a lever, latch and a closed instruction card within reach. Nobody else has yet answered her questions.",
+      "variant_fact": "For this hypothetical only, she has already practiced the stated procedure: lower the lever until the latch catches, then visually check that the marked pin is seated. This gate matches that training.",
+      "paired_design_limit": "This stipulates familiarity rather than testing its origin; generic safe task behavior is a strong rival. No engineering expertise or new canonical ability is credited.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "LI-H04-B",
+      "pair_id": "LI-H04",
+      "variant": "B",
+      "target_rules": [
+        "LIA-R04"
+      ],
+      "purpose": "Known procedure versus novel task, preserving competence and information limits.",
+      "exact_prompt": "Use the frozen Lia candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Lia. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: In an imagined backstage task, a small manual gate must be secured before props pass through. No one is currently in danger. There is no magic in this task. Lia is asked for the immediate next step, not a completed successful repair. The gate has a lever, latch and a closed instruction card within reach. Nobody else has yet answered her questions. She has never operated this gate, does not know its procedure and has not opened the instruction card. Neither the card text nor a safe lever direction has been provided.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "c7c6bb1661daafcce0c7fc4d8d6488e13a4a8c5170403fbadd045a1e2e07230b",
+      "fixed_common_facts": "In an imagined backstage task, a small manual gate must be secured before props pass through. No one is currently in danger. There is no magic in this task. Lia is asked for the immediate next step, not a completed successful repair. The gate has a lever, latch and a closed instruction card within reach. Nobody else has yet answered her questions.",
+      "variant_fact": "She has never operated this gate, does not know its procedure and has not opened the instruction card. Neither the card text nor a safe lever direction has been provided.",
+      "paired_design_limit": "This stipulates familiarity rather than testing its origin; generic safe task behavior is a strong rival. No engineering expertise or new canonical ability is credited.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    }
+  ],
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

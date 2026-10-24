@@ -526,3 +526,80 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 No new model,generative rule,input,first body or hypothetical pair is assigned. The known-source35-window/2,122BASE union is not35trials or independent observations. Card/guild traces repeat one machine outcome. The four historical scores,14Dust blank fields and28SI/SY null outcome/adjudication fields remain exact. SV25/CH25/MN25/ON25 are evidence-locator labels,not a new prediction generation or a rewrite of similarly lettered historical commitments. No accuracy,readiness grade or confidence gain is claimed.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Aigis adds one scoped provisional generator with AG-R01–03, separate from its monograph. Foundations froze before six exact prompts; inputs froze before six original responses, and all firsts froze before receiving. Three dependent pairs concern bodily service cost, reachable help and valued social access. The same informed root authored the model, cases, responses and assessment; all contrasts were visible, with no external responder. Explicit cues and ordinary bargaining/politeness rivals limit discrimination. Unsupported cosmetic detail, exaggerated duration and blame displacement are retained. No regeneration, feedback repair, blind-source accuracy, independent grade or confidence gain follows. Three pairs do not complete the final nine-category battery; earlier scores and prospective missingness remain exact.
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia, Hans and Serena add separate provisional 3/3/4-rule models. Fifteen foundations froze before eighteen exact prompts; inputs froze before eighteen actual firsts, and all bodies froze before receiving. Nine dependent source-informed pairs were authored, answered and assessed by the same root with all contrasts and prior outputs visible. Strong cueing, generic planning/negotiation and near-scene resemblance limit discrimination. Unsupported guard deployment, invented fatigue, possible overstatement of agency and narrator audit leakage remain unchanged in original bodies. Capacity compliance is not a behavioral win. Serena SE-R02 has no dedicated isolated pair, and no subject completes the final nine-category battery. Earlier 34 models, four scores, Dust’s 14 blank fields and SI/SY’s 28 null fields remain exact; no independent accuracy, grade or confidence gain is claimed.
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Four initial provisional models have three eight-field candidates each. Twenty-four exact original firsts form twelve dependent source-informed pairs after foundation/input freezes. One informed root wrote all stages, with all opposing cases/prior bodies visible. MX-H02 does not isolate a contract effect; its B response escalates strike to kill. IG-H02-B invents an undisputed payment portion. Minor added details, cueing, generic rivals and pervasive analytic guardposts remain. Bodies are not regenerated or feedback-repaired. Word budgets and stipulated constraints are not behavioral success. No independent accuracy, grade, confidence gain or completed nine-category final battery. Existing 37 models, four scorecards and earlier blank/null fields remain exact.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Two new provisional models each have four eight-field rules. Sixteen immutable source-informed firsts form eight dependent pairs after foundation/input freezes, all stages by the same informed root. BT-H02 omits an underprovided location; explicit-refusal transfer is unvalidated; BT-H04-A adds past dialogue; ZS-H03-A prematurely accepts and adds task/visibility details; ZS-H04 changes several variables. Strong cues, generic rivals and English methodological dialogue remain. Zero regeneration, repair, independent accuracy, grade or confidence gain; the nine-category final battery is incomplete.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Three separate four-rule candidates add 24 original firsts in twelve dependent pairs after foundation/input freezes. The same informed root authored and assessed every stage with all contrasts visible. LI-H02-A adds a current-pause explanation; CI-H02-B assumes male spectators; CI-H03-B attributes a protective reason and steps despite no; ER-H02-B turns unprovided timing into no urgent deadline; ER-H03 does not separate particularity from commitment; ER-H04-A extrapolates an initiating unapproved pledge. Cueing, generic rivals, overarticulate self-advocacy and English methodological prose remain. Original bodies are byte-exact, with zero regeneration/feedback repair and no independent accuracy, grade, confidence gain or completed nine-category battery.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Five separately frozen PC models contain 13 rules in 3/2/3/2/3 sets, followed by 26 unchanged original firsts/13 dependent pairs. Same informed root, all source/contrasts visible, no external model or independent judge. Explicit permission, arithmetic, terms, willingness and device eligibility strongly cue generic responses. Overcandid Gilbert, prudent Chiho/Otohime and boundary-respecting Temiren may overcorrect source behavior. OT-H03-A motive extrapolation and 21 familiar-person/earlier-answer/injury wording remain. All 105–115 word bodies meeting 80–140 budget is format only, not accuracy, grade, confidence gain, Japanese voice or full nine-category battery.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+The separately frozen unnamed-worker reconstruction has three asymmetric hypotheses and six unchanged original English firsts in three dependent pairs, all 102–107 words under an 80–140 format contract. Source and contrasts are visible to the same informed author; no external model or independent judge. H01-B other-mind assumption, H02-A unprovided run-demand and H03-B prior-instruction assurance remain, as do source echo and explanatory voice. H03-A supplies misleading framing without a literal false-claim demonstration. R03 ordinary transfer is weak; explicit moral, power and permission cues fit generic replies. No accuracy, grade, confidence gain, body repair or completed final nine-category battery.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen Donnelly has three unequal provisional rules and six unchanged original firsts in three dependent pairs after separate foundation/input/body freezes. H01B adds an exhibition-ownership presupposition; H02B assigns a profitability assurance to an unprovided speaker; H03A blurs the disputed-fee roles. H02 approval in both conditions was explicitly permitted before generation; its probe concerns cost representation rather than a manufactured required cancellation. H03 is a weaker nonsexual analogue with generic fear and explicit cueing. No body repair, independent accuracy, grade, confidence gain or completed final nine-category battery follows.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Lucy and the forest Princess each have two provisional rules, with ten unchanged original English firsts in five dependent pairs after separate foundation/input/body freezes. The same informed root knows all contrasts and assesses its responses. Lucy’s archive responsibility is underbound. Princess originals add an initial mask, finitude implication, past conversation not given in H02, afternoon and a map-position transition. Possible carryover is unproved. Overt cues, generic gratitude/dignity/bargaining, source echoes and explanatory English remain rivals; no full-constraint-clean pair, repair, independent accuracy, grade, confidence gain, Japanese voice or completed final battery is claimed.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+No model,rule,input or first response is created at this scope. Two narrow named reports and one directly heard attribution choice warrant compact treatment without identifying a stable causal generator. All 55 entering model bodies and earlier original outputs remain exact. Existing final batteries and six distinct original Stage D successors remain owed; no synthetic success or independent validation is inferred.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+No new model,rule,input or first body is created. Observed ordinary animal responses and one mediated seller exchange earn two compact profiles without a differentiated individual generator. All55 entering models and earlier original outputs remain exact. Final batteries and six distinct original StageD successors remain owed; no independent accuracy,grade or confidence gain follows.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
