@@ -1985,3 +1985,10 @@ The cohort30 index/provenance binds 33 complete current FD native deliveries to 
 Cohort 31 index/provenance binds 56 complete current Japanese native images, 25 Core/31 Advanced, at original 1441 x 2048 detail.170 complete source-order replay-note records and 3 whole current derivatives are separate readings.664 image/wrapper technical joins verify identity, not viewing. Original 333 Core/331 Advanced source admissions retain individual scopes. A truncated ADV092/099/100 combined attempt earned zero; the same originals were later individually received, without regeneration. No new whole-source, ruby, residual, image-set, OCR, audio, human or independent credit.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Cohort 32 provenance binds 2360 unique current Japanese native P/base/ruby slots, including blanks:2320 context plus 40 nonoverlapping lexical paragraphs, across six objects with any P and four main contextual objects. MASK U021/U019/U023 are complete P scopes, U017 bounded; MAIN02/MAIN08/CONTEXP01 intervals explicit. MAIN09 bloodfang and YORI03 bloodstone are false Brad matches. All 41 EPUB identity/retrieval checks are technical, not reading or absence proof. No new non-P residual, image-set, whole-source, OCR, audio, human or independent admission.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

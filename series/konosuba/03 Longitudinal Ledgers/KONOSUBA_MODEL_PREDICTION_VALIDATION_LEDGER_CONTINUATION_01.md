@@ -568,3 +568,10 @@ Three separate four-rule candidates add 24 original firsts in twelve dependent p
 Five separately frozen PC models contain 13 rules in 3/2/3/2/3 sets, followed by 26 unchanged original firsts/13 dependent pairs. Same informed root, all source/contrasts visible, no external model or independent judge. Explicit permission, arithmetic, terms, willingness and device eligibility strongly cue generic responses. Overcandid Gilbert, prudent Chiho/Otohime and boundary-respecting Temiren may overcorrect source behavior. OT-H03-A motive extrapolation and 21 familiar-person/earlier-answer/injury wording remain. All 105–115 word bodies meeting 80–140 budget is format only, not accuracy, grade, confidence gain, Japanese voice or full nine-category battery.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+The separately frozen unnamed-worker reconstruction has three asymmetric hypotheses and six unchanged original English firsts in three dependent pairs, all 102–107 words under an 80–140 format contract. Source and contrasts are visible to the same informed author; no external model or independent judge. H01-B other-mind assumption, H02-A unprovided run-demand and H03-B prior-instruction assurance remain, as do source echo and explanatory voice. H03-A supplies misleading framing without a literal false-claim demonstration. R03 ordinary transfer is weak; explicit moral, power and permission cues fit generic replies. No accuracy, grade, confidence gain, body repair or completed final nine-category battery.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

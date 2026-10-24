@@ -1543,3 +1543,10 @@ Lia contributes spear skill, a missing-plan question and costume-rule knowledge;
 Gilbert Heal/Shield aid coexists with failed exorcism and need for a scroll user. Chiho actual attack and real vulnerability coexist with harmful health claims. Otohime protection depends on defense, allies, resources and applicable Covering doubling; final 41→82 survival uses no Death Return. Temiren identification/scroll successes do not erase cost or failed evasion.21 trap detection 15 does not cover GM event lightning; statue recovery explicitly includes undead as facility data, not Heal/miracle. Stipulated hypothetical arithmetic and eligibility earn no canonical competence.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Brad coordinates complementary spells and actual recovery but misdescribes an interrupted seal and initially accepts the scroll category mistake. Rosary recognition and barrier objection coexist with actual failed exorcism and possession. The leader attempts Charm on a mistaken target; group defense is not her uniquely observed cast. The small worker fetches help and offers delay without a performed victory. Aigis chooses departure; household security, reported acquisition and noble complaint are separate competence planes. No new skill is imported into Lolisa or a principal model.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

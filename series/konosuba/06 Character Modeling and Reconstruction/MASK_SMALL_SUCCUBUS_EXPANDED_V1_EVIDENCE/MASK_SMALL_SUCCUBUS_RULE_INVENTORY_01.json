@@ -1,0 +1,131 @@
+{
+  "schema": "konosuba.character-rule-inventory.v1",
+  "generation": "MASK_SMALL_SUCCUBUS_EXPANDED_V1",
+  "recorded_utc": "2026-10-24T08:50:09.110387+00:00",
+  "subject": "Unnamed small dream-service worker, MAIN02/MASK event-based scope; Lolisa personal-name join open",
+  "existing_census_row": 132,
+  "model_scope": "Asymmetric provisional social/work reconstruction",
+  "model_draft_file": "MASK_SMALL_SUCCUBUS_MODEL_DRAFT_01.md",
+  "model_draft_sha256": "3f4697c55172317aab25f2283bfe6dddca2d391cb4e8bfab54ad5e4ed1eff1fb",
+  "monograph_draft_file": "MASK_SMALL_WORKER_MONOGRAPH_DRAFT_02.md",
+  "monograph_draft_sha256": "9d81da98a81bf5bd7f3e8b71d75b882a0ea5ea51ef8c9f869b28cd3fa267dc2a",
+  "scope_assessment_sha256": "05c3860cfa3fccf02ec496e47e3618203a029ca435dc96862e464260cc056803",
+  "source_review_seal_sha256": "6219cbb41d6a8ae2ecbcae945726ac16699575ad19aadfd5f71c40a5f0699e13",
+  "prefreeze_precision_sha256": "ac20c5cd3e2b8e5a08565ca50efe411244e6bfee66cc6d328b6df13613f43d86",
+  "rules": [
+    {
+      "rule_id": "MSS-R01",
+      "proposition": "An established admired-person attachment can recruit active restoration/affirmation of the believed public persona, including mistaken pressure; a clear harmful-deception reveal can change advocacy to criticism.",
+      "support": [
+        "MASK U017P221–255",
+        "MASK U017P432–436",
+        "MASK U017P475–477",
+        "MASK U017P502–509"
+      ],
+      "contrary": [
+        "Fear at U017P230–233",
+        "Both fans later condemn the reveal; admiration is not unconditional applause"
+      ],
+      "rivals": [
+        "generic fandom",
+        "group expectation",
+        "lunar-state account",
+        "patron hierarchy"
+      ],
+      "applies_when": [
+        "particular attachment and perceived persona threat established",
+        "relevant opportunity and received information supplied"
+      ],
+      "do_not_assume": [
+        "all stranger authority triggers devotion",
+        "private romantic motive known",
+        "consent to pressure",
+        "P478 uniquely assigned to this worker",
+        "every source-world lunar effect exists in transfer"
+      ],
+      "confidence": "Source-constrained interpretation; causal weights and transfer low. No prospective result.",
+      "falsifier": "Repeated quiet indifference under a comparable known attachment/persona threat and available opportunity, or repeated unqualified celebration after a clearly received harmful-deception reveal."
+    },
+    {
+      "rule_id": "MSS-R02",
+      "proposition": "New credible identity/capacity information can revise self-reliance toward help-seeking; concern for the admired protector can prompt an offer or initiated delay while fear remains.",
+      "support": [
+        "MASK U019P416–456",
+        "MASK U019P472–482",
+        "MASK U019P512–513",
+        "MASK U019P528",
+        "MAIN02 item/xhtml/p-007.xhtml P451–488, at the qualified event identity"
+      ],
+      "contrary": [
+        "Pride frame is supplied by Vanir",
+        "Own remaining-life calculation may understate real danger",
+        "Help is needed and accepted; no own victory or completed life loss"
+      ],
+      "rivals": [
+        "approval seeking",
+        "demonic pride",
+        "immediate fear",
+        "collective survival"
+      ],
+      "applies_when": [
+        "new information is actually received and believed",
+        "threat and capacities are specified as the worker understands them",
+        "a relevant action opportunity exists"
+      ],
+      "do_not_assume": [
+        "Vanir private P529 full-erasure knowledge received by her",
+        "every cleric is a known annihilating deity",
+        "unprovided magic, escape routes or disposable immortality",
+        "shop group defense is her performance",
+        "protective offer means completed sacrifice"
+      ],
+      "confidence": "Observed sequence clear; relative causes and unfamiliar transfer provisional.",
+      "falsifier": "Repeated unchanged confidence after a received relevant overwhelming-threat disclosure, or repeated purely passive reliance despite a comparable available offer opportunity when the admired person is endangered."
+    },
+    {
+      "rule_id": "MSS-R03",
+      "proposition": "An owned service failure with customer exposure can prompt apology, self-blame and a customer-protecting false cover, without requiring rejection of rescue.",
+      "support": [
+        "MAIN02 item/xhtml/p-007.xhtml P450–455",
+        "MAIN02 item/xhtml/p-007.xhtml P469–488",
+        "MASK U019P573–575 jointly supports a narrower related secrecy context, without uniquely assigned individual lines"
+      ],
+      "contrary": [
+        "She accepts escape",
+        "One explicit danger-context proposal rather than demonstrated ordinary policy",
+        "Pressure on Luna prevents universal boundary-respect inference"
+      ],
+      "rivals": [
+        "occupational convention",
+        "collective business interest",
+        "shame",
+        "fear or placation"
+      ],
+      "applies_when": [
+        "she treats task failure as her responsibility",
+        "customer relation and exposure issue are active",
+        "feasible discretion or cover exists"
+      ],
+      "do_not_assume": [
+        "qualified identity bridge is a legal-name proof",
+        "unlimited customer entitlement or universal confidentiality",
+        "completed intended service",
+        "counter woman powers/prices/policy are hers",
+        "mandatory self-sacrifice or universal honesty",
+        "a prior promise or real-world legal duty"
+      ],
+      "confidence": "Low and explicitly tentative: one owned work-risk proposal; no reliable ordinary-practice estimate.",
+      "falsifier": "Repeated voluntary customer exposure without a supplied override in comparable owned-service failures with feasible discretion. Explicit customer permission can probe a boundary whose outcome remains weakly constrained."
+    }
+  ],
+  "rule_count": 3,
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "exact_inputs_or_firsts_serialized": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

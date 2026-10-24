@@ -1188,3 +1188,10 @@ Lia, Cielo and Erika have distinct Tier3 monographs and provisional four-rule mo
 Gilbert, Suzuki Chiho, Otohime, Temiren and 21 have separate Tier 3 monographs and provisional 3/2/3/2/3 rule models. Froger/Goran have Tier 2 monographs without models. Seven Tier 1 profiles and four Tier 0 occurrence records preserve role/group/state uncertainty. Candidate totals:51 models, 45 scoped secondary model subjects, 66 profiles, 24 monograph-only subjects and 295 nonfinal records. Existing rows 37/38/163–167 change; 275 other histories stay exact in each plane. Thirteen new records are not thirteen disjoint people, and aggregate 37 adds no sixth PC/model.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Brad, Rosary and the unnamed MASK leader have separate Tier 2 monographs without invented models. The unnamed small MAIN02/MASK worker has a monograph and provisional three-rule Tier 3 reconstruction at existing 132 through a qualified event bridge. Lolisa 17 receives a route only, with frozen individual support unchanged. Eight compact profiles and fifteen Tier 0 dispositions retain unresolved roles/groups. Candidate totals 52 models, 46 scoped secondary model subjects, 74 profiles, 27 monograph-only subjects and 315 nonfinal records; eight entering rows change, 287 others exact per plane, 20 new source-bound records are not 20 disjoint people.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

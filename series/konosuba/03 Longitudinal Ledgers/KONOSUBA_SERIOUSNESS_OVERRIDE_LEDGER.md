@@ -1336,3 +1336,10 @@ Lia actually dies intercepting lightning aimed at Megumin and Aqua actually resu
 Real fictional damage, cost-bearing Core Death Return, coercive recruitment, substituted contact and harmful health doctrine remain consequential inside comic replay. Final house Cover 82 survives without return; Froger defeat is not permanent-death certification and Goran charcoal/dust disappearance is not an independently certified eternal fate. Hanako is actually returned; Momoko fate remains unknown. Heroic/merciful jokes and planned town destruction are not actual acts. A serious transfer retains agency, limits and incomplete repair without importing magic or real-world therapy claims.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Possession, imposed exposure, threatened erasure, intimidation and costly dependence remain serious inside comic sequences. Rosary limited restraint request is not blanket permission; later useful care does not erase prior violation. The small worker remaining-life offer is not informed acceptance of the full erasure described privately by Vanir. No worker life loss or completed sacrifice is reported. Transfer preserves received knowledge, protest, feasible help and real consequences while using only the destination setting powers.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort31.receiving-and-provenance.v1",
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "received_utc": "2026-10-24T07:16:33.598838+00:00",
   "previous_published_source": "681d9d058caabc38a26c56496c255677e2a2d616",
   "main_at_receiving": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
@@ -1017,5 +1017,19 @@
   "designated_global_outputs_authored": false,
   "full_program_complete": false,
   "subject_scope_is_frozen_preinput_assessment": true,
-  "current_diagnostic_state": "After that dated planning assessment,26 original firsts and13 dependent source-known pairs were serialized and frozen with zero regeneration/feedback repair. Current counts are in new_artifact_scope and original_first_serialization_pins;no behavioral success score,independent validation or final battery follows."
+  "current_diagnostic_state": "After that dated planning assessment,26 original firsts and13 dependent source-known pairs were serialized and frozen with zero regeneration/feedback repair. Current counts are in new_artifact_scope and original_first_serialization_pins;no behavioral success score,independent validation or final battery follows.",
+  "publication_resolution": {
+    "source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+    "tree": "57e93d3379599a2f1de2b27d6ad322e0a3002a69",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "733f192cbf87866536d28e8c7ab2f6f8f04129d46fdcdcf92605ba23852b0fd9",
+    "source_run": 40074965468,
+    "full_discovered_tests": 459,
+    "current_models": 51,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "separate_housekeeping_run": null
+  },
+  "current_gate_qualification": "Original source/diagnostic scope, all 29 canonical core artifacts, 33 frozen private artifacts and 26 original bodies/receipts remain exact. Author publication is closed; protected-main integration, independent accuracy, grade, confidence gain and the final nine-category battery are not certified."
 }

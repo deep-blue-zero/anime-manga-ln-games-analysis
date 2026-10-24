@@ -2022,3 +2022,10 @@ FD's cool singer/filthy room, shy Archpriest/physical force and confident Ranger
 Edited replay comedy uses prince/low-rank and priest/scroll-role mismatches, health-based harmful gratitude, frightened but effective protection, desired attention with disappointment, and small undead as a bounded practical questioner. Froger kingship is a misheard wish and park language is openly coauthored; Goran secrecy clashes with forced confession. Comedy does not erase pain, coercion, cost, uncertainty or defeated plans. Plans, jokes and GM additions are not independently observed repetitions.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+The treasure competition, kicked-away catalyst and bilateral barrier expose mismatched aims or mechanisms while preserving fear and cost. The leader gift-modesty formula is taken literally by a threatening superior; skin has different value to giver, admirer and Wiz. The small worker idealized romantic advocacy becomes participation in criticism after a cruel reveal. Vendor misunderstandings and contractual reversals retain actual coercion, opportunism and material claims rather than erasing them as jokes.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

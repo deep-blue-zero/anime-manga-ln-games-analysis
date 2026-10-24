@@ -1413,3 +1413,10 @@ Lia's singing joy, particular plush and chosen company coexist with repeated roo
 Replay ordinary evidence includes money, upkeep, comfort, bedding, drinking intentions, milk, odor and a wanted home.2700 KE Chiho→Otohime transfer and 800 KE communication scrolls are actual; continued borrowing/doubt remain. Gilbert/Chiho Economy versus Otohime/Temiren Suite is bounded; 21 individual comfort level is not separately certified. Powerless jewels become decorations, not actual powered baths. Welcome/bath pleasure is narrated; future Banquet, hunt and completed dragon memorial are not performed.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Brad wants the visible chest and needs rest; Vanir retirement/marriage claim is attributed rather than a completed life plan. Rosary long-prayed necklace and offered loan matter without a shown transfer or household budget. The leader values a costly gift and cast-off skin, while the small worker owns a photo book and welcomes a signature. Their wages, profit shares and domestic routines are not supplied. MAIN02 checkout requests a stated fee and shows a wallet, not a literal separate transfer receipt; later revenue sharing is a reported arrangement.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

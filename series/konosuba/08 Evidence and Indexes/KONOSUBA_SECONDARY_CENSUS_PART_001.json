@@ -897,7 +897,23 @@
         "regenerations": 0,
         "independent_accuracy_or_confidence_gain": false,
         "full_program_complete": false
-      }
+      },
+      "cohort32_qualified_scope_route": {
+        "status": "SEMANTIC_ROUTE_RECEIVED_EXACT_PUBLICATION_PENDING",
+        "related_existing_row": 132,
+        "identity": "MAIN02/MASK event-based worker scope; DUST Lolisa personal-name join unresolved.",
+        "rule_support": "Frozen Lolisa model, monograph, evidence and firsts unchanged. MASK not imported into Lolisa individual support.",
+        "artifacts": [
+          "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
+          "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
+          "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MASK_SMALL_SUCCUBUS_RECONSTRUCTION_MODEL.md"
+        ]
+      },
+      "cohort32_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json"
+      ],
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
     },
     {
       "character": "Rionor",
@@ -2084,11 +2100,11 @@
       "character": "Gilbert / Suzuki Chiho / Otohime / Temiren / 21 (historical TRPG PC aggregate)",
       "identity": "Older aggregate routes to existing individual PC rows 163–167; players/GM/PCs distinct. Chio retained only in older derivative history, not as a native alias.",
       "likely_tier": "Routing aggregate; individual scoped Tier 3 monographs/models at rows 163–167; no separate sixth model/person",
-      "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+      "priority": "Cohort 31 bounded author publication complete; continuing full program.",
       "evidence_distribution": "CurrentC31 Core/Advanced edited replays and 56 native rechecks, 170 complete replay-note records; explicit PC continuity and named-subject qualification.",
       "substantive_responsibility": "Five individual monographs and separate 3/2/3/2/3 rule models receive the PCs. Older aggregate is a route only; Froger/Goran are separate source-bound Tier 2 subjects.",
       "gaps": "No aggregate generative model, extra five people, novel continuity or complete TRPG population. Earlier aggregate name and fields retained in history.",
-      "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT31_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "working39_historical_aggregate_disposition": {
         "status": "RETAINED_HISTORICAL_GROUP_NOT_A_CURRENT_INDIVIDUAL_COUNT",
@@ -2124,17 +2140,35 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort31_semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
-      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
+      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure.",
+      "prior_cohort31_publication_fields": {
+        "likely_tier": "Routing aggregate; individual scoped Tier 3 monographs/models at rows 163–167; no separate sixth model/person",
+        "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort31_publication_resolution": {
+        "source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+        "tree": "57e93d3379599a2f1de2b27d6ad322e0a3002a69",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "733f192cbf87866536d28e8c7ab2f6f8f04129d46fdcdcf92605ba23852b0fd9",
+        "source_run": 40074965468,
+        "full_discovered_tests": 459,
+        "current_models": 51,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Other TRPG Core PCs / professionals / unnamed actors",
       "identity": "Open TRPG population and role route; no assumed aliases or globally unique-person count.",
       "likely_tier": "Open population route; new bounded dispositions do not close remaining actors",
-      "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+      "priority": "Cohort 31 bounded author publication complete; continuing full program.",
       "evidence_distribution": "CurrentC31 Core/Advanced replay consolidation and new rows 282–294. Earlier mixed YORI04 DarkStalker/Assassin split references retain their actual separate history and are not TRPG identities.",
       "substantive_responsibility": "New source-bound roles/groups/state records preserve Bo Kujo, guild roles, bartender, surviving toad, Winter Hatamoto, Zamzar/dragon and cows. ExistingPCs 163–167 remain distinct; earlier Yori women are not borrowed to fill this population.",
       "gaps": "Unnamed actors, sample PCs, reference/illustration roles and further joins remain open. Thirteen new records are not thirteen disjoint people; group/survivor overlap, reported biography and animal personification stay qualified.",
-      "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT31_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_gap_history_working21": "Inventory source-qualified identities before artifact decisions; source silence, unindexed evidence and incomplete review stay distinct.",
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
@@ -2164,7 +2198,25 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort31_semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
-      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
+      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure.",
+      "prior_cohort31_publication_fields": {
+        "likely_tier": "Open population route; new bounded dispositions do not close remaining actors",
+        "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort31_publication_resolution": {
+        "source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+        "tree": "57e93d3379599a2f1de2b27d6ad322e0a3002a69",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "733f192cbf87866536d28e8c7ab2f6f8f04129d46fdcdcf92605ba23852b0fd9",
+        "source_run": 40074965468,
+        "full_discovered_tests": 459,
+        "current_models": 51,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Yuiyui",
@@ -3124,69 +3176,227 @@
     },
     {
       "character": "Brad",
-      "identity": "ブラッド; nativeSwordmaster47,Englishnormalizationtentative",
-      "likely_tier": "1–2 candidate",
-      "priority": "Discovery/nativejoin",
-      "evidence_distribution": "MASK-U021whole556P andU02327Pactual;completeacceptedMASKreport209L.",
-      "substantive_responsibility": "Protective/adventuringandtreasuremotives;ownrequests/retreat/recovery,categorycorrection andcoerced-speechreaction distinctfromVanirclaims.",
-      "gaps": "Systematicall-corpusidentity/alias/scenecheckandadequacyreviewbeforefinaltier. Unnamedthirdotheradventurer160andunnamedreturningpairEp25remainunjoined;noinferredparentage.",
-      "disposition_status": "WORKING_DISCOVERY_NATIVE_ANCHORED_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
+      "identity": "ブラッド; Brad is the project retrieval label. Swordmaster at U021P47; the locator is not numerical level 47.",
+      "likely_tier": "2 scoped; twelve-dimension monograph without a separate model; exact publication pending",
+      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "MASK U021P1–556 and U023P1–27 currently received in complete P/base/ruby; human-Wiz recollection, Vanir account and present reports distinguished. All 41 technical name retrieval adds no second Brad scene from bloodfang/bloodstone false matches.",
+      "substantive_responsibility": "Treasure insistence, power-sensitive restraint, coordinated tactical adjustment, distress at compelled speech and actual recovery distinguish Brad. Carrying Rosary coexists with his gaze despite her explicit objection; no unqualified protective-gentleman account.",
+      "gaps": "Reward ordering and ordinary choices outside the repeated party contest remain underidentified. Vanir romantic claim is attributed; Brad denies Rosary as target without naming another. No confirmed reunion identity, marriage, parentage, personal fate, independent accuracy or final maturity.",
+      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_cohort32_current_fields": {
+        "identity": "ブラッド; nativeSwordmaster47,Englishnormalizationtentative",
+        "evidence_distribution": "MASK-U021whole556P andU02327Pactual;completeacceptedMASKreport209L.",
+        "likely_tier": "1–2 candidate",
+        "substantive_responsibility": "Protective/adventuringandtreasuremotives;ownrequests/retreat/recovery,categorycorrection andcoerced-speechreaction distinctfromVanirclaims.",
+        "gaps": "Systematicall-corpusidentity/alias/scenecheckandadequacyreviewbeforefinaltier. Unnamedthirdotheradventurer160andunnamedreturningpairEp25remainunjoined;noinferredparentage.",
+        "priority": "Discovery/nativejoin",
+        "disposition_status": "WORKING_DISCOVERY_NATIVE_ANCHORED_NOT_FINAL_PROMOTION"
+      },
+      "cohort32_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_BRAD_CHARACTER_MONOGRAPH.md"
+      ],
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "cohort32_scope_assessment": {
+        "row": 60,
+        "character": "Brad / ブラッド",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Dense repeated human-Wiz history distinguishes treasure persistence, power-sensitive restraint, tactical adjustment, actual recovery, attraction and embarrassing vulnerability. Broader reward ordering, free ordinary choices and motives outside the party contest remain underidentified; generic fighter/ally roles fit much of the same conduct. No model invented from one chest choice or another actor romantic claim."
+      },
+      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure."
     },
     {
       "character": "Rosary",
-      "identity": "ロザリー; nativeArchpriest49,Englishnormalizationtentative",
-      "likely_tier": "1–2 candidate",
-      "priority": "Discovery/nativejoin",
-      "evidence_distribution": "MASK-U021whole556P andU02327Pactual;completeacceptedMASKreport209L.",
-      "substantive_responsibility": "Erisidentity/anti-devilaction,realfailedseal,bodypossessionresistance/limits,barriererrorrecognition andloanoffer;coercedspeechnotownbelief.",
-      "gaps": "Systematicall-corpusidentity/alias/scenecheckandadequacyreviewbeforefinaltier. Unnamedthirdotheradventurer160andunnamedreturningpairEp25remainunjoined;noinferredparentage.",
-      "disposition_status": "WORKING_DISCOVERY_NATIVE_ANCHORED_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
+      "identity": "ロザリー; Rosary is the project retrieval label. Archpriest at U021P49, later called high level; no numerical level or automatic capital-priest identity.",
+      "likely_tier": "2 scoped; twelve-dimension monograph without a separate model; exact publication pending",
+      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "MASK U021P1–556 and U023P1–27 currently received in complete P/base/ruby; own speech/resistance, compelled Vanir utterances and later report owners distinguished.",
+      "substantive_responsibility": "Faith, withdrawal advice, prepared but interrupted sealing, resisting possession, practical barrier objection and offered loan form an individual portrait. Her limited restraint request and no-looking boundary remain real; Wiz forgiveness is not hers.",
+      "gaps": "Catalyst kicked away before activation, not a fully active seal broken. Loan offered rather than transferred; P347 speaker qualified. Clerical role, familiarity and repeated conflict confound rule weights. No named reunion pair, individual last-days choice, completed final model or independent grade.",
+      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_cohort32_current_fields": {
+        "identity": "ロザリー; nativeArchpriest49,Englishnormalizationtentative",
+        "evidence_distribution": "MASK-U021whole556P andU02327Pactual;completeacceptedMASKreport209L.",
+        "likely_tier": "1–2 candidate",
+        "substantive_responsibility": "Erisidentity/anti-devilaction,realfailedseal,bodypossessionresistance/limits,barriererrorrecognition andloanoffer;coercedspeechnotownbelief.",
+        "gaps": "Systematicall-corpusidentity/alias/scenecheckandadequacyreviewbeforefinaltier. Unnamedthirdotheradventurer160andunnamedreturningpairEp25remainunjoined;noinferredparentage.",
+        "priority": "Discovery/nativejoin",
+        "disposition_status": "WORKING_DISCOVERY_NATIVE_ANCHORED_NOT_FINAL_PROMOTION"
+      },
+      "cohort32_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_ROSARY_CHARACTER_MONOGRAPH.md"
+      ],
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "cohort32_scope_assessment": {
+        "row": 61,
+        "character": "Rosary / ロザリー",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Faith, retreat advice, fallible sealing, bodily resistance, practical category correction and a loan offer support an individual interpretation. The source supports much more than a failed-priest label. Stable rule weights outside the prolonged adversarial project and unperformed material cost are insufficiently identified for a distinct current model; no ceiling on later promotion."
+      },
+      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure."
     },
     {
-      "character": "Karen (MASK party lead; identity unresolved)",
-      "identity": "カレン; surname/roleunfixed;possibleKarenDonnellyjoinunresolved",
-      "likely_tier": "0–1 candidate",
-      "priority": "Discovery/nativejoin",
-      "evidence_distribution": "MASK-U021whole556P andU02327Pactual;completeacceptedMASKreport209L.",
-      "substantive_responsibility": "Relational/battleparticipationreports143/159/347;noownchoiceinreceivedwindows. Do notmergeorsplitcross-sourcepeopleonsharedfirstname.",
-      "gaps": "Systematicall-corpusidentity/alias/scenecheckandadequacyreviewbeforefinaltier. Unnamedthirdotheradventurer160andunnamedreturningpairEp25remainunjoined;noinferredparentage.",
-      "disposition_status": "WORKING_DISCOVERY_NATIVE_ANCHORED_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
+      "character": "Karen (reported MASK colleague; identity unresolved)",
+      "identity": "カレン; reported human-Wiz colleague. No explicit surname bridge to CONTEXP01 Donnelly head Karen.",
+      "likely_tier": "0 scoped; bounded named occurrence/relationship index; exact publication pending",
+      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "MASK U021P143, 159–160, 347 within complete current U021 context; U023 unnamed reunion does not fix identity.",
+      "substantive_responsibility": "Mutual-feelings and offscreen battle reports preserve Karen participation and relation to Yukinori without inventing own speech or decisions.",
+      "gaps": "Reported relation is not own testimony, marriage, fate or reunion identification. Shared first name neither forces Donnelly merger nor certifies disjoint people. Independent audit of the Donnelly subject remains open.",
+      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_cohort32_current_fields": {
+        "character": "Karen (MASK party lead; identity unresolved)",
+        "identity": "カレン; surname/roleunfixed;possibleKarenDonnellyjoinunresolved",
+        "evidence_distribution": "MASK-U021whole556P andU02327Pactual;completeacceptedMASKreport209L.",
+        "likely_tier": "0–1 candidate",
+        "substantive_responsibility": "Relational/battleparticipationreports143/159/347;noownchoiceinreceivedwindows. Do notmergeorsplitcross-sourcepeopleonsharedfirstname.",
+        "gaps": "Systematicall-corpusidentity/alias/scenecheckandadequacyreviewbeforefinaltier. Unnamedthirdotheradventurer160andunnamedreturningpairEp25remainunjoined;noinferredparentage.",
+        "priority": "Discovery/nativejoin",
+        "disposition_status": "WORKING_DISCOVERY_NATIVE_ANCHORED_NOT_FINAL_PROMOTION"
+      },
+      "cohort32_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
+      ],
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "cohort32_scope_assessment": {
+        "row": 62,
+        "character": "Karen (reported MASK colleague)",
+        "tier": 0,
+        "artifacts": [
+          "bounded name/participation index"
+        ],
+        "reason": "Named romance/battle reports and intended assistance are useful retrieval evidence, but no own speech/choice or explicit Donnelly bridge is received. Do not turn reported relation into a full personality or force a unique-person split."
+      },
+      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure."
     },
     {
       "character": "Yukinori",
-      "identity": "ユキノリ; roleunfixed",
-      "likely_tier": "0–1 candidate",
-      "priority": "Discovery/nativejoin",
-      "evidence_distribution": "MASK-U021whole556P andU02327Pactual;completeacceptedMASKreport209L.",
-      "substantive_responsibility": "ReportedmutualfeelingswithKaren143 andseparatebattle347;ownchoicesnotdirectlyreceivedinthesewindows.",
-      "gaps": "Systematicall-corpusidentity/alias/scenecheckandadequacyreviewbeforefinaltier. Unnamedthirdotheradventurer160andunnamedreturningpairEp25remainunjoined;noinferredparentage.",
-      "disposition_status": "WORKING_DISCOVERY_NATIVE_ANCHORED_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
-    },
-    {
-      "priority": "Discovery",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "ユキノリ; reported human-Wiz colleague, occupation and private biography unprovided.",
+      "likely_tier": "0 scoped; bounded named occurrence/relationship index; exact publication pending",
+      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "MASK U021P143, 159–160, 347 within complete current U021 context; unnamed epilogue adults remain unjoined.",
+      "substantive_responsibility": "Reported mutual feelings with Karen and offscreen participation are indexed. Three people in that contingent leave one unnamed role; the two names are not a complete roster.",
+      "gaps": "No own voice, choice, job, completed marriage, family, exact fate or automatic reunion join. Sparse participation does not establish a generative personality.",
+      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "character": "アンダイン (MASK named noble; normalized name unresolved)",
-      "identity": "Native address U019272; no automatic Alderp/Undine spelling or persona join",
-      "likely_tier": "0–1 bounded candidate",
-      "evidence_distribution": "MASK U019271-275 actual overheard complaint after guard failure; other alleged thefts remain reported.",
-      "substantive_responsibility": "Own investment in guards, property loss and accountability demand; threat/status pressure do not establish all private motives.",
-      "gaps": "Cross-volume exact-name/identity audit required; no independent observation count or shared noble model."
+      "prior_cohort32_current_fields": {
+        "identity": "ユキノリ; roleunfixed",
+        "evidence_distribution": "MASK-U021whole556P andU02327Pactual;completeacceptedMASKreport209L.",
+        "likely_tier": "0–1 candidate",
+        "substantive_responsibility": "ReportedmutualfeelingswithKaren143 andseparatebattle347;ownchoicesnotdirectlyreceivedinthesewindows.",
+        "gaps": "Systematicall-corpusidentity/alias/scenecheckandadequacyreviewbeforefinaltier. Unnamedthirdotheradventurer160andunnamedreturningpairEp25remainunjoined;noinferredparentage.",
+        "priority": "Discovery/nativejoin",
+        "disposition_status": "WORKING_DISCOVERY_NATIVE_ANCHORED_NOT_FINAL_PROMOTION"
+      },
+      "cohort32_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
+      ],
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "cohort32_scope_assessment": {
+        "row": 63,
+        "character": "Yukinori",
+        "tier": 0,
+        "artifacts": [
+          "bounded name/participation index"
+        ],
+        "reason": "The same reported relationship and offscreen fight supply a named role, not an observed decision mechanism, voice, fate or automatically identified reunion visitor."
+      },
+      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure."
     },
     {
-      "priority": "Discovery",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "character": "アンダイン (MAIN08/MASK noble; normalized name unresolved)",
+      "identity": "Native アンダイン with supported household/artifact/thief bridge across MAIN08, MASK and CONTEXP01 opening. Andain is a project retrieval rendering; no Alderp/Undine merge.",
+      "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
+      "evidence_distribution": "MASK U019P271–275; MAIN08 text/part0011.html P245–498 and part0013.html P230–513; CONTEXP01 item/xhtml/p-002.xhtml P1–12, all current complete P/base/ruby at those scopes.",
+      "substantive_responsibility": "Own guard-contract complaint, property/security investment and accountability demand coexist with household security and Aigis autonomous exit. Chris acquisition claim and expected denial, noble loss report and untagged resident pursuit retain separate owners.",
+      "gaps": "No verified illegal transaction, exact asset value, performed negotiation, automatic all-household voice attribution or universal noble motive. First attempted armor removal fails without certifying no other loot was taken; staff groups remain unresolved.",
+      "prior_cohort32_current_fields": {
+        "character": "アンダイン (MASK named noble; normalized name unresolved)",
+        "identity": "Native address U019272; no automatic Alderp/Undine spelling or persona join",
+        "evidence_distribution": "MASK U019271-275 actual overheard complaint after guard failure; other alleged thefts remain reported.",
+        "likely_tier": "0–1 bounded candidate",
+        "substantive_responsibility": "Own investment in guards, property loss and accountability demand; threat/status pressure do not establish all private motives.",
+        "gaps": "Cross-volume exact-name/identity audit required; no independent observation count or shared noble model.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort32_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
+      ],
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "cohort32_scope_assessment": {
+        "row": 64,
+        "character": "アンダイン (MAIN08/MASK noble household)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Name/household/artifact-thief bridge and actual guard-contract complaint allow bounded property/security/accountability description. Alleged illegal acquisition, predicted denial and inferred incentives stay reports/hypotheses; no independent full personality or other-noble join."
+      },
+      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure."
+    },
+    {
+      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "character": "Unnamed succubus leader (MASK)",
-      "identity": "U01910leader role; distinct from unnamed smallsuccubus and other shopworkers; personalname unknown",
-      "likely_tier": "1–2 bounded candidate",
-      "evidence_distribution": "MASKU0193-35,247-255,509-537,560-596; full648Pbase-text received.",
-      "substantive_responsibility": "Gift/Charm approach, commercial-celebrity request, work defense/appeal for patronage, warns Vanir to flee, later secret/conciliation and refusal of Aqua offer. Ownchoices and downstreamcost distinct from Vanirplan.",
-      "gaps": "Cross-source identity and workagency audit; leader does not equal Lolisa becausebothsuccubi. Cooperationunder hierarchy/fear is not universalconsent."
+      "identity": "Explicit leader at MASK U019P10; personal name unprovided. Distinct second small worker; older U017 fan and MAIN02 receptionist joins remain open.",
+      "likely_tier": "2 scoped; twelve-dimension monograph without a separate model; exact publication pending",
+      "evidence_distribution": "Complete current MASK U019P1–648 and bounded U017P195–277, 420–444, 467–517 in P/base/ruby; individually tagged leader actions distinguished from group/untagged pair speech.",
+      "substantive_responsibility": "Gift repair, failed Charm/apology, concealed celebrity-access pitch, renewed material protection request and warnings for Vanir to flee form a dense individual arc. Commercial interest, admiration, hierarchy, fear and reciprocal concern coexist.",
+      "gaps": "Do not borrow worker help-fetching, pride answer, whispered plea or remaining-life offer. Five-hundred-year instruction is not age; no unique group fight or every later paired line assigned to leader. Broader individual decision branches and causal weights insufficiently identified for a current model.",
+      "prior_cohort32_current_fields": {
+        "identity": "U01910leader role; distinct from unnamed smallsuccubus and other shopworkers; personalname unknown",
+        "evidence_distribution": "MASKU0193-35,247-255,509-537,560-596; full648Pbase-text received.",
+        "likely_tier": "1–2 bounded candidate",
+        "substantive_responsibility": "Gift/Charm approach, commercial-celebrity request, work defense/appeal for patronage, warns Vanir to flee, later secret/conciliation and refusal of Aqua offer. Ownchoices and downstreamcost distinct from Vanirplan.",
+        "gaps": "Cross-source identity and workagency audit; leader does not equal Lolisa becausebothsuccubi. Cooperationunder hierarchy/fear is not universalconsent.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort32_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_MASK_SUCCUBUS_LEADER_CHARACTER_MONOGRAPH.md"
+      ],
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "cohort32_scope_assessment": {
+        "row": 65,
+        "character": "Unnamed MASK succubus leader",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Gift/Charm/apology, concealed celebrity-access pitch, work threat, renewed request and reciprocal warning supply a dense revealing arc. Do not import the second worker own decisions or certify older-U017-fan continuity. Admiration, commercial dependence, hierarchy and survival remain confounded; broader generation lacks enough differentiated individual branches."
+      },
+      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure."
     },
     {
       "priority": "Discovery",

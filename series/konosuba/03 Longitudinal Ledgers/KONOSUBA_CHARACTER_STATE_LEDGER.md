@@ -1866,3 +1866,10 @@ Lia's pre-memory competence, restored-history withdrawal, duty conflict, finite 
 TRPG replay construction, PC acts, player metacomment, GM adjudication and reported history remain distinct. Gilbert useful support/status/credibility conflict; Chiho health doctrine and unresolved relational reassurance; Otohime fear, actual costs and partial repair; Temiren recognition and typed competence; 21 pressure before later own belonging each receive separate monograph/model. Froger/Goran receive monographs without models. These states are not added principal-novel events or natural-player psychology.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Brad and Rosary change appraisal across the repeated dungeon contest without becoming fixed greedy fighter or fanatical priest types. Their actual contributions, errors, embarrassment and unequal bodily agency remain. The MASK leader and second worker have separate arcs: patronage negotiation and reciprocal warning versus idealized advocacy, revised danger and a qualified MAIN02 work-failure bridge. No group utterance or private narrator knowledge supplies an extra individual state.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

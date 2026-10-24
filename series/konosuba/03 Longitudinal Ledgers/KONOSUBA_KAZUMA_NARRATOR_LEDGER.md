@@ -1459,3 +1459,10 @@ All FD main narration is Kazuma, including Lia's quoted recovered self-history. 
 The TRPG edited narrator, GM/PC/player voices, reported diaries/wills and direct rule adjudications are not automatically Kazuma narration. Core world-guide second-personキミ is not automatically Kazuma or Mitsurugi; reference balloons are not new principal scenes. CurrentC31 source-plane qualifications prevent these replay observations from silently changing the frozen Kazuma model or retrospectively re-scoring principal predictions.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+MAIN02 Kazuma mistaken dream appraisal and the party manipulation theory do not show a service or Charm performed by the captured smaller visitor. The receptionist advertisement, Dust safety account, visitor apology and Kazuma actual interposition have different owners. MASK human-Wiz recollection and Vanir private narration are separate from Kazuma. No private full-erasure warning is silently supplied to the small worker, and no new current principal-model accuracy or repaired forecast follows.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

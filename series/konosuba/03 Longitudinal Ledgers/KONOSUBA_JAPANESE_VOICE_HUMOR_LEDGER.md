@@ -1989,3 +1989,10 @@ Lia's 私, familiar partner names, きみ, blunt antagonist refusal and brief �
 Native スズキ・チホ/チホ governs both books; older Chio is derivative error, not rename. クラリオン・ヒート・ギルバート,御手洗音姫/みたらいおとひめ,てみれん and 21番 have separate player identities.21 この身 can mix with casual reply/refusal; manufacturing number and一頭身 are not life/head counts. Religious boasting, health judgment, requests, refusals, professional pride and practical explanation have different addressees/functions.26 English methodological firsts and marked self-reference do not validate Japanese voice, audio or L3 performance.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+ブラッド and ロザリー govern project retrieval names; P47/P49 identify occupations, not levels. Brad rough correction, Rosary prayer/protest and each worker deferential requests have different purposes. Compelled speech through Rosary is Vanir speech, while host resistance and no-looking request are hers. The leader つまらない物 repair depends on gift pragmatics. Small-worker customer address, fan pressure and whispered plea differ; later untagged pair lines remain joint. Six English methodological firsts do not validate Japanese voice, audio or human recognition.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

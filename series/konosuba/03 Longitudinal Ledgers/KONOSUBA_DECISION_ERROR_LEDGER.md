@@ -1996,3 +1996,10 @@ Lia accepts a false Konjiro claim and treats abduction as her responsibility, wh
 Core/Advanced replays retain Gilbert embellished executive report and damaged credibility, Chiho proposed illness-for-gratitude and avoidable risk, Otohime incomplete shared-danger planning and resource dependence, Temiren wishful appraisal alongside criticism, and 21 early pressured assent alongside later refusal. Goran confession is scenario-required, not a successful lie-detection roll. Original diagnostics retain N21-H01-A familiar-person overgeneralization, N21-H02-A earlier-answer presupposition andN21-H03-B unprovided injury type; OT-H03-A echoes a detailed source motive. No first is repaired into success.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Brad dismisses rank through a prank-based inference and continues to gaze despite Rosary objection. Rosary categorical hostility coexists with practical correction. The leader conceals a celebrity-access aim and corrects her Wiz category error. The small worker pressure on Luna is adverse, her courage is elicited by Vanir pride framing, and her finite-life estimate lacks the narrator full-erasure information. Six original diagnostics retain H01-B other-mind assumption, H02-A unprovided run-demand presupposition and H03-B prior-instruction assurance; no original body or foundation is repaired.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

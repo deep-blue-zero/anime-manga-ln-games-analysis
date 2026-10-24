@@ -1,0 +1,544 @@
+{
+  "schema": "konosuba.cohort32.receiving-and-provenance.v1",
+  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "received_utc": "2026-10-24T09:20:49.568045+00:00",
+  "previous_published_source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+  "main_at_receiving": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
+  "semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+  "foundation_seal_sha256": "2bc2d69962028c6157fb0f70c98fce42c84c7ddb6bc20d80f34971984df4877d",
+  "foundation_review_sha256": "f1a1ae3d0d13025e4be6e5cf504754f1e8cc26eee1f200fa47073caa5ed9f75b",
+  "exact_input_freeze_sha256": "84c777f5e13f204bf006fbb6d3dda3a86982ebbe3561912fe98b656da624abbf",
+  "body_freeze_sha256": "d86bec9d1ede4964804113c1e902dac58d8ed446f58a92fd76f3e46741a32699",
+  "all15_frozen_private_artifact_pins": [
+    {
+      "file": "BRAD_MONOGRAPH_DRAFT_01.md",
+      "bytes": 11394,
+      "sha256": "2614662426728eae5f055255507de0a19ae65ed7065a589587212f5a47ed2b5d"
+    },
+    {
+      "file": "ROSARY_MONOGRAPH_DRAFT_02.md",
+      "bytes": 10997,
+      "sha256": "fe38c434717cf34cd424c2f930b16231e48132aa273bd598c768775896e43bd2"
+    },
+    {
+      "file": "MASK_LEADER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 11100,
+      "sha256": "5b14c405ffadcf398e87001d3fb5d56f6ad5ae699fa8ff4649c683da8d41bac9"
+    },
+    {
+      "file": "MASK_SMALL_WORKER_MONOGRAPH_DRAFT_02.md",
+      "bytes": 11459,
+      "sha256": "9d81da98a81bf5bd7f3e8b71d75b882a0ea5ea51ef8c9f869b28cd3fa267dc2a"
+    },
+    {
+      "file": "MASK_SMALL_SUCCUBUS_MODEL_DRAFT_01.md",
+      "bytes": 13036,
+      "sha256": "3f4697c55172317aab25f2283bfe6dddca2d391cb4e8bfab54ad5e4ed1eff1fb"
+    },
+    {
+      "file": "MASK_SMALL_SUCCUBUS_RULE_INVENTORY_DRAFT_01.json",
+      "bytes": 6339,
+      "sha256": "31528653eacc296f04fbf9900c5cb6c945f9004a7bfda0a6df03c00d8fe4eb6c"
+    },
+    {
+      "file": "COHORT32_EVIDENCE_INDEX_DRAFT_02.md",
+      "bytes": 15172,
+      "sha256": "b44d49bd8492c1ec3e4c6d8170cf8c0ce6007e4b0e2e95398001038f5a7daa6f"
+    },
+    {
+      "file": "COHORT32_NATIVE_PROVENANCE_DRAFT_02.json",
+      "bytes": 31262,
+      "sha256": "9c289de4baae39a11227a79a7c1faab711cd5d83c5d76f02896139dcc3173294"
+    },
+    {
+      "file": "COHORT32_COMPACT_PROFILES_DRAFT_01.md",
+      "bytes": 13038,
+      "sha256": "f76ede288bbe326a8fe9a6fdc44f060ca9a0e0fa6232e85526a396bdc61159a8"
+    },
+    {
+      "file": "COHORT32_SCOPE_ASSESSMENT_02.json",
+      "bytes": 6872,
+      "sha256": "05c3860cfa3fccf02ec496e47e3618203a029ca435dc96862e464260cc056803"
+    },
+    {
+      "file": "COHORT32_NEW_DISCOVERY_RECORDS_DRAFT_02.json",
+      "bytes": 19756,
+      "sha256": "793ab0c53abec1fbeb1532f17e015e107712e45741f2f8fe6a03f881de2bcdc1"
+    },
+    {
+      "file": "COHORT32_NAME_REFERENCE_CHECK_DRAFT_01.json",
+      "bytes": 11948,
+      "sha256": "c8da03e61e9735161000a1375b601450966266eb571a8dc051f1170884e5474c"
+    },
+    {
+      "file": "MASK_SMALL_SUCCUBUS_SCENARIO_INPUTS_01.json",
+      "bytes": 21702,
+      "sha256": "d33b0ea93185303b50e1a4a6b3c758ee893202c3c71c6760ef3236fec7b60fcd"
+    },
+    {
+      "file": "MASK_SMALL_SUCCUBUS_FIRST_OUTPUTS_01.json",
+      "bytes": 15180,
+      "sha256": "57c5fb5f190e494eab46ae4d1e90bea683503d3a04450aaa158abd53084f2d96"
+    },
+    {
+      "file": "MASK_SMALL_SUCCUBUS_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 12487,
+      "sha256": "5b47741c4575bd4f564940ba38c3cb7d4706cdf94ae769fec52e67b9ba4d8811"
+    }
+  ],
+  "core_artifact_pins": [
+    {
+      "private_file": "BRAD_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_BRAD_CHARACTER_MONOGRAPH.md",
+      "bytes": 11394,
+      "sha256": "2614662426728eae5f055255507de0a19ae65ed7065a589587212f5a47ed2b5d"
+    },
+    {
+      "private_file": "ROSARY_MONOGRAPH_DRAFT_02.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ROSARY_CHARACTER_MONOGRAPH.md",
+      "bytes": 10997,
+      "sha256": "fe38c434717cf34cd424c2f930b16231e48132aa273bd598c768775896e43bd2"
+    },
+    {
+      "private_file": "MASK_LEADER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MASK_SUCCUBUS_LEADER_CHARACTER_MONOGRAPH.md",
+      "bytes": 11100,
+      "sha256": "5b14c405ffadcf398e87001d3fb5d56f6ad5ae699fa8ff4649c683da8d41bac9"
+    },
+    {
+      "private_file": "MASK_SMALL_WORKER_MONOGRAPH_DRAFT_02.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MASK_SMALL_SUCCUBUS_CHARACTER_MONOGRAPH.md",
+      "bytes": 11459,
+      "sha256": "9d81da98a81bf5bd7f3e8b71d75b882a0ea5ea51ef8c9f869b28cd3fa267dc2a"
+    },
+    {
+      "private_file": "MASK_SMALL_SUCCUBUS_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MASK_SMALL_SUCCUBUS_RECONSTRUCTION_MODEL.md",
+      "bytes": 13036,
+      "sha256": "3f4697c55172317aab25f2283bfe6dddca2d391cb4e8bfab54ad5e4ed1eff1fb"
+    },
+    {
+      "private_file": "MASK_SMALL_SUCCUBUS_RULE_INVENTORY_DRAFT_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/MASK_SMALL_SUCCUBUS_EXPANDED_V1_EVIDENCE/MASK_SMALL_SUCCUBUS_RULE_INVENTORY_01.json",
+      "bytes": 6339,
+      "sha256": "31528653eacc296f04fbf9900c5cb6c945f9004a7bfda0a6df03c00d8fe4eb6c"
+    },
+    {
+      "private_file": "COHORT32_EVIDENCE_INDEX_DRAFT_02.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
+      "bytes": 15172,
+      "sha256": "b44d49bd8492c1ec3e4c6d8170cf8c0ce6007e4b0e2e95398001038f5a7daa6f"
+    },
+    {
+      "private_file": "COHORT32_NATIVE_PROVENANCE_DRAFT_02.json",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
+      "bytes": 31262,
+      "sha256": "9c289de4baae39a11227a79a7c1faab711cd5d83c5d76f02896139dcc3173294"
+    },
+    {
+      "private_file": "MASK_SMALL_SUCCUBUS_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/MASK_SMALL_SUCCUBUS_EXPANDED_V1_EVIDENCE/MASK_SMALL_SUCCUBUS_SCENARIO_INPUTS_01.json",
+      "bytes": 21702,
+      "sha256": "d33b0ea93185303b50e1a4a6b3c758ee893202c3c71c6760ef3236fec7b60fcd"
+    },
+    {
+      "private_file": "MASK_SMALL_SUCCUBUS_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/MASK_SMALL_SUCCUBUS_EXPANDED_V1_EVIDENCE/MASK_SMALL_SUCCUBUS_FIRST_OUTPUTS_01.json",
+      "bytes": 15180,
+      "sha256": "57c5fb5f190e494eab46ae4d1e90bea683503d3a04450aaa158abd53084f2d96"
+    },
+    {
+      "private_file": "MASK_SMALL_SUCCUBUS_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/MASK_SMALL_SUCCUBUS_EXPANDED_V1_EVIDENCE/MASK_SMALL_SUCCUBUS_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 12487,
+      "sha256": "5b47741c4575bd4f564940ba38c3cb7d4706cdf94ae769fec52e67b9ba4d8811"
+    }
+  ],
+  "compact_profile_fragment": {
+    "private_file": "COHORT32_COMPACT_PROFILES_DRAFT_01.md",
+    "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "bytes": 13038,
+    "sha256": "f76ede288bbe326a8fe9a6fdc44f060ca9a0e0fa6232e85526a396bdc61159a8"
+  },
+  "original_first_serialization_pins": [
+    {
+      "case_id": "MSS-H01-A",
+      "body_file": "COHORT32_FIRST_BODY_MSS-H01-A_01.txt",
+      "body_bytes": 627,
+      "body_sha256": "8a6fc61df56268361e380129ae22adf62fc99bfd29c4e81ac8fa92d5855bcd85",
+      "receipt_file": "COHORT32_FIRST_BODY_MSS-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "ec1fc35f78581afc89a8fd391b315b2edf7e0d191f2f6199591702e51fec370c",
+      "word_count": 104,
+      "word_budget_satisfied": true,
+      "actual_complete_body_tool_chunk": "719ac5"
+    },
+    {
+      "case_id": "MSS-H01-B",
+      "body_file": "COHORT32_FIRST_BODY_MSS-H01-B_01.txt",
+      "body_bytes": 647,
+      "body_sha256": "37b6bce4d6eb382f230cd09443430f1506668060134bc648f44cffa308996605",
+      "receipt_file": "COHORT32_FIRST_BODY_MSS-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "e54fccc942dd4f61b2f8629c2240c8011c102afd048dd797b913e66a539debbd",
+      "word_count": 105,
+      "word_budget_satisfied": true,
+      "actual_complete_body_tool_chunk": "f4ba93"
+    },
+    {
+      "case_id": "MSS-H02-A",
+      "body_file": "COHORT32_FIRST_BODY_MSS-H02-A_01.txt",
+      "body_bytes": 635,
+      "body_sha256": "45f4c37db3b7795429297e8b27f6b3ad248d900b5a6500c94afe8028267934fa",
+      "receipt_file": "COHORT32_FIRST_BODY_MSS-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "23506e766745fe945190f24f1a1acaba88a333f24f19e75789b3837fe5a528bc",
+      "word_count": 106,
+      "word_budget_satisfied": true,
+      "actual_complete_body_tool_chunk": "b0c5b1"
+    },
+    {
+      "case_id": "MSS-H02-B",
+      "body_file": "COHORT32_FIRST_BODY_MSS-H02-B_01.txt",
+      "body_bytes": 611,
+      "body_sha256": "9132628cee6230a62ae2ee043224ee7dc023dc618426c8b74bd3b8aa4687a402",
+      "receipt_file": "COHORT32_FIRST_BODY_MSS-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "2faaeed030ef240ca33961bc2743ae9ab479c0a949d3b0eaed87f7689ca85dc5",
+      "word_count": 106,
+      "word_budget_satisfied": true,
+      "actual_complete_body_tool_chunk": "3002a7"
+    },
+    {
+      "case_id": "MSS-H03-A",
+      "body_file": "COHORT32_FIRST_BODY_MSS-H03-A_01.txt",
+      "body_bytes": 619,
+      "body_sha256": "1d632c3f2f1e7448a238a31753c2d8e4159769bd78d72cd02933944b209d9737",
+      "receipt_file": "COHORT32_FIRST_BODY_MSS-H03-A_01_RECEIPT.json",
+      "receipt_sha256": "742c3ae3864bee7d2e12aec6cb1ed436864bad5e342bbb71e0d1bf77f8cc1efa",
+      "word_count": 102,
+      "word_budget_satisfied": true,
+      "actual_complete_body_tool_chunk": "415a8a"
+    },
+    {
+      "case_id": "MSS-H03-B",
+      "body_file": "COHORT32_FIRST_BODY_MSS-H03-B_01.txt",
+      "body_bytes": 616,
+      "body_sha256": "ea4fb978da07c630d7ecc38b0e73a36dd7a4f292bae48323b7e5b52757ac8c74",
+      "receipt_file": "COHORT32_FIRST_BODY_MSS-H03-B_01_RECEIPT.json",
+      "receipt_sha256": "f4e2185e33e3a9cb2379b523eda72a4a48b9f930c7e1855845a815fd7ee6a232",
+      "word_count": 107,
+      "word_budget_satisfied": true,
+      "actual_complete_body_tool_chunk": "29dc2f"
+    }
+  ],
+  "new_artifact_scope": {
+    "models": 52,
+    "scoped_secondary_model_subjects": 46,
+    "bounded_profiles": 74,
+    "monograph_only_subjects": 27,
+    "nonfinal_records": 315,
+    "new_models": 1,
+    "new_monographs": 4,
+    "new_compact_profiles": 8,
+    "new_Tier0_dispositions": 15,
+    "new_records": 20,
+    "new_Tier0_records": 13,
+    "new_rules": 3,
+    "new_original_firsts": 6,
+    "new_dependent_pairs": 3
+  },
+  "subject_scope": {
+    "schema": "konosuba.cohort32.evidence-proportionate-scope-assessment.v1",
+    "recorded_utc": "2026-10-24T08:47:46.446508+00:00",
+    "published_source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+    "native_review_seal_sha256": "6219cbb41d6a8ae2ecbcae945726ac16699575ad19aadfd5f71c40a5f0699e13",
+    "latest_native_receiving_sha256": "2e0ec5a7088fb582e8a824a7917c97225dc353343e31edbcae9ea67b33bb8507",
+    "new_discovery_records_sha256": "793ab0c53abec1fbeb1532f17e015e107712e45741f2f8fe6a03f881de2bcdc1",
+    "subjects": [
+      {
+        "row": 60,
+        "character": "Brad / ブラッド",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Dense repeated human-Wiz history distinguishes treasure persistence, power-sensitive restraint, tactical adjustment, actual recovery, attraction and embarrassing vulnerability. Broader reward ordering, free ordinary choices and motives outside the party contest remain underidentified; generic fighter/ally roles fit much of the same conduct. No model invented from one chest choice or another actor romantic claim."
+      },
+      {
+        "row": 61,
+        "character": "Rosary / ロザリー",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Faith, retreat advice, fallible sealing, bodily resistance, practical category correction and a loan offer support an individual interpretation. The source supports much more than a failed-priest label. Stable rule weights outside the prolonged adversarial project and unperformed material cost are insufficiently identified for a distinct current model; no ceiling on later promotion."
+      },
+      {
+        "row": 65,
+        "character": "Unnamed MASK succubus leader",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Gift/Charm/apology, concealed celebrity-access pitch, work threat, renewed request and reciprocal warning supply a dense revealing arc. Do not import the second worker own decisions or certify older-U017-fan continuity. Admiration, commercial dependence, hierarchy and survival remain confounded; broader generation lacks enough differentiated individual branches."
+      },
+      {
+        "row": 132,
+        "character": "Unnamed small dream-service worker (MAIN02/MASK event bridge; Lolisa name join open)",
+        "tier": 3,
+        "rules": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate asymmetric provisional model",
+          "planned source-known dependent contrasts and original firsts after foundation/input freeze"
+        ],
+        "reason": "A qualified, specific prior-mansion/barrier event bridge supports existing row132. Own professional cover/self-blame under danger, idealized-patron pressure and later censure, revised threat appraisal/help-seeking and reciprocal initiative support differentiated narrow hypotheses. MAIN02 front-desk policy and DUST Lolisa powers/biography remain excluded. One professional-risk episode makes that rule particularly provisional; generic occupation, patron loyalty, fear and collective-interest rivals remain live."
+      },
+      {
+        "row": 64,
+        "character": "アンダイン (MAIN08/MASK noble household)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Name/household/artifact-thief bridge and actual guard-contract complaint allow bounded property/security/accountability description. Alleged illegal acquisition, predicted denial and inferred incentives stay reports/hypotheses; no independent full personality or other-noble join."
+      },
+      {
+        "row": 62,
+        "character": "Karen (reported MASK colleague)",
+        "tier": 0,
+        "artifacts": [
+          "bounded name/participation index"
+        ],
+        "reason": "Named romance/battle reports and intended assistance are useful retrieval evidence, but no own speech/choice or explicit Donnelly bridge is received. Do not turn reported relation into a full personality or force a unique-person split."
+      },
+      {
+        "row": 63,
+        "character": "Yukinori",
+        "tier": 0,
+        "artifacts": [
+          "bounded name/participation index"
+        ],
+        "reason": "The same reported relationship and offscreen fight supply a named role, not an observed decision mechanism, voice, fate or automatically identified reunion visitor."
+      }
+    ],
+    "existing_route_updates": [
+      {
+        "row": 17,
+        "disposition": "Retain Lolisa existing Tier3 artifacts and all frozen bodies unchanged. Add a source-scope route to row132 for MAIN02/MASK; the DUST alias join remains unresolved and MASK is not imported into Lolisa rule support."
+      }
+    ],
+    "new_records": 20,
+    "new_compact_profiles": 7,
+    "new_Tier0_records": 13,
+    "new_monographs": 4,
+    "new_models": 1,
+    "new_rules": 3,
+    "total_current_cohort_compact_profiles": 8,
+    "total_current_cohort_Tier0_dispositions": 15,
+    "planned_existing_changed_rows": [
+      17,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      132
+    ],
+    "planned_untouched_entering_rows": 287,
+    "planned_new_rows": [
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314
+    ],
+    "planned_nonfinal_records": 315,
+    "planned_models_if_received": 52,
+    "planned_scoped_secondary_model_subjects": 46,
+    "planned_bounded_profiles": 74,
+    "planned_monograph_only_subjects": 27,
+    "planned_firsts": 6,
+    "planned_dependent_pairs": 3,
+    "exact_inputs_or_firsts_serialized": false,
+    "source_known": true,
+    "same_informed_root_authors_and_assesses_every_stage": true,
+    "all_contrasts_visible": true,
+    "classification_basis": "Contextual diversity, observed ownership, competing explanations and identifiability; no document/word/appearance/rule quota. Tier2 dense contexts do not automatically earn a model; the unnamed worker model is deliberately asymmetric and provisional.",
+    "independent_accuracy_result": null,
+    "capability_grade": null,
+    "confidence_gain": null,
+    "whole_source_or_independent_credit": 0,
+    "new_role_records_not_unique_people": true,
+    "global_census_closed": false,
+    "global_completion_percentage": null,
+    "full_program_complete": false,
+    "previous_scope_file": "COHORT32_SCOPE_ASSESSMENT_01.json",
+    "previous_scope_sha256": "b60e3b342b3838e718eca5ad87dc7f6258dc772a024b5f6a554a81d8f2a3f742",
+    "new_discovery_records_file": "COHORT32_NEW_DISCOVERY_RECORDS_DRAFT_02.json",
+    "prefreeze_precision_notes_file": "COHORT32_NATIVE_AFTER_VIEW_NOTES_05.md",
+    "prefreeze_precision_notes_sha256": "9b44f0cb1516272793e502a9cb15f30d9b46e95e3d4cb091e2058c85bfbda5c1",
+    "risk_knowledge_qualification": "The worker remaining-life offer does not show receipt of Vanir private full-erasure knowledge; model perceived risk rather than an invented informed sacrifice."
+  },
+  "source_access_limits": "2360unique current native P/base/ruby slots including blanks:2320context plus40nonoverlapping lexical paragraphs; six objects with any P, four main contextual objects. All41 technical retrieval identity checks are not reading/absence proof. No new residual,image-set,whole-source,OCR,audio,human or independent admission. Original source gates retain declared scope.",
+  "source_identity_and_knowledge_limits": "Qualified MAIN02/MASK event bridge extends132,not a new duplicate. Lolisa17 personal-name join open; frozen Lolisa support unchanged. Leader,second worker,older fan and counterwoman stay distinct/unresolved as specified. P529 risk andP434 age are narrator private knowledge; no received full-risk warning invented. Brad/Rosary native occupations not levels; report/compelled/group voice owners stay separate.",
+  "diagnostic_limits": "Six unchanged original English firsts/three dependent source-informed pairs. All102–107word bodies meet80–140format only. H01-B other-mind assumption,H02-A unprovided run-demand presupposition,H03-B unsupported prior-instruction assurance,source echo,explanatory voice,cueing and generic rivals are retained. H03-A misleading framing does not demonstrate a literal false claim. No body or foundation feedback repair.",
+  "unprobed_conditions": [
+    "uncued intervention and refusal",
+    "ordinary-work repetitions and actual cost",
+    "full observed interaction and outcomes",
+    "Japanese voice with independent human assessment",
+    "solitary life and unfamiliar institutions",
+    "qualified MAIN02/MASK join subject to later correction",
+    "completed final nine-category battery"
+  ],
+  "current_unique_native_P_slots": 2360,
+  "complete_context_P_slots": 2320,
+  "additional_lexical_P_slots": 40,
+  "main_context_objects": 4,
+  "objects_with_any_actual_P": 6,
+  "technical_all41_identity_retrieval_checks": true,
+  "technical_checks_not_reading": true,
+  "new_whole_source_ruby_residual_image_set_admission_or_independent_credit": 0,
+  "first_output_aggregation_byte_exact": true,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "census_comparison": {
+    "changed_entering_rows": [
+      17,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      132
+    ],
+    "untouched_entering_rows": 287,
+    "new_rows": [
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314
+    ],
+    "nonfinal_records": 315,
+    "canonical_layout": "Manifest/four stable ordered payloads; private WORK99 separate.",
+    "canonical_private_historical_differences_retained": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "historical_storage_snapshot_unchanged": true,
+    "no_unique_person_denominator": true
+  },
+  "prior_preservation_checks": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 51,
+    "control_baseline": "Accepted owner-integrated main controls preserved at a90722d065e56e8fe2c2131e4307e4fa03d0c289; epoch1 migration files remain historical,not current routing.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true,
+    "C27_twenty_cores_compact_fragment_exact": true,
+    "C28_twenty_eight_cores_thirtytwo_private_twentyfour_original_firsts_exact": true,
+    "C28_eighty_nine_raw_deliveries_exact": true,
+    "WORK92_exact": true,
+    "current_C28_public_gate_exact": true,
+    "C29_thirteen_cores_seventeen_private_sixteen_original_firsts_exact": true,
+    "C29_sixty_eight_raw_deliveries_exact": true,
+    "WORK94_exact": true,
+    "current_C29_public_gate_exact": true,
+    "C30_nineteen_cores_twenty_three_private_twenty_four_original_firsts_exact": true,
+    "C30_thirty_three_raw_deliveries_exact": true,
+    "WORK96_exact": true,
+    "current_C30_public_gate_exact": true,
+    "C31_twenty_nine_cores_thirty_three_private_twenty_six_original_firsts_exact": true,
+    "C31_fifty_six_native_copies_exact": true,
+    "WORK98_exact": true,
+    "current_C31_public_gate_exact": true
+  },
+  "all51_entering_models_unchanged": true,
+  "all11_C32_cores_frozen_exact": true,
+  "previous_author_gate": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_PUBLICATION_GATE_CLOSE.json",
+    "source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+    "audit_run_id": 40074965468,
+    "full_discovered_tests": 459,
+    "scope": "Cohort31 author tranche; protected-main integration separately owned."
+  },
+  "historical_preinput_statements": "Frozen foundation/scope/inventory/provenance false input/first flags describe their own earlier drafting boundary; the current execution above records six original firsts.",
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}

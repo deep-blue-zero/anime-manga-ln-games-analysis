@@ -144,12 +144,12 @@
     {
       "character": "Gilbert (TRPG replay PC)",
       "identity": "Gilbert / クラリオン・ヒート・ギルバート; Core male 17 priest, Advanced continuation; player Natsume Akatsuki distinct from PC; not main 16 Gil.",
-      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 3-rule model;exact publication pending",
-      "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 3-rule model;exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 31 bounded author publication complete; continuing full program.",
       "evidence_distribution": "TR31-01–16: Core/Advanced edited replays; 56 current native page rechecks and 170 complete source-order replay-note records, with original admissions/derivatives retaining separate planes.",
       "substantive_responsibility": "Religious framing and useful support, credibility debt and professional displacement support a separate twelve-dimension monograph and three-rule provisional model. Dishonest rank inflation, slap, recruitment pressure, real care, costs and failed checks remain.",
       "gaps": "Six source-known original firsts/three dependent pairs retain direct cueing and possibly overcandid GI-H02-B. No exclusive sect-care mechanism, endogenous lie-policy test, stable restitution, independent reliability or final battery.",
-      "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT31_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
       "working39_receiving_receipt": {
@@ -194,17 +194,35 @@
         "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_GILBERT_COHORT31_SCENARIO_INPUTS_01.json"
       ],
       "cohort31_semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
-      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
+      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure.",
+      "prior_cohort31_publication_fields": {
+        "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 3-rule model;exact publication pending",
+        "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort31_publication_resolution": {
+        "source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+        "tree": "57e93d3379599a2f1de2b27d6ad322e0a3002a69",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "733f192cbf87866536d28e8c7ab2f6f8f04129d46fdcdcf92605ba23852b0fd9",
+        "source_run": 40074965468,
+        "full_discovered_tests": 459,
+        "current_models": 51,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Suzuki Chiho (TRPG replay PC)",
       "identity": "スズキ・チホ / チホ in both replays; Core 17-year-old Adventurer/player 鰤／牙 distinct; Chio is derivative spelling error, not native alias/rename. 出自:動画 retained.",
-      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 2-rule model;exact publication pending",
-      "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 2-rule model;exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 31 bounded author publication complete; continuing full program.",
       "evidence_distribution": "TR31-01–16: explicit Core/Advanced returning PC; reported construction, Aqua health/クラレント story and actual resource/tactical/relationship decisions retain attribution.",
       "substantive_responsibility": "Health-gratitude rationalization with real vulnerability, and giving versus particular relationship meaning support a twelve-dimension monograph and two-rule provisional model. Proposed harm, harsh doctrine, 2700 KE actual transfer, continued doubt and borrowing remain.",
       "gaps": "Four informed firsts/two dependent pairs. Explicit permission/relationship cues and prudent rent boundaries may overcorrect source behavior; actual induced harm and durable lending limits untested. No diagnosis, immunity, settled romance or independent grade.",
-      "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT31_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
       "working39_receiving_receipt": {
@@ -249,17 +267,35 @@
         "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_SUZUKI_CHIHO_COHORT31_SCENARIO_INPUTS_01.json"
       ],
       "cohort31_semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
-      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
+      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure.",
+      "prior_cohort31_publication_fields": {
+        "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 2-rule model;exact publication pending",
+        "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort31_publication_resolution": {
+        "source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+        "tree": "57e93d3379599a2f1de2b27d6ad322e0a3002a69",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "733f192cbf87866536d28e8c7ab2f6f8f04129d46fdcdcf92605ba23852b0fd9",
+        "source_run": 40074965468,
+        "full_discovered_tests": 459,
+        "current_models": 51,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Otohime (TRPG replay PC)",
       "identity": "御手洗音姫 / みたらいおとひめ; male 19 Core PC, Advanced continuation; player 長月達平 distinct from PC and ReZero protagonist.",
-      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 3-rule model;exact publication pending",
-      "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 3-rule model;exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 31 bounded author publication complete; continuing full program.",
       "evidence_distribution": "TR31-02/06/08/11/13/15/16: fear/preparation, actual protection, Core Death Return, ADV resource/comfort and partial counseling; no unperformed option counted.",
       "substantive_responsibility": "Fear with bounded protection, security rationale alongside comfort/dependence, and invited costly explanation support twelve-dimension monograph/three-rule provisional model. Real damage, allied support, 41→82 house Cover survival without return, and continued borrowing stay.",
       "gaps": "Six informed firsts/three dependent pairs are strongly cued by arithmetic, loan terms and willingness. OT-H03-A extrapolates detailed known-source fear; careful restricted-money practice unproven. No cured fear, ended debt, unlimited return or full final battery.",
-      "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT31_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
       "working39_receiving_receipt": {
@@ -304,17 +340,35 @@
         "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_OTOHIME_COHORT31_SCENARIO_INPUTS_01.json"
       ],
       "cohort31_semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
-      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
+      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure.",
+      "prior_cohort31_publication_fields": {
+        "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 3-rule model;exact publication pending",
+        "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort31_publication_resolution": {
+        "source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+        "tree": "57e93d3379599a2f1de2b27d6ad322e0a3002a69",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "733f192cbf87866536d28e8c7ab2f6f8f04129d46fdcdcf92605ba23852b0fd9",
+        "source_run": 40074965468,
+        "full_discovered_tests": 459,
+        "current_models": 51,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Temiren (TRPG replay PC)",
       "identity": "てみれん, female 16 Crimson mage Core PC, Advanced continuation; player みかみてれん distinct; not Megumin/Yunyun.",
-      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 2-rule model;exact publication pending",
-      "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 2-rule model;exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 31 bounded author publication complete; continuing full program.",
       "evidence_distribution": "TR31-01/03/09/11/12/16: requested attention/pain/reappraisal, farmer defense, typed identification/scroll contribution, disappointment and ordinary comfort.",
       "substantive_responsibility": "Recognition persisting through disappointed appraisals and typed finite practical contribution support twelve-dimension monograph/two-rule provisional model. Criticism, deliberate attention friction, failed defenses, costs and unsettled sect claims remain.",
       "gaps": "Four informed firsts/two dependent pairs retain explicit permission/domain cues; TE-H01-B may overstate durable boundary respect. No settled romance, stable conversion, all-purpose genius, Japanese voice validation or independently reliable final model.",
-      "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT31_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
       "working39_receiving_receipt": {
@@ -358,17 +412,35 @@
         "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_TEMIREN_COHORT31_SCENARIO_INPUTS_01.json"
       ],
       "cohort31_semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
-      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
+      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure.",
+      "prior_cohort31_publication_fields": {
+        "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 2-rule model;exact publication pending",
+        "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort31_publication_resolution": {
+        "source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+        "tree": "57e93d3379599a2f1de2b27d6ad322e0a3002a69",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "733f192cbf87866536d28e8c7ab2f6f8f04129d46fdcdcf92605ba23852b0fd9",
+        "source_run": 40074965468,
+        "full_discovered_tests": 459,
+        "current_models": 51,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "21 (TRPG Advanced replay PC)",
       "identity": "21番 manufacturing-number PC; player 藍藤唯 / あいふじゆい distinct; artificial magical-beast/undead chimera,一頭身/~40 cm,この身. No prior-life, dragon or village-girl future join.",
-      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 3-rule model;exact publication pending",
-      "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 3-rule model;exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 31 bounded author publication complete; continuing full program.",
       "evidence_distribution": "TR31-01/08–16: Advanced edited construction, introduction, investigation, requested counseling, combat and final welcome; earlier Core is background relation, not 21 performed action.",
       "substantive_responsibility": "Pressure versus later own belonging, requested inquiry with stopping boundary, and useful contribution/contingent charity with finite recovery support twelve-dimension monograph/three-rule model. Actual jewel swallowing follows dragon animation; statue facility recovers undead; individual bedding level unspecified.",
       "gaps": "Six informed firsts/three dependent pairs retain N21-H01-A unprovided familiar-person absence, N21-H02-A prior-answer presupposition, N21-H03-B injury wording and strong cues. No free initial conversion, unlimited emotional labor, mind-reading, Heal miracle, kinship or final independent grade.",
-      "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT31_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
       "working39_receiving_receipt": {
@@ -413,7 +485,25 @@
         "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_NUMBER21_COHORT31_SCENARIO_INPUTS_01.json"
       ],
       "cohort31_semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
-      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
+      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure.",
+      "prior_cohort31_publication_fields": {
+        "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 3-rule model;exact publication pending",
+        "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort31_publication_resolution": {
+        "source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+        "tree": "57e93d3379599a2f1de2b27d6ad322e0a3002a69",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "733f192cbf87866536d28e8c7ab2f6f8f04129d46fdcdcf92605ba23852b0fd9",
+        "source_run": 40074965468,
+        "full_discovered_tests": 459,
+        "current_models": 51,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Tristan / トリスタン",
