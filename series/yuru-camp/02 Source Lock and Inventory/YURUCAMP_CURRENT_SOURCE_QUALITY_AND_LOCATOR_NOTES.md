@@ -4,7 +4,7 @@ artifact_id: YURUCAMP_CURRENT_SOURCE_QUALITY_AND_LOCATOR_NOTES
 artifact_type: source_quality_audit
 series: YURUCAMP
 status: canonical
-source_boundary: Source identities through V19 acquisition; literary analysis complete through V17
+source_boundary: Source identities through V19 acquisition; literary analysis complete through V18
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -123,3 +123,34 @@ For each endpoint below, XHTML basenames are under `item/xhtml/` and image basen
 | Tenth-anniversary metafiction comic | 166–166 | `p-165.xhtml` → `hyoushi.jpg` | `p-165.xhtml` → `hyoushi.jpg` | No printed-page conversion asserted |
 
 Ch97 retains spine 113 as a full lake panorama and spine 114 as the original GO NEXT PAGE navigation image; spine 115 visibly resumes printed 113. Main narrative ends at spine 160 / printed 158, before the separate Heya and closing matter. Do not delete or renumber title, transition, navigation, blank or paratext images. A source locator identifies the page; a dream, reported scene or retrospective image within it still needs its correct narrative mode, as distinguished in the reading. None of this is a blanket raw/spine-to-printed offset or permission to reuse an archived V17 wrapper without its explicit concordance.
+
+## V18 literary transaction and exact current locator lookup — 2026-10-23
+
+All 166 preferred V18 original spine images were individually visually inspected in source order, followed by a separate analytical Pass B. The [V18 reading](../03%20Volume%20Deep%20Readings/YURUCAMP_V18_DEEP_READING.md) owns chapter/scene claims; this table supplies the source-order lookup. This dated literary inspection extends the current boundary beyond the earlier technical-admission paragraph without rewriting the October 17/22 checks or the V16/V17 literary receipts. V19 remains NOT ANALYZED; its narrative must await the independently accepted and committed V16–V18 checkpoint. Supplementary-continuity narrative remains separate and not admitted.
+
+XHTML basenames below are under `item/xhtml/` and image basenames under `item/image/`. Every start, end and title anchor comes from the unchanged V18 `technical.spine_image_map`; all intermediate positions remain recorded there. The V18 `literary_section_map` records the inspected ranges separately. Contents starts 3/29/55/81/107/133/157 are distinct from visible folios. In particular the full-title images 031/109 and first Heya image 159 do not display their contents opening folios. There is no separately listed contents start for Heya 130.
+
+| Section | Preferred spine range | Exact start XHTML → image | Exact end XHTML → image | Printed locator / title anchor |
+| --- | --- | --- | --- | --- |
+| Opening cover, blank, color illustration and contents | 001–004 | `p-cover.xhtml` → `cover_omo.jpg` | `p-003.xhtml` → `i-002.jpg` | No printed-page conversion asserted |
+| Ch99 諏訪湖までどれくらい? | 005–028 | `p-004.xhtml` → `i-003.jpg` | `p-027.xhtml` → `i-026.jpg` | Contents start 3; visible start 3; visible end 26; title spine 006 `p-005.xhtml` → `i-004.jpg` |
+| Ch99 transition vignettes | 029–030 | `p-028.xhtml` → `i-027.jpg` | `p-029.xhtml` → `i-028.jpg` | No printed-page conversion asserted |
+| Ch100 フランクフルトには何が合うか問題 | 031–054 | `p-030.xhtml` → `i-029.jpg` | `p-053.xhtml` → `i-052.jpg` | Contents start 29; start folio not visible; visible end 52; title spine 031 `p-030.xhtml` → `i-029.jpg`; first story spine 032 visibly 30 |
+| Ch100 transition vignettes | 055–056 | `p-054.xhtml` → `i-053.jpg` | `p-055.xhtml` → `i-054.jpg` | No printed-page conversion asserted |
+| Ch101 行き当たりばったり奥三河ツーリング | 057–080 | `p-056.xhtml` → `i-055.jpg` | `p-079.xhtml` → `i-078.jpg` | Contents start 55; visible start 55; visible end 78; title spine 058 `p-057.xhtml` → `i-056.jpg` |
+| Ch101 transition vignettes | 081–082 | `p-080.xhtml` → `i-079.jpg` | `p-081.xhtml` → `i-080.jpg` | No printed-page conversion asserted |
+| Ch102 ツーリングは用法・用量を守り正しくお楽しみ下さい | 083–106 | `p-082.xhtml` → `i-081.jpg` | `p-105.xhtml` → `i-104.jpg` | Contents start 81; visible start 81; visible end 104; title spine 086 `p-085.xhtml` → `i-084.jpg` |
+| Ch102 transition vignettes | 107–108 | `p-106.xhtml` → `i-105.jpg` | `p-107.xhtml` → `i-106.jpg` | No printed-page conversion asserted |
+| Ch103 くうねるはしる | 109–132 | `p-108.xhtml` → `i-107.jpg` | `p-131.xhtml` → `i-130.jpg` | Contents start 107; start folio not visible; visible end 130; title spine 109 `p-108.xhtml` → `i-107.jpg`; first story spine 110 visibly 108 |
+| Ch103 transition vignettes | 133–134 | `p-132.xhtml` → `i-131.jpg` | `p-133.xhtml` → `i-132.jpg` | No printed-page conversion asserted |
+| Ch104 この先通り抜けできません | 135–158 | `p-134.xhtml` → `i-133.jpg` | `p-157.xhtml` → `i-156.jpg` | Contents start 133; visible start 133; visible end 156; title spine 136 `p-135.xhtml` → `i-134.jpg` |
+| Heya Camp 放課後129 むじんのなぞ | 159–160 | `p-158.xhtml` → `i-157.jpg` | `p-159.xhtml` → `i-158.jpg` | Contents start 157; start folio not visible; visible end 158; title spine 159 `p-158.xhtml` → `i-157.jpg` |
+| Heya Camp 放課後130 ほらかほんまか甲州弁講座 | 161–162 | `p-160.xhtml` → `i-159.jpg` | `p-161.xhtml` → `i-160.jpg` | No separate contents start; visible start 159; visible end 160; title spine 161 `p-160.xhtml` → `i-159.jpg` |
+| Author afterword and initial-publication list | 163–163 | `p-162.xhtml` → `i-161.jpg` | `p-162.xhtml` → `i-161.jpg` | No printed-page conversion asserted |
+| Electronic-edition colophon | 164–164 | `p-163.xhtml` → `i-162.jpg` | `p-163.xhtml` → `i-162.jpg` | No printed-page conversion asserted |
+| Full jacket | 165–165 | `p-164.xhtml` → `cover.jpg` | `p-164.xhtml` → `cover.jpg` | No printed-page conversion asserted |
+| Alternate-world/time-leap metafiction comic | 166–166 | `p-165.xhtml` → `hyoushi.jpg` | `p-165.xhtml` → `hyoushi.jpg` | No printed-page conversion asserted |
+
+Chapter 102 has three story images before its title at spine 086. Chapter 103 ends at the first collapse barrier at 132, before transition images 133–134 and Chapter 104. Main narrative ends at 158 / visible 156 before the separate Heya strips; the author afterword at 163 calls this the first part of the 152 touring arc. The final proposed destination is not shown reached. Preserve all title, transition, blank and paratext positions; an alternate-world/time-leap underjacket at 166 is not a literal future outcome.
+
+The permit at spine 018 visibly says 5月2日 while the next depicted day's livecamera at 096 shows 05/02. These marks are retained without resolving an exact starting calendar date or assuming what date the permit denotes. This bounded chronology uncertainty does not alter the spine map. None of this is a blanket raw/spine-to-printed offset, a fresh technical audit or remote content-hash verification.
