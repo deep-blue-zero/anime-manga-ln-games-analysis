@@ -1778,6 +1778,10 @@ class RunAdmissionTests(unittest.TestCase):
         with tempfile.TemporaryDirectory(prefix="squashed-admission-") as directory:
             root = Path(directory)
             run_git(root, "init", "--quiet")
+            # This object store is disposable; the fetch must not leave a detached
+            # auto-maintenance writer behind to race the directory cleanup.
+            run_git(root, "config", "--local", "maintenance.auto", "false")
+            run_git(root, "config", "--local", "gc.auto", "0")
             run_git(root, "fetch", "--quiet", "--no-tags", str(self.root),
                     "refs/remotes/origin/main:refs/remotes/origin/main")
             with self.assertRaises(Exception):
