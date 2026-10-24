@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort28.receiving-and-provenance.v1",
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "received_utc": "2026-10-24T02:34:13.712112+00:00",
   "previous_published_source": "b7a698ec8b8567012eab945d5c96756e27c67f99",
   "main_at_receiving": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
@@ -801,5 +801,19 @@
     "Current household role labels preserve absent identity joins without proving every occurrence a different person.",
     "Visible distress does not imply a clinical trauma diagnosis.",
     "Targeted editorial cleanup preserves literal commit IDs and encoded links; frozen foundations,inputs and bodies unchanged."
-  ]
+  ],
+  "publication_resolution": {
+    "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+    "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+    "source_run": 40055608877,
+    "full_discovered_tests": 459,
+    "current_models": 41,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "separate_housekeeping_run": null
+  },
+  "current_gate_qualification": "Authorship-time source/diagnostic scopes remain exact. This closes author publication only,without repairing original bodies or claiming protected-main integration,independent accuracy,grade or confidence."
 }

@@ -1845,3 +1845,10 @@ Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20
 Alderp moves from public rank-backed pressure through private blame to fear and bargaining after lost control; sincerity of remorse is unproved (AL28). Maxwell moves from pressured service to released selective refusal and harmful collection, with no complete memory diagnosis (MX28). Ragcraft's public office, disclosure and revenge are distinct states; Levi can overrule him (RG28). Ignis's illness, recovery, parental distraction, accountability and bodily work require changing capacity states (IG28). Balter's changed attraction, Hagen's tact/insults and the unnamed guard's chosen refusal retain separate agency.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton changes aims from clearing weather for a date to acquiring a gift, preserving a favored creature and helping recover a necklace. Irritation, uncertainty, gratitude and frightened decoy work are different states (BT29). Zereschilt moves from castle control to finite-life danger, refuge and shop contribution; neither fear nor effective defense defines every situation (ZS29). Sylphina's anxiety, play, revised expectation, attachment and shy thanks retain her own agency (SY29).
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.

@@ -1522,3 +1522,10 @@ Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20
 Alderp's rank, money and artifact access have actual defeats; delegated influence is not his omnipotent direct power. Maxwell states location/seal/church/light limits without performed failed retrieval casts. Ragcraft can administer, disguise and confine but misidentifies, overdiscloses and loses captives; his career is an attributed account. Ignis allocates work and physically anchors with short wire/strain, while illness and distraction remain. Balter wins technically before voluntarily ceasing blows. No capacity stipulation in the exercises earns behavioral-success credit.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton knows useful ecology but can answer the wrong practical question; exact den inference is explicitly refused. Material discovery, weather causation and tactical execution are separate. Zereschilt's nail pain and holy vulnerability coexist with actual shop defense; Vanir's immediate nearby life sharing is another agent's costly intervention. Sylphina's greeting, play and requests demonstrate bounded social competence without adult judgment or medical independence. No exercise's stipulated capacity earns a skill grade.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.

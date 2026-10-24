@@ -400,3 +400,10 @@ Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20
 CR-C28-AU01: historical row 27 assigned the sexual-financial offer directly to Aulip. MASK U015 P258–263 assigns that speech to the retainer. Aulip's own kick P288, execution threat P289 and later evasion/magic orders remain adverse. Prior row fields are retained in prior_cohort28_current_fields; the historical source paragraph is not silently rewritten. CR-C28-IG01: named father is Dustiness duke Ignis, not a prince; MAIN06 C2 P437 and YORI04 U020 P10–18 secure the family join. CR-C28-IDENTITY: Norris's later apparent instruction is K's imitation; wedding guard/Hagen remain unjoined; Elroad dealer/manager and prosecutor/watchman remain separate. The elderly acquaintance's long-standing friendship/royal status is unestablished. No original forecast or score is repaired.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+CR-C29-SY01 REVISE: earlier row33 compressed cure/picnic/school requests. MAIN13C1P27 reports remedy recovery and school attendance; P28/34–35 supplies her request to thank and actual thanks. No voiced school request is established. CR-C29-ID01 STRENGTHEN: existing Yori rows98/99 gain エイブラム/ピクルス names from YORI01U012; their broader tiers remain pending. CR-C29-ZS01 REVISE: current count/name/title variants, explicit life-sharing limits and observed shop defense qualify earlier shorthand; no uniform title or universal helplessness. CR-C29-BR01 OPEN: Barbera reply and ring acceptance remain unheard. Prior row fields, firsts and scores are preserved.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.

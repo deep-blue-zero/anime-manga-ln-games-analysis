@@ -2001,3 +2001,10 @@ Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20
 Status reversals include an overrun host, a bought wedding disrupted by actual payment, a cheap devil revealed as a separate powerful agent, a spy absorbed by work, and a father distracted by pride. Their mechanics require actor-specific information. The guard's final warning relies on K's counterfeit voice; the rumor is not Darkness's performed conduct. Marines's refusal of a rematch remains real. The manager's distress contradicts K's claim that only rulers suffer. No joke erases coercion, broken arms, servant injury, cracked windows or the trampled/revived adventurer.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton's ill-timed lessons and honorific gates depend on task mismatch and status, not universal ignorance. His actual fear and contribution survive the joke. Zereschilt's exterior/status reversals permit both harmful spectacle and coercive victimization; threatening the opening is not a fair test. Sylphina's Mama misunderstanding is sustained by adults despite the cousin correction; her laughter or apology does not endorse their adult meanings. Barbera's distant scene ends without a heard reply.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.

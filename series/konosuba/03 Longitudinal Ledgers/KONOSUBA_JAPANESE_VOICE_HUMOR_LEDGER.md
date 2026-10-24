@@ -1968,3 +1968,10 @@ Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20
 Alderp's printed private focalization includes both ワシ and 私; normalize neither into a universal pronoun rule. Maxwell's 僕, repeated vocatives and ヒュー forms are print, not audio, diagnosis or biological-sex proof. Balter's 僕, courteous reluctance and urgent cessation differ from Alderp. The unnamed guard's 自分 and firm literal boundary coexist with shy admonition. Ragcraft's institutional explanation and rushed defense, and Ignis's affection/assignment/threat require counterpart-sensitive register. The 24 English exercise bodies test no Japanese/audio/L3 accuracy; their analytic guardposts weaken natural performance.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton uses professor correction, familiar 君, intimate バーベラちゃん and shifts between exposition, ignorance and appeal. Zereschilt's courtesy, 少年, superior-directed honorifics, recognition-dependent names and pleas differ by counterpart. 残虐公/残虐候/着ぐるみ侯爵 and count address remain attested textual functions, not a normalized rank. Sylphina's formal introduction, role-play and private ママ permission differ from adult speech. Sixteen English firsts establish no Japanese/audio/L3 performance.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.

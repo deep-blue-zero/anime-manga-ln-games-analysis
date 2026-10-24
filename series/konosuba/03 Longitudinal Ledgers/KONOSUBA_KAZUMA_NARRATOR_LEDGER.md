@@ -1438,3 +1438,10 @@ Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20
 K's earlier expectations are fallible: the supposed Leen courtship concerns Dust by later dialogue/Leen report; Alderp's abandoned fixation is not established by temporary quiet; a thought about memory-erasure lore is not a native kill-condition assay. K's claim only the prince/chancellor lose money omits actual casino-worker distress. He does not watch Ragcraft's complete final fight. His paternal-intelligence reading and feared execution are inferences, not Ignis's unspoken verdict. In MAIN07 C5 P522 K supplies the pursuit-abandonment voice; Alderp contradicts it P526.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+CONTEXP02U023 switches to Kazuma while the surrounding Barton components are Megumin-narrated. His guilt attribution and alternative cat reading remain interpretations. Megumin later reports Barton's persuasion and recalls her own deliberate miss; do not invent an unheard persuasion transcript or sole cause. Kazuma's favorable judgment of Zereschilt after the night attack does not erase the earlier deliberate humiliation spectacle. MAIN17 creator modality and Dust's observed defense retain different planes.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.

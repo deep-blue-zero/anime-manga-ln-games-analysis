@@ -1512,3 +1512,10 @@ Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20
 Alderp/Maxwell combine exploited nonpayment, valued cruelty and later harmful dependence; neither innocence nor consent follows from attachment language. Balter's desire differs from Alderp's body-resource plan. Ignis cares and pressures; Darkness's own preference remains distinct. Hagen, Norris and the wedding guard have no demonstrated alias join; Alderp's messenger serves a different household. Ragcraft influences but cannot wholly control Levi; the captives and Dust retain their separate knowledge. Aulip's retainer, woman and bystander own different speech. The elderly casino acquaintance's access permission does not establish a royal identity or long friendship.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton revises means after reported Barbera feedback, but price and apparent happiness do not reveal her motive or assent. Megumin, Yunyun and Iris are distinct partners; Iris's royal identity arrives late. Zereschilt seeks Vanir's help, Darkness's patronage and Kazuma's mediation while contributing to Wiz's shop. Sylphina's embrace does not make her responsible for preventing Aqua's attacks. Her caregiver attachment is distinct from biological parenthood. No official or guild-role resemblance proves an identity join.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.

@@ -1799,3 +1799,17 @@ Cohort 27 source `b7a698ec8b8567012eab945d5c96756e27c67f99` and tree `7bdc074bee
 Cohort 28 receives four provisional models/ten monographs, ten compact profiles and fifteen Tier 0 indexes. Candidate 41 models/35 scoped secondary model subjects, 46 profiles, 19 monograph-only subjects and 264 nonfinal records remain revisable. Seven entering rows change, 229 others exact; 28 new records are not a person denominator. 89 complete known windows/12655 BASE/43 members/18 EPUB objects/24 complete BASE members cover all 560 routed hit paragraphs without new whole-source/ruby/residual/image-set/admission or independent credit. 24 original firsts/12 dependent pairs retain MX-H02 nonisolation/strike-to-kill error, IG-H02 unsupported partition, strong generic/cueing and analytic-prose limitations without regeneration or repair. All 37 entering models and historical scores/blanks/nulls/scratch remain exact. Cohort 27 closed gate and its ten progress records are carried. Current exact publication is pending; full census, specialists, synthesis, six Stage D successors, designated global/integration/release/final entry remain open; percentage null.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md).
+
+
+## Cohort 28 exact-source author gate closed — 2026-10-24T02:55:05.894431+00:00
+
+Cohort 28 source `068a950a967d9fcf7a5f15bceaa317a48380ec30` and tree `9ca1a6ad407c3f239e7696a695bba422824224cc` close the exact-source author publication tranche. Audit 40055608877 executed all 459 discovered tests with all five non-success categories zero. Reporter, latest trusted status, all 9,627 remote file bindings and 53 changed byte streams were verified; all 1,309 project paths reloaded exactly. Totals remain 41 models/35 scoped secondary model subjects, 46 profiles, 19 monograph-only subjects and 264 nonfinal records. Twenty-four original informed firsts/twelve dependent pairs retain all failures without repair or independent accuracy/grade/confidence gain. Thirty-five scoped publication-status rows change; 229 other histories remain exact. Full program and separately owned protected integration remain open.
+
+[Gate receipt](KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort 29 semantic receiving — 2026-10-24T04:01:04.559905+00:00
+
+Cohort 29 receives two provisional four-rule models, three monographs, six compact profiles and one unresolved-group index. Candidate totals are 43 models, 37 scoped secondary model subjects, 52 profiles, 20 monograph-only subjects and 270 nonfinal records. Six old rows change; 258 others stay exact. Six new records are not a person denominator. The 68 complete known windows comprise 6,730 BASE slots across forty members in eighteen objects, with fourteen complete BASE members. No new whole-source, ruby, residual, image-set, admission or independent credit follows. Sixteen original firsts form eight dependent pairs and preserve defects, underidentified transfer, cueing and generic rivals without repair. Cohort 28 retains its closed gate and eleven closing records. Current exact publication is pending; all 41 entering models and earlier scores, blanks, nulls and scratch files remain exact. The full program remains active; percentage is null.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md).

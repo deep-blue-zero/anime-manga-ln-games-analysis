@@ -1167,3 +1167,10 @@ Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20
 Alderp, Maxwell, Ragcraft and Ignis receive distinct scoped Tier 3 monographs and separate provisional three-rule generators. Aulip, Balter, Hagen, unnamed Dustiness wedding guard, Elroad prosecutor and Elroad casino manager receive twelve-dimension Tier 2 monographs without models. Ten Tier 1 profiles and fifteen Tier 0 indexes remain in the coverage audit. Candidate totals: 41 models/35 scoped secondary model subjects, 46 profiles, 19 monograph-only subjects, 264 nonfinal records. Seven entering rows change; 229 others exact; 28 new records include role/group/report entries, not 28 proved new people. First-response limitations and open final batteries prevent any mature capability claim.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton and Zereschilt have separate Tier 3 monographs and provisional four-rule models. Sylphina has a Tier 2 monograph without a model; Barbera and five occupational roles have compact Tier 1 profiles, and castle gatekeepers/guide retain a Tier 0 group index. Candidate totals are 43 models, 37 scoped secondary model subjects, 52 compact profiles, 20 monograph-only subjects and 270 nonfinal records. Six old rows change, 258 other old rows stay exact; six new scope records do not prove six globally unique people. Independent maturity and final batteries remain open.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.

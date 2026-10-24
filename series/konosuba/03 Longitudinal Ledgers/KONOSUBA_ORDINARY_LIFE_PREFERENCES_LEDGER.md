@@ -1392,3 +1392,10 @@ Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20
 Ordinary evidence includes Alderp's hosted consumption/mirror maintenance/resented guest costs, Maxwell's work-and-reward seeking, Ragcraft's attributed applications/promotions/work grievance, and Ignis's bereavement, night disturbance, family mementos and camera wish. Hagen's staffing complaint and practical scheduling are his own work. Guard childhood play is Darkness recollection/reinterpretation. Unevidenced preferences remain unknown: no invented hobbies, home or food preferences pad these subjects. Marines's competitive self-presentation does not override her stopping request.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton has fieldwork, books, public reception, preferred creatures and a particular hoped-for relationship, with no complete household or university job invented. Zereschilt sweeps, prepares tea, minds the shop, seeks mediation and wants an outing; volunteered watch and imposed replacement differ. Sylphina's play, blanket, picnic, food-sharing, gifts and reported school routine matter independently of rescue. Barbera's own daily routine remains sparsely accessible through others' accounts.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.

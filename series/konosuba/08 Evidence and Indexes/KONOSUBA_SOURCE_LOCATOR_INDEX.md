@@ -1964,3 +1964,10 @@ Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20
 The cohort 28 index/provenance bind 89 actual complete source-known windows to 12,655 unique BASE slots in 43 members/18 local EPUB objects; 24 complete BASE members include an afterword. All 560 routed literal hit paragraphs/591 term hits across 43 resources lie inside received intervals. This is not exhaustive alias/anonymous/image coverage or an independent-event denominator. MAIN16 p004 is accepted C2/start; DUST-CONT p004 is U012 despite a shorthand U004 raw filename. Native/member/register/window hashes are retained. No new whole-source, ruby, residual, image-set, admission or independent credit.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Cohort29 index/provenance bind 68 complete source-known windows to 6,730 unique BASE slots across forty members in eighteen local EPUB objects. Fourteen complete BASE members include fifteen bibliographic slots and a 37-slot creator afterword. All name/title/costume literal-hit contexts are reconciled within received intervals, without exhaustive unnamed/image-only/alias absence or new whole-source/ruby/residual/image-set/admission credit. MAIN17U016 is creator afterword, not principal epilogue; DUST07 defense is the performed scene.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.

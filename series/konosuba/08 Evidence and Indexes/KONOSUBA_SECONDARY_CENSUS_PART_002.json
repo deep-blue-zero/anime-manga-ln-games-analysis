@@ -393,20 +393,30 @@
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
     },
     {
-      "character": "Unnamed noble client (Yorimichi01 spirit farewell)",
-      "identity": "Client who recognizes Darkness, permits given-name address and hears Aqua's mediatedfather testimony.",
+      "character": "エイブラム (Yorimichi01 noble client)",
+      "identity": "エイブラム, existing noble-client/son row98, recognized by Darkness and recipient of Aqua-mediated father testimony. English spelling not standardized here.",
       "likely_tier": "1-2 candidate",
       "priority": "Discovery — source-backed scope; final tier pending",
       "evidence_distribution": "FullYORI01report28,Story01U012P87–254.",
       "substantive_responsibility": "Actual grief, private-detail corroboration, changed willing-departure request, refusal to demand a blow and later unanswered parentage problem give own agency.",
-      "gaps": "Name and other-noble joins unresolved. No completed diary destruction, biological-parent resolution or blanket permission for father's later demands.",
+      "gaps": "Personal name now verified; broader other-noble joins and final tier remain open. No completed diary destruction, biological-parent resolution or blanket permission for father requests.",
       "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
       "independent_observation_count": null,
-      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
+      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
+      "prior_cohort29_identity_fields": {
+        "character": "Unnamed noble client (Yorimichi01 spirit farewell)",
+        "identity": "Client who recognizes Darkness, permits given-name address and hears Aqua's mediatedfather testimony.",
+        "gaps": "Name and other-noble joins unresolved. No completed diary destruction, biological-parent resolution or blanket permission for father's later demands."
+      },
+      "cohort29_identity_precision": {
+        "evidence": "X29-01: YORI01 U012 P150–265, especially P176/P181/P244.",
+        "scope": "Name precision only; existing likely_tier, priority, disposition and wider individual review unchanged.",
+        "no_new_person_or_independent_credit": true
+      }
     },
     {
-      "character": "Noble client's deceased father (Yorimichi01)",
-      "identity": "Spirit speaking throughAqua/possessedtoy, distinct from mansionghostAnna and unjoinednightvisitor.",
+      "character": "ピクルス (Yorimichi01 deceased father)",
+      "identity": "ピクルス, former head of the トランザム family, existing deceased-father row99. Aqua-mediated or possessed-toy speech, distinct from Anna; no new person from naming.",
       "likely_tier": "1-2 candidate",
       "priority": "Discovery — source-backed scope; final tier pending",
       "evidence_distribution": "FullYORI01report28,Story01U012P130–254.",
@@ -414,7 +424,17 @@
       "gaps": "Speech is mediated/possessed-object context, not heard identically byall. No invented diary destruction/parentage or merge withanotherghost bysetting.",
       "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
       "independent_observation_count": null,
-      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
+      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
+      "prior_cohort29_identity_fields": {
+        "character": "Noble client's deceased father (Yorimichi01)",
+        "identity": "Spirit speaking throughAqua/possessedtoy, distinct from mansionghostAnna and unjoinednightvisitor.",
+        "gaps": "Speech is mediated/possessed-object context, not heard identically byall. No invented diary destruction/parentage or merge withanotherghost bysetting."
+      },
+      "cohort29_identity_precision": {
+        "evidence": "X29-01: YORI01 U012 P150–265, especially P176/P181/P244.",
+        "scope": "Name precision only; existing likely_tier, priority, disposition and wider individual review unchanged.",
+        "no_new_person_or_independent_credit": true
+      }
     },
     {
       "character": "Unnamed deputy (Yorimichi01 mushroom inquiry)",
@@ -587,12 +607,12 @@
     {
       "character": "Hagen (Yorimichi04 household)",
       "identity": "Hagen / ハーゲン, named Dustiness servant/head butler across MAIN05 Ep, MAIN07 C5 and YORI04 U012. No demonstrated identity join to the unnamed wedding guard or Norris; Heidel and Rionor butler have their own source roles, and Alderp messenger serves a different household.",
-      "likely_tier": "2 scoped; dedicated twelve-dimension monograph without model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "2 scoped; dedicated twelve-dimension monograph without model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "HG28-01–03: emergency message, threatening letters/wedding logistics, later maid-labor/tact/stimulant warning scenes.",
       "substantive_responsibility": "Own material provisioning, staff scarcity, scheduling and tact coexist with actual early nobility/body-sale insults. Assault received does not erase his speech; politeness is not limitless labor or perfect discretion.",
       "gaps": "Autonomous ordinary life, unsupported-commoner treatment and durable repair remain underidentified. Recurrence supports monograph; no separate generator or first-output quota.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_gap_history_working24": "Auditname/office/householdtiesandother-mainappearance; nobutlerarchetypemerge, unlimitedstafforcovertconsentfrompoliteness.",
@@ -623,7 +643,25 @@
       },
       "cohort28_rules": [],
       "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
-      "cohort28_current_qualifications": "Current index/monograph and source-plane qualifications supersede prior shorthand. Historical fields remain explicit. No independent observation denominator,final maturity,global completion or evaluator grade is assigned."
+      "cohort28_current_qualifications": "Current index/monograph and source-plane qualifications supersede prior shorthand. Historical fields remain explicit. No independent observation denominator,final maturity,global completion or evaluator grade is assigned.",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "2 scoped; dedicated twelve-dimension monograph without model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "DarkStalker (Yorimichi04 retired professional)",

@@ -1315,3 +1315,10 @@ Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20
 Darkness's self-sacrificial marriage and earlier fantasies do not provide free consent to Alderp. Morning registration is Aqua's report; interrupted ceremony is not certain absence of every legal marriage. Maxwell's preservation promise serves continued torment, not care. Ragcraft's disguise is not Megumin's sexual conduct. K's heard scream does not establish completed assault by the young noble. Aulip's threatened execution/magic differs from watched injury; retainer owns the monetary offer. Actual death/revival in Ignis's operation remains harm despite narrative discount. Comic and serious transfer preserve these planes.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton takes a frightened personal risk and objects to harm to Darkness while retaining selective species concern and earlier dangerous judgment. Offered restitution is not paid restitution. Zereschilt's body pain, actual first dagger injury, reactive attack, finite destruction/restoration and forced concessions remain consequential despite costume comedy. Sylphina is still internally ill during the lively pre-remedy greeting; later reported remedy recovery matters. Adult actions in her presence are not her consent.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.

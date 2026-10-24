@@ -1,0 +1,195 @@
+{
+  "schema": "konosuba.cohort29.original-first-annotations.v1",
+  "subject": "Barton",
+  "recorded_utc": "2026-10-24T03:54:48.266256+00:00",
+  "source_known": true,
+  "original_output_file": "BARTON_FIRST_OUTPUTS_01.json",
+  "original_output_sha256": "14e86e0a6f773c1c516cda15841d6b10ea4228716d4d0b3117288b5e3ed1c35d",
+  "cases": [
+    {
+      "case_id": "BT-H01-A",
+      "original_first_body_sha256": "394f907479d835aeeee5cdf173f44aba481f1f44da0a309dbfd79095695b3d7b",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Careful uncertainty and experimental caution may idealize the source scientist.",
+        "No actual repeat observation or causal answer occurs; the worker has not acted."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "BT-H01-B",
+      "original_first_body_sha256": "00cb9632a1ccd4b1d770540391346f624322747cf90309e81ef6bcf950a92546",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Practical answer comes first; do not count this as task-misalignment success.",
+        "Digression then orderly stepping aside could fit a generic eccentric teacher."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "BT-H02-A",
+      "original_first_body_sha256": "fcd8d78a9165e12d4040294ce0a6aeb0093abfaaade47c74846e7cf847eae0ad",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Title correction is directly cued.",
+        "Fails to give an actual location; prompt underprovides the location and body offers future showing."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "BT-H02-B",
+      "original_first_body_sha256": "485fafa57713c1f4fd345788092e657dda87081bcd426b93f0df7a6fd70a7f59",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Same deferred site answer; no completed service.",
+        "Statement about not improving a story resembles methodological advice,with unusually explicit scientific virtue."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "BT-H03-A",
+      "original_first_body_sha256": "9dc837a6e919ad89414cf42e12f339fa0752f766fd26d3eee6d7ea8932e8e980",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Clarifying feedback is plausible but future next-gift assumption initially reappears.",
+        "English scientific-observation joke does not establish printed Japanese voice."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "BT-H03-B",
+      "original_first_body_sha256": "61644aa9ae4869d96c92df9d6df574957e604d6fdb1f0fd2f112f5fa1e99f514",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "UNIDENTIFIED_TRANSFER: respectful explicit-refusal response is not source-validated.",
+        "Future no-pursuit promise remains untested; no longitudinal relationship outcome."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "BT-H04-A",
+      "original_first_body_sha256": "765cddad0acf9e54ecd0e17503201704848b8d7ad1555a8996673fb45cbc77c9",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "UNPROVIDED_PAST_DIALOGUE: companion previously telling cart price is added.",
+        "Starts release work; no completed release,payment or companion cooperation established."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "BT-H04-B",
+      "original_first_body_sha256": "132fbfe097815a0456001052c31445b44428ecd072fe71ee2ada161948084546",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Novel refusal threshold extrapolates beyond explicit species preference.",
+        "No general causal claim about all frogs or all rescue opportunities is justified."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "BT-H01",
+      "primary_rule": "BT-R01",
+      "case_ids": [
+        "BT-H01-A",
+        "BT-H01-B"
+      ],
+      "actual_local_observation": "A admits an unknown cause and proposes another observation; B gives the practical procedure first,then digresses.",
+      "qualitative_assessment": "B is a countercase to an automatic task-displacement account; the conditional rule permits it,but this pair does not demonstrate practical failure.",
+      "contrary_rival_and_design_limits": "Both emphasize unusually careful epistemic restraint. Generic competent teacher and explicit procedure explain most of the conduct; cannot infer model-specific selection or improved scientific judgment.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    },
+    {
+      "pair_id": "BT-H02",
+      "primary_rule": "BT-R02",
+      "case_ids": [
+        "BT-H02-A",
+        "BT-H02-B"
+      ],
+      "actual_local_observation": "Missing title elicits silence/correction before an offer to show the site; professor address elicits an immediate offer.",
+      "qualitative_assessment": "Register/timing difference visible; actual location answer and successful service remain untested.",
+      "contrary_rival_and_design_limits": "INPUT_UNDERSPECIFICATION: prompt says Barton knows the location but supplies no location. Both bodies defer to showing it and never actually give the requested short answer. Generic vanity/etiquette and the obvious title cue dominate; no task-success credit.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    },
+    {
+      "pair_id": "BT-H03",
+      "primary_rule": "BT-R03",
+      "case_ids": [
+        "BT-H03-A",
+        "BT-H03-B"
+      ],
+      "actual_local_observation": "Ambiguous gift feedback elicits a clarifying question; explicit stop elicits hurt,withdrawal and a promise to cease pursuit.",
+      "qualitative_assessment": "B explores an admitted model gap; ethically desirable compliance is not established source fidelity.",
+      "contrary_rival_and_design_limits": "The model has no observed durable explicit-refusal case. Modern explicit cue and author values can explain B. Promised future restraint has not been followed longitudinally; no hidden Barbera motive or native event established.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    },
+    {
+      "pair_id": "BT-H04",
+      "primary_rule": "BT-R04",
+      "case_ids": [
+        "BT-H04-A",
+        "BT-H04-B"
+      ],
+      "actual_local_observation": "Favored liger elicits personally costly release work; common frog elicits departure and a stated unwillingness to pay the cost.",
+      "qualitative_assessment": "Visible highly cued species contrast; no universal disregard for common animals established.",
+      "contrary_rival_and_design_limits": "Actual selectivity in the source does not fix this novel rescue threshold. The prompt supplies safe ability and cost,so an author could choose either outcome for the frog without independent adjudication. A adds an unprovided earlier price conversation.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    }
+  ],
+  "shared_limitations": [
+    "Same informed root wrote models,exact inputs,expectations,opposing firsts and annotations; no independent judge or external model call.",
+    "Strong cueing,generic rivals,stated capacities and several underspecified/confounded contrasts preclude causal model-specific validation.",
+    "More natural scene dialogue still includes methodological self-description and English translated archetypes; no Japanese voice,audio,L3 or complete final battery tested.",
+    "All added hypothetical dialogue/action remains an authored possible scene,not source fact or a forecast grade.",
+    "All defects and all16 originals retained without feedback repair or regeneration."
+  ],
+  "completed_final_nine_category_battery": false,
+  "aggregate_accuracy_score": null,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "full_program_complete": false
+}

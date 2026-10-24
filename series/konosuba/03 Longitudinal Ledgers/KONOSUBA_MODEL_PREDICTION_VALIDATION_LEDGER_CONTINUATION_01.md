@@ -547,3 +547,10 @@ Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20
 Four initial provisional models have three eight-field candidates each. Twenty-four exact original firsts form twelve dependent source-informed pairs after foundation/input freezes. One informed root wrote all stages, with all opposing cases/prior bodies visible. MX-H02 does not isolate a contract effect; its B response escalates strike to kill. IG-H02-B invents an undisputed payment portion. Minor added details, cueing, generic rivals and pervasive analytic guardposts remain. Bodies are not regenerated or feedback-repaired. Word budgets and stipulated constraints are not behavioral success. No independent accuracy, grade, confidence gain or completed nine-category final battery. Existing 37 models, four scorecards and earlier blank/null fields remain exact.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Two new provisional models each have four eight-field rules. Sixteen immutable source-informed firsts form eight dependent pairs after foundation/input freezes, all stages by the same informed root. BT-H02 omits an underprovided location; explicit-refusal transfer is unvalidated; BT-H04-A adds past dialogue; ZS-H03-A prematurely accepts and adds task/visibility details; ZS-H04 changes several variables. Strong cues, generic rivals and English methodological dialogue remain. Zero regeneration, repair, independent accuracy, grade or confidence gain; the nine-category final battery is incomplete.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.

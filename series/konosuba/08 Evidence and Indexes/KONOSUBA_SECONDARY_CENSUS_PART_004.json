@@ -3,8 +3,8 @@
   "canonical_census_manifest": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
   "part_ordinal": 4,
   "first_row_index": 240,
-  "last_row_index": 263,
-  "row_count": 24,
+  "last_row_index": 269,
+  "row_count": 30,
   "rows": [
     {
       "character": "Unnamed Elroad prosecutor (MAIN10)",
@@ -12,12 +12,12 @@
       "agency_and_identity_limit": "Own investigation and release under patronage; explicitly distinct from recalled Sena.",
       "independent_observation_count": null,
       "identity": "Own investigation and release under patronage; explicitly distinct from recalled Sena.",
-      "likely_tier": "2 scoped; dedicated monograph without model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "2 scoped; dedicated monograph without model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN10 C4 P331-508",
       "substantive_responsibility": "Own investigation and release under patronage; explicitly distinct from recalled Sena.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
@@ -31,6 +31,24 @@
         "proposed_rules": 0,
         "justification": "Full inquiry shows procedural authority,coercion exception,device misdiagnosis,weariness and patronage deference.",
         "limits_and_rivals": "Dense single case; distinct from Sena and the watchman; no universal humane/corrupt law."
+      },
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "2 scoped; dedicated monograph without model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
       }
     },
     {
@@ -39,12 +57,12 @@
       "agency_and_identity_limit": "Own repeated loss-management appeals; distinct from dealer, prince, chancellor and unproved robber employer.",
       "independent_observation_count": null,
       "identity": "Own repeated loss-management appeals; distinct from dealer, prince, chancellor and unproved robber employer.",
-      "likely_tier": "2 scoped; dedicated monograph without model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "2 scoped; dedicated monograph without model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN10 C5 P299-309, P378-398",
       "substantive_responsibility": "Own repeated loss-management appeals; distinct from dealer, prince, chancellor and unproved robber employer.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
@@ -58,6 +76,24 @@
         "proposed_rules": 0,
         "justification": "Repeated attempts to manage escalating losses show approach,authority sensitivity,buyout/closure proposals,superior pressure and collapse.",
         "limits_and_rivals": "Narrator names role tentatively before continued manager reference; separate from roulette dealer and alleged robbers."
+      },
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "2 scoped; dedicated monograph without model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
       }
     },
     {
@@ -66,18 +102,36 @@
       "agency_and_identity_limit": "Actual work and visible distress; no manager identity or broader personality claim.",
       "independent_observation_count": null,
       "identity": "Actual work and visible distress; no manager identity or broader personality claim.",
-      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN10 C5 P283-295",
       "substantive_responsibility": "Actual work and visible distress; no manager identity or broader personality claim.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed Aulip retainer (MASK)",
@@ -85,18 +139,36 @@
       "agency_and_identity_limit": "Own status introduction, monetary offer and demand for identity; kicked by Aulip.",
       "independent_observation_count": null,
       "identity": "Own status introduction, monetary offer and demand for identity; kicked by Aulip.",
-      "likely_tier": "1 scoped; compact profile; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MASK U015 P250-289",
       "substantive_responsibility": "Own status introduction, monetary offer and demand for identity; kicked by Aulip.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "1 scoped; compact profile; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed adventurer rejecting Aulip offer (MASK)",
@@ -104,18 +176,36 @@
       "agency_and_identity_limit": "Own inquiry, rejection and valuation; refusal remains refusal, not consent at a higher price.",
       "independent_observation_count": null,
       "identity": "Own inquiry, rejection and valuation; refusal remains refusal, not consent at a higher price.",
-      "likely_tier": "1 scoped; compact profile; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MASK U015 P255-268",
       "substantive_responsibility": "Own inquiry, rejection and valuation; refusal remains refusal, not consent at a higher price.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "1 scoped; compact profile; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed bystander questioned by Aulip retainer (MASK)",
@@ -123,18 +213,36 @@
       "agency_and_identity_limit": "Refuses presumed name knowledge and mocks status; sexual-service opinion is his claim.",
       "independent_observation_count": null,
       "identity": "Refuses presumed name knowledge and mocks status; sexual-service opinion is his claim.",
-      "likely_tier": "1 scoped; compact profile; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MASK U015 P271-275",
       "substantive_responsibility": "Refuses presumed name knowledge and mocks status; sexual-service opinion is his claim.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "1 scoped; compact profile; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed young noble seeking Dust photographs (MAIN07)",
@@ -142,19 +250,37 @@
       "agency_and_identity_limit": "Own photographic interest; Leen reports motive; closed-door scream does not establish completed assault.",
       "independent_observation_count": null,
       "identity": "Own photographic interest; Leen reports motive; closed-door scream does not establish completed assault.",
-      "likely_tier": "1 scoped; compact profile; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN07 C3 P394-511",
       "substantive_responsibility": "Own photographic interest; Leen reports motive; closed-door scream does not establish completed assault.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
       "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
-      "cohort28_label_qualification": "This noble seeks photographs of Dust; no completed photograph or completed sexual assault is established."
+      "cohort28_label_qualification": "This noble seeks photographs of Dust; no completed photograph or completed sexual assault is established.",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "1 scoped; compact profile; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed eighteen-year-old warrior applicant (MAIN07)",
@@ -162,18 +288,36 @@
       "agency_and_identity_limit": "Own prospective party participation then withdrawal; no stable courage diagnosis.",
       "independent_observation_count": null,
       "identity": "Own prospective party participation then withdrawal; no stable courage diagnosis.",
-      "likely_tier": "1 scoped; compact profile; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN07 C3 P211-246",
       "substantive_responsibility": "Own prospective party participation then withdrawal; no stable courage diagnosis.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "1 scoped; compact profile; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed Alderp messenger butler (MAIN07)",
@@ -181,18 +325,36 @@
       "agency_and_identity_limit": "Insulting delivery of summons; distinct household from Hagen.",
       "independent_observation_count": null,
       "identity": "Insulting delivery of summons; distinct household from Hagen.",
-      "likely_tier": "1 scoped; compact profile; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN07 C1 P325-336",
       "substantive_responsibility": "Insulting delivery of summons; distinct household from Hagen.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "1 scoped; compact profile; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed sand-bath competitor tourist (MAIN10)",
@@ -200,18 +362,36 @@
       "agency_and_identity_limit": "Reported hospitalization after competition; separate role from nearby tourist incidents.",
       "independent_observation_count": null,
       "identity": "Reported hospitalization after competition; separate role from nearby tourist incidents.",
-      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN10 C3 P307-308",
       "substantive_responsibility": "Reported hospitalization after competition; separate role from nearby tourist incidents.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed duck-farm tourist (MAIN10)",
@@ -219,19 +399,37 @@
       "agency_and_identity_limit": "Visible distress and reported loss; no named Charlie/Daniel join.",
       "independent_observation_count": null,
       "identity": "Visible distress and reported loss; no named Charlie/Daniel join.",
-      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN10 C3 P312",
       "substantive_responsibility": "Visible distress and reported loss; no named Charlie/Daniel join.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
       "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
-      "cohort28_label_qualification": "Visible distress is described; no clinical diagnosis is assigned."
+      "cohort28_label_qualification": "Visible distress is described; no clinical diagnosis is assigned.",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed tourist escorted by Aqua (MAIN10)",
@@ -239,18 +437,36 @@
       "agency_and_identity_limit": "Damage and request for compensation; no alias from shared wealth.",
       "independent_observation_count": null,
       "identity": "Damage and request for compensation; no alias from shared wealth.",
-      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN10 C3 P318-321",
       "substantive_responsibility": "Damage and request for compensation; no alias from shared wealth.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed Elroad accessory shopkeeper (MAIN10)",
@@ -258,18 +474,36 @@
       "agency_and_identity_limit": "Actual stock and pricing replies; no general merchant psychology.",
       "independent_observation_count": null,
       "identity": "Actual stock and pricing replies; no general merchant psychology.",
-      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN10 C3 P259-286",
       "substantive_responsibility": "Actual stock and pricing replies; no general merchant psychology.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed Elroad watchman (MAIN10 inquiry)",
@@ -277,18 +511,36 @@
       "agency_and_identity_limit": "Own incident report and no-fault device finding; not prosecutor; cross-edition guard join unresolved.",
       "independent_observation_count": null,
       "identity": "Own incident report and no-fault device finding; not prosecutor; cross-edition guard join unresolved.",
-      "likely_tier": "1 scoped; compact profile; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN10 C4 P308, P337, P486",
       "substantive_responsibility": "Own incident report and no-fault device finding; not prosecutor; cross-edition guard join unresolved.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "1 scoped; compact profile; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed new Dustiness wedding maid (MAIN07)",
@@ -296,18 +548,36 @@
       "agency_and_identity_limit": "Compliment without knowing marriage circumstances; no informed endorsement of coercion.",
       "independent_observation_count": null,
       "identity": "Compliment without knowing marriage circumstances; no informed endorsement of coercion.",
-      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN07 C5 P319-322",
       "substantive_responsibility": "Compliment without knowing marriage circumstances; no informed endorsement of coercion.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed Dustiness night cook (MAIN07)",
@@ -315,18 +585,36 @@
       "agency_and_identity_limit": "Response to counterfeit instruction; not proof of prior real order.",
       "independent_observation_count": null,
       "identity": "Response to counterfeit instruction; not proof of prior real order.",
-      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN07 C4 P142-160",
       "substantive_responsibility": "Response to counterfeit instruction; not proof of prior real order.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed Alderp house guard (MAIN06)",
@@ -334,18 +622,36 @@
       "agency_and_identity_limit": "Investigation of noise; no watched rescue and no Norris/wedding-guard join.",
       "independent_observation_count": null,
       "identity": "Investigation of noise; no watched rescue and no Norris/wedding-guard join.",
-      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN06 C3 P344-357",
       "substantive_responsibility": "Investigation of noise; no watched rescue and no Norris/wedding-guard join.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unidentified masked robbers in Elroad (MAIN10 group occurrence)",
@@ -353,18 +659,36 @@
       "agency_and_identity_limit": "Observed attack/escape; no tested employer or automatic Ragcraft order.",
       "independent_observation_count": null,
       "identity": "Observed attack/escape; no tested employer or automatic Ragcraft order.",
-      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN10 C5 P348-371",
       "substantive_responsibility": "Observed attack/escape; no tested employer or automatic Ragcraft order.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Lolisa elderly casino acquaintance (DUST04)",
@@ -372,18 +696,36 @@
       "agency_and_identity_limit": "Elderly casino acquaintance permits hotel access and offers patronage; no long acquaintance, royal or noble identity established.",
       "independent_observation_count": null,
       "identity": "Elderly casino acquaintance permits hotel access and offers patronage; no long acquaintance, royal or noble identity established.",
-      "likely_tier": "1 scoped; compact profile; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "DUST04 U012 P1002-1017",
       "substantive_responsibility": "Elderly casino acquaintance permits hotel access and offers patronage; no long acquaintance, royal or noble identity established.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "1 scoped; compact profile; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed Elroad farm staff speaker (DUST04)",
@@ -391,18 +733,36 @@
       "agency_and_identity_limit": "Compensation report; no independently witnessed payment in this window.",
       "independent_observation_count": null,
       "identity": "Compensation report; no independently witnessed payment in this window.",
-      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "DUST04 U012 P939",
       "substantive_responsibility": "Compensation report; no independently witnessed payment in this window.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed Elroad prison official (DUST04)",
@@ -410,18 +770,36 @@
       "agency_and_identity_limit": "Overflow explanation and dismissal by Ragcraft; no alias to MAIN10 watchman.",
       "independent_observation_count": null,
       "identity": "Overflow explanation and dismissal by Ragcraft; no alias to MAIN10 watchman.",
-      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "DUST04 U013 P54, P96-109",
       "substantive_responsibility": "Overflow explanation and dismissal by Ragcraft; no alias to MAIN10 watchman.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unidentified Elroad prison guard/devil roles (DUST04 group occurrence)",
@@ -429,18 +807,36 @@
       "agency_and_identity_limit": "Guard responses, exorcism and escape; individual mapping and human/devil assignments require care.",
       "independent_observation_count": null,
       "identity": "Guard responses, exorcism and escape; individual mapping and human/devil assignments require care.",
-      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "DUST04 U013 P205-375",
       "substantive_responsibility": "Guard responses, exorcism and escape; individual mapping and human/devil assignments require care.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Katerina / カタリナ (Marines comparison report)",
@@ -448,18 +844,36 @@
       "agency_and_identity_limit": "Named comparison only; not directly present and not Marines alias.",
       "independent_observation_count": null,
       "identity": "Named comparison only; not directly present and not Marines alias.",
-      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN10 C3 P183-188",
       "substantive_responsibility": "Named comparison only; not directly present and not Marines alias.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Claude / クロード (Marines comparison report)",
@@ -467,18 +881,138 @@
       "agency_and_identity_limit": "Distinct name in comparison; no direct appearance or merged persona.",
       "independent_observation_count": null,
       "identity": "Distinct name in comparison; no direct appearance or merged persona.",
-      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
-      "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 28 source-bound author publication complete; continuing full program.",
       "evidence_distribution": "MAIN10 C3 P183-188",
       "substantive_responsibility": "Distinct name in comparison; no direct appearance or merged persona.",
       "gaps": "Identity, ordinary life and recurrence remain limited to the cited scope; no unique-person or independent-observation denominator.",
-      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT28_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "cohort28_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort28-bounded-profiles-and-occurrence-indexes"
       ],
-      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b"
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "prior_cohort28_publication_fields": {
+        "likely_tier": "0 scoped; occurrence/name index, not a personality model; exact publication pending",
+        "priority": "Cohort 28 source-bound semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort28_publication_resolution": {
+        "source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+        "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT28_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8db6a1b49fbb0e23aa42ce6e09f2d27fa0b28a6d7f87ff40dc7954b02b3f8023",
+        "source_run": 40055608877,
+        "full_discovered_tests": 459,
+        "current_models": 41,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
+    },
+    {
+      "character": "Capital guild male receptionist (CONTEXP02)",
+      "identity": "Capital guild male receptionist (CONTEXP02)",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "U013P247-263",
+      "substantive_responsibility": "Nervous service, task-fit objections, recognition of royal stakes and own employment consequence. Separate capital employee; no Luna join.",
+      "gaps": "Personal name, broader recurrence and own ordinary life remain open; current scoped role occurrence is not a proven globally unique individual.",
+      "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort29_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort29-barbera-and-bounded-institutional-encounters"
+      ],
+      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876"
+    },
+    {
+      "character": "Royal gate captain volunteering after shift (CONTEXP02)",
+      "identity": "Royal gate captain volunteering after shift (CONTEXP02)",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "U020P155-180",
+      "substantive_responsibility": "Volunteers personal off-duty frontline work to keep princess from danger; shift boundary and future substitution stated. Iris declines inclusion; no performed quest or proven broader combat skill.",
+      "gaps": "Personal name, broader recurrence and own ordinary life remain open; current scoped role occurrence is not a proven globally unique individual.",
+      "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort29_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort29-barbera-and-bounded-institutional-encounters"
+      ],
+      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876"
+    },
+    {
+      "character": "Capital policewoman admonishing Megumin (CONTEXP02)",
+      "identity": "Capital policewoman admonishing Megumin (CONTEXP02)",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "U020P511-526",
+      "substantive_responsibility": "Enforces explosion prohibition, detains then releases amid royalpresence, states future ban. Rule enforcement and status asymmetry; no performed future ban, universal neutrality or name join.",
+      "gaps": "Personal name, broader recurrence and own ordinary life remain open; current scoped role occurrence is not a proven globally unique individual.",
+      "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort29_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort29-barbera-and-bounded-institutional-encounters"
+      ],
+      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876"
+    },
+    {
+      "character": "Capital guild employee refusing King Toad request (CONTEXP02)",
+      "identity": "Capital guild employee refusing King Toad request (CONTEXP02)",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "U013P266-277",
+      "substantive_responsibility": "Explicitly refuses uncertain request and says unheard-of monster. One bounded occupational decision, not proof professional incompetence or universal closed-mindedness.",
+      "gaps": "Personal name, broader recurrence and own ordinary life remain open; current scoped role occurrence is not a proven globally unique individual.",
+      "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort29_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort29-barbera-and-bounded-institutional-encounters"
+      ],
+      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876"
+    },
+    {
+      "character": "Zereschilt castle gatekeepers and guide (unresolved actor group)",
+      "identity": "Zereschilt castle gatekeepers and guide (unresolved actor group)",
+      "likely_tier": "0 scoped; unresolved group occurrence index; exact publication pending",
+      "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "MAIN12C5P280-316; F P125/P167",
+      "substantive_responsibility": "Multiple gatekeepers, one offers referral, urgent toilet admission and unnamed guidance. Individuation incomplete; grouping is not one confirmed person or population count.",
+      "gaps": "Personal name, broader recurrence and own ordinary life remain open; current scoped role occurrence is not a proven globally unique individual.",
+      "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort29_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort29-barbera-and-bounded-institutional-encounters"
+      ],
+      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876"
+    },
+    {
+      "character": "Axel tax official speaking to adventurers (MAIN12)",
+      "identity": "Axel tax official speaking to adventurers (MAIN12)",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "MAIN12C2P131-157",
+      "substantive_responsibility": "Explains prior tolerance, public-fund obligation and tax claim. Crowd response observed; no independently audited law, cost account, all-wealthy wrongdoing or identity with other officials.",
+      "gaps": "Personal name, broader recurrence and own ordinary life remain open; current scoped role occurrence is not a proven globally unique individual.",
+      "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort29_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort29-barbera-and-bounded-institutional-encounters"
+      ],
+      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876"
     }
   ]
 }

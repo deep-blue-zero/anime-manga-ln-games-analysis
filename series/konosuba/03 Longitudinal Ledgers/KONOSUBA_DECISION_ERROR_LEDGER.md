@@ -1975,3 +1975,10 @@ Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20
 AL28-09: Alderp treats a knock as delivered Darkness despite Maxwell saying nothing has been done, then releases the contract. RG28-08: Zesta's quiet bluff admission is outside Ragcraft's hearing; the inferred exposure is mistaken. BA28-02: Balter's wager interpretation conflicts with K's actual fear; false pregnancy is not true. EP28: prosecutor's device-fault assumption conflicts with the watchman's check. IG28 includes false pregnancy belief, parental distraction and surprise. Maxwell's apparent mutual-love interpretation preserves the recipient's nonconsent. Exercise MX-H02-B misreads strike as kill; IG-H02-B invents an undisputed portion. Originals remain unrepaired.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton admits unknown mechanisms, gives empowering ice advice and makes a calming display that fails. Later sunshine does not verify the toad theory. Zereschilt repeatedly misreads Darkness's failed attacks and pleasure; affect detection does not establish correct causal explanation. Barton firsts omit the underprovided scale location; ZS-H03-A accepts before errand details and assumes carrying/room visibility. All original defects remain unrepaired rather than becoming native claims.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
