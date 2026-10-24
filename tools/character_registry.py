@@ -15,6 +15,9 @@ in the worktree since the first commit.
 JSONL stream in ASCII ``analysis_subject_id`` order. The output is a view for
 consumers and comparisons, never a second tracked copy.
 
+After ``normalize`` or ``replay`` the command lists every registry path whose
+worktree differs from the Git index, which is the complete list to stage.
+
 None of these edits a row; the repository validator decides whether rows are
 valid.
 """
@@ -178,6 +181,28 @@ def replay(root: Path, base: str, head: str) -> list[str]:
     return _write(root, sources, current)
 
 
+def unstaged_registry_paths(root: Path) -> list[str]:
+    """Registry paths whose worktree state differs from the Git index.
+
+    This is the staging list after ``normalize`` or ``replay``: it includes rows
+    revised in place and new partitions that needed no rewriting, which the
+    normalization report alone omits, and the retired single file once removed.
+    """
+
+    pathspecs = ["--", LEGACY_DISCOVERY_REGISTRY_PATH, DISCOVERY_REGISTRY_PREFIX.rstrip("/")]
+    modified = run_git(root, "--literal-pathspecs", "diff", "--name-only", "-z", *pathspecs)
+    untracked = run_git(
+        root, "--literal-pathspecs", "ls-files", "--others", "--exclude-standard", "-z", *pathspecs
+    )
+    paths = {
+        item.decode("utf-8", "strict")
+        for raw in (modified, untracked)
+        for item in raw.split(b"\0")
+        if item
+    }
+    return sorted(paths, key=lambda item: item.encode("utf-8"))
+
+
 def export(snapshot: GitSnapshot) -> bytes:
     rows = _row_map(_snapshot_sources(snapshot), snapshot.identity, collapse=False)
     return b"".join(
@@ -209,6 +234,8 @@ def main() -> int:
             else replay(root, _commit(root, args.base), _commit(root, args.head))
         )
         for path in changed:
+            print(f"rewritten: {path}")
+        for path in unstaged_registry_paths(root):
             print(f"registry path to stage: {path}")
         return 0
     if args.snapshot == "commit":

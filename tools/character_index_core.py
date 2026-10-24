@@ -1470,6 +1470,13 @@ def current_layout_errors(registry: DiscoveryRegistry) -> list[str]:
             f"{LEGACY_DISCOVERY_REGISTRY_PATH} is retired; store each row in "
             f"{DISCOVERY_REGISTRY_PREFIX}<namespace>.jsonl (run tools/character_registry.py normalize)"
         ]
+    if registry.layout == ABSENT_LAYOUT:
+        # Only a historical read treats absence as no rows; a current snapshot
+        # that has lost every partition is missing an input, not empty.
+        return [
+            f"the discovery registry is absent: no {DISCOVERY_REGISTRY_PREFIX}<namespace>.jsonl "
+            "partition is tracked"
+        ]
     return list(registry.layout_errors)
 
 

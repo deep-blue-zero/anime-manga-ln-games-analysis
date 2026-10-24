@@ -26,7 +26,7 @@ from character_index_core import (  # noqa: E402
     is_discovery_output,
     read_discovery_registry,
 )
-from character_registry import export, normalize, replay  # noqa: E402
+from character_registry import export, normalize, replay, unstaged_registry_paths  # noqa: E402
 from generate_character_index import (  # noqa: E402
     generated_output_errors,
     render_outputs,
@@ -82,10 +82,11 @@ class RegistryLayoutTests(unittest.TestCase):
         self.assertEqual(len(registry.records), 2)
         self.assertTrue(any("is retired" in item for item in current_layout_errors(registry)))
 
-    def test_absent_registry_is_empty(self) -> None:
+    def test_absent_registry_reads_as_no_rows_but_is_not_current(self) -> None:
+        # Pre-registry commits read as empty; a current snapshot must have partitions.
         registry = read_discovery_registry(snapshot(("series/registry.json", b"{}\n")))
         self.assertEqual((registry.layout, registry.records), (ABSENT_LAYOUT, []))
-        self.assertEqual(current_layout_errors(registry), [])
+        self.assertTrue(any("is absent" in item for item in current_layout_errors(registry)))
 
     def test_layouts_cannot_coexist(self) -> None:
         with self.assertRaisesRegex(DomainError, "cannot coexist"):
@@ -286,7 +287,16 @@ class RegistryToolTests(unittest.TestCase):
             line(record("example:alice@anime")) + raw_bob,
         )
         self.assertEqual(normalize(self.root), [])
+        self.assertEqual(
+            unstaged_registry_paths(self.root),
+            [
+                "characters/registry.jsonl",
+                "characters/registry/example.jsonl",
+                "characters/registry/other.jsonl",
+            ],
+        )
         after = self.commit("partitions")
+        self.assertEqual(unstaged_registry_paths(self.root), [])
         self.assertEqual(
             sorted((self.root / "characters/registry/example.jsonl").read_bytes().splitlines()
                    + (self.root / "characters/registry/other.jsonl").read_bytes().splitlines()),
@@ -351,6 +361,26 @@ class RegistryToolTests(unittest.TestCase):
         with self.assertRaisesRegex(DomainError, "example:bob@anime"):
             replay(self.root, base, head)
         self.assertEqual((self.root / "characters/registry/example.jsonl").read_bytes(), before)
+
+    def test_staging_report_covers_edits_normalization_leaves_untouched(self) -> None:
+        self.write("characters/registry/example.jsonl", line(record("example:alice@anime")) + line(bob()))
+        self.commit("partition")
+        # A row revised in place keeps its order, so normalization rewrites nothing.
+        revised = bob()
+        revised["notes"] = "Revised in place."
+        self.write("characters/registry/example.jsonl", line(record("example:alice@anime")) + line(revised))
+        # A new partition written already sorted needs no rewriting either.
+        self.write(
+            "characters/registry/other.jsonl",
+            line(record("other:carol@anime", entity_id="other:carol", series_id="other")),
+        )
+        self.assertEqual(normalize(self.root), [])
+        self.assertEqual(
+            unstaged_registry_paths(self.root),
+            ["characters/registry/example.jsonl", "characters/registry/other.jsonl"],
+        )
+        self.git("add", "--", "characters/registry/example.jsonl")
+        self.assertEqual(unstaged_registry_paths(self.root), ["characters/registry/other.jsonl"])
 
     def test_writers_refuse_symlinked_managed_directories(self) -> None:
         outside = Path(tempfile.mkdtemp(prefix="registry-outside-", dir=self.root.parent))

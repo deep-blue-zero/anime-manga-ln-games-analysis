@@ -10,7 +10,7 @@ Only those discovery outputs. The registry partitions are curated; the root inde
 
 1. Start from the full current `main` SHA. Review tracked analytical files under `series/` and `studies/` that were added, changed, renamed or deleted since the last completed review. Track coverage per root: a checkpoint from before `studies/` was in scope covers `series/` only, so review `studies/` from a documented baseline (the whole tree when none exists) until it catches up. Unmerged evidence is never effective.
 2. Enroll or revise a record only for substantial, reviewed, dedicated or distributed analysis whose current evidence supports every claimed dimension, identity, alias, anchor and coverage range. Mentions, cast lists and filenames are not enough. Defer anything ambiguous without inventing metadata or repairing the source. Reassess affected existing records and keep deferred candidates for the next run.
-3. Work on the reusable `character-registry` branch with at most one open PR. Merge current `main` into it without force. Add or revise rows in their partitions, run `python tools/character_registry.py normalize`, and stage each partition path it reports. Run `python tools/generate_character_index.py --snapshot index`, stage each output path it reports, including removals, and run `python tools/prepare_commit.py --base origin/main --check`.
+3. Work on the reusable `character-registry` branch with at most one open PR. Merge current `main` into it without force. Add or revise rows in their partitions and run `python tools/character_registry.py normalize`; stage, by exact name, each `registry path to stage` it reports (every registry path whose worktree differs from the index, including rows revised in place and new partitions it did not need to rewrite). Run `python tools/generate_character_index.py --snapshot index`, stage each output path it reports, including removals, and run `python tools/prepare_commit.py --base origin/main --check`.
 4. Push and open or update the PR. The repository audit confines this branch to the discovery outputs. The CI agent merges it under `NIGHTLY_ANALYTICAL_INTEGRATION.md`.
 
 Structural checks cannot establish that an interpretation is correct; only evidence-supported changes are enrolled.
@@ -26,7 +26,7 @@ A branch whose unmerged curation predates the 2026-10-24 partition migration cha
 1. Note the branch head `H` and the merge base `B` of `H` and `origin/main`.
 2. In a commit touching only discovery outputs, restore them to the merge base: `git checkout B -- characters/registry.jsonl CHARACTER_ANALYSIS_INDEX.md`.
 3. Merge `origin/main`; it now applies cleanly and brings the partitions.
-4. Run `python tools/character_registry.py replay --base B --head H`. It applies exactly the rows the branch added, revised or removed, and stops before writing if `main` also changed one of those rows; reconcile such a row by hand. Then regenerate the index and commit the discovery outputs as an ordinary curation commit.
+4. Run `python tools/character_registry.py replay --base B --head H`. It applies exactly the rows the branch added, revised or removed, and stops before writing if `main` also changed one of those rows; reconcile such a row by hand. Stage each `registry path to stage` it reports, regenerate the index, stage its reported outputs, and commit the discovery outputs as an ordinary curation commit.
 
 Rows deferred only because the single file was full are enrolled through the ordinary evidence checks above.
 
