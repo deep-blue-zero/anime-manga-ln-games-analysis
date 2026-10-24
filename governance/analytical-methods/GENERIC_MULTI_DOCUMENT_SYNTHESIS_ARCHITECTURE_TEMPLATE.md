@@ -38,7 +38,7 @@ The template follows the initiation policy's Minimum Semantic Contract (Section 
 2. Choose the reference method for the medium (the [routing policy](../source-policies/MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md), Section 3) and adapt the project's analytical method alongside this architecture. The pair is designed together (initiation Section 4).
 3. Copy Part I into `<SERIES>_SYNTHESIS_ARCHITECTURE.md` in the project's frameworks folder. Replace each bracketed prompt with project decisions. Remove guidance text.
 4. Initialize only the day-one infrastructure the architecture names (Section 6 below).
-5. Write the entrypoint (Section 20 below) and open the lock only when the compliance checklist (Part II) passes.
+5. Write the entrypoint in its initial state, with the lock closed (Section 20 below). When the compliance checklist (Part II) passes, the project is ready; it still opens the lock and begins reading only through the separate owner-authorized transition in Section 20.
 
 Notation: `<ANGLE>` marks a value to fill in; **Decide:** marks a question the architecture must answer.
 
@@ -322,23 +322,59 @@ List which files remain mutable (entrypoint, ledgers, current syntheses) and whi
 
 ## 20. Entrypoint and retrieval route (contract 5.16; initiation Section 3.5)
 
-Name `CURRENT_STATE_AND_CORPUS_MAP.md` (or the verified equivalent) as the first-read surface. It answers: where to start, what is current authority, what source boundary is complete, what operation is next, and what to read before changing state. Initialize it with:
+Name `CURRENT_STATE_AND_CORPUS_MAP.md` (or the verified equivalent) as the first-read surface. It answers: where to start, what is current authority, what source boundary is complete, what operation is next, and what to read before changing state.
+
+The entrypoint records seven separate facts. Architectural completeness establishes the first three; it authorizes no reading.
+
+| Fact | Where it is recorded |
+|---|---|
+| Framework and architecture readiness | `governing_method` and `method_status`; `synthesis_architecture` and `architecture_status` |
+| Source reconnaissance and source-lock readiness | `source_reconnaissance_complete`, plus the source lock or inventory the project names (Section 3) |
+| Day-one infrastructure readiness | `required_day_one_infrastructure_initialized` and the `required_day_one_infrastructure` path list |
+| Sequential-analysis lock state | `sequential_analysis_lock`: `open` or `closed` |
+| Owner-authorized execution scope | `sequential_execution`: `mode`, `authorized_start`, `terminal_boundary` |
+| Run state | `sequential_execution.run_state`: `active`, `blocked`, `interrupted_pending_recovery`, or `completed` |
+| Exact next permitted operation | `project_initialization.next_permitted_operation`, matched by `sequential_execution.next_candidate_operation` while a run is active |
+
+**Initial state, before any run is authorized.** Initialize the entrypoint truthfully, with the lock closed and no run:
 
 ```yaml
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
   governing_method: <SERIES>_ANALYTICAL_METHOD.md
-  synthesis_architecture: <SERIES>_SYNTHESIS_ARCHITECTURE.md
   method_status: canonical
+  synthesis_architecture: <SERIES>_SYNTHESIS_ARCHITECTURE.md
+  architecture_status: canonical
   source_reconnaissance_complete: true
-  required_ledgers_initialized: true
-  sequential_analysis_lock: open
+  required_day_one_infrastructure_initialized: true
+  required_day_one_infrastructure:
+    - <path of each day-one ledger>
+  sequential_analysis_lock: closed
+  next_permitted_operation: NONE_AWAITING_RUN_AUTHORIZATION
 ```
 
-Use the key spellings the validator reads (initiation Section 3.8). Keep the entrypoint about the present; move dated history to a changelog beside it.
+**Authorized transition.** Only when the owner authorizes a run (initiation Sections 3.8 and 3.9.4; [continuation policy](../source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) Sections 3–5), open the lock and record the run in the same change. For a first single-unit run:
 
-An OPEN lock alone admits nothing. Before the first sequential reading is admitted, the entrypoint must also record the owner-authorized run (initiation Section 3.9.4; [continuation policy](../source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md)): `project_initialization.next_permitted_operation` naming the first unit, and a `sequential_execution` block with `run_state: active`, `mode: single_operation` or `continuous_sequential`, nonempty `authorized_start` and `terminal_boundary` (under `single_operation`, both are that one unit), `committed_high_water_mark`, and `next_candidate_operation` equal to `next_permitted_operation`. The validator rejects a reading admitted under an OPEN lock without that active run.
+```yaml
+project_initialization:
+  # readiness fields unchanged from the initial state
+  sequential_analysis_lock: open
+  next_permitted_operation: <FIRST_UNIT>
+sequential_execution:
+  mode: single_operation
+  unit_type: <volume | episode | chapter | event>
+  authorized_start: <FIRST_UNIT>
+  terminal_boundary: <FIRST_UNIT>
+  committed_high_water_mark: NONE
+  next_candidate_operation: <FIRST_UNIT>
+  confirmation_between_units: true
+  run_state: active
+```
+
+Under `single_operation`, `authorized_start`, `terminal_boundary`, and `next_candidate_operation` are the same unit. A `continuous_sequential` run names a wider bound that the owner actually authorized (continuation policy Section 4). When the run completes, record `run_state: completed` and `NONE` for both next operations. The lock may stay open between runs; an open lock with no active run authorizes nothing.
+
+Use the key spellings the validator reads (initiation Sections 3.8 and 3.9.4). Do not add run-state keys of your own. Keep the entrypoint about the present; move dated history to a changelog beside it.
 
 ---
 
@@ -355,8 +391,9 @@ Before the first substantive sequential reading, confirm (initiation Section 15)
 - [ ] source, conflict, and continuity rules explicit;
 - [ ] extension rule and completion gates present;
 - [ ] reasoning classes assigned;
-- [ ] entrypoint written; lock recorded as open only after all of the above;
-- [ ] owner-authorized run recorded (`run_state: active`, mode, bounds, matching next operations) before the first reading is admitted.
+- [ ] entrypoint written in the initial state: lock `closed`, no run, `next_permitted_operation: NONE_AWAITING_RUN_AUTHORIZATION`.
+
+Completing this checklist establishes readiness. It does not authorize a sequential reading. A reading may begin only after the separate authorized transition in Section 20: an owner-authorized run recorded with `run_state: active`, its mode and bounds, matching next operations, and the lock opened in the same change.
 
 ---
 
