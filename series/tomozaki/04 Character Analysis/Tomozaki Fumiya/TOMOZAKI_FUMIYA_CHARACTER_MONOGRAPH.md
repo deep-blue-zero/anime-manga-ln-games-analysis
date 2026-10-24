@@ -2,19 +2,22 @@
 series: TOMOZAKI
 artifact_type: character_monograph
 subject: "Tomozaki Fumiya / 友崎文也"
-scope: "Japanese light novels V01–V11; admitted V06.5/V08.5 units at their story-local positions"
-generation: "V1.1_R04_FUMIYA_REVIEWED"
+scope: "Japanese light novels V01–V12; admitted V06.5/V08.5 units at their story-local positions"
+generation: V12_REVIEWED_FUMIYA
 status: canonical
 release_state: mutable_active
 maturity_state: MATURE_LOCAL_LITERARY_ROLE
+accepted_R04_maturity: MATURE_LOCAL_LITERARY_ROLE
 review_state: INDEPENDENT_REVIEW_PASS
-review_scope: R04_FUMIYA_ONLY
-source_boundary: "Locked Japanese V01–V11 plus story-local V06.5/V08.5; no new source admitted"
-analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
+accepted_R04_review_state: INDEPENDENT_REVIEW_PASS
+review_scope: TARGETED_FUMIYA_V12_ONLY
+source_boundary: "Verified Japanese V01–V12 plus story-local V06.5/V08.5; corrected local V12 witness separately admitted 2026-10-22"
+analytical_boundary: V12_PLUS_ROUTED_SUPPLEMENTS
 governing_architecture: "../../00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md"
 canonical_entrypoint: "../../CURRENT_STATE_AND_CORPUS_MAP.md"
 integration_review: "../../08 Audits and Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md"
 repository_authority: true
+candidate_base_commit: 07b17398da81c0b8a9ccc628c352aab0794e6f57
 prepared_date: "2026-09-13"
 base_branch: "series/tomozaki"
 base_commit: "919b71662a8be869f648f34120aae8493c37897f"
@@ -27,20 +30,22 @@ execution_setting_note: "Original cloud author reported no selectable Max contro
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
+V12_integration_review: "../../08 Audits and Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md"
+V12_review_date: "2026-10-23"
 ---
 
 # Tomozaki Fumiya — learning to choose without becoming the author of everyone else
 
-*A character monograph and evidence-bounded reconstruction through Japanese V11.*
+*A literary monograph through V12, preserving the accepted V11 developmental account.*
 
-**Authority note.** This reviewed revision carries Fumiya’s mature local literary-monograph responsibility through V11 under architecture §7.3. The earlier monograph’s transferred-effort, goal-ownership, and non-monotonic-development account is retained and substantially developed. The [integration review](../../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) records the supplied candidate, bounded corrections, source checks, and cumulative additions. This mutable local role does not complete R04, which also requires Hinami, or the later specialist, reconstruction, and literary-release gates. Repository publication is checked separately on the exact commit.
+**Current literary authority.** This study passes independent source and semantic review for its individual monograph responsibility through V12. The [V12/principal and R06 integration review](../../08%20Audits%20and%20Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md) records the exact scope, corrections, evidence and preservation checks. Earlier R04/R05 acceptances and V11 states remain historical at their stated boundaries. Required relationship/thematic work, convergence, full-series release, derived models and formal terminal closure remain separate unfinished gates. Section 16 owns the current V12 argument; all original TF-E/TF-P identities remain intact.
 
 ## Contents
 
 1. [Responsibility and evidence boundary](#responsibility)
 2. [Reconstructive thesis: who Fumiya is](#thesis)
 3. [Developmental chronology and sustained scene analysis](#chronology)
-4. [Current state vector: what survives V11](#current-state)
+4. [Preserved V11 state vector; current V12 in §16](#current-state)
 5. [Stable tendencies and state-dependent behavior](#operating-patterns)
 6. [Competence, confidence, status, self-concept, agency, and values](#six-dimensions)
 7. [Speech, focalization, and self-presentation](#voice)
@@ -52,13 +57,14 @@ do_not_use_as_current_authority: false
 13. [Evidence-bounded responses to novel situations](#novel-situations)
 14. [Evidence routes and primary-verification register](#evidence)
 15. [Provenance, limitations, and integration boundary](#provenance)
+16. [V12 current band](#v12-current-band)
 
 <a id="responsibility"></a>
 ## 1. Responsibility and evidence boundary
 
 This monograph reconstructs Fumiya as a particular person rather than a collection of social-improvement milestones. It asks what he notices, values, enjoys, misunderstands, says, withholds, practices, risks, and does when the story he tells about himself becomes difficult to maintain. Literary interpretation and behavioral reconstruction belong together here. His gaming metaphors are formal features of the novels, but they are also ways this narrator organizes attention and makes action possible. His friendships are narrative relationships, but they also expose different versions of his conduct that a single trait label would conceal.
 
-The governing corpus is the locked Japanese V01–V11 sequence plus admitted, story-locally routed V06.5 and V08.5 material. V07 means the audited Special Edition witness; its artbook does not advance the narrative. V08.5’s explicitly parallel karaoke story and adaptation-derived VR bonus do not establish canonical habits, preferences, or actions. No later volume, translation, adaptation, external commentary, or remembered canon supplies an answer here. In particular, **V11 is this analysis’s boundary, not a claim that the fictional series ends there**. [TF-E00](#tf-e00)
+The current candidate adds the separately admitted V12 witness to the locked Japanese V01–V11 sequence and story-locally routed V06.5/V08.5 material. Sections 1–15 retain their accepted V11 evidence horizon; §16 owns the additive current V12 argument. V07 means the audited Special Edition witness; its artbook does not advance the narrative. V08.5’s explicitly parallel karaoke story and adaptation-derived VR bonus do not establish canonical habits, preferences, or actions. No post-V12 source, translation, adaptation, external commentary, or remembered canon supplies an answer here. In particular, **the historical V11 horizon below is not a present-day negative about V12**. [TF-E00](#tf-e00)
 
 The working source hierarchy is the admitted Japanese witness; the frozen reading preserving its prospective state; the reconciled cumulative claim family and its present qualifications; and this monograph’s argument. The R01–R03 corrections govern where older readings or the previous monograph overstate attribution, chronology, or resolution. The original frozen formulations remain historical evidence of analytical development, not invitations to repeat a corrected error.
 
@@ -213,9 +219,9 @@ The reconciliation then restores the personal relation before turning it into an
 That last pleasure is meaningful but not a release certificate. The proposed party is not yet assembled; its members have not all agreed; Hinami has not consented; the story is not completed and delivered; no school return or successful intervention is shown. The end gives Fumiya another model that may correct the previous model. The mature reading must stop before awarding him the success that the next test has not supplied. [TF-E26](#tf-e26)
 
 <a id="current-state"></a>
-## 4. Current state vector: what survives V11
+## 4. Preserved V11 state vector — current V12 in §16
 
-The current state is **after the reconciliation and co-proposal**, not the moment of deepest withdrawal and not an imagined successful aftermath. The table separates capacities that remain evidenced from the new obligations their use creates.
+The preserved V11 state is **after the reconciliation and co-proposal**, not the moment of deepest withdrawal and not an imagined successful aftermath. Section 16 supplies actual V12 execution, costs and remaining limits. The table separates capacities that remain evidenced from the new obligations their use creates.
 
 | Dimension | Supported state at the boundary | What is not established |
 |---|---|---|
@@ -552,7 +558,9 @@ His withdrawal is severe, and the failed call injures someone who has supported 
 Plural participation can reduce interpretive monopoly and make different costs visible. The existing corpus gives strong reasons to prefer that possibility over a unique savior’s guarantee. But a group can still organize around someone else’s life without permission, distribute pressure, and mistake agreement among helpers for the subject’s consent. V11 ends before this risk is tested. The warranted formulation is that the co-proposal corrects the imagined distribution of knowledge and capability, while authority and outcome remain open. [TF-E26](#tf-e26)
 
 <a id="endpoint"></a>
-## 12. The V11 endpoint and unresolved hypotheses
+## 12. The preserved V11 endpoint and unresolved hypotheses
+
+This accepted endpoint retains its original source clock. The proposed party, ordinary return and owned reason to play acquire later evidence in §16; historical absence here must not be reused as a current V12 negative.
 
 Fumiya’s present direction is toward renewed action with Kikuchi and a proposed wider group. That direction carries three genuine changes: he has acknowledged hurting his partner; he has accepted a mode of communication that his own direct argument could not reproduce; and he has accepted that other people’s experiences are not replaceable by his insight. These are substantive local developments. They do not warrant a final account of secure identity, completed relationship repair, or consent-sensitive intervention. [TF-E25](#tf-e25) [TF-E26](#tf-e26)
 
@@ -567,7 +575,7 @@ A third concerns vocation. Professional gaming is not merely an inherited goal, 
 Finally, the private relationship remains a site of continuing work rather than a resolved reward. Kikuchi’s willingness to participate does not erase jealousy or establish standing permission for all uses of her time and art. Mimimi’s restraint does not establish emotional closure. Mizusawa’s renewed confession is not shown. Rena’s broad compliance is not shown. These are other people’s open states as well as limits on predicting Fumiya’s conduct. A reconstructed character cannot be made more certain by inventing certainty in everyone around him. [TF-E18](#tf-e18) [TF-E25](#tf-e25) [TF-E27](#tf-e27)
 
 <a id="novel-situations"></a>
-## 13. Evidence-bounded responses to novel situations
+## 13. Preserved V11 evidence-bounded responses to novel situations
 
 ### 13.1 What this reconstruction can and cannot predict
 
@@ -674,7 +682,9 @@ Three checks help prevent the reconstruction from becoming unfalsifiable. First,
 The purpose of these checks is not to make every outcome retrospectively inevitable. Some reactions remain uncertain, and the current model explicitly abstains from exact outcomes. Its advantage over a generic profile is that it identifies **what additional information would change the forecast** and which observed behavior would force a revision.
 
 <a id="evidence"></a>
-## 14. Evidence routes and primary-verification register
+## 14. Accepted R04 evidence routes and primary-verification register
+
+The original TF-E00–05 and TF-E07–27 and TF-P01–03 records, witness checks and provenance below remain the accepted V11 record. They do not claim that V12 was then read. Section 16 adds separate current routes without renumbering them.
 
 ### 14.1 How to retrieve a claim
 
@@ -869,7 +879,9 @@ An intervening image-only member was not used as independent evidence for the fi
 All five EPUBs matched the locked manifest and passed ZIP CRC testing. V11 retains the known non-blocking `mimetype` entry-order issue recorded by the source audit. A byte/CRC check does not amount to a fresh complete visual or semantic audit of every member. The full source-facing readings and six reconciled cumulative owners supplied the longitudinal basis; fresh primary reading was selective and is enumerated above. Other `LOC-*` references are inherited, reviewed audit routes, not a claim that their witnesses were newly downloaded in this session.
 
 <a id="provenance"></a>
-## 15. Provenance, limitations, and integration boundary
+## 15. Preserved R04 provenance, limitations, and integration boundary
+
+The original review and limitations below describe their accepted transaction. Their earlier not-completed-R04 wording is historical: Hinami subsequently completed R04. Present V12 acceptance, aggregate convergence and publication are separate responsibilities.
 
 ### 15.1 What this revision carries forward
 
@@ -890,3 +902,137 @@ A future fuller speech study may support stronger statements about recurring reg
 The [integration review](../../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) and its path manifest record the complete before-image comparison, source and role review, bounded ledger changes, and local routing updates. Future revisions must preserve those evidence identities and inspect incoming links. Required source audit, housekeeping, and exact-head validation apply to each published revision; global routing and character-discovery outputs retain their separate governance owners.
 
 **Final bounded account.** Fumiya is not the weak person who finally obtains a strong person’s tools, nor the naturally strong gamer whose social life merely catches up. He is a particular learner who finds new things worth doing, becomes capable of acting for them, and discovers that the ability to act does not decide what he may require of others. His humor, thrift on a shopping trip, attachment to play, pleasure in a small photograph, and willingness to be corrected are not decorations around that argument. They are evidence of the life his models are supposed to make possible. At V11, the next question is whether he can preserve that life—and care for Hinami—without demanding that one successful rescue prove who he is.
+
+<a id="v12-current-band"></a>
+## 16. V12 current band — a wanted life after the failure of unique usefulness
+
+### 16.1 What survives, and what the completed source can now test
+
+The accepted V11 account ends with a good proposal whose execution, recipient and consequences are unknown. V12 supplies those consequences without making the proposal retrospectively innocent. The party meets; the writing method changes; the manuscript is finished, delivered and read; Hinami appears again among her peers and accepts a public game. Fumiya also receives ordinary care, admits an awkward friendship, revises a refused travel offer, intrudes on another person's work and neglects an obligation. These are not mutually exclusive versions of the ending. They are the tests that keep his expanded agency from becoming a certificate of general maturity. [TF-V12-E01–08 below]
+
+The governing thesis survives: his learning concerns goals, costs and jurisdiction as well as technique. The new pressure is that **wanting to help can remain his reason after it ceases to be proof that only he can help**. He can accept being one participant in an offered account of life, rather than its final guarantor. That is an interpretive synthesis of the sequence, not a newly stated doctrine that explains every act. The story's success and his continuing errors both matter to whether it survives.
+
+The developmental state is V12 after the V11 defeat and reconciliation. None of these later capacities or disclosed histories belongs automatically to the early learner, the V03 negotiator or the V07 romantic chooser. Sections 1–15 preserve the accepted R04 argument and its V11 inspection horizon. The new section is a current overlay; it neither deletes that history nor converts its earlier OPENs into earlier knowledge.
+
+### 16.2 The opening record: precision cannot supply a missing intention
+
+Fumiya begins with a replay. Thirty-one input-empty frames are available for analysis, but the reason Hinami waits is not. His domain expertise gives him a discriminating question, not access to the answer. This is an important limit for a narrator whose strongest method is to observe a process closely enough to change it. Even an unusually exact behavior record leaves the actor's intention underdetermined. The later cursor pause before the exhibition cannot be substituted for this earlier event. [TF-V12-E01]
+
+The difference also governs his place in the novel's solution. He can provide observations, remembered words, particular experiences and practical cooperation. He cannot recover Nagisa's last wish or certify that a novelist's account is the unique truth of Hinami. A literary model can change the possibilities a reader sees while remaining a model. The ending does not solve this uncertainty by making Fumiya an infallible observer.
+
+### 16.3 Receiving care without making care an unlimited resource
+
+Kikuchi challenges the arrogance in his self-exhaustion and asks him to protect his own time. The physical comfort and his relief are actual partner behavior, not merely equipment for the next rescue. His wish to help Hinami remains sincere; he also narrates knowing that this formulation will secure Kikuchi's acceptance and understanding its unfairness. Those direct acknowledgments at P96–98 prevent the choice from being idealized as an unpressured agreement between equally placed speakers. This combination is more exact than either saying he has abandoned his end or awarding him a permanent partner-approved priority. The local exchange permits an action under particular conditions. It does not decide every future allocation of time, worry or creative labor. [TF-V12-E02]
+
+His dependence on another person's correction is not itself a failure of ownership. The V11 crisis already disproved the idea that he must generate every resource alone. V12 makes receiving care a part of the desired life rather than a humiliating detour before useful action resumes. The remaining risk is the opposite overcorrection: gratitude can let him take a willing partner's capacity as renewable without checking its cost. The text supplies a warning and a response, not a final distribution rule.
+
+The later island exchange sharpens what he can offer in return. His first assurance that he values Kikuchi beyond productivity is sincere but too general to answer her question about writing. Later he names particular things he loves: her laughter, competitive word choices, excited behavior and the rice ball she divided. The difference is not that abstract affection was false. Particular observation makes his attachment legible to this recipient in this situation. It also allows her to exist as more than the person whose novel might reach Hinami. Her response and initiated touch are local reciprocity; they do not cure the block or establish permanent ease. [TF-V12-E05]
+
+### 16.4 Mizusawa and the acquired form of an honest friendship
+
+Fumiya tells Mizusawa more of his pessimism than he tells Kikuchi. Recipient variation is therefore visible inside the attempt to become more honest. An account in which he always discloses directly to the closest person would be inaccurate. The scene also makes him answer a less comfortable question about his understanding of friendship. Mizusawa acknowledges an instrumental interest in approaching him to learn about Aoi. It was one motive, and it hurts. It is not proof that all their history was counterfeit. [TF-V12-E03]
+
+Fumiya revises a natural-only theory of sincerity. A learned interpersonal form can make a truthful statement possible; he has borrowed Mizusawa's form himself. That insight does not excuse the use of people as means. It stops origin from determining the whole later relation. The awkward borrowed fiction through which he calls Mizusawa his best friend, and Mizusawa's embarrassment, gratitude and teasing, establish something the instrumental-origin account cannot exhaust.
+
+The result is friendship rather than a completed privacy settlement. Mizusawa's local acceptance of sharing particular past material with Kikuchi does not supply blanket permission to circulate every intimate fact. His later reluctant agreement to one role-play under group pressure likewise has its own scope. Fumiya's greater capacity to recognize performance as useful must remain answerable to who agrees, to which act, under what pressure. Learned form is neither automatically fraudulent nor automatically licensed.
+
+### 16.5 The party can listen, impose, stop and learn
+
+Actual collaboration corrects the V11 proposal's untested status. Kikuchi permits particular unfinished-chapter circulation; Mimimi and Mizusawa participate; their testimony and acting resist the initial desired answer. Mimimi supplies an account of chosen restraint while love continues and changes an exposing interview into a race. She is an agent in the method, not raw material whose experience confirms Fumiya and Kikuchi's first idea. Fumiya also directly receives her account as the person she wanted. His inability to guarantee that he would have resisted a counterfactual approach is an honest limit, not proof that the unrealized relationship would have happened. [TF-V12-E04]
+
+Kikuchi's recognition that they have been steering toward an independent-star conclusion makes stopping part of the work. Fumiya does not obtain a completed ethical method merely by belonging to a plural group. A group can distribute insight and pressure together. The imagined destination can remain imposed even when several caring people agree on it. Nor does the author's permission to circulate a chapter stand in for the modeled person's permission to be represented or the eventual reader's permission to be contacted.
+
+His contribution is strongest when it allows other people's corrections to remain consequential. The study should not absorb Mimimi's self-account, Mizusawa's resistance or Kikuchi's stop into a single history of Fumiya's growth. They change his field of action because their reasons are partly independent of his. That independence is also why a method can be revised without guaranteeing its final result.
+
+### 16.6 A changed invitation, ordinary company and incomplete candor
+
+Kikuchi initially refuses his accompaniment because the inquiry must be hers; he accepts. When she remains blocked, his new offer gives his own reason: he wants to see her. He waits for acceptance. The later yes does not invalidate the earlier no. This is a bounded example of changing a request rather than treating a refusal as an obstacle that care authorizes him to defeat. [TF-V12-E05]
+
+The trip brings the life surrounding the project back into evidence. His family responds with concern, a souvenir request and encouragement; he does not disclose the whole couple purpose. The ferry, a date, a descriptive game, his mistaken color answer, shared food and an awkward lodging arrangement show practical initiative, pleasure and limited candor. Neither the shared room nor his suspicion of a contrivance proves a sexual encounter or a secret lodging plan. These limits matter because his ordinary life cannot be reconstructed solely from the moral language of intervention.
+
+The word game is also counterevidence to a perfectly converged couple. They can be affectionate and observant while perceiving differently and competing over a description. His mistake does not make perception useless; her success does not make her a universal interpreter. Their local communication is a practice, not a final score for compatibility.
+
+### 16.7 Mitsu: a lesson he does not simply obey
+
+Mitsu refuses unsolicited help and later delegates a specific task to a trusted local person. Fumiya cannot infer that age or difficulty suspends her authority over the work. The two responses are recipient- and task-conditioned rather than a contradiction that requires diagnosing her. He and Kikuchi also leave after the initial interview refusal. These acts preserve real limits on access. [TF-V12-E06]
+
+The costume sequence prevents an idealized account in which he has now learned the rule and always follows it. He remembers Mitsu's warning not to do anything extra while she is away. Kikuchi touches the cord but does not pull it; Fumiya proposes opening and opens the package, with her assent. He later owns that proposal to Mitsu at P799. They go on to propose a repair. Movement and color skills help; Mitsu is nevertheless angry, then accepts a narrower pairing while correcting placement and doing the sewing herself. Useful contribution and an access violation coexist. The written blue-color name is correct; the attached scarlet sample mismatches it. Fumiya imagines possible swap or knot mechanisms, but the responsible actor and exact mechanism remain unestablished. He does not gain a right to blame the expert's body or the person who helped her. [p0016 P643/P655/P685–710/P799–806]
+
+The later archive and manuscript access depend on promises, handling limits and a loan deadline. Fumiya's curiosity operates inside another person's maintained place. The couple's observation of surviving documents can ground a claim about marks on a page; it cannot supply unmediated access to Andy's motive, a right to publish the papers or a complete history of the festival. The observer's skill does not eliminate the custodian's standing.
+
+### 16.8 Standing beside a writer whose remaining choice is hers
+
+Fumiya's picture of the luminous writer briefly approaches a godlike observer; Kikuchi's inability to write Nagisa immediately limits it. Nagisa's actual standpoint is unavailable. Fumiya explicitly never met or spoke to her. He can discuss alternatives, stay near Kikuchi and read with her, but cannot certify which invented line or omission the dead subject would prefer. When Kikuchi enters calf-deep water, he fears her departure and takes her wrist; she grips his clothes and returns with him. These acts establish distress and physical action, without stating a suicide intention for Kikuchi or supplying Nagisa's unknown intention. [TF-V12-E07]
+
+The couple reads the loaned English manuscript through smartphone translation; unmediated English fluency is not established. The visible draft changes believing, telling, recording and wishing before circling praying. Those documentary marks are direct. The account of Andy's inward journey remains the couple's reconstruction. Fumiya is therefore a participant in understanding a limit, not the authority who dissolves it. Observation constrains the remaining wish but cannot make the wish unnecessary. Kikuchi must decide what she wants to offer and bear responsibility for that decision.
+
+This develops the accepted distinction between receiving a method and owning an end. It also remains ethically incomplete. Naming the ending a prayer does not automatically make every fictionalization permissible; the subject's unavailable answer and the handling of living people's disclosures remain relevant. The later reader's response can be real without retroactively authorizing every prior act.
+
+### 16.9 Hinami: an encounter after a reading he did not witness
+
+Haruka's message enables the search and Fumiya finds Aoi. He is not a witness to her entire preceding private chapter. Her slight self-liking is received in the later encounter; the reader's access to the room/scroll trigger, private accusations, literary identification and imagined address does not become an exhaustive disclosure to him. The earlier spoken overlap includes the V10 ride, while V11's mixed retrospective access still must not be flattened into a heard transcript. The dated [current claim-owner erratum §20](../../03%20Longitudinal%20Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md) qualifies DR12's two V11-only labels; its frozen wording is not silently rewritten. [TF-V12-E08]
+
+His joking offer to replace Nagisa is immediately withdrawn. It creates neither a substitute-sister role nor a romantic commitment. The earlier failed guarantee cannot simply be repaired by placing him in a different vacancy. Her self-liking may be temporary, and his promise is narrated with unfounded confidence. There is chosen attachment without a new empirical proof of permanent recovery.
+
+The present shift is consequently narrower and more interesting than a successful savior's certification. He can affirm the life he wants and remain in relation with someone whose whole history and future he cannot command. This is supported as a local interpretation; a later equivalent threat to unique usefulness is not supplied. His care and her renewed participation cannot be turned into a permanent right to manage refusal, school attendance or disclosure.
+
+### 16.10 An audience-facing end with a cost still visible
+
+Kikuchi asks what he wants to show through professional play. The question moves beyond selecting the right goal label toward the kind of experience he wants an audience to receive. His eventual answer concerns making the pleasure of living and playing visible to friends, supporters and Hinami. This is an owned expressive purpose, not a completed business model. The promotional obligation, income, route through education and family, and professional stopping conditions remain open. [TF-V12-E09]
+
+The school event gives that purpose a compromised setting. He and Mimimi have left practical preparation untouched while absorbed in the novel. A monitor/projector fallback does not complete a program. Ashigaru's performance carries the underprepared event. Fumiya's wish to help has displaced an obligation onto another participant; the story's benefit does not pay that cost automatically. The scene establishes actual neglected work without proving when Ashigaru prepared his talk or quantifying an economic loss.
+
+Hinami's uniformed audience presence, ordinary banter and acceptance of a stage match are genuine new participation. Full attendance, presidency, coaching, durable trust and comprehensive repair remain unshown. Fumiya infers that performing no longer feels wrong to her; the polished entrance is observed, the universal interior conclusion is not. Yuzu's words are unheard beneath Takei; Aoi's quiet remark is lip-read. Even the affirmative scene preserves differentiated routes of access.
+
+Both select Found, but the match and result are unnarrated. Fumiya's final valuation of life as a god-tier game belongs to the narrator who has learned to want this particular life. It is not a factual guarantee of fairness, necessary suffering or viable professional success. The series can end with a reason to play rather than a result that licenses the reason.
+
+### 16.11 Current state, counterevidence and transfer limits
+
+| Dimension | Current V12 disposition | Surviving limit or counterevidence |
+|---|---|---|
+| Competence | Retained elite play, practical initiative, observation and collaborative contribution | not a permanent best character, infallible motive reader or complete professional |
+| Confidence/self-concept | Can own an affirmative purpose without a narrated final victory | durability under another unique-usefulness threat untested |
+| Relationship standing | Receives partner care, acknowledges a best friend and participates in a wider network | no blanket information waiver, limitless helper capacity or uniform disclosure |
+| Agency | Revises a refused invitation, contributes to a stopped/revised method and offers his own desire | unauthorized costume access and neglected event work prevent a completed-consent reading |
+| Hinami relation | Actual later encounter and local shared public play replace merely proposed contact | no exhaustive private knowledge, substitute Nagisa, standing rescue authority or permanent recovery guarantee |
+| Ordinary life | Family logistics, joking, descriptive play, food and particular affection remain consequential | no invented lifelong favorites, sexual event, household policy or private chronology |
+| Vocation | Audience-facing expressive end becomes clearer | career viability, promotion result, income, education/family settlement and final match remain OPEN |
+
+The V12 evidence rejects both total moral completion and a claim that nothing changed. It also rejects a replacement of the actual learner with an exclusively manipulative rescuer. He can accept a refusal and later negotiate a changed request; he can also intrude where competence tempts him. He can learn that another person's words reach where his argument fails; he can still project godlike authority onto a writer. These are strengths and failures generated by the same developing person.
+
+Supported scenario domains remain era-specific learning, familiar-peer collaboration, competition, bounded relationship repair and ordinary company. V12 adds examples of accepting recipient correction, particularized affection and an audience purpose after defeat. It does not justify predicting crisis treatment, Nagisa's wishes, legal permissions, adult married life or a universal decision rule. Earlier §13 probes remain retrospective literary tests at their declared V11 horizon; this update is not a blind trial or a released derived model.
+
+### 16.12 Additive evidence routes and downstream responsibilities
+
+**DR12** is the [V12 deep reading](../../02%20Sequential%20Readings/TOMOZAKI_V12_DEEP_READING.md). **REL** means the original key's **RS**, the [relationship owner](../../03%20Longitudinal%20Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md); **SOC** means its **SA**, the [social owner](../../03%20Longitudinal%20Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md). The selected V12 archive is 10,165,455 bytes, SHA-256 `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c`. P counts every HTML paragraph, including empty/image paragraphs, one-based and reset per exact member, before ruby display. The [completion audit](../../08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md) owns the original full 42-spine/26-image receipt. That completed source consultation is inherited here; focused later reviews do not claim another complete novel or pixel inspection. Source ruby remains a distinct base/reading layer, and helper brackets are not literal source typography.
+
+The TF-V12-E handles below are local additions. TF-E00–05, TF-E07–27 and TF-P01–03 retain their accepted identities and inspected horizons; frozen claim registers are not renumbered. Full V12 primary consultation belongs to the source-transaction receipt. Any later focused return must record its actual window and must not claim a new whole-volume read.
+
+<a id="tf-v12-e01"></a>
+**TF-V12-E01 — Precision without motive access.** V12 `item/xhtml/p-0011.xhtml` P3–25; DR12 §3.2, V12-C01, current CS §19 and claim owner. Thirty-one input-empty frames are a record, not the cause of waiting; later cursor pause is separate.
+
+<a id="tf-v12-e02"></a>
+**TF-V12-E02 — Partner care and cost.** V12 `item/xhtml/p-0011.xhtml` P46–113; DR12 §3.2, V12-C02; CS-TOM, REL §17.1 and current effort. Particular warning, comfort and owned wish; no permanent allocation agreement.
+
+<a id="tf-v12-e03"></a>
+**TF-V12-E03 — Learned form and friendship.** V12 `item/xhtml/p-0011.xhtml` P331–504; DR12 §3.2, V12-C04/C05; CS-MIZ and REL-C03/C09/C16. One instrumental motive, recipient-specific disclosure and awkward reciprocity; no total insincerity or blanket privacy waiver.
+
+<a id="tf-v12-e04"></a>
+**TF-V12-E04 — Actual collaboration and a halted answer.** V12 `item/xhtml/p-0011.xhtml` P233–278/P511–543; `item/xhtml/p-0013.xhtml` P26–169/P206–487. DR12 §3.3, V12-C03/C06/C07/C08, current CRI-MIM and REL-C12. Separate author's circulation permission, contributors' participation, role-play pressure and modeled recipient's agency. Mimimi's next-Tama question is conditional; Fumiya's imagined replacement future is his inference.
+
+<a id="tf-v12-e05"></a>
+**TF-V12-E05 — Changed request and particular affection.** V12 `item/xhtml/p-0013.xhtml` P502–591; `item/xhtml/p-0014.xhtml` P146–326/P417–425; `item/xhtml/p-0016.xhtml` P35–190. DR12 §3.4 and current couple owner. Initial solo refusal, changed own-wish invitation, acceptance and local reciprocity; no retrospective permission or implied sexual event.
+
+<a id="tf-v12-e06"></a>
+**TF-V12-E06 — Craft, access and limited correction.** V12 `item/xhtml/p-0014.xhtml` P30–152; `item/xhtml/p-0016.xhtml` P1–30/P305–497/P649–857/P861–1129. DR12 §3.4 and current CS/SOC island responsibilities. Tama's chosen costly craft; Mitsu's recipient-specific refusal, unauthorized costume access, expert-limited acceptance and bounded archive access. No culprit, diagnosis or total authorial knowledge.
+
+<a id="tf-v12-e07"></a>
+**TF-V12-E07 — Unavailable subject and owned prayer.** V12 `item/xhtml/p-0020.xhtml` P1–66; `item/xhtml/p-0021.xhtml` P11–192/P209–433. DR12 §3.5, current authorship/knowledge claims. Documentary verbs and actual loan/return separate from couple's motive reconstruction; Fumiya never met Nagisa. No clinical intent, posthumous testimony or publication permission.
+
+<a id="tf-v12-e08"></a>
+**TF-V12-E08 — Later encounter, bounded knowledge.** V12 `item/xhtml/p-0024.xhtml` P9–12; `item/xhtml/p-0026.xhtml` P15–96, read alongside private `item/xhtml/p-0022.xhtml` P825–841. DR12 §§3.6–3.7 with dated current erratum for V10 spoken overlap; earlier exact V10 `text/part0024.html` P126–178 and `text/part0026.html` P1–42. Preserve mixed V11 focalization and no exhaustive later disclosure. Slight self-liking and withdrawn substitute-Nagisa joke are local acts, not permanent recovery.
+
+<a id="tf-v12-e09"></a>
+**TF-V12-E09 — Expressive purpose, neglected work and unnarrated result.** V12 `item/xhtml/p-0026.xhtml` P106–284; DR12 §3.7, V12-C35–40, current effort/social/relationship owners. Particular author-reader purpose, actual preparation failure, professional repair, uniformed local return and both Found selections. No final match result, career economics, comprehensive consent settlement or guaranteed life verdict.
+
+The three mandatory dyads must preserve directional agency and third-party costs, rather than treating the other person's action as Fumiya's reward. The ensemble must preserve ordinary helpers and displaced work; the game/effort specialists must distinguish expressive purpose from professional viability; the authorship/meaning specialists must keep offered prayer separate from recovered testimony. Final synthesis receives these arguments only after cross-specialist reconciliation. Literary release, derived reconstruction and formal terminal closure remain separately unpassed.
