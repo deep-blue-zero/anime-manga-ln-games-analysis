@@ -610,3 +610,10 @@ No new model,rule,input or first body is created. Observed ordinary animal respo
 One Duke rule froze before exact inputs. Four actual immutable original English firsts/two dependent pairs preceded feedback. DK-A1 shelving taunt is absent the prompt and retained;pairA is not strict fully bound-body. PairB bodies respect current constraints but generic goal persistence/source cueing remain. Body compliance and mechanism isolation differ;no clean cause isolation,regeneration,independent accuracy,grade,confidence gain or final-battery credit.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+C38 disposition is one Tier2 monograph,two Tier1 profiles and four Tier0 role indexes. Clothing presentation,practical costume use,military utility,status,irritation and retaliation remain confounded;accurate retreats and reported takeover resist a padded brute-force rule. No new model,rule,exact input or diagnostic first was authored. Existing56 models and all earlier original first bodies remain exact. No independent accuracy,grade,confidence gain,Japanese/acoustic certification or final-battery credit follows.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
