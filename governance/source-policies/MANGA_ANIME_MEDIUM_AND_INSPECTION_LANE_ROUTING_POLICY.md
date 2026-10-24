@@ -67,7 +67,7 @@ execution_profile:
 
 ### 2.1 What "continuous" means here
 
-`CONTINUOUS_AV` means the model perceives video and audio together on one timeline. It does not guarantee frame-complete vision. Some AV-capable models ingest video at a reduced sampling rate (on some surfaces, around one frame per second by default) while hearing the audio continuously. Record the effective visual sampling rate when it is known, and bound motion, editing, and timing claims by it. A claim about an event shorter than the sampling interval needs a measurement, a higher-rate inspection, or a targeted clip.
+`CONTINUOUS_AV` means the model perceives video and audio together on one timeline. It does not guarantee frame-complete vision. Some AV-capable models ingest video at a reduced sampling rate (on some surfaces, around one frame per second by default) while hearing the audio continuously. Record the effective visual sampling rate when it is known, or `UNKNOWN`, and bound motion, editing, and timing claims by it. A claim about an event shorter than the sampling interval needs a measurement, a higher-rate inspection, or a targeted clip. Holding `CONTINUOUS_AV` capability is therefore necessary but not sufficient for a fine-grained visual or synchronization claim (generic continuous-AV method, Sections 5–6).
 
 Opening a video with ffmpeg, extracting frames, or running an ASR model is not `CONTINUOUS_AV` (topology Section 6).
 
