@@ -1378,3 +1378,10 @@ The seller’s reported heroic-recognition and caretaker framing has a real reso
 Duke military warning precedes Wiz protective escalation. MAIN15attributes receipt but says Axel was already targeted;Duke is not sole cause. Surrender,renewed ritual,purification and later survival appeal are separate changes. Plant burning is attempted and stopped;food appraisal causes fear without eating. Merchant payment is real,and requesting refund does not fix Megumin paralysis or supply seller acceptance.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+Perie reported live-capture order precedes her own proposal to kill princess and witnesses. Later immediate retaliation against Dust coexists with intended later attack on Rionor;Dust stays because of that future threat. Actual spear placement and collision yield severe aftermath without an independent final-death check. DUST07wing comparison recalls Perie rather than returning her. The guild force and exposure attempt remain real within comedy;later drinking or enemy status does not retroactively authorize either.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

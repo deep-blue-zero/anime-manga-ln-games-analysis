@@ -2064,3 +2064,10 @@ Dragon grandeur is repeatedly set against chick/rooster behavior,staged training
 The courtship/work confusion depends on referent and access rather than fabricated original love. Aqua successful-looking seduction is paid drink/trivia/hostility rapport. Actual lich upgrade immediately worsens Duke matchup. Plant innocence-like response and food-threat fear are literal within the fantasy scene;comedy supplies no reset,eaten plant or harmlessness exemption.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+Fashion criticism draws anger and later narrated discouragement;redness alone does not establish embarrassment about the dress. Mission monologues are repeatedly interrupted,including actual paralysis and forced drinking. Later participation does not authorize the earlier coercion. Perie blame of her superior is punctured by her own reported assignment takeover. Comedy supplies no consent,completed sexual act,harmlessness exemption or automatic reset after the severe combat outcome.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

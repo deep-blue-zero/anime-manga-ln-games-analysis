@@ -1455,3 +1455,10 @@ Zel’s actual approach to Vanir,curling sleep and proximity to Chomusuke suppor
 Duke alone drinking and actual paid drinks coexist with ambition;gambling/trivia settlement is Aqua report. Garden watering,grasp,smiles and private reply retain dependent own agency without invented inner plan. Seller stock,terms,sale interest and cash transfer are finite;return request has no printed acceptance. No whole lifestyle or durable sales policy is supplied.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+Perie explicitly likes the dress;doubt about taste,anger and narrated discouragement do not license a private embarrassment motive. Returning with a jacket is actual,but its cause is Rionor/Dust explanation. Guild patrons force alcohol before her later barrel demand/shared drinking;reported Cure and quoted rebuke remain reported. Waitress recommends a large popular meal/dessert and acknowledges price before actual plate service;no printed payment,commission motive or independently verified popularity is added.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

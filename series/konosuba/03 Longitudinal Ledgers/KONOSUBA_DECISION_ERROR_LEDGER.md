@@ -2038,3 +2038,10 @@ Aqua’s dragon expectations,interpreted clucks and military forecasts remain he
 Quoted military-job challenge differs from Kazuma paraphrase and Wiz inserted household interpretation. Duke later reads Kazuma as strategist from acquired information and misunderstood apparent support. Plant rude reply is real within narration;Kazuma innate-evil conclusion and burning attempt have different warrants. Proposed Shiro name is untagged/uncompleted. Reported merchant roles retain unresolved joins.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+Perie first infers negotiating pressure will protect the army,then accepts Dust deliberately false low-hostage-value account and proposes killing princess and witnesses despite the reported live-capture order. Her claim that superior personnel selection caused the problem meets her later admission of taking the mission by force. Reported superior praise and executive candidacy are not an observed promotion. The gate guard mistaken identity and narrator explanation do not establish universal stupidity or hidden plot knowledge.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

@@ -1908,3 +1908,10 @@ Zel’s own resistance,approach,quiet holding,pecks,sleeping proximity and crowi
 Duke earns a monograph and one provisional status/affiliation rule:the weak/interfering person,credited Vanir connection and retained military challenge change treatment. The distinct DUST05 Small encounter adds an explicit restraint rationale. Garden individual and magic seller receive compact profiles with their own responses/terms;no caretaker projection or ordinary sales role is padded into another model.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+Perie earns a twelve-dimension monograph from her own dress preference,criticism responses,changing mission understanding,assignment responsibility and actual fighting. The guild waitress and mansion gate guard earn bounded profiles. Four reported or unresolved roles append as indexes. One existing row changes;341 others remain exact in each plane. No new behavioral model is earned by the evidence presently available.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
