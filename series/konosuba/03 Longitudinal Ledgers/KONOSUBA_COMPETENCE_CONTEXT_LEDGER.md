@@ -1515,3 +1515,10 @@ Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Inde
 Beldia survives painful purification while questioning Aqua’s apparent beginner status; partial resistance is neither a failed cast nor holy invulnerability. Water, head theft, armor break and purification interact. Hans is actually frozen, then sacrifices/regrows material and uses fragments; enlargement changes the resource problem. Final distributed cleanup is reported after Kazuma’s blackout. Serena’s real healing and control coexist with local failures, finite allocation and retained reflection at level 1. Aqua’s actual failed TurnUndead on later-admitted puppets is preserved without a general anti-undead ranking. The distinct commander survives Leen’s Fireball but is hurt by Feit’s fire; the different conditions do not yield a universal threshold. Capacity, access, willingness and ethical permission remain separate (BE27-02–04; HA27-02–07; SE27-01–09, 13; DU27-02–03).
 
 Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Alderp's rank, money and artifact access have actual defeats; delegated influence is not his omnipotent direct power. Maxwell states location/seal/church/light limits without performed failed retrieval casts. Ragcraft can administer, disguise and confine but misidentifies, overdiscloses and loses captives; his career is an attributed account. Ignis allocates work and physically anchors with short wire/strain, while illness and distraction remain. Balter wins technically before voluntarily ceasing blows. No capacity stipulation in the exercises earns behavioral-success credit.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.

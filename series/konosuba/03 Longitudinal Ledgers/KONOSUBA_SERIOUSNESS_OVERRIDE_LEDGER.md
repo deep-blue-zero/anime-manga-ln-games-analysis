@@ -1308,3 +1308,10 @@ Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Inde
 Beldia actually kills three men and Aqua actually revives them; recovery is not absence of lethal harm. Hans’s poisoning and admitted manager consumption remain serious despite tactical comedy. Serena’s Death kills Kazuma; revival does not excuse it. Her crimes do not eliminate her own objections to unwanted contact or the Axis threats. Threatened sexual violence is not a shown completed rape, and forced conversion is not voluntary repentance. Police pressure and false accusations are attributed to the relevant actor rather than canceling one another. Useful combat, apology, payment, release and celebration are not automatically completed repair (BE27-03–05; HA27-03–08; SE27-03–09, 13; AO27; LO27; DU27).
 
 Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Darkness's self-sacrificial marriage and earlier fantasies do not provide free consent to Alderp. Morning registration is Aqua's report; interrupted ceremony is not certain absence of every legal marriage. Maxwell's preservation promise serves continued torment, not care. Ragcraft's disguise is not Megumin's sexual conduct. K's heard scream does not establish completed assault by the young noble. Aulip's threatened execution/magic differs from watched injury; retainer owns the monetary offer. Actual death/revival in Ignis's operation remains harm despite narrative discount. Comic and serious transfer preserve these planes.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.

@@ -1160,3 +1160,10 @@ Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Inde
 Beldia, Hans and Serena earn scoped Tier 3 monographs and distinct provisional generators with 3/3/4 eight-field candidates. Aloerina, Lolierina and the distinct DUST07 commander receive Tier 2 monographs because their dense contexts support individual interpretation while wider mechanisms remain underidentified. Sedol, Hains and Garil receive separate Tier 1 profiles in the maintained coverage audit. Candidate totals are 37 models, 31 scoped secondary model subjects, 36 bounded profiles, 13 monograph-only subjects and 236 nonfinal records. Four entering rows change, 227 others remain exact, and five new source-bound records do not establish a final global person denominator. No author capability grade or mature final model promotion follows.
 
 Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Alderp, Maxwell, Ragcraft and Ignis receive distinct scoped Tier 3 monographs and separate provisional three-rule generators. Aulip, Balter, Hagen, unnamed Dustiness wedding guard, Elroad prosecutor and Elroad casino manager receive twelve-dimension Tier 2 monographs without models. Ten Tier 1 profiles and fifteen Tier 0 indexes remain in the coverage audit. Candidate totals: 41 models/35 scoped secondary model subjects, 46 profiles, 19 monograph-only subjects, 264 nonfinal records. Seven entering rows change; 229 others exact; 28 new records include role/group/report entries, not 28 proved new people. First-response limitations and open final batteries prevent any mature capability claim.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.

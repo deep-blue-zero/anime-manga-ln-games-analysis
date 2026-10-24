@@ -1431,3 +1431,10 @@ Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Inde
 Kazuma’s credit claims and retrospective power summaries are not neutral measurements. Beldia’s own P67 appraisal and P70 investigation account are distinguished from Aqua’s concern about nonpurging magic and later Mitsurugi’s report. Hans’s reduced reasoning is Kazuma’s conjecture; manager consumption is admitted, and exhaustive cleanup follows a blackout report. Serena’s diary includes represented fiction rather than performed sexual acts. Rain’s delivery/exit is reported by the officer, while guarantee-backed release is actual. Later at-large Serena confirms freedom but not every guard account. New record count is not a final person denominator (BE27-02, 11, 14; HA27-05–08; SE27-06, 09–13; AO27-03).
 
 Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+K's earlier expectations are fallible: the supposed Leen courtship concerns Dust by later dialogue/Leen report; Alderp's abandoned fixation is not established by temporary quiet; a thought about memory-erasure lore is not a native kill-condition assay. K's claim only the prince/chancellor lose money omits actual casino-worker distress. He does not watch Ragcraft's complete final fight. His paternal-intelligence reading and feared execution are inferences, not Ignis's unspoken verdict. In MAIN07 C5 P522 K supplies the pursuit-abandonment voice; Alderp contradicts it P526.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.

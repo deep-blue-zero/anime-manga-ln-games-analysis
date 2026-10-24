@@ -1968,3 +1968,10 @@ Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Inde
 Beldia updates martial appraisal but loses disrupted preparations and later head control. Hans misreads an apparent voyeur as inattentive and appeals to a noninterference agreement whose civilian exception defeats his protection; the source does not prove he never knew that exception. His successful fragment also surprises him. Serena mistakes Kazuma’s religious assumptions, overconcentrates resources and fails to elicit a valued debt from Dust. Lolierina asks useful follow-ups and corrects judgments while relying too heavily on suspect reputation, alibi gaps and a limited truth-device result. The commander recognizes unexpected strength but still faces ambition and an unfamiliar partner attack. None of these choices is rewritten as secretly optimal (BE27-01–09; HA27-01, 03–06; SE27-05–07, 15; LO27-03–07; DU27-01–03).
 
 Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+AL28-09: Alderp treats a knock as delivered Darkness despite Maxwell saying nothing has been done, then releases the contract. RG28-08: Zesta's quiet bluff admission is outside Ragcraft's hearing; the inferred exposure is mistaken. BA28-02: Balter's wager interpretation conflicts with K's actual fear; false pregnancy is not true. EP28: prosecutor's device-fault assumption conflicts with the watchman's check. IG28 includes false pregnancy belief, parental distraction and surprise. Maxwell's apparent mutual-love interpretation preserves the recipient's nonconsent. Exercise MX-H02-B misreads strike as kill; IG-H02-B invents an undisputed portion. Originals remain unrepaired.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.

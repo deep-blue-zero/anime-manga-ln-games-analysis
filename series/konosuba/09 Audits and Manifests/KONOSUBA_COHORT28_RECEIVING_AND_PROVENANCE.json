@@ -1,0 +1,805 @@
+{
+  "schema": "konosuba.cohort28.receiving-and-provenance.v1",
+  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "received_utc": "2026-10-24T02:34:13.712112+00:00",
+  "previous_published_source": "b7a698ec8b8567012eab945d5c96756e27c67f99",
+  "main_at_receiving": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
+  "semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+  "foundation_seal_sha256": "b27fcc9b148355e223e6e3d68d776713f33f86f8a32f2246eb25ab71f6e67d33",
+  "foundation_review_sha256": "6d48dbda3d98556bb37a5599924d73a1bc8826c5f3ccae1e17929509ea5ccde5",
+  "exact_input_freeze_sha256": "5facf45a31ab075ef7d4c9f1a6ec166f991e247cf26d98a4d09a4dcdc6e5d7bf",
+  "body_freeze_sha256": "99c57c0f51bcd1df5f3b6ac67f1670dd62cf949ce9d7ba43fac5c558c4dc6de0",
+  "all32_frozen_private_artifact_pins": [
+    {
+      "file": "ALDERP_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 11219,
+      "sha256": "db641603f13fa72bad1647dfbe97348a9dabc6fb9cb95f33a7895bedec96db8a"
+    },
+    {
+      "file": "AULIP_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 5268,
+      "sha256": "2fea6908b432f5adf7aaa1b608588660f511e9df2268387485a8aeccb607628a"
+    },
+    {
+      "file": "BALTER_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 5288,
+      "sha256": "08120f8fd479568d56eeaa293f29b6a9c2183d22a3cd57fbf87061f6a4610064"
+    },
+    {
+      "file": "DUSTINESS_WEDDING_GUARD_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 4953,
+      "sha256": "3cdfd299c35ea44a0288aaa38b71ac72e30c8ffa28c7d2f04667787d578ff996"
+    },
+    {
+      "file": "ELROAD_CASINO_MANAGER_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 4935,
+      "sha256": "2d47b05cb8e1f8b657a153ac83b9ef98aba295d9151750950e0d575c033ca652"
+    },
+    {
+      "file": "ELROAD_PROSECUTOR_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 4800,
+      "sha256": "50eaba3dd2328ba44ad87bb95ea688a43f09cd019cfb795101ad6fc7fa8f90d5"
+    },
+    {
+      "file": "HAGEN_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 5193,
+      "sha256": "6ac26190739503afb771f857ff261d52b50d219a3fb5c8fc00c2fe8c3a65f654"
+    },
+    {
+      "file": "IGNIS_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 10589,
+      "sha256": "e31e71b219145bba311155aecdf1a71735231cad11a96f8611f8978292454719"
+    },
+    {
+      "file": "MAXWELL_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 9876,
+      "sha256": "56090b5b4dcad6661b5d7d9a045fbfa49b4f7c6ebdd320514d601577e57c7ea3"
+    },
+    {
+      "file": "RAGCRAFT_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 10828,
+      "sha256": "3104ba6af7cfe32970137e869ee60b7cab9a751a0cd1549c3e3d9073f899195d"
+    },
+    {
+      "file": "ALDERP_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "bytes": 10210,
+      "sha256": "9b5cd6ed1b1786373610bdcfc580bd1fd6d70624d37dc0b7cf310574005f7fe0"
+    },
+    {
+      "file": "IGNIS_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "bytes": 9624,
+      "sha256": "f5b5eae75697f2abe09a82c69d80c2ca3f69bff013e421077fcc39f33849704b"
+    },
+    {
+      "file": "MAXWELL_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "bytes": 9291,
+      "sha256": "ddc48bc6d22ee0d74f3e46c240bee5fb9acdfd15990b4aef22b37d7cfeb3efda"
+    },
+    {
+      "file": "RAGCRAFT_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "bytes": 9420,
+      "sha256": "7a2ce6b43b6cd16a695ceeb762aecb3faaa2852bc98b08c958833c0e9f7a6ca8"
+    },
+    {
+      "file": "COHORT28_EVIDENCE_INDEX_DRAFT_01.md",
+      "bytes": 20942,
+      "sha256": "85c76276d8f3f1397eb9f16b2e49f490ed99f47b45385fc503fd56f5d944ba83"
+    },
+    {
+      "file": "COHORT28_COMPACT_PROFILES_DRAFT_01.md",
+      "bytes": 10053,
+      "sha256": "f4c530cd79d20a6ac500930a37220c893b18f249f551f3dad5f0449a1b278e15"
+    },
+    {
+      "file": "COHORT28_NATIVE_PROVENANCE_DRAFT_01.json",
+      "bytes": 149033,
+      "sha256": "f94ad2c475f4ec4a490595846633862f1b8093d6d1ea2f9890145140fdf002dd"
+    },
+    {
+      "file": "COHORT28_NAME_REFERENCE_CHECK_DRAFT_01.json",
+      "bytes": 1467,
+      "sha256": "dff230d305915989d703bb855053566e3408efc84ee87179fce26bc38b942ccb"
+    },
+    {
+      "file": "COHORT28_NEW_DISCOVERY_RECORDS_DRAFT_01.json",
+      "bytes": 10113,
+      "sha256": "c7767c1a942cf07a264b82b9bca8e21d2d906d9ff6a6b0f0e93764ae59cec58b"
+    },
+    {
+      "file": "COHORT28_SCOPE_ASSESSMENT_DRAFT_01.json",
+      "bytes": 10059,
+      "sha256": "c844a8142c350f017226b049dfb5d70eb49dbdc0d104d18106c69a78fb3c122b"
+    },
+    {
+      "file": "ALDERP_SCENARIO_INPUTS_01.json",
+      "bytes": 12076,
+      "sha256": "dcd6fb1b9280efff24aaa6f0f4c3a26621df30eb9e030acddceb3999b21e42ce"
+    },
+    {
+      "file": "MAXWELL_SCENARIO_INPUTS_01.json",
+      "bytes": 11676,
+      "sha256": "918a6de880cc8017ba91c85152885fa0083a37f26fee65b7fd2fedcc3f5d68d0"
+    },
+    {
+      "file": "RAGCRAFT_SCENARIO_INPUTS_01.json",
+      "bytes": 11924,
+      "sha256": "0e70a1d773ad85457af8268305b543eb6d96f8105cda688bcf06f7d951c11a92"
+    },
+    {
+      "file": "IGNIS_SCENARIO_INPUTS_01.json",
+      "bytes": 11777,
+      "sha256": "1e1cee7063e6fb8d4736c685da7c41dca227ea032bbcdfe89d4077ddc3a747cb"
+    },
+    {
+      "file": "ALDERP_FIRST_OUTPUTS_01.json",
+      "bytes": 11154,
+      "sha256": "a095931bdab0d0946cd9c7c2b73d6bbb4e7a57ee1fa90e2389e4756ff401627b"
+    },
+    {
+      "file": "ALDERP_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 8587,
+      "sha256": "8fe160951921b921f2fe33ab945e06fe160de6759463a080dc49797ec45eb2d9"
+    },
+    {
+      "file": "MAXWELL_FIRST_OUTPUTS_01.json",
+      "bytes": 10946,
+      "sha256": "44638171348d7f6b33162f50d68033d3ac1dc43acebd6ec36c8af4c70496b30f"
+    },
+    {
+      "file": "MAXWELL_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 8782,
+      "sha256": "7ddf5229fecd1e07135aa6922e21ae9537f296824b8b9690885baedf7bf61c3c"
+    },
+    {
+      "file": "RAGCRAFT_FIRST_OUTPUTS_01.json",
+      "bytes": 11295,
+      "sha256": "4aeb4abc2ac1481fbcc7a0d5fac29bd6a497509121730253045f4f2df8fc25ab"
+    },
+    {
+      "file": "RAGCRAFT_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 8480,
+      "sha256": "ead320ff1cbd2a494e4d22712f2e82e235ba56a00e7069053798e1d361c0508c"
+    },
+    {
+      "file": "IGNIS_FIRST_OUTPUTS_01.json",
+      "bytes": 11136,
+      "sha256": "26dffc597aeea5444fd36595cd6d9c304567d8b99ee5a5a471b268158a9d2241"
+    },
+    {
+      "file": "IGNIS_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 8758,
+      "sha256": "7c500b82b5ace68a72b403c0d0a1caa779a9023985aa5148acaf4fa488c443dd"
+    }
+  ],
+  "core_artifact_pins": [
+    {
+      "private_file": "ALDERP_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ALDERP_CHARACTER_MONOGRAPH.md",
+      "bytes": 11219,
+      "sha256": "db641603f13fa72bad1647dfbe97348a9dabc6fb9cb95f33a7895bedec96db8a"
+    },
+    {
+      "private_file": "AULIP_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_AULIP_CHARACTER_MONOGRAPH.md",
+      "bytes": 5268,
+      "sha256": "2fea6908b432f5adf7aaa1b608588660f511e9df2268387485a8aeccb607628a"
+    },
+    {
+      "private_file": "BALTER_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_BALTER_CHARACTER_MONOGRAPH.md",
+      "bytes": 5288,
+      "sha256": "08120f8fd479568d56eeaa293f29b6a9c2183d22a3cd57fbf87061f6a4610064"
+    },
+    {
+      "private_file": "DUSTINESS_WEDDING_GUARD_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUSTINESS_WEDDING_GUARD_CHARACTER_MONOGRAPH.md",
+      "bytes": 4953,
+      "sha256": "3cdfd299c35ea44a0288aaa38b71ac72e30c8ffa28c7d2f04667787d578ff996"
+    },
+    {
+      "private_file": "ELROAD_CASINO_MANAGER_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ELROAD_CASINO_MANAGER_CHARACTER_MONOGRAPH.md",
+      "bytes": 4935,
+      "sha256": "2d47b05cb8e1f8b657a153ac83b9ef98aba295d9151750950e0d575c033ca652"
+    },
+    {
+      "private_file": "ELROAD_PROSECUTOR_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ELROAD_PROSECUTOR_CHARACTER_MONOGRAPH.md",
+      "bytes": 4800,
+      "sha256": "50eaba3dd2328ba44ad87bb95ea688a43f09cd019cfb795101ad6fc7fa8f90d5"
+    },
+    {
+      "private_file": "HAGEN_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_HAGEN_CHARACTER_MONOGRAPH.md",
+      "bytes": 5193,
+      "sha256": "6ac26190739503afb771f857ff261d52b50d219a3fb5c8fc00c2fe8c3a65f654"
+    },
+    {
+      "private_file": "IGNIS_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_IGNIS_CHARACTER_MONOGRAPH.md",
+      "bytes": 10589,
+      "sha256": "e31e71b219145bba311155aecdf1a71735231cad11a96f8611f8978292454719"
+    },
+    {
+      "private_file": "MAXWELL_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MAXWELL_CHARACTER_MONOGRAPH.md",
+      "bytes": 9876,
+      "sha256": "56090b5b4dcad6661b5d7d9a045fbfa49b4f7c6ebdd320514d601577e57c7ea3"
+    },
+    {
+      "private_file": "RAGCRAFT_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_RAGCRAFT_CHARACTER_MONOGRAPH.md",
+      "bytes": 10828,
+      "sha256": "3104ba6af7cfe32970137e869ee60b7cab9a751a0cd1549c3e3d9073f899195d"
+    },
+    {
+      "private_file": "ALDERP_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ALDERP_RECONSTRUCTION_MODEL.md",
+      "bytes": 10210,
+      "sha256": "9b5cd6ed1b1786373610bdcfc580bd1fd6d70624d37dc0b7cf310574005f7fe0"
+    },
+    {
+      "private_file": "IGNIS_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IGNIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 9624,
+      "sha256": "f5b5eae75697f2abe09a82c69d80c2ca3f69bff013e421077fcc39f33849704b"
+    },
+    {
+      "private_file": "MAXWELL_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MAXWELL_RECONSTRUCTION_MODEL.md",
+      "bytes": 9291,
+      "sha256": "ddc48bc6d22ee0d74f3e46c240bee5fb9acdfd15990b4aef22b37d7cfeb3efda"
+    },
+    {
+      "private_file": "RAGCRAFT_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_RAGCRAFT_RECONSTRUCTION_MODEL.md",
+      "bytes": 9420,
+      "sha256": "7a2ce6b43b6cd16a695ceeb762aecb3faaa2852bc98b08c958833c0e9f7a6ca8"
+    },
+    {
+      "private_file": "COHORT28_EVIDENCE_INDEX_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
+      "bytes": 20942,
+      "sha256": "85c76276d8f3f1397eb9f16b2e49f490ed99f47b45385fc503fd56f5d944ba83"
+    },
+    {
+      "private_file": "COHORT28_NATIVE_PROVENANCE_DRAFT_01.json",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json",
+      "bytes": 149033,
+      "sha256": "f94ad2c475f4ec4a490595846633862f1b8093d6d1ea2f9890145140fdf002dd"
+    },
+    {
+      "private_file": "ALDERP_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/ALDERP_EXPANDED_V1_EVIDENCE/ALDERP_SCENARIO_INPUTS_01.json",
+      "bytes": 12076,
+      "sha256": "dcd6fb1b9280efff24aaa6f0f4c3a26621df30eb9e030acddceb3999b21e42ce"
+    },
+    {
+      "private_file": "ALDERP_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/ALDERP_EXPANDED_V1_EVIDENCE/ALDERP_FIRST_OUTPUTS_01.json",
+      "bytes": 11154,
+      "sha256": "a095931bdab0d0946cd9c7c2b73d6bbb4e7a57ee1fa90e2389e4756ff401627b"
+    },
+    {
+      "private_file": "ALDERP_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/ALDERP_EXPANDED_V1_EVIDENCE/ALDERP_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 8587,
+      "sha256": "8fe160951921b921f2fe33ab945e06fe160de6759463a080dc49797ec45eb2d9"
+    },
+    {
+      "private_file": "MAXWELL_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/MAXWELL_EXPANDED_V1_EVIDENCE/MAXWELL_SCENARIO_INPUTS_01.json",
+      "bytes": 11676,
+      "sha256": "918a6de880cc8017ba91c85152885fa0083a37f26fee65b7fd2fedcc3f5d68d0"
+    },
+    {
+      "private_file": "MAXWELL_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/MAXWELL_EXPANDED_V1_EVIDENCE/MAXWELL_FIRST_OUTPUTS_01.json",
+      "bytes": 10946,
+      "sha256": "44638171348d7f6b33162f50d68033d3ac1dc43acebd6ec36c8af4c70496b30f"
+    },
+    {
+      "private_file": "MAXWELL_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/MAXWELL_EXPANDED_V1_EVIDENCE/MAXWELL_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 8782,
+      "sha256": "7ddf5229fecd1e07135aa6922e21ae9537f296824b8b9690885baedf7bf61c3c"
+    },
+    {
+      "private_file": "RAGCRAFT_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/RAGCRAFT_EXPANDED_V1_EVIDENCE/RAGCRAFT_SCENARIO_INPUTS_01.json",
+      "bytes": 11924,
+      "sha256": "0e70a1d773ad85457af8268305b543eb6d96f8105cda688bcf06f7d951c11a92"
+    },
+    {
+      "private_file": "RAGCRAFT_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/RAGCRAFT_EXPANDED_V1_EVIDENCE/RAGCRAFT_FIRST_OUTPUTS_01.json",
+      "bytes": 11295,
+      "sha256": "4aeb4abc2ac1481fbcc7a0d5fac29bd6a497509121730253045f4f2df8fc25ab"
+    },
+    {
+      "private_file": "RAGCRAFT_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/RAGCRAFT_EXPANDED_V1_EVIDENCE/RAGCRAFT_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 8480,
+      "sha256": "ead320ff1cbd2a494e4d22712f2e82e235ba56a00e7069053798e1d361c0508c"
+    },
+    {
+      "private_file": "IGNIS_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/IGNIS_EXPANDED_V1_EVIDENCE/IGNIS_SCENARIO_INPUTS_01.json",
+      "bytes": 11777,
+      "sha256": "1e1cee7063e6fb8d4736c685da7c41dca227ea032bbcdfe89d4077ddc3a747cb"
+    },
+    {
+      "private_file": "IGNIS_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/IGNIS_EXPANDED_V1_EVIDENCE/IGNIS_FIRST_OUTPUTS_01.json",
+      "bytes": 11136,
+      "sha256": "26dffc597aeea5444fd36595cd6d9c304567d8b99ee5a5a471b268158a9d2241"
+    },
+    {
+      "private_file": "IGNIS_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/IGNIS_EXPANDED_V1_EVIDENCE/IGNIS_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 8758,
+      "sha256": "7c500b82b5ace68a72b403c0d0a1caa779a9023985aa5148acaf4fa488c443dd"
+    }
+  ],
+  "compact_profile_fragment": {
+    "private_file": "COHORT28_COMPACT_PROFILES_DRAFT_01.md",
+    "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "bytes": 10053,
+    "sha256": "f4c530cd79d20a6ac500930a37220c893b18f249f551f3dad5f0449a1b278e15"
+  },
+  "original_first_serialization_pins": [
+    {
+      "case_id": "AL-H01-A",
+      "body_file": "COHORT28_FIRST_BODY_AL-H01-A_01.txt",
+      "body_bytes": 639,
+      "body_sha256": "583ddd7417ce4a692e6a7c36131695ddce14ff715658c27400cf472ee4627e2e",
+      "receipt_file": "COHORT28_FIRST_BODY_AL-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "7e630bcf4afff652ea790fec6c43230209c41801bfe99387a2c31573db898c29",
+      "global_serialization_number": 1,
+      "actual_first_complete_tool_chunk": "1c8930"
+    },
+    {
+      "case_id": "AL-H01-B",
+      "body_file": "COHORT28_FIRST_BODY_AL-H01-B_01.txt",
+      "body_bytes": 678,
+      "body_sha256": "7035c4f506f88135423b963e4588f5a933a8bb1efdc2f07a81ae5d6865c5cfa6",
+      "receipt_file": "COHORT28_FIRST_BODY_AL-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "fbe8f9be33412f4ee3f81e7ddaa2f3aa255453d1eb9d2e67f77fd288a13185bb",
+      "global_serialization_number": 2,
+      "actual_first_complete_tool_chunk": "1c8930"
+    },
+    {
+      "case_id": "AL-H02-A",
+      "body_file": "COHORT28_FIRST_BODY_AL-H02-A_01.txt",
+      "body_bytes": 665,
+      "body_sha256": "cf16cf47d78929fe42545fc72a99a891f903e10a77b6da88b4f09e8280c6170c",
+      "receipt_file": "COHORT28_FIRST_BODY_AL-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "6a1539a9ee6cab2cf4c7571248b7c45f48e14adbe389c169472e66450586b119",
+      "global_serialization_number": 3,
+      "actual_first_complete_tool_chunk": "1c8930"
+    },
+    {
+      "case_id": "AL-H02-B",
+      "body_file": "COHORT28_FIRST_BODY_AL-H02-B_01.txt",
+      "body_bytes": 681,
+      "body_sha256": "ce968f990fa7fd42ef422775f41dfd157dc46a0eec0d4fe7f795021f446e826e",
+      "receipt_file": "COHORT28_FIRST_BODY_AL-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "42730c17d0b8ba557f680aef9534bd41f49f1cf49999b1eb0b7a9a87fa7cc420",
+      "global_serialization_number": 4,
+      "actual_first_complete_tool_chunk": "1c8930"
+    },
+    {
+      "case_id": "AL-H03-A",
+      "body_file": "COHORT28_FIRST_BODY_AL-H03-A_01.txt",
+      "body_bytes": 718,
+      "body_sha256": "6b2058125f30223f69a825ce3270cec1b45e79f601d7ca24104e03fa358882b8",
+      "receipt_file": "COHORT28_FIRST_BODY_AL-H03-A_01_RECEIPT.json",
+      "receipt_sha256": "d876fd50dd0a3ef54d54e49495be4ab2b99d0076817016ffee1125521f96ef40",
+      "global_serialization_number": 5,
+      "actual_first_complete_tool_chunk": "1c8930"
+    },
+    {
+      "case_id": "AL-H03-B",
+      "body_file": "COHORT28_FIRST_BODY_AL-H03-B_01.txt",
+      "body_bytes": 681,
+      "body_sha256": "1526acb10e3fbe10c195f3b05f6027ab7a4b8a4a6cc7bae7edf6a3c324880437",
+      "receipt_file": "COHORT28_FIRST_BODY_AL-H03-B_01_RECEIPT.json",
+      "receipt_sha256": "679770ab82332ec055a921e06530067d9698da1ff9198517de229996b92c7929",
+      "global_serialization_number": 6,
+      "actual_first_complete_tool_chunk": "1c8930"
+    },
+    {
+      "case_id": "MX-H01-A",
+      "body_file": "COHORT28_FIRST_BODY_MX-H01-A_01.txt",
+      "body_bytes": 588,
+      "body_sha256": "c38f33733b998cfd9fad9ceecce27eeead843a11c2d45b8c647c75fdc2a2c261",
+      "receipt_file": "COHORT28_FIRST_BODY_MX-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "62387e874a86f432ec03ef09f4cace375e001bc93401a71e0a1c7c37e13945fd",
+      "global_serialization_number": 7,
+      "actual_first_complete_tool_chunk": "85e92c"
+    },
+    {
+      "case_id": "MX-H01-B",
+      "body_file": "COHORT28_FIRST_BODY_MX-H01-B_01.txt",
+      "body_bytes": 656,
+      "body_sha256": "dda26215156cb27f0dc4375eef952c1bcb1f014a62ab5316d321f4423e40ddef",
+      "receipt_file": "COHORT28_FIRST_BODY_MX-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "76c497f53ef9357d075bcd8e690577b6a0d914381a4e8450f411a872c5ffcb67",
+      "global_serialization_number": 8,
+      "actual_first_complete_tool_chunk": "85e92c"
+    },
+    {
+      "case_id": "MX-H02-A",
+      "body_file": "COHORT28_FIRST_BODY_MX-H02-A_01.txt",
+      "body_bytes": 646,
+      "body_sha256": "e7c88c70a8223603741132a3abd0716f4b1d43da43afbf5bb166a90dc7224a6a",
+      "receipt_file": "COHORT28_FIRST_BODY_MX-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "af73757f3c707d161e2e91c5fb40ca2aa10281329ca2f7c8e883b75849d5819b",
+      "global_serialization_number": 9,
+      "actual_first_complete_tool_chunk": "85e92c"
+    },
+    {
+      "case_id": "MX-H02-B",
+      "body_file": "COHORT28_FIRST_BODY_MX-H02-B_01.txt",
+      "body_bytes": 615,
+      "body_sha256": "38582f695504b978e088549b9624e3415cae1ba82d93bb099af8d3401acf760e",
+      "receipt_file": "COHORT28_FIRST_BODY_MX-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "a574e11f35dce4d891e6d9302870d64ed57d99a7ebbe281fb6e7c41277d0a9e0",
+      "global_serialization_number": 10,
+      "actual_first_complete_tool_chunk": "85e92c"
+    },
+    {
+      "case_id": "MX-H03-A",
+      "body_file": "COHORT28_FIRST_BODY_MX-H03-A_01.txt",
+      "body_bytes": 669,
+      "body_sha256": "8d545ec5bbf92c3f3b35997ca78ea06a03a3110a1322824cb261da21934a0900",
+      "receipt_file": "COHORT28_FIRST_BODY_MX-H03-A_01_RECEIPT.json",
+      "receipt_sha256": "4d346e5db52a751b12b864dad73df3e8f3f304ad29d5096c5e0c7e9eab6718ba",
+      "global_serialization_number": 11,
+      "actual_first_complete_tool_chunk": "85e92c"
+    },
+    {
+      "case_id": "MX-H03-B",
+      "body_file": "COHORT28_FIRST_BODY_MX-H03-B_01.txt",
+      "body_bytes": 666,
+      "body_sha256": "d637f70645b2075c4df9299d34f5811bfdfb8223af91ef732d6363977e56b97f",
+      "receipt_file": "COHORT28_FIRST_BODY_MX-H03-B_01_RECEIPT.json",
+      "receipt_sha256": "03d7dbd4cf976a4100a4884049abdfb9c39e4a2bbcbe1cd45f0a7eb024310abc",
+      "global_serialization_number": 12,
+      "actual_first_complete_tool_chunk": "85e92c"
+    },
+    {
+      "case_id": "RG-H01-A",
+      "body_file": "COHORT28_FIRST_BODY_RG-H01-A_01.txt",
+      "body_bytes": 701,
+      "body_sha256": "6dfc71b6b21c497f67ae57f37821107ad47730ed568b7e528e7cfa6395ff0e61",
+      "receipt_file": "COHORT28_FIRST_BODY_RG-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "637b45f2daa94aab5ec9f6c41fa98e761262e6a02b07f198edce15f8b4eeafc0",
+      "global_serialization_number": 13,
+      "actual_first_complete_tool_chunk": "10aba5"
+    },
+    {
+      "case_id": "RG-H01-B",
+      "body_file": "COHORT28_FIRST_BODY_RG-H01-B_01.txt",
+      "body_bytes": 755,
+      "body_sha256": "e45946992184a642901913ce10557d677bd434063f91bd7e5019a109c7ff31c6",
+      "receipt_file": "COHORT28_FIRST_BODY_RG-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "17114ae76d57547913b41f3737a4602a32882c5fab3aa3e7465b688456264d5c",
+      "global_serialization_number": 14,
+      "actual_first_complete_tool_chunk": "10aba5"
+    },
+    {
+      "case_id": "RG-H02-A",
+      "body_file": "COHORT28_FIRST_BODY_RG-H02-A_01.txt",
+      "body_bytes": 693,
+      "body_sha256": "ac52e11636cb0e80d62bd361a13853e93ad2da1393812e5293a2119a50a7d21f",
+      "receipt_file": "COHORT28_FIRST_BODY_RG-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "70dce0cbaf42ecf2a32640359760d2bd7c0f8e4a206d7540e70d066c95d5a133",
+      "global_serialization_number": 15,
+      "actual_first_complete_tool_chunk": "10aba5"
+    },
+    {
+      "case_id": "RG-H02-B",
+      "body_file": "COHORT28_FIRST_BODY_RG-H02-B_01.txt",
+      "body_bytes": 666,
+      "body_sha256": "0f9dceacfd4cf395445212bab3071411ce3bfb1e9db4ac17f3d1f4a025520f7b",
+      "receipt_file": "COHORT28_FIRST_BODY_RG-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "2baa1d2c5d91296aba311e2067e8109fc1c8e5e835a55c66e68895da312896d8",
+      "global_serialization_number": 16,
+      "actual_first_complete_tool_chunk": "10aba5"
+    },
+    {
+      "case_id": "RG-H03-A",
+      "body_file": "COHORT28_FIRST_BODY_RG-H03-A_01.txt",
+      "body_bytes": 689,
+      "body_sha256": "792c3e43269a4bd28137a18939d62895915bd8fcd62b52a7c5825f537750b1f4",
+      "receipt_file": "COHORT28_FIRST_BODY_RG-H03-A_01_RECEIPT.json",
+      "receipt_sha256": "c07f79951aeda50cb6680541b273e007441a4d0c1db58e34f54684fee0087c09",
+      "global_serialization_number": 17,
+      "actual_first_complete_tool_chunk": "10aba5"
+    },
+    {
+      "case_id": "RG-H03-B",
+      "body_file": "COHORT28_FIRST_BODY_RG-H03-B_01.txt",
+      "body_bytes": 691,
+      "body_sha256": "a4274af14e43bf92b93f8bff359769ddf93dbcbfb486a783060cd227e2d48085",
+      "receipt_file": "COHORT28_FIRST_BODY_RG-H03-B_01_RECEIPT.json",
+      "receipt_sha256": "c28e8b1151df543d684c3ceac22e92435283c63a4b3c1cc36219cd8bca4b68a6",
+      "global_serialization_number": 18,
+      "actual_first_complete_tool_chunk": "10aba5"
+    },
+    {
+      "case_id": "IG-H01-A",
+      "body_file": "COHORT28_FIRST_BODY_IG-H01-A_01.txt",
+      "body_bytes": 633,
+      "body_sha256": "ec51accc0b664dae52417563d28cdf0a2fa2f4dbb64665ef360c5911c22d9b93",
+      "receipt_file": "COHORT28_FIRST_BODY_IG-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "caa3d0659a1141cc7f4d81aa22f4be859510b779982e05f1dbdb8e17e46427c6",
+      "global_serialization_number": 19,
+      "actual_first_complete_tool_chunk": "ac7100"
+    },
+    {
+      "case_id": "IG-H01-B",
+      "body_file": "COHORT28_FIRST_BODY_IG-H01-B_01.txt",
+      "body_bytes": 675,
+      "body_sha256": "9750af01e9790dfe7ce9a15ab443ffa0270259be31f0c480378cf29908c78bd5",
+      "receipt_file": "COHORT28_FIRST_BODY_IG-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "fcff8495f519329d57e9b7cb52e9b5574f7f205536fd504e92d16ca6516136bf",
+      "global_serialization_number": 20,
+      "actual_first_complete_tool_chunk": "ac7100"
+    },
+    {
+      "case_id": "IG-H02-A",
+      "body_file": "COHORT28_FIRST_BODY_IG-H02-A_01.txt",
+      "body_bytes": 673,
+      "body_sha256": "0981644838ddf89d52adb0d675954f5ab83cde081b78b5390b29a6f01c7e4522",
+      "receipt_file": "COHORT28_FIRST_BODY_IG-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "4b0c85cdd65de5d35309331f4717e45089c9d6c2333bfa48d5505676d9ae4b89",
+      "global_serialization_number": 21,
+      "actual_first_complete_tool_chunk": "ac7100"
+    },
+    {
+      "case_id": "IG-H02-B",
+      "body_file": "COHORT28_FIRST_BODY_IG-H02-B_01.txt",
+      "body_bytes": 682,
+      "body_sha256": "8155c64d2c09bd42b0c2075c1b33fc5c40d5e145f0ad0cda3a6b588d66b6a929",
+      "receipt_file": "COHORT28_FIRST_BODY_IG-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "27a48f5fb3eb8c4b76b93ead901cd7d2f538fbdb51ee568ea2641df82cc57202",
+      "global_serialization_number": 22,
+      "actual_first_complete_tool_chunk": "ac7100"
+    },
+    {
+      "case_id": "IG-H03-A",
+      "body_file": "COHORT28_FIRST_BODY_IG-H03-A_01.txt",
+      "body_bytes": 692,
+      "body_sha256": "7edc17c26cd6123645e08b28963b059af1591e9f0e6563c11d506931491e3928",
+      "receipt_file": "COHORT28_FIRST_BODY_IG-H03-A_01_RECEIPT.json",
+      "receipt_sha256": "ac7e44a1060c7645cb19dc1f77e2c9e86e6cbab216c4c92196ce1ca8527b41c2",
+      "global_serialization_number": 23,
+      "actual_first_complete_tool_chunk": "ac7100"
+    },
+    {
+      "case_id": "IG-H03-B",
+      "body_file": "COHORT28_FIRST_BODY_IG-H03-B_01.txt",
+      "body_bytes": 688,
+      "body_sha256": "dc33bc10bec9fc781fa5cff9eab338294fc540e20b740f8a31e52ddcc3265eaa",
+      "receipt_file": "COHORT28_FIRST_BODY_IG-H03-B_01_RECEIPT.json",
+      "receipt_sha256": "5d935106e877dcccf4abc1d7e883d1912cc2ed7b894e3c5dd9603d769357b0db",
+      "global_serialization_number": 24,
+      "actual_first_complete_tool_chunk": "ac7100"
+    }
+  ],
+  "new_artifact_scope": {
+    "models": 41,
+    "scoped_secondary_model_subjects": 35,
+    "bounded_profiles": 46,
+    "monograph_only_subjects": 19,
+    "nonfinal_records": 264,
+    "new_rules": 12,
+    "new_original_firsts": 24,
+    "new_dependent_pairs": 12
+  },
+  "subject_scope": {
+    "new_monographs": 10,
+    "new_models": 4,
+    "new_model_rules": 12,
+    "new_compact_profiles": 10,
+    "new_Tier0_indexes": 15,
+    "new_records": 28,
+    "changed_entering_rows": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      114
+    ],
+    "untouched_entering_rows": 229,
+    "nonfinal_records": 264,
+    "total_models": 41,
+    "scoped_secondary_model_subjects": 35,
+    "bounded_profiles": 46,
+    "monograph_only_subjects": 19,
+    "new_original_firsts": 24,
+    "dependent_pairs": 12
+  },
+  "known_BASE": 12655,
+  "complete_known_windows": 89,
+  "members": 43,
+  "native_text_objects": 18,
+  "complete_BASE_members": 24,
+  "new_whole_source_ruby_residual_image_set_admission_or_independent_credit": 0,
+  "source_access_limits": "89complete known windows/12655uniqueBASE/43members/18nativeobjects/24completeBASEmembers. All560routed literal hit paragraphs covered,not exhaustive aliases/anonymous/images. No new whole-source,ruby,residual,image-set,source admission or independent credit.",
+  "diagnostic_limits": "All32private foundations/inputs/aggregates exact;24first bodies in12dependent pairs,same informed root/allcontrasts visible. MX-H02nonisolating and strike-to-kill error,IG-H02unsupported partition,minor invented details,strong cueing/generic rivals and pervasive analytic guardposts retained. No regeneration/repair or independent result.",
+  "unprobed_conditions": [
+    "Nine-category final battery incomplete for all four.",
+    "Memory/contract/environment mechanisms and reported long career not independently isolated.",
+    "Japanese printed voice and audio untested by English cases.",
+    "Mundane,moral,relationship and transfer conditions outside this small source-informed set remain underidentified."
+  ],
+  "first_output_aggregation_byte_exact": true,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "census_comparison": {
+    "changed_entering_rows": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      114
+    ],
+    "untouched_entering_rows": 229,
+    "new_rows": [
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263
+    ],
+    "nonfinal_records": 264,
+    "canonical_layout": "Manifest plus four stable ordered80-row parts; private working91 separate.",
+    "historical_storage_snapshot_unchanged": true,
+    "no_unique_person_denominator": true
+  },
+  "current_governing_control_pins": [
+    {
+      "path": ".github/workflows/global-index-housekeeping.yml",
+      "bytes": 7260,
+      "sha256": "d45795121b97bb7477b16d1f79c26de00009b91c1039942ccfbca6535802cd79"
+    },
+    {
+      "path": ".github/workflows/repository-audit.yml",
+      "bytes": 8371,
+      "sha256": "380bf73687513f499c9430bc2d74b735c5ba83608c4ce954f9ac188a12eecbcb"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 9708,
+      "sha256": "bd6469134b8a67e3d3d9da55ffd4f3a510ed11c6cdd4b4466a0ec6fbbc69d5e6"
+    },
+    {
+      "path": "governance/AGENT_ROUTING.md",
+      "bytes": 24932,
+      "sha256": "071b0c08f56304d80ec93199e495a84731c6b96ec2c14959086b30562ad084dc"
+    },
+    {
+      "path": "governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md",
+      "bytes": 2580,
+      "sha256": "b00ccd101e8c064df924ad378ccfd841abc564ed66ea4f27e029d58f734379d4"
+    },
+    {
+      "path": "governance/policies/BRANCH_LIFECYCLE.md",
+      "bytes": 4378,
+      "sha256": "edf87ab7008bdd0aa21d18f66c1784fa906103ea5a8067dfcc009b3151c61a4d"
+    },
+    {
+      "path": "governance/policies/CHANGE_INTEGRATION_CHECKLIST.md",
+      "bytes": 15560,
+      "sha256": "0165a7641a1b86a1f4048cd2c61b580dbcf438337a3bc6547cd575fba3e7600c"
+    },
+    {
+      "path": "governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md",
+      "bytes": 3759,
+      "sha256": "22ddb39fb8a55019f13b18369f4ab22c68884bc2ed6f901fe4db06c4a00eaa5c"
+    },
+    {
+      "path": "governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md",
+      "bytes": 18387,
+      "sha256": "dd46ba210ba8dfa4973bff5eccd173f77a76c0284d1461ce24e2901c3f8bea94"
+    },
+    {
+      "path": "governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md",
+      "bytes": 3969,
+      "sha256": "b23da03adecc44c757faf17ee6c78ba080a9cb0a3433008c785b11adc2bc1463"
+    },
+    {
+      "path": "governance/policies/REPOSITORY_CONTROLS.md",
+      "bytes": 3376,
+      "sha256": "7fb86f55565293b1bbc47749a829bd059d66a83be5bafbf7c89822d225643087"
+    },
+    {
+      "path": "governance/repository-controls/change-obligations.json",
+      "bytes": 2788,
+      "sha256": "7f59db4d799825eab4d81cffc7dc36275f883281647569a3b522a588c5834722"
+    }
+  ],
+  "prior_preservation_checks": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 34,
+    "control_baseline": "Accepted owner-integrated main controls preserved at a90722d065e56e8fe2c2131e4307e4fa03d0c289; epoch1 migration files remain historical,not current routing.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true
+  },
+  "all37_entering_models_unchanged": true,
+  "all20_C27_cores_unchanged": true,
+  "previous_author_gate": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT27_PUBLICATION_GATE_CLOSE.json",
+    "source": "b7a698ec8b8567012eab945d5c96756e27c67f99",
+    "audit_run_id": 40048307237,
+    "full_discovered_tests": 459,
+    "scope": "Cohort27 author tranche only; protected-main integration separately owned."
+  },
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false,
+  "prepublication_clarifications": [
+    "Current row246 names a wish to obtain photographs; no completed photograph is established.",
+    "Current household role labels preserve absent identity joins without proving every occurrence a different person.",
+    "Visible distress does not imply a clinical trauma diagnosis.",
+    "Targeted editorial cleanup preserves literal commit IDs and encoded links; frozen foundations,inputs and bodies unchanged."
+  ]
+}

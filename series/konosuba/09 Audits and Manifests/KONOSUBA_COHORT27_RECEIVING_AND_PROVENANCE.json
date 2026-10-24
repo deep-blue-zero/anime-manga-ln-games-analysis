@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort27.receiving-and-provenance.v1",
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "received_utc": "2026-10-24T01:01:02.909360+00:00",
   "previous_published_source": "85aae6484feaf4542e6b5ce6f358df684ca6a75d",
   "source_baseline_before_candidate": "ab61b4cb2be974fe36c370aedf64b288a33cc458",
@@ -651,5 +651,21 @@
   "global_census_closed": false,
   "global_completion_percentage": null,
   "designated_global_outputs_authored": false,
-  "full_program_complete": false
+  "full_program_complete": false,
+  "pre_gate_publication_status_at_authorship": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_gate_close": {
+    "source": "b7a698ec8b8567012eab945d5c96756e27c67f99",
+    "tree": "7bdc074beee89f2b1c0dca2ef3f5c454e3ee1f83",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT27_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "af31d59e0b44c340545efad069994ebcf4bfc28f5078e45dbbbaa4c9470ed80a",
+    "source_run": 40048307237,
+    "full_discovered_tests": 459,
+    "current_models": 37,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_or_confidence_gain": true,
+    "separate_housekeeping_run": null
+  },
+  "author_source_publication_complete": true,
+  "protected_main_integration_not_certified": true
 }

@@ -1961,3 +1961,10 @@ Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Inde
 Beldia’s knightly challenge, technical questions and dependent politeness are situational rather than a moral certificate. Hans’s administrative denial gives way to familiar-name exposure, appeals and threats. Serena’s public modesty, private roughness, alias admission, puppet explanation and later forced junior deference change with information and power. The two officers have separate names/offices; Lolierina’s apologies and corrections differ from Aloerina’s personal disclosure and patronage response. The commander drops honorific distance while imagining Beldia’s rank. Print supplies pragmatic evidence, not audio; ordinary register, katakana or names are not automatic L3. Eighteen English diagnostics have recurrent audit-language leakage and weakly identified distinctive voice, retained without repairs (BE27; HA27; SE27; AO27; LO27; DU27).
 
 Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Alderp's printed private focalization includes both ワシ and 私; normalize neither into a universal pronoun rule. Maxwell's 僕, repeated vocatives and ヒュー forms are print, not audio, diagnosis or biological-sex proof. Balter's 僕, courteous reluctance and urgent cessation differ from Alderp. The unnamed guard's 自分 and firm literal boundary coexist with shy admonition. Ragcraft's institutional explanation and rushed defense, and Ignis's affection/assignment/threat require counterpart-sensitive register. The 24 English exercise bodies test no Japanese/audio/L3 accuracy; their analytic guardposts weaken natural performance.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.

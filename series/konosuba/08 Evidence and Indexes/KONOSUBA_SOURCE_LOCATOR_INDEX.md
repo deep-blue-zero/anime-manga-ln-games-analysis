@@ -1957,3 +1957,10 @@ Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Inde
 BE27, HA27, SE27, AO27, LO27, DU27 and RM27 provide 58 retrieval rows with direct/report/projection/intent/inference/fiction/creator distinctions. 195 complete known-source deliveries bind 9685 unique BASE slots in 68 members across 29 local EPUB objects; all 1,114 routed general-name/title hits and the separate officer/returned-men name hits have received contexts. Twelve complete BASE members include an afterword, without new whole/ruby/residual/image-set/admission credit. These are not independent observations or exhaustive anonymous/alias absence. MAIN16 p010 and MAIN17 part0012 are accepted F/start contracts. Serena/Celesdina alias is admitted; Sena and the two officers remain distinct. The DUST07 Dullahan is a former subordinate, not Beldia returned.
 
 Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+The cohort 28 index/provenance bind 89 actual complete source-known windows to 12,655 unique BASE slots in 43 members/18 local EPUB objects; 24 complete BASE members include an afterword. All 560 routed literal hit paragraphs/591 term hits across 43 resources lie inside received intervals. This is not exhaustive alias/anonymous/image coverage or an independent-event denominator. MAIN16 p004 is accepted C2/start; DUST-CONT p004 is U012 despite a shorthand U004 raw filename. Native/member/register/window hashes are retained. No new whole-source, ruby, residual, image-set, admission or independent credit.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.

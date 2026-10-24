@@ -258,12 +258,12 @@
     {
       "character": "Aloerina / アロエリーナ",
       "identity": "Aloerina / アロエリーナ, self-named police chief in MAIN15 C2 P461; age 23 and single are her statements. Distinct from deputy Lolierina and the initial male officer.",
-      "likely_tier": "2 scoped; dedicated twelve-dimension monograph without a reconstruction model; exact publication pending",
-      "priority": "Cohort 27 semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "2 scoped; dedicated twelve-dimension monograph without a reconstruction model; exact-source author gate closed",
+      "priority": "Cohort 27 exact-source author publication gate closed; model maturity, protected integration and full program remain open.",
       "evidence_distribution": "Two MAIN15 detention phases and the guarantee-backed release, AO27-01–03; personal disclosures and officer reports retain attribution.",
       "substantive_responsibility": "Scrutiny, pressure, patronage sensitivity, domestic aspiration and guarantee-dependent release are her own decisions. The first and second detention complaints differ. Kazuma’s threatened false sexual accusation is his conduct.",
       "gaps": "One dense linked case underidentifies a generator. Wider unsupported-victim treatment, actual domestic conduct, motive weights and recurrent voice remain open. Her stated partner ideal proves neither a partner nor pregnancy.",
-      "disposition_status": "COHORT27_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT27_FULL_EXACT_SOURCE_AUTHOR_GATE_CLOSED",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_gap_history_working30": "Do not merge with Luna,Aulip or unnamed staff by occupation/appearance. Audit other-main/police aliases before final individual denominator; no diagnosis or lifetime model from age/status.",
@@ -300,7 +300,25 @@
       },
       "cohort27_rules": [],
       "cohort27_semantic_receiving_sha256": "e2d21905aeba4aa64bac9da953ff271ae97c80e6fe31f1f194704d432c3dd283",
-      "cohort27_current_qualifications": "Current evidence index and received artifacts qualify prior shorthand. Historical row fields remain explicit. No new independent observation, final model maturity or global completion is claimed."
+      "cohort27_current_qualifications": "Current evidence index and received artifacts qualify prior shorthand. Historical row fields remain explicit. No new independent observation, final model maturity or global completion is claimed.",
+      "cohort27_pre_gate_publication_fields": {
+        "likely_tier": "2 scoped; dedicated twelve-dimension monograph without a reconstruction model; exact publication pending",
+        "priority": "Cohort 27 semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT27_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort27_publication_resolution": {
+        "source": "b7a698ec8b8567012eab945d5c96756e27c67f99",
+        "tree": "7bdc074beee89f2b1c0dca2ef3f5c454e3ee1f83",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT27_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "af31d59e0b44c340545efad069994ebcf4bfc28f5078e45dbbbaa4c9470ed80a",
+        "source_run": 40048307237,
+        "full_discovered_tests": 459,
+        "current_models": 37,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed noblewoman (MAIN15 bonus)",
@@ -568,17 +586,44 @@
     },
     {
       "character": "Hagen (Yorimichi04 household)",
-      "identity": "Namedhouseholdproviderwithtactandmaidrequest; distinctfromRionorheadbutleruntilactualjoin.",
-      "likely_tier": "1-2 candidate",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "FullYORI04report31,Story01U012P6–20. CURRENT WORKING25: MAIN07 C5P248–250 now directly namesハーゲン as the familiar Dustiness household steward, with own visit/request/withdrawal throughP261. This supplies a controlled role/name route for the existing household lead, not a second person per edition.",
-      "substantive_responsibility": "Interruptedcomplimentaboutpurifiedtea preserves socialtact whileactualvisitasksMegumintostopborrowinghouseholdmaids. Ownlocalresponsibility/availablelabor matter.",
-      "gaps": "Auditname/office/householdtiesandother-mainappearance; nobutlerarchetypemerge, unlimitedstafforcovertconsentfrompoliteness. Current working25 qualification: MAIN07 C5P248–250 now directly namesハーゲン as the familiar Dustiness household steward, with own visit/request/withdrawal throughP261. This supplies a controlled role/name route for the existing household lead, not a second person per edition.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Hagen / ハーゲン, named Dustiness servant/head butler across MAIN05 Ep, MAIN07 C5 and YORI04 U012. No demonstrated identity join to the unnamed wedding guard or Norris; Heidel and Rionor butler have their own source roles, and Alderp messenger serves a different household.",
+      "likely_tier": "2 scoped; dedicated twelve-dimension monograph without model; exact publication pending",
+      "priority": "Cohort 28 source-bound semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "HG28-01–03: emergency message, threatening letters/wedding logistics, later maid-labor/tact/stimulant warning scenes.",
+      "substantive_responsibility": "Own material provisioning, staff scarcity, scheduling and tact coexist with actual early nobility/body-sale insults. Assault received does not erase his speech; politeness is not limitless labor or perfect discretion.",
+      "gaps": "Autonomous ordinary life, unsupported-commoner treatment and durable repair remain underidentified. Recurrence supports monograph; no separate generator or first-output quota.",
+      "disposition_status": "COHORT28_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_gap_history_working24": "Auditname/office/householdtiesandother-mainappearance; nobutlerarchetypemerge, unlimitedstafforcovertconsentfrompoliteness.",
-      "current_scope_asof_working25": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved."
+      "current_scope_asof_working25": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
+      "prior_cohort28_current_fields": {
+        "identity": "Namedhouseholdproviderwithtactandmaidrequest; distinctfromRionorheadbutleruntilactualjoin.",
+        "evidence_distribution": "FullYORI04report31,Story01U012P6–20. CURRENT WORKING25: MAIN07 C5P248–250 now directly namesハーゲン as the familiar Dustiness household steward, with own visit/request/withdrawal throughP261. This supplies a controlled role/name route for the existing household lead, not a second person per edition.",
+        "substantive_responsibility": "Interruptedcomplimentaboutpurifiedtea preserves socialtact whileactualvisitasksMegumintostopborrowinghouseholdmaids. Ownlocalresponsibility/availablelabor matter.",
+        "gaps": "Auditname/office/householdtiesandother-mainappearance; nobutlerarchetypemerge, unlimitedstafforcovertconsentfrompoliteness. Current working25 qualification: MAIN07 C5P248–250 now directly namesハーゲン as the familiar Dustiness household steward, with own visit/request/withdrawal throughP261. This supplies a controlled role/name route for the existing household lead, not a second person per edition.",
+        "source_access_type": null,
+        "likely_tier": "1-2 candidate",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "source_access_type": "K trust appraisal is K account. Letter threat not real Demon Army terrorism; stimulant warning not actual sexual/clinical outcome. No anonymous butler identity inherited from office.",
+      "cohort28_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_HAGEN_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_NATIVE_PROVENANCE.json"
+      ],
+      "cohort28_scope_assessment": {
+        "subject": "Hagen",
+        "row_index": 114,
+        "proposed_scoped_tier": 2,
+        "proposed_rules": 0,
+        "justification": "Named continuity across emergency delivery,wedding logistics,maid labor and tact supports ordinary work plus actual adverse speech.",
+        "limits_and_rivals": "Not every butler or guard; his early status insults counter ideal-caregiver reading; wider autonomous life unknown."
+      },
+      "cohort28_rules": [],
+      "cohort28_semantic_receiving_sha256": "005b1707866fa8f637fd70931078f70181e393d7b31892d7af6349d7b8075c6b",
+      "cohort28_current_qualifications": "Current index/monograph and source-plane qualifications supersede prior shorthand. Historical fields remain explicit. No independent observation denominator,final maturity,global completion or evaluator grade is assigned."
     },
     {
       "character": "DarkStalker (Yorimichi04 retired professional)",
@@ -1041,12 +1086,12 @@
     {
       "character": "Hans / ハンス (MAIN04 general)",
       "identity": "Hans / ハンス, MAIN04 Demon King general and poison slime. His manager mimic and the original consumed manager are distinct; later bottled poison is not a living return.",
-      "likely_tier": "3 scoped; separate monograph and provisional three-rule reconstruction; exact publication pending",
-      "priority": "Cohort 27 semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "3 scoped; separate monograph and provisional three-rule reconstruction; exact-source author gate closed",
+      "priority": "Cohort 27 exact-source author publication gate closed; model maturity, protected integration and full program remain open.",
       "evidence_distribution": "MAIN04 cover and poisoning battle; earlier Wolbach interaction and later qualified reports/references. HA27-01–13 retain direct, self-report, inference and postblackout report distinctions.",
       "substantive_responsibility": "Concealment, objective-versus-pursuit choice, fallible noninterference assumptions and body-resource tactics have adverse cases. Freeze actually works; regrowth, fragmentation and enlargement change costs. His fragment surprises him; final cleanup is reported after Kazuma’s blackout.",
       "gaps": "Reported years of planning, exact mimicry limits, private knowledge of Wiz’s civilian exception, cognition in enlarged form, ordinary attachments and final battery remain open. Six same-root known-source firsts retain overpolished exception reasoning and physical-availability cueing.",
-      "disposition_status": "COHORT27_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT27_FULL_EXACT_SOURCE_AUTHOR_GATE_CLOSED",
       "independent_observation_count": null,
       "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
       "prior_gap_history_working26": "Consolidate exact native voice/actions, attributed admission versus witnessed death and unknown later fate details before mechanism/model size. No generic monster morality or automatic full-tier promotion.",
@@ -1094,7 +1139,25 @@
         "HA-R03"
       ],
       "cohort27_semantic_receiving_sha256": "e2d21905aeba4aa64bac9da953ff271ae97c80e6fe31f1f194704d432c3dd283",
-      "cohort27_current_qualifications": "Current evidence index and received artifacts qualify prior shorthand. Historical row fields remain explicit. No new independent observation, final model maturity or global completion is claimed."
+      "cohort27_current_qualifications": "Current evidence index and received artifacts qualify prior shorthand. Historical row fields remain explicit. No new independent observation, final model maturity or global completion is claimed.",
+      "cohort27_pre_gate_publication_fields": {
+        "likely_tier": "3 scoped; separate monograph and provisional three-rule reconstruction; exact publication pending",
+        "priority": "Cohort 27 semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT27_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort27_publication_resolution": {
+        "source": "b7a698ec8b8567012eab945d5c96756e27c67f99",
+        "tree": "7bdc074beee89f2b1c0dca2ef3f5c454e3ee1f83",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT27_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "af31d59e0b44c340545efad069994ebcf4bfc28f5078e45dbbbaa4c9470ed80a",
+        "source_run": 40048307237,
+        "full_discovered_tests": 459,
+        "current_models": 37,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Pain / ペイン (MAIN17 wraith)",

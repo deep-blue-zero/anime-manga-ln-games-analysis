@@ -1994,3 +1994,10 @@ Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Inde
 Detached-head reversals, an infiltrator trapped by her own obligations, an investigation reversed by explosive mushrooms and an ambitious undead denying desire produce different local comic mechanisms. Actual killing, poisoning, unwanted exposure, physical coercion and the invasion remain consequential. A near-death image, a dream about Serena, a projected past and diary erotic fiction retain their planes; none is a fresh live biography. H3 means local gag contingency, not uncertainty; fantasy embodiment alone is not H4. Useful defense and later revival do not supply consent or erase earlier harm. No global humor-code reassignment is made (BE27-04–07, 13; SE27-06, 13, 16; LO27-01–07; DU27-01–03).
 
 Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Status reversals include an overrun host, a bought wedding disrupted by actual payment, a cheap devil revealed as a separate powerful agent, a spy absorbed by work, and a father distracted by pride. Their mechanics require actor-specific information. The guard's final warning relies on K's counterfeit voice; the rumor is not Darkness's performed conduct. Marines's refusal of a rematch remains real. The manager's distress contradicts K's claim that only rulers suffer. No joke erases coercion, broken arms, servant injury, cracked windows or the trampled/revived adventurer.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.

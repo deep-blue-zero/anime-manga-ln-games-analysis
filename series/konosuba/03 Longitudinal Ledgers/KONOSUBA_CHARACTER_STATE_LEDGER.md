@@ -1838,3 +1838,10 @@ Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Inde
 Beldia shifts from repeated-grievance challenge to town-directed violence, technical reassessment and dependent bargaining; his own investigation explanation is distinct from verified prophecy. Hans moves from cover to direct poisoning, abandons a low-value chase and spends body material under counterattack. Serena changes public/private framing, concentrates finite control, works under costs, misreads faith and bargains under later captivity. Aloerina and Lolierina are distinct officials with different cases; the latter changes judgment after new evidence without resolving indirect causation through a truth device. The DUST07 commander combines revenge with promotion ambition and a temporary rapport before renewed lethal conflict. The three revived men retain distinct reported histories without every anonymous apology being assigned (BE27, HA27, SE27, AO27, LO27, DU27, RM27).
 
 Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Alderp moves from public rank-backed pressure through private blame to fear and bargaining after lost control; sincerity of remorse is unproved (AL28). Maxwell moves from pressured service to released selective refusal and harmful collection, with no complete memory diagnosis (MX28). Ragcraft's public office, disclosure and revenge are distinct states; Levi can overrule him (RG28). Ignis's illness, recovery, parental distraction, accountability and bodily work require changing capacity states (IG28). Balter's changed attraction, Hagen's tact/insults and the unnamed guard's chosen refusal retain separate agency.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.

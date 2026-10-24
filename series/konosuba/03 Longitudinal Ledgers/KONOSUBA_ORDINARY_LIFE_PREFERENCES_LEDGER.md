@@ -1385,3 +1385,10 @@ Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Inde
 Beldia’s household upkeep comes through a projected past; head-forgetting in a bath is the Demon King’s report. Hans’s appetite and contaminated stores are attributed conduct, not a full leisure profile. Serena’s tobacco, hotel/meal costs, piecework and digging challenge a generic inability-to-work account; some work is diary report and some directly narrated. Aloerina states a specific domestic ideal without an actual partner or pregnancy; Lolierina’s source shows connection-seeking rather than those same preferences. The commander reports former dog ownership and bodily losses. Shared trade, bandages or a helmet do not join unidentified actors, and later reimbursement does not erase earlier debt (BE27-07–09; HA27-11–12; SE27-02, 05–07; AO27-02; LO27-02–03; DU27-01–02).
 
 Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Ordinary evidence includes Alderp's hosted consumption/mirror maintenance/resented guest costs, Maxwell's work-and-reward seeking, Ragcraft's attributed applications/promotions/work grievance, and Ignis's bereavement, night disturbance, family mementos and camera wish. Hagen's staffing complaint and practical scheduling are his own work. Guard childhood play is Darkness recollection/reinterpretation. Unevidenced preferences remain unknown: no invented hobbies, home or food preferences pad these subjects. Marines's competitive self-presentation does not override her stopping request.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.

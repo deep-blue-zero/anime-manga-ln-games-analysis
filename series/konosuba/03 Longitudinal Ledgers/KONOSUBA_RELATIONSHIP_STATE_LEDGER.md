@@ -1505,3 +1505,10 @@ Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Inde
 Selective respect is not universal honor: Wiz reports Beldia’s peeping despite his chivalric presentation. Wolbach refuses Hans’s involvement, and Wiz limits her executive noninterference by civilian harm. Serena’s gratitude, loan concession, cash repayment, control, unwanted contact and coerced Axis affiliation are separate states. Her own chosen exposure does not authorize previous forced exposure. Aloerina’s patronage response and Lolierina’s noble-connection bid are differentiated; neither establishes a reciprocal romance. The commander can briefly sympathize with Dust while still attacking. Three returned men provide reported histories and collective apology without complete speaker allocation or proved durable repair (BE27-01, 06, 08; HA27-01, 03–05; SE27-02–13, 15; AO27; LO27; DU27; RM27).
 
 Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Alderp/Maxwell combine exploited nonpayment, valued cruelty and later harmful dependence; neither innocence nor consent follows from attachment language. Balter's desire differs from Alderp's body-resource plan. Ignis cares and pressures; Darkness's own preference remains distinct. Hagen, Norris and the wedding guard have no demonstrated alias join; Alderp's messenger serves a different household. Ragcraft influences but cannot wholly control Levi; the captives and Dust retain their separate knowledge. Aulip's retainer, woman and bystander own different speech. The elderly casino acquaintance's access permission does not establish a royal identity or long friendship.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
