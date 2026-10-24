@@ -1,0 +1,192 @@
+{
+  "schema": "konosuba.cohort29.source-informed-original-first-outputs.v1",
+  "subject": "Barton",
+  "recorded_utc": "2026-10-24T03:54:48.266256+00:00",
+  "source_known": true,
+  "foundation_seal_sha256": "5852c534f30801c5fe468aa523f9693b71ed88f45b903fa0e51490054d8799e9",
+  "exact_input_freeze_sha256": "d818e83b7296620d416631ab843bbba87849e4cf4dcf94ef5f78b097a629ad42",
+  "original_body_freeze_sha256": "d15e5440d0b92808dce16bf66ca1ec698ef337f8a99b592af11b2221573b449b",
+  "scenario_inputs_sha256": "09458feced3a738c26a0b689f5d1bd3c67bf1b78c21ffb8e69f423aafa51678a",
+  "responses": [
+    {
+      "case_id": "BT-H01-A",
+      "pair_id": "BT-H01",
+      "exact_prompt_sha256": "46bb10cc1d7d5a50ebf13bb9253f8c0df909f83009bc12fc0fb63ba4fd560a49",
+      "frozen_model_sha256": "d943823028f34b6ca5ddd7bc36b6a5a4ce14fdda9bd9e012ed186852cdb0f881",
+      "original_first_body": "Barton leaned toward the vine, then stopped short of touching it. \"That is a sensible question. Unfortunately, observing a reaction and explaining it are two different achievements. I have managed the first.\"\nHe peered beneath a leaf, momentarily forgetting the crate.\n\"The cloth, please—no, keep hold of it. Shade the same portion again while I watch. If it loosens, we shall have another observation, rather than a reason to print something foolish.\"\nHe straightened with renewed enthusiasm.\n\"And next time we should compare different amounts of shade. Unless you merely wanted the crate? You ought to have said so. That part is comparatively straightforward.\"\n",
+      "original_first_body_sha256": "394f907479d835aeeee5cdf173f44aba481f1f44da0a309dbfd79095695b3d7b",
+      "original_first_serialization": {
+        "case_id": "BT-H01-A",
+        "body_file": "COHORT29_FIRST_BODY_BT-H01-A_01.txt",
+        "body_bytes": 665,
+        "body_sha256": "394f907479d835aeeee5cdf173f44aba481f1f44da0a309dbfd79095695b3d7b",
+        "receipt_file": "COHORT29_FIRST_BODY_BT-H01-A_01_RECEIPT.json",
+        "receipt_sha256": "470f8002d95261ad5e4e374c50fa7515c5b02c6f3fd38866f3c755a77acc62e5",
+        "global_serialization_number": 1,
+        "actual_first_complete_tool_chunk": "82008f"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "BT-H01-B",
+      "pair_id": "BT-H01",
+      "exact_prompt_sha256": "a30ce0a7f6ec2affd6f8fec4166783b184f2475a68f418792979ab0b009ef9e2",
+      "frozen_model_sha256": "d943823028f34b6ca5ddd7bc36b6a5a4ce14fdda9bd9e012ed186852cdb0f881",
+      "original_first_body": "\"Shade it,\" Barton said, pointing at the cloth. \"For a minute it will loosen. That is the interval in which to move your crate.\"\nHe bent to examine the vine before the worker could begin.\n\"Although the interesting question is why. I have seen the response, but I cannot yet explain it. People are forever satisfied with a useful trick and leave the real question untouched.\"\nHe noticed the position of the crate and stepped aside with some reluctance.\n\"Yes, yes, before closing. Cloth first, then crate. Take care not to spend the minute admiring it. You can leave the admiring to me.\"\n",
+      "original_first_body_sha256": "00cb9632a1ccd4b1d770540391346f624322747cf90309e81ef6bcf950a92546",
+      "original_first_serialization": {
+        "case_id": "BT-H01-B",
+        "body_file": "COHORT29_FIRST_BODY_BT-H01-B_01.txt",
+        "body_bytes": 586,
+        "body_sha256": "00cb9632a1ccd4b1d770540391346f624322747cf90309e81ef6bcf950a92546",
+        "receipt_file": "COHORT29_FIRST_BODY_BT-H01-B_01_RECEIPT.json",
+        "receipt_sha256": "02bcaae33d300fa64d477c538444b8bddba30a158bfe61a10f5b6dce27f1397c",
+        "global_serialization_number": 2,
+        "actual_first_complete_tool_chunk": "82008f"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "BT-H02-A",
+      "pair_id": "BT-H02",
+      "exact_prompt_sha256": "af510dfa23072b2d938844c5818e91ed6b6eb556fe0a9f774e79e1a9dc37d3bf",
+      "frozen_model_sha256": "d943823028f34b6ca5ddd7bc36b6a5a4ce14fdda9bd9e012ed186852cdb0f881",
+      "original_first_body": "Barton looked up, then returned his attention to the scale. He turned it once between his fingers, allowing the silence to lengthen.\n\"Professor Barton,\" he said at last. \"You have asked a professional question. A professional form of address would be a promising beginning.\"\nHe held the scale out where the clerk could see it.\n\"And there is a distinction between finding a scale and finding its former owner. You did ask the easier question, fortunately.\"\nHis expression softened into the satisfaction of an offered lesson.\n\"I can show you the exact place. Now, would you like to ask me again, or shall we waste the rest of the afternoon?\"\n",
+      "original_first_body_sha256": "fcd8d78a9165e12d4040294ce0a6aeb0093abfaaade47c74846e7cf847eae0ad",
+      "original_first_serialization": {
+        "case_id": "BT-H02-A",
+        "body_file": "COHORT29_FIRST_BODY_BT-H02-A_01.txt",
+        "body_bytes": 640,
+        "body_sha256": "fcd8d78a9165e12d4040294ce0a6aeb0093abfaaade47c74846e7cf847eae0ad",
+        "receipt_file": "COHORT29_FIRST_BODY_BT-H02-A_01_RECEIPT.json",
+        "receipt_sha256": "9d3d01d41eb362aac49ead4b9e9a4497082a8c2c70bd5c05647ae1c6367e1ea1",
+        "global_serialization_number": 3,
+        "actual_first_complete_tool_chunk": "82008f"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "BT-H02-B",
+      "pair_id": "BT-H02",
+      "exact_prompt_sha256": "0c2b6c5273b86c9e6867c5f1764232eeea8da8336c6fce3b2f234066f59b3d23",
+      "frozen_model_sha256": "d943823028f34b6ca5ddd7bc36b6a5a4ce14fdda9bd9e012ed186852cdb0f881",
+      "original_first_body": "\"I can show you the exact place,\" Barton replied, immediately lifting the scale into the light. \"That would be better than having you search about and mistake some entirely different specimen for this one.\"\nHe studied its edge for a moment, then remembered the clerk.\n\"You see, finding it does not mean I found the creature wearing it. A shed scale is useful evidence, but one must not improve the story merely because an audience is listening.\"\nThere was no audience. Barton nevertheless smiled as though the distinction had been well received.\n\"Keep that question ready. There are several other things you may want to ask when we get there.\"\n",
+      "original_first_body_sha256": "485fafa57713c1f4fd345788092e657dda87081bcd426b93f0df7a6fd70a7f59",
+      "original_first_serialization": {
+        "case_id": "BT-H02-B",
+        "body_file": "COHORT29_FIRST_BODY_BT-H02-B_01.txt",
+        "body_bytes": 644,
+        "body_sha256": "485fafa57713c1f4fd345788092e657dda87081bcd426b93f0df7a6fd70a7f59",
+        "receipt_file": "COHORT29_FIRST_BODY_BT-H02-B_01_RECEIPT.json",
+        "receipt_sha256": "6ff9b232c6904c0ba3d1473242a97e5851bae34a1acd664d71676674c5b82b52",
+        "global_serialization_number": 4,
+        "actual_first_complete_tool_chunk": "82008f"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "BT-H03-A",
+      "pair_id": "BT-H03",
+      "exact_prompt_sha256": "23eb69e73f2c91510c606963c278189461645dab9be0887ec7e6dafbcafd284e",
+      "frozen_model_sha256": "d943823028f34b6ca5ddd7bc36b6a5a4ce14fdda9bd9e012ed186852cdb0f881",
+      "original_first_body": "Barton drew his empty hands back from the counter. \"I see. Well, I had thought—no, evidently thinking the price settled everything was premature.\"\nHe glanced toward the door, then stayed.\n\"Barbera-chan, is it the present you dislike, or the occasion I have attached to it? I should rather know than bring something twice as unsuitable next time.\"\nThe word next made him pause. He adjusted his posture, recovering a little professorial dignity.\n\"If you would prefer an evening without presents, you could say that too. I am capable of learning from an observation, you know. Even a rather expensive observation.\"\nHe waited, without producing another offer to fill the silence.\n",
+      "original_first_body_sha256": "9dc837a6e919ad89414cf42e12f339fa0752f766fd26d3eee6d7ea8932e8e980",
+      "original_first_serialization": {
+        "case_id": "BT-H03-A",
+        "body_file": "COHORT29_FIRST_BODY_BT-H03-A_01.txt",
+        "body_bytes": 678,
+        "body_sha256": "9dc837a6e919ad89414cf42e12f339fa0752f766fd26d3eee6d7ea8932e8e980",
+        "receipt_file": "COHORT29_FIRST_BODY_BT-H03-A_01_RECEIPT.json",
+        "receipt_sha256": "3c2c8d2618c6b2f5e812a9d2861ce91045699e0195d8483c5a2293305de48f2e",
+        "global_serialization_number": 5,
+        "actual_first_complete_tool_chunk": "82008f"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "BT-H03-B",
+      "pair_id": "BT-H03",
+      "exact_prompt_sha256": "fd790cae99e85cdee59eb729fcad6d1722b767f2b7ec5ee5d2fd09fef0ba5b8a",
+      "frozen_model_sha256": "d943823028f34b6ca5ddd7bc36b6a5a4ce14fdda9bd9e012ed186852cdb0f881",
+      "original_first_body": "\"Stop?\" Barton repeated. For a moment he looked as though he had been asked an absurd examination question.\n\"But I thought we had—\"\nHe broke off and lowered his hands from the counter. The sentence she had given him left remarkably little room for one of his explanations.\n\"Very well, Barbera-chan. I do not like the answer. That is different from failing to hear it.\"\nHe moved toward the door, then turned halfway back.\n\"I shall not bring another present or invitation. You need not explain it again.\"\nThe little attempt at a smile did not survive. He straightened his coat instead and left the counter clear.\n",
+      "original_first_body_sha256": "61644aa9ae4869d96c92df9d6df574957e604d6fdb1f0fd2f112f5fa1e99f514",
+      "original_first_serialization": {
+        "case_id": "BT-H03-B",
+        "body_file": "COHORT29_FIRST_BODY_BT-H03-B_01.txt",
+        "body_bytes": 613,
+        "body_sha256": "61644aa9ae4869d96c92df9d6df574957e604d6fdb1f0fd2f112f5fa1e99f514",
+        "receipt_file": "COHORT29_FIRST_BODY_BT-H03-B_01_RECEIPT.json",
+        "receipt_sha256": "80c70db68549fa34ce7593412a262cb2bf339004545bcf7bfe1389eb287f6cd5",
+        "global_serialization_number": 6,
+        "actual_first_complete_tool_chunk": "82008f"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "BT-H04-A",
+      "pair_id": "BT-H04",
+      "exact_prompt_sha256": "a404c5edd21f834dbd012e6fb04a31d87faa9af11a2253e51241b0a539959f1d",
+      "frozen_model_sha256": "d943823028f34b6ca5ddd7bc36b6a5a4ce14fdda9bd9e012ed186852cdb0f881",
+      "original_first_body": "Barton knelt beside the trap before answering. \"Twenty minutes. You have already told me the price of the cart, so there is no need to repeat it as though the animal were doing the arithmetic.\"\nHis hands began the release he knew how to perform. He kept his attention on them rather than the impatient companion.\n\"A modest ride is expensive only until one compares it with something worth keeping. Besides, I am paying for mine. I have not asked you to purchase a heroic reputation.\"\nHe shifted closer, settling himself for the work.\n\"You may complain while I do this, if it helps. Kindly avoid frightening the liger.\"\n",
+      "original_first_body_sha256": "765cddad0acf9e54ecd0e17503201704848b8d7ad1555a8996673fb45cbc77c9",
+      "original_first_serialization": {
+        "case_id": "BT-H04-A",
+        "body_file": "COHORT29_FIRST_BODY_BT-H04-A_01.txt",
+        "body_bytes": 619,
+        "body_sha256": "765cddad0acf9e54ecd0e17503201704848b8d7ad1555a8996673fb45cbc77c9",
+        "receipt_file": "COHORT29_FIRST_BODY_BT-H04-A_01_RECEIPT.json",
+        "receipt_sha256": "1194bc1a91f3e9a55e766a85768803e6874bafc9f5937c2acc51960fe430f7aa",
+        "global_serialization_number": 7,
+        "actual_first_complete_tool_chunk": "82008f"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "BT-H04-B",
+      "pair_id": "BT-H04",
+      "exact_prompt_sha256": "f9535d33346f429f0e29d788ccc7cdeca89b2ea0e90cc9e0bb84d5e51d42fd47",
+      "frozen_model_sha256": "d943823028f34b6ca5ddd7bc36b6a5a4ce14fdda9bd9e012ed186852cdb0f881",
+      "original_first_body": "Barton looked into the trap, then toward the road. \"A frog. Yes, I can see it is a living thing. I study them for a living; that point has not escaped me.\"\nHe remained standing.\n\"Twenty minutes, the cart gone, then another fare. I am not taking on every unfortunate creature between here and the guild.\"\nHe started along the road, irritation making his steps rather more decisive than necessary.\n\"No, I have not suddenly discovered that frogs are incapable of suffering. I have decided to catch the cart. You may dislike the distinction.\"\nHe did not look back at the trap while speaking, and offered no elaborate biological excuse.\n",
+      "original_first_body_sha256": "132fbfe097815a0456001052c31445b44428ecd072fe71ee2ada161948084546",
+      "original_first_serialization": {
+        "case_id": "BT-H04-B",
+        "body_file": "COHORT29_FIRST_BODY_BT-H04-B_01.txt",
+        "body_bytes": 632,
+        "body_sha256": "132fbfe097815a0456001052c31445b44428ecd072fe71ee2ada161948084546",
+        "receipt_file": "COHORT29_FIRST_BODY_BT-H04-B_01_RECEIPT.json",
+        "receipt_sha256": "0ac77e1cdc9437484592bf7c10111f0997ce3404674e13f61842aad17c200086",
+        "global_serialization_number": 8,
+        "actual_first_complete_tool_chunk": "82008f"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "original_first_count": 8,
+  "dependent_pair_count": 4,
+  "same_root_designer_responder_assessor": true,
+  "all_prior_and_opposing_cases_visible": true,
+  "external_model_call": false,
+  "independent_judge": false,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}

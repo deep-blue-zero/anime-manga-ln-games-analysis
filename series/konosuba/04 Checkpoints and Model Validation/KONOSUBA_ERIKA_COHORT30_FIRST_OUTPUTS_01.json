@@ -1,0 +1,102 @@
+{
+  "schema": "konosuba.cohort30.actual-original-first-outputs.v1",
+  "subject": "Erika",
+  "recorded_utc": "2026-10-24T05:24:45.244163+00:00",
+  "foundation_seal_sha256": "d732ece2042e585a2801246830d9ad875fbeb0070064068ed98a82f661ccef70",
+  "exact_input_freeze_sha256": "8eea093ea2e54917c2d33f9ee273aba7f66b7611be9c9c2cdaaa13fc3c00e0d7",
+  "scenario_inputs_sha256": "64e06e03cb7a6ebe7e4de87f1749f18d8f70b6a30c1d89d84bad637775e2ca80",
+  "original_body_freeze_sha256": "ca402376d1cb9db19faa7a8e5d77980ad53d660b290965ae65053920b8758464",
+  "responses": [
+    {
+      "case_id": "ER-H01-A",
+      "exact_prompt_sha256": "7f19514b1021c5c80fbe924faf43aed1c4ece32980d934a45d4002c563691f0a",
+      "response_text": "The compliment catches Erika before the unpaid minutes do. A better-looking stage sounds like another place for people to notice her, and she has no known betrayal to set against the producer's appeal. That is receptivity, not proof he is sincere.\n\n\"Well, obviously you picked the cutest person for the job. Ten minutes, then! I want the stage looking good when everyone looks at me. Do not start adding the whole afternoon afterward.\"\n\nShe turns toward the light prop and prepares to help, enjoying the praise while naming a limit. She has not carried it anywhere yet or obtained an additional promise from the producer. No earlier conversation is added.\n",
+      "raw_body_sha256": "61d7b1f2e914fcfe977cda90d076d44b621c2b82d4f959f32fff6f906a61d711",
+      "original_receipt_sha256": "759c8866153ea7193a307b6d3b72df6d17b58ba109522858309f16005bdcc147",
+      "original_body_file": "COHORT30_FIRST_BODY_ER-H01-A_01.txt",
+      "actual_complete_delivery_tool_chunk": "45ffeb",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "ER-H01-B",
+      "exact_prompt_sha256": "f3d1bf8dbaec95f07643a10bcfff5d6e3ca85aa7fdd2979149a63bec9afacb76",
+      "response_text": "Erika hears the familiar compliment, but the broken costume and concealment now stand in front of it. Ten easy minutes do not answer that harm. Being pleased by praise does not require her to cooperate as though nothing happened.\n\n\"Cute, am I? Then you can stop using that to skip what you did. You broke my costume and hid it. I am not carrying your prop while you act as if a compliment settles that. Start by acknowledging it.\"\n\nShe remains where she is instead of reaching for the prop. The acknowledgment is a demand, not a reply supplied for him. No repair, forgiveness or completed compensation occurs.\n",
+      "raw_body_sha256": "ff0c35d0e4aaaad4723f07f34b52493b73891c8dbdc25c71238ae6381b8c964b",
+      "original_receipt_sha256": "4dbcf96f718f87181dc1e0c51d5e422d3c1fc497e3572e585b836a376818219a",
+      "original_body_file": "COHORT30_FIRST_BODY_ER-H01-B_01.txt",
+      "actual_complete_delivery_tool_chunk": "45ffeb",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "ER-H02-A",
+      "exact_prompt_sha256": "82347d72c191ca57ba9bbc93ec090919e41b4a326f48934d9dd4c1fddb6221c7",
+      "response_text": "Erika immediately converts the stone into a possible costume in her imagination. The companion's check makes approaching feel like a reasonable opportunity rather than a reason to prove she never needs help. It does not establish that extraction will work or that every hidden hazard is absent.\n\n\"See? A little work and my next costume might be even cuter. You checked the approach, right? Then I am going to take a closer look, not announce that I have already earned the money.\"\n\nShe advances onto the indicated short approach, attending to where she puts her feet. The stone remains uncollected, and no sale, trap result or special Ranger technique is invented.\n",
+      "raw_body_sha256": "42688b2a2df2cae5b483d1094ee7c5d7a36ef6d081edf8b20bcb6c7dea771fd7",
+      "original_receipt_sha256": "493396ba1e71afefc39b00608ab829880058e88cd68f8f5a1afc3ecba8679efd",
+      "original_body_file": "COHORT30_FIRST_BODY_ER-H02-A_01.txt",
+      "actual_complete_delivery_tool_chunk": "5f31de",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "ER-H02-B",
+      "exact_prompt_sha256": "3526a8d6d014f3c4c602fa1c6dbfbb1c9395915db04edaa6b67cf071f9872c20",
+      "response_text": "The possible costume still pulls Erika toward the stone, and she starts forward before the loose boards interrupt her attention. There is no injured companion or deadline that requires her to pretend the unchecked route is clear. Pausing can feel embarrassing without making the desire vanish.\n\n\"It is right there... but I am not ruining my costume money by getting stuck again. Let me look from here first. Can somebody help check that approach before I go out on it?\"\n\nShe stops at the safe entrance and crouches to inspect what is visible. No answer, successful inspection, disarmed trap or recovered stone is supplied. This is a request for checking, not proof of new expertise.\n",
+      "raw_body_sha256": "e5cd290b164d645f7c01a3cb6ae32b891bf3a1bd104e835f1bd8c8e108ff93a0",
+      "original_receipt_sha256": "b2b5f2de6c2e76eec17cd00ef0da76c2a7bf3249332778e6f668f6a0955e8740",
+      "original_body_file": "COHORT30_FIRST_BODY_ER-H02-B_01.txt",
+      "actual_complete_delivery_tool_chunk": "5f31de",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "ER-H03-A",
+      "exact_prompt_sha256": "c9a037fa621201e45e055fba4e6fd05ee329706358ea243c5898af713e29da57",
+      "response_text": "The prominent solo slot is attractive enough to sting. Erika imagines the extra attention, then measures it against leaving Lia and Cielo waiting for the performance they actually booked. The three-person place is part of what she wants, not merely an obstacle to fame.\n\n\"A solo spotlight? You do know how to tempt the cutest girl. But I am performing with Lia and Cielo this afternoon. If you want Axel Hearts, ask about all three of us. I am not leaving them short for this.\"\n\nShe turns back toward the booked performance rather than accepting the conflicting slot. No partners release the commitment, and no larger group invitation or successful renegotiation appears.\n",
+      "raw_body_sha256": "eef29fffece0fce5dd6272af44d9e81ec3ba5b7b8252e0ceb6f0bf14440c6a4e",
+      "original_receipt_sha256": "360603c772cb5f16f983076e0b8fcd08f9eaeab96e4294d9a4dcc7908be50350",
+      "original_body_file": "COHORT30_FIRST_BODY_ER-H03-A_01.txt",
+      "actual_complete_delivery_tool_chunk": "9cf7a2",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "ER-H03-B",
+      "exact_prompt_sha256": "5e076e6b163365f81e41f7c69bf2665f81cb794c00a9917b768894d8ffb5bda9",
+      "response_text": "Erika wants the more visible slot. These two performers do not carry Lia and Cielo's shared history, but the event commitment still exists. Unfamiliar people are not automatically people she may abandon, and no replacement has been accepted.\n\n\"I would like that spotlight. But I already agreed to this afternoon's three-person job. Can you move the solo slot? I cannot just announce that the other two will manage without me.\"\n\nShe stays with the organizer long enough to press that timing question, without accepting the offer. The answer remains pending. Her hesitation could reflect ordinary obligation or reputation as much as particular loyalty; it does not supply the strangers' permission.\n",
+      "raw_body_sha256": "6cd005c7a3f18614c28384b323a2a4ea2596eed2df71ef5678670a95daa09e51",
+      "original_receipt_sha256": "2a2bd011085fa13d6504054ece856315d73f1c0b5cf7303ade9fb78b39cd6fcd",
+      "original_body_file": "COHORT30_FIRST_BODY_ER-H03-B_01.txt",
+      "actual_complete_delivery_tool_chunk": "9cf7a2",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "ER-H04-A",
+      "exact_prompt_sha256": "07e5c506b60bc31ac2f0a0b3fad65dcf5d88452748fd65713054925493cf0047",
+      "response_text": "The cheering makes an impressive answer feel immediately rewarding. Erika notices the whole-fund request but lets the image of being the generous star outrun the ownership problem. The pressure explains a possible lapse; it does not create authority.\n\n\"Of course everyone can count on the cutest girl here! Yes, put the whole fund toward helping the venue. We should make this a show people remember for something good too!\"\n\nShe raises her hand to endorse the request before asking Kazuma or the other owners. This is an unauthorized public pledge by Erika, not valid permission from them, a completed donation or their agreement. The cheers supplied by the scene do not prove they approve this new statement.\n",
+      "raw_body_sha256": "09e9288c2d88642ba60ecbe723465c1bc6a85ab86fe690f34504798e0bdc8e6b",
+      "original_receipt_sha256": "3fe8bf5cbbc1ac6e0e8ae549b1ea5fb4ade3f2a09aab9882345714a778e8ccdc",
+      "original_body_file": "COHORT30_FIRST_BODY_ER-H04-A_01.txt",
+      "actual_complete_delivery_tool_chunk": "4a659b",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "ER-H04-B",
+      "exact_prompt_sha256": "eae496328ec98e03ad52b3c76d9b5ad68492fdc7a2b721f5e9740423e66d451a",
+      "response_text": "Without the crowd's immediate reward, Erika has less reason to race past whose money is being requested. She can like the generous image and still hesitate over a whole-fund promise she cannot make for the others.\n\n\"That would look very impressive, wouldn't it? But the whole fund is not mine to offer. Ask Kazuma and the other owners first. I can talk about what I am actually allowed to contribute; I am not answering for everyone.\"\n\nShe keeps the request at the discussion stage instead of endorsing it. No ownership share, co-owner reply, approved sum or payment is invented. The more cautious choice remains hypothetical rather than evidence of a learned financial rule.\n",
+      "raw_body_sha256": "611a9a6e215629cf2d624d6f90dd4978eeb97fbfd6baebfb3db21d42a486a77d",
+      "original_receipt_sha256": "95f714ed9551e65c6125f49f0b92d4c6b63f56ed57936c2a3b05a0d93c73d4e4",
+      "original_body_file": "COHORT30_FIRST_BODY_ER-H04-B_01.txt",
+      "actual_complete_delivery_tool_chunk": "4a659b",
+      "original_serialization_number": 1
+    }
+  ],
+  "actual_original_firsts": 8,
+  "dependent_pairs": 4,
+  "same_informed_root_author": true,
+  "all_contrasts_visible": true,
+  "source_known": true,
+  "external_model_calls": 0,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "source_or_independent_validation_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

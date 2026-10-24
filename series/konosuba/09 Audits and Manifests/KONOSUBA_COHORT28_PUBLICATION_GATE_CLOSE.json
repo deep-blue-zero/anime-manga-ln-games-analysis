@@ -1,0 +1,127 @@
+{
+  "schema": "konosuba.cohort28.exact-source-author-publication-gate.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-24T02:54:29.227669+00:00",
+  "gate_scope": "Author publication tranche under current CHANGE_INTEGRATION_CHECKLIST: ordinary continuing-source push,ready PR and full passing exact-head repository audit. Protected-main integration/post-integration checks remain separately owned.",
+  "actual_source_commit": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+  "tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+  "source_parent": "b7a698ec8b8567012eab945d5c96756e27c67f99",
+  "publication_main": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
+  "main_observed_at_close": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
+  "pull_request": {
+    "number": 298,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/298",
+    "state": "open",
+    "merged": false,
+    "head": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+    "ready": true,
+    "labels": []
+  },
+  "author_preflight": {
+    "file": "COHORT28_AUTHOR_PREFLIGHT_VERIFIED_01.json",
+    "sha256": "f57b0a9667d51e15f520cc63116b9d3b98bce651ec1e065e3946498df7bd90c0",
+    "paths": 9627,
+    "project_paths": 1309
+  },
+  "remote_readback": {
+    "file": "COHORT28_REMOTE_READBACK_VERIFIED_01.json",
+    "sha256": "8430794be8af64ff9459e240d3dd0757e769c239246e3f40d883b2ed096a3d39",
+    "all9627_files_and53_changed_streams_exact": true
+  },
+  "source_audit": {
+    "file": "C28_SOURCE_AUDIT_VERIFIED_01.json",
+    "sha256": "7750542b9b14dae184bb0605f34d646f8b25fe6c615c25ec13e421cb9c1aed8a",
+    "run": 40055608877,
+    "job": 120757801732,
+    "reporter_job": 120759036160,
+    "actual_source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+    "full_discovered_tests": 459,
+    "all_five_non_success_categories_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/068a950a967d9fcf7a5f15bceaa317a48380ec30",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57148210714,
+      "node_id": "SC_kwDOUJ9ads8AAAANTkx-Gg",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40055608877",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-24T02:52:58Z",
+      "updated_at": "2026-10-24T02:52:58Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    }
+  },
+  "housekeeping": {
+    "status": "NOT_REQUIRED_WHEN_ROUTING_ALREADY_MATERIALIZED_UNDER_CURRENT_POLICY",
+    "run": null,
+    "execution_credit": false
+  },
+  "post_integration_main_audit": {
+    "status": "NOT_CERTIFIED_BY_THIS_AUTHOR_TRANCHE_GATE",
+    "run": null,
+    "execution_credit": false
+  },
+  "author_publication_tranche_complete": true,
+  "overall_git_integration_transaction_closed": false,
+  "authority_reload": {
+    "file": "COHORT28_POST_GATE_PUBLISHED_AUTHORITY_RELOAD.json",
+    "bytes": 323696,
+    "sha256": "af82e578d92765278f4b2f8348f0e7226c90f154bc8fac55619f6b83fa192452"
+  },
+  "current41_models_exact": true,
+  "new_scope": {
+    "new_monographs": 10,
+    "new_models": 4,
+    "new_model_rules": 12,
+    "new_compact_profiles": 10,
+    "new_Tier0_indexes": 15,
+    "new_records": 28,
+    "changed_entering_rows": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      114
+    ],
+    "untouched_entering_rows": 229,
+    "nonfinal_records": 264,
+    "total_models": 41,
+    "scoped_secondary_model_subjects": 35,
+    "bounded_profiles": 46,
+    "monograph_only_subjects": 19,
+    "new_original_firsts": 24,
+    "dependent_pairs": 12
+  },
+  "source_known_same_root_diagnostics": true,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}
