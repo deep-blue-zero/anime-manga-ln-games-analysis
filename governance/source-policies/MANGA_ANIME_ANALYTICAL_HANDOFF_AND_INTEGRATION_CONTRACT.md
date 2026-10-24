@@ -2,11 +2,11 @@
 title: Manga / Anime Analytical Handoff and Integration Contract
 artifact_id: MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT
 artifact_type: analytical_handoff_integration_contract
-version: "1.1"
+version: "1.2"
 status: canonical
 scope: cross-session analytical transfer, evidence-state preservation, receipt, integration acceptance, and the named-subject and referential-clarity standard for analytical prose
 created: 2026-09-13
-last_updated: 2026-10-14
+last_updated: 2026-10-24
 maintainer: ChatGPT + user
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,7 +26,7 @@ The reusable [stage handoff template](templates/MANGA_ANIME_ANALYTICAL_STAGE_HAN
 
 ## 1. When a handoff is required
 
-Use this contract when responsibility moves to a different session/environment and the receiving operation could otherwise lose scope, source provenance, analytical substance, unresolved evidence needs, or concurrency state. Important examples are architecture-to-local integration, local-to-cloud synthesis, cloud-to-local AV completion, and interrupted long-run recovery.
+Use this contract when responsibility moves to a different session/environment and the receiving operation could otherwise lose scope, source provenance, analytical substance, unresolved evidence needs, or concurrency state. Important examples are architecture-to-local integration, local-to-cloud synthesis, cloud-to-local AV completion, and interrupted long-run recovery. The [audiovisual reconciliation protocol](MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL.md) specializes this contract for the relay between bundle-mediated reading and continuous audiovisual review.
 
 A trivial internal action need not create a new artifact. For substantial transfers, use one operational packet with one start-here surface. This packet does not become another current series entrypoint.
 
@@ -243,6 +243,10 @@ Before semantic acceptance, authority promotion, or integration of substantial a
 A mechanical scanner may list candidate labels for review. It must not certify correctness by frequency counts, and it must not perform automatic substitution. The check requires human-readable semantic judgment.
 
 ## Changelog
+
+### v1.2 - 2026-10-24 - Audiovisual reconciliation link
+
+Points the bundle-mediated to continuous-AV relay to the audiovisual reconciliation protocol, which specializes this contract. No requirement here changes.
 
 ### v1.1 - 2026-10-14 - Named subjects and referential clarity
 
