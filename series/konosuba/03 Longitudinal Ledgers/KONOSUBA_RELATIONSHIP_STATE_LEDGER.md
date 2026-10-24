@@ -1568,3 +1568,10 @@ Selis is reported acting alongside Darkness. The present DUST05 speaker’s clos
 Zel’s proximity to Chomusuke contributes to Kazuma giving up an eventual eating thought; the causal effect on Kazuma does not supply a bird’s moral rationale. Original egg seller,reported marketing senders,garden-seed seller and other merchants remain unjoined and not certified distinct people. Vanir’s later actual care holding differs from earlier reported leave-care transfers.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Vanir connection constrains Duke treatment of Small despite demon hostility;she is not actually sent by Vanir. His own nonwithdrawal claim limits patronage obedience. Garden reaches toward Aqua rather than threatener Kazuma;Darkness stops disposal before hearing private evidence. Yunyun declared adoption and Aqua later reported child-care promise do not complete institutional transfer or plant assent.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

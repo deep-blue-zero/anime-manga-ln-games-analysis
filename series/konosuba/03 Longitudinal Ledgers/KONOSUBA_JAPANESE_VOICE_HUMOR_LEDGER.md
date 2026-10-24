@@ -2024,3 +2024,10 @@ Lucy names Regina and states a retaliation doctrine at MAIN11C3P525/533; the int
 キングスフォード・ゼルトマン and ゼル帝 give the native full-name/nickname bridge; Zel/Emperor Zel are retrieval spellings. Ordinary chirps,crows and human interpretations do not certify semantic animal speech or acoustic voice. MAIN07U018 is Ep1 / start under the preserved header-only correction; MAIN09U018 is verified Ep2 / start.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Duke grand self-naming/contempt,quiet clarification,Vanir honorific/request and survival plea vary with recipient and state. Garden coarse reply and tongue click differ from adult descriptions;Shiro/biology turns stay untagged. Seller polite caveats/surprise and anonymous audience remain distinct. Four English original diagnostics do not certify Japanese/acoustic voice.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

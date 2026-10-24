@@ -456,3 +456,10 @@ CR-C35-MAR01 QUALIFY: two accounts of one named Keith episode,not two assaults o
 CR-C36-ACT01 RETAIN: observed animal action is separate from human dragon/training projections. CR-C36-TIME02 QUALIFY: early mana and later reported conversion have different temporal scope. CR-C36-FOOD03 CORRECT: sugar water is for Wiz; MAIN10 bonus sleep belongs explicitly to Aqua. CR-C36-LETTER04 CORRECT: opened Iris letter is not an egg ad. CR-C36-ID05 QUALIFY: seller roles are unjoined,not certified different people; creator chicken remains inferred. CR-C36-ART06 RETAIN: contextual Aqua/Anna/sleeping-bird image and editorial chick profile do not depict a new hatch.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+CR-C37-JOB01 CORRECT:original military challenge is not marriage proposal. CR-C37-EVENT02 QUALIFY:DUST05Dust/Darkness retellings dependent;Small approach distinct. CR-C37-ID03 RETAIN:garden individual notforestPrincess;Shiro untagged proposal andtwo literal collisions notaliases. CR-C37-REACH04 CORRECT:reach is towardAqua. CR-C37-TIME05 QUALIFY:MAIN17later narrator death report andMAIN15preexistingAxel target retained. CR-C37-TEST06 RETAIN:DK-A1 unbound shelving wording,all4originals exact;body compliance notcausal isolation.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

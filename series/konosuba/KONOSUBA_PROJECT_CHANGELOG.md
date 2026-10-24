@@ -4630,3 +4630,39 @@ No new monograph, model, rule, input or first response is created. All 55 model 
 ## Cohort36 — Zel,reported egg sale and marketing roles — 2026-10-24T14:05:41.973035+00:00
 
 Two compact profiles and one Tier0 reported role yield85profiles and333nonfinal records. Model/secondary-model/monograph-only counts remain55/49/27. Two entering rows change;330 remain exact per plane. Animal acts,human appraisals,temporal change and unresolved seller identities remain distinct. All55 models and prior originals stay exact; no new model or diagnostic. [Index](08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact publication,protected integration and full program remain open.
+
+
+## Cohort36 exact-source author gate closed — 2026-10-24T14:28:33.928596+00:00
+
+Cohort36 source `b264fb26b64cf94d2281981779c26f2f3d21ecb8` and tree `d7308228e73804b384b162d1ea6655b12a23e114` close the author tranche. Audit40102047304:459/459tests,all five non-success categories zero. Reporter/latest status,9761remote bindings/27changed files and1424project-path reload verified. Totals55models/49scoped secondary model subjects/85profiles/27monograph-only/333nonfinal records. Three publication-status rows change;330others exact per plane. No new model or diagnostic. Animal/source-time/identity qualifications,failed preflight,eleven frozen private artifacts,WORK107/108 and all prior originals remain preserved. Full program and separately owned protected integration remain open.
+
+[Gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_COHORT36_PUBLICATION_GATE_CLOSE.json).
+
+### Preserved preceding map operation (historical pre-gate wording)
+
+**Cohort36 bounded semantic receiving is complete; exact containing publication is pending.** Zel and the original unnamed dragon-egg seller receive two compact profiles. One Tier0 record preserves Aqua-reported marketing sender(s),with unknown identity/count and no original-seller join. The opened Iris letter is separate. No new monograph,model,rule,input or first output is created. The [index](08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md), [coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_COHORT36_RECEIVING_AND_PROVENANCE.json) govern this scope.
+
+Candidate totals:55 models,49 scoped secondary model subjects,85 compact profiles,27 monograph-only subjects and333 nonfinal records. Two entering rows59/149 change;330 remain exact in each census plane. Nineteen older historical differences remain separate. New row332 is a reported role,not another certified disjoint person. Stable census parts contain80,80,80,80,13 rows; the historical storage snapshot stays exact.
+
+The actual current native union is2382complete P slots/2389inline ruby occurrences,40members/13knownEPUBs,61planned plus2adaptive displays,8complete members/32bounded members and2knownMAIN16 image rechecks. Four complete reports plus6bounded contexts total206874characters in26displays. No new source object,whole-source,globally unique,OCR,audio,human or independent credit. Technical all41 byte/name retrieval is not an absence proof.
+
+Observed animal actions remain distinct from human imprinting,dragon,training and decoded-cluck claims. Early high mana is not automatically unchanged after reported mana-to-level conversion. Seller speech and price are Aqua’s report; Kazuma’s profit/fraud motive is inferred. Unnamed merchant roles are neither joined nor certified different people. Creator high-level chicken identification is strongly inferred,with no watched Zel battle. All55 models,earlier original responses,scores,blanks/nulls and scratch remain exact. Final batteries and six distinct original StageD successors remain owed.
+
+Cohort35 retains its closed [exact-source author gate](09%20Audits%20and%20Manifests/KONOSUBA_COHORT35_PUBLICATION_GATE_CLOSE.json) at4491664a with full459 audit40097531812; its ten reviewed closing paths are carried. Current main is b20de0ed. This candidate needs exact-index preflight,ordinary publication,full remote readback,its own full actual-source audit/status and authority reload. Full census,specialists,extended/full-series synthesis,original StageD successors,designated global work,protected-main integration and release remain outstanding. The full program continues.
+
+
+## Cohort36 operation retained at cohort37 handoff — 2026-10-24T15:26:24.755654+00:00
+
+**Cohort36 has closed its exact-source author publication gate; the full KonoSuba program continues.** Zel and the original unnamed egg seller retain two compact profiles. One Tier0 role preserves Aqua-reported marketing sender(s),with identity/count unresolved. The opened Iris letter is separate. The [index](08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md), [coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md), [receiving](09%20Audits%20and%20Manifests/KONOSUBA_COHORT36_RECEIVING_AND_PROVENANCE.json) and [source author gate](09%20Audits%20and%20Manifests/KONOSUBA_COHORT36_PUBLICATION_GATE_CLOSE.json) govern this scope.
+
+Source `b264fb26b64cf94d2281981779c26f2f3d21ecb8`,tree `d7308228e73804b384b162d1ea6655b12a23e114`,passed author preflight after a preserved publication-path correction. Remote verification matched all9761file bindings and27changed files. Audit40102047304 executed all459discovered tests with all five non-success categories zero; reporter/latest trusted status were verified. All1424published project paths reloaded exactly. Ordinary push and ready PR close the author tranche; protected-main integration and post-integration checks remain separately owned.
+
+There are55models,49scoped secondary model subjects,85compact profiles,27monograph-only subjects and333nonfinal records. Three scoped publication-status rows change;330others remain exact per canonical/private plane. Nineteen historical plane differences remain. Five stable payloads contain80/80/80/80/13rows and preserve the historical storage snapshot. The reported marketing role is not another certified disjoint person.
+
+Current native scope:2382complete P/2389ruby,40members/13knownEPUBs,8complete members/32bounded members,63displays and2knownMAIN16images. Four complete reports plus6bounded contexts total206874characters/26displays. Animal acts,human appraisals,early mana/later reported conversion and source-required anonymity retain their limits. No new whole-source,globally unique,OCR,audio,human or independent credit follows. Public filenames retain hashes; full locations remain private. No new monograph,model,rule,input or first output.
+
+All55models,earlier original responses and defects,four scores,14Dustblanks,28SI/SYnulls and80scratch files remain exact. Final batteries,remaining secondary audit and earned artifacts,seven expanded specialist studies,extended/full-series synthesis,six distinct original StageD successors and designated global/integration/release work remain active. These ten closing paths publish with the next governed revision after fresh main/source reconciliation. Global completion percentage remains null.
+
+## Cohort37 — Main13 cast and neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Duke earns one monograph and one-rule provisional model;garden individual and magic seller earn2compact profiles;nine sparse records yield342nonfinal records. Candidate56models50scoped87profiles27monograph-only. Three entering rows change,330others and19older plane differences remain exact. Four original firsts/two dependent pairs retain DK-A1 shelving detail and generic/cueing rivals without repair or independent success claim. [Index](08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact publication,protected integration and full program remain open.

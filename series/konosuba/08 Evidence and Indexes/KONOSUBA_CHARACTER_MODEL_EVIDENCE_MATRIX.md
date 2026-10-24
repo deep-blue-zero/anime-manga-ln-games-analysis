@@ -1223,3 +1223,10 @@ Three compact profiles cover Maris,Selis and the unnamed P895 correction speaker
 Two compact profiles cover Zel59 and the original unnamed egg seller149. One Tier0 reported marketing-sender role appends at332,without a unique-person count. Candidate totals:55models/49scoped secondary model subjects/85compact profiles/27monograph-only/333nonfinal records. Two entering rows change,330 remain exact per plane; nineteen historical plane differences remain separate. No monograph or reconstruction is added.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Duke75 earns one monograph/model withDK-R01;garden76 and seller77 earn2compact profiles. Nine sparse role records333-341 are not9certified people. Candidate totals:56models/50scoped secondary model subjects/87compact profiles/27monograph-only/342nonfinal records. Three entering rows change,330others exact per plane,and19historical cross-plane differences remain. Prior garden forest-route support remains exact.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

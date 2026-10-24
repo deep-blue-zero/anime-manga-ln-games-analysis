@@ -2057,3 +2057,10 @@ Repeated grievances, Dust’s defensive distinctions, frightening smiles and the
 Dragon grandeur is repeatedly set against chick/rooster behavior,staged training display and domestic disturbance. The table strike locally startles Zel before a peck; that cause is not a universal theological hostility rule. Interpreted escape/refusal clucks remain a human performance,not verified translated bird dialogue.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+The courtship/work confusion depends on referent and access rather than fabricated original love. Aqua successful-looking seduction is paid drink/trivia/hostility rapport. Actual lich upgrade immediately worsens Duke matchup. Plant innocence-like response and food-threat fear are literal within the fantasy scene;comedy supplies no reset,eaten plant or harmlessness exemption.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

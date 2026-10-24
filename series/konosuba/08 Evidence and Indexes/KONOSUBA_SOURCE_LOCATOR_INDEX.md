@@ -2020,3 +2020,10 @@ Current scope is MAIN07U013/C2 P1–130 and DUST05U011 item/xhtml/p-003.xhtml P8
 Current native union:2382complete P/2389inline ruby,40members/13knownEPUBs,61planned plus2adaptive displays,8full members/32bounded members and2knownMAIN16 image rechecks. Four complete reports plus6bounded analytical contexts total206874characters/26displays. Exact ranges,source bindings and Ep1 precision are in provenance. No new source object,whole-source,globally unique,OCR,audio,human or independent credit.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+C37 actual known-source recheck:2128P/1965inline ruby,15members7EPUBs,49complete displays,7full members8bounded and4known images. Four complete reports plus1boundedMAIN14principal context total452129characters61displays. MAIN15/17 analytical surfaces were byte pins only;later native windows separately received. All41literal retrieval is technical,not unnamed/alias/image/nonparagraph absence proof or a new whole-source read.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

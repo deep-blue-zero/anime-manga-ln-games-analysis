@@ -3562,12 +3562,12 @@
     {
       "character": "Zel / Emperor Zel / ゼル帝",
       "identity": "キングスフォード・ゼルトマン,called ゼル帝 by Aqua; explicit egg/chick name bridge. Later grown chicken/rooster is observed; Aqua’s dragon claim and the creator’s unnamed high-level chicken join retain their separate authority/inference.",
-      "likely_tier": "1 scoped; compact nonhuman profile; exact publication pending",
-      "priority": "Cohort36 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact nonhuman profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort36 bounded author publication complete; continuing full program.",
       "evidence_distribution": "Current2382P/2389ruby union across40members/13knownEPUBs,including8complete members and32bounded members,plus2knownMAIN16 images. MAIN07 naming/purchase; MAIN08 hatch reports and actual approach/pecks; MAIN09 attempted paw and sleep; MAIN11 finished coop; MAIN13 proximity; MAIN15 grown bird/reported potion; MAIN16 sleep/care; MAIN17 qualified unnamed synopsis. Exact ranges in C36 provenance.",
       "substantive_responsibility": "Own resistance to holding,approach to Vanir,quiet holding,pecks,startle-linked response,curling sleep,Chomusuke proximity and later crowing remain animal acts. Household care and Kazuma’s abandoned eating thought have relational consequences. Handler training,dragon/hero claims and interpreted clucks are not the bird’s decisions. Early high mana and later reported mana-to-level conversion retain a changing timeline.",
       "gaps": "No sufficiently differentiated independent-motivation monograph or falsifiable individual generator at this scope; ordinary animal behavior remains a serious rival. No certified decoded speech/consent,successful paw,measured level/zero mana,unchanged later high mana,dragon transformation,watched battle or direct private thought. No permanent animal/secondary ceiling; no global absence claim.",
-      "disposition_status": "COHORT36_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT36_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_gap_history_working22": "Separate Aqua's ownership/species expectations, Kazuma's interpretation, Vanir's sugar-water and shed-body trick, and actual animal behavior. No monograph or human-like reconstruction earned merely by recurring name or images; final corpus-wide disposition pending.",
       "current_scope_asof_working23": "MAIN01–15 excluded full gates closed. MAIN16 published 870756ef7cfeb3d14f395deac59be65e909ba9a3; all 9,114 remote paths/35 changed streams verified and exact-index author preflight passed. Source/housekeeping/final audit gate remains pending verification in this version. MAIN17 excluded not admitted. Full individual census, earned artifacts, expanded synthesis/versioned models, curation/integration/release continue.",
@@ -3609,6 +3609,24 @@
         "file": "COHORT36_PUBLICATION_PATH_PRECISION_01.json",
         "bytes": 5370,
         "sha256": "a7c8b5429458996253caf875b3a179a9e56e906fb92882aeb9b8db4d430aa531"
+      },
+      "prior_cohort36_publication_fields": {
+        "likely_tier": "1 scoped; compact nonhuman profile; exact publication pending",
+        "priority": "Cohort36 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT36_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort36_publication_resolution": {
+        "source": "b264fb26b64cf94d2281981779c26f2f3d21ecb8",
+        "tree": "d7308228e73804b384b162d1ea6655b12a23e114",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT36_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "2af7cf0334bfc782ef2725dfff6e08497514c88ee86cb42e16832978fe768cfc",
+        "source_run": 40102047304,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
       }
     },
     {
@@ -4526,29 +4544,65 @@
       "independent_observation_count": null
     },
     {
-      "priority": "Discovery",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "priority": "Cohort37 bounded semantic receiving complete;exact containing publication pending.",
+      "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "character": "Duke (デューク)",
-      "identity": "MAIN13 named individual; former archwizard now fallen angel, later lich transformation attempt. Distinct from an unnamed nobility title.",
-      "likely_tier": "1-2 unresolved",
-      "evidence_distribution": "MAIN13 retained full C3 base498P and full Final470P, plus bounded C4 native; DUST05 full report C1 same bar event, not independent repetition. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "Own job challenge/ambition and actual threats differ from Wiz/Kazuma romance inference; training/earlier attack is reported. Actual sanctuary duel, role-replacement demand, surrender/release, town threat and later romantic excuse face distinct costs and responses. His self-claimed holy/evil lie-detection and expected invulnerability are not universally established abilities. CURRENT WORKING31: MAIN13 stated skill/job goal, threats/deference/feigned surrender and misreading Kazuma strategist differ from Wiz marriage inference. Actual Aqua topic rapport is not romance; lich power-up changes vulnerability, own defeat follows.",
-      "gaps": "Full individual cross-source disposition, voice and rival-account check still due. Avoid treating proposed marriage as his original goal, assuming omniscience, inferring permanent death from final Explosion, or counting DUST05/MAIN13 overlapping viewpoints twice. CURRENT WORKING31 QUALIFICATION: Keep concentrated own actor/voice and DUST05 retelling dedup. No imagined marriage as original goal, permanent death, later restored body/career or omniscience. Final earned bounded profile/model decision remains.",
+      "character": "Duke / デューク",
+      "identity": "Named fallen-angel military-office challenger in MAIN13,later actual lich change;not an unnamed nobility title or the MAIN17 white-winged gatekeeper. No invented mortal-to-angel biography.",
+      "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact publication pending",
+      "evidence_distribution": "Current full MAIN13C3/C4/Final/Ep and bonus with ruby;bounded DUST05C1P290-440 includes dependent Dust/Darkness retellings and distinct SmallP369-408. MAIN14C1P7,MAIN15P780-788 andMAIN17U011P84 later references qualified. Four complete analytical reports plus bounded MAIN14principal context;exact ranges/source hashes in C37 provenance.",
+      "substantive_responsibility": "Own military replacement aim,real intimidation/knife/fire/holy capacity,changing information and status/Vanir-affiliation-qualified treatment earn one provisional rule. Small explicitly spared because Vanir connection;Vanir receives polite noninterference request/retreat while Duke retains core challenge. Lich change contradicts prior aversion under defeat;last romance is a new survival maneuver,not original courtship. Actual agency and generic-power/patronage rivals remain.",
+      "gaps": "Local causal direction only;accepted affiliation versus retaliation fear not isolated. Four immutable original English firsts/two dependent pairs retain DK-A1 unbound shelving taunt;pairB body compliance does not isolate mechanism against generic goal persistence/source cueing. No regeneration,accuracy,grade,confidence gain,JP/acoustic certification or final battery. MAIN17 retrospective death report retained;no witnessed return/permanence audit,omniscient lie detection,sole origin of Axel targeting or universal hierarchy.",
       "prior_gap_history_working30": "Full individual cross-source disposition, voice and rival-account check still due. Avoid treating proposed marriage as his original goal, assuming omniscience, inferring permanent death from final Explosion, or counting DUST05/MAIN13 overlapping viewpoints twice.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_cohort37_current_fields": {
+        "character": "Duke (デューク)",
+        "identity": "MAIN13 named individual; former archwizard now fallen angel, later lich transformation attempt. Distinct from an unnamed nobility title.",
+        "likely_tier": "1-2 unresolved",
+        "evidence_distribution": "MAIN13 retained full C3 base498P and full Final470P, plus bounded C4 native; DUST05 full report C1 same bar event, not independent repetition. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
+        "substantive_responsibility": "Own job challenge/ambition and actual threats differ from Wiz/Kazuma romance inference; training/earlier attack is reported. Actual sanctuary duel, role-replacement demand, surrender/release, town threat and later romantic excuse face distinct costs and responses. His self-claimed holy/evil lie-detection and expected invulnerability are not universally established abilities. CURRENT WORKING31: MAIN13 stated skill/job goal, threats/deference/feigned surrender and misreading Kazuma strategist differ from Wiz marriage inference. Actual Aqua topic rapport is not romance; lich power-up changes vulnerability, own defeat follows.",
+        "gaps": "Full individual cross-source disposition, voice and rival-account check still due. Avoid treating proposed marriage as his original goal, assuming omniscience, inferring permanent death from final Explosion, or counting DUST05/MAIN13 overlapping viewpoints twice. CURRENT WORKING31 QUALIFICATION: Keep concentrated own actor/voice and DUST05 retelling dedup. No imagined marriage as original goal, permanent death, later restored body/career or omniscience. Final earned bounded profile/model decision remains.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort37_rules": [
+        "DK-R01"
+      ],
+      "cohort37_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUKE_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUKE_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUKE_EXPANDED_V1_EVIDENCE/DUKE_RULE_INVENTORY_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUKE_EXPANDED_V1_EVIDENCE/DUKE_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUKE_EXPANDED_V1_EVIDENCE/DUKE_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUKE_EXPANDED_V1_EVIDENCE/DUKE_FIRST_OUTPUT_ANNOTATIONS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUKE_EXPANDED_V1_EVIDENCE/DUKE_DIAGNOSTIC_ASSESSMENT_01.md"
+      ],
+      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0",
+      "cohort37_scope_assessment": {
+        "row": 75,
+        "subject": "Duke / デューク",
+        "tier": 3,
+        "artifact": "Twelve-dimension monograph plus one-rule provisional model",
+        "basis": "Distinct interlocutors,own stated military aim,real capabilities,changing information,status/affiliation-conditioned coercion,and costly revisions. The distinct DUST05 Small approach adds an explicit Vanir-connection restraint witness beyond dependent tavern retellings.",
+        "rule_scope": "Only status/affiliation-qualified treatment while retaining the core challenge. Lich conversion and survival romance remain source explanations,not padded all-context rules.",
+        "limits": "Ordinary power caution,retaliation risk and generic patronage are strong rivals. A single powerful named connection dominates the causal case. No mature validity or threshold isolation."
+      },
+      "cohort37_current_qualifications": "Current bounded disposition governs;prior current fields and earlier forest-route/support remain dated exact history. Own action,attributed report,interpretation,event identity and unknowns remain distinct. No independent result,final maturity or census closure."
     },
     {
-      "priority": "Discovery",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "priority": "Cohort37 bounded semantic receiving complete;exact containing publication pending.",
+      "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "character": "デッドスクリーム・ブラッディマリー (MAIN13 garden 安楽少女)",
-      "identity": "Named new garden plant at MAIN13 C4P259; distinct from MAIN11 forest 安楽王女 recalled at327.",
-      "likely_tier": "1-2 bounded candidate, unresolved",
-      "evidence_distribution": "MAIN13 C4P200-290 and291-411 current base-text windows; Aqua's purchase/mandrake account and others' XP-farm reactions. MAIN14 new57P bonus/ruby/residual actually received, all nativeimages; retainedC1P149/C4P624-631.",
-      "substantive_responsibility": "A source-bound individual named plant becomes the object of Aqua's protection and Kazuma's proposal. The proposal is opposed and unperformed; no speech, negotiated assent, actual disposal or independent self-directed choice received here. CURRENT WORKING21: Same village dependent, distinct from forest Anraku Queen. Actual grasp, rude reply, innocent giggle, tongue click and fear make a bounded agent record. Yunyun declares adoption; later Aqua reports garden planting/child-care pact.",
-      "gaps": "Raise provisional review from incidental toward1-2 bounded profile/monograph decision; no automatic model. No completed new name/adoption/office/burn/eating, settled innate evil, human developmental law or full internal plan. Shiro speaker untagged.",
+      "identity": "Particular newly sprouted garden individual named MAIN13C4P259 and MAIN14C1P149;distinct from MAIN11 forest Princess,MAIN05 encounter and DUST03 lake individual routes.",
+      "likely_tier": "1 scoped; compact nonhuman agent profile; exact publication pending",
+      "evidence_distribution": "Current full MAIN13C4 plusMAIN14C1P1-165,C2P50-95,C4P615-665 and full57P electronic bonus with ruby;known MAIN13garden andMAIN14care images rechecked. All exact native ranges/source joins in C37 provenance.",
+      "substantive_responsibility": "Own smiles,reach toward Aqua,grasp of Yunyun finger,private coarse rejection of Kazuma forest-survival premise,innocence-like giggle,tongue click and fear at Komekko food appraisal retained separately from caretaker motives. Aqua care and later reported garden/childcare promise,Darkness actual disposal stop and Yunyun adoption declaration keep distinct actors and modalities.",
+      "gaps": "No substantial independently motivated twelve-dimension account or distinct generative policy yet;ordinary dependency,presentation and food danger remain rivals. No permanent nonhuman/age ceiling. Shiro proposal and biological explanation untagged;no completed rename,adoption,office,burning,eating,innate-evil law or universal human developmental rule. Prior forest-route fields/support remain exact.",
       "prior_gap_history_working20": "Final incidental/limited-profile disposition after whole-corpus identity check. Do not transfer the forest entity's behavior or manufacture a plant model from others' reactions.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
       "cohort34_forest_identity_route": {
@@ -4602,18 +4656,74 @@
         "main_integration_not_certified_by_author_gate": true,
         "no_independent_accuracy_grade_or_confidence_gain": true,
         "separate_housekeeping_run": null
-      }
+      },
+      "prior_cohort37_current_fields": {
+        "character": "デッドスクリーム・ブラッディマリー (MAIN13 garden 安楽少女)",
+        "identity": "Named new garden plant at MAIN13 C4P259; distinct from MAIN11 forest 安楽王女 recalled at327.",
+        "likely_tier": "1-2 bounded candidate, unresolved",
+        "evidence_distribution": "MAIN13 C4P200-290 and291-411 current base-text windows; Aqua's purchase/mandrake account and others' XP-farm reactions. MAIN14 new57P bonus/ruby/residual actually received, all nativeimages; retainedC1P149/C4P624-631.",
+        "substantive_responsibility": "A source-bound individual named plant becomes the object of Aqua's protection and Kazuma's proposal. The proposal is opposed and unperformed; no speech, negotiated assent, actual disposal or independent self-directed choice received here. CURRENT WORKING21: Same village dependent, distinct from forest Anraku Queen. Actual grasp, rude reply, innocent giggle, tongue click and fear make a bounded agent record. Yunyun declares adoption; later Aqua reports garden planting/child-care pact.",
+        "gaps": "Raise provisional review from incidental toward1-2 bounded profile/monograph decision; no automatic model. No completed new name/adoption/office/burn/eating, settled innate evil, human developmental law or full internal plan. Shiro speaker untagged.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort37_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-37-dukes-neighboring-agents-and-supporting-roles"
+      ],
+      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0",
+      "cohort37_scope_assessment": {
+        "row": 76,
+        "subject": "デッドスクリーム・ブラッディマリー; garden individual",
+        "tier": 1,
+        "artifact": "Compact agent profile in existing coverage audit",
+        "basis": "Own smiling,reach/grasp,private rude reply,innocence-like giggle,tongue click and food-threat fear are retained separately from caretakers projections.",
+        "Tier2_alternative": "A monograph could assemble substantial care and danger chronology,but most causal variety would be other people acting on the plant. The small own-response record does not yet support a substantial twelve-dimension independently motivated account without repeating those acts or filling unknowns.",
+        "Tier3_alternative": "Ordinary dependency,presentation and immediate danger are adequate rivals;no distinct individual mechanism across controlled changed circumstances is identified.",
+        "limits": "No nonhuman or developmental ceiling. Preserve the separate forest route and earlier support exactly. No completed Shiro rename,adoption,chiefship,burning,eating or innate-evil law."
+      },
+      "cohort37_current_qualifications": "Current bounded disposition governs;prior current fields and earlier forest-route/support remain dated exact history. Own action,attributed report,interpretation,event identity and unknowns remain distinct. No independent result,final maturity or census closure."
     },
     {
-      "priority": "Discovery",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "priority": "Cohort37 bounded semantic receiving complete;exact containing publication pending.",
+      "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "character": "Unnamed magic-item seller (MAIN13 bonus)",
-      "identity": "Source-bound merchant in new electronic bonus 本物のマジックアイテム！; distinct from the familiar unnamed guild adventurer.",
-      "likely_tier": "1 bounded candidate",
-      "evidence_distribution": "MAIN13-U021 all60P actual new reading; seller30-32 caveats/price/one-only inventory, actual sale/payment36-38; Kazuma later requests a return57.",
-      "substantive_responsibility": "Communicates finite supply, low occurrence, any-user and enemy-retrieval risks before the completed sale. No hidden malicious motive, accepted refund or later intervention is shown.",
-      "gaps": "Single transaction can justify a bounded profile if needed, not an automatic mechanism model; no name, price amount, full business history, returned item or accepted repayment inferred."
+      "identity": "Source-bound itinerant merchant,distinct from familiar bonus introducer;unjoined to reported garden-seed,egg and weapon sellers,without certified sameness or global personal distinctness.",
+      "likely_tier": "1 scoped; compact transaction profile; exact publication pending",
+      "evidence_distribution": "Current MAIN13U021 complete60P/ruby,especially30-32 caveats,37 own sale-interest/surprise,38 actual payment and57 unaccepted return plea. Full existing MAIN13excluded report received;source/member hashes in C37 provenance.",
+      "substantive_responsibility": "Supplies low-success,rare one-stock,high-cost and enemy-reuse warnings despite own commercial interest;actual cash exchange follows. Kazuma failed Steal recovery does not prove every product defective. Untagged audience voices remain unassigned.",
+      "gaps": "No personal name,exact price,accepted refund,returned cash,full business history,hidden fraudulent motive or individualized sales policy. Wider conduct and response to costly dispute absent;one consequential exchange earns compact profile without monograph/model padding.",
+      "prior_cohort37_current_fields": {
+        "character": "Unnamed magic-item seller (MAIN13 bonus)",
+        "identity": "Source-bound merchant in new electronic bonus 本物のマジックアイテム！; distinct from the familiar unnamed guild adventurer.",
+        "likely_tier": "1 bounded candidate",
+        "evidence_distribution": "MAIN13-U021 all60P actual new reading; seller30-32 caveats/price/one-only inventory, actual sale/payment36-38; Kazuma later requests a return57.",
+        "substantive_responsibility": "Communicates finite supply, low occurrence, any-user and enemy-retrieval risks before the completed sale. No hidden malicious motive, accepted refund or later intervention is shown.",
+        "gaps": "Single transaction can justify a bounded profile if needed, not an automatic mechanism model; no name, price amount, full business history, returned item or accepted repayment inferred.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort37_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-37-dukes-neighboring-agents-and-supporting-roles"
+      ],
+      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0",
+      "cohort37_scope_assessment": {
+        "row": 77,
+        "subject": "Unnamed magic-item seller",
+        "tier": 1,
+        "artifact": "Compact transaction profile in existing coverage audit",
+        "basis": "Explicit finite stock and drawbacks,purchase surprise,own commercial interest and completed payment.",
+        "Tier2_alternative": "One consequential transaction with no later seller response or wider conduct does not earn substantial independent monograph depth.",
+        "Tier3_alternative": "Useful caveats do not identify a general individualized sales policy beyond ordinary selling and product knowledge.",
+        "limits": "No name,exact price,accepted refund,secret motive or join to other sellers."
+      },
+      "cohort37_current_qualifications": "Current bounded disposition governs;prior current fields and earlier forest-route/support remain dated exact history. Own action,attributed report,interpretation,event identity and unknowns remain distinct. No independent result,final maturity or census closure."
     },
     {
       "priority": "Scoped monograph gate closed; designated curation and wider program active",

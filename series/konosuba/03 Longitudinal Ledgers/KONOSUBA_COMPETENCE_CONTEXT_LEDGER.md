@@ -1578,3 +1578,10 @@ MAIN07 reports Maris breaking Keith’s nose; DUST05 assigns the associated blow
 Megumin’s early high-mana testimony and rejected spell/flight/breath expectations retain their source-world authority. MAIN15 growth is observed while potion administration is reported. Neither an exact level,measured zero mana,unchanged later high mana,dragon transformation nor watched Zel combat follows. Paw training is attempted,without successful paw performance.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Duke actual knife/fire/holy capacities differ from judgment and usable advantage. His claimed lie-aura theory is not calibrated omniscience;lich power creates an adverse holy/drain matchup. The seller finite stock/caveat is useful input,while Kazuma retrieval fails. Plant speech is actually represented despite adult infant-language assumptions;no nutritional or developmental universal follows.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
