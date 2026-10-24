@@ -27,7 +27,11 @@ from character_index_core import (  # noqa: E402
     read_discovery_registry,
 )
 from character_registry import export, normalize, replay  # noqa: E402
-from generate_character_index import generated_output_errors, render_outputs  # noqa: E402
+from generate_character_index import (  # noqa: E402
+    generated_output_errors,
+    render_outputs,
+    write_outputs,
+)
 from test_character_index_v2 import (  # noqa: E402
     authority_bytes,
     partition_documents,
@@ -347,6 +351,30 @@ class RegistryToolTests(unittest.TestCase):
         with self.assertRaisesRegex(DomainError, "example:bob@anime"):
             replay(self.root, base, head)
         self.assertEqual((self.root / "characters/registry/example.jsonl").read_bytes(), before)
+
+    def test_writers_refuse_symlinked_managed_directories(self) -> None:
+        outside = Path(tempfile.mkdtemp(prefix="registry-outside-", dir=self.root.parent))
+        self.addCleanup(shutil.rmtree, outside)
+        sentinel = outside / "unrelated.jsonl"
+        sentinel.write_bytes(line(record("example:alice@anime")))
+        (self.root / "characters").mkdir()
+        for prefix, run in (
+            ("registry", lambda: normalize(self.root)),
+            ("index", lambda: write_outputs(
+                self.root,
+                GitSnapshot(self.root, "TEST", {}),
+                {"CHARACTER_ANALYSIS_INDEX.md": "# Index\n", "characters/index/example.md": "# Page\n"},
+            )),
+        ):
+            with self.subTest(prefix=prefix):
+                link = self.root / "characters" / prefix
+                link.symlink_to(outside, target_is_directory=True)
+                with self.assertRaisesRegex(DomainError, "symlink"):
+                    run()
+                link.unlink()
+                self.assertEqual(sorted(item.name for item in outside.iterdir()), ["unrelated.jsonl"])
+                self.assertEqual(sentinel.read_bytes(), line(record("example:alice@anime")))
+        self.assertFalse((self.root / "CHARACTER_ANALYSIS_INDEX.md").exists())
 
     def test_pre_migration_branch_merges_identical_rows_and_refuses_conflicts(self) -> None:
         alice = line(record("example:alice@anime"))

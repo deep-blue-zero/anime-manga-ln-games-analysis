@@ -34,6 +34,7 @@ from character_index_core import (
     decode_jsonl_with_lines,
     discovery_commit_snapshot,
     discovery_partition_path,
+    managed_worktree_directory,
     record_namespace,
     run_git,
 )
@@ -92,10 +93,12 @@ def _snapshot_sources(snapshot: GitSnapshot) -> dict[str, bytes]:
 
 def _worktree_sources(root: Path) -> dict[str, bytes]:
     sources: dict[str, bytes] = {}
+    directory = managed_worktree_directory(root, DISCOVERY_REGISTRY_PREFIX)
     legacy = root.joinpath(*PurePosixPath(LEGACY_DISCOVERY_REGISTRY_PATH).parts)
+    if legacy.is_symlink():
+        raise DomainError(f"refusing to read or remove a symlinked {LEGACY_DISCOVERY_REGISTRY_PATH}")
     if legacy.is_file():
         sources[LEGACY_DISCOVERY_REGISTRY_PATH] = legacy.read_bytes()
-    directory = root.joinpath(*PurePosixPath(DISCOVERY_REGISTRY_PREFIX).parts)
     if directory.is_dir():
         for item in sorted(directory.iterdir()):
             path = DISCOVERY_REGISTRY_PREFIX + item.name

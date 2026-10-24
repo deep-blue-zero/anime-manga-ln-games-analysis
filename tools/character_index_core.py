@@ -2436,6 +2436,25 @@ def schema_errors(
     )
 
 
+def managed_worktree_directory(root: Path, prefix: str) -> Path:
+    """Return the worktree directory of a managed output prefix, never through a symlink.
+
+    The directory need not exist yet, but no existing component may be a
+    symlink or a non-directory, so writes and stale-output removal stay inside
+    the repository.
+    """
+
+    current = root
+    for part in PurePosixPath(prefix.rstrip("/")).parts:
+        current = current / part
+        if current.is_symlink() or (current.exists() and not current.is_dir()):
+            raise DomainError(
+                f"refusing to write {prefix}: {current.relative_to(root).as_posix()} "
+                "is a symlink or not a directory"
+            )
+    return current
+
+
 def atomic_write_text(path: Path, text: str) -> None:
     data = text.encode("utf-8")
     if b"\r" in data or data.startswith(b"\xef\xbb\xbf"):

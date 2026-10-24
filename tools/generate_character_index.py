@@ -25,6 +25,7 @@ from character_index_core import (
     current_layout_errors,
     decode_json,
     discovery_partition_path,
+    managed_worktree_directory,
     read_discovery_registry,
     record_namespace,
     render_schema_diagnostics,
@@ -376,6 +377,7 @@ def generated_output_errors(snapshot: GitSnapshot, expected: Mapping[str, str]) 
 def write_outputs(root: Path, snapshot: GitSnapshot, rendered: Mapping[str, str]) -> list[str]:
     """Write changed outputs and remove stale namespace pages; return the paths to stage."""
 
+    page_directory = managed_worktree_directory(root, CHARACTER_INDEX_PAGE_PREFIX)
     changed: list[str] = []
     for path in sorted(rendered, key=lambda item: item.encode("utf-8")):
         target = root.joinpath(*PurePosixPath(path).parts)
@@ -386,7 +388,6 @@ def write_outputs(root: Path, snapshot: GitSnapshot, rendered: Mapping[str, str]
         atomic_write_text(target, rendered[path])
         changed.append(path)
     stale = {path for path in snapshot.entries if path.startswith(CHARACTER_INDEX_PAGE_PREFIX)}
-    page_directory = root.joinpath(*PurePosixPath(CHARACTER_INDEX_PAGE_PREFIX).parts)
     if page_directory.is_dir():
         stale.update(CHARACTER_INDEX_PAGE_PREFIX + item.name for item in page_directory.iterdir())
     for path in sorted(stale - set(rendered), key=lambda item: item.encode("utf-8")):
