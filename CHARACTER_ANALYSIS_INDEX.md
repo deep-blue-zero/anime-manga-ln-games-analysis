@@ -35,6 +35,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`ntr-netsuzou-trap`](characters/index/ntr-netsuzou-trap.md) | 4 |
 | [`one-punch-man`](characters/index/one-punch-man.md) | 4 |
 | [`oreimo`](characters/index/oreimo.md) | 8 |
+| [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
 | [`re-zero`](characters/index/re-zero.md) | 17 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
@@ -50,6 +51,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`tomozaki`](characters/index/tomozaki.md) | 7 |
 | [`watayuri`](characters/index/watayuri.md) | 7 |
 | [`wuthering-waves`](characters/index/wuthering-waves.md) | 6 |
+| [`yuru-camp`](characters/index/yuru-camp.md) | 5 |
 
 ## Reviewed subjects
 
@@ -195,6 +197,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Igawa Aoi](characters/index/idoly-pride.md#igawa-aoi) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:igawa-aoi@v2-cross-media` | — |
 | [Iida Tenya](characters/index/my-hero-academia.md#iida-tenya) | My Hero Academia manga | `my-hero-academia:iida-tenya@manga` | — |
 | [Ikumi Mito](characters/index/shokugeki-no-soma.md#ikumi-mito) | Shokugeki no Soma manga | `shokugeki-no-soma:ikumi-mito@manga` | — |
+| [Inuyama Aoi](characters/index/yuru-camp.md#inuyama-aoi) | Japanese manga | `yuru-camp:inuyama-aoi@manga` | 犬山あおい |
 | [Iris](characters/index/konosuba.md#iris) | Original light-novel continuity, accepted Iris cohort 01 | `konosuba:iris@original-light-novel` | アイリス; イリス |
 | [Ito Momiji](characters/index/shine-post.md#ito-momiji) | SHINE POST television anime | `shine-post:ito-momiji@television-anime` | — |
 | [Itsuki Hashima](characters/index/a-sisters-all-you-need.md#itsuki-hashima) | A Sister's All You Need original light novels through Volume 14 | `a-sisters-all-you-need:itsuki-hashima@original-light-novels` | 羽島伊月 |
@@ -207,6 +210,8 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Jougasaki Rika](characters/index/the-idolmaster.md#jougasaki-rika) | Cinderella Girls mobile games | `the-idolmaster:jougasaki-rika@cinderella-girls-mobile-games` | — |
 | [Julius Juukulius](characters/index/re-zero.md#julius-juukulius) | Re:Zero main light novel | `re-zero:julius-juukulius@light-novel` | ユリウス・ユークリウス |
 | [Jūō Sena](characters/index/the-idolmaster.md#juo-sena) | Gakuen Idolmaster mobile-game Phase-3 core | `the-idolmaster:juo-sena@mobile-game-phase-3-core` | 十王星南 |
+| [Kagamihara Nadeshiko](characters/index/yuru-camp.md#kagamihara-nadeshiko) | Japanese manga | `yuru-camp:kagamihara-nadeshiko@manga` | 各務原なでしこ |
+| [Kairi Okayasu](characters/index/peach-girl.md#okayasu-kairi) | Japanese manga | `peach-girl:okayasu-kairi@manga` | 岡安浬; Okayasu Kairi |
 | [Kaiser director](characters/index/blue-archive.md#kaiser-director) | Blue Archive game | `blue-archive:kaiser-director@game` | — |
 | [Kamishiro Sui](characters/index/tokyo-7th-sisters.md#kamishiro-sui) | Tokyo 7th Sisters game | `tokyo-7th-sisters:kamishiro-sui@game` | — |
 | [kana](characters/index/idoly-pride.md#kana) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:kana@v2-cross-media` | — |
@@ -282,12 +287,14 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Minori](characters/index/project-sekai.md#minori) | Project SEKAI game — MORE MORE JUMP! | `project-sekai:minori@game` | — |
 | [Mio Komatsu](characters/index/shuukura.md#mio-komatsu) | Original Japanese light-novel continuity and author supplements | `shuukura:mio-komatsu@original-light-novel` | 小松澪; Komatsu Mio |
 | [Misaki Nagisa](characters/index/chiramune.md#misaki-nagisa) | Chiramune light novel | `chiramune:misaki-nagisa@light-novel` | — |
+| [Misao](characters/index/peach-girl.md#aki-misao) | Japanese manga | `peach-girl:aki-misao@manga` | 安芸操; 操ちゃん; Aki Misao |
 | [Miyako](characters/index/blue-archive.md#miyako) | Blue Archive game | `blue-archive:miyako@game` | — |
 | [Miyu](characters/index/blue-archive.md#miyu) | Blue Archive game | `blue-archive:miyu@game` | — |
 | [Mizuki](characters/index/project-sekai.md#mizuki) | Project SEKAI game — Nightcord at 25:00 | `project-sekai:mizuki@game` | — |
 | [Mizusawa Takahiro](characters/index/tomozaki.md#mizusawa-takahiro) | Bottom-Tier Character Tomozaki light novel | `tomozaki:mizusawa-takahiro@light-novel` | — |
 | [Moe](characters/index/blue-archive.md#moe) | Blue Archive game | `blue-archive:moe@game` | — |
 | [Momiji Nozomi](characters/index/chiramune.md#momiji-nozomi) | Chiramune light novel | `chiramune:momiji-nozomi@light-novel` | — |
+| [Momo Adachi](characters/index/peach-girl.md#adachi-momo) | Japanese manga | `peach-girl:adachi-momo@manga` | 安達もも; Adachi Momo |
 | [Momoi](characters/index/blue-archive.md#momoi) | Blue Archive game | `blue-archive:momoi@game` | — |
 | [Mutsuki](characters/index/blue-archive.md#mutsuki) | Blue Archive game | `blue-archive:mutsuki@game` | — |
 | [Myne](characters/index/ascendance-of-a-bookworm.md#myne) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:myne@light-novel` | — |
@@ -339,11 +346,14 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Rui](characters/index/project-sekai.md#rui) | Project SEKAI game — Wonderlands×Showtime | `project-sekai:rui@game` | — |
 | [Ruijerd](characters/index/mushoku-tensei.md#ruijerd) | Japanese light-novel continuity | `mushoku-tensei:ruijerd@light-novel` | — |
 | [Ruka Sarashina](characters/index/rent-a-girlfriend.md#ruka-sarashina) | Main manga continuity | `rent-a-girlfriend:ruka-sarashina@manga` | — |
+| [Ryō](characters/index/peach-girl.md#okayasu-ryo) | Japanese manga | `peach-girl:okayasu-ryo@manga` | 岡安涼; Okayasu Ryō |
 | [Ryūen Kakeru](characters/index/classroom-of-the-elite.md#ryuen-kakeru) | Classroom of the Elite original light novels through Year 2 | `classroom-of-the-elite:ryuen-kakeru@original-light-novels-through-year-2` | — |
+| [Sae Kashiwagi](characters/index/peach-girl.md#kashiwagi-sae) | Japanese manga | `peach-girl:kashiwagi-sae@manga` | 柏木沙絵; Kashiwagi Sae |
 | [Saeki Haruko](characters/index/idoly-pride.md#saeki-haruko) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:saeki-haruko@v2-cross-media` | — |
 | [Saeki Hina](characters/index/tokyo-7th-sisters.md#saeki-hina) | Tokyo 7th Sisters game | `tokyo-7th-sisters:saeki-hina@game` | — |
 | [Saiba Asahi](characters/index/shokugeki-no-soma.md#saiba-asahi) | Shokugeki no Soma manga | `shokugeki-no-soma:saiba-asahi@manga` | — |
 | [Saitama](characters/index/one-punch-man.md#saitama) | One Punch Man manga | `one-punch-man:saitama@manga` | — |
+| [Saitō Ena](characters/index/yuru-camp.md#saito-ena) | Japanese manga | `yuru-camp:saito-ena@manga` | 斉藤恵那 |
 | [Sakayanagi Arisu](characters/index/classroom-of-the-elite.md#sakayanagi-arisu) | Classroom of the Elite original light novels through Year 2 | `classroom-of-the-elite:sakayanagi-arisu@original-light-novels-through-year-2` | — |
 | [Saki](characters/index/blue-archive.md#saki) | Blue Archive game | `blue-archive:saki@game` | — |
 | [Saki](characters/index/project-sekai.md#saki) | Project SEKAI game — Leo/need | `project-sekai:saki@game` | — |
@@ -364,6 +374,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Shiden Iida](characters/index/86-eighty-six.md#shiden-iida) | 86 - Eighty-Six original light novels | `86-eighty-six:shiden-iida@original-light-novels` | シデン・イーダ |
 | [Shigaraki Tomura](characters/index/my-hero-academia.md#shigaraki-tomura) | My Hero Academia manga | `my-hero-academia:shigaraki-tomura@manga` | — |
 | [Shiho](characters/index/project-sekai.md#shiho) | Project SEKAI game — Leo/need | `project-sekai:shiho@game` | — |
+| [Shima Rin](characters/index/yuru-camp.md#shima-rin) | Japanese manga | `yuru-camp:shima-rin@manga` | 志摩リン |
 | [Shinei Nouzen](characters/index/86-eighty-six.md#shinei-nouzen) | 86 - Eighty-Six original light novels | `86-eighty-six:shinei-nouzen@original-light-novels` | シンエイ・ノウゼン |
 | [Shinobu Oshino](characters/index/monogatari-series.md#shinobu-oshino) | Monogatari Series original light novels | `monogatari-series:shinobu-oshino@original-light-novels` | Kiss-Shot Acerola-Orion Heart-Under-Blade |
 | [Shinomiya Kōjirō](characters/index/shokugeki-no-soma.md#shinomiya-kojiro) | Shokugeki no Soma manga | `shokugeki-no-soma:shinomiya-kojiro@manga` | — |
@@ -412,6 +423,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Tuan Kirie](characters/index/harmony.md#tuan-kirie) | Original novel, bounded comparative ethics | `harmony:tuan-kirie@original-novel` | — |
 | [Tuuli](characters/index/ascendance-of-a-bookworm.md#tuuli) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:tuuli@light-novel` | — |
 | [Twice / Bubaigawara Jin](characters/index/my-hero-academia.md#bubaigawara-jin) | My Hero Academia manga | `my-hero-academia:bubaigawara-jin@manga` | — |
+| [Tōji](characters/index/peach-girl.md#tojigamori-kazuya) | Japanese manga | `peach-girl:tojigamori-kazuya@manga` | とーじ; カズヤ; 東寺ヶ森; Tōjigamori |
 | [Umi](characters/index/rent-a-girlfriend.md#umi) | Main manga continuity | `rent-a-girlfriend:umi@manga` | — |
 | [Uraraka Ochako](characters/index/my-hero-academia.md#uraraka-ochako) | My Hero Academia manga | `my-hero-academia:uraraka-ochako@manga` | — |
 | [Usuta Sumire](characters/index/tokyo-7th-sisters.md#usuta-sumire) | Tokyo 7th Sisters game | `tokyo-7th-sisters:usuta-sumire@game` | — |
@@ -441,6 +453,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Yuzu](characters/index/blue-archive.md#yuzu) | Blue Archive game | `blue-archive:yuzu@game` | — |
 | [Yuzuki Nanase](characters/index/chiramune.md#yuzuki-nanase) | Chiramune light novel | `chiramune:yuzuki-nanase@light-novel` | — |
 | [Zanoba](characters/index/mushoku-tensei.md#zanoba) | Japanese light-novel continuity | `mushoku-tensei:zanoba@light-novel` | — |
+| [Ōgaki Chiaki](characters/index/yuru-camp.md#ogaki-chiaki) | Japanese manga | `yuru-camp:ogaki-chiaki@manga` | 大垣千明 |
 | [ターシャ・ロマノフスキー](characters/index/tokyo-7th-sisters.md#tasha-romanovsky) | Tokyo 7th Sisters game | `tokyo-7th-sisters:tasha-romanovsky@game` | — |
 | [上杉・ウエバス・キョーコ](characters/index/tokyo-7th-sisters.md#uesugi-uebasu-kyoko) | Tokyo 7th Sisters game | `tokyo-7th-sisters:uesugi-uebasu-kyoko@game` | — |
 | [六咲コニー](characters/index/tokyo-7th-sisters.md#rokusaki-coney) | Tokyo 7th Sisters game | `tokyo-7th-sisters:rokusaki-coney@game` | — |
