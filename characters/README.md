@@ -1,14 +1,14 @@
 # Character analytical discovery
 
-`characters/registry.jsonl` is the canonical structured source for the generated root `CHARACTER_ANALYSIS_INDEX.md`. One nonblank JSONL line is one schema-v2 **analysis subject**. The Markdown index is a deterministic discovery view and must never be edited as independent authority.
+The namespace partitions `characters/registry/<namespace>.jsonl` together form the canonical structured discovery registry and the source for the generated root `CHARACTER_ANALYSIS_INDEX.md` and its namespace pages under `characters/index/`. One JSONL line is one schema-v2 **analysis subject**. The Markdown index is a deterministic discovery view and must never be edited as independent authority. [Registry storage](#registry-storage) specifies the layout.
 
-At the 2026-09-04 comprehensive audit checkpoint, the production discovery registry contained 162 reviewed subjects across 25 analytical series/study scopes; 120 had dedicated evidence and 42 qualified through distributed substantial analysis. That audit added 128 subjects after reviewing all 40 registered series roots, including previously undiscoverable character-profile, character-core, monograph, longitudinal-ledger, shared-monograph, and explicitly high-readiness distributed work. The complete per-series disposition and the deliberately excluded or blocked scopes are recorded in `governance/reports/CHARACTER_REGISTRY_COMPREHENSIVE_AUDIT_2026-09-04.md`. Those figures describe that checkpoint and are not maintained; the live population is the set of `INCLUDED` rows in `registry.jsonl`, rendered by the generated `../CHARACTER_ANALYSIS_INDEX.md`. Reconstruction capability is a separate layer; its production registry is active but holds no published assessment.
+At the 2026-09-04 comprehensive audit checkpoint, the production discovery registry contained 162 reviewed subjects across 25 analytical series/study scopes; 120 had dedicated evidence and 42 qualified through distributed substantial analysis. That audit added 128 subjects after reviewing all 40 registered series roots, including previously undiscoverable character-profile, character-core, monograph, longitudinal-ledger, shared-monograph, and explicitly high-readiness distributed work. The complete per-series disposition and the deliberately excluded or blocked scopes are recorded in `governance/reports/CHARACTER_REGISTRY_COMPREHENSIVE_AUDIT_2026-09-04.md`. Those figures describe that checkpoint and are not maintained; the live population is the set of `INCLUDED` rows in the registry partitions, rendered by the generated `../CHARACTER_ANALYSIS_INDEX.md`. Reconstruction capability is a separate layer; its production registry is active but holds no published assessment.
 
 ## Maintenance ownership
 
 The owner-authorized cloud curation agent exclusively curates this registry and invokes the deterministic generator for the root index. The daily main-only review, reusable `character-registry` branch, checked automatic integration, and coordinated pre-merge repairs are governed by [Character discovery maintenance](../governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md).
 
-GitHub Actions independently validates both files. Global index housekeeping cannot write them or replay series-local character upserts. New discovery may lag until the next agent run; existing references and the generated index must remain valid at integration. The owner configures the scheduled task separately.
+GitHub Actions independently validates the registry and the generated index. Global index housekeeping cannot write them or replay series-local character upserts. New discovery may lag until the next agent run; existing references and the generated index must remain valid at integration. The owner configures the scheduled task separately.
 
 ## What this registry answers
 
@@ -23,7 +23,7 @@ Substantive monographs and analyses remain in their canonical homes:
 ```text
 series-specific analysis                    -> series/<stable-slug>/
 cross-series or taxonomy study              -> studies/<stable-slug>/
-character discovery metadata                -> characters/registry.jsonl
+character discovery metadata                -> characters/registry/<namespace>.jsonl
 reconstruction capability metadata          -> characters/reconstruction_capabilities.jsonl
 ```
 
@@ -53,6 +53,24 @@ COMPOSITE_MODEL
 ```
 
 Temporary moods, costumes, ordinary chapter boundaries, and normal character development do not automatically create new subjects. Create a subject only when the evidence or analytical constraints require a stable, separately scoped model.
+
+## Registry storage
+
+The registry is one logical registry stored as one JSONL partition per ID namespace, with a generated view to match:
+
+```text
+characters/registry/<namespace>.jsonl   curated rows, one partition per namespace
+CHARACTER_ANALYSIS_INDEX.md             generated root index, one table row per reviewed subject
+characters/index/<namespace>.md         generated namespace page: aliases, scope, coverage and evidence
+```
+
+- A row's partition is fixed by its namespace, the part of `character_entity_id` before `:`. Every row of an entity, and every composite with its leaves, is therefore in the same partition, and each row has exactly one location. A franchise namespace holds every series in that franchise; for example, `the-idolmaster.jsonl` holds three series.
+- Within a partition, rows are in strictly ascending ASCII `analysis_subject_id` order, one row per line, with no blank lines and a final LF. A partition left with no rows is deleted.
+- Identity, alias, composite, evidence and coverage rules, and the uniqueness of `analysis_subject_id`, are validated over the whole logical registry, never one file at a time.
+- `python tools/character_registry.py normalize` moves worktree rows into their partitions in canonical order without changing a byte of any row. `replay --base <commit> --head <commit>` applies the rows changed between two commits, in either layout, to the worktree partitions; the discovery policy uses it to carry curation across the migration. `python tools/character_registry.py export --snapshot index`, or `--snapshot commit --commit <sha>`, prints the whole logical registry as one JSONL stream for a consumer or a comparison. The export is a view and is never committed.
+- Tools read the registry only through `read_discovery_registry` in `tools/character_index_core.py`.
+
+The single file `characters/registry.jsonl` was retired on 2026-10-24 when it neared the 1 MiB review threshold; the migration moved every row byte for byte. Current snapshots reject that file. Commits from before the migration, such as reconstruction basis commits, are still read in the old layout. If one namespace partition ever approaches 1 MiB, splitting it further needs a reviewed tooling change; never raise the threshold or add a named size exception for a living registry file.
 
 ## Composite subjects
 
@@ -186,11 +204,11 @@ All v2 implementations use canonicalization profile `CHARACTER_INDEX_V2_C14N_1`:
 - no locale-sensitive sorting or implicit trimming; and
 - UTF-8 without BOM and LF-only generated output.
 
-Define `fold(s) = NFC(full-default-case-fold(NFC(s)))` and `sort_key(s) = (UTF8(fold(s)), UTF8(NFC(s)))`. Character rows sort by preferred name, subject label, then ASCII subject ID. Alias, evidence, coverage, and diagnostic ordering is fixed in the schema specification and validator. A mismatched Unicode-data version fails; it is never accepted silently.
+Define `fold(s) = NFC(full-default-case-fold(NFC(s)))` and `sort_key(s) = (UTF8(fold(s)), UTF8(NFC(s)))`. Character rows sort by preferred name, subject label, then ASCII subject ID, both in the root index and within each namespace page. Alias, evidence, coverage, and diagnostic ordering is fixed in the schema specification and validator. The generator writes the root index and exactly one page per namespace with an `INCLUDED` row, and removes any other page. A mismatched Unicode-data version fails; it is never accepted silently.
 
 ## Illustrative identity excerpts
 
-These deliberately incomplete excerpts explain identity only. They are not valid full registry rows and must not be copied into `registry.jsonl` without all required schema-v2 fields and review.
+These deliberately incomplete excerpts explain identity only. They are not valid full registry rows and must not be copied into a registry partition without all required schema-v2 fields and review.
 
 ### 1. Ordinary single-continuity anime subject
 
@@ -277,7 +295,7 @@ Both rows share the same `preferred_name`, entity aliases, franchise, and namesp
 ]
 ```
 
-These identifiers mirror the complete reviewed records in `registry.jsonl`; the records point to the Mass Effect comparative-study monographs and are Git-primary within authority epoch 1.
+These identifiers mirror the complete reviewed records in `registry/mass-effect.jsonl`; the records point to the Mass Effect comparative-study monographs and are Git-primary within authority epoch 1.
 
 ### 6. Same-series composite
 

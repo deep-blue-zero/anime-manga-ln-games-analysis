@@ -53,10 +53,10 @@
     },
     {
       "id": "character-discovery",
-      "description": "The global character index is a deterministic projection of the character registry and qualifying evidence.",
+      "description": "The global character index and its namespace pages are a deterministic projection of the character registry partitions and qualifying evidence.",
       "trigger": {
-        "kind": "path_changed",
-        "path": "characters/registry.jsonl"
+        "kind": "path_prefix_changed",
+        "prefix": "characters/registry/"
       },
       "required_outputs": [
         "CHARACTER_ANALYSIS_INDEX.md"
