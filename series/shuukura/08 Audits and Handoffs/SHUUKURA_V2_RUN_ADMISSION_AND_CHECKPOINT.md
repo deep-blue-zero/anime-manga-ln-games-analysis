@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.46"
+version: "1.47"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Frozen I1 plus five accepted BW bonuses; LN01–09,23 supplements and KAK-JP-E0001–E0019 through whole transactions; E0020+ unread, main LN10/E0432+/premature V1 excluded"
+source_boundary: "Original I1 and five BW additions retained; accepted LN01–09,23 supplements and KAK-JP-E0001–E0019; LN-JP-V10 separately authorized at metadata-only admission; E0020+ original work paused; E0432+/automatic releases/premature V1 excluded"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: E0019_COMPLETE_SOURCE_CORRESPONDENCE_AND_CUMULATIVE_REVIEW
+review_status: LN10_METADATA_ADMISSION_ONLY_NO_NARRATIVE_INSPECTION
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,6 +19,8 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Run admission and checkpoint
+
+The dated [bounded main LN10 admission](#bounded-main-ln10-admission--2026-10-24) records the sole new current operation, adopting unchanged method/architecture procedures for one source. Original I1/E0020+ stays paused. No narrative coverage is conferred; earlier checkpoints remain history.
 
 The [current entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) owns operational state. The [source inventory](../00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY.md#authorized-execution-freeze-i1-and-admission-disposition) owns source decisions and binds exact I1 identities. This record preserves admission evidence and recoverable checkpoints; it supplies no literary conclusions.
 
@@ -1701,3 +1703,19 @@ After genuine E19 entry and Q1, an attributed private E18 handoff successor corr
 The preceding actual E18 source passed owner-push run **40099590510**, attempt1, with **459tests / 9600paths**, successful jobs and trusted required-context status **57165396576**, followed by independent/root publication acceptance. That source green does not certify protected-main integration or E19. This unit still requires actual final whole-nine acceptance, staged INDEX validation, atomic commit, normal push/full remote readback and its own successful published-head audit. All18forecasts,13historical attempts, failures, ties, exposure limits, noncurrent UNTESTED M0.13/S0.14 and zero newly validated domains remain unchanged.
 
 The [current E19 reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0019_DEEP_READING.md#recoverable-observation-and-actor-clock-record) and transaction audit retain the original source, observations, actor clocks, lineages and review boundaries. E0020is the next narrative only after the whole E19 introducing commit. At the owner's request, execution pauses after E19's verified upstream publication. E0020 and all original dependent I1 stages remain unfinished and require owner resumption before further execution. G3–G7, Narō290 correspondence duties,27discovery duties and unresolved supplemental gaps remain unfinished. MainLN10, E0432+/automatic releases and premature V1 stay excluded. Both OFF archives stay local.
+
+## Bounded main LN10 admission — 2026-10-24
+
+The newest owner instruction is: “V10 has been added to the sources and needs to have a deep reading done.” It authorizes **one complete LN-JP-V10 transaction**. Current mode=`single_operation`, unit type=`volume`, authorized_start=terminal_boundary=next_permitted_operation=next_candidate_operation=`LN-JP-V10`, run_state=`active`, foundation OPEN. The full earlier continuous I1 run remains under `paused_original_i1_execution`, interrupted at **KAK-JP-E0019**; E0020+ and all original dependent stages stay paused. The scoped LN entering high-water is LN-JP-V09, beside the preserved WEB E19 boundary. No routine approval stage is added.
+
+[Admission inventory](../00%20Frameworks%20and%20Methods/SHUUKURA_V2_LN10_ADMISSION_INVENTORY_20261024_A1.json), ID `SHUUKURA-V2-LN10-20261024-A1`, binds the supplied Japanese EPUB: **12,106,996 bytes / SHA-256 `80e1c8ad88eeeecc61dc8ab6d19072121ab46b9c5b5c14bd7137894c69556640`**. Root intake receipt `SOURCE_STRUCTURE_METADATA_A1.json` is **21,509 bytes / SHA-256 `5919bd7b36d18e2bb1cc3f50eacea63b9240b07a6bb4be1c506a01b9d55e59c8`**. Independent metadata inspection agrees on the hash, 31 spine components, 4,405 p elements, 23 images, clean ZIP CRC and `ja`. Neither observer inspected LN10 narrative, chapter/navigation labels or illustrations for this record. The independent reviewer encountered historical LN01–09 component-title metadata in the existing inventory; that exposure is recorded privately and creates no LN10 claim.
+
+All 31 components are compulsory; fiction/interlude/internal-extra versus paratext/image roles remain pending actual spine-order inspection. The private native locator manifest `LN-JP-V10_native_locator_manifest_A1.json` is 5,404,354 bytes / SHA-256 `4b9a714e9bfd2bc57df3dad3bd79c9aaaf0fe850c0a5e3b8567787745185f898`: all 4,405 p fragments, 4,324 meaningful p and 4,428 ordered paragraph/image events map to original byte/character slices with root-verified native-tree equality. It contains primary fragments and stays outside Git; its deterministic validation earns no reading credit. Entering input snapshot `COMPLETE_ENTERING_INPUTS.json` is 10,491 bytes / SHA-256 `def4ea611ee3cd5059e07422ac1991f2ed61869ab34a1844edcc0158c3830473`, binding 15 complete inputs at the actual b44 base. Root read accepted LN09 main analysis and all of BW10; the original LN09 journal was not reread. The entering freeze inherits that actual prior/cumulative exposure and claims no fresh blind volume context or held-out score for already exposed outcomes. The prospective entering freeze, rendered-language/colophon checks and direct image inspection remain source-reading duties. Source/extraction payloads, images and private paths stay outside Git. Exact acquired-witness admission does not claim unchanged retail binaries or proved conversion lineage.
+
+This current successor/addendum supersedes only the former main LN10 exclusion and I1-only applicability for one source; existing method/architecture procedures apply unchanged. Original I1 and the BW addendum stay byte-identical. Accounting is **52 admitted / 51 complete**, **51/464 combined**, **46/458 I1**, **51/463 pre-LN10**, LN10 **0/1**. BW-JP-V10 is a different bonus. No gap, model readiness, held-out score or literary coverage advances in this tranche.
+
+Publication has two real phases: first publish this metadata-only active admission with no new reading and obtain its actual-head audit and protected-main integration. The later complete LN10 transaction may then record `completed` and both `NONE_LN10_RUN_COMPLETE` fields, preserving mode/start/terminal and setting its scoped high-water to LN-JP-V10. It requires all nine atomic paths: reading and audit; four current logical-ledger files (disclosure continuation with its unchanged master); and map, inventory and this checkpoint. The new frozen addendum is then an unchanged dependency.
+
+If main still records interrupted I1, a completed candidate introducing LN10 fails ordinary admission; a completed-run-publication proof cannot bypass interrupted main. Wait for active LN10 admission integration, or publish admission only while the run is truthfully active and record completion after acceptance. Never relabel an already completed run, alter comparison refs, weaken controls or claim a future audit. This proposed metadata stage still requires final staged INDEX preflight, exact diff review, normal push, full readback, actual-head audit and integration.
+
+After whole-transaction/publication acceptance, retain the OPEN foundation, record the scoped run completed with both next fields NONE_LN10_RUN_COMPLETE, and stop. Original I1 stays interrupted at E19; E0020+ and G3–G7 are not resumed. This is not the original I1 terminal boundary or a verified series ending, and needs no global terminal-closure amendment.
