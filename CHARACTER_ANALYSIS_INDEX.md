@@ -3037,7 +3037,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic and developmental interpretation in the provisional character study through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows the study's material episodes and stated evidence gaps; it does not assert uniform substantial analysis in every volume, mature synthesis, or later/adaptation coverage.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
-  - [`provisional-character-study` — Izumi Yuzu provisional character study](series/tomozaki/04%20Character%20Analysis/Izumi%20Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`provisional-character-study` — Izumi Yuzu provisional character study](series/tomozaki/04%20Character%20Analysis/Izumi%20Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md)
 
 ### Jean Kirstein
 
@@ -4880,7 +4880,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic and developmental interpretation in the provisional character study through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows the study's material episodes and stated evidence gaps; it does not assert uniform substantial analysis in every volume, mature synthesis, or later/adaptation coverage.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
-  - [`provisional-character-study` — Mizusawa Takahiro provisional character study](series/tomozaki/04%20Character%20Analysis/Mizusawa%20Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`provisional-character-study` — Mizusawa Takahiro provisional character study](series/tomozaki/04%20Character%20Analysis/Mizusawa%20Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md)
 
 ### Moe
 
@@ -5266,7 +5266,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic and developmental interpretation in the provisional character study through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows the study's material episodes and stated evidence gaps; it does not assert uniform substantial analysis in every volume, mature synthesis, or later/adaptation coverage.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
-  - [`provisional-character-study` — Natsubayashi Hanabi provisional character study](series/tomozaki/04%20Character%20Analysis/Natsubayashi%20Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`provisional-character-study` — Natsubayashi Hanabi provisional character study](series/tomozaki/04%20Character%20Analysis/Natsubayashi%20Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md)
 
 ### Nazuna Ayase
 
