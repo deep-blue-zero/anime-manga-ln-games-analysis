@@ -2003,3 +2003,10 @@ Core/Advanced replays retain Gilbert embellished executive report and damaged cr
 Brad dismisses rank through a prank-based inference and continues to gaze despite Rosary objection. Rosary categorical hostility coexists with practical correction. The leader conceals a celebrity-access aim and corrects her Wiz category error. The small worker pressure on Luna is adverse, her courage is elicited by Vanir pride framing, and her finite-life estimate lacks the narrator full-erasure information. Six original diagnostics retain H01-B other-mind assumption, H02-A unprovided run-demand presupposition and H03-B prior-instruction assurance; no original body or foundation is repaired.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen's explanation of Darkness's repeated dress is corrected by the maternal attachment account. Her confidence in guards has a concrete barrier failure; Megumin's dropped-stone explanation remains conjecture. Darkness is cut off at U021P213, so Karen's knowledge of Kazuma's death before mockery is not established. Six original firsts retain an unprovided exhibition-ownership implication, an unprovided speaker for profitability information and an ambiguous fee-collector role. Those actual defects remain without body repair or a clean success claim.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

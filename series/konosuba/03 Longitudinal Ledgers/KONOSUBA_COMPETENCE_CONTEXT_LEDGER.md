@@ -1550,3 +1550,10 @@ Gilbert Heal/Shield aid coexists with failed exorcism and need for a scroll user
 Brad coordinates complementary spells and actual recovery but misdescribes an interrupted seal and initially accepts the scroll category mistake. Rosary recognition and barrier objection coexist with actual failed exorcism and possession. The leader attempts Charm on a mistaken target; group defense is not her uniquely observed cast. The small worker fetches help and offers delay without a performed victory. Aigis chooses departure; household security, reported acquisition and noble complaint are separate competence planes. No new skill is imported into Lolisa or a principal model.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen arranges work and pays for one kill, but two item uses are prevented and guards arrive behind bars. Her claimed high level does not demonstrate a spell or successful delay. Megumin identifies the manufactured random-summon item; Kazuma supplies the broader business inference. Beat's village experience and Clarice's claimed equipment safety are self-reports, not witnessed combat successes. Guard warnings, duty, capture and later response retain their own role scope and unresolved memberships.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

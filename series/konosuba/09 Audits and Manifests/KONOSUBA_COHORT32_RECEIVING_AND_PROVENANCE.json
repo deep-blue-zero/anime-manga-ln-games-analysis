@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort32.receiving-and-provenance.v1",
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "received_utc": "2026-10-24T09:20:49.568045+00:00",
   "previous_published_source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
   "main_at_receiving": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
@@ -540,5 +540,19 @@
   "global_census_closed": false,
   "global_completion_percentage": null,
   "designated_global_outputs_authored": false,
-  "full_program_complete": false
+  "full_program_complete": false,
+  "publication_resolution": {
+    "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+    "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+    "source_run": 40082421051,
+    "full_discovered_tests": 459,
+    "current_models": 52,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "separate_housekeeping_run": null
+  },
+  "current_gate_qualification": "Original source/diagnostic scope, all 11 canonical core artifacts, 15 frozen private artifacts and six original bodies/receipts remain exact. Author publication is closed; protected-main integration, independent accuracy, grade, confidence gain and the final nine-category battery are not certified."
 }

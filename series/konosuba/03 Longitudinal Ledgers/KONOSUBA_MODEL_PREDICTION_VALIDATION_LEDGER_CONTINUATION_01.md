@@ -575,3 +575,10 @@ Five separately frozen PC models contain 13 rules in 3/2/3/2/3 sets, followed by
 The separately frozen unnamed-worker reconstruction has three asymmetric hypotheses and six unchanged original English firsts in three dependent pairs, all 102–107 words under an 80–140 format contract. Source and contrasts are visible to the same informed author; no external model or independent judge. H01-B other-mind assumption, H02-A unprovided run-demand and H03-B prior-instruction assurance remain, as do source echo and explanatory voice. H03-A supplies misleading framing without a literal false-claim demonstration. R03 ordinary transfer is weak; explicit moral, power and permission cues fit generic replies. No accuracy, grade, confidence gain, body repair or completed final nine-category battery.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen Donnelly has three unequal provisional rules and six unchanged original firsts in three dependent pairs after separate foundation/input/body freezes. H01B adds an exhibition-ownership presupposition; H02B assigns a profitability assurance to an unprovided speaker; H03A blurs the disputed-fee roles. H02 approval in both conditions was explicitly permitted before generation; its probe concerns cost representation rather than a manufactured required cancellation. H03 is a weaker nonsexual analogue with generic fear and explicit cueing. No body repair, independent accuracy, grade, confidence gain or completed final nine-category battery follows.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

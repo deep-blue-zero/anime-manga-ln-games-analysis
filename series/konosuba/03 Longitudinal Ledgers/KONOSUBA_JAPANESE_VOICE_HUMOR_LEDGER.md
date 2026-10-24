@@ -1996,3 +1996,10 @@ Native スズキ・チホ/チホ governs both books; older Chio is derivative er
 ブラッド and ロザリー govern project retrieval names; P47/P49 identify occupations, not levels. Brad rough correction, Rosary prayer/protest and each worker deferential requests have different purposes. Compelled speech through Rosary is Vanir speech, while host resistance and no-looking request are hers. The leader つまらない物 repair depends on gift pragmatics. Small-worker customer address, fan pressure and whispered plea differ; later untagged pair lines remain joint. Six English methodological firsts do not validate Japanese voice, audio or human recognition.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen's カレンと申します at U021P28, 従業員に代わり at P54 and お金を生み出す at P476 have distinct self-presentation, representative-apology and commercial-redefinition functions. Beat's self-name and level-four reassurance differ from Clarice's level-two/equipment/name compliment, explicitly attached at CONTEXP02U020P104. P112–113 exclamations stay unassigned. The payment sentence attributed to クレイン is a note read by Cecily, not a heard personal voice. アーシェア is the complete native name; アーシェ was a prefix lead. Six polished English probes do not validate Japanese or audio.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

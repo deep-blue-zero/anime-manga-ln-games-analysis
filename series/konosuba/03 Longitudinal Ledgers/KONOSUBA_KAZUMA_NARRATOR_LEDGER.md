@@ -1466,3 +1466,10 @@ The TRPG edited narrator, GM/PC/player voices, reported diaries/wills and direct
 MAIN02 Kazuma mistaken dream appraisal and the party manipulation theory do not show a service or Charm performed by the captured smaller visitor. The receptionist advertisement, Dust safety account, visitor apology and Kazuma actual interposition have different owners. MASK human-Wiz recollection and Vanir private narration are separate from Kazuma. No private full-erasure warning is silently supplied to the small worker, and no new current principal-model accuracy or repaired forecast follows.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+The CONTEXP01 final episode uses Kazuma's narration after an explicit post-Elroad interval. His business assembly at U021P478–479 differs from Karen's own profit speech and Megumin's technical identification. Earlier artifact suspicion and portable-house explanation are hypotheses. Megumin's rescue report and no-damage denial, Karen's representative apology and actual one-kill payment retain their owners. No private afterlife, fatality or plan knowledge is automatically assigned to Karen. Shelf accident and court outcome remain unperformed or conjectured at their own scopes.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

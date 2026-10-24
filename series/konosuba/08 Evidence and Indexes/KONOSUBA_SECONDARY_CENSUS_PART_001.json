@@ -899,6 +899,35 @@
         "full_program_complete": false
       },
       "cohort32_qualified_scope_route": {
+        "status": "EXACT_SOURCE_AUTHOR_PUBLICATION_CLOSED_SCOPED_NONFINAL",
+        "related_existing_row": 132,
+        "identity": "MAIN02/MASK event-based worker scope; DUST Lolisa personal-name join unresolved.",
+        "rule_support": "Frozen Lolisa model, monograph, evidence and firsts unchanged. MASK not imported into Lolisa individual support.",
+        "artifacts": [
+          "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
+          "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
+          "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MASK_SMALL_SUCCUBUS_RECONSTRUCTION_MODEL.md"
+        ],
+        "publication_resolution": {
+          "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+          "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+          "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+          "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+          "source_run": 40082421051,
+          "full_discovered_tests": 459,
+          "current_models": 52,
+          "author_publication_tranche_complete": true,
+          "main_integration_not_certified_by_author_gate": true,
+          "no_independent_accuracy_grade_or_confidence_gain": true,
+          "separate_housekeeping_run": null
+        }
+      },
+      "cohort32_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json"
+      ],
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_scope_route_before_publication": {
         "status": "SEMANTIC_ROUTE_RECEIVED_EXACT_PUBLICATION_PENDING",
         "related_existing_row": 132,
         "identity": "MAIN02/MASK event-based worker scope; DUST Lolisa personal-name join unresolved.",
@@ -909,11 +938,19 @@
           "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MASK_SMALL_SUCCUBUS_RECONSTRUCTION_MODEL.md"
         ]
       },
-      "cohort32_artifacts": [
-        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
-        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json"
-      ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Rionor",
@@ -2357,26 +2394,80 @@
       }
     },
     {
-      "character": "Beat",
-      "identity": "Distinct audit subject split from Beat / Clarice; exact native identity and actor-specific attribution controlled by cited sources.",
-      "likely_tier": "Unassigned; individual evidence review due",
-      "priority": "Discovery",
-      "evidence_distribution": "CONTEXP01/02 reports.",
-      "substantive_responsibility": "Separate individual audit required; no shared personality or inherited attribution of the paired actor actions.",
-      "gaps": "Inspect and attribute this individual actual choices, short native voice, knowledge and consequences before final tier. Original grouped row retained exactly in historical_split_discovery_groups.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
+      "character": "Beat / ビート",
+      "identity": "Native ビート, self-introduced with Clarice at CONTEXP02U020P90. Ordered warrior/priest list suggests a mapping without individually tagging both occupations.",
+      "likely_tier": "1 scoped; individual compact profile; exact publication pending",
+      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "CONTEXP02 U020P87–124,128–132 within current complete P1–145 base/ruby context. All41 literal name retrieval supplies one Beat paragraph lead, not alias absence proof.",
+      "substantive_responsibility": "Own self-introduction and male-form level-four/village-experience reassurance distinguish Beat from Clarice. He welcomes a nervous potential member and joins the retreat after advanced-status disclosure. Yunyun wanted the offered company.",
+      "gaps": "No onstage completed hunt or measured combat ability; experience is self-report. P112–113 exclamations unassigned; some turns use grammatical/two-person inference. No stable cowardice, malice, fixed personality, independent reliability or separate model.",
+      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_cohort33_current_fields": {
+        "character": "Beat",
+        "identity": "Distinct audit subject split from Beat / Clarice; exact native identity and actor-specific attribution controlled by cited sources.",
+        "likely_tier": "Unassigned; individual evidence review due",
+        "evidence_distribution": "CONTEXP01/02 reports.",
+        "substantive_responsibility": "Separate individual audit required; no shared personality or inherited attribution of the paired actor actions.",
+        "gaps": "Inspect and attribute this individual actual choices, short native voice, knowledge and consequences before final tier. Original grouped row retained exactly in historical_split_discovery_groups.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort33_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
+      ],
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d",
+      "cohort33_scope_assessment": {
+        "row": 41,
+        "character": "Beat / ビート",
+        "tier": 1,
+        "artifacts": [
+          "individual compact profile"
+        ],
+        "reason": "Self-introduction, personal experience/level claim, active reassurance and changed response to status information support an individual interaction account. No repeated context or distinctive stable mechanism sufficient for a separate model; exact reaction-line mapping qualified."
+      },
+      "cohort33_current_qualifications": "Source-known scoped reconstruction. Current C33 artifacts govern; prior fields retain dated history. Source roles/groups are not disjoint people; no independent grade, accuracy, confidence gain, final model maturity or global census closure."
     },
     {
-      "character": "Clarice",
-      "identity": "Distinct audit subject split from Beat / Clarice; exact native identity and actor-specific attribution controlled by cited sources.",
-      "likely_tier": "Unassigned; individual evidence review due",
-      "priority": "Discovery",
-      "evidence_distribution": "CONTEXP01/02 reports.",
-      "substantive_responsibility": "Separate individual audit required; no shared personality or inherited attribution of the paired actor actions.",
-      "gaps": "Inspect and attribute this individual actual choices, short native voice, knowledge and consequences before final tier. Original grouped row retained exactly in historical_split_discovery_groups.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
+      "character": "Clarice / クラリス",
+      "identity": "Native クラリス named with Beat; P103 name compliment explicitly attached to Clarice at P104. Occupation list remains an ordered contextual inference.",
+      "likely_tier": "1 scoped; individual compact profile; exact publication pending",
+      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "CONTEXP02 U020P90–124 within current complete P1–145 base/ruby context. Two literal Clarice paragraph leads, not an exhaustive identity census.",
+      "substantive_responsibility": "Female-context welcome and party-balance rationale, individually attached name compliment and level-two/chainmail reassurance supply her own interaction. Shared retreat after Megumin disclosure is not proof of an originally insincere invitation.",
+      "gaps": "Equipment safety and experience are claims, not a demonstrated frog victory. Untagged reaction lines stay unassigned; no invented friendship outcome, private motive, measured competence or separate generative model.",
+      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_cohort33_current_fields": {
+        "character": "Clarice",
+        "identity": "Distinct audit subject split from Beat / Clarice; exact native identity and actor-specific attribution controlled by cited sources.",
+        "likely_tier": "Unassigned; individual evidence review due",
+        "evidence_distribution": "CONTEXP01/02 reports.",
+        "substantive_responsibility": "Separate individual audit required; no shared personality or inherited attribution of the paired actor actions.",
+        "gaps": "Inspect and attribute this individual actual choices, short native voice, knowledge and consequences before final tier. Original grouped row retained exactly in historical_split_discovery_groups.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort33_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
+      ],
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d",
+      "cohort33_scope_assessment": {
+        "row": 42,
+        "character": "Clarice / クラリス",
+        "tier": 1,
+        "artifacts": [
+          "individual compact profile"
+        ],
+        "reason": "Welcome/party-balance invitation, explicitly attached name compliment, equipment/level reassurance and withdrawal in the shared scene supply a useful bounded profile. Does not inherit all male turns or every paired reaction; no invented inner life or model."
+      },
+      "cohort33_current_qualifications": "Source-known scoped reconstruction. Current C33 artifacts govern; prior fields retain dated history. Source roles/groups are not disjoint people; no independent grade, accuracy, confidence gain, final model maturity or global census closure."
     },
     {
       "character": "Horst / Hoost retrieval variant",
@@ -3177,12 +3268,12 @@
     {
       "character": "Brad",
       "identity": "ブラッド; Brad is the project retrieval label. Swordmaster at U021P47; the locator is not numerical level 47.",
-      "likely_tier": "2 scoped; twelve-dimension monograph without a separate model; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "2 scoped; twelve-dimension monograph without a separate model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U021P1–556 and U023P1–27 currently received in complete P/base/ruby; human-Wiz recollection, Vanir account and present reports distinguished. All 41 technical name retrieval adds no second Brad scene from bloodfang/bloodstone false matches.",
       "substantive_responsibility": "Treasure insistence, power-sensitive restraint, coordinated tactical adjustment, distress at compelled speech and actual recovery distinguish Brad. Carrying Rosary coexists with his gaze despite her explicit objection; no unqualified protective-gentleman account.",
       "gaps": "Reward ordering and ordinary choices outside the repeated party contest remain underidentified. Vanir romantic claim is attributed; Brad denies Rosary as target without naming another. No confirmed reunion identity, marriage, parentage, personal fate, independent accuracy or final maturity.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_cohort32_current_fields": {
         "identity": "ブラッド; nativeSwordmaster47,Englishnormalizationtentative",
@@ -3209,17 +3300,35 @@
         ],
         "reason": "Dense repeated human-Wiz history distinguishes treasure persistence, power-sensitive restraint, tactical adjustment, actual recovery, attraction and embarrassing vulnerability. Broader reward ordering, free ordinary choices and motives outside the party contest remain underidentified; generic fighter/ally roles fit much of the same conduct. No model invented from one chest choice or another actor romantic claim."
       },
-      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure."
+      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure.",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "2 scoped; twelve-dimension monograph without a separate model; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Rosary",
       "identity": "ロザリー; Rosary is the project retrieval label. Archpriest at U021P49, later called high level; no numerical level or automatic capital-priest identity.",
-      "likely_tier": "2 scoped; twelve-dimension monograph without a separate model; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "2 scoped; twelve-dimension monograph without a separate model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U021P1–556 and U023P1–27 currently received in complete P/base/ruby; own speech/resistance, compelled Vanir utterances and later report owners distinguished.",
       "substantive_responsibility": "Faith, withdrawal advice, prepared but interrupted sealing, resisting possession, practical barrier objection and offered loan form an individual portrait. Her limited restraint request and no-looking boundary remain real; Wiz forgiveness is not hers.",
       "gaps": "Catalyst kicked away before activation, not a fully active seal broken. Loan offered rather than transferred; P347 speaker qualified. Clerical role, familiarity and repeated conflict confound rule weights. No named reunion pair, individual last-days choice, completed final model or independent grade.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_cohort32_current_fields": {
         "identity": "ロザリー; nativeArchpriest49,Englishnormalizationtentative",
@@ -3246,17 +3355,35 @@
         ],
         "reason": "Faith, retreat advice, fallible sealing, bodily resistance, practical category correction and a loan offer support an individual interpretation. The source supports much more than a failed-priest label. Stable rule weights outside the prolonged adversarial project and unperformed material cost are insufficiently identified for a distinct current model; no ceiling on later promotion."
       },
-      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure."
+      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure.",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "2 scoped; twelve-dimension monograph without a separate model; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Karen (reported MASK colleague; identity unresolved)",
       "identity": "カレン; reported human-Wiz colleague. No explicit surname bridge to CONTEXP01 Donnelly head Karen.",
-      "likely_tier": "0 scoped; bounded named occurrence/relationship index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded named occurrence/relationship index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U021P143, 159–160, 347 within complete current U021 context; U023 unnamed reunion does not fix identity.",
       "substantive_responsibility": "Mutual-feelings and offscreen battle reports preserve Karen participation and relation to Yukinori without inventing own speech or decisions.",
       "gaps": "Reported relation is not own testimony, marriage, fate or reunion identification. Shared first name neither forces Donnelly merger nor certifies disjoint people. Independent audit of the Donnelly subject remains open.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_cohort32_current_fields": {
         "character": "Karen (MASK party lead; identity unresolved)",
@@ -3284,17 +3411,53 @@
         ],
         "reason": "Named romance/battle reports and intended assistance are useful retrieval evidence, but no own speech/choice or explicit Donnelly bridge is received. Do not turn reported relation into a full personality or force a unique-person split."
       },
-      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure."
+      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure.",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded named occurrence/relationship index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      },
+      "cohort33_Donnelly_scope_route": {
+        "status": "SEMANTIC_ROUTE_RECEIVED_EXACT_PUBLICATION_PENDING",
+        "related_existing_row": 70,
+        "qualification": "Donnelly individual audit is now received at C33 scope. The older C32 gap describes its earlier boundary. MASK Karen support/tier remain unchanged; first-name bridge still unresolved without a certified unique-person split.",
+        "artifacts": [
+          "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
+          "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
+          "series/konosuba/05 Specialist Synthesis/KONOSUBA_KAREN_DONNELLY_CHARACTER_MONOGRAPH.md",
+          "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAREN_DONNELLY_RECONSTRUCTION_MODEL.md"
+        ]
+      },
+      "cohort33_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_KAREN_DONNELLY_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAREN_DONNELLY_RECONSTRUCTION_MODEL.md"
+      ],
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d"
     },
     {
       "character": "Yukinori",
       "identity": "ユキノリ; reported human-Wiz colleague, occupation and private biography unprovided.",
-      "likely_tier": "0 scoped; bounded named occurrence/relationship index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded named occurrence/relationship index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U021P143, 159–160, 347 within complete current U021 context; unnamed epilogue adults remain unjoined.",
       "substantive_responsibility": "Reported mutual feelings with Karen and offscreen participation are indexed. Three people in that contingent leave one unnamed role; the two names are not a complete roster.",
       "gaps": "No own voice, choice, job, completed marriage, family, exact fate or automatic reunion join. Sparse participation does not establish a generative personality.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_cohort32_current_fields": {
         "identity": "ユキノリ; roleunfixed",
@@ -3321,15 +3484,33 @@
         ],
         "reason": "The same reported relationship and offscreen fight supply a named role, not an observed decision mechanism, voice, fate or automatically identified reunion visitor."
       },
-      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure."
+      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure.",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded named occurrence/relationship index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "character": "アンダイン (MAIN08/MASK noble; normalized name unresolved)",
       "identity": "Native アンダイン with supported household/artifact/thief bridge across MAIN08, MASK and CONTEXP01 opening. Andain is a project retrieval rendering; no Alderp/Undine merge.",
-      "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
+      "likely_tier": "1 scoped; compact source-bound profile; exact-source author publication closed; scoped/nonfinal",
       "evidence_distribution": "MASK U019P271–275; MAIN08 text/part0011.html P245–498 and part0013.html P230–513; CONTEXP01 item/xhtml/p-002.xhtml P1–12, all current complete P/base/ruby at those scopes.",
       "substantive_responsibility": "Own guard-contract complaint, property/security investment and accountability demand coexist with household security and Aigis autonomous exit. Chris acquisition claim and expected denial, noble loss report and untagged resident pursuit retain separate owners.",
       "gaps": "No verified illegal transaction, exact asset value, performed negotiation, automatic all-household voice attribution or universal noble motive. First attempted armor removal fails without certifying no other loot was taken; staff groups remain unresolved.",
@@ -3359,15 +3540,33 @@
         ],
         "reason": "Name/household/artifact-thief bridge and actual guard-contract complaint allow bounded property/security/accountability description. Alleged illegal acquisition, predicted denial and inferred incentives stay reports/hypotheses; no independent full personality or other-noble join."
       },
-      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure."
+      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure.",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "character": "Unnamed succubus leader (MASK)",
       "identity": "Explicit leader at MASK U019P10; personal name unprovided. Distinct second small worker; older U017 fan and MAIN02 receptionist joins remain open.",
-      "likely_tier": "2 scoped; twelve-dimension monograph without a separate model; exact publication pending",
+      "likely_tier": "2 scoped; twelve-dimension monograph without a separate model; exact-source author publication closed; scoped/nonfinal",
       "evidence_distribution": "Complete current MASK U019P1–648 and bounded U017P195–277, 420–444, 467–517 in P/base/ruby; individually tagged leader actions distinguished from group/untagged pair speech.",
       "substantive_responsibility": "Gift repair, failed Charm/apology, concealed celebrity-access pitch, renewed material protection request and warnings for Vanir to flee form a dense individual arc. Commercial interest, admiration, hierarchy, fear and reciprocal concern coexist.",
       "gaps": "Do not borrow worker help-fetching, pride answer, whispered plea or remaining-life offer. Five-hundred-year instruction is not age; no unique group fight or every later paired line assigned to leader. Broader individual decision branches and causal weights insufficiently identified for a current model.",
@@ -3396,7 +3595,25 @@
         ],
         "reason": "Gift/Charm/apology, concealed celebrity-access pitch, work threat, renewed request and reciprocal warning supply a dense revealing arc. Do not import the second worker own decisions or certify older-U017-fan continuity. Admiration, commercial dependence, hierarchy and survival remain confounded; broader generation lacks enough differentiated individual branches."
       },
-      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure."
+      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure.",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "2 scoped; twelve-dimension monograph without a separate model; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "priority": "Discovery",
@@ -3459,14 +3676,54 @@
     },
     {
       "character": "Karen Donnelly / カレン (ドネリー家当主)",
-      "identity": "DirectnativeDonnellyfamily5-8/ownerintroduction28;distinctfromMASKpartyKarenpendingfurtheridentityreview",
-      "likely_tier": "1–2boundedcandidate",
-      "priority": "Discovery",
-      "evidence_distribution": "CompleteCONTEXP01report;actualU0211-80/119-203/329-375/444-510base-textrecheck279P.",
-      "substantive_responsibility": "Owncontracting/flattery/employeeapology54/statusrivalry73-80, random-summonprofit/confession476/threats484/guardrequests496; actualrescue447andcoercivevictimfear493/510. TechnicalitemidentificationM474/ownprofitstatement476,narratorbusinessinference478-479/shelfaccidentconjecture501keptdistinct. Antagonismdoesnoterasebodilyagency.",
-      "gaps": "Wholeprecedingrescue/business/nativeoutcomesandvoice/rivalsbeforefinaltier. Twotheftsactual,thirdinterrupted507-508; no completeexposure/inventedphysicalblockingmethod/verdict. Source-known,notnewblindtest.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
+      "identity": "Explicit Donnelly head at CONTEXP01U021P28, connected to the preceding rescued house owner through recognition and Megumin account. Reported MASK Karen stays unjoined; no certified disjoint-person split.",
+      "likely_tier": "3 scoped; twelve-dimension monograph and asymmetric provisional three-rule model; exact publication pending",
+      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "Complete current CONTEXP01 U021P1–518/U023P1–45 and U019P283–540 in base/ruby; complete accepted CONTEXP01/02 derivatives. Three MASK name paragraphs rechecked against preserved C32 full context; all41 lexical retrieval is technical.",
+      "substantive_responsibility": "Selective courtesy/rival comparison, own lending and monster-profit rationales, actual representative apology and piece-rate payment, and reversible commands/threats/fear support three unequal hypotheses. Own knowledge, narrator inference and Megumin conjecture remain separate; coercive victim agency retained.",
+      "gaps": "P213 interruption does not show prior receipt of Kazuma death; no observed Karen combat, exact accounts, accident certainty, third completed theft, full exposure, legal verdict, addiction or remorse. Six original dependent firsts retain H01B ownership assumption,H02B assurance-speaker attribution,H03A fee-role ambiguity, generic rivals and procedural voice. No independent accuracy, grade, confidence gain, mature final battery or original StageD completion.",
+      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_cohort33_current_fields": {
+        "character": "Karen Donnelly / カレン (ドネリー家当主)",
+        "identity": "DirectnativeDonnellyfamily5-8/ownerintroduction28;distinctfromMASKpartyKarenpendingfurtheridentityreview",
+        "likely_tier": "1–2boundedcandidate",
+        "evidence_distribution": "CompleteCONTEXP01report;actualU0211-80/119-203/329-375/444-510base-textrecheck279P.",
+        "substantive_responsibility": "Owncontracting/flattery/employeeapology54/statusrivalry73-80, random-summonprofit/confession476/threats484/guardrequests496; actualrescue447andcoercivevictimfear493/510. TechnicalitemidentificationM474/ownprofitstatement476,narratorbusinessinference478-479/shelfaccidentconjecture501keptdistinct. Antagonismdoesnoterasebodilyagency.",
+        "gaps": "Wholeprecedingrescue/business/nativeoutcomesandvoice/rivalsbeforefinaltier. Twotheftsactual,thirdinterrupted507-508; no completeexposure/inventedphysicalblockingmethod/verdict. Source-known,notnewblindtest.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort33_rules": [
+        "KD-R01",
+        "KD-R02",
+        "KD-R03"
+      ],
+      "cohort33_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_KAREN_DONNELLY_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAREN_DONNELLY_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KAREN_DONNELLY_EXPANDED_V1_EVIDENCE/KAREN_DONNELLY_RULE_INVENTORY_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/KAREN_DONNELLY_EXPANDED_V1_EVIDENCE/KAREN_DONNELLY_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/KAREN_DONNELLY_EXPANDED_V1_EVIDENCE/KAREN_DONNELLY_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/KAREN_DONNELLY_EXPANDED_V1_EVIDENCE/KAREN_DONNELLY_FIRST_OUTPUT_ANNOTATIONS_01.json"
+      ],
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d",
+      "cohort33_scope_assessment": {
+        "row": 70,
+        "character": "Karen Donnelly / カレン (ドネリー家当主)",
+        "tier": 3,
+        "rules": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate asymmetric provisional model",
+          "dependent probes only after separate foundation and input freezes"
+        ],
+        "reason": "Direct reception/representative apology, useful-hire flattery versus comparative rivalry, own lending and rare-summon profit rationales, actual piece-rate payment and reversible threats/fear provide differentiated generative hypotheses. Concentrated arc, generic antagonist/fear/business rivals and unjoined MASK name remain explicit."
+      },
+      "cohort33_current_qualifications": "Source-known scoped reconstruction. Current C33 artifacts govern; prior fields retain dated history. Source roles/groups are not disjoint people; no independent grade, accuracy, confidence gain, final model maturity or global census closure."
     },
     {
       "character": "Charlie",

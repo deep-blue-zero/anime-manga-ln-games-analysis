@@ -1873,3 +1873,10 @@ TRPG replay construction, PC acts, player metacomment, GM adjudication and repor
 Brad and Rosary change appraisal across the repeated dungeon contest without becoming fixed greedy fighter or fanatical priest types. Their actual contributions, errors, embarrassment and unequal bodily agency remain. The MASK leader and second worker have separate arcs: patronage negotiation and reciprocal warning versus idealized advocacy, revised danger and a qualified MAIN02 work-failure bridge. No group utterance or private narrator knowledge supplies an extra individual state.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen varies between useful-hire courtesy, comparative rivalry, commercial defense, representative apology, actual payment and reversible fear/defiance. The broad contrast supports a monograph and three unequal provisional hypotheses, not a uniform greedy-noble or helpless-victim personality. Beat and Clarice have differentiated welcoming/reassurance acts before a shared retreat; Crane has an attributed written payment rationale, and the inn woman a meaningful loss/reputation/work appeal. Sparse named adventurers and role groups remain indexes.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -1420,3 +1420,10 @@ Replay ordinary evidence includes money, upkeep, comfort, bedding, drinking inte
 Brad wants the visible chest and needs rest; Vanir retirement/marriage claim is attributed rather than a completed life plan. Rosary long-prayed necklace and offered loan matter without a shown transfer or household budget. The leader values a costly gift and cast-off skin, while the small worker owns a photo book and welcomes a signature. Their wages, profit shares and domestic routines are not supplied. MAIN02 checkout requests a stated fee and shows a wallet, not a literal separate transfer receipt; later revenue sharing is a reported arrangement.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Reception, tea/snacks, clothing, finance work and piece-rate pay give Karen material interests outside combat, without a complete household routine or balance sheet. Darkness's attachment to her mother's dress defeats a simple poverty inference. The inn woman values a saved snack and business reputation while seeking extra labor. Beat and Clarice seek a practical first party; the wanted opportunity belongs also to Yunyun. Crane's unilateral money note does not establish the young wife's assent. Reported employee refusal is not personally witnessed Karen policy.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

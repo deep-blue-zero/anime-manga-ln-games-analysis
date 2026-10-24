@@ -1992,3 +1992,10 @@ Cohort 31 index/provenance binds 56 complete current Japanese native images, 25 
 Cohort 32 provenance binds 2360 unique current Japanese native P/base/ruby slots, including blanks:2320 context plus 40 nonoverlapping lexical paragraphs, across six objects with any P and four main contextual objects. MASK U021/U019/U023 are complete P scopes, U017 bounded; MAIN02/MAIN08/CONTEXP01 intervals explicit. MAIN09 bloodfang and YORI03 bloodstone are false Brad matches. All 41 EPUB identity/retrieval checks are technical, not reading or absence proof. No new non-P residual, image-set, whole-source, OCR, audio, human or independent admission.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Cohort 33 native provenance binds 1,151 actual contextual P/base/ruby slots plus three complete MASK paragraph rechecks, 1,154 unique current slots in all. CONTEXP01 U021P1–518 and U023P1–45 are complete paragraph scopes, U019P283–540 bounded; CONTEXP02 U020P1–145, U013P1–85, U018P1–100 are bounded. Prior C32 complete MASK context is reused exact. All 41 EPUB byte/name retrieval is technical and not alias absence proof. The two complete derivative reports total 149,462 characters; no new image, residual, whole-source, audio, human or independent admission.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

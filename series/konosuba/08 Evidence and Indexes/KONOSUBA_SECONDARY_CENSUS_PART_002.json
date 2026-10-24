@@ -1100,12 +1100,12 @@
     {
       "character": "Unnamed small dream-service worker (qualified MAIN02/MASK event bridge)",
       "identity": "MAIN02 smaller house visitor and MASK second/youngest worker joined provisionally through explicit prior work/mansion/same-priest barrier/near-erasure account. Legal name unprovided; DUST Lolisa alias join remains open. Counterwoman and leader distinct.",
-      "likely_tier": "3 scoped; twelve-dimension monograph and asymmetric provisional three-rule model; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "3 scoped; twelve-dimension monograph and asymmetric provisional three-rule model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MAIN02 item/xhtml/p-007.xhtml P75–215, 375–509; MASK U017P195–277, 420–444, 467–517 and complete U019P1–648 currently received in P/base/ruby. Specific event bridge extends existing 132, not a new duplicate person.",
       "substantive_responsibility": "Idealized-patron pressure/later censure, revised threat appraisal with help and protective initiative, and professional self-blame/customer-protecting cover support three unequal hypotheses. R03 has one explicit danger-context proposal and is especially weak. No inherited Lolisa powers or receptionist policy.",
       "gaps": "MAIN02 goddess self-claim versus later nonrecognition tension unresolved. P529 erasure danger and P434 age private narration, not a received warning/exact age. Six original English firsts retain other-mind, run-demand and prior-instruction assumptions, strong cues, source echo and explanatory voice; H03-A not a literal false-claim demonstration. No independent accuracy, grade, confidence gain, final nine-category battery or mature model.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
       "prior_cohort32_current_fields": {
@@ -1147,7 +1147,25 @@
         ],
         "reason": "A qualified, specific prior-mansion/barrier event bridge supports existing row132. Own professional cover/self-blame under danger, idealized-patron pressure and later censure, revised threat appraisal/help-seeking and reciprocal initiative support differentiated narrow hypotheses. MAIN02 front-desk policy and DUST Lolisa powers/biography remain excluded. One professional-risk episode makes that rule particularly provisional; generic occupation, patron loyalty, fear and collective-interest rivals remain live."
       },
-      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure."
+      "cohort32_current_qualifications": "Current monographs/index govern scoped use; older fields retain dated history. Source roles/groups not disjoint people; no independent denominator, grade, confidence gain, final maturity or census closure.",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "3 scoped; twelve-dimension monograph and asymmetric provisional three-rule model; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed Destroyer diary scientist (MAIN02)",

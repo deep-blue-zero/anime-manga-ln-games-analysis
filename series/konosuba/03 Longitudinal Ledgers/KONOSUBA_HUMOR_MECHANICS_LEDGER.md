@@ -2029,3 +2029,10 @@ Edited replay comedy uses prince/low-rank and priest/scroll-role mismatches, hea
 The treasure competition, kicked-away catalyst and bilateral barrier expose mismatched aims or mechanisms while preserving fear and cost. The leader gift-modesty formula is taken literally by a threatening superior; skin has different value to giver, admirer and Wiz. The small worker idealized romantic advocacy becomes participation in criticism after a cruel reveal. Vendor misunderstandings and contractual reversals retain actual coercion, opportunism and material claims rather than erasing them as jokes.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Useful flattery changes into a class/wealth comparison; authority is invoked before its local means work; a spoken threat reverses at a hand gesture. These are actual fictional choices, not automatic nonliteral exemptions. The inn woman's actual snack loss coexists with response-seeking labor solicitation. Crane's written payment framing does not establish consent. Beat and Clarice's welcome is real, as is Yunyun's wanted opportunity and Megumin's role in its loss. Comic timing does not erase ownership, fear or consequence.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

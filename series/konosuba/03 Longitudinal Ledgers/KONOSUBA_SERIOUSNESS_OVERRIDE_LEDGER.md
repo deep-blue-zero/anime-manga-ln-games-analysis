@@ -1343,3 +1343,10 @@ Real fictional damage, cost-bearing Core Death Return, coercive recruitment, sub
 Possession, imposed exposure, threatened erasure, intimidation and costly dependence remain serious inside comic sequences. Rosary limited restraint request is not blanket permission; later useful care does not erase prior violation. The small worker remaining-life offer is not informed acceptance of the full erasure described privately by Vanir. No worker life loss or completed sacrifice is reported. Transfer preserves received knowledge, protest, feasible help and real consequences while using only the destination setting powers.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Actual fear, coercion, property loss, unwanted labor appeals and interrupted companionship remain inside the comedy. Two clothing thefts complete and a third is stopped; no full exposure or justified punishment is inferred. Karen's profit rationale does not authorize violating her agency, and her fear does not acquit the business. The evidence handoff is not a legal verdict. The new threat probes use weaker nonsexual property/face stakes, which cannot be treated as equivalent validation of severe source danger.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

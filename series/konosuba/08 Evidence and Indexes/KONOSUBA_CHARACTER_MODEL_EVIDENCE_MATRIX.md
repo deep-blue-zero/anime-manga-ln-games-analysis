@@ -1195,3 +1195,10 @@ Gilbert, Suzuki Chiho, Otohime, Temiren and 21 have separate Tier 3 monographs a
 Brad, Rosary and the unnamed MASK leader have separate Tier 2 monographs without invented models. The unnamed small MAIN02/MASK worker has a monograph and provisional three-rule Tier 3 reconstruction at existing 132 through a qualified event bridge. Lolisa 17 receives a route only, with frozen individual support unchanged. Eight compact profiles and fifteen Tier 0 dispositions retain unresolved roles/groups. Candidate totals 52 models, 46 scoped secondary model subjects, 74 profiles, 27 monograph-only subjects and 315 nonfinal records; eight entering rows change, 287 others exact per plane, 20 new source-bound records are not 20 disjoint people.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen Donnelly receives a twelve-dimension monograph and asymmetric three-rule provisional model. Beat, Clarice, クレイン and the unnamed inn woman receive four individual compact profiles; five sparse new name/role records remain Tier0. Existing reported MASK Karen receives only a Donnelly scope route with C32 tier/support unchanged. Candidate totals: 53 models, 47 scoped secondary model subjects, 78 profiles, 27 monograph-only subjects and 320 nonfinal records. Six entering rows change, 309 others remain exact per plane; five new records include groups/reports, not five certified disjoint people.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -1540,3 +1540,10 @@ Temiren requested wall-pin differs from Gilbert substituted slap and her later r
 Brad actual retrieval/carrying and his gaze despite Rosary explicit boundary coexist; Wiz forgiveness is hers alone. Leader warnings, worker offer and Vanir actual defense have separate owners under hierarchy and fear. The MAIN02 visitor proposes a client-protecting false cover and accepts escape, without universal honesty or martyrdom. Her harmful pressure on Luna remains contrary evidence to a universal boundary-respect reading. Karen/Yukinori relation is reported; unnamed reunion adults/child do not certify romance, marriage, parentage or fate.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen selectively solicits Kazuma, competes with Darkness and apologizes to Aqua on an employee's behalf. Darkness's reciprocal insult and threatened killing are not erased by Karen's misconduct. Karen's fear under humiliating theft remains real, while later bounty threat shows no permanent submission or demonstrated remorse. Chris stops the third attempt; Megumin's encouragement is her own action. Beat and Clarice each initiate welcoming speech, and their retreat after disclosure does not make the earlier invitation insincere. MASK Karen remains unjoined with Donnelly.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

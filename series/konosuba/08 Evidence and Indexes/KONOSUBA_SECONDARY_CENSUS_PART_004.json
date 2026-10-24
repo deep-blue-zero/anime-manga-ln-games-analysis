@@ -3,8 +3,8 @@
   "canonical_census_manifest": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
   "part_ordinal": 4,
   "first_row_index": 240,
-  "last_row_index": 314,
-  "row_count": 75,
+  "last_row_index": 319,
+  "row_count": 80,
   "rows": [
     {
       "character": "Unnamed Elroad prosecutor (MAIN10)",
@@ -2002,342 +2002,787 @@
     {
       "character": "Unnamed dream-shop receptionist (MAIN02 counter encounter)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact source-bound profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MAIN02 item/xhtml/p-007.xhtml P147–207",
       "substantive_responsibility": "The counter woman checks prior knowledge, supplies the questionnaire, explains claimed service and operational limits, requests the stated fee at checkout and asks for time/address.",
       "gaps": "Separate from the smaller house visitor at P432. No automatic MASK-leader/older-fan join, ownership title, literal unlimited power, universal service ethics or completed particular dream is established.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed apple-stall woman (MASK)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact source-bound profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U019P62–91",
       "substantive_responsibility": "Answers the permission demand, offers a damaged apple, demands payment and proposes employment for her son while facing actual intimidation.",
       "gaps": "Own comic propositions and Vanir interpretation differ. No payment, consent to aggression, independently verified household biography or identity join to other vendors.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed restaurant daughter / attendant (MASK)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact source-bound profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U019P151–211",
       "substantive_responsibility": "Challenges seat occupation, credits Wiz after the men leave, provides lunch and tea, and reports coercive contract pressure.",
       "gaps": "Wiz misunderstands the task; her practical menu advice does not certify full liberation. Personal name, ownership share, later contract fate and household joins are unknown.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed tavern proprietor invoking guard contract (MASK)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact source-bound profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U019P257–266",
       "substantive_responsibility": "Demands coverage and compensation, rejects unilateral termination and insists on service for the remaining period.",
       "gaps": "The earlier Axis disruption is reported. Payment is promised, not shown completed; the contract/legal interpretation is the character account, not a real-world legal ruling.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed pottery-stall fraud collaborator (MASK)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact source-bound profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U019P289–364",
       "substantive_responsibility": "Performs a fear-based refusal to complain, invokes contract loss, plans a plausible valuation and disputes Yunyun accusation after the discarded-pottery scheme is exposed.",
       "gaps": "Source-bound collaborator, not a generic vendor personality. Items are identified through Vanir sight; total payout/adjudication unshown. Do not assign every later temporary stall or fraud charge to this man.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed neighboring widow / shopkeeper (MASK)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact source-bound profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U019P376–413",
       "substantive_responsibility": "Denies removing the sticker, explains fear after bereavement, questions the guard arrangement, responds to Vanir reassurance and denies a rival-romance interpretation.",
       "gaps": "His fee qualification is private and not heard by her. Her gratitude or flirtatious language is not informed fee consent, a completed romance or independent full family verification.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed first Yatagarasu recruiter (MASK apple-stall encounter)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact source-bound profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U019P62–118",
       "substantive_responsibility": "Scatters goods, threatens and sells protection, hesitates before Vanir, probes revenue/risk and abandons that poor prospect.",
       "gaps": "One directly bounded sales/enforcement role within an unresolved organization. Later food donors are only a suspected colleague group, not this man own proven generosity or every other thug voice.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "1 scoped; compact source-bound profile; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Yatagarasu security-racket actors (MASK unresolved group)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U019P62–118,151–211,257–381,425–505,577–582",
       "substantive_responsibility": "Coercive protection scripts, counterclaims, staged loss and night attack/arrest reports receive an occurrence-group route.",
       "gaps": "No complete roster, unique-actor count, single shared psychology or one-to-one join among different representatives; guards, attackers and later prisoners have declared scene scopes.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Older succubus fan accompanying youngest worker (MASK U017)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U017P207–277,432–436,475–509",
       "substantive_responsibility": "Older companion offers herself, brings the youngest worker, participates in the public misunderstanding and later shared criticism.",
       "gaps": "Possible leader65 join remains unproved in this chapter. Alternating pair lines are not all individually tagged; this role record is not an additional certified person.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed third member of offscreen human-Wiz party contingent (MASK)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U021P143,159–160",
       "substantive_responsibility": "Wiz names Karen/Yukinori and describes three people pursuing another executive above ground, leaving one unidentified role.",
       "gaps": "A count inference from the reported squad, not a new witnessed biography, full party census or automatic named-actor join.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Two unnamed returning former adventurers (MASK epilogue group)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U023P23–25",
       "substantive_responsibility": "Two recognized former adventurers arrive carrying a small child and Wiz responds warmly.",
       "gaps": "No names, certified marriage, parentage, complete survivor list or automatic Brad/Rosary/Karen/Yukinori identification. Group record is not two independent observations.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed carried child at former-adventurer reunion (MASK)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U023P25",
       "substantive_responsibility": "Child is carried by the arriving former-adventurer pair.",
       "gaps": "No spoken name, agency, precise age, sex, parentage or future role; cannot infer family from composition or afterword art.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Reported royal-capital highest-level Archpriest (MASK curse account)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U021P440–445",
       "substantive_responsibility": "Nested report states this priest could not lift the death curse.",
       "gaps": "No automatic Rosary join, numerical level, directly shown attempt, name or general incapacity.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Reported food donors at Wiz shop (MASK)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U019P123–129",
       "substantive_responsibility": "Wiz reports threatening-looking visitors who give food after learning the shop lack of sales/solid meals.",
       "gaps": "Vanir suspects a connection to the recruiter organization. Membership, identity with the first recruiter, precise donor count and universal kindness are not established.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Reported temporary homeless stall operator recruited by Dust (MASK)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U019P360–364",
       "substantive_responsibility": "Dust describes recruiting a homeless man to operate another temporary shop in the scheme.",
       "gaps": "Reported role only; no actual next operation, named person, certain disjointness from earlier collaborators or completed payment.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Apple-stall woman reported husband and son (MASK family-role group)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U019P76–80",
       "substantive_responsibility": "Her employment and family remarks refer to a nonworking son and husband.",
       "gaps": "Comic self-report, not directly met relatives, validated household composition, diagnosis or separate family personalities.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Andain household guards / servants / maids (unresolved role group)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MAIN08 text/part0011.html P369–419; text/part0013.html P251–255,325–345,391,431–468",
       "substantive_responsibility": "Two gate guards converse and respond before being drained; other residents raise alarm/pursue, and Aigis reports daily care by maids.",
       "gaps": "Direct gate-pair behavior, reported town defense/care and untagged alarm voices differ. No full staff roster, attribution of each voice to the noble or automatic identity across roles.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Reported deceased husband of neighboring MASK widow",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U019P387,403,411",
       "substantive_responsibility": "The shopkeeper reports bereavement/continued devotion, and Vanir mentions receiving old clothing.",
       "gaps": "No witnessed death, name, personality, exact date, ghost identity or shared family join with other vendors.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Regular patrons defending succubus shop (MASK group)",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U019P240–250,425–428",
       "substantive_responsibility": "Patrons are credited with ejecting racketeers in one episode; their absence during later night work changes protection.",
       "gaps": "Ejection is inferred/reported rather than every blow directly displayed. No complete roster, blanket goodwill, universal availability or automatic named-adventurer identification.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Police arrest / inspection roles in MASK racket aftermath",
       "identity": "Source-bound individual/role/group scope; unresolved joins retained explicitly.",
-      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
-      "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; bounded occurrence/role/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 32 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MASK U019P577–582",
       "substantive_responsibility": "Narrator reports incarceration after the assault and an inspection finding no incriminating material in the shop.",
       "gaps": "No names, full process, exact individual actions, cross-source officer join, permanent reform or real-world law conclusion.",
-      "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort32_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-32-mask-clients-and-unresolved-role-joins"
       ],
-      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5"
+      "cohort32_semantic_receiving_sha256": "162a84880e67eb57580fedd47e7fb96f1d1da55199136f9121bcdd53098f00b5",
+      "prior_cohort32_publication_fields": {
+        "likely_tier": "0 scoped; bounded occurrence/role/group index; exact publication pending",
+        "priority": "Cohort32 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT32_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort32_publication_resolution": {
+        "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+        "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "f1d7fbb7ae3b5b9b55364ddf487b1e9fbed67117f8467f85da8796987c292c9b",
+        "source_run": 40082421051,
+        "full_discovered_tests": 459,
+        "current_models": 52,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
+    },
+    {
+      "character": "アーシェア (Arshea retrieval only)",
+      "identity": "Exact native アーシェア at CONTEXP02U013P20; earlier アーシェ string was a prefix, not a complete recovered name. English spelling unresolved.",
+      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
+      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "CONTEXP02 U013P16–24 within current complete P1–85 context.",
+      "substantive_responsibility": "Receptionist names this adventurer and attributes an abrupt turned face after Megumin asks for recommendations. Preserve reported observable avoidance without inventing inner reasons.",
+      "gaps": "No own speech, class, detailed history, completed recruitment or connection to another inn/worker. Not the other separately named Andy.",
+      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort33_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
+      ],
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d"
+    },
+    {
+      "character": "アンディ (Andy retrieval only)",
+      "identity": "Separately named native アンディ at CONTEXP02U013P20; English retrieval form not externally certified.",
+      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
+      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "CONTEXP02 U013P16–24 within current complete P1–85 context.",
+      "substantive_responsibility": "Receptionist points to a praying gesture directed toward her during Megumin recommendations. This is a reported action, not a full known motive.",
+      "gaps": "No own speech, class, religion, accepted invitation or uniquely explained emotion. Do not infer cleric profession from the gesture.",
+      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort33_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
+      ],
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d"
+    },
+    {
+      "character": "Unnamed young wife reporting clothing theft (CONTEXP02)",
+      "identity": "Source-required unnamed individual occurrence at CONTEXP02U018P47–64; separate from the inn woman.",
+      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
+      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "CONTEXP02 U018P47–66, with later return/motive reports P80–82.",
+      "substantive_responsibility": "Reports the missing preferred clothing. The note and money found nearby do not establish her permission or acceptance; Zesta intrusive questions remain his acts.",
+      "gaps": "No name, exact age, known link to another shop/wife, consent to a purchase or proven emotional response to the return. Keep the description non-graphic.",
+      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort33_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
+      ],
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d"
+    },
+    {
+      "character": "Donnelly household guard roles (unresolved group occurrence)",
+      "identity": "Source-required unnamed guard roles; first rescue defenders, nighttime sentry pair and later responding guards are not individually joined.",
+      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
+      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "CONTEXP01 U019P427–458; U021P421–429,472,495–505.",
+      "substantive_responsibility": "Defenders report warnings and inability to leave without the mistress; the night sentry pair are drained; later guards arrive behind bars. Own task constraints differ from Karen confidence.",
+      "gaps": "Unknown membership overlaps and individual line ownership. Group is not a single personality or a count of disjoint people; no completed later route/capture or direct responsibility for summoning established.",
+      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort33_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
+      ],
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d"
+    },
+    {
+      "character": "Reported Donnelly finance employee roles",
+      "identity": "Unspecified employee role or roles in Aqua loan-refusal account and Karen representative apology; no individual native name.",
+      "likely_tier": "0 scoped; bounded occurrence/name/group index; exact publication pending",
+      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "CONTEXP01 U021P10,53–55 within complete current U021 context.",
+      "substantive_responsibility": "Aqua reports being refused credit as an Axis adherent; Karen apologizes on an employee behalf. The refusal is not newly witnessed or proved Karen personal action.",
+      "gaps": "No employee count, own voice, uniform company policy, verified motive, approval of loan after apology or independent borrower agreement.",
+      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort33_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
+      ],
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d"
     }
   ]
 }

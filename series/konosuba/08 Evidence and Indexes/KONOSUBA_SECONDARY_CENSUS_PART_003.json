@@ -546,14 +546,41 @@
     },
     {
       "character": "クレイン (Crane retrieval only)",
-      "identity": "Name signed in a note found at the theft site; conventional romanization and other appearances unresolved.",
-      "likely_tier": "0 indexed at this scope; broader review open",
-      "priority": "Source-bound individual index/profile review; global census open",
-      "evidence_distribution": "CONTEXP02 U018 P47–81, especiallyP64/80; receiving11 shared scope, no new native/admission/independent credit.",
-      "substantive_responsibility": "Note claims left money is payment for taken clothing; Megumin later says the item was returned. Preserve own asserted transaction separate from permission.",
-      "gaps": "No prior consent, completed valid purchase, payment acceptance or repentance established. Tears may concern relinquishment, not remorse. Do not join other priests by role.",
-      "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
-      "independent_observation_count": null
+      "identity": "Native name signed in the note at CONTEXP02U018P64; English retrieval spelling and identity beyond this scene unresolved.",
+      "likely_tier": "1 scoped; compact written/report-bound profile; exact publication pending",
+      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "CONTEXP02 U018P47–82 within complete current P1–100 base/ruby context. Embedded note read by Cecily, later return and contested motive reports have different access.",
+      "substantive_responsibility": "Signed claim reframes taking as payment with possible extra money; later return is reported by Megumin. This supports a narrow transactional choice account without certifying permission or his private motive.",
+      "gaps": "No prior consent, accepted sale/payment, directly heard own spoken voice, proved repentance, verified identity elsewhere or stable generative mechanism. Cecily all-Axis hyperbole is not an individual fact.",
+      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_cohort33_current_fields": {
+        "character": "クレイン (Crane retrieval only)",
+        "identity": "Name signed in a note found at the theft site; conventional romanization and other appearances unresolved.",
+        "likely_tier": "0 indexed at this scope; broader review open",
+        "evidence_distribution": "CONTEXP02 U018 P47–81, especiallyP64/80; receiving11 shared scope, no new native/admission/independent credit.",
+        "substantive_responsibility": "Note claims left money is payment for taken clothing; Megumin later says the item was returned. Preserve own asserted transaction separate from permission.",
+        "gaps": "No prior consent, completed valid purchase, payment acceptance or repentance established. Tears may concern relinquishment, not remorse. Do not join other priests by role.",
+        "priority": "Source-bound individual index/profile review; global census open",
+        "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION"
+      },
+      "cohort33_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
+      ],
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d",
+      "cohort33_scope_assessment": {
+        "row": 169,
+        "character": "クレイン (Crane retrieval only)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "A signed written payment justification and reported return support a narrow transaction/permission account and one actual written formulation. Return motive is contested and no direct spoken persona, consent receipt or stable generic Axis model is supplied."
+      },
+      "cohort33_current_qualifications": "Source-known scoped reconstruction. Current C33 artifacts govern; prior fields retain dated history. Source roles/groups are not disjoint people; no independent grade, accuracy, confidence gain, final model maturity or global census closure."
     },
     {
       "character": "Unnamed returning Axis church guide (MAIN16)",
@@ -729,14 +756,41 @@
     },
     {
       "character": "Unnamed inn woman reporting stolen snack (CONTEXP02)",
-      "identity": "Initially narrator assumes employee; her own inheritance/scout account does not independently fix employment or ownership.",
-      "likely_tier": "0–1 bounded candidate; profile review open",
-      "priority": "Source-bound individual index/profile review; global census open",
-      "evidence_distribution": "CONTEXP02 U018 P19–40; receiving11 shared scope, no new native/admission/independent credit.",
-      "substantive_responsibility": "Reports snack theft and feared business loss; uses a dramatic public plea to seek Megumin as occasional shop helper; Megumin leaves.",
-      "gaps": "No accepted job, established allergy harm, closed inn, verified career offer or stable ownership. Avoid joining all innkeepers.",
-      "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
-      "independent_observation_count": null
+      "identity": "Source-required unnamed woman; Megumin initially guesses employee status. Her inheritance/scout story is own assertion, not independent ownership or career proof.",
+      "likely_tier": "1 scoped; compact ordinary-interest profile; exact publication pending",
+      "priority": "Cohort33 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "CONTEXP02 U018P19–40 within complete current P1–100 base/ruby context; no new image, audio or independent observer.",
+      "substantive_responsibility": "Own saved-snack loss report, feared reputational/customer loss, possible-allergy argument, response-seeking gaze and attempted occasional work solicitation form a bounded individual account. Megumin leaves without accepting.",
+      "gaps": "No confirmed allergy injury, inn closure, actual guest loss, accepted job, verified scout offer or universal manipulation trait. No join to other innkeepers or complete invented ordinary life.",
+      "disposition_status": "COHORT33_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_cohort33_current_fields": {
+        "character": "Unnamed inn woman reporting stolen snack (CONTEXP02)",
+        "identity": "Initially narrator assumes employee; her own inheritance/scout account does not independently fix employment or ownership.",
+        "likely_tier": "0–1 bounded candidate; profile review open",
+        "evidence_distribution": "CONTEXP02 U018 P19–40; receiving11 shared scope, no new native/admission/independent credit.",
+        "substantive_responsibility": "Reports snack theft and feared business loss; uses a dramatic public plea to seek Megumin as occasional shop helper; Megumin leaves.",
+        "gaps": "No accepted job, established allergy harm, closed inn, verified career offer or stable ownership. Avoid joining all innkeepers.",
+        "priority": "Source-bound individual index/profile review; global census open",
+        "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION"
+      },
+      "cohort33_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
+      ],
+      "cohort33_semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d",
+      "cohort33_scope_assessment": {
+        "row": 173,
+        "character": "Unnamed inn woman reporting stolen snack (CONTEXP02)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Own loss report, fear of business reputation, escalating work solicitation and rejected request give meaningful choices and a local ordinary interest. Narrator employment guess and her inheritance/scout story retain their source layers."
+      },
+      "cohort33_current_qualifications": "Source-known scoped reconstruction. Current C33 artifacts govern; prior fields retain dated history. Source roles/groups are not disjoint people; no independent grade, accuracy, confidence gain, final model maturity or global census closure."
     },
     {
       "character": "Unnamed butcher confronted by Cecily (CONTEXP01)",
