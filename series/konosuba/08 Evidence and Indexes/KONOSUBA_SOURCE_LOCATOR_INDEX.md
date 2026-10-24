@@ -2027,3 +2027,10 @@ Current native union:2382complete P/2389inline ruby,40members/13knownEPUBs,61pla
 C37 actual known-source recheck:2128P/1965inline ruby,15members7EPUBs,49complete displays,7full members8bounded and4known images. Four complete reports plus1boundedMAIN14principal context total452129characters61displays. MAIN15/17 analytical surfaces were byte pins only;later native windows separately received. All41literal retrieval is technical,not unnamed/alias/image/nonparagraph absence proof or a new whole-source read.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+C38 actual native recheck:622P/548inline ruby,4members2known EPUBs,12complete displays;one full member and three bounded ranges,no current images. DUST06U012P275-426,U013P1-302,U014fullP1-67 andDUST07U011P470-570 govern coverage. Two full Dust06 reports total48135characters/8displays;all34 precision qualifications received separately. All41fresh object hashes/literal-name retrieval produce18paragraph leads inside these contexts;retrieval adds no unnamed,alias,image,nonparagraph absence or new whole-book reading credit.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

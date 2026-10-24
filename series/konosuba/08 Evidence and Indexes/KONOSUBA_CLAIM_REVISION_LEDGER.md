@@ -463,3 +463,10 @@ CR-C36-ACT01 RETAIN: observed animal action is separate from human dragon/traini
 CR-C37-JOB01 CORRECT:original military challenge is not marriage proposal. CR-C37-EVENT02 QUALIFY:DUST05Dust/Darkness retellings dependent;Small approach distinct. CR-C37-ID03 RETAIN:garden individual notforestPrincess;Shiro untagged proposal andtwo literal collisions notaliases. CR-C37-REACH04 CORRECT:reach is towardAqua. CR-C37-TIME05 QUALIFY:MAIN17later narrator death report andMAIN15preexistingAxel target retained. CR-C37-TEST06 RETAIN:DK-A1 unbound shelving wording,all4originals exact;body compliance notcausal isolation.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+CR-C38-AFFECT01 QUALIFY:redness and anger do not establish dress embarrassment;later discouragement is Dust narration. CR-C38-MODAL02 RETAIN:jacket cause,Cure,superior order/praise and mission transfer retain attribution. CR-C38-ORDER03 CORRECT:reported live-capture order is violated by proposed killing,not merciful release. CR-C38-CAPACITY04 QUALIFY:accurate aerial retreats resist blanket mindlessness. CR-C38-TIME05 RETAIN:DUST07comparison is retrospective,not a return or new Perie event. CR-C38-CONSENT06 RETAIN:paralysis/exposure attempt and forced alcohol do not gain consent from fashion preference or later participation. CR-C38-TIER07 OPEN:substantial monograph earned;differentiated generative policy not presently isolated.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

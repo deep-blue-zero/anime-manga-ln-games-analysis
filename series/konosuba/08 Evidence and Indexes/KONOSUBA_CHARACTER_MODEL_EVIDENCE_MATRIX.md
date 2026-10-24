@@ -1230,3 +1230,10 @@ Two compact profiles cover Zel59 and the original unnamed egg seller149. One Tie
 Duke75 earns one monograph/model withDK-R01;garden76 and seller77 earn2compact profiles. Nine sparse role records333-341 are not9certified people. Candidate totals:56models/50scoped secondary model subjects/87compact profiles/27monograph-only/342nonfinal records. Three entering rows change,330others exact per plane,and19historical cross-plane differences remain. Prior garden forest-route support remains exact.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+Perie74 earns a dedicated twelve-dimension Tier2 monograph without a new model. Two Tier1 profiles342/343 and four Tier0 role records344-347 yield candidate56models/50scoped secondary model subjects/89compact profiles/28monograph-only/348nonfinal records. Six records are not six certified disjoint people. Only existing row74 changes;341others and19historical cross-plane differences remain exact. Previous Duke model/firsts and garden/seller dispositions stay unchanged.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

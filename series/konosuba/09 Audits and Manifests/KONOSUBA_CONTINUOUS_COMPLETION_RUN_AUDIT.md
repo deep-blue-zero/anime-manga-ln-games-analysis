@@ -1913,3 +1913,15 @@ Cohort36 source `b264fb26b64cf94d2281981779c26f2f3d21ecb8` and tree `d7308228e73
 ## Cohort37 semantic receiving — 2026-10-24T15:26:24.755654+00:00
 
 Nine public cores,22private artifacts,10supporting records and4original body/receipt pairs are frozen. Duke one-rule model/monograph,two compact profiles and9sparse records yield56models50scoped87profiles27monograph-only342nonfinal records. Three entering rows change,330others exact per plane;19older differences and garden forest-route support retained. Actual2128P/1965ruby15members7knownEPUBs49displays4images;452129derivative characters61displays. DUST05Small encounter distinct;later death/targeting and plant/seller modalities qualified. Four firsts/two dependent pairs preserve shelving defect,body-compliance/causal-isolation distinction and generic/cueing rivals. Ten C36closing paths carried;its audit does not certify this candidate. Accepted main merged ordinarily;exact preflight,publication,remote readback and own full audit/status/reload due. Full program continues.
+
+
+## Cohort37 exact-source author gate closed — 2026-10-24T16:01:33.484258+00:00
+
+Cohort37 source `2ca18ed619005ae19c35a86ae759494501d19b7f` and tree `eb5fc561f89ed9c77eb06d2957e6a22346f095e0` close the author tranche. Audit40109031492:459/459tests,all five non-success categories zero. Reporter/latest status,9909remote bindings/33changed files and1435project-path reload verified. Totals56models/50scoped secondary model subjects/87profiles/27monograph-only/342nonfinal records. Twelve publication-status rows change;330others exact per plane. Nine cores,22private artifacts,10supporting records,compact fragment,four originals/two dependent pairs and all prior failures remain preserved. DK-A1 shelving detail and generic/cueing rivals remain. Full program and separately owned protected integration stay open.
+
+[Gate receipt](KONOSUBA_COHORT37_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort38 semantic receiving — 2026-10-24T17:10:38.125614+00:00
+
+Three public cores,20private artifacts and18supporting records are frozen. Perie Tier2 monograph,two Tier1compact profiles and four Tier0role records yield56models50scoped89profiles28monograph-only348nonfinal records. Only entering row74 changes,341others exact per plane;19older differences remain. Actual622P/548ruby4members2knownEPUBs12displays,no current images;two full reports48135characters8displays and34qualifications received. All41technical literal retrieval is not whole-book reading or unnamed absence proof. No new model,rule,input,first,independent grade or final-battery credit. Nine C37closing paths carried;its audit and the later53639c0e audit do not certify this candidate. Current main governance fully reviewed in applicable scope and ordinarily merged. Exact preflight,publication,remote readback and own full audit/status/reload due. Full program continues.

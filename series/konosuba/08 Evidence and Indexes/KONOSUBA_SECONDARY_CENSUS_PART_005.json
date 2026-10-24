@@ -3,8 +3,8 @@
   "canonical_census_manifest": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
   "part_ordinal": 5,
   "first_row_index": 320,
-  "last_row_index": 341,
-  "row_count": 22,
+  "last_row_index": 347,
+  "row_count": 28,
   "rows": [
     {
       "character": "Unnamed man in Lucy’s gift/rejection account",
@@ -492,12 +492,12 @@
     {
       "character": "Reported garden-seed seller (MAIN13)",
       "identity": "Aqua-reported itinerant male seller of the seeds she took for mandrakes;unjoined to egg,magic-item and weapon sellers. Neither sameness nor personal distinctness is certified.",
-      "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
-      "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "0 scoped; role/occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort37 bounded author publication complete;continuing full program.",
       "evidence_distribution": "MAIN13U015 C4P217/220/252;full C4 received.",
       "substantive_responsibility": "Aqua attributes cheap seed sale and reassuring kindness;Kazuma P222 diagnoses monster-seed clearance/fraud. Those are unequal reports and inferences,not a witnessed negotiation or mind-reading.",
       "gaps": "Name,actual product representation,knowledge,motive,wider trade and other merchant joins unresolved.",
-      "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT37_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort37_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md",
@@ -505,17 +505,36 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-37-dukes-neighboring-agents-and-supporting-roles"
       ],
-      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0"
+      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0",
+      "prior_cohort37_publication_fields": {
+        "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
+        "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort37_publication_resolution": {
+        "source": "2ca18ed619005ae19c35a86ae759494501d19b7f",
+        "tree": "eb5fc561f89ed9c77eb06d2957e6a22346f095e0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "998ce9161731f08028e7e4e8fda82d5b86cf25a5ae016f50a471f9f157856455",
+        "source_run": 40109031492,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 312
+      }
     },
     {
       "character": "Unnamed familiar guild adventurer (MAIN13 bonus)",
       "identity": "Source-bound familiar adventurer speaking to Kazuma;distinct from the seller,with no named-character join.",
-      "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
-      "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "0 scoped; role/occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort37 bounded author publication complete;continuing full program.",
       "evidence_distribution": "MAIN13U021 P5-10,especially6/9;full60P received.",
       "substantive_responsibility": "Explains the crowd and visiting merchant,contrasts Wiz goods,and suggests browsing. His broad no-drawback assurance is a character claim,not a product audit.",
       "gaps": "Personal name,wider conduct and joins to other guild speakers unresolved.",
-      "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT37_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort37_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md",
@@ -523,17 +542,36 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-37-dukes-neighboring-agents-and-supporting-roles"
       ],
-      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0"
+      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0",
+      "prior_cohort37_publication_fields": {
+        "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
+        "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort37_publication_resolution": {
+        "source": "2ca18ed619005ae19c35a86ae759494501d19b7f",
+        "tree": "eb5fc561f89ed9c77eb06d2957e6a22346f095e0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "998ce9161731f08028e7e4e8fda82d5b86cf25a5ae016f50a471f9f157856455",
+        "source_run": 40109031492,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 312
+      }
     },
     {
       "character": "Untagged bonus audience voices (MAIN13)",
       "identity": "Role/occurrence index for P53/54/56;number,individual mapping and joins to named cast or other bystanders unresolved.",
-      "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
-      "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "0 scoped; role/occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort37 bounded author publication complete;continuing full program.",
       "evidence_distribution": "MAIN13U021 P52-58;full60P received.",
       "substantive_responsibility": "React to the paralysis/underwear result and ask a price. Darkness later gazes at the stone;that does not assign her the price question or every audience line.",
       "gaps": "No fixed speaker from register,gender stereotype,proximity or later gaze. No certified new-person count.",
-      "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT37_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort37_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md",
@@ -541,17 +579,36 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-37-dukes-neighboring-agents-and-supporting-roles"
       ],
-      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0"
+      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0",
+      "prior_cohort37_publication_fields": {
+        "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
+        "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort37_publication_resolution": {
+        "source": "2ca18ed619005ae19c35a86ae759494501d19b7f",
+        "tree": "eb5fc561f89ed9c77eb06d2957e6a22346f095e0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "998ce9161731f08028e7e4e8fda82d5b86cf25a5ae016f50a471f9f157856455",
+        "source_run": 40109031492,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 312
+      }
     },
     {
       "character": "Two unnamed female guild interlocutors (MAIN13)",
       "identity": "The narration explicitly supplies two female adventurers;each line-to-person mapping and wider names remain unresolved.",
-      "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
-      "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "0 scoped; role/occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort37 bounded author publication complete;continuing full program.",
       "evidence_distribution": "MAIN13U014 C3P6-28;full498P received.",
       "substantive_responsibility": "Hear Kazuma romantic/publicity claims,show indifference to imagined separation,and warn fame will draw challengers. Distinct local speech remains without named identities.",
       "gaps": "No forced Luna,Leen,Small or bonus-audience join;no stable motives or biographies from one exchange.",
-      "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT37_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort37_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md",
@@ -559,17 +616,36 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-37-dukes-neighboring-agents-and-supporting-roles"
       ],
-      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0"
+      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0",
+      "prior_cohort37_publication_fields": {
+        "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
+        "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort37_publication_resolution": {
+        "source": "2ca18ed619005ae19c35a86ae759494501d19b7f",
+        "tree": "eb5fc561f89ed9c77eb06d2957e6a22346f095e0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "998ce9161731f08028e7e4e8fda82d5b86cf25a5ae016f50a471f9f157856455",
+        "source_run": 40109031492,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 312
+      }
     },
     {
       "character": "Unnamed postal delivery actor (MAIN13)",
       "identity": "Source-bound arrival and letter handoff role;not joined to another postal worker.",
-      "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
-      "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "0 scoped; role/occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort37 bounded author publication complete;continuing full program.",
       "evidence_distribution": "MAIN13U014 C3P180-187;full498P received.",
       "substantive_responsibility": "Calls for Wiz and hands over the letter that she reports as a next-day summons. Delivery is actual;authorship and quoted content have separate routes.",
       "gaps": "Name,employment history,knowledge of sender purpose and other delivery joins unresolved.",
-      "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT37_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort37_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md",
@@ -577,17 +653,36 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-37-dukes-neighboring-agents-and-supporting-roles"
       ],
-      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0"
+      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0",
+      "prior_cohort37_publication_fields": {
+        "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
+        "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort37_publication_resolution": {
+        "source": "2ca18ed619005ae19c35a86ae759494501d19b7f",
+        "tree": "eb5fc561f89ed9c77eb06d2957e6a22346f095e0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "998ce9161731f08028e7e4e8fda82d5b86cf25a5ae016f50a471f9f157856455",
+        "source_run": 40109031492,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 312
+      }
     },
     {
       "character": "Unnamed cheap-tavern proprietor and staff roles (MAIN13)",
       "identity": "Proprietor role in the repeated same venue and earlier server role;these may overlap but personal identity is not certified.",
-      "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
-      "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "0 scoped; role/occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort37 bounded author publication complete;continuing full program.",
       "evidence_distribution": "MAIN13U014 C3P364;U015 C4P147/174-185/360/405;full two chapters received.",
       "substantive_responsibility": "Earlier server receives a drink order. Proprietor answers no wine and supplies the highest-priced-menu choice as a beer keg. No named Barbera,Nerimaki or other venue join.",
       "gaps": "Exact staff count,server/proprietor identity,prices and wider business history unresolved.",
-      "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT37_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort37_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md",
@@ -595,17 +690,36 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-37-dukes-neighboring-agents-and-supporting-roles"
       ],
-      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0"
+      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0",
+      "prior_cohort37_publication_fields": {
+        "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
+        "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort37_publication_resolution": {
+        "source": "2ca18ed619005ae19c35a86ae759494501d19b7f",
+        "tree": "eb5fc561f89ed9c77eb06d2957e6a22346f095e0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "998ce9161731f08028e7e4e8fda82d5b86cf25a5ae016f50a471f9f157856455",
+        "source_run": 40109031492,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 312
+      }
     },
     {
       "character": "Reported low-visitor-site informants (MAIN14 bonus)",
       "identity": "Unnamed village informant role(s) behind Darkness reported inquiry;number and individual identities unresolved.",
-      "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
-      "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "0 scoped; role/occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort37 bounded author publication complete;continuing full program.",
       "evidence_distribution": "MAIN14U023 P27-33;full57P received.",
       "substantive_responsibility": "Darkness reports asking locals and brings a northeast forest location with few visitors. Useful reported informational input is not proven habitat safety or completed transplant.",
       "gaps": "No named villager,individually observed answer,completed agreement or unique-person count.",
-      "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT37_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort37_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md",
@@ -613,17 +727,36 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-37-dukes-neighboring-agents-and-supporting-roles"
       ],
-      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0"
+      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0",
+      "prior_cohort37_publication_fields": {
+        "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
+        "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort37_publication_resolution": {
+        "source": "2ca18ed619005ae19c35a86ae759494501d19b7f",
+        "tree": "eb5fc561f89ed9c77eb06d2957e6a22346f095e0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "998ce9161731f08028e7e4e8fda82d5b86cf25a5ae016f50a471f9f157856455",
+        "source_run": 40109031492,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 312
+      }
     },
     {
       "character": "Sutton / スットン (Aqua reported neighbor)",
       "identity": "Named neighbor Aqua says supplied creature trivia;personal gender,wider identity and other roles unjoined.",
-      "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
-      "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "0 scoped; role/occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort37 bounded author publication complete;continuing full program.",
       "evidence_distribution": "MAIN13U015 C4P372;full411P received.",
       "substantive_responsibility": "Aqua attributes the neroid-pitch information to Sutton. This is her report,not independently heard Sutton dialogue or a verified zoological experiment.",
       "gaps": "No biography,personality,gender,recurring expertise or direct observed act supplied.",
-      "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT37_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort37_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md",
@@ -631,17 +764,36 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-37-dukes-neighboring-agents-and-supporting-roles"
       ],
-      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0"
+      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0",
+      "prior_cohort37_publication_fields": {
+        "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
+        "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort37_publication_resolution": {
+        "source": "2ca18ed619005ae19c35a86ae759494501d19b7f",
+        "tree": "eb5fc561f89ed9c77eb06d2957e6a22346f095e0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "998ce9161731f08028e7e4e8fda82d5b86cf25a5ae016f50a471f9f157856455",
+        "source_run": 40109031492,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 312
+      }
     },
     {
       "character": "Reported complaining parents (MAIN13)",
       "identity": "Unresolved parent role(s) behind Darkness account of complaints about Megumin;not identified with named parents.",
-      "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
-      "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+      "likely_tier": "0 scoped; role/occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort37 bounded author publication complete;continuing full program.",
       "evidence_distribution": "MAIN13U015 C4P271-273;full411P received.",
       "substantive_responsibility": "Megumin reports punishing child name-mockers;Darkness says parents complain and she apologizes. Preserve the mediated grievance and her distinct burden.",
       "gaps": "Names,number,exact complaint words,independent injury account and wider parent/child mapping unresolved.",
-      "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT37_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort37_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md",
@@ -649,7 +801,134 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-37-dukes-neighboring-agents-and-supporting-roles"
       ],
-      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0"
+      "cohort37_semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0",
+      "prior_cohort37_publication_fields": {
+        "likely_tier": "0 scoped; role/occurrence index; exact publication pending",
+        "priority": "Cohort37 sparse source-role receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT37_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort37_publication_resolution": {
+        "source": "2ca18ed619005ae19c35a86ae759494501d19b7f",
+        "tree": "eb5fc561f89ed9c77eb06d2957e6a22346f095e0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT37_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "998ce9161731f08028e7e4e8fda82d5b86cf25a5ae016f50a471f9f157856455",
+        "source_run": 40109031492,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 312
+      }
+    },
+    {
+      "character": "Unnamed red-haired guild waitress (DUST06)",
+      "identity": "Source-bound waitress role at DUST06U013P29-34;unjoined to Perie,Nerimaki,Barbera,Luna or another server. Shared hair color is not a personal-identity bridge.",
+      "likely_tier": "1 scoped; compact role profile; exact publication pending",
+      "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "Current native DUST06U013P29-34 within complete selected P1-302 context;complete accepted Dust06 report/component account separately received.",
+      "substantive_responsibility": "Offers the recommended large meal and dessert while acknowledging cost;Taylor/Keith request lower cost and filling food. Narrator appraises them as pressed into the offered choice;actual plates pile up. Useful local commercial agency,without a global professional personality.",
+      "gaps": "No personal name,exact price,commission motive,independently verified popularity,printed cash settlement or wider recurring-server identity. Actual service and narrator inference remain distinct.",
+      "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort38_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-38-perie-and-selected-dust06-roles"
+      ],
+      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7"
+    },
+    {
+      "character": "Unnamed Bridol-retinue mansion gate guard (DUST06)",
+      "identity": "One source-bound gate interlocutor at Axel mansion;unjoined to other guards/captains and not a composite retinue personality. Gender/name unprovided.",
+      "likely_tier": "1 scoped; compact role profile; exact publication pending",
+      "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "Current native DUST06U013P272-302;own guard turnsP275/279/282/284/288 and narrator P285.",
+      "substantive_responsibility": "Recognizes likeness,claims three salary deductions for earlier escapes,continues to refuse entry despite royal demand,and offers to leave the supposed impersonation unreported. Acts under reported head-butler warning and believes resident is real;institutional rule,personal cost and limited leniency coexist.",
+      "gaps": "Pay history is own report,not inspected payroll. Mistaken identity does not prove universal stupidity,secret plot knowledge or general moral authority. No unprinted punishment,accepted entry or cross-book guard join.",
+      "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort38_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-38-perie-and-selected-dust06-roles"
+      ],
+      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7"
+    },
+    {
+      "character": "Reported guild priest who used Cure on Perie (DUST06)",
+      "identity": "Unnamed priest role reported by Perie;no gender,sect,class upgrade or join to named/unnamed church actors certified.",
+      "likely_tier": "0 scoped; source-role/occurrence index; exact publication pending",
+      "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "DUST06U013P131 within current native P1-302.",
+      "substantive_responsibility": "Perie reports a priest objected to her drinking conduct and cast Cure;her apparent recovered state is observed separately. Treatment and motive/quoted rebuke reach the reader through her account.",
+      "gaps": "No independently witnessed cure,personal name,known fee,broader service history or knowledge of Perie mission. May overlap patrons;no disjoint-person count.",
+      "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort38_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-38-perie-and-selected-dust06-roles"
+      ],
+      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7"
+    },
+    {
+      "character": "Guild patrons surrounding and drinking with Perie (DUST06 group)",
+      "identity": "Unresolved group and untagged turnsP87-99;size,individual mapping and joins to other guild crowds remain open.",
+      "likely_tier": "0 scoped; source-role/occurrence index; exact publication pending",
+      "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "DUST06U013P81-102 current full selected paragraph/ruby context.",
+      "substantive_responsibility": "Respond to public day-drinking rebuke,surround Perie and force alcohol mid-speech;later shared drinking and her demand for more are separate phases. Dust is not established as sole planner or physical administrator.",
+      "gaps": "No exact count,named initiator,uniform personality or personal mapping of every voice. Could include the reported Cure priest;later participation does not retroactively authorize force.",
+      "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort38_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-38-perie-and-selected-dust06-roles"
+      ],
+      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7"
+    },
+    {
+      "character": "Perie-reported demon-army executive superior (DUST06)",
+      "identity": "Source-bound superior role in Perie account;personal identity,gender and wider commander joins unresolved.",
+      "likely_tier": "0 scoped; source-role/occurrence index; exact publication pending",
+      "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "DUST06U013P135-142/170/200/205/225 current native;later name retrieval does not identify this superior.",
+      "substantive_responsibility": "Perie attributes live-capture instructions and limited praise of combat ability to this superior,then blames personnel selection. Her later admission of forcing an assignment swap is contrary to sole superior responsibility.",
+      "gaps": "No witnessed order issuance,promotion decision,private motive or certified Rouzeri/Demon King/other executive join. Perie quote and analyst fact remain distinct.",
+      "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort38_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-38-perie-and-selected-dust06-roles"
+      ],
+      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7"
+    },
+    {
+      "character": "Perie-reported original kidnapping assignee (DUST06)",
+      "identity": "Another assignment recipient reported by Perie;identity,gender,rank and role overlap with wider cast unresolved.",
+      "likely_tier": "0 scoped; source-role/occurrence index; exact publication pending",
+      "priority": "Cohort38 bounded source-role receiving complete;exact containing publication pending.",
+      "evidence_distribution": "DUST06U013P225-228 current native.",
+      "substantive_responsibility": "Perie says the mission originally belonged to another person and she took it by force;Dust infers this contradicts her selection complaint. The earlier transfer is reported,not independently replayed.",
+      "gaps": "No name,actual consent,observed transfer,subsequent fate or guaranteed personal distinctness from other indexed military roles.",
+      "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort38_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_PERIE_COHORT38_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-38-perie-and-selected-dust06-roles"
+      ],
+      "cohort38_semantic_receiving_sha256": "6ac7c3b3682b22c614886e3ea71191f1fb585907793ca5d99d43f6e4ee8a2ef7"
     }
   ]
 }
