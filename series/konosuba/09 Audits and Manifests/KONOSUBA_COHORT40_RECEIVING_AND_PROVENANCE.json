@@ -1572,12 +1572,12 @@
   "capability_grade": null,
   "confidence_gain": null,
   "semantic_receiving_stage_canonical_cohort40_changes": false,
-  "exact_containing_publication_pending": true,
+  "exact_containing_publication_pending": false,
   "main_integration_and_designated_global_outputs_separately_owned": true,
   "global_census_closed": false,
   "global_completion_percentage": null,
   "full_program_complete": false,
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
   "previous_source_audit_not_transferred_to_new_candidate": true,
   "new_artifact_scope": {
@@ -1690,5 +1690,21 @@
     "earlier9975path_author_preflight_not_transferred": true,
     "new_required_author_preflight_repository_paths": 10052,
     "own_exact_publication_audit_pending": true
-  }
+  },
+  "prior_semantic_receiving_publication_pending": true,
+  "publication_resolution": {
+    "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+    "tree": "320b65dc0186746388e3ad7ce03370e2a4060434",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890",
+    "source_run": 40134804125,
+    "full_discovered_tests": 479,
+    "current_models": 62,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "separate_housekeeping_run": null,
+    "pull_request_number": 316
+  },
+  "current_gate_qualification": "24public cores,31frozen private artifacts,48supporting records and compact fragment remain exact. Twelve original responses and GAI-A1/B1/B2contextual qualifications persist with bundled/generic rivals. Candidate index corrections changed two derivative paths;owner reconciliation changed four publication-metadata paths. Neither changed a model,rule,input,original body or census evidence disposition. Historical former globals and current owner-partitioned layout remain separately bound. Protected integration,independent accuracy,grade,confidence gain,final batteries and original StageD successors remain unearned."
 }

@@ -2085,3 +2085,10 @@ Military-manager complaints,age protest,stock/lunch disputes and object-associat
 Envy performance, king child-exchange offer, maid weapon escalation and butler work-relief comedy preserve actual pressure and refusals. King offers Feit and added money;Dust refuses. Forced handling, confinement, bound uninformed princess, Rionor ring shock and dangerous battle remain harms despite comic or romantic framing. Later private agreement and royal lenience do not retrospectively establish consent.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+Scientist plausible accounts become unwanted obligations;dog/snake design and non-electromagnetic railgun naming preserve real technical limits. Roadside plant repeats an emotional farewell before a fluent appetite reveal;lake bargaining secures fruit before failed intercession. These comic structures do not erase coercive work,destructive satisfaction,guard wasting,Yunyun actual unconsciousness or killing. No new H/L frequency denominator or automatic paratext/fantasy code is assigned.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

@@ -2059,3 +2059,10 @@ Rouzeri refuses a particular exit while wanting to flee;no universal cowardice o
 Private willing contract qualifies public brainwashing account. Leen wedding bride and real Rionor dungeon visitor are separated after Dust mistaken expectation;diet note is not a clinical diagnosis. Butler false gag interpretation conflicts with Dust protest and does not certify infallible translation. Driver hearing explanation is reported;Dust dementia guess is not diagnosis. GAI-A1/B1/B2contextual qualifications remain without repair.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+Guild living-hijacker account differs from discovered skeleton and read journal. MAIN05positive scientist recognition is stronger than Dust02similarity. Two plant visits are one local episode;repeated first-human claim is directly contradicted by second use. Kazuma unoffered provisioning is not failed rehabilitation. Dust premature orb-destruction hypothesis is superseded by a functioning miniature machine. Source-known diagnostic B2residual-two-hours issue remains unchanged.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

@@ -1959,3 +1959,30 @@ Cohort39 source `bebd59912de46d82a02777050ccb175f5e075029` and tree `37d0213161e
 ## Cohort40 owner-main reconciliation before publication — 2026-10-24T21:27:39.847875+00:00
 
 Owner PR317integrated namespace registry storage at ec04a1d6 while C40was staged. Exact47path staged candidate was checkpointed,main ordinarily merged at7c7ddaf6,and candidate/index restored;all1491project files,62models,12originals,WORK117and80scratch files remained exact. All397discovery rows are logically identical across38owner partitions. No global curation authored or retired registry recreated. Earlier frozen global/control pins remain verifiable at their historical sources;all current owner104paths and12controls checked separately. Only current publication metadata changes. Prior9975path preflight retained;reconciled10052path author preflight and own exact-source publication/audit/reload remain due. Full program continues.
+
+
+## Cohort40 exact-source author gate closed — 2026-10-24T21:42:07.147536+00:00
+
+Cohort40 source `0eb0b972c14532191a4c57c8c5dc66c7cd25649c` and tree `320b65dc0186746388e3ad7ce03370e2a4060434` close the author tranche. Audit40134804125:479/479tests,all five non-success categories zero;reporter/latest trusted status,10052remote file bindings/150changed byte streams/owner registry deletion and1491project-file reload verified. Totals62models/56scoped/100profiles/29monograph-only/383nonfinal records. Thirty status rows change;353others and19historical differences exact. All24cores31private48supporting,compact fragment,62models and12originals unchanged. GAI-A1/B1/B2qualified,generic/bundled rivals retained;no independent accuracy,grade,confidence gain,acoustic or final-battery claim. Current owner controls/partitioned globals and historical prior snapshots separately verified. Full program and separately owned protected integration remain open.
+
+[Gate receipt](KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort41 semantic receiving — 2026-10-24T22:38:34.409784+00:00
+
+13public analytical/diagnostic cores,16frozen private analytical artifacts and4original body/receipt pairs preserve actual source access andqualified failures. Four monographs/one two-rule model,six compact profiles,eight sparse/access records andtwo unfinished substantive routes produce63models57scoped106compact32monograph-only397nonfinal records. Actual2130P1954ruby44displays10members8localEPUBs,four full P projections/six bounded;zero images/residual/whole-edition. Positive MAIN02/05scientist recognition,qualified Dust02route,distinct plants andinterested dinner explanation retained. Four originals exact;no independent trials,mechanism isolations,scalar accuracy,confidence gain,grade or final battery. NineC40closing paths carried. Prior479source audit does not transfer;exact candidate review,author preflight,publication/full remote readback,full actual-source audit/status andfresh authority reload remain. Full program continues.
+
+
+## Cohort41 owner authority reconciliation — 2026-10-24T22:56:10.472786+00:00
+
+Owner main7e4cd5ce andordinary series reconciliation01a822cf change onlyAGENTS.md relative to the prior source. The new instruction requires approved author/committer identities checked before commit andfor every unpublished commit before push. Complete instruction receiving,retained staged-only checkpoint7359cba7,ordinary fast-forward andbyte-exact reapplication ofall36reviewed paths are verified. Current12controls andthe complete preservation chain pass with63models;historical ec04AGENTS andall analytical foundations,rules,originals andWORK119remain exact. Only current publication metadata changes. The old33a6288bpreflight is preserved as historical;the reconciled candidate needs a fresh exact-index author preflight,publication,remote-tree/changed-stream verification,actual-source audit/status andauthority reload. PR316andthe full program remain open.
+
+
+## Cohort41 continuation after owner PR316 integration — 2026-10-24T23:02:24.958115+00:00
+
+Owner merged PR316atdb1e0652196adae10a01a1d1899d0782011e52f6,withthe exact01a822cfsource tree. No controls,analysis ormodel changed upstream. Retained staged-only checkpointf4461c4e,ordinary fast-forward andexact36-path reapplication preserve the reviewed cohort. Current12controls/63models andall frozen originals remain exact. Current scope now requires a newtranche PR;the closedPR316is historical. Earlier semanticreceiving/WORK119andall prior preflights remain unchanged dated evidence. Six publication-metadata paths change;allcensus row/part bodies andanalytical cores remain exact. Fresh exact-index preflight,approved commit/range identity checks,ordinarypush,remote readback,full actual-source audit/status andauthority reload remain due. The owner merge alone does not certify post-integration audit orrelease. Full program continues.
+
+
+## Cohort41 final baseline after owner foreign-series integration — 2026-10-24T23:08:05.276143+00:00
+
+Final publication parent38cb5cbd contains ownerPR318four Shuukura paths,retained byte-exact. All KonoSuba/control/model/rule/original streams remained exact through retained checkpointeebbf78e andordinary fast-forward. The earlier db1e0652ownerPR316integration now independently passes full479audit40140324280andtrusted status. That result does not transfer to this candidate. Five current publication-metadata paths are updated;10068repository files/1506project files require fresh author preflight andtheir own source audit. New author PR,remote readback andauthority reload remain due. Full program continues.

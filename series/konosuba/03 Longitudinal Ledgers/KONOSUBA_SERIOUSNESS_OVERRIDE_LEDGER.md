@@ -1399,3 +1399,10 @@ Actual threatened civilian killing,hostile force and dangerous breath/scales per
 Killing prohibition is a contract claim,not demonstrated absence of harm. Gaibil hostage leverage and attacks,Rionor max shock and Dust two-day blackout,confinement and forced training retain seriousness. Father death is reported;missing investigator fate stays unknown. Dragon safe descent is actual care under unconscious riders. King reported lenience and cooling-off travel do not establish completed cure,marriage or permanent exile.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+Coercion of the scientist does not excuse funding concealment,destructive satisfaction or technical danger. His apparent people-escape report is not a complete casualty census. Lake guards wasting,Yunyun forced unconsciousness,plant killing and uncertain prior victim wishes remain. Roadside guide hazard and actual protective hesitation coexist;lethal stroke is not directly depicted. A shouted herbicide request at Primo property is not completed eradication.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
