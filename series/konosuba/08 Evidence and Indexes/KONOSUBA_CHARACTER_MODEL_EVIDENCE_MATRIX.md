@@ -1251,3 +1251,10 @@ Rouzeri79,recurring general-store owner80 and helmeted noble88 earn3individual m
 Doreck81/Gaibil82/head butler84earn3provisional models/5rules;king83earns monograph without model. Four monographs,7compact profiles and19sparse records yield62models/56scoped secondary model subjects/100compact/29monograph-only/383nonfinal records. Four entering rows change,353others/19historical plane differences/59oldermodels exact. Twenty-six routes are not26certified unique new people;prior guard343profile stays exact.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+Row133MAIN02/05scientist earns a monograph and two-rule provisional reconstruction,with explicit contextual identity recognition and documentary/generic rivals. Rows89/90/145earn substantial monographs without forced models;92/146andfour new roles earn six compact profiles. Eight sparse/access records andtwo unfinished substantive routes remain distinct. Four originals/two dependent pairs carry retained binding ambiguities and no independent accuracy. Candidate totals63models57scoped106compact32monograph-only397nonfinal routes.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

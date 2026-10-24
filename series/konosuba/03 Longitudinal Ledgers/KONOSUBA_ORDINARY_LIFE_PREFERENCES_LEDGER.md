@@ -1476,3 +1476,10 @@ Owner late-wife/shared-work account explains a valued store without inventing he
 Doreck own marriage preference, jealous reward and changed request coexist with care for Gaibil. Gaibil reminders about rest/medicine and professional pride do not erase instrumental envy or coercion. King paperwork/hospitality and butler breaks/desired work relief have direct versus inferred warrants. Older driver,bookseller,food guard and maids retain bounded individual choices without invented households or completed futures.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+Scientist games,toys,bonus preference,alcohol and clothesline repurposing distinguish actual interests from universal inability to work. Dust02writer selectively protects games/reading and plans a break without an observed completed holiday. Roadside plant private appetite and proposed photosynthesis have bounded warrants;lake resource control is not a complete private biography. Dinner guest story request and conversational repair do not become a verified financial or romantic project.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

@@ -1929,3 +1929,10 @@ Rouzeri79,general-store owner80 and helmeted noble88 each earn a twelve-dimensio
 Doreck81,Gaibil82 and recurring Bridol head butler84 earn individual twelve-dimension monographs and3provisional models/5rules. King83earns a substantial monograph without a model. Seven compact profiles at357,358,361–365and19sparse overlapping routes at359,360,366–382append;four entering rows change,353others exact per plane. Distinct real,performed and mistaken identities retain their knowledge times.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+Six entering rows89/90/92/133/145/146receive proportional treatment:four monographs,one two-rule provisional scientist model and two existing-row compact profiles. Four additional new compact records,eight sparse/access records and two unfinished substantive criminal-trio routes append. Candidate totals63models/57scoped secondary model subjects/106compact/32monograph-only/397nonfinal records are not a population denominator. Names and individual routes remain source-bound.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

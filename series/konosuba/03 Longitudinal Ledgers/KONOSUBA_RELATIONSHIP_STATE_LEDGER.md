@@ -1596,3 +1596,10 @@ Rouzeri fears/resents Vanir as a former executive and invokes Wiz current barrie
 Doreck/Gaibil private agreement and care are not Rionor consent. Public proxy,real patient,real Rionor visitor and Leen bride remain distinct. King relation with former knight and apology coexist with coercive family arrangements. Maid former-thief identity may overlap a weapon role;recalled parents,medical groups,audiences and staff have explicit overlap limits. Hagen row114and MAIN07self-name lead remain a future comparison,not a Bridol-butler join.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+Scientist officials,king,reported female colleague and modification volunteers have unequal agency/access;every colleague occurrence is not automatically one woman. Memory-loss statement is not a watched disclosure/consent procedure. Plant protectors differ:Leen,Taylor,Yunyun,guards,Kazuma andwoodcutter retain own knowledge/actions. Dust removes Yunyun by force;plant bargaining reliance is not an agreed killing. MAIN15guest repair is not approval of humiliation.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

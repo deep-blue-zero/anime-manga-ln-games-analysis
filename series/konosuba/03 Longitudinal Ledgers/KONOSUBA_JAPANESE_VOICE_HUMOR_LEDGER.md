@@ -2052,3 +2052,10 @@ Rouzeri self-nameルーゼリ,courteous introduction,resentment,compact argument
 Doreck private admissions and proposal differ from Gaibil performed groom register and rough own voice. King私/俺shift and butler formal address/rank wordplay are situated. Twelve original Japanese-plus-English responses remain exact;written十分inGAI-A1has a qualified reading ambiguity,not a proved wrong duration or acoustic result. No native-human or pronunciation certification is claimed.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+Scientist quoted private writing uses colloquial complaint,self-questioning and abrupt appraisal reversals;public register remains weakly observed. MAIN05plant halting katakana switches to fluent private speech and back at exposure. Dust03plant changes sibling appeal to deferential bargaining and insults. MAIN15guest surprise belongs to her byP38and differs from Darkness laughter. Four exact Japanese hypothetical originals remain informed written work,not acoustic or native-speaker certification.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

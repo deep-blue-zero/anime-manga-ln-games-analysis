@@ -1501,3 +1501,10 @@ Kazuma is outside during the MAIN08 hatch,then hears Aqua/Vanir’s reports and 
 Kazuma lip-reading can accurately receive words while paraphrasing them under a false courtship frame. Wiz reported approach/years and later invented flattering quotes retain attribution. MAIN15missing/received-report andMAIN17Kazuma death recollection are later planes;the gatekeeper is another figure. He accurately hears plant speech but overextends morality;his publicity and refund appraisals do not identify unnamed actors.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+MAIN02guild hijack story,discovered remains,Aqua spiritual assessment,read journal and anticipated burial have different access. MAIN05narrator/handwriting recognition supports the scientist join without authenticating all journal claims. Kazuma roadside care proposal remains unoffered;woodcutter duty/refusal is an independent actor within the same episode. MAIN15guest actual conduct survives Darkness later interested financial explanation. Dust narration similarly mixes admitted lies,observations and uncertain victim wishes.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
