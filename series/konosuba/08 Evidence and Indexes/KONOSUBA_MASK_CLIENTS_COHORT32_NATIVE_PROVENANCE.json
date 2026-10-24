@@ -1,0 +1,814 @@
+{
+  "schema": "konosuba.cohort32.native-provenance.v1",
+  "recorded_utc": "2026-10-24T08:56:43.621106+00:00",
+  "source_known": true,
+  "starting_authority_sha256": "81bab3257d339b7ed05234bad3a1fbab47da8089ea77bcbae69542f5b8143ad2",
+  "entering_published_source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+  "entering_tree": "57e93d3379599a2f1de2b27d6ad322e0a3002a69",
+  "current_main": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
+  "local_native_source_bindings": [
+    {
+      "source_id": "MAIN-02",
+      "native_filename": "Konosuba - Main Series - Volume 02.epub",
+      "native_bytes": 6872479,
+      "native_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15"
+    },
+    {
+      "source_id": "MAIN-08",
+      "native_filename": "Konosuba - Main Series - Volume 08.epub",
+      "native_bytes": 2964798,
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e"
+    },
+    {
+      "source_id": "MAIN-09",
+      "native_filename": "Konosuba - Main Series - Volume 09.epub",
+      "native_bytes": 3086699,
+      "native_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e"
+    },
+    {
+      "source_id": "CONTEXP-01",
+      "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 01.epub",
+      "native_bytes": 18609246,
+      "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f"
+    },
+    {
+      "source_id": "MASK",
+      "native_filename": "Konosuba - Spin-off - Consulting the Masked Devil.epub",
+      "native_bytes": 2895671,
+      "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127"
+    },
+    {
+      "source_id": "YORI-03",
+      "native_filename": "Konosuba - Short Stories - Yorimichi 3.epub",
+      "native_bytes": 8547808,
+      "native_sha256": "f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d"
+    }
+  ],
+  "all41_native_identity_retrieval_receipt": {
+    "file": "COHORT32_ALL41_LOCAL_NATIVE_RETRIEVAL_01.json",
+    "sha256": "f81360287f741b2002eca3e7cd5f4ee2afbdba67411776786bd9e7b2cbe20208",
+    "objects": 41,
+    "parse_errors": 0,
+    "technical_search_not_reading": true
+  },
+  "actual_native_review_seal": {
+    "file": "COHORT32_INITIAL_NATIVE_REVIEW_SEAL_01.json",
+    "sha256": "6219cbb41d6a8ae2ecbcae945726ac16699575ad19aadfd5f71c40a5f0699e13"
+  },
+  "latest_actual_receiving": {
+    "file": "COHORT32_ACTUAL_KNOWN_NATIVE_RECEIVING_04.json",
+    "sha256": "2e0ec5a7088fb582e8a824a7917c97225dc353343e31edbcae9ea67b33bb8507"
+  },
+  "current_actual_native_context_intervals": [
+    {
+      "source_id": "MASK",
+      "member": "text/part0019.html",
+      "member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+      "native_component_id": "MASK-U021",
+      "actual_P_intervals": [
+        [
+          1,
+          556
+        ]
+      ],
+      "P_slots": 556,
+      "plane": "Current complete P/base/ruby at stated intervals; not non-P residual or images."
+    },
+    {
+      "source_id": "MASK",
+      "member": "text/part0017.html",
+      "member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+      "native_component_id": "MASK-U019",
+      "actual_P_intervals": [
+        [
+          1,
+          648
+        ]
+      ],
+      "P_slots": 648,
+      "plane": "Current complete P/base/ruby at stated intervals; not non-P residual or images."
+    },
+    {
+      "source_id": "MASK",
+      "member": "text/part0015.html",
+      "member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+      "native_component_id": "MASK-U017",
+      "actual_P_intervals": [
+        [
+          195,
+          277
+        ],
+        [
+          420,
+          444
+        ],
+        [
+          467,
+          517
+        ]
+      ],
+      "P_slots": 159,
+      "plane": "Current complete P/base/ruby at stated intervals; not non-P residual or images."
+    },
+    {
+      "source_id": "MASK",
+      "member": "text/part0021.html",
+      "member_sha256": "702642bc0b1e8be4d3b45b538e83124f046fedeeab4cd43d771bbe29d323efd6",
+      "native_component_id": "MASK-U023",
+      "actual_P_intervals": [
+        [
+          1,
+          27
+        ]
+      ],
+      "P_slots": 27,
+      "plane": "Current complete P/base/ruby at stated intervals; not non-P residual or images."
+    },
+    {
+      "source_id": "MAIN08",
+      "member": "text/part0011.html",
+      "member_sha256": "3bae2777b371ccbd101c49a54b0dc5bcff8c6b966e354a741e0e2221bf3f9e98",
+      "actual_P_intervals": [
+        [
+          245,
+          498
+        ]
+      ],
+      "P_slots": 254,
+      "plane": "Current complete P/base/ruby at stated interval; technical member key is not a newly invented canonical component ID."
+    },
+    {
+      "source_id": "MAIN08",
+      "member": "text/part0013.html",
+      "member_sha256": "362bd06e5a370572858ecc06f244fd02a979cae2ab95adc1de8c931feb4ae5d9",
+      "actual_P_intervals": [
+        [
+          230,
+          513
+        ]
+      ],
+      "P_slots": 284,
+      "plane": "Current complete P/base/ruby at stated interval; technical member key is not a newly invented canonical component ID."
+    },
+    {
+      "source_id": "CONTEXP01",
+      "member": "item/xhtml/p-012.xhtml",
+      "member_sha256": "90ae71a4de71b2602aeca99fbaf6a6a458ef0b559a2e91b5cfb77a8bdf008b50",
+      "actual_P_intervals": [
+        [
+          1,
+          104
+        ]
+      ],
+      "P_slots": 104,
+      "plane": "Current complete P/base/ruby at stated interval; technical member key is not a newly invented canonical component ID."
+    },
+    {
+      "source_id": "CONTEXP01",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_sha256": "07e65f75d8f206b8feec482a648f65ea1deab8afdf2fe3412e93dc41d36fb02e",
+      "actual_P_intervals": [
+        [
+          1,
+          12
+        ]
+      ],
+      "P_slots": 12,
+      "plane": "Current complete P/base/ruby at stated interval; technical member key is not a newly invented canonical component ID."
+    },
+    {
+      "source_id": "MAIN02",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "b07a518d8afa21e8e24d692b1fa1b6dd30e4124ff89c74f30b4b057496c8ec3e",
+      "actual_P_intervals": [
+        [
+          75,
+          215
+        ],
+        [
+          375,
+          509
+        ]
+      ],
+      "P_slots": 276,
+      "plane": "Current complete P/base/ruby at stated intervals; shop receptionist/house visitor kept separate."
+    }
+  ],
+  "actual_current_complete_context_P": 2320,
+  "actual_outside_complete_paragraph_leads": 65,
+  "overlapping_outside_leads": 25,
+  "additional_outside_leads": 40,
+  "total_unique_current_P": 2360,
+  "context_source_objects": 4,
+  "objects_with_any_actual_P_including_false_leads": 6,
+  "actual_received_private_delivery_files": [
+    {
+      "file": "native-review-pages01/MASK-U021-001.txt",
+      "start_P": 1,
+      "end_P": 73,
+      "characters": 3470,
+      "bytes": 9318,
+      "sha256": "20081dd0afc5f327ce45f4384010a64483846f54d13c84c217837c95cc78bc93"
+    },
+    {
+      "file": "native-review-pages01/MASK-U021-002.txt",
+      "start_P": 74,
+      "end_P": 140,
+      "characters": 3462,
+      "bytes": 9342,
+      "sha256": "9e38e1f2f8970935ed523a1326f28dee9843bb3c70b1d74232c5ddf17ab098f6"
+    },
+    {
+      "file": "native-review-pages01/MASK-U021-003.txt",
+      "start_P": 141,
+      "end_P": 215,
+      "characters": 3476,
+      "bytes": 9294,
+      "sha256": "9072b0cc6902c44b4304ab49ac5543b6a5bf0ea76149e633f48d05df0c841b02"
+    },
+    {
+      "file": "native-review-pages01/MASK-U021-004.txt",
+      "start_P": 216,
+      "end_P": 287,
+      "characters": 3473,
+      "bytes": 9337,
+      "sha256": "bc7fc22122222c51137c032bdcd85acf39667b238b3b6e2c6f0bcdaae5288136"
+    },
+    {
+      "file": "native-review-pages01/MASK-U021-005.txt",
+      "start_P": 288,
+      "end_P": 353,
+      "characters": 3441,
+      "bytes": 9339,
+      "sha256": "bf5dae3f88c32cef8bcce422a8d7450eabe3373797256ff88dd891931df0ca84"
+    },
+    {
+      "file": "native-review-pages01/MASK-U021-006.txt",
+      "start_P": 354,
+      "end_P": 439,
+      "characters": 3499,
+      "bytes": 9183,
+      "sha256": "b358c363cd170559c67b52cf41ec3a62bff0ff9cc051a55eb54baf862de3acb8"
+    },
+    {
+      "file": "native-review-pages01/MASK-U021-007.txt",
+      "start_P": 440,
+      "end_P": 518,
+      "characters": 3474,
+      "bytes": 9224,
+      "sha256": "4f7417a59242955ac3a3ff0900cb53aaf30795337bc6b0a66eb3c597f6b04a2f"
+    },
+    {
+      "file": "native-review-pages01/MASK-U021-008.txt",
+      "start_P": 519,
+      "end_P": 556,
+      "characters": 1825,
+      "bytes": 4933,
+      "sha256": "884695cb1ce01bc3856e99c53029596bb750903f42e9196d7c5d72123752ae4a"
+    },
+    {
+      "file": "native-review-pages01/MASK-U019-001.txt",
+      "start_P": 1,
+      "end_P": 61,
+      "characters": 3459,
+      "bytes": 9455,
+      "sha256": "3442b04c137d4b5914e48ac408c4967e9c0865b72dda5ab0293a1e7134056048"
+    },
+    {
+      "file": "native-review-pages01/MASK-U019-002.txt",
+      "start_P": 62,
+      "end_P": 122,
+      "characters": 3374,
+      "bytes": 9226,
+      "sha256": "8ea16cb33dbcd2837cce019bb3b5d9c7f92972f3f61f40449616c34291e30614"
+    },
+    {
+      "file": "native-review-pages01/MASK-U019-003.txt",
+      "start_P": 123,
+      "end_P": 194,
+      "characters": 3485,
+      "bytes": 9379,
+      "sha256": "2df63105a41dd94fb18854233fd162e116762783434c6c69f57487504cd41067"
+    },
+    {
+      "file": "native-review-pages01/MASK-U019-004.txt",
+      "start_P": 195,
+      "end_P": 262,
+      "characters": 3463,
+      "bytes": 9361,
+      "sha256": "2d33a572d53c36fb1de34329e6c82ee8d3a1db254b303d3cff9128adb0709c7b"
+    },
+    {
+      "file": "native-review-pages01/MASK-U019-005.txt",
+      "start_P": 263,
+      "end_P": 322,
+      "characters": 3493,
+      "bytes": 9567,
+      "sha256": "364c13041abe76a41ecc51611b0cee16aeeebd07f3c00ed38b323ca7bcf6fd3b"
+    },
+    {
+      "file": "native-review-pages01/MASK-U019-006.txt",
+      "start_P": 323,
+      "end_P": 386,
+      "characters": 3366,
+      "bytes": 9116,
+      "sha256": "288c875f714be5b2f068ae618189c38553fd585bb73ae93a75bea5a0317ec26b"
+    },
+    {
+      "file": "native-review-pages01/MASK-U019-007.txt",
+      "start_P": 387,
+      "end_P": 450,
+      "characters": 3459,
+      "bytes": 9399,
+      "sha256": "1dbe77820f03253ebdab38624409cb25a0f3fc18a50e2214ba189fd17786de20"
+    },
+    {
+      "file": "native-review-pages01/MASK-U019-008.txt",
+      "start_P": 451,
+      "end_P": 510,
+      "characters": 3496,
+      "bytes": 9584,
+      "sha256": "20948ea752935e0e9b3549efc2f02b476f97ef4abfdd1328d436de1eed554983"
+    },
+    {
+      "file": "native-review-pages01/MASK-U019-009.txt",
+      "start_P": 511,
+      "end_P": 572,
+      "characters": 3361,
+      "bytes": 9151,
+      "sha256": "f257173b5df79acbcb37039c10df5970df32e1fc05371c28bce555226a9bd743"
+    },
+    {
+      "file": "native-review-pages01/MASK-U019-010.txt",
+      "start_P": 573,
+      "end_P": 637,
+      "characters": 3483,
+      "bytes": 9473,
+      "sha256": "1db894b092121dbb4d305652a4977d86ee1b1baba6e4a4b20eb1160faf6ae5c5"
+    },
+    {
+      "file": "native-review-pages01/MASK-U019-011.txt",
+      "start_P": 638,
+      "end_P": 648,
+      "characters": 279,
+      "bytes": 743,
+      "sha256": "5272d83cc3f93d010ec5858a8f5f6c8032599a13cfc64bc69ec60780ff5609e9"
+    },
+    {
+      "file": "native-review-pages01/MASK-U017-001.txt",
+      "start_P": 195,
+      "end_P": 257,
+      "characters": 3463,
+      "bytes": 9417,
+      "sha256": "e03f6033651f395732632d2554b845c29265cc48d71b98afb66222ed1b60757c"
+    },
+    {
+      "file": "native-review-pages01/MASK-U017-002.txt",
+      "start_P": 258,
+      "end_P": 277,
+      "characters": 791,
+      "bytes": 2129,
+      "sha256": "d42eb34904b2b384c084d091e6016b69c7e8a4f1256d2e503b8e237929945e9c"
+    },
+    {
+      "file": "native-review-pages01/MASK-U017-003.txt",
+      "start_P": 420,
+      "end_P": 444,
+      "characters": 934,
+      "bytes": 2466,
+      "sha256": "171e79b69e8ce93b25279f714f814d53ced37e923fdc9e2b413c1928e8255a8f"
+    },
+    {
+      "file": "native-review-pages01/MASK-U017-004.txt",
+      "start_P": 467,
+      "end_P": 517,
+      "characters": 2434,
+      "bytes": 6534,
+      "sha256": "a9f0e62a04d2593139870cff96d35998b77bc403703510914a1e26dd177f7857"
+    },
+    {
+      "file": "native-review-pages01/MASK-U023-001.txt",
+      "start_P": 1,
+      "end_P": 27,
+      "characters": 1726,
+      "bytes": 4826,
+      "sha256": "2f3c2d41f1c170c605fff63b1b0eb7834be9203cc6f66dfb2c93095904add205"
+    },
+    {
+      "file": "native-review-pages02/MAIN08-PART0011-001.txt",
+      "start_P": 245,
+      "end_P": 297,
+      "characters": 3429,
+      "sha256": "1b600c2b9c511b703b2c92fb24f51e459465b6b3249821918b141c831f3fba8e"
+    },
+    {
+      "file": "native-review-pages02/MAIN08-PART0011-002.txt",
+      "start_P": 298,
+      "end_P": 361,
+      "characters": 3475,
+      "sha256": "2ac2aea2f05da11281b48985bd96f6f8bd21129c1f5b1358a525c2a533e5abef"
+    },
+    {
+      "file": "native-review-pages02/MAIN08-PART0011-003.txt",
+      "start_P": 362,
+      "end_P": 425,
+      "characters": 3489,
+      "sha256": "239deca7274398f9755ed05b620ff0223d16e5fe4c529a1dc36d79e66a47a3de"
+    },
+    {
+      "file": "native-review-pages02/MAIN08-PART0011-004.txt",
+      "start_P": 426,
+      "end_P": 492,
+      "characters": 3471,
+      "sha256": "306773856bdbd4580fce770badd10957843cdcea478245fb3e0ba8176a1b59c3"
+    },
+    {
+      "file": "native-review-pages02/MAIN08-PART0011-005.txt",
+      "start_P": 493,
+      "end_P": 498,
+      "characters": 119,
+      "sha256": "59afcae259bb1821c8f5bb3e2ca0a10100b495ae282915f0de95297faaa2a8fa"
+    },
+    {
+      "file": "native-review-pages02/MAIN08-PART0013-001.txt",
+      "start_P": 230,
+      "end_P": 284,
+      "characters": 3495,
+      "sha256": "22808568fca6320d111a7d3870cbdecbba86aeb2084b5bc5e70ebfc3bda5bacb"
+    },
+    {
+      "file": "native-review-pages02/MAIN08-PART0013-002.txt",
+      "start_P": 285,
+      "end_P": 349,
+      "characters": 3485,
+      "sha256": "cbf032509ebc222e92bbec7107b3f35fe8fea35c1f2e3b4c4005e28daa71ca09"
+    },
+    {
+      "file": "native-review-pages02/MAIN08-PART0013-003.txt",
+      "start_P": 350,
+      "end_P": 403,
+      "characters": 3455,
+      "sha256": "d30bb8bf625c7813e807de7700de4019c867de74f55c578e00f54a52376a6e01"
+    },
+    {
+      "file": "native-review-pages02/MAIN08-PART0013-004.txt",
+      "start_P": 404,
+      "end_P": 465,
+      "characters": 3483,
+      "sha256": "0df7287a33ae66cadc3725ba15bb5e79595a148a6fcb9f4fcee72c1dd9f51607"
+    },
+    {
+      "file": "native-review-pages02/MAIN08-PART0013-005.txt",
+      "start_P": 466,
+      "end_P": 513,
+      "characters": 3184,
+      "sha256": "b19ac44abf66ed5cb54c6b20786f20c6188c9c0d819eb53e711ac6f90b2f7ffa"
+    },
+    {
+      "file": "native-review-pages02/CONTEXP01-P-012-001.txt",
+      "start_P": 1,
+      "end_P": 64,
+      "characters": 3443,
+      "sha256": "dfa883d6d5bd047d3cfdfcf0e60eeee75b98808f6edba68d5cc90bc2328a30af"
+    },
+    {
+      "file": "native-review-pages02/CONTEXP01-P-012-002.txt",
+      "start_P": 65,
+      "end_P": 104,
+      "characters": 2427,
+      "sha256": "a67185cc2df634976ff9f21315d49edcdc15542184e113673cfa281d004804bc"
+    },
+    {
+      "file": "native-review-pages02/CONTEXP01-P-002-001.txt",
+      "start_P": 1,
+      "end_P": 12,
+      "characters": 393,
+      "sha256": "760796f7e2ef9721db273bd0a66e255cffd5b66e73f031be22ddb1a26561b6c5"
+    },
+    {
+      "file": "native-review-pages03/MAIN02-P-007-001.txt",
+      "start_P": 75,
+      "end_P": 148,
+      "characters": 3427,
+      "sha256": "194e761daa65639aa6b92dcd09e7779d2386175084b59e788c0fbb29bbbd9d90"
+    },
+    {
+      "file": "native-review-pages03/MAIN02-P-007-002.txt",
+      "start_P": 149,
+      "end_P": 215,
+      "characters": 2777,
+      "sha256": "2e44e9096451bc0227a79b6d55c3b23679936adf19bdc872d5553b66c8c99afc"
+    },
+    {
+      "file": "native-review-pages03/MAIN02-P-007-003.txt",
+      "start_P": 375,
+      "end_P": 440,
+      "characters": 3478,
+      "sha256": "b88ebc230371dda093a178fd3602df40d02506dc4d7193cc7dd87aecfcd76180"
+    },
+    {
+      "file": "native-review-pages03/MAIN02-P-007-004.txt",
+      "start_P": 441,
+      "end_P": 506,
+      "characters": 3455,
+      "sha256": "2b23486a9c35f46333fe6ac05f72c3dbe4ce2594010709fac80bac557d959412"
+    },
+    {
+      "file": "native-review-pages03/MAIN02-P-007-005.txt",
+      "start_P": 507,
+      "end_P": 509,
+      "characters": 209,
+      "sha256": "8891d9d3eb03a80ab52eb7ed958caa18e2c8dae2e4ecfe6ce74415011184cc34"
+    },
+    {
+      "file": "native-review-pages01/OUTSIDE-NAMED-LEADS-001.txt",
+      "characters": 3361,
+      "sha256": "1584b90a6da478a34116b1a88978a6d35687187af862fc61dfa0a7208065b80e"
+    },
+    {
+      "file": "native-review-pages01/OUTSIDE-NAMED-LEADS-002.txt",
+      "characters": 3443,
+      "sha256": "21c75195f6d502dd28fc063039dbf627c0f7850a7d4b03bc022456033db5e56a"
+    },
+    {
+      "file": "native-review-pages01/OUTSIDE-NAMED-LEADS-003.txt",
+      "characters": 3484,
+      "sha256": "83761fa3c28aaaff20455326d4ff87d525451952ebfbea6cab6ba76444ec6bb8"
+    },
+    {
+      "file": "native-review-pages01/OUTSIDE-NAMED-LEADS-004.txt",
+      "characters": 1794,
+      "sha256": "737111ece11d31cbae9f5bb39f0cf4f31b0cf28f9a0b343d55e032b761056634"
+    }
+  ],
+  "source_objects_are_not_equally_supportive": "MAIN09 one bloodfang and YORI03 three bloodstone paragraphs are false Brad-character matches. CONTEXP01 has 116 contextual slots plus36 nonoverlapping named leads; its partial Karen contexts do not complete her separate census review. MASK,MAIN08 andMAIN02 have their exact scopes above.",
+  "current_complete_analytical_derivatives": [
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_DEEP_READING.md",
+      "bytes": 63587,
+      "sha256": "0c066d3550302fd68db85010729f82b1d39d478de4f0fb27f02639dbf36f4954",
+      "characters": 63059,
+      "pages": [
+        {
+          "file": "context-pages01/01-001.txt",
+          "start_character": 0,
+          "end_character": 7500,
+          "sha256": "abf37aa7ea12bf5234671c2510b6f7cbbc6faff903de633634f7143135b62cf2"
+        },
+        {
+          "file": "context-pages01/01-002.txt",
+          "start_character": 7500,
+          "end_character": 15000,
+          "sha256": "3a2e4153a2b033eeec4929a16b3c8c794507368258200f6ee280d4dbce418c5f"
+        },
+        {
+          "file": "context-pages01/01-003.txt",
+          "start_character": 15000,
+          "end_character": 22500,
+          "sha256": "40893ca419a137d85f674dd6d79fec8b40fe22b70bf7edbcc495f37c6724285d"
+        },
+        {
+          "file": "context-pages01/01-004.txt",
+          "start_character": 22500,
+          "end_character": 30000,
+          "sha256": "affda9a66f155dd3dd92da4a278a206e7cf2aa11eb15ff369d70aeec3418947c"
+        },
+        {
+          "file": "context-pages01/01-005.txt",
+          "start_character": 30000,
+          "end_character": 37500,
+          "sha256": "82b64a2964ccbb7c9899dfe449ef6cab1fcd43c0aa9f4106d42f72ba8da4cb04"
+        },
+        {
+          "file": "context-pages01/01-006.txt",
+          "start_character": 37500,
+          "end_character": 45000,
+          "sha256": "de3412de02c71fb5bc399473fcab250c4611dcf35029f1f005fbfbe92cb515d1"
+        },
+        {
+          "file": "context-pages01/01-007.txt",
+          "start_character": 45000,
+          "end_character": 52500,
+          "sha256": "c8a3ded53afb728244a8c12d5bef1ba4eef31400487daf3afc7026908af97a16"
+        },
+        {
+          "file": "context-pages01/01-008.txt",
+          "start_character": 52500,
+          "end_character": 60000,
+          "sha256": "d3f25e7665671641432f097056cc620b903b9f14585425a796d0cc31219d462b"
+        },
+        {
+          "file": "context-pages01/01-009.txt",
+          "start_character": 60000,
+          "end_character": 63059,
+          "sha256": "9f7f63ab6d74a6847124beead6874a0de733ed5a5f1a813e863cde6c13e889f1"
+        }
+      ]
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LOLISA_CHARACTER_MONOGRAPH.md",
+      "bytes": 18579,
+      "sha256": "c4cf74f8cd1e9e068865f134827100192d11dd73a26b035c2c9c0a62672adef4",
+      "actual_tool_chunk": "ecbd27"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md",
+      "bytes": 7931,
+      "sha256": "d5620fa8130848f059f5ff8a64380749737764b40f84cfa2dd5202f181c6944d",
+      "actual_tool_chunk": "ecbd27"
+    }
+  ],
+  "partial_derivative_retrieval": "MAIN02 analytical-report search excerpts are retrieval context, not a newly complete current derivative reading. Existing earlier accepted report/program scopes remain separately authoritative.",
+  "current_source_surface_pins": [
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MASK_EXPANDED_PUBLICATION_GATE_CLOSE.json",
+      "bytes": 3199,
+      "sha256": "afebe8ac1dd0444050cd5c1d50d08f1ec446f4cad1168b9aa422905798756852"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_ADDITIVE_LANGUAGE_FORM_QUALIFICATION_01.md",
+      "bytes": 3302,
+      "sha256": "b2a32603244bb28ce9deb6d792507a0533bec87ea8d96ce73a7d6255a2f159a9"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_COMPONENT_ANALYSIS.md",
+      "bytes": 12486,
+      "sha256": "31a9b0ffc0c611e3ea450582700c4a1e1195746dfc34ad8134bcffd909a4936f"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_COMPONENT_REGISTER.json",
+      "bytes": 254296,
+      "sha256": "c7338384c21411ac221ab3f5ad1681c2aebe2408bf87e9d26fac6fa2a6be9349"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 21949,
+      "sha256": "b1a0f99b3f3d6d8b8ea1b0b963dab41924c2509f461221f42b927719daaa3123"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_DEEP_READING.md",
+      "bytes": 63587,
+      "sha256": "0c066d3550302fd68db85010729f82b1d39d478de4f0fb27f02639dbf36f4954"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 192245,
+      "sha256": "b50ad770c0726109f2dc6b822d4bd6e117e89c4fd1aa7802403cc618fed901fd"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_HANDOFF_MANIFEST.json",
+      "bytes": 4012,
+      "sha256": "9361a68db5fa8bcbae93f3bc7ceee42432967cde2623ad9f40e07c64900b9a76"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_HUMOR_REGISTER.json",
+      "bytes": 100510,
+      "sha256": "d9982eddfeb167f150b6b5fdb88945949b802e4d7fd38bd35ac4c896919c9179"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_HUMOR_REGISTER.md",
+      "bytes": 46262,
+      "sha256": "afe5c1a0458878f55aba0cd662aa3256f30a82cb081f6091ca068ee545014d96"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 11782,
+      "sha256": "df292c7f139b694f27e289e2a96511a80ae76965abd26012a987bf694a4aaab0"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 32823,
+      "sha256": "7db2c97091fe1fc678d0a8ebf2470388097b82f6c108d744cd9ab0d802ce5657"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_ORIGINAL_UNCODED_IMAGE_NOTES.jsonl",
+      "bytes": 17747,
+      "sha256": "cd779b2ab313043c40d8059dde96fbfa8b585ef29a7844c3f698e17c746ec896"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_ORIGINAL_UNCODED_TEXT_NOTES.jsonl",
+      "bytes": 139716,
+      "sha256": "48f43867190b25a4e692b4ece60c73293332cbb9dda39a205b7c842a6dc0c078"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 32715,
+      "sha256": "419ff04866edbd05ff84a68180f9976484805b9ccd2ec4784d66189fb218616b"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 148331,
+      "sha256": "1868f31e7a864ef448e5e7ad58b5c2fb7f2e67ae674432459a82fb08caae62c5"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 6034,
+      "sha256": "9a7636aceb5f2f469556241498aee639f185080a3ce02d3869c3635da00d2b0c"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_VOICE_REGISTER.json",
+      "bytes": 287535,
+      "sha256": "c5d0966899b9f5deec2f4aec813aefb267662f5981e4231b7e11b52c45e11e92"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_VOICE_REGISTER.md",
+      "bytes": 102739,
+      "sha256": "4643d0929374292a5eca22245b1818abb6a069ccc4b81a223beb80837afccb76"
+    }
+  ],
+  "identity_qualifications": [
+    "MAIN02 smaller house visitor and MASK small worker have a specific narrated work/mansion/Aqua-barrier/near-erasure bridge. Use the existing row132 with qualified event-based identity, not a new duplicate person. The unrecognized-goddess/self-claim knowledge tension remains visible.",
+    "DUST/CONT Lolisa invented alias remains an unresolved personal-name join; no earlier model, power, branch plan or diagnostic is transferred. MAIN02 counter woman is distinct from that book smaller house visitor.",
+    "MASK leader, second small worker and older U017 fan role must not be collapsed without their stated evidence. Some later pair utterances are jointly owned and not uniquely assigned.",
+    "Karen the reported MASK colleague has no explicit surname bridge to Donnelly head Karen. Karen/Yukinori, the third offscreen member and unnamed epilogue pair/child retain role/fate/parentage limits.",
+    "Nativeブラッド/ロザリー control; Brad/Rosary are project retrieval labels. P47/P49 are occupation locators, not numerical levels. The capital highest-level priest is not automatically Rosary.",
+    "Nativeアンダイン and household/artifact/thief context support the MAIN08/MASK/CONTEXP01 bridge. Acquisition illegality is Chris report, denial an expectation, lost-artifact theft the noble report, and Aigis departure an enacted autonomous choice; retain the separate planes.",
+    "U019P529 full-erasure danger and P434 age comparison are private narrator information. No received full-risk warning is shown; the worker remaining-life offer can reflect an incomplete risk estimate. MAIN02 stated checkout fee is requested with a wallet produced, not an independently shown transfer receipt. The first attempted removal of Aigis fails without certifying that no other asset was taken."
+  ],
+  "source_layers": [
+    "Kazuma direct observation/narration/inference",
+    "human Wiz recalled first-person past",
+    "Vanir current narration and retrospective account",
+    "named actor speech",
+    "compelled host utterance versus resisting host speech",
+    "joint/untagged group voice",
+    "reported past, proposed act, performed act and confirmed outcome",
+    "paratext/image/whole-edition scope separately inherited, not newly viewed"
+  ],
+  "preservation_verification": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 51,
+    "control_baseline": "Accepted owner-integrated main controls preserved at a90722d065e56e8fe2c2131e4307e4fa03d0c289; epoch1 migration files remain historical,not current routing.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true,
+    "C27_twenty_cores_compact_fragment_exact": true,
+    "C28_twenty_eight_cores_thirtytwo_private_twentyfour_original_firsts_exact": true,
+    "C28_eighty_nine_raw_deliveries_exact": true,
+    "WORK92_exact": true,
+    "current_C28_public_gate_exact": true,
+    "C29_thirteen_cores_seventeen_private_sixteen_original_firsts_exact": true,
+    "C29_sixty_eight_raw_deliveries_exact": true,
+    "WORK94_exact": true,
+    "current_C29_public_gate_exact": true,
+    "C30_nineteen_cores_twenty_three_private_twenty_four_original_firsts_exact": true,
+    "C30_thirty_three_raw_deliveries_exact": true,
+    "WORK96_exact": true,
+    "current_C30_public_gate_exact": true,
+    "C31_twenty_nine_cores_thirty_three_private_twenty_six_original_firsts_exact": true,
+    "C31_fifty_six_native_copies_exact": true,
+    "WORK98_exact": true,
+    "current_C31_public_gate_exact": true
+  },
+  "current51_models_exact": true,
+  "all_original_firsts_and_scores_and_blanks_and_nulls_and80scratch_exact": true,
+  "same_informed_author_all_stages": true,
+  "all_contrasts_visible": true,
+  "new_current_images": 0,
+  "new_non_P_residual_claim": false,
+  "OCR_audio_new_human_external_model_or_independent_observer": false,
+  "new_whole_source_ruby_residual_image_set_admission_or_independent_credit": 0,
+  "formal_tiers_are_scope_candidates_until_receiving": true,
+  "exact_new_inputs_or_firsts_serialized": false,
+  "raw_media_in_repository": false,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "full_program_complete": false,
+  "previous_draft_file": "COHORT32_NATIVE_PROVENANCE_DRAFT_01.json",
+  "previous_draft_sha256": "343490d09de5317236eec0a66c2b9fec49fd3c53ba491b2bebb4289db4699edd",
+  "prefreeze_precision_file": "COHORT32_PREFREEZE_PRECISION_01.json",
+  "prefreeze_precision_sha256": "ac20c5cd3e2b8e5a08565ca50efe411244e6bfee66cc6d328b6df13613f43d86",
+  "post_review_seal_source_precision": {
+    "file": "COHORT32_NATIVE_AFTER_VIEW_NOTES_05.md",
+    "bytes": 1567,
+    "sha256": "9b44f0cb1516272793e502a9cb15f30d9b46e95e3d4cb091e2058c85bfbda5c1",
+    "new_native_reading_credit": 0
+  },
+  "current_scope_assessment_file": "COHORT32_SCOPE_ASSESSMENT_02.json",
+  "current_scope_assessment_sha256": "05c3860cfa3fccf02ec496e47e3618203a029ca435dc96862e464260cc056803",
+  "current_new_discovery_file": "COHORT32_NEW_DISCOVERY_RECORDS_DRAFT_02.json",
+  "current_new_discovery_sha256": "793ab0c53abec1fbeb1532f17e015e107712e45741f2f8fe6a03f881de2bcdc1"
+}

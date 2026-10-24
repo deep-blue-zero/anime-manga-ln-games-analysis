@@ -1,0 +1,150 @@
+{
+  "schema": "konosuba.cohort30.same-author-first-output-annotations.v1",
+  "subject": "Erika",
+  "recorded_utc": "2026-10-24T05:24:45.244163+00:00",
+  "annotated_after_all24_body_freeze_sha256": "ca402376d1cb9db19faa7a8e5d77980ad53d660b290965ae65053920b8758464",
+  "first_output_aggregation_sha256": "5a4a02f67dc82e0f80ed43c58ed25410d9a061fa277d3195062aa4cc22cbced4",
+  "foundation_seal_sha256": "d732ece2042e585a2801246830d9ad875fbeb0070064068ed98a82f661ccef70",
+  "exact_input_freeze_sha256": "8eea093ea2e54917c2d33f9ee273aba7f66b7611be9c9c2cdaaa13fc3c00e0d7",
+  "same_informed_root_author": true,
+  "independent_judge": false,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "global_method_limits": [
+    "This same informed root authored source interpretation,models,exact prompts,original outputs andannotations;allcontrasts visible.",
+    "Strong cues,generic rivals and methodological English prose limit identification. No Japanese voice/audio/native-human assessment.",
+    "Internal reasoning phrases and boundary disclaimers are authorial exposition,not demonstrated source speech. Apparent consistency is not independent accuracy.",
+    "No prospective unread source,no blind holdout,no grade/confidence gain,no completed nine-category final battery.",
+    "All unsupported additions,overidealized choices and adverse overrides remain in immutable first bodies; no regeneration or feedback repair."
+  ],
+  "cases": [
+    {
+      "case_id": "ER-H01-A",
+      "raw_body_sha256": "61d7b1f2e914fcfe977cda90d076d44b621c2b82d4f959f32fff6f906a61d711",
+      "descriptive_receiving": "Praise draws limited willingness and a ten-minute boundary; no extra prior conversation or completed carry.",
+      "limits_and_unprovided_additions": "Task is safe/short and praise explicit, so generic reward seeking fits. The requested future limit is a new proposal, not an established negotiation history.",
+      "word_count": 110,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "ER-H01-B",
+      "raw_body_sha256": "ff0c35d0e4aaaad4723f07f34b52493b73891c8dbdc25c71238ae6381b8c964b",
+      "descriptive_receiving": "Exposed unrepaired harm blocks cooperation; asks acknowledgment without inventing it.",
+      "limits_and_unprovided_additions": "Generic fairness or resentment explains the contrast. This does not prove lie detection, permanent distrust or actual restitution.",
+      "word_count": 108,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "ER-H02-A",
+      "raw_body_sha256": "42688b2a2df2cae5b483d1094ee7c5d7a36ef6d081edf8b20bcb6c7dea771fd7",
+      "descriptive_receiving": "Treats trusted route information as reason to approach, without retrieving or selling stone.",
+      "limits_and_unprovided_additions": "Questions a fact already supplied, then moves without a new answer; does not invent that reply. Strongly provided assurance prevents identification of Ranger skill or exact risk tolerance.",
+      "word_count": 111,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "ER-H02-B",
+      "raw_body_sha256": "e5cd290b164d645f7c01a3cb6ae32b891bf3a1bd104e835f1bd8c8e108ff93a0",
+      "descriptive_receiving": "Starts forward, pauses at loose boards and asks for checking without a result.",
+      "limits_and_unprovided_additions": "No urgent deadline was supplied; the response treats that lack as no deadline requiring action. It should not establish an audited absence of every time constraint. More careful checking is hypothetical, not proven durable learning from the prior mishap.",
+      "word_count": 115,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "ER-H03-A",
+      "raw_body_sha256": "eef29fffece0fce5dd6272af44d9e81ec3ba5b7b8252e0ceb6f0bf14440c6a4e",
+      "descriptive_receiving": "Rejects conflicting solo offer in favor of named trio and proposes asking about all three.",
+      "limits_and_unprovided_additions": "No organizer acceptance or partner release. The existing commitment alone could explain refusal; the group proposal is Erika request, not an offered alternative.",
+      "word_count": 112,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "ER-H03-B",
+      "raw_body_sha256": "6cd005c7a3f18614c28384b323a2a4ea2596eed2df71ef5678670a95daa09e51",
+      "descriptive_receiving": "Seeks schedule change rather than abandoning an existing one-event commitment.",
+      "limits_and_unprovided_additions": "The same nonacceptance occurs in A/B. Generic obligation or reputation remains sufficient; this pair does not identify how much particular friendship adds.",
+      "word_count": 110,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "ER-H04-A",
+      "raw_body_sha256": "09e9288c2d88642ba60ecbe723465c1bc6a85ab86fe690f34504798e0bdc8e6b",
+      "descriptive_receiving": "Makes an unauthorized public whole-fund pledge under applause; no co-owner agreement or actual transfer supplied.",
+      "limits_and_unprovided_additions": "The lapse is a deliberately allowed imperfect choice. Source Erika endorsed Lia promise; this imagined initiating pledge is an extrapolation. Praise/public pressure are bundled, not a causal isolation of audience reward.",
+      "word_count": 117,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "ER-H04-B",
+      "raw_body_sha256": "611a9a6e215629cf2d624d6f90dd4978eeb97fbfd6baebfb3db21d42a486a77d",
+      "descriptive_receiving": "Keeps permission and sum unresolved rather than promising others money.",
+      "limits_and_unprovided_additions": "The cautious decision is hypothetical and normatively cued; it supplies no learned financial policy, tested restitution or evidence that quiet settings guarantee restraint.",
+      "word_count": 113,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    }
+  ],
+  "paired_descriptive_findings": [
+    {
+      "pair_id": "ER-H01",
+      "finding": "Willingness under praise changes to refusal after exposed harm. Generic fairness remains a rival; no persuasion accuracy or durable trust calibration."
+    },
+    {
+      "pair_id": "ER-H02",
+      "finding": "Assured route yields approach; visible unchecked hazards yield pause/request. Assurance and danger facts change; no isolated Ranger mechanism or lasting learning."
+    },
+    {
+      "pair_id": "ER-H03",
+      "finding": "Both decline immediate conflicting acceptance. A particular-trio wording versus B timing request does not distinguish friendship from ordinary commitment."
+    },
+    {
+      "pair_id": "ER-H04",
+      "finding": "Public condition yields unapproved pledge, quiet condition permission question. Praise and audience pressure bundled; initiating source-extrapolated lapse not proof of a stable causal financial rule."
+    }
+  ],
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "full_program_complete": false
+}
