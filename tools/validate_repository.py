@@ -15,6 +15,7 @@ from typing import Any, Mapping
 from urllib.parse import unquote_to_bytes
 
 from character_index_core import (
+    DISCOVERY_REGISTRY_PREFIX,
     RECONSTRUCTION_INDEX_PATH,
     RECONSTRUCTION_POLICY_PATH,
     RECONSTRUCTION_REGISTRY_PATH,
@@ -23,12 +24,15 @@ from character_index_core import (
     DomainError,
     _restricted_yaml_load,
     GitSnapshot,
+    current_layout_errors,
     decode_json,
     decode_jsonl_with_lines,
     decode_reconstruction_registry,
     evaluate_reconstruction_assessments,
     is_ancestor_commit,
+    is_discovery_output,
     load_reconstruction_policy,
+    read_discovery_registry,
     reconstruction_registry_changes,
     render_schema_diagnostics,
     run_git,
@@ -37,7 +41,7 @@ from character_index_core import (
     validate_repository_path,
     validate_schema_document,
 )
-from generate_character_index import render as render_character_index
+from generate_character_index import generated_output_errors, render_outputs
 from generate_reconstruction_index import render as render_reconstruction_index
 from completed_run_publication import CompletionProof, PROOF_NAME
 from audit_timing import AuditTimer, report_path, write_report
@@ -109,9 +113,9 @@ ARCHIVED_PROTECTED_HASHES = {
 # The evaluator's ordinary production delta. Any other path changed beside
 # these requires a reviewed amendment that also changes the publication gate.
 RECONSTRUCTION_OUTPUTS = frozenset({RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PATH})
-# The curation agent's ordinary delta on its continuing branch.
+# The curation agent's ordinary delta on its continuing branch is the set of
+# paths accepted by character_index_core.is_discovery_output.
 DISCOVERY_BRANCH_REF = "refs/remotes/origin/character-registry"
-DISCOVERY_OUTPUTS = frozenset({"characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md"})
 NATIVE_SHEET_SCHEMA = "governance/schemas/native-sheet-structure.schema.json"
 NATIVE_SHEET_SCHEMA_ID = "manga-anime-git-migration/native-sheet-structure/v1"
 NATIVE_SHEET_TRANSFORMATION = (
@@ -1148,28 +1152,17 @@ def validate_protected(snapshot: GitSnapshot, hashes: Mapping[str, str] = PROTEC
 def validate_generated_index(
     snapshot: GitSnapshot, snapshot_kind: str, authority: AuthorityGraph | None = None
 ) -> list[str]:
-    registry = snapshot.get("characters/registry.jsonl")
-    output = snapshot.get("CHARACTER_ANALYSIS_INDEX.md")
-    if registry is None or output is None:
-        return ["character registry or generated index is missing"]
     try:
-        records = [
-            record
-            for _line_number, record in decode_jsonl_with_lines(
-                registry.data, f"{snapshot.identity}:characters/registry.jsonl"
-            )
-        ]
+        records = read_discovery_registry(snapshot).records
         if snapshot_kind == "worktree" and records:
             return [
                 "worktree bytes cannot establish materialization; use an exact Git index or commit snapshot"
             ]
         graph = authority if authority is not None else AuthorityGraph(snapshot)
-        rendered = render_character_index(records, graph).encode("utf-8")
+        rendered = render_outputs(records, graph)
     except (DomainError, UnicodeDecodeError, ValueError) as exc:
         return [f"unable to render character index: {exc}"]
-    if output.data != rendered:
-        return ["CHARACTER_ANALYSIS_INDEX.md is out of date"]
-    return []
+    return generated_output_errors(snapshot, rendered)
 
 
 def validate_generated_repository_indexes(snapshot: GitSnapshot) -> list[str]:
@@ -2947,6 +2940,7 @@ def validate_change_obligations(snapshot: GitSnapshot) -> list[str]:
     seen_ids: set[str] = set()
     allowed_kinds = {
         "path_changed",
+        "path_prefix_changed",
         "top_level_roots_changed",
     }
     for index, rule in enumerate(rules):
@@ -2967,6 +2961,15 @@ def validate_change_obligations(snapshot: GitSnapshot) -> list[str]:
             errors.append(f"{label}.trigger.kind is not recognized: {kind!r}")
         if kind == "path_changed" and not _valid_nonempty_string(trigger.get("path")):
             errors.append(f"{label}.trigger.path must be a nonempty string")
+        if kind == "path_prefix_changed":
+            prefix = trigger.get("prefix")
+            if not _valid_nonempty_string(prefix) or not prefix.endswith("/"):
+                errors.append(f"{label}.trigger.prefix must be a directory path ending in /")
+            else:
+                try:
+                    validate_repository_path(prefix.rstrip("/"))
+                except DomainError as exc:
+                    errors.append(f"{label}.trigger.prefix is invalid: {exc}")
         if kind == "top_level_roots_changed" and trigger.get("root") not in {
             "series/",
             "studies/",
@@ -4113,20 +4116,19 @@ def validate_current_domain(
     authority: AuthorityGraph | None = None,
 ) -> list[str]:
     errors: list[str] = []
-    registry_entry = snapshot.get("characters/registry.jsonl")
     series_entry = snapshot.get("series/registry.json")
     discovery_schema_entry = snapshot.get("governance/schemas/character-analysis-index.schema.json")
     reconstruction_schema_entry = snapshot.get(
         "governance/schemas/character-reconstruction-capability.schema.json"
     )
-    if not all((registry_entry, series_entry, discovery_schema_entry, reconstruction_schema_entry)):
+    if not all((series_entry, discovery_schema_entry, reconstruction_schema_entry)):
         return ["current Character Index v2 inputs are incomplete"]
     try:
-        records_with_lines = decode_jsonl_with_lines(
-            registry_entry.data,
-            f"{snapshot.identity}:characters/registry.jsonl",
-        )
-        records = [record for _line_number, record in records_with_lines]
+        registry = read_discovery_registry(snapshot)
+        layout_errors = current_layout_errors(registry)
+        if layout_errors:
+            return errors + layout_errors
+        records = registry.records
         series_registry = decode_json(series_entry.data, "series/registry.json")
         discovery_schema = decode_json(
             discovery_schema_entry.data,
@@ -4140,13 +4142,13 @@ def validate_current_domain(
             validate_schema_document(discovery_schema, "character discovery schema")
             validate_schema_document(reconstruction_schema, "reconstruction capability schema")
             diagnostics = []
-            for line_number, record in records_with_lines:
+            for row in registry.rows:
                 diagnostics.extend(
                     schema_diagnostics(
-                        record,
+                        row.record,
                         discovery_schema,
-                        "characters/registry.jsonl",
-                        line_number=line_number,
+                        row.path,
+                        line_number=row.line_number,
                     )
                 )
             schema_failures = render_schema_diagnostics(diagnostics)
@@ -4166,6 +4168,7 @@ def validate_current_domain(
                 series_registry,
                 snapshot=snapshot,
                 authority=authority,
+                labels=registry.labels,
             )
         )
     except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
@@ -4290,17 +4293,10 @@ def validate_reconstruction_domain(
             "and published history; fetch main first"
         )
     current_records: list[dict[str, Any]] = []
-    discovery_entry = snapshot.get("characters/registry.jsonl")
-    if discovery_entry is not None:
-        try:
-            current_records = [
-                record
-                for _line_number, record in decode_jsonl_with_lines(
-                    discovery_entry.data, f"{snapshot.identity}:characters/registry.jsonl"
-                )
-            ]
-        except DomainError as exc:
-            errors.append(str(exc))
+    try:
+        current_records = read_discovery_registry(snapshot).records
+    except DomainError as exc:
+        errors.append(str(exc))
     evaluation = evaluate_reconstruction_assessments(
         assessments,
         root,
@@ -4386,11 +4382,14 @@ def validate_discovery_branch_confinement(root: Path, kind: str, commit: str | N
         changed = _reconstruction_delta_paths(root, kind, base, commit)
     except DomainError as exc:
         return [f"unable to determine the discovery branch delta: {exc}"]
-    extra = sorted(changed - DISCOVERY_OUTPUTS, key=lambda item: item.encode("utf-8"))
+    extra = sorted(
+        (path for path in changed if not is_discovery_output(path)),
+        key=lambda item: item.encode("utf-8"),
+    )
     if extra:
         return [
-            "character-registry delta may contain only characters/registry.jsonl and "
-            f"CHARACTER_ANALYSIS_INDEX.md; other changed paths: {extra}"
+            f"character-registry delta may contain only {DISCOVERY_REGISTRY_PREFIX} partitions "
+            f"and the generated character index; other changed paths: {extra}"
         ]
     return []
 
@@ -4451,14 +4450,19 @@ def validate_routing_branch_scope(root: Path, kind: str, commit: str | None, bra
         changed = _reconstruction_delta_paths(root, kind, base, commit)
     except DomainError as exc:
         return [f"unable to determine the analysis branch delta: {exc}"]
-    allowed = set(ROUTING_OUTPUTS) | set(DISCOVERY_OUTPUTS)
     extra = sorted(
-        (path for path in changed if path not in allowed and not path.startswith(branch + "/")),
+        (
+            path
+            for path in changed
+            if path not in ROUTING_OUTPUTS
+            and not is_discovery_output(path)
+            and not path.startswith(branch + "/")
+        ),
         key=lambda item: item.encode("utf-8"),
     )
     if extra:
         return [
-            f"{branch} may change only its own root, the five routing outputs and the two "
+            f"{branch} may change only its own root, the five routing outputs and the "
             f"discovery outputs; other changed paths: {extra}"
         ]
     return []
@@ -4490,7 +4494,7 @@ def main() -> int:
     parser.add_argument(
         "--discovery-branch-confinement",
         action="store_true",
-        help="require the delta against main to contain only the two discovery outputs",
+        help="require the delta against main to contain only discovery outputs",
     )
     parser.add_argument("--result-json", type=Path)
     parser.add_argument("--timings-json", type=Path)

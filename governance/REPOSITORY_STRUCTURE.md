@@ -6,7 +6,10 @@ LICENSE.md
 THIRD_PARTY_NOTICES.md
 CHARACTER_ANALYSIS_INDEX.md
 characters/
-  registry.jsonl
+  registry/
+    <namespace>.jsonl
+  index/
+    <namespace>.md
   RECONSTRUCTION_CAPABILITY_SPEC.md
   reconstruction_capabilities.jsonl
   CHARACTER_RECONSTRUCTION_INDEX.md
@@ -38,7 +41,7 @@ tools/
 
 `governance/analytical-methods/` is the canonical home for reusable corpus-level analytical reference methods. These opt-in references are not automatically project-local governing methods.
 
-`characters/registry.jsonl` contains discovery metadata only. Substantive character monographs belong in the canonical series or study tree. Reconstruction capability assessments use `characters/reconstruction_capabilities.jsonl` and its generated `characters/CHARACTER_RECONSTRUCTION_INDEX.md`, written only by the reconstruction evaluator; neither holds analytical prose. Series-local reconstruction manifests and empty symmetry folders are not required.
+The partitions `characters/registry/<namespace>.jsonl` hold discovery metadata only, one partition per character ID namespace; `CHARACTER_ANALYSIS_INDEX.md` and the namespace pages `characters/index/<namespace>.md` are generated from them (`characters/README.md` specifies the layout). Substantive character monographs belong in the canonical series or study tree. Reconstruction capability assessments use `characters/reconstruction_capabilities.jsonl` and its generated `characters/CHARACTER_RECONSTRUCTION_INDEX.md`, written only by the reconstruction evaluator; neither holds analytical prose. Series-local reconstruction manifests and empty symmetry folders are not required.
 
 Stable slugs use the best-known English or official Latin-script title, lowercase ASCII, and hyphens. A Japanese-script Drive directory is not mechanically transliterated when an established title exists. Slugs are owner-reviewed and remain stable after publication; alternate titles belong in metadata.
 

@@ -66,7 +66,7 @@ For long-series work, the owner's preferred arrangement is:
 
 The detailed phase gates are owned by the long-series protocol rather than duplicated here. Either environment can design architecture when adequately supplied. A cloud session is not restricted to outlining or drafting summaries; it may be the substantive analytical author.
 
-A Git-capable local integrator is the default ordinary writer for this topology, not a replacement for existing specialized owners. In particular, character discovery and `characters/registry.jsonl` plus `CHARACTER_ANALYSIS_INDEX.md` remain with the authorized curation agent. Housekeeping-owned outputs remain with their designated maintenance process. The integrator coordinates necessary repairs instead of acquiring those responsibilities silently.
+A Git-capable local integrator is the default ordinary writer for this topology, not a replacement for existing specialized owners. In particular, character discovery and its outputs, the `characters/registry/` partitions plus the generated `CHARACTER_ANALYSIS_INDEX.md` and `characters/index/` pages, remain with the authorized curation agent. Housekeeping-owned outputs remain with their designated maintenance process. The integrator coordinates necessary repairs instead of acquiring those responsibilities silently.
 
 Read-only cloud Git retrieval is optional when reliable and authorized. Prefer a verified snapshot package when connector behavior is unreliable. Cloud synthesis must not depend on the ability to commit.
 

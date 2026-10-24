@@ -16,7 +16,7 @@ from analytical_preflight import ROUTING_OUTPUTS, routing_preflight
 from character_index_core import (
     RECONSTRUCTION_POLICY_PATH, AuthorityGraph, DomainError, GitSnapshot, SnapshotEntry,
 )
-from generate_character_index import render
+from generate_character_index import render_outputs
 from update_repository_indexes import expected_outputs
 from validate_repository import (
     RECONSTRUCTION_OUTPUTS, _policy_from_snapshot, _reconstruction_delta_paths,
@@ -56,9 +56,10 @@ def fixture(*, new_root: bool = True) -> GitSnapshot:
     base = GitSnapshot(TOOLS.parent, SOURCE_SHA, entries)
     for path, data in expected_outputs(base).items():
         entries[path] = entry(path, data)
-    entries["characters/registry.jsonl"] = entry("characters/registry.jsonl", b"")
+    # An empty partitioned registry has no partition files.
     entries["CHARACTER_ANALYSIS_INDEX.md"] = entry(
-        "CHARACTER_ANALYSIS_INDEX.md", render([], AuthorityGraph(base)).encode(),
+        "CHARACTER_ANALYSIS_INDEX.md",
+        render_outputs([], AuthorityGraph(base))["CHARACTER_ANALYSIS_INDEX.md"].encode(),
     )
     if new_root:
         entries[ENTRYPOINT] = entry(ENTRYPOINT, (

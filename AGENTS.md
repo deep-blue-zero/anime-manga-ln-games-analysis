@@ -18,7 +18,7 @@ Any provider's agent may fill a role. Each role writes only its own paths, and o
 | --- | --- | --- | --- | --- |
 | Analysis author | Literary analysis, deep reading, character reconstruction | Its `series/` or `studies/` root and routing descriptor | PR merged by the CI agent | This card, the checklist and routing |
 | CI agent | Review, reconcile, repair and merge open PRs | Repairs on PR branches | The merge gate | `governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md` |
-| Character discovery agent | Keep the character registry current | `characters/registry.jsonl`, `CHARACTER_ANALYSIS_INDEX.md` | PR on `character-registry` | `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md` |
+| Character discovery agent | Keep the character registry current | `characters/registry/<namespace>.jsonl` partitions, the generated `CHARACTER_ANALYSIS_INDEX.md` and `characters/index/` pages | PR on `character-registry` | `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md` |
 | Reconstruction evaluator | Grade how well evidence supports modeling each character | `characters/reconstruction_capabilities.jsonl`, `characters/CHARACTER_RECONSTRUCTION_INDEX.md` | PR on `character-reconstruction` | `governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md` |
 | Housekeeping (workflow) | Regenerate series/study routing | The five routing outputs | A child commit on the analysis branch | `governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md` |
 | Drive inventory agent | Keep the inventory of primary-source folders on Google Drive current | Nothing in Git | — | [Drive inventory](#drive-inventory) |
