@@ -5,20 +5,21 @@ artifact_type: corpus_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.32"
+version: "0.33"
 status: active_provisional
 scope: "Single current entrypoint, source/readiness boundaries and next permitted operation"
-source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized V01–V18 narrative run completed;Localoriginal-mangaliteraryscopecomplete;G4operationalblocked;G6externalreleaseunperformed"
+source_boundary: "Original Japanese 新装版 V01–V18; admitted sequential run complete; second-pass literary review PASS_SCOPED; local index/source verification passed; G4 operational blocked; main integration unperformed"
 canonical_home: series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-16"
-review_status: OWNER_AUTHORIZED_SECOND_PASS_IN_PROGRESS
+review_status: LOCAL_G6_SOURCE_INDEX_VERIFIED_REMOTE_STATUS_EXTERNAL
+final_index_and_source_verification: PASS_STAGED_INDEX_9626_PATHS_AND_SOURCE_INTEGRITY
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 project_initialization:
   status: active_provisional
-  architecture_lifecycle: EVOLVING
+  architecture_lifecycle: STABILIZED
   bootstrap_generation: PEACH_GIRL_BOOTSTRAP_V1
   governing_method: "00 Frameworks and Methods/PEACH_GIRL_ANALYTICAL_METHOD.md"
   synthesis_architecture: "00 Frameworks and Methods/PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md"
@@ -52,30 +53,35 @@ analytical_execution:
   sequential_units_admitted: 18
   sequential_units_completed: 18
   committed_narrative_high_water_mark: V18
-  character_reconstruction_readiness: LITERARY_READY_SCOPED_OPERATIONAL_BLOCKED_NO_HELD_OUT_VALIDATION
+  character_reconstruction_readiness: BOUNDED_PROVISIONAL
+  operational_reconstruction_acceptance: BLOCKED_NO_HELD_OUT_VALIDATION
   publication: OWNER_AUTHORIZED_CONDITIONAL_SECOND_PASS_PUBLICATION
 repository_state:
   stable_branch: series/peach-girl
   routing_input: series/peach-girl/.repository/series-registry.json
   materialization_status: PRESENT_UNREVIEWED
-  main_integration: NOT_PERFORMED_SECOND_PASS_REVIEW_PENDING
-  integration_hold_required: DRAFT_PR_OR_NIGHTLY_HOLD
+  main_integration: NOT_PERFORMED_OWNER_ACCEPTANCE_PENDING
+  integration_hold_required: PRESERVE_INDEPENDENT_HOLDS_CONDITIONAL_READY_AUTHORIZED
 ---
 
 # Peach Girl — current state and corpus map
 
-This is the single current first-read surface for Miwa Ueda's ピーチガール at `series/peach-girl/`, on continuing branch `series/peach-girl`. Generation `PEACH_GIRL_BOOTSTRAP_V1` preserves the original provisional lineage. Architecture0.3 has evolved through actual source completion, reconciliation, specialist work and model assessment; owner acceptance remains pending. Git is the analytical plane under live authority epoch 1; Drive collection ID `1kxx4orHjiHg_CEI1fZyifjt8_e9WNmMp` is the canonical primary/derived evidence route, resolved through the source map. No prior Peach Girl analytical root was discovered; existing source-ingestion infrastructure is preserved.
+This is the single current first-read surface for Miwa Ueda's ピーチガール at `series/peach-girl/`, on continuing branch `series/peach-girl`. Generation `PEACH_GIRL_BOOTSTRAP_V1` preserves the original provisional lineage. Architecture0.6 is STABILIZED for the reviewed literary organization after actual source completion, reconciliation, analytical deepening and bounded dossier assessment; owner acceptance remains pending. Git is the analytical plane under live authority epoch 1; Drive collection ID `1kxx4orHjiHg_CEI1fZyifjt8_e9WNmMp` is the canonical primary/derived evidence route, resolved through the source map. No prior Peach Girl analytical root was discovered; existing source-ingestion infrastructure is preserved.
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
 `NEXT_PERMITTED_OPERATION = NONE_ORIGINAL_SERIES_TERMINAL`
-## Current independent second pass — 2026-10-23
+## Current independent second pass — 2026-10-24
 
-The owner has authorized a complete independent source audit and analytical deepening of the already-admitted Japanese V01–V18, with conditional publication and Draft-to-Ready review submission. [Second-pass audit and receipt register](07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_AUDIT_20261023.md) is the current route for its scope, capabilities, exposure limitations, progress, findings and dependencies. [Method0.3](00%20Frameworks%20and%20Methods/PEACH_GIRL_ANALYTICAL_METHOD.md) and [architecture0.5](00%20Frameworks%20and%20Methods/PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md) govern this prospective audit; lifecycle EVOLVING applies to the explicit reassessment. The original run remains completed/V18/NONE; its historical readings, freezes, claims and failed reconstruction probes remain preserved.
+The owner authorized independent source audit and analytical deepening of the already-admitted Japanese V01–V18, with conditional publication and Draft-to-Ready review submission. The [second-pass audit0.6](07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_AUDIT_20261023.md) owns capabilities, exposure limitations, coverage and review state. [Method0.3](00%20Frameworks%20and%20Methods/PEACH_GIRL_ANALYTICAL_METHOD.md) and [architecture0.6](00%20Frameworks%20and%20Methods/PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md) govern; STABILIZED concerns the reviewed literary organization, not owner acceptance, frozen governance or operational validation. The original run remains completed/V18/NONE with no new candidate; original readings, freezes, claim versions and failed reconstruction probes are preserved.
 
-**Pass A COMPLETE: 18/18 volumes, 3198/3198 originals actually visually inspected by four attributed readers, 0 mandatory unread/access gaps. Ordered Pass B COMPLETE through V18.** The [source-first receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_SOURCE_RECEIPTS_20261023.json) binds exact witnesses, actual readers, final note/receipt hashes and timestamps to the independent aggregate frozen2026-10-24T03:39:24Z. Original note bytes remain preserved with separate own-note corrections. Root compared V01–V07; /root/source_integrity V08–V10; /root/pr_recon V11–V14; /root/method_amendment V15–V18; root read and accepted all substantive reports. The [canonical reconciliation and supplements](07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md) own eighteen bounded findings, three V02 source observations, reading-to-correction routes, own-note qualifications and comparison receipts. Character0.22, relationship0.20, information0.21 and claims0.21 contain scoped corrections, including current CL0020@14/RV0158. Mature integration, dossiers and fresh G3/G4/G5/G6 assessments remain pending. Prior narrative exposure is disclosed; this is not a blind comparison. Earlier dated completion/publication statements below are historical stages.
+**Pass A COMPLETE: 18/18 volumes, 3198/3198 originals actually visually inspected by four attributed readers, 0 mandatory unread/access gaps. Ordered Pass B COMPLETE through V18.** The [source-first receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_SOURCE_RECEIPTS_20261023.json) binds exact witnesses, readers, final note/receipt hashes and timestamps to the aggregate frozen2026-10-24T03:39:24Z. Original notes remain with separate corrections; prior exposure is disclosed and this is not blind validation. Root compared V01–V07; /root/source_integrity V08–V10; /root/pr_recon V11–V14; /root/method_amendment V15–V18; root read and accepted all substantive reports. The [canonical reconciliation](07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md) owns eighteen bounded findings, three V02 observations, routes, own-note qualifications and comparison receipts.
 
-The audit begins at remote head `e1e4b98c2875a4be5bfd30f6a292fb99a553db36`, with current main `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd` reconciled without rewriting history. Existing [PR303](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/303) remains Draft. The current instruction permits Ready for review only after all mandatory source inspection, corrections, semantic reconciliation, local validation and the exact-final-head remote audit pass. An independent hold, if imposed, must be preserved. No merge is authorized. G4 operational acceptance remains `BLOCKED_NO_HELD_OUT_VALIDATION`; literary reconstruction development cannot remove that limit.
+Scoped corrections and mature propagation are complete for the reviewed literary scope. Character0.23, relationship0.20, information0.21 and claims0.21 retain the four histories, including current CL0020@14/RV0158. The [coverage and gate reassessment1.0](07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_COVERAGE_AND_GATE_REASSESSMENT_20261024.md) owns the full source-to-synthesis matrix, attribution/self-authorship limits and fresh root G3/G5 PASS_SCOPED decisions for the eighteen reviewed artifacts: twelve mature studies and six dossiers. The [reconstruction reassessment0.1](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SECOND_PASS_RECONSTRUCTION_REASSESSMENT_20261024.md) records 69 selected states with six local BOUNDED_PROVISIONAL dispositions/RD0007–RD0012. The 46 principal proposed vectors remain UNEXECUTED retrospective material. G4 operational acceptance remains BLOCKED_NO_HELD_OUT_VALIDATION / NOT_ACCEPTED; no acoustic, conversational or predictive portability is claimed.
+
+G6 semantic/reference review is complete for the reviewed contents and navigation. Current remaining status is LOCAL_G6_SOURCE_INDEX_VERIFIED_REMOTE_STATUS_EXTERNAL; final local index/source verification is **PASS_STAGED_INDEX_9626_PATHS_AND_SOURCE_INTEGRITY**. Author preflight passed for the staged 9,626-path candidate; final administrative changes are revalidated before commit. A successful remote audit at the exact final head is required before Ready, with actual status recorded in the PR/provider history. Original G1–G6 closures below remain historical stages and do not substitute for these second-pass dispositions or outstanding checks.
+
+The audit began at e1e4b98c2875a4be5bfd30f6a292fb99a553db36, with main6a3afaaf1bb61e0993db379ab4074c46e9ea98dd reconciled without rewriting history. Corrective ledger checkpoint59ace4c8885e9b046ae12d19c863a8ae605b900a predates the mature/dossier adoption. Final own-commit identity, exact-head remote CI and any actual Draft-to-Ready transition belong to immutable Git/provider history; this entrypoint cannot predeclare its own eventual commit SHA. [PR303](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/303) was Draft at baseline. The owner permits Ready only after all mandatory conditions actually pass, preserving any independent hold. Owner result acceptance, main merge and evidence-plane publication are not claimed.
 
 **New owner-authorized Route B continuation; pre-V05 source audit closed with corrections.** Work's substantive analytical corpus was not recovered. The [recovery receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_RECOVERY_RECEIPT_20261019.md) preserves the earlier stop and input provenance; the [Codex source audit](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md) records 177 directly checked V01–V04 images, findings, alternatives and successor ledger versions at PG-AUDIT-20261019. Historical PG-FR-V01…V04 remain unchanged. The audit was committed at `364ffc6f8cb4a01a56ad219761d867abaf7874b2` and independently restored from its verified outside-checkout backup before V05. New Codex V05 was committed at `15163c502663711b6a93b3c75a8bf1ab9d8721af` and its outside-checkout backup independently restored before V06. V06 was committed at `4f0f8b27650bb7a5757d9d61544846074baf5727`, with the openly dated own V05 perfume-selection correction, and independently restored before V07 admission. V07 was committed at `33e2adb495b6064f13f6a1f8c96c76f40ff3a841` and independently restored before V08 admission. V08 was committed at `c169ba0fac6c0ab688487359d46d327debcec1f9` and independently restored before V09 admission. V09 was committed at `cefe98342814d999180d5e2ff6a6641afc8cd00d` and independently restored before V10 admission. V10 was committed at `fac04c2dcd5570ce56340b9d533b9af74a945ed2` and independently restored before V11 admission. V12 was committed at `b5e88031b837249a718914c8efcd623f9983bfd5` and independently restored before V13 admission. V17 committedaf76e3b678a45b70634db805934ec8ddaa459ef5 and independently restored32-file outside snapshot before V18. V18 closes187 inspected/172main; actualTchoice then newS/Mis disclosures, twoTstops and intervening physicalconstraint, M explicitKchoice143/actualrescuebreaths168–169/finalM-Kcouple178. Saeadmitsforgedemail176; Kwaterdangeractualcase-retrievalaccident, notsuicide. V18flash116–117 corrects ownV15strongsexualnightinference by agreednothinguntilmorning; priorV15bytes/freeze retained. PR0022DISCONFIRMED: RinjuryreachesM61 butpolicecauseneverdoes. Terminal narrative run completed/NONE nextcandidate; OPENlock doesnotauthorizeanothernarrative run. G1/G2 next afteratomicV18commit/independentbackup; mature synthesis waitscommittedG2. Source samples do not certify an independent full four-volume re-read.
 
@@ -91,8 +97,8 @@ The owner's 2026-10-16 instruction authorizes a `continuous_sequential` run over
 | Unresolved source structure | Chapter boundaries, printed-page mapping and internal components/extras: navigation offers only 表紙/本編, so these are established by inspection at each volume's admission |
 | Narrative admission / inspection | Volumes are admitted and closed one at a time; the committed high-water mark in the front matter and the table of closed readings below are authoritative |
 | Longitudinal state | Four instruments carry source-derived rows through the committed high-water mark; each volume transaction appends to all four or records no material change |
-| Character reconstruction | Six readiness dispositions; four frozen categorical prototypes actually tested retrospectively; operational acceptance BLOCKED_NO_HELD_OUT_VALIDATION; no global capability grade |
-| Synthesis/release | G1–G3/G5 scoped literary work closed; G4 operational blocked; G6 local corpus checks passed/final package proof external; upstream integration/owner acceptance unperformed |
+| Character reconstruction | Six current BOUNDED_PROVISIONAL literary dossiers/RD0007–RD0012;69 selected states/46 UNEXECUTED principal vectors; original RD0001–RD0006 and four tested categorical prototypes preserved; operational acceptance BLOCKED_NO_HELD_OUT_VALIDATION; no global capability grade |
+| Synthesis/release | Fresh second-pass G3/G5 PASS_SCOPED; G6 semantic/reference review complete, LOCAL_G6_SOURCE_INDEX_VERIFIED_REMOTE_STATUS_EXTERNAL; exact-final-head remote audit required; G4 operational blocked; main integration/owner acceptance unperformed |
 
 The [source and scope map](00%20Frameworks%20and%20Methods/PEACH_GIRL_SOURCE_AND_SCOPE_MAP.md) owns exact keys/Drive IDs, manifest hashes, reported source hashes and limitations. Its inventory is not a source lock for an authorized narrative run. V01 structural verification does not establish chapter completeness, narrative admission or story understanding. Published volume counts are not used as proof of Drive availability.
 
@@ -133,11 +139,37 @@ Each row is a closed atomic transaction. Its freeze is recorded in the reading i
 5. [Bootstrap receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_BOOTSTRAP_RECEIPT.md): exact authored manifest, reconnaissance, validation/publication evidence and owner-review questions, preserved as the historical provisional state.
 6. [Execution authorization and initiation record](07%20Audits%20and%20Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md): owner execution scope, gate verification, full source acquisition/verification, capability profile and publication limits for the current run.
 
+## Current analytical homes and versions — second pass
+
+The following homes are current for the reviewed scope. The original G3/G4/G5 sections below retain their dated decisions and prototype history.
+
+| Subject | Monograph | Time-indexed literary dossier |
+| --- | --- | --- |
+| Momo | [Momo1.1](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MOMO_MONOGRAPH.md) | [Dossier1.0](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MOMO_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) |
+| Kairi | [Kairi1.1](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_KAIRI_MONOGRAPH.md) | [Dossier1.0](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_KAIRI_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) |
+| Tōji | [Tōji1.1](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_TOJI_MONOGRAPH.md) | [Dossier0.1](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_TOJI_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) |
+| Sae | [Sae1.2](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SAE_MONOGRAPH.md) | [Dossier0.1](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SAE_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) |
+| Misao | [New monograph1.0](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MISAO_MONOGRAPH.md) | [Dossier1.0](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MISAO_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) |
+| Ryō | [New monograph1.0](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RYO_MONOGRAPH.md) | [Dossier1.0](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RYO_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) |
+
+| Cross-character responsibility | Current artifact/version |
+| --- | --- |
+| Supporting cast and routed compression | [Supporting ensemble1.1](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SUPPORTING_ENSEMBLE.md) |
+| Directional dyads and family/recognition structure | [Directional relationships1.1](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_DIRECTIONAL_RELATIONSHIPS.md) |
+| Information, authorship and reputation | [Information synthesis1.1](05%20Synthesis/PEACH_GIRL_INFORMATION_AND_REPUTATION_SYNTHESIS.md) |
+| Agency, boundaries and repair | [Agency synthesis1.1](05%20Synthesis/PEACH_GIRL_AGENCY_BOUNDARIES_AND_REPAIR.md) |
+| Manga form and written Japanese | [Form synthesis1.1](05%20Synthesis/PEACH_GIRL_MANGA_FORM_AND_JAPANESE_EXPRESSION.md) |
+| Full original-series convergence | [Integrated synthesis1.1](05%20Synthesis/PEACH_GIRL_FULL_ORIGINAL_SERIES_SYNTHESIS.md) |
+
+Source-map0.5 owns the unchanged witnesses and component qualifications. The coverage/gate record owns complete source-to-synthesis dispositions; the reconstruction reassessment owns current dossier/prototype limits. No separate reconstruction specification or additional ledger is created.
+
 No separate character reconstruction specification is needed at this scale: its full behavioral, temporal, knowledge, speech, failure and validation contract has one home in the architecture. No empty source-unit, specialist or model artifacts are created. Chronology, visual form, speech and standalone agency ledgers are deferred candidates under the architecture's recurrence rule.
 
 ## Governance, execution and repository state
 
 The governing dependencies are [AGENTS](../../AGENTS.md), [initiation/architecture policy](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [machine initiation control](../../governance/repository-controls/project-initiation-gate.json), [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md), [authority/supersession policy](../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), [reasoning classes](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md), [capability routing](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md), [long-series protocol](../../governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md), [handoff contract](../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md), [branch lifecycle](../../governance/policies/BRANCH_LIFECYCLE.md), [publication policy](../../governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md), [integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md), [housekeeping policy](../../governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md) and [character curation policy](../../governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md). The live versions govern.
+
+Historical execution profile — bootstrap/Route B stages,2026-10-16–2026-10-20. The following execution/publication paragraphs preserve those stages; current second-pass attribution and conditional release authority are stated above.
 
 This bootstrap used a hosted Work execution environment for Git/text authoring, metadata/provenance inspection and a V01 package probe. Image narrative inspection was not performed. Future source and synthesis stages must verify their own capabilities, record actual observed execution configuration and preserve exact source/method/freeze lineage. No model-specific analytical rule or anticipated comparison outcome is included. The inherited run's hosted-container profile is historical in the initiation record. The current Codex receiver uses the owner's Windows desktop, directly inspected local EPUB images, a verified complete local checkout and the unchanged pinned governance; its profile and exposure are in the recovery receipt and source audit. One operator owns readings, ledgers and later synthesis, without a cross-session synthesis handoff.
 
@@ -230,3 +262,5 @@ Revision 0.30 — 2026-10-24: first ordered second-pass corrections/supplements 
 Revision 0.31 — 2026-10-24: ordered comparison through V10, F0008/F0009 name/venue corrections, F0010 threat-content qualification and F0011 unspecified recipient; actual TX0103@2/CS0028@2 and scoped historical claim basis applied. V11–V18 comparison, mature depth, dossiers and final gates remain open; no remote publication.
 
 Revision0.32 — 2026-10-24: all18 ordered comparisons complete; late corrections/own-note qualifications and current ledger successors applied; mandatory mature/dossier/gate/release work remains open.
+
+Revision0.33 — 2026-10-24: reviewed mature/dossier homes and versions routed; coverage matrix/fresh root G3/G5 PASS_SCOPED and bounded G4 reassessment/RD0007–RD0012 linked; architecture0.6 STABILIZED for literary organization/source-map0.5 current. G6 semantic/reference review complete; final index/source verification PASS_STAGED_INDEX_9626_PATHS_AND_SOURCE_INTEGRITY and exact-final-head remote audit required. Historical stages, original readings/freezes and failed probes remain; no owner acceptance, Ready transition, main merge or evidence-plane publication is certified.

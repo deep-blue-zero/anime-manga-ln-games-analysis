@@ -5,13 +5,14 @@ artifact_type: source_audit
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.5"
+version: "0.6"
 status: active_provisional
-scope: "Independent retrospective source reinspection, reconciliation and analytical depth assessment; in progress"
+scope: "Completed source reinspection, reconciliation and scoped literary deepening; local source/index verification passed; exact-head publication controlled by provider history"
 source_boundary: "Already-admitted original Japanese 新装版 V01–V18; no new narrative admission"
 canonical_home: series/peach-girl/07 Audits and Handoffs/PEACH_GIRL_SECOND_PASS_AUDIT_20261023.md
 created: "2026-10-23"
-review_status: OWNER_AUTHORIZED_SECOND_PASS_IN_PROGRESS
+review_status: LOCAL_G6_SOURCE_INDEX_VERIFIED_REMOTE_STATUS_EXTERNAL
+final_index_and_source_verification: PASS_STAGED_INDEX_9626_PATHS_AND_SOURCE_INTEGRITY
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -23,7 +24,7 @@ recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 
 This record owns the additional retrospective audit authorized on 2026-10-23. It does not replace the original Claude V01–V04/Codex V05–V18 composite run or its dated corrections. The original sequential run remains completed through V18 with no next candidate. A new source-admission run has not been opened.
 
-The assignment requires a complete source-first Pass A through all 18 volumes, finalized private observations before comparison, then systematic Pass B reconciliation and propagation into the established analytical homes. Source access, processing, visual inspection, semantic adequacy, reconstruction validation and publication are separate accomplishments. This audit remains **IN_PROGRESS**; no second-pass semantic gate has passed.
+The assignment requires a complete source-first Pass A through all 18 volumes, finalized private observations before comparison, then systematic Pass B reconciliation and propagation into the established analytical homes. Source access, processing, visual inspection, semantic adequacy, reconstruction validation and publication are separate accomplishments. Source-first inspection, ordered reconciliation and mature/dossier integration are complete for the declared original-series literary scope. Root has recorded fresh G3/G5 PASS_SCOPED; G6 semantic/reference review is complete, with local index/source verification passed and exact-final-head remote audit separately required before Ready. These scoped literary decisions are not owner acceptance or operational validation.
 
 ## Authority, scope and publication condition
 
@@ -91,7 +92,7 @@ Counts include every OPF spine occurrence; narrative and nonmainline classificat
 
 **Pass A COMPLETE: 18/18 volumes, 3198/3198 originals, 0 mandatory unread/access gaps.** The [sanitized all-volume source receipt](PEACH_GIRL_SECOND_PASS_SOURCE_RECEIPTS_20261023.json) binds exact witness metadata, reader attribution, finalized note/receipt hashes and UTC timestamps. Its independently verified private aggregate was frozen at 2026-10-24T03:39:24Z, SHA-256 `bba07c7e03dce17a92330d7466e4ac59fd9e40eeca167679eca3ab7058e0254f`, before Pass B. The verifier checked current hashes, source/archive/local-image bindings and coverage declarations; it performed no additional visual reread.
 
-**Ordered Pass B COMPLETE.** Root completed V01–V07; /root/source_integrity V08–V10; /root/pr_recon V11–V14; /root/method_amendment V15–V18. Each full legacy argument/exit and relevant histories was compared in source order; root read and accepted the complete substantive reports. The [canonical reconciliation and supplements](PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md) own eighteen bounded findings, three V02 observations, all-volume source routes, own-note qualifications and comparison receipt hashes. Narrow four-ledger successors are applied, including current CL0020@14/RV0158; Sae's mature attribution correction is applied. Full mature integration, dossier review and fresh semantic gates remain pending. The historical177-image sample contributes zero second-pass coverage.
+**Ordered Pass B COMPLETE.** Root completed V01–V07; /root/source_integrity V08–V10; /root/pr_recon V11–V14; /root/method_amendment V15–V18. Each full legacy argument/exit and relevant histories was compared in source order; root read and accepted the complete substantive reports. The [canonical reconciliation and supplements](PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md) own eighteen bounded findings, three V02 observations, all-volume source routes, own-note qualifications and comparison receipt hashes. Narrow four-ledger successors are applied, including current CL0020@14/RV0158; Sae's mature attribution correction is applied. The twelve mature studies and six dossiers are now integrated and reviewed; the [coverage and gate reassessment](PEACH_GIRL_SECOND_PASS_COVERAGE_AND_GATE_REASSESSMENT_20261024.md) owns the complete responsibility matrix and root's fresh scoped G3/G5 decisions. The historical177-image sample contributes zero second-pass coverage.
 
 Preservation correction: a procedural check found 18 missing Windows ReadOnly flags on the finalized V06-V10 and V15-V18 notes/receipts. All contents already matched their recorded digests. The flags were set at 2026-10-24T03:29:58Z, with before/after matching hashes and root-attested unchanged mtimes. All 36 final note/receipt files are now ReadOnly. This does not imply the flags existed at original finalization. The public receipt binds the retained remediation record.
 
@@ -99,28 +100,37 @@ Own source-note correction before comparison: a preliminary V04 attribution mist
 
 ## Reconciliation and downstream ownership
 
-The linked reconciliation artifact records material findings in volume order with witness/locator, prior passage/record, observation, old and new interpretation, counterevidence, uncertainty, disposition and dependent artifacts. Existing observation IDs will be reused when adequate. Genuinely missing material observations will receive stable `PG-SA2-VNN-####` references in this audit home, after comparison, with complete source coordinates and an explicit link to the preserved historical reading. Private notes remain provenance, not an alternate public analytical authority.
+The linked reconciliation artifact records material findings in volume order with witness/locator, prior passage/record, observation, old and new interpretation, counterevidence, uncertainty, disposition and dependent artifacts. Existing observation IDs are reused when adequate. The three genuinely missing V02 material observations use stable `PG-SA2-VNN-####` references in this audit home, after comparison, with complete source coordinates and an explicit link to the preserved historical reading. Private notes remain provenance, not an alternate public analytical authority.
 
-Current claims and states will be reconciled through the four established ledgers and their history rules. Character and relationship depth will be tested against consequential development, conflicting motives, ordinary and crisis behavior, communication, boundary/repair distinctions and counterexamples. Supporting subjects will receive separate homes only when a distinct explanatory responsibility warrants them. A document's existence or word count cannot close its responsibility.
+Current claims and states are reconciled for the declared second-pass scope through the four established ledgers and their history rules. Complete actual-content review tested character and relationship depth against consequential development, conflicting motives, ordinary and crisis behavior, communication, boundary/repair distinctions and counterexamples. Misao and Ryō now have distinct monograph and dossier homes in the established character-analysis directory; the ensemble remains responsible for cross-cast support and compression routes. A document's existence or word count did not close its responsibility.
 
-Time-indexed reconstruction dossiers, narrow executable prototypes and validated operational models will be assessed separately. Original rules/tests/failures stay unchanged. No held-out predictive accuracy, scenario portability or acoustic voice is established by this manga audit. `BLOCKED_NO_HELD_OUT_VALIDATION` remains unless its actual acceptance requirements are met.
+The [reconstruction reassessment](../04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SECOND_PASS_RECONSTRUCTION_REASSESSMENT_20261024.md) separates time-indexed literary dossiers, narrow executable prototypes and validated operational models. The six dossiers have 69 selected states reviewed at their declared endpoints and local BOUNDED_PROVISIONAL dispositions; 46 principal proposed vectors remain UNEXECUTED retrospective consistency material. Character ledger0.23 records RD0007–RD0012 with original RD0001–RD0006 preserved. Original rules/tests/failures stay unchanged. No held-out predictive accuracy, scenario portability or acoustic voice is established by this manga audit. `BLOCKED_NO_HELD_OUT_VALIDATION` remains unless its actual acceptance requirements are met.
 
-Specialist changes and the integrated argument must follow source-to-synthesis coverage and dependency reconciliation. No predetermined thesis or disagreement quota is imposed.
+The three specialists, directional/ensemble studies and integrated argument have been revised through the source-to-synthesis coverage and dependency review. The linked coverage/gate record owns the complete matrix and scoped decisions; it is not duplicated here. No predetermined thesis or disagreement quota was imposed.
 
 ## Gate and validation state
 
 | Responsibility | Second-pass disposition |
 | --- | --- |
 | Complete independent source reinspection | COMPLETE; 18/18 volumes, 3198/3198 originals; frozen source-first receipts verified |
-| Longitudinal/claim reconciliation | Ordered V01–V18 comparisons COMPLETE; eighteen bounded findings; scoped ledger corrections applied; mature propagation pending |
-| G3 responsibility/depth reassessment | PENDING |
-| G4 reconstruction reassessment | PENDING; existing operational blocker retained |
-| G5 convergence/role-gap reassessment | PENDING |
-| G6 full semantic/source/repository/publication review | PENDING |
-| Original run G1–G6 records | Preserved as historical decisions; no second-pass endorsement inferred |
-| Ready for ordinary integration review | NO; mandatory reconciliation, analytical deepening and validation remain |
+| Longitudinal/claim reconciliation | Ordered V01–V18 comparisons COMPLETE; eighteen findings and three V02 supplements; scoped ledger corrections and mature propagation complete for the reviewed scope |
+| G3 responsibility/depth reassessment | PASS_SCOPED by /root; actual reviewed literary/dossier contents and the full responsibility matrix are owned by the linked coverage/gate reassessment |
+| G4 reconstruction reassessment | Static historical review COMPLETE; six literary dossiers BOUNDED_PROVISIONAL, 69 selected states; 46 principal vectors UNEXECUTED; operational acceptance BLOCKED_NO_HELD_OUT_VALIDATION / NOT_ACCEPTED |
+| G5 convergence/role-gap reassessment | PASS_SCOPED by /root for literary convergence; uncertainty and intentional scope limits remain explicit |
+| G6 semantic/reference review | COMPLETE for the reviewed contents and navigation; LOCAL_G6_SOURCE_INDEX_VERIFIED_REMOTE_STATUS_EXTERNAL |
+| Final local index/source verification | PASS_STAGED_INDEX_9626_PATHS_AND_SOURCE_INTEGRITY |
+| Final publication audit | Exact-final-head remote audit REQUIRED; earlier successful commits do not certify the eventual final head |
+| Original run G1–G6 records | Preserved as historical decisions; fresh second-pass decisions are separately attributed |
+| Ready for ordinary integration review | CONDITIONALLY_AUTHORIZED_AFTER_EXACT_HEAD_AUDIT; local checks passed; preserve independent holds; actual submission state is in PR/provider history |
 
-Required remaining work is justified downstream mature integration and dossier review, fresh G3/G5 assessment, scoped G4 results, all local checks and the final remote exact-head audit. Optional enrichment cannot substitute for these obligations. No source-access blocker is established; current incompleteness is work remaining, not a claim of unavailable capability.
+## Current reviewed corpus and publication boundary — 2026-10-24
+
+The reviewed eighteen analytical artifacts comprise twelve mature studies and six time-indexed dossiers. Principal monographs are Momo/Kairi/Tōji1.1 and Sae1.2; new Misao/Ryō monographs are1.0. Directional relationships, supporting ensemble, the three specialists and full-series synthesis are1.1. Momo/Kairi/Misao/Ryō dossiers are1.0; Tōji/Sae dossiers are0.1. All six use the existing04 character-analysis home. Architecture0.6 is STABILIZED for this literary organization, not owner-accepted or frozen; source-map0.5 retains the exact witness/provenance route.
+
+The original audit head is e1e4b98c2875a4be5bfd30f6a292fb99a553db36. Corrective ledger checkpoint59ace4c8885e9b046ae12d19c863a8ae605b900a precedes the mature/dossier adoption. Neither checkpoint is represented as containing the later adoption or as the final published head. Subsequent own-commit identity, exact-head remote CI and the actual Draft-to-Ready transition belong to immutable Git/provider history; this document cannot predeclare the SHA of the commit containing it.
+
+PR #303 was Draft at the recorded baseline. The owner conditionally authorizes Ready for review after all mandatory checks actually pass, with any independent hold preserved. Owner acceptance, main merge and evidence-plane publication are not claimed. Local source/historical integrity and staged author preflight have passed. The final administrative candidate is revalidated before commit; final exact-head remote audit and actual review-submission status belong to provider history. Optional enrichment does not substitute for these obligations. There is no established source-access blocker.
+
 
 Revision 0.1 — 2026-10-23: audit initialized; source/retention baseline independently verified; 46 V01 occurrences directly viewed; private preliminary observations retained; no comparative analytical finding or release claim.
 ## Historical completion-proof preservation extension
@@ -138,3 +148,10 @@ Revision 0.3 — 2026-10-24: ordered comparison through V07, canonical source er
 Revision 0.4 — 2026-10-24: ordered V09/V10 reconciliation complete; precise recognition/venue/threat/recipient corrections added. All four source-derived character matrices frozen privately with preserved note hashes and separate own-note qualifications; source-to-synthesis and dossier proposals in progress. No second-pass semantic gate or Ready decision yet.
 
 Revision0.5 — 2026-10-24: all18 ordered comparisons accepted; F0012–F0018 and minor locator/own-note qualifications recorded; late scoped ledger successors and CL0020@14/RV0158 applied. Mature integration, fresh semantic gates and publication remain pending.
+
+Revision0.6 — 2026-10-24: eighteen reviewed analytical artifacts adopted; complete coverage matrix and fresh root G3/G5 PASS_SCOPED linked; six bounded literary dossiers/RD0007–RD0012 distinguished from preserved operational failures. G6 semantic/reference review complete; final index/source verification PASS_STAGED_INDEX_9626_PATHS_AND_SOURCE_INTEGRITY and exact-final-head remote audit still required. Conditional Ready, owner acceptance, main merge and evidence-plane actions are not certified.
+
+
+## Final local G6 verification
+
+2026-10-24: all18 EPUB full hashes and ZIP CRCs match, all36 frozen source-first notes/receipts match with ReadOnly flags, all18 original reading bytes (including freezes) and all6 original G4 files match the original branch, and five protected proof/receipt files match the corrected baseline. Integrity JSON SHA-256 d0b0f23c84aa7a2b5b2ae125ab49d253e8508699f4d286aef83abf92d1a2d47f binds that read-only check; hashing adds zero visual views. Complete staged diffs have attributed root/three-reviewer coverage, with narrow clarity fixes separately read. The final reference review resolves419 link records and finds no bounds/version defects in438 explicit EV-format references,447 explicit locator parses and780 explicit claim-version references. No prohibited newly introduced media/private path is found. Required staged-index author preflight PASS covers9,626 paths; final administrative deltas are revalidated before commit. A successful audit on the exact published head remains required before Ready. This local record neither predeclares its own future SHA nor asserts owner acceptance, main merge, source-plane promotion or operational model validation.

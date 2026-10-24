@@ -5,13 +5,13 @@ artifact_type: non_sequential_source_errata_and_supplements
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: active_provisional
-scope: "Ordered Pass B V01–V18 complete; eighteen bounded findings and three V02 source supplements; late ledger corrections applied, mature propagation in progress"
+scope: "Ordered Pass B V01–V18 complete; eighteen bounded findings and three V02 source supplements; ledger and mature propagation complete"
 source_boundary: "Already-admitted original Japanese 新装版 V01–V18; no new source admission"
 canonical_home: series/peach-girl/07 Audits and Handoffs/PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md
 created: "2026-10-24"
-review_status: SECOND_PASS_FINDINGS_RECORDED_PROPAGATION_PENDING
+review_status: SECOND_PASS_FINDINGS_RECONCILED_SCOPED_SEMANTIC_REVIEW_PASSED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -23,13 +23,13 @@ recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 
 This is the canonical wording home for the bounded second-pass findings and `PG-SA2` observations below. It supplies attributable errata to preserved historical readings. The [main audit](PEACH_GIRL_SECOND_PASS_AUDIT_20261023.md) owns overall execution and release state; the [method](../00%20Frameworks%20and%20Methods/PEACH_GIRL_ANALYTICAL_METHOD.md#attributable-supplemental-observations-and-revision-route) governs supplements. The [source receipt register](PEACH_GIRL_SECOND_PASS_SOURCE_RECEIPTS_20261023.json) binds independent Pass A notes, exact witnesses and attributed actual visual coverage. The [historical baseline](PEACH_GIRL_SECOND_PASS_BASELINE_20261023.json) owns whole-reading and separately defined freeze hashes.
 
-**Ordered Pass B complete; mature propagation in progress.** Root completed V01–V07 comparisons; /root/source_integrity completed V08–V10, /root/pr_recon V11–V14 and /root/method_amendment V15–V18, each full reading/exit and relevant histories in volume order after the all18 Pass A aggregate freeze. Root read and accepted all substantive reports. F0001–F0018 below are bounded findings, including confirmed uncertainty and one formal-compression clarification; they do not mean eighteen wholly erroneous readings. The inherited argument is substantially confirmed. All four-ledger corrections below are applied; character/specialist integration and fresh semantic gates remain pending.
+**Ordered Pass B and material mature propagation complete.** Root completed V01–V07 comparisons; /root/source_integrity completed V08–V10, /root/pr_recon V11–V14 and /root/method_amendment V15–V18, each full reading/exit and relevant histories in volume order after the all18 Pass A aggregate freeze. Root read and accepted all substantive reports. F0001–F0018 below are bounded findings, including confirmed uncertainty and one formal-compression clarification; they do not mean eighteen wholly erroneous readings. The inherited argument is substantially confirmed. All four-ledger corrections below are applied; character/specialist integration and fresh G3/G5 scoped semantic decisions are complete; final validation/publication is separate.
 
 Root directly read V01–V05 source images in Pass A; `/root/source_integrity` directly read V06–V10. Peer-note use is attributed separately from new image viewing. Targeted original-resolution rechecks below were nonblind, after a candidate was known, and add zero unique corpus coverage. Exposure limitations are recorded in the main audit. Corrections to the auditors' own preliminary notes are separately disclosed below.
 
 ## Volume route and preserved historical identities
 
-Every original reading and embedded `PG-FR` remains byte-preserved. The whole-reading SHA-256 below is distinct from the freeze digest; both are recoverable through the linked baseline. Each reading has this later correction route without modifying its bytes. Full comparison does not imply completed downstream propagation.
+Every original reading and embedded `PG-FR` remains byte-preserved. The whole-reading SHA-256 below is distinct from the freeze digest; both are recoverable through the linked baseline. Each reading has this later correction route without modifying its bytes. Full comparison alone does not imply completed downstream propagation; the final dependency disposition below records actual completion at version0.4.
 
 | Volume / historical reading | Original whole-reading SHA-256 | Exit | Ordered Pass B disposition at this version |
 | --- | --- | --- | --- |
@@ -400,3 +400,25 @@ Each complete prior reading, embedded prospective exit, relevant full ledger tra
 The complete V11 legacy prose/transactions retained their baseline bytes despite an input manifest seeing concurrent unrelated section edits. The section-preservation verification SHA-256 is `e3a55ee982e5b6ed42c2e3bf525190d9124939f19f9cc42c22843deae28291d1`. V11's mixed narrative/page-logo occurrence is **i0127**, not i0128; both are narrative-bearing, and full175/159 narrative-inclusive/16 other coverage stays unchanged. This does not require moving inferred chapter blocks or a new event/finding ID. Separate locator-addendum SHA-256 `1eed9deed264bf9e0fc1146350583cb96daf6e60e30c5f38900c8fb3a0602800` binds direct127/128 repeats. V14's report wording about a confession is read with the explicit qualifier: **Kairi confesses to Misao and she refuses**; qualifier SHA-256 `83549ac4739dc81529b5a55c571b41014035729fa1b01ccf06963140ae23f6b0`. No new inherited error is created by that report shorthand.
 
 The late corrective transaction is applied in character0.22, relationship0.20, information0.21 and claims0.21. Current CL0020@14/RV0158 genuinely narrows the categorical phone-reaction inference; all28 identities, older claim bodies, forecasts and failed reconstruction tests remain preserved. CS0277@2 qualifies the inaccurate limit without discarding its accurate hotel boundary/affect state. F0013 and F0017 are mature-prose responsibilities without dummy ledger events. Full mature integration and actual semantic-gate decisions remain pending at this checkpoint.
+
+
+## Final material dependency disposition — 2026-10-24
+
+This dated successor governs current propagation status. Earlier pending fields inside the findings describe the stage at which each finding was recorded; they are discharged by this table. Root accepted the actual revised contents after full-candidate and critical review. The [coverage/gate reassessment](PEACH_GIRL_SECOND_PASS_COVERAGE_AND_GATE_REASSESSMENT_20261024.md) owns the substantive source-to-synthesis matrix and fresh G3/G5 decisions; the main audit owns G6/release. All material findings below have been checked against affected current homes. Already-correct states receive NO_CHANGE_REQUIRED rather than dummy events or revisions. Original readings/freezes/claims and forecast failures remain preserved.
+
+| Findings | Applied state and mature dependencies | Current disposition and limit |
+| --- | --- | --- |
+| F0001–F0003 / three V02 supplements | CS0017@2/0288/0289, RL0020–0022@2, CM0193/0194, KN0267 and historical-basis qualifiers; four principal monographs/dossiers, directional, three specialists and integrated synthesis reviewed | COMPLETE. Near-kiss distinguished from completed contact. Momo helps fallen Kairi up before his refused release. Protective travel purpose does not authorize every means. Audibility/slip intent/full motives remain bounded. |
+| F0004/F0005 | TX0023@2; TX0059@2/CS0052@2/RL0074@2; Sae/Misao, dossiers and specialist/integrated dependencies reviewed | COMPLETE. Clinical truth and earlier parent-contact truth remain SOURCE_UNRESOLVED. |
+| F0006 / minor V11 component | Source map0.5 and dated classification qualification, complete visual receipt retained | COMPLETE. V07 narrative mixed phone page92 and V11 mixed page127 distinguished; no historical closure rewrite. |
+| F0007 | Sae1.2; Momo/Kairi, directional/agency/dossiers reviewed | COMPLETE. Momo leads V07 rescue and receives palm slap. Already-correct old reading/ledger states retained. |
+| F0008/F0009/F0010/F0011 | TX0103@2; CS0028@2/historical CL0003@3 basis; affected character/dossier/specialist/integrated arguments reviewed | COMPLETE. Name rather than lewd nickname; craft shop rather than bakery; violent-treatment threat without invented sexual specificity; V10 private addressee unspecified. No dummy successors to already-correct rows. |
+| F0012/F0013 | CM0138@2/RL0301@2; Momo/Tōji/Kairi, dossiers, directional/form/integrated reviewed | COMPLETE. Full V15 question remains private. Momo's condition and elapsed waiting precede Tōji arrival; she grasps his sleeve. No before-deadline pull. |
+| F0014/F0015 | CS0258@2/TX0287@2; IP0262@2/CS0277@2; relevant monographs/dossiers and specialists/integrated reviewed | COMPLETE. Sae/Ryō handsets and recipient access distinct. Sae originates body-honest counsel; Momo privately agrees. No universal bodily-permission theory. |
+| F0016 | Current CL0020@14/RV0158, CS0273@2/IP0255@2/KN0254@2/TX0287@2/RP0074@2; five prior categorical mature repetitions qualified and dossiers reviewed | COMPLETE. Exact V18 phone-tableau romantic conclusion SOURCE_UNRESOLVED. Plausible jealousy survives with alternatives; earlier confirmed V10 booking misunderstanding distinct. |
+| F0017 | Momo/Tōji/Sae, directional/form/integrated motif arguments reviewed | COMPLETE compression clarification. Copied private L sign and redirected V08 arrow have separate routes; figurative sabotage does not establish literal defacement. |
+| F0018 | CHAR0035 bounded two-woman clarification/CS0283@2; ensemble/agency/integrated reviewed | COMPLETE. Distinct pity/objections/urging/departure retained; objections do not prevent assault and full motives unknown. |
+
+Current mature versions are Momo/Kairi/Tōji1.1, Sae1.2, Misao/Ryō1.0, ensemble/directional1.1, three specialists1.1 and integrated1.1; six dossier versions are linked by the entrypoint. No inherited defect is inferred from an auditor's own mistaken preliminary note: the separate correction registry remains intact. All18 comparison agreements and substantial prior arguments survive. G4 operational acceptance remains BLOCKED_NO_HELD_OUT_VALIDATION.
+
+Revision0.4 — 2026-10-24: material propagation and scoped semantic review complete; final dependency dispositions added without changing historical readings/freezes, original forecasts or reconstruction failures.

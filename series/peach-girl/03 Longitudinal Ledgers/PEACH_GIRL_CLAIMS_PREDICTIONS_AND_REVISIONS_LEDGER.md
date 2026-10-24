@@ -11,7 +11,7 @@ scope: "Claims, Predictions and Revisions; source-derived records through the co
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
 canonical_home: series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 created: "2026-10-16"
-review_status: OWNER_AUTHORIZED_SECOND_PASS_IN_PROGRESS
+review_status: SECOND_PASS_SCOPED_RECONCILIATION_REVIEW_PASSED_OWNER_ACCEPTANCE_PENDING
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

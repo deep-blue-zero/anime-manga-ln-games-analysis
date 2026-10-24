@@ -5,14 +5,14 @@ artifact_type: synthesis_architecture
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.5"
+version: "0.6"
 status: active_provisional
 scope: "Cumulative responsibilities, specialist dependencies, reconstruction and completion gates"
-source_boundary: "Verified original Japanese manga V01–V18 already admitted; independent second-pass audit pending; no new narrative admission"
+source_boundary: "Verified original Japanese manga V01–V18 already admitted; independent second-pass source and scoped semantic review complete; no new narrative admission"
 canonical_home: series/peach-girl/00 Frameworks and Methods/PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md
 created: "2026-10-16"
-architecture_lifecycle: EVOLVING
-review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
+architecture_lifecycle: STABILIZED
+review_status: SECOND_PASS_SCOPED_SEMANTIC_REVIEW_PASSED_OWNER_ACCEPTANCE_PENDING
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -209,3 +209,16 @@ The new audit must report actual all-volume inspection and comparison coverage, 
 The existing entrypoint remains the sole current retrieval surface and must identify governing versions, audit route, pending duties and actual publication state. Draft-to-Ready is conditional on completing the owner's mandatory audit and validation; preserve any independent owner hold and leave integration to its designated process. No new ledger, duplicate canonical synthesis, franchise source, frozen-byte change, global governance or registry change is authorized by this amendment.
 
 Revision history addendum: 0.5 — prospective independent second-pass responsibilities and EVOLVING reassessment, 2026-10-23 owner date; source-to-synthesis dispositions, separate G3/G5 gap questions and reconstruction maturity distinguished. Earlier closures remain historical; no new semantic closure, model acceptance or publication completion is claimed.
+
+
+## Amendment 0.6 — reviewed second-pass organization, 2026-10-24
+
+The [source-to-synthesis coverage and gate reassessment](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_COVERAGE_AND_GATE_REASSESSMENT_20261024.md) is a linked component of the existing second-pass audit, not a new ledger or competing synthesis. Root has reviewed the actual adopted arguments and accepted fresh G3/G5 PASS_SCOPED decisions for the original-manga literary responsibilities. Lifecycle STABILIZED now describes this reviewed organization; historical bootstrap and amendments retain their dates. Owner result acceptance and main integration remain pending.
+
+The four principal monographs are deepened in their existing homes. Misao and Ryō receive distinct monographs because care/partial authority and credibility/controlled exits require longitudinal explanation beyond their effects on the triangle. The ensemble retains bounded peers, helpers, households and strangers. The existing directional study owns both directions of seven requested dyads, additional Kairi–Sae and the Kairi–Misao–Ryō family structure. Existing information, agency and form specialists own recurring causal mechanisms; the single full-series synthesis converges their arguments. No fifth ledger or second integrated thesis is justified.
+
+Six separate time-indexed dossiers own a different question: what knowledge, competing goals, choices and exclusions are available at a selected inclusive scene cutoff? Their 69 selected states are not complete biographies or 69 predictive trials. The four principal dossiers propose 46 unexecuted retrospective consistency vectors; supporting dossiers have bounded state cards. Monographs explain development, while dossiers retrieve exact accessible states. Local RD0007–RD0012 assess them as BOUNDED_PROVISIONAL for manual literary retrieval, with explicit thinner domains and abstentions.
+
+The [new reconstruction reassessment](../04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SECOND_PASS_RECONSTRUCTION_REASSESSMENT_20261024.md) preserves original rules, cases, results, failures and forecast windows. G4 operational acceptance remains BLOCKED_NO_HELD_OUT_VALIDATION; Misao/Ryō executable policies remain NOT_PROPOSED. No new execution, held-out accuracy, conversational portability or acoustic voice is established.
+
+All18 already-admitted witnesses have independent attributed visual inspection and ordered reconciliation. Material source corrections, current ledger successors, mature dependencies and counterreadings are reconciled. G6 local/source/index verification and final remote exact-head publication remain separate requirements; their actual results belong in the audit and external commit/provider history. No source-admission frontier, original reading/freeze, global registry or governance rule changes. Conditional Ready submission is authorized only after those checks; merge remains outside this task.

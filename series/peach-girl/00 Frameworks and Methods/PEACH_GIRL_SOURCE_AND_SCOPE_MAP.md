@@ -5,14 +5,14 @@ artifact_type: source_scope_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: active_provisional
 scope: "Sanitized witness identities, preliminary provenance, structural reconnaissance and admission gaps"
 source_boundary: "Original Japanese 新装版 V01–V18 completed;freshG6 hashes/CRC/OPF/RTL/allimagechecks PASS;composite inherited-audited/newdirect provenance"
 canonical_home: series/peach-girl/00 Frameworks and Methods/PEACH_GIRL_SOURCE_AND_SCOPE_MAP.md
 created: "2026-10-16"
 observed_at_utc: "2026-10-16"
-review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
+review_status: SECOND_PASS_SOURCE_INTEGRITY_VERIFIED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -144,3 +144,12 @@ V17 closure update,2026-10-20 owner date:173/173 Japanese spine images actually 
 V18 closure update2026-10-20:187/187 Japanese spine images directlyviewed/172main5–44/46–85/86–125/127–178. Front1–4/posed45,126/back179–187excluded15;43–44/46/85/125/127actual retained. Fourphysicalspans/noinventedchaptertitles. Publication176 BessatsuFriend2003Oct–Dec/2004Jan/staff179date2003.12.23/edition187date2017-03-31 notstorycalendar. Exactwitness99,357,571bytes/SHA00222d219ee6b844207ac825a194397057c51ba51b2471d762e8c87f8b0af720. PG-FR-V18 exit178explicitoriginalseriesEND. BoundedV15_149–156 andV18_116–117 recheckcorrects priorsexnightinference; historicalfreezeunchanged. Terminalruncompleted/noV19admission; G1/G2nextafterbackup. No source/image/privatepath publication.
 
 G6 source closure2026-10-20: fresh18witness/all3198imagehash checks PASS, [source verification](../07%20Audits%20and%20Handoffs/PEACH_GIRL_G6_SOURCE_VERIFICATION.json). ActualnewCodexfullV05–V18=2474images; inheritedV01–V04documentedfull724images with177distinctrecipientauditsamples. G1/G2inventorybinds18reading/freezes/commits. No sourcebyte/imagepromotion or newfranchisesource. Narrativecompleted/NONE nextcandidate; source-maprevision0.4.
+
+
+## Independent second-pass source/classification qualification — 2026-10-24
+
+All18 exact witness identities above remain unchanged and have been freshly matched by filename, length, SHA-256 and ZIP CRC in the second pass. Actual attributed visual inspection totals3198/3198 originals, with zero mandatory unread/access gaps; the [sanitized source-first receipts](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_SOURCE_RECEIPTS_20261023.json) bind the complete per-volume record and distinct readers. The original composite run and dated closure notices above remain historical; this new inspection does not amend original source-admission frontiers or PG-FR bytes.
+
+Two historical component locators require current qualification. In V07, i0091 is blank/logo and i0092 contains mixed phone dialogue; correct mainline spans are i0007–i0090, i0092–i0133, i0135–i0174 (166 occurrences), with narrative-bearing color reprise i0003 counted separately in the second-pass narrative-inclusive167. All183 occurrences were visually inspected. In V11, mixed page-logo content is at i0127, not i0128; both are narrative-bearing, so175 inspected/159 narrative-inclusive/16 other and the inferred block boundary remain unchanged. These qualifications are owned by F0006 and the minor V11 locator section of the [canonical reconciliation](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md). No full image map or source media is added to Git.
+
+The receipt's2921 narrative-inclusive/277 other total includes explicitly classified mixed content, reprises and the opening narrative-adjacent prologue; it is not a silent replacement of the historical narrower mainline classifications. Classification disagreement does not indicate an unread page. Edition/witness identity, original run completed/V18/NONE and franchise exclusions remain unchanged. Revision0.5 records this separately attributed source/classification qualification; it supplies no literary gate or operational-model acceptance.
