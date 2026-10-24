@@ -34,8 +34,10 @@ from character_index_core import (  # noqa: E402
     decode_reconstruction_registry,
     evaluate_reconstruction_assessments,
     evidence_set_digest,
+    is_discovery_output,
     load_reconstruction_policy,
     parse_evidence_ref,
+    read_discovery_registry,
     reconstruction_registry_changes,
     resolve_evidence_entries,
     schema_errors,
@@ -48,12 +50,12 @@ from generate_reconstruction_index import (  # noqa: E402
 )
 from prepare_commit import active_rules, missing_required_output_paths  # noqa: E402
 from reconstruction_status import (  # noqa: E402
+    _discovery_at,
     deferred_evidence_changes,
     main as reconstruction_status_main,
     work_queue,
 )
 from validate_repository import (  # noqa: E402
-    DISCOVERY_OUTPUTS,
     RECONSTRUCTION_OUTPUTS,
     discovery_branch_candidate,
     discovery_confinement_errors,
@@ -524,6 +526,20 @@ class GitRepositoryFixture(unittest.TestCase):
         self._git("commit", "--quiet", "-m", message)
         return self._git_output("rev-parse", "HEAD")
 
+    def _migrate_registry(self) -> str:
+        """Commit the fixture's move from the retired single file to its partition."""
+
+        legacy = self.repository / "characters" / "registry.jsonl"
+        partition = self.repository / "characters" / "registry" / "example.jsonl"
+        partition.parent.mkdir(parents=True, exist_ok=True)
+        partition.write_bytes(legacy.read_bytes())
+        legacy.unlink()
+        return self._commit(
+            "partition the discovery registry",
+            "characters/registry.jsonl",
+            "characters/registry/example.jsonl",
+        )
+
 
 @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
 class GitBoundCapabilityTests(GitRepositoryFixture):
@@ -909,6 +925,25 @@ class EffectiveCurrentnessTests(GitRepositoryFixture):
         self.assertEqual(result.errors, [])
         self.assertEqual(result.currentness[0].effective_state, "CURRENT_REVIEWED")
         self.assertEqual(result.currentness[0].reasons, ())
+
+    def test_partition_migration_keeps_single_file_basis_assessments_current(self) -> None:
+        migrated = self._migrate_registry()
+        current = read_discovery_registry(GitSnapshot.from_commit(self.repository, migrated))
+        self.assertEqual(current.records, [self.record])
+        result = self._evaluate(assessment(self.commit, self.digest), migrated, current.records)
+        self.assertEqual(result.errors, [])
+        self.assertEqual(result.currentness[0].effective_state, "CURRENT_REVIEWED")
+        self.assertEqual(result.currentness[0].reasons, ())
+        # A basis commit in the partitioned layout binds the same evidence set.
+        rebased = self._evaluate(assessment(migrated, self.digest), migrated)
+        self.assertEqual(rebased.errors, [])
+        self.assertEqual(rebased.currentness[0].effective_state, "CURRENT_REVIEWED")
+
+    def test_checkpoint_reads_follow_the_registry_layout_of_each_commit(self) -> None:
+        migrated = self._migrate_registry()
+        for commit in (self.commit, migrated):
+            with self.subTest(commit=commit):
+                self.assertEqual(_discovery_at(self.repository, commit), {SUBJECT: self.record})
 
     def test_candidate_is_current_but_visibly_provisional(self) -> None:
         result = self._evaluate(candidate(self.commit, self.digest), self.commit)
@@ -1452,8 +1487,14 @@ class IntegrationControlTests(unittest.TestCase):
             missing_required_output_paths(rules, {RECONSTRUCTION_REGISTRY_PATH}),
             [RECONSTRUCTION_INDEX_PATH],
         )
-        discovery_rules = active_rules(obligations, {"characters/registry.jsonl"}, set(), set())
+        discovery_rules = active_rules(
+            obligations, {"characters/registry/example.jsonl"}, set(), set()
+        )
         self.assertEqual([rule["id"] for rule in discovery_rules], ["character-discovery"])
+        self.assertEqual(
+            missing_required_output_paths(discovery_rules, {"characters/registry/example.jsonl"}),
+            ["CHARACTER_ANALYSIS_INDEX.md"],
+        )
 
     def test_audit_recognizes_reconstruction_branch_without_housekeeping_pending(self) -> None:
         path = ".github/workflows/repository-audit.yml"
@@ -1473,7 +1514,7 @@ class IntegrationControlTests(unittest.TestCase):
         )
 
     def test_reconstruction_outputs_stay_outside_discovery_and_housekeeping(self) -> None:
-        self.assertTrue(RECONSTRUCTION_OUTPUTS.isdisjoint({"characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md"}))
+        self.assertFalse(any(is_discovery_output(path) for path in RECONSTRUCTION_OUTPUTS))
         housekeeping = (REPOSITORY / ".github/workflows/global-index-housekeeping.yml").read_text(encoding="utf-8")
         for path in RECONSTRUCTION_OUTPUTS:
             self.assertNotIn(path, housekeeping)
@@ -1633,7 +1674,7 @@ class DeferredEvidenceChangeTests(GitRepositoryFixture):
 
 
 class DiscoveryBranchConfinementTests(GitRepositoryFixture):
-    """The curation branch carries only the two discovery outputs."""
+    """The curation branch carries only discovery outputs."""
 
     def setUp(self) -> None:
         super().setUp()
@@ -1657,6 +1698,32 @@ class DiscoveryBranchConfinementTests(GitRepositoryFixture):
         self._edit_discovery()
         self._commit("curate", "characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md")
         self.assertEqual(self._confinement(), [])
+
+    def test_partitioned_curation_delta_and_the_migration_pass(self) -> None:
+        self._migrate_registry()
+        self.assertEqual(self._confinement(), [])
+        edited = copy.deepcopy(self.record)
+        edited["notes"] = "A curation revision."
+        (self.repository / "characters/registry/example.jsonl").write_text(
+            json.dumps(edited, ensure_ascii=False, sort_keys=True, separators=(",", ":")) + "\n",
+            encoding="utf-8",
+            newline="\n",
+        )
+        page = self.repository / "characters/index/example.md"
+        page.parent.mkdir(parents=True)
+        page.write_bytes(b"# Example\n")
+        (self.repository / "CHARACTER_ANALYSIS_INDEX.md").write_bytes(b"# Index\n\nRevised.\n")
+        self._commit(
+            "curate",
+            "characters/registry/example.jsonl",
+            "characters/index/example.md",
+            "CHARACTER_ANALYSIS_INDEX.md",
+        )
+        self.assertEqual(self._confinement(), [])
+        (self.repository / "characters/README.md").write_bytes(b"# Not a discovery output\n")
+        self._commit("outside the outputs", "characters/README.md")
+        failures = self._confinement()
+        self.assertTrue(any("characters/README.md" in item for item in failures), failures)
 
     def test_any_other_path_on_the_curation_branch_fails(self) -> None:
         self._edit_discovery()
@@ -1742,7 +1809,7 @@ class DiscoveryBranchConfinementTests(GitRepositoryFixture):
                 self.assertIn(
                     "repository-audit workflow missing required contract: " + fragment.decode(), failures
                 )
-        # An analysis branch may still carry a coordinated two-file curation repair.
+        # An analysis branch may still carry a coordinated curation repair.
         self._edit_discovery()
         head = self._commit("coordinated repair", "characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md")
         self.assertEqual(validate_routing_branch_scope(self.repository, "commit", head, "series/example"), [])

@@ -1943,3 +1943,94 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 The cohort25 index owns31source-bound rows:SV25-01–14,CH25-01–08,MN25-01–08 andON25-01. Native provenance binds35actually received complete windows,2,122knownBASE slots,19members and9native text objects. MAIN05p-017 andMAIN14I13 alone have completeBASE-member receiving here. No new whole-source,ruby,residual,image-set,source admission or independent pass follows; the41-object literal search supplies retrieval leads only.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+AG26-01–35 bind direct actions, self-reports, other-character reports, narrator inferences and unperformed offers to native paragraph locators. Twenty-eight complete delivered windows bind 1,427 known BASE slots across eleven members and three local Japanese EPUBs. MAIN08 C5 and MAIN14 I13 alone are complete BASE member projections here. All 146 literal hits in substantive members are covered; two TOC hits are unreceived. This is not exhaustive alias/anonymous-appearance coverage. Accepted MAIN17 C3 controls the retained private delivery filename mistakenly labeled C4. No new whole-source, ruby, residual, image-set or source-admission credit follows.
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+BE27, HA27, SE27, AO27, LO27, DU27 and RM27 provide 58 retrieval rows with direct/report/projection/intent/inference/fiction/creator distinctions. 195 complete known-source deliveries bind 9685 unique BASE slots in 68 members across 29 local EPUB objects; all 1,114 routed general-name/title hits and the separate officer/returned-men name hits have received contexts. Twelve complete BASE members include an afterword, without new whole/ruby/residual/image-set/admission credit. These are not independent observations or exhaustive anonymous/alias absence. MAIN16 p010 and MAIN17 part0012 are accepted F/start contracts. Serena/Celesdina alias is admitted; Sena and the two officers remain distinct. The DUST07 Dullahan is a former subordinate, not Beldia returned.
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+The cohort 28 index/provenance bind 89 actual complete source-known windows to 12,655 unique BASE slots in 43 members/18 local EPUB objects; 24 complete BASE members include an afterword. All 560 routed literal hit paragraphs/591 term hits across 43 resources lie inside received intervals. This is not exhaustive alias/anonymous/image coverage or an independent-event denominator. MAIN16 p004 is accepted C2/start; DUST-CONT p004 is U012 despite a shorthand U004 raw filename. Native/member/register/window hashes are retained. No new whole-source, ruby, residual, image-set, admission or independent credit.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Cohort29 index/provenance bind 68 complete source-known windows to 6,730 unique BASE slots across forty members in eighteen local EPUB objects. Fourteen complete BASE members include fifteen bibliographic slots and a 37-slot creator afterword. All name/title/costume literal-hit contexts are reconciled within received intervals, without exhaustive unnamed/image-only/alias absence or new whole-source/ruby/residual/image-set/admission credit. MAIN17U016 is creator afterword, not principal epilogue; DUST07 defense is the performed scene.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+The cohort30 index/provenance binds 33 complete current FD native deliveries to all 3,707 unique positive-member BASE slots: nine principal bodies/3,645 and six nonfiction/62 across fifteen members in one local object. This adds no fresh whole-edition, ruby, residual, image-set or admission credit. Original source gate retains ten zero-P resources and fifteen images. Eighty-one outside-FD literal リア-hit paragraphs are longer words or another name, not Lia joins; the fixed forty-one-object query does not certify alias/image/anonymous-role absence. Member hashes and private raw receipt lineage are explicit without publishing source text.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Cohort 31 index/provenance binds 56 complete current Japanese native images, 25 Core/31 Advanced, at original 1441 x 2048 detail.170 complete source-order replay-note records and 3 whole current derivatives are separate readings.664 image/wrapper technical joins verify identity, not viewing. Original 333 Core/331 Advanced source admissions retain individual scopes. A truncated ADV092/099/100 combined attempt earned zero; the same originals were later individually received, without regeneration. No new whole-source, ruby, residual, image-set, OCR, audio, human or independent credit.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Cohort 32 provenance binds 2360 unique current Japanese native P/base/ruby slots, including blanks:2320 context plus 40 nonoverlapping lexical paragraphs, across six objects with any P and four main contextual objects. MASK U021/U019/U023 are complete P scopes, U017 bounded; MAIN02/MAIN08/CONTEXP01 intervals explicit. MAIN09 bloodfang and YORI03 bloodstone are false Brad matches. All 41 EPUB identity/retrieval checks are technical, not reading or absence proof. No new non-P residual, image-set, whole-source, OCR, audio, human or independent admission.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Cohort 33 native provenance binds 1,151 actual contextual P/base/ruby slots plus three complete MASK paragraph rechecks, 1,154 unique current slots in all. CONTEXP01 U021P1–518 and U023P1–45 are complete paragraph scopes, U019P283–540 bounded; CONTEXP02 U020P1–145, U013P1–85, U018P1–100 are bounded. Prior C32 complete MASK context is reused exact. All 41 EPUB byte/name retrieval is technical and not alias absence proof. The two complete derivative reports total 149,462 characters; no new image, residual, whole-source, audio, human or independent admission.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Cohort 34 provenance binds 1,538 complete current contextual P slots with 1,396 inline ruby occurrences across thirteen members of six known EPUBs and 34 actual displays, plus one fully viewed known EXP01 coda image. Complete MAIN11 principal/excluded reports and MAIN15 erratum, alongside bounded MAIN15 principal sections, total 207,952 derivative characters in 26 displays. All 41 byte/name retrieval is technical, not alias absence or new complete-corpus reading. No new whole-source, globally unique paragraph, OCR, audio, human or independent credit follows.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+Current scope is MAIN07U013/C2 P1–130 and DUST05U011 item/xhtml/p-003.xhtml P800–970: 301 complete P slots with 240 inline ruby occurrences,two known EPUBs,two members and seven actual displays. Complete MAIN07 principal/excluded analytical reports total 74,791 characters in ten displays. DUST05 is bounded native review only. All 41 byte/name retrieval is technical; no new whole-source,globally unique,image,OCR,audio,human or independent credit follows.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Current native union:2382complete P/2389inline ruby,40members/13knownEPUBs,61planned plus2adaptive displays,8full members/32bounded members and2knownMAIN16 image rechecks. Four complete reports plus6bounded analytical contexts total206874characters/26displays. Exact ranges,source bindings and Ep1 precision are in provenance. No new source object,whole-source,globally unique,OCR,audio,human or independent credit.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+C37 actual known-source recheck:2128P/1965inline ruby,15members7EPUBs,49complete displays,7full members8bounded and4known images. Four complete reports plus1boundedMAIN14principal context total452129characters61displays. MAIN15/17 analytical surfaces were byte pins only;later native windows separately received. All41literal retrieval is technical,not unnamed/alias/image/nonparagraph absence proof or a new whole-source read.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+C38 actual native recheck:622P/548inline ruby,4members2known EPUBs,12complete displays;one full member and three bounded ranges,no current images. DUST06U012P275-426,U013P1-302,U014fullP1-67 andDUST07U011P470-570 govern coverage. Two full Dust06 reports total48135characters/8displays;all34 precision qualifications received separately. All41fresh object hashes/literal-name retrieval produce18paragraph leads inside these contexts;retrieval adds no unnamed,alias,image,nonparagraph absence or new whole-book reading credit.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

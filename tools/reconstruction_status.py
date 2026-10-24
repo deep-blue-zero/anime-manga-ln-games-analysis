@@ -18,17 +18,17 @@ from typing import Any, Mapping, Sequence
 
 from character_index_core import (
     CURRENT_CLAIM_STATUSES,
-    DISCOVERY_INPUT_PATHS,
     RECONSTRUCTION_REGISTRY_PATH,
     AuthorityGraph,
     DomainError,
     GitSnapshot,
     ReconstructionEvaluation,
     coverage_projection,
-    decode_jsonl_with_lines,
     decode_reconstruction_registry,
+    discovery_commit_snapshot,
     evaluate_reconstruction_assessments,
     load_discovery_snapshot_records,
+    read_discovery_registry,
     reviewed_evidence_membership,
     subject_scope_projection,
 )
@@ -80,17 +80,7 @@ def currentness_report(
 
 
 def _discovery_at(repository: Path, commit: str) -> dict[str, Mapping[str, Any]]:
-    selected = GitSnapshot.from_commit(
-        repository, commit, paths={DISCOVERY_INPUT_PATHS["registry"]}
-    )
-    entry = selected.get(DISCOVERY_INPUT_PATHS["registry"])
-    if entry is None:
-        return {}
-    return {
-        record["analysis_subject_id"]: record
-        for _line, record in decode_jsonl_with_lines(entry.data, f"{commit}:characters/registry.jsonl")
-        if isinstance(record.get("analysis_subject_id"), str)
-    }
+    return _records_by_subject(discovery_commit_snapshot(repository, commit))
 
 
 def _material_discovery_change(before: Mapping[str, Any], after: Mapping[str, Any]) -> bool:
@@ -103,14 +93,11 @@ def _material_discovery_change(before: Mapping[str, Any], after: Mapping[str, An
 
 
 def _records_by_subject(snapshot: GitSnapshot) -> dict[str, Mapping[str, Any]]:
-    entry = snapshot.get(DISCOVERY_INPUT_PATHS["registry"])
-    if entry is None:
-        return {}
+    """Discovery rows by subject in either storage layout; empty before the registry existed."""
+
     return {
         record["analysis_subject_id"]: record
-        for _line, record in decode_jsonl_with_lines(
-            entry.data, f"{snapshot.identity}:characters/registry.jsonl"
-        )
+        for record in read_discovery_registry(snapshot).records
         if isinstance(record.get("analysis_subject_id"), str)
     }
 

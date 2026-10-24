@@ -1,0 +1,1279 @@
+{
+  "schema": "konosuba.cohort34.native-provenance.v1",
+  "recorded_utc": "2026-10-24T12:17:02.444223+00:00",
+  "source_known": true,
+  "starting_authority_sha256": "09a44fb62e1c6e93082dd2ad56f4ceb4cb4b3c800311a40f09e9f5ee34c18c6b",
+  "local_entering_head": "48d5b27916773293b054a0bbd04b8a65d347b458",
+  "local_entering_tree": "4bf5dbf620c49b9c136a28595f46ed5d36af94bf",
+  "latest_certified_source": "48d5b27916773293b054a0bbd04b8a65d347b458",
+  "current_main_at_start": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "prior_source_audit_not_transferred_to_new_candidate": true,
+  "local_native_source_bindings": [
+    {
+      "source_id": "DUST-05",
+      "bytes": 6713820,
+      "sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 18,
+      "opf_sha256": "0cac809dc983b3f483d24c802f96e208cd9c4795effc492847443a48e08db04d",
+      "fresh_crc": "PASS"
+    },
+    {
+      "source_id": "MAIN-11",
+      "bytes": 6177663,
+      "sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 24,
+      "opf_sha256": "69d48ebec4d1989e6aaf34d304d7bd5d8c162f3223faad041adb67cf104ed64d",
+      "fresh_crc": "PASS"
+    },
+    {
+      "source_id": "MAIN-13",
+      "bytes": 2779947,
+      "sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "opf": "content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 24,
+      "opf_sha256": "88e3963938b0ff79173f0827070dc99183cd95fce834fe3b5d09a78ffa005cf5",
+      "fresh_crc": "PASS"
+    },
+    {
+      "source_id": "MAIN-15",
+      "bytes": 2513225,
+      "sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "opf": "OEBPS/content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 25,
+      "opf_sha256": "32f1a1c0562163aecbe58619532b5feb3406a314f5fa9036783a271563103455",
+      "fresh_crc": "PASS"
+    },
+    {
+      "source_id": "MAIN-16",
+      "bytes": 8530869,
+      "sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 27,
+      "opf_sha256": "9bf3cb7daa5812197253e8f5328e624ceee6b367f0a0ce895b3729fc31d6721e",
+      "fresh_crc": "PASS"
+    },
+    {
+      "source_id": "MAIN-17",
+      "bytes": 2197695,
+      "sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "opf": "content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 20,
+      "opf_sha256": "bcb1fa6a6479b790f3edea18a9d00ed3fff6fcf4c16bfc2d6e9cb9dc02ad4d7c",
+      "fresh_crc": "PASS"
+    },
+    {
+      "source_id": "EXP-01",
+      "bytes": 19168549,
+      "sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 53
+    }
+  ],
+  "all41_native_identity_retrieval": {
+    "file": "COHORT34_ALL41_NAMED_LEADS_01.json",
+    "bytes": 248434,
+    "sha256": "ce80790e5fb463afa2ff9b964511f509d0fc6a2d186771b2b7223abe360ada93"
+  },
+  "all41_retrieval_qualification": "Technical fresh byte and literal name retrieval, not semantic complete-corpus reading or proof of no alias/image/unnamed occurrence.",
+  "actual_unique_current_P": 1538,
+  "actual_inline_ruby_occurrences": 1396,
+  "per_source_unique_P": {
+    "MAIN-11": 795,
+    "MAIN-13": 141,
+    "MAIN-15": 323,
+    "DUST-05": 41,
+    "MAIN-16": 197,
+    "MAIN-17": 41
+  },
+  "objects_with_current_actual_P": 6,
+  "objects_with_any_current_actual_native_content": 7,
+  "selected_native_members": [
+    {
+      "file": "native-units01/DUST05U012.json",
+      "bytes": 234335,
+      "sha256": "3cf781d4119a49a5a156d4f7b7b8f414801d385817b0b8218bf59a6c95657c02",
+      "source_id": "DUST-05",
+      "component_id": "DUST05U012",
+      "accepted_alias": "member-defined context",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "9366a1cdb9ca63c2f901ad7c8b72316aff841ffc63715fe03f3ddb3b6d541db3",
+      "native_member_bytes": 108316,
+      "paragraph_slots": 723,
+      "planned_ranges": [
+        [
+          70,
+          110
+        ]
+      ],
+      "planned_unique_P": 41
+    },
+    {
+      "file": "native-units01/MAIN11U014.json",
+      "bytes": 208524,
+      "sha256": "4dea15634237407e64272489855caf6f4421846ac12bcd7b23a27da69822eb03",
+      "source_id": "MAIN-11",
+      "component_id": "MAIN11U014",
+      "accepted_alias": "C3",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+      "native_member_bytes": 97251,
+      "paragraph_slots": 579,
+      "planned_ranges": [
+        [
+          404,
+          579
+        ]
+      ],
+      "planned_unique_P": 176
+    },
+    {
+      "file": "native-units01/MAIN11U015.json",
+      "bytes": 203061,
+      "sha256": "e7e1c0122ff8f134ebd526eda2668f2fe090b6dd4fa5cf6f7c2c4259eb647c68",
+      "source_id": "MAIN-11",
+      "component_id": "MAIN11U015",
+      "accepted_alias": "C4",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "ea07ae3ecd06688a9df16a05d8bc98ff53a644ab013cc30d79bb67a727f4da9b",
+      "native_member_bytes": 92240,
+      "paragraph_slots": 580,
+      "planned_ranges": [
+        [
+          1,
+          530
+        ]
+      ],
+      "planned_unique_P": 530
+    },
+    {
+      "file": "native-units01/MAIN11U016.json",
+      "bytes": 121776,
+      "sha256": "64e1a76e5c1eb0ae7d7fb6d3550f00faeecd574db700f21a8f41116068893ba4",
+      "source_id": "MAIN-11",
+      "component_id": "MAIN11U016",
+      "accepted_alias": "F",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "6fc357c0d2a2e296781b478ab7edf4772d6abaa0db3e52da650136ca6b4bdeee",
+      "native_member_bytes": 56493,
+      "paragraph_slots": 358,
+      "planned_ranges": [
+        [
+          70,
+          105
+        ]
+      ],
+      "planned_unique_P": 36
+    },
+    {
+      "file": "native-units01/MAIN11U021.json",
+      "bytes": 20368,
+      "sha256": "42c52b5265c85891e561893189c84d75bf785a979cb96cfc56d976762d83be72",
+      "source_id": "MAIN-11",
+      "component_id": "MAIN11U021",
+      "accepted_alias": "electronic bonus",
+      "member": "item/xhtml/p-012.xhtml",
+      "member_sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "native_member_bytes": 8387,
+      "paragraph_slots": 53,
+      "planned_ranges": [
+        [
+          1,
+          53
+        ]
+      ],
+      "planned_unique_P": 53
+    },
+    {
+      "file": "native-units01/MAIN13U015.json",
+      "bytes": 153570,
+      "sha256": "f10218a27f4ddd44abfce406de98e56e2aa09713955de3f0d18b95de30a77759",
+      "source_id": "MAIN-13",
+      "component_id": "MAIN13U015",
+      "accepted_alias": "C4",
+      "member": "text/part0013.html",
+      "member_sha256": "8e6f60737c6087d1d786c2bc89ba7d116c4c7370bc52397c273d0901369ee988",
+      "native_member_bytes": 78747,
+      "paragraph_slots": 411,
+      "planned_ranges": [
+        [
+          200,
+          340
+        ]
+      ],
+      "planned_unique_P": 141
+    },
+    {
+      "file": "native-units01/MAIN15U012.json",
+      "bytes": 156220,
+      "sha256": "9cc270cee34b14391c48136eae89033808c59f0a94bc0ad7a4fd94dcf35d91f8",
+      "source_id": "MAIN-15",
+      "component_id": "MAIN15U012",
+      "accepted_alias": "C1",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "member_sha256": "bcaec8c676903062bac507f7f1a94174142c8f32669171a31fd943e2a497985e",
+      "native_member_bytes": 69182,
+      "paragraph_slots": 505,
+      "planned_ranges": [
+        [
+          1,
+          43
+        ],
+        [
+          207,
+          213
+        ],
+        [
+          217,
+          223
+        ],
+        [
+          233,
+          239
+        ],
+        [
+          290,
+          296
+        ],
+        [
+          359,
+          365
+        ]
+      ],
+      "planned_unique_P": 78
+    },
+    {
+      "file": "native-units01/MAIN15U013.json",
+      "bytes": 316813,
+      "sha256": "561e93246aa4a3f9c9d8a91aca612e05fcf33f919006c131321cf60b953e40e3",
+      "source_id": "MAIN-15",
+      "component_id": "MAIN15U013",
+      "accepted_alias": "C2",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_sha256": "284a00b2c93af6021012842422f47d9e46a92ca2c9e4d4eb27e0a073c7ef1e33",
+      "native_member_bytes": 145103,
+      "paragraph_slots": 958,
+      "planned_ranges": [
+        [
+          661,
+          667
+        ],
+        [
+          820,
+          890
+        ]
+      ],
+      "planned_unique_P": 78
+    },
+    {
+      "file": "native-units01/MAIN15U014.json",
+      "bytes": 165480,
+      "sha256": "035e5a01c16c0627816553b66cf8d47e9d720197e05a4bea81ed2600fdbd8bd9",
+      "source_id": "MAIN-15",
+      "component_id": "MAIN15U014",
+      "accepted_alias": "C3",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "member_sha256": "4c35da64df6cd332693ab880b1a3721e5604915104fe55062eff0aaa0f5d6b2c",
+      "native_member_bytes": 73553,
+      "paragraph_slots": 548,
+      "planned_ranges": [
+        [
+          89,
+          108
+        ],
+        [
+          110,
+          116
+        ],
+        [
+          125,
+          175
+        ],
+        [
+          210,
+          216
+        ],
+        [
+          257,
+          263
+        ],
+        [
+          354,
+          360
+        ],
+        [
+          384,
+          390
+        ],
+        [
+          443,
+          449
+        ],
+        [
+          467,
+          473
+        ],
+        [
+          506,
+          512
+        ],
+        [
+          525,
+          531
+        ],
+        [
+          540,
+          546
+        ]
+      ],
+      "planned_unique_P": 141
+    },
+    {
+      "file": "native-units01/MAIN15U015.json",
+      "bytes": 167261,
+      "sha256": "969cb6906883f42f167bec9c1caecadab8e82e12de19747e1271ce4504260bf4",
+      "source_id": "MAIN-15",
+      "component_id": "MAIN15U015",
+      "accepted_alias": "C4",
+      "member": "OEBPS/Text/part0013.xhtml",
+      "member_sha256": "4afb3b30d1e3b61fcc63dd4f9b75ccdc86dc588a360466eb826f33e4a020f3bd",
+      "native_member_bytes": 75618,
+      "paragraph_slots": 520,
+      "planned_ranges": [
+        [
+          310,
+          335
+        ]
+      ],
+      "planned_unique_P": 26
+    },
+    {
+      "file": "native-units01/MAIN16U014.json",
+      "bytes": 174606,
+      "sha256": "ad8a4a71b61d45363ad100bdc5b19995dc05e60a4e7897324fee8d6f6b08100e",
+      "source_id": "MAIN-16",
+      "component_id": "MAIN16U014",
+      "accepted_alias": "member-defined context",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "2c808e5d6c6a062a4ffcf30ee79751c71013956608ad60039aedc20f77f6fa45",
+      "native_member_bytes": 78867,
+      "paragraph_slots": 538,
+      "planned_ranges": [
+        [
+          140,
+          175
+        ]
+      ],
+      "planned_unique_P": 36
+    },
+    {
+      "file": "native-units01/MAIN16U016.json",
+      "bytes": 178438,
+      "sha256": "4b59547370970601cd729649fa7664ba69c961afe8e3bf0ca8e55e2892031364",
+      "source_id": "MAIN-16",
+      "component_id": "MAIN16U016",
+      "accepted_alias": "member-defined context",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "352391e223c1fcf189eea740f0fcbecee08b961f27aa320afa79c18b4d4cbe26",
+      "native_member_bytes": 83805,
+      "paragraph_slots": 492,
+      "planned_ranges": [
+        [
+          250,
+          410
+        ]
+      ],
+      "planned_unique_P": 161
+    },
+    {
+      "file": "native-units01/MAIN17U014.json",
+      "bytes": 235441,
+      "sha256": "13c696443aab9ea53c3e59f347a63143c83dab07a64896b654b1ae53de0bf98a",
+      "source_id": "MAIN-17",
+      "component_id": "MAIN17U014",
+      "accepted_alias": "member-defined context",
+      "member": "text/part0012.html",
+      "member_sha256": "43b8bcea92d4723fb7ea62d3d84cb6e2e862c0ac9c3c596c088d455a741e6b84",
+      "native_member_bytes": 127087,
+      "paragraph_slots": 789,
+      "planned_ranges": [
+        [
+          225,
+          265
+        ]
+      ],
+      "planned_unique_P": 41
+    }
+  ],
+  "actual_received_private_delivery_files": [
+    {
+      "page": 1,
+      "file": "native-review-pages01/001.txt",
+      "bytes": 7484,
+      "characters": 3364,
+      "sha256": "0e659fa9778afdacec71af4cdc02960e0494f0b99f853163dfebb0ccabd4de88"
+    },
+    {
+      "page": 2,
+      "file": "native-review-pages01/002.txt",
+      "bytes": 7937,
+      "characters": 3381,
+      "sha256": "06ba8c1492d332ded3bc4e8368c9c2824985c1b7b8bda9dd2864099f80046592"
+    },
+    {
+      "page": 3,
+      "file": "native-review-pages01/003.txt",
+      "bytes": 7905,
+      "characters": 3321,
+      "sha256": "598fc255715ca6e7bdc0edb7836edaa2f01f6e6cc29cc7a95a75b196db9a607b"
+    },
+    {
+      "page": 4,
+      "file": "native-review-pages01/004.txt",
+      "bytes": 7658,
+      "characters": 3396,
+      "sha256": "42da2c7d1ada2723d8ee05f43235edc02a4f68727db98630518411ac39af2f3e"
+    },
+    {
+      "page": 5,
+      "file": "native-review-pages01/005.txt",
+      "bytes": 7669,
+      "characters": 3377,
+      "sha256": "31c2e7aff50374570318cbf7208a07d3f92152cea9a39ea2ae31c755fbc7659c"
+    },
+    {
+      "page": 6,
+      "file": "native-review-pages01/006.txt",
+      "bytes": 7484,
+      "characters": 3364,
+      "sha256": "1881d5d8dd4f27fcb3fd219d90d990b70ded6efc37a868a1dfd29920e67d184e"
+    },
+    {
+      "page": 7,
+      "file": "native-review-pages01/007.txt",
+      "bytes": 7547,
+      "characters": 3335,
+      "sha256": "e3542e8a92c8198470bd440c6529da5f49355c5837067c27172f9680716f25cd"
+    },
+    {
+      "page": 8,
+      "file": "native-review-pages01/008.txt",
+      "bytes": 7300,
+      "characters": 3352,
+      "sha256": "e2dcc2ac359187a4b64da2eb5c37659ef1876628641da182f3e270ec059aa9d0"
+    },
+    {
+      "page": 9,
+      "file": "native-review-pages01/009.txt",
+      "bytes": 7944,
+      "characters": 3398,
+      "sha256": "df610760b25367033c8c5b5d9db3a815fb2c1734f115832cd5a69f13405fd7ab"
+    },
+    {
+      "page": 10,
+      "file": "native-review-pages01/010.txt",
+      "bytes": 7521,
+      "characters": 3357,
+      "sha256": "1cde5ed884e265f078f3bb9e92bcefdedf33de33d744b34bd648fc6c88bf5075"
+    },
+    {
+      "page": 11,
+      "file": "native-review-pages01/011.txt",
+      "bytes": 7821,
+      "characters": 3393,
+      "sha256": "36aed923643bce15888289ed5f16e0728d17136e610bb97b28615642ae23aa0c"
+    },
+    {
+      "page": 12,
+      "file": "native-review-pages01/012.txt",
+      "bytes": 7811,
+      "characters": 3337,
+      "sha256": "6626037cd38e160d97157c2aded05361e73a6bf7ea1171866a4dd985e095d4f4"
+    },
+    {
+      "page": 13,
+      "file": "native-review-pages01/013.txt",
+      "bytes": 7762,
+      "characters": 3394,
+      "sha256": "68cbc1d8e80aad097e93c92bca7a0c01891974cc868fa16379cc4b2d25d13006"
+    },
+    {
+      "page": 14,
+      "file": "native-review-pages01/014.txt",
+      "bytes": 7427,
+      "characters": 3243,
+      "sha256": "7eaa892bca6e2c3aaf1b3f955d626b26baccf23dd46b7dc398c42240c2e5a4f6"
+    },
+    {
+      "page": 15,
+      "file": "native-review-pages01/015.txt",
+      "bytes": 8044,
+      "characters": 3314,
+      "sha256": "76e6d8098f01896d38c3502d79dd85f1d2732e61f7d1735a4d99a9ea4978055d"
+    },
+    {
+      "page": 16,
+      "file": "native-review-pages01/016.txt",
+      "bytes": 7273,
+      "characters": 3393,
+      "sha256": "25f563858fa73d7848a2a111c440b3f9088bc53257446acea49404438d45d555"
+    },
+    {
+      "page": 17,
+      "file": "native-review-pages01/017.txt",
+      "bytes": 7121,
+      "characters": 3385,
+      "sha256": "af6703ee806ebe41b2dc6321be48f1e1cd793bf20fdf2390841acef688a7b5d8"
+    },
+    {
+      "page": 18,
+      "file": "native-review-pages01/018.txt",
+      "bytes": 7624,
+      "characters": 3396,
+      "sha256": "3288aa1d0f036a8f2ac315c3edb57a1338425efc2e62d9ef638be61e8e10c3c8"
+    },
+    {
+      "page": 19,
+      "file": "native-review-pages01/019.txt",
+      "bytes": 8019,
+      "characters": 3359,
+      "sha256": "07bc67bfb2090f2e6488a5007cb757e563c598f91e45a37eb554f6a43a40d006"
+    },
+    {
+      "page": 20,
+      "file": "native-review-pages01/020.txt",
+      "bytes": 7475,
+      "characters": 3365,
+      "sha256": "e0514b4fbb27ced62a94af93c0fef251b1660ace04a8e9f783a294a3b99fc5a6"
+    },
+    {
+      "page": 21,
+      "file": "native-review-pages01/021.txt",
+      "bytes": 7885,
+      "characters": 3363,
+      "sha256": "b34c39ad35b34d6aca3d78c0bd651ec37aff08b25dfb8ce3a7d147d9e8fcb8d6"
+    },
+    {
+      "page": 22,
+      "file": "native-review-pages01/022.txt",
+      "bytes": 7467,
+      "characters": 3377,
+      "sha256": "2a5b5f7df6c1fb414687220df83922b05abe6641c0b27b2e2c37a9f2ea12cf18"
+    },
+    {
+      "page": 23,
+      "file": "native-review-pages01/023.txt",
+      "bytes": 7739,
+      "characters": 3331,
+      "sha256": "310a566eb08220729e25de59e84b7aa4595d2ba0f662aa2506d89eab7d415aaa"
+    },
+    {
+      "page": 24,
+      "file": "native-review-pages01/024.txt",
+      "bytes": 7190,
+      "characters": 3387,
+      "sha256": "c54f90996e175e76c09711d94b937531d68bf0af70c3810a5d2479733a28fb5b"
+    },
+    {
+      "page": 25,
+      "file": "native-review-pages01/025.txt",
+      "bytes": 7882,
+      "characters": 3346,
+      "sha256": "c5898195c01ea6d598f09495cbd5142276da423a4748a508e39ba0f9eaa09325"
+    },
+    {
+      "page": 26,
+      "file": "native-review-pages01/026.txt",
+      "bytes": 7268,
+      "characters": 3362,
+      "sha256": "7b7d49b9f4a26f0c6cc9da9b18e792cba21064c2faa2b8aeaef87d0c504943d4"
+    },
+    {
+      "page": 27,
+      "file": "native-review-pages01/027.txt",
+      "bytes": 6842,
+      "characters": 3324,
+      "sha256": "ffb0eebaebd94d165028553e4de61003dfe30a2937ebedeeda4ae12e104badcb"
+    },
+    {
+      "page": 28,
+      "file": "native-review-pages01/028.txt",
+      "bytes": 6678,
+      "characters": 3340,
+      "sha256": "4b74ef26e3f81039aaedb7cbcefe17e2bd27fddcd0f64a6cb0f9065c7fd31c1c"
+    },
+    {
+      "page": 29,
+      "file": "native-review-pages01/029.txt",
+      "bytes": 6536,
+      "characters": 3292,
+      "sha256": "d4844d7fd1df97592d119188f775da52234dd7f98796eaef636bca204cc5821f"
+    },
+    {
+      "page": 30,
+      "file": "native-review-pages01/030.txt",
+      "bytes": 7015,
+      "characters": 3365,
+      "sha256": "198cce7fb52a4a1b159c5df9d71a6e2600dcbc71aa431b657dc918ab39e184ae"
+    },
+    {
+      "page": 31,
+      "file": "native-review-pages01/031.txt",
+      "bytes": 6922,
+      "characters": 3390,
+      "sha256": "96e0f7a0844947070fd2536437204be5e9e3289713799fc0376f31c2f024145d"
+    },
+    {
+      "page": 32,
+      "file": "native-review-pages01/032.txt",
+      "bytes": 6293,
+      "characters": 3363,
+      "sha256": "5b9e068dd55985b8d914c29bcaf1ec53ae7d5223cc0aadcc94a09b653f19f8e7"
+    },
+    {
+      "page": 33,
+      "file": "native-review-pages01/033.txt",
+      "bytes": 6612,
+      "characters": 3382,
+      "sha256": "8474aa5976fa82535401c295a63c26a8826b92a53f96dc735f6c3e2c966d31ac"
+    },
+    {
+      "page": 34,
+      "file": "native-review-pages01/034.txt",
+      "bytes": 4533,
+      "characters": 2321,
+      "sha256": "08bf71f50e200d5c463313f48e5705adfa34525755f961bef8b229b50f57799a"
+    }
+  ],
+  "actual_native_receiving": {
+    "file": "COHORT34_ACTUAL_NATIVE_CONTEXT_RECEIVING_01.json",
+    "bytes": 206199,
+    "sha256": "922303c6e4eba8d89f222bf272ce74ba1b14ad19e27a73ac4f078fc0122c3048"
+  },
+  "actual_native_delivery_chunks": {
+    "1-3": "ee2b7f",
+    "4-6": "2a3c10",
+    "7-9": "5b7c00",
+    "10-12": "b41d71",
+    "13-15": "96de65",
+    "16-18": "694bfe",
+    "19-21": "b0ef3e",
+    "22-24": "7bb9a9",
+    "25-27": "494317",
+    "28-30": "c57695",
+    "31-34": "ee7dcc"
+  },
+  "actual_inline_base_and_ruby_reading": true,
+  "parallel_full_base_duplicate_or_raw_XML_serialization_claim": false,
+  "known_image": {
+    "source_id": "EXP-01",
+    "image_id": "EXP-01-IMG025",
+    "member": "item/image/img-017.jpg",
+    "bytes": 359011,
+    "sha256": "155d1879c66070177ca30cc97f3ad40b67133234da2926323415bee79f6cc429",
+    "actual_complete_viewed": true,
+    "actual_view_receiving": {
+      "file": "COHORT34_EXP01_GOD_CODA_ACTUAL_IMAGE_RECEIVING_01.json",
+      "bytes": 1580,
+      "sha256": "7e47407992b353de91b6c35ed2f353fc4877af1f64abb4d3545fc3d0e0a3b616"
+    },
+    "observations": [
+      "Full upper STAFF/CAST/special-thanks creator/editorial plane and lower separately captioned meanwhile-hero fictional coda were visible. Actual source text is evidence, not instructions to retrieve its named website.",
+      "Lower male hero asks where the beautiful goddess sealed in the village is. The left eyepatched girl under the existing Arue attribution answers with explicit hearsay, 先日、逃げたそうですよ？; the hero reacts in surprise.",
+      "No Regina personal name appears in the lower panel. This is a reported escape, not a directly depicted divine escape, command, rescue or follower census. Its relation to the later named Regina report remains an attributed cross-source join."
+    ],
+    "known_image_rechecks": 1,
+    "new_whole_image_set_or_source_admission": false
+  },
+  "derivative_context": {
+    "actual_receiving": {
+      "file": "COHORT34_CONTEXT_REVIEW_RECEIVING_01.json",
+      "bytes": 4206,
+      "sha256": "9cff9332eeac9f30d1a879dc1b7ab0db8fae3f4f6e9630fda0e9a1fb16ff2243"
+    },
+    "actual_characters": 207952,
+    "actual_pages": 26,
+    "actual_document_scope": [
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V11_DEEP_READING.md",
+        "bytes": 120003,
+        "sha256": "ae9898d8ad036f54c4185bef3023330984ec29a206e8c7f0275b5c67ed2a5ad0",
+        "delivery_scope": "COMPLETE_EXISTING_DERIVATIVE_DOCUMENT",
+        "characters": 114359
+      },
+      {
+        "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_DEEP_READING.md",
+        "bytes": 38061,
+        "sha256": "6fa2a8496464714ad2f776be8c218d5057bace26b4fa0b52c8718f4a065f6c4c",
+        "delivery_scope": "COMPLETE_EXISTING_DERIVATIVE_DOCUMENT",
+        "characters": 37927
+      },
+      {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json",
+        "bytes": 6761,
+        "sha256": "35ec59db791cdb2b497df28aa0c3e1e4b3d73d2db88e40091be45d9f1e3e91cd",
+        "delivery_scope": "COMPLETE_EXISTING_DERIVATIVE_DOCUMENT",
+        "characters": 6693
+      },
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V15_DEEP_READING.md",
+        "bytes": 979019,
+        "sha256": "4def6d40eda5cb620f30c778aee0256d0b7b8542df7c9f6f22be4d4e8bad8edc",
+        "delivery_scope": "SELECTED_COMPLETE_SECTIONS_ONLY_NOT_WHOLE_REPORT",
+        "line_ranges": [
+          [
+            1,
+            39
+          ],
+          [
+            62,
+            91
+          ],
+          [
+            196,
+            201
+          ],
+          [
+            743,
+            774
+          ],
+          [
+            799,
+            845
+          ],
+          [
+            1430,
+            1461
+          ]
+        ],
+        "total_document_lines": 1461,
+        "selected_characters": 48597,
+        "prior_complete_receiving_qualification": "Prior full MAIN13–16 analytical derivative receiving remains historical authority; this current bounded redelivery does not repeat the million-character MAIN15 report or gain whole-source/independent credit."
+      }
+    ],
+    "actual_tool_chunks": {
+      "1-4": "646bd8",
+      "5-8": "01acb7",
+      "9-12": "889f88",
+      "13-16": "0f6db0",
+      "17-20": "5bdf82",
+      "21-24": "3b584c",
+      "25-26": "d640b6"
+    },
+    "MAIN15_principal_current_scope": "Bounded declared sections only; prior complete receiving retained, no new whole-report claim."
+  },
+  "source_surface_pins": [
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V11_DEEP_READING.md",
+      "bytes": 120003,
+      "sha256": "ae9898d8ad036f54c4185bef3023330984ec29a206e8c7f0275b5c67ed2a5ad0"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V15_DEEP_READING.md",
+      "bytes": 979019,
+      "sha256": "4def6d40eda5cb620f30c778aee0256d0b7b8542df7c9f6f22be4d4e8bad8edc"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json",
+      "bytes": 6761,
+      "sha256": "35ec59db791cdb2b497df28aa0c3e1e4b3d73d2db88e40091be45d9f1e3e91cd"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_V11_RECEIVING_REVIEW.md",
+      "bytes": 16914,
+      "sha256": "13fa23adc7b9eb5282baccf98a80b171928c1b9f41e3e8f966dd0d3f4d4a9334"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_V15_RECEIVING_REVIEW.md",
+      "bytes": 25072,
+      "sha256": "06e948db72482e72a958dcd36f7e4fe0d30bfc622c3dfd70cc183ee2fffdcbed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_COMPONENT_ANALYSIS.md",
+      "bytes": 15439,
+      "sha256": "8554e5b84a00b7622fb9a916ddca55444db4e0c87bc3fb6a8f6a8aa9cf11de80"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_COMPONENT_REGISTER.json",
+      "bytes": 111069,
+      "sha256": "d323c2fad7915c46bfe9d041350e8aec40561f23741abfbbf00a6fac913b9dc4"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 20387,
+      "sha256": "942fc57e5cb95b3ba581785f79e3ed58532365a8569f0605dc7e1592912382ec"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_DEEP_READING.md",
+      "bytes": 38061,
+      "sha256": "6fa2a8496464714ad2f776be8c218d5057bace26b4fa0b52c8718f4a065f6c4c"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 72083,
+      "sha256": "fc0634c32d348d520fa88c1a1efde4f2a27f98e79f36486340404cb8a933c309"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_HANDOFF_MANIFEST.json",
+      "bytes": 3635,
+      "sha256": "b611c8482d395842e70520dcddf0d47186e6e5018a4cdfacdc675cb67c41b3aa"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_HUMOR_REGISTER.json",
+      "bytes": 29831,
+      "sha256": "e4c144c32793254642e1b3be22fc9bdb137828272183bc4559a3756cc4b99f83"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_HUMOR_REGISTER.md",
+      "bytes": 10369,
+      "sha256": "7dac5b9a2805030bbcdec4eeeb518bf15bb727bf62fa598e21bc3da1578f8923"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 17613,
+      "sha256": "62479e41acf4038815902ef62d512525d4fb51e2d44c7b949b917622f76e4e0d"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 16657,
+      "sha256": "9d092ed91e95c64e9d69d717abeb229f4000c819fd3f711d3cecc4c50846e414"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_ORIGINAL_UNCODED_IMAGE_NOTES.jsonl",
+      "bytes": 22432,
+      "sha256": "d97019a12da60cf64c2898d41b4ebb68be86f7ee16d099772cac3aed20d850e1"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_ORIGINAL_UNCODED_TEXT_NOTES.jsonl",
+      "bytes": 19006,
+      "sha256": "0f7ba3e3d69328406a16e8570726ff5f4b551093770ae960b1c01c81a94b28b3"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 40426,
+      "sha256": "74320b0c7bc6e1a4d29e0c867ce956393b1214097d55d048d9227f8b23b4e401"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_ROOT_PRE_BODY_PREPARATION_VIEW.json",
+      "bytes": 187121,
+      "sha256": "781d15844f84e2af4cf93089c99a00b5f07308934e48b63f54b02ab46c775d3f"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 5259,
+      "sha256": "a7693235a0f277d0c83fd1ba4142f8ca3f0f06edeac7009116fab10293cd3c70"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_VOICE_REGISTER.json",
+      "bytes": 35012,
+      "sha256": "168f9c9aa605234f4d4c2c77dfea2da7ab8af8882c282f0142aad12264c9455b"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_VOICE_REGISTER.md",
+      "bytes": 15285,
+      "sha256": "f8a9f670b9255e441cf788e2d7dc42a00b4f80322bb7e46703146ee5563d892c"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_COMPONENT_ANALYSIS.md",
+      "bytes": 18776,
+      "sha256": "a07285802a8718c1095a278dcf5683708c855ffe5e034280d5eb771ddab7e9da"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_COMPONENT_REGISTER.json",
+      "bytes": 117631,
+      "sha256": "8d550c03bd34d188dbbcf28567a7dd5d2cb3d9a74a67223c9ddbed6bb6ab2594"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 21996,
+      "sha256": "9fa7db61a4509988e2743a9997328ba0a20fc4e0cb689c8d5ab86ca42ae6b08f"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_DEEP_READING.md",
+      "bytes": 35262,
+      "sha256": "52d00e8e018e23487d380cb313145e051c83e036986f0582c3d703f9fa2164d8"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 75455,
+      "sha256": "af82cc23c068bd3c006723165f8950709c74fc0740c294c8096dc472170bd485"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_HANDOFF_MANIFEST.json",
+      "bytes": 3635,
+      "sha256": "c7f79b6074d40cdd0b892825c237453f927f2b6277fd597ff96d0905e708e4ef"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_HUMOR_REGISTER.json",
+      "bytes": 18057,
+      "sha256": "3ea48ddbc3f82a018cf91aaeed5fab76933cd671ac9d7217cad073aa9623f101"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_HUMOR_REGISTER.md",
+      "bytes": 7876,
+      "sha256": "7fe7039817c2557e091935f68653a77956bdfab7bfe015711a3b04c318d0fc8d"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 18074,
+      "sha256": "c5ece55ce90b87d5f82754d037a38ba588ca7f2a660672349e4a9a837247c051"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 16836,
+      "sha256": "6418a3de5e760cd2608c501e5ec929706350fe101bf1c0acb84032388a61dc01"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_ORIGINAL_UNCODED_IMAGE_NOTES.jsonl",
+      "bytes": 25219,
+      "sha256": "b3be99d4587fbbb449736080fa96d316a6dced319aa8d3c27e06f68c656f374e"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_ORIGINAL_UNCODED_TEXT_NOTES.jsonl",
+      "bytes": 23605,
+      "sha256": "18340f5a6404ff2a4e30d6fd49192e85b0cf7d2a0a3abe39981e2c18b2d8e5ab"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 48044,
+      "sha256": "6386b2517d30a85c597e23de49b741d830e8878d163f4344f7b27870efd7f3e1"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_ROOT_PRE_BODY_PREPARATION_VIEW.json",
+      "bytes": 202453,
+      "sha256": "db46fe6d8f0bf2ac0c6b64e7e5dd547c96d481bea497af81585f1889601a2768"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 12878,
+      "sha256": "39437ae2053c427e55cdbb49b6f60c9f86bc2ab6624f667be110b4a16eca7785"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_VOICE_REGISTER.json",
+      "bytes": 44308,
+      "sha256": "f5cb5629af74cba00b39a720f3746237e54f8bb41c946e04f08d0f66e552a5c9"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_VOICE_REGISTER.md",
+      "bytes": 17831,
+      "sha256": "fd19118c376ff445d5ff92ddaf37ccaae9222235852bf52808c594be75fcf700"
+    }
+  ],
+  "reused_method_pins": [
+    {
+      "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md",
+      "bytes": 13959,
+      "sha256": "f03a1cb89fc602260538454363ee399f8d50ec2a3442c02793e449e4b56c07f8",
+      "characters": 13959
+    },
+    {
+      "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md",
+      "bytes": 21304,
+      "sha256": "77441e395e2cc355b182d36d12a7fb581bfce8dd3e567993d1e1c9f9da3513e6",
+      "characters": 21293
+    }
+  ],
+  "reused_method_reading_qualification": "Both method documents fully received earlier in this continuing execution and freshly byte checked; no repeated reading credit.",
+  "scope_assessment": {
+    "file": "COHORT34_SCOPE_ASSESSMENT_DRAFT_02.json",
+    "bytes": 5117,
+    "sha256": "7f2881d931aff39b1a7fcb322490151445cf0a8d0e2374e4df85a5bd53d0ee85"
+  },
+  "native_interpretation_notes": {
+    "file": "COHORT34_NATIVE_INTERPRETATION_NOTES_01.md",
+    "bytes": 13285,
+    "sha256": "1afebae7dc1fe62693b36137eb67eb97bc0ab69a2ba369d9335b236be18d4c0c"
+  },
+  "prefreeze_precision": {
+    "file": "COHORT34_PREFREEZE_REVIEW_PRECISION_01.json",
+    "bytes": 2718,
+    "sha256": "61d496b5d3f0dac5b13facd92427e1e746b91450a0594453e733569a35072d93"
+  },
+  "prefreeze_precision_overrides": "The old private unfinished-romance phrase is withdrawn; reported gift/rejection history does not establish desire for renewed contact. Aggregate54/55 active fields synchronize with preserved history;76 route only. Considered reference classes are not positive error findings. Stuffed lizard dish means mushroom-filled food.",
+  "name_reference_check": {
+    "file": "COHORT34_NAME_REFERENCE_CHECK_DRAFT_01.json",
+    "bytes": 4072,
+    "sha256": "d7b37d28e44ce2f3385af087038eaa66da111c0158fc65c69db02b0c5e7e079e"
+  },
+  "source_layers": [
+    "direct actor action/speech",
+    "Kazuma/narrator observation and inference",
+    "Luna and other attributed reports",
+    "Lucy/Princess interested testimony",
+    "Serena/Aqua/Kazuma competing divine-mechanism explanations",
+    "coda fictional hearsay separate from creator/editorial material",
+    "recap and remembered prior event rather than a new event"
+  ],
+  "identity_qualifications": [
+    "Lucy is not Luna or Serena; later named Regina link is explicit but does not retroactively supply Lucy later knowledge.",
+    "Regina divine acts and follower numbers remain attributed; unnamed EXP01 coda is not a directly shown escape.",
+    "Particular MAIN11 Princess, earlier girl and MAIN13 garden plant remain distinct.",
+    "Count is not silently joined to other banquet nobles, conspirators or gift senders.",
+    "EXP03 aggregate routes correct already published six individual profiles without new child-profile credit."
+  ],
+  "foundation_seal": {
+    "file": "COHORT34_FOUNDATION_SEAL_01.json",
+    "bytes": 16096,
+    "sha256": "55705fe4ad16e9beb25241bff8aa2651a036fb9d3e76d0ac4061eeb7d6f4b381"
+  },
+  "exact_input_freeze": {
+    "file": "COHORT34_EXACT_INPUT_FREEZE_01.json",
+    "bytes": 4274,
+    "sha256": "266b7ddb6081eee6cd5f5bde421d2db31b25819a8f3ca5e47c1309296f0e23ff"
+  },
+  "original_body_freeze": {
+    "file": "COHORT34_ORIGINAL_FIRST_BODY_FREEZE_01.json",
+    "bytes": 6046,
+    "sha256": "92ad93693617e65072b4971e18307af6726eb30339fae8273074eff1d9bde64b"
+  },
+  "diagnostic_author_review": {
+    "file": "COHORT34_DIAGNOSTIC_AUTHOR_REVIEW_01.json",
+    "bytes": 2236,
+    "sha256": "c693302a50985e2cc9dfd4c3ddb0a443bc57aff498e8d8a9ce2cdbbf0bcff76f"
+  },
+  "diagnostic_artifact_pins": [
+    {
+      "file": "LUCY_SCENARIO_INPUTS_01.json",
+      "bytes": 9789,
+      "sha256": "bd037f2856ed102df3aebc9ab6a8545c7eaaa5d6053b9acbc2b51dd7fb7dfec7"
+    },
+    {
+      "file": "LUCY_FIRST_OUTPUTS_01.json",
+      "bytes": 5944,
+      "sha256": "261bd78775d58bb97f8891cab5c953d27ece657522ace4fff01b691f1ccb8f57"
+    },
+    {
+      "file": "LUCY_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 9718,
+      "sha256": "05ad6b4f5f8135ba0cba9dffe82a47818630f16bd7d7b61b0bf8b0e6099178fc"
+    },
+    {
+      "file": "FOREST_TRANQUILITY_PRINCESS_SCENARIO_INPUTS_01.json",
+      "bytes": 14461,
+      "sha256": "10ebf4ec908bffbcfa49a014d6af87e56e0851c403643df2eb66e478383b0eb5"
+    },
+    {
+      "file": "FOREST_TRANQUILITY_PRINCESS_FIRST_OUTPUTS_01.json",
+      "bytes": 8499,
+      "sha256": "7e67fa4fb4e544192d9587c37c31059e040bbf6bfbc0d17e7edc951b4a9b1996"
+    },
+    {
+      "file": "FOREST_TRANQUILITY_PRINCESS_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 13760,
+      "sha256": "a04e031cac89b8337b7d1cca20f152121c0723376b95d682303cf9402a7430b0"
+    }
+  ],
+  "actual_first_serialization_pins": [
+    {
+      "case_id": "LY-H01-A",
+      "body_file": "COHORT34_FIRST_BODY_LY-H01-A_01.txt",
+      "body_bytes": 574,
+      "body_sha256": "72ee93efe0a24f4bc10cfa7304c981c3dba14a095339970d5f6109b458f264a9",
+      "receipt_file": "COHORT34_FIRST_BODY_LY-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "22f7d6fa3850f284895ff2ed7add321bd7bbbd0c2c7b00d190d50c8d707617bc",
+      "word_count": 106,
+      "within_word_format": true,
+      "actual_storage_tool_chunk": "25c134"
+    },
+    {
+      "case_id": "LY-H01-B",
+      "body_file": "COHORT34_FIRST_BODY_LY-H01-B_01.txt",
+      "body_bytes": 617,
+      "body_sha256": "2970c59845bc822cba63f1cde26bd20a9fd5562bd036525cd0d0942bf0a54972",
+      "receipt_file": "COHORT34_FIRST_BODY_LY-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "f858279a399a94cf2a33f57fe6cf5aaec7aba8627f46367afb4afbe850999470",
+      "word_count": 105,
+      "within_word_format": true,
+      "actual_storage_tool_chunk": "fd52d6"
+    },
+    {
+      "case_id": "LY-H02-A",
+      "body_file": "COHORT34_FIRST_BODY_LY-H02-A_01.txt",
+      "body_bytes": 579,
+      "body_sha256": "ff5b7e17bd0ed797c2aafc9afb60a5d2763af347c1994dde251d62520ce0a827",
+      "receipt_file": "COHORT34_FIRST_BODY_LY-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "c6c7082a1c660c87baf730227098909e46ae39e48e704acaaa9cfcc2438a61db",
+      "word_count": 106,
+      "within_word_format": true,
+      "actual_storage_tool_chunk": "1871c5"
+    },
+    {
+      "case_id": "LY-H02-B",
+      "body_file": "COHORT34_FIRST_BODY_LY-H02-B_01.txt",
+      "body_bytes": 614,
+      "body_sha256": "199284e9c4cf14e28246054d2be9cc2117d3361b433919a1a25acf5ca78bf9cf",
+      "receipt_file": "COHORT34_FIRST_BODY_LY-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "87b1e054a6ec383ce4a47e7809056cdf67b4e7ec8d62109a2e397be6530a8687",
+      "word_count": 106,
+      "within_word_format": true,
+      "actual_storage_tool_chunk": "319f5d"
+    },
+    {
+      "case_id": "FTP-H01-A",
+      "body_file": "COHORT34_FIRST_BODY_FTP-H01-A_01.txt",
+      "body_bytes": 644,
+      "body_sha256": "7f920604ca6de84f2ac9284309e05a3d6c3279dd0973c5ad4309e3fdcfe1a862",
+      "receipt_file": "COHORT34_FIRST_BODY_FTP-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "17d427009eac66ffe9b7ae5cf447edc0168e5bf6347e62678ad62a55f4930238",
+      "word_count": 108,
+      "within_word_format": true,
+      "actual_storage_tool_chunk": "78e041"
+    },
+    {
+      "case_id": "FTP-H01-B",
+      "body_file": "COHORT34_FIRST_BODY_FTP-H01-B_01.txt",
+      "body_bytes": 636,
+      "body_sha256": "dd5544cf6ac0a6d2978fcc7b1aba28ca46902107f9ea6fedf042ad6984121b2b",
+      "receipt_file": "COHORT34_FIRST_BODY_FTP-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "f4c571555822ebb76099fa12e74dcdd14df949779a9548e09a0c9eec083beec5",
+      "word_count": 110,
+      "within_word_format": true,
+      "actual_storage_tool_chunk": "e2abc9"
+    },
+    {
+      "case_id": "FTP-H02-A",
+      "body_file": "COHORT34_FIRST_BODY_FTP-H02-A_01.txt",
+      "body_bytes": 596,
+      "body_sha256": "2c3ea8575b0eaf31e6ea5989473b6abe3547eb48e1fa5391cc08ae4d5d86a2e0",
+      "receipt_file": "COHORT34_FIRST_BODY_FTP-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "6e4fda264a1fe80ef2bc3822ad07bf371c376cfcd0b3fb61fb0be0399be85afc",
+      "word_count": 106,
+      "within_word_format": true,
+      "actual_storage_tool_chunk": "a1f370"
+    },
+    {
+      "case_id": "FTP-H02-B",
+      "body_file": "COHORT34_FIRST_BODY_FTP-H02-B_01.txt",
+      "body_bytes": 643,
+      "body_sha256": "002a99d19280e7e2dfb0e5a89a60a9ba449b118e8fb1060631d9ba6755ba1ac9",
+      "receipt_file": "COHORT34_FIRST_BODY_FTP-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "8cf2018a9957546cf5ae77c5a4fe01961fae79d1d39d5bce30eff7c7d6c151c5",
+      "word_count": 111,
+      "within_word_format": true,
+      "actual_storage_tool_chunk": "4b2056"
+    },
+    {
+      "case_id": "FTP-H03-A",
+      "body_file": "COHORT34_FIRST_BODY_FTP-H03-A_01.txt",
+      "body_bytes": 594,
+      "body_sha256": "8c272266261feedab796b154398b25d455c199777ca36d3ac5155168331f28c4",
+      "receipt_file": "COHORT34_FIRST_BODY_FTP-H03-A_01_RECEIPT.json",
+      "receipt_sha256": "04ccc29f18abec5dfb030e190304426d6f8a3aa375352f5f95cab574cc995bde",
+      "word_count": 108,
+      "within_word_format": true,
+      "actual_storage_tool_chunk": "dbaa17"
+    },
+    {
+      "case_id": "FTP-H03-B",
+      "body_file": "COHORT34_FIRST_BODY_FTP-H03-B_01.txt",
+      "body_bytes": 656,
+      "body_sha256": "9971eb3069c2d080a2132dcce3ad5d75031fb48dd3588d85c3be3e93668b840c",
+      "receipt_file": "COHORT34_FIRST_BODY_FTP-H03-B_01_RECEIPT.json",
+      "receipt_sha256": "c2965464daa0cd1b4eab3eaf765c9e1600b1f2c797e3fae89d1d07e0ac7bcf07",
+      "word_count": 112,
+      "within_word_format": true,
+      "actual_storage_tool_chunk": "6d81b8"
+    }
+  ],
+  "diagnostic_limits": "Ten genuine original first bodies, five dependent source-known contrast-visible pairs, zero body regeneration or feedback repair. Input underbinding and all original unprovided details remain. Same root authors and assesses; format is not accuracy and no pair receives a full-constraint-clean or independent success claim.",
+  "original_pre_input_or_pre_annotation_flags_are_dated_capture_facts": true,
+  "current53_models_exact": true,
+  "preservation_verification": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 53,
+    "control_baseline": "Accepted owner-integrated main controls preserved at a90722d065e56e8fe2c2131e4307e4fa03d0c289; epoch1 migration files remain historical,not current routing.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true,
+    "C27_twenty_cores_compact_fragment_exact": true,
+    "C28_twenty_eight_cores_thirtytwo_private_twentyfour_original_firsts_exact": true,
+    "C28_eighty_nine_raw_deliveries_exact": true,
+    "WORK92_exact": true,
+    "current_C28_public_gate_exact": true,
+    "C29_thirteen_cores_seventeen_private_sixteen_original_firsts_exact": true,
+    "C29_sixty_eight_raw_deliveries_exact": true,
+    "WORK94_exact": true,
+    "current_C29_public_gate_exact": true,
+    "C30_nineteen_cores_twenty_three_private_twenty_four_original_firsts_exact": true,
+    "C30_thirty_three_raw_deliveries_exact": true,
+    "WORK96_exact": true,
+    "current_C30_public_gate_exact": true,
+    "C31_twenty_nine_cores_thirty_three_private_twenty_six_original_firsts_exact": true,
+    "C31_fifty_six_native_copies_exact": true,
+    "WORK98_exact": true,
+    "current_C31_public_gate_exact": true,
+    "C32_eleven_cores_fifteen_private_six_original_firsts_exact": true,
+    "C32_fortysix_native_deliveries_exact": true,
+    "WORK99_exact": true,
+    "WORK100_exact": true,
+    "current_C32_public_gate_exact": true,
+    "C33_eight_cores_twelve_private_six_original_firsts_exact": true,
+    "C33_fourteen_native_deliveries_exact": true,
+    "WORK101_exact": true,
+    "WORK102_exact": true,
+    "current_C33_public_gate_exact": true
+  },
+  "raw_media_or_native_paragraph_exports_in_repository": false,
+  "new_whole_source_or_globally_unique_or_independent_credit": 0,
+  "new_OCR_audio_native_human_or_external_model_call": false,
+  "same_informed_author_all_stages": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "independent_trial_count": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "Japanese_or_acoustic_voice_certified": false,
+  "formal_tiers_are_scope_candidates_until_receiving": true,
+  "canonical_cohort34_changes": false,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "final_nine_category_battery_complete": false,
+  "original_six_StageD_successors_complete": false,
+  "full_program_complete": false
+}

@@ -103,7 +103,7 @@ Stage only the declared analytical files and any routing descriptor, then run au
 
 `python tools/validate_repository.py --phase current --snapshot index --routing-preflight series/<stable-slug> --repo .`
 
-Use `studies/<stable-slug>` for a study. Preflight validates a read-only projection of the five routing outputs and confines the branch to its own root, the routing outputs and a two-file character repair. `AWAITING_SYNCHRONIZATION` means housekeeping will regenerate routing after the push; it is not a failure. A real new root needs its routing descriptor and a current-eligible entrypoint with complete authority metadata. For a noncurrent working draft, use the `draft_noncurrent` template in `../../characters/README.md`; never promote a draft to current authority to pass a check.
+Use `studies/<stable-slug>` for a study. Preflight validates a read-only projection of the five routing outputs and confines the branch to its own root, the routing outputs and a character repair that touches only discovery outputs. `AWAITING_SYNCHRONIZATION` means housekeeping will regenerate routing after the push; it is not a failure. A real new root needs its routing descriptor and a current-eligible entrypoint with complete authority metadata. For a noncurrent working draft, use the `draft_noncurrent` template in `../../characters/README.md`; never promote a draft to current authority to pass a check.
 
 ## Local or cross-cutting profile
 

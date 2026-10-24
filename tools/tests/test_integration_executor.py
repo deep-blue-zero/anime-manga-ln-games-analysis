@@ -250,7 +250,9 @@ class ExecutorTests(unittest.TestCase):
         """A series or study branch may change only its own root, routing outputs and curation files."""
         self.assertTrue(eligible_paths('series/a', {'series/a/analysis.md', 'series/registry.json'}))
         self.assertTrue(eligible_paths('series/a', {'characters/registry.jsonl'}))
-        for path in ('series/b/analysis.md', 'tools/validate_repository.py', 'README.md'):
+        self.assertTrue(eligible_paths('series/a', {'characters/registry/a.jsonl', 'characters/index/a.md',
+                                                    'CHARACTER_ANALYSIS_INDEX.md'}))
+        for path in ('series/b/analysis.md', 'tools/validate_repository.py', 'README.md', 'characters/README.md'):
             with self.subTest(path=path):
                 self.assertFalse(eligible_paths('series/a', {path}))
 
@@ -300,11 +302,18 @@ class ExecutorTests(unittest.TestCase):
         self.assertEqual(hashlib.sha256(script).hexdigest(), __import__('nightly_integration').LOADED_SHA256)
 
     def test_mixed_character_commit_is_not_a_curator_repair(self):
-        """A two-file curation repair cannot conceal analytical or control changes."""
+        """A curation repair cannot conceal analytical or control changes."""
+        for paths in ('characters/registry.jsonl\0series/a/analysis.md\0',
+                      'characters/registry/a.jsonl\0characters/index/a.md\0tools/tool.py\0'):
+            with self.subTest(paths=paths):
+                graph = object.__new__(Graph)
+                graph.git = mock.Mock(side_effect=[S, paths])
+                with self.assertRaises(Blocked):
+                    graph.verify_curation_commits(B, S)
         graph = object.__new__(Graph)
-        graph.git = mock.Mock(side_effect=[S, 'characters/registry.jsonl\0series/a/analysis.md\0'])
-        with self.assertRaises(Blocked):
-            graph.verify_curation_commits(B, S)
+        graph.git = mock.Mock(side_effect=[S, 'characters/registry/a.jsonl\0characters/index/a.md\0'
+                                              'CHARACTER_ANALYSIS_INDEX.md\0'])
+        graph.verify_curation_commits(B, S)
 
     def test_receipt_is_written_atomically_outside_the_disposable_graph(self):
         """A receipt records an integration SHA before cleanup, without leaving a temporary file."""

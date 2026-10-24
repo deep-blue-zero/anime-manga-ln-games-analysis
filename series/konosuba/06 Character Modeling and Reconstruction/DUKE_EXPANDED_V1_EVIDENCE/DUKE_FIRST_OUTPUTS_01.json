@@ -1,0 +1,119 @@
+{
+  "schema": "konosuba.character-original-first-outputs.v1",
+  "recorded_utc": "2026-10-24T15:13:37.618895+00:00",
+  "generation": "DUKE_EXPANDED_V1",
+  "exact_input_freeze": {
+    "file": "COHORT37_EXACT_INPUT_FREEZE_01.json",
+    "bytes": 2211,
+    "sha256": "13c33c0f5429810775bb7f1a8583dd16fe65bca7372fda771b57441a8d318472"
+  },
+  "model_foundation_freeze": {
+    "file": "COHORT37_MODEL_FOUNDATION_FREEZE_01.json",
+    "bytes": 3638,
+    "sha256": "ef147eb7f7062a12021525d4beacc22a5a44054b8164c6663ac6d0d1d58938f5"
+  },
+  "input_pin": {
+    "file": "DUKE_SCENARIO_INPUTS_DRAFT_02.json",
+    "bytes": 8578,
+    "sha256": "f3881f4c08b35dced8271e4fe1496e55cc65eb5f064168c335ba15c98bc17cf5"
+  },
+  "outputs": [
+    {
+      "case_id": "DK-A1",
+      "pair": "DK-PAIR-A",
+      "collection_order": 1,
+      "prompt_sha256": "d75d9d962708b6f96c449ca14c1fe9bcd35f89fbe06ac8d1a86be0f2b66aaf95",
+      "original_body": "Duke looked from the ledgers to the demon. \"Five minutes? Put those down and tell me which desk holds the account. I did not come here to wait while a lesser demon tidies its shelves.\"\n\nHe turned toward another desk, waiting only for an answer.\n",
+      "original_body_pin": {
+        "file": "first-bodies01/DK-A1.txt",
+        "bytes": 245,
+        "sha256": "e9127a6ce173612f3a09d3204ed8dbe11395e0f3c99cc0a6a4ee76f27285ae79"
+      },
+      "original_first_receipt": {
+        "file": "DK-A1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2120,
+        "sha256": "37754d16336d0602e2b76138eaed535358a3db22c71a564ee5338a097503b274"
+      },
+      "word_count_whitespace": 45,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    },
+    {
+      "case_id": "DK-A2",
+      "pair": "DK-PAIR-A",
+      "collection_order": 2,
+      "prompt_sha256": "b8303933ddc6ff02eec76aea7e7c1c14c244dcacd0a245091b60a85c518813e0",
+      "original_body": "Duke glanced at the ledgers, then stepped out of the way. \"Very well. Five minutes. When you've finished, tell me where the account is kept.\"\n\nHis expression hardened. \"But don't mistake my patience for an interest in becoming friendly with your kind.\"\n",
+      "original_body_pin": {
+        "file": "first-bodies01/DK-A2.txt",
+        "bytes": 253,
+        "sha256": "f7202ab79245bee11ccbe0ab5ba36b37e983c8879b5ecef7439a8931cc64e359"
+      },
+      "original_first_receipt": {
+        "file": "DK-A2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2120,
+        "sha256": "cd82a164d29044a11e35ad0969504f94cfd350bb5278dda7c3c44a0e5647ca8d"
+      },
+      "word_count_whitespace": 42,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    },
+    {
+      "case_id": "DK-B1",
+      "pair": "DK-PAIR-B",
+      "collection_order": 3,
+      "prompt_sha256": "edcf15ab432d118e7f3de65affa2e57345717c83eb752072ea84127db13e2471",
+      "original_body": "Duke folded his arms. \"Ten minutes? That will not alter the outcome. Very well; but nothing else changes. I intend to face Wiz, not spend the day being redirected.\"\n\nHe inclined his head slightly and turned from the counter.\n",
+      "original_body_pin": {
+        "file": "first-bodies01/DK-B1.txt",
+        "bytes": 225,
+        "sha256": "7024d75e7b8fc0c6b5862675beae1eed9eb2f3f8150a6af2af81b70fbbd4d8d3"
+      },
+      "original_first_receipt": {
+        "file": "DK-B1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2120,
+        "sha256": "31f26e1ccb218bccb8b1f54bd91ef352190ef98a195ca8fb49374a432ab2b095"
+      },
+      "word_count_whitespace": 39,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    },
+    {
+      "case_id": "DK-B2",
+      "pair": "DK-PAIR-B",
+      "collection_order": 4,
+      "prompt_sha256": "76b8c4b528cb85c263f8e1b8311324064a747ba0399e298de8d2ecaf7f4652b6",
+      "original_body": "Duke drew himself upright. \"No. Your acquaintance with Vanir buys you a civil answer; it does not settle my business with Wiz. I will challenge her. If you have something else to ask, ask it.\"\n\nHe remained clear of the demon's path, his eyes fixed on it.\n",
+      "original_body_pin": {
+        "file": "first-bodies01/DK-B2.txt",
+        "bytes": 255,
+        "sha256": "6efef325bfd3970e6f0836120e9dc375a1994359586231fba3c3fcebfebb4f94"
+      },
+      "original_first_receipt": {
+        "file": "DK-B2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2120,
+        "sha256": "545828d3f7cbd8a17bb1653bb7f7f2b27fa09bfc5f383b1d0101bea6e21f5a72"
+      },
+      "word_count_whitespace": 47,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    }
+  ],
+  "original_first_count": 4,
+  "dependent_pair_count": 2,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "same_informed_root_authors_and_assesses": true,
+  "all_bodies_precede_any_feedback": true,
+  "original_bodies_immutable": true,
+  "no_isolated_model_execution_claim": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

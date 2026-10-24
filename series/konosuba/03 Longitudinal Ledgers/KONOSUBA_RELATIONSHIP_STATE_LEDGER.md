@@ -1491,3 +1491,94 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Yunyun future-chief identity,qualification and announced return do not transfer current father office or prove his approval. Aigis provocative insinuation does not establish daughter assent. Sylvia selective interest and release offer coexist with renewed control,hostage threat and group retaliation. Moguninnin's conditional Crimson restriction is an observed functional limit,not an ethical commitment. Courier protective initiative has duty/fear rivals; no general loyalty or affection grade follows.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Self-elected brotherhood and briefly claimed best friendship do not establish durable mutual obligation. Aigis provides actual protection while repeating conduct Yunyun objects to; service, gratitude, attraction, permission and repair remain distinct. Its first desired-Eris reaction precedes Kazuma explicit Chris/Eris linkage. Mitsurugi custody and later Iris wearing are attributed reports rather than a watched allocation/consent process. The sister pair has observed coordination, not an identified family joined elsewhere. The modern diagnostic analogue preserves local title restraint without inventing forgiveness (AG26-16,19–29,33).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Selective respect is not universal honor: Wiz reports Beldia’s peeping despite his chivalric presentation. Wolbach refuses Hans’s involvement, and Wiz limits her executive noninterference by civilian harm. Serena’s gratitude, loan concession, cash repayment, control, unwanted contact and coerced Axis affiliation are separate states. Her own chosen exposure does not authorize previous forced exposure. Aloerina’s patronage response and Lolierina’s noble-connection bid are differentiated; neither establishes a reciprocal romance. The commander can briefly sympathize with Dust while still attacking. Three returned men provide reported histories and collective apology without complete speaker allocation or proved durable repair (BE27-01, 06, 08; HA27-01, 03–05; SE27-02–13, 15; AO27; LO27; DU27; RM27).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Alderp/Maxwell combine exploited nonpayment, valued cruelty and later harmful dependence; neither innocence nor consent follows from attachment language. Balter's desire differs from Alderp's body-resource plan. Ignis cares and pressures; Darkness's own preference remains distinct. Hagen, Norris and the wedding guard have no demonstrated alias join; Alderp's messenger serves a different household. Ragcraft influences but cannot wholly control Levi; the captives and Dust retain their separate knowledge. Aulip's retainer, woman and bystander own different speech. The elderly casino acquaintance's access permission does not establish a royal identity or long friendship.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton revises means after reported Barbera feedback, but price and apparent happiness do not reveal her motive or assent. Megumin, Yunyun and Iris are distinct partners; Iris's royal identity arrives late. Zereschilt seeks Vanir's help, Darkness's patronage and Kazuma's mediation while contributing to Wiz's shop. Sylphina's embrace does not make her responsible for preventing Aqua's attacks. Her caregiver attachment is distinct from biological parenthood. No official or guild-role resemblance proves an identity join.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Axel Hearts is a particular partnership: Lia excludes her partners, Cielo and Erika disobey, then Lia apologizes and requests renewed membership and receives acceptance. These are different choices, not retroactive consensus. Erika can reject praise after concealed harm; the later producer reconciliation remains under incomplete motive information. Cielo's protected procedure is local assent, not bare-contact permission. Daniel's refused invitations and marriage language and Charlie's possession claim do not establish mutual romance. Charlie's correct warning and aid to Daniel preserve a distinct subordinate relationship.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Temiren requested wall-pin differs from Gilbert substituted slap and her later reappraisal; later interest does not backdate consent.21 pressured initial sect assent differs from later own warmth/belonging and welcome. Chiho requests mediation, Otohime willingly explains and actually spends scrolls, Chiho partly accepts while doubts/borrowing continue, and 21 declines another loop. Those local acts neither prove sole motive nor cure fear or debt. Zamzar will is reported/coauthored companionship; animated mindless remains do not restore original dragon agency.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Brad actual retrieval/carrying and his gaze despite Rosary explicit boundary coexist; Wiz forgiveness is hers alone. Leader warnings, worker offer and Vanir actual defense have separate owners under hierarchy and fear. The MAIN02 visitor proposes a client-protecting false cover and accepts escape, without universal honesty or martyrdom. Her harmful pressure on Luna remains contrary evidence to a universal boundary-respect reading. Karen/Yukinori relation is reported; unnamed reunion adults/child do not certify romance, marriage, parentage or fate.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen selectively solicits Kazuma, competes with Darkness and apologizes to Aqua on an employee's behalf. Darkness's reciprocal insult and threatened killing are not erased by Karen's misconduct. Karen's fear under humiliating theft remains real, while later bounty threat shows no permanent submission or demonstrated remorse. Chris stops the third attempt; Megumin's encouragement is her own action. Beat and Clarice each initiate welcoming speech, and their retreat after disclosure does not make the earlier invitation insincere. MASK Karen remains unjoined with Donnelly.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Lucy accepts Megumin’s relevant claim, thanks a helper whose name she does not yet know, and retorts against Aqua while leaving. Regina’s own mind is not supplied by either Lucy or Serena. The Princess’s reported visitors/helpers have unresolved memberships and access layers. Threat-induced bodily offers do not provide general permission. Biflantz’s engagement question and Darkness’s courteous assertion of family refusal establish a boundary, without proving his receipt of earlier notice or romantic acceptance. Reported unwanted-gift senders remain unjoined.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+Selis is reported acting alongside Darkness. The present DUST05 speaker’s closely matching recollection is a qualified personal join. The correction speaker, other current church roles and the earlier CONTEXP01 priest may overlap; shared location or occupation proves neither identity nor a disjoint-person split. The earlier profile and its support remain exact.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Zel’s proximity to Chomusuke contributes to Kazuma giving up an eventual eating thought; the causal effect on Kazuma does not supply a bird’s moral rationale. Original egg seller,reported marketing senders,garden-seed seller and other merchants remain unjoined and not certified distinct people. Vanir’s later actual care holding differs from earlier reported leave-care transfers.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Vanir connection constrains Duke treatment of Small despite demon hostility;she is not actually sent by Vanir. His own nonwithdrawal claim limits patronage obedience. Garden reaches toward Aqua rather than threatener Kazuma;Darkness stops disposal before hearing private evidence. Yunyun declared adoption and Aqua later reported child-care promise do not complete institutional transfer or plant assent.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+Dust and Rionor initially infer Perie belongs to the royal retinue;Perie withholds affiliation rather than claiming that role. Her later princess/hostage understanding changes. Yunyun calls the disguised princess Leen without making that identity true. Perie expects royal concern for bystanders and is surprised when Rionor refuses the premise. Dust unwanted exposure attempt occurs under incapacity and Rionor stops it;liking a dress is not assent. The gate guard refuses the real outside princess while offering limited nonreporting and believing the resident authentic.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

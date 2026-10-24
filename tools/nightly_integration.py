@@ -40,7 +40,10 @@ GENERATED = frozenset({
     "governance/MANGA_ANIME_CORPUS_INDEX.md", "series/README.md",
     "series/registry.json", "studies/README.md", "studies/registry.json",
 })
-CHARACTER = frozenset({"CHARACTER_ANALYSIS_INDEX.md", "characters/registry.jsonl"})
+# Discovery outputs: the registry partitions, the generated root index and its
+# namespace pages, and the retired single-file registry still found in history.
+CHARACTER_FILES = frozenset({"CHARACTER_ANALYSIS_INDEX.md", "characters/registry.jsonl"})
+CHARACTER_ROOTS = ("characters/registry/", "characters/index/")
 AUTHOR = {"name": OWNER, "email": "50891441+peipw@users.noreply.github.com"}
 COMMITTER = {"name": "GitHub", "email": "noreply@github.com"}
 # Guardrails: the owner merges changes to workflows, this gate, the CI agent's
@@ -89,9 +92,14 @@ def exact_sha(value: str) -> str:
     return value
 
 
+def character_paths(paths: set[str]) -> set[str]:
+    return {path for path in paths if path in CHARACTER_FILES or path.startswith(CHARACTER_ROOTS)}
+
+
 def scoped_paths(branch: str, paths: set[str]) -> bool:
     return bool(BRANCH.fullmatch(branch)) and all(
-        path.startswith(branch + "/") or path in GENERATED | CHARACTER for path in paths
+        path.startswith(branch + "/") or path in GENERATED or character_paths({path})
+        for path in paths
     )
 
 
@@ -278,7 +286,7 @@ class Graph:
         for line in self.git("rev-list", "--parents", f"{base}..{head}").splitlines():
             sha, *parents = line.split()
             if len(parents) > 1:
-                if not any(self.paths(parent, sha) & CHARACTER for parent in parents):
+                if not any(character_paths(self.paths(parent, sha)) for parent in parents):
                     continue
                 if len(parents) != 2:
                     raise Blocked("Character imports require a verifiable two-parent merge")
@@ -296,15 +304,15 @@ class Graph:
                     if "" not in lines[1:]:
                         raise Halt("Character merge conflict paths are unreadable") from exc
                     conflicts = set(lines[1:lines.index("", 1)])
-                    if conflicts & CHARACTER:
+                    if character_paths(conflicts):
                         raise Blocked("Character merge conflicts require a separate curation repair") from exc
                 expected = exact_sha(output.splitlines()[0])
-                if self.paths(expected, sha) & CHARACTER:
+                if character_paths(self.paths(expected, sha)):
                     raise Blocked("Merge commit authors character changes outside a separate curation repair")
                 continue
             paths = set(filter(None, self.git("diff-tree", "--root", "--no-commit-id", "--name-only", "-r", "--no-renames", "-z", sha).split("\0")))
-            if paths & CHARACTER and not paths <= CHARACTER:
-                raise Blocked("Curation repair must be a separately identifiable two-file commit")
+            if character_paths(paths) and character_paths(paths) != paths:
+                raise Blocked("Curation repair must be a separately identifiable commit touching only discovery outputs")
 
     def merge_tree(self, source: str, base: str) -> str:
         try:
@@ -535,7 +543,7 @@ class Integrator:
         if delta & RECONSTRUCTION and self.graph.reconstruction_phase(base) != "ROUTINE":
             raise Blocked("Reconstruction assessments are owner-merged until calibration is accepted")
         self.graph.verify_identities(base, source)
-        if delta & CHARACTER:
+        if character_paths(delta):
             self.graph.verify_curation_commits(base, source)
         self.candidate_pr(branch)
         # Initial audit and final housekeeping share one source budget.
