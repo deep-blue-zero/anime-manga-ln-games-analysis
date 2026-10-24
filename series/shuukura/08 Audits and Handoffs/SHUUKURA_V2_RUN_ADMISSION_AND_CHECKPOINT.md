@@ -5,7 +5,7 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.48"
+version: "1.49"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
 source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0019; LN10 separately admitted outside immutable I1; original I1/E0020+ and dependent stages paused, V1/future releases unopened"
@@ -1731,3 +1731,9 @@ Root mainline Q1 was sealed before afterword/extra, whole-volume Q1 before revie
 The bounded analytical run records completed, OPEN foundation/single_operation/start=terminal/highwater LN-JP-V10 and both next fields NONE_LN10_RUN_COMPLETE. Original I1 remains interrupted atE19 with its wider pause. Actual fetched mainfb0dc312b4eae6bd5d5d07bb35bbf88659f6021d contains matching active LN10 admission following merged PR318; local08116e9aa9188a31885b817b84a5fac901d3f464 ordinarily adopts it. Full seven before images and governance controls are unchanged. This is the ordinary final-admission route in initiation policy3.9.4, without portable proof or comparison-ref/control substitution; earlier active-only planning is superseded by observed main integration of metadata.
 
 Source and cumulative content acceptance is complete; external publication remains pending until actual receipts. Required closeout is exact INDEX preflight, approved author/committer and nine-path commit, ordinary push/readback, the new actual-head audit/any housekeeping child and owner/CI-controlled analytical main acceptance. This completed source-transaction metadata does not claim future CI or analytical main integration. Stop new narrative and preserve original I1/E20+, V1/future-source exclusions and all dependent-stage pause throughout.
+
+## LN10 freeze-time attestation checkpoint — 2026-10-24
+
+At `2026-10-24T23:47:35.566827+00:00` (UTC), `ERRATUM-LN10-FREEZE-TIME-001` publicly documents the previously retained pre-reading entering/source-set binding, recorded at `2026-10-24T21:40:13.309815+00:00` (UTC). The [inventory erratum](../00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY.md#ln10-freeze-time-provenance-erratum--2026-10-24) quotes the actual historical field and release/first-ack/seal chain, exact hashes, fixed membership, edition policy and terminal boundary. Earlier first serialization/initial freeze of the immutable date-only inventory is unknown; this correction's documentation time is separate. No frozen record or prior source conclusion is rewritten and no reading is repeated.
+
+The owner/CI procedural-sufficiency decision remains pending in PR322; no waiver or fully authenticated historical clock is claimed. Bounded source run remains completed with both next operations NONE_LN10_RUN_COMPLETE; source/ledger counts and wider I1/E20+/G3–G7 pause stay unchanged. This is a four-path metadata correction (map1.53,inventory1.52,checkpoint1.49,transactionaudit1.1). Source91cd0f17's actual audit40143467715 passed10074paths and479tests; that success does not certify this later correction head. Its own INDEX/push/readback/audit remain required.

@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.52"
+version: "1.53"
 status: active_provisional
 scope: "Single current entrypoint for a material analytical restart at the continuing Shuukura root"
 source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0019; LN10 separately admitted outside immutable I1; original I1/E0020+ and dependent stages paused, V1/future releases unopened"
@@ -122,6 +122,8 @@ The bounded LN-JP-V10 analytical run ends with this whole introducing commit: `r
 Actual fetched main fb0dc312b4eae6bd5d5d07bb35bbf88659f6021d already contains the matching active LN10 admission: PR318 merged as38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357 after source9cd30620c4d0da9841560a949ecf7721faef3f9f. The continuing branch ordinarily adopted that main at08116e9aa9188a31885b817b84a5fac901d3f464; all seven maintained before images and all governance controls remain exact. Initiation policy3.9.4 therefore permits the final admission transaction to record completed/NONE. Earlier active-only/merge-first discussion described main7e4cd5ce before this real integration and is superseded by this observed state.
 
 External publication verification remains pending until observed: final INDEX preflight, exact approved-identity commit and remote readback, the new published-head integration audit and owner/CI-controlled analytical merge. Metadata admission on main and bounded source completion do not certify those future outcomes. Preserve the full reading, all earlier source clocks and the wider pause while finishing that closeout; stop after it.
+
+An attributed [freeze-time provenance erratum](00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY.md#ln10-freeze-time-provenance-erratum--2026-10-24), documented at `2026-10-24T23:47:35.566827+00:00` (UTC), records the retained pre-read entering/source-set binding at `2026-10-24T21:40:13.309815+00:00`. The original immutable inventory's earlier first-serialization/initial-freeze instant remains unknown. This repairs a public documentation omission without changing frozen records or source conclusions; owner/CI review of procedural sufficiency remains pending in PR322. Bounded completed/NONE and the wider pause remain unchanged.
 
 ## Bounded main LN10 admission — 2026-10-24
 

@@ -5,7 +5,7 @@ artifact_type: audit_manifest
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.0"
+version: "1.1"
 status: active_provisional
 scope: "Full acquired V10 source, cumulative reconciliation, preserved evidence and truthful pending publication"
 source_boundary: "Complete acquired LN-JP-V10-A1, original I1 and five-BW histories separate; E0020+/V1 and future releases unopened"
@@ -73,3 +73,11 @@ Source and cumulative content acceptance is complete; external publication remai
 Preparation history remains bound to original candidate base7bc80a7bfaf6860ad4ddb8af8664be1ffc7e9999 and then-main7e4cd5ce. Current final preparation base is08116e9aa9188a31885b817b84a5fac901d3f464, tree-identical to actual fetched mainfb0dc312b4eae6bd5d5d07bb35bbf88659f6021d; only ordinary merges adopted already accepted upstream content. PR318 is merged, with actual main active admission verified from complete before-image bytes (ACTUAL_MAIN_ADMISSION_BINDING_A2.json4164bytes/SHA2567e5319ace69d5a1a992ac9a9afc59fbaef14ee58d41a6cc273c05f2358805c8c). No analytical V10 reading is yet on that main. The earlier active-only route report4e0ea1ef00c538558aa0e0c47704964bb5394d4988201461ce0114bb70eed02f remains a truthful as-of-main7e4 analysis; actual matching active main now supplies the ordinary completed/NONE route. V10_PUBLICATION_ROUTE_SUPPLEMENT_A2.md3827bytes/SHA256de1b62f84b53fcbd4eb1cd58efbc5d7bbfd80c3d10336b8fd8c286830be3c3d6 independently verifies that finite changed condition, with36new route checks and6manual assessments; it certifies no future publication/test result.
 
 Prior metadata source568762614fbdee33138f574b1a3771994bd7b81f passed audit40135117299,479tests/10002paths, trusted requiredstatus57179672608. That older success is not this later analytical transaction's INDEX preflight, published-head audit or analytical main acceptance. The final preparation/push/remote checks and protected audit must be acquired separately. No author main merge, force push, automatic source upload, new narrative or wider resumption is authorized.
+
+## Attributed source-freeze timestamp correction — 2026-10-24
+
+`ERRATUM-LN10-FREEZE-TIME-001`, documentation time `2026-10-24T23:47:35.566827+00:00` (UTC), corrects the earlier public omission of a time/timezone without modifying the immutable inventory or accepted source evidence. The [inventory attestation](../00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY.md#ln10-freeze-time-provenance-erratum--2026-10-24) gives the literal retained pre-read binding instant `2026-10-24T21:40:13.309815+00:00`, freeze/release/first-ack/seal identities, derived-now ordered-source digest, and all uncertainty. That instant is the recorded entering/source-set binding, not a fabricated earlier inventory serialization time. It is retrospective public documentation of retained local-clock evidence, not a new prospective freeze or source-reading rerun.
+
+The four metadata paths are map1.53,inventory1.52,checkpoint1.49 and this audit1.1. Every analytical reading/ledger, frozen inventory, entering/endpoint freeze, journal and seal remains byte-exact to source91cd0f17 and its earlier retained proofs. No coverage/model score or authorization changes. The earlier nine-file table/receipt remains the historical introducing transaction, not a claim that its files bind this correction's later metadata versions.
+
+Actual source91cd0f17 audit40143467715 and trusted status57182719509 passed,10074paths/479tests, with automatic housekeeping reporting outputs already current and no child. Remote nine complete bodies match accepted A5. Those observed facts close source publication verification only; they do not certify this later correction head or resolve architecture procedural sufficiency. Normal owner/CI review of the timestamp attestation remains pending in PR322. This correction requires its own exact INDEX preflight, approved identities, ordinary push, changed-file readback and actual-head audit. Original I1/E0020+/G3–G7 remain paused; no further narrative is authorized.
