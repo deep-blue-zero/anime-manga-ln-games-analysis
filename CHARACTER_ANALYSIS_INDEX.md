@@ -3225,6 +3225,29 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-synthesis-document03` — Document03 provisional character synthesis (V01–V19)](series/yuru-camp/05%20Full-Series%20Synthesis/03_KAGAMIHARA_NADESHIKO_CHARACTER_VOICE_CURIOSITY_AND_HOSPITALITY.md) — **active provisional authority**
 
+### Kairi Okayasu
+
+- Entity ID: `peach-girl:okayasu-kairi`
+- Entity aliases:
+  - 岡安浬 (ja, ORIGINAL_SCRIPT) — Full name per the character ledger (PG-CHAR-0004).
+  - Okayasu Kairi (ja-latn, TRANSLITERATION) — Family-name-first order, per the character ledger.
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `peach-girl:okayasu-kairi@manga`
+- Series: `peach-girl`
+- Continuity: `peach-girl-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `second-pass-monograph`: MANGA VOLUME: Reviewed longitudinal analysis across original Japanese V01–V18, concentrated on material episodes. Speech coverage is written Japanese interaction and address by recipient, not acoustic performance or a complete conversational voice. Sequels, related manga and adaptations are excluded.; continuity `peach-girl-manga`
+  - `time-indexed-states`: MANGA VOLUME: Fourteen selected endpoint states from V01 to V18. Literary state retrieval at exact image cutoffs; its proposed challenge vectors are UNEXECUTED and it is not an executable or operationally accepted model.; continuity `peach-girl-manga`
+- Reviewed current evidence:
+  - [`second-pass-character-monograph` — Second-pass character monograph (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_KAIRI_MONOGRAPH.md) — **active provisional authority**
+  - [`time-indexed-literary-dossier` — Time-indexed literary dossier K01–K14 (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_KAIRI_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) — **active provisional authority**
+
 ### Kaiser director
 
 - Entity ID: `blue-archive:kaiser-director`
@@ -4802,6 +4825,30 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Misaki Nagisa dedicated analysis](series/chiramune/04%20Character%20Analysis/Misaki%20Nagisa/CHIRAMUNE_MISAKI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+### Misao
+
+- Entity ID: `peach-girl:aki-misao`
+- Entity aliases:
+  - 安芸操 (ja, ORIGINAL_SCRIPT) — Full name from her V12 self-introduction, per the V12 reading and the monograph.
+  - 操ちゃん (ja, ORIGINAL_SCRIPT) — Kairi's familiar address, per the character ledger.
+  - Aki Misao (ja-latn, TRANSLITERATION) — Family-name-first order, per the V12 reading.
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `peach-girl:aki-misao@manga`
+- Series: `peach-girl`
+- Continuity: `peach-girl-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `second-pass-monograph`: MANGA VOLUME: Reviewed analysis across original Japanese V01–V18 at the episodes where she acts (notably V01, V03, V06, V08–V09 and V11–V18), not uniform per-volume treatment. Speech coverage is written Japanese interaction and address by recipient, not acoustic performance or a complete conversational voice. Her unshown ordinary life and long-term aftermath remain unknown.; continuity `peach-girl-manga`
+  - `time-indexed-states`: MANGA VOLUME: Seven selected cutoffs from V06 to V18. Literary state retrieval at exact image cutoffs; its proposed challenge vectors are UNEXECUTED and it is not an executable or operationally accepted model.; continuity `peach-girl-manga`
+- Reviewed current evidence:
+  - [`second-pass-character-monograph` — Second-pass character monograph (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MISAO_MONOGRAPH.md) — **active provisional authority**
+  - [`time-indexed-literary-dossier` — Time-indexed literary dossier M-01–M-07 (V06–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MISAO_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) — **active provisional authority**
+
 ### Miyako
 
 - Entity ID: `blue-archive:miyako`
@@ -4921,6 +4968,29 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Momiji Nozomi dedicated analysis](series/chiramune/04%20Character%20Analysis/Momiji%20Nozomi/CHIRAMUNE_MOMIJI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+### Momo Adachi
+
+- Entity ID: `peach-girl:adachi-momo`
+- Entity aliases:
+  - 安達もも (ja, ORIGINAL_SCRIPT) — Full name per the character ledger (PG-CHAR-0001).
+  - Adachi Momo (ja-latn, TRANSLITERATION) — Family-name-first order, per the character ledger.
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `peach-girl:adachi-momo@manga`
+- Series: `peach-girl`
+- Continuity: `peach-girl-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `second-pass-monograph`: MANGA VOLUME: Reviewed longitudinal analysis across original Japanese V01–V18 to the series end, concentrated on material episodes rather than uniform per-volume treatment. Speech coverage is written Japanese interaction and address by recipient, not acoustic performance or a complete conversational voice. Sequels, related manga and adaptations are excluded.; continuity `peach-girl-manga`
+  - `time-indexed-states`: MANGA VOLUME: Fourteen selected endpoint states from V01 to V18. Literary state retrieval at exact image cutoffs; its proposed challenge vectors are UNEXECUTED and it is not an executable or operationally accepted model.; continuity `peach-girl-manga`
+- Reviewed current evidence:
+  - [`second-pass-character-monograph` — Second-pass character monograph (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MOMO_MONOGRAPH.md) — **active provisional authority**
+  - [`time-indexed-literary-dossier` — Time-indexed literary dossier M01–M14 (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MOMO_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) — **active provisional authority**
 
 ### Momoi
 
@@ -5982,6 +6052,29 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-character-ledger` — Ruka Sarashina longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Ruka%20Sarashina/RAG_RUKA_EVIDENCE_LEDGER.md)
 
+### Ryō
+
+- Entity ID: `peach-girl:okayasu-ryo`
+- Entity aliases:
+  - 岡安涼 (ja, ORIGINAL_SCRIPT) — Full name per the character ledger (PG-CHAR-0020).
+  - Okayasu Ryō (ja-latn, TRANSLITERATION) — Family-name-first order, per the character ledger.
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `peach-girl:okayasu-ryo@manga`
+- Series: `peach-girl`
+- Continuity: `peach-girl-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `second-pass-monograph`: MANGA VOLUME: Reviewed analysis from the V08–V09 reported brother through V18; the identified present subject begins at V10. Speech coverage is written Japanese interaction and address by recipient, not acoustic performance or a complete conversational voice. Business scope, earlier relationships and the deceased Aki chronology remain unestablished.; continuity `peach-girl-manga`
+  - `time-indexed-states`: MANGA VOLUME: Nine selected cutoffs from V10 to V18, with V08–V18 phase intervals. Literary state retrieval at exact image cutoffs; its proposed challenge vectors are UNEXECUTED and it is not an executable or operationally accepted model.; continuity `peach-girl-manga`
+- Reviewed current evidence:
+  - [`second-pass-character-monograph` — Second-pass character monograph (V08–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RYO_MONOGRAPH.md) — **active provisional authority**
+  - [`time-indexed-literary-dossier` — Time-indexed literary dossier R-01–R-09 (V10–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RYO_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) — **active provisional authority**
+
 ### Ryūen Kakeru
 
 - Entity ID: `classroom-of-the-elite:ryuen-kakeru`
@@ -6001,6 +6094,29 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `year-2-individual-ledger`: LIGHT_NOVEL VOLUME: Bounded individual interpretation in the frozen Year 2/Second List character ledger: inherited Year 1 baseline and Japanese-primary Year 2 through Volume 12.5, with Volume 0 kept at its stated retrospective position. Second List is qualified documentary/measurement context, not a total character model. Current Year 3 successors were checked for routing; no Year 3 narrative or later-life coverage is enrolled.; continuity `classroom-of-the-elite-original-light-novels`
 - Reviewed current evidence:
   - [`year-2-rivals-ledger` — Year 2 rival-leader individual analysis](series/classroom-of-the-elite/03%20Year%202%20Definitive%20Second%20Pass/03%20Rolling%20Ledgers/COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y2.md)
+
+### Sae Kashiwagi
+
+- Entity ID: `peach-girl:kashiwagi-sae`
+- Entity aliases:
+  - 柏木沙絵 (ja, ORIGINAL_SCRIPT) — Full name per the character ledger (PG-CHAR-0003).
+  - Kashiwagi Sae (ja-latn, TRANSLITERATION) — Family-name-first order, per the character ledger.
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `peach-girl:kashiwagi-sae@manga`
+- Series: `peach-girl`
+- Continuity: `peach-girl-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `second-pass-monograph`: MANGA VOLUME: Reviewed longitudinal analysis across original Japanese V01–V18, concentrated on material episodes. Speech coverage is written Japanese interaction and address by recipient, not acoustic performance or a complete conversational voice. Sequels, related manga and adaptations are excluded.; continuity `peach-girl-manga`
+  - `time-indexed-states`: MANGA VOLUME: Thirteen temporal state records from V01 to V18. Literary state retrieval at exact image cutoffs; its proposed challenge vectors are UNEXECUTED and it is not an executable or operationally accepted model.; continuity `peach-girl-manga`
+- Reviewed current evidence:
+  - [`second-pass-character-monograph` — Second-pass character monograph (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SAE_MONOGRAPH.md) — **active provisional authority**
+  - [`time-indexed-literary-dossier` — Time-indexed literary dossier S01–S13 (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SAE_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) — **active provisional authority**
 
 ### Saeki Haruko
 
@@ -7561,6 +7677,31 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Twice / Bubaigawara Jin dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_TWICE_BUBAIGAWARA_JIN_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Tōji
+
+- Entity ID: `peach-girl:tojigamori-kazuya`
+- Entity aliases:
+  - とーじ (ja, ORIGINAL_SCRIPT) — Momo's name for him, per the character ledger.
+  - カズヤ (ja, ORIGINAL_SCRIPT) — Given name as called at V01 i0065; its kanji is recorded only at MODERATE confidence and is not claimed.
+  - 東寺ヶ森 (ja, ORIGINAL_SCRIPT) — Surname, per the character ledger (PG-CHAR-0002).
+  - Tōjigamori (ja-latn, TRANSLITERATION) — Surname, per the character ledger.
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `peach-girl:tojigamori-kazuya@manga`
+- Series: `peach-girl`
+- Continuity: `peach-girl-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `second-pass-monograph`: MANGA VOLUME: Reviewed longitudinal analysis across original Japanese V01–V18, densest on the Momo-directed romance; family, adult career and post-ending recovery are thin or absent. Speech coverage is written Japanese interaction and address by recipient, not acoustic performance or a complete conversational voice. Sequels, related manga and adaptations are excluded.; continuity `peach-girl-manga`
+  - `time-indexed-states`: MANGA VOLUME: Twelve temporal state records from V01 to V18. Literary state retrieval at exact image cutoffs; its proposed challenge vectors are UNEXECUTED and it is not an executable or operationally accepted model.; continuity `peach-girl-manga`
+- Reviewed current evidence:
+  - [`second-pass-character-monograph` — Second-pass character monograph (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_TOJI_MONOGRAPH.md) — **active provisional authority**
+  - [`time-indexed-literary-dossier` — Time-indexed literary dossier T01–T12 (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_TOJI_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) — **active provisional authority**
 
 ### Umi
 
