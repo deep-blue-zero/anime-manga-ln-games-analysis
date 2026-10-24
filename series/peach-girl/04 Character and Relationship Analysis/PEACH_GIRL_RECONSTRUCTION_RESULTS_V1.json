@@ -1,0 +1,189 @@
+{
+  "spec_sha256": "cba94fb7b62b3499140bbfe22fde12e719517f52b828031247327341ac688419",
+  "spec_evidence_snapshot": "342b9067abf2b200613e2b24707abbc190c59402",
+  "rule_freeze_commit": "073af8008bab1226b854772019cf5e8d76b3613e",
+  "design": "RETROSPECTIVE_FULL_SOURCE_EXPOSED_NOT_HELD_OUT",
+  "result": "RETROSPECTIVE_PROBES_EXECUTED_OPERATIONAL_ACCEPTANCE_BLOCKED",
+  "cases": [
+    {
+      "case_id": "M1",
+      "subject": "Momo",
+      "frontier": "V15_i0099 beforeMreply",
+      "source_outcome": "V15_i0099–0100: M refuses strangerwristcontact/triesdistance",
+      "kind": "RETROSPECTIVE_NARRATIVE",
+      "context": "V15_stranger",
+      "prediction": {
+        "decision": "assert_refusal_and_try_leave",
+        "rule": "M1"
+      },
+      "matched_declared_category": true,
+      "limitation": "Retrospectively selected; predicts own response, not successfulescape or T intervention"
+    },
+    {
+      "case_id": "M2",
+      "subject": "Momo",
+      "frontier": "V18_i0014 beforetaxiobjection",
+      "source_outcome": "V18_i0015–0016: kidnappingobjection/stoprequest",
+      "kind": "RETROSPECTIVE_NARRATIVE",
+      "context": "V18_taxi",
+      "prediction": {
+        "decision": "assert_refusal_and_try_leave",
+        "rule": "M1"
+      },
+      "matched_declared_category": true,
+      "limitation": "Different intimate context; same author already knewoutcome"
+    },
+    {
+      "case_id": "K1",
+      "subject": "Kairi",
+      "frontier": "V17_i0031 beforecauseexplanation",
+      "source_outcome": "V17_i0032–0033: falseMis/RcauseacceptedM",
+      "kind": "RETROSPECTIVE_NARRATIVE",
+      "context": "V17_cause",
+      "prediction": {
+        "decision": "deflect_cause_to_Misao",
+        "rule": "K1"
+      },
+      "matched_declared_category": true,
+      "limitation": "Actor-accessible fear is interpretation supportedlatertrueMisreport54–57; weakrule and outcome-awareselection"
+    },
+    {
+      "case_id": "K2",
+      "subject": "Kairi",
+      "frontier": "V17_i0083–0084 beforeMmovestowardT",
+      "source_outcome": "V17_i0087–0094: refusesrelease/directclaim/hold",
+      "kind": "RETROSPECTIVE_NARRATIVE",
+      "context": "V17_rival",
+      "prediction": {
+        "decision": "withdraw_without_direct_claim",
+        "rule": "K2"
+      },
+      "matched_declared_category": false,
+      "limitation": "Counterexample; no posttestruleexception added"
+    },
+    {
+      "case_id": "T1",
+      "subject": "Toji",
+      "frontier": "V18_i0114 MWAITbeforeTresponse",
+      "source_outcome": "V18_i0115: stops/movesapart",
+      "kind": "RETROSPECTIVE_NARRATIVE",
+      "context": "V18_hotel",
+      "prediction": {
+        "decision": "stop_and_allow_distance",
+        "rule": "T1"
+      },
+      "matched_declared_category": true,
+      "limitation": "Same encounter asT2; not two independent contexts"
+    },
+    {
+      "case_id": "T2",
+      "subject": "Toji",
+      "frontier": "V18_i0122 MwantstoleavebeforeTresponse",
+      "source_outcome": "V18_i0123–0125: blocksdoor/pullsbed/pins",
+      "kind": "RETROSPECTIVE_NARRATIVE",
+      "context": "V18_hotel",
+      "prediction": {
+        "decision": "stop_and_allow_distance",
+        "rule": "T1"
+      },
+      "matched_declared_category": false,
+      "limitation": "Mandatoryunfavorableepisode retained; laterstop133 not substitute"
+    },
+    {
+      "case_id": "S1",
+      "subject": "Sae",
+      "frontier": "V18_i0044 MquestionsShiranamibeforereport",
+      "source_outcome": "V18_i0047–0050: truejourneyreport/noobligationrestart",
+      "kind": "RETROSPECTIVE_NARRATIVE",
+      "context": "V18_S_report",
+      "prediction": {
+        "decision": "intervene_through_indirect_control",
+        "rule": "S1"
+      },
+      "matched_declared_category": false,
+      "limitation": "Uncertainty is Sbelief aboutM; truthfulhelp counters habitualcontrol"
+    },
+    {
+      "case_id": "S2",
+      "subject": "Sae",
+      "frontier": "V18_i0110 phoneborrowed/beforemail120",
+      "source_outcome": "V18_i0120/0176: alarmingemail/authoradmission",
+      "kind": "RETROSPECTIVE_NARRATIVE",
+      "context": "V18_S_forgery",
+      "prediction": {
+        "decision": "intervene_through_indirect_control",
+        "rule": "S1"
+      },
+      "matched_declared_category": true,
+      "limitation": "Only broadcategorymatches; doesnotpredictspecificwords/suicidethreat/actualwaterdanger"
+    },
+    {
+      "case_id": "P1",
+      "subject": "Momo",
+      "frontier": "V18_i0061 afterpartialMisrelay",
+      "source_outcome": "Policequestioningcause notactuallyreceivedbyM",
+      "kind": "KNOWLEDGE_GUARD_PROBE",
+      "context": "knowledge_probe_M",
+      "prediction": {
+        "decision": "ABSTAIN_FORBIDDEN_OR_UNVERIFIED_KNOWLEDGE",
+        "rule": null,
+        "rejected_facts": [
+          "police_cause_received"
+        ]
+      },
+      "matched_declared_category": true,
+      "limitation": "Whitelistimplementationprobe, not behavioralforecast"
+    },
+    {
+      "case_id": "P2",
+      "subject": "Kairi",
+      "frontier": "V17_i0084",
+      "source_outcome": "V18_finalbreak isfuture/unavailableatfrontier",
+      "kind": "KNOWLEDGE_GUARD_PROBE",
+      "context": "knowledge_probe_K",
+      "prediction": {
+        "decision": "ABSTAIN_FORBIDDEN_OR_UNVERIFIED_KNOWLEDGE",
+        "rule": null,
+        "rejected_facts": [
+          "knows_final_M_T_break143"
+        ]
+      },
+      "matched_declared_category": true,
+      "limitation": "Implementationguarddoesnotprovefullmentalstatereconstruction"
+    },
+    {
+      "case_id": "P3",
+      "subject": "Toji",
+      "frontier": "V18_i0122",
+      "source_outcome": "SauthorshipnotreceivedbyT atfrontier; finalreceiptalso unshown",
+      "kind": "KNOWLEDGE_GUARD_PROBE",
+      "context": "knowledge_probe_T",
+      "prediction": {
+        "decision": "ABSTAIN_FORBIDDEN_OR_UNVERIFIED_KNOWLEDGE",
+        "rule": null,
+        "rejected_facts": [
+          "Sae_authored_email"
+        ]
+      },
+      "matched_declared_category": true,
+      "limitation": "Rejectreaderknowledge; no genuineheldouttest"
+    },
+    {
+      "case_id": "P4",
+      "subject": "Sae",
+      "frontier": "Unvoicedmangawitness",
+      "source_outcome": "Acousticvoice unavailablefromsource",
+      "kind": "KNOWLEDGE_GUARD_PROBE",
+      "context": "capability_probe_S",
+      "prediction": {
+        "decision": "ABSTAIN_FORBIDDEN_OR_UNVERIFIED_KNOWLEDGE",
+        "rule": null,
+        "rejected_facts": [
+          "acoustic_voice_profile"
+        ]
+      },
+      "matched_declared_category": true,
+      "limitation": "Capabilityguard, not narrativeprediction"
+    }
+  ]
+}
