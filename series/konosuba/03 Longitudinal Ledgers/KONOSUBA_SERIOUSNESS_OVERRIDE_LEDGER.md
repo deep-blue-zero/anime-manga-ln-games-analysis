@@ -1301,3 +1301,10 @@ Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KON
 The enclosed Eris reports heat, and the attempted cooling fails. Protection can therefore create another hazard; an effective defense is not universal safety. Pressure to undress and later suggestive misrepresentation remain unwanted, and no actual undressing is supplied. Yunyun rejects cheating proposals rather than performing them. A useful rescue, overnight protection, later gift or polite address shift does not repair earlier intrusion or coercion (AG26-13–18,22–28,33).
 
 Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia actually kills three men and Aqua actually revives them; recovery is not absence of lethal harm. Hans’s poisoning and admitted manager consumption remain serious despite tactical comedy. Serena’s Death kills Kazuma; revival does not excuse it. Her crimes do not eliminate her own objections to unwanted contact or the Axis threats. Threatened sexual violence is not a shown completed rape, and forced conversion is not voluntary repentance. Police pressure and false accusations are attributed to the relevant actor rather than canceling one another. Useful combat, apology, payment, release and celebration are not automatically completed repair (BE27-03–05; HA27-03–08; SE27-03–09, 13; AO27; LO27; DU27).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.

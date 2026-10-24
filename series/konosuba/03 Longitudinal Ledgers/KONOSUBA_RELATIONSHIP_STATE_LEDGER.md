@@ -1498,3 +1498,10 @@ Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KON
 Self-elected brotherhood and briefly claimed best friendship do not establish durable mutual obligation. Aigis provides actual protection while repeating conduct Yunyun objects to; service, gratitude, attraction, permission and repair remain distinct. Its first desired-Eris reaction precedes Kazuma explicit Chris/Eris linkage. Mitsurugi custody and later Iris wearing are attributed reports rather than a watched allocation/consent process. The sister pair has observed coordination, not an identified family joined elsewhere. The modern diagnostic analogue preserves local title restraint without inventing forgiveness (AG26-16,19–29,33).
 
 Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Selective respect is not universal honor: Wiz reports Beldia’s peeping despite his chivalric presentation. Wolbach refuses Hans’s involvement, and Wiz limits her executive noninterference by civilian harm. Serena’s gratitude, loan concession, cash repayment, control, unwanted contact and coerced Axis affiliation are separate states. Her own chosen exposure does not authorize previous forced exposure. Aloerina’s patronage response and Lolierina’s noble-connection bid are differentiated; neither establishes a reciprocal romance. The commander can briefly sympathize with Dust while still attacking. Three returned men provide reported histories and collective apology without complete speaker allocation or proved durable repair (BE27-01, 06, 08; HA27-01, 03–05; SE27-02–13, 15; AO27; LO27; DU27; RM27).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.

@@ -1378,3 +1378,10 @@ Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KON
 Aigis recalls daily waxing, offers milk it does not consume, transfers a body fragment, objects to scraping and chooses continued spectatorship after net release. Composition, price and prepaid lodging remain self-reports; no unlimited budget or blanket body-access permission follows. The lake-freezing/fishing story concerns another reported villager rather than Aigis own hobby. The sisters report pooled allowance and a purchase, while only the elder own gift is directly transferred. No checkout or altar delivery is watched (AG26-09–10,20,33–35).
 
 Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia’s household upkeep comes through a projected past; head-forgetting in a bath is the Demon King’s report. Hans’s appetite and contaminated stores are attributed conduct, not a full leisure profile. Serena’s tobacco, hotel/meal costs, piecework and digging challenge a generic inability-to-work account; some work is diary report and some directly narrated. Aloerina states a specific domestic ideal without an actual partner or pregnancy; Lolierina’s source shows connection-seeking rather than those same preferences. The commander reports former dog ownership and bodily losses. Shared trade, bandages or a helmet do not join unidentified actors, and later reimbursement does not erase earlier debt (BE27-07–09; HA27-11–12; SE27-02, 05–07; AO27-02; LO27-02–03; DU27-01–02).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.

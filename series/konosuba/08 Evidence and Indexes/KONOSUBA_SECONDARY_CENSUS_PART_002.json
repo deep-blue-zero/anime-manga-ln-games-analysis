@@ -257,18 +257,50 @@
     },
     {
       "character": "Aloerina / アロエリーナ",
-      "identity": "Police chief selfnamesMAIN15C2P461;23/single explicitly stated; distinct source-bound identity.",
-      "likely_tier": "1-2 candidate",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "CurrentMAIN15C2P336–490bounded base text within1088P receipt; MAIN15qualQ42. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "Actual questioning and changes under rank/guarantor information coexist with stated partner desires and misread social cues. Own institutional agency remains separate from reported letters by Claire/Rain/Iris. CURRENT WORKING31: Native MAIN15C2P427-463 recheck confirms own self-name/23/single and officer career/partner wishes; Claire guarantee/Rain visit are reported. First release no-complaint condition differs from later complaint and failed Darkness guarantee.",
-      "gaps": "Do not merge with Luna,Aulip or unnamed staff by occupation/appearance. Audit other-main/police aliases before final individual denominator; no diagnosis or lifetime model from age/status. CURRENT WORKING31 QUALIFICATION: Existing identity row only; do not add another chief or merge Sena/Luna/Aulip by role. No new direct Claire trial, broad romantic consent, lifetime diagnosis or all-institution impartiality claim.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Aloerina / アロエリーナ, self-named police chief in MAIN15 C2 P461; age 23 and single are her statements. Distinct from deputy Lolierina and the initial male officer.",
+      "likely_tier": "2 scoped; dedicated twelve-dimension monograph without a reconstruction model; exact publication pending",
+      "priority": "Cohort 27 semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "Two MAIN15 detention phases and the guarantee-backed release, AO27-01–03; personal disclosures and officer reports retain attribution.",
+      "substantive_responsibility": "Scrutiny, pressure, patronage sensitivity, domestic aspiration and guarantee-dependent release are her own decisions. The first and second detention complaints differ. Kazuma’s threatened false sexual accusation is his conduct.",
+      "gaps": "One dense linked case underidentifies a generator. Wider unsupported-victim treatment, actual domestic conduct, motive weights and recurrent voice remain open. Her stated partner ideal proves neither a partner nor pregnancy.",
+      "disposition_status": "COHORT27_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_gap_history_working30": "Do not merge with Luna,Aulip or unnamed staff by occupation/appearance. Audit other-main/police aliases before final individual denominator; no diagnosis or lifetime model from age/status.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_cohort27_current_fields": {
+        "identity": "Police chief selfnamesMAIN15C2P461;23/single explicitly stated; distinct source-bound identity.",
+        "likely_tier": "1-2 candidate",
+        "evidence_distribution": "CurrentMAIN15C2P336–490bounded base text within1088P receipt; MAIN15qualQ42. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
+        "substantive_responsibility": "Actual questioning and changes under rank/guarantor information coexist with stated partner desires and misread social cues. Own institutional agency remains separate from reported letters by Claire/Rain/Iris. CURRENT WORKING31: Native MAIN15C2P427-463 recheck confirms own self-name/23/single and officer career/partner wishes; Claire guarantee/Rain visit are reported. First release no-complaint condition differs from later complaint and failed Darkness guarantee.",
+        "gaps": "Do not merge with Luna,Aulip or unnamed staff by occupation/appearance. Audit other-main/police aliases before final individual denominator; no diagnosis or lifetime model from age/status. CURRENT WORKING31 QUALIFICATION: Existing identity row only; do not add another chief or merge Sena/Luna/Aulip by role. No new direct Claire trial, broad romantic consent, lifetime diagnosis or all-institution impartiality claim.",
+        "source_access_type": null,
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "source_access_type": "Direct questioning, personal self-report, attributed Rain delivery/departure report and actual release are separate. No anonymous police identity is joined through job similarity.",
+      "cohort27_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_ALOERINA_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_NATIVE_PROVENANCE.json"
+      ],
+      "cohort27_scope_assessment": {
+        "subject": "Aloerina",
+        "row_index": 91,
+        "proposed_scoped_tier": 2,
+        "proposed_rules": 0,
+        "evidence_ids": [
+          "AO27-01",
+          "AO27-02",
+          "AO27-03"
+        ],
+        "justification": "Two detention phases expose scrutiny,coercion,patronage,aspiration and changed guarantee states in a dense case.",
+        "limits_and_rivals": "Generator would risk overfitting the linked case; unsupported-victim treatment/domestic conduct unknown."
+      },
+      "cohort27_rules": [],
+      "cohort27_semantic_receiving_sha256": "e2d21905aeba4aa64bac9da953ff271ae97c80e6fe31f1f194704d432c3dd283",
+      "cohort27_current_qualifications": "Current evidence index and received artifacts qualify prior shorthand. Historical row fields remain explicit. No new independent observation, final model maturity or global completion is claimed."
     },
     {
       "character": "Unnamed noblewoman (MAIN15 bonus)",
@@ -1008,17 +1040,61 @@
     },
     {
       "character": "Hans / ハンス (MAIN04 general)",
-      "identity": "Named Demon King general/poison slime; disguise and consumed-manager account distinguished.",
-      "likely_tier": "1–2 candidate",
-      "priority": "Discovery",
-      "evidence_distribution": "Complete MAIN04 derivative report36; existing accepted principal authority retained, no new Hans-native pass claimed. CURRENT WORKING27: Current439actualMAIN04C5BASE-TEXT P suppliesownlong-preparedplanaccount/noninterferencerecollection,confirmedidentity,manager-consumptionadmission,actualpoisoning/freezecounteractions/bodypartuse andgrowth. The manager death isreported/admitted,notdirectlywitnessed; near-instinctstateisKazumahypothesis. Finitepowers/opponentagency differfrom puremonstercategory oromniscientcausalclaims.",
-      "substantive_responsibility": "Own sabotage goal, refusal by Wolbach, tactical contamination, claims about body/poison/manager consumption, reactive strategy and later appetite-driven expanded form. His planning and later changed state differ.",
-      "gaps": "Consolidate exact native voice/actions, attributed admission versus witnessed death and unknown later fate details before mechanism/model size. No generic monster morality or automatic full-tier promotion. Current working27 qualification: Current439actualMAIN04C5BASE-TEXT P suppliesownlong-preparedplanaccount/noninterferencerecollection,confirmedidentity,manager-consumptionadmission,actualpoisoning/freezecounteractions/bodypartuse andgrowth. The manager death isreported/admitted,notdirectlywitnessed; near-instinctstateisKazumahypothesis. Finitepowers/opponentagency differfrom puremonstercategory oromniscientcausalclaims.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Hans / ハンス, MAIN04 Demon King general and poison slime. His manager mimic and the original consumed manager are distinct; later bottled poison is not a living return.",
+      "likely_tier": "3 scoped; separate monograph and provisional three-rule reconstruction; exact publication pending",
+      "priority": "Cohort 27 semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "MAIN04 cover and poisoning battle; earlier Wolbach interaction and later qualified reports/references. HA27-01–13 retain direct, self-report, inference and postblackout report distinctions.",
+      "substantive_responsibility": "Concealment, objective-versus-pursuit choice, fallible noninterference assumptions and body-resource tactics have adverse cases. Freeze actually works; regrowth, fragmentation and enlargement change costs. His fragment surprises him; final cleanup is reported after Kazuma’s blackout.",
+      "gaps": "Reported years of planning, exact mimicry limits, private knowledge of Wiz’s civilian exception, cognition in enlarged form, ordinary attachments and final battery remain open. Six same-root known-source firsts retain overpolished exception reasoning and physical-availability cueing.",
+      "disposition_status": "COHORT27_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
       "prior_gap_history_working26": "Consolidate exact native voice/actions, attributed admission versus witnessed death and unknown later fate details before mechanism/model size. No generic monster morality or automatic full-tier promotion.",
-      "current_scope_asof_working27": "All17mainexcluded/19supplemental/5mixed declared source gates remain closed. Iris/Yunyun/Vanir scoped cohorts have closed full gates; Vanir source90fb18d5302711cb265687c140ab5d5d151ebe06. Wiz overallcohort04 is semantically received at a provisionalTier3 boundary, exact publication gate pending. Full individual census/joins/incidental dispositions/remaining earned artifacts, expanded specialist/versioned principal-party-transfer revisions, curator enrollment/integration and component/release/final-entry audits remain active. No new source admission or global completion claim."
+      "current_scope_asof_working27": "All17mainexcluded/19supplemental/5mixed declared source gates remain closed. Iris/Yunyun/Vanir scoped cohorts have closed full gates; Vanir source90fb18d5302711cb265687c140ab5d5d151ebe06. Wiz overallcohort04 is semantically received at a provisionalTier3 boundary, exact publication gate pending. Full individual census/joins/incidental dispositions/remaining earned artifacts, expanded specialist/versioned principal-party-transfer revisions, curator enrollment/integration and component/release/final-entry audits remain active. No new source admission or global completion claim.",
+      "prior_cohort27_current_fields": {
+        "identity": "Named Demon King general/poison slime; disguise and consumed-manager account distinguished.",
+        "likely_tier": "1–2 candidate",
+        "evidence_distribution": "Complete MAIN04 derivative report36; existing accepted principal authority retained, no new Hans-native pass claimed. CURRENT WORKING27: Current439actualMAIN04C5BASE-TEXT P suppliesownlong-preparedplanaccount/noninterferencerecollection,confirmedidentity,manager-consumptionadmission,actualpoisoning/freezecounteractions/bodypartuse andgrowth. The manager death isreported/admitted,notdirectlywitnessed; near-instinctstateisKazumahypothesis. Finitepowers/opponentagency differfrom puremonstercategory oromniscientcausalclaims.",
+        "substantive_responsibility": "Own sabotage goal, refusal by Wolbach, tactical contamination, claims about body/poison/manager consumption, reactive strategy and later appetite-driven expanded form. His planning and later changed state differ.",
+        "gaps": "Consolidate exact native voice/actions, attributed admission versus witnessed death and unknown later fate details before mechanism/model size. No generic monster morality or automatic full-tier promotion. Current working27 qualification: Current439actualMAIN04C5BASE-TEXT P suppliesownlong-preparedplanaccount/noninterferencerecollection,confirmedidentity,manager-consumptionadmission,actualpoisoning/freezecounteractions/bodypartuse andgrowth. The manager death isreported/admitted,notdirectlywitnessed; near-instinctstateisKazumahypothesis. Finitepowers/opponentagency differfrom puremonstercategory oromniscientcausalclaims.",
+        "source_access_type": null,
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "source_access_type": "Wolbach declines involvement. Consuming the civilian manager is admitted, not watched. Kazuma’s inference about reduced reasoning and later cleanup report do not become direct internal access. Ozma’s reported lost companion has unprovided identity/exact fate.",
+      "cohort27_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_HANS_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_NATIVE_PROVENANCE.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HANS_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/HANS_EXPANDED_V1_EVIDENCE/HANS_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/HANS_EXPANDED_V1_EVIDENCE/HANS_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/HANS_EXPANDED_V1_EVIDENCE/HANS_FIRST_OUTPUT_ANNOTATIONS_01.json"
+      ],
+      "cohort27_scope_assessment": {
+        "subject": "Hans",
+        "row_index": 134,
+        "proposed_scoped_tier": 3,
+        "proposed_rules": 3,
+        "evidence_ids": [
+          "HA27-01",
+          "HA27-03",
+          "HA27-04",
+          "HA27-05",
+          "HA27-06",
+          "HA27-07",
+          "HA27-11"
+        ],
+        "justification": "Concealment,objective/pursuit choice,fallible social assumptions and body-resource tactics support differentiated falsifiable conditions.",
+        "limits_and_rivals": "Years of work reported; enlarged cognition inferred; final cleanup after blackout; ordinary attachment weak."
+      },
+      "cohort27_rules": [
+        "HA-R01",
+        "HA-R02",
+        "HA-R03"
+      ],
+      "cohort27_semantic_receiving_sha256": "e2d21905aeba4aa64bac9da953ff271ae97c80e6fe31f1f194704d432c3dd283",
+      "cohort27_current_qualifications": "Current evidence index and received artifacts qualify prior shorthand. Historical row fields remain explicit. No new independent observation, final model maturity or global completion is claimed."
     },
     {
       "character": "Pain / ペイン (MAIN17 wraith)",

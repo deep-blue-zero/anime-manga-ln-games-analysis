@@ -1424,3 +1424,10 @@ Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KON
 Kazuma distinguishes some actual acts while conjecturing causes and private resistance: sun exposure explains heating in his account; Eris resisting inside may explain Aigis hesitation. His milk statement is not a watched drinking experiment. His doubt about divine recognition by the girls remains his interpretation. The initial questioner is only tentatively the elder; the younger resemblance remark and later elder gift are more securely attributed. MAIN17 Iris wearing/preparation is Eris report to Kazuma, with no watched battle, motive or victory (AG26-17–21,29,33).
 
 Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Kazuma’s credit claims and retrospective power summaries are not neutral measurements. Beldia’s own P67 appraisal and P70 investigation account are distinguished from Aqua’s concern about nonpurging magic and later Mitsurugi’s report. Hans’s reduced reasoning is Kazuma’s conjecture; manager consumption is admitted, and exhaustive cleanup follows a blackout report. Serena’s diary includes represented fiction rather than performed sexual acts. Rain’s delivery/exit is reported by the officer, while guarantee-backed release is actual. Later at-large Serena confirms freedom but not every guard account. New record count is not a final person denominator (BE27-02, 11, 14; HA27-05–08; SE27-06, 09–13; AO27-03).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.

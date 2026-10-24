@@ -1954,3 +1954,10 @@ Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KON
 The printed armor voice uses inflated introductions, appraisal, complaints, abrupt deference, counterpart-dependent address and 俺/あたい variation. These are pragmatic forms in print, not an acoustic performance or human gender diagnosis. A slang form, katakana item, pronoun shift or magic name does not alone earn L3. The announcer supplies an occupational contrast between fluent spectacle and hesitant honorific interviewing. The sisters supply bounded questions and thanks without an invented whole-person voice generator (AG26-03,06,09,14–16,20,25,28,30,33).
 
 Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia’s knightly challenge, technical questions and dependent politeness are situational rather than a moral certificate. Hans’s administrative denial gives way to familiar-name exposure, appeals and threats. Serena’s public modesty, private roughness, alias admission, puppet explanation and later forced junior deference change with information and power. The two officers have separate names/offices; Lolierina’s apologies and corrections differ from Aloerina’s personal disclosure and patronage response. The commander drops honorific distance while imagining Beldia’s rank. Print supplies pragmatic evidence, not audio; ordinary register, katakana or names are not automatic L3. Eighteen English diagnostics have recurrent audit-language leakage and weakly identified distinctive voice, retained without repairs (BE27; HA27; SE27; AO27; LO27; DU27).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.

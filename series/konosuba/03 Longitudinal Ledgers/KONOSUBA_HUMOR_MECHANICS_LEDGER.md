@@ -1987,3 +1987,10 @@ Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KON
 Interrupted access phrases, exaggerated self-worth, paired spectators, disguise recognition and a game-like efficacy line organize comic scenes. Neither fantasy embodiment nor uncertainty is automatically H3/H4. Real restraint, hot metal, failed cooling, recipient objections and continued harassment remain attributable within the comedy. One harmless punch or invitation to strike does not establish enjoyment of all painful injury. No global humor-code reassignment is made (AG26-08,12–18,22,25,28).
 
 Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Detached-head reversals, an infiltrator trapped by her own obligations, an investigation reversed by explosive mushrooms and an ambitious undead denying desire produce different local comic mechanisms. Actual killing, poisoning, unwanted exposure, physical coercion and the invasion remain consequential. A near-death image, a dream about Serena, a projected past and diary erotic fiction retain their planes; none is a fresh live biography. H3 means local gag contingency, not uncertainty; fantasy embodiment alone is not H4. Useful defense and later revival do not supply consent or erase earlier harm. No global humor-code reassignment is made (BE27-04–07, 13; SE27-06, 13, 16; LO27-01–07; DU27-01–03).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.

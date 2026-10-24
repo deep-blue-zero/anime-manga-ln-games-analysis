@@ -1831,3 +1831,10 @@ Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KON
 Aigis shifts among refusal, alarm, bargaining, escape, absorbed spectatorship, deference, actual protection and renewed provocation. Who can hear it, bodily constraint, expected damage, available spectacle and the believed identity of a counterpart change the local state. Unrecognized Chris and recognized Eris are different information states of one counterpart. The contest host changes from expansive appraisal to hesitant courtesy and unsuccessful crowd control. The sisters share one encounter but retain separate possession and action attributions (AG26-01–35).
 
 Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia shifts from repeated-grievance challenge to town-directed violence, technical reassessment and dependent bargaining; his own investigation explanation is distinct from verified prophecy. Hans moves from cover to direct poisoning, abandons a low-value chase and spends body material under counterattack. Serena changes public/private framing, concentrates finite control, works under costs, misreads faith and bargains under later captivity. Aloerina and Lolierina are distinct officials with different cases; the latter changes judgment after new evidence without resolving indirect causation through a truth device. The DUST07 commander combines revenge with promotion ambition and a temporary rapport before renewed lethal conflict. The three revived men retain distinct reported histories without every anonymous apology being assigned (BE27, HA27, SE27, AO27, LO27, DU27, RM27).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.

@@ -1961,3 +1961,10 @@ Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KON
 Aigis responds to changing leverage yet accepts a contest lure, becomes distracted, misreads identities and admits a false undressing pretext after factual correction. Its initial failure to leave the Eris enclosure scene cannot independently prove loyalty: Kazuma conjectures that Eris resists inside. A declared mission does not automatically outweigh bodily cost or preferred service. Conditional tactics do not imply general planning success, and an imagined first mage synergy fails at actual deployment (AG26-06–18,22–25).
 
 Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia updates martial appraisal but loses disrupted preparations and later head control. Hans misreads an apparent voyeur as inattentive and appeals to a noninterference agreement whose civilian exception defeats his protection; the source does not prove he never knew that exception. His successful fragment also surprises him. Serena mistakes Kazuma’s religious assumptions, overconcentrates resources and fails to elicit a valued debt from Dust. Lolierina asks useful follow-ups and corrects judgments while relying too heavily on suspect reputation, alibi gaps and a limited truth-device result. The commander recognizes unexpected strength but still faces ambition and an unfamiliar partner attack. None of these choices is rewritten as secretly optimal (BE27-01–09; HA27-01, 03–06; SE27-05–07, 15; LO27-03–07; DU27-01–03).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.

@@ -1950,3 +1950,10 @@ Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KON
 AG26-01–35 bind direct actions, self-reports, other-character reports, narrator inferences and unperformed offers to native paragraph locators. Twenty-eight complete delivered windows bind 1,427 known BASE slots across eleven members and three local Japanese EPUBs. MAIN08 C5 and MAIN14 I13 alone are complete BASE member projections here. All 146 literal hits in substantive members are covered; two TOC hits are unreceived. This is not exhaustive alias/anonymous-appearance coverage. Accepted MAIN17 C3 controls the retained private delivery filename mistakenly labeled C4. No new whole-source, ruby, residual, image-set or source-admission credit follows.
 
 Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+BE27, HA27, SE27, AO27, LO27, DU27 and RM27 provide 58 retrieval rows with direct/report/projection/intent/inference/fiction/creator distinctions. 195 complete known-source deliveries bind 9685 unique BASE slots in 68 members across 29 local EPUB objects; all 1,114 routed general-name/title hits and the separate officer/returned-men name hits have received contexts. Twelve complete BASE members include an afterword, without new whole/ruby/residual/image-set/admission credit. These are not independent observations or exhaustive anonymous/alias absence. MAIN16 p010 and MAIN17 part0012 are accepted F/start contracts. Serena/Celesdina alias is admitted; Sena and the two officers remain distinct. The DUST07 Dullahan is a former subordinate, not Beldia returned.
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.

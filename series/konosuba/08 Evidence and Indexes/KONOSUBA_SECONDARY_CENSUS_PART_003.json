@@ -3,8 +3,8 @@
   "canonical_census_manifest": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
   "part_ordinal": 3,
   "first_row_index": 160,
-  "last_row_index": 230,
-  "row_count": 71,
+  "last_row_index": 235,
+  "row_count": 76,
   "rows": [
     {
       "character": "Rod / ロッド (EXP03 spear user)",
@@ -2802,6 +2802,195 @@
         "main_integration_not_certified_by_author_gate": true,
         "no_independent_accuracy_or_confidence_gain": true,
         "separate_housekeeping_run": null
+      }
+    },
+    {
+      "character": "Lolierina / ロリエリーナ, deputy police chief",
+      "identity": "Own YORI01U014P63 name/deputy office; distinct from chief Aloerina and initial male officer.",
+      "likely_tier": "2 scoped; dedicated monograph without model; exact publication pending",
+      "priority": "Cohort 27 semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "YORI01U014 text/part0012.html completeBASEP1–353",
+      "substantive_responsibility": "Own apology,patronage bid,inquiry,ban,crisis concession,defense attendance and evidence-driven correction.",
+      "gaps": "One dense linked case; appearance about20 is narrator estimate; wider anonymous joins and final arrest unproved.",
+      "disposition_status": "COHORT27_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort27_evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md",
+      "cohort27_evidence_ids": [
+        "LO27-02",
+        "LO27-03",
+        "LO27-04",
+        "LO27-05",
+        "LO27-06",
+        "LO27-07"
+      ],
+      "cohort27_monograph": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LOLIERINA_CHARACTER_MONOGRAPH.md",
+      "cohort27_compact_profile": null,
+      "source_identity_or_report_not_population_proof": true,
+      "cohort27_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_NATIVE_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_LOLIERINA_CHARACTER_MONOGRAPH.md"
+      ],
+      "cohort27_semantic_receiving_sha256": "e2d21905aeba4aa64bac9da953ff271ae97c80e6fe31f1f194704d432c3dd283",
+      "cohort27_scope_assessment": {
+        "subject": "Lolierina",
+        "row_index": 231,
+        "proposed_scoped_tier": 2,
+        "proposed_rules": 0,
+        "evidence_ids": [
+          "LO27-02",
+          "LO27-03",
+          "LO27-04",
+          "LO27-05",
+          "LO27-06",
+          "LO27-07"
+        ],
+        "justification": "Complete dense investigation supplies incentives,errors,corrections,crisis participation and indirect-cause reversal.",
+        "limits_and_rivals": "Broader recurrence untested; not Aloerina by name/office similarity."
+      }
+    },
+    {
+      "character": "Unnamed DUST07 Dullahan commander, former Beldia subordinate",
+      "identity": "Distinct speaker invokes former master Beldia and later discloses Dullahan body; proper name unprovided.",
+      "likely_tier": "2 scoped; dedicated monograph without model; exact publication pending",
+      "priority": "Cohort 27 semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "DUST07U012 item/xhtml/p-004.xhtml P703–890",
+      "substantive_responsibility": "Own commands,rank ambition,child-safety request,appraisal,spear trap and feigned-death claim.",
+      "gaps": "One dense battle; precise troop mechanism,new breach command,full past and permanent fate unresolved.",
+      "disposition_status": "COHORT27_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort27_evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md",
+      "cohort27_evidence_ids": [
+        "DU27-01",
+        "DU27-02",
+        "DU27-03"
+      ],
+      "cohort27_monograph": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST07_DULLAHAN_COMMANDER_CHARACTER_MONOGRAPH.md",
+      "cohort27_compact_profile": null,
+      "source_identity_or_report_not_population_proof": true,
+      "cohort27_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_NATIVE_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST07_DULLAHAN_COMMANDER_CHARACTER_MONOGRAPH.md"
+      ],
+      "cohort27_semantic_receiving_sha256": "e2d21905aeba4aa64bac9da953ff271ae97c80e6fe31f1f194704d432c3dd283",
+      "cohort27_scope_assessment": {
+        "subject": "Unnamed DUST07 Dullahan commander",
+        "row_index": 232,
+        "proposed_scoped_tier": 2,
+        "proposed_rules": 0,
+        "evidence_ids": [
+          "DU27-01",
+          "DU27-02",
+          "DU27-03"
+        ],
+        "justification": "Dense encounter reveals ambition,loyalty tension,social stakes,child request and tactical agency.",
+        "limits_and_rivals": "Name,broader life,fate and troop mechanism unresolved; no inherited Beldia generator."
+      }
+    },
+    {
+      "character": "Sedol / セドル (provisional romanization)",
+      "identity": "Japanese name secured by Darkness report; collective observed return,anonymous voice mapping tentative.",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 27 semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "MAIN01C4 item/xhtml/p-007.xhtml P574,P584–592",
+      "substantive_responsibility": "Reported arm-wrestling loss and muscle-rumor response; collective return/apology.",
+      "gaps": "Past report differs from present observation; no stable disposition or automatic apology allocation.",
+      "disposition_status": "COHORT27_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort27_evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md",
+      "cohort27_evidence_ids": [
+        "RM27"
+      ],
+      "cohort27_monograph": null,
+      "cohort27_compact_profile": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort27-three-adventurers-killed-by-beldia-and-revived-by-aqua",
+      "source_identity_or_report_not_population_proof": true,
+      "cohort27_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md"
+      ],
+      "cohort27_semantic_receiving_sha256": "e2d21905aeba4aa64bac9da953ff271ae97c80e6fe31f1f194704d432c3dd283",
+      "cohort27_scope_assessment": {
+        "subject": "Sedol / セドル",
+        "row_index": 233,
+        "proposed_scoped_tier": 1,
+        "proposed_rules": 0,
+        "evidence_ids": [
+          "RM27"
+        ],
+        "justification": "Differentiated reported response plus collective present return supports a compact profile.",
+        "limits_and_rivals": "Anonymous voice allocation tentative; one reported past act is not a generator."
+      }
+    },
+    {
+      "character": "Hains / ヘインズ (provisional romanization)",
+      "identity": "Separate Japanese name in Darkness report; not another alias of the other returned men.",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 27 semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "MAIN01C4 item/xhtml/p-007.xhtml P574,P584–592",
+      "substantive_responsibility": "Reported novelty-weapon request/mockery; collective return/apology supplies contrary context.",
+      "gaps": "Motive,ordinary life,skill and individual present voice unprovided.",
+      "disposition_status": "COHORT27_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort27_evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md",
+      "cohort27_evidence_ids": [
+        "RM27"
+      ],
+      "cohort27_monograph": null,
+      "cohort27_compact_profile": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort27-three-adventurers-killed-by-beldia-and-revived-by-aqua",
+      "source_identity_or_report_not_population_proof": true,
+      "cohort27_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md"
+      ],
+      "cohort27_semantic_receiving_sha256": "e2d21905aeba4aa64bac9da953ff271ae97c80e6fe31f1f194704d432c3dd283",
+      "cohort27_scope_assessment": {
+        "subject": "Hains / ヘインズ",
+        "row_index": 234,
+        "proposed_scoped_tier": 1,
+        "proposed_rules": 0,
+        "evidence_ids": [
+          "RM27"
+        ],
+        "justification": "Distinct reported interaction and collective present return support a bounded profile.",
+        "limits_and_rivals": "Motive,ordinary life,voice and recurrent pattern weak."
+      }
+    },
+    {
+      "character": "Garil / ガリル (provisional romanization)",
+      "identity": "Separate Japanese name in Darkness report; collective return does not map every voice.",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 27 semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "MAIN01C4 item/xhtml/p-007.xhtml P574,P584–592",
+      "substantive_responsibility": "Reported party-participation boundary after Darkness reckless charge; collective return/apology.",
+      "gaps": "No general cowardice/permanent exclusion claim or completed future shared outing.",
+      "disposition_status": "COHORT27_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort27_evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md",
+      "cohort27_evidence_ids": [
+        "RM27"
+      ],
+      "cohort27_monograph": null,
+      "cohort27_compact_profile": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort27-three-adventurers-killed-by-beldia-and-revived-by-aqua",
+      "source_identity_or_report_not_population_proof": true,
+      "cohort27_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md"
+      ],
+      "cohort27_semantic_receiving_sha256": "e2d21905aeba4aa64bac9da953ff271ae97c80e6fe31f1f194704d432c3dd283",
+      "cohort27_scope_assessment": {
+        "subject": "Garil / ガリル",
+        "row_index": 235,
+        "proposed_scoped_tier": 1,
+        "proposed_rules": 0,
+        "evidence_ids": [
+          "RM27"
+        ],
+        "justification": "Reported participation boundary and collective return support a compact own-agency account.",
+        "limits_and_rivals": "No broader risk/loyalty law or complete apology mapping."
       }
     }
   ]

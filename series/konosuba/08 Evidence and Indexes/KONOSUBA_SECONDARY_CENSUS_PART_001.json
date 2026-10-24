@@ -1177,14 +1177,58 @@
     },
     {
       "character": "Beldia",
-      "identity": "ベルディア",
-      "likely_tier": "1–2 unresolved",
-      "priority": "Discovery",
-      "evidence_distribution": "MAIN01 reports; DUST03 magically projected past; MASK reported cure offer.",
-      "substantive_responsibility": "Actual harms coexist with mediated maintenance/housekeeping costs.",
-      "gaps": "Mediated projection and repeated retelling are not fresh direct encounters or independent validations.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
+      "identity": "Beldia / ベルディア, the MAIN01 Dullahan general. Distinct from the unnamed former subordinate in DUST07; later projected or imagined appearances retain their source plane.",
+      "likely_tier": "3 scoped; separate monograph and provisional three-rule reconstruction; exact publication pending",
+      "priority": "Cohort 27 semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "MAIN01 C4 direct decisions and reported return; MASK earlier curse encounter; qualified MAIN02/17 reports and DUST03 projected past. BE27-01–14 distinguish observation, report, projection and imagination.",
+      "substantive_responsibility": "Grievance-linked restraint and aggression, fallible martial appraisal, resource-sensitive bargaining and selective respect have adverse cases. He actually kills three men, later revived; reported peeping complicates chivalric presentation. Water, head control, armor break and purification interact.",
+      "gaps": "Sincerity, no-provocation baseline, exact magic thresholds, unseen ordinary life, wider voice transfer and final nine-category battery remain open. Six source-known same-root firsts are three dependent pairs, with unsupported guard posts and audit-language leakage retained.",
+      "disposition_status": "COHORT27_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_cohort27_current_fields": {
+        "identity": "ベルディア",
+        "likely_tier": "1–2 unresolved",
+        "evidence_distribution": "MAIN01 reports; DUST03 magically projected past; MASK reported cure offer.",
+        "substantive_responsibility": "Actual harms coexist with mediated maintenance/housekeeping costs.",
+        "gaps": "Mediated projection and repeated retelling are not fresh direct encounters or independent validations.",
+        "source_access_type": null,
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "source_access_type": "Own P67 appraisal and P70 investigation account are distinguished from Aqua’s nonpurging-magic concern, later Mitsurugi/Wiz/Demon King reports, projected household conduct and Kazuma’s near-death image.",
+      "cohort27_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_BELDIA_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_NATIVE_PROVENANCE.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_BELDIA_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/BELDIA_EXPANDED_V1_EVIDENCE/BELDIA_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/BELDIA_EXPANDED_V1_EVIDENCE/BELDIA_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/BELDIA_EXPANDED_V1_EVIDENCE/BELDIA_FIRST_OUTPUT_ANNOTATIONS_01.json"
+      ],
+      "cohort27_scope_assessment": {
+        "subject": "Beldia",
+        "row_index": 23,
+        "proposed_scoped_tier": 3,
+        "proposed_rules": 3,
+        "evidence_ids": [
+          "BE27-01",
+          "BE27-02",
+          "BE27-03",
+          "BE27-04",
+          "BE27-06",
+          "BE27-07",
+          "BE27-08"
+        ],
+        "justification": "Grievance/restraint,combat appraisal and selective bargaining have own decisions and adverse cases across direct and mediated contexts.",
+        "limits_and_rivals": "Ordinary life partly projected/reported; sincerity and no-provocation baseline weak; linked scenes not independent."
+      },
+      "cohort27_rules": [
+        "BE-R01",
+        "BE-R02",
+        "BE-R03"
+      ],
+      "cohort27_semantic_receiving_sha256": "e2d21905aeba4aa64bac9da953ff271ae97c80e6fe31f1f194704d432c3dd283",
+      "cohort27_current_qualifications": "Current evidence index and received artifacts qualify prior shorthand. Historical row fields remain explicit. No new independent observation, final model maturity or global completion is claimed."
     },
     {
       "character": "Alderp",
@@ -2515,13 +2559,13 @@
     },
     {
       "character": "Serena",
-      "identity": "セレナ; distinct from investigator セナ",
-      "likely_tier": "2-3 unresolved",
-      "priority": "Discovery; substantial antagonist agency",
-      "evidence_distribution": "Complete accepted Dust05 report210L and actual native U010520-637/U011960-1158/U012314-566,570-650,654-723 within721P union. MAIN15 accepted authority is a further source lead requiring current exact native mechanism join. MAIN14 full Final/Ep base text, IMG023; existing Dust05 episode. CURRENT WORKING22: Current MAIN15C1/C2bounded native recheck, including recruitment offers, injury reflection, WindBreath/Bind, police consequence and puppetry. CURRENT WORKING23: MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. C4 P380–492; IMG024 native join P441–464. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "Own targeted party-entry goal and refusal, actual resource/capability offers, performed effective Turn Undead, outward subsistence claim and reported gratitude/debt exploitation. Distinguish effect, actor motive, narrator initial poor reasons and later learned mechanism. CURRENT WORKING21: Direct name/voice, free support, strange bodies' collapse after spell, mixed town reception and admitted aliasCelesdinaEp83. Distinct from Sena. CURRENT WORKING22: Own information strategy, healing, limited control budget and unwanted dignity costs remain separate from Kazuma's inference about debt/control. Actual recipient protests/resistance matter; altered Kazuma's behavior is not universal unmodified character. Marketing/author heroization cannot erase Yunyun help or police failure. CURRENT WORKING23: Her account of the Demon King's abilities is received as attributed information, not an omniscient capability certificate. Recruitment follows active threat; real continuing Axis instructions and her objections show the unresolved burden. Future punishment statements remain future, and later compliance is not free agreement or retroactive permission. CURRENT WORKING31: MAIN14 service/mask/Seresdina admission; MAIN15 own strategy, reversible gratitude-control/social constraints, adapted coercion plus restored lethal attack; MAIN16 fear, reported intelligence and compelled conversion under real threats form a rich own decision chain. False maiden story is new later admission, not MAIN14 reader knowledge.",
-      "gaps": "Consolidate the earlier and later decision chain without erasing imposed costs. Current source does not narrate a completed sexual assault; keep discussion non-graphic and preserve fear/coercion without embellishment. CURRENT WORKING31 QUALIFICATION: Consolidate own information-sensitive tactics/voice/ordinary smoking/work limits and adverse knowledge failures. Preserve recipient costs and her victimization together. No voluntary-debt taking, general inability to work, completed unshown assault, harmless coercion or hidden perfect master plan. Tier3 may be earned without arbitrary source-volume quota.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Serena / セレナ; her admitted Celesdina / セレスディナ alias is one identity. Distinct from investigator Sena and from police chief Aloerina and deputy Lolierina.",
+      "likely_tier": "3 scoped; separate monograph and provisional four-rule reconstruction; exact publication pending",
+      "priority": "Cohort 27 semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "MAIN14 Ep; MAIN15 C1–C4 and diary; MAIN16 C1 and later road; DUST06/07 and qualified reference contexts. SE27-01–17 retain direct, report, inference, fiction, dream and creator planes.",
+      "substantive_responsibility": "Audience-sensitive cover, benefit-dependent leverage, finite control allocation and bargaining under threat include actual failed choices. Real healing and work coexist with coercion and Kazuma’s lethal Death outcome. Her own objections to unwanted acts remain valid; forced affiliation is not sincere repentance.",
+      "gaps": "Exact capacity, faith/repayment mechanism, unprovided motive weights, durable affiliation and final battery remain open. SE-R02 has no isolated dedicated pair. Six source-known same-root firsts retain invented fatigue and overbroad agency language; no independent accuracy.",
+      "disposition_status": "COHORT27_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working20": "Full MAIN15 own choices, target/reciprocity/curse limits and adverse cases, voice and rival information accounts. No universal automatic conversion, identical Sena persona or retrospectively repaired Dust belief.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
@@ -2531,7 +2575,55 @@
       "current_scope_asof_working23": "MAIN01–15 excluded full gates closed. MAIN16 published 870756ef7cfeb3d14f395deac59be65e909ba9a3; all 9,114 remote paths/35 changed streams verified and exact-index author preflight passed. Source/housekeeping/final audit gate remains pending verification in this version. MAIN17 excluded not admitted. Full individual census, earned artifacts, expanded synthesis/versioned models, curation/integration/release continue.",
       "prior_gap_history_working30": "Consolidate the earlier and later decision chain without erasing imposed costs. Current source does not narrate a completed sexual assault; keep discussion non-graphic and preserve fear/coercion without embellishment.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_cohort27_current_fields": {
+        "identity": "セレナ; distinct from investigator セナ",
+        "likely_tier": "2-3 unresolved",
+        "evidence_distribution": "Complete accepted Dust05 report210L and actual native U010520-637/U011960-1158/U012314-566,570-650,654-723 within721P union. MAIN15 accepted authority is a further source lead requiring current exact native mechanism join. MAIN14 full Final/Ep base text, IMG023; existing Dust05 episode. CURRENT WORKING22: Current MAIN15C1/C2bounded native recheck, including recruitment offers, injury reflection, WindBreath/Bind, police consequence and puppetry. CURRENT WORKING23: MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. C4 P380–492; IMG024 native join P441–464. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
+        "substantive_responsibility": "Own targeted party-entry goal and refusal, actual resource/capability offers, performed effective Turn Undead, outward subsistence claim and reported gratitude/debt exploitation. Distinguish effect, actor motive, narrator initial poor reasons and later learned mechanism. CURRENT WORKING21: Direct name/voice, free support, strange bodies' collapse after spell, mixed town reception and admitted aliasCelesdinaEp83. Distinct from Sena. CURRENT WORKING22: Own information strategy, healing, limited control budget and unwanted dignity costs remain separate from Kazuma's inference about debt/control. Actual recipient protests/resistance matter; altered Kazuma's behavior is not universal unmodified character. Marketing/author heroization cannot erase Yunyun help or police failure. CURRENT WORKING23: Her account of the Demon King's abilities is received as attributed information, not an omniscient capability certificate. Recruitment follows active threat; real continuing Axis instructions and her objections show the unresolved burden. Future punishment statements remain future, and later compliance is not free agreement or retroactive permission. CURRENT WORKING31: MAIN14 service/mask/Seresdina admission; MAIN15 own strategy, reversible gratitude-control/social constraints, adapted coercion plus restored lethal attack; MAIN16 fear, reported intelligence and compelled conversion under real threats form a rich own decision chain. False maiden story is new later admission, not MAIN14 reader knowledge.",
+        "gaps": "Consolidate the earlier and later decision chain without erasing imposed costs. Current source does not narrate a completed sexual assault; keep discussion non-graphic and preserve fear/coercion without embellishment. CURRENT WORKING31 QUALIFICATION: Consolidate own information-sensitive tactics/voice/ordinary smoking/work limits and adverse knowledge failures. Preserve recipient costs and her victimization together. No voluntary-debt taking, general inability to work, completed unshown assault, harmless coercion or hidden perfect master plan. Tier3 may be earned without arbitrary source-volume quota.",
+        "source_access_type": null,
+        "priority": "Discovery; substantial antagonist agency",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "source_access_type": "Later-admitted puppets qualify the corpse display without erasing Aqua’s actual failed TurnUndead. Cash repayment is MAIN15 C2 P607; royal transfer is prospective. Later escape is nested report, while the road scene confirms freedom only. Diary fiction and dream are not actual sexual biography.",
+      "cohort27_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_SERENA_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_NATIVE_PROVENANCE.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_SERENA_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/SERENA_EXPANDED_V1_EVIDENCE/SERENA_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/SERENA_EXPANDED_V1_EVIDENCE/SERENA_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/SERENA_EXPANDED_V1_EVIDENCE/SERENA_FIRST_OUTPUT_ANNOTATIONS_01.json"
+      ],
+      "cohort27_scope_assessment": {
+        "subject": "Serena",
+        "row_index": 73,
+        "proposed_scoped_tier": 3,
+        "proposed_rules": 4,
+        "evidence_ids": [
+          "SE27-01",
+          "SE27-02",
+          "SE27-03",
+          "SE27-04",
+          "SE27-05",
+          "SE27-06",
+          "SE27-07",
+          "SE27-09",
+          "SE27-13",
+          "SE27-15"
+        ],
+        "justification": "Benefit-dependent leverage,audience/identity,finite allocation and constrained bargaining show actual failures and contrary agency.",
+        "limits_and_rivals": "Exact capacity/faith mechanisms and postcoercion sincere affiliation unresolved; MAIN/Dust duplicates not independent."
+      },
+      "cohort27_rules": [
+        "SE-R01",
+        "SE-R02",
+        "SE-R03",
+        "SE-R04"
+      ],
+      "cohort27_semantic_receiving_sha256": "e2d21905aeba4aa64bac9da953ff271ae97c80e6fe31f1f194704d432c3dd283",
+      "cohort27_current_qualifications": "Current evidence index and received artifacts qualify prior shorthand. Historical row fields remain explicit. No new independent observation, final model maturity or global completion is claimed."
     },
     {
       "character": "Perie (Dust06 named antagonist)",
