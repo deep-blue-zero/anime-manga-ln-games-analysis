@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.21"
+version: "0.22"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -714,3 +714,23 @@ Learned after PG-FR-V18; represented time remains the V03 swim meet. The canonic
 | PG-CS-0028@2 | PG-CHAR-0003 / CS-0028@1 | Historical swim meet / V03; retrospective source correction after V18 | FACTUAL_BASIS_QUALIFICATION: instructs sabotage; conditionally threatens to tell the teacher that Kairi treated her violently (乱暴された) and warns he cannot remain at school to suppress disclosure; specific sexual content and wholly fabricated allegation unestablished; explains her separate method; exposed by testimony; abandoned by coalition | PG-EV-V03-0014, -0015, -0024, -0025, -0035, -0036; PG-SA2-F0010 | Still asserts victimhood; prior actual aggression means report truth-content cannot be globally declared false |
 
 Current scoped V03 Sae retrieval uses CS0028@2; CS0036 retains its historical predecessor wording and is read through F0010. Terminal CS0287 remains unchanged. No new source event, clinical/legal classification or forecast result follows.
+
+
+## Second-pass late-volume corrective transaction — 2026-10-24
+
+All rows below are attributable retrospective corrections learned after PG-FR-V18, not new events at the story's ending. Original rows and original temporal frontiers remain preserved. The [canonical second-pass errata](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md) own full finding wording, exact primary-source coordinates, supporting/counterevidence and uncertainty. EV references in each row are qualified by its explicitly named VNN witness, mainline/CUNKNOWN; first-pass wording is retrieved together with this dated successor. Current later states do not erase earlier refusals or acquire future knowledge. No forecast window or original reconstruction result changes.
+
+F0014 uses PG-JP-NE-V17-W01 / i0129–i0133, EV0017 within the retained broader CS0258 context. F0015/F0016/F0018 use PG-JP-NE-V18-W01: i0139–i0141/EV0015, i0075–i0078/EV0008, i0151–i0158/EV0018 respectively. HIGH support applies to visible/expressed actions and channel/speaker distinctions; the particular phone-tableau romantic conclusion remains UNRESOLVED. The two-person collective corrects an old aggregation error without inventing shared individuality.
+
+| Identity clarification / historical prior | Bounded current identity | Limits |
+| --- | --- | --- |
+| PG-CHAR-0035 / historical singular aggregation qualified | Two distinct unnamed accompanying women in V18i0154,i0156–i0158, recorded collectively for this bounded role | Old singular admission preserved; no shared individual identity, personality, invented names or global registry entry |
+
+| State/version / subject / prior | Corrected action or state at represented scene | Evidence / support / correction |
+| --- | --- | --- |
+| PG-CS-0258@2 / CHAR0021 / CS0258@1 | CHOICE/REPORT: returns99/hiring disclosure to S120/holds her/retaliation context; answers Sae phone129–130/hangs up131; separate Ryo phone receives Kairi133 | V17 EV0013/0016–0017/0027; F0014; visual identity bounded V10; abdomen report versus visible back impact; no Momo receipt of caller name/hiring role |
+| PG-CS-0273@2 / CHAR0001 / CS0273@1 | CHOICE/PARTIAL_VIEW: late out of service71/arrival-reaction76–77 during K-S phone contest75/accepts T care81/boards84; guilt K93/tells T104 | V18 EV0008/0011; F0016; exact romantic conclusion SOURCE_UNRESOLVED, not confirmed K-S romance; CL0020@14 |
+| PG-CS-0277@2 / CHAR0001 / CS0277@1 | AFFECT/BOUNDARY: WAIT114/heeded115/loves T but cannot117; no secure trauma diagnosis118; believes threat120/seeks leave122. At140 Sae originates body-honest counsel, then Momo privately agrees with counsel | V18 EV0012–0013/0015; F0015, IP0262@2; accurate earlier stop/love/fear state preserved; no original-Momo lexical attribution or universal bodily consent theory |
+| PG-CS-0283@2 / CHAR0035 collective two women / CS0283@1 | ACTUAL: specific long-haired patterned-clothing companion pities154; both separately object156/urge return157/depart158 | V18 EV0018; F0018; objections do not prevent assault/case throw; public-visibility concern one expressed reason, not full motives/shared mind |
+
+Current historical-context retrieval uses these successors with their represented scenes, not as a replacement for terminal Momo choice CS0284/0287 or later Morika facts. CHAR0035 is a bounded two-person role aggregation. Other terminal states and readiness decisions remain unchanged; mature review is still pending.

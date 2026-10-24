@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.19"
+version: "0.20"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -870,3 +870,20 @@ These retrospective rows are learned after PG-FR-V18; represented story time rem
 | PG-RL-0074@2 / corrects RL0074@1 | Misao → Momo/Tōji/Kairi, bounded V06 night/morning caregiving directions; learned after PG-FR-V18 in second-pass2026-10-24. Adult access, intervention, attention to wishes, context and responsibility remain. Earlier parental-contact assertion is unverified; replace categorical expedient-lie wording with a plausible tactical-embellishment interpretation. | PG-EV-V06-0014/0022, i0037/i0062; PG-SA2-F0005, CS0052@2/TX0059@2. Later overnight notice does not prove no earlier call. No romantic attachment, full scheme knowledge or general honesty inferred. |
 
 Current retrieval uses RL0074@2 for this historical care context; later directional relationships and refusals remain unchanged.
+
+
+## Second-pass late-volume corrective transaction — 2026-10-24
+
+All rows below are attributable retrospective corrections learned after PG-FR-V18, not new events at the story's ending. Original rows and original temporal frontiers remain preserved. The [canonical second-pass errata](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md) own full finding wording, exact primary-source coordinates, supporting/counterevidence and uncertainty. EV references in each row are qualified by its explicitly named VNN witness, mainline/CUNKNOWN; first-pass wording is retrieved together with this dated successor. Current later states do not erase earlier refusals or acquire future knowledge. No forecast window or original reconstruction result changes.
+
+F0012 uses PG-JP-NE-V15-W01 / i0071–i0073 / EV0012; F0016 PG-JP-NE-V18-W01 / i0075–i0078 / EV0008. No new commitment or romantic agreement is inferred.
+
+| Commitment / prior | Corrected terms and actual receipt | Evidence / limit |
+| --- | --- | --- |
+| PG-CM-0138@2 / CM0138@1 implicit | K urgent delay/will call71–72; M spoken それって… fragment71, full cannot-it-wait question72 private; later-contact words received, reasons omitted | V15 EV0012; F0012; SPOKEN_FRAGMENT_PRIVATE_FULL_QUESTION_NO_UNLIMITED_EXTENSION. K receipt of the full challenge unestablished; CM0152's later self-blame remains accurate and retrieves this qualified predecessor |
+
+| Direction/version / same-direction context | Corrected scene and participant understanding | Evidence / uncertainty |
+| --- | --- | --- |
+| PG-RL-0301@2 / Momo → Kairi / RL0301@1 | Receives S journey/Mis first-choice61–63; arrives/reacts during phone contest75–77; guilt93 | V18 EV0005–0008; F0016; intimacy/jealousy reading plausible but not established M conclusion; effort not obligation; CL0020@14 |
+
+Current retrieval of the V15 call uses CM0138@2, not a full heard question; retrieval of the V18 rendezvous reaction uses RL0301@2. RL0308/0309/CM0191 remain the actual final reciprocal choice. No earlier boundary or ending state is rescored.

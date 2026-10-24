@@ -5,7 +5,7 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.20"
+version: "0.21"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -1370,3 +1370,29 @@ The canonical F0008 corrects an item within a reported retrospective account. Th
 | PG-TX-0103@2 / expands and qualifies TX0103 implicit@1 | Kairi → Momo, V09 i0024–i0029: reports heart-stop/no-memory, asks her about CPR which she denies; i0025 says first hearing Momo's name during the early-school promiscuity rumor made him tentatively recall the rescuing girl's name. Later death-intent statement followed by joke retraction remains an inconsistent attributed report. | Learned after PG-FR-V18, second-pass2026-10-24. PG-EV-V09-0007 / PG-SA2-F0008; name recognition is his retrospective tentative account, not a lewd nickname substituted for her name or independently restaged original rescue. Original drowning intent and CPR recipient/history remain unresolved; no backdating to original prospective cutoff. |
 
 Current scoped V09 reported drowning/recognition content uses TX0103@2. IP0086, KN0098 and CL0007 retain their existing uncertainty and boundaries. Earlier TX0103 remains preserved; no backdating into original prospective knowledge. F0009 craft-shop setting and F0011 unspecified private recipient require no new information event because the existing domain records do not repeat those errors.
+
+
+## Second-pass late-volume corrective transaction — 2026-10-24
+
+All rows below are attributable retrospective corrections learned after PG-FR-V18, not new events at the story's ending. Original rows and original temporal frontiers remain preserved. The [canonical second-pass errata](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md) own full finding wording, exact primary-source coordinates, supporting/counterevidence and uncertainty. EV references in each row are qualified by its explicitly named VNN witness, mainline/CUNKNOWN; first-pass wording is retrieved together with this dated successor. Current later states do not erase earlier refusals or acquire future knowledge. No forecast window or original reconstruction result changes.
+
+F0014 uses PG-JP-NE-V17-W01 / i0129–i0133 / EV0017. F0015 and F0016 use PG-JP-NE-V18-W01 / i0139–i0141 / EV0015 and i0075–i0078 / EV0008. All original rows remain; unversioned predecessors below denote their original implicit @1.
+
+| Proposition/version / prior | Corrected proposition and status | Evidence / limit |
+| --- | --- | --- |
+| PG-IP-0262@2 / IP0262@1 | Sae phone 身体は正直ってこと140; M private さえの言うとおりだ / ESTABLISHED_AT_BOUNDARY speaker distinction and agreement with counsel | V18 EV0015; F0015; not Momo original wording or universal love/consent theory; Sae hotel-detail knowledge unshown |
+| PG-IP-0255@2 / IP0255@1 | K/S phone contest75/arrival-reactions76–77 established; specific Momo romantic conclusion UNRESOLVED | V18 EV0008; F0016; plausible focal inference, no actual romance or uniquely established misreading; CL0020@14 |
+
+| Knowledge/version / subject / prior | Corrected represented access | Evidence / uncertainty |
+| --- | --- | --- |
+| PG-KN-0254@2 / Momo / KN0254@1 implicit | Arrives/reacts76–77 amid K/S phone contest; searches T rendezvous spot | V18 EV0008; F0016; precise attention/romantic conclusion unknown; not proof of no feeling. KN0257's later message/choice facts remain, with this qualified predecessor |
+
+| Transfer/version / channel / prior | Actual received content | Evidence / limits |
+| --- | --- | --- |
+| PG-TX-0287@2 / Morika → Momo by Sae phone / TX0287@1 implicit | Ambulance/shielding/abdomen report130/hangup131/no caller identity; separate Kairi→Ryo call133 | V17 EV0017; F0014; visible back impact versus reported abdomen preserved; Momo receives neither caller name nor hiring role |
+
+| Reputation/version / prior | Corrected audience/appearance scope | Evidence / limit |
+| --- | --- | --- |
+| PG-RP-0074@2 / RP0074@1 implicit | K/S phone contest75 and reactions76–77 permit apparent-intimacy reading, with no explicit M conclusion or public rumor | V18 EV0008; F0016; uncertain focal interpretation, no actual new couple; CL0020@14 |
+
+Current retrieval uses these scoped successors. IP0262 distinguishes original utterance from Momo's agreement; IP0255/KN0254/RP0074 preserve a real visual counterreading without a certified belief. Generic accurate advice, report and later-choice records stay in force. No character acquires the auditor's later interpretation or unknown hiring facts.

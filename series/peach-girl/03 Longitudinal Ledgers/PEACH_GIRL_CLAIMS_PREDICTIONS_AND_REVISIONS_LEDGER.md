@@ -5,7 +5,7 @@ artifact_type: claims_predictions_revisions_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.20"
+version: "0.21"
 status: active_provisional
 scope: "Claims, Predictions and Revisions; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -155,7 +155,7 @@ The governing method0.3 retrospective amendment permits exact source references 
 | PG-CL-0017 | @15 / V18 | PG-RV-0152 | V18 boundaries distinguish forcedtaxi, firststop115, blockedexit/pin125, renewedintimacywithoutnewassent130, secondstop133 and finalfreeleaving144 |
 | PG-CL-0018 | @4 / V13 | PG-RV-0091 | Jigoro apologizes and reports no sexual act; delayed participant account narrows old uncertainty without erasing coercion |
 | PG-CL-0019 | @3 / V08 | PG-RV-0051 | Broken/kept bottle carries remembered love despite steered selection history |
-| PG-CL-0020 | @13 / V18 | PG-RV-0153 | S and Mis transmit different missing causes47–63; M misreadsphonecontest76; mailauthoropen120 thenS176; metaphoricaldeath95 distinctactualretrievalaccident163 |
+| PG-CL-0020 | @14 / V18 + second-pass2026-10-24 | PG-RV-0158 | Distinct received causes, ambiguous phone-tableau conclusion, disclosed mail authorship and metaphorical/actual danger; F0016 qualifiers apply |
 | PG-CL-0021 | @2 / V07 | PG-RV-0043 | Momo revises revenge and rescues; actual Sae reform contradicted |
 | PG-CL-0022 | @1 / V07 | — | Aid and disengagement coexist without forgiveness/innocence retroactively |
 | PG-CL-0023 | @3 / V14 | PG-RV-0106 | New genuine-negative/bluff admission and Momo exact threat receipt |
@@ -838,3 +838,18 @@ These retrospective rows are learned after PG-FR-V18; represented story time rem
 ## Second-pass V03 historical factual-basis qualification — 2026-10-24
 
 PG-SA2-F0010 qualifies the historical factual basis of PG-CL-0003@3 and PG-RV-0007. V03 EV0024 establishes a conditional report threat using 乱暴された plus school-exclusion warning; specifically sexual content and a wholly fabricated allegation are unestablished. The separate direct method statement EV0025, sabotage instruction, testimony and subsequent behavior continue to support deliberate/methodical deception. This does not withdraw that broad claim, revise CL0003@16 or its V18 terminal formulation, allocate a new RV, rescore any forecast, or backdate analyst/character knowledge. Historical character retrieval uses CS0028@2, while all original formulations remain preserved.
+
+
+## Second-pass current CL0020 narrowing — 2026-10-24
+
+F0016 corrects a consequential present formulation, so this is a genuine claim revision rather than an invisible support caveat. Source boundary remains the admitted V18 ending; the new analytical disclosure boundary is the second-pass audit after PG-FR-V18. No future source or new forecast is admitted. The source is PG-JP-NE-V18-W01 / mainline / CUNKNOWN / i0075–i0078 / EV0008, with the unchanged broader V18 evidence below. Historical CL0020@13 and RV0153 remain intact.
+
+| Claim/version | Scoped formulation / class / support | Counterevidence, uncertainty and discrimination | Revision / dependencies |
+| --- | --- | --- | --- |
+| PG-CL-0020@14 | S and Mis transmit different missing causes47–63; phone contest75–77 supplies a bounded ambiguous view, not certified Momo romantic misreading; mail author open120 then S176; metaphorical death95 distinct actual retrieval accident163 / STRONGLY_SUPPORTED_INTERPRETATION / V18 EV0005–0010/0013/0018–0022/0025/0028–0029 | HIGH supported channels/whole-window facts; SOURCE_UNRESOLVED specific75–77 romantic conclusion. Bodily closeness/reaction permits jealousy as a plausible counterreading, while winded arrival and empty T spot leave precise attention undetermined. Explicit Momo articulation or uniquely discriminating focal evidence would settle it; none found in the full sequence. No omniscience; M never receives police cause by END; PR0022 still fails BOTH condition | PG-RV-0158; F0016; CS0273@2/RL0301@2/IP0255@2/KN0254@2/RP0074@2; Momo/Sae/directional/information/integrated/dossier propagation required before semantic closure; historical PG-FR-V18 preserved |
+
+| Revision / prior | Version transition | Reason and consequence |
+| --- | --- | --- |
+| PG-RV-0158 / RV0153 | CL0020@13 → @14 / REVISE | Remove categorical Momo phone-intimacy conclusion; retain actual channels, strongest plausible visual counterreading, source uncertainty and every failed forecast. Learned second-pass2026-10-24; exact scoped dependencies above |
+
+Current CL0020 is @14, with the same 28 claim identities. F0012/F0014/F0015/F0018 are local event/recipient/speaker/role corrections and do not require new broad claims. F0013's mature timing clause and F0017's ambiguous formal compression require correction in their responsible mature homes before semantic closure. Forecasts, including PR0019/0020/0022, retain all original windows and failed outcomes. Next unused revision is RV0159.
