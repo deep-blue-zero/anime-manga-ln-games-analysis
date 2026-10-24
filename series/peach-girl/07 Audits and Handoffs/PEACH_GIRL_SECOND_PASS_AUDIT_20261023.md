@@ -5,7 +5,7 @@ artifact_type: source_audit
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.1"
+version: "0.2"
 status: active_provisional
 scope: "Independent retrospective source reinspection, reconciliation and analytical depth assessment; in progress"
 source_boundary: "Already-admitted original Japanese 新装版 V01–V18; no new narrative admission"
@@ -33,15 +33,15 @@ Frozen sequential readings, prospective freezes, original rules, test cases, res
 
 ## Auditor, capabilities and independence
 
-The lead is a separate Codex execution operated through the desktop product with owner-workstation Windows/PowerShell tools and original-image viewing. OpenAI is the provider; the context identifies the GPT-6 family, while the exact deployed model label and reasoning control are not exposed. A local tool runtime does not imply local model inference. Structural verification and procedural reconciliation use bounded delegated agents; their work does not count as source reading.
+The lead is a separate Codex execution operated through the desktop product with owner-workstation Windows/PowerShell tools and original-image viewing. OpenAI is the provider; the context identifies the GPT-6 family, while the exact deployed model label and reasoning control are not exposed. A local tool runtime does not imply local model inference. Four attributed source readers performed direct visual inspection: `/root` V01-V05 (905 originals), `/root/source_integrity` V06-V10 (889), `/root/pr_recon` V11-V14 (698), and `/root/method_amendment` V15-V18 (706). Each finalized source-first notes in source order within the assigned block. The lead did not personally view all 3198 images; downstream reconciliation uses the attributed team evidence and targeted source rechecks. Separate procedural hashing and aggregate validation are not additional visual reading.
 
 The audit uses `PREMIUM_QUALITY_FIRST` for propagation-sensitive adjudication and convergence, `DEEP_SYNTHESIS` for architecture and mature arguments, and bounded deterministic tools for source identities and hashes. Additional work is justified by preserving knowledge, recipient, agency and developmental distinctions across the corpus, not by a length target.
 
-This is **not a blind comparison**. The owner's brief states an inherited thesis and examples of earlier corrections and failed probes. Mandatory acquisition of the full current-state entrypoint and source map exposed V01–V18 exit summaries, relationships and later corrections. The method and architecture contain dated gate summaries. No inherited volume reading, monograph, mature synthesis or interpretive claim history has been intentionally opened for narrative answers. General training exposure cannot be measured or excluded. These limitations accompany the finalized Pass A receipts; they do not authorize using inherited answers during independent inspection.
+This is **not a blind comparison**. The owner's brief states an inherited thesis and examples of earlier corrections and failed probes. Mandatory acquisition of the full current-state entrypoint and source map exposed V01–V18 exit summaries, relationships and later corrections. The method and architecture contain dated gate summaries. Before the all 18 Pass A aggregate was frozen, no inherited volume reading, monograph, mature synthesis or interpretive claim history was intentionally opened for narrative answers. Ordered corpus comparison is permitted after that freeze. General training exposure cannot be measured or excluded. These limitations accompany the finalized Pass A receipts; they do not authorize using inherited answers during independent inspection.
 
-Original-image display and Japanese narrative reading have been verified on V01 i0001–i0046 at original1042×1600 resolution. Four consecutive original images per batch support actual dialogue/panel inspection, with no OCR. A narrow spoken/interior attribution question at i0033 is explicitly unresolved after a second source-only visual probe; uncertain nonessential small lettering is not quoted as established. Every inspected occurrence is logged separately from extraction. Future hard lettering and attribution ambiguities require reinspection or an explicit unresolved question.
+Original-image display and Japanese narrative reading were demonstrated at original 1042x1600 resolution and continued through every assigned original. Batches supported actual dialogue/panel inspection, not OCR substitution. Consequential attribution uncertainties were rechecked against original images or retained as unresolved interpretation. All 3198 originals were actually visually inspected by the attributed readers; 2921 include narrative, mixed content, reprises or prologue, and 277 are other inspected matter. A classification difference is not an unread gap. Fine component ranges remain in frozen notes; the sanitized public receipt records per-volume totals.
 
-Private source-first notes, original images, complete locator maps, task authorization and recoverable checkpoints remain outside analytical Git. Per-volume finalized notes will be bound by SHA-256 and UTC finalization time. A private draft or its changing hash is not a finalized receipt. Notes finalized before Pass B will remain preserved; later adjudication will be separate.
+Private source-first notes, original images, complete locator maps, task authorization and recoverable checkpoints remain outside analytical Git. Per-volume finalized notes are bound by SHA-256 and UTC finalization time. A private draft or its changing hash is not a finalized receipt. Notes finalized before Pass B will remain preserved; later adjudication will be separate.
 
 ## Repository baseline
 
@@ -68,32 +68,38 @@ All 18 original sequential-reading hashes match the existing verification invent
 
 Counts include every OPF spine occurrence; narrative and nonmainline classification is established by actual viewing. All narrative pages require legible visual inspection. No occurrence is excluded merely because an inherited receipt classified it as paratext.
 
-| Volume | Verified spine images | Actually viewed this audit | Current state | Final notes receipt |
+| Volume | Verified / actually read | Narrative-inclusive / other | Source reader | Final note SHA-256 |
 | --- | ---: | ---: | --- | --- |
-| V01 | 187 | 46, i0001–i0046 | PARTIAL; direct narrative reading underway | Not finalized |
-| V02 | 175 | 0 | PENDING | Not finalized |
-| V03 | 183 | 0 | PENDING | Not finalized |
-| V04 | 179 | 0 | PENDING | Not finalized |
-| V05 | 181 | 0 | PENDING | Not finalized |
-| V06 | 175 | 0 | PENDING | Not finalized |
-| V07 | 183 | 0 | PENDING | Not finalized |
-| V08 | 177 | 0 | PENDING | Not finalized |
-| V09 | 175 | 0 | PENDING | Not finalized |
-| V10 | 179 | 0 | PENDING | Not finalized |
-| V11 | 175 | 0 | PENDING | Not finalized |
-| V12 | 177 | 0 | PENDING | Not finalized |
-| V13 | 171 | 0 | PENDING | Not finalized |
-| V14 | 175 | 0 | PENDING | Not finalized |
-| V15 | 175 | 0 | PENDING | Not finalized |
-| V16 | 171 | 0 | PENDING | Not finalized |
-| V17 | 173 | 0 | PENDING | Not finalized |
-| V18 | 187 | 0 | PENDING | Not finalized |
+| V01 | 187 / 187 | 170 / 17 | `/root` | `3d97f7091b2a1c4f1f99f337763da88d4302e328384ae5eb00a3fc21f05eefe5` |
+| V02 | 175 / 175 | 161 / 14 | `/root` | `e19a10becd15a882bf6db0ce3734ae218f0ee43acfd00e279e1906f750b02e8c` |
+| V03 | 183 / 183 | 168 / 15 | `/root` | `0265c2f9b92535f5cab3c83572e4ad0ddafd047cf2530a875ffa655d89fc8982` |
+| V04 | 179 / 179 | 162 / 17 | `/root` | `0352fc712431e2532e0332ff1cf5f7e51d7b6eb0f3ea157f99383620c8fce195` |
+| V05 | 181 / 181 | 165 / 16 | `/root` | `cccab9e61c03b484f7bf1423d8ae1b4a70f26515d54147c00c8919333fff5532` |
+| V06 | 175 / 175 | 160 / 15 | `/root/source_integrity` | `24b7311533b3649fc86e5c6d6c7f5d1d259e824714a1caa28e48c8f62821f689` |
+| V07 | 183 / 183 | 167 / 16 | `/root/source_integrity` | `1bafeba6ae88d632caefdbe3d41fb0f98c34cc8fb3d412481dff5e4cc0faffb0` |
+| V08 | 177 / 177 | 160 / 17 | `/root/source_integrity` | `ee46e9ba7082665bb468a761354d6133f7ded4096634a88ce91d98717038bc78` |
+| V09 | 175 / 175 | 160 / 15 | `/root/source_integrity` | `87879485fb5cb029ed05dbf9433c334d8d327de2209d003dfff4c3d532183477` |
+| V10 | 179 / 179 | 163 / 16 | `/root/source_integrity` | `7dd04f09348db5b92cc141f80956f8dce14ac239b32c330b988303132e000524` |
+| V11 | 175 / 175 | 159 / 16 | `/root/pr_recon` | `d4802f5e5e733f811544e821edfae467ddfcf436bd75f737b2635d2e9b917251` |
+| V12 | 177 / 177 | 162 / 15 | `/root/pr_recon` | `0a9e67628da5dd7349b0f6db5f7ac0df7dd7e20d2e812d7d529922f48472ee5e` |
+| V13 | 171 / 171 | 157 / 14 | `/root/pr_recon` | `77fc77a8a9a00fac8cbe4d34f228c52ad3d58aa9254e8051dbedc4039f91ecf3` |
+| V14 | 175 / 175 | 159 / 16 | `/root/pr_recon` | `bbac0850d0cd87f3f2a9e543089847a3b969d382e268f7efa0f78260113d2e44` |
+| V15 | 175 / 175 | 161 / 14 | `/root/method_amendment` | `31a0f38de242ebb51135222ca209b783492b00140a3af81210dfe0f0348baf38` |
+| V16 | 171 / 171 | 157 / 14 | `/root/method_amendment` | `9fa0f03d12292a1f0152594684f1b73c06148ed088ceccde2ee693a49b581eef` |
+| V17 | 173 / 173 | 158 / 15 | `/root/method_amendment` | `30c35c3efa82e1d6c9c02e1f56a75efe707d9e660d734d1b2e64540e18cdfb9c` |
+| V18 | 187 / 187 | 172 / 15 | `/root/method_amendment` | `9bf88e323dcf97213c7b181ac36d6b5c6a7938a3be0eeb5ccedae3f4920f0e59` |
 
-**Pass B is locked until every Pass A volume has a complete, finalized receipt.** No claim agreement, factual correction, omitted observation, compression judgment, ledger revision, character revision or new full-series conclusion has yet been established by this audit. The historical audit's 177-image sample is not reused as second-pass coverage.
+**Pass A COMPLETE: 18/18 volumes, 3198/3198 originals, 0 mandatory unread/access gaps.** The [sanitized all-volume source receipt](PEACH_GIRL_SECOND_PASS_SOURCE_RECEIPTS_20261023.json) binds exact witness metadata, reader attribution, finalized note/receipt hashes and UTC timestamps. Its independently verified private aggregate was frozen at 2026-10-24T03:39:24Z, SHA-256 `bba07c7e03dce17a92330d7466e4ac59fd9e40eeca167679eca3ab7058e0254f`, before Pass B. The verifier checked current hashes, source/archive/local-image bindings and coverage declarations; it performed no additional visual reread.
+
+**Pass B OPEN, pending ordered V01-V18 comparison.** Complete source coverage does not establish analytical adequacy or any comparative finding. No second-pass ledger revision, mature analytical endorsement or semantic closure has yet occurred. The historical 177-image sample contributes zero second-pass coverage.
+
+Preservation correction: a procedural check found 18 missing Windows ReadOnly flags on the finalized V06-V10 and V15-V18 notes/receipts. All contents already matched their recorded digests. The flags were set at 2026-10-24T03:29:58Z, with before/after matching hashes and root-attested unchanged mtimes. All 36 final note/receipt files are now ReadOnly. This does not imply the flags existed at original finalization. The public receipt binds the retained remediation record.
+
+Own source-note correction before comparison: a preliminary V04 attribution mistook reported authorship of a sentence for the physical rescuer in V01. A separate source-only recheck of V01i0079-i0088 and V04i0025-i0028 establishes Kairi as the physical rescuer; the repeated sentence was borrowed from Tōji. Root directly rechecked V01i0083-i0085/V04i0026-i0027 and preserved an addendum without editing the frozen V04 notes. V01 notes already named Kairi correctly. This is an auditor correction, not a finding against inherited analysis.
 
 ## Reconciliation and downstream ownership
 
-When Pass B opens, this audit will record material findings in volume order with witness/locator, prior passage/record, observation, old and new interpretation, counterevidence, uncertainty, disposition and dependent artifacts. Existing observation IDs will be reused when adequate. Genuinely missing material observations will receive stable `PG-SA2-VNN-####` references in this audit home, after comparison, with complete source coordinates and an explicit link to the preserved historical reading. Private notes remain provenance, not an alternate public analytical authority.
+With Pass B open, this audit will record material findings in volume order with witness/locator, prior passage/record, observation, old and new interpretation, counterevidence, uncertainty, disposition and dependent artifacts. Existing observation IDs will be reused when adequate. Genuinely missing material observations will receive stable `PG-SA2-VNN-####` references in this audit home, after comparison, with complete source coordinates and an explicit link to the preserved historical reading. Private notes remain provenance, not an alternate public analytical authority.
 
 Current claims and states will be reconciled through the four established ledgers and their history rules. Character and relationship depth will be tested against consequential development, conflicting motives, ordinary and crisis behavior, communication, boundary/repair distinctions and counterexamples. Supporting subjects will receive separate homes only when a distinct explanatory responsibility warrants them. A document's existence or word count cannot close its responsibility.
 
@@ -105,8 +111,8 @@ Specialist changes and the integrated argument must follow source-to-synthesis c
 
 | Responsibility | Second-pass disposition |
 | --- | --- |
-| Complete independent source reinspection | IN_PROGRESS; 0/18 complete |
-| Longitudinal/claim reconciliation | PENDING; Pass B locked |
+| Complete independent source reinspection | COMPLETE; 18/18 volumes, 3198/3198 originals; frozen source-first receipts verified |
+| Longitudinal/claim reconciliation | PENDING; Pass B open for ordered V01-V18 comparison |
 | G3 responsibility/depth reassessment | PENDING |
 | G4 reconstruction reassessment | PENDING; existing operational blocker retained |
 | G5 convergence/role-gap reassessment | PENDING |
@@ -114,7 +120,7 @@ Specialist changes and the integrated argument must follow source-to-synthesis c
 | Original run G1–G6 records | Preserved as historical decisions; no second-pass endorsement inferred |
 | Ready for ordinary integration review | NO; mandatory source and semantic work remains |
 
-Required remaining work is the complete source-first pass, finalized receipts, complete inherited-corpus reconciliation, justified downstream revisions, fresh G3/G5 assessment, scoped G4 results, all local checks and the final remote exact-head audit. Optional enrichment cannot substitute for these obligations. No source-access blocker is established; current incompleteness is work remaining, not a claim of unavailable capability.
+Required remaining work is complete inherited-corpus reconciliation, justified downstream revisions, fresh G3/G5 assessment, scoped G4 results, all local checks and the final remote exact-head audit. Optional enrichment cannot substitute for these obligations. No source-access blocker is established; current incompleteness is work remaining, not a claim of unavailable capability.
 
 Revision 0.1 — 2026-10-23: audit initialized; source/retention baseline independently verified; 46 V01 occurrences directly viewed; private preliminary observations retained; no comparative analytical finding or release claim.
 ## Historical completion-proof preservation extension
@@ -124,3 +130,5 @@ The first staged author preflight failed because the completed-run proof previou
 The ordinary exporter was checked against the exact candidate. A narrow insertion into the [project-local publication proof](../.repository/completed-run-publication.json) adds only the original15554-byte method0.2 Git blob `ee468d79b73133151a08e1c199b32d83fab682ae`. All existing proof bytes, schema/route, two commits, trees and eight earlier blob values survive unchanged. Old proof SHA-256: `a221c51adfbc9846e842a4672215b71148ce1bb2d135a7a3eae0d5ebdd2272fd`; expanded proof SHA-256: `07f6a3a1a210d2a6d64c55d45a7e92cf71f2c864d5296c10a521678cfacc8fe2`. The original proof wrapper is not byte-sealed. This preservation extension supplies the existing strict proof with its missing historical input; it does not change controls, admission boundaries or source readings. Full staged author validation remains required.
 
 Procedural exposure disclosure: an attempted raw proof inspection returned truncated embedded historical text, including entrypoint stage summaries already exposed. The audit did not systematically consult inherited readings for narrative answers. Subsequent proof diagnosis used structural keys/hashes and validator behavior without printing blob prose. The Pass A limitations above therefore include this incidental procedural exposure.
+
+Revision 0.2 — 2026-10-23 owner date / 2026-10-24 UTC: all 18 source-first note receipts and independent aggregate finalized; 3198 originals attributed to four direct readers; ReadOnly remediation and own source-attribution correction disclosed; Pass B opened. No semantic gate, remote publication or Ready transition certified.

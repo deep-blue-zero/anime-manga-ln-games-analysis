@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.28"
+version: "0.29"
 status: active_provisional
 scope: "Single current entrypoint, source/readiness boundaries and next permitted operation"
 source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized V01–V18 narrative run completed;Localoriginal-mangaliteraryscopecomplete;G4operationalblocked;G6externalreleaseunperformed"
@@ -73,7 +73,7 @@ This is the single current first-read surface for Miwa Ueda's ピーチガール
 
 The owner has authorized a complete independent source audit and analytical deepening of the already-admitted Japanese V01–V18, with conditional publication and Draft-to-Ready review submission. [Second-pass audit and receipt register](07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_AUDIT_20261023.md) is the current route for its scope, capabilities, exposure limitations, progress, findings and dependencies. [Method0.3](00%20Frameworks%20and%20Methods/PEACH_GIRL_ANALYTICAL_METHOD.md) and [architecture0.5](00%20Frameworks%20and%20Methods/PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md) govern this prospective audit; lifecycle EVOLVING applies to the explicit reassessment. The original run remains completed/V18/NONE; its historical readings, freezes, claims and failed reconstruction probes remain preserved.
 
-**Pass A is IN_PROGRESS; 0/18 independently reinspected volumes are complete. Pass B is locked until all18 finalized private source-first note receipts exist.** Exact witness/package checks pass for all18; processing does not establish reading coverage. No second-pass factual correction, ledger revision, mature analytical endorsement or G3/G5 semantic closure has yet been established. Prior source-map/entrypoint narrative exposure is disclosed, so this is not a blind comparison. Earlier dated completion and local-only/publication records below remain historical stages.
+**Pass A is COMPLETE: 18/18 volumes, 3198/3198 original images actually visually inspected by four attributed readers, 0 mandatory unread/access gaps. Pass B is OPEN for ordered V01-V18 corpus reconciliation.** The [source-first completion receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_SOURCE_RECEIPTS_20261023.json) binds all 18 exact witnesses, reader identities, final note/receipt hashes and timestamps to the independent aggregate frozen 2026-10-24T03:39:24Z. ReadOnly remediation and a separate correction to the auditor's own preliminary attribution are disclosed in the audit; frozen note bytes remain unchanged. No second-pass factual correction, ledger revision, mature analytical endorsement or G3/G5 semantic closure has yet been established. Prior source-map/entrypoint narrative exposure is disclosed, so this is not a blind comparison. Earlier dated completion and local-only/publication records below remain historical stages.
 
 The audit begins at remote head `e1e4b98c2875a4be5bfd30f6a292fb99a553db36`, with current main `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd` reconciled without rewriting history. Existing [PR303](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/303) remains Draft. The current instruction permits Ready for review only after all mandatory source inspection, corrections, semantic reconciliation, local validation and the exact-final-head remote audit pass. An independent hold, if imposed, must be preserved. No merge is authorized. G4 operational acceptance remains `BLOCKED_NO_HELD_OUT_VALIDATION`; literary reconstruction development cannot remove that limit.
 
@@ -222,3 +222,5 @@ The unmodified live-main author preflight failed the completed-run admission pre
 The owner stated that a second agent will review and audit the analytical outputs after admission is enabled. Preserve the draft/explicit integration hold for that review. Branch publication does not grant analytical main integration or acceptance. Revision 0.27 — 2026-10-23; publication administration only, with no new source admission or analytical revision.
 
 Revision0.28 — 2026-10-23 owner date: independent second-pass audit authorized and initialized; method0.3/architecture0.5 prospective amendments; Pass A underway, Pass B locked, prior freezes and gate decisions preserved. Conditional review submission authorized; PR remains Draft pending actual completion.
+
+Revision 0.29 — 2026-10-23 owner date / 2026-10-24 UTC: source-first Pass A completed and all 18 receipts frozen before Pass B; 3198 directly viewed originals attributed; ordered reconciliation and all semantic/deepening/release obligations remain pending. Original run completed/V18/NONE unchanged.
