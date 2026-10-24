@@ -4,7 +4,7 @@ artifact_id: YURUCAMP_CURRENT_SOURCE_INVENTORY
 artifact_type: source_inventory
 series: YURUCAMP
 status: canonical
-source_boundary: Source identities through V19 acquisition; literary analysis complete through V17
+source_boundary: Source identities through V19 acquisition; literary analysis complete through V18
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -16,7 +16,7 @@ updated: '2026-10-23'
 
 ## Current route and historical preservation
 
-This is the current inventory for the [canonical current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md). Its [machine manifest](YURUCAMP_CURRENT_SOURCE_MANIFEST.json) owns exact object identities, hashes, source classes and the V16-V19 spine maps; [quality and locator notes](YURUCAMP_CURRENT_SOURCE_QUALITY_AND_LOCATOR_NOTES.md) govern use. Current routing is canonical; source admission follows the bounded V16–V19 run in the current-state entrypoint. V17 is now complete; V18 is next.
+This is the current inventory for the [canonical current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md). Its [machine manifest](YURUCAMP_CURRENT_SOURCE_MANIFEST.json) owns exact object identities, hashes, source classes and the V16-V19 spine maps; [quality and locator notes](YURUCAMP_CURRENT_SOURCE_QUALITY_AND_LOCATOR_NOTES.md) govern use. Current routing is canonical; source admission follows the bounded V16–V19 run in the current-state entrypoint. V18 is now complete; the independent V16–V18 checkpoint must be accepted and committed before V19 narrative begins.
 
 The nine Phase 0 files remain unchanged, including [the August 14 inventory](YURUCAMP_SOURCE_INVENTORY.md), [manifest](YURUCAMP_SOURCE_MANIFEST.json), [audit](YURUCAMP_PHASE0_CORPUS_AUDIT_AND_SOURCE_LOCK.md), gaps, quality/pagination notes, machine audit and checksums. Their V18-missing and old-V17 preference statements describe that historical observation. These new records reconcile later acquisitions without falsifying the original audit.
 
@@ -43,7 +43,7 @@ On 2026-10-17 the live root folder returned 32 direct children: 18 main manga ob
 | V15 | 1KFvd5mfGEI9_MVfu-_KTwQJLZ00unJy2 | CBZ / LOCKED_CURRENT_PREFERRED | Accepted sequential reading |
 | V16 | 1S6wIlhB--XXMdja34Y-uzrdcR6xOMXNv | EPUB / LOCKED_PRIMARY; supersedes retained CBZ | Complete prospective two-pass reading; chapters 88–92 plus earlier spring-break special/extras |
 | V17 | 1sAvxxFVzSOtobfs2HTjPTK1QqNjxyu96 | EPUB / LOCKED_PRIMARY | Complete prospective two-pass reading; chapters 93–98 plus Heya/extras |
-| V18 | 1QEgPUH9Sr-3jVH2C5vr-3ZRJ7xKK4uH4 | EPUB / LOCKED_PRIMARY | Available; NOT ANALYZED |
+| V18 | 1QEgPUH9Sr-3jVH2C5vr-3ZRJ7xKK4uH4 | EPUB / LOCKED_PRIMARY | Complete prospective two-pass reading; chapters 99–104 plus Heya/extras |
 | V19 | 1SUFejNLxWBLfvvfY2xCwyhhvYX8ud3bN | EPUB / LOCKED_PRIMARY | Available; NOT ANALYZED |
 
 ## September acquisition reconciliation
@@ -95,3 +95,7 @@ All 166 preferred EPUB spine images were visually read in order, then integrated
 ## V17 literary transaction — 2026-10-23
 
 All 166 preferred V17 EPUB spine images were individually visually read in source order before the separate analytical pass. The [V17 reading](../03%20Volume%20Deep%20Readings/YURUCAMP_V17_DEEP_READING.md) owns chapter/scene interpretation. The current manifest and quality notes add the exact chapter/end-matter lookup: Ch93 spine 005–028; Ch94 031–054; Ch95 057–080; Ch96 083–106; Ch97 109–134; Ch98 137–160, with transition vignettes separately retained. Main narrative ends at spine 160 / visibly printed 158. Heya Camp 128 is spine 161–162; afterword, colophon, jacket and underjacket are 163–166. Printed contents starts 3/29/55/81/107/135/159 remain separately labeled observations, not a general spine-to-print rule. All source hashes, structural maps and archive chains remain unchanged; this literary inspection does not amend the historical technical receipts or establish remote byte equality. V18 and V19 remain available and NOT ANALYZED. Supplementary continuities remain separate.
+
+## V18 literary transaction — 2026-10-23
+
+All 166 preferred V18 EPUB spine images were individually visually read in source order before the separate analytical pass. The [V18 reading](../03%20Volume%20Deep%20Readings/YURUCAMP_V18_DEEP_READING.md) owns interpretation. The current manifest and quality notes add the exact lookup: Ch99 spine 005–028; Ch100 031–054; Ch101 057–080; Ch102 083–106; Ch103 109–132; Ch104 135–158, with all transition vignettes separately retained. Main narrative ends at spine 158 / visibly printed 156, at the closed ranch before the proposed pond; the journey is unfinished. Heya Camp 129 and 130 are spine 159–160 and 161–162; afterword, colophon, jacket and underjacket are 163–166. Contents starts 3/29/55/81/107/133/157 remain separately labeled observations: title pages 031/109 and Heya start 159 do not display their contents opening folios. Chapter 102 begins at 083 but its title is 086. All source hashes, 664 technical map rows, prior literary receipts and archive chains remain unchanged. V19 remains available and NOT ANALYZED, pending the independently accepted and committed V16–V18 checkpoint. Supplementary continuities remain separate.
