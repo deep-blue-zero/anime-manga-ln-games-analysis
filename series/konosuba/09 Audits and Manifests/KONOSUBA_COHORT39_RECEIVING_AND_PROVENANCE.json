@@ -987,7 +987,7 @@
   "global_census_closed": false,
   "global_completion_percentage": null,
   "full_program_complete": false,
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
   "previous_source_audit_not_transferred_to_new_candidate": true,
   "new_artifact_scope": {
@@ -1177,5 +1177,20 @@
     "sha256": "8b92c8fe88ee6efb1fb14d2512a658e1e982c65cc93ab85f048c3b4234fa1380"
   },
   "prior_semantic_receiving_sha256": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
-  "publication_only_repair": "Four frontmatter status values change scoped_provisional to accepted active_provisional. All analytical bodies,three models/rules,exact inputs,twelve original firsts,assessments,source views and tier/count scope remain exact. Frozen original monograph hashes in inventories retain the actually frozen pre-first drafts;publication successors differ only by authority-status metadata."
+  "publication_only_repair": "Four frontmatter status values change scoped_provisional to accepted active_provisional. All analytical bodies,three models/rules,exact inputs,twelve original firsts,assessments,source views and tier/count scope remain exact. Frozen original monograph hashes in inventories retain the actually frozen pre-first drafts;publication successors differ only by authority-status metadata.",
+  "publication_resolution": {
+    "source": "bebd59912de46d82a02777050ccb175f5e075029",
+    "tree": "37d0213161e1a0cffcd278b8af19f3f80babff85",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "b564f10ddfdfa3bfb34c7bd5d28f3c8ebb940966fb87379431d420dc9308ad55",
+    "source_run": 40124981724,
+    "full_discovered_tests": 459,
+    "current_models": 59,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "separate_housekeeping_run": null,
+    "pull_request_number": 316
+  },
+  "current_gate_qualification": "23public cores,35frozen private artifacts,37supporting records and compact fragment remain exact. Three original foundation monographs and index retain scoped_provisional as private history;publication successors change only status metadata. Models/rules/inputs and12original firsts with DGO-B1/HNO-A2defects remain exact. Current speaker/status/identity/transaction/consent limits and generic causal rivals persist. Protected integration,independent accuracy,grade,confidence gain,final batteries and original StageD successors remain unearned."
 }

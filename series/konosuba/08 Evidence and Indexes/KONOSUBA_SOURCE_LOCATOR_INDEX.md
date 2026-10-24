@@ -2041,3 +2041,10 @@ C38 actual native recheck:622P/548inline ruby,4members2known EPUBs,12complete di
 C39actual selected native coverage4192P/4128inline ruby,23members7knownEPUBs84complete displays;4167fictionP and25Dust05author-afterwordP. Nine complete paragraph projections/fourteen bounded members,zero current images/nonparagraph residuals. D1-D4analytical contexts actually received;prior fullD5/D6analytical surfaces reused with exact receipts. All41literal retrieval is technical,not unnamed/alias/image absence proof or another whole-edition read.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+C40actual2826selectedP/1219inline ruby,11members3knownEPUBs58complete native displays. Seven complete paragraph/ruby projections andfour bounded members give zero current image,nonparagraph residual or whole-edition credit. Continuation is an unnumbered title,not Dust08. Complete continuation analytical context/component/45qualifications and all357census labels were actually received;all41literal name/role retrieval is technical,not an unnamed/image absence proof.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -1244,3 +1244,10 @@ Perie74 earns a dedicated twelve-dimension Tier2 monograph without a new model. 
 Rouzeri79,recurring general-store owner80 and helmeted noble88 earn3individual monographs/one-rule provisional models. Four compact profiles348-351 and five sparse records352-356 yield59models/53scoped secondary model subjects/93compact/28monograph-only/357nonfinal records. Three entering rows change,345others and19historical plane differences remain exact. Records are not a certified disjoint-person denominator;prior56models unchanged.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Doreck81/Gaibil82/head butler84earn3provisional models/5rules;king83earns monograph without model. Four monographs,7compact profiles and19sparse records yield62models/56scoped secondary model subjects/100compact/29monograph-only/383nonfinal records. Four entering rows change,353others/19historical plane differences/59oldermodels exact. Twenty-six routes are not26certified unique new people;prior guard343profile stays exact.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

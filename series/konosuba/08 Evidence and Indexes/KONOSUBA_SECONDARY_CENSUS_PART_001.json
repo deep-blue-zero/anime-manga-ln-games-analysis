@@ -4885,12 +4885,12 @@
       }
     },
     {
-      "priority": "Cohort39 bounded semantic receiving complete;exact containing publication pending.",
-      "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "priority": "Cohort39 bounded author publication complete;continuing full program.",
+      "disposition_status": "COHORT39_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "character": "Rouzeri / ルーゼリ",
       "identity": "Self-named woman and army attack commander in DUST07,with actual red-dragon transformation;Wiz recalls executive candidacy,not a witnessed current appointment. Working Roman label,not an official-English-edition assertion.",
-      "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact publication pending",
+      "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact-source author publication closed; scoped/nonfinal",
       "evidence_distribution": "DUST07 complete chapter3U013677P/epilogueU014148P plus bounded chapter1U011source roles,all with ruby. Earlier Dust01-06 contexts distinguish recurring owners,nobles and neighboring actors. C39total4192selectedP/4128ruby23members7EPUBs84complete displays,including25Dust05author-afterwordP;zero current images/nonparagraph residuals. Exact bounds and reused analytical receipts in provenance.",
       "substantive_responsibility": "Explicit wish to flee,campaign accountability,valued army life and rejected exit coexist with neutrality argument,flight beyond Vanir range,recruitment and dangerous fight. ROU-R01 conditionally distinguishes feasible role-preserving survival from affiliation-destroying exit,without requiring automatic fighting. Generic fear,employment dependence,face-saving and attraction remain rivals.",
       "gaps": "Concentrated encounter;no motive-isolated threshold,mature reliability or confirmed permanent fate. Salary reason belongs to an ogre,not Rouzeri. Vanir is former executive;Wiz current barrier/neutrality terms differ. Twelve cohort firsts include four Rouzeri firsts/two dependent source-known pairs;body compatibility does not isolate cause. No regeneration,independent accuracy,grade,confidence gain,Japanese/acoustic certification or final battery.",
@@ -4936,6 +4936,25 @@
         "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
         "bytes": 4391,
         "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      },
+      "prior_cohort39_publication_fields": {
+        "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact publication pending",
+        "priority": "Cohort39 bounded semantic receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort39_publication_resolution": {
+        "source": "bebd59912de46d82a02777050ccb175f5e075029",
+        "tree": "37d0213161e1a0cffcd278b8af19f3f80babff85",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "b564f10ddfdfa3bfb34c7bd5d28f3c8ebb940966fb87379431d420dc9308ad55",
+        "source_run": 40124981724,
+        "full_discovered_tests": 459,
+        "current_models": 59,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 316
       }
     }
   ]

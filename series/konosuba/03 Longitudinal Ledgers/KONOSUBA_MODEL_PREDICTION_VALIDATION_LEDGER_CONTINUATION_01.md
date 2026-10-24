@@ -624,3 +624,10 @@ C38 disposition is one Tier2 monograph,two Tier1 profiles and four Tier0 role in
 Three one-rule foundations froze before exact inputs;twelve actual original firsts/six dependent pairs were emitted once and sealed before feedback. DGO-B1 imports upstairs from contrasting prompt plus unspecified ledger duration;HNO-A2 adds price marking and ambiguous audience absence. Originals remain exact. Four other pairs respect current body constraints,but no pair cleanly isolates cause against generic prudence,ownership,care,sentiment or source/prompt cues. No regeneration,rule change,independent accuracy,grade,confidence gain,voice or final-battery credit.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Three foundations/five rules froze before exact inputs. Twelve actual original Japanese-plus-English responses/six dependent pairs were authored once after actual input receiving and sealed before feedback. Doreck phase/means,butler authority/stakes and workload,and Gaibil reward/commission contrasts retain generic and bundled rivals. GAI-A1written-reading ambiguity,B1spatial topic andB2debt framing remain calibrated qualifications. Zero clean independent mechanism isolations,regenerations,post-first repairs,accuracy,grade,confidence gain,acoustic or final-battery credit.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

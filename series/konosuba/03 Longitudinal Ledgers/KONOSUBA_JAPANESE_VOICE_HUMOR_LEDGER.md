@@ -2045,3 +2045,10 @@ Perie self-nameペリエ and roughあたい are anchored in current Japanese pro
 Rouzeri self-nameルーゼリ,courteous introduction,resentment,compact argument and age protest vary by addressee. Owner rough rebuttal,polite sales address,child apology and siege account differ. Noble own僕viewpoint,courteous eagerness,practical questions and no-cleaning request are situated;breath marks are not compulsory. Inline ruby is preserved in actual receiving;English firsts certify no Japanese or acoustic voice.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Doreck private admissions and proposal differ from Gaibil performed groom register and rough own voice. King私/俺shift and butler formal address/rank wordplay are situated. Twelve original Japanese-plus-English responses remain exact;written十分inGAI-A1has a qualified reading ambiguity,not a proved wrong duration or acoustic result. No native-human or pronunciation certification is claimed.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -2078,3 +2078,10 @@ Fashion criticism draws anger and later narrated discouragement;redness alone do
 Military-manager complaints,age protest,stock/lunch disputes and object-associated delight depend on actual stakes and information. Rouzeri civilian threat and coercive recruitment remain harmful. Noble held hand/continued approach after withdrawal remain actual violations;comic framing supplies no assent. Dream-revealed infiltrator episode is not an actual assault on Leen. Gear packing is not completed return,and battle fall is not a checked permanent death.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Envy performance, king child-exchange offer, maid weapon escalation and butler work-relief comedy preserve actual pressure and refusals. King offers Feit and added money;Dust refuses. Forced handling, confinement, bound uninformed princess, Rionor ring shock and dangerous battle remain harms despite comic or romantic framing. Later private agreement and royal lenience do not retrospectively establish consent.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

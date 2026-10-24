@@ -1599,3 +1599,10 @@ Perie actual speed,claws,reach and accurate aerial withdrawal from danger qualif
 Rouzeri actual transformation,flight,breath and scale vulnerability differ from her threat appraisal and attributed aura lore;team assistance matters. Owner trade,meal defense,recognition and spear provision coexist with overstock error and provocation. Tip failureP832/neglect allegationP834/repair account have distinct warrants. Noble actual riding,spear work and trap assistance do not make noisy-device flooding planned or horses universally language-fluent.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Gaibil public cookie/weak-grip/pen-callus/knighthood performance is not real Doreck bodily biography. Doreck revised own-strength request is not achieved cure. Butler useful teaching and coordination coexist with Feit identity surprise and missed hanging. Rival/junior fight and salary turns stay separately attributed or pair-level;magical assistance and careful dragon descent oppose universal incompetence or a death claim.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

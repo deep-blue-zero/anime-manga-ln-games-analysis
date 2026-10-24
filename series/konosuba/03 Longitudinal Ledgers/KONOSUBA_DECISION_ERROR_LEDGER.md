@@ -2052,3 +2052,10 @@ Perie first infers negotiating pressure will protect the army,then accepts Dust 
 Rouzeri refuses a particular exit while wanting to flee;no universal cowardice or bravery follows. Her own army-life reason is not the different ogre salary complaint. Owner misorder and disguise misreading oppose infallibility. Noble jealous interpretations and Dust truth-inverter theory do not establish reciprocity or engineering fact. Current unknown joins stay open;gate wine explanation overturns Dust fatal-wound inference without certifying physiology or zero casualties.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Private willing contract qualifies public brainwashing account. Leen wedding bride and real Rionor dungeon visitor are separated after Dust mistaken expectation;diet note is not a clinical diagnosis. Butler false gag interpretation conflicts with Dust protest and does not certify infallible translation. Driver hearing explanation is reported;Dust dementia guess is not diagnosis. GAI-A1/B1/B2contextual qualifications remain without repair.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -477,3 +477,10 @@ CR-C38-AFFECT01 QUALIFY:redness and anger do not establish dress embarrassment;l
 CR-C39-SPEAKER01 CORRECT:ogre salary remark is not Rouzeri reason. CR-C39-STATUS02 QUALIFY:Vanir former executive versus Wiz current compact;no direct former Rouzeri supervision verified. CR-C39-ROLE03 CORRECT:recurring general store,not weapon-only shop. CR-C39-FAULT04 QUALIFY:tip fallsP832,neglect DustP834,repair reported. CR-C39-LOAN05 RETAIN:Dust proposes one-day helmet loan;D7P184explicit horse loan. CR-C39-PAY06 QUALIFY:covert reports commissioned,actual payment unshown. CR-C39-TEST07 RETAIN:DGO-B1/HNO-A2defects and all12firsts unchanged;body compliance is not cause isolation.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+CR-C40-IDENTITY01 CORRECT:real Doreck versus Gaibil groom;Rionor visitor versus Leen bride. CR-C40-WILL02 QUALIFY:private willing contract conflicts with public brainwashing. CR-C40-HARM03 RETAIN:no-killing rhetoric does not erase coercion/shock/danger. CR-C40-KING04 RETAIN:king offers Feit;Dust refuses. CR-C40-BUTLER05 QUALIFY:positiveDust05–06–continuation recurrence,other butlers unjoined. CR-C40-MAID06 QUALIFY:former-thief mapping unknown;P552pay turn pair-level. CR-C40-TEST07 RETAIN:12originals andGAI-A1/B1/B2qualifications unchanged;body compliance distinct from causal isolation.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
