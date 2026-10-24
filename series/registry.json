@@ -135,6 +135,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "cornered-mouse",
+      "stable_slug": "cornered-mouse",
+      "canonical_title": "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/cornered-mouse/",
+      "canonical_entrypoint": "series/cornered-mouse/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_CORNERED_MOUSE_BOOTSTRAP_20261024",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Connected Japanese manga project covering The Cornered Mouse Dreams of Cheese and The Carp on the Chopping Block Jumps Twice, with explicit edition/supplement boundaries, longitudinal character and relationship evidence, and separate reconstruction validation. Primary and derived evidence remain in Drive."
+    },
+    {
       "series_id": "gakuen-idolmaster",
       "stable_slug": "gakuen-idolmaster",
       "canonical_title": "Gakuen Idolmaster",
