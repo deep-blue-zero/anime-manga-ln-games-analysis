@@ -528,7 +528,7 @@ His self-theory moves from `the performed character receives the result, not the
 | Tomozaki | model, teacher, friend, student of owned effort, and co-holder of difficult knowledge | reciprocal trust is real; it does not authorize sharing Hinami's secret |
 | Hinami | owned romantic desire and projected fellow loneliness | no reciprocal romantic state, renewed invitation, or terminal policy is shown |
 | Tama / peer projects | recipient-sensitive specialist whose form supports another person's owned curriculum | this is a strong fit between expertise and consent, not a universal authority role |
-| Endo / game contacts | persuasive negotiator who experiences concrete consequence from formal skill | route remains a vocational hypothesis without sustained work, terms, income, or failure test |
+| Endo / game contacts | persuasive negotiator who experiences concrete consequence from formal skill | route remains a vocational hypothesis despite explicit barter terms; sustained work, adequate safeguards, realized income and a vocational failure test remain unshown |
 
 ### 11.3 Current V11 boundary
 
@@ -546,7 +546,7 @@ Mizusawa has moved from effortless-looking outcomes toward chosen risk and possi
 | V06 | mediates the Konno/Akiyama cold war and becomes festival committee chair | public leadership is agentic and may enlarge rather than end the absorber role | `DR06 §§6, 14-15, 19-20` |
 | V06.5 concurrent | tries to trust Nakamura while participating in indirect verification during communication uncertainty; Konno helps | trust and covert monitoring coexist; the couple's reassurance asymmetry remains | `SR06.5 §11, §§13-14, 17` |
 | V07 | performs visible festival coordination and keeps work moving | cost and refusal are not retested | `DR07 §§11, 14.3-15, 20-21` |
-| V08-V09 | remains part of chosen peer affiliation and helps begin the couple's repair | no durable capacity boundary or independent future direction is established | `DR08 §§4.4, 5.5, 9-10`; `DR09 §5.5, §§8-9` |
+| V08-V09 | remains part of chosen peer affiliation, helps begin the couple's repair, and names Aogaku as a desired university because she has heard an admired reader-model attended | a reported educational preference is established; no admission, financial/academic feasibility, selected vocation or durable capacity boundary follows | `DR08 §§4.4, 5.5, 9-10`; V08 `text/part0014.html` P150–176; `DR09 §5.5, §§8-9` |
 | V10 | converts diffuse concern into a detailed birthday route and creates safe opportunities for unscripted response | conventional form carries care; incomplete family knowledge limits the plan | `DR10 §§4.1, 4.5, 5.5, 8-9` |
 | V11 | absorbs guilt for initiating the video and reports institutional fallout; Nakamura resists assigning her sole blame | guilt is direct, but sole causal/moral ownership is not; absorber limit remains absent | `DR11 §§4.2-4.3, 5.7, 8-9` |
 
