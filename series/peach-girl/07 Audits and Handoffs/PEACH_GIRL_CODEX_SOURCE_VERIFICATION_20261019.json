@@ -1,0 +1,326 @@
+[
+  {
+    "source_key": "PG-JP-NE-V01-W01",
+    "bytes": 98471638,
+    "sha256": "25fff75c79fa8475afe35b817418ea76c27092f80343a83729a3ef65819d78ea",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 187,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（１）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V02-W01",
+    "bytes": 101616697,
+    "sha256": "c79174f8791e8bbc41cde944344d258369ac4bc7f23d39972a2dccf2b40e73f0",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 175,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（２）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V03-W01",
+    "bytes": 99813938,
+    "sha256": "9086a57ecdd13f9d601fc7558787f14f7c13356d52de716c15962f5536838cdf",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 183,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（３）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V04-W01",
+    "bytes": 86369890,
+    "sha256": "84899238f7fbc0858ccabad7a5bdddfbdfba860ab75b143d268aa39c4a1bba43",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 179,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（４）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V05-W01",
+    "bytes": 88975596,
+    "sha256": "66205a1bfc3903f356fa0df36cdfb2707106fc7e7e423fee81d45b17555f12ad",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 181,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（５）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V06-W01",
+    "bytes": 88959368,
+    "sha256": "b7a84c4ac1445af67666f552cb30f49c7b362e21abda404dc51a8fa577a154eb",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 175,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（６）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V07-W01",
+    "bytes": 94777974,
+    "sha256": "afe975190a1d5a7a8b606de1cb83ad4d10206bb7acdea2fe4412f34e021c7724",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 183,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（７）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V08-W01",
+    "bytes": 80842608,
+    "sha256": "20103e40f320257760a0d3014e02f2e2162ca44e0e081bf2e006ebde452ccf5e",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 177,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（８）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V09-W01",
+    "bytes": 84679968,
+    "sha256": "6131b243dc9b586567b2b899aad0cfdc2c70724e3e21c8e4d2cc614bb7fbae7e",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 175,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（９）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V10-W01",
+    "bytes": 87791228,
+    "sha256": "ef55cdbd83dd604b833ff7c8f26e6d778609f022f9ab6dd7d48125a7b3ee4d88",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 179,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（１０）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V11-W01",
+    "bytes": 86855316,
+    "sha256": "95f066f1958c95c41a4aff74ca504760111ec363ec59c6d2c9f4480bb2b86d8c",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 175,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（１１）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V12-W01",
+    "bytes": 98616828,
+    "sha256": "0309a8bc68b0db42555a00444d3140e2b9c133483e8a367d33ef6b5b30506238",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 177,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（１２）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V13-W01",
+    "bytes": 84591252,
+    "sha256": "78878d47d8d0e4d900ab35825cfa8a843fdc6e34187c99e8bbfc4e9bc55405e9",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 171,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（１３）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V14-W01",
+    "bytes": 91533584,
+    "sha256": "36952289f8ea23fb71ec0ce777e057057ada4835baab14294f28ca9603259c16",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 175,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（１４）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V15-W01",
+    "bytes": 93922336,
+    "sha256": "24b4f17f77fad3e125786cdbde460bc37f72c085dd5d2b1d6c4ea6a44fab4714",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 175,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（１５）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V16-W01",
+    "bytes": 85468879,
+    "sha256": "0160eb9af93379a42e1fe7da7c2419c7358163ccb683cbe5a09fed598383ee3d",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 171,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（１６）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V17-W01",
+    "bytes": 94041107,
+    "sha256": "5213feb9f62724cfe80cc8139aa407e6a4c0349a1b163cebc96d42aa09a36bc1",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 173,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（１７）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  },
+  {
+    "source_key": "PG-JP-NE-V18-W01",
+    "bytes": 99357571,
+    "sha256": "00222d219ee6b844207ac825a194397057c51ba51b2471d762e8c87f8b0af720",
+    "zip_crc": "PASS",
+    "opf": "item/standard.opf",
+    "spine_count": 187,
+    "direction": "rtl",
+    "metadata": {
+      "title": "ピーチガール　新装版（１８）",
+      "creator": "上田美和",
+      "publisher": "講談社",
+      "language": "ja"
+    },
+    "inherited_map_matches": true,
+    "issues": [],
+    "narrative_inspection": "NOT_ESTABLISHED_BY_THIS_CHECK"
+  }
+]
