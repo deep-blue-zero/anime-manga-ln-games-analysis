@@ -1,0 +1,134 @@
+{
+  "artifact_id": "PEACH_GIRL_RECONSTRUCTION_RULES_V1",
+  "version": "1.0",
+  "status": "FROZEN_BEFORE_TEST_EXECUTION_NOT_VALIDATED",
+  "g2_input_commit": "342b9067abf2b200613e2b24707abbc190c59402",
+  "original_series_boundary": "V18",
+  "validation_design": "RETROSPECTIVE_FULL_SOURCE_EXPOSED_NOT_HELD_OUT",
+  "author_exposure": "Same operator already inspected all V05–V18 and audited inheritedV01–V04; rule choice is retrospective, even when a model names an earlier source cutoff",
+  "intended_use": "Small categorical hypothesis probes in declared domains, not conversation/voice/simulation service",
+  "acceptance": "No operational acceptance without genuinely independent pre-outcome/held-out validation; no such source remains here",
+  "models": {
+    "Momo": {
+      "subject": "Momo",
+      "cutoff": "PG-FR-V14",
+      "source_commit": "55bf23051133b8409f0262f2dca61569712d2bba",
+      "domain": "response_to_unwanted_contact",
+      "allowed_facts": [
+        "experienced_unwanted_contact",
+        "can_voice_refusal"
+      ],
+      "speech_limit": "Written refusal/disclosure category only; no acoustic voice or invented utterance",
+      "rules": [
+        {
+          "id": "M1",
+          "if_all": [
+            "unwanted_contact",
+            "exit_sought"
+          ],
+          "then": "assert_refusal_and_try_leave"
+        }
+      ],
+      "evidence": [
+        "V10_165–169: refusedgift/contact/attemptleave",
+        "V11_20:selfescape;V14agencyhistory"
+      ],
+      "counterevidence_or_debt": "Physicalconstraint may prevent success; applies to her response, not prediction of others; does not explain every romantic choice",
+      "context_variance": "Rules are tendencies to challenge, not universal personality; scenario features must be actor-accessible immediately before tested outcome",
+      "readiness": "UNTESTED_OPERATIONAL_NOT_READY"
+    },
+    "Kairi": {
+      "subject": "Kairi",
+      "cutoff": "PG-FR-V16",
+      "source_commit": "038f6602da2df29b1a0513f4d31948bb21d5c8a3",
+      "domain": "rivalry_and_disclosure",
+      "allowed_facts": [
+        "still_loves_M",
+        "saw_M_T_kiss"
+      ],
+      "speech_limit": "Written refusal/disclosure category only; no acoustic voice or invented utterance",
+      "rules": [
+        {
+          "id": "K1",
+          "if_all": [
+            "asked_own_pain_cause",
+            "fears_burdening_M"
+          ],
+          "then": "deflect_cause_to_Misao"
+        },
+        {
+          "id": "K2",
+          "if_all": [
+            "rival_present",
+            "fears_loss"
+          ],
+          "then": "withdraw_without_direct_claim"
+        }
+      ],
+      "evidence": [
+        "V14_67–69:distance afterrejection;V16_139–161:privateMfeeling/witnesskiss/withdrawal"
+      ],
+      "counterevidence_or_debt": "Deflection is a weak retrospective hypothesis, not inferred solely from proven habit; later directconfession/force may contradict; no prediction of specificlie",
+      "context_variance": "Rules are tendencies to challenge, not universal personality; scenario features must be actor-accessible immediately before tested outcome",
+      "readiness": "UNTESTED_OPERATIONAL_NOT_READY"
+    },
+    "Toji": {
+      "subject": "Toji",
+      "cutoff": "PG-FR-V16",
+      "source_commit": "038f6602da2df29b1a0513f4d31948bb21d5c8a3",
+      "domain": "response_to_M_boundary",
+      "allowed_facts": [
+        "M_previously_dated_K",
+        "has_heeded_refusal"
+      ],
+      "speech_limit": "Written refusal/disclosure category only; no acoustic voice or invented utterance",
+      "rules": [
+        {
+          "id": "T1",
+          "if_all": [
+            "M_explicit_boundary"
+          ],
+          "then": "stop_and_allow_distance"
+        }
+      ],
+      "evidence": [
+        "V15_103–106:requestalone/distance",
+        "V16_101–105:stop/apology/patience"
+      ],
+      "counterevidence_or_debt": "Loss/rivalry stakes could changebehavior; must test all qualifyingboundaryepisodes includingunfavorableones",
+      "context_variance": "Rules are tendencies to challenge, not universal personality; scenario features must be actor-accessible immediately before tested outcome",
+      "readiness": "UNTESTED_OPERATIONAL_NOT_READY"
+    },
+    "Sae": {
+      "subject": "Sae",
+      "cutoff": "PG-FR-V17",
+      "source_commit": "af76e3b678a45b70634db805934ec8ddaa459ef5",
+      "domain": "intervention_in_others_romance",
+      "allowed_facts": [
+        "prior_manipulation",
+        "has_helped_M"
+      ],
+      "speech_limit": "Written refusal/disclosure category only; no acoustic voice or invented utterance",
+      "rules": [
+        {
+          "id": "S1",
+          "if_all": [
+            "M_relationship_uncertainty",
+            "opportunity_to_intervene"
+          ],
+          "then": "intervene_through_indirect_control"
+        }
+      ],
+      "evidence": [
+        "V05impersonation/V07blackmail;V13specificrepair andV17care are counterevidence"
+      ],
+      "counterevidence_or_debt": "Truthful voluntarydisclosure may contradict; broadactioncategory cannot predict particularscheme or author a newmessage",
+      "context_variance": "Rules are tendencies to challenge, not universal personality; scenario features must be actor-accessible immediately before tested outcome",
+      "readiness": "UNTESTED_OPERATIONAL_NOT_READY"
+    }
+  },
+  "not_proposed": {
+    "Misao": "Literary coverage sufficient for scopedstudy; thinnerordinary/strangercontexts andunequalfocalaccess; no operationalruleproposed",
+    "Ryo": "Selectivefocalaccess/mixedaccounts/coercionandregret; no robustbehavioralruleproposed"
+  }
+}
