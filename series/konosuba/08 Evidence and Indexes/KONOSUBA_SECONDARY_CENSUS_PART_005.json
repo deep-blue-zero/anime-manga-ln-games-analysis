@@ -3,8 +3,8 @@
   "canonical_census_manifest": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
   "part_ordinal": 5,
   "first_row_index": 320,
-  "last_row_index": 382,
-  "row_count": 63,
+  "last_row_index": 396,
+  "row_count": 77,
   "rows": [
     {
       "character": "Unnamed man in Lucy’s gift/rejection account",
@@ -1452,12 +1452,12 @@
     {
       "character": "Whip-bearing Rionor maid",
       "identity": "One explicitly whip-bearing member of Rionor's three-maid retinue, with a source-bound continuation role. Not automatically the Dust06 dedicated former thief.",
-      "likely_tier": "1 scoped; compact individual role profile; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact individual role profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U011 P310-341; U012 P215-289,436-490",
       "substantive_responsibility": "Specific binding, reporting, paired instruction and mission role are observable. Do not assign every untagged staff utterance or identify her as the Dust06 former thief.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U011 P310-341; U012 P215-289,436-490; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 1,
@@ -1469,17 +1469,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "1 scoped; compact individual role profile; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Dedicated former-thief maid (Dust06)",
       "identity": "Dedicated maid recognized by Dust as a former thief. Possibly one of357/359/360; the mapping is unresolved. Not a fourth certified maid.",
-      "likely_tier": "1 scoped; compact individual role profile; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact individual role profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST06 U013 P298-340",
       "substantive_responsibility": "Dust recognizes prior role/history; she owns the embellished elopement account and wants the easier substitute to remain. Possible overlap with one weapon-bearing maid is explicit; no fourth certified person.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation. Potential overlap and unresolved turn mapping do not certify new unique people.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST06 U013 P298-340; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 1,
@@ -1491,17 +1501,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "1 scoped; compact individual role profile; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Punching/glove-bearing Rionor maid",
       "identity": "Distinct punching/glove weapon role within the three returning maids; individual speech mapping is limited.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST06 U013 P516-523; DUST-CONT U011 P69-88",
       "substantive_responsibility": "Distinct armed role, but turn-to-person mapping and wider individual choices remain unresolved.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST06 U013 P516-523; DUST-CONT U011 P69-88; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1513,17 +1533,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Cleaver-bearing Rionor maid",
       "identity": "Distinct cleaver weapon role within the three returning maids; individual speech mapping is limited.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST06 U013 P516-523; DUST-CONT U011 P69-88",
       "substantive_responsibility": "Distinct armed role; adjacency does not certify ownership of a particular threat or give a full personality.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST06 U013 P516-523; DUST-CONT U011 P69-88; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1535,17 +1565,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Dust former self-described rival / dragon knight",
       "identity": "One of Dust's two former dragon-knight colleagues, explicitly the self-described rival identified at DUST06 U013 P575; distinct from junior362.",
-      "likely_tier": "1 scoped; compact individual role profile; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact individual role profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST06 U013 P499-503,548-589; DUST-CONT U012 P158-159",
       "substantive_responsibility": "Wants real duel, intervenes for junior and warns him. Mission and rivalry coexist. Specific speech mapping uses explicit narrator identification at P575.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST06 U013 P499-503,548-589; DUST-CONT U012 P158-159; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 1,
@@ -1557,17 +1597,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "1 scoped; compact individual role profile; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Dust admiring junior / dragon knight",
       "identity": "One of Dust's two former dragon-knight colleagues, the admiring junior identified in narration; distinct from rival361.",
-      "likely_tier": "1 scoped; compact individual role profile; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact individual role profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST06 U013 P499-503,548-589; DUST-CONT U012 P158-159",
       "substantive_responsibility": "Addresses Line as senior,defends then loses balance,thanks rival and reaffirms admiration. Court-service/pay-loss statement is pair-level;its politeP552turn specifically asjunior is a register inference,not explicit narrator tag. Assisted defeat does not prove universal incompetence.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation. P552 attribution remains pair-level under current Q01.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST06 U013 P499-503,548-589; DUST-CONT U012 P158-159; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 1,
@@ -1579,17 +1629,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "1 scoped; compact individual role profile; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Older carriage driver and guard-client (Dust continuation)",
       "identity": "Older thin male guard-client and carriage driver on the Bridol journey; not an automatic join to FD cabbage-rescue driver270 or any other driver.",
-      "likely_tier": "1 scoped; compact individual role profile; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact individual role profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U010 P382-410,494-498",
       "substantive_responsibility": "Own health counsel, waiting for passenger and specific cargo objection supply bounded everyday choices. Name mishearings concern Taylor; no new Tyler/Boiler identities or dementia diagnosis.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U010 P382-410,494-498; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 1,
@@ -1601,17 +1661,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "1 scoped; compact individual role profile; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Bridol bookseller (Dust continuation)",
       "identity": "One Bridol bookseller encounter; not automatically every bookshop or the creator of merchandise content.",
-      "likely_tier": "1 scoped; compact individual role profile; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact individual role profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U011 P473-496",
       "substantive_responsibility": "Shows hero books, explains claimed licensing and serves a child-directed purchase. Legal claims remain seller account; other booksellers unjoined.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U011 P473-496; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 1,
@@ -1623,17 +1693,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "1 scoped; compact individual role profile; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Food-fetching guarded-room sentry (Dust continuation)",
       "identity": "One of two inner-room guards, recognized by Small and actually seen fetching food; later pair-turn mapping remains unresolved.",
-      "likely_tier": "1 scoped; compact individual role profile; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact individual role profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U013 P79-118",
       "substantive_responsibility": "Complains about dietary work while actually preparing food and taking a snack. Do not assign all later two-guard dialogue to this man or certify motives of all household staff.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U013 P79-118; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 1,
@@ -1645,17 +1725,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "1 scoped; compact individual role profile; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Other guarded-room / dungeon guard roles (unresolved pair)",
       "identity": "Unresolved inner-room/dungeon guard-pair route, including food-fetcher365; not two additional certified people.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U013 P173-192,298-305,355-405,455-531",
       "substantive_responsibility": "Pair continuity is explicit; exact later turn mapping is not. Includes possible overlap with food-fetcher365 and is not an extra certified two-person total.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation. Potential overlap and unresolved turn mapping do not certify new unique people.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U013 P173-192,298-305,355-405,455-531; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1667,17 +1757,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Doreck reported father / former chancellor",
       "identity": "Doreck's reported father and former Bridol chancellor; a past officeholder, distinct from the current replacement and intended future appointment.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U011 P291-296; U013 P234-264",
       "substantive_responsibility": "King reports death six months earlier; Dust recalls manner; Doreck recounts accompanying father. No current witnessed death or current office.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U011 P291-296; U013 P234-264; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1689,17 +1789,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Reported current Bridol chancellor",
       "identity": "Different current chancellor in the king's report, without a personal name. Not father367 or an automatically completed Doreck/Gaibil office.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U011 P296",
       "substantive_responsibility": "King says someone else now holds office; intended future Doreck appointment is not completed present office or proof this replacement is the father.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U011 P296; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1711,17 +1821,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Reported missing female marriage investigator",
       "identity": "One woman reportedly investigating the marriage before vanishing; present fate and identity remain unjoined.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U012 P95-99",
       "substantive_responsibility": "Keith report and Dust arrest conjecture do not establish present fate, culprit or death.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U012 P95-99; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1733,17 +1853,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Older resident Doreck physician",
       "identity": "Older male specialist actually brought to the dungeon from Doreck's resident care; not automatically the childhood physician.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U013 P510-525",
       "substantive_responsibility": "Actual prompt arrival and examination directive; hostage plan is not executed. Childhood physician identity unjoined.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U013 P510-525; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1755,17 +1885,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Reported childhood medical/priest care roles",
       "identity": "Past medical/priest care group in Doreck's childhood account; may overlap370. No exact professional headcount.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U013 P234-255",
       "substantive_responsibility": "Doreck recounts professional care and physician recommendation to call parents; no certified number or separation from resident physician370.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation. Potential overlap and unresolved turn mapping do not certify new unique people.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U013 P234-255; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1777,17 +1917,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Doreck parents in recalled medical summons",
       "identity": "Parent relation/group in a recalled physician summons, including possible father367. No independently named mother or additional certified parent count.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U013 P251",
       "substantive_responsibility": "Reported parent relation; overlaps father367 and supplies no separate named mother, current contact or observed consent.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation. Potential overlap and unresolved turn mapping do not certify new unique people.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U013 P251; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1799,17 +1949,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Doreck mansion gatekeepers (unresolved group)",
       "identity": "Doreck mansion gatekeeper occurrences with unresolved individual mapping; not Dust06 Axel guard343 or the inner-room pair by default.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U012 P488-500; U013 P5-18",
       "substantive_responsibility": "Day alarm and night complaints; no actor-by-actor join to Dust06 Axel guard343 or guarded-room pair.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation. Potential overlap and unresolved turn mapping do not certify new unique people.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U012 P488-500; U013 P5-18; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1821,17 +1981,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Self-described Line fan-club member number 3",
       "identity": "One wedding voice claiming Line fan-club number3; may also belong to audience group375. Membership is not independently verified.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U014 P369",
       "substantive_responsibility": "Own recognition claim identifies an occurrence, not verified membership register, formal identity or universal accuracy.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U014 P369; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1843,17 +2013,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Wedding noble audience and jealous/admiring voices",
       "identity": "Unresolved wedding noble/admiration/envy voice group, possibly including374. No composite psychology or certified consensus.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U014 P230-268,299-302,363-380,391-459,513-552",
       "substantive_responsibility": "Unresolved voice group may include member374. Reactions and false-brainwashing uptake are not independently verified consensus or a composite personality.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation. Potential overlap and unresolved turn mapping do not certify new unique people.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U014 P230-268,299-302,363-380,391-459,513-552; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1865,17 +2045,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Court magician associated with Leen borrowed-or-stolen staff",
       "identity": "Court magician/staff-ownership role associated with Keith's staff provision; person and permission remain unresolved.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U014 P440",
       "substantive_responsibility": "Provider/ownership role only; Dust cannot tell whether Keith borrowed or took it. No consent or gratitude invented.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U014 P440; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1887,17 +2077,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Royal wedding guard roles (unresolved group)",
       "identity": "Wedding royal guard occurrences, with no automatic mansion-guard join or complete headcount.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U014 P197,255-256,302-318",
       "substantive_responsibility": "Deployment, king-ordered capture and retreat are actual; no total headcount, all motives or join to mansion groups.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation. Potential overlap and unresolved turn mapping do not certify new unique people.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U014 P197,255-256,302-318; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1909,17 +2109,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Axis wedding-cart / disruption contingent",
       "identity": "Axis disruption/cart contingent; Cecily13 remains separately named. Membership and purposes are partly reported or inferred.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U013 P8-18; U014 P216-221,460,490-491",
       "substantive_responsibility": "Guards and Keith reports plus actual cart/holy-water remains; purpose and membership partly inferred. Cecily remains separately named.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation. Potential overlap and unresolved turn mapping do not certify new unique people.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U013 P8-18; U014 P216-221,460,490-491; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1931,17 +2141,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Dust reported parents / family after loss of nobility",
       "identity": "Dust's reported family/parents after loss of nobility; unjoined to helmeted noble parents356 and other families.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U010 P521-524",
       "substantive_responsibility": "Dust says no contact and hopes they manage; no known whereabouts, new noble status or identity with helmeted noble parents356.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U010 P521-524; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1953,17 +2173,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Earlier foreign princely intended groom (Dust continuation account)",
       "identity": "Reported earlier foreign princely intended groom, distinct from current domestic Doreck; no automatic Levi/Jatice join.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U011 P283-289",
       "substantive_responsibility": "Prior foreign match differs from current domestic Doreck. No automatic Levi/Jatice/other-prince join.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U011 P283-289; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1975,17 +2205,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Two retinue dragons accompanying rival and junior (unresolved individuals)",
       "identity": "Two dragons accompanying the rival and junior; individual rider/dragon mapping remains unresolved. No animal-based tier ceiling or composite mind.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST06 U013 P501-503,550-587",
       "substantive_responsibility": "Fly and carefully carry unconscious riders down. Personal mapping and wider individual evidence are missing; tier is not an animal ceiling or proof of identical minds.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation. Potential overlap and unresolved turn mapping do not certify new unique people.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST06 U013 P501-503,550-587; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -1997,17 +2237,27 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
     },
     {
       "character": "Other Doreck household staff in information/distraction accounts",
       "identity": "Other Doreck household staff occurrences in information/distraction accounts; may overlap already indexed guards and professionals.",
-      "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
-      "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse identity/access index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort40 bounded author publication complete;continuing full program.",
       "evidence_distribution": "DUST-CONT U012 P470-510; U013 P23,57,64,97",
       "substantive_responsibility": "Reported/observed staff roles overlap gate/guard/professional records; no certified population, unanimous opinions or added independently named people.",
       "gaps": "Evidence remains source-bound and access-layered; no invented name, actor-specific mechanism, complete voice or independent observation. Potential overlap and unresolved turn mapping do not certify new unique people.",
-      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT40_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "DUST-CONT U012 P470-510; U013 P23,57,64,97; consult the individual profile, index and current precision qualifications for observed/reported/inferred limits.",
       "proposed_tier": 0,
@@ -2019,7 +2269,311 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
       ],
-      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea"
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "prior_cohort40_publication_fields": {
+        "likely_tier": "0 scoped; sparse identity/access index; exact publication pending",
+        "priority": "Cohort40 scoped source-role receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort40_publication_resolution": {
+        "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890"
+      }
+    },
+    {
+      "character": "Female laboratory colleague in scientist journals",
+      "identity": "Reported colleague role within MAIN02/05joined-writer records;no personal name. Continuity of every female colleague occurrence remains unresolved.",
+      "likely_tier": "1 scoped; compact reported-role or individual profile; publication pending",
+      "priority": "Cohort41 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "MAIN02U018P480/494;MAIN05U027P291/296/319",
+      "substantive_responsibility": "Own reported challenge,force,argument,fear and naming criticism remain separate from scientist interests.",
+      "gaps": "Interested documentary access;no full independent viewpoint,technical competence,romance,universal cruelty or unproved one-woman count.",
+      "disposition_status": "SCOPED_TIER1_COHORT41_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort41_source_known": true,
+      "cohort41_unique_person_denominator": false,
+      "cohort41_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-41--documentary-colleagues-and-encounter-partners"
+      ],
+      "cohort41_semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
+      "cohort41_current_receiving": "Source-bound interpretation received;exact publication pending. Candidate trio routes remain unfinished rather than receiving a false sparse or full-personality tier."
+    },
+    {
+      "character": "State project officials in historical scientist journals",
+      "identity": "Reported senior officials/project-demand roles;can overlap king or other institutional actors.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort41 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "MAIN02U018P480-490;MAIN05U027P284-331",
+      "substantive_responsibility": "Assign work and resources,decline exits or proposals,accept accounts and reward projects in writer report.",
+      "gaps": "No complete institution chart,independent sanctions/legal audit or globally disjoint headcount.",
+      "disposition_status": "SCOPED_TIER0_COHORT41_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort41_source_known": true,
+      "cohort41_unique_person_denominator": false,
+      "cohort41_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-41--documentary-colleagues-and-encounter-partners"
+      ],
+      "cohort41_semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
+      "cohort41_current_receiving": "Source-bound interpretation received;exact publication pending. Candidate trio routes remain unfinished rather than receiving a false sparse or full-personality tier."
+    },
+    {
+      "character": "Noise king named in Destroyer scientist grievance",
+      "identity": "Country king referenced by historical writer;not source-bound Bridol/Belzerg monarchs.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort41 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "MAIN02U018P494 within complete local journal480-496",
+      "substantive_responsibility": "Writer explicitly directs resentment at king among others.",
+      "gaps": "No directly witnessed speech,individual command,full biography or separate-from-all-officials person-count proof.",
+      "disposition_status": "SCOPED_TIER0_COHORT41_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort41_source_known": true,
+      "cohort41_unique_person_denominator": false,
+      "cohort41_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-41--documentary-colleagues-and-encounter-partners"
+      ],
+      "cohort41_semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
+      "cohort41_current_receiving": "Source-bound interpretation received;exact publication pending. Candidate trio routes remain unfinished rather than receiving a false sparse or full-personality tier."
+    },
+    {
+      "character": "Reported modification volunteers / original Crimson cohort",
+      "identity": "Unresolved historical volunteer group in scientist journal;not individually equated with current named Crimson villagers.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort41 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "MAIN05U027P315-319",
+      "substantive_responsibility": "Writer reports applicants own red-eye/serial-number preferences,requests for names,and completed modification/naming.",
+      "gaps": "No exact population,individual mapping,watched informed-consent procedure or source proof risks were actually disclosed.",
+      "disposition_status": "SCOPED_TIER0_COHORT41_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort41_source_known": true,
+      "cohort41_unique_person_denominator": false,
+      "cohort41_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-41--documentary-colleagues-and-encounter-partners"
+      ],
+      "cohort41_semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
+      "cohort41_current_receiving": "Source-bound interpretation received;exact publication pending. Candidate trio routes remain unfinished rather than receiving a false sparse or full-personality tier."
+    },
+    {
+      "character": "Primo garden Tranquility Girls (YORI03 group)",
+      "identity": "Many plants at Primo property;no individual join to MAIN05,DUST03,MAIN11or MAIN13/14plants.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort41 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI03U014P328-332",
+      "substantive_responsibility": "Garden presence and herbicide request are directly narrated/voiced;no plant own speech in window.",
+      "gaps": "No exact number,uniform preference,completed eradication or inferred shared personality.",
+      "disposition_status": "SCOPED_TIER0_COHORT41_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort41_source_known": true,
+      "cohort41_unique_person_denominator": false,
+      "cohort41_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-41--documentary-colleagues-and-encounter-partners"
+      ],
+      "cohort41_semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
+      "cohort41_current_receiving": "Source-bound interpretation received;exact publication pending. Candidate trio routes remain unfinished rather than receiving a false sparse or full-personality tier."
+    },
+    {
+      "character": "Earl Prelude / プレリュード伯爵",
+      "identity": "Named YORI03inspectee;Latin label working reading;separate local route from Calpas,Primo,Sumeru.",
+      "likely_tier": "1 scoped; compact reported-role or individual profile; publication pending",
+      "priority": "Cohort41 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI03U014P318-320",
+      "substantive_responsibility": "Objects to surprise inspection,admits contraband and argues private enjoyment/self-responsibility.",
+      "gaps": "No verified legal exemption,full inventory,actual seizure/arrest/sentence or broader personality.",
+      "disposition_status": "SCOPED_TIER1_COHORT41_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort41_source_known": true,
+      "cohort41_unique_person_denominator": false,
+      "cohort41_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-41--documentary-colleagues-and-encounter-partners"
+      ],
+      "cohort41_semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
+      "cohort41_current_receiving": "Source-bound interpretation received;exact publication pending. Candidate trio routes remain unfinished rather than receiving a false sparse or full-personality tier."
+    },
+    {
+      "character": "Baron Calpas / カルパス男爵",
+      "identity": "Named YORI03inspectee;Latin label working reading;no automatic other-noble join.",
+      "likely_tier": "1 scoped; compact reported-role or individual profile; publication pending",
+      "priority": "Cohort41 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI03U014P321-323",
+      "substantive_responsibility": "Makes tax-triggered illness claim under search demand;treasure seizure order follows.",
+      "gaps": "Claim not actual diagnosis;order not completed seizure;no full audit or stable generative rule.",
+      "disposition_status": "SCOPED_TIER1_COHORT41_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort41_source_known": true,
+      "cohort41_unique_person_denominator": false,
+      "cohort41_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-41--documentary-colleagues-and-encounter-partners"
+      ],
+      "cohort41_semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
+      "cohort41_current_receiving": "Source-bound interpretation received;exact publication pending. Candidate trio routes remain unfinished rather than receiving a false sparse or full-personality tier."
+    },
+    {
+      "character": "Viscount Primo / プリモ子爵",
+      "identity": "Named garden-property inspectee in YORI03;Latin label working reading.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort41 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI03U014P328-332",
+      "substantive_responsibility": "Actually flees at announcement;staff undertake pursuit;many garden plants discovered.",
+      "gaps": "No observed capture,complete motive,garden management history or full outcome;no invented shared identity.",
+      "disposition_status": "SCOPED_TIER0_COHORT41_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort41_source_known": true,
+      "cohort41_unique_person_denominator": false,
+      "cohort41_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-41--documentary-colleagues-and-encounter-partners"
+      ],
+      "cohort41_semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
+      "cohort41_current_receiving": "Source-bound interpretation received;exact publication pending. Candidate trio routes remain unfinished rather than receiving a false sparse or full-personality tier."
+    },
+    {
+      "character": "Unnamed woman offering creatures during YORI03 inspections",
+      "identity": "Unintroduced woman of facility/inspection montage;no supplied personal name or other-noble alias.",
+      "likely_tier": "1 scoped; compact reported-role or individual profile; publication pending",
+      "priority": "Cohort41 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI03U014P325-326",
+      "substantive_responsibility": "Offers contraband creatures in apparent appeal to Darkness preferences;silencing/temporary-custody order follows.",
+      "gaps": "Bribe,commercial pitch and accommodation motives unresolved;no completed transfer,full business,global ownership or MAIN15guest join.",
+      "disposition_status": "SCOPED_TIER1_COHORT41_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort41_source_known": true,
+      "cohort41_unique_person_denominator": false,
+      "cohort41_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-41--documentary-colleagues-and-encounter-partners"
+      ],
+      "cohort41_semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
+      "cohort41_current_receiving": "Source-bound interpretation received;exact publication pending. Candidate trio routes remain unfinished rather than receiving a false sparse or full-personality tier."
+    },
+    {
+      "character": "Other MAIN15 bonus restaurant diners",
+      "identity": "Unresolved surrounding-diner group;no exact count or identity mapping.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort41 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "MAIN15U021P39",
+      "substantive_responsibility": "Directly described noticing Kazuma face-washing.",
+      "gaps": "No own speech,private judgment,expulsion action or automatic restaurant-staff identities.",
+      "disposition_status": "SCOPED_TIER0_COHORT41_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort41_source_known": true,
+      "cohort41_unique_person_denominator": false,
+      "cohort41_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-41--documentary-colleagues-and-encounter-partners"
+      ],
+      "cohort41_semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
+      "cohort41_current_receiving": "Source-bound interpretation received;exact publication pending. Candidate trio routes remain unfinished rather than receiving a false sparse or full-personality tier."
+    },
+    {
+      "character": "MAIN02 crisis-meeting questioning adventurers",
+      "identity": "Two locally distinguished question occurrences;global joins to named adventurers unproved.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort41 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "MAIN02U018P97-105",
+      "substantive_responsibility": "One asks about maker country/weakness;another proposes pit strategy;guild supplies prior failure report.",
+      "gaps": "Do not assign to Rex/other named actors,claim actual new implementation or turn two occurrence routes into audited population.",
+      "disposition_status": "SCOPED_TIER0_COHORT41_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort41_source_known": true,
+      "cohort41_unique_person_denominator": false,
+      "cohort41_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-41--documentary-colleagues-and-encounter-partners"
+      ],
+      "cohort41_semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
+      "cohort41_current_receiving": "Source-bound interpretation received;exact publication pending. Candidate trio routes remain unfinished rather than receiving a false sparse or full-personality tier."
+    },
+    {
+      "character": "Country residents apparently escaped in Destroyer journal",
+      "identity": "Historical group described in writer last entry;may include officials/king/colleagues.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort41 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "MAIN02U018P496",
+      "substantive_responsibility": "Writer says people seem to have fled after country destruction.",
+      "gaps": "Attributed apparent escape is not witnessed universal survival,complete casualty census or separate new-person count.",
+      "disposition_status": "SCOPED_TIER0_COHORT41_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort41_source_known": true,
+      "cohort41_unique_person_denominator": false,
+      "cohort41_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-41--documentary-colleagues-and-encounter-partners"
+      ],
+      "cohort41_semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
+      "cohort41_current_receiving": "Source-bound interpretation received;exact publication pending. Candidate trio routes remain unfinished rather than receiving a false sparse or full-personality tier."
+    },
+    {
+      "character": "Criminal chief in DUST02/03 dungeon and lake sequence",
+      "identity": "Source-bound chief with current prior-Leen-abduction and previous-cooperation references;full DUST01native joining review remains due.",
+      "likely_tier": "1–2 candidate; substantive evidence retained; complete source/individual mapping review due",
+      "priority": "Cohort41 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "DUST02U015P301-546/U016P17-18;DUST03U011P708-738",
+      "substantive_responsibility": "Keeps orb for apparent benefits,threatens,conceals placement,resists disclosure,then helps rescue/guards bodies;later obstructs lake coalition and submits under dream threat. Past abduction and harmful preferences retained.",
+      "gaps": "Do not reduce substantial agency to sparse stereotype,assume later useful acts erase abduction,authenticate all self-reports or claim full individual model before complete mapping.",
+      "disposition_status": "SUBSTANTIVE_DISCOVERY_COHORT41_FULL_IDENTITY_REVIEW_DUE",
+      "independent_observation_count": null,
+      "cohort41_source_known": true,
+      "cohort41_unique_person_denominator": false,
+      "cohort41_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-41--documentary-colleagues-and-encounter-partners"
+      ],
+      "cohort41_semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
+      "cohort41_current_receiving": "Source-bound interpretation received;exact publication pending. Candidate trio routes remain unfinished rather than receiving a false sparse or full-personality tier."
+    },
+    {
+      "character": "Two-subordinate route in DUST02/03 criminal trio",
+      "identity": "Unresolved pair/untagged-subordinate occurrences;some distinct current acts but cross-turn individual mapping incomplete.",
+      "likely_tier": "1–2 candidate; substantive evidence retained; complete source/individual mapping review due",
+      "priority": "Cohort41 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "DUST02U015P303-546/U016P17;DUST03U011P709-738",
+      "substantive_responsibility": "Warning-reading contribution,opposed/qualified desires,rescue carrying,physical shielding and reward-supported aid remain attributed at exact local turn scope.",
+      "gaps": "Do not merge all subordinate turns into one personality or automatically map red-warning,pony-tail and exposed-subordinate roles. Full DUST01and current individual mapping due;pair is not two newly proved global people.",
+      "disposition_status": "SUBSTANTIVE_DISCOVERY_COHORT41_FULL_IDENTITY_REVIEW_DUE",
+      "independent_observation_count": null,
+      "cohort41_source_known": true,
+      "cohort41_unique_person_denominator": false,
+      "cohort41_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-41--documentary-colleagues-and-encounter-partners"
+      ],
+      "cohort41_semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
+      "cohort41_current_receiving": "Source-bound interpretation received;exact publication pending. Candidate trio routes remain unfinished rather than receiving a false sparse or full-personality tier."
     }
   ]
 }

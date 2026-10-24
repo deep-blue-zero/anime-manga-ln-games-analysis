@@ -631,3 +631,10 @@ Three one-rule foundations froze before exact inputs;twelve actual original firs
 Three foundations/five rules froze before exact inputs. Twelve actual original Japanese-plus-English responses/six dependent pairs were authored once after actual input receiving and sealed before feedback. Doreck phase/means,butler authority/stakes and workload,and Gaibil reward/commission contrasts retain generic and bundled rivals. GAI-A1written-reading ambiguity,B1spatial topic andB2debt framing remain calibrated qualifications. Zero clean independent mechanism isolations,regenerations,post-first repairs,accuracy,grade,confidence gain,acoustic or final-battery credit.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+Scientist monograph/model/two rules froze after17complete review pages plus2correction pages,before exact inputs. Four exact inputs/pre-first plan were received,then four direct original Japanese first bodies were authored once and sealed before feedback. Two dependent contrasts show directional compatibility only. A1public prototype ambiguity,A2unbound notification frame,B1effort-only branch andB2residual-two-hours issue remain;zero model/body repair,independent trials,character-mechanism isolation,scalar accuracy,grade,confidence gain,acoustic certification or final-battery credit.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

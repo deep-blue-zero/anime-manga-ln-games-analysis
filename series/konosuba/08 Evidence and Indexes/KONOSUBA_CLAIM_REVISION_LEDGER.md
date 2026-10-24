@@ -484,3 +484,10 @@ CR-C39-SPEAKER01 CORRECT:ogre salary remark is not Rouzeri reason. CR-C39-STATUS
 CR-C40-IDENTITY01 CORRECT:real Doreck versus Gaibil groom;Rionor visitor versus Leen bride. CR-C40-WILL02 QUALIFY:private willing contract conflicts with public brainwashing. CR-C40-HARM03 RETAIN:no-killing rhetoric does not erase coercion/shock/danger. CR-C40-KING04 RETAIN:king offers Feit;Dust refuses. CR-C40-BUTLER05 QUALIFY:positiveDust05–06–continuation recurrence,other butlers unjoined. CR-C40-MAID06 QUALIFY:former-thief mapping unknown;P552pay turn pair-level. CR-C40-TEST07 RETAIN:12originals andGAI-A1/B1/B2qualifications unchanged;body compliance distinct from causal isolation.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+C41retains earlier histories while current source receiving qualifies unnamed routes. Row133joins MAIN02/05byexplicit recognition;Dust02inventor andMoguninnin master remain unresolved. Lake versus earlier roadside plant positively distinguished;no plant-species merge. Initial row142tentative route withdrawn as unrelated existing priest. Corrected coverage link andpre-disposition timing qualification31precede model/input freeze. No old score,null,original body,model or uncoded source observation is rewritten;later diagnostic ambiguities remain external findings.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
