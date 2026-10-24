@@ -1824,3 +1824,59 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Sylvia remains one subject across changing composite states. Guarded retreat,corrected identification,captive leverage,new embodiment and retaliatory pursuit are contextual transitions rather than a global coward/strategist/seducer label. The chief's stylized letter,serious retreat and provoked family outburst differ; much office material concerns Yunyun rather than his own action. Moguninnin's target,wait,damage and report states are bounded functional evidence. The courier's fear coexists with actual leading (SV25-01–SV25-14,CH25-01–CH25-08,MN25-01–MN25-08,ON25-01).
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Aigis shifts among refusal, alarm, bargaining, escape, absorbed spectatorship, deference, actual protection and renewed provocation. Who can hear it, bodily constraint, expected damage, available spectacle and the believed identity of a counterpart change the local state. Unrecognized Chris and recognized Eris are different information states of one counterpart. The contest host changes from expansive appraisal to hesitant courtesy and unsuccessful crowd control. The sisters share one encounter but retain separate possession and action attributions (AG26-01–35).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia shifts from repeated-grievance challenge to town-directed violence, technical reassessment and dependent bargaining; his own investigation explanation is distinct from verified prophecy. Hans moves from cover to direct poisoning, abandons a low-value chase and spends body material under counterattack. Serena changes public/private framing, concentrates finite control, works under costs, misreads faith and bargains under later captivity. Aloerina and Lolierina are distinct officials with different cases; the latter changes judgment after new evidence without resolving indirect causation through a truth device. The DUST07 commander combines revenge with promotion ambition and a temporary rapport before renewed lethal conflict. The three revived men retain distinct reported histories without every anonymous apology being assigned (BE27, HA27, SE27, AO27, LO27, DU27, RM27).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Alderp moves from public rank-backed pressure through private blame to fear and bargaining after lost control; sincerity of remorse is unproved (AL28). Maxwell moves from pressured service to released selective refusal and harmful collection, with no complete memory diagnosis (MX28). Ragcraft's public office, disclosure and revenge are distinct states; Levi can overrule him (RG28). Ignis's illness, recovery, parental distraction, accountability and bodily work require changing capacity states (IG28). Balter's changed attraction, Hagen's tact/insults and the unnamed guard's chosen refusal retain separate agency.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton changes aims from clearing weather for a date to acquiring a gift, preserving a favored creature and helping recover a necklace. Irritation, uncertainty, gratitude and frightened decoy work are different states (BT29). Zereschilt moves from castle control to finite-life danger, refuge and shop contribution; neither fear nor effective defense defines every situation (ZS29). Sylphina's anxiety, play, revised expectation, attachment and shy thanks retain her own agency (SY29).
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia's pre-memory competence, restored-history withdrawal, duty conflict, finite barrier and chosen return are separate states. Eating and errands continue during withdrawal; no diagnosis follows. Cielo's performance enjoyment coexists with remaining contact difficulty. Erika's confidence coexists with anxiety, shame, self-correction and care. Charlie's distress, bodily precaution and correct warning differ from Daniel's selective grief, retreat and ignored warning. The five separate monographs preserve their own agency in the selective FD continuity.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+TRPG replay construction, PC acts, player metacomment, GM adjudication and reported history remain distinct. Gilbert useful support/status/credibility conflict; Chiho health doctrine and unresolved relational reassurance; Otohime fear, actual costs and partial repair; Temiren recognition and typed competence; 21 pressure before later own belonging each receive separate monograph/model. Froger/Goran receive monographs without models. These states are not added principal-novel events or natural-player psychology.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Brad and Rosary change appraisal across the repeated dungeon contest without becoming fixed greedy fighter or fanatical priest types. Their actual contributions, errors, embarrassment and unequal bodily agency remain. The MASK leader and second worker have separate arcs: patronage negotiation and reciprocal warning versus idealized advocacy, revised danger and a qualified MAIN02 work-failure bridge. No group utterance or private narrator knowledge supplies an extra individual state.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen varies between useful-hire courtesy, comparative rivalry, commercial defense, representative apology, actual payment and reversible fear/defiance. The broad contrast supports a monograph and three unequal provisional hypotheses, not a uniform greedy-noble or helpless-victim personality. Beat and Clarice have differentiated welcoming/reassurance acts before a shared retreat; Crane has an attributed written payment rationale, and the inn woman a meaningful loss/reputation/work appeal. Sparse named adventurers and role groups remain indexes.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

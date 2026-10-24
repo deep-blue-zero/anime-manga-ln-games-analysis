@@ -1954,3 +1954,59 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Sylvia uses communication failure and apparent weapon/name evidence,then revises a mistaken identity after new performance evidence. Repeated village feints also contribute to underestimating a real threat; learning is not uniformly corrective. Trusting a disarmed captive exposes her to confinement. Chief letter convention imposes an information cost; crisis retreat supplies contrary evidence to pure spectacle. Machine target classification is not proof actual cheat ability,and MAIN15 diary-reported interference competes with a factory-original-only explanation.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Aigis responds to changing leverage yet accepts a contest lure, becomes distracted, misreads identities and admits a false undressing pretext after factual correction. Its initial failure to leave the Eris enclosure scene cannot independently prove loyalty: Kazuma conjectures that Eris resists inside. A declared mission does not automatically outweigh bodily cost or preferred service. Conditional tactics do not imply general planning success, and an imagined first mage synergy fails at actual deployment (AG26-06–18,22–25).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia updates martial appraisal but loses disrupted preparations and later head control. Hans misreads an apparent voyeur as inattentive and appeals to a noninterference agreement whose civilian exception defeats his protection; the source does not prove he never knew that exception. His successful fragment also surprises him. Serena mistakes Kazuma’s religious assumptions, overconcentrates resources and fails to elicit a valued debt from Dust. Lolierina asks useful follow-ups and corrects judgments while relying too heavily on suspect reputation, alibi gaps and a limited truth-device result. The commander recognizes unexpected strength but still faces ambition and an unfamiliar partner attack. None of these choices is rewritten as secretly optimal (BE27-01–09; HA27-01, 03–06; SE27-05–07, 15; LO27-03–07; DU27-01–03).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+AL28-09: Alderp treats a knock as delivered Darkness despite Maxwell saying nothing has been done, then releases the contract. RG28-08: Zesta's quiet bluff admission is outside Ragcraft's hearing; the inferred exposure is mistaken. BA28-02: Balter's wager interpretation conflicts with K's actual fear; false pregnancy is not true. EP28: prosecutor's device-fault assumption conflicts with the watchman's check. IG28 includes false pregnancy belief, parental distraction and surprise. Maxwell's apparent mutual-love interpretation preserves the recipient's nonconsent. Exercise MX-H02-B misreads strike as kill; IG-H02-B invents an undisputed portion. Originals remain unrepaired.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton admits unknown mechanisms, gives empowering ice advice and makes a calming display that fails. Later sunshine does not verify the toad theory. Zereschilt repeatedly misreads Darkness's failed attacks and pleasure; affect detection does not establish correct causal explanation. Barton firsts omit the underprovided scale location; ZS-H03-A accepts before errand details and assumes carrying/room visibility. All original defects remain unrepaired rather than becoming native claims.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia accepts a false Konjiro claim and treats abduction as her responsibility, while also asking useful procedural questions. Cielo's deliberate attack and participation despite Lia's no are distinct from a contact-triggered blow. Erika misreads a restraint crowd as fans, yet resists flattery after exposed harm. Charlie's leak and selective disclosure coexist with correct warnings; Daniel's possession claims and ignored glove warning remain his errors. LI-H02-A adds a current-pause explanation; CI-H02-B assumes male spectators; CI-H03-B supplies an unverified protective reason; ER-H02-B overstates absence of urgent timing; all original firsts remain unrepaired.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Core/Advanced replays retain Gilbert embellished executive report and damaged credibility, Chiho proposed illness-for-gratitude and avoidable risk, Otohime incomplete shared-danger planning and resource dependence, Temiren wishful appraisal alongside criticism, and 21 early pressured assent alongside later refusal. Goran confession is scenario-required, not a successful lie-detection roll. Original diagnostics retain N21-H01-A familiar-person overgeneralization, N21-H02-A earlier-answer presupposition andN21-H03-B unprovided injury type; OT-H03-A echoes a detailed source motive. No first is repaired into success.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Brad dismisses rank through a prank-based inference and continues to gaze despite Rosary objection. Rosary categorical hostility coexists with practical correction. The leader conceals a celebrity-access aim and corrects her Wiz category error. The small worker pressure on Luna is adverse, her courage is elicited by Vanir pride framing, and her finite-life estimate lacks the narrator full-erasure information. Six original diagnostics retain H01-B other-mind assumption, H02-A unprovided run-demand presupposition and H03-B prior-instruction assurance; no original body or foundation is repaired.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen's explanation of Darkness's repeated dress is corrected by the maternal attachment account. Her confidence in guards has a concrete barrier failure; Megumin's dropped-stone explanation remains conjecture. Darkness is cut off at U021P213, so Karen's knowledge of Kazuma's death before mockery is not established. Six original firsts retain an unprovided exhibition-ownership implication, an unprovided speaker for profitability information and an ambiguous fee-collector role. Those actual defects remain without body repair or a clean success claim.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

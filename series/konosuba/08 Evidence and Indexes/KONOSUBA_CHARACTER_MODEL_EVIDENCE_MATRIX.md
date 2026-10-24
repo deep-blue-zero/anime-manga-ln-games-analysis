@@ -1146,3 +1146,59 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Sylvia earns one Tier2 monograph; chief,Moguninnin and the new MASK courier have three compact Tier1 profiles in the existing audit. All33models/27scoped secondary model subjects are unchanged. Candidate totals are30bounded profiles,10monograph-only subjects and223nonfinal records. Three new Tier0 group/reported-role records and one courier-role profile do not prove four distinct new people. Generic strategic,family,architectural and duty rivals remain; no forced Tier3 parity or sole-evaluator readiness judgement is added.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Aigis earns a scoped Tier3 monograph and separate three-rule provisional model. AG-R01 concerns conditional service; AG-R02 concerns control-sensitive tactics and attention costs; AG-R03 concerns performed affiliation and selective reciprocity. Each has eight fields, contrary evidence, rivals and a falsifier. Three nearby people receive Tier1 compact profiles; five lower-density roles/groups/reports receive Tier0 indexing. Candidate totals are 34 models, 28 scoped secondary model subjects, 33 bounded profiles, ten monograph-only subjects and 231 nonfinal records. All 33 entering models remain exact. Eight new records are not eight proved unique people, and model maturity/global readiness remain open.
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia, Hans and Serena earn scoped Tier 3 monographs and distinct provisional generators with 3/3/4 eight-field candidates. Aloerina, Lolierina and the distinct DUST07 commander receive Tier 2 monographs because their dense contexts support individual interpretation while wider mechanisms remain underidentified. Sedol, Hains and Garil receive separate Tier 1 profiles in the maintained coverage audit. Candidate totals are 37 models, 31 scoped secondary model subjects, 36 bounded profiles, 13 monograph-only subjects and 236 nonfinal records. Four entering rows change, 227 others remain exact, and five new source-bound records do not establish a final global person denominator. No author capability grade or mature final model promotion follows.
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Alderp, Maxwell, Ragcraft and Ignis receive distinct scoped Tier 3 monographs and separate provisional three-rule generators. Aulip, Balter, Hagen, unnamed Dustiness wedding guard, Elroad prosecutor and Elroad casino manager receive twelve-dimension Tier 2 monographs without models. Ten Tier 1 profiles and fifteen Tier 0 indexes remain in the coverage audit. Candidate totals: 41 models/35 scoped secondary model subjects, 46 profiles, 19 monograph-only subjects, 264 nonfinal records. Seven entering rows change; 229 others exact; 28 new records include role/group/report entries, not 28 proved new people. First-response limitations and open final batteries prevent any mature capability claim.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton and Zereschilt have separate Tier 3 monographs and provisional four-rule models. Sylphina has a Tier 2 monograph without a model; Barbera and five occupational roles have compact Tier 1 profiles, and castle gatekeepers/guide retain a Tier 0 group index. Candidate totals are 43 models, 37 scoped secondary model subjects, 52 compact profiles, 20 monograph-only subjects and 270 nonfinal records. Six old rows change, 258 other old rows stay exact; six new scope records do not prove six globally unique people. Independent maturity and final batteries remain open.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia, Cielo and Erika have distinct Tier3 monographs and provisional four-rule models; Charlie and Daniel have Tier2 monographs without models. Seven occupational/social encounters have compact Tier1 profiles and five unresolved roles/groups retain Tier0 indexes. Candidate totals are 46 models, 40 scoped secondary model subjects, 59 compact profiles, 22 monograph-only subjects and 282 nonfinal records. Five entering rows change and 265 others remain exact; twelve new scope records are not twelve globally unique people. Source-known consistency exercises do not establish independent reliability or final maturity.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Gilbert, Suzuki Chiho, Otohime, Temiren and 21 have separate Tier 3 monographs and provisional 3/2/3/2/3 rule models. Froger/Goran have Tier 2 monographs without models. Seven Tier 1 profiles and four Tier 0 occurrence records preserve role/group/state uncertainty. Candidate totals:51 models, 45 scoped secondary model subjects, 66 profiles, 24 monograph-only subjects and 295 nonfinal records. Existing rows 37/38/163–167 change; 275 other histories stay exact in each plane. Thirteen new records are not thirteen disjoint people, and aggregate 37 adds no sixth PC/model.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Brad, Rosary and the unnamed MASK leader have separate Tier 2 monographs without invented models. The unnamed small MAIN02/MASK worker has a monograph and provisional three-rule Tier 3 reconstruction at existing 132 through a qualified event bridge. Lolisa 17 receives a route only, with frozen individual support unchanged. Eight compact profiles and fifteen Tier 0 dispositions retain unresolved roles/groups. Candidate totals 52 models, 46 scoped secondary model subjects, 74 profiles, 27 monograph-only subjects and 315 nonfinal records; eight entering rows change, 287 others exact per plane, 20 new source-bound records are not 20 disjoint people.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen Donnelly receives a twelve-dimension monograph and asymmetric three-rule provisional model. Beat, Clarice, クレイン and the unnamed inn woman receive four individual compact profiles; five sparse new name/role records remain Tier0. Existing reported MASK Karen receives only a Donnelly scope route with C32 tier/support unchanged. Candidate totals: 53 models, 47 scoped secondary model subjects, 78 profiles, 27 monograph-only subjects and 320 nonfinal records. Six entering rows change, 309 others remain exact per plane; five new records include groups/reports, not five certified disjoint people.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

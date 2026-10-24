@@ -1947,3 +1947,59 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Sylvia's アタシ,わ/わね and ボウヤ can accompany warmth,teasing or coercion; register does not identify consent or primary motive. The rough hostile turn at MAIN05p-018P668 is situational,not evidence that embodiment causes cruelty. Moguninnin's printed speech uses mixed-kana classification/project language. Kazuma's先生方 for village experts does not identify all as schoolteachers. Code-entry humor depends on recognized script/remembered command; katakana,ruby or a magic name alone does not earn a culture-dependent classification.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+The printed armor voice uses inflated introductions, appraisal, complaints, abrupt deference, counterpart-dependent address and 俺/あたい variation. These are pragmatic forms in print, not an acoustic performance or human gender diagnosis. A slang form, katakana item, pronoun shift or magic name does not alone earn L3. The announcer supplies an occupational contrast between fluent spectacle and hesitant honorific interviewing. The sisters supply bounded questions and thanks without an invented whole-person voice generator (AG26-03,06,09,14–16,20,25,28,30,33).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia’s knightly challenge, technical questions and dependent politeness are situational rather than a moral certificate. Hans’s administrative denial gives way to familiar-name exposure, appeals and threats. Serena’s public modesty, private roughness, alias admission, puppet explanation and later forced junior deference change with information and power. The two officers have separate names/offices; Lolierina’s apologies and corrections differ from Aloerina’s personal disclosure and patronage response. The commander drops honorific distance while imagining Beldia’s rank. Print supplies pragmatic evidence, not audio; ordinary register, katakana or names are not automatic L3. Eighteen English diagnostics have recurrent audit-language leakage and weakly identified distinctive voice, retained without repairs (BE27; HA27; SE27; AO27; LO27; DU27).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Alderp's printed private focalization includes both ワシ and 私; normalize neither into a universal pronoun rule. Maxwell's 僕, repeated vocatives and ヒュー forms are print, not audio, diagnosis or biological-sex proof. Balter's 僕, courteous reluctance and urgent cessation differ from Alderp. The unnamed guard's 自分 and firm literal boundary coexist with shy admonition. Ragcraft's institutional explanation and rushed defense, and Ignis's affection/assignment/threat require counterpart-sensitive register. The 24 English exercise bodies test no Japanese/audio/L3 accuracy; their analytic guardposts weaken natural performance.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton uses professor correction, familiar 君, intimate バーベラちゃん and shifts between exposition, ignorance and appeal. Zereschilt's courtesy, 少年, superior-directed honorifics, recognition-dependent names and pleas differ by counterpart. 残虐公/残虐候/着ぐるみ侯爵 and count address remain attested textual functions, not a normalized rank. Sylphina's formal introduction, role-play and private ママ permission differ from adult speech. Sixteen English firsts establish no Japanese/audio/L3 performance.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia's 私, familiar partner names, きみ, blunt antagonist refusal and brief アクア様 shift with relationship and information. Cielo's ボク, カズマさん, リアちゃん/エーリカちゃん include gentle explanation, refusal, urgency and label protest; ボク is not male-identity proof. Erika's アタシ, 可愛い frame, sharper アンタ and parent-directed パパとママ have different pragmatic jobs. Charlie's シエロちゃん and ダニエル様 differ from Daniel's formal 私/あなた and coercive claims. The 24 English methodological firsts provide no Japanese, audio, native-human or new L3 performance result.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Native スズキ・チホ/チホ governs both books; older Chio is derivative error, not rename. クラリオン・ヒート・ギルバート,御手洗音姫/みたらいおとひめ,てみれん and 21番 have separate player identities.21 この身 can mix with casual reply/refusal; manufacturing number and一頭身 are not life/head counts. Religious boasting, health judgment, requests, refusals, professional pride and practical explanation have different addressees/functions.26 English methodological firsts and marked self-reference do not validate Japanese voice, audio or L3 performance.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+ブラッド and ロザリー govern project retrieval names; P47/P49 identify occupations, not levels. Brad rough correction, Rosary prayer/protest and each worker deferential requests have different purposes. Compelled speech through Rosary is Vanir speech, while host resistance and no-looking request are hers. The leader つまらない物 repair depends on gift pragmatics. Small-worker customer address, fan pressure and whispered plea differ; later untagged pair lines remain joint. Six English methodological firsts do not validate Japanese voice, audio or human recognition.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen's カレンと申します at U021P28, 従業員に代わり at P54 and お金を生み出す at P476 have distinct self-presentation, representative-apology and commercial-redefinition functions. Beat's self-name and level-four reassurance differ from Clarice's level-two/equipment/name compliment, explicitly attached at CONTEXP02U020P104. P112–113 exclamations stay unassigned. The payment sentence attributed to クレイン is a note read by Cecily, not a heard personal voice. アーシェア is the complete native name; アーシェ was a prefix lead. Six polished English probes do not validate Japanese or audio.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
