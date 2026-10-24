@@ -1,0 +1,205 @@
+{
+  "schema": "konosuba.character-reconstruction.first-output-annotations.v1",
+  "generation": "KAREN_DONNELLY_EXPANDED_V1",
+  "recorded_utc": "2026-10-24T10:35:06.687089+00:00",
+  "foundation_seal_sha256": "acc4e8feb8c2401662e646c38d7b92472f9359c71802bd2ebb1fb13d34635cbd",
+  "inputs_sha256": "6cdcd7260dc0319165e500c233807f0e1c7bc24f5ee2b9963aebd0d78182f6fc",
+  "original_first_body_freeze_sha256": "c467307506047789b68366a7ba5b0c7d61f51ffb62067a0d918e00e664cb652a",
+  "first_output_bundle_sha256": "dafbe945317813679b910c40f3cdca6d1ed6a06ebf664bb646b2edc5e686f79e",
+  "annotations": [
+    {
+      "case_id": "KD-H01-A",
+      "rule_id": "KD-R01",
+      "original_body_sha256": "892d93bcbe3b2e9307d37441852705a4487090209335016c14cdbb72ab671fdb",
+      "original_receipt_sha256": "11cc07b83288b9c371547e2ce6444a9affcec7dce0774f43d82f2fd716d43181",
+      "actual_original_tool_chunk": "280745",
+      "words": 101,
+      "format_80_to_140_words": true,
+      "source_compatible_observations": [
+        "Practical acceptance, explicit agreed price and praise for useful skill fit the supplied nonrival context.",
+        "No completed payment or Mira response is invented."
+      ],
+      "adverse_or_unprovided_details_and_limits": [
+        "The orderly confirmation/checking language may be more procedural and uniformly prudent than Karen source speech.",
+        "The threatened disappearance of the slot is a prospective concern she voices, not a supplied actual withdrawal; do not count it as new fact."
+      ],
+      "qualified_judgment": "Source-compatible selective presentation in a strongly cued invented scene; generic business etiquette remains sufficient.",
+      "binary_prediction_score": null,
+      "Japanese_voice_validation": false,
+      "independent_accuracy_result": null,
+      "regeneration_or_feedback_repair": 0
+    },
+    {
+      "case_id": "KD-H01-B",
+      "rule_id": "KD-R01",
+      "original_body_sha256": "6759840db4a3cac9a3e14aa48e3e3cfe106e5f9668c5e9ce713221c667c95fb4",
+      "original_receipt_sha256": "5e4aec27ecc9192cbe2512007f0180555b4ca9aa915e9cc3605ca4f4eca2bd0d",
+      "actual_original_tool_chunk": "7383ba",
+      "words": 101,
+      "format_80_to_140_words": true,
+      "source_compatible_observations": [
+        "A pedigree countertaunt appears while Karen preserves the useful transaction and agreed price.",
+        "No total business abandonment is manufactured to create an opposite outcome."
+      ],
+      "adverse_or_unprovided_details_and_limits": [
+        "Whose exhibition presupposes ownership of the exhibition; the prompt only gave Karen a need for cards at a trade exhibition. This unprovided ownership implication is not certified.",
+        "The polished final pedigree/card quip may amplify witty-villain convention and echo the source status contest rather than establish novel voice."
+      ],
+      "qualified_judgment": "Contrast fits the proposed relationship/state distinction, with an unprovided ownership presupposition and strong generic/source-echo rivals.",
+      "binary_prediction_score": null,
+      "Japanese_voice_validation": false,
+      "independent_accuracy_result": null,
+      "regeneration_or_feedback_repair": 0
+    },
+    {
+      "case_id": "KD-H02-A",
+      "rule_id": "KD-R02",
+      "original_body_sha256": "f61addb8736b291ac2c5f1e956ba137326ea6b4aa72dd9607a9e014e8c3e35de",
+      "original_receipt_sha256": "b78cc89fc0cd2bbb53d2c6f5c74af36634fcd2b28599c8ba7d3797bb06e5ee5f",
+      "actual_original_tool_chunk": "a53829",
+      "words": 105,
+      "format_80_to_140_words": true,
+      "source_compatible_observations": [
+        "The received replacement inconvenience is acknowledged but does not cancel the sale.",
+        "Her justification foregrounds margin and externally borne replacement expense; no previous buyer consent is asserted."
+      ],
+      "adverse_or_unprovided_details_and_limits": [
+        "The instruction to make charges clear is a newly proposed practice. It is allowed as an action but not evidence that source Karen reliably follows informed-disclosure norms.",
+        "Risk-management phrasing can make the output more conscientious than source behavior; ordinary commercial self-interest explains it."
+      ],
+      "qualified_judgment": "Compatible profit defense under known external cost; no independent identification of a Karen-specific mechanism.",
+      "binary_prediction_score": null,
+      "Japanese_voice_validation": false,
+      "independent_accuracy_result": null,
+      "regeneration_or_feedback_repair": 0
+    },
+    {
+      "case_id": "KD-H02-B",
+      "rule_id": "KD-R02",
+      "original_body_sha256": "0ccf2bbe408f7879d0b6ff07f640b25d5b949c9f63557eb99983146f37a4a3d9",
+      "original_receipt_sha256": "4ca844364f7d1b2ee2ae87fdb240d59b6dbcfeb814b8bb88fa7e72fc6ac2410d",
+      "actual_original_tool_chunk": "7628e8",
+      "words": 105,
+      "format_80_to_140_words": true,
+      "source_compatible_observations": [
+        "Donnelly replacement expense is represented as her own cost rather than falsely assigned to buyers.",
+        "Sale is still approved, as permitted by the pre-first asymmetric expectation; a fabricated required cancellation is not imposed."
+      ],
+      "adverse_or_unprovided_details_and_limits": [
+        "You say attributes the profitability assurance to the addressed clerk, though the prompt only said Karen had been shown it and knew the sale remained profitable. The source of that knowledge is unprovided.",
+        "Paying twice and handsome first figure are Karen rhetorical framing, not a verified accounting error or supplied double-charge fact.",
+        "The response is a conspicuously orderly commercial plan; realistic transfer and Japanese voice are not established."
+      ],
+      "qualified_judgment": "Limited cost-representation probe with an unsupported information-source attribution; identical approval is not a failed prebound opposite prediction.",
+      "binary_prediction_score": null,
+      "Japanese_voice_validation": false,
+      "independent_accuracy_result": null,
+      "regeneration_or_feedback_repair": 0
+    },
+    {
+      "case_id": "KD-H03-A",
+      "rule_id": "KD-R03",
+      "original_body_sha256": "2b4a38814fc2182577d8721b28d6daf2f76dbc0f763ac680bd505d359fd47506",
+      "original_receipt_sha256": "786083dac33ef7a5ff853bf32126eb8b391187741a45350ee81181c639b57c98",
+      "actual_original_tool_chunk": "9b22b2",
+      "words": 102,
+      "format_80_to_140_words": true,
+      "source_compatible_observations": [
+        "Karen reads the supplied harmless-water state and continues resistance with guard/institutional language.",
+        "No spill, immediate rescue, legal victory or Leon response is completed."
+      ],
+      "adverse_or_unprovided_details_and_limits": [
+        "Collection method risks reversing or obscuring the roles: Karen asserts a fee, while Leon demands its withdrawal. A charitable irony reading cannot be certified as the intended correct account.",
+        "The visitors are supplied, but their future interpretation/testimony is not. Her louder address does not establish their agreement.",
+        "Mild wetting differs from the source severe danger/humiliation; polished sarcasm is not validated source voice."
+      ],
+      "qualified_judgment": "Retain a substantive actor/object framing ambiguity. This is not a clean full-constraint success even though the broad resistance direction appears.",
+      "binary_prediction_score": null,
+      "Japanese_voice_validation": false,
+      "independent_accuracy_result": null,
+      "regeneration_or_feedback_repair": 0
+    },
+    {
+      "case_id": "KD-H03-B",
+      "rule_id": "KD-R03",
+      "original_body_sha256": "68bacc44af2481e685483e281c1188b47f4fc258340cf06b9b1688432d90ee51",
+      "original_receipt_sha256": "872d6c92c9ebf896d153706168fe41a330d669b4bcb1b16416dd0b099e684d9f",
+      "actual_original_tool_chunk": "52c2fa",
+      "words": 104,
+      "format_80_to_140_words": true,
+      "source_compatible_observations": [
+        "The believed dye damage prompts alarm and an explicit temporary withdrawal of the fee.",
+        "A remaining rebuke coexists with fear; the response does not claim remorse, permanent submission or a completed rescue."
+      ],
+      "adverse_or_unprovided_details_and_limits": [
+        "The credible immediate property-loss cue is extremely explicit and ordinary fear/strategic concession fit many people.",
+        "The neat statement about permission to threaten may be overarticulate compared with the source abrupt placation.",
+        "No subsequent return to defiance after actually restored protection is observed; the spoken reservation is not that completed branch."
+      ],
+      "qualified_judgment": "Directionally compatible weak nonsexual analogue with generic fear and cueing unresolved; not equivalent testing of source bodily danger.",
+      "binary_prediction_score": null,
+      "Japanese_voice_validation": false,
+      "independent_accuracy_result": null,
+      "regeneration_or_feedback_repair": 0
+    }
+  ],
+  "pair_comparisons": [
+    {
+      "pair_id": "KD-H01",
+      "rule_id": "KD-R01",
+      "cases": [
+        "KD-H01-A",
+        "KD-H01-B"
+      ],
+      "observed_contrast": "Formal practical cooperation becomes a pedigree countertaunt while the transaction is retained.",
+      "retained_limits": "Familiar-rival state and remark both change. B adds an unprovided exhibition-ownership implication. Source echo and generic business/snobbery remain; no independent causal effect or voice confirmation."
+    },
+    {
+      "pair_id": "KD-H02",
+      "rule_id": "KD-R02",
+      "cases": [
+        "KD-H02-A",
+        "KD-H02-B"
+      ],
+      "observed_contrast": "Both approve the profitable sale; A emphasizes buyer-borne expense, B explicitly manages Donnelly expense.",
+      "retained_limits": "No cancellation was prebound. B assigns the assurance to an unprovided speaker and its accounting metaphor is not verified. A proposed disclosure does not prove source ethics. Generic commercial reasoning remains sufficient."
+    },
+    {
+      "pair_id": "KD-H03",
+      "rule_id": "KD-R03",
+      "cases": [
+        "KD-H03-A",
+        "KD-H03-B"
+      ],
+      "observed_contrast": "Water condition retains threats/resistance; dye condition adds alarm and temporary concession.",
+      "retained_limits": "A has a fee-collector role ambiguity, so no clean full-constraint success. Risk and expected answer are heavily cued; nonsexual property stakes are weaker than source danger; no later actually restored-protection branch is tested."
+    }
+  ],
+  "original_firsts_preserved": 6,
+  "dependent_pairs": 3,
+  "rule_hypotheses": 3,
+  "all_firsts_included_without_selection": true,
+  "all_failures_preserved_without_feedback_repair": true,
+  "global_findings": [
+    "All six preserve the requested broad state contrast in some form, but this is not six validated predictions or three independently confirmed rules.",
+    "H01B ownership presupposition, H02B assurance-speaker attribution and H03A role ambiguity remain actual output defects/limits.",
+    "All cases are source-known, same-root and contrast-visible; narrative and expected-answer cueing are strong.",
+    "English outputs are polished and repeatedly procedural/witty; source voice, cultural adequacy, affective realism and ordinary transfer are not independently measured.",
+    "The strongest source claims remain actual Karen reception/payment/lending/profit/threat scenes. Diagnostics do not increase that source authority.",
+    "No frozen model, original body, earlier scorecard or forecast blank is repaired or retuned."
+  ],
+  "source_known": true,
+  "same_informed_root_authors_inputs_firsts_and_assessments": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "external_model_calls": 0,
+  "independent_trial_count": 0,
+  "regeneration_or_feedback_repair": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "mature_readiness_claim": false,
+  "final_nine_category_battery_complete": false,
+  "original_six_StageD_successors_completed_by_this": false,
+  "full_program_complete": false
+}

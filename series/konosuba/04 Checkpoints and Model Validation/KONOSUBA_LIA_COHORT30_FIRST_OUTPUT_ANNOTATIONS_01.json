@@ -1,0 +1,150 @@
+{
+  "schema": "konosuba.cohort30.same-author-first-output-annotations.v1",
+  "subject": "Lia",
+  "recorded_utc": "2026-10-24T05:24:45.244163+00:00",
+  "annotated_after_all24_body_freeze_sha256": "ca402376d1cb9db19faa7a8e5d77980ad53d660b290965ae65053920b8758464",
+  "first_output_aggregation_sha256": "e49e1feb30e694d7ee82e037a0bf5220fbd53c6c717c1a94529afa53ad7c59f9",
+  "foundation_seal_sha256": "d732ece2042e585a2801246830d9ad875fbeb0070064068ed98a82f661ccef70",
+  "exact_input_freeze_sha256": "8eea093ea2e54917c2d33f9ee273aba7f66b7611be9c9c2cdaaa13fc3c00e0d7",
+  "same_informed_root_author": true,
+  "independent_judge": false,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "global_method_limits": [
+    "This same informed root authored source interpretation,models,exact prompts,original outputs andannotations;allcontrasts visible.",
+    "Strong cues,generic rivals and methodological English prose limit identification. No Japanese voice/audio/native-human assessment.",
+    "Internal reasoning phrases and boundary disclaimers are authorial exposition,not demonstrated source speech. Apparent consistency is not independent accuracy.",
+    "No prospective unread source,no blind holdout,no grade/confidence gain,no completed nine-category final battery.",
+    "All unsupported additions,overidealized choices and adverse overrides remain in immutable first bodies; no regeneration or feedback repair."
+  ],
+  "cases": [
+    {
+      "case_id": "LI-H01-A",
+      "raw_body_sha256": "13a63cc1c2569a5d30e72c12ab9815d042da129d2c68ec55fd0a3f931b8d46c9",
+      "descriptive_receiving": "Duty appraisal selects the unstaffed watch and bears rehearsal cost; does not pretend a partner accepted the plan.",
+      "limits_and_unprovided_additions": "No actual gate result is supplied. Claimed responsibility remains Lia belief, not a proven cause.",
+      "word_count": 107,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "LI-H01-B",
+      "raw_body_sha256": "191c7583ed99f489e1e0bc59fcec6cca76640f2ff21de85a76ef4a567b4e7c04",
+      "descriptive_receiving": "Actual substitute availability allows returning toward rehearsal while worry persists.",
+      "limits_and_unprovided_additions": "Generic substitution and task responsibility explain the contrast; does not validate a unique guilt threshold.",
+      "word_count": 111,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "LI-H02-A",
+      "raw_body_sha256": "e185d7c326064506d48833358d3ced8a99d116c615ae4244329e014de0fe6a7b",
+      "descriptive_receiving": "Particular partners elicit warmer acceptance of one rehearsal; no reply or permanent reunion generated.",
+      "limits_and_unprovided_additions": "The line about turning a simple wish into something she must justify adds an explanation of the current pause that the prompt did not supply. Historical source supports that theme, not this new episode cause. Self-aware clarity may idealize the character.",
+      "word_count": 109,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "LI-H02-B",
+      "raw_body_sha256": "ff505e0a63fa244f45ec877daf6150bf68ff85d03ab7bb5ce2f52b4ac032e94e",
+      "descriptive_receiving": "Accepts a bounded opportunity while asking about unfamiliar collaborators; does not call them Axel Hearts.",
+      "limits_and_unprovided_additions": "Both variants accept, so emotional wording and a question do not isolate particular belonging from generic familiarity or ordinary politeness.",
+      "word_count": 111,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "LI-H03-A",
+      "raw_body_sha256": "e18910a8578330e9a1e224b36e4dc3f70dc3f8df43a110886e6ff37f3d4156ec",
+      "descriptive_receiving": "Attachment draws an impulse to rush, then a room check without a finding; toy not animated.",
+      "limits_and_unprovided_additions": "The output supplies a plausible memory-informed pause, not an observed learned skill. Explicit previous manipulation, ample daylight and absence of corroboration strongly cue caution; this does not test the original voice-trap threshold.",
+      "word_count": 108,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "LI-H03-B",
+      "raw_body_sha256": "57fc9d61cb0e07804834b61c2d6cf5861c14ca3bfa82ca6119bf2c4a8e25d3f6",
+      "descriptive_receiving": "Visible Konjiro defeats the note claim; no captor identity or unrelated safety outcome inferred.",
+      "limits_and_unprovided_additions": "Ordinary direct disconfirmation explains the refusal. No independent result on attachment or future deception resistance follows.",
+      "word_count": 110,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "LI-H04-A",
+      "raw_body_sha256": "4267d46e63e683aafb956fe27a3a07d3cb86dcae8d575e2c569852f769e38916",
+      "descriptive_receiving": "Begins only the explicitly stipulated trained movement and stops before latch/pin result.",
+      "limits_and_unprovided_additions": "Procedure and familiarity were handed to the generator. This is task-scope discipline, not evidence of natural engineering expertise or a uniquely Lia response.",
+      "word_count": 106,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "LI-H04-B",
+      "raw_body_sha256": "faa50745bf9d54ed5f54b2972f0e5825b73a419f68a0f723758ca3554739060e",
+      "descriptive_receiving": "Opens the instruction card without inventing its contents or completed task.",
+      "limits_and_unprovided_additions": "Generic safe information seeking fits equally. The contrast does not show durable care in housekeeping, resource use or a hazardous unfamiliar domain.",
+      "word_count": 109,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    }
+  ],
+  "paired_descriptive_findings": [
+    {
+      "pair_id": "LI-H01",
+      "finding": "A chooses watch; B heads toward rehearsal with a substitute present. Actual responsibility and opportunity differ with availability, leaving generic task allocation unresolved."
+    },
+    {
+      "pair_id": "LI-H02",
+      "finding": "Both accept one rehearsal. Warmth/identity language differs, but particularity versus generic familiarity is not isolated; A adds a current-pause explanation."
+    },
+    {
+      "pair_id": "LI-H03",
+      "finding": "Both interrupt blind compliance; B has direct disconfirmation. A new check is plausible under strong cues, not measured learning or a replication of the source trap."
+    },
+    {
+      "pair_id": "LI-H04",
+      "finding": "Provided training yields an instructed movement; withheld procedure yields opening a card. Generic competent information use suffices; no canon ability is added."
+    }
+  ],
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "full_program_complete": false
+}

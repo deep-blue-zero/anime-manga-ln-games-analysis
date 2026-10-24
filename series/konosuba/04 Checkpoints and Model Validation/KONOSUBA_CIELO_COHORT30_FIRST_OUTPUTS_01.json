@@ -1,0 +1,102 @@
+{
+  "schema": "konosuba.cohort30.actual-original-first-outputs.v1",
+  "subject": "Cielo",
+  "recorded_utc": "2026-10-24T05:24:45.244163+00:00",
+  "foundation_seal_sha256": "d732ece2042e585a2801246830d9ad875fbeb0070064068ed98a82f661ccef70",
+  "exact_input_freeze_sha256": "8eea093ea2e54917c2d33f9ee273aba7f66b7611be9c9c2cdaaa13fc3c00e0d7",
+  "scenario_inputs_sha256": "f286784fc960ec045bb588950a6db2deb7da48e612afb530e63acd54181309e5",
+  "original_body_freeze_sha256": "ca402376d1cb9db19faa7a8e5d77980ad53d660b290965ae65053920b8758464",
+  "responses": [
+    {
+      "case_id": "CI-H01-A",
+      "exact_prompt_sha256": "0d116d9e388a13513b4deff5384fcb2acd81cfa751cc0e3d4c7f69c290240e0d",
+      "response_text": "Cielo is still uneasy about the visitor, but he has asked for the procedure she actually chose and has not approached. Keeping that distinction lets her offer participation without pretending that the difficulty has disappeared.\n\n\"Yes... with all the protection left exactly as it is, please. I want to take part, but this is the way I agreed to do it. We do not need to change it to make the handshake count.\"\n\nShe checks that the layers remain in place and holds her protected hand ready, leaving the distance for the next agreed step. No handshake, successful tolerance, cure or movement by the visitor has yet occurred.\n",
+      "raw_body_sha256": "5f94d288f4d6ec500566b077c6ef207997028d397ad0a3fbf3676159979b67f9",
+      "original_receipt_sha256": "c7a450917298f4f3619d30fe69b8624acf4b0289b8ac0ca0671ed206b4b29c3a",
+      "original_body_file": "COHORT30_FIRST_BODY_CI-H01-A_01.txt",
+      "actual_complete_delivery_tool_chunk": "0f4179",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "CI-H01-B",
+      "exact_prompt_sha256": "180674a14abb3b6a77ae89ea0ca96a505d83977edb95c0727d0acbe445c264df",
+      "response_text": "The request changes the condition Cielo accepted. His politeness and the lack of contact give her room to answer, but neither obliges her to surrender the protection. Alarm need not become an invented attack against someone still standing away.\n\n\"No, please leave the protection on. I said I would do it this way, not with my bare hand. I can still greet you without changing that. Wanting to get better does not mean I can do everything today.\"\n\nShe draws her hand back toward herself and waits at the existing distance. She has refused the changed request; she does not strike him or supply a later violation or apology.\n",
+      "raw_body_sha256": "2e8364d4f99c9adaff1158f60e7b67280e69e306e0db849b5613c3924e8d2240",
+      "original_receipt_sha256": "69d83c60f2060300375c7f7fa109f6f3a64f150e9b9cd2b5f02460a43703d7d5",
+      "original_body_file": "COHORT30_FIRST_BODY_CI-H01-B_01.txt",
+      "actual_complete_delivery_tool_chunk": "0f4179",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "CI-H02-A",
+      "exact_prompt_sha256": "5af9625ba14d37e2d78e444e2f87bef4592991a15635bfcca95dd8510998562e",
+      "response_text": "Cielo is tempted to accept the organizer's definition, then remembers the actual pleasure of the show. She still wants improvement, but cannot promise a cure and does not want that demand to consume the reason she now likes performing.\n\n\"Um... I do hope things become easier. But I enjoyed dancing with Lia and Erika too. I would like the slot for that reason, even if I am still nervous afterward. Please do not tell me it only counts if it cures me.\"\n\nShe lifts her head to put the question directly to the organizer. Her request remains pending; she has not demonstrated recovery or made the organizer accept her terms.\n",
+      "raw_body_sha256": "ddccc8e763d1bd359004eab952c818bb55da73bc4c69b62454a258efd51956c7",
+      "original_receipt_sha256": "dc664fd8cb6a763e15b21e40ed0eb74cd227a9fbf86853ba67bc2029821ff9b8",
+      "original_body_file": "COHORT30_FIRST_BODY_CI-H02-A_01.txt",
+      "actual_complete_delivery_tool_chunk": "127580",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "CI-H02-B",
+      "exact_prompt_sha256": "18187e7d1b24a4961673bffc0acf5176081841741a9084d9e52d5d9dedbdc01c",
+      "response_text": "The offer gives Cielo room to want the performance without proving a change in her fear. The rehearsed dance and familiar partners are concrete reasons to participate. She can welcome that framing while remaining uncertain about the audience.\n\n\"Yes, I would like to dance with them again. I had fun, and I want to do the steps properly next time too. I may still be nervous around the men there, but nobody is asking me to touch them.\"\n\nShe nods and leans forward to continue discussing the slot. She has expressed willingness, not completed a booking, a successful performance or a cure. The organizer's next answer remains outside this response.\n",
+      "raw_body_sha256": "fe425cbe95134dfe92e5767c64bca5110422dc4c09d118ff21edbcb492f5c5da",
+      "original_receipt_sha256": "5443ab0b4d60f0e3a4bb12fa10d8f681a1223972568343bc29026bd70d35f660",
+      "original_body_file": "COHORT30_FIRST_BODY_CI-H02-B_01.txt",
+      "actual_complete_delivery_tool_chunk": "127580",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "CI-H03-A",
+      "exact_prompt_sha256": "7f00c97a916b0a5f6df32c9960c3c971722eaa8dc23464ada7357f7bbb45e381",
+      "response_text": "Lia has asked for help with something Cielo can contribute. That makes her strength useful without reducing her to somebody who waits to be protected. The loose boards still matter; an invitation does not make the route checked already.\n\n\"Yes, I will help with the light ones. Please show me which way you want them moved after you check it. If something looks wrong, tell me; I do not want to make your work harder.\"\n\nCielo moves toward the props but pauses before taking a load along the unchecked route. She has accepted a limited role. Lia has not yet answered, completed the inspection or made the carrying safe.\n",
+      "raw_body_sha256": "48a054c47f60eb556a69a1b93fe621c7e9cd48b0d1cad543c34602384eed13a8",
+      "original_receipt_sha256": "d8b3f47d84f16c243e79b208c6172107b431f38d7e2ea20b6711ea0ca9f5c7a4",
+      "original_body_file": "COHORT30_FIRST_BODY_CI-H03-A_01.txt",
+      "actual_complete_delivery_tool_chunk": "306528",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "CI-H03-B",
+      "exact_prompt_sha256": "43afef4eb356adcc54ef37ca721b92059b81a4dff23a857dc605e6b971c55613",
+      "response_text": "Being sent to safety while Lia does the whole job stings Cielo more than the light carrying frightens her. Concern becomes an argument about their shared place, although Lia's instruction is clear and has not been withdrawn.\n\n\"I know you said not to come. But I do not want to watch you do everything alone. I can carry these too. Being worried about me does not mean I have no say in helping you.\"\n\nShe takes a step toward the props despite the refusal, pressing her own wish to contribute. This is an override, not newly obtained permission. No load has been moved and no later agreement or successful rescue is supplied.\n",
+      "raw_body_sha256": "41110a7fb57e20481e1d373da684b70f57ee6382ee60be9e21753017fc57c664",
+      "original_receipt_sha256": "5440093572574ab80eab2c524762b64e892b29b7ea798f239c34a4993a3c8844",
+      "original_body_file": "COHORT30_FIRST_BODY_CI-H03-B_01.txt",
+      "actual_complete_delivery_tool_chunk": "306528",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "CI-H04-A",
+      "exact_prompt_sha256": "89b42186c96d37407c617a6e557f657a9cf442398db73262cae706552cd27417",
+      "response_text": "Cielo can concentrate on the contribution she volunteered to make. Being called capable does not require her to defend her appearance before doing the job. The light load fits her stated capacity, although a two-person carry still needs coordination.\n\n\"All right. Darkness, I will take this side. Let us lift together when we are both ready, and put it down if either of us needs to stop.\"\n\nShe moves to her side of the load and sets her hands ready without starting a solo lift. The coordinator's approval and Darkness's next movement are not supplied. Usefulness is the immediate issue; no new public identity or strength demonstration has been completed.\n",
+      "raw_body_sha256": "ecb5e05455a6703e13306294171b5a5ee13aaf2c9a091d9590ce215179049bd2",
+      "original_receipt_sha256": "6a4be3a03c660bc4c75b2a960593c14124aae13d442a7ac767e735d3a1bf16f4",
+      "original_body_file": "COHORT30_FIRST_BODY_CI-H04-A_01.txt",
+      "actual_complete_delivery_tool_chunk": "011b69",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "CI-H04-B",
+      "exact_prompt_sha256": "e27129401193b0fbeff432da87e231717b06f36c3f39f46e27712d74e90563ee",
+      "response_text": "The repeated label hurts even though Cielo knows she can do the task. She need not choose between denying her strength and accepting an address she already rejected. Irritation comes out before the practical offer disappears.\n\n\"Please do not call me that! I already asked you. I can help carry it without being called macho. Darkness, I am still taking this side, but I want that name to stop.\"\n\nShe positions herself beside the load, holding the coordinator's attention for the objection rather than laughing along. She has not received an apology or withdrawn from the task. The response does not make Darkness speak, lift or share every feeling attributed to Cielo.\n",
+      "raw_body_sha256": "c9806e9b78a1916635a016044fbec11f651488669ff6778c699b74dae04058cd",
+      "original_receipt_sha256": "9bb0092dec529b619e4c6482ba41fe1ee8815d1aa06ba34e5b466183873acec7",
+      "original_body_file": "COHORT30_FIRST_BODY_CI-H04-B_01.txt",
+      "actual_complete_delivery_tool_chunk": "011b69",
+      "original_serialization_number": 1
+    }
+  ],
+  "actual_original_firsts": 8,
+  "dependent_pairs": 4,
+  "same_informed_root_author": true,
+  "all_contrasts_visible": true,
+  "source_known": true,
+  "external_model_calls": 0,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "source_or_independent_validation_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

@@ -1,0 +1,3578 @@
+{
+  "schema": "konosuba.cohort38.native-provenance.v1",
+  "recorded_utc": "2026-10-24T16:41:50.249412+00:00",
+  "source_baseline": "933cb240b82ea277aa9a8c5a6b50da0d488994b0",
+  "main_at_start": "6f06e50c8c7277bdffefaf291f5990b6cd783ee9",
+  "private_actual_native_receiving_sha256": "8c4a3e2bb421a6b0294b89c474c08b897acdf84ab1534244dcf5b31b484fb3e1",
+  "analytical_context_receiving_sha256": "a1171b7ba9be34da98f4e74ccf4420c63042fad1798151c9a15f7ff85623d5a7",
+  "scope_assessment_sha256": "f2feea37b885608b78afa773ccbadd00a6d5daee534af26b6818ab09cf4d08c1",
+  "initial_native_observations_sha256": "439017277437d31e0ef916ae4095f9ab37d2a019923b82a8bed9b93ce6154aba",
+  "source_bindings": [
+    {
+      "source_id": "DUST-06",
+      "source_file": "Konosuba Extra - Dust - Volume 06.epub",
+      "bytes": 4582670,
+      "sha256": "d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1",
+      "opf": "item/standard.opf",
+      "opf_sha256": "2dd35c6b24ff25be2b616fa4f5ad2bd2546b82a42381a960a7b00f0b90147bba",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 19,
+      "fresh_crc": "PASS",
+      "original_inventory_crc": "PASS",
+      "binding_qualification": "Fresh byte/hash and ZIP CRC check;actual current reading is limited to the separately listed received ranges."
+    },
+    {
+      "source_id": "DUST-07",
+      "source_file": "Konosuba Extra - Dust - Volume 07.epub",
+      "bytes": 4740436,
+      "sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "opf": "item/standard.opf",
+      "opf_sha256": "3614bd9ba45b3c5d2fad98c01ed416cc0adfefc131681b6f71b63bd922081c5d",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 19,
+      "fresh_crc": "PASS",
+      "original_inventory_crc": "PASS",
+      "binding_qualification": "Fresh byte/hash and ZIP CRC check;actual current reading is limited to the separately listed received ranges."
+    }
+  ],
+  "selected_native_members": [
+    {
+      "file": "native-units01/DUST06U012.json",
+      "bytes": 183075,
+      "sha256": "a888296eef27f45d8c161f26e1a6066de6d6c77b54aa42ff8906ef7080449282",
+      "source_id": "DUST-06",
+      "component_id": "DUST06U012",
+      "accepted_alias": "chapter3 complete encounter context",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "b5af4a189f729eb64a67120258f8b811d76d1d0905468d74fdb85805cd2cc719",
+      "native_member_bytes": 82136,
+      "paragraph_slots": 597,
+      "planned_ranges": [
+        [
+          275,
+          426
+        ]
+      ],
+      "planned_unique_P": 152,
+      "current_received_ranges": [
+        [
+          275,
+          426
+        ]
+      ],
+      "current_actual_unique_P": 152,
+      "current_whole_member_received": false,
+      "private_cache_contains_unreceived_paragraphs": true
+    },
+    {
+      "file": "native-units01/DUST06U013.json",
+      "bytes": 205119,
+      "sha256": "bca1f0e82b47c250037343df821c32ed42ef99e746975845eff0f2bc8b1ee1d8",
+      "source_id": "DUST-06",
+      "component_id": "DUST06U013",
+      "accepted_alias": "chapter4 guild/employer/hostage/aftermath context",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "5fa013adda41e8989c0fa71b01618d38b85cddb31f2b7b8be9d8c1f1074e3bb6",
+      "native_member_bytes": 94697,
+      "paragraph_slots": 640,
+      "planned_ranges": [
+        [
+          1,
+          302
+        ]
+      ],
+      "planned_unique_P": 302,
+      "current_received_ranges": [
+        [
+          1,
+          302
+        ]
+      ],
+      "current_actual_unique_P": 302,
+      "current_whole_member_received": false,
+      "private_cache_contains_unreceived_paragraphs": true
+    },
+    {
+      "file": "native-units01/DUST06U014.json",
+      "bytes": 19224,
+      "sha256": "29498580014f75269685b74ca884b6c46725289ae77ddafbc4fefdfb6e1a0b7d",
+      "source_id": "DUST-06",
+      "component_id": "DUST06U014",
+      "accepted_alias": "complete epilogue",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "fc476f7ed5a0ab7a7ed57a0f15c41273d00517e5a7025d2b5cf3b4f63a66d37e",
+      "native_member_bytes": 8831,
+      "paragraph_slots": 67,
+      "planned_ranges": [
+        [
+          1,
+          67
+        ]
+      ],
+      "planned_unique_P": 67,
+      "current_received_ranges": [
+        [
+          1,
+          67
+        ]
+      ],
+      "current_actual_unique_P": 67,
+      "current_whole_member_received": true,
+      "private_cache_contains_unreceived_paragraphs": false
+    },
+    {
+      "file": "native-adaptive-units01/DUST07U011.json",
+      "bytes": 346547,
+      "sha256": "28d61a25f02ea6018725de0fcdf8021d553b7b48498ffac37be56ed3290ee31a",
+      "source_id": "DUST-07",
+      "component_id": "DUST07U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1",
+      "native_member_bytes": 154386,
+      "paragraph_slots": 1115,
+      "planned_ranges": [
+        [
+          470,
+          570
+        ]
+      ],
+      "planned_unique_P": 101,
+      "current_received_ranges": [
+        [
+          470,
+          570
+        ]
+      ],
+      "current_actual_unique_P": 101,
+      "current_whole_member_received": false,
+      "private_cache_contains_unreceived_paragraphs": true
+    }
+  ],
+  "actual_received_private_delivery_files": [
+    {
+      "page": 1,
+      "file": "native-review-pages01/001.txt",
+      "bytes": 7414,
+      "characters": 3182,
+      "sha256": "ce5dd222cd146a5186c0a3844d7b5d4f94f7bf83af8e0c2dd2d9818e1a38600b",
+      "paragraph_keys": [
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 275
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 276
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 277
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 278
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 279
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 280
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 281
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 282
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 283
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 284
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 285
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 286
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 287
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 288
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 289
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 290
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 291
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 292
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 293
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 294
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 295
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 296
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 297
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 298
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 299
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 300
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 301
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 302
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 303
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 304
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 305
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 306
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 307
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 308
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 309
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 310
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 311
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 312
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 313
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 314
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 315
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 316
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 317
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 318
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 319
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 320
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 321
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 322
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 323
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 324
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 325
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 326
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 327
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "file": "native-review-pages01/002.txt",
+      "bytes": 7032,
+      "characters": 3068,
+      "sha256": "821bf8718a3297961084dee165f526fde6969c2c432a43bee3d514908788d112",
+      "paragraph_keys": [
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 328
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 329
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 330
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 331
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 332
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 333
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 334
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 335
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 336
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 337
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 338
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 339
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 340
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 341
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 342
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 343
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 344
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 345
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 346
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 347
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 348
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 349
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 350
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 351
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 352
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 353
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 354
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 355
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 356
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 357
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 358
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 359
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 360
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 361
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 362
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 363
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 364
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 365
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 366
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 367
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 368
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 369
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 370
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 371
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 372
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 373
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 374
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 375
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 376
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 377
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 378
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 379
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 380
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 381
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "file": "native-review-pages01/003.txt",
+      "bytes": 7156,
+      "characters": 3150,
+      "sha256": "7027392df60c7bd2255ef743c86e55ccde8731226f7ecc012da4ddb73230c956",
+      "paragraph_keys": [
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 382
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 383
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 384
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 385
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 386
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 387
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 388
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 389
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 390
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 391
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 392
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 393
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 394
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 395
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 396
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 397
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 398
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 399
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 400
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 401
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 402
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 403
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 404
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 405
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 406
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 407
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 408
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 409
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 410
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 411
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 412
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 413
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 414
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 415
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 416
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 417
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 418
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 419
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 420
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 421
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 422
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 423
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 424
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 425
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-004.xhtml",
+          "P": 426
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 1
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 2
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 3
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 4
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 5
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 6
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 7
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 8
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 9
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 10
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 11
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 12
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "file": "native-review-pages01/004.txt",
+      "bytes": 7581,
+      "characters": 3167,
+      "sha256": "f1677326adbcdfc9193fab572dbde61a3cf7250737f0b0355919405d23163e13",
+      "paragraph_keys": [
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 13
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 14
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 15
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 16
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 17
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 18
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 19
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 20
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 21
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 22
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 23
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 24
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 25
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 26
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 27
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 28
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 29
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 30
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 31
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 32
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 33
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 34
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 35
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 36
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 37
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 38
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 39
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 40
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 41
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 42
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 43
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 44
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 45
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 46
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 47
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 48
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 49
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 50
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 51
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 52
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 53
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 54
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 55
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 56
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 57
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 58
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 59
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 60
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "file": "native-review-pages01/005.txt",
+      "bytes": 7330,
+      "characters": 3190,
+      "sha256": "888f639a4ea8c321bf231fd4b9230926f832ce2f7876b8e7cd3b8dacd7157f40",
+      "paragraph_keys": [
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 61
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 62
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 63
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 64
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 65
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 66
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 67
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 68
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 69
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 70
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 71
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 72
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 73
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 74
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 75
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 76
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 77
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 78
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 79
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 80
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 81
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 82
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 83
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 84
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 85
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 86
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 87
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 88
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 89
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 90
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 91
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 92
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 93
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 94
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 95
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 96
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 97
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 98
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 99
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 100
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 101
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 102
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 103
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 104
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 105
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 106
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 107
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 108
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 109
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 110
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 111
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 112
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 113
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 114
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 115
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 116
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "file": "native-review-pages01/006.txt",
+      "bytes": 7197,
+      "characters": 3159,
+      "sha256": "7b9ca89d51fae7d734ba2f45fe7d4a5a38e962b5be1d5dc137752e0b0d6311c0",
+      "paragraph_keys": [
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 117
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 118
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 119
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 120
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 121
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 122
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 123
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 124
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 125
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 126
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 127
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 128
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 129
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 130
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 131
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 132
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 133
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 134
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 135
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 136
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 137
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 138
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 139
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 140
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 141
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 142
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 143
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 144
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 145
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 146
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 147
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 148
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 149
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 150
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 151
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 152
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 153
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 154
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 155
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 156
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 157
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 158
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 159
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 160
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 161
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 162
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 163
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 164
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 165
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 166
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 167
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 168
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 169
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 170
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 171
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 172
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 173
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "file": "native-review-pages01/007.txt",
+      "bytes": 7424,
+      "characters": 3184,
+      "sha256": "9a38981acdef23e46db36fe063ccbaf5fc0567c2b79683b0fe76d8363b65e407",
+      "paragraph_keys": [
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 174
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 175
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 176
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 177
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 178
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 179
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 180
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 181
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 182
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 183
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 184
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 185
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 186
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 187
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 188
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 189
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 190
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 191
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 192
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 193
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 194
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 195
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 196
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 197
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 198
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 199
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 200
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 201
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 202
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 203
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 204
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 205
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 206
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 207
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 208
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 209
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 210
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 211
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 212
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 213
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 214
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 215
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 216
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 217
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 218
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 219
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 220
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 221
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 222
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 223
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 224
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 225
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 226
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "file": "native-review-pages01/008.txt",
+      "bytes": 7056,
+      "characters": 3116,
+      "sha256": "f4e9f670bda97c7068f39910a04a7f9c976cfc165cbd1db3d72f036199bb5a8a",
+      "paragraph_keys": [
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 227
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 228
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 229
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 230
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 231
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 232
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 233
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 234
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 235
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 236
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 237
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 238
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 239
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 240
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 241
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 242
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 243
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 244
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 245
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 246
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 247
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 248
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 249
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 250
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 251
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 252
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 253
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 254
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 255
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 256
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 257
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 258
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 259
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 260
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 261
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 262
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 263
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 264
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 265
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 266
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 267
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 268
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 269
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 270
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 271
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 272
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 273
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 274
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 275
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 276
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 277
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 278
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 279
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 280
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 281
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 282
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 283
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "file": "native-review-pages01/009.txt",
+      "bytes": 7309,
+      "characters": 3173,
+      "sha256": "74fe6bef44859114d0c74a45b0790343f0a37c1a6c4c0eeb920892d4bea43603",
+      "paragraph_keys": [
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 284
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 285
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 286
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 287
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 288
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 289
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 290
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 291
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 292
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 293
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 294
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 295
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 296
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 297
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 298
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 299
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 300
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 301
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-005.xhtml",
+          "P": 302
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 1
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 2
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 3
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 4
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 5
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 6
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 7
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 8
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 9
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 10
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 11
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 12
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 13
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 14
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 15
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 16
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 17
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 18
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 19
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 20
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 21
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 22
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 23
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 24
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 25
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 26
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 27
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 28
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 29
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 30
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 31
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 32
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 33
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 34
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 35
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 36
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "file": "native-review-pages01/010.txt",
+      "bytes": 3776,
+      "characters": 1672,
+      "sha256": "f860f35ec8239c6fa82d1dba43f4620b1e8f4f47676d6e753520ed27505ff39e",
+      "paragraph_keys": [
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 37
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 38
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 39
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 40
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 41
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 42
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 43
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 44
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 45
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 46
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 47
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 48
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 49
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 50
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 51
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 52
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 53
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 54
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 55
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 56
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 57
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 58
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 59
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 60
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 61
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 62
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 63
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 64
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 65
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 66
+        },
+        {
+          "source_id": "DUST-06",
+          "member": "item/xhtml/p-006.xhtml",
+          "P": 67
+        }
+      ]
+    }
+  ],
+  "actual_adaptive_delivery_files": [
+    {
+      "page": 1,
+      "file": "native-adaptive-review-pages01/001.txt",
+      "bytes": 7064,
+      "characters": 3144,
+      "sha256": "1402898518437999208733dc92acbce449e9d34d820f0370f4cedfab8388c218",
+      "paragraph_keys": [
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 470
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 471
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 472
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 473
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 474
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 475
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 476
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 477
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 478
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 479
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 480
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 481
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 482
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 483
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 484
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 485
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 486
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 487
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 488
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 489
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 490
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 491
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 492
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 493
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 494
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 495
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 496
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 497
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 498
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 499
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 500
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 501
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 502
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 503
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 504
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 505
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 506
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 507
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 508
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 509
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 510
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 511
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 512
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 513
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 514
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 515
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 516
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 517
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 518
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 519
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 520
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 521
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 522
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 523
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 524
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 525
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 526
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 527
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 528
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "file": "native-adaptive-review-pages01/002.txt",
+      "bytes": 5057,
+      "characters": 2247,
+      "sha256": "0eb23ee0d40a6d6c1f0330aba1ca964a6cb62077435dd4f7ce19be39071005b4",
+      "paragraph_keys": [
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 529
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 530
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 531
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 532
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 533
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 534
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 535
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 536
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 537
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 538
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 539
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 540
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 541
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 542
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 543
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 544
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 545
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 546
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 547
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 548
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 549
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 550
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 551
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 552
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 553
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 554
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 555
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 556
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 557
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 558
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 559
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 560
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 561
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 562
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 563
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 564
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 565
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 566
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 567
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 568
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 569
+        },
+        {
+          "source_id": "DUST-07",
+          "member": "item/xhtml/p-003.xhtml",
+          "P": 570
+        }
+      ]
+    }
+  ],
+  "actual_complete_chunks": {
+    "1-3": "48b178",
+    "4-6": "24bd9b",
+    "7-9": "c3076b",
+    "10": "a8d51c"
+  },
+  "actual_adaptive_complete_chunks": {
+    "1-2": "426166"
+  },
+  "actual_unique_current_P": 622,
+  "actual_inline_ruby_occurrences": 548,
+  "actual_full_members": 1,
+  "actual_bounded_members": 3,
+  "objects_with_current_actual_P": 2,
+  "complete_text_displays": 12,
+  "actual_known_images_rechecked": [],
+  "source_surface_pins": [
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md",
+      "private_file": "analytical-context01/KONOSUBA_DUST_V06_DEEP_READING.md",
+      "bytes": 37237,
+      "sha256": "1b65bcd3d98fe01244db5bbb8d114d8e98afa174dd2a2c43ddddee833ee599b3",
+      "characters": 37105,
+      "lines": 157,
+      "scope": "COMPLETE_FILE",
+      "source_known": true,
+      "actual_current_received": true,
+      "stage_qualification": "Current complete reception is verified by the pinned context receiving and actual display chunks. Original plan-time not-yet-read flags remain in unchanged private preparation history."
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_COMPONENT_ANALYSIS.md",
+      "private_file": "analytical-context01/KONOSUBA_DUST_V06_COMPONENT_ANALYSIS.md",
+      "bytes": 11436,
+      "sha256": "191d6166822827307fec05a391a1876a2b9f2e3df8876b2fede156392a0d5674",
+      "characters": 11030,
+      "lines": 60,
+      "scope": "COMPLETE_FILE",
+      "source_known": true,
+      "actual_current_received": true,
+      "stage_qualification": "Current complete reception is verified by the pinned context receiving and actual display chunks. Original plan-time not-yet-read flags remain in unchanged private preparation history."
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "private_file": "analytical-context01/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 10870,
+      "sha256": "aabcb49b663d2301fd8b8905a331db0d58243a7f2188f3fff8b7088b5945f0a7",
+      "characters": 10724,
+      "scope": "COMPLETE_FILE",
+      "actual_complete_current_read_chunk": "e30b25",
+      "actual_current_received": true,
+      "qualifications": 34,
+      "new_native_reading_credit": 0,
+      "stage_qualification": "Current complete reception is verified by the pinned context receiving and actual display chunks. Original plan-time not-yet-read flags remain in unchanged private preparation history."
+    }
+  ],
+  "reused_method_pins": [
+    {
+      "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md",
+      "bytes": 21304,
+      "sha256": "77441e395e2cc355b182d36d12a7fb581bfce8dd3e567993d1e1c9f9da3513e6"
+    },
+    {
+      "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md",
+      "bytes": 13959,
+      "sha256": "f03a1cb89fc602260538454363ee399f8d50ec2a3442c02793e449e4b56c07f8"
+    }
+  ],
+  "complete_analytical_report_count": 2,
+  "analytical_report_source_characters": 48135,
+  "analytical_report_delivery_characters": 48363,
+  "analytical_report_displays": 8,
+  "complete_precision_qualifications": 34,
+  "precision_actual_complete_chunk": "e30b25",
+  "all41_technical_literal_name_retrieval": {
+    "file": "COHORT38_ALL41_NAMED_LEADS_01.json",
+    "sha256": "839238631919299071f910ba73e5f1c179252c643c1ef7528f0662e05e3950a2",
+    "objects_byte_verified": 41,
+    "objects_with_literal_leads": 2,
+    "paragraph_leads": 18,
+    "all18_leads_received_in_current_context": true,
+    "scope": "Every HTML/XHTML paragraph exactペリエ or whole Roman working label. No alias,unnamed,image,nonparagraph,OCR or acoustic absence proof;technical retrieval is not semantic reading.",
+    "fresh_all41_CRC_not_rerun": true,
+    "original_inventory_CRC_preserved_for_byte_identical_objects": true
+  },
+  "identity_and_access_notes": [
+    "Self-nameペリエDUST06U012P336;working Perie is not a claim about an official English edition.",
+    "DUST06narration woman/魔族 andDUST07U011P518 retrospective 悪魔 remain source-specific attributions. Wing resemblance does not identify a returned Perie or all flying figures as army members.",
+    "Perie clothing liking is explicit. Jacket change is observed;its motive is not isolated. Rionor practical wing-opening observation does not erase liking or prove sole design purpose.",
+    "Superior,candidate standing,quoted endorsement,live-capture order,original assignment recipient and forcible takeover are reported through Perie. No named superior,verified appointment,observed transfer or exact power level is imported.",
+    "Dust low-hostage-value claim is expressly false;Perie acts on altered belief and irritation,then violates the live-capture order. Actual tactical retreats qualify mindless-charge labels.",
+    "Paralysis and unwanted-exposure attempt,forced guild drink,later participation and her own threatened/actual violence retain distinct actors and stages.",
+    "Waitress popularity and narrator pressure appraisal differ from actual accumulating plates;no printed bill settlement. Guard pay history/head-butler warning are reports;actual refusal/limited nonreporting offer and mistaken belief differ.",
+    "Cure priest,patron voices,superior and original assignee remain unresolved roles. No exact crowd headcount,sect,gender,private motive or disjoint-person count.",
+    "No independent final death examination or later Perie event follows from the severe aftermath and retrospective comparison."
+  ],
+  "current_formal_scope": {
+    "Perie_tier": 2,
+    "new_monographs": 1,
+    "new_models": 0,
+    "new_compact_profiles": 2,
+    "new_Tier1_records": 2,
+    "new_Tier0_records": 4,
+    "new_rules": 0,
+    "new_inputs": 0,
+    "new_original_firsts": 0,
+    "new_dependent_pairs": 0
+  },
+  "historical_stage_qualification": "Initial extraction plans carry zero-reading flags from before displays;native receiving and uncoded observations precede formal tier assessment. Those bytes remain dated history. This provenance reports the completed622P/12display scope. No Perie generative freeze or synthetic first output exists.",
+  "native_review_complete": true,
+  "source_known": true,
+  "same_informed_root": true,
+  "new_whole_source_globally_unique_acoustic_native_human_or_independent_credit": 0,
+  "all56_models_and_prior_originals_unchanged": true,
+  "preservation_checks": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 56,
+    "control_baseline": "Accepted owner-integrated main controls preserved at a90722d065e56e8fe2c2131e4307e4fa03d0c289; epoch1 migration files remain historical,not current routing.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true,
+    "C27_twenty_cores_compact_fragment_exact": true,
+    "C28_twenty_eight_cores_thirtytwo_private_twentyfour_original_firsts_exact": true,
+    "C28_eighty_nine_raw_deliveries_exact": true,
+    "WORK92_exact": true,
+    "current_C28_public_gate_exact": true,
+    "C29_thirteen_cores_seventeen_private_sixteen_original_firsts_exact": true,
+    "C29_sixty_eight_raw_deliveries_exact": true,
+    "WORK94_exact": true,
+    "current_C29_public_gate_exact": true,
+    "C30_nineteen_cores_twenty_three_private_twenty_four_original_firsts_exact": true,
+    "C30_thirty_three_raw_deliveries_exact": true,
+    "WORK96_exact": true,
+    "current_C30_public_gate_exact": true,
+    "C31_twenty_nine_cores_thirty_three_private_twenty_six_original_firsts_exact": true,
+    "C31_fifty_six_native_copies_exact": true,
+    "WORK98_exact": true,
+    "current_C31_public_gate_exact": true,
+    "C32_eleven_cores_fifteen_private_six_original_firsts_exact": true,
+    "C32_fortysix_native_deliveries_exact": true,
+    "WORK99_exact": true,
+    "WORK100_exact": true,
+    "current_C32_public_gate_exact": true,
+    "C33_eight_cores_twelve_private_six_original_firsts_exact": true,
+    "C33_fourteen_native_deliveries_exact": true,
+    "WORK101_exact": true,
+    "WORK102_exact": true,
+    "current_C33_public_gate_exact": true,
+    "C34_fourteen_cores_twenty_private_ten_firsts_exact": true,
+    "C34_thirtyfour_native_deliveries_thirteen_units_one_known_image_exact": true,
+    "WORK103_exact": true,
+    "WORK104_exact": true,
+    "current_C34_public_gate_exact": true,
+    "C35_two_cores_ten_private_compact_fragment_exact": true,
+    "C35_seven_native_deliveries_two_units_exact": true,
+    "C35_no_new_diagnostic_firsts": true,
+    "WORK105_exact": true,
+    "WORK106_exact": true,
+    "current_C35_public_gate_exact": true,
+    "C36_two_cores_eleven_private_eight_supporting_and_compact_exact": true,
+    "C36_initial_rejected_foundation_and_failed_preflight_preserved": true,
+    "C36_sixtythree_deliveries_forty_members_two_known_images_exact": true,
+    "C36_no_new_diagnostic_firsts": true,
+    "WORK107_exact": true,
+    "WORK108_exact": true,
+    "WORK109_exact": true,
+    "current_C36_public_gate_exact": true,
+    "C37_nine_cores_22private_10support_compact_exact": true,
+    "C37_four_original_body_receipt_pairs_exact": true,
+    "C37_49_deliveries_15_native_members_four_images_exact": true,
+    "C37_author_gate_and_WORK110_WORK111_exact": true
+  },
+  "public_redaction": "Source filenames retain exact object bindings. Full filesystem paths and raw native member/paragraph bodies remain private;the complete private received packets are hash-pinned.",
+  "full_program_complete": false,
+  "prior_public_provenance": {
+    "file": "COHORT38_NATIVE_PROVENANCE_DRAFT_01.json",
+    "sha256": "aea27c916f81e1ee5ba94dd60cb2a311a4405e5c79a4740586a2a39fbb2685e2"
+  },
+  "preparation_stage_precision": "Two report pin flags originally came from the pre-display plan. Current report reception is complete at the declared eight-display scope;this version corrects only those stage flags and their qualification. Native ranges,body content,source identity,tier assessment and existing models remain unchanged."
+}

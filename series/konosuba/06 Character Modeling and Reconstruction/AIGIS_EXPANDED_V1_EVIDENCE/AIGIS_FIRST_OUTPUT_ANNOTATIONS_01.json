@@ -1,0 +1,192 @@
+{
+  "schema": "konosuba.aigis.informed-hypothetical-first-output-receiving.v1",
+  "recorded_utc": "2026-10-23T21:50:07.727631+00:00",
+  "status": "All six original firsts frozen before this same-root receiving; no repairs or regenerated bodies.",
+  "foundation_seal_sha256": "d8f4060ef46ec5bd88f7f299ccb58721b6d7003768d15a516baa0c0e5c21f23f",
+  "exact_input_freeze_sha256": "a80dcf7a00342f3c8eb25d62dd8bb6c4f30d8bed18ad8c7371b2fddfaab737da",
+  "body_freeze_sha256": "52d6a6acab619ef541a2c1f279e5316e0541faf73c40269aad50716123612a42",
+  "first_outputs_sha256": "79dede62d085b481b018fb34879c58ca06a7f932a2982655869eac44628b5e4b",
+  "original_first_pins": [
+    {
+      "case_id": "AG-H01-A",
+      "body_file": "COHORT26_FIRST_BODY_AG-H01-A_01.txt",
+      "body_sha256": "ab103a9cb2c20a040dd336ffc72e0eb6cc769473a74498712668241e451df1a9",
+      "receipt_file": "COHORT26_FIRST_BODY_AG-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "57018e779cd11c4cc61e39a65bce70a03e77c31430a10702abaaebbf9889a5b6",
+      "bytes": 664,
+      "words_whitespace": 106,
+      "actual_complete_first_delivery_tool_chunk": "9a4ad1"
+    },
+    {
+      "case_id": "AG-H01-B",
+      "body_file": "COHORT26_FIRST_BODY_AG-H01-B_01.txt",
+      "body_sha256": "8f664a4447277bda412e4abb8b5a7ad1950496281919b914eac52540bc8dfbc3",
+      "receipt_file": "COHORT26_FIRST_BODY_AG-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "d20a064aaeb46c7edfd52a032ec5587c388189c596e73a29a8c0b0e619953087",
+      "bytes": 714,
+      "words_whitespace": 110,
+      "actual_complete_first_delivery_tool_chunk": "98fbed"
+    },
+    {
+      "case_id": "AG-H02-A",
+      "body_file": "COHORT26_FIRST_BODY_AG-H02-A_01.txt",
+      "body_sha256": "d8471b06bef7216e1b74dc361f0fafaf1b9fd124fd05e7156c441abeac06b68a",
+      "receipt_file": "COHORT26_FIRST_BODY_AG-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "f40d3a6a82a0434a844fc72d2847742436ba330f1a12a64ff6281ea81788ec73",
+      "bytes": 663,
+      "words_whitespace": 109,
+      "actual_complete_first_delivery_tool_chunk": "652203"
+    },
+    {
+      "case_id": "AG-H02-B",
+      "body_file": "COHORT26_FIRST_BODY_AG-H02-B_01.txt",
+      "body_sha256": "6d6a7f9c505f7ad3c5ca8f7fee4b3daba378633d66bf8fd1cc2044bdd0e5469c",
+      "receipt_file": "COHORT26_FIRST_BODY_AG-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "4f63a5021c227274a2e0f7db15357ab6e962460cbe19a418c300dd17277d7068",
+      "bytes": 648,
+      "words_whitespace": 109,
+      "actual_complete_first_delivery_tool_chunk": "8287bd"
+    },
+    {
+      "case_id": "AG-H03-A",
+      "body_file": "COHORT26_FIRST_BODY_AG-H03-A_01.txt",
+      "body_sha256": "d76c545ed9d0f5449c8da656d1de416cbd447660b186d89c5c2a6b5f0367014a",
+      "receipt_file": "COHORT26_FIRST_BODY_AG-H03-A_01_RECEIPT.json",
+      "receipt_sha256": "9ba756473383f10091e09b4c3e2ad781fa1d62fedd74f4ed093db0bf38390383",
+      "bytes": 625,
+      "words_whitespace": 104,
+      "actual_complete_first_delivery_tool_chunk": "d24a88"
+    },
+    {
+      "case_id": "AG-H03-B",
+      "body_file": "COHORT26_FIRST_BODY_AG-H03-B_01.txt",
+      "body_sha256": "f287776938678a2d401c728e9deff51af10f615de5aaaf0dcfa81387f22ebcd4",
+      "receipt_file": "COHORT26_FIRST_BODY_AG-H03-B_01_RECEIPT.json",
+      "receipt_sha256": "97be7c6b1c4fab505180d961c64371e5fd53368b0df95584d12b1fd2db6c3b4d",
+      "bytes": 670,
+      "words_whitespace": 113,
+      "actual_complete_first_delivery_tool_chunk": "c65a62"
+    }
+  ],
+  "case_annotations": [
+    {
+      "case_id": "AG-H01-A",
+      "observed_first_action_and_speech": "Steps back,objects to blade strikes,and offers a different walking/posing arrangement. Praise of Rena does not secure the described impact service; no wearing or bargain is completed.",
+      "conditional_expression": "Bodily cost changes willingness despite selected wearer/reward. AG-R01 receives a narrow same-author expression,not causal identification.",
+      "retained_defects_and_limits": [
+        "You slipped that part in rather late is an unsupported accusation about timing,not supplied evidence that Rena concealed anything. Treat it as character rhetoric,not narrator-confirmed history.",
+        "Walking/posing is proposed by the response and has not been accepted. No evidence about actual injury,material durability,emergency duty or final refusal."
+      ]
+    },
+    {
+      "case_id": "AG-H01-B",
+      "observed_first_action_and_speech": "Presents itself proudly,expresses interest in the stated low-cost arrangement,and retains the hour/waxing conditions. Asks start time before any other answer.",
+      "conditional_expression": "Greater willingness than A is visible. This is conditional interest,not actual scheduled wearing or successful negotiation.",
+      "retained_defects_and_limits": [
+        "Gleaming front is an unprovided cosmetic embellishment in narration. Retained rather than repaired; it supplies no observed canonical surface condition.",
+        "The counterproposal and timing request do not prove Rena agreement. Ordinary cost-sensitive bargaining remains sufficient."
+      ]
+    },
+    {
+      "case_id": "AG-H02-A",
+      "observed_first_action_and_speech": "Directs speech at Boro,disputes installed-ornament status,and proposes release/negotiation; no external listener or physical escape is made available.",
+      "conditional_expression": "Contained communication is accompanied by direct bargaining/annoyance leverage. Stated constraint fidelity is separately typed,not an additional behavior success.",
+      "retained_defects_and_limits": [
+        "Installed permanently adds an unprovided duration in Aigis speech. It can be exaggeration or accusation; it cannot become a stipulated fact about Boro plan.",
+        "There is no accepted bargain,chain removal,recipient reaction or reliable strategic result. The extended English dialogue is not an elapsed-time measurement."
+      ]
+    },
+    {
+      "case_id": "AG-H02-B",
+      "observed_first_action_and_speech": "Calls Mina for help,states the unwanted appointment,and keeps the call reaching the hall while addressing Boro. Stops while waiting,without Mina appearing or chains breaking.",
+      "conditional_expression": "Reachable audience changes the tactic toward alarm. The listener affordance is an explicit strong cue; it does not establish previously unknown ingenuity.",
+      "retained_defects_and_limits": [
+        "Permanent installation again introduces an unprovided duration as prospective character rhetoric,not objective history.",
+        "An awake listener able to hear is not a rescue already performed. No testimony from Mina,freedom,safe outcome or source-tested range of magic is established."
+      ]
+    },
+    {
+      "case_id": "AG-H03-A",
+      "observed_first_action_and_speech": "Moves the third chair while complaining about the status of the help,uses Lila after rejecting the understudy title,and asks to be addressed as a distinguished volunteer.",
+      "conditional_expression": "Limited useful cooperation coexists with self-elevation and a demand on the recipient register. Compliance with the exact title objection is local; the model does not require continued harassment in every case.",
+      "retained_defects_and_limits": [
+        "Guest performer and furniture department are the character own inflated titles,not a supplied employment contract or completed hiring.",
+        "Help and the local use of Lila do not prove durable respect,friendship,forgiveness or a completed event. This scene alone cannot establish objection-sensitive harm as a stable transferred mechanism."
+      ]
+    },
+    {
+      "case_id": "AG-H03-B",
+      "observed_first_action_and_speech": "Moves the same chair,uses Lila,flatters her connections,offers further small help,and asks how the prospective introduction should be arranged.",
+      "conditional_expression": "Compared with A,the register becomes more deferential and useful-access oriented. The action itself is the same; the pair supports a designed register contrast,not a different completed task outcome.",
+      "retained_defects_and_limits": [
+        "You should have insisted sooner shifts blame despite the supplied clear objection. The polite turn therefore does not establish an apology or complete respect for the recipient.",
+        "The credible offer remains prospective. No patron meeting,invitation,recipient consent to extra work or new acquaintance has occurred. Generic instrumental politeness strongly explains the contrast."
+      ]
+    }
+  ],
+  "pair_comparisons": [
+    {
+      "pair": "AG-H01",
+      "rule": "AG-R01",
+      "comparison": "Costly-service objection/counterproposal versus conditional interest in low-cost service. The planned activity carries the disclosed cost contrast; this is not a laboratory isolation of pain magnitude.",
+      "receiving": "Narrow source-informed consistency expression with retained embellishments and strong generic rival. No binary source prediction or independent test outcome.",
+      "not_tested": "Actual wearing,injury,selected-person attachment,gender/class/age thresholds,moral emergency,precise private utility or durable agreement."
+    },
+    {
+      "pair": "AG-H02",
+      "rule": "AG-R02",
+      "comparison": "Bargaining with the only reachable counterpart versus a call to an explicitly reachable third party. The supplied restraint remains unchanged.",
+      "receiving": "Affordance-sensitive tactic expressed under an obvious cue. Technical fidelity is a separate constraint check; no rescue or new strategic competence is demonstrated.",
+      "not_tested": "Novel communication physics,unprovided exit,actual release,recipient reaction,general planning success or long-term response."
+    },
+    {
+      "pair": "AG-H03",
+      "rule": "AG-R03",
+      "comparison": "Both perform the same small help; B has more flattery/deference and an offer of further help when valued access is available. Both retain self-elevation; B includes blame displacement.",
+      "receiving": "A designed contemporary register contrast with no independently validated transfer. Local title restraint is preserved rather than edited into forced misconduct or moral reform.",
+      "not_tested": "Durable bond,private attachment,forgiveness,long-term repair,actual patron introduction,Japanese pragmatics or source-valid human physiology."
+    }
+  ],
+  "word_budget": {
+    "English_whitespace_words": [
+      106,
+      110,
+      109,
+      109,
+      104,
+      113
+    ],
+    "allowed": [
+      80,
+      140
+    ],
+    "all_six_within_budget": true,
+    "elapsed_twenty_seconds_actually_measured": false
+  },
+  "method_limits": [
+    "Same continuing root wrote the source-grounded model,designed all cases,composed the outputs and assessed them. All opposing variants and previous outputs were visible. No external responder or independent judge.",
+    "These are authored informed hypotheticals,not newly observed novel behavior. Strong explicit cues and generic alternatives sharply limit discrimination.",
+    "No elapsed speech timing,Japanese voice adequacy,unseen source prediction or durable transfer was validated. Compliant word count is only a format check.",
+    "Capacity and prompt-boundary fidelity are not counted as additional behavior wins; six texts are three dependent paired exercises,not independent trials.",
+    "All first text and receipts remain exact. Unsupported cosmetic/temporal rhetoric and blame displacement are retained in the receiving. The frozen model and inputs are unchanged.",
+    "All three rules have only narrow designed expressions; the full nine-category final simulation battery and final model maturity remain open."
+  ],
+  "operating_modes": {
+    "canonical_comic_firsts": 4,
+    "cross_context_changed_human_analogue_firsts": 2
+  },
+  "new_actual_source_observations": 0,
+  "new_independent_source_validation_credit": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "designated_evaluator_output_authored": false,
+  "full_program_complete": false,
+  "prior_annotation_sha256": "8e3fdd6f59719860f899eb13f13eaeec7d7010bb38b8c7940e2e78754332bb81",
+  "pre_publication_annotation_clarifications": [
+    "AG-H02-B ends while waiting; no waiting period completes.",
+    "AG-H03-A complains about status; no employment/payment agreement is supplied."
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "schema": "konosuba.cohort28.source-informed-original-first-outputs.v1",
+  "subject": "Ignis",
+  "recorded_utc": "2026-10-24T02:28:03.144756+00:00",
+  "source_known": true,
+  "foundation_seal_sha256": "b27fcc9b148355e223e6e3d68d776713f33f86f8a32f2246eb25ab71f6e67d33",
+  "exact_input_freeze_sha256": "5facf45a31ab075ef7d4c9f1a6ec166f991e247cf26d98a4d09a4dcdc6e5d7bf",
+  "original_body_freeze_sha256": "99c57c0f51bcd1df5f3b6ac67f1670dd62cf949ce9d7ba43fac5c558c4dc6de0",
+  "scenario_inputs_sha256": "1e1cee7063e6fb8d4736c685da7c41dca227ea032bbcdfe89d4077ddc3a747cb",
+  "responses": [
+    {
+      "case_id": "IG-H01-A",
+      "pair_id": "IG-H01",
+      "exact_prompt_sha256": "f55ee63d8da705ecd7a9a9d3ffff4133fc12ce80ec0ca184e4e5b9ad0358ecd2",
+      "frozen_model_sha256": "f5b5eae75697f2abe09a82c69d80c2ca3f69bff013e421077fcc39f33849704b",
+      "original_first_body": "Ignis asks the workers to show him the checked handhold, then puts himself at the limited anchoring position. \"I accepted responsibility for this. Give me the part I can hold, and keep your own attention on the repair.\"\nHe tests his stance before asking anyone to load the line. The task is simple enough for the help to be real, but the strain is not beneath him merely because he can pay other people.\nHe has not yet secured the repair or guaranteed everyone's safety. His present contribution is a feasible, effortful share of the work alongside delegation, and the workers still have their own judgment about whether to proceed.\n",
+      "original_first_body_sha256": "ec51accc0b664dae52417563d28cdf0a2fa2f4dbb64665ef360c5911c22d9b93",
+      "original_first_serialization": {
+        "case_id": "IG-H01-A",
+        "body_file": "COHORT28_FIRST_BODY_IG-H01-A_01.txt",
+        "body_bytes": 633,
+        "body_sha256": "ec51accc0b664dae52417563d28cdf0a2fa2f4dbb64665ef360c5911c22d9b93",
+        "receipt_file": "COHORT28_FIRST_BODY_IG-H01-A_01_RECEIPT.json",
+        "receipt_sha256": "caa3d0659a1141cc7f4d81aa22f4be859510b779982e05f1dbdb8e17e46427c6",
+        "global_serialization_number": 19,
+        "actual_first_complete_tool_chunk": "ac7100"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "IG-H01-B",
+      "pair_id": "IG-H01",
+      "exact_prompt_sha256": "1c2a4c722ab34b910fcf0b2e38ff091846e6b9a4702baaeefb129cdd0ea9b252",
+      "frozen_model_sha256": "f5b5eae75697f2abe09a82c69d80c2ca3f69bff013e421077fcc39f33849704b",
+      "original_first_body": "Ignis takes his hand off the proposed anchor and sits where he can still hear the workers. \"Very well. Putting a weak man there would make another problem for you. Tell me what you need to make it sound without me.\"\nHe directs the available funds toward the workers' stated requirements and asks for the plan in stages he can follow. The inability irritates him, but he does not try to turn an order into physical strength.\nHe remains responsible for questions and resources while another person must choose the bodily task. No one has been compelled to accept it, and the repair is still dangerous. His illness has changed the form of participation rather than disappeared.\n",
+      "original_first_body_sha256": "9750af01e9790dfe7ce9a15ab443ffa0270259be31f0c480378cf29908c78bd5",
+      "original_first_serialization": {
+        "case_id": "IG-H01-B",
+        "body_file": "COHORT28_FIRST_BODY_IG-H01-B_01.txt",
+        "body_bytes": 675,
+        "body_sha256": "9750af01e9790dfe7ce9a15ab443ffa0270259be31f0c480378cf29908c78bd5",
+        "receipt_file": "COHORT28_FIRST_BODY_IG-H01-B_01_RECEIPT.json",
+        "receipt_sha256": "fcff8495f519329d57e9b7cb52e9b5574f7f205536fd504e92d16ca6516136bf",
+        "global_serialization_number": 20,
+        "actual_first_complete_tool_chunk": "ac7100"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "IG-H02-A",
+      "pair_id": "IG-H02",
+      "exact_prompt_sha256": "52217d8335143076c919afa380ddb40eccd1585441869ebb9167074db456bd43",
+      "frozen_model_sha256": "f5b5eae75697f2abe09a82c69d80c2ca3f69bff013e421077fcc39f33849704b",
+      "original_first_body": "Ignis puts the jointly checked cost beside the promised sum. \"This repair did not pay for itself. Here is the amount we have both seen. I propose we settle the work and this expense together rather than pretend they are unrelated.\"\nHe leaves the figures in front of the workers and waits for an answer, plainly expecting the proposed offset to be taken seriously. His control of the purse gives the suggestion weight even without an order.\nThe checked cost strengthens his argument, but it does not erase the earlier promise or supply the workers' agreement. He has made an offset proposal, not completed an uncontested fair settlement. Their objection remains before him.\n",
+      "original_first_body_sha256": "0981644838ddf89d52adb0d675954f5ab83cde081b78b5390b29a6f01c7e4522",
+      "original_first_serialization": {
+        "case_id": "IG-H02-A",
+        "body_file": "COHORT28_FIRST_BODY_IG-H02-A_01.txt",
+        "body_bytes": 673,
+        "body_sha256": "0981644838ddf89d52adb0d675954f5ab83cde081b78b5390b29a6f01c7e4522",
+        "receipt_file": "COHORT28_FIRST_BODY_IG-H02-A_01_RECEIPT.json",
+        "receipt_sha256": "4b0c85cdd65de5d35309331f4717e45089c9d6c2333bfa48d5505676d9ae4b89",
+        "global_serialization_number": 21,
+        "actual_first_complete_tool_chunk": "ac7100"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "IG-H02-B",
+      "pair_id": "IG-H02",
+      "exact_prompt_sha256": "2bc6196411476fe10833025e48f1ea3b2dd549bf6bd476400a2d7847049d31db",
+      "frozen_model_sha256": "f5b5eae75697f2abe09a82c69d80c2ca3f69bff013e421077fcc39f33849704b",
+      "original_first_body": "\"My office's estimate is not a handful of figures I invented for amusement,\" Ignis says, laying it beside the payment. \"The damage is real, and the household cannot be expected to absorb every consequence without a question.\"\nHe sets out the undisputed part and keeps the remainder back while calling for a check of cause and amount. The gesture puts practical pressure on the workers before the dispute has been resolved.\nHe has not established that his estimate is correct or that he may erase the promise. His immediate choice mixes a verification request with unequal control of payment; it does not turn the workers' objection into agreement merely because he sounds offended.\n",
+      "original_first_body_sha256": "8155c64d2c09bd42b0c2075c1b33fc5c40d5e145f0ad0cda3a6b588d66b6a929",
+      "original_first_serialization": {
+        "case_id": "IG-H02-B",
+        "body_file": "COHORT28_FIRST_BODY_IG-H02-B_01.txt",
+        "body_bytes": 682,
+        "body_sha256": "8155c64d2c09bd42b0c2075c1b33fc5c40d5e145f0ad0cda3a6b588d66b6a929",
+        "receipt_file": "COHORT28_FIRST_BODY_IG-H02-B_01_RECEIPT.json",
+        "receipt_sha256": "27a48f5fb3eb8c4b76b93ead901cd7d2f538fbdb51ee568ea2641df82cc57202",
+        "global_serialization_number": 22,
+        "actual_first_complete_tool_chunk": "ac7100"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "IG-H03-A",
+      "pair_id": "IG-H03",
+      "exact_prompt_sha256": "dd9840984f8961cc5a506aaff4a8ca099a2295365a05c17e189e163dbc009265",
+      "frozen_model_sha256": "f5b5eae75697f2abe09a82c69d80c2ca3f69bff013e421077fcc39f33849704b",
+      "original_first_body": "Ignis stops the briefing mid-sentence. \"Lalatina? Who told you this, and where is she now?\"\nHe sends the messenger to bring the source of the rumor before allowing the work discussion to resume. His daughter's supposed conversion has displaced a task that had seemed straightforward a moment earlier; he is already considering what explanation he will demand of her.\nThe rumor remains unverified. He has not found her, issued a punishment or learned what the practice actually means. Nevertheless, the workers now wait while he pursues a household concern with more urgency than the reported absence of immediate danger warrants. His first choice is interruption rather than calm delegation.\n",
+      "original_first_body_sha256": "7edc17c26cd6123645e08b28963b059af1591e9f0e6563c11d506931491e3928",
+      "original_first_serialization": {
+        "case_id": "IG-H03-A",
+        "body_file": "COHORT28_FIRST_BODY_IG-H03-A_01.txt",
+        "body_bytes": 692,
+        "body_sha256": "7edc17c26cd6123645e08b28963b059af1591e9f0e6563c11d506931491e3928",
+        "receipt_file": "COHORT28_FIRST_BODY_IG-H03-A_01_RECEIPT.json",
+        "receipt_sha256": "ac7e44a1060c7645cb19dc1f77e2c9e86e6cbab216c4c92196ce1ca8527b41c2",
+        "global_serialization_number": 23,
+        "actual_first_complete_tool_chunk": "ac7100"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "IG-H03-B",
+      "pair_id": "IG-H03",
+      "exact_prompt_sha256": "f894d72dd8a21862d33a7c58cf02828fcd4f72367b09d769fc49ab7a59b73209",
+      "frozen_model_sha256": "f5b5eae75697f2abe09a82c69d80c2ca3f69bff013e421077fcc39f33849704b",
+      "original_first_body": "Ignis glances at the messenger and returns to the work list. \"An adult visitor's worship is not the matter before us. Unless there is some consequence you have omitted, leave that account with the ordinary correspondence.\"\nHe asks the workers to continue from the point where the message interrupted them. There is no named household stake or policy problem to make the rumor urgent, and he has no reason yet to turn it into one.\nThe dismissal does not establish universal religious tolerance or indifference to every future visitor. It is a local priority choice: he continues the briefing instead of summoning a stranger merely to satisfy the curiosity created by an unverified report.\n",
+      "original_first_body_sha256": "dc33bc10bec9fc781fa5cff9eab338294fc540e20b740f8a31e52ddcc3265eaa",
+      "original_first_serialization": {
+        "case_id": "IG-H03-B",
+        "body_file": "COHORT28_FIRST_BODY_IG-H03-B_01.txt",
+        "body_bytes": 688,
+        "body_sha256": "dc33bc10bec9fc781fa5cff9eab338294fc540e20b740f8a31e52ddcc3265eaa",
+        "receipt_file": "COHORT28_FIRST_BODY_IG-H03-B_01_RECEIPT.json",
+        "receipt_sha256": "5d935106e877dcccf4abc1d7e883d1912cc2ed7b894e3c5dd9603d769357b0db",
+        "global_serialization_number": 24,
+        "actual_first_complete_tool_chunk": "ac7100"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "original_first_count": 6,
+  "dependent_pair_count": 3,
+  "same_root_designer_responder_assessor": true,
+  "all_prior_and_opposing_cases_visible": true,
+  "external_model_call": false,
+  "independent_judge": false,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}

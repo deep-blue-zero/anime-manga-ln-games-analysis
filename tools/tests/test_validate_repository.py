@@ -1389,8 +1389,8 @@ class PhaseValidationTests(unittest.TestCase):
             ROOT,
             "IN_MEMORY",
             {
-                "characters/registry.jsonl": SnapshotEntry(
-                    "characters/registry.jsonl", "100644", b'{"invalid":true}\n'
+                "characters/registry/example.jsonl": SnapshotEntry(
+                    "characters/registry/example.jsonl", "100644", b'{"invalid":true}\n'
                 ),
                 "series/registry.json": SnapshotEntry(
                     "series/registry.json", "100644", b'{"series":[]}\n'
@@ -1420,8 +1420,8 @@ class PhaseValidationTests(unittest.TestCase):
             ROOT,
             "IN_MEMORY",
             {
-                "characters/registry.jsonl": SnapshotEntry(
-                    "characters/registry.jsonl", "100644", b'{"invalid":true}\n'
+                "characters/registry/example.jsonl": SnapshotEntry(
+                    "characters/registry/example.jsonl", "100644", b'{"invalid":true}\n'
                 ),
                 "series/registry.json": SnapshotEntry(
                     "series/registry.json", "100644", b'{"series":[]}\n'
@@ -1457,20 +1457,21 @@ class PhaseValidationTests(unittest.TestCase):
             )
 
     @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
-    def test_schema_diagnostic_uses_physical_jsonl_line_after_blank_lines(self) -> None:
+    def test_schema_diagnostic_cites_partition_path_and_physical_line(self) -> None:
+        first = {"analysis_subject_id": "example:alice@anime"}
         record = {
-            "analysis_subject_id": "example:alice@anime",
+            "analysis_subject_id": "example:alice@novel",
             "preferred_name": "SENSITIVE_PHYSICAL_LINE_VALUE\n",
         }
-        registry = ("\n" + json.dumps(record, separators=(",", ":")) + "\n").encode(
-            "utf-8"
-        )
+        registry = "".join(
+            json.dumps(item, separators=(",", ":")) + "\n" for item in (first, record)
+        ).encode("utf-8")
         snapshot = GitSnapshot(
             ROOT,
             "IN_MEMORY",
             {
-                "characters/registry.jsonl": SnapshotEntry(
-                    "characters/registry.jsonl", "100644", registry
+                "characters/registry/example.jsonl": SnapshotEntry(
+                    "characters/registry/example.jsonl", "100644", registry
                 ),
                 "series/registry.json": SnapshotEntry(
                     "series/registry.json", "100644", b'{"series":[]}\n'
@@ -1496,9 +1497,16 @@ class PhaseValidationTests(unittest.TestCase):
         failures = validate_current_domain(ROOT, snapshot, True)
         self.assertTrue(failures)
         rendered = "\n".join(failures)
-        self.assertIn("characters/registry.jsonl:line=2:", rendered)
-        self.assertNotIn("characters/registry.jsonl:line=1:", rendered)
+        self.assertIn("characters/registry/example.jsonl:line=1:", rendered)
+        self.assertIn("characters/registry/example.jsonl:line=2:", rendered)
         self.assertNotIn("SENSITIVE_PHYSICAL_LINE_VALUE", rendered)
+        # A partition holds no blank lines, so physical and row numbering agree.
+        padded = dict(snapshot.entries)
+        padded["characters/registry/example.jsonl"] = SnapshotEntry(
+            "characters/registry/example.jsonl", "100644", b"\n" + registry
+        )
+        failures = validate_current_domain(ROOT, GitSnapshot(ROOT, "IN_MEMORY", padded), True)
+        self.assertTrue(any("no blank lines" in item for item in failures), failures)
 
     def test_atomic_write_failure_preserves_prior_index_and_own_temp_boundary(self) -> None:
         base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
@@ -1621,7 +1629,7 @@ class PhaseValidationTests(unittest.TestCase):
                 "inclusion_basis": "DEDICATED",
                 "notes": None,
             }
-            registry = temporary / "characters/registry.jsonl"
+            registry = temporary / "characters/registry/example.jsonl"
             registry.parent.mkdir(parents=True)
             registry.write_text(
                 json.dumps(record, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
@@ -1674,7 +1682,9 @@ class PhaseValidationTests(unittest.TestCase):
             self.assertEqual(repeated.returncode, 0, repeated.stdout + repeated.stderr)
             self.assertEqual(output.read_bytes(), generated_bytes)
             self.assertEqual(hashlib.sha256(output.read_bytes()).hexdigest(), generated_sha256)
-            git("add", "--", "CHARACTER_ANALYSIS_INDEX.md")
+            page = temporary / "characters/index/example.md"
+            self.assertIn("Alice", page.read_text(encoding="utf-8"))
+            git("add", "--", "CHARACTER_ANALYSIS_INDEX.md", "characters/index/example.md")
             clean_before = fingerprint()
             checked = subprocess.run(generate + ["--check"], text=True, capture_output=True)
             self.assertEqual(checked.returncode, 0, checked.stdout + checked.stderr)

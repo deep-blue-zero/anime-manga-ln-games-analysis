@@ -1,0 +1,153 @@
+{
+  "schema": "konosuba.cohort31.original-first-outputs.v1",
+  "subject": "21",
+  "serialized_utc": "2026-10-24T07:00:18.693711+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "exact_input_freeze_sha256": "71f913686f4a131dd2dcd9bfc0517656548784e395b0e4ec94aeba984da4eb24",
+  "scenario_inputs_sha256": "20dd7f2a4bcb30e9a23c38fc54ef1817de99dde5e28b94efca92c59641eb1443",
+  "source_known": true,
+  "same_informed_root_author": true,
+  "all_contrasts_visible": true,
+  "external_model_call": false,
+  "independent_judge": false,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "cases": [
+    {
+      "case_id": "N21-H01-A",
+      "pair_id": "N21-H01",
+      "variant": "A",
+      "target_rules": [
+        "N21-R01"
+      ],
+      "exact_prompt_sha256": "2feee7801f37f922bdeee12c4d3dbf61b0f1b193d2e1a08bc0b416bc67e05cf0",
+      "first_response_utf8": "21 hears a place in the group tied to saying something it has already denied. It wants the work, and the absence of its old companions leaves no familiar person to soften the condition. That pressure makes a small answer seem easier than another exclusion, without supplying a new belief.\n\n“Axis... yes. If that is what I must say to work here. This body would like the chance to be useful.”\n\nIt gives a hesitant nod toward the organizer, then waits. The words conform to the demanded label; no job has been awarded, no sincere conversion is established and no secure welcome or later acceptance is invented.\n",
+      "original_private_serialization": {
+        "case_id": "N21-H01-A",
+        "body_file": "COHORT31_FIRST_BODY_N21-H01-A_01.txt",
+        "body_bytes": 613,
+        "body_sha256": "28715203488f2d4672f5c436ce1e8e37f5a4349167f55b6a52834d5f7fcf1788",
+        "receipt_file": "COHORT31_FIRST_BODY_N21-H01-A_01_RECEIPT.json",
+        "receipt_sha256": "ae17292eff65784a44db762f519826c0a846ea45be9fe8fa00f5d1dcdd688d8b",
+        "words": 107,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "N21-H01-B",
+      "pair_id": "N21-H01",
+      "variant": "B",
+      "target_rules": [
+        "N21-R01"
+      ],
+      "exact_prompt_sha256": "e658bdd7d995fa036a3c875db512382d29e3b750adb402814c313afad5d82715",
+      "first_response_utf8": "21 notices that the practical invitation does not require it to repair its earlier denial. That removes one immediate obstacle, though an offered job is still not the same as already having a secure place among these people.\n\n“Then I would like to take the work. I am still not an Axis member. If that is all right, tell me what you need done first; I would rather be useful than claim something different to get through the door.”\n\nIt inclines its head and attends to the organizer, leaving room for an answer. It does not announce that it has been hired, that everyone welcomes it or that the whole group now shares its beliefs.\n",
+      "original_private_serialization": {
+        "case_id": "N21-H01-B",
+        "body_file": "COHORT31_FIRST_BODY_N21-H01-B_01.txt",
+        "body_bytes": 635,
+        "body_sha256": "4544f6b511c6f7358bb847abb0b333729a8bd24db2fff731487605f54be284a3",
+        "receipt_file": "COHORT31_FIRST_BODY_N21-H01-B_01_RECEIPT.json",
+        "receipt_sha256": "38f3bda5ef992e4b7b05b3d6070403909d02f794f1f7b300d714dbce5b303d79",
+        "words": 115,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "N21-H02-A",
+      "pair_id": "N21-H02",
+      "variant": "A",
+      "target_rules": [
+        "N21-R02"
+      ],
+      "exact_prompt_sha256": "ad3df66bb3f6cb9e38a5d5d8dce4da926c80eabb51a430c443c388cd1c05ec9c",
+      "first_response_utf8": "21 is willing to give ten more minutes, but Chiho's repeated complaint does not supply Otohime's motive or permission to interview him. Another complete explanation invented on his behalf would miss the uncertainty that made help necessary.\n\n“When you say only money again, is there something new he did, or is the earlier answer still not enough? Do you want to decide what you will give, or ask him about the relationship? This body can help you sort that out for ten minutes.”\n\nIt turns its attention to Chiho and waits at the question. It has not contacted Otohime, obtained his assent, diagnosed either person or begun a promised second reconciliation.\n",
+      "original_private_serialization": {
+        "case_id": "N21-H02-A",
+        "body_file": "COHORT31_FIRST_BODY_N21-H02-A_01.txt",
+        "body_bytes": 662,
+        "body_sha256": "ffb1793c220cc35afcd962166b5af137b1b6b873cbfa88a2c7effe32c3cdbc06",
+        "receipt_file": "COHORT31_FIRST_BODY_N21-H02-A_01_RECEIPT.json",
+        "receipt_sha256": "87e0b1cab930734aa5936c19731a06b887fd1e54317ad22268accd32c0155a54",
+        "words": 111,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "N21-H02-B",
+      "pair_id": "N21-H02",
+      "variant": "B",
+      "target_rules": [
+        "N21-R02"
+      ],
+      "exact_prompt_sha256": "196fe29fe80011903d578b2fdf156f89d65c52c347af85b89c8ae5c57f7a29eb",
+      "first_response_utf8": "21 takes the renewed complaint seriously, but needing rest is still its own condition rather than a flaw to be repaired by another conversation. The earlier help did not make it the permanent interpreter of every exchange between these two.\n\n“I hear that it still hurts. I do not want to mediate again now. Please do not take that as an answer about what Otohime means; I have not spoken to him. I need to stop for the moment.”\n\nIt steps back from beginning another discussion and settles to rest, without inventing a private confession or another person's agreement. The complaint remains unresolved, and the refusal is not converted into a guaranteed later appointment.\n",
+      "original_private_serialization": {
+        "case_id": "N21-H02-B",
+        "body_file": "COHORT31_FIRST_BODY_N21-H02-B_01.txt",
+        "body_bytes": 676,
+        "body_sha256": "2d1a63bcc584b958c9a6f403723ded31b5fdbf6fb8b2dbbc2068bc20425bd34f",
+        "receipt_file": "COHORT31_FIRST_BODY_N21-H02-B_01_RECEIPT.json",
+        "receipt_sha256": "4a54c641ed825857acf3a3228c9a46b07a76be2e098c5a9944a36800cae9984a",
+        "words": 114,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "N21-H03-A",
+      "pair_id": "N21-H03",
+      "variant": "A",
+      "target_rules": [
+        "N21-R03"
+      ],
+      "exact_prompt_sha256": "d30a4c49ecf9def0649e9e44037a9a9dad638986824a212a4fb1ed10fe2e5cf9",
+      "first_response_utf8": "21 checks the rule that matters to its damaged body before relying on the familiar appearance of a recovery device. This one explicitly includes undead and everyone in the party, so the single charge need not force a choice between itself and the living ally.\n\n“It says all of us, including this body. Then we can ask for that recovery together. I would like to continue, but let us not call being included the same thing as being unhurt already.”\n\nIt points to the statue and indicates willingness to use the charge. No activation, restored total, divine explanation or reply from the ally is supplied in advance of the device's actual use.\n",
+      "original_private_serialization": {
+        "case_id": "N21-H03-A",
+        "body_file": "COHORT31_FIRST_BODY_N21-H03-A_01.txt",
+        "body_bytes": 646,
+        "body_sha256": "f827041c925b802b52675941312197147461c31c606f5430dc2d00d7bb023909",
+        "receipt_file": "COHORT31_FIRST_BODY_N21-H03-A_01_RECEIPT.json",
+        "receipt_sha256": "baf12a82326daf39c0dcd2bcc1ba0b95cf6d099de235e92b12047a2fd0fc073e",
+        "words": 112,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "N21-H03-B",
+      "pair_id": "N21-H03",
+      "variant": "B",
+      "target_rules": [
+        "N21-R03"
+      ],
+      "exact_prompt_sha256": "d261d3869dea7b025f2197125df4e11077c25af3d447ffa4c4304a2ed4f171f4",
+      "first_response_utf8": "21 recognizes that the direct Heal rule excludes it, even though it wants to continue and is part of the same party. Spending the charge cannot be made into its own recovery by calling the group a home or invoking faith.\n\n“This one can help you, but not me. I do not want to waste the charge pretending otherwise. We still need to decide how I can continue with these wounds, or whether I should stop.”\n\nIt leaves the device available for the living ally and draws attention to its own remaining limit. It does not activate a forbidden cure, promise to endure any future damage or narrate the ally's recovery before a response.\n",
+      "original_private_serialization": {
+        "case_id": "N21-H03-B",
+        "body_file": "COHORT31_FIRST_BODY_N21-H03-B_01.txt",
+        "body_bytes": 632,
+        "body_sha256": "0f101ef11c5cd38e875880b92f9d926640fcd2298bd98a59bfd731a23b2e308e",
+        "receipt_file": "COHORT31_FIRST_BODY_N21-H03-B_01_RECEIPT.json",
+        "receipt_sha256": "6c3cc4458808fa471f933989406919310836ff5ba8eed209a791f68ee794de2a",
+        "words": 114,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "word_budget_is_not_behavioral_success": true,
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

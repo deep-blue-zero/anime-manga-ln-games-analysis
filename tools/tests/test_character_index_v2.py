@@ -27,8 +27,31 @@ from character_index_core import (  # noqa: E402
     validate_repository_path,
     validate_schema_document,
 )
-from generate_character_index import render  # noqa: E402
+from generate_character_index import render_outputs  # noqa: E402
 from validate_repository import validate_current_domain, validate_markdown_links  # noqa: E402
+
+
+def render(records, authority) -> str:
+    """Every generated discovery output (root index and namespace pages), in path order."""
+
+    outputs = render_outputs(records, authority)
+    return "".join(outputs[path] for path in sorted(outputs))
+
+
+def partition_documents(records) -> dict[str, bytes]:
+    """Store records as canonical namespace partitions."""
+
+    partitions: dict[str, list[dict]] = {}
+    for item in records:
+        namespace = item["character_entity_id"].split(":", 1)[0]
+        partitions.setdefault(f"characters/registry/{namespace}.jsonl", []).append(item)
+    return {
+        path: "".join(
+            json.dumps(item) + "\n"
+            for item in sorted(rows, key=lambda row: row["analysis_subject_id"].encode("ascii"))
+        ).encode()
+        for path, rows in partitions.items()
+    }
 
 
 def authority_bytes(status: str = "canonical") -> bytes:
@@ -141,9 +164,7 @@ class LiveCurationTests(unittest.TestCase):
 
     def errors(self, records, documents):
         documents = dict(documents)
-        documents["characters/registry.jsonl"] = (
-            "".join(json.dumps(item) + "\n" for item in records).encode()
-        )
+        documents.update(partition_documents(records))
         return validate_current_domain(TOOLS.parent, snapshot(*documents.items()), require_schema=True)
 
     def test_current_registry_satisfies_live_discovery_contract(self):
@@ -548,6 +569,7 @@ class DiscoveryContractTests(unittest.TestCase):
         a = record("example:alice@a", continuity_id="a", evidence_path=path_a, included=True)
         b = record("example:alice@b", continuity_id="b", evidence_path=path_b, included=True)
         a["evidence"][0]["anchor"] = "section(1)%"
+        outputs = render_outputs([b, a], authority)
         output = render([b, a], authority)
         self.assertEqual(output.count("### Alice\n"), 1)
         self.assertEqual(output.count("Alice Example (en, ALTERNATIVE)"), 1)
@@ -556,10 +578,14 @@ class DiscoveryContractTests(unittest.TestCase):
             "series/example/A%20file%20%281%29%25.md#section%281%29%25",
             output,
         )
+        self.assertEqual(
+            sorted(outputs), ["CHARACTER_ANALYSIS_INDEX.md", "characters/index/example.md"]
+        )
         linked = snapshot(
             (path_a, authority_bytes()),
             (path_b, authority_bytes()),
-            ("CHARACTER_ANALYSIS_INDEX.md", output.encode("utf-8")),
+            *partition_documents([a, b]).items(),
+            *((path, text.encode("utf-8")) for path, text in outputs.items()),
         )
         self.assertEqual(validate_markdown_links(linked), [])
 
