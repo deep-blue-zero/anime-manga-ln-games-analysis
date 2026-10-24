@@ -603,3 +603,10 @@ No model,rule,input or first response is created at this scope. Two narrow named
 No new model,rule,input or first body is created. Observed ordinary animal responses and one mediated seller exchange earn two compact profiles without a differentiated individual generator. All55 entering models and earlier original outputs remain exact. Final batteries and six distinct original StageD successors remain owed; no independent accuracy,grade or confidence gain follows.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+One Duke rule froze before exact inputs. Four actual immutable original English firsts/two dependent pairs preceded feedback. DK-A1 shelving taunt is absent the prompt and retained;pairA is not strict fully bound-body. PairB bodies respect current constraints but generic goal persistence/source cueing remain. Body compliance and mechanism isolation differ;no clean cause isolation,regeneration,independent accuracy,grade,confidence gain or final-battery credit.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

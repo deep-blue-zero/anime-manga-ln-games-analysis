@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort36.receiving-and-provenance.v1",
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "received_utc": "2026-10-24T14:05:41.973035+00:00",
   "previous_published_source": "4491664acee5ad901620d795acf0812f86e5747c",
   "source_baseline": "4491664acee5ad901620d795acf0812f86e5747c",
@@ -366,5 +366,19 @@
     "sha256": "a7c8b5429458996253caf875b3a179a9e56e906fb92882aeb9b8db4d430aa531"
   },
   "prior_semantic_receiving_sha256": "f85fa0877a0d8bfaf96ab52e033d9938eec2c8fc11523f039fb5729ff5aa7e51",
-  "publication_only_repair": "Only absolute-path serialization is replaced by source filenames and hashes. Full locations remain in private native plans. Source views,analysis,two profiles,one role,all counts,models and originals remain unchanged."
+  "publication_only_repair": "Only absolute-path serialization is replaced by source filenames and hashes. Full locations remain in private native plans. Source views,analysis,two profiles,one role,all counts,models and originals remain unchanged.",
+  "publication_resolution": {
+    "source": "b264fb26b64cf94d2281981779c26f2f3d21ecb8",
+    "tree": "d7308228e73804b384b162d1ea6655b12a23e114",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT36_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "2af7cf0334bfc782ef2725dfff6e08497514c88ee86cb42e16832978fe768cfc",
+    "source_run": 40102047304,
+    "full_discovered_tests": 459,
+    "current_models": 55,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "separate_housekeeping_run": null
+  },
+  "current_gate_qualification": "Both public cores,eleven frozen private artifacts,eight supporting records and compact fragment remain exact. Publication-path correction and failed preflight are preserved. No new model or diagnostic; all55models and prior originals retain existing status. Protected integration,independent accuracy,grade,confidence gain and final batteries remain unearned."
 }

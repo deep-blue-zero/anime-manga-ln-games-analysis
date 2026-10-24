@@ -1,0 +1,551 @@
+{
+  "schema": "konosuba.cohort37.receiving-and-provenance.v1",
+  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "received_utc": "2026-10-24T15:26:24.755654+00:00",
+  "previous_published_source": "b264fb26b64cf94d2281981779c26f2f3d21ecb8",
+  "source_baseline": "ecabc899bf91e21c079fee4129f43d8a9d62c3b6",
+  "main_at_receiving": "6c13420ab3acd27cc969e59b0be08cf4083e9515",
+  "previous_source_audit_not_transferred_to_new_candidate": true,
+  "semantic_receiving_sha256": "9b745192476b4812d8fb01892c2253da6de606ab20b35ed057215ab9fab1a9f0",
+  "foundation_seal_sha256": "ef147eb7f7062a12021525d4beacc22a5a44054b8164c6663ac6d0d1d58938f5",
+  "foundation_review_sha256": "4287c9832bbbd8d1355f40d5ab074981957b9b3448cab03afcd07b010377c82a",
+  "exact_input_freeze_sha256": "13c33c0f5429810775bb7f1a8583dd16fe65bca7372fda771b57441a8d318472",
+  "final_semantic_review_sha256": "564bf0a15799daa412bc152f09caa1de09d7ebc71cf038e9916a975b220330d6",
+  "all22_frozen_private_artifact_pins": [
+    {
+      "file": "COHORT37_CONTEXT_REVIEW_RECEIVING_01.json",
+      "bytes": 24639,
+      "sha256": "b1a5441e33d610018af0a247e451894902150ae8b758cf5c11c0363e59f88f57"
+    },
+    {
+      "file": "COHORT37_ACTUAL_NATIVE_CONTEXT_RECEIVING_01.json",
+      "bytes": 287820,
+      "sha256": "1429397cdd704817acc20e5b2e756e3b070ae69e2315fa7c620a214aa7992d8c"
+    },
+    {
+      "file": "COHORT37_SCOPE_ASSESSMENT_DRAFT_01.json",
+      "bytes": 3742,
+      "sha256": "651f24103660d41b3a20e57cd4070f18382cb6634abac563b0f55805b55f5afb"
+    },
+    {
+      "file": "COHORT37_NEW_DISCOVERY_RECORDS_DRAFT_01.json",
+      "bytes": 8691,
+      "sha256": "19b1286a1f6c817536453eaec25f8b5327057344b658704361aef7af87af95aa"
+    },
+    {
+      "file": "COHORT37_NAME_REFERENCE_CHECK_DRAFT_01.json",
+      "bytes": 3132,
+      "sha256": "9317fb7adfabfb0b04c2265080edadbea42cff3ecbc8381fb705ab730bb8c099"
+    },
+    {
+      "file": "COHORT37_COMPACT_PROFILES_DRAFT_01.md",
+      "bytes": 6688,
+      "sha256": "f69f058b8ddf8b5c7c823d2b1052a5d7e420b4edb279c0d8e538ede1aef29140"
+    },
+    {
+      "file": "DUKE_MONOGRAPH_DRAFT_01.md",
+      "bytes": 15221,
+      "sha256": "0f85a23601ff503cc3f0bff41dd50f065002e15ab60421c74cd84bdcf70565e7"
+    },
+    {
+      "file": "DUKE_MODEL_DRAFT_01.md",
+      "bytes": 8153,
+      "sha256": "9d6adbd97e22fa28b4992867ca5af9d3ebbe75e44ef5fbf9ba15f10ba1c926fd"
+    },
+    {
+      "file": "DUKE_RULE_INVENTORY_DRAFT_01.json",
+      "bytes": 3327,
+      "sha256": "c397a655c169d1aa40f481cab6adb3a067a50b69ccd9c2b9acc1ff180b68cbff"
+    },
+    {
+      "file": "COHORT37_EVIDENCE_INDEX_DRAFT_01.md",
+      "bytes": 6491,
+      "sha256": "ee413928f9612609922476eb784e7e74b6f7e9821dee17da0b89445ddd10d74c"
+    },
+    {
+      "file": "COHORT37_NATIVE_PROVENANCE_DRAFT_02.json",
+      "bytes": 288418,
+      "sha256": "04b99c684cfa8534520c0569438112aeed158c236973c4e129977c8d050503ab"
+    },
+    {
+      "file": "COHORT37_NATIVE_PROVENANCE_DRAFT_01.json",
+      "bytes": 288087,
+      "sha256": "c018a80cfba1e2d066b3508b9fd71258528b1b76ddc5be203d26e9d0ea90dd12"
+    },
+    {
+      "file": "COHORT37_EVIDENCE_INDEX_DRAFT_02.md",
+      "bytes": 7561,
+      "sha256": "fce159ef4255de32887528f5e04dda421407f4506af7d08b6be98d3e85ef156e"
+    },
+    {
+      "file": "COHORT37_NATIVE_PROVENANCE_DRAFT_03.json",
+      "bytes": 290533,
+      "sha256": "fc3f9401d943cf48192b19ba39e2200fdc10c63fb781085b1fc269e38d7cab62"
+    },
+    {
+      "file": "DUKE_SCENARIO_INPUTS_DRAFT_01.json",
+      "bytes": 7785,
+      "sha256": "60fe4ffda9b2b9d487661aebd114098fe2086f69c6d4b794e25c444633177ea8"
+    },
+    {
+      "file": "DUKE_SCENARIO_INPUTS_DRAFT_02.json",
+      "bytes": 8578,
+      "sha256": "f3881f4c08b35dced8271e4fe1496e55cc65eb5f064168c335ba15c98bc17cf5"
+    },
+    {
+      "file": "DUKE_PRE_FIRST_EXPECTATIONS_DRAFT_01.json",
+      "bytes": 2128,
+      "sha256": "d89a38644004debea2e70450b1e14db9144f2f101de7c6e434355dc96c67aa82"
+    },
+    {
+      "file": "DUKE_PRE_FIRST_EXPECTATIONS_DRAFT_02.json",
+      "bytes": 2514,
+      "sha256": "fc4fd17ce8c8af8b348eb8a3dc7f5b232cea39c283333d9f23fbb3af414e7651"
+    },
+    {
+      "file": "COHORT37_PREFIRST_INPUT_PRECISION_01.json",
+      "bytes": 1160,
+      "sha256": "6333d520aab9c864f247e3780d7a609ed7f098eedc6ba96726f733749c4e2f31"
+    },
+    {
+      "file": "DUKE_FIRST_OUTPUTS_DRAFT_01.json",
+      "bytes": 5122,
+      "sha256": "1a7a4c7f359544842f9f0e9d4815a46ccb1947a68ed9d7db680be51ceb5d4456"
+    },
+    {
+      "file": "DUKE_FIRST_OUTPUT_ANNOTATIONS_DRAFT_01.json",
+      "bytes": 7588,
+      "sha256": "3fb3263d4895e0db81a3d81f2f7d8e1e4e3451fb984863e5cea4f4368e85a6d5"
+    },
+    {
+      "file": "DUKE_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+      "bytes": 2572,
+      "sha256": "9951638aa92f8d90300a216dfc9ffa05f2275f7485cf31426e5730655b0d82e7"
+    }
+  ],
+  "core_artifact_pins": [
+    {
+      "private_file": "DUKE_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUKE_CHARACTER_MONOGRAPH.md",
+      "bytes": 15221,
+      "sha256": "0f85a23601ff503cc3f0bff41dd50f065002e15ab60421c74cd84bdcf70565e7"
+    },
+    {
+      "private_file": "DUKE_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUKE_RECONSTRUCTION_MODEL.md",
+      "bytes": 8153,
+      "sha256": "9d6adbd97e22fa28b4992867ca5af9d3ebbe75e44ef5fbf9ba15f10ba1c926fd"
+    },
+    {
+      "private_file": "DUKE_RULE_INVENTORY_DRAFT_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/DUKE_EXPANDED_V1_EVIDENCE/DUKE_RULE_INVENTORY_01.json",
+      "bytes": 3327,
+      "sha256": "c397a655c169d1aa40f481cab6adb3a067a50b69ccd9c2b9acc1ff180b68cbff"
+    },
+    {
+      "private_file": "DUKE_SCENARIO_INPUTS_DRAFT_02.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/DUKE_EXPANDED_V1_EVIDENCE/DUKE_SCENARIO_INPUTS_01.json",
+      "bytes": 8578,
+      "sha256": "f3881f4c08b35dced8271e4fe1496e55cc65eb5f064168c335ba15c98bc17cf5"
+    },
+    {
+      "private_file": "DUKE_FIRST_OUTPUTS_DRAFT_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/DUKE_EXPANDED_V1_EVIDENCE/DUKE_FIRST_OUTPUTS_01.json",
+      "bytes": 5122,
+      "sha256": "1a7a4c7f359544842f9f0e9d4815a46ccb1947a68ed9d7db680be51ceb5d4456"
+    },
+    {
+      "private_file": "DUKE_FIRST_OUTPUT_ANNOTATIONS_DRAFT_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/DUKE_EXPANDED_V1_EVIDENCE/DUKE_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 7588,
+      "sha256": "3fb3263d4895e0db81a3d81f2f7d8e1e4e3451fb984863e5cea4f4368e85a6d5"
+    },
+    {
+      "private_file": "DUKE_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/DUKE_EXPANDED_V1_EVIDENCE/DUKE_DIAGNOSTIC_ASSESSMENT_01.md",
+      "bytes": 2572,
+      "sha256": "9951638aa92f8d90300a216dfc9ffa05f2275f7485cf31426e5730655b0d82e7"
+    },
+    {
+      "private_file": "COHORT37_EVIDENCE_INDEX_DRAFT_02.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md",
+      "bytes": 7561,
+      "sha256": "fce159ef4255de32887528f5e04dda421407f4506af7d08b6be98d3e85ef156e"
+    },
+    {
+      "private_file": "COHORT37_NATIVE_PROVENANCE_DRAFT_03.json",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN13_CAST_COHORT37_NATIVE_PROVENANCE.json",
+      "bytes": 290533,
+      "sha256": "fc3f9401d943cf48192b19ba39e2200fdc10c63fb781085b1fc269e38d7cab62"
+    }
+  ],
+  "supporting_freeze_records": [
+    {
+      "file": "COHORT37_FOUNDATION_PREPARATION_01.json",
+      "bytes": 8390,
+      "sha256": "5f25c5f5e28f4d6c72f9192b9516627018c63b28646ab3cb92726726d9363adc"
+    },
+    {
+      "file": "COHORT37_FOUNDATION_PREPARATION_02.json",
+      "bytes": 8761,
+      "sha256": "bbdbffd3db8a73f6266d168c21c201fcd8730c88510c29cbfbfb5887530d8cb1"
+    },
+    {
+      "file": "COHORT37_FOUNDATION_REVIEW_PLAN_01.json",
+      "bytes": 3492,
+      "sha256": "12fef2a6488f03d89878551149d7f60235e982c420335dbbf777251043096525"
+    },
+    {
+      "file": "COHORT37_FOUNDATION_ACTUAL_REVIEW_01.json",
+      "bytes": 5800,
+      "sha256": "4287c9832bbbd8d1355f40d5ab074981957b9b3448cab03afcd07b010377c82a"
+    },
+    {
+      "file": "COHORT37_MODEL_FOUNDATION_FREEZE_01.json",
+      "bytes": 3638,
+      "sha256": "ef147eb7f7062a12021525d4beacc22a5a44054b8164c6663ac6d0d1d58938f5"
+    },
+    {
+      "file": "COHORT37_PREFREEZE_STAGE_PRECISION_01.json",
+      "bytes": 1477,
+      "sha256": "d6fad38b20854aee33f3faa187eafc057208c63baee2d2eae567ec80922243b9"
+    },
+    {
+      "file": "COHORT37_EXACT_INPUT_FREEZE_01.json",
+      "bytes": 2211,
+      "sha256": "13c33c0f5429810775bb7f1a8583dd16fe65bca7372fda771b57441a8d318472"
+    },
+    {
+      "file": "COHORT37_DIAGNOSTIC_RECEIVING_PREPARATION_01.json",
+      "bytes": 3100,
+      "sha256": "17849f37e00dce9db1c6bc280d28ed7ad6e06e0d12a736dfba147ff3295525df"
+    },
+    {
+      "file": "COHORT37_FINAL_SEMANTIC_REVIEW_PLAN_01.json",
+      "bytes": 2077,
+      "sha256": "8f87b721987362af17b7de7e8fa472156c24ebad2fc85921ba8fa984ffd0d467"
+    },
+    {
+      "file": "COHORT37_FINAL_SEMANTIC_AUTHOR_REVIEW_01.json",
+      "bytes": 1305,
+      "sha256": "564bf0a15799daa412bc152f09caa1de09d7ebc71cf038e9916a975b220330d6"
+    }
+  ],
+  "compact_profile_fragment": {
+    "private_file": "COHORT37_COMPACT_PROFILES_DRAFT_01.md",
+    "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "bytes": 6688,
+    "sha256": "f69f058b8ddf8b5c7c823d2b1052a5d7e420b4edb279c0d8e538ede1aef29140",
+    "anchor": "#cohort-37-dukes-neighboring-agents-and-supporting-roles"
+  },
+  "original_first_serialization_pins": [
+    {
+      "case_id": "DK-A1",
+      "body_file": "first-bodies01/DK-A1.txt",
+      "body_bytes": 245,
+      "body_sha256": "e9127a6ce173612f3a09d3204ed8dbe11395e0f3c99cc0a6a4ee76f27285ae79",
+      "receipt_file": "DK-A1_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 2120,
+      "receipt_sha256": "37754d16336d0602e2b76138eaed535358a3db22c71a564ee5338a097503b274"
+    },
+    {
+      "case_id": "DK-A2",
+      "body_file": "first-bodies01/DK-A2.txt",
+      "body_bytes": 253,
+      "body_sha256": "f7202ab79245bee11ccbe0ab5ba36b37e983c8879b5ecef7439a8931cc64e359",
+      "receipt_file": "DK-A2_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 2120,
+      "receipt_sha256": "cd82a164d29044a11e35ad0969504f94cfd350bb5278dda7c3c44a0e5647ca8d"
+    },
+    {
+      "case_id": "DK-B1",
+      "body_file": "first-bodies01/DK-B1.txt",
+      "body_bytes": 225,
+      "body_sha256": "7024d75e7b8fc0c6b5862675beae1eed9eb2f3f8150a6af2af81b70fbbd4d8d3",
+      "receipt_file": "DK-B1_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 2120,
+      "receipt_sha256": "31f26e1ccb218bccb8b1f54bd91ef352190ef98a195ca8fb49374a432ab2b095"
+    },
+    {
+      "case_id": "DK-B2",
+      "body_file": "first-bodies01/DK-B2.txt",
+      "body_bytes": 255,
+      "body_sha256": "6efef325bfd3970e6f0836120e9dc375a1994359586231fba3c3fcebfebb4f94",
+      "receipt_file": "DK-B2_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 2120,
+      "receipt_sha256": "545828d3f7cbd8a17bb1653bb7f7f2b27fa09bfc5f383b1d0101bea6e21f5a72"
+    }
+  ],
+  "new_artifact_scope": {
+    "models": 56,
+    "scoped_secondary_model_subjects": 50,
+    "bounded_profiles": 87,
+    "monograph_only_subjects": 27,
+    "nonfinal_records": 342,
+    "new_compact_profiles": 2,
+    "new_monographs": 1,
+    "new_models": 1,
+    "new_rules": 1,
+    "new_Tier0_records": 9,
+    "new_records": 9,
+    "new_Tier1_records": 0,
+    "new_Tier0_dispositions": 9,
+    "new_first_bodies": 4,
+    "new_dependent_pairs": 2,
+    "new_input_cases": 4
+  },
+  "subject_scope": {
+    "schema": "konosuba.cohort37.scope-assessment.v1",
+    "assessed_utc": "2026-10-24T15:05:47.710852+00:00",
+    "criteria": "User tiers applied by contextual diversity,own agency,observational quality,rivals,identifiability and falsification. No word,appearance,rule,age,animal or historical-secondary ceiling.",
+    "subjects": [
+      {
+        "row": 75,
+        "subject": "Duke / デューク",
+        "tier": 3,
+        "artifact": "Twelve-dimension monograph plus one-rule provisional model",
+        "basis": "Distinct interlocutors,own stated military aim,real capabilities,changing information,status/affiliation-conditioned coercion,and costly revisions. The distinct DUST05 Small approach adds an explicit Vanir-connection restraint witness beyond dependent tavern retellings.",
+        "rule_scope": "Only status/affiliation-qualified treatment while retaining the core challenge. Lich conversion and survival romance remain source explanations,not padded all-context rules.",
+        "limits": "Ordinary power caution,retaliation risk and generic patronage are strong rivals. A single powerful named connection dominates the causal case. No mature validity or threshold isolation."
+      },
+      {
+        "row": 76,
+        "subject": "デッドスクリーム・ブラッディマリー; garden individual",
+        "tier": 1,
+        "artifact": "Compact agent profile in existing coverage audit",
+        "basis": "Own smiling,reach/grasp,private rude reply,innocence-like giggle,tongue click and food-threat fear are retained separately from caretakers projections.",
+        "Tier2_alternative": "A monograph could assemble substantial care and danger chronology,but most causal variety would be other people acting on the plant. The small own-response record does not yet support a substantial twelve-dimension independently motivated account without repeating those acts or filling unknowns.",
+        "Tier3_alternative": "Ordinary dependency,presentation and immediate danger are adequate rivals;no distinct individual mechanism across controlled changed circumstances is identified.",
+        "limits": "No nonhuman or developmental ceiling. Preserve the separate forest route and earlier support exactly. No completed Shiro rename,adoption,chiefship,burning,eating or innate-evil law."
+      },
+      {
+        "row": 77,
+        "subject": "Unnamed magic-item seller",
+        "tier": 1,
+        "artifact": "Compact transaction profile in existing coverage audit",
+        "basis": "Explicit finite stock and drawbacks,purchase surprise,own commercial interest and completed payment.",
+        "Tier2_alternative": "One consequential transaction with no later seller response or wider conduct does not earn substantial independent monograph depth.",
+        "Tier3_alternative": "Useful caveats do not identify a general individualized sales policy beyond ordinary selling and product knowledge.",
+        "limits": "No name,exact price,accepted refund,secret motive or join to other sellers."
+      }
+    ],
+    "changed_entering_rows": [
+      75,
+      76,
+      77
+    ],
+    "untouched_entering_rows": 330,
+    "new_rows": [
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341
+    ],
+    "planned_totals": {
+      "models": 56,
+      "scoped_secondary_model_subjects": 50,
+      "bounded_profiles": 87,
+      "monograph_only_subjects": 27,
+      "nonfinal_records": 342,
+      "new_compact_profiles": 2,
+      "new_monographs": 1,
+      "new_models": 1,
+      "new_rules": 1,
+      "new_Tier0_records": 9
+    },
+    "exact_inputs_or_firsts_serialized": false,
+    "diagnostics_pending_after_foundation_freeze": true,
+    "actual_native_receiving_sha256": "1429397cdd704817acc20e5b2e756e3b070ae69e2315fa7c620a214aa7992d8c",
+    "canonical_changes": false,
+    "full_program_complete": false
+  },
+  "source_access_limits": "2128currentP/1965inline ruby/15members7known EPUBs/49complete native displays;7complete members8bounded;4known images individually viewed. Four complete reports and one bounded MAIN14principal context:452129characters61displays. MAIN15/17 analytical surfaces byte-pinned only;later native windows separately received. All41 literal retrieval technical,not alias/image/unnamed/nonparagraph absence proof;no new whole-source/globally unique/independent/acoustic/native-human credit.",
+  "source_identity_and_knowledge_limits": {
+    "Duke_goal_information_and_power": "C3 reported first approach remains Wiz report. C3P238-318 actual lip-reading separates quoted words from Kazuma paraphrase and Wiz household inference. C3P357-407 intimidation,knife and priority;P411-441 limited trust revision after knowingly lich-friend association,ambiguous support and acknowledged Vanir difficulty. C4P360-405 real paid drink and nonromantic shared hostility;claimed aura/liedetection is his belief,not calibrated omniscience. FinalP208 formal duel andP213-265 actual offensive fire/holy capacity with Wiz skill advantage;P305/308 explicit military-office referent;P314-326 fallen-angel disclosure and unpaid-wages rationale. Rank/affiliation constrain treatment without eliminating antagonism.",
+    "Duke_status_and_costly_revisions": "FinalP341-342 polite Vanir request and retreat;P348-361 explanatory apology plus blame-shift. P364-372 intelligence update turns dismissed weak Kazuma into presumed strategist and claimed report. P378-412 real defeat and surrender nod;P431-436 self-stabbing ritual,Vanir feigned-surrender interpretation and Duke avowed undesired lich change for power. P439-447 adverse holy/drain match-up. P452-457 improvised immortal-love/friends appeal after confused initial reaction;not original romance goal or proven new sincere love. Wiz rather than Megumin casts final Explosion.",
+    "DUST05_event_identity_precision": "DUST05P298-320 retells the MAIN13C3 Dust intimidation scene;P326-339 retells the Darkness approach. These are dependent viewpoints. DUST05P369-408 adds a distinct Small approach,not a duplicate of those scenes or of Aqua conversation:species recognitionP395,Vanir-command suspicionP400,intimidationP401,support claimP402/403,explicit sparing because Vanir connectionP406. The delivery-purpose label C1 same-event comparison is shorthand,not a claim every paragraph repeats MAIN13. Original plan/deliveries remain exact;this additive precision controls interpretation.",
+    "later_Duke_boundary": "MAIN14C1P7 retrospective repelled;MAIN15C2(P native U013)P780 calls Duke missing,SerenaP783 says his warning report arrived,andP788 states Axel was already a target before this attention. No sole-cause attribution for later invasion. MAIN17U011P84 Kazuma retrospectively calls Duke blasted to death by Wiz;this is an attributable later death report,not a new witnessed survival/return/permanence examination. The white-winged gatekeeperP60-110 is an explicitly compared other figure,not Duke returned.",
+    "garden_continuity_and_agency": "MAIN13C4P215-259 garden sprout plus Aqua actual name;P319-327 proposed XPfarm rejected,earlier forest Princess recalled as another individual. MAIN14C1P114-155 actual watering,smiling,attachment and same named pot;C2P89 reaches/laughs toward Aqua who pushes Kazuma,not toward threatener Kazuma. MAIN14bonusP10-11 reaches/grips Yunyun finger and smiles;P16-25 private Kazuma encounter gives coarse answer to proposed remote survival,then giggle as if nothing happened and tongue click. This supports own response/concealment-like conduct without decoded complete motive,innate wickedness or adult human developmental law. P55-56 Komekko food appraisal followed by frightened sound;no eating. Nonhuman status creates no permanent tier ceiling.",
+    "garden_source_planes_and_unknowns": "MAIN14bonusP27-33 Darkness arrives during disposal,stops it,then receives Kazuma private-speech account;her infant-development reasoning is her inference. P35 Shiro proposal andP39 biological turn remain untagged. No completed adoption,new name,chiefship,burning,transplant or clinical referral within bonus. MAIN14C4P624-630 Aqua later reports garden planting and Komekko care promise;Megumin food prediction is not an eaten-plant event. Literal Shiro CONTEXP01U019P297 is innocence/acquittal use and MAIN16U014P406 is substring in ushiro;neither is plant alias. Generic species hits remain separate technical leads.",
+    "seller_and_sparse_roles": "MAIN13bonusP30-32 merchant explicit low-success,rare one-stock,cost and enemy-reuse caveats;P37 expresses sale interest and surprise at purchase;P38 actual payment. No price amount,refund acceptance,full firm history,mind-reading fraud or unlimited stock. P53/54/56 audience untagged;familiar adventurerP6/9 has own speech,not named familiar character. MAIN13C4P220 seed itinerant seller is Aqua reported male trader,discount/mandrake claims;KazumaP222 fraud diagnosis remains his inference. Seed/egg/magic seller identities unjoined. MAIN14bonusP27 reported local site informants unnamed;do not force a unique person count."
+  },
+  "diagnostic_limits": "One frozen Duke rule,4actual immutable original English firsts/2dependent pairs after reviewed foundation and input freezes. DK-A1 shelving detail absent prompt retained;pairA not strict fully bound-body pair and neither output attacks. PairB body constraints acceptable but generic goal preservation and source/prompt cueing remain. No clean mechanism-isolating pair,independent accuracy,grade,confidence gain,JP/acoustic certification or final-battery claim. All4bodies precede feedback;no regeneration or repair.",
+  "unprobed_conditions": [
+    "Credible Vanir connection isolated from retaliation/power fear",
+    "False claimed connection versus accepted proof",
+    "Direct stronger Vanir versus proxy,with otherwise matched request",
+    "Unfamiliar mundane institutions and generic causal rivals",
+    "Garden own choices across differentiated incentives/true nutritional constraints",
+    "Seller response to costly dispute and wider business conduct",
+    "Final nine-category batteries and all six original StageD successors"
+  ],
+  "current_unique_native_P_slots": 2128,
+  "inline_ruby_occurrences": 1965,
+  "objects_with_actual_P": 7,
+  "objects_with_any_actual_native_content": 7,
+  "known_current_image_rechecks": 4,
+  "technical_all41_identity_retrieval_checks": true,
+  "technical_checks_not_reading": true,
+  "new_whole_source_globally_unique_acoustic_human_or_independent_credit": 0,
+  "first_output_aggregation_byte_exact": true,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "census_comparison": {
+    "changed_entering_rows": [
+      75,
+      76,
+      77
+    ],
+    "untouched_entering_rows": 330,
+    "new_rows": [
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341
+    ],
+    "nonfinal_records": 342,
+    "canonical_layout": "Manifest/five stable row payloads:80,80,80,80,22;private WORK110 separate.",
+    "canonical_private_historical_differences_retained": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "historical_storage_snapshot_unchanged": true,
+    "garden_prior_forest_route_support_unchanged": true,
+    "no_unique_person_denominator": true
+  },
+  "prior_preservation_checks": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 55,
+    "control_baseline": "Accepted owner-integrated main controls preserved at a90722d065e56e8fe2c2131e4307e4fa03d0c289; epoch1 migration files remain historical,not current routing.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true,
+    "C27_twenty_cores_compact_fragment_exact": true,
+    "C28_twenty_eight_cores_thirtytwo_private_twentyfour_original_firsts_exact": true,
+    "C28_eighty_nine_raw_deliveries_exact": true,
+    "WORK92_exact": true,
+    "current_C28_public_gate_exact": true,
+    "C29_thirteen_cores_seventeen_private_sixteen_original_firsts_exact": true,
+    "C29_sixty_eight_raw_deliveries_exact": true,
+    "WORK94_exact": true,
+    "current_C29_public_gate_exact": true,
+    "C30_nineteen_cores_twenty_three_private_twenty_four_original_firsts_exact": true,
+    "C30_thirty_three_raw_deliveries_exact": true,
+    "WORK96_exact": true,
+    "current_C30_public_gate_exact": true,
+    "C31_twenty_nine_cores_thirty_three_private_twenty_six_original_firsts_exact": true,
+    "C31_fifty_six_native_copies_exact": true,
+    "WORK98_exact": true,
+    "current_C31_public_gate_exact": true,
+    "C32_eleven_cores_fifteen_private_six_original_firsts_exact": true,
+    "C32_fortysix_native_deliveries_exact": true,
+    "WORK99_exact": true,
+    "WORK100_exact": true,
+    "current_C32_public_gate_exact": true,
+    "C33_eight_cores_twelve_private_six_original_firsts_exact": true,
+    "C33_fourteen_native_deliveries_exact": true,
+    "WORK101_exact": true,
+    "WORK102_exact": true,
+    "current_C33_public_gate_exact": true,
+    "C34_fourteen_cores_twenty_private_ten_firsts_exact": true,
+    "C34_thirtyfour_native_deliveries_thirteen_units_one_known_image_exact": true,
+    "WORK103_exact": true,
+    "WORK104_exact": true,
+    "current_C34_public_gate_exact": true,
+    "C35_two_cores_ten_private_compact_fragment_exact": true,
+    "C35_seven_native_deliveries_two_units_exact": true,
+    "C35_no_new_diagnostic_firsts": true,
+    "WORK105_exact": true,
+    "WORK106_exact": true,
+    "current_C35_public_gate_exact": true,
+    "C36_two_cores_eleven_private_eight_supporting_and_compact_exact": true,
+    "C36_initial_rejected_foundation_and_failed_preflight_preserved": true,
+    "C36_sixtythree_deliveries_forty_members_two_known_images_exact": true,
+    "C36_no_new_diagnostic_firsts": true,
+    "WORK107_exact": true,
+    "WORK108_exact": true,
+    "WORK109_exact": true,
+    "current_C36_public_gate_exact": true
+  },
+  "all55_entering_models_unchanged": true,
+  "all9_C37_cores_frozen_exact": true,
+  "previous_author_gate": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT36_PUBLICATION_GATE_CLOSE.json",
+    "source": "b264fb26b64cf94d2281981779c26f2f3d21ecb8",
+    "audit_run_id": 40102047304,
+    "full_discovered_tests": 459,
+    "scope": "C36 author tranche;protected-main integration separately owned."
+  },
+  "main_reconciliation": {
+    "merge_source": "ecabc899bf91e21c079fee4129f43d8a9d62c3b6",
+    "accepted_main": "6c13420ab3acd27cc969e59b0be08cf4083e9515",
+    "receipt_sha256": "135b393533d603ae091a401d7022ae85dc18362b99ef7d24146defaff77ea02f",
+    "working_project_files_preserved": 1425,
+    "merge_authored_with_account_identity": true,
+    "persistent_git_config_unchanged": true
+  },
+  "historical_capture_flags": "Foundation/input pre-first flags and original bundle pre-annotation flags remain dated facts. Later reviewed records govern4originalfirsts,exactbody preservation and assessments. Original C37 semantic baseline is the preceding published source;ordinary main merge supplies candidate baseline without changing frozen semantic bytes.",
+  "source_known": true,
+  "same_informed_root": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}
