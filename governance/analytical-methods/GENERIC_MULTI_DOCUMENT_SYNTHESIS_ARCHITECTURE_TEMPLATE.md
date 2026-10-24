@@ -338,6 +338,8 @@ project_initialization:
 
 Use the key spellings the validator reads (initiation Section 3.8). Keep the entrypoint about the present; move dated history to a changelog beside it.
 
+An OPEN lock alone admits nothing. Before the first sequential reading is admitted, the entrypoint must also record the owner-authorized run (initiation Section 3.9.4; [continuation policy](../source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md)): `project_initialization.next_permitted_operation` naming the first unit, and a `sequential_execution` block with `run_state: active`, `mode: single_operation` or `continuous_sequential`, nonempty `authorized_start` and `terminal_boundary` (under `single_operation`, both are that one unit), `committed_high_water_mark`, and `next_candidate_operation` equal to `next_permitted_operation`. The validator rejects a reading admitted under an OPEN lock without that active run.
+
 ---
 
 # Part II: Initialization checklist
@@ -353,7 +355,8 @@ Before the first substantive sequential reading, confirm (initiation Section 15)
 - [ ] source, conflict, and continuity rules explicit;
 - [ ] extension rule and completion gates present;
 - [ ] reasoning classes assigned;
-- [ ] entrypoint written; lock recorded as open only after all of the above.
+- [ ] entrypoint written; lock recorded as open only after all of the above;
+- [ ] owner-authorized run recorded (`run_state: active`, mode, bounds, matching next operations) before the first reading is admitted.
 
 ---
 
