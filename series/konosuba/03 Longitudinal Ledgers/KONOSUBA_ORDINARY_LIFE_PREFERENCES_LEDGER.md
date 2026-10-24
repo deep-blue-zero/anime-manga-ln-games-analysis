@@ -1406,3 +1406,10 @@ Barton has fieldwork, books, public reception, preferred creatures and a particu
 Lia's singing joy, particular plush and chosen company coexist with repeated room neglect and an unapproved donation promise. Cielo mediates, prepares and clears rubble, enjoys performing and objects to a masculine label without denying strength. Erika wants visibility, offers a free favor, seeks costume resources and remains attached to the actual trio. Charlie's hallway sleep and fan interest and Daniel's castle, images and reemployment wish do not supply complete independent routines. Their Tier2 monographs leave that ordinary-life breadth open rather than inventing it.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Replay ordinary evidence includes money, upkeep, comfort, bedding, drinking intentions, milk, odor and a wanted home.2700 KE Chiho→Otohime transfer and 800 KE communication scrolls are actual; continued borrowing/doubt remain. Gilbert/Chiho Economy versus Otohime/Temiren Suite is bounded; 21 individual comfort level is not separately certified. Powerless jewels become decorations, not actual powered baths. Welcome/bath pleasure is narrated; future Banquet, hunt and completed dragon memorial are not performed.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

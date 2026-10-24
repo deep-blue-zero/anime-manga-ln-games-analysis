@@ -1181,3 +1181,10 @@ Barton and Zereschilt have separate Tier 3 monographs and provisional four-rule 
 Lia, Cielo and Erika have distinct Tier3 monographs and provisional four-rule models; Charlie and Daniel have Tier2 monographs without models. Seven occupational/social encounters have compact Tier1 profiles and five unresolved roles/groups retain Tier0 indexes. Candidate totals are 46 models, 40 scoped secondary model subjects, 59 compact profiles, 22 monograph-only subjects and 282 nonfinal records. Five entering rows change and 265 others remain exact; twelve new scope records are not twelve globally unique people. Source-known consistency exercises do not establish independent reliability or final maturity.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Gilbert, Suzuki Chiho, Otohime, Temiren and 21 have separate Tier 3 monographs and provisional 3/2/3/2/3 rule models. Froger/Goran have Tier 2 monographs without models. Seven Tier 1 profiles and four Tier 0 occurrence records preserve role/group/state uncertainty. Candidate totals:51 models, 45 scoped secondary model subjects, 66 profiles, 24 monograph-only subjects and 295 nonfinal records. Existing rows 37/38/163–167 change; 275 other histories stay exact in each plane. Thirteen new records are not thirteen disjoint people, and aggregate 37 adds no sixth PC/model.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

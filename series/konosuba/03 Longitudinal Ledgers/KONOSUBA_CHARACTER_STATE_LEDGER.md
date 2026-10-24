@@ -1859,3 +1859,10 @@ Barton changes aims from clearing weather for a date to acquiring a gift, preser
 Lia's pre-memory competence, restored-history withdrawal, duty conflict, finite barrier and chosen return are separate states. Eating and errands continue during withdrawal; no diagnosis follows. Cielo's performance enjoyment coexists with remaining contact difficulty. Erika's confidence coexists with anxiety, shame, self-correction and care. Charlie's distress, bodily precaution and correct warning differ from Daniel's selective grief, retreat and ignored warning. The five separate monographs preserve their own agency in the selective FD continuity.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+TRPG replay construction, PC acts, player metacomment, GM adjudication and reported history remain distinct. Gilbert useful support/status/credibility conflict; Chiho health doctrine and unresolved relational reassurance; Otohime fear, actual costs and partial repair; Temiren recognition and typed competence; 21 pressure before later own belonging each receive separate monograph/model. Froger/Goran receive monographs without models. These states are not added principal-novel events or natural-player psychology.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

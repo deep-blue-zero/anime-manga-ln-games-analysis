@@ -1536,3 +1536,10 @@ Barton knows useful ecology but can answer the wrong practical question; exact d
 Lia contributes spear skill, a missing-plan question and costume-rule knowledge; keyboard range and mana remain finite, and Aqua supplies her resurrection. Cielo's strength is directly demonstrated, while healing is offered by her and credited by Megumin after the quest (FD-U012 P163/P388-390); apologies P404/P422 are not separate casts. Erika's trap lapse coexists with speed, rehearsal and a correct quiz answer. Charlie reads the manual and later gives a correct warning despite disclosure errors. Daniel learns barehand cost, acquires gloves and later fails to attend to their loss. Stipulated hypothetical skills earn no canonical competence.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Gilbert Heal/Shield aid coexists with failed exorcism and need for a scroll user. Chiho actual attack and real vulnerability coexist with harmful health claims. Otohime protection depends on defense, allies, resources and applicable Covering doubling; final 41→82 survival uses no Death Return. Temiren identification/scroll successes do not erase cost or failed evasion.21 trap detection 15 does not cover GM event lightning; statue recovery explicitly includes undead as facility data, not Heal/miracle. Stipulated hypothetical arithmetic and eligibility earn no canonical competence.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

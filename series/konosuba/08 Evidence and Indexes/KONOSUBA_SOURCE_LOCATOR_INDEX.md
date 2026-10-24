@@ -1978,3 +1978,10 @@ Cohort29 index/provenance bind 68 complete source-known windows to 6,730 unique 
 The cohort30 index/provenance binds 33 complete current FD native deliveries to all 3,707 unique positive-member BASE slots: nine principal bodies/3,645 and six nonfiction/62 across fifteen members in one local object. This adds no fresh whole-edition, ruby, residual, image-set or admission credit. Original source gate retains ten zero-P resources and fifteen images. Eighty-one outside-FD literal リア-hit paragraphs are longer words or another name, not Lia joins; the fixed forty-one-object query does not certify alias/image/anonymous-role absence. Member hashes and private raw receipt lineage are explicit without publishing source text.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Cohort 31 index/provenance binds 56 complete current Japanese native images, 25 Core/31 Advanced, at original 1441 x 2048 detail.170 complete source-order replay-note records and 3 whole current derivatives are separate readings.664 image/wrapper technical joins verify identity, not viewing. Original 333 Core/331 Advanced source admissions retain individual scopes. A truncated ADV092/099/100 combined attempt earned zero; the same originals were later individually received, without regeneration. No new whole-source, ruby, residual, image-set, OCR, audio, human or independent credit.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

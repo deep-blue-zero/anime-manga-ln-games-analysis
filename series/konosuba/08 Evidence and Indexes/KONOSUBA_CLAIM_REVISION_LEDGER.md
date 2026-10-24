@@ -414,3 +414,10 @@ CR-C29-SY01 REVISE: earlier row33 compressed cure/picnic/school requests. MAIN13
 CR-C30-CI01 QUALIFY: Cielo's healing is offered at FD-U012 P163 and credited by Megumin P388-390; apology loci P404/P422 do not show a separate cast, patient or dose. CR-C30-LI01 QUALIFY: the mountain interception is fatal and Aqua resurrects Lia; finite keyboard defense is a different later ability. CR-C30-REL01 RETAIN: private history, rejected contact/invitations, friends' refusal overrides and later local assent remain distinct. CR-C30-TR01 QUALIFY: Charlie's bodily precaution and correct glove warnings differ from Daniel's prior cost learning and later ignored warning. Original source records, frozen firsts, scores and earlier model bodies remain exact. Ponta/Konjiro identity, broad troll mechanisms and global population remain open.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+CR-C31-NAME01 QUALIFY:both books printスズキ・チホ/チホ; Chio derivative error. CR-C31-ID02 QUALIFY:ADV speaking toad is Froger former subordinate, not Froger;冬旗本 is not冬将軍;ザムザー andボ・クジョウ spellings control. CR-C31-RANK03 QUALIFY:千本槍=ThousandSpears, notTenSpears; Core lower researcher/joking GM rank coexist; executive embellishment unverified. CR-C31-EVENT04 QUALIFY:dragon animation precedes 21 swallowing; 21 individual bedding unspecified; will reunion visibly coauthored; corpse not original agency. CR-C31-RULE05 QUALIFY:statue is facility data, not Heal/miracle; magicdamage not necessarily magicattack; Cover defense/doubling scoped. Original source readings, models, firsts, scores, blanks and nulls remain unchanged; these are attributable current qualifications, not rewritten history.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

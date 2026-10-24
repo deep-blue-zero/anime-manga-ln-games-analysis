@@ -1982,3 +1982,10 @@ Barton uses professor correction, familiar 君, intimate バーベラちゃん a
 Lia's 私, familiar partner names, きみ, blunt antagonist refusal and brief アクア様 shift with relationship and information. Cielo's ボク, カズマさん, リアちゃん/エーリカちゃん include gentle explanation, refusal, urgency and label protest; ボク is not male-identity proof. Erika's アタシ, 可愛い frame, sharper アンタ and parent-directed パパとママ have different pragmatic jobs. Charlie's シエロちゃん and ダニエル様 differ from Daniel's formal 私/あなた and coercive claims. The 24 English methodological firsts provide no Japanese, audio, native-human or new L3 performance result.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Native スズキ・チホ/チホ governs both books; older Chio is derivative error, not rename. クラリオン・ヒート・ギルバート,御手洗音姫/みたらいおとひめ,てみれん and 21番 have separate player identities.21 この身 can mix with casual reply/refusal; manufacturing number and一頭身 are not life/head counts. Religious boasting, health judgment, requests, refusals, professional pride and practical explanation have different addressees/functions.26 English methodological firsts and marked self-reference do not validate Japanese voice, audio or L3 performance.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

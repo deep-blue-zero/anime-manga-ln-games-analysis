@@ -1526,3 +1526,10 @@ Barton revises means after reported Barbera feedback, but price and apparent hap
 Axel Hearts is a particular partnership: Lia excludes her partners, Cielo and Erika disobey, then Lia apologizes and requests renewed membership and receives acceptance. These are different choices, not retroactive consensus. Erika can reject praise after concealed harm; the later producer reconciliation remains under incomplete motive information. Cielo's protected procedure is local assent, not bare-contact permission. Daniel's refused invitations and marriage language and Charlie's possession claim do not establish mutual romance. Charlie's correct warning and aid to Daniel preserve a distinct subordinate relationship.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Temiren requested wall-pin differs from Gilbert substituted slap and her later reappraisal; later interest does not backdate consent.21 pressured initial sect assent differs from later own warmth/belonging and welcome. Chiho requests mediation, Otohime willingly explains and actually spends scrolls, Chiho partly accepts while doubts/borrowing continue, and 21 declines another loop. Those local acts neither prove sole motive nor cure fear or debt. Zamzar will is reported/coauthored companionship; animated mindless remains do not restore original dragon agency.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

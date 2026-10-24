@@ -1885,12 +1885,12 @@
     {
       "character": "Lia",
       "identity": "Lia / リア, chosen current name; Japanese name withheld. Pre/post memory states remain one person in selective FD novelization.",
-      "likely_tier": "3 scoped; separate monograph and provisional four-rule model; exact publication pending",
-      "priority": "Cohort30 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "3 scoped; separate monograph and provisional four-rule model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 30 bounded author publication complete; continuing full program.",
       "evidence_distribution": "FD30-01-18: all nine principal BASE members/3,645 slots and six nonfiction 62 slots currently rechecked; prior full FD source admission/derivatives retain planes. Kazuma narration, quoted recovered Lia history, reports and inference remain distinct.",
       "substantive_responsibility": "Own singing/vocation, particular companions, attributed duty, Konjiro attachment and typed finite competence support separate monograph/four-rule candidate. Actual fatal protection/Aqua resurrection, barrier exhaustion, practical questions, room neglect, unilateral exclusion and unapproved donation remain.",
       "gaps": "No birth-name invention, animate plush/Ponta join, all-companion history disclosure, unlimited defense or whole-game/main state. Eight informed firsts are dependent; LI-H02-A adds current-pause explanation; generic familiarity/caution/routine-task rivals and unproven learned checking remain. Final maturity/independent reliability unresolved.",
-      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT30_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_cohort30_current_fields": {
         "identity": "リア; chosen current name; former Japanese name withheld FD-U017123.",
@@ -1928,17 +1928,35 @@
         "LIA-R04"
       ],
       "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924",
-      "cohort30_current_qualifications": "Current named monograph/index governs scoped claims; earlier fields retained as dated history. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
+      "cohort30_current_qualifications": "Current named monograph/index governs scoped claims; earlier fields retained as dated history. No independent-observation denominator,grade,confidence gain,final maturity or census closure.",
+      "prior_cohort30_publication_fields": {
+        "likely_tier": "3 scoped; separate monograph and provisional four-rule model; exact publication pending",
+        "priority": "Cohort30 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort30_publication_resolution": {
+        "source": "681d9d058caabc38a26c56496c255677e2a2d616",
+        "tree": "36f40e0ce1b96d153a9b9386e66c748a44fbfa47",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT30_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "56a5151f75f1e5f55be4e2192cb9413a890fa73bc8352c792568bb32120bd372",
+        "source_run": 40067718104,
+        "full_discovered_tests": 459,
+        "current_models": 46,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Cielo",
       "identity": "Cielo / シエロ, female Archpriest and dancer; ボク is written voice, not male-identity evidence. Noble origins attributed; no clinical cause established.",
-      "likely_tier": "3 scoped; separate monograph and provisional four-rule model; exact publication pending",
-      "priority": "Cohort30 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "3 scoped; separate monograph and provisional four-rule model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 30 bounded author publication complete; continuing full program.",
       "evidence_distribution": "FD30-02-18: complete source-known FD narrative BASE recheck. Own healing offer U012163 and Megumin post-quest credit388-390 differ from an independently observed cast/patient; apologies404/422 are not healing.",
       "substantive_responsibility": "Concrete refusal/fifty-layer participation, performance enjoyment with remaining fear, particular care/dissent and typed physical capacity support monograph/four-rule candidate. Own privacy objection, deliberate harsh means, label protest, rubble work and joining against Lia no remain.",
       "gaps": "No cure, validated therapy, universal trigger, passivity or contact permission from a wish to improve. Eight dependent firsts retain CI-H02-B assumed male audience, CI-H03-B unprovided protective-reason attribution and actual override; articulate self-advocacy/generic rivals prevent independent confidence. Broader control/final battery remain open.",
-      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT30_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_cohort30_current_fields": {
         "identity": "シエロ; female Archpriest; first-person ボク is voice, not male-identity evidence.",
@@ -1976,17 +1994,35 @@
         "CI-R04"
       ],
       "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924",
-      "cohort30_current_qualifications": "Current named monograph/index governs scoped claims; earlier fields retained as dated history. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
+      "cohort30_current_qualifications": "Current named monograph/index governs scoped claims; earlier fields retained as dated history. No independent-observation denominator,grade,confidence gain,final maturity or census closure.",
+      "prior_cohort30_publication_fields": {
+        "likely_tier": "3 scoped; separate monograph and provisional four-rule model; exact publication pending",
+        "priority": "Cohort30 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort30_publication_resolution": {
+        "source": "681d9d058caabc38a26c56496c255677e2a2d616",
+        "tree": "36f40e0ce1b96d153a9b9386e66c748a44fbfa47",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT30_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "56a5151f75f1e5f55be4e2192cb9413a890fa73bc8352c792568bb32120bd372",
+        "source_run": 40067718104,
+        "full_discovered_tests": 459,
+        "current_models": 46,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Erika",
       "identity": "Erika / エーリカ, Ranger and dancer; アタシ voice. エリカ is only a retrieval variant here; no actual parental reunion or known parental motive.",
-      "likely_tier": "3 scoped; separate monograph and provisional four-rule model; exact publication pending",
-      "priority": "Cohort30 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "3 scoped; separate monograph and provisional four-rule model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 30 bounded author publication complete; continuing full program.",
       "evidence_distribution": "FD30-02-18: complete known FD narrative BASE recheck, with own later parent-recognition wish U014427 distinct from Cielo earlier report U012462. One selective novelization, not independently repeated evidence.",
       "substantive_responsibility": "Recognition under credibility/known betrayal, work/opportunity and uneven risk, particular trio and cuteness/audience framing support monograph/four-rule candidate. Resisted flattery, actual apology, free favor, cruel insults, competent rehearsal/quiz, friend rescue/exclusion override and resource lapse remain.",
       "gaps": "No irresistible-praise law, universal stupidity, clinical cause or free consent from attention. Eight dependent firsts retain ER-H02-B unprovided urgent-deadline absence, ER-H03 commitment confound, and ER-H04-A initiating unauthorized pledge extrapolation. No learned financial policy, independent reliability or final battery.",
-      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT30_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_cohort30_current_fields": {
         "identity": "エーリカ; Ranger; first-person アタシ.",
@@ -2024,17 +2060,35 @@
         "ER-R04"
       ],
       "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924",
-      "cohort30_current_qualifications": "Current named monograph/index governs scoped claims; earlier fields retained as dated history. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
+      "cohort30_current_qualifications": "Current named monograph/index governs scoped claims; earlier fields retained as dated history. No independent-observation denominator,grade,confidence gain,final maturity or census closure.",
+      "prior_cohort30_publication_fields": {
+        "likely_tier": "3 scoped; separate monograph and provisional four-rule model; exact publication pending",
+        "priority": "Cohort30 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort30_publication_resolution": {
+        "source": "681d9d058caabc38a26c56496c255677e2a2d616",
+        "tree": "36f40e0ce1b96d153a9b9386e66c748a44fbfa47",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT30_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "56a5151f75f1e5f55be4e2192cb9413a890fa73bc8352c792568bb32120bd372",
+        "source_run": 40067718104,
+        "full_discovered_tests": 459,
+        "current_models": 46,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
-      "character": "Gilbert / Chio / Otohime / Temiren / 21",
-      "identity": "TRPG Advanced PCs; players/GM distinct",
-      "likely_tier": "1 source-bound candidates",
-      "priority": "Discovery",
-      "evidence_distribution": "TRPG Advanced edited replay report.",
-      "substantive_responsibility": "Actual edited game decisions can support bounded profiles; powers and source form constrain transfer.",
-      "gaps": "No promotion into new observed core-novel character scenes; distinguish player intention, PC action, narration and rules.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "character": "Gilbert / Suzuki Chiho / Otohime / Temiren / 21 (historical TRPG PC aggregate)",
+      "identity": "Older aggregate routes to existing individual PC rows 163–167; players/GM/PCs distinct. Chio retained only in older derivative history, not as a native alias.",
+      "likely_tier": "Routing aggregate; individual scoped Tier 3 monographs/models at rows 163–167; no separate sixth model/person",
+      "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+      "evidence_distribution": "CurrentC31 Core/Advanced edited replays and 56 native rechecks, 170 complete replay-note records; explicit PC continuity and named-subject qualification.",
+      "substantive_responsibility": "Five individual monographs and separate 3/2/3/2/3 rule models receive the PCs. Older aggregate is a route only; Froger/Goran are separate source-bound Tier 2 subjects.",
+      "gaps": "No aggregate generative model, extra five people, novel continuity or complete TRPG population. Earlier aggregate name and fields retained in history.",
+      "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "working39_historical_aggregate_disposition": {
         "status": "RETAINED_HISTORICAL_GROUP_NOT_A_CURRENT_INDIVIDUAL_COUNT",
@@ -2046,17 +2100,41 @@
           "21 (TRPG Advanced replay PC)"
         ],
         "why": "Separate source-bound actors now have their own records; prior group descriptions preserved. Not a final population denominator."
-      }
+      },
+      "prior_cohort31_current_fields": {
+        "character": "Gilbert / Chio / Otohime / Temiren / 21",
+        "identity": "TRPG Advanced PCs; players/GM distinct",
+        "likely_tier": "1 source-bound candidates",
+        "evidence_distribution": "TRPG Advanced edited replay report.",
+        "substantive_responsibility": "Actual edited game decisions can support bounded profiles; powers and source form constrain transfer.",
+        "gaps": "No promotion into new observed core-novel character scenes; distinguish player intention, PC action, narration and rules.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort31_routed_individual_rows": [
+        163,
+        164,
+        165,
+        166,
+        167
+      ],
+      "cohort31_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort31_semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
+      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
     },
     {
       "character": "Other TRPG Core PCs / professionals / unnamed actors",
-      "identity": "Open population, no assumed aliases",
-      "likely_tier": "Unassigned",
-      "priority": "Discovery",
-      "evidence_distribution": "Completed TRPG Core, reference and Yorimichi programs. CURRENT WORKING22: FullYORI04review31 identifies two separate retired women by intentionalclass-only names.",
-      "substantive_responsibility": "Discover substantive named/classed actors beyond the initial roster. CURRENT WORKING22: Yori04DarkStalker andAssassin receive dedicated source-bound candidate rows below. They are not silently identified as TRPG PCs, a named succubus or a generic interchangeable professional; this older aggregate remains historically recoverable for its actual TRPG scope.",
-      "gaps": "Split actual TRPG personal identities/source cases through mixed-program review; do not borrow these supplemental women to fill that gap or claim individual denominator closure.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Open TRPG population and role route; no assumed aliases or globally unique-person count.",
+      "likely_tier": "Open population route; new bounded dispositions do not close remaining actors",
+      "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+      "evidence_distribution": "CurrentC31 Core/Advanced replay consolidation and new rows 282–294. Earlier mixed YORI04 DarkStalker/Assassin split references retain their actual separate history and are not TRPG identities.",
+      "substantive_responsibility": "New source-bound roles/groups/state records preserve Bo Kujo, guild roles, bartender, surviving toad, Winter Hatamoto, Zamzar/dragon and cows. ExistingPCs 163–167 remain distinct; earlier Yori women are not borrowed to fill this population.",
+      "gaps": "Unnamed actors, sample PCs, reference/illustration roles and further joins remain open. Thirteen new records are not thirteen disjoint people; group/survivor overlap, reported biography and animal personification stay qualified.",
+      "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working21": "Inventory source-qualified identities before artifact decisions; source silence, unindexed evidence and incomplete review stay distinct.",
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
@@ -2070,7 +2148,23 @@
         "Advanced_added_PC_row": "21 (TRPG Advanced replay PC)",
         "status": "DISCOVERY_BUCKET_REMAINS_OPEN_NOT_AN_INDIVIDUAL",
         "remaining": "Other source-bound professionals, staged speakers, scenario actors and unnamed agents still need individual/incidental dispositions; no presumed replacement novel identity."
-      }
+      },
+      "prior_cohort31_current_fields": {
+        "identity": "Open population, no assumed aliases",
+        "likely_tier": "Unassigned",
+        "evidence_distribution": "Completed TRPG Core, reference and Yorimichi programs. CURRENT WORKING22: FullYORI04review31 identifies two separate retired women by intentionalclass-only names.",
+        "substantive_responsibility": "Discover substantive named/classed actors beyond the initial roster. CURRENT WORKING22: Yori04DarkStalker andAssassin receive dedicated source-bound candidate rows below. They are not silently identified as TRPG PCs, a named succubus or a generic interchangeable professional; this older aggregate remains historically recoverable for its actual TRPG scope.",
+        "gaps": "Split actual TRPG personal identities/source cases through mixed-program review; do not borrow these supplemental women to fill that gap or claim individual denominator closure.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort31_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort31_semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
+      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
     },
     {
       "character": "Yuiyui",
@@ -3167,12 +3261,12 @@
     {
       "character": "Charlie",
       "identity": "Charlie / チャーリー, named human-presenting troll and Daniel subordinate. Distinct Daniel and unnamed costume thieves; Wiz explicitly does not know Charlie.",
-      "likely_tier": "2 scoped; dedicated twelve-dimension monograph without model; exact publication pending",
-      "priority": "Cohort30 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "2 scoped; dedicated twelve-dimension monograph without model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 30 bounded author publication complete; continuing full program.",
       "evidence_distribution": "FD30-06-18: full known FD narrative BASE now rechecked, including handshake violation, theater attack, castle sleep/disclosure/distress, finite recoveries, manual leak, leader rescue and correct final glove warnings.",
       "substantive_responsibility": "Distinct coercive fandom, injured pride, subordinate loyalty/errors, body precaution, useful perception and warnings justify an individual twelve-dimension monograph. Pain/retreat and caring reactions are not permission or harmlessness; generic henchman/pure-fool models fail.",
       "gaps": "Tier2 monograph without a dedicated model: ordinary work, accepted noncoercive boundaries, independent viewpoints and novel-context mechanism identification remain sparse/confounded. No active executive rank transferred from Daniel, infinite recovery, mutual romance or permanent-death count.",
-      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT30_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_cohort30_current_fields": {
         "identity": "チャーリー; human-presenting troll explicitly names himself FD-U013459.",
@@ -3199,17 +3293,35 @@
       },
       "cohort30_rules": [],
       "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924",
-      "cohort30_current_qualifications": "Current named monograph/index governs scoped claims; earlier fields retained as dated history. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
+      "cohort30_current_qualifications": "Current named monograph/index governs scoped claims; earlier fields retained as dated history. No independent-observation denominator,grade,confidence gain,final maturity or census closure.",
+      "prior_cohort30_publication_fields": {
+        "likely_tier": "2 scoped; dedicated twelve-dimension monograph without model; exact publication pending",
+        "priority": "Cohort30 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort30_publication_resolution": {
+        "source": "681d9d058caabc38a26c56496c255677e2a2d616",
+        "tree": "36f40e0ce1b96d153a9b9386e66c748a44fbfa47",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT30_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "56a5151f75f1e5f55be4e2192cb9413a890fa73bc8352c792568bb32120bd372",
+        "source_run": 40067718104,
+        "full_discovered_tests": 459,
+        "current_models": 46,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Daniel",
       "identity": "Daniel / ダニエル, named human/troll-lord antagonist; former army/executive-candidate history per Wiz, not active executive confirmation.",
-      "likely_tier": "2 scoped; dedicated twelve-dimension monograph without model; exact publication pending",
-      "priority": "Cohort30 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "2 scoped; dedicated twelve-dimension monograph without model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 30 bounded author publication complete; continuing full program.",
       "evidence_distribution": "FD30-08-18: full known FD narrative BASE now rechecked, including refused invitation/actual abduction, false Konjiro claim, conditional weapon, mountain death/distress, city attack/retreat and ignored correct glove warnings.",
       "substantive_responsibility": "Own recognition/reemployment and coercive possession aims, tactical choices, appearance leverage, selective distress, finite strength, learned barehand cost and later attentional failure justify substantial monograph. Actual Lia death followed by Aqua resurrection is not a mere near-death.",
       "gaps": "Tier2 monograph without model: mostly one linked adversarial project, limited ordinary/cooperative breadth and confounded motives. No accepted courtship, clinical diagnosis, all-victim remorse, permanent-death count or whole-game state; later independent mechanism/final maturity remain open.",
-      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT30_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_cohort30_current_fields": {
         "identity": "ダニエル; distinct former-army troll and Lia-focused antagonist in FD selective novelization.",
@@ -3236,7 +3348,25 @@
       },
       "cohort30_rules": [],
       "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924",
-      "cohort30_current_qualifications": "Current named monograph/index governs scoped claims; earlier fields retained as dated history. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
+      "cohort30_current_qualifications": "Current named monograph/index governs scoped claims; earlier fields retained as dated history. No independent-observation denominator,grade,confidence gain,final maturity or census closure.",
+      "prior_cohort30_publication_fields": {
+        "likely_tier": "2 scoped; dedicated twelve-dimension monograph without model; exact publication pending",
+        "priority": "Cohort30 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort30_publication_resolution": {
+        "source": "681d9d058caabc38a26c56496c255677e2a2d616",
+        "tree": "36f40e0ce1b96d153a9b9386e66c748a44fbfa47",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT30_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "56a5151f75f1e5f55be4e2192cb9413a890fa73bc8352c792568bb32120bd372",
+        "source_run": 40067718104,
+        "full_discovered_tests": 459,
+        "current_models": 46,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Serena",

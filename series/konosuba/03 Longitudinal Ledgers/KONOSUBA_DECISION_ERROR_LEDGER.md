@@ -1989,3 +1989,10 @@ Barton admits unknown mechanisms, gives empowering ice advice and makes a calmin
 Lia accepts a false Konjiro claim and treats abduction as her responsibility, while also asking useful procedural questions. Cielo's deliberate attack and participation despite Lia's no are distinct from a contact-triggered blow. Erika misreads a restraint crowd as fans, yet resists flattery after exposed harm. Charlie's leak and selective disclosure coexist with correct warnings; Daniel's possession claims and ignored glove warning remain his errors. LI-H02-A adds a current-pause explanation; CI-H02-B assumes male spectators; CI-H03-B supplies an unverified protective reason; ER-H02-B overstates absence of urgent timing; all original firsts remain unrepaired.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Core/Advanced replays retain Gilbert embellished executive report and damaged credibility, Chiho proposed illness-for-gratitude and avoidable risk, Otohime incomplete shared-danger planning and resource dependence, Temiren wishful appraisal alongside criticism, and 21 early pressured assent alongside later refusal. Goran confession is scenario-required, not a successful lie-detection roll. Original diagnostics retain N21-H01-A familiar-person overgeneralization, N21-H02-A earlier-answer presupposition andN21-H03-B unprovided injury type; OT-H03-A echoes a detailed source motive. No first is repaired into success.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

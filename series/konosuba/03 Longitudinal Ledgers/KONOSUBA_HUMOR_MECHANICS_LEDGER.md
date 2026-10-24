@@ -2015,3 +2015,10 @@ Barton's ill-timed lessons and honorific gates depend on task mismatch and statu
 FD's cool singer/filthy room, shy Archpriest/physical force and confident Ranger/missed check operate through typed mismatches. They do not erase unwanted contact, privacy objections, injuries or resource costs. Charlie's fan fixation can defeat secrecy and produce hurt; his bodily precaution prevents a universal painless-masochism reading. Daniel's pomp and powerful weapon coexist with small ambitions, actual destruction and self-injury. A comic defeat does not establish permanent enemy deaths, while a reunion does not backdate assent.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Edited replay comedy uses prince/low-rank and priest/scroll-role mismatches, health-based harmful gratitude, frightened but effective protection, desired attention with disappointment, and small undead as a bounded practical questioner. Froger kingship is a misheard wish and park language is openly coauthored; Goran secrecy clashes with forced confession. Comedy does not erase pain, coercion, cost, uncertainty or defeated plans. Plans, jokes and GM additions are not independently observed repetitions.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

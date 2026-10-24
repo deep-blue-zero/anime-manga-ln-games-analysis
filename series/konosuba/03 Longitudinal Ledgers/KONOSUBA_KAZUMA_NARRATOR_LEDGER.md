@@ -1452,3 +1452,10 @@ CONTEXP02U023 switches to Kazuma while the surrounding Barton components are Meg
 All FD main narration is Kazuma, including Lia's quoted recovered self-history. He suppresses Aqua's disclosure of Megumin's cart destruction, conceals producer incentives, guesses causes for Cielo and misreads her worried gaze as attraction. Actual cleanup, advice, no-touch restraint and help can coexist with those failures. Cielo's self-offer and Megumin's healing appraisal do not become a separately observed cast. The private history is invited only to Kazuma and Aqua; no general disclosure to the two partners is supplied. Source reports, judgments and direct acts retain their distinct access.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+The TRPG edited narrator, GM/PC/player voices, reported diaries/wills and direct rule adjudications are not automatically Kazuma narration. Core world-guide second-personキミ is not automatically Kazuma or Mitsurugi; reference balloons are not new principal scenes. CurrentC31 source-plane qualifications prevent these replay observations from silently changing the frozen Kazuma model or retrospectively re-scoring principal predictions.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

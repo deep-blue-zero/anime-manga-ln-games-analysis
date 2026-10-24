@@ -143,88 +143,277 @@
     },
     {
       "character": "Gilbert (TRPG replay PC)",
-      "identity": "Akatsuki Natsume player role is distinct from his PC Gilbert.",
-      "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
-      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
-      "evidence_distribution": "TRPG-CORE edited replay plus explicit continuation TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
-      "substantive_responsibility": "Useful healing/support and negotiated recruitment coexist with sectarian pressure, donation conditions, status claims, reputation failures and wounded pride.",
-      "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
-      "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+      "identity": "Gilbert / クラリオン・ヒート・ギルバート; Core male 17 priest, Advanced continuation; player Natsume Akatsuki distinct from PC; not main 16 Gil.",
+      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 3-rule model;exact publication pending",
+      "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+      "evidence_distribution": "TR31-01–16: Core/Advanced edited replays; 56 current native page rechecks and 170 complete source-order replay-note records, with original admissions/derivatives retaining separate planes.",
+      "substantive_responsibility": "Religious framing and useful support, credibility debt and professional displacement support a separate twelve-dimension monograph and three-rule provisional model. Dishonest rank inflation, slap, recruitment pressure, real care, costs and failed checks remain.",
+      "gaps": "Six source-known original firsts/three dependent pairs retain direct cueing and possibly overcandid GI-H02-B. No exclusive sect-care mechanism, endogenous lie-policy test, stable restitution, independent reliability or final battery.",
+      "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
       "working39_receiving_receipt": {
         "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
         "bytes": 5801,
         "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
-      }
+      },
+      "prior_cohort31_current_fields": {
+        "identity": "Akatsuki Natsume player role is distinct from his PC Gilbert.",
+        "evidence_distribution": "TRPG-CORE edited replay plus explicit continuation TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
+        "substantive_responsibility": "Useful healing/support and negotiated recruitment coexist with sectarian pressure, donation conditions, status claims, reputation failures and wounded pride.",
+        "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
+        "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
+        "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+        "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION"
+      },
+      "cohort31_scope_assessment": {
+        "row": 163,
+        "character": "Gilbert",
+        "tier": 3,
+        "rules": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Religious framing/useful support,credibility debt and professional displacement have distinct conditions and countercases."
+      },
+      "cohort31_rules": [
+        "GI-R01",
+        "GI-R02",
+        "GI-R03"
+      ],
+      "cohort31_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_GILBERT_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_GILBERT_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_GILBERT_COHORT31_FIRST_OUTPUTS_01.json",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_GILBERT_COHORT31_FIRST_OUTPUT_ANNOTATIONS_01.json",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_GILBERT_COHORT31_SCENARIO_INPUTS_01.json"
+      ],
+      "cohort31_semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
+      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
     },
     {
-      "character": "Suzuki Chiho / Chio (TRPG replay PC)",
-      "identity": "Core report Suzuki Chiho and Advanced Chio form explicitly continuing replay PC; player 鰤／牙 remains separate.",
-      "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
-      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
-      "evidence_distribution": "TRPG-CORE edited replay plus explicit continuation TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
-      "substantive_responsibility": "Restored-health gratitude, real lending and offered spotlight coexist with harmful health doctrine, interpersonal hurt, authored background and continued doubt.",
-      "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
-      "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+      "character": "Suzuki Chiho (TRPG replay PC)",
+      "identity": "スズキ・チホ / チホ in both replays; Core 17-year-old Adventurer/player 鰤／牙 distinct; Chio is derivative spelling error, not native alias/rename. 出自:動画 retained.",
+      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 2-rule model;exact publication pending",
+      "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+      "evidence_distribution": "TR31-01–16: explicit Core/Advanced returning PC; reported construction, Aqua health/クラレント story and actual resource/tactical/relationship decisions retain attribution.",
+      "substantive_responsibility": "Health-gratitude rationalization with real vulnerability, and giving versus particular relationship meaning support a twelve-dimension monograph and two-rule provisional model. Proposed harm, harsh doctrine, 2700 KE actual transfer, continued doubt and borrowing remain.",
+      "gaps": "Four informed firsts/two dependent pairs. Explicit permission/relationship cues and prudent rent boundaries may overcorrect source behavior; actual induced harm and durable lending limits untested. No diagnosis, immunity, settled romance or independent grade.",
+      "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
       "working39_receiving_receipt": {
         "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
         "bytes": 5801,
         "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
-      }
+      },
+      "prior_cohort31_current_fields": {
+        "character": "Suzuki Chiho / Chio (TRPG replay PC)",
+        "identity": "Core report Suzuki Chiho and Advanced Chio form explicitly continuing replay PC; player 鰤／牙 remains separate.",
+        "evidence_distribution": "TRPG-CORE edited replay plus explicit continuation TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
+        "substantive_responsibility": "Restored-health gratitude, real lending and offered spotlight coexist with harmful health doctrine, interpersonal hurt, authored background and continued doubt.",
+        "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
+        "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
+        "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+        "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION"
+      },
+      "cohort31_scope_assessment": {
+        "row": 164,
+        "character": "Suzuki Chiho",
+        "tier": 3,
+        "rules": 2,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Health rationalization with real vulnerability and material giving versus particular relational meaning; no artificial third rule."
+      },
+      "cohort31_rules": [
+        "CH-R01",
+        "CH-R02"
+      ],
+      "cohort31_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_SUZUKI_CHIHO_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_SUZUKI_CHIHO_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_SUZUKI_CHIHO_COHORT31_FIRST_OUTPUTS_01.json",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_SUZUKI_CHIHO_COHORT31_FIRST_OUTPUT_ANNOTATIONS_01.json",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_SUZUKI_CHIHO_COHORT31_SCENARIO_INPUTS_01.json"
+      ],
+      "cohort31_semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
+      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
     },
     {
       "character": "Otohime (TRPG replay PC)",
-      "identity": "Otohime/Oto is Nagatsuki Tappei PC, not the player or another transported protagonist.",
-      "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
-      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
-      "evidence_distribution": "TRPG-CORE edited replay plus explicit continuation TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
-      "substantive_responsibility": "Death fear coexists with actual repeated protection, resource preparation/comfort, borrowing dependence, regret, costly explanation and partial mutual acknowledgment.",
-      "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
-      "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+      "identity": "御手洗音姫 / みたらいおとひめ; male 19 Core PC, Advanced continuation; player 長月達平 distinct from PC and ReZero protagonist.",
+      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 3-rule model;exact publication pending",
+      "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+      "evidence_distribution": "TR31-02/06/08/11/13/15/16: fear/preparation, actual protection, Core Death Return, ADV resource/comfort and partial counseling; no unperformed option counted.",
+      "substantive_responsibility": "Fear with bounded protection, security rationale alongside comfort/dependence, and invited costly explanation support twelve-dimension monograph/three-rule provisional model. Real damage, allied support, 41→82 house Cover survival without return, and continued borrowing stay.",
+      "gaps": "Six informed firsts/three dependent pairs are strongly cued by arithmetic, loan terms and willingness. OT-H03-A extrapolates detailed known-source fear; careful restricted-money practice unproven. No cured fear, ended debt, unlimited return or full final battery.",
+      "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
       "working39_receiving_receipt": {
         "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
         "bytes": 5801,
         "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
-      }
+      },
+      "prior_cohort31_current_fields": {
+        "identity": "Otohime/Oto is Nagatsuki Tappei PC, not the player or another transported protagonist.",
+        "evidence_distribution": "TRPG-CORE edited replay plus explicit continuation TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
+        "substantive_responsibility": "Death fear coexists with actual repeated protection, resource preparation/comfort, borrowing dependence, regret, costly explanation and partial mutual acknowledgment.",
+        "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
+        "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
+        "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+        "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION"
+      },
+      "cohort31_scope_assessment": {
+        "row": 165,
+        "character": "Otohime",
+        "tier": 3,
+        "rules": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Fear/preparation/bounded protection,resource rationale/comfort and invited partial repair have differentiated costs and rivals."
+      },
+      "cohort31_rules": [
+        "OT-R01",
+        "OT-R02",
+        "OT-R03"
+      ],
+      "cohort31_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_OTOHIME_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_OTOHIME_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_OTOHIME_COHORT31_FIRST_OUTPUTS_01.json",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_OTOHIME_COHORT31_FIRST_OUTPUT_ANNOTATIONS_01.json",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_OTOHIME_COHORT31_SCENARIO_INPUTS_01.json"
+      ],
+      "cohort31_semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
+      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
     },
     {
       "character": "Temiren (TRPG replay PC)",
-      "identity": "Mikami Teren PC; Crimson mage identity is not Megumin/Yunyun or player biography.",
-      "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
-      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
-      "evidence_distribution": "TRPG-CORE edited replay plus explicit continuation TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
-      "substantive_responsibility": "Romance/status interpretation and irritated affiliation coexist with actual spell/scroll support, bath expertise, religious friction and competent identification.",
-      "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
-      "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+      "identity": "てみれん, female 16 Crimson mage Core PC, Advanced continuation; player みかみてれん distinct; not Megumin/Yunyun.",
+      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 2-rule model;exact publication pending",
+      "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+      "evidence_distribution": "TR31-01/03/09/11/12/16: requested attention/pain/reappraisal, farmer defense, typed identification/scroll contribution, disappointment and ordinary comfort.",
+      "substantive_responsibility": "Recognition persisting through disappointed appraisals and typed finite practical contribution support twelve-dimension monograph/two-rule provisional model. Criticism, deliberate attention friction, failed defenses, costs and unsettled sect claims remain.",
+      "gaps": "Four informed firsts/two dependent pairs retain explicit permission/domain cues; TE-H01-B may overstate durable boundary respect. No settled romance, stable conversion, all-purpose genius, Japanese voice validation or independently reliable final model.",
+      "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
       "working39_receiving_receipt": {
         "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
         "bytes": 5801,
         "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
-      }
+      },
+      "prior_cohort31_current_fields": {
+        "identity": "Mikami Teren PC; Crimson mage identity is not Megumin/Yunyun or player biography.",
+        "evidence_distribution": "TRPG-CORE edited replay plus explicit continuation TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
+        "substantive_responsibility": "Romance/status interpretation and irritated affiliation coexist with actual spell/scroll support, bath expertise, religious friction and competent identification.",
+        "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
+        "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
+        "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+        "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION"
+      },
+      "cohort31_scope_assessment": {
+        "row": 166,
+        "character": "Temiren",
+        "tier": 3,
+        "rules": 2,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Recognition/disappointed appraisal and typed practical contribution; unstable sect labels stay qualification,not another mechanism."
+      },
+      "cohort31_rules": [
+        "TE-R01",
+        "TE-R02"
+      ],
+      "cohort31_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_TEMIREN_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_TEMIREN_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_TEMIREN_COHORT31_FIRST_OUTPUTS_01.json",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_TEMIREN_COHORT31_FIRST_OUTPUT_ANNOTATIONS_01.json",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_TEMIREN_COHORT31_SCENARIO_INPUTS_01.json"
+      ],
+      "cohort31_semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
+      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
     },
     {
       "character": "21 (TRPG Advanced replay PC)",
-      "identity": "Aifujiyui numbered artificial-undead PC, introduced separately; number is not proof of twenty prior lives.",
-      "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
-      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
-      "evidence_distribution": "TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
-      "substantive_responsibility": "Pressured entry and lockpicking need precede actual mediation, skeptical inquiry, defensive initiative, home attachment and intended remembrance; recovery limits persist.",
-      "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
-      "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+      "identity": "21番 manufacturing-number PC; player 藍藤唯 / あいふじゆい distinct; artificial magical-beast/undead chimera,一頭身/~40 cm,この身. No prior-life, dragon or village-girl future join.",
+      "likely_tier": "3 scoped;separate twelve-dimension monograph and provisional 3-rule model;exact publication pending",
+      "priority": "Cohort31 bounded semantic receiving complete;exact containing publication pending.",
+      "evidence_distribution": "TR31-01/08–16: Advanced edited construction, introduction, investigation, requested counseling, combat and final welcome; earlier Core is background relation, not 21 performed action.",
+      "substantive_responsibility": "Pressure versus later own belonging, requested inquiry with stopping boundary, and useful contribution/contingent charity with finite recovery support twelve-dimension monograph/three-rule model. Actual jewel swallowing follows dragon animation; statue facility recovers undead; individual bedding level unspecified.",
+      "gaps": "Six informed firsts/three dependent pairs retain N21-H01-A unprovided familiar-person absence, N21-H02-A prior-answer presupposition, N21-H03-B injury wording and strong cues. No free initial conversion, unlimited emotional labor, mind-reading, Heal miracle, kinship or final independent grade.",
+      "disposition_status": "COHORT31_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
       "working39_receiving_receipt": {
         "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
         "bytes": 5801,
         "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
-      }
+      },
+      "prior_cohort31_current_fields": {
+        "identity": "Aifujiyui numbered artificial-undead PC, introduced separately; number is not proof of twenty prior lives.",
+        "evidence_distribution": "TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
+        "substantive_responsibility": "Pressured entry and lockpicking need precede actual mediation, skeptical inquiry, defensive initiative, home attachment and intended remembrance; recovery limits persist.",
+        "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
+        "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
+        "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+        "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION"
+      },
+      "cohort31_scope_assessment": {
+        "row": 167,
+        "character": "21",
+        "tier": 3,
+        "rules": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Pressure versus chosen belonging,requested inquiry with stopping boundary and useful work/contingent charity with vulnerabilities."
+      },
+      "cohort31_rules": [
+        "N21-R01",
+        "N21-R02",
+        "N21-R03"
+      ],
+      "cohort31_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_NUMBER21_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_NUMBER21_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_NUMBER21_COHORT31_FIRST_OUTPUTS_01.json",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_NUMBER21_COHORT31_FIRST_OUTPUT_ANNOTATIONS_01.json",
+        "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_NUMBER21_COHORT31_SCENARIO_INPUTS_01.json"
+      ],
+      "cohort31_semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
+      "cohort31_current_qualifications": "Current named monographs/index govern scoped use;older current fields/history remain dated. No independent-observation denominator,grade,confidence gain,final maturity or census closure."
     },
     {
       "character": "Tristan / トリスタン",

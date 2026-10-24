@@ -561,3 +561,10 @@ Two new provisional models each have four eight-field rules. Sixteen immutable s
 Three separate four-rule candidates add 24 original firsts in twelve dependent pairs after foundation/input freezes. The same informed root authored and assessed every stage with all contrasts visible. LI-H02-A adds a current-pause explanation; CI-H02-B assumes male spectators; CI-H03-B attributes a protective reason and steps despite no; ER-H02-B turns unprovided timing into no urgent deadline; ER-H03 does not separate particularity from commitment; ER-H04-A extrapolates an initiating unapproved pledge. Cueing, generic rivals, overarticulate self-advocacy and English methodological prose remain. Original bodies are byte-exact, with zero regeneration/feedback repair and no independent accuracy, grade, confidence gain or completed nine-category battery.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Five separately frozen PC models contain 13 rules in 3/2/3/2/3 sets, followed by 26 unchanged original firsts/13 dependent pairs. Same informed root, all source/contrasts visible, no external model or independent judge. Explicit permission, arithmetic, terms, willingness and device eligibility strongly cue generic responses. Overcandid Gilbert, prudent Chiho/Otohime and boundary-respecting Temiren may overcorrect source behavior. OT-H03-A motive extrapolation and 21 familiar-person/earlier-answer/injury wording remain. All 105–115 word bodies meeting 80–140 budget is format only, not accuracy, grade, confidence gain, Japanese voice or full nine-category battery.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

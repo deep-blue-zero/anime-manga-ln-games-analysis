@@ -1329,3 +1329,10 @@ Barton takes a frightened personal risk and objects to harm to Darkness while re
 Lia actually dies intercepting lightning aimed at Megumin and Aqua actually resurrects her (FD-U016 P350-379); repeated text P390 is not another cast. Barrier exhaustion and limited range remain real. Unwanted contact, coercive recruitment, public destruction and mostly soldier injuries retain costs; the stated absence of resident injuries is not universal harmlessness. Cielo and Erika's care does not erase their explicit override of Lia's refusal. Authorized final-plan assent and contained casting do not prove every exit or permanent death, and donation intent does not authorize shared funds.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Real fictional damage, cost-bearing Core Death Return, coercive recruitment, substituted contact and harmful health doctrine remain consequential inside comic replay. Final house Cover 82 survives without return; Froger defeat is not permanent-death certification and Goran charcoal/dust disappearance is not an independently certified eternal fate. Hanako is actually returned; Momoko fate remains unknown. Heroic/merciful jokes and planned town destruction are not actual acts. A serious transfer retains agency, limits and incomplete repair without importing magic or real-world therapy claims.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
