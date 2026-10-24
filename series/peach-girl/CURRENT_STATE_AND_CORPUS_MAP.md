@@ -5,20 +5,20 @@ artifact_type: corpus_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.27"
+version: "0.28"
 status: active_provisional
 scope: "Single current entrypoint, source/readiness boundaries and next permitted operation"
 source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized V01–V18 narrative run completed;Localoriginal-mangaliteraryscopecomplete;G4operationalblocked;G6externalreleaseunperformed"
 canonical_home: series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-16"
-review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
+review_status: OWNER_AUTHORIZED_SECOND_PASS_IN_PROGRESS
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 project_initialization:
   status: active_provisional
-  architecture_lifecycle: STABILIZED
+  architecture_lifecycle: EVOLVING
   bootstrap_generation: PEACH_GIRL_BOOTSTRAP_V1
   governing_method: "00 Frameworks and Methods/PEACH_GIRL_ANALYTICAL_METHOD.md"
   synthesis_architecture: "00 Frameworks and Methods/PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md"
@@ -47,18 +47,18 @@ sequential_execution:
   confirmation_between_units: false
   run_state: completed
 analytical_execution:
-  authorization: OWNER_AUTHORIZED_FULL_SERIES_RUN_LOCAL_ONLY
+  authorization: OWNER_AUTHORIZED_ORIGINAL_RUN_AND_RETROSPECTIVE_SECOND_PASS
   authorization_record: "07 Audits and Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md"
   sequential_units_admitted: 18
   sequential_units_completed: 18
   committed_narrative_high_water_mark: V18
   character_reconstruction_readiness: LITERARY_READY_SCOPED_OPERATIONAL_BLOCKED_NO_HELD_OUT_VALIDATION
-  publication: OWNER_AUTHORIZED_BRANCH_PUBLICATION_WITH_ANALYTICAL_REVIEW_HOLD
+  publication: OWNER_AUTHORIZED_CONDITIONAL_SECOND_PASS_PUBLICATION
 repository_state:
   stable_branch: series/peach-girl
   routing_input: series/peach-girl/.repository/series-registry.json
   materialization_status: PRESENT_UNREVIEWED
-  main_integration: NOT_AUTHORIZED_PENDING_OWNER_REVIEW
+  main_integration: NOT_PERFORMED_SECOND_PASS_REVIEW_PENDING
   integration_hold_required: DRAFT_PR_OR_NIGHTLY_HOLD
 ---
 
@@ -69,6 +69,13 @@ This is the single current first-read surface for Miwa Ueda's ピーチガール
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
 `NEXT_PERMITTED_OPERATION = NONE_ORIGINAL_SERIES_TERMINAL`
+## Current independent second pass — 2026-10-23
+
+The owner has authorized a complete independent source audit and analytical deepening of the already-admitted Japanese V01–V18, with conditional publication and Draft-to-Ready review submission. [Second-pass audit and receipt register](07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_AUDIT_20261023.md) is the current route for its scope, capabilities, exposure limitations, progress, findings and dependencies. [Method0.3](00%20Frameworks%20and%20Methods/PEACH_GIRL_ANALYTICAL_METHOD.md) and [architecture0.5](00%20Frameworks%20and%20Methods/PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md) govern this prospective audit; lifecycle EVOLVING applies to the explicit reassessment. The original run remains completed/V18/NONE; its historical readings, freezes, claims and failed reconstruction probes remain preserved.
+
+**Pass A is IN_PROGRESS; 0/18 independently reinspected volumes are complete. Pass B is locked until all18 finalized private source-first note receipts exist.** Exact witness/package checks pass for all18; processing does not establish reading coverage. No second-pass factual correction, ledger revision, mature analytical endorsement or G3/G5 semantic closure has yet been established. Prior source-map/entrypoint narrative exposure is disclosed, so this is not a blind comparison. Earlier dated completion and local-only/publication records below remain historical stages.
+
+The audit begins at remote head `e1e4b98c2875a4be5bfd30f6a292fb99a553db36`, with current main `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd` reconciled without rewriting history. Existing [PR303](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/303) remains Draft. The current instruction permits Ready for review only after all mandatory source inspection, corrections, semantic reconciliation, local validation and the exact-final-head remote audit pass. An independent hold, if imposed, must be preserved. No merge is authorized. G4 operational acceptance remains `BLOCKED_NO_HELD_OUT_VALIDATION`; literary reconstruction development cannot remove that limit.
 
 **New owner-authorized Route B continuation; pre-V05 source audit closed with corrections.** Work's substantive analytical corpus was not recovered. The [recovery receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_RECOVERY_RECEIPT_20261019.md) preserves the earlier stop and input provenance; the [Codex source audit](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md) records 177 directly checked V01–V04 images, findings, alternatives and successor ledger versions at PG-AUDIT-20261019. Historical PG-FR-V01…V04 remain unchanged. The audit was committed at `364ffc6f8cb4a01a56ad219761d867abaf7874b2` and independently restored from its verified outside-checkout backup before V05. New Codex V05 was committed at `15163c502663711b6a93b3c75a8bf1ab9d8721af` and its outside-checkout backup independently restored before V06. V06 was committed at `4f0f8b27650bb7a5757d9d61544846074baf5727`, with the openly dated own V05 perfume-selection correction, and independently restored before V07 admission. V07 was committed at `33e2adb495b6064f13f6a1f8c96c76f40ff3a841` and independently restored before V08 admission. V08 was committed at `c169ba0fac6c0ab688487359d46d327debcec1f9` and independently restored before V09 admission. V09 was committed at `cefe98342814d999180d5e2ff6a6641afc8cd00d` and independently restored before V10 admission. V10 was committed at `fac04c2dcd5570ce56340b9d533b9af74a945ed2` and independently restored before V11 admission. V12 was committed at `b5e88031b837249a718914c8efcd623f9983bfd5` and independently restored before V13 admission. V17 committedaf76e3b678a45b70634db805934ec8ddaa459ef5 and independently restored32-file outside snapshot before V18. V18 closes187 inspected/172main; actualTchoice then newS/Mis disclosures, twoTstops and intervening physicalconstraint, M explicitKchoice143/actualrescuebreaths168–169/finalM-Kcouple178. Saeadmitsforgedemail176; Kwaterdangeractualcase-retrievalaccident, notsuicide. V18flash116–117 corrects ownV15strongsexualnightinference by agreednothinguntilmorning; priorV15bytes/freeze retained. PR0022DISCONFIRMED: RinjuryreachesM61 butpolicecauseneverdoes. Terminal narrative run completed/NONE nextcandidate; OPENlock doesnotauthorizeanothernarrative run. G1/G2 next afteratomicV18commit/independentbackup; mature synthesis waitscommittedG2. Source samples do not certify an independent full four-volume re-read.
 
@@ -213,3 +220,5 @@ The owner explicitly requested pushing the completed changes to series/peach-gir
 The unmodified live-main author preflight failed the completed-run admission predicate. The owner subsequently approved the [reviewed governance repair](07%20Audits%20and%20Handoffs/PEACH_GIRL_COMPLETED_RUN_PUBLICATION_GATE_PROPOSAL.md). The repair is implemented at 18d2b3db5de9f9d57f1173d77d611ba4873de11f on the separate codex/completed-run-publication branch and published as [governance PR 256](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/256). Full local validation passed all 391 discovered tests with three existing Bash-unavailable skips. The [exact-head Ubuntu audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39510663136) passed all 391 tests with zero failures, errors or skips. That checkpoint preceded owner integration. PR 256 was merged on 2026-10-21 at 0a6888617e6eae89d835e3bba736073a0a44857b, with final reviewed source head 52df1e9b5a6cd9cc39c482dc89f4729a138bb8f5; their complete Git trees match. Its [post-merge audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39537289532) passed 431 tests without failures, errors or skips. On 2026-10-23, actual main 297bc0d05040a24facbeb5440481b9c604de5568 contains that integration and has its own [successful audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39927029229): 459 tests, zero failures/errors/skips. The analytical branch now incorporates that main, including its removal of two retired authority links, and retains the [portable completion proof](.repository/completed-run-publication.json). Ordinary accepted-main author preflight and the published branch's exact-head audit remain required; earlier private validation is not substituted. All 18 reading/freeze bytes remain unchanged.
 
 The owner stated that a second agent will review and audit the analytical outputs after admission is enabled. Preserve the draft/explicit integration hold for that review. Branch publication does not grant analytical main integration or acceptance. Revision 0.27 — 2026-10-23; publication administration only, with no new source admission or analytical revision.
+
+Revision0.28 — 2026-10-23 owner date: independent second-pass audit authorized and initialized; method0.3/architecture0.5 prospective amendments; Pass A underway, Pass B locked, prior freezes and gate decisions preserved. Conditional review submission authorized; PR remains Draft pending actual completion.
