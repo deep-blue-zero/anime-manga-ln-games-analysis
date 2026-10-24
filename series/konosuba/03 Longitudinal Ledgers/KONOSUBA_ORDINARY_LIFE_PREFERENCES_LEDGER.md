@@ -1462,3 +1462,17 @@ Duke alone drinking and actual paid drinks coexist with ambition;gambling/trivia
 Perie explicitly likes the dress;doubt about taste,anger and narrated discouragement do not license a private embarrassment motive. Returning with a jacket is actual,but its cause is Rionor/Dust explanation. Guild patrons force alcohol before her later barrel demand/shared drinking;reported Cure and quoted rebuke remain reported. Waitress recommends a large popular meal/dessert and acknowledges price before actual plate service;no printed payment,commission motive or independently verified popularity is added.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+Owner late-wife/shared-work account explains a valued store without inventing her private wishes. Helmet trade,actual sales,necklace provision and explicit free spear use/disposal keep their different terms. Noble associated-object value is explicit in own viewpoint;one-day loan proposed by Dust is accepted with no-cleaning request and substitute face cover. Rouzeri tolerable army life and outsider concern are her reasons,without a salary claim or complete biography.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Doreck own marriage preference, jealous reward and changed request coexist with care for Gaibil. Gaibil reminders about rest/medicine and professional pride do not erase instrumental envy or coercion. King paperwork/hospitality and butler breaks/desired work relief have direct versus inferred warrants. Older driver,bookseller,food guard and maids retain bounded individual choices without invented households or completed futures.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

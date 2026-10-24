@@ -1,0 +1,1196 @@
+{
+  "schema": "konosuba.cohort39.receiving-and-provenance.v1",
+  "received_utc": "2026-10-24T19:06:19.622893+00:00",
+  "source_baseline": "883caf4419e117acc1fe83880b1316495a8b8640",
+  "source_tree": "d44b83ffd48d0b5594995ce4cb4aace61b4a690b",
+  "main_at_receiving": "b44b96da54f0782ec7b006672a0a528b11057234",
+  "previous_published_source": "9eb4d4c1a4f2c4c6ac130e9869ad478ecb40e47a",
+  "main_reconciliation": {
+    "file": "COHORT39_MAIN_RECONCILIATION_VERIFIED_01.json",
+    "bytes": 10824,
+    "sha256": "3aa106b65d85a1e02e1383da976927ee954b56ab179d3950d6d773a99958c7e1"
+  },
+  "scope": {
+    "schema": "konosuba.cohort39.scope-assessment-draft.v1",
+    "recorded_utc": "2026-10-24T18:34:21.195059+00:00",
+    "subjects": [
+      {
+        "row": 79,
+        "subject": "Rouzeri / ルーゼリ",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "ROU-R01"
+        ],
+        "justification": "Expressed campaign accountability,desire to flee,valued army life and rejected exit coexist with pact argument,range change,recruitment and actual combat. One integrated provisional role-preserving survival hypothesis earns falsifiable conditional reconstruction;not a bravery label.",
+        "limits_and_rivals": "One concentrated encounter;generic fear,employment dependence,face-saving and attraction remain. No isolated cause,exact thresholds,executive appointment or checked permanent fate."
+      },
+      {
+        "row": 80,
+        "subject": "Recurring Axel general-store owner",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "DGO-R01"
+        ],
+        "justification": "Explicit recurrence across Dust01-07,ordinary property/work choices,recipient differences,chosen aid,own shared-life history and errors earn twelve dimensions and one bounded provision/ownership hypothesis. Correct old weapon-store label without erasing history.",
+        "limits_and_rivals": "No personal name,complete household or uniform pricing/care mechanism. Generic property defense,commercial interest,child-directed care and collective-defense investment remain. Source-known report and inference boundaries constrain former career,identity recognition and repair."
+      },
+      {
+        "row": 88,
+        "subject": "Helmeted noble / Dust admirer",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "HNO-R01"
+        ],
+        "justification": "Own private viewpoint,object-associated value,fallible rival inferences,actual acquisition,resources/combat assistance,concealment accommodation and finite lending terms earn one provisional closeness/preservation hypothesis. No anonymity or comic-sexual ceiling.",
+        "limits_and_rivals": "No personal name,wider noble alias join,precise cost threshold or reciprocity. Generic attachment,generosity,shyness and ordinary ownership remain. Contact violation stays adverse;child care and adult attraction distinct."
+      }
+    ],
+    "neighboring_roles": [
+      {
+        "row": 348,
+        "subject": "Larger apparent ogre leader at Axel defense (DUST07)",
+        "proposed_scoped_tier": 1,
+        "proposed_rules": [],
+        "justification": "Taunts wounded defenders,recognizes Vanir and switches to respectful questioning,objects to his shop employment,then falls silent after dismissal. An enemy ogre starts competing bids;untagged later funding demand is not individually assigned.",
+        "limits_and_rivals": "No personal name,global disjoint identity,final payment or full troop-death check;Dust leaves during the outcome. One local agency profile,no inherited ogre model."
+      },
+      {
+        "row": 349,
+        "subject": "Familiar arresting officer requesting evacuation time (DUST07)",
+        "proposed_scoped_tier": 1,
+        "proposed_rules": [],
+        "justification": "Initially rebukes apparent shirking,then accepts needed help,asks time to move wounded and obtain reinforcement,and warns Dust about the dangerous opponent. Recent arrest is not described as an innocent charge.",
+        "limits_and_rivals": "Request and danger warning are actual;completed evacuation/reinforcement by this hand unshown. Nos self-name and knockout retain existing78/137routes;no automatic future immunity from arrest."
+      },
+      {
+        "row": 350,
+        "subject": "Tomato seller lending a cart (DUST01)",
+        "proposed_scoped_tier": 1,
+        "proposed_rules": [],
+        "justification": "Reports scarcity and a contracted farm,quotes a large total,actually takes Dust payment,and lends a cart with a return request. Dust notes changed sales manner after money is visible.",
+        "limits_and_rivals": "Crop/farm claims and source-of-money indifference are seller speech;no certified provenance,actual returned cart,completed compensation or identity join to other vendors. General-store owner later offers a separate purchase that is not completed."
+      },
+      {
+        "row": 351,
+        "subject": "Café waitress requiring an order (DUST01)",
+        "proposed_scoped_tier": 1,
+        "proposed_rules": [],
+        "justification": "Interrupts a lengthy discussion to require ordering and quieter speech;after customers reject expense and insult pricing,she explicitly tells them to leave.",
+        "limits_and_rivals": "Waitress role is explicit;ownership,private life,police action,actual bill and identity join to DUST06red-haired guild waitress342 remain unproved. Bounded service veto,not a new generic waitress model."
+      },
+      {
+        "row": 352,
+        "subject": "Gate coughing soldier and separate wine-explanation voice (DUST07)",
+        "proposed_scoped_tier": 0,
+        "proposed_rules": [],
+        "justification": "The soldier reports monsters split toward guild and affluent district,then coughs up apparent blood. Dust initially infers a fatal wound;another voice explains it as earlier secretly drunk wine,and Dust drops that inference.",
+        "limits_and_rivals": "Sparse roles only. Wine explanation is attributed speech,not verified physiology;no death,global zero-casualty claim or confirmed identity with previous gate guards. Later narrated healing does not independently identify this hand."
+      },
+      {
+        "row": 353,
+        "subject": "Unidentified Axel defenders,healers and dragon-battle witnesses (DUST07)",
+        "proposed_scoped_tier": 0,
+        "proposed_rules": [],
+        "justification": "Wounded defense,requests/auction-side voices,healing and later battle-witness talk contribute local action and information.",
+        "limits_and_rivals": "No assignment of every auction bid or collective utterance to the apparent leader;no new personal identities,exact group headcount,verified knight identity or checked Rouzeri death. Rumor fading is a forecast,not completed forgetting."
+      },
+      {
+        "row": 354,
+        "subject": "General-store owner reported deceased wife (DUST07)",
+        "proposed_scoped_tier": 0,
+        "proposed_rules": [],
+        "justification": "Reported shared work and loss help explain the owner stated attachment to the store.",
+        "limits_and_rivals": "No onstage private viewpoint,exact biography,death mechanism or invented instruction to remain. Reported relation,not a separately modeled motive or global new-person proof."
+      },
+      {
+        "row": 355,
+        "subject": "Noble commissioned covert photographer / thief (DUST01)",
+        "proposed_scoped_tier": 0,
+        "proposed_rules": [],
+        "justification": "The noble describes commissioning a concealed photograph and receiving reports,then plans more detailed instructions.",
+        "limits_and_rivals": "Commission and report history are own narrator account;no newly witnessed photo-taking scene,agreed Dust surveillance permission or automatic identity join to a main-series photographer."
+      },
+      {
+        "row": 356,
+        "subject": "Helmeted noble reported parents (DUST01)",
+        "proposed_scoped_tier": 0,
+        "proposed_rules": [],
+        "justification": "Expected family objection constrains his stated wearing plan.",
+        "limits_and_rivals": "No actual parental speech,executed veto,complete household or independently certified global person count."
+      }
+    ],
+    "rule_count": 3,
+    "monographs": 3,
+    "models": 3,
+    "compact_profiles": 4,
+    "sparse_records": 5,
+    "no_model_inherited_by_species_or_role": true,
+    "no_word_appearance_rule_gender_species_or_anonymity_quota": true,
+    "entering_current_models": 56,
+    "proposed_current_models": 59,
+    "entering_scoped_secondary_models": 50,
+    "proposed_scoped_secondary_models": 53,
+    "entering_compact_profiles": 89,
+    "proposed_compact_profiles": 93,
+    "monograph_only": 28,
+    "entering_total_records": 348,
+    "proposed_total_records": 357,
+    "independent_observation_counts_remain_null": true,
+    "formal_adoption": false,
+    "exact_inputs_or_firsts_serialized": false,
+    "full_program_complete": false
+  },
+  "candidate_totals": {
+    "models": 59,
+    "scoped_secondary_models": 53,
+    "compact_profiles": 93,
+    "monograph_only": 28,
+    "nonfinal_records": 357,
+    "new_models": 3,
+    "new_monographs": 3,
+    "new_rules": 3,
+    "new_compact_profiles": 4,
+    "new_records": 9,
+    "new_Tier1_records": 4,
+    "new_Tier0_records": 5,
+    "new_input_cases": 12,
+    "new_first_bodies": 12,
+    "new_dependent_pairs": 6
+  },
+  "reviewed_artifact_pins": [
+    {
+      "private_file": "ROUZERI_MONOGRAPH_PUBLICATION_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ROUZERI_CHARACTER_MONOGRAPH.md",
+      "bytes": 13954,
+      "sha256": "fc2119ae427ea66dae98088a3d321e9a8531164479af8d31dbc9463dc7e9dd11"
+    },
+    {
+      "private_file": "ROUZERI_MODEL_DRAFT_02.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ROUZERI_RECONSTRUCTION_MODEL.md",
+      "bytes": 7679,
+      "sha256": "dfb29ef6a18fcc72a9ef8aff1d6e7957dfb3be07ee4c113bd397685c9b9e79ec"
+    },
+    {
+      "private_file": "ROUZERI_RULE_INVENTORY_DRAFT_02.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/ROUZERI_EXPANDED_V1_EVIDENCE/ROUZERI_RULE_INVENTORY_01.json",
+      "bytes": 5716,
+      "sha256": "82680dd56425c4b1b784b32c8e3a3b725496270c8ee57653b2d197bc6a057b56"
+    },
+    {
+      "private_file": "GENERAL_STORE_OWNER_MONOGRAPH_PUBLICATION_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_GENERAL_STORE_OWNER_CHARACTER_MONOGRAPH.md",
+      "bytes": 14247,
+      "sha256": "5a7041a7c15ed09c6aea02249c68ce3a301788fb6a162b9fcfb6484d4b5f2f0f"
+    },
+    {
+      "private_file": "GENERAL_STORE_OWNER_MODEL_DRAFT_02.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_GENERAL_STORE_OWNER_RECONSTRUCTION_MODEL.md",
+      "bytes": 7813,
+      "sha256": "33cfc513643f3574c16267f0403a479a8403055f36e293b02108887bb561325b"
+    },
+    {
+      "private_file": "GENERAL_STORE_OWNER_RULE_INVENTORY_DRAFT_02.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_RULE_INVENTORY_01.json",
+      "bytes": 6249,
+      "sha256": "e1f9b69da47844ba40a7b105f2a9264d1eccff1988c1cefe08030c021521eb5e"
+    },
+    {
+      "private_file": "HELMETED_NOBLE_MONOGRAPH_PUBLICATION_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_HELMETED_NOBLE_CHARACTER_MONOGRAPH.md",
+      "bytes": 13756,
+      "sha256": "f3b8c6c16b31f9ada8c60ba5380d2e5bf7ecc596fbde5add1df4e5ae77bfca9d"
+    },
+    {
+      "private_file": "HELMETED_NOBLE_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HELMETED_NOBLE_RECONSTRUCTION_MODEL.md",
+      "bytes": 7735,
+      "sha256": "d42f8bfcef210af3b912a987f07682d66fcdadaabe2095c918a9f72052aefd3b"
+    },
+    {
+      "private_file": "HELMETED_NOBLE_RULE_INVENTORY_DRAFT_02.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_RULE_INVENTORY_01.json",
+      "bytes": 5979,
+      "sha256": "05cc89bf7c8921cb68b56a33fb47fb5ed50b3ee0227563b206c7f206e20e070e"
+    },
+    {
+      "private_file": "COHORT39_EVIDENCE_INDEX_PUBLICATION_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+      "bytes": 10395,
+      "sha256": "4aa1734fde0e24780b883714bb28bd19ab1139532d553dd3ef2b46f4cadfca31"
+    },
+    {
+      "private_file": "ROUZERI_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/ROUZERI_EXPANDED_V1_EVIDENCE/ROUZERI_SCENARIO_INPUTS_01.json",
+      "bytes": 14699,
+      "sha256": "967c9b7eab8e7818ae15ac8027d9e3a108c5b05d45f8b860a13e1b181e47f300"
+    },
+    {
+      "private_file": "ROUZERI_FIRST_OUTPUTS_DRAFT_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/ROUZERI_EXPANDED_V1_EVIDENCE/ROUZERI_FIRST_OUTPUTS_01.json",
+      "bytes": 6954,
+      "sha256": "81e527f1e14daf43c284985beb34ddebc5d71084de65935b0b6f313c14d60fb4"
+    },
+    {
+      "private_file": "ROUZERI_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/ROUZERI_EXPANDED_V1_EVIDENCE/ROUZERI_DIAGNOSTIC_ASSESSMENT_01.md",
+      "bytes": 1994,
+      "sha256": "c1bb31cea7a6a44aee891b611962044a39901e175ecc1d5f7b88ba7f24ceed38"
+    },
+    {
+      "private_file": "GENERAL_STORE_OWNER_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_SCENARIO_INPUTS_01.json",
+      "bytes": 13792,
+      "sha256": "273718c82645a08bce2279dfbbfff00bdc7db72bd0b754750f17cf33558de5ec"
+    },
+    {
+      "private_file": "GENERAL_STORE_OWNER_FIRST_OUTPUTS_DRAFT_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_FIRST_OUTPUTS_01.json",
+      "bytes": 6739,
+      "sha256": "cee4651fd25523b1c80b6e00f412f4eec1e04cf5cc1a82da042269d31a32468c"
+    },
+    {
+      "private_file": "GENERAL_STORE_OWNER_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_DIAGNOSTIC_ASSESSMENT_01.md",
+      "bytes": 2428,
+      "sha256": "7473c33677245701dd838791626e6a8fb669ae9254c6dd3bc5ea9fca778a7d43"
+    },
+    {
+      "private_file": "HELMETED_NOBLE_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_SCENARIO_INPUTS_01.json",
+      "bytes": 13816,
+      "sha256": "c485d2382aa7fe8c054b581fce5b0867432d3841b359cdbaf432a34e323f95e3"
+    },
+    {
+      "private_file": "HELMETED_NOBLE_FIRST_OUTPUTS_DRAFT_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_FIRST_OUTPUTS_01.json",
+      "bytes": 6646,
+      "sha256": "72706f575ac1456506d251cc42f1bdfa0906fa101b53d9a827292d21a0a4bad8"
+    },
+    {
+      "private_file": "HELMETED_NOBLE_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_DIAGNOSTIC_ASSESSMENT_01.md",
+      "bytes": 2417,
+      "sha256": "c3379de7ae9857244880e55037cd133c1710995fafc2e7fc5de43ed18bcbcac2"
+    },
+    {
+      "private_file": "ROUZERI_FIRST_OUTPUT_ANNOTATIONS_DRAFT_02.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/ROUZERI_EXPANDED_V1_EVIDENCE/ROUZERI_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 7014,
+      "sha256": "172cc9db6ec43dda95e724dc41bef5db6027b60233166d632032f4f96b8f29be"
+    },
+    {
+      "private_file": "GENERAL_STORE_OWNER_FIRST_OUTPUT_ANNOTATIONS_DRAFT_02.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 7421,
+      "sha256": "b7a46cd6ce9a75c898a004ee7c2f30d61fcd2eeac15cb3646b225133a56dbebb"
+    },
+    {
+      "private_file": "HELMETED_NOBLE_FIRST_OUTPUT_ANNOTATIONS_DRAFT_02.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 7452,
+      "sha256": "f259780f857a4748183230f0ed2d76a666c0b1c81c9561c11ff66342719452e4"
+    },
+    {
+      "private_file": "COHORT39_NATIVE_PROVENANCE_DRAFT_04.json",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+      "bytes": 59648,
+      "sha256": "7c69b6296532210325f83101954ac35499c13b035b21c8de7adb6b1298b734e2"
+    }
+  ],
+  "all_frozen_private_artifact_pins": [
+    {
+      "file": "COHORT39_ADDITIONAL_INCIDENTAL_ROLE_REVIEW_QUEUE_01.json",
+      "bytes": 1712,
+      "sha256": "51178a2a7eb6b3915330c652fd727617735822cb9c3d3c4fa19ee8a9f498ea17"
+    },
+    {
+      "file": "COHORT39_COMPACT_PROFILES_DRAFT_01.md",
+      "bytes": 4870,
+      "sha256": "884d7e6210637d50a32b33ba3d653cd471bfdc5cdfc9407b89649d7b5bab24ad"
+    },
+    {
+      "file": "COHORT39_EVIDENCE_INDEX_DRAFT_01.md",
+      "bytes": 8574,
+      "sha256": "2e72481ca8ffd75feaea652283f7bb3699135cf8d856454eb04cae7843f4406b"
+    },
+    {
+      "file": "COHORT39_EVIDENCE_INDEX_DRAFT_02.md",
+      "bytes": 10395,
+      "sha256": "1eddbb0bc7a233618dca85a0c8189a17dd4aba6dde0f67499e61826b4f26147e"
+    },
+    {
+      "file": "COHORT39_NAME_REFERENCE_CHECK_DRAFT_01.json",
+      "bytes": 3904,
+      "sha256": "5be0e69d0c8c78fcabdff2f618bcdde95378050c2f38b90d5c0cd047cf42488f"
+    },
+    {
+      "file": "COHORT39_NATIVE_PROVENANCE_DRAFT_02.json",
+      "bytes": 56008,
+      "sha256": "4323b49366762df691c5bddd89e3cb6da2499ea00072d3125ed429cc3bcbb152"
+    },
+    {
+      "file": "COHORT39_NATIVE_PROVENANCE_DRAFT_04.json",
+      "bytes": 59648,
+      "sha256": "7c69b6296532210325f83101954ac35499c13b035b21c8de7adb6b1298b734e2"
+    },
+    {
+      "file": "COHORT39_NEW_DISCOVERY_RECORDS_DRAFT_01.json",
+      "bytes": 10502,
+      "sha256": "4f7b034d4b1397b2875adfd8089c0fb9c659b7b659bc4b839bfb77e0f63408db"
+    },
+    {
+      "file": "COHORT39_SCOPE_ASSESSMENT_DRAFT_01.json",
+      "bytes": 8150,
+      "sha256": "7b88d5260034fd973d1be10e7abb16444d70b7c9f4b60e35b6e618f2a01f2a20"
+    },
+    {
+      "file": "GENERAL_STORE_OWNER_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+      "bytes": 2428,
+      "sha256": "7473c33677245701dd838791626e6a8fb669ae9254c6dd3bc5ea9fca778a7d43"
+    },
+    {
+      "file": "GENERAL_STORE_OWNER_FIRST_OUTPUTS_DRAFT_01.json",
+      "bytes": 6739,
+      "sha256": "cee4651fd25523b1c80b6e00f412f4eec1e04cf5cc1a82da042269d31a32468c"
+    },
+    {
+      "file": "GENERAL_STORE_OWNER_FIRST_OUTPUT_ANNOTATIONS_DRAFT_02.json",
+      "bytes": 7421,
+      "sha256": "b7a46cd6ce9a75c898a004ee7c2f30d61fcd2eeac15cb3646b225133a56dbebb"
+    },
+    {
+      "file": "GENERAL_STORE_OWNER_MODEL_DRAFT_02.md",
+      "bytes": 7813,
+      "sha256": "33cfc513643f3574c16267f0403a479a8403055f36e293b02108887bb561325b"
+    },
+    {
+      "file": "GENERAL_STORE_OWNER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 14247,
+      "sha256": "966dd1ff1cdbd4d243334a9ee94ca899a8954dd9e84de6d894c8c5e5798df93a"
+    },
+    {
+      "file": "GENERAL_STORE_OWNER_RULE_INVENTORY_DRAFT_02.json",
+      "bytes": 6249,
+      "sha256": "e1f9b69da47844ba40a7b105f2a9264d1eccff1988c1cefe08030c021521eb5e"
+    },
+    {
+      "file": "GENERAL_STORE_OWNER_SCENARIO_INPUTS_01.json",
+      "bytes": 13792,
+      "sha256": "273718c82645a08bce2279dfbbfff00bdc7db72bd0b754750f17cf33558de5ec"
+    },
+    {
+      "file": "HELMETED_NOBLE_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+      "bytes": 2417,
+      "sha256": "c3379de7ae9857244880e55037cd133c1710995fafc2e7fc5de43ed18bcbcac2"
+    },
+    {
+      "file": "HELMETED_NOBLE_FIRST_OUTPUTS_DRAFT_01.json",
+      "bytes": 6646,
+      "sha256": "72706f575ac1456506d251cc42f1bdfa0906fa101b53d9a827292d21a0a4bad8"
+    },
+    {
+      "file": "HELMETED_NOBLE_FIRST_OUTPUT_ANNOTATIONS_DRAFT_02.json",
+      "bytes": 7452,
+      "sha256": "f259780f857a4748183230f0ed2d76a666c0b1c81c9561c11ff66342719452e4"
+    },
+    {
+      "file": "HELMETED_NOBLE_MODEL_DRAFT_01.md",
+      "bytes": 7735,
+      "sha256": "d42f8bfcef210af3b912a987f07682d66fcdadaabe2095c918a9f72052aefd3b"
+    },
+    {
+      "file": "HELMETED_NOBLE_MONOGRAPH_DRAFT_02.md",
+      "bytes": 13756,
+      "sha256": "1826af9d0233bc79856a1823ed79651f49653b17d94f03803d8a4829d575d5c0"
+    },
+    {
+      "file": "HELMETED_NOBLE_RULE_INVENTORY_DRAFT_02.json",
+      "bytes": 5979,
+      "sha256": "05cc89bf7c8921cb68b56a33fb47fb5ed50b3ee0227563b206c7f206e20e070e"
+    },
+    {
+      "file": "HELMETED_NOBLE_SCENARIO_INPUTS_01.json",
+      "bytes": 13816,
+      "sha256": "c485d2382aa7fe8c054b581fce5b0867432d3841b359cdbaf432a34e323f95e3"
+    },
+    {
+      "file": "ROUZERI_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+      "bytes": 1994,
+      "sha256": "c1bb31cea7a6a44aee891b611962044a39901e175ecc1d5f7b88ba7f24ceed38"
+    },
+    {
+      "file": "ROUZERI_FIRST_OUTPUTS_DRAFT_01.json",
+      "bytes": 6954,
+      "sha256": "81e527f1e14daf43c284985beb34ddebc5d71084de65935b0b6f313c14d60fb4"
+    },
+    {
+      "file": "ROUZERI_FIRST_OUTPUT_ANNOTATIONS_DRAFT_02.json",
+      "bytes": 7014,
+      "sha256": "172cc9db6ec43dda95e724dc41bef5db6027b60233166d632032f4f96b8f29be"
+    },
+    {
+      "file": "ROUZERI_MODEL_DRAFT_02.md",
+      "bytes": 7679,
+      "sha256": "dfb29ef6a18fcc72a9ef8aff1d6e7957dfb3be07ee4c113bd397685c9b9e79ec"
+    },
+    {
+      "file": "ROUZERI_MONOGRAPH_DRAFT_02.md",
+      "bytes": 13954,
+      "sha256": "16779ce7c35b32fb2490f3a904e80ba900ef8b9ae27f38ee81216e01b839d86b"
+    },
+    {
+      "file": "ROUZERI_RULE_INVENTORY_DRAFT_02.json",
+      "bytes": 5716,
+      "sha256": "82680dd56425c4b1b784b32c8e3a3b725496270c8ee57653b2d197bc6a057b56"
+    },
+    {
+      "file": "ROUZERI_SCENARIO_INPUTS_01.json",
+      "bytes": 14699,
+      "sha256": "967c9b7eab8e7818ae15ac8027d9e3a108c5b05d45f8b860a13e1b181e47f300"
+    },
+    {
+      "file": "ROUZERI_MONOGRAPH_PUBLICATION_DRAFT_01.md",
+      "bytes": 13954,
+      "sha256": "fc2119ae427ea66dae98088a3d321e9a8531164479af8d31dbc9463dc7e9dd11"
+    },
+    {
+      "file": "GENERAL_STORE_OWNER_MONOGRAPH_PUBLICATION_DRAFT_01.md",
+      "bytes": 14247,
+      "sha256": "5a7041a7c15ed09c6aea02249c68ce3a301788fb6a162b9fcfb6484d4b5f2f0f"
+    },
+    {
+      "file": "HELMETED_NOBLE_MONOGRAPH_PUBLICATION_DRAFT_01.md",
+      "bytes": 13756,
+      "sha256": "f3b8c6c16b31f9ada8c60ba5380d2e5bf7ecc596fbde5add1df4e5ae77bfca9d"
+    },
+    {
+      "file": "COHORT39_EVIDENCE_INDEX_PUBLICATION_DRAFT_01.md",
+      "bytes": 10395,
+      "sha256": "4aa1734fde0e24780b883714bb28bd19ab1139532d553dd3ef2b46f4cadfca31"
+    },
+    {
+      "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+      "bytes": 4391,
+      "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+    }
+  ],
+  "supporting_freeze_records": [
+    {
+      "file": "COHORT39_ALL_ORIGINAL_FIRSTS_SEALED_01.json",
+      "bytes": 9865,
+      "sha256": "9fc27b3e2c8b87f22f79e0adc27e66f01ad7c7c64e89b4d335f7ee32478f0627"
+    },
+    {
+      "file": "COHORT39_DIAGNOSTIC_PAIR_CORRECTION_COMPLETE_02.diff",
+      "bytes": 4033,
+      "sha256": "9cdc3e7a4999cb8d86377e2629abff3afc337406b8bc83fbb129127f7227a7ba"
+    },
+    {
+      "file": "COHORT39_DIAGNOSTIC_RECEIVING_PREPARATION_01.json",
+      "bytes": 14630,
+      "sha256": "3637bdda583c5eb773ef37d58e76c572f7ecb685fd1c862f7111f77dbe7e0a6e"
+    },
+    {
+      "file": "COHORT39_DIAGNOSTIC_RECEIVING_PREPARATION_02.json",
+      "bytes": 15216,
+      "sha256": "e279ffca5d3e4ec61547d505ddff65dc10b386a4e484a72dc09fcf88549a6bf1"
+    },
+    {
+      "file": "COHORT39_EXACT_INPUT_FREEZE_01.json",
+      "bytes": 3207,
+      "sha256": "a902789277fe772aa5c266513cc16126483e640c902f04e6193c6aee8a5b8300"
+    },
+    {
+      "file": "COHORT39_EXACT_INPUT_REVIEW_PLAN_01.json",
+      "bytes": 1950,
+      "sha256": "848419b9bb9173ea4bd40fdb3d5943a44fab5574ac0e676412bb1dee546a4d70"
+    },
+    {
+      "file": "COHORT39_EXACT_INPUT_REVIEW_RECEIVING_01.json",
+      "bytes": 2429,
+      "sha256": "188ec0a16c6f12882f56aa94d186ddc9e67ca76c16fa61eda93a3c4d260dd201"
+    },
+    {
+      "file": "COHORT39_FINAL_SEMANTIC_AUTHOR_REVIEW_01.json",
+      "bytes": 880,
+      "sha256": "67bc3a9d426047d88bba6463fa113ce0f99e91a8f0377c9d90397eb186d25cab"
+    },
+    {
+      "file": "COHORT39_FINAL_SEMANTIC_AUTHOR_REVIEW_02.json",
+      "bytes": 1350,
+      "sha256": "0f9b81b6bece8b1bf1b92f405fc2cbc61facc2ab625aaa27da633acf79391f82"
+    },
+    {
+      "file": "COHORT39_FINAL_SEMANTIC_REVIEW_PLAN_01.json",
+      "bytes": 3495,
+      "sha256": "0871b18c3c367423385a86a9988a9d8292ce45a0aa653ec7b91a23f3e94c102b"
+    },
+    {
+      "file": "COHORT39_FOUNDATION_ACTUAL_REVIEW_01.json",
+      "bytes": 7684,
+      "sha256": "433a94c8289ff4c83549b68a6b7429297f1fb1b99106d13996815731e90aaa2c"
+    },
+    {
+      "file": "COHORT39_FOUNDATION_ACTUAL_REVIEW_02.json",
+      "bytes": 4811,
+      "sha256": "708b15785b2bbca5773bd279ed2ad70dffc509ccd763f8180c9751d7f87cb59f"
+    },
+    {
+      "file": "COHORT39_FOUNDATION_CORRECTION_PREPARATION_02.json",
+      "bytes": 14304,
+      "sha256": "3e6bfafaf96efb17e38d3d18aedb94398c73864c0bdcc5d1c18e2b0142150673"
+    },
+    {
+      "file": "COHORT39_FOUNDATION_PARTIAL_REVIEW_01.json",
+      "bytes": 3474,
+      "sha256": "4b3cd19e4b08f476f26e2a3013a44fcc195fd25da70c8711a9d61a021f965a8b"
+    },
+    {
+      "file": "COHORT39_FOUNDATION_PREPARATION_01.json",
+      "bytes": 11124,
+      "sha256": "0e7a8c3d08551077d40c77d5e90e343d94b80970538d35234f1a203ff0994562"
+    },
+    {
+      "file": "COHORT39_FOUNDATION_PREPARATION_02.json",
+      "bytes": 13218,
+      "sha256": "128a437b5aca5ebef523c8701ce0bfcab096f016607f36d0c18ff33df7bcf037"
+    },
+    {
+      "file": "COHORT39_FOUNDATION_REVIEW_PLAN_01.json",
+      "bytes": 5783,
+      "sha256": "0223618dc722474d3c5846c4a4d1a02e94bebb47e6ee0b3f423ad3b343949c1c"
+    },
+    {
+      "file": "COHORT39_MODEL_FOUNDATION_FREEZE_01.json",
+      "bytes": 22357,
+      "sha256": "2e8a6f6db0b8e35ab9b899d4563931208fb3c9cde19a6d8b6475f1940355be65"
+    },
+    {
+      "file": "COHORT39_NATIVE_PROVENANCE_DRAFT_01.json",
+      "bytes": 55668,
+      "sha256": "5ae9b28a356fa9611c20a9d03978d80899ae592ea1e1c17198c867cfdcc2f0d5"
+    },
+    {
+      "file": "COHORT39_NATIVE_PROVENANCE_DRAFT_03.json",
+      "bytes": 59648,
+      "sha256": "f75a0fb2dfb666a7b2a4768611ac126fb3049f4aa65460ac77a833de522aaa5e"
+    },
+    {
+      "file": "GENERAL_STORE_OWNER_FIRST_OUTPUT_ANNOTATIONS_DRAFT_01.json",
+      "bytes": 7431,
+      "sha256": "a463fc0f4bdb79d975821fc53b34b64e9dad82406e462d9784a68977ce87a8cf"
+    },
+    {
+      "file": "GENERAL_STORE_OWNER_MODEL_DRAFT_01.md",
+      "bytes": 7529,
+      "sha256": "f596533d3eeb69c4c74fabe78853086fa152256392fd3c47e223db75a2657e77"
+    },
+    {
+      "file": "GENERAL_STORE_OWNER_RULE_INVENTORY_DRAFT_01.json",
+      "bytes": 5603,
+      "sha256": "585ddfa5649e73c72a5e22bddfda6354c96cece99da81431f2cc0785d7534e86"
+    },
+    {
+      "file": "HELMETED_NOBLE_FIRST_OUTPUT_ANNOTATIONS_DRAFT_01.json",
+      "bytes": 7462,
+      "sha256": "4cad421cc11040f4b85494e03e3ee366e2c93f89d66207a21dfec48698a88ca1"
+    },
+    {
+      "file": "HELMETED_NOBLE_MONOGRAPH_DRAFT_01.md",
+      "bytes": 13692,
+      "sha256": "a9fa7c330da4742ae79d32e46a46be643235e794c155bf3e9536a9c76379ec1c"
+    },
+    {
+      "file": "HELMETED_NOBLE_RULE_INVENTORY_DRAFT_01.json",
+      "bytes": 5622,
+      "sha256": "2143587116ecd7c565a91e4f1473e5ab65c0d1ffc0fa2348fbeb2c673ad23afb"
+    },
+    {
+      "file": "ROUZERI_FIRST_OUTPUT_ANNOTATIONS_DRAFT_01.json",
+      "bytes": 7024,
+      "sha256": "f56d74b253ff833ee2694573778bcb2073a483525bf459a371e7046cad8f5d76"
+    },
+    {
+      "file": "ROUZERI_MODEL_DRAFT_01.md",
+      "bytes": 7624,
+      "sha256": "d3355c90e30ee2b2aa8cd9e9f057fa84086a03bf81d19fc066aa877ddfc385c9"
+    },
+    {
+      "file": "ROUZERI_MONOGRAPH_DRAFT_01.md",
+      "bytes": 13899,
+      "sha256": "340462aa6085b4eac2a19c26f0204ec343714cb994abe990fe4f97b55011ad58"
+    },
+    {
+      "file": "ROUZERI_RULE_INVENTORY_DRAFT_01.json",
+      "bytes": 5317,
+      "sha256": "91502d6f70355b7622b44ec2226b584baccc9928a14ab4b0aafd13d40d91f0f9"
+    },
+    {
+      "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_ACTUAL_REVIEW_01.json",
+      "bytes": 800,
+      "sha256": "8b92c8fe88ee6efb1fb14d2512a658e1e982c65cc93ab85f048c3b4234fa1380"
+    },
+    {
+      "file": "COHORT39_SEMANTIC_RECEIVING_01.json",
+      "bytes": 43343,
+      "sha256": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146"
+    },
+    {
+      "file": "COHORT39_AUTHOR_PREFLIGHT_EXECUTION_01.json",
+      "bytes": 1018,
+      "sha256": "e4a5c8531a4a6fe38268c2e4382b40e89b2bccb57b5bf1e9615051656f3a536c"
+    },
+    {
+      "file": "C39_AUTHOR_PREFLIGHT_STDOUT_01.txt",
+      "bytes": 924,
+      "sha256": "809e4b4ef25aae677019dd1b345eb06b31489c87021e775157dbf109e134b591"
+    },
+    {
+      "file": "C39_AUTHOR_PREFLIGHT_STDERR_01.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "COHORT39_STAGED_SCOPE_02.json",
+      "bytes": 59029,
+      "sha256": "d6e179c8203b22324e44d377391522708be6deaa29d97c7b997cbd67e75fac3b"
+    },
+    {
+      "file": "COHORT39_CANONICAL_ADOPTION_OPERATIONS_02.json",
+      "bytes": 23050,
+      "sha256": "9270fc63cb365522b3a2e546f476690d2965fcd73f4f026bb7f49f0b957e1879"
+    }
+  ],
+  "foundation_seal_sha256": "2e8a6f6db0b8e35ab9b899d4563931208fb3c9cde19a6d8b6475f1940355be65",
+  "foundation_review_sha256": "708b15785b2bbca5773bd279ed2ad70dffc509ccd763f8180c9751d7f87cb59f",
+  "exact_input_freeze_sha256": "a902789277fe772aa5c266513cc16126483e640c902f04e6193c6aee8a5b8300",
+  "final_semantic_review_sha256": "0f9b81b6bece8b1bf1b92f405fc2cbc61facc2ab625aaa27da633acf79391f82",
+  "actual_first_serialization_pins": [
+    {
+      "case_id": "ROU-A1",
+      "body_file": "firsts01/ROU-A1.txt",
+      "body_bytes": 684,
+      "body_sha256": "08b6f96fb074babc038481bd22ccc6c06bf7dc334815c9a78cca4516ec0b3e40",
+      "receipt_file": "ROU-A1_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 1987,
+      "receipt_sha256": "28879e80d627b53ed576bdec1c343550c4f953e9afab018503068c0ca1b62bbd"
+    },
+    {
+      "case_id": "ROU-A2",
+      "body_file": "firsts01/ROU-A2.txt",
+      "body_bytes": 713,
+      "body_sha256": "1b4b4e8375f85818bb986bc7bed2b9e8cba68fca5c9b5d002028f4052ce56b68",
+      "receipt_file": "ROU-A2_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 1987,
+      "receipt_sha256": "f0e99457d58de13ea57140774197a9be4ff874d995d85790688dd80bf4c05b69"
+    },
+    {
+      "case_id": "ROU-B1",
+      "body_file": "firsts01/ROU-B1.txt",
+      "body_bytes": 684,
+      "body_sha256": "d6fe92ac444f575e526b9f69650d977c9ba72cfd095828ce450f073e9d63d040",
+      "receipt_file": "ROU-B1_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 1987,
+      "receipt_sha256": "590afc63c3c6379c5a871a4e4babba0ccd9cc22bcaab6ad1bc66b8bcc3c55d74"
+    },
+    {
+      "case_id": "ROU-B2",
+      "body_file": "firsts01/ROU-B2.txt",
+      "body_bytes": 718,
+      "body_sha256": "db833a783813e8f9ceed9b4eaf9de4a1fa043614fd89e76de02aca1f0a106c15",
+      "receipt_file": "ROU-B2_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 1987,
+      "receipt_sha256": "0b331e6bf813df586fc1dca4a0678a995da3abc37ec7637ca265b47b86c9b465"
+    },
+    {
+      "case_id": "DGO-A1",
+      "body_file": "firsts01/DGO-A1.txt",
+      "body_bytes": 623,
+      "body_sha256": "c5e7ac4a0be8b5266dd415d4bf365d17eddd724137e4ba83f31b5cfadc7edd7a",
+      "receipt_file": "DGO-A1_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 2023,
+      "receipt_sha256": "f2d670e39af857bf6523b62e44205baddbaa992c661656537afcec52e2fb614b"
+    },
+    {
+      "case_id": "DGO-A2",
+      "body_file": "firsts01/DGO-A2.txt",
+      "body_bytes": 628,
+      "body_sha256": "cb7e9ca14ae6f5f5fe654441bf206ecac55d9cd50913229a9f57ece323f7bcc4",
+      "receipt_file": "DGO-A2_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 2023,
+      "receipt_sha256": "276016cf1b7c39106e7c231b8436dbeb99239502591854eb33f04fdf4b99a293"
+    },
+    {
+      "case_id": "DGO-B1",
+      "body_file": "firsts01/DGO-B1.txt",
+      "body_bytes": 688,
+      "body_sha256": "e87c77e450690f17971f2e62ac1fcec6282cfd2cd156d97f52a36e18d89b29bf",
+      "receipt_file": "DGO-B1_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 2023,
+      "receipt_sha256": "f274a3d4e3d056605960e1b1ccf36790b8a39797c9c28c28752114a1b40b7e12"
+    },
+    {
+      "case_id": "DGO-B2",
+      "body_file": "firsts01/DGO-B2.txt",
+      "body_bytes": 614,
+      "body_sha256": "9d0b0d594ed8c2bc36fdbd28c81dd1a4c71c805160fe718994ccdc8184cedbce",
+      "receipt_file": "DGO-B2_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 2023,
+      "receipt_sha256": "047cd0391332a9b93c6c2a8f33223247c91993a69b4487d8df45d5fbc43dadd4"
+    },
+    {
+      "case_id": "HNO-A1",
+      "body_file": "firsts01/HNO-A1.txt",
+      "body_bytes": 625,
+      "body_sha256": "2feb4ff07d19d6fe5505cc323bbd7d275877caff3b53093db52720a524c0b176",
+      "receipt_file": "HNO-A1_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 2008,
+      "receipt_sha256": "4583f8067c441cf96cd1e58c4d5888d3ee6cf8b7f18eb1abac405259c50f197d"
+    },
+    {
+      "case_id": "HNO-A2",
+      "body_file": "firsts01/HNO-A2.txt",
+      "body_bytes": 591,
+      "body_sha256": "1f2d6e7dd0cf92d75226f2d31fac13b925dc926e0e01054cda3c237b6ce2aa10",
+      "receipt_file": "HNO-A2_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 2009,
+      "receipt_sha256": "e3758fbdc1e43a0f051380bb50a3169cae62c6aeec35713791ba695a9c6467ac"
+    },
+    {
+      "case_id": "HNO-B1",
+      "body_file": "firsts01/HNO-B1.txt",
+      "body_bytes": 631,
+      "body_sha256": "0597dc2da2c86dabebd3aa4f60ebf79174dac3c791e594717016012cfb436946",
+      "receipt_file": "HNO-B1_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 2009,
+      "receipt_sha256": "83e12080b84a780c59d00c27d3d701c0373875a76a725ab6e458d4e6423bdfee"
+    },
+    {
+      "case_id": "HNO-B2",
+      "body_file": "firsts01/HNO-B2.txt",
+      "body_bytes": 629,
+      "body_sha256": "bdbe4acf2f4658a38066c45d21a609bd478b4bd61e1bc11cb370e0a3bc347bbb",
+      "receipt_file": "HNO-B2_ORIGINAL_FIRST_RECEIPT_01.json",
+      "receipt_bytes": 2009,
+      "receipt_sha256": "476422cdee92feb647f4cf627166a9e45065b1dcfdea5b175d84b5d3097ba10d"
+    }
+  ],
+  "compact_profile_fragment": {
+    "private_file": "COHORT39_COMPACT_PROFILES_DRAFT_01.md",
+    "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "bytes": 4870,
+    "sha256": "884d7e6210637d50a32b33ba3d653cd471bfdc5cdfc9407b89649d7b5bab24ad",
+    "anchor": "#cohort-39-rouzeri-store-owner-noble-and-local-supporting-roles"
+  },
+  "changed_entering_rows": [
+    79,
+    80,
+    88
+  ],
+  "untouched_entering_rows": 345,
+  "new_rows": [
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356
+  ],
+  "entering_private_census_file": "SECONDARY_CHARACTER_CENSUS_AND_GAP_AUDIT_WORKING_113.json",
+  "entering_private_census_sha256": "0d2c4a55f9f5dae953ed0e80535a3f84d549dbc61c3518ec0f356f9e0814d969",
+  "canonical_private_differing_historical_rows": [
+    5,
+    6,
+    7,
+    8,
+    12,
+    13,
+    43,
+    78,
+    123,
+    124,
+    125,
+    137,
+    142,
+    143,
+    168,
+    170,
+    171,
+    172,
+    177
+  ],
+  "current_core_fields_equal_across_planes": [
+    "character",
+    "identity",
+    "likely_tier",
+    "priority",
+    "evidence_distribution",
+    "substantive_responsibility",
+    "gaps",
+    "disposition_status",
+    "independent_observation_count"
+  ],
+  "source_access_qualification": "4192 selected P/4128 inline ruby,23 members of7known EPUBs,84complete native displays;4167fictionP and25Dust05author-afterwordP. Nine whole paragraph projections/fourteen bounded members;zero current image or nonparagraph residual views. D1-D4analytical contexts actually received;prior completeD5/D6analytical surfaces reused with exact historical receipts. All41literal retrieval is technical only. No new whole-edition,globally unique-person,independent,acoustic or native-human credit.",
+  "source_identity_and_knowledge_limits": [
+    "Rouzeri is named commander/executive candidate,not witnessed executive appointment. Her own army-life reason differs from another ogre salary claim;Vanir former executive versus current Wiz barrier/neutrality obligations remain distinct. Defeat has no checked permanent fate.",
+    "General-store role label corrected without erasing earlier weapon-store history;tomato seller and other-country generic shop unjoined. Spear failure occursP832,neglect is DustP834;repair is later attributed account. Actual free use follows no-return/resale warning.",
+    "Noble own private viewpoint,explicit previous helmet join and actual recurring aid differ from Dust inverter/reciprocity fantasies. Dust proposes one-day loan,noble accepts and requests preservation;D7P184 separately gives explicit horse loan. Contact violations remain adverse. MAIN07photo-noble/Andain/Aigis remain unjoined.",
+    "Own speech,actual action,reported history,narrator inference,untagged voice,dream and anticipated outcome remain distinct. New9records are not9certified people;additional ordinary-life role-review queue remains owed."
+  ],
+  "diagnostic_qualification": "Three one-rule foundations froze before exact inputs. Twelve actual original English firsts/six dependent pairs were emitted once and sealed before feedback. DGO-B1 invents upstairs from contrast and unspecified duration;HNO-A2 adds price-marking detail and ambiguous audience absence. Both retained. Four other pairs currently respect body constraints,but none cleanly isolates a mechanism against generic prudence,ownership,care,sentiment or explicit source/prompt cues. Same informed root/source-known/all contrasts visible,no independent generator,accuracy,grade,confidence gain,Japanese/acoustic certification or final battery. No regeneration or repair.",
+  "unprobed_conditions": [
+    "Affiliation cost separated from public exit/destination/authority package and graded danger.",
+    "Owner help with matched need,purpose,recipient and resource cost;source siege relocation with independently credited protection.",
+    "Noble association separated from explicit value cue and ordinary sentiment;costly aid,concealment and expressed refusal across genuinely unfamiliar circumstances.",
+    "Wider aliases and incidental Dust supporting-role queue;image/nonparagraph/whole-corpus identity joins.",
+    "All final nine-category batteries,seven expanded specialist studies,extended/full-series synthesis and six original Stage D successors."
+  ],
+  "source_review_receipts": [
+    {
+      "file": "COHORT39_ACTUAL_NATIVE_CONTEXT_RECEIVING_01.json",
+      "bytes": 147825,
+      "sha256": "d9a1838414bcc9a280e27677c9030cd863d46b3f6d47dc900893b717b7272655"
+    },
+    {
+      "file": "COHORT39_EARLIER_NATIVE_CONTEXT_RECEIVING_02.json",
+      "bytes": 424575,
+      "sha256": "85d700ea8b35326bb43271e0f823cd4af99ad42d91800a249c414d4af2f2754a"
+    },
+    {
+      "file": "COHORT39_CONTEXT_REVIEW_RECEIVING_01.json",
+      "bytes": 5273,
+      "sha256": "c1d7bb5ae64aa94f7988fd6f7281ab7d3062beea58d33f419745aad6a7202a4d"
+    },
+    {
+      "file": "COHORT39_ADAPTIVE_IDENTITY_CONTEXT_RECEIVING_01.json",
+      "bytes": 8877,
+      "sha256": "f87b5fd25a17f38d929b8bbddca0914c4fab8f7f7fca4d09e2ecf8486b62f3a7"
+    },
+    {
+      "file": "COHORT39_EARLIER_DUST_ANALYTICAL_CONTEXT_RECEIVING_02.json",
+      "bytes": 10963,
+      "sha256": "14512322fcb8a5a9c5245c29544b8c47154b155766bef7f941b3e3f9b3e6de59"
+    }
+  ],
+  "additional_incidental_review_queue": {
+    "file": "COHORT39_ADDITIONAL_INCIDENTAL_ROLE_REVIEW_QUEUE_01.json",
+    "bytes": 1712,
+    "sha256": "51178a2a7eb6b3915330c652fd727617735822cb9c3d3c4fa19ee8a9f498ea17"
+  },
+  "prior_preservation_checks": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 56,
+    "control_baseline": "Owner-integrated main bee2e0d1d772e0956401cd6b94262ce61bc83142; all12 current controls exact; historical control pins independently verified at6f06e50c8c7277bdffefaf291f5990b6cd783ee9.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true,
+    "C27_twenty_cores_compact_fragment_exact": true,
+    "C28_twenty_eight_cores_thirtytwo_private_twentyfour_original_firsts_exact": true,
+    "C28_eighty_nine_raw_deliveries_exact": true,
+    "WORK92_exact": true,
+    "current_C28_public_gate_exact": true,
+    "C29_thirteen_cores_seventeen_private_sixteen_original_firsts_exact": true,
+    "C29_sixty_eight_raw_deliveries_exact": true,
+    "WORK94_exact": true,
+    "current_C29_public_gate_exact": true,
+    "C30_nineteen_cores_twenty_three_private_twenty_four_original_firsts_exact": true,
+    "C30_thirty_three_raw_deliveries_exact": true,
+    "WORK96_exact": true,
+    "current_C30_public_gate_exact": true,
+    "C31_twenty_nine_cores_thirty_three_private_twenty_six_original_firsts_exact": true,
+    "C31_fifty_six_native_copies_exact": true,
+    "WORK98_exact": true,
+    "current_C31_public_gate_exact": true,
+    "C32_eleven_cores_fifteen_private_six_original_firsts_exact": true,
+    "C32_fortysix_native_deliveries_exact": true,
+    "WORK99_exact": true,
+    "WORK100_exact": true,
+    "current_C32_public_gate_exact": true,
+    "C33_eight_cores_twelve_private_six_original_firsts_exact": true,
+    "C33_fourteen_native_deliveries_exact": true,
+    "WORK101_exact": true,
+    "WORK102_exact": true,
+    "current_C33_public_gate_exact": true,
+    "C34_fourteen_cores_twenty_private_ten_firsts_exact": true,
+    "C34_thirtyfour_native_deliveries_thirteen_units_one_known_image_exact": true,
+    "WORK103_exact": true,
+    "WORK104_exact": true,
+    "current_C34_public_gate_exact": true,
+    "C35_two_cores_ten_private_compact_fragment_exact": true,
+    "C35_seven_native_deliveries_two_units_exact": true,
+    "C35_no_new_diagnostic_firsts": true,
+    "WORK105_exact": true,
+    "WORK106_exact": true,
+    "current_C35_public_gate_exact": true,
+    "C36_two_cores_eleven_private_eight_supporting_and_compact_exact": true,
+    "C36_initial_rejected_foundation_and_failed_preflight_preserved": true,
+    "C36_sixtythree_deliveries_forty_members_two_known_images_exact": true,
+    "C36_no_new_diagnostic_firsts": true,
+    "WORK107_exact": true,
+    "WORK108_exact": true,
+    "WORK109_exact": true,
+    "current_C36_public_gate_exact": true,
+    "C37_nine_cores_22private_10support_compact_exact": true,
+    "C37_four_original_body_receipt_pairs_exact": true,
+    "C37_49_deliveries_15_native_members_four_images_exact": true,
+    "C37_author_gate_and_WORK110_WORK111_exact": true,
+    "C38_13_frozen_private_14_supporting_all38_source_native_review_deliveries_exact": true,
+    "current12_controls_exact": true,
+    "C38_current20_private18_supporting_and_guard_reference_correction_exact": true,
+    "C38_original_and_intermediate_drafts_preserved": true,
+    "C38_three_cores20_private18_supporting_and_compact04_exact": true,
+    "C38_twelve_deliveries_four_native_members_exact": true,
+    "C38_all_original_and_intermediate_gender_correction_history_preserved": true,
+    "C38_author_gate_and_WORK112_WORK113_exact": true
+  },
+  "all56_entering_models_unchanged": true,
+  "all23_new_core_artifacts_frozen_exact": true,
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "exact_containing_publication_pending": true,
+  "main_integration_and_designated_global_outputs_separately_owned": true,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "full_program_complete": false,
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+  "previous_source_audit_not_transferred_to_new_candidate": true,
+  "new_artifact_scope": {
+    "models": 59,
+    "scoped_secondary_models": 53,
+    "compact_profiles": 93,
+    "monograph_only": 28,
+    "nonfinal_records": 357,
+    "new_models": 3,
+    "new_monographs": 3,
+    "new_rules": 3,
+    "new_compact_profiles": 4,
+    "new_records": 9,
+    "new_Tier1_records": 4,
+    "new_Tier0_records": 5,
+    "new_input_cases": 12,
+    "new_first_bodies": 12,
+    "new_dependent_pairs": 6
+  },
+  "census_comparison": {
+    "changed_entering_rows": [
+      79,
+      80,
+      88
+    ],
+    "untouched_entering_rows": 345,
+    "new_rows": [
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356
+    ],
+    "nonfinal_records": 357,
+    "canonical_layout": "Manifest/five stable row parts:80,80,80,80,37;private WORK115 publication metadata successor separate.",
+    "canonical_private_historical_differences_retained": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "historical_storage_snapshot_unchanged": true,
+    "no_unique_person_denominator": true
+  },
+  "previous_author_gate": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_PUBLICATION_GATE_CLOSE.json",
+    "source": "9eb4d4c1a4f2c4c6ac130e9869ad478ecb40e47a",
+    "audit_run_id": 40115509649,
+    "full_discovered_tests": 459,
+    "PR314_integrated": true
+  },
+  "main_reconciliation_receipt_sha256": "3aa106b65d85a1e02e1383da976927ee954b56ab179d3950d6d773a99958c7e1",
+  "historical_capture_flags": "Foundation pre-first and output pre-annotation flags remain dated facts. Later semantic receiving governs12preserved originals and separate assessments. Prior semantic baseline and main merges are explicitly bound;no source audit transfers to a new commit.",
+  "source_absolute_paths_in_public": 0,
+  "semantic_receiving_stage_canonical_cohort39_changes": false,
+  "publication_status_normalization": {
+    "schema": "konosuba.cohort39.public-status-normalization-plan.v1",
+    "prepared_utc": "2026-10-24T19:15:40.604995+00:00",
+    "reason": "Current/index/routing preflight attempt01 rejected scoped_provisional in three monographs and one evidence index. Required authority status enum includes active_provisional.",
+    "failed_preflight": {
+      "file": "COHORT39_AUTHOR_PREFLIGHT_EXECUTION_01.json",
+      "bytes": 1018,
+      "sha256": "e4a5c8531a4a6fe38268c2e4382b40e89b2bccb57b5bf1e9615051656f3a536c"
+    },
+    "failed_stdout": {
+      "file": "C39_AUTHOR_PREFLIGHT_STDOUT_01.txt",
+      "bytes": 924,
+      "sha256": "809e4b4ef25aae677019dd1b345eb06b31489c87021e775157dbf109e134b591"
+    },
+    "failed_stderr": {
+      "file": "C39_AUTHOR_PREFLIGHT_STDERR_01.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "original_semantic_receiving": {
+      "file": "COHORT39_SEMANTIC_RECEIVING_01.json",
+      "bytes": 43343,
+      "sha256": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146"
+    },
+    "corrections": [
+      {
+        "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ROUZERI_CHARACTER_MONOGRAPH.md",
+        "frozen_original": {
+          "file": "ROUZERI_MONOGRAPH_DRAFT_02.md",
+          "bytes": 13954,
+          "sha256": "16779ce7c35b32fb2490f3a904e80ba900ef8b9ae27f38ee81216e01b839d86b"
+        },
+        "publication_successor": {
+          "file": "ROUZERI_MONOGRAPH_PUBLICATION_DRAFT_01.md",
+          "bytes": 13954,
+          "sha256": "fc2119ae427ea66dae98088a3d321e9a8531164479af8d31dbc9463dc7e9dd11"
+        },
+        "only_replacement": {
+          "before": "status: scoped_provisional",
+          "after": "status: active_provisional"
+        },
+        "analytical_body_byte_exact": true
+      },
+      {
+        "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_GENERAL_STORE_OWNER_CHARACTER_MONOGRAPH.md",
+        "frozen_original": {
+          "file": "GENERAL_STORE_OWNER_MONOGRAPH_DRAFT_01.md",
+          "bytes": 14247,
+          "sha256": "966dd1ff1cdbd4d243334a9ee94ca899a8954dd9e84de6d894c8c5e5798df93a"
+        },
+        "publication_successor": {
+          "file": "GENERAL_STORE_OWNER_MONOGRAPH_PUBLICATION_DRAFT_01.md",
+          "bytes": 14247,
+          "sha256": "5a7041a7c15ed09c6aea02249c68ce3a301788fb6a162b9fcfb6484d4b5f2f0f"
+        },
+        "only_replacement": {
+          "before": "status: scoped_provisional",
+          "after": "status: active_provisional"
+        },
+        "analytical_body_byte_exact": true
+      },
+      {
+        "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_HELMETED_NOBLE_CHARACTER_MONOGRAPH.md",
+        "frozen_original": {
+          "file": "HELMETED_NOBLE_MONOGRAPH_DRAFT_02.md",
+          "bytes": 13756,
+          "sha256": "1826af9d0233bc79856a1823ed79651f49653b17d94f03803d8a4829d575d5c0"
+        },
+        "publication_successor": {
+          "file": "HELMETED_NOBLE_MONOGRAPH_PUBLICATION_DRAFT_01.md",
+          "bytes": 13756,
+          "sha256": "f3b8c6c16b31f9ada8c60ba5380d2e5bf7ecc596fbde5add1df4e5ae77bfca9d"
+        },
+        "only_replacement": {
+          "before": "status: scoped_provisional",
+          "after": "status: active_provisional"
+        },
+        "analytical_body_byte_exact": true
+      },
+      {
+        "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "frozen_original": {
+          "file": "COHORT39_EVIDENCE_INDEX_DRAFT_02.md",
+          "bytes": 10395,
+          "sha256": "1eddbb0bc7a233618dca85a0c8189a17dd4aba6dde0f67499e61826b4f26147e"
+        },
+        "publication_successor": {
+          "file": "COHORT39_EVIDENCE_INDEX_PUBLICATION_DRAFT_01.md",
+          "bytes": 10395,
+          "sha256": "4aa1734fde0e24780b883714bb28bd19ab1139532d553dd3ef2b46f4cadfca31"
+        },
+        "only_replacement": {
+          "before": "status: scoped_provisional",
+          "after": "status: active_provisional"
+        },
+        "analytical_body_byte_exact": true
+      }
+    ],
+    "complete_delta": {
+      "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_COMPLETE_DIFF_01.diff",
+      "bytes": 1219,
+      "sha256": "558b8fccf0db8b23b62302960bfd301dcb480a540725e334330f621d7acb717a"
+    },
+    "all_model_rule_input_first_and_analytical_monograph_bytes_unchanged": true,
+    "all_original_foundations_and_failed_candidate_preserved": true,
+    "no_diagnostic_feedback_repair": true,
+    "actual_review_pending": true,
+    "full_program_complete": false
+  },
+  "publication_status_normalization_review": {
+    "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_ACTUAL_REVIEW_01.json",
+    "bytes": 800,
+    "sha256": "8b92c8fe88ee6efb1fb14d2512a658e1e982c65cc93ab85f048c3b4234fa1380"
+  },
+  "prior_semantic_receiving_sha256": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+  "publication_only_repair": "Four frontmatter status values change scoped_provisional to accepted active_provisional. All analytical bodies,three models/rules,exact inputs,twelve original firsts,assessments,source views and tier/count scope remain exact. Frozen original monograph hashes in inventories retain the actually frozen pre-first drafts;publication successors differ only by authority-status metadata.",
+  "publication_resolution": {
+    "source": "bebd59912de46d82a02777050ccb175f5e075029",
+    "tree": "37d0213161e1a0cffcd278b8af19f3f80babff85",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "b564f10ddfdfa3bfb34c7bd5d28f3c8ebb940966fb87379431d420dc9308ad55",
+    "source_run": 40124981724,
+    "full_discovered_tests": 459,
+    "current_models": 59,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "separate_housekeeping_run": null,
+    "pull_request_number": 316
+  },
+  "current_gate_qualification": "23public cores,35frozen private artifacts,37supporting records and compact fragment remain exact. Three original foundation monographs and index retain scoped_provisional as private history;publication successors change only status metadata. Models/rules/inputs and12original firsts with DGO-B1/HNO-A2defects remain exact. Current speaker/status/identity/transaction/consent limits and generic causal rivals persist. Protected integration,independent accuracy,grade,confidence gain,final batteries and original StageD successors remain unearned."
+}

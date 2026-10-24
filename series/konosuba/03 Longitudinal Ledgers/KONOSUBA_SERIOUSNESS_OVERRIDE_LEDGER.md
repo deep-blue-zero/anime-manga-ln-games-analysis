@@ -1385,3 +1385,17 @@ Duke military warning precedes Wiz protective escalation. MAIN15attributes recei
 Perie reported live-capture order precedes her own proposal to kill princess and witnesses. Later immediate retaliation against Dust coexists with intended later attack on Rionor;Dust stays because of that future threat. Actual spear placement and collision yield severe aftermath without an independent final-death check. DUST07wing comparison recalls Perie rather than returning her. The guild force and exposure attempt remain real within comedy;later drinking or enemy status does not retroactively authorize either.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+Actual threatened civilian killing,hostile force and dangerous breath/scales persist through humor. Rouzeri defeat lacks a checked final fate. Owner life acknowledgment and store attachment coexist;gift permits use/disposal despite no-return warning. D7officer asks evacuation/reinforcement time without a completed individualized result;ogre bidding outcome is not a witnessed payment or full troop-death check. Noble source violations are retained alongside later useful aid.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Killing prohibition is a contract claim,not demonstrated absence of harm. Gaibil hostage leverage and attacks,Rionor max shock and Dust two-day blackout,confinement and forced training retain seriousness. Father death is reported;missing investigator fate stays unknown. Dragon safe descent is actual care under unconscious riders. King reported lenience and cooling-off travel do not establish completed cure,marriage or permanent exile.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
