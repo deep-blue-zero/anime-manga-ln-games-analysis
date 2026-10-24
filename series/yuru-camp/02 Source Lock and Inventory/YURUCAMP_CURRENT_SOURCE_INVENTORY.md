@@ -4,7 +4,7 @@ artifact_id: YURUCAMP_CURRENT_SOURCE_INVENTORY
 artifact_type: source_inventory
 series: YURUCAMP
 status: canonical
-source_boundary: Source identities through V19 acquisition; literary analysis complete through V18
+source_boundary: Source identities and literary analysis complete through V19
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -16,7 +16,7 @@ updated: '2026-10-23'
 
 ## Current route and historical preservation
 
-This is the current inventory for the [canonical current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md). Its [machine manifest](YURUCAMP_CURRENT_SOURCE_MANIFEST.json) owns exact object identities, hashes, source classes and the V16-V19 spine maps; [quality and locator notes](YURUCAMP_CURRENT_SOURCE_QUALITY_AND_LOCATOR_NOTES.md) govern use. Current routing is canonical; source admission follows the bounded V16–V19 run in the current-state entrypoint. V18 is now complete; the independent V16–V18 checkpoint must be accepted and committed before V19 narrative begins.
+This is the current inventory for the [canonical current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md). Its [machine manifest](YURUCAMP_CURRENT_SOURCE_MANIFEST.json) owns exact object identities, hashes, source classes and the V16-V19 spine maps; [quality and locator notes](YURUCAMP_CURRENT_SOURCE_QUALITY_AND_LOCATOR_NOTES.md) govern use. Current routing is canonical; source admission follows the bounded V16–V19 run in the current-state entrypoint. V19 is complete after the independently accepted and committed V16–V18 checkpoint. The authorized V16–V19 source run is completed with no next narrative source; the analytical project remains active for separately routed provisional synthesis. The current-state entrypoint owns run/lock and NONE-field semantics; no V20 admission or series finale is implied.
 
 The nine Phase 0 files remain unchanged, including [the August 14 inventory](YURUCAMP_SOURCE_INVENTORY.md), [manifest](YURUCAMP_SOURCE_MANIFEST.json), [audit](YURUCAMP_PHASE0_CORPUS_AUDIT_AND_SOURCE_LOCK.md), gaps, quality/pagination notes, machine audit and checksums. Their V18-missing and old-V17 preference statements describe that historical observation. These new records reconcile later acquisitions without falsifying the original audit.
 
@@ -44,7 +44,7 @@ On 2026-10-17 the live root folder returned 32 direct children: 18 main manga ob
 | V16 | 1S6wIlhB--XXMdja34Y-uzrdcR6xOMXNv | EPUB / LOCKED_PRIMARY; supersedes retained CBZ | Complete prospective two-pass reading; chapters 88–92 plus earlier spring-break special/extras |
 | V17 | 1sAvxxFVzSOtobfs2HTjPTK1QqNjxyu96 | EPUB / LOCKED_PRIMARY | Complete prospective two-pass reading; chapters 93–98 plus Heya/extras |
 | V18 | 1QEgPUH9Sr-3jVH2C5vr-3ZRJ7xKK4uH4 | EPUB / LOCKED_PRIMARY | Complete prospective two-pass reading; chapters 99–104 plus Heya/extras |
-| V19 | 1SUFejNLxWBLfvvfY2xCwyhhvYX8ud3bN | EPUB / LOCKED_PRIMARY | Available; NOT ANALYZED |
+| V19 | 1SUFejNLxWBLfvvfY2xCwyhhvYX8ud3bN | EPUB / LOCKED_PRIMARY | Complete prospective two-pass reading; chapters 105–110 plus Heya/extras |
 
 ## September acquisition reconciliation
 
@@ -99,3 +99,7 @@ All 166 preferred V17 EPUB spine images were individually visually read in sourc
 ## V18 literary transaction — 2026-10-23
 
 All 166 preferred V18 EPUB spine images were individually visually read in source order before the separate analytical pass. The [V18 reading](../03%20Volume%20Deep%20Readings/YURUCAMP_V18_DEEP_READING.md) owns interpretation. The current manifest and quality notes add the exact lookup: Ch99 spine 005–028; Ch100 031–054; Ch101 057–080; Ch102 083–106; Ch103 109–132; Ch104 135–158, with all transition vignettes separately retained. Main narrative ends at spine 158 / visibly printed 156, at the closed ranch before the proposed pond; the journey is unfinished. Heya Camp 129 and 130 are spine 159–160 and 161–162; afterword, colophon, jacket and underjacket are 163–166. Contents starts 3/29/55/81/107/133/157 remain separately labeled observations: title pages 031/109 and Heya start 159 do not display their contents opening folios. Chapter 102 begins at 083 but its title is 086. All source hashes, 664 technical map rows, prior literary receipts and archive chains remain unchanged. V19 remains available and NOT ANALYZED, pending the independently accepted and committed V16–V18 checkpoint. Supplementary continuities remain separate.
+
+## V19 literary transaction — 2026-10-23
+
+All 166 preferred V19 original EPUB spine images were individually visually read strictly in source order before the separate analytical pass. The [V19 reading](../03%20Volume%20Deep%20Readings/YURUCAMP_V19_DEEP_READING.md) owns interpretation. The exact current manifest/quality lookup is Ch105 005–028, Ch106 031–054, Ch107 057–080, Ch108 083–106, Ch109 109–132, Ch110 135–158, with all transition vignettes retained. Main narrative ends at spine 158 / visible 156, with Aoi/Mei visiting Rin's home and Saki appearing at the window; the proposed cycling lake destination is not shown reached. Heya 131 and 132 are at spines 159–160 and 161–162, followed by afterword/colophon/jackets 163–166. Contents starts 3/29/55/81/107/133/157 remain separate observations; chapter titles 083/109 and Heya opening 159 do not display those opening folios. Title anchors 007/033/059/083/109/137 are separately mapped, with 033 rotated. Earlier dated NOT ANALYZED statements describe their historical scopes. All prior 18 main entries, all 664 structural joins, source hashes, archival replacements and dated literary receipts remain intact. This literary inspection is not a fresh remote content-hash check. Source-run completion does not close the active analytical project or admit supplementary continuities or V20.
