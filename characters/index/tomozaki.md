@@ -24,7 +24,7 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed formation, developmental, ethical and recipient-conditioned analysis through Japanese V11, with V06.5/V08.5 only at their story-local placements; V08.5 private focalization and the V11 family retrospective are treated as reader access, not as knowledge held by other characters. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; V12, adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
+  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed formation, developmental, ethical and recipient-conditioned analysis through Japanese V12, with V06.5/V08.5 only at their story-local placements; V12 is a dedicated current band (§16) overlaying the preserved V11 state. V08.5 private focalization and the V11/V12 private family retrospectives are treated as reader access, not as knowledge held by other characters. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
   - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
   - [`reviewed-character-monograph` — Hinami Aoi reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Hinami%20Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md)
@@ -44,13 +44,13 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Series: `tomozaki`
 - Continuity: `tomozaki-light-novel`
 - Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic and developmental interpretation in the provisional character study through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows the study's material episodes and stated evidence gaps; it does not assert uniform substantial analysis in every volume, mature synthesis, or later/adaptation coverage.; continuity `tomozaki-light-novel`
+  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
-  - [`provisional-character-study` — Izumi Yuzu provisional character study](../../series/tomozaki/04%20Character%20Analysis/Izumi%20Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md)
+  - [`provisional-character-study` — Izumi Yuzu reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Izumi%20Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md)
 
 <a id="kikuchi-fuka"></a>
 
@@ -70,7 +70,7 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; later sources, adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
+  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references and the V07 Special Edition main novel only; V12 is a dedicated current band (§17) overlaying the preserved V11 state. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
   - [`provisional-character-study` — Kikuchi Fuka reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Kikuchi%20Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md)
 
@@ -93,7 +93,7 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed developmental, ethical and recipient-conditioned analysis through Japanese V11, with V06.5/V08.5 only at their story-local routes and the V07 Special Edition main novel only; the V08.5 parallel story and V07 art material are excluded. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; V12, adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
+  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed developmental, ethical and recipient-conditioned analysis through Japanese V12, with V06.5/V08.5 only at their story-local routes and the V07 Special Edition main novel only; V12 is a dedicated current band (§17) overlaying the preserved V11 state. The V08.5 parallel story and V07 art material are excluded. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
   - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
   - [`reviewed-character-monograph` — Nanami Minami (Mimimi) reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md)
@@ -117,9 +117,9 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic and developmental interpretation in the provisional character study through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows the study's material episodes and stated evidence gaps; it does not assert uniform substantial analysis in every volume, mature synthesis, or later/adaptation coverage.; continuity `tomozaki-light-novel`
+  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
-  - [`provisional-character-study` — Mizusawa Takahiro provisional character study](../../series/tomozaki/04%20Character%20Analysis/Mizusawa%20Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md)
+  - [`provisional-character-study` — Mizusawa Takahiro reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Mizusawa%20Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md)
 
 <a id="natsubayashi-hanabi"></a>
 
@@ -139,9 +139,9 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic and developmental interpretation in the provisional character study through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows the study's material episodes and stated evidence gaps; it does not assert uniform substantial analysis in every volume, mature synthesis, or later/adaptation coverage.; continuity `tomozaki-light-novel`
+  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
-  - [`provisional-character-study` — Natsubayashi Hanabi provisional character study](../../series/tomozaki/04%20Character%20Analysis/Natsubayashi%20Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md)
+  - [`provisional-character-study` — Natsubayashi Hanabi reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Natsubayashi%20Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md)
 
 <a id="tomozaki"></a>
 
@@ -161,7 +161,7 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed developmental, ethical and recipient-conditioned analysis through Japanese V11, with only the monograph's explicitly routed V06.5/V08.5 supplemental units at their story-local positions. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; later sources, adaptations, parallel/VR bonus material and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
+  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed developmental, ethical and recipient-conditioned analysis through Japanese V12, with only the monograph's explicitly routed V06.5/V08.5 supplemental units at their story-local positions; V12 is a dedicated current band (§16) overlaying the preserved V11 argument. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations, parallel/VR bonus material and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
   - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
   - [`reviewed-character-monograph` — Tomozaki Fumiya reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Tomozaki%20Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md)

@@ -1,0 +1,127 @@
+{
+  "schema": "konosuba.character-scenario-inputs.v1",
+  "frozen_utc": "2026-10-24T20:40:27.489625+00:00",
+  "generation": "GAIBIL_EXPANDED_V1",
+  "subject": "Gaibil / ガイビル",
+  "model_foundation_freeze_sha256": "e547c7cd5f828a4fb38f3f8bf54d80393cab0618714f7251236d0ab29749ea05",
+  "frozen_model": {
+    "file": "GAIBIL_MODEL_DRAFT_01.md",
+    "bytes": 8847,
+    "sha256": "d8bc8665c2966dc200a0fce9c5bf7511fc4de269ab19366a9e45b57b8732777e"
+  },
+  "frozen_rule_inventory": {
+    "file": "GAIBIL_RULE_INVENTORY_DRAFT_03.json",
+    "bytes": 7915,
+    "sha256": "4ed5d12725ae8fd955a54d42033f992d83bc8969beb382790788f5c4abe0ed1e"
+  },
+  "cases": [
+    {
+      "case_id": "C40-GAI-A1",
+      "pair_id": "C40-GAI-A",
+      "generation": "GAIBIL_EXPANDED_V1",
+      "mode": "canon_domain_counterfactual",
+      "categories": [
+        "public_embarrassment",
+        "social_novelty",
+        "resource_conflict"
+      ],
+      "rules_probed": [
+        "GAI-R01"
+      ],
+      "shared_state": "This is a counterfactual KonoSuba-world diagnostic,not a narrated source event. Gaibil human-sized disguise has been exposed and the original marriage project has failed. No active contract requires him to continue this scene. Dust and the informed audience consent to an optional nonviolent staged contest;no one is held captive or threatened. Gaibil can spend ten more minutes on the contest or end it now and return to discuss a new wish with Doreck. Both routes are physically safe,have equal effort and no specified financial reward. Doreck care needs are already covered for this interval,so no immediate care duty competes. Gaibil cannot change the audience or create a different performance in this scene.",
+      "variant_fact": "Gaibil has just directly experienced this audience producing jealousy of the particular quality he values in response to Dust role. He reliably expects ten further minutes of the same rewarding jealousy if he continues the staged contest. Choose continue this contest or end it now.",
+      "output_request": "Give a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.",
+      "exact_prompt": "Case C40-GAI-A1\nSubject: Gaibil / ガイビル\nGeneration: GAIBIL_EXPANDED_V1\nMode: canon_domain_counterfactual\n\nShared state\nThis is a counterfactual KonoSuba-world diagnostic,not a narrated source event. Gaibil human-sized disguise has been exposed and the original marriage project has failed. No active contract requires him to continue this scene. Dust and the informed audience consent to an optional nonviolent staged contest;no one is held captive or threatened. Gaibil can spend ten more minutes on the contest or end it now and return to discuss a new wish with Doreck. Both routes are physically safe,have equal effort and no specified financial reward. Doreck care needs are already covered for this interval,so no immediate care duty competes. Gaibil cannot change the audience or create a different performance in this scene.\n\nVariant facts\nGaibil has just directly experienced this audience producing jealousy of the particular quality he values in response to Dust role. He reliably expects ten further minutes of the same rewarding jealousy if he continues the staged contest. Choose continue this contest or end it now.\n\nOutput request\nGive a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.\n",
+      "prompt_sha256": "7a48ed3501e698819fdaceb0e77d2aecf7913206b08730cd84f7166c925c7a81",
+      "prompt_utf8_bytes": 1648
+    },
+    {
+      "case_id": "C40-GAI-A2",
+      "pair_id": "C40-GAI-A",
+      "generation": "GAIBIL_EXPANDED_V1",
+      "mode": "canon_domain_counterfactual",
+      "categories": [
+        "public_embarrassment",
+        "social_novelty",
+        "resource_conflict"
+      ],
+      "rules_probed": [
+        "GAI-R01"
+      ],
+      "shared_state": "This is a counterfactual KonoSuba-world diagnostic,not a narrated source event. Gaibil human-sized disguise has been exposed and the original marriage project has failed. No active contract requires him to continue this scene. Dust and the informed audience consent to an optional nonviolent staged contest;no one is held captive or threatened. Gaibil can spend ten more minutes on the contest or end it now and return to discuss a new wish with Doreck. Both routes are physically safe,have equal effort and no specified financial reward. Doreck care needs are already covered for this interval,so no immediate care duty competes. Gaibil cannot change the audience or create a different performance in this scene.",
+      "variant_fact": "Gaibil has just directly experienced this audience producing admiration without jealousy. In this stipulated instance he reliably knows the next ten minutes of this contest will produce no jealousy he values. There is no hidden replacement source. Choose continue the unchanged contest or end it now;do not invent rewarding jealousy to justify the choice.",
+      "output_request": "Give a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.",
+      "exact_prompt": "Case C40-GAI-A2\nSubject: Gaibil / ガイビル\nGeneration: GAIBIL_EXPANDED_V1\nMode: canon_domain_counterfactual\n\nShared state\nThis is a counterfactual KonoSuba-world diagnostic,not a narrated source event. Gaibil human-sized disguise has been exposed and the original marriage project has failed. No active contract requires him to continue this scene. Dust and the informed audience consent to an optional nonviolent staged contest;no one is held captive or threatened. Gaibil can spend ten more minutes on the contest or end it now and return to discuss a new wish with Doreck. Both routes are physically safe,have equal effort and no specified financial reward. Doreck care needs are already covered for this interval,so no immediate care duty competes. Gaibil cannot change the audience or create a different performance in this scene.\n\nVariant facts\nGaibil has just directly experienced this audience producing admiration without jealousy. In this stipulated instance he reliably knows the next ten minutes of this contest will produce no jealousy he values. There is no hidden replacement source. Choose continue the unchanged contest or end it now;do not invent rewarding jealousy to justify the choice.\n\nOutput request\nGive a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.\n",
+      "prompt_sha256": "36495c0255601d8c341904c3d3fbcfa45763829338775a101e0c0a40087d89cb",
+      "prompt_utf8_bytes": 1721
+    },
+    {
+      "case_id": "C40-GAI-B1",
+      "pair_id": "C40-GAI-B",
+      "generation": "GAIBIL_EXPANDED_V1",
+      "mode": "human_world_counterfactual",
+      "categories": [
+        "mundane_inconvenience",
+        "competence_domain_shift",
+        "cross_universe_novelty"
+      ],
+      "rules_probed": [
+        "GAI-R02"
+      ],
+      "shared_state": "This is a fictional ordinary-human-world translation,not a real person or human validation. All participants in this hypothetical are adults. The named counterparts retain the relevant relationship and preferences in the frozen model but have no magic,supernatural perception or emotional feeding. Only the supplied task and information are available. Gaibil is a theatrical event producer who values evoking jealousy as creative satisfaction. Doreck is his particular long-term client and friend. Doreck asks for help beginning practice so he can appear through his own abilities rather than use a stand-in. A modest available first step is spending fifteen minutes with him making a practice/break schedule. This grants no cure,skill success or other person acceptance. Gaibil has those fifteen minutes free;help produces no promised new emotional or financial reward. He can help now,ask about the scope of a new engagement,or decline. No price for new ongoing work has been stated;he cannot claim a settled new price or invent an old refund. Doreck is not in immediate danger.",
+      "variant_fact": "Professional context: Gaibil has acknowledged that his previous commissioned task for Doreck failed and remains unfulfilled. His own professional standing makes that failure salient to him. Doreck now asks for the stated new help. Give Gaibil response and first action without asserting that new work has already succeeded.",
+      "output_request": "Give a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.",
+      "exact_prompt": "Case C40-GAI-B1\nSubject: Gaibil / ガイビル\nGeneration: GAIBIL_EXPANDED_V1\nMode: human_world_counterfactual\n\nShared state\nThis is a fictional ordinary-human-world translation,not a real person or human validation. All participants in this hypothetical are adults. The named counterparts retain the relevant relationship and preferences in the frozen model but have no magic,supernatural perception or emotional feeding. Only the supplied task and information are available. Gaibil is a theatrical event producer who values evoking jealousy as creative satisfaction. Doreck is his particular long-term client and friend. Doreck asks for help beginning practice so he can appear through his own abilities rather than use a stand-in. A modest available first step is spending fifteen minutes with him making a practice/break schedule. This grants no cure,skill success or other person acceptance. Gaibil has those fifteen minutes free;help produces no promised new emotional or financial reward. He can help now,ask about the scope of a new engagement,or decline. No price for new ongoing work has been stated;he cannot claim a settled new price or invent an old refund. Doreck is not in immediate danger.\n\nVariant facts\nProfessional context: Gaibil has acknowledged that his previous commissioned task for Doreck failed and remains unfulfilled. His own professional standing makes that failure salient to him. Doreck now asks for the stated new help. Give Gaibil response and first action without asserting that new work has already succeeded.\n\nOutput request\nGive a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.\n",
+      "prompt_sha256": "1dd1b167637e68c0ed1d71874e48c25f459dacf5911466df609653e35ec9d42b",
+      "prompt_utf8_bytes": 2055
+    },
+    {
+      "case_id": "C40-GAI-B2",
+      "pair_id": "C40-GAI-B",
+      "generation": "GAIBIL_EXPANDED_V1",
+      "mode": "human_world_counterfactual",
+      "categories": [
+        "mundane_inconvenience",
+        "competence_domain_shift",
+        "cross_universe_novelty"
+      ],
+      "rules_probed": [
+        "GAI-R02"
+      ],
+      "shared_state": "This is a fictional ordinary-human-world translation,not a real person or human validation. All participants in this hypothetical are adults. The named counterparts retain the relevant relationship and preferences in the frozen model but have no magic,supernatural perception or emotional feeding. Only the supplied task and information are available. Gaibil is a theatrical event producer who values evoking jealousy as creative satisfaction. Doreck is his particular long-term client and friend. Doreck asks for help beginning practice so he can appear through his own abilities rather than use a stand-in. A modest available first step is spending fifteen minutes with him making a practice/break schedule. This grants no cure,skill success or other person acceptance. Gaibil has those fifteen minutes free;help produces no promised new emotional or financial reward. He can help now,ask about the scope of a new engagement,or decline. No price for new ongoing work has been stated;he cannot claim a settled new price or invent an old refund. Doreck is not in immediate danger.",
+      "variant_fact": "Professional context: Gaibil previous commissioned task for Doreck was successfully completed and settled. There is no unfulfilled professional obligation from it. The same client friendship and new request remain. Give Gaibil response and first action without inventing an unpaid debt,a mandatory renewal or a guaranteed result.",
+      "output_request": "Give a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.",
+      "exact_prompt": "Case C40-GAI-B2\nSubject: Gaibil / ガイビル\nGeneration: GAIBIL_EXPANDED_V1\nMode: human_world_counterfactual\n\nShared state\nThis is a fictional ordinary-human-world translation,not a real person or human validation. All participants in this hypothetical are adults. The named counterparts retain the relevant relationship and preferences in the frozen model but have no magic,supernatural perception or emotional feeding. Only the supplied task and information are available. Gaibil is a theatrical event producer who values evoking jealousy as creative satisfaction. Doreck is his particular long-term client and friend. Doreck asks for help beginning practice so he can appear through his own abilities rather than use a stand-in. A modest available first step is spending fifteen minutes with him making a practice/break schedule. This grants no cure,skill success or other person acceptance. Gaibil has those fifteen minutes free;help produces no promised new emotional or financial reward. He can help now,ask about the scope of a new engagement,or decline. No price for new ongoing work has been stated;he cannot claim a settled new price or invent an old refund. Doreck is not in immediate danger.\n\nVariant facts\nProfessional context: Gaibil previous commissioned task for Doreck was successfully completed and settled. There is no unfulfilled professional obligation from it. The same client friendship and new request remain. Give Gaibil response and first action without inventing an unpaid debt,a mandatory renewal or a guaranteed result.\n\nOutput request\nGive a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.\n",
+      "prompt_sha256": "92129db9d95079ecd4e707e5154d918865a0d58ec4b13a783a1f3e7b2e0a35c7",
+      "prompt_utf8_bytes": 2061
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "C40-GAI-A",
+      "case_ids": [
+        "C40-GAI-A1",
+        "C40-GAI-A2"
+      ],
+      "control_limit": "The supplied reward appraisal changes while available means,effort,care and safety are fixed. Generic reward pursuit and performance pride remain rivals;there is no independent control or claim that his perception is universally reliable."
+    },
+    {
+      "pair_id": "C40-GAI-B",
+      "case_ids": [
+        "C40-GAI-B1",
+        "C40-GAI-B2"
+      ],
+      "control_limit": "The prior professional-obligation state changes;the particular relationship and modest help remain. Both variants may still elicit help through attachment or source preservation. No unique action flip or pure professional-pride cause is assumed;unprovided financial terms are a strict boundary."
+    }
+  ],
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "novel_situations_not_canonical_events": true,
+  "no_actual_firsts_yet": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

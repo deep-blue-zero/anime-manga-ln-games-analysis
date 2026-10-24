@@ -1582,3 +1582,17 @@ Vanir connection constrains Duke treatment of Small despite demon hostility;she 
 Dust and Rionor initially infer Perie belongs to the royal retinue;Perie withholds affiliation rather than claiming that role. Her later princess/hostage understanding changes. Yunyun calls the disguised princess Leen without making that identity true. Perie expects royal concern for bystanders and is surprised when Rionor refuses the premise. Dust unwanted exposure attempt occurs under incapacity and Rionor stops it;liking a dress is not assent. The gate guard refuses the real outside princess while offering limited nonreporting and believing the resident authentic.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+Rouzeri fears/resents Vanir as a former executive and invokes Wiz current barrier/neutrality terms;no verified direct former supervision is invented. Owner recipient differences across Dust,Leen,Yunyun,Feit,Mitsurugi and noble are not one secret-affection policy. Noble desired adult closeness does not establish Dust consent;actual child care and separate horse loan stay nonsexual. Late wife,parents and commissioned thief are reported relations with sparse independent agency.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Doreck/Gaibil private agreement and care are not Rionor consent. Public proxy,real patient,real Rionor visitor and Leen bride remain distinct. King relation with former knight and apology coexist with coercive family arrangements. Maid former-thief identity may overlap a weapon role;recalled parents,medical groups,audiences and staff have explicit overlap limits. Hagen row114and MAIN07self-name lead remain a future comparison,not a Bridol-butler join.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

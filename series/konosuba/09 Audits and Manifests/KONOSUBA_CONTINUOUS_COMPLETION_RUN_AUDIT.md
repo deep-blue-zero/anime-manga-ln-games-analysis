@@ -1925,3 +1925,37 @@ Cohort37 source `2ca18ed619005ae19c35a86ae759494501d19b7f` and tree `eb5fc561f89
 ## Cohort38 semantic receiving — 2026-10-24T17:10:38.125614+00:00
 
 Three public cores,20private artifacts and18supporting records are frozen. Perie Tier2 monograph,two Tier1compact profiles and four Tier0role records yield56models50scoped89profiles28monograph-only348nonfinal records. Only entering row74 changes,341others exact per plane;19older differences remain. Actual622P/548ruby4members2knownEPUBs12displays,no current images;two full reports48135characters8displays and34qualifications received. All41technical literal retrieval is not whole-book reading or unnamed absence proof. No new model,rule,input,first,independent grade or final-battery credit. Nine C37closing paths carried;its audit and the later53639c0e audit do not certify this candidate. Current main governance fully reviewed in applicable scope and ordinarily merged. Exact preflight,publication,remote readback and own full audit/status/reload due. Full program continues.
+
+
+## Cohort38 exact-source author gate closed — 2026-10-24T17:26:48.744941+00:00
+
+Cohort38 source `9eb4d4c1a4f2c4c6ac130e9869ad478ecb40e47a` and tree `ee52b44c0ab5bb6d43b9ecc320f1934f28ec13bb` close the author tranche. Audit40115509649:459/459tests,all five non-success categories zero. Reporter/latest status,9922remote bindings/25changed files and1440project-file reload verified. Totals56models/50scoped secondary model subjects/89profiles/28monograph-only/348nonfinal records. Seven publication-status rows change;341others exact per plane. Three cores,20private artifacts,18supporting records,compact04 and all prior models/original diagnostics remain exact. Guard gender attribution corrected;all drafts preserved. No new model,rule,input,first,independent accuracy,grade,confidence or final battery. Full program and separately owned current protected integration stay open.
+
+[Gate receipt](KONOSUBA_COHORT38_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort39 semantic receiving — 2026-10-24T19:06:19.622893+00:00
+
+23public cores,30frozen private artifacts,30supporting records and12original body/receipt pairs frozen. Three monographs/one-rule models,four compact profiles/five sparse records yield59models53scoped93profiles28monograph-only357nonfinal records. Three entering rows change,345others/19older plane differences exact. Actual4192P/4128ruby23members7EPUBs84displays includes25afterwordP,zeroimages/nonparagraph. D1-D4actual analytical receiving and priorD5/D6reuse distinguished. Speaker/status,store identity,spear fault,loan and surveillance-payment qualifications retained. All12firsts exact;DGO-B1/HNO-A2unbound details preserved,zero clean cause-isolating pairs. Nine C38closing paths carried;its audit does not certify this candidate. PR314integrated,current main merged without KonoSuba/control change. Own preflight,publication,remote readback/full audit/latest status/reload due. Full program continues.
+
+
+## Cohort39 publication metadata normalization — 2026-10-24T19:16:47.238978+00:00
+
+Required preflight attempt01 rejected scoped_provisional in3monograph headers and1evidence-index header. Publication successors use accepted active_provisional with every analytical body/model/rule/input/first exact;all originals and failed preflight retained. Semantic receiving02 carries35frozen private artifacts and37supporting records. Twelve receiving-reference rows change,345others remain exact in each plane;counts59models53scoped93compact28monograph-only357records unchanged. WORK114 remains exact,WORK115 is the separate publication-metadata successor. No diagnostic regeneration or feedback repair. Required preflight attempt02 and own exact publication gate remain due;full program continues.
+
+
+## Cohort39 exact-source author gate closed — 2026-10-24T19:30:19.303072+00:00
+
+Cohort39 source `bebd59912de46d82a02777050ccb175f5e075029` and tree `37d0213161e1a0cffcd278b8af19f3f80babff85` close the author tranche. Audit40124981724:459/459tests with all five non-success categories zero;reporter/latest status,9949remote bindings/46changed files and1465project-file reload verified. Totals59models/53scoped secondary model subjects/93profiles/28monograph-only/357nonfinal records. Twelve publication-status rows change;345others and19historical plane differences exact. 23cores35private37supporting,compact fragment,all59models and12original firsts remain exact. DGO-B1/HNO-A2defects retained. Four status metadata labels corrected with failed preflight/originals preserved;no analytical or diagnostic feedback repair. No independent accuracy,grade,confidence gain,voice or final-battery claim. Full program and separately owned current protected integration stay open.
+
+[Gate receipt](KONOSUBA_COHORT39_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort40 semantic receiving — 2026-10-24T21:08:27.831290+00:00
+
+24public cores,31frozen private artifacts,48supporting records and12original body/receipt pairs preserved. Four monographs/three provisional models/five rules,7compact profiles/19sparse routes yield62models56scoped100profiles29monograph-only383nonfinal records. Four entering rows change,353others/19historical plane differences exact. Actual2826P/1219ruby11members3EPUBs58displays,seven complete paragraph projections/four bounded members,zeroimages/nonparagraph/whole-edition credit. Real/performed/mistaken identities,private willingness/public brainwashing contradiction,actual harm,royal exchange refusal,butler recurrence/partial knowledge and ambiguous role overlaps retained. Twelve originals exact;GAI-A1/B1/B2qualified,zero clean independent mechanism isolations. TenC39closing paths carried;its audit does not certify this candidate. Own preflight,publication,remote readback/full actual-source audit/latest status/reload due. Full program continues.
+
+
+## Cohort40 owner-main reconciliation before publication — 2026-10-24T21:27:39.847875+00:00
+
+Owner PR317integrated namespace registry storage at ec04a1d6 while C40was staged. Exact47path staged candidate was checkpointed,main ordinarily merged at7c7ddaf6,and candidate/index restored;all1491project files,62models,12originals,WORK117and80scratch files remained exact. All397discovery rows are logically identical across38owner partitions. No global curation authored or retired registry recreated. Earlier frozen global/control pins remain verifiable at their historical sources;all current owner104paths and12controls checked separately. Only current publication metadata changes. Prior9975path preflight retained;reconciled10052path author preflight and own exact-source publication/audit/reload remain due. Full program continues.

@@ -7,61 +7,269 @@
   "row_count": 80,
   "rows": [
     {
-      "priority": "Discovery",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "priority": "Cohort39 bounded author publication complete;continuing full program.",
+      "disposition_status": "COHORT39_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
-      "character": "Unnamed weapon-store merchant (Dust07)",
-      "identity": "Source-bound actual spear giver, wider recurring Dust merchant join still open; distinct from MAIN13 magic seller.",
-      "likely_tier": "1 bounded candidate",
-      "evidence_distribution": "Complete Dust07 report; direct nativeU011361-378.",
-      "substantive_responsibility": "Report gives valued store/late-wife basis for staying. Actual valuable-spear gift explicitly permits use/disposal despite Dust resale statement. Expressed expectation and weapon knowledge do not prove full private-identity knowledge.",
-      "gaps": "No invented sale/return, tip-failure cause or pure motive; repair remains reported. Final recurring-merchant identity/disposition due."
+      "character": "Recurring Axel general-store owner (Dust01–07)",
+      "identity": "Explicitly recurring 雑貨店/雑貨屋 owner across Dust01-07;corrects old weapon-store label without erasing it. Personal name absent. Tomato seller,MAIN13magic seller and earlier other-country generic store option remain unjoined.",
+      "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact-source author publication closed; scoped/nonfinal",
+      "evidence_distribution": "Current Dust01-07 native contexts cover property/lunch/frontage disputes,actual helmet trade/sale,information,child-directed provision,overstock/work insult and siege shared-work account/spear gift. Seven known EPUBs4192selectedP/4128ruby23members84displays across cohort;4167fictionP and25afterwordP,zero images/nonparagraph views. Prior completeD5/D6analytical contexts reused under exact receipts;full bounds in provenance.",
+      "substantive_responsibility": "Retains ownership and work boundaries while choosing recipient- and purpose-specific finite help. DGO-R01 binds need,purpose and terms before choice;does not infer acceptable use from whether help occurred. Ordinary provision,late-wife/shared-work account,actual errors and varied relationships earn individual treatment without cash-only or secret-affection simplification.",
+      "gaps": "No personal name,complete household,perfect disguise detection or isolated commercial/care motive. Spear tip fallsP832;neglect is DustP834;later repair account is not witnessed workshop. Free use/disposal follows no-return warning. DGO-B1 imports upstairs from its contrast and unspecified ledger duration;original kept. Generic ownership,care and risk rivals remain. No independent result,grade,confidence gain,voice certification or final battery.",
+      "prior_cohort39_current_fields": {
+        "character": "Unnamed weapon-store merchant (Dust07)",
+        "identity": "Source-bound actual spear giver, wider recurring Dust merchant join still open; distinct from MAIN13 magic seller.",
+        "likely_tier": "1 bounded candidate",
+        "evidence_distribution": "Complete Dust07 report; direct nativeU011361-378.",
+        "substantive_responsibility": "Report gives valued store/late-wife basis for staying. Actual valuable-spear gift explicitly permits use/disposal despite Dust resale statement. Expressed expectation and weapon knowledge do not prove full private-identity knowledge.",
+        "gaps": "No invented sale/return, tip-failure cause or pure motive; repair remains reported. Final recurring-merchant identity/disposition due.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort39_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_GENERAL_STORE_OWNER_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_GENERAL_STORE_OWNER_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_RULE_INVENTORY_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_DIAGNOSTIC_ASSESSMENT_01.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/DUST_GENERAL_STORE_OWNER_EXPANDED_V1_EVIDENCE/DUST_GENERAL_STORE_OWNER_FIRST_OUTPUT_ANNOTATIONS_01.json"
+      ],
+      "cohort39_rules": [
+        "DGO-R01"
+      ],
+      "cohort39_semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+      "cohort39_scope_assessment": {
+        "row": 80,
+        "subject": "Recurring Axel general-store owner",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "DGO-R01"
+        ],
+        "justification": "Explicit recurrence across Dust01-07,ordinary property/work choices,recipient differences,chosen aid,own shared-life history and errors earn twelve dimensions and one bounded provision/ownership hypothesis. Correct old weapon-store label without erasing history.",
+        "limits_and_rivals": "No personal name,complete household or uniform pricing/care mechanism. Generic property defense,commercial interest,child-directed care and collective-defense investment remain. Source-known report and inference boundaries constrain former career,identity recognition and repair."
+      },
+      "cohort39_current_qualifications": "Current scoped provisional individual disposition governs;prior current fields remain dated exact history. Actual act,own report,narrator inference,untagged turn,dream,anticipated outcome and unknown remain distinct. No permanent ceiling,independent trial,mature reliability or census closure.",
+      "cohort39_prior_semantic_receiving_before_status_normalization": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+      "cohort39_public_status_normalization": {
+        "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+        "bytes": 4391,
+        "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      },
+      "prior_cohort39_publication_fields": {
+        "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact publication pending",
+        "priority": "Cohort39 bounded semantic receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort39_publication_resolution": {
+        "source": "bebd59912de46d82a02777050ccb175f5e075029",
+        "tree": "37d0213161e1a0cffcd278b8af19f3f80babff85",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "b564f10ddfdfa3bfb34c7bd5d28f3c8ebb940966fb87379431d420dc9308ad55",
+        "source_run": 40124981724,
+        "full_discovered_tests": 459,
+        "current_models": 59,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 316
+      }
     },
     {
-      "priority": "Discovery",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "priority": "Cohort40 source-bound semantic receiving complete;exact containing publication pending.",
+      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "character": "Doreck (ドレック)",
-      "identity": "Real patient/contractor distinct from Gaibil proxy, DUST-CONT.",
-      "likely_tier": "2-3 candidate, unresolved",
-      "evidence_distribution": "Full Dust continuation report; directU013208-351 and full private epilogueU0161-34.",
-      "substantive_responsibility": "Childhood report, particular attachment/jealousy, willing proxy wish and admitted two-party benefit conflict with bride agency. Own no-killing term, actual intercession/report, care for injured friend and new self-development/own-appeal contract provide identifiable competing values and change of means.",
-      "gaps": "No diagnosis, automatic innocence/victimhood, fulfilled cure/marriage/office or guaranteed recipient acceptance. Distinct model only if falsifiable mechanism/rivals/disconfirmers earned."
+      "identity": "Real patient and willing contractor in the Dust continuation, distinct from Gaibil performing the public groom. Own medical/childhood history is reported; public groom strength and pen-callus performance are not his bodily observations.",
+      "likely_tier": "3 scoped; twelve-dimension monograph and two-rule provisional model; exact publication pending",
+      "evidence_distribution": "Complete continuation U011–U016 paragraph/ruby projections and bounded U010 supporting context, with earlier Dust05/06 butler/household context kept separate. Cohort40 receives2826selectedP/1219inline ruby across11members3knownEPUBs58complete displays:seven complete paragraph projections/four bounded members,zero current image/nonparagraph or whole-edition credit.",
+      "substantive_responsibility": "DOR-R01 distinguishes initially preferred proxy access from a post-failure request for his own development;DOR-R02 binds a particular friend concern to available information about credible danger. Marriage preference, jealous reward, acknowledged contract, intervention for Gaibil and revised request support individual modeling. Phase, means, attachment, dependency, gratitude and generic care remain rivals.",
+      "gaps": "No diagnosis, completed cure, wedding, office, new price or refund. Male agreement does not establish Rionor assent. Public brainwashing story conflicts with private willingness. Four original informed Japanese-plus-English responses/two dependent comparisons are preserved;phase/means are bundled and the safety contrast does not isolate friendship. No independent accuracy,grade,confidence gain,acoustic certification or final battery.",
+      "prior_cohort40_current_fields": {
+        "character": "Doreck (ドレック)",
+        "identity": "Real patient/contractor distinct from Gaibil proxy, DUST-CONT.",
+        "likely_tier": "2-3 candidate, unresolved",
+        "evidence_distribution": "Full Dust continuation report; directU013208-351 and full private epilogueU0161-34.",
+        "substantive_responsibility": "Childhood report, particular attachment/jealousy, willing proxy wish and admitted two-party benefit conflict with bride agency. Own no-killing term, actual intercession/report, care for injured friend and new self-development/own-appeal contract provide identifiable competing values and change of means.",
+        "gaps": "No diagnosis, automatic innocence/victimhood, fulfilled cure/marriage/office or guaranteed recipient acceptance. Distinct model only if falsifiable mechanism/rivals/disconfirmers earned.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort40_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_DORECK_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DORECK_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_DORECK_RULE_INVENTORY_V1.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_DORECK_FIRST_OUTPUT_ANNOTATIONS_V1.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_DORECK_DIAGNOSTIC_ASSESSMENT_V1.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_DORECK_SCENARIO_INPUTS_V1.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_DORECK_ORIGINAL_FIRSTS_V1.json"
+      ],
+      "cohort40_rules": [
+        "DOR-R01",
+        "DOR-R02"
+      ],
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "cohort40_scope_assessment": {
+        "row": 81,
+        "subject": "Doreck / ドレック",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "DOR-R01",
+          "DOR-R02"
+        ],
+        "justification": "His own acknowledged willing proxy contract, preference for marriage over a health wish, mixed jealousy reward, later intervention for Gaibil and revised own-development request provide differentiated motives, conflicts and a change of means. These earn an individual twelve-dimension monograph and two bounded falsifiable propositions rather than an illness, jealousy or victimhood label.",
+        "limits_and_rivals": "Own childhood history is reported; public groom competence belongs to Gaibil performance. Possessiveness, humiliation reward, dependence, friendship and gratitude remain competing explanations. No diagnosis, completed cure, wedding, office, recipient assent, refund, new price or calibrated transfer accuracy.",
+        "scope_qualification": "Bind initial proxy phase versus post-failure private-epilogue phase. Neither mutual male agreement nor Doreck no-killing term establishes Rionor consent or absence of harm."
+      },
+      "cohort40_current_qualifications": "Accepted scoped individual disposition governs current treatment. Prior current fields remain exact dated history. Actual action,own report,narrator inference,performance,dream,proposed future and unknown stay distinct. No identity join,permanent ceiling,independent result,mature reliability or global census closure is inferred."
     },
     {
-      "priority": "Discovery",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "priority": "Cohort40 source-bound semantic receiving complete;exact containing publication pending.",
+      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "character": "Gaibil (ガイビル)",
-      "identity": "Devil proxy/groom distinct from real Doreck; formal impersonation/rough own register separated.",
-      "likely_tier": "2-3 candidate, unresolved",
-      "evidence_distribution": "Full Dust continuation report; directU013208-351 and complete private epilogueU016.",
-      "substantive_responsibility": "Envy preference, contract pride, specific patient care, public villain performance and willingness to bear blame coexist with confinement, hostage threat and destructive combat. New reciprocal-care/own-development agreement actual, not proof all contracts harmless.",
-      "gaps": "Royal pardon/no-human-harm attributed, not analyst fact. Protective blame account strongly supported but all-as-planned not omniscience; price/refund/future success unshown. Keep distinct from Vanir/Maxwell."
+      "identity": "Devil proxy and performed groom distinct from real Doreck; public polite register, rough private register and changed performance after exposure remain situated. Serpent/dragonlike battle form does not establish dragon species.",
+      "likely_tier": "3 scoped; twelve-dimension monograph and two-rule provisional model; exact publication pending",
+      "evidence_distribution": "Complete continuation U011–U016 paragraph/ruby projections cover public performance, contract and envy accounts, confinement, care, dangerous battle, intervention and new private agreement. Cohort40 total2826selectedP/1219ruby11members3knownEPUBs58displays;earlier household windows have their own source bounds. No current image,nonparagraph or whole-edition credit.",
+      "substantive_responsibility": "GAI-R01 conditionally generates continued pursuit of valued envy rather than generic admiration;GAI-R02 distinguishes response to failed versus settled commission while allowing care in both cases. Patient reminders and renewed agreement coexist with coercive confinement, hostage leverage and dangerous attacks. Instrumental reward, particular care, professional pride and self-dramatization remain competing or joint causes.",
+      "gaps": "No omniscient plan or universal no-harm policy follows from rhetoric or Doreck defense. Mercy is reported;new handshake is not achieved cure or marriage. Four original responses/two dependent comparisons remain exact. GAI-A1 written十分 ambiguity is not a proved wrong duration;B1 adds a spatial rest topic without naming a place;B2 debt framing remains contextual ambiguity. Zero repairs,independent accuracy,grade,confidence gain or final battery.",
+      "prior_cohort40_current_fields": {
+        "character": "Gaibil (ガイビル)",
+        "identity": "Devil proxy/groom distinct from real Doreck; formal impersonation/rough own register separated.",
+        "likely_tier": "2-3 candidate, unresolved",
+        "evidence_distribution": "Full Dust continuation report; directU013208-351 and complete private epilogueU016.",
+        "substantive_responsibility": "Envy preference, contract pride, specific patient care, public villain performance and willingness to bear blame coexist with confinement, hostage threat and destructive combat. New reciprocal-care/own-development agreement actual, not proof all contracts harmless.",
+        "gaps": "Royal pardon/no-human-harm attributed, not analyst fact. Protective blame account strongly supported but all-as-planned not omniscience; price/refund/future success unshown. Keep distinct from Vanir/Maxwell.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort40_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_GAIBIL_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_GAIBIL_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_GAIBIL_RULE_INVENTORY_V1.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_GAIBIL_FIRST_OUTPUT_ANNOTATIONS_V1.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_GAIBIL_DIAGNOSTIC_ASSESSMENT_V1.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_GAIBIL_SCENARIO_INPUTS_V1.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_GAIBIL_ORIGINAL_FIRSTS_V1.json"
+      ],
+      "cohort40_rules": [
+        "GAI-R01",
+        "GAI-R02"
+      ],
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "cohort40_scope_assessment": {
+        "row": 82,
+        "subject": "Gaibil / ガイビル",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "GAI-R01",
+          "GAI-R02"
+        ],
+        "justification": "Public impersonation, own register, envy selection, revised performance after exposure, health reminders, conditional confinement, hostage leverage, death-accepting final act and renewed contract distinguish adaptive reward seeking and particular client care/professional pride. Two provisional propositions can generate defeasible choices with explicit competing constraints.",
+        "limits_and_rivals": "Instrumental preservation of an envy producer, broader care, professional identity and self-dramatization remain. Public brainwashing claim conflicts with private willing contract; all-as-planned claim is not omniscience. No-human-harm is Doreck defense and Gaibil rhetoric, qualified by actual coercion, destruction and dangerous attacks.",
+        "scope_qualification": "Binding contract and actor information must be specified. Particular patient care does not imply universal restraint; theatrical mass-kill language and actual danger cannot be erased by later lenience."
+      },
+      "cohort40_current_qualifications": "Accepted scoped individual disposition governs current treatment. Prior current fields remain exact dated history. Actual action,own report,narrator inference,performance,dream,proposed future and unknown stay distinct. No identity join,permanent ceiling,independent result,mature reliability or global census closure is inferred."
     },
     {
-      "priority": "Discovery",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "priority": "Cohort40 source-bound semantic receiving complete;exact containing publication pending.",
+      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "character": "King of Bridol (Dust continuation)",
-      "identity": "Source-bound Rionor father/king, distinct from Belzerg royal family.",
-      "likely_tier": "1-2 unresolved",
-      "evidence_distribution": "Full Dust continuation report private king meeting; private epilogue reports royal lenienceU01614/17/19. Full continuation report; private audience remains reported in current audit, with native private epilogueU01614/17/19.",
-      "substantive_responsibility": "Report actual apology and conditional informal address/child exchange refusals; later lenience and welfare/home responsibility supplied through Doreck account. Own royal interests not automatic universal moral authority. CURRENT WORKING21: Corrected role attribution: the king proposes exchanging the child for money and Dust refuses. The king also apologizes/sets informal-address conditions according to the report; later lenience and welfare/home responsibility are Doreck's account.",
-      "gaps": "Direct current native private-audience recheck remains due. Attributed lenience does not erase captivity/shock/destruction or prove legal innocence. Earlier ambiguous child-exchange-refusals wording is retained only in working20 history.",
+      "identity": "Source-bound Rionor father and king of Bridol; separate from Belzerg royals. Private meeting, actual offers and apology, public reactions and reported judgments have distinct warrants.",
+      "likely_tier": "2 scoped; substantial twelve-dimension monograph; no reconstruction model or diagnostic firsts",
+      "evidence_distribution": "Continuation U011royal/childhood accounts,U013dungeon and public reaction,U014private meeting and wedding battle,U015travel aftermath,U016reported royal explanation. Complete received paragraph/ruby projections retain direct speech versus Dust/Rionor/Doreck reports. Full cohort source bounds2826P/1219ruby11members3EPUBs58displays do not imply this king appears in every paragraph.",
+      "substantive_responsibility": "Paperwork and plain-room hospitality, acknowledged ended service relation, private apology, attempted Feit exchange and money offer, encouragement, public orders and reported lenience earn substantial individual treatment. Dust refuses the child exchange. Family indulgence, administrative burden, gratitude, politics and pragmatic mercy remain insufficiently separated for a stable generative rule.",
+      "gaps": "No invented model, test or first output. Paperwork, tears and reported motives do not prove uniformly benevolent rule. Collapse cause is uncertain. Rionor cooling-off travel is not established as permanent exile equivalent to Dust recalled ban. No recipient assent, final population tier, mature reliability,independent accuracy or release follows.",
       "prior_gap_history_working20": "Direct current native private audience still due; attributed lenience does not delete harm, prove legal innocence or complete identical exile.",
-      "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted."
+      "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
+      "prior_cohort40_current_fields": {
+        "character": "King of Bridol (Dust continuation)",
+        "identity": "Source-bound Rionor father/king, distinct from Belzerg royal family.",
+        "likely_tier": "1-2 unresolved",
+        "evidence_distribution": "Full Dust continuation report private king meeting; private epilogue reports royal lenienceU01614/17/19. Full continuation report; private audience remains reported in current audit, with native private epilogueU01614/17/19.",
+        "substantive_responsibility": "Report actual apology and conditional informal address/child exchange refusals; later lenience and welfare/home responsibility supplied through Doreck account. Own royal interests not automatic universal moral authority. CURRENT WORKING21: Corrected role attribution: the king proposes exchanging the child for money and Dust refuses. The king also apologizes/sets informal-address conditions according to the report; later lenience and welfare/home responsibility are Doreck's account.",
+        "gaps": "Direct current native private-audience recheck remains due. Attributed lenience does not erase captivity/shock/destruction or prove legal innocence. Earlier ambiguous child-exchange-refusals wording is retained only in working20 history.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort40_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_BRIDOL_KING_CHARACTER_MONOGRAPH.md"
+      ],
+      "cohort40_rules": [],
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "cohort40_scope_assessment": {
+        "row": 83,
+        "subject": "King of Bridol / ブライドル王国の国王",
+        "proposed_scoped_tier": 2,
+        "proposed_rules": [],
+        "justification": "Private apology, acknowledged ended service relation, paperwork and hospitality, actual child-exchange offer, family/political arrangements, public reaction and reported lenience support a substantial asymmetric monograph. Contradictory and attributed evidence is materially richer than a benevolent or weary-father label.",
+        "limits_and_rivals": "Reported royal judgments and motives dominate beyond the private meeting. Family indulgence, administrative burden, political necessity, gratitude and pragmatic mercy are not sufficiently differentiated into a stable generative mechanism. This is an evidence decision, not a title, anonymity, event-count or length ceiling.",
+        "scope_qualification": "The king proposes exchanging Feit; Dust refuses. Keep source-bound Bridol identity separate from Belzerg royals. Rionor cooling-off travel is not a demonstrated permanent ban equivalent to Dust recalled sentence."
+      },
+      "cohort40_current_qualifications": "Accepted scoped individual disposition governs current treatment. Prior current fields remain exact dated history. Actual action,own report,narrator inference,performance,dream,proposed future and unknown stay distinct. No identity join,permanent ceiling,independent result,mature reliability or global census closure is inferred."
     },
     {
-      "priority": "Discovery",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "priority": "Cohort40 source-bound semantic receiving complete;exact containing publication pending.",
+      "disposition_status": "COHORT40_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "character": "Rionor head butler (Dust continuation)",
-      "identity": "Source-bound individual official; cross-Dust06 recurring identity/other staff not collapsed.",
-      "likely_tier": "1-2 unresolved",
-      "evidence_distribution": "Full continuation report; current direct Leen-viewpointU012436-510 includes strategic role instruction, differentiated treatment and actual plan.",
-      "substantive_responsibility": "Institutional rank/retirement, specific informal-address limits, pressure and false gag translation coexist with actual coordination and differentiated teaching. Moral/professional authority is not truth or permission.",
-      "gaps": "Remaining direct staff-restraint/private-motive scene audit and exact cross-source identity due. Three maids have different roles and cannot be combined as one personality."
+      "character": "Rionor head butler (Dust05–06 and continuation)",
+      "identity": "Positively recurring source-bound head butler across Dust05 epilogue,Dust06 and continuation. Hagen,Heidel,Alderp messenger and other household servants remain unjoined;formal address and original-name wordplay do not erase actor knowledge.",
+      "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact publication pending",
+      "evidence_distribution": "Dust05U013complete29Pprivate epilogue plus boundedU010dream/awakening,Dust06U012405–438/U013selected260–350,440–620,and continuation complete principal paragraph/ruby projections with boundedU010support. Cohort40 total2826P/1219ruby11members3EPUBs58displays;58displays are not independent observations.",
+      "substantive_responsibility": "BHB-R01 narrowly predicts trying to shift an onerous responsibility when authorized and appraised as relieving it,while allowing retention when duty or handoff burden opposes transfer. Rope interception and oblique national-stake concern, conditional restoration, useful teaching and coordination coexist with explicit work relief, false gag interpretation, forced handling and coercive training. Institutional duty, weary care, fondness and retaliatory humor remain rivals.",
+      "gaps": "No pure convenience policy, universal obedience rule, omniscient staff mind, completed retirement or ethical license. Feit identity surprise and missed airborne hanging constrain knowledge. Former-thief maid may overlap weapon roles;pay remarkP552is pair-level. Four original responses/two dependent comparisons retain bundled authority/stake and generic workload rivals. No independent accuracy,grade,confidence gain,voice certification or final battery.",
+      "prior_cohort40_current_fields": {
+        "character": "Rionor head butler (Dust continuation)",
+        "identity": "Source-bound individual official; cross-Dust06 recurring identity/other staff not collapsed.",
+        "likely_tier": "1-2 unresolved",
+        "evidence_distribution": "Full continuation report; current direct Leen-viewpointU012436-510 includes strategic role instruction, differentiated treatment and actual plan.",
+        "substantive_responsibility": "Institutional rank/retirement, specific informal-address limits, pressure and false gag translation coexist with actual coordination and differentiated teaching. Moral/professional authority is not truth or permission.",
+        "gaps": "Remaining direct staff-restraint/private-motive scene audit and exact cross-source identity due. Three maids have different roles and cannot be combined as one personality.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort40_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_BRIDOL_HEAD_BUTLER_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_BRIDOL_HEAD_BUTLER_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_BRIDOL_HEAD_BUTLER_RULE_INVENTORY_V1.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_BRIDOL_HEAD_BUTLER_FIRST_OUTPUT_ANNOTATIONS_V1.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_BRIDOL_HEAD_BUTLER_DIAGNOSTIC_ASSESSMENT_V1.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_BRIDOL_HEAD_BUTLER_SCENARIO_INPUTS_V1.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_BRIDOL_HEAD_BUTLER_ORIGINAL_FIRSTS_V1.json"
+      ],
+      "cohort40_rules": [
+        "BHB-R01"
+      ],
+      "cohort40_semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+      "cohort40_scope_assessment": {
+        "row": 84,
+        "subject": "Rionor head butler / 執事長",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "BHB-R01"
+        ],
+        "justification": "Dust05 actual rope interception and national-stake concern, Dust06 knowing substitute retention and conditional restoration, and continuation explicit workload relief, rank wordplay, false gag interpretation, forced handling and useful teaching/coordination support one narrow burden-reassignment hypothesis. Repeated settings and contrary institutional concern earn a model without reducing every act to self-interest.",
+        "limits_and_rivals": "Institutional duty, weary caregiver behavior, retaliatory humor, fondness and personal convenience remain rival or joint causes. No pure burden arithmetic, global deference rule, omniscient plan, uniform staff mind, completed retirement or ethical license. National-asset allusion is oblique in the received Dust05 epilogue.",
+        "scope_qualification": "Accept positive source-bound Dust05–06–continuation recurrence. Keep Hagen, Heidel and other household butlers unjoined. Three weapon-bearing maids remain differentiated, with former-thief-to-weapon mapping unresolved."
+      },
+      "cohort40_current_qualifications": "Accepted scoped individual disposition governs current treatment. Prior current fields remain exact dated history. Actual action,own report,narrator inference,performance,dream,proposed future and unknown stay distinct. No identity join,permanent ceiling,independent result,mature reliability or global census closure is inferred."
     },
     {
       "character": "Nerimaki / ねりまき",
@@ -220,16 +428,78 @@
       }
     },
     {
-      "character": "Unnamed helmet admirer / noble (Dust01–03)",
-      "identity": "Own alternate POV inDust01I01, joined by actual prior shop/helper and helmet recognition inDust03; personal name and wider alias unresolved.",
-      "likely_tier": "2-3 candidate, evidence-proportional mechanism decision open",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "Complete52PDUST01I01native +107PDUST03U014244–350; receipts24/26 and corresponding direct-native receipts.",
-      "substantive_responsibility": "Private report/surveillance acquisition, jealous relationship inference, own desired speech/contact, particular helmet valuation and actual purchase differ fromDust's appraisals. Later finite one-day loan/armor/cleaning veto and private shyness are actual separate choices.",
-      "gaps": "No reciprocal Dust desire/known surveillance permission, proved fake-necklace purchase/device or MASK noble alias from similar traits. State ordinary object goals, limits, rivals and disconfirmers before any model promotion.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "character": "Helmeted noble / Dust admirer (Dust01,03,07)",
+      "identity": "Own Dust01private viewpoint and explicit prior-helper/former-Dust-helmet references join Dust03/07. No personal name supplied. MAIN07photograph-seeking noble246,Andain and Aigis remain unjoined;role similarity does not prove sameness or global disjointness.",
+      "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort39 bounded author publication complete;continuing full program.",
+      "evidence_distribution": "Current completeDUST01private52P,rescue/aftermath contexts,DUST03loan/armor/no-cleaning/substitute face cover,andDUST07child care plus explicitP184horse loan. DUST05crowd rumor is attributed,unidentified bath watcher unjoined. All cohort source/member/ruby/range bindings and actual receiving in C39provenance.",
+      "substantive_responsibility": "Private object association,actual purchase,finite resource aid,combat competence,concealment accommodation and accepted lending terms earn HNO-R01 useful-role/associated-object seeking with preservation or substitute means. Dust proposed one-day limit is accepted,not a noble-invented ultimatum. Actual held hand and continued approach after stop requests remain adverse;child care and adult attraction stay distinct.",
+      "gaps": "No reciprocal Dust attraction,verified magic inverter,unlimited resources or actual payment for private reports. Generic sentiment,generosity,shyness and ownership remain rivals. HNO-A2 adds price marking and ambiguous audience absence;original retained. Four firsts/two dependent source-known pairs do not calibrate cost thresholds or isolate motive. No independent accuracy,grade,confidence gain,Japanese/acoustic certification or final battery.",
+      "disposition_status": "COHORT39_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
-      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
+      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
+      "prior_cohort39_current_fields": {
+        "character": "Unnamed helmet admirer / noble (Dust01–03)",
+        "identity": "Own alternate POV inDust01I01, joined by actual prior shop/helper and helmet recognition inDust03; personal name and wider alias unresolved.",
+        "likely_tier": "2-3 candidate, evidence-proportional mechanism decision open",
+        "evidence_distribution": "Complete52PDUST01I01native +107PDUST03U014244–350; receipts24/26 and corresponding direct-native receipts.",
+        "substantive_responsibility": "Private report/surveillance acquisition, jealous relationship inference, own desired speech/contact, particular helmet valuation and actual purchase differ fromDust's appraisals. Later finite one-day loan/armor/cleaning veto and private shyness are actual separate choices.",
+        "gaps": "No reciprocal Dust desire/known surveillance permission, proved fake-necklace purchase/device or MASK noble alias from similar traits. State ordinary object goals, limits, rivals and disconfirmers before any model promotion.",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort39_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_HELMETED_NOBLE_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HELMETED_NOBLE_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_RULE_INVENTORY_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_DIAGNOSTIC_ASSESSMENT_01.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/HELMETED_NOBLE_EXPANDED_V1_EVIDENCE/HELMETED_NOBLE_FIRST_OUTPUT_ANNOTATIONS_01.json"
+      ],
+      "cohort39_rules": [
+        "HNO-R01"
+      ],
+      "cohort39_semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+      "cohort39_scope_assessment": {
+        "row": 88,
+        "subject": "Helmeted noble / Dust admirer",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "HNO-R01"
+        ],
+        "justification": "Own private viewpoint,object-associated value,fallible rival inferences,actual acquisition,resources/combat assistance,concealment accommodation and finite lending terms earn one provisional closeness/preservation hypothesis. No anonymity or comic-sexual ceiling.",
+        "limits_and_rivals": "No personal name,wider noble alias join,precise cost threshold or reciprocity. Generic attachment,generosity,shyness and ordinary ownership remain. Contact violation stays adverse;child care and adult attraction distinct."
+      },
+      "cohort39_current_qualifications": "Current scoped provisional individual disposition governs;prior current fields remain dated exact history. Actual act,own report,narrator inference,untagged turn,dream,anticipated outcome and unknown remain distinct. No permanent ceiling,independent trial,mature reliability or census closure.",
+      "cohort39_prior_semantic_receiving_before_status_normalization": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+      "cohort39_public_status_normalization": {
+        "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+        "bytes": 4391,
+        "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      },
+      "prior_cohort39_publication_fields": {
+        "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact publication pending",
+        "priority": "Cohort39 bounded semantic receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort39_publication_resolution": {
+        "source": "bebd59912de46d82a02777050ccb175f5e075029",
+        "tree": "37d0213161e1a0cffcd278b8af19f3f80babff85",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "b564f10ddfdfa3bfb34c7bd5d28f3c8ebb940966fb87379431d420dc9308ad55",
+        "source_run": 40124981724,
+        "full_discovered_tests": 459,
+        "current_models": 59,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 316
+      }
     },
     {
       "character": "Lake 安楽少女 (Dust03 individual)",
