@@ -4,7 +4,7 @@ artifact_id: YURUCAMP_CURRENT_SOURCE_QUALITY_AND_LOCATOR_NOTES
 artifact_type: source_quality_audit
 series: YURUCAMP
 status: canonical
-source_boundary: Source identities through V19 acquisition; literary analysis complete through V18
+source_boundary: Source identities and literary analysis complete through V19
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -154,3 +154,36 @@ XHTML basenames below are under `item/xhtml/` and image basenames under `item/im
 Chapter 102 has three story images before its title at spine 086. Chapter 103 ends at the first collapse barrier at 132, before transition images 133–134 and Chapter 104. Main narrative ends at 158 / visible 156 before the separate Heya strips; the author afterword at 163 calls this the first part of the 152 touring arc. The final proposed destination is not shown reached. Preserve all title, transition, blank and paratext positions; an alternate-world/time-leap underjacket at 166 is not a literal future outcome.
 
 The permit at spine 018 visibly says 5月2日 while the next depicted day's livecamera at 096 shows 05/02. These marks are retained without resolving an exact starting calendar date or assuming what date the permit denotes. This bounded chronology uncertainty does not alter the spine map. None of this is a blanket raw/spine-to-printed offset, a fresh technical audit or remote content-hash verification.
+
+## V19 literary transaction and exact current locator lookup — 2026-10-23
+
+All 166 preferred V19 originals were individually visually inspected strictly in source order before separate Pass B, including transitions, both Heya strips and closing matter. The [V19 reading](../03%20Volume%20Deep%20Readings/YURUCAMP_V19_DEEP_READING.md) owns narrative/actor/mode claims. This dated literary receipt extends the current boundary after the independently committed V16–V18 checkpoint; earlier NOT ANALYZED statements retain their historical scope. It does not rewrite technical checks, earlier literary receipts, source hashes or archive chains. Supplementary continuities and V20+ remain outside the admitted lane.
+
+XHTML basenames below are under `item/xhtml/`; image basenames under `item/image/`. Every endpoint and title anchor is copied from the unchanged V19 `technical.spine_image_map`, whose 166 rows were joined to the inspected originals. The new `literary_section_map` is separate from technical metadata. Contents starts 3/29/55/81/107/133/157 are not blanket visible folios; there is no separate contents start for Heya 132.
+
+| Section | Preferred spine range | Exact start XHTML → image | Exact end XHTML → image | Printed locator / title anchor |
+| --- | --- | --- | --- | --- |
+| Opening cover, blank, color illustration and contents | 001–004 | `p-cover.xhtml` → `cover_omo.jpg` | `p-003.xhtml` → `i-002.jpg` | No printed-page conversion asserted |
+| Ch105 爆走!!152ツーリング | 005–028 | `p-004.xhtml` → `i-003.jpg` | `p-027.xhtml` → `i-026.jpg` | Contents start 3; visible start 3; visible end 26; title spine 007 `p-006.xhtml` → `i-005.jpg` |
+| Ch105 transition vignettes | 029–030 | `p-028.xhtml` → `i-027.jpg` | `p-029.xhtml` → `i-028.jpg` | No printed-page conversion asserted |
+| Ch106 菅野高原と手抜きメシ | 031–054 | `p-030.xhtml` → `i-029.jpg` | `p-053.xhtml` → `i-052.jpg` | Contents start 29; visible start 29; visible end 52; title spine 033 `p-032.xhtml` → `i-031.jpg` |
+| Ch106 transition vignettes | 055–056 | `p-054.xhtml` → `i-053.jpg` | `p-055.xhtml` → `i-054.jpg` | No printed-page conversion asserted |
+| Ch107 ながのめいぶつゆめうつつ | 057–080 | `p-056.xhtml` → `i-055.jpg` | `p-079.xhtml` → `i-078.jpg` | Contents start 55; visible start 55; visible end 78; title spine 059 `p-058.xhtml` → `i-057.jpg` |
+| Ch107 transition vignettes | 081–082 | `p-080.xhtml` → `i-079.jpg` | `p-081.xhtml` → `i-080.jpg` | No printed-page conversion asserted |
+| Ch108 諏訪湖まであと少し | 083–106 | `p-082.xhtml` → `i-081.jpg` | `p-105.xhtml` → `i-104.jpg` | Contents start 81; start folio not visible; visible end 104; title spine 083 `p-082.xhtml` → `i-081.jpg` |
+| Ch108 transition vignettes | 107–108 | `p-106.xhtml` → `i-105.jpg` | `p-107.xhtml` → `i-106.jpg` | No printed-page conversion asserted |
+| Ch109 餃子鍋を囲んで | 109–132 | `p-108.xhtml` → `i-107.jpg` | `p-131.xhtml` → `i-130.jpg` | Contents start 107; start folio not visible; visible end 130; title spine 109 `p-108.xhtml` → `i-107.jpg` |
+| Ch109 transition vignettes | 133–134 | `p-132.xhtml` → `i-131.jpg` | `p-133.xhtml` → `i-132.jpg` | No printed-page conversion asserted |
+| Ch110 GWも営業中！ | 135–158 | `p-134.xhtml` → `i-133.jpg` | `p-157.xhtml` → `i-156.jpg` | Contents start 133; visible start 133; visible end 156; title spine 137 `p-136.xhtml` → `i-135.jpg` |
+| Heya Camp 放課後131 本しめじの育て方 | 159–160 | `p-158.xhtml` → `i-157.jpg` | `p-159.xhtml` → `i-158.jpg` | Contents start 157; start folio not visible; visible end 158; title spine 159 `p-158.xhtml` → `i-157.jpg` |
+| Heya Camp 放課後132 かぶると大変 | 161–162 | `p-160.xhtml` → `i-159.jpg` | `p-161.xhtml` → `i-160.jpg` | No separate contents start; visible start 159; visible end 160; title spine 161 `p-160.xhtml` → `i-159.jpg` |
+| Author afterword and initial-publication list | 163–163 | `p-162.xhtml` → `i-161.jpg` | `p-162.xhtml` → `i-161.jpg` | No printed-page conversion asserted |
+| Electronic-edition colophon | 164–164 | `p-163.xhtml` → `i-162.jpg` | `p-163.xhtml` → `i-162.jpg` | No printed-page conversion asserted |
+| Full jacket | 165–165 | `p-164.xhtml` → `cover.jpg` | `p-164.xhtml` → `cover.jpg` | No printed-page conversion asserted |
+| Alternate-world/occult metafiction comic | 166–166 | `p-165.xhtml` → `hyoushi.jpg` | `p-165.xhtml` → `hyoushi.jpg` | No printed-page conversion asserted |
+
+Chapter 105 has two story images before title 007; Chapter 106 starts at 031 / visible 29 and has rotated title 033; Chapter 107 starts 057 / visible 55 before title 059. Full titles 083/109 do not display contents opening folios 81/107; first story 084/110 visibly prints 82/108. Chapter 110 starts 135 / visible 133 before title 137 and ends 158 / visible 156. Main-story Aoi/Mei cycling practice is separately narrated during Golden Week; the earlier photograph 132 is explained by the actual selfie 158, with two helmeted students and unhelmeted Saki at the window. Do not infer a third cyclist, a completed Motosuko ride, or an all-ensemble physical reunion.
+
+Heya 131 at spines 159–160 contains Nadeshiko's deliberate mushroom/book deception; Heya 132 at spines 161–162 contains escalating helmet/hair comedy. Afterword 163 calls this the latter part of the 152 touring arc; author remarks, colophon 164 and jacket 165 are paratext. Underjacket 166 has altered names, worldline/time-axis and occult parody, not main-world outcomes. For any quotation, retain actual speaker/recipient and report, thought, dream or fantasy mode. In particular 032 is fatigue-projected Nadeshiko, not a verified live call; definite dream 069–072 upper ends at actual waking 072 lower, while 073 independently confirms the real pair/charhan. Exact initial dream seam 067–068 remains uncertain. The 073 local calendar is not a retroactive resolution of V18 starting-date uncertainty.
+
+All title, transition, blank and paratext positions are preserved. Authorized-source-run completion at V19 leaves next narrative source NONE and the analytical project active; current-map run/OPEN-lock semantics and the separately routed provisional synthesis remain distinct from a series finale. This is not a new technical audit, remote byte-hash verification or permission to extrapolate a universal spine/printed-page offset.
