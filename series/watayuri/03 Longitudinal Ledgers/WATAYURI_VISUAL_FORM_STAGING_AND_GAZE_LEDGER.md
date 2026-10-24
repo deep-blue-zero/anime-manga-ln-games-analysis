@@ -4,14 +4,14 @@ artifact_id: WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.10"
+version: "0.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V09 mainline through V09 Shift 46/i134, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10–V14 inventory only"
+source_boundary: "Japanese V01–V14 mainline through V14 Shift 71/i156 including the later photograph-board coda; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B inventory only; later sources not admitted"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STA
 
 **Update and revision rule.** Update for repeated visual constructions or a diagnostically consequential scene. Record the visible fact separately from inferred psychology and identify when a later composition revises an earlier inference. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V09 mainline through V09 Shift 46/i134, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5 and 46.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V08 sections retain their earlier states; dated V09 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V14 mainline through V14 Shift 71/i156, including the later photograph-board coda, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5, 61.5, 66.5 and 71.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V13 bodies retain their historical states; dated V14 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -368,3 +368,241 @@ The dream also uses page sequence to distinguish desire from event. An apparentl
 #### The returning object is not the completed act
 
 The contact slip does the work that the photograph did earlier in a different register. It is materially present and offers a route to a relationship, but it does not determine the relation’s meaning or outcome. Owning a print did not make the smile Sumika’s; holding the contact paper does not make Kanoko an authorized mediator or establish a future meeting. The final object preserves an actionable possibility without telling the reader which action will follow. [VIS02/VIS19/VIS20.]
+
+
+<a id="v10"></a>
+## V10 — Current additions and transitions — 2026-10-19
+
+**V10 evidence key:** source-map key `V10`, Japanese witness `1_op3JMqIOzXvfHSWN3znBlJPXjxAOtxI`, SHA-256 `3749dd05cca33587f32656dab6ca91d675c529fc23d30aaa2c33e9503bfb899b`. The [frozen V10 reading](../02%20Sequential%20Readings/WATAYURI_V10_DEEP_READING.md#visual-form) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V10; section numbers refer to the complete reading. WY1–WY9 identities retain their original propositions and dated states, subject to the [attributable current claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum). Mainline and latest depicted present end at Shift 51/i154. Shift 51.5/i156–160 is historical prototype fitting; first-year bonus i168 and edition matter do not advance the endpoint. V10-B and V11+ remain excluded. All prior source corrections and freezes remain intact.
+
+## 12. Manga form, staging and gaze additions
+
+**Destination:** `03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER.md`. Each formal claim distinguishes visible configuration from an interpretation of its effect. The grids used to read these pages are not cited as original layouts.
+
+| ID | Visible construction | Interpretive effect and viable limit | Source |
+| --- | --- | --- | --- |
+| **WY10-VIS01** | Present phone inquiry precedes a much longer historical sequence. | The reader’s initial protective frame is deferred while Nene acquires independent perspective. It does not predetermine a good or bad reunion outcome. | i001/i005–028. |
+| **WY10-VIS02** | Color chess framing distributes familiar figures around a game. | Strategic interpretation is invited; actual future alliances or an identified final adviser are not established by the illustration. | i002–003, separate framing. |
+| **WY10-VIS03** | Nene’s useful retail assistance is followed by social distance. | Competence and belonging are visibly separated. No single image proves the coworkers’ full attitudes. | i005–007. |
+| **WY10-VIS04** | School memories and bar conversation surround a named personal identity. | Nene’s sexual self-understanding is shown as lived history rather than a single outsider label. Sequence belongs to her recollection. | i008–011. |
+| **WY10-VIS05** | Cross handling, rehearsal and the threshold into the salon recur. | Institutional objects and spaces carry work, anxiety and reassurance; decoration is not their only function. | i019–024. |
+| **WY10-VIS06** | Nene’s perception of Sumika changes across early contact and opening reassurance. | Attraction accumulates through action, not a face read in isolation. It remains directional. | i017–028. |
+| **WY10-VIS07** | Reference conversation groups some workers together while Sumika reacts and redirects Nene bodily. | Knowledge and access produce exclusion; role rivalry is accompanied by an actual protest. | i036–044. |
+| **WY10-VIS08** | Private quarrel moves into Nene’s isolated distress and Yoko’s seated company. | The apparent available confidant is made visible at the point an old hope closes. Availability does not certify the next offer’s adequacy. | i045–055. |
+| **WY10-VIS09** | The old offer is shown incompletely, then re-presented with the jealousy clause. | Retrospective completion changes the reader’s model of informed participation. It is not a second past proposal. | i055/i084. |
+| **WY10-VIS10** | Exhibit, food and couple-service scenes extend the outing before the central question is answered. | Page sequence makes pleasurable delay material. Nene’s enjoyment is not evidence that the question has ceased to matter. | i061–072. |
+| **WY10-VIS11** | Unsteadiness is followed by clothed waking, later closeness and a morning scene. | The transitions imply some events and withhold others; do not reconstruct a continuous unseen sequence or explicit acts. | i072–081. |
+| **WY10-VIS12** | Similar affirming expressions accompany incompatible explanations; Nene dresses and leaves. | The cost of the mismatch is carried into action rather than settled by repeated affirmative words. Yoko’s smile alone does not prove lack of feeling. | i081–088. |
+| **WY10-VIS13** | Nene’s tears follow an actual departure and a partial apology exchange. | Deciding to leave and recovering emotionally are visually distinct. The scene does not supply the content of a full reconciliation. | i089–090. |
+| **WY10-VIS14** | Scripts remain visible as real workers make and correct fictional-name mistakes. | The nested performance stays legible; a scripted separation need not be read as literal current fate. | i095–099/i108–109/i133. |
+| **WY10-VIS15** | Kanoko withdraws behind a changing boundary and later curls into herself during Hime’s explanation. | Bodily withdrawal adds counterevidence to calm speech. It does not automatically tell Hime or Sumika the hidden romantic cause. | i104–119. |
+| **WY10-VIS16** | Hime’s kiss disclosure is followed by a close view of Kanoko’s concealed distress. | The narrative ties new knowledge to a reaction while withholding a direct confession by Kanoko. A new kiss is not depicted. | i118–119. |
+| **WY10-VIS17** | Sumika’s accusation ends in separation and Kanoko’s isolated appeal. | The refusal is an event with visible cost, not merely a formal limit stated neutrally. No next helper is identified yet. | i121–124. |
+| **WY10-VIS18** | Sumika’s private rehearsal and imagined anger are followed by a visibly public affectionate scene. | Self-reproach, fantasy, performance and actual contact are distinguishable layers. The source need not choose one as the entire true self. | i125–140. |
+| **WY10-VIS19** | Hand contact passes from requested salon gesture to painful private insistence and later mutual embrace. | Act, context and response change; the entire sequence cannot be classified by the valence of its final image. | i136–151. |
+| **WY10-VIS20** | Separate homes cut Sumika’s delighted reflection against Kanoko’s actual call; i153 turns to i154. | An apparent conventional romantic coda becomes an information-asymmetry ending. The hidden interlocutor remains unshown. | i152–154. |
+| **WY10-VIS21** | Historical fitting and the first-year bonus repeat clothing, touch and differing observers. | Earlier intimacy can be understood differently by participants and guests; these pages do not reunite current partners. | S51.5/i156–160; extra/i168. |
+
+### 12.1 Page turns that change an explanation
+
+Under the verified source assignment, i083→i084 is a page turn. The earlier jealousy promise becomes explicit on the new page, changing what the reader understands Nene initially accepted. The later i153→i154 turn completes the closing telephone exchange with gratitude, successful-advice language and secrecy. The two turns are not identical, but both make relational knowledge arrive after an apparently recognizable relationship scene. That is a stronger formal argument than merely observing that both scenes contain a surprise. [VIS09/VIS20.]
+
+The contrast between i152 and i154 also depends on whose interiority is available. Sumika’s home scene gives her joy and uncertainty about calling. Kanoko’s home scene gives spoken report to someone else, not an equivalent interior love declaration. The reader must not turn the parallel panels into proof of parallel feelings. Their asymmetry is precisely the information supplied by the construction. [i152–154.]
+
+### 12.2 Faces qualify claims; they do not replace them
+
+Nene’s tears, Kanoko’s strained calm and Sumika’s blushes matter because they appear within sequences that also contain particular utterances, choices and consequences. The argument about Sumika’s love does not rest on a blush: she eventually says it. The argument about Nene’s changed purpose does not rest on a sad face: she states the change and leaves. The argument about Kanoko’s unshared project rests on the proposal’s purpose and the subsequent call, not on reading an allegedly sinister smile. This preserves the difference between visual evidence and an invented omniscient account of motive. [O17/O23/O28/O29.]
+
+
+<a id="v11"></a>
+## V11 — Current additions and transitions — 2026-10-20
+
+**V11 evidence key:** source-map key `V11`, Japanese witness `1C1Mnc2-Jgr3djCrylVn1e2KsTIPcKRzZ`, SHA-256 `12426ca4770f0efbfe3aab0c76a961e3225351754bb9270e92d6f6e74139f86e`. The [frozen V11 reading](../02%20Sequential%20Readings/WATAYURI_V11_DEEP_READING.md#visual-form) supplies complete observations, interpretation and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V11 except inside reproduced original forecast formulations, whose internal references retain their creation-volume scope. Section numbers refer to the complete reading. All original claim identities and dated states remain governed by the [preserved current claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum). Mainline and latest depicted present end at Shift 56/i156. Shift 56.5/i158–161 contains earlier kitchen history and the pre-tea opportunity; edition matter and bonus do not supply a post-hotel outcome. V10-B and V12+ remain excluded.
+
+**Receiving disposition:** the full responsibility section below is accepted with version 1.1’s bounded corrections and current predecessor reconciliation. Its “proposed” labels and production-stage caveats retain their provenance; they do not mean the accepted source-branch increment lacks a receiving decision. The V10 source-branch transaction is already green at `dc89204170a0fb4078ddc4e8f5ca194bba2b58b5`; main acceptance of V10/V11 remains pending and distinct from this analytical state. No earlier section is overwritten, no forecast criterion is rewritten, and no local character gate is automatically promoted to global discovery or capability authority. See the [V11 receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V11_INTEGRATION_REVIEW.md).
+
+## 12. Manga form, staging, gaze, and objects — proposed V11 increment
+
+**Destination:** `WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER.md`. The observable configuration is separated from its interpretive effect. Source page sides are those in §2; reading-grid adjacency is not used as spread evidence. A single face never establishes a uniquely determined motive by itself.
+
+| Record | Observable construction | Configuration | Interpretation and viable limit | Source |
+| --- | --- | --- | --- | --- |
+| **WY11-VIS01** | Signed photograph in the morning | Sumika’s private preparation and attention to Kanoko’s photograph precede the café greeting. | Makes the existing image a lived attachment object, not a new Kanoko declaration. | 52/i001, i005; O01 |
+| **WY11-VIS02** | Public intimacy after a private secrecy scene | The salon performance follows the private agreement to hide dating. | Reader knows why embarrassment matters while guests receive a fictional story; no actual sleepover is shown. | 52/i006–009; O02 |
+| **WY11-VIS03** | Apron and ordinary-name address | Yoko’s kitchen presence is visibly practical while the Mamiya address carries a different familiarity. | Work participation and hidden private access are adjacent but not identical kinds of authority. | 52/i011–012; O03 |
+| **WY11-VIS04** | Kanoko’s response before Sumika’s interruption | The proposed kiss sequence gives Kanoko’s visible reaction before Sumika checks herself. | The absence of an elaborated verbal refusal does not make the visible cue absent. | 52/i021–024; O06 |
+| **WY11-VIS05** | Self-directed emphatic gesture | Sumika’s abrupt self-check breaks the near-contact composition. | Identify the acting body correctly: not a strike by Kanoko and not a completed kiss. | 52/i023; O06 |
+| **WY11-VIS06** | Embrace without resolved interiority | Sumika’s close hold and spoken happiness coexist with Kanoko’s later private unease. | Body proximity is not sufficient proof of equal desire or a finished repair. | 52/i025–028; O07 |
+| **WY11-VIS07** | Earlier relations as a watched display | Nene repeatedly checks Sumika’s reaction while becoming close to Yoko. | The third person’s gaze becomes part of the pair’s performance and Nene’s mistaken evidential test. | 53/i041–058; O10–O12 |
+| **WY11-VIS08** | Changed pairing and lost audience | Cross/pair configurations and Sumika’s withdrawal alter what Nene expected to see. | Failure of a desired reaction is represented as relational loss, not merely a failed calculation. | 53/i055–061; O12–O14 |
+| **WY11-VIS09** | Present Nene frame around the history | The long earlier account returns to the current Nene’s self-interpretation. | Current regret frames the history; it must not be confused with all participants knowing the same account then. | 53/i035–066; O08/O14 |
+| **WY11-VIS10** | The named-partner reaction | Kanoko’s eventual naming of Sumika is followed by Nene’s changed response. | Visual surprise corroborates the previously explicit wrong inference, rather than supplying an unspoken motive alone. | 54/i078–080; O17 |
+| **WY11-VIS11** | Closed salon viewed from its guest side | Ordinary clothes, tea and the vacant work space replace the public performance audience. | Allows the material stage to hold a private, unscripted conversation without becoming a different place. | 54/i088; 55/i091–104; O19 |
+| **WY11-VIS12** | Cups and remembered tea | The former pair’s tea is actually selected and enjoyed during current conversation. | A surviving object/practice carries memory without reinstating the pact. | 55/i103–104; O19 |
+| **WY11-VIS13** | Disclosure changes posture and scale | The seated conversation opens into distressed standing/face-focused exchanges. | The sequence gives Sumika room to answer and Nene room to hear, not merely an interior resolution. | 55/i107–119; O22–O24 |
+| **WY11-VIS14** | Memory montage inside the refusal/repair | The old sister history accompanies the present acknowledgment and embrace. | Earlier images explain the loss; they are not a restoration scene occurring anew. | 55/i120–123; O25 |
+| **WY11-VIS15** | Playful correction beside a new notification | The renewed banter and phone notification share the chapter’s closing page. | Local repair and incoming uncertainty coexist. The page does not yet reveal the photograph’s content or response. | 55/i124; O26 |
+| **WY11-VIS16** | Crumpled contact slip as a return route | Kanoko’s preparation turns into an earlier adviser account through the retained slip. | The V09 object’s survival enables contact; old crumpling did not establish disposal. | 56/i129–134; O27 |
+| **WY11-VIS17** | Replayed proposal with new internal information | The already known dating negotiation is revisited with Kanoko’s painful response and the advice context. | Retrospective expansion is not a second proposal or a retroactively false V10 freeze. | 56/i135–137; O28 |
+| **WY11-VIS18** | Repeated cancellation across viewpoints | The call appears within Sumika’s account and then Kanoko/Yoko’s sequence. | Form supplies different knowledge of one event instead of duplicating the event. | 55/i097–098; 56/i141–142; O20/O29 |
+| **WY11-VIS19** | Coffee-shop conversation to hotel reception | Exterior, reception and waiting position precede the room-card explanation. | The relocation is physically established before its full implication is accepted by Kanoko; not a return to Liebe. | 56/i143–151; O30–O31 |
+| **WY11-VIS20** | Choker and room card | A personal object from another relationship and the key to the next space appear together in the route. | Visible objects carry requests/access, not blanket consent or completed return to their owner. | 56/i149–151; O31–O32 |
+| **WY11-VIS21** | Earlier imagined Hime closeness inside persuasion | Yoko’s hypothetical jealousy question is paired with Kanoko’s recalled Hime-related imagery. | The recalled image supplies a personally salient analogy, not an actual new Hime encounter. | 56/i154–155; O32 |
+| **WY11-VIS22** | Photograph inside the final image | The reader sees Kanoko entering, then sees a selected photograph of her in Yoko’s outgoing chat. | The image is readdressed to an unseen audience. Its framing is not a full report of consent or subsequent events. | 56/i156; O33 |
+
+### 12.1 Two embraces with different evidentiary surroundings
+
+The first chapter’s close bodily configuration is accompanied by Kanoko’s unresolved effort to feel glad. The tea scene’s embrace follows a direct disclosure, an apology, a present refusal, and Nene’s explicit acknowledgment. The drawings alone do not assign one “true” relationship and one “fake” relation. The accompanying words, sequence and information distribution let the two acts support different conclusions. An embrace is not a portable symbol that means mutual romance or complete healing wherever it appears. [VIS06/VIS13–VIS14.]
+
+### 12.2 The photograph is both depiction and a new act
+
+At the beginning, Sumika looks at an already possessed image as a source of private happiness. At the end, Yoko turns the scene she is participating in into a new outgoing image. The distinction concerns production, selection and audience, not merely what appears in the picture. Kanoko is genuinely present in the hotel room, but the photograph plus alarm is not her own account of why she is there or what she has permitted. The reader’s wider access makes it possible to see how a true image can be used within an incomplete and deliberately directed report. [VIS01/VIS15/VIS22.]
+
+The i124 notification anticipates the endpoint without showing how anyone will act on it. That formal construction creates urgency, but urgency is not evidence of an accomplished intervention. The analysis ends at the last represented act rather than completing the suspense from genre expectations. [VIS15/VIS22.]
+
+### 12.3 The café survives the failed romance
+
+Empty tables, tea, remembered service and the continuing kitchen role make the café more than an abstract mechanism that causes misunderstandings. It is a material site of shared competence and ordinary belonging. Nene’s final choice of Liebe has this visual and practical history behind it. That does not excuse the institution’s failures; the contact-rule paratext explicitly draws attention to a gap in its protective boundary. Both the value of the place and its limitations remain visible. [VIS08/VIS11–VIS14; S56.5/i158–161; paratext/i165.]
+
+
+<a id="v12"></a>
+## V12 — Current additions and transitions — 2026-10-20
+
+**V12 evidence key:** source-map key `V12`, Japanese witness `1rfp1TTQIU1BAGmSpGu3UBoLcIqqyKkXz`, SHA-256 `cace78f56ffc5248eba9fe9d1e336730cbab70cdba834faf4be10629a5a70ab1`. The [frozen V12 reading](../02%20Sequential%20Readings/WATAYURI_V12_DEEP_READING.md#visual-form) supplies full context, observations and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V12; reproduced original forecasts retain their creation-volume shorthand. Section numbers refer to the complete reading. Mainline and latest depicted present end at Shift 61/i140, where a historical report begins without its complete event or answer. Shift 61.5/i142–145 has finer chronology OPEN; edition matter and bonus do not continue the ending. V10-B and V13+ remain excluded.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Current main acceptance and run completion are separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V12_INTEGRATION_REVIEW.md). All earlier bodies and original claim identities remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 12. Manga form, staging, gaze, and objects — proposed V12 increment
+
+| ID | Depicted construction | Interpretive use | Counterreading / exact scope |
+| --- | --- | --- | --- |
+| **WY12-VIS01** | The opening reprises an outgoing image/message situation before showing Kanoko’s own response. i001, i005–007. | Separates a circulated representation from the pictured person’s intention. | A truthful picture can carry a misleading relational implication. |
+| **WY12-VIS02** | A bag, refreshments and script occupy the hotel’s apparently ordinary conversational space. i007–011. | Practical objects become means of directing attention and access. | Later significance should not be backdated as Kanoko’s initial knowledge. |
+| **WY12-VIS03** | Embedded story panels appear inside the hotel argument. i012–017. | An alternate narrative world becomes an interpretive instrument. | Not a new actual performance or café history. |
+| **WY12-VIS04** | Phone display, bag check and speakerphone distribute who sees/hears what. i026–029. | Makes informational control material and sequential. | No inference that all messages have been read by all named people. |
+| **WY12-VIS05** | The next chapter repositions the reader at Nene’s receipt and Sumika’s response. i032–037. | Reconstructs the other end of the earlier call. | Viewpoint change does not mean a second identical event. |
+| **WY12-VIS06** | Enclosed room, restrained movement, repeated requests and selected close-ups narrow Kanoko’s options. i038–055. | Form makes coercion observable without an invented completed act. | Avoid aestheticizing exposure or interpreting fear as consent. |
+| **WY12-VIS07** | Hime-related remembered images interrupt the present coercion. i049–053. | Reveals the relational stake in Kanoko’s theory of insignificance. | Memory image is not new Hime testimony or a new kiss. |
+| **WY12-VIS08** | Closed door and transition to lobby leave an interval unshown; i085 returns to an unfinished utterance. i055–057, i085. | Sustains uncertainty about exact omitted acts/words. | Do not fill ellipsis with a preferred worst or best outcome. |
+| **WY12-VIS09** | Arrival, punch, fall and onlookers form a public interruption. i056–066. | Changes the space from controlled privacy to witnessed conflict. | Witnessing conflict does not mean witnesses know the room events. |
+| **WY12-VIS10** | Nene and Yoko converse outside after Kanoko is no longer the center of the frame. i067–073. | Gives Nene’s refusal an independent decision space. | Not simply a supporting line spoken under Sumika’s direction. |
+| **WY12-VIS11** | Quiet transit, washing and separate faces slow the sequence after confrontation. i077–082. | Gives aftermath duration and difference of experience. | No clinical diagnosis or exact emotional measurement from expressions alone. |
+| **WY12-VIS12** | Signed photograph is singled out in Sumika’s room after a brief hand separation. i089. | A remembered act of valuation persists beside present contact difficulty. | Image possession does not prove romantic reciprocation or current consent. |
+| **WY12-VIS13** | Meal, cleanup, toothbrush and floor/bed arrangement receive page space. i087–093. | Practical care is part of the relationship’s work, not only background. | No completed professional consultation inferred from the nearby search screen. |
+| **WY12-VIS14** | Kanoko closes distance for a kiss; Sumika’s startled response and disengagement follow. i100–106. | Sequence distinguishes initiative, reception and stopped continuation. | Later pleasure cannot replace the depicted initial response. |
+| **WY12-VIS15** | Disclosure, offered repayment, resisted acts and embrace alter proximity repeatedly. i107–120. | Bodily closeness does not have one stable meaning across the scene. | Each approach/refusal/uptake needs its own context. |
+| **WY12-VIS16** | Mugs and a tray organize the renewed seated conversation. i123–128. | Role-inflected care becomes ordinary shared activity. | The peaceful composition does not certify that all later pressure disappears. |
+| **WY12-VIS17** | Recalled Hime and the actual listener Sumika occupy different representational levels. i129–134. | Keeps reported history and current interpretation distinguishable. | Do not make Sumika a witness to the original kiss or put new words in Hime’s mouth. |
+| **WY12-VIS18** | A gripping hand and literal release request precede a later overlaid hand. i135–140. | Shows both pressure and affirmative subsequent uptake. | The final pose is not a substitute for the intervening refusal. |
+| **WY12-VIS19** | The final page moves from present hands to a remembered Hime at a fence with Kanoko’s report. i140. | Opens a history rather than resolving it. | No full earlier confession scene or Hime answer yet. |
+| **WY12-VIS20** | The short closes on Hime’s held matching accessory and solitary concern; covers/bonus use separate framing. S61.5/i145; Cover; EX/i148/i151–152. | Nonexclusive attachment and uncertainty can coexist in an object-centered image. | No dated post-night coda or automatic romantic meaning. |
+
+### 12.1 The phone is an object of access, not just a symbol
+
+The phone carries multiple distinct acts: taking a picture, transmitting it, receiving it, showing it, ringing, answering it and ending the call. The source does not permit those stages to collapse into “everyone knows.” Kanoko’s phone is also taken out of her control. The formal sequence consequently supports an information model and an agency model at the same time. It is more precise to record those acts than to say generally that technology reveals secrets. [VIS01/VIS04/VIS05; INF04–06.]
+
+The source-assigned facing pair i026–027 joins the visible ringing phone to Kanoko’s discovery and Yoko’s account. The turn from i027 to i028 introduces the call’s audible participation. This sequence can be described from package order without treating a four-page inspection grid as an original spread. Its effect is to let the reader see access being controlled before hearing how the remote participant is represented. [VIS04; §2.2.]
+
+### 12.2 Hands do not carry one fixed moral meaning
+
+Hands take a phone, restrain, strike, interrupt further striking, approach, withdraw, initiate a kiss, hold a wrist, serve a drink and finally overlap. Their repetition makes bodily agency available for comparison, but not for a single symbolic equation. Sumika’s hand stopping further intimacy and her later refusal to release Kanoko are different decisions. Kanoko’s overlaid hand is a different act from her earlier attempt to withdraw. A motif becomes analytically useful when it preserves those differences. [VIS04/VIS06/VIS09/VIS14–VIS18.]
+
+In particular, i136–137 form a source-assigned facing pair containing the continued hold and explicit refusal to release. The subsequent page turn to i138 introduces Kanoko’s response to Sumika’s forcefulness; i140 later supplies the affirmative hand overlay. The positive closing gesture does not occupy the same temporal position as the release request. The form itself gives the analyst a reason not to compress them. [VIS18; §2.2.]
+
+### 12.3 Two kinds of interior opening
+
+Yoko tries to expose what she calls the real feeling underneath Kanoko’s denial by controlling the situation and prescribing words. The final pages open another interior route: Kanoko begins telling a specific earlier event. Yet the second route still includes Sumika’s refusal of release. The formal contrast is therefore not an absolute division between violent disclosure and perfectly free speech. It is a developing alternative with a visible unresolved cost. [VIS06–VIS08/VIS18–VIS19.]
+
+The ending’s remembered Hime is deliberately insufficient as a complete retrospective account. One image and a report can change what the reader asks without answering it. That is the proper formal significance of the cliffhanger here: an increased need for historical explanation, not a license to supply the later explanation from familiarity with the series. [VIS19.]
+
+
+<a id="v13"></a>
+## V13 — Current additions and transitions — 2026-10-20
+
+**V13 evidence key:** source-map key `V13`, Japanese witness `1ZfyaG_u1-wVtFuuIFWQZGLEdmck-hY7W`, SHA-256 `602797c4450237e0eb6e391fac4099fa00ba7569f2de2a25ffb338e5085a14b1`. The [frozen V13 reading](../02%20Sequential%20Readings/WATAYURI_V13_DEEP_READING.md#visual-form) supplies full context and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V13; original forecasts retain their creation-volume shorthand. Section numbers refer to that complete reading. Mainline/latest present ends at Shift 66/i158 before the planned reading event and further Sumika conversation. Shift 66.5/i160–162 falls after the park outing and before the breakup; edition matter and bonus do not continue the ending. V14 and V10-B remain excluded.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Main acceptance and run completion remain separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V13_INTEGRATION_REVIEW.md). All earlier bodies, original claim identities and receiving corrections remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 12. Visual form, staging, gaze, and objects
+
+| ID | Observable formal construction | Bounded interpretation and alternative |
+| --- | --- | --- |
+| **WY13-VIS01** | Color opening uses a bright threshold/reaching arrangement before the full later rooftop movement. i002–003; i151–155. | The opening frames the later return as a problem of approach and possibility. It need not depict a separate additional rooftop event. |
+| **WY13-VIS02** | Classroom company and private rooftop speech redistribute the same friendship. i007–010. | Private reassurance contests a public pity account; neither setting alone determines sincerity. |
+| **WY13-VIS03** | Attention to Hime’s ordinary movements and proximity accompanies Kanoko’s growing attraction. i011–020. | Converges with the letter’s purpose; no isolated expression carries the whole romantic inference. |
+| **WY13-VIS04** | The letter moves from private composition to Hime’s locker and consultation. i017–024. | A material message can travel while its author remains concealed. Object delivery is not complete disclosure. |
+| **WY13-VIS05** | Waiting and concealed hesitation separate Hime’s expectation from Kanoko’s knowledge. i025–028. | The reader sees both positions; Hime cannot be assigned that visual access. |
+| **WY13-VIS06** | Letter tearing removes the message’s usable object while its memory survives. i029–031; i109. | Destruction is actual; forgetting is not. The later memory challenges a literal-erasure description. |
+| **WY13-VIS07** | Historical scenes return to the current bedroom listener. i032–034. | The frame identifies who receives the completed account now, without transmitting it to Hime. |
+| **WY13-VIS08** | Food selection, seating, children’s play, and the park’s open space interrupt crisis-focused staging. i042–060. | Ordinary pleasure and limited agency remain possible after distress; setting brightness does not certify complete recovery. |
+| **WY13-VIS09** | Kanoko’s hopeful day-summary is followed by Sumika alone with the photograph. i061–062. | The change of viewpoint limits a shared-progress inference without declaring the day fake. |
+| **WY13-VIS10** | The short shows the intact photo moved into a drawer. S66.5/i160. | Removal from display differs from the letter’s tearing. Concealment/storage can express a limit without proving destruction of attachment. |
+| **WY13-VIS11** | Backstage privacy is constructed before Mai’s inquiry; other workers remain elsewhere. i066–071. | Architecture and staging regulate who can hear. No universal staff briefing is inferred. |
+| **WY13-VIS12** | Sumika’s public older-sister reassurance precedes ordinary-clothes private separation. i073–092. | Role competence and private crisis can coexist; the first scene is not a post-breakup agreement. |
+| **WY13-VIS13** | Stop-request lettering and close reactions interrupt the walk’s composed rhythm. i083–087. | The request is materially represented, not a subtle reaction supplied only by interpretation. |
+| **WY13-VIS14** | Embrace, scripted release, angry withdrawal, and long street distance occur in sequence. i088–092. | Care-framed closeness and actual departure remain distinct. The final distance does not tell the reader how either will respond later. |
+| **WY13-VIS15** | Hime watches Kanoko’s withdrawal through school/work routines before obtaining any explanation. i093–104. | Observation motivates inquiry but does not give Hime exact knowledge. |
+| **WY13-VIS16** | Torn-letter recollection and earlier Mitsuki material enter Hime’s interior reasoning. i109–112. | Her memory is not a second occurrence or evidence she knew the letter’s author all along. |
+| **WY13-VIS17** | Wrist contact at the lockers and Kanoko’s shoulder grip occur at different informational moments. i131–139. | Different agents, pressures, and motives must be retained; later shared movement does not erase either act. |
+| **WY13-VIS18** | Pursuit moves through corridors to stairs, then an opened rooftop door and offered hand. i140–155. | Familiar architecture becomes a route to revised talk. Kanoko’s following and later choice are visible, not an automatic romantic answer. |
+| **WY13-VIS19** | The final page turns from what Kanoko assumed dating would do toward her demand for further speech. i156–158. | The endpoint is prospective intention. It does not contain the imagined future conversation. |
+| **WY13-VIS20** | Bonus juxtaposes guests’ ideal elder-sister reading with the reverse practical aid direction. E/i168. | Visible role hierarchy can misattribute who reassures whom; the contrast is bounded to the bonus practice scene. |
+
+### 12.1 Distinct fates of written and pictured objects
+
+The letter and photograph provide a controlled contrast. Kanoko destroys the letter to prevent an identified romantic encounter, then speaks a substitute account of its author. Sumika puts the photograph away to alter her own exposure to an attachment she still feels. One act removes an object and misleads another person; the other stores an object and is not shown being explained to Kanoko. Both can be connected with the wish to make a relationship bearable, but their material actions, audiences, and informational effects differ. [VIS04–VIS06/VIS09/VIS10.]
+
+That contrast also disciplines psychological interpretation. A torn letter does not prove that the feeling has ended, and a stored photograph does not prove hatred or permanent renunciation. The surrounding speech and behavior determine how far the inference can go. In this case both feelings persist. What changes is their permissible or bearable form of expression.
+
+### 12.2 Source spreads and page turns
+
+The source assignments establish that i090–091 are a facing pair: Sumika’s quoted release and Kanoko’s angry response belong to the same spread. The turn from i091 to i092 extends that immediate refusal into actual spatial separation. Similarly, i156–157 form a facing pair before the turn to i158 places the intention to speak with Sumika at the mainline close. These are source-defined relationships, not the accidental adjacency of a four-page inspection grid.
+
+The larger threshold pattern does not require a claim of exact duplicated drawing. The earlier rooftop naming, the later pursuit up familiar stairs, and the final offered hand repeatedly associate access to a place with access to a different account of the relation. The ending reuses familiarity while changing the verbal terms. This supports a formal reading of movement rather than restoration to an untouched past. It does not prove a single exclusive authorial intention or a guaranteed future romantic result. [VIS01/VIS02/VIS18/VIS19.]
+
+
+<a id="v14"></a>
+## V14 — Current additions and transitions — 2026-10-21
+
+**V14 evidence key:** source-map key `V14`, Japanese witness `1PBGoBpS9bAs5e7Ljyl9jt8rWmvvHGFrS`, SHA-256 `36e49e9c3e79c7d355302bca34a0cd7350350ed9e9e0103e87be9f3ce096bd00`. The [frozen V14 reading](../02%20Sequential%20Readings/WATAYURI_V14_DEEP_READING.md#visual-form) supplies full context and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V14; original forecasts retain their creation-volume shorthand. Section numbers refer to that complete reading. Mainline/latest present ends at Shift 71/i156, including the later photograph-board coda. Shift 71.5/i158–161 follows the stage kiss, but its exact placement relative to the coda is OPEN. Edition/bonus material stays separately bounded. V10-B and later sources remain excluded; inventory exhaustion does not establish series completion.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Main acceptance and run completion remain separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V14_INTEGRATION_REVIEW.md). All earlier bodies, original claim identities and receiving corrections remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 12. Manga form, staging, gaze, and material objects
+
+**Destination:** `03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER.md`.
+
+| ID | Observable construction | Interpretive use and limit |
+| --- | --- | --- |
+| **WY14-VIS01** | The opening separates café preparations from a private backroom conversation. | i001–012. Physical separation affords privacy; it does not prove perfect sound isolation or full coworker ignorance of the meeting itself. |
+| **WY14-VIS02** | Sumika’s approach, Kanoko’s closed eyes/tension, and Sumika’s release are sequentially distinguished. | i018–021. The act is withheld; do not substitute a completed kiss or read one expression as a complete emotional diagnosis. |
+| **WY14-VIS03** | Kanoko’s downcast aftermath and renewed inward question follow an apparently settled verbal exchange. | i025–033. The visual sequence qualifies the adequacy of the spoken closure without declaring the apology insincere. |
+| **WY14-VIS04** | Photographs, curtains, scripts and coordinated staff positions build the event’s theatrical space. | i031–044. Institutional labor is visible within the fiction’s production. |
+| **WY14-VIS05** | Kanoko’s internal recollections interrupt the visual continuity of the performed script. | i045–052. Reader access to interpretation exceeds audience access; recalled images do not create new repeated events. |
+| **WY14-VIS06** | A specific cue lapse and Sumika’s directional prompt return Kanoko to the page. | i053–055. The script is a practical working object, not only a thematic symbol. |
+| **WY14-VIS07** | Tears become visible during the farewell before their exact private cause is verbalized later. | i056–058, i072–073. Later testimony sharpens interpretation rather than all meaning being self-evident in a face. |
+| **WY14-VIS08** | Darkness, approach, kiss and separated faces are staged across i059–062; i060–061 is a source-facing pair. | The intimate act is reader-visible while audience access is qualified. Source page assignments, not grid adjacency, govern the layout claim. |
+| **WY14-VIS09** | Customer exit comments reframe the preceding spectacle through the fictional performance. | i064–066. The manga juxtaposes meanings rather than giving all viewers the same private knowledge. |
+| **WY14-VIS10** | Withdrawn Sumika and Nene’s nearby presence create a quiet listening space after public performance. | i069–076. Support is spatially offered, not a forced romantic reunion. |
+| **WY14-VIS11** | The stair setting returns for a new explanation, hand offer and accepted embrace. | i079–096. Recurrent architecture supports comparison with earlier care while the actual terms change. |
+| **WY14-VIS12** | Embarrassed faces and interrupted kiss offers end the serious agreement with comic uncertainty. | i097–098. Humor preserves desire and limits instead of proving they have disappeared. |
+| **WY14-VIS13** | Mai confronts Yoko with the phone image/messages rather than relying only on a generalized accusation. | i103–106. The selected image remains mediated evidence, not an exhaustive visual record of the hotel. |
+| **WY14-VIS14** | Yoko’s present street encounter leads into a library/senior memory and back to a current phone screen. | i119–124. The transition distinguishes remembered event, current cue, and retrospective interpretation. |
+| **WY14-VIS15** | The senior’s pleading closeness is followed by Yoko’s reassurance; the current profile contains adult/child imagery. | i121–124. Neither composition alone establishes exact romantic sameness or the child’s parentage. |
+| **WY14-VIS16** | The blocking label and Nene’s phone action make an interpersonal boundary materially visible. | i125. This is stronger than a purely imagined separation, but no later technical delivery/enforcement outcome is shown. |
+| **WY14-VIS17** | Covert hand contact is framed beneath/alongside the party’s broader conversation. | i133–136. Private relational meaning and group assumptions coexist in one social space. |
+| **WY14-VIS18** | Blushing, small-body comedy, food and body-position changes punctuate the party. | i137–146. Comic distortion does not make physical pressure, pain, or recipient discomfort analytically absent. |
+| **WY14-VIS19** | Kanoko’s large smiling portrait is paired with Sumika’s startled reception of the new personal-value statement. | i151–154; i152–153 is a facing pair. The recipient/context are stronger evidence than an isolated smile; romantic category remains expressly bounded. |
+| **WY14-VIS20** | Party images become a montage and then a later board beside the intact signed portrait. | i154–156. Image production, private use and later retention form a temporal chain; the board is the mainline coda, not a full-series endpoint. |
+
+### 12.1 The script is both a tool and a trap for interpretation
+
+The physical script helps recover a missed cue. Its fictional story also gives Sumika a model of release and Kanoko a model of the elder sister’s motives. These uses differ. The practical prompt can work even when the interpretive model is incomplete. That distinction is one reason the reading scene is more than a symbolic reenactment of the breakup: it tests actual cooperation, attention, concealment, and vulnerability within the same sequence. [VIS04–VIS08.]
+
+The page turn into the kiss changes the scale of intervention, but the following audience account prevents a simple equation between what the manga shows and what the fictional customers know. Darkness is not merely romantic atmosphere. It is an information condition. Later smiles and photographs are likewise not free-floating emotional proof; their force depends on who makes them, sees them, and keeps them.
+
+### 12.2 From the solitary portrait to a relation with a history
+
+The old signed portrait does not disappear. Its persistence matters because the new arrangement does not demand that Sumika destroy every object associated with her unreturned love. The new shared photograph changes the board’s relational history. What had been a highly charged image of Kanoko can coexist with an image of an actual jointly lived occasion and an explicitly acknowledged personal place. This is an interpretive account of the sequence, not a claim that the objects possess a single fixed symbolic meaning. [VIS19–VIS20; V13 supplemental photograph record.]
+
+Yoko’s phone offers a contrasting image use. The senior’s adult-and-child profile prompts a categorical conclusion about relationships that the visible image cannot prove. Nene’s blocking screen, by contrast, is an act she can actually perform about her own access boundary. The three object sequences—Yoko reading a profile, Nene blocking a contact, Sumika keeping photographs—show why a material object’s presence, an interpretation of it, and an action through it must not be collapsed.
