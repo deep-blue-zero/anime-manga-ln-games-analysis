@@ -107,7 +107,7 @@ Each lane may assert the claims its inspection route supports. A claim outside a
 | Offscreen sound, sound bridges, silence, spatial sound | Silence and energy by measurement. Queues source and bridge claims | Asserts |
 | Emotion, intention, motive | Inference or interpretation only | Inference or interpretation only. Perceiving delivery is not perceiving an inner state |
 
-Either lane may contest the other only with evidence on a channel it can inspect. The reconciliation protocol (Section 6) states how disputes between lanes are handled.
+Either lane may contest the other only with evidence on a channel it can inspect. The reconciliation protocol (Sections 4.3 and 5.1–5.2) states how disputes between lanes are handled.
 
 ## 5. Current owner lane assignment
 
