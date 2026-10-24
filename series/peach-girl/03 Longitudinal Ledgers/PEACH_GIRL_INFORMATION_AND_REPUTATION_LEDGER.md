@@ -5,7 +5,7 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.19"
+version: "0.20"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -1359,3 +1359,14 @@ These retrospective rows are learned after PG-FR-V18; represented story time rem
 | PG-TX-0059@2 / corrects TX0059 implicit@1 | Misao → receptionist, with Tōji/Kairi present / asserts school-teacher role and that parents contacted her about missing daughter. Receptionist gives room705. Parent-contact truth remains UNRESOLVED; tactical embellishment plausible, not proved lie. | V06 reception; learned after PG-FR-V18 in second-pass2026-10-24. PG-EV-V06-0014/0022, i0037/i0062; PG-SA2-F0005. Inner aside qualifies school-health role only. Later TX0063 overnight notice is distinct and cannot establish no earlier contact. |
 
 Current scoped information view: retain IP0022 DISPUTED with TX0023@2, and retrieve the reception assertion through TX0059@2 with earlier-call truth unresolved. The actual later overnight notification remains TX0063. No new public reach, broad claim, forecast or medical conclusion follows.
+
+
+## Second-pass V09 reported-recognition content — 2026-10-24
+
+The canonical F0008 corrects an item within a reported retrospective account. This transmission successor makes that content retrievable; it does not establish original rescue/CPR history or introduce a new narrative occurrence.
+
+| Transmission/version / prior | Sender → actual recipient / content and source status | Represented time, actual learned boundary / evidence / uncertainty |
+| --- | --- | --- |
+| PG-TX-0103@2 / expands and qualifies TX0103 implicit@1 | Kairi → Momo, V09 i0024–i0029: reports heart-stop/no-memory, asks her about CPR which she denies; i0025 says first hearing Momo's name during the early-school promiscuity rumor made him tentatively recall the rescuing girl's name. Later death-intent statement followed by joke retraction remains an inconsistent attributed report. | Learned after PG-FR-V18, second-pass2026-10-24. PG-EV-V09-0007 / PG-SA2-F0008; name recognition is his retrospective tentative account, not a lewd nickname substituted for her name or independently restaged original rescue. Original drowning intent and CPR recipient/history remain unresolved; no backdating to original prospective cutoff. |
+
+Current scoped V09 reported drowning/recognition content uses TX0103@2. IP0086, KN0098 and CL0007 retain their existing uncertainty and boundaries. Earlier TX0103 remains preserved; no backdating into original prospective knowledge. F0009 craft-shop setting and F0011 unspecified private recipient require no new information event because the existing domain records do not repeat those errors.

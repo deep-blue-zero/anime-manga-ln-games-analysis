@@ -5,7 +5,7 @@ artifact_type: claims_predictions_revisions_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.19"
+version: "0.20"
 status: active_provisional
 scope: "Claims, Predictions and Revisions; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -138,7 +138,7 @@ The governing method0.3 retrospective amendment permits exact source references 
 | --- | --- | --- | --- |
 | PG-CL-0001 | @5 / V14 | PG-RV-0097 | Scandal durability as attributed social model and Momo counterfactual |
 | PG-CL-0002 | @17 / V18 | PG-RV-0146 | Sae moves from genuine loss/finishedRaccount33 through helpful journey disclosure47–50 and comfort96 to forged K farewell176; local aid and harmful control coexist |
-| PG-CL-0003 | @16 / V18 | PG-RV-0147 | Sae repair remains selective: no-obligation choice50/comfort96 coexist with alarming impersonation176 and final comedy; historical V02 completed-hospital-kiss basis qualified by PG-SA2-F0001 via CS0017@2/RL0020@2/KN0267; broad current formulation unchanged. |
+| PG-CL-0003 | @16 / V18 | PG-RV-0147 | Sae repair remains selective: no-obligation choice50/comfort96 coexist with alarming impersonation176 and final comedy; historical V02 completed-hospital-kiss basis qualified by PG-SA2-F0001 via CS0017@2/RL0020@2/KN0267; historical V03 false/sexual-accusation basis qualified by PG-SA2-F0010 via CS0028@2; threat/coercion retained and broad current formulation unchanged. |
 | PG-CL-0004 | @2 / V02 | PG-RV-0003 | Authorship disclosure |
 | PG-CL-0005 | @13 / V18 | PG-RV-0148 | Tōji genuinely waits81/comforts105/stops115, later blocks/pins123–125/pressures128/intimacy130–132, then stops133/releases144 |
 | PG-CL-0006 | @18 / V18 | PG-RV-0149 | Kairi explicitly onlyM21 but forces taxi9–16; later refusesmeddling86/searchescase111/retrieves159/accident163/actualreunion175; V02 release refusal explicit in PG-SA2-F0002/CM0193/RL0022@2; reciprocal journey agency in PG-SA2-F0003/RL0021@2; broad current formulation unchanged. |
@@ -833,3 +833,8 @@ These retrospective rows are learned after PG-FR-V18; represented story time rem
 | CL0003@2 / RV0002 staged-kiss item; current CL0003@16 PRESERVED | F0001/PG-SA2-V02-0001 corrects a completed hospital kiss to a strongly supported interrupted near-kiss/display attempt. Deliberate slipping remains unproved; broader deliberate manipulation has independent source support. Preserve original historical wording with this later qualifier. | CS0017@2/RL0020@2/KN0267; IP0029@2 retained with corrected historical basis. No new claim version or forecast. |
 | CL0006@2 and broader current CL0006@18 PRESERVED | F0002/PG-SA2-V02-0002 makes the explicit post-assistance release refusal retrievable. Advice/help/refusal of Sae alliance remain true; no universal-respect inference was established. | CS0288/RL0022@2/CM0193; IP0019/TX0017 source-versus-observer qualification. No new claim version. |
 | Existing Momo agency/relationship claims PRESERVED | F0003/PG-SA2-V02-0003 repairs transport compression through a context-specific decision event. No new general personality or automatic moral-equivalence claim follows. | CS0289/RL0021@2/CM0194; mature Momo/Kairi/agency/form/dossier review remains an obligation, not already completed. |
+
+
+## Second-pass V03 historical factual-basis qualification — 2026-10-24
+
+PG-SA2-F0010 qualifies the historical factual basis of PG-CL-0003@3 and PG-RV-0007. V03 EV0024 establishes a conditional report threat using 乱暴された plus school-exclusion warning; specifically sexual content and a wholly fabricated allegation are unestablished. The separate direct method statement EV0025, sabotage instruction, testimony and subsequent behavior continue to support deliberate/methodical deception. This does not withdraw that broad claim, revise CL0003@16 or its V18 terminal formulation, allocate a new RV, rescore any forecast, or backdate analyst/character knowledge. Historical character retrieval uses CS0028@2, while all original formulations remain preserved.

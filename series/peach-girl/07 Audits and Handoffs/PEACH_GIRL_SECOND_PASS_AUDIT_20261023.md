@@ -5,7 +5,7 @@ artifact_type: source_audit
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: active_provisional
 scope: "Independent retrospective source reinspection, reconciliation and analytical depth assessment; in progress"
 source_boundary: "Already-admitted original Japanese 新装版 V01–V18; no new narrative admission"
@@ -91,7 +91,7 @@ Counts include every OPF spine occurrence; narrative and nonmainline classificat
 
 **Pass A COMPLETE: 18/18 volumes, 3198/3198 originals, 0 mandatory unread/access gaps.** The [sanitized all-volume source receipt](PEACH_GIRL_SECOND_PASS_SOURCE_RECEIPTS_20261023.json) binds exact witness metadata, reader attribution, finalized note/receipt hashes and UTC timestamps. Its independently verified private aggregate was frozen at 2026-10-24T03:39:24Z, SHA-256 `bba07c7e03dce17a92330d7466e4ac59fd9e40eeca167679eca3ab7058e0254f`, before Pass B. The verifier checked current hashes, source/archive/local-image bindings and coverage declarations; it performed no additional visual reread.
 
-**Pass B IN PROGRESS.** Root completed full prior readings/exits and source reconciliation through V07; the attributed V08 comparison is complete and accepted, V09–V10 comparison is in progress, and V11–V18 remain pending. The [canonical reconciliation and supplements](PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md) own seven accepted bounded findings, three new V02 observations and the navigable all-volume historical routes. A minimal four-ledger correction transaction and the Sae monograph actor correction are applied; mature deepening and semantic gates remain open. The historical 177-image sample contributes zero second-pass coverage.
+**Pass B IN PROGRESS.** Root completed full prior readings/exits and source reconciliation through V07; the attributed V08–V10 comparisons are complete and accepted, and V11–V18 remain pending. The [canonical reconciliation and supplements](PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md) own eleven accepted bounded findings, three new V02 observations and the navigable all-volume historical routes. A minimal four-ledger correction transaction and the Sae monograph actor correction are applied; mature deepening and semantic gates remain open. The historical 177-image sample contributes zero second-pass coverage.
 
 Preservation correction: a procedural check found 18 missing Windows ReadOnly flags on the finalized V06-V10 and V15-V18 notes/receipts. All contents already matched their recorded digests. The flags were set at 2026-10-24T03:29:58Z, with before/after matching hashes and root-attested unchanged mtimes. All 36 final note/receipt files are now ReadOnly. This does not imply the flags existed at original finalization. The public receipt binds the retained remediation record.
 
@@ -112,7 +112,7 @@ Specialist changes and the integrated argument must follow source-to-synthesis c
 | Responsibility | Second-pass disposition |
 | --- | --- |
 | Complete independent source reinspection | COMPLETE; 18/18 volumes, 3198/3198 originals; frozen source-first receipts verified |
-| Longitudinal/claim reconciliation | IN_PROGRESS; V01–V08 full comparisons, seven accepted bounded findings, F0001–F0005 ledger transaction applied; later comparison and mature propagation pending |
+| Longitudinal/claim reconciliation | IN_PROGRESS; V01–V10 full comparisons, eleven accepted bounded findings, narrow F0001–F0005/F0008/F0010 ledger transactions applied; later comparison and mature propagation pending |
 | G3 responsibility/depth reassessment | PENDING |
 | G4 reconstruction reassessment | PENDING; existing operational blocker retained |
 | G5 convergence/role-gap reassessment | PENDING |
@@ -134,3 +134,5 @@ Procedural exposure disclosure: an attempted raw proof inspection returned trunc
 Revision 0.2 — 2026-10-23 owner date / 2026-10-24 UTC: all 18 source-first note receipts and independent aggregate finalized; 3198 originals attributed to four direct readers; ReadOnly remediation and own source-attribution correction disclosed; Pass B opened. No semantic gate, remote publication or Ready transition certified.
 
 Revision 0.3 — 2026-10-24: ordered comparison through V07, canonical source errata/supplements, bounded four-ledger corrections and Sae monograph attribution repair. Separate corrections to auditors' frozen notes are disclosed without changing them. Four principal monographs, ensemble, directional study, three specialists and full synthesis have received a complete preparatory read; depth review remains open. G4 originals/failures remain byte-preserved; no new gate, remote publication or Ready transition certified.
+
+Revision 0.4 — 2026-10-24: ordered V09/V10 reconciliation complete; precise recognition/venue/threat/recipient corrections added. All four source-derived character matrices frozen privately with preserved note hashes and separate own-note qualifications; source-to-synthesis and dossier proposals in progress. No second-pass semantic gate or Ready decision yet.

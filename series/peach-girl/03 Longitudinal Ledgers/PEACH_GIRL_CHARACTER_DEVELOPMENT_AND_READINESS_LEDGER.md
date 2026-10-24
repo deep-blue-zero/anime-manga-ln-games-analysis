@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.20"
+version: "0.21"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -703,3 +703,14 @@ F0005 qualifies a factual basis of the existing care account; it creates no new 
 | PG-CS-0052@2 / PG-CHAR-0005 / corrects CS0052@1 | V06 night/morning; learned after PG-FR-V18 in second-pass2026-10-24. Driving limitation, institutional access, stopping violence, treating injuries and asking Momo's wishes remain. At reception Misao asserts parental contact; its truth is unverified, rather than established false. Later she reports notifying home of the overnight stay; that does not establish the first-ever contact. | PG-EV-V06-0014/0022, i0037/i0062; PG-SA2-F0005, TX0059@2/RL0074@2. Tactical embellishment remains plausible; inner role qualification concerns her school-health role, not an admitted parent-call lie. Preserve all other care/secondary-hurt observations from CS0052@1. No knowledge of the full scheme or universal honesty inferred. |
 
 Current Misao retrieval retains her V18 narrative states; CS0052@2 replaces only the historical V06 parent-contact certainty. Practical help and its institutional framing remain evidenced. Later household notification TX0063 remains distinct.
+
+
+## Second-pass V03 threat-content successor — 2026-10-24
+
+Learned after PG-FR-V18; represented time remains the V03 swim meet. The canonical [F0010](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md#pg-sa2-f0010--teacher-report-threat-overspecified-as-sexual-and-wholly-fabricated) qualifies a historical source assertion, not the terminal V18 character state. Original rows and forecasts remain preserved.
+
+| State/version | Character / predecessor | Story time / learned boundary | Material state | Evidence | Limits |
+| --- | --- | --- | --- | --- | --- |
+| PG-CS-0028@2 | PG-CHAR-0003 / CS-0028@1 | Historical swim meet / V03; retrospective source correction after V18 | FACTUAL_BASIS_QUALIFICATION: instructs sabotage; conditionally threatens to tell the teacher that Kairi treated her violently (乱暴された) and warns he cannot remain at school to suppress disclosure; specific sexual content and wholly fabricated allegation unestablished; explains her separate method; exposed by testimony; abandoned by coalition | PG-EV-V03-0014, -0015, -0024, -0025, -0035, -0036; PG-SA2-F0010 | Still asserts victimhood; prior actual aggression means report truth-content cannot be globally declared false |
+
+Current scoped V03 Sae retrieval uses CS0028@2; CS0036 retains its historical predecessor wording and is read through F0010. Terminal CS0287 remains unchanged. No new source event, clinical/legal classification or forecast result follows.
