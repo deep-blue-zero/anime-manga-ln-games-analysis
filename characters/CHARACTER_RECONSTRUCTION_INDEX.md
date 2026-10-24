@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 8
+- Recorded totals: `CANDIDATE` 10
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -65,6 +65,37 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `written-japanese-not-anime-voice` (evidence-backed limitation): The voice model is a written-Japanese idiolect and discourse model; anime acting, prosody and staging are excluded, no generated dialogue or hypothetical reconstruction is evidence, and the profile warns that synthetic Japanese must not fill a lexical gap.
 - Evidence at basis commit:
   - [`86-eighty-six:shinei-nouzen@original-light-novels#86-shinei-nouzen-character-reference-profile`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/dd7112797976a61f5e85517b86a233f597ecbb1d/series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_SHINEI_NOUZEN_CHARACTER_REFERENCE_PROFILE.md)
+
+### Subject `blue-archive:aru@game`
+
+#### Assessment `blue-archive-aru-game-c001-distributed-20261024-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `blue-archive:aru`
+- Scope: continuity `blue-archive-game`
+- Source boundary: Only the three reviewed evidence items curated on blue-archive:aru@game at basis\_commit: blue-archive:aru@game\#chapter-1-checkpoint, the canonical MAIN\_V001\_C001 checkpoint, read in full; blue-archive:aru@game\#character-state-ledger and blue-archive:aru@game\#voice-address-ledger, the two active\_provisional cumulative series-wide ledgers, read in their boundary, baseline and Chapter 1 \(E008-E020\) sections and in every entry that names Aru, including the Chapter 2 entries, which bound this assessment without extending it. All three are reviewed repository analysis of the pinned Japanese main-story text; the ledgers remain visibly provisional. The project's CURRENT\_STATE\_AND\_CORPUS\_MAP.md was read for method, authority order and scope only. Its PARTIAL\_MODEL readiness census, the project reconstruction specification and bootstrap audit, the E008-E020 deep readings, the other five ledgers, group, bond, MomoTalk and event material and the Phase 3 packages are not curated evidence on this subject and nothing is borrowed from them. No primary-source inspection, performed voice or adaptation is included.
+- Temporal boundary: Chapter 1 of the Countermeasures Committee arc only, BA:main:001:001:008 through BA:main:001:001:020 as reconciled at the MAIN\_V001\_C001 checkpoint, with the E020 chapter boundary as the default state: public post hoc ratification of the Shiba Seki demolition, the success-fee rule in force and the Prefect Team confrontation unresolved. The same ledgers record later Chapter 2 conduct \(reciprocal alliance, reparation, refusal of former-client control\) that contradicts a projection of this default, so no later state is established here, and no in-world calendar time is fixed.
+- Basis commit: `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `5970754c19a6907e50c87cacff0b14af18d7c1ce7d7231e563b99116472787f1`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology The E020 Chapter 1 boundary state, or one named unit from E008 to E019, with the Prefect Team confrontation and her adopted culpability unresolved.; interlocutor PS68 members \(Mutsuki, Kayoko, Haruka\), the Abydos Countermeasures Committee, the Kaiser PMC client or the Shiba Seki proprietor in their Chapter 1 relations.; settings Abydos district contract, raid, restaurant or battlefield situations of the kinds narrated in E008-E020; No Chapter 2 or later development, supplemental story, bond or MomoTalk material; No performed voice or adaptation
+  - `PROFESSIONAL_CONTEXT` condition: Only PS68 contractor situations of the kinds attested: accepting a job from a barely known client \(E012\), refusing advance payment under the success-fee rule and stating its rationale \(E017\), and the command-ambiguity failure in which a subordinate acts on inferred desire \(E018-E019\).
+  - `PROFESSIONAL_CONTEXT` condition: Chronology is the Chapter 1 state; no later client relation or alliance is used.
+  - `PROFESSIONAL_CONTEXT` condition: Output is a behavioral tendency, not quoted dialogue, and retains the weak internal command-confirmation safeguard rather than a reformed organization.
+  - `PROFESSIONAL_CONTEXT` condition: The client's identity, PS68's economics beyond attested scarcity and any outcome after E020 end in abstention.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` NOT_ASSESSED; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `attribution-anomalies-and-written-register` (evidence-backed limitation): The checkpoint records inconsistent early speaker mappings and quarantined E019 and E020 attributions, and the voice ledger quarantines E014 u:0039; voice claims rest on clean lines only, and written Japanese register is not performed voice.
+  - `chapter-1-state-superseded` (evidence-backed limitation): The two ledgers extend to all 480 main units, and their Chapter 2 entries record Aru answering Abydos protection with 信頼には信頼で報いる, refusing renewed violence, leaving money for Shiba Seki repairs and rejecting former-client control; the Chapter 1 default state assessed here must not be presented as her later state, and those later entries lie outside this subject's curated coverage.
+  - `demolition-responsibility` (evidence-backed limitation): Haruka triggered the Shiba Seki demolition without an affirmative order; Aru's responsibility is post hoc public ratification, whose correction the checkpoint lists as open. Pre-blast intent to destroy the restaurant is contradicted.
+  - `provisional-ledger-authority` (evidence-backed limitation): Two of the three evidence items are active\_provisional cumulative ledgers whose Aru content is unit deltas and one summary row; their provisional status and the checkpoint's deferral of contextual backfill mean no PS68 private, group or bond material informs the assessment.
+  - `uncurated-corpus` (evidence gap): The E008-E020 deep readings holding exact utterance locators, the other five ledgers, the project reconstruction specification and bootstrap audit, PS68 group and bond stories and the Japanese source itself are not curated evidence on this subject and were not used; missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`blue-archive:aru@game#chapter-1-checkpoint`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md)
+  - [`blue-archive:aru@game#character-state-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md)
+  - [`blue-archive:aru@game#voice-address-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md)
 
 ### Subject `harmony:tuan-kirie@original-novel`
 
@@ -171,6 +202,54 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `wind-reading-fallible-and-reduced` (evidence-backed limitation): Her lie detection is working but bounded: she finds no lie yet labels Subaru's account madness \(E09\), is misled about the phone and accepts a false metia inference \(E10, E15\), and self-reports reduced blessing control after memory loss \(E27\). Sincere belief does not establish objective truth, and no numeric accuracy or range exists.
 - Evidence at basis commit:
   - [`re-zero:crusch-karsten@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/297bc0d05040a24facbeb5440481b9c604de5568/series/re-zero/05%20Character%20Analysis/REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md)
+
+### Subject `re-zero:garfiel-tinsel@light-novel`
+
+#### Assessment `re-zero-garfiel-tinsel-ln-v10-v15-model-20261024-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `re-zero:garfiel-tinsel`
+- Scope: continuity `re-zero-main-light-novels`
+- Source boundary: Only re-zero:garfiel-tinsel@light-novel\#character-model, the canonical derived-use model REZERO\_GARFIEL\_TINSEL\_V10\_V15\_CHARACTER\_MODEL.md at basis\_commit, read in full as reviewed repository analysis of the original Japanese main light novels V10-V15. The project's CURRENT\_STATE\_AND\_CORPUS\_MAP.md and 05 Character Analysis README were read for method, authority order and scope only. The separate same-analyst fidelity review, the frozen V10-V15 readings, the master and five owner ledgers, the Arc 4 checkpoint, the reconstruction protocol, the source lock and the Japanese EPUBs are not curated evidence on this subject and nothing is borrowed from them. The model's MONOGRAPH\_READY and PASS\_WITH\_BOUND labels and its HIGH and MEDIUM confidence tags are inputs, not conclusions. No V16 or later volume, web novel, IF, supplement or anime material is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Garfiel's states from the represented pre-trial childhood and the early Sanctuary protector phase \(E013 through E017 as analytical loop states\) through the E018 sequence of suspicion, defeat, renewed first trial, outside defense and settlement, with the model's default being living E018 at the V15 month-later party with Frederica. The model's declared horizon is V10-V15; V16 and later states, which the project has since admitted, are expressly not established here, and every default-state use must name that horizon. No in-world calendar dates are fixed, and the Ram chronology the project marks OPEN is not resolved.
+- Basis commit: `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `a7ed5475b4c5f11125530a05943e3743b69522166b975fdb5507642bff412f08`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Written Japanese register only, as section 9 defines it; no anime delivery, prosody or audiovisual staging.
+  - `DIALOGUE` condition: The speaker is human or partial-form Garfiel; full-tiger speech is not generated, and Frederica's V11 feline speech is never routed to him.
+  - `DIALOGUE` condition: The interlocutor is an attested recipient in an attested phase, with the address the model supports for that relation \(大将 only after the first pass, 姉ちゃん to the real sister\).
+  - `DIALOGUE` condition: Content, recipient and phase are selected before orthographic imitation; unsampled politeness or vocabulary ends in JAPANESE\_REGISTER\_SAMPLE\_TOO\_NARROW rather than invention.
+  - `DIALOGUE` condition: Output is noncanonical reconstruction output and is never cited as evidence.
+  - `CROSS_SCENARIO` condition: Chronology is one named V10-V15 state, by default living E018 at the V15 party; no V16 or later, IF, web-novel or anime state is used, and the horizon is stated.
+  - `CROSS_SCENARIO` condition: Knowledge is limited to section 8.1: no E015-E017 memories, no RBD, tea, confidential bargain, soul procedure, terrace or coda receipt.
+  - `CROSS_SCENARIO` condition: The interlocutor is an attested recipient in an attested relation, or an unsupported new person handled by R28 with abstention on trust, office and history.
+  - `CROSS_SCENARIO` condition: The situation matches the classes the seven probe pairs and the rules cover \(intrusion, protective requests, mundane help, same-face search, patron confrontation, party drink, bodily form\); output is a behavioral tendency with the model's HIGH or MEDIUM label, and UNKNOWN is a stop.
+  - `CROSS_SCENARIO` condition: The section 0.1 correction is enforced, and no readiness is inherited from the model's MONOGRAPH\_READY or PASS\_WITH\_BOUND labels.
+  - `CROSS_SCENARIO` bounds: chronology One named V10-V15 state, by default living E018 at the V15 month-later party after his own first trial pass, the outside defense and the for-now oath settlement; earlier states only when explicitly selected with their own knowledge and resources.; interlocutor Ram, the real Frederica, Subaru, Otto, the particular Ryuzu representatives, Emilia, Roswaal, Petra, or Elsa and Meili in combat, each in its attested register; strangers only under R01, R04 and R28 with abstention on trust and office.; settings Sanctuary, the Roswaal mansion, the outside fight or the household party as narrated; No crossover institution, technology or cultural assumption outside the V10-V15 corpus; Human, partial or full-beast form selected explicitly with its resource limits; UNKNOWN and ORDINARY\_LIFE\_EVIDENCE\_INSUFFICIENT end in abstention
+  - `MUNDANE_SOCIAL` condition: Scenes of attested kinds only: elder care, reading, sibling teasing and correction, community stewardship, formal dress, the party drink attempt, letters.
+  - `MUNDANE_SOCIAL` condition: Favorites, money, routine, sleep hours and alcohol rules end in abstention; Otto's drunkenness is not transferred to Garfiel.
+  - `MUNDANE_SOCIAL` condition: Rough speech is kept with the care it accompanies; neither is generalized into a global harmless or hostile reading.
+  - `ETHICAL_DELIBERATION` condition: Only the attested classes: protecting versus confining, using or sparing a particular person, accepting correction without surrendering judgment, demanding a commitment from a patron, and conditional mercy toward a lethal enemy.
+  - `ETHICAL_DELIBERATION` condition: The selective kinship ethic \(named grandmothers versus ordinary copies\) and his coercive tendencies remain in force; no reformed universal ethic is supplied.
+  - `ETHICAL_DELIBERATION` condition: A triage or ranking the source does not give \(P03B\) ends in abstention, and no clinical diagnosis or prognosis is produced.
+  - `ROMANCE_RELATIONSHIP` condition: Garfiel-side only, with Ram as recipient in an attested phase \(E013-E018\); her explicit refusal of marriage, independent commitments and ability to fight him are retained.
+  - `ROMANCE_RELATIONSHIP` condition: Attraction is expressed through boasting, worry, argument and a wish for reassurance, not reciprocal intimacy; her lap and promised comfort are not consent.
+  - `ROMANCE_RELATIONSHIP` condition: Elsa's possessive profession is never reciprocated, and no later romantic state is asserted.
+  - `PROFESSIONAL_CONTEXT` condition: Attested roles only: local shield and steward, temporary captor as an adverse case, apostle command in its demonstrated scenes, chosen outside defender and task division under R19 and R25.
+  - `PROFESSIONAL_CONTEXT` condition: Commander is not employment, sovereignty or unlimited obedience; the welfare condition on cooperation stays live.
+  - `PROFESSIONAL_CONTEXT` condition: Resources follow the scene: no infinite earth aid, refill or eyesight-range attack.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `horizon-v10-v15-default-not-current` (evidence-backed limitation): The model declares its horizon as V10-V15 and its default as the V15 party, forbids retrofitting later source into that horizon and states that later Garfiel maintenance must name new admitted evidence; the default is therefore the end of this evidence set, not the continuity's latest state.
+  - `memory-and-knowledge-firewall` (evidence-backed limitation): Current Garfiel does not remember the E015 killings, the E016 death or the E017 Ram treatment, and lacks RBD, private bargain, soul procedure, terrace and coda knowledge; section 8.1 governs what he can know.
+  - `same-analyst-documentary-review-only` (evidence-backed limitation): The model records its fidelity state as PASS\_WITH\_BOUND, same analyst, nonblind, documentary, with no held-out, runtime or global grade, and sets do\_not\_use\_as\_primary\_literary\_authority to true as a derived-use artifact subordinate to the frozen readings and the Japanese source.
+  - `source-identity-correction-mandatory` (evidence-backed limitation): Section 0.1 corrects an inherited misattribution: the V11 speaking, partly healing full feline is Frederica; Garfiel's full tiger lacks reason in V13 and reverts to human before speech in V15. Any Garfiel full-form speech or healing claim built on the inherited label is invalid.
+  - `uncurated-later-and-adjacent-material` (evidence gap): The separate fidelity review, the frozen V10-V15 readings, the ledgers, the protocol and the Japanese EPUBs are not curated on this subject, and the project's later admitted volumes containing Garfiel material lie outside this set; none was used, and missing support is not evidence of absence.
+  - `unresolved-history-and-motives` (evidence-backed limitation): Maternal fate and motive, the fathers' lives, the function of the scar, the weighting of unspoken motives, exact alcohol and other ordinary-life facts, and whether the new distribution of protection holds under future failure remain open in the model's own terms.
+- Evidence at basis commit:
+  - [`re-zero:garfiel-tinsel@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/re-zero/05%20Character%20Analysis/REZERO_GARFIEL_TINSEL_V10_V15_CHARACTER_MODEL.md)
 
 ### Subject `re-zero:mimi@light-novel`
 
