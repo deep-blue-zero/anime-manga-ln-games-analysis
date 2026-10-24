@@ -2,12 +2,12 @@
 title: Manga / Anime Project Initiation and Architecture Policy
 artifact_id: MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY
 artifact_type: project_initiation_architecture_policy
-version: 1.9
+version: "1.10"
 status: canonical
 generation: V1
 scope: corpus-wide analytical project initiation and architecture governance
 created: 2026-08-27
-last_updated: 2026-10-20
+last_updated: 2026-10-24
 maintainer: ChatGPT + user
 source_boundary: "Corpus-wide governance for new and existing anime, manga, light-novel, novel, game, and related analytical projects"
 supersedes: null
@@ -128,7 +128,16 @@ The method should govern **how the source will be read**. Depending on medium an
 - contradiction handling within a sequential reading;
 - what each sequential artifact must update before it can be considered complete.
 
-For a new anime project with no existing analytical method, the [Generic Source-Bounded Anime Episode Analytical Method](../analytical-methods/GENERIC_ANIME_EPISODE_ANALYTICAL_METHOD.md) may be used as an optional bootstrap/design reference. It does not itself satisfy the project-local governing-method requirement. The project must adapt or author a series-specific method after source reconnaissance, include only analytically justified modules, pair it with a synthesis/corpus architecture, and expose both through the canonical project entrypoint before sequential analysis is unlocked.
+For a new project with no existing analytical method, the corpus reference methods in `governance/analytical-methods/` may be used as optional bootstrap/design references:
+
+- anime episodes: the [Generic Source-Bounded Anime Episode Analytical Method](../analytical-methods/GENERIC_ANIME_EPISODE_ANALYTICAL_METHOD.md);
+- continuous audiovisual analysis: the [Generic Source-Bounded Continuous Audiovisual Analytical Method](../analytical-methods/GENERIC_CONTINUOUS_AUDIOVISUAL_ANALYTICAL_METHOD.md);
+- manga: the [Generic Source-Bounded Manga Analytical Method](../analytical-methods/GENERIC_MANGA_ANALYTICAL_METHOD.md);
+- light novels and novels: the [Generic Source-Bounded Novel Analytical Method](../analytical-methods/GENERIC_NOVEL_ANALYTICAL_METHOD.md);
+- games, including live-service games, branching narratives, and extracted game data: the [Generic Source-Bounded Game Analytical Method](../analytical-methods/GENERIC_GAME_ANALYTICAL_METHOD.md);
+- character reconstruction: the [Generic Character Reconstruction Method](../analytical-methods/GENERIC_CHARACTER_RECONSTRUCTION_METHOD.md).
+
+The [medium and inspection-lane routing policy](MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md) states which reference fits which medium and inspection lane. None of these references itself satisfies the project-local governing-method requirement. The project must adapt or author a series-specific method after source reconnaissance, include only analytically justified modules, pair it with a synthesis/corpus architecture, and expose both through the canonical project entrypoint before sequential analysis is unlocked.
 
 ## 3.4 Governing synthesis/corpus architecture established
 
@@ -141,6 +150,8 @@ Typical filename:
 or a coherent project-specific equivalent.
 
 The architecture should govern **what analytical corpus the readings are building**. It must satisfy the Minimum Semantic Contract in Section 5.
+
+The [Generic Multi-Document Synthesis Architecture Template](../analytical-methods/GENERIC_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_TEMPLATE.md) may be used as an optional bootstrap reference. Like the reference methods, it does not itself satisfy this requirement and must be adapted to the project in proportion to its source (Section 11).
 
 ## 3.5 Canonical entrypoint established
 
@@ -942,6 +953,11 @@ This policy exists so that the corpus never again reaches the end of a long sequ
 ---
 
 # Changelog
+
+## v1.10 — 2026-10-24 — Corpus reference foundations
+
+- Lists the corpus reference methods for anime, continuous audiovisual analysis, manga, novels, games, and character reconstruction, and the reference synthesis architecture template, as optional bootstrap references.
+- Routes medium and inspection-lane selection to the medium and inspection-lane routing policy. The gate requirements are unchanged.
 
 ## v1.9 — 2026-10-20 — Reviewed independent frozen publication
 
