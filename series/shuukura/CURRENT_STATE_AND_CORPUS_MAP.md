@@ -5,14 +5,14 @@ artifact_type: corpus_map
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.44"
+version: "1.45"
 status: active_provisional
 scope: "Single current entrypoint for a material analytical restart at the continuing Shuukura root"
-source_boundary: "Frozen I1 plus five accepted BW bonuses; LN01–09,23 supplements and KAK-JP-E0001–E0014 through whole transactions; E0015+ unread, main LN10/E0432+/premature V1 excluded"
+source_boundary: "Frozen I1 plus five accepted BW bonuses; LN01–09,23 supplements and KAK-JP-E0001–E0015 through whole transactions; E0016+ unread, main LN10/E0432+/premature V1 excluded"
 canonical_home: series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0014_COMPLETE_SOURCE_CORRESPONDENCE_AND_CUMULATIVE_REVIEW
+review_status: E0015_COMPLETE_SOURCE_CORRESPONDENCE_AND_CUMULATIVE_REVIEW
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -38,14 +38,14 @@ project_initialization:
   owner_review: CURRENT_OWNER_INSTRUCTION_AUTHORIZES_VALIDATED_BOOTSTRAP_ADOPTION
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_ORDERED_I1_UNIT_ADMISSION
-  next_permitted_operation: KAK-JP-E0015
+  next_permitted_operation: KAK-JP-E0016
 sequential_execution:
   mode: continuous_sequential
   unit_type: other
   authorized_start: LN-JP-V01
   terminal_boundary: SHUUKURA-V2-20261017-I1
-  committed_high_water_mark: KAK-JP-E0014
-  next_candidate_operation: KAK-JP-E0015
+  committed_high_water_mark: KAK-JP-E0015
+  next_candidate_operation: KAK-JP-E0016
   confirmation_between_units: false
   run_state: active
   inventory_freeze_state: FROZEN_AVAILABLE_UNITS_AND_EXPLICIT_MANDATORY_GAPS
@@ -53,10 +53,10 @@ sequential_execution:
   authorization_record: "08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#owner-resumed-continuous-kakuyomu-analysis--2026-10-23"
 analytical_execution:
   authorization: OWNER_RESUMED_CONTINUOUS_KAKUYOMU_I1_FROM_E0006
-  sequential_units_admitted: 46
-  sequential_units_completed: 46
-  committed_narrative_high_water_mark: KAK-JP-E0014
-  character_reconstruction_readiness: E0014_SOURCE_FIT_LIMITS_GIFT_AND_ACADEMIC_PRESSURE_NOT_VALIDATED
+  sequential_units_admitted: 47
+  sequential_units_completed: 47
+  committed_narrative_high_water_mark: KAK-JP-E0015
+  character_reconstruction_readiness: E0015_SOURCE_FIT_PRIVATE_LOSS_REGRET_AND_FRIENDSHIP_NOT_VALIDATED
 scoped_backfill:
   inventory: "00 Frameworks and Methods/SHUUKURA_V2_BW_BACKFILL_INVENTORY_20261022_A1.json"
   ordered_units: [BW-JP-V02, BW-JP-V04, BW-JP-V05, BW-JP-V08, BW-JP-V10]
@@ -71,8 +71,8 @@ web_execution:
   authorized_from: KAK-JP-E0006
   terminal_episode: KAK-JP-E0431
   frozen_episode_count: 431
-  last_complete_episode: KAK-JP-E0014
-  next_episode: KAK-JP-E0015
+  last_complete_episode: KAK-JP-E0015
+  next_episode: KAK-JP-E0016
   execution_status: active
   resumption_record: "08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#owner-resumed-continuous-kakuyomu-analysis--2026-10-23"
 repository_state:
@@ -89,13 +89,13 @@ This is the single V2 first-read surface for **週に一度クラスメイトを
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-`NEXT_PERMITTED_OPERATION = KAK-JP-E0015`
+`NEXT_PERMITTED_OPERATION = KAK-JP-E0016`
 
 ## Current execution
 
-The frozen Kakuyomu lane is complete through **[E0014](03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0014_DEEP_READING.md)**, WEB **14/431**, only through its whole introducing transaction. Sendai's voiced relationship limit, directly represented pain/restraint and anger coexist with Miyagi's denial and material justification. Replacement-clothing use, an offered gift and a unilateral future return remain distinct; no apology, agreed repair, performed return or new fee follows. Private family/university pressure and the closing pamphlet add Sendai-own information without transferring it to Miyagi. March/current second-year and expected April contact retain their proper modes. The [latest checkpoint](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#e0014-complete-limits-contested-gift-and-academic-pressure--2026-10-24) binds the full encounter, finite witness differences and all four cumulative instruments.
+The frozen Kakuyomu lane is complete through **[E0015](03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0015_DEEP_READING.md)**, WEB **15/431**, only through its whole introducing transaction. Miyagi's own account adds childhood mother-departure memory, a retrospective reason for provoking anger, failed reassurance and regret with a renewed wish for Sendai's presence. The explanation reaches the reader without being delivered to Sendai or proving every prior step planned. Positive Maika friendship, actual text exchange and an agreed tomorrow-film plan coexist with Sendai preoccupation; the outing and tentative class-based choice remain unperformed. Sendai's latest own endpoint remains E14. The [latest checkpoint](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#e0015-regret-and-private-reasons-for-feared-absence--2026-10-24) binds the complete original encounter, finite witness differences and all four cumulative instruments.
 
-The [later owner resumption](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#owner-resumed-continuous-kakuyomu-analysis--2026-10-23) keeps frozen E0431 and the original dependent I1 stages **active without routine confirmation**. E0015is the next unread unit after the whole E14commit. Coverage is **46/463 additive** and **41/458 original I1**, including LN01–09 and23supplements. All nine local Bookwalker holdings match accepted readings; the five added backfills are integrated through PR280. The full architecture remains unfinished. Earlier pauses remain dated history; mainLN10/E0432+/automatic releases/prematureV1stay excluded, and both OFFarchives stay local.
+The [later owner resumption](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#owner-resumed-continuous-kakuyomu-analysis--2026-10-23) keeps frozen E0431 and the original dependent I1 stages **active without routine confirmation**. E0016 is the next unread unit after the whole E15 commit. Coverage is **47/463 additive** and **42/458 original I1**, including LN01–09 and 23 supplements. All nine local Bookwalker holdings match accepted readings; the five added backfills are integrated through PR280. The full architecture remains unfinished. Earlier pauses remain dated history; main LN10/E0432+/automatic releases/premature V1 stay excluded, and both OFF archives stay local.
 
 ## Preserved finite bonus checkpoint — 2026-10-22
 
@@ -109,10 +109,10 @@ The finite lane is complete through BW10; execution stops after its verified ups
 | --- | --- |
 | Primary LN witnesses | V01–V09 exact acquired Japanese editions admitted for ordered reading; all source hashes, colophons and native locator manifests verified; conversion-history limits retained |
 | Accessible supplements | Original18complete plus5newBW=23current; finite lane5/5. Pending: NONE in this finite lane. Whole-source acceptance resolves4named I1 gap candidates; BW10 is a new bonus-only addition. Both OFF archives stay local. |
-| Web witnesses | Kakuyomu14/431 through whole E0014; E0015unread and next under active frozen E0431continuation. Original41/458 is separate from additive46/463. Narō0/290,27discovery duties and modality obligations remain unfinished. |
+| Web witnesses | Kakuyomu15/431 through whole E0015; E0016 unread and next under active frozen E0431 continuation. Original42/458 is separate from additive47/463. Narō0/290,27 discovery duties and modality obligations remain unfinished. |
 | Frozen extent | Original I1 membership/hash remains immutable, including LN01–09. A separate finite addendum binds BW02/04/05/08/10. Main LN10, E0432+ and automatic future releases remain excluded. |
-| Literary coverage | LN01–09,23supplements and E0001–E0014complete through whole transactions. E14adds voiced limits/direct pain, material justification and contested gift-use/return, with private school/family pressure and modal future expectations. Miyagi current observables remain distinct from her last own interiorE10; prior uncertainties and novel/adult/bonus clocks remain separate. G3–G7unfinished. |
-| Longitudinal state | Four logical ledgers, current files1.37: 213claim IDs/645formulations/1022propositions/185rules. Current E14own/observed/directional states preserve private knowledge, scope and counterevidence. Every older form remains. The exact historical master and [current continuation01](04%20Longitudinal%20Ledgers/SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_01.md) remain one logical disclosure instrument. |
+| Literary coverage | LN01–09,23 supplements and E0001–E0015 complete through whole transactions. E15 adds Miyagi own mother-departure memory, anger/loss explanation, regret, Maika friendship and prospective film plan. Sendai latest own/direction remains E14; private access, tentative futures, prior uncertainties and novel/adult/bonus clocks remain separate. G3–G7 unfinished. |
+| Longitudinal state | Four logical ledgers, current files1.38: 217claim IDs/657distinct formulations/1046propositions/186rules. Current Miyagi own state and retained Sendai E14 reference preserve private knowledge, scope and counterevidence. Every older form remains. The exact historical master and [current continuation01](04%20Longitudinal%20Ledgers/SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_01.md) remain one logical disclosure instrument. |
 | Reconstruction | M0.13/S0.14 draft_noncurrent/UNTESTED; zero validated domains. All18forecasts/13historical attempts and failures/ties/exposure limits unchanged. New historical source fit earns no held-out score or current model promotion; required studies/tests/abstention remain. |
 | Synthesis and V1 comparison | Responsibilities/dependencies defined; no specialist, monograph, comparison findings or integrated synthesis |
 | Historical authority | V1 is preserved historical analysis and provenance; it does not supply current V2 conclusions |
@@ -127,7 +127,7 @@ The [source inventory](00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY
 | Supplemental gap reconciliation | Original I1 retains 51 historical gap candidates and 27 discovery duties; four resolved/47 unresolved. BW10 remains a separate bonus addition. | Finite bonus lane complete. Remaining web/source/modality and G3–G7 duties remain required under active original I1 authority. |
 | Narō correspondence / discovery completeness | N0800GA episodes 1–290 remain an unperformed source-correspondence obligation; 27 frozen author-notice records require original-story holdings and duplication reconciliation. | Complete source access/correspondence and the bounded discovery audit after independent LN freezes; keep any genuine missing sources visible. |
 
-Narrative high-water is **KAK-JP-E0014**, with **46/463additive** and **41/458original I1** completions. The next permitted operation is **KAK-JP-E0015** after the whole E14transaction. E13's exact published-source audit passed (40051929641,459tests/9571paths). E14still requires its own final staged INDEXpreflight, atomic commit, normal push/full readback and successful actual-head audit before a later majorpush. Fresh source/main reconciliation and CI-agent protected-main integration remain separate; continuous original I1work is active and unfinished.
+Narrative high-water is **KAK-JP-E0015**, with **47/463 additive** and **42/458 original I1** completions. The next permitted operation is **KAK-JP-E0016** after the whole E15 transaction. E14's exact published-source audit passed (40059507336,459 tests/9573 paths), with trusted success and independent/root acceptance. E15 still requires its own final staged INDEX preflight, atomic commit, normal push/full readback and successful actual-head audit before a later major push. Fresh source/main reconciliation and CI-agent protected-main integration remain separate; continuous original I1 work is active and unfinished.
 
 ## Governing retrieval order
 
@@ -152,7 +152,7 @@ The routing input is [`.repository/series-registry.json`](.repository/series-reg
 
 For recovery, fetch live authority/governance and both repository heads, preserve accepted work, and read the current entrypoint, inventory, latest complete transaction and exact handoff. The active later owner goal resumes the frozen Kakuyomu lane and original dependent I1 stages. Earlier E5 and bonus stops remain dated history. A private recovery error briefly treated an old stop as current; the retained chronology correction restores actual resumption without changing source evidence or publishing the mistaken routing.
 
-The verified foundation, exact source/locator freeze and capability limits continue to govern each admission. Both next-operation fields identify E0015 after the whole E14 transaction. Each major push requires the previous actual-head green, fresh source/main reconciliation, final INDEX preflight, ordinary push and full readback. Housekeeping and CI-agent integration retain their owners. Completed/NONE remains reserved for actual full architectural completion.
+The verified foundation, exact source/locator freeze and capability limits continue to govern each admission. Both next-operation fields identify E0016 after the whole E15 transaction. Each major push requires the previous actual-head green, fresh source/main reconciliation, final INDEX preflight, ordinary push and full readback. Housekeeping and CI-agent integration retain their owners. Completed/NONE remains reserved for actual full architectural completion.
 
 The live [initiation policy](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md), [archive authority policy](../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), [integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md), [branch lifecycle](../../governance/policies/BRANCH_LIFECYCLE.md), [housekeeping policy](../../governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md) and [character curation policy](../../governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md) govern execution and publication.
 
