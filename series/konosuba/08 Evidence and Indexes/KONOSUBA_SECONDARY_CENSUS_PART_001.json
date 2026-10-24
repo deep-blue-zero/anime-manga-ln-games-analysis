@@ -4535,12 +4535,12 @@
     {
       "character": "Perie / ペリエ",
       "identity": "Self-named demon-army attacker DUST06U012P336;woman and 魔族 in current Dust narration,with DUST07U011P518 retrospective 悪魔 comparison. Roman working label is not an official-English-edition claim;not every contract-devil rule applies.",
-      "likely_tier": "2 scoped; twelve-dimension monograph without a new generative model; exact publication pending",
-      "priority": "Cohort38 bounded semantic receiving complete;exact containing publication pending.",
+      "likely_tier": "2 scoped; twelve-dimension monograph without a new generative model; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort38 bounded author publication complete;continuing full program.",
       "evidence_distribution": "Two complete accepted Dust06 analytical surfaces and all34 current precision qualifications received. Actual native DUST06U012P275-426,U013P1-302,U014full67P andDUST07U011P470-570:622P/548inline ruby,4members2knownEPUBs12displays;no current image inspection. Exact source/member/range bindings in C38 provenance.",
       "substantive_responsibility": "Own clothing preference,anger and narrated discouragement,mission resumption,hostage-value revision,reported career and assignment ownership,live-capture-order violation,displaced retaliation and adaptive aerial fighting earn substantial individual analysis. Own reports,narrator appraisal,Rionor explanation and actual acts remain distinct.",
       "gaps": "No differentiated conditional policy yet separates presentation sensitivity,practical costume use,military utility,status,irritation and retaliation across comparable conditions. Jacket motive is not confessed;criticism follows coercion. Live-capture order is not mercy;low-hostage-value claim is explicitly false. Mission takeover and superior praise are self-report. Severe combat aftermath is not an independent final death check;DUST07 is retrospective comparison. No rule,input,first,independent result,grade,voice certification or final battery is earned;future Tier3 remains open.",
-      "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT38_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_cohort38_current_fields": {
         "character": "Perie (Dust06 named antagonist)",
@@ -4571,7 +4571,26 @@
         "native_identity": "Self-namedペリエDUST06U012P336;narrator woman/魔族DUST06U012P297/U013P208;DUST07U011P518 retrospective 悪魔 comparison. Working Roman label retained without official English-edition claim.",
         "limits": "Clothing preference is not consent to attention/exposure. Quoted rank/order/superior praise/forced mission takeover remain reported;not witnessed executive appointment. Low-hostage-value statement is explicitly false. Live-capture order is violated,not humanitarian release. Actual aerial retreats qualify reckless attack;severe aftermath is not independent final death examination. DUST07 comparison is not a new Perie event."
       },
-      "cohort38_current_qualifications": "Current Tier2 monograph governs within actual received source scope. Prior current fields remain dated exact history. Preference is not consent;own action,reported motive/order/transfer,narrator inference and unknowns stay separate. No permanent tier ceiling,independent result,capability grade or census closure."
+      "cohort38_current_qualifications": "Current Tier2 monograph governs within actual received source scope. Prior current fields remain dated exact history. Preference is not consent;own action,reported motive/order/transfer,narrator inference and unknowns stay separate. No permanent tier ceiling,independent result,capability grade or census closure.",
+      "prior_cohort38_publication_fields": {
+        "likely_tier": "2 scoped; twelve-dimension monograph without a new generative model; exact publication pending",
+        "priority": "Cohort38 bounded semantic receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT38_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort38_publication_resolution": {
+        "source": "9eb4d4c1a4f2c4c6ac130e9869ad478ecb40e47a",
+        "tree": "ee52b44c0ab5bb6d43b9ecc320f1934f28ec13bb",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "b3e4fd84a6d30460d4a3080937af8d8d6b516e94f43f2f555cb1b873568ac82d",
+        "source_run": 40115509649,
+        "full_discovered_tests": 459,
+        "current_models": 56,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 314
+      }
     },
     {
       "priority": "Cohort37 bounded author publication complete;continuing full program.",
@@ -4866,15 +4885,77 @@
       }
     },
     {
-      "priority": "Discovery",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "priority": "Cohort39 bounded author publication complete;continuing full program.",
+      "disposition_status": "COHORT39_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
-      "character": "Rouzeri (ルーゼリ)",
-      "identity": "Dust07 self-named attack commanderU013323 with actual human/red-dragon transformation; distinct from Feit and Perie.",
-      "likely_tier": "2 candidate, unresolved",
-      "evidence_distribution": "Complete Dust07 report192L and nativeU013265-647.",
-      "substantive_responsibility": "Career/performance pressure, specific Vanir fear, recruitment desire, pact argument, explicit civilian-massacre threat and refused withdrawal/job offer precede actual continued fight. Articulate rival values do not license harm.",
-      "gaps": "Model only if distinct mechanism/rivals/disconfirmers earned. History/aura lore are reports; actual fall631 is not checked final death, accepted job or universal dragon hierarchy."
+      "character": "Rouzeri / ルーゼリ",
+      "identity": "Self-named woman and army attack commander in DUST07,with actual red-dragon transformation;Wiz recalls executive candidacy,not a witnessed current appointment. Working Roman label,not an official-English-edition assertion.",
+      "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact-source author publication closed; scoped/nonfinal",
+      "evidence_distribution": "DUST07 complete chapter3U013677P/epilogueU014148P plus bounded chapter1U011source roles,all with ruby. Earlier Dust01-06 contexts distinguish recurring owners,nobles and neighboring actors. C39total4192selectedP/4128ruby23members7EPUBs84complete displays,including25Dust05author-afterwordP;zero current images/nonparagraph residuals. Exact bounds and reused analytical receipts in provenance.",
+      "substantive_responsibility": "Explicit wish to flee,campaign accountability,valued army life and rejected exit coexist with neutrality argument,flight beyond Vanir range,recruitment and dangerous fight. ROU-R01 conditionally distinguishes feasible role-preserving survival from affiliation-destroying exit,without requiring automatic fighting. Generic fear,employment dependence,face-saving and attraction remain rivals.",
+      "gaps": "Concentrated encounter;no motive-isolated threshold,mature reliability or confirmed permanent fate. Salary reason belongs to an ogre,not Rouzeri. Vanir is former executive;Wiz current barrier/neutrality terms differ. Twelve cohort firsts include four Rouzeri firsts/two dependent source-known pairs;body compatibility does not isolate cause. No regeneration,independent accuracy,grade,confidence gain,Japanese/acoustic certification or final battery.",
+      "prior_cohort39_current_fields": {
+        "character": "Rouzeri (ルーゼリ)",
+        "identity": "Dust07 self-named attack commanderU013323 with actual human/red-dragon transformation; distinct from Feit and Perie.",
+        "likely_tier": "2 candidate, unresolved",
+        "evidence_distribution": "Complete Dust07 report192L and nativeU013265-647.",
+        "substantive_responsibility": "Career/performance pressure, specific Vanir fear, recruitment desire, pact argument, explicit civilian-massacre threat and refused withdrawal/job offer precede actual continued fight. Articulate rival values do not license harm.",
+        "gaps": "Model only if distinct mechanism/rivals/disconfirmers earned. History/aura lore are reports; actual fall631 is not checked final death, accepted job or universal dragon hierarchy.",
+        "priority": "Discovery",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort39_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_ROUZERI_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ROUZERI_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/ROUZERI_EXPANDED_V1_EVIDENCE/ROUZERI_RULE_INVENTORY_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/ROUZERI_EXPANDED_V1_EVIDENCE/ROUZERI_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/ROUZERI_EXPANDED_V1_EVIDENCE/ROUZERI_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/ROUZERI_EXPANDED_V1_EVIDENCE/ROUZERI_DIAGNOSTIC_ASSESSMENT_01.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/ROUZERI_EXPANDED_V1_EVIDENCE/ROUZERI_FIRST_OUTPUT_ANNOTATIONS_01.json"
+      ],
+      "cohort39_rules": [
+        "ROU-R01"
+      ],
+      "cohort39_semantic_receiving_sha256": "3a9b03438f4a6f2959099d0b04468b953f7f96bdb3172efbcaa30e2cb28897da",
+      "cohort39_scope_assessment": {
+        "row": 79,
+        "subject": "Rouzeri / ルーゼリ",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "ROU-R01"
+        ],
+        "justification": "Expressed campaign accountability,desire to flee,valued army life and rejected exit coexist with pact argument,range change,recruitment and actual combat. One integrated provisional role-preserving survival hypothesis earns falsifiable conditional reconstruction;not a bravery label.",
+        "limits_and_rivals": "One concentrated encounter;generic fear,employment dependence,face-saving and attraction remain. No isolated cause,exact thresholds,executive appointment or checked permanent fate."
+      },
+      "cohort39_current_qualifications": "Current scoped provisional individual disposition governs;prior current fields remain dated exact history. Actual act,own report,narrator inference,untagged turn,dream,anticipated outcome and unknown remain distinct. No permanent ceiling,independent trial,mature reliability or census closure.",
+      "cohort39_prior_semantic_receiving_before_status_normalization": "f6ac0efd4897e87065d1029cba9759f120b2b5192ad465fb06fe3b246cea3146",
+      "cohort39_public_status_normalization": {
+        "file": "COHORT39_PUBLIC_STATUS_NORMALIZATION_PLAN_01.json",
+        "bytes": 4391,
+        "sha256": "a3c55998db9e8bb616d9b3a00e6e9e09bdc375cecc47bb11acefa83b3de8ffe1"
+      },
+      "prior_cohort39_publication_fields": {
+        "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact publication pending",
+        "priority": "Cohort39 bounded semantic receiving complete;exact containing publication pending.",
+        "disposition_status": "COHORT39_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort39_publication_resolution": {
+        "source": "bebd59912de46d82a02777050ccb175f5e075029",
+        "tree": "37d0213161e1a0cffcd278b8af19f3f80babff85",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "b564f10ddfdfa3bfb34c7bd5d28f3c8ebb940966fb87379431d420dc9308ad55",
+        "source_run": 40124981724,
+        "full_discovered_tests": 459,
+        "current_models": 59,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null,
+        "pull_request_number": 316
+      }
     }
   ]
 }

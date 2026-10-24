@@ -1,0 +1,72 @@
+{
+  "schema": "konosuba.character-original-firsts.v1",
+  "serialized_utc": "2026-10-24T20:44:56.565542+00:00",
+  "generation": "BRIDOL_HEAD_BUTLER_EXPANDED_V1",
+  "subject": "Rionor head butler / 執事長",
+  "model_foundation_freeze_sha256": "e547c7cd5f828a4fb38f3f8bf54d80393cab0618714f7251236d0ab29749ea05",
+  "exact_inputs_file": "BRIDOL_HEAD_BUTLER_SCENARIO_INPUTS_01.json",
+  "exact_inputs_sha256": "d3c9f5155f82428d4c8d204ca29f2e3c02f69f4c3be8b95d7f188ea5ee7cdedb",
+  "all_original_firsts_sealed_sha256": "07bb85b81509107b0abb4196ae597a1140293dcb64451cfd40f071b4dd72f10c",
+  "cases": [
+    {
+      "case_id": "C40-BHB-A1",
+      "pair_id": "C40-BHB-A",
+      "mode": "canon_domain_counterfactual",
+      "generation": "BRIDOL_HEAD_BUTLER_EXPANDED_V1",
+      "exact_prompt_sha256": "ff1bdfb828cd18e57a0a742f579e8e0108407d53c45c03f83d82691ff92f0c37",
+      "original_response_utf8": "「ダスト殿、ではこのお役目はお任せいたしますぞ。姫様にも御異存はなく、陛下のお許しもある。いやはや、自ら引き受けてくださるとは、実に頼もしい限りですな」\n\nAction: Arrange the authorized transfer of the escort to the willing, capable Dust.\n\nRationale: The alternative handler and permission are actually supplied, and there is no competing stake. He can obtain the known relief through a courteous statement of the service arrangement. The response initiates that arrangement without inventing another helper, a secret replacement identity or a completed visit.\n",
+      "original_body_bytes": 636,
+      "original_body_sha256": "5598a051b160dc83cb730ec2c750529e8934234d3455e120262a12c12892eb40",
+      "original_receipt_sha256": "076fa1de6faeca0b2fc2a41e6c729152b790817b39440e32ef60badf9bcdbbac"
+    },
+    {
+      "case_id": "C40-BHB-A2",
+      "pair_id": "C40-BHB-A",
+      "mode": "canon_domain_counterfactual",
+      "generation": "BRIDOL_HEAD_BUTLER_EXPANDED_V1",
+      "exact_prompt_sha256": "5bbb3a3c6ad60e170275ef6a447d2f0139d73205c1813efcf008b4bfba2f388f",
+      "original_response_utf8": "「ありがたいお申し出ですが、今回は私が参りますぞ。お供だけなら代わっていただけても、陛下から託された検分まで勝手にお任せしたことにはできませんからのう。……楽になると思ったのですがな」\n\nAction: Personally perform this escort with its entrusted inspection under the current order.\n\nRationale: Dust's willingness does not authorize him to fulfill the inspection assigned to the butler. Personal handling is a defeasible choice under this explicit competing stake; it is not a newly proved rule of universal obedience or national priority. Relief alone cannot be described as completion of the supplied duty, and no change of authorization has been granted.\n",
+      "original_body_bytes": 747,
+      "original_body_sha256": "c92ab2c6144dccfc19c3b1eb2c015303c060e0f5676afe6bf79ee4fd03be8d3c",
+      "original_receipt_sha256": "4006712b347163af37261e4f69838f5d125592edc46ba92ae9496fb4cf35b5d6"
+    },
+    {
+      "case_id": "C40-BHB-B1",
+      "pair_id": "C40-BHB-B",
+      "mode": "human_world_counterfactual",
+      "generation": "BRIDOL_HEAD_BUTLER_EXPANDED_V1",
+      "exact_prompt_sha256": "61417a63cbba0d43df887b8119c6de08bef61756d53d079ef7cf352aaaa2371d",
+      "original_response_utf8": "「では、お客様のご案内はお任せしましょう。五分の引き継ぎで済み、皆様のお許しもあるのでしたら、これほど結構なことはありませんな。必要な手続きを始めますぞ」\n\nAction: Start the permitted five-minute handoff to the competent, willing colleague.\n\nRationale: He knows beforehand that this reduces his overall burden while preserving service and permission. No identity substitution or other institutional stake competes. The attempt fits the relief hypothesis, although ordinary workload economy predicts it too; it is not an actor-specific causal result.\n",
+      "original_body_bytes": 627,
+      "original_body_sha256": "e26339840bdc977e318be820daa0379e8cb3b36ae15c8a751f89071872b0f3da",
+      "original_receipt_sha256": "e054919fae575fd1f691ea20f7e57b33c0d07a2f2038f16cd2bfeeeca86f2f12"
+    },
+    {
+      "case_id": "C40-BHB-B2",
+      "pair_id": "C40-BHB-B",
+      "mode": "human_world_counterfactual",
+      "generation": "BRIDOL_HEAD_BUTLER_EXPANDED_V1",
+      "exact_prompt_sha256": "fc110b33998c6caafc96c387ae9d91a6cdd39ac463485f810476d1d954238555",
+      "original_response_utf8": "「六十分のお役目を離れるために、九十分の厄介な手続きとは。手間を増やすための引き継ぎでは、困りますな。今回は私がお客様をご案内いたしましょう」\n\nAction: Handle the sixty-minute visit personally instead of taking the more burdensome handoff.\n\nRationale: His supplied appraisal includes both time and annoyance and ranks the handoff as worse overall. The source hypothesis concerns obtaining relief, not delegating regardless of cost. He does not convert the ninety minutes into a pleasant or shorter task, or invent another advantage to protect an unconditional delegation rule.\n",
+      "original_body_bytes": 648,
+      "original_body_sha256": "201e90fc8bcb7957f2fc653aa5d47b85172fb1d8e7c6e092eba639ca2cd7e0d6",
+      "original_receipt_sha256": "eaca855a4710f0c4968cebbe12cfc94ed4589373cfee9902ca372db4928ada2f"
+    }
+  ],
+  "original_firsts": true,
+  "original_bodies_copied_byte_exact_after_seal": true,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "source_known": true,
+  "same_informed_root": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "assessment_complete": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

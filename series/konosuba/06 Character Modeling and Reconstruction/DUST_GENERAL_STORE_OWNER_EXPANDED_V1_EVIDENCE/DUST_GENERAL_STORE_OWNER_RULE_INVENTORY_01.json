@@ -1,0 +1,53 @@
+{
+  "schema": "konosuba.character-rule-inventory.v1",
+  "recorded_utc": "2026-10-24T18:39:41.093023+00:00",
+  "generation": "DUST_GENERAL_STORE_OWNER_EXPANDED_V1",
+  "subject": "Recurring Axel general-store owner",
+  "existing_census_row": 80,
+  "scope_assessment_sha256": "7b88d5260034fd973d1be10e7abb16444d70b7c9f4b60e35b6e618f2a01f2a20",
+  "source_review_receiving_sha256": "85d700ea8b35326bb43271e0f823cd4af99ad42d91800a249c414d4af2f2754a",
+  "additional_Dust07_receiving_sha256": "d9a1838414bcc9a280e27677c9030cd863d46b3f6d47dc900893b717b7272655",
+  "model_draft_file": "GENERAL_STORE_OWNER_MODEL_DRAFT_02.md",
+  "model_draft_sha256": "33cfc513643f3574c16267f0403a479a8403055f36e293b02108887bb561325b",
+  "monograph_draft_file": "GENERAL_STORE_OWNER_MONOGRAPH_DRAFT_01.md",
+  "monograph_draft_sha256": "966dd1ff1cdbd4d243334a9ee94ca899a8954dd9e84de6d894c8c5e5798df93a",
+  "rules": [
+    {
+      "rule_id": "DGO-R01",
+      "proposition": "When a familiar nuisance treats his stock, food, frontage or labor as automatically available, expect the owner to contest the premise and retain a usable boundary: payment, refusal, removal, defense of the item or a different practical suggestion. A specific need, recipient or valued use can instead make finite help acceptable, including assistance without immediate cash. That choice preserves the scope of what he grants; it does not turn earlier objections into insincere affection or all property into a free resource.",
+      "support": [
+        "DUST01U012P150–183 defines payment and stock boundaries yet accepts a valuable helmet exchange; U013P117–138 objects to occupied stock and gives a practical alternative; U014P318–349 defends lunch and welcomes Yunyun separately. DUST04U011P254–277 provides useful remembered transaction information despite quarrelling. DUST05U011P363–378 provides Feit a necklace and adjustment offer without observed immediate payment. DUST07U011P358–376 links threatened shared-life work, life stakes, recognition of spear use and actual provision after Dust's no-return/resale warning. The contrast is between particular decisions with terms, not a universal no-help rule."
+      ],
+      "contrary": [
+        "He does not reliably enforce every boundary: Dust repeatedly occupies the frontage and takes some food before resistance. He retreats under one threat, later fights after a work insult, and makes a mistaken overstock order. His siege decision risks life for the store despite acknowledging life matters. The source gives no actual evacuation after a credible preservation guarantee and no complete price threshold for charitable or defensive provision. No single ideal professional standard fits all of these acts."
+      ],
+      "rivals": [
+        "Generic ownership defense, sales interest, recipient age, ordinary kindness, public-defense investment and familiar reciprocal attachment can explain the choices. Dust's conduct varies between scenes, so relationship alone is not isolated. The store's personal history is particularly explicit but comes from one crisis. Mechanism-specific and unfamiliar transfer claims remain weaker than the observed ownership and provision distinctions."
+      ],
+      "applies_when": [
+        "Bind what permission and cost are actually supplied. A finite loan is not a gift; a completed sale is not a later promise; the child's refusal of resizing is an owned choice. A known nuisance, proper paying customer and endangered beneficiary have different information and practical needs. For a threatened store, state what preservation or loss the owner genuinely credits and what danger he recognizes. The recipient's need and the owner's valued purpose must be fixed from the supplied pre-choice information, never inferred from whether he helps. Missing facts do not authorize an invented late-wife instruction or a guaranteed safe plan."
+      ],
+      "do_not_assume": [
+        "Do not invent a personal name, exact age, endless wealth, blanket price inflation, hidden desire for every visit, universal nonviolence or perfect fraud detection. The presented card in Dust 4 checks identity, not every item's ownership. Former adventuring is his later self-report; Dust's early inference is not an independent record. The spear-tip fault remains Dust's attribution, and the repair workshop is not witnessed. No automatic debt or fee may be attached to the explicit free use/disposal provision."
+      ],
+      "confidence": "Moderate warrant for the local distinction across varied repeated encounters and actual recipient-specific conduct. The thresholds, exact motive mixture and store-attachment transfer are low confidence. This is a provisional individual reconstruction with generic commercial and care rivals retained, not mature validated reliability.",
+      "falsifier": "Repeated free, unbounded surrender of a valued resource solely on the known nuisance's bare entitlement claim, absent an added need, exchange or valued purpose, would weaken the retained-boundary branch. Repeated refusal to consider any bounded provision after he has explicitly acknowledged the recipient need and the use as worth his help, with means available and ownership,workload and danger fixed before choice, would weaken the help branch. An analyst may not declare an option acceptable only after seeing the result. Different ownership, danger, permission or recipient knowledge must be recorded before comparison; later benefit cannot be used to invent prior assent."
+    }
+  ],
+  "rule_count": 1,
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "exact_inputs_or_firsts_serialized": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false,
+  "prior_draft": {
+    "file": "GENERAL_STORE_OWNER_RULE_INVENTORY_DRAFT_01.json",
+    "bytes": 5603,
+    "sha256": "585ddfa5649e73c72a5e22bddfda6354c96cece99da81431f2cc0785d7534e86"
+  },
+  "attributable_prefreeze_precision": "Current corrected foundation;all original draft bytes and full initial review preserved. No input or first existed at this revision."
+}
