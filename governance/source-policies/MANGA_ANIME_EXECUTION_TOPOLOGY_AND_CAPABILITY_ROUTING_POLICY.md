@@ -2,10 +2,11 @@
 title: Manga / Anime Execution Topology and Capability Routing Policy
 artifact_id: MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY
 artifact_type: execution_topology_capability_policy
-version: "1.0"
+version: "1.1"
 status: canonical
 scope: corpus-wide execution-stage allocation, capability verification, and operator responsibilities
 created: 2026-09-13
+last_updated: 2026-10-24
 maintainer: ChatGPT + user
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -111,6 +112,8 @@ Preserve timestamps, language/track identity, source/derivative relationships, a
 
 Use the existing `VIDEO_NOT_REQUIRED`, `VIDEO_TARGETED_ESCALATION`, and `VIDEO_FULL_EPISODE_ESCALATION` decisions. They describe evidence need, not capability success. An escalation remains unresolved until the required evidence has actually been inspected or the claim/scope has been explicitly and legitimately narrowed.
 
+The [medium and inspection-lane routing policy](MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md) names the inspection lanes these capabilities enable (`TEXT`, `STILL_IMAGE`, `BUNDLE_MEDIATED`, `CONTINUOUS_AV`) and the claims each lane may assert. A verified `continuous_av_inspection` capability should also record the effective visual sampling rate when it is known, because a model that hears audio continuously may still sample video sparsely.
+
 ## 7. File size, transport, and runtime limits
 
 The owner reports that hosted Chat environments have been less suitable for large source videos and more fragile for GitHub operations, while useful for many smaller objects and substantial synthesis. Treat this as an owner-reported operational profile, not a universal platform law or a claim that every cloud system rejects 1080p video.
@@ -157,7 +160,7 @@ A local AV stage can change a central interpretation, not merely decorate it. Co
 
 Use the simplest adequate arrangement. Prefer local-only when source access dominates, the artifact is bounded, or transfer overhead exceeds the expected benefit. Prefer cloud-only when all required evidence and capabilities are available and the authorized publication route can be completed separately or is not in scope. Use hybrid parallel work when independence or throughput has a defined value and integration capacity exists.
 
-Where anchoring is a concern, an AV reviewer can record bounded observations before reading the prior interpretation, then compare them. This is an optional evaluation design, not a requirement to duplicate all analysis.
+Where anchoring is a concern, an AV reviewer can record bounded observations before reading the prior interpretation, then compare them. This is an optional evaluation design, not a requirement to duplicate all analysis. The [audiovisual reconciliation protocol](MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL.md) applies this design to the bundle-mediated to continuous-AV relay.
 
 No environment preference may waive evidence requirements, silently alter the source boundary, or create unapproved API spend. Insufficient capability should produce bounded progress and an explicit unresolved requirement, not a false completion claim.
 
@@ -172,6 +175,10 @@ Changes to source fidelity, stage ownership, or promotion responsibility require
 - [O5] OpenAI Help Center, *File Uploads FAQ*, checked 2026-09-13: `https://help.openai.com/en/articles/8555545-file-uploads-faq`
 
 ## Changelog
+
+### v1.1 - 2026-10-24 - Inspection lanes
+
+Links capability verification to the inspection lanes of the medium and inspection-lane routing policy, asks verified continuous-AV capability to record its effective visual sampling rate, and points the anchoring-aware AV review design to the audiovisual reconciliation protocol.
 
 ### v1.0 - 2026-09-13 - Proposed initial policy
 
