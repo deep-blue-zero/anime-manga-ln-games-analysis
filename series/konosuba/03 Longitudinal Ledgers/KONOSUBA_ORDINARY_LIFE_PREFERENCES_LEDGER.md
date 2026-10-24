@@ -1399,3 +1399,10 @@ Ordinary evidence includes Alderp's hosted consumption/mirror maintenance/resent
 Barton has fieldwork, books, public reception, preferred creatures and a particular hoped-for relationship, with no complete household or university job invented. Zereschilt sweeps, prepares tea, minds the shop, seeks mediation and wants an outing; volunteered watch and imposed replacement differ. Sylphina's play, blanket, picnic, food-sharing, gifts and reported school routine matter independently of rescue. Barbera's own daily routine remains sparsely accessible through others' accounts.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia's singing joy, particular plush and chosen company coexist with repeated room neglect and an unapproved donation promise. Cielo mediates, prepares and clears rubble, enjoys performing and objects to a masculine label without denying strength. Erika wants visibility, offers a free favor, seeks costume resources and remains attached to the actual trio. Charlie's hallway sleep and fan interest and Daniel's castle, images and reemployment wish do not supply complete independent routines. Their Tier2 monographs leave that ordinary-life breadth open rather than inventing it.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

@@ -407,3 +407,10 @@ CR-C28-AU01: historical row 27 assigned the sexual-financial offer directly to A
 CR-C29-SY01 REVISE: earlier row33 compressed cure/picnic/school requests. MAIN13C1P27 reports remedy recovery and school attendance; P28/34–35 supplies her request to thank and actual thanks. No voiced school request is established. CR-C29-ID01 STRENGTHEN: existing Yori rows98/99 gain エイブラム/ピクルス names from YORI01U012; their broader tiers remain pending. CR-C29-ZS01 REVISE: current count/name/title variants, explicit life-sharing limits and observed shop defense qualify earlier shorthand; no uniform title or universal helplessness. CR-C29-BR01 OPEN: Barbera reply and ring acceptance remain unheard. Prior row fields, firsts and scores are preserved.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+CR-C30-CI01 QUALIFY: Cielo's healing is offered at FD-U012 P163 and credited by Megumin P388-390; apology loci P404/P422 do not show a separate cast, patient or dose. CR-C30-LI01 QUALIFY: the mountain interception is fatal and Aqua resurrects Lia; finite keyboard defense is a different later ability. CR-C30-REL01 RETAIN: private history, rejected contact/invitations, friends' refusal overrides and later local assent remain distinct. CR-C30-TR01 QUALIFY: Charlie's bodily precaution and correct glove warnings differ from Daniel's prior cost learning and later ignored warning. Original source records, frozen firsts, scores and earlier model bodies remain exact. Ponta/Konjiro identity, broad troll mechanisms and global population remain open.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

@@ -1852,3 +1852,10 @@ Alderp moves from public rank-backed pressure through private blame to fear and 
 Barton changes aims from clearing weather for a date to acquiring a gift, preserving a favored creature and helping recover a necklace. Irritation, uncertainty, gratitude and frightened decoy work are different states (BT29). Zereschilt moves from castle control to finite-life danger, refuge and shop contribution; neither fear nor effective defense defines every situation (ZS29). Sylphina's anxiety, play, revised expectation, attachment and shy thanks retain her own agency (SY29).
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia's pre-memory competence, restored-history withdrawal, duty conflict, finite barrier and chosen return are separate states. Eating and errands continue during withdrawal; no diagnosis follows. Cielo's performance enjoyment coexists with remaining contact difficulty. Erika's confidence coexists with anxiety, shame, self-correction and care. Charlie's distress, bodily precaution and correct warning differ from Daniel's selective grief, retreat and ignored warning. The five separate monographs preserve their own agency in the selective FD continuity.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

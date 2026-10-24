@@ -3,8 +3,8 @@
   "canonical_census_manifest": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
   "part_ordinal": 4,
   "first_row_index": 240,
-  "last_row_index": 269,
-  "row_count": 30,
+  "last_row_index": 281,
+  "row_count": 42,
   "rows": [
     {
       "character": "Unnamed Elroad prosecutor (MAIN10)",
@@ -915,104 +915,416 @@
     {
       "character": "Capital guild male receptionist (CONTEXP02)",
       "identity": "Capital guild male receptionist (CONTEXP02)",
-      "likely_tier": "1 scoped; compact profile; exact publication pending",
-      "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 29 bounded author publication complete; continuing full program.",
       "evidence_distribution": "U013P247-263",
       "substantive_responsibility": "Nervous service, task-fit objections, recognition of royal stakes and own employment consequence. Separate capital employee; no Luna join.",
       "gaps": "Personal name, broader recurrence and own ordinary life remain open; current scoped role occurrence is not a proven globally unique individual.",
-      "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT29_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort29_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort29-barbera-and-bounded-institutional-encounters"
       ],
-      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876"
+      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876",
+      "prior_cohort29_publication_fields": {
+        "likely_tier": "1 scoped; compact profile; exact publication pending",
+        "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort29_publication_resolution": {
+        "source": "f6297f384640a97edf0bbd31853699e6f632edea",
+        "tree": "abb5d944c89bb5054b623934964fb2522a546fbb",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT29_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d4200cd6ed4dfdac7b3aa18ab7f5517b1df046fb9e8ee657f0dfa1d672c005b",
+        "source_run": 40061340948,
+        "full_discovered_tests": 459,
+        "current_models": 43,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Royal gate captain volunteering after shift (CONTEXP02)",
       "identity": "Royal gate captain volunteering after shift (CONTEXP02)",
-      "likely_tier": "1 scoped; compact profile; exact publication pending",
-      "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 29 bounded author publication complete; continuing full program.",
       "evidence_distribution": "U020P155-180",
       "substantive_responsibility": "Volunteers personal off-duty frontline work to keep princess from danger; shift boundary and future substitution stated. Iris declines inclusion; no performed quest or proven broader combat skill.",
       "gaps": "Personal name, broader recurrence and own ordinary life remain open; current scoped role occurrence is not a proven globally unique individual.",
-      "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT29_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort29_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort29-barbera-and-bounded-institutional-encounters"
       ],
-      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876"
+      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876",
+      "prior_cohort29_publication_fields": {
+        "likely_tier": "1 scoped; compact profile; exact publication pending",
+        "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort29_publication_resolution": {
+        "source": "f6297f384640a97edf0bbd31853699e6f632edea",
+        "tree": "abb5d944c89bb5054b623934964fb2522a546fbb",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT29_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d4200cd6ed4dfdac7b3aa18ab7f5517b1df046fb9e8ee657f0dfa1d672c005b",
+        "source_run": 40061340948,
+        "full_discovered_tests": 459,
+        "current_models": 43,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Capital policewoman admonishing Megumin (CONTEXP02)",
       "identity": "Capital policewoman admonishing Megumin (CONTEXP02)",
-      "likely_tier": "1 scoped; compact profile; exact publication pending",
-      "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 29 bounded author publication complete; continuing full program.",
       "evidence_distribution": "U020P511-526",
       "substantive_responsibility": "Enforces explosion prohibition, detains then releases amid royalpresence, states future ban. Rule enforcement and status asymmetry; no performed future ban, universal neutrality or name join.",
       "gaps": "Personal name, broader recurrence and own ordinary life remain open; current scoped role occurrence is not a proven globally unique individual.",
-      "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT29_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort29_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort29-barbera-and-bounded-institutional-encounters"
       ],
-      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876"
+      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876",
+      "prior_cohort29_publication_fields": {
+        "likely_tier": "1 scoped; compact profile; exact publication pending",
+        "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort29_publication_resolution": {
+        "source": "f6297f384640a97edf0bbd31853699e6f632edea",
+        "tree": "abb5d944c89bb5054b623934964fb2522a546fbb",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT29_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d4200cd6ed4dfdac7b3aa18ab7f5517b1df046fb9e8ee657f0dfa1d672c005b",
+        "source_run": 40061340948,
+        "full_discovered_tests": 459,
+        "current_models": 43,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Capital guild employee refusing King Toad request (CONTEXP02)",
       "identity": "Capital guild employee refusing King Toad request (CONTEXP02)",
-      "likely_tier": "1 scoped; compact profile; exact publication pending",
-      "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 29 bounded author publication complete; continuing full program.",
       "evidence_distribution": "U013P266-277",
       "substantive_responsibility": "Explicitly refuses uncertain request and says unheard-of monster. One bounded occupational decision, not proof professional incompetence or universal closed-mindedness.",
       "gaps": "Personal name, broader recurrence and own ordinary life remain open; current scoped role occurrence is not a proven globally unique individual.",
-      "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT29_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort29_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort29-barbera-and-bounded-institutional-encounters"
       ],
-      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876"
+      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876",
+      "prior_cohort29_publication_fields": {
+        "likely_tier": "1 scoped; compact profile; exact publication pending",
+        "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort29_publication_resolution": {
+        "source": "f6297f384640a97edf0bbd31853699e6f632edea",
+        "tree": "abb5d944c89bb5054b623934964fb2522a546fbb",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT29_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d4200cd6ed4dfdac7b3aa18ab7f5517b1df046fb9e8ee657f0dfa1d672c005b",
+        "source_run": 40061340948,
+        "full_discovered_tests": 459,
+        "current_models": 43,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Zereschilt castle gatekeepers and guide (unresolved actor group)",
       "identity": "Zereschilt castle gatekeepers and guide (unresolved actor group)",
-      "likely_tier": "0 scoped; unresolved group occurrence index; exact publication pending",
-      "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+      "likely_tier": "0 scoped; unresolved group occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 29 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MAIN12C5P280-316; F P125/P167",
       "substantive_responsibility": "Multiple gatekeepers, one offers referral, urgent toilet admission and unnamed guidance. Individuation incomplete; grouping is not one confirmed person or population count.",
       "gaps": "Personal name, broader recurrence and own ordinary life remain open; current scoped role occurrence is not a proven globally unique individual.",
-      "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT29_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort29_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort29-barbera-and-bounded-institutional-encounters"
       ],
-      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876"
+      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876",
+      "prior_cohort29_publication_fields": {
+        "likely_tier": "0 scoped; unresolved group occurrence index; exact publication pending",
+        "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort29_publication_resolution": {
+        "source": "f6297f384640a97edf0bbd31853699e6f632edea",
+        "tree": "abb5d944c89bb5054b623934964fb2522a546fbb",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT29_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d4200cd6ed4dfdac7b3aa18ab7f5517b1df046fb9e8ee657f0dfa1d672c005b",
+        "source_run": 40061340948,
+        "full_discovered_tests": 459,
+        "current_models": 43,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Axel tax official speaking to adventurers (MAIN12)",
       "identity": "Axel tax official speaking to adventurers (MAIN12)",
-      "likely_tier": "1 scoped; compact profile; exact publication pending",
-      "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 29 bounded author publication complete; continuing full program.",
       "evidence_distribution": "MAIN12C2P131-157",
       "substantive_responsibility": "Explains prior tolerance, public-fund obligation and tax claim. Crowd response observed; no independently audited law, cost account, all-wealthy wrongdoing or identity with other officials.",
       "gaps": "Personal name, broader recurrence and own ordinary life remain open; current scoped role occurrence is not a proven globally unique individual.",
-      "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT29_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort29_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_NATIVE_PROVENANCE.json",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort29-barbera-and-bounded-institutional-encounters"
       ],
-      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876"
+      "cohort29_semantic_receiving_sha256": "becd4708de8929dec09307106eb4c087885bcc31edca8be8041da79d6020f876",
+      "prior_cohort29_publication_fields": {
+        "likely_tier": "1 scoped; compact profile; exact publication pending",
+        "priority": "Cohort 29 bounded semantic receiving; exact containing publication pending.",
+        "disposition_status": "COHORT29_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort29_publication_resolution": {
+        "source": "f6297f384640a97edf0bbd31853699e6f632edea",
+        "tree": "abb5d944c89bb5054b623934964fb2522a546fbb",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT29_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "8d4200cd6ed4dfdac7b3aa18ab7f5517b1df046fb9e8ee657f0dfa1d672c005b",
+        "source_run": 40061340948,
+        "full_discovered_tests": 459,
+        "current_models": 43,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
+    },
+    {
+      "character": "Carriage driver at the cabbage rescue (FD)",
+      "identity": "Unnamed injured driver near cargo cart; distinct from Terry and unjoined to other drivers.",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 30 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "FD-U012 P57-82",
+      "substantive_responsibility": "Reports sending dancers ahead; actual cargo hesitation and physical removal before cart destruction; Aqua healing.",
+      "gaps": "Own cargo ownership, prior passenger release independently seen, free assent, later liability allocation and broader identity unknown.",
+      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort30_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort30-bounded-fantastic-days-encounters"
+      ],
+      "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924"
+    },
+    {
+      "character": "Axel blacksmith lending workspace (FD)",
+      "identity": "Unnamed Axel smith proprietor; not joined to Crimson artisan,Hyo or MAIN/Dust weapon-shop owner.",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 30 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "FD-U013 P6-17",
+      "substantive_responsibility": "Allows actual workspace use; asks about invention purpose/demand and compares Axis merchandise.",
+      "gaps": "No established fee,production authorship,purchase,market judgment outcome or durable innovation policy.",
+      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort30_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort30-bounded-fantastic-days-encounters"
+      ],
+      "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924"
+    },
+    {
+      "character": "Woman accompanying child at merchandise sales (FD)",
+      "identity": "Narrator-described mother with a girl; no wider unnamed-mother join or proven actual membership.",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 30 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "FD-U013 P320-338",
+      "substantive_responsibility": "Praises Lia and states time/budget constraint; restrains child; later enrollment ruse qualifies earlier appearances.",
+      "gaps": "Actual poverty,sincerity,her role in child ruse and completed conversion unproved.",
+      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort30_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort30-bounded-fantastic-days-encounters"
+      ],
+      "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924"
+    },
+    {
+      "character": "Child offering Axis enrollment form (FD)",
+      "identity": "Unnamed girl accompanying narrator-described mother; no age/name/other-child join.",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 30 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "FD-U013 P323-338",
+      "substantive_responsibility": "Praises Erika,asks ticket difference,invokes fairness and offers form as signature paper; K stops.",
+      "gaps": "Fan sincerity and poverty uncertain; no performed conversion or broad child-development model.",
+      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort30_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort30-bounded-fantastic-days-encounters"
+      ],
+      "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924"
+    },
+    {
+      "character": "Elderly Axel theater manager (FD)",
+      "identity": "Own Axel-manager introduction; not joined to capital venue or contest roles.",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 30 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "FD-U013 P505-524",
+      "substantive_responsibility": "Reports prior show viewing,offers stage,receives actual three assents,promises later formal contract.",
+      "gaps": "Signed contract,wages,ownership scope and long-term patronage unshown.",
+      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort30_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort30-bounded-fantastic-days-encounters"
+      ],
+      "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924"
+    },
+    {
+      "character": "Axel qualifier host (FD)",
+      "identity": "Source-bound announcing role; judges separate; no join to capital or MissEris hosts.",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 30 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "FD-U014 P281-304/P328-329/P374-409/P435/P448",
+      "substantive_responsibility": "Explains stages,calls units/questions,enforces timed answer,uses macho label and receives objections.",
+      "gaps": "Exact speaker continuity/identity beyond event and global fairness unknown; no formal rename from variant.",
+      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort30_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort30-bounded-fantastic-days-encounters"
+      ],
+      "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924"
+    },
+    {
+      "character": "Axel qualifier judges (FD, unresolved actor group)",
+      "identity": "Unresolved group of judging voices, not one confirmed person.",
+      "likely_tier": "0 scoped; source-bound occurrence/group index; exact publication pending",
+      "priority": "Cohort 30 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "FD-U014 P305-323/P340-352/P448-454",
+      "substantive_responsibility": "Ask questions,misread setting,respond to water art and select trio.",
+      "gaps": "Count,individual assignments and joins unresolved; selection not divinity proof.",
+      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort30_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort30-bounded-fantastic-days-encounters"
+      ],
+      "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924"
+    },
+    {
+      "character": "Royal attendant reporting Daniel bounty (FD)",
+      "identity": "Unnamed presumed royal attendant in one meeting; no wider court-staff join.",
+      "likely_tier": "1 scoped; compact profile; exact publication pending",
+      "priority": "Cohort 30 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "FD-U017 P185-203",
+      "substantive_responsibility": "Thanks party,reports inquiry,states bounty and asks aid while full cause concealed.",
+      "gaps": "Investigation details,name,independent knowledge of truth and performed payment in scene unproved.",
+      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort30_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort30-bounded-fantastic-days-encounters"
+      ],
+      "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924"
+    },
+    {
+      "character": "Capital finals host (FD)",
+      "identity": "Unnamed stage host; no established Axel qualifier identity join.",
+      "likely_tier": "0 scoped; source-bound occurrence/group index; exact publication pending",
+      "priority": "Cohort 30 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "FD-U017 P282-283",
+      "substantive_responsibility": "Announces Axel Hearts with conspicuous costume and gesture.",
+      "gaps": "Only bounded announcing occurrence; personality and wider identity unknown.",
+      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort30_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort30-bounded-fantastic-days-encounters"
+      ],
+      "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924"
+    },
+    {
+      "character": "Guild emergency announcer (FD)",
+      "identity": "Anonymous speaker/employee role; no Luna or other announcer join.",
+      "likely_tier": "0 scoped; source-bound occurrence/group index; exact publication pending",
+      "priority": "Cohort 30 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "FD-U018 P241-242",
+      "substantive_responsibility": "Broadcasts enemy/weapon warning and calls adventurers to gate.",
+      "gaps": "Name,individual biography and wider joins unprovided.",
+      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort30_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort30-bounded-fantastic-days-encounters"
+      ],
+      "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924"
+    },
+    {
+      "character": "Costume-thief trolls (FD, unresolved troop)",
+      "identity": "Multiple figures explicitly not Charlie/Daniel; individual count and speech unresolved.",
+      "likely_tier": "0 scoped; source-bound occurrence/group index; exact publication pending",
+      "priority": "Cohort 30 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "FD-U017 P258-278",
+      "substantive_responsibility": "Carry stolen costumes,one shoulder hit,drop garments,flee; one invokes Daniel.",
+      "gaps": "No automatic named-antagonist or other troop join; outcomes per individual unknown.",
+      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort30_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort30-bounded-fantastic-days-encounters"
+      ],
+      "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924"
+    },
+    {
+      "character": "Young man reporting theater attack (FD)",
+      "identity": "Unnamed reporting young man; broader messenger joins unproved.",
+      "likely_tier": "0 scoped; source-bound occurrence/group index; exact publication pending",
+      "priority": "Cohort 30 bounded semantic receiving; exact containing publication pending.",
+      "evidence_distribution": "FD-U014 P34-35",
+      "substantive_responsibility": "Urgent alert prompts response to Charlie theater attack.",
+      "gaps": "No name,biography,full attack observation or later messenger identity.",
+      "disposition_status": "COHORT30_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort30_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_NATIVE_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort30-bounded-fantastic-days-encounters"
+      ],
+      "cohort30_semantic_receiving_sha256": "5888a772bc1caaf1d3097a4e5a0b16b8e611d781fb86ee147f029fc167ec8924"
     }
   ]
 }

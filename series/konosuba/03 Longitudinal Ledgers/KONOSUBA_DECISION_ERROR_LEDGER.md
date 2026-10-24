@@ -1982,3 +1982,10 @@ AL28-09: Alderp treats a knock as delivered Darkness despite Maxwell saying noth
 Barton admits unknown mechanisms, gives empowering ice advice and makes a calming display that fails. Later sunshine does not verify the toad theory. Zereschilt repeatedly misreads Darkness's failed attacks and pleasure; affect detection does not establish correct causal explanation. Barton firsts omit the underprovided scale location; ZS-H03-A accepts before errand details and assumes carrying/room visibility. All original defects remain unrepaired rather than becoming native claims.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia accepts a false Konjiro claim and treats abduction as her responsibility, while also asking useful procedural questions. Cielo's deliberate attack and participation despite Lia's no are distinct from a contact-triggered blow. Erika misreads a restraint crowd as fans, yet resists flattery after exposed harm. Charlie's leak and selective disclosure coexist with correct warnings; Daniel's possession claims and ignored glove warning remain his errors. LI-H02-A adds a current-pause explanation; CI-H02-B assumes male spectators; CI-H03-B supplies an unverified protective reason; ER-H02-B overstates absence of urgent timing; all original firsts remain unrepaired.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

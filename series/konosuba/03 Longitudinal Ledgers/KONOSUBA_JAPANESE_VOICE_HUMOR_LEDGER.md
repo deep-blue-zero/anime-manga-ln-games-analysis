@@ -1975,3 +1975,10 @@ Alderp's printed private focalization includes both ワシ and 私; normalize ne
 Barton uses professor correction, familiar 君, intimate バーベラちゃん and shifts between exposition, ignorance and appeal. Zereschilt's courtesy, 少年, superior-directed honorifics, recognition-dependent names and pleas differ by counterpart. 残虐公/残虐候/着ぐるみ侯爵 and count address remain attested textual functions, not a normalized rank. Sylphina's formal introduction, role-play and private ママ permission differ from adult speech. Sixteen English firsts establish no Japanese/audio/L3 performance.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia's 私, familiar partner names, きみ, blunt antagonist refusal and brief アクア様 shift with relationship and information. Cielo's ボク, カズマさん, リアちゃん/エーリカちゃん include gentle explanation, refusal, urgency and label protest; ボク is not male-identity proof. Erika's アタシ, 可愛い frame, sharper アンタ and parent-directed パパとママ have different pragmatic jobs. Charlie's シエロちゃん and ダニエル様 differ from Daniel's formal 私/あなた and coercive claims. The 24 English methodological firsts provide no Japanese, audio, native-human or new L3 performance result.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

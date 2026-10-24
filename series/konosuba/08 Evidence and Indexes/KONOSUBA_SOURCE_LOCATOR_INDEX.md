@@ -1971,3 +1971,10 @@ The cohort 28 index/provenance bind 89 actual complete source-known windows to 1
 Cohort29 index/provenance bind 68 complete source-known windows to 6,730 unique BASE slots across forty members in eighteen local EPUB objects. Fourteen complete BASE members include fifteen bibliographic slots and a 37-slot creator afterword. All name/title/costume literal-hit contexts are reconciled within received intervals, without exhaustive unnamed/image-only/alias absence or new whole-source/ruby/residual/image-set/admission credit. MAIN17U016 is creator afterword, not principal epilogue; DUST07 defense is the performed scene.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+The cohort30 index/provenance binds 33 complete current FD native deliveries to all 3,707 unique positive-member BASE slots: nine principal bodies/3,645 and six nonfiction/62 across fifteen members in one local object. This adds no fresh whole-edition, ruby, residual, image-set or admission credit. Original source gate retains ten zero-P resources and fifteen images. Eighty-one outside-FD literal リア-hit paragraphs are longer words or another name, not Lia joins; the fixed forty-one-object query does not certify alias/image/anonymous-role absence. Member hashes and private raw receipt lineage are explicit without publishing source text.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

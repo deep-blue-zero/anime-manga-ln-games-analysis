@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort29.receiving-and-provenance.v1",
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "received_utc": "2026-10-24T04:01:04.559905+00:00",
   "previous_published_source": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
   "main_at_receiving": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
@@ -561,5 +561,19 @@
     "original_firsts": 16,
     "dependent_pairs": 8
   },
-  "display_prose_precision": "Current project totals and new cohort counts are separate. Only newly authored maintained prose/display fields receive punctuation spacing; all seventeen frozen files and thirteen canonical cores remain byte-exact."
+  "display_prose_precision": "Current project totals and new cohort counts are separate. Only newly authored maintained prose/display fields receive punctuation spacing; all seventeen frozen files and thirteen canonical cores remain byte-exact.",
+  "publication_resolution": {
+    "source": "f6297f384640a97edf0bbd31853699e6f632edea",
+    "tree": "abb5d944c89bb5054b623934964fb2522a546fbb",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT29_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "8d4200cd6ed4dfdac7b3aa18ab7f5517b1df046fb9e8ee657f0dfa1d672c005b",
+    "source_run": 40061340948,
+    "full_discovered_tests": 459,
+    "current_models": 43,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "separate_housekeeping_run": null
+  },
+  "current_gate_qualification": "Original source/diagnostic scope and all frozen bodies remain exact. Author publication is closed; protected-main integration, independent accuracy, grade and confidence gain are not certified."
 }

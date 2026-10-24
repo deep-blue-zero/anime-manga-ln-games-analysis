@@ -1529,3 +1529,10 @@ Alderp's rank, money and artifact access have actual defeats; delegated influenc
 Barton knows useful ecology but can answer the wrong practical question; exact den inference is explicitly refused. Material discovery, weather causation and tactical execution are separate. Zereschilt's nail pain and holy vulnerability coexist with actual shop defense; Vanir's immediate nearby life sharing is another agent's costly intervention. Sylphina's greeting, play and requests demonstrate bounded social competence without adult judgment or medical independence. No exercise's stipulated capacity earns a skill grade.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia contributes spear skill, a missing-plan question and costume-rule knowledge; keyboard range and mana remain finite, and Aqua supplies her resurrection. Cielo's strength is directly demonstrated, while healing is offered by her and credited by Megumin after the quest (FD-U012 P163/P388-390); apologies P404/P422 are not separate casts. Erika's trap lapse coexists with speed, rehearsal and a correct quiz answer. Charlie reads the manual and later gives a correct warning despite disclosure errors. Daniel learns barehand cost, acquires gloves and later fails to attend to their loss. Stipulated hypothetical skills earn no canonical competence.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

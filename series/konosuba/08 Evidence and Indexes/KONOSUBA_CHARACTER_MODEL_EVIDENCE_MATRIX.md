@@ -1174,3 +1174,10 @@ Alderp, Maxwell, Ragcraft and Ignis receive distinct scoped Tier 3 monographs an
 Barton and Zereschilt have separate Tier 3 monographs and provisional four-rule models. Sylphina has a Tier 2 monograph without a model; Barbera and five occupational roles have compact Tier 1 profiles, and castle gatekeepers/guide retain a Tier 0 group index. Candidate totals are 43 models, 37 scoped secondary model subjects, 52 compact profiles, 20 monograph-only subjects and 270 nonfinal records. Six old rows change, 258 other old rows stay exact; six new scope records do not prove six globally unique people. Independent maturity and final batteries remain open.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia, Cielo and Erika have distinct Tier3 monographs and provisional four-rule models; Charlie and Daniel have Tier2 monographs without models. Seven occupational/social encounters have compact Tier1 profiles and five unresolved roles/groups retain Tier0 indexes. Candidate totals are 46 models, 40 scoped secondary model subjects, 59 compact profiles, 22 monograph-only subjects and 282 nonfinal records. Five entering rows change and 265 others remain exact; twelve new scope records are not twelve globally unique people. Source-known consistency exercises do not establish independent reliability or final maturity.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

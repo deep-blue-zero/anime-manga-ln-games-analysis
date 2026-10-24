@@ -2008,3 +2008,10 @@ Status reversals include an overrun host, a bought wedding disrupted by actual p
 Barton's ill-timed lessons and honorific gates depend on task mismatch and status, not universal ignorance. His actual fear and contribution survive the joke. Zereschilt's exterior/status reversals permit both harmful spectacle and coercive victimization; threatening the opening is not a fair test. Sylphina's Mama misunderstanding is sustained by adults despite the cousin correction; her laughter or apology does not endorse their adult meanings. Barbera's distant scene ends without a heard reply.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+FD's cool singer/filthy room, shy Archpriest/physical force and confident Ranger/missed check operate through typed mismatches. They do not erase unwanted contact, privacy objections, injuries or resource costs. Charlie's fan fixation can defeat secrecy and produce hurt; his bodily precaution prevents a universal painless-masochism reading. Daniel's pomp and powerful weapon coexist with small ambitions, actual destruction and self-injury. A comic defeat does not establish permanent enemy deaths, while a reunion does not backdate assent.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

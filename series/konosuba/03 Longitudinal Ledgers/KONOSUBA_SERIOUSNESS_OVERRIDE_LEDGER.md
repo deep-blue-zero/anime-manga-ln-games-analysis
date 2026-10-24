@@ -1322,3 +1322,10 @@ Darkness's self-sacrificial marriage and earlier fantasies do not provide free c
 Barton takes a frightened personal risk and objects to harm to Darkness while retaining selective species concern and earlier dangerous judgment. Offered restitution is not paid restitution. Zereschilt's body pain, actual first dagger injury, reactive attack, finite destruction/restoration and forced concessions remain consequential despite costume comedy. Sylphina is still internally ill during the lively pre-remedy greeting; later reported remedy recovery matters. Adult actions in her presence are not her consent.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia actually dies intercepting lightning aimed at Megumin and Aqua actually resurrects her (FD-U016 P350-379); repeated text P390 is not another cast. Barrier exhaustion and limited range remain real. Unwanted contact, coercive recruitment, public destruction and mostly soldier injuries retain costs; the stated absence of resident injuries is not universal harmlessness. Cielo and Erika's care does not erase their explicit override of Lia's refusal. Authorized final-plan assent and contained casting do not prove every exit or permanent death, and donation intent does not authorize shared funds.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

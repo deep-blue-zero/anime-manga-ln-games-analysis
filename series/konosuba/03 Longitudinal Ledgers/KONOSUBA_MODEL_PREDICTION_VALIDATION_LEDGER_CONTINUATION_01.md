@@ -554,3 +554,10 @@ Four initial provisional models have three eight-field candidates each. Twenty-f
 Two new provisional models each have four eight-field rules. Sixteen immutable source-informed firsts form eight dependent pairs after foundation/input freezes, all stages by the same informed root. BT-H02 omits an underprovided location; explicit-refusal transfer is unvalidated; BT-H04-A adds past dialogue; ZS-H03-A prematurely accepts and adds task/visibility details; ZS-H04 changes several variables. Strong cues, generic rivals and English methodological dialogue remain. Zero regeneration, repair, independent accuracy, grade or confidence gain; the nine-category final battery is incomplete.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Three separate four-rule candidates add 24 original firsts in twelve dependent pairs after foundation/input freezes. The same informed root authored and assessed every stage with all contrasts visible. LI-H02-A adds a current-pause explanation; CI-H02-B assumes male spectators; CI-H03-B attributes a protective reason and steps despite no; ER-H02-B turns unprovided timing into no urgent deadline; ER-H03 does not separate particularity from commitment; ER-H04-A extrapolates an initiating unapproved pledge. Cueing, generic rivals, overarticulate self-advocacy and English methodological prose remain. Original bodies are byte-exact, with zero regeneration/feedback repair and no independent accuracy, grade, confidence gain or completed nine-category battery.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

@@ -1519,3 +1519,10 @@ Alderp/Maxwell combine exploited nonpayment, valued cruelty and later harmful de
 Barton revises means after reported Barbera feedback, but price and apparent happiness do not reveal her motive or assent. Megumin, Yunyun and Iris are distinct partners; Iris's royal identity arrives late. Zereschilt seeks Vanir's help, Darkness's patronage and Kazuma's mediation while contributing to Wiz's shop. Sylphina's embrace does not make her responsible for preventing Aqua's attacks. Her caregiver attachment is distinct from biological parenthood. No official or guild-role resemblance proves an identity join.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Axel Hearts is a particular partnership: Lia excludes her partners, Cielo and Erika disobey, then Lia apologizes and requests renewed membership and receives acceptance. These are different choices, not retroactive consensus. Erika can reject praise after concealed harm; the later producer reconciliation remains under incomplete motive information. Cielo's protected procedure is local assent, not bare-contact permission. Daniel's refused invitations and marriage language and Charlie's possession claim do not establish mutual romance. Charlie's correct warning and aid to Daniel preserve a distinct subordinate relationship.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.

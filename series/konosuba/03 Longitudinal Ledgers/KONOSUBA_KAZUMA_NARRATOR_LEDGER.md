@@ -1445,3 +1445,10 @@ K's earlier expectations are fallible: the supposed Leen courtship concerns Dust
 CONTEXP02U023 switches to Kazuma while the surrounding Barton components are Megumin-narrated. His guilt attribution and alternative cat reading remain interpretations. Megumin later reports Barton's persuasion and recalls her own deliberate miss; do not invent an unheard persuasion transcript or sole cause. Kazuma's favorable judgment of Zereschilt after the night attack does not erase the earlier deliberate humiliation spectacle. MAIN17 creator modality and Dust's observed defense retain different planes.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+All FD main narration is Kazuma, including Lia's quoted recovered self-history. He suppresses Aqua's disclosure of Megumin's cart destruction, conceals producer incentives, guesses causes for Cielo and misreads her worried gaze as attraction. Actual cleanup, advice, no-touch restraint and help can coexist with those failures. Cielo's self-offer and Megumin's healing appraisal do not become a separately observed cast. The private history is invited only to Kazuma and Aqua; no general disclosure to the two partners is supplied. Source reports, judgments and direct acts retain their distinct access.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
