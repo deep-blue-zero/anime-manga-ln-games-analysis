@@ -1915,3 +1915,17 @@ Duke earns a monograph and one provisional status/affiliation rule:the weak/inte
 Perie earns a twelve-dimension monograph from her own dress preference,criticism responses,changing mission understanding,assignment responsibility and actual fighting. The guild waitress and mansion gate guard earn bounded profiles. Four reported or unresolved roles append as indexes. One existing row changes;341 others remain exact in each plane. No new behavioral model is earned by the evidence presently available.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+Rouzeri79,general-store owner80 and helmeted noble88 each earn a twelve-dimension monograph and one provisional rule. Goals,information,actual choices,relationships and adverse evidence govern scope. Four compact supporting profiles348-351 and five sparse role/report records352-356 append. Three entering rows change,345others exact per plane;19historical differences remain. No model is inherited by role,species,gender or anonymity.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Doreck81,Gaibil82 and recurring Bridol head butler84 earn individual twelve-dimension monographs and3provisional models/5rules. King83earns a substantial monograph without a model. Seven compact profiles at357,358,361–365and19sparse overlapping routes at359,360,366–382append;four entering rows change,353others exact per plane. Distinct real,performed and mistaken identities retain their knowledge times.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

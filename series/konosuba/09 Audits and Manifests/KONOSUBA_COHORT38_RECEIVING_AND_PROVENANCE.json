@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort38.receiving-and-provenance.v1",
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "received_utc": "2026-10-24T17:10:38.125614+00:00",
   "remote_baseline_before_publication": "53639c0e266c145c4c6288b98fba0e33dc3307ea",
   "source_baseline": "3f70ea84567f5007f5466e8166004b4d23fdaf8f",
@@ -605,5 +605,20 @@
   "global_census_closed": false,
   "global_completion_percentage": null,
   "designated_global_outputs_authored": false,
-  "full_program_complete": false
+  "full_program_complete": false,
+  "publication_resolution": {
+    "source": "9eb4d4c1a4f2c4c6ac130e9869ad478ecb40e47a",
+    "tree": "ee52b44c0ab5bb6d43b9ecc320f1934f28ec13bb",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT38_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "b3e4fd84a6d30460d4a3080937af8d8d6b516e94f43f2f555cb1b873568ac82d",
+    "source_run": 40115509649,
+    "full_discovered_tests": 459,
+    "current_models": 56,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "separate_housekeeping_run": null,
+    "pull_request_number": 314
+  },
+  "current_gate_qualification": "Three public cores,20frozen private artifacts,18supporting records and compact04 remain exact. Original guard gender-attribution defect,false-negative name check and intermediate corrections remain private dated history. Perie Tier2 and the bounded roles preserve own action,report,narrator interpretation,knowledge and unresolved joins. All56models and earlier original bodies/defects remain exact. Protected integration,independent accuracy,grade,confidence gain,final batteries and principal StageD successors remain unearned."
 }

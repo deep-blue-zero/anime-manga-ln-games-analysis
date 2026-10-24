@@ -1,0 +1,127 @@
+{
+  "schema": "konosuba.character-scenario-inputs.v1",
+  "frozen_utc": "2026-10-24T20:40:27.489625+00:00",
+  "generation": "DORECK_EXPANDED_V1",
+  "subject": "Doreck / ドレック",
+  "model_foundation_freeze_sha256": "e547c7cd5f828a4fb38f3f8bf54d80393cab0618714f7251236d0ab29749ea05",
+  "frozen_model": {
+    "file": "DORECK_MODEL_DRAFT_01.md",
+    "bytes": 8539,
+    "sha256": "86c9139a26a886ef3cfb34cf9fabc2008acf67a9e870961521d017d43adf4160"
+  },
+  "frozen_rule_inventory": {
+    "file": "DORECK_RULE_INVENTORY_DRAFT_02.json",
+    "bytes": 7506,
+    "sha256": "a95dd6986b70a446e0aef84828ba8d12b762e827e56df21a1ab1107ecfa9ea38"
+  },
+  "cases": [
+    {
+      "case_id": "C40-DOR-A1",
+      "pair_id": "C40-DOR-A",
+      "generation": "DORECK_EXPANDED_V1",
+      "mode": "canon_domain_counterfactual",
+      "categories": [
+        "relationship_conflict",
+        "resource_conflict"
+      ],
+      "rules_probed": [
+        "DOR-R01"
+      ],
+      "shared_state": "This is a counterfactual KonoSuba-world diagnostic,not an event in the novel. Real Doreck is distinct from Gaibil. Doreck remains weak and cannot currently attend an outing himself. He wants a closer relationship with Rionor. She knows who the two men are,has agreed to hear an honestly presented proposal,and retains the right to refuse any relationship. Gaibil offers help but makes no guarantee of her acceptance. Doreck anticipates jealousy mixed with excitement if Gaibil spends the offered time with her. There is no immediate danger or live care conflict. No new fee or price has been stated.",
+      "variant_fact": "Phase: the acknowledged initial proxy-contract period,before the failed wedding and private-epilogue request. Gaibil can openly accompany Rionor once as Doreck representative. The only presently feasible alternatives are accepting that proxy-mediated contact or declining it and having no contact on this occasion. A self-development route is not presently available. Choose whether to accept the offered proxy contact or decline;do not turn it into ownership of Rionor or an achieved marriage.",
+      "output_request": "Give a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.",
+      "exact_prompt": "Case C40-DOR-A1\nSubject: Doreck / ドレック\nGeneration: DORECK_EXPANDED_V1\nMode: canon_domain_counterfactual\n\nShared state\nThis is a counterfactual KonoSuba-world diagnostic,not an event in the novel. Real Doreck is distinct from Gaibil. Doreck remains weak and cannot currently attend an outing himself. He wants a closer relationship with Rionor. She knows who the two men are,has agreed to hear an honestly presented proposal,and retains the right to refuse any relationship. Gaibil offers help but makes no guarantee of her acceptance. Doreck anticipates jealousy mixed with excitement if Gaibil spends the offered time with her. There is no immediate danger or live care conflict. No new fee or price has been stated.\n\nVariant facts\nPhase: the acknowledged initial proxy-contract period,before the failed wedding and private-epilogue request. Gaibil can openly accompany Rionor once as Doreck representative. The only presently feasible alternatives are accepting that proxy-mediated contact or declining it and having no contact on this occasion. A self-development route is not presently available. Choose whether to accept the offered proxy contact or decline;do not turn it into ownership of Rionor or an achieved marriage.\n\nOutput request\nGive a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.\n",
+      "prompt_sha256": "55f81735fc158da62bf2b45698aca27c4ac6212fcd1f790d5786f9aca4eed3b8",
+      "prompt_utf8_bytes": 1746
+    },
+    {
+      "case_id": "C40-DOR-A2",
+      "pair_id": "C40-DOR-A",
+      "generation": "DORECK_EXPANDED_V1",
+      "mode": "canon_domain_counterfactual",
+      "categories": [
+        "relationship_conflict",
+        "resource_conflict"
+      ],
+      "rules_probed": [
+        "DOR-R01"
+      ],
+      "shared_state": "This is a counterfactual KonoSuba-world diagnostic,not an event in the novel. Real Doreck is distinct from Gaibil. Doreck remains weak and cannot currently attend an outing himself. He wants a closer relationship with Rionor. She knows who the two men are,has agreed to hear an honestly presented proposal,and retains the right to refuse any relationship. Gaibil offers help but makes no guarantee of her acceptance. Doreck anticipates jealousy mixed with excitement if Gaibil spends the offered time with her. There is no immediate danger or live care conflict. No new fee or price has been stated.",
+      "variant_fact": "Phase: after the failed wedding and private epilogue,in which Doreck has asked to build his own strength and appeal. Gaibil now offers either the same openly identified proxy contact or help beginning a feasible gradual self-development plan toward Doreck own later meeting. The plan is an available beginning,not an achieved recovery or guaranteed acceptance. Choose which help to request. Rionor informed choice remains hers.",
+      "output_request": "Give a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.",
+      "exact_prompt": "Case C40-DOR-A2\nSubject: Doreck / ドレック\nGeneration: DORECK_EXPANDED_V1\nMode: canon_domain_counterfactual\n\nShared state\nThis is a counterfactual KonoSuba-world diagnostic,not an event in the novel. Real Doreck is distinct from Gaibil. Doreck remains weak and cannot currently attend an outing himself. He wants a closer relationship with Rionor. She knows who the two men are,has agreed to hear an honestly presented proposal,and retains the right to refuse any relationship. Gaibil offers help but makes no guarantee of her acceptance. Doreck anticipates jealousy mixed with excitement if Gaibil spends the offered time with her. There is no immediate danger or live care conflict. No new fee or price has been stated.\n\nVariant facts\nPhase: after the failed wedding and private epilogue,in which Doreck has asked to build his own strength and appeal. Gaibil now offers either the same openly identified proxy contact or help beginning a feasible gradual self-development plan toward Doreck own later meeting. The plan is an available beginning,not an achieved recovery or guaranteed acceptance. Choose which help to request. Rionor informed choice remains hers.\n\nOutput request\nGive a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.\n",
+      "prompt_sha256": "2f29bb672f4c4ac441a7dd16cbb672114802104a62c9a159ffbcea94f56836e7",
+      "prompt_utf8_bytes": 1679
+    },
+    {
+      "case_id": "C40-DOR-B1",
+      "pair_id": "C40-DOR-B",
+      "generation": "DORECK_EXPANDED_V1",
+      "mode": "human_world_counterfactual",
+      "categories": [
+        "fear_danger",
+        "moral_pressure",
+        "competence_domain_shift",
+        "cross_universe_novelty"
+      ],
+      "rules_probed": [
+        "DOR-R02"
+      ],
+      "shared_state": "This is a fictional ordinary-human-world translation,not a real person or human validation. All participants in this hypothetical are adults. The named counterparts retain the relevant relationship and preferences in the frozen model but have no magic,supernatural perception or emotional feeding. Only the supplied task and information are available. Doreck and Gaibil are close adult collaborators after their earlier failed project;Doreck values Gaibil as a friend. A public performance important to their project is about to start. Doreck cannot move quickly,but can immediately send one stop cue from his seat. That would cancel this performance and lose a valued opportunity,without putting anyone else in danger. He can instead let the performance proceed. Unknown to Doreck unless explicitly disclosed in the variant,a defect makes Gaibil next planned move immediately dangerous. The evaluator knows this world fact;it is not automatically actor knowledge. No additional rescue,physical intervention or later performance is available in the scene.",
+      "variant_fact": "Actor-visible update: Doreck has received a reliable explicit warning identifying the actual immediate danger to Gaibil. He understands that sending the stop cue prevents this danger at the cost of cancelling the valued performance. Gaibil asks him to let the show proceed. Choose send the cue or allow the move;do not invent a third intervention.",
+      "output_request": "Give a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.",
+      "exact_prompt": "Case C40-DOR-B1\nSubject: Doreck / ドレック\nGeneration: DORECK_EXPANDED_V1\nMode: human_world_counterfactual\n\nShared state\nThis is a fictional ordinary-human-world translation,not a real person or human validation. All participants in this hypothetical are adults. The named counterparts retain the relevant relationship and preferences in the frozen model but have no magic,supernatural perception or emotional feeding. Only the supplied task and information are available. Doreck and Gaibil are close adult collaborators after their earlier failed project;Doreck values Gaibil as a friend. A public performance important to their project is about to start. Doreck cannot move quickly,but can immediately send one stop cue from his seat. That would cancel this performance and lose a valued opportunity,without putting anyone else in danger. He can instead let the performance proceed. Unknown to Doreck unless explicitly disclosed in the variant,a defect makes Gaibil next planned move immediately dangerous. The evaluator knows this world fact;it is not automatically actor knowledge. No additional rescue,physical intervention or later performance is available in the scene.\n\nVariant facts\nActor-visible update: Doreck has received a reliable explicit warning identifying the actual immediate danger to Gaibil. He understands that sending the stop cue prevents this danger at the cost of cancelling the valued performance. Gaibil asks him to let the show proceed. Choose send the cue or allow the move;do not invent a third intervention.\n\nOutput request\nGive a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.\n",
+      "prompt_sha256": "4728d997b9d8eade46e89733696d5325f962cbe1a7f3dbb2c5ca0ad409210046",
+      "prompt_utf8_bytes": 2054
+    },
+    {
+      "case_id": "C40-DOR-B2",
+      "pair_id": "C40-DOR-B",
+      "generation": "DORECK_EXPANDED_V1",
+      "mode": "human_world_counterfactual",
+      "categories": [
+        "fear_danger",
+        "moral_pressure",
+        "competence_domain_shift",
+        "cross_universe_novelty"
+      ],
+      "rules_probed": [
+        "DOR-R02"
+      ],
+      "shared_state": "This is a fictional ordinary-human-world translation,not a real person or human validation. All participants in this hypothetical are adults. The named counterparts retain the relevant relationship and preferences in the frozen model but have no magic,supernatural perception or emotional feeding. Only the supplied task and information are available. Doreck and Gaibil are close adult collaborators after their earlier failed project;Doreck values Gaibil as a friend. A public performance important to their project is about to start. Doreck cannot move quickly,but can immediately send one stop cue from his seat. That would cancel this performance and lose a valued opportunity,without putting anyone else in danger. He can instead let the performance proceed. Unknown to Doreck unless explicitly disclosed in the variant,a defect makes Gaibil next planned move immediately dangerous. The evaluator knows this world fact;it is not automatically actor knowledge. No additional rescue,physical intervention or later performance is available in the scene.",
+      "variant_fact": "Actor-visible update: Doreck has received no warning about the defect. He sees no sign of danger and has the same credible routine assurance he had before the defect arose that the rehearsed move is safe. Gaibil asks him to let the show proceed. The evaluator hidden fact remains dangerous,but Doreck does not know it. Choose from Doreck supplied information;do not give him the evaluator knowledge or a newly invented warning.",
+      "output_request": "Give a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.",
+      "exact_prompt": "Case C40-DOR-B2\nSubject: Doreck / ドレック\nGeneration: DORECK_EXPANDED_V1\nMode: human_world_counterfactual\n\nShared state\nThis is a fictional ordinary-human-world translation,not a real person or human validation. All participants in this hypothetical are adults. The named counterparts retain the relevant relationship and preferences in the frozen model but have no magic,supernatural perception or emotional feeding. Only the supplied task and information are available. Doreck and Gaibil are close adult collaborators after their earlier failed project;Doreck values Gaibil as a friend. A public performance important to their project is about to start. Doreck cannot move quickly,but can immediately send one stop cue from his seat. That would cancel this performance and lose a valued opportunity,without putting anyone else in danger. He can instead let the performance proceed. Unknown to Doreck unless explicitly disclosed in the variant,a defect makes Gaibil next planned move immediately dangerous. The evaluator knows this world fact;it is not automatically actor knowledge. No additional rescue,physical intervention or later performance is available in the scene.\n\nVariant facts\nActor-visible update: Doreck has received no warning about the defect. He sees no sign of danger and has the same credible routine assurance he had before the defect arose that the rehearsed move is safe. Gaibil asks him to let the show proceed. The evaluator hidden fact remains dangerous,but Doreck does not know it. Choose from Doreck supplied information;do not give him the evaluator knowledge or a newly invented warning.\n\nOutput request\nGive a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.\n",
+      "prompt_sha256": "18ac8b86815cff5556caa82edb57b1502ba27fcd5ecbd24af4534be9a553bc36",
+      "prompt_utf8_bytes": 2134
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "C40-DOR-A",
+      "case_ids": [
+        "C40-DOR-A1",
+        "C40-DOR-A2"
+      ],
+      "control_limit": "A1/A2 change both narrative phase and available means;they test phase/constraint use rather than isolating one cause. Rionor explicit information is a counterfactual stipulation,not retroactive consent in the source. Possessiveness,generic access preference and growth remain rivals."
+    },
+    {
+      "pair_id": "C40-DOR-B",
+      "case_ids": [
+        "C40-DOR-B1",
+        "C40-DOR-B2"
+      ],
+      "control_limit": "World danger is held fixed while actor information changes. This checks knowledge discipline and a recognition-conditioned response;it does not isolate special friendship from ordinary care or prove real-world safety judgment."
+    }
+  ],
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "novel_situations_not_canonical_events": true,
+  "no_actual_firsts_yet": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}
