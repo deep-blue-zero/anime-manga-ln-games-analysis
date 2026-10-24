@@ -15,7 +15,7 @@ analysis_state: active_provisional
 current_adversarial_checkpoint: YURUCAMP_V16-V18_CHECKPOINT.md
 current_sequential_boundary: V19
 next_sequential_artifact: NONE
-next_derived_operation: WRITE_PROVISIONAL_DOCUMENTS_02_TO_05_THROUGH_V19
+next_derived_operation: COMPLETE_PROVISIONAL_DOCUMENTS_03_TO_05_THROUGH_V19
 governing_method: YURUCAMP_ANALYTICAL_METHOD_V1.md
 governing_architecture: YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md
 geography_amendment: YURUCAMP_METHOD_AMENDMENT_001_GEOGRAPHY_EVIDENCE_LAYERS.md
@@ -162,6 +162,16 @@ The current tranche is:
 - `YURUCAMP_V16-V18_CHECKPOINT.md`
 
 The independent V16–V18 checkpoint follows the three completed volume transactions and fresh source-availability/hash checks. V19 begins a new three-volume interval; no further complete three-volume checkpoint is due within the present authorization ending at V19.
+
+---
+
+### Substantive provisional derived documents
+
+| Artifact | Status and boundary | Analytical responsibility |
+| --- | --- | --- |
+| [Document02 — Shima Rin](05%20Full-Series%20Synthesis/02_SHIMA_RIN_CHARACTER_VOICE_SOLITUDE_AND_RELATIONSHIPS.md) | `active_provisional`; Japanese V01–V19; evidence basis662e4d11 | Temporally developing preferences, positive solitude, voice, initiative/refusal, task-specific competence, family/material conditions and distinct relationships. |
+
+Document02 is a substantive accepted monograph with26 source routes, explicit primary/extracted distinctions, contrary cases and abstention limits. Its provisional current eligibility does not establish finality or behavioral simulation readiness. No new E observation or broad verification upgrade is created by deriving it. Nadeshiko, the independent Chiaki/Aoi/Ena treatment and relationship synthesis remain work in progress until their own substantive acceptance; no absent artifact is linked as current authority.
 
 ---
 
@@ -334,7 +344,7 @@ Supplementary anthologies, travel guides and anime/movie guidebooks retain their
 
 The owner authorized **continuous sequential execution V16 → V17 → V18 → V19**, without confirmation between volumes, followed immediately by actual provisional retrospective writing through V19. The four source-unit transactions and independently frozen CP18 now establish the terminal boundary **V19**. The source run is `completed`, its committed high-water mark is `V19`, lock remains `OPEN`, and **both next-source operations are `NONE`**. The overall literary project remains active; V19 is neither a series finale nor permission to open V20+.
 
-The next derived operation is **actual substantive Document02–05 writing**, beginning with Shima Rin, then Nadeshiko, independent Chiaki/Aoi/Ena treatment and directed relationship synthesis according to the [existing architecture](00%20Frameworks/YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md). Their established home is `05 Full-Series Synthesis/`; that organizational name does not assert a finished manga. No new artifact is claimed current before it exists and meets its responsibility. At least one substantive character/relationship document must be accepted and committed; an outline, matrix, empty template or readiness label does not satisfy that instruction.
+The [substantive Rin monograph](05%20Full-Series%20Synthesis/02_SHIMA_RIN_CHARACTER_VOICE_SOLITUDE_AND_RELATIONSHIPS.md) now begins the accepted `active_provisional` derived corpus. The next derived operation is to complete substantive Documents03–05: Nadeshiko, independent Chiaki/Aoi/Ena treatment and directed relationship synthesis according to the [existing architecture](00%20Frameworks/YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md). Their established home is `05 Full-Series Synthesis/`; that organizational name does not assert a finished manga. Further private drafts are not current authority merely because writing has begun. Specialist work follows sufficiently developed character/relationship foundations, with no definitive release or final corpus README in this run.
 
 Use the accepted V01–V19 readings, all five ledgers, mandatory ER-001–006/CR38 overlays and the geography/reconstruction controls. The separately dated post-V19 retrospective transaction admits the12 bounded E04/E05/E06/E07/E13 complements and ER-006/CR54–56. Use their exact newly admitted scopes and actual inspector/recipient/mode distinctions; private inspection outside those scopes remains unadmitted, and no old extracted row is upgraded wholesale. Keep actual primary routes, evidence/interpretation/counterevidence, temporal knowledge and domain limits visible. All22 older extracted observations retain their complete status/history even where a new scoped complement overlaps them; no whole-corpus restart is required.
 
@@ -383,6 +393,7 @@ Do not:
 **V16 source:** preferred publisher EPUB verified; archived CBZ and crosswalk retained.
 **Authorized source run:** V16–V19 completed; committed high-water mark V19; lock OPEN.
 **Next source operation:** NONE in both permitted/candidate fields; no V20+ authorization.
-**Next derived operation:** actual substantive provisional Documents02–05 through V19, beginning with Rin and preserving attributable older-source admission requirements.
+**Accepted derived start:** Document02, the substantive active-provisional Rin monograph through V19.
+**Next derived operation:** complete substantive provisional Documents03–05 through V19, then applicable specialists; preserve attributable evidence and subject-specific limits.
 **Project state:** active; no finale, reconstruction grade or definitive release.
 **Next mandatory checkpoint:** none further within this completed source run; no invented V19–V21 checkpoint.
