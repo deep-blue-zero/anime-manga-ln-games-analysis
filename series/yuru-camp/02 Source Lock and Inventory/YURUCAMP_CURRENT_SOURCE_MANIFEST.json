@@ -12,7 +12,7 @@
   "source_reconciliation_date": "2026-10-22",
   "folder_readback_date": "2026-10-17",
   "current_verification_scope": "Preferred V16-V19 and retained V16/V17 archive bytes independently checked locally. Earlier folder readback, download audits and supplement hash qualifications remain historical. October 22 Drive propagation records provide metadata, not independently verified remote content hashes.",
-  "analytical_boundary": "V17",
+  "analytical_boundary": "V19",
   "source_folder_drive_id": "1KlblbCFMPiR1WSwMLD2icnDT7Dhjzm-j",
   "folder_readback": {
     "root_direct_children": 32,
@@ -52,7 +52,7 @@
     "isbn": "9784832297579",
     "official_catalog": "https://houbunsha.co.jp/comics/detail.php?p=%25A4%25E6%25A4%25EB%25A5%25AD%25A5%25E3%25A5%25F3%25A2%25A4",
     "verified_date": "2026-10-17",
-    "acquisition_status": "ACQUIRED_VERIFIED_LOCAL_NOT_ANALYZED",
+    "acquisition_status": "ACQUIRED_VERIFIED_LOCAL_ANALYZED",
     "acquisition_verified_date": "2026-10-22",
     "drive_id": "1SUFejNLxWBLfvvfY2xCwyhhvYX8ud3bN",
     "sha256": "b77d071322e1321e52b6d68b254843becedc339b807c982865d99b0d5e32a043",
@@ -3103,7 +3103,416 @@
       "sha256": "2bea54a3bdefb97905910bd0038d3066e662bfb770ddf446164f8d7e99053395",
       "identity_verification": "LIVE_METADATA_AND_DOWNLOADED_SHA256",
       "identity_verified_date": "2026-10-17",
-      "literary_analysis_boundary": "NOT_ANALYZED",
+      "literary_analysis_boundary": "V18_COMPLETE",
+      "literary_reading": "../03 Volume Deep Readings/YURUCAMP_V18_DEEP_READING.md",
+      "literary_inspection_date": "2026-10-23",
+      "literary_inspection_scope": "All 166 preferred original spine images individually visually inspected in source order, then separate Pass B; includes every transition, both Heya strips and all closing matter. No V19 or supplementary-continuity narrative admitted.",
+      "literary_pagination_limit": "Printed contents starts are distinct from visibly verified page folios. Full-title pages and the first Heya strip do not display their contents opening folios. Use exact spine/XHTML/image locators and local folio observations; no blanket spine-to-print offset.",
+      "literary_section_map": [
+        {
+          "section_type": "front_matter",
+          "label": "Opening cover, blank, color illustration and contents",
+          "spine_start": 1,
+          "spine_end": 4,
+          "start_locator": {
+            "spine_index": 1,
+            "itemref_id": "p-cover",
+            "xhtml": "item/xhtml/p-cover.xhtml",
+            "image": "item/image/cover_omo.jpg"
+          },
+          "end_locator": {
+            "spine_index": 4,
+            "itemref_id": "p-003",
+            "xhtml": "item/xhtml/p-003.xhtml",
+            "image": "item/image/i-002.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch99 諏訪湖までどれくらい?",
+          "spine_start": 5,
+          "spine_end": 28,
+          "start_locator": {
+            "spine_index": 5,
+            "itemref_id": "p-004",
+            "xhtml": "item/xhtml/p-004.xhtml",
+            "image": "item/image/i-003.jpg"
+          },
+          "end_locator": {
+            "spine_index": 28,
+            "itemref_id": "p-027",
+            "xhtml": "item/xhtml/p-027.xhtml",
+            "image": "item/image/i-026.jpg"
+          },
+          "title_locator": {
+            "spine_index": 6,
+            "itemref_id": "p-005",
+            "xhtml": "item/xhtml/p-005.xhtml",
+            "image": "item/image/i-004.jpg"
+          },
+          "printed_contents_start": 3,
+          "printed_start_visually_verified": 3,
+          "printed_end_visually_verified": 26
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch99 transition vignettes",
+          "spine_start": 29,
+          "spine_end": 30,
+          "start_locator": {
+            "spine_index": 29,
+            "itemref_id": "p-028",
+            "xhtml": "item/xhtml/p-028.xhtml",
+            "image": "item/image/i-027.jpg"
+          },
+          "end_locator": {
+            "spine_index": 30,
+            "itemref_id": "p-029",
+            "xhtml": "item/xhtml/p-029.xhtml",
+            "image": "item/image/i-028.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch100 フランクフルトには何が合うか問題",
+          "spine_start": 31,
+          "spine_end": 54,
+          "start_locator": {
+            "spine_index": 31,
+            "itemref_id": "p-030",
+            "xhtml": "item/xhtml/p-030.xhtml",
+            "image": "item/image/i-029.jpg"
+          },
+          "end_locator": {
+            "spine_index": 54,
+            "itemref_id": "p-053",
+            "xhtml": "item/xhtml/p-053.xhtml",
+            "image": "item/image/i-052.jpg"
+          },
+          "title_locator": {
+            "spine_index": 31,
+            "itemref_id": "p-030",
+            "xhtml": "item/xhtml/p-030.xhtml",
+            "image": "item/image/i-029.jpg"
+          },
+          "printed_contents_start": 29,
+          "printed_end_visually_verified": 52,
+          "printed_start_not_visible": true,
+          "source_layout_note": "Spine 31 is the full chapter title without a visible opening folio; the first story page is spine 32, visibly printed 30. Contents start 29 is not claimed as a visible folio."
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch100 transition vignettes",
+          "spine_start": 55,
+          "spine_end": 56,
+          "start_locator": {
+            "spine_index": 55,
+            "itemref_id": "p-054",
+            "xhtml": "item/xhtml/p-054.xhtml",
+            "image": "item/image/i-053.jpg"
+          },
+          "end_locator": {
+            "spine_index": 56,
+            "itemref_id": "p-055",
+            "xhtml": "item/xhtml/p-055.xhtml",
+            "image": "item/image/i-054.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch101 行き当たりばったり奥三河ツーリング",
+          "spine_start": 57,
+          "spine_end": 80,
+          "start_locator": {
+            "spine_index": 57,
+            "itemref_id": "p-056",
+            "xhtml": "item/xhtml/p-056.xhtml",
+            "image": "item/image/i-055.jpg"
+          },
+          "end_locator": {
+            "spine_index": 80,
+            "itemref_id": "p-079",
+            "xhtml": "item/xhtml/p-079.xhtml",
+            "image": "item/image/i-078.jpg"
+          },
+          "title_locator": {
+            "spine_index": 58,
+            "itemref_id": "p-057",
+            "xhtml": "item/xhtml/p-057.xhtml",
+            "image": "item/image/i-056.jpg"
+          },
+          "printed_contents_start": 55,
+          "printed_start_visually_verified": 55,
+          "printed_end_visually_verified": 78
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch101 transition vignettes",
+          "spine_start": 81,
+          "spine_end": 82,
+          "start_locator": {
+            "spine_index": 81,
+            "itemref_id": "p-080",
+            "xhtml": "item/xhtml/p-080.xhtml",
+            "image": "item/image/i-079.jpg"
+          },
+          "end_locator": {
+            "spine_index": 82,
+            "itemref_id": "p-081",
+            "xhtml": "item/xhtml/p-081.xhtml",
+            "image": "item/image/i-080.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch102 ツーリングは用法・用量を守り正しくお楽しみ下さい",
+          "spine_start": 83,
+          "spine_end": 106,
+          "start_locator": {
+            "spine_index": 83,
+            "itemref_id": "p-082",
+            "xhtml": "item/xhtml/p-082.xhtml",
+            "image": "item/image/i-081.jpg"
+          },
+          "end_locator": {
+            "spine_index": 106,
+            "itemref_id": "p-105",
+            "xhtml": "item/xhtml/p-105.xhtml",
+            "image": "item/image/i-104.jpg"
+          },
+          "title_locator": {
+            "spine_index": 86,
+            "itemref_id": "p-085",
+            "xhtml": "item/xhtml/p-085.xhtml",
+            "image": "item/image/i-084.jpg"
+          },
+          "printed_contents_start": 81,
+          "printed_start_visually_verified": 81,
+          "printed_end_visually_verified": 104,
+          "source_layout_note": "The chapter begins with story images at spine 83; its full title is spine 86, after three story images."
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch102 transition vignettes",
+          "spine_start": 107,
+          "spine_end": 108,
+          "start_locator": {
+            "spine_index": 107,
+            "itemref_id": "p-106",
+            "xhtml": "item/xhtml/p-106.xhtml",
+            "image": "item/image/i-105.jpg"
+          },
+          "end_locator": {
+            "spine_index": 108,
+            "itemref_id": "p-107",
+            "xhtml": "item/xhtml/p-107.xhtml",
+            "image": "item/image/i-106.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch103 くうねるはしる",
+          "spine_start": 109,
+          "spine_end": 132,
+          "start_locator": {
+            "spine_index": 109,
+            "itemref_id": "p-108",
+            "xhtml": "item/xhtml/p-108.xhtml",
+            "image": "item/image/i-107.jpg"
+          },
+          "end_locator": {
+            "spine_index": 132,
+            "itemref_id": "p-131",
+            "xhtml": "item/xhtml/p-131.xhtml",
+            "image": "item/image/i-130.jpg"
+          },
+          "title_locator": {
+            "spine_index": 109,
+            "itemref_id": "p-108",
+            "xhtml": "item/xhtml/p-108.xhtml",
+            "image": "item/image/i-107.jpg"
+          },
+          "printed_contents_start": 107,
+          "printed_end_visually_verified": 130,
+          "printed_start_not_visible": true,
+          "source_layout_note": "Spine 109 is the full chapter title without a visible opening folio; the first story page is spine 110, visibly printed 108. Contents start 107 is not claimed as a visible folio."
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch103 transition vignettes",
+          "spine_start": 133,
+          "spine_end": 134,
+          "start_locator": {
+            "spine_index": 133,
+            "itemref_id": "p-132",
+            "xhtml": "item/xhtml/p-132.xhtml",
+            "image": "item/image/i-131.jpg"
+          },
+          "end_locator": {
+            "spine_index": 134,
+            "itemref_id": "p-133",
+            "xhtml": "item/xhtml/p-133.xhtml",
+            "image": "item/image/i-132.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch104 この先通り抜けできません",
+          "spine_start": 135,
+          "spine_end": 158,
+          "start_locator": {
+            "spine_index": 135,
+            "itemref_id": "p-134",
+            "xhtml": "item/xhtml/p-134.xhtml",
+            "image": "item/image/i-133.jpg"
+          },
+          "end_locator": {
+            "spine_index": 158,
+            "itemref_id": "p-157",
+            "xhtml": "item/xhtml/p-157.xhtml",
+            "image": "item/image/i-156.jpg"
+          },
+          "title_locator": {
+            "spine_index": 136,
+            "itemref_id": "p-135",
+            "xhtml": "item/xhtml/p-135.xhtml",
+            "image": "item/image/i-134.jpg"
+          },
+          "printed_contents_start": 133,
+          "printed_start_visually_verified": 133,
+          "printed_end_visually_verified": 156,
+          "source_layout_note": "Main narrative ends at spine 158 before the proposed pond; the journey remains unfinished."
+        },
+        {
+          "section_type": "bonus",
+          "label": "Heya Camp 放課後129 むじんのなぞ",
+          "spine_start": 159,
+          "spine_end": 160,
+          "start_locator": {
+            "spine_index": 159,
+            "itemref_id": "p-158",
+            "xhtml": "item/xhtml/p-158.xhtml",
+            "image": "item/image/i-157.jpg"
+          },
+          "end_locator": {
+            "spine_index": 160,
+            "itemref_id": "p-159",
+            "xhtml": "item/xhtml/p-159.xhtml",
+            "image": "item/image/i-158.jpg"
+          },
+          "title_locator": {
+            "spine_index": 159,
+            "itemref_id": "p-158",
+            "xhtml": "item/xhtml/p-158.xhtml",
+            "image": "item/image/i-157.jpg"
+          },
+          "printed_contents_start": 157,
+          "printed_end_visually_verified": 158,
+          "printed_start_not_visible": true,
+          "source_layout_note": "Contents lists the grouped Heya start as 157. Spine 159 has the strip title but no visible 157 folio."
+        },
+        {
+          "section_type": "bonus",
+          "label": "Heya Camp 放課後130 ほらかほんまか甲州弁講座",
+          "spine_start": 161,
+          "spine_end": 162,
+          "start_locator": {
+            "spine_index": 161,
+            "itemref_id": "p-160",
+            "xhtml": "item/xhtml/p-160.xhtml",
+            "image": "item/image/i-159.jpg"
+          },
+          "end_locator": {
+            "spine_index": 162,
+            "itemref_id": "p-161",
+            "xhtml": "item/xhtml/p-161.xhtml",
+            "image": "item/image/i-160.jpg"
+          },
+          "title_locator": {
+            "spine_index": 161,
+            "itemref_id": "p-160",
+            "xhtml": "item/xhtml/p-160.xhtml",
+            "image": "item/image/i-159.jpg"
+          },
+          "printed_start_visually_verified": 159,
+          "printed_end_visually_verified": 160,
+          "source_layout_note": "No separate contents start is given for this second Heya strip; visible folios 159 and 160 were independently inspected."
+        },
+        {
+          "section_type": "afterword",
+          "label": "Author afterword and initial-publication list",
+          "spine_start": 163,
+          "spine_end": 163,
+          "start_locator": {
+            "spine_index": 163,
+            "itemref_id": "p-162",
+            "xhtml": "item/xhtml/p-162.xhtml",
+            "image": "item/image/i-161.jpg"
+          },
+          "end_locator": {
+            "spine_index": 163,
+            "itemref_id": "p-162",
+            "xhtml": "item/xhtml/p-162.xhtml",
+            "image": "item/image/i-161.jpg"
+          },
+          "source_layout_note": "The author identifies this volume as the first part of the 152 touring arc; author cooking remarks remain paratext."
+        },
+        {
+          "section_type": "colophon",
+          "label": "Electronic-edition colophon",
+          "spine_start": 164,
+          "spine_end": 164,
+          "start_locator": {
+            "spine_index": 164,
+            "itemref_id": "p-163",
+            "xhtml": "item/xhtml/p-163.xhtml",
+            "image": "item/image/i-162.jpg"
+          },
+          "end_locator": {
+            "spine_index": 164,
+            "itemref_id": "p-163",
+            "xhtml": "item/xhtml/p-163.xhtml",
+            "image": "item/image/i-162.jpg"
+          }
+        },
+        {
+          "section_type": "jacket",
+          "label": "Full jacket",
+          "spine_start": 165,
+          "spine_end": 165,
+          "start_locator": {
+            "spine_index": 165,
+            "itemref_id": "p-164",
+            "xhtml": "item/xhtml/p-164.xhtml",
+            "image": "item/image/cover.jpg"
+          },
+          "end_locator": {
+            "spine_index": 165,
+            "itemref_id": "p-164",
+            "xhtml": "item/xhtml/p-164.xhtml",
+            "image": "item/image/cover.jpg"
+          }
+        },
+        {
+          "section_type": "underjacket",
+          "label": "Alternate-world/time-leap metafiction comic",
+          "spine_start": 166,
+          "spine_end": 166,
+          "start_locator": {
+            "spine_index": 166,
+            "itemref_id": "p-165",
+            "xhtml": "item/xhtml/p-165.xhtml",
+            "image": "item/image/hyoushi.jpg"
+          },
+          "end_locator": {
+            "spine_index": 166,
+            "itemref_id": "p-165",
+            "xhtml": "item/xhtml/p-165.xhtml",
+            "image": "item/image/hyoushi.jpg"
+          },
+          "source_layout_note": "Altered names, worldline and AI dialogue belong to separate metafictional comedy, not a literal main-story future."
+        }
+      ],
       "kind": "epub",
       "technical_audit_date": "2026-10-17",
       "technical": {
@@ -4172,7 +4581,416 @@
       "sha256": "b77d071322e1321e52b6d68b254843becedc339b807c982865d99b0d5e32a043",
       "identity_verification": "INDEPENDENT_LOCAL_SHA256_WITH_RECORDED_DRIVE_METADATA",
       "identity_verified_date": "2026-10-22",
-      "literary_analysis_boundary": "NOT_ANALYZED",
+      "literary_analysis_boundary": "V19_COMPLETE",
+      "literary_reading": "../03 Volume Deep Readings/YURUCAMP_V19_DEEP_READING.md",
+      "literary_inspection_date": "2026-10-23",
+      "literary_inspection_scope": "All 166 preferred original spine images individually visually inspected strictly in source order, then separate Pass B; includes every transition, both Heya strips and all closing matter. No V20+ or supplementary-continuity narrative admitted.",
+      "literary_pagination_limit": "Printed contents starts are distinct from visibly verified folios; full-title openings and first Heya image do not create invisible opening folios. Use exact spine/XHTML/image lookup, not a blanket spine-to-print offset.",
+      "literary_section_map": [
+        {
+          "section_type": "front_matter",
+          "label": "Opening cover, blank, color illustration and contents",
+          "spine_start": 1,
+          "spine_end": 4,
+          "start_locator": {
+            "spine_index": 1,
+            "itemref_id": "p-cover",
+            "xhtml": "item/xhtml/p-cover.xhtml",
+            "image": "item/image/cover_omo.jpg"
+          },
+          "end_locator": {
+            "spine_index": 4,
+            "itemref_id": "p-003",
+            "xhtml": "item/xhtml/p-003.xhtml",
+            "image": "item/image/i-002.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch105 爆走!!152ツーリング",
+          "spine_start": 5,
+          "spine_end": 28,
+          "start_locator": {
+            "spine_index": 5,
+            "itemref_id": "p-004",
+            "xhtml": "item/xhtml/p-004.xhtml",
+            "image": "item/image/i-003.jpg"
+          },
+          "end_locator": {
+            "spine_index": 28,
+            "itemref_id": "p-027",
+            "xhtml": "item/xhtml/p-027.xhtml",
+            "image": "item/image/i-026.jpg"
+          },
+          "title_locator": {
+            "spine_index": 7,
+            "itemref_id": "p-006",
+            "xhtml": "item/xhtml/p-006.xhtml",
+            "image": "item/image/i-005.jpg"
+          },
+          "printed_contents_start": 3,
+          "printed_start_visually_verified": 3,
+          "printed_end_visually_verified": 26
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch105 transition vignettes",
+          "spine_start": 29,
+          "spine_end": 30,
+          "start_locator": {
+            "spine_index": 29,
+            "itemref_id": "p-028",
+            "xhtml": "item/xhtml/p-028.xhtml",
+            "image": "item/image/i-027.jpg"
+          },
+          "end_locator": {
+            "spine_index": 30,
+            "itemref_id": "p-029",
+            "xhtml": "item/xhtml/p-029.xhtml",
+            "image": "item/image/i-028.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch106 菅野高原と手抜きメシ",
+          "spine_start": 31,
+          "spine_end": 54,
+          "start_locator": {
+            "spine_index": 31,
+            "itemref_id": "p-030",
+            "xhtml": "item/xhtml/p-030.xhtml",
+            "image": "item/image/i-029.jpg"
+          },
+          "end_locator": {
+            "spine_index": 54,
+            "itemref_id": "p-053",
+            "xhtml": "item/xhtml/p-053.xhtml",
+            "image": "item/image/i-052.jpg"
+          },
+          "title_locator": {
+            "spine_index": 33,
+            "itemref_id": "p-032",
+            "xhtml": "item/xhtml/p-032.xhtml",
+            "image": "item/image/i-031.jpg"
+          },
+          "printed_contents_start": 29,
+          "printed_start_visually_verified": 29,
+          "printed_end_visually_verified": 52,
+          "source_layout_note": "The full title at spine 33 is rotated; its inferred contents-position folio is not claimed visible."
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch106 transition vignettes",
+          "spine_start": 55,
+          "spine_end": 56,
+          "start_locator": {
+            "spine_index": 55,
+            "itemref_id": "p-054",
+            "xhtml": "item/xhtml/p-054.xhtml",
+            "image": "item/image/i-053.jpg"
+          },
+          "end_locator": {
+            "spine_index": 56,
+            "itemref_id": "p-055",
+            "xhtml": "item/xhtml/p-055.xhtml",
+            "image": "item/image/i-054.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch107 ながのめいぶつゆめうつつ",
+          "spine_start": 57,
+          "spine_end": 80,
+          "start_locator": {
+            "spine_index": 57,
+            "itemref_id": "p-056",
+            "xhtml": "item/xhtml/p-056.xhtml",
+            "image": "item/image/i-055.jpg"
+          },
+          "end_locator": {
+            "spine_index": 80,
+            "itemref_id": "p-079",
+            "xhtml": "item/xhtml/p-079.xhtml",
+            "image": "item/image/i-078.jpg"
+          },
+          "title_locator": {
+            "spine_index": 59,
+            "itemref_id": "p-058",
+            "xhtml": "item/xhtml/p-058.xhtml",
+            "image": "item/image/i-057.jpg"
+          },
+          "printed_contents_start": 55,
+          "printed_start_visually_verified": 55,
+          "printed_end_visually_verified": 78
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch107 transition vignettes",
+          "spine_start": 81,
+          "spine_end": 82,
+          "start_locator": {
+            "spine_index": 81,
+            "itemref_id": "p-080",
+            "xhtml": "item/xhtml/p-080.xhtml",
+            "image": "item/image/i-079.jpg"
+          },
+          "end_locator": {
+            "spine_index": 82,
+            "itemref_id": "p-081",
+            "xhtml": "item/xhtml/p-081.xhtml",
+            "image": "item/image/i-080.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch108 諏訪湖まであと少し",
+          "spine_start": 83,
+          "spine_end": 106,
+          "start_locator": {
+            "spine_index": 83,
+            "itemref_id": "p-082",
+            "xhtml": "item/xhtml/p-082.xhtml",
+            "image": "item/image/i-081.jpg"
+          },
+          "end_locator": {
+            "spine_index": 106,
+            "itemref_id": "p-105",
+            "xhtml": "item/xhtml/p-105.xhtml",
+            "image": "item/image/i-104.jpg"
+          },
+          "title_locator": {
+            "spine_index": 83,
+            "itemref_id": "p-082",
+            "xhtml": "item/xhtml/p-082.xhtml",
+            "image": "item/image/i-081.jpg"
+          },
+          "printed_contents_start": 81,
+          "printed_end_visually_verified": 104,
+          "printed_start_not_visible": true,
+          "source_layout_note": "Spine 83 is the full title without a visible opening folio; first story spine 84 visibly prints 82."
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch108 transition vignettes",
+          "spine_start": 107,
+          "spine_end": 108,
+          "start_locator": {
+            "spine_index": 107,
+            "itemref_id": "p-106",
+            "xhtml": "item/xhtml/p-106.xhtml",
+            "image": "item/image/i-105.jpg"
+          },
+          "end_locator": {
+            "spine_index": 108,
+            "itemref_id": "p-107",
+            "xhtml": "item/xhtml/p-107.xhtml",
+            "image": "item/image/i-106.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch109 餃子鍋を囲んで",
+          "spine_start": 109,
+          "spine_end": 132,
+          "start_locator": {
+            "spine_index": 109,
+            "itemref_id": "p-108",
+            "xhtml": "item/xhtml/p-108.xhtml",
+            "image": "item/image/i-107.jpg"
+          },
+          "end_locator": {
+            "spine_index": 132,
+            "itemref_id": "p-131",
+            "xhtml": "item/xhtml/p-131.xhtml",
+            "image": "item/image/i-130.jpg"
+          },
+          "title_locator": {
+            "spine_index": 109,
+            "itemref_id": "p-108",
+            "xhtml": "item/xhtml/p-108.xhtml",
+            "image": "item/image/i-107.jpg"
+          },
+          "printed_contents_start": 107,
+          "printed_end_visually_verified": 130,
+          "printed_start_not_visible": true,
+          "source_layout_note": "Spine 109 is the full title without a visible opening folio; first story spine 110 visibly prints 108."
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch109 transition vignettes",
+          "spine_start": 133,
+          "spine_end": 134,
+          "start_locator": {
+            "spine_index": 133,
+            "itemref_id": "p-132",
+            "xhtml": "item/xhtml/p-132.xhtml",
+            "image": "item/image/i-131.jpg"
+          },
+          "end_locator": {
+            "spine_index": 134,
+            "itemref_id": "p-133",
+            "xhtml": "item/xhtml/p-133.xhtml",
+            "image": "item/image/i-132.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch110 GWも営業中！",
+          "spine_start": 135,
+          "spine_end": 158,
+          "start_locator": {
+            "spine_index": 135,
+            "itemref_id": "p-134",
+            "xhtml": "item/xhtml/p-134.xhtml",
+            "image": "item/image/i-133.jpg"
+          },
+          "end_locator": {
+            "spine_index": 158,
+            "itemref_id": "p-157",
+            "xhtml": "item/xhtml/p-157.xhtml",
+            "image": "item/image/i-156.jpg"
+          },
+          "title_locator": {
+            "spine_index": 137,
+            "itemref_id": "p-136",
+            "xhtml": "item/xhtml/p-136.xhtml",
+            "image": "item/image/i-135.jpg"
+          },
+          "printed_contents_start": 133,
+          "printed_start_visually_verified": 133,
+          "printed_end_visually_verified": 156,
+          "source_layout_note": "Main narrative ends at spine 158 with Aoi/Mei at Rin home and Saki at the window; the proposed Motosuko goal is not shown reached. This GW practice sequence is not assumed chronologically after the preceding reunion."
+        },
+        {
+          "section_type": "bonus",
+          "label": "Heya Camp 放課後131 本しめじの育て方",
+          "spine_start": 159,
+          "spine_end": 160,
+          "start_locator": {
+            "spine_index": 159,
+            "itemref_id": "p-158",
+            "xhtml": "item/xhtml/p-158.xhtml",
+            "image": "item/image/i-157.jpg"
+          },
+          "end_locator": {
+            "spine_index": 160,
+            "itemref_id": "p-159",
+            "xhtml": "item/xhtml/p-159.xhtml",
+            "image": "item/image/i-158.jpg"
+          },
+          "title_locator": {
+            "spine_index": 159,
+            "itemref_id": "p-158",
+            "xhtml": "item/xhtml/p-158.xhtml",
+            "image": "item/image/i-157.jpg"
+          },
+          "printed_contents_start": 157,
+          "printed_end_visually_verified": 158,
+          "printed_start_not_visible": true,
+          "source_layout_note": "Contents lists grouped Heya start 157; opening spine 159 has no visible 157 folio. Mushroom/book cultivation is Nadeshiko deliberate joke, not factual guidance."
+        },
+        {
+          "section_type": "bonus",
+          "label": "Heya Camp 放課後132 かぶると大変",
+          "spine_start": 161,
+          "spine_end": 162,
+          "start_locator": {
+            "spine_index": 161,
+            "itemref_id": "p-160",
+            "xhtml": "item/xhtml/p-160.xhtml",
+            "image": "item/image/i-159.jpg"
+          },
+          "end_locator": {
+            "spine_index": 162,
+            "itemref_id": "p-161",
+            "xhtml": "item/xhtml/p-161.xhtml",
+            "image": "item/image/i-160.jpg"
+          },
+          "title_locator": {
+            "spine_index": 161,
+            "itemref_id": "p-160",
+            "xhtml": "item/xhtml/p-160.xhtml",
+            "image": "item/image/i-159.jpg"
+          },
+          "printed_start_visually_verified": 159,
+          "printed_end_visually_verified": 160,
+          "source_layout_note": "No separate contents start; helmet/hair and riding exaggerations belong to bonus comedy."
+        },
+        {
+          "section_type": "afterword",
+          "label": "Author afterword and initial-publication list",
+          "spine_start": 163,
+          "spine_end": 163,
+          "start_locator": {
+            "spine_index": 163,
+            "itemref_id": "p-162",
+            "xhtml": "item/xhtml/p-162.xhtml",
+            "image": "item/image/i-161.jpg"
+          },
+          "end_locator": {
+            "spine_index": 163,
+            "itemref_id": "p-162",
+            "xhtml": "item/xhtml/p-162.xhtml",
+            "image": "item/image/i-161.jpg"
+          },
+          "source_layout_note": "Author identifies this as the latter half of the 152 touring arc; author memories/recommendations remain paratext."
+        },
+        {
+          "section_type": "colophon",
+          "label": "Electronic-edition colophon",
+          "spine_start": 164,
+          "spine_end": 164,
+          "start_locator": {
+            "spine_index": 164,
+            "itemref_id": "p-163",
+            "xhtml": "item/xhtml/p-163.xhtml",
+            "image": "item/image/i-162.jpg"
+          },
+          "end_locator": {
+            "spine_index": 164,
+            "itemref_id": "p-163",
+            "xhtml": "item/xhtml/p-163.xhtml",
+            "image": "item/image/i-162.jpg"
+          }
+        },
+        {
+          "section_type": "jacket",
+          "label": "Full jacket",
+          "spine_start": 165,
+          "spine_end": 165,
+          "start_locator": {
+            "spine_index": 165,
+            "itemref_id": "p-164",
+            "xhtml": "item/xhtml/p-164.xhtml",
+            "image": "item/image/cover.jpg"
+          },
+          "end_locator": {
+            "spine_index": 165,
+            "itemref_id": "p-164",
+            "xhtml": "item/xhtml/p-164.xhtml",
+            "image": "item/image/cover.jpg"
+          }
+        },
+        {
+          "section_type": "underjacket",
+          "label": "Alternate-world/occult metafiction comic",
+          "spine_start": 166,
+          "spine_end": 166,
+          "start_locator": {
+            "spine_index": 166,
+            "itemref_id": "p-165",
+            "xhtml": "item/xhtml/p-165.xhtml",
+            "image": "item/image/hyoushi.jpg"
+          },
+          "end_locator": {
+            "spine_index": 166,
+            "itemref_id": "p-165",
+            "xhtml": "item/xhtml/p-165.xhtml",
+            "image": "item/image/hyoushi.jpg"
+          },
+          "source_layout_note": "Altered names, time-axis/worldline claims and occult rules are separate parody, not literal main-story outcomes."
+        }
+      ],
       "kind": "epub",
       "technical_audit_date": "2026-10-22",
       "technical": {

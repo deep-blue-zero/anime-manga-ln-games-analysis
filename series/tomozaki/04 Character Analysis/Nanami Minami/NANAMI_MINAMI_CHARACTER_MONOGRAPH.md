@@ -3,55 +3,61 @@ series: TOMOZAKI
 artifact_type: character_monograph
 subject: NANAMI_MINAMI_MIMIMI
 subject_japanese: 七海みなみ
-scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_SUPPLEMENTS
-source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01–11 plus story-locally routed Volumes 06.5 and 08.5; V07 Special Edition main novel only"
-analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
+scope: JP_LIGHT_NOVEL_V01-V12_PLUS_ROUTED_SUPPLEMENTS
+source_boundary: "Audited Japanese main V01–V12 plus story-local V06.5/V08.5; V07 Special Edition main novel only; V12 c7c witness separately admitted"
+analytical_boundary: V12_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V2.0_R05_INTEGRATED
+generation: V12_REVIEWED_MIMIMI
 status: canonical
 release_state: mutable_active
 maturity_state: MATURE_LOCAL_LITERARY_ROLE
+accepted_R05_maturity: MATURE_LOCAL_LITERARY_ROLE
 repository_authority: true
 governing_method: "../../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md"
 governing_architecture: "../../00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md"
 canonical_entrypoint: "../../CURRENT_STATE_AND_CORPUS_MAP.md"
-responsibility_scope: R05_NANAMI_MINAMI_ONLY_COMPLETING_AUTHORED_PAIR
+responsibility_scope: NANAMI_MINAMI_TARGETED_V12_UPDATE_ONLY
+candidate_base_commit: 406b26c4591a9bce99c83a54600286f56a35678e
+candidate_operation: SCRATCH_ONLY_NO_SHARED_OR_GIT_MUTATIONS
 author_baseline_commit: 733e03ce27da9c255011fdac3114978c16bcac3f
 integration_baseline_commit: 5d6fbdd16322f0191091a2167b8068e93be99c30
 baseline_blob: cc42d1eed3b8fbdae5daa508a66766de485988a8
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 original_author_reasoning_control: "Author reported no selectable Max control; integration does not certify that authoring setting"
 review_state: INDEPENDENT_REVIEW_PASS
+accepted_R05_review_state: INDEPENDENT_REVIEW_PASS
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
+V12_integration_review: "../../08 Audits and Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md"
+V12_review_date: "2026-10-23"
 ---
 
-# Nanami Minami / Mimimi — character monograph through Volume 11
+# Nanami Minami / Mimimi — character monograph through Volume 12
 
 **Making life lively without having to earn the right to remain in it**
 
-> **Authority and scope.** This independently reviewed expansion is mutable current literary authority for Mimimi’s individual R05 responsibility under the [integration review](../../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md). Together with Kikuchi’s accepted study it completes the R05 pair. Aggregate specialist completion, R10 convergence and whole-corpus release remain unpassed. V11 is an admitted boundary, not the ending of the series.
+> **Current literary authority.** This study passes independent source and semantic review for its individual monograph responsibility through V12. The [V12/principal and R06 integration review](../../08%20Audits%20and%20Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md) records the exact scope, corrections, evidence and preservation checks. Earlier R04/R05 acceptances and V11 states remain historical at their stated boundaries. Required relationship/thematic work, convergence, full-series release, derived models and formal terminal closure remain separate unfinished gates. All accepted evidence records, compatibility anchors and V11 conditional probes are retained; §17 owns the current argument.
 
 ## 1. Responsibility and evidence boundary
 
-Nanami Minami, usually called Mimimi and called *Minmi* by Tama, is an ambitious athlete, an energetic schoolmate, a practiced maker of jokes and social openings, a daughter in a two-person household, a close friend of Natsubayashi Hanabi/Tama and Hinami Aoi, and a girl who falls in love with Tomozaki Fumiya without becoming his chosen romantic partner. By V11 she also takes initiative in a stalled student-council project and makes a consequential first appearance as an improvised game commentator. None of these identities exhausts her. The girl who loses an election is also the girl who likes a noisy karaoke gathering; the girl who fears having nothing inside her is also someone with particular tastes, impatiences, memories, ideas, and pleasures. This study reconstructs that person rather than treating her as either a lesson about second place or the emotional cost of someone else’s romance. [NM-E01–E05, E20, E23–E27](#nm-e01)
+Nanami Minami, usually called Mimimi and called *Minmi* by Tama, is an ambitious athlete, an energetic schoolmate, a practiced maker of jokes and social openings, a daughter in a two-person household, a close friend of Natsubayashi Hanabi/Tama and Hinami Aoi, and a girl who falls in love with Tomozaki Fumiya without becoming his chosen romantic partner. By V11 she also takes initiative in a stalled student-council project and makes a consequential first appearance as an improvised game commentator. V12 adds direct participation in a revised story project, an explicit account of liking a chosen self while love continues, and a practical event-preparation failure shared with Fumiya. None of these identities exhausts her. The girl who loses an election is also the girl who likes a noisy karaoke gathering; the girl who fears having nothing inside her is also someone with particular tastes, impatiences, memories, ideas, and pleasures. This study reconstructs that person rather than treating her as either a lesson about second place or the emotional cost of someone else’s romance. [NM-E01–E05, E20, E23–E27](#nm-e01)
 
-The evidence boundary is the locked Japanese V01–V11 corpus with V06.5 and V08.5 admitted only under their existing story-local routes. Supplemental publication order is not a second chronology. In V06.5, the girls’ conversation belongs to the V03 camp; the running story belongs after the Tama crisis and before the V06 declaration; the restaurant scene re-presents an encounter already narrated in V06; and only the final immediate aftermath advances beyond that volume’s ending. V08.5’s conversation between Mimimi and Kikuchi belongs to the early dating interval between V07 and V08, not to a recovery after the V08 crisis. The appended two-viewpoint Tama/Mimimi story in V05 remains an explicitly routed bonus, not an automatically post-V05 event. [NM-E06, E08, E10–E11, E15](#nm-e06)
+The candidate evidence boundary is the locked Japanese V01–V12 corpus with V06.5 and V08.5 admitted only under their existing story-local routes. V12 uses the independently admitted c7c witness; DR12 below means the [Volume 12 deep reading](../../02%20Sequential%20Readings/TOMOZAKI_V12_DEEP_READING.md). The complete accepted V11 history remains the baseline. Supplemental publication order is not a second chronology. In V06.5, the girls’ conversation belongs to the V03 camp; the running story belongs after the Tama crisis and before the V06 declaration; the restaurant scene re-presents an encounter already narrated in V06; and only the final immediate aftermath advances beyond that volume’s ending. V08.5’s conversation between Mimimi and Kikuchi belongs to the early dating interval between V07 and V08, not to a recovery after the V08 crisis. The appended two-viewpoint Tama/Mimimi story in V05 remains an explicitly routed bonus, not an automatically post-V05 event. [NM-E06, E08, E10–E11, E15](#nm-e06)
 
-No later volume, adaptation, translation, external character profile, remembered canon, or parallel karaoke episode supplies evidence here. The V08.5 *if* story cannot establish Mimimi’s main-continuity song choices. The V07 artbook cannot establish an unshown personal history. Prose descriptions of delivery and movement are literary evidence, not an independently heard performance. This operation introduces no image-dependent finding and uses no OCR. Its exact-source returns are selective, not a claim to have repeated the sequential project.
+No post-V12 volume, adaptation, translation, external character profile, remembered canon, or parallel karaoke episode supplies evidence here. The V08.5 *if* story cannot establish Mimimi’s main-continuity song choices. The V07 artbook cannot establish an unshown personal history. Prose descriptions of delivery and movement are literary evidence, not an independently heard performance. This operation introduces no image-dependent finding and uses no OCR. Its exact-source returns are selective, not a claim to have repeated the sequential project.
 
 The principal access distinction is between **what Mimimi does, what she says, what her private narration thinks, and what someone else makes of her**. Fumiya can see an energetic girl and infer effort behind the smile. Tama can describe the care she receives. A former team manager can remember Mimimi’s middle-school frustration. A private Mimimi chapter can disclose the disappointment she conceals from all of them. These are different warrants. Her interior account is particularly valuable, but it is not infallible: the claim that she is merely an empty, decorated frame conflicts with the same chapter’s record of desires, decisions, attachments, and judgments. [NM-E02, E07–E09, E22](#nm-e02)
 
 Interpretive claims in this monograph are therefore explicitly bounded. A recurring pattern can support a personality description without becoming an invariant. A sincere refusal can be local without being meaningless. An effective intervention can be generous without being costless. Conversely, an unarticulated lifelong rule is not proof that she never stops, never chooses, or never cares for herself. Her refusal of a rematch, her earlier refusal to join the council in another role, and her later alteration of a particular walk are important counterexamples to such totalization. [NM-E09, E17, E24](#nm-e09)
 
-**NM-E** records in §14 join the analysis to existing cumulative identities and exact reading sections. **NM-P** records identify the Japanese windows inspected for this delivery. These are local retrieval handles, not new frozen-volume claim IDs or replacements for CRI, CS, REL, EFFORT, JVL, or LOC owners. Section 15 contains hypothetical situations designed to expose the model’s conditions and limits. They are not new story events, blind predictions, or a separately released reconstruction model.
+**NM-E01–28** records in §14 join the accepted R05 analysis to existing cumulative identities and exact reading sections. **NM-P01–28** identify the Japanese windows inspected for that accepted delivery. Section 17 adds NM-E29–35/NM-P29–33 without changing those historical counts, identities or inspection claims. These are local retrieval handles, not new frozen-volume claim IDs or replacements for CRI, CS, REL, EFFORT, JVL, or LOC owners. Section 15 contains hypothetical situations designed to expose the model’s conditions and limits. They are not new story events, blind predictions, or a separately released reconstruction model.
 
 ## 2. Reconstructive thesis
 
 Mimimi is not a cheerful facade hiding one true defeated self, and she is not a rival cured by learning to accept second place. She is a highly capable, socially inventive, affectionate, and competitive person who has difficulty making demonstrated qualities count as sufficient grounds for liking herself. Under pressure, the question “What do I want to do?” becomes entangled with another: “What would establish that I am not replaceable or empty?” First place is one proposed answer. Being someone’s uniquely effective helper can become another. Neither captures all her motives, but both can make a wanted activity carry more existential weight than it can bear. [NM-E02–E05, E07, E22](#nm-e02)
 
-The central account is this: **Mimimi’s development consists in widening the reasons for which she may strive, belong, receive care, and stop—without requiring victory, indispensable usefulness, or the disappearance of inconvenient feeling as the price of remaining herself.** Her growth does not mean becoming less lively. It means that the lively person must also be allowed to have interests and limits. The V02 crisis makes the problem visible through competitive comparison. The post-retirement running story makes it visible through changes in a valued friendship and a mother’s criticism of concealed cost. The romance makes it visible through the difference between continuing love and a claim on another person. V11 gives her new capacities and sharper language without completing that adjustment.
+The central account is this: **Mimimi’s development consists in widening the reasons for which she may strive, belong, receive care, and stop—without requiring victory, indispensable usefulness, or the disappearance of inconvenient feeling as the price of remaining herself.** Her growth does not mean becoming less lively. It means that the lively person must also be allowed to have interests and limits. The V02 crisis makes the problem visible through competitive comparison. The post-retirement running story makes it visible through changes in a valued friendship and a mother’s criticism of concealed cost. The romance makes it visible through the difference between continuing love and a claim on another person. V11 gives her new capacities and sharper language without completing that adjustment. V12 makes self-regard attach explicitly to a choice she owns while the desired romantic result remains unavailable. It also shows her helping to revise the group’s method and, with Fumiya, neglecting practical work that Ashigaru then carries. Expanded agency and unfinished responsibility remain visible together. [NM-E29–35](#nm-e29)
 
 This thesis is a contestable synthesis, not Mimimi’s stated doctrine. It would be weakened by evidence that her comparison concerns have no effect outside sporting results, that the sense of being needed is irrelevant to her self-appraisal, or that her help consistently functions as a calculated demand for repayment. It would also be weakened by evidence that she invariably sacrifices her own interests and cannot enjoy an activity unless it proves something. The admitted source contradicts that last overextension. She likes loud fun, accepts particular pleasures, can refuse a second race, and sometimes claims a joking meal repayment rather than pretending she has no wants. An adequate account must explain that range, not dissolve it into hidden suffering. [NM-E06–E09, E12–E13, E26](#nm-e06)
 
@@ -98,6 +104,7 @@ The following bands distinguish event time, disclosure time, and current interpr
 | V07–V08 interstitial conversation | Indirect testing corrected into disclosure, jealousy alongside respect | Kikuchi and Mimimi become more mutually intelligible | Neither grants the other an exhaustive rule for all future conduct |
 | V08–V09 | Family and future inquiry, local distance, resistance to Fumiya’s withdrawal | Restraint becomes concrete without endorsing social self-erasure | One walk is not a permanent no-contact policy |
 | V10–V11 | Particular care, self-concept analysis, chosen council help, novice commentary | New initiative and capacities broaden her possible life | No long-horizon vocation, final romantic rule, or executed collective cure |
+| V12 | Actual story participation; trusted Tama tie with separation/self-regard fear; embodied interview and chosen romantic restraint; neglected event preparation | Ethical self-regard is explicit and testimony changes a method | Not first-ever self-love, a replacement relationship prediction, a complete contact rule, formal council succession or selected vocation |
 
 ### 3.1 Before the main relationship: ambition she was already trying to conceal
 
@@ -261,9 +268,17 @@ The commentary then tests transferable skill in a genuinely new domain. Mimimi i
 
 At the boundary, Mimimi has not solved what makes her worthy when she is not first or needed. She has, however, acted from more kinds of reason than that question alone can describe. The record contains ambition, enjoyment, gratitude, judgment, refusal, friendship, romantic desire, and newly exercised public ability. Her life has become more diversified; the conditions under which she can trust that diversity remain open.
 
-## 4. Current state vector
+### 3.19 V12: an actual contributor, with a self she can name and work she leaves undone
 
-The V11 boundary should be described through several variables, not through “more confident” as a universal improvement. Mimimi’s own distinction between *specifications* and the self makes this separation source-responsive rather than an externally imposed personality grid. [NM-E22]
+Mimimi first doubts that a story can rescue Hinami. After Kikuchi permits particular unfinished-chapter circulation, Mimimi reads and joins the actual four-person meeting. The earlier party proposal has become work. She recognizes Nana, answers a severe question about relational recognition and changes the interview’s medium by proposing a 200-metre run. She trusts Tama’s bond while fearing whether her own self-liking can survive physical separation; her conditional “next Tama” self-question is not an observed replacement relationship. [NM-E29–31](#nm-e29)
+
+Her retrospective account gives a reason for not pressing a weakened Fumiya to choose her after the play: it would not be good for either of them and might make her dislike herself. She now likes the self who made the choice she believed she should. Continuing love, earlier V09 partial self-regard and incomplete future conduct rules remain. The race preserves competition, a sudden start, breathlessness, care and joking rather than turning her into a purely verbal moral witness. [NM-P30](#nm-p30)
+
+The contribution has limits. Her reasonable defense of message-bearing fiction does not settle the harm risk that makes Kikuchi stop the meeting. Later, absorption in the story accompanies actual neglect of the event work she and Fumiya undertook; Ashigaru’s performance carries the occasion. Hinami’s private surprise at Nana’s stronger self-account exposes an incomplete model of Mimimi, not proof the real girl never developed. The current comparison and endpoint are in §17. [NM-E32–35](#nm-e32)
+
+## 4. Preserved V11 state vector — current V12 extension in §17
+
+The following accepted vector describes the V11 boundary; §17.7 supplies the current V12 dispositions. That earlier boundary should be described through several variables, not through “more confident” as a universal improvement. Mimimi’s own distinction between *specifications* and the self makes this separation source-responsive rather than an externally imposed personality grid. [NM-E22]
 
 | Dimension | Demonstrated state | Important variation | Boundary on the claim |
 |---|---|---|---|
@@ -425,6 +440,8 @@ Tama’s directness is often what Mimimi needs, but the monograph should not pro
 
 At V11, the relation remains strongly reciprocal in evidence but not invulnerable. Neither girl should be made the other’s sole regulator. A future severe conflict could test what happens when they disagree about the help wanted, when one cannot be available, or when the task is to value a person without needing her in the old role. Those are real uncertainties, not reasons to downgrade the observed affection.
 
+V12 makes one vulnerability explicit without repudiating the tie. Mimimi tells Kikuchi, with Fumiya participating, that she trusts Tama not to leave abruptly but anticipates possible physical separation through education/work. Her conditional fear about finding a “next Tama” concerns sustaining her own self-liking; Fumiya’s imagined future dependency is his inference. No replacement relationship is observed or predicted, and Tama supplies no new reply here. [§17.2; NM-P30](#nm-p30)
+
 ### 8.2 Hinami
 
 Hinami is the friend who can read Mimimi’s effort and the competitor whose continuing effort destabilizes her. Removing either side makes the V02 crisis unintelligible. If Hinami were merely an enemy, envy would not wound Mimimi’s moral self-image in the same way. If she were merely a benevolent example, repeated loss would not become such an immediate pressure. [NM-E02–E04]
@@ -434,6 +451,8 @@ Their activity also includes ordinary pleasure and useful advice. In the running
 V11 changes Mimimi’s potential contribution. She can recognize something in the separation between visible ability and self-confidence, and can describe the predicament of someone who has invested in an admired model’s route. But she does not become an expert in Hinami’s family formation by analogy. Her own acknowledgement that she might already have felt helped under similar visible circumstances is evidence against treating their crises as duplicates. [NM-E22–E23]
 
 Her wish to become Hinami’s friend in a fuller sense should be read as an aspiration about the present relationship, not as literal proof that all previous friendship was fake. The observed past includes shared activity, concern, comparison, and celebration. What seems insufficient now is access to the person’s suffering and a way of helping that does not reproduce the old asymmetry. Mimimi can choose to contribute without thereby obtaining Hinami’s consent to inquiry, narrative representation, or return to public roles. [NM-P24]
+
+V12 adds a knowledge difference in the other direction: Hinami’s private reading initially treats Mimimi as a dependent inferior copy. That is Hinami’s limited model, challenged by a fictional Nana grounded partly in actual testimony. It cannot overrule the real V09/V12 self-regard, and Nana’s composed speech cannot become an additional real Mimimi/Hinami conversation. [§17.6; NM-P32](#nm-p32)
 
 ### 8.3 Tomozaki
 
@@ -445,6 +464,8 @@ She admires his capacity to hold an aim, but that admiration does not leave her 
 
 The relation remains asymmetric romantically and reciprocal in other respects. He does not owe her selection for help received. He does owe attention to the costs of help and to the fact that her present warmth is not a promise of indefinite availability. She does not own his other relationships; he does not own her emotional timetable. Their ordinary shared language survives, but survival is not a guarantee that every old practice should return unchanged.
 
+V12 strengthens the distinction between wanting him and owning an act toward him. Her remembered refusal of an opportunistic route is directly self-described to him and Kikuchi, while the outcome she still wants remains unavailable. It adds no perpetual waiting pledge or complete future contact policy, and cannot retroactively authorize the initial V09 pulling. [§17.4; NM-P30](#nm-p30)
+
 ### 8.4 Kikuchi
 
 Kikuchi first appears to Mimimi partly through comparison: quiet charm and apparent heroine-like suitability can become the qualities Mimimi fears she lacks. The café story then replaces some of that comparison with actual exchange. Mimimi discovers a person who can be hesitant, funny, direct, and serious about the legitimacy of feeling. The dialogue does not erase the fact that Kikuchi occupies the relationship Mimimi wanted. [NM-E15–E16]
@@ -453,6 +474,8 @@ Mimimi’s indirect testing deserves its full ethical weight. She initially seek
 
 The agreement is narrower than a friendship treaty. Mimimi says she will not do wrong and wants to remain honest about feeling. Kikuchi respects the feeling. Neither defines every future private walk, touch, message, disclosure, or allocation of time. That incompleteness is not insincerity. It means later situations still require judgment. The wider relationship specialist must preserve Kikuchi’s own interests, not treat her generosity as a standing concession to whatever Mimimi may next desire.
 
+In V12 their respect includes difficult inquiry. Kikuchi questions the sufficiency of Nana’s relational rescue, Mimimi names the severity, then supplies lived testimony and an embodied method that alter the draft. Her later general defense of message-bearing fiction is reasonable but does not answer the project’s particular risk of imposing meaning. Kikuchi owns the decision to stop that meeting. Neither girl becomes the other’s passive instrument or complete ethical guarantor. [§§17.2–17.5; NM-P30–31](#nm-p30)
+
 ### 8.5 Peer and institutional groups
 
 Mimimi’s peer life is broader than the three most analyzed relationships. Sakura and Yuki, the wider class, sports contacts, and later council members supply contexts in which she is neither a rejected lover nor a rival to Hinami. Her ability to inhabit those settings matters in its own right. A monograph that only follows the central triangle would falsely make every joke and outing an attempt to regain a romantic position. [NM-E07, E11, E20, E24]
@@ -460,6 +483,8 @@ Mimimi’s peer life is broader than the three most analyzed relationships. Saku
 At the same time, group success is not a uniform property. Her election performance works locally but cannot overcome Hinami’s stored credibility. Her comic partnership benefits from friends in the audience. Her council entrance requires permission and an explanation of why a nonmember should help. Her novice commentary works within a format that gives an outsider’s view value. In each case the field and other participants help determine what her capacity can accomplish. [NM-E02, E12, E24–E25]
 
 Mimimi can accept a division of labor. She asks Fumiya for planning help, solicits information from existing members, and considers contacts through her mother’s work. These are not failures to be independently capable. They are concrete counterexamples to the idea that her only way of helping is to absorb everything personally. The larger danger remains that familiar competence may invite unexamined expansion of responsibility, as the commentary’s extension beyond the initial bounded request illustrates. [NM-P25–P26]
+
+V12 then supplies counterevidence to reliable organization: Mimimi and Fumiya neglect actual event preparation while absorbed in the novel. Ashigaru carries the underprepared occasion; their earlier initiative and her novice commentary remain real without turning this failure into success. The mother’s cost critique now also asks who absorbs work displaced by Mimimi’s own chosen project. No formal succession or selected performance career follows. [§17.5; NM-P33](#nm-p33)
 
 ### 8.6 Her mother and the limits of a family explanation
 
@@ -560,6 +585,7 @@ Forms of address also carry particular histories. `ブレーン` activates the c
 | Direct counterquestion | V09 challenge to withdrawal | Reuses their history to make a concealed problem discussable | Insight and closeness do not confer unlimited authority |
 | Reflective contrast | V11 `スペック` / `『私』そのもの` | Separates recognized ability from self-confidence | Not a diagnosis or a fixed personality score |
 | Public novice commentary | V11 stream | Makes unfamiliar action legible through ordinary questions and reaction | Not gaming expertise or an independently analyzed audio performance |
+| Addressed self-ownership and comic return | V12 interview/run | Small-voiced fear, direct liking of a chosen self, sudden competition and a jargon joke perform different acts | Not first-ever self-regard, a fixed serious/false voice division or a complete idiolect; NM-P30 |
 
 ### 10.2 The same comic form can carry different degrees of ownership
 
@@ -690,7 +716,21 @@ The analogy is useful precisely because Mimimi can identify a gap between capaci
 
 The claim assumes that development is measured by the disappearance of feeling. The corpus instead shows changes in disclosure, self-understanding, conduct, and the ability to respect other people’s positions. In V09 she can even say that she likes the self who loves him despite non-reciprocation. That is not emotional closure, but it is incompatible with the claim that nothing has changed. **Disposition: reject stasis; preserve the unresolved duration and future form of feeling.** [NM-P27]
 
-## 13. Current endpoint and open hypotheses
+### 12.11 Rival: V12 gives her self-love for the first time
+
+V09 already directly establishes liking the self who loves him despite nonreciprocation. V12 supplies another explicit ground: she likes the self who refused to acquire him through weakness. Earlier pleasure, refusals and initiative also remain real. **Disposition: strengthen articulated ownership; reject a first-agency or first-self-love narrative.** [NM-P27; NM-P30](#nm-p30)
+
+### 12.12 Rival: Nana’s strength proves the real Mimimi was merely weak
+
+The comparison belongs to Hinami’s private model. Real Mimimi has already supplied testimony that helps revise Nana, and her earlier V09 growth is independently evidenced. Yet Nana’s polished challenge is still fiction rather than a transcript of the living model. **Disposition: reject Hinami’s model as current authority; preserve both the knowledge difference and authorial composition.** [NM-P30/32](#nm-p32)
+
+### 12.13 Rival: worthwhile rescue work excuses the event failure
+
+The story’s benefit does not finish the practical preparation Mimimi and Fumiya left undone. Ashigaru’s expertise makes the event work; that outcome cannot erase how responsibility was displaced. Nor does one failure annul her earlier initiative or prove permanent incompetence. **Disposition: preserve both chosen care and actual organizational cost; leave sustainable allocation open.** [NM-P33](#nm-p33)
+
+## 13. Preserved V11 endpoint and open hypotheses — current V12 endpoint in §17
+
+This accepted R05 endpoint is retained at its original V11 clock. Section 17 revises the proposed party into actual participation, supplies new self-ownership and cost evidence, and states what remains open. Historical absence here is not a present V12 negative.
 
 ### Established at high confidence
 
@@ -711,7 +751,9 @@ Hinami’s response to the proposed collective narrative project is also open. T
 The current endpoint is therefore **expanded range with unresolved self-valuation and future choice**. The admitted literature supports real changes without establishing a completed arc.
 
 
-## 14. Canonical evidence routing
+## 14. Accepted R05 evidence routing — retained at its V11 inspection scope
+
+The accepted NM-E01–28/NM-P01–28 records, source-window counts, 319-claim/140-question horizon and review history below are preserved as the R05 record. They are not claims that V12 was then read or that this worker repeated those source returns. Section 17 adds the current V12 routes and confines replacement-support language to its conditional self-question.
 
 ### 14.1 Authority, aliases, and how to read the routes
 
@@ -1298,7 +1340,9 @@ V07 is the locked Special Edition witness; only its main-novel prose enters the 
 
 **Review state.** Independent literary and primary review accepts this responsibility with the NM-E15 route correction and the cumulative propagation recorded in the [integration review](../../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md). Character-state §9.6, relationship §7, effort §78.6, voice §6.1 and the claim index preserve the new source precision. Kikuchi’s current knowledge statement is narrowly qualified; the other reviewed monographs and all historical receipts remain unchanged. Publication checks attach to the exact resulting commit and do not settle literary OPENs.
 
-## 15. Conditional novel-situation probes
+## 15. Preserved V11 conditional novel-situation probes
+
+These accepted probes retain their original era and evidentiary scope; §17 is the current V12 update. They have not become blind tests, a released derived model or new story events through this amendment.
 
 These are **invented situations used to test a literary reconstruction**. They are not events in the novels, recovered intentions, dialogue imitations, or evidence that can be fed back into the monograph as canon. Each specifies a state, relationship, knowledge condition and stake before inferring a plausible response. Confidence concerns the supported pattern, not a numerical probability or an exact future action. The relevant order is: **select the era and relationship → identify what she actually knows and wants → identify the threatened or available value → consider more than one response → test against the counterevidence**.
 
@@ -1414,4 +1458,149 @@ This monograph owns Mimimi’s independent developmental and person-level accoun
 
 The effort specialist should carry forward ambition’s coexistence with process pleasure and actual local stopping choices. The social-system and ensemble specialists should distinguish performance skill from supportive fields and from the burden placed on a familiar helper. The care/intervention specialist should keep accurate correction, forceful initiation, later permission and beneficial reception separate. The Japanese specialist should use the new windows as attested local evidence, not as an exhaustive idiolect. None should manufacture a vocation from one successful commentary segment or a permanent romance rule from a particular restraint.
 
-The proposed next collective story still has no observed Mimimi agreement, complete membership, Hinami consent or result merely because she is named among useful contributors. R05’s independently reviewed character pair is complete while R06–R09 remain necessary and R10–R12 remain unpassed. The integration review records this study’s literary/source acceptance and bounded propagation separately from its original authoring handoff and the eventual exact-commit publication checks.
+At the preserved V11 horizon, naming Mimimi as a possible contributor did not establish her agreement or a completed intervention. V12 now shows actual contribution, method revision and recipient uptake; these still do not supply prior Hinami permission, equal knowledge or finished cost governance. The accepted R05 pair’s review remains its own receipt. This individual update does not complete later specialists or pass convergence/release/model gates; the separate integration review adjudicates R06. The current responsibilities and primary limits are in §17.
+
+## 17. V12 current band — owning a choice without erasing the feeling
+
+### 17.1 What the new evidence changes
+
+The accepted R05 account already establishes partial self-regard, genuine pleasure, initiative, local stopping acts and errors in the means of helping. V12 does not reveal those capacities for the first time. It supplies a more explicit relation between **the person she wants and the person she chooses to be**, gives her an actual part in the previously proposed writing group, and exposes practical costs that the language of helping can conceal. The earlier thesis survives with a sharper test: can Mimimi count an act as hers and worth liking when it does not obtain the relationship she wants, and can she acknowledge responsibilities beyond the person currently being helped? [NM-E29–35 below; DR12 §§3.2–3.3/3.6–3.7/4.4]
+
+Her answer to the first question is directly affirmative in one remembered choice. The answer to the second is mixed. She can articulate a limit to romantic acquisition and contribute an effective way of thinking; she and Fumiya also neglect the event work they undertook. The source therefore resists a ladder in which one good self-description makes every later action mature. Ethical self-regard, social invention and unfinished practical accountability now have to be reconstructed together.
+
+The older statement that the collective story is only a proposal remains correct **at V11**. At V12 she reads, meets, speaks and helps revise it. Conversely, being an actual contributor does not give her complete access to Hinami's family history, every other interview, or Hinami's private reading. Nor does her participation supply Hinami's prior permission. A successful eventual reception is a result to explain, not a universal authorization for the project.
+
+### 17.2 Tama: a trusted tie and an unsettled ability to like herself
+
+Kikuchi asks about the ending in which Nana is saved by becoming her best friend's first. Mimimi recognizes that the author doubts its sufficiency. This is a difficult conversation between two people who can respect one another while one is also interpreting the other's life through fiction. Kikuchi's question is not merely reassuring; Fumiya experiences it as a blade reaching the real model beneath the fictional name. Mimimi calls Kikuchi kind and severe, then answers rather than remaining an illustrative case. [NM-P30, p0013:P34–79]
+
+Three propositions must stay separate. First, Mimimi trusts Tama not suddenly to abandon her. Second, she anticipates education and work making physical separation possible. Third, she fears that, if another person's nearby recognition is what permits self-liking, she may not sustain it alone. Her conditional question about looking for a “next Tama” belongs to that fear: it is **Mimimi's addressed self-question**, spoken to Kikuchi with Fumiya participating, at P61–65. Fumiya's P68 picture of her meeting another strong person is his imaginative inference. Neither constitutes an observed replacement relationship, a chosen future partner, an exclusive future arrangement or a prediction that the existing bond ends.
+
+Her P73 concern names the object precisely: whether she can continue to like **herself** without the person who calls her first physically present. She is not saying Tama's affection is false. This distinction matters for the earlier rescue. Particular recognition can have been valuable without being a complete means of carrying self-regard into every future setting. The mother/running story already showed both pleasure in Tama's growth and vulnerability around reduced need; V12 makes the problem available for direct conversation with an author and a friend. It does not replace that ambivalence with a claim that Tama caused her dependence or that all reliance should be eliminated.
+
+Tama is absent from this exchange. The candidate must not supply her agreement, a new reassurance, or a standing availability promise. Their later presence on either side of Hinami is an ordinary shared occasion. It gives no evidence that they have negotiated separation, support limits or a reciprocal plan. The Mimimi–Tama specialist must preserve both directions of earlier care and this uneven new knowledge.
+
+### 17.3 The race is a method, a pleasure and an imperfect contest
+
+Mimimi changes the setting because she thinks that after running she may be able to speak. She asks Kikuchi to run a short distance; Kikuchi hesitates, then agrees while naming limited speed. Mimimi brings Fumiya into a 200-metre competition, while Mizusawa says he will watch. This is a concrete contribution to how the group learns. She does not merely furnish emotional content for Kikuchi to translate into an idea. She offers an embodied route through a conversation that has become too abstract and exposing. [NM-P30, P82–100]
+
+The ensuing action keeps her recognizable. She stretches while beginning the romantic account, then launches a sudden start before finishing it. Fumiya protests the unfairness; Kikuchi follows less fluently; Mimimi wins, laughs and is herself breathing hard. The narrator's attention shifts to feet, ground, pursuit and breath. Afterward she checks whether Kikuchi is all right, and Kikuchi's answer briefly borrows Mimimi's casual form before returning to polite grammar. The source gives different bodies and responses rather than an abstract example called physicality. [P101–138]
+
+Her win does not establish a new measured athletic achievement, a professional trajectory, or superiority over Hinami. The surprise start also prevents an idealized scene in which a perfectly fair result proves moral ownership. Its work is local: it interrupts the interview's form, makes speaking possible on another rhythm and preserves the mix of competitive play and concern. This differs from the earlier 100-metre farewell race. That earlier scene remains a process-valued run with a bounded rematch refusal; the V12 200-metre scene has different participants, rules and purpose. Neither should absorb the other's evidence.
+
+Mizusawa's presence at the outing does not certify that every line addressed to Fumiya and Kikuchi reaches him with the same clarity or knowledge. The two directly receiving the romantic account are explicit at P142. A shared location is not a transcript-delivery rule.
+
+### 17.4 Continuing love and a self she can choose to like
+
+Mimimi recalls Fumiya's vulnerability after the play. She says she considered whether pressing him to choose her might make him turn toward her. Fumiya recognizes the scene and cannot confidently say he would have resisted. That gives her remembered temptation practical seriousness; it does not prove a counterfactual relationship would have occurred. She did not enact that proposed acquisition. Her actual V07 redirection to Kikuchi remains the event being newly interpreted. [NM-P30, P103–115; accepted NM-E13/NM-P19]
+
+She then names two reasons for rejecting the opportunistic route: it would not be good for either of them, and obtaining him that way might make her dislike herself. The reasons include his good and her relation to her own act. A total self-sacrifice account would miss the latter; a total selfishness account would erase the former and the actual cost of losing the hoped-for route. She is not proving that no desire for repayment can ever coexist with care. She is identifying an act she chose while wanting a different romantic outcome.
+
+At P145–148 she can say with pride that she likes the self who did what she believed she should. Her contrast at P154 prioritizes making herself her own over making someone else hers. This is an articulated account of ownership, offered to Kikuchi as a possible direction for Nana. It is not a general factual theorem that every approved action cures insecurity, or an obligation that Mimimi must always give way to remain worthy. The test concerns the relation to a chosen act, not an external ranking for who suffers most nobly.
+
+Continuing love remains part of the scene. Her present-tense account of a liked person and her statement that he ultimately dates someone else are neither an announcement that love ended nor a renewed confession asking Fumiya to choose again. Kikuchi hears the account as the selected partner and an author; Fumiya hears the account as its subject. Their silence, embarrassment and attention matter, but supply no comprehensive agreement about later walks, touch, messages, emotional support or time allocation.
+
+This **STRENGTHENS** the accepted V09 statement that she likes the self who loves him despite nonreciprocation. It does not supersede that earlier development as though self-love first became possible here. V09's actual resumed walk, forceful pulling over his protest, and later agreement to brief continuation of leaning remain three different facts. V12's retrospective ethical account cannot make the earlier initiation prospectively consensual. Nor does one declined opportunity establish a universal terminal romantic or contact rule. [NM-E17–19/NM-P27–28; R05 review §4]
+
+### 17.5 Contributor, critic and fallible organizer
+
+Mimimi's first response to the plan is skepticism, sent by message: saving someone through a story sounds too optimistic. Fumiya asks Kikuchi before circulating the unfinished chapters. The permission is Kikuchi's authorial permission for particular material, given despite fear of revealing how she sees a living model. Mimimi's eventual reading and recognition of Nana show participation after that exchange. They do not show that all modeled people have authorized the project or that Mimimi possesses every source from which it is made. [NM-P29]
+
+At the first meeting her comic language about defeating Aoi prompts Mizusawa to correct the stated aim to saving her; Mimimi jokes that both can stand. This revives a competitive, lively friendship idiom inside concern. It should not be converted into evidence that her whole motive is to conquer Hinami. Her earlier doubt, enjoyment of the draft, willingness to answer and joking role performance are distinct acts.
+
+The interview affects Nana's revision. When Kikuchi later recognizes that she has been leading interviews toward a predetermined independent-star answer, Mimimi offers an intelligible objection: stories commonly organize themselves around a message. Mizusawa agrees. Their response prevents a false division between a perfectly ethical author and helpers who merely repeat the correct lesson. The objection is reasonable in general; Kikuchi's particular concern is whether this project would impose retrospective meaning on a person already injured by such a structure. Mimimi begins to speak and stops; Kikuchi asks them to wait and ends the meeting. The pause belongs to Kikuchi's decision. It must not be credited to Mimimi as her completed policy of respecting all represented subjects. [NM-P31]
+
+Her later contribution also has a mundane failure. At the school event she and Fumiya are anxious because, while absorbed in the novel, both have left their practical acting-council work untouched. A guest is secured but the actual program is underprepared. Fumiya has arranged monitor/projector capacity as a fallback and proposes that Ashigaru could play if needed; Mimimi challenges the adequacy of that plan. Her retort shows judgment within a failure they share, not proof she completed her own assigned preparation. [NM-P33, p0026:P177–184]
+
+Ashigaru's entertaining account and exhibition plan carry the occasion. The source shows the two organizers relieved and impressed. It does not establish exactly when he composed his talk, the complete preparation history, an unpaid wage loss or a general policy of exploiting guests. The narrower cost is clear enough: attention devoted to the desired rescue displaced an actual obligation, leaving another person's professional performance to make the event work. This is counterevidence to calling every instance of helping an uncomplicated expansion of agency. The mother's earlier cost critique now has a different direction of relevance: Mimimi is not always the sole absorber; she can also join a project whose neglected work someone else repairs.
+
+The demonstrated V11 council initiative and novice commentary remain hers. The failure does not erase them, select a new vocation, create formal council succession, or prove she is an incompetent organizer in every setting. It tests reliability and allocation separately from lively performance. A future chosen role would need practice and a sustainable division of responsibilities as well as favorable audience response.
+
+### 17.6 Hinami's portrait, Nana's speech and the final ordinary network
+
+In her private reading Hinami initially treats real Mimimi as someone who accepted dependence, lowered her ideal and became an inferior copy. The direct warrant is that **Hinami thinks this**, including disappointment and a claim about the girl's lack of equal standing. It is not a neutral retrospective assessment. When Nana speaks about making herself her own, Hinami experiences a divergence from the Mimimi she knows. That tells us what her model fails to include. The reader has already seen Mimimi's actual interview and the accepted V09 development. [NM-P32]
+
+The distinction cuts both ways. Nana's polished challenge to Alcia is authored speech in a novel. It cannot be assigned wholesale to real Mimimi as an additional conversation with Hinami, a universally achieved state or a transcript of her private thoughts. Her actual testimony supplies a grounding for some of its material; the fiction selects and composes it for another reader. Hinami's surprise therefore does not prove Kikuchi invented every resource in Mimimi, while the actual interview does not make every Nana line a documentary quotation.
+
+There is no shown new face-to-face reconciliation in which Hinami confesses her low estimate and Mimimi answers it. The candidate should not grant Mimimi Hinami's reader-only thoughts or invent the conversation that would process them. The later gym scene instead gives ordinary contact: Mimimi returns from the stage, sits beside Hinami, jostles her in excitement, receives her physical pushback and later pushes her toward the stage while Hinami tells her to stop. The warmth and familiar friction both belong to the scene. A joke-filled return is neither proof that all prior disrespect has been addressed nor standing permission for any future touch. [NM-P33, P202–238]
+
+At the current boundary, the most defensible state is **broader explicit self-ownership with continuing love, trusted but nonexhaustive relational support, consequential participation and visible practical failure**. She is neither a healed rival with no further want nor an unchanged dependent whose every capacity was invented by a novelist. The future still lacks a selected vocation, permanent contact arrangement, end to love, negotiated separation plan with Tama, complete cost rule, and a sustained equivalent retest of comparative self-worth.
+
+### 17.7 Current state and revision matrix
+
+| Existing responsibility | V12 disposition | Source and surviving limit |
+|---|---|---|
+| CS-MIM-01 / NM-E01/E12/E24–26 | **STRENGTHEN range / REVISE reliability inference.** Critical questioning, bodily play and comic response coexist with neglected practical work. | NM-P29–31/33; competence is neither fake nor a guarantee of completed obligation. |
+| CS-MIM-02 / CRI-MIM-001 / EFFORT-H04 | **REVISE explicit self-regard.** She names an owned refusal she can like in herself. | NM-P30:P103–154; prior V09 partial self-regard preserved; no all-context cure. |
+| CS-MIM-03 / CRI-MIM-002 / EFFORT-H05 | **REVISE sufficiency / PRESERVE tie.** Trust in Tama coexists with fear about her own self-liking during possible physical separation. | NM-P30:P59–79; conditional next-Tama self-question is not a predicted replacement relationship; Tama gives no new answer here. |
+| CS-MIM-04 / CRI-MIM-003 / REL-C07 | **STRENGTHEN chosen restraint / OPEN terminally.** She refuses an opportunistic acquisition while continuing to love him. | NM-P30:P103–169; neither indefinite waiting nor a permanent rule for every contact follows. |
+| REL-C12 / CRI-REL-005 / NM-E27 | **REVISE proposal to execution.** Actual meetings, model contribution and method revision occur. | NM-P29/31; contributors' participation is not Hinami's prior representation permission. |
+| SOC-C21 / EFFORT-H17 / NM-E24–25 | **STRENGTHEN cost / OPEN sustainable role.** Actual event preparation is neglected, and Ashigaru carries the occasion. | NM-P33:P177–202; no total external labor account or new office/vocation. |
+| JVL-16–18 / NM-E28 | **STRENGTHEN recipient and register range.** Small-voiced concern, direct self-account, sudden comic competition and a jargon joke perform different work. | NM-P30; prose-represented speech, not independent audio or a frequency-complete idiolect. |
+| CRI-EPI-001 / V12-C29 | **REJECT Hinami's portrait as current authority; preserve it as her thought.** Nana is also composed fiction. | NM-P32 plus real NM-P30/NM-P27; no transfer of private reader knowledge to Mimimi. |
+
+### 17.8 Additive evidence routes — accepted NM-E01–28 remain intact
+
+These are additive document-local handles, not new frozen claim IDs. They do not change the accepted R05 source-window counts or certify that its historical readings were repeated. The current new-claim universe remains DR12's forty IDs, routed by the current CRI.
+
+<a id="nm-e29"></a>
+
+**NM-E29 — The proposed party becomes actual participation.** DR12 §§3.2/6–8, V12-C03/C06; CS §19, REL §17.1/REL-C12, SOC §17.1–17.2. Mimimi's skepticism, Kikuchi's circulation permission and actual four-person meeting are distinct. Primary: NM-P29.
+
+<a id="nm-e30"></a>
+
+**NM-E30 — Trusted Tama tie, conditional separation fear.** DR12 §3.3/V12-C07; CS-MIM-03, CRI-MIM-001/002, EFFORT-H04/H05. Current reuse must preserve the direct conditional self-question at P61–65 and the own-self-liking object at P73, without predicting a replacement/exclusive future. Primary: NM-P30. REL/JVL/SOC shorthand about replacement support is read at this conditional scope.
+
+<a id="nm-e31"></a>
+
+**NM-E31 — Embodied method and owned restraint.** DR12 §§3.3/4.4, V12-C07, V11-C34 revision and V12-Q08; CS-MIM-01/02/04, REL-C07, CRI-MIM-003, JVL-16–18. The sudden-start 200-metre race is distinct from the earlier farewell 100-metre contest. Refusal is recalled self-report about a real prior decision, not proof of the unrealized romantic counterfactual. Primary: NM-P30; prior V09 NM-P27 remains coequal evidence of partial self-regard.
+
+<a id="nm-e32"></a>
+
+**NM-E32 — A reasonable objection and the author's stop.** DR12 §3.3/V12-C08; CRI-EPI-001/CRI-REL-005, REL §17.1, SOC-C19. Mimimi's defense of message-bearing stories is neither full consent governance nor a denial of every method problem. Primary: NM-P31; the role-play's preceding sequence remains inherited through DR12 rather than newly inspected here.
+
+<a id="nm-e33"></a>
+
+**NM-E33 — Hinami's incomplete Mimimi model.** DR12 §§3.6/4.4, V12-C29; CS §19, JVL §13.2, CRI-MIM-001/002. Hinami's direct private appraisal and Nana's authored speech remain separate from real Mimimi's actual testimony. Primary: NM-P32, contrasted with NM-P30 and accepted NM-P27.
+
+<a id="nm-e34"></a>
+
+**NM-E34 — Neglected preparation and expert repair labor.** DR12 §3.7/V12-C36; EFFORT-H17, SOC-C21, REL §17.1 Party↔school/Ashigaru, CRI-EFF-001/CRI-REL-006. Narrative absorption displaces actual work. This is not a claim that Ashigaru had no preparation or a quantified economic loss. Primary: NM-P33.
+
+<a id="nm-e35"></a>
+
+**NM-E35 — Ordinary peer return and the limits of repair.** DR12 §3.7/V12-C37; REL-C13, SOC §17.4. Mimimi's excited joking and Hinami's reply make local ordinary contact visible. No comprehensive interpersonal accounting or bodily permission rule is supplied. Primary: NM-P33; the following final match result is unshown in the complete reading.
+
+### 17.9 New primary-return register and operation limits
+
+The worker checked the local V12 full SHA-256 before each return: `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c`. P counts every HTML `p`, one-based including empty/image paragraphs and reset per exact member. Ruby readings were retained in diagnostic display after numbering. Non-p chapter headings were inspected. These locators are not printed pages. The accompanying scratch receipt records witness size/CRC, exact member hashes, windows and actual review scope.
+
+<a id="nm-p29"></a>
+
+**NM-P29 — Draft doubt, circulation permission and actual party.** V12 `item/xhtml/p-0011.xhtml` P233–278/P511–543; full member 543P; member SHA-256 `942c16e3351d8d592898c75c3217f48a19a04828f921ad28e0a7e6592c3e9cb6`. Two contextual windows: Mimimi's message, Kikuchi's specific assent, then the real meeting and competitive joke. Not every recruitment event or whole-volume consultation.
+
+<a id="nm-p30"></a>
+
+**NM-P30 — The real model answers, runs and names a chosen self.** V12 `item/xhtml/p-0013.xhtml` P1–180; full member 591P; member SHA-256 `963980486bd9f0b6deaba4711abf5b4c7501bbfd7f1d4912649b62842cfa3d27`. Context includes fiction/model framing, conditional next-Tama question, trust, race invitation/start/result, retrospective temptation/refusal, self-liking, recipient reactions, jargon joke and the next meeting's positive Nana reception.
+
+<a id="nm-p31"></a>
+
+**NM-P31 — A preselected answer is challenged.** Same V12 `item/xhtml/p-0013.xhtml` P414–488 and member hash as NM-P30. Kikuchi's recognition, Mimimi/Mizusawa's response and the author's decision to stop. The preceding improvisation is not newly worker-read primary in this update; DR12 supplies that larger source-order route.
+
+<a id="nm-p32"></a>
+
+**NM-P32 — Hinami reading Nana.** V12 `item/xhtml/p-0022.xhtml` P291–398; full member 979P; member SHA-256 `1789ae19da29bbe7a6eb79e6e61855bd2caad90eb61fb4b715de2cb7d82b68b7`. Direct Hinami thought and authored fictional speech interleave. Neither becomes an additional real Mimimi/Hinami conversation or a transcript of Mimimi's whole interview.
+
+<a id="nm-p33"></a>
+
+**NM-P33 — Actual school work and ordinary re-entry.** V12 `item/xhtml/p-0026.xhtml` P177–238; full member 284P; member SHA-256 `c612b5faedc54d6ac334d8ec7fa2f899819683edbfd55b45d992179b81214044`. Preparatory neglect, fallback, Ashigaru's entertaining work, Mimimi's audience return, familiar physical joking and Hinami's reply. No newly viewed illustration, invented unheard Yuzu speech, quantified professional cost or permanent institutional restoration.
+
+These five primary records comprise **six windows and 504 paragraph occurrences across four unique members**, obtained in five successful window calls. No image pixels or OCR were used. Full analytical reading is not complete primary V12 rereading, and earlier accepted NM-P01–28 are preserved evidence rather than this worker's newly repeated source work. Any image-dependent later claim needs actual inspection. Source-facing freezes, canonical owners and Git state were not edited by this operation.
+
+### 17.10 Receiver review and remaining literary work
+
+Root must independently assess the current interpretation against the accepted R05 person-level argument and the complete retrospective coverage audit. The principal question is whether “owned ethical self-regard with unfinished allocation” explains both the affirmative interview and the actual event failure without ranking Mimimi by self-denial. Counterevidence remains required: her continuing desire, earlier partial self-regard, ordinary joy, real trust in Tama, local stops, impulsive contact and the reasonable general defense of message-bearing stories.
+
+The Fumiya–Mimimi specialist must keep actual V09 resumption, initial pulling, later comfort agreement, V12 recalled refusal and continuing love at their respective scopes. The Mimimi–Tama/ensemble responsibility must keep trust, prior concealed reciprocal care, self-regard fear, physical separation, unequal knowledge and unknown future negotiation together. Kikuchi–Mimimi must retain both the severity of inquiry and Mimimi's contribution to changing how the author works; the author does not simply diagnose a passive subject. Hinami–Mimimi needs the admired friend's incomplete model as well as the real history; a private narrative judgment cannot become a mutually processed repair.
+
+The effort and social specialists should carry the actual organizational failure alongside earlier initiative and exploratory commentary. Neither a new office nor a profession has been chosen. The voice specialist should retain small-voiced fear, direct self-approval, comic acceleration and recipient difference without turning a short sample into a universal script. No derived model, final specialist convergence, whole-corpus maturity, release or terminal closure is certified by this candidate.

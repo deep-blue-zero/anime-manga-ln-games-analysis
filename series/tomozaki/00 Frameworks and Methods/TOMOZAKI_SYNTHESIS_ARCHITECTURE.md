@@ -4,8 +4,8 @@ artifact_type: synthesis_corpus_architecture
 scope: JP_LIGHT_NOVEL_V01-V12_PLUS_ROUTED_V06_5_AND_V08_5
 source_boundary: "Historical Japanese main V01-V11 plus routed V06.5/V08.5; additive verified V12 local witness dated 2026-10-22; complete source consultation and six-owner semantic candidate, repository/publication gates separately recorded"
 analytical_generation: V2_REMEDIATION
-architecture_version: "1.8"
-architecture_lifecycle: EVOLVING
+architecture_version: "1.14"
+architecture_lifecycle: STABILIZED
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -17,9 +17,9 @@ historical_initialization_state: ARCHITECTURE_GATE_VIOLATED_BEFORE_V01
 sequential_completion_gate: PASS_AT_V12_BOUNDARY
 longitudinal_reconciliation_gate: PASS_AT_V12_BOUNDARY
 major_character_input_readiness: READY
-specialist_input_readiness: READY_PENDING_SCOPE_ADJUDICATION
-specialist_synthesis_gate: CLOSED
-full_series_synthesis_gate: CLOSED
+specialist_input_readiness: ACCEPTED_INPUTS_AT_R11_BOUNDARY
+specialist_synthesis_gate: PASS_AT_R10_BOUNDARY
+full_series_synthesis_gate: PASS_AT_R11_BOUNDARY
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 resolved_reasoning_option: "Codex gpt-6-astra with max reasoning for the owner-directed remediation operation"
 reasoning_policy: "../../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md"
@@ -39,7 +39,7 @@ Its responsibility is distinct from the companion analytical method:
 - this architecture governs where accumulated knowledge goes, which artifacts may become mature authority, and in what order those artifacts are built and validated;
 - `../CURRENT_STATE_AND_CORPUS_MAP.md` is the mutable entrypoint and current-state router. It does not substitute for either the method or this architecture.
 
-The current architecture lifecycle is `EVOLVING`. The preserved V11 reading/reconciliation passes are historical. The complete V12 reading and six-owner extension now pass substantive independent review; exact repository validation, source-run certification and publication are separately recorded by the [V12 completion audit](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md). Major-character inputs are ready; later role adjudication, character/relationship/thematic maturity and cross-specialist convergence remain unfinished. The owner reserved literary authoring for a separate session and subsequently authorized integration of its supplied monographs. Fumiya and Hinami pass R04; Kikuchi and Mimimi now complete R05’s two §7.3 responsibilities under the [Kikuchi integration review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) and [Mimimi integration review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md). The three R06 character candidates and relationship/thematic specialist responsibilities remain unfinished. The [R01–R03 reconciliation audit](../08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md) supplies the historical V11 cumulative gate decision. The V12 completion audit records the current source-facing/six-owner scope; neither audit itself promotes literary candidates. Each monograph’s promotion rests on its separate role review.
+The current architecture lifecycle is `STABILIZED`. The preserved V11 reading/reconciliation passes are historical. The complete V12 reading and six-owner extension now pass substantive independent review; exact repository validation, source-run certification and publication are separately recorded by the [V12 completion audit](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md). Major-character, supporting, relationship, ensemble and thematic local roles have separate acceptance, and the [R10 convergence audit](../08%20Audits%20and%20Manifests/TOMOZAKI_ADVERSARIAL_AND_CROSS_SPECIALIST_CONVERGENCE_AUDIT.md) accepts adversarial claim/locator, character/ledger, secondary-omission and cross-specialist convergence at its declared scope. The [durable evidence/review packet](../08%20Audits%20and%20Manifests/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_AND_REVIEW_MANIFEST.json) preserves actual evidence, correction and acceptance generations. The owner reserved literary authoring for a separate session and subsequently authorized integration of its supplied monographs. Fumiya and Hinami pass R04; Kikuchi and Mimimi now complete R05’s two §7.3 responsibilities under the [Kikuchi integration review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) and [Mimimi integration review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md). Tama, Mizusawa and Yuzu now pass R06 as A monographs through V12; all three primary dyads, the R08 ensemble and all seven R09 domains pass their separate local literary/source contracts. The materially revised full-series argument now passes independent R11 review under the [R11 integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md) and [R11 evidence/review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_R11_FULL_SERIES_EVIDENCE_AND_REVIEW_MANIFEST.json); its complete V11 predecessor and historical dispositions remain recoverable. Root separately records the five-condition architectural stabilization decision in that review. R12 literary validation/release and distinct justified models remain unfinished. The [R01–R03 reconciliation audit](../08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md) supplies the historical V11 cumulative gate decision. The V12 completion audit records the current source-facing/six-owner scope; neither audit itself promotes literary candidates. Each monograph’s promotion rests on its separate role review.
 
 The 2026-10-22 campaign additionally authorizes V12 as the sole new numbered source, followed by full-corpus coverage, R06 scope adjudication, relationship/thematic specialists, convergence, literary synthesis/release and evidence-sufficient derived reconstruction under the dependencies below. V12 now has full source consultation, a complete source-facing reading and reviewed six-owner current extensions. Its original entering snapshot and metadata-only admission receipt remain unchanged. The preserved V11 passes and four R04/R05 monograph acceptances retain their historical scope; none becomes final-corpus certification. Actual validation/publication of the atomic completion candidate remains a distinct gate.
 
@@ -135,7 +135,7 @@ For literary claims, use this precedence unless a narrower policy controls:
 
 Higher placement does not make an inference direct evidence. A deep reading preserves the source-facing state; a later ledger can become current authority for the claim's cross-volume revision history without becoming a replacement for the source passage.
 
-Fumiya’s, Hinami’s, Kikuchi’s and Mimimi’s monographs have passed their individual role reviews and are mutable current literary authority within those scopes. The other three character files and current full-series synthesis remain valuable first-pass candidates until their role-specific reviews pass. R04 and R05 are complete at their respective two-monograph scopes. These local passes settle no other character’s independent trajectory or aggregate synthesis gate.
+All seven principal monographs—Fumiya, Hinami, Kikuchi, Mimimi, Tama, Mizusawa and Yuzu—have passed their individual role reviews through V12 and are mutable current literary authority within those scopes. R04 and R05 retain their historical two-monograph acceptances; the reviewed V12 extensions and R06 decisions govern the later seven-A boundary. Eleven B dossiers and the current C38/D1/six-group companion have separately bounded literary authority, including the later C-D39 family-context addition under the [R10 named-scope addendum](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_CORPUS_CHARACTER_COVERAGE_AND_SCOPE_AUDIT.md#r10-named-scope-addendum). The independently accepted R11 full-series synthesis now owns the integrated argument through the admitted V12 boundary under its [R11 integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md). Its V11 hypothesis bank and all forty historical confidence/open dispositions remain separately preserved in the [R11 evidence/review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_R11_FULL_SERIES_EVIDENCE_AND_REVIEW_MANIFEST.json). R11 acceptance does not settle R12 literary release or derived-model authority.
 
 ## 4. Sequential-reading contract
 
@@ -257,13 +257,16 @@ The current evidence makes mature independent studies mandatory for:
 - Tomozaki Fumiya;
 - Hinami Aoi;
 - Kikuchi Fuka;
-- Nanami Minami / Mimimi.
+- Nanami Minami / Mimimi;
+- Natsubayashi Hanabi / Tama;
+- Mizusawa Takahiro;
+- Izumi Yuzu.
 
 Tomozaki and Hinami carry the series' central competing methods and the largest propagation risk. Fumiya’s and Hinami’s supplied expansions have now passed local mature-monograph review, completing R04. The [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md) records the second acceptance and preservation of Fumiya’s reviewed work. Kikuchi’s supplied expansion now passes the same local contract under the [Kikuchi review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md). Mimimi’s expansion now passes under the [Mimimi review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md), completing R05’s pair. Neither responsibility is a romance-subplot summary.
 
-Tama, Mizusawa, and Yuzu have earned independent current files, but the role-gap audit must determine whether each becomes a full mature monograph or a clearly bounded character dossier. Reclassification is not demotion: it is an honest statement of evidence breadth and document responsibility.
+Tama, Mizusawa and Yuzu now pass R06 as A monographs through V12 under the [current individual integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md). The four earlier mature principals also pass targeted V12 updates while preserving accepted R04/R05 content. The [coverage/scope audit](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_CORPUS_CHARACTER_COVERAGE_AND_SCOPE_AUDIT.md) records the positive breadth, adversarial A/B comparison and all bounded domains. A does not imply a complete future biography or universal capacity rule.
 
-Nakamura, Konno, Haruka, Rena, and other supporting figures remain evidence-sufficiency decisions. They may earn bounded dossiers, ensemble treatment, or sections in relationship/social-system specialists. No file is mandatory merely because the character is close to the protagonist.
+Current named-subject scope is A7/B11/C38/D1 plus six source-group contexts: 57 individual/member profiles and 63 including groups. The original supporting acceptance covered eleven B dossiers and C37/D1/six-group accounts under the [supporting implementation review](../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md); the later [R10 named-scope addendum](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_CORPUS_CHARACTER_COVERAGE_AND_SCOPE_AUDIT.md#r10-named-scope-addendum) adds bounded C-D39 for Kikuchi’s unnamed father and strengthens C-D37’s maternal speech/recipient evidence. Original 250 rows, 47 source-row identities, 62-profile assembly and dated C37 acceptance remain unchanged history. Ensemble and thematic syntheses retain their separate local acceptances; their R10 convergence is accepted at the declared audit scope, and their R11 integration is independently accepted. No standalone file follows merely from proximity to the protagonist; every consequential observation must remain recoverable in its accepted person-level or shared owner.
 
 ### 7.3 Monograph semantic contract
 
@@ -330,6 +333,21 @@ The completed source boundary makes the following problem domains mandatory inpu
 
 These are Tomozaki-specific responsibilities, not imported Oregairu titles. Consolidation is allowed only if no responsibility becomes an underdeveloped subsection of another document.
 
+Current local ownership is recorded by the [ensemble and thematic integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_INTEGRATION_REVIEW.md). All seven domains have independent canonical studies; the R08 ensemble separately carries coequal Mimimi–Tama and four justified consolidated dyad cases. The social-system theme owns field mechanisms rather than replacing those person-specific relations.
+
+| Role | Independently accepted canonical specialist |
+|---|---|
+| R08 | [Ensemble and coequal Mimimi–Tama](../06%20Specialist%20Synthesis/TOMOZAKI_ENSEMBLE_AND_PEER_NETWORK_SYNTHESIS.md) |
+| R09 1 | [Game models, learned form and self-authorship](../06%20Specialist%20Synthesis/TOMOZAKI_GAME_FORM_AND_SELF_AUTHORSHIP_SYNTHESIS.md) |
+| R09 2 | [Effort, mastery, rank, owned goals and future viability](../06%20Specialist%20Synthesis/TOMOZAKI_EFFORT_MASTERY_AND_GOAL_OWNERSHIP_SYNTHESIS.md) |
+| R09 3 | [Social atmosphere, reputation, punishment and repair](../06%20Specialist%20Synthesis/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_SYNTHESIS.md) |
+| R09 4 | [Control, causality, reason and retrospective meaning](../06%20Specialist%20Synthesis/TOMOZAKI_CONTROL_CAUSALITY_AND_MEANING_SYNTHESIS.md) |
+| R09 5 | [Romance, care, disclosure and intervention](../06%20Specialist%20Synthesis/TOMOZAKI_ROMANCE_CARE_DISCLOSURE_AND_INTERVENTION_SYNTHESIS.md) |
+| R09 6 | [Authorship, fiction, observation and personhood](../06%20Specialist%20Synthesis/TOMOZAKI_AUTHORSHIP_FICTION_OBSERVATION_AND_PERSONHOOD_SYNTHESIS.md) |
+| R09 7 | [Japanese conceptual language, voice and register](../06%20Specialist%20Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md) |
+
+These local role acceptances retain their declared R10 adversarial/convergence checks. Their integration in the materially revised full-series argument now passes R11 under the [R11 integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md); this later decision does not change individual role scopes, source OPENs or the separate R12 release/model gates.
+
 ### 9.2 Anticipated but not yet mandatory specialists
 
 - professional play, schooling, work, and adulthood as an institutional pathway;
@@ -341,7 +359,7 @@ An anticipated domain becomes mandatory only when the architecture amendment rul
 
 ### 9.3 Specialist home
 
-New character-external and relationship specialists should live under `../06 Specialist Synthesis/`, created when the first such artifact is authored. The existing `../05 Full-Series Synthesis/` identity is retained; numeric folder order does not override the dependency graph.
+Character-external and relationship specialists live under `../06 Specialist Synthesis/`; its [entrypoint](../06%20Specialist%20Synthesis/README.md) now routes the accepted supporting companion, three primary dyads, ensemble/coequal Mimimi–Tama and all seven thematic specialists. The existing `../05 Full-Series Synthesis/` identity is retained; numeric folder order does not override the dependency graph.
 
 ## 10. Evidence and locator routing
 
@@ -446,21 +464,21 @@ Practical remediation order:
 12. validate and release the literary corpus;
 13. only then create evidence-sufficient reconstruction models.
 
-The current full-series synthesis gate is closed. Existing prose may be read as a hypothesis inventory, but it must not dictate ledger outcomes or be cosmetically expanded before its dependencies converge.
+The full-series synthesis gate is PASS_AT_R11_BOUNDARY under the [R11 integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md) and [R11 evidence/review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_R11_FULL_SERIES_EVIDENCE_AND_REVIEW_MANIFEST.json). The revised argument is mutable current literary authority through V12; its complete prior V11 hypothesis bank remains historical evidence. R12 must still validate backward traceability, authority/routing, source and history preservation, uncertainty, repository state and intentional release. Derived models remain blocked until actual literary release and then require their own evidence-sufficiency and validation.
 
 ## 13. Completion gates
 
 | Gate | Pass condition | Current state |
 |---|---|---|
-| Sequential-source completion | Every admitted witness has correct source routing, source-facing analysis, adjudication, and bounded freeze. | **V12 source/semantic review PASS; actual atomic repository validation, source-run certification and publication recorded separately in the completion audit** |
-| Architecture establishment | Canonical architecture satisfies all Minimum Semantic Contract responsibilities and a role-gap audit tests the actual corpus. | **PASS at design/audit level; lifecycle remains EVOLVING** |
+| Sequential-source completion | Every admitted witness has correct source routing, source-facing analysis, adjudication, and bounded freeze. | **PASS at V12: source transaction validated, published and owner/CI-integrated through PR 288; actual identities are recorded in the completion audit.** |
+| Architecture establishment | Canonical architecture satisfies all Minimum Semantic Contract responsibilities and a role-gap audit tests the actual corpus. | **PASS; lifecycle STABILIZED by the explicit five-condition decision recorded with R11.** Stabilization is not FROZEN or literary release. |
 | Longitudinal reconciliation | Every mandatory cumulative home preserves the earlier backfill and a reviewed V12 extension; overlaps/contradictions retain explicit dispositions and material claims have usable routes. | **PASS through V12 at substantive six-owner scope; repository/publication gate separate** |
-| Specialist readiness | Required ledger inputs are stable enough to support literary drafting; promotion scopes are explicit; unresolved states are preserved. | **INPUTS READY; gate remains CLOSED pending remaining role/scope adjudication and ordered literary work. The authorized continuous campaign proceeds to coverage/R06 after the V12 source freeze, using the four reviewed V11-scope monographs and current cumulative evidence.** |
-| Specialist completion | Required major characters, relationships, and thematic problems pass their semantic contracts and adversarial checks. | **PARTIAL: Fumiya/Hinami PASS (R04) and Kikuchi/Mimimi PASS (R05); three R06 character candidates and required relationship/thematic specialists remain unfinished** |
-| Cross-specialist convergence | Shared terms, time states, claims, and relationship facts agree or record explicit unresolved conflicts. | **CLOSED** |
-| Full-series synthesis readiness | Longitudinal and specialist gates pass; a convergence audit authorizes integrated drafting. | **CLOSED** |
-| Full-series synthesis completion | One integrated argument answers the series-wide problem without becoming synopsis or erasing open publication-boundary questions. | **CURRENT FILE IS PRE-REMEDIATION CANDIDATE, NOT GATE PASS** |
-| Validation/audit completion | Backward traceability, source boundary, contradictions, uncertainty, architecture roles, repository checks, and release state all pass. | **OPEN; prior audit retained as historical checkpoint** |
+| Specialist readiness | Required ledger inputs are stable enough to support literary drafting; promotion scopes are explicit; unresolved states are preserved. | **ACCEPTED INPUTS INTEGRATED AT R11:** fourteen witnesses, seven A monographs, eleven B dossiers, C38/D1/six-group companion, three primary dyads, R08 ensemble and all seven R09 domains retain their accepted responsibilities. |
+| Specialist completion | Required major characters, relationships, and thematic problems pass their semantic contracts and adversarial checks. | **PASS AT DECLARED R10 BOUNDARY:** all mandatory local roles have independent acceptance and the convergence audit records shared-claim/locator, chronology, knowledge, recipient/permission and secondary-omission checks. This is no R11 integrated-argument acceptance. |
+| Cross-specialist convergence | Shared terms, time states, claims, and relationship facts agree or record explicit unresolved conflicts. | **PASS at the declared fourteen-witness/local-role scope under the [R10 audit](../08%20Audits%20and%20Manifests/TOMOZAKI_ADVERSARIAL_AND_CROSS_SPECIALIST_CONVERGENCE_AUDIT.md) and [evidence/review packet](../08%20Audits%20and%20Manifests/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_AND_REVIEW_MANIFEST.json); source-open tensions remain explicitly OPEN.** |
+| Full-series synthesis readiness | Longitudinal and specialist gates pass; a convergence audit authorizes integrated drafting. | **SATISFIED BY ACCEPTED R11:** input readiness and R10 convergence preceded the independently reviewed integrated argument; this is not a release/model decision. |
+| Full-series synthesis completion | One integrated argument answers the series-wide problem without becoming synopsis or erasing open publication-boundary questions. | **PASS AT R11:** the [R11 integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md) and [R11 evidence/review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_R11_FULL_SERIES_EVIDENCE_AND_REVIEW_MANIFEST.json) bind the revised argument, independent review, preserved predecessor/dispositions and source-open limits. |
+| Validation/audit completion | Backward traceability, source boundary, contradictions, uncertainty, architecture roles, repository checks, and release state all pass. | **NEXT R12 / NOT YET PASSED:** R11 acceptance and architectural stabilization do not constitute literary validation/release or exact-head publication. |
 | Frozen/release state | Exact reviewed artifacts are versioned, validated, and intentionally release-locked under repository governance. | **NOT REACHED** |
 
 Passing a later gate never retroactively changes a frozen earlier reading. V11 source-boundary completion is not series-ending closure.
@@ -495,7 +513,7 @@ The owner directed Max reasoning for this remediation's synthesis documents and 
 
 ### 15.2 Mutable current authority
 
-- this architecture remains mutable while `EVOLVING`;
+- this architecture remains mutable while `EVOLVING` or `STABILIZED`; intentional validated release is separate;
 - the corpus map is updated in place as current routing changes;
 - cumulative ledgers and the claim/evidence index are maintained through targeted edits;
 - literary monographs and specialists are mutable until an explicit validated release;
@@ -546,6 +564,10 @@ Promotion from `EVOLVING` to `STABILIZED` requires:
 
 `FROZEN` requires an intentional release and does not follow automatically from stabilization.
 
+### 17.1 Current stabilization decision at the R11 boundary
+
+Root records STABILIZED only after separately accepting R11 and explicitly adjudicating all five conditions above in the [R11 integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md): the role-gap audit enumerates mature responsibilities; all six longitudinal homes retain stable schemas; seven A, eleven B, C38/D1/six-group and primary relationship decisions are explicit; all seven specialist domains and the dependency order are known; and every material observation class has a destination, including distributed ordinary-life and local visual/paratext evidence. No role, count or cumulative schema is removed. This fixes a workable responsibility architecture rather than freezing interpretations, discharging source OPENs or passing R12.
+
 ## 18. Responsibility matrix
 
 | Analytical dimension | Sequential capture | Canonical cumulative home | Mature destination | Remediation state |
@@ -554,20 +576,20 @@ Promotion from `EVOLVING` to `STABILIZED` requires:
 | Prospective questions, predictions, falsifiers | yes | frozen source-facing reading; material crosswalk in claim index | relevant specialist | satisfied locally; crosswalk and defined retrieval queues reconciled |
 | Character developmental state | yes | character-state ledger | monograph + relationships + final synthesis | historical V11 backfill plus reviewed V12 extension; substantive reconciliation PASS, repository/publication separate |
 | Directional relationship/network state | yes | relationship-state ledger | relationship/ensemble specialists | historical V11 backfill plus reviewed V12 extension; substantive reconciliation PASS, repository/publication separate |
-| Effort, competition, rank, goal ownership | yes | existing effort/competition ledger | effort specialist + character studies | current through V12; repository/publication separate |
+| Effort, competition, rank, goal ownership | yes | existing effort/competition ledger | effort specialist + character studies | current through V12; effort/mastery/goal-ownership specialist independently accepted; R10 convergence reviewed, R11 integration independently accepted; R12 release pending |
 | Major claims and revision history | yes | claim-revision/evidence index | all mature synthesis | L1 crosswalk through V12; 359 claims/154 questions, 160/44 promoted and 199/110 local |
 | Source locators | uneven but substantial | claim-revision/evidence index; source readings | audit + mature synthesis | L1 current; historical twelve defined L2/L3 queues reviewed PASS; V12 routes added |
-| Social atmosphere, reputation, punishment, repair | yes across several volumes | social-atmosphere/group-systems ledger | social-system specialist | historical V11 backfill plus reviewed V12 extension; specialist pending |
-| Technique, learned form, authenticity, authorship | yes | character/relationship ledgers + claim index | game/form/self-authorship specialist | distributed; specialist pending |
-| Causality, result, reason, meaning | yes, especially V08.5–V12 | claim index + character/relationship ledgers | control/causality/meaning specialist | distributed; specialist pending |
-| Romance, privacy, disclosure, consent, intervention | yes | relationship ledger + claim index | three relationship specialists + ethics specialist | cumulative inputs reconciled; specialists pending |
-| Fiction, observation, personhood, publication | yes | character ledger + claim index | Kikuchi monograph + authorship specialist | Kikuchi local role PASS; independent authorship specialist pending |
-| Japanese key terms | intermittent | voice/register/key-terms ledger | all language-sensitive specialists | bounded attested ledger and key-term routes reviewed |
-| Character-specific voice, address, register | intermittent | voice/register/key-terms ledger | monographs + later reconstruction models | selective state/recipient samples reviewed; no complete habitual model claimed |
-| Ordinary-life preferences and habits | local as relevant | character/relationship ledgers | monographs; later models | no separate ledger yet |
+| Social atmosphere, reputation, punishment, repair | yes across several volumes | social-atmosphere/group-systems ledger | social-system specialist | reviewed V12 cumulative extension and independently accepted social-systems specialist; R10 convergence reviewed, R11 integration independently accepted; R12 release pending |
+| Technique, learned form, authenticity, authorship | yes | character/relationship ledgers + claim index | game/form/self-authorship specialist | independently accepted game/form/self-authorship specialist; R10 convergence reviewed, R11 integration independently accepted; R12 release pending |
+| Causality, result, reason, meaning | yes, especially V08.5–V12 | claim index + character/relationship ledgers | control/causality/meaning specialist | independently accepted control/causality/meaning specialist; source-open causal limits preserved through R10, R11 integration independently accepted; R12 release pending |
+| Romance, privacy, disclosure, consent, intervention | yes | relationship ledger + claim index | three relationship specialists + ethics specialist | three primary dyads and romance/care/disclosure/intervention specialist independently accepted; R10 recipient/permission checks reviewed, R11 integration independently accepted; R12 release pending |
+| Fiction, observation, personhood, publication | yes | character ledger + claim index | Kikuchi monograph + authorship specialist | Kikuchi monograph and independent authorship/fiction/personhood specialist accepted; R10 authorship/access limits preserved, R11 integration independently accepted; R12 release pending |
+| Japanese key terms | intermittent | voice/register/key-terms ledger | all language-sensitive specialists | attested ledger and Japanese conceptual-language/voice/register specialist independently accepted; R10 wording/access checks reviewed |
+| Character-specific voice, address, register | intermittent | voice/register/key-terms ledger | monographs + later reconstruction models | selective state/recipient samples and language/voice specialist independently accepted; no complete habitual model or derived reconstruction claimed |
+| Ordinary-life preferences and habits | local as relevant | character/relationship ledgers | monographs; later models | distributed across accepted character/relationship owners and R11; no separate ledger required or complete habitual model inferred |
 | Professional play, school, work, future | yes | effort/goal ledger | Tomozaki monograph; possible future-path specialist | substantially routed |
 | Visual/paratext evidence | diagnostic only | source reading/source lock | local specialist claim if needed | intentionally local/distributed |
-| Reconstruction readiness | not a source-reading obligation | future reconstruction readiness entries/audit | derived-use models | deferred until literary convergence |
+| Reconstruction readiness | not a source-reading obligation | future reconstruction readiness entries/audit | derived-use models | R11 integration accepted; blocked until actual R12 literary release, then each model requires separate evidence-sufficiency and validation |
 
 Every new recurring observation must route to a cumulative home, a named direct synthesis responsibility, or an explicit local-only status.
 
@@ -585,6 +607,30 @@ Start with `../CURRENT_STATE_AND_CORPUS_MAP.md`. Before changing project state, 
 The corpus map must always expose the exact completed source boundary, architecture lifecycle, current ledgers, mature versus provisional character/specialist status, open synthesis gate, and next required operation.
 
 ## 20. Revision history
+
+### v1.14 — 2026-10-23 — independently accepted R11 and explicit architectural stabilization
+
+The [R11 integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md) and [R11 evidence/review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_R11_FULL_SERIES_EVIDENCE_AND_REVIEW_MANIFEST.json) accept the materially revised integrated argument through V12, with its thirty local derived claims, twenty-six return routes, rivals, preserved complete V11 predecessor and forty historical confidence/open dispositions. Root separately adjudicates the five §17 conditions and records lifecycle STABILIZED; source-run/terminal fields, source topology, schemas, all role/count commitments and earlier version histories remain unchanged. R12 literary validation/release is next. Stabilization and R11 acceptance do not freeze the corpus, open derived models, assert exact-head publication/main integration or perform terminal governance. Earlier gate/component hashes remain acceptance-time history.
+
+### v1.13 — 2026-10-23 — accepted R10 convergence and R11 drafting readiness
+
+The [R10 adversarial and cross-specialist convergence audit](../08%20Audits%20and%20Manifests/TOMOZAKI_ADVERSARIAL_AND_CROSS_SPECIALIST_CONVERGENCE_AUDIT.md) and [durable evidence/review packet](../08%20Audits%20and%20Manifests/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_AND_REVIEW_MANIFEST.json) accept their declared input-convergence scope after independent substantive review and preservation checks. Current specialist states in §18 now name the already accepted seven domain owners; no role is removed or consolidated. The current gates distinguish PASS_AT_R10_BOUNDARY from R11_DRAFTING_READY. Existing full-series prose remains the V11 hypothesis bank until substantive R11 revision passes its own independent review; R11 acceptance, release, models, publication/main integration and terminal governance remain separate. Source/terminal fields and EVOLVING lifecycle are unchanged. The earlier twelve-object character-component hashes and version histories remain their exact acceptance-time snapshots, not false new gate-generation identities.
+
+### v1.12 — 2026-10-23 — current character authority and bounded R10 named-scope precision
+
+Corrected §3’s stale treatment of Tama, Mizusawa and Yuzu as first-pass candidates: all seven A monographs already have independently accepted local roles through V12. Current scope is A7/B11/C38/D1 plus six source-group contexts, 63 profiles including groups. The later [R10 named-scope addendum](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_CORPUS_CHARACTER_COVERAGE_AND_SCOPE_AUDIT.md#r10-named-scope-addendum) preserves the original 250 records/47 source-row nodes/62-profile assembly and dated C37 acceptance while adding C-D39 and extending C-D37 at actual source scope. The two current CS negatives are narrowly corrected to retain Yuzu’s selected university preference and Mizusawa’s explicit bargain terms; no feasibility, career, complete family knowledge or completed later reading follows. R10 aggregate acceptance, full-series synthesis LAST, literary release, derived models and publication remain separate and unfinished. Lifecycle remains EVOLVING; earlier version histories and source/terminal fields are unchanged.
+
+### v1.11 — 2026-10-23 — ensemble and all seven thematic local responsibilities
+
+The [ensemble and thematic integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_INTEGRATION_REVIEW.md) records independent full-argument/source acceptance for R08 and all seven R09 domains, exact narrow corrections and canonical administrative derivatives. Mimimi–Tama remains coequal within a sustained ensemble, and the four other dyad consolidations have substantive independently retrievable cases. No thematic domain disappears into a generic section. The current introductory R06/R07 deficit statement is corrected; dated historical receipts remain unchanged. Cross-specialist convergence, synthesis LAST, literary release, distinct models and exact-head publication retain their separate gates. Lifecycle remains EVOLVING.
+
+### v1.10 — 2026-10-23 — actual supporting accounts and three primary dyads
+
+The eleven B dossiers, all 37 C/one D/six-group accounts and the three R07 primary dyads now pass independent source/semantic review and have canonical homes in the authored tree. The [supporting review](../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [relationship review](../08%20Audits%20and%20Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_INTEGRATION_REVIEW.md) preserve exact source/read/review chains, narrow corrections, local role boundaries and distinct publication gates. No mandatory domain is removed or consolidated: R08 ensemble/coequal Mimimi–Tama, all seven R09 themes, adversarial convergence, synthesis LAST, literary release and justified distinct models remain required. Lifecycle remains EVOLVING; prior dated snapshots are unchanged.
+
+### v1.9 — 2026-10-23 — coverage decisions and seven current monographs
+
+The fourteen-witness omission review is adopted with explicit unknown cells and preserved A/B disagreement; final counts are A7/B11/C37/D1 plus six group contexts. The four accepted principals gain reviewed V12 bands and R06 accepts Tama, Mizusawa and Yuzu as A monographs. Eleven B dossiers and actual C sections remain separate implementation gates. Ordered specialist drafting is ready; specialist completion, convergence, final synthesis, release, derived models and terminal governance remain unpassed. Prior dated records remain historical.
 
 ### v1.8 — 2026-10-22 — complete V12 source and cumulative candidate
 
