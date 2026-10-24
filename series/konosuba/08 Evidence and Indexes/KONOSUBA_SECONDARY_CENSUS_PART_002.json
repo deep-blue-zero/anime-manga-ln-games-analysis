@@ -1605,15 +1605,49 @@
     },
     {
       "character": "Unnamed dragon-egg seller (MAIN07)",
-      "identity": "Individual merchant in MAIN07Ch1 reported negotiation; not automatically MAIN13 bonus seller or another unnamed merchant",
-      "likely_tier": "0–1 candidate, not final",
-      "priority": "Low",
-      "evidence_distribution": "Complete MAIN07 derivative report863L, section3.2 on merchant flattery and egg framing; no fresh native Ch1 reception in this update.",
-      "substantive_responsibility": "Own sales framing uses elite-adventurer recognition and caretaker expectations. Aqua's purchase and later care are her acts; the seller's claims are not verified dragon ontology.",
-      "gaps": "Name, exact words, knowledge of the item and cross-source identity remain unresolved. No wholesale dishonest-merchant stereotype or new completed later transaction.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Unnamed itinerant seller in Aqua’s reported MAIN07 exchange. Later marketing sender(s),garden-seed seller and other unnamed merchants are unjoined; neither sameness nor personal distinctness is certified.",
+      "likely_tier": "1 scoped; compact reported-actor profile; exact publication pending",
+      "priority": "Cohort36 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "Current native MAIN07U012P147–170,especially Aqua’s embedded seller speech153 and reported all-cash price/caretaker justification162. MAIN09U018full42P distinguishes later reported marketing letters from the actual Iris letter; complete ranges and source bindings in C36 provenance.",
+      "substantive_responsibility": "Attributed sales framing praises heroic adventurers,offers a dragon familiar for future fighting,and favors working caretakers over wealthy status owners while taking all Aqua’s available money. This specific reported persuasion earns a compact profile. Kazuma’s wealth-targeting/fraud reading remains his inference; Aqua’s subsequent care is her action.",
+      "gaps": "Seller name,knowledge,sincerity,precise private motive,wider conduct,exact market price and reaction after purchase remain unresolved. Transaction/speech are mediated by Aqua,not a second watched negotiation. No uniform dishonest-merchant generator,additional completed sale or forced join/distinctness split.",
+      "disposition_status": "COHORT36_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working25": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved."
+      "current_scope_asof_working25": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
+      "prior_cohort36_current_fields": {
+        "character": "Unnamed dragon-egg seller (MAIN07)",
+        "identity": "Individual merchant in MAIN07Ch1 reported negotiation; not automatically MAIN13 bonus seller or another unnamed merchant",
+        "likely_tier": "0–1 candidate, not final",
+        "evidence_distribution": "Complete MAIN07 derivative report863L, section3.2 on merchant flattery and egg framing; no fresh native Ch1 reception in this update.",
+        "substantive_responsibility": "Own sales framing uses elite-adventurer recognition and caretaker expectations. Aqua's purchase and later care are her acts; the seller's claims are not verified dragon ontology.",
+        "gaps": "Name, exact words, knowledge of the item and cross-source identity remain unresolved. No wholesale dishonest-merchant stereotype or new completed later transaction.",
+        "priority": "Low",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort36_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZEL_COHORT36_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT36_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-36-zel-and-the-reported-egg-sale"
+      ],
+      "cohort36_semantic_receiving_sha256": "6ebab4f66a292529e2abfccfebf30a66d8c0f66f12d81f7c79b1423facc45583",
+      "cohort36_scope_assessment": {
+        "row": 149,
+        "subject": "Unnamed original dragon-egg seller",
+        "tier": 1,
+        "artifact": "Separate compact reported-actor profile in existing coverage audit",
+        "basis": "Aqua reports specific sales framing,chosen heroic-adventurer audience,dragon-familiar need,all-her-money price and working-caretaker justification at MAIN07U012P153/P162: a consequential attributed choice sequence.",
+        "Tier2_alternative": "One retrospectively reported exchange supplies no own perspective,wider conduct or response to contrary conditions. A monograph would overextend this narrow source.",
+        "Tier3_alternative": "Persuasion for profit is plausible; exact motive and knowledge remain unavailable. One mediated exchange does not identify a stable individual policy rather than ordinary sales framing.",
+        "limits": "Keep Aqua’s report separate from Kazuma’s fraud/wealth inference. No name,verified knowing fraud,disjointness from later senders or identity with seed/weapon merchants is established."
+      },
+      "cohort36_current_qualifications": "Current bounded profile governs; older fields/partial notes remain dated history under the explicit prefreeze identity precision. Reported speech,animal action,expert testimony,temporal change and inferred identity remain distinct. No new monograph,model,diagnostic,independent result or permanent tier ceiling.",
+      "cohort36_prior_semantic_receiving_before_publication_precision": "f85fa0877a0d8bfaf96ab52e033d9938eec2c8fc11523f039fb5729ff5aa7e51",
+      "cohort36_publication_path_precision": {
+        "file": "COHORT36_PUBLICATION_PATH_PRECISION_01.json",
+        "bytes": 5370,
+        "sha256": "a7c8b5429458996253caf875b3a179a9e56e906fb92882aeb9b8db4d430aa531"
+      }
     },
     {
       "character": "Heidel / ハイデル (MAIN11 butler)",

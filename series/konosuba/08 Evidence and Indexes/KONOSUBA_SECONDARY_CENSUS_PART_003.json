@@ -715,6 +715,39 @@
         "full_program_complete": false
       },
       "cohort35_DUST05_identity_route": {
+        "status": "EXACT_SOURCE_AUTHOR_ROUTE_PUBLICATION_CLOSED_IDENTITY_JOIN_OPEN",
+        "related_rows": [
+          57,
+          329,
+          330
+        ],
+        "qualification": "Possible overlap with unnamed DUST05 church roles/correction speaker remains open. Shared place/occupation establishes neither identity nor distinctness. All entering CONTEXP01 current fields,profile and support remain exact.",
+        "artifacts": [
+          "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md",
+          "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_NATIVE_PROVENANCE.json",
+          "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-35-main07-reported-actors-and-dust05-attribution-boundaries"
+        ],
+        "publication_resolution": {
+          "source": "4491664acee5ad901620d795acf0812f86e5747c",
+          "tree": "fbc6a0eb5f1d2b5b0c569e43620986ca11bc1b99",
+          "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_PUBLICATION_GATE_CLOSE.json",
+          "gate_sha256": "ee31ec074adaa9e958d2dc332567b256d41aec2cbab2a767e14db2e25ae20681",
+          "source_run": 40097531812,
+          "full_discovered_tests": 459,
+          "current_models": 55,
+          "author_publication_tranche_complete": true,
+          "main_integration_not_certified_by_author_gate": true,
+          "no_independent_accuracy_grade_or_confidence_gain": true,
+          "separate_housekeeping_run": null
+        }
+      },
+      "cohort35_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort35_semantic_receiving_sha256": "7e1b34feb012efee5cf6f6f6d98c013df23be3ce373afb5f87dca873e8964ec3",
+      "prior_cohort35_scope_route_before_publication": {
         "status": "QUALIFIED_UNJOINED_SCENE_ROUTE_EARLIER_PROFILE_UNCHANGED",
         "related_rows": [
           57,
@@ -728,12 +761,19 @@
           "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-35-main07-reported-actors-and-dust05-attribution-boundaries"
         ]
       },
-      "cohort35_artifacts": [
-        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md",
-        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_NATIVE_PROVENANCE.json",
-        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_RECEIVING_AND_PROVENANCE.json"
-      ],
-      "cohort35_semantic_receiving_sha256": "7e1b34feb012efee5cf6f6f6d98c013df23be3ce373afb5f87dca873e8964ec3"
+      "cohort35_publication_resolution": {
+        "source": "4491664acee5ad901620d795acf0812f86e5747c",
+        "tree": "fbc6a0eb5f1d2b5b0c569e43620986ca11bc1b99",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "ee31ec074adaa9e958d2dc332567b256d41aec2cbab2a767e14db2e25ae20681",
+        "source_run": 40097531812,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Unnamed Arcanretia Eris priest (CONTEXP02)",

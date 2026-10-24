@@ -1889,3 +1889,15 @@ Cohort 34 source `dd66c466d1b14accf73646e3b52e8418dc8e349b` and tree `ac9e6cc19c
 ## Cohort 35 semantic receiving — 2026-10-24T13:11:58.197962+00:00
 
 Ten reviewed private foundation artifacts include the two exact public core bodies and compact-profile fragment. Three profiles and three source records follow meaningful agency with qualified speaker/identity access; no monograph,model,rule,input or first output is created. All 55 models and previous originals remain exact. Candidate totals: 55 models,49 scoped secondary model subjects,83 profiles,27 monograph-only subjects and332 nonfinal records. Three entering rows change,326 stay exact per plane,and nineteen historical plane differences remain separate. Row171 keeps all earlier fields/support. Current301 P slots/240 inline ruby occurrences/two members/two known EPUBs/seven displays and74791 derivative characters/ten displays earn no new whole-source or independent credit. Nine C34 closing paths are carried. The dd66c466 full459 source audit does not certify this new candidate. Exact-index preflight,ordinary publication,complete remote readback and own full source audit/status/reload remain due; protected integration and full program continue.
+
+
+## Cohort 35 exact-source author gate closed — 2026-10-24T13:24:47.565385+00:00
+
+Cohort 35 source `4491664acee5ad901620d795acf0812f86e5747c` and tree `fbc6a0eb5f1d2b5b0c569e43620986ca11bc1b99` close the author publication tranche. Audit 40097531812 executed all 459 discovered tests with all five non-success categories zero. Reporter/latest trusted status, all 9,757 remote file bindings and 26 changed files were verified; all 1,420 project paths reloaded exactly. Totals: 55 models, 49 scoped secondary model subjects, 83 profiles, 27 monograph-only subjects and 332 nonfinal records. No new model or diagnostic was created. Six scoped publication-status rows change; 326 others stay exact per plane. The earlier CONTEXP01 priest fields/support and all previous model bodies/original outputs remain exact. Named reports, inferred Selis identity and untied church turns remain qualified. Full program and separately owned protected integration remain open.
+
+[Gate receipt](KONOSUBA_COHORT35_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort36 semantic receiving — 2026-10-24T14:05:41.973035+00:00
+
+Ten reviewed private foundation artifacts include two exact public cores and the two-profile fragment. One Tier0 reported marketing role appends. Candidate totals:55models/49scoped secondary model subjects/85profiles/27monograph-only/333nonfinal records. Two entering rows change,330 remain exact per plane; nineteen older differences remain separate. Actual2382P/2389ruby,40members/13knownobjects,8full members/32bounded,63displays,2knownimage rechecks and206874derivative characters/26displays earn no new whole-source or independent credit. All55 models and earlier originals remain exact. Ten C35 closing paths are carried; its full459audit does not certify this candidate. Exact-index preflight,ordinary publication,full remote readback and own full source audit/status/reload remain due. Full program continues.

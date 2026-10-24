@@ -2050,3 +2050,10 @@ Lucy’s sharp farewell after being punched preserves dignity while the actual d
 Repeated grievances, Dust’s defensive distinctions, frightening smiles and the failed church inquiry form the comic sequence. Reported and present violence retain their consequences. Fourfold displayed shouting is not an audited count of people, and the comedy supplies neither a uniform clerical personality nor proof that Dust’s memory denial is true.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Dragon grandeur is repeatedly set against chick/rooster behavior,staged training display and domestic disturbance. The table strike locally startles Zel before a peck; that cause is not a universal theological hostility rule. Interpreted escape/refusal clucks remain a human performance,not verified translated bird dialogue.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

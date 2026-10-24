@@ -449,3 +449,10 @@ CR-C34-LY01 QUALIFY: credited benefactor obligation, accepted release reassuranc
 CR-C35-MAR01 QUALIFY: two accounts of one named Keith episode,not two assaults or independent eyewitness confirmation; no current Maris speech or group-membership claim. CR-C35-SEL02 QUALIFY: MAIN07 Eris affiliation does not explicitly supply individual priest class; DUST05 event correspondence leaves speaker identity inferred. CR-C35-TURN03 RETAIN: P895 correction earns individual compact treatment while other turns remain unassigned. CR-C35-LAW04 QUALIFY: P904 doctrine is ad hoc,not established divine law. CR-C35-ELDER05 RETAIN: patronage attempt is not acceptance or another-elder join. CR-C35-ROUTE06 RETAIN: row 171 fields/support stay exact; no identity or unique-person split is certified.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+CR-C36-ACT01 RETAIN: observed animal action is separate from human dragon/training projections. CR-C36-TIME02 QUALIFY: early mana and later reported conversion have different temporal scope. CR-C36-FOOD03 CORRECT: sugar water is for Wiz; MAIN10 bonus sleep belongs explicitly to Aqua. CR-C36-LETTER04 CORRECT: opened Iris letter is not an egg ad. CR-C36-ID05 QUALIFY: seller roles are unjoined,not certified different people; creator chicken remains inferred. CR-C36-ART06 RETAIN: contextual Aqua/Anna/sleeping-bird image and editorial chick profile do not depict a new hatch.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

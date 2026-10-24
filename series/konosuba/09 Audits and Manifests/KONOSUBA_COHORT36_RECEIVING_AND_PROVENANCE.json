@@ -1,0 +1,370 @@
+{
+  "schema": "konosuba.cohort36.receiving-and-provenance.v1",
+  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "received_utc": "2026-10-24T14:05:41.973035+00:00",
+  "previous_published_source": "4491664acee5ad901620d795acf0812f86e5747c",
+  "source_baseline": "4491664acee5ad901620d795acf0812f86e5747c",
+  "main_at_receiving": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "previous_source_audit_not_transferred_to_new_candidate": true,
+  "semantic_receiving_sha256": "6ebab4f66a292529e2abfccfebf30a66d8c0f66f12d81f7c79b1423facc45583",
+  "foundation_seal_sha256": "557d4966b641e49d66ed973545bc944d9f18ffdfc9d33d2fc68e821ded8605aa",
+  "foundation_review_sha256": "8e9e3e2bc0e6703bb29c9db41c138fc4d5c3d83c036d2335aff4d6af9e929185",
+  "core_artifact_pins": [
+    {
+      "private_file": "COHORT36_EVIDENCE_INDEX_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md",
+      "bytes": 6770,
+      "sha256": "17e0f61f6782250464b4fd75a0e8e1253b730ee73d3c8520717a4db7b43f7ae8"
+    },
+    {
+      "private_file": "COHORT36_NATIVE_PROVENANCE_DRAFT_03.json",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZEL_COHORT36_NATIVE_PROVENANCE.json",
+      "bytes": 80058,
+      "sha256": "e4873af165afd9f2840d97cac2249a11749df72980d7d3b04580ce94b13ee949"
+    }
+  ],
+  "supporting_freeze_records": [
+    {
+      "file": "COHORT36_FOUNDATION_AUTHOR_REVIEW_01.json",
+      "bytes": 1165,
+      "sha256": "624a0cce44b7314b2f473adb73fced126f149533ea71800740fa4b134582ef8a"
+    },
+    {
+      "file": "COHORT36_FOUNDATION_SEAL_01.json",
+      "bytes": 3446,
+      "sha256": "d00832f6a6da1678d67f048d0ec3849cc0a0d126db473ee5531410e4ab1206b2"
+    },
+    {
+      "file": "COHORT36_COMPLETE_FOUNDATION_REVIEW_PLAN_01.json",
+      "bytes": 6527,
+      "sha256": "bd0e86f385610b8018b9f8b06a150ebe381c687944403a535d701d06220a8fc1"
+    },
+    {
+      "file": "COHORT36_COMPLETE_FOUNDATION_REVIEW_PLAN_02.json",
+      "bytes": 3327,
+      "sha256": "0bd210fd282a25674dfaac49356b8a9a2cead3c636505cb441d221886632966f"
+    },
+    {
+      "file": "COHORT36_INITIAL_FOUNDATION_AUTHOR_REVIEW_01.json",
+      "bytes": 750,
+      "sha256": "7c705627307abdadf20f51bb618bedb9a3aa6c606ae3337dc4823e969ce92d4e"
+    },
+    {
+      "file": "COHORT36_FOUNDATION_AUTHOR_REVIEW_02.json",
+      "bytes": 985,
+      "sha256": "8e9e3e2bc0e6703bb29c9db41c138fc4d5c3d83c036d2335aff4d6af9e929185"
+    },
+    {
+      "file": "COHORT36_FOUNDATION_SEAL_02.json",
+      "bytes": 3757,
+      "sha256": "557d4966b641e49d66ed973545bc944d9f18ffdfc9d33d2fc68e821ded8605aa"
+    },
+    {
+      "file": "COHORT36_PUBLICATION_PRECISION_REVIEW_PLAN_01.json",
+      "bytes": 901,
+      "sha256": "747a6a2624a90e649d3837fce3c32c927ae5a7fa303800c57256b234b9102542"
+    }
+  ],
+  "compact_profile_fragment": {
+    "private_file": "COHORT36_COMPACT_PROFILES_DRAFT_01.md",
+    "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "bytes": 7358,
+    "sha256": "be6d53846ef3110bed51cdf649b65a182c8c03fd49519d14f5f792252d5ab840",
+    "anchor": "#cohort-36-zel-and-the-reported-egg-sale"
+  },
+  "original_first_serialization_pins": [],
+  "new_artifact_scope": {
+    "models": 55,
+    "scoped_secondary_model_subjects": 49,
+    "bounded_profiles": 85,
+    "monograph_only_subjects": 27,
+    "nonfinal_records": 333,
+    "new_compact_profiles": 2,
+    "new_monographs": 0,
+    "new_models": 0,
+    "new_rules": 0,
+    "new_inputs": 0,
+    "new_original_firsts": 0,
+    "new_dependent_pairs": 0,
+    "new_Tier0_records": 1,
+    "new_records": 1,
+    "new_Tier1_records": 0,
+    "new_Tier0_dispositions": 1
+  },
+  "subject_scope": {
+    "schema": "konosuba.cohort36.scope-assessment.v1",
+    "assessed_utc": "2026-10-24T14:00:30.861934+00:00",
+    "subjects": [
+      {
+        "row": 59,
+        "subject": "Zel / Emperor Zel",
+        "tier": 1,
+        "artifact": "Compact profile in existing coverage audit",
+        "basis": "A named nonhuman agent with directly narrated resistance to handling,approach to Vanir,quiet holding,pecks,startle-linked reaction,curling/sleep,proximity to Chomusuke,later crowing and growth. These actions and changing care relationships deserve individual treatment.",
+        "Tier2_alternative": "The longitudinal development story is substantial in its effects on the household. However,much explanatory variety consists of other people’s purchase,training,dragon and combat projections. The bird’s discriminating behavior remains a small set of locally observed ordinary responses plus mediated reports; a substantial independently motivated interpretation would mostly repeat these or populate dimensions with unsupported human intentions.",
+        "Tier3_alternative": "Warmth,early attachment,food-seeking,startle and ordinary chick/rooster behavior remain serious generic rivals. Imprinting is Kazuma’s explanation,not an isolated causal test. No differentiated falsifiable individual generator across changed incentives is identified.",
+        "limits": "No permanent animal/secondary ceiling or requirement of verbal interiority. Stronger nonverbal choice evidence could support later depth. Handler dragon beliefs,decoded clucks and future battle promises do not substitute for it."
+      },
+      {
+        "row": 149,
+        "subject": "Unnamed original dragon-egg seller",
+        "tier": 1,
+        "artifact": "Separate compact reported-actor profile in existing coverage audit",
+        "basis": "Aqua reports specific sales framing,chosen heroic-adventurer audience,dragon-familiar need,all-her-money price and working-caretaker justification at MAIN07U012P153/P162: a consequential attributed choice sequence.",
+        "Tier2_alternative": "One retrospectively reported exchange supplies no own perspective,wider conduct or response to contrary conditions. A monograph would overextend this narrow source.",
+        "Tier3_alternative": "Persuasion for profit is plausible; exact motive and knowledge remain unavailable. One mediated exchange does not identify a stable individual policy rather than ordinary sales framing.",
+        "limits": "Keep Aqua’s report separate from Kazuma’s fraud/wealth inference. No name,verified knowing fraud,disjointness from later senders or identity with seed/weapon merchants is established."
+      }
+    ],
+    "indexed_records": [
+      {
+        "row": 332,
+        "subject": "Reported dragon-egg marketing sender(s) (MAIN09)",
+        "tier": 0,
+        "reason": "Aqua reports repeated letters and quotes sales wording without naming or enumerating senders. Preserve a role/occurrence index; no individual profile or original-seller join. Kazuma’s separate opened letter is from Iris."
+      }
+    ],
+    "changed_entering_rows": [
+      59,
+      149
+    ],
+    "untouched_entering_rows": 330,
+    "new_rows": [
+      332
+    ],
+    "planned_totals": {
+      "models": 55,
+      "scoped_secondary_model_subjects": 49,
+      "bounded_profiles": 85,
+      "monograph_only_subjects": 27,
+      "nonfinal_records": 333,
+      "new_compact_profiles": 2,
+      "new_monographs": 0,
+      "new_models": 0,
+      "new_rules": 0,
+      "new_inputs": 0,
+      "new_original_firsts": 0,
+      "new_dependent_pairs": 0,
+      "new_Tier0_records": 1
+    },
+    "no_new_model_or_diagnostic_reason": "Observed animal responses and the narrowly reported seller exchange earn compact profiles without a differentiated individual causal generator. No padded models or manufactured diagnostics. Existing final batteries and six distinct original Stage D successors remain owed.",
+    "actual_native_receiving_sha256": "e2a0c60aa2a0cfb76889f098890acce0be21eaccf240eedd6ef205303985d5b3",
+    "criteria": "User tiers applied by contextual diversity,observational quality,identifiability,counterevidence and falsification opportunities. No appearance,word-count,animal or historical-secondary ceiling.",
+    "scope_is_current_bounded_candidate": true,
+    "canonical_changes": false,
+    "full_program_complete": false
+  },
+  "source_access_limits": "2382 complete current P with2389 inline ruby occurrences,40text members,13knownEPUBs,61planned and2adaptive displays,8complete members plus32bounded members,and2knownMAIN16 image rechecks. Four complete analytical reports plus6bounded reports,total206874characters in26displays. All41technical byte/name retrieval does not prove alias,image,nonparagraph or unnamed absence. No new source object,whole-source,globally unique,OCR,audio,human or independent credit.",
+  "source_identity_and_knowledge_limits": [
+    "Explicit Japanese full name/nickname binds egg/chick; English spellings are retrieval aids.",
+    "Original seller,mail senders,seed seller and weapon merchant are not joined or certified disjoint.",
+    "Actual Iris-letter opening contradicts Darkness’s egg-ad claim.",
+    "Sugar water is for Wiz; transformation speculation is Chomusuke; Schneider is a game character.",
+    "Creator chicken has strong inferred Zel bridge,not an explicit name or watched battle.",
+    "Wrong Ep1 label and withdrawn Yunyun/nest/egg guesses remain preserved with current precision.",
+    "Early high mana/later reported conversion have temporal limits; no measured level or dragon proof.",
+    "The added precision governs the notes03 separate-person wording: separate role,unresolved personal identity,neither joined nor certified distinct. Initial context-receiving native-pending wording is historical; completed actual receiving governs."
+  ],
+  "diagnostic_limits": "Observed animal responses and the narrowly reported seller exchange earn compact profiles without a differentiated individual causal generator. No padded models or manufactured diagnostics. Existing final batteries and six distinct original Stage D successors remain owed.",
+  "current_unique_native_P_slots": 2382,
+  "inline_ruby_occurrences": 2389,
+  "objects_with_actual_P": 13,
+  "objects_with_any_actual_native_content": 13,
+  "known_current_image_rechecks": 2,
+  "technical_all41_identity_retrieval_checks": true,
+  "technical_checks_not_reading": true,
+  "new_whole_source_globally_unique_OCR_audio_human_or_independent_credit": 0,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "census_comparison": {
+    "changed_entering_rows": [
+      59,
+      149
+    ],
+    "untouched_entering_rows": 330,
+    "new_rows": [
+      332
+    ],
+    "nonfinal_records": 333,
+    "canonical_layout": "Manifest/five stable row payloads:80,80,80,80,13; private WORK108 separate.",
+    "canonical_private_historical_differences_retained": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "historical_storage_snapshot_unchanged": true,
+    "no_unique_person_denominator": true
+  },
+  "prior_preservation_checks": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 55,
+    "control_baseline": "Accepted owner-integrated main controls preserved at a90722d065e56e8fe2c2131e4307e4fa03d0c289; epoch1 migration files remain historical,not current routing.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true,
+    "C27_twenty_cores_compact_fragment_exact": true,
+    "C28_twenty_eight_cores_thirtytwo_private_twentyfour_original_firsts_exact": true,
+    "C28_eighty_nine_raw_deliveries_exact": true,
+    "WORK92_exact": true,
+    "current_C28_public_gate_exact": true,
+    "C29_thirteen_cores_seventeen_private_sixteen_original_firsts_exact": true,
+    "C29_sixty_eight_raw_deliveries_exact": true,
+    "WORK94_exact": true,
+    "current_C29_public_gate_exact": true,
+    "C30_nineteen_cores_twenty_three_private_twenty_four_original_firsts_exact": true,
+    "C30_thirty_three_raw_deliveries_exact": true,
+    "WORK96_exact": true,
+    "current_C30_public_gate_exact": true,
+    "C31_twenty_nine_cores_thirty_three_private_twenty_six_original_firsts_exact": true,
+    "C31_fifty_six_native_copies_exact": true,
+    "WORK98_exact": true,
+    "current_C31_public_gate_exact": true,
+    "C32_eleven_cores_fifteen_private_six_original_firsts_exact": true,
+    "C32_fortysix_native_deliveries_exact": true,
+    "WORK99_exact": true,
+    "WORK100_exact": true,
+    "current_C32_public_gate_exact": true,
+    "C33_eight_cores_twelve_private_six_original_firsts_exact": true,
+    "C33_fourteen_native_deliveries_exact": true,
+    "WORK101_exact": true,
+    "WORK102_exact": true,
+    "current_C33_public_gate_exact": true,
+    "C34_fourteen_cores_twenty_private_ten_firsts_exact": true,
+    "C34_thirtyfour_native_deliveries_thirteen_units_one_known_image_exact": true,
+    "WORK103_exact": true,
+    "WORK104_exact": true,
+    "current_C34_public_gate_exact": true,
+    "C35_two_cores_ten_private_compact_fragment_exact": true,
+    "C35_seven_native_deliveries_two_units_exact": true,
+    "C35_no_new_diagnostic_firsts": true,
+    "WORK105_exact": true,
+    "WORK106_exact": true,
+    "current_C35_public_gate_exact": true
+  },
+  "all55_entering_models_unchanged": true,
+  "all2_C36_cores_frozen_exact": true,
+  "previous_author_gate": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_PUBLICATION_GATE_CLOSE.json",
+    "source": "4491664acee5ad901620d795acf0812f86e5747c",
+    "audit_run_id": 40097531812,
+    "full_discovered_tests": 459,
+    "scope": "C35 author tranche; protected-main integration separately owned."
+  },
+  "historical_capture_flags": "Frozen canonical-changed and partial-reading flags remain dated facts; current receiving and prefreeze precision govern the bounded candidate.",
+  "source_known": true,
+  "same_informed_root": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false,
+  "all11_frozen_private_artifact_pins": [
+    {
+      "file": "COHORT36_PARTIAL_NATIVE_OBSERVATIONS_01.md",
+      "bytes": 6169,
+      "sha256": "c39f3ff669c70128dc9033fed81ef532a490a8834424d83a3e61bc417d2ccf5a"
+    },
+    {
+      "file": "COHORT36_PARTIAL_NATIVE_OBSERVATIONS_02.md",
+      "bytes": 5786,
+      "sha256": "83c21823312cfb89845c74e7f3fe3aef4df780f3cb8de11dfec55e13cb05d795"
+    },
+    {
+      "file": "COHORT36_NATIVE_OBSERVATIONS_CONTINUATION_03.md",
+      "bytes": 8064,
+      "sha256": "c9e5b80c821378628f330f48b26832c135a32f907e72c4743020dc13285a2726"
+    },
+    {
+      "file": "COHORT36_SCOPE_ASSESSMENT_DRAFT_01.json",
+      "bytes": 4259,
+      "sha256": "93a3990c7942a08885a2e9e85828928641ddf44d730dee69ea0554b074af55b0"
+    },
+    {
+      "file": "COHORT36_COMPACT_PROFILES_DRAFT_01.md",
+      "bytes": 7358,
+      "sha256": "be6d53846ef3110bed51cdf649b65a182c8c03fd49519d14f5f792252d5ab840"
+    },
+    {
+      "file": "COHORT36_NEW_DISCOVERY_RECORDS_DRAFT_01.json",
+      "bytes": 1552,
+      "sha256": "816cda94e9634d7dc6783b1edd88542bc0ccf323a439313297a4c01a26cf8800"
+    },
+    {
+      "file": "COHORT36_NAME_REFERENCE_CHECK_DRAFT_01.json",
+      "bytes": 2973,
+      "sha256": "9978a520c81ae7180afacfd02aa2d20b5da5a74683d89e3005ee33d9903bbdca"
+    },
+    {
+      "file": "COHORT36_EVIDENCE_INDEX_DRAFT_01.md",
+      "bytes": 6770,
+      "sha256": "17e0f61f6782250464b4fd75a0e8e1253b730ee73d3c8520717a4db7b43f7ae8"
+    },
+    {
+      "file": "COHORT36_NATIVE_PROVENANCE_DRAFT_03.json",
+      "bytes": 80058,
+      "sha256": "e4873af165afd9f2840d97cac2249a11749df72980d7d3b04580ce94b13ee949"
+    },
+    {
+      "file": "COHORT36_PREFREEZE_IDENTITY_PRECISION_01.json",
+      "bytes": 2199,
+      "sha256": "add98cf45cf794547bfe2333e9397c447c85b62291be228eaaef581deacfe94d"
+    },
+    {
+      "file": "COHORT36_PUBLICATION_PATH_PRECISION_01.json",
+      "bytes": 5370,
+      "sha256": "a7c8b5429458996253caf875b3a179a9e56e906fb92882aeb9b8db4d430aa531"
+    }
+  ],
+  "publication_path_precision": {
+    "file": "COHORT36_PUBLICATION_PATH_PRECISION_01.json",
+    "bytes": 5370,
+    "sha256": "a7c8b5429458996253caf875b3a179a9e56e906fb92882aeb9b8db4d430aa531"
+  },
+  "prior_semantic_receiving_sha256": "f85fa0877a0d8bfaf96ab52e033d9938eec2c8fc11523f039fb5729ff5aa7e51",
+  "publication_only_repair": "Only absolute-path serialization is replaced by source filenames and hashes. Full locations remain in private native plans. Source views,analysis,two profiles,one role,all counts,models and originals remain unchanged."
+}

@@ -1441,3 +1441,10 @@ Lucy’s credited gratitude extends to a wish that Regina remain available to ot
 The correction speaker’s local choice is to distinguish the actor of a reported blow and ask for continued recall. This does not establish a general preference, temperament or routine. Dust’s claim that he sought patronage from an older Eris believer shows an attempt; no accepted arrangement, payment or elder’s own preference is supplied.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Zel’s actual approach to Vanir,curling sleep and proximity to Chomusuke support bounded relations without certified humanlike motives. Warmth remains a hedged cause. Early coop requests and helper reports differ from the later visible finished coop. A feeding assignment or souvenir offer is not its completed performance.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

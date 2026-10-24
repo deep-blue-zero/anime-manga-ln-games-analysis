@@ -2017,3 +2017,10 @@ Lucy names Regina and states a retaliation doctrine at MAIN11C3P525/533; the int
 マリス and セリス remain distinct written names; Maris and Selis/Celis are retrieval spellings. セリス is not mechanically collapsed with セシリー. The P895 first-person distinction identifies a correction act but does not itself fix personal gender,class or ownership of neighboring turns. No new Japanese or acoustic voice reconstruction is certified.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+キングスフォード・ゼルトマン and ゼル帝 give the native full-name/nickname bridge; Zel/Emperor Zel are retrieval spellings. Ordinary chirps,crows and human interpretations do not certify semantic animal speech or acoustic voice. MAIN07U018 is Ep1 / start under the preserved header-only correction; MAIN09U018 is verified Ep2 / start.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

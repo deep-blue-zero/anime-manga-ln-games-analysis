@@ -2013,3 +2013,10 @@ Cohort 34 provenance binds 1,538 complete current contextual P slots with 1,396 
 Current scope is MAIN07U013/C2 P1–130 and DUST05U011 item/xhtml/p-003.xhtml P800–970: 301 complete P slots with 240 inline ruby occurrences,two known EPUBs,two members and seven actual displays. Complete MAIN07 principal/excluded analytical reports total 74,791 characters in ten displays. DUST05 is bounded native review only. All 41 byte/name retrieval is technical; no new whole-source,globally unique,image,OCR,audio,human or independent credit follows.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Current native union:2382complete P/2389inline ruby,40members/13knownEPUBs,61planned plus2adaptive displays,8full members/32bounded members and2knownMAIN16 image rechecks. Four complete reports plus6bounded analytical contexts total206874characters/26displays. Exact ranges,source bindings and Ep1 precision are in provenance. No new source object,whole-source,globally unique,OCR,audio,human or independent credit.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

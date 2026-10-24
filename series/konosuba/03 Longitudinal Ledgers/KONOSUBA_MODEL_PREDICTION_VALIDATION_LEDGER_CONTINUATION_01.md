@@ -596,3 +596,10 @@ Lucy and the forest Princess each have two provisional rules, with ten unchanged
 No model,rule,input or first response is created at this scope. Two narrow named reports and one directly heard attribution choice warrant compact treatment without identifying a stable causal generator. All 55 entering model bodies and earlier original outputs remain exact. Existing final batteries and six distinct original Stage D successors remain owed; no synthetic success or independent validation is inferred.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+No new model,rule,input or first body is created. Observed ordinary animal responses and one mediated seller exchange earn two compact profiles without a differentiated individual generator. All55 entering models and earlier original outputs remain exact. Final batteries and six distinct original StageD successors remain owed; no independent accuracy,grade or confidence gain follows.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

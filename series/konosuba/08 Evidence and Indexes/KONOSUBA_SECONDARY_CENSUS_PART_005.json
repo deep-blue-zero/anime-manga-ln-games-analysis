@@ -3,8 +3,8 @@
   "canonical_census_manifest": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
   "part_ordinal": 5,
   "first_row_index": 320,
-  "last_row_index": 331,
-  "row_count": 12,
+  "last_row_index": 332,
+  "row_count": 13,
   "rows": [
     {
       "character": "Unnamed man in Lucy’s gift/rejection account",
@@ -333,12 +333,12 @@
     {
       "character": "Unnamed Maris-attribution correction speaker (DUST05 Eris church)",
       "identity": "Individual speaker at DUST05U011P895 explicitly distinguishes self from Maris in the Keith episode. Name/gender/class and Selis/CONTEXP01 priest joins unresolved.",
-      "likely_tier": "1 scoped; individual compact profile; exact publication pending",
-      "priority": "Cohort35 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; individual compact profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 35 bounded author publication complete; continuing full program.",
       "evidence_distribution": "DUST05U011P894–896 within complete currentP800–970. MAIN07U013P60 supplies the related named report.",
       "substantive_responsibility": "Directly corrects the actor of a specific reported blow and asks Dust to recall other incidents; Dust describes the smiling exchange as frightening.",
       "gaps": "No certain ownership of every neighboring church turn, present punch or doctrine; no named Selis bridge, new disjoint-person claim, own Maris voice, stable generator or model.",
-      "disposition_status": "COHORT35_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT35_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "Direct current utterance with embedded historical assertion; adjacent narrator appraisal attributed.",
       "cohort35_artifacts": [
@@ -355,17 +355,35 @@
         "tier": 1,
         "compact_profile": true,
         "reason": "Direct first-person distinction of who struck Keith and request for further recall are an individually anchored attribution choice. Other current turns remain unassigned; possible Selis/171 overlap unresolved."
+      },
+      "prior_cohort35_publication_fields": {
+        "likely_tier": "1 scoped; individual compact profile; exact publication pending",
+        "priority": "Cohort35 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT35_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort35_publication_resolution": {
+        "source": "4491664acee5ad901620d795acf0812f86e5747c",
+        "tree": "fbc6a0eb5f1d2b5b0c569e43620986ca11bc1b99",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "ee31ec074adaa9e958d2dc332567b256d41aec2cbab2a767e14db2e25ae20681",
+        "source_run": 40097531812,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
       }
     },
     {
       "character": "Other Eris-church confrontation roles (DUST05)",
       "identity": "Unresolved present clerical/adherent roles around the door encounter, accusations and group response; may overlap329,Selis,Maris or existing171 without a certified membership/person split.",
-      "likely_tier": "0 scoped; sparse role/report/group index; exact publication pending",
-      "priority": "Cohort35 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse role/report/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 35 bounded author publication complete; continuing full program.",
       "evidence_distribution": "DUST05U011P880–918 within currentP800–970.",
       "substantive_responsibility": "Door response/call, another responding voice, attempted assault, particular grievances, actual face punch, ad hoc dignity/undead claim, surrounding/rejection and reported beating/withdrawal retain their exact positions and access.",
       "gaps": "No all-turns single actor, verified general church law, divine command, exact member count, completed curse consultation or established current Maris/Selis participation.",
-      "disposition_status": "COHORT35_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT35_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "Dust current focalization, direct untagged dialogue, observed acts and immediate aftermath report; group membership unresolved.",
       "cohort35_artifacts": [
@@ -373,17 +391,35 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_NATIVE_PROVENANCE.json",
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_RECEIVING_AND_PROVENANCE.json"
       ],
-      "cohort35_semantic_receiving_sha256": "7e1b34feb012efee5cf6f6f6d98c013df23be3ce373afb5f87dca873e8964ec3"
+      "cohort35_semantic_receiving_sha256": "7e1b34feb012efee5cf6f6f6d98c013df23be3ce373afb5f87dca873e8964ec3",
+      "prior_cohort35_publication_fields": {
+        "likely_tier": "0 scoped; sparse role/report/group index; exact publication pending",
+        "priority": "Cohort35 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT35_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort35_publication_resolution": {
+        "source": "4491664acee5ad901620d795acf0812f86e5747c",
+        "tree": "fbc6a0eb5f1d2b5b0c569e43620986ca11bc1b99",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "ee31ec074adaa9e958d2dc332567b256d41aec2cbab2a767e14db2e25ae20681",
+        "source_run": 40097531812,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Older Eris believer in Dust’s patronage-attempt account",
       "identity": "Unnamed older male Eris-adherent role in Dust self-report; exact age, broader identity and any link to other elders unestablished.",
-      "likely_tier": "0 scoped; sparse role/report/group index; exact publication pending",
-      "priority": "Cohort35 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "0 scoped; sparse role/report/group index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 35 bounded author publication complete; continuing full program.",
       "evidence_distribution": "DUST05U011P889; complete currentP800–970.",
       "substantive_responsibility": "Dust says he tried to obtain patronage by describing a meeting with Eris.",
       "gaps": "No elder’s own voice/choice, granted money, accepted arrangement, verified truth or falsity of the claimed encounter, exact acquaintance history or join to the DUST04 casino elder.",
-      "disposition_status": "COHORT35_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT35_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "source_access_type": "Dust self-serving retrospective account; attempted patronage is reported, not observed as accepted.",
       "cohort35_artifacts": [
@@ -391,7 +427,49 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_NATIVE_PROVENANCE.json",
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_RECEIVING_AND_PROVENANCE.json"
       ],
-      "cohort35_semantic_receiving_sha256": "7e1b34feb012efee5cf6f6f6d98c013df23be3ce373afb5f87dca873e8964ec3"
+      "cohort35_semantic_receiving_sha256": "7e1b34feb012efee5cf6f6f6d98c013df23be3ce373afb5f87dca873e8964ec3",
+      "prior_cohort35_publication_fields": {
+        "likely_tier": "0 scoped; sparse role/report/group index; exact publication pending",
+        "priority": "Cohort35 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT35_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort35_publication_resolution": {
+        "source": "4491664acee5ad901620d795acf0812f86e5747c",
+        "tree": "fbc6a0eb5f1d2b5b0c569e43620986ca11bc1b99",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "ee31ec074adaa9e958d2dc332567b256d41aec2cbab2a767e14db2e25ae20681",
+        "source_run": 40097531812,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
+    },
+    {
+      "character": "Reported dragon-egg marketing sender(s) (MAIN09)",
+      "identity": "Unresolved sender role behind Aqua-reported repeated egg-stock letters; no name,number of people,original-seller identity or organized-network join. Excludes the separately opened Iris letter.",
+      "likely_tier": "0 scoped; reported occurrence/role index only; exact publication pending",
+      "priority": "Cohort36 bounded source-role receiving complete; exact containing publication pending.",
+      "evidence_distribution": "Current full MAIN09U018 OEBPS/Text/part0016.xhtml P1–42,especially11–12/18–19/26–40. Original merchant comparison MAIN07U012P153/P162; all41 literal retrieval is not an unnamed absence proof.",
+      "substantive_responsibility": "Aqua attributes recurring egg-stock notices and elite-adventurer flattery to unspecified senders. No individual’s broader behavior or another purchase is shown. Kazuma generalizes about fraud targeting; Darkness’s claim about his different letter is contradicted by its actual Iris-letter opening.",
+      "gaps": "Sender identity,count,knowledge,truth of stock,original-seller relationship and existence of an organized group remain unresolved. No unique-person denominator or forced identity/distinctness split.",
+      "disposition_status": "COHORT36_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort36_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZEL_COHORT36_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT36_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-36-zel-and-the-reported-egg-sale"
+      ],
+      "cohort36_semantic_receiving_sha256": "6ebab4f66a292529e2abfccfebf30a66d8c0f66f12d81f7c79b1423facc45583",
+      "cohort36_prior_semantic_receiving_before_publication_precision": "f85fa0877a0d8bfaf96ab52e033d9938eec2c8fc11523f039fb5729ff5aa7e51",
+      "cohort36_publication_path_precision": {
+        "file": "COHORT36_PUBLICATION_PATH_PRECISION_01.json",
+        "bytes": 5370,
+        "sha256": "a7c8b5429458996253caf875b3a179a9e56e906fb92882aeb9b8db4d430aa531"
+      }
     }
   ]
 }

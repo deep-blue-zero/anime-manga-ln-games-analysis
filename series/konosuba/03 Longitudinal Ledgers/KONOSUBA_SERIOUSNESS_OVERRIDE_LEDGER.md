@@ -1364,3 +1364,10 @@ Aqua actually punches a fading Lucy; the ghost’s sharp reply does not erase th
 Keith’s and Dust’s taunts are attributed sexual/religious harassment, not verified measures of bodies,faith or moral worth. Reported retaliation, an attempted blow,the actual face punch and Dust’s reported beating remain distinct acts. An improvised undead/dignity justification is not an Eris command or established permission.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+The seller’s reported heroic-recognition and caretaker framing has a real resource consequence: Aqua says she paid all available money. Exploitation is a serious interpretation without verified private knowledge or an invented uniform merchant psychology. Threats to eat or punish and future military instructions do not become completed harm,animal agreement or battlefield action.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

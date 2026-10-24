@@ -3379,12 +3379,12 @@
     {
       "character": "Maris / マリス",
       "identity": "Named reported Eris priest in Kazuma’s failed MAIN07 identity guess; Eris denies being Maris. No join to the current DUST05 correction speaker or all unnamed church roles.",
-      "likely_tier": "1 scoped; compact reported-actor profile; exact publication pending",
-      "priority": "Cohort35 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact reported-actor profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 35 bounded author publication complete; continuing full program.",
       "evidence_distribution": "Complete current MAIN07U013/C2 P1–130, especially60–63/69; DUST05U011 P800–970, especially894–896. Complete MAIN07 principal/excluded analytical reports reviewed; all41 technical named retrieval is not absence proof.",
       "substantive_responsibility": "Kazuma reports a consequential punch and Keith’s broken nose after Keith’s sexual/religious taunt. The DUST05 speaker explicitly assigns the associated blow to Maris rather than to self. Two textual accounts of one episode are not two assaults or independent eyewitness trials.",
       "gaps": "No own directly heard Maris voice, established present church membership, private rationale, routine, uniform temper, wider policy or stable generative model. Injury detail comes from MAIN07; Keith’s taunt is not verified anatomy, faith measurement or law. No invented gender or all-turn ownership.",
-      "disposition_status": "COHORT35_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT35_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_cohort35_current_fields": {
         "character": "Maris",
@@ -3410,17 +3410,35 @@
         "compact_profile": true,
         "reason": "Named consequential retaliation after a specific taunt, with two textual accounts of the same episode, supports a bounded reported-actor profile. No own voice or varied stable generator."
       },
-      "cohort35_current_qualifications": "Current bounded report profile governs; earlier fields remain dated history. Names,attributed past events,current unnamed turns and inferred event links remain separate. No new monograph,model,diagnostic,independent result or permanent tier ceiling."
+      "cohort35_current_qualifications": "Current bounded report profile governs; earlier fields remain dated history. Names,attributed past events,current unnamed turns and inferred event links remain separate. No new monograph,model,diagnostic,independent result or permanent tier ceiling.",
+      "prior_cohort35_publication_fields": {
+        "likely_tier": "1 scoped; compact reported-actor profile; exact publication pending",
+        "priority": "Cohort35 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT35_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort35_publication_resolution": {
+        "source": "4491664acee5ad901620d795acf0812f86e5747c",
+        "tree": "fbc6a0eb5f1d2b5b0c569e43620986ca11bc1b99",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "ee31ec074adaa9e958d2dc332567b256d41aec2cbab2a767e14db2e25ae20681",
+        "source_run": 40097531812,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Selis / セリス (Celis retrieval variant)",
       "identity": "Named second failed Eris guess, kept distinct from Maris; no supplied Cecily/セシリー alias bridge. MAIN07 establishes Eris affiliation, not an explicit individual priest class.",
-      "likely_tier": "1 scoped; compact reported-actor profile; exact publication pending",
-      "priority": "Cohort35 bounded semantic receiving complete; exact containing publication pending.",
+      "likely_tier": "1 scoped; compact reported-actor profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort 35 bounded author publication complete; continuing full program.",
       "evidence_distribution": "Complete current MAIN07U013/C2 P1–130, especially66–69; DUST05U011 P800–970, especially899–903. Complete MAIN07 principal/excluded analytical reports reviewed.",
       "substantive_responsibility": "Kazuma reports Selis joining Darkness in beating Dust after his sexual/religious taunt and exposure demand. DUST05 repeats a closely corresponding grievance involving Darkness, but the present speaker is unnamed. This is a strong event link with a qualified personal-identity inference.",
       "gaps": "No explicit Selis name for the current speaker, ownership of every present punch/doctrine/group act, certain individual priest class, own certified direct voice, wider relationship outcome or stable generator. Dust’s claimed lack of memory is not proof the episode never occurred; comic framing does not erase violence.",
-      "disposition_status": "COHORT35_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COHORT35_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "prior_cohort35_current_fields": {
         "character": "Selis / Celis retrieval variant",
@@ -3446,7 +3464,25 @@
         "compact_profile": true,
         "reason": "Named joint response and relationship to Darkness are substantive report evidence. Later unnamed-priest event correspondence is strong but does not explicitly name Selis; priest class remains qualified."
       },
-      "cohort35_current_qualifications": "Current bounded report profile governs; earlier fields remain dated history. Names,attributed past events,current unnamed turns and inferred event links remain separate. No new monograph,model,diagnostic,independent result or permanent tier ceiling."
+      "cohort35_current_qualifications": "Current bounded report profile governs; earlier fields remain dated history. Names,attributed past events,current unnamed turns and inferred event links remain separate. No new monograph,model,diagnostic,independent result or permanent tier ceiling.",
+      "prior_cohort35_publication_fields": {
+        "likely_tier": "1 scoped; compact reported-actor profile; exact publication pending",
+        "priority": "Cohort35 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT35_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort35_publication_resolution": {
+        "source": "4491664acee5ad901620d795acf0812f86e5747c",
+        "tree": "fbc6a0eb5f1d2b5b0c569e43620986ca11bc1b99",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "ee31ec074adaa9e958d2dc332567b256d41aec2cbab2a767e14db2e25ae20681",
+        "source_run": 40097531812,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Aigis (sentient sacred armor)",
@@ -3524,14 +3560,14 @@
       }
     },
     {
-      "character": "Zel / Emperor Zel",
-      "identity": "ゼル / 皇帝ゼル; chick/rooster versus Aqua's Shaggy Dragon assertion",
-      "likely_tier": "0–1 bounded nonhuman profile pending",
-      "priority": "Discovery; identity/agency boundary",
-      "evidence_distribution": "MAIN08 retained C1 P254-312 and later accepted MAIN15 pet-growth/resource reports. CURRENT WORKING23: MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. I1 P3–12 and IMG021. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "Observed following/feeding and reactions, contested handler claims and actual effects on others' choices; preserve pet agency at the observed level without importing human motives or verified dragon biology. CURRENT WORKING23: Sleeping on a cast-off Vanir shell, Aqua's insistence on a dragon identity and the depicted bird are distinct evidence types. Previous uncoded nest/egg guesses are expressly withdrawn in current qualifications. CURRENT WORKING24: MAIN17 creator sketch mentions an unusually high-level chicken; final Aqua's hoped-for dragon growth is her belief. Neither equals a directly observed transformation, new egg or certified class/species change. CURRENT WORKING31: MAIN15 pet-directed care, actual potion report/growth, cluck interpretations and coop labor remain separate facts. MAIN16I1 sleeping bird/dragon-confidence account again expresses Aqua appraisal; local attachment is real.",
-      "gaps": "Retain explicit identity join as a current lead where the creator leaves the chicken unnamed, plus known earlier character evidence. No automatic literal fulfillment of Aqua's wish. CURRENT WORKING31 QUALIFICATION: No species/capacity confirmation, future combat role, understood assent from clucks or universal household labor allocation. Do not turn predicted tears/species growth into performed outcomes.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "character": "Zel / Emperor Zel / ゼル帝",
+      "identity": "キングスフォード・ゼルトマン,called ゼル帝 by Aqua; explicit egg/chick name bridge. Later grown chicken/rooster is observed; Aqua’s dragon claim and the creator’s unnamed high-level chicken join retain their separate authority/inference.",
+      "likely_tier": "1 scoped; compact nonhuman profile; exact publication pending",
+      "priority": "Cohort36 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "Current2382P/2389ruby union across40members/13knownEPUBs,including8complete members and32bounded members,plus2knownMAIN16 images. MAIN07 naming/purchase; MAIN08 hatch reports and actual approach/pecks; MAIN09 attempted paw and sleep; MAIN11 finished coop; MAIN13 proximity; MAIN15 grown bird/reported potion; MAIN16 sleep/care; MAIN17 qualified unnamed synopsis. Exact ranges in C36 provenance.",
+      "substantive_responsibility": "Own resistance to holding,approach to Vanir,quiet holding,pecks,startle-linked response,curling sleep,Chomusuke proximity and later crowing remain animal acts. Household care and Kazuma’s abandoned eating thought have relational consequences. Handler training,dragon/hero claims and interpreted clucks are not the bird’s decisions. Early high mana and later reported mana-to-level conversion retain a changing timeline.",
+      "gaps": "No sufficiently differentiated independent-motivation monograph or falsifiable individual generator at this scope; ordinary animal behavior remains a serious rival. No certified decoded speech/consent,successful paw,measured level/zero mana,unchanged later high mana,dragon transformation,watched battle or direct private thought. No permanent animal/secondary ceiling; no global absence claim.",
+      "disposition_status": "COHORT36_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working22": "Separate Aqua's ownership/species expectations, Kazuma's interpretation, Vanir's sugar-water and shed-body trick, and actual animal behavior. No monograph or human-like reconstruction earned merely by recurring name or images; final corpus-wide disposition pending.",
       "current_scope_asof_working23": "MAIN01–15 excluded full gates closed. MAIN16 published 870756ef7cfeb3d14f395deac59be65e909ba9a3; all 9,114 remote paths/35 changed streams verified and exact-index author preflight passed. Source/housekeeping/final audit gate remains pending verification in this version. MAIN17 excluded not admitted. Full individual census, earned artifacts, expanded synthesis/versioned models, curation/integration/release continue.",
@@ -3539,7 +3575,41 @@
       "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
       "prior_gap_history_working30": "Retain explicit identity join as a current lead where the creator leaves the chicken unnamed, plus known earlier character evidence. No automatic literal fulfillment of Aqua's wish.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_cohort36_current_fields": {
+        "character": "Zel / Emperor Zel",
+        "identity": "ゼル / 皇帝ゼル; chick/rooster versus Aqua's Shaggy Dragon assertion",
+        "likely_tier": "0–1 bounded nonhuman profile pending",
+        "evidence_distribution": "MAIN08 retained C1 P254-312 and later accepted MAIN15 pet-growth/resource reports. CURRENT WORKING23: MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. I1 P3–12 and IMG021. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
+        "substantive_responsibility": "Observed following/feeding and reactions, contested handler claims and actual effects on others' choices; preserve pet agency at the observed level without importing human motives or verified dragon biology. CURRENT WORKING23: Sleeping on a cast-off Vanir shell, Aqua's insistence on a dragon identity and the depicted bird are distinct evidence types. Previous uncoded nest/egg guesses are expressly withdrawn in current qualifications. CURRENT WORKING24: MAIN17 creator sketch mentions an unusually high-level chicken; final Aqua's hoped-for dragon growth is her belief. Neither equals a directly observed transformation, new egg or certified class/species change. CURRENT WORKING31: MAIN15 pet-directed care, actual potion report/growth, cluck interpretations and coop labor remain separate facts. MAIN16I1 sleeping bird/dragon-confidence account again expresses Aqua appraisal; local attachment is real.",
+        "gaps": "Retain explicit identity join as a current lead where the creator leaves the chicken unnamed, plus known earlier character evidence. No automatic literal fulfillment of Aqua's wish. CURRENT WORKING31 QUALIFICATION: No species/capacity confirmation, future combat role, understood assent from clucks or universal household labor allocation. Do not turn predicted tears/species growth into performed outcomes.",
+        "priority": "Discovery; identity/agency boundary",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort36_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZEL_COHORT36_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT36_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-36-zel-and-the-reported-egg-sale"
+      ],
+      "cohort36_semantic_receiving_sha256": "6ebab4f66a292529e2abfccfebf30a66d8c0f66f12d81f7c79b1423facc45583",
+      "cohort36_scope_assessment": {
+        "row": 59,
+        "subject": "Zel / Emperor Zel",
+        "tier": 1,
+        "artifact": "Compact profile in existing coverage audit",
+        "basis": "A named nonhuman agent with directly narrated resistance to handling,approach to Vanir,quiet holding,pecks,startle-linked reaction,curling/sleep,proximity to Chomusuke,later crowing and growth. These actions and changing care relationships deserve individual treatment.",
+        "Tier2_alternative": "The longitudinal development story is substantial in its effects on the household. However,much explanatory variety consists of other people’s purchase,training,dragon and combat projections. The bird’s discriminating behavior remains a small set of locally observed ordinary responses plus mediated reports; a substantial independently motivated interpretation would mostly repeat these or populate dimensions with unsupported human intentions.",
+        "Tier3_alternative": "Warmth,early attachment,food-seeking,startle and ordinary chick/rooster behavior remain serious generic rivals. Imprinting is Kazuma’s explanation,not an isolated causal test. No differentiated falsifiable individual generator across changed incentives is identified.",
+        "limits": "No permanent animal/secondary ceiling or requirement of verbal interiority. Stronger nonverbal choice evidence could support later depth. Handler dragon beliefs,decoded clucks and future battle promises do not substitute for it."
+      },
+      "cohort36_current_qualifications": "Current bounded profile governs; older fields/partial notes remain dated history under the explicit prefreeze identity precision. Reported speech,animal action,expert testimony,temporal change and inferred identity remain distinct. No new monograph,model,diagnostic,independent result or permanent tier ceiling.",
+      "cohort36_prior_semantic_receiving_before_publication_precision": "f85fa0877a0d8bfaf96ab52e033d9938eec2c8fc11523f039fb5729ff5aa7e51",
+      "cohort36_publication_path_precision": {
+        "file": "COHORT36_PUBLICATION_PATH_PRECISION_01.json",
+        "bytes": 5370,
+        "sha256": "a7c8b5429458996253caf875b3a179a9e56e906fb92882aeb9b8db4d430aa531"
+      }
     },
     {
       "character": "Brad",

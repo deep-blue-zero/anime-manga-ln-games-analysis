@@ -1216,3 +1216,10 @@ Lucy and the individual forest Princess receive separate twelve-dimension monogr
 Three compact profiles cover Maris,Selis and the unnamed P895 correction speaker. One new Tier 1 role record and two Tier 0 sparse role/report/group records append; the prior CONTEXP01 priest receives a route only. Candidate totals: 55 models,49 scoped secondary model subjects,83 compact profiles,27 monograph-only subjects and 332 nonfinal records. Three entering rows change,326 remain exact per plane,and nineteen older plane differences remain distinct. These are not certified disjoint people.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Two compact profiles cover Zel59 and the original unnamed egg seller149. One Tier0 reported marketing-sender role appends at332,without a unique-person count. Candidate totals:55models/49scoped secondary model subjects/85compact profiles/27monograph-only/333nonfinal records. Two entering rows change,330 remain exact per plane; nineteen historical plane differences remain separate. No monograph or reconstruction is added.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

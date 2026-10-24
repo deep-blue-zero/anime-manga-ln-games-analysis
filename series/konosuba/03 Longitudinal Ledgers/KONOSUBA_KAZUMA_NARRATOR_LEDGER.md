@@ -1487,3 +1487,10 @@ Lucy’s personal-history/divine-redress testimony, Megumin’s release claim, h
 MAIN07’s two anecdotes are embedded in Kazuma’s guesses about Eris’s terrestrial identity. DUST05 uses Dust’s focalization,self-serving accounts,direct untagged dialogue and aftermath report. The named Keith episode has two textual accounts of one event; source repetition is not independent eyewitness replication.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Kazuma is outside during the MAIN08 hatch,then hears Aqua/Vanir’s reports and sees the chick. Imprinting,parent recognition,friendship and fraud motives remain his explanations at their actual times. CONTEXP01 feeding is in Megumin’s narration; MAIN16I1 is Aqua’s. The creator’s unnamed high-level chicken is another evidential plane,not a watched personal battle.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

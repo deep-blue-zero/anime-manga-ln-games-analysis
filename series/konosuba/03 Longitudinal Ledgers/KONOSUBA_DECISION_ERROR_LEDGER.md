@@ -2024,3 +2024,10 @@ Kazuma’s inference that device silence proves the Princess harmless exceeds a 
 Eris rejects both of Kazuma’s named identity guesses. That rejection does not erase the reported actors or give access to their private minds. DUST05’s closely corresponding Darkness grievance supports an event link; it does not explicitly name its speaker as Selis. The current P904 religious justification is declared ad hoc, not established church law.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Aqua’s dragon expectations,interpreted clucks and military forecasts remain her appraisals. Kazuma’s imprinting,fraud and memory explanations remain his. Darkness’s claim that his hidden letter is an egg advertisement is contradicted when he opens Iris’s royal letter. It does not become another marketer occurrence.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

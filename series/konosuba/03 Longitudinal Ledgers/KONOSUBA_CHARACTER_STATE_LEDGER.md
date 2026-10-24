@@ -1894,3 +1894,10 @@ Lucy’s accepted release information loosens an explicitly credited benefactor 
 Maris and Selis earn separate compact profiles for consequential reported responses, with Kazuma’s retrospective access retained. The unnamed DUST05 P895 speaker earns a third bounded profile for a directly heard attribution correction and request for further recall. Other current church acts remain unassigned where turn/body mapping is unresolved.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Zel’s own resistance,approach,quiet holding,pecks,sleeping proximity and crowing are retained as animal actions. The transition from early high-mana chick to observed grown bird with reported mana-to-level dosing is time-sensitive. The original seller separately earns a compact profile for Aqua-reported persuasion; later mail senders remain unresolved roles.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

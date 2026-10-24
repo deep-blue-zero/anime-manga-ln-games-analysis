@@ -1561,3 +1561,10 @@ Lucy accepts Megumin’s relevant claim, thanks a helper whose name she does not
 Selis is reported acting alongside Darkness. The present DUST05 speaker’s closely matching recollection is a qualified personal join. The correction speaker, other current church roles and the earlier CONTEXP01 priest may overlap; shared location or occupation proves neither identity nor a disjoint-person split. The earlier profile and its support remain exact.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Zel’s proximity to Chomusuke contributes to Kazuma giving up an eventual eating thought; the causal effect on Kazuma does not supply a bird’s moral rationale. Original egg seller,reported marketing senders,garden-seed seller and other merchants remain unjoined and not certified distinct people. Vanir’s later actual care holding differs from earlier reported leave-care transfers.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
