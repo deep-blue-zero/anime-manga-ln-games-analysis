@@ -1,0 +1,150 @@
+{
+  "schema": "konosuba.cohort28.source-informed-original-first-outputs.v1",
+  "subject": "Alderp",
+  "recorded_utc": "2026-10-24T02:28:03.144756+00:00",
+  "source_known": true,
+  "foundation_seal_sha256": "b27fcc9b148355e223e6e3d68d776713f33f86f8a32f2246eb25ab71f6e67d33",
+  "exact_input_freeze_sha256": "5facf45a31ab075ef7d4c9f1a6ec166f991e247cf26d98a4d09a4dcdc6e5d7bf",
+  "original_body_freeze_sha256": "99c57c0f51bcd1df5f3b6ac67f1670dd62cf949ce9d7ba43fac5c558c4dc6de0",
+  "scenario_inputs_sha256": "dcd6fb1b9280efff24aaa6f0f4c3a26621df30eb9e030acddceb3999b21e42ce",
+  "responses": [
+    {
+      "case_id": "AL-H01-A",
+      "pair_id": "AL-H01",
+      "exact_prompt_sha256": "7a13fbcb92db19571b563facb5b3183f6225997c1a383ff952a187724c4e5acb",
+      "frozen_model_sha256": "9b5cd6ed1b1786373610bdcfc580bd1fd6d70624d37dc0b7cf310574005f7fe0",
+      "original_first_body": "Alderp stops directly in front of the keeper and points at the posted rule. \"You recognize the lord, yet you propose to keep him standing outside? Open it. Your promise can be explained to the other guest afterward.\"\nHe gestures one attendant closer, making the small audience part of the pressure. The reservation seems to him an inconvenience that his recognized office should settle, rather than a competing claim deserving the same attention. He offers no apology to the absent guest. His order is the immediate move; the keeper has not obeyed, and the attendants have acquired no power to force entry merely because he looks at them.\n",
+      "original_first_body_sha256": "583ddd7417ce4a692e6a7c36131695ddce14ff715658c27400cf472ee4627e2e",
+      "original_first_serialization": {
+        "case_id": "AL-H01-A",
+        "body_file": "COHORT28_FIRST_BODY_AL-H01-A_01.txt",
+        "body_bytes": 639,
+        "body_sha256": "583ddd7417ce4a692e6a7c36131695ddce14ff715658c27400cf472ee4627e2e",
+        "receipt_file": "COHORT28_FIRST_BODY_AL-H01-A_01_RECEIPT.json",
+        "receipt_sha256": "7e630bcf4afff652ea790fec6c43230209c41801bfe99387a2c31573db898c29",
+        "global_serialization_number": 1,
+        "actual_first_complete_tool_chunk": "1c8930"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "AL-H01-B",
+      "pair_id": "AL-H01",
+      "exact_prompt_sha256": "0603e06799a64c5a44279afb8c404ff269d932e81f6bdf8a7c05dcd310dcaa2f",
+      "frozen_model_sha256": "9b5cd6ed1b1786373610bdcfc580bd1fd6d70624d37dc0b7cf310574005f7fe0",
+      "original_first_body": "Alderp's finger pauses at the royal officer's name. \"Then bring me someone who can do more than repeat a notice. I have no intention of spending the evening in this corridor.\"\nHe sends an attendant to request the officer's attention, while ostentatiously taking out his purse. \"Perhaps the other guest can be persuaded to alter the arrangement. Ask what compensation would satisfy them.\"\nThe money lets him present obstruction as something purchasable without admitting that his own rank has failed. He remains irritated with the keeper. Neither the request nor the displayed purse changes the reservation yet, and he has obtained no authority to override the separate officer.\n",
+      "original_first_body_sha256": "7035c4f506f88135423b963e4588f5a933a8bb1efdc2f07a81ae5d6865c5cfa6",
+      "original_first_serialization": {
+        "case_id": "AL-H01-B",
+        "body_file": "COHORT28_FIRST_BODY_AL-H01-B_01.txt",
+        "body_bytes": 678,
+        "body_sha256": "7035c4f506f88135423b963e4588f5a933a8bb1efdc2f07a81ae5d6865c5cfa6",
+        "receipt_file": "COHORT28_FIRST_BODY_AL-H01-B_01_RECEIPT.json",
+        "receipt_sha256": "fbe8f9be33412f4ee3f81e7ddaa2f3aa255453d1eb9d2e67f77fd288a13185bb",
+        "global_serialization_number": 2,
+        "actual_first_complete_tool_chunk": "1c8930"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "AL-H02-A",
+      "pair_id": "AL-H02",
+      "exact_prompt_sha256": "42c299427c69af5ba406b3380724ebd40143348ff294e5de925701e147dd2876",
+      "frozen_model_sha256": "9b5cd6ed1b1786373610bdcfc580bd1fd6d70624d37dc0b7cf310574005f7fe0",
+      "original_first_body": "\"The fee? We settled that already, did we not?\" Alderp says, keeping the ledger open at the embarrassing entry. He taps the error before the clerk can dwell on the question. \"This is the part that needs your attention. Have it corrected before anyone important sees it.\"\nHe wants the familiar service without allowing its price to become a fresh obstacle. The clerk's uncertain record seems an opportunity, and he speaks as though confidence can supply the missing payment. He has not produced money or proof. The immediate attempt is to divert the conversation back to the correction; whether the clerk accepts the claim or refuses further work remains unsettled.\n",
+      "original_first_body_sha256": "cf16cf47d78929fe42545fc72a99a891f903e10a77b6da88b4f09e8280c6170c",
+      "original_first_serialization": {
+        "case_id": "AL-H02-A",
+        "body_file": "COHORT28_FIRST_BODY_AL-H02-A_01.txt",
+        "body_bytes": 665,
+        "body_sha256": "cf16cf47d78929fe42545fc72a99a891f903e10a77b6da88b4f09e8280c6170c",
+        "receipt_file": "COHORT28_FIRST_BODY_AL-H02-A_01_RECEIPT.json",
+        "receipt_sha256": "6a1539a9ee6cab2cf4c7571248b7c45f48e14adbe389c169472e66450586b119",
+        "global_serialization_number": 3,
+        "actual_first_complete_tool_chunk": "1c8930"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "AL-H02-B",
+      "pair_id": "AL-H02",
+      "exact_prompt_sha256": "7ae8a6184c1ee7d873ef21f5f681f39a1a5aac36f59914f46ed8fd05f2932266",
+      "frozen_model_sha256": "9b5cd6ed1b1786373610bdcfc580bd1fd6d70624d37dc0b7cf310574005f7fe0",
+      "original_first_body": "Alderp looks at the recorded debt and pushes the ledger back toward the clerk. \"You are remarkably careful about your own account. I expect the same care with mine.\"\nHe cannot simply make the written invoice disappear, so he offers to settle the earlier fee together with the new one after the correction. \"You will receive both. First make this presentable. There is no reason to embarrass us over the order of the business.\"\nThe promised bundle is meant to retain service while postponing actual payment. He has not transferred the money, and the clerk's right to refuse remains troublesome to him. The record changes his tactic without making him generous or reliably truthful.\n",
+      "original_first_body_sha256": "ce968f990fa7fd42ef422775f41dfd157dc46a0eec0d4fe7f795021f446e826e",
+      "original_first_serialization": {
+        "case_id": "AL-H02-B",
+        "body_file": "COHORT28_FIRST_BODY_AL-H02-B_01.txt",
+        "body_bytes": 681,
+        "body_sha256": "ce968f990fa7fd42ef422775f41dfd157dc46a0eec0d4fe7f795021f446e826e",
+        "receipt_file": "COHORT28_FIRST_BODY_AL-H02-B_01_RECEIPT.json",
+        "receipt_sha256": "42730c17d0b8ba557f680aef9534bd41f49f1cf49999b1eb0b7a9a87fa7cc420",
+        "global_serialization_number": 4,
+        "actual_first_complete_tool_chunk": "1c8930"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "AL-H03-A",
+      "pair_id": "AL-H03",
+      "exact_prompt_sha256": "345d4ff430d7988f0577a94d32ecd0a900953c05facf30c1a7191e5fa82850d8",
+      "frozen_model_sha256": "9b5cd6ed1b1786373610bdcfc580bd1fd6d70624d37dc0b7cf310574005f7fe0",
+      "original_first_body": "\"There, you heard him,\" Alderp tells the clerk. \"Prepare the announcement. I shall not look hesitant about an honor that has already been offered to me.\"\nHe draws his own agreement closer and asks the messenger to repeat the news in front of it. The confident arrival feels more useful than the clerk's continued qualification. He would rather turn that impression into a public fact than spend another hour appearing to wait for permission.\nHe begins dictating his acceptance, leaving the authenticated decision unresolved. The commission has not actually been awarded, and the messenger's assurance cannot compel the independent panel. His immediate choice nevertheless stakes his standing on the favorable account.\n",
+      "original_first_body_sha256": "6b2058125f30223f69a825ce3270cec1b45e79f601d7ca24104e03fa358882b8",
+      "original_first_serialization": {
+        "case_id": "AL-H03-A",
+        "body_file": "COHORT28_FIRST_BODY_AL-H03-A_01.txt",
+        "body_bytes": 718,
+        "body_sha256": "6b2058125f30223f69a825ce3270cec1b45e79f601d7ca24104e03fa358882b8",
+        "receipt_file": "COHORT28_FIRST_BODY_AL-H03-A_01_RECEIPT.json",
+        "receipt_sha256": "d876fd50dd0a3ef54d54e49495be4ab2b99d0076817016ffee1125521f96ef40",
+        "global_serialization_number": 5,
+        "actual_first_complete_tool_chunk": "1c8930"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "AL-H03-B",
+      "pair_id": "AL-H03",
+      "exact_prompt_sha256": "178bff726b0605e970dea3a0eb2c59a0b5438ef119ce8e0cb10826b64c050ec6",
+      "frozen_model_sha256": "9b5cd6ed1b1786373610bdcfc580bd1fd6d70624d37dc0b7cf310574005f7fe0",
+      "original_first_body": "Alderp leaves the announcement unsigned. \"A rejection is not an explanation. Who made this decision, and who can hear a request to reconsider?\"\nHe takes the authenticated paper rather than letting the clerk put it away. With both messenger and clerk confirming it, calling the commission his would expose him more plainly than he wants. He turns the conversation toward access to the panel, stressing his public position and the inconvenience this will cause him.\nHe has not accepted the loss gracefully or acquired a right to reversal. His next move is a demand for a usable channel of pressure and appeal, not an announcement that the rejected commission has somehow become his.\n",
+      "original_first_body_sha256": "1526acb10e3fbe10c195f3b05f6027ab7a4b8a4a6cc7bae7edf6a3c324880437",
+      "original_first_serialization": {
+        "case_id": "AL-H03-B",
+        "body_file": "COHORT28_FIRST_BODY_AL-H03-B_01.txt",
+        "body_bytes": 681,
+        "body_sha256": "1526acb10e3fbe10c195f3b05f6027ab7a4b8a4a6cc7bae7edf6a3c324880437",
+        "receipt_file": "COHORT28_FIRST_BODY_AL-H03-B_01_RECEIPT.json",
+        "receipt_sha256": "679770ab82332ec055a921e06530067d9698da1ff9198517de229996b92c7929",
+        "global_serialization_number": 6,
+        "actual_first_complete_tool_chunk": "1c8930"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "original_first_count": 6,
+  "dependent_pair_count": 3,
+  "same_root_designer_responder_assessor": true,
+  "all_prior_and_opposing_cases_visible": true,
+  "external_model_call": false,
+  "independent_judge": false,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}

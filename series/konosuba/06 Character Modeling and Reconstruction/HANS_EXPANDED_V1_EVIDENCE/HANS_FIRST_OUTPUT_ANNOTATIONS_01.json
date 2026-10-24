@@ -1,0 +1,194 @@
+{
+  "schema": "konosuba.cohort27.original-first-receiving-annotations.v1",
+  "recorded_utc": "2026-10-24T00:46:37.287806+00:00",
+  "status": "SOURCE_INFORMED_DIAGNOSTIC_RECEIVING_WITH_RETAINED_DEFECTS",
+  "foundation_seal_sha256": "74cfe2693eb3886705e1479be2bc6ed8aef70601e185fb444a5fcc029c1e6ecf",
+  "exact_input_freeze_sha256": "d997a22963a71ebc18e351044e768efbf04b8a669261b7ac8ab5d021b36eac0e",
+  "body_freeze_sha256": "54ade8bf1521419d21b6d4ebfb05bee3c3d3f37635f9b65543052acfb1a58830",
+  "first_outputs_sha256": "06f244b6fa1699698846237db0901bc3a7c96950fbe28817f63a649a887663b0",
+  "original_first_pins": [
+    {
+      "case_id": "HA-H01-A",
+      "body_file": "COHORT27_FIRST_BODY_HA-H01-A_01.txt",
+      "body_sha256": "94e664cea979da1d5bb392ca6ed281f71abeb143df5397435c2440e1f6909b1f",
+      "receipt_file": "COHORT27_FIRST_BODY_HA-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "3ab404c497468c182d79546cf30dab901497c3f6c76132678b7c0495a41fc605",
+      "bytes": 689,
+      "words_whitespace": 112,
+      "actual_complete_first_delivery_tool_chunk": "8e2aef"
+    },
+    {
+      "case_id": "HA-H01-B",
+      "body_file": "COHORT27_FIRST_BODY_HA-H01-B_01.txt",
+      "body_sha256": "6b2abd034f18e37e64b12c342dde82345f1e862a9f3c0528fff1f19755c2cfa9",
+      "receipt_file": "COHORT27_FIRST_BODY_HA-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "b929ddb8c162c739b4c3c1411bd75e8bcf419033be79a562e2a05f6da8097b21",
+      "bytes": 687,
+      "words_whitespace": 114,
+      "actual_complete_first_delivery_tool_chunk": "8e2aef"
+    },
+    {
+      "case_id": "HA-H02-A",
+      "body_file": "COHORT27_FIRST_BODY_HA-H02-A_01.txt",
+      "body_sha256": "a436a7f1133aad058f9fd5b9f5dce1995013cee15f4dfa7604025213470f7232",
+      "receipt_file": "COHORT27_FIRST_BODY_HA-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "37f911e77bf26f5802c2c4501aabd20e57b0e68973980066c9030682170492cd",
+      "bytes": 731,
+      "words_whitespace": 113,
+      "actual_complete_first_delivery_tool_chunk": "8e2aef"
+    },
+    {
+      "case_id": "HA-H02-B",
+      "body_file": "COHORT27_FIRST_BODY_HA-H02-B_01.txt",
+      "body_sha256": "014fb6d302eadac7402bd348f36a96627c1e7ce53adeb5a7898c2ef289b8a547",
+      "receipt_file": "COHORT27_FIRST_BODY_HA-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "181dcfa91395764f1f91aed7cf83c439360e46d6f4158e84197a84427d48ef76",
+      "bytes": 702,
+      "words_whitespace": 114,
+      "actual_complete_first_delivery_tool_chunk": "8e2aef"
+    },
+    {
+      "case_id": "HA-H03-A",
+      "body_file": "COHORT27_FIRST_BODY_HA-H03-A_01.txt",
+      "body_sha256": "6971d13ca9347992fecb99ed6b0abc241ae863ac442753c7989b815aecb2f2ff",
+      "receipt_file": "COHORT27_FIRST_BODY_HA-H03-A_01_RECEIPT.json",
+      "receipt_sha256": "92cc583a68dad72e0aea1cb70e1874893271425718c7f617b50a3f0640634b24",
+      "bytes": 664,
+      "words_whitespace": 112,
+      "actual_complete_first_delivery_tool_chunk": "8e2aef"
+    },
+    {
+      "case_id": "HA-H03-B",
+      "body_file": "COHORT27_FIRST_BODY_HA-H03-B_01.txt",
+      "body_sha256": "90931ef7bb69c25e7a7a4a4f18913f7e6cd1fcd5f6e4d86fae1f3ae6f0ff675e",
+      "receipt_file": "COHORT27_FIRST_BODY_HA-H03-B_01_RECEIPT.json",
+      "receipt_sha256": "f3d9d3eaa44bd05c072ba69940184aaaa878d17974624dc5556acd05c3957ca3",
+      "bytes": 667,
+      "words_whitespace": 119,
+      "actual_complete_first_delivery_tool_chunk": "8e2aef"
+    }
+  ],
+  "case_annotations": [
+    {
+      "case_id": "HA-H01-A",
+      "observed_first_action_and_speech": "Abandons the retreating witness and approaches the target entry.",
+      "conditional_expression": "Objective over low-value pursuit under HA-R01.",
+      "retained_defects_and_limits": [
+        "Brief satisfaction and superiority are generated private appraisals,not additional facts from the novel.",
+        "Goal relevance is explicit;generic planning explains the choice. No completed corruption or mercy result."
+      ]
+    },
+    {
+      "case_id": "HA-H01-B",
+      "observed_first_action_and_speech": "Tries to intercept the witness at the lever and threatens them without giving an outcome.",
+      "conditional_expression": "Pursuit becomes relevant when it protects objective access under HA-R01.",
+      "retained_defects_and_limits": [
+        "Interception is an attempt,not proof of speed or successful intimidation.",
+        "Strong objective-threat cue does not establish uniquely Hans-like generation or optimal strategic ability."
+      ]
+    },
+    {
+      "case_id": "HA-H02-A",
+      "observed_first_action_and_speech": "Checks his initial appeal against the known exception,seeks a hearing and prepares withdrawal.",
+      "conditional_expression": "Known terms change reliance on a promise under HA-R02.",
+      "retained_defects_and_limits": [
+        "The self-awareness is smoother and more explicit than the source mistake;overcorrection toward an articulate planner remains a live concern.",
+        "The hypothetical explicitly gives knowledge of the exception;it cannot prove source Hans never knew it or always honors terms."
+      ]
+    },
+    {
+      "case_id": "HA-H02-B",
+      "observed_first_action_and_speech": "Invokes the unrestricted promise and asks whether the colleague will maintain it.",
+      "conditional_expression": "Reliance on a convenient protection with uncertainty under HA-R02.",
+      "retained_defects_and_limits": [
+        "No actual colleague decision or legal enforceability established.",
+        "Explicit contract wording can guide almost any generic actor. Harm acknowledgment and moral approval remain distinct."
+      ]
+    },
+    {
+      "case_id": "HA-H03-A",
+      "observed_first_action_and_speech": "Uses the available fragment for a throw and attempts to distract the opponent.",
+      "conditional_expression": "A material route is selected under HA-R03.",
+      "retained_defects_and_limits": [
+        "Launch/travel is narrated as part of the selected action;arrival and distraction success remain unknown. Do not turn this into a completed escape.",
+        "The physical constraint nearly determines availability;typed compliance is not an independent behavioral win."
+      ]
+    },
+    {
+      "case_id": "HA-H03-B",
+      "observed_first_action_and_speech": "Tests restraint and turns to stalling conversation rather than inventing a free fragment.",
+      "conditional_expression": "No-material branch preserves restraint and a remaining social option under HA-R03.",
+      "retained_defects_and_limits": [
+        "The opponent interest is a hope/question,not known hidden motive.",
+        "The ending explains why no bodily route exists in a somewhat audit-like register. Constraint compliance supplies no new capacity or accuracy score."
+      ]
+    }
+  ],
+  "pair_comparisons": [
+    {
+      "pair": "HA-H01",
+      "rule": "HA-R01",
+      "comparison": "Return to objective versus attempted interception of objective-relevant witness.",
+      "receiving": "Narrow source-informed consistency expression only,with retained defects,strong cueing and generic rivals. No binary source-prediction result or independent test.",
+      "not_tested": "Successful sabotage,intimidation,compassion or ability advantage over generic planning."
+    },
+    {
+      "pair": "HA-H02",
+      "rule": "HA-R02",
+      "comparison": "Exception-aware appeal versus appeal to unrestricted wording.",
+      "receiving": "Narrow source-informed consistency expression only,with retained defects,strong cueing and generic rivals. No binary source-prediction result or independent test.",
+      "not_tested": "Actual colleague choice,source knowledge of the original Wiz exception,legal efficacy or independent transfer."
+    },
+    {
+      "pair": "HA-H03",
+      "rule": "HA-R03",
+      "comparison": "Available-fragment attempt versus speech-only stalling under full restraint.",
+      "receiving": "Narrow source-informed consistency expression only,with retained defects,strong cueing and generic rivals. No binary source-prediction result or independent test.",
+      "not_tested": "Successful fragment arrival,freeze failure,biology limits or a separate behavioral-capacity win."
+    }
+  ],
+  "word_budget": {
+    "English_words": [
+      80,
+      140
+    ],
+    "actual_counts": [
+      112,
+      114,
+      113,
+      114,
+      112,
+      119
+    ],
+    "all_within_budget": true,
+    "not_a_fidelity_score": true
+  },
+  "method_limits": [
+    "Same informed root is source reader,model author,prompt designer,responder and assessor;not independent.",
+    "All sources,opposing contrasts and preceding responses were visible.",
+    "Strong cueing,generic planning/negotiation and near-scene resemblance remain live rivals.",
+    "No feedback repair or regeneration;unsupported embellishments and audit-language leakage retained.",
+    "Typed-capacity compliance is not counted as a separate behavioral success.",
+    "Initial three pairs do not complete all nine final-battery categories;no mature final promotion."
+  ],
+  "operating_modes": {
+    "modes_present": [
+      "canonical-serious",
+      "contemporary-transfer: explicitly a nonmagical adult human analogue",
+      "canonical-comic,with restraint and danger retained"
+    ],
+    "no_full_mode_or_nine_category_coverage_claim": true,
+    "unprobed_conditions": [
+      "Final nine-category breadth and independent validation remain uncompleted"
+    ]
+  },
+  "new_actual_source_observations": 0,
+  "new_independent_source_validation_credit": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "designated_evaluator_output_authored": false,
+  "full_program_complete": false
+}

@@ -1,0 +1,194 @@
+{
+  "schema": "konosuba.cohort27.original-first-receiving-annotations.v1",
+  "recorded_utc": "2026-10-24T00:46:37.287806+00:00",
+  "status": "SOURCE_INFORMED_DIAGNOSTIC_RECEIVING_WITH_RETAINED_DEFECTS",
+  "foundation_seal_sha256": "74cfe2693eb3886705e1479be2bc6ed8aef70601e185fb444a5fcc029c1e6ecf",
+  "exact_input_freeze_sha256": "d997a22963a71ebc18e351044e768efbf04b8a669261b7ac8ab5d021b36eac0e",
+  "body_freeze_sha256": "54ade8bf1521419d21b6d4ebfb05bee3c3d3f37635f9b65543052acfb1a58830",
+  "first_outputs_sha256": "ea80ccf4ac1aab404c916c47262d75587fcbb37739e463167d063ca535284d6d",
+  "original_first_pins": [
+    {
+      "case_id": "BE-H01-A",
+      "body_file": "COHORT27_FIRST_BODY_BE-H01-A_01.txt",
+      "body_sha256": "9703372f241d3e3994a1dafbed2d73e4311fbdaa29c7a782231b1ecdfe540a19",
+      "receipt_file": "COHORT27_FIRST_BODY_BE-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "5602e6a982193b0ca266fb41a82575bca921e99b4f1482a18693db68ed5ce5b4",
+      "bytes": 660,
+      "words_whitespace": 111,
+      "actual_complete_first_delivery_tool_chunk": "b8ebd3"
+    },
+    {
+      "case_id": "BE-H01-B",
+      "body_file": "COHORT27_FIRST_BODY_BE-H01-B_01.txt",
+      "body_sha256": "144136900298e868591242d57cd7ab1fec5da432d0169155803b21ef4673657b",
+      "receipt_file": "COHORT27_FIRST_BODY_BE-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "2825a8c6dea88a6fb25ca7f7f4a1be9fd03a9f50187c043bbab742ec190bdad9",
+      "bytes": 717,
+      "words_whitespace": 118,
+      "actual_complete_first_delivery_tool_chunk": "b8ebd3"
+    },
+    {
+      "case_id": "BE-H02-A",
+      "body_file": "COHORT27_FIRST_BODY_BE-H02-A_01.txt",
+      "body_sha256": "7125be9b2824e100025229b8081286761c5007813645bd03939897f77bb16220",
+      "receipt_file": "COHORT27_FIRST_BODY_BE-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "22aa9209c1f63588dc54ce90e99ad5e35e0a0f5252515b22655bf2c2929d9eda",
+      "bytes": 661,
+      "words_whitespace": 113,
+      "actual_complete_first_delivery_tool_chunk": "b8ebd3"
+    },
+    {
+      "case_id": "BE-H02-B",
+      "body_file": "COHORT27_FIRST_BODY_BE-H02-B_01.txt",
+      "body_sha256": "6d55818062a2be2eff78047f3829b842998e24a4158cc88963ee8280e1a4dee2",
+      "receipt_file": "COHORT27_FIRST_BODY_BE-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "497bfea93f379e61fe7f5dd72bd1cea37073ec92ffd493a2b348721d65a8e9a2",
+      "bytes": 693,
+      "words_whitespace": 116,
+      "actual_complete_first_delivery_tool_chunk": "b8ebd3"
+    },
+    {
+      "case_id": "BE-H03-A",
+      "body_file": "COHORT27_FIRST_BODY_BE-H03-A_01.txt",
+      "body_sha256": "c7dfaa3d4ac188aa4baee010ef2a04c65a9121e7afccf5f098e579339359c7dd",
+      "receipt_file": "COHORT27_FIRST_BODY_BE-H03-A_01_RECEIPT.json",
+      "receipt_sha256": "6e5647a8ad17e4e5fda1761bb05c8dbb300d7f3dd6c0e770e175d35d70ec3e5f",
+      "bytes": 695,
+      "words_whitespace": 114,
+      "actual_complete_first_delivery_tool_chunk": "b8ebd3"
+    },
+    {
+      "case_id": "BE-H03-B",
+      "body_file": "COHORT27_FIRST_BODY_BE-H03-B_01.txt",
+      "body_sha256": "410c72f119b7fed1f13ef4e0495be7ae233a403741920d0ebe36014d1e00b9ae",
+      "receipt_file": "COHORT27_FIRST_BODY_BE-H03-B_01_RECEIPT.json",
+      "receipt_sha256": "e693197ca5a29112fbafdce47a4f67125c8cdfe23e1cbcf4e0f2193596def4d0",
+      "bytes": 684,
+      "words_whitespace": 115,
+      "actual_complete_first_delivery_tool_chunk": "b8ebd3"
+    }
+  ],
+  "case_annotations": [
+    {
+      "case_id": "BE-H01-A",
+      "observed_first_action_and_speech": "Keeps guards present,offers limited cessation/repair terms and refuses to treat silence as forgiveness.",
+      "conditional_expression": "Recognized cessation permits a bounded bargain under BE-R01.",
+      "retained_defects_and_limits": [
+        "At their posts invents a specific prior guard deployment not supplied by the prompt. This minor state embellishment is retained.",
+        "The contrast is strongly cued; generic grievance negotiation explains it too. Monitoring/inspection are prospective,not performed."
+      ]
+    },
+    {
+      "case_id": "BE-H01-B",
+      "observed_first_action_and_speech": "Interrupts the mediator,demands an actual stop and orders guards to prepare intervention;adds punitive conditions.",
+      "conditional_expression": "Continued damage alters demand and escalation framing under BE-R01.",
+      "retained_defects_and_limits": [
+        "Without claiming they have already obeyed is narrator audit language rather than natural character appraisal. Task-format leakage is retained.",
+        "No actual guard compliance,town massacre or agreement occurs. It does not validate the scope or ethics of punishment."
+      ]
+    },
+    {
+      "case_id": "BE-H02-A",
+      "observed_first_action_and_speech": "Keeps position,asks priest purpose and regards mild effect dismissively while watching for more.",
+      "conditional_expression": "A relatively confident appraisal is expressed under BE-R02.",
+      "retained_defects_and_limits": [
+        "The explanation that the result reveals no hidden level sounds like an audit paraphrase; distinct Japanese-derived voice is weak.",
+        "A single mild test is a strong generic cue and does not prove complete tactical competence."
+      ]
+    },
+    {
+      "case_id": "BE-H02-B",
+      "observed_first_action_and_speech": "Repositions,checks armor,asks level and delays closing after pain/smoke.",
+      "conditional_expression": "More cautious appraisal is expressed under BE-R02 without narrating defeat.",
+      "retained_defects_and_limits": [
+        "The final sentence explicitly adjudicates what the stagger proves;this is explanatory/audit leakage despite the request for an in-scene action.",
+        "Both branches still ask questions;the behavioral divergence is modest and does not measure a causal threshold."
+      ]
+    },
+    {
+      "case_id": "BE-H03-A",
+      "observed_first_action_and_speech": "Agrees to draw wording and asks for confirmation of immediate key return;no handover is narrated.",
+      "conditional_expression": "Face-saving dependent bargain under BE-R03 in explicitly changed human embodiment.",
+      "retained_defects_and_limits": [
+        "This wording lets him recover can overstate an uncompleted benefit;the later explicit request/conditional language limits but does not erase the ambiguity.",
+        "Generic face-saving bargaining and the supplied material constraint dominate;no literal Beldia transfer validation."
+      ]
+    },
+    {
+      "case_id": "BE-H03-B",
+      "observed_first_action_and_speech": "Rejects humiliating wording and proposes a draw,leaving the final resource/standing choice unresolved.",
+      "conditional_expression": "Status-sensitive counteroffer despite dependence under BE-R03.",
+      "retained_defects_and_limits": [
+        "The response leaves the eventual refusal/acceptance open;do not score an unperformed final choice.",
+        "Human negotiation is a strong rival. No durable fairness,remorse or friendship demonstrated."
+      ]
+    }
+  ],
+  "pair_comparisons": [
+    {
+      "pair": "BE-H01",
+      "rule": "BE-R01",
+      "comparison": "Limited monitored terms versus punitive demand before negotiation.",
+      "receiving": "Narrow source-informed consistency expression only,with retained defects,strong cueing and generic rivals. No binary source-prediction result or independent test.",
+      "not_tested": "Actual later cessation,repaired harm,proportional ethics,no-provocation baseline and eventual violence."
+    },
+    {
+      "pair": "BE-H02",
+      "rule": "BE-R02",
+      "comparison": "Relative confidence versus repositioning and heightened question after stronger observed effect.",
+      "receiving": "Narrow source-informed consistency expression only,with retained defects,strong cueing and generic rivals. No binary source-prediction result or independent test.",
+      "not_tested": "Actual spell/armor mechanism,measured thresholds,next-attack outcome or broad competence."
+    },
+    {
+      "pair": "BE-H03",
+      "rule": "BE-R03",
+      "comparison": "Face-saving acceptance proposal versus replacement of humiliating wording.",
+      "receiving": "Narrow source-informed consistency expression only,with retained defects,strong cueing and generic rivals. No binary source-prediction result or independent test.",
+      "not_tested": "Final handover,remorse,general moral character or validated contemporary transfer."
+    }
+  ],
+  "word_budget": {
+    "English_words": [
+      80,
+      140
+    ],
+    "actual_counts": [
+      111,
+      118,
+      113,
+      116,
+      114,
+      115
+    ],
+    "all_within_budget": true,
+    "not_a_fidelity_score": true
+  },
+  "method_limits": [
+    "Same informed root is source reader,model author,prompt designer,responder and assessor;not independent.",
+    "All sources,opposing contrasts and preceding responses were visible.",
+    "Strong cueing,generic planning/negotiation and near-scene resemblance remain live rivals.",
+    "No feedback repair or regeneration;unsupported embellishments and audit-language leakage retained.",
+    "Typed-capacity compliance is not counted as a separate behavioral success.",
+    "Initial three pairs do not complete all nine final-battery categories;no mature final promotion."
+  ],
+  "operating_modes": {
+    "modes_present": [
+      "canonical-comic,with actual property harm kept legible",
+      "canonical-serious",
+      "contemporary-transfer: explicitly a nonmagical adult human analogue"
+    ],
+    "no_full_mode_or_nine_category_coverage_claim": true,
+    "unprobed_conditions": [
+      "Final nine-category breadth and independent validation remain uncompleted"
+    ]
+  },
+  "new_actual_source_observations": 0,
+  "new_independent_source_validation_credit": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "designated_evaluator_output_authored": false,
+  "full_program_complete": false
+}

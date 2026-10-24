@@ -1,0 +1,2820 @@
+{
+  "schema": "KONOSUBA_COHORT28_NATIVE_PROVENANCE_V1",
+  "status": "ACTUAL_KNOWN_CONTEXTS_RECEIVED_FOUNDATION_REVIEW_PENDING",
+  "recorded_utc": "2026-10-24T02:06:52.346891+00:00",
+  "source_known": true,
+  "actual_native_receiving_sha256": "b6e724af2959c328d41c09c7468bcb7f18eeccae94c67049ffaaee68b56f5752",
+  "routed_context_coverage_sha256": "ad72ccffc2c0c1a6a81ad64e1698c47015fa0b43c5ab948a53de653cd9738038",
+  "retrieval_query_pins": [
+    {
+      "path": "ALDERP_MAXWELL_RAGCRAFT_NAMES_NUMBER_RETRIEVAL_01.json",
+      "sha256": "b45a382efbbe8665d1ade3ee7aec21913b1b739ad5b31fa7bc6f3a396b8ae2b9"
+    },
+    {
+      "path": "COHORT28_IGNIS_AND_BOUNDED_ROLE_NUMBER_RETRIEVAL_01.json",
+      "sha256": "89813268911efd409dd8b728d852d1b2ccb724ebd572c0cc5a8c8bb5b5727434"
+    },
+    {
+      "path": "COHORT28_MAKS_NICKNAME_NUMBER_RETRIEVAL_01.json",
+      "sha256": "8d98159da7c01f6f3af6787863dc05ac93beebbe6f35bee1ead00d2a2fdbffb2"
+    },
+    {
+      "path": "COHORT28_HOUSEHOLD_NAMES_NUMBER_RETRIEVAL_01.json",
+      "sha256": "f1856106944188f4ed97b6d90fe5e36d06688a283fd825b5cf1cd560a97710d2"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "MAIN-03",
+      "native_filename": "Konosuba - Main Series - Volume 03.epub",
+      "native_bytes": 3497582,
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V03_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 106624,
+          "sha256": "8230a7b293c2817e3fedec2727d1657675353abc5692d335036cae6c447ba04b"
+        }
+      ]
+    },
+    {
+      "source_id": "MAIN-06",
+      "native_filename": "Konosuba - Main Series - Volume 06.epub",
+      "native_bytes": 2529639,
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V06_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 115498,
+          "sha256": "856209cc26ab2eaf7d3ed33905e193b2bb8f4f5afb3dd9bbfaef2bdd1549a86d"
+        }
+      ]
+    },
+    {
+      "source_id": "MAIN-07",
+      "native_filename": "Konosuba - Main Series - Volume 07.epub",
+      "native_bytes": 11201415,
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 130552,
+          "sha256": "6a77233cdb2f1b90437b0fa5c6d88001d0e1a7d83e714c6bce662d87ff4faae2"
+        }
+      ]
+    },
+    {
+      "source_id": "MAIN-05",
+      "native_filename": "Konosuba - Main Series - Volume 05.epub",
+      "native_bytes": 14376279,
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V05_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 140315,
+          "sha256": "a8d47cffa2b1a1de2099b9dfbfe8aab328e903a986a173d039b981581468462d"
+        }
+      ]
+    },
+    {
+      "source_id": "MAIN-08",
+      "native_filename": "Konosuba - Main Series - Volume 08.epub",
+      "native_bytes": 2964798,
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V08_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 109026,
+          "sha256": "ee2a658a50019d041a54769ee53b3353f88bdc4bf1632f2203a18564fd7a5b8c"
+        }
+      ]
+    },
+    {
+      "source_id": "MAIN-09",
+      "native_filename": "Konosuba - Main Series - Volume 09.epub",
+      "native_bytes": 3086699,
+      "native_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V09_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 133589,
+          "sha256": "977733b92cb4d8fb7330b1ba6b3fba008edaf9c722adbaea697c56a87b6e0fc6"
+        }
+      ]
+    },
+    {
+      "source_id": "MAIN-12",
+      "native_filename": "Konosuba - Main Series - Volume 12.epub",
+      "native_bytes": 1570295,
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V12_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 114414,
+          "sha256": "1160cd16cc92fdf842ff9b9e3068a300cc4db43fe38b668544d877b26dc2fdf7"
+        }
+      ]
+    },
+    {
+      "source_id": "MAIN-13",
+      "native_filename": "Konosuba - Main Series - Volume 13.epub",
+      "native_bytes": 2779947,
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V13_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 119061,
+          "sha256": "753d6d0540181f4bc766f4ac36211b46227ae8c9f30dd17faa6eb043c186ee8f"
+        }
+      ]
+    },
+    {
+      "source_id": "MAIN-14",
+      "native_filename": "Konosuba - Main Series - Volume 14.epub",
+      "native_bytes": 2839172,
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 120520,
+          "sha256": "67dd17b1d29f61183d6cc6dfbeed68335be3cfdfc58189dcae65a9346fc3285f"
+        }
+      ]
+    },
+    {
+      "source_id": "MAIN-16",
+      "native_filename": "Konosuba - Main Series - Volume 16.epub",
+      "native_bytes": 8530869,
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V16_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 118642,
+          "sha256": "6bc806d44b6f9b4f5c8ffb0e8bcf0e22dda766a3e082a9d76ea276b97880a806"
+        }
+      ]
+    },
+    {
+      "source_id": "MAIN-10",
+      "native_filename": "Konosuba - Main Series - Volume 10.epub",
+      "native_bytes": 1630298,
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V10_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 108536,
+          "sha256": "86271e4cc6e8fa34ed204310f23f7368c99d726f8a04a5316e66b67eba56cf2f"
+        }
+      ]
+    },
+    {
+      "source_id": "DUST-04",
+      "native_filename": "Konosuba Extra - Dust - Volume 04.epub",
+      "native_bytes": 11564184,
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_COMPONENT_REGISTER.json",
+          "bytes": 208000,
+          "sha256": "9e28960e0a4e145affde1fa834936c1ad0bf75257eb9f81b66849b41b2ea88b2"
+        }
+      ]
+    },
+    {
+      "source_id": "MASK",
+      "native_filename": "Konosuba - Spin-off - Consulting the Masked Devil.epub",
+      "native_bytes": 2895671,
+      "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_COMPONENT_REGISTER.json",
+          "bytes": 254296,
+          "sha256": "c7338384c21411ac221ab3f5ad1681c2aebe2408bf87e9d26fac6fa2a6be9349"
+        }
+      ]
+    },
+    {
+      "source_id": "YORI-04",
+      "native_filename": "Konosuba - Short Stories - Yorimichi 4.epub",
+      "native_bytes": 10437818,
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI04_COMPONENT_REGISTER.json",
+          "bytes": 277653,
+          "sha256": "3b3c5ca579e021301b5f0bbf91787481fa8883ee67e96e48acd20b4f3a9563cb"
+        }
+      ]
+    },
+    {
+      "source_id": "DUST-03",
+      "native_filename": "Konosuba Extra - Dust - Volume 03.epub",
+      "native_bytes": 18686443,
+      "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_COMPONENT_REGISTER.json",
+          "bytes": 224504,
+          "sha256": "53b858ed6ac34f17cb61c2e7078b813750fd1295f97ff4b58da4548a3417172a"
+        }
+      ]
+    },
+    {
+      "source_id": "DUST-05",
+      "native_filename": "Konosuba Extra - Dust - Volume 05.epub",
+      "native_bytes": 6713820,
+      "native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V05_COMPONENT_REGISTER.json",
+          "bytes": 213426,
+          "sha256": "359f6cd0409f2d15ee32a07e0e141cf291ebf6319a55a9db1f549247d054de9d"
+        }
+      ]
+    },
+    {
+      "source_id": "CONTEXP-01",
+      "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 01.epub",
+      "native_bytes": 18609246,
+      "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_COMPONENT_REGISTER.json",
+          "bytes": 254488,
+          "sha256": "8c31cb78d30d549864623f781fad193e5457b9b0cad722fe5e1cb45dcf7a3120"
+        }
+      ]
+    },
+    {
+      "source_id": "DUST-CONT",
+      "native_filename": "Konosuba Extra - Dust - Motto Ano Orokamono ni mo Kyakkou wo - Himesama kara no Shoutaijou.epub",
+      "native_bytes": 5588468,
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "current_register_pins": [
+        {
+          "canonical_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_CONT_COMPONENT_REGISTER.json",
+          "bytes": 228065,
+          "sha256": "83413af506b513d7572791dbeff68f799ad1574a70479c03b875c5f5c834cbfe"
+        }
+      ]
+    }
+  ],
+  "members": [
+    {
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_bytes": 264311,
+      "member_sha256": "1728703dabecef366b4c006c34bc25ad5873aaef574bf8c6676466e0e42cb5bd",
+      "member_total_slots": 460,
+      "received_BASE_ranges": [
+        [
+          1,
+          150
+        ],
+        [
+          151,
+          300
+        ],
+        [
+          301,
+          460
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 460,
+        "member_sha256": "1728703dabecef366b4c006c34bc25ad5873aaef574bf8c6676466e0e42cb5bd"
+      }
+    },
+    {
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_bytes": 104005,
+      "member_sha256": "9588683a5cc5aca25e550231ade83445a1e538f46ec2d3cce7c2a0b514cdbc9d",
+      "member_total_slots": 176,
+      "received_BASE_ranges": [
+        [
+          1,
+          176
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C1 / continuation",
+        "paragraph_slots": 176,
+        "member_sha256": "9588683a5cc5aca25e550231ade83445a1e538f46ec2d3cce7c2a0b514cdbc9d"
+      }
+    },
+    {
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_bytes": 398051,
+      "member_sha256": "c890274d91685f7af1bcf9e5d4291540c2fcd196b30906cfe441daace947f64e",
+      "member_total_slots": 680,
+      "received_BASE_ranges": [
+        [
+          1,
+          150
+        ],
+        [
+          151,
+          300
+        ],
+        [
+          301,
+          450
+        ],
+        [
+          451,
+          600
+        ],
+        [
+          601,
+          680
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 680,
+        "member_sha256": "c890274d91685f7af1bcf9e5d4291540c2fcd196b30906cfe441daace947f64e"
+      }
+    },
+    {
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_bytes": 65947,
+      "member_sha256": "c91836e0f07c7e2106ae6e006739525e1efcb8e090bf71963105e65519840334",
+      "member_total_slots": 148,
+      "received_BASE_ranges": [
+        [
+          1,
+          148
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C3 / continuation",
+        "paragraph_slots": 148,
+        "member_sha256": "c91836e0f07c7e2106ae6e006739525e1efcb8e090bf71963105e65519840334"
+      }
+    },
+    {
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_bytes": 94710,
+      "member_sha256": "8483c9a4c5067daf9242472a0a3f34d5889172faf55a2613c5bf820b8f5d3718",
+      "member_total_slots": 180,
+      "received_BASE_ranges": [
+        [
+          1,
+          180
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "Ep_start / start",
+        "paragraph_slots": 180,
+        "member_sha256": "8483c9a4c5067daf9242472a0a3f34d5889172faf55a2613c5bf820b8f5d3718"
+      }
+    },
+    {
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_bytes": 335059,
+      "member_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d",
+      "member_total_slots": 638,
+      "received_BASE_ranges": [
+        [
+          1,
+          100
+        ],
+        [
+          380,
+          480
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C2 / start",
+        "paragraph_slots": 638,
+        "member_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d"
+      }
+    },
+    {
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-012.xhtml",
+      "member_bytes": 435914,
+      "member_sha256": "ac244690fc839022d10c840d5a9c563de5b03ae837bd1aa556654a0660d8fd37",
+      "member_total_slots": 694,
+      "received_BASE_ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C4 / start",
+        "paragraph_slots": 694,
+        "member_sha256": "ac244690fc839022d10c840d5a9c563de5b03ae837bd1aa556654a0660d8fd37"
+      }
+    },
+    {
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_bytes": 374623,
+      "member_sha256": "0091b247031f484548d7ecc8c7364c81cf6f8ea098e3edd108112fccd382c585",
+      "member_total_slots": 640,
+      "received_BASE_ranges": [
+        [
+          371,
+          540
+        ],
+        [
+          541,
+          640
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C2 / start",
+        "paragraph_slots": 640,
+        "member_sha256": "0091b247031f484548d7ecc8c7364c81cf6f8ea098e3edd108112fccd382c585"
+      }
+    },
+    {
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_bytes": 323267,
+      "member_sha256": "609f68d62bd334308e3074b110bd7dcd7bbcd85514695eae1275cfe6b9b36a5c",
+      "member_total_slots": 614,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          320
+        ],
+        [
+          321,
+          480
+        ],
+        [
+          481,
+          614
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 614,
+        "member_sha256": "609f68d62bd334308e3074b110bd7dcd7bbcd85514695eae1275cfe6b9b36a5c"
+      }
+    },
+    {
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_bytes": 365011,
+      "member_sha256": "30e532224ed103494180481b7b2b913413d3a23e61b59b91a94e0fd1dfb43bd5",
+      "member_total_slots": 637,
+      "received_BASE_ranges": [
+        [
+          450,
+          600
+        ],
+        [
+          601,
+          637
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C4 / start",
+        "paragraph_slots": 637,
+        "member_sha256": "30e532224ed103494180481b7b2b913413d3a23e61b59b91a94e0fd1dfb43bd5"
+      }
+    },
+    {
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_bytes": 223683,
+      "member_sha256": "61363480867030a6233ee1975f43afd442ea88adea60e15cbe989e8a5706cd39",
+      "member_total_slots": 431,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C5_start / start",
+        "paragraph_slots": 431,
+        "member_sha256": "61363480867030a6233ee1975f43afd442ea88adea60e15cbe989e8a5706cd39"
+      }
+    },
+    {
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_bytes": 28301,
+      "member_sha256": "631d51eba5bf5660becce50da30e382695e04dbdd26def533cf100df9e8b13da",
+      "member_total_slots": 46,
+      "received_BASE_ranges": [
+        [
+          1,
+          46
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "I / start",
+        "paragraph_slots": 46,
+        "member_sha256": "631d51eba5bf5660becce50da30e382695e04dbdd26def533cf100df9e8b13da"
+      }
+    },
+    {
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_bytes": 92386,
+      "member_sha256": "7869efb68f8d33a674bc285dc26847ecc002edc5c3ed8423900d70ba2dee69d5",
+      "member_total_slots": 488,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          320
+        ],
+        [
+          321,
+          488
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 488,
+        "member_sha256": "7869efb68f8d33a674bc285dc26847ecc002edc5c3ed8423900d70ba2dee69d5"
+      }
+    },
+    {
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_bytes": 74748,
+      "member_sha256": "dc263cd43ea1d5b0016d985a9a7d441b6de48e708edaf38617b05005f9efd469",
+      "member_total_slots": 523,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          320
+        ],
+        [
+          321,
+          480
+        ],
+        [
+          481,
+          523
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 523,
+        "member_sha256": "dc263cd43ea1d5b0016d985a9a7d441b6de48e708edaf38617b05005f9efd469"
+      }
+    },
+    {
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_bytes": 78407,
+      "member_sha256": "657f01c1c3db085cfbb7221e0a26a2a91b2339cbde6dbaba90728e333b04919a",
+      "member_total_slots": 555,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          320
+        ],
+        [
+          321,
+          480
+        ],
+        [
+          481,
+          555
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C4 / start",
+        "paragraph_slots": 555,
+        "member_sha256": "657f01c1c3db085cfbb7221e0a26a2a91b2339cbde6dbaba90728e333b04919a"
+      }
+    },
+    {
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_bytes": 123239,
+      "member_sha256": "bce309b4655b0e751768358bfe354f7c4934edeef7befe7fa5d4d2c7c36423fd",
+      "member_total_slots": 784,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          320
+        ],
+        [
+          321,
+          480
+        ],
+        [
+          481,
+          640
+        ],
+        [
+          641,
+          784
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C5 / start",
+        "paragraph_slots": 784,
+        "member_sha256": "bce309b4655b0e751768358bfe354f7c4934edeef7befe7fa5d4d2c7c36423fd"
+      }
+    },
+    {
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_bytes": 28060,
+      "member_sha256": "2783bde76a1d1520865a83e281207d3fc5863a3d2a36c17549728470c3583571",
+      "member_total_slots": 162,
+      "received_BASE_ranges": [
+        [
+          1,
+          162
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "I / start",
+        "paragraph_slots": 162,
+        "member_sha256": "2783bde76a1d1520865a83e281207d3fc5863a3d2a36c17549728470c3583571"
+      }
+    },
+    {
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_bytes": 25166,
+      "member_sha256": "20ca360822aa445357001c244e025c761874dbd38c77fa268bf467e0e17f8f3b",
+      "member_total_slots": 147,
+      "received_BASE_ranges": [
+        [
+          1,
+          147
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "Ep1 / start",
+        "paragraph_slots": 147,
+        "member_sha256": "20ca360822aa445357001c244e025c761874dbd38c77fa268bf467e0e17f8f3b"
+      }
+    },
+    {
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_bytes": 6773,
+      "member_sha256": "e1b09aeeb72eb264af7ffe8f24833d1df28c793b2a627c269db14230b0fe0398",
+      "member_total_slots": 54,
+      "received_BASE_ranges": [
+        [
+          1,
+          54
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "Ep2 / start",
+        "paragraph_slots": 54,
+        "member_sha256": "e1b09aeeb72eb264af7ffe8f24833d1df28c793b2a627c269db14230b0fe0398"
+      }
+    },
+    {
+      "source_id": "MAIN-05",
+      "member": "item/xhtml/p-020.xhtml",
+      "member_bytes": 65057,
+      "member_sha256": "a7dc8b7f834028a935bc6d8840fb0ded824752bb5d37b4adeb81c72487f1cb9a",
+      "member_total_slots": 96,
+      "received_BASE_ranges": [
+        [
+          1,
+          96
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "Ep / start",
+        "paragraph_slots": 96,
+        "member_sha256": "a7dc8b7f834028a935bc6d8840fb0ded824752bb5d37b4adeb81c72487f1cb9a"
+      }
+    },
+    {
+      "source_id": "MAIN-08",
+      "member": "text/part0010.html",
+      "member_bytes": 84853,
+      "member_sha256": "b73a55a1f83e4398f9ded7d5db30a0d83cd9a89bbeedb00dd3c1ac6a88de9874",
+      "member_total_slots": 452,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 452,
+        "member_sha256": "b73a55a1f83e4398f9ded7d5db30a0d83cd9a89bbeedb00dd3c1ac6a88de9874"
+      }
+    },
+    {
+      "source_id": "MAIN-09",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_bytes": 103066,
+      "member_sha256": "1d602906d9534cf85e45adabcd62bb5bc2193125567195698ce0e9768eebc125",
+      "member_total_slots": 658,
+      "received_BASE_ranges": [
+        [
+          440,
+          570
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C2 / start",
+        "paragraph_slots": 658,
+        "member_sha256": "1d602906d9534cf85e45adabcd62bb5bc2193125567195698ce0e9768eebc125"
+      }
+    },
+    {
+      "source_id": "MAIN-12",
+      "member": "text/part0014.html",
+      "member_bytes": 99114,
+      "member_sha256": "fc3b0d46cdd18a686df87885665e1e3b877384c6aae34285d34a0713cdc58799",
+      "member_total_slots": 582,
+      "received_BASE_ranges": [
+        [
+          270,
+          390
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C5 / start",
+        "paragraph_slots": 582,
+        "member_sha256": "fc3b0d46cdd18a686df87885665e1e3b877384c6aae34285d34a0713cdc58799"
+      }
+    },
+    {
+      "source_id": "MAIN-13",
+      "member": "text/part0011.html",
+      "member_bytes": 98164,
+      "member_sha256": "17688b0c3148fa3c14699e304a546710824204f681fc5f367b43178bc01c56f2",
+      "member_total_slots": 518,
+      "received_BASE_ranges": [
+        [
+          300,
+          410
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C2 / start",
+        "paragraph_slots": 518,
+        "member_sha256": "17688b0c3148fa3c14699e304a546710824204f681fc5f367b43178bc01c56f2"
+      }
+    },
+    {
+      "source_id": "MAIN-14",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "member_bytes": 63290,
+      "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b",
+      "member_total_slots": 404,
+      "received_BASE_ranges": [
+        [
+          1,
+          165
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 404,
+        "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b"
+      }
+    },
+    {
+      "source_id": "MAIN-16",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_bytes": 95427,
+      "member_sha256": "722b44dbe6a27c039dc902c9447e602b9139a12a8a8a03a1fb7492a34da3e991",
+      "member_total_slots": 578,
+      "received_BASE_ranges": [
+        [
+          300,
+          410
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C2 / start",
+        "paragraph_slots": 578,
+        "member_sha256": "722b44dbe6a27c039dc902c9447e602b9139a12a8a8a03a1fb7492a34da3e991"
+      }
+    },
+    {
+      "source_id": "MAIN-10",
+      "member": "text/part0012.html",
+      "member_bytes": 116907,
+      "member_sha256": "e4f5bfc08389098f75ec9b8773b1d03e70066bb827f36b5a167b30aedb6c5098",
+      "member_total_slots": 699,
+      "received_BASE_ranges": [
+        [
+          1,
+          175
+        ],
+        [
+          176,
+          350
+        ],
+        [
+          351,
+          525
+        ],
+        [
+          526,
+          699
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 699,
+        "member_sha256": "e4f5bfc08389098f75ec9b8773b1d03e70066bb827f36b5a167b30aedb6c5098"
+      }
+    },
+    {
+      "source_id": "MAIN-10",
+      "member": "text/part0013.html",
+      "member_bytes": 97022,
+      "member_sha256": "b73250179b088609ca5fc8a0e16b9f8dd8f2df18eadcaeff469eaf5bf4bd95f0",
+      "member_total_slots": 610,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          320
+        ],
+        [
+          321,
+          480
+        ],
+        [
+          481,
+          610
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C4 / start",
+        "paragraph_slots": 610,
+        "member_sha256": "b73250179b088609ca5fc8a0e16b9f8dd8f2df18eadcaeff469eaf5bf4bd95f0"
+      }
+    },
+    {
+      "source_id": "MAIN-10",
+      "member": "text/part0014.html",
+      "member_bytes": 124364,
+      "member_sha256": "ac05d3d4d196b00fe8cf2cee20d9c9e55d580a46bb9a3870aeeb3a53e68e99cd",
+      "member_total_slots": 758,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          320
+        ],
+        [
+          321,
+          480
+        ],
+        [
+          481,
+          640
+        ],
+        [
+          641,
+          758
+        ]
+      ],
+      "accepted_member_contract": {
+        "alias": "C5 / start",
+        "paragraph_slots": 758,
+        "member_sha256": "ac05d3d4d196b00fe8cf2cee20d9c9e55d580a46bb9a3870aeeb3a53e68e99cd"
+      }
+    },
+    {
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_bytes": 169456,
+      "member_sha256": "6901da0f15cce8040bd8298d4b9e913305bc7e6fe6a04a2c0aaa280515f3aff8",
+      "member_total_slots": 1086,
+      "received_BASE_ranges": [
+        [
+          901,
+          1086
+        ]
+      ],
+      "accepted_member_contract": {
+        "component_id": "DUST-04-U012",
+        "member": "item/xhtml/p-004.xhtml",
+        "member_sha256": "6901da0f15cce8040bd8298d4b9e913305bc7e6fe6a04a2c0aaa280515f3aff8",
+        "paragraph_slots": 1086,
+        "scope": "Current accepted supplemental component; bounded BASE context only, no new admission or original ruby/full-source pass"
+      }
+    },
+    {
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_bytes": 75771,
+      "member_sha256": "7750438d70c7202687c9493860d87c3ce02c55582dc69deb4c998dfdd546c1a8",
+      "member_total_slots": 480,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          320
+        ],
+        [
+          321,
+          480
+        ]
+      ],
+      "accepted_member_contract": {
+        "component_id": "DUST-04-U013",
+        "member": "item/xhtml/p-005.xhtml",
+        "member_sha256": "7750438d70c7202687c9493860d87c3ce02c55582dc69deb4c998dfdd546c1a8",
+        "paragraph_slots": 480,
+        "scope": "Current accepted supplemental component; bounded BASE context only, no new admission or original ruby/full-source pass"
+      }
+    },
+    {
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_bytes": 66854,
+      "member_sha256": "5a8c7944f627580addc1995ac3263c27196e51db4dc673c81d69bc772479b92a",
+      "member_total_slots": 441,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          320
+        ],
+        [
+          321,
+          441
+        ]
+      ],
+      "accepted_member_contract": {
+        "component_id": "DUST-04-U014",
+        "member": "item/xhtml/p-006.xhtml",
+        "member_sha256": "5a8c7944f627580addc1995ac3263c27196e51db4dc673c81d69bc772479b92a",
+        "paragraph_slots": 441,
+        "scope": "Current accepted supplemental component; bounded BASE context only, no new admission or original ruby/full-source pass"
+      }
+    },
+    {
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_bytes": 5824,
+      "member_sha256": "11b2803ed4952e5b25a11e84cfefe1f844712f01b5616f0bf1380451464dfa16",
+      "member_total_slots": 24,
+      "received_BASE_ranges": [
+        [
+          1,
+          24
+        ]
+      ],
+      "accepted_member_contract": {
+        "component_id": "DUST-04-U016",
+        "member": "item/xhtml/p-008.xhtml",
+        "member_sha256": "11b2803ed4952e5b25a11e84cfefe1f844712f01b5616f0bf1380451464dfa16",
+        "paragraph_slots": 24,
+        "scope": "Current accepted supplemental component; bounded BASE context only, no new admission or original ruby/full-source pass"
+      }
+    },
+    {
+      "source_id": "MASK",
+      "member": "text/part0013.html",
+      "member_bytes": 101962,
+      "member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+      "member_total_slots": 518,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          320
+        ],
+        [
+          321,
+          518
+        ]
+      ],
+      "accepted_member_contract": {
+        "component_id": "MASK-U015",
+        "member": "text/part0013.html",
+        "member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "paragraph_slots": 518,
+        "scope": "Current accepted supplemental component; bounded BASE context only, no new admission or original ruby/full-source pass"
+      }
+    },
+    {
+      "source_id": "YORI-04",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_bytes": 141436,
+      "member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "member_total_slots": 546,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          320
+        ],
+        [
+          321,
+          480
+        ],
+        [
+          481,
+          546
+        ]
+      ],
+      "accepted_member_contract": {
+        "component_id": "YORI-04-U012",
+        "member": "item/xhtml/p-003.xhtml",
+        "member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+        "paragraph_slots": 546,
+        "scope": "Current accepted supplemental component; bounded BASE context only, no new admission or original ruby/full-source pass"
+      }
+    },
+    {
+      "source_id": "YORI-04",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_bytes": 157308,
+      "member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "member_total_slots": 541,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          320
+        ],
+        [
+          321,
+          480
+        ],
+        [
+          481,
+          541
+        ]
+      ],
+      "accepted_member_contract": {
+        "component_id": "YORI-04-U020",
+        "member": "item/xhtml/p-011.xhtml",
+        "member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+        "paragraph_slots": 541,
+        "scope": "Current accepted supplemental component; bounded BASE context only, no new admission or original ruby/full-source pass"
+      }
+    },
+    {
+      "source_id": "YORI-04",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_bytes": 160187,
+      "member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "member_total_slots": 573,
+      "received_BASE_ranges": [
+        [
+          351,
+          510
+        ]
+      ],
+      "accepted_member_contract": {
+        "component_id": "YORI-04-U016",
+        "member": "item/xhtml/p-007.xhtml",
+        "member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+        "paragraph_slots": 573,
+        "scope": "Current accepted supplemental component; bounded BASE context only, no new admission or original ruby/full-source pass"
+      }
+    },
+    {
+      "source_id": "DUST-03",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_bytes": 121547,
+      "member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "member_total_slots": 813,
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ]
+      ],
+      "accepted_member_contract": {
+        "component_id": "DUST-03-U011",
+        "member": "item/xhtml/p-003.xhtml",
+        "member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+        "paragraph_slots": 813,
+        "scope": "Current accepted supplemental component; bounded BASE context only, no new admission or original ruby/full-source pass"
+      }
+    },
+    {
+      "source_id": "DUST-03",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_bytes": 141944,
+      "member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "member_total_slots": 913,
+      "received_BASE_ranges": [
+        [
+          1,
+          150
+        ]
+      ],
+      "accepted_member_contract": {
+        "component_id": "DUST-03-U013",
+        "member": "item/xhtml/p-005.xhtml",
+        "member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+        "paragraph_slots": 913,
+        "scope": "Current accepted supplemental component; bounded BASE context only, no new admission or original ruby/full-source pass"
+      }
+    },
+    {
+      "source_id": "DUST-05",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_bytes": 100010,
+      "member_sha256": "58e011cc5bf1cfa62c029c94524c948c18b5681d293d9d9880ce14e79962b5f3",
+      "member_total_slots": 637,
+      "received_BASE_ranges": [
+        [
+          421,
+          551
+        ]
+      ],
+      "accepted_member_contract": {
+        "component_id": "DUST-05-U010",
+        "member": "item/xhtml/p-002.xhtml",
+        "member_sha256": "58e011cc5bf1cfa62c029c94524c948c18b5681d293d9d9880ce14e79962b5f3",
+        "paragraph_slots": 637,
+        "scope": "Current accepted supplemental component; bounded BASE context only, no new admission or original ruby/full-source pass"
+      }
+    },
+    {
+      "source_id": "CONTEXP-01",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_bytes": 236019,
+      "member_sha256": "174287af567091af4894d78d7c54c16cd2be5b3f1cceb4880a26404132000892",
+      "member_total_slots": 540,
+      "received_BASE_ranges": [
+        [
+          351,
+          480
+        ]
+      ],
+      "accepted_member_contract": {
+        "component_id": "CONTEXP-01-U019",
+        "member": "item/xhtml/p-010.xhtml",
+        "member_sha256": "174287af567091af4894d78d7c54c16cd2be5b3f1cceb4880a26404132000892",
+        "paragraph_slots": 540,
+        "scope": "Current accepted supplemental component; bounded BASE context only, no new admission or original ruby/full-source pass"
+      }
+    },
+    {
+      "source_id": "CONTEXP-01",
+      "member": "item/xhtml/p-012.xhtml",
+      "member_bytes": 231691,
+      "member_sha256": "90ae71a4de71b2602aeca99fbaf6a6a458ef0b559a2e91b5cfb77a8bdf008b50",
+      "member_total_slots": 518,
+      "received_BASE_ranges": [
+        [
+          111,
+          280
+        ]
+      ],
+      "accepted_member_contract": {
+        "component_id": "CONTEXP-01-U021",
+        "member": "item/xhtml/p-012.xhtml",
+        "member_sha256": "90ae71a4de71b2602aeca99fbaf6a6a458ef0b559a2e91b5cfb77a8bdf008b50",
+        "paragraph_slots": 518,
+        "scope": "Current accepted supplemental component; bounded BASE context only, no new admission or original ruby/full-source pass"
+      }
+    },
+    {
+      "source_id": "DUST-CONT",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_bytes": 141443,
+      "member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+      "member_total_slots": 510,
+      "received_BASE_ranges": [
+        [
+          91,
+          210
+        ]
+      ],
+      "accepted_member_contract": {
+        "component_id": "DUST-CONT-U012",
+        "member": "item/xhtml/p-004.xhtml",
+        "member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+        "paragraph_slots": 510,
+        "scope": "Current accepted supplemental component; bounded BASE context only, no new admission or original ruby/full-source pass"
+      }
+    }
+  ],
+  "actual_received_windows": [
+    {
+      "file": "C28_MAIN03_U004_P001_150_FIRST_DELIVERY_01.txt",
+      "bytes": 18704,
+      "sha256": "e5819ab7118fd86091328ae56d6c9e618a673aee0791a6b2bcf5430833c9ffc9",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-004.xhtml",
+      "BASE_range": [
+        1,
+        150
+      ],
+      "actual_complete_delivery_tool_chunk": "3e128e",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc"
+    },
+    {
+      "file": "C28_MAIN03_U004_P151_300_FIRST_DELIVERY_01.txt",
+      "bytes": 17395,
+      "sha256": "afd9cce7a17514c7482f9e7ae3ccbf4b5675b9fee002d13f4a739c32ff25f566",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-004.xhtml",
+      "BASE_range": [
+        151,
+        300
+      ],
+      "actual_complete_delivery_tool_chunk": "257fc9",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc"
+    },
+    {
+      "file": "C28_MAIN03_U004_P301_460_FIRST_DELIVERY_01.txt",
+      "bytes": 20731,
+      "sha256": "02f4cbb8d2f0dc4ca9f72fc86a455bd7e2e3c5457337ff3d394bd56b16f85dec",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-004.xhtml",
+      "BASE_range": [
+        301,
+        460
+      ],
+      "actual_complete_delivery_tool_chunk": "13a989",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc"
+    },
+    {
+      "file": "C28_MAIN03_U006_P001_176_FIRST_DELIVERY_01.txt",
+      "bytes": 22633,
+      "sha256": "771f4a82d1612f82f37fc95d5b720a80b21da304db51062dacb44e1b99ec4f5a",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-006.xhtml",
+      "BASE_range": [
+        1,
+        176
+      ],
+      "actual_complete_delivery_tool_chunk": "91cd18",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc"
+    },
+    {
+      "file": "C28_MAIN03_U008_P001_150_FIRST_DELIVERY_01.txt",
+      "bytes": 22017,
+      "sha256": "1fbddfc16f5becb87c0730ed05f0f776c2a000394b34c2d3be58108f1ae74bc7",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-008.xhtml",
+      "BASE_range": [
+        1,
+        150
+      ],
+      "actual_complete_delivery_tool_chunk": "96e916",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc"
+    },
+    {
+      "file": "C28_MAIN03_U008_P151_300_FIRST_DELIVERY_01.txt",
+      "bytes": 17144,
+      "sha256": "ac9a121ce89cf590be9bef6e2429e7166ab74a542cded811ad1c2cafcca55796",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-008.xhtml",
+      "BASE_range": [
+        151,
+        300
+      ],
+      "actual_complete_delivery_tool_chunk": "1400c7",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc"
+    },
+    {
+      "file": "C28_MAIN03_U008_P301_450_FIRST_DELIVERY_01.txt",
+      "bytes": 22083,
+      "sha256": "e8a8b7a2d31873bde871e8ab9d2ac7ffc53afd864bcb92026e228ce5ee9e4383",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-008.xhtml",
+      "BASE_range": [
+        301,
+        450
+      ],
+      "actual_complete_delivery_tool_chunk": "374699",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc"
+    },
+    {
+      "file": "C28_MAIN03_U008_P451_600_FIRST_DELIVERY_01.txt",
+      "bytes": 17309,
+      "sha256": "a3f9f4a00815ef43e09406195949c67bf7e1a7c9eba887f5b6a53126682501ae",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-008.xhtml",
+      "BASE_range": [
+        451,
+        600
+      ],
+      "actual_complete_delivery_tool_chunk": "5e286c",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc"
+    },
+    {
+      "file": "C28_MAIN03_U008_P601_680_FIRST_DELIVERY_01.txt",
+      "bytes": 9583,
+      "sha256": "90f517cf8396e1ce05155732df6d749b3289e5a7ae0179e4fd7855497035dba8",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-008.xhtml",
+      "BASE_range": [
+        601,
+        680
+      ],
+      "actual_complete_delivery_tool_chunk": "16f2a2",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc"
+    },
+    {
+      "file": "C28_MAIN03_U011_P001_148_FIRST_DELIVERY_01.txt",
+      "bytes": 16070,
+      "sha256": "cc9cddf284803cb0ee7bfcf7395658eeaa3456e97a810e7b56869886443c2a96",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-011.xhtml",
+      "BASE_range": [
+        1,
+        148
+      ],
+      "actual_complete_delivery_tool_chunk": "e16110",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc"
+    },
+    {
+      "file": "C28_MAIN03_U013_P001_180_FIRST_DELIVERY_01.txt",
+      "bytes": 19824,
+      "sha256": "d1edb26b20e094d18ce9e85919d3a1b7a4c309b959c843a3d7ba64623df95482",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-013.xhtml",
+      "BASE_range": [
+        1,
+        180
+      ],
+      "actual_complete_delivery_tool_chunk": "045a9d",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc"
+    },
+    {
+      "file": "C28_MAIN03_U007_P001_100_FIRST_DELIVERY_01.txt",
+      "bytes": 11114,
+      "sha256": "4edfff318d8aef7c3d1c2ea3c6c6ce5e5f98e0b1a84c3c3eb4fbed1d22c37b76",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-007.xhtml",
+      "BASE_range": [
+        1,
+        100
+      ],
+      "actual_complete_delivery_tool_chunk": "d2b543",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc"
+    },
+    {
+      "file": "C28_MAIN03_U007_P380_480_FIRST_DELIVERY_01.txt",
+      "bytes": 12497,
+      "sha256": "adb284c7876587b1a092d7651c187f291b0e41cdc3c4d72ec73ede4544cb53f2",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-007.xhtml",
+      "BASE_range": [
+        380,
+        480
+      ],
+      "actual_complete_delivery_tool_chunk": "b9d034",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc"
+    },
+    {
+      "file": "C28_MAIN03_U012_P001_100_FIRST_DELIVERY_01.txt",
+      "bytes": 12046,
+      "sha256": "5a88dfd0caf83645a0e397512aa3e2d7613fccad6e1fe6bf1df75b081ed73520",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-012.xhtml",
+      "BASE_range": [
+        1,
+        100
+      ],
+      "actual_complete_delivery_tool_chunk": "c4dbb4",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc"
+    },
+    {
+      "file": "C28_MAIN06_U004_P371_540_FIRST_DELIVERY_01.txt",
+      "bytes": 24386,
+      "sha256": "73b3c9230ce44b40f97d6fde258b25216b7744054115a4abe732732bdee011cb",
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "BASE_range": [
+        371,
+        540
+      ],
+      "actual_complete_delivery_tool_chunk": "3e7c65"
+    },
+    {
+      "file": "C28_MAIN06_U004_P541_640_FIRST_DELIVERY_01.txt",
+      "bytes": 12817,
+      "sha256": "b93d81f88d737ed11a0d07ef96dd57fdfcc81e90b9208bf0be831e27a3dce0ec",
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "BASE_range": [
+        541,
+        640
+      ],
+      "actual_complete_delivery_tool_chunk": "5b2b4b"
+    },
+    {
+      "file": "C28_MAIN06_U005_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 19538,
+      "sha256": "1dc4a79c5f762c9496a48c8569c61df14824adacbc823e63165314ea45c24d14",
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "e928c4"
+    },
+    {
+      "file": "C28_MAIN06_U005_P161_320_FIRST_DELIVERY_01.txt",
+      "bytes": 16597,
+      "sha256": "2810cfd7df8f07bc94540a7b370290dbddcb8d9265f5048097313f805ccf1581",
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "BASE_range": [
+        161,
+        320
+      ],
+      "actual_complete_delivery_tool_chunk": "cbe094"
+    },
+    {
+      "file": "C28_MAIN06_U005_P321_480_FIRST_DELIVERY_01.txt",
+      "bytes": 17469,
+      "sha256": "376ad2f6e10d98cf40390cf4750606e6bfce44d27840ea70f5a4952fcfb6bec0",
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "BASE_range": [
+        321,
+        480
+      ],
+      "actual_complete_delivery_tool_chunk": "15d172"
+    },
+    {
+      "file": "C28_MAIN06_U005_P481_614_FIRST_DELIVERY_01.txt",
+      "bytes": 16726,
+      "sha256": "5b75ee993853b0569dbc51165624a9b2fce469656bb4b2f8be42272dd4e536ad",
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "BASE_range": [
+        481,
+        614
+      ],
+      "actual_complete_delivery_tool_chunk": "689357"
+    },
+    {
+      "file": "C28_MAIN06_U006_P450_600_FIRST_DELIVERY_01.txt",
+      "bytes": 21132,
+      "sha256": "ec4900ac9b56699785420e94d909da1bfb0d9ea408c706266c3c9adc0ca75313",
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "BASE_range": [
+        450,
+        600
+      ],
+      "actual_complete_delivery_tool_chunk": "0a67b3"
+    },
+    {
+      "file": "C28_MAIN06_U006_P601_637_FIRST_DELIVERY_01.txt",
+      "bytes": 4612,
+      "sha256": "baf0072ebe03fcd68250229cef710fc108e95c35df893a5e0722af91c66c714d",
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "BASE_range": [
+        601,
+        637
+      ],
+      "actual_complete_delivery_tool_chunk": "750748"
+    },
+    {
+      "file": "C28_MAIN06_U007_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 16752,
+      "sha256": "f08bb31abc91c026bcf13ff10fe5b408d8c46009aa136773cc5ef12ed9289274",
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "3e1a9f"
+    },
+    {
+      "file": "C28_MAIN06_U011_P001_046_FIRST_DELIVERY_01.txt",
+      "bytes": 5540,
+      "sha256": "0ce3d96b611de6faf5e9159417fd2fdfb7ee6d341585037d7e6e1d8e359fd871",
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-011.xhtml",
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "BASE_range": [
+        1,
+        46
+      ],
+      "actual_complete_delivery_tool_chunk": "9d520c"
+    },
+    {
+      "file": "C28_MAIN07_U003_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 22602,
+      "sha256": "a06e89c213cfd5ac4b40dddc785d5f4767a392ff3704e47cd536d984c3579c36",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "545860"
+    },
+    {
+      "file": "C28_MAIN07_U003_P161_320_FIRST_DELIVERY_01.txt",
+      "bytes": 22954,
+      "sha256": "b3054afe444412f154db10e9183e005f58673c7f66c9bfcbae731f72a3105aaa",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        161,
+        320
+      ],
+      "actual_complete_delivery_tool_chunk": "442294"
+    },
+    {
+      "file": "C28_MAIN07_U003_P321_488_FIRST_DELIVERY_01.txt",
+      "bytes": 25559,
+      "sha256": "695055daffacc25d3e58b6b623df361f6015d3bcc79df1079be4145551109308",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        321,
+        488
+      ],
+      "actual_complete_delivery_tool_chunk": "833f76"
+    },
+    {
+      "file": "C28_MAIN07_U005_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 18300,
+      "sha256": "d8dde9d2f4dc69dd6e827af4d0804520c79baa74a36d732f0d65e94a9082fd46",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "2e505b"
+    },
+    {
+      "file": "C28_MAIN07_U005_P161_320_FIRST_DELIVERY_01.txt",
+      "bytes": 18644,
+      "sha256": "038867fcab519d43ed44e2f5995571bb984b27932136319767a2c3688e36a64b",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        161,
+        320
+      ],
+      "actual_complete_delivery_tool_chunk": "d2bafb"
+    },
+    {
+      "file": "C28_MAIN07_U005_P321_480_FIRST_DELIVERY_01.txt",
+      "bytes": 17308,
+      "sha256": "a020ff24a7f8b3e5d0e9c02e96e8003a1c9e080a4817db24389291a8220864ee",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        321,
+        480
+      ],
+      "actual_complete_delivery_tool_chunk": "292426"
+    },
+    {
+      "file": "C28_MAIN07_U005_P481_523_FIRST_DELIVERY_01.txt",
+      "bytes": 5285,
+      "sha256": "e6c3bb3fcbdebad82e6a2e0b0c5c4a50d01d3dd63a512ac2da3573f448b5a41e",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        481,
+        523
+      ],
+      "actual_complete_delivery_tool_chunk": "9441f6"
+    },
+    {
+      "file": "C28_MAIN07_U006_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 17459,
+      "sha256": "01fbb0218d615b9abfb3ae8ac5563eaa58bb32ed5830c9fda42121a460c43344",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "d4cf36"
+    },
+    {
+      "file": "C28_MAIN07_U006_P161_320_FIRST_DELIVERY_01.txt",
+      "bytes": 17794,
+      "sha256": "3f07dbdf0bd5a084447d288fb743af312bd65f5a87953e3740a4fabbd801d8ba",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        161,
+        320
+      ],
+      "actual_complete_delivery_tool_chunk": "b47044"
+    },
+    {
+      "file": "C28_MAIN07_U006_P321_480_FIRST_DELIVERY_01.txt",
+      "bytes": 16647,
+      "sha256": "308ef2af3425b14932fbae898997c4fa93a570ddf6d51627404c2ceb1046e496",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        321,
+        480
+      ],
+      "actual_complete_delivery_tool_chunk": "f3b396"
+    },
+    {
+      "file": "C28_MAIN07_U006_P481_555_FIRST_DELIVERY_01.txt",
+      "bytes": 9731,
+      "sha256": "43cea14e0c1bf5a0931078dd90eb2b504d25c700badf1bbd19ab66f0536dae4b",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        481,
+        555
+      ],
+      "actual_complete_delivery_tool_chunk": "4212ac"
+    },
+    {
+      "file": "C28_MAIN07_U007_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 18044,
+      "sha256": "accd55da2f614f7c64a335db3fb7eda01a273df1e22653bad73827776163ba89",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "64a09a"
+    },
+    {
+      "file": "C28_MAIN07_U007_P161_320_FIRST_DELIVERY_01.txt",
+      "bytes": 21582,
+      "sha256": "776bceb88c03486462b6cf31b7867bc829e2c8f635d966421e9c490ffd9b7d09",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        161,
+        320
+      ],
+      "actual_complete_delivery_tool_chunk": "092d28"
+    },
+    {
+      "file": "C28_MAIN07_U007_P321_480_FIRST_DELIVERY_01.txt",
+      "bytes": 18947,
+      "sha256": "d52a1566afd7d86299e0f69770a42b42bfbc75727ab64507fee7a88b6e691691",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        321,
+        480
+      ],
+      "actual_complete_delivery_tool_chunk": "65c8cc"
+    },
+    {
+      "file": "C28_MAIN07_U007_P481_640_FIRST_DELIVERY_01.txt",
+      "bytes": 21053,
+      "sha256": "ecf363acce20a85d9ea9f592798095593f8ac797f9cc8180b9b25c3a190d2c51",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        481,
+        640
+      ],
+      "actual_complete_delivery_tool_chunk": "0a9e12"
+    },
+    {
+      "file": "C28_MAIN07_U007_P641_784_FIRST_DELIVERY_01.txt",
+      "bytes": 13922,
+      "sha256": "ee89b2e56d9a5fe61b81a83d36e52ebb19fd0283cb5e86be858fd8e1d805484a",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        641,
+        784
+      ],
+      "actual_complete_delivery_tool_chunk": "906745"
+    },
+    {
+      "file": "C28_MAIN07_U008_P001_162_FIRST_DELIVERY_01.txt",
+      "bytes": 21270,
+      "sha256": "9264ff6c5f9f5f64b529dee64c2f00ec4ef4085cf1b9a5298def921a2ca960e6",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-008.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        1,
+        162
+      ],
+      "actual_complete_delivery_tool_chunk": "ba6b03"
+    },
+    {
+      "file": "C28_MAIN07_U009_P001_147_FIRST_DELIVERY_01.txt",
+      "bytes": 19268,
+      "sha256": "04335610c1683b68a4e9afc03a58cdb6c95d23334444f8c5ddbf08147e72260e",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-009.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        1,
+        147
+      ],
+      "actual_complete_delivery_tool_chunk": "9ea13a"
+    },
+    {
+      "file": "C28_MAIN07_U010_P001_054_FIRST_DELIVERY_01.txt",
+      "bytes": 5207,
+      "sha256": "b675217a117b3af3ba6ac01da06ec41ab0ccd00117f07e2759a00ff5c3ebdeb3",
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-010.xhtml",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "BASE_range": [
+        1,
+        54
+      ],
+      "actual_complete_delivery_tool_chunk": "130871"
+    },
+    {
+      "file": "C28_MAIN05_U020_P001_096_FIRST_DELIVERY_01.txt",
+      "bytes": 12616,
+      "sha256": "32953ca61a442c8500df8fb33f86a32a2ee6d3870c1d4644ff0306c20ba79ca0",
+      "source_id": "MAIN-05",
+      "member": "item/xhtml/p-020.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "BASE_range": [
+        1,
+        96
+      ],
+      "actual_complete_delivery_tool_chunk": "dec143"
+    },
+    {
+      "file": "C28_MAIN08_U010_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 22339,
+      "sha256": "2ddfd30faa37ba8205b1bc0e59946234dbf6f23e0d96864e2e7232bfda3b3ba6",
+      "source_id": "MAIN-08",
+      "member": "text/part0010.html",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "eb19aa"
+    },
+    {
+      "file": "C28_MAIN09_U011_P440_570_FIRST_DELIVERY_01.txt",
+      "bytes": 15542,
+      "sha256": "aa7f1713feb9e4e190f4c69b5ee846d4f95c45d3c6e6a0eb58642186f7c55241",
+      "source_id": "MAIN-09",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "native_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+      "BASE_range": [
+        440,
+        570
+      ],
+      "actual_complete_delivery_tool_chunk": "d4fe48"
+    },
+    {
+      "file": "C28_MAIN12_U014_P270_390_FIRST_DELIVERY_01.txt",
+      "bytes": 15969,
+      "sha256": "70cdefd4fdb7b0246b01ad10af45e478b37c60cbc281a4ce6e27cd17be9a660d",
+      "source_id": "MAIN-12",
+      "member": "text/part0014.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "BASE_range": [
+        270,
+        390
+      ],
+      "actual_complete_delivery_tool_chunk": "f24720"
+    },
+    {
+      "file": "C28_MAIN13_U011_P300_410_FIRST_DELIVERY_01.txt",
+      "bytes": 13392,
+      "sha256": "693778cd010aa58561e654150b3c25ac4e36d9bea5332f56894d3f7d69c3b37c",
+      "source_id": "MAIN-13",
+      "member": "text/part0011.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "BASE_range": [
+        300,
+        410
+      ],
+      "actual_complete_delivery_tool_chunk": "93896c"
+    },
+    {
+      "file": "C28_MAIN14_U012_P001_165_FIRST_DELIVERY_01.txt",
+      "bytes": 20029,
+      "sha256": "a036b588c3d4052ca192691aa819aba6c472a0e56dbf54bdf7c9902f14799d9e",
+      "source_id": "MAIN-14",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "BASE_range": [
+        1,
+        165
+      ],
+      "actual_complete_delivery_tool_chunk": "2cdda2"
+    },
+    {
+      "file": "C28_MAIN16_U004_P300_410_FIRST_DELIVERY_01.txt",
+      "bytes": 16575,
+      "sha256": "3cd5b944f01c21416bc645576b84cc6f02e93268f374aca79560cecaf37f6e48",
+      "source_id": "MAIN-16",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "BASE_range": [
+        300,
+        410
+      ],
+      "actual_complete_delivery_tool_chunk": "477906"
+    },
+    {
+      "file": "C28_MAIN10_U012_P001_175_FIRST_DELIVERY_01.txt",
+      "bytes": 19370,
+      "sha256": "b02b544639b58e5000ffed4a97d326b88f492cef11225567de045137569e8d6e",
+      "source_id": "MAIN-10",
+      "member": "text/part0012.html",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "BASE_range": [
+        1,
+        175
+      ],
+      "actual_complete_delivery_tool_chunk": "ed58d2"
+    },
+    {
+      "file": "C28_MAIN10_U012_P176_350_FIRST_DELIVERY_01.txt",
+      "bytes": 20044,
+      "sha256": "cc53d4bad4d18759a6b3c82d6c3c302350b5fd9a9a556b4038ce19b166d95026",
+      "source_id": "MAIN-10",
+      "member": "text/part0012.html",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "BASE_range": [
+        176,
+        350
+      ],
+      "actual_complete_delivery_tool_chunk": "d1e96d"
+    },
+    {
+      "file": "C28_MAIN10_U012_P351_525_FIRST_DELIVERY_01.txt",
+      "bytes": 23837,
+      "sha256": "50cf74b607e56ffeff614d2066163ddf52f124f10648fbefc71f06cc2bfb213e",
+      "source_id": "MAIN-10",
+      "member": "text/part0012.html",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "BASE_range": [
+        351,
+        525
+      ],
+      "actual_complete_delivery_tool_chunk": "b2cce8"
+    },
+    {
+      "file": "C28_MAIN10_U012_P526_699_FIRST_DELIVERY_01.txt",
+      "bytes": 20479,
+      "sha256": "315367c69d5cbe8974dd8dbd4e3d41b38e1c1556bca207fa2b07da3d58db343d",
+      "source_id": "MAIN-10",
+      "member": "text/part0012.html",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "BASE_range": [
+        526,
+        699
+      ],
+      "actual_complete_delivery_tool_chunk": "9fc181"
+    },
+    {
+      "file": "C28_MAIN10_U013_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 16069,
+      "sha256": "575bf5fb32da73041a48a8acf796ba39f82b13c7ebb173e9f0ad4c1460b53898",
+      "source_id": "MAIN-10",
+      "member": "text/part0013.html",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "09a44e"
+    },
+    {
+      "file": "C28_MAIN10_U013_P161_320_FIRST_DELIVERY_01.txt",
+      "bytes": 19259,
+      "sha256": "4dd559ae3de42e7dbc5be43123fd9ceecf9d0b56c5b3b8d38f81bdbff9b4af2e",
+      "source_id": "MAIN-10",
+      "member": "text/part0013.html",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "BASE_range": [
+        161,
+        320
+      ],
+      "actual_complete_delivery_tool_chunk": "cb262d"
+    },
+    {
+      "file": "C28_MAIN10_U013_P321_480_FIRST_DELIVERY_01.txt",
+      "bytes": 18902,
+      "sha256": "14b9980026fd6ceb9bc61fc2f18b17e0f6dc52a7c25c35dfa800ad572f888806",
+      "source_id": "MAIN-10",
+      "member": "text/part0013.html",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "BASE_range": [
+        321,
+        480
+      ],
+      "actual_complete_delivery_tool_chunk": "6d68f4"
+    },
+    {
+      "file": "C28_MAIN10_U013_P481_610_FIRST_DELIVERY_01.txt",
+      "bytes": 14851,
+      "sha256": "43fe697fb94590933818496a3a94c6be84ece24aa9abd1b4f24fc312a43e6b75",
+      "source_id": "MAIN-10",
+      "member": "text/part0013.html",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "BASE_range": [
+        481,
+        610
+      ],
+      "actual_complete_delivery_tool_chunk": "ad722d"
+    },
+    {
+      "file": "C28_MAIN10_U014_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 20300,
+      "sha256": "42c04ec59825139e743439db0b79da66ccbe770f5ee7d9d07502f9204b7ac21c",
+      "source_id": "MAIN-10",
+      "member": "text/part0014.html",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "7166e8"
+    },
+    {
+      "file": "C28_MAIN10_U014_P161_320_FIRST_DELIVERY_01.txt",
+      "bytes": 17961,
+      "sha256": "8f8e2f713600b5bba62c72e6d47c76a57f8ba5c7e0cc4fc06fff0af9bb009397",
+      "source_id": "MAIN-10",
+      "member": "text/part0014.html",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "BASE_range": [
+        161,
+        320
+      ],
+      "actual_complete_delivery_tool_chunk": "713417"
+    },
+    {
+      "file": "C28_MAIN10_U014_P321_480_FIRST_DELIVERY_01.txt",
+      "bytes": 18139,
+      "sha256": "ffa23198df05beae372bd4fdb060eae900a8ba32e2c81504eb388bb693e5f9ba",
+      "source_id": "MAIN-10",
+      "member": "text/part0014.html",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "BASE_range": [
+        321,
+        480
+      ],
+      "actual_complete_delivery_tool_chunk": "6a42f7"
+    },
+    {
+      "file": "C28_MAIN10_U014_P481_640_FIRST_DELIVERY_01.txt",
+      "bytes": 18221,
+      "sha256": "c6704a091c60053bc1d79126f90f03e377c083cee56dd329565b042916b0a2f2",
+      "source_id": "MAIN-10",
+      "member": "text/part0014.html",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "BASE_range": [
+        481,
+        640
+      ],
+      "actual_complete_delivery_tool_chunk": "c60055"
+    },
+    {
+      "file": "C28_MAIN10_U014_P641_758_FIRST_DELIVERY_01.txt",
+      "bytes": 14592,
+      "sha256": "75a52226ed18de0af4223a0ca9ee7b5ae103b52ac64cac6b7fc817cb222b79d7",
+      "source_id": "MAIN-10",
+      "member": "text/part0014.html",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "BASE_range": [
+        641,
+        758
+      ],
+      "actual_complete_delivery_tool_chunk": "c75a43"
+    },
+    {
+      "file": "C28_DUST04_U012_P901_1086_FIRST_DELIVERY_01.txt",
+      "bytes": 21764,
+      "sha256": "d04bbcdf30491b149bef355d1c85baa1f387c8333b980ee7121f68df1ea0e33a",
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "BASE_range": [
+        901,
+        1086
+      ],
+      "actual_complete_delivery_tool_chunk": "f5684b"
+    },
+    {
+      "file": "C28_DUST04_U013_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 20376,
+      "sha256": "ec8ce5df42f1962a7e3b8d4f09f00a2f85ac9b1590fb748a67b9fdca9ebd9bdd",
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "2e6d5c"
+    },
+    {
+      "file": "C28_DUST04_U013_P161_320_FIRST_DELIVERY_01.txt",
+      "bytes": 20399,
+      "sha256": "b85fa9d69ef70c191aa55fc737baf71bd6392eb32b5a5ba9fd932762f5f42e78",
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "BASE_range": [
+        161,
+        320
+      ],
+      "actual_complete_delivery_tool_chunk": "7f0eab"
+    },
+    {
+      "file": "C28_DUST04_U013_P321_480_FIRST_DELIVERY_01.txt",
+      "bytes": 17409,
+      "sha256": "6f2620f346de3f458109f18ba268197d8e1a60d82a6a01f8b85e01330c362e7e",
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "BASE_range": [
+        321,
+        480
+      ],
+      "actual_complete_delivery_tool_chunk": "1f2615"
+    },
+    {
+      "file": "C28_DUST04_U014_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 20443,
+      "sha256": "3d5a199d60fba493d7ee551d9bf321bdb40c54bc7db5d008d9f8bd36f41eb2b9",
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "ec92ac"
+    },
+    {
+      "file": "C28_DUST04_U014_P161_320_FIRST_DELIVERY_01.txt",
+      "bytes": 18269,
+      "sha256": "1178395797ee596d3f9b038b4eb3b7a60077a4780abed944067bcd3beca09ae1",
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "BASE_range": [
+        161,
+        320
+      ],
+      "actual_complete_delivery_tool_chunk": "69b318"
+    },
+    {
+      "file": "C28_DUST04_U014_P321_441_FIRST_DELIVERY_01.txt",
+      "bytes": 13126,
+      "sha256": "a4bb8590ab0c43c8bb5fdbd0f21e52f113beaba07a7ad414cba16f106083993d",
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "BASE_range": [
+        321,
+        441
+      ],
+      "actual_complete_delivery_tool_chunk": "a474db"
+    },
+    {
+      "file": "C28_DUST04_U016_P001_024_FIRST_DELIVERY_01.txt",
+      "bytes": 4148,
+      "sha256": "f025aebaa7a4e2a95e1fbadb2650f0ab7870f195a43aeef2cfa1d7d5af5db961",
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-008.xhtml",
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "BASE_range": [
+        1,
+        24
+      ],
+      "actual_complete_delivery_tool_chunk": "dda91b"
+    },
+    {
+      "file": "C28_MASK_U015_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 23621,
+      "sha256": "1c22b803137ab826507d2c6d35c6ed71f7c5ef1f75df7ed253e7b7c2a2f20395",
+      "source_id": "MASK",
+      "member": "text/part0013.html",
+      "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "8e0778"
+    },
+    {
+      "file": "C28_MASK_U015_P161_320_FIRST_DELIVERY_01.txt",
+      "bytes": 22581,
+      "sha256": "73b03f9a45c833ba19fc2cc045e81a435c0fa77fd98e28e189f5b42935e8e71a",
+      "source_id": "MASK",
+      "member": "text/part0013.html",
+      "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "BASE_range": [
+        161,
+        320
+      ],
+      "actual_complete_delivery_tool_chunk": "dcd179"
+    },
+    {
+      "file": "C28_MASK_U015_P321_518_FIRST_DELIVERY_01.txt",
+      "bytes": 25694,
+      "sha256": "6a84a013976a3ab0f341becce46029ac984cd38c9aeda2eac24992fe12bfab00",
+      "source_id": "MASK",
+      "member": "text/part0013.html",
+      "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "BASE_range": [
+        321,
+        518
+      ],
+      "actual_complete_delivery_tool_chunk": "c28ac7"
+    },
+    {
+      "file": "C28_YORI04_U012_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 20864,
+      "sha256": "9fe64fdf4e20b49085f33c1cdac6a8bffcd78117d1c4c1199e64023f2b97de69",
+      "source_id": "YORI-04",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "3112ce"
+    },
+    {
+      "file": "C28_YORI04_U012_P161_320_FIRST_DELIVERY_01.txt",
+      "bytes": 22826,
+      "sha256": "9311753311de2747010278e2f6803f79c97225494515400708953d5f63a02987",
+      "source_id": "YORI-04",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "BASE_range": [
+        161,
+        320
+      ],
+      "actual_complete_delivery_tool_chunk": "2c0d89"
+    },
+    {
+      "file": "C28_YORI04_U012_P321_480_FIRST_DELIVERY_01.txt",
+      "bytes": 23061,
+      "sha256": "d5284a7cdd5e9954693738317fcc672d2320ebbaa1c03058fa773a96f9188bd9",
+      "source_id": "YORI-04",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "BASE_range": [
+        321,
+        480
+      ],
+      "actual_complete_delivery_tool_chunk": "8f601e"
+    },
+    {
+      "file": "C28_YORI04_U012_P481_546_FIRST_DELIVERY_01.txt",
+      "bytes": 9736,
+      "sha256": "258c989d0a56fc7fa9e068ea5989035d9e200914cdea1807c370412196217d1a",
+      "source_id": "YORI-04",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "BASE_range": [
+        481,
+        546
+      ],
+      "actual_complete_delivery_tool_chunk": "8dcbb5"
+    },
+    {
+      "file": "C28_YORI04_U020_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 21876,
+      "sha256": "5653f480dfa0d6e52c4161b0d88de032da7831339075704ac093b364aaa451c1",
+      "source_id": "YORI-04",
+      "member": "item/xhtml/p-011.xhtml",
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "f91fc3"
+    },
+    {
+      "file": "C28_YORI04_U020_P161_320_FIRST_DELIVERY_01.txt",
+      "bytes": 20721,
+      "sha256": "69be8c1a4f36c1910c386f134388cb2fdb518178050b166e0b75e60b368b6e76",
+      "source_id": "YORI-04",
+      "member": "item/xhtml/p-011.xhtml",
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "BASE_range": [
+        161,
+        320
+      ],
+      "actual_complete_delivery_tool_chunk": "cc323e"
+    },
+    {
+      "file": "C28_YORI04_U020_P321_480_FIRST_DELIVERY_01.txt",
+      "bytes": 22609,
+      "sha256": "6170864a3e348982f55c2dcbb74d4929af76f1e9794720c0d408a0ea71f68d3a",
+      "source_id": "YORI-04",
+      "member": "item/xhtml/p-011.xhtml",
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "BASE_range": [
+        321,
+        480
+      ],
+      "actual_complete_delivery_tool_chunk": "50faa2"
+    },
+    {
+      "file": "C28_YORI04_U020_P481_541_FIRST_DELIVERY_01.txt",
+      "bytes": 11068,
+      "sha256": "4474af6751d2e8626681f18bf1cfc58a2990b56c37068c3685623b1577ae3178",
+      "source_id": "YORI-04",
+      "member": "item/xhtml/p-011.xhtml",
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "BASE_range": [
+        481,
+        541
+      ],
+      "actual_complete_delivery_tool_chunk": "856a8e"
+    },
+    {
+      "file": "C28_YORI04_U016_P351_510_FIRST_DELIVERY_01.txt",
+      "bytes": 22258,
+      "sha256": "95ebe1755a916911ccd03163af23e1737a5a02602365d1b5c426ce8463c8a146",
+      "source_id": "YORI-04",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "BASE_range": [
+        351,
+        510
+      ],
+      "actual_complete_delivery_tool_chunk": "3f923f"
+    },
+    {
+      "file": "C28_DUST03_U011_P001_160_FIRST_DELIVERY_01.txt",
+      "bytes": 19661,
+      "sha256": "3fc69e7be7d1f8692720b17cc420565d9a66af57b76d97a546b291b2b4250d5a",
+      "source_id": "DUST-03",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+      "BASE_range": [
+        1,
+        160
+      ],
+      "actual_complete_delivery_tool_chunk": "49598f"
+    },
+    {
+      "file": "C28_DUST03_U013_P001_150_FIRST_DELIVERY_01.txt",
+      "bytes": 18007,
+      "sha256": "5996d585c209840f9a2b400ee176608d82cc6b20e673a276a31fcc7be25dc0fa",
+      "source_id": "DUST-03",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+      "BASE_range": [
+        1,
+        150
+      ],
+      "actual_complete_delivery_tool_chunk": "21fffe"
+    },
+    {
+      "file": "C28_DUST05_U010_P421_551_FIRST_DELIVERY_01.txt",
+      "bytes": 16258,
+      "sha256": "e2a250ff25f0b0266ad542c492dcae8347f7733ce8debe9427af62da9a09c689",
+      "source_id": "DUST-05",
+      "member": "item/xhtml/p-002.xhtml",
+      "native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "BASE_range": [
+        421,
+        551
+      ],
+      "actual_complete_delivery_tool_chunk": "88ba3e"
+    },
+    {
+      "file": "C28_CONTEXP01_U019_P351_480_FIRST_DELIVERY_01.txt",
+      "bytes": 15713,
+      "sha256": "18e8d6360a3603e6ea45f6f327ca4de8584aae88ffc637a1b4b7c3c4a9dce571",
+      "source_id": "CONTEXP-01",
+      "member": "item/xhtml/p-010.xhtml",
+      "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+      "BASE_range": [
+        351,
+        480
+      ],
+      "actual_complete_delivery_tool_chunk": "2c496e"
+    },
+    {
+      "file": "C28_CONTEXP01_U021_P111_280_FIRST_DELIVERY_01.txt",
+      "bytes": 21602,
+      "sha256": "e93538a38f28b4bcb074bf2f73b347762ddd80f154e6ed550c48a0ca7fc7a74c",
+      "source_id": "CONTEXP-01",
+      "member": "item/xhtml/p-012.xhtml",
+      "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+      "BASE_range": [
+        111,
+        280
+      ],
+      "actual_complete_delivery_tool_chunk": "2dae20"
+    },
+    {
+      "file": "C28_DUSTCONT_U004_P091_210_FIRST_DELIVERY_01.txt",
+      "bytes": 16963,
+      "sha256": "b1d05c83a5e06f743333d6c22534156edff82e8d7f39c5b421054fbe794eca93",
+      "source_id": "DUST-CONT",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "BASE_range": [
+        91,
+        210
+      ],
+      "actual_complete_delivery_tool_chunk": "a1e951"
+    }
+  ],
+  "known_BASE_context_slots": 12655,
+  "member_count": 43,
+  "native_text_object_count": 18,
+  "complete_BASE_member_scopes": [
+    {
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-004.xhtml",
+      "slots": 460
+    },
+    {
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-006.xhtml",
+      "slots": 176
+    },
+    {
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-008.xhtml",
+      "slots": 680
+    },
+    {
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-011.xhtml",
+      "slots": 148
+    },
+    {
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-013.xhtml",
+      "slots": 180
+    },
+    {
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-005.xhtml",
+      "slots": 614
+    },
+    {
+      "source_id": "MAIN-06",
+      "member": "item/xhtml/p-011.xhtml",
+      "slots": 46
+    },
+    {
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-003.xhtml",
+      "slots": 488
+    },
+    {
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-005.xhtml",
+      "slots": 523
+    },
+    {
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-006.xhtml",
+      "slots": 555
+    },
+    {
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-007.xhtml",
+      "slots": 784
+    },
+    {
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-008.xhtml",
+      "slots": 162
+    },
+    {
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-009.xhtml",
+      "slots": 147
+    },
+    {
+      "source_id": "MAIN-07",
+      "member": "item/xhtml/p-010.xhtml",
+      "slots": 54
+    },
+    {
+      "source_id": "MAIN-05",
+      "member": "item/xhtml/p-020.xhtml",
+      "slots": 96
+    },
+    {
+      "source_id": "MAIN-10",
+      "member": "text/part0012.html",
+      "slots": 699
+    },
+    {
+      "source_id": "MAIN-10",
+      "member": "text/part0013.html",
+      "slots": 610
+    },
+    {
+      "source_id": "MAIN-10",
+      "member": "text/part0014.html",
+      "slots": 758
+    },
+    {
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-005.xhtml",
+      "slots": 480
+    },
+    {
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-006.xhtml",
+      "slots": 441
+    },
+    {
+      "source_id": "DUST-04",
+      "member": "item/xhtml/p-008.xhtml",
+      "slots": 24
+    },
+    {
+      "source_id": "MASK",
+      "member": "text/part0013.html",
+      "slots": 518
+    },
+    {
+      "source_id": "YORI-04",
+      "member": "item/xhtml/p-003.xhtml",
+      "slots": 546
+    },
+    {
+      "source_id": "YORI-04",
+      "member": "item/xhtml/p-011.xhtml",
+      "slots": 541
+    }
+  ],
+  "source_receiving_annotation_history": [
+    {
+      "scope": "MAIN03 C1/start p-004 P1–150",
+      "judgment": "Sena reports the lord’s house destroyed, no one injured and the lord sheltered in the basement (P36–44). K’s relief at no deaths does not erase property harm. Dust’s negative evaluation is attributed speech (P138), not an omniscient moral certificate. No Maxwell actor or directed mechanism is shown."
+    },
+    {
+      "scope": "MAIN03 C1/start p-004 P151–300",
+      "judgment": "Aqua repeats Darkness’s warning about the lord and predicts abuse of power (P168); preserve the nested report and future modality. Sena initially revises suspicion after the bell remains silent about accidental targeting (P234–239), then resumes inquiry when K’s denial of executive contact rings because of Wiz (P270–276). These corrections and ambiguity counter a simple claim that every officer is knowingly fabricating everything."
+    },
+    {
+      "scope": "MAIN03 C1/start p-004 P301–460",
+      "judgment": "P354 gives accuser’s full name Alexei Barnes Alderp (アレクセイ・バーネス・アルダープ). He evaluates K, looks over three women, reacts particularly to Darkness and keeps watching her (P355–372); descriptions of lechery retain K’s perceptual framing. Mansion loss/inn residence and illegal dangerous teleport are prosecution statements (P371–373). Witnesses report actual harms while attempted contextual qualifications are curtailed; this does not establish a conspiracy known to all witnesses."
+    },
+    {
+      "scope": "MAIN03 C1/continuation p-006 P1–176",
+      "judgment": "Alderp himself demands death (P15–17), loses momentum when K’s denial does not ring (P19–25), repeats his demand (P27) and stares at Sena before her confused reversal (P30–36). Aqua reports malign interference (P38); exact operator/mechanism remains unidentified here. Alderp turns pale after her detection (P51), but his private explanation is not stated. The judge actually pronounces death (P55–59); execution is not performed. Darkness’s crest and broad personal-obligation offer secure a delay, not withdrawal or acquittal (P78–96). Alderp initially protests despite status, then accepts the benefit. Darkness reports his fixation since childhood, widowhood and repeated rejected marriage proposals (P99–100); these remain report. Her comic excitement does not grant general consent to his later acts. Compensation and proving innocence remain obligations (P109–123)."
+    },
+    {
+      "scope": "MAIN03 C3/start p-008 P1–150",
+      "judgment": "Darkness explicitly denies the group’s imagined sexual mistreatment and says her dress is her own (P74–79). At P88–93 she reports Alderp’s request for a meeting with his son; she explains her prior broad promise by confidence her father would refuse gross demands, but does not yet know why Alderp wants this marriage. His exact hidden motive must not be substituted for her current uncertainty. Her noble full name is given at P128. K’s attempted stripping and Aqua’s distress remain actual harmful conduct, despite his equipment-sale explanation."
+    },
+    {
+      "scope": "MAIN03 C3/start p-008 P151–300",
+      "judgment": "K’s political/household explanations for Alderp are conjectures (P157–158). Darkness’s father is a distinct currently unnamed actor, excited about her apparent acceptance (P221–235), accepts K’s formal intervention and later is reported offering reward for a successful meeting (P271–284). Daughter reports his display of her childhood portrait and valued vase (P263,298); they are not observed complete purchase histories. Do not map this father to Balter."
+    },
+    {
+      "scope": "MAIN03 C3/start p-008 P301–450",
+      "judgment": "P318 distinguishes Alderp’s son Balter from Darkness’s father; Darkness provides son’s full name アレクセイ・バーネス・バルター at P368. Father praises Balter while distinguishing him from Alderp, then revises requested assistance toward preventing public embarrassment (P318–338). Descriptions of Balter’s perfect character, study, early knighthood, correction of father and household treatment are reports (P368–378); Aqua says she personally received his food distribution (P370), also a report of past experience. Father’s sincerity/permission for K’s coercion is partly K inference (P398,442–445), not omniscient ethical authorization. Aqua explicitly objects to deciding Darkness’s life (P399–404)."
+    },
+    {
+      "scope": "MAIN03 C3/start p-008 P451–600",
+      "judgment": "Balter actually expresses concern (P456–457,473), self-introduces as eldest son helping land administration (P463), notices closeness and expresses envy (P509–528). His initial gendered refusal to duel (P549) gives way to a declared changed interest after coming intending to reject his father’s imposed match (P554), then actual fast technical attacks and repeated hits/bruising (P556–566). He concedes while technically superior because he will not keep hitting her (P570–579); not an account of no harm, universal pacifism or technical defeat. K’s belief that he misunderstands her response is narrator inference (P583). Balter also expresses interest in watching K fight (P591)."
+    },
+    {
+      "scope": "MAIN03 C3/start p-008 P601–680",
+      "judgment": "Balter voices a conventional wooden-sword/no-magic expectation (P607), is embarrassed by exposure and shocked by freezing (P613,622); these are local reactions, not inability in every unconventional battle. K’s later gambit occurs while he fears losing the strength/drain contest (P658–676). Any subsequent Balter claim that K was already winning needs comparison with this actual sequence."
+    },
+    {
+      "scope": "MAIN03 C3/continuation p-011 P1–148",
+      "judgment": "Balter appraises K as offering the bet when already about to win (P3); that differs from K’s contemporaneous fear of losing in previous member, so retain a fallible observer rather than perfect strategic insight. Darkness’s father arrives with drinks and orders both men executed after seeing her state (P7–18); they explain and no execution occurs (P22). His wife’s death, solitary parenting and daughter’s earlier loneliness are his retrospective account (P28–35). Balter declares attraction and reciprocal-love interpretation (P40–48), which does not settle K/Darkness relationship. He withdraws after Darkness’s false pregnancy story and offers to tell Alderp he declined (P81–89); later reporting is not performed here. Father and Aqua believe the false pregnancy and are corrected after about30minutes (P95–97). Daughter’s anticipated unconscious sexual encounter is explicitly denied (P71–72). The unnamed father and Balter remain separate."
+    },
+    {
+      "scope": "MAIN03 Ep/start p-013 P1–180",
+      "judgment": "This member changes focalization Aqua→Megumin→Darkness→K. Darkness says Alderp has made no further approach since the match but doubts lasting abandonment (P77–78); she reports recent silence rather than a complete future disposition. K reports suspicion lifted through Sena’s eyewitness-based intervention after the Vanir battle (P89–95), while Sena’s public apology/award, compensation/debt deduction and40millionremainingpayment are actually presented (P84–87,118–125). Do not attribute forgiveness or payment acceptance personally to Alderp without further evidence. Vanir’s future trial prediction and commercial invitation are his own prospective speech (P177–179), not an already performed outcome. The same continuing Vanir is observed again; no new Maxwell scene is supplied."
+    },
+    {
+      "scope": "MAIN03 C2/start p-007 P1–100,380–480",
+      "judgment": "Darkness’s absence triggers K’s imagined mistreatment and captive hypotheses (P8–14,69–84,448–450), not a witnessed sexual incident or imprisonment. These are explicitly qualified by her later denial in C3 P77–79. No hidden Alderp act is inserted from the imaginative premise. Other party conduct in these windows is not inherited as Alderp agency. The partial C2 windows do not claim a complete chapter reread."
+    },
+    {
+      "scope": "MAIN03 C4/start p-012 P1–100",
+      "judgment": "Sena initially suspects a repeated pattern, accepts the party’s denial and honors refusal of help (P18–31), then thanks their volunteered cooperation (P90–99). K calls her earnest at P99; keep that as his interpretation. The lord’s compensation and proof-of-innocence obligations remain unresolved at P35. Aqua’s active ward, K’s wish to erase evidence and the actual monster problem are distinct from proved Alderp/Maxwell control. Do not make every later inquiry an act of conscious collusion or unlimited magical manipulation."
+    },
+    {
+      "scope": "MAIN06 C2/start p-004 P371–640",
+      "judgment": "An unnamed former retainer explicitly calls Darkness’s father Ignis at P437. This secures the named father route at this later point, not an earlier MAIN03 reader name or royal identity. At the banquet Alderp interrupts rival suitors, demands honorific status from K and says his Axel house is still being rebuilt while he uses his capital residence (P467–488). He promotes Prince Jatice as the uniquely fitting match and describes prospective succession/children; K’s thought that he has abandoned his desire is a conjecture (P489–490), later contradicted by the focal interlude. The anonymous nobles’ applause, self-justification and other court conduct are not all Alderp’s voice. C2 is only a bounded P371–640 reread here."
+    },
+    {
+      "scope": "MAIN06 C3/start p-005 P1–160",
+      "judgment": "Alderp receives the group with a guard, leering and complimenting Aqua; he treats her goddess assertion as a joke (P21–34). The guard’s exact warning about Megumin is only partly overheard (P38–42); his retreat, awkward compliments and appeal for help are actual, without an invented complete whispered message. His sarcastic permission for an indefinite stay is taken literally (P50–60). He actually tends a one-way bath mirror, sees a working view of the cleaning maid, proposes shared watching and argues high wages include harassment (P99–132). That is his coercive entitlement claim, not maid consent. K nearly accepts but discovery interrupts the handshake (P126–130). The mirror is smashed (P132); the passive sentence does not name the breaker. No naked maid or completed sexual act is inserted. Window repair stinginess is K’s guess (P89), not proved purchase intent."
+    },
+    {
+      "scope": "MAIN06 C3/start p-005 P161–320",
+      "judgment": "K reports incoming complaints about Megumin’s explosions (P179), while the guests actually consume Alderp’s alcohol, demand household resources and impose long storytelling (P188–204). Alderp is visibly worn and begins withdrawing his indefinite invitation through Darkness (P199–203); real recipient costs coexist with his misconduct. K warns Chris about the lecherous lord’s possible response (P297), but the footsteps first bring Darkness (P306); no assault on Chris is depicted or assigned to Alderp."
+    },
+    {
+      "scope": "MAIN06 C3/start p-005 P321–614",
+      "judgment": "Alderp actually arrives with a guard to investigate the night disturbance and asks what is happening (P344–357); K asks him for rescue, but a reply or rescue is not shown. Chris later reports two ownerless sacred objects acquired by an initially unnamed noble, one summoning random monsters without stated usage cost and one body-swapping (P575–589). K’s claim that the former owner died is his gloss (P577). Her treasure sensing at Alderp’s home and K’s Aqua-robe explanation do not yet prove every object’s location or donor identity. The report of Beldia’s original remit through Mitsurugi remains attributed, not a new independent test (P493–499)."
+    },
+    {
+      "scope": "MAIN06 C4/start p-006 P450–637",
+      "judgment": "K’s comparison of nobles’ sexual behavior is his generalization (P554), not a class-wide law or a new Alderp action. Claire calls the body-swap necklace a gift intended for Jatice (P565–571); the donor is not named there. Chris explains that death during a swap prevents return and describes serial youth/wealth theft as a possible use (P608–620). It remains an attributed mechanism and possibility, not a performed murder in this window. Her warnings about all power-holders (P625) are not a census. K’s prior misuse of the body swap remains adverse to her trust (P627–631); this does not repair a frozen principal score."
+    },
+    {
+      "scope": "MAIN06 C5/start p-007 P1–160",
+      "judgment": "Chris says strong treasure signals came from the castle and Alderp’s home (P97), and K again attributes the house signal to Aqua’s robe (P98). The castle vault search does not find the summoning object (P119). Neither limited search nor treasure sensing is exhaustive absence or proof that Alderp has no object. Other theft/harassment in this window belongs to the relevant party actors, not Alderp."
+    },
+    {
+      "scope": "MAIN06 I/start p-011 P1–46",
+      "judgment": "The first-person focalizer is Alderp, established by the devil addressing him (P5–8). He repeatedly kicks the devil he calls Maks/マクス (P5–17); that nickname needs its explicit later Maxwell join, not a second persona. The devil states it cannot locate an unknown sacred object or undo a real seal (P12–13); no failed dispelling attempt or universal impotence is observed. Alderp’s judgments of stupidity/memory are his hostile account (P18–20,38), while the devil voices pleasure in his cruelty and desire for work/reward (P35). Alderp’s represented thought explicitly supplies the prince body-theft/marriage plan and regret over skipping a lower step (P21–32); the planned killing of his old body is prospective, not accomplished. He says he selected a handsome capable child and regards Balter as a prepared body resource (P29–32); Balter’s familial position is clear but biological origin/legal adoption details are not supplied. His claim everything previously went well (P22) is self-assessment, contradicted by his own current failures. He keeps this devil because memory lapses permit avoiding payment (P38–39), and actually holds the random-monster summoning stone (P41–46). It does not prove unlimited summoning or ordinary salary consent."
+    },
+    {
+      "scope": "MAIN07 C1/start p-003 P1–160",
+      "judgment": "The guild actually pays the Sylvia bounty after delay (P8–16); this does not establish every executive killing or an independent character assessment. Darkness reports her father recently ill and says she avoids disturbing him with the endurance-contest practice (P119). No Alderp/Maxwell cause is supplied at that point. K’s reference to his earlier binding at Alderp’s house (P126) is a callback, not a new act of the lord. The egg merchant’s identity remains unprovided despite Aqua’s quoted sales story (P153 onward); no generic vendor join."
+    },
+    {
+      "scope": "MAIN07 C1/start p-003 P161–320",
+      "judgment": "Vanir describes keeping Wiz working without rest/food and now resting her (P198–208); this is his account of the work arrangement, not a newly watched two-week history. His apparent prophecy of harm to the house/father, Darkness’s failed self-sacrifice and proposed escape remain future/conditional statements (P275–308), qualified by difficulty seeing through Aqua’s presence (P216) and his own capability claims (P290). Do not treat the father’s whole future as already performed, validate every class-wide claim, or rewrite any frozen Vanir forecast/score. Darkness visits home after the warning (P282–283)."
+    },
+    {
+      "scope": "MAIN07 C1/start p-003 P321–488",
+      "judgment": "An unnamed butler enters without introduction, insults the setting and names Alderp as his master, requesting Darkness come to his carriage (P325–336). His own delivery behavior is direct; no name or Ragcraft identity is supplied. The next day Darkness says she slept at her family home after the late appointment (P358–375), so K’s sexualized overnight speculation is not an observed affair. She avoids explaining the noble tie and urgently proposes a Hydra bounty with ecological warning and a later knight fallback (P365–425). The source shows her urgency and K’s uncertainty, not the exact secret contract at this point. Actual Hydra size exceeds the printed expectation and the party’s initial plan (P466–488); no hidden perfection is imputed to her."
+    },
+    {
+      "scope": "Additional nickname retrieval",
+      "judgment": "COHORT28_MAKS_NICKNAME_NUMBER_RETRIEVAL_01.json SHA256 8d98159da7c01f6f3af6787863dc05ac93beebbe6f35bee1ead00d2a2fdbffb2 checks all41 current native/register pins and finds four literal-stem resources. This routes the MAIN06 I nickname plus MAIN07 I, MAIN16 C1 and YORI04 U007. It supplies zero semantic-context or independent credit and no exhaustive anonymous absence."
+    },
+    {
+      "scope": "MAIN07 C3/start p-005 P1–160",
+      "judgment": "The guild actually pays the party a Hydra bounty share and extra contribution (P6–30); Darkness is absent. Her note says she is reporting the kill to the lord, and the house’s rebuild is K’s present understanding (P48–49). K’s belief the noble would not act against her status is not validated protection (P83). Her absence, then actual received farewell letter, precede the marriage news (P95–154). Do not insert an unshown sexual liaison or treat her expressed unavoidable noble obligations as a freely preferred exit."
+    },
+    {
+      "scope": "MAIN07 C3/start p-005 P161–320",
+      "judgment": "An unnamed household gatekeeper refuses the party entry without giving reasons (P163–167); identity and whose specific order are unprovided. The18-year-old male warrior candidate advertises sword/shield role and actually withdraws after Megumin’s introduction (P209–246); no match to another warrior by age/class. Joseph/ジョセフ is named in a shouted report of a farm injury (P276), not a directly verified permanent disability or death. Dust’s actual defensive effort has costs and does not perform like Darkness’s exceptional durability (P284–300). These are source-bound follow-up leads, not automatically new census people."
+    },
+    {
+      "scope": "MAIN07 C3/start p-005 P321–523",
+      "judgment": "The unnamed young noble speaks of affection across class and asks Leen about photographs (P394–410); K/Dust initially infer the wrong target. Leen later says his desired subject was Dust (P502–507). Dust and K intrude, misuse property and are discovered; the noble then interprets Dust’s defiant statements as reciprocal acceptance (P487–489). A scream is heard after the door closes (P509–511), but the source does not show a completed sexual assault or establish consent to one. Leen’s laughter/fatalistic joke is not Dust’s permission. No name or explicit join to Aigis/Undain/a helmeted noble is given here. Leen’s final Alderp-marriage news is a report of town rumor (P516–523), not a witnessed earlier contract or completed marriage."
+    },
+    {
+      "scope": "MAIN07 C4/start p-006 P1–160",
+      "judgment": "K explicitly identifies the marriage news as Leen's secondhand report and withholds a firm account until meeting Darkness (P27–30). Norris/ノリス is a named household night watchman whose small-sound concern was accurate despite his colleague's smallheartedness judgment (P108–117). K impersonates his voice after Aqua's actual entertainer support (P125–150); later statements by that voice are K's inventions, not Norris's conduct. The unnamed cook agrees to a counterfeit order without seeing the speaker (P142–160), not evidence of Alderp's control. Norris requires an existing-census and literal retrieval check before new-row treatment."
+    },
+    {
+      "scope": "MAIN07 C4/start p-006 P161–320",
+      "judgment": "Darkness herself says she ordered the party not admitted (P175), resolving the prior gatekeeper's refusal without assigning Alderp an unshown order. K physically restrains her and repeatedly counterfeits her speech; sexual claims to the household are his fabrications, and the rescue-purpose claim does not erase coercion. Darkness's actual debt account says Alderp used her father's worsening condition to demand repayment or marriage cancellation of debt (P298–306); her jokes about sex coexist the narrator's perception of loneliness (P307–308), not freely preferred marriage. Debt origin and illness cause are not yet established. She refuses commoners' lifesaving earnings as repayment and says K's present wealth insufficient (P310), not an exact debt amount."
+    },
+    {
+      "scope": "MAIN07 C4/start p-006 P321–555",
+      "judgment": "Darkness's proposed intimacy does not produce intercourse; the exchange collapses after K's abdominal remark (P329–358). Ignis is visibly emaciated/weak, yet attentive and capable of humor and resource planning (P434–463). K's claim he instantly infers the visit's purpose is narrator interpretation. Ignis requests escape for his daughter, withholds debt origin except her decision, proposes sale of the house and says other efforts might remove debt (P454–466): possibilities, not completed legal relief. His daughter-character praise and belief she likes K are his own partial fatherly account, not omniscient relationship facts. He says poison was checked and not found (P475–480), not a source-level proof of no supernatural harm. His expected rejection of royal tax-funded relief is his prediction of Darkness's principle (P488–491), not an observed royal refusal or proof he lacks all influence. He is physically limited, not morally/passively absent; actual marriage is still prospective. Darkness explicitly cites harm transferred to others if she flees (P503), a stated reason rather than evidence of every specific consequence."
+    },
+    {
+      "scope": "MAIN07 C5/start p-007 P1–318",
+      "judgment": "Alderp's publicity spending and expedited schedule are K's received account with inferential motive (P6–11). The Dustiness head butler explicitly names himself Hagen/ハーゲン (P62), politely brings the daily threatening letters and warns against escalation (P66–72); the letter actually read is a threat framed as a protective warning (P73), not proof of a real Demon Army terrorist. Megumin's subsequent detention and release through the household are retrospective report (P102–104). Hagen later actually arranges Aqua's noon service while avoiding the escalating devil/goddess confrontation (P248–261); he is NOT the rude unnamed Alderp messenger. K's investigations report alleged sexual coercion, extortion/bribery and absent material proof, plus Ignis's assigned oversight role (P155–164): attributed research, not every allegation performed in view. Vanir's debt-origin account identifies the surviving agricultural/infrastructure losses, Alderp's alleged compensation refusal and redirection of responsibility, Dustiness's spent assets, new loan and bodily collateral condition (P269–300). This is Vanir's account rather than a newly watched historical negotiation. K joins the old butler visit and Hydra effort by inference (P304–308). Vanir withholds explanation until an actual commercial transaction and states his shared interest and price advantage (P212–235/313); do not turn the assistance into disinterested benevolence or full independent validation of every allegation."
+    },
+    {
+      "scope": "MAIN07 C5/start p-007 P319–403",
+      "judgment": "Focalization explicitly changes to Darkness, then returns to K from P407. The new maid's congratulation is explained by her ignorance of the circumstances (P319–324), not knowing endorsement of coercion. The long-serving unnamed Dustiness guard actually refuses Alderp access before the ceremony, keeps the legal/household boundary despite a direct threat against his future employment and body of the bride (P327–349), then says he plans to resign rather than serve Alderp. His familiar childhood ball-game role and Darkness's later understanding of it are her recollection/interpretation (P340–347), not performed childhood events. He is not explicitly named Norris, Hagen, an earlier gatekeeper or any other watchman; preserve a source-bound distinct identity pending joins. His sincere admonition about solitary sexual activity rests on K's earlier counterfeit speech (P355–359), a consequential error rather than actual evidence against Darkness. Darkness explicitly calls the marriage unrewarding self-sacrifice, plans to investigate Alderp, and says she now finds him unattractive (P324–325/368–388); earlier masochistic jokes are not blanket consent. Hagen is the longest-serving butler and actually escorts her (P398–403)."
+    },
+    {
+      "scope": "MAIN07 C5/start p-007 P407–696",
+      "judgment": "Alderp stares at the bride, is briefly checked by Hagen's cough (P426–431), then publicly abuses class and treats the debt as a purchase condition (P469–480). K actually produces 2 billion Eris and Alderp diverts attention to collecting coins while issuing pursuit orders (P475–484/520–528). The command to abandon pursuit and gather money at P522 is K's supported voice imitation, NOT Alderp's real order; actual Alderp immediately contradicts it (P526). His servants show their own tactical limits, react to injury/threat and request he stop provoking Megumin (P575–584), rather than perfectly obeying every demand. Alderp's claim that her city-center Explosion is a bluff is his actual mistaken risk appraisal; the spell later fires into the sky and cracks windows (P630–643), with real collateral cost. His offers of money and secure household employment fail to move watching adventurers (P607–613). Their later intervention includes Dust/Keith's transparently inconsistent injury allegations and an actual beating of the servants (P672–692); their helpful role does not validate the claimed fractures/paralysis or erase harm. K's ownership language and Darkness's arousal are not a general ownership ethic or consent to Alderp. The interrupted ceremonial vows are distinct from the subsequent legal-registration discussion."
+    },
+    {
+      "scope": "MAIN07 C5/start p-007 P699–784",
+      "judgment": "Ignis is still severely weak and expects death, but actually welcomes the failed marriage, thanks K, presses a match, asks what his daughter values, and offers a final written intervention (P712–758). His perceived insight into K's feelings remains K's interpretation (P746–748). Aqua actually casts Sacred Break Spell, followed by visible recovery (P761–774), and identifies a major devil's curse (P773). Thus poison-negative testing was not a successful supernatural differential diagnosis; no actual death/resurrection occurs. The father's embarrassed withdrawal under the covers after recovery (P776–777) belongs beside his serious parental affection and institutional initiative. The writing and any legal protection are offered here, not already completed."
+    },
+    {
+      "scope": "MAIN07 I/start p-008 complete P1–162",
+      "judgment": "Alderp is the first-person focalizer. He actually kicks the crouching devil, identifies his purchased magical coercion, admits exploiting forgotten payment and seeks an overnight universal witness-memory cover-up (P6–32); Maxwell states church/light limits and inability, not a cast visibly failing. Alderp's expectation of executing K and obtaining Darkness's self-sacrifice is prospective (P20–21). His new wish is not performed: Maxwell explicitly says he has done nothing when Vanir's disguised knock arrives (P40–45). Alderp mistakes desire-compatible appearance for success, promises payment and terminates the contract (P44/86–93); subsequent apology/body offer is Vanir impersonating Darkness, not Darkness's consent or a Maxwell transport. Maxwell refuses the now-released order to kill a fellow devil (P63–69). Vanir explicitly joins Maks to Maxwell (P73–80); titles, other-world memory loss, hundreds/thousands of prior introductions, lucky summoning and career dependence are his attributed explanations, not an omniscient total biography. Alderp's lower-devil judgment and self-made-career claim are contradicted by that account but remain his own defensiveness (P80–84). He claims he would have returned Maxwell if asked, a self-serving counterfactual (P98), not proof the elaborate intervention was necessary or unnecessary. Vanir openly credits amusement as his reason and reports accommodating Aqua's egg care (P96–104). Maxwell actually breaks both arms and enjoys the cries (P115–125), then interprets Alderp's desperate appeal as reciprocal affection while promising preserved, prolonged despair (P139–162). His nonpayment victimization does not erase his agency in torture, nor does childish/memory-impaired presentation establish a medical diagnosis. Vanir's contract-years/asset seizure/hell-transport/treatment statements are explanations and predictions (P127–137); full transfer, all future collection and eternal outcome are NOT watched here. Alderp's late apology, attempted asset bargaining, terror and prayer are observable self-preservation, not established remorse or erased harm. Vanir anticipates a household-substitute offer before Alderp completes it (P135–137): do not quote it as a finished spoken order by Alderp."
+    },
+    {
+      "scope": "MAIN07 Ep1/start p-009 complete P1–147; Ep2/start p-010 complete P1–54",
+      "judgment": "Darkness reports Alderp's disappearance, new evidence and probable body-swap gift attribution (Ep1 P9–12); public flight theory is not a witnessed account of his fate. Repayment and asset calculations are prospective pending her father's recovery (P35–41), not payment already received in this scene. Her hypnosis-like retrospective doubt is a report, not proof Maxwell authored every prior choice. Aqua wrongly suspects Vanir of the curse (P33), contrary to the separate interlude causal chain; preserve that information asymmetry. Aqua's stated practice is marriage registration on the morning before vows, leading the party to presume Darkness legally married despite the disrupted ceremony (P129–147); no actual registry document or completed annulment is shown here. Ep2 Chris reports finding and collecting the summoning object in the cellar (P17–22), then actually slips into Eris's voice and supplies its sealed lake hiding place (P49–53). This resolves the earlier search's false-negative location account without pretending the search was exhaustive. K still lacks the interlude knowledge of the devil arrangement. No exact later fate for Alderp or royal/body-swap victims beyond the reported/prospective statements is imported."
+    },
+    {
+      "scope": "MAIN05 Ep/start p-020 complete P1–96; household-name retrieval and census check",
+      "judgment": "Darkness explicitly recognizes the assaulted caller as Hagen/ハーゲン, her household servant (P44–52), an earlier join to the same named role, not Rionor's or MAIN11 Heidel's butler. Hagen endures K/Aqua's unprovoked attack, regains breath and delivers a royal letter (P38–52/69–72). He also makes belittling/sexualized statements about Darkness having only noble status and selling her body if that status is lost (P60–68), then fears her actual choking. His formal service is not uniform tact or spotless guardianship; his institutional fear does not excuse the insults. The 41-native-object literal search for ハーゲン/ノリス/ジョセフ checked every current register and found five resources, zero XML failures and zero semantic credit. Existing census row114 is Hagen, so retain/enrich that record; Norris/Joseph lack an exact named row in this targeted check. Role overlap for the unnamed wedding guard remains unproved. The earlier broad census read output was truncated and confers no complete-row review credit; the later bounded selected fields were actually received."
+    },
+    {
+      "scope": "MAIN08 C1/start part0010 P1–160",
+      "judgment": "K's retrospective narration reports actual confiscation and transfer of Alderp's assets to Ignis, Balter's non-involvement/no punishment and future role assisting the new lord (P14–20); it is not a directly watched investigation or Balter's own acceptance speech. Ignis remains not fully recovered and Darkness temporarily governs, preserving capacity constraints rather than instant complete restoration. K later says the money has been returned (P113), a later reported outcome distinct from the earlier prospective refund. Vanir admits other solutions existed and that he selected the elaborate wedding humiliation for its emotional flavor (P120/134); do not claim necessity. Aqua/Wiz/Darkness still conflate Vanir with the dangerous cursing devil, while Vanir attributes it to another major devil (P129–139). Their group conclusion is a mistake, not source validation that Vanir cast the curse. No fresh Alderp or Maxwell choice appears here."
+    },
+    {
+      "scope": "MAIN09 C2/start part0011 P440–570; MAIN12 C5/start part0014 P270–390; MAIN13 C2/start part0011 P300–410; MAIN14 C3/start part0012 P1–165",
+      "judgment": "MAIN09 P507 names Alderp only in K's recollection of the marriage crisis and an earlier failed/ discarded explosive imitation; no current lord action. MAIN12 P328 uses Alderp as a fearful analogy before meeting Zereschilt, not proof every noble or the new host behaves like him. The guards' actual negotiation and host's different identity remain separate actors. MAIN13 P356 is K's recollection that losing Darkness exposed the party's dependence, not a new Alderp interaction or revised principal score. MAIN14 P110 is Darkness's own grievance about K's wedding rescue and ownership declaration amid current relationship conflict; it is not Alderp speaking, a new attempted marriage or generic consent to ownership. These are bounded reference checks rather than complete chapter/whole-volume passes. Other characters present retain their already scoped analyses or future reviews, without silently expanding this cohort's claims."
+    },
+    {
+      "scope": "MAIN16 C2/start item/xhtml/p-004 P300–410",
+      "judgment": "The accepted principal contract names this member C2/start; do not inherit a mistaken C1 alias. Vanir proposes introducing Maxwell as affectionate/good-looking and from another world (P356), then says the back of the head is physically absent (P359). These are Vanir's matchmaking/joke claims, not a new Maxwell appearance, observed skull examination, psychiatric diagnosis, evidence of a performed date or proof affection is safe. Wiz explicitly says devils have no sex/gender in this exchange (P360); first-person 僕 alone does not establish human maleness. The prior interlude's actual violence qualifies the positive introduction. Amaryllis's con and prior history remain separate characters/access planes. No additional Maxwell reaction or independent trial arises from the reference."
+    },
+    {
+      "scope": "MAIN10 C3/start part0012 complete P1–699",
+      "judgment": "Restaurant patrons credit the unnamed chancellor with prosperity (P235–246); this is overheard public attribution, not a national audit or unmediated performance history. Ragcraft explicitly names himself chancellor when he arrives and quiets the reception (P581–592). He gives a courteous but locally belittling compliment about Iris's clan (P589), shows discomfort under Aqua's touch and questions, and accepts the Axis explanation (P594–602); Aqua's unease is not yet an explicit species diagnosis. At the actual small reception he invokes the intentionally modest hospitality as evidence of financial distress and refuses defense support (P610–631); the prosperous-city contrast is raised by K and Iris. He wrongly treats K's sibling address as evidence of royal/Jatice identity (P624–629), rather than perceiving all disguises. He claims political control, then yields a route through the prince after K cites public praise and the prince's authority (P634–639). Following the pair is performed, but monitoring motive is K's inference (P642–643), as is the content of the later prince whisper (P657–659). Levi says Ragcraft briefed him (P669); do not assign all Levi's insults, guards' conduct or anonymous courtiers' remarks to Ragcraft. C3 contains K's remembered marriage rescue (P452–455) and present conduct contradicting a perfectly consent-respecting self-description; those are not new Alderp acts."
+    },
+    {
+      "scope": "MAIN10 C4/start part0013 complete P1–610",
+      "judgment": "Levi eventually explicitly attributes the original defense-cut proposal to Ragcraft, while supplying his own distinct motive for rejecting the arranged marriage (P279–283). This is a prince's report of earlier consultation, not an actual Ragcraft interior monologue. The repeated matches, payments promised, Iris's force and K's coin-location deception are the parties' conduct; no Ragcraft participation is shown in those exchanges. In the forced audience Ragcraft visibly backs away (P588), contrary to a universal composure/mastery reading. Iris's violent entry and Megumin's threat remain separate acts with injured guards, not morally costless diplomacy or a completed conquest. The prince's own persistence and later bargain cannot all be credited to a hidden controller. Ragcraft's wider motive and career claim remain due in C5."
+    },
+    {
+      "scope": "MAIN10 C3–C4 source-bound incidental leads retained for later individual audit",
+      "judgment": "C3 three unnamed affluent male tourists/callers each have separately attributable targets and actual/report differences: the sand-bath competitor is absent and hospitalized by report (P307–308), the duck-farm admirer visibly trembles after reported destruction (P312–314), and the Aqua escort actually explains property damage and seeks a reduced contribution (P317–321). Do not merge them with Levi, Charlie or Daniel without a direct join, or erase their losses because the party is comic. Named Marines/マリネス self-introduces, loses, asks to stop and declines a rematch (C3 P194–216); Katerina/カタリナ and Claude/クロード are spectators' speculative comparisons, not demonstrated appearances or K's aliases. The accessory-shop keeper actually gives a practical price/stock correction (C3 P259–286). C4 has a distinct unnamed Elroad watchman and ponytailed prosecutor with sustained actual speech and choices (P308–508), explicitly compared with Sena rather than identified as her (P331–334). Her deference to noble pendants is actual; the first watchman reports no visible fault in the discarded bell (P486–488), qualifying her earlier assumption of failure. Her fear of K rests on distorted evidence and magical limitations, not universal incompetence or verified assault of townspeople. These leads are retained, not automatically counted as new unique persons or promoted before census joins/context review."
+    },
+    {
+      "scope": "MAIN10 C4 P318–508 epistemic qualifications relevant to coercion/authority",
+      "judgment": "K's imagined intimidation letter and knife are a plan defeated by actual arrest, not a letter delivered to Levi (P318–329). The bell distinguishes subjective belief rather than world truth by Darkness's account (P432), and Aqua says holy aura masks ordinary lies (P466); subsequent strong false declarations do ring (P505–506). This does not license treating every silent bell as a true proposition or attributing every inconsistent official judgment to Maxwell. The official explicitly rejects routine torture but then cites exceptional permission and equipment (P362/370), so her speech is not an unqualified noncoercion policy. No previous frozen Sena or principal model/score is silently revised."
+    },
+    {
+      "scope": "MAIN10 C5/start part0014 complete P1–758: public office",
+      "judgment": "Ragcraft actually interrupts Levi's warning about the dragon and encourages Iris to try, framing death risk as her choice and success as benefit (P24–27); the prince's concern is independently his own. After the killing Ragcraft instead produces a relatively small bounty and explicitly separates reward from offensive support, overruling the prince's favorable impulse with national necessity (P170–197). His power works through an office and policy language but is not unlimited: later Levi voluntarily chooses another wager and realignment despite Ragcraft's protest (P446–476). Ragcraft openly reports negotiating with the Demon Army, invokes Elroad's survival under neutrality and defends the Demon King against slander (P418–442). Darkness's lurid rumors are Aqua's admitted invention, not true acts of the king; Ragcraft's visible indignation and crouching coexist diplomatic composure. His courteous public reasons and later spy self-disclosure must be represented at their own knowledge times, rather than pretending everyone already knew the hidden aim. Courtiers do not all share his preference; their satisfaction with Levi's decision is observed expression plus K's interpretation (P470–472)."
+    },
+    {
+      "scope": "MAIN10 C5/start part0014 P486–618: impersonation, career and revenge",
+      "judgment": "The stay is attributed to the chancellor's invitation (P486); no total trap design is inferred beyond the later actual acts. The apparent Megumin's invitation and handholding precede K's blackout and waking bound/gagged in a wardrobe (P488–543); no actual sexual encounter occurs, and the seducer is the same later explicitly named doppelganger, not Megumin. K hears his own impersonated voice soliciting Darkness, with errors about his royal status and gaze/composure that expose it to her (P550–562). Ragcraft then actually threatens K as hostage, restrains Darkness and disclaims an intended sexual act (P567–581), but her masochistic requests are not blanket consent or erasure of threat. The impersonator explicitly names himself Ragcraft, Demon Army intelligence commander/doppelganger, and changes from K to a black featureless form (P582–586), a direct name/office/species join, not an analogy to Vanir. The thirty-plus-year employment/application, rebuilding finances, gambling avoidance and promotion account is his speech and K's paraphrase of it (P588–607); public praise corroborates reputation only, not every claimed year or achievement. K's serious/stupid labels (P598/604) are competing narrator judgments, not diagnoses. Ragcraft says work displaced his original spy aim and admits needing to vent, then thanks the captives for listening (P601–607); this ordinary work grievance belongs beside his competence and malignant service. His shift from killing them to harming Iris for revenge, intention to bind other companions and delight at their helpless reactions are stated and partly performed locally (P609–618). Do not upgrade the threatened harm to a completed killing or claim all future steps succeed."
+    },
+    {
+      "scope": "MAIN10 C5/start part0014 P620–758: limits and aftermath",
+      "judgment": "The captives escape through Darkness moving K's gag, K's burning it and then her binding, with burned hair and continuing handcuffs (P644–660). K cannot casually snap the rope; their complementary capacity defeats the restraint. Aqua/Megumin later report the false K's compliments/exclusions and attempted approach, but neither is now bound (P678–695); those interactions are retrospective accounts, not a second directly watched attack. The identity of the exact tactic used on Iris is not supplied: K hears Exterion and sees a black liquid presumed to have been Ragcraft (P699–707). Do not invent a seductive speech to the child, explicit sexual contact, a full blow-by-blow duel or an eternal/death-mechanism outcome. Ragcraft's infiltration is then reported exposed to court/town, with Levi's actual apology and renewed alliance promise (P711–734). His years of office did not give exact knowledge of K's status or Iris's full response; other actors retain independent choices. No final confrontation dialogue from Ragcraft after the black-liquid aftermath is available here."
+    },
+    {
+      "scope": "MAIN10 C5 incidental roles and economic harm retained for later individual review",
+      "judgment": "The unnamed casino dealer visibly struggles and asks to stop while the manager tries political resistance, payment to leave, announced closure and finally pleading under reported superior reprimands (P283–309/378–398). K dismisses state-casino losses as only harming prince/chancellor (P301–302), but the manager's actual distress is distinct evidence. The masked men's employer remains unverified: K predicts state/casino ties, they claim robbery, and they flee before the proposed bell inquiry (P348–371). Their flight is not proof of Ragcraft's order or a successful interrogation. Unnamed castle guards react to the dragon accomplishment but are not automatically one recurring person or the Dustiness wedding guard. These remain source-bound discovery leads pending census/context checks, not quota-filling new artifacts."
+    },
+    {
+      "scope": "DUST04 U012/item/xhtml/p-004 P901–1086",
+      "judgment": "The anonymous Alderp reference is Dust's recollection of the wedding rescue (P976), not Alderp present in Elroad. Dust hears the chancellor's finances claim through K's overheard group account and supplies his own prosperous-city skepticism (P1021–1027), not a direct budget inspection. Dust then actually directs the police to the Explosion site and observes K's group arrested (P1054–1070), a distinct access route from MAIN10 rather than another independent trial. The duck-farm staff's report that the young tourists paid compensation (P938–940) adds a later attributed outcome to the MAIN10 losses; the caller's suffering is not erased. The unnamed old casino acquaintance's hospitality to Lolisa and access permission (P1002–1017) remain a distinct source-bound person, not automatically a royal, noble or Ragcraft. The failed first reader invocation used a native member where the accepted supplemental reader required U012, exited before producing a raw delivery and receives zero credit; all credited raw files here are from successful subsequent calls."
+    },
+    {
+      "scope": "DUST04 U013/item/xhtml/p-005 complete P1–160: Ragcraft's second direct disclosure",
+      "judgment": "The ponytailed prosecutor explicitly explains Dust's special placement as overflow, then actually questions his admitted harassment/violence and reports Ragcraft has prohibited Zesta's release (P51–96); she resembles Sena, not a name join. Ragcraft actually dismisses the official, consults a report naming Zesta's office, recounts the casino encounter and takes the accusation as perceptive detection (P98–123). Zesta quietly tells Dust he accused the devil army from gambling frustration and is improvising agreement (P124–127): Ragcraft does NOT hear that admission. His anger at slander of the Demon King (P128) is directly shown. He then declares his intelligence-command/doppelganger identity and indefinite detention while postponing disposal for another matter (P135–143). Only after turning does he notice Dust and awkwardly threaten his death for hearing the secret, retreating despite protest (P145–156). Do not claim he knowingly selected Dust as a target from the start, immediately killed either captive, or maintained faultless information security. The comedy is his actual self-exposure with coercive consequences, not a substitute for those consequences."
+    },
+    {
+      "scope": "DUST04 U013 complete P161–480: constraints, resources and escape",
+      "judgment": "Dust infers the other matter concerns Iris (P165); it is not Ragcraft identifying that target in this exchange. Zesta first identifies the unresponsive food guard as probably demonic and the prison as controlled by Ragcraft's agents (P199–205), later supported by directly encountered demons/undead (P334–356/453), not proof every Elroad guard is an infiltrator. Dust receives a larger/better meal but only conjectures Ragcraft is apologizing through it (P221–223); no actual food order or remorse is supplied. Zesta reports a priest-magic ward in the cell (P244), and actual holy casting succeeds after release into the corridor (P330–339), preserving a location limit rather than magical omnipotence or a globally failed ward. Lolisa admits entering by falsely claiming Ragcraft ordered dream service (P316–320): the successful bluff is not his actual service instruction. The layered guards, keys, institution and ward give the office concrete coercive resources, but escape with Lolisa/Zesta/Dust defeats them; no personal Ragcraft fight here. Zesta's attack on a fleeing female devil is coercive and harms her clothing; she escapes (P365–375), not a completed sexual act or actual death. The above-ground soldiers who later arrest Dust are not automatically the demons below (P470–480)."
+    },
+    {
+      "scope": "DUST04 U014/item/xhtml/p-006 complete P1–441: aftermath and distinct Levi agency",
+      "judgment": "Dust is later told Ragcraft has already been destroyed by Iris (P8–13), an attributed fate report beyond MAIN10's black-liquid aftermath, not a witnessed execution by Dust. Levi apologizes for Ragcraft's detention, distinguishes Dust's real lesser offense, returns the property and promises release after a new matter (P32–40). His separate threats against Lolisa and confinement of Dust's companions are actual/offered coercion (P60–91/147), not Ragcraft issuing orders after death. Dust and Lolisa fabricate a sexual-debt-abuse story about Levi to their friends (P187–203); their later judgments and sexual-slavery condition (P208–211) are therefore not independent evidence that Levi performed those invented acts. The gambling outcome/Levi's admission of cheating (P418) and actual release (P430) are distinct from Dust's earlier inference of method (P258–264/363); exact marked-card mechanics stay conjectural. Levi's claim he always meant to release her is his own retrospective claim, not proof the earlier threat imposed no pressure. His child status is preserved without inventing sexual contact. These substantive Levi/guard/prosecutor/casino/old-patron leads are retained for later individual review, not automatically added to C28's named six or promoted without full joins."
+    },
+    {
+      "scope": "DUST04 U016/item/xhtml/p-008 complete24P creator afterword",
+      "judgment": "The creator explicitly says the volume offers an outside view of K's party (P5) and speculates Elroad might decline without Ragcraft (P15). This is a modal author comment, not an observed later national collapse or an independently tested counterfactual administrative claim. The later cross-edition overlap is not a second independent empirical observation. All new access in this batch is bounded known-source BASE context; original full-text/ruby admissions and images are unchanged."
+    },
+    {
+      "scope": "MASK U015/text/part0013 complete518P: Alderp and public assumptions",
+      "judgment": "Rain reports Alderp disappeared and Dustiness now governs well (P139–145); Vanir's own narration adds that the former lord was taken to hell (P145), a later retrospective assertion by an involved actor, beyond the uncompleted transfer of MAIN07 I. This remains an access distinction, not a fresh watched transport. The unnamed household consultant at P47 is not explicitly Hagen; the household/common-role resemblance is insufficient for a name join. Vanir's rationalizations, child-royal choices and royal subordinates' errors retain their prior scopes; no new SI-C01 test or frozen-model revision is created by rereading."
+    },
+    {
+      "scope": "MASK U015 P250–324: Aulip attribution and coercion",
+      "judgment": "Aulip/アウリープ is introduced by a retainer as a retired baron who formerly managed the town's finances (P250), while Rain later supplies a probable Alderp-relative relation, suspected wrongdoing and inferred despair about investigation (P293): kinship and accusations are her qualified report, not witnessed birth relation or adjudicated guilt. The monetary/sexual offer and claims of great fortune are spoken by the RETAINER (P258–263), not Aulip directly; do not move every line to the baron. The unnamed woman actually asks practical benefits, rejects the offer and leaves (P256–268); her refusal is agency, not proof no coercion is attempted or that every woman would consent at a higher price. The retainer's surprise and subsequent high-handed identity inquiry (P271–277) are separate conduct. Aulip himself kicks the retainer, demands the pair identified and threatens cruel execution (P288–290). When his knights bring an urgent summons he turns pale and orders a false illness excuse/withdrawal (P297–305), then orders a street-magic show of force against bystanders obstructing him (P306–314). He can switch from claimed authority to avoidance under superior institutional risk; no performed execution is shown. The knights question the order, then actually cast upward (P312–324), not into civilians. Preserve uncertainty about each knight/servant's identity and don't claim the retainer controls the lord or all institutional voices are his own."
+    },
+    {
+      "scope": "MASK U015 P327–414: resistance, defeat and exposure limits",
+      "judgment": "The adventurers are unmoved by the upward Fireball and taunt the entourage; knights later draw swords (P329–345), but no civilian wound is shown. Vanir's fight is retrospectively described as injuring but not killing the knights (P388–391); that is his self-report alongside Claire/Rain's shocked recollections, not a directly watched full battle or costless rescue. Aulip's pale trembling is observed by Vanir, who infers recognition of Iris/Claire and future silence under capital risk (P399–402); exact knowledge and legal outcome are not directly confirmed. Iris reports Aulip ran into the police station for protection (P406), not an actual arrest or completed conviction witnessed by Vanir in this scene. His official dominance, humiliating loss of compliance and dependence on the police belong in the same account. This rich but bounded single sequence does not by itself establish a stable cross-domain generative model; no tier chosen yet. Other incidental women, retainer, obstructing adventurers and knights stay source-bound candidates pending census joins."
+    },
+    {
+      "scope": "YORI04 U012/item/xhtml/p-003 complete546P: Hagen, Ignis and Alderp references",
+      "judgment": "The text directly identifies the visitor as old Dustiness butler Hagen (P6), who thanks Aqua for what becomes hot water, raises Megumin's use of household maids and asks K to help Darkness (P9/19–25). His stated selection criteria are trust, responsibility and resilience under important confidential decisions, reported by K (P47–49), not proof K meets them in all cases. He later publicly warns Darkness that the stimulant is intended for potency and was overused (P78–82); the half-spoken result is not a clinical diagnosis or a watched sexual act. His support of the young mistress coexists embarrassing disclosure, extending earlier MAIN05 insulting service rather than an unbroken tact trait. Ignis's recovered military expedition on royal request is narration (P12–15), and the officials' later efficiency comparison is their report (P445), not a newly observed campaign or proof he handles every crisis flawlessly. Alderp occurs as a mocking married-name comparison (P182), a remembered one-way bath comparison (P270), and Darkness's partial empathy for taxation under budget stress (P359); none is a new Alderp act or objective exoneration of his conduct. K/party governance proposals and induced signature attempt have self-serving and coercive elements; no frozen principal successor or evaluation gain is silently claimed. The researchers/officials/maids are useful source-bound work roles to retain, not automatically one composite mind or named people."
+    },
+    {
+      "scope": "YORI04 U020/item/xhtml/p-011 complete541P: Ignis identity and household limits",
+      "judgment": "Narration explicitly gives full name/title ダスティネス・フォード・イグニス公爵 as Darkness's father (P10–18), joining MAIN06's earlier name and MAIN03/07's father scenes by direct relation rather than a generic noble-father description. He returns with soldiers and responds to acclaim, but the return alone does not display every prior battle. His restored major-noble confidence coexists actual near-crushing by his daughter, pain and request for release (P19–27), not invulnerability. He accepts responsibility for insufficient training before assigning complete governance, praises her effort and says he needs rest before work (P31–35): explicit capacity and preparation limits. His initially steady response to conventional threats shifts to a coercive summons at the report of her Axis conversion (P44–58), which is later qualified as temporary doctrinal avoidance rather than actual conversion (P70). That personal pressure point is distinct from his public competence. K's belief Ignis immediately learned everything and fear of execution are narrator inferences (P69–72), not actual universal intelligence or pronounced death sentence."
+    },
+    {
+      "scope": "YORI04 U020 P62–157: administrative coercion and specific assignments",
+      "judgment": "Ignis requires K's continuing assistance under intimidating presence; K's acquiescence is not free preference (P67–72). He acknowledges both locals' and veterans' grievances but orders remedial work, promises household-funded rewards while issuing veiled consequences (P76–83). He counters Vanir/Aqua with threatened institutional renaming and a devil governor (P88–100); opponents fall silent, but neither act is actually carried out here and no unconditional legal ability is established. He assigns clerics their domain-specific undead work for amnesty, sends veterans to locusts with frog bait and Yunyun's weather/area spells, and assigns the party the flying monsters (P101–157). The veterans' fear, Yunyun's consent under hierarchy and Angie's concern for supposed weaker novices remain their independent reactions. Ignis's assurance no one will be missing is a prediction; later actual death/revival cannot be erased by the narrator's 'does not count' language."
+    },
+    {
+      "scope": "YORI04 U020 P187–396: exposure, adaptation and contrary behavior",
+      "judgment": "Ignis actually joins the dangerous cleanup in armor, saying he will not offload everything, and asks K for a plan (P190–206). He accepts a partial strategy and offers himself/Vanir as fallback while rejecting legitimization of the troublesome scroll trade (P245–249); his own observation of the annoying night flashes is reported reason. Parental pride distracts him at a serious moment: he debates watching/helping and wishes he had a camera as Darkness faces the dive (P309–311), contrary to perfect tactical priority. After the first binding is too short, he throws a spear, physically bridges wire and gate, and holds the monster under strain while offering extra reward (P333–347). This is demonstrated skilled, adaptive and costly action, not an unlimited administrative buff. His daughter's pleasure at his peril makes him question his upbringing (P348–351). When Vanir/Darkness reverse the expected possession/control roles, Ignis openly shows shock and confusion about how to act as father/duke (P367–382), not immediate comprehension of every supernatural relation. An adventurer is actually trampled and later reported revived (P352–357/477); universal survival is qualified, not a clean no-harm success. The final kill is collaborative, with other actors' distinct work preserved."
+    },
+    {
+      "scope": "YORI04 U020 P398–541: settlement, costs and unfinished outcomes",
+      "judgment": "After the fighting Ignis announces blanket non-prosecution for remedial service, then answers bounty objections with specific window damage (20 million Eris), shop repairs and treatment costs roughly offsetting the monster reward (P433–447). That is his presented estimate/settlement basis, not an independently audited account or evidence the earlier promise never happened. His explanation that flashing lights attract the creatures is his account (P449–450), distinct from the party's earlier assumptions. His angry final reference to household poverty and threats of blows coexist an earlier reward-funded mobilization; do not smooth them into disinterested soft leadership or Alderp-identical exploitation. Other characters' assessments and later complaints are not Ignis speeches. Chris's letter/absolution, Angie's departure, the party's boasts and future model-transfer/synthesis implications remain separate access planes; no new SI/SY nulls, principal scores, independent tests or original forecasts are changed."
+    },
+    {
+      "scope": "YORI04 U016/item/xhtml/p-007 P351–510",
+      "judgment": "Vanir reports the recently human-summoned friend Maxwell is now well in hell (P449), a later attributed location/outcome beyond MAIN07's prospective transfer; not a fresh Maxwell appearance or observed ongoing treatment of Alderp. K then vaguely recalls a real-world-sounding memory-erasure story (P450–451), explicitly his uncertain lore association, not a physics proof, native magical death condition or method tested on Maxwell. The succubus's panic/jealousy and Vanir's unconcern describe different interests; a human's assumption about upper devils' sex is qualified by their transcending shape/sex rather than establishing all lower forms identical (P428–432). No actual summoning of Maxwell or independent test occurs in this bounded window."
+    },
+    {
+      "scope": "DUST03 U011/item/xhtml/p-003 P1–160; U013/item/xhtml/p-005 P1–150; DUST05 U010/item/xhtml/p-002 P421–551",
+      "judgment": "DUST03 U011 P66–69 is Dust's recalled judgment of Alderp's body, coercive marriage scheme and reported confiscation/disappearance. U013 P48 is Leen's negative comparison, P59 an anonymous adventurer's comparison and P61 Dust's generalized explanation of low noble authority, not three new Alderp acts. DUST05 P483 again names his disappearance and successor family in retrospective narration, not current presence. The adjoining remembered dragon-knight princess in DUST05 is a separate person from Darkness/Iris; no familial join from generic princess language. The later Serena encounter in the same bounded window adds no new independent C27 trial and cannot alter its frozen artifacts/firsts. These checks resolve literal references without claiming full-volume or full chapter rereads."
+    },
+    {
+      "scope": "CONTEXP01 U019/item/xhtml/p-010 P351–480; U021/item/xhtml/p-012 P111–280",
+      "judgment": "U019 has Megumin focalization: Chris reports Alderp as earlier owner of the summoning object (P412) and the stolen lake seal history (P400–408); possible unwanted monsters being released by a later unknown owner is conjecture (P411), not an Alderp action. U021 shifts to K: the earlier ownership/Chris recovery is retold (P161–165), while the proposed Karen connection remains a hypothesis and is noted to have a timing mismatch (P168–171). Karen's actual praise of profit under Alderp and taunt about Darkness's debt/marriage/abandonment are her utterances (P219–222), not an authoritative fate account or Alderp confession. Her own loan terms, entitlement and conflict with Darkness remain separate agency; no automatic join to the unrelated MASK Karen. The main/supplement retellings are not independent repetitions of the original events. The group’s earlier intimidation/raid fantasies and Karen’s conduct do not validate one another’s allegations."
+    },
+    {
+      "scope": "DUST-CONT U012/item/xhtml/p-004 P91–210",
+      "judgment": "The raw filename contains the native p-004 shorthand, but accepted component identity is DUST-CONT-U012, explicitly supplied by its header and register. Dust mentions a rumor Alderp contracted with a devil (P141) while considering several live Doreck explanations. This is neither Dust witnessing the original contract nor proof Doreck/another chancellor is Ragcraft or Alderp. In the same exchange his earlier devil-contract incident during dragon-knight service is an unjoined recollection (P139), so do not conflate that unnamed earlier noble with Alderp. Doreck's altered health/character and disappearances are multi-layer reports; the party proposes possession, impersonation and pact alternatives (P131–138). These remain future Doreck/source-bound follow-up material rather than new C28 identity facts."
+    }
+  ],
+  "routed_resources": 43,
+  "routed_literal_hit_paragraphs": 560,
+  "routed_term_hits": 591,
+  "all_routed_hit_paragraphs_received": true,
+  "qualifications": [
+    "Literal routing and interval coverage are not exhaustive alias,anonymous-role,image or population coverage.",
+    "Maks/マクス explicitly joined to Maxwell by Vanir MAIN07 I P73-80; no actual forbidden retrieval cast is shown.",
+    "Balter is Alderp son by named introduction and family account; MAIN06 selected-child report does not prove biological or formal adoption status. Ignis is Darkness father through MAIN06 name and YORI04 full name.",
+    "Aulip retainer makes the monetary mistress offer MASKU015P258-263. Aulip kicks the retainer and threatens P288-289; the historical row27 offer wording requires explicit correction.",
+    "Elroad roulette dealer and casino manager are distinct role occurrences MAIN10C5P283/P300. Do not merge them.",
+    "Hagen name/household joins MAIN05Ep,MAIN07C5,YORI04U012; wedding guard and Norris remain unjoined to him and one another.",
+    "MAIN16p004 is accepted C2/start. DUST-CONT p004 is U012; raw label U004 is only filename shorthand.",
+    "Vanir claims,Darkness debt history,retrospections,body-theft plans,reported fate and creator counterfactuals retain their own planes.",
+    "Whole BASE members do not add whole-source,ruby,residual,image-set,admission or independent-validation credit."
+  ],
+  "new_whole_source_ruby_residual_image_set_admission_or_independent_validation_credit": 0,
+  "new_actual_image_views": 0,
+  "independent_observation_count": null,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "raw_primary_source_text_in_this_file": false,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}

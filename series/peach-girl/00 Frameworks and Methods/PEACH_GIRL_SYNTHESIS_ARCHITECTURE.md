@@ -5,14 +5,14 @@ artifact_type: synthesis_architecture
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.1"
+version: "0.6"
 status: active_provisional
 scope: "Cumulative responsibilities, specialist dependencies, reconstruction and completion gates"
-source_boundary: "Original Japanese manga; 新装版 V01–V18 candidate witnesses; zero narrative coverage"
+source_boundary: "Verified original Japanese manga V01–V18 already admitted; independent second-pass source and scoped semantic review complete; no new narrative admission"
 canonical_home: series/peach-girl/00 Frameworks and Methods/PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md
 created: "2026-10-16"
-architecture_lifecycle: INITIAL
-review_status: OWNER_BOOTSTRAP_AUDIT_PENDING
+architecture_lifecycle: STABILIZED
+review_status: SECOND_PASS_SCOPED_SEMANTIC_REVIEW_PASSED_OWNER_ACCEPTANCE_PENDING
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -124,4 +124,101 @@ Review architecture after the first meaningful closed tranche, recurring unrepre
 
 Mutable homes are the entrypoint, source-admission map, method/architecture and cumulative ledgers, maintained by targeted edits. Prospective freezes, accepted checkpoints and release manifests preserve their exact historical state. Later errata or successor versions remain discoverable. Start retrieval at the entrypoint, then source map and governing pair, then relevant ledger/last freeze, reading and primary witness. Do not reconstruct permission or authority from an old chat.
 
-Revision history: 0.1 — INITIAL owner-audit candidate, 2026-10-16 UTC; four justified instruments and reconstruction contract specified; no findings.
+Revision history: 0.1 — INITIAL owner-audit candidate, 2026-10-16 UTC; four justified instruments and reconstruction contract specified; no findings. Review status updated 2026-10-16 UTC after owner execution authorization; content unchanged. The run's single-operator CLOUD_ONLY arrangement is recorded in the initiation record.
+
+
+## Amendment0.2 — post-sequential responsibility audit,2026-10-20
+
+The original INITIAL specification above is historical bootstrap language. Current lifecycle EVOLVING follows the actual [G1/G2 review](../07%20Audits%20and%20Handoffs/PEACH_GIRL_G1_G2_LONGITUDINAL_RECONCILIATION.md), not elapsed time. G1 closes for inherited audited V01–V04 plus new full V05–V18; G2 closes for four histories/current projections. G3–G6 remain pending here.
+
+Evidence warrants separate Momo/Kairi/Tōji/Sae monographs, a scoped Misao/Ryo/supporting-cast study, directional dyadic/ensemble work, and distinct information/reputation, agency/repair and manga/Japanese-form specialists. No new ledger: existing event/knowledge/readings already cover chronology, agency, speech and form. Uneven evidence limits supporting subjects rather than forcing identical coverage.
+
+The present owner recovery brief expressly authorizes G4 assessment and actual testing. It supersedes the bootstrap's no-construction authorization statement for this new run; all evidentiary constraints remain. No genuinely held-out original source remains after full exposure. Freeze any rule set before testing; disclose retrospective design, alternatives, failure and abstention. Operational portability cannot be declared validated from retrospective fit. G4 may remain BLOCKED_NO_HELD_OUT_VALIDATION while a truthful literary scope proceeds.
+
+One source-capable operator continues; no independent blind reviewers or agents are commissioned. Mature synthesis begins only after this audit commit. Full-series convergence follows G3/G4 dispositions; repeat role-gap audit at G6. No adaptation/sequel/source promotion/global registry write is admitted.
+
+
+## Amendment0.3 — converged literary scope and model debt,2026-10-20
+
+The [G5 decision](../07%20Audits%20and%20Handoffs/PEACH_GIRL_G5_CONVERGENCE_AND_ROLE_GAP_DECISION.md) repeats the role-gap review after9 G3 studies and actual G4 testing. No new ledger/specialist is mandatory for the original literary scope. [Full-series synthesis](../05%20Synthesis/PEACH_GIRL_FULL_ORIGINAL_SERIES_SYNTHESIS.md) integrates causal, social, romantic, reputational, structural and visualarguments while keeping competingendingreadings.
+
+G1/G2 CLOSED/compositeprovenance;G3 CLOSED_scopedliterary;G4 assessment/testsperformed but operationalacceptanceBLOCKED_NO_HELD_OUT_VALIDATION/no fullmodelprogramcompletion;G5 CLOSED_scopedliterary;G6 localchecks/packagepending/externalintegrationandownerreleaseunperformed. Lifecycle remains EVOLVING untilfinalvalidation; no automaticreleaseFROZEN or acceptance.
+
+
+## Amendment0.4 — verified local literary architecture,2026-10-20
+
+The [G6 local audit](../07%20Audits%20and%20Handoffs/PEACH_GIRL_G6_LOCAL_VERIFICATION_AND_LIMITS.md) records actualsource/corpus/dependency/freeze checks and repeatedrole-gapreview. Lifecycle STABILIZED applies to this completedoriginal-mangaliteraryorganization:18readings/4ledgers/9G3studies/G4assessment/G5convergence. No furthermandatoryledger/specialist isidentified. This is not releaseFROZEN or owneracceptance.
+
+G4operationalacceptance remainsBLOCKED_NO_HELD_OUT_VALIDATION; modelprogramincomplete. G6localpackageproof is generatedafterfinalcommit; fullG6externalintegration/remoteaudit/evidencepromotion/ownerrelease remainUNPERFORMED. Historicalbootstrap and amendmentgate statements above retain their dates; currentdispositions arethisamendment/entrypoint/G6audit. No new narrativeadmission or historicalfreezeedit.
+
+## Amendment 0.5 — independent second-pass responsibilities, 2026-10-23
+
+The owner-authorized independent second pass applies method 0.3 to already admitted V01–V18. Historical bootstrap and amendments 0.2–0.4 retain their actual judgments and dates. The architecture is now EVOLVING for this explicit reassessment; this does not assert an analytical defect before source review or erase the earlier STABILIZED literary organization. The [second-pass audit](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_AUDIT_20261023.md) records new evidence and decisions. Source admission remains complete with no new candidate; no historical sequential reading or prospective freeze is rewritten.
+
+### Evidence ownership and downstream sequence
+
+The method's all-volume Pass A completion receipt precedes systematic Pass B comparison. Finalized source-first notes and their recoverable private locations stay outside public Git; sanitized per-volume coverage, note hashes, exposure and capability limitations belong in the second-pass audit. Source identities/checksums remain owned by the source map and its verification receipts; the audit identifies the exact snapshot checked. Private notes are preliminary independent work, not competing canonical volume readings.
+
+The audit owns attributable findings, material new `PG-SA2-VNN-####` observations, errata and the navigable reading-to-correction route. Existing `PG-EV` observations remain in their original readings. Each supplemental observation links to the original frozen reading/exit and exact witness/locator through the audit route, without changing original bytes. The four existing ledgers continue to own domain histories/current states and claim revisions. Monographs, relationship studies and specialists continue to own their established arguments; the audit routes corrective obligations to them and does not duplicate their canonical conclusions.
+
+The second-pass dependency order is: finalized all-volume source-first receipts → volume comparison/findings → affected longitudinal and claim revisions → character/relationship and specialist deepening → second-pass G3 decision → reconstruction assessment with explicit limits → cross-specialist convergence → second-pass G5 decision → G6 verification/publication. Dependencies may require returning a changed central premise to its affected current homes before acceptance. Repeat the responsibility assessment at G5. Do not interpret this ordering as permission to postpone a material downstream correction beyond publication.
+
+### Source-to-synthesis depth and coverage matrix
+
+Maintain this review as a section of the existing second-pass audit, not a fifth longitudinal ledger. Assess each major character, directional relationship or ensemble responsibility, specialist responsibility and integrated synthesis responsibility against the actual reviewed content. A compact row may group related evidence only when its locators, developmental distinctions and disposition remain recoverable.
+
+| Required field | Review responsibility |
+| --- | --- |
+| Subject/question and canonical home/version | Name the existing artifact and section that owns the question; mark a missing home explicitly rather than infer adequacy from an inventory |
+| Consequential evidence and state route | Link original `PG-EV` or new `PG-SA2` observations, source locators, material ledger/claim versions and relevant temporal phases |
+| Analytical work required and inspected | Identify mechanism, development, directionality, knowledge, counterreading or formal distinction that the home must explain; identify the actual sections reviewed |
+| Integration disposition | Assign `INTEGRATED`, `INTENTIONALLY_OMITTED_WITH_JUSTIFICATION`, `LOST_THROUGH_COMPRESSION`, `MISINTERPRETED_OR_MISATTRIBUTED` or `UNCERTAIN_NOT_PROMOTED`, with reasons and contrary evidence |
+| Remedy and dependencies | Record expansion/correction in the current home, a justified separate responsibility only if needed, downstream affected artifacts, owner and completion evidence |
+| Remaining limits | Distinguish mandatory debt blocking the declared scope from optional enrichment and unsupported domains |
+
+Record source inspection, material observation coverage, explanatory depth, longitudinal character development, relationship reconstruction, specialist integration, behavioral reconstruction and validated portability as separate axes. Trace consequential evidence across phases and ordinary as well as crisis contexts; do not demand that every local scene be repeated in synthesis. An intentional omission needs an analytical reason, and an uncertain claim needs an explicit non-promotion disposition. Word count, document existence, a green repository check or agreement between agents does not establish semantic adequacy.
+
+### Separate role-gap decisions at G3 and G5
+
+For each reviewed responsibility, answer both questions independently:
+
+1. **Missing responsibility:** Does a consequential recurring question lack a canonical home? Identify the distinct question, distributed evidence, dependency and why an existing artifact cannot adequately own it before creating a new home.
+2. **Underdeveloped responsibility:** Does an existing home's actual explanation fail to preserve material evidence, developmental stages, decision mechanisms, directional differences, form or counterevidence? Expand or correct that home when its scope already encompasses the problem; insufficient depth alone does not justify another file.
+
+Also record unnecessary duplication and evidence stranded in readings or ledgers. A monograph or specialist's presence answers neither question. Preserve earlier G3/G5 decisions as dated historical evaluations, then issue an attributable linked successor/reassessment for the second pass with the exact reviewed corpus and unresolved obligations. Do not silently reuse a former closure as proof of current adequacy or declare a gap repaired before the relevant content is reviewed. The entrypoint must distinguish prior scoped closures from pending second-pass decisions.
+
+### Reconstruction maturity and canonical responsibilities
+
+| Artifact/maturity | Responsibility and limit |
+| --- | --- |
+| Literary character monograph | Explains evidenced development, motives, relationships, written language, form and thematic function; does not itself establish a behavioral simulation |
+| Source-grounded time-indexed reconstruction dossier | Organizes a character's evidenced states and context-sensitive behavioral mechanisms across meaningful cutoffs; may be substantially developed while validation is unavailable |
+| Executable categorical prototype | Implements a bounded frozen rule set and declared case domain; a handful of categories does not constitute comprehensive reconstruction or establish portability |
+| Validated operational model | Meets independent acceptance requirements for explicitly tested domains and temporal states, with genuine held-out evidence, failures, calibration or portability claims supported to the extent asserted |
+
+A dossier should make identity/continuity, source/evidence snapshot, temporal phases, knowledge and beliefs, competing goals, stable/contextual tendencies, decision mechanisms and errors, emotional/interpersonal responses, romantic/nonromantic behavior, social presentation and written speech, counterevidence, failure conditions, unsupported contexts, abstention reasons and scenario limits recoverable. Preserve contradictions and changing states rather than building one timeless personality. A character at a selected cutoff cannot use future facts known only to the auditor.
+
+Deepen the established character home where it can hold that responsibility clearly. A separate dossier requires a distinct source-grounded reconstruction responsibility and an entrypoint route; do not create it merely to increase artifact counts. Assess supporting subjects within their actual evidence limits, naming missing domains rather than forcing equal readiness. No new reconstruction specification or ledger is required by this amendment; the governing contract stays here.
+
+Retrospective rule testing can expose contradictions and overgeneralization, with frozen versions, failures and post-test revisions preserved, but full-outcome exposure prevents it from becoming held-out predictive validation. Existing G4 operational acceptance remains `BLOCKED_NO_HELD_OUT_VALIDATION` unless valid new independent evidence satisfies the existing acceptance contract. Dossier development, successful retrospective fit or a completed literary pass cannot remove that blocker. Do not claim calibrated reliability, conversational portability or acoustic voice from unvoiced manga, and do not write global reconstruction-capability records.
+
+### Second-pass completion boundary
+
+The new audit must report actual all-volume inspection and comparison coverage, significant agreements/corrections/omissions/compression, propagation state, source-to-synthesis dispositions, exposure limitations and remaining evidence/capability debts. G3/G5 semantic closure requires reviewed arguments and evidence of discharged responsibilities. G4 retains scoped readiness and the operational blocker. G6 separately requires historical-byte/source integrity, reconciled consequential claims, resolved mandatory debt, repository validation and the exact final-head remote audit under live publication controls. Prior gate decisions and a prior successful audit do not certify the revised head.
+
+The existing entrypoint remains the sole current retrieval surface and must identify governing versions, audit route, pending duties and actual publication state. Draft-to-Ready is conditional on completing the owner's mandatory audit and validation; preserve any independent owner hold and leave integration to its designated process. No new ledger, duplicate canonical synthesis, franchise source, frozen-byte change, global governance or registry change is authorized by this amendment.
+
+Revision history addendum: 0.5 — prospective independent second-pass responsibilities and EVOLVING reassessment, 2026-10-23 owner date; source-to-synthesis dispositions, separate G3/G5 gap questions and reconstruction maturity distinguished. Earlier closures remain historical; no new semantic closure, model acceptance or publication completion is claimed.
+
+
+## Amendment 0.6 — reviewed second-pass organization, 2026-10-24
+
+The [source-to-synthesis coverage and gate reassessment](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_COVERAGE_AND_GATE_REASSESSMENT_20261024.md) is a linked component of the existing second-pass audit, not a new ledger or competing synthesis. Root has reviewed the actual adopted arguments and accepted fresh G3/G5 PASS_SCOPED decisions for the original-manga literary responsibilities. Lifecycle STABILIZED now describes this reviewed organization; historical bootstrap and amendments retain their dates. Owner result acceptance and main integration remain pending.
+
+The four principal monographs are deepened in their existing homes. Misao and Ryō receive distinct monographs because care/partial authority and credibility/controlled exits require longitudinal explanation beyond their effects on the triangle. The ensemble retains bounded peers, helpers, households and strangers. The existing directional study owns both directions of seven requested dyads, additional Kairi–Sae and the Kairi–Misao–Ryō family structure. Existing information, agency and form specialists own recurring causal mechanisms; the single full-series synthesis converges their arguments. No fifth ledger or second integrated thesis is justified.
+
+Six separate time-indexed dossiers own a different question: what knowledge, competing goals, choices and exclusions are available at a selected inclusive scene cutoff? Their 69 selected states are not complete biographies or 69 predictive trials. The four principal dossiers propose 46 unexecuted retrospective consistency vectors; supporting dossiers have bounded state cards. Monographs explain development, while dossiers retrieve exact accessible states. Local RD0007–RD0012 assess them as BOUNDED_PROVISIONAL for manual literary retrieval, with explicit thinner domains and abstentions.
+
+The [new reconstruction reassessment](../04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SECOND_PASS_RECONSTRUCTION_REASSESSMENT_20261024.md) preserves original rules, cases, results, failures and forecast windows. G4 operational acceptance remains BLOCKED_NO_HELD_OUT_VALIDATION; Misao/Ryō executable policies remain NOT_PROPOSED. No new execution, held-out accuracy, conversational portability or acoustic voice is established.
+
+All18 already-admitted witnesses have independent attributed visual inspection and ordered reconciliation. Material source corrections, current ledger successors, mature dependencies and counterreadings are reconciled. G6 local/source/index verification and final remote exact-head publication remain separate requirements; their actual results belong in the audit and external commit/provider history. No source-admission frontier, original reading/freeze, global registry or governance rule changes. Conditional Ready submission is authorized only after those checks; merge remains outside this task.
