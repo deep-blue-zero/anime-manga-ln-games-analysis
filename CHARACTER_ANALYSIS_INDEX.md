@@ -2579,7 +2579,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed formation, developmental, ethical and recipient-conditioned analysis through Japanese V12, with V06.5/V08.5 only at their story-local placements; V12 is a dedicated current band (§16) overlaying the preserved V11 state. V08.5 private focalization and the V11/V12 private family retrospectives are treated as reader access, not as knowledge held by other characters. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
+  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed formation, developmental, ethical and recipient-conditioned analysis through Japanese V11, with V06.5/V08.5 only at their story-local placements; V08.5 private focalization and the V11 family retrospective are treated as reader access, not as knowledge held by other characters. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; V12, adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
   - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
   - [`reviewed-character-monograph` — Hinami Aoi reviewed character monograph](series/tomozaki/04%20Character%20Analysis/Hinami%20Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md)
@@ -2939,26 +2939,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Ikumi Mito dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_MITO_CHARACTER_MODEL.md) — **active provisional authority**
 
-### Inuyama Aoi
-
-- Entity ID: `yuru-camp:inuyama-aoi`
-- Entity aliases:
-  - 犬山あおい (ja, ORIGINAL_SCRIPT)
-
-#### Subject: Japanese manga
-
-- Analysis subject ID: `yuru-camp:inuyama-aoi@manga`
-- Series: `yuru-camp`
-- Continuity: `yuru-camp-manga`
-- Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `manga-v01-v19`: MANGA VOLUME 1–19 (inclusive); continuity `yuru-camp-manga`
-- Reviewed current evidence:
-  - [`reviewed-synthesis-document04-aoi` — Document04 shared character synthesis, §3 Inuyama Aoi (V01–V19)](series/yuru-camp/05%20Full-Series%20Synthesis/04_OGAKI_CHIAKI_INUYAMA_AOI_AND_SAITOU_ENA.md) — **active provisional authority**
-
 ### Iris
 
 - Entity ID: `konosuba:iris`
@@ -3031,13 +3011,13 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `tomozaki`
 - Continuity: `tomozaki-light-novel`
 - Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
+  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic and developmental interpretation in the provisional character study through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows the study's material episodes and stated evidence gaps; it does not assert uniform substantial analysis in every volume, mature synthesis, or later/adaptation coverage.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
-  - [`provisional-character-study` — Izumi Yuzu reviewed character monograph](series/tomozaki/04%20Character%20Analysis/Izumi%20Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md)
+  - [`provisional-character-study` — Izumi Yuzu provisional character study](series/tomozaki/04%20Character%20Analysis/Izumi%20Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md)
 
 ### Jean Kirstein
 
@@ -3204,49 +3184,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `juo-sena-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-12-juo-sena` — GKM CORE 12 JUO SENA](series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/12_JUO_SENA/GKM_CORE_12_JUO_SENA.md)
-
-### Kagamihara Nadeshiko
-
-- Entity ID: `yuru-camp:kagamihara-nadeshiko`
-- Entity aliases:
-  - 各務原なでしこ (ja, ORIGINAL_SCRIPT)
-
-#### Subject: Japanese manga
-
-- Analysis subject ID: `yuru-camp:kagamihara-nadeshiko@manga`
-- Series: `yuru-camp`
-- Continuity: `yuru-camp-manga`
-- Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `manga-v01-v19`: MANGA VOLUME 1–19 (inclusive); continuity `yuru-camp-manga`
-- Reviewed current evidence:
-  - [`reviewed-synthesis-document03` — Document03 provisional character synthesis (V01–V19)](series/yuru-camp/05%20Full-Series%20Synthesis/03_KAGAMIHARA_NADESHIKO_CHARACTER_VOICE_CURIOSITY_AND_HOSPITALITY.md) — **active provisional authority**
-
-### Kairi Okayasu
-
-- Entity ID: `peach-girl:okayasu-kairi`
-- Entity aliases:
-  - 岡安浬 (ja, ORIGINAL_SCRIPT) — Full name per the character ledger (PG-CHAR-0004).
-  - Okayasu Kairi (ja-latn, TRANSLITERATION) — Family-name-first order, per the character ledger.
-
-#### Subject: Japanese manga
-
-- Analysis subject ID: `peach-girl:okayasu-kairi@manga`
-- Series: `peach-girl`
-- Continuity: `peach-girl-manga`
-- Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `second-pass-monograph`: MANGA VOLUME: Reviewed longitudinal analysis across original Japanese V01–V18, concentrated on material episodes. Speech coverage is written Japanese interaction and address by recipient, not acoustic performance or a complete conversational voice. Sequels, related manga and adaptations are excluded.; continuity `peach-girl-manga`
-  - `time-indexed-states`: MANGA VOLUME: Fourteen selected endpoint states from V01 to V18. Literary state retrieval at exact image cutoffs; its proposed challenge vectors are UNEXECUTED and it is not an executable or operationally accepted model.; continuity `peach-girl-manga`
-- Reviewed current evidence:
-  - [`second-pass-character-monograph` — Second-pass character monograph (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_KAIRI_MONOGRAPH.md) — **active provisional authority**
-  - [`time-indexed-literary-dossier` — Time-indexed literary dossier K01–K14 (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_KAIRI_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) — **active provisional authority**
 
 ### Kaiser director
 
@@ -3762,7 +3699,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references and the V07 Special Edition main novel only; V12 is a dedicated current band (§17) overlaying the preserved V11 state. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
+  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; later sources, adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
   - [`provisional-character-study` — Kikuchi Fuka reviewed character monograph](series/tomozaki/04%20Character%20Analysis/Kikuchi%20Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md)
 
@@ -4734,7 +4671,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed developmental, ethical and recipient-conditioned analysis through Japanese V12, with V06.5/V08.5 only at their story-local routes and the V07 Special Edition main novel only; V12 is a dedicated current band (§17) overlaying the preserved V11 state. The V08.5 parallel story and V07 art material are excluded. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
+  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed developmental, ethical and recipient-conditioned analysis through Japanese V11, with V06.5/V08.5 only at their story-local routes and the V07 Special Edition main novel only; the V08.5 parallel story and V07 art material are excluded. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; V12, adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
   - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
   - [`reviewed-character-monograph` — Nanami Minami (Mimimi) reviewed character monograph](series/tomozaki/04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md)
@@ -4825,30 +4762,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Misaki Nagisa dedicated analysis](series/chiramune/04%20Character%20Analysis/Misaki%20Nagisa/CHIRAMUNE_MISAKI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
-### Misao
-
-- Entity ID: `peach-girl:aki-misao`
-- Entity aliases:
-  - 安芸操 (ja, ORIGINAL_SCRIPT) — Full name from her V12 self-introduction, per the V12 reading and the monograph.
-  - 操ちゃん (ja, ORIGINAL_SCRIPT) — Kairi's familiar address, per the character ledger.
-  - Aki Misao (ja-latn, TRANSLITERATION) — Family-name-first order, per the V12 reading.
-
-#### Subject: Japanese manga
-
-- Analysis subject ID: `peach-girl:aki-misao@manga`
-- Series: `peach-girl`
-- Continuity: `peach-girl-manga`
-- Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `second-pass-monograph`: MANGA VOLUME: Reviewed analysis across original Japanese V01–V18 at the episodes where she acts (notably V01, V03, V06, V08–V09 and V11–V18), not uniform per-volume treatment. Speech coverage is written Japanese interaction and address by recipient, not acoustic performance or a complete conversational voice. Her unshown ordinary life and long-term aftermath remain unknown.; continuity `peach-girl-manga`
-  - `time-indexed-states`: MANGA VOLUME: Seven selected cutoffs from V06 to V18. Literary state retrieval at exact image cutoffs; its proposed challenge vectors are UNEXECUTED and it is not an executable or operationally accepted model.; continuity `peach-girl-manga`
-- Reviewed current evidence:
-  - [`second-pass-character-monograph` — Second-pass character monograph (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MISAO_MONOGRAPH.md) — **active provisional authority**
-  - [`time-indexed-literary-dossier` — Time-indexed literary dossier M-01–M-07 (V06–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MISAO_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) — **active provisional authority**
-
 ### Miyako
 
 - Entity ID: `blue-archive:miyako`
@@ -4925,9 +4838,9 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
+  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic and developmental interpretation in the provisional character study through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows the study's material episodes and stated evidence gaps; it does not assert uniform substantial analysis in every volume, mature synthesis, or later/adaptation coverage.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
-  - [`provisional-character-study` — Mizusawa Takahiro reviewed character monograph](series/tomozaki/04%20Character%20Analysis/Mizusawa%20Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md)
+  - [`provisional-character-study` — Mizusawa Takahiro provisional character study](series/tomozaki/04%20Character%20Analysis/Mizusawa%20Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md)
 
 ### Moe
 
@@ -4968,29 +4881,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Momiji Nozomi dedicated analysis](series/chiramune/04%20Character%20Analysis/Momiji%20Nozomi/CHIRAMUNE_MOMIJI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
-
-### Momo Adachi
-
-- Entity ID: `peach-girl:adachi-momo`
-- Entity aliases:
-  - 安達もも (ja, ORIGINAL_SCRIPT) — Full name per the character ledger (PG-CHAR-0001).
-  - Adachi Momo (ja-latn, TRANSLITERATION) — Family-name-first order, per the character ledger.
-
-#### Subject: Japanese manga
-
-- Analysis subject ID: `peach-girl:adachi-momo@manga`
-- Series: `peach-girl`
-- Continuity: `peach-girl-manga`
-- Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `second-pass-monograph`: MANGA VOLUME: Reviewed longitudinal analysis across original Japanese V01–V18 to the series end, concentrated on material episodes rather than uniform per-volume treatment. Speech coverage is written Japanese interaction and address by recipient, not acoustic performance or a complete conversational voice. Sequels, related manga and adaptations are excluded.; continuity `peach-girl-manga`
-  - `time-indexed-states`: MANGA VOLUME: Fourteen selected endpoint states from V01 to V18. Literary state retrieval at exact image cutoffs; its proposed challenge vectors are UNEXECUTED and it is not an executable or operationally accepted model.; continuity `peach-girl-manga`
-- Reviewed current evidence:
-  - [`second-pass-character-monograph` — Second-pass character monograph (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MOMO_MONOGRAPH.md) — **active provisional authority**
-  - [`time-indexed-literary-dossier` — Time-indexed literary dossier M01–M14 (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MOMO_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) — **active provisional authority**
 
 ### Momoi
 
@@ -5334,9 +5224,9 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
+  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic and developmental interpretation in the provisional character study through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows the study's material episodes and stated evidence gaps; it does not assert uniform substantial analysis in every volume, mature synthesis, or later/adaptation coverage.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
-  - [`provisional-character-study` — Natsubayashi Hanabi reviewed character monograph](series/tomozaki/04%20Character%20Analysis/Natsubayashi%20Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md)
+  - [`provisional-character-study` — Natsubayashi Hanabi provisional character study](series/tomozaki/04%20Character%20Analysis/Natsubayashi%20Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md)
 
 ### Nazuna Ayase
 
@@ -6052,29 +5942,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-character-ledger` — Ruka Sarashina longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Ruka%20Sarashina/RAG_RUKA_EVIDENCE_LEDGER.md)
 
-### Ryō
-
-- Entity ID: `peach-girl:okayasu-ryo`
-- Entity aliases:
-  - 岡安涼 (ja, ORIGINAL_SCRIPT) — Full name per the character ledger (PG-CHAR-0020).
-  - Okayasu Ryō (ja-latn, TRANSLITERATION) — Family-name-first order, per the character ledger.
-
-#### Subject: Japanese manga
-
-- Analysis subject ID: `peach-girl:okayasu-ryo@manga`
-- Series: `peach-girl`
-- Continuity: `peach-girl-manga`
-- Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `second-pass-monograph`: MANGA VOLUME: Reviewed analysis from the V08–V09 reported brother through V18; the identified present subject begins at V10. Speech coverage is written Japanese interaction and address by recipient, not acoustic performance or a complete conversational voice. Business scope, earlier relationships and the deceased Aki chronology remain unestablished.; continuity `peach-girl-manga`
-  - `time-indexed-states`: MANGA VOLUME: Nine selected cutoffs from V10 to V18, with V08–V18 phase intervals. Literary state retrieval at exact image cutoffs; its proposed challenge vectors are UNEXECUTED and it is not an executable or operationally accepted model.; continuity `peach-girl-manga`
-- Reviewed current evidence:
-  - [`second-pass-character-monograph` — Second-pass character monograph (V08–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RYO_MONOGRAPH.md) — **active provisional authority**
-  - [`time-indexed-literary-dossier` — Time-indexed literary dossier R-01–R-09 (V10–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RYO_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) — **active provisional authority**
-
 ### Ryūen Kakeru
 
 - Entity ID: `classroom-of-the-elite:ryuen-kakeru`
@@ -6094,29 +5961,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `year-2-individual-ledger`: LIGHT_NOVEL VOLUME: Bounded individual interpretation in the frozen Year 2/Second List character ledger: inherited Year 1 baseline and Japanese-primary Year 2 through Volume 12.5, with Volume 0 kept at its stated retrospective position. Second List is qualified documentary/measurement context, not a total character model. Current Year 3 successors were checked for routing; no Year 3 narrative or later-life coverage is enrolled.; continuity `classroom-of-the-elite-original-light-novels`
 - Reviewed current evidence:
   - [`year-2-rivals-ledger` — Year 2 rival-leader individual analysis](series/classroom-of-the-elite/03%20Year%202%20Definitive%20Second%20Pass/03%20Rolling%20Ledgers/COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y2.md)
-
-### Sae Kashiwagi
-
-- Entity ID: `peach-girl:kashiwagi-sae`
-- Entity aliases:
-  - 柏木沙絵 (ja, ORIGINAL_SCRIPT) — Full name per the character ledger (PG-CHAR-0003).
-  - Kashiwagi Sae (ja-latn, TRANSLITERATION) — Family-name-first order, per the character ledger.
-
-#### Subject: Japanese manga
-
-- Analysis subject ID: `peach-girl:kashiwagi-sae@manga`
-- Series: `peach-girl`
-- Continuity: `peach-girl-manga`
-- Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `second-pass-monograph`: MANGA VOLUME: Reviewed longitudinal analysis across original Japanese V01–V18, concentrated on material episodes. Speech coverage is written Japanese interaction and address by recipient, not acoustic performance or a complete conversational voice. Sequels, related manga and adaptations are excluded.; continuity `peach-girl-manga`
-  - `time-indexed-states`: MANGA VOLUME: Thirteen temporal state records from V01 to V18. Literary state retrieval at exact image cutoffs; its proposed challenge vectors are UNEXECUTED and it is not an executable or operationally accepted model.; continuity `peach-girl-manga`
-- Reviewed current evidence:
-  - [`second-pass-character-monograph` — Second-pass character monograph (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SAE_MONOGRAPH.md) — **active provisional authority**
-  - [`time-indexed-literary-dossier` — Time-indexed literary dossier S01–S13 (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SAE_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) — **active provisional authority**
 
 ### Saeki Haruko
 
@@ -6204,26 +6048,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`opm-character-model-readiness-index` — OPM CHARACTER MODEL READINESS INDEX](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`opm-relationship-state-ledger` — OPM RELATIONSHIP STATE LEDGER](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md)
   - [`opm-saitama-character-state-ledger` — OPM SAITAMA CHARACTER STATE LEDGER](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_SAITAMA_CHARACTER_STATE_LEDGER.md)
-
-### Saitō Ena
-
-- Entity ID: `yuru-camp:saito-ena`
-- Entity aliases:
-  - 斉藤恵那 (ja, ORIGINAL_SCRIPT)
-
-#### Subject: Japanese manga
-
-- Analysis subject ID: `yuru-camp:saito-ena@manga`
-- Series: `yuru-camp`
-- Continuity: `yuru-camp-manga`
-- Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `manga-v01-v19`: MANGA VOLUME 1–19 (inclusive); continuity `yuru-camp-manga`
-- Reviewed current evidence:
-  - [`reviewed-synthesis-document04-ena` — Document04 shared character synthesis, §4 Saitō Ena (V01–V19)](series/yuru-camp/05%20Full-Series%20Synthesis/04_OGAKI_CHIAKI_INUYAMA_AOI_AND_SAITOU_ENA.md) — **active provisional authority**
 
 ### Sakayanagi Arisu
 
@@ -6642,26 +6466,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Leo/need original-Japanese human-unit main-story foundation, leo_01_00–leo_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
   - [`reviewed-shared-synthesis` — Shiho analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
-
-### Shima Rin
-
-- Entity ID: `yuru-camp:shima-rin`
-- Entity aliases:
-  - 志摩リン (ja, ORIGINAL_SCRIPT)
-
-#### Subject: Japanese manga
-
-- Analysis subject ID: `yuru-camp:shima-rin@manga`
-- Series: `yuru-camp`
-- Continuity: `yuru-camp-manga`
-- Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `manga-v01-v19`: MANGA VOLUME 1–19 (inclusive); continuity `yuru-camp-manga`
-- Reviewed current evidence:
-  - [`reviewed-synthesis-document02` — Document02 provisional character synthesis (V01–V19)](series/yuru-camp/05%20Full-Series%20Synthesis/02_SHIMA_RIN_CHARACTER_VOICE_SOLITUDE_AND_RELATIONSHIPS.md) — **active provisional authority**
 
 ### Shinei Nouzen
 
@@ -7508,7 +7312,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed developmental, ethical and recipient-conditioned analysis through Japanese V12, with only the monograph's explicitly routed V06.5/V08.5 supplemental units at their story-local positions; V12 is a dedicated current band (§16) overlaying the preserved V11 argument. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations, parallel/VR bonus material and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
+  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed developmental, ethical and recipient-conditioned analysis through Japanese V11, with only the monograph's explicitly routed V06.5/V08.5 supplemental units at their story-local positions. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; later sources, adaptations, parallel/VR bonus material and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
   - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
   - [`reviewed-character-monograph` — Tomozaki Fumiya reviewed character monograph](series/tomozaki/04%20Character%20Analysis/Tomozaki%20Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md)
@@ -7677,31 +7481,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Twice / Bubaigawara Jin dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_TWICE_BUBAIGAWARA_JIN_CHARACTER_RECONSTRUCTION_MODEL.md)
-
-### Tōji
-
-- Entity ID: `peach-girl:tojigamori-kazuya`
-- Entity aliases:
-  - とーじ (ja, ORIGINAL_SCRIPT) — Momo's name for him, per the character ledger.
-  - カズヤ (ja, ORIGINAL_SCRIPT) — Given name as called at V01 i0065; its kanji is recorded only at MODERATE confidence and is not claimed.
-  - 東寺ヶ森 (ja, ORIGINAL_SCRIPT) — Surname, per the character ledger (PG-CHAR-0002).
-  - Tōjigamori (ja-latn, TRANSLITERATION) — Surname, per the character ledger.
-
-#### Subject: Japanese manga
-
-- Analysis subject ID: `peach-girl:tojigamori-kazuya@manga`
-- Series: `peach-girl`
-- Continuity: `peach-girl-manga`
-- Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `second-pass-monograph`: MANGA VOLUME: Reviewed longitudinal analysis across original Japanese V01–V18, densest on the Momo-directed romance; family, adult career and post-ending recovery are thin or absent. Speech coverage is written Japanese interaction and address by recipient, not acoustic performance or a complete conversational voice. Sequels, related manga and adaptations are excluded.; continuity `peach-girl-manga`
-  - `time-indexed-states`: MANGA VOLUME: Twelve temporal state records from V01 to V18. Literary state retrieval at exact image cutoffs; its proposed challenge vectors are UNEXECUTED and it is not an executable or operationally accepted model.; continuity `peach-girl-manga`
-- Reviewed current evidence:
-  - [`second-pass-character-monograph` — Second-pass character monograph (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_TOJI_MONOGRAPH.md) — **active provisional authority**
-  - [`time-indexed-literary-dossier` — Time-indexed literary dossier T01–T12 (V01–V18)](series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_TOJI_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md) — **active provisional authority**
 
 ### Umi
 
@@ -8324,26 +8103,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-scope`: LIGHT_NOVEL VOLUME: Japanese light-novel V06 and V08–V11 craft, instruction, disclosure, violence and care; V13–V15 collaboration, research, rescue and armor work.; continuity `light-novel`
 - Reviewed current evidence:
   - [`character-model` — Bounded character analysis through V15](series/mushoku-tensei/04%20Character%20Analysis/zanoba/RECONSTRUCTION_MODEL.md)
-
-### Ōgaki Chiaki
-
-- Entity ID: `yuru-camp:ogaki-chiaki`
-- Entity aliases:
-  - 大垣千明 (ja, ORIGINAL_SCRIPT)
-
-#### Subject: Japanese manga
-
-- Analysis subject ID: `yuru-camp:ogaki-chiaki@manga`
-- Series: `yuru-camp`
-- Continuity: `yuru-camp-manga`
-- Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `manga-v01-v19`: MANGA VOLUME 1–19 (inclusive); continuity `yuru-camp-manga`
-- Reviewed current evidence:
-  - [`reviewed-synthesis-document04-chiaki` — Document04 shared character synthesis, §2 Ōgaki Chiaki (V01–V19)](series/yuru-camp/05%20Full-Series%20Synthesis/04_OGAKI_CHIAKI_INUYAMA_AOI_AND_SAITOU_ENA.md) — **active provisional authority**
 
 ### ターシャ・ロマノフスキー
 
