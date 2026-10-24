@@ -2010,3 +2010,10 @@ Karen's カレンと申します at U021P28, 従業員に代わり at P54 and �
 Lucy names Regina and states a retaliation doctrine at MAIN11C3P525/533; the interested debt account at542, thanks at553 and angry departure at567–579 have different functions. The Princess’s accepted human label 安楽王女 and later selective accusations are written witnesses, not an audio persona. ビフランツ伯 remains the native count name, with English retrieval spelling qualified. The EXP01 coda’s 先日、逃げたそうですよ？ is explicitly hearsay under the existing Arue attribution. Ten English exercises do not certify Japanese or acoustic voice.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+マリス and セリス remain distinct written names; Maris and Selis/Celis are retrieval spellings. セリス is not mechanically collapsed with セシリー. The P895 first-person distinction identifies a correction act but does not itself fix personal gender,class or ownership of neighboring turns. No new Japanese or acoustic voice reconstruction is certified.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

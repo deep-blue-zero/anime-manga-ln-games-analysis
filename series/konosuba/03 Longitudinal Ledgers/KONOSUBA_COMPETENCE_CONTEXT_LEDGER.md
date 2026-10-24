@@ -1564,3 +1564,10 @@ Karen arranges work and pays for one kill, but two item uses are prevented and g
 Lucy’s persistence and resistance are locally represented; follower counts and Regina’s interventions remain attributed. The Princess’s selective detector-compatible speech is not proof of total innocence or unlimited competence. Money, praise and intimate offers fail; rooted dependence limits relocation. Upper-body destruction leaves roots requiring disposal. Biflantz’s recent battle is a report, not a measured feat. Serena’s divine-mechanics explanation, Kazuma’s conjecture and Aqua’s theory remain distinct from an observed Regina decision.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+MAIN07 reports Maris breaking Keith’s nose; DUST05 assigns the associated blow to Maris without newly certifying that injury. Selis’s reported joint violence and the current unnamed assailant’s punch are not a measured stable combat ability or certain personal join. The church visit does not complete the intended curse consultation.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

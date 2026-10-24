@@ -1209,3 +1209,10 @@ Karen Donnelly receives a twelve-dimension monograph and asymmetric three-rule p
 Lucy and the individual forest Princess receive separate twelve-dimension monographs and provisional two-rule models; Biflantz and Regina receive two compact profiles. Nine new sparse report/role/group records remain Tier 0. Aggregate parents 54/55 synchronize active routes to six already published EXP03 child profiles without new child credit; garden 76 receives only a distinct-plant route. Candidate totals: 55 models, 49 scoped secondary model subjects, 80 profiles, 27 monograph-only subjects and 329 nonfinal records. Seven entering rows change and 313 others remain exact per plane; records are not a disjoint-person denominator.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+Three compact profiles cover Maris,Selis and the unnamed P895 correction speaker. One new Tier 1 role record and two Tier 0 sparse role/report/group records append; the prior CONTEXP01 priest receives a route only. Candidate totals: 55 models,49 scoped secondary model subjects,83 compact profiles,27 monograph-only subjects and 332 nonfinal records. Three entering rows change,326 remain exact per plane,and nineteen older plane differences remain distinct. These are not certified disjoint people.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

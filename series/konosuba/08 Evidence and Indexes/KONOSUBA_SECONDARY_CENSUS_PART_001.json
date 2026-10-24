@@ -3222,7 +3222,21 @@
       ],
       "cohort34_semantic_receiving_sha256": "07ffd9fe83c86b5c5bd7597bcc8f618a972ccc09564b93a93c0929fe4abd8423",
       "cohort34_qualification": "Only active aggregate labels and pointers synchronize; prior three fields preserved, child rows/support/gate exact. No new EXP03 reading, profile, tier, model or group personality.",
-      "cohort34_gate_status_qualification": "The copied cohort09 publication_resolution.status names the shared cohort gate. Each referenced child retains its separately published Tier 1 compact profile; it does not assert a child Tier 3 promotion. Original child fields and gate bytes remain exact."
+      "cohort34_gate_status_qualification": "The copied cohort09 publication_resolution.status names the shared cohort gate. Each referenced child retains its separately published Tier 1 compact profile; it does not assert a child Tier 3 promotion. Original child fields and gate bytes remain exact.",
+      "cohort34_aggregate_route_publication_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_CLOSED_NO_NEW_CHILD_CREDIT",
+      "cohort34_publication_resolution": {
+        "source": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+        "tree": "ac9e6cc19cb9f85d7bf822a8a3fc640abfa4e1fa",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT34_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "1e77d6c70cf76efd2a41f41467673ec5504234eb31c11f303262215d5b8622cc",
+        "source_run": 40094359692,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Ain / Rod / Thomas / Jack",
@@ -3346,29 +3360,93 @@
       ],
       "cohort34_semantic_receiving_sha256": "07ffd9fe83c86b5c5bd7597bcc8f618a972ccc09564b93a93c0929fe4abd8423",
       "cohort34_qualification": "Only active aggregate labels and pointers synchronize; prior three fields preserved, child rows/support/gate exact. No new EXP03 reading, profile, tier, model or group personality.",
-      "cohort34_gate_status_qualification": "The copied cohort09 publication_resolution.status names the shared cohort gate. Each referenced child retains its separately published Tier 1 compact profile; it does not assert a child Tier 3 promotion. Original child fields and gate bytes remain exact."
+      "cohort34_gate_status_qualification": "The copied cohort09 publication_resolution.status names the shared cohort gate. Each referenced child retains its separately published Tier 1 compact profile; it does not assert a child Tier 3 promotion. Original child fields and gate bytes remain exact.",
+      "cohort34_aggregate_route_publication_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_CLOSED_NO_NEW_CHILD_CREDIT",
+      "cohort34_publication_resolution": {
+        "source": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+        "tree": "ac9e6cc19cb9f85d7bf822a8a3fc640abfa4e1fa",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT34_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "1e77d6c70cf76efd2a41f41467673ec5504234eb31c11f303262215d5b8622cc",
+        "source_run": 40094359692,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
-      "character": "Maris",
-      "identity": "マリス; not Eris",
-      "likely_tier": "0/1 reported named-actor lead; wider audit pending",
-      "priority": "Bounded identity clarification",
-      "evidence_distribution": "MAIN07 retained U013P60-67; Kazuma reports a harassment/retaliation anecdote while guessing Eris disguise, and Eris explicitly denies the guess.",
-      "substantive_responsibility": "Distinct priest identity and source-of-report boundary; no alias collapse or unobserved psychology.",
-      "gaps": "Wider lexical/native variants and recurrence remain unchecked. No standalone monograph/model earned by this reported appearance.",
-      "disposition_status": "DISCOVERED_REPORTED_ACTOR_NOT_FINAL_TIER",
-      "independent_observation_count": null
+      "character": "Maris / マリス",
+      "identity": "Named reported Eris priest in Kazuma’s failed MAIN07 identity guess; Eris denies being Maris. No join to the current DUST05 correction speaker or all unnamed church roles.",
+      "likely_tier": "1 scoped; compact reported-actor profile; exact publication pending",
+      "priority": "Cohort35 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "Complete current MAIN07U013/C2 P1–130, especially60–63/69; DUST05U011 P800–970, especially894–896. Complete MAIN07 principal/excluded analytical reports reviewed; all41 technical named retrieval is not absence proof.",
+      "substantive_responsibility": "Kazuma reports a consequential punch and Keith’s broken nose after Keith’s sexual/religious taunt. The DUST05 speaker explicitly assigns the associated blow to Maris rather than to self. Two textual accounts of one episode are not two assaults or independent eyewitness trials.",
+      "gaps": "No own directly heard Maris voice, established present church membership, private rationale, routine, uniform temper, wider policy or stable generative model. Injury detail comes from MAIN07; Keith’s taunt is not verified anatomy, faith measurement or law. No invented gender or all-turn ownership.",
+      "disposition_status": "COHORT35_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_cohort35_current_fields": {
+        "character": "Maris",
+        "identity": "マリス; not Eris",
+        "likely_tier": "0/1 reported named-actor lead; wider audit pending",
+        "evidence_distribution": "MAIN07 retained U013P60-67; Kazuma reports a harassment/retaliation anecdote while guessing Eris disguise, and Eris explicitly denies the guess.",
+        "substantive_responsibility": "Distinct priest identity and source-of-report boundary; no alias collapse or unobserved psychology.",
+        "gaps": "Wider lexical/native variants and recurrence remain unchecked. No standalone monograph/model earned by this reported appearance.",
+        "priority": "Bounded identity clarification",
+        "disposition_status": "DISCOVERED_REPORTED_ACTOR_NOT_FINAL_TIER"
+      },
+      "cohort35_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-35-main07-reported-actors-and-dust05-attribution-boundaries"
+      ],
+      "cohort35_semantic_receiving_sha256": "7e1b34feb012efee5cf6f6f6d98c013df23be3ce373afb5f87dca873e8964ec3",
+      "cohort35_scope_assessment": {
+        "row": 56,
+        "character": "Maris / マリス",
+        "tier": 1,
+        "compact_profile": true,
+        "reason": "Named consequential retaliation after a specific taunt, with two textual accounts of the same episode, supports a bounded reported-actor profile. No own voice or varied stable generator."
+      },
+      "cohort35_current_qualifications": "Current bounded report profile governs; earlier fields remain dated history. Names,attributed past events,current unnamed turns and inferred event links remain separate. No new monograph,model,diagnostic,independent result or permanent tier ceiling."
     },
     {
-      "character": "Selis / Celis retrieval variant",
-      "identity": "セリス; not Eris;not Cecilyセシリー",
-      "likely_tier": "0/1 reported named-actor lead; wider audit pending",
-      "priority": "Bounded identity clarification",
-      "evidence_distribution": "MAIN07 retained U013P60-67; Kazuma reports a harassment/retaliation anecdote while guessing Eris disguise, and Eris explicitly denies the guess.",
-      "substantive_responsibility": "Distinct priest identity and source-of-report boundary; no alias collapse or unobserved psychology.",
-      "gaps": "Wider lexical/native variants and recurrence remain unchecked. No standalone monograph/model earned by this reported appearance.",
-      "disposition_status": "DISCOVERED_REPORTED_ACTOR_NOT_FINAL_TIER",
-      "independent_observation_count": null
+      "character": "Selis / セリス (Celis retrieval variant)",
+      "identity": "Named second failed Eris guess, kept distinct from Maris; no supplied Cecily/セシリー alias bridge. MAIN07 establishes Eris affiliation, not an explicit individual priest class.",
+      "likely_tier": "1 scoped; compact reported-actor profile; exact publication pending",
+      "priority": "Cohort35 bounded semantic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "Complete current MAIN07U013/C2 P1–130, especially66–69; DUST05U011 P800–970, especially899–903. Complete MAIN07 principal/excluded analytical reports reviewed.",
+      "substantive_responsibility": "Kazuma reports Selis joining Darkness in beating Dust after his sexual/religious taunt and exposure demand. DUST05 repeats a closely corresponding grievance involving Darkness, but the present speaker is unnamed. This is a strong event link with a qualified personal-identity inference.",
+      "gaps": "No explicit Selis name for the current speaker, ownership of every present punch/doctrine/group act, certain individual priest class, own certified direct voice, wider relationship outcome or stable generator. Dust’s claimed lack of memory is not proof the episode never occurred; comic framing does not erase violence.",
+      "disposition_status": "COHORT35_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_cohort35_current_fields": {
+        "character": "Selis / Celis retrieval variant",
+        "identity": "セリス; not Eris;not Cecilyセシリー",
+        "likely_tier": "0/1 reported named-actor lead; wider audit pending",
+        "evidence_distribution": "MAIN07 retained U013P60-67; Kazuma reports a harassment/retaliation anecdote while guessing Eris disguise, and Eris explicitly denies the guess.",
+        "substantive_responsibility": "Distinct priest identity and source-of-report boundary; no alias collapse or unobserved psychology.",
+        "gaps": "Wider lexical/native variants and recurrence remain unchecked. No standalone monograph/model earned by this reported appearance.",
+        "priority": "Bounded identity clarification",
+        "disposition_status": "DISCOVERED_REPORTED_ACTOR_NOT_FINAL_TIER"
+      },
+      "cohort35_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-35-main07-reported-actors-and-dust05-attribution-boundaries"
+      ],
+      "cohort35_semantic_receiving_sha256": "7e1b34feb012efee5cf6f6f6d98c013df23be3ce373afb5f87dca873e8964ec3",
+      "cohort35_scope_assessment": {
+        "row": 57,
+        "character": "Selis / セリス (Celis retrieval variant)",
+        "tier": 1,
+        "compact_profile": true,
+        "reason": "Named joint response and relationship to Darkness are substantive report evidence. Later unnamed-priest event correspondence is strong but does not explicitly name Selis; priest class remains qualified."
+      },
+      "cohort35_current_qualifications": "Current bounded report profile governs; earlier fields remain dated history. Names,attributed past events,current unnamed turns and inferred event links remain separate. No new monograph,model,diagnostic,independent result or permanent tier ceiling."
     },
     {
       "character": "Aigis (sentient sacred armor)",
@@ -3851,12 +3929,12 @@
       }
     },
     {
-      "priority": "Cohort34 bounded semantic receiving complete; exact containing publication pending.",
-      "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "priority": "Cohort 34 bounded author publication complete; continuing full program.",
+      "disposition_status": "COHORT34_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "character": "ビフランツ伯 (Biflantz retrieval spelling)",
       "identity": "Count named in Darkness’s represented replies at MAIN11U021P38/49; distinct from the food-focused noble, two political interlocutors and later unnamed gift senders.",
-      "likely_tier": "1 scoped; compact mediated-interaction profile; exact publication pending",
+      "likely_tier": "1 scoped; compact mediated-interaction profile; exact-source author publication closed; scoped/nonfinal",
       "evidence_distribution": "Complete current MAIN11U021 electronic bonusP1–53 with base/ruby, especially29–49; entire accepted MAIN11 excluded deep reading reviewed.",
       "substantive_responsibility": "Courtly compliment and engagement query receive Darkness’s courtesy and assertion of a prior family refusal. Kazuma voices represented lip-reading; Aqua’s comic misreadings are her errors. A recent battle is reported, not witnessed.",
       "gaps": "No established personal receipt of the prior refusal, accepted engagement, private motive, demonstrated combat, conspiracy, gift-sender identity, repeated policy or separate generative model. English spelling is retrieval only.",
@@ -3884,15 +3962,33 @@
         "compact_profile": true,
         "reason": "Mediated courtly approach, familiar status and engagement query against repeated refusal support a narrow individual interaction profile; prior receipt, private motive and recurrence are insufficient for a monograph/model."
       },
-      "cohort34_current_qualifications": "Current C34 scope governs; prior fields remain dated history. Source-known provisional reconstruction/report profile with epistemic layers and original diagnostic defects retained; no independent grade, accuracy, confidence gain, final maturity or census closure."
+      "cohort34_current_qualifications": "Current C34 scope governs; prior fields remain dated history. Source-known provisional reconstruction/report profile with epistemic layers and original diagnostic defects retained; no independent grade, accuracy, confidence gain, final maturity or census closure.",
+      "prior_cohort34_publication_fields": {
+        "likely_tier": "1 scoped; compact mediated-interaction profile; exact publication pending",
+        "priority": "Cohort34 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort34_publication_resolution": {
+        "source": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+        "tree": "ac9e6cc19cb9f85d7bf822a8a3fc640abfa4e1fa",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT34_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "1e77d6c70cf76efd2a41f41467673ec5504234eb31c11f303262215d5b8622cc",
+        "source_run": 40094359692,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
-      "priority": "Cohort34 bounded semantic receiving complete; exact containing publication pending.",
-      "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "priority": "Cohort 34 bounded author publication complete; continuing full program.",
+      "disposition_status": "COHORT34_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "character": "Lucy / ルーシー",
       "identity": "Particular MAIN11 ghost and former priest associated with Regina; distinct from Luna, Serena and other ghosts. Apparent age is not verified age.",
-      "likely_tier": "3 scoped; twelve-dimension monograph and provisional two-rule model; exact publication pending",
+      "likely_tier": "3 scoped; twelve-dimension monograph and provisional two-rule model; exact-source author publication closed; scoped/nonfinal",
       "evidence_distribution": "Complete current MAIN11U014/C3P404–579 including ruby; full accepted MAIN11 principal/excluded deep readings; later named-regina recall at MAIN15C4P325–328, with bounded later contexts and one known EXP01 coda image qualified separately.",
       "substantive_responsibility": "Own unpaid-benefactor obligation, credibility question, accepted release claim, gratitude and actual fading support a local persistence/release hypothesis. Factional doctrine and angry retort after Aqua’s punch support qualified retaliatory dignity that accompanies departure. Family grievance and divine intervention remain Lucy’s testimony.",
       "gaps": "No established former couple/marriage or wish for renewed romance, verified recruitment census, directly watched Regina intervention, sole punch cause or known afterlife destination. Four original firsts/two dependent pairs retain archive-role underbinding and added registration imagery, source echo, generic duty/gratitude and overt courtesy/insult cues. No independent accuracy, grade, confidence gain, Japanese voice or completed final battery.",
@@ -3936,15 +4032,33 @@
         "provisional_rules": 2,
         "reason": "Explicit believed unfinished benefactor obligation, credibility query and actual release state change, reciprocal faith doctrine and enacted retaliatory farewell support two unequal provisional causal hypotheses; generic gratitude, religious duty and comedy rivals remain."
       },
-      "cohort34_current_qualifications": "Current C34 scope governs; prior fields remain dated history. Source-known provisional reconstruction/report profile with epistemic layers and original diagnostic defects retained; no independent grade, accuracy, confidence gain, final maturity or census closure."
+      "cohort34_current_qualifications": "Current C34 scope governs; prior fields remain dated history. Source-known provisional reconstruction/report profile with epistemic layers and original diagnostic defects retained; no independent grade, accuracy, confidence gain, final maturity or census closure.",
+      "prior_cohort34_publication_fields": {
+        "likely_tier": "3 scoped; twelve-dimension monograph and provisional two-rule model; exact publication pending",
+        "priority": "Cohort34 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort34_publication_resolution": {
+        "source": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+        "tree": "ac9e6cc19cb9f85d7bf822a8a3fc640abfa4e1fa",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT34_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "1e77d6c70cf76efd2a41f41467673ec5504234eb31c11f303262215d5b8622cc",
+        "source_run": 40094359692,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
-      "priority": "Cohort34 bounded semantic receiving complete; exact containing publication pending.",
-      "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "priority": "Cohort 34 bounded author publication complete; continuing full program.",
+      "disposition_status": "COHORT34_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "character": "Regina / レジーナ",
       "identity": "Named deity of puppetry and revenge, joined across Lucy/Serena references by explicit later Kazuma recall; neither follower is the goddess. Earlier EXP01 coda goddess is unnamed and its escape report hearsay.",
-      "likely_tier": "1 scoped; compact reported-deity profile; exact publication pending",
+      "likely_tier": "1 scoped; compact reported-deity profile; exact-source author publication closed; scoped/nonfinal",
       "evidence_distribution": "MAIN11C3P509–579; selected complete MAIN15C1–4 windows; DUST05U012P70–110, MAIN16U014P140–175/U016P250–410 and MAIN17U014P225–265; known EXP01-IMG025 fully viewed. All41 byte/name retrieval is technical.",
       "substantive_responsibility": "Distinct domains and attributed redress/release/favor/mechanics shape followers’ choices. Lucy’s gratitude, Serena’s reward account, Kazuma’s conjecture and Aqua’s allocation theory retain their speakers. Actual mirrored injuries constrain shown mechanics without identifying a divine decision for every outcome.",
       "gaps": "No own directly heard voice, verified exact follower chronology, proved recruitment prediction, complete moral policy or identified personal psychological generator. Yunyun’s refusal report is one event, limited acquaintance queries are not a census, later recaps are not new conversions, and Zesta’s threatened crime is not completion or divine permission. Reference frequency alone does not earn a monograph/model.",
@@ -3978,15 +4092,33 @@
         "compact_profile": true,
         "reason": "Distinct named deity and cross-source attributed histories/domains/mechanics justify a reported-reference profile; own direct psychology/voice and precise follower chronology remain unidentifiable in current evidence."
       },
-      "cohort34_current_qualifications": "Current C34 scope governs; prior fields remain dated history. Source-known provisional reconstruction/report profile with epistemic layers and original diagnostic defects retained; no independent grade, accuracy, confidence gain, final maturity or census closure."
+      "cohort34_current_qualifications": "Current C34 scope governs; prior fields remain dated history. Source-known provisional reconstruction/report profile with epistemic layers and original diagnostic defects retained; no independent grade, accuracy, confidence gain, final maturity or census closure.",
+      "prior_cohort34_publication_fields": {
+        "likely_tier": "1 scoped; compact reported-deity profile; exact publication pending",
+        "priority": "Cohort34 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort34_publication_resolution": {
+        "source": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+        "tree": "ac9e6cc19cb9f85d7bf822a8a3fc640abfa4e1fa",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT34_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "1e77d6c70cf76efd2a41f41467673ec5504234eb31c11f303262215d5b8622cc",
+        "source_run": 40094359692,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
-      "priority": "Cohort34 bounded semantic receiving complete; exact containing publication pending.",
-      "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "priority": "Cohort 34 bounded author publication complete; continuing full program.",
+      "disposition_status": "COHORT34_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "character": "安楽王女 (MAIN11 individual forest entity)",
       "identity": "Particular west-of-Axel rooted anthropomorphic forest Princess using the human designation; distinct from the earlier girl, DUST03 lake plant and MAIN13 garden individual.",
-      "likely_tier": "3 scoped; twelve-dimension monograph and provisional two-rule model; exact publication pending",
+      "likely_tier": "3 scoped; twelve-dimension monograph and provisional two-rule model; exact-source author publication closed; scoped/nonfinal",
       "evidence_distribution": "Complete current MAIN11U015/C4P1–530 with ruby; U016/F70–105; MAIN13U015/C4P200–340 distinct-plant context; complete accepted MAIN11 principal/excluded deep readings.",
       "substantive_responsibility": "Public/private presentation, detector-compatible selective truths, explicit scrutiny and returning witnesses support a bounded presentation hypothesis with audience/confrontation confounding. Rejected money/praise, threatened herbicide, rooted dependence, revised offers and actual distress support qualified adaptive bargaining. Care, visitor history, valuables and relocation remain attributed claims.",
       "gaps": "No all-visitors innocence/killing verdict, measured century age, unlimited wealth/free escape, fixed lever order or general bodily permission. Poisoning/spite constrain optimality without earning a padded third rule. Upper-body destruction and requested root disposal do not prove eradication/regrowth/immortality. Six original firsts/three dependent pairs retain initial-mask, finitude, unprovided past conversation, afternoon and map-position issues; no repair or independent full-constraint-clean, voice, accuracy or final-battery claim.",
@@ -4027,7 +4159,25 @@
         "provisional_rules": 2,
         "reason": "Observable public/private/precise-truth contrasts and sequentially revised survival offers permit two bounded conditional models. Retaliation under poisoning is retained as a countercondition, not padded into a third stable rule."
       },
-      "cohort34_current_qualifications": "Current C34 scope governs; prior fields remain dated history. Source-known provisional reconstruction/report profile with epistemic layers and original diagnostic defects retained; no independent grade, accuracy, confidence gain, final maturity or census closure."
+      "cohort34_current_qualifications": "Current C34 scope governs; prior fields remain dated history. Source-known provisional reconstruction/report profile with epistemic layers and original diagnostic defects retained; no independent grade, accuracy, confidence gain, final maturity or census closure.",
+      "prior_cohort34_publication_fields": {
+        "likely_tier": "3 scoped; twelve-dimension monograph and provisional two-rule model; exact publication pending",
+        "priority": "Cohort34 bounded semantic receiving complete; exact containing publication pending.",
+        "disposition_status": "COHORT34_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort34_publication_resolution": {
+        "source": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+        "tree": "ac9e6cc19cb9f85d7bf822a8a3fc640abfa4e1fa",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT34_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "1e77d6c70cf76efd2a41f41467673ec5504234eb31c11f303262215d5b8622cc",
+        "source_run": 40094359692,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "character": "Karen Donnelly / カレン (ドネリー家当主)",
@@ -4332,6 +4482,35 @@
       "prior_gap_history_working20": "Final incidental/limited-profile disposition after whole-corpus identity check. Do not transfer the forest entity's behavior or manufacture a plant model from others' reactions.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
       "cohort34_forest_identity_route": {
+        "status": "EXACT_SOURCE_FOREST_ROUTE_PUBLICATION_CLOSED_GARDEN_AUDIT_OPEN",
+        "related_row": 69,
+        "qualification": "The MAIN11 forest Princess has a separate monograph/model at C34. This MAIN13 garden individual remains distinct; every entering current field and prior support retained. No garden tier/profile/model promotion or new child-reading credit.",
+        "artifacts": [
+          "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md",
+          "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_NATIVE_PROVENANCE.json",
+          "series/konosuba/05 Specialist Synthesis/KONOSUBA_FOREST_TRANQUILITY_PRINCESS_CHARACTER_MONOGRAPH.md"
+        ],
+        "publication_resolution": {
+          "source": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+          "tree": "ac9e6cc19cb9f85d7bf822a8a3fc640abfa4e1fa",
+          "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT34_PUBLICATION_GATE_CLOSE.json",
+          "gate_sha256": "1e77d6c70cf76efd2a41f41467673ec5504234eb31c11f303262215d5b8622cc",
+          "source_run": 40094359692,
+          "full_discovered_tests": 459,
+          "current_models": 55,
+          "author_publication_tranche_complete": true,
+          "main_integration_not_certified_by_author_gate": true,
+          "no_independent_accuracy_grade_or_confidence_gain": true,
+          "separate_housekeeping_run": null
+        }
+      },
+      "cohort34_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_NATIVE_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_FOREST_TRANQUILITY_PRINCESS_CHARACTER_MONOGRAPH.md"
+      ],
+      "cohort34_semantic_receiving_sha256": "07ffd9fe83c86b5c5bd7597bcc8f618a972ccc09564b93a93c0929fe4abd8423",
+      "prior_cohort34_scope_route_before_publication": {
         "status": "FOREST_SUBJECT_RECEIVED_GARDEN_OWN_AUDIT_STILL_OPEN",
         "related_row": 69,
         "qualification": "The MAIN11 forest Princess has a separate monograph/model at C34. This MAIN13 garden individual remains distinct; every entering current field and prior support retained. No garden tier/profile/model promotion or new child-reading credit.",
@@ -4341,12 +4520,19 @@
           "series/konosuba/05 Specialist Synthesis/KONOSUBA_FOREST_TRANQUILITY_PRINCESS_CHARACTER_MONOGRAPH.md"
         ]
       },
-      "cohort34_artifacts": [
-        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md",
-        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN11_CAST_COHORT34_NATIVE_PROVENANCE.json",
-        "series/konosuba/05 Specialist Synthesis/KONOSUBA_FOREST_TRANQUILITY_PRINCESS_CHARACTER_MONOGRAPH.md"
-      ],
-      "cohort34_semantic_receiving_sha256": "07ffd9fe83c86b5c5bd7597bcc8f618a972ccc09564b93a93c0929fe4abd8423"
+      "cohort34_publication_resolution": {
+        "source": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+        "tree": "ac9e6cc19cb9f85d7bf822a8a3fc640abfa4e1fa",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT34_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "1e77d6c70cf76efd2a41f41467673ec5504234eb31c11f303262215d5b8622cc",
+        "source_run": 40094359692,
+        "full_discovered_tests": 459,
+        "current_models": 55,
+        "author_publication_tranche_complete": true,
+        "main_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "separate_housekeeping_run": null
+      }
     },
     {
       "priority": "Discovery",

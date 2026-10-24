@@ -2043,3 +2043,10 @@ Useful flattery changes into a class/wealth comparison; authority is invoked bef
 Lucy’s sharp farewell after being punched preserves dignity while the actual departure continues. It does not turn retaliatory faith into uniform pacifism or grant a new curse. The forest chapter’s detector loopholes, failed offers and returning-witness accusations are actual acts with stakes, while poisoned insults constrain purely optimal bargaining. In the bonus, Kazuma’s embarrassed voicing and Aqua’s comic misreadings belong to their performances, rather than proving Darkness’s preferences or Biflantz’s intentions.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+Repeated grievances, Dust’s defensive distinctions, frightening smiles and the failed church inquiry form the comic sequence. Reported and present violence retain their consequences. Fourfold displayed shouting is not an audited count of people, and the comedy supplies neither a uniform clerical personality nor proof that Dust’s memory denial is true.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

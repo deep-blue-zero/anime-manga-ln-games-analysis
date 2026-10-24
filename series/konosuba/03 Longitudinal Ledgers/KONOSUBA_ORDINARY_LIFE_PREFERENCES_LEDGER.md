@@ -1434,3 +1434,10 @@ Reception, tea/snacks, clothing, finance work and piece-rate pay give Karen mate
 Lucy’s credited gratitude extends to a wish that Regina remain available to other unfairly treated people. Her gift/rejection grievance and brother’s alleged loss stay testimony without a fabricated romance or exact accounts. The Princess invokes companionship, remembered possessions and care, alongside nutrient dependence and self-preserving offers; these claims neither prove universal kindness nor erase agency. A separate banquet noble’s favorite mushroom-stuffed dish is an ordinary preference, with no join to the count. The modern archive exercise underbinds administrative responsibility.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+The correction speaker’s local choice is to distinguish the actor of a reported blow and ask for continued recall. This does not establish a general preference, temperament or routine. Dust’s claim that he sought patronage from an older Eris believer shows an attempt; no accepted arrangement, payment or elder’s own preference is supplied.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

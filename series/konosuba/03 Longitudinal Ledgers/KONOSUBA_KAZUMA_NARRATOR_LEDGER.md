@@ -1480,3 +1480,10 @@ The CONTEXP01 final episode uses Kazuma's narration after an explicit post-Elroa
 Lucy’s personal-history/divine-redress testimony, Megumin’s release claim, her new-believer conjecture and Kazuma’s sincerity inference remain separate. The forest narrator’s device-based inference and later account of destroyed upper body do not establish every past visitor’s consent or completed root disposal. Kazuma represents the bonus lip-reading; no independent audio follows. His MAIN15C4P325–328 recall joins the named deity reference, while later power explanations and recaps do not retroactively establish Lucy’s knowledge or an audited follower chronology.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+MAIN07’s two anecdotes are embedded in Kazuma’s guesses about Eris’s terrestrial identity. DUST05 uses Dust’s focalization,self-serving accounts,direct untagged dialogue and aftermath report. The named Keith episode has two textual accounts of one event; source repetition is not independent eyewitness replication.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -2006,3 +2006,10 @@ Cohort 33 native provenance binds 1,151 actual contextual P/base/ruby slots plus
 Cohort 34 provenance binds 1,538 complete current contextual P slots with 1,396 inline ruby occurrences across thirteen members of six known EPUBs and 34 actual displays, plus one fully viewed known EXP01 coda image. Complete MAIN11 principal/excluded reports and MAIN15 erratum, alongside bounded MAIN15 principal sections, total 207,952 derivative characters in 26 displays. All 41 byte/name retrieval is technical, not alias absence or new complete-corpus reading. No new whole-source, globally unique paragraph, OCR, audio, human or independent credit follows.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+Current scope is MAIN07U013/C2 P1–130 and DUST05U011 item/xhtml/p-003.xhtml P800–970: 301 complete P slots with 240 inline ruby occurrences,two known EPUBs,two members and seven actual displays. Complete MAIN07 principal/excluded analytical reports total 74,791 characters in ten displays. DUST05 is bounded native review only. All 41 byte/name retrieval is technical; no new whole-source,globally unique,image,OCR,audio,human or independent credit follows.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

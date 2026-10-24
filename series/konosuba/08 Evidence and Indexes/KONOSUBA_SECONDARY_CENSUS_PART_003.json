@@ -713,7 +713,27 @@
         "monograph_only_subjects": 1,
         "independent_accuracy_or_confidence_gain": false,
         "full_program_complete": false
-      }
+      },
+      "cohort35_DUST05_identity_route": {
+        "status": "QUALIFIED_UNJOINED_SCENE_ROUTE_EARLIER_PROFILE_UNCHANGED",
+        "related_rows": [
+          57,
+          329,
+          330
+        ],
+        "qualification": "Possible overlap with unnamed DUST05 church roles/correction speaker remains open. Shared place/occupation establishes neither identity nor distinctness. All entering CONTEXP01 current fields,profile and support remain exact.",
+        "artifacts": [
+          "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md",
+          "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_NATIVE_PROVENANCE.json",
+          "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-35-main07-reported-actors-and-dust05-attribution-boundaries"
+        ]
+      },
+      "cohort35_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT35_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort35_semantic_receiving_sha256": "7e1b34feb012efee5cf6f6f6d98c013df23be3ce373afb5f87dca873e8964ec3"
     },
     {
       "character": "Unnamed Arcanretia Eris priest (CONTEXP02)",

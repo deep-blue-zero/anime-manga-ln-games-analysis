@@ -1887,3 +1887,10 @@ Karen varies between useful-hire courtesy, comparative rivalry, commercial defen
 Lucy’s accepted release information loosens an explicitly credited benefactor obligation before Aqua’s punch. Gratitude and a retaliatory winning exit coexist with departure. The particular forest Princess shifts public/private presentation and revises rejected offers under danger; real fear, unsuccessful persuasion and poisoned spite constrain the two-rule account. Biflantz has a mediated courtship interaction, and Regina a reported-deity profile. Six EXP03 child profiles already published remain exact; two aggregate parent labels are synchronized without duplicate credit.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+Maris and Selis earn separate compact profiles for consequential reported responses, with Kazuma’s retrospective access retained. The unnamed DUST05 P895 speaker earns a third bounded profile for a directly heard attribution correction and request for further recall. Other current church acts remain unassigned where turn/body mapping is unresolved.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

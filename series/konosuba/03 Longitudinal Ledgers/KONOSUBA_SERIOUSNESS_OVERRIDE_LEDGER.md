@@ -1357,3 +1357,10 @@ Actual fear, coercion, property loss, unwanted labor appeals and interrupted com
 Aqua actually punches a fading Lucy; the ghost’s sharp reply does not erase that harm or make it the sole release cause. The Princess experiences threat and actual poisoning; deception does not establish harmlessness, justify every act against her or prove every visitor was killed. Distress and post-poisoning spite constrain a stable-policy account. Zesta’s later sexual-crime proposal remains an unperformed threat with no divine permission inferred. Diagnostic trimming uses milder nonsexual stakes and supplies correspondingly weaker transfer evidence.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+Keith’s and Dust’s taunts are attributed sexual/religious harassment, not verified measures of bodies,faith or moral worth. Reported retaliation, an attempted blow,the actual face punch and Dust’s reported beating remain distinct acts. An improvised undead/dignity justification is not an Eris command or established permission.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

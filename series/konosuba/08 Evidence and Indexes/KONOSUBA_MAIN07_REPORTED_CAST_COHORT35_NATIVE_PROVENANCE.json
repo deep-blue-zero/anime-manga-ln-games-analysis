@@ -1,0 +1,433 @@
+{
+  "schema": "konosuba.cohort35.native-provenance.v1",
+  "recorded_utc": "2026-10-24T13:00:28.462635+00:00",
+  "source_known": true,
+  "starting_authority_sha256": "235fbbe85b2113789b00e5dac038368484b9b157c396d57da4e9c792b2b88c8a",
+  "local_entering_head": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+  "local_entering_tree": "ac9e6cc19cb9f85d7bf822a8a3fc640abfa4e1fa",
+  "latest_certified_source": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+  "current_main_at_start": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "prior_source_audit_not_transferred_to_new_candidate": true,
+  "local_native_source_bindings": [
+    {
+      "source_id": "DUST-05",
+      "bytes": 6713820,
+      "sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 18,
+      "opf_sha256": "0cac809dc983b3f483d24c802f96e208cd9c4795effc492847443a48e08db04d",
+      "fresh_crc": "PASS"
+    },
+    {
+      "source_id": "MAIN-07",
+      "bytes": 11201415,
+      "sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 27,
+      "opf_sha256": "337e510b49704bb01bc6cefc9dfbbe8aea2572d656212e6df4995f4aecf8436b",
+      "fresh_crc": "PASS"
+    }
+  ],
+  "all41_native_identity_retrieval": {
+    "file": "COHORT35_ALL41_NAMED_LEADS_01.json",
+    "bytes": 11703,
+    "sha256": "9b2f35e5150443cb8fa115176df086a1460e573af6c0aa4bbc41819edab9b0b0"
+  },
+  "all41_retrieval_qualification": "Fresh byte/literal name retrieval only, including English retrieval spellings; four paragraph leads acrossMAIN07/DUST05. No alias,image,nonparagraph or unnamed absence proof.",
+  "actual_unique_current_P": 301,
+  "actual_inline_ruby_occurrences": 240,
+  "per_source_unique_P": {
+    "MAIN-07": 130,
+    "DUST-05": 171
+  },
+  "objects_with_current_actual_P": 2,
+  "objects_with_any_current_actual_native_content": 2,
+  "selected_native_members": [
+    {
+      "file": "native-units01/DUST05U011.json",
+      "bytes": 432910,
+      "sha256": "5c25e526cbc19a02924ba54040f5820ef33bb9fb7d40ef74a2c4bb249ce5fb43",
+      "source_id": "DUST-05",
+      "component_id": "DUST05U011",
+      "accepted_alias": "member-defined context",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "2596ed757bd3504ff02786ad487d930c85f0d9b1073afb3d2dade10ae51cce78",
+      "native_member_bytes": 194254,
+      "paragraph_slots": 1344,
+      "planned_ranges": [
+        [
+          800,
+          970
+        ]
+      ],
+      "planned_unique_P": 171
+    },
+    {
+      "file": "native-units01/MAIN07U013.json",
+      "bytes": 180098,
+      "sha256": "4edf652307fd668bb2fbadd3d84e87f6944a054665039c5f2fbbc4ee39a0b953",
+      "source_id": "MAIN-07",
+      "component_id": "MAIN07U013",
+      "accepted_alias": "C2",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "061a3c2168d9f1d7e01c81b0fd081b4babaa7c97d455e4499029ad7e64126240",
+      "native_member_bytes": 84343,
+      "paragraph_slots": 540,
+      "planned_ranges": [
+        [
+          1,
+          130
+        ]
+      ],
+      "planned_unique_P": 130
+    }
+  ],
+  "actual_received_private_delivery_files": [
+    {
+      "page": 1,
+      "file": "native-review-pages01/001.txt",
+      "bytes": 6864,
+      "characters": 3278,
+      "sha256": "d2195fbd59a7c4e35f77d1b74eede13551ea2c46c6a36b205d9eb69a5d5e383e"
+    },
+    {
+      "page": 2,
+      "file": "native-review-pages01/002.txt",
+      "bytes": 7230,
+      "characters": 3346,
+      "sha256": "0a9e5c816df3e4c9224dcee84c02ba2b0e1ba3595be6e9ac34950fc5c4a08964"
+    },
+    {
+      "page": 3,
+      "file": "native-review-pages01/003.txt",
+      "bytes": 6344,
+      "characters": 3328,
+      "sha256": "77fd1c8f7280f25e9901726e0a29f2a3d0a0966479235327b6c2d7ecf7a4f4f7"
+    },
+    {
+      "page": 4,
+      "file": "native-review-pages01/004.txt",
+      "bytes": 6431,
+      "characters": 3285,
+      "sha256": "1afad8b5902473363c1b8e89fff7f26316cc0297d15f9d941eacb92847cbe8b4"
+    },
+    {
+      "page": 5,
+      "file": "native-review-pages01/005.txt",
+      "bytes": 6776,
+      "characters": 3340,
+      "sha256": "76c637f1541b275defcba164a55553e590e6fd4d1d7853bb8bd12dca66b1a4d8"
+    },
+    {
+      "page": 6,
+      "file": "native-review-pages01/006.txt",
+      "bytes": 6380,
+      "characters": 3360,
+      "sha256": "765dbf78af59e0e088fb1aefad76ad7c0ccdfb7677e9b3a35269c418b01004bd"
+    },
+    {
+      "page": 7,
+      "file": "native-review-pages01/007.txt",
+      "bytes": 3972,
+      "characters": 2044,
+      "sha256": "02977678c37bb68c6415689d8d5af14a99106e886ecb86c01551a95cb614c58b"
+    }
+  ],
+  "actual_native_receiving": {
+    "file": "COHORT35_ACTUAL_NATIVE_CONTEXT_RECEIVING_01.json",
+    "bytes": 41221,
+    "sha256": "5d1703b475891e18ed92b7ada7c18ac7699b27b27a2db886aa2fdd3d3de40662"
+  },
+  "actual_native_delivery_chunks": {
+    "1-2": "df0c5d",
+    "3-4": "35b782",
+    "5-6": "6906e8",
+    "7": "99e235"
+  },
+  "actual_inline_base_and_ruby_reading": true,
+  "parallel_full_base_duplicate_or_raw_XML_serialization_claim": false,
+  "current_actual_new_images": 0,
+  "derivative_context": {
+    "actual_receiving": {
+      "file": "COHORT35_CONTEXT_REVIEW_RECEIVING_01.json",
+      "bytes": 2339,
+      "sha256": "b5e82e850fa7d81161d0da426e85bf06fcc60153dd31f5adb8108f7f11ebfbfc"
+    },
+    "actual_characters_including_document_labels": 74791,
+    "actual_pages": 10,
+    "actual_document_scope": [
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V07_DEEP_READING.md",
+        "bytes": 56569,
+        "sha256": "1f27454edcd22ea8315867767484aeea47cdb4f8c2cf209182a167c08936c64c",
+        "characters": 55153,
+        "delivery_scope": "COMPLETE_EXISTING_DERIVATIVE_DOCUMENT"
+      },
+      {
+        "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_DEEP_READING.md",
+        "bytes": 19554,
+        "sha256": "fb69a221d65d02718e49b3cc04c42731b63cbc39667c09f8a15df634b5dcda70",
+        "characters": 19448,
+        "delivery_scope": "COMPLETE_EXISTING_DERIVATIVE_DOCUMENT"
+      }
+    ],
+    "actual_tool_chunks": {
+      "1-3": "78b2db",
+      "4-6": "82371f",
+      "7-9": "886d3e",
+      "10": "d5a6c5"
+    },
+    "DUST05_current_scope": "Bounded nativeP800–970 only; no new complete derivative/volume reading claim."
+  },
+  "source_surface_pins": [
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V07_DEEP_READING.md",
+      "bytes": 56569,
+      "sha256": "1f27454edcd22ea8315867767484aeea47cdb4f8c2cf209182a167c08936c64c"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_COMPONENT_ANALYSIS.md",
+      "bytes": 19638,
+      "sha256": "e5c73e3e32109e09f488ab1b8903ee892b66f4ef782c04df7c898176b4e1871a"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_COMPONENT_REGISTER.json",
+      "bytes": 130552,
+      "sha256": "6a77233cdb2f1b90437b0fa5c6d88001d0e1a7d83e714c6bce662d87ff4faae2"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 11026,
+      "sha256": "4ccf8ca65aa432aee8ab130b227db7b5fca1006aae43e4d39d1bc5bd0fa717a7"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_DEEP_READING.md",
+      "bytes": 19554,
+      "sha256": "fb69a221d65d02718e49b3cc04c42731b63cbc39667c09f8a15df634b5dcda70"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 52989,
+      "sha256": "1fa8e3909788c81aaac8a831bb424253efbcc86af3b7e2fb7f2339603cd7ecf5"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_HANDOFF_MANIFEST.json",
+      "bytes": 3634,
+      "sha256": "70228e3dee5b23656f49916a260b16078bc297bdde7a8149db4077fb2fa99a97"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_HUMOR_REGISTER.json",
+      "bytes": 37189,
+      "sha256": "dc3a17ce367edbf39ee8fa9ceda082b86fc30bc668e7b7a09473106e4374dee7"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_HUMOR_REGISTER.md",
+      "bytes": 12715,
+      "sha256": "ff126dd10615b54ad1ea347c94552714e62ce945622a786c4463311423bbf006"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 20295,
+      "sha256": "3605428686129948a4c38f2f529c7302c4a10703d0c970572ac2b4187af46505"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 15003,
+      "sha256": "8bc7e9c3a54bf225fe188b3108f76e4251d9170673fe765282c2f66d786b1cb9"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_ORIGINAL_UNCODED_IMAGE_NOTES.jsonl",
+      "bytes": 30964,
+      "sha256": "c46b216887a5705e283c67716a61b510995e2a1d67e9fc061d4ab211fcadd32d"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_ORIGINAL_UNCODED_TEXT_NOTES.jsonl",
+      "bytes": 29647,
+      "sha256": "e0762c004fc07b1bc79f2b8ea2b1de064e93b0215fc65d8671678bbd100f7b72"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 30867,
+      "sha256": "738e1a4e06b7502474f38b14c8dd88c28e409eb90c58957514022909b88045c7"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_ROOT_PRE_BODY_PREPARATION_VIEW.json",
+      "bytes": 185552,
+      "sha256": "93406b8ebee20a83f148d71afe4f94503fa9bdcda960bb10c3e3491c5d456b10"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 4796,
+      "sha256": "285e03fd70c8a73a76a42fd728cbe1a36ecea369c1402560f4835b299f8c6828"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_VOICE_REGISTER.json",
+      "bytes": 26941,
+      "sha256": "601ba5a56b83e163bea344c504ff68e1190a206ff265a6942c59e38c84e120c9"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_VOICE_REGISTER.md",
+      "bytes": 9428,
+      "sha256": "2e0810bcd23a189ba320c69f8f8c330a0088c166faf7d9f92df5b041bde2b812"
+    }
+  ],
+  "reused_method_pins": [
+    {
+      "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md",
+      "bytes": 13959,
+      "sha256": "f03a1cb89fc602260538454363ee399f8d50ec2a3442c02793e449e4b56c07f8",
+      "characters": 13959
+    },
+    {
+      "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md",
+      "bytes": 21304,
+      "sha256": "77441e395e2cc355b182d36d12a7fb581bfce8dd3e567993d1e1c9f9da3513e6",
+      "characters": 21293
+    }
+  ],
+  "reused_method_reading_qualification": "Both methods fully read earlier in this continuing execution and freshly byte checked; no repeated semantic reading credit.",
+  "scope_assessment": {
+    "file": "COHORT35_SCOPE_ASSESSMENT_DRAFT_03.json",
+    "bytes": 4017,
+    "sha256": "f2af643d330c1d39f357e4caf94a26d323c54ec635be9006f629184d47f770a1"
+  },
+  "native_interpretation_notes": {
+    "file": "COHORT35_NATIVE_INTERPRETATION_NOTES_04.md",
+    "bytes": 10182,
+    "sha256": "37bf274df9ebbbb51ad886bf7f10abe8000fdffd5a1581d1b3ea8ba2958b52d2"
+  },
+  "prefreeze_precision": {
+    "file": "COHORT35_PREFREEZE_SCOPE_PRECISION_01.json",
+    "bytes": 922,
+    "sha256": "5af1dfeb9fff52f1d86faff14d40589ac8e5823d82ee142f1f2f2fdaa0d29e6b"
+  },
+  "prefreeze_precision_qualification": "Original notes01 are preserved. Narrow compact treatment is added for the directly anchoredP895 correction speaker; remaining turns stay unassigned. Three new records are not three new disjoint people.",
+  "name_reference_check": {
+    "file": "COHORT35_NAME_REFERENCE_CHECK_DRAFT_01.json",
+    "bytes": 3446,
+    "sha256": "5617394de9bbc8c416a5a63a215437bb57b069b48f97ca8d71f6a3244b6c41c3"
+  },
+  "source_layers": [
+    "Eris directly rejects Kazuma identity guesses",
+    "Kazuma retrospective reports of Maris/Keith and Selis/Darkness/Dust",
+    "Dust current first-person observation/dialogue and immediate aftermath report",
+    "P895 direct attribution correction containing a historical assertion",
+    "P899 embedded taunt recollection; event correspondence stronger than personal identity join",
+    "P904 ad hoc speaker decision, not verified Eris command/church law",
+    "Dust reported patronage attempt, without elder acceptance"
+  ],
+  "identity_qualifications": [
+    "Maris and Selis remain two named failed Eris guesses; no Cecily name/alias collapse.",
+    "Maris report is one episode with two textual accounts, not two assaults or an independent eyewitness replication.",
+    "Selis individual priest class is not explicit in MAIN07P66. DUST05 unnamed-speaker join remains an inference.",
+    "TheP895 correction speaker distinguishes self from Maris in that episode; neighboring turns,gender,class and current violence are not all assigned to this role.",
+    "DUST05 current roles may overlap Selis,Maris or existing171; no certified unique-person split.",
+    "Existing171 receives route only with current fields/profile/support preserved.",
+    "Older believer is a sparse Dust-report role; no grant,accepted patronage or other-elder join."
+  ],
+  "new_monographs": 0,
+  "new_models": 0,
+  "new_rules": 0,
+  "new_original_firsts": 0,
+  "new_dependent_pairs": 0,
+  "no_new_diagnostic_generation_reason": "The two named actors are reported in narrow episodes, while one present correction act does not identify a stable causal generator. No artificial monograph/rule/probe padding. Existing final model batteries and original six StageD successors remain owed.",
+  "current55_models_exact": true,
+  "preservation_verification": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 55,
+    "control_baseline": "Accepted owner-integrated main controls preserved at a90722d065e56e8fe2c2131e4307e4fa03d0c289; epoch1 migration files remain historical,not current routing.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true,
+    "C27_twenty_cores_compact_fragment_exact": true,
+    "C28_twenty_eight_cores_thirtytwo_private_twentyfour_original_firsts_exact": true,
+    "C28_eighty_nine_raw_deliveries_exact": true,
+    "WORK92_exact": true,
+    "current_C28_public_gate_exact": true,
+    "C29_thirteen_cores_seventeen_private_sixteen_original_firsts_exact": true,
+    "C29_sixty_eight_raw_deliveries_exact": true,
+    "WORK94_exact": true,
+    "current_C29_public_gate_exact": true,
+    "C30_nineteen_cores_twenty_three_private_twenty_four_original_firsts_exact": true,
+    "C30_thirty_three_raw_deliveries_exact": true,
+    "WORK96_exact": true,
+    "current_C30_public_gate_exact": true,
+    "C31_twenty_nine_cores_thirty_three_private_twenty_six_original_firsts_exact": true,
+    "C31_fifty_six_native_copies_exact": true,
+    "WORK98_exact": true,
+    "current_C31_public_gate_exact": true,
+    "C32_eleven_cores_fifteen_private_six_original_firsts_exact": true,
+    "C32_fortysix_native_deliveries_exact": true,
+    "WORK99_exact": true,
+    "WORK100_exact": true,
+    "current_C32_public_gate_exact": true,
+    "C33_eight_cores_twelve_private_six_original_firsts_exact": true,
+    "C33_fourteen_native_deliveries_exact": true,
+    "WORK101_exact": true,
+    "WORK102_exact": true,
+    "current_C33_public_gate_exact": true,
+    "C34_fourteen_cores_twenty_private_ten_firsts_exact": true,
+    "C34_thirtyfour_native_deliveries_thirteen_units_one_known_image_exact": true,
+    "WORK103_exact": true,
+    "WORK104_exact": true,
+    "current_C34_public_gate_exact": true
+  },
+  "raw_media_or_native_paragraph_exports_in_repository": false,
+  "new_whole_source_or_globally_unique_or_independent_credit": 0,
+  "new_OCR_audio_native_human_or_external_model_call": false,
+  "same_informed_author_all_stages": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "independent_trial_count": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "Japanese_or_acoustic_voice_certified": false,
+  "formal_tiers_are_scope_candidates_until_receiving": true,
+  "canonical_cohort35_changes": false,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "final_nine_category_battery_complete": false,
+  "original_six_StageD_successors_complete": false,
+  "full_program_complete": false,
+  "prefreeze_author_review_precision": {
+    "file": "COHORT35_PREFREEZE_AUTHOR_REVIEW_PRECISION_02.json",
+    "bytes": 1934,
+    "sha256": "4a02a7cf95e1f769f2fa53d0533c9c1b9b889e09c5caa9ad44fd8bb89b5feb15"
+  },
+  "current_authority_qualification": "Scope03 and notes04 complete the gender-neutral precision. Profile02/index02 and all native evidence/counts/dispositions remain unchanged. Earlier drafts and both precision records remain dated and preserved.",
+  "additional_prefreeze_author_review_precision": {
+    "file": "COHORT35_PREFREEZE_AUTHOR_REVIEW_PRECISION_03.json",
+    "bytes": 1069,
+    "sha256": "f44e717c1bc319f913f7fd9b539c5120a0e36016a9f23a50be23abd9babd0fe4"
+  }
+}

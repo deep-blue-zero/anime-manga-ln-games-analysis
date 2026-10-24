@@ -589,3 +589,10 @@ Karen Donnelly has three unequal provisional rules and six unchanged original fi
 Lucy and the forest Princess each have two provisional rules, with ten unchanged original English firsts in five dependent pairs after separate foundation/input/body freezes. The same informed root knows all contrasts and assesses its responses. Lucy’s archive responsibility is underbound. Princess originals add an initial mask, finitude implication, past conversation not given in H02, afternoon and a map-position transition. Possible carryover is unproved. Overt cues, generic gratitude/dignity/bargaining, source echoes and explanatory English remain rivals; no full-constraint-clean pair, repair, independent accuracy, grade, confidence gain, Japanese voice or completed final battery is claimed.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+No model,rule,input or first response is created at this scope. Two narrow named reports and one directly heard attribution choice warrant compact treatment without identifying a stable causal generator. All 55 entering model bodies and earlier original outputs remain exact. Existing final batteries and six distinct original Stage D successors remain owed; no synthetic success or independent validation is inferred.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

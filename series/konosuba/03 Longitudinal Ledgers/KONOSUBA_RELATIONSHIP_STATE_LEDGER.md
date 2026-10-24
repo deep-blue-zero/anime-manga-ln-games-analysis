@@ -1554,3 +1554,10 @@ Karen selectively solicits Kazuma, competes with Darkness and apologizes to Aqua
 Lucy accepts Megumin’s relevant claim, thanks a helper whose name she does not yet know, and retorts against Aqua while leaving. Regina’s own mind is not supplied by either Lucy or Serena. The Princess’s reported visitors/helpers have unresolved memberships and access layers. Threat-induced bodily offers do not provide general permission. Biflantz’s engagement question and Darkness’s courteous assertion of family refusal establish a boundary, without proving his receipt of earlier notice or romantic acceptance. Reported unwanted-gift senders remain unjoined.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+Selis is reported acting alongside Darkness. The present DUST05 speaker’s closely matching recollection is a qualified personal join. The correction speaker, other current church roles and the earlier CONTEXP01 priest may overlap; shared location or occupation proves neither identity nor a disjoint-person split. The earlier profile and its support remain exact.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

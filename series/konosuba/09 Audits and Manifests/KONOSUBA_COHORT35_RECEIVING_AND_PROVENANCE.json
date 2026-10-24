@@ -1,0 +1,368 @@
+{
+  "schema": "konosuba.cohort35.receiving-and-provenance.v1",
+  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "received_utc": "2026-10-24T13:11:58.197962+00:00",
+  "previous_published_source": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+  "source_baseline": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+  "main_at_receiving": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "previous_source_audit_not_transferred_to_new_candidate": true,
+  "semantic_receiving_sha256": "7e1b34feb012efee5cf6f6f6d98c013df23be3ce373afb5f87dca873e8964ec3",
+  "foundation_seal_sha256": "511e66074fc296aeab8643811b26e7c81a40c062dc63b2a7006c9f5e4e9ca1f7",
+  "foundation_review_sha256": "1524873f944c5471f2ec58f876739307c9c11db63731d0e37ec82d9245092db7",
+  "all10_frozen_private_artifact_pins": [
+    {
+      "file": "COHORT35_NATIVE_INTERPRETATION_NOTES_04.md",
+      "bytes": 10182,
+      "sha256": "37bf274df9ebbbb51ad886bf7f10abe8000fdffd5a1581d1b3ea8ba2958b52d2"
+    },
+    {
+      "file": "COHORT35_PREFREEZE_SCOPE_PRECISION_01.json",
+      "bytes": 922,
+      "sha256": "5af1dfeb9fff52f1d86faff14d40589ac8e5823d82ee142f1f2f2fdaa0d29e6b"
+    },
+    {
+      "file": "COHORT35_SCOPE_ASSESSMENT_DRAFT_03.json",
+      "bytes": 4017,
+      "sha256": "f2af643d330c1d39f357e4caf94a26d323c54ec635be9006f629184d47f770a1"
+    },
+    {
+      "file": "COHORT35_COMPACT_PROFILES_DRAFT_02.md",
+      "bytes": 6443,
+      "sha256": "14400f94c1a687635d4b63eb4bd00a9bd0505b0df063759eab6426a6ed0c5f23"
+    },
+    {
+      "file": "COHORT35_NEW_DISCOVERY_RECORDS_DRAFT_01.json",
+      "bytes": 4081,
+      "sha256": "580409fa550df2fe2fc90202866a338364e580fddcacc2ebc405fcac2d2bcc5c"
+    },
+    {
+      "file": "COHORT35_NAME_REFERENCE_CHECK_DRAFT_01.json",
+      "bytes": 3446,
+      "sha256": "5617394de9bbc8c416a5a63a215437bb57b069b48f97ca8d71f6a3244b6c41c3"
+    },
+    {
+      "file": "COHORT35_EVIDENCE_INDEX_DRAFT_02.md",
+      "bytes": 8597,
+      "sha256": "3a1fc39de133607860d66d6d4c6d5a2c65b0060bb087978ac68d50b89f708b7d"
+    },
+    {
+      "file": "COHORT35_NATIVE_PROVENANCE_DRAFT_03.json",
+      "bytes": 18771,
+      "sha256": "0b2b6cdf179a439073a6078f5442ec084a0b806126c9e5c86785efca9e1efd69"
+    },
+    {
+      "file": "COHORT35_PREFREEZE_AUTHOR_REVIEW_PRECISION_02.json",
+      "bytes": 1934,
+      "sha256": "4a02a7cf95e1f769f2fa53d0533c9c1b9b889e09c5caa9ad44fd8bb89b5feb15"
+    },
+    {
+      "file": "COHORT35_PREFREEZE_AUTHOR_REVIEW_PRECISION_03.json",
+      "bytes": 1069,
+      "sha256": "f44e717c1bc319f913f7fd9b539c5120a0e36016a9f23a50be23abd9babd0fe4"
+    }
+  ],
+  "core_artifact_pins": [
+    {
+      "private_file": "COHORT35_EVIDENCE_INDEX_DRAFT_02.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md",
+      "bytes": 8597,
+      "sha256": "3a1fc39de133607860d66d6d4c6d5a2c65b0060bb087978ac68d50b89f708b7d"
+    },
+    {
+      "private_file": "COHORT35_NATIVE_PROVENANCE_DRAFT_03.json",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_NATIVE_PROVENANCE.json",
+      "bytes": 18771,
+      "sha256": "0b2b6cdf179a439073a6078f5442ec084a0b806126c9e5c86785efca9e1efd69"
+    }
+  ],
+  "supporting_freeze_records": [
+    {
+      "file": "COHORT35_FOUNDATION_AUTHOR_REVIEW_01.json",
+      "bytes": 1396,
+      "sha256": "1524873f944c5471f2ec58f876739307c9c11db63731d0e37ec82d9245092db7"
+    },
+    {
+      "file": "COHORT35_FOUNDATION_SEAL_01.json",
+      "bytes": 3505,
+      "sha256": "511e66074fc296aeab8643811b26e7c81a40c062dc63b2a7006c9f5e4e9ca1f7"
+    },
+    {
+      "file": "COHORT35_COMPLETE_FOUNDATION_REVIEW_PLAN_01.json",
+      "bytes": 3284,
+      "sha256": "afed654bb6e8591648f0f63555225f7d4cd80d2e6d9b9d2a94324941187e6268"
+    },
+    {
+      "file": "COHORT35_COMPLETE_FOUNDATION_REVIEW_PLAN_02.json",
+      "bytes": 4103,
+      "sha256": "1a6edec7df29fa6a31a8ad99285aed39b80d1e858626d13cc195c42b79961fd6"
+    },
+    {
+      "file": "COHORT35_COMPLETE_FOUNDATION_REVIEW_PLAN_03.json",
+      "bytes": 3110,
+      "sha256": "f04bd91403bce0f952ec4fd048f515d8a240acfc1ba4d115d14800f8fb4f69ff"
+    },
+    {
+      "file": "COHORT35_INITIAL_FOUNDATION_AUTHOR_REVIEW_01.json",
+      "bytes": 1180,
+      "sha256": "ace970f54d627b21cb5afc36afa35833cb01b46b2bf55a97f7161b87e3638966"
+    },
+    {
+      "file": "COHORT35_PRECISION02_COMPLETE_AUTHOR_REVIEW_01.json",
+      "bytes": 689,
+      "sha256": "7a8b871c6be9241bedddf73182792b30948588142c2d0c3b423ed74faf5083ef"
+    }
+  ],
+  "compact_profile_fragment": {
+    "private_file": "COHORT35_COMPACT_PROFILES_DRAFT_02.md",
+    "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "bytes": 6443,
+    "sha256": "14400f94c1a687635d4b63eb4bd00a9bd0505b0df063759eab6426a6ed0c5f23",
+    "anchor": "#cohort-35-main07-reported-actors-and-dust05-attribution-boundaries"
+  },
+  "original_first_serialization_pins": [],
+  "new_artifact_scope": {
+    "models": 55,
+    "scoped_secondary_model_subjects": 49,
+    "bounded_profiles": 83,
+    "monograph_only_subjects": 27,
+    "nonfinal_records": 332,
+    "new_models": 0,
+    "new_monographs": 0,
+    "new_compact_profiles": 3,
+    "new_Tier0_dispositions": 2,
+    "new_records": 3,
+    "new_Tier1_records": 1,
+    "new_Tier0_records": 2,
+    "new_rules": 0,
+    "new_original_firsts": 0,
+    "new_dependent_pairs": 0
+  },
+  "subject_scope": {
+    "source_known": true,
+    "same_root_authors_and_assesses_all_stages": true,
+    "all_contrasts_visible": true,
+    "independent_accuracy_result": null,
+    "capability_grade": null,
+    "confidence_gain": null,
+    "canonical_changed": false,
+    "global_census_closed": false,
+    "global_completion_percentage": null,
+    "full_program_complete": false,
+    "schema": "konosuba.cohort35.evidence-proportionate-scope-assessment.v1",
+    "recorded_utc": "2026-10-24T12:58:45.644201+00:00",
+    "starting_authority_sha256": "235fbbe85b2113789b00e5dac038368484b9b157c396d57da4e9c792b2b88c8a",
+    "context_receiving_sha256": "b5e82e850fa7d81161d0da426e85bf06fcc60153dd31f5adb8108f7f11ebfbfc",
+    "native_receiving_sha256": "5d1703b475891e18ed92b7ada7c18ac7699b27b27a2db886aa2fdd3d3de40662",
+    "current_notes_sha256": "37bf274df9ebbbb51ad886bf7f10abe8000fdffd5a1581d1b3ea8ba2958b52d2",
+    "prefreeze_precision_sha256": "5af1dfeb9fff52f1d86faff14d40589ac8e5823d82ee142f1f2f2fdaa0d29e6b",
+    "subjects": [
+      {
+        "row": 56,
+        "character": "Maris / マリス",
+        "tier": 1,
+        "compact_profile": true,
+        "reason": "Named consequential retaliation after a specific taunt, with two textual accounts of the same episode, supports a bounded reported-actor profile. No own voice or varied stable generator."
+      },
+      {
+        "row": 57,
+        "character": "Selis / セリス (Celis retrieval variant)",
+        "tier": 1,
+        "compact_profile": true,
+        "reason": "Named joint response and relationship to Darkness are substantive report evidence. Later unnamed-priest event correspondence is strong but does not explicitly name Selis; priest class remains qualified."
+      },
+      {
+        "row": 329,
+        "character": "Unnamed Maris-attribution correction speaker (DUST05 Eris church)",
+        "new_record": true,
+        "tier": 1,
+        "compact_profile": true,
+        "reason": "Direct first-person distinction of who struck Keith and request for further recall are an individually anchored attribution choice. Other current turns remain unassigned; possible Selis/171 overlap unresolved."
+      }
+    ],
+    "route_only_rows": [
+      171
+    ],
+    "route_qualification": "Existing CONTEXP01 Axel Eris priest retains every current field, prior profile and support; add an unjoined DUST05 scene/correction-speaker route only.",
+    "planned_changed_entering_rows": [
+      56,
+      57,
+      171
+    ],
+    "planned_other_entering_rows_exact_per_plane": 326,
+    "proposed_new_row_indices": [
+      329,
+      330,
+      331
+    ],
+    "new_records": 3,
+    "new_Tier1_records": 1,
+    "new_Tier0_records": 2,
+    "new_compact_profiles": 3,
+    "new_monographs": 0,
+    "new_models": 0,
+    "new_provisional_rules": 0,
+    "new_original_firsts": 0,
+    "new_dependent_pairs": 0,
+    "planned_totals": {
+      "models": 55,
+      "scoped_secondary_model_subjects": 49,
+      "bounded_profiles": 83,
+      "monograph_only_subjects": 27,
+      "nonfinal_records": 332
+    },
+    "classification_basis": "Meaningful source-bound choices and identifiable roles, with no appearance/word/model/rule quota or permanent ceiling. Group turn uncertainty does not erase the correction speaker’s individually anchored act; profile count is not a unique-person denominator.",
+    "no_new_model_or_diagnostic_reason": "The two named actors are reported in narrow episodes, while one present correction act does not identify a stable causal generator. No artificial monograph/rule/probe padding. Existing final model batteries and original six StageD successors remain owed.",
+    "exact_inputs_or_firsts_serialized": false,
+    "new_whole_source_or_independent_credit": 0,
+    "current_notes_file": "COHORT35_NATIVE_INTERPRETATION_NOTES_04.md",
+    "prior_scope_assessment_file": "COHORT35_SCOPE_ASSESSMENT_DRAFT_02.json",
+    "prior_scope_assessment_sha256": "9d61db75465382743de77c790be0af2936db04472f0efc97548207b390fb16fc",
+    "precision_qualification": "Two residual private-note gendered references to Maris neutralized. All source events,subject choices,counts,tiers and knowledge boundaries remain unchanged."
+  },
+  "source_access_limits": "301 complete current P with240 inline ruby occurrences, two native members/two known EPUBs/seven complete displays. MAIN07 principal/excluded reports complete:74791 characters/ten displays. DUST05 bounded native scope only. All41 technical name/byte retrieval does not prove alias/image/nonparagraph/unnamed absence. No new whole-source,globally unique,OCR,audio,human,image or independent credit.",
+  "source_identity_and_knowledge_limits": [
+    "Maris and Selis remain two named failed Eris guesses; no Cecily name/alias collapse.",
+    "Maris report is one episode with two textual accounts, not two assaults or an independent eyewitness replication.",
+    "Selis individual priest class is not explicit in MAIN07P66. DUST05 unnamed-speaker join remains an inference.",
+    "TheP895 correction speaker distinguishes self from Maris in that episode; neighboring turns,gender,class and current violence are not all assigned to this role.",
+    "DUST05 current roles may overlap Selis,Maris or existing171; no certified unique-person split.",
+    "Existing171 receives route only with current fields/profile/support preserved.",
+    "Older believer is a sparse Dust-report role; no grant,accepted patronage or other-elder join."
+  ],
+  "diagnostic_limits": "The two named actors are reported in narrow episodes, while one present correction act does not identify a stable causal generator. No artificial monograph/rule/probe padding. Existing final model batteries and original six StageD successors remain owed.",
+  "current_unique_native_P_slots": 301,
+  "inline_ruby_occurrences": 240,
+  "objects_with_actual_P": 2,
+  "objects_with_any_actual_native_content": 2,
+  "known_current_image_rechecks": 0,
+  "technical_all41_identity_retrieval_checks": true,
+  "technical_checks_not_reading": true,
+  "new_whole_source_globally_unique_OCR_audio_human_or_independent_credit": 0,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "census_comparison": {
+    "changed_entering_rows": [
+      56,
+      57,
+      171
+    ],
+    "untouched_entering_rows": 326,
+    "new_rows": [
+      329,
+      330,
+      331
+    ],
+    "nonfinal_records": 332,
+    "canonical_layout": "Manifest/five stable row payloads:80,80,80,80,12; private WORK105 separate.",
+    "canonical_private_historical_differences_retained": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "historical_storage_snapshot_unchanged": true,
+    "CONTEXP01_priest171_all_entering_fields_support_exact": true,
+    "no_unique_person_denominator": true
+  },
+  "prior_preservation_checks": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 55,
+    "control_baseline": "Accepted owner-integrated main controls preserved at a90722d065e56e8fe2c2131e4307e4fa03d0c289; epoch1 migration files remain historical,not current routing.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true,
+    "C27_twenty_cores_compact_fragment_exact": true,
+    "C28_twenty_eight_cores_thirtytwo_private_twentyfour_original_firsts_exact": true,
+    "C28_eighty_nine_raw_deliveries_exact": true,
+    "WORK92_exact": true,
+    "current_C28_public_gate_exact": true,
+    "C29_thirteen_cores_seventeen_private_sixteen_original_firsts_exact": true,
+    "C29_sixty_eight_raw_deliveries_exact": true,
+    "WORK94_exact": true,
+    "current_C29_public_gate_exact": true,
+    "C30_nineteen_cores_twenty_three_private_twenty_four_original_firsts_exact": true,
+    "C30_thirty_three_raw_deliveries_exact": true,
+    "WORK96_exact": true,
+    "current_C30_public_gate_exact": true,
+    "C31_twenty_nine_cores_thirty_three_private_twenty_six_original_firsts_exact": true,
+    "C31_fifty_six_native_copies_exact": true,
+    "WORK98_exact": true,
+    "current_C31_public_gate_exact": true,
+    "C32_eleven_cores_fifteen_private_six_original_firsts_exact": true,
+    "C32_fortysix_native_deliveries_exact": true,
+    "WORK99_exact": true,
+    "WORK100_exact": true,
+    "current_C32_public_gate_exact": true,
+    "C33_eight_cores_twelve_private_six_original_firsts_exact": true,
+    "C33_fourteen_native_deliveries_exact": true,
+    "WORK101_exact": true,
+    "WORK102_exact": true,
+    "current_C33_public_gate_exact": true,
+    "C34_fourteen_cores_twenty_private_ten_firsts_exact": true,
+    "C34_thirtyfour_native_deliveries_thirteen_units_one_known_image_exact": true,
+    "WORK103_exact": true,
+    "WORK104_exact": true,
+    "current_C34_public_gate_exact": true
+  },
+  "all55_entering_models_unchanged": true,
+  "all2_C35_cores_frozen_exact": true,
+  "previous_author_gate": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT34_PUBLICATION_GATE_CLOSE.json",
+    "source": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+    "audit_run_id": 40094359692,
+    "full_discovered_tests": 459,
+    "scope": "C34 author tranche; protected-main integration separately owned."
+  },
+  "historical_capture_flags": "Frozen scope and provenance canonical-changed flags remain dated pre-adoption facts; this receiving records the current bounded candidate,with no model or synthetic generation.",
+  "source_known": true,
+  "same_informed_root": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}
