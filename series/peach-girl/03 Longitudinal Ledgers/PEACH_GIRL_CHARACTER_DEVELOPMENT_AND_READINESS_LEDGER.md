@@ -5,13 +5,13 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.19"
+version: "0.20"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
 canonical_home: series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md
 created: "2026-10-16"
-review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
+review_status: OWNER_AUTHORIZED_SECOND_PASS_IN_PROGRESS
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -46,6 +46,11 @@ A future VNN transaction appends events for material goal/choice/development cha
 Preserve original names/identity allocation, event formulations, source frontiers and assessment history. Amend the current view through targeted edits with an appended event/revision; retain old versions. Later retrospective explanation has its actual learned-after frontier. A frozen `PG-FR-VNN` cites the versions then active and contains enough state to recover them after this ledger advances. Errata append a reason and replacement link.
 
 The sequential closeout certifies this instrument updated or records no material change without a dummy row. Bootstrap source-derived subject, event, current-state and readiness rows: **0**.
+
+
+### Retrospective supplement route — 2026-10-24
+
+The governing method0.3 retrospective amendment permits exact source references through canonical `PG-SA2-VNN-####` observations in the non-sequential audit home when comparison demonstrates a material omission. That route is an explicit exception to the original sequential-only `PG-EV` requirement above. It applies to dated retrospective corrections, with their actual learned-after boundary and immutable original rows; future source-admission transactions and prospective freezes retain their original contracts.
 
 ## Subject register
 
@@ -671,3 +676,30 @@ Revision0.18 — post-sequential retrieval projection; all0.17 historical bodies
 | PG-RD-0006 / CHAR0020 / NONE | ScopedRyoensemble/fullV18; CL0027@7 | Literary READY_SCOPED; operationalNOT_PROPOSED/selectiveaccess/no validateddecisionpolicy |
 
 All assessors same Codex operator; owneracceptancepending. GuardprobesP1–P4 testexplicitwhitelistrejection only, notcompleteknowledgegraph or behavioralprediction. No probability/globalcapabilitygrade. Rulesnotrevisedafterfailure; nextRD0007. Revision0.19 — actual G4 assessment/retrospectivetest debts, sixsubjectdispositions; priorbody retained.
+
+## Second-pass V02 corrective transaction — 2026-10-24
+
+These retrospective rows are learned after PG-FR-V18; represented story time remains V02. The [canonical second-pass findings and supplements](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md) own F0001–F0003 and PG-SA2-V02-0001/0002/0003. These rows derive domain states from those observations; they do not create an additional source wording home. Original event versions, eighteen readings/freezes and forecast terms remain preserved. Late allocation is not a new terminal narrative event, source admission or readiness decision.
+
+| Event/version / subject / prior | Represented time, learned boundary and kind / action / constraint / response / consequence | Evidence / claim / uncertainty / correction |
+| --- | --- | --- |
+| PG-CS-0017@2 / PG-CHAR-0003 / CS0007@1; corrects CS0017@1 | V02; learned second-pass2026-10-24 after PG-FR-V18. REVEALED_NOT_NEW + analyst factual correction: fabricated injuries, information blockade, declared desire for Tōji and proposed coercive fait accompli remain. At i0096 Sae sees Momo/Kairi approaching before the clothes/fall/leaning sequence. After the depicted slip she closes her eyes and approaches Tōji; present-scene lips remain apart before the door opens. Her later aside describes almost being able to display a live kiss, not accomplished display. Visitors see the bodily tableau, not the full prelude. | PG-EV-V02-0009/0017/0021/0028/0030/0031 and corrected EV0024 route; PG-SA2-V02-0001 / PG-SA2-F0001. Historical CL0002@2/CL0003@2 broad motives/manipulation retained with corrected local support. HIGH depicted approach/interruption; STRONG timing/exhibition inference. Tōji heartbeat/support/hesitation remain; deliberate slipping, full desire/assent and unshown micro-actions UNKNOWN. Not completed hospital kissing or enacted sexual plan. |
+| PG-CS-0288@1 / PG-CHAR-0004 / source-order context CS0004@1; CS0018@1 later V02 choice remains | V02 stairs i0070–i0073; learned second-pass2026-10-24 after PG-FR-V18. REVEALED_NOT_NEW + bounded choice: after accidental fall/tumble and Momo's checking/help, Kairi prolongs the embrace. Momo asks 放せ; he answers やだあと1分 and continues holding. Her assistance is not affirmative permission to remain held. Sae/two girls see the physical tableau; their hearing the release exchange is not established. | PG-EV-V02-0019 plus PG-SA2-V02-0002 / PG-SA2-F0002; RL0022@2/CM0193. HIGH root-verified request/answer/conduct. Preserve actual help, comic register and later refusal to join Sae's scheme (CS0018@1); no universal disregard trait or erasure of care. Exact onlooker hearing UNKNOWN. No new broad CL. |
+| PG-CS-0289@1 / PG-CHAR-0001 / source-order context CS0014@1; precedes CS0015@1 | V02 hospital journey i0086–i0091; learned second-pass2026-10-24 after PG-FR-V18. REVEALED_NOT_NEW + bounded choice/context: Momo drives a borrowed bicycle down stairs in urgency despite Kairi fear, tells him to be quiet, and binds his wrists explicitly to prevent inappropriate touching. She requires him to explain that he initiated the stair hug. On the train she pulls him along despite his request to sit and his point that walking inside cannot hasten arrival; she acknowledges this yet cannot remain still while imagining Sae/Tōji. These are her initiative/pressure, not simply Kairi taking her to hospital. | PG-SA2-V02-0003 / PG-SA2-F0003; existing diagnosis/urgent-trip evidence remains, RL0021@2/CM0194. HIGH root-verified actions and attributed purpose; anxious imagined S/T scene is not actual hospital observation. Protective no-touch purpose, real need for information, Kairi help and bodily autonomy all retained. No moral equivalence, diagnosis, universal-control rule or newly demonstrated readiness. |
+
+| Subject / current audit boundary | Active narrative state plus historical correction | Contradictions / limits |
+| --- | --- | --- |
+| PG-CHAR-0003 / PG-FR-V18 + second-pass2026-10-24 | Terminal CS0286 remains; historical V02 escalation retrieved through CS0017@2/PG-SA2-V02-0001. | Completed hospital kiss withdrawn as source fact; deliberate slip and full Tōji intent unknown. No new stable trait or readiness assessment. |
+| PG-CHAR-0004 / same | Terminal CS0285 remains; early V02 refusal-after-assistance is CS0288, alongside CS0018@1 actual help/refusal of Sae alliance. | Care and specific boundary violation coexist; retrospective ID is not a new terminal event or future knowledge. |
+| PG-CHAR-0001 / same | Terminal CS0287 remains; early V02 urgency/control is CS0289, with actual rejection of unwanted holding and trust/help preserved. | Protective purpose does not erase pressure; pressure does not establish equivalence to systematic exploitation. All RD0001–0006 unchanged. |
+
+
+## Second-pass V06 care qualification — 2026-10-24
+
+F0005 qualifies a factual basis of the existing care account; it creates no new current romance, diagnosis or readiness state.
+
+| Event/version / subject / prior | Represented time and actual learned boundary / corrected state | Evidence / uncertainty / current retrieval |
+| --- | --- | --- |
+| PG-CS-0052@2 / PG-CHAR-0005 / corrects CS0052@1 | V06 night/morning; learned after PG-FR-V18 in second-pass2026-10-24. Driving limitation, institutional access, stopping violence, treating injuries and asking Momo's wishes remain. At reception Misao asserts parental contact; its truth is unverified, rather than established false. Later she reports notifying home of the overnight stay; that does not establish the first-ever contact. | PG-EV-V06-0014/0022, i0037/i0062; PG-SA2-F0005, TX0059@2/RL0074@2. Tactical embellishment remains plausible; inner role qualification concerns her school-health role, not an admitted parent-call lie. Preserve all other care/secondary-hurt observations from CS0052@1. No knowledge of the full scheme or universal honesty inferred. |
+
+Current Misao retrieval retains her V18 narrative states; CS0052@2 replaces only the historical V06 parent-contact certainty. Practical help and its institutional framing remain evidenced. Later household notification TX0063 remains distinct.

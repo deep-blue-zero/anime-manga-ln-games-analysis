@@ -5,13 +5,13 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.18"
+version: "0.19"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
 canonical_home: series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_RELATIONSHIP_AND_COMMITMENT_LEDGER.md
 created: "2026-10-16"
-review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
+review_status: OWNER_AUTHORIZED_SECOND_PASS_IN_PROGRESS
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -45,6 +45,11 @@ A future VNN transaction appends material changes in affection, affiliation, tru
 Original event/offer/answer wording and the then-known frontier remain preserved. Append later transitions or corrections, update only the current projection, and retain prior versions. The unit freeze records the precise current versions before later sources are opened. Later revelations revise the current interpretation through `PG-RV`; they do not rewrite prior prospective feelings or forecast terms.
 
 The sequential closeout records updated/no-material-change status. Bootstrap source-derived relationship, commitment and current-view rows: **0**.
+
+
+### Retrospective supplement route — 2026-10-24
+
+The governing method0.3 retrospective amendment permits exact source references through canonical `PG-SA2-VNN-####` observations in the non-sequential audit home when comparison demonstrates a material omission. That route is an explicit exception to the original sequential-only `PG-EV` requirement above. It applies to dated retrospective corrections, with their actual learned-after boundary and immutable original rows; future source-admission transactions and prospective freezes retain their original contracts.
 
 ## Directional events
 
@@ -835,3 +840,33 @@ This projection follows the complete event history through PG-FR-V18. Earlier cu
 | V15inn | CM0146@2; noactuntilmorning117 | Actualmorningaffection/no unshowncompletionclaim |
 
 Revision0.18 — post-sequential retrieval projection; all0.17 historical bodies retained apart from version. No new narrative events/IDs.
+
+## Second-pass V02 corrective transaction — 2026-10-24
+
+These retrospective rows are learned after PG-FR-V18; represented story time remains V02. The [canonical second-pass findings and supplements](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md) own F0001–F0003 and PG-SA2-V02-0001/0002/0003. These rows derive domain states from those observations; they do not create an additional source wording home. Original event versions, eighteen readings/freezes and forecast terms remain preserved. Late allocation is not a new terminal narrative event, source admission or readiness decision.
+
+| Direction / version / same-direction prior | Represented time, actual transition / participant understanding | Evidence / support / correction |
+| --- | --- | --- |
+| PG-RL-0020@2 / Sae PG-CHAR-0003 → Tōji PG-CHAR-0002 / RL0009@1; corrects RL0020@1 | V02, learned second-pass2026-10-24 after PG-FR-V18. Her stated desire and proposed coercive plan remain; hospital scene is anticipated near-kiss/display attempt, interrupted with current lips apart. Tōji heartbeat, hesitation and physical support remain; visitors see close bodily posture without prior room context. Her later missed-opportunity aside does not establish completed contact. | PG-EV-V02-0024/0028/0030 plus PG-SA2-V02-0001; F0001, KN0267, CS0017@2. HIGH depicted sequence, STRONG exhibition/timing inference; slip intent/full assent UNKNOWN. CL0002@2 and CL0003@2 retain broader support with local factual qualification; no current romantic reciprocity inferred. |
+| PG-RL-0022@2 / Kairi PG-CHAR-0004 → Momo PG-CHAR-0001 / RL0005@1; expands RL0022@1 | V02, learned second-pass2026-10-24 after PG-FR-V18. Advice, practical help, pursuit and later refusal of Sae alliance remain. At the stairs, accidental contact/help is followed by his continued holding despite her explicit release request; he asks another minute rather than releasing. Her reliance on him is not agreement to this continued embrace. | PG-EV-V02-0002/0019/0026/0032 plus PG-SA2-V02-0002; F0002, CS0288/CM0193. HIGH action/request/answer; motive weights bounded, onlooker hearing UNKNOWN. CL0006@2 broader mixed-care account preserved; no new romantic agreement or universal trait. |
+| PG-RL-0021@2 / Momo PG-CHAR-0001 → Kairi PG-CHAR-0004 / RL0006@1; expands RL0021@1 | V02, learned second-pass2026-10-24 after PG-FR-V18. Trust in him as current ally and her nonromantic self-account remain. She helps him after the fall and then asks release; later, urgency leads her to bind wrists to prevent inappropriate touch, drive despite fear and pull him along the train despite the sit request. She also demands accurate explanation of his initiated hug. Subsequent thanks/help do not cancel either her valid refusal or her own pressure. | PG-EV-V02-0002/0003/0034 plus PG-SA2-V02-0002/0003; F0002/F0003, CS0289/CM0194. HIGH root-verified phase distinctions; absent consent to each restriction is not invented as a reciprocal agreement. Anxiety explains context without universalizing or exculpating. No new broad CL. |
+
+| Commitment / prior | Exact request/limit, answer and scope | Actual conduct / evidence / limits |
+| --- | --- | --- |
+| PG-CM-0193 / NONE; context CM0005/0007 are earlier separate encounters | Momo → Kairi, V02 stair embrace after assistance: 放せ; Kairi answers やだあと1分. Release request DECLINED by Kairi; Momo assent to continued holding absent. | Holding continues after explicit limit. PG-EV-V02-0019 + PG-SA2-V02-0002; F0002; source i0072–i0073 as root verified; learned audit2026-10-24 after PG-FR-V18. Earlier accident/help is distinct; later care/affection supplies no retrospective permission. Onlookers' audibility UNKNOWN. |
+| PG-CM-0194 / NONE; follows CM0193 in represented V02 sequence, not numbering chronology | V02 journey: Momo → Kairi imposes no-inappropriate-touch limit by tying wrists (i0087), with protective purpose explicit but no affirmative binding agreement shown. Kairi → Momo expresses bike fear and later asks to sit on train (i0091); she knows walking inside cannot speed arrival but continues pulling him. | Keep restrictions and counterrequests distinct within this bounded journey record: protective purpose is evidenced, mutual consent to every control is not. PG-SA2-V02-0003; F0003; CS0289/RL0021@2; learned audit2026-10-24 after PG-FR-V18. No claim of sexual intent, moral equivalence or blanket illegitimacy of touch prevention. |
+
+| Historical scope / current audit boundary | Active corrected versions | Retrieval meaning / unknown |
+| --- | --- | --- |
+| V02 Sae→Tōji, retrieved after PG-FR-V18 + audit2026-10-24 | RL0020@2; CS0017@2/KN0267 | Attempt/display intention and close tableau, not established completed hospital kiss; no certain slip staging/reciprocal assent. Later terminal relationship states remain historical developments. |
+| V02 Kairi→Momo / same | RL0022@2/CM0193; CS0288 | Actual help and explicit release refusal coexist. Current final couple state does not alter earlier permission. |
+| V02 Momo→Kairi / same | RL0021@2/CM0194; CS0289 | Trust/help, valid bodily refusal and her own urgency-driven pressure coexist; no reciprocal romance established here. No change to terminal RL0308/0309 or CM0191. |
+
+
+## Second-pass V06 caregiving qualification — 2026-10-24
+
+| Direction/version / same-direction context | Represented time and actual learned boundary / corrected meaning | Evidence / uncertainty / current retrieval |
+| --- | --- | --- |
+| PG-RL-0074@2 / corrects RL0074@1 | Misao → Momo/Tōji/Kairi, bounded V06 night/morning caregiving directions; learned after PG-FR-V18 in second-pass2026-10-24. Adult access, intervention, attention to wishes, context and responsibility remain. Earlier parental-contact assertion is unverified; replace categorical expedient-lie wording with a plausible tactical-embellishment interpretation. | PG-EV-V06-0014/0022, i0037/i0062; PG-SA2-F0005, CS0052@2/TX0059@2. Later overnight notice does not prove no earlier call. No romantic attachment, full scheme knowledge or general honesty inferred. |
+
+Current retrieval uses RL0074@2 for this historical care context; later directional relationships and refusals remain unchanged.

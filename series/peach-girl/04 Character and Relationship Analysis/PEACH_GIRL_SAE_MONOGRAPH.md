@@ -5,14 +5,14 @@ artifact_type: character_monograph
 series: Peach Girl / ピーチガール
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: '1.0'
+version: '1.1'
 status: active_provisional
 scope: Original Japanese manga V01–V18;G3 literary synthesis after committed G2
 source_boundary: G2 342b9067abf2b200613e2b24707abbc190c59402;705EV/18unchangedfreezes;composite
   inherited-audited/newdirect lineage
 canonical_home: series/peach-girl/04 Character and Relationship Analysis/PEACH_GIRL_SAE_MONOGRAPH.md
 created: '2026-10-20'
-review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
+review_status: OWNER_AUTHORIZED_SECOND_PASS_IN_PROGRESS
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -35,7 +35,7 @@ The V05 plan combines incapacitation, impersonation and engineered inference. Mo
 
 ## Being harmed is not proof of becoming harmless
 
-The trio's V06 punishment reverses the position of control. Sae is incapacitated and delivered into a situation the planners do not safely govern. Her fear is actual. In V07 Kairi rescues her from the wrong receiver and she slaps him; the source action is a palm slap, not an invented vase attack. Momo's decision to intervene interrupts revenge without constituting forgiveness.
+The trio's V06 punishment reverses the position of control. Sae is incapacitated and delivered into a situation the planners do not safely govern. Her fear is actual. In V07 Momo leads the forced entry and interrupts the attack; Sae then strikes Momo's cheek with her palm while holding a vase, with water splashing (PG-EV-V07-0007–0009, i0031–i0045). The rescue and the slap's recipient are Momo, correcting this monograph's earlier attribution to Kairi. Sae's criticism of the trio's danger remains consequential despite her own wrongdoing. Momo's decision to intervene interrupts revenge without constituting forgiveness.
 
 Sae's later deployment of photographs and blackmail shows that experiencing danger does not automatically reform the conduct that helped organize earlier danger. Tōji's refusal, failed attempts to recover material and protective breakup create another network of mismatched knowledge. In V14 Sae admits real negatives were burned and the continuing threat was a bluff. That later disclosure corrects an earlier account, while leaving complete print/copy/publication inventory unknown.
 
@@ -79,3 +79,5 @@ Source route: [early audit](../07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01
 
 
 Assessment: G3 source-bounded literary argument; alternatives and unknowns retained. Same Codex source operator,2026-10-20; no independent blind corroboration, operational reconstruction or owner acceptance claimed. G4 tests and G5 convergence remain separate.
+
+Revision1.1 —2026-10-24; second-pass PG-SA2-F0007 corrects the V07 rescuer and palm-slap recipient from Kairi to Momo, using the already-correct frozen reading and targeted original-source rechecks. Full second-pass deepening and semantic review remain in progress; historical G3 assessment above is not a new gate decision.

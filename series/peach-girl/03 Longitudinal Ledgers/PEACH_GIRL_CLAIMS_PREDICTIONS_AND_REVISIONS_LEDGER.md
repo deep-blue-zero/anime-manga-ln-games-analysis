@@ -5,13 +5,13 @@ artifact_type: claims_predictions_revisions_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.18"
+version: "0.19"
 status: active_provisional
 scope: "Claims, Predictions and Revisions; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
 canonical_home: series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 created: "2026-10-16"
-review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
+review_status: OWNER_AUTHORIZED_SECOND_PASS_IN_PROGRESS
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -48,6 +48,11 @@ Versions and original forecast terms are immutable. A later revelation produces 
 Each unit freeze retains active claim versions and open forecast terms. A fresh execution reconstructs the entering state from that snapshot and the pinned historical rows, not from the latest current index. Uncertainty records the unresolved premise, missing evidence or competing explanation rather than a confidence adjective alone.
 
 Bootstrap source-derived claims, forecasts, revisions and current-index rows: **0**.
+
+
+### Retrospective supplement route — 2026-10-24
+
+The governing method0.3 retrospective amendment permits exact source references through canonical `PG-SA2-VNN-####` observations in the non-sequential audit home when comparison demonstrates a material omission. That route is an explicit exception to the original sequential-only `PG-EV` requirement above. It applies to dated retrospective corrections, with their actual learned-after boundary and immutable original rows; future source-admission transactions and prospective freezes retain their original contracts.
 
 ## Claims and versions
 
@@ -133,10 +138,10 @@ Bootstrap source-derived claims, forecasts, revisions and current-index rows: **
 | --- | --- | --- | --- |
 | PG-CL-0001 | @5 / V14 | PG-RV-0097 | Scandal durability as attributed social model and Momo counterfactual |
 | PG-CL-0002 | @17 / V18 | PG-RV-0146 | Sae moves from genuine loss/finishedRaccount33 through helpful journey disclosure47–50 and comfort96 to forged K farewell176; local aid and harmful control coexist |
-| PG-CL-0003 | @16 / V18 | PG-RV-0147 | Sae repair remains selective: no-obligation choice50/comfort96 coexist with alarming impersonation176 and final comedy |
+| PG-CL-0003 | @16 / V18 | PG-RV-0147 | Sae repair remains selective: no-obligation choice50/comfort96 coexist with alarming impersonation176 and final comedy; historical V02 completed-hospital-kiss basis qualified by PG-SA2-F0001 via CS0017@2/RL0020@2/KN0267; broad current formulation unchanged. |
 | PG-CL-0004 | @2 / V02 | PG-RV-0003 | Authorship disclosure |
 | PG-CL-0005 | @13 / V18 | PG-RV-0148 | Tōji genuinely waits81/comforts105/stops115, later blocks/pins123–125/pressures128/intimacy130–132, then stops133/releases144 |
-| PG-CL-0006 | @18 / V18 | PG-RV-0149 | Kairi explicitly onlyM21 but forces taxi9–16; later refusesmeddling86/searchescase111/retrieves159/accident163/actualreunion175 |
+| PG-CL-0006 | @18 / V18 | PG-RV-0149 | Kairi explicitly onlyM21 but forces taxi9–16; later refusesmeddling86/searchescase111/retrieves159/accident163/actualreunion175; V02 release refusal explicit in PG-SA2-F0002/CM0193/RL0022@2; reciprocal journey agency in PG-SA2-F0003/RL0021@2; broad current formulation unchanged. |
 | PG-CL-0007 | @2 / V12 | PG-RV-0077 | Nested Ryo-to-Kairi rescuer attribution names Momo; neither old nor present rescue establishes mouth-to-mouth |
 | PG-CL-0008 | @2 / V03 | PG-RV-0006 | — |
 | PG-CL-0009 | @1 / V02 | — | Context disclosure |
@@ -818,3 +823,13 @@ This projection follows the complete event history through PG-FR-V18. Earlier cu
 No new forecast or claim version at G2. The28-row current index equals PG-FR-V18; full versions and failed tests retained. PR0001 originalwindowNOT_TESTED, underlying oldauthorship stillOPEN. Other bounded unresolvedquestions are not newforecasts.
 
 Revision0.18 — post-sequential retrieval projection; all0.17 historical bodies retained apart from version. No new narrative events/IDs.
+
+## Second-pass V02 corrective transaction — 2026-10-24
+
+These retrospective rows are learned after PG-FR-V18; represented story time remains V02. The [canonical second-pass findings and supplements](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md) own F0001–F0003 and PG-SA2-V02-0001/0002/0003. These rows derive domain states from those observations; they do not create an additional source wording home. Original event versions, eighteen readings/freezes and forecast terms remain preserved. Late allocation is not a new terminal narrative event, source admission or readiness decision.
+
+| Historical basis / current claim disposition | Dated correction and evidence | Propagation |
+| --- | --- | --- |
+| CL0003@2 / RV0002 staged-kiss item; current CL0003@16 PRESERVED | F0001/PG-SA2-V02-0001 corrects a completed hospital kiss to a strongly supported interrupted near-kiss/display attempt. Deliberate slipping remains unproved; broader deliberate manipulation has independent source support. Preserve original historical wording with this later qualifier. | CS0017@2/RL0020@2/KN0267; IP0029@2 retained with corrected historical basis. No new claim version or forecast. |
+| CL0006@2 and broader current CL0006@18 PRESERVED | F0002/PG-SA2-V02-0002 makes the explicit post-assistance release refusal retrievable. Advice/help/refusal of Sae alliance remain true; no universal-respect inference was established. | CS0288/RL0022@2/CM0193; IP0019/TX0017 source-versus-observer qualification. No new claim version. |
+| Existing Momo agency/relationship claims PRESERVED | F0003/PG-SA2-V02-0003 repairs transport compression through a context-specific decision event. No new general personality or automatic moral-equivalence claim follows. | CS0289/RL0021@2/CM0194; mature Momo/Kairi/agency/form/dossier review remains an obligation, not already completed. |

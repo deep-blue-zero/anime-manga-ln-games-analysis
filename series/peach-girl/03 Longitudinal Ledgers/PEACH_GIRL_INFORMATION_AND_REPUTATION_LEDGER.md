@@ -5,13 +5,13 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.18"
+version: "0.19"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
 canonical_home: series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_INFORMATION_AND_REPUTATION_LEDGER.md
 created: "2026-10-16"
-review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
+review_status: OWNER_AUTHORIZED_SECOND_PASS_IN_PROGRESS
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -48,6 +48,11 @@ A future VNN transaction adds a proposition when its identity must persist acros
 Preserve original formulations and historical truth/belief states. Append later corrections/disclosures and update current views through targeted edits; never make an earlier reader or character know the later outcome. Different proposition versions remain linked if meaning changes. A unit freeze records active versions and its epistemic boundary. The closeout explicitly certifies update/no-material-change for this home.
 
 Bootstrap source-derived propositions, belief events, transmissions, reputation events and current projections: **0**.
+
+
+### Retrospective supplement route — 2026-10-24
+
+The governing method0.3 retrospective amendment permits exact source references through canonical `PG-SA2-VNN-####` observations in the non-sequential audit home when comparison demonstrates a material omission. That route is an explicit exception to the original sequential-only `PG-EV` requirement above. It applies to dated retrospective corrections, with their actual learned-after boundary and immutable original rows; future source-admission transactions and prospective freezes retain their original contracts.
 
 ## Propositions
 
@@ -1331,3 +1336,26 @@ This projection follows the complete event history through PG-FR-V18. Earlier cu
 | V15inference | IP0198@2; strongsexualnightinferencewithdrawn | No completedactdepicted or laterunshownactknown |
 
 Revision0.18 — post-sequential retrieval projection; all0.17 historical bodies retained apart from version. No new narrative events/IDs.
+
+## Second-pass V02 corrective transaction — 2026-10-24
+
+These retrospective rows are learned after PG-FR-V18; represented story time remains V02. The [canonical second-pass findings and supplements](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md) own F0001–F0003 and PG-SA2-V02-0001/0002/0003. These rows derive domain states from those observations; they do not create an additional source wording home. Original event versions, eighteen readings/freezes and forecast terms remain preserved. Late allocation is not a new terminal narrative event, source admission or readiness decision.
+
+| Knowledge / holder / prior | Proposition, actual acquisition and state | Evidence / represented time / learned frontier / limits |
+| --- | --- | --- |
+| PG-KN-0267 / Sae PG-CHAR-0003 / NONE for this local arrival proposition | KNOWS approaching Momo/Kairi from depicted window looking/reaction at i0096; recognition is supported visual inference rather than a transcribed confession. This precedes clothes/fall/approach, giving her access the arriving pair lack. | PG-SA2-V02-0001 / F0001; V02 hospital pre-arrival, learned retrospective audit2026-10-24 after PG-FR-V18. HIGH visual sequence; do not expand to exact arrival second, guaranteed successful display, deliberate slip, every intention or visitors' knowledge. Later handwritten aside supplies intention evidence but audibility to Kairi is not assumed. |
+
+| Current scoped information view / audit boundary | Active references | Truth / belief / reception distinction |
+| --- | --- | --- |
+| V02 hospital encounter / after PG-FR-V18 + audit2026-10-24 | KN0267; PG-SA2-V02-0001; IP0029@2 retained | Sae advance awareness and reader approach/heartbeat context differ from Momo/Kairi endpoint sight. V02i0100 is not support for a completed hospital kiss. Historical IP0029@1's V02 citation is qualified; actual V01 kiss/refusals and A14 unknown-declaration distinction remain. No new truth/recipient certainty. |
+| V02 stair allegation / same | IP0019@1/TX0017@1 retained; RL0022@2/CM0193; PG-SA2-V02-0002 | Two-timing framing remains refuted by accident/unrequested holding, now with explicit post-help refusal. Sae/girls see bodily tableau, but hearing release refusal is UNKNOWN; do not infer knowingly concealing an audible refusal without evidence. |
+
+
+## Second-pass transmission qualifications — 2026-10-24
+
+| Transmission/version / prior | Sender → actual recipients / content and source status | Represented time, actual learned boundary / evidence / uncertainty |
+| --- | --- | --- |
+| PG-TX-0023@2 / corrects TX0023 implicit@1 | Sae → class3 / IP0022: wound reopened, stay extended, blame Momo. Speech and socially blaming framing established; earlier exaggeration label is narrowed because clinical reopening, changed discharge schedule and causal apportionment are unverified. | V03 day after breakup; learned after PG-FR-V18 in second-pass2026-10-24. PG-EV-V03-0003/0007, i0012/i0022/i0035; PG-SA2-F0004. Keep IP0022 DISPUTED and RP0010 hostile effects. Recovery/two-days-to-discharge alone does not refute an earlier complication; no certain blood or Momo awareness of collapse inferred. |
+| PG-TX-0059@2 / corrects TX0059 implicit@1 | Misao → receptionist, with Tōji/Kairi present / asserts school-teacher role and that parents contacted her about missing daughter. Receptionist gives room705. Parent-contact truth remains UNRESOLVED; tactical embellishment plausible, not proved lie. | V06 reception; learned after PG-FR-V18 in second-pass2026-10-24. PG-EV-V06-0014/0022, i0037/i0062; PG-SA2-F0005. Inner aside qualifies school-health role only. Later TX0063 overnight notice is distinct and cannot establish no earlier contact. |
+
+Current scoped information view: retain IP0022 DISPUTED with TX0023@2, and retrieve the reception assertion through TX0059@2 with earlier-call truth unresolved. The actual later overnight notification remains TX0063. No new public reach, broad claim, forecast or medical conclusion follows.
