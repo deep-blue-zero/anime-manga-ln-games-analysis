@@ -1508,3 +1508,17 @@ Kazuma lip-reading can accurately receive words while paraphrasing them under a 
 MAIN02guild hijack story,discovered remains,Aqua spiritual assessment,read journal and anticipated burial have different access. MAIN05narrator/handwriting recognition supports the scientist join without authenticating all journal claims. Kazuma roadside care proposal remains unoffered;woodcutter duty/refusal is an independent actor within the same episode. MAIN15guest actual conduct survives Darkness later interested financial explanation. Dust narration similarly mixes admitted lies,observations and uncertain victim wishes.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+ReturnedMAIN02P375-509retains Kazuma mistaken real-world bath-as-dream belief, actual barrier encounter, customer-cover offer andP488retrospective escape report. MASKown mansion/same-priest/barrier account andDustnamed-client failure support qualified event join, without fabricating a full barrier retelling byDust. Dust admits rumor details, Charm claim and lake persuasion stories are invented; his useful observations remain separately testable.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+The informant alias and selective history shape the visitors’ sympathy. Their impostor suspicion is their interpretation, not objectively established impersonation. Kazuma’s improvised ecology and falsely credited foresight are not world facts. Pickles’s mediated testimony, Eibram’s corroboration, reported governance, observed toy handling and unanswered parentage have different warrants. Unnamed-clerk familiarity and a household-troop question do not supply personal identity.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
