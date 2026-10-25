@@ -28,6 +28,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`main-principal-monograph` — Aqua: main-principal character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_AQUA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+<a id="brad"></a>
+
+### Brad
+
+- Entity ID: `konosuba:brad`
+- Entity aliases:
+  - ブラッド (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:brad@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-32`: LIGHT_NOVEL OTHER: Bounded synthesis of the admitted Japanese MASK edition, with a current complete paragraph and ruby recheck of U021 and U023. Human Wiz's first-person recollection, Vanir's later account and Wiz's present predictions keep separate evidential weight. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Brad: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_BRAD_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="chris-eris"></a>
 
 ### Chris / Eris
@@ -49,6 +71,50 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - `expanded-cohort-01`: LIGHT_NOVEL OTHER: Bounded synthesis centered on MAIN12 final chapter; MAIN17 chapter 3 P200–402 and Eris-focalized epilogue; Continued Explosions 01 U021 P1–80/P119–203/P329–375/P444–510 and U026 P1–50. Accepted earlier-main and supplemental reports supply separately qualified derivative context. This is review of the monograph, not new primary reading, continuous MAIN12–17 coverage or completed scene and identity census.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Chris / Eris: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="doreck"></a>
+
+### Doreck
+
+- Entity ID: `konosuba:doreck`
+- Entity aliases:
+  - ドレック (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:doreck@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-40`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete DUST-CONT U011–U016 paragraph projections, including the private ending, with bounded opening and earlier retinue contexts. Paragraph and ruby scope only, with no image or whole-edition credit. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Doreck: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DORECK_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="duke"></a>
+
+### Duke
+
+- Entity ID: `konosuba:duke`
+- Entity aliases:
+  - デューク (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:duke@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-37`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete MAIN13 chapter 3, chapter 4, final chapter, epilogue and bonus contexts and bounded DUST05 choices, with qualified MAIN14, MAIN15 and MAIN17 references. The later white-winged gatekeeper is a separate figure. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Duke: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DUKE_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="dust"></a>
 
@@ -72,6 +138,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Dust: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DUST_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+<a id="gaibil"></a>
+
+### Gaibil
+
+- Entity ID: `konosuba:gaibil`
+- Entity aliases:
+  - ガイビル (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:gaibil@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-40`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete DUST-CONT U011–U016 paragraph projections: disclosure, captivity, the wedding, the battle and the private aftermath. Paragraph and ruby scope only, with no image or whole-edition credit. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Gaibil: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_GAIBIL_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="iris"></a>
 
 ### Iris
@@ -93,6 +181,116 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - `accepted-cohort-01`: LIGHT_NOVEL OTHER: Bounded accepted-cohort analysis of main-novel 06 court, play, body-swap objection and private appraisal; 10 combat, cooking, diplomacy and gift; 11 wish-duty conflict; Continued Explosions 01/02 participation, leverage and false-cover offer; Dust 03 duty and temporary flight; and Mask chapter 2 performance and finite help. Later letters/reports and forecast history remain contextual, not continuous volume coverage or new independent tests.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`accepted-cohort-monograph` — Iris: accepted-cohort character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="karen-donnelly"></a>
+
+### Karen Donnelly
+
+- Entity ID: `konosuba:karen-donnelly`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:karen-donnelly@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-33`: LIGHT_NOVEL OTHER: Bounded synthesis of the connected CONTEXP01 Donnelly episode at census row 70. The reported MASK adventurer Karen is not joined to this subject. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Karen Donnelly: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_KAREN_DONNELLY_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="lucy"></a>
+
+### Lucy
+
+- Entity ID: `konosuba:lucy`
+- Entity aliases:
+  - ルーシー (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:lucy@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-34`: LIGHT_NOVEL OTHER: Bounded synthesis of the MAIN11 Lucy episode (C3P404–579, C4P1–530, final P70–105 and the electronic bonus), with the qualified MAIN15 reference join. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Lucy: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_LUCY_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="perie"></a>
+
+### Perie
+
+- Entity ID: `konosuba:perie`
+- Entity aliases:
+  - ペリエ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:perie@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-38`: LIGHT_NOVEL OTHER: Bounded synthesis of the DUST06 encounter contexts and complete DUST06 epilogue, with a bounded DUST07 retrospective comparison that supplies no new encounter. This is monograph review, not new whole-book primary reading or a completed scene/identity census.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Perie: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_PERIE_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="rosary"></a>
+
+### Rosary
+
+- Entity ID: `konosuba:rosary`
+- Entity aliases:
+  - ロザリー (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:rosary@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-32`: LIGHT_NOVEL OTHER: Bounded synthesis of the admitted Japanese MASK edition with a current paragraph and ruby recheck. Her directly remembered behavior, speech Vanir compels through her body, her resisting speech and later reports have separate owners. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Rosary: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_ROSARY_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="rouzeri"></a>
+
+### Rouzeri
+
+- Entity ID: `konosuba:rouzeri`
+- Entity aliases:
+  - ルーゼリ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:rouzeri@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-39`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete DUST07 chapter 3 and epilogue paragraph and ruby projections, with selected chapter 1 contexts. Paragraph and ruby scope only, with no image or whole-edition credit. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Rouzeri: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_ROUZERI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="satou-kazuma"></a>
 

@@ -2048,3 +2048,10 @@ C39actual selected native coverage4192P/4128inline ruby,23members7knownEPUBs84co
 C40actual2826selectedP/1219inline ruby,11members3knownEPUBs58complete native displays. Seven complete paragraph/ruby projections andfour bounded members give zero current image,nonparagraph residual or whole-edition credit. Continuation is an unnumbered title,not Dust08. Complete continuation analytical context/component/45qualifications and all357census labels were actually received;all41literal name/role retrieval is technical,not an unnamed/image absence proof.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+C41receives2130unique current P/1954ruby in44displays across10members8localEPUBs,four complete P projections/six bounded;zero new images,residuals or whole-edition reading. Main02scientistU01870-105/440-600;Main05labU027240-360andplantU014310-523;Dust03U011complete813;Dust02U015555/U01668;Main15bonusU02157;boundedDust05/06/Yori03references retain exact scopes in provenance.41-source literal retrieval485leads is technical,not absence or identity proof.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.

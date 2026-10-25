@@ -1606,3 +1606,10 @@ Rouzeri actual transformation,flight,breath and scale vulnerability differ from 
 Gaibil public cookie/weak-grip/pen-callus/knighthood performance is not real Doreck bodily biography. Doreck revised own-strength request is not achieved cure. Butler useful teaching and coordination coexist with Feit identity surprise and missed hanging. Rival/junior fight and salary turns stay separately attributed or pair-level;magical assistance and careful dragon descent oppose universal incompetence or a death claim.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+MAIN02/05scientist has real reported creative work and present game artifacts alongside misread dog drawing,battery failure,non-electromagnetic railgun naming,makeshift limited-life parts and others implementation of Destroyer. Project responsibility is not every manufacturing act. Dust02orb resemblance/settings are separately attributed;first activator history,not inherent idleness,explains Dust resistance. Actual shared combat and Leen Lightning remain;lake fruit transfer does not test promised week-long durability.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
