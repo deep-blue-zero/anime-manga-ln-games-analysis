@@ -1669,3 +1669,10 @@ Gil interrupted magic instruction186-189 is not a Stella cast. Ogre status32 is 
 Pain’s alternate perception survives Flash424,but Aqua contact and magic weapons qualify immunity. The gatekeeper regenerates and recognizes range disadvantage142;claimed infinite mana does not establish infinite throughput or survival. The king takes an ordinary leg wound157,conserves resources and actually fields a buffed smaller golem263;no automatic on-sight spell learning. Retainers cast the opening lightningU013122–124;nine retainers plus king make ten. Seal effects,local ally enhancement and global monster weakening are separate. Mammon’s initial skill-versus-poison collapse371 and exact fatal transition stay unresolved.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+The tea-server rebrews and denies blame; Kazuma attributes the water to Aqua. Mammon actually strikes once and a later attempt is interrupted. Three interceptors become two free plus one bound; two arrivals make four free and release restores five. Coordination, imitation detection, Decoy redirection and defeat coexist. Nine retainers plus king make ten; the initial lightning belongs to subordinates, without exact allocation to every figure. Skeleton detection/strike is direct, precise beheading and Aqua finishing are inferred. Downed bodies do not certify every death.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

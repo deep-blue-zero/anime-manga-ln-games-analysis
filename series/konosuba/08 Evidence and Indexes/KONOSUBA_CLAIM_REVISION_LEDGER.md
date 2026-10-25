@@ -547,3 +547,10 @@ C48 preserves source and draft history while narrowing actual advice to Vanir as
 C49 explicitly supplies the king’s self-name 八坂恭一/やさかきょういち367 while preserving the withheld origin and war motive385/472. Earlier interrupted-name wording is dated history,not current authority over the actual utterance. The masked gatekeeper still has no received name. Mammon’s YORI04conjunction becomes a high-confidence historical join with tentative naming/hearsay retained. Main16daughter forecast belongs to Megumin312. No prior core,input,original,score or published source record is silently rewritten;new interpretations and sixteen precision qualifications carry corrections.
 
 [Current evidence index](KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+C50 retains the medicine erratum, Mary proposal/performance distinction and source-local operator identity. New precision keeps the pub hot-oden account interrupted, only one performed server blow, changing interceptor membership, subordinate lightning, inferred skeleton finishing and tentative daughter identification. No established identity join is not a proved exclusion: Eris men/clergy, apple roles and Kamonegi routes remain appropriately unjoined. Earlier sealed analyses, source receipts, models and firsts remain exact. Current audit, typed routes and twenty qualifications carry these bounded refinements.
+
+[Current evidence index](KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

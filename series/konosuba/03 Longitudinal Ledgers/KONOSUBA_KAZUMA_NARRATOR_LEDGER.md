@@ -1564,3 +1564,10 @@ MAIN16C1 guild recollection separates reports/forecasts from actual card checkin
 The narrator’s opinions are not neutral capability measures. Dust’s borrowed sword actually blocks a dangerous strike316 despite the useless-sword complaint321;the king’s gift wording322 does not change the loan. Handkerchief catch101 precedes the daughter explanation103. The king’s anger110 has explicit alternative causes. Yunyun705 and Kazuma725 tentatively identify the daughter;creatorU01622 corroborates as attributed paratext. U015 is Eris fictional focalization:her initial death assumption is corrected by Kazuma’s alive Teleport47–60. Publication colophonU018 adds no fictional actor.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+Kazuma attributes the tea effect to Aqua, and the server also denies blame. These are statements within one encounter, with no independent validation trial. Skeleton beheading/finishing mechanisms and final daughter identification remain qualified. The returning army's protection is seen; later approaching footsteps do not reveal individual pursuers. Creator afterword is a separate source layer with partly modal sketches and explicit daughter-outcome corroboration, not another directly attended duel or paid-temp transaction. Megumin and Cecily focalization likewise preserve interested reports and staged interpretations.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

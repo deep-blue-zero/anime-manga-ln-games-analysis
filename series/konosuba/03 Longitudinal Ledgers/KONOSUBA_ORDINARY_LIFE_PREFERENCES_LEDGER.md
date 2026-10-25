@@ -1539,3 +1539,10 @@ Tea is actually drunk in the vampire room496/503. Tomato farming498/502 is propo
 Pain’s conditional drain-talk affinity493 is not a performed social routine. Mammon’s ordered last tea is coercive hospitality,not an independently shown taste;his bonus246 is promised,not paid. The king cherishes a handkerchief reportedly made by his daughter103 and recounts managerial trouble277–279,but no domestic scene or full financial ethic is supplied. The daughter’s reported craft and military reputation do not reveal her own everyday goals. Missing ordinary-life evidence limits all six;no fabricated leisure,household,age or family history fills it.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+The unseen guard's safe-job expectation, reported pet and unperformed leave request supply ordinary concerns without a watched feeding routine. The farmer wants to water his field but participates in an inducement pretext. The festival child names foregone spending; the butcher defends business reputation. Refrigerator use is Cecily report, principal tulips a student report and family craft/potion outcomes participant accounts. No name, age, gender, exact budget, private household or stable habit is invented where the source does not supply it.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

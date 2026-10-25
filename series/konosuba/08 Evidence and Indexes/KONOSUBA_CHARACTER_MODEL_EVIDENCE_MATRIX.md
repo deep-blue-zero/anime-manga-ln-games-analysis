@@ -1344,3 +1344,15 @@ Current 71 model artifacts/65 source-scoped secondary entries, 193 profile passa
 C49 adds four monograph-only studies—Pain,Mammon,the unnamed masked gatekeeper and the Demon King—and two bounded profiles for Logia and the daughter. No new generative model,rule,input or diagnostic first is justified. Candidate71models/65source-scoped secondary model entries remain unchanged;195bounded-profile passages/64monograph-only studies/732nonfinal records are source treatments,not unique people or mature capability. Six existing rows change,726others and19historical plane differences stay exact. All old models and frozen performance history retain authority;full-corpus curation and final tests remain separate.
 
 [Current evidence index](KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C49 author gate closed; no forced reconstruction — 2026-10-25T17:16:57.547309+00:00
+
+Current 71 model artifacts/65 source-scoped secondary entries, 195 profile passages, 64 monograph-only studies and 732 nonfinal records are evidence-scope counts. Source 85dc3c2f passed its own full 479-test audit 40214600785, all 33 remote changed streams, the 1,729-file/71-model authority reload and fresh three-EPUB/nine-member correspondence. All 207 preservation checks passed. Six status routes close without changing substantive source interpretations; 726 other rows and nineteen historical differences remain exact. Protected integration and full-program completion remain separate. These closing bytes await the next coherent publication. Four new monographs and two bounded profiles retain their different evidential responsibilities; no additional model, rule, input or first is supplied. All previous generated originals and scores retain adverse findings and uncertainty. The [author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT49_PUBLICATION_GATE_CLOSE_01.json) is separate from protected integration and the final battery.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+C50 adds18 bounded profile passages covering19 access rows, because the two Eris records share one pair profile. It receives24 retained targets and31 new access routes;708 other entering records and19 historical plane differences stay exact. Proposed totals are71 models,65 scoped secondary model entries,213 profile passages,64 monograph-only studies and763 nonfinal access records. These count artifacts and source treatments rather than unique people or mature capability. Eleven already adequate incidental cases retain all eight entering core fields and receive additive C50 qualifications. No new model or grade is claimed.
+
+[Current evidence index](KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

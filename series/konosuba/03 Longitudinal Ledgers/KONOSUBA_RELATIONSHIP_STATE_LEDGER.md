@@ -1659,3 +1659,10 @@ Stella own focalization does not reveal the other three private states. Companio
 Pain’s own warning,Logia’s order and Nos’s offered cover remain separate coalition acts. Kazuma’s false Pain insults are not genuine contempt. Mammon’s apology and restraint coexist with hostage threats and punitive violence. The king’s treasured handkerchief is a father-attributed craft gift,caught before its history; no full reciprocal daughter psychology or moral acquittal. Nos stays one already joined subject; Fio/Clemea remain a role-unmapped nameset and the barrier crew remains route692. No duplicate person or normalized historical row plane.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+Iris obtains a local reprieve for Cecily without proving restitution. The Eris men soften under Cecily feigned distress and protest her taking relief bread; the later matching pair is a qualified contextual recurrence without persistent individual assignment. The apple helper performs aid and then refuses further pressure. Mammon's guards voice scruples while maintaining actual coercion. Explicit group/member containment differs from a shared private psyche or an inferred cross-source identity. No old individual relationship or historical row plane is silently replaced.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

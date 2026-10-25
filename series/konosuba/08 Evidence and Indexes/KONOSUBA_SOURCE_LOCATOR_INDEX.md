@@ -2111,3 +2111,10 @@ C48 receives1895unique structural paragraphs/1862ruby in46actual source review p
 C49 actual scope is2784unique structuralP/2397ruby in61complete native review pages across3known EPUBs/9text members. Five complete narrative members differ from one creator afterword and one colophon;two bounded comparisons total121P/62ruby. Eighteen further pages are complete existing-authority review,not primary pages. Main17U015 is Eris focalization,U016 creator prose,U018 publication metadata. No additional images,residuals,whole-edition,global-first or independent credit. All prior report/ruby/image exposure remains known;preparation and truncated attempts are not credited as receiving.
 
 [Current evidence index](KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+C50 current receiving is2,026 structural paragraphs/1,707 ruby occurrences in48 complete bounded deliveries across15 text members/seven known editions, plus four actually viewed EXP02 printed-text images. EXP02U029is the sole complete text member in this return. MAIN17 current633P explicitly re-inspects a subset of the prior complete C49 context. The images form a fictional Cecily-focalized interlude, not creator paratext; decorative portrait/layout adds no performed scene. Blank slots, other actors, reports and creator prose are included. No new whole-edition, admission, global-first, residual-set or independent credit follows.
+
+[Current evidence index](KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
