@@ -1610,3 +1610,10 @@ Scientist officials,king,reported female colleague and modification volunteers h
 Selective no-touch/gentleness declarations coexist with abduction; actual protection does not supply Leen consent. Dust coerces chief/subordinate and forcibly recruits worker despite later help. Apparent proprietor, individual worker, other staff, Sena and contextual Luna have different agency. Lolisa17/132provisional identity join keeps both frozen source-scoped histories and does not create two independent people or pool rule support.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+The visitors have separate grief, family and territorial purposes. Ozuma’s protectiveness toward Megumi can also interrupt a correction. Eibram’s filial indulgence is not others’ consent; Darkness’s initial hug and later refusal differ. Crow and Wiz accept a peer contest but not every third-party intervention or continued contact after withdrawal. The client’s adoption reveal neither disproves attachment nor resolves biological parents. Lolierina100/231 is a positive same-scene join, not two new individuals.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

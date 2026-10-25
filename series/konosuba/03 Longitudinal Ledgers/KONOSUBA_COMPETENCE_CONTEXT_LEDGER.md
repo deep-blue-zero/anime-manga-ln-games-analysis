@@ -1620,3 +1620,10 @@ MAIN02/05scientist has real reported creative work and present game artifacts al
 Small worker actual rehearsal/performance coexists with failed cover and an aborted dream attempt; the alleged Charm is Dust lie. Chief does not know every rendezvous detail, and the warning reader is not assigned by one colloquial ending. Party carrying, shields and rope work are real shared contributions. Contracted attacker is struck by spear butt end, not a blade; bath attendant actual boundary and old couple practical shelter retain separate owners.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Ozuma’s actual water assistance and timely wolf warning coexist with mistaken injury and credibility appraisals. Crow’s P281 metric critique is valid despite status defense and harmful intent. Akyua’s heal and Rakuresu’s protective offer are preempted, not performed failures. Megumi proposes reinforcement without carrying it out. The veteran’s nominal odds exploit stats; no rigged die or performed failed Blessing is invented. Recruiter report comparison does not give him the narrator’s private knowledge.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

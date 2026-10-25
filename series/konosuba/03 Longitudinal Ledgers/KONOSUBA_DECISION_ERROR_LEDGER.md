@@ -2073,3 +2073,10 @@ Guild living-hijacker account differs from discovered skeleton and read journal.
 Specific failed-Kazuma-client/priest-fear conjunction supports qualified Lolisa join, with unshown different failure retained as rival. Chief own lake advocacy drives adventurers away; final apology is collective. Temporary warrior first-person section has an unmarked dream onset, so no independent physical Leen assault/drugging is inferred. Week begins today inDUST01U015550, only two days pass576; later complete two-week custody report is later knowledge.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Megumi’s emotion coexists with later source checking and a near-apology interrupted by Ozuma. Ozuma accepts an improvised ecological explanation and transfers real capability into excessive moral credibility, yet still notices immediate danger. Eibram changes an exorcism task while retaining a limit on a demanded blow. The veteran shifts from contents-only stakes to retaining the wallet and recipient-specific retaliation. Crow updates about identity while defending rank, then repeatedly withdraws under danger.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

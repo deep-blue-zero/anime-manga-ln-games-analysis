@@ -1,14 +1,14 @@
 ---
 series: KONOSUBA
 artifact_type: secondary_character_coverage_audit
-scope: INCREMENTAL_CENSUS_AND_SCOPED_COHORTS_01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42
+scope: INCREMENTAL_CENSUS_AND_SCOPED_COHORTS_01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42_43
 status: active_provisional
 do_not_use_as_current_authority: false
 ---
 
 # Secondary-character coverage audit
 
-This maintained register retains419 nonfinal source-bound records. Cohort42 has closed its exact-source author publication gate for two substantial criminal-trio monographs,seven bounded profiles,fifteen reported/group/dream/access routes andqualified identity supplements. Totals:63model artifacts,57source-scoped secondary model entries,113compact profiles and34monograph-only routes;these are not disjoint people. Twenty-nine publication-status records change;390others and19historical plane differences remain exact. All frozen models,rules,originals andadverse findings persist. See the [cohort42 index](KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md),[author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json) and[partitioned census](KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json). Full census,synthesis,successors,validation,integration/release andfull program remain open.
+This maintained register retains456 nonfinal source/access records, including overlapping and group routes. PR324 reference correction is published at17e6afe7/full479 audit and its review is resolved. C43 semantic receiving is complete; exact new publication is pending: seven monographs, one two-rule provisional Ozuma model, four bounded profiles and37 new source/access records. Candidate totals64 model artifacts/58 source-scoped secondary model entries/117 compact/40 monograph-only routes do not count distinct people or independent observations. Old deputy100 joins existing Lolierina231 without another study. All63 existing models and old firsts remain exact; four new English firsts retain their binding/transfer issues. Eleven entering rows change,408 others and19 historical plane differences remain exact. See the [cohort43 index](KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Current C43 fields govern; older wording remains dated history. Full census, synthesis, successors, validation, designated integration and release remain open.
 
 Iris earns scoped Tier3 treatment: direct ordinary activity, competence, duty, refusal, political choice, coercive tactics, different relationships and her own private focalization support distinct falsifiable mechanisms. The [monograph](../05%20Specialist%20Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md), [model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md) and [evidence index](KONOSUBA_IRIS_EVIDENCE_INDEX.md) carry those different responsibilities. Tier3 describes an earned reconstruction candidate, not demonstrated future accuracy or a mature universal simulator. Seven new informed rules and22actually generated synthetic outputs preserve weak, adverse and underdetermined branches.
 
@@ -1594,3 +1594,66 @@ Twenty-two new records397–418retain source-bound occurrences rather than a new
 | 418 | Other human lake guards / obstruction coalition (DUST03) | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST03U011P596-604/623-738 |
 
 Cohort42 exact-source author publication is closed. Earlier pending-at-authorship fields remain dated history; current publication resolutions and the author gate govern this status. No independent validation or full-program closure. All unresolved mappings remain explicit.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast
+
+[Evidence and proportional scope](KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md) and the [identity supplement](../05%20Specialist%20Synthesis/KONOSUBA_YORIMICHI01_IDENTITY_AND_SUPPORTING_CAST_COHORT43_SUPPLEMENT.md) govern this source-known cohort. Seven monographs and one two-rule model are deliberately asymmetric. Thirty-seven new source/access records419–455 include two bounded pairs and35 sparse routes;456 records are not456 distinct people. Old100 joins existing231 at exactU014P63; chief91 and unrelated230 remain separate.
+
+| Current row | Subject | Scope | Limits |
+|---|---|---|---|
+| 93 | Ozuma / ザトゥ・オズマ | 3; Actual unpaid help, an explicit exchange norm, anger/legal inhibition, companion interaction, work, a danger warning, gratitude and credibility errors support two narrow defeasible propositions. | One connected episode; ordinary reciprocity, gratitude, loyalty and comic reversal remain rivals. No independent mechanism isolation, maturity or transfer accuracy. |
+| 94 | Akyua / アキュア | 1; Her own apology, hospitality, prayer, intended but preempted heal, arrow recognition and mistaken trust support a bounded profile. | No performed failed heal, complete capacity ceiling or individually supplied tragic biography; no automatic Aqua trait transfer. |
+| 95 | Megumi / メグミ | 2; Food/name exchange, emotional engagement, checking, a pressured near-apology, correct rule objection, danger proposal and family project support an individual monograph. | Inherited claims are reported; reincarnation remains an inference, mobilization is not performed and no distinctive generator is isolated. |
+| 96 | Rakuresu / ラクレス | 2; Courtesy, reputation interest, sympathetic proposed departure, protective offer/stance, former territorial duty and reported harassment response support a monograph. | No actual failed tanking, sole-survivor or noble-birth claim, completed restoration or Darkness-desire transfer; several deeds are reported or preempted. |
+| 97 | Wolfgang Crow / ヴォルフガン・クロウ | 2; Hierarchy revision, harmful intent, a chosen contest, forced alternatives, metric critique, withdrawal and coerced pledge support substantial study. | Ordinary life and comparable independent contexts are thin. Status defense, survival and a connected contest remain rivals; no cub join, fulfilled reform or model. |
+| 98 | Eibram / トランザム・ルッソ・エイブラム | 2; Rank-sensitive hospitality, task revision, filial care, a limit on a violent demand, diary promise, adverse admission and unanswered adoption questions support the client’s agency. | Good governance is interested testimony, disposal is unperformed, biological parentage unanswered and C29 name attribution preserved. |
+| 99 | Pickles / トランザム・ルッソ・ピクルス | 2; Public-image/private-appetite account, play versus business, recipient limits, exposure bargaining, adverse legacy and adoption disclosure support a mediated-subject study. | Aqua-mediated speech is not separately heard voice. No affair proof, consent proxy, destroyed diary or fulfilled reform; C29 name precision retained. |
+| 100 | Old unnamed-deputy episode route | JOIN_EXISTING_231; Exact YORI01U014P63 self-name and office match the already studied Lolierina at 231; retain the old route with a joined-to history. | Zero new-person, monograph, model or independent credit. Chief Aloerina is 91; unrelated 230 remains untouched. |
+| 101 | Unnamed recruiter/inspector | 1; Report-based appraisal, explicit recruitment aim, progression assumptions, actual refusal response and departure contrast support a bounded occupational profile. | Punitive aim is initially inferred; private departure cause is unknown. No accepted recruit, stripped license or universal class-coward generator. |
+| 122 | Unnamed wallet-wager veteran | 2; Consent defense, ordinary interference, strategic odds, an exact stake violation, funds checking and retaliatory retention support a substantial study. | No personal name, rigged die, shown prior-city crime, completed Kazuma rematch or watched final restoration. Profit, irritation, object value and face remain overlapping causes. |
+
+
+## Cohort 43 — four bounded Yorimichi 1 profiles
+
+These profiles use the complete current paragraph/ruby projections of YORI-01 U018, U024 and U026, with the [cohort evidence index](KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md) and [native provenance](KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json). They are source-known retrospective Tier 1 accounts. A different personal history or more varied decisions can justify later depth; neither anonymity nor limited appearances impose a permanent ceiling.
+
+### Akyua / アキュア — a distinct priest whose intended spell is preempted
+
+At U024 P47 Akyua apologizes for Ozuma's effect on the stranger; P69 invites the informant to eat as thanks, and P71 supplies her name. Courtesy, a paid meal and the alias question at P94 give her a social role beyond an interchangeable healer. Prayer during the misleading history is actual narrated behavior (P107). The history remains Kazuma's selective account rather than a fact independently verified by Akyua.
+
+When a wounded man arrives with a female helper (P285–287), Akyua moves in, assesses the wound and begins an intended palliative response (P295–297). Aqua casts before Akyua speaks the spell (P299–301). No performed failed heal by Akyua is shown. Her stagger and stunned response after Aqua's success (P309/320) support a disruption of her capability appraisal, not an established lifetime ceiling or complete incapacity. P369–370 explicitly attributes recognition of the silver arrow to the priest. Her final cheerful assurance that the principals would not have committed the reported wrongs (P469–470) is an actual but mistaken favorable inference in this scene.
+
+Akyua differs from Aqua in name and identity. She receives no automatic divinity, supernatural scale, debt history, wrongs or temper from the parallel. The source does not assign her an individual bereavement or family project: Ozuma's Hans account, Megumi's grandfather and Rakuresu's former territory are not her biography. Nor can the untagged quartet lines at P207–211 be assigned to her solely because of polite phrasing.
+
+Printed apology, さん-address and the meal invitation (P47/69/94) contrast with the interrupted clinical response and brief recognition at P370. Her cheerful trust has a different function from her earlier shock. These are pragmatic observations with source-limited attribution, not an acoustic or universal grammar claim. Ordinary hospitality and willingness to respond to an injury are observed; income, private routines and priorities under a wholly different cost remain unknown. The comedy of a priest encountering Aqua's exceptional power does not make a preempted action into an actual failure.
+
+Disposition: Tier 1 bounded profile. More varied individual choices, performed healing under known constraints, and her own longer-term purposes would be needed for a monograph or generative model. Current scene density is retained without importing the companions' dimensions to manufacture symmetry.
+
+### Unnamed capital recruiter/inspector — a mistaken model of what adventurers want
+
+The official in U026 is unnamed. The guild clerk reports that senior visitors can remove qualifications but says she does not know this visitor's purpose (P36). The suit, glasses and sharp gaze at P73–76 prompt a punitive interpretation from Kazuma and other adventurers. That interpretation is not the official's stated motive. No source-grounded alias connects him to another inspector or police actor.
+
+He actually observes the staged frog hunt (P114/118–124), compares it with reports of harder monster work and asks to see the party's real performance. His explicit aim is to recruit for a short-staffed capital guild and address the reduced outflow from Axel (P126/145). Report comparison supplies some occupational competence; it does not prove that he knows every private stunt, hidden establishment or reason for refusing departure.
+
+His progression assumption joins level, stronger enemies, wealth and fame. Kazuma's refusal, supported by other men, contradicts it (P144–153). The official hears the stated home/relationship account. Kazuma's private service-related reason at P156 and his inference about the other men's reasons at P157 are not automatically information the official receives. Conversely, women seeking the capital give their own aspirations and complaints; no rule says that all women or all men have one motive.
+
+The official promises to stay until he can recruit the high-level adventurers (P186). Later low-level aspirants press him (P200–203), and Megumin offers the party's services (P206). Actual next-day departure at P208 contrasts with his intention. The source does not state the complete private reason for leaving, show an accepted transfer, strip a qualification or establish permanent fear of every Axel adventurer. A recruitment problem remains distinct from a successful punitive inspection.
+
+His printed formal 私, categorical demand that the charade end (P118), surprised questions about refusal (P145) and qualified stammer about the desired recruits (P200) trace changing confidence. They do not warrant a universal class-based coward generator. Little ordinary-life information is available beyond work, institutional shortage and the offered career incentives. The farce depends on a rational institutional progression model meeting locally specific preferences; an incorrect incentive assumption is not total stupidity or moral villainy.
+
+Disposition: Tier 1 bounded profile. This encounter supports a focused occupational and informational account. Independent decisions outside the same recruitment reversal, actual follow-through and more personal evidence would be needed for deeper modeling. No name, final motive or future outcome is invented.
+
+### Two pursuing police voices — a local choice to continue working
+
+YORI-01 U018 P125–135, `text/part0016.html`, gives two nearby police presences during Kazuma and Chris's concealment. One asks to check a sound; Chris imitates a cat, and a speaker calls it a Neroid. At P134 a voice says the supposed animal might be caught for pocket money but should be left because they are working. Both presences then go away. No Neroid is actually seen or caught in this exchange.
+
+This supports a Tier 1 bounded pair/role profile: checking a possible lead, accepting an erroneous animal explanation, and explicitly subordinating a possible small private gain to the current work. It does not establish which earlier turn belongs to the P134 speaker, a stable ethical trait shared by both officers, outstanding detection ability, or a performed capture. The final police group at P373 and other police encounters are separate occurrence routes without a positive personal join. Printed practical questions and plain colloquial explanation are evidence of these turns, not an individual voice generator. Anonymity and unallocated turns limit attribution rather than erase the observed choice. Wider occupational duties, family, name and future behavior are unknown.
+
+### Two familiar male advisers — seeking Kazuma's help while warning about his plan
+
+At YORI-01 U026 P77–95, `text/part0024.html`, two familiar adventurers approach Kazuma because the official's scrutiny makes them uncomfortable. They request his usual clever help; the narrator notices the unflattering wording. They understand the proposed frog hunt, a voice points out the party's frog weakness (P93), and the narrator reports that their circulation of the plan leads other adventurers to take frog quests (P95).
+
+This is a Tier 1 bounded pair/role profile of situational dependence, useful warning and social coordination. The source does not individually allocate every turn or supply personal names. Familiarity is not proof that they are Keith, Dust, Taylor or any other named men. Their request for help does not mean they cannot spot a weakness in Kazuma's advice. His concern about being called 小狡い is his response, not a secret insult intention independently established for each man. No completed capital transfer, personal knowledge of every private reason for staying in Axel, or stable universal aversion to work follows. Their plain, familiar appeal is interaction-specific; it should not become a catchphrase or a separately certified dialect. More individuated choices could justify a later split, with the pair history retained.
+
+Exact containing publication remains pending. Prior source-first observations and every old model/first/score remain preserved; the full program continues.

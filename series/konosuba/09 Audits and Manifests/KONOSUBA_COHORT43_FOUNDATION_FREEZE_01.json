@@ -1,0 +1,112 @@
+{
+  "schema": "konosuba.cohort43.source-safe-foundation-freeze.v1",
+  "private_complete_freeze_sha256": "f3f2154077ebcbc5109eea4142a7393f3cf09a8b13ed06d346e1b2b8c5210102",
+  "frozen_utc": "2026-10-25T02:23:25.561056+00:00",
+  "scope": "C43 reviewed foundations before exact inputs",
+  "source_baseline": "17e6afe779dfacca8611596939b4fbc75633534a",
+  "foundation_pins": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_OZUMA_CHARACTER_MONOGRAPH.md",
+      "bytes": 7655,
+      "sha256": "09e69b1e74d197f2e4d0ae3c75b1e43161fda8258cdb932d7bff6c9b2e42781d"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MEGUMI_CHARACTER_MONOGRAPH.md",
+      "bytes": 6739,
+      "sha256": "394bf96cf28effdd1eda8cfccdab476f4cb208e423e7b31789357fca01fc8121"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_RAKURESU_CHARACTER_MONOGRAPH.md",
+      "bytes": 6871,
+      "sha256": "16e9fbdf803d48657c0e1a3adf607a7135a988e4ae2080c396c44396c7d72007"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_WOLFGANG_CROW_CHARACTER_MONOGRAPH.md",
+      "bytes": 7485,
+      "sha256": "78d09566687a35ad696935dfb61d43f45b2e74ea4f86fb3037c56acc3cf47664"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_EIBRAM_CHARACTER_MONOGRAPH.md",
+      "bytes": 7255,
+      "sha256": "ed57e30cb7cd9f976018dabd1a3072942ddad1066ac1cad30e75e9a27a91b38a"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_PICKLES_CHARACTER_MONOGRAPH.md",
+      "bytes": 7152,
+      "sha256": "c503ba5a5656682fa5d60cdded05b1b9f533fd97750780f45c793f919c141943"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_EXPLOITATIVE_VETERAN_CHARACTER_MONOGRAPH.md",
+      "bytes": 7027,
+      "sha256": "d592c45e5df4f2fe8b9660303ff928cbc3f3337d88842dddd529db3c43ca2c9d"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_OZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 12140,
+      "sha256": "151d6f98da3fca7b5e4c1380f6f456d94f304b4a7b26383feed743ea1444e765"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/OZUMA_EXPANDED_V1_EVIDENCE/OZUMA_RULE_INVENTORY_01.json",
+      "bytes": 7838,
+      "sha256": "b7ec532efe2c8efd51fce61bc4a74eebe2fa2fce06c5dc9f5ca81924891e9695"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI01_IDENTITY_AND_SUPPORTING_CAST_COHORT43_SUPPLEMENT.md",
+      "bytes": 7407,
+      "sha256": "635316e1c2ba498b522f85a9146b9cc1b009547631f99d47a4024c6309886732"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+      "bytes": 15844,
+      "sha256": "1e524ecdfecb39460ea891375a263768d203cb129eb71d565a50d924ef87efbd"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+      "bytes": 6868,
+      "sha256": "01850ad21764ccce1716fb250d092050619665d769a84c3b4423597bbc2e5e1f"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_IDENTITY_AND_SCOPE_ASSESSMENT.json",
+      "bytes": 6051,
+      "sha256": "04390b86c35019402b5c35461c9dd8c96dde207140660cb3b7be721d8c94cac9"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NEW_DISCOVERY_RECORDS.json",
+      "bytes": 33925,
+      "sha256": "2f0c290529a7754a4f4dcf832da99d5dce00904e24ca248e2113ff055a417167"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 3547,
+      "sha256": "abf6f053d86ce5421d2911a80a169a4dc65cc2e789163e2616eb02d4afab0c1d"
+    }
+  ],
+  "compact_fragment": {
+    "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "bytes": 8467,
+    "sha256": "b801de47809b3d83832af3155bb3be91229c9fab3ef43968ee3943ee0a59e5fe",
+    "append_fragment_not_full_file": true
+  },
+  "complete_review": {
+    "initial_pages": 24,
+    "corrective_pages": 4,
+    "link_and_destination_correction_received": true,
+    "all31_foundation_relative_links_resolve": true
+  },
+  "counts": {
+    "monographs": 7,
+    "monograph_only_new_routes": 6,
+    "new_provisional_models": 1,
+    "new_rules": 2,
+    "compact_profiles": 4,
+    "new_source_access_records": 37,
+    "proposed_nonfinal_source_records": 456,
+    "unique_person_denominator": null
+  },
+  "existing63_models_and_prior_histories_preserved": true,
+  "exact_inputs_or_firsts_present_at_freeze": false,
+  "source_known_same_informed_root": true,
+  "independent_accuracy_grade_or_confidence_gain": false,
+  "private_operational_checks_and_native_caches_not_exported": true,
+  "full_program_complete": false
+}

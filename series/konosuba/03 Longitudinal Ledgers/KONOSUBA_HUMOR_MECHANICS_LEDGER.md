@@ -2099,3 +2099,10 @@ Scientist plausible accounts become unwanted obligations;dog/snake design and no
 Abduction discussion becoming preference debate, demanding a feared binding and useful reward-supported rescue are different reversals. They do not erase intended coercion or Dust sexual threats/imposed exposure. Vanir plus two linked shells perform apparent three-police rescue; they are not three new human officers. The girl receipt/address reversal and bath watcher explanation have actual outcomes, unlike unperformed promises.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+The visiting quartet’s parallels do not make them aliases or transfer the principals’ psychology. Rank reversal, excessive heroic credibility, the veteran’s rule inconsistency and the diary/adoption interruption are distinct comic mechanisms. Their comedy does not erase threats, invasive requests, coerced contact, purification or unresolved parentage. No new H/L census or selected-sample denominator is claimed.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

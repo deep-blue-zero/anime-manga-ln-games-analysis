@@ -1265,3 +1265,10 @@ Row133MAIN02/05scientist earns a monograph and two-rule provisional reconstructi
 Rows395/396receive substantial monographs with mechanism/attribution rivals rather than forced models. Seven new compact profiles and15T0routes append; seven entering rows11/17/80/88/132/395/396change,390remain exact per plane. Model artifacts63/source-scoped secondary entries57unchanged;113compact34monograph-only419nonfinal routes. Qualified identity join can retain two historical model artifacts for one provisional individual without independent duplication.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Ozuma93 adds one two-rule provisional model; six other new monographs remain monograph-only. Four bounded profiles and 37 source/access records preserve individual versus group/report distinctions. Candidate totals: 64 model artifacts / 58 source-scoped secondary model entries / 117 compact profiles / 40 monograph-only routes / 456 nonfinal records. Existing63 models and every old rule/first/score remain exact. The old deputy100 joins existing231 without increasing study counts. Same-root hypothetical compatibility is separate from empirical model support.
+
+[Current evidence index](KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

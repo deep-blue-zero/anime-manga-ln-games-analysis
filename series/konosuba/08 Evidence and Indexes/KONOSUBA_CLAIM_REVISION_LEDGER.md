@@ -498,3 +498,10 @@ C41retains earlier histories while current source receiving qualifies unnamed ro
 C42qualified Lolisa17/132specific-client failure bridge and contextual Luna-disguise judgment supersede earlier unresolved routing phrases only through current supplement/census fields; all old model support/first bodies remain exact. Chief masked-group continuity positive but weapon/turn mapping unresolved. Precision correction makes lake apology collective, chief persuasion failure his own, MAIN02escape reported, andstaff group narrower. Original drafts/partial expired-calendar wording retained with governing corrections; no uncoded-note repair.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+C43 positively joins old unnamed deputy100 to Lolierina231 at exact YORI01U014P63 while chief91 and unrelated230 stay separate. C29 client/father full-name precision is preserved. Crow/cub and Marybell/Mary are distinct; female devil/Arnes and unnamed clerk/Luna remain unjoined. Corrective drafts preserve Rakuresu’s table strike, attribute impostor suspicion to visitors and repair only the coverage link/destination before exact inputs. Original drafts and seals remain attributable. Four new diagnostic originals retain their binding and transfer issues without model or body repair.
+
+[Current evidence index](KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

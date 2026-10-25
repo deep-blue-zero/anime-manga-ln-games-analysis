@@ -1515,3 +1515,10 @@ MAIN02guild hijack story,discovered remains,Aqua spiritual assessment,read journ
 ReturnedMAIN02P375-509retains Kazuma mistaken real-world bath-as-dream belief, actual barrier encounter, customer-cover offer andP488retrospective escape report. MASKown mansion/same-priest/barrier account andDustnamed-client failure support qualified event join, without fabricating a full barrier retelling byDust. Dust admits rumor details, Charm claim and lake persuasion stories are invented; his useful observations remain separately testable.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+The informant alias and selective history shape the visitors’ sympathy. Their impostor suspicion is their interpretation, not objectively established impersonation. Kazuma’s improvised ecology and falsely credited foresight are not world facts. Pickles’s mediated testimony, Eibram’s corroboration, reported governance, observed toy handling and unanswered parentage have different warrants. Unnamed-clerk familiarity and a household-troop question do not supply personal identity.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -1943,3 +1943,10 @@ Six entering rows89/90/92/133/145/146receive proportional treatment:four monogra
 Two substantial monographs treat the criminal chief and unresolved subordinate route; seven compact profiles and fifteen sparse/report/group/dream routes append. Qualified specific Kazuma-failure bridge links Lolisa17/132provisionally; Luna disguise is strongly contextual. Current totals63model artifacts/57source-scoped secondary entries/113compact/34monograph-only routes/419nonfinal census records are not unique people. No new model, rule, input or first body.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Seven individual monographs cover Ozuma, Megumi, Rakuresu, Crow, Eibram, Pickles and the wallet-wager veteran. Only Ozuma earns a narrow two-rule provisional model. Akyua, the recruiter and two anonymous pairs receive four bounded profiles. Thirty-five sparse source/access routes and two bounded pair routes append, yielding 456 nonfinal records, not 456 people. Old deputy100 positively joins existing Lolierina231 with no new study credit; unrelated230 is unchanged.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

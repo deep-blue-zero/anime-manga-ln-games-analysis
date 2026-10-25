@@ -1490,3 +1490,10 @@ Scientist games,toys,bonus preference,alcohol and clothesline repurposing distin
 Child birthday gift is actually returned; chief printed collection and money, road maker craft pride, worker cleaning/occupational aspiration, Luna unrealized spa wish, store owner lunch/stock and couple hospitality retain ordinary life. Necklace adjustment offered/refused and deferred payment are distinct. Craft does not establish paid bakery identity; barn does not establish farming; no complete private routine manufactured.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Ozuma protects a paid informant’s unhurried meal and helps before a bargain; Megumi refuses one frog dish and explains her name. Akyua supplies hospitality and prayer without borrowing Aqua’s biography. The veteran wants quiet beer/snacks and gives peanuts before accepting a contest. Pickles’s guitar, garden and drink preferences are mediated/corroborated reports, not newly watched past activity. Eibram’s staff suspicion, diary privacy and family question matter alongside the haunting.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

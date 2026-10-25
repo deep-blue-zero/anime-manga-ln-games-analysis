@@ -1413,3 +1413,10 @@ Coercion of the scientist does not excuse funding concealment,destructive satisf
 Retain paid kidnapping plan, forced exposure/sexual coercion, feigned hostage with no-touch protest, actual battle and uncertain dream onset. No depicted exact off-page act, physical Leen assault from dream or confirmed contractor death is invented. Seven shocked men later bound do not thereby have medically proved harmless outcomes. Promised dreams, officer threats and old-couple payments/return remain unperformed in current windows.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Crow’s predatory intentions remain harmful even though Aqua later coerces him. His vegetarian pledge is not fulfilled reform before purification. Pickles’s private wishes and legacy counsel retain invasive implications; Eibram explicitly declines to demand a blow. Rakuresu actually strikes the table after a selective account and separately reports striking an unwanted approacher. Reported bereavement, urgent injury help and actual survival requests must not disappear into the doubles joke.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
