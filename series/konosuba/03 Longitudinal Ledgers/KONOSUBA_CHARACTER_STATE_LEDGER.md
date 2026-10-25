@@ -1957,3 +1957,10 @@ Seven individual monographs cover Ozuma, Megumi, Rakuresu, Crow, Eibram, Pickles
 Six monographs cover the particular forest dryad, noble dinner host, white-tiger mother, Siegwald, unnamed Wolbach follower and storm great spirit. Only the dryad receives one provisional rule. Twenty-one bounded profiles and56 new source/access routes retain individuals, groups, reports and overlapping occurrences. Chomusuke21 receives a source supplement without another study; Anna118 stays unchanged pending adequate later treatment. Candidate512 records are not512 people.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+YORI03U020 has three explicitly temporary routes and current returns. Only Kazuma carries the later experience; the knee veteran's refusal513–517 and branch3 repayment654–679 are differently informed counterparts, not a serially converted common mind. Shumel's public sarcasm, explicit name prohibition, real attack and later loss of controlU014358–414 are changing states in one dense encounter. Vice's certainty, correction, duel loss and dead-eyed weddingU01839–336 remain separate phases; neither wedding nor apology establishes a stable happy/reformed disposition. All entering65 model bodies remain exact.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

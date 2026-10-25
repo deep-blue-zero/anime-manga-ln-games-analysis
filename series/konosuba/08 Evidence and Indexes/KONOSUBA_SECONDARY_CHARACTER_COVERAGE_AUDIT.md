@@ -1,14 +1,14 @@
 ---
 series: KONOSUBA
 artifact_type: secondary_character_coverage_audit
-scope: INCREMENTAL_CENSUS_AND_SCOPED_COHORTS_01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42_43_44
+scope: INCREMENTAL_CENSUS_AND_SCOPED_COHORTS_01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42_43_44_45
 status: active_provisional
 do_not_use_as_current_authority: false
 ---
 
 # Secondary-character coverage audit
 
-This maintained register retains512 nonfinal source/access records, including groups and overlapping routes. C43 author gate is closed at1042c16a/full479 audit; C44 semantic receiving is complete and exact publication is pending: six monographs, one-rule provisional dryad model,21 bounded profiles and56 new source/access records. Candidate65 model artifacts/59 source-scoped secondary entries/138 profiles/45 monograph-only routes are not people or independent observations. Chomusuke21 receives a supplement only; Anna118 remains due. All64 entering models and earlier originals/scores remain exact. Nine entering rows change,447 others and19 historical plane differences stay exact. See the [C44 index](KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Current fields govern; prior wording remains dated history. Full census, synthesis, successors, validation, designated integration and release remain open.
+This maintained register retains572 nonfinal source/access records. C45 semantic receiving is complete and exact publication pending: ten substantial studies, two weak provisional models/three rules and22bounded-profile passages. Candidate67model artifacts/61source-scoped secondary entries/160retained profile passages/53monograph-only studies are not people or independent observations. Twenty-one profile passages enroll new Tier1routes; one supplements existing Rex51 without a new row or changed model. Ten entering rows change,502others and19historical plane differences remain exact. All65entering models and earlier firsts/scores/blanks/nulls stay exact. Anna broader treatment remains due. See the [C45 index](KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md) and [receiving](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json). Older wording remains dated history; full census,synthesis,successors,validation,designated integration and release continue.
 
 Iris earns scoped Tier3 treatment: direct ordinary activity, competence, duty, refusal, political choice, coercive tactics, different relationships and her own private focalization support distinct falsifiable mechanisms. The [monograph](../05%20Specialist%20Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md), [model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md) and [evidence index](KONOSUBA_IRIS_EVIDENCE_INDEX.md) carry those different responsibilities. Tier3 describes an earned reconstruction candidate, not demonstrated future accuracy or a mature universal simulator. Seven new informed rules and22actually generated synthetic outputs preserve weak, adverse and underdetermined branches.
 
@@ -1852,4 +1852,116 @@ The ordinary ingredient context corrects Darkness's suspicion. A knife and blood
 
 This Tier1 profile retains an ordinary material contribution and its limited access. Price, stock ownership, exact relationship with Chris, history and later conduct remain unknown. Cake, gift and birthday plans at the close remain plans. The worker's inclusion does not require an invented direct speech, inner emotion or reconstruction model; the actual source-bound role is enough for a bounded account.
 
-Exact containing publication remains pending. Prior dated scopes, earlier models and originals remain exact; the full program continues.
+C44 exact-source author publication is closed. Earlier pending-at-authorship statements retain their dated scope; the publication resolution and author gate govern current status. All models,rules,originals,source bounds,scores and adverse findings remain exact. Protected integration and the full program remain open.
+
+
+## Cohort45 — individual Yorimichi 3 studies
+
+Ten individual/event-scoped studies are received. Only Shumel and the knee veteran earn narrow provisional generators; eight other studies retain their own evidence and unresolved rivals. The [index](KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md) and [identity supplement](../05%20Specialist%20Synthesis/KONOSUBA_YORIMICHI03_IDENTITY_AND_SUPPORTING_CAST_COHORT45_SUPPLEMENT.md) govern scope. The60new records include groups,embedded figures,animals,reports and overlapping roles;572records are not572people.
+
+| Current row | Subject | Tier | Individual study |
+|---|---|---|---|
+| 107 | Shumel / シュメール・ミード・ひゃんひゃん | 3 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_SHUMEL_CHARACTER_MONOGRAPH.md) |
+| 108 | Vice / バイス | 2 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_VICE_CHARACTER_MONOGRAPH.md) |
+| 109 | Lilac Rod Lalatina / later Lalatine | 2 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_LILAC_LALATINA_CHARACTER_MONOGRAPH.md) |
+| 110 | Tia / ティア | 2 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_TIA_CHARACTER_MONOGRAPH.md) |
+| 111 | Liliantine / リリアンティーヌ | 2 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_LILIANTINE_CHARACTER_MONOGRAPH.md) |
+| 112 | Melvirei / メルビレイ | 2 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_MELVIREI_CHARACTER_MONOGRAPH.md) |
+| 113 | Last-life succubus dungeon owner | 2 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_LAST_LIFE_SUCCUBUS_OWNER_CHARACTER_MONOGRAPH.md) |
+| 512 | Baron Crank / クランク | 2 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_CRANK_CHARACTER_MONOGRAPH.md) |
+| 513 | YORI03 succubus messenger occurrence | 2 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_YORIMICHI03_SUCCUBUS_MESSENGER_CHARACTER_STUDY.md) |
+| 514 | Knee-injured veteran counterpart bundle | 3 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_KNEE_INJURED_VETERAN_CHARACTER_MONOGRAPH.md) |
+
+## Cohort 45 — bounded Yorimichi 3 actors and source roles
+
+These proposed Tier1 profiles belong in the existing coverage audit after complete foundation review. They are source-bound treatments, not a new parallel index or certificates of distinct people. Group and role occurrences may overlap; an embedded-book figure is not promoted into an enacted resident. All locators use the current YORI-03 paragraph/ruby receipt. The larger scope is3006P in five members, with zero fresh images or residuals and no independent-observation credit. No profile here earns a behavioral generator merely by receiving a heading.
+
+### Y03-B01 — the three adventurers restrained in the ring episode
+
+YORI-03 U012 P215–224/264–296 establishes an explicitly described female adventurer used for Megumin’s demonstration and two further critics she restrains. Narration later identifies exactly three previously restrained adventurers approaching her287, now with protective talismans289. Their accusations284–286 and demands for an apology292 concern the restraint, rather than a stated objection to her species. They have a practical means to resist the power, coordinate intimidation and help make her leave293–296. No completed strike by this trio is shown. The individual allocation of all earlier spectator comments remains partly unbound; the profile does not name them, assign each a stable voice or turn the locally attested three into a global person count. Shared anger and effective protection support bounded agency, while a generic response to being forcibly immobilized remains a strong explanation.
+
+### Y03-B02 — ring-story spectators and talisman buyers
+
+At U012 P189–224, several unbound voices assess the impending contest, initially interpret Yunyun’s immobility as play and revise their reaction when another adventurer cannot move217–218. Later speakers seek release or precautionary protection270–275. Other spectators try to understand the messy duel402–446. These are situated appraisal and purchase choices, including errors, rather than one omniscient audience. Some occurrences can overlap B01; the source does not bind every voice across the scenes. No exact larger crowd size, universal consent to the spectacle or collective final verdict is established. Their behavioral interest lies in the movement from social expectation to demonstrated effects and practical countermeasures, without a separate group personality model.
+
+### Y03-B03 — the park girl who admires devils
+
+The young girl at U012 P318–346 asks whether Megumin’s horns make her an ogre, responds positively to the devil identification and reports that a devil helped her mother against crows334. She provides a reason for her favorable appraisal, not merely empty admiration of appearance. Kazuma’s suggestion that she is too young to distinguish good from evil325 is his interpretation; her actual speech includes an evaluation of helpful conduct330/334. Her mother is not present320, her exact age is unknown and the helper’s identity is Kazuma’s inference335–338. Her admiration helps redirect Megumin’s self-presentation but does not make her responsible for its later threats. No verified universal devil benevolence, local residence, invented family history or nonverbal psychological diagnosis follows.
+
+### Y03-B04 — the turtle in Kazuma’s embedded race tale
+
+U014 P8–19 is Kazuma’s reading of a book, not a separately witnessed race among current residents. Within that telling, the fortress turtle proposes a prolonged unsupported race15, benefits from stored nourishment17, catches the exhausted rabbit18 and offers transport for a fee19. The unusual resource arrangement and opportunistic offer are the particular behavior worth indexing. No payment, final winner, completed transport or independent verification of the species account is shown before the reading is interrupted. A compact source-plane profile can preserve this fictional strategy without supplying a complete turtle psychology or treating the excerpt as a new complete-edition reading.
+
+### Y03-B05 — the rabbit in the same embedded tale
+
+In U014 P11–18, the rabbit initially leads confidently and travels far, then discovers the disadvantage built into an exceptionally long race without supplies14–17 and collapses18. The account gives a bodily/resource limit and a change in represented appraisal; it does not prove universal arrogance or stupidity among rabbits. The turtle’s later fee offer19 is not the rabbit’s accepted bargain. This is a bounded figure in an embedded book excerpt, distinct in role from its opponent and from an actual encountered monster. Private motives for accepting the race, the response to the offer and the ending remain unavailable.
+
+### Y03-B06 — Dustiness patrol and intrusion-response guards
+
+U014 P61/176 describes patrol arrangements and strengthened security. In the later intrusion, guards detect the visitors445–456, one cuts Chris’s Bind rope463, another recognizes Kazuma’s previous sand/ice tactics471 and a voice recognizes Chris472. This is effective task-specific memory and resistance, not decorative incompetence. Ignis later listens478–500, household support is obtained508 and guards cover the escape route536. Those different occurrences do not identify one soldier or establish every guard’s personal agreement with the eventual humiliation629. Possible overlap with the MAIN07 wedding guard236, Norris237 and other household staff remains unproved. Their local competence merits a bounded group/occurrence profile, with no invented troop size, name, inner loyalty history or collective personality.
+
+### Y03-B07 — the autonomous maid-doll prototype
+
+Wiz’s prototype actually begins sweeping in U016 P90, announces detection of an intruder101 and explodes after Vanir throws it outside103–104. Its programmed registration and inseparable-function limits are described by Wiz108–111; those claims should not become proof of unrestricted cognition. The announcement is an actual represented utterance, and the movement has consequences, so the object label alone does not justify excluding its behavior. The available evidence nevertheless concerns a designed routine, not independently evidenced feelings or an individual moral decision to attack. The destroyed prototype is not the later stock sold368. No safe redesign, continuing personal identity across every copy or completed household-service career is invented.
+
+### Y03-B08 — the photograph and clock customers
+
+U016 P177–242 gives unbound customers who initially question expiring potion utility178–179, then buy image bundles185–187 and increase purchases for collectibles200–218. They positively receive the combat portrait211, contrary to Vanir’s intended disappointment, and bid for an edited-voice clock222–225. Their choices reveal changing attributed product value and public rationalizations, not an independently verified need for every purchased consumable. Kazuma participates and aids concealment189/238–241; customer enthusiasm does not establish Wiz’s permission. Some patrons also join the rescue effort, but no stable identity is assigned to each recurring voice. No separate consent, audited expenditure, full customer biography or uniform group motive is certified.
+
+### Y03-B09 — the dungeon-route explanatory interlocutor
+
+Kazuma specifically asks the adventurer ahead of him about the dungeon at U016 P291–302. The interlocutor describes its paired traps293–296, recommends a visit302 and reports the practice of avoiding the boss room302. The source binds these explanatory turns more closely than the surrounding coalition’s untagged chatter. The information shapes Kazuma’s projected visit297–305; that visit is unperformed. The interlocutor’s account is interested testimony, not a universal law of male behavior or proof that every trapped participant consents. No personal name, earlier coalition speech, exact experience history or future act is assigned to this guide by inference alone.
+
+### Y03-B10 — the dungeon-rescue patron coalition
+
+The local patrons offer conditional aid253–254, propose another route after Vanir refuses262, raise practical/legal concerns270–272 and actually enter the dungeon280. Their enthusiasm281–284 and later explanation of its attractions complicate a purely selfless-rescuer account. Their willingness is still a real contribution to mobilization. The source does not bind every remark to a distinct individual, show each person fighting or establish identical motives. Some overlap with B08 and B09 is possible and expected within the scene, without merging all occurrences into one agent. Owner rescue follows Vanir’s intervention343–350, not an individually shown victory by every patron. Hospitality359 does not supply an independent observation of their earlier intent.
+
+### Y03-B11 — the nobles who mediate Vice’s mistaken denunciation
+
+U018 P48–49/65–66 supplies appeals for Darkness to stop and hear Vice’s explanation. An interlocutor identifies him73–74; another supplies Darkness’s correct identity78–79, and the surrounding nobles correct his mistaken expectation83 and intercede87. These are actual interventions that help prevent the scene becoming an execution. The praise of an entertaining spectacle87 also complicates a wholly disinterested justice narrative. The source does not demonstrate that the same person speaks every line, that they control a court or that they independently verify Tia’s original accusation. Their ordinary mediation and information work merit bounded treatment without a hive-mind model or a claim that amusement authorizes violence.
+
+### Y03-B12 — Liliantine’s commissioning guardians
+
+The family requests Megumin through the Dustiness connection after hearing about Crimson intelligence at U018 P124. The pupil’s own preference matters125. The closing report credits academic gains and says the parents are pleased317. This gives a specific educational arrangement and a reported response to its outcome; it does not show every guardian’s private reasoning or endorsement of fabricated history. The source does not identify a mother/father speaker, exact number of decision-makers, wage, full curriculum agreement or a parental dismissal conversation. Kazuma’s conditional connection between pose imitation and Darkness’s permission318 remains distinct. The profile is deliberately mediated, with ordinary educational care as a serious generic rival rather than a newly identified parenting theory.
+
+### Y03-B13 — the Eris priest who supplies registration money
+
+In U020’s first temporary route, Kazuma points to the person he remembers as the former registration-fee lender166. The priest identifies as an Eris believer172; the money is obtained175, and Kazuma thanks the priest178. This is a specific narrated previous-event designation and a present represented aid outcome. It does not name the person or join the role to the CONTEXP01 church priest171 merely by religion. The rejected premise that this must be an Axis adherent171–173 coexists with help. No denomination-wide personality, conversion condition, gift amount or later repayment is established. The counterpart does not share Kazuma’s carried memories. An original-event backjoin must preserve its actual access rather than claim a fresh MAIN01 primary pass.
+
+### Y03-B14 — temporary-route guild counter, emergency and safety roles
+
+The familiar receptionist responds to accelerated registration in U020 P181–189, warns about Adventurer weakness183 and reacts to the requested Archpriest class186. In another route, staff carry stretchers549 and request treatment with an offer to pay565. Later, staff address Megumin’s obstruction768 and warn Darkness against a solo quest769–770. These useful choices concern different local responsibilities. Familiarity and institutional function do not name Luna or make all the speakers one person. Aqua declines monetary payment566; no guild treatment bill is actually settled. The profile preserves unjoined occurrence bundles, information and finite work without a single composite administrator, exact staffing count or independent model-capability claim.
+
+### Y03-B15 — the tavern owner in the first temporary route
+
+U020 P226 recalls Kazuma’s earlier quarrel about field-grown fish. In the new route, the owner explains the requested neroid235, discovers the missing detergent238 and dismisses both workers242 after Kazuma’s argument and Aqua’s conversion of the soap240. Kazuma calls the instructions unreasonable233, but the source also shows his unfamiliarity with local work and his later grab243. The owner’s choices are therefore more than arbitrary obstruction of a protagonist’s plan. The episode does not prove the explanation’s biology independently, establish every workplace rule or justify inventing prior warnings, withheld pay or a universally hostile temperament. No other tavern manager is joined solely by occupation.
+
+### Y03-B16 — the grocer who accepts the apparent sales success
+
+At U020 P279–281, the grocer’s initial concern over Kazuma’s giveaway contest changes as goods sell; the grocer promises higher pay281. Chris’s eventual victory and the resulting dismissal are confirmed319. Actual sales, a bonus promise and dismissal are separate events; no completed bonus payment or explicit authorization of every wager is shown. The profile captures a resource-holder responding to apparent benefit and then loss without assuming infinite trust, a fixed commission or a complete commercial policy. The customer choices and Kazuma’s hidden premium stock296 belong to other actors. The grocer’s name, wealth, broader competence and later relations remain unknown.
+
+### Y03-B17 — the first-route janken customers
+
+Unbound speakers ask whether a win really makes the goods free273, weigh the small cost274 and select apples or onions as well as bananas277–278. Customers actually buy while Kazuma wins279–280. These are bounded choices about an attractive offer, not proof that every customer knows his exceptional luck or accepts an undisclosed risk on behalf of the grocer. Chris’s later special position and permission for Blessing300/308 are her own, rather than general crowd consent. No exact population, stable individual roster or shared private motive is established. Their ordinary willingness to try a cheap contest suffices for a compact occurrence profile, without an individual gambling model.
+
+### Y03-B18 — the construction foreman
+
+Kazuma remembers the foreman as kind while describing the work as hard at U020 P220. The first route supplies actual wages315. In the second, competence produced by Kazuma’s carried experience leads to a full-time offer528 and increased pay530. These are specific employment responses with consequences: equipment is obtained earlier539. No accepted permanent job, complete wage contract or unlimited generosity is shown. The foreman does not know why the worker is unusually experienced; later narratorial explanation529 is not information he receives. This bounded, partly reported profile credits recognition of useful work while leaving his name, broader management and cross-source contractor identity unproved.
+
+### Y03-B19 — the healed coalition’s young leader
+
+In U020’s second route, the injured adventurers receive requested healing567. A young male leader then agrees to help with leveling and offers a much larger target570–571. The offer is real speech after an experienced benefit, but the text does not show all ten promised levels being achieved. His role differs from the knee-arrow veteran and is not joined by gratitude alone. Megumin explains that these are Yunyun’s fellow combatants582, not her permanent party; Kazuma’s contrary assumption569 is corrected. The local source does not name this leader. The specific Hoost-defeat, near-universal stretcher and failed-recruitment sequence has now been checked against EXP-03 U034 P492–515 and U045 P13–54. Rex is a probable counterpart by that event context; the capital-bound invitation recalled at U020 P53 strongly corresponds to Rex’s explicit offer, including Sophie and Terry’s planned move. This profile is therefore an occurrence supplement routed to existing Rex51, not a newly certified distinct anonymous person or a replacement monograph. The ten-level offer remains locally attributed to the unnamed leader; it is not added as a positively named Rex first or fed into his frozen model. No private motive ranking, other battle speech or control over every member is assigned. Reciprocity and relief remain strong generic explanations.
+
+### Y03-B20 — the other injured coalition members
+
+U020 P560–571 depicts wounded adventurers who are healed567 and nod at their leader’s undertaking571. Megumin’s relation to the group is temporary582. The source gives recovery, assent and a shared event, without the exact member count, a named roster or every person’s own promise. It does not show that all suffered the same injury or received identical benefit. The profile preserves the others’ limited coagency without transferring the leader’s quoted ten-level offer into each person’s independent speech or counting repeated accounts as trials. The EXP-03 return supports the reported battle as the Hoost-defeat event, with the altered route and indirect access retained. The coalition is broader than the named permanent Rex/Sophie/Terry party: Yunyun and temporary co-combatant Megumin matter. No unnamed injury, nod or quoted line is thereby assigned to Sophie or Terry, and this occurrence is not a count of newly distinct people.
+
+### Y03-B21 — the landlord in the successful third route
+
+Wiz reports that the familiar mansion’s owner accepts the proposed tenancy but worries whether the rumored ghost property is truly acceptable at U020 P719. Kazuma describes favorable terms connected with story-telling and grave care722; Wiz supplies the key723, and the pair occupies the house724/731. This is a concrete reported agreement with an actual access outcome, rather than only a speculative housing plan. The owner has no direct quoted voice, name or visible appraisal. Exact rent, payment, all later care and every legal detail remain unshown. The mediated transaction merits a bounded profile; it does not prove a universal landlord preference or identify every earlier property intermediary as this person.
+
+### Y03-B22 — the searchers seeking an effective Archpriest
+
+Unbound voices in U020 P752–754 seek the notably effective priest while saying they have failed to find her at the churches753. The search responds to an ongoing dangerous situation, and the provider’s location in a different drinking setting755 limits what the searchers can obtain. This is practical effort and incomplete information, not evidence of omniscient city coordination. No exact speaker identity, count, knowledge of Aqua’s divine status, final contact or completed battle contribution is supplied. The voices may overlap other local guild actors without becoming a single person. The unsuccessful search corresponds closely to EXP-03 U045 P85–87, where the notable blue-haired Archpriest is sought. This supports a specific-event link, without naming these searchers, proving the same speaker set or supplying a second independent observation. Their source-bound profile leaves private motives and broader competence open.
+
+Exact containing publication remains pending. Earlier models,firsts and all source/identity qualifications retain their own bounds; the full program continues.

@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort44.receiving-and-provenance.v1",
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "received_utc": "2026-10-25T04:08:32.596571+00:00",
   "semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
   "source_baseline": "66d6630d9a518fe993543edcdeea2391c9b84b15",
@@ -448,14 +448,7 @@
     "source": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
     "tests": 479
   },
-  "publication_pending": [
-    "complete candidate review",
-    "exact-index author preflight",
-    "ordinary publication",
-    "whole remote tree and every changed-stream verification",
-    "full actual-source audit and latest trusted status",
-    "fresh authority reload"
-  ],
+  "publication_pending": [],
   "source_absolute_paths_in_public": 0,
   "full_program_complete": false,
   "candidate_review_precision_correction": {
@@ -466,5 +459,30 @@
     "frozen_profile_already_correct": true,
     "all18_analytical_cores_models_inputs_originals_and21_profile_fragment_exact": true,
     "no_new_primary_or_independent_credit": true
-  }
+  },
+  "prior_cohort44_publication_status": {
+    "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+    "publication_pending": [
+      "complete candidate review",
+      "exact-index author preflight",
+      "ordinary publication",
+      "whole remote tree and every changed-stream verification",
+      "full actual-source audit and latest trusted status",
+      "fresh authority reload"
+    ]
+  },
+  "publication_resolution": {
+    "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+    "tree": "d979539044b57507cc31df836d60fedc1bf6ceda",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+    "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541",
+    "source_run": 40162521771,
+    "full_discovered_tests": 479,
+    "current_models": 65,
+    "author_publication_tranche_complete": true,
+    "protected_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 329
+  },
+  "current_gate_qualification": "All18 analytical cores,65 models and two original English firsts remain exact. The source-known pair retains generic/source-echo and realization limits without independent confidence gain.65 status/supplement routes update;447 others and19 historical plane differences remain exact. Chomusuke21 existing tier/priority/disposition is unchanged. The train-station correction is retained; every other analytical field is exact. Prior candidate/main/pending statements remain dated history. Protected integration,final battery,StageD successors and full program are not completed by this author gate."
 }

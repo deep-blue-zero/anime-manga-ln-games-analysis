@@ -1237,7 +1237,13 @@
         "new_person_study_model_credit": 0
       },
       "cohort44_identity_supplement": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI02_IDENTITY_AND_SUPPORTING_CAST_COHORT44_SUPPLEMENT.md",
-      "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a"
+      "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Sena",
@@ -2609,7 +2615,20 @@
         "protection_limit": "EXP03 U020 P488 is Megumin’s unconfirmed inference; no performed protection is established.",
         "original_index_sha256_unchanged": "3f48020328633867eb0a90c285ad66d3b4f3464e9cbdb0cc1d5d69f9d0c88fe2",
         "no_model_rule_tier_score_or_unique_reading_change": true
-      }
+      },
+      "cohort45_source_supplement": {
+        "source": "YORI03U020P549-599/764-768;EXP03U034P492-515/U045P13-18",
+        "finding": "Strong specific-event correspondence to named Hoost defeat: Megumin Explosion/exhaustion, Yunyun remaining mobile, guild stretchers and failed recruitment expectation. This is an indirect altered-route report, not another directly witnessed named battle.",
+        "limit": "No transfer of every changed-route act, independent trial or added frozen Hoost rule/score. ExistingCR-SECONDARY-HOOST-003 about the initial forest voice remains governing."
+      },
+      "cohort45_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI03_IDENTITY_AND_SUPPORTING_CAST_COHORT45_SUPPLEMENT.md"
+      ],
+      "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
+      "cohort45_current_receiving": "Qualified source supplement received; prior tier,priority,disposition,models and firsts remain exact. Exact containing publication pending."
     },
     {
       "character": "Pucchin",
@@ -3123,7 +3142,21 @@
         "published_project_paths": 1178,
         "current_models": 28,
         "no_independent_accuracy_or_confidence_gain": true
-      }
+      },
+      "cohort45_source_supplement": {
+        "source": "YORI03U020P53/570-582/599/766;EXP03U034P510/U045P24-54",
+        "finding": "Capital-bound pre-party invitation strongly corresponds to named Rex offer with Sophie/Terry packed. Healed young leader is a probable Rex counterpart by specific event context; B19 supplies an occurrence supplement.",
+        "limit": "Leader remains unnamed inYORI03. No positively named ten-level first, all-ten-level outcome or reassignment of wider coalition voices/injuries to Sophie/Terry. Existing Rex model, monograph and disposition remain exact."
+      },
+      "cohort45_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI03_IDENTITY_AND_SUPPORTING_CAST_COHORT45_SUPPLEMENT.md"
+      ],
+      "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
+      "cohort45_current_receiving": "Qualified source supplement received; prior tier,priority,disposition,models and firsts remain exact. Exact containing publication pending."
     },
     {
       "character": "Sophie",

@@ -1284,3 +1284,15 @@ C43 exact-source author publication is closed. The one new Ozuma two-rule provis
 Six new monographs add the dryad’s one-rule provisional model and five monograph-only routes. Twenty-one bounded profiles and56 nonfinal source/access records produce candidate65 model artifacts/59 source-scoped secondary model entries/138 profiles/45 monograph-only routes/512 records. These are not unique people or independent observations. Chomusuke’s frozen study stays exact; all64 entering models and all earlier outputs/scores remain. The dryad’s two English originals expose constraint use but leave generic and source-echo rivals unresolved. Full program validation remains due.
 
 [Current evidence index](KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C44 exact-source author gate closed — 2026-10-25T04:46:17.194654+00:00
+
+C44 exact-source author publication is closed. The one-rule dryad model remains source-concentrated,with two unchanged English originals/one dependent contrast and unresolved generic/source-echo rivals.65 models/59 scoped secondary entries/138 profiles/45 monograph-only/512 nonfinal records do not measure unique people or independent accuracy. Technical479-test/135-check success is separate from semantic maturity,designated evaluation and final StageD/nine-category obligations.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+C45 adds two source-concentrated active_provisional generators: Shumel one rule and the knee-injured veteran two asymmetric rules. Eight other substantial studies receive no forced model. Candidate totals67model artifacts/61source-scoped secondary model entries do not establish distinct people, global readiness or mature accuracy. Six English originals/three dependent pairs retain unprobed costly impact, tidy procedural/consent language, arbitrary gift amounts and generic rivals. All65 entering models, original forecasts, adverse histories and scores remain exact. Current owner capability records are received from accepted main8acdff2b, not authored or regraded here.
+
+[Current evidence index](KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

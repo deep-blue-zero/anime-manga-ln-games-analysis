@@ -1529,3 +1529,10 @@ The informant alias and selective history shape the visitors’ sympathy. Their 
 Kazuma’s weed explanation, spring-spirit reference, annual storm interpretation, noble confection-transmission history and inferred fairy gratitude are retained as inferences rather than independent fact. Darkness says she cannot touch Chomusuke atU022P16; Kazuma adds feeding and hand-removal18 and narrates Aqua-related scratching19. Family care of his Japan room is visible in effects but the individual carers are unbound. The train-station employee’s help is established by the companions’ aftermath account; the exact railway procedure is elided. The recruitment offer has no delivered refusal shown.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+Kazuma's genealogyU014373–374, initial paralysis-awarenessU012153, common wealth motiveU018310 and Melvirei tactical comprehension/sea desire421–437 remain attributed inferences. The pupil fiction/grade report316–318 qualifies earlier adult worry without a witnessed dismissal meeting. Only Kazuma carries route memoryU02047–58; counterpart knowledge must not be filled with it. Specific Hoost/Rex correspondence is supported by the checked EXP03 episode, while alternate leader names, untagged voices and Anna's unnamed new apparition remain qualified. Profitable alternative life and wanting familiar people are both represented; neither proves K06-equivalent substitution/loss validation.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

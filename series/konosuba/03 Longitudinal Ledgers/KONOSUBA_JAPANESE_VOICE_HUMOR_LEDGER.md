@@ -2080,3 +2080,10 @@ Ozuma’s plain self-introduction, explanatory exchange correction, contracted t
 Dryad and storm-spirit meanings are mediated; raw glyphs and translated propositions have different warrants. The dryad’s resource requests, contempt and indignation do not give every translator line direct Japanese authority. The follower’s reverence and coercive demands remain his local voice, without borrowing Hoost or Arnes. Siegwald and mother have nonverbal acts rather than invented human monologues. Two retained English dryad originals are functional hypothetical renderings through an explicitly supplied interpreter, without Japanese or acoustic certification.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+Shumel's formal contempt and later imperatives/status addressU014358–391 are written pragmatic shifts, not an acoustic certificate. Crank's respectful opening282 and stronger entitlement/protest300–303 preserve local pressure. Vice's declarations and compressed apologyU01839–86 contrast with the largely unvoiced later bargain. Tia's side's court account and narrated forgiveness cannot be borrowed as her extended idiolect. Liliantine teacher-address/questions and the veteran polite refusal/broken gratitude retain small attributed native samples. All six C45 hypothetical originals are invented English; no new Japanese/acoustic adequacy or repair of prior language failures follows.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

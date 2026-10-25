@@ -1,0 +1,69 @@
+{
+  "schema": "konosuba.cohort45.source-safe-exact-input-freeze.v1",
+  "private_complete_freeze_sha256": "0f5857e82a00c9a591497b49b900879153a975218cdcdbfbb18335e8d50b7b84",
+  "frozen_utc": "2026-10-25T06:46:41.790321+00:00",
+  "foundation_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_FOUNDATION_FREEZE_01.json",
+  "foundation_sha256": "f6d19bf173327abb8893b934b152ead4b78941f0cd443a394ff0d4b37021ac6b",
+  "private_foundation_freeze_sha256": "a90e08631f114cdd939fe2999ffffa6ab18afd5bf1c9235c0f0b78acd9bedefb",
+  "exact_inputs": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/SHUMEL_EXPANDED_V1_EVIDENCE/SHUMEL_SCENARIO_INPUTS_01.json",
+      "sha256": "7f00d687b8e1f0a775803f02c9d456b74ee99aa8d12049345f624302fe415ab1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KNEE_VETERAN_EXPANDED_V1_EVIDENCE/KNEE_VETERAN_SCENARIO_INPUTS_01.json",
+      "sha256": "e35f3f4c26e614e2c64c51c346851a7acda238e16bde790197d9e20caf2387e3"
+    }
+  ],
+  "scenario_prompt_pins": [
+    {
+      "id": "SHU-A1",
+      "pair_id": "SHU-A",
+      "rule_id": "SHU-R01",
+      "bytes": 1189,
+      "sha256": "4af1d0681df1928c754fcf7ab6d696aa1f79590edabd4da53aeddc30bafd9da2"
+    },
+    {
+      "id": "SHU-A2",
+      "pair_id": "SHU-A",
+      "rule_id": "SHU-R01",
+      "bytes": 1182,
+      "sha256": "c7863000d662bb933035c68497fe1c12c409d3a07adf6470372c55e75d546830"
+    },
+    {
+      "id": "KIV-B1",
+      "pair_id": "KIV-B",
+      "rule_id": "KIV-R01",
+      "bytes": 1028,
+      "sha256": "5f386470de884c5bc07bc78e3f1e56802a911f8cfc3475d0568645cc300b0465"
+    },
+    {
+      "id": "KIV-B2",
+      "pair_id": "KIV-B",
+      "rule_id": "KIV-R01",
+      "bytes": 1042,
+      "sha256": "9122c77453e6586351b8bec4ff9c9437cd79b1237719d96c7dd68af5157b55f5"
+    },
+    {
+      "id": "KIV-C1",
+      "pair_id": "KIV-C",
+      "rule_id": "KIV-R02",
+      "bytes": 1358,
+      "sha256": "10938e2b199dfe65744ebe3f65fe0bb9a02acb41ee34eba745794103aa4272cf"
+    },
+    {
+      "id": "KIV-C2",
+      "pair_id": "KIV-C",
+      "rule_id": "KIV-R02",
+      "bytes": 1408,
+      "sha256": "c33dc7e5c1030d0b911709ccb66c2d1be612ad3773930d79195db89c3c25db52"
+    }
+  ],
+  "scenario_count": 6,
+  "dependent_pairs": 3,
+  "received_before_firsts": true,
+  "role_clarification_received_before_freeze": true,
+  "original_firsts_present_at_freeze": false,
+  "source_known_same_informed_root": true,
+  "no_independent_or_final_battery_claim": true
+}
