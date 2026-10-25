@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.47"
+version: "1.49"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Original I1 and five BW additions retained; accepted LN01–09,23 supplements and KAK-JP-E0001–E0019; LN-JP-V10 separately authorized at metadata-only admission; E0020+ original work paused; E0432+/automatic releases/premature V1 excluded"
+source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0019; LN10 separately admitted outside immutable I1; original I1/E0020+ and dependent stages paused, V1/future releases unopened"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: LN10_METADATA_ADMISSION_ONLY_NO_NARRATIVE_INSPECTION
+review_status: LN10_SOURCE_AND_CUMULATIVE_TRANSACTION_REVIEW_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,7 +20,7 @@ do_not_use_as_literary_evidence: true
 
 # Run admission and checkpoint
 
-The dated [bounded main LN10 admission](#bounded-main-ln10-admission--2026-10-24) records the sole new current operation, adopting unchanged method/architecture procedures for one source. Original I1/E0020+ stays paused. No narrative coverage is conferred; earlier checkpoints remain history.
+The latest [LN10 source-analysis checkpoint](#ln10-source-analysis-complete-bounded-run-closed--2026-10-24) records the completed bounded LN-JP-V10 source/ledger transaction and separate pending external publication verification. The dated metadata-only admission and every prior checkpoint remain history. Original I1/E0020+ and dependent stages stay paused; actual introducing commit, remote audit and main integration have distinct statuses.
 
 The [current entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) owns operational state. The [source inventory](../00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY.md#authorized-execution-freeze-i1-and-admission-disposition) owns source decisions and binds exact I1 identities. This record preserves admission evidence and recoverable checkpoints; it supplies no literary conclusions.
 
@@ -1719,3 +1719,21 @@ Publication has two real phases: first publish this metadata-only active admissi
 If main still records interrupted I1, a completed candidate introducing LN10 fails ordinary admission; a completed-run-publication proof cannot bypass interrupted main. Wait for active LN10 admission integration, or publish admission only while the run is truthfully active and record completion after acceptance. Never relabel an already completed run, alter comparison refs, weaken controls or claim a future audit. This proposed metadata stage still requires final staged INDEX preflight, exact diff review, normal push, full readback, actual-head audit and integration.
 
 After whole-transaction/publication acceptance, retain the OPEN foundation, record the scoped run completed with both next fields NONE_LN10_RUN_COMPLETE, and stop. Original I1 stays interrupted at E19; E0020+ and G3–G7 are not resumed. This is not the original I1 terminal boundary or a verified series ending, and needs no global terminal-closure amendment.
+
+## LN10 source analysis complete, bounded run closed — 2026-10-24
+
+The nine-path transaction SHUUKURA-TX-LN-JP-V10-20261024-A1 includes new reading/audit, all four current ledger files, map, inventory and run checkpoint. Source SHA25680e1c8ad88eeeecc61dc8ab6d19072121ab46b9c5b5c14bd7137894c69556640; locator manifest4b9a714e9bfd2bc57df3dad3bd79c9aaaf0fe850c0a5e3b8567787745185f898. All31components/4405p/4324meaningfulp/23image occurrences/4428events were actually inspected in92consecutive root acknowledgments; original image pixels were viewed. Source reviewer independently read all4405p in112untruncated deliveries and verified structure/hashes, while viewing0image pixels. Semantic reviewer read both Q1s, complete journal and developed argument plus bounded359original paragraphs (324 initial and35 in a later clock recheck) and exact affected prior rows. Final source and cumulative A3 reviews accept the complete nine-file content; the later presentation promotion changes no source argument or ledger row. No modality capability remains unmet for this EPUB; no audio/video is present.
+
+Whole introducing commit yields52completed/52admitted and52/464combined,LN10 1/1. Frozen originalI1 remains46/458, pre-LN10 subtotal51/463, supplements23,WEB19/431,Narō0/290,27discoveryduties,51gaps=4resolved/47unresolved. Main novel lane10read acquired volumes is separate from originalI1 LN9/9. Three new claims/23older successors yield236IDs/745versions/1252strict quoted rows;66new props/20successors yield1230IDs/1743versions;6new rules/19successors yield192IDs/458pairs/477physical rows, preserving19legacy repeats and66excluded old claim-index rows. Character36events,relationship26events/16directions,15information tensions. No new forecast/test/domainvalidation;18/13,M0.13/S0.14noncurrentUNTESTED and zero validated domains remain.
+
+Root mainline Q1 was sealed before afterword/extra, whole-volume Q1 before reviewer results. Journal hash5f7bed539ae500208f8d45b8bc80b20a222081f1e959df7ae6bfd9b1ac7f53ba. Later source-literal corrections are attributable in the reading; no frozen evidence is rewritten. Separate event/presentation/disclosure clocks preserve current adult ownMiyagi throughchapter10, ownSendai throughchapter11, later observedMiyagi, both historical extra packets, and all WEB19/WEB17 states. No BW10-only endpoint is silently rewritten as full shopping completion. The V10 body receives actual later outcome credit; no future advertisement becomes a read narrative.
+
+The bounded analytical run records completed, OPEN foundation/single_operation/start=terminal/highwater LN-JP-V10 and both next fields NONE_LN10_RUN_COMPLETE. Original I1 remains interrupted atE19 with its wider pause. Actual fetched mainfb0dc312b4eae6bd5d5d07bb35bbf88659f6021d contains matching active LN10 admission following merged PR318; local08116e9aa9188a31885b817b84a5fac901d3f464 ordinarily adopts it. Full seven before images and governance controls are unchanged. This is the ordinary final-admission route in initiation policy3.9.4, without portable proof or comparison-ref/control substitution; earlier active-only planning is superseded by observed main integration of metadata.
+
+Source and cumulative content acceptance is complete; external publication remains pending until actual receipts. Required closeout is exact INDEX preflight, approved author/committer and nine-path commit, ordinary push/readback, the new actual-head audit/any housekeeping child and owner/CI-controlled analytical main acceptance. This completed source-transaction metadata does not claim future CI or analytical main integration. Stop new narrative and preserve original I1/E20+, V1/future-source exclusions and all dependent-stage pause throughout.
+
+## LN10 freeze-time attestation checkpoint — 2026-10-24
+
+At `2026-10-24T23:47:35.566827+00:00` (UTC), `ERRATUM-LN10-FREEZE-TIME-001` publicly documents the previously retained pre-reading entering/source-set binding, recorded at `2026-10-24T21:40:13.309815+00:00` (UTC). The [inventory erratum](../00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY.md#ln10-freeze-time-provenance-erratum--2026-10-24) quotes the actual historical field and release/first-ack/seal chain, exact hashes, fixed membership, edition policy and terminal boundary. Earlier first serialization/initial freeze of the immutable date-only inventory is unknown; this correction's documentation time is separate. No frozen record or prior source conclusion is rewritten and no reading is repeated.
+
+The owner/CI procedural-sufficiency decision remains pending in PR322; no waiver or fully authenticated historical clock is claimed. Bounded source run remains completed with both next operations NONE_LN10_RUN_COMPLETE; source/ledger counts and wider I1/E20+/G3–G7 pause stay unchanged. This is a four-path metadata correction (map1.53,inventory1.52,checkpoint1.49,transactionaudit1.1). Source91cd0f17's actual audit40143467715 passed10074paths and479tests; that success does not certify this later correction head. Its own INDEX/push/readback/audit remain required.
