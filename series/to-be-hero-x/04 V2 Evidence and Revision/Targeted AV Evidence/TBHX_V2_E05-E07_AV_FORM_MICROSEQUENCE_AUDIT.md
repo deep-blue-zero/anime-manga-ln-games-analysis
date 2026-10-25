@@ -4,7 +4,7 @@ artifact_type: evidence_audit
 generation: V2
 status: canonical
 scope: E05–E07 formal audiovisual construction and Gemini V2 handoff adjudication
-source_boundary: Targeted native-video stills, supplied screenshot witnesses, complete supplied Chinese and English subtitle events, aligned Japanese priority passages, metadata and producer reports; no independent continuous playback or acoustic audition by Codex
+source_boundary: Targeted native-video stills, supplied screenshot witnesses, complete handoff Chinese and English subtitle events, aligned Japanese priority passages, targeted DB English Dubtitles checks, metadata and producer reports; no independent continuous playback or acoustic audition by Codex
 created: 2026-10-24
 ---
 
@@ -236,3 +236,22 @@ Raw media, full subtitle witnesses, screenshots, and the received archive remain
 - `s01e07.ja.reference-aligned.ass`: SHA-256 `b02f22c6acddf04dbccf406c728e7910db6ec5390fe313cb9fc9ce8a848ecd55`; lines 235–238 used as secondary contextual speaker evidence.
 
 The E07 existing screenshot 000296 was inspected at its full available resolution. Its release identity comes from `s01e07_screenshots/bundle_metadata.json`; the uncorrected reconstructed subtitle sidecars are not substituted for the received V2 witness. Original-source stills supply the displayed text; derived metadata supplies navigation only.
+
+## 14. Subsequent DB English Dubtitles cross-check
+
+After the initial analytical commit, the user supplied a DB English-caption screenshot of the judge introduction. Its preserved private copy has SHA-256 `4b3aa8b6e311e8a5a35a95a46675a2ba68ea392e7b49028e119ffd30de20235f`. The image names **Shang Chao**, corroborating the native Chinese finding in §3. The error is the derived insertion of a Yan name; Shang's introduction itself is authentic.
+
+At the user's separate request, a second agent inspected the DB containers and extracted the available third-subtitle tracks to an external handoff directory. Their literal container title is **Dubtitles**, language English, codec SubRip, subtitle ordinal3 / zero-based global FFmpeg index6. The user's “SDH” description is retained as the handoff's practical label; complete SDH-standard conformance is not asserted. This track differs from the handoff ZIP's English ASS witness. DB E06 has no Dubtitles track, so it supplies no additional Dubtitles check for the rain speech or proposed agency line.
+
+Only the following E05/E07 windows were read for this integration; extraction of other episodes is not an audiovisual analysis or a complete reading of their English tracks. These locators use **DB-native time**, without shifting the files onto WEB or Japanese clocks.
+
+| Secondary witness | Source locator / inspected content | What it corroborates and leaves open |
+|---|---|---|
+| `s01e05.en.sdh.db.srt`;617 cues;SHA-256 `ba724c83091a1770e2ca257def3d44cff4f968f678225355c032a71690e2d419` | Cue336, DB10:46.560–10:48.810, introduces the young entrepreneur as Shang Chao. Surrounding327–344 identify the MG competition and three judges. | Confirms the native-frame rejection of JSON274/L-009's Yan insertion. It does not provide Mandarin pronunciation or legal-name glyph authority. |
+| `s01e07.en.sdh.db.srt`;487 cues;SHA-256 `bf513122f1bbbe6fd58c540d27005c177fddee4908b633f95b3a1511ffce89d9` | Cues421–429, DB19:12.940–19:30.170, mark Xia's Shang call and Yang's no-more-hesitation line. The intervening VIP region includes an indistinct-chatter caption; two Xia calls lack a new explicit speaker label. | Supports distinct participants in the recollection. It does not independently identify every short call or certify the VIP speaker; §7's contextual/Japanese evidence and Mandarin audition debt remain distinct. |
+| Same E07 track | Cues443–445, DB20:18.720–20:23.100, explicitly label Yang addressing Uncle Rock and asking about the table. | Corroborates Yang as the café questioner and rejects the ledger's female-customer description. |
+| Same E07 track | Cues462–468, DB21:02.220–21:17.650, contain the paid-job offer, an order against the fake, a threat to the brother, and Da Hu's plea to see him. | Corroborates paid commission/coercive force as a secondary localization. English changes clause order/wording, so it cannot repair a Mandarin transcript or settle exact Chinese clause boundaries. |
+
+These checks add independent **written-track** corroboration to already accepted local findings. They are not Codex listening to the English dub or Mandarin. English sound captions describe that localized witness; they do not close the original soundtrack, continuous-motion, music, or voice-turn obligations `AV-D01–07`. The complete extraction manifest separately records 21 available tracks and absent Dubtitles in E06/E12/E13; that source-preparation task does not complete full-season Gemini AV coverage.
+
+External handoff: `TBHX_S01_EN_SDH_DB_REFERENCE_20261024.zip`, 260,204 bytes, SHA-256 `24f6606e5be2bb0517946d3f67da4138577185af945c37a541b484eec71f1264`. Its 25 members contain 21 subtitle files, README, manifest, verification report, and payload checksums; all 24 payload hashes and ZIP/disk identities were independently checked. The extraction verification compares all 10,481 output cues with the selected original MKV packets' text and millisecond timestamps; it does not verify localization or speaker-label accuracy. Manifest SHA-256: `7b91ac28f8c416121425c4b96be625762fb86e13279eb6468e7757fcd3483fc6`.

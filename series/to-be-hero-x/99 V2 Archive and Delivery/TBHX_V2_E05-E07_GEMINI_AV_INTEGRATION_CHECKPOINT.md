@@ -4,7 +4,7 @@ artifact_type: checkpoint
 artifact_role: incremental_av_integration_checkpoint
 generation: V2
 phase: 5
-status: active_provisional
+status: canonical
 created: 2026-10-24
 source_boundary: Received E05–E07 Gemini V2 evidence adjudicated within declared still/text/metadata and attributed-producer scope; named continuous/audio checks remain open
 ---
@@ -13,13 +13,13 @@ source_boundary: Received E05–E07 Gemini V2 evidence adjudicated within declar
 
 ## Acceptance and continuation state
 
-The30-finding reconciliation matrix preceded canonical edits. The two required audits and targeted current corrections are prepared; publication and exact-head CI are pending at this checkpoint revision. **E05–E07 Gemini AV integration: PUBLICATION PENDING.** This wording must not be treated as a successful CI or main-integration claim.
+The 30-finding reconciliation matrix preceded canonical edits. The two required audits and targeted current corrections are published in PR #325, and the exact analytical commit passed the Repository integration audit. **E05–E07 Gemini AV integration: COMPLETE** within the audits' declared source scope. The named continuous/audio source checks remain OPEN; this completion records the assigned handoff acceptance and publication, not full-season AV or Phase-5 closure.
 
 - Full-season Gemini AV coverage: IN PROGRESS — external producer
 - Phase 5 Documents 18–20: PENDING COMPLETE-SEASON EVIDENCE
 - Next expected input: next Gemini arc handoff ZIP
 
-Archive: `TBHX_S01E05_E07_GEMINI_AV_HANDOFF_BUNDLE_V2.zip`, SHA-256 `7114b52b2d873fb1505546f3962ba0b61317f4ca6e7b373be5525813a0fea216`;28 members/27 payload manifest hashes verified. Producer Git baseline `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd`; live reconciled baseline `10576e0dace0d2fe888f28357e9ed6dc95846c15`; no series drift between those baselines. Branch: `series/to-be-hero-x`.
+Archive: `TBHX_S01E05_E07_GEMINI_AV_HANDOFF_BUNDLE_V2.zip`, SHA-256 `7114b52b2d873fb1505546f3962ba0b61317f4ca6e7b373be5525813a0fea216`; 28 members/27 payload manifest hashes verified. Producer Git baseline `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd`; live reconciled baseline `10576e0dace0d2fe888f28357e9ed6dc95846c15`; no series drift between those baselines. Branch: `series/to-be-hero-x`.
 
 ## Evidence and accepted state
 
@@ -29,13 +29,35 @@ Accepted/revised: local displayed1; Xia's conditional support/no indefinite wait
 
 Verified coverage is targeted native stills plus the supplied screenshot 000296, full supplied Chinese/English text events, actual Japanese priority passages, archive/export checks, metadata, and independent review records. This is not Codex continuous playback, acoustic audition, full-episode screenshot review, or exhaustive subtitle semantic certification. Raw media/subtitles/screenshots remain external; exact local paths and frame/check receipts remain in the private integration workspace.
 
-Outstanding `AV-D01–07`: frame-exact manifestation/bridges; continuous shooting/climax/voices; Cyan-specific concern; actual audio/music audition; piecewise source-clock mapping; proposed agency line; administrative/disposal detail. The audits are analytically complete within that boundary; stronger source-dependent conclusions remain OPEN.
+Outstanding `AV-D01–07`: frame-exact manifestation/bridges; continuous shooting and substantial uninterrupted duel/climax/voices; Cyan-specific concern; actual audio/music audition; piecewise source-clock mapping; proposed agency line; administrative/disposal detail. The audits are analytically complete within that boundary; stronger source-dependent conclusions remain OPEN.
 
 ## Current routing and next action
 
 New targeted IDs: `TBHX-AV-E05-001`, `TBHX-AV-E06-001`, `TBHX-AV-E07-001`, `TBHX-AV-E07-002`. Affected existing authorities include `TF-031`, `TF-032`, `TF-E07-05`, `P2-TF-08/09`, `P2-CR-R10`, `P2-CR-CH03/16`, `P2-CR-N05`, `P2-CR-F11`, and their specialist consequences. Historical CR-053/073 and frozen E05–E07 remain historical evidence rather than being overwritten.
 
 Document 17 receives source semantics/name/speaker/QA corrections. Documents 18/19/20 receive retrievable, qualified visual/sound/behavioral evidence. No remaining full-season synthesis is finalized. The next session should first check live main/series/PR state and this receipt, then verify the next supplied arc ZIP and prepare its matrix before editing canonical claims. A later bundle cannot silently replace an accepted finding.
+
+## Publication and validation receipt
+
+- Published analytical commit: `c8831fd07c3691e5fae81dc82e6acd786b2ea500` on `series/to-be-hero-x`.
+- PR: [#325 — To Be Hero X: integrate E05–E07 Gemini AV evidence](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/325), open and unmerged at observation.
+- **Repository integration audit: SUCCESS** on that exact analytical commit; [Actions run 40152286828](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40152286828). Both the integrity/publication job and exact-status report job completed successfully; all 479 regression tests ran with zero skips.
+- Local gate: `validate_repository.py --phase current --snapshot index --routing-preflight series/to-be-hero-x --repo .` passed with 10,079 paths using Python 3.12 and the repository-pinned offline dependency versions. No deferred routing paths were reported.
+- Content checks passed: exactly 12 declared Markdown files; all 145 master keys retained; master Part-II history preserved; new relative links resolve; no private absolute paths added; all three frozen episode hashes match the baseline.
+- Author and committer: `deep-blue-zero <50891441+deep-blue-zero@users.noreply.github.com>`; nonforced push. No direct merge, history rewrite, global control, source infrastructure, or character registry change.
+- Observation: 2026-10-25 02:00:32 UTC. `origin/main` was `10576e0dace0d2fe888f28357e9ed6dc95846c15`. **Actual main integration: NOT MERGED** at observation. A published, validated candidate is not integrated authority on main.
+
+This confirmation-and-receipt revision updates the checkpoint and appends targeted DB English Dubtitles corroboration to formal-audit §14 after the analytical commit's successful audit. Its own final commit identifier and exact-head audit are retained in the task's private final publication receipt and the PR checks; the CI result above is explicitly the analytical commit's result. The task must confirm the final published head's own audit before stopping. Future sessions should inspect current Git/PR state rather than interpreting this timestamped observation as a perpetual main-status claim.
+
+The user's subsequent English SDH extraction request was delegated separately: 21 available English SubRip tracks titled Dubtitles, subtitle ordinal 3/global index 6, were extracted externally without timing shifts. E06/E12/E13 have no matching track and were not substituted. Only the E05 judge-introduction and E07 recollection/café/coercion windows were checked here. Their hashes and DB-native cue locators are in formal-audit §14, along with the external package/manifest hashes. All 10,481 output cues passed source-packet text/timestamp comparison. This extraction is source preparation, not analysis of the other arcs or Phase-5 closure.
+
+### Frozen-body verification
+
+| Frozen reading | Unchanged SHA-256 |
+|---|---|
+| E05 | `bd6daccfdbf9789152b2ba49b7bf53e4e7d227ca4aedcf102c9f4f1abe1b3fc7` |
+| E06 | `00e376084a5aac6bb1e34ec1b4a43a2addd2bfb93ab9620eead6199528c6ee25` |
+| E07 | `d83d7dbb88a2cce46fe7c04b9d25d014d5b237abf01fdae33b5192af07554031` |
 
 ## Exact files in this tranche
 
