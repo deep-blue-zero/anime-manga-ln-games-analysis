@@ -1,0 +1,399 @@
+{
+  "schema": "konosuba.cohort40.native-provenance.v1",
+  "recorded_utc": "2026-10-24T20:22:17.999901+00:00",
+  "source_bindings": [
+    {
+      "source_id": "DUST-CONT",
+      "native_filename": "Konosuba Extra - Dust - Motto Ano Orokamono ni mo Kyakkou wo - Himesama kara no Shoutaijou.epub",
+      "native_bytes": 5588468,
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "OPF_member": "item/standard.opf",
+      "OPF_sha256": "41862bf5187eb0cd4a81f9cf6e7ee7dbb66acd51f5c66801b7ae82ab607e547c",
+      "fresh_technical_CRC": "PASS"
+    },
+    {
+      "source_id": "DUST-06",
+      "native_filename": "Konosuba Extra - Dust - Volume 06.epub",
+      "native_bytes": 4582670,
+      "native_sha256": "d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1",
+      "OPF_member": "item/standard.opf",
+      "OPF_sha256": "2dd35c6b24ff25be2b616fa4f5ad2bd2546b82a42381a960a7b00f0b90147bba",
+      "fresh_technical_CRC": "PASS"
+    },
+    {
+      "source_id": "DUST-05",
+      "native_filename": "Konosuba Extra - Dust - Volume 05.epub",
+      "native_bytes": 6713820,
+      "native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "OPF_member": "item/standard.opf",
+      "OPF_sha256": "0cac809dc983b3f483d24c802f96e208cd9c4795effc492847443a48e08db04d",
+      "fresh_technical_CRC": "PASS"
+    }
+  ],
+  "actual_unique_current_P": 2826,
+  "actual_inline_ruby_occurrences": 1219,
+  "actual_delivery_pages": 58,
+  "actual_native_member_count": 11,
+  "all_P_projection_members": 7,
+  "bounded_members": 4,
+  "current_images_viewed": 0,
+  "current_nonparagraph_residual_credit": 0,
+  "current_whole_edition_credit": false,
+  "units": [
+    {
+      "source_id": "DUST-CONT",
+      "component_id": "DUST-CONT-U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+      "actual_ranges": [
+        [
+          1,
+          551
+        ]
+      ],
+      "unique_current_P": 551,
+      "member_P_slots": 551,
+      "all_P_slots_received": true,
+      "actual_inline_ruby_occurrences": 127,
+      "scope": "Paragraph/base/ruby projection only;nonparagraph residuals and image pixels are excluded."
+    },
+    {
+      "source_id": "DUST-CONT",
+      "component_id": "DUST-CONT-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+      "actual_ranges": [
+        [
+          1,
+          510
+        ]
+      ],
+      "unique_current_P": 510,
+      "member_P_slots": 510,
+      "all_P_slots_received": true,
+      "actual_inline_ruby_occurrences": 138,
+      "scope": "Paragraph/base/ruby projection only;nonparagraph residuals and image pixels are excluded."
+    },
+    {
+      "source_id": "DUST-CONT",
+      "component_id": "DUST-CONT-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+      "actual_ranges": [
+        [
+          1,
+          531
+        ]
+      ],
+      "unique_current_P": 531,
+      "member_P_slots": 531,
+      "all_P_slots_received": true,
+      "actual_inline_ruby_occurrences": 114,
+      "scope": "Paragraph/base/ruby projection only;nonparagraph residuals and image pixels are excluded."
+    },
+    {
+      "source_id": "DUST-CONT",
+      "component_id": "DUST-CONT-U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+      "actual_ranges": [
+        [
+          1,
+          573
+        ]
+      ],
+      "unique_current_P": 573,
+      "member_P_slots": 573,
+      "all_P_slots_received": true,
+      "actual_inline_ruby_occurrences": 145,
+      "scope": "Paragraph/base/ruby projection only;nonparagraph residuals and image pixels are excluded."
+    },
+    {
+      "source_id": "DUST-CONT",
+      "component_id": "DUST-CONT-U015",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "27d8dcffde244b6b30ce7853bc82783329a3fdc7ea72090bc65b97728ceb44fd",
+      "actual_ranges": [
+        [
+          1,
+          73
+        ]
+      ],
+      "unique_current_P": 73,
+      "member_P_slots": 73,
+      "all_P_slots_received": true,
+      "actual_inline_ruby_occurrences": 14,
+      "scope": "Paragraph/base/ruby projection only;nonparagraph residuals and image pixels are excluded."
+    },
+    {
+      "source_id": "DUST-CONT",
+      "component_id": "DUST-CONT-U016",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "887d168e69e87b05dc7e4d8ac6818717d8082fefab0867a80faaec9a70847a98",
+      "actual_ranges": [
+        [
+          1,
+          34
+        ]
+      ],
+      "unique_current_P": 34,
+      "member_P_slots": 34,
+      "all_P_slots_received": true,
+      "actual_inline_ruby_occurrences": 17,
+      "scope": "Paragraph/base/ruby projection only;nonparagraph residuals and image pixels are excluded."
+    },
+    {
+      "source_id": "DUST-06",
+      "component_id": "DUST-06-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "b5af4a189f729eb64a67120258f8b811d76d1d0905468d74fdb85805cd2cc719",
+      "actual_ranges": [
+        [
+          405,
+          438
+        ]
+      ],
+      "unique_current_P": 34,
+      "member_P_slots": 597,
+      "all_P_slots_received": false,
+      "actual_inline_ruby_occurrences": 46,
+      "scope": "Paragraph/base/ruby projection only;nonparagraph residuals and image pixels are excluded."
+    },
+    {
+      "source_id": "DUST-06",
+      "component_id": "DUST-06-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "5fa013adda41e8989c0fa71b01618d38b85cddb31f2b7b8be9d8c1f1074e3bb6",
+      "actual_ranges": [
+        [
+          260,
+          350
+        ],
+        [
+          440,
+          620
+        ]
+      ],
+      "unique_current_P": 272,
+      "member_P_slots": 640,
+      "all_P_slots_received": false,
+      "actual_inline_ruby_occurrences": 460,
+      "scope": "Paragraph/base/ruby projection only;nonparagraph residuals and image pixels are excluded."
+    },
+    {
+      "source_id": "DUST-CONT",
+      "component_id": "DUST-CONT-U010",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+      "actual_ranges": [
+        [
+          1,
+          75
+        ],
+        [
+          375,
+          410
+        ],
+        [
+          474,
+          545
+        ]
+      ],
+      "unique_current_P": 183,
+      "member_P_slots": 574,
+      "all_P_slots_received": false,
+      "actual_inline_ruby_occurrences": 66,
+      "scope": "Paragraph/base/ruby projection only;nonparagraph residuals and image pixels are excluded."
+    },
+    {
+      "source_id": "DUST-05",
+      "component_id": "DUST-05-U010",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_sha256": "58e011cc5bf1cfa62c029c94524c948c18b5681d293d9d9880ce14e79962b5f3",
+      "actual_ranges": [
+        [
+          155,
+          190
+        ]
+      ],
+      "unique_current_P": 36,
+      "member_P_slots": 637,
+      "all_P_slots_received": false,
+      "actual_inline_ruby_occurrences": 34,
+      "scope": "Paragraph/base/ruby projection only;nonparagraph residuals and images excluded."
+    },
+    {
+      "source_id": "DUST-05",
+      "component_id": "DUST-05-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "538e785b0c9147349cda7ca89f90ba0e5119be31811216d8687bc4ed34474bbf",
+      "actual_ranges": [
+        [
+          1,
+          29
+        ]
+      ],
+      "unique_current_P": 29,
+      "member_P_slots": 29,
+      "all_P_slots_received": true,
+      "actual_inline_ruby_occurrences": 58,
+      "scope": "Paragraph/base/ruby projection only;nonparagraph residuals and images excluded."
+    }
+  ],
+  "actual_receiving_receipt_pins": [
+    {
+      "file": "COHORT40_PRIMARY_NATIVE_CONTEXT_RECEIVING_01.json",
+      "bytes": 319474,
+      "sha256": "152f2ec808195d775ebfee261910b302d4a490205e98bbb79c39edea3ca5f06e"
+    },
+    {
+      "file": "COHORT40_ADAPTIVE_NATIVE_CONTEXT_RECEIVING_01.json",
+      "bytes": 53621,
+      "sha256": "a69a88828275c0ff600d66581fa4d3c5f62eadcc058211eecdcbb1a6254c58d4"
+    },
+    {
+      "file": "COHORT40_ADDITIONAL_ROLE_NATIVE_RECEIVING_01.json",
+      "bytes": 13881,
+      "sha256": "2fbc246fc6d7e26777ed8c7aec13870058f089bd9a87d4cacb3a51596920df6b"
+    },
+    {
+      "file": "COHORT40_DUST05_BUTLER_CONTEXT_RECEIVING_01.json",
+      "bytes": 10330,
+      "sha256": "30c369563a4181d39a9bc647d42404a75387bd8d1fe3afc0b291491e66f9eca1"
+    }
+  ],
+  "all_census_label_receiving": {
+    "file": "COHORT40_ALL357_CENSUS_LABELS_RECEIVED_01.json",
+    "bytes": 36420,
+    "sha256": "720430fd39c09735a831487667342eb6369f2d286169effbba49342f5f0f8384"
+  },
+  "scope_qualification": "The complete primary context is DUST-CONT U011-U016. Opening invitation/royal-memory and Dust06 recurrence passages are bounded. The Dust05 castle epilogue has all 29 paragraph slots received; its former-register dream context is bounded to 36 paragraphs. Seven complete paragraph/ruby projections do not imply complete XHTML, residual, image or whole-edition coverage.",
+  "access": "Known sources and earlier reports;the same informed root prepares,reads,authors and assesses.No independent experiment,current human reader,external model or acoustic validation.",
+  "full_program_complete": false,
+  "prior_native_provenance": {
+    "file": "COHORT40_NATIVE_PROVENANCE_DRAFT_04.json",
+    "bytes": 10809,
+    "sha256": "b225987270a40008357a53e0e5b4b9f301ba021cccb0b0deaff525a137d90d84"
+  },
+  "fixed41_name_role_retrieval": {
+    "file": "COHORT40_ALL41_NAME_ROLE_LEADS_01.json",
+    "bytes": 203902,
+    "sha256": "0ffa954710065112e56ae50364838e4075556f4f599597c8a4f40334e87c1ea0"
+  },
+  "name_retrieval_qualification": "All 146 literal Doreck and 77 Gaibil paragraph leads fall within the received primary context (verification chunk 2588a2). Country, title and familiar address are not personal aliases; literal retrieval does not exclude unnamed or differently written appearances.",
+  "deferred_named_role_followup": "MAIN07 p-007 P62 self-names Dustiness head butler Hagen. Compare existing row114 Yorimichi04 Hagen during scheduled Hagen work. This is not a Bridol-butler84 identity join; Heidel150 and Alderp-messenger248 remain separate household routes. No automatic merge or unique-person count.",
+  "native_review_stage_new_formal_assignments": 0,
+  "snapshot_stage": "Native evidence receiving before formal scope/model/diagnostic receiving",
+  "capture_flag_qualification": "The zero belongs to the source-review stage. Current cohort dispositions and diagnostics,when received,are recorded in their own semantic/publication artifacts.",
+  "diagnostic_receiving": {
+    "recorded_utc": "2026-10-24T20:54:47.756875+00:00",
+    "foundation_freeze": {
+      "file": "COHORT40_MODEL_FOUNDATION_FREEZE_01.json",
+      "bytes": 35706,
+      "sha256": "e547c7cd5f828a4fb38f3f8bf54d80393cab0618714f7251236d0ab29749ea05"
+    },
+    "exact_input_freeze": {
+      "file": "COHORT40_EXACT_INPUT_FREEZE_01.json",
+      "bytes": 5754,
+      "sha256": "6880b18cf9a40fa65da70d5704e88b93e2782d48ee56bd76415f9e86e420e652"
+    },
+    "actual_input_receiving": {
+      "file": "COHORT40_EXACT_INPUT_REVIEW_RECEIVING_01.json",
+      "bytes": 2155,
+      "sha256": "79a009b909cd084c3c5d8ec76b2a6ce7cd12d663cbb92aa8cb1f1b6461221735"
+    },
+    "all_original_firsts_sealed": {
+      "file": "COHORT40_ALL_ORIGINAL_FIRSTS_SEALED_01.json",
+      "bytes": 7307,
+      "sha256": "07bb85b81509107b0abb4196ae597a1140293dcb64451cfd40f071b4dd72f10c"
+    },
+    "assessment_preparation": {
+      "file": "COHORT40_ORIGINAL_FIRST_ASSESSMENT_PREPARATION_01.json",
+      "bytes": 4364,
+      "sha256": "22a0f541331d493999853930670a55902b3e54b217a0f0c6bda00c6aeef60cef"
+    },
+    "exact_input_pins": [
+      {
+        "file": "DORECK_SCENARIO_INPUTS_01.json",
+        "bytes": 18722,
+        "sha256": "b269ab484fff4ca77ad109ef5d05625fcdf17e471d001dfe21d77650a2564264"
+      },
+      {
+        "file": "GAIBIL_SCENARIO_INPUTS_01.json",
+        "bytes": 18507,
+        "sha256": "a9e615c8e0f911a052e338394761bbc134c98f64ff3c283439d78540f2e16f0d"
+      },
+      {
+        "file": "BRIDOL_HEAD_BUTLER_SCENARIO_INPUTS_01.json",
+        "bytes": 17687,
+        "sha256": "d3c9f5155f82428d4c8d204ca29f2e3c02f69f4c3be8b95d7f188ea5ee7cdedb"
+      }
+    ],
+    "original_first_bundle_pins": [
+      {
+        "file": "DORECK_ORIGINAL_FIRSTS_01.json",
+        "bytes": 5853,
+        "sha256": "3df990e443c59045c401e65d99ceb4bb73aa9577446cf0739b1eeded257f2124"
+      },
+      {
+        "file": "GAIBIL_ORIGINAL_FIRSTS_01.json",
+        "bytes": 5922,
+        "sha256": "16a1bc579a40f1be3f4320f0fe8e79bbe419e8fc3b13fe8e1817c7fbb19ce400"
+      },
+      {
+        "file": "BRIDOL_HEAD_BUTLER_ORIGINAL_FIRSTS_01.json",
+        "bytes": 5954,
+        "sha256": "409ef1b9a8b1fcf52288321866a8ae77fabcdc433bfc8340501534f4ca3ff8b1"
+      }
+    ],
+    "assessment_pins": [
+      {
+        "file": "DORECK_FIRST_OUTPUT_ANNOTATIONS_DRAFT_01.json",
+        "bytes": 8335,
+        "sha256": "b916a486b1196031017a958e222f6327a75e035dab656df170ecab16f48a8565"
+      },
+      {
+        "file": "DORECK_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+        "bytes": 2043,
+        "sha256": "0f41e9e6b8e7fae8be49416a53e4917ef6ac35562437411bbd08e3c44dae01c9"
+      },
+      {
+        "file": "GAIBIL_FIRST_OUTPUT_ANNOTATIONS_DRAFT_01.json",
+        "bytes": 9366,
+        "sha256": "26e3c2d4ac4f5e0a4fba2a5b76ed0ce7871ab97e8627c413806d60077b18cf49"
+      },
+      {
+        "file": "GAIBIL_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+        "bytes": 2403,
+        "sha256": "0751833a936989acb1647235d1f5327eb76d7de8338ac18f4b9f17a7a365cc74"
+      },
+      {
+        "file": "BRIDOL_HEAD_BUTLER_FIRST_OUTPUT_ANNOTATIONS_DRAFT_01.json",
+        "bytes": 8251,
+        "sha256": "b00b611b29922926e826d955d460a0656b6b6989e106a85dc4af466891ce5d2c"
+      },
+      {
+        "file": "BRIDOL_HEAD_BUTLER_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+        "bytes": 2155,
+        "sha256": "48b026746108d173902bb11b9ce7d3f1bf949eee17ca24f11359997326db2a11"
+      }
+    ],
+    "actual_complete_body_review_chunk": "102d71",
+    "cases": 12,
+    "dependent_pairs": 6,
+    "body_regenerations": 0,
+    "post_first_repairs": 0,
+    "qualified_case_ids": [
+      "C40-GAI-A1",
+      "C40-GAI-B1",
+      "C40-GAI-B2"
+    ],
+    "clean_mechanism_isolating_pairs": 0,
+    "source_known": true,
+    "same_informed_root": true,
+    "independent_accuracy_result": null,
+    "capability_grade": null,
+    "confidence_gain": null,
+    "diagnostic_preparation_stage_final_semantic_review_pending": true
+  }
+}

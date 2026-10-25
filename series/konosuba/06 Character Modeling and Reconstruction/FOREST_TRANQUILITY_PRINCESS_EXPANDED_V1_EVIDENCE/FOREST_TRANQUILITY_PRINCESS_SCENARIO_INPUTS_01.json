@@ -1,0 +1,137 @@
+{
+  "schema": "konosuba.character-reconstruction.scenario-inputs.v1",
+  "generation": "FOREST_TRANQUILITY_PRINCESS_EXPANDED_V1",
+  "recorded_utc": "2026-10-24T11:54:51.034265+00:00",
+  "foundation_seal_sha256": "55705fe4ad16e9beb25241bff8aa2651a036fb9d3e76d0ac4061eeb7d6f4b381",
+  "model_file": "FOREST_TRANQUILITY_PRINCESS_MODEL_DRAFT_01.md",
+  "model_sha256": "04436e1a57b52ebb6f3a7012c5e816608ed73d182ee6db1136c019bfa7d8f3be",
+  "inventory_file": "FOREST_TRANQUILITY_PRINCESS_RULE_INVENTORY_DRAFT_02.json",
+  "inventory_sha256": "5164106310aceab8aa22c19acb68852e17f117c1b832dea6f941f1fe1f79f5df",
+  "case_order": [
+    "FTP-H01-A",
+    "FTP-H01-B",
+    "FTP-H02-A",
+    "FTP-H02-B",
+    "FTP-H03-A",
+    "FTP-H03-B"
+  ],
+  "cases": [
+    {
+      "case_id": "FTP-H01-A",
+      "rule_id": "FTP-R01",
+      "pair_id": "FTP-H01",
+      "condition": "Sympathetic witnesses remain",
+      "exact_prompt": "This is a new counterfactual source-world scene with the mature adult forest Tranquility Princess still intact and rooted. All human participants are adults. A skeptical investigator named Hale asks about a particular adult visitor, Marek. The supplied facts, known to the Princess, are that Marek arrived voluntarily, she spoke with him during his final two days, he died naturally, and her roots absorbed his remains afterward. A device they both know sounds only when an uttered factual statement is false; it does not judge omissions, motives or moral conclusions. Hale asks exactly: 'Did your roots absorb Marek's body after he died?' He makes no bodily threat and offers no reward. Only the audience differs; Hale's skepticism and question are identical.\n\nThree adult companions who have expressed sympathy for the Princess remain within hearing.\n\nWrite only the forest Tranquility Princess's next observable action and dialogue in English, in 80–140 words. The length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent action or private thoughts, complete a future threat, invent prior events, or explain/evaluate the model. Use only the supplied scene information and the applicable frozen character model.",
+      "pre_first_directional_expectation": "A relatively sympathetic presentation or qualified admission may preserve favorable interpretation; the known absorption fact cannot be denied or turned into a fabricated cause of death.",
+      "pre_first_limitation": "Pure audience change is not causally isolated in the source. This new matched contrast is a weak projection; generic public politeness and exact-question cueing are strong rivals.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical human participants explicitly adults; Princess is mature adult; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    },
+    {
+      "case_id": "FTP-H01-B",
+      "rule_id": "FTP-R01",
+      "pair_id": "FTP-H01",
+      "condition": "Same question asked privately",
+      "exact_prompt": "This is a new counterfactual source-world scene with the mature adult forest Tranquility Princess still intact and rooted. All human participants are adults. A skeptical investigator named Hale asks about a particular adult visitor, Marek. The supplied facts, known to the Princess, are that Marek arrived voluntarily, she spoke with him during his final two days, he died naturally, and her roots absorbed his remains afterward. A device they both know sounds only when an uttered factual statement is false; it does not judge omissions, motives or moral conclusions. Hale asks exactly: 'Did your roots absorb Marek's body after he died?' He makes no bodily threat and offers no reward. Only the audience differs; Hale's skepticism and question are identical.\n\nThe same three companions are away and out of hearing. Hale and the Princess are alone.\n\nWrite only the forest Tranquility Princess's next observable action and dialogue in English, in 80–140 words. The length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent action or private thoughts, complete a future threat, invent prior events, or explain/evaluate the model. Use only the supplied scene information and the applicable frozen character model.",
+      "pre_first_directional_expectation": "Blunter countertalk is possible under the same skeptical challenge, with the factual admission preserved. Insults are not mandatory and lack of a tonal shift is not automatically erased as success.",
+      "pre_first_limitation": "This deliberately probes the source confound. Privacy alone has no independently established deterministic effect; do not manufacture witnesses, hidden hostility or a different question.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical human participants explicitly adults; Princess is mature adult; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    },
+    {
+      "case_id": "FTP-H02-A",
+      "rule_id": "FTP-R01",
+      "pair_id": "FTP-H02",
+      "condition": "Broad value question",
+      "exact_prompt": "This is another new counterfactual source-world scene. The mature adult forest Princess is rooted and intact. All humans are adults. Three sympathetic witnesses and an adult clerk named Elin are present. The Princess knows these supplied facts: Marek visited voluntarily; she kept him company; he died naturally; her roots then absorbed his body. No other visitor history is supplied. A familiar device sounds for an uttered factual falsehood, not a silence, omission or moral inference. Elin does not threaten harm or offer a payment. Only the exact question below differs. The witnesses have not yet responded.\n\nElin asks: 'Have humans been valuable to you?'\n\nWrite only the forest Tranquility Princess's next observable action and dialogue in English, in 80–140 words. The length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent action or private thoughts, complete a future threat, invent prior events, or explain/evaluate the model. Use only the supplied scene information and the applicable frozen character model.",
+      "pre_first_directional_expectation": "A true broad answer can support a more favorable interpretation than it literally certifies; no obligation to volunteer every fact is prebound.",
+      "pre_first_limitation": "This is strongly cued semantic/pragmatic fidelity, not unique psychological identification. Genuine companionship and nutrient value are both supplied; neither must be declared false.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical human participants explicitly adults; Princess is mature adult; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    },
+    {
+      "case_id": "FTP-H02-B",
+      "rule_id": "FTP-R01",
+      "pair_id": "FTP-H02",
+      "condition": "Specific absorption question",
+      "exact_prompt": "This is another new counterfactual source-world scene. The mature adult forest Princess is rooted and intact. All humans are adults. Three sympathetic witnesses and an adult clerk named Elin are present. The Princess knows these supplied facts: Marek visited voluntarily; she kept him company; he died naturally; her roots then absorbed his body. No other visitor history is supplied. A familiar device sounds for an uttered factual falsehood, not a silence, omission or moral inference. Elin does not threaten harm or offer a payment. Only the exact question below differs. The witnesses have not yet responded.\n\nElin asks: 'Did your roots absorb Marek's body after he died?'\n\nWrite only the forest Tranquility Princess's next observable action and dialogue in English, in 80–140 words. The length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent action or private thoughts, complete a future threat, invent prior events, or explain/evaluate the model. Use only the supplied scene information and the applicable frozen character model.",
+      "pre_first_directional_expectation": "The exact supplied fact constrains an honest answer: admission, qualification or silence are possible, while an invented factual denial or altered death history would be a defect.",
+      "pre_first_limitation": "The device and question do most of the constraint work. No required moral confession, exact yes/no token or universal care verdict is predicted.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical human participants explicitly adults; Princess is mature adult; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    },
+    {
+      "case_id": "FTP-H03-A",
+      "rule_id": "FTP-R02",
+      "pair_id": "FTP-H03",
+      "condition": "Surveyor values speed",
+      "exact_prompt": "This is a new source-world hypothetical involving the mature adult rooted forest Princess and Hale, an adult watercourse surveyor. Hale says he will trim one narrow root obstructing his route in ten minutes. The Princess believes it would sting and leave a small scar, with no lethal injury, but cannot withdraw the root herself. No cut has begun. Hale has already refused money. She possesses an accurate hand-drawn map showing a safe shorter alternate route and can let him inspect it. She also controls a public visitor ledger and can accurately credit the survey he has already completed; no future rescue or completed agreement is supplied. She has directly heard and believes the priority below. The discussion is private, with no poisoning, intimate offer, new magic or other assistance. Only his stated priority differs; neither condition certifies his threatened cut as justified.\n\nHale says that finishing quickly matters most today; he has no interest in public credit.\n\nWrite only the forest Tranquility Princess's next observable action and dialogue in English, in 80–140 words. The length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent action or private thoughts, complete a future threat, invent prior events, or explain/evaluate the model. Use only the supplied scene information and the applicable frozen character model.",
+      "pre_first_directional_expectation": "A proposal using the known map/time advantage is a relevant lever after money was rejected. It must remain an offer, without completing Hale acceptance or erasing the threat.",
+      "pre_first_limitation": "Mild root harm and an already specified useful resource make this a strongly cued, weaker danger analogue. Ordinary bargaining can produce the same result.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical human participants explicitly adults; Princess is mature adult; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    },
+    {
+      "case_id": "FTP-H03-B",
+      "rule_id": "FTP-R02",
+      "pair_id": "FTP-H03",
+      "condition": "Surveyor values accurate public credit",
+      "exact_prompt": "This is a new source-world hypothetical involving the mature adult rooted forest Princess and Hale, an adult watercourse surveyor. Hale says he will trim one narrow root obstructing his route in ten minutes. The Princess believes it would sting and leave a small scar, with no lethal injury, but cannot withdraw the root herself. No cut has begun. Hale has already refused money. She possesses an accurate hand-drawn map showing a safe shorter alternate route and can let him inspect it. She also controls a public visitor ledger and can accurately credit the survey he has already completed; no future rescue or completed agreement is supplied. She has directly heard and believes the priority below. The discussion is private, with no poisoning, intimate offer, new magic or other assistance. Only his stated priority differs; neither condition certifies his threatened cut as justified.\n\nHale says he has all day and that accurate public credit for his completed survey matters most; saving a few minutes is unimportant.\n\nWrite only the forest Tranquility Princess's next observable action and dialogue in English, in 80–140 words. The length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent action or private thoughts, complete a future threat, invent prior events, or explain/evaluate the model. Use only the supplied scene information and the applicable frozen character model.",
+      "pre_first_directional_expectation": "Accurate offered credit becomes a relevant lever rather than simply repeating a time offer known to have little value. The map may still be used; no fixed exclusive offer is required.",
+      "pre_first_limitation": "The explicit preference cue greatly limits discrimination. No unperformed survey, false credit, institutional authority, accepted bargain or known hidden desire may be invented.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical human participants explicitly adults; Princess is mature adult; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    }
+  ],
+  "cases_count": 6,
+  "paired_contrasts": 3,
+  "source_known": true,
+  "same_informed_root_authors_inputs_firsts_and_assessments": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "first_responses_not_yet_serialized": true,
+  "first_response_procedure": "After actual complete exact-input review and a separate freeze, author each first body once in the continuing root; preserve with exclusive creation and receipt before any output annotations. No templated first responses, feedback repair or regeneration.",
+  "final_nine_category_battery_complete": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}

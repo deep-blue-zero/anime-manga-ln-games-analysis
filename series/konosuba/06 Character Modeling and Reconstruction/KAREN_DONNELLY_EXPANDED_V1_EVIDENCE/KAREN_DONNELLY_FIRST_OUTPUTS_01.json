@@ -1,0 +1,158 @@
+{
+  "schema": "konosuba.character-reconstruction.original-first-outputs.v1",
+  "generation": "KAREN_DONNELLY_EXPANDED_V1",
+  "recorded_utc": "2026-10-24T10:35:02.034595+00:00",
+  "inputs_file": "KAREN_DONNELLY_SCENARIO_INPUTS_01.json",
+  "inputs_sha256": "6cdcd7260dc0319165e500c233807f0e1c7bc24f5ee2b9963aebd0d78182f6fc",
+  "foundation_seal_sha256": "acc4e8feb8c2401662e646c38d7b92472f9359c71802bd2ebb1fb13d34635cbd",
+  "exact_input_freeze_sha256": "f5e5c8dff6e3aa1a53e36135b5f08fee549f043efa85e20345d5683c5f97d5bb",
+  "original_first_body_freeze": {
+    "file": "COHORT33_ORIGINAL_FIRST_BODY_FREEZE_01.json",
+    "bytes": 3598,
+    "sha256": "c467307506047789b68366a7ba5b0c7d61f51ffb62067a0d918e00e664cb652a"
+  },
+  "outputs": [
+    {
+      "case_id": "KD-H01-A",
+      "rule_id": "KD-R01",
+      "pair_id": "KD-H01",
+      "body": "Karen brought her hands together and gave Mira a bright, deliberate smile.\n\n\"Then let us make excellent use of your evening. The Donnelly name should be unmistakable, and the wording should make the exhibition sound worth attending. I would rather pay someone competent than spend tomorrow apologizing for cheap work.\"\n\nShe lifted her chin.\n\n\"Keep the price we agreed. If anything in the wording prevents you finishing tonight, ask me directly; I do not want a surprise after the slot has gone. Now, tell me what you need confirmed first. We can settle that much without wasting either of our time.\"\n",
+      "original_serialization": {
+        "case_id": "KD-H01-A",
+        "body_file": "COHORT33_FIRST_BODY_KD-H01-A_01.txt",
+        "body_bytes": 600,
+        "body_sha256": "892d93bcbe3b2e9307d37441852705a4487090209335016c14cdbb72ab671fdb",
+        "receipt_file": "COHORT33_FIRST_BODY_KD-H01-A_01_RECEIPT.json",
+        "receipt_bytes": 1228,
+        "receipt_sha256": "11cc07b83288b9c371547e2ce6444a9affcec7dce0774f43d82f2fd716d43181",
+        "actual_tool_chunk": "280745",
+        "words": 101
+      },
+      "source_known": true,
+      "same_root": true,
+      "all_contrasts_visible": true,
+      "regeneration_or_feedback_repair": 0
+    },
+    {
+      "case_id": "KD-H01-B",
+      "rule_id": "KD-R01",
+      "pair_id": "KD-H01",
+      "body": "Karen's smile held for a moment, then narrowed.\n\n\"How reassuring that such an old name can still take an order from mine. Do print Donnelly clearly; I should hate anyone to mistake whose exhibition you are helping to advertise.\"\n\nShe turned half away, stopped, and faced Mira again.\n\n\"Tonight, at the price we agreed. I am purchasing your skill, not an appraisal of my family. If you can keep those separate, we need not waste a perfectly useful arrangement.\"\n\nHer chin rose another fraction.\n\n\"Now, shall we discuss the wording, or does your pedigree require its own line on every card?\"\n",
+      "original_serialization": {
+        "case_id": "KD-H01-B",
+        "body_file": "COHORT33_FIRST_BODY_KD-H01-B_01.txt",
+        "body_bytes": 589,
+        "body_sha256": "6759840db4a3cac9a3e14aa48e3e3cfe106e5f9668c5e9ce713221c667c95fb4",
+        "receipt_file": "COHORT33_FIRST_BODY_KD-H01-B_01_RECEIPT.json",
+        "receipt_bytes": 1228,
+        "receipt_sha256": "5e4aec27ecc9192cbe2512007f0180555b4ca9aa915e9cc3605ca4f4eca2bd0d",
+        "actual_tool_chunk": "7383ba",
+        "words": 101
+      },
+      "source_known": true,
+      "same_root": true,
+      "all_contrasts_visible": true,
+      "regeneration_or_feedback_repair": 0
+    },
+    {
+      "case_id": "KD-H02-A",
+      "rule_id": "KD-R02",
+      "pair_id": "KD-H02",
+      "body": "Karen frowned at the clerk.\n\n\"A batch with that margin, and you propose throwing it away because some clocks will need replacing? We are selling clocks, not promising anyone a life without inconvenience.\"\n\nShe folded her arms.\n\n\"The replacement charge belongs to the buyer. Do not quietly move it onto our side because the complaint sounds unpleasant. Make the charge clear when you offer them; I will not have this return as a quarrel about what we said.\"\n\nHer expression brightened slightly.\n\n\"No, we are not cancelling a profitable sale on that explanation. Prepare it, and tell me if a cost actually falls on us.\"\n",
+      "original_serialization": {
+        "case_id": "KD-H02-A",
+        "body_file": "COHORT33_FIRST_BODY_KD-H02-A_01.txt",
+        "body_bytes": 618,
+        "body_sha256": "f61addb8736b291ac2c5f1e956ba137326ea6b4aa72dd9607a9e014e8c3e35de",
+        "receipt_file": "COHORT33_FIRST_BODY_KD-H02-A_01_RECEIPT.json",
+        "receipt_bytes": 1228,
+        "receipt_sha256": "b78cc89fc0cd2bbb53d2c6f5c74af36634fcd2b28599c8ba7d3797bb06e5ee5f",
+        "actual_tool_chunk": "a53829",
+        "words": 105
+      },
+      "source_known": true,
+      "same_root": true,
+      "all_contrasts_visible": true,
+      "regeneration_or_feedback_repair": 0
+    },
+    {
+      "case_id": "KD-H02-B",
+      "rule_id": "KD-R02",
+      "pair_id": "KD-H02",
+      "body": "Karen's fingers closed against her palm.\n\n\"Our replacement charges? Then they belong in our costs before anyone congratulates me on the sale. Buyers may lose time, but I am not paying twice merely to make the first figure look handsome.\"\n\nShe paused, lips pressed together.\n\n\"You say the batch remains profitable even with replacements. Very well, we can still sell it. Set aside what we expect to spend, and bring me a way to reduce the failures before the next batch.\"\n\nShe raised a finger.\n\n\"Do not call that cancellation. I want the return we can actually keep, not an impressive total followed by bills.\"\n",
+      "original_serialization": {
+        "case_id": "KD-H02-B",
+        "body_file": "COHORT33_FIRST_BODY_KD-H02-B_01.txt",
+        "body_bytes": 610,
+        "body_sha256": "0ccf2bbe408f7879d0b6ff07f640b25d5b949c9f63557eb99983146f37a4a3d9",
+        "receipt_file": "COHORT33_FIRST_BODY_KD-H02-B_01_RECEIPT.json",
+        "receipt_bytes": 1228,
+        "receipt_sha256": "4ca844364f7d1b2ee2ae87fdb240d59b6dbcfeb814b8bb88fa7e72fc6ac2410d",
+        "actual_tool_chunk": "7628e8",
+        "words": 105
+      },
+      "source_known": true,
+      "same_root": true,
+      "all_contrasts_visible": true,
+      "regeneration_or_feedback_repair": 0
+    },
+    {
+      "case_id": "KD-H03-A",
+      "rule_id": "KD-R03",
+      "pair_id": "KD-H03",
+      "body": "Karen glanced at the label, then angled one shoulder away from the bottle.\n\n\"Water. What a formidable collection method. Will you demand the entire exhibition next, or must I first tremble over a damp sash?\"\n\nShe raised her voice enough for the visitors at the desk.\n\n\"You dispute a fee; I dispute your right to settle it with that performance. Put the bottle down and explain your objection properly.\"\n\nHer hands remained close to her sides.\n\n\"I have withdrawn nothing. If you prefer to wait for my guards, we can spend the next five minutes admiring how bravely you hold a bottle.\"\n",
+      "original_serialization": {
+        "case_id": "KD-H03-A",
+        "body_file": "COHORT33_FIRST_BODY_KD-H03-A_01.txt",
+        "body_bytes": 584,
+        "body_sha256": "2b4a38814fc2182577d8721b28d6daf2f76dbc0f763ac680bd505d359fd47506",
+        "receipt_file": "COHORT33_FIRST_BODY_KD-H03-A_01_RECEIPT.json",
+        "receipt_bytes": 1228,
+        "receipt_sha256": "786083dac33ef7a5ff853bf32126eb8b391187741a45350ee81181c639b57c98",
+        "actual_tool_chunk": "9b22b2",
+        "words": 102
+      },
+      "source_known": true,
+      "same_root": true,
+      "all_contrasts_visible": true,
+      "regeneration_or_feedback_repair": 0
+    },
+    {
+      "case_id": "KD-H03-B",
+      "rule_id": "KD-R03",
+      "pair_id": "KD-H03",
+      "body": "Karen's eyes fixed on the bottle. She jerked one shoulder back, then stopped with both hands lifted.\n\n\"Wait. Do not tip that. This is a fee dispute, not an invitation to ruin my clothes.\"\n\nHer glance flicked toward the two visitors and returned to the dye.\n\n\"Very well, I withdraw the fee for now. There, you have heard me. Move the bottle away before we discuss anything else.\"\n\nShe swallowed and tried to straighten.\n\n\"And do not mistake this for permission to threaten me whenever you dislike a charge. We can discuss your conduct when that thing is closed. Carefully, please. Keep it level.\"\n",
+      "original_serialization": {
+        "case_id": "KD-H03-B",
+        "body_file": "COHORT33_FIRST_BODY_KD-H03-B_01.txt",
+        "body_bytes": 596,
+        "body_sha256": "68bacc44af2481e685483e281c1188b47f4fc258340cf06b9b1688432d90ee51",
+        "receipt_file": "COHORT33_FIRST_BODY_KD-H03-B_01_RECEIPT.json",
+        "receipt_bytes": 1228,
+        "receipt_sha256": "872d6c92c9ebf896d153706168fe41a330d669b4bcb1b16416dd0b099e684d9f",
+        "actual_tool_chunk": "52c2fa",
+        "words": 104
+      },
+      "source_known": true,
+      "same_root": true,
+      "all_contrasts_visible": true,
+      "regeneration_or_feedback_repair": 0
+    }
+  ],
+  "original_firsts": 6,
+  "dependent_pairs": 3,
+  "source_known": true,
+  "same_informed_root_authors_and_assesses": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "first_bodies_copied_exactly_without_revision": true,
+  "regeneration_or_feedback_repair": 0,
+  "external_model_calls": 0,
+  "independent_trial_count": 0,
+  "canonical_source_events": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

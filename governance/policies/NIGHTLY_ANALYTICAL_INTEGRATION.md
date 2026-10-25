@@ -46,7 +46,7 @@ Draft status and the `nightly-hold` label are the only hold signals. A hold seen
 
 For each candidate the gate:
 
-- confirms the branch's owner-authored PR, approved commit identities and allowed paths (an analysis branch may change only its own root, the five housekeeping routing outputs and a separately identifiable two-file curation repair);
+- confirms the branch's owner-authored PR, approved commit identities and allowed paths (an analysis branch may change only its own root, the five housekeeping routing outputs and a separately identifiable curation repair that touches only discovery outputs);
 - waits for the trusted `Repository integration audit` to report success on the exact head (for an analysis branch whose routing outputs were stale, that is housekeeping's child commit);
 - merges `main` into a stale branch only when Git merges cleanly, and otherwise leaves the conflict for the CI agent or author;
 - merges through GitHub's protected PR endpoint with the exact audited head as a merge commit;

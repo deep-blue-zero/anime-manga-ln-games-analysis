@@ -1,0 +1,1734 @@
+{
+  "schema": "konosuba.cohort39.known-native-provenance.v1",
+  "recorded_utc": "2026-10-24T18:39:41.105138+00:00",
+  "source_bindings": [
+    {
+      "source_id": "DUST-07",
+      "bytes": 4740436,
+      "sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 19,
+      "zip_crc": "PASS",
+      "opf_sha256": "3614bd9ba45b3c5d2fad98c01ed416cc0adfefc131681b6f71b63bd922081c5d",
+      "fresh_crc": "PASS",
+      "native_filename": "Konosuba Extra - Dust - Volume 07.epub",
+      "object_check_scope": "Byte/CRC/OPFbinding;current selected semantic coverage is governed by the actually received unit ranges."
+    },
+    {
+      "source_id": "DUST-01",
+      "bytes": 19450953,
+      "sha256": "b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 24,
+      "zip_crc": "PASS",
+      "opf_sha256": "925c4556a403e6676e95b57a9ca4df88838e1c6739a38ef6149dd626b4085ab0",
+      "fresh_crc": "PASS",
+      "native_filename": "Konosuba Extra - Dust - Volume 01.epub",
+      "object_check_scope": "Byte/CRC/OPFbinding;current selected semantic coverage is governed by the actually received unit ranges."
+    },
+    {
+      "source_id": "DUST-02",
+      "bytes": 18886514,
+      "sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 22,
+      "zip_crc": "PASS",
+      "opf_sha256": "4c0f802b3540260bec7d32f73b5937450293a5c0ebcc266abe9fd9f9550fc13f",
+      "fresh_crc": "PASS",
+      "native_filename": "Konosuba Extra - Dust - Volume 02.epub",
+      "object_check_scope": "Byte/CRC/OPFbinding;current selected semantic coverage is governed by the actually received unit ranges."
+    },
+    {
+      "source_id": "DUST-03",
+      "bytes": 18686443,
+      "sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 24,
+      "zip_crc": "PASS",
+      "opf_sha256": "63953e65924b62b1ad99ca0bacb94c640c74ad107da7f840c51a3aac5df6a18a",
+      "fresh_crc": "PASS",
+      "native_filename": "Konosuba Extra - Dust - Volume 03.epub",
+      "object_check_scope": "Byte/CRC/OPFbinding;current selected semantic coverage is governed by the actually received unit ranges."
+    },
+    {
+      "source_id": "DUST-04",
+      "bytes": 11564184,
+      "sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 20,
+      "zip_crc": "PASS",
+      "opf_sha256": "a6b661f99adfcf0ce4c3f466b4d889187496ac6a8dc0f6fd84731a318715e884",
+      "fresh_crc": "PASS",
+      "native_filename": "Konosuba Extra - Dust - Volume 04.epub",
+      "object_check_scope": "Byte/CRC/OPFbinding;current selected semantic coverage is governed by the actually received unit ranges."
+    },
+    {
+      "source_id": "DUST-05",
+      "bytes": 6713820,
+      "sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 18,
+      "zip_crc": "PASS",
+      "opf_sha256": "0cac809dc983b3f483d24c802f96e208cd9c4795effc492847443a48e08db04d",
+      "fresh_crc": "PASS",
+      "native_filename": "Konosuba Extra - Dust - Volume 05.epub",
+      "object_check_scope": "Byte/CRC/OPFbinding;current selected semantic coverage is governed by the actually received unit ranges."
+    },
+    {
+      "source_id": "DUST-06",
+      "bytes": 4582670,
+      "sha256": "d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 19,
+      "zip_crc": "PASS",
+      "opf_sha256": "2dd35c6b24ff25be2b616fa4f5ad2bd2546b82a42381a960a7b00f0b90147bba",
+      "fresh_crc": "PASS",
+      "native_filename": "Konosuba Extra - Dust - Volume 06.epub",
+      "object_check_scope": "Byte/CRC/OPFbinding;current selected semantic coverage is governed by the actually received unit ranges."
+    }
+  ],
+  "units": [
+    {
+      "bytes": 346654,
+      "sha256": "2621fb03d2af1f22578b3bc711c86198961747e4051b8f32d1ca7c26c8b27a39",
+      "source_id": "DUST-07",
+      "component_id": "DUST07U011",
+      "accepted_alias": "chapter1 merchant surrounding context,tip failure and later repair/loan distinction",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1",
+      "native_member_bytes": 154386,
+      "paragraph_slots": 1115,
+      "planned_ranges": [
+        [
+          300,
+          430
+        ],
+        [
+          780,
+          860
+        ],
+        [
+          1050,
+          1115
+        ]
+      ],
+      "planned_unique_P": 278,
+      "planned_all_P_slots_received": false,
+      "current_received_ranges": [
+        [
+          300,
+          430
+        ],
+        [
+          780,
+          860
+        ],
+        [
+          1050,
+          1115
+        ]
+      ],
+      "current_actual_unique_P": 278,
+      "current_whole_P_member_received": false,
+      "private_cache_contains_unreceived_P": true
+    },
+    {
+      "bytes": 222829,
+      "sha256": "c7b0bfbf08c3ea46eae87876eaf32439f3143c50f09146853ee531542cd6af67",
+      "source_id": "DUST-07",
+      "component_id": "DUST07U013",
+      "accepted_alias": "complete chapter3 paragraph/ruby projection:town defense and Rouzeri encounter/aftermath",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "6777b851ec9f2e450e5cb21d96956c1ab584b9f2d3438842eceafb76241bf39a",
+      "native_member_bytes": 104077,
+      "paragraph_slots": 677,
+      "planned_ranges": [
+        [
+          1,
+          677
+        ]
+      ],
+      "planned_unique_P": 677,
+      "planned_all_P_slots_received": true,
+      "current_received_ranges": [
+        [
+          1,
+          677
+        ]
+      ],
+      "current_actual_unique_P": 677,
+      "current_whole_P_member_received": true,
+      "private_cache_contains_unreceived_P": false
+    },
+    {
+      "bytes": 47499,
+      "sha256": "4e90ed3e0c7ae64b7227b0e02220d1abd3812e023a5ccb10f7e45df17f0b1135",
+      "source_id": "DUST-07",
+      "component_id": "DUST07U014",
+      "accepted_alias": "complete epilogue paragraph/ruby projection",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "b44ca1e68568f6e50d74461e956b1d432a296135e95cd93142f6054d85ae923d",
+      "native_member_bytes": 22107,
+      "paragraph_slots": 148,
+      "planned_ranges": [
+        [
+          1,
+          148
+        ]
+      ],
+      "planned_unique_P": 148,
+      "planned_all_P_slots_received": true,
+      "current_received_ranges": [
+        [
+          1,
+          148
+        ]
+      ],
+      "current_actual_unique_P": 148,
+      "current_whole_P_member_received": true,
+      "private_cache_contains_unreceived_P": false
+    },
+    {
+      "bytes": 164059,
+      "sha256": "d9d4148b7ff12c12e08df8cdae9197a173e64cb6447027c2c69892926b9a1a4d",
+      "source_id": "DUST-01",
+      "component_id": "DUST01U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "afe32cc5d5cefd0f034174dbf936615a817b720b1314e46456b400b5ee2a7b82",
+      "native_member_bytes": 75376,
+      "paragraph_slots": 466,
+      "planned_ranges": [
+        [
+          1,
+          466
+        ]
+      ],
+      "planned_unique_P": 466,
+      "planned_all_P_slots_received": true,
+      "current_received_ranges": [
+        [
+          1,
+          466
+        ]
+      ],
+      "current_actual_unique_P": 466,
+      "current_whole_P_member_received": true,
+      "private_cache_contains_unreceived_P": false,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 144718,
+      "sha256": "ccba22e3a983e71ee79849b53b581d4affcab79416db680f05125dda90a57ae3",
+      "source_id": "DUST-01",
+      "component_id": "DUST01U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "e39c43625ecfc0c72ff49a805a1baf90c5c3df53677a7c66f321528b4348bb49",
+      "native_member_bytes": 67514,
+      "paragraph_slots": 411,
+      "planned_ranges": [
+        [
+          90,
+          155
+        ]
+      ],
+      "planned_unique_P": 66,
+      "planned_all_P_slots_received": false,
+      "current_received_ranges": [
+        [
+          90,
+          155
+        ]
+      ],
+      "current_actual_unique_P": 66,
+      "current_whole_P_member_received": false,
+      "private_cache_contains_unreceived_P": true,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 203055,
+      "sha256": "392882c7a278fe4e8e5dc26220303d46dbc987430da68b83d6482cdc8188a33c",
+      "source_id": "DUST-01",
+      "component_id": "DUST01U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "da16890f4a720b7568f3bf5f492b92befc2af6b313fce6fb090223601527ed8d",
+      "native_member_bytes": 95037,
+      "paragraph_slots": 575,
+      "planned_ranges": [
+        [
+          280,
+          380
+        ]
+      ],
+      "planned_unique_P": 101,
+      "planned_all_P_slots_received": false,
+      "current_received_ranges": [
+        [
+          280,
+          380
+        ]
+      ],
+      "current_actual_unique_P": 101,
+      "current_whole_P_member_received": false,
+      "private_cache_contains_unreceived_P": true,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 214389,
+      "sha256": "a30f6bdc0dfef8d3886ee4c451960e6edfcd3d846ecc083e287ffcd89b9cee59",
+      "source_id": "DUST-01",
+      "component_id": "DUST01U015",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "fb0ce659939f2e6e4bc0b3848ded417ae3beafa949eb9dc0ef81d3113e5e8e85",
+      "native_member_bytes": 98953,
+      "paragraph_slots": 583,
+      "planned_ranges": [
+        [
+          1,
+          583
+        ]
+      ],
+      "planned_unique_P": 583,
+      "planned_all_P_slots_received": true,
+      "current_received_ranges": [
+        [
+          1,
+          583
+        ]
+      ],
+      "current_actual_unique_P": 583,
+      "current_whole_P_member_received": true,
+      "private_cache_contains_unreceived_P": false,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 19595,
+      "sha256": "d2f0d01f2ed66e1ca04ee37bbed5f04d12cce65bee32ad6f158ab56f3f178658",
+      "source_id": "DUST-01",
+      "component_id": "DUST01U016",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "495d98fa18aaeab4b40dbb0fce0bf751d58cc527d6bc53688a71efa57397a670",
+      "native_member_bytes": 10001,
+      "paragraph_slots": 52,
+      "planned_ranges": [
+        [
+          1,
+          52
+        ]
+      ],
+      "planned_unique_P": 52,
+      "planned_all_P_slots_received": true,
+      "current_received_ranges": [
+        [
+          1,
+          52
+        ]
+      ],
+      "current_actual_unique_P": 52,
+      "current_whole_P_member_received": true,
+      "private_cache_contains_unreceived_P": false,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 269679,
+      "sha256": "a7d432aa38153410f0c995ac0c8b2df9807fac23787a3864619619360976fdd3",
+      "source_id": "DUST-01",
+      "component_id": "DUST01U017",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "84be1ec954a42fd9ec7e2bfff0bf1d06101659f844c63014c16bcd5d19b5deb7",
+      "native_member_bytes": 126004,
+      "paragraph_slots": 801,
+      "planned_ranges": [
+        [
+          300,
+          801
+        ]
+      ],
+      "planned_unique_P": 502,
+      "planned_all_P_slots_received": false,
+      "current_received_ranges": [
+        [
+          300,
+          801
+        ]
+      ],
+      "current_actual_unique_P": 502,
+      "current_whole_P_member_received": false,
+      "private_cache_contains_unreceived_P": true,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 25356,
+      "sha256": "eee7b2ba34127955a553cd4b97a0c2442f35b4017ce9855ac85cd4248aff8be6",
+      "source_id": "DUST-01",
+      "component_id": "DUST01U018",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_sha256": "b1ef3f26170e06516a63df036dc8bbbe3c47e1fa7ca085c14d8608f9e8e5260e",
+      "native_member_bytes": 11780,
+      "paragraph_slots": 79,
+      "planned_ranges": [
+        [
+          1,
+          79
+        ]
+      ],
+      "planned_unique_P": 79,
+      "planned_all_P_slots_received": true,
+      "current_received_ranges": [
+        [
+          1,
+          79
+        ]
+      ],
+      "current_actual_unique_P": 79,
+      "current_whole_P_member_received": true,
+      "private_cache_contains_unreceived_P": false,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 275527,
+      "sha256": "80f97b722b8b31ddc664d3f0a6087a4302f66df67db51dc1e0f4b8830c1675c4",
+      "source_id": "DUST-02",
+      "component_id": "DUST02U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "0019755dfdc969bc87d6a37c06e1de41e5489efb9f4aa21dc9cbe75856389acc",
+      "native_member_bytes": 125149,
+      "paragraph_slots": 847,
+      "planned_ranges": [
+        [
+          195,
+          280
+        ],
+        [
+          480,
+          570
+        ]
+      ],
+      "planned_unique_P": 177,
+      "planned_all_P_slots_received": false,
+      "current_received_ranges": [
+        [
+          195,
+          280
+        ],
+        [
+          480,
+          570
+        ]
+      ],
+      "current_actual_unique_P": 177,
+      "current_whole_P_member_received": false,
+      "private_cache_contains_unreceived_P": true,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 246780,
+      "sha256": "78102d14ffcdfbf537287e1757b7d0168608c9d1e7b2e1b83d9cef2068500a18",
+      "source_id": "DUST-02",
+      "component_id": "DUST02U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "3ab022f0f5cfb9e26817aabbce17843920d93398f619a6095115d593287de4ce",
+      "native_member_bytes": 110585,
+      "paragraph_slots": 784,
+      "planned_ranges": [
+        [
+          1,
+          70
+        ]
+      ],
+      "planned_unique_P": 70,
+      "planned_all_P_slots_received": false,
+      "current_received_ranges": [
+        [
+          1,
+          70
+        ]
+      ],
+      "current_actual_unique_P": 70,
+      "current_whole_P_member_received": false,
+      "private_cache_contains_unreceived_P": true,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 176414,
+      "sha256": "a935fd9e906b9baf3b0374cebe0b6e40564a99eb256c7a1f04912d1c67649fbb",
+      "source_id": "DUST-02",
+      "component_id": "DUST02U015",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "389566bf26a458387cf1ed061d5281a71848946948a2a55f69f258f9fcb5eca2",
+      "native_member_bytes": 78694,
+      "paragraph_slots": 555,
+      "planned_ranges": [
+        [
+          75,
+          155
+        ]
+      ],
+      "planned_unique_P": 81,
+      "planned_all_P_slots_received": false,
+      "current_received_ranges": [
+        [
+          75,
+          155
+        ]
+      ],
+      "current_actual_unique_P": 81,
+      "current_whole_P_member_received": false,
+      "private_cache_contains_unreceived_P": true,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 307031,
+      "sha256": "19613198fa0eadb3bd6031aea51eb585e14ff0dad55bdec857150f6aa153c991",
+      "source_id": "DUST-03",
+      "component_id": "DUST03U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "native_member_bytes": 141944,
+      "paragraph_slots": 913,
+      "planned_ranges": [
+        [
+          350,
+          435
+        ]
+      ],
+      "planned_unique_P": 86,
+      "planned_all_P_slots_received": false,
+      "current_received_ranges": [
+        [
+          350,
+          435
+        ]
+      ],
+      "current_actual_unique_P": 86,
+      "current_whole_P_member_received": false,
+      "private_cache_contains_unreceived_P": true,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 125901,
+      "sha256": "f87a10762311a3bc8951e35b41aae2976d91f07b83e3755d705122ad6a1be81f",
+      "source_id": "DUST-03",
+      "component_id": "DUST03U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+      "native_member_bytes": 58779,
+      "paragraph_slots": 370,
+      "planned_ranges": [
+        [
+          1,
+          70
+        ],
+        [
+          230,
+          360
+        ]
+      ],
+      "planned_unique_P": 201,
+      "planned_all_P_slots_received": false,
+      "current_received_ranges": [
+        [
+          1,
+          70
+        ],
+        [
+          230,
+          360
+        ]
+      ],
+      "current_actual_unique_P": 201,
+      "current_whole_P_member_received": false,
+      "private_cache_contains_unreceived_P": true,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 14603,
+      "sha256": "90059d6c3a4f9937229d012ac5eccf6570d968414e8b3c9f3487fac571aef7c7",
+      "source_id": "DUST-03",
+      "component_id": "DUST03U016",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "d5038a1f6a1ec42b3241d54a1e5093f0159f0c16bbf61ab338029ab12cb68781",
+      "native_member_bytes": 7055,
+      "paragraph_slots": 44,
+      "planned_ranges": [
+        [
+          1,
+          44
+        ]
+      ],
+      "planned_unique_P": 44,
+      "planned_all_P_slots_received": true,
+      "current_received_ranges": [
+        [
+          1,
+          44
+        ]
+      ],
+      "current_actual_unique_P": 44,
+      "current_whole_P_member_received": true,
+      "private_cache_contains_unreceived_P": false,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 16211,
+      "sha256": "d91f448752ce1cd09d03d52cc963a43b4019699b2e1400dedcb54c79bc813102",
+      "source_id": "DUST-03",
+      "component_id": "DUST03U020",
+      "member": "item/xhtml/p-012.xhtml",
+      "member_sha256": "f57bf4b1a89ea3610cbd5a416ba36546cb600c86f1a322bdb02065bc68df9224",
+      "native_member_bytes": 6456,
+      "paragraph_slots": 50,
+      "planned_ranges": [
+        [
+          1,
+          50
+        ]
+      ],
+      "planned_unique_P": 50,
+      "planned_all_P_slots_received": true,
+      "current_received_ranges": [
+        [
+          1,
+          50
+        ]
+      ],
+      "current_actual_unique_P": 50,
+      "current_whole_P_member_received": true,
+      "private_cache_contains_unreceived_P": false,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 192331,
+      "sha256": "49bc862eb36fec1c4752c197581f2a334cfd6e478f05fce522d6a4063c234894",
+      "source_id": "DUST-04",
+      "component_id": "DUST04U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "39ca1b73898b4b29896f01f0b3215f445b5c5337a91f7a3595b002a0fcb53229",
+      "native_member_bytes": 90119,
+      "paragraph_slots": 568,
+      "planned_ranges": [
+        [
+          205,
+          290
+        ]
+      ],
+      "planned_unique_P": 86,
+      "planned_all_P_slots_received": false,
+      "current_received_ranges": [
+        [
+          205,
+          290
+        ]
+      ],
+      "current_actual_unique_P": 86,
+      "current_whole_P_member_received": false,
+      "private_cache_contains_unreceived_P": true,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 432868,
+      "sha256": "5b356ed165e47d3277091f09e3f7db184015f19d17a7c39351fb38f8021f2ed9",
+      "source_id": "DUST-05",
+      "component_id": "DUST05U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "2596ed757bd3504ff02786ad487d930c85f0d9b1073afb3d2dade10ae51cce78",
+      "native_member_bytes": 194254,
+      "paragraph_slots": 1344,
+      "planned_ranges": [
+        [
+          315,
+          400
+        ]
+      ],
+      "planned_unique_P": 86,
+      "planned_all_P_slots_received": false,
+      "current_received_ranges": [
+        [
+          315,
+          400
+        ]
+      ],
+      "current_actual_unique_P": 86,
+      "current_whole_P_member_received": false,
+      "private_cache_contains_unreceived_P": true,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 234293,
+      "sha256": "64577bca61ed03324780263501675031f537b3a3db2a85b1efc813fd924b4124",
+      "source_id": "DUST-05",
+      "component_id": "DUST05U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "9366a1cdb9ca63c2f901ad7c8b72316aff841ffc63715fe03f3ddb3b6d541db3",
+      "native_member_bytes": 108316,
+      "paragraph_slots": 723,
+      "planned_ranges": [
+        [
+          110,
+          195
+        ],
+        [
+          225,
+          280
+        ]
+      ],
+      "planned_unique_P": 142,
+      "planned_all_P_slots_received": false,
+      "current_received_ranges": [
+        [
+          110,
+          195
+        ],
+        [
+          225,
+          280
+        ]
+      ],
+      "current_actual_unique_P": 142,
+      "current_whole_P_member_received": false,
+      "private_cache_contains_unreceived_P": true,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 10744,
+      "sha256": "adffcf6d4d30a409a8fb55d4299f4a935160befb0a94f8fa4bed4894d5731d50",
+      "source_id": "DUST-05",
+      "component_id": "DUST05U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "0b4cf7318f8e121aa27a1f38068f1c9ac62ed45679dff4a4dee9a92bebfa8013",
+      "native_member_bytes": 5822,
+      "paragraph_slots": 25,
+      "planned_ranges": [
+        [
+          1,
+          25
+        ]
+      ],
+      "planned_unique_P": 25,
+      "planned_all_P_slots_received": true,
+      "current_received_ranges": [
+        [
+          1,
+          25
+        ]
+      ],
+      "current_actual_unique_P": 25,
+      "current_whole_P_member_received": true,
+      "private_cache_contains_unreceived_P": false,
+      "authority": "AUTHOR_AFTERWORD"
+    },
+    {
+      "bytes": 207812,
+      "sha256": "2c182b60dae7b7a60a6e1114f660610e22bb934acd78eb312333ab60e7943490",
+      "source_id": "DUST-06",
+      "component_id": "DUST06U010",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_sha256": "650c8f241a553f41945bb77f0605b830d4c99e92c89121632d2f3d488edacfcb",
+      "native_member_bytes": 94664,
+      "paragraph_slots": 640,
+      "planned_ranges": [
+        [
+          180,
+          285
+        ]
+      ],
+      "planned_unique_P": 106,
+      "planned_all_P_slots_received": false,
+      "current_received_ranges": [
+        [
+          180,
+          285
+        ]
+      ],
+      "current_actual_unique_P": 106,
+      "current_whole_P_member_received": false,
+      "private_cache_contains_unreceived_P": true,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    },
+    {
+      "bytes": 319263,
+      "sha256": "0dc72d640fc1d546c168879489dcca8866d29a7de951873a919e5bbbdc470b9c",
+      "source_id": "DUST-06",
+      "component_id": "DUST06U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "c5c70671020fd39427857d6572b3037e53506fc7e4e1dc29dbdb2d5d57f5b716",
+      "native_member_bytes": 144099,
+      "paragraph_slots": 1033,
+      "planned_ranges": [
+        [
+          320,
+          405
+        ]
+      ],
+      "planned_unique_P": 86,
+      "planned_all_P_slots_received": false,
+      "current_received_ranges": [
+        [
+          320,
+          405
+        ]
+      ],
+      "current_actual_unique_P": 86,
+      "current_whole_P_member_received": false,
+      "private_cache_contains_unreceived_P": true,
+      "authority": "FICTION_SCENE_OR_REFERENCE"
+    }
+  ],
+  "actual_private_delivery_pins": [
+    {
+      "private_delivery_file": "native-review-pages01/001.txt",
+      "bytes": 7282,
+      "sha256": "82d1484baa6e8d495911d99e7aa3cb9e186a18695d18842ff80ae32af58a3fce",
+      "characters": 3178,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/002.txt",
+      "bytes": 7282,
+      "sha256": "7333eff7eacbbb7a7185ae23ef45c074a403340d1b8755dfeabc3af06ae79cd4",
+      "characters": 3178,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/003.txt",
+      "bytes": 7189,
+      "sha256": "d64a14bfa70f2b70f49a1384188d80e905bb269d1b1cc1a498f9b7c3b0ef5a94",
+      "characters": 3175,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/004.txt",
+      "bytes": 7294,
+      "sha256": "9232959a6ed9121ccc7a0ce2b06683f4c72c520f18525347029aa4b805ec6297",
+      "characters": 3170,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/005.txt",
+      "bytes": 7570,
+      "sha256": "550be999f10fb490381f42d6b12a654cbeea66a8abdb2ccf0fa9b940cc0fd8b3",
+      "characters": 3190,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/006.txt",
+      "bytes": 6862,
+      "sha256": "1e1d20db9fd1fb01a5e34ec527220159a75ec6431ac08c6a076268333a9cc42d",
+      "characters": 3052,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/007.txt",
+      "bytes": 7495,
+      "sha256": "de5fb6d7b2ce24f20de5f715354ec2605c40fd4d40c0149d57a3e50bfbbd44ef",
+      "characters": 3181,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/008.txt",
+      "bytes": 7165,
+      "sha256": "db628a133012aa28a9563e8015c69a45eec366de14e42b5ad60b37de177fa089",
+      "characters": 3191,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/009.txt",
+      "bytes": 7222,
+      "sha256": "71869325bf1b33ac5b9d73519810a7988acab6b32837fee34229ee60e68facc1",
+      "characters": 3106,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/010.txt",
+      "bytes": 7381,
+      "sha256": "56a54ac43760e7719b73b1209b136579d0b451d2a2453e4b5a71e9e8f27e6338",
+      "characters": 3115,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/011.txt",
+      "bytes": 7384,
+      "sha256": "3ba2528c3cc14e4234365fd0f4814cf1a620b59b751eef14f54e6ffc971abb26",
+      "characters": 3168,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/012.txt",
+      "bytes": 7490,
+      "sha256": "8379d739cb4a2543e0cf3caa5866b4661ae51bbe52c048d05338b0fe2a60cf9d",
+      "characters": 3166,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/013.txt",
+      "bytes": 7523,
+      "sha256": "910d1076f5bded63f659f6a8d95fd02c5bbcb6e880d92f399be68b46a58024ab",
+      "characters": 3137,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/014.txt",
+      "bytes": 7661,
+      "sha256": "bd64ff08594049bb2d909b1450044b280df7d6a52eee8a9096ecf2055b8fdf86",
+      "characters": 3127,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/015.txt",
+      "bytes": 7561,
+      "sha256": "86ccf05072db7b82c33d61f36a36a9c267adb8db06b3c9aa458b7e34af342bae",
+      "characters": 3175,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/016.txt",
+      "bytes": 7396,
+      "sha256": "ffcaa360bad217b485301c58552d9d1d5bb76c524bd7647c742eb047303335c0",
+      "characters": 3132,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/017.txt",
+      "bytes": 7006,
+      "sha256": "9a9c4dcd185b97e47853b55fe8d1502772a37f701f1442394950da10968809a5",
+      "characters": 3074,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/018.txt",
+      "bytes": 7475,
+      "sha256": "b5d51e69da57594ba543a003ea4ecff939f0a6b2b772c021a935749c3f20e462",
+      "characters": 3173,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/019.txt",
+      "bytes": 7527,
+      "sha256": "ab355ca13b6d97e616cf826c20d17d6ad2ea0fa9d646a92a670b66ae247dbaa1",
+      "characters": 3123,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/020.txt",
+      "bytes": 7290,
+      "sha256": "e441fda0ec2885879cd76e0c4d2b010f28a941cd58b1ebb0d002105ed4941c40",
+      "characters": 3166,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/021.txt",
+      "bytes": 7322,
+      "sha256": "d992daaad8f4d7c38fab1ab6ca354759f7fcb85e9caf98bbc47aeb47a67bcd79",
+      "characters": 3162,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "native-review-pages01/022.txt",
+      "bytes": 711,
+      "sha256": "e58b6cfb2e171aa5af580b866e10b7e989438537933ca67d38342b90c26514cc",
+      "characters": 317,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/001.txt",
+      "bytes": 7417,
+      "sha256": "c412d026baf2afd0f9464a0ffb70fa137253ea0f61e2a843cea950c154f35977",
+      "characters": 3101,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/002.txt",
+      "bytes": 7434,
+      "sha256": "e294bbbf27e6148726ef77d18388a016f3df2a9b74112defd178178b80982b01",
+      "characters": 3106,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/003.txt",
+      "bytes": 7732,
+      "sha256": "b92bc462985b041fa076394ce5f99cfb31662d9e502ee7faf69273ace8150427",
+      "characters": 3192,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/004.txt",
+      "bytes": 7403,
+      "sha256": "e38a599b5efbcb4519d83b4610b2cefe84b518b7b1f69556ec94874ab75a31f2",
+      "characters": 3109,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/005.txt",
+      "bytes": 7478,
+      "sha256": "0bf761ba5e923be414bbfdc2374700d2fd37edf0f2ec07b08f947e921be49c9a",
+      "characters": 3174,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/006.txt",
+      "bytes": 7418,
+      "sha256": "c009143a887b32ff569e37b9f0a1192ab68e3754135f24f513e3d49168a59bdc",
+      "characters": 3130,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/007.txt",
+      "bytes": 7274,
+      "sha256": "6db98456662626b24329c24192c788abb764d45e9d74ee4462ffb3def9f46cbc",
+      "characters": 3174,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/008.txt",
+      "bytes": 7783,
+      "sha256": "10ddb89d6423648acc375a80a20e5b7a901f1508d4be5f5a9c4690fb8f0536c1",
+      "characters": 3141,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/009.txt",
+      "bytes": 7558,
+      "sha256": "9a2da11dc035bc87fedeff605834e961580ea25bb929dcab2e1e7c4e46ea2ae3",
+      "characters": 3194,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/010.txt",
+      "bytes": 7043,
+      "sha256": "e8b5411b0e65ecc8a2cd0b74ecaa41f34853dd4ecfcbde5f711fabd5c73f6c0f",
+      "characters": 3071,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/011.txt",
+      "bytes": 7521,
+      "sha256": "4b099c7561f012b304bc3ebd24c2d11caa4fbf8bf1aaa9bb8b641c98c9d0ed53",
+      "characters": 3055,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/012.txt",
+      "bytes": 7701,
+      "sha256": "984f466673cc14700b41e8d93ecd316aad8a6c8fd5849f5989b34697c45b1c2d",
+      "characters": 3195,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/013.txt",
+      "bytes": 7448,
+      "sha256": "d021081dec4373f3eaa1d9e6c8006c5d3e2bf1406c21b1d67a6cca0dfa1ee420",
+      "characters": 3136,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/014.txt",
+      "bytes": 7501,
+      "sha256": "33c70794385f4b8f2fd88c379ed59b9e12214c5d6c8cf2d137b62afeace771e1",
+      "characters": 3169,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/015.txt",
+      "bytes": 7833,
+      "sha256": "3560450815ecc18caadf8e9ba13da52d71fc7011c3800cd2c407a1380426eabf",
+      "characters": 3159,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/016.txt",
+      "bytes": 7550,
+      "sha256": "fab654150c4989935b3762cb6f70c6cbcc76c429a2d83761b1f6e830008e0aa9",
+      "characters": 3146,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/017.txt",
+      "bytes": 7835,
+      "sha256": "351e83f53c6a2ac0fb1b6d732bc31ab79b73dc51f0c7ddfd8234220c5a185506",
+      "characters": 3173,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/018.txt",
+      "bytes": 7670,
+      "sha256": "8af5d16b82ea36b5a442f27e60a6b087652a8f4fc17da09cc01adea422b33dd6",
+      "characters": 3130,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/019.txt",
+      "bytes": 7291,
+      "sha256": "893b75de969cc45ce68666b78adf62c716cab1e5ec9d1259e0a93ac6577c8112",
+      "characters": 3085,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/020.txt",
+      "bytes": 7664,
+      "sha256": "324272b237bec911259705320aea77fed714cdf731cd2e42cc5da8a36ce46cff",
+      "characters": 3156,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/021.txt",
+      "bytes": 7587,
+      "sha256": "ceb40f6d05ab8f48145e069ea827b4df42f857f7c9ddb586f9586bd7dfd81905",
+      "characters": 3185,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/022.txt",
+      "bytes": 7419,
+      "sha256": "60039aaae451ffbb2e57b9afcf4009107159ea92efb10cd90766a84c52f15d10",
+      "characters": 3181,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/023.txt",
+      "bytes": 7576,
+      "sha256": "6c9f0e1fe42e178df905b6d23ae00d8b84c4bd9ad4835a88996cf72cdef4d98e",
+      "characters": 3152,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/024.txt",
+      "bytes": 7551,
+      "sha256": "a2116a5337773aca59b0b26229de2955ed0597b180900034cb3eaddeeccb84eb",
+      "characters": 3145,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/025.txt",
+      "bytes": 7563,
+      "sha256": "3b58236fa0dc4000f1acb3b7424faa061801a2f3ba118214b1892a14d3229db2",
+      "characters": 3189,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/026.txt",
+      "bytes": 7738,
+      "sha256": "e3ddfa6011b2411421082fd256b4a61cd036679ab791314176536413570cfe33",
+      "characters": 3168,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/027.txt",
+      "bytes": 7659,
+      "sha256": "43721bcc2ecdcc71e9372826a12d29ddd484ea7cc1e3e012b471268d2c07b60c",
+      "characters": 3195,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/028.txt",
+      "bytes": 7275,
+      "sha256": "d51bf8c8acf461fea97e98bcd5f8f90662d31566d6ce2f0f47e4b3490f032b8f",
+      "characters": 3093,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/029.txt",
+      "bytes": 7412,
+      "sha256": "3d190544cc2cb6e9f0d1821553d82a61a7d463645c5f42dc29e3f06f68689069",
+      "characters": 3152,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/030.txt",
+      "bytes": 7209,
+      "sha256": "a33b5b425816c2d49bc070c6d94f4b6f59f1c432a1b60111634765c4435d2a0e",
+      "characters": 3151,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/031.txt",
+      "bytes": 7614,
+      "sha256": "302fdd8a9e143bd617fff98d95410bee13c1eda99e946d6469466bead4e1b16d",
+      "characters": 3138,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/032.txt",
+      "bytes": 7255,
+      "sha256": "59d0cba980e3a47933a91c167a01773679df5a2e6faa838f5abf064fdb668c79",
+      "characters": 3181,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/033.txt",
+      "bytes": 7720,
+      "sha256": "62a7e081eb9481783dfae3a615c9752582e5fe67cd15a57f6106b23a23769ffc",
+      "characters": 3188,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/034.txt",
+      "bytes": 7501,
+      "sha256": "b4b5558831c49701fd4223ce6e017dfd8ec33e323ab66693ccd1dd6d5c0f95c3",
+      "characters": 3195,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/035.txt",
+      "bytes": 7497,
+      "sha256": "a7083f4db967a7351e26559bbd47de277505b62269d3d8dfc488143db9ee9a5a",
+      "characters": 3171,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/036.txt",
+      "bytes": 7285,
+      "sha256": "9897398de0aea728b26b41467d5d78acb41bf98668855e9c0ec45a55ebd48ee5",
+      "characters": 3191,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/037.txt",
+      "bytes": 7540,
+      "sha256": "83842de5efd3c2ab4b13686abd8a3b0ff6751251a766bff5b87b280049e0ea02",
+      "characters": 3168,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/038.txt",
+      "bytes": 7190,
+      "sha256": "03604b2cf355a69c838a366ca22c558688da2f295a59af64e1bb3fcc4e8ba36e",
+      "characters": 3170,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/039.txt",
+      "bytes": 7544,
+      "sha256": "4b4aaefb87fd3f089fd6b02baf490788fdd1aaefbd3583d8e6636f3e13704972",
+      "characters": 3144,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/040.txt",
+      "bytes": 7383,
+      "sha256": "7984017acaef2fe3373bca99d71629c674513f815de867e33df2df26d2589c68",
+      "characters": 3181,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/041.txt",
+      "bytes": 7241,
+      "sha256": "92cbd2baae1f2fc4900c9632273d6eba3a84425de4ab7143a22a2d7738742777",
+      "characters": 3175,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/042.txt",
+      "bytes": 7352,
+      "sha256": "58d95b9117b352edfb98f14932e9f15e321cd3b39aa0fe938e9da125b9897f08",
+      "characters": 3200,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/043.txt",
+      "bytes": 7387,
+      "sha256": "b3cf122f0763f769d764038cad7f4a94198f8bce53c4da219312b2fe33260309",
+      "characters": 3185,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/044.txt",
+      "bytes": 7456,
+      "sha256": "0a02705bf25c4a66716d0b77bc26884d305abba58970396756865d6653a0dfc6",
+      "characters": 3196,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/045.txt",
+      "bytes": 7410,
+      "sha256": "69b0b547da3017a28aaa2ac3105f3496978086246fbd18102bd4a2ee8015caf7",
+      "characters": 3164,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/046.txt",
+      "bytes": 7353,
+      "sha256": "347ec7190103cfec676644ac70e9aca75de08ace59778835beda47e1aa502b3d",
+      "characters": 3161,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/047.txt",
+      "bytes": 7874,
+      "sha256": "0971c1f5b025a0acacea67d908168a2fda57923839a05c2fdaa4b4a30e359b0d",
+      "characters": 3198,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/048.txt",
+      "bytes": 7383,
+      "sha256": "0d72910148cc89897bacbe4fded967faabfb90c2a02f7ed5f6a2234c44079916",
+      "characters": 3177,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/049.txt",
+      "bytes": 7503,
+      "sha256": "7ac30fbf68f049d321b5fe644c981ba01ee3cc25939b5b9f38eb9a10aeb15f1e",
+      "characters": 3197,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/050.txt",
+      "bytes": 7398,
+      "sha256": "59816adca9545a77a85b1d3bf60d116b6cd81f43196ea0c4b4c265eab40cac57",
+      "characters": 3174,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/051.txt",
+      "bytes": 7349,
+      "sha256": "bec2c43224c7f0c893705940ec762144a22328725a4da702ffc4f88fc9423a6a",
+      "characters": 3183,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/052.txt",
+      "bytes": 7374,
+      "sha256": "f577d26c41dc6eaf6f65f3e598a70de0a4b47a53c080149ba734bcf18747bbfa",
+      "characters": 3166,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/053.txt",
+      "bytes": 7195,
+      "sha256": "7f5f2e446f833d6df06eb3012acdde6f2f8cb4b5891805fde41cfd758104e57d",
+      "characters": 3149,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/054.txt",
+      "bytes": 7310,
+      "sha256": "d48ee9dcc36749247852f8cfd1feb4e32f655664c81099b1ba22590c649e72b7",
+      "characters": 3186,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/055.txt",
+      "bytes": 7448,
+      "sha256": "9160b3d0b17a916349922753546602b653f4c400173a59bdcdf3c9663102337c",
+      "characters": 3152,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/056.txt",
+      "bytes": 7583,
+      "sha256": "26815bec814e09994bd7bf6977986a962e793f5d7ff81323d10aff041fba7ff6",
+      "characters": 3169,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/057.txt",
+      "bytes": 7119,
+      "sha256": "a7e5efcea57c30570ff5a175e34738743eb6c523a0d07bb295962adcc1435e21",
+      "characters": 3057,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/058.txt",
+      "bytes": 7519,
+      "sha256": "c3edd16d297e6f6fbe7259d20a73f76c4c339b818f454218412fbcce2a1571b9",
+      "characters": 3055,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/059.txt",
+      "bytes": 7353,
+      "sha256": "9a451b7cef706c7844630cfbaa9163e066fd44aacb4c1a0ced4ed237904f6d8d",
+      "characters": 3175,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/060.txt",
+      "bytes": 7339,
+      "sha256": "49b46d4839be7fe255f062e897ee6a14262a9b947ab85d0a99f907f04144f5f5",
+      "characters": 3169,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/061.txt",
+      "bytes": 7504,
+      "sha256": "de029ff55f765e4550fcd0adae493f0dbba8e5c22570225978ff98bbd89eec28",
+      "characters": 3184,
+      "actual_received": true
+    },
+    {
+      "private_delivery_file": "earlier-native-review-pages02/062.txt",
+      "bytes": 4822,
+      "sha256": "bfaa80f61e27813f7236561206386cbf4d7f2790c7e523ebdb0e530715dc726a",
+      "characters": 2158,
+      "actual_received": true
+    }
+  ],
+  "current_actual_selected_P": 4192,
+  "current_actual_fiction_P": 4167,
+  "current_actual_author_afterword_P": 25,
+  "current_inline_ruby_occurrences": 4128,
+  "current_native_delivery_pages": 84,
+  "current_native_members": 23,
+  "current_full_P_members": 9,
+  "current_bounded_members": 14,
+  "current_EPUBs": 7,
+  "current_actual_image_views": [],
+  "current_nonparagraph_receiving": false,
+  "source_known": true,
+  "same_informed_root": true,
+  "independent_credit": 0,
+  "source_receipts": [
+    {
+      "file": "COHORT39_ACTUAL_NATIVE_CONTEXT_RECEIVING_01.json",
+      "bytes": 147825,
+      "sha256": "d9a1838414bcc9a280e27677c9030cd863d46b3f6d47dc900893b717b7272655"
+    },
+    {
+      "file": "COHORT39_EARLIER_NATIVE_CONTEXT_RECEIVING_02.json",
+      "bytes": 424575,
+      "sha256": "85d700ea8b35326bb43271e0f823cd4af99ad42d91800a249c414d4af2f2754a"
+    }
+  ],
+  "analytical_context_receipts": [
+    {
+      "receipt": {
+        "file": "COHORT39_CONTEXT_REVIEW_RECEIVING_01.json",
+        "bytes": 5273,
+        "sha256": "c1d7bb5ae64aa94f7988fd6f7281ab7d3062beea58d33f419745aad6a7202a4d"
+      },
+      "source_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md",
+          "file": "analytical-context01/KONOSUBA_DUST_V07_DEEP_READING.md",
+          "bytes": 51395,
+          "sha256": "e085d36d3a7e1e4dcd2ee0cc2a70b7096cdcc2eec240b708c20ce5928bb732f7",
+          "characters": 51239,
+          "lines": 192
+        },
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_ANALYSIS.md",
+          "file": "analytical-context01/KONOSUBA_DUST_V07_COMPONENT_ANALYSIS.md",
+          "bytes": 10743,
+          "sha256": "68e2429390bf289ffda59ce52d4aa2c6e4c763fa6a6759f41026403b912fb991",
+          "characters": 10525,
+          "lines": 60
+        },
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json",
+          "file": "analytical-context01/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json",
+          "bytes": 15203,
+          "sha256": "87733d10b21faab387f1fed761ace3a46b1e2c0aa8dcedd1cee248b5980547a0",
+          "characters": 15001,
+          "lines": 227
+        }
+      ],
+      "review_complete": true,
+      "actual_delivery_characters": 77096,
+      "qualification": "Byte-identical source pins;current complete receiving governs over historical preparation flags in preserved private plans."
+    },
+    {
+      "receipt": {
+        "file": "COHORT39_ADAPTIVE_IDENTITY_CONTEXT_RECEIVING_01.json",
+        "bytes": 8877,
+        "sha256": "f87b5fd25a17f38d929b8bbddca0914c4fab8f7f7fca4d09e2ecf8486b62f3a7"
+      },
+      "source_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md",
+          "file": "adaptive-analytical-context01/KONOSUBA_DUST_V01_DEEP_READING.md",
+          "bytes": 64738,
+          "sha256": "b36e5640445e4fa8997c6b3121c62c3da94febeb6fd810a691a2384224e53908",
+          "characters": 63824
+        },
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V01_COMPONENT_ANALYSIS.md",
+          "file": "adaptive-analytical-context01/KONOSUBA_DUST_V01_COMPONENT_ANALYSIS.md",
+          "bytes": 28898,
+          "sha256": "684be07b5f1858d6905875689a6aa4c6c0aa53800a3e4f5ac3b84815c5b9f358",
+          "characters": 28410
+        },
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md",
+          "file": "adaptive-analytical-context01/KONOSUBA_DUST_V03_DEEP_READING.md",
+          "bytes": 39612,
+          "sha256": "05f34f0eac8f51d195154d2b64b5a91945f524ed88eb4af8d60d6d630e6f92bd",
+          "characters": 39571
+        },
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_COMPONENT_ANALYSIS.md",
+          "file": "adaptive-analytical-context01/KONOSUBA_DUST_V03_COMPONENT_ANALYSIS.md",
+          "bytes": 16358,
+          "sha256": "90c7b4105be49c4720362f684f337f790ab7a7a221dfaa62ec6031ff0ba392e8",
+          "characters": 16150
+        },
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json",
+          "file": "adaptive-analytical-context01/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json",
+          "bytes": 4713,
+          "sha256": "60acf341ac4b4517f6cb2fffcf2f4b400a0ba478e485fa66e88a8b150a976604",
+          "characters": 4665
+        }
+      ],
+      "review_complete": true,
+      "actual_delivery_characters": 153249,
+      "qualification": "Byte-identical source pins;current complete receiving governs over historical preparation flags in preserved private plans."
+    },
+    {
+      "receipt": {
+        "file": "COHORT39_EARLIER_DUST_ANALYTICAL_CONTEXT_RECEIVING_02.json",
+        "bytes": 10963,
+        "sha256": "14512322fcb8a5a9c5245c29544b8c47154b155766bef7f941b3e3f9b3e6de59"
+      },
+      "source_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_DEEP_READING.md",
+          "file": "earlier-analytical-context02/KONOSUBA_DUST_V02_DEEP_READING.md",
+          "bytes": 47299,
+          "sha256": "b9a51928855aa3fb20ae22d75b0a896bfe0ca0ba4607faa4347770f1feab7384",
+          "characters": 46715
+        },
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_COMPONENT_ANALYSIS.md",
+          "file": "earlier-analytical-context02/KONOSUBA_DUST_V02_COMPONENT_ANALYSIS.md",
+          "bytes": 15735,
+          "sha256": "eaad518d4566a69462be24e9cfbcbf6ce0ec32077e4b723dd9943cc90304de70",
+          "characters": 15559
+        },
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md",
+          "file": "earlier-analytical-context02/KONOSUBA_DUST_V04_DEEP_READING.md",
+          "bytes": 50258,
+          "sha256": "389c84d346bc0eab3d7e36b1ab5ad2d89ad3be594957e327ffcb21a70346811f",
+          "characters": 50094
+        },
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_COMPONENT_ANALYSIS.md",
+          "file": "earlier-analytical-context02/KONOSUBA_DUST_V04_COMPONENT_ANALYSIS.md",
+          "bytes": 15780,
+          "sha256": "1e6fa08bd21a3b452753e5487dbf78d884264af44041a0d40ed2842ac43a51b9",
+          "characters": 15422
+        },
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_CURRENT_PRECISION_QUALIFICATIONS.json",
+          "file": "earlier-analytical-context02/KONOSUBA_DUST_V04_CURRENT_PRECISION_QUALIFICATIONS.json",
+          "bytes": 7253,
+          "sha256": "111cd70f5a4615adc70106331988d3863a310114c3d17ff59849a496389f6950",
+          "characters": 7173
+        },
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json",
+          "file": "earlier-analytical-context02/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json",
+          "bytes": 10735,
+          "sha256": "8e87f8e3f9149825ee28efab150dc614cd3da90e5704f7cb5eaabd3e4593b3f0",
+          "characters": 10685
+        }
+      ],
+      "review_complete": true,
+      "actual_delivery_characters": 146397,
+      "qualification": "Byte-identical source pins;current complete receiving governs over historical preparation flags in preserved private plans."
+    }
+  ],
+  "prior_context_reuse": {
+    "file": "secondary-main13-cast-cohort-v1/COHORT37_CONTEXT_REVIEW_RECEIVING_01.json",
+    "sha256": "b1a5441e33d610018af0a247e451894902150ae8b758cf5c11c0363e59f88f57",
+    "exact_complete_report": [
+      {
+        "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md",
+        "scope": "COMPLETE_EXISTING_REPORT",
+        "complete_report": true,
+        "total_lines": 210,
+        "selected_line_ranges": [
+          [
+            1,
+            210
+          ]
+        ],
+        "characters_with_delivery_headers": 47439,
+        "sha256": "4073efff8c31c67ccc0dcf5b2d3dfb65de2ffc7d4436121c3bfd741cd2bca4be"
+      }
+    ],
+    "qualification": "Preserved actual C37complete reading reused;not a fabricated fresh read or current independent credit."
+  },
+  "prior_Dust06_context_reuse": {
+    "file": "secondary-perie-cohort-v1/COHORT38_CONTEXT_REVIEW_RECEIVING_01.json",
+    "sha256": "a1171b7ba9be34da98f4e74ccf4420c63042fad1798151c9a15f7ff85623d5a7",
+    "source_pins": [
+      {
+        "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md",
+        "private_file": "analytical-context01/KONOSUBA_DUST_V06_DEEP_READING.md",
+        "bytes": 37237,
+        "sha256": "1b65bcd3d98fe01244db5bbb8d114d8e98afa174dd2a2c43ddddee833ee599b3",
+        "characters": 37105,
+        "lines": 157,
+        "scope": "COMPLETE_FILE",
+        "source_known": true
+      },
+      {
+        "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_COMPONENT_ANALYSIS.md",
+        "private_file": "analytical-context01/KONOSUBA_DUST_V06_COMPONENT_ANALYSIS.md",
+        "bytes": 11436,
+        "sha256": "191d6166822827307fec05a391a1876a2b9f2e3df8876b2fede156392a0d5674",
+        "characters": 11030,
+        "lines": 60,
+        "scope": "COMPLETE_FILE",
+        "source_known": true
+      },
+      {
+        "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "private_file": "analytical-context01/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "bytes": 10870,
+        "sha256": "aabcb49b663d2301fd8b8905a331db0d58243a7f2188f3fff8b7088b5945f0a7",
+        "characters": 10724,
+        "scope": "COMPLETE_FILE",
+        "actual_complete_current_read_chunk": "e30b25",
+        "qualifications": 34,
+        "new_native_reading_credit": 0
+      }
+    ],
+    "qualification": "Preserved complete C38two reports and34qualifications reused,not a new read. Source identity pins omit copied historical preparation flags;the exact original receiving and its full actual8page evidence remain preserved under the cited hash."
+  },
+  "name_role_scan": {
+    "file": "COHORT39_ALL41_NAME_ROLE_LEADS_01.json",
+    "bytes": 129922,
+    "sha256": "044e6aa1d6e5f7843ec88b42613ae0e9d0609e855951f1b794a44c11bd9c0a48"
+  },
+  "name_scan_counts": {
+    "objects_verified": 41,
+    "paragraph_leads": 185,
+    "Rouzeri_literal_hits": 23
+  },
+  "name_scan_scope": "Technical all41byte/member/paragraph retrieval,not named/unnamed alias,image,nonparagraph or whole-source absence proof. Current DUST07literal hits all inside full received chapter. Other store/helmet hits require actual identity context;no automatic join.",
+  "component_precision": "DUST05U014p-006complete25Pafterword is creator paratext,not bonus/epilogue. DUST06U011P361is generic other-country store option,not recurring Axelowner.",
+  "source_safe": "Native source binaries,images,full source paragraph projections and private absolute paths remain outside Git. Published provenance supplies identities,selected bounds,hashes and current scope.",
+  "no_new_whole_edition_or_global_unique_denominator": true,
+  "no_new_source_admission": true,
+  "formal_scenario_inputs_or_firsts_serialized": true,
+  "full_program_complete": false,
+  "prior_provenance_draft": {
+    "file": "COHORT39_NATIVE_PROVENANCE_DRAFT_03.json",
+    "bytes": 59648,
+    "sha256": "f75a0fb2dfb666a7b2a4768611ac126fb3049f4aa65460ac77a833de522aaa5e"
+  },
+  "prefreeze_precision": "Source identities,all23units,84delivery pins,actual counts and native receiving remain exact;only prior Dust06display flags normalized and attributable history added.",
+  "foundation_stage_formal_scenario_inputs_or_firsts_serialized": false,
+  "diagnostic_receiving": {
+    "foundation_freeze": {
+      "file": "COHORT39_MODEL_FOUNDATION_FREEZE_01.json",
+      "bytes": 22357,
+      "sha256": "2e8a6f6db0b8e35ab9b899d4563931208fb3c9cde19a6d8b6475f1940355be65"
+    },
+    "exact_input_freeze": {
+      "file": "COHORT39_EXACT_INPUT_FREEZE_01.json",
+      "bytes": 3207,
+      "sha256": "a902789277fe772aa5c266513cc16126483e640c902f04e6193c6aee8a5b8300"
+    },
+    "actual_input_receiving": {
+      "file": "COHORT39_EXACT_INPUT_REVIEW_RECEIVING_01.json",
+      "bytes": 2429,
+      "sha256": "188ec0a16c6f12882f56aa94d186ddc9e67ca76c16fa61eda93a3c4d260dd201"
+    },
+    "original_first_seal": {
+      "file": "COHORT39_ALL_ORIGINAL_FIRSTS_SEALED_01.json",
+      "bytes": 9865,
+      "sha256": "9fc27b3e2c8b87f22f79e0adc27e66f01ad7c7c64e89b4d335f7ee32478f0627"
+    },
+    "exact_inputs": [
+      {
+        "file": "ROUZERI_SCENARIO_INPUTS_01.json",
+        "bytes": 14699,
+        "sha256": "967c9b7eab8e7818ae15ac8027d9e3a108c5b05d45f8b860a13e1b181e47f300"
+      },
+      {
+        "file": "GENERAL_STORE_OWNER_SCENARIO_INPUTS_01.json",
+        "bytes": 13792,
+        "sha256": "273718c82645a08bce2279dfbbfff00bdc7db72bd0b754750f17cf33558de5ec"
+      },
+      {
+        "file": "HELMETED_NOBLE_SCENARIO_INPUTS_01.json",
+        "bytes": 13816,
+        "sha256": "c485d2382aa7fe8c054b581fce5b0867432d3841b359cdbaf432a34e323f95e3"
+      }
+    ],
+    "original_firsts": [
+      {
+        "file": "ROUZERI_FIRST_OUTPUTS_DRAFT_01.json",
+        "bytes": 6954,
+        "sha256": "81e527f1e14daf43c284985beb34ddebc5d71084de65935b0b6f313c14d60fb4"
+      },
+      {
+        "file": "GENERAL_STORE_OWNER_FIRST_OUTPUTS_DRAFT_01.json",
+        "bytes": 6739,
+        "sha256": "cee4651fd25523b1c80b6e00f412f4eec1e04cf5cc1a82da042269d31a32468c"
+      },
+      {
+        "file": "HELMETED_NOBLE_FIRST_OUTPUTS_DRAFT_01.json",
+        "bytes": 6646,
+        "sha256": "72706f575ac1456506d251cc42f1bdfa0906fa101b53d9a827292d21a0a4bad8"
+      }
+    ],
+    "annotations_and_assessments": [
+      {
+        "file": "ROUZERI_FIRST_OUTPUT_ANNOTATIONS_DRAFT_02.json",
+        "bytes": 7014,
+        "sha256": "172cc9db6ec43dda95e724dc41bef5db6027b60233166d632032f4f96b8f29be"
+      },
+      {
+        "file": "ROUZERI_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+        "bytes": 1994,
+        "sha256": "c1bb31cea7a6a44aee891b611962044a39901e175ecc1d5f7b88ba7f24ceed38"
+      },
+      {
+        "file": "GENERAL_STORE_OWNER_FIRST_OUTPUT_ANNOTATIONS_DRAFT_02.json",
+        "bytes": 7421,
+        "sha256": "b7a46cd6ce9a75c898a004ee7c2f30d61fcd2eeac15cb3646b225133a56dbebb"
+      },
+      {
+        "file": "GENERAL_STORE_OWNER_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+        "bytes": 2428,
+        "sha256": "7473c33677245701dd838791626e6a8fb669ae9254c6dd3bc5ea9fca778a7d43"
+      },
+      {
+        "file": "HELMETED_NOBLE_FIRST_OUTPUT_ANNOTATIONS_DRAFT_02.json",
+        "bytes": 7452,
+        "sha256": "f259780f857a4748183230f0ed2d76a666c0b1c81c9561c11ff66342719452e4"
+      },
+      {
+        "file": "HELMETED_NOBLE_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+        "bytes": 2417,
+        "sha256": "c3379de7ae9857244880e55037cd133c1710995fafc2e7fc5de43ed18bcbcac2"
+      }
+    ],
+    "actual_original_firsts": 12,
+    "dependent_pairs": 6,
+    "unbound_or_ambiguous_detail_cases": [
+      "DGO-B1",
+      "HNO-A2"
+    ],
+    "no_regeneration": true,
+    "clean_mechanism_isolating_pairs": 0,
+    "independent_accuracy_grade_or_confidence_gain": false,
+    "all_contrasts_visible": true,
+    "same_informed_root_authors_and_assesses": true
+  }
+}

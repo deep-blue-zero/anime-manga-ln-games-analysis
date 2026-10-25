@@ -81,6 +81,11 @@ def active_rules(
         matched = False
         if kind == "path_changed":
             matched = trigger.get("path") in changed
+        elif kind == "path_prefix_changed":
+            prefix = trigger.get("prefix")
+            matched = isinstance(prefix, str) and any(
+                path.startswith(prefix) for path in changed
+            )
         elif kind == "top_level_roots_changed":
             root = trigger.get("root")
             if isinstance(root, str):

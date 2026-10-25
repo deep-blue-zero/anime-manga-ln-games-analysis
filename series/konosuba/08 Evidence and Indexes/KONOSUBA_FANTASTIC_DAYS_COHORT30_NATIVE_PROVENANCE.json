@@ -1,0 +1,1039 @@
+{
+  "schema": "konosuba.cohort30.known-native-provenance.v1",
+  "recorded_utc": "2026-10-24T05:06:08.024958+00:00",
+  "entering_published_source": "f6297f384640a97edf0bbd31853699e6f632edea",
+  "native_filename": "Konosuba - Spin-off - Fantastic Days.epub",
+  "native_bytes": 5358777,
+  "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+  "accepted_source_gate": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_FD_EXPANDED_PUBLICATION_GATE_CLOSE.json",
+    "sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd",
+    "source": "8cb0beaf1a17447785ebbb7d4402d0557035ff48",
+    "historical_full_tests": 352
+  },
+  "current_component_register": {
+    "path": "series/konosuba/10 Expanded Corpus/Fantastic Days/KONOSUBA_FD_COMPONENT_REGISTER.json",
+    "sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090"
+  },
+  "receiving_receipt_sha256": "10d301584d11a8d8c80835ede947008e5aa062437655ddc45f741a2a9b131189",
+  "actual_received_windows": [
+    {
+      "file": "C30_FD_U011_P001_036_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "cc0f4b",
+      "bytes": 4839,
+      "sha256": "d3eeb897a8d6fe12593c9a342f5c383022a3bbaa98c1a9940cae523946484a9d",
+      "source_id": "FD",
+      "component_id": "FD-U011",
+      "member": "item/xhtml/p-002.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "6c3f40216ab087a4fe3c8140697827d85ed5dd387be084191b728cb6da2ca487",
+      "member_total_slots": 36,
+      "BASE_range": [
+        1,
+        36
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U011",
+        "current_component_role": "PRINCIPAL_PROLOGUE_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U012_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "cc0f4b",
+      "bytes": 15778,
+      "sha256": "a9545251f5e5182d57cc8755c5aa2e59e463dde6803695697f8c49354bd270da",
+      "source_id": "FD",
+      "component_id": "FD-U012",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "ce69d8dd7882ae6337941cc3db1002515832b1e50e5dc24038653a26b80ea971",
+      "member_total_slots": 522,
+      "BASE_range": [
+        1,
+        150
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U012",
+        "current_component_role": "PRINCIPAL_CHAPTER_ONE_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U012_P151_300_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "ca6bf5",
+      "bytes": 15906,
+      "sha256": "b2463c059142b71e229e34b301d4db17dd35fdad079987256466a1c3110b8940",
+      "source_id": "FD",
+      "component_id": "FD-U012",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "ce69d8dd7882ae6337941cc3db1002515832b1e50e5dc24038653a26b80ea971",
+      "member_total_slots": 522,
+      "BASE_range": [
+        151,
+        300
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U012",
+        "current_component_role": "PRINCIPAL_CHAPTER_ONE_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U012_P301_425_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "ca6bf5",
+      "bytes": 13105,
+      "sha256": "7bd4896cd950797f69f4705a805ad824fec8d2d8c5af8ff6cee0f33d5b07e90a",
+      "source_id": "FD",
+      "component_id": "FD-U012",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "ce69d8dd7882ae6337941cc3db1002515832b1e50e5dc24038653a26b80ea971",
+      "member_total_slots": 522,
+      "BASE_range": [
+        301,
+        425
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U012",
+        "current_component_role": "PRINCIPAL_CHAPTER_ONE_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U012_P426_522_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "6f0a5f",
+      "bytes": 10672,
+      "sha256": "61864eaa5d226e6010a3f98a277066fa2c8dd6080a82375cef20e6f3ed7afc03",
+      "source_id": "FD",
+      "component_id": "FD-U012",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "ce69d8dd7882ae6337941cc3db1002515832b1e50e5dc24038653a26b80ea971",
+      "member_total_slots": 522,
+      "BASE_range": [
+        426,
+        522
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U012",
+        "current_component_role": "PRINCIPAL_CHAPTER_ONE_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U013_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "849d4b",
+      "bytes": 18111,
+      "sha256": "83dabebb22465ef4ba2cc7788dd0c4d5d61f4cba754521edbf190da87189c911",
+      "source_id": "FD",
+      "component_id": "FD-U013",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "e2b37d53c0f123af0a10e896a3f9ca552b74cd2a3050ecad462a7b4f73c734e8",
+      "member_total_slots": 592,
+      "BASE_range": [
+        1,
+        150
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U013",
+        "current_component_role": "PRINCIPAL_CHAPTER_TWO_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U013_P151_300_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "849d4b",
+      "bytes": 16561,
+      "sha256": "cfa95fb152983a6e2a32598f3844ed5de8ebd0f329ef3120c78c71b5848ac5be",
+      "source_id": "FD",
+      "component_id": "FD-U013",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "e2b37d53c0f123af0a10e896a3f9ca552b74cd2a3050ecad462a7b4f73c734e8",
+      "member_total_slots": 592,
+      "BASE_range": [
+        151,
+        300
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U013",
+        "current_component_role": "PRINCIPAL_CHAPTER_TWO_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U013_P301_450_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "713f38",
+      "bytes": 16710,
+      "sha256": "4e9f1359da7230b21fc34eb20c25b9c1851ea857b5d5cb512d73529c180569ec",
+      "source_id": "FD",
+      "component_id": "FD-U013",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "e2b37d53c0f123af0a10e896a3f9ca552b74cd2a3050ecad462a7b4f73c734e8",
+      "member_total_slots": 592,
+      "BASE_range": [
+        301,
+        450
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U013",
+        "current_component_role": "PRINCIPAL_CHAPTER_TWO_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U013_P451_592_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "713f38",
+      "bytes": 16161,
+      "sha256": "ebb9b568c6604752ed9398e38909bb68c4bba9891ea8ef352a0d48e22294c570",
+      "source_id": "FD",
+      "component_id": "FD-U013",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "e2b37d53c0f123af0a10e896a3f9ca552b74cd2a3050ecad462a7b4f73c734e8",
+      "member_total_slots": 592,
+      "BASE_range": [
+        451,
+        592
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U013",
+        "current_component_role": "PRINCIPAL_CHAPTER_TWO_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U014_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "6d7cd7",
+      "bytes": 17163,
+      "sha256": "e42c01e8c256db801edbd38fa67fcb5aad83f290eb99c2288b0cfd0c83643ebc",
+      "source_id": "FD",
+      "component_id": "FD-U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "91be06290b393ab66b0341e1f34ff0b80d3903d575b54514d2deec136d6d1529",
+      "member_total_slots": 620,
+      "BASE_range": [
+        1,
+        150
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U014",
+        "current_component_role": "PRINCIPAL_CHAPTER_THREE_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U014_P151_300_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "6d7cd7",
+      "bytes": 17263,
+      "sha256": "cbdae314a5340b0e0991b2f22b21cf27f0a43553f2d94cb72f9af7272e6cc7b1",
+      "source_id": "FD",
+      "component_id": "FD-U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "91be06290b393ab66b0341e1f34ff0b80d3903d575b54514d2deec136d6d1529",
+      "member_total_slots": 620,
+      "BASE_range": [
+        151,
+        300
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U014",
+        "current_component_role": "PRINCIPAL_CHAPTER_THREE_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U014_P301_450_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunks": [
+        "a641c1",
+        "f27c97"
+      ],
+      "received_slices": [
+        [
+          301,
+          375
+        ],
+        [
+          376,
+          450
+        ]
+      ],
+      "initial_truncated_attempt_credit": 0,
+      "bytes": 16298,
+      "sha256": "9ab9486b65f27574b5ff8e6d3615a3c38533e4175d76f6e0d8f341e5984a5144",
+      "source_id": "FD",
+      "component_id": "FD-U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "91be06290b393ab66b0341e1f34ff0b80d3903d575b54514d2deec136d6d1529",
+      "member_total_slots": 620,
+      "BASE_range": [
+        301,
+        450
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U014",
+        "current_component_role": "PRINCIPAL_CHAPTER_THREE_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U014_P451_620_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunks": [
+        "620f44",
+        "7a82fd"
+      ],
+      "received_slices": [
+        [
+          451,
+          535
+        ],
+        [
+          536,
+          620
+        ]
+      ],
+      "initial_truncated_attempt_credit": 0,
+      "bytes": 18174,
+      "sha256": "265a5ed044c31fd6a5d0418f4d8d2f22f6d6d13e79eec4b448782898dc59f1d3",
+      "source_id": "FD",
+      "component_id": "FD-U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "91be06290b393ab66b0341e1f34ff0b80d3903d575b54514d2deec136d6d1529",
+      "member_total_slots": 620,
+      "BASE_range": [
+        451,
+        620
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U014",
+        "current_component_role": "PRINCIPAL_CHAPTER_THREE_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U015_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "040bf8",
+      "bytes": 15065,
+      "sha256": "179c5a471a171ad494f41993bb5f9fe52f6907ee9c1a2e67316ee987d8044b29",
+      "source_id": "FD",
+      "component_id": "FD-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "84b69ab4fbb7c997ed442716b501abb2b7d6079ef858f16f9939f16ac08b06b7",
+      "member_total_slots": 560,
+      "BASE_range": [
+        1,
+        150
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U015",
+        "current_component_role": "PRINCIPAL_CHAPTER_FOUR_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U015_P151_300_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "60d034",
+      "bytes": 15515,
+      "sha256": "74035431a5537dcd974c23c4e2c905ab4185ce22ec2c734e591a3f032467a456",
+      "source_id": "FD",
+      "component_id": "FD-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "84b69ab4fbb7c997ed442716b501abb2b7d6079ef858f16f9939f16ac08b06b7",
+      "member_total_slots": 560,
+      "BASE_range": [
+        151,
+        300
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U015",
+        "current_component_role": "PRINCIPAL_CHAPTER_FOUR_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U015_P301_450_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "9b977e",
+      "bytes": 15880,
+      "sha256": "5bf3cf9160ebf79ade3205f29845c18a73a3b258644026f12067a96526080952",
+      "source_id": "FD",
+      "component_id": "FD-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "84b69ab4fbb7c997ed442716b501abb2b7d6079ef858f16f9939f16ac08b06b7",
+      "member_total_slots": 560,
+      "BASE_range": [
+        301,
+        450
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U015",
+        "current_component_role": "PRINCIPAL_CHAPTER_FOUR_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U015_P451_560_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "e9cf62",
+      "bytes": 12779,
+      "sha256": "c885d8742c3e175b2b4bc4ecb09911889de5af71bb59ee4af02dbccc6d331ac4",
+      "source_id": "FD",
+      "component_id": "FD-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "84b69ab4fbb7c997ed442716b501abb2b7d6079ef858f16f9939f16ac08b06b7",
+      "member_total_slots": 560,
+      "BASE_range": [
+        451,
+        560
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U015",
+        "current_component_role": "PRINCIPAL_CHAPTER_FOUR_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U016_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "b35027",
+      "bytes": 16766,
+      "sha256": "53c6b496e29dc11c8a0445e0b6f65c4aa3ae05dea761cf963267e63d2e47c1ae",
+      "source_id": "FD",
+      "component_id": "FD-U016",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "2f9a8fccec77226682cf06f5fe752a6986b6cba4affdfb2cb9ac14afbb58d51f",
+      "member_total_slots": 403,
+      "BASE_range": [
+        1,
+        150
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U016",
+        "current_component_role": "PRINCIPAL_CHAPTER_FIVE_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U016_P151_300_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "0b83c3",
+      "bytes": 15208,
+      "sha256": "26113ae90f3689d3e1e17f053f54b5406953bacdac5ee8ec8dc2aafc51e316ed",
+      "source_id": "FD",
+      "component_id": "FD-U016",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "2f9a8fccec77226682cf06f5fe752a6986b6cba4affdfb2cb9ac14afbb58d51f",
+      "member_total_slots": 403,
+      "BASE_range": [
+        151,
+        300
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U016",
+        "current_component_role": "PRINCIPAL_CHAPTER_FIVE_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U016_P301_403_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "7260ea",
+      "bytes": 11143,
+      "sha256": "4719ee30dc78890399452583e92922b53e3db67e7cec684dd67140e1b1ba63e1",
+      "source_id": "FD",
+      "component_id": "FD-U016",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "2f9a8fccec77226682cf06f5fe752a6986b6cba4affdfb2cb9ac14afbb58d51f",
+      "member_total_slots": 403,
+      "BASE_range": [
+        301,
+        403
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U016",
+        "current_component_role": "PRINCIPAL_CHAPTER_FIVE_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U017_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "214226",
+      "bytes": 15444,
+      "sha256": "4a54c6d61260d89ab97d220a44f307bc784b9a67315b082f7b9f1ccd998b4575",
+      "source_id": "FD",
+      "component_id": "FD-U017",
+      "member": "item/xhtml/p-008.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "df2b7d5cc566cba5825265989977d995a68483d874ce20d8994a7c09578dc803",
+      "member_total_slots": 455,
+      "BASE_range": [
+        1,
+        150
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U017",
+        "current_component_role": "PRINCIPAL_CHAPTER_SIX_KAZUMA_NARRATOR_WITH_QUOTED_LIA_PAST",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U017_P151_300_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "f35479",
+      "bytes": 15425,
+      "sha256": "816339b84706d0575019ed40c75fbc97743fbd215d1343500b5fb0c1990d771a",
+      "source_id": "FD",
+      "component_id": "FD-U017",
+      "member": "item/xhtml/p-008.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "df2b7d5cc566cba5825265989977d995a68483d874ce20d8994a7c09578dc803",
+      "member_total_slots": 455,
+      "BASE_range": [
+        151,
+        300
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U017",
+        "current_component_role": "PRINCIPAL_CHAPTER_SIX_KAZUMA_NARRATOR_WITH_QUOTED_LIA_PAST",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U017_P301_455_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "f3fdf4",
+      "bytes": 15700,
+      "sha256": "06adc3ce03bcebca318056cf291d9872b257209e56d60fc9c8cc90ae58c1e6e9",
+      "source_id": "FD",
+      "component_id": "FD-U017",
+      "member": "item/xhtml/p-008.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "df2b7d5cc566cba5825265989977d995a68483d874ce20d8994a7c09578dc803",
+      "member_total_slots": 455,
+      "BASE_range": [
+        301,
+        455
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U017",
+        "current_component_role": "PRINCIPAL_CHAPTER_SIX_KAZUMA_NARRATOR_WITH_QUOTED_LIA_PAST",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U018_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "087fc7",
+      "bytes": 16241,
+      "sha256": "2d45833da4961a072ec69e7f66a281eb4d9dc89bd8f8f9e7070fdb0d0119c86d",
+      "source_id": "FD",
+      "component_id": "FD-U018",
+      "member": "item/xhtml/p-009.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "4623448e7e56a40aeeed86065761a5cf92e7fb47bf951c0e1ef1e50e2cb536dd",
+      "member_total_slots": 380,
+      "BASE_range": [
+        1,
+        150
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U018",
+        "current_component_role": "PRINCIPAL_CHAPTER_SEVEN_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U018_P151_300_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "73c7bd",
+      "bytes": 15866,
+      "sha256": "38f86e689b3213ac4ec5a5d051bea2956922c62c15e60dcf7ee5f2f5abc0a4cb",
+      "source_id": "FD",
+      "component_id": "FD-U018",
+      "member": "item/xhtml/p-009.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "4623448e7e56a40aeeed86065761a5cf92e7fb47bf951c0e1ef1e50e2cb536dd",
+      "member_total_slots": 380,
+      "BASE_range": [
+        151,
+        300
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U018",
+        "current_component_role": "PRINCIPAL_CHAPTER_SEVEN_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U018_P301_380_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "881799",
+      "bytes": 9113,
+      "sha256": "c683acbb27dbb4cebfd02d575f305782368bce533e7ed9355e15329053a4c8cf",
+      "source_id": "FD",
+      "component_id": "FD-U018",
+      "member": "item/xhtml/p-009.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "4623448e7e56a40aeeed86065761a5cf92e7fb47bf951c0e1ef1e50e2cb536dd",
+      "member_total_slots": 380,
+      "BASE_range": [
+        301,
+        380
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U018",
+        "current_component_role": "PRINCIPAL_CHAPTER_SEVEN_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U019_P001_077_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "310247",
+      "bytes": 9481,
+      "sha256": "8e300549868ee74f9ca6abab276d1b0381bb590131381d99441c67a3f0faecee",
+      "source_id": "FD",
+      "component_id": "FD-U019",
+      "member": "item/xhtml/p-010.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "b2aff2abadc2d04e714c67c34faa09e2779447f74bb3cd43965365f7b6b18a9d",
+      "member_total_slots": 77,
+      "BASE_range": [
+        1,
+        77
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U019",
+        "current_component_role": "PRINCIPAL_EPILOGUE_KAZUMA_NARRATOR",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U020_P001_017_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "03e8d8",
+      "bytes": 3591,
+      "sha256": "05e570c176d7fe93d114caa16146ff52c5bc5f97288f90a8a52497d8abfaadf8",
+      "source_id": "FD",
+      "component_id": "FD-U020",
+      "member": "item/xhtml/p-011.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "bb2b95fc3f1a8f2bfd8cd7297781962a96360d49e19e8c4008cacafbfc2dea54",
+      "member_total_slots": 17,
+      "BASE_range": [
+        1,
+        17
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U020",
+        "current_component_role": "HIRUKUMA_AFTERWORD_GAME_NOVELIZATION_PROVENANCE",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U007_P001_004_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "706d26",
+      "bytes": 1250,
+      "sha256": "d5c6362c4decd5c262811319a3c0b0b816064ddc1b1069c085d80bc7ccefcaf5",
+      "source_id": "FD",
+      "component_id": "FD-U007",
+      "member": "item/xhtml/p-caution.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "49c6724be5fe694366b3fb9b9f34b5b4d575a047ee916c7093e807669a02ec67",
+      "member_total_slots": 4,
+      "BASE_range": [
+        1,
+        4
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U007",
+        "current_component_role": "ELECTRONIC_LAYOUT_NOTICES",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U008_P001_006_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "706d26",
+      "bytes": 1084,
+      "sha256": "f93deada3092c5e03c4881d7ca38d1afc7d426c7fb0961185b05b92e828249aa",
+      "source_id": "FD",
+      "component_id": "FD-U008",
+      "member": "item/xhtml/p-001.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "3869a3fe9a66793663547626be453762a93239c42d3f9de47c2d88b6bfa7f698",
+      "member_total_slots": 6,
+      "BASE_range": [
+        1,
+        6
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U008",
+        "current_component_role": "TEXTUAL_DESIGN_AND_IMPRINT_CREDITS",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U010_P001_013_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "706d26",
+      "bytes": 1082,
+      "sha256": "15afe55da92088e19d846e67713c4937f26d000294e8f64d70f00c8e6c51a330",
+      "source_id": "FD",
+      "component_id": "FD-U010",
+      "member": "item/xhtml/p-toc-002.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "32c30149b43fc5b6c3b8162bfc9ec3af8f8ad45244e1f5112c21c877928a37fc",
+      "member_total_slots": 13,
+      "BASE_range": [
+        1,
+        13
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U010",
+        "current_component_role": "TEXTUAL_TABLE_OF_CONTENTS",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U022_P001_019_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "706d26",
+      "bytes": 1871,
+      "sha256": "ac9d0efce8bc9a248ea042b5bf267692678eff23a6fa075c6c3bed7aafde7718",
+      "source_id": "FD",
+      "component_id": "FD-U022",
+      "member": "item/xhtml/p-colophon.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "19948c4611fa7b04465fba0adf50a749f71f28b1555975a1bf18e40465323972",
+      "member_total_slots": 19,
+      "BASE_range": [
+        1,
+        19
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U022",
+        "current_component_role": "ELECTRONIC_AND_UNDERLYING_PRINT_COLOPHON",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    },
+    {
+      "file": "C30_FD_U023_P001_003_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "706d26",
+      "bytes": 1458,
+      "sha256": "d5f770cdb831af54913e80d7d7e28de46be3d0cbe3cc86ac83f81fe1e0e0bc19",
+      "source_id": "FD",
+      "component_id": "FD-U023",
+      "member": "item/xhtml/p-colophon2.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "member_sha256": "4e30e63e7cd5128ddab489bcfc2351eec9ade1dba28febf4f40fc7e76f4efdfd",
+      "member_total_slots": 3,
+      "BASE_range": [
+        1,
+        3
+      ],
+      "accepted_contract": {
+        "component_id": "FD-U023",
+        "current_component_role": "ELECTRONIC_RIGHTS_AND_BASE_EDITION_NOTICES",
+        "original_full_text_and_ruby_acceptance": true,
+        "current_register_sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090",
+        "accepted_source_publication_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+      }
+    }
+  ],
+  "complete_windows": 33,
+  "known_BASE_context_slots": 3707,
+  "principal_BASE_slots": 3645,
+  "nonfiction_BASE_slots": 62,
+  "native_text_object_count": 1,
+  "member_count": 15,
+  "complete_BASE_member_scopes": [
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-002.xhtml",
+      "slots": 36
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-003.xhtml",
+      "slots": 522
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-004.xhtml",
+      "slots": 592
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-005.xhtml",
+      "slots": 620
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-006.xhtml",
+      "slots": 560
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-007.xhtml",
+      "slots": 403
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-008.xhtml",
+      "slots": 455
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-009.xhtml",
+      "slots": 380
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-010.xhtml",
+      "slots": 77
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-011.xhtml",
+      "slots": 17
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-caution.xhtml",
+      "slots": 4
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-001.xhtml",
+      "slots": 6
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-toc-002.xhtml",
+      "slots": 13
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-colophon.xhtml",
+      "slots": 19
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-colophon2.xhtml",
+      "slots": 3
+    }
+  ],
+  "source_receiving_notes": [
+    {
+      "scope": "FD U011 P1-36",
+      "judgment": "Whole known prologue read. Kazuma chooses idleness despite emergency; Aqua agrees,Megumin presses,Darkness proposes forced transport,then accepts particular binding counteroffer by positioning. No completed binding or universal consent follows. Context for this continuity,not new action of five target subjects."
+    },
+    {
+      "scope": "FD U012 P1-150",
+      "judgment": "Carriage: driver says he sent dancers aheadP61,still hesitates for cargoP69 and is pulled awayP70. Kazuma gives cart exclusionP73 before cast; actual cart destructionP81. Darkness complete retreat not shown. Driver anger/loss remain distinct from later stated450million. Own named stage introductions identify Cielo129,Lia132,Erika135 and AxelHearts139. Cielo narrator-identified girlP115 despiteボク. Lia red face/stiff winkP133,Erika ease/joyP136-137; Kazuma leader-like appraisalP120 is inference,not proved office."
+    },
+    {
+      "scope": "FD U012 P151-300",
+      "judgment": "Erika joy at可愛いP152-154 and Cielo etiquette correctionP156 coexist. Own classesLiaLancer161,ErikaRanger162,CieloArchpriest163 separate dancer occupation. Lia urges renewed appeal172; staged tournament claim187 and her belief natural appeal195 are not independent competition proof. Cielo claims martial training188. Erika unsolicited gift letter208/proposeddownpayment not intimate act; Kazuma actually strikes her head231 and she objects232. Cielo apologizes237 and reports destroyed troupe belongings242; Lia247/Erika248 explain stage-loss need. Kazuma knows responsibility and concealsAqua253; no source consent to that concealment. Trial quest265 is specific,not blanket party authority."
+    },
+    {
+      "scope": "FD U012 P301-425",
+      "judgment": "Erika wants rest320-325,praise changes stated effort; cute/cool dispute with Megumin330-331 ignores Lia/Cielo warning334-335. Actual net captures exactlyMegumin/Lia/Cielo/Erika339/343; Kazuma,Aqua,Darkness remain outside. Earlier report Allarecaught should be read at that bounded referent,not wholeparty. Erika admits forgottentrapdetection353; Kazuma also admits354. Exact net release unshown. Actual quota369,competence appraisal371/388; Lia own uncertain training memory385 not a lie or complete autobiography. Lia handshake377 differs from approachingCielo393-398: first blow occurs before explicit completed touch;Lia399labels male fear,not independent clinical diagnosis. Strong trained blow,ownapology404/422 and usefulhealing remain; no passive/harmless caricature."
+    },
+    {
+      "scope": "FD U012 P426-522",
+      "judgment": "Lia notices absentErika430/431; Erika crieshelp435,then denies havingasked449 afterrescue,showinglocalface tension. Lia actually defeatslastmonster447 and slapsErika452 before rebuke453/455. Erika owngoal454 is fourmillion forstage,not simplypersonalwealth. Cielo462 reports upbringing/hopeparentswouldfindherifcute; actualparentmotive/reunion unproved. Cielo mediates465/468 and comforts472; Erika actually thanks/apologizes469/471; Lia values three-person unit470. Care does not erase slap or earlierrisk. Kazuma proposes women handshake475 then touches476 despite knowntrigger; Lia477warns,anotherblow478-480,Cielo apologizes482. Known alternative and knowledge remain; no retrospectivegrade. Actualequalprofitdivision488 andcostume/show489-509 differ from Kazuma futureproducer declaration521. Skill and staging actual; management assent still futureatend."
+    },
+    {
+      "scope": "FD U013 P1-150",
+      "judgment": "Blacksmith lends workshop corner and questions merchandise/Axis analogy6-17: unnamed bounded occupational lead,not proved same as other smiths. Kazuma provides prototypes and listens,suppresses motive. Cielo saysstopat59 before roomentry61; Lia laterwelcomes68 does notbackdatepermission. Room neglect includes spoiledfood/ants and housematecosts64/74/79; Lia rationalizesants75/promiseslater80,then actual jointclean85. Cielo thanks89,Erika revisesappraisal92; usefulwork real thoughbusinessmotive.Konjiro notsameprovedasポン太さん94; severalplushobjects no animateperson. Lia melody input automaticarranger116,Erika instrumentalname118,Cielo/Erika unabletouse120 andwishlearn remainbounded,currentdefensivecapacityunknownhere. OwngoalsErikafame123,Lia three-personsinging124,Cielowishovercomefear125. Criticism differentresponses132; repeatedpraise143-146changesErikacompliance,not universaljudgment. Kazuma borrowedscript149 notactualprofessionaltraining."
+    },
+    {
+      "scope": "FD U013 P151-300",
+      "judgment": "Lia asks concreteproduceracts157,corrects touringnovelty160,andquestionsmotivation178. Kazuma promisedprivatemoney181 is notcompletedinvestment. Explicit threeassents184-188 andproducerforms195-197 give specificrole despiteconcealed expertise/culpability; no generalauthority. Handshakeastherapy167 is Kazuma rationale,notvalidatedtreatment. Rehearsal criticismLia disappointed229,Cielo suggestsconfidence234,Erika proposescenter242/resistscool247; genuine adaptation268-270 andactualsuccess274 follow. Crimsonproviders267 areKazuma inference; no automaticnewmain-caststate. Darkness faithcharmrefusal290/294 doesnotnegate laterrealmerchwork. Trio ownchoicesremain distinct."
+    },
+    {
+      "scope": "FD U013 P301-450",
+      "judgment": "Actualmerchandising309-311,outsourcedVanirproduction318 separateeffort. MotherpraisesLiasong320,Liaembarrassedthanks322; childpraisesErika323/freephoto324,herfreehandshakeoffer333-334 andnear-sign337 interruptedbyK338. Motherclaimsbudget/time330,childfairness335 do notindependentlyestablishpoverty/sincerity; prospectiveAxisformnotactualconversion. Erika frightened342/343 stillconcernedaboutDarkness360-364 despiteKignore362,then learnsDparticulardesire365; concernnotonlyselfpraise. KagaintriggersCielo349-352,proposesgloves; sheexplicitlycorrectsfiveassumptiontoFIFTY355. Actualglovedhandshake411-412,notcure. Cielo ownnobleupbringing/socialexclusion384; Kbullyingcause385 isconjecture. Erika defendsher383,ownviolenceack384. Charlie beforeownname419claimsbarehandentitlement420 despiteCielono427; forcesgloveoff/grabs428,actualpunch434; laterpanicblowhitsK440/apology443. Erika requestsnotdislike446; recipientenjoyment449 doesnotauthorizeearlierforce."
+    },
+    {
+      "scope": "FD U013 P451-592",
+      "judgment": "Charlie explicitlyselfnames459/rejectsgenerictrolladdress,coerciveownershipshout459/466,actualtransformation457,panicscrowd/destruction464 andclaimsprotectivepossession467. Regen/toughness468 narratorworldaccountnotinfiniteproof. KcovertlypushesuninformedCielo472; shepanics/strikes476,Charlieactuallysuffers/flees478/482 whilecallingitreward481. No consent/harmlessnessfrompleasure. Destructiontheater494/cancellation/refundrequestandunsoldstock495 actualcosts. ElderlyAxeltheatremanager508offersprofessionalstage517,threeaccept519-521,formalcontractonlypromised522. Lia recognition/workvaluation528,Cielo nowenjoysshowbeyondinitialtraining529,Erika valuesparticulartrio530; Liawithholdsmotive534,notautomaticconsciousEarthbiographybeforememoryreturn. Dustdisclosesoriginalcart555; Lia/ErikablockKsilencing554,Cielo coldangertowardK/Meg557; Lia lowvoicedcommand574 andbetrayedtrustquestion581; Erikapraisescriptfails572 andapparentforgiveness584isexplicitsetup586. No completedforgivenessatend592; debt570millionreported. Additional boundedleadsmanager,mother/daughter/blacksmith requirecensusjoinreview,nottierassigned."
+    },
+    {
+      "scope": "FD-U014 P1-150",
+      "judgment": "Former producer tie is broken at P6; Vanir bill/Wiz three nights of work/food promise P26-31 retain suppliers costs. Unnamed young man alerts Charlie attack P34-35 (bounded role lead). Cielo threatens special magic P46 without casting. Charlie insists on his own name P47; Erika self-advertises P48 and is ignored P49, anger P51. Charlie reports Daniel orders abduction P65, transforms P66 and attempts P70; he guards the previously struck body part P76, a concrete precaution against any always-unlearning/painless masochism generalization. Theater explosion veto P80, low-damage request/Wiz assent P84-86, insult-provoked lightning P88-96. Charlie elite-rank claim P98 remains self-report, retreat P98/102 real. Wiz knows Daniel but explicitly not Charlie P107; P116-137 army/executive-candidate/expulsion history is Wiz report, not witnessed past. Cielo corrects Lia that all three are targeted P121-123, Erika restrains K P129 and Lia/Cielo join P131; Cielo requests producer protection P144 despite terminated relation P146, her stated expectation rather than an unrestricted obligation."
+    },
+    {
+      "scope": "FD-U014 P151-300",
+      "judgment": "Principal-group avoidance P151ff is distinct from Axel Hearts agency. Dust announcement/Leen corroboration P191-193: billion includes contracts, not wholly unrestricted cash. K accepts principal three producer role P223-224 for bounty. Actual theater cleaning P235-237 precedes girls suspicion P242-243, staged apology P245-249 and real Lia forgiveness/hand P253-254, Erika acknowledgment P255, Cielo belief P256, renewed producer relation P260. K concealed profit P259/264 qualifies informed trust without erasing actual assent. K actually stops himself touching Cielo P261, countercase to repeating the known violation. Lia worries P270, Erika advocates P271, Cielo P272, Lia joins conditionally on partners wanting P273. No completed parent reunion. Contest host P281/288 is a bounded anonymous lead."
+    },
+    {
+      "scope": "FD-U014 P301-450, recovered from original immutable raw in two complete slices",
+      "judgment": "Judges misread principal claims as character settings P317-320; Aqua actual water art earns first selection P321-323, not proof judges recognize divinity. Trio practiced introductions P330-334, Lia wants audience for song/dance P341, Erika adds cuteness P344, Cielo invites one viewing P345; K P346-351 attributes growth to himself, inference not sole causality. Actual qualification/joy P352-353. Erika checks future stages without prompting P363-364. Cielo and Darkness each sustain over thousand situps P378-382 and jointly reject muscular labeling P384-389; Cielo P385 explicitly female and hurt, not a gender inference from boku. Erika actual quiz answer P403-405 follows Megumin timeout, and misreads restraint crowd as fans P411-412. Trio finals P414; Cielo own future fear-recovery aim P426 and Erika own parent-recognition aim P427 do not prove cure or reunion. Lia names amnesia/belonging P434 but is interrupted, so this does not disclose later full past to both partners. Actual performance P443, uncertainty P444-446; no result yet by P450."
+    },
+    {
+      "scope": "FD-U014 P451-620, recovered from original immutable raw in two complete slices",
+      "judgment": "Actual Axel qualifier win P454 and wordless embrace P456-457; principal-party joy P459 counter rival exclusion. Daniel human appearance/self-name P467-472; Lia brave pointing while hiding behind Cielo P474-475. Erika complains no troll favors her P478-480 (attention desire despite danger) then refuses castle invitation for prior tour destruction P482. Daniel turns refusal into force P484-498, not an accepted invitation. Sexual preference debate P509-521 is specific contextual diversion, not a universal bargaining key. Prior army candidate remains reported P473/490; real combat difficulty P522/528-533 independently shown. K evacuation and luring out of town precede actual Explosion P545-549; cannot conflate later indoor gamble. Trio gratitude/producer acknowledgment P555-564 are real but premature victory: Daniel survives injured/half-naked P565-569. He declines Darkness bait to preserve abduction objective P576-584, misreads her motive P576-579; no perfect mind-reading. Actual Bind P588-600 catches Lia and incidental Aqua; Cielo/Erika escape P595, captives actively resist P600. Daniel accepts incidental capture since Lia present P596, defers other two P607. Cielo/Erika cry/run P601-617; no successful rescue by member end. K prize motive P611 retained. No new whole-source, ruby, image, admission, independent, artifact-depth or model claim."
+    },
+    {
+      "scope": "FD-U015 P1-150",
+      "judgment": "Three-day captivity P7; bath does not prove abandonment because actual Chris search commission for both captives P32, location found, fee dispute and actual help P35-46. Erika/Cielo arrive despite wait instruction P53-67: particular friend, recognized danger, refusal of merely being protected, actual K permission. Cielo attempts hand in high emotion P62; K avoids, so no new unconsented actual contact/cure. Erika retains attention frame P82; Cielo anticipates many men P83. Cielo threatens violence against captives sexualized speculation P101-102, no actual blow there; Erika rescue priority plus deadline P103. Treasure condition P106-108. Castle location knowledge differs from internal layout ignorance P116-123. Cielo spots Charlie and persists despite dismissal P125-130. Sleep is established by snoring P134. Charlie wakes and labels real Cielo dream P145-149; false dream permission is his rationalization, actual unsolicited leap P149 and her refusal P150, not agreed fantasy."
+    },
+    {
+      "scope": "FD-U015 P151-300",
+      "judgment": "Actual touch triggers blow P152-155, Charlie updates dream belief from pain. Claims loyal secrecy P164 but immediately answers Cielo location request P167-168, then blames a nonexistent trick P171. Erika harsh insult/monstrous appearance P172-189; Cielo first asks her to apologize P190 then herself says not cute P194. Charlie real distress P195-196. Collective hesitation P197-201 then Erika/Cielo knowingly join attack for Lia P202-211, actual beating/binding/interrogation P215: care and harshness coexist, not unlimited gentleness. Darkness/Cielo jointly break door P217-221 and reject macho label P222-223. Erika/Cielo infer Lia safety from familiar clutter P233-257; inference is immediately corroborated, not general supernatural sensing. Lia admits attempted restraint yet room remains filthy P260-267, a repeated ordinary-life countercase. IMPORTANT native P270 says Cielo brings Lia clothes/weapons but P271 names Erika changing; preserve exact wording ambiguity and do not silently substitute Lia. Captives actually recovered; Chris treasure search after rescue P279-293, no successful treasure escape yet. Aqua calls trolls harmless P245 is her evaluation of captivity, not cancellation of abduction, later threats or injuries."
+    },
+    {
+      "scope": "FD-U015 P301-450",
+      "judgment": "Daniel broadcasts false Konjiro hostage P301; Erika identifies fox plush P302, Lia names first companion in loneliness P306-309, angry at object reduction. Voice P311 is Daniel imitation acknowledged P334, not animated plush evidence. Lia rushes alone P316-317; partners follow despite warning P318-320. Daniel uses fan knowledge P337, welcomes all three for ritual P341-345/353. Erika appearance insult disrupts transformation P358-363; K cue, Lia understands and cooperates P364-370 while Cielo does not understand, limited situational leverage. Daniel stays human yet remains effective P377-381 and is ready to transform when pressured P381. Indoor Explosion is K gamble on castle structure P382-385, distinct from prior evacuation. Daniel survives injured, reports unable to transform P390-395. Lia explicitly refuses last dance P396-400 due manipulation of particular Konjiro, Cielo condemns crime P401, not fan identity granting service. Daniel cries at rejection P403-405, no surrender/custody outcome. Aqua taunt/dance P407-411 accidentally satisfies ritual; Chris tries to stop it P412-421 but K misunderstands. Actual storm/roof damage/lightning P416-449, causal identification K inference with subsequent confirmation, not Lia knowingly performing ritual."
+    },
+    {
+      "scope": "FD-U015 P451-560",
+      "judgment": "Actual hammer emergence/use P451-454/499-501; Cielo does not know cause P455, Lia takes causal responsibility and defends Aqua without understanding P467-470. Charlie returns P493-495 after beating, finite depicted recovery not infinite invulnerability; backs lethal threats P494/511. Daniel wounds himself badly using hammer barehanded P514-518, reads manual only after action, accepts not-reading fault P522. Charlie reads safety gloves/location aloud P521-527 despite Daniel alarm P528; disclosure P529-530, then tries redeeming error by attacking P538-539. Same subordinate also later warns about gloves, so neither always stupid nor always competent. Erika hears location P532. Actual K request/Aqua assent water P540-542, group washes out; trolls not washed out P543, near drowning P550, not frictionless rescue. All return to report danger P558-560. No new whole-source, ruby, image, admission, independent or artifact-depth credit."
+    },
+    {
+      "scope": "FD-U016 P1-150",
+      "judgment": "Actual public guild report P6, Chris estimated power P11 vs demonstrated facts; Luna response P24-25 and other workers instructions is actual bounded administration. K/Aqua hide activation cause P20-23; Wiz nearly discloses own army relation, K cover P29-34; no warranted public full-knowledge claim. Cecily actual arrival P38, adventurer status explicitly denied P39; preserve source-edition scope. Chris exits to exchange treasure P53-55; K lost his own P56, not universal loss. Lia takes abduction as responsibility and fears destroying partners dreams P65-70; Cielo allows another opportunity P71, Erika shares burden even on hypothetical responsibility P72, Lia thanks P73. K acts once contest cancellation threatens money P76-85, not suddenly disinterested. Trio returns to practice P91. Dust location knowledge/fee request P97-108 and prior-visit evasion P113-117; no unearned dragon/identity backstory integration. Mitsurugi joins voluntarily P121-124. Snow mountain monsters/vegetables and actual transport constraints are contextual, not a free-transfer ability."
+    },
+    {
+      "scope": "FD-U016 P151-300",
+      "judgment": "Actual Wyvern Explosion hit and enemy fall P155-159, finite survival shown P197-201. Megumin actual K-carry preference P165-174 preserved for distinct later principal model successor, no change to frozen principal model. Mitsurugi swings, enemies dodge P209-215, ground collapses P220; Dust warning comes AFTER swing P217-219. Enemy and Mitsurugi displaced, no direct enemy sword hit. Meal and overnight P193-196/232-234 separate later cast; avoid treating repeated casts as same unbroken resource window. Aqua remembers issuing hammer/gloves P241-250, own report not independently seen ancient transfer. Lia alone arrives P257-270, repeatedly explains guilt obstructs performance/concentration and requests participation; K actually permits P268. She notices missing post-acquisition plan P282, K had not P284. Destroying gloves ability unresolved P283; royal storage P289-291 is proposed, not performed."
+    },
+    {
+      "scope": "FD-U016 P301-403",
+      "judgment": "Charlie accuses party of leaving companion P302; Daniel honors Mitsurugi effort P315, counter exclusive inability to recognize opposition competence. Daniel declines barehanded lightning challenge because cost P308, a learned constraint before final ignored glove warning. Daniel acquires gloves during melon distraction P340-346; K capture order P327 is actually ignored by Megumin cast P328-337. Daniel knowingly attacks retreating group P348; Lia intercepts lightning aimed at exhausted Megumin P350-354. Death P360/363 and actual resurrection P376-379 are shown, not mere injury/fainting, not own immunity. Daniel distressed at unexpectedly hitting Lia P358-365, starts self-directed hammer blow P366; Charlie calms/carries him away P367-372, not completed self-killing or general remorse for all victims. Mitsurugi does not know resurrection precedent P374-386, others differ by experience. P390 native repeated light sentence remains native anomaly; do NOT count second Resurrection. Lia slow response then regained memory P387-403; earlier two-year amnesia was reported privately to Aqua in captivity P397, full later history disclosure still pending. No new whole-source, ruby, image, admission, independent or model credit."
+    },
+    {
+      "scope": "FD-U017 P1-150",
+      "judgment": "Days pass P6, no known public rampage P8-11 is limited observation, not comprehensive absence. Withdrawal P16-22 retains eating, bathroom/lettered errands; no diagnosis or starvation invented. Erika despondency P29 then teary hope P46-47, Cielo proposes withdrawal P25 then accepts K burden appeal P30-38; his secret money motive P35 remains. Lia specifically invites ONLY K/Aqua P50/56. Japanese reincarnate P68, idol training/debut/throat illness/traffic death/restored singing/mission/naginata club/monster carriage fall/amnesia/partner invitation P88-115 are her quoted recovered self-history, not omniscient independent biography. Names withheld P91/123, current chosen Lia retained. She explicitly wants dancing P126 but feels mission duty, Aqua asks actual desire P131 then Axis doctrine brings relief P133-136; K support also financial P140-145. Actual hand grip P144, return to practice with partners support P149, not memory recovery automatically fixing conflict or disclosure to Cielo/Erika."
+    },
+    {
+      "scope": "FD-U017 P151-300",
+      "judgment": "Trio nervous but practiced P159-168; Cielo anticipates men/contact risk and intends to avoid striking P164, no cure. Lia sings for particular partners P167. Anonymous royal attendant P186-201 (bounded role) reports independent inquiry and actual five-hundred-million bounty, not original ritual truth. Darkness attempts disclosure P191; K suppresses resisting speech with covert Drain P192-198, not consensus or voluntary transfer. Costume loss P219-228, Lia rule knowledge blocks substitute-clothes workaround P228. Chris agrees investigate P245; actual tracking P249-255, enemy shouldershot P267, costumes recovered P274-276 and K actually forgoes pursuit for objective P277 despite revenge cue. Troop trolls explicitly distinct from Charlie/Daniel P264, claimed Daniel tie P272; no new named identity. Capital host P282-283 is not proved same Axel host. Actual coordinated performance P287-288. First win and recalled joy of singing P292-300; altered plush voice explicitly belongs Lia P300, not independent Konjiro agency."
+    },
+    {
+      "scope": "FD-U017 P301-455",
+      "judgment": "Lia embarrassed P304-306 although partners know practice P309; she insists personal name P310, Cielo validates importance P311, Erika mascot compromise P315. Own history of solace P312 not animate plush; keyboard, explicitly NOT plush, is reincarnation gift P317-323. Erika does not understand cheat term P318-319, no automatic native knowledge of Lia full history. Aqua cannot remember keyboard ability P337-339. Erika initiates defending contest P333. Daniel states work/reemployment and marriage aims P345, Charlie pleased at work P346 and later questions marriage priority P444; Daniel self-corrects P445, no equal motives. Erika explicitly rejects prior mutual romance P371, Cielo defends stage P372; both shield Lia P373. Daniel limited force near stage P381, K corroborates observed slow movement/no hammer P382; after Aqua taunt he actually attacks indiscriminately P385-403, homes/fire/resident cries P390-392. Stated stop condition imposed marriage+army recognition P407, not consensual courtship. Lia actual keyboard barrier P415-434, Cielo/Erika first discover ability P419-421, Aqua recollection uncertain P428-429. Counteracts lightning but not total threat/total repair P440. Daniel withdraws from uncertain opposition P436-447 despite oath to return, not blind constant attack. Lia requests repair/evacuation then collapses P448-452; no external wound shown, mana explanation attributed Aqua. Cielo/Erika actually nurse P454; finite cost, not effortless universal defense. No new whole-source, ruby, image, admission, independent or model credit."
+    },
+    {
+      "scope": "FD-U018 P1-150",
+      "judgment": "Actual many injured/major damage P7-12; narrator says no town resident injured, mainly soldiers wounded. Preserve class/scope; no universal casualty-free claim. Cecily actual heals P22-28 before coercive conversion P37-49, K physically stops/redirects by Aqua P50-55; no erased competence or inferred completed conversion. Darkness/Cielo real debris work P56, shared noble status P61-63 and synchronized label refusal P58, not identical characters. K considers avoiding enemy over bounty shortfall P65-67; Cielo gaze is concern, K romance inference P71-73 mistaken. K stops before touching shoulder P78, actual restraint after prior failures. Lia unilaterally leaves P96 and claims mission/target burden P106; K switches at raised 1.5-billion bounty P103-113, not disinterested respect. Recruitment motives differ; source names 12 coalition members P173, not total-character census."
+    },
+    {
+      "scope": "FD-U018 P151-300",
+      "judgment": "Dust changes for succubus-shop stake P152-155; Cecily for Aqua P159-164, Arue writing P166-167, Yunyun rival P169, promised fees P171, not generic unanimous altruism. Village destruction/no dead P179-188 is received report and K inferred publicity motive, not proof no harm anywhere. Lia explicitly bars partners P198/201/237. Cielo and Erika arrive P223-229 asking return, Lia smiles then refuses P230-237; her no-meaning claim P232 contradicts witnessed joy and earlier wish, preserve distressed self-description rather than total literal replacement. Actual guild warning announcer P241-242 anonymous role lead. Charlie threatens P248/261; Daniel refuses Wiz parley P253-254, directly calls traitor. Lia follows timing instruction P267-272. Barrier range prevents attacks P277, real fatigue P283-284; partners deliberately join despite refusal P288-290, cite Lia unilateral behavior, so care does not erase own boundary override. Both trolls pause to admire friendship P293-295, vulnerable attention allocation. Cielo/Erika actual singing P299, power change coincidently observed, full mechanism remains uncertain."
+    },
+    {
+      "scope": "FD-U018 P301-380",
+      "judgment": "Lia joins singing P301-304 and barrier visibly grows; Aqua affect explanation P306 is explicitly vague (K P307), not full causal law. Coalition actual spells P310-311 and later sword/dust damage P323-325. New timing plan is locally disclosed P314-320; Lia objects to delay risk P317, K takes responsibility P319, all three actually assent P320, not unlimited prior consent or proven successful liability payment. Buffs P327-329, actual paired Steal P332: Chris gets last Lia photo P335-336; K gets gloves P345-346. Charlie explicitly warns twice P338/340 while Daniel only checks hammer P333-334/339 and ignores him P341. Actual self-shock P343-348 differs prior awareness of barehand cost. Conserved Megumin cast plus Wiz P350-354, K signal BEFORE impact P355, barrier encloses both trolls P356 and contains blast P357, crater P358. Do not invent exit, bodies, individual deaths or later rescue. Bounty narrative calls it defeat. Cielo voices hurt/worry over abandonment P366, Erika states particular three-person condition P368, Lia still questions qualification P370. Actual own apology and renewed membership request P375, actual acceptance/handshake P376-378. Friendship reunion distinct from earlier disobeyed exclusion."
+    },
+    {
+      "scope": "FD-U019 P1-77",
+      "judgment": "Actual final win and bounty/prize receipt P3-4, not merely promised qualifier outcome. Lia unilaterally promises all profit/prize donation P15-17, Erika backs it for attention P19-21, Cielo endorses noble-duty frame P22-24; K permission absent P27, so resource autonomy/care liability retained. Narration all donated P28 later qualified by secret retained money P37-38. Megumin/Darkness intervene P33-35 and K actually stops blaming P36. Providers request forgotten fees P60-66; Vanir delayed goods bill P66-68 and K agrees P69, no individual payment receipts proved. Guild worker/bar server P6/32 bounded roles not proved same person. Dust police call P42 reported, not direct police-person identity. Actual renewed trio singing P76; Aqua performs, Megumin externally restrained P73/76, not successful self-control."
+    },
+    {
+      "scope": "FD-U020 P1-17 nonfiction afterword",
+      "judgment": "Hirukuma names prior Dust authorship P4, game novelization P5, game Part One P7, omitted/expanded dialogue due single-volume constraints P8, game-original trio named Lia/Erika/Cielo P9. Natsume/Mishima/Sumzap credits P13-15. This is selective novelization provenance, not automatic full-game/main-novel transfer or new fictional scene. All nine principal BASE members now received completely (3645 slots), plus 17 afterword slots; no new whole-source ruby/residual/image-set/admission or independent credit."
+    },
+    {
+      "scope": "FD-U007/U008/U010/U022/U023,45 nonfiction BASE slots",
+      "judgment": "Electronic layout notices, design/illustration credits, TOC, print/electronic colophon and rights/base-edition notices actually received 706d26. Colophon names original Natsume, writer Hirukuma, 2022-03-01 print/electronic edition; Mishima credited U0086 and afterword. Bibliographic date is evidence of this fixed local edition, not current online claim. All15 positive-P members/3707 BASE slots now actually received: nine principal3645, six nonfiction62. Ten zero-P wrappers/residuals and 15 illustrations remain under original admitted register/gate; no fresh ruby, residual, illustration or whole-edition pass claimed. Private source quotations remain outside Git."
+    },
+    {
+      "scope": "Prefreeze precision: Cielo healing attribution; no added source slots",
+      "judgment": "Direct recheck d1e510 shows U012404/422 are apologies, not healing casts. Current full already-received BASE contexts440f98 show own offered rear-line healing163 and Megumin post-quest credit388-390. This supports stated/credited healing, without a separate observed cast/patient/dose inferred from apology or class. Prior notes ambiguous about direct healing are qualified; original raw/receipts remain exact. No new unique BASE, full-source, ruby, image, admission or independent credit."
+    }
+  ],
+  "derivative_receiving": [
+    {
+      "file": "COHORT30_FD_FULL_DERIVATIVE_RECEIVING_01.json",
+      "sha256": "562677891dafe863faac31b12e6f17ae321bffeaa015e5341c673c42fc66c419"
+    },
+    {
+      "file": "COHORT30_ADDITIONAL_DERIVATIVE_RECEIVING_01.json",
+      "sha256": "fedda5d1a204880935e93977561351545416db12f9a176ec9fdb51bac4f1b2b2"
+    }
+  ],
+  "lexical_retrieval": {
+    "query_sha256": "1854e9af4c5877cdaf49d3f794c6750fe9005bc29b984fb409a9a646b8387b2c",
+    "canonical_native_current_register_objects": 41,
+    "outside_FD_exact_queried_paragraphs": 81,
+    "disambiguation_receiving_sha256": "c290c6523b4c856857b668f6c8087b73fddcb3614f8b93e5242048d2c7fe0172",
+    "new_target_identity_joins": 0,
+    "exhaustive_absence": false
+  },
+  "scope": "Current source-known BASE recheck only; all15 positive-paragraph members complete, not a fresh whole-edition/ruby/residual/image-set pass. Original source admission controls ten zero-P resources and15 images. Private raw source is not published. Quoted Lia self-history, Wiz reports, narrator inference and nonfiction retain planes.",
+  "source_known": true,
+  "new_whole_source_ruby_residual_image_set_admission_or_independent_credit": 0,
+  "new_image_views": 0,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "full_program_complete": false,
+  "prefreeze_precision_correction_sha256": "c857ae029468891e4044b50ef3d6c567cd1c563c0cb3185d4c7809257ae3f987"
+}

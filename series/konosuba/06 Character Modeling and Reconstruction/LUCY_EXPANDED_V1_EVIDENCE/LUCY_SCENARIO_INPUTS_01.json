@@ -1,0 +1,101 @@
+{
+  "schema": "konosuba.character-reconstruction.scenario-inputs.v1",
+  "generation": "LUCY_EXPANDED_V1",
+  "recorded_utc": "2026-10-24T11:54:51.003907+00:00",
+  "foundation_seal_sha256": "55705fe4ad16e9beb25241bff8aa2651a036fb9d3e76d0ac4061eeb7d6f4b381",
+  "model_file": "LUCY_MODEL_DRAFT_01.md",
+  "model_sha256": "15476f38dd06f512350be9268f3f7e3d4eaff3990c7c576f35b6673359097e88",
+  "inventory_file": "LUCY_RULE_INVENTORY_DRAFT_02.json",
+  "inventory_sha256": "eeb9dddbeddf9ceee784eb0db5e93e606a02306d3bbc94c224a68915d0b29d73",
+  "case_order": [
+    "LY-H01-A",
+    "LY-H01-B",
+    "LY-H02-A",
+    "LY-H02-B"
+  ],
+  "cases": [
+    {
+      "case_id": "LY-H01-A",
+      "rule_id": "LY-R01",
+      "pair_id": "LY-H01",
+      "condition": "Accepted record shows no successor",
+      "exact_prompt": "This is a fictional modern transfer, not an event from an EPUB. All participants are adults. Lucy volunteers at a community archive founded by Regina, who supported Lucy through an earlier family crisis; that background is a new hypothetical fact. Lucy wants to finish her volunteer role, but believes the archive will lose public hosting at midnight unless a named trained contact takes responsibility. Nora, an adult coordinator whom Lucy has found dependable, directly reads the verified handover record. Lucy accepts the record as accurate. There is no insult, emergency, hidden promise or new personal cost. Only the stated handover coverage differs. Lucy can respond, ask a question, offer to wait, or leave; Nora has not yet responded to her.\n\nThe handover record says nobody has accepted the contact role tonight; no other coverage or independent solution is supplied.\n\nWrite only Lucy's next observable action and dialogue in English, in 80–140 words. The length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent action or private thoughts, complete a future threat, invent prior events, or explain/evaluate the model. Use only the supplied scene information and the applicable frozen character model.",
+      "pre_first_directional_expectation": "Look for the unresolved obligation to shape a request, reluctance or a bounded offer to remain; no particular sentence or permanent self-sacrifice is required.",
+      "pre_first_limitation": "Modern role, hosting rule and explicit belief cue supply much of the reasoning. Generic volunteer duty/loyalty are strong rivals; this is a weaker transfer than ghost release.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical human participants explicitly adults; Princess is mature adult; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    },
+    {
+      "case_id": "LY-H01-B",
+      "rule_id": "LY-R01",
+      "pair_id": "LY-H01",
+      "condition": "Accepted record shows effective successor",
+      "exact_prompt": "This is a fictional modern transfer, not an event from an EPUB. All participants are adults. Lucy volunteers at a community archive founded by Regina, who supported Lucy through an earlier family crisis; that background is a new hypothetical fact. Lucy wants to finish her volunteer role, but believes the archive will lose public hosting at midnight unless a named trained contact takes responsibility. Nora, an adult coordinator whom Lucy has found dependable, directly reads the verified handover record. Lucy accepts the record as accurate. There is no insult, emergency, hidden promise or new personal cost. Only the stated handover coverage differs. Lucy can respond, ask a question, offer to wait, or leave; Nora has not yet responded to her.\n\nThe handover record says June, a trained adult contact, has accepted responsibility starting now; the archive hosting will continue if Lucy leaves.\n\nWrite only Lucy's next observable action and dialogue in English, in 80–140 words. The length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent action or private thoughts, complete a future threat, invent prior events, or explain/evaluate the model. Use only the supplied scene information and the applicable frozen character model.",
+      "pre_first_directional_expectation": "Acknowledgment, gratitude or an intention to relinquish the role is compatible with loyalty once her stated concern is secure. She need not physically depart within the short response.",
+      "pre_first_limitation": "This tests an information/appraisal contrast, not actual verified future hosting or an independent motive estimate. Do not require a farewell formula or invent a completed handover.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical human participants explicitly adults; Princess is mature adult; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    },
+    {
+      "case_id": "LY-H02-A",
+      "rule_id": "LY-R02",
+      "pair_id": "LY-H02",
+      "condition": "Helper ends with courtesy",
+      "exact_prompt": "This is a new counterfactual source-world scene, not a continuation of Lucy's actual ending. Lucy is an adult ghost who has already accepted that Regina's worship will continue and is beginning to leave. Dana, an adult cleric, has just brought the accurate information that removed her concern. That helpful act is identical in both conditions. No one strikes, threatens or restrains Lucy. She has time for one response before leaving, and no new divine power or follower count is supplied. Dana now says the following words directly; their evaluative content is Dana's opinion, not omniscient fact.\n\nDana says: 'I am glad your goddess's work will continue. Thank you for staying so long; may you leave in peace.'\n\nWrite only Lucy's next observable action and dialogue in English, in 80–140 words. The length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent action or private thoughts, complete a future threat, invent prior events, or explain/evaluate the model. Use only the supplied scene information and the applicable frozen character model.",
+      "pre_first_directional_expectation": "Gratitude or reciprocal acknowledgment is expected without a gratuitous factional attack; the prior decision to leave remains.",
+      "pre_first_limitation": "Explicit courtesy is a powerful general cue. No unique-character or Japanese-voice result can follow.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical human participants explicitly adults; Princess is mature adult; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    },
+    {
+      "case_id": "LY-H02-B",
+      "rule_id": "LY-R02",
+      "pair_id": "LY-H02",
+      "condition": "Same helper adds factional contempt",
+      "exact_prompt": "This is a new counterfactual source-world scene, not a continuation of Lucy's actual ending. Lucy is an adult ghost who has already accepted that Regina's worship will continue and is beginning to leave. Dana, an adult cleric, has just brought the accurate information that removed her concern. That helpful act is identical in both conditions. No one strikes, threatens or restrains Lucy. She has time for one response before leaving, and no new divine power or follower count is supplied. Dana now says the following words directly; their evaluative content is Dana's opinion, not omniscient fact.\n\nDana says: 'Your little goddess survives on scraps while Eris has a whole country. Good riddance to you and that shabby faith.'\n\nWrite only Lucy's next observable action and dialogue in English, in 80–140 words. The length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent action or private thoughts, complete a future threat, invent prior events, or explain/evaluate the model. Use only the supplied scene information and the applicable frozen character model.",
+      "pre_first_directional_expectation": "A dignity/factional retort can coexist with recognition of the earlier help and with leaving. The model does not require physical aggression, hatred of all other faiths or a renewed haunting.",
+      "pre_first_limitation": "The overt insult strongly cues ordinary retaliation. The helper’s unchanged useful act creates mixed reciprocity; a proportional rebuke, acknowledgment plus rebuke or constrained silence must be assessed at the supplied state, not forced into one stock insult.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical human participants explicitly adults; Princess is mature adult; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    }
+  ],
+  "cases_count": 4,
+  "paired_contrasts": 2,
+  "source_known": true,
+  "same_informed_root_authors_inputs_firsts_and_assessments": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "first_responses_not_yet_serialized": true,
+  "first_response_procedure": "After actual complete exact-input review and a separate freeze, author each first body once in the continuing root; preserve with exclusive creation and receipt before any output annotations. No templated first responses, feedback repair or regeneration.",
+  "final_nine_category_battery_complete": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}

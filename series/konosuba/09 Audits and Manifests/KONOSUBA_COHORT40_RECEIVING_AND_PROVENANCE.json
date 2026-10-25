@@ -1,0 +1,1710 @@
+{
+  "schema": "konosuba.cohort40.receiving-and-provenance.v1",
+  "received_utc": "2026-10-24T21:08:27.831290+00:00",
+  "source_baseline": "bebd59912de46d82a02777050ccb175f5e075029",
+  "source_tree": "37d0213161e1a0cffcd278b8af19f3f80babff85",
+  "main_at_receiving": "b44b96da54f0782ec7b006672a0a528b11057234",
+  "previous_published_source": "bebd59912de46d82a02777050ccb175f5e075029",
+  "live_author_authority": {
+    "file": "COHORT40_LIVE_AUTHOR_AUTHORITY_VERIFIED_01.json",
+    "bytes": 1058,
+    "sha256": "f3185a347c5710c043ff54b1ea15e77e7e8076aaca761ad581fe7e419539eab6"
+  },
+  "scope": {
+    "schema": "konosuba.cohort40.scope-assessment-draft.v2",
+    "status": "PROPOSED_FOUNDATIONS_REQUIRE_ACTUAL_REVIEW_AND_FREEZE",
+    "native_provenance_file": "COHORT40_NATIVE_PROVENANCE_DRAFT_03.json",
+    "native_provenance_sha256": "e2bb659b22a5a87f96b309a12ed1ab94ce8375d45d56e3ed6b15b2456f2b694a",
+    "entering_private_census": "SECONDARY_CHARACTER_CENSUS_AND_GAP_AUDIT_WORKING_116.json",
+    "entering_private_census_sha256": "64029a4b91c1e85891c0a384d03cce1f29930c7850358fa2d471f4c5382297f4",
+    "subjects": [
+      {
+        "row": 81,
+        "subject": "Doreck / ドレック",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "DOR-R01",
+          "DOR-R02"
+        ],
+        "justification": "His own acknowledged willing proxy contract, preference for marriage over a health wish, mixed jealousy reward, later intervention for Gaibil and revised own-development request provide differentiated motives, conflicts and a change of means. These earn an individual twelve-dimension monograph and two bounded falsifiable propositions rather than an illness, jealousy or victimhood label.",
+        "limits_and_rivals": "Own childhood history is reported; public groom competence belongs to Gaibil performance. Possessiveness, humiliation reward, dependence, friendship and gratitude remain competing explanations. No diagnosis, completed cure, wedding, office, recipient assent, refund, new price or calibrated transfer accuracy.",
+        "scope_qualification": "Bind initial proxy phase versus post-failure private-epilogue phase. Neither mutual male agreement nor Doreck no-killing term establishes Rionor consent or absence of harm."
+      },
+      {
+        "row": 82,
+        "subject": "Gaibil / ガイビル",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "GAI-R01",
+          "GAI-R02"
+        ],
+        "justification": "Public impersonation, own register, envy selection, revised performance after exposure, health reminders, conditional confinement, hostage leverage, death-accepting final act and renewed contract distinguish adaptive reward seeking and particular client care/professional pride. Two provisional propositions can generate defeasible choices with explicit competing constraints.",
+        "limits_and_rivals": "Instrumental preservation of an envy producer, broader care, professional identity and self-dramatization remain. Public brainwashing claim conflicts with private willing contract; all-as-planned claim is not omniscience. No-human-harm is Doreck defense and Gaibil rhetoric, qualified by actual coercion, destruction and dangerous attacks.",
+        "scope_qualification": "Binding contract and actor information must be specified. Particular patient care does not imply universal restraint; theatrical mass-kill language and actual danger cannot be erased by later lenience."
+      },
+      {
+        "row": 83,
+        "subject": "King of Bridol / ブライドル王国の国王",
+        "proposed_scoped_tier": 2,
+        "proposed_rules": [],
+        "justification": "Private apology, acknowledged ended service relation, paperwork and hospitality, actual child-exchange offer, family/political arrangements, public reaction and reported lenience support a substantial asymmetric monograph. Contradictory and attributed evidence is materially richer than a benevolent or weary-father label.",
+        "limits_and_rivals": "Reported royal judgments and motives dominate beyond the private meeting. Family indulgence, administrative burden, political necessity, gratitude and pragmatic mercy are not sufficiently differentiated into a stable generative mechanism. This is an evidence decision, not a title, anonymity, event-count or length ceiling.",
+        "scope_qualification": "The king proposes exchanging Feit; Dust refuses. Keep source-bound Bridol identity separate from Belzerg royals. Rionor cooling-off travel is not a demonstrated permanent ban equivalent to Dust recalled sentence."
+      },
+      {
+        "row": 84,
+        "subject": "Rionor head butler / 執事長",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "BHB-R01"
+        ],
+        "justification": "Dust05 actual rope interception and national-stake concern, Dust06 knowing substitute retention and conditional restoration, and continuation explicit workload relief, rank wordplay, false gag interpretation, forced handling and useful teaching/coordination support one narrow burden-reassignment hypothesis. Repeated settings and contrary institutional concern earn a model without reducing every act to self-interest.",
+        "limits_and_rivals": "Institutional duty, weary caregiver behavior, retaliatory humor, fondness and personal convenience remain rival or joint causes. No pure burden arithmetic, global deference rule, omniscient plan, uniform staff mind, completed retirement or ethical license. National-asset allusion is oblique in the received Dust05 epilogue.",
+        "scope_qualification": "Accept positive source-bound Dust05–06–continuation recurrence. Keep Hagen, Heidel and other household butlers unjoined. Three weapon-bearing maids remain differentiated, with former-thief-to-weapon mapping unresolved."
+      }
+    ],
+    "neighboring_roles": [
+      {
+        "row": 357,
+        "subject": "Whip-bearing Rionor maid",
+        "proposed_scoped_tier": 1,
+        "source": "DUST-CONT U011 P310-341; U012 P215-289,436-490",
+        "reason": "Specific binding, reporting, paired instruction and mission role are observable. Do not assign every untagged staff utterance or identify her as the Dust06 former thief."
+      },
+      {
+        "row": 358,
+        "subject": "Dedicated former-thief maid (Dust06)",
+        "proposed_scoped_tier": 1,
+        "source": "DUST06 U013 P298-340",
+        "reason": "Dust recognizes prior role/history; she owns the embellished elopement account and wants the easier substitute to remain. Possible overlap with one weapon-bearing maid is explicit; no fourth certified person."
+      },
+      {
+        "row": 359,
+        "subject": "Punching/glove-bearing Rionor maid",
+        "proposed_scoped_tier": 0,
+        "source": "DUST06 U013 P516-523; DUST-CONT U011 P69-88",
+        "reason": "Distinct armed role, but turn-to-person mapping and wider individual choices remain unresolved."
+      },
+      {
+        "row": 360,
+        "subject": "Cleaver-bearing Rionor maid",
+        "proposed_scoped_tier": 0,
+        "source": "DUST06 U013 P516-523; DUST-CONT U011 P69-88",
+        "reason": "Distinct armed role; adjacency does not certify ownership of a particular threat or give a full personality."
+      },
+      {
+        "row": 361,
+        "subject": "Dust former self-described rival / dragon knight",
+        "proposed_scoped_tier": 1,
+        "source": "DUST06 U013 P499-503,548-589; DUST-CONT U012 P158-159",
+        "reason": "Wants real duel, intervenes for junior and warns him. Mission and rivalry coexist. Specific speech mapping uses explicit narrator identification at P575."
+      },
+      {
+        "row": 362,
+        "subject": "Dust admiring junior / dragon knight",
+        "proposed_scoped_tier": 1,
+        "source": "DUST06 U013 P499-503,548-589; DUST-CONT U012 P158-159",
+        "reason": "Addresses Line as senior,defends then loses balance,thanks rival and reaffirms admiration. Court-service/pay-loss statement is pair-level;its politeP552turn specifically asjunior is a register inference,not explicit narrator tag. Assisted defeat does not prove universal incompetence."
+      },
+      {
+        "row": 363,
+        "subject": "Older carriage driver and guard-client (Dust continuation)",
+        "proposed_scoped_tier": 1,
+        "source": "DUST-CONT U010 P382-410,494-498",
+        "reason": "Own health counsel, waiting for passenger and specific cargo objection supply bounded everyday choices. Name mishearings concern Taylor; no new Tyler/Boiler identities or dementia diagnosis."
+      },
+      {
+        "row": 364,
+        "subject": "Bridol bookseller (Dust continuation)",
+        "proposed_scoped_tier": 1,
+        "source": "DUST-CONT U011 P473-496",
+        "reason": "Shows hero books, explains claimed licensing and serves a child-directed purchase. Legal claims remain seller account; other booksellers unjoined."
+      },
+      {
+        "row": 365,
+        "subject": "Food-fetching guarded-room sentry (Dust continuation)",
+        "proposed_scoped_tier": 1,
+        "source": "DUST-CONT U013 P79-118",
+        "reason": "Complains about dietary work while actually preparing food and taking a snack. Do not assign all later two-guard dialogue to this man or certify motives of all household staff."
+      },
+      {
+        "row": 366,
+        "subject": "Other guarded-room / dungeon guard roles (unresolved pair)",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U013 P173-192,298-305,355-405,455-531",
+        "reason": "Pair continuity is explicit; exact later turn mapping is not. Includes possible overlap with food-fetcher365 and is not an extra certified two-person total."
+      },
+      {
+        "row": 367,
+        "subject": "Doreck reported father / former chancellor",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U011 P291-296; U013 P234-264",
+        "reason": "King reports death six months earlier; Dust recalls manner; Doreck recounts accompanying father. No current witnessed death or current office."
+      },
+      {
+        "row": 368,
+        "subject": "Reported current Bridol chancellor",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U011 P296",
+        "reason": "King says someone else now holds office; intended future Doreck appointment is not completed present office or proof this replacement is the father."
+      },
+      {
+        "row": 369,
+        "subject": "Reported missing female marriage investigator",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U012 P95-99",
+        "reason": "Keith report and Dust arrest conjecture do not establish present fate, culprit or death."
+      },
+      {
+        "row": 370,
+        "subject": "Older resident Doreck physician",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U013 P510-525",
+        "reason": "Actual prompt arrival and examination directive; hostage plan is not executed. Childhood physician identity unjoined."
+      },
+      {
+        "row": 371,
+        "subject": "Reported childhood medical/priest care roles",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U013 P234-255",
+        "reason": "Doreck recounts professional care and physician recommendation to call parents; no certified number or separation from resident physician370."
+      },
+      {
+        "row": 372,
+        "subject": "Doreck parents in recalled medical summons",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U013 P251",
+        "reason": "Reported parent relation; overlaps father367 and supplies no separate named mother, current contact or observed consent."
+      },
+      {
+        "row": 373,
+        "subject": "Doreck mansion gatekeepers (unresolved group)",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U012 P488-500; U013 P5-18",
+        "reason": "Day alarm and night complaints; no actor-by-actor join to Dust06 Axel guard343 or guarded-room pair."
+      },
+      {
+        "row": 374,
+        "subject": "Self-described Line fan-club member number 3",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U014 P369",
+        "reason": "Own recognition claim identifies an occurrence, not verified membership register, formal identity or universal accuracy."
+      },
+      {
+        "row": 375,
+        "subject": "Wedding noble audience and jealous/admiring voices",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U014 P230-268,299-302,363-380,391-459,513-552",
+        "reason": "Unresolved voice group may include member374. Reactions and false-brainwashing uptake are not independently verified consensus or a composite personality."
+      },
+      {
+        "row": 376,
+        "subject": "Court magician associated with Leen borrowed-or-stolen staff",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U014 P440",
+        "reason": "Provider/ownership role only; Dust cannot tell whether Keith borrowed or took it. No consent or gratitude invented."
+      },
+      {
+        "row": 377,
+        "subject": "Royal wedding guard roles (unresolved group)",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U014 P197,255-256,302-318",
+        "reason": "Deployment, king-ordered capture and retreat are actual; no total headcount, all motives or join to mansion groups."
+      },
+      {
+        "row": 378,
+        "subject": "Axis wedding-cart / disruption contingent",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U013 P8-18; U014 P216-221,460,490-491",
+        "reason": "Guards and Keith reports plus actual cart/holy-water remains; purpose and membership partly inferred. Cecily remains separately named."
+      },
+      {
+        "row": 379,
+        "subject": "Dust reported parents / family after loss of nobility",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U010 P521-524",
+        "reason": "Dust says no contact and hopes they manage; no known whereabouts, new noble status or identity with helmeted noble parents356."
+      },
+      {
+        "row": 380,
+        "subject": "Earlier foreign princely intended groom (Dust continuation account)",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U011 P283-289",
+        "reason": "Prior foreign match differs from current domestic Doreck. No automatic Levi/Jatice/other-prince join."
+      },
+      {
+        "row": 381,
+        "subject": "Two retinue dragons accompanying rival and junior (unresolved individuals)",
+        "proposed_scoped_tier": 0,
+        "source": "DUST06 U013 P501-503,550-587",
+        "reason": "Fly and carefully carry unconscious riders down. Personal mapping and wider individual evidence are missing; tier is not an animal ceiling or proof of identical minds."
+      },
+      {
+        "row": 382,
+        "subject": "Other Doreck household staff in information/distraction accounts",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U012 P470-510; U013 P23,57,64,97",
+        "reason": "Reported/observed staff roles overlap gate/guard/professional records; no certified population, unanimous opinions or added independently named people."
+      }
+    ],
+    "name_and_role_findings": [
+      {
+        "classification": "UNNECESSARY_GENERICIZATION",
+        "finding": "Once identity is known to the relevant narrator, use Doreck and Gaibil rather than replacing both with contractor/devil labels that hide their separate choices. The existing explicit native names are preserved."
+      },
+      {
+        "classification": "KNOWLEDGE_BOUNDARY_REQUIRED",
+        "finding": "Before the disclosure, apparent groom/Doreck is the narrator's available label. Later write Gaibil impersonating Doreck; public brainwashing account stays public rather than becoming private truth."
+      },
+      {
+        "classification": "SOURCE_REQUIRED_ANONYMITY",
+        "finding": "Current source provides no personal name for the Bridol king, head butler, three maids or bounded service/guard actors. Romanized role labels do not create names."
+      },
+      {
+        "classification": "JUSTIFIED_ROLE_REFERENCE",
+        "finding": "Country-qualified king, Rionor head butler, whip maid, former rival and junior preserve actual roles. No source-based personal name is suppressed by these labels."
+      },
+      {
+        "classification": "AMBIGUOUS_REFERENT",
+        "finding": "Former-thief dedicated maid cannot yet be mapped to one of three weapon roles; adjacent threats and later guard voices are not all speaker-tagged. Allusive Dust05 national asset is not identified by noun alone."
+      },
+      {
+        "classification": "INCORRECT_IDENTITY_OR_ATTRIBUTION",
+        "finding": "Do not make the king the refuser of the child-exchange offer, merge real Doreck with Gaibil public behavior, identify wedding Leen as real Rionor after disclosure, add Tyler/Boiler as people, or assign Cecily's disguise to a new identified Eris officiant."
+      },
+      {
+        "classification": "INCORRECT_IDENTITY_OR_ATTRIBUTION",
+        "finding": "MAIN07p-007P62 selfnames Dustiness butler Hagen. Retain as a scheduled row114 Hagen cross-source followup, not evidence that Bridol butler84 is Hagen, Heidel150 or Alderp messenger248."
+      }
+    ],
+    "candidate_totals_if_received": {
+      "new_individual_monographs": 4,
+      "new_provisional_models": 3,
+      "new_rules": 5,
+      "new_compact_profiles": 7,
+      "new_sparse_role_records": 19,
+      "new_census_records": 26,
+      "candidate_census_records": 383,
+      "candidate_models": 62,
+      "candidate_scoped_secondary_model_subjects": 56,
+      "candidate_monograph_only_subjects": 29,
+      "candidate_compact_profiles": 100
+    },
+    "count_qualification": "383 candidate records include unresolved roles, aggregates and overlapping identity routes; never a unique-person population. No quota, appearance minimum, word minimum, gender/animal/anonymity ceiling or group model padding.",
+    "no_stage_shortcut": "This draft does not freeze models or serialize inputs/firsts. Twelve-dimension monographs and matching model/rule artifacts require actual semantic review before freeze. All exact inputs follow that freeze, all genuine original first bodies follow exact-input receiving, and all feedback follows first sealing.",
+    "source_known": true,
+    "same_informed_root": true,
+    "independent_observation_count": null,
+    "independent_trial_count": 0,
+    "capability_grade": null,
+    "confidence_gain": null,
+    "canonical_changes": false,
+    "full_program_complete": false,
+    "prior_scope_assessment": {
+      "file": "COHORT40_SCOPE_ASSESSMENT_DRAFT_01.json",
+      "bytes": 15903,
+      "sha256": "c9b3ae030ebe95ae00f6a6afc42a77b91273e52f7ade9431090000376f09403a"
+    }
+  },
+  "scope_qualification": "The proposed source-bound dispositions in the preserved foundation draft are accepted for author adoption after actual foundation/final semantic review. Its draft-stage labels remain authorship history;they do not imply a final population or mature capability grade.",
+  "candidate_totals": {
+    "models": 62,
+    "scoped_secondary_models": 56,
+    "compact_profiles": 100,
+    "monograph_only": 29,
+    "nonfinal_records": 383,
+    "new_models": 3,
+    "new_monographs": 4,
+    "new_rules": 5,
+    "new_compact_profiles": 7,
+    "new_records": 26,
+    "new_Tier1_records": 7,
+    "new_Tier0_records": 19,
+    "new_input_cases": 12,
+    "new_first_bodies": 12,
+    "new_dependent_pairs": 6
+  },
+  "reviewed_artifact_pins": [
+    {
+      "private_file": "DORECK_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DORECK_CHARACTER_MONOGRAPH.md",
+      "bytes": 13611,
+      "sha256": "efc3a4314d2407ba553a58cf3b73bcc850aa30e2aadfdb2e0fc9cf752a1da088"
+    },
+    {
+      "private_file": "GAIBIL_MONOGRAPH_DRAFT_02.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_GAIBIL_CHARACTER_MONOGRAPH.md",
+      "bytes": 14205,
+      "sha256": "96a5382dc728e0b11b24b97df153c448b367d87e62fa362b30593bfa4f85f9fa"
+    },
+    {
+      "private_file": "BRIDOL_KING_MONOGRAPH_DRAFT_02.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_BRIDOL_KING_CHARACTER_MONOGRAPH.md",
+      "bytes": 12028,
+      "sha256": "724b77aa6b24c39df636df10427ef6b72522e855a84d755f669a5fe17a3f170c"
+    },
+    {
+      "private_file": "BRIDOL_HEAD_BUTLER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_BRIDOL_HEAD_BUTLER_CHARACTER_MONOGRAPH.md",
+      "bytes": 13583,
+      "sha256": "0ef31c6390747247d764cb5f3b76ac2f9c6d736600687796db7157fb0595fe74"
+    },
+    {
+      "private_file": "COHORT40_EVIDENCE_INDEX_DRAFT_02.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md",
+      "bytes": 21405,
+      "sha256": "568286cc951117b325c1f2d00ac143868d036c784f3ecb96397f63ca2d8352dc"
+    },
+    {
+      "private_file": "COHORT40_NATIVE_PROVENANCE_DRAFT_05.json",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_NATIVE_PROVENANCE.json",
+      "bytes": 14764,
+      "sha256": "fb586a9a22df9b650a1924654ecfe547171e7afbb2d921ef9963d0dfc1185503"
+    },
+    {
+      "private_file": "DORECK_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DORECK_RECONSTRUCTION_MODEL.md",
+      "bytes": 8539,
+      "sha256": "86c9139a26a886ef3cfb34cf9fabc2008acf67a9e870961521d017d43adf4160"
+    },
+    {
+      "private_file": "DORECK_RULE_INVENTORY_DRAFT_02.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_DORECK_RULE_INVENTORY_V1.json",
+      "bytes": 7506,
+      "sha256": "a95dd6986b70a446e0aef84828ba8d12b762e827e56df21a1ab1107ecfa9ea38"
+    },
+    {
+      "private_file": "GAIBIL_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_GAIBIL_RECONSTRUCTION_MODEL.md",
+      "bytes": 8847,
+      "sha256": "d8bc8665c2966dc200a0fce9c5bf7511fc4de269ab19366a9e45b57b8732777e"
+    },
+    {
+      "private_file": "GAIBIL_RULE_INVENTORY_DRAFT_03.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_GAIBIL_RULE_INVENTORY_V1.json",
+      "bytes": 7915,
+      "sha256": "4ed5d12725ae8fd955a54d42033f992d83bc8969beb382790788f5c4abe0ed1e"
+    },
+    {
+      "private_file": "BRIDOL_HEAD_BUTLER_MODEL_DRAFT_02.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_BRIDOL_HEAD_BUTLER_RECONSTRUCTION_MODEL.md",
+      "bytes": 6454,
+      "sha256": "a4af7c5d53ba8223e0d7ed832df66dc3fb929ccb58082182dd7f5788ec0f90c2"
+    },
+    {
+      "private_file": "BRIDOL_HEAD_BUTLER_RULE_INVENTORY_DRAFT_03.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_BRIDOL_HEAD_BUTLER_RULE_INVENTORY_V1.json",
+      "bytes": 5391,
+      "sha256": "41122b03e0815bdb0f5970e36368591223b9f9e280ec6e19b1f8e3fcf13d6cda"
+    },
+    {
+      "private_file": "DORECK_FIRST_OUTPUT_ANNOTATIONS_DRAFT_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_DORECK_FIRST_OUTPUT_ANNOTATIONS_V1.json",
+      "bytes": 8335,
+      "sha256": "b916a486b1196031017a958e222f6327a75e035dab656df170ecab16f48a8565"
+    },
+    {
+      "private_file": "DORECK_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_DORECK_DIAGNOSTIC_ASSESSMENT_V1.md",
+      "bytes": 2043,
+      "sha256": "0f41e9e6b8e7fae8be49416a53e4917ef6ac35562437411bbd08e3c44dae01c9"
+    },
+    {
+      "private_file": "DORECK_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_DORECK_SCENARIO_INPUTS_V1.json",
+      "bytes": 18722,
+      "sha256": "b269ab484fff4ca77ad109ef5d05625fcdf17e471d001dfe21d77650a2564264"
+    },
+    {
+      "private_file": "DORECK_ORIGINAL_FIRSTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_DORECK_ORIGINAL_FIRSTS_V1.json",
+      "bytes": 5853,
+      "sha256": "3df990e443c59045c401e65d99ceb4bb73aa9577446cf0739b1eeded257f2124"
+    },
+    {
+      "private_file": "GAIBIL_FIRST_OUTPUT_ANNOTATIONS_DRAFT_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_GAIBIL_FIRST_OUTPUT_ANNOTATIONS_V1.json",
+      "bytes": 9366,
+      "sha256": "26e3c2d4ac4f5e0a4fba2a5b76ed0ce7871ab97e8627c413806d60077b18cf49"
+    },
+    {
+      "private_file": "GAIBIL_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_GAIBIL_DIAGNOSTIC_ASSESSMENT_V1.md",
+      "bytes": 2403,
+      "sha256": "0751833a936989acb1647235d1f5327eb76d7de8338ac18f4b9f17a7a365cc74"
+    },
+    {
+      "private_file": "GAIBIL_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_GAIBIL_SCENARIO_INPUTS_V1.json",
+      "bytes": 18507,
+      "sha256": "a9e615c8e0f911a052e338394761bbc134c98f64ff3c283439d78540f2e16f0d"
+    },
+    {
+      "private_file": "GAIBIL_ORIGINAL_FIRSTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_GAIBIL_ORIGINAL_FIRSTS_V1.json",
+      "bytes": 5922,
+      "sha256": "16a1bc579a40f1be3f4320f0fe8e79bbe419e8fc3b13fe8e1817c7fbb19ce400"
+    },
+    {
+      "private_file": "BRIDOL_HEAD_BUTLER_FIRST_OUTPUT_ANNOTATIONS_DRAFT_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_BRIDOL_HEAD_BUTLER_FIRST_OUTPUT_ANNOTATIONS_V1.json",
+      "bytes": 8251,
+      "sha256": "b00b611b29922926e826d955d460a0656b6b6989e106a85dc4af466891ce5d2c"
+    },
+    {
+      "private_file": "BRIDOL_HEAD_BUTLER_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_BRIDOL_HEAD_BUTLER_DIAGNOSTIC_ASSESSMENT_V1.md",
+      "bytes": 2155,
+      "sha256": "48b026746108d173902bb11b9ce7d3f1bf949eee17ca24f11359997326db2a11"
+    },
+    {
+      "private_file": "BRIDOL_HEAD_BUTLER_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_BRIDOL_HEAD_BUTLER_SCENARIO_INPUTS_V1.json",
+      "bytes": 17687,
+      "sha256": "d3c9f5155f82428d4c8d204ca29f2e3c02f69f4c3be8b95d7f188ea5ee7cdedb"
+    },
+    {
+      "private_file": "BRIDOL_HEAD_BUTLER_ORIGINAL_FIRSTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/evidence/KONOSUBA_BRIDOL_HEAD_BUTLER_ORIGINAL_FIRSTS_V1.json",
+      "bytes": 5954,
+      "sha256": "409ef1b9a8b1fcf52288321866a8ae77fabcdc433bfc8340501534f4ca3ff8b1"
+    }
+  ],
+  "all_frozen_private_artifact_pins": [
+    {
+      "file": "BRIDOL_HEAD_BUTLER_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+      "bytes": 2155,
+      "sha256": "48b026746108d173902bb11b9ce7d3f1bf949eee17ca24f11359997326db2a11"
+    },
+    {
+      "file": "BRIDOL_HEAD_BUTLER_FIRST_OUTPUT_ANNOTATIONS_DRAFT_01.json",
+      "bytes": 8251,
+      "sha256": "b00b611b29922926e826d955d460a0656b6b6989e106a85dc4af466891ce5d2c"
+    },
+    {
+      "file": "BRIDOL_HEAD_BUTLER_MODEL_DRAFT_02.md",
+      "bytes": 6454,
+      "sha256": "a4af7c5d53ba8223e0d7ed832df66dc3fb929ccb58082182dd7f5788ec0f90c2"
+    },
+    {
+      "file": "BRIDOL_HEAD_BUTLER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 13583,
+      "sha256": "0ef31c6390747247d764cb5f3b76ac2f9c6d736600687796db7157fb0595fe74"
+    },
+    {
+      "file": "BRIDOL_HEAD_BUTLER_ORIGINAL_FIRSTS_01.json",
+      "bytes": 5954,
+      "sha256": "409ef1b9a8b1fcf52288321866a8ae77fabcdc433bfc8340501534f4ca3ff8b1"
+    },
+    {
+      "file": "BRIDOL_HEAD_BUTLER_RULE_INVENTORY_DRAFT_03.json",
+      "bytes": 5391,
+      "sha256": "41122b03e0815bdb0f5970e36368591223b9f9e280ec6e19b1f8e3fcf13d6cda"
+    },
+    {
+      "file": "BRIDOL_HEAD_BUTLER_SCENARIO_INPUTS_01.json",
+      "bytes": 17687,
+      "sha256": "d3c9f5155f82428d4c8d204ca29f2e3c02f69f4c3be8b95d7f188ea5ee7cdedb"
+    },
+    {
+      "file": "BRIDOL_KING_MONOGRAPH_DRAFT_02.md",
+      "bytes": 12028,
+      "sha256": "724b77aa6b24c39df636df10427ef6b72522e855a84d755f669a5fe17a3f170c"
+    },
+    {
+      "file": "COHORT40_COMPACT_PROFILES_DRAFT_01.md",
+      "bytes": 7949,
+      "sha256": "79b8d7d81e1ca3f7d933f2ac39b1a9d2ac69ae1861cf01453e6dda57fdb5883f"
+    },
+    {
+      "file": "COHORT40_CURRENT_PRECISION_QUALIFICATIONS_01.json",
+      "bytes": 2339,
+      "sha256": "8986e3b0718959ea9724ac0d3593796c317fb5b88a4c0f908bad42111ba91ea6"
+    },
+    {
+      "file": "COHORT40_EVIDENCE_INDEX_DRAFT_01.md",
+      "bytes": 17101,
+      "sha256": "8cd485953b92a57e924847988c70c69383d0c532badd62d334a149d3e950f9e8"
+    },
+    {
+      "file": "COHORT40_EVIDENCE_INDEX_DRAFT_02.md",
+      "bytes": 21405,
+      "sha256": "568286cc951117b325c1f2d00ac143868d036c784f3ecb96397f63ca2d8352dc"
+    },
+    {
+      "file": "COHORT40_NAME_REFERENCE_CHECK_DRAFT_01.json",
+      "bytes": 3376,
+      "sha256": "dc20bc6d65482467527fd8956ccc477550398e49ff143b47a8146261706303e5"
+    },
+    {
+      "file": "COHORT40_NATIVE_PROVENANCE_DRAFT_04.json",
+      "bytes": 10809,
+      "sha256": "b225987270a40008357a53e0e5b4b9f301ba021cccb0b0deaff525a137d90d84"
+    },
+    {
+      "file": "COHORT40_NATIVE_PROVENANCE_DRAFT_05.json",
+      "bytes": 14764,
+      "sha256": "fb586a9a22df9b650a1924654ecfe547171e7afbb2d921ef9963d0dfc1185503"
+    },
+    {
+      "file": "COHORT40_NEW_DISCOVERY_RECORDS_DRAFT_01.json",
+      "bytes": 36744,
+      "sha256": "7eddcba022dbbd60e7846f274de88436cc244a08f3f68d7e72d7ff306297b258"
+    },
+    {
+      "file": "COHORT40_SCOPE_ASSESSMENT_DRAFT_02.json",
+      "bytes": 17663,
+      "sha256": "921b0b6521cde33935452422a5607be9446e19af6db408432b0bb3275e8463a1"
+    },
+    {
+      "file": "DORECK_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+      "bytes": 2043,
+      "sha256": "0f41e9e6b8e7fae8be49416a53e4917ef6ac35562437411bbd08e3c44dae01c9"
+    },
+    {
+      "file": "DORECK_FIRST_OUTPUT_ANNOTATIONS_DRAFT_01.json",
+      "bytes": 8335,
+      "sha256": "b916a486b1196031017a958e222f6327a75e035dab656df170ecab16f48a8565"
+    },
+    {
+      "file": "DORECK_MODEL_DRAFT_01.md",
+      "bytes": 8539,
+      "sha256": "86c9139a26a886ef3cfb34cf9fabc2008acf67a9e870961521d017d43adf4160"
+    },
+    {
+      "file": "DORECK_MONOGRAPH_DRAFT_01.md",
+      "bytes": 13611,
+      "sha256": "efc3a4314d2407ba553a58cf3b73bcc850aa30e2aadfdb2e0fc9cf752a1da088"
+    },
+    {
+      "file": "DORECK_ORIGINAL_FIRSTS_01.json",
+      "bytes": 5853,
+      "sha256": "3df990e443c59045c401e65d99ceb4bb73aa9577446cf0739b1eeded257f2124"
+    },
+    {
+      "file": "DORECK_RULE_INVENTORY_DRAFT_02.json",
+      "bytes": 7506,
+      "sha256": "a95dd6986b70a446e0aef84828ba8d12b762e827e56df21a1ab1107ecfa9ea38"
+    },
+    {
+      "file": "DORECK_SCENARIO_INPUTS_01.json",
+      "bytes": 18722,
+      "sha256": "b269ab484fff4ca77ad109ef5d05625fcdf17e471d001dfe21d77650a2564264"
+    },
+    {
+      "file": "GAIBIL_DIAGNOSTIC_ASSESSMENT_DRAFT_01.md",
+      "bytes": 2403,
+      "sha256": "0751833a936989acb1647235d1f5327eb76d7de8338ac18f4b9f17a7a365cc74"
+    },
+    {
+      "file": "GAIBIL_FIRST_OUTPUT_ANNOTATIONS_DRAFT_01.json",
+      "bytes": 9366,
+      "sha256": "26e3c2d4ac4f5e0a4fba2a5b76ed0ce7871ab97e8627c413806d60077b18cf49"
+    },
+    {
+      "file": "GAIBIL_MODEL_DRAFT_01.md",
+      "bytes": 8847,
+      "sha256": "d8bc8665c2966dc200a0fce9c5bf7511fc4de269ab19366a9e45b57b8732777e"
+    },
+    {
+      "file": "GAIBIL_MONOGRAPH_DRAFT_02.md",
+      "bytes": 14205,
+      "sha256": "96a5382dc728e0b11b24b97df153c448b367d87e62fa362b30593bfa4f85f9fa"
+    },
+    {
+      "file": "GAIBIL_ORIGINAL_FIRSTS_01.json",
+      "bytes": 5922,
+      "sha256": "16a1bc579a40f1be3f4320f0fe8e79bbe419e8fc3b13fe8e1817c7fbb19ce400"
+    },
+    {
+      "file": "GAIBIL_RULE_INVENTORY_DRAFT_03.json",
+      "bytes": 7915,
+      "sha256": "4ed5d12725ae8fd955a54d42033f992d83bc8969beb382790788f5c4abe0ed1e"
+    },
+    {
+      "file": "GAIBIL_SCENARIO_INPUTS_01.json",
+      "bytes": 18507,
+      "sha256": "a9e615c8e0f911a052e338394761bbc134c98f64ff3c283439d78540f2e16f0d"
+    }
+  ],
+  "supporting_freeze_records": [
+    {
+      "file": "BRIDOL_HEAD_BUTLER_MODEL_DRAFT_01.md",
+      "bytes": 6408,
+      "sha256": "db92e92947120942b727d9a938c5a01c6f5fcc0065babb96c3a8b066debe1d96"
+    },
+    {
+      "file": "BRIDOL_HEAD_BUTLER_RULE_INVENTORY_DRAFT_01.json",
+      "bytes": 4606,
+      "sha256": "da1e460cafb524042c2a6c3d15450640f19f0cf7fb43686b9fb9221cc4a5a21c"
+    },
+    {
+      "file": "BRIDOL_HEAD_BUTLER_RULE_INVENTORY_DRAFT_02.json",
+      "bytes": 5176,
+      "sha256": "63fe5ddd06bbbe97c40f194b66668bcdd0484e6a1ea20f9657c3d53b7433111b"
+    },
+    {
+      "file": "BRIDOL_KING_MONOGRAPH_DRAFT_01.md",
+      "bytes": 12027,
+      "sha256": "6cceda173511f89ced50cb3ee3a4a148d0253385d26d08f27b666e5b29e32d9d"
+    },
+    {
+      "file": "COHORT40_ADAPTIVE_NATIVE_CONTEXT_PLAN_01.json",
+      "bytes": 52967,
+      "sha256": "f78caee1d4527fa324a8b5c5c42921b62d7e613b049d8e1446e20169b17e5c95"
+    },
+    {
+      "file": "COHORT40_ADAPTIVE_NATIVE_CONTEXT_RECEIVING_01.json",
+      "bytes": 53621,
+      "sha256": "a69a88828275c0ff600d66581fa4d3c5f62eadcc058211eecdcbb1a6254c58d4"
+    },
+    {
+      "file": "COHORT40_ADAPTIVE_PREPARATION_DIAGNOSTIC_01.json",
+      "bytes": 630,
+      "sha256": "846e3c96ea81126115e7d01d0ae31b6e1671c0e06db038417feb1205ff72b5fa"
+    },
+    {
+      "file": "COHORT40_ADDITIONAL_ROLE_NATIVE_PLAN_01.json",
+      "bytes": 13742,
+      "sha256": "5458816a8f6e6f4a966bd298ffbba6fd640d13977f20b3f688da92002e4dd18e"
+    },
+    {
+      "file": "COHORT40_ADDITIONAL_ROLE_NATIVE_RECEIVING_01.json",
+      "bytes": 13881,
+      "sha256": "2fbc246fc6d7e26777ed8c7aec13870058f089bd9a87d4cacb3a51596920df6b"
+    },
+    {
+      "file": "COHORT40_ALL357_CENSUS_LABELS_RECEIVED_01.json",
+      "bytes": 36420,
+      "sha256": "720430fd39c09735a831487667342eb6369f2d286169effbba49342f5f0f8384"
+    },
+    {
+      "file": "COHORT40_ALL41_NAME_ROLE_LEADS_01.json",
+      "bytes": 203902,
+      "sha256": "0ffa954710065112e56ae50364838e4075556f4f599597c8a4f40334e87c1ea0"
+    },
+    {
+      "file": "COHORT40_ALL_ORIGINAL_FIRSTS_SEALED_01.json",
+      "bytes": 7307,
+      "sha256": "07bb85b81509107b0abb4196ae597a1140293dcb64451cfd40f071b4dd72f10c"
+    },
+    {
+      "file": "COHORT40_CONTEXT_REVIEW_PLAN_01.json",
+      "bytes": 12367,
+      "sha256": "4fb953e7310399cf5a181b272fa59591852906eb0f5f36df18241e6c6960ff37"
+    },
+    {
+      "file": "COHORT40_CONTEXT_REVIEW_RECEIVING_01.json",
+      "bytes": 5700,
+      "sha256": "dcc18cc7f8caec9e69676fa613c1ed8041b74071855ca2c4ef471d92c4cb1fca"
+    },
+    {
+      "file": "COHORT40_DIAGNOSTIC_RECEIVING_PREPARATION_01.json",
+      "bytes": 19956,
+      "sha256": "a2efa8c0b3250eed8051da62f4d1ce94488822fdc686d24644d22011f78f3526"
+    },
+    {
+      "file": "COHORT40_DUST05_BUTLER_CONTEXT_PLAN_01.json",
+      "bytes": 10422,
+      "sha256": "4ccb97c3f8dd451d4b9871f8a466c6c6d4c7d5b6623921f77653fe257a604eba"
+    },
+    {
+      "file": "COHORT40_DUST05_BUTLER_CONTEXT_RECEIVING_01.json",
+      "bytes": 10330,
+      "sha256": "30c369563a4181d39a9bc647d42404a75387bd8d1fe3afc0b291491e66f9eca1"
+    },
+    {
+      "file": "COHORT40_EXACT_INPUT_FREEZE_01.json",
+      "bytes": 5754,
+      "sha256": "6880b18cf9a40fa65da70d5704e88b93e2782d48ee56bd76415f9e86e420e652"
+    },
+    {
+      "file": "COHORT40_EXACT_INPUT_REVIEW_PLAN_01.json",
+      "bytes": 3113,
+      "sha256": "926d05dbd488c826301199e472a867f9d62a4e892c99c775dcd2813e8fa9cdb3"
+    },
+    {
+      "file": "COHORT40_EXACT_INPUT_REVIEW_RECEIVING_01.json",
+      "bytes": 2155,
+      "sha256": "79a009b909cd084c3c5d8ec76b2a6ce7cd12d663cbb92aa8cb1f1b6461221735"
+    },
+    {
+      "file": "COHORT40_FINAL_SEMANTIC_AUTHOR_REVIEW_01.json",
+      "bytes": 3196,
+      "sha256": "1ba6daa87ca01fdd24cb1b21fa7b67881b047d65cdd79b6808e9a48c0528a3e6"
+    },
+    {
+      "file": "COHORT40_FINAL_SEMANTIC_REVIEW_PLAN_01.json",
+      "bytes": 3959,
+      "sha256": "323d98d6e9624733702dc6f8dee8783059165b8eab82edaaa912c226b30cf9fb"
+    },
+    {
+      "file": "COHORT40_FOUNDATION_ACTUAL_REVIEW_01.json",
+      "bytes": 19938,
+      "sha256": "830ec840742d633db188b7c714f2febc16a12ae8afb268221e9017258fa84a39"
+    },
+    {
+      "file": "COHORT40_FOUNDATION_ACTUAL_REVIEW_02.json",
+      "bytes": 7791,
+      "sha256": "63fc599aec6eb1f1b41c59b3346a34897000c63ab2e4d967bfd08e91dfc439cb"
+    },
+    {
+      "file": "COHORT40_FOUNDATION_CORRECTION_REVIEW_PLAN_02.json",
+      "bytes": 4268,
+      "sha256": "4fa0a8d3525268248424316f06d82fb6232728088b7e1973068eb16f1faccfc1"
+    },
+    {
+      "file": "COHORT40_FOUNDATION_PARTIAL_REVIEW_01.json",
+      "bytes": 9381,
+      "sha256": "5f6883d83f677e3ad8a0c853009731e40de6a008cd3b32e1b3628ba8614f1d37"
+    },
+    {
+      "file": "COHORT40_FOUNDATION_PREPARATION_01.json",
+      "bytes": 13440,
+      "sha256": "54349a4d5ba763e68209089b90c7a3644a966e8273867d2ce3c7a1087bcf1864"
+    },
+    {
+      "file": "COHORT40_FOUNDATION_PREPARATION_02.json",
+      "bytes": 15958,
+      "sha256": "c4edcfbb138449953141f47b4e58671f36f0756d3d1f8f63f43db1f1a92df3a9"
+    },
+    {
+      "file": "COHORT40_FOUNDATION_REVIEW_PLAN_01.json",
+      "bytes": 20664,
+      "sha256": "a9255f6531e56e0fec8a96a72c69b035c043ca322c6e6a6f5f7f64302d04c344"
+    },
+    {
+      "file": "COHORT40_LIVE_AUTHOR_AUTHORITY_VERIFIED_01.json",
+      "bytes": 1058,
+      "sha256": "f3185a347c5710c043ff54b1ea15e77e7e8076aaca761ad581fe7e419539eab6"
+    },
+    {
+      "file": "COHORT40_MODEL_FOUNDATION_FREEZE_01.json",
+      "bytes": 35706,
+      "sha256": "e547c7cd5f828a4fb38f3f8bf54d80393cab0618714f7251236d0ab29749ea05"
+    },
+    {
+      "file": "COHORT40_NATIVE_CONTEXT_PLAN_01.json",
+      "bytes": 299254,
+      "sha256": "e6332d36fc92a1c43f606d20132344b469feb807167f3f602bc1b69c234db37a"
+    },
+    {
+      "file": "COHORT40_NATIVE_PARTIAL_RECEIVING_01.json",
+      "bytes": 42484,
+      "sha256": "68580e601dbe07c72fa69bd57a14cb0dcfa31900e41f2bd905b869755955c7cd"
+    },
+    {
+      "file": "COHORT40_NATIVE_PARTIAL_RECEIVING_02.json",
+      "bytes": 83553,
+      "sha256": "f502ef3009ea0d832199f7d1e355d0dc2008163563f2d97653a9db548050b1cd"
+    },
+    {
+      "file": "COHORT40_NATIVE_PARTIAL_RECEIVING_03.json",
+      "bytes": 123743,
+      "sha256": "9353b3847052053c0c1cd855ca65634ead96dffc1a3ebc32258004354972ed21"
+    },
+    {
+      "file": "COHORT40_NATIVE_PARTIAL_RECEIVING_04.json",
+      "bytes": 203870,
+      "sha256": "4233c2637df3dc24feb0d62ce1a61c01ae8f6331ef07a37b8560ff6a54cb8705"
+    },
+    {
+      "file": "COHORT40_NATIVE_PROVENANCE_DRAFT_01.json",
+      "bytes": 7770,
+      "sha256": "5b89dd9f9dfe9e09cdaf96893032fb35524643b6557ff81bfd28b665eb0365aa"
+    },
+    {
+      "file": "COHORT40_NATIVE_PROVENANCE_DRAFT_02.json",
+      "bytes": 10408,
+      "sha256": "722da0e5364cfe29549428b6364578cd0a6ce1600a6146a76de2f664557e9927"
+    },
+    {
+      "file": "COHORT40_NATIVE_PROVENANCE_DRAFT_03.json",
+      "bytes": 10497,
+      "sha256": "e2bb659b22a5a87f96b309a12ed1ab94ce8375d45d56e3ed6b15b2456f2b694a"
+    },
+    {
+      "file": "COHORT40_ORIGINAL_FIRST_ASSESSMENT_PREPARATION_01.json",
+      "bytes": 4364,
+      "sha256": "22a0f541331d493999853930670a55902b3e54b217a0f0c6bda00c6aeef60cef"
+    },
+    {
+      "file": "COHORT40_PRE_FREEZE_PRECISION_PREPARATION_01.json",
+      "bytes": 1855,
+      "sha256": "f3259ac4710a1713c2a65984667ccdce09866cf464f780a1c12b3de0cf97f365"
+    },
+    {
+      "file": "COHORT40_PRIMARY_NATIVE_CONTEXT_RECEIVING_01.json",
+      "bytes": 319474,
+      "sha256": "152f2ec808195d775ebfee261910b302d4a490205e98bbb79c39edea3ca5f06e"
+    },
+    {
+      "file": "COHORT40_SCOPE_ASSESSMENT_DRAFT_01.json",
+      "bytes": 15903,
+      "sha256": "c9b3ae030ebe95ae00f6a6afc42a77b91273e52f7ade9431090000376f09403a"
+    },
+    {
+      "file": "COHORT40_STARTING_AUTHORITY_01.json",
+      "bytes": 377874,
+      "sha256": "8a9f1bab6e073aba933008aca9dca4614ebb308c4ca726182855611d8755b277"
+    },
+    {
+      "file": "DORECK_RULE_INVENTORY_DRAFT_01.json",
+      "bytes": 6948,
+      "sha256": "1170ee21dc423de87a2eeafb19ccdc993c574add39d89a1dd9542c287ef88a0c"
+    },
+    {
+      "file": "GAIBIL_MONOGRAPH_DRAFT_01.md",
+      "bytes": 14197,
+      "sha256": "63b037c24b430a09ee05baca8465b8bb5c707105a12b5f3d8e5d99b33df03c37"
+    },
+    {
+      "file": "GAIBIL_RULE_INVENTORY_DRAFT_01.json",
+      "bytes": 7218,
+      "sha256": "40738479624052e33d3c34914defd09c7e94624d0220a01212d12b507ac90dc4"
+    },
+    {
+      "file": "GAIBIL_RULE_INVENTORY_DRAFT_02.json",
+      "bytes": 7776,
+      "sha256": "22bfaed7b7d580c183ae2671ef203ba714642744b995be736dad0b8438dbf140"
+    }
+  ],
+  "foundation_seal_sha256": "e547c7cd5f828a4fb38f3f8bf54d80393cab0618714f7251236d0ab29749ea05",
+  "foundation_review_sha256": "63fc599aec6eb1f1b41c59b3346a34897000c63ab2e4d967bfd08e91dfc439cb",
+  "exact_input_freeze_sha256": "6880b18cf9a40fa65da70d5704e88b93e2782d48ee56bd76415f9e86e420e652",
+  "final_semantic_review_sha256": "1ba6daa87ca01fdd24cb1b21fa7b67881b047d65cdd79b6808e9a48c0528a3e6",
+  "actual_first_serialization_pins": [
+    {
+      "case_id": "C40-DOR-A1",
+      "body_file": "firsts01/C40-DOR-A1.txt",
+      "body_bytes": 719,
+      "body_sha256": "00f11347aed5f811e7fef8c51d7b274ec839879148864367e09e0f8889d3d228",
+      "receipt_file": "firsts01/C40-DOR-A1.receipt.json",
+      "receipt_bytes": 1431,
+      "receipt_sha256": "4225b7dc84d81845fc11244750d111985c9de425d04f3529cb4f76bfb399d4d2"
+    },
+    {
+      "case_id": "C40-DOR-A2",
+      "body_file": "firsts01/C40-DOR-A2.txt",
+      "body_bytes": 677,
+      "body_sha256": "8d710bfc9b984ac3d5f4d8869a42c07b36deaef412bd173a66b3677c67ed5d37",
+      "receipt_file": "firsts01/C40-DOR-A2.receipt.json",
+      "receipt_bytes": 1431,
+      "receipt_sha256": "bb33934f1c307198addeebc1a8d85c5524d3aa0e0824b474dd3eb19b39b9f6e3"
+    },
+    {
+      "case_id": "C40-DOR-B1",
+      "body_file": "firsts01/C40-DOR-B1.txt",
+      "body_bytes": 653,
+      "body_sha256": "7de1fc2a4b155c10a33279a12907551d9df9c0912b68a17ef2dba00efcfc2af0",
+      "receipt_file": "firsts01/C40-DOR-B1.receipt.json",
+      "receipt_bytes": 1430,
+      "receipt_sha256": "5a47ac80d3e3c437e2db496d3f862b89ae6beb7b4649b05fbe26e31d7ef21aec"
+    },
+    {
+      "case_id": "C40-DOR-B2",
+      "body_file": "firsts01/C40-DOR-B2.txt",
+      "body_bytes": 589,
+      "body_sha256": "0620c83510c46f17f569a615b91094807b721a0891f3fed2c2eba5868406b3b1",
+      "receipt_file": "firsts01/C40-DOR-B2.receipt.json",
+      "receipt_bytes": 1430,
+      "receipt_sha256": "8aaea4f07c3dfb7adb4a841099def6275519f69e41165f73a7bdd3aa67aa0c4d"
+    },
+    {
+      "case_id": "C40-GAI-A1",
+      "body_file": "firsts01/C40-GAI-A1.txt",
+      "body_bytes": 590,
+      "body_sha256": "edb7dd47f8e717c59ccc293512e62c00355f4327eb2e4bb9b34b7c5ac77eee9f",
+      "receipt_file": "firsts01/C40-GAI-A1.receipt.json",
+      "receipt_bytes": 1431,
+      "receipt_sha256": "3408580bd395be652488802ccb3df71195ea06a9e09a0f044b84919e2426ae52"
+    },
+    {
+      "case_id": "C40-GAI-A2",
+      "body_file": "firsts01/C40-GAI-A2.txt",
+      "body_bytes": 614,
+      "body_sha256": "a4f20421c1b506df5630da593122c47f0a74b80b697000a11fec34098ea625df",
+      "receipt_file": "firsts01/C40-GAI-A2.receipt.json",
+      "receipt_bytes": 1431,
+      "receipt_sha256": "baea2c093e393ee0879ec276c828c6dc54081eb0a328fb39e19eed53636cac90"
+    },
+    {
+      "case_id": "C40-GAI-B1",
+      "body_file": "firsts01/C40-GAI-B1.txt",
+      "body_bytes": 772,
+      "body_sha256": "575bab2e18776264f0f442f3945bdada45d08a99d4fd843f8589d87e905c1b1c",
+      "receipt_file": "firsts01/C40-GAI-B1.receipt.json",
+      "receipt_bytes": 1430,
+      "receipt_sha256": "782022444458c3d6e7c4e9cc24e558d00530129f18a51779877c6bbc7bb3a9e4"
+    },
+    {
+      "case_id": "C40-GAI-B2",
+      "body_file": "firsts01/C40-GAI-B2.txt",
+      "body_bytes": 731,
+      "body_sha256": "cdf93ff3eb9f0f619d96ad74c2403ba63d15a31cfa33a0ae643bb27dfb80f7bd",
+      "receipt_file": "firsts01/C40-GAI-B2.receipt.json",
+      "receipt_bytes": 1430,
+      "receipt_sha256": "e611319f9c101cd00c4fa4b6ad31bdfd39efe41fc7ff74dd15a5af36fd45f574"
+    },
+    {
+      "case_id": "C40-BHB-A1",
+      "body_file": "firsts01/C40-BHB-A1.txt",
+      "body_bytes": 636,
+      "body_sha256": "5598a051b160dc83cb730ec2c750529e8934234d3455e120262a12c12892eb40",
+      "receipt_file": "firsts01/C40-BHB-A1.receipt.json",
+      "receipt_bytes": 1443,
+      "receipt_sha256": "076fa1de6faeca0b2fc2a41e6c729152b790817b39440e32ef60badf9bcdbbac"
+    },
+    {
+      "case_id": "C40-BHB-A2",
+      "body_file": "firsts01/C40-BHB-A2.txt",
+      "body_bytes": 747,
+      "body_sha256": "c92ab2c6144dccfc19c3b1eb2c015303c060e0f5676afe6bf79ee4fd03be8d3c",
+      "receipt_file": "firsts01/C40-BHB-A2.receipt.json",
+      "receipt_bytes": 1443,
+      "receipt_sha256": "4006712b347163af37261e4f69838f5d125592edc46ba92ae9496fb4cf35b5d6"
+    },
+    {
+      "case_id": "C40-BHB-B1",
+      "body_file": "firsts01/C40-BHB-B1.txt",
+      "body_bytes": 627,
+      "body_sha256": "e26339840bdc977e318be820daa0379e8cb3b36ae15c8a751f89071872b0f3da",
+      "receipt_file": "firsts01/C40-BHB-B1.receipt.json",
+      "receipt_bytes": 1442,
+      "receipt_sha256": "e054919fae575fd1f691ea20f7e57b33c0d07a2f2038f16cd2bfeeeca86f2f12"
+    },
+    {
+      "case_id": "C40-BHB-B2",
+      "body_file": "firsts01/C40-BHB-B2.txt",
+      "body_bytes": 648,
+      "body_sha256": "201e90fc8bcb7957f2fc653aa5d47b85172fb1d8e7c6e092eba639ca2cd7e0d6",
+      "receipt_file": "firsts01/C40-BHB-B2.receipt.json",
+      "receipt_bytes": 1442,
+      "receipt_sha256": "eaca855a4710f0c4968cebbe12cfc94ed4589373cfee9902ca372db4928ada2f"
+    }
+  ],
+  "compact_profile_fragment": {
+    "private_file": "COHORT40_COMPACT_PROFILES_DRAFT_01.md",
+    "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "bytes": 7949,
+    "sha256": "79b8d7d81e1ca3f7d933f2ac39b1a9d2ac69ae1861cf01453e6dda57fdb5883f",
+    "anchor": "#cohort-40-doreck-gaibil-bridol-king-butler-and-supporting-roles"
+  },
+  "changed_entering_rows": [
+    81,
+    82,
+    83,
+    84
+  ],
+  "untouched_entering_rows": 353,
+  "new_rows": [
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382
+  ],
+  "entering_private_census_file": "SECONDARY_CHARACTER_CENSUS_AND_GAP_AUDIT_WORKING_116.json",
+  "entering_private_census_sha256": "64029a4b91c1e85891c0a384d03cce1f29930c7850358fa2d471f4c5382297f4",
+  "canonical_private_differing_historical_rows": [
+    5,
+    6,
+    7,
+    8,
+    12,
+    13,
+    43,
+    78,
+    123,
+    124,
+    125,
+    137,
+    142,
+    143,
+    168,
+    170,
+    171,
+    172,
+    177
+  ],
+  "current_core_fields_equal_across_planes": [
+    "character",
+    "identity",
+    "likely_tier",
+    "priority",
+    "evidence_distribution",
+    "substantive_responsibility",
+    "gaps",
+    "disposition_status",
+    "independent_observation_count"
+  ],
+  "source_access_qualification": "2826 received P/1219 inline ruby,11members/3known EPUBs/58complete native displays. Seven complete paragraph/ruby projections,four bounded members;zero current image,residual,whole-edition,acoustic,native-human or independent credit. Complete continuation analytical report/component/45qualifications received;all41literal retrieval technical only. Scope is not personal event count or global newly read material.",
+  "source_identity_and_knowledge_limits": [
+    "Real Doreck,Gaibil proxy,real Rionor jail visitor and Leen wedding bride remain separate at the correct knowledge times. Private willing contract conflicts with public brainwashing account.",
+    "King proposes child exchange and Dust refuses. Royal apology and private etiquette do not erase coercion;final lenience is Doreck account. Rionor cooling-off travel is not proved equivalent to Dust permanent ban.",
+    "Headbutler recurrence acrossDust05/Dust06/continuation has positive evidence. National-stake allusion remains oblique;Feit human identity surprise and partial knowledge coexist. Hagen/Heidel/other servants unjoined.",
+    "Three maids remain differentiated;former-thief route may overlap one weapon role. P552 pay statement is pair-level. Guard,doctor,parent,audience and staff route overlaps do not certify additional unique people."
+  ],
+  "diagnostic_qualification": "Five frozen rules/three models precede exact prompts. Twelve original Japanese-plus-English bodies/six dependent comparisons were authored once after actual input receiving,sealed before feedback,and remain exact. C40-GAI-A1 written-reading ambiguity,B1 spatial planning topic andB2 unprovided debt framing are retained with calibrated limits. No independently established character-specific mechanism,accuracy,capability grade,confidence gain,acoustic certification or final battery. Same informed root,source-known and all contrasts visible;zero regeneration or post-first repair.",
+  "unprobed_conditions": [
+    "Doreck phase separated from available means;particular attachment versus generic care under costed alternatives.",
+    "Gaibil care,reward and professional pride under independently varied costs and relationship conditions.",
+    "Butler authority,national stakes and workload separated rather than bundled;wider household/ordinary-life behavior.",
+    "Hagen row114 cross-source name followup and other character/incidental queues remain open.",
+    "All final nine-category batteries,seven expanded specialists,extended/full-series synthesis,six original StageD successors,and designated integration/curation/release."
+  ],
+  "source_review_receipts": [
+    {
+      "file": "COHORT40_CONTEXT_REVIEW_RECEIVING_01.json",
+      "bytes": 5700,
+      "sha256": "dcc18cc7f8caec9e69676fa613c1ed8041b74071855ca2c4ef471d92c4cb1fca"
+    },
+    {
+      "file": "COHORT40_PRIMARY_NATIVE_CONTEXT_RECEIVING_01.json",
+      "bytes": 319474,
+      "sha256": "152f2ec808195d775ebfee261910b302d4a490205e98bbb79c39edea3ca5f06e"
+    },
+    {
+      "file": "COHORT40_ADAPTIVE_NATIVE_CONTEXT_RECEIVING_01.json",
+      "bytes": 53621,
+      "sha256": "a69a88828275c0ff600d66581fa4d3c5f62eadcc058211eecdcbb1a6254c58d4"
+    },
+    {
+      "file": "COHORT40_ADDITIONAL_ROLE_NATIVE_RECEIVING_01.json",
+      "bytes": 13881,
+      "sha256": "2fbc246fc6d7e26777ed8c7aec13870058f089bd9a87d4cacb3a51596920df6b"
+    },
+    {
+      "file": "COHORT40_DUST05_BUTLER_CONTEXT_RECEIVING_01.json",
+      "bytes": 10330,
+      "sha256": "30c369563a4181d39a9bc647d42404a75387bd8d1fe3afc0b291491e66f9eca1"
+    },
+    {
+      "file": "COHORT40_ALL357_CENSUS_LABELS_RECEIVED_01.json",
+      "bytes": 36420,
+      "sha256": "720430fd39c09735a831487667342eb6369f2d286169effbba49342f5f0f8384"
+    },
+    {
+      "file": "COHORT40_ALL41_NAME_ROLE_LEADS_01.json",
+      "bytes": 203902,
+      "sha256": "0ffa954710065112e56ae50364838e4075556f4f599597c8a4f40334e87c1ea0"
+    }
+  ],
+  "native_cache_unit_pins": [
+    {
+      "file": "native-units01/DUST-CONT-U011.json",
+      "bytes": 182452,
+      "sha256": "127be4a741e3f892a255ae7ab6de62ebe81c00d93095b3d7ec5171ea069694dd"
+    },
+    {
+      "file": "native-units01/DUST-CONT-U012.json",
+      "bytes": 176425,
+      "sha256": "e17b561edb9381f17837276e825d99765f6c7a0c869c8f771f7f56a9e330c3a0"
+    },
+    {
+      "file": "native-units01/DUST-CONT-U013.json",
+      "bytes": 183461,
+      "sha256": "86436c7756d31f3f1785c9d560722260049386b3e73cb4c42c513e7529156ef3"
+    },
+    {
+      "file": "native-units01/DUST-CONT-U014.json",
+      "bytes": 181872,
+      "sha256": "8754dd7d889135107561dae8fe141a41371a9bbcd7024ee2db07ed42a8b2dcf9"
+    },
+    {
+      "file": "native-units01/DUST-CONT-U015.json",
+      "bytes": 23221,
+      "sha256": "07ed8ce082dd7fdd1007152c7ec872be792b4b5e07252f4eb0f15f4d219f45f0"
+    },
+    {
+      "file": "native-units01/DUST-CONT-U016.json",
+      "bytes": 11808,
+      "sha256": "1a4504db401bde33ec2ae9986e36a0c11ffe0bc727fe1c84d08826d028841dea"
+    },
+    {
+      "file": "adaptive-native-units01/DUST-06-U012.json",
+      "bytes": 183021,
+      "sha256": "7c42321a8d2ee22a54542b53d053fa5be5d47603b8a1ad0fd0dc27714010d926"
+    },
+    {
+      "file": "adaptive-native-units01/DUST-06-U013.json",
+      "bytes": 205055,
+      "sha256": "f39fbe13b04568123b0c1baaa156cd47899d6c22fcc81ee307fc69f750afedf4"
+    },
+    {
+      "file": "adaptive-native-units01/DUST-CONT-U010.json",
+      "bytes": 184270,
+      "sha256": "80567c84ded6cec33e7b46eddba52c76de4a628eb428921b9f30a15e0cc037d0"
+    },
+    {
+      "file": "earlier-butler-native-units01/DUST-05-U010.json",
+      "bytes": 215970,
+      "sha256": "9d7d649475f77b3d84179fb9c519a4f5524f99c92283ad178f733fba06a3d326"
+    },
+    {
+      "file": "earlier-butler-native-units01/DUST-05-U013.json",
+      "bytes": 10230,
+      "sha256": "9a02d973c4f481483867bb701895afc4e8d618fc3be3ec6dda81f46626a4efb7"
+    }
+  ],
+  "native_delivery_pins": [
+    {
+      "file": "native-review-pages01/001.txt",
+      "bytes": 6913,
+      "sha256": "031af27a11696d91978b5820fbc19234f44730425c5e4f273c0d27ac290451c2"
+    },
+    {
+      "file": "native-review-pages01/002.txt",
+      "bytes": 7107,
+      "sha256": "46a584b9a4e88ab8b6eff3463dbc98e4bab2819b87043a7005d5afbfc2b6a0e8"
+    },
+    {
+      "file": "native-review-pages01/003.txt",
+      "bytes": 6846,
+      "sha256": "33b1d324c5d44c4427dc4547c16613fa4624c1203876a6d529e8f008784aad0d"
+    },
+    {
+      "file": "native-review-pages01/004.txt",
+      "bytes": 6870,
+      "sha256": "c0b401b18783f0210a40876673e8a5ec86d611016c817625cb6f157c98017798"
+    },
+    {
+      "file": "native-review-pages01/005.txt",
+      "bytes": 7160,
+      "sha256": "fcd2a68318a76f386f5e84884c9fc79b5d2c04abf4823b54654f3d6923c294c4"
+    },
+    {
+      "file": "native-review-pages01/006.txt",
+      "bytes": 7314,
+      "sha256": "cdaa52886be6d71d454d72da0d71a74cff319546b8ece33d0d838e2f58bfe1a6"
+    },
+    {
+      "file": "native-review-pages01/007.txt",
+      "bytes": 6843,
+      "sha256": "358f4b35f4083e0f4fc312c78ab97357f7a55142d743683c6975ea3bd727cf90"
+    },
+    {
+      "file": "native-review-pages01/008.txt",
+      "bytes": 6939,
+      "sha256": "71ed586442b52aeaa70353a23b6e43c3721c1e6ba170ff921bcd2ec80b2ad32b"
+    },
+    {
+      "file": "native-review-pages01/009.txt",
+      "bytes": 6989,
+      "sha256": "a31e8c2aaee69057124e7649d08eb88cfb15429771cb93a168eb9d15be3c4b30"
+    },
+    {
+      "file": "native-review-pages01/010.txt",
+      "bytes": 7193,
+      "sha256": "f330106ae67842e61c7bc15211d7df3b1b936764e7d706d8aaaf3df0b8366469"
+    },
+    {
+      "file": "native-review-pages01/011.txt",
+      "bytes": 7500,
+      "sha256": "43334d8d3014b987b19a0ca3c32702596930f503d37943f041a37c0a99f1dc52"
+    },
+    {
+      "file": "native-review-pages01/012.txt",
+      "bytes": 7006,
+      "sha256": "38187314eb324623853ceb26a35812c05916e9d1f22e95569cbf2132f4a06e1d"
+    },
+    {
+      "file": "native-review-pages01/013.txt",
+      "bytes": 6878,
+      "sha256": "cb74f9f15bfd9f7a889e882f64822c53ba039a3739000ccbb226e79c9ceda5ac"
+    },
+    {
+      "file": "native-review-pages01/014.txt",
+      "bytes": 7286,
+      "sha256": "770014a11b0ced511084731c8ebab812efbe57d6c6f086641ba54a817aeed2ae"
+    },
+    {
+      "file": "native-review-pages01/015.txt",
+      "bytes": 7425,
+      "sha256": "ae92eb86d3e85b300a07171d052e4dffd318b0ffe37dbe02f4269dc0fc3aae1e"
+    },
+    {
+      "file": "native-review-pages01/016.txt",
+      "bytes": 7140,
+      "sha256": "94df33b867837f9669be9fa38353cb1f1a5fd808836fb269a0f3c3ea023d8c12"
+    },
+    {
+      "file": "native-review-pages01/017.txt",
+      "bytes": 7241,
+      "sha256": "342b6386cfab53a197d30a6e8a95ac7b78a577a87a28ece54e3b776611f7450b"
+    },
+    {
+      "file": "native-review-pages01/018.txt",
+      "bytes": 7239,
+      "sha256": "08504aa810bbadf12ad6d7eee38cbcbeecf86891586931701f1fe7aa562c20ef"
+    },
+    {
+      "file": "native-review-pages01/019.txt",
+      "bytes": 6981,
+      "sha256": "329819e53601bca85d43b192a83e03218caeaee6630dba8594486936d3a530d1"
+    },
+    {
+      "file": "native-review-pages01/020.txt",
+      "bytes": 7475,
+      "sha256": "f4318d7d99cc8ee5e57d6fbb3ac7ec3b902055268010e002e38911e47026e95a"
+    },
+    {
+      "file": "native-review-pages01/021.txt",
+      "bytes": 7100,
+      "sha256": "30c24d8001f7a130a0087fd674c0697044a970d2124b0dd1743eed6dd175155f"
+    },
+    {
+      "file": "native-review-pages01/022.txt",
+      "bytes": 7149,
+      "sha256": "a8776192c85be1991e32b289d1e5286c68a23439d5f4a272035f512f25dfdda2"
+    },
+    {
+      "file": "native-review-pages01/023.txt",
+      "bytes": 7190,
+      "sha256": "a7dd5ec5e5318ca06f59fe5994f90708bd4bada412e1a50b3027690e351ac72d"
+    },
+    {
+      "file": "native-review-pages01/024.txt",
+      "bytes": 7088,
+      "sha256": "f44f3b07b29ed53acb69bb027a2e07d8e8bded22767e300f04af9308d340b334"
+    },
+    {
+      "file": "native-review-pages01/025.txt",
+      "bytes": 7091,
+      "sha256": "d09fdc59f6431fe550d15a386381a5d3b4d8a5252ed97d8522ade8c6c15ba28a"
+    },
+    {
+      "file": "native-review-pages01/026.txt",
+      "bytes": 6964,
+      "sha256": "644b5ddd8430f78751a5e49a6b03da5e4c79b187278efb569f3c755db91f0823"
+    },
+    {
+      "file": "native-review-pages01/027.txt",
+      "bytes": 7713,
+      "sha256": "12df825828c85cddf0fda17d026690c8258cd4ae4a8ba0af1ba835c34da7e7f0"
+    },
+    {
+      "file": "native-review-pages01/028.txt",
+      "bytes": 7359,
+      "sha256": "188ade048dc0d74d8a4851a059ca87927dc68cead21b696e8b89debf3d85feda"
+    },
+    {
+      "file": "native-review-pages01/029.txt",
+      "bytes": 7111,
+      "sha256": "7287168d687d1d451ad35c539073b35ee829873db8c82be58e9f1a8056e6eb9c"
+    },
+    {
+      "file": "native-review-pages01/030.txt",
+      "bytes": 7280,
+      "sha256": "7b552f806a091a45e5956f6746f5787d3f0bc17b8a077e8fdc1e2a8a0e557d8b"
+    },
+    {
+      "file": "native-review-pages01/031.txt",
+      "bytes": 7095,
+      "sha256": "f819a86630ea37dcfea7b21640ed6c89479f6a8ec4e4a979be8544923f591cf6"
+    },
+    {
+      "file": "native-review-pages01/032.txt",
+      "bytes": 7291,
+      "sha256": "7f28cab17f4aee09b63f76424f727f9f618df62a131a48a25b33f0bb071d154f"
+    },
+    {
+      "file": "native-review-pages01/033.txt",
+      "bytes": 6755,
+      "sha256": "9d8278d49a24faae39e3e1a9fbe7c99db3f184f900f4b671cb5e61d64dae0f64"
+    },
+    {
+      "file": "native-review-pages01/034.txt",
+      "bytes": 7112,
+      "sha256": "6d41ed97549259f3b9e25a80a759253d1bf6935e46081dba3673818779506eb2"
+    },
+    {
+      "file": "native-review-pages01/035.txt",
+      "bytes": 7089,
+      "sha256": "cf452add085caf32630e0ff424397228d83b8a4ebaf5b86fc385c73a8b9399aa"
+    },
+    {
+      "file": "native-review-pages01/036.txt",
+      "bytes": 7065,
+      "sha256": "a11692fb97f90d5de99ee2c7263e94494e35c5fe419c57f0b3fe25b7aef61181"
+    },
+    {
+      "file": "native-review-pages01/037.txt",
+      "bytes": 6899,
+      "sha256": "bdc1c46b1c8ff24351e3b148c474d6e3d4c8b91e1476e77f71136985179375aa"
+    },
+    {
+      "file": "native-review-pages01/038.txt",
+      "bytes": 6940,
+      "sha256": "441db88ff67347eb52ad5f946448c0fe1d82d305db846a34f1b58a2f7fa0ffea"
+    },
+    {
+      "file": "native-review-pages01/039.txt",
+      "bytes": 6991,
+      "sha256": "ce5691c23902b50ceb45fe7e7fd1e310100aeb8fb1107195dfacc0ccde455893"
+    },
+    {
+      "file": "native-review-pages01/040.txt",
+      "bytes": 7174,
+      "sha256": "bb8c4c4744b2bb3d89ac983ef34112f664b49ccec872a4b45a606baea7f6b7b4"
+    },
+    {
+      "file": "native-review-pages01/041.txt",
+      "bytes": 7079,
+      "sha256": "e9483d5dcdd566216cdd4922d78b187cee5f98160fc044b4fef7166850161b49"
+    },
+    {
+      "file": "native-review-pages01/042.txt",
+      "bytes": 6928,
+      "sha256": "19f331125341feda02c17de9c25964c5fd7c96ab80fe78b2e7e15217fcbdb802"
+    },
+    {
+      "file": "native-review-pages01/043.txt",
+      "bytes": 6882,
+      "sha256": "2da58153368d0e74bd56722c8c8174136b65526222a0695673889afc0a2aa6bf"
+    },
+    {
+      "file": "native-review-pages01/044.txt",
+      "bytes": 6839,
+      "sha256": "268357ef677be679193520b11dc1ba7b0c75d10f0a7c1ba6d538f56952ae822f"
+    },
+    {
+      "file": "native-review-pages01/045.txt",
+      "bytes": 6883,
+      "sha256": "52b16e4e0266a4475fbf09f1008e737c5031f4122a9588099a5f14f25c278409"
+    },
+    {
+      "file": "native-review-pages01/046.txt",
+      "bytes": 4443,
+      "sha256": "b36b57a742728ce27d95cb31ed185225d3a92d9c96b68dc6e9ce8f64a2686eff"
+    },
+    {
+      "file": "adaptive-native-review-pages01/001.txt",
+      "bytes": 6968,
+      "sha256": "d2940a024a06d2ef70337354acbc522ca299d13988b98e120536ab581f070387"
+    },
+    {
+      "file": "adaptive-native-review-pages01/002.txt",
+      "bytes": 7414,
+      "sha256": "3bf4f5aeaa78ad57881dac8fd1cc48ffc2589343e34a82d64aeb81d225c6eb29"
+    },
+    {
+      "file": "adaptive-native-review-pages01/003.txt",
+      "bytes": 7210,
+      "sha256": "e6394f8027864a1fb0b5bbcc53962b02d61faae133b281da2958279e364acee2"
+    },
+    {
+      "file": "adaptive-native-review-pages01/004.txt",
+      "bytes": 7036,
+      "sha256": "e8b5921c2d2a74ab0c4028715ef22f4a80303eed8f29fce26e09ea406a8df7aa"
+    },
+    {
+      "file": "adaptive-native-review-pages01/005.txt",
+      "bytes": 7174,
+      "sha256": "e0d59a3184fad2fa779cb47a926b9a5a10130df809809b8d6abd750aa6957611"
+    },
+    {
+      "file": "adaptive-native-review-pages01/006.txt",
+      "bytes": 7089,
+      "sha256": "deb10bfc9806ee104a066eb30c5f2e845b3c30735dd739e51f638acc24c9d8ad"
+    },
+    {
+      "file": "adaptive-native-review-pages01/007.txt",
+      "bytes": 6842,
+      "sha256": "c506e9e4699b8dad8baa093b10b9f4f2c9d17dc0ed94e3f084d8fa6b06ed977b"
+    },
+    {
+      "file": "adaptive-native-review-pages01/008.txt",
+      "bytes": 6527,
+      "sha256": "bf71ed31893dd05f633814fd604ca62a04fbe3813bd97dd2dd53dcc33cf47d25"
+    },
+    {
+      "file": "role-native-review-pages01/001.txt",
+      "bytes": 7104,
+      "sha256": "44856b0fe70b1d82760d67e919bf7e8673773554c7a533d239d5b37b14beb733"
+    },
+    {
+      "file": "role-native-review-pages01/002.txt",
+      "bytes": 5630,
+      "sha256": "9cf550748220617301aa283a5a93c1348cd348721aa1f9480b34c7ac68445280"
+    },
+    {
+      "file": "earlier-butler-native-review-pages01/001.txt",
+      "bytes": 6928,
+      "sha256": "709eeed1d0f8f4a60556294ed4dfeb45039da4b0bcfbc97b4e20ec0efb9bd22a"
+    },
+    {
+      "file": "earlier-butler-native-review-pages01/002.txt",
+      "bytes": 1410,
+      "sha256": "ef2d93332214cb95eafb9c0e3049516d69ce0a066860709298e0c37116d4c928"
+    }
+  ],
+  "prior_preservation_checks": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 59,
+    "control_baseline": "Owner-integrated main bee2e0d1d772e0956401cd6b94262ce61bc83142; all12 current controls exact; historical control pins independently verified at6f06e50c8c7277bdffefaf291f5990b6cd783ee9.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true,
+    "C27_twenty_cores_compact_fragment_exact": true,
+    "C28_twenty_eight_cores_thirtytwo_private_twentyfour_original_firsts_exact": true,
+    "C28_eighty_nine_raw_deliveries_exact": true,
+    "WORK92_exact": true,
+    "current_C28_public_gate_exact": true,
+    "C29_thirteen_cores_seventeen_private_sixteen_original_firsts_exact": true,
+    "C29_sixty_eight_raw_deliveries_exact": true,
+    "WORK94_exact": true,
+    "current_C29_public_gate_exact": true,
+    "C30_nineteen_cores_twenty_three_private_twenty_four_original_firsts_exact": true,
+    "C30_thirty_three_raw_deliveries_exact": true,
+    "WORK96_exact": true,
+    "current_C30_public_gate_exact": true,
+    "C31_twenty_nine_cores_thirty_three_private_twenty_six_original_firsts_exact": true,
+    "C31_fifty_six_native_copies_exact": true,
+    "WORK98_exact": true,
+    "current_C31_public_gate_exact": true,
+    "C32_eleven_cores_fifteen_private_six_original_firsts_exact": true,
+    "C32_fortysix_native_deliveries_exact": true,
+    "WORK99_exact": true,
+    "WORK100_exact": true,
+    "current_C32_public_gate_exact": true,
+    "C33_eight_cores_twelve_private_six_original_firsts_exact": true,
+    "C33_fourteen_native_deliveries_exact": true,
+    "WORK101_exact": true,
+    "WORK102_exact": true,
+    "current_C33_public_gate_exact": true,
+    "C34_fourteen_cores_twenty_private_ten_firsts_exact": true,
+    "C34_thirtyfour_native_deliveries_thirteen_units_one_known_image_exact": true,
+    "WORK103_exact": true,
+    "WORK104_exact": true,
+    "current_C34_public_gate_exact": true,
+    "C35_two_cores_ten_private_compact_fragment_exact": true,
+    "C35_seven_native_deliveries_two_units_exact": true,
+    "C35_no_new_diagnostic_firsts": true,
+    "WORK105_exact": true,
+    "WORK106_exact": true,
+    "current_C35_public_gate_exact": true,
+    "C36_two_cores_eleven_private_eight_supporting_and_compact_exact": true,
+    "C36_initial_rejected_foundation_and_failed_preflight_preserved": true,
+    "C36_sixtythree_deliveries_forty_members_two_known_images_exact": true,
+    "C36_no_new_diagnostic_firsts": true,
+    "WORK107_exact": true,
+    "WORK108_exact": true,
+    "WORK109_exact": true,
+    "current_C36_public_gate_exact": true,
+    "C37_nine_cores_22private_10support_compact_exact": true,
+    "C37_four_original_body_receipt_pairs_exact": true,
+    "C37_49_deliveries_15_native_members_four_images_exact": true,
+    "C37_author_gate_and_WORK110_WORK111_exact": true,
+    "C38_13_frozen_private_14_supporting_all38_source_native_review_deliveries_exact": true,
+    "current12_controls_exact": true,
+    "C38_current20_private18_supporting_and_guard_reference_correction_exact": true,
+    "C38_original_and_intermediate_drafts_preserved": true,
+    "C38_three_cores20_private18_supporting_and_compact04_exact": true,
+    "C38_twelve_deliveries_four_native_members_exact": true,
+    "C38_all_original_and_intermediate_gender_correction_history_preserved": true,
+    "C38_author_gate_and_WORK112_WORK113_exact": true,
+    "C39_23_cores_35_private_37_support_and_compact_exact": true,
+    "C39_12_original_body_receipt_pairs_exact": true,
+    "C39_23_native_units_84_deliveries_30_foundation_review_pages_exact": true,
+    "C39_all_original_and_corrected_foundations_and_annotations_preserved": true,
+    "C39_WORK113_WORK114_WORK115_and_both_staged_scopes_exact": true,
+    "C39_unbound_first_details_retained": true,
+    "C39_full459_exact_source_audit_and_public_gate_exact": true,
+    "C39_WORK116_and_10_reviewed_closing_operations_exact": true,
+    "C39_all_original_firsts_adverse_findings_and_metadata_normalization_history_preserved": true
+  },
+  "all59_entering_models_unchanged": true,
+  "all24_new_core_artifacts_frozen_exact": true,
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "semantic_receiving_stage_canonical_cohort40_changes": false,
+  "exact_containing_publication_pending": false,
+  "main_integration_and_designated_global_outputs_separately_owned": true,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "full_program_complete": false,
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "semantic_receiving_sha256": "0e6e5ec79862c5c3438d055a34bc9bdaf48ea0eacf395449ee0608e27fc55aea",
+  "previous_source_audit_not_transferred_to_new_candidate": true,
+  "new_artifact_scope": {
+    "models": 62,
+    "scoped_secondary_models": 56,
+    "compact_profiles": 100,
+    "monograph_only": 29,
+    "nonfinal_records": 383,
+    "new_models": 3,
+    "new_monographs": 4,
+    "new_rules": 5,
+    "new_compact_profiles": 7,
+    "new_records": 26,
+    "new_Tier1_records": 7,
+    "new_Tier0_records": 19,
+    "new_input_cases": 12,
+    "new_first_bodies": 12,
+    "new_dependent_pairs": 6
+  },
+  "census_comparison": {
+    "changed_entering_rows": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "untouched_entering_rows": 353,
+    "new_rows": [
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382
+    ],
+    "nonfinal_records": 383,
+    "canonical_layout": "Manifest/five stable row parts:80,80,80,80,63;private WORK117 separate.",
+    "canonical_private_historical_differences_retained": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "historical_storage_snapshot_unchanged": true,
+    "no_unique_person_denominator": true
+  },
+  "previous_author_gate": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT39_PUBLICATION_GATE_CLOSE.json",
+    "source": "bebd59912de46d82a02777050ccb175f5e075029",
+    "audit_run_id": 40124981724,
+    "full_discovered_tests": 459,
+    "PR316_integrated": false
+  },
+  "live_author_authority_receipt_sha256": "f3185a347c5710c043ff54b1ea15e77e7e8076aaca761ad581fe7e419539eab6",
+  "historical_capture_flags": "Foundation pre-first and output pre-annotation flags remain dated facts. Later semantic receiving governs12preserved originals and separate assessments. Native review-stage zero and diagnostic pending flags are explicitly stage-qualified. No source audit transfers to a new commit.",
+  "source_absolute_paths_in_public": 0,
+  "publication_owner_main_reconciliation": {
+    "verified_utc": "2026-10-24T21:27:39.847875+00:00",
+    "source_baseline": "7c7ddaf644c53c0cbca5a0274a84abdaea34a3c3",
+    "current_main": "ec04a1d68b380b77b48f9816ed60c7eaa2e1d519",
+    "remote_published_baseline": "bebd59912de46d82a02777050ccb175f5e075029",
+    "receipt_file": "COHORT40_OWNER_MAIN_RECONCILIATION_VERIFIED_01.json",
+    "receipt_sha256": "0908dcc1d4f7c5d0aa4b048b2fa169a1a4220421f3cf2a9b7ff698ed1698eee2",
+    "plan_sha256": "7890725db5eee3a223443061080f9b5da7a8b4366d29310a9d27210a9f9e0cfd",
+    "guard_transition_sha256": "187e69c5637900caf884f8d96359ef2e0e113d5d22df94a45bc46fdff4f50906",
+    "all1491_working_project_files_and62_models_exact": true,
+    "global_discovery_rows_before_and_after": 397,
+    "owner_namespace_partitions": 38,
+    "owner104_changes_preserved_exact": true,
+    "retired_single_registry_absent": true,
+    "global_curation_authored": false,
+    "prior_control_and_global_four_pins_remain_historical_snapshots": true,
+    "current_owner_controls_checked_separately": true,
+    "semantic_receiving_and_source_baselines_above_remain_dated_capture_facts": true,
+    "earlier9975path_author_preflight_not_transferred": true,
+    "new_required_author_preflight_repository_paths": 10052,
+    "own_exact_publication_audit_pending": true
+  },
+  "prior_semantic_receiving_publication_pending": true,
+  "publication_resolution": {
+    "source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+    "tree": "320b65dc0186746388e3ad7ce03370e2a4060434",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT40_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "8d5f71b1426bf9ee04f8491801f4a4771354199611cc71ede1707571e4d94890",
+    "source_run": 40134804125,
+    "full_discovered_tests": 479,
+    "current_models": 62,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "separate_housekeeping_run": null,
+    "pull_request_number": 316
+  },
+  "current_gate_qualification": "24public cores,31frozen private artifacts,48supporting records and compact fragment remain exact. Twelve original responses and GAI-A1/B1/B2contextual qualifications persist with bundled/generic rivals. Candidate index corrections changed two derivative paths;owner reconciliation changed four publication-metadata paths. Neither changed a model,rule,input,original body or census evidence disposition. Historical former globals and current owner-partitioned layout remain separately bound. Protected integration,independent accuracy,grade,confidence gain,final batteries and original StageD successors remain unearned."
+}

@@ -1,0 +1,214 @@
+{
+  "schema": "konosuba.cohort35.exact-source-author-publication-gate.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-24T13:24:37.653778+00:00",
+  "gate_scope": "Author publication tranche:ordinary continuing-source push,ready PR and full passing exact-source audit. Protected-main integration/post-integration checks remain separately owned.",
+  "actual_source_commit": "4491664acee5ad901620d795acf0812f86e5747c",
+  "tree": "fbc6a0eb5f1d2b5b0c569e43620986ca11bc1b99",
+  "source_parent": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+  "previous_published_source": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+  "publication_main": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "main_observed_at_close": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "pull_request": {
+    "number": 298,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/298",
+    "state": "open",
+    "merged": false,
+    "head": "4491664acee5ad901620d795acf0812f86e5747c",
+    "ready": true,
+    "labels": []
+  },
+  "author_preflight": {
+    "file": "COHORT35_AUTHOR_PREFLIGHT_VERIFIED_01.json",
+    "sha256": "3de9348517090413111d485977192392922ac54374141bda02256e9ac98e380a",
+    "paths": 9757,
+    "project_paths": 1420
+  },
+  "remote_readback": {
+    "file": "COHORT35_REMOTE_READBACK_VERIFIED_01.json",
+    "sha256": "e04edd60899aadab77ff127f3a083f23f6847f6d742700ded4679ec2a980e330",
+    "all9757_files_and26_changed_streams_exact": true
+  },
+  "source_audit": {
+    "file": "C35_SOURCE_AUDIT_VERIFIED_01.json",
+    "sha256": "ac7f41bc54de59fa67250cdbf5d038e1d5fbbb8d2883d8987bc81e04c855ab8d",
+    "run": 40097531812,
+    "job": 120882806577,
+    "reporter_job": 120883848201,
+    "actual_source": "4491664acee5ad901620d795acf0812f86e5747c",
+    "full_discovered_tests": 459,
+    "all_five_non_success_categories_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/4491664acee5ad901620d795acf0812f86e5747c",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57164550731,
+      "node_id": "SC_kwDOUJ9ads8AAAANT0XSSw",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40097531812",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-24T13:22:56Z",
+      "updated_at": "2026-10-24T13:22:56Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    }
+  },
+  "housekeeping": {
+    "status": "NOT_REQUIRED_WHEN_ROUTING_ALREADY_MATERIALIZED_UNDER_CURRENT_POLICY",
+    "run": null,
+    "execution_credit": false
+  },
+  "post_integration_main_audit": {
+    "status": "NOT_CERTIFIED_BY_THIS_AUTHOR_TRANCHE_GATE",
+    "run": null,
+    "execution_credit": false
+  },
+  "author_publication_tranche_complete": true,
+  "overall_git_integration_transaction_closed": false,
+  "authority_reload": {
+    "file": "COHORT35_POST_GATE_PUBLISHED_AUTHORITY_RELOAD.json",
+    "bytes": 354719,
+    "sha256": "3fe36290b1b452303f5bfeec1a78d458844e9843e38f069e8ea628a54764a663"
+  },
+  "current55_models_exact": true,
+  "new_scope": {
+    "source_known": true,
+    "same_root_authors_and_assesses_all_stages": true,
+    "all_contrasts_visible": true,
+    "independent_accuracy_result": null,
+    "capability_grade": null,
+    "confidence_gain": null,
+    "canonical_changed": false,
+    "global_census_closed": false,
+    "global_completion_percentage": null,
+    "full_program_complete": false,
+    "schema": "konosuba.cohort35.evidence-proportionate-scope-assessment.v1",
+    "recorded_utc": "2026-10-24T12:58:45.644201+00:00",
+    "starting_authority_sha256": "235fbbe85b2113789b00e5dac038368484b9b157c396d57da4e9c792b2b88c8a",
+    "context_receiving_sha256": "b5e82e850fa7d81161d0da426e85bf06fcc60153dd31f5adb8108f7f11ebfbfc",
+    "native_receiving_sha256": "5d1703b475891e18ed92b7ada7c18ac7699b27b27a2db886aa2fdd3d3de40662",
+    "current_notes_sha256": "37bf274df9ebbbb51ad886bf7f10abe8000fdffd5a1581d1b3ea8ba2958b52d2",
+    "prefreeze_precision_sha256": "5af1dfeb9fff52f1d86faff14d40589ac8e5823d82ee142f1f2f2fdaa0d29e6b",
+    "subjects": [
+      {
+        "row": 56,
+        "character": "Maris / マリス",
+        "tier": 1,
+        "compact_profile": true,
+        "reason": "Named consequential retaliation after a specific taunt, with two textual accounts of the same episode, supports a bounded reported-actor profile. No own voice or varied stable generator."
+      },
+      {
+        "row": 57,
+        "character": "Selis / セリス (Celis retrieval variant)",
+        "tier": 1,
+        "compact_profile": true,
+        "reason": "Named joint response and relationship to Darkness are substantive report evidence. Later unnamed-priest event correspondence is strong but does not explicitly name Selis; priest class remains qualified."
+      },
+      {
+        "row": 329,
+        "character": "Unnamed Maris-attribution correction speaker (DUST05 Eris church)",
+        "new_record": true,
+        "tier": 1,
+        "compact_profile": true,
+        "reason": "Direct first-person distinction of who struck Keith and request for further recall are an individually anchored attribution choice. Other current turns remain unassigned; possible Selis/171 overlap unresolved."
+      }
+    ],
+    "route_only_rows": [
+      171
+    ],
+    "route_qualification": "Existing CONTEXP01 Axel Eris priest retains every current field, prior profile and support; add an unjoined DUST05 scene/correction-speaker route only.",
+    "planned_changed_entering_rows": [
+      56,
+      57,
+      171
+    ],
+    "planned_other_entering_rows_exact_per_plane": 326,
+    "proposed_new_row_indices": [
+      329,
+      330,
+      331
+    ],
+    "new_records": 3,
+    "new_Tier1_records": 1,
+    "new_Tier0_records": 2,
+    "new_compact_profiles": 3,
+    "new_monographs": 0,
+    "new_models": 0,
+    "new_provisional_rules": 0,
+    "new_original_firsts": 0,
+    "new_dependent_pairs": 0,
+    "planned_totals": {
+      "models": 55,
+      "scoped_secondary_model_subjects": 49,
+      "bounded_profiles": 83,
+      "monograph_only_subjects": 27,
+      "nonfinal_records": 332
+    },
+    "classification_basis": "Meaningful source-bound choices and identifiable roles, with no appearance/word/model/rule quota or permanent ceiling. Group turn uncertainty does not erase the correction speaker’s individually anchored act; profile count is not a unique-person denominator.",
+    "no_new_model_or_diagnostic_reason": "The two named actors are reported in narrow episodes, while one present correction act does not identify a stable causal generator. No artificial monograph/rule/probe padding. Existing final model batteries and original six StageD successors remain owed.",
+    "exact_inputs_or_firsts_serialized": false,
+    "new_whole_source_or_independent_credit": 0,
+    "current_notes_file": "COHORT35_NATIVE_INTERPRETATION_NOTES_04.md",
+    "prior_scope_assessment_file": "COHORT35_SCOPE_ASSESSMENT_DRAFT_02.json",
+    "prior_scope_assessment_sha256": "9d61db75465382743de77c790be0af2936db04472f0efc97548207b390fb16fc",
+    "precision_qualification": "Two residual private-note gendered references to Maris neutralized. All source events,subject choices,counts,tiers and knowledge boundaries remain unchanged."
+  },
+  "scope_qualification": "Three compact profiles and three source records; no new monograph,model,rule,input or first output. Frozen pre-adoption flags remain dated facts. Possible unnamed-role overlaps remain open.",
+  "actual_received_artifact_scope": {
+    "models": 55,
+    "scoped_secondary_model_subjects": 49,
+    "bounded_profiles": 83,
+    "monograph_only_subjects": 27,
+    "nonfinal_records": 332,
+    "new_models": 0,
+    "new_monographs": 0,
+    "new_compact_profiles": 3,
+    "new_Tier0_dispositions": 2,
+    "new_records": 3,
+    "new_Tier1_records": 1,
+    "new_Tier0_records": 2,
+    "new_rules": 0,
+    "new_original_firsts": 0,
+    "new_dependent_pairs": 0
+  },
+  "current_totals": {
+    "models": 55,
+    "scoped_secondary_model_subjects": 49,
+    "bounded_profiles": 83,
+    "monograph_only_subjects": 27,
+    "nonfinal_records": 332
+  },
+  "source_known_same_root_author": true,
+  "actual_original_firsts": 0,
+  "actual_dependent_pairs": 0,
+  "earlier_original_outputs_and_defects_preserved": true,
+  "final_nine_category_battery_complete": false,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}

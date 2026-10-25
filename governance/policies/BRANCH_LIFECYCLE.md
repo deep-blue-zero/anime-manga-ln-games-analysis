@@ -5,7 +5,7 @@ Named branches isolate concurrent work and keep temporary branches from accumula
 ## Continuing analytical branches
 
 - Series work uses `series/<stable-slug>`; cross-series and non-series study work uses `studies/<stable-slug>`.
-- Each branch carries work only for its named analytical root and optional `.repository/` routing inputs, plus any housekeeping child commit over the five routing outputs and any separately identifiable two-file character repair. The repository audit enforces that scope.
+- Each branch carries work only for its named analytical root and optional `.repository/` routing inputs, plus any housekeeping child commit over the five routing outputs and any separately identifiable character repair that touches only discovery outputs. The repository audit enforces that scope.
 - Different series or study branches may advance concurrently; changes to the same root must be serialized or reconciled before integration.
 - Merge current `main` into the branch before each tranche. The CI agent integrates the branch's PR as a merge commit under `NIGHTLY_ANALYTICAL_INTEGRATION.md`; integrate periodically rather than letting a branch diverge indefinitely.
 
@@ -15,7 +15,7 @@ A repository ruleset blocks deleting or force-pushing every `series/` and `studi
 
 ## Continuing character curation
 
-The discovery agent uses the reusable `character-registry` branch with at most one open PR; the repository audit rejects any path beside `characters/registry.jsonl` and `CHARACTER_ANALYSIS_INDEX.md`. Keep it while the agent is active, recreate it from current `main` if it is deleted after a verified integration, and update it without force. See `CHARACTER_DISCOVERY_MAINTENANCE.md`.
+The discovery agent uses the reusable `character-registry` branch with at most one open PR; the repository audit rejects any path outside the discovery outputs: the registry partitions under `characters/registry/`, `CHARACTER_ANALYSIS_INDEX.md` and the namespace pages under `characters/index/`. Keep it while the agent is active, recreate it from current `main` if it is deleted after a verified integration, and update it without force. See `CHARACTER_DISCOVERY_MAINTENANCE.md`.
 
 ## Continuing reconstruction evaluation
 

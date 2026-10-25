@@ -1417,3 +1417,94 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Kazuma mixes battlefield achievements with misleading self-identification,attributes causes to movement/acid/repair,and rationalizes opening the weapon store. Attraction and later revulsion are narrator states rather than transparent Sylvia values. His MAIN15 diary report about Serena is retrospective and attributed,not a direct view of the original control attempt. MASK adds Vanir receiving a courier report of an earlier incident; reports nested inside another narrator do not become a directly watched fight or independent repetition.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Kazuma distinguishes some actual acts while conjecturing causes and private resistance: sun exposure explains heating in his account; Eris resisting inside may explain Aigis hesitation. His milk statement is not a watched drinking experiment. His doubt about divine recognition by the girls remains his interpretation. The initial questioner is only tentatively the elder; the younger resemblance remark and later elder gift are more securely attributed. MAIN17 Iris wearing/preparation is Eris report to Kazuma, with no watched battle, motive or victory (AG26-17–21,29,33).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Kazuma’s credit claims and retrospective power summaries are not neutral measurements. Beldia’s own P67 appraisal and P70 investigation account are distinguished from Aqua’s concern about nonpurging magic and later Mitsurugi’s report. Hans’s reduced reasoning is Kazuma’s conjecture; manager consumption is admitted, and exhaustive cleanup follows a blackout report. Serena’s diary includes represented fiction rather than performed sexual acts. Rain’s delivery/exit is reported by the officer, while guarantee-backed release is actual. Later at-large Serena confirms freedom but not every guard account. New record count is not a final person denominator (BE27-02, 11, 14; HA27-05–08; SE27-06, 09–13; AO27-03).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+K's earlier expectations are fallible: the supposed Leen courtship concerns Dust by later dialogue/Leen report; Alderp's abandoned fixation is not established by temporary quiet; a thought about memory-erasure lore is not a native kill-condition assay. K's claim only the prince/chancellor lose money omits actual casino-worker distress. He does not watch Ragcraft's complete final fight. His paternal-intelligence reading and feared execution are inferences, not Ignis's unspoken verdict. In MAIN07 C5 P522 K supplies the pursuit-abandonment voice; Alderp contradicts it P526.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+CONTEXP02U023 switches to Kazuma while the surrounding Barton components are Megumin-narrated. His guilt attribution and alternative cat reading remain interpretations. Megumin later reports Barton's persuasion and recalls her own deliberate miss; do not invent an unheard persuasion transcript or sole cause. Kazuma's favorable judgment of Zereschilt after the night attack does not erase the earlier deliberate humiliation spectacle. MAIN17 creator modality and Dust's observed defense retain different planes.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+All FD main narration is Kazuma, including Lia's quoted recovered self-history. He suppresses Aqua's disclosure of Megumin's cart destruction, conceals producer incentives, guesses causes for Cielo and misreads her worried gaze as attraction. Actual cleanup, advice, no-touch restraint and help can coexist with those failures. Cielo's self-offer and Megumin's healing appraisal do not become a separately observed cast. The private history is invited only to Kazuma and Aqua; no general disclosure to the two partners is supplied. Source reports, judgments and direct acts retain their distinct access.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+The TRPG edited narrator, GM/PC/player voices, reported diaries/wills and direct rule adjudications are not automatically Kazuma narration. Core world-guide second-personキミ is not automatically Kazuma or Mitsurugi; reference balloons are not new principal scenes. CurrentC31 source-plane qualifications prevent these replay observations from silently changing the frozen Kazuma model or retrospectively re-scoring principal predictions.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+MAIN02 Kazuma mistaken dream appraisal and the party manipulation theory do not show a service or Charm performed by the captured smaller visitor. The receptionist advertisement, Dust safety account, visitor apology and Kazuma actual interposition have different owners. MASK human-Wiz recollection and Vanir private narration are separate from Kazuma. No private full-erasure warning is silently supplied to the small worker, and no new current principal-model accuracy or repaired forecast follows.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+The CONTEXP01 final episode uses Kazuma's narration after an explicit post-Elroad interval. His business assembly at U021P478–479 differs from Karen's own profit speech and Megumin's technical identification. Earlier artifact suspicion and portable-house explanation are hypotheses. Megumin's rescue report and no-damage denial, Karen's representative apology and actual one-kill payment retain their owners. No private afterlife, fatality or plan knowledge is automatically assigned to Karen. Shelf accident and court outcome remain unperformed or conjectured at their own scopes.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Lucy’s personal-history/divine-redress testimony, Megumin’s release claim, her new-believer conjecture and Kazuma’s sincerity inference remain separate. The forest narrator’s device-based inference and later account of destroyed upper body do not establish every past visitor’s consent or completed root disposal. Kazuma represents the bonus lip-reading; no independent audio follows. His MAIN15C4P325–328 recall joins the named deity reference, while later power explanations and recaps do not retroactively establish Lucy’s knowledge or an audited follower chronology.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+MAIN07’s two anecdotes are embedded in Kazuma’s guesses about Eris’s terrestrial identity. DUST05 uses Dust’s focalization,self-serving accounts,direct untagged dialogue and aftermath report. The named Keith episode has two textual accounts of one event; source repetition is not independent eyewitness replication.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Kazuma is outside during the MAIN08 hatch,then hears Aqua/Vanir’s reports and sees the chick. Imprinting,parent recognition,friendship and fraud motives remain his explanations at their actual times. CONTEXP01 feeding is in Megumin’s narration; MAIN16I1 is Aqua’s. The creator’s unnamed high-level chicken is another evidential plane,not a watched personal battle.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Kazuma lip-reading can accurately receive words while paraphrasing them under a false courtship frame. Wiz reported approach/years and later invented flattering quotes retain attribution. MAIN15missing/received-report andMAIN17Kazuma death recollection are later planes;the gatekeeper is another figure. He accurately hears plant speech but overextends morality;his publicity and refund appraisals do not identify unnamed actors.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+MAIN02guild hijack story,discovered remains,Aqua spiritual assessment,read journal and anticipated burial have different access. MAIN05narrator/handwriting recognition supports the scientist join without authenticating all journal claims. Kazuma roadside care proposal remains unoffered;woodcutter duty/refusal is an independent actor within the same episode. MAIN15guest actual conduct survives Darkness later interested financial explanation. Dust narration similarly mixes admitted lies,observations and uncertain victim wishes.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
