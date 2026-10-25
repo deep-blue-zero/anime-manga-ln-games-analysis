@@ -1356,3 +1356,17 @@ Current 71 model artifacts/65 source-scoped secondary entries, 195 profile passa
 C50 adds18 bounded profile passages covering19 access rows, because the two Eris records share one pair profile. It receives24 retained targets and31 new access routes;708 other entering records and19 historical plane differences stay exact. Proposed totals are71 models,65 scoped secondary model entries,213 profile passages,64 monograph-only studies and763 nonfinal access records. These count artifacts and source treatments rather than unique people or mature capability. Eleven already adequate incidental cases retain all eight entering core fields and receive additive C50 qualifications. No new model or grade is claimed.
 
 [Current evidence index](KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C50 author gate closed; proportional profiles — 2026-10-25T19:06:26.463565+00:00
+
+Current71 models/65scoped secondary entries/213profile passages/64monograph-only studies/763nonfinal records are treatment counts. Source 83fbc004 passed exact10332-file index preflight, complete remote tree/all31changed streams, its own full479-test audit 40223499214 and latest trusted status 57213248574, followed by a fresh1738-file/71-model reload and7local EPUB/CRC/OPF/15text-member/4image correspondence. All220preservation checks passed.55 publication routes close,44 updating publication-only core status fields and11 preserving all eight earlier core fields;708 other records and19 historical plane differences remain exact. These closing bytes await their next containing publication. Protected integration and full-program completion remain separate. Eighteen compact profile passages cover19access rows and preserve55individual dispositions. No model, rule, input or diagnostic first is added. All earlier generated originals, adverse findings, blanks and scores remain exact. [Author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT50_PUBLICATION_GATE_CLOSE_01.json).
+
+
+## C51 — proportional art/reference treatments — 2026-10-25T20:53:24.750950+00:00
+
+C51 adds one source-bound Medusa dungeon-owner monograph, three compact profiles and28 incidental typed routes. The32 new records retain nested wishes, game tokens, reports, unmapped group phases and uninstantiated roles as different access types. Greed is the viscount; Megumin supposes1000 floors within an illustrated wish. Original annotations remain preserved under attributable corrections. The supplier and restaurant woman have separate voices and actions; Aqua makes the donation demands. No final Medusa fate, actual tower blast, executed Leen experiment, personal identity join or new rule is invented.
+
+Current71 model bodies/65 scoped secondary model entries remain unchanged. Candidate216 profile passages/65 monograph-only studies/795 nonfinal access records count treatments. Six existing rows receive only additive source supplements;757 others and19 historical canonical/private differences remain exact. All independent counts stay null. The original forecasts, firsts, adverse outcomes, scores, blanks and nulls remain unchanged. Exact containing publication is pending; full-program work continues.
+
+[Current evidence index](KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md). No new generative model, rule, scenario input or original diagnostic output is justified by these treatments.

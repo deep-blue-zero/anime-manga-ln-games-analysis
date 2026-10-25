@@ -554,3 +554,14 @@ C49 explicitly supplies the king’s self-name 八坂恭一/やさかきょう�
 C50 retains the medicine erratum, Mary proposal/performance distinction and source-local operator identity. New precision keeps the pub hot-oden account interrupted, only one performed server blow, changing interceptor membership, subordinate lightning, inferred skeleton finishing and tentative daughter identification. No established identity join is not a proved exclusion: Eris men/clergy, apple roles and Kamonegi routes remain appropriately unjoined. Earlier sealed analyses, source receipts, models and firsts remain exact. Current audit, typed routes and twenty qualifications carry these bounded refinements.
 
 [Current evidence index](KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C51 — attributable art/reference corrections — 2026-10-25T20:53:24.750950+00:00
+
+- **REVISE C51-ARTM04-Q01:** masked ニヤッ inset belongs to Vanir; Wiz separately smiles.
+- **DOWNGRADE C51-ARTM04-Q02:** introductory unballooned line has a contextual Vanir reading without explicit speaker marking.
+- **REVISE C51-ARTM04-Q03:** printed１０００階 means1000 floors inside Megumin supposition; supersede only M04EX-Q16 numerical part.
+- **STRENGTHEN C51-ARTM04-Q04/Q05:** actual visual recomposition and typed wish roles establish dependence without complete-image byte identity or new real events.
+- **REVISE C51-ARTREF-Q06:** 子爵 is viscount, superseding preserved “son-noble” notes and their copies.
+
+[Full qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT51_SOURCE_PRECISION_QUALIFICATIONS_01.json) identify existing Main04 owner and native locators. Historical notes, original coding and performance histories remain exact. Current71 model bodies/65 scoped secondary model entries remain unchanged. Candidate216 profile passages/65 monograph-only studies/795 nonfinal access records count treatments. Six existing rows receive only additive source supplements;757 others and19 historical canonical/private differences remain exact. All independent counts stay null. The original forecasts, firsts, adverse outcomes, scores, blanks and nulls remain unchanged. Exact containing publication is pending; full-program work continues.

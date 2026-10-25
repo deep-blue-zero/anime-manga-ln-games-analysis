@@ -141,6 +141,80 @@
       "id": "M04EX-Q28",
       "current_precision": "Originaluncoded notes, frozen66current/72historical, fouraccepted scores,14Dustblanks and secondary I01/I02 lineage/SEC01 target scopes remain intact; full41program and secondary census/substantive artifacts remain active.",
       "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "C51-ARTM04-Q01",
+      "affected": [
+        "MAIN-04-IMG005 original source_first_notes",
+        "ART-CHEERS-S030 comparison"
+      ],
+      "before": "Wiz smiles with ニヤ",
+      "current": "The separate masked close-up carrying the ニヤッ effect depicts Vanir. Wiz is also shown smiling in the group image; her visible smile and Vanir smirk inset are separate observations.",
+      "basis": "Both actual native views show the mask/star inset beside the printed effect.",
+      "original_annotation_retained": true,
+      "authored_after_seal_utc": "2026-10-25T20:53:24.750950+00:00",
+      "current_precision": "The separate masked close-up carrying the ニヤッ effect depicts Vanir. Wiz is also shown smiling in the group image; her visible smile and Vanir smirk inset are separate observations."
+    },
+    {
+      "id": "C51-ARTM04-Q02",
+      "affected": [
+        "MAIN-04-IMG005 initial looking-at-plans remark",
+        "ART-CHEERS-S030 speaker assignment",
+        "ART-CHEERS-S033 bounded introductory attribution"
+      ],
+      "before": "The main-image note names Kazuma while the artbook note names Vanir.",
+      "current": "The introductory looking-at-plans text is unballooned and lacks an explicit speaker tag or pointing tail. Vanir is the contextually supported observing voice across the sequence, including the later self-description and commentary. Keep the initial line qualified rather than treating its proximity to Kazuma as explicit attribution, or converting the Vanir reading into a tagged quotation.",
+      "basis": "The actual native setup, repeated Vanir commentary and closing frame were all viewed; narrative inference is separated from explicit speaker marking.",
+      "original_annotations_retained": true,
+      "authored_after_seal_utc": "2026-10-25T20:53:24.750950+00:00",
+      "current_precision": "The introductory looking-at-plans text is unballooned and lacks an explicit speaker tag or pointing tail. Vanir is the contextually supported observing voice across the sequence, including the later self-description and commentary. Keep the initial line qualified rather than treating its proximity to Kazuma as explicit attribution, or converting the Vanir reading into a tagged quotation."
+    },
+    {
+      "id": "C51-ARTM04-Q03",
+      "affected": [
+        "ART-CHEERS-S031 current_observation underchurch100floors",
+        "MAIN-04-IMG007 reading_scope_and_limit established100-floor dungeon"
+      ],
+      "before": "100 floors",
+      "current": "The printed depth is １０００階, one thousand floors. It occurs in Megumin imagined case and is itself supposition; it establishes no surveyed or actually visited dungeon, monster encounter or performed Explosion.",
+      "basis": "The same printed numeral and hypothetical phrasing are legible in both native versions.",
+      "original_annotations_retained": true,
+      "authored_after_seal_utc": "2026-10-25T20:53:24.750950+00:00",
+      "current_precision": "The printed depth is １０００階, one thousand floors. It occurs in Megumin imagined case and is itself supposition; it establishes no surveyed or actually visited dungeon, monster encounter or performed Explosion.",
+      "supersedes_numeric_part_only_of": [
+        "M04EX-Q16"
+      ],
+      "preserved_other_Q16_limits": "Imagined setting, no performed Explosion, explicit Eris refusal, unfinished alternative and no completed conversion/body act."
+    },
+    {
+      "id": "C51-ARTM04-Q04",
+      "affected": [
+        "ART-CHEERS-S032",
+        "ART-CHEERS-S033",
+        "MAIN-04-IMG010",
+        "MAIN-04-IMG011",
+        "ART-CHEERS-ILLUSTRATED-V04-01 duplicate_route"
+      ],
+      "current": "The four artbook pages visually recompose the same seven-image color sequence. One wide Main04 image is split across artbook pages026–027. Whole-resource hashes differ, so visual correspondence is established without whole-image byte identity. The represented wishes retain the explicit imagination frame and Vanir claim that they will not come true. His closing claim is not an independently observed later outcome.",
+      "basis": "All eleven complete native images were viewed and compared; no cross-set complete-image hash matches.",
+      "no_new_repeated_event_or_independent_credit": true,
+      "authored_after_seal_utc": "2026-10-25T20:53:24.750950+00:00",
+      "current_precision": "The four artbook pages visually recompose the same seven-image color sequence. One wide Main04 image is split across artbook pages026–027. Whole-resource hashes differ, so visual correspondence is established without whole-image byte identity. The represented wishes retain the explicit imagination frame and Vanir claim that they will not come true. His closing claim is not an independently observed later outcome."
+    },
+    {
+      "id": "C51-ARTM04-Q05",
+      "affected": [
+        "MAIN-04-IMG006 vendor",
+        "MAIN-04-IMG007 町人A",
+        "MAIN-04-IMG008 off-panel recruiting/coercing voice",
+        "MAIN-04-IMG009 admirers",
+        "MAIN-04-IMG011 frame and imagined company"
+      ],
+      "current": "These source-local roles and represented reactions require typed access. The labeled townsperson has a Kazuma-like depiction but no explicit Kazuma name tag. The vendor offer, shop-benefit hope, claimed dungeon, imposed demand and crowd requests are not automatically actual main-prose transactions or additional unique people. Framing dialogue remains observable speech in the illustrated source; it is distinct from the nested unaccomplished cases and from separately attended main prose.",
+      "basis": "Actual image labels, speaker visibility, request/response boundaries and the complete framing sequence.",
+      "no_forced_identity_join_or_person_increment": true,
+      "authored_after_seal_utc": "2026-10-25T20:53:24.750950+00:00",
+      "current_precision": "These source-local roles and represented reactions require typed access. The labeled townsperson has a Kazuma-like depiction but no explicit Kazuma name tag. The vendor offer, shop-benefit hope, claimed dungeon, imposed demand and crowd requests are not automatically actual main-prose transactions or additional unique people. Framing dialogue remains observable speech in the illustrated source; it is distinct from the nested unaccomplished cases and from separately attended main prose."
     }
   ]
 }
