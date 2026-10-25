@@ -6062,3 +6062,9 @@ Publication follows the current repository integration checklist. Routing-curren
 - No PACTRIH score or cross-series ethical placement is assigned before source-grounded evidence is sufficient.
 - No character registry edit is implied by creating this analytical root; character discovery remains under the repository's separate curation authority.
 ````````````````
+
+### V19 PR332 review corrections — live selectors and archive measurement
+
+PR332 review4370355501/4370355503 identified stale live V18 selectors below the V19 horizon. Protocol§17 now applies all seven coordinates to the actual V19 boundaries, including Liliana's retrieval/rest before unshown transport and Regulus's narrated terminal default with no current living reply. Knowledge§6 now selects K655–705 plus the revised current bases and preserves older increment horizons. Both complete prior V18 selector paragraphs remain literal in labeled historical blocks; formal protocol§§19–21 and all claim/knowledge records remain exact.
+
+Review4370355504 identified a measurement-label error in the new archive wrapper: the V14 inner body is104772bytes/SHAe01e08c669880a8a03d5b1fc3f1a2b0ff8e12f666a4e69c8de95ec1721c3cb7b, while the complete original fenced block remains104798bytes/SHA47897a4acc49bea6b73077f502acb4090be840e3fc6ecd98dd325a431b74d52f. The stored payload, original fences, extents, routers and native full inverse are unchanged. The frozen V19 reading and all47 entering protected artifacts remain exact; the fixed17355-byte outgoing V20body keeps SHAbc9edf56ab9f39d8c87eab9a2f152df6c1f329c9bc3713339ded080669aac718. These are current-router/wrapper corrections within the pending V19 transaction, not a new source analysis or model/review grade.

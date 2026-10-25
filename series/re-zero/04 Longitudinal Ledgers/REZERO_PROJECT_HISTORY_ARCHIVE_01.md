@@ -1651,7 +1651,7 @@ Current371 claims comprise340 exact predecessor adjudications (218PRESERVE/94STR
 
 ## V19 relocated V14 claim block from project log
 
-Original home: `series/re-zero/REZERO_PROJECT_CHANGELOG.md` at knowncommiteb7a50f6932bac017a69a911c8a7c5fb7cbaefaf. Exact declared inner payload 104798bytes/SHA47897a4acc49bea6b73077f502acb4090be840e3fc6ecd98dd325a431b74d52f; complete stored block including original fences 104798bytes/SHA47897a4acc49bea6b73077f502acb4090be840e3fc6ecd98dd325a431b74d52f. Origin log is project-root; moved payload has zero Markdown or HTML URL targets. The complete entering map stays in the project-root log and is not moved. Earlier current/endpoint labels retain their named volume.
+Original home: `series/re-zero/REZERO_PROJECT_CHANGELOG.md` at knowncommiteb7a50f6932bac017a69a911c8a7c5fb7cbaefaf. Exact declared inner payload 104772bytes/SHAe01e08c669880a8a03d5b1fc3f1a2b0ff8e12f666a4e69c8de95ec1721c3cb7b; complete stored block including original fences 104798bytes/SHA47897a4acc49bea6b73077f502acb4090be840e3fc6ecd98dd325a431b74d52f. Origin log is project-root; moved payload has zero Markdown or HTML URL targets. The complete entering map stays in the project-root log and is not moved. Earlier current/endpoint labels retain their named volume.
 
 ````````````````````````````````markdown
 ````````markdown

@@ -894,7 +894,13 @@ V16 current maintenance: K001/K002/K005 revised with exact preimages; K496–545
 
 ## 6. Disclosure and restoration safeguards
 
+Current V19 selection uses K655–705 and the revised cumulative K001/K002/K005 bases. Earlier increments retain their stated horizons and remain material where their facts carry forward; K602–654 is the dated V18 increment, not the latest selection boundary. Select actual recipients separately for Emilia's corrective-trust statement to the wives, private Regulus family/recognition/terminal knowledge, Liliana's unnoticed awakening/private future thought, Subaru's concealed return intention/ingress and the narrated Anastasia defense. Actual53-wife survival corrects the earlier sacrifice assumption without making every private fact common knowledge. Accurate receipt of a claim is not independent world truth, universal consent, an absent person's answer or another actor's knowledge. The earlier volume-specific examples below retain their named historical horizons.
+
+Historical V18 safeguard router — exact retained paragraph:
+
+````````markdown
 Current V18 selection uses K602–654 and the revised cumulative bases; every older increment keeps its stated historical horizon. Public metia, three matching mirrors, Al's separate pair, private patient/family/Tome talk and Otto's final focalization have different recipients. Accurate receipt of a claim is not independent world truth, universal consent or another actor's knowledge.
+````````
 
 Historical V16 safeguard router — exact retained paragraph:
 

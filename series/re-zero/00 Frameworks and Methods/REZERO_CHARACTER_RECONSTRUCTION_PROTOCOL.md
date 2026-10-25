@@ -331,7 +331,17 @@ Current V15 application after the complete source gate: select living E018 at th
 
 Current Beatrice15 derived-use reconciliation: the implemented model/review supplies the explicit V01–V15 selector required by the historical V15 paragraph above. Living E018 party default retains chosen finite contract, spent-reserve limit, ordinary friendship and earlier-state/counterevidence controls. Local same-analyst nonblind documentary PASS_WITH_BOUND is not a current model for other people, independent runtime, full publication or cure. No erased history/RBD/tea/private threat/Omega knowledge is granted. Earlier models retain exact reviewed scopes/defaults/grades; three separately earned constructions precede source16 after each complete gate.
 
+Current V19 application: select development, event, knowledge, remembered history, recipient, role/status and bodily/resources separately at the named person's actually supported phase. Subaru remains living E021 with20 observed deaths/21 arrived segments. All53 wives survive suspension/thaw; Regulus's terminal drowning is narrated, Tina is actually rescued and Kiritaka actually retrieves Liliana. Those local outcomes do not complete the other duels, Sirius's fate, promised transport or all-city recovery. No new death21/E022, sleeping person's reply, universal healing or automatically inherited source/grade follows.
+
+The earned Liliana V01–V19 construction must default to `V19_E021_KIRITAKA_CANAL_RETRIEVAL_BEFORE_UNSHOWN_TRANSPORT`: actually retrieved, exhausted, accepting rest and setting a sleeping-access boundary, with no new waking or completed transport. The earned Regulus V01–V19 construction must default to `V19_E021_TERMINAL_DROWNING_NARRATED_NO_CURRENT_LIVING_REPLY`: narrated terminal fate permits no current living answer, while surface characters' receipt remains bounded. Earlier waking/living dialogue requires an explicit supported override of all seven coordinates. Neither construction/review/pass exists at this readiness horizon; §0 and master§13 govern their separate required gates before V20.
+
+Thirteen historical model/review scopes, defaults and local grades remain exact. V19 current use needs explicit ordinary/voice/holder/recipient/counterevidence reconciliation and cannot merely relabel an older default. All earlier 'Current VNN' applications above and the retained V18 paragraph below are historical at their named source horizons. Unsupported coordinates still require abstention.
+
+Historical V18 application — exact prior §17 selector:
+
+````````markdown
 Current V18 application: select each person's latest actually supported livingE021phase or an explicit earlier override. No new death21/E022, waking partner reply, completed tower outcome, universal healing or inherited source/grade follows. All earlier 'Current VNN' applications above retain their own historical source meaning. Current-use reconciliation must include the new ordinary/voice/recipient failures and received corrections, not simply relabel an older default. Unsupported coordinates still require abstention.
+````````
 
 ## 18. Readiness and promotion
 
