@@ -25,7 +25,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`harmony`](characters/index/harmony.md) | 6 |
 | [`idoly-pride`](characters/index/idoly-pride.md) | 22 |
 | [`kimishinu`](characters/index/kimishinu.md) | 3 |
-| [`konosuba`](characters/index/konosuba.md) | 14 |
+| [`konosuba`](characters/index/konosuba.md) | 20 |
 | [`legend-of-the-galactic-heroes`](characters/index/legend-of-the-galactic-heroes.md) | 2 |
 | [`maebashi-witches`](characters/index/maebashi-witches.md) | 7 |
 | [`mass-effect`](characters/index/mass-effect.md) | 2 |
@@ -125,6 +125,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Duke](characters/index/konosuba.md#duke) | Original light-novel continuity, bounded expanded cohort | `konosuba:duke@original-light-novel` | デューク |
 | [Dust](characters/index/konosuba.md#dust) | Original light-novel continuity, bounded expanded cohort | `konosuba:dust@original-light-novel` | — |
 | [Effa](characters/index/ascendance-of-a-bookworm.md#effa) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:effa@light-novel` | — |
+| [Eibram](characters/index/konosuba.md#eibram) | Original light-novel continuity, bounded expanded cohort | `konosuba:eibram@original-light-novel` | トランザム・ルッソ・エイブラム |
 | [Eiko](characters/index/maebashi-witches.md#eiko) | Maebashi Witches anime | `maebashi-witches:eiko@anime` | — |
 | [Elinalise Dragonroad](characters/index/mushoku-tensei.md#elinalise) | Japanese light-novel continuity | `mushoku-tensei:elinalise@light-novel` | — |
 | [Elsa](characters/index/re-zero.md#elsa) | Re:Zero main light novel | `re-zero:elsa@light-novel` | — |
@@ -281,6 +282,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Mami Nanami](characters/index/rent-a-girlfriend.md#mami-nanami) | Main manga continuity | `rent-a-girlfriend:mami-nanami@manga` | — |
 | [Mamiya Kanoko](characters/index/watayuri.md#mamiya-kanoko) | Japanese manga | `watayuri:mamiya-kanoko@manga` | — |
 | [Mari Otsu](characters/index/sayonara-lara.md#mari-otsu) | Television anime continuity | `sayonara-lara:mari-otsu@anime` | — |
+| [Megumi](characters/index/konosuba.md#megumi) | Original light-novel continuity, bounded expanded cohort | `konosuba:megumi@original-light-novel` | メグミ |
 | [Miach Mihie](characters/index/harmony.md#miach-mihie) | Original novel, bounded comparative ethics | `harmony:miach-mihie@original-novel` | Miaha |
 | [Midori](characters/index/blue-archive.md#midori) | Blue Archive game | `blue-archive:midori@game` | — |
 | [Midoriya Izuku](characters/index/my-hero-academia.md#midoriya-izuku) | My Hero Academia manga | `my-hero-academia:midoriya-izuku@manga` | — |
@@ -333,12 +335,15 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Oscar Stauffenberg](characters/index/harmony.md#oscar-stauffenberg) | Original Japanese novel continuity | `harmony:oscar-stauffenberg@original-novel` | — |
 | [Otto](characters/index/ascendance-of-a-bookworm.md#otto) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:otto@light-novel` | — |
 | [Otto Suwen](characters/index/re-zero.md#otto-suwen) | Re:Zero main light novel | `re-zero:otto-suwen@light-novel` | オットー・スーウェン |
+| [Ozuma](characters/index/konosuba.md#ozuma) | Original light-novel continuity, bounded expanded cohort | `konosuba:ozuma@original-light-novel` | ザトゥ・オズマ |
 | [Paul](characters/index/mushoku-tensei.md#paul) | Japanese light-novel continuity | `mushoku-tensei:paul@light-novel` | — |
 | [Perie](characters/index/konosuba.md#perie) | Original light-novel continuity, bounded expanded cohort | `konosuba:perie@original-light-novel` | ペリエ |
+| [Pickles](characters/index/konosuba.md#pickles) | Original light-novel continuity, bounded expanded cohort | `konosuba:pickles@original-light-novel` | トランザム・ルッソ・ピクルス |
 | [Platypus tissue cover](characters/index/shuukura.md#platypus-tissue-cover) | Original Japanese light-novel continuity and author supplements | `shuukura:platypus-tissue-cover@original-light-novel` | — |
 | [Priscilla Barielle](characters/index/re-zero.md#priscilla-barielle) | Re:Zero main light novel | `re-zero:priscilla-barielle@light-novel` | プリシラ・バーリエル |
 | [Queen](characters/index/to-be-hero-x.md#queen) | To Be Hero X animated series | `to-be-hero-x:queen@animated-series` | — |
 | [Raiden Shuga](characters/index/86-eighty-six.md#raiden-shuga) | 86 - Eighty-Six original light novels | `86-eighty-six:raiden-shuga@original-light-novels` | ライデン・シュガ |
+| [Rakuresu](characters/index/konosuba.md#rakuresu) | Original light-novel continuity, bounded expanded cohort | `konosuba:rakuresu@original-light-novel` | ラクレス |
 | [Ram](characters/index/re-zero.md#ram) | Re:Zero main light novel | `re-zero:ram@light-novel` | — |
 | [Rei](characters/index/tokyo-7th-sisters.md#first-spirit-rei) | Tokyo 7th Sisters game | `tokyo-7th-sisters:first-spirit-rei@game` | — |
 | [Reiner Braun](characters/index/attack-on-titan.md#reiner-braun) | Attack on Titan manga | `attack-on-titan:reiner-braun@manga` | — |
@@ -443,6 +448,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Wakaouji Rui](characters/index/tokyo-7th-sisters.md#wakaouji-rui) | Tokyo 7th Sisters game | `tokyo-7th-sisters:wakaouji-rui@game` | — |
 | [Wanibuchi Emoco](characters/index/tokyo-7th-sisters.md#wanibuchi-emoco) | Tokyo 7th Sisters game | `tokyo-7th-sisters:wanibuchi-emoco@game` | — |
 | [Wilhelm van Astrea](characters/index/re-zero.md#wilhelm-van-astrea) | Re:Zero main light novel | `re-zero:wilhelm-van-astrea@light-novel` | ヴィルヘルム・ヴァン・アストレア |
+| [Wolfgang Crow](characters/index/konosuba.md#wolfgang-crow) | Original light-novel continuity, bounded expanded cohort | `konosuba:wolfgang-crow@original-light-novel` | ヴォルフガン・クロウ |
 | [Woo Jinchul](characters/index/solo-leveling.md#woo-jinchul) | Solo Leveling original Korean novel | `solo-leveling:woo-jinchul@original-korean-novel` | — |
 | [Xiao Yueqing](characters/index/to-be-hero-x.md#xiao-yueqing-moon) | To Be Hero X animated series | `to-be-hero-x:xiao-yueqing-moon@animated-series` | Moon |
 | [Yamai Saori](characters/index/tokyo-7th-sisters.md#yamai-saori) | Tokyo 7th Sisters game | `tokyo-7th-sisters:yamai-saori@game` | — |
