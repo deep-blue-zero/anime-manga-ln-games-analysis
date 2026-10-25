@@ -1,0 +1,426 @@
+{
+  "schema": "konosuba.cohort48.receiving-and-provenance.v1",
+  "status": "SCOPED_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+  "received_utc": "2026-10-25T15:05:58.178067+00:00",
+  "source_baseline": "fcc404eb8ef5eb60925ea9fd15d8c82dd354a325",
+  "current_main": "f0d17c618ff5fd6749f1c9ef4dbdf717a0534b34",
+  "remote_series_baseline": "fcc404eb8ef5eb60925ea9fd15d8c82dd354a325",
+  "private_complete_core_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
+  "private_complete_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
+  "received_artifact_bindings": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_AMARYLLIS_CHARACTER_MONOGRAPH.md",
+      "bytes": 8887,
+      "sha256": "c2fe082d485c7ceb1eab5dcfa67632ee131bfb35ad00752f791222c219c78b71",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md",
+      "bytes": 4833,
+      "sha256": "126e8e5bb356566cf490eb111e8abd0fb9575ea8a11546b5efb511c2b895d280",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT48_SUPPORTING_ENCOUNTER_PROFILES.md",
+      "bytes": 8557,
+      "sha256": "d68f312fd4df275857efda301a3e378f9f4928dccf713027b81a4c46f195fd9d",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUNGEON_VAMPIRE_OWNER_CHARACTER_MONOGRAPH.md",
+      "bytes": 8666,
+      "sha256": "a17bc168b1ab426dd87e29c0a0a80932fb098a2322445a845568a27070fde614",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_STELLA_CHARACTER_MONOGRAPH.md",
+      "bytes": 7884,
+      "sha256": "83e51cab02743729a39925b2a6fe73b3d42743e0c77da2fd88baa261924b15b7",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_EXACT_INPUT_PACKET_NOTE_01.md",
+      "bytes": 1253,
+      "sha256": "47dd2b09729e2f61cbe6239bde2e100c594b0630a09d1530bb54656d77e62e0d",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_FIRST_OUTPUTS_01.json",
+      "bytes": 5828,
+      "sha256": "28ae1dfd8b10a4b9301b1366b3658339e7a7fc10f5458ccef4273ca941f944b8",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_PAIRED_FIRST_DIAGNOSTIC_01.json",
+      "bytes": 6961,
+      "sha256": "dedafc98461500145a7fb37afe08cbfd3e2e4914ccbdb8838f20fbcd905d7626",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_PAIRED_FIRST_DIAGNOSTIC_01.md",
+      "bytes": 4739,
+      "sha256": "27fcdd7f097d00417c20240cb7c688e2393ffcc86f7efff9234a2e439ff7d16d",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_PAIRED_INPUT_DESIGN_01.json",
+      "bytes": 3269,
+      "sha256": "97f3ecd58b1e1fdc7b3fa8e9fed6a3eaa8df432a1bb41098bfa562d77c1fe8b4",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_RULE_INVENTORY_01.json",
+      "bytes": 5713,
+      "sha256": "86be9296272947fa8f5a674460d0a9aaa5b30bc7c1ff5ca31ee13e7befbe7bfd",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_A1_FIRST_01.txt",
+      "bytes": 603,
+      "sha256": "bbf5ec2e0ca6d9f543ee25610e49f23780af75e9c30122d3e2986d7a366d9d94",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_A1_INPUT_01.json",
+      "bytes": 2260,
+      "sha256": "f4ce63c6e4282033239b49c1ddb0e029cf9a76e73a3eb7a3924cac7579097e01",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_A1_INPUT_01.txt",
+      "bytes": 2279,
+      "sha256": "24b1791b477387b1ed6b6aa66771bca2b76fc8d22974010b682417d92e0680ba",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_A2_FIRST_01.txt",
+      "bytes": 644,
+      "sha256": "443d0dd11b8207a600be4f92648cddeef4b34ece94ebbc34867baa6e75fecf68",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_A2_INPUT_01.json",
+      "bytes": 2258,
+      "sha256": "8086228ba11f67982cfe9e521f90fda03b9ef95fc413b810060b8f51ba323940",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_A2_INPUT_01.txt",
+      "bytes": 2277,
+      "sha256": "909bad17561b66894cae986debcd13c6868a9c2eae2383c5cb7338a74c7edbb9",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_B1_FIRST_01.txt",
+      "bytes": 679,
+      "sha256": "50d87fee5555ef1cc129fabce0926c4c12c9de3cf9180b039fd3059763099d13",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_B1_INPUT_01.json",
+      "bytes": 2616,
+      "sha256": "cb63c5de8e8c6ebe4c405bc432694359c00015cf39fe0c015cdf341fad5035b1",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_B1_INPUT_01.txt",
+      "bytes": 2635,
+      "sha256": "a82807f445f058c70090367f0ed95acff7ddf9badd7a12a7e3ebbaf751e34bbc",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_B2_FIRST_01.txt",
+      "bytes": 673,
+      "sha256": "233378dd7166ab9405947fabe8292e6af8d7879b18222e8fd61089a5e42ce5a6",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_B2_INPUT_01.json",
+      "bytes": 2635,
+      "sha256": "70d4b1f0bb16c70d706bc013c01490634dfcb5542cfcaa67c207777a2e9f85c0",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_B2_INPUT_01.txt",
+      "bytes": 2654,
+      "sha256": "21b8aad0ed5c54e3b7ef04b704adb63b9773289688176bc9d9602956328cdbae",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AMARYLLIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 5881,
+      "sha256": "2e2f17bc22cac4e4c8cf9d90aaa2da85b69ff6624319b10143e4e3d5febe8dd7",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md",
+      "bytes": 8797,
+      "sha256": "4a9a0da4c6505def720c810b5e517581d3bf657426981ccd5c85a2e7f8c3136e",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+      "bytes": 17298,
+      "sha256": "a90ec78ca552730fb3b46688e0dd7be73be6d8e0eb264d48eeaed03d960b999f",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "bytes": 4531,
+      "sha256": "5cdc9609befcd93dc9c861b1fa7784cc3a934c1ee6df04250bcd2f9ff85ddc69",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SUPPORTING_DIMENSION_AUDIT_01.json",
+      "bytes": 12983,
+      "sha256": "1457eca92c240deb7ec150e682659dc2ffc3bece364449ca8d1e4e09dd896ed7",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_TYPED_SUPPORTING_ROUTES_01.json",
+      "bytes": 53658,
+      "sha256": "25c4596496e8839734b86a28b2873c420d9df23ca5113ebc68887541913acf5b",
+      "verbatim_frozen_body": true
+    }
+  ],
+  "freeze_receipts": {
+    "foundation": {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_FOUNDATION_FREEZE_01.json",
+      "sha256": "27a5a7915ed1d04035d745a498bddbbecc66d4866e08e16c114a78a550146cb5"
+    },
+    "exact_inputs": {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_EXACT_INPUT_FREEZE_01.json",
+      "sha256": "d026b068d277f68f5969ad7ca8dad70f4b827e81aa2ec01af35ba39b4b95cab9"
+    },
+    "original_firsts": {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_ORIGINAL_FIRSTS_SEAL_01.json",
+      "sha256": "e8603fdd669d55212630759dd16fd64d48f7e416f216d994adca6f1e5ad327f0"
+    },
+    "supporting": {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SUPPORTING_FREEZE_01.json",
+      "sha256": "d973ca75c135cb83b6f745c4269444e1281cfac13b98fa8e0531b3c85124b2f8"
+    }
+  },
+  "current_source_qualifications": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+    "sha256": "5cdc9609befcd93dc9c861b1fa7784cc3a934c1ee6df04250bcd2f9ff85ddc69"
+  },
+  "candidate_totals": {
+    "model_artifacts": 71,
+    "source_scoped_secondary_model_entries": 65,
+    "bounded_profile_passages": 193,
+    "monograph_only_source_studies": 60,
+    "nonfinal_source_access_records": 732
+  },
+  "individual_dispositions": [
+    {
+      "row": 126,
+      "subject": "Unnamed MAIN16 dungeon vampire owner",
+      "tier": 2,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUNGEON_VAMPIRE_OWNER_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 151,
+      "subject": "Stella / ステラ",
+      "tier": 2,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_STELLA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 152,
+      "subject": "Gil / ギル",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#gil-plans-under-interrupted-threat"
+    },
+    {
+      "row": 153,
+      "subject": "Gain / ゲイン",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#gain-an-injury-behind-the-spilled-treasure"
+    },
+    {
+      "row": 154,
+      "subject": "Stella unnamed younger sister",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#stellas-younger-sister-fear-within-a-working-party"
+    },
+    {
+      "row": 155,
+      "subject": "Amaryllis / アマリリス",
+      "tier": 3,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_AMARYLLIS_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 156,
+      "subject": "Stesky / ステスキー, MAIN16 reported pet",
+      "tier": 0,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#stesky-a-named-report-with-unresolved-recurrence"
+    }
+  ],
+  "source_scope": {
+    "current_unique_structural_P": 1895,
+    "current_ruby_occurrences": 1862,
+    "actual_source_review_pages": 46,
+    "known_EPUB_objects": 14,
+    "unique_native_members": 20,
+    "complete_paragraph_ruby_narrative_members": 4,
+    "complete_paragraph_ruby_author_paratext_members": 1,
+    "current_images_viewed": 0,
+    "current_residuals_received": 0,
+    "new_whole_edition_global_first_or_independent_credit": 0,
+    "source_known_same_informed_root": true
+  },
+  "complete_receiving": {
+    "source_review_pages": 46,
+    "foundation_review_pages": 20,
+    "foundation_correction_pages": 2,
+    "exact_input_review_pages": 7,
+    "input_clarification_pages": 2,
+    "original_firsts": 4,
+    "dependent_pairs": 2,
+    "diagnostic_review_pages": 4,
+    "supporting_review_pages": 20,
+    "supporting_precision_pages": 4,
+    "existing_current_row_review_pages": 17,
+    "full_profile_dimension_audit_index_received": true
+  },
+  "census": {
+    "changed_existing_rows": [
+      126,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156
+    ],
+    "unchanged_entering_rows": 687,
+    "new_rows": [
+      694,
+      695,
+      696,
+      697,
+      698,
+      699,
+      700,
+      701,
+      702,
+      703,
+      704,
+      705,
+      706,
+      707,
+      708,
+      709,
+      710,
+      711,
+      712,
+      713,
+      714,
+      715,
+      716,
+      717,
+      718,
+      719,
+      720,
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      727,
+      728,
+      729,
+      730,
+      731
+    ],
+    "new_Tier1": 6,
+    "new_Tier0": 32,
+    "part_rows": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      12
+    ],
+    "separate_private_inline_candidate": "WORK135; immutable WORK134 retained",
+    "historical19_differences_preserved": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "all_independent_observation_counts_null": true,
+    "no_unique_person_denominator": true,
+    "typed_relation_contract": "Possible identity differs from group/member overlap,possible role filler,comparison,known context and exclusion. A local speaker can be identical to another speaker without a group-identity claim. Groups,states of one body,reported roles,fabricated and uninstantiated referents are not independent new people. All relation arrays/edges and artifact arrays are unique; each existing target has one relation category per route.",
+    "cohort_occurrence_edges_are_access_edges_not_new_independent_people": true
+  },
+  "frozen_history": {
+    "all70_entering_models_prior_firsts_scores_adverse_blanks_nulls_exact": true,
+    "all25_C48_core_pins_exact_after_feedback": true,
+    "new_models": 1,
+    "new_rules": 2,
+    "new_original_firsts": 4,
+    "dependent_pairs": 2,
+    "source_known_same_informed_root": true,
+    "independent_generic_baseline_run": false,
+    "model_rule_input_first_diagnostic_repair_after_feedback": false,
+    "independent_observation_count": null,
+    "numeric_accuracy": null,
+    "grade": null,
+    "confidence_gain": false,
+    "Japanese_or_acoustic_certification": false,
+    "final_StageD_battery_credit": false,
+    "authorship_phase_and_zero_first_flags_in_frozen_files_describe_their_original_sealed_stage": true
+  },
+  "diagnostic_findings": [
+    "B2unprovided prior loneliness speech; possible cross-pair contamination",
+    "Both Bprior voice-state descriptions unsupplied",
+    "Both Bcostumes stop; register/accommodation does not isolate stopping mechanism",
+    "A coy pacing/limited action discrimination and generic/prompt rivals remain"
+  ],
+  "baseline_authority": {
+    "C47_author_source": "fcc404eb8ef5eb60925ea9fd15d8c82dd354a325",
+    "C47_own_full_audit_run": 40196405542,
+    "full_discovered_tests": 479,
+    "C47_latest_trusted_status": 57202515121,
+    "C47_reviewed_closing_paths": 12,
+    "refreshed_main": "f0d17c618ff5fd6749f1c9ef4dbdf717a0534b34",
+    "main_already_ancestor": true,
+    "active_PR335_last_observed_open": true,
+    "owner_current_bindings": 110,
+    "owner_controls_unchanged": 12,
+    "author_global_curation_or_grade_write": false
+  },
+  "publication_pending": [
+    "complete candidate operation review",
+    "exact-index author preflight",
+    "ordinary publication",
+    "whole remote tree and every changed byte-stream verification",
+    "new actual-source full discovered-suite audit and latest trusted isolated status",
+    "fresh published-authority reload"
+  ],
+  "private_native_caches_or_absolute_filesystem_paths_exported": false,
+  "global_percentage": null,
+  "full_program_complete": false
+}

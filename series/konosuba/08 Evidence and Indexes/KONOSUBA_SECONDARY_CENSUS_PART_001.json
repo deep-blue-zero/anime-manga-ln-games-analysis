@@ -577,11 +577,19 @@
       "cohort46_semantic_receiving_sha256": "d819a2618b54945dd8c5a111782a28080b1fffd1a6b78979e703fa190c5d3ffd",
       "cohort46_supporting_freeze_sha256": "cb8f4d207c7859074f5bce8ac1a5d9fc3094230b2e09727ad851f0a19d43c6e6",
       "cohort46_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
-      "cohort46_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "cohort46_current_receiving": "Exact-source author publication is closed for this scoped C46 study or source supplement. Current source qualifications and typed relations govern; all original histories remain preserved. No model-maturity, independent-performance or unique-person claim.",
       "cohort46_source_supplement": {
         "source": "YORI04U014492-555",
         "finding": "Luna recognizes retirement, hears Dark Stalker personal unpaid offer and later accepts a concrete peaceful-life patrol proposal after separate assent.",
         "limit": "No paid employment, performed patrol or assent borrowed from Assassin; frozen Luna model and earlier fields stay exact."
+      },
+      "prior_cohort46_publication_fields": {
+        "cohort46_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain."
+      },
+      "cohort46_publication_resolution": {
+        "source": "3c3eed797bac620a9b6c78ca50349ab88fde61f7",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "ec4a93d07e7258ffe96c673af3c08d9d0274a05a3116d64e6701d98af0fb239a"
       }
     },
     {
@@ -1773,11 +1781,19 @@
       "cohort46_semantic_receiving_sha256": "d819a2618b54945dd8c5a111782a28080b1fffd1a6b78979e703fa190c5d3ffd",
       "cohort46_supporting_freeze_sha256": "cb8f4d207c7859074f5bce8ac1a5d9fc3094230b2e09727ad851f0a19d43c6e6",
       "cohort46_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
-      "cohort46_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "cohort46_current_receiving": "Exact-source author publication is closed for this scoped C46 study or source supplement. Current source qualifications and typed relations govern; all original histories remain preserved. No model-maturity, independent-performance or unique-person claim.",
       "cohort46_source_supplement": {
         "source": "YORI04U02013-23/28-31/250-396/435",
         "finding": "Ignis returns with soldiers, admits his assignment responsibility, physically intercepts the coatl spear/wire danger and later grants pardon in the printed sequence.",
         "limit": "Actual family harm and physical cost remain; no invulnerability, universal command success or borrowed crowd acts. Existing Ignis model/firsts stay exact."
+      },
+      "prior_cohort46_publication_fields": {
+        "cohort46_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain."
+      },
+      "cohort46_publication_resolution": {
+        "source": "3c3eed797bac620a9b6c78ca50349ab88fde61f7",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "ec4a93d07e7258ffe96c673af3c08d9d0274a05a3116d64e6701d98af0fb239a"
       }
     },
     {

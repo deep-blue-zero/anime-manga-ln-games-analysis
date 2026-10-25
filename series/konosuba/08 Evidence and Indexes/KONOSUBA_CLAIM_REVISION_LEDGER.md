@@ -526,3 +526,17 @@ C45-CR01 corrects recovered Shumel father/son shorthand to the native woman and 
 C46 current addenda retain all47 historical YORI04 qualifications and frozen histories. The first C46 addendum narrows the elided escort-casting assertion, old census115 masculine wording, professional/worker identity and Anna action boundaries. Three later post-freeze qualifications have precedence for their exact assertions: PFQ01 weather-diviner/army-locust wording, PFQ02 pension-price comparison without itemized payment, PFQ03 Kazuma as Aqua Heal recipientU018624, with Angie blown away613 and no separate treatment. All47 core pins remain unchanged; old wording is visible history. Typed relation corrections prevent parents, generic species/roles and explicitly excluded Anna manifestations from becoming alias candidates. None supplies independent performance credit.
 
 [Current evidence index](KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+C47 preserves preparation history while explicitly correcting MAIN06U020 to the Aldarp-focalized fictional interlude, confirmed against the actual TOC, rather than author paratext. Nine frozen source qualifications retain the Winter sequence, unnamed sprite, beloved access, angel promise, Jatice report/fantasy/plan channels, remembered girl report and Heidel's unperformed proposals. The supporting mimic profile narrows active-deception wording to apparent lure and material response before its own seal; the26already frozen core bodies remain unchanged after feedback. Current C46 post-freeze qualifications for pension-price comparison, weather-diviner/army-locust wording and Kazuma as Heal recipient remain fully effective.
+
+[Current evidence index](KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+C48 preserves source and draft history while narrowing actual advice to Vanir as speaker,MASKpet recurrence to possible identity,and dragon breath88 to Vanir warning. The motorcycle wording does not certify the senior driving arrangement; the clothes giver is not automatically a known neighbor. Person-to-person civic-speaker possibilities use possible-identity edges,distinct from group membership. MAIN11U018 is an author afterword discussing another work,not canonical KonoSuba vampire evidence. Amaryllis invented biography is disavowed,her stop/register/apology sequence is ordered,and the owner ring remains untransferred. All25core bodies remain unchanged after feedback; four supporting bodies have separate pre-freeze precision review. Current C46post-freeze qualifications remain fully effective.
+
+[Current evidence index](KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

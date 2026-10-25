@@ -673,3 +673,17 @@ C45 foundations21artifacts/45complete review-and-correction pages froze before s
 C46 freezes twelve foundation bodies after39original+2complete correction pages, then eight exact English inputs after5original+1clarification pages, then eight genuine once-authored ordinal1 responses before feedback. Four dependent same-informed-root pairs test four narrow provisional rules without an independent generic run. Dark Stalker A2 adds an unprovided saw detail; B1 projects private intentions. Angie A2 negotiates more orderly than the source may warrant; cart B1 includes unbound payment wording. Both cart outputs attempt the lever, with no completed rescue or calibrated release threshold. Post-freeze source qualifications narrow meal/healing assertions while all47 core pins remain exact. No prompt, rule, first, diagnostic or old score is repaired.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+C47 freezes nine foundation bodies after twenty complete author-review pages and three correction pages; ten exact-input objects follow four full input pages and two possessive-copyedit review pages. Four genuine English ordinal1 originals are then authored once, sealed and actually received before feedback. Two dependent pairs vary recipient preference and curator approval. A2 adds an unrequested recipient-opinion warning; both card cases add an unrequested not-building-the-clock caution. A1's polished aphorism and narrator scaffolding weaken voice. Both card outputs choose the same name card, changing warrant/friction rather than demonstrating a different selected action. Generic butler, client obedience and prompt-following rivals remain sufficient. No original, rule, input, model or old score is repaired after feedback; no independent validation or final StageD credit follows.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+C48 freezes eight foundation objects after20full review pages/two precision pages,then ten exact-input objects after seven full pages/two clarification pages. Four genuine English ordinal-one originals are authored once,sealed and received before feedback. Two dependent informed-author pairs vary prior reassurance and recognizable voice in an explicit human rehearsal analogue. A changes warrant with coy pacing and limited action discrimination. Both Bcostumes stop; B2invents a prior loneliness explanation absent from its input,while both Bcases add unsupplied prior vocal states. Generic horror,ordinary performer/courtesy,prompt following and cross-pair contamination rivals remain. No original,model,rule,input or old score is repaired after feedback. No independent baseline,accuracy,grade,confidence gain,Japanese proof or final StageD credit follows.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -1,0 +1,37 @@
+{
+  "schema": "konosuba.cohort48.amaryllis-rule-inventory.v1",
+  "subject": "Amaryllis / アマリリス",
+  "status": "active_provisional",
+  "source_known_same_informed_root": true,
+  "rule_count": 2,
+  "rules": [
+    {
+      "id": "AMR-R01",
+      "status": "active_provisional",
+      "proposition": "For comparably unfamiliar listeners who can be frightened, Amaryllis tends to stage a sympathetic approach and frightening reveal for fear; if reassurance was actually offered, she can turn it into conversational pressure. This predicts a local tactic and preference, not compulsory lying or guaranteed audience fear.",
+      "support": "MAIN16U012273-279 moral placement/lonely conversation; fabricated history283/286 explicitly disavowed328; assurance requests293/296; reveal302, rapid approach304 and promise invocation309; actual listener distress300/307-315; own stated fear preference/chosen form328.",
+      "contrary": "Only one continuous encounter. Listeners start wary277; their initial good-person claims are qualified275-276. Vanir interrupts317-320. No restraint, bite, completed cure, candy delivery or measured consumption. Amaryllis stops and changes manner321-328; she does not continue the same tactic toward every audience.",
+      "rivals": "Generic devil appetite, horror-story construction, opportunistic entertainment, theatrical convention and comic narrator framing remain sufficient alternatives. The assurance sequence is observable but no independent comparison establishes its unique causal value.",
+      "applies_when": "Specify setting, audience knowledge, actual prior reassurance or refusal, visible form/props, possible fear and available means before output. Strongest scope is local staged-fright conversation. Skeptical or unfrightened audiences and different relationships are uncertain transfer, not confirming observations.",
+      "do_not_assume": "No real purchased-child biography, dead parents, magician, cure, exact true age or authentic original body. No sexualized child guise, universal lie policy, inability to eat other emotions, compulsory fear, consent from distress, promised words absent from inputs, invented restraint or completed pet recovery.",
+      "confidence": "Restricted provisional one-encounter hypothesis; fear preference is reported and consistent with observed staging, while causal discrimination and transfer remain weak. Independent observation count null; no score, grade, confidence gain or mature-model claim.",
+      "falsifier": "Comparable later canonical cases would weaken this rule if she repeatedly avoids frightening available listeners despite a favorable opportunity, or if prior assurances and staging consistently explain nothing. A hypothetical fabricated promise, forced fear, invented prop or completed cure is adverse output, not supporting canon."
+    },
+    {
+      "id": "AMR-R02",
+      "status": "active_provisional",
+      "proposition": "In a comparable recognizable-Vanir interruption, predict that Amaryllis stops the advancing scare performance and addresses him courteously; after he explicitly identifies the targets as his companions, predict apology/explanation rather than simply treating them as anonymous fear sources. Recognition and relation remain ordered, not an isolated universal rank law.",
+      "support": "MAIN16U012317-320 Vanir voice and actual stopped approach; respectful recognition321; Vanir companion disclosure324; apology and pet-search/account explanation325; candid fiction admission328; polite departing location request333 and bow/exit336.",
+      "contrary": "Stopping and formal recognition precede the companion disclosure; the source does not isolate its extra causal effect. Vanir himself respectfully addresses her as殿317/324. She does not confess private fear, promise reform or receive the pet location; his evasion334 leaves the search unresolved.",
+      "rivals": "Familiar acquaintance, rank deference, surprise, etiquette, respect for another performer, local social convenience and comic resolution may overlap. No independent comparison separates them; respectful address is not a calibrated hierarchy.",
+      "applies_when": "State whether recognizable Vanir is present/audible, what relationship he has explicitly disclosed, what she actually knows, and whether other threats or tasks exist. Strongest scope is the observed intervention sequence. Unknown strangers, forged rank claims or hidden friendships do not automatically trigger it.",
+      "do_not_assume": "No universal obedience to senior devils, private terror or affection, unconditional moral remorse, hidden prior knowledge of target affiliation, truth of every pet-search detail, automatic location disclosure, successful assistance or identification of the killed pursuer as Stesky.",
+      "confidence": "Restricted provisional local performance-change hypothesis supported by an ordered response, with intertwined cues and one continuous encounter. No independent validation, grade, confidence increase or Japanese-performance claim.",
+      "falsifier": "Comparable later canonical recognizable-Vanir interventions would weaken the rule if she consistently continues the same advance after acknowledged companion disclosure or refuses the courteous mode despite comparable conditions. Do not add secret orders or new danger after a mismatch. Merely polite hypothetical prose cannot confirm the cause."
+    }
+  ],
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "authorship_phase": "After complete current source receiving; full foundation review/freeze pending. Exact inputs and first originals uncreated.",
+  "full_program_complete": false
+}

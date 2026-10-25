@@ -1,0 +1,81 @@
+{
+  "schema": "konosuba.cohort47.heidel-paired-first-diagnostic.v1",
+  "authored_utc": "2026-10-25T12:08:27.096832+00:00",
+  "feedback_started_after_originals_seal_sha256": "ddcb8961cf73790477ece3c5aa16d3a4c890704f4646fc36ef3c49a129a028cc",
+  "original_bundle_sha256": "ad6bf8dade4d64c2886538fc7fdde01a2ab8f9ce9f98438a20e1fa8e3a62d095",
+  "actual_full_sealed_bundle_receiving": "5a80d8",
+  "foundation_freeze_sha256": "bd285c36cd90fe9dad086fdd979ae8f9d9b5274bfbc6e2f00a7d45f983f6c1bc",
+  "input_freeze_sha256": "2ee56c303bb236f711cd1cc7142b8f0416fef58dadeb364ed301daddd851d027",
+  "cases": [
+    {
+      "input_id": "HEI-A1",
+      "observed_output": "Asks Kazuma to distinguish leisure from study, tentatively suggests illustrated notes, explicitly lacks Rain instruction, leaves the other choice and offers preparing one packet. No recipient reply or achieved delivery.",
+      "input_discipline": "Uses stated two packets and one messenger/one-packet limit. No new paid resource or asserted actual Rain preference. It does not select both.",
+      "source_relation": "Practical question plus a face-preserving continuation resembles157-160 and formal deference; the unknown preference is retained. This is an informed authored analogy, not a canonical prediction outcome.",
+      "adverse_or_open": "The closing standard/two-ways reassurance is a polished aphorism with weak individual voice warrant. The narration builds smooth face-management into the scene, making mechanism presence partly author-supplied. Generic tactful service explains it as well.",
+      "category": "DEPENDENT_DIAGNOSTIC_WITH_VOICE_AND_RIVAL_LIMITS",
+      "original_sha256": "f88926e7309aeec8787c5d876413f5122c86882ed7b9777c6ffb5cf610dbc851",
+      "input_sha256": "63e5a8dac2b73040052cb2b4b462dd94881fab4b8e1a9c07463917a57d6b0a22",
+      "technical_word_count_whitespace_split": 128,
+      "independent_observation_count": null
+    },
+    {
+      "input_id": "HEI-A2",
+      "observed_output": "Selects requested illustrated notes based on supplied Rain note, leaves diagrams and states one-packet capacity. No achieved arrival or recipient response.",
+      "input_discipline": "Uses explicit preference rather than inventing it; no extra packet, messenger or transaction. Checking a title supplies a small scene-detail rather than a new causal resource; no claim that this is a canonical prop detail.",
+      "source_relation": "A practical selection under clear information fits local service; direct input cue alone suffices to explain changed certainty.",
+      "adverse_or_open": "The statement that Rain must be allowed her own opinion converts an epistemic limit into an unsolicited normative lecture. Warning against a second packet answers a request Kazuma did not make. The overly careful voice may belong more to the analyst than Heidel. Generic good service remains sufficient.",
+      "category": "DEPENDENT_DIAGNOSTIC_WITH_OVEREXPLICIT_CAUTION",
+      "original_sha256": "8d353f4b6710e477c955c0c27afd7e4c7cd6848860a6d3c9a6e7d169d4521e9b",
+      "input_sha256": "93937eec1e58ecb7c25e236632089701a144bbee4f427bba7d116bcdd829f1a0",
+      "technical_word_count_whitespace_split": 122,
+      "independent_observation_count": null
+    },
+    {
+      "input_id": "HEI-B1",
+      "observed_output": "Acknowledges curator prohibition, then picks up guest-name card after Kazuma request; expressly says instruction has not been withdrawn and cannot guarantee retention. No new approval or received display.",
+      "input_discipline": "Keeps prohibition as fact despite attempted facilitation; carries the existing chosen card, no hidden permission, replacement wording or completed successful display. Misconduct is not renamed consent.",
+      "source_relation": "Observable accommodation despite a relayed objection resembles184-191; source214limits successful reception. In this hypothetical role, curator authority and future enforcement remain supplied constraints.",
+      "adverse_or_open": "Repeated caution and refusal to embellish clock authorship are more explicit than observed Heidel assent188/191. Kazuma did not ask to claim construction or repair. The output could reflect generic client obedience plus analyst caveats; it does not identify a distinctive causal mechanism or establish severe-harm boundaries.",
+      "category": "DEPENDENT_DIAGNOSTIC_WITH_GENERIC_COMPLIANCE_RIVAL",
+      "original_sha256": "55cc710122f86046164755d775acf51234c32811c38c64bd2f13ddd19ff8063c",
+      "input_sha256": "b2423c630bb750e49b643c6ba4c571e69e1411e755d729fb1bca0a4aa33e3a6d",
+      "technical_word_count_whitespace_split": 128,
+      "independent_observation_count": null
+    },
+    {
+      "input_id": "HEI-B2",
+      "observed_output": "Chooses the same name card, explicitly matching curator approval and actual selection credit; leaves collection card and promises taking chosen card without achieved reception.",
+      "input_discipline": "Approved wording and actual selector identity remain exact; no upgraded maker/restorer claim, altered clock or guaranteed acceptance.",
+      "source_relation": "Straightforward service when guest and curator agree is a weak discriminator. Pair contrast concerns stated conflict/approval and caution, not a changed physical card choice.",
+      "adverse_or_open": "Final warning about improving the claim into having built the clock is unsolicited and not needed by the input. It may import the audit instructions into dialogue. Smooth formal service and polite praise are not sufficient proof of Heidel-specific voice.",
+      "category": "DEPENDENT_DIAGNOSTIC_WITH_UNSOLICITED_CORRECTION",
+      "original_sha256": "a82369c00b640de830db32a5e7cad4ad03e3396ac91b568574b6a7b08d947999",
+      "input_sha256": "d388398713647964b4ac4d94667df895398559dcff541786f485975ac4794069",
+      "technical_word_count_whitespace_split": 125,
+      "independent_observation_count": null
+    }
+  ],
+  "pair_findings": [
+    {
+      "pair_id": "HEI-A",
+      "contrast": "Absent preference produces a question/tentative suggestion; supplied request produces selection and firmer wording. Both preserve one-packet capacity and future reception uncertainty.",
+      "discrimination_limit": "Input information is an obvious sufficient cue; generic efficient/tactful service predicts the same difference. Both source and paired inputs were known to the author. No independent baseline was run."
+    },
+    {
+      "pair_id": "HEI-B",
+      "contrast": "Both choose guest-name card. B1 retains explicit prohibition while facilitating attempted guest choice; B2 cites actual approval. The distinction is conflict handling and voiced caveat rather than a changed physical choice.",
+      "discrimination_limit": "This is compatible with source-bound guest deference but also generic client obedience plus prompt-following caution. No independently identified motive or permission override is established."
+    }
+  ],
+  "diagnostic_consequence": "Retain restricted unvalidated model with serious role-template and English voice limitations. Do not call these source confirmations, mature capability, Japanese validation or improved accuracy. No source/model/rule/input/first is rewritten after this feedback. Future revision requires a distinct version and preserved adverse lineage.",
+  "all_firsts_retained_verbatim": true,
+  "regenerated_firsts": 0,
+  "independent_generic_baseline_runs": 0,
+  "independent_observation_count": null,
+  "score_or_grade_assigned": null,
+  "confidence_gain": null,
+  "not_final_battery_or_StageD_successor": true,
+  "canonical_changes": false,
+  "full_program_complete": false
+}

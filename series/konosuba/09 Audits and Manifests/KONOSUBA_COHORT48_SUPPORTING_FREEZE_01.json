@@ -1,0 +1,38 @@
+{
+  "schema": "konosuba.cohort48.source-safe-supporting-freeze.v1",
+  "frozen_utc": "2026-10-25T14:48:14.326801+00:00",
+  "private_complete_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
+  "pins": [
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md",
+      "bytes": 8797,
+      "sha256": "4a9a0da4c6505def720c810b5e517581d3bf657426981ccd5c85a2e7f8c3136e"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SUPPORTING_DIMENSION_AUDIT_01.json",
+      "bytes": 12983,
+      "sha256": "1457eca92c240deb7ec150e682659dc2ffc3bece364449ca8d1e4e09dd896ed7"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT48_SUPPORTING_ENCOUNTER_PROFILES.md",
+      "bytes": 8557,
+      "sha256": "d68f312fd4df275857efda301a3e378f9f4928dccf713027b81a4c46f195fd9d"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_TYPED_SUPPORTING_ROUTES_01.json",
+      "bytes": 53658,
+      "sha256": "25c4596496e8839734b86a28b2873c420d9df23ca5113ebc68887541913acf5b"
+    }
+  ],
+  "complete_original_review_pages": 20,
+  "complete_precision_review_pages": 4,
+  "full_profile_audit_index_review": true,
+  "bounded_profiles": 6,
+  "Tier0_source_access_routes": 32,
+  "new_records": 38,
+  "existing_supplement_rows": [],
+  "typed_relation_contract": "Possible identity differs from group/member overlap,possible role filler,comparison,known context and exclusion. A local speaker can be identical to another speaker without a group-identity claim. Groups,states of one body,reported roles,fabricated and uninstantiated referents are not independent new people. All relation arrays/edges and artifact arrays are unique; each existing target has one relation category per route.",
+  "all25_core_pins_exact_after_feedback": true,
+  "independent_or_grade_gain": 0,
+  "full_program_complete": false
+}

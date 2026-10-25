@@ -1,14 +1,14 @@
 ---
 series: KONOSUBA
 artifact_type: secondary_character_coverage_audit
-scope: INCREMENTAL_CENSUS_AND_SCOPED_COHORTS_01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42_43_44_45_46
+scope: INCREMENTAL_CENSUS_AND_SCOPED_COHORTS_01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42_43_44_45_46_47_48
 status: active_provisional
 do_not_use_as_current_authority: false
 ---
 
 # Secondary-character coverage audit
 
-This maintained register retains640 nonfinal source/access records. C46 scoped semantic receiving is complete and exact containing publication pending: five substantial studies, two restricted provisional models/four rules,17bounded profiles and68new routes. Candidate69model artifacts/63source-scoped secondary entries/177retained profile passages/56monograph-only studies are not distinct people or independent performance. Nine entering routes change,563others and19historical plane differences stay exact; all67entering models and earlier firsts/scores/blanks/nulls are preserved. Current post-freeze qualifications govern BOTH new model routes: pension-price comparison is not an itemized transaction, and Aqua Heals KazumaU018624 rather than Angie. Typed relations keep parents, comparisons and explicit exclusions out of alias candidates. See the [C46 index](KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md), [qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json) and [receiving](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json). Earlier wording remains dated history; full census,syntheses,successors,validation,designated integration and release continue.
+This maintained register retains 732 nonfinal source/access records. C48 scoped semantic receiving is complete with exact publication pending: three substantial monographs, one restricted provisional Amaryllis model/two rules, three focus and six supporting bounded profiles, one report-only pet reference and 38 new occurrence routes. Candidate 71 model artifacts / 65 source-scoped secondary entries / 193 profile passages / 60 monograph-only studies do not establish distinct people or independent performance. Seven focus rows change; the other 687 entering rows and 19 historical plane differences remain exact. All 70 entering models and prior originals/scores/adverse findings/blanks/nulls remain preserved. See the [C48 index](KONOSUBA_COHORT48_EVIDENCE_INDEX.md), [qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json) and [receiving](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT48_RECEIVING_AND_PROVENANCE.json). Earlier wording remains dated history; the full program continues.
 
 Iris earns scoped Tier3 treatment: direct ordinary activity, competence, duty, refusal, political choice, coercive tactics, different relationships and her own private focalization support distinct falsifiable mechanisms. The [monograph](../05%20Specialist%20Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md), [model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md) and [evidence index](KONOSUBA_IRIS_EVIDENCE_INDEX.md) carry those different responsibilities. Tier3 describes an earned reconstruction candidate, not demonstrated future accuracy or a mature universal simulator. Seven new informed rules and22actually generated synthetic outputs preserve weak, adverse and underdetermined branches.
 
@@ -1979,4 +1979,38 @@ Five substantial studies have separate analytical homes; only Dark Stalker and A
 | 118 | Anna Filante Esteroid / アンナ＝フィランテ＝エステロイド | 2 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_ANNA_CHARACTER_MONOGRAPH.md) |
 | 572 | Familiar YORI04 succubus shop-worker occurrence | 2 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_YORIMICHI04_SUCCUBUS_WORKER_CHARACTER_MONOGRAPH.md) |
 
-Seventeen bounded profile passages have one [supporting-supplement home](../05%20Specialist%20Synthesis/KONOSUBA_YORIMICHI04_IDENTITY_AND_SUPPORTING_CAST_COHORT46_SUPPLEMENT.md). Fifty incidental/reference routes and all68new source/access records are individually typed in the [evidence index](KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md). Reports, groups, embedded fiction, uninstantiated proposals and uncertain overlaps are not silently converted into new people. Possible occurrence/membership overlap, possible proposed-role filler, comparison, context and exclusion remain distinct. Assassin, Anna and the familiar worker have monographs without forced models or permanent ceilings. Exact containing publication is pending; full-program work continues.
+Seventeen bounded profile passages have one [supporting-supplement home](../05%20Specialist%20Synthesis/KONOSUBA_YORIMICHI04_IDENTITY_AND_SUPPORTING_CAST_COHORT46_SUPPLEMENT.md). Fifty incidental/reference routes and all68new source/access records are individually typed in the [evidence index](KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md). Reports, groups, embedded fiction, uninstantiated proposals and uncertain overlaps are not silently converted into new people. Possible occurrence/membership overlap, possible proposed-role filler, comparison, context and exclusion remain distinct. Assassin, Anna and the familiar worker have monographs without forced models or permanent ceilings. C46 exact-source author publication is closed; current source qualifications and typed relations continue to govern. All frozen studies,models,rules,inputs,originals and diagnostics retain their received bodies, with only the explicitly declared evidence-index link serialization. Protected integration and the full program remain open.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters
+
+| Current row | Subject | Scoped tier | Analytical home |
+|---|---|---|---|
+| 129 | Keele / キール | 2 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_KEELE_CHARACTER_MONOGRAPH.md) |
+| 130 | Keele's unnamed beloved noblewoman | 1 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_COHORT47_MAIN_ROLES_BOUNDED_PROFILES.md#keeles-unnamed-beloved-noblewoman) |
+| 131 | Winter Shogun / 冬将軍 | 1 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_COHORT47_MAIN_ROLES_BOUNDED_PROFILES.md#the-winter-shogun-in-the-main02-encounter) |
+| 144 | Transfer angel / unnamed heaven-office successor | 2 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_TRANSFER_ANGEL_CHARACTER_MONOGRAPH.md) |
+| 148 | Prince Jatice / ジャティス | 1 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_COHORT47_MAIN_ROLES_BOUNDED_PROFILES.md#prince-jatice-as-a-public-and-relational-figure) |
+| 150 | Heidel / ハイデル | 3 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_HEIDEL_CHARACTER_MONOGRAPH.md) |
+
+The [four supporting profiles](../05%20Specialist%20Synthesis/KONOSUBA_COHORT47_ENCOUNTER_CREATURE_AND_GROUP_PROFILES.md) have individual [twelve-dimension audits](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT47_SUPPORTING_DIMENSION_AUDIT_01.json). All54new source/access routes and2existing supplements retain [typed relations and access limits](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT47_TYPED_SUPPORTING_ROUTES_01.json). Groups,reports,unperformed referents and possible overlaps do not become a unique-person denominator. Keele and the angel have monographs without generators; no quota or permanent anonymity/species ceiling is used. Exact publication is pending; full-program work continues.
+
+
+## C47 exact-source author publication gate closed — 2026-10-25T13:21:09.215309+00:00
+
+Sourcefcc404eb/tree7c580007 passed its own full479audit40196405542,all61remote changed streams,1681-body/70-model authority reload and24local EPUB/43member correspondence. All176preservation entries passed. Sixty status routes and two supplements close without changing substantive source interpretations;632others and19plane differences remain exact. The two supplements preserve their seven prior analytical fields. Protected integration and full-program completion remain separate; these closing progress bytes await the next coherent publication.
+
+
+## Cohort48 — MAIN16 dungeon cast and supporting source occurrences
+
+| Current row | Subject | Scoped tier | Analytical home |
+|---|---|---|---|
+| 126 | Unnamed MAIN16 dungeon vampire owner | 2 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_DUNGEON_VAMPIRE_OWNER_CHARACTER_MONOGRAPH.md) |
+| 151 | Stella / ステラ | 2 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_STELLA_CHARACTER_MONOGRAPH.md) |
+| 152 | Gil / ギル | 1 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#gil-plans-under-interrupted-threat) |
+| 153 | Gain / ゲイン | 1 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#gain-an-injury-behind-the-spilled-treasure) |
+| 154 | Stella unnamed younger sister | 1 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#stellas-younger-sister-fear-within-a-working-party) |
+| 155 | Amaryllis / アマリリス | 3 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_AMARYLLIS_CHARACTER_MONOGRAPH.md) |
+| 156 | Stesky / ステスキー, MAIN16 reported pet | 0 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#stesky-a-named-report-with-unresolved-recurrence) |
+
+The [six supporting encounter profiles](../05%20Specialist%20Synthesis/KONOSUBA_COHORT48_SUPPORTING_ENCOUNTER_PROFILES.md) have separate [twelve-dimension audits](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT48_SUPPORTING_DIMENSION_AUDIT_01.json). All [38 typed occurrence routes](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT48_TYPED_SUPPORTING_ROUTES_01.json) preserve individual/group/role/report/memory/fabrication distinctions. Stella and the vampire receive monographs without forced models; only Amaryllis has AMR-R01/02. Stesky reports and the slain hell-neroid remain unjoined. The body count does not increase when the dragon is reanimated. Source-qualified treatment follows evidence, without name/species/frequency quotas. Exact publication and the full remaining program continue.

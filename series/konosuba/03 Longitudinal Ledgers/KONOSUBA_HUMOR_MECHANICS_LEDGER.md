@@ -2127,3 +2127,17 @@ The noble denunciation reverses its apparent moral evidence: wrong identity, fal
 The observer thinks she is hidden while the party already knowsU0163-14. The purported summoning ritual fails384-399 before the previously booked worker arrives401-408; later arrival does not prove supernatural summoning success. Angie broad class/senior script misreads this party while her actual field contribution remains real. The Satanists desired recipients differ from the devil imagined taskU016489-556. Embedded revenge/theater talesU01425-103 are narrated fiction references, not ordinary new inhabitants. A warm final ghost-story wishU020511-540 does not complete future safety, public gratitude or all causal repair.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+The transfer choice reverses Aqua's administrative position MAIN01U013130-147; the angel's promised later reward does not perform Kazuma's wealthy-return fantasy149-150. Heidel corrects Sebastian misnaming MAIN06U013348 and later practical assent can support Kazuma's self-serving guest interpretation MAIN11U012184-191. The joke does not erase Darkness's objection or create accepted entry from the later rejected anonymous-cake report214. The lip-read crew panic MAIN17U011124-129 is mediated by Kazuma, whose provocative rendering134-139 differs from raw wording.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+The dungeon rescue is also a successful sale227/239,while Stella mistakes a devil for a humble divine rescuer234-249. The boss owner offers tea486 and later contemplates tomatoes rather than staging a duel. Intimidating summoned bodies453 give way to workload/clothing complaints456-459 and Kazuma loss of fear460. Amaryllis frightening performance changes into courteous conversation321-328; the fabricated biography remains a lie with actual frightened listeners,not harmless consent supplied by comic framing. Humor does not complete retirement,pet recovery,teleport negotiations or every character private motive.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
