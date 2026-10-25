@@ -814,12 +814,12 @@
     {
       "character": "Ozuma / ザトゥ・オズマ",
       "identity": "Self-named ザトゥ・オズマ at YORI01U024P21; distinct from Kazuma. Akyua, Megumi and Rakuresu are separate companions. Do not pool the party’s individually attributed histories; Akyua’s personal longer-term history is not supplied.",
-      "likely_tier": "3 scoped; provisional two-rule model and monograph; publication pending",
-      "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+      "likely_tier": "3 scoped; provisional two-rule model and monograph; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort43 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI01U024P1–472; especially25/76/149–196/330–395/422–472. Current cohort total: 2,116 P / 2,017 ruby in seven members/two EPUBs/47 displays, six full paragraph projections and one bounded naming context; zero current images, residuals or whole-edition credit.",
       "substantive_responsibility": "Actual unpaid help, an explicit exchange norm, anger/legal inhibition, companion interaction, work, a danger warning, gratitude and credibility errors support two narrow defeasible propositions.",
       "gaps": "One connected episode; ordinary reciprocity, gratitude, loyalty and comic reversal remain rivals. No independent mechanism isolation, maturity or transfer accuracy.",
-      "disposition_status": "SCOPED_TIER3_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER3_COHORT43_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort43_current_fields": {
@@ -858,17 +858,29 @@
         "justification": "Actual unpaid help, an explicit exchange norm, anger/legal inhibition, companion interaction, work, a danger warning, gratitude and credibility errors support two narrow defeasible propositions.",
         "limits": "One connected episode; ordinary reciprocity, gratitude, loyalty and comic reversal remain rivals. No independent mechanism isolation, maturity or transfer accuracy."
       },
-      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim."
+      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim.",
+      "prior_cohort43_publication_fields": {
+        "likely_tier": "3 scoped; provisional two-rule model and monograph; publication pending",
+        "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+        "disposition_status": "SCOPED_TIER3_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+        "cohort43_current_receiving": null
+      },
+      "cohort43_current_receiving": "Exact-source author publication is closed for the scoped C43 interpretation or alias supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "cohort43_publication_resolution": {
+        "source": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "424fb940e26dd4b2e6da6803e50afd81cef9b6cb1446fb0906d0dad2a3640d01"
+      }
     },
     {
       "character": "Akyua / アキュア",
       "identity": "アキュア at YORI01U024P71 is a visiting priest distinct from Aqua. Parallel party roles do not transfer divinity, power, conduct or biography.",
-      "likely_tier": "1 scoped; bounded individual profile; publication pending",
-      "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+      "likely_tier": "1 scoped; bounded individual profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort43 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI01U024P47/69/71/94/107/295–301/309/320/369–370/469–470. Current cohort total: 2,116 P / 2,017 ruby in seven members/two EPUBs/47 displays, six full paragraph projections and one bounded naming context; zero current images, residuals or whole-edition credit.",
       "substantive_responsibility": "Her own apology, hospitality, prayer, intended but preempted heal, arrow recognition and mistaken trust support a bounded profile.",
       "gaps": "No performed failed heal, complete capacity ceiling or individually supplied tragic biography; no automatic Aqua trait transfer.",
-      "disposition_status": "SCOPED_TIER1_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT43_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort43_current_fields": {
@@ -898,17 +910,29 @@
         "justification": "Her own apology, hospitality, prayer, intended but preempted heal, arrow recognition and mistaken trust support a bounded profile.",
         "limits": "No performed failed heal, complete capacity ceiling or individually supplied tragic biography; no automatic Aqua trait transfer."
       },
-      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim."
+      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim.",
+      "prior_cohort43_publication_fields": {
+        "likely_tier": "1 scoped; bounded individual profile; publication pending",
+        "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+        "disposition_status": "SCOPED_TIER1_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+        "cohort43_current_receiving": null
+      },
+      "cohort43_current_receiving": "Exact-source author publication is closed for the scoped C43 interpretation or alias supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "cohort43_publication_resolution": {
+        "source": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "424fb940e26dd4b2e6da6803e50afd81cef9b6cb1446fb0906d0dad2a3640d01"
+      }
     },
     {
       "character": "Megumi / メグミ",
       "identity": "メグミ, the visiting magician, is distinct from めぐみん/Megumin. Grandfather naming/legacy are her reports; Kazuma’s Japanese-grandfather speculation is not independent reincarnator identification.",
-      "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
-      "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+      "likely_tier": "2 scoped; substantial individual monograph without forced model; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort43 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI01U024P62/86/100–196/254/272/337/384–385/425–427/449/465. Current cohort total: 2,116 P / 2,017 ruby in seven members/two EPUBs/47 displays, six full paragraph projections and one bounded naming context; zero current images, residuals or whole-edition credit.",
       "substantive_responsibility": "Food/name exchange, emotional engagement, checking, a pressured near-apology, correct rule objection, danger proposal and family project support an individual monograph.",
       "gaps": "Inherited claims are reported; reincarnation remains an inference, mobilization is not performed and no distinctive generator is isolated.",
-      "disposition_status": "SCOPED_TIER2_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT43_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort43_current_fields": {
@@ -938,17 +962,29 @@
         "justification": "Food/name exchange, emotional engagement, checking, a pressured near-apology, correct rule objection, danger proposal and family project support an individual monograph.",
         "limits": "Inherited claims are reported; reincarnation remains an inference, mobilization is not performed and no distinctive generator is isolated."
       },
-      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim."
+      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim.",
+      "prior_cohort43_publication_fields": {
+        "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
+        "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+        "disposition_status": "SCOPED_TIER2_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+        "cohort43_current_receiving": null
+      },
+      "cohort43_current_receiving": "Exact-source author publication is closed for the scoped C43 interpretation or alias supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "cohort43_publication_resolution": {
+        "source": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "424fb940e26dd4b2e6da6803e50afd81cef9b6cb1446fb0906d0dad2a3640d01"
+      }
     },
     {
       "character": "Rakuresu / ラクレス",
       "identity": "ラクレス, self-introduced Crusader at U024P50–52; distinct from Darkness. Surviving knight of a destroyed territory is her report, not proof of sole survival or noble birth.",
-      "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
-      "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+      "likely_tier": "2 scoped; substantial individual monograph without forced model; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort43 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI01U024P50–52/88–117/255/344–347/425–427/444/467. Current cohort total: 2,116 P / 2,017 ruby in seven members/two EPUBs/47 displays, six full paragraph projections and one bounded naming context; zero current images, residuals or whole-edition credit.",
       "substantive_responsibility": "Courtesy, reputation interest, sympathetic proposed departure, protective offer/stance, former territorial duty and reported harassment response support a monograph.",
       "gaps": "No actual failed tanking, sole-survivor or noble-birth claim, completed restoration or Darkness-desire transfer; several deeds are reported or preempted.",
-      "disposition_status": "SCOPED_TIER2_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT43_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort43_current_fields": {
@@ -978,17 +1014,29 @@
         "justification": "Courtesy, reputation interest, sympathetic proposed departure, protective offer/stance, former territorial duty and reported harassment response support a monograph.",
         "limits": "No actual failed tanking, sole-survivor or noble-birth claim, completed restoration or Darkness-desire transfer; several deeds are reported or preempted."
       },
-      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim."
+      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim.",
+      "prior_cohort43_publication_fields": {
+        "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
+        "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+        "disposition_status": "SCOPED_TIER2_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+        "cohort43_current_receiving": null
+      },
+      "cohort43_current_receiving": "Exact-source author publication is closed for the scoped C43 interpretation or alias supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "cohort43_publication_resolution": {
+        "source": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "424fb940e26dd4b2e6da6803e50afd81cef9b6cb1446fb0906d0dad2a3640d01"
+      }
     },
     {
       "character": "Wolfgang Crow / ヴォルフガン・クロウ",
       "identity": "ヴォルフガン・クロウ self-names at YORI01U020P158. Distinct from YORI02U018P227 white-tiger cub ヴォルフガング・ジークヴァルト; unnamed vampire owners remain unjoined.",
-      "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
-      "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+      "likely_tier": "2 scoped; substantial individual monograph without forced model; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort43 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI01U020P1–312; bounded YORI02U018P209–245 naming exclusion. Current cohort total: 2,116 P / 2,017 ruby in seven members/two EPUBs/47 displays, six full paragraph projections and one bounded naming context; zero current images, residuals or whole-edition credit.",
       "substantive_responsibility": "Hierarchy revision, harmful intent, a chosen contest, forced alternatives, metric critique, withdrawal and coerced pledge support substantial study.",
       "gaps": "Ordinary life and comparable independent contexts are thin. Status defense, survival and a connected contest remain rivals; no cub join, fulfilled reform or model.",
-      "disposition_status": "SCOPED_TIER2_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT43_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort43_current_fields": {
@@ -1018,17 +1066,29 @@
         "justification": "Hierarchy revision, harmful intent, a chosen contest, forced alternatives, metric critique, withdrawal and coerced pledge support substantial study.",
         "limits": "Ordinary life and comparable independent contexts are thin. Status defense, survival and a connected contest remain rivals; no cub join, fulfilled reform or model."
       },
-      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim."
+      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim.",
+      "prior_cohort43_publication_fields": {
+        "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
+        "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+        "disposition_status": "SCOPED_TIER2_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+        "cohort43_current_receiving": null
+      },
+      "cohort43_current_receiving": "Exact-source author publication is closed for the scoped C43 interpretation or alias supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "cohort43_publication_resolution": {
+        "source": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "424fb940e26dd4b2e6da6803e50afd81cef9b6cb1446fb0906d0dad2a3640d01"
+      }
     },
     {
       "character": "Eibram / トランザム・ルッソ・エイブラム",
       "identity": "Client self-names トランザム・ルッソ・エイブラム at U012P87, retaining C29 precision. Separate from Pickles; later adoption disclosure does not identify biological parents.",
-      "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
-      "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+      "likely_tier": "2 scoped; substantial individual monograph without forced model; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort43 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI01U012P87–109/116–170/185–202/219–254. Current cohort total: 2,116 P / 2,017 ruby in seven members/two EPUBs/47 displays, six full paragraph projections and one bounded naming context; zero current images, residuals or whole-edition credit.",
       "substantive_responsibility": "Rank-sensitive hospitality, task revision, filial care, a limit on a violent demand, diary promise, adverse admission and unanswered adoption questions support the client’s agency.",
       "gaps": "Good governance is interested testimony, disposal is unperformed, biological parentage unanswered and C29 name attribution preserved.",
-      "disposition_status": "SCOPED_TIER2_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT43_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort29_identity_fields": {
@@ -1068,17 +1128,29 @@
         "justification": "Rank-sensitive hospitality, task revision, filial care, a limit on a violent demand, diary promise, adverse admission and unanswered adoption questions support the client’s agency.",
         "limits": "Good governance is interested testimony, disposal is unperformed, biological parentage unanswered and C29 name attribution preserved."
       },
-      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim."
+      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim.",
+      "prior_cohort43_publication_fields": {
+        "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
+        "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+        "disposition_status": "SCOPED_TIER2_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+        "cohort43_current_receiving": null
+      },
+      "cohort43_current_receiving": "Exact-source author publication is closed for the scoped C43 interpretation or alias supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "cohort43_publication_resolution": {
+        "source": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "424fb940e26dd4b2e6da6803e50afd81cef9b6cb1446fb0906d0dad2a3640d01"
+      }
     },
     {
       "character": "Pickles / トランザム・ルッソ・ピクルス",
       "identity": "Deceased former head トランザム・ルッソ・ピクルス at U012P139 through Aqua, with private details corroborated by Eibram. The father’s speech and past retain mediated access.",
-      "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
-      "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+      "likely_tier": "2 scoped; substantial individual monograph without forced model; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort43 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI01U012P136–144/172–214/219–254. Current cohort total: 2,116 P / 2,017 ruby in seven members/two EPUBs/47 displays, six full paragraph projections and one bounded naming context; zero current images, residuals or whole-edition credit.",
       "substantive_responsibility": "Public-image/private-appetite account, play versus business, recipient limits, exposure bargaining, adverse legacy and adoption disclosure support a mediated-subject study.",
       "gaps": "Aqua-mediated speech is not separately heard voice. No affair proof, consent proxy, destroyed diary or fulfilled reform; C29 name precision retained.",
-      "disposition_status": "SCOPED_TIER2_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT43_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort29_identity_fields": {
@@ -1118,17 +1190,29 @@
         "justification": "Public-image/private-appetite account, play versus business, recipient limits, exposure bargaining, adverse legacy and adoption disclosure support a mediated-subject study.",
         "limits": "Aqua-mediated speech is not separately heard voice. No affair proof, consent proxy, destroyed diary or fulfilled reform; C29 name precision retained."
       },
-      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim."
+      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim.",
+      "prior_cohort43_publication_fields": {
+        "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
+        "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+        "disposition_status": "SCOPED_TIER2_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+        "cohort43_current_receiving": null
+      },
+      "cohort43_current_receiving": "Exact-source author publication is closed for the scoped C43 interpretation or alias supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "cohort43_publication_resolution": {
+        "source": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "424fb940e26dd4b2e6da6803e50afd81cef9b6cb1446fb0906d0dad2a3640d01"
+      }
     },
     {
       "character": "Lolierina / ロリエリーナ (old unnamed-deputy episode route; joined to231)",
       "identity": "Old unnamed-deputy episode route positively joined to existing Lolierina231 by the exact YORI01U014P63 self-name and office. Chief Aloerina91 and unrelated lake actor230 stay separate.",
       "likely_tier": "2 existing; joined to already studied route231; no new monograph/model credit",
-      "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+      "priority": "Cohort43 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI01U014P63 exactly matches existing route231 and C27 monograph; full current U014P1–353 reread. Current cohort total: 2,116 P / 2,017 ruby in seven members/two EPUBs/47 displays, six full paragraph projections and one bounded naming context; zero current images, residuals or whole-edition credit.",
       "substantive_responsibility": "Exact YORI01U014P63 self-name and office match the already studied Lolierina at 231; retain the old route with a joined-to history.",
       "gaps": "Zero new-person, monograph, model or independent credit. Chief Aloerina is 91; unrelated 230 remains untouched.",
-      "disposition_status": "EXISTING_TIER2_ROUTE_JOINED_COHORT43_PUBLICATION_PENDING",
+      "disposition_status": "EXISTING_TIER2_ROUTE_JOINED_COHORT43_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort43_current_fields": {
@@ -1159,17 +1243,29 @@
         "limits": "Zero new-person, monograph, model or independent credit. Chief Aloerina is 91; unrelated 230 remains untouched."
       },
       "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim.",
-      "cohort43_joined_to_existing_row": 231
+      "cohort43_joined_to_existing_row": 231,
+      "prior_cohort43_publication_fields": {
+        "likely_tier": "2 existing; joined to already studied route231; no new monograph/model credit",
+        "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+        "disposition_status": "EXISTING_TIER2_ROUTE_JOINED_COHORT43_PUBLICATION_PENDING",
+        "cohort43_current_receiving": null
+      },
+      "cohort43_current_receiving": "Exact-source author publication is closed for the scoped C43 interpretation or alias supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "cohort43_publication_resolution": {
+        "source": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "424fb940e26dd4b2e6da6803e50afd81cef9b6cb1446fb0906d0dad2a3640d01"
+      }
     },
     {
       "character": "Unnamed recruiter/inspector (Yorimichi01)",
       "identity": "Unnamed suit/glasses guild official in YORI01U026. Explicit capital recruitment purpose; punitive purpose initially inferred by other actors. No personal-name or police alias join.",
-      "likely_tier": "1 scoped; bounded individual profile; publication pending",
-      "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+      "likely_tier": "1 scoped; bounded individual profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort43 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI01U026P1–208; especially36/73–76/114–153/186/200–208. Current cohort total: 2,116 P / 2,017 ruby in seven members/two EPUBs/47 displays, six full paragraph projections and one bounded naming context; zero current images, residuals or whole-edition credit.",
       "substantive_responsibility": "Report-based appraisal, explicit recruitment aim, progression assumptions, actual refusal response and departure contrast support a bounded occupational profile.",
       "gaps": "Punitive aim is initially inferred; private departure cause is unknown. No accepted recruit, stripped license or universal class-coward generator.",
-      "disposition_status": "SCOPED_TIER1_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT43_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort43_current_fields": {
@@ -1199,67 +1295,232 @@
         "justification": "Report-based appraisal, explicit recruitment aim, progression assumptions, actual refusal response and departure contrast support a bounded occupational profile.",
         "limits": "Punitive aim is initially inferred; private departure cause is unknown. No accepted recruit, stripped license or universal class-coward generator."
       },
-      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim."
+      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim.",
+      "prior_cohort43_publication_fields": {
+        "likely_tier": "1 scoped; bounded individual profile; publication pending",
+        "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+        "disposition_status": "SCOPED_TIER1_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+        "cohort43_current_receiving": null
+      },
+      "cohort43_current_receiving": "Exact-source author publication is closed for the scoped C43 interpretation or alias supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "cohort43_publication_resolution": {
+        "source": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "424fb940e26dd4b2e6da6803e50afd81cef9b6cb1446fb0906d0dad2a3640d01"
+      }
     },
     {
-      "character": "Dryad (Yorimichi02 harsh-world story)",
-      "identity": "Particular speaking forestagent, not an apparentghost or everydryad.",
-      "likely_tier": "1-2 candidate",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "FullYORI02report29,Story03U016P1–390.",
-      "substantive_responsibility": "Ownvoiceendsdeerdanger, actualharvestobjection andrequestedresources/negotiatedwater-for-expiredvegetables expose finitepreferences andcontrol limits.",
-      "gaps": "Aqua translates; Kazuma lacksindependentraw-languageaccess. Bossdeerbeyondcontrol, waterhistoryK inference andfutureperiodicservice notperformed.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "character": "Particular YORI02 dryad",
+      "identity": "Particular YORI02U016 forest dryad, identified through Aqua atP212 after emergence194–196. Distinct from MAIN11 forest Princess and Tranquility Girls; translated speech is not an unmediated Japanese transcript.",
+      "likely_tier": "3 scoped; one-rule provisional model and substantial monograph; publication pending",
+      "priority": "Cohort44 semantic receiving complete; exact containing publication pending; wider program active",
+      "evidence_distribution": "YORI02U016P1–390, especially190–247/263–275/308–331/362–375. Current cohort receives2675P/2530ruby, ten complete paragraph projections/one local EPUB/57 actual displays. Earlier C43 window repeats; current images/residuals/whole-edition/new global-first credit zero.",
+      "substantive_responsibility": "Living-dependent claims, resource seeking, conditional cooperation and an expired-plant/water settlement constrain one narrow generator; threats, mediation and generic rivals prevent a maturity or independent-discrimination claim.",
+      "gaps": "Raw-language adequacy, later water/provision performance, remote weed control, behavior under different dependent/resource conditions and discrimination from generic bargaining/protection remain open. Threats and pressure stay adverse; one known episode does not establish causal weights.",
+      "disposition_status": "SCOPED_TIER3_COHORT44_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
+      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
+      "prior_cohort44_current_fields": {
+        "character": "Dryad (Yorimichi02 harsh-world story)",
+        "identity": "Particular speaking forestagent, not an apparentghost or everydryad.",
+        "likely_tier": "1-2 candidate",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "evidence_distribution": "FullYORI02report29,Story03U016P1–390.",
+        "substantive_responsibility": "Ownvoiceendsdeerdanger, actualharvestobjection andrequestedresources/negotiatedwater-for-expiredvegetables expose finitepreferences andcontrol limits.",
+        "gaps": "Aqua translates; Kazuma lacksindependentraw-languageaccess. Bossdeerbeyondcontrol, waterhistoryK inference andfutureperiodicservice notperformed.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+        "independent_observation_count": null
+      },
+      "cohort44_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI02_IDENTITY_AND_SUPPORTING_CAST_COHORT44_SUPPLEMENT.md",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_DRYAD_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DRYAD_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/DRYAD_EXPANDED_V1_EVIDENCE/DRYAD_RULE_INVENTORY_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DRYAD_EXPANDED_V1_EVIDENCE/DRYAD_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DRYAD_EXPANDED_V1_EVIDENCE/DRYAD_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DRYAD_EXPANDED_V1_EVIDENCE/DRYAD_FIRST_OUTPUT_ANNOTATIONS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DRYAD_EXPANDED_V1_EVIDENCE/DRYAD_DIAGNOSTIC_ASSESSMENT_01.md"
+      ],
+      "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
+      "cohort44_scope_assessment": {
+        "row": 102,
+        "subject": "Particular YORI02 dryad",
+        "tier": 3,
+        "private_file": "DRYAD_MONOGRAPH_DRAFT_01.md",
+        "public_filename": "KONOSUBA_DRYAD_CHARACTER_MONOGRAPH.md",
+        "model": true,
+        "rules": [
+          "DRY-R01"
+        ],
+        "reason": "Living-dependent claims, resource seeking, conditional cooperation and an expired-plant/water settlement constrain one narrow generator; threats, mediation and generic rivals prevent a maturity or independent-discrimination claim."
+      },
+      "cohort44_current_scope_precedence": "Current scoped fields govern; exact prior fields remain dated history. Source/access records overlap and include groups/reports; no final people denominator or independent validation."
     },
     {
-      "character": "Fairy cook (Yorimichi02 dinner)",
-      "identity": "Particular cagedfairy identifiedas cook, not ingredient; personalname unresolved.",
-      "likely_tier": "1 candidate",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "FullYORI02report29,Story06U022.",
-      "substantive_responsibility": "Signals actualdangerfromChom beforecageopening; host's correction changesfoodaccusation while distinctchild-equivalentworkconditionsraise separatewelfare issue.",
-      "gaps": "No inventedautonomoussafeexit, freelyacceptedwork or wholetruehistoryfromhostclaim. Ageappropriate/non-graphicboundedprofile; no identitymergebyfairyspecies.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "character": "Particular dinner fairy",
+      "identity": "Particular caged dinner fairy in YORI02U022, locally followed through release, movement, whispering and the host confrontation. No exact raw utterance, final safe custody or general fairy-species identity is supplied.",
+      "likely_tier": "1 scoped; bounded source-specific profile; publication pending",
+      "priority": "Cohort44 semantic receiving complete; exact containing publication pending; wider program active",
+      "evidence_distribution": "YORI02U022P283–295/327–335/350–382, with later gatekeeper plan414–422 qualified. Current cohort receives2675P/2530ruby, ten complete paragraph projections/one local EPUB/57 actual displays. Earlier C43 window repeats; current images/residuals/whole-edition/new global-first credit zero.",
+      "substantive_responsibility": "Cage danger, release, responsive movement and whispering support a bounded individual account; raw words, later custody and a general bargain policy remain open.",
+      "gaps": "Exact whispered words, independent consent to extraction, final safe custody and a general reciprocity policy are not supplied. Cage danger, responsiveness and the host’s later admission do not justify a full fairy generator.",
+      "disposition_status": "SCOPED_TIER1_COHORT44_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
+      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
+      "prior_cohort44_current_fields": {
+        "character": "Fairy cook (Yorimichi02 dinner)",
+        "identity": "Particular cagedfairy identifiedas cook, not ingredient; personalname unresolved.",
+        "likely_tier": "1 candidate",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "evidence_distribution": "FullYORI02report29,Story06U022.",
+        "substantive_responsibility": "Signals actualdangerfromChom beforecageopening; host's correction changesfoodaccusation while distinctchild-equivalentworkconditionsraise separatewelfare issue.",
+        "gaps": "No inventedautonomoussafeexit, freelyacceptedwork or wholetruehistoryfromhostclaim. Ageappropriate/non-graphicboundedprofile; no identitymergebyfairyspecies.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+        "independent_observation_count": null
+      },
+      "cohort44_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI02_IDENTITY_AND_SUPPORTING_CAST_COHORT44_SUPPLEMENT.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort44--yorimichi-2-cast-and-supporting-roles"
+      ],
+      "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
+      "cohort44_scope_assessment": {
+        "subject": "Particular dinner fairy",
+        "tier": 1,
+        "reason": "Cage danger, release, responsive movement and whispering support a bounded individual account; raw words, later custody and a general bargain policy remain open."
+      },
+      "cohort44_current_scope_precedence": "Current scoped fields govern; exact prior fields remain dated history. Source/access records overlap and include groups/reports; no final people denominator or independent validation."
     },
     {
-      "character": "Unnamed noble host (Yorimichi02 dinner)",
-      "identity": "Dinnerhost who invitesparty and explainsfairycook; notautomaticallyanyothernoble.",
-      "likely_tier": "1-2 candidate",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "FullYORI02report29,Story06U022.",
-      "substantive_responsibility": "Owninvitation/take-homepermissionwithkeepingconditions, actualcagesafety/explanation andlaterflight underworkconditionquestions show distinctprovider/interestedaccountabilityrole.",
-      "gaps": "Correctedfoodaccusationdoesnotsettleworkexploitation; no completedarrest, inventedhouseidentity or verifiedallworkingconditions.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "character": "Unnamed female noble dinner host",
+      "identity": "Unnamed female noble who invites the party atYORI02U022P136–138 and owns the household/cooking claim340. Male seafood provider207–212 and take-home woman230–237 are not silently pooled into her.",
+      "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
+      "priority": "Cohort44 semantic receiving complete; exact containing publication pending; wider program active",
+      "evidence_distribution": "YORI02U022P136–138/338–386; supplier voices207–245 explicitly partitioned. Current cohort receives2675P/2530ruby, ten complete paragraph projections/one local EPUB/57 actual displays. Earlier C43 window repeats; current images/residuals/whole-edition/new global-first credit zero.",
+      "substantive_responsibility": "Invitation, household claim, immediate cage safety, debt, withheld method, admission and flight warrant a substantial account. Other nobles' lines are separate; exact incentive weights and general policy remain unisolated.",
+      "gaps": "Other nobles’ suppliers and take-home permission remain unjoined; household cooking and no-harm statements are interested claims. Exact extraction process, incentive weights, later capture, fairy custody and broader policy are unresolved.",
+      "disposition_status": "SCOPED_TIER2_COHORT44_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
+      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
+      "prior_cohort44_current_fields": {
+        "character": "Unnamed noble host (Yorimichi02 dinner)",
+        "identity": "Dinnerhost who invitesparty and explainsfairycook; notautomaticallyanyothernoble.",
+        "likely_tier": "1-2 candidate",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "evidence_distribution": "FullYORI02report29,Story06U022.",
+        "substantive_responsibility": "Owninvitation/take-homepermissionwithkeepingconditions, actualcagesafety/explanation andlaterflight underworkconditionquestions show distinctprovider/interestedaccountabilityrole.",
+        "gaps": "Correctedfoodaccusationdoesnotsettleworkexploitation; no completedarrest, inventedhouseidentity or verifiedallworkingconditions.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+        "independent_observation_count": null
+      },
+      "cohort44_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI02_IDENTITY_AND_SUPPORTING_CAST_COHORT44_SUPPLEMENT.md",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_NOBLE_DINNER_HOST_CHARACTER_MONOGRAPH.md"
+      ],
+      "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
+      "cohort44_scope_assessment": {
+        "row": 104,
+        "subject": "Unnamed female noble dinner host",
+        "tier": 2,
+        "private_file": "NOBLE_DINNER_HOST_MONOGRAPH_DRAFT_01.md",
+        "public_filename": "KONOSUBA_NOBLE_DINNER_HOST_CHARACTER_MONOGRAPH.md",
+        "model": false,
+        "rules": [],
+        "reason": "Invitation, household claim, immediate cage safety, debt, withheld method, admission and flight warrant a substantial account. Other nobles' lines are separate; exact incentive weights and general policy remain unisolated."
+      },
+      "cohort44_current_scope_precedence": "Current scoped fields govern; exact prior fields remain dated history. Source/access records overlap and include groups/reports; no final people denominator or independent validation."
     },
     {
-      "character": "White-tiger mother (Yorimichi02)",
-      "identity": "Particularmother who entrusts cub andlaterwaits; separatefromgenericspiritanimalclass.",
-      "likely_tier": "1 candidate; animal agency bounded",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "FullYORI02report29,Story04U018.",
-      "substantive_responsibility": "Evadesanactualblast, entrustsdyingcub, laterawaitsreturn andcarriesAquaawaydespiteprotests. Maternalcare/readiness differs fromearlierhuman abandonmentaccount.",
-      "gaps": "Aqua's initialexhaustion/motive account attributed; actualjourney/returnmechanismelided. No unlimitedsacredanimalwisdom, petownershipagreement orpermanentadoption.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "character": "White-tiger mother",
+      "identity": "Particular white-tiger mother in YORI02U018, observed through defense, entrustment, waiting, pause and transport of Aqua. No human inner monologue or general animal obedience policy is established.",
+      "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
+      "priority": "Cohort44 semantic receiving complete; exact containing publication pending; wider program active",
+      "evidence_distribution": "YORI02U018P103–145/157–167/304–328; pursuit and custody limits retained. Current cohort receives2675P/2530ruby, ten complete paragraph projections/one local EPUB/57 actual displays. Earlier C43 window repeats; current images/residuals/whole-edition/new global-first credit zero.",
+      "substantive_responsibility": "Evasion, entrusting care, waiting, approach and coercive transport form a substantial nonverbal sequence. Exact motives and the final operation are not supplied; neither power nor animal status fixes a tier ceiling.",
+      "gaps": "The mother’s inner deliberation, exact reason for entrustment, journey after carrying Aqua, final custody and training outcome are not shown. A pause described as if thinking is not access to her mind.",
+      "disposition_status": "SCOPED_TIER2_COHORT44_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
+      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
+      "prior_cohort44_current_fields": {
+        "character": "White-tiger mother (Yorimichi02)",
+        "identity": "Particularmother who entrusts cub andlaterwaits; separatefromgenericspiritanimalclass.",
+        "likely_tier": "1 candidate; animal agency bounded",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "evidence_distribution": "FullYORI02report29,Story04U018.",
+        "substantive_responsibility": "Evadesanactualblast, entrustsdyingcub, laterawaitsreturn andcarriesAquaawaydespiteprotests. Maternalcare/readiness differs fromearlierhuman abandonmentaccount.",
+        "gaps": "Aqua's initialexhaustion/motive account attributed; actualjourney/returnmechanismelided. No unlimitedsacredanimalwisdom, petownershipagreement orpermanentadoption.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+        "independent_observation_count": null
+      },
+      "cohort44_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI02_IDENTITY_AND_SUPPORTING_CAST_COHORT44_SUPPLEMENT.md",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_WHITE_TIGER_MOTHER_CHARACTER_MONOGRAPH.md"
+      ],
+      "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
+      "cohort44_scope_assessment": {
+        "row": 105,
+        "subject": "White-tiger mother",
+        "tier": 2,
+        "private_file": "WHITE_TIGER_MOTHER_MONOGRAPH_DRAFT_01.md",
+        "public_filename": "KONOSUBA_WHITE_TIGER_MOTHER_CHARACTER_MONOGRAPH.md",
+        "model": false,
+        "rules": [],
+        "reason": "Evasion, entrusting care, waiting, approach and coercive transport form a substantial nonverbal sequence. Exact motives and the final operation are not supplied; neither power nor animal status fixes a tier ceiling."
+      },
+      "cohort44_current_scope_precedence": "Current scoped fields govern; exact prior fields remain dated history. Source/access records overlap and include groups/reports; no final people denominator or independent validation."
     },
     {
-      "character": "Wolfgang Siegwald (Yorimichi02 tiger cub)",
-      "identity": "Namedcub; notWolfgangCrowthevampire orWolbach.",
-      "likely_tier": "1 candidate; animal agency bounded",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "FullYORI02report29,Story04U018;namecheckedinacceptedreport§17.",
-      "substantive_responsibility": "Actualneed/healing/ordinarycare/failedmilitarytraining/garmentbehavior andreturnedcompany frame differentagentneeds fromhumans'utilityscripts.",
-      "gaps": "No understoodhumanspeech/legallyownedpet/permanentmilitarycapacity fromcare; opposedgarmentrequestsremainactualrecipientboundaries, no fungiblesubstitutetest.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "character": "Siegwald / ジークヴァルト",
+      "identity": "Particular cub namedジークヴァルト, ヴォルフガング・ジークヴァルト andジーク atYORI02U018P227. English Siegwald is a retrieval label; distinct fromヴォルフガン・クロウ. Cub gender is not inferred.",
+      "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
+      "priority": "Cohort44 semantic receiving complete; exact containing publication pending; wider program active",
+      "evidence_distribution": "YORI02U018P144–249/256–267/283–328, with bounded naming exclusion fromC43. Current cohort receives2675P/2530ruby, ten complete paragraph projections/one local EPUB/57 actual displays. Earlier C43 window repeats; current images/residuals/whole-edition/new global-first credit zero.",
+      "substantive_responsibility": "Multi-scene recovery, play, sleep, garment use and separation behavior earn an individual ordinary-life study. Generic juvenile/comfort/state rivals and untested comprehension limit a generator.",
+      "gaps": "Gender, exact language comprehension, trained command following, intent behind cries or garment use and post-transport care remain unestablished. Juvenile state, comfort and attachment are rival explanations, not missing evidence to be invented.",
+      "disposition_status": "SCOPED_TIER2_COHORT44_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
+      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
+      "prior_cohort44_current_fields": {
+        "character": "Wolfgang Siegwald (Yorimichi02 tiger cub)",
+        "identity": "Namedcub; notWolfgangCrowthevampire orWolbach.",
+        "likely_tier": "1 candidate; animal agency bounded",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "evidence_distribution": "FullYORI02report29,Story04U018;namecheckedinacceptedreport§17.",
+        "substantive_responsibility": "Actualneed/healing/ordinarycare/failedmilitarytraining/garmentbehavior andreturnedcompany frame differentagentneeds fromhumans'utilityscripts.",
+        "gaps": "No understoodhumanspeech/legallyownedpet/permanentmilitarycapacity fromcare; opposedgarmentrequestsremainactualrecipientboundaries, no fungiblesubstitutetest.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+        "independent_observation_count": null
+      },
+      "cohort44_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI02_IDENTITY_AND_SUPPORTING_CAST_COHORT44_SUPPLEMENT.md",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_SIEGWALD_CHARACTER_MONOGRAPH.md"
+      ],
+      "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
+      "cohort44_scope_assessment": {
+        "row": 106,
+        "subject": "Siegwald / ジークヴァルト",
+        "tier": 2,
+        "private_file": "SIEGWALD_MONOGRAPH_DRAFT_01.md",
+        "public_filename": "KONOSUBA_SIEGWALD_CHARACTER_MONOGRAPH.md",
+        "model": false,
+        "rules": [],
+        "reason": "Multi-scene recovery, play, sleep, garment use and separation behavior earn an individual ordinary-life study. Generic juvenile/comfort/state rivals and untested comprehension limit a generator."
+      },
+      "cohort44_current_scope_precedence": "Current scoped fields govern; exact prior fields remain dated history. Source/access records overlap and include groups/reports; no final people denominator or independent validation."
     },
     {
       "character": "シュメール・ミード・ひゃんひゃん (Yorimichi03 noble)",
@@ -1464,50 +1725,125 @@
       "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
     },
     {
-      "character": "Station employee (Yorimichi02 Japan trip)",
-      "identity": "Unnamedactualstationworker; no supplied cross-world alias.",
-      "likely_tier": "0-1 candidate",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "FullYORI02report29,Story02U014.",
-      "substantive_responsibility": "ActuallyfreesAqua'scaughtscarf; companions'triedhelpisnotsoletargetrescue. Concreteoutsideprofessionalcontribution isownedbythisworker.",
-      "gaps": "Verylimitedone-eventevidence: finalincidentaldispositionorboundedroleprofilelikely, noinventedtraining/lifehistory orautomaticrecurringidentity.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "character": "Train-station employee (Japan trip)",
+      "identity": "Unnamed train-station employee whose help is established by the companions’ aftermath account atYORI02U014P109–111 after Aqua’s garment catches in the train doors105. Exact procedure is elided. No positive identity join to the whistle occurrence105, arcade worker or later street police officer.",
+      "likely_tier": "1 scoped; bounded source-specific profile; publication pending",
+      "priority": "Cohort44 semantic receiving complete; exact containing publication pending; wider program active",
+      "evidence_distribution": "YORI02U014P105–114: visible caught garment105–107, companions’ aftermath account109–111 and attempted help114; worker procedure not directly shown. Current cohort receives2675P/2530ruby, ten complete paragraph projections/one local EPUB/57 actual displays. Earlier C43 window repeats; current images/residuals/whole-edition/new global-first credit zero.",
+      "substantive_responsibility": "An outside railway employee’s contribution changes the party’s predicament, established through the companions’ subsequent account. Their monster-tamer interpretation is not an actual fantasy profession, and the worker’s help does not erase Megumin and Darkness’s attempted assistance.",
+      "gaps": "Name, direct dialogue, private emotion, exact procedure and training remain unsupplied. The older-man description109–111 does not positively join the rescuer to the whistle occurrence105 or to the later street officer. Considering thanks is not a performed gift.",
+      "disposition_status": "SCOPED_TIER1_COHORT44_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
+      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
+      "prior_cohort44_current_fields": {
+        "character": "Station employee (Yorimichi02 Japan trip)",
+        "identity": "Unnamedactualstationworker; no supplied cross-world alias.",
+        "likely_tier": "0-1 candidate",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "evidence_distribution": "FullYORI02report29,Story02U014.",
+        "substantive_responsibility": "ActuallyfreesAqua'scaughtscarf; companions'triedhelpisnotsoletargetrescue. Concreteoutsideprofessionalcontribution isownedbythisworker.",
+        "gaps": "Verylimitedone-eventevidence: finalincidentaldispositionorboundedroleprofilelikely, noinventedtraining/lifehistory orautomaticrecurringidentity.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+        "independent_observation_count": null
+      },
+      "cohort44_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI02_IDENTITY_AND_SUPPORTING_CAST_COHORT44_SUPPLEMENT.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort44--yorimichi-2-cast-and-supporting-roles"
+      ],
+      "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
+      "cohort44_scope_assessment": {
+        "subject": "Train-station employee (Japan trip)",
+        "tier": 1,
+        "reason": "An outside railway worker’s consequential help is established by the companions’ aftermath account109–111; exact procedure and direct voice are elided. This earns a bounded professional-role profile without a police identity, fantasy profession or broader generator."
+      },
+      "cohort44_current_scope_precedence": "Current scoped fields govern; exact prior fields remain dated history. Source/access records overlap and include groups/reports; no final people denominator or independent validation."
     },
     {
-      "character": "Two predatory strangers (Yorimichi02 social lesson; split pending)",
-      "identity": "Source-bound strangersselectedas'harmless'byKazuma; individualnames/joinsnotprovidedincurrentreport.",
-      "likely_tier": "0-1 candidate; aggregate working row not denominator",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "FullYORI02report29,Story07U024.",
-      "substantive_responsibility": "OwnstatementscontradictKazuma'ssafe-strangerappraisal andpromptbothinstructorstocallpolice. Thisisactualindependentcounterevidence, notanexecutedarrest.",
-      "gaps": "Resolveeachspeakerandindividualscopefromnativebeforefinalcensus; criticalnon-graphicdispositiononly,noinventedcompletedoffense, diagnosisoralias.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "character": "Three adult park interlocutors",
+      "identity": "THREE men atYORI02U024P225, not the old two-person label. Three defenses249–251 and the four-person count including Yunyun266 bind local group size; stable names and every later speaker join remain open.",
+      "likely_tier": "1 scoped; bounded source-specific profile; publication pending",
+      "priority": "Cohort44 semantic receiving complete; exact containing publication pending; wider program active",
+      "evidence_distribution": "YORI02U024P225–275; direct threats/statements versus narrator harmlessness and unperformed police response separated. Current cohort receives2675P/2530ruby, ten complete paragraph projections/one local EPUB/57 actual displays. Earlier C43 window repeats; current images/residuals/whole-edition/new global-first credit zero.",
+      "substantive_responsibility": "Explicit three-person introduction and several self-defenses coexist with predatory statements. Local voices remain incompletely bound; neither a shared mind nor a completed offense or diagnosis is inferred.",
+      "gaps": "Stable individual names and complete later speaker allocation remain open. Harmful propositions are retained without a diagnosis, completed offense, completed police response or shared group mind.",
+      "disposition_status": "SCOPED_TIER1_COHORT44_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
+      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
+      "prior_cohort44_current_fields": {
+        "character": "Two predatory strangers (Yorimichi02 social lesson; split pending)",
+        "identity": "Source-bound strangersselectedas'harmless'byKazuma; individualnames/joinsnotprovidedincurrentreport.",
+        "likely_tier": "0-1 candidate; aggregate working row not denominator",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "evidence_distribution": "FullYORI02report29,Story07U024.",
+        "substantive_responsibility": "OwnstatementscontradictKazuma'ssafe-strangerappraisal andpromptbothinstructorstocallpolice. Thisisactualindependentcounterevidence, notanexecutedarrest.",
+        "gaps": "Resolveeachspeakerandindividualscopefromnativebeforefinalcensus; criticalnon-graphicdispositiononly,noinventedcompletedoffense, diagnosisoralias.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+        "independent_observation_count": null
+      },
+      "cohort44_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI02_IDENTITY_AND_SUPPORTING_CAST_COHORT44_SUPPLEMENT.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort44--yorimichi-2-cast-and-supporting-roles"
+      ],
+      "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
+      "cohort44_scope_assessment": {
+        "subject": "Three adult park interlocutors",
+        "tier": 1,
+        "reason": "Explicit three-person introduction and several self-defenses coexist with predatory statements. Local voices remain incompletely bound; neither a shared mind nor a completed offense or diagnosis is inferred."
+      },
+      "cohort44_current_scope_precedence": "Current scoped fields govern; exact prior fields remain dated history. Source/access records overlap and include groups/reports; no final people denominator or independent validation."
     },
     {
-      "character": "Two novice adventurers (Yorimichi02 social lesson; split pending)",
-      "identity": "Source-boundnovicepairrescuedbyYunyun; notautomaticallythegratitude-noteministorynovices.",
-      "likely_tier": "0-1 candidate; aggregate working row not denominator",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "FullYORI02report29,Story07U024.",
-      "substantive_responsibility": "Criesforhelp/actualYunyunkillcontrastwithdenialofneedandappropriatedcredit;MeguminretaliatesafterYunyuncharitableinterpretation.",
-      "gaps": "Attributeseparateindividualvoicesbeforefinalcounts; directnewrescueversusmini-storyreportedrescuekeptdistinctunlessactualeventjoin. Noarbitrarytierauditfromgratitude.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "character": "Two frog-hunting novice adventurers",
+      "identity": "TWO novice adventurers inYORI02U024P303 with cries298 and Yunyun rescue302. Distinct from the grateful novice party inYORI02U027P44–58; no join by novice status.",
+      "likely_tier": "1 scoped; bounded source-specific profile; publication pending",
+      "priority": "Cohort44 semantic receiving complete; exact containing publication pending; wider program active",
+      "evidence_distribution": "YORI02U024P298–350; distress, rescue, claims, actual blast, helped group and narrated guild reprimand separated. Current cohort receives2675P/2530ruby, ten complete paragraph projections/one local EPUB/57 actual displays. Earlier C43 window repeats; current images/residuals/whole-edition/new global-first credit zero.",
+      "substantive_responsibility": "Observed distress, rescue, denied help, credit/reward discussion and later retaliation context warrant a bounded pair account. Later help, threat report and reprimand retain distinct access; no party-wide generator is forced.",
+      "gaps": "Individual voice allocation, truth of interested credit/reward claims, filing of the later threat report and personal identity of guild reprimand staff remain open. The grateful U027 novice party is not joined by shared novice status.",
+      "disposition_status": "SCOPED_TIER1_COHORT44_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
+      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
+      "prior_cohort44_current_fields": {
+        "character": "Two novice adventurers (Yorimichi02 social lesson; split pending)",
+        "identity": "Source-boundnovicepairrescuedbyYunyun; notautomaticallythegratitude-noteministorynovices.",
+        "likely_tier": "0-1 candidate; aggregate working row not denominator",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "evidence_distribution": "FullYORI02report29,Story07U024.",
+        "substantive_responsibility": "Criesforhelp/actualYunyunkillcontrastwithdenialofneedandappropriatedcredit;MeguminretaliatesafterYunyuncharitableinterpretation.",
+        "gaps": "Attributeseparateindividualvoicesbeforefinalcounts; directnewrescueversusmini-storyreportedrescuekeptdistinctunlessactualeventjoin. Noarbitrarytierauditfromgratitude.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+        "independent_observation_count": null
+      },
+      "cohort44_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI02_IDENTITY_AND_SUPPORTING_CAST_COHORT44_SUPPLEMENT.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort44--yorimichi-2-cast-and-supporting-roles"
+      ],
+      "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
+      "cohort44_scope_assessment": {
+        "subject": "Two frog-hunting novice adventurers",
+        "tier": 1,
+        "reason": "Observed distress, rescue, denied help, credit/reward discussion and later retaliation context warrant a bounded pair account. Later help, threat report and reprimand retain distinct access; no party-wide generator is forced."
+      },
+      "cohort44_current_scope_precedence": "Current scoped fields govern; exact prior fields remain dated history. Source/access records overlap and include groups/reports; no final people denominator or independent validation."
     },
     {
       "character": "Unnamed wallet-wager veteran (YORI01 U018)",
       "identity": "Unnamed newly arrived wallet-wager opponent in YORI01U018. Thief/Steal capability later affirmed by nod at P344–345; appearance alone is not the identity basis.",
-      "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
-      "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+      "likely_tier": "2 scoped; substantial individual monograph without forced model; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort43 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI01U018P1–398; especially239–261/269–321/331–357, with reported novice history16/149/194. Current cohort total: 2,116 P / 2,017 ruby in seven members/two EPUBs/47 displays, six full paragraph projections and one bounded naming context; zero current images, residuals or whole-edition credit.",
       "substantive_responsibility": "Consent defense, ordinary interference, strategic odds, an exact stake violation, funds checking and retaliatory retention support a substantial study.",
       "gaps": "No personal name, rigged die, shown prior-city crime, completed Kazuma rematch or watched final restoration. Profit, irritation, object value and face remain overlapping causes.",
-      "disposition_status": "SCOPED_TIER2_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT43_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort43_current_fields": {
@@ -1537,7 +1873,19 @@
         "justification": "Consent defense, ordinary interference, strategic odds, an exact stake violation, funds checking and retaliatory retention support a substantial study.",
         "limits": "No personal name, rigged die, shown prior-city crime, completed Kazuma rematch or watched final restoration. Profit, irritation, object value and face remain overlapping causes."
       },
-      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim."
+      "cohort43_current_scope_precedence": "Current scoped fields govern; earlier values remain exact dated history. Source records can overlap. No independent accuracy, mature-model or final-person denominator claim.",
+      "prior_cohort43_publication_fields": {
+        "likely_tier": "2 scoped; substantial individual monograph without forced model; publication pending",
+        "priority": "Cohort43 semantic receiving complete; exact containing publication pending; wider program active",
+        "disposition_status": "SCOPED_TIER2_COHORT43_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+        "cohort43_current_receiving": null
+      },
+      "cohort43_current_receiving": "Exact-source author publication is closed for the scoped C43 interpretation or alias supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "cohort43_publication_resolution": {
+        "source": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "424fb940e26dd4b2e6da6803e50afd81cef9b6cb1446fb0906d0dad2a3640d01"
+      }
     },
     {
       "character": "Pierre / ピエール (MAIN16 street performer)",

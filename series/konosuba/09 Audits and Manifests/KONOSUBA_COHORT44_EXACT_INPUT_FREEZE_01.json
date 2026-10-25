@@ -1,0 +1,19 @@
+{
+  "schema": "konosuba.cohort44.source-safe-exact-input-freeze.v1",
+  "private_complete_freeze_sha256": "a2c1b722115660d4c526552a7aa971eb31e660cb90399843301a27c1c4262b02",
+  "frozen_utc": "2026-10-25T03:51:21.749463+00:00",
+  "foundation_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_FOUNDATION_FREEZE_01.json",
+  "foundation_sha256": "8e5122a34c3c31379edc8dd2906b24a4deaec24e96aa88ddcd891668ca6959d6",
+  "private_foundation_freeze_sha256": "2c645c3acfd6b4ad3f98e91a29ab8cbef14fbe57501ad7bd1a2d0a17b3156f02",
+  "exact_input_path": "series/konosuba/06 Character Modeling and Reconstruction/DRYAD_EXPANDED_V1_EVIDENCE/DRYAD_SCENARIO_INPUTS_01.json",
+  "exact_input_sha256": "1871484bd870df203c8671ec0249b0c13e897bba30f28e8256c7640b8c4c3bf1",
+  "pre_first_plan_sha256": "acd52e0c6f10fbc523c851cd657abb543930e8db6c030b5f990604289b9a340d",
+  "scenario_ids": [
+    "DRY-A1",
+    "DRY-A2"
+  ],
+  "received_before_firsts": true,
+  "original_firsts_present_at_freeze": false,
+  "source_known_same_informed_root": true,
+  "no_independent_or_final_battery_claim": true
+}

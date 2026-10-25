@@ -1627,3 +1627,10 @@ Small worker actual rehearsal/performance coexists with failed cover and an abor
 Ozuma’s actual water assistance and timely wolf warning coexist with mistaken injury and credibility appraisals. Crow’s P281 metric critique is valid despite status defense and harmful intent. Akyua’s heal and Rakuresu’s protective offer are preempted, not performed failures. Megumi proposes reinforcement without carrying it out. The veteran’s nominal odds exploit stats; no rigged die or performed failed Blessing is invented. Recruiter report comparison does not give him the narrator’s private knowledge.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+The dryad helps against deer but does not have unlimited boss-deer control; remote weed control remains Kazuma’s inference. The follower changes hostages and leverage but has no demonstrated completed escape or final spell impact. The storm spirit takes intermediate spells, thins after three actual Explosions and bows; Aqua’s explanation and Kazuma’s annual-purpose inference retain their warrants. Cub meows, approach, garment play and sleep do not prove trained tactical obedience. Japan travel is actual despite later memory loss; skill use does not establish general competence with every device.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

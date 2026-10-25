@@ -1228,7 +1228,16 @@
         "published_project_paths": 1150,
         "current_models": 25,
         "no_independent_accuracy_or_confidence_gain": true
-      }
+      },
+      "cohort44_source_supplement": {
+        "scope": "YORI02U012/U022 local Chomusuke context only; existing individual/study retained",
+        "Darkness_account": "U022P16 cannot yet touch the cat",
+        "Kazuma_account": "U022P18 feeding and hand-removal;P19 Aqua-related scratching narrated by Kazuma",
+        "existing_tier_priority_disposition_and_frozen_study_exact": true,
+        "new_person_study_model_credit": 0
+      },
+      "cohort44_identity_supplement": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI02_IDENTITY_AND_SUPPORTING_CAST_COHORT44_SUPPLEMENT.md",
+      "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a"
     },
     {
       "character": "Sena",

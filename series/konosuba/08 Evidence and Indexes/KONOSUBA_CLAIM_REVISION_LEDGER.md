@@ -505,3 +505,10 @@ C42qualified Lolisa17/132specific-client failure bridge and contextual Luna-disg
 C43 positively joins old unnamed deputy100 to Lolierina231 at exact YORI01U014P63 while chief91 and unrelated230 stay separate. C29 client/father full-name precision is preserved. Crow/cub and Marybell/Mary are distinct; female devil/Arnes and unnamed clerk/Luna remain unjoined. Corrective drafts preserve Rakuresu’s table strike, attribute impostor suspicion to visitors and repair only the coverage link/destination before exact inputs. Original drafts and seals remain attributable. Four new diagnostic originals retain their binding and transfer issues without model or body repair.
 
 [Current evidence index](KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+C44 qualifies prior dinner-host pooling without rewriting the original deep-reading body orQ49: the host, male food supplier and take-home woman are separate local assignments. Old row120’s two-men label becomes THREE usingU024P225/266 while exact prior fields remain. The dryad stays distinct from Princess/Tranquility; follower/Hoost/Arnes, neighbor/Sutton, cafe daughter/MASK daughter and poultry seller/butcher remain unjoined. A source correction attributes Chomusuke feeding/hand removal to Kazuma18 rather than Darkness16; final Explosion targets the follower without separately shown impact or fate. An unaccepted recruiter offer is not a delivered rejection.
+
+[Current evidence index](KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

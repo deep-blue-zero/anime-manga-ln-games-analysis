@@ -2080,3 +2080,10 @@ Specific failed-Kazuma-client/priest-fear conjunction supports qualified Lolisa 
 Megumi’s emotion coexists with later source checking and a near-apology interrupted by Ozuma. Ozuma accepts an improvised ecological explanation and transfers real capability into excessive moral credibility, yet still notices immediate danger. Eibram changes an exorcism task while retaining a limit on a demanded blow. The veteran shifts from contents-only stakes to retaining the wallet and recipient-specific retaliation. Crow updates about identity while defending rank, then repeatedly withdraws under danger.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+The dryad’s living-dependent objection, wanted water and naturally expired-plant settlement support a conditional exchange constraint, while death threats and pressure resist an idealized fairness account. The dinner host checks immediate cat danger yet later admits wing-broth extraction and flees a rights confrontation; take-home permission belongs to another unjoined woman. The follower’s bag leverage is lost after provocation and Steal, with final fate unshown. Park-men harmful statements contradict a blanket harmless reading; the social lesson’s fake withdrawal is contradicted by the actual blast.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

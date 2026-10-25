@@ -1,14 +1,14 @@
 ---
 series: KONOSUBA
 artifact_type: secondary_character_coverage_audit
-scope: INCREMENTAL_CENSUS_AND_SCOPED_COHORTS_01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42_43
+scope: INCREMENTAL_CENSUS_AND_SCOPED_COHORTS_01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42_43_44
 status: active_provisional
 do_not_use_as_current_authority: false
 ---
 
 # Secondary-character coverage audit
 
-This maintained register retains456 nonfinal source/access records, including overlapping and group routes. PR324 reference correction is published at17e6afe7/full479 audit and its review is resolved. C43 semantic receiving is complete; exact new publication is pending: seven monographs, one two-rule provisional Ozuma model, four bounded profiles and37 new source/access records. Candidate totals64 model artifacts/58 source-scoped secondary model entries/117 compact/40 monograph-only routes do not count distinct people or independent observations. Old deputy100 joins existing Lolierina231 without another study. All63 existing models and old firsts remain exact; four new English firsts retain their binding/transfer issues. Eleven entering rows change,408 others and19 historical plane differences remain exact. See the [cohort43 index](KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Current C43 fields govern; older wording remains dated history. Full census, synthesis, successors, validation, designated integration and release remain open.
+This maintained register retains512 nonfinal source/access records, including groups and overlapping routes. C43 author gate is closed at1042c16a/full479 audit; C44 semantic receiving is complete and exact publication is pending: six monographs, one-rule provisional dryad model,21 bounded profiles and56 new source/access records. Candidate65 model artifacts/59 source-scoped secondary entries/138 profiles/45 monograph-only routes are not people or independent observations. Chomusuke21 receives a supplement only; Anna118 remains due. All64 entering models and earlier originals/scores remain exact. Nine entering rows change,447 others and19 historical plane differences stay exact. See the [C44 index](KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Current fields govern; prior wording remains dated history. Full census, synthesis, successors, validation, designated integration and release remain open.
 
 Iris earns scoped Tier3 treatment: direct ordinary activity, competence, duty, refusal, political choice, coercive tactics, different relationships and her own private focalization support distinct falsifiable mechanisms. The [monograph](../05%20Specialist%20Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md), [model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md) and [evidence index](KONOSUBA_IRIS_EVIDENCE_INDEX.md) carry those different responsibilities. Tier3 describes an earned reconstruction candidate, not demonstrated future accuracy or a mature universal simulator. Seven new informed rules and22actually generated synthetic outputs preserve weak, adverse and underdetermined branches.
 
@@ -1656,4 +1656,200 @@ At YORI-01 U026 P77–95, `text/part0024.html`, two familiar adventurers approac
 
 This is a Tier 1 bounded pair/role profile of situational dependence, useful warning and social coordination. The source does not individually allocate every turn or supply personal names. Familiarity is not proof that they are Keith, Dust, Taylor or any other named men. Their request for help does not mean they cannot spot a weakness in Kazuma's advice. His concern about being called 小狡い is his response, not a secret insult intention independently established for each man. No completed capital transfer, personal knowledge of every private reason for staying in Axel, or stable universal aversion to work follows. Their plain, familiar appeal is interaction-specific; it should not become a catchphrase or a separately certified dialect. More individuated choices could justify a later split, with the pair history retained.
 
-Exact containing publication remains pending. Prior source-first observations and every old model/first/score remain preserved; the full program continues.
+C43 exact-source author publication is closed. Earlier pending-at-authorship wording retains its dated scope; the publication resolution and author gate govern current status. Every model/rule/original, prior source-first observation, score and adverse finding remains preserved. Protected integration and the full program remain open.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles
+
+[Evidence and proportional scope](KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md) and the [identity supplement](../05%20Specialist%20Synthesis/KONOSUBA_YORIMICHI02_IDENTITY_AND_SUPPORTING_CAST_COHORT44_SUPPLEMENT.md) govern this source-known cohort. Six monographs and one provisional rule are proportional choices. Twenty-one bounded profiles and56 new access records include groups, reports and overlapping occurrences;512 records are not512 people. Chomusuke21 receives a supplement without duplicate study or model credit.
+
+| Current row | Subject | Tier | Proportional reason |
+|---|---|---|---|
+| 102 | Particular YORI02 dryad | 3 | Living-dependent claims, resource seeking, conditional cooperation and an expired-plant/water settlement constrain one narrow generator; threats, mediation and generic rivals prevent a maturity or independent-discrimination claim. |
+| 104 | Unnamed female noble dinner host | 2 | Invitation, household claim, immediate cage safety, debt, withheld method, admission and flight warrant a substantial account. Other nobles' lines are separate; exact incentive weights and general policy remain unisolated. |
+| 105 | White-tiger mother | 2 | Evasion, entrusting care, waiting, approach and coercive transport form a substantial nonverbal sequence. Exact motives and the final operation are not supplied; neither power nor animal status fixes a tier ceiling. |
+| 106 | Siegwald / ジークヴァルト | 2 | Multi-scene recovery, play, sleep, garment use and separation behavior earn an individual ordinary-life study. Generic juvenile/comfort/state rivals and untested comprehension limit a generator. |
+| 456 | Unnamed Wolbach follower | 2 | Particular reverence, coercion, route changes, new leverage and failed superiority earn an individual account. No borrowed Hoost/Arnes identity or model; broader transfer and final fate remain open. |
+| 457 | Particular storm great spirit | 2 | Refusal, selective impacts, provoked pursuit, relief, bow and disputed gift warrant substantial treatment. Physiology, language and private purpose are mediated/underdetermined; no fulfilled final gust or added generator. |
+
+## Cohort44 — Yorimichi2 supporting agents and qualified local groups
+
+These21 Tier1 profiles retain source-bound roles, local turns and groups. They are not21 certified distinct people or21 independent observations. Full current native scope is ten paragraph/ruby projections,2,675P/2,530ruby; current images and nonparagraph residuals have zero new credit. Earlier whole-edition reading retains its dated scope. All U/P locators below refer to YORI-02. Anonymous dialogue is not assigned a stable cross-scene person merely from alternating lines or similar register. These profiles add no reconstruction model, generated first or independent performance result.
+
+### Fairy cook — immediate danger, separate work and unheard words
+
+The unnamed fairy in U022 is a particular participant removed from the kitchen with the cage290–295. The host calls the fairy a household cook340. The later admission376 qualifies that label: the fairy supplies wing-derived seasoning through an extraction practice, rather than being shown autonomously wielding cooking tools. The earlier suspicion that the fairy was an ingredient is not proof of the later work arrangement's safety or consent.
+
+Kazuma sees curiosity327. When he starts opening the cage328, the fairy urgently shakes her head330, adopts protective gestures331–332 and points toward Chomusuke333. Kazuma restrains the cat335; the host checks that restraint before opening351. This gives the fairy an effective, owned intervention. Choosing the cage over this immediate predator does not endorse every prior or future confinement, owner or working condition.
+
+The fairy whispers to Darkness352 and Chris355. Gratitude is Kazuma's interpretation354; Chris's version of the next message360 is a recipient report. The later whisper374 prompts disclosure of the work issue375–376. These acts show communication and selective recipients without a complete audible Japanese voice, proven mind-reading power or certified access to every secret. No human-style private monologue is invented.
+
+The fairy is last explicitly on Darkness's shoulder370/374. Final residence, safe release, continued work, remuneration and personal history remain open. This Tier1 profile gives substantial local agency without inferring a general welfare preference hierarchy or transferable generator. Child-equivalent treatment and exploitation are discussed critically and non-graphically. The host's flight does not itself complete rescue or settle the fairy's future.
+
+### Station employee — a contribution established after the incident
+
+The Japan-trip worker is unnamed. Aqua's garment is visibly caught in the train doors at U014P105–107. The worker's help is established in the companions' subsequent account109–111, with Aqua agreeing110. Its procedure is elided; this is not a newly watched scene of the worker using a particular control or a detailed professional technique.
+
+Megumin and Darkness tried to help114, and their effort retains credit without becoming the sole rescue. The “monster tamer” suggestion111 is an unfamiliar visitor's interpretation of a train employee, not a supplied fantasy profession. The description of an ordinary-looking older man110–111 does not establish a name, complete biography or identity with the nearby whistle occurrence105.
+
+Considering a thank-you110 is not delivering a gift. No direct dialogue, private emotion, exact training history or later meeting is supplied for this worker. The bounded responsibility is an outside contribution that changes the party's predicament. It belongs neither to Kazuma's strategy nor automatically to every employee in the Japan story.
+
+Tier1 is appropriate for a narrowly attributable professional role with an explicit evidential limit. The arcade employee and later police officer are separate routes. Earlier shorthand that the worker “actually rescues” is retained as a claim about the event established by the aftermath, without expanding its observation mode into a shown procedure. No new model, voice certification or independent test follows.
+
+### Three park strangers — an actual trio with unbound later turns
+
+The U024 park group has **three men**, explicitly225. Three defensive utterances follow249–251, and the four-person hiding calculation including Yunyun266 corroborates the group size. The census's former two-person label is preserved as dated history and corrected in the current route. The text does not provide names or stable distinguishing tags mapping every later line to the same particular man. No invented three-person roster is created by alternating the dialogue.
+
+Their claimed birdwatching249, coin search250, child-guarding task257 and spending on equipment repair263 are interested assertions. The observer sees men watching children228; neither that appearance nor Kazuma's confident harmlessness story229/235–244 certifies their good intentions. Their later exclusionary and predatory statements266–272 contradict his appraisal. Those statements remain critical, non-graphic evidence, without a diagnosis or an invented completed offense.
+
+Yunyun's effort to join265 receives refusal266. The group first responds defensively, then speculates about the approach260/263 and states restrictive preferences. These are their own responses, distinct from Kazuma's stereotype of an easily persuaded friendly audience. The fact that his first social plan fails does not make every similar-looking person unsafe.
+
+Kazuma and Megumin call for police275. No officer response, arrest or legal outcome is shown. The profile is Tier1 for this local group and its individually unbound turns, not a single collective mind or three separately modeled people. Later positive tags could permit further individualization. Current ignorance is retained rather than hidden behind an exact population count.
+
+### Two frog-rescue novices — credit claims and real exposure to retaliation
+
+The U024 party is explicitly two men303. One local voice denies being in danger305, and another boasts about village strength306. Later adjacent turns also lack stable identifying tags; they cannot all be assigned to named or enduring individuals by register alone. This pair is not automatically the grateful Rookie-Killer witnesses in U027.
+
+A cry for help298 and Yunyun's actual frog kill302 contradict the pair's denial of need305/311. Their assertion that they weakened the frog312 is interested, and their claims to meat and payment319–320 are not a neutral adjudication of entitlement. Their remarks display face-saving and attempted credit appropriation in this encounter; a universal habit or verified village status does not follow.
+
+They are also recipients of harmful conduct. Megumin's apparent yielding316/321 is followed by an actual blast334–335 that knocks them down. Yunyun's charitable theory325 is thereby contradicted. The pair is helped to stand338, threatens a report339–340 and reacts to the crater341. A threatened report is not a shown filing, and their earlier behavior does not justify dangerous retaliation.
+
+The later frog fight involves nearby adventurers348; the pair's individual share is not isolated. The principals' guild reprimand350 is narrated, without identifying every staff member or proving a completed case initiated by these men. This Tier1 local-turn profile preserves their agency, adverse claims, vulnerability and limited knowledge. It supplies neither a joint personality model nor two independently tested generators.
+
+### Japan recruiter — a card and an unaccepted offer
+
+In U014 a man approaches Darkness134–138 and leaves a business card138. Aqua reports that he asked ages and gave only Darkness the card141. Darkness initially understands it as an acting invitation144; Kazuma identifies the card's adult-film recruitment150. Later explanation causes Darkness distress157–159. There is no accepted contract, filming or performed intimate act.
+
+The profile retains the recruiter's selective approach without treating Kazuma's speculation160–161 about appearance, age and clothing as verified private motive. The man's face, personal name, organization and complete screening practices are not supplied. A card and a reported inquiry are more limited than a fully observed employment negotiation.
+
+He is distinct from the YORI01 capital recruiter/inspector: occupation alone supplies no cross-world identity. His direct opening134 is bounded social speech, while the substance of his pitch is reported by recipients. This Tier1 professional-role profile records an actual consequential offer and its reception with critical, non-graphic framing. It does not generate a predatory diagnosis or a universal recruiter policy from one approach.
+
+### Arcade employee — sympathy and a specific machine rule
+
+The arcade employee is heard protesting at U014P197–198, then directly tells Darkness that her frustration is understandable but striking the machine is prohibited202. The warning responds to a real machine-directed act, rather than an arbitrary rejection of foreign visitors. Kazuma apologizes205 and moves Darkness away; the employee's rule belongs to the employee, not to Kazuma as an invented original policy.
+
+This gives a small but clear contrast between recognizing a customer's feeling and permitting the customer's conduct. It does not establish the worker's complete tolerance level, disciplinary powers, role at another machine or personal relationship with the party. No ban, fine or property repair is shown.
+
+The employee is called a man in Darkness's complaint201, with no personal name. The station employee's earlier intervention and the outside police questioning are separate. This Tier1 bounded profile preserves ordinary work, direct voice and an effective limit. General customer-service training and a transferable individual generator remain unestablished.
+
+### Japan police officer — questioning interrupted by departure
+
+The outside officer is heard at U014P246 asking about country and visa while warning against interference. Kazuma identifies the encounter as police questioning247 and interprets the suspicion248. The officer continues trying to obtain information250, then reacts to the visitors' fading bodies254–255. The escape mechanism is the known limited travel time, not an observed decision by the officer to release a cleared suspect.
+
+The officer's speech demonstrates a local official inquiry and surprise at an extraordinary event. Its accusatory premise and Kazuma's interpretation of the suspected offense are not proof that an offense was committed. No arrest, prosecution, checked immigration document or final legal finding is shown.
+
+The worker has no supplied name or link to Axel police. The officer is not the station employee or arcade worker merely because all intervene in the party's day. Tier1 records this finite professional encounter, with direct words and interrupted information gathering. A wider punitive temperament, diagnosis or transferable enforcement rule would exceed it.
+
+### Rookie-Killer lookout — watching is not the attack the party expects
+
+The U018 lookout appears57 and remains still rather than attacking64–65. It howls68, with distant responses69, and stays in place when the party runs93. Later it hides among trees as Megumin's magic rises121 and is absent after the blast127. These observed choices constrain the party's immediate threat interpretation without establishing that every Rookie Killer is safe.
+
+Darkness suggests that the tiger has been directing such creatures111. The mother's arrival fits that account, but no raw command or exact agreement is heard. Aqua's idea that it fears the party66 and the speculation about hunger98–99 are likewise interpretations. Its exact attention, obligation and reason for withholding an attack remain open.
+
+Tier1 is a bounded nonverbal role profile. It retains an individual local sequence and an information limit without importing the mother's speed, inventing a friendly personality or merging the lookout with U027's reported pursuing Rookie Killer. Absence after an Explosion is not proof of its death or a completed escape route. Animal status imposes no permanent model ceiling; the current causal evidence remains narrow.
+
+### Storm-event male explainer — a private motive behind public preparation
+
+Kazuma addresses a nearby adventurer in U020P140–141. This man explains the annual swimsuit practice142, the reported relation between damage and the return gust149–152, and his hoped-for privacy violation157. The conversation provides his own stated interest, alongside the genuine civic danger. It is an interested account of past collective practice, not a neutral record of every participant's consent or motive.
+
+His explanation helps recruit Kazuma into the hidden goal159. It does not prove that the spirit knows that goal, that the three casters share it or that every man present endorses all of the account. The practical swimming rationale116 and the private exploitation motive are different propositions; the latter does not make swimming conditions fictional.
+
+No personal name joins this man to the earlier Iron-Mask speaker55–56 or the two later provocateurs317–324. The profile is Tier1 for a locally stable speaking role with a consequential private disclosure. It uses critical, non-graphic framing and retains the attempted imposition as adverse. The final gust is cancelled382; the desired result is not performed. No generic male or individual lifetime disposition follows.
+
+### Two storm provocateurs — coordinated pressure without a complete roster
+
+Two separate adventurers interrupt the discussion at U020P317–320, explicitly one followed by another318–319. They challenge Megumin's courage and reputation after she has proposed staged testing309/315. She responds321 and Yunyun joins322. Their knowing gestures to Kazuma324–325 support deliberate local coordination in pressuring the caster toward the concealed goal.
+
+This pair is not automatically the earlier male explainer or every swimmer. The source supplies no names or stable markers connecting each later spectator to either speaker. Their two local turns can be retained without inventing permanent identities or assigning all group dialogue to one of them.
+
+Their action has a real consequence: a safety proposal is displaced by honor pressure. The three spells do calm the spirit, but that useful outcome does not erase their manipulation or establish informed agreement to the hidden privacy aim. Aqua cancels the final gust382. Tier1 records a bounded coordinated role, with own motives supported by the exchange rather than a joint personality model. No completed final violation or independent causal trial is claimed.
+
+### Restaurant waiter — several access conditions and a concrete concession
+
+The U022 waiter rushes over114 and raises a dress code115. After the party argues about what counts as formal clothing116–117, the waiter supplies separate introduction and private-booking conditions119, then offers lunch tickets124. The party actually receives tickets126. These are successive responses, rather than one blanket statement that commoners are worthless or that Aqua is not a goddess.
+
+The employee manages a booked venue while dealing with insistent visitors. The concession gets something concrete to the party without being shown to admit it; the later host's invitation137 is a different agent's choice. Calling the ticket an effective deflection is a bounded interpretation, not a supplied private motive or a proved unlimited power to waive rules.
+
+Name, gender, authority over the full restaurant, employment history and later consequences are absent. This Tier1 profile records ordinary work, direct limiting speech and a material concession. No identity joins the waiter to other restaurant staff, household cooks or guild workers by occupation. The subsequent elite hospitality does not erase the waiter's valid booking condition or turn the initial dispute into a completed theft investigation.
+
+### Seafood-supplying nobleman — pleasure in appreciation with a class assumption
+
+In U022P207 a man identifies the lobster and fish as his house's contribution and admits that he did not expect a commoner to recognize the taste. Kazuma thanks him209–210. The man responds with an enthusiastic account of the ingredients' danger, cost and capture contracts211–212. His initial class assumption and subsequent pleasure coexist; neither should be reduced to universal contempt or complete egalitarianism.
+
+His appetite is expressed through providing food and explaining its acquisition, rather than a shown hunt or cooking performance. Claims about ingredient abilities and the cost of procurement211 are his account. The dishes are actually consumed, but no independent audit verifies every supply claim. He is separate from the female host136–138/338 and the take-home-permission woman230–237.
+
+This Tier1 profile retains an ordinary pleasure, a changing appraisal of a guest and a distinctive local voice. Name, house identity, wider political aims, lasting friendship and all untagged later noble lines remain unassigned. Shared interest in food does not join him to the MAIN11 banquet noble325. No reconstruction model is proposed from this short appreciative exchange.
+
+### Take-home-permission noblewoman — approval with a keeping warning
+
+When Megumin stops eating at U022P229, one of the noble ladies asks whether the dish she provided is unsuitable231. Megumin explains the wish to take it to family233. Darkness objects234, while this woman instead looks pleased235 and permits the idea with a warning that the food will not keep236. She owns the response; the text does not positively reidentify her as the dinner host.
+
+The sequence supports pleasure in another person's enjoyment and practical attention to spoilage. It does not establish a universal willingness to give away supplies, complete parental knowledge or a performed family delivery. Megumin proposes having Yunyun freeze the dish237. That is a proposed means; the freezing, transport and relatives' reception are not shown.
+
+The woman's name, family and voice beyond these local turns are unknown. Tier1 preserves a small but consequential alternative to Darkness's etiquette objection, with the condition attached. Other food-offering women and men are not pooled into her biography. The warning is not merely ornamental: it limits what her permission actually supplies. No model or independent outcome trial follows.
+
+### Ice-cream seller — ordinary service under an anxious customer's approach
+
+The female stall worker in U024 answers Megumin's order38, asks about Yunyun's choice38–39, laughs43 and recommends a particular moving neroid preparation44. Yunyun accepts45 and receives it47; Megumin receives her separate order48. The seller's work changes an extended anxious approach into an actual purchase.
+
+Megumin's earlier description of a weak-looking woman22 belongs to Megumin, not to a verified incapacity in the seller. The seller does not display the hostility Yunyun fears. Her recommendation nevertheless produces a strange result that even Megumin questions46. The customer's uncertainty is not proof of fraud, and actual payment50–51 is Yunyun's act rather than the seller's charity.
+
+Tier1 is a source-bound service profile with direct speech, an offered preference and completed local provision. The seller's own reasons for finding the scene funny, business history and relationship to other food vendors remain unknown. She is distinct from the café daughter later encountered200–214. A local successful sale does not diagnose or permanently resolve Yunyun's anxiety, and it does not establish a general persuasive generator for the worker.
+
+### Passing female warrior — an intrusion, protest and reported forgiveness
+
+Kazuma recognizes the passing adventurer from guild sightings at U024P188. He actually steals intimate property190; she protests and asks what she did191. His intended harmless conversation device is explained only afterward197 and does not authorize the act. The source shows return and apology193, then narrates that forgiveness was obtained196.
+
+Her response establishes an owned objection rather than consent inferred from the fact that she knows Kazuma's name. The later forgiveness is a particular repair outcome, not approval of the method, permission to repeat it or a blanket account of her values. She is not named, and no positive evidence joins her to another warrior in the corpus.
+
+This Tier1 profile retains the actual recipient's words, privacy interest and bounded resolution with critical, non-graphic description. Her competence as a fighter, exact social history and emotional aftermath are not supplied. The encounter contributes to the failure of Kazuma's lesson, but her agency is not exhausted by being a counterexample to his plan. No generated model or score is added.
+
+### Café daughter — an imposed collision and a commercial reason to agree
+
+Megumin deliberately collides with a distracted girl in U024P200. The girl apologizes201–202 and reacts to an exaggerated accusation204. When Megumin asks for company at a shop206, she agrees207. The later explanation that she is that shop's daughter212 changes the interpretation of the apparent social triumph: welcoming a customer is a concrete alternative reason for assent.
+
+The explanation does not prove that she felt no fear or had no wish for company. It does prevent the auditor from treating the agreement as an uncontested demonstration of effortless friendship. Megumin promises a later visit214; the actual visit, meal and lasting relation are unperformed. No name joins this daughter to the MASK restaurant attendant297 or the separate ice-cream seller.
+
+Tier1 records a locally identifiable participant who apologizes, responds under pressure and states a business interest. Her exact household position, ownership, age, regular customer strategy and inner appraisal remain unknown. The profile preserves the coercive beginning and limited agreement without turning her into a faceless prop or inventing a comprehensive commercial personality.
+
+### Rain-request client — a specialist commission and a narrated later test
+
+The U026 client is unnamed and not sexed. The receptionist reports repeatedly checking that Aqua really is the intended specialist and that liability conditions are understood16. The drought context26 and the described commission24 establish a particular work need. They do not provide a directly heard client speech or every reason for the selection.
+
+Rain actually falls63. The later coda explicitly reports the client testing an inverted Aqua charm and becoming an Axis believer66. That is more than a future test proposal, but remains a narrated report with no measured repeatability, complete control conditions or direct conversion address. The charm's supplied result is not an independently validated general weather mechanism.
+
+Tier1 is a bounded commissioned-work and belief-update profile. It keeps the client separate from ritual helpers, spectators and the spirits. No name, profession, household or precise prior faith is supplied, and another water-seeking customer is not automatically the same person. The agent's particular commissioning and later confirmation merit inclusion while broad psychological or spiritual reliability remains unmodeled.
+
+### Water spirits at the rain ritual — mediated demands and effective limits on ceremony
+
+The U026 water spirits are an uncounted collective occurrence, not a named individual or the U020 storm spirit. Their presence is inferred through Aqua's addressed speech51/55/58/60 and effects: humidity53, cloud formation59 and the eventual downpour63. Kazuma does not see separately identified spirit bodies or hear their Japanese answers. Aqua's accounts must retain that one-sided access.
+
+Aqua tries to stage a delayed need for offerings55. She then responds to a demand for payment58 and protests over the expensive wine58/60. The group does not conform to her intended ceremonial sequence. Expensive bottles are meanwhile recovered by adventurers57, so the observed bottle action must not all be assigned to unseen spirit hands. The rain succeeds while the staged offering plan fails.
+
+This Tier1 collective profile preserves consequential nonhuman participation and a reported resource claim with explicit mediation. It does not define one shared personality, a spirit population, a universal love of wine or an unlimited rain capacity. No exact private reply, completed particular bottle theft or independent causal trial is invented. A model would require more individual identity and better separation of Aqua's interpretation from observable effects.
+
+### Grateful novice party — present thanks for a reported rescue
+
+In U027P44 a novice-looking party follows Yunyun. Its members report that she saved them from a Rookie Killer45–47, express gratitude and praise her strength. Their thanks are actually spoken in the current scene. The rescue itself remains their report; the narrator later describes the threat as repelled58, without a newly watched kill.
+
+The party's size is not supplied. Three adjacent utterances do not establish three permanently distinguishable speakers, and the text does not identify the group as two men. In particular, it is not joined to the U024 two-man frog party by the generic word “novices.” Different adversaries, circumstances and reactions must retain their own routes unless a positive join appears.
+
+Tier1 records a meaningful relation to a rescuer and an actual acknowledgment that contrasts with the other pair's denial. It does not give every participant a lasting grateful temperament or measure Yunyun's skill independently. Their ordinary plans, names and later friendship are unknown. The party is not automatically identical to the nearby spectators encouraging the later card dispute57. No model, person denominator or independent performance score follows.
+
+### Cake-shop supplier — a transaction whose appearance is misread
+
+The U028 man speaks familiarly with Chris33 and produces a bag of white powder34. His scarred appearance and leather jacket contribute to Darkness's suspicion32–34. Aqua identifies him as a former adventurer who followed a dream of running a cake shop and explains the flour and sugar35. The visible exchange and Aqua's fuller account are distinct evidence planes.
+
+The supplied ordinary business explanation counters the criminal reading of the powder. It is not a complete directly heard autobiography or proof of every event in his past. Chris's later ingredients and the birthday inference69–74 fit an ordinary baking purpose; no actual cake preparation or birthday celebration is shown.
+
+Tier1 retains a particular supplier, material contribution and corrected interpretation of a familiar-looking transaction. The agent's name, whole career, business terms and identity with any other confection-maker remain unresolved. His trade is not grounds to merge him with DUST01's road coalition confection-maker405. No independent clean-versus-suspicious-appearance test or general personality generator is claimed.
+
+### Poultry seller — a separate ingredient source
+
+In U028P43 Kazuma sees a man with a substantial knife, a white coat and stains identified as blood44. Aqua identifies a chicken-meat seller and points out an egg handover to Chris45. The latter is her account of what she sees, not a separately transcribed seller explanation or a completely followed production chain.
+
+The ordinary ingredient context corrects Darkness's suspicion. A knife and blood-marked work clothes are insufficient proof of wrongdoing, while Aqua's explanation does not supply a full biography or general character certificate. The seller is distinct from the cake-shop supplier33–35, and no positive identity joins this worker to the CONTEXP01 butcher174 merely by trade.
+
+This Tier1 profile retains an ordinary material contribution and its limited access. Price, stock ownership, exact relationship with Chris, history and later conduct remain unknown. Cake, gift and birthday plans at the close remain plans. The worker's inclusion does not require an invented direct speech, inner emotion or reconstruction model; the actual source-bound role is enough for a bounded account.
+
+Exact containing publication remains pending. Prior dated scopes, earlier models and originals remain exact; the full program continues.

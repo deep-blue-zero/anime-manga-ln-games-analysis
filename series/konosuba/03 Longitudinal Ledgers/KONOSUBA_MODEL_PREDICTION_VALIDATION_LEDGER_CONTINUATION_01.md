@@ -652,3 +652,10 @@ Cohort42authors no model, rule, exact input or first body: two Tier2monographs a
 Ozuma’s foundations froze after 24 complete review pages, four corrective pages and an exact link/destination correction, before exact inputs. Four exact English prompts and a pre-first plan were received and frozen, then four direct original bodies were authored once and sealed before feedback. A1 adds unprovided door action; A1/A2 add agreement-role allocation; A2 may idealize fairness; B2’s precise moral ordering remains unvalidated. B1 retains the capability-to-credibility error. All originals and rules remain unchanged. Two dependent known-source contrasts confer no independent accuracy, grade, confidence gain or final-battery credit.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+The dryad foundation received33 complete pages and4 corrective pages before freeze. Two exact English prompts and their pre-first plan were then received and frozen; two genuine bodies were authored directly once and sealed before feedback. A1 accepts an expired-bundle exchange and waits for the trader’s flask; A2 refuses living-plant removal and leaves its counteroffer unaccepted. No unambiguous material input violation was identified. Neatness, generic bargaining/protection rivals, conspicuous known-source cues and invented English scene details limit both bodies. One dependent pair adds no independent trial, accuracy, grade, confidence gain or final-battery credit. Originals, inputs and rule stay exact.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

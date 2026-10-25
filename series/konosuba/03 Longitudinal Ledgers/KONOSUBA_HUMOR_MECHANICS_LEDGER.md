@@ -2106,3 +2106,10 @@ Abduction discussion becoming preference debate, demanding a feared binding and 
 The visiting quartet’s parallels do not make them aliases or transfer the principals’ psychology. Rank reversal, excessive heroic credibility, the veteran’s rule inconsistency and the diary/adoption interruption are distinct comic mechanisms. Their comedy does not erase threats, invasive requests, coerced contact, purification or unresolved parentage. No new H/L census or selected-sample denominator is claimed.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+Japan’s apparent operator/game misunderstandings do not create imaginary people. Bounty logic turns tiger beauty into hunting interest; it does not establish actual pelt harm in the episode. The storm’s anticipated clothing gust is prepared but canceled, not a completed mass-exposure event. The dinner food reveal turns immediate hospitality into a dispute over fairy treatment, with household claims, other suppliers and mediated whispers kept distinct. Comedy does not erase coercion, predatory statements, hostage danger or unresolved custody. No new H/L census or denominator is inferred.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -2073,3 +2073,10 @@ Chief directives, argument, protest and refusal vary with leverage. Adjacentっ�
 Ozuma’s plain self-introduction, explanatory exchange correction, contracted threats and rough phrasing with カズマさん vary by state. Rakuresu’s タナカ殿, table strike and protective explanation coexist; Megumi’s personal disclosure, quoted accusation, stammer and rule objection are distinct functions. Crow’s pedigree claims differ from pleading; Pickles’s voice is Aqua-mediated. Four new English hypothetical firsts retain functional limits and do not certify Japanese particles, native performance or acoustics.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+Dryad and storm-spirit meanings are mediated; raw glyphs and translated propositions have different warrants. The dryad’s resource requests, contempt and indignation do not give every translator line direct Japanese authority. The follower’s reverence and coercive demands remain his local voice, without borrowing Hoost or Arnes. Siegwald and mother have nonverbal acts rather than invented human monologues. Two retained English dryad originals are functional hypothetical renderings through an explicitly supplied interpreter, without Japanese or acoustic certification.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

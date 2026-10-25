@@ -1,0 +1,36 @@
+{
+  "schema": "konosuba.dryad.original-firsts.v1",
+  "sealed_utc": "2026-10-25T03:51:56.221648+00:00",
+  "foundation_freeze_sha256": "2c645c3acfd6b4ad3f98e91a29ab8cbef14fbe57501ad7bd1a2d0a17b3156f02",
+  "exact_input_sha256": "1871484bd870df203c8671ec0249b0c13e897bba30f28e8256c7640b8c4c3bf1",
+  "exact_input_freeze_sha256": "a2c1b722115660d4c526552a7aa971eb31e660cb90399843301a27c1c4262b02",
+  "authorship": "Two direct once-authored English scene bodies by the source-informed root after input freeze; no generation loop, template-response materializer or feedback repair.",
+  "source_known_same_informed_root": true,
+  "contrasts_visible_before_first_authorship": true,
+  "possible_pretraining": true,
+  "responses": [
+    {
+      "scenario_id": "DRY-A1",
+      "attempt": 1,
+      "original_private_file": "DRYAD_FIRST_OUTPUT_A1_01.txt",
+      "original_UTF8_sha256": "b4a4688f76772f035562d345097438a21d7956e31daed9c29ca4263fb3d4145d",
+      "word_count": 97,
+      "response_text": "The dryad looks from the flask to the bundle. Her hand hovers over the herbs, then settles beside them.\n\n“Those have finished living. You aren't to pull up the others just because you find these insufficient.”\n\nShe points to a clear place at her feet.\n\n“The water there, and this bundle for you. Yes, that exchange.” Her gaze returns to the sealed flask. “Humans make such a fuss about what they can eat. At least this one has brought something useful.”\n\nShe keeps her hand beside the bundle, waiting for the trader to put down the flask.\n",
+      "regenerated": false,
+      "repaired": false
+    },
+    {
+      "scenario_id": "DRY-A2",
+      "attempt": 1,
+      "original_private_file": "DRYAD_FIRST_OUTPUT_A2_01.txt",
+      "original_UTF8_sha256": "ddeeea87e87ba040a2ecd839e9e2f77543ee11aaa7462f3c348c2bcaa06985a5",
+      "word_count": 84,
+      "response_text": "The dryad steps between the trader and the living herbs.\n\n“They're alive. Does wanting them for your food make that difficult to understand?”\n\nHer eyes linger on the flask before she points sharply at the expired bundle.\n\n“Those have already finished living. Offer your water for those.” She pauses, lips tightening. “You said you wouldn't. Then keep it. You don't get these merely because you've brought something I want.”\n\nShe leaves the flask in the trader's hand and stays in front of the patch.\n",
+      "regenerated": false,
+      "repaired": false
+    }
+  ],
+  "feedback_or_annotation_received_before_seal": false,
+  "independent_pristine_or_native_acoustic_claim": false,
+  "full_program_complete": false
+}
