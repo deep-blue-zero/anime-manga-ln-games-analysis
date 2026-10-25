@@ -1434,3 +1434,10 @@ The dryad’s human-fertilizer threat and pressure after refusal remain adverse;
 Shumel's articulated grievance does not make her attempted dangerous attack harmlessU014370–383; no completed killing is shown. The last-life owner is explicitly a woman/succubusU016330/337/359, distinct from MAIN16 vampire126. Her revised offers332–335 are unperformed; Vanir's responsibility/kin intervention343–350 stops Wiz, followed by actual hospitality359–360. Darkness's chosen participation in a collar sequenceU014575–594 does not authorize later humiliating photographs over objections623–629. Warm belongingU020828–882 does not complete unsigned contracts, apologies, debt repair or proposed outings.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+Angie fear and costly town-protection decisionU018591-604 are meaningful despite ridicule and later collapse; subsequent protection does not erase the preceding bill exploitation or withheld warning. At the coatl battle, Darkness agrees to a paid one-wing requestU020367 before Kazuma forcibly extends it377-390; an extra5000offer is not a witnessed payment. The mask-binding woman is a contributor387-400 whose aid does not authorize every coercive act. Dust being revived477 is not zero actual death. The child Anna and youthful-looking unnamed worker retain nonsexual treatment, with the latter exact age unproved.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.

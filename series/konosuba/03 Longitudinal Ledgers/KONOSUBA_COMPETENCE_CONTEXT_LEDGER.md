@@ -1641,3 +1641,10 @@ The dryad helps against deer but does not have unlimited boss-deer control; remo
 Actual capabilities have finite contexts: Shumel casts a dangerous spellU014375 but Darkness intercepts381 and uses the event383; guards cut Bind and remember tactics463/471–472; Melvirei balances water and healsU018345–346/408–410 while learning/comprehension remain hypotheses. Prototype sweeping/alarm/explosionU01690–111 does not demonstrate a humanlike mind and is not the sold later stock368. The EXP03 returnU034492–515/U04513–54 ties the Hoost aftermath and capital invitation specifically to existing routes, with an unnamed probable Rex counterpart and a broader coalition rather than automatic Sophie/Terry voices.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+Angie actual Sharpness/mineral techniqueU018471-484 and kobold kills510 coexist with uncertainty, resource dependence and a dangerous pursuit whose onset is elided. Her attempted Sigil Burst is not completed before Megumin Explosion609. The weather inquiryU012500-506 is compressed; no extra preliminary escort casting is explicitly narrated. Ignis actually uses spear/wire interceptionU020333-347, while archer group credit402 does not assign each earlier shot to one speaker. Dark Stalker/Assassin prepare weapons and poisonU014415-449 without a performed rescue attack; reported later teaching/potion use remain separate from the unseen original lesson/transfer.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.

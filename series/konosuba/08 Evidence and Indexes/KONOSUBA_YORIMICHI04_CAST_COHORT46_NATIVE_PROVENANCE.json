@@ -1,0 +1,742 @@
+{
+  "schema": "konosuba.cohort46.native-provenance.v1",
+  "authored_utc": "2026-10-25T09:13:29.264637+00:00",
+  "source_objects": [
+    {
+      "source_id": "YORI-04",
+      "source_filename": "Konosuba - Short Stories - Yorimichi 4.epub",
+      "bytes": 10437818,
+      "sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "OPF": "item/standard.opf",
+      "OPF_sha256": "ca1a08ee4b2ce96e79897b9f9fb12c142e685c24027335f860e457b705a998e2",
+      "language": [
+        "ja"
+      ],
+      "actual_OPF_spine_entries": 25,
+      "fresh_ZIP_CRC": "PASS",
+      "scope": "Object/CRC/OPF identity is technical; semantic receiving is separately recorded."
+    },
+    {
+      "source_id": "MAIN-02",
+      "source_filename": "Konosuba - Main Series - Volume 02.epub",
+      "bytes": 6872479,
+      "sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+      "OPF": "item/standard.opf",
+      "OPF_sha256": "f2f0dbf27e8204db7db9bd2373ec9de75629f4526d13d2a229752de11d201a43",
+      "language": [
+        "ja"
+      ],
+      "actual_OPF_spine_entries": 27,
+      "fresh_ZIP_CRC": "PASS",
+      "scope": "Object/CRC/OPF identity is technical; semantic receiving is separately recorded."
+    },
+    {
+      "source_id": "MAIN-13",
+      "source_filename": "Konosuba - Main Series - Volume 13.epub",
+      "bytes": 2779947,
+      "sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "OPF": "content.opf",
+      "OPF_sha256": "88e3963938b0ff79173f0827070dc99183cd95fce834fe3b5d09a78ffa005cf5",
+      "language": [
+        "ja"
+      ],
+      "actual_OPF_spine_entries": 24,
+      "fresh_ZIP_CRC": "PASS",
+      "scope": "Object/CRC/OPF identity is technical; semantic receiving is separately recorded."
+    },
+    {
+      "source_id": "MAIN-16",
+      "source_filename": "Konosuba - Main Series - Volume 16.epub",
+      "bytes": 8530869,
+      "sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "OPF": "item/standard.opf",
+      "OPF_sha256": "9bf3cb7daa5812197253e8f5328e624ceee6b367f0a0ce895b3729fc31d6721e",
+      "language": [
+        "ja"
+      ],
+      "actual_OPF_spine_entries": 27,
+      "fresh_ZIP_CRC": "PASS",
+      "scope": "Object/CRC/OPF identity is technical; semantic receiving is separately recorded."
+    },
+    {
+      "source_id": "MAIN-17",
+      "source_filename": "Konosuba - Main Series - Volume 17.epub",
+      "bytes": 2197695,
+      "sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "OPF": "content.opf",
+      "OPF_sha256": "bcb1fa6a6479b790f3edea18a9d00ed3fff6fcf4c16bfc2d6e9cb9dc02ad4d7c",
+      "language": [
+        "ja"
+      ],
+      "actual_OPF_spine_entries": 20,
+      "fresh_ZIP_CRC": "PASS",
+      "scope": "Object/CRC/OPF identity is technical; semantic receiving is separately recorded."
+    },
+    {
+      "source_id": "YORI-01",
+      "source_filename": "Konosuba - Short Stories - Yorimichi.epub",
+      "bytes": 2395940,
+      "sha256": "71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594",
+      "OPF": "content.opf",
+      "OPF_sha256": "bd03e0d8867c7acaa7bec3a4a490d6287042c21f8c98ad5251537afbde2dd2de",
+      "language": [
+        "ja"
+      ],
+      "actual_OPF_spine_entries": 32,
+      "fresh_ZIP_CRC": "PASS",
+      "scope": "Object/CRC/OPF identity is technical; semantic receiving is separately recorded."
+    },
+    {
+      "source_id": "DUST-CONT",
+      "source_filename": "Konosuba Extra - Dust - Motto Ano Orokamono ni mo Kyakkou wo - Himesama kara no Shoutaijou.epub",
+      "bytes": 5588468,
+      "sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "OPF": "item/standard.opf",
+      "OPF_sha256": "41862bf5187eb0cd4a81f9cf6e7ee7dbb66acd51f5c66801b7ae82ab607e547c",
+      "language": [
+        "ja"
+      ],
+      "actual_OPF_spine_entries": 22,
+      "fresh_ZIP_CRC": "PASS",
+      "scope": "Object/CRC/OPF identity is technical; semantic receiving is separately recorded."
+    }
+  ],
+  "members": [
+    {
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "native_member_bytes": 141436,
+      "paragraph_slots": 546,
+      "ruby": 103,
+      "actual_ranges": [
+        [
+          1,
+          546
+        ]
+      ],
+      "actual_unique_P": 546,
+      "complete_paragraph_ruby_member": true
+    },
+    {
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+      "native_member_bytes": 133367,
+      "paragraph_slots": 558,
+      "ruby": 79,
+      "actual_ranges": [
+        [
+          1,
+          558
+        ]
+      ],
+      "actual_unique_P": 558,
+      "complete_paragraph_ruby_member": true
+    },
+    {
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "native_member_bytes": 160187,
+      "paragraph_slots": 573,
+      "ruby": 126,
+      "actual_ranges": [
+        [
+          1,
+          573
+        ]
+      ],
+      "actual_unique_P": 573,
+      "complete_paragraph_ruby_member": true
+    },
+    {
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "native_member_bytes": 183900,
+      "paragraph_slots": 682,
+      "ruby": 138,
+      "actual_ranges": [
+        [
+          1,
+          682
+        ]
+      ],
+      "actual_unique_P": 682,
+      "complete_paragraph_ruby_member": true
+    },
+    {
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "native_member_bytes": 157308,
+      "paragraph_slots": 541,
+      "ruby": 149,
+      "actual_ranges": [
+        [
+          1,
+          541
+        ]
+      ],
+      "actual_unique_P": 541,
+      "complete_paragraph_ruby_member": true
+    },
+    {
+      "source_id": "MAIN-02",
+      "component_id": "MAIN-02-U016",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "ef17fa152242d088aacdc2d2e8d867ada55e6e495162d849e50f16086cc006fc",
+      "native_member_bytes": 252005,
+      "paragraph_slots": 530,
+      "ruby": 237,
+      "actual_ranges": [
+        [
+          200,
+          530
+        ]
+      ],
+      "actual_unique_P": 331,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "MAIN-02",
+      "component_id": "MAIN-02-U017",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "b07a518d8afa21e8e24d692b1fa1b6dd30e4124ff89c74f30b4b057496c8ec3e",
+      "native_member_bytes": 268281,
+      "paragraph_slots": 509,
+      "ruby": 35,
+      "actual_ranges": [
+        [
+          290,
+          327
+        ]
+      ],
+      "actual_unique_P": 38,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "MAIN-13",
+      "component_id": "MAIN-13-U015",
+      "member": "text/part0013.html",
+      "member_sha256": "8e6f60737c6087d1d786c2bc89ba7d116c4c7370bc52397c273d0901369ee988",
+      "native_member_bytes": 78747,
+      "paragraph_slots": 411,
+      "ruby": 24,
+      "actual_ranges": [
+        [
+          360,
+          385
+        ]
+      ],
+      "actual_unique_P": 26,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "MAIN-16",
+      "component_id": "MAIN-16-U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "ac772ee6f9bf6a4ab402c82cf5232521aea3180de172d42c8ab7f7c842c86a74",
+      "native_member_bytes": 8617,
+      "paragraph_slots": 45,
+      "ruby": 64,
+      "actual_ranges": [
+        [
+          1,
+          45
+        ]
+      ],
+      "actual_unique_P": 45,
+      "complete_paragraph_ruby_member": true
+    },
+    {
+      "source_id": "MAIN-16",
+      "component_id": "MAIN-16-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "722b44dbe6a27c039dc902c9447e602b9139a12a8a8a03a1fb7492a34da3e991",
+      "native_member_bytes": 95427,
+      "paragraph_slots": 578,
+      "ruby": 24,
+      "actual_ranges": [
+        [
+          1,
+          28
+        ]
+      ],
+      "actual_unique_P": 28,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U011",
+      "member": "text/part0009.html",
+      "member_sha256": "8d1d0017ca714c02613753f0a7811f0cd7d1ee3e7691cff5029765548338f90a",
+      "native_member_bytes": 106774,
+      "paragraph_slots": 591,
+      "ruby": 38,
+      "actual_ranges": [
+        [
+          315,
+          347
+        ]
+      ],
+      "actual_unique_P": 33,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U012",
+      "member": "text/part0010.html",
+      "member_sha256": "beb44a5a379c32617f442231d29760eafd4897fc2e1b29ee6847390d1cb73118",
+      "native_member_bytes": 106226,
+      "paragraph_slots": 575,
+      "ruby": 94,
+      "actual_ranges": [
+        [
+          55,
+          98
+        ],
+        [
+          350,
+          380
+        ]
+      ],
+      "actual_unique_P": 75,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "YORI-01",
+      "component_id": "YORI-01-U012",
+      "member": "text/part0010.html",
+      "member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+      "native_member_bytes": 66587,
+      "paragraph_slots": 336,
+      "ruby": 339,
+      "actual_ranges": [
+        [
+          1,
+          336
+        ]
+      ],
+      "actual_unique_P": 336,
+      "complete_paragraph_ruby_member": true
+    },
+    {
+      "source_id": "YORI-01",
+      "component_id": "YORI-01-U022",
+      "member": "text/part0020.html",
+      "member_sha256": "1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2",
+      "native_member_bytes": 58007,
+      "paragraph_slots": 302,
+      "ruby": 55,
+      "actual_ranges": [
+        [
+          70,
+          115
+        ]
+      ],
+      "actual_unique_P": 46,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "MAIN-16",
+      "component_id": "MAIN-16-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "9b52838e6052c13d4e5b04af9e45b1a454b7e6268e86a5372eb4bc6338d52c9a",
+      "native_member_bytes": 8151,
+      "paragraph_slots": 47,
+      "ruby": 39,
+      "actual_ranges": [
+        [
+          1,
+          47
+        ]
+      ],
+      "actual_unique_P": 47,
+      "complete_paragraph_ruby_member": true
+    },
+    {
+      "source_id": "DUST-CONT",
+      "component_id": "DUST-CONT-U010",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+      "native_member_bytes": 146982,
+      "paragraph_slots": 574,
+      "ruby": 15,
+      "actual_ranges": [
+        [
+          95,
+          175
+        ]
+      ],
+      "actual_unique_P": 81,
+      "complete_paragraph_ruby_member": false
+    }
+  ],
+  "combined_current_unique_P": 3986,
+  "combined_current_ruby": 1559,
+  "complete_paragraph_ruby_members": 8,
+  "source_receipts": [
+    {
+      "file": "COHORT46_NATIVE_PROGRESS_09.json",
+      "sha256": "dbc57ba952a6b339910b5feeb71c3df2532ccf0c9d2a5dd2e191400529ec357f",
+      "actual_P": 2900,
+      "ruby": 595,
+      "actual_complete_page_deliveries": [
+        {
+          "pages": [
+            1,
+            2
+          ],
+          "tool_delivery": "d11163"
+        },
+        {
+          "pages": [
+            3,
+            4
+          ],
+          "tool_delivery": "aa311c"
+        },
+        {
+          "pages": [
+            5,
+            6
+          ],
+          "tool_delivery": "8556ff"
+        },
+        {
+          "pages": [
+            7,
+            8
+          ],
+          "tool_delivery": "d40fcc"
+        },
+        {
+          "pages": [
+            9,
+            10
+          ],
+          "tool_delivery": "28602b"
+        },
+        {
+          "pages": [
+            11,
+            12
+          ],
+          "tool_delivery": "224ad4"
+        },
+        {
+          "pages": [
+            13,
+            14
+          ],
+          "tool_delivery": "09d81a"
+        },
+        {
+          "pages": [
+            15,
+            16
+          ],
+          "tool_delivery": "2e5537"
+        },
+        {
+          "pages": [
+            17,
+            18
+          ],
+          "tool_delivery": "f40505"
+        },
+        {
+          "pages": [
+            19,
+            20
+          ],
+          "tool_delivery": "f5bc3a"
+        },
+        {
+          "pages": [
+            21,
+            22
+          ],
+          "tool_delivery": "93c67f"
+        },
+        {
+          "pages": [
+            23,
+            24
+          ],
+          "tool_delivery": "cd0d22"
+        },
+        {
+          "pages": [
+            25,
+            26
+          ],
+          "tool_delivery": "59a691"
+        },
+        {
+          "pages": [
+            27,
+            28
+          ],
+          "tool_delivery": "07ca4a"
+        },
+        {
+          "pages": [
+            29,
+            30
+          ],
+          "tool_delivery": "dc7fa1"
+        },
+        {
+          "pages": [
+            31,
+            32
+          ],
+          "tool_delivery": "dfbceb"
+        },
+        {
+          "pages": [
+            33,
+            34
+          ],
+          "tool_delivery": "3c2c52"
+        },
+        {
+          "pages": [
+            35,
+            36
+          ],
+          "tool_delivery": "48b124"
+        },
+        {
+          "pages": [
+            37,
+            38
+          ],
+          "tool_delivery": "f145f2"
+        },
+        {
+          "pages": [
+            39,
+            40
+          ],
+          "tool_delivery": "f40fec"
+        },
+        {
+          "pages": [
+            41,
+            42
+          ],
+          "tool_delivery": "ae40b6"
+        },
+        {
+          "pages": [
+            43,
+            44
+          ],
+          "tool_delivery": "a75c9b"
+        },
+        {
+          "pages": [
+            45,
+            46
+          ],
+          "tool_delivery": "c6e3ff"
+        },
+        {
+          "pages": [
+            47,
+            48
+          ],
+          "tool_delivery": "8a9650"
+        },
+        {
+          "pages": [
+            49,
+            50
+          ],
+          "tool_delivery": "c1c80f"
+        },
+        {
+          "pages": [
+            51,
+            52
+          ],
+          "tool_delivery": "73d026"
+        },
+        {
+          "pages": [
+            53,
+            54
+          ],
+          "tool_delivery": "584bbf"
+        },
+        {
+          "pages": [
+            55,
+            56
+          ],
+          "tool_delivery": "a912d5"
+        },
+        {
+          "pages": [
+            57,
+            58
+          ],
+          "tool_output_chunk": "74faf3",
+          "complete_actual_native_body_received": true
+        },
+        {
+          "pages": [
+            59,
+            60
+          ],
+          "tool_output_chunk": "e873ff",
+          "complete_actual_native_body_received": true
+        },
+        {
+          "pages": [
+            61,
+            62
+          ],
+          "tool_output_chunk": "7f334b",
+          "complete_actual_native_body_received": true
+        }
+      ]
+    },
+    {
+      "file": "COHORT46_ADAPTIVE_CONTEXT_RECEIVING_01.json",
+      "sha256": "31fc212fc0afd37d257f5e1a4a03c13827fd5afb68afca1fd055556a6372f129",
+      "actual_P": 729,
+      "ruby": 745,
+      "actual_complete_page_deliveries": [
+        {
+          "pages": [
+            1,
+            2
+          ],
+          "tool_output_chunk": "7536ca"
+        },
+        {
+          "pages": [
+            3,
+            4
+          ],
+          "tool_output_chunk": "bc327c"
+        },
+        {
+          "pages": [
+            5,
+            6
+          ],
+          "tool_output_chunk": "149bbb"
+        },
+        {
+          "pages": [
+            7,
+            8
+          ],
+          "tool_output_chunk": "23208b"
+        },
+        {
+          "pages": [
+            9,
+            10
+          ],
+          "tool_output_chunk": "5099ad"
+        },
+        {
+          "pages": [
+            11,
+            12
+          ],
+          "tool_output_chunk": "507f95"
+        },
+        {
+          "pages": [
+            13,
+            14
+          ],
+          "tool_output_chunk": "207d2f"
+        },
+        {
+          "pages": [
+            15,
+            16,
+            17
+          ],
+          "tool_output_chunk": "5ab511"
+        }
+      ]
+    },
+    {
+      "file": "COHORT46_ADAPTIVE_CONTEXT_RECEIVING_02.json",
+      "sha256": "b0709111846edf1d474c93c0cb6da59163470cc7a7adceabc97942758c75d986",
+      "actual_P": 276,
+      "ruby": 204,
+      "actual_complete_page_deliveries": [
+        {
+          "pages": [
+            1,
+            2
+          ],
+          "tool_output_chunk": "c1d16c"
+        },
+        {
+          "pages": [
+            3,
+            4
+          ],
+          "tool_output_chunk": "e9dfc2"
+        },
+        {
+          "pages": [
+            5,
+            6
+          ],
+          "tool_output_chunk": "14804f"
+        }
+      ]
+    },
+    {
+      "file": "COHORT46_ADAPTIVE_CONTEXT_RECEIVING_03.json",
+      "sha256": "28988ade8f07965d48bbcd755462578c87e8c877a77016b43da1e34ea5333a1f",
+      "actual_P": 81,
+      "ruby": 15,
+      "actual_complete_page_deliveries": [
+        {
+          "pages": [
+            1,
+            2
+          ],
+          "tool_output_chunk": "718c15"
+        }
+      ]
+    }
+  ],
+  "existing_context_receipts": [
+    {
+      "file": "COHORT46_EXISTING_CONTEXT_RECEIVING_01.json",
+      "sha256": "ca1ada50a8d7c916b9ce4b6950f8d3117d81bfd791eb26bc973dfd2d7550184b",
+      "scope": "Four known complete YORI04 derivatives and15actual pages; no primary credit from derivative reading."
+    }
+  ],
+  "raw_native_text_in_public_artifact": false,
+  "current_images": 0,
+  "current_nonparagraph_residuals": 0,
+  "whole_edition_claim": false,
+  "global_new_source_first": 0,
+  "independent_observation_count": null,
+  "technical_hashes_not_semantic_proof": true,
+  "foundation_accepted": false,
+  "canonical_changes": false,
+  "full_program_complete": false,
+  "status_time_basis": "Authorship metadata is pre-review/pre-publication history. Actual foundation acceptance and publication require separate later receipts; no old green certifies a new candidate."
+}

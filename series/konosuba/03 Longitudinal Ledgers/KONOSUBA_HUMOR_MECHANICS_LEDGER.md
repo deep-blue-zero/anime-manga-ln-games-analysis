@@ -2120,3 +2120,10 @@ Japan’s apparent operator/game misunderstandings do not create imaginary peopl
 The noble denunciation reverses its apparent moral evidence: wrong identity, false harassment/childhood accounts and threatened status shape the actual weddingU01839–336. The pupil enjoys dubious history as fiction but imitates performanceU018316–318, so good grades and adult objection coexist. Melvirei's usefulness creates party-role competitionU018395–427 without proving a decoded strategic inner monologue. Every time route brings Aqua for particular interactional reasonsU020136/465/652; alternative prosperity actually works714–724 before familiar-person preference matters. Repetition is not a proved destiny mechanism or independent test series.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+The observer thinks she is hidden while the party already knowsU0163-14. The purported summoning ritual fails384-399 before the previously booked worker arrives401-408; later arrival does not prove supernatural summoning success. Angie broad class/senior script misreads this party while her actual field contribution remains real. The Satanists desired recipients differ from the devil imagined taskU016489-556. Embedded revenge/theater talesU01425-103 are narrated fiction references, not ordinary new inhabitants. A warm final ghost-story wishU020511-540 does not complete future safety, public gratitude or all causal repair.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.

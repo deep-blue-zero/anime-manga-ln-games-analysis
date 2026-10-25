@@ -519,3 +519,10 @@ C44 qualifies prior dinner-host pooling without rewriting the original deep-read
 C45-CR01 corrects recovered Shumel father/son shorthand to the native woman and preserves unverified genealogyU014359/373–374. C45-CR02 preserves Melvirei interest431 plus Aqua prompt432 before departure433. C45-CR03 separates the female succubus ownerU016337/359 from MAIN16 vampire126, with actual hospitality and unperformed concessions. C45-CR04 uses Vice male heir/嫡男 without unnecessary birth order, Tia nativeドルトリン, correct female pronouns and no unsupported privately coordinated deception. C45-CR05 supplements generic devil caution with specific Hoost/Rex event correspondence from EXP03; alternate leader remains unnamed/probable. Complete original drafts and all pre-freeze corrections remain preserved. No frozen model, input, first or score is repaired.
 
 [Current evidence index](KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+C46 current addenda retain all47 historical YORI04 qualifications and frozen histories. The first C46 addendum narrows the elided escort-casting assertion, old census115 masculine wording, professional/worker identity and Anna action boundaries. Three later post-freeze qualifications have precedence for their exact assertions: PFQ01 weather-diviner/army-locust wording, PFQ02 pension-price comparison without itemized payment, PFQ03 Kazuma as Aqua Heal recipientU018624, with Angie blown away613 and no separate treatment. All47 core pins remain unchanged; old wording is visible history. Typed relation corrections prevent parents, generic species/roles and explicitly excluded Anna manifestations from becoming alias candidates. None supplies independent performance credit.
+
+[Current evidence index](KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.

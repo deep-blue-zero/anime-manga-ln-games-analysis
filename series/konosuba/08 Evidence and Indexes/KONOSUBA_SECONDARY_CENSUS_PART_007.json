@@ -1044,13 +1044,13 @@
     {
       "character": "Baron Crank / クランク",
       "identity": "クランク男爵; the locally named inspected noble. Unnamed marquis patron is not automatically Shumel.",
-      "likely_tier": "2 scoped dedicated event/individual monograph; no forced model; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "2 scoped dedicated event/individual monograph; no forced model; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U014P275-315",
       "source_access_type": "Direct dialogue, actions, narration and actual search outcome.",
       "substantive_responsibility": "Separate selective admissions, claimed custom, patronage leverage and contraband result.",
       "gaps": "No collar found311; no automatic Shumel patron identity, all charges proved or inferred complete private motive.",
-      "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-N01",
       "cohort45_entity_kind": "named_person",
@@ -1063,18 +1063,29 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_CRANK_CHARACTER_MONOGRAPH.md"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "2 scoped dedicated event/individual monograph; no forced model; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "YORI03 unnamed succubus messenger occurrence",
       "identity": "Recognized usual-shop succubus workerU016250-251; this occurrence is not positively joined toLolisa17/132 and does not certify a separate third worker.",
-      "likely_tier": "2 scoped dedicated event/individual monograph; no forced model; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "2 scoped dedicated event/individual monograph; no forced model; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U016P244-280",
       "source_access_type": "Recognized local worker, direct appeal, gesture interpretation and travel outcome.",
       "substantive_responsibility": "Own mobilizing choices, hesitations, alternatives supplied by others and finite logistics.",
       "gaps": "May be existing Lolisa17/132; no native alias or distinctive earlier failure fingerprint here. Event study does not certify another global worker.",
-      "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-N02",
       "cohort45_entity_kind": "identity_open_person_occurrence",
@@ -1087,18 +1098,29 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI03_SUCCUBUS_MESSENGER_CHARACTER_STUDY.md"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "2 scoped dedicated event/individual monograph; no forced model; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Knee-injured veteran and temporary-route counterparts",
       "identity": "Unnamed knee-arrow veteran and differently informed temporary-route counterparts; not wallet veteran122 or wounded man444 by age/job/healing.",
-      "likely_tier": "3 scoped provisional two-rule model; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "3 scoped provisional two-rule model; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U020P496-519/652-679",
       "source_access_type": "Kazuma remembered original future; enacted differently informed temporary counterparts.",
       "substantive_responsibility": "Pre-benefit religious suspicion and post-restoration finite expansive reciprocity with own knee-testing goal.",
       "gaps": "Not wallet veteran122/wounded man444 by age/healing. No shared counterpart memory, prior consent, independent route trials or unlimited generosity.",
-      "disposition_status": "SCOPED_TIER3_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER3_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-N03",
       "cohort45_entity_kind": "temporary_counterpart_bundle",
@@ -1112,18 +1134,29 @@
         "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KNEE_INJURED_VETERAN_RECONSTRUCTION_MODEL.md"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "3 scoped provisional two-rule model; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER3_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Three previously restrained adventurers",
       "identity": "Three previously restrained adventurers; Actual restraint and later three-person protective response. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U012P215-224/264-296",
       "source_access_type": "Actual restraint and later three-person protective response.",
       "substantive_responsibility": "Protective talismans and demands for apology; no completed strike.",
       "gaps": "Exactly three locally, earlier voices partly unbound; overlap larger spectators.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B01",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1136,18 +1169,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Ring-story spectators and talisman buyers",
       "identity": "Ring-story spectators and talisman buyers; Unbound public voices, changed appraisals and purchases. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U012P189-275/402-446",
       "source_access_type": "Unbound public voices, changed appraisals and purchases.",
       "substantive_responsibility": "Revise expectations after demonstration and seek practical protection.",
       "gaps": "No stable roster, exact larger count or uniform motive; may overlap B01.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B02",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1160,18 +1204,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Park girl who admires devils",
       "identity": "Park girl who admires devils; Direct conversation plus her reported mother encounter. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U012P318-346",
       "source_access_type": "Direct conversation plus her reported mother encounter.",
       "substantive_responsibility": "Evaluates help to her mother and responds to self-presentation.",
       "gaps": "Mother absent; helper identity Kazuma inference; narrator moral diagnosis not established.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B03",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1184,18 +1239,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Turtle in embedded prolonged race tale",
       "identity": "Turtle in embedded prolonged race tale; Book excerpt read by Kazuma. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U014P8-19",
       "source_access_type": "Book excerpt read by Kazuma.",
       "substantive_responsibility": "Proposes resource-asymmetric race, catches exhausted opponent and offers paid transport.",
       "gaps": "Not enacted resident or Treasure Island476; no ending, payment or accepted transport.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B04",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1208,18 +1274,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Rabbit in embedded prolonged race tale",
       "identity": "Rabbit in embedded prolonged race tale; Book excerpt. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U014P11-19",
       "source_access_type": "Book excerpt.",
       "substantive_responsibility": "Initial lead followed by resource exhaustion and collapse.",
       "gaps": "No universal rabbit psychology, accepted fee or narrated ending.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B05",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1232,18 +1309,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Dustiness patrol and intrusion-response guards",
       "identity": "Dustiness patrol and intrusion-response guards; Reported patrol and enacted resistance/recognition/cooperation. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U014P61/176/445-536",
       "source_access_type": "Reported patrol and enacted resistance/recognition/cooperation.",
       "substantive_responsibility": "Cut Bind, remember tactics, recognize Chris and support escape.",
       "gaps": "No Norris/Hagen/wedding-guard aliases, troop count or all-person consent to photographs.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B06",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1256,18 +1344,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Autonomous maid-doll prototype",
       "identity": "Autonomous maid-doll prototype; Actual routine/announcement/explosion plus designer claims. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U016P90-111",
       "source_access_type": "Actual routine/announcement/explosion plus designer claims.",
       "substantive_responsibility": "Sweeps and detects intruder; designed limitations have consequences.",
       "gaps": "Destroyed prototype not later stock; no demonstrated private humanlike mind.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B07",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1280,18 +1379,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Photograph and clock customers",
       "identity": "Photograph and clock customers; Unbound buyers, actual purchases and positively received combat portrait. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U016P177-242",
       "source_access_type": "Unbound buyers, actual purchases and positively received combat portrait.",
       "substantive_responsibility": "Revise valuations and bid for collectibles; satisfaction contradicts intended disappointment.",
       "gaps": "No individually audited motives/expenditure or Wiz consent; some overlap rescue patrons.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B08",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1304,18 +1414,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Dungeon explanatory interlocutor",
       "identity": "Dungeon explanatory interlocutor; Locally bound explanatory turns answering Kazuma. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U016P291-302",
       "source_access_type": "Locally bound explanatory turns answering Kazuma.",
       "substantive_responsibility": "Supplies trap/boss-room account and recommends visit.",
       "gaps": "Interested testimony, not independently verified universal consent or performed later visit.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B09",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1328,18 +1449,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Dungeon-rescue patron coalition",
       "identity": "Dungeon-rescue patron coalition; Conditional aid, practical objections, alternative and actual travel. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U016P253-284/343-360",
       "source_access_type": "Conditional aid, practical objections, alternative and actual travel.",
       "substantive_responsibility": "Mobilizes with mixed interests and finite availability.",
       "gaps": "No all-rescuers combat performance; owner saved by Vanir intervention; overlap B08/B09.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B10",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1352,18 +1484,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Noble mediators at Vice denunciation",
       "identity": "Noble mediators at Vice denunciation; Unbound interventions, identity information and spectacle appraisal. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U018P48-87",
       "source_access_type": "Unbound interventions, identity information and spectacle appraisal.",
       "substantive_responsibility": "Ask Darkness to stop/listen and correct Vice identity assumptions.",
       "gaps": "Not one omniscient judge, individually identified roster or complete disinterested justice motive.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B11",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1376,18 +1519,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Liliantine commissioning guardians",
       "identity": "Liliantine commissioning guardians; Family commission and closing satisfaction relayed in narration. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U018P124-125/317-318",
       "source_access_type": "Family commission and closing satisfaction relayed in narration.",
       "substantive_responsibility": "Commission desired education and reportedly welcome academic gains.",
       "gaps": "No exact count/genders, permission for false history, quoted dismissal or private parenting theory.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B12",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1400,18 +1554,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Eris registration-fee lender counterpart",
       "identity": "Eris registration-fee lender counterpart; Specific earlier-event designation, direct faith statement and aid outcome. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U020P166-178",
       "source_access_type": "Specific earlier-event designation, direct faith statement and aid outcome.",
       "substantive_responsibility": "Supplies registration money despite rejected Axis premise.",
       "gaps": "Not CONTEXP priest171/172 by faith; no fresh MAIN01 pass, gift amount or later repayment.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B13",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1424,18 +1589,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Temporary-route guild staff occurrences",
       "identity": "Temporary-route guild staff occurrences; Counter interaction, emergency work/request and safety cautions. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U020P181-189/549-567/768-770",
       "source_access_type": "Counter interaction, emergency work/request and safety cautions.",
       "substantive_responsibility": "Registration advice, stretcher/treatment logistics and actual safety warnings.",
       "gaps": "Multiple local roles not all Luna; no single administrator or paid healing bill.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B14",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1448,18 +1624,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "First-route tavern owner",
       "identity": "First-route tavern owner; Kazuma remembered dispute plus enacted local workplace exchange. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U020P226-243",
       "source_access_type": "Kazuma remembered dispute plus enacted local workplace exchange.",
       "substantive_responsibility": "Explains neroid, discovers soap loss and dismisses workers after conflict.",
       "gaps": "Kazuma unfairness appraisal not objective universal verdict; no invented wage theft or other pub-owner identity.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B15",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1472,18 +1659,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "First-route grocer",
       "identity": "First-route grocer; Concern, sales outcome, bonus promise and later dismissal report. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U020P279-319",
       "source_access_type": "Concern, sales outcome, bonus promise and later dismissal report.",
       "substantive_responsibility": "Updates on apparent sales success then actual loss.",
       "gaps": "Bonus not paid on page; not unlimited trust or fully specified authorized gambling policy.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B16",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1496,18 +1694,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "First-route janken customers",
       "identity": "First-route janken customers; Unbound questions/selections and actual purchases. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U020P273-280",
       "source_access_type": "Unbound questions/selections and actual purchases.",
       "substantive_responsibility": "Consider cheap contest and choose different produce.",
       "gaps": "No full knowledge of Kazuma luck, roster or collective consent to Chris Blessing.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B17",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1520,18 +1729,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Construction foreman",
       "identity": "Construction foreman; Remembered kindness, wages and direct full-time/higher-pay offer. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U020P220/315/528-539",
       "source_access_type": "Remembered kindness, wages and direct full-time/higher-pay offer.",
       "substantive_responsibility": "Recognizes competent work and actually increases pay.",
       "gaps": "Kazuma carries experience; foreman does not know reset; no accepted permanent job or cross-client alias.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B18",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1544,18 +1764,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Other injured coalition members",
       "identity": "Other injured coalition members; Actual healing, assent and Megumin explanation. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U020P560-582",
       "source_access_type": "Actual healing, assent and Megumin explanation.",
       "substantive_responsibility": "Receive healing and nod at leader undertaking in broader coalition.",
       "gaps": "No exact roster; not automatically Sophie/Terry or each quoted promise; battle event linked, individual voices unjoined.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B20",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1568,18 +1799,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Third-route mansion landlord",
       "identity": "Third-route mansion landlord; Wiz relays approval/concern; actual key and occupancy. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U020P719-724",
       "source_access_type": "Wiz relays approval/concern; actual key and occupancy.",
       "substantive_responsibility": "Accepts tenancy with concern about ghost property.",
       "gaps": "No direct voice, name, exact rent/payment or all future care performed.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B21",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1592,18 +1834,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Effective-Archpriest searchers",
       "identity": "Effective-Archpriest searchers; Unbound search voices with incomplete location information. This source route does not certify global distinctness.",
-      "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "1 scoped bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U020P752-754",
       "source_access_type": "Unbound search voices with incomplete location information.",
       "substantive_responsibility": "Seek effective provider and report failure at churches.",
       "gaps": "EXP03U045P85-87 situation corresponds; no same-speaker proof, exact count or completed contact.",
-      "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-B22",
       "cohort45_entity_kind": "bounded_source_role_or_group",
@@ -1616,18 +1869,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "1 scoped bounded source/role/group profile; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER1_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Park girl reported mother",
       "identity": "Park girl reported mother; Child report; explicitly absent in present park scene. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U012P320/334",
       "source_access_type": "Child report; explicitly absent in present park scene.",
       "substantive_responsibility": "Person allegedly helped against crows.",
       "gaps": "No direct dialogue, observed encounter or verified helper identity.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T01",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1639,18 +1903,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Crows in park girl reported encounter",
       "identity": "Crows in park girl reported encounter; Child report of earlier event. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U012P334",
       "source_access_type": "Child report of earlier event.",
       "substantive_responsibility": "Animals in encounter motivating the girl's favorable devil appraisal.",
       "gaps": "No present crow observation, individual motives or verified whole event.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T02",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1662,18 +1937,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Ogre child in embedded book premise",
       "identity": "Ogre child in embedded book premise; Kazuma reading excerpt. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U014P29",
       "source_access_type": "Kazuma reading excerpt.",
       "substantive_responsibility": "Preserve the child figure within the altered tale.",
       "gaps": "Not an enacted resident or complete ogre biography.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T03",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1685,18 +1971,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Suzuki Hikoichi / スズキ・ヒコイチ emperor reference",
       "identity": "Suzuki Hikoichi / スズキ・ヒコイチ emperor reference; Embedded book naming claim; Kazuma origin inference. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U014P88-94",
       "source_access_type": "Embedded book naming claim; Kazuma origin inference.",
       "substantive_responsibility": "Named apparent historical authority in an unreliable access plane.",
       "gaps": "Not Suzuki Chiho or verified Japanese origin/history by name alone.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T04",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1708,18 +2005,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Reported Dustiness butler",
       "identity": "Reported Dustiness butler; Kazuma account of normal visit/alibi. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U014P122-126",
       "source_access_type": "Kazuma account of normal visit/alibi.",
       "substantive_responsibility": "Household hosting role in reported tea/visit context.",
       "gaps": "Not Rionor84, Heidel150 or Alderp messenger248 by job; no independent conversation received here.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T05",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1731,18 +2039,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Dustiness photograph-session household audience",
       "identity": "Dustiness photograph-session household audience; Actual final photo aftermath, with allocation limits. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U014P623-629",
       "source_access_type": "Actual final photo aftermath, with allocation limits.",
       "substantive_responsibility": "Witnesses participate in humiliating household outcome.",
       "gaps": "No exact staff roster, all-guard assent or transfer to known maid254/cook255.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T06",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1754,18 +2073,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Shumel private guards",
       "identity": "Shumel private guards; House security context and her signal. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U014P345/392",
       "source_access_type": "House security context and her signal.",
       "substantive_responsibility": "Provide immediate security resources in adversarial raid.",
       "gaps": "No exact count, individual quoted compliance, completed kill order or Dustiness guard identity.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T07",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1777,18 +2107,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Crank reported marquis patron",
       "identity": "Crank reported marquis patron; Crank patronage claim. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U014P289-290",
       "source_access_type": "Crank patronage claim.",
       "substantive_responsibility": "Claimed higher-rank backing in challenge to inspection.",
       "gaps": "Not positively Shumel; no verified patron action or complete relation.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T08",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1800,18 +2141,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Crank admitted maid-harassment targets",
       "identity": "Crank admitted maid-harassment targets; Crank own admission invoking noble custom. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U014P300",
       "source_access_type": "Crank own admission invoking noble custom.",
       "substantive_responsibility": "Retain affected persons in his admitted practice.",
       "gaps": "No individual number, directly heard consent, named victims or customary justification accepted as valid.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T09",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1823,18 +2175,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Earlier Shumel-house head reference",
       "identity": "Earlier Shumel-house head reference; Kazuma question and genealogy inference. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U014P373-374",
       "source_access_type": "Kazuma question and genealogy inference.",
       "substantive_responsibility": "Reference point in speculative wife/namegiver relation.",
       "gaps": "No verified family tree, proved grandfather identity or extra duplicate Shumel wife.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T10",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1846,18 +2209,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Later autonomous maid-doll stock",
       "identity": "Later autonomous maid-doll stock; Actual sale and Aqua subsequent use report. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U016P368-381",
       "source_access_type": "Actual sale and Aqua subsequent use report.",
       "substantive_responsibility": "Product copies sold and reportedly used against sewer pests.",
       "gaps": "Distinct from destroyed prototype; no continuing shared mind or directly watched sewer extermination.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T11",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1869,18 +2243,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Neighboring plant-care adviser",
       "identity": "Neighboring plant-care adviser; Reported neighboring woman's advice. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U016P149-153",
       "source_access_type": "Reported neighboring woman's advice.",
       "substantive_responsibility": "Suggests care for miniature plant product.",
       "gaps": "Not MASK widow300 by proximity; five-year growth/care not performed here.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T12",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1892,18 +2277,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Neighbors reacting to prototype explosion",
       "identity": "Neighbors reacting to prototype explosion; Local explosion and neighboring disturbance. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U016P103-104",
       "source_access_type": "Local explosion and neighboring disturbance.",
       "substantive_responsibility": "Preserve affected audience occurrence.",
       "gaps": "No named complaint source, exact number, private damages or repair payment.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T13",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1915,18 +2311,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Reported local lending contacts",
       "identity": "Reported local lending contacts; Vanir account of fund-raising pressure. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U016P55-67",
       "source_access_type": "Vanir account of fund-raising pressure.",
       "substantive_responsibility": "Financial-provider roles in account of business resources.",
       "gaps": "No named lender, exact loan, independently witnessed intimidation or implicit bank eligibility made actual.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T14",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1938,18 +2345,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Reported sewer pests",
       "identity": "Reported sewer pests; Aqua account and explanatory species tactic. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U016P375-381",
       "source_access_type": "Aqua account and explanatory species tactic.",
       "substantive_responsibility": "Targets of reported maid-doll use.",
       "gaps": "No current observed complete extermination or individual cognition.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T15",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1961,18 +2379,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Three summoned undead frogs",
       "identity": "Three summoned undead frogs; Actual finite summons and battle function. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U016P409-420",
       "source_access_type": "Actual finite summons and battle function.",
       "substantive_responsibility": "Three local undead bodies take part in attack.",
       "gaps": "No independent biographies, inferred desire or transfer to living quarry.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T16",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -1984,18 +2413,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Summoned lesser devils",
       "identity": "Summoned lesser devils; Actual summons in Wiz/Vanir conflict. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U016P424-427",
       "source_access_type": "Actual summons in Wiz/Vanir conflict.",
       "substantive_responsibility": "Local battle participants.",
       "gaps": "No independent names, lifelong allegiance or equal knowledge with summoner.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T17",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -2007,18 +2447,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Summoned golems",
       "identity": "Summoned golems; Actual defensive and offensive constructed forces. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U016P435-441/489-494",
       "source_access_type": "Actual defensive and offensive constructed forces.",
       "substantive_responsibility": "Shielding and later attacks affect battle.",
       "gaps": "No humanlike private motive or single continuous golem identity across all appearances.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T18",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -2030,18 +2481,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Newspaper dedicated weather diviner",
       "identity": "Newspaper dedicated weather diviner; Kazuma description of daily newspaper and quoted forecast. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U018P8-12",
       "source_access_type": "Kazuma description of daily newspaper and quoted forecast.",
       "substantive_responsibility": "Forecast warns of heavy rain/fish and precautions.",
       "gaps": "Possible overlap477, not positive identity; no interview, complete method or general predictive-accuracy score.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T19",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -2053,18 +2515,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Fish falling during diary rain",
       "identity": "Fish falling during diary rain; Actual fish around household; Aqua explanatory account. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U018P11-36",
       "source_access_type": "Actual fish around household; Aqua explanatory account.",
       "substantive_responsibility": "Living environmental actors have concrete household consequences.",
       "gaps": "Aqua mechanism/seasonal gathering explanation not independently proved; no individual fish psychology.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T20",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -2076,18 +2549,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Pins Earl hosting reference",
       "identity": "Pins Earl hosting reference; Title/heir identification and hosted party. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U018P74/257-259",
       "source_access_type": "Title/heir identification and hosted party.",
       "substantive_responsibility": "Noble-house relation locating Vice and second event.",
       "gaps": "No invented proper name, direct private parental plan or every earlier host automatically same person.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T21",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -2099,18 +2583,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Saito / サイトー lesson figure",
       "identity": "Saito / サイトー lesson figure; Megumin lesson account of wizard and flame-spirit relocation. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U018P118-126",
       "source_access_type": "Megumin lesson account of wizard and flame-spirit relocation.",
       "substantive_responsibility": "Named instructional example.",
       "gaps": "No independent history verification or transfer of teacher claims into witnessed biography.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T22",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -2122,18 +2617,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Hiyohiyo / ひよひよ lesson scholar",
       "identity": "Hiyohiyo / ひよひよ lesson scholar; Megumin narrated historical lesson. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U018P210-217",
       "source_access_type": "Megumin narrated historical lesson.",
       "substantive_responsibility": "Named scholarly figure in pupil's received material.",
       "gaps": "Lesson engagement does not establish historical truth or present actor identity.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T23",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -2145,18 +2651,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Pekepon / ぺけぽん lesson figure",
       "identity": "Pekepon / ぺけぽん lesson figure; Suspect/invented history plane. This source route does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
-      "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+      "likely_tier": "0 scoped limited source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03 U018P219",
       "source_access_type": "Suspect/invented history plane.",
       "substantive_responsibility": "Named figure within narrated lesson.",
       "gaps": "No verified divine/historical biography; invented war later explicitly denied315.",
-      "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort45_discovery_token": "Y03-T24",
       "cohort45_entity_kind": "reported_embedded_group_or_limited_occurrence",
@@ -2168,7 +2685,18 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "0 scoped limited source/access occurrence index; exact containing publication pending",
+        "priority": "C45 source-bound interpretation received; exact publication pending; full program continues.",
+        "disposition_status": "SCOPED_TIER0_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Received source/access interpretation, with embedded/reported/temporary/overlapping planes retained. No distinct-person or independent-performance claim; exact publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     }
   ]
 }

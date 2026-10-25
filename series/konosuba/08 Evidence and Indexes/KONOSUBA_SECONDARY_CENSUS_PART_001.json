@@ -566,6 +566,22 @@
         "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
         "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
         "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      },
+      "cohort46_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI04_IDENTITY_AND_SUPPORTING_CAST_COHORT46_SUPPLEMENT.md"
+      ],
+      "cohort46_semantic_receiving_sha256": "d819a2618b54945dd8c5a111782a28080b1fffd1a6b78979e703fa190c5d3ffd",
+      "cohort46_supporting_freeze_sha256": "cb8f4d207c7859074f5bce8ac1a5d9fc3094230b2e09727ad851f0a19d43c6e6",
+      "cohort46_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+      "cohort46_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "cohort46_source_supplement": {
+        "source": "YORI04U014492-555",
+        "finding": "Luna recognizes retirement, hears Dark Stalker personal unpaid offer and later accepts a concrete peaceful-life patrol proposal after separate assent.",
+        "limit": "No paid employment, performed patrol or assent borrowed from Assassin; frozen Luna model and earlier fields stay exact."
       }
     },
     {
@@ -1746,6 +1762,22 @@
         "main_integration_not_certified_by_author_gate": true,
         "no_independent_accuracy_grade_or_confidence_gain": true,
         "separate_housekeeping_run": null
+      },
+      "cohort46_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI04_IDENTITY_AND_SUPPORTING_CAST_COHORT46_SUPPLEMENT.md"
+      ],
+      "cohort46_semantic_receiving_sha256": "d819a2618b54945dd8c5a111782a28080b1fffd1a6b78979e703fa190c5d3ffd",
+      "cohort46_supporting_freeze_sha256": "cb8f4d207c7859074f5bce8ac1a5d9fc3094230b2e09727ad851f0a19d43c6e6",
+      "cohort46_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+      "cohort46_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "cohort46_source_supplement": {
+        "source": "YORI04U02013-23/28-31/250-396/435",
+        "finding": "Ignis returns with soldiers, admits his assignment responsibility, physically intercepts the coatl spear/wire danger and later grants pardon in the printed sequence.",
+        "limit": "Actual family harm and physical cost remain; no invulnerability, universal command success or borrowed crowd acts. Existing Ignis model/firsts stay exact."
       }
     },
     {
@@ -2628,7 +2660,15 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI03_IDENTITY_AND_SUPPORTING_CAST_COHORT45_SUPPLEMENT.md"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Qualified source supplement received; prior tier,priority,disposition,models and firsts remain exact. Exact containing publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "cohort45_current_receiving": "Qualified source supplement received; prior tier,priority,disposition,models and firsts remain exact. Exact containing publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Pucchin",
@@ -3156,7 +3196,15 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI03_IDENTITY_AND_SUPPORTING_CAST_COHORT45_SUPPLEMENT.md"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Qualified source supplement received; prior tier,priority,disposition,models and firsts remain exact. Exact containing publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "cohort45_current_receiving": "Qualified source supplement received; prior tier,priority,disposition,models and firsts remain exact. Exact containing publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Sophie",

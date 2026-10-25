@@ -1296,3 +1296,15 @@ C44 exact-source author publication is closed. The one-rule dryad model remains 
 C45 adds two source-concentrated active_provisional generators: Shumel one rule and the knee-injured veteran two asymmetric rules. Eight other substantial studies receive no forced model. Candidate totals67model artifacts/61source-scoped secondary model entries do not establish distinct people, global readiness or mature accuracy. Six English originals/three dependent pairs retain unprobed costly impact, tidy procedural/consent language, arbitrary gift amounts and generic rivals. All65 entering models, original forecasts, adverse histories and scores remain exact. Current owner capability records are received from accepted main8acdff2b, not authored or regraded here.
 
 [Current evidence index](KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C45 exact-source author gate closed — 2026-10-25T08:08:46.363921+00:00
+
+C45 exact-source author publication is closed. Shumel one-rule and knee-veteran two-rule generators remain narrow/provisional; six unchanged English originals/three dependent pairs retain source-cue/generic,spell-preparation,neutral-offer,arbitrary-amount and unprobed-teaching limits.67model artifacts/61source-scoped secondary entries/160profile passages/53monograph-only studies/572nonfinal records do not measure unique people or independent accuracy. Technical479-test/149-entry success is separate from semantic maturity,designated evaluation and final StageD/nine-category obligations.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+C46 adds Dark Stalker and Angie as two source-concentrated provisional models with two eight-field rules each. Assassin, Anna and the familiar YORI04 worker receive substantial monographs without forced generators. Candidate totals69model artifacts/63source-scoped secondary entries,177retained bounded-profile passages,56monograph-only studies and640nonfinal source/access records are not certified distinct people, mature capability or independent observations. Current post-freeze qualifications must accompany BOTH new model routes: meal price is not an itemized transaction, and U018624 Heals Kazuma rather than Angie. Every67entering model, first, score, adverse result, blank and null remains exact. Eight English originals/four dependent pairs add no final StageD credit.
+
+[Current evidence index](KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.

@@ -1511,3 +1511,10 @@ Siegwald’s recovery, offered milk, play with Chomusuke, sleep, garment bedding
 Liliantine's preferred teacher, volcano question, notes/applause and narrated academic gainsU018118–127/210–217/316–318 give ordinary learning agency without a fight or royal function. Enjoying fiction and copying poses coexist; no private dismissal interview is shown. The veteran wants to test restored mobilityU020665 and expands the practical exchange671–679, with no unlimited purse or prior consent. The foreman actually recognizes useful work and increases pay528–539. Melvirei's growth outstrips successive containersU018274/327/348–350; human reluctance and information suppression contribute to confinement.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+The retired professionals actually eat togetherU01474-89/151-156 and value a peaceful morning. U014121 compares restaurant price with a week pension, without an itemized paid bill, payer, exact pension debit or balance. Dark Stalker later pressured bottle-takingU018342-350 is contrary evidence to universal noninterference. The familiar worker combines wages/business, fandom, fear, failed recruitment and promised reward. Anna mediated adventure/doll/story interests and the printed author creditU018675 support ordinary agency without witnessing writing. The YORI01 doll customer asks for sleep; an alleged apology intention does not remove disturbance or prove a remedy.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.

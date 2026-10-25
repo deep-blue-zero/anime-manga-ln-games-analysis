@@ -2083,3 +2083,10 @@ C44 receives2675 current paragraph slots/2530ruby in ten complete YORI02 paragra
 C45 actual current native union is3187P/2896ruby: YORI03 five complete paragraph/ruby projectionsU012P1–517,U014P1–629,U016P1–517,U018P1–461,U020P1–882 (3006P/2745ruby,66pages); EXP03 known returnU034P485–561 andU045P1–104 (181P/151ruby,4pages). These are two already-known local EPUB objects, with fresh hash/CRC/OPF/member correspondence. No current image, residual, whole-edition or new global source-first credit. All earlier81 YORI03 precision qualifications were received and remain governing. The additional return answers a specific Hoost/Rex identity question and is not a new independent battle observation.
 
 [Current evidence index](KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+C46 current native union is3986P/1559ruby across seven known source objects and sixteen members, eight complete at paragraph/ruby scope. YORI04 five complete fiction bodiesU012546P/U014558P/U016573P/U018682P/U020541P total2900P/595ruby and62actual review pages. Adaptive01 is729P/745ruby/17pages, adaptive02 is276P/204ruby/6pages and DUST-CONT95-175 is81P/15ruby/2pages. MAIN02/13/16/17 and YORI01 supply bounded prior-event identity/context; MAIN16U0121-28 was an initially mistaken coach lookup, and actual coach confirmation is U01334. No current image, residual, whole-edition, new global-source-first or independent credit follows. Object/CRC/OPF hashes verify correspondence, not interpretation.
+
+[Current evidence index](KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.

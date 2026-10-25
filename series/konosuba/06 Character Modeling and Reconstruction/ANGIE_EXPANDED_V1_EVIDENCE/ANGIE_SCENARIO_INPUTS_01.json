@@ -1,0 +1,111 @@
+{
+  "schema": "konosuba.cohort46.exact-scenario-inputs.v1",
+  "authored_utc": "2026-10-25T09:28:24.554399+00:00",
+  "foundation_freeze_sha256": "abc049cd97e97e6f9a7db1f291b85c5fe46e0cff058eb6d566c13bb8558bcd18",
+  "original_firsts_exist": false,
+  "feedback_exists": false,
+  "language": "English",
+  "kind": "Informed same-root source-known hypothetical diagnostics",
+  "independent_observation_count": null,
+  "not_final_principal_party_transfer_battery": true,
+  "canonical_fiction": false,
+  "subject": "Angie",
+  "model_sha256": "6ec1d39156d3adadd8c9610c1bacbd7ac7c11fe32c7ab35f03656043463b48a9",
+  "inventory_sha256": "dfb705b69a982556ebe2bcc9d7fa3a7b4c10aff82738368d4104d6c7c0bf3f47",
+  "pair_count": 2,
+  "pairs": [
+    {
+      "id": "ANG-A",
+      "changed_condition": "Only asserted route ability versus personally observed and checked relevant route competence; basic class unchanged.",
+      "held_constant": "Angie, joint collection agreement, peer age, resources, fork, unknown bend, no communication, proposed separation and other speaker line.",
+      "limitation": "Known-source, same-informed-root hypothetical contrast. A changed response cannot establish a unique causal mechanism; an unchanged response can have several interpretations. No independent accuracy, grade, confidence increase, Japanese-performance or final-battery credit."
+    },
+    {
+      "id": "ANG-B",
+      "changed_condition": "Visible people exposed to the cart versus reliable empty/closed approaches and material loss only.",
+      "held_constant": "Angie, painful wrist/uncertain footing, own minerals, cart/lever uncertainty, junior distance, available means, time and no completed outcome.",
+      "limitation": "Known-source, same-informed-root hypothetical contrast. A changed response cannot establish a unique causal mechanism; an unchanged response can have several interpretations. No independent accuracy, grade, confidence increase, Japanese-performance or final-battery credit."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "ANG-A1",
+      "pair_id": "ANG-A",
+      "subject": "Angie",
+      "rule_id": "ANG-R01",
+      "present_facts": [
+        "This is a hypothetical mineral-collection trip near Axel, not a canonical event. You are seventeen-year-old Angie. You and a new peer-aged adventurer agreed to collect mineral pieces together and split what you find. You have one charged jewel, normal equipment and enough time to return before the gate closes; neither is injured.",
+        "The other adventurer uses the basic Adventurer class. At a fork they propose taking the eastern path alone for twenty minutes, then meeting you at the marked junction. You can hear running water on that path but cannot see around its bend. You have not inspected it today, and neither person has a communication device.",
+        "Your colleague has not agreed that you may order them, and you have not agreed to separate. No hidden attack or later finding is scripted. Decide only the immediate exchange and next action.",
+        "You have seen no relevant demonstration or record of this person's route-finding skill. Their only assurance is that they are good at finding paths; their basic class is the only occupational information you have."
+      ],
+      "other_speaker_line": "The other adventurer: The eastern path looks promising. I can handle myself. What do you say?",
+      "exact_prompt": "Write one short English scene as Angie over the next minute, including what you say and do. You may include a brief private thought where the subject has access to it. Start from the supplied present state. End before any later outcome is known; do not add an analytical explanation.\n\nThis is a hypothetical mineral-collection trip near Axel, not a canonical event. You are seventeen-year-old Angie. You and a new peer-aged adventurer agreed to collect mineral pieces together and split what you find. You have one charged jewel, normal equipment and enough time to return before the gate closes; neither is injured.\n\nThe other adventurer uses the basic Adventurer class. At a fork they propose taking the eastern path alone for twenty minutes, then meeting you at the marked junction. You can hear running water on that path but cannot see around its bend. You have not inspected it today, and neither person has a communication device.\n\nYour colleague has not agreed that you may order them, and you have not agreed to separate. No hidden attack or later finding is scripted. Decide only the immediate exchange and next action.\n\nYou have seen no relevant demonstration or record of this person's route-finding skill. Their only assurance is that they are good at finding paths; their basic class is the only occupational information you have.\n\nThe other adventurer: The eastern path looks promising. I can handle myself. What do you say?\n",
+      "exact_prompt_pin": {
+        "file": "exact-inputs01/prompts/ANG-A1.txt",
+        "bytes": 1440,
+        "sha256": "f4b38619aac17be20ee21018982c78abd4aa72ffe11b9fa7cb46eecb2e488279"
+      }
+    },
+    {
+      "id": "ANG-A2",
+      "pair_id": "ANG-A",
+      "subject": "Angie",
+      "rule_id": "ANG-R01",
+      "present_facts": [
+        "This is a hypothetical mineral-collection trip near Axel, not a canonical event. You are seventeen-year-old Angie. You and a new peer-aged adventurer agreed to collect mineral pieces together and split what you find. You have one charged jewel, normal equipment and enough time to return before the gate closes; neither is injured.",
+        "The other adventurer uses the basic Adventurer class. At a fork they propose taking the eastern path alone for twenty minutes, then meeting you at the marked junction. You can hear running water on that path but cannot see around its bend. You have not inspected it today, and neither person has a communication device.",
+        "Your colleague has not agreed that you may order them, and you have not agreed to separate. No hidden attack or later finding is scripted. Decide only the immediate exchange and next action.",
+        "Before departure you personally watched this person pass a supervised route-finding exercise, detect two deliberately placed trail hazards and explain them accurately. The guild record you checked confirms that result; they still use the basic Adventurer class. That test does not reveal today's hidden bend."
+      ],
+      "other_speaker_line": "The other adventurer: The eastern path looks promising. I can handle myself. What do you say?",
+      "exact_prompt": "Write one short English scene as Angie over the next minute, including what you say and do. You may include a brief private thought where the subject has access to it. Start from the supplied present state. End before any later outcome is known; do not add an analytical explanation.\n\nThis is a hypothetical mineral-collection trip near Axel, not a canonical event. You are seventeen-year-old Angie. You and a new peer-aged adventurer agreed to collect mineral pieces together and split what you find. You have one charged jewel, normal equipment and enough time to return before the gate closes; neither is injured.\n\nThe other adventurer uses the basic Adventurer class. At a fork they propose taking the eastern path alone for twenty minutes, then meeting you at the marked junction. You can hear running water on that path but cannot see around its bend. You have not inspected it today, and neither person has a communication device.\n\nYour colleague has not agreed that you may order them, and you have not agreed to separate. No hidden attack or later finding is scripted. Decide only the immediate exchange and next action.\n\nBefore departure you personally watched this person pass a supervised route-finding exercise, detect two deliberately placed trail hazards and explain them accurately. The guild record you checked confirms that result; they still use the basic Adventurer class. That test does not reveal today's hidden bend.\n\nThe other adventurer: The eastern path looks promising. I can handle myself. What do you say?\n",
+      "exact_prompt_pin": {
+        "file": "exact-inputs01/prompts/ANG-A2.txt",
+        "bytes": 1535,
+        "sha256": "c73e5401077c72fe3e28d911d81aed2ae66853e2ab728292b7d6cea7594e5649"
+      }
+    },
+    {
+      "id": "ANG-B1",
+      "pair_id": "ANG-B",
+      "subject": "Angie",
+      "rule_id": "ANG-R02",
+      "present_facts": [
+        "This is a hypothetical descent toward a town, not a canonical event. You are seventeen-year-old Angie. A mineral cart you hired has lost its ordinary wheel brake and is starting down a slope toward a footbridge. It carries your mineral purchase. Your wrist is painful from earlier work, and your footing is uncertain.",
+        "At the previous stop the carter showed you a reachable hand-brake lever: holding it may slow the cart long enough for someone to bring a wheel block, but you cannot know that it will hold. The carter has since left; only you and your junior are at this slope. Your junior is thirty paces away and can hear a shouted instruction. There is no suitable rune or spare jewel for stopping this cart magically, no other help already present and no injury to anyone yet.",
+        "You have a few seconds to choose what to say and attempt. The scene ends before the attempt succeeds or fails. Do not invent a completed rescue, new hazard, new power or the junior accepting an instruction before they answer.",
+        "You can see two townspeople on the footbridge in the cart's path. River noise prevents them hearing an ordinary warning at this distance. The cart has not yet reached them."
+      ],
+      "other_speaker_line": "The junior shouts: Angie! What do we do?",
+      "exact_prompt": "Write one short English scene as Angie over the next minute, including what you say and do. You may include a brief private thought where the subject has access to it. Start from the supplied present state. End before any later outcome is known; do not add an analytical explanation.\n\nThis is a hypothetical descent toward a town, not a canonical event. You are seventeen-year-old Angie. A mineral cart you hired has lost its ordinary wheel brake and is starting down a slope toward a footbridge. It carries your mineral purchase. Your wrist is painful from earlier work, and your footing is uncertain.\n\nAt the previous stop the carter showed you a reachable hand-brake lever: holding it may slow the cart long enough for someone to bring a wheel block, but you cannot know that it will hold. The carter has since left; only you and your junior are at this slope. Your junior is thirty paces away and can hear a shouted instruction. There is no suitable rune or spare jewel for stopping this cart magically, no other help already present and no injury to anyone yet.\n\nYou have a few seconds to choose what to say and attempt. The scene ends before the attempt succeeds or fails. Do not invent a completed rescue, new hazard, new power or the junior accepting an instruction before they answer.\n\nYou can see two townspeople on the footbridge in the cart's path. River noise prevents them hearing an ordinary warning at this distance. The cart has not yet reached them.\n\nThe junior shouts: Angie! What do we do?\n",
+      "exact_prompt_pin": {
+        "file": "exact-inputs02/prompts/ANG-B1.txt",
+        "bytes": 1510,
+        "sha256": "e50083330777effe883f468c16253598f9b67db78257ecbc833b7f36d42be8ab"
+      }
+    },
+    {
+      "id": "ANG-B2",
+      "pair_id": "ANG-B",
+      "subject": "Angie",
+      "rule_id": "ANG-R02",
+      "present_facts": [
+        "This is a hypothetical descent toward a town, not a canonical event. You are seventeen-year-old Angie. A mineral cart you hired has lost its ordinary wheel brake and is starting down a slope toward a footbridge. It carries your mineral purchase. Your wrist is painful from earlier work, and your footing is uncertain.",
+        "At the previous stop the carter showed you a reachable hand-brake lever: holding it may slow the cart long enough for someone to bring a wheel block, but you cannot know that it will hold. The carter has since left; only you and your junior are at this slope. Your junior is thirty paces away and can hear a shouted instruction. There is no suitable rune or spare jewel for stopping this cart magically, no other help already present and no injury to anyone yet.",
+        "You have a few seconds to choose what to say and attempt. The scene ends before the attempt succeeds or fails. Do not invent a completed rescue, new hazard, new power or the junior accepting an instruction before they answer.",
+        "You can see that the footbridge and its approaches are empty and closed to the public by locked gates. No person is in the cart's path in this hypothetical. The threatened loss is your mineral purchase and damage to the empty bridge."
+      ],
+      "other_speaker_line": "The junior shouts: Angie! What do we do?",
+      "exact_prompt": "Write one short English scene as Angie over the next minute, including what you say and do. You may include a brief private thought where the subject has access to it. Start from the supplied present state. End before any later outcome is known; do not add an analytical explanation.\n\nThis is a hypothetical descent toward a town, not a canonical event. You are seventeen-year-old Angie. A mineral cart you hired has lost its ordinary wheel brake and is starting down a slope toward a footbridge. It carries your mineral purchase. Your wrist is painful from earlier work, and your footing is uncertain.\n\nAt the previous stop the carter showed you a reachable hand-brake lever: holding it may slow the cart long enough for someone to bring a wheel block, but you cannot know that it will hold. The carter has since left; only you and your junior are at this slope. Your junior is thirty paces away and can hear a shouted instruction. There is no suitable rune or spare jewel for stopping this cart magically, no other help already present and no injury to anyone yet.\n\nYou have a few seconds to choose what to say and attempt. The scene ends before the attempt succeeds or fails. Do not invent a completed rescue, new hazard, new power or the junior accepting an instruction before they answer.\n\nYou can see that the footbridge and its approaches are empty and closed to the public by locked gates. No person is in the cart's path in this hypothetical. The threatened loss is your mineral purchase and damage to the empty bridge.\n\nThe junior shouts: Angie! What do we do?\n",
+      "exact_prompt_pin": {
+        "file": "exact-inputs02/prompts/ANG-B2.txt",
+        "bytes": 1571,
+        "sha256": "3f46bbbbfba7628d1ca1709ef61bfb622ceb4a1100d37b9c6b47db9c86422461"
+      }
+    }
+  ],
+  "status_time_basis": "This exact input bundle was authored after accepted foundation freeze and before any original response. Later first seals/diagnostics are separately recorded.",
+  "prior_input_draft_sha256": "2f981fd312518e0060388e485c1df8a1523e7bb09ec82812d2538f3c4a9d850a",
+  "pre_freeze_clarification": "Both ANG-B cases explicitly place the carter offstage after the previous stop; only Angie and the junior are available at the slope. Original draft remains preserved. No response or feedback exists."
+}

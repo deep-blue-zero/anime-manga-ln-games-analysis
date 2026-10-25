@@ -1585,12 +1585,12 @@
     {
       "character": "シュメール・ミード・ひゃんひゃん (Yorimichi03 noble)",
       "identity": "Woman at the Shumel marquis residence; nativeシュメール・ミード・ひゃんひゃん. Previous-head/Crimson-wife/grandmother relation remains questioned or inferred, not verified genealogy.",
-      "likely_tier": "3 scoped provisional model; one weak rule; exact containing publication pending",
-      "priority": "Scoped study received; exact publication pending; full KonoSuba program continues.",
+      "likely_tier": "3 scoped provisional model; one weak rule; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03U014P345-394/413-414 within complete629P paragraph/ruby projection.",
       "substantive_responsibility": "Repeated articulated name boundary, actual dangerous casting, public/rank conflict, tactical cost, court counteraccount and eventual restraint; one narrow provisional rule, not a harmless gag or constant optimal strategist.",
       "gaps": "One known dense confrontation; rank/raid/exposure/generic insult rivals remain. No completed killing, actual trial, full inventory or proved ancestry. Internal pair stops at spell preparation and keeps a tidy control reply.",
-      "disposition_status": "SCOPED_TIER3_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER3_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort45_current_fields": {
@@ -1610,19 +1610,30 @@
         "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_SHUMEL_RECONSTRUCTION_MODEL.md"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Source-bound individual interpretation received. Current scope is provisional and nonfinal; no independent accuracy or model-maturity gain.",
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
       "cohort45_source_known": true,
-      "cohort45_unique_person_denominator": false
+      "cohort45_unique_person_denominator": false,
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "3 scoped provisional model; one weak rule; exact containing publication pending",
+        "priority": "Scoped study received; exact publication pending; full KonoSuba program continues.",
+        "disposition_status": "SCOPED_TIER3_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Source-bound individual interpretation received. Current scope is provisional and nonfinal; no independent accuracy or model-maturity gain."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "バイス (ピンズ伯爵家; Yorimichi03)",
       "identity": "Pins Earl male heir/嫡男, not Darkness former fiancé. Intended Lalatina belongs to Lilac house; no unnecessary birth-order assertion.",
-      "likely_tier": "2 scoped dedicated monograph; no forced generator; exact containing publication pending",
-      "priority": "Scoped study received; exact publication pending; full KonoSuba program continues.",
+      "likely_tier": "2 scoped dedicated monograph; no forced generator; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03U018P39-89/257-267/306-311/330-336, separated diary frames.",
       "substantive_responsibility": "Public misidentification and false confirmation, real unequal violence, fear/rank apology, lost duel, collapsed stories, unheard negotiation and performed two-wife marriage with dead-eyed appearance.",
       "gaps": "No private motive ranking, free consent certificate, decoded bargain or happy future. Wealth motive is Kazuma qualified inference; no forced generator.",
-      "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort45_current_fields": {
@@ -1641,19 +1652,30 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_VICE_CHARACTER_MONOGRAPH.md"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Source-bound individual interpretation received. Current scope is provisional and nonfinal; no independent accuracy or model-maturity gain.",
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
       "cohort45_source_known": true,
-      "cohort45_unique_person_denominator": false
+      "cohort45_unique_person_denominator": false,
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "2 scoped dedicated monograph; no forced generator; exact containing publication pending",
+        "priority": "Scoped study received; exact publication pending; full KonoSuba program continues.",
+        "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Source-bound individual interpretation received. Current scope is provisional and nonfinal; no independent accuracy or model-maturity gain."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "ライラック・ロッド・ララティーナ (Yorimichi03)",
       "identity": "ライラック・ロッド・ララティーナ; positively same woman as laterララティーヌ atU018P334-335. Distinct from Darkness and pupilリリアンティーヌ.",
-      "likely_tier": "2 scoped dedicated monograph; no forced generator; exact containing publication pending",
-      "priority": "Scoped study received; exact publication pending; full KonoSuba program continues.",
+      "likely_tier": "2 scoped dedicated monograph; no forced generator; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03U018P82/257-267/306-311/330-336.",
       "substantive_responsibility": "Own victorious duel, false childhood account, possessive claim, rival draw, petition, constrained settlement and actual wedding/name change.",
       "gaps": "Childhood-love story remains false; no proven bullying or privately coordinated deception. Exact negotiation, exclusive motive, later satisfaction and renaming cause unshown; no forced generator.",
-      "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort45_current_fields": {
@@ -1672,19 +1694,30 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_LILAC_LALATINA_CHARACTER_MONOGRAPH.md"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Source-bound individual interpretation received. Current scope is provisional and nonfinal; no independent accuracy or model-maturity gain.",
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
       "cohort45_source_known": true,
-      "cohort45_unique_person_denominator": false
+      "cohort45_unique_person_denominator": false,
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "2 scoped dedicated monograph; no forced generator; exact containing publication pending",
+        "priority": "Scoped study received; exact publication pending; full KonoSuba program continues.",
+        "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Source-bound individual interpretation received. Current scope is provisional and nonfinal; no independent accuracy or model-maturity gain."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "ティア (ドルトリン男爵家; Yorimichi03)",
       "identity": "ティア ofドルトリン baron house; separate petitioner from Lilac Lalatina and Darkness.",
-      "likely_tier": "2 scoped dedicated monograph; no forced generator; exact containing publication pending",
-      "priority": "Scoped study received; exact publication pending; full KonoSuba program continues.",
+      "likely_tier": "2 scoped dedicated monograph; no forced generator; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03U018P43/261-267/306-311/330-336.",
       "substantive_responsibility": "Attributed staged victim account, narrated forgiveness, own challenge/draw, court argument and continuing marriage under higher-rank threat.",
       "gaps": "No passive innocent-victim biography, exclusive money confession or proved privately coordinated joint plan. Sparse direct voice and unheard terms underdetermine generator.",
-      "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort45_current_fields": {
@@ -1703,19 +1736,30 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TIA_CHARACTER_MONOGRAPH.md"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Source-bound individual interpretation received. Current scope is provisional and nonfinal; no independent accuracy or model-maturity gain.",
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
       "cohort45_source_known": true,
-      "cohort45_unique_person_denominator": false
+      "cohort45_unique_person_denominator": false,
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "2 scoped dedicated monograph; no forced generator; exact containing publication pending",
+        "priority": "Scoped study received; exact publication pending; full KonoSuba program continues.",
+        "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Source-bound individual interpretation received. Current scope is provisional and nonfinal; no independent accuracy or model-maturity gain."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "リリアンティーヌ (Yorimichi03 pupil)",
       "identity": "Noble pupil distantly related to Darkness; nativeリリアンティーヌ, distinct from the two adult Lalatina names. Exact age unprovided.",
-      "likely_tier": "2 scoped dedicated monograph; no forced generator; exact containing publication pending",
-      "priority": "Scoped study received; exact publication pending; full KonoSuba program continues.",
+      "likely_tier": "2 scoped dedicated monograph; no forced generator; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03U018P118-145/209-223/280-287/313-319.",
       "substantive_responsibility": "Own teacher preference, practical volcano question, notes/applause, academic gains, reported fiction reception and consequential pose imitation give meaningful ordinary learning agency.",
       "gaps": "No universal skepticism/gullibility, private firing intention or direct parental dismissal interview. Teacher-history claims remain their access plane. Age-appropriate analysis; no forced generator.",
-      "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort45_current_fields": {
@@ -1734,19 +1778,30 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_LILIANTINE_CHARACTER_MONOGRAPH.md"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Source-bound individual interpretation received. Current scope is provisional and nonfinal; no independent accuracy or model-maturity gain.",
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
       "cohort45_source_known": true,
-      "cohort45_unique_person_denominator": false
+      "cohort45_unique_person_denominator": false,
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "2 scoped dedicated monograph; no forced generator; exact containing publication pending",
+        "priority": "Scoped study received; exact publication pending; full KonoSuba program continues.",
+        "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Source-bound individual interpretation received. Current scope is provisional and nonfinal; no independent accuracy or model-maturity gain."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "メルビレイ (Yorimichi03 pet)",
       "identity": "Same growing creature givenみょろりん proposal and Aqua Sea Dragon King title. Title/species/parentage are not all equally established.",
-      "likely_tier": "2 scoped dedicated monograph; no forced generator; exact containing publication pending",
-      "priority": "Scoped study received; exact publication pending; full KonoSuba program continues.",
+      "likely_tier": "2 scoped dedicated monograph; no forced generator; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03U018P28-36/91-113/149-168/272-301/327/345-350/357-437.",
       "substantive_responsibility": "Defense, growth and confinement, actual coordinated water display, four-frog combat/healing, changing human incentives, interest in staying before Aqua prompts departure.",
       "gaps": "Language, weather control, imitation and tactical role-displacement remain human hypotheses; offshore kin unproved. Generic defense/conditioning and projection rivals survive. Substantial nonhuman monograph without permanent species ceiling or forced generator.",
-      "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort45_current_fields": {
@@ -1765,19 +1820,30 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_MELVIREI_CHARACTER_MONOGRAPH.md"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Source-bound individual interpretation received. Current scope is provisional and nonfinal; no independent accuracy or model-maturity gain.",
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
       "cohort45_source_known": true,
-      "cohort45_unique_person_denominator": false
+      "cohort45_unique_person_denominator": false,
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "2 scoped dedicated monograph; no forced generator; exact containing publication pending",
+        "priority": "Scoped study received; exact publication pending; full KonoSuba program continues.",
+        "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Source-bound individual interpretation received. Current scope is provisional and nonfinal; no independent accuracy or model-maturity gain."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Unnamed last-life dungeon owner (Yorimichi03)",
       "identity": "Unnamed female succubus/お姉さん explicitlyU016P330/337/359, former shop worker, distinct from MAIN16 vampire126.",
-      "likely_tier": "2 scoped dedicated monograph; no forced generator; exact containing publication pending",
-      "priority": "Scoped study received; exact publication pending; full KonoSuba program continues.",
+      "likely_tier": "2 scoped dedicated monograph; no forced generator; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C45 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI03U016P267/291-350/359-360.",
       "substantive_responsibility": "Finite reserve-life claim, survival priority, mistaken offending-activity interpretation, revised closure/treasure offers, Vanir intervention and actual thanks/hospitality.",
       "gaps": "No performed closure/treasure transfer, solo successful persuasion, exact payer/services or complete victim/consent history of dungeon. Generic survival bargaining/gratitude rivals remain; no forced generator.",
-      "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT45_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_cohort45_current_fields": {
@@ -1796,9 +1862,20 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_LAST_LIFE_SUCCUBUS_OWNER_CHARACTER_MONOGRAPH.md"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Source-bound individual interpretation received. Current scope is provisional and nonfinal; no independent accuracy or model-maturity gain.",
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
       "cohort45_source_known": true,
-      "cohort45_unique_person_denominator": false
+      "cohort45_unique_person_denominator": false,
+      "prior_cohort45_publication_fields": {
+        "likely_tier": "2 scoped dedicated monograph; no forced generator; exact containing publication pending",
+        "priority": "Scoped study received; exact publication pending; full KonoSuba program continues.",
+        "disposition_status": "SCOPED_TIER2_COHORT45_PUBLICATION_PENDING",
+        "cohort45_current_receiving": "Source-bound individual interpretation received. Current scope is provisional and nonfinal; no independent accuracy or model-maturity gain."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      }
     },
     {
       "character": "Hagen (Yorimichi04 household)",
@@ -1857,57 +1934,145 @@
         "main_integration_not_certified_by_author_gate": true,
         "no_independent_accuracy_grade_or_confidence_gain": true,
         "separate_housekeeping_run": null
+      },
+      "cohort46_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI04_IDENTITY_AND_SUPPORTING_CAST_COHORT46_SUPPLEMENT.md"
+      ],
+      "cohort46_semantic_receiving_sha256": "d819a2618b54945dd8c5a111782a28080b1fffd1a6b78979e703fa190c5d3ffd",
+      "cohort46_supporting_freeze_sha256": "cb8f4d207c7859074f5bce8ac1a5d9fc3094230b2e09727ad851f0a19d43c6e6",
+      "cohort46_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+      "cohort46_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "cohort46_source_supplement": {
+        "source": "YORI04U0126-25/289-291",
+        "finding": "Hagen administrative contribution and the separately narrated maid transport remain differentiated contributors in the fully received office context.",
+        "limit": "No automatic identification of the transporting maid with Hagen or every Dustiness worker. Existing Hagen study remains its home."
       }
     },
     {
       "character": "DarkStalker (Yorimichi04 retired professional)",
-      "identity": "Intentionalclass-onlyself-identification; female first-personobserver, separatefromAssassinandunnamedTRPGgroup.",
-      "likely_tier": "2-3 candidate; concentrated depth can earn model",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "FullYORI04report31,entireStory02U014558Pderivativecontextandcross-storycorrections. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes.",
-      "substantive_responsibility": "Ownprofessionalwatching/restraintclaim, gratitude/retirement, rivalry/judgmenterrors/injury, curiousromanceprojection/jealousy, intrusion and peacefulmorninggoal formvariedchoices. Knivesreadybutnoactualquestintervention; latervolunteersself. CURRENT WORKING24: Native MAIN17 C1P330–331 explicitly attributes learned Eavesdrop to DarkStalker and his own defensive account of the class name. This supports the known professional's distinct skill contribution rather than a generic invented class.",
-      "gaps": "Join actual teaching episode through accepted Yorimichi/other records; current reference is history, not a new witnessed lesson. Preserve own wishes, errors, privacy costs and separate Assassin agency.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Class-only female narrator and retired professional in YORI04, separate from Assassin. Personal name and the unidentified DUST-CONT class-bearer join remain open.",
+      "likely_tier": "3 scoped provisional model; two restricted rules; exact containing publication pending",
+      "priority": "C46 evidence-proportional study received; own-source publication gates pending; full program active.",
+      "evidence_distribution": "YORI04 five complete fiction paragraph/ruby bodies, especially U0141-558 and U016/U018 cross-story context; MAIN17 bounded reported teaching/Mammon context and DUST-CONT95-175 identity inquiry retain their own access.",
+      "substantive_responsibility": "Retirement, gratitude, peaceful routine, concrete unpaid watch assent, actual meals, professional care and correction coexist with rivalry, injuries, coercive bottle-taking, intrusion, romance projection and mistaken concealment. Two restricted provisional rules cover gratitude/protection of recovered life and invested romance filtering.",
+      "gaps": "Current post-freeze qualification PFQ02 treats U014121 as a weekly-pension price comparison, not an itemized paid bill or known balance. No performed watch, universal noninterference, positive DUST-CONT personal join or general mind-reading. Saw detail and projected intentions in the sealed English firsts remain defects; generic/situational rivals survive.",
+      "disposition_status": "SCOPED_TIER3_COHORT46_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_gap_history_working23": "Fullmechanismrequiresownstate/information/attention/appraisal/reward/voice/rivals/disconfirmers, notadditionalbookquota. Noactualpersonalname/succubusidentity; repeatedduelrecalloneevent, narratornotomniscient.",
-      "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved."
+      "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
+      "cohort46_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_DARK_STALKER_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARK_STALKER_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/DARK_STALKER_EXPANDED_V1_EVIDENCE/DARK_STALKER_RULE_INVENTORY_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/DARK_STALKER_EXPANDED_V1_EVIDENCE/DARK_STALKER_DIAGNOSTIC_ASSESSMENT_01.md"
+      ],
+      "cohort46_semantic_receiving_sha256": "d819a2618b54945dd8c5a111782a28080b1fffd1a6b78979e703fa190c5d3ffd",
+      "cohort46_supporting_freeze_sha256": "cb8f4d207c7859074f5bce8ac1a5d9fc3094230b2e09727ad851f0a19d43c6e6",
+      "cohort46_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+      "cohort46_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "prior_cohort46_current_fields": {
+        "identity": "Intentionalclass-onlyself-identification; female first-personobserver, separatefromAssassinandunnamedTRPGgroup.",
+        "likely_tier": "2-3 candidate; concentrated depth can earn model",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "evidence_distribution": "FullYORI04report31,entireStory02U014558Pderivativecontextandcross-storycorrections. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes.",
+        "substantive_responsibility": "Ownprofessionalwatching/restraintclaim, gratitude/retirement, rivalry/judgmenterrors/injury, curiousromanceprojection/jealousy, intrusion and peacefulmorninggoal formvariedchoices. Knivesreadybutnoactualquestintervention; latervolunteersself. CURRENT WORKING24: Native MAIN17 C1P330–331 explicitly attributes learned Eavesdrop to DarkStalker and his own defensive account of the class name. This supports the known professional's distinct skill contribution rather than a generic invented class.",
+        "gaps": "Join actual teaching episode through accepted Yorimichi/other records; current reference is history, not a new witnessed lesson. Preserve own wishes, errors, privacy costs and separate Assassin agency.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort46_source_known": true,
+      "cohort46_unique_person_denominator": false
     },
     {
       "character": "Assassin (Yorimichi04 retired professional)",
-      "identity": "Separatefemaleclass-namedprofessional; personalnameanddream-likenessmechanismunresolved.",
-      "likely_tier": "2-3 candidate; evidence-proportional decision open",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "FullYORI04report31,Story02U014/cross-story. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes.",
-      "substantive_responsibility": "Ownrivalry/contests/gratitude/retirement/preferences differsfromDarkStalker'saccount. Explicitlyhasnotacceptednightworkwhenotherwomanvolunteers; concretepeacefulmorningplanearnsseparateassent. CURRENT WORKING24: Native MAIN17 C2P76–78 attributes a taught skill and supplied potion to Assassin, which Kazuma actually applies to Dust's sword P79. The teacher and supplier are distinct from DarkStalker and Dust.",
-      "gaps": "Current potion use does not show the original transfer or every accepted scope; no class-to-name fiction or automatic approval of all later acts. Concentrated source can earn a model if discriminating evidence supports it.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Separate female class-named retired professional, not an assent or voice supplied by Dark Stalker. Personal name and dream-likeness mechanism remain unresolved.",
+      "likely_tier": "2 scoped dedicated monograph; no forced model; exact containing publication pending",
+      "priority": "C46 evidence-proportional study received; own-source publication gates pending; full program active.",
+      "evidence_distribution": "YORI04U014 full contextual sequence, especially156-179/219-222/279-293/332-440/492-555; MAIN17 reported teaching/supplied-potion context remains a later report, not a witnessed original transfer.",
+      "substantive_responsibility": "Own rivalry, protective practical correction, departure, feeding, preparedness and differentiated night-work refusal/assent give a substantial individual study. The later concrete peaceful-morning proposal receives her own assent; no performed patrol follows.",
+      "gaps": "Sparse extended private narration and source concentration leave generic care, situational correction and rivalry rivals. No forced current model, universal consent, automatically successful covert method or complete recovery/payment history. Tier2 is a current evidential disposition, not a permanent ceiling.",
+      "disposition_status": "SCOPED_TIER2_COHORT46_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_gap_history_working23": "Do notborrowobserver'sinternalstates, equateclasswithTRPGPC/succubus ormakefuturepatrolperformed. Limbrestoration/dreamrecognition reportsretainmediatedauthority.",
-      "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved."
+      "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
+      "cohort46_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_ASSASSIN_CHARACTER_MONOGRAPH.md"
+      ],
+      "cohort46_semantic_receiving_sha256": "d819a2618b54945dd8c5a111782a28080b1fffd1a6b78979e703fa190c5d3ffd",
+      "cohort46_supporting_freeze_sha256": "cb8f4d207c7859074f5bce8ac1a5d9fc3094230b2e09727ad851f0a19d43c6e6",
+      "cohort46_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+      "cohort46_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "prior_cohort46_current_fields": {
+        "identity": "Separatefemaleclass-namedprofessional; personalnameanddream-likenessmechanismunresolved.",
+        "likely_tier": "2-3 candidate; evidence-proportional decision open",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "evidence_distribution": "FullYORI04report31,Story02U014/cross-story. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes.",
+        "substantive_responsibility": "Ownrivalry/contests/gratitude/retirement/preferences differsfromDarkStalker'saccount. Explicitlyhasnotacceptednightworkwhenotherwomanvolunteers; concretepeacefulmorningplanearnsseparateassent. CURRENT WORKING24: Native MAIN17 C2P76–78 attributes a taught skill and supplied potion to Assassin, which Kazuma actually applies to Dust's sword P79. The teacher and supplier are distinct from DarkStalker and Dust.",
+        "gaps": "Current potion use does not show the original transfer or every accepted scope; no class-to-name fiction or automatic approval of all later acts. Concentrated source can earn a model if discriminating evidence supports it.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort46_source_known": true,
+      "cohort46_unique_person_denominator": false
     },
     {
       "character": "Angie (Yorimichi04 Rune Knight)",
-      "identity": "NamedRuneKnightwithfrontierresponsibility;17explicitinlocalexchange.",
-      "likely_tier": "2-3 candidate; no multiple-source quota",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "FullYORI04report31,Story04U018/Story05U020.",
-      "substantive_responsibility": "Gem-dependenttechnicalskill/correctslugharvest, preparedresourcequest, ownstatusneeds/fear, genuinecostlyprotection/cooperativedemands, laterlocustcoercion/achievement/brawl/frontierreturn provide differentiatedagentvariables.",
-      "gaps": "Currentdensecontextcansupportboundedmechanismwithcanonical/transfer/rivaltests; no automaticcompletegeneralvalidity. Preserveexploitedbill/withheldwarning/injury/unknownchaseonset andageappropriate/non-graphicanalysis.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Named seventeen-year-old Rune Knight in YORI04; class standing and local knowledge do not give her Kazuma withheld information. Distinct from an idealized always-correct senior.",
+      "likely_tier": "3 scoped provisional model; two restricted rules; exact containing publication pending",
+      "priority": "C46 evidence-proportional study received; own-source publication gates pending; full program active.",
+      "evidence_distribution": "YORI04U018 complete682P and U020 complete541P within all five fiction bodies; concrete mineral work, pursuit, town-defense decision, later coerced locust mission, card/name update and actual return to the front.",
+      "substantive_responsibility": "Senior/class standing and miscalibrated judgment coexist with real mineral/weapon competence, resource constraints, costly hospitality, fear, a costly protective stop, imposed work and noisy disagreement. Two restricted provisional rules address class/senior framing and fearful protection under stakes.",
+      "gaps": "PFQ03 governs injury/treatment: Angie is blown awayU018613; Aqua explicitly Heals Kazuma624, without a separately narrated Angie diagnosis, treatment or recovery. Chase onset, ore division and complete finances remain unshown. Both sealed cart firsts attempt the lever; tidy negotiation and unbound payment wording remain. No completed rescue, calibrated threshold, causal identification or mature model claim.",
+      "disposition_status": "SCOPED_TIER3_COHORT46_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
+      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
+      "cohort46_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_ANGIE_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ANGIE_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/ANGIE_EXPANDED_V1_EVIDENCE/ANGIE_RULE_INVENTORY_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/ANGIE_EXPANDED_V1_EVIDENCE/ANGIE_DIAGNOSTIC_ASSESSMENT_01.md"
+      ],
+      "cohort46_semantic_receiving_sha256": "d819a2618b54945dd8c5a111782a28080b1fffd1a6b78979e703fa190c5d3ffd",
+      "cohort46_supporting_freeze_sha256": "cb8f4d207c7859074f5bce8ac1a5d9fc3094230b2e09727ad851f0a19d43c6e6",
+      "cohort46_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+      "cohort46_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "prior_cohort46_current_fields": {
+        "identity": "NamedRuneKnightwithfrontierresponsibility;17explicitinlocalexchange.",
+        "likely_tier": "2-3 candidate; no multiple-source quota",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "evidence_distribution": "FullYORI04report31,Story04U018/Story05U020.",
+        "substantive_responsibility": "Gem-dependenttechnicalskill/correctslugharvest, preparedresourcequest, ownstatusneeds/fear, genuinecostlyprotection/cooperativedemands, laterlocustcoercion/achievement/brawl/frontierreturn provide differentiatedagentvariables.",
+        "gaps": "Currentdensecontextcansupportboundedmechanismwithcanonical/transfer/rivaltests; no automaticcompletegeneralvalidity. Preserveexploitedbill/withheldwarning/injury/unknownchaseonset andageappropriate/non-graphicanalysis.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort46_source_known": true,
+      "cohort46_unique_person_denominator": false
     },
     {
       "character": "Anna Filante Esteroid / mansion ghost",
-      "identity": "MAIN02fullnameアンナ＝フィランテ＝エステロイドcorroboratedongravestone; YORI04authorアンナ゠フィランテ゠エステロイドsamefullnameandimmediateghostcontext.",
-      "likely_tier": "1-2 candidate; high-confidence identity join",
-      "priority": "Discovery — source-backed scope; final tier pending",
-      "evidence_distribution": "New92MAIN02acceptedbase-textP+C3P239/517–525andC4P312;23YORI04U018P660–682withruby;direct-nativejoinreceipt12f095fb… plusfullYORI01/04reports. CURRENT WORKING23: MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. I1 P29/34/36/42–44 adds an explicit Anna name and actual story request to the previous MAIN02/YORI04 full-name join. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "Residentghost's adventurestory/doll/prank/interpersonalpreferences aremostlyAqua-mediated; fullgraveidentityisdirectlyread. Printedbookauthorshipattributionhasstrongsame-personcontextwithoutawitnessedwritingact. CURRENT WORKING23: Aqua identifies Anna by name, receives her nod and request and actually agrees to tell a story, delaying the carriage. This supports the existing mansion-child-ghost join rather than adding a new ghost. Her utterance is mediated through Aqua's focalization, not directly heard by Kazuma. YORI04 printed full-name authorship does not witness the writing process. CURRENT WORKING24: MAIN01 poor dead recipients are not automatically Anna; MAIN02 grave/ruby/full-name proof and MAIN16 explicit Anna request remain the actual join. MAIN17 creator mentions household poltergeist defenses without a direct new named Anna choice. CURRENT WORKING31: MAIN16I1 gives Aqua existing regret-resolution/story arrangement and Anna reported last-story request; Aqua actually sits/tells it, I2 confirms missed coach. Current unnamed C3 girl/earlier apparition remains a separate uncertain perception unless exactly joined.",
-      "gaps": "Specific child identity established by prior controlled proof; exact new ghost-phenomenon performer remains attributed/unjoined where unnamed. Age-appropriate nonsexual profile; no new actual birth, authorship act or test. CURRENT WORKING31 QUALIFICATION: Prior full-name child-ghost join retained. Age-appropriate nonsexual profile; narrative echo alone does not assign every unnamed phenomenon to Anna or establish new biological life/independent authorship event.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "The MAIN02 gravestone full name and YORI04 printed full-name attribution support the existing mansion-child-ghost join. MAIN16 explicitly names Anna; unnamed doll manifestations and other household ghosts do not all become her.",
+      "likely_tier": "2 scoped dedicated monograph; no forced model; exact containing publication pending",
+      "priority": "C46 evidence-proportional study received; own-source publication gates pending; full program active.",
+      "evidence_distribution": "MAIN02U016200-530 andU017290-327; MAIN16U011/U013 complete paragraph/ruby bodies plus the separately received U0121-28 context; YORI04U018660-682/U020493-514; relevant YORI01 doll/customer context.",
+      "substantive_responsibility": "Story, doll and adventure preferences, mediated requests, social presence, care arrangements and printed authorship attribution earn a substantial individual study. Aqua actually tells the requested MAIN16 story and misses the coach; this does not prove Anna deliberately planned the delay.",
+      "gaps": "Kazuma cannot directly see/hear every communication. Parental history is Aqua report; the grave does not verify every detail. Printed authorship does not witness writing. MAIN02 wandering ghosts/dolls are explicitly separated atU016452; the YORI01 mother-in-law is not an alias candidate. Nonsexual child treatment; no forced current model or independent writing/voice test.",
+      "disposition_status": "SCOPED_TIER2_COHORT46_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_gap_history_working22": "Noindependentcertificationofeverychildhoodclaim/invisibleact/bookproductionmechanism; noactualbirthfrommineralgag, child-appropriate/non-graphicprofile. Distinctclientfather/unnamednightvisitoruntilproof.",
@@ -1929,7 +2094,37 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI03_IDENTITY_AND_SUPPORTING_CAST_COHORT45_SUPPLEMENT.md"
       ],
       "cohort45_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
-      "cohort45_current_receiving": "Qualified source supplement received; prior tier,priority,disposition,models and firsts remain exact. Exact containing publication pending."
+      "cohort45_current_receiving": "Exact-source author publication is closed for this scoped C45 study or source supplement. Source bounds and all histories remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort45_publication_fields": {
+        "cohort45_current_receiving": "Qualified source supplement received; prior tier,priority,disposition,models and firsts remain exact. Exact containing publication pending."
+      },
+      "cohort45_publication_resolution": {
+        "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      },
+      "cohort46_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_ANNA_CHARACTER_MONOGRAPH.md"
+      ],
+      "cohort46_semantic_receiving_sha256": "d819a2618b54945dd8c5a111782a28080b1fffd1a6b78979e703fa190c5d3ffd",
+      "cohort46_supporting_freeze_sha256": "cb8f4d207c7859074f5bce8ac1a5d9fc3094230b2e09727ad851f0a19d43c6e6",
+      "cohort46_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+      "cohort46_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "prior_cohort46_current_fields": {
+        "identity": "MAIN02fullnameアンナ＝フィランテ＝エステロイドcorroboratedongravestone; YORI04authorアンナ゠フィランテ゠エステロイドsamefullnameandimmediateghostcontext.",
+        "likely_tier": "1-2 candidate; high-confidence identity join",
+        "priority": "Discovery — source-backed scope; final tier pending",
+        "evidence_distribution": "New92MAIN02acceptedbase-textP+C3P239/517–525andC4P312;23YORI04U018P660–682withruby;direct-nativejoinreceipt12f095fb… plusfullYORI01/04reports. CURRENT WORKING23: MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. I1 P29/34/36/42–44 adds an explicit Anna name and actual story request to the previous MAIN02/YORI04 full-name join. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
+        "substantive_responsibility": "Residentghost's adventurestory/doll/prank/interpersonalpreferences aremostlyAqua-mediated; fullgraveidentityisdirectlyread. Printedbookauthorshipattributionhasstrongsame-personcontextwithoutawitnessedwritingact. CURRENT WORKING23: Aqua identifies Anna by name, receives her nod and request and actually agrees to tell a story, delaying the carriage. This supports the existing mansion-child-ghost join rather than adding a new ghost. Her utterance is mediated through Aqua's focalization, not directly heard by Kazuma. YORI04 printed full-name authorship does not witness the writing process. CURRENT WORKING24: MAIN01 poor dead recipients are not automatically Anna; MAIN02 grave/ruby/full-name proof and MAIN16 explicit Anna request remain the actual join. MAIN17 creator mentions household poltergeist defenses without a direct new named Anna choice. CURRENT WORKING31: MAIN16I1 gives Aqua existing regret-resolution/story arrangement and Anna reported last-story request; Aqua actually sits/tells it, I2 confirms missed coach. Current unnamed C3 girl/earlier apparition remains a separate uncertain perception unless exactly joined.",
+        "gaps": "Specific child identity established by prior controlled proof; exact new ghost-phenomenon performer remains attributed/unjoined where unnamed. Age-appropriate nonsexual profile; no new actual birth, authorship act or test. CURRENT WORKING31 QUALIFICATION: Prior full-name child-ghost join retained. Age-appropriate nonsexual profile; narrative echo alone does not assign every unnamed phenomenon to Anna or establish new biological life/independent authorship event.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort46_source_known": true,
+      "cohort46_unique_person_denominator": false
     },
     {
       "character": "Train-station employee (Japan trip)",
@@ -2788,7 +2983,23 @@
       "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
       "prior_gap_history_working28": "Join historical Mammon lead through exact evidence before a population claim. Own objection coexists with coercion/threats; not moral absolution or a complete innocent-villain inversion.",
       "current_scope_asof_working29": "Current derivative review MAIN01–12 plus MAIN17 and first four checkpoints complete; MAIN13–16 and remaining checkpoints/ledger consolidation remain active. All declared source gates and Iris/Yunyun/Vanir/Wiz scoped publication gates closed.",
-      "cohort05_current_evidence_qualification": "Complete MAIN17 report records command/status performance, actual server punishment and later corpse; initial collapse mechanism skill/poison remains uncertain."
+      "cohort05_current_evidence_qualification": "Complete MAIN17 report records command/status performance, actual server punishment and later corpse; initial collapse mechanism skill/poison remains uncertain.",
+      "cohort46_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI04_IDENTITY_AND_SUPPORTING_CAST_COHORT46_SUPPLEMENT.md"
+      ],
+      "cohort46_semantic_receiving_sha256": "d819a2618b54945dd8c5a111782a28080b1fffd1a6b78979e703fa190c5d3ffd",
+      "cohort46_supporting_freeze_sha256": "cb8f4d207c7859074f5bce8ac1a5d9fc3094230b2e09727ad851f0a19d43c6e6",
+      "cohort46_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+      "cohort46_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "cohort46_source_supplement": {
+        "source": "YORI04U014535-539;MAIN17U01292/350",
+        "finding": "Tentatively named goat-headed Mammon, two-handed axe and reported guard-command promotion correspond substantially with the later named appearance/job context.",
+        "limit": "Retrospective reported concordance, not a newly witnessed battle or a pair of axes; MAIN17 collapse cause remains unresolved. A fuller existing-subject study remains due."
+      }
     },
     {
       "character": "Unnamed masked gatekeeper wizard (MAIN17)",

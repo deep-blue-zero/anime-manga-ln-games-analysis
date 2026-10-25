@@ -1964,3 +1964,10 @@ Six monographs cover the particular forest dryad, noble dinner host, white-tiger
 YORI03U020 has three explicitly temporary routes and current returns. Only Kazuma carries the later experience; the knee veteran's refusal513–517 and branch3 repayment654–679 are differently informed counterparts, not a serially converted common mind. Shumel's public sarcasm, explicit name prohibition, real attack and later loss of controlU014358–414 are changing states in one dense encounter. Vice's certainty, correction, duel loss and dead-eyed weddingU01839–336 remain separate phases; neither wedding nor apology establishes a stable happy/reformed disposition. All entering65 model bodies remain exact.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+Dark Stalker retirement, recovered arm, romance absorption, actual rivalry injuries and concrete unpaid-watch assent are changing states, not a permanently serene moral guide. Assassin separately leaves, corrects, feeds and withholds assent until the later concrete proposalYORI04U014156-555. Angie moves from senior performance and class prejudice to demonstrated mineral competence, frightened protective resolve, coerced work and a later card/name updateU018/U020. A blow sending Angie awayU018613 is actual; Aqua Heals Kazuma624. No Angie treatment or general post-blast recovery is separately narrated.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
