@@ -4,6 +4,7 @@ series: "To Be Hero X"
 phase: 2
 through_episode: 24
 status: "canonical"
+last_updated: 2026-10-25
 ---
 
 # Broadcast Order and Diegetic Chronology Ledger
@@ -890,6 +891,8 @@ The montage explains causal interconnectedness, not a new linear timeline.
 
 This section is the **current Phase-2 routing authority** for chronology.
 
+**Post-freeze ordinal correction (2026-10-25; `TBHX-AV-E01-001`):** the final present-line convergence is the **21st ranking tournament**. This supersedes "twentieth" in the preserved `CH-E24-05` formulation above; the earlier episode records remain historical evidence. An independently decoded native Bilibili E04 frame at **source 00:24:28.000** displays `距离第21届排位赛还剩15天` and the English `15 DAYS LEFT UNTIL THE 21ST HEROES TOURNAMENT`, confirming E04 item 16. The native E20 frame at **source 00:23:55.580** instead displays `第20届排位赛暂停`: that suspension belongs to the earlier ruins-history point and must not be substituted for the later tournament's ordinal. These source locators use the distinct Bilibili WEB-DL clock, not the DB Blu-ray clock. The ordinal correction does not establish an absolute Union year or settle the full E01–E07 inter-arc order. The [E01–E04 handoff audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E01-E04_GEMINI_AV_HANDOFF_AUDIT.md) records the received report's separate evidence limits.
+
 The earlier episode sections remain valuable because they preserve what could be known at each prospective broadcast boundary. They are not rewritten away when later episodes reveal that an event occurred earlier.
 
 Phase 2 therefore preserves two distinct maps:
@@ -1036,7 +1039,7 @@ The source does not provide a single absolute Union-year stamp for all E01–E07
 → `X escapes and shows A-Hu forbidden Zero history`
 → `Trust/Fear domino explanation`
 → `night-before-tournament sequence crosses temporal/spatial discontinuity`
-→ `20th ranking tournament opening`.
+→ `21st ranking tournament opening`.
 
 The tournament opening is the latest secure Season-1 diegetic point.
 
@@ -1102,7 +1105,7 @@ The 24-episode source still leaves these unresolved:
 3. exact absolute year of the 18th ranking tournament;
 4. exact interval between E23's Nice collapse and E01's suicide;
 5. exact Union-year placement of E01–E07;
-6. exact year of the twentieth tournament if not explicitly printed elsewhere;
+6. exact year of the twenty-first tournament if not explicitly printed elsewhere;
 7. exact placement of some E20 credit-montage fragments;
 8. identity of every historical E-Soul bearer and whether final-blow imagery implies bearer continuity;
 9. whether the E14–E16 wreckage and Big Johnny's crash are literally the same extraterrestrial incident/material source;

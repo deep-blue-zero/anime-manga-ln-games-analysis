@@ -9,7 +9,7 @@ source_boundary: Chinese-original audiovisual Season 1, Episodes 1–24, prospec
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: 2026-10-24
+last_updated: 2026-10-25
 ---
 
 # To Be Hero X V2 — Current State and Corpus Map
@@ -23,7 +23,7 @@ This is the canonical first-read routing surface for the active *To Be Hero X* V
 - **Secondary witness:** aligned Japanese subtitles/dialogue.
 - **Sequential readings:** **E01–E24 canonical / prospectively frozen**.
 - **Current phase:** **Phase 5 — language, audio, visual-form, and character-modeling synthesis; active**.
-- **Phase-5 progress:** **1/4 architecture-defined specialist documents complete**; Document 17 is canonical; Document 20 character behavior/personality/speech/situational modeling is now architecture-defined; and the E05–E07 Gemini tranche now has two bounded analytical audits with explicit continuous/audio source debts; Documents 18–20 await complete-season external evidence.
+- **Phase-5 progress:** **1/4 architecture-defined specialist documents complete**; Document 17 is canonical; Document 20 character behavior/personality/speech/situational modeling is now architecture-defined; the E05–E07 tranche and ten remaining-arc handoffs now have bounded analytical audits with explicit continuous/audio source debts; all eleven Season 1 bundles are received, while Documents 18–20 await adequate accepted source coverage.
 - **Completed Phase-5 synthesis:** **Document 17 — Mandarin dialogue, discourse voice, naming, register, and Japanese-reference audit**.
 - **Phase-4 progress:** **5/5 complete / formally closed**.
 - **Completed Phase-4 systems/thematic syntheses:** **Documents 01–05 canonical** — narrative architecture; Trust/Fear social ontology; heroism/legitimacy/dignity/coercion; institutions/political economy; and public narrative/branding/celebrity/myth/collective belief.
@@ -33,8 +33,8 @@ This is the canonical first-read routing surface for the active *To Be Hero X* V
 - **Phase 4:** **closed** under `TBHX_V2_PHASE4_CLOSURE_CHECKPOINT.md`; all five architecture-defined system/thematic syntheses are canonical, totaling approximately 52,800 whitespace-delimited words.
 - **Current claim authority:** Part I of `CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md`, containing 145 canonical `P2-CR-*` keys.
 - **Completed Phase-3 specialists:** **06 revision 1.1 + 07 + 08 + 09 + 10 + 11 + 12 + 13 + 14 + 15 + 16**. Specialist 06 incorporates the E24 Lin Ling/Nice dual-entry correction; 07–15 stabilize the individual and paired character clusters; Specialist 16 closes the sequence by establishing **answerable interdependence** as the cross-arc relational standard across testimony, kinship, mentorship, care, rivalry, alliance, public recognition, and survivable separation.
-- **Next recommended work unit:** receive the next separately supplied Gemini arc handoff ZIP and apply the established acceptance workflow. E05–E07 bounded analytical audits are recorded; outstanding source checks remain named. Do not begin a substitute arc audit or finalize Documents 18–20 while awaiting the external producer.
-- **Active evidence intake:** `TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md` under `04 V2 Evidence and Revision`; `TBHX-AV-E11-001` remains active, joined by E05–E07 entries `TBHX-AV-E05-001`, `TBHX-AV-E06-001`, and `TBHX-AV-E07-001/002`. See the [integration checkpoint](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_E05-E07_GEMINI_AV_INTEGRATION_CHECKPOINT.md) for publication state and the exact next-bundle boundary.
+- **Next recommended work unit:** resolve the named continuous-motion, source-clock and original-speed audio debts in the accepted audit queue before finalizing Documents 18–20. All supplied Season 1 Gemini bundles have been received and reconciled; keep disputed claims excluded until their stated acceptance conditions are met.
+- **Active evidence intake:** `TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md` under `04 V2 Evidence and Revision` now indexes 15 permanent packets: existing E11-001 and four E05–E07 entries plus ten remaining-arc entries. The [remaining-arcs checkpoint](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_REMAINING_ARCS_GEMINI_AV_INTEGRATION_CHECKPOINT.md) records ten matrices, seven supplemental reports, exact inputs, current revisions and outstanding source debts; the [E05–E07 checkpoint](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_E05-E07_GEMINI_AV_INTEGRATION_CHECKPOINT.md) retains its historical tranche receipt.
 - **V1 status:** `historical_legacy`; all forty imported hypotheses have final dispositions in `V1_TO_V2_REVISION_LEDGER.md`.
 - **Later TV source:** none inside the currently supplied 24-episode Season-1 corpus.
 
@@ -131,7 +131,7 @@ The current macro-order is:
 → **E21–E23 Original Nice–Smile–A-Hu pre-E01 causal chain**
 → **E01 Original Nice suicide / Lin succession**
 → Lin/Nice and E-Soul present-line consequences
-→ **E24 twentieth-tournament convergence**.
+→ **E24 twenty-first-tournament convergence** (native E04 countdown; historical twentieth suspension remains distinct).
 
 Broadcast order remains independently important because delayed causal disclosure is part of the work's form.
 
@@ -846,8 +846,10 @@ Canonical artifact:
 - **Drive ID:** `10CPoAoLbaC5RSPquqzPRW-6cAhu2BANc`
 - **Drive URL:** ../03%20V2%20Specialist%20Syntheses/02%20Systems%20Institutions%20and%20Themes/01_NARRATIVE_ARCHITECTURE_CHRONOLOGY_PERSPECTIVE_AND_RECONTEXTUALIZATION.md
 - **Canonical home:** `03 V2 Specialist Syntheses/02 Systems Institutions and Themes`
-- **SHA-256:** `296238f84a351a8ab9ff28d8a7783c8a5bcf9650255d38f6d2cfbc973fb044c6`
-- **Approximate length:** 9,994 whitespace-delimited words
+- **Current revision:** `AV-2026-10-25` — bounded remaining-arc corrections; see [revision receipt](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_REMAINING_ARCS_GEMINI_AV_INTEGRATION_CHECKPOINT.md#current-specialist-revisions).
+- **SHA-256:** `1b55758b0593522de7c2ebb065ace5652927445ac3f705b747001e90661c0deb`
+- **Bytes:** 71,780
+- **Current length:** 10,154 whitespace-delimited words
 
 Current governing proposition:
 
@@ -1063,10 +1065,10 @@ Canonical artifact:
 - **Drive ID:** `13z_uNfrjV7GBcO6XaZ5ivn01fdjC6jA7`
 - **Drive URL:** ../03%20V2%20Specialist%20Syntheses/03%20Language%20Audio%20and%20Visual%20Form/17_MANDARIN_DIALOGUE_VOICE_NAMING_REGISTER_AND_JAPANESE_REFERENCE_AUDIT.md
 - **Canonical home:** `03 V2 Specialist Syntheses/03 Language Audio and Visual Form`
-- **Current revision:** `AV-2026-10-24` — E05–E07 AV integration; see [revision receipt](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_E05-E07_GEMINI_AV_INTEGRATION_CHECKPOINT.md#current-specialist-revisions).
-- **SHA-256:** `a0606b7fe6ddf5d1a1ef6689db476d353cd640fc5f00e584122d5411db2fe70c`
-- **Bytes:** 70,068
-- **Current length:** 9,818 whitespace-delimited words
+- **Current revision:** `AV-2026-10-25` — bounded remaining-arc corrections; see [revision receipt](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_REMAINING_ARCS_GEMINI_AV_INTEGRATION_CHECKPOINT.md#current-specialist-revisions).
+- **SHA-256:** `a53536b33f4298c05348424028c5ac884631d208cf4536f6de5244ffa4b5927a`
+- **Bytes:** 71,420
+- **Current length:** 9,957 whitespace-delimited words
 - **Claim routing:** 108 resolved `P2-CR-*` keys
 
 Current governing proposition:
@@ -1117,7 +1119,7 @@ The received V2 bundle is adjudicated in two canonical evidence artifacts:
 
 The analytical audits are complete within their stated source boundary. Codex independently inspected targeted stills/text/metadata, not uninterrupted playback or Mandarin audio. `AV-D01–07` retain exact timing and dialogue bridges, continuous shooting/climax and speaker turns, Cyan-specific concern, original-speed sound/music, source-clock mapping, the agency-name insertion, and administrative/disposal details. The architecture's stronger direct-AV requirements are not silently marked fulfilled. These debts remain retrievable alongside accepted corrections; they do not authorize automatic duplicate extraction or another arc's analysis.
 
-Full-season Gemini AV coverage: **IN PROGRESS — external producer**. Phase 5 remains **1/4**, Document 17 canonical with targeted corrections. **Phase 5 Documents 18–20: PENDING COMPLETE-SEASON EVIDENCE.**
+Full-season Gemini handoff receipt: **COMPLETE — eleven supplied arc bundles**, with ten remaining-arc audits and seven supplemental reports reconciled in the [current checkpoint](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_REMAINING_ARCS_GEMINI_AV_INTEGRATION_CHECKPOINT.md). This is bounded analysis acceptance, with named source debts; it is not a claim of independently verified continuous AV coverage. Current revisions correct E01 cue 134 alignment, the twenty-first tournament ordinal, E15 Ah Sheng naming versus later biography and E10 scene-specific Fear naming. Phase 5 remains **1/4**; **Documents 18–20 are PENDING ADEQUATE ACCEPTED EVIDENCE**, especially continuous motion and actual acoustic audition. A further unspecified ZIP is no longer the blocking condition.
 
 1. `18_VISUAL_FORM_ANIMATION_MODES_COLOR_EDITING_SCREENS_AND_SPECTACLE.md` will retrieve the accepted visual evidence with its continuous-source limits.
 2. `19_MUSIC_SOUND_SILENCE_PERFORMANCE_AND_THE_PUBLIC_VOICE.md` will retrieve attributed audio candidates and require actual audition before acoustic conclusions.
@@ -1125,7 +1127,7 @@ Full-season Gemini AV coverage: **IN PROGRESS — external producer**. Phase 5 r
 
 Document 20 is now a mandatory Phase-5 closure artifact. It is responsible for plausible situational reconstruction of sufficiently evidenced characters through baseline temperament, worldview/salience, decision heuristics, emotional needs and defenses, relationship-conditioned variants, speech-generation constraints, directly observed acoustic/embodied behavior, stress/failure/recovery patterns, negative constraints, and a confidence-graded `stimulus -> interpretation -> emotion -> priorities -> behavior -> speech -> aftereffect` inference chain. It must label extrapolation as inference rather than canon.
 
-Original completion checkpoints retain their historical metrics as archival provenance. Current hashes, byte sizes, word counts, and explicit AV revision identifiers for Specialists 07/16/17 appear in their entries above and in the integration checkpoint. No Phase 5 closure or Phase 6–9 work is initiated. **Next expected input: next Gemini arc handoff ZIP.**
+Original completion checkpoints retain their historical metrics as archival provenance. Current hashes, byte sizes, word counts and AV revision identifiers for Specialists 01/07/16/17 appear in their entries above and the appropriate integration checkpoints. No Phase 5 closure or Phase 6–9 work is initiated. **Next source work: the named channel-specific debts in the remaining-arcs checkpoint and ten audit matrices.**
 
 ## 15. Protected full-series questions
 

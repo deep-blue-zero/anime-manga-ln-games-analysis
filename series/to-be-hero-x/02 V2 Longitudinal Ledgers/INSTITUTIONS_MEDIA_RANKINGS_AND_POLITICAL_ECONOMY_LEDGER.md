@@ -4,6 +4,7 @@ series: "To Be Hero X"
 phase: 2
 through_episode: 24
 status: "canonical"
+last_updated: 2026-10-25
 ---
 
 # Institutions, Media, Rankings, and Political Economy Ledger
@@ -1557,7 +1558,9 @@ The 24-episode corpus does not resolve:
 12. whether public Trust is taxable, ownable, contractually assignable, or legally treated as a property-like asset;
 13. the exact mechanism by which Association memory suppression affects Zero-related Trust/Fear;
 14. the legitimate constitutional design capable of constraining X without eliminating his private person;
-15. whether later seasons will reveal institutional reform, fragmentation, or further cartelization after the twentieth tournament.
+15. whether later seasons will reveal institutional reform, fragmentation, or further cartelization after the twenty-first tournament.
+
+Post-freeze ordinal correction (2026-10-25; `TBHX-AV-E24-001`): the current Season-1 convergence opens the **twenty-first** tournament. The native E04 WEB frame at `00:24:28.000` explicitly counts down fifteen days to the 21st tournament; the native E20 WEB frame at `00:23:56.000` separately announces that the **twentieth** tournament was suspended. This corrects the current retrieval label above while preserving the historical episode entries and the open institutional-future question. See the [E24 handoff audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E24_GEMINI_AV_HANDOFF_AUDIT.md).
 
 ## P2 institutional synthesis
 
