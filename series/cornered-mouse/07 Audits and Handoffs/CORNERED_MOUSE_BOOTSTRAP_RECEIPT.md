@@ -5,13 +5,13 @@ artifact_type: bootstrap_audit_receipt
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.1"
+version: "0.2"
 status: active_provisional
 scope: "Historical reconnaissance, exact authored manifest and owner-review handoff"
 source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
 canonical_home: series/cornered-mouse/07 Audits and Handoffs/CORNERED_MOUSE_BOOTSTRAP_RECEIPT.md
 created: "2026-10-24"
-review_status: OWNER_BOOTSTRAP_AUDIT_PENDING
+review_status: OWNER_BOOTSTRAP_ARCHITECTURE_APPROVED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -90,3 +90,13 @@ Before every push, fetch current main and source heads, preserve intervening wor
 Decisions requiring the owner: accept/amend the provisional architecture; accept revised AIO2020 as the mainline basis or defer for original-form comparison; decide the required later-supplement boundary given the missing Reboot-only short; then authorize a specific source unit or bounded run after admission checks. Acquisition of optional comparison witnesses is not automatically required. Structural validation cannot substitute for those decisions.
 
 Next permitted operation: **OWNER_BOOTSTRAP_AUDIT**. Required source work before a first reading: verify exact component ranges/legibility, settle witness choice and quarantine, establish source/admission lock and an entering knowledge boundary, record owner authorization and consistent continuation fields. No sequential reading, psychological profile, behavioral rule, fabricated forecast or completed-series interpretation occurred during this bootstrap.
+
+## Owner architecture approval and merge preparation — 2026-10-24
+
+The owner explicitly stated: "I approve this bootstrap's architecture - it may be moved out of draft and prepared for merge." This approves the bootstrap design and releases the draft hold for merge preparation. It does not choose a mainline edition, settle the supplemental boundary, admit a narrative unit, open the sequential lock or authorize this author to merge directly.
+
+The approved published basis was `362416e20a94362c55bd8ef6651dbe68bc1e256d`, with successful exact-head Repository integration audit. Current main `7a78b2072ed6a322d3c90cf0cedf511685d3e1e8` was incorporated through ordinary reconciliation commit `b3c52e24971ec3d93f1498b866d1490963d2d9d9`. The merge preserved the complete approved project tree `00b94931238d6a839e10d358a0448036894a9558`; its inherited changes were not new series-authored governance or character changes.
+
+Version 0.2 records architecture approval across the ten Markdown artifacts. The synthesis architecture becomes canonical; the other instruments retain active_provisional status because no source analysis or admission is established. The routing descriptor requests PRESENT_REVIEWED materialization for the owner-reviewed bootstrap; this is not source-completeness or reconstruction readiness. The method explicitly names its existing STILL_IMAGE lane with source-checked TEXT support under the newly accepted medium-routing policy; the evidence obligations and four-ledger design are unchanged. Housekeeping remains the only writer of generated routing outputs.
+
+The current entrypoint now routes to OWNER_SOURCE_SCOPE_DECISION. SEQUENTIAL_ANALYSIS_LOCK remains CLOSED; source admission remains NOT_ADMITTED; all narrative counters and ledger record sets remain zero. Original bootstrap observations, source hashes, component candidates, limitations and the historical pending-review account above are retained. No additional source retrieval or inspection occurred during approval recording. Merge preparation requires current-main reconciliation, author preflight, exact-scope review, ordinary publication and a fresh exact-head audit before the PR is released from draft; Git/GitHub records and the PR receipt own the resulting publication identity.

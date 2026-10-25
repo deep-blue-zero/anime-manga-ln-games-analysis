@@ -5,13 +5,13 @@ artifact_type: synthesis_architecture
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.1"
-status: active_provisional
+version: "0.2"
+status: canonical
 scope: "Responsibility ownership, synthesis dependencies, amendment and completion gates"
 source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
 canonical_home: series/cornered-mouse/00 Frameworks and Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md
 created: "2026-10-24"
-review_status: OWNER_BOOTSTRAP_AUDIT_PENDING
+review_status: OWNER_BOOTSTRAP_ARCHITECTURE_APPROVED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -22,7 +22,7 @@ architecture_lifecycle: INITIAL
 
 # Synthesis and corpus architecture
 
-Architecture lifecycle: **INITIAL**, generation `CORNERED_MOUSE_BOOTSTRAP_V1`, owner review pending. There is no predecessor architecture or substantive analysis. This current-eligible provisional contract pairs with the [method](CORNERED_MOUSE_ANALYTICAL_METHOD.md); the [source map](CORNERED_MOUSE_SOURCE_AND_SCOPE_MAP.md) owns exact sources and boundaries, and the [reconstruction protocol](CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md) owns operational rule validation. The single first-read surface is [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md).
+Architecture lifecycle: **INITIAL**, generation `CORNERED_MOUSE_BOOTSTRAP_V1`, owner-approved on 2026-10-24 for bootstrap integration. There is no predecessor architecture or substantive analysis. This current-eligible architectural contract pairs with the [method](CORNERED_MOUSE_ANALYTICAL_METHOD.md); the [source map](CORNERED_MOUSE_SOURCE_AND_SCOPE_MAP.md) owns exact sources and boundaries, and the [reconstruction protocol](CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md) owns operational rule validation. The single first-read surface is [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md).
 
 The [initiation policy](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [archive policy](../../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), [continuation policy](../../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) and [handoff contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md) remain governing. Architecture describes how evidence becomes arguments; it does not authorize narrative access or integration.
 
@@ -143,4 +143,4 @@ The current map, source map and cumulative ledgers remain mutable by targeted ed
 
 This compact project uses the simplest adequate staged arrangement; it does not inherit long-series infrastructure merely for similarity. Reuse the live reasoning/capability policies rather than hard-code model names or infer unobserved settings. Future sessions verify transport, processing, actual Japanese image inspection and durable persistence independently. One mutable owner per file; compare base/returned/current versions before accepting transferred work. Handoffs include full artifacts, hashes, source/knowledge boundaries, permitted paths, unresolved required/optional evidence and next owner; the receiver separately checks integrity, drift and semantics.
 
-Apply handoff section 15's named-subject/reference check to introduction, a substantive middle section and exit/synthesis, extending across each major relationship when relevant. Preserve source-required anonymity and knowledge limits. Structural validation is necessary for publication and supplies no literary or owner approval. The bootstrap remains CLOSED pending owner audit; a draft PR or `nightly-hold` prevents unattended integration until owner release.
+Apply handoff section 15's named-subject/reference check to introduction, a substantive middle section and exit/synthesis, extending across each major relationship when relevant. Preserve source-required anonymity and knowledge limits. Structural validation is necessary for publication and supplies no literary or owner approval. The owner approved the architecture and released the draft hold for merge preparation on 2026-10-24. The sequential lock remains CLOSED pending witness selection and separate source-admission authorization. Version 0.2 records that approval without changing the four-ledger responsibilities, dependencies or completion gates.

@@ -5,13 +5,13 @@ artifact_type: corpus_map
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.1"
+version: "0.2"
 status: active_provisional
 scope: "Single current entrypoint, source boundaries and next permitted operation"
 source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
 canonical_home: series/cornered-mouse/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-24"
-review_status: OWNER_BOOTSTRAP_AUDIT_PENDING
+review_status: OWNER_BOOTSTRAP_ARCHITECTURE_APPROVED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -23,7 +23,7 @@ project_initialization:
   governing_method: "00 Frameworks and Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md"
   synthesis_architecture: "00 Frameworks and Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md"
   method_status: active_provisional
-  architecture_status: active_provisional
+  architecture_status: canonical
   source_reconnaissance_complete: true
   source_reconnaissance_scope: BIBLIOGRAPHY_DRIVE_PROVENANCE_CONTAINER_CONTENTS_AND_COLOPHON_ONLY
   source_reconciliation_complete: false
@@ -35,10 +35,11 @@ project_initialization:
     - "03 Longitudinal Ledgers/CORNERED_MOUSE_INFORMATION_LEVERAGE_AND_DECISION_LEDGER.md"
     - "03 Longitudinal Ledgers/CORNERED_MOUSE_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md"
   substantive_sequential_findings_at_bootstrap: false
-  owner_review: PENDING
+  owner_review: ARCHITECTURE_APPROVED
+  owner_architecture_approval_date: "2026-10-24"
   sequential_analysis_lock: CLOSED
-  lock_reason: AWAITING_OWNER_BOOTSTRAP_AUDIT_AND_SOURCE_ADMISSION
-  next_permitted_operation: OWNER_BOOTSTRAP_AUDIT
+  lock_reason: AWAITING_WITNESS_SELECTION_AND_SOURCE_ADMISSION
+  next_permitted_operation: OWNER_SOURCE_SCOPE_DECISION
 analytical_execution:
   authorization: BOOTSTRAP_ONLY
   sequential_units_admitted: 0
@@ -56,7 +57,7 @@ supplemental_execution:
 
 One connected manga project by **Setona Mizushiro / 水城せとな**: *The Cornered Mouse Dreams of Cheese* / 窮鼠はチーズの夢を見る, followed by *The Carp on the Chopping Block Jumps Twice* / 俎上の鯉は二度跳ねる. Aliases include Kyuuso/Kyuso wa Cheese no Yume o Miru and Sojou/Sojo no Koi wa Nido Haneru; the author also uses 俎上の鯉は２度跳ねる. Stable slug: `cornered-mouse`; canonical root: `series/cornered-mouse/`. The sequel has no separate analytical root.
 
-**Next permitted operation: OWNER_BOOTSTRAP_AUDIT. SEQUENTIAL_ANALYSIS_LOCK = CLOSED.** This is a current-eligible provisional foundation awaiting owner review. Neither file existence nor a passing repository check authorizes reading.
+**Next permitted operation: OWNER_SOURCE_SCOPE_DECISION. SEQUENTIAL_ANALYSIS_LOCK = CLOSED.** The owner approved this bootstrap architecture on 2026-10-24 and authorized release from draft for merge preparation. This approval establishes the architectural foundation; witness selection, supplemental scope and narrative admission remain pending.
 
 ## Source and authority boundary
 
@@ -84,12 +85,12 @@ The 2020 film, drama CDs and other adaptations are outside scope. Creator/editor
 5. Cumulative homes: [character development/readiness](03%20Longitudinal%20Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md), [relationship/commitment/boundaries](03%20Longitudinal%20Ledgers/CORNERED_MOUSE_RELATIONSHIP_COMMITMENT_AND_BOUNDARY_LEDGER.md), [information/leverage/decisions](03%20Longitudinal%20Ledgers/CORNERED_MOUSE_INFORMATION_LEVERAGE_AND_DECISION_LEDGER.md), [claims/predictions/revisions](03%20Longitudinal%20Ledgers/CORNERED_MOUSE_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md).
 6. The [bootstrap receipt](07%20Audits%20and%20Handoffs/CORNERED_MOUSE_BOOTSTRAP_RECEIPT.md) holds historical base, reconnaissance, authored manifest, review evidence and publication verification route.
 
-These files are the provisional working contract, not owner-approved analysis. Git main owns integrated analytical authority. The [routing descriptor](.repository/series-registry.json) requests the governed root; housekeeping owns global routing, while character discovery and reconstruction evaluation retain their separate global ownership.
+The owner-approved architecture governs this foundation. The source map, method, protocol and empty ledgers remain current-eligible provisional instruments; no narrative analysis is approved or present. Git main owns integrated analytical authority. The [routing descriptor](.repository/series-registry.json) requests the governed root; housekeeping owns global routing, while character discovery and reconstruction evaluation retain their separate global ownership.
 
-## Owner review and admission prerequisites
+## Source selection and admission prerequisites
 
-Review the proposed architecture and choose the mainline witness: accept the available revised AIO2020 basis with explicit limits, or defer selection until an original-form Japanese pair can be reconciled. Determine the intended supplemental scope, especially the unavailable Reboot-only two-part short. Authorize a specific first unit or bounded run only after page/component boundaries, visual legibility, source lock and entering knowledge boundary are verified. No such authorization exists now.
+Architecture review is accepted. Choose the mainline witness: accept the available revised AIO2020 basis with explicit limits, or defer selection until an original-form Japanese pair can be reconciled. Determine the intended supplemental scope, especially the unavailable Reboot-only two-part short. Authorize a specific first unit or bounded run only after page/component boundaries, visual legibility, source lock and entering knowledge boundary are verified. No such authorization exists now.
 
-Bootstrap review does not itself integrate the branch or open admission. Keep the approved draft/hold procedure until the owner releases it. For a future reading, the owner-approved method/architecture, source admission and OPEN lock must agree with a recoverable continuation mode, authorized start, terminal boundary and candidate operation. Default one-unit execution applies when the later instruction is ambiguous.
+The owner released the bootstrap draft hold for merge preparation on 2026-10-24. Repository integration follows the approved merge workflow; this source branch does not itself establish integration into main. Architecture approval and PR release do not open source admission. For a future reading, the owner-approved method/architecture, source admission and OPEN lock must agree with a recoverable continuation mode, authorized start, terminal boundary and candidate operation. Default one-unit execution applies when the later instruction is ambiguous.
 
 Current verification is sufficient for initial architecture design; it does not establish complete source reconciliation. Remaining gaps: narrative page legibility/completeness, exact component ends and substructure, edition/translation comparisons, missing Black Cat source, and any unlisted supplements. No completed-run or terminal-closure record is appropriate at bootstrap.

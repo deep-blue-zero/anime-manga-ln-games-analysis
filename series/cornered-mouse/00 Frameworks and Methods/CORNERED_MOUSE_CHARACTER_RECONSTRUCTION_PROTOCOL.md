@@ -5,13 +5,13 @@ artifact_type: character_reconstruction_protocol
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.1"
+version: "0.2"
 status: active_provisional
 scope: "Future source-bounded behavioral rules, portability and separate validation"
 source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
 canonical_home: series/cornered-mouse/00 Frameworks and Methods/CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md
 created: "2026-10-24"
-review_status: OWNER_BOOTSTRAP_AUDIT_PENDING
+review_status: OWNER_BOOTSTRAP_ARCHITECTURE_APPROVED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

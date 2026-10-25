@@ -5,13 +5,13 @@ artifact_type: analytical_method
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.1"
+version: "0.2"
 status: active_provisional
 scope: "Prospective Japanese manga inspection, evidence discipline and atomic closeout"
 source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
 canonical_home: series/cornered-mouse/00 Frameworks and Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md
 created: "2026-10-24"
-review_status: OWNER_BOOTSTRAP_AUDIT_PENDING
+review_status: OWNER_BOOTSTRAP_ARCHITECTURE_APPROVED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -22,6 +22,8 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 # Analytical method
 
 This method governs **what to inspect and how to reason**. The [source map](CORNERED_MOUSE_SOURCE_AND_SCOPE_MAP.md) owns witnesses and ordering; the [architecture](CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) owns cumulative destinations and synthesis gates. It is provisional, with no narrative findings. Higher-level [initiation](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation](../../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) and [handoff](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md) contracts govern.
+
+The planned manga inspection lane is `STILL_IMAGE`, with `TEXT` only for source-checked lettering/transcripts and translation comparison under the [inspection-lane policy](../../../governance/source-policies/MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md). Japanese remains the primary language. The bootstrap capability probe covered only contents/colophon images; a future authorized reading must verify narrative image legibility. No audio or continuous-AV lane is admitted. This names the existing page-based evidence route without adding an inspection stage or evidence obligation.
 
 ## Unit, access and locators
 
