@@ -1936,3 +1936,10 @@ Doreck81,Gaibil82 and recurring Bridol head butler84 earn individual twelve-dime
 Six entering rows89/90/92/133/145/146receive proportional treatment:four monographs,one two-rule provisional scientist model and two existing-row compact profiles. Four additional new compact records,eight sparse/access records and two unfinished substantive criminal-trio routes append. Candidate totals63models/57scoped secondary model subjects/106compact/32monograph-only/397nonfinal records are not a population denominator. Names and individual routes remain source-bound.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Two substantial monographs treat the criminal chief and unresolved subordinate route; seven compact profiles and fifteen sparse/report/group/dream routes append. Qualified specific Kazuma-failure bridge links Lolisa17/132provisionally; Luna disguise is strongly contextual. Current totals63model artifacts/57source-scoped secondary entries/113compact/34monograph-only routes/419nonfinal census records are not unique people. No new model, rule, input or first body.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.

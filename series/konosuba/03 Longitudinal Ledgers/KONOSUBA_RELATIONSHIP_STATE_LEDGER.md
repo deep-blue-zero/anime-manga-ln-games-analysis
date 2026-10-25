@@ -1603,3 +1603,10 @@ Doreck/Gaibil private agreement and care are not Rionor consent. Public proxy,re
 Scientist officials,king,reported female colleague and modification volunteers have unequal agency/access;every colleague occurrence is not automatically one woman. Memory-loss statement is not a watched disclosure/consent procedure. Plant protectors differ:Leen,Taylor,Yunyun,guards,Kazuma andwoodcutter retain own knowledge/actions. Dust removes Yunyun by force;plant bargaining reliance is not an agreed killing. MAIN15guest repair is not approval of humiliation.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Selective no-touch/gentleness declarations coexist with abduction; actual protection does not supply Leen consent. Dust coerces chief/subordinate and forcibly recruits worker despite later help. Apparent proprietor, individual worker, other staff, Sena and contextual Luna have different agency. Lolisa17/132provisional identity join keeps both frozen source-scoped histories and does not create two independent people or pool rule support.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.

@@ -2066,3 +2066,10 @@ Private willing contract qualifies public brainwashing account. Leen wedding bri
 Guild living-hijacker account differs from discovered skeleton and read journal. MAIN05positive scientist recognition is stronger than Dust02similarity. Two plant visits are one local episode;repeated first-human claim is directly contradicted by second use. Kazuma unoffered provisioning is not failed rehabilitation. Dust premature orb-destruction hypothesis is superseded by a functioning miniature machine. Source-known diagnostic B2residual-two-hours issue remains unchanged.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Specific failed-Kazuma-client/priest-fear conjunction supports qualified Lolisa join, with unshown different failure retained as rival. Chief own lake advocacy drives adventurers away; final apology is collective. Temporary warrior first-person section has an unmarked dream onset, so no independent physical Leen assault/drugging is inferred. Week begins today inDUST01U015550, only two days pass576; later complete two-week custody report is later knowledge.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.

@@ -1986,3 +1986,20 @@ Owner merged PR316atdb1e0652196adae10a01a1d1899d0782011e52f6,withthe exact01a822
 ## Cohort41 final baseline after owner foreign-series integration — 2026-10-24T23:08:05.276143+00:00
 
 Final publication parent38cb5cbd contains ownerPR318four Shuukura paths,retained byte-exact. All KonoSuba/control/model/rule/original streams remained exact through retained checkpointeebbf78e andordinary fast-forward. The earlier db1e0652ownerPR316integration now independently passes full479audit40140324280andtrusted status. That result does not transfer to this candidate. Five current publication-metadata paths are updated;10068repository files/1506project files require fresh author preflight andtheir own source audit. New author PR,remote readback andauthority reload remain due. Full program continues.
+
+
+## Cohort41 exact-source author gate closed — 2026-10-24T23:22:39.124076+00:00
+
+Cohort41 source `86aa4073afc6e1f6431f5e9a485c4c7e4f67bc8a` /tree `f5f886c9af74a7b02a25073f832f69dc5ea0ff4e` closes the author tranche. Audit40141674799:479/479tests,allfive non-success categories zero;trusted reporter/status,10068remote bindings/40changed streams and1506file reload verified. Totals63models/57scoped/106compact/32monograph-only/397nonfinal records. Twenty status rows change;377others and19historical plane differences exact. All13cores16private15supporting,four originals and63models unchanged. Public-account,notification,effort-only andresidual-time findings remain withgeneric rivals;no independent accuracy/grade/confidence gain. Criminal-trio mapping andfull remaining program stay open. PriorPR316owner integration separately verified;PR320new-tranche protected integration/release are separately owned.
+
+[Gate receipt](KONOSUBA_COHORT41_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort42 semantic receiving — 2026-10-25T00:36:03.269045+00:00
+
+Six frozen public cores,two monographs,seven compact profiles,15T0routesand22newrecords support419nonfinal records. Seven entering rows change,390others/19historical differences retained. Existing63models/rules/firsts/scores/notes/nulls unchanged;new model/rule/input/first count0. Actual3461P3426ruby50prepared displays10members5Dustobjects,six fullparagraph projections/four bounded;separate259oldMAIN02/MASKPreturn,zeroimages/residual/whole-edition/independent credit. Full16page foundations plus2precision pages received before freeze. Qualified identity joins andunresolved local mapping remain. Owner main7a78b207/full479audit40145592318verified;incomingPR321threeglobal streams and417row/40namespace scope carried,old415/397history retained. NineC41closing paths included. Exact candidate preflight/publication/full remote readback/fullactual-source audit/latest trusted status/freshauthority reload still due;full program continues.
+
+
+## Cohort42 owner PR322 authority reconciliation — 2026-10-25T00:49:56.532446+00:00
+
+Owner mainc2e8af7cincludesPR322nineShuukurastreams/two new paths,all retained exactly. Current10074path/full479audit40146686536verified;it does not certify the new candidate. Original31KonoSuba staged scope andsix frozen cores retained;only six authority/navigation metadata streams change,all419canonical/private row bodies unchanged. WORK121remains immutable;WORK122owns new authority metadata. Global108bindings/12controls/40namespaces/417entries remain atPR321baseline7a78b207. Finalcandidate expects10083paths;no new analysis/model/rule/input/first/foreign-reading orindependent credit. Exactauthorpreflight,ordinarypublication/fullsource gates andfullprogram continue.

@@ -1,0 +1,340 @@
+{
+  "schema": "konosuba.cohort42.receiving-and-provenance.v1",
+  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "received_utc": "2026-10-25T00:36:03.269045+00:00",
+  "semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+  "foundation_seal_sha256": "82476a0131adec157938514a89ee98a993d27b453c9b0c8f5123845ef2643f8c",
+  "source_baseline_at_semantic_review": "45bd1d0f1e08482d8d8bf3efefe51d51ef11b417",
+  "current_publication_baseline": "c2e8af7cd40b2c49bba015396c9aee58f9018649",
+  "baseline_reconciliation": {
+    "owner_plan_sha256": "eacec15bd5e976d9255792ec03c23338e68974650088f1f5b045fff595874936",
+    "fastforward_verification_sha256": "e27eb093a0557a39af06a4a85f6b8501d654e8bfeb4273194a075c76f70b1c03",
+    "analysis_tree_identical": true,
+    "owner_three_global_paths_carried": true,
+    "current_global_registry_rows": 417,
+    "current_global_namespace_partitions": 40,
+    "historical415_and397_scopes_preserved": true,
+    "analysis_authored_global_curation": false
+  },
+  "reviewed_artifact_pins": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_CRIMINAL_CHIEF_CHARACTER_MONOGRAPH.md",
+      "bytes": 13197,
+      "sha256": "bf27964d198353dc9b4dc246800cf5c3f3a654185a6c2e46412a40ee52e4ec4d"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_CRIMINAL_SUBORDINATES_CHARACTER_MONOGRAPH.md",
+      "bytes": 11985,
+      "sha256": "0a4339555d5aaa500f3f345806ba29585e8e404f84ff9799508d30b25a69e489"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_COMPACT_PROFILES.md",
+      "bytes": 11624,
+      "sha256": "5e1da504c07279ac7f71085bb2fa2a8064bd92178966e10073a9b12ac5173153"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_EARLY_IDENTITY_COHORT42_SUPPLEMENT.md",
+      "bytes": 11952,
+      "sha256": "c6fa740174b5220f123567a410bd47204f31147288080bb4ce61f149e7b8b951"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+      "bytes": 12540,
+      "sha256": "51da2188ec393ca5733921f02420d751ad62be2abf7c32f6ebe1793d9487b31e"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+      "bytes": 9439,
+      "sha256": "3c93e18c373fb107a5fdd3dcb10c5f51317a39ee8fd98c8b42f6fa62b320066f"
+    }
+  ],
+  "candidate_totals": {
+    "model_artifacts": 63,
+    "source_scoped_secondary_model_entries": 57,
+    "compact_profiles": 113,
+    "monograph_only_routes": 34,
+    "nonfinal_census_records": 419,
+    "new_models": 0,
+    "new_rules": 0,
+    "new_inputs": 0,
+    "new_first_bodies": 0
+  },
+  "source_access_qualification": "3461current unique P/3426ruby/10members/5DustEPUBs/50prepared pages;6fullparagraph projections4bounded;zeroimages,residuals,whole-edition. Separate259already received MAIN02/MASK Preturn in2members2objects;zeroextra core or global primary credit.",
+  "scope": [
+    {
+      "row": 395,
+      "character": "Criminal chief in Dust01–03",
+      "tier": 2,
+      "responsibility": "Substantial twelve-dimension individual monograph",
+      "why": "Direct individual aims, selective constraints, coercive work, resistance, vulnerability, errors and actual protection across changing situations.",
+      "model_deferred_because": "Criminal self-interest, category attachment, reward, fear and comic selection are serious covarying rivals; earlier masked-act attribution is incomplete. No character-specific predictive threshold earned.",
+      "not_a_permanent_ceiling": true
+    },
+    {
+      "row": 396,
+      "character": "Criminal subordinate pair / local-turn route (Dust01–03)",
+      "tier": 2,
+      "responsibility": "Substantial asymmetric monograph retaining unresolved individual mappings",
+      "why": "Different stated preferences and recipients, local information, imposed costs, carrying and shielding must not be reduced to a stereotype.",
+      "model_deferred_because": "Individual ownership of warning-reader, stripped man, ponytail preference and distant turns cannot all be joined. No composite man or two invented biographies.",
+      "not_a_permanent_ceiling": true
+    },
+    {
+      "new_Tier1_rows": [
+        397,
+        400,
+        403,
+        405,
+        406,
+        414,
+        415
+      ],
+      "tier": 1,
+      "responsibility": "Seven bounded profiles; mountain couple explicitly paired; source-local roles can overlap existing people",
+      "why": "Actual request/outcome, management choice, infiltration/frame, craft, contract choice, institutional boundary or hospitality deserve proportional agency.",
+      "model_deferred_because": "Person-wide conditional generators or sufficiently tagged cross-context branches not presently earned; no appearance/word/anonymity/gender/species quota.",
+      "not_a_permanent_ceiling": true
+    },
+    {
+      "new_Tier0_rows": [
+        398,
+        399,
+        401,
+        402,
+        404,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        416,
+        417,
+        418
+      ],
+      "tier": 0,
+      "responsibility": "Fifteen attributed reported/group/dream/access routes",
+      "why": "Preserve discovery and knowledge-plane responsibility without invented names, voices, stable biographies or unique-person counts.",
+      "not_a_permanent_ceiling": true
+    }
+  ],
+  "identity_decisions": [
+    {
+      "rows": [
+        17,
+        132
+      ],
+      "status": "QUALIFIED_SPECIFIC_EVENT_JOIN",
+      "basis": "Dust named Kazuma failure/acknowledgment and priest fear; MAIN02 actual failed mansion service; MASK same-priest barrier/near-erasure account.",
+      "rival": "Different unshown failed Kazuma service remains possible; Dust does not explicitly say barrier here.",
+      "current_effect": "Provisional alias route connection; preserve both historical rows and all frozen model support scopes. No new person or independent support."
+    },
+    {
+      "row": 11,
+      "status": "STRONG_CONTEXTUAL_LUNA_DISGUISE_ATTRIBUTION",
+      "basis": "Interrupted ル, guild-specific information, familiar voice/personal knowledge and Sena/Kazuma-party relationship in continuous exchange.",
+      "limit": "No explicit full self-name or actual police-employment finding; no transfer of all untagged officer acts."
+    },
+    {
+      "rows": [
+        65,
+        400
+      ],
+      "status": "UNRESOLVED_INDIVIDUAL_LEADER_PROPRIETOR_JOIN",
+      "basis": "Shared shop leadership role alone insufficient; same-building/network overlap is not enough to allocate all acts."
+    },
+    {
+      "rows": [
+        395,
+        396,
+        409
+      ],
+      "status": "POSITIVE_GROUP_CONTINUITY_INDIVIDUAL_MASKED_ACTS_UNRESOLVED",
+      "basis": "Dust U017P233-238 recognizes duo as earlier Darkness kidnappers; no unique masked weapon/turn mapping."
+    },
+    {
+      "rows": [
+        403,
+        396,
+        405
+      ],
+      "status": "INDEPENDENT_ROUTE_MAPPING_OPEN",
+      "basis": "Do not identify DUST02 third man with infiltrator/confection-maker or map every road voice to dungeon subordinates."
+    }
+  ],
+  "review": {
+    "complete_foundation_pages": 16,
+    "precision_correction_pages": 2,
+    "complete_receiving_before_freeze": true,
+    "qualification": "Chief collective apology and own failed persuasion, MAIN02reported exit, Dust reported Luna sanction, narrowed staff route and exact comparative byte pins received before freeze. Prior drafts/partial wording retained;old model/rule/first histories unchanged."
+  },
+  "census_comparison": {
+    "changed_entering_rows": [
+      11,
+      17,
+      80,
+      88,
+      132,
+      395,
+      396
+    ],
+    "untouched_entering_rows": 390,
+    "new_rows": [
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418
+    ],
+    "nonfinal_records": 419,
+    "canonical_layout": "Manifest/six stable parts80/80/80/80/80/19;separate privateWORK121inline plane",
+    "canonical_private_historical_differences_retained": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "historical_storage_snapshot_unchanged": true,
+    "no_unique_person_denominator": true
+  },
+  "frozen_history": {
+    "existing_models": 63,
+    "all_model_rule_original_score_note_blank_null_histories_exact": true,
+    "private_foundation_seal_sha256": "82476a0131adec157938514a89ee98a993d27b453c9b0c8f5123845ef2643f8c",
+    "new_models": 0,
+    "new_rules": 0,
+    "new_inputs": 0,
+    "new_firsts": 0,
+    "independent_trials": 0
+  },
+  "prior_publication_authority": {
+    "C41_author_source": "86aa4073afc6e1f6431f5e9a485c4c7e4f67bc8a",
+    "C41_author_audit": 40141674799,
+    "PR320_integration": "62c26cdbab9012d55a38cd3c99531017d40cc99c",
+    "owner_PR321_current_main": "7a78b2072ed6a322d3c90cf0cedf511685d3e1e8",
+    "current_main_full_suite_audit": 40145592318,
+    "current_main_audit_verification_sha256": "b87fae928c9e5f8c70e5c736145b62c9a6b6144479235b96fd161a956f3490fb",
+    "paths": 10072,
+    "tests": 479,
+    "current_candidate_certified_by_prior_audit": false
+  },
+  "publication_pending": [
+    "exact-index author preflight",
+    "authorized source publication",
+    "whole-tree and every changed-stream remote byte readback",
+    "full actual-source audit and latest trusted status",
+    "fresh published authority reload"
+  ],
+  "source_absolute_paths_in_public": 0,
+  "full_program_complete": false,
+  "publication_baseline_before_owner_PR322": "7a78b2072ed6a322d3c90cf0cedf511685d3e1e8",
+  "latest_authority_reconciliation": {
+    "current_main": "c2e8af7cd40b2c49bba015396c9aee58f9018649",
+    "publication_parent": "c2e8af7cd40b2c49bba015396c9aee58f9018649",
+    "previous_candidate_parent": "7a78b2072ed6a322d3c90cf0cedf511685d3e1e8",
+    "remote_published_series": "45bd1d0f1e08482d8d8bf3efefe51d51ef11b417",
+    "owner_PR322_integrated": true,
+    "foreign_owner_paths": [
+      {
+        "path": "series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md",
+        "bytes": 454133,
+        "sha256": "6eacfa0766cfabb64862c74069958e295c7cc776c97672f04d81665dd2954cd4",
+        "new_path": false
+      },
+      {
+        "path": "series/shuukura/02 Sequential Readings/SHUUKURA_V2_LN_V10_DEEP_READING.md",
+        "bytes": 189369,
+        "sha256": "b580dd237400fe8b54f141a1e8575cb38d8090e1c3e156fa00d335816b714874",
+        "new_path": true
+      },
+      {
+        "path": "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_CHARACTER_STATE_AND_READINESS_LEDGER.md",
+        "bytes": 755305,
+        "sha256": "f3d586f5677283b611fafa34a23a92ccb9eb17074ba2f364fb2aa6f50f18aff4",
+        "new_path": false
+      },
+      {
+        "path": "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md",
+        "bytes": 1009392,
+        "sha256": "6f304ba53f801dff5857ee552d846010dcd6a73091de48e90553675eca75c0e9",
+        "new_path": false
+      },
+      {
+        "path": "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_01.md",
+        "bytes": 628980,
+        "sha256": "521494f774a5a30c7a472d5ec34fde3bc332861c49f7bdd65ea351942312bb62",
+        "new_path": false
+      },
+      {
+        "path": "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_RELATIONSHIP_RULE_AND_BOUNDARY_LEDGER.md",
+        "bytes": 790128,
+        "sha256": "7db6abdd1fa7cf1613a4a138a682a8dc745ecfdb20bacea0f3dcc72abb0e6d66",
+        "new_path": false
+      },
+      {
+        "path": "series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_LN_V10_TRANSACTION_AUDIT.md",
+        "bytes": 14562,
+        "sha256": "4b13a009d39d104e80cf9903bf8aa58d57be1fbfea630cded1bd24a18d0149be",
+        "new_path": true
+      },
+      {
+        "path": "series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md",
+        "bytes": 438425,
+        "sha256": "c85221d974db13a76c5882fb9f9f549025f33c0ec6550a640d5a7136f9050a92",
+        "new_path": false
+      },
+      {
+        "path": "series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md",
+        "bytes": 34207,
+        "sha256": "5e2a962724c788a110d151d684adca33a6f554958b64f480ea9c63864320ac62",
+        "new_path": false
+      }
+    ],
+    "foreign_fastforward_verification_sha256": "d42ad3dfcf7f3628c65c506a03886f93cdf399d606660e9ef8c3a42fff4b773b",
+    "all31_previously_reviewed_KonoSuba_paths_preserved": true,
+    "all108_owner_bindings_and12controls_unchanged": true,
+    "global_registry_binding_source": "7a78b2072ed6a322d3c90cf0cedf511685d3e1e8",
+    "global_registry_rows": 417,
+    "global_namespace_partitions": 40,
+    "full_current_main_audit": 40146686536,
+    "current_main_audit_verification_sha256": "0476daa154f83b82862b8ed503f80835196ae6279e391620e3c3ba6d7330b86f",
+    "current_main_audit_paths": 10074,
+    "all479_discovered_tests_pass": true,
+    "prior_audits_not_transferred_to_new_candidate": true,
+    "no_new_foreign_primary_reading_or_model_credit": true
+  },
+  "current_publication_authority_precedence": "Latestauthority_reconciliation/current_publication_baseline govern actual commit parent. Priorpublicationauthority/baseline_reconciliation retain datedPR321preparation;all prior model/native/source scopes exact. No previous audit certifies new candidate."
+}

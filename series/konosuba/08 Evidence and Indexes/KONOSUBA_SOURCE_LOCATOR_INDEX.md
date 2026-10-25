@@ -2055,3 +2055,10 @@ C40actual2826selectedP/1219inline ruby,11members3knownEPUBs58complete native dis
 C41receives2130unique current P/1954ruby in44displays across10members8localEPUBs,four complete P projections/six bounded;zero new images,residuals or whole-edition reading. Main02scientistU01870-105/440-600;Main05labU027240-360andplantU014310-523;Dust03U011complete813;Dust02U015555/U01668;Main15bonusU02157;boundedDust05/06/Yori03references retain exact scopes in provenance.41-source literal retrieval485leads is technical,not absence or identity proof.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+CoreC42reading3461unique currentP/3426ruby/10members/5DustEPUBs/50prepared pages: six fullparagraph projections andfour bounded,zeroimages/nonparagraph/whole-edition. DUST01U013411/U014575/U015583/U017801/U01879full;DUST02U01668full,U015295-555bounded;DUST03U011580-750;DUST05U011270-470/860-915/1310-1344;DUST06U011280-405/940-1033. Separate259previously receivedMAIN02/MASKPreturned; no extra core/globalreading.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.

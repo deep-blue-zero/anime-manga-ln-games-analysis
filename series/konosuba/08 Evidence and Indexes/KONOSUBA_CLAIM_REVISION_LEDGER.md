@@ -491,3 +491,10 @@ CR-C40-IDENTITY01 CORRECT:real Doreck versus Gaibil groom;Rionor visitor versus 
 C41retains earlier histories while current source receiving qualifies unnamed routes. Row133joins MAIN02/05byexplicit recognition;Dust02inventor andMoguninnin master remain unresolved. Lake versus earlier roadside plant positively distinguished;no plant-species merge. Initial row142tentative route withdrawn as unrelated existing priest. Corrected coverage link andpre-disposition timing qualification31precede model/input freeze. No old score,null,original body,model or uncoded source observation is rewritten;later diagnostic ambiguities remain external findings.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+C42qualified Lolisa17/132specific-client failure bridge and contextual Luna-disguise judgment supersede earlier unresolved routing phrases only through current supplement/census fields; all old model support/first bodies remain exact. Chief masked-group continuity positive but weapon/turn mapping unresolved. Precision correction makes lake apology collective, chief persuasion failure his own, MAIN02escape reported, andstaff group narrower. Original drafts/partial expired-calendar wording retained with governing corrections; no uncoded-note repair.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.

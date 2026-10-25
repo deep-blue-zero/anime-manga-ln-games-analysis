@@ -1483,3 +1483,10 @@ Doreck own marriage preference, jealous reward and changed request coexist with 
 Scientist games,toys,bonus preference,alcohol and clothesline repurposing distinguish actual interests from universal inability to work. Dust02writer selectively protects games/reading and plans a break without an observed completed holiday. Roadside plant private appetite and proposed photosynthesis have bounded warrants;lake resource control is not a complete private biography. Dinner guest story request and conversational repair do not become a verified financial or romantic project.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Child birthday gift is actually returned; chief printed collection and money, road maker craft pride, worker cleaning/occupational aspiration, Luna unrealized spa wish, store owner lunch/stock and couple hospitality retain ordinary life. Necklace adjustment offered/refused and deferred payment are distinct. Craft does not establish paid bakery identity; barn does not establish farming; no complete private routine manufactured.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.

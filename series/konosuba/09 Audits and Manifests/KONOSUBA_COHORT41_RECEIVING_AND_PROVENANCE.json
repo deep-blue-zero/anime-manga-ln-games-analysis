@@ -1,7 +1,7 @@
 {
   "schema": "konosuba.cohort41.receiving-and-provenance.v1",
   "received_utc": "2026-10-24T22:38:34.409784+00:00",
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "source_baseline": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
   "source_tree": "320b65dc0186746388e3ad7ce03370e2a4060434",
   "current_main": "ec04a1d68b380b77b48f9816ed60c7eaa2e1d519",
@@ -1504,5 +1504,20 @@
     "earlier_candidate_preflights_historical_only": true,
     "new_tranche_PR_required": true,
     "full_program_complete": false
-  }
+  },
+  "prior_semantic_status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_resolution": {
+    "source": "86aa4073afc6e1f6431f5e9a485c4c7e4f67bc8a",
+    "tree": "f5f886c9af74a7b02a25073f832f69dc5ea0ff4e",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "d395da3c295b9f281ae5df9c4980b79e699247b7b821c1595654da01eb0d0093",
+    "source_run": 40141674799,
+    "full_discovered_tests": 479,
+    "current_models": 63,
+    "author_publication_tranche_complete": true,
+    "new_tranche_main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 320
+  },
+  "current_gate_qualification": "13public cores,16private artifacts,15supporting freezes,63models andfour original body/receipt pairs remain exact. Original-first ambiguities/timing issue,generic rivals andsource-access qualifications persist. Owner AGENTS/PR316/foreign-series reconciliations changed publication metadata only. Source/main fields captured at semantic receiving remain historical. Twenty publication-status rows change in separate planes;criminal-trio identity review remains open. New tranche protected integration,model maturity,global closure,final batteries andStageDsuccessors remain unearned."
 }

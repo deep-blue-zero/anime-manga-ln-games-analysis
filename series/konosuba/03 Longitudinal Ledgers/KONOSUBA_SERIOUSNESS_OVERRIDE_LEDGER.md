@@ -1406,3 +1406,10 @@ Killing prohibition is a contract claim,not demonstrated absence of harm. Gaibil
 Coercion of the scientist does not excuse funding concealment,destructive satisfaction or technical danger. His apparent people-escape report is not a complete casualty census. Lake guards wasting,Yunyun forced unconsciousness,plant killing and uncertain prior victim wishes remain. Roadside guide hazard and actual protective hesitation coexist;lethal stroke is not directly depicted. A shouted herbicide request at Primo property is not completed eradication.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Retain paid kidnapping plan, forced exposure/sexual coercion, feigned hostage with no-touch protest, actual battle and uncertain dream onset. No depicted exact off-page act, physical Leen assault from dream or confirmed contractor death is invented. Seven shocked men later bound do not thereby have medically proved harmless outcomes. Promised dreams, officer threats and old-couple payments/return remain unperformed in current windows.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.

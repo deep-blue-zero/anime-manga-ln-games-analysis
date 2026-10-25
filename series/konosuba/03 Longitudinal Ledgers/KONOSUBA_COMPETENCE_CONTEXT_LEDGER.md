@@ -1613,3 +1613,10 @@ Gaibil public cookie/weak-grip/pen-callus/knighthood performance is not real Dor
 MAIN02/05scientist has real reported creative work and present game artifacts alongside misread dog drawing,battery failure,non-electromagnetic railgun naming,makeshift limited-life parts and others implementation of Destroyer. Project responsibility is not every manufacturing act. Dust02orb resemblance/settings are separately attributed;first activator history,not inherent idleness,explains Dust resistance. Actual shared combat and Leen Lightning remain;lake fruit transfer does not test promised week-long durability.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Small worker actual rehearsal/performance coexists with failed cover and an aborted dream attempt; the alleged Charm is Dust lie. Chief does not know every rendezvous detail, and the warning reader is not assigned by one colloquial ending. Party carrying, shields and rope work are real shared contributions. Contracted attacker is struck by spear butt end, not a blade; bath attendant actual boundary and old couple practical shelter retain separate owners.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
