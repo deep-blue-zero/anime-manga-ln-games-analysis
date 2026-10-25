@@ -1308,3 +1308,15 @@ C45 exact-source author publication is closed. Shumel one-rule and knee-veteran 
 C46 adds Dark Stalker and Angie as two source-concentrated provisional models with two eight-field rules each. Assassin, Anna and the familiar YORI04 worker receive substantial monographs without forced generators. Candidate totals69model artifacts/63source-scoped secondary entries,177retained bounded-profile passages,56monograph-only studies and640nonfinal source/access records are not certified distinct people, mature capability or independent observations. Current post-freeze qualifications must accompany BOTH new model routes: meal price is not an itemized transaction, and U018624 Heals Kazuma rather than Angie. Every67entering model, first, score, adverse result, blank and null remains exact. Eight English originals/four dependent pairs add no final StageD credit.
 
 [Current evidence index](KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## C46 exact-source author gate closed — 2026-10-25T10:53:47.660549+00:00
+
+C46 exact-source author publication is closed. Dark Stalker and Angie retain two restricted provisional rules each;Assassin,Anna and the familiar worker have monographs without forced generators. Eight unchanged English originals/four dependent pairs keep source-cue/generic,saw-detail,private-intention,tidy-negotiation and unbound-payment limits. Three current source qualifications govern both model routes without altering47private core pins.69model artifacts/63source-scoped secondary entries/177profile passages/56monograph-only studies/640nonfinal records do not measure distinct people or independent accuracy. Technical479-test/159-entry closure remains separate from semantic maturity,designated evaluation and final StageD/nine-category obligations.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+C47 adds one restricted unvalidated Heidel model with HEI-R01/02, both eight-field rules. Keele and the transfer angel receive substantial monographs without forced generators; beloved, Winter and Jatice receive bounded profiles. Four supporting encounter profiles and fifty narrower routes complete the new source/access packet. Candidate70model artifacts/64source-scoped secondary entries,184retained bounded-profile passages,58monograph-only studies and694nonfinal records are not distinct people or mature performance. All69entering models, earlier originals, scores, adverse findings, blanks and nulls remain exact. Four new English originals/two dependent pairs have adverse voice findings and no independent generic run, grade, confidence gain or final battery credit.
+
+[Current evidence index](KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

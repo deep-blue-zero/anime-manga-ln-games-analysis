@@ -1971,3 +1971,10 @@ YORI03U020 has three explicitly temporary routes and current returns. Only Kazum
 Dark Stalker retirement, recovered arm, romance absorption, actual rivalry injuries and concrete unpaid-watch assent are changing states, not a permanently serene moral guide. Assassin separately leaves, corrects, feeds and withholds assent until the later concrete proposalYORI04U014156-555. Angie moves from senior performance and class prejudice to demonstrated mineral competence, frightened protective resolve, coerced work and a later card/name updateU018/U020. A blow sending Angie awayU018613 is actual; Aqua Heals Kazuma624. No Angie treatment or general post-blast recovery is separately narrated.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+Keele moves from remembered costly protection and long waiting to an actual request for purification and disappearance MAIN02U015315-341. His doubt328 does not vanish inside the proud retrospective romance. The woman's remains306 are present; Aqua reports peace321, without a witnessed reunion. The Winter Shogun's sheathing205 precedes changed apology cues209-211 and the strike213-219; Eris's report234 is disappearance rather than a shown defeat. Heidel repeats an earlier service encounter across MAIN06 openings, then works around Kazuma's prolonged MAIN11 stay; a copied narrative opening is not a second independent visit.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

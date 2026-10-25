@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort46.receiving-and-provenance.v1",
-  "status": "SCOPED_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "received_utc": "2026-10-25T10:26:04.006105+00:00",
   "private_complete_core_semantic_receiving_sha256": "d819a2618b54945dd8c5a111782a28080b1fffd1a6b78979e703fa190c5d3ffd",
   "private_complete_supporting_freeze_sha256": "cb8f4d207c7859074f5bce8ac1a5d9fc3094230b2e09727ad851f0a19d43c6e6",
@@ -256,14 +256,7 @@
     "owner_controls_unchanged": 12,
     "author_global_curation_or_grade_write": false
   },
-  "publication_pending": [
-    "complete candidate operation review",
-    "exact-index author preflight",
-    "ordinary publication",
-    "whole remote tree and every changed byte-stream verification",
-    "new actual-source full discovered-suite audit and latest trusted isolated status",
-    "fresh published-authority reload"
-  ],
+  "publication_pending": [],
   "private_native_caches_or_absolute_filesystem_paths_exported": false,
   "full_program_complete": false,
   "received_artifact_bindings": [
@@ -532,5 +525,30 @@
     "all47_private_core_pins_unchanged": true,
     "no_model_rule_input_first_or_diagnostic_repair": true,
     "independent_or_grade_gain": 0
-  }
+  },
+  "prior_cohort46_publication_status": {
+    "status": "SCOPED_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+    "publication_pending": [
+      "complete candidate operation review",
+      "exact-index author preflight",
+      "ordinary publication",
+      "whole remote tree and every changed byte-stream verification",
+      "new actual-source full discovered-suite audit and latest trusted isolated status",
+      "fresh published-authority reload"
+    ]
+  },
+  "publication_resolution": {
+    "source": "3c3eed797bac620a9b6c78ca50349ab88fde61f7",
+    "tree": "b019248e93699ba5c98bbd2d24348520458e2482",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_PUBLICATION_GATE_CLOSE_01.json",
+    "gate_sha256": "ec4a93d07e7258ffe96c673af3c08d9d0274a05a3116d64e6701d98af0fb239a",
+    "source_run": 40185838091,
+    "full_discovered_tests": 479,
+    "current_models": 69,
+    "author_publication_tranche_complete": true,
+    "protected_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 333
+  },
+  "current_gate_qualification": "All47private core pins,37verbatim received public objects,the declared reversible evidence-index link serialization,69models and eight genuine English originals remain exact. Four dependent source-known pairs keep saw-detail invention,private-intention projection,tidy negotiation and unbound payment wording. Three current source qualifications narrow frozen assertions without repairing responses or adding grades.77status/supplement routes update;563others and19plane differences remain exact;five supplement rows keep analytical fields. Protected integration,final battery,six StageD successors and the full program are not completed by this author gate."
 }

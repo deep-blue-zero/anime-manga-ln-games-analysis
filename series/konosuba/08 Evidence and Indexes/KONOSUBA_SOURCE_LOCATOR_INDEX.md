@@ -2090,3 +2090,10 @@ C45 actual current native union is3187P/2896ruby: YORI03 five complete paragraph
 C46 current native union is3986P/1559ruby across seven known source objects and sixteen members, eight complete at paragraph/ruby scope. YORI04 five complete fiction bodiesU012546P/U014558P/U016573P/U018682P/U020541P total2900P/595ruby and62actual review pages. Adaptive01 is729P/745ruby/17pages, adaptive02 is276P/204ruby/6pages and DUST-CONT95-175 is81P/15ruby/2pages. MAIN02/13/16/17 and YORI01 supply bounded prior-event identity/context; MAIN16U0121-28 was an initially mistaken coach lookup, and actual coach confirmation is U01334. No current image, residual, whole-edition, new global-source-first or independent credit follows. Object/CRC/OPF hashes verify correspondence, not interpretation.
 
 [Current evidence index](KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+C47 receives3160unique structural paragraphs/3010ruby in72bounded actual deliveries across24already-known EPUBs and43unique members, six complete at paragraph/ruby narrative scope. The base50pages supply2215P/2125ruby and adaptive22pages add945P/885ruby. Complete MAIN01U013, MAIN02U014/U015, MAIN06U011/U020 and MAIN11U012 are narrative members; MAIN06U020's original preparation label is explicitly corrected to fictional interlude. All41edition exact-name locator retrievals are technical inquiries, not whole-corpus absence proof. MAIN17U0111-180 is now known for the later cohort; no new holdout is invented. Zero current image, residual, whole-edition, new global-source-first or independent credit follows.
+
+[Current evidence index](KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

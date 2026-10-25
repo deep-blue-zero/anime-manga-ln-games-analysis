@@ -1,0 +1,37 @@
+{
+  "schema": "konosuba.cohort47.heidel-rule-inventory.v1",
+  "subject": "Heidel / ハイデル",
+  "status": "active_provisional",
+  "source_known_same_informed_root": true,
+  "rule_count": 2,
+  "rules": [
+    {
+      "id": "HEI-R01",
+      "status": "active_provisional",
+      "proposition": "Within familiar assigned-guest service, Heidel tends to turn an incomplete or status-conscious desire into a practical next step while avoiding prolonged embarrassment. He may ask a concise question, correct a detail discreetly, or offer a selection. This accommodates fallible anticipation rather than requiring immediate mind reading.",
+      "support": "MAIN06U01110/U013348 corrects Sebastian to Heidel without stopping service; MAIN11U012145-154 anticipates coffee/breakfast and makes coffee. Futures category question157, vague answer159 and selection offer160; pocketbook/schedules163-173/180-182. Later guest appreciation198 and apology200 show attention to satisfaction.",
+      "contrary": "The MAIN06 short opening may repeat the later episode, not independent recurrence. His dissatisfaction guess200-203 is wrong204. Complaint208-213 produces hesitation and a question rather than accurate diagnosis. Futures order156 has no performed trade/profit. Cake promise191 does not ensure reception214. Anticipation also enables a harmful pretext152.",
+      "rivals": "A generic formal butler, role obedience, local comic routine and Kazuma self-flattering appraisal overlap with the proposed mechanism. Face-saving is inferred from interaction, not private access. No independent intervention isolates it from efficient service or irony.",
+      "applies_when": "Specify a familiar guest assignment, actual request, information available, means, ambiguity, audience and authority. Strongest scope is comparable comfort/logistics within the castle. A concise question or wrong guess is allowed. Unfamiliar employers, war, autonomous investment and serious harm remain poorly specified.",
+      "do_not_assume": "No clairvoyance, universal competence, exact personal age, hidden hatred or devotion, verified returns, paid transaction or complete performance of a listed schedule. No invented means or assent from Mary/Darkness. A misnaming correction does not make Sebastian another servant. Known text presentations do not create independent trials.",
+      "confidence": "Provisional local service hypothesis with actual varied exchanges and contrary evidence. Broad traits, exact thresholds and transfer remain uncertain. No independent accuracy, confidence gain, grade or Japanese-performance claim.",
+      "falsifier": "Prospectively comparable later canonical assigned-guest ambiguity would weaken this rule if Heidel consistently refuses practical continuation until every detail is supplied, or if preserving guest presentation repeatedly has no explanatory role despite an available opportunity. A simulated invented resource, perfect diagnosis or profitable unshown trade is adverse output, not confirming canon."
+    },
+    {
+      "id": "HEI-R02",
+      "status": "active_provisional",
+      "proposition": "Within a familiar guest's social arrangements, after Heidel relays a host's objection and the guest reinterprets it as welcome, predict a provisional tendency to accept the guest's account and offer practical facilitation. Professional deference can undercut boundary judgment; the affected person's refusal remains a fact and successful delivery is not guaranteed.",
+      "support": "MAIN11U012184 relays Darkness stop-coming message. Kazuma reverses its meaning187; Heidel formally accepts a lesson188 and suggests a cake, then agrees to hidden-entry arrangement190-191. A proactive vase pretext152 is a separate example of enabling a troubling guest objective. Kazuma reports anonymous cake returned214, preserving wider agency.",
+      "contrary": "He actually transmits the objection184 rather than never noticing it. Source does not narrate performed vase manipulation or Mary punishment. Returned cake214 defeats success. He asks uncomfortable guest to consider own conduct213. Later tea/door service412 does not assign him Claire/Rain arrest/potion acts.",
+      "rivals": "General servility, low-stakes comic compliance, learned guest management, sincere misunderstanding and narrator framing remain alternatives. Source does not independently measure motive or establish that every objection will be overridden. His own orders, role limits and affected parties' enforcement may matter.",
+      "applies_when": "State the assigned-guest relationship, actual contrary message, the guest's interpretation, his information/authority, known risks and possible means before output. Comparable social/logistic requests are the strongest scope. Grave harm, a direct countermand from his superior and changed employment remain unresolved conditions.",
+      "do_not_assume": "No secretly welcoming host, universal denial-means-consent rule, unconditional complicity, unlimited authority, accepted delivery, guaranteed entry or forced ideal apology. Do not invent a harmless outcome or covert resource to tidy conflict. A third party's explicit refusal stays an actual constraint even if he facilitates an attempt.",
+      "confidence": "Provisional, bounded interpretation supported by a particular objection/reinterpretation sequence and another enabling proposal. Thresholds under serious costs or conflicting superior orders remain open. Same-root source-known diagnostics supply no independent observation or maturity credit.",
+      "falsifier": "Comparable prospectively assessed canonical requests would weaken this rule if an affected person's stated objection reliably remains controlling after a guest-favorable reinterpretation, rather than being relayed then accommodated. Different authority or danger cannot be fabricated after failure. A hypothetical output that silently turns refusal into consent or ensures success against a host is an adverse result, not proof of the rule."
+    }
+  ],
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "authorship_phase": "Foundation draft after receipt of all 72 current source pages; review/freeze pending, exact inputs and originals uncreated.",
+  "full_program_complete": false
+}

@@ -1543,3 +1543,10 @@ Kazuma's genealogyU014373–374, initial paralysis-awarenessU012153, common weal
 Kazuma private gratitude toward AngieU020529-530 differs from spoken apology or praise. His harmful bottle, billing, age and threat-information choices qualify claims of an always-cooperative party. Narrator guesses about the familiar worker hurtU016295, youthful-worker innocence569, Anna intentions and childhood remembered girlU018470 keep their access limits. MAIN16U01334 confirms Aqua misses the coach while absorbed in the ghost story, without proving Anna deliberately engineered it. Sutton mineral valuationU018447 is Angie report and garden644 is Aqua report; neither is direct Sutton speech or a quest personally issued by him.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+MAIN01U013 crossing memory24-29, guessed girl school25, guessed vehicle28 and Aqua's counterfactual report41-55 have different access. Mary MAIN06 anticipated service is interrupted by Darkness's actual arrival362. Jatice reports, artifact warnings, Aldarp focalized scheme and mistaken Kazuma identity remain separate channels. In MAIN11U012, apparent guard rank527, felt castle attitudes210-213 and online-guild causation312-325 are Kazuma's interpretations. Kazuma's distant MAIN17 lip reading does not turn a cry for a mother129 into a witnessed parent.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

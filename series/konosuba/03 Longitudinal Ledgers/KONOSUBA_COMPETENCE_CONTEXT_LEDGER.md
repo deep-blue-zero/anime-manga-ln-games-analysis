@@ -1648,3 +1648,10 @@ Actual capabilities have finite contexts: Shumel casts a dangerous spellU014375 
 Angie actual Sharpness/mineral techniqueU018471-484 and kobold kills510 coexist with uncertainty, resource dependence and a dangerous pursuit whose onset is elided. Her attempted Sigil Burst is not completed before Megumin Explosion609. The weather inquiryU012500-506 is compressed; no extra preliminary escort casting is explicitly narrated. Ignis actually uses spear/wire interceptionU020333-347, while archer group credit402 does not assign each earlier shot to one speaker. Dark Stalker/Assassin prepare weapons and poisonU014415-449 without a performed rescue attack; reported later teaching/potion use remain separate from the unseen original lesson/transfer.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+The Beginner Killer sniffs/passes the concealed party MAIN02U014517/522 and later targets Taylor668 before eye obstruction681 and escape686. Species hunting explanations530/534-535 do not prove deliberate goblin herding in this instance; no kill is shown. Castle guards contribute real restraint MAIN11U012581/584/599 while some earlier blockers are disabled; four initial action roles and a larger later contingent cannot be summed as unique people. Barrier users assist the gatekeeper MAIN17U011117/132 and repair149, but the barrier fails155; his own infinite-mana claim142 is not every crew member's resource or proof of invulnerability.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

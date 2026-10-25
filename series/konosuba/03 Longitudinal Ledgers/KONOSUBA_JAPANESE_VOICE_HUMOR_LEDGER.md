@@ -2094,3 +2094,10 @@ Shumel's formal contempt and later imperatives/status addressU014358–391 are w
 The female class-named professionals have separate attributed turns; Assassin practical refusals/corrections cannot be replaced with Dark Stalker first-person narration. Angie senior address, class language, protests and later knowledge update are source-bound pragmatic evidence, not one invariant catchphrase. Printed Anna author attribution is not a recorded child writing/speaking performance, and Kazuma often receives her through Aqua. 両手斧 is two-handed axe; お天気占い師 is weather diviner and 軍隊イナゴ is the swarm term, not a military institution. All eight new first responses are invented English; no acoustic/native-human or Japanese-performance adequacy is certified.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+Keele's formal self-presentation, time correction, proud history, uncertainty and direct request supply a more varied voice than a generic doomed romantic MAIN02U015. The transfer angel's polite office speech and Eris's later account remain different speakers. No Jatice performed line is manufactured from Luna's fantasy, Claire's wishes or a Kazuma mistaken-identity exchange. Winter and the two creature encounters have no articulate own dialogue here. Heidel's four English originals retain polished aphorism, unnecessary caution and excess explicitness relative to source assent; they do not certify Japanese pragmatic or acoustic adequacy.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

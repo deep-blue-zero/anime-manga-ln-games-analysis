@@ -2122,6 +2122,21 @@
         "published_project_paths": 1233,
         "current_models": 33,
         "no_independent_accuracy_or_confidence_gain": true
+      },
+      "cohort47_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT47_MAIN_ROLES_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_SOURCE_PRECISION_QUALIFICATIONS_01.json"
+      ],
+      "cohort47_semantic_receiving_sha256": "4033ba51eae43a6e89e8dc5d920c151438b0d27d54be5d3ad18ff556354401dc",
+      "cohort47_supporting_freeze_sha256": "1a87213cf1555dde03ceb7f91f74c9e2fa6d80d9f2419e02bac280af4fb0f820",
+      "cohort47_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "cohort47_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "cohort47_source_supplement": {
+        "row": 202,
+        "current_note": "MAIN06U01113/20 andU013353-362 anticipates familiar Mary service but actual entrant is Darkness. MAIN11U012148/152 are Heidel guest proposals;215-217 is Mary actual message. Narrative familiarity supports a qualified same-palace Mary route, not all servants or Marybell. Retain Tier0 current treatment and old seven analytical fields as historical source bounds.",
+        "limits": "No completed shortening of clothes, staged breakage or punishment, performed MAIN06 sheet change, private motive or broader dialogue."
       }
     },
     {
