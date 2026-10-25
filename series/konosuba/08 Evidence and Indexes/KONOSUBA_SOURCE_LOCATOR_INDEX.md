@@ -2055,3 +2055,24 @@ C40actual2826selectedP/1219inline ruby,11members3knownEPUBs58complete native dis
 C41receives2130unique current P/1954ruby in44displays across10members8localEPUBs,four complete P projections/six bounded;zero new images,residuals or whole-edition reading. Main02scientistU01870-105/440-600;Main05labU027240-360andplantU014310-523;Dust03U011complete813;Dust02U015555/U01668;Main15bonusU02157;boundedDust05/06/Yori03references retain exact scopes in provenance.41-source literal retrieval485leads is technical,not absence or identity proof.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+CoreC42reading3461unique currentP/3426ruby/10members/5DustEPUBs/50prepared pages: six fullparagraph projections andfour bounded,zeroimages/nonparagraph/whole-edition. DUST01U013411/U014575/U015583/U017801/U01879full;DUST02U01668full,U015295-555bounded;DUST03U011580-750;DUST05U011270-470/860-915/1310-1344;DUST06U011280-405/940-1033. Separate259previously receivedMAIN02/MASKPreturned; no extra core/globalreading.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+C43 receives 2,116 current P / 2,017 ruby across seven members/two local EPUB objects/47 prepared-page displays: six complete YORI01 paragraph projections (U012336, U014353, U018398, U020312, U024472, U026208) and YORI02U018P209–245 only. Zero current image, nonparagraph-residual or whole-edition credit. Fixed-41 literal retrieval gives 196 leads, with 195 in the full current YORI01 scope and the sole outer cub-name lead inside the bounded YORI02 window. Retrieval is not absence, identity or independent-reading proof.
+
+[Current evidence index](KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+C44 receives2675 current paragraph slots/2530ruby in ten complete YORI02 paragraph projections: U012283,U014282,U016390,U018331,U020393,U022423,U024367,U02667,U02762,U02877, across57 actual page deliveries in one verified local EPUB. The C43 U018P209–245 window repeats explicitly. Zero current images, nonparagraph residuals, whole-edition or new global source-first credit. Earlier full-edition receipts retain their own dated scope. Derivative13-page and identity16-page context were fully received; all456 labels were routing only.
+
+[Current evidence index](KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

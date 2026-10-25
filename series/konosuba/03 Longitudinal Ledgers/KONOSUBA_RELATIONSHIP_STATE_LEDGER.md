@@ -1603,3 +1603,24 @@ Doreck/Gaibil private agreement and care are not Rionor consent. Public proxy,re
 Scientist officials,king,reported female colleague and modification volunteers have unequal agency/access;every colleague occurrence is not automatically one woman. Memory-loss statement is not a watched disclosure/consent procedure. Plant protectors differ:Leen,Taylor,Yunyun,guards,Kazuma andwoodcutter retain own knowledge/actions. Dust removes Yunyun by force;plant bargaining reliance is not an agreed killing. MAIN15guest repair is not approval of humiliation.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Selective no-touch/gentleness declarations coexist with abduction; actual protection does not supply Leen consent. Dust coerces chief/subordinate and forcibly recruits worker despite later help. Apparent proprietor, individual worker, other staff, Sena and contextual Luna have different agency. Lolisa17/132provisional identity join keeps both frozen source-scoped histories and does not create two independent people or pool rule support.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+The visitors have separate grief, family and territorial purposes. Ozuma’s protectiveness toward Megumi can also interrupt a correction. Eibram’s filial indulgence is not others’ consent; Darkness’s initial hug and later refusal differ. Crow and Wiz accept a peer contest but not every third-party intervention or continued contact after withdrawal. The client’s adoption reveal neither disproves attachment nor resolves biological parents. Lolierina100/231 is a positive same-scene join, not two new individuals.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+Maternal entrustment, the cub’s clinging, the mother’s pause and coercive transport of Aqua are observed separately from inferred thoughts or later training. The dryad’s claimed dependents shape a bargain without universal plant representation. The follower’s Wolbach reverence does not establish his personal identity as Hoost or Arnes. The dinner fairy’s movement and whispered contributions do not settle final custody or bind every supplier to the host. Three park men and two frog novices retain incomplete voice allocation; a group route is not a shared mind.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

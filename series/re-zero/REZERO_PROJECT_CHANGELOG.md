@@ -5000,3 +5000,1095 @@ Garfiel's V17 maternal survival/amnesia, self-erasing secrecy forecast, accepted
 Exact outgoing V18body60Q/10P/15685bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d stays fixed; V18 remains unopened. Required sequence is V17 complete gate → Mimi model/separate actually applied review/own complete gate → V18, continuing through activeV43 without routine volume/model confirmation. No sixth owner, independent index, new formal test dimension, Arc5-end checkpoint, final specialist or global curation/evaluator grade follows. The [exact entering directory state](REZERO_PROJECT_CHANGELOG.md#v17-former-reconstruction-opening-and-directory-state) remains historical.
 
 ````````
+
+
+## V18 lossless historical rollover
+
+These exact older master sections move at the V18 transaction because the complete source-content candidate exceeds1MiB while this existing changelog has insufficient capacity for all required history. They remain historical through their original source horizons, not new V18 claims. No current/entering claim body, prospective seal, frozen reading or protected older master§14prefix moves out of its required home. Original-heading routers remain in the master; source preimages are from297bc0d05040a24facbeb5440481b9c604de5568, unchanged by governance-only5926d94f.
+
+## V18 V12-to-V13 transition
+
+### V12-to-V13 transition
+
+All156 predecessor responsibilities are individually adjudicated by V13 §13; the incoming sixty questions and ten forecasts are answered there in §§14/2. New C157–216 adds independently routed V13 increments, not fabricated earlier formulations. The fixed entering horizon and old current register remain historical below.
+
+| V12 predecessor | disposition | V13 current destination and reason |
+|---|---|---|
+| `RZ-V12-C001` | `REVISE` | `RZ-V13-C001`: The latest coordinate advances within E018, not through a new return. Evidence: p-003#B0297–0328; p-005#B0003–0015; p-024#B0177–0185; p-025#B0012–0018; p-027#B0154–0187. |
+| `RZ-V12-C002` | `PRESERVE` | `RZ-V13-C002`: V13 supplies no extra historical event at V10's rejoined presentation. Evidence: V12 §12/C002; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C003` | `STRENGTHEN` | `RZ-V13-C003`: Tongue biting, healing, dream release, collapse and waking remain distinct from physical RBD. Evidence: p-003#B0026–0047/B0129–0136/B0297–0328; p-005#B0003–0015; p-024#B0185; p-025#B0012–0018. |
+| `RZ-V12-C004` | `REVISE` | `RZ-V13-C004`: The complete consumption responsibility advances to V13 without rewriting V12's receipt. Evidence: §1; all ordered source loci, working consumption record and final positioned image. |
+| `RZ-V12-C005` | `STRENGTHEN` | `RZ-V13-C005`: The old warning now has an actually narrated consequence, not merely an unsafe-use possibility. Evidence: p-024#B0023–0038/B0108–0109. |
+| `RZ-V12-C006` | `PRESERVE` | `RZ-V13-C006`: No new actual Wilhelm wound, lineage disclosure or Theresia reunion is delivered; tea voices remain represented. Evidence: V12 §12/C006; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C007` | `PRESERVE` | `RZ-V13-C007`: No new actual Ferris resuscitation or memory remedy is performed. Evidence: V12 §12/C007; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C008` | `PRESERVE` | `RZ-V13-C008`: Crusch's existing received choices stand; V13 supplies no new actual Crusch encounter. Evidence: V12 §12/C008; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C009` | `PRESERVE` | `RZ-V13-C009`: New soul/pseudo-Od language still does not experimentally verify Crusch's ethical soul maxim. Evidence: V12 §12/C009; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C010` | `STRENGTHEN` | `RZ-V13-C010`: Patrasche now performs distinct current rescues and retains her own current first-day history. Evidence: p-005#B0015–0094; p-024#B0162–0191; p-025#B0049–0063. |
+| `RZ-V12-C011` | `STRENGTHEN` | `RZ-V13-C011`: Freshly accepted care and real achievement directly contradict total isolation without erasing failures. Evidence: p-003#B0129–0170/B0230–0263; p-005#B0071–0094; p-009#B0046–0100/B0134; p-024#B0173–0185. |
+| `RZ-V12-C012` | `REVISE` | `RZ-V13-C012`: The live kiss changes the actual relationship but does not settle all terms. Evidence: p-019#B0201–0224; p-021#B0019–0034; p-027#B0083–0105/B0151–0153. |
+| `RZ-V12-C013` | `REVISE` | `RZ-V13-C013`: Emilia now supplies her forest goal and partial life history, not a complete past. Evidence: p-012#B0378–0439/B0447–0489. |
+| `RZ-V12-C014` | `STRENGTHEN` | `RZ-V13-C014`: Otto's sister information and Ram's missing-person affect add evidence without recovering her autobiography. Evidence: p-012#B0012–0018/B0069; p-015#B0064–0071; p-018#B0018/B0035. |
+| `RZ-V12-C015` | `REVISE` | `RZ-V13-C015`: Subaru now accepts current Otto's listening with explicit exclusions. Evidence: p-009#B0078–0108/B0134. |
+| `RZ-V12-C016` | `PRESERVE` | `RZ-V13-C016`: No new actual mansion visit supersedes the old living welcome/attacker-report distinction. Evidence: V12 §12/C016; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C017` | `PRESERVE` | `RZ-V13-C017`: No new Frederica intimacy permission is supplied by family/crystal revelations. Evidence: V12 §12/C017; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C018` | `STRENGTHEN` | `RZ-V13-C018`: Prepared writing, sound tricks and finite capacities supplement earlier practical labor. Evidence: p-012#B0335–0347; p-016#B0017–0030/B0140/B0200–0209; p-027#B0141–0151. |
+| `RZ-V12-C019` | `PRESERVE` | `RZ-V13-C019`: Petra's established work and Frederica's care remain; neither performs new current Rem-memory recovery. Evidence: V12 §12/C019; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C020` | `STRENGTHEN` | `RZ-V13-C020`: Ram's new missing-something line extends residual affect without identifying a recovered episode. Evidence: p-015#B0064–0071; p-018#B0034–0035; V12 §12/C020. |
+| `RZ-V12-C021` | `PRESERVE` | `RZ-V13-C021`: No fresh inspection of all former Rem possessions occurs. Evidence: V12 §12/C021; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C022` | `PRESERVE` | `RZ-V13-C022`: The real Rem remains unavailable for a fresh awakening, self-memory or clinical test; no new mansion body inspection. Evidence: V12 §12/C022; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C023` | `PRESERVE` | `RZ-V13-C023`: Subaru's retained private sister meeting is not newly reenacted or inherited by Ram. Evidence: V12 §12/C023; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C024` | `PRESERVE` | `RZ-V13-C024`: No new Beatrice contract clauses or origin account reaches her in V13. Evidence: V12 §12/C024; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C025` | `PRESERVE` | `RZ-V13-C025`: The closed-door counter remains historical; V13 performs no new library breach experiment. Evidence: V12 §12/C025; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C026` | `PRESERVE` | `RZ-V13-C026`: Beatrice's blankness and years-long interpretation are not displaced by actual new book pages. Evidence: V12 §12/C026; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C027` | `PRESERVE` | `RZ-V13-C027`: Roswaal's book-based claims do not expose full text or resolve the earlier completion wording tension. Evidence: V12 §12/C027; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C028` | `PRESERVE` | `RZ-V13-C028`: No new Beatrice encounter establishes her receipt of Subaru's full tea/RBD/factor account. Evidence: V12 §12/C028; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C029` | `PRESERVE` | `RZ-V13-C029`: Beatrice's protective actions, death request and rejected terms retain their distinct earlier states. Evidence: V12 §12/C029; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C030` | `PRESERVE` | `RZ-V13-C030`: No new Beatrice transport demonstration establishes mass rescue or a return. Evidence: V12 §12/C030; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C031` | `STRENGTHEN` | `RZ-V13-C031`: A newly enacted promise is broken; the wall reveals a purpose, not retroactive permission. Evidence: p-015#B0095–0108/B0130–0138; p-019#B0058–0075/B0170–0180; p-027#B0141–0153. |
+| `RZ-V12-C032` | `STRENGTHEN` | `RZ-V13-C032`: Otto's interior account confirms several simultaneous motives rather than displacing commerce. Evidence: p-005#B0097–0106; p-016#B0105–0119/B0144–0163; p-025#B0035–0045. |
+| `RZ-V12-C033` | `PRESERVE` | `RZ-V13-C033`: No new adult romantic status or changed Petra outing terms are established. Evidence: V12 §12/C033; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C034` | `PRESERVE` | `RZ-V13-C034`: The cloth's earlier protective opportunity is not newly repeated, generalized or made romantic consent. Evidence: V12 §12/C034; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C035` | `PRESERVE` | `RZ-V13-C035`: Frederica's original personal oath/instructions remain undisclosed despite new family-gift material. Evidence: V12 §12/C035; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C036` | `PRESERVE` | `RZ-V13-C036`: No new mansion conduct reverses Frederica's actual protection or resolves her original letter conflict. Evidence: V12 §12/C036; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C037` | `REVISE` | `RZ-V13-C037`: Actual Puck contact, cancellation and continued help replace mere continuing nonresponse. Evidence: p-012#B0522–0541; p-013#B0017–0063; p-015#B0001–0010; p-024#B0040–0059/B0085. |
+| `RZ-V12-C038` | `STRENGTHEN` | `RZ-V13-C038`: Emilia chooses, confronts and heals after Puck's departure; fear is not total incapacity. Evidence: p-007#B0130–0161; p-022#B0043–0057; p-024#B0202–0213; p-027#B0170–0186. |
+| `RZ-V12-C039` | `REVISE` | `RZ-V13-C039`: Consultation occurs but secrecy and imposed performance persist. Evidence: p-012#B0352–0376/B0447–0489; p-019#B0150–0178; p-022#B0084. |
+| `RZ-V12-C040` | `STRENGTHEN` | `RZ-V13-C040`: Access after lost trial standing and Puck's drain add actual functions to the crystal model. Evidence: p-012#B0135–0140; p-015#B0204–0209/B0305–0317; p-024#B0040–0059. |
+| `RZ-V12-C041` | `STRENGTHEN` | `RZ-V13-C041`: Named people and their rotating office are further differentiated. Evidence: p-012#B0244–0289; p-015#B0017–0044/B0188–0190; p-027#B0002–0020. |
+| `RZ-V12-C042` | `PRESERVE` | `RZ-V13-C042`: The admitted earlier hosting lie remains disproved; differentiated conflict does not restore a one-at-a-time rule. Evidence: V12 §12/C042; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C043` | `REVISE` | `RZ-V13-C043`: The actual tea encounter concludes without a fresh consumed cup or formal bargain. Evidence: p-003#B0237–0263/B0297–0328; p-005#B0003–0015. |
+| `RZ-V12-C044` | `STRENGTHEN` | `RZ-V13-C044`: The seventh Witch speaks and is named, but a name is not a complete identity theory. Evidence: p-001#B0047–0068/B0188–0206; p-003#B0014–0018/B0311–0327. |
+| `RZ-V12-C045` | `REVISE` | `RZ-V13-C045`: A distinct new combat manifestation now exists, not merely apostle leverage. Evidence: p-012#B0135–0148; p-024#B0108–0109/B0129–0147; p-025#B0003–0013. |
+| `RZ-V12-C046` | `STRENGTHEN` | `RZ-V13-C046`: Useful disclosure and deliberate Emilia-directed hostility coexist with limited knowledge. Evidence: p-003#B0264–0266; p-012#B0491–0493; p-027#B0163–0177; V12 §12/C046. |
+| `RZ-V12-C047` | `REVISE` | `RZ-V13-C047`: Trial results must now be separated by challenger. Evidence: p-025#B0147–0179/B0283–0306; p-027#B0021–0033/B0154–0187. |
+| `RZ-V12-C048` | `STRENGTHEN` | `RZ-V13-C048`: Actually carried tea memories guide waking choices and deliberate partial briefings. Evidence: p-005#B0003–0015/B0131–0144; p-009#B0093–0100; p-012#B0355–0356; p-022#B0084. |
+| `RZ-V12-C049` | `STRENGTHEN` | `RZ-V13-C049`: Garfiel's own viewpoint, family fear and conditional alliance add major countermodels to one temper. Evidence: p-015#B0035–0044/B0299–0306; p-022#B0124–0171; p-025#B0085–0145; p-027#B0042–0048. |
+| `RZ-V12-C050` | `STRENGTHEN` | `RZ-V13-C050`: Otto, Ram, Emilia, Puck and Patrasche each contribute beyond Subaru's controlled script. Evidence: p-012#B0084; p-015#B0349/B0374–0377; p-018#B0037–0043; p-024#B0085/B0162–0213. |
+| `RZ-V12-C051` | `PRESERVE` | `RZ-V13-C051`: Mixed blood and family relations do not independently establish Garfiel's exact ancestry ratio or a matched exit test. Evidence: V12 §12/C051; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C052` | `STRENGTHEN` | `RZ-V13-C052`: Emilia articulates what support means and rejects substituting an unasked solution. Evidence: p-007#B0084–0142/B0155–0161; p-019#B0150–0178; p-021#B0019–0031. |
+| `RZ-V12-C053` | `STRENGTHEN` | `RZ-V13-C053`: A new current negotiation adds no actual receipt of RBD's death trigger. Evidence: p-005#B0210–0225; p-010#B0018–0029/B0054–0069/B0103–0117. |
+| `RZ-V12-C054` | `STRENGTHEN` | `RZ-V13-C054`: Family meaning and apostle use are added without disclosing the original Frederica directive. Evidence: p-015#B0204–0209/B0315–0317; p-024#B0050–0059; p-025#B0236–0243; V12 §12/C054. |
+| `RZ-V12-C055` | `STRENGTHEN` | `RZ-V13-C055`: Residual lack and Otto's stated source remain distinct from restored sister memories. Evidence: p-012#B0012–0018/B0069; p-015#B0064–0071; p-018#B0018/B0035. |
+| `RZ-V12-C056` | `STRENGTHEN` | `RZ-V13-C056`: Named creator-oath and individual staying/going preferences sharpen the distinctions. Evidence: p-012#B0188–0212/B0262–0289; p-027#B0046–0048. |
+| `RZ-V12-C057` | `REVISE` | `RZ-V13-C057`: The next naming inquiry is actually made and rotation is further explained. Evidence: p-012#B0252–0289; p-027#B0002–0020; V12 §12/C057. |
+| `RZ-V12-C058` | `PRESERVE` | `RZ-V13-C058`: No verified forced half-blood removal tests the earlier soul-left-behind account. Evidence: V12 §12/C058; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C059` | `PRESERVE` | `RZ-V13-C059`: Roswaal's fresh bare-face display and bandaging do not establish the original wound's cause or fakery. Evidence: V12 §12/C059; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C060` | `PRESERVE` | `RZ-V13-C060`: V13 neither inspects the burned discarded cathedral nor certifies each former resident's fate. Evidence: V12 §12/C060; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C061` | `STRENGTHEN` | `RZ-V13-C061`: Roswaal schedules further weather manipulation but it remains an announced future event. Evidence: p-010#B0109–0117; V12 §12/C061/C143. |
+| `RZ-V12-C062` | `STRENGTHEN` | `RZ-V13-C062`: Alma's stated view and Garfiel's selective command ethics directly differentiate wishes. Evidence: p-012#B0162–0175/B0194–0212/B0266–0269; p-015#B0041–0044/B0175–0177. |
+| `RZ-V12-C063` | `REVISE` | `RZ-V13-C063`: Lost standing is actually disclosed to Roswaal and recognized by Emilia in the new state. Evidence: p-005#B0163–0197; p-007#B0009–0027; p-012#B0135–0148; p-019#B0015–0018. |
+| `RZ-V12-C064` | `STRENGTHEN` | `RZ-V13-C064`: New ordinary waking and trial transitions remain within the same physical segment. Evidence: p-003#B0297–0328; p-005#B0003–0015; p-015#B0110–0138; p-024#B0185; p-025#B0012–0018/B0170–0179; p-027#B0154–0187. |
+| `RZ-V12-C065` | `STRENGTHEN` | `RZ-V13-C065`: Voiced recollection and transferred maternal advice do not contact real Earth parents. Evidence: p-003#B0085–0104/B0199–0207; p-019#B0190–0195; p-021#B0002–0005. |
+| `RZ-V12-C066` | `STRENGTHEN` | `RZ-V13-C066`: Fresh performance, self-valuation and accepted aid retain a conditional rather than diagnostic model. Evidence: p-003#B0230–0294; p-009#B0093–0100; p-019#B0150–0178; p-021#B0021–0025; p-024#B0023–0038. |
+| `RZ-V12-C067` | `PRESERVE` | `RZ-V13-C067`: V13 adds no actual school reintegration or new Earth truancy event. Evidence: V12 §12/C067; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C068` | `STRENGTHEN` | `RZ-V13-C068`: The tea rejects the expendable-only answer without erasing later shame or performance. Evidence: p-001#B0209–0242; p-003#B0129–0170/B0230–0294; p-007#B0171–0188; p-009#B0046–0069. |
+| `RZ-V12-C069` | `PRESERVE` | `RZ-V13-C069`: Kenichi's familiar voice is not a new real parental intervention. Evidence: V12 §12/C069; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C070` | `STRENGTHEN` | `RZ-V13-C070`: V13 supplies recipient-conditioned plain, strategic, maternal and intimate registers with distinct assent conditions. Evidence: §11; p-007#B0228; p-009#B0078–0100; p-019#B0150–0211; p-027#B0180–0186. |
+| `RZ-V12-C071` | `STRENGTHEN` | `RZ-V13-C071`: Several actual helpers and remembered lessons contribute to different changes. Evidence: p-003#B0085–0170/B0199–0209/B0261–0276; p-005#B0071–0106; p-009#B0078–0100; p-019#B0190–0198; p-024#B0085/B0162–0213. |
+| `RZ-V12-C072` | `PRESERVE` | `RZ-V13-C072`: There is still no demonstrated cosmic ban or actual successful Earth-contact test. Evidence: V12 §12/C072; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C073` | `PRESERVE` | `RZ-V13-C073`: A new transferred maternal principle does not turn the older cloth habit into a new Earth message or explain all magic. Evidence: V12 §12/C073; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C074` | `STRENGTHEN` | `RZ-V13-C074`: A parental lesson is actually applied to another person's uncertain identity. Evidence: p-019#B0182–0198; p-021#B0002–0007/B0021–0025. |
+| `RZ-V12-C075` | `STRENGTHEN` | `RZ-V13-C075`: Subaru refuses compulsory intel, while Otto's debt-based self-risk shows a different cost. Evidence: p-012#B0159–0178; p-016#B0063–0067/B0110–0119/B0138–0148. |
+| `RZ-V12-C076` | `REVISE` | `RZ-V13-C076`: Fresh current friendship is now actually spoken, unlike the historical V12 boundary. Evidence: p-005#B0121–0124; p-007#B0228; p-009#B0046–0100/B0134; p-015#B0374–0377. |
+| `RZ-V12-C077` | `STRENGTHEN` | `RZ-V13-C077`: Garfiel's silent-to-audible reconstruction and proxy dialogue add bounded trial conditions. Evidence: p-025#B0183–0203/B0221–0257/B0268–0280. |
+| `RZ-V12-C078` | `REVISE` | `RZ-V13-C078`: The passed-first category now includes a separate challenger. Evidence: p-003#B0237–0249; p-027#B0021–0033. |
+| `RZ-V12-C079` | `REVISE` | `RZ-V13-C079`: Emilia's renewed first and Garfiel's first outcome extend the reached examination state. Evidence: p-025#B0170–0306; p-027#B0021–0033/B0154–0187; V12 §12/C079. |
+| `RZ-V12-C080` | `STRENGTHEN` | `RZ-V13-C080`: Current strategic withholding is contrasted with Emilia's actual restored missing memories. Evidence: p-009#B0093–0100; p-012#B0355–0356/B0482–0489; p-015#B0241–0249; p-019#B0182–0186. |
+| `RZ-V12-C081` | `REVISE` | `RZ-V13-C081`: The political aim and trial impediments are partly delivered instead of wholly unexplained. Evidence: p-012#B0378–0439/B0447–0489; p-013#B0029–0063; p-027#B0163–0187. |
+| `RZ-V12-C082` | `PRESERVE` | `RZ-V13-C082`: New restful sleep and handholding are not a repeated aroma experiment or blanket consent test. Evidence: V12 §12/C082; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C083` | `REVISE` | `RZ-V13-C083`: Roswaal explicitly admits the bounded mansion commission. Evidence: p-005#B0315–0333; p-007#B0054–0068. |
+| `RZ-V12-C084` | `STRENGTHEN` | `RZ-V13-C084`: Garfiel's new address is not a formal knight or payroll appointment. Evidence: p-027#B0046–0060/B0095–0105. |
+| `RZ-V12-C085` | `STRENGTHEN` | `RZ-V13-C085`: A received Rem name/sister lesson is distinguished from recovered memories. Evidence: p-012#B0069; p-018#B0018; V12 §12/C085. |
+| `RZ-V12-C086` | `REVISE` | `RZ-V13-C086`: Current refusal to exploit Alma coexists with Subaru's gate sacrifice and ongoing other-person costs. Evidence: p-012#B0159–0178; p-016#B0138–0148; p-018#B0081–0107; p-024#B0023–0038/B0146–0176. |
+| `RZ-V12-C087` | `PRESERVE` | `RZ-V13-C087`: No new accepted visitor identity or actual Beatrice receipt supersedes Echidna's denial of a predetermined visitor. Evidence: V12 §12/C087; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C088` | `STRENGTHEN` | `RZ-V13-C088`: The new private briefing names intentional omissions rather than involuntary loss. Evidence: p-009#B0093–0100; p-012#B0355–0356; p-022#B0084. |
+| `RZ-V12-C089` | `STRENGTHEN` | `RZ-V13-C089`: Actual consultation and actual breach coexist, defeating a simple all-imposition or all-repair model. Evidence: p-007#B0130–0161; p-012#B0352–0376; p-015#B0095–0108; p-027#B0149–0153. |
+| `RZ-V12-C090` | `STRENGTHEN` | `RZ-V13-C090`: The accepted wager and new ally are progress, not enacted convoy or complete rescue. Evidence: p-010#B0073–0117; p-027#B0046–0048/B0154–0187. |
+| `RZ-V12-C091` | `STRENGTHEN` | `RZ-V13-C091`: New spell and blessing costs prevent treating manpower as free capacity. Evidence: p-016#B0130–0148/B0200–0222; p-018#B0081–0107; p-024#B0023–0059. |
+| `RZ-V12-C092` | `STRENGTHEN` | `RZ-V13-C092`: The failed commodity bet gains a narrated background, not settlement. Evidence: p-016#B0052–0071/B0110–0119; p-025#B0064–0066; V12 §12/C092. |
+| `RZ-V12-C093` | `PRESERVE` | `RZ-V13-C093`: No new fully negotiated refugee-credit bargain or all-beneficiary assent is enacted. Evidence: V12 §12/C093; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C094` | `STRENGTHEN` | `RZ-V13-C094`: Garfiel's objection to repeated expected suffering is heard without validating his imposed closure. Evidence: p-015#B0299–0306; p-022#B0044–0076/B0103–0124; p-024#B0011–0020. |
+| `RZ-V12-C095` | `REVISE` | `RZ-V13-C095`: The mother's departure motive and Garfiel's own words complicate a sister-only interpretation. Evidence: p-022#B0093–0105/B0124–0170; p-025#B0230–0247/B0292–0306; p-027#B0046–0048. |
+| `RZ-V12-C096` | `REVISE` | `RZ-V13-C096`: Garfiel's pickpocketed key and Frederica's Puck-bearing stone now have distinguishable use histories. Evidence: p-015#B0305–0317; p-016#B0179; p-018#B0093; p-024#B0040–0059; p-025#B0236–0243. |
+| `RZ-V12-C097` | `PRESERVE` | `RZ-V13-C097`: No new refugee-family reunion is directly supplied. Evidence: V12 §12/C097; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C098` | `STRENGTHEN` | `RZ-V13-C098`: Otto's independent plans, costly voluntary role and family/work history now earn bounded construction. Evidence: p-012#B0073–0084; p-016#B0003–0163; p-018#B0037–0043; §15. |
+| `RZ-V12-C099` | `PRESERVE` | `RZ-V13-C099`: Current living reunions do not retroactively complete the missing censuses of earlier discarded states. Evidence: V12 §12/C099; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C100` | `STRENGTHEN` | `RZ-V13-C100`: The plan is disrupted, allies withhold subplans and the finale is improvised. Evidence: p-015#B0264–0270/B0349/B0374–0377; p-018#B0037–0043; p-024#B0079–0085/B0156–0176. |
+| `RZ-V12-C101` | `STRENGTHEN` | `RZ-V13-C101`: The bounded client admission adds employer knowledge without a new assassin encounter. Evidence: p-005#B0315–0333; p-007#B0054–0068; V12 §12/C101. |
+| `RZ-V12-C102` | `PRESERVE` | `RZ-V13-C102`: No newly completed death supersedes death16/self-stabbing or death17/Rabbit-wound chronology. Evidence: V12 §12/C102; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C103` | `PRESERVE` | `RZ-V13-C103`: V13 supplies no independent bridge for internal escape-family spouse, children, exclusivity or hobbies. Evidence: V12 §12/C103; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C104` | `STRENGTHEN` | `RZ-V13-C104`: V13 adds concrete care, study, commerce, sleep and gift evidence rather than a filled-in routine. Evidence: §10; p-012#B0262–0272/B0335–0347; p-015#B0149–0150; p-016#B0017–0067; p-025#B0014–0023/B0049–0063; p-027#B0141–0151. |
+| `RZ-V12-C105` | `STRENGTHEN` | `RZ-V13-C105`: Material new names, withheld reasons and reclaimed labels have recipient-specific force. Evidence: §11; p-012#B0135–0148/B0403–0410; p-019#B0170–0211; p-027#B0048–0067/B0180–0186. |
+| `RZ-V12-C106` | `STRENGTHEN` | `RZ-V13-C106`: Several actual changed choices coexist with repeated harmful patterns. Evidence: p-003#B0230–0294; p-009#B0093–0100; p-012#B0159–0178; p-019#B0150–0178; p-024#B0023–0038; p-027#B0151–0153. |
+| `RZ-V12-C107` | `STRENGTHEN` | `RZ-V13-C107`: No current Subaru model/audit operation has occurred; Otto's construction trigger is separate. Evidence: §15; V12 §12/C107. |
+| `RZ-V12-C108` | `REVISE` | `RZ-V13-C108`: The existing owners remain sufficient but one new construction threshold is actually earned. Evidence: §15; p-016#B0003–0163; p-018#B0037–0043; p-027#B0154–0187. |
+| `RZ-V12-C109` | `REVISE` | `RZ-V13-C109`: V13's afterword explicitly places the arc in a coming resolution phase, not at its end. Evidence: p-028#B0003–0005/B0011–0017; p-032#B0003–0005. |
+| `RZ-V12-C110` | `REVISE` | `RZ-V13-C110`: V13's illustration, promotional and publication materials are fully consumed as paratext. Evidence: p-029–p-032; p-credit; p-colophon; p-bookwalker. |
+| `RZ-V12-C111` | `STRENGTHEN` | `RZ-V13-C111`: The death trigger is consciously not disclosed in the new waking briefing. Evidence: p-005#B0210–0225; p-009#B0093–0100; p-010#B0018–0029; V12 §12/C111. |
+| `RZ-V12-C112` | `PRESERVE` | `RZ-V13-C112`: A new self-valuing choice or unperformed promise adds no retry-quota/checkpoint experiment. Evidence: V12 §12/C112; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C113` | `STRENGTHEN` | `RZ-V13-C113`: A Shima-linked history and named surveillance clarify some but not every old caretaker appearance. Evidence: p-012#B0275–0289; p-015#B0017–0044/B0188–0209; V12 §12/C113. |
+| `RZ-V12-C114` | `STRENGTHEN` | `RZ-V13-C114`: The bodily trajectory includes real care and new lasting loss without a reset. Evidence: p-003#B0026–0047/B0129–0136; p-005#B0003–0094; p-024#B0023–0038/B0202–0213. |
+| `RZ-V12-C115` | `REVISE` | `RZ-V13-C115`: The actual demonstrated miasma channel is Shima-to-Garfiel, not certified independent Garfiel detection. Evidence: p-015#B0021–0028/B0194–0202/B0322–0323; p-016#B0171–0172. |
+| `RZ-V12-C116` | `STRENGTHEN` | `RZ-V13-C116`: Current full-tiger loss of reason has a stated purpose and condition, not a universal rule. Evidence: p-018#B0055–0068/B0093–0099; p-024#B0010–0020/B0040–0054; V12 §12/C116. |
+| `RZ-V12-C117` | `STRENGTHEN` | `RZ-V13-C117`: Two different distributed surveillance methods have actual costs and blindspots. Evidence: p-015#B0199–0203/B0349; p-016#B0074–0076/B0130–0148/B0200–0209. |
+| `RZ-V12-C118` | `REVISE` | `RZ-V13-C118`: Fresh current mutual friend-address and voluntary action are actually supplied. Evidence: p-005#B0121–0124; p-007#B0228; p-009#B0046–0100/B0134; p-016#B0105–0119. |
+| `RZ-V12-C119` | `PRESERVE` | `RZ-V13-C119`: No new witness independently establishes how the earlier cathedral fire began or every beneficiary's consent/fate. Evidence: V12 §12/C119; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C120` | `STRENGTHEN` | `RZ-V13-C120`: Distributed current victory does not complete the still separate household rescue. Evidence: p-010#B0073–0117; p-024#B0085/B0156–0185; p-027#B0154–0187; V12 §12/C120. |
+| `RZ-V12-C121` | `STRENGTHEN` | `RZ-V13-C121`: Only a schedule, not a new Rabbit countermeasure, is added. Evidence: p-010#B0109–0117; V12 §12/C121. |
+| `RZ-V12-C122` | `STRENGTHEN` | `RZ-V13-C122`: Typhon's defense of Subaru's chosen self-injury differs from Minerva's intervention. Evidence: p-001#B0235–0242; p-003#B0033–0047/B0182–0186. |
+| `RZ-V12-C123` | `STRENGTHEN` | `RZ-V13-C123`: Minerva heals a dream-local tongue wound and her own injured arm but dismisses mental cost. Evidence: p-003#B0033–0047/B0129–0150. |
+| `RZ-V12-C124` | `STRENGTHEN` | `RZ-V13-C124`: Daphne takes distinct non-uniform actions instead of joining a complete extermination plan. Evidence: p-003#B0182–0194. |
+| `RZ-V12-C125` | `PRESERVE` | `RZ-V13-C125`: No newly performed Rabbit division/shared-consciousness or whole-set destruction test occurs. Evidence: V12 §12/C125; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C126` | `REVISE` | `RZ-V13-C126`: Exit is actually delayed and later occurs without formal acceptance; bodily wake is observed. Evidence: p-001#B0096; p-003#B0237–0249/B0297–0328; p-005#B0003–0015. |
+| `RZ-V12-C127` | `PRESERVE` | `RZ-V13-C127`: No further cloth effect establishes full trigger, complete price or universal foresight. Evidence: V12 §12/C127; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C128` | `PRESERVE` | `RZ-V13-C128`: Subaru never newly assents to Beatrice's first-rank demand; renewed intent is not contract replacement. Evidence: V12 §12/C128; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C129` | `STRENGTHEN` | `RZ-V13-C129`: Satella's actual uncovered face and demands add information without settling possession history. Evidence: p-001#B0047–0068/B0188–0206; p-003#B0014–0018/B0311–0327. |
+| `RZ-V12-C130` | `STRENGTHEN` | `RZ-V13-C130`: New actual negotiation extends Subaru's received Roswaal knowledge without importing the old coda. Evidence: p-005#B0315–0333; p-007#B0009–0027; p-010#B0073–0117; V12 §12/C130. |
+| `RZ-V12-C131` | `STRENGTHEN` | `RZ-V13-C131`: A later representative's resource account and repeated current viewing retain separate evidence classes. Evidence: p-012#B0140/B0244–0267; p-015#B0218–0220. |
+| `RZ-V12-C132` | `PRESERVE` | `RZ-V13-C132`: No new completed Echidna vessel or independent universal soul-capacity test supersedes the unfinished project account. Evidence: V12 §12/C132; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C133` | `STRENGTHEN` | `RZ-V13-C133`: Alma rejects outsider pity and the rotation is explicitly differentiated. Evidence: p-012#B0244–0289; p-027#B0002–0020. |
+| `RZ-V12-C134` | `STRENGTHEN` | `RZ-V13-C134`: Current apostle standing is retained despite trial loss, but holder-conflict priority is not tested. Evidence: p-012#B0135–0148; p-015#B0175–0177/B0204–0209; p-027#B0002–0003. |
+| `RZ-V12-C135` | `REVISE` | `RZ-V13-C135`: The current choice declines coercive truth rather than repeating the previous secrecy command. Evidence: p-012#B0155–0178/B0183–0212. |
+| `RZ-V12-C136` | `STRENGTHEN` | `RZ-V13-C136`: Earlier compelled explosions remain; Garfiel's selective restraint is not freedom for every copy. Evidence: p-015#B0041–0044/B0175–0177; V12 §12/C136. |
+| `RZ-V12-C137` | `STRENGTHEN` | `RZ-V13-C137`: Alma's conjecture and Shima's reported rescue need separate certainty labels. Evidence: p-012#B0284–0323; p-022#B0093–0097/B0124–0139. |
+| `RZ-V12-C138` | `PRESERVE` | `RZ-V13-C138`: No new current Petra receives the outing remake or completes its performance. Evidence: V12 §12/C138; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C139` | `PRESERVE` | `RZ-V13-C139`: No new Beatrice book observation converts her death forecast into verified future fact. Evidence: V12 §12/C139; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C140` | `PRESERVE` | `RZ-V13-C140`: No new Beatrice response, accepted first-priority promise or mechanical priority test is supplied. Evidence: V12 §12/C140; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C141` | `PRESERVE` | `RZ-V13-C141`: New Emilia microspirit healing is not a new Beatrice outside-library capacity test or mass-rescue demonstration. Evidence: V12 §12/C141; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C142` | `PRESERVE` | `RZ-V13-C142`: No new Elsa restoration, donor identification, mortality test or all-conditions immortality is established. Evidence: V12 §12/C142; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C143` | `STRENGTHEN` | `RZ-V13-C143`: Roswaal's newly announced schedule follows the old admitted isolation scheme, not an actual new storm. Evidence: p-010#B0109–0117; V12 §12/C143. |
+| `RZ-V12-C144` | `PRESERVE` | `RZ-V13-C144`: Current living Ram/Garfiel do not inherit or undo Roswaal's actual E017 murders; no new revival of those bodies occurs. Evidence: V12 §12/C144; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C145` | `STRENGTHEN` | `RZ-V13-C145`: The explicit four-century claim is a received lead, not an observed identity transfer. Evidence: p-005#B0329–0333; p-010#B0103–0117; V12 §12/C145. |
+| `RZ-V12-C146` | `REVISE` | `RZ-V13-C146`: Current Emilia's objections and limited affection are distinct from the earlier dependent declaration. Evidence: p-007#B0130–0161; p-019#B0150–0211; p-027#B0095–0105/B0135–0153; V12 §12/C146. |
+| `RZ-V12-C147` | `STRENGTHEN` | `RZ-V13-C147`: The live kiss is explicitly asymmetrical in remembered sequence. Evidence: p-019#B0205–0217; p-024#B0202–0213; p-027#B0095–0097; V12 §12/C147. |
+| `RZ-V12-C148` | `STRENGTHEN` | `RZ-V13-C148`: Garfiel's new interactive first trial remains a representation, not a new cosmic proof. Evidence: p-003#B0085–0104/B0199–0207; p-025#B0183–0203/B0250–0280; V12 §12/C148. |
+| `RZ-V12-C149` | `STRENGTHEN` | `RZ-V13-C149`: Carmilla supplies multiple familiar voices; the actual Rem remains absent. Evidence: p-003#B0085–0104/B0199–0207/B0275–0276; V12 §12/C149. |
+| `RZ-V12-C150` | `STRENGTHEN` | `RZ-V13-C150`: Stern remembered care transfers without preserving exclusive permission to see weakness. Evidence: p-001#B0179–0181; p-003#B0065–0074/B0129–0170; p-005#B0071–0094; p-007#B0104–0117; p-009#B0093–0100; p-024#B0124–0127. |
+| `RZ-V12-C151` | `STRENGTHEN` | `RZ-V13-C151`: A renewed formal offer is again expressly refused; Satella's hand is not that acceptance. Evidence: p-003#B0237–0249/B0297–0328. |
+| `RZ-V12-C152` | `STRENGTHEN` | `RZ-V13-C152`: Actual conflict demonstrates differentiated powers/values rather than a single host's necessary substitution. Evidence: p-003#B0033–0051/B0182–0210; V12 §12/C152. |
+| `RZ-V12-C153` | `STRENGTHEN` | `RZ-V13-C153`: Differently motivated aid actually occurs and is thanked without a uniform pact. Evidence: p-001#B0148–0158; p-003#B0007–0012/B0033–0051/B0182–0210/B0261–0276. |
+| `RZ-V12-C154` | `STRENGTHEN` | `RZ-V13-C154`: The shortest-path reoffer is still an interested promise, not a tested optimal future. Evidence: p-003#B0237–0266; V12 §12/C154. |
+| `RZ-V12-C155` | `PRESERVE` | `RZ-V13-C155`: Subaru's renewed refusal/resolve does not enact reaching Beatrice or giving her the withheld creator account. Evidence: V12 §12/C155; exact V12 source route there; no superseding V13 observation. |
+| `RZ-V12-C156` | `REVISE` | `RZ-V13-C156`: The arrival now develops into an actual conversation, refused offer and waking. Evidence: p-001#B0188–0206; p-003#B0014–0018/B0294–0328; p-005#B0003–0015. |
+
+## V18 V13-to-V14 transition
+
+### V13-to-V14 transition
+
+All216 V13 predecessors are individually adjudicated; complete older rows remain below. The sole DOWNGRADE concerns the sufficiency of the earlier single-purpose research account, not denial of every reported laboratory fact.
+
+| V13 predecessor | V14 disposition / successor | reason |
+|---|---|---|
+| `RZ-V13-C001` | `REVISE` → `RZ-V14-C001` | The same E018 advances to the mansion library, not another return. |
+| `RZ-V13-C002` | `PRESERVE` → `RZ-V14-C002` | No new Subaru death/return changes this historically identified transition; V14's explicit scene backfills are not RBD. |
+| `RZ-V13-C003` | `PRESERVE` → `RZ-V14-C003` | No new Subaru death/return changes this historically identified transition; V14's explicit scene backfills are not RBD. |
+| `RZ-V13-C004` | `REVISE` → `RZ-V14-C004` | The new complete unit has its own actual consumption proof; V13's record remains historically true. |
+| `RZ-V13-C005` | `PRESERVE` → `RZ-V14-C005` | No observed V14 gate repair or new self-cast magic supersedes the actual collapse. |
+| `RZ-V13-C006` | `PRESERVE` → `RZ-V14-C006` | No actual new Wilhelm/Theresia, Ferris or Crusch encounter changes the stated older fact/attribution; a trial or past comparison is not current receipt. |
+| `RZ-V13-C007` | `PRESERVE` → `RZ-V14-C007` | No actual new Wilhelm/Theresia, Ferris or Crusch encounter changes the stated older fact/attribution; a trial or past comparison is not current receipt. |
+| `RZ-V13-C008` | `PRESERVE` → `RZ-V14-C008` | No actual new Wilhelm/Theresia, Ferris or Crusch encounter changes the stated older fact/attribution; a trial or past comparison is not current receipt. |
+| `RZ-V13-C009` | `PRESERVE` → `RZ-V14-C009` | No actual new Wilhelm/Theresia, Ferris or Crusch encounter changes the stated older fact/attribution; a trial or past comparison is not current receipt. |
+| `RZ-V13-C010` | `PRESERVE` → `RZ-V14-C010` | New transport does not replace the specific earlier Patrasche rescue, grudge or touch-boundary event or grant erased-loop memory. |
+| `RZ-V13-C011` | `STRENGTHEN` → `RZ-V14-C011` | He receives aid and admits his own combat limit, but unilateral Beatrice rescue intention remains a counterweight. |
+| `RZ-V13-C012` | `PRESERVE` → `RZ-V14-C012` | The positive private V14 recollection does not alter the actual kiss's earlier assent ambiguity or supply a received relationship settlement. |
+| `RZ-V13-C013` | `REVISE` → `RZ-V14-C013` | The expanded first trial actually supplies a particular past, while the current thaw remains unrealized. |
+| `RZ-V13-C014` | `STRENGTHEN` → `RZ-V14-C014` | New named instruction and residual blank affect remain distinct from restored autobiography. |
+| `RZ-V13-C015` | `STRENGTHEN` → `RZ-V14-C015` | Actual Echidna-contact and rescue briefings add received information without the withheld death/tea mechanism. |
+| `RZ-V13-C016` | `STRENGTHEN` → `RZ-V14-C016` | Frederica's observed present defense is more than a report of the earlier attack. |
+| `RZ-V13-C017` | `PRESERVE` → `RZ-V14-C017` | Current protection and sibling reunion do not cancel Frederica's earlier personal/professional boundary or disclose all original oath terms. |
+| `RZ-V13-C018` | `STRENGTHEN` → `RZ-V14-C018` | New actual household and protection work extends finite competence rather than replacing it with a generic trait. |
+| `RZ-V13-C019` | `STRENGTHEN` → `RZ-V14-C019` | Petra's caregiving work and Frederica's protection are actually depicted; neither remembers Rem's erased prior history. |
+| `RZ-V13-C020` | `PRESERVE` → `RZ-V14-C020` | New residual family/oath gaps and name instruction do not reconstruct the older shared autobiography or discarded private meeting. |
+| `RZ-V13-C021` | `PRESERVE` → `RZ-V14-C021` | No new exhaustive possession census revises the bounded older material-erasure inspection. |
+| `RZ-V13-C022` | `STRENGTHEN` → `RZ-V14-C022` | A current bodily care scene and proposed evacuation add no awakening or restored self-report. |
+| `RZ-V13-C023` | `PRESERVE` → `RZ-V14-C023` | New residual family/oath gaps and name instruction do not reconstruct the older shared autobiography or discarded private meeting. |
+| `RZ-V13-C024` | `REVISE` → `RZ-V14-C024` | Meyer's represented history adds explicit mother/daughter wording and creator-family conduct, not full contract terms. |
+| `RZ-V13-C025` | `PRESERVE` → `RZ-V14-C025` | Current door/held-book observations supply no new open-page text or controlled correction of earlier selection, blankness or copy/readability distinctions. |
+| `RZ-V13-C026` | `PRESERVE` → `RZ-V14-C026` | Current door/held-book observations supply no new open-page text or controlled correction of earlier selection, blankness or copy/readability distinctions. |
+| `RZ-V13-C027` | `PRESERVE` → `RZ-V14-C027` | Current door/held-book observations supply no new open-page text or controlled correction of earlier selection, blankness or copy/readability distinctions. |
+| `RZ-V13-C028` | `PRESERVE` → `RZ-V14-C028` | Beatrice's actual current encounter supplies no received full RBD/tea/factor explanation. |
+| `RZ-V13-C029` | `STRENGTHEN` → `RZ-V14-C029` | Historical mixed attachment remains and the current reached Beatrice has not accepted extraction. |
+| `RZ-V13-C030` | `STRENGTHEN` → `RZ-V14-C030` | The Meyer account adds represented door labor and debated evacuation without proving limitless mass service. |
+| `RZ-V13-C031` | `STRENGTHEN` → `RZ-V14-C031` | The actual old breach is not repaired by a separate later departure interpreted as trust. |
+| `RZ-V13-C032` | `STRENGTHEN` → `RZ-V14-C032` | New disclosure, family pride and practical solo initiative preserve plural motives, not paid employment. |
+| `RZ-V13-C033` | `STRENGTHEN` → `RZ-V14-C033` | The present fear, care and rescue add child agency without adult romantic terms. |
+| `RZ-V13-C034` | `PRESERVE` → `RZ-V14-C034` | The actual dirty-cloth reunion is not another measured magical intervention and does not revise the older bounded wish effect or its price. |
+| `RZ-V13-C035` | `PRESERVE` → `RZ-V14-C035` | Current protection and sibling reunion do not cancel Frederica's earlier personal/professional boundary or disclose all original oath terms. |
+| `RZ-V13-C036` | `STRENGTHEN` → `RZ-V14-C036` | Present actual bodily defense supersedes reliance on old attacker reports as the latest observation. |
+| `RZ-V13-C037` | `STRENGTHEN` → `RZ-V14-C037` | A second actual appearance proves ongoing uncontracted aid, not Emilia's new bond. |
+| `RZ-V13-C038` | `REVISE` → `RZ-V14-C038` | The first-trial reconstruction and explicit pass materially change current Emilia's information and action, not her whole state into cure. |
+| `RZ-V13-C039` | `PRESERVE` → `RZ-V14-C039` | Emilia's new first-trial success does not cancel her earlier requested beside-her/overnight support, actual objections or Subaru's unkept specific promise. |
+| `RZ-V13-C040` | `STRENGTHEN` → `RZ-V14-C040` | Custody is now resolved for the hard object while unknown older trigger causes remain bounded. |
+| `RZ-V13-C041` | `STRENGTHEN` → `RZ-V14-C041` | Shima's particular trial-derived Meyer account and sleeping body add differentiated knowledge rather than shared history. |
+| `RZ-V13-C042` | `PRESERVE` → `RZ-V14-C042` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C043` | `PRESERVE` → `RZ-V14-C043` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C044` | `PRESERVE` → `RZ-V14-C044` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C045` | `STRENGTHEN` → `RZ-V14-C045` | The Geuse factor scene adds a bounded resemblance without establishing exhaustive shared mechanics. |
+| `RZ-V13-C046` | `STRENGTHEN` → `RZ-V14-C046` | First-trial hostility is further specified by admitted biological-mother knowledge, not universal reliability. |
+| `RZ-V13-C047` | `REVISE` → `RZ-V14-C047` | Emilia actually passes first and starts second, while all remaining completion claims remain unsupported. |
+| `RZ-V13-C048` | `PRESERVE` → `RZ-V14-C048` | No new Subaru source amnesia or full disclosure supersedes his deliberate retained-memory concealment. |
+| `RZ-V13-C049` | `STRENGTHEN` → `RZ-V14-C049` | He resists Roswaal's weak-love provocation and chooses outside protection, but still risks his own body. |
+| `RZ-V13-C050` | `STRENGTHEN` → `RZ-V14-C050` | Multiple newly enacted choices and private purposes further reject sole-Subaru authorship. |
+| `RZ-V13-C051` | `REVISE` → `RZ-V14-C051` | Garfiel now gives his own ancestry account and actually arrives outside; no universal genetic rule follows. |
+| `RZ-V13-C052` | `PRESERVE` → `RZ-V14-C052` | Emilia's new first-trial success does not cancel her earlier requested beside-her/overnight support, actual objections or Subaru's unkept specific promise. |
+| `RZ-V13-C053` | `STRENGTHEN` → `RZ-V14-C053` | Public threat/abstract weapon wording adds no actual trigger receipt or retained returns. |
+| `RZ-V13-C054` | `PRESERVE` → `RZ-V14-C054` | New Puck housing/custody does not replace the siblings' represented maternal gift meaning or identify every earlier teleport trigger. |
+| `RZ-V13-C055` | `STRENGTHEN` → `RZ-V14-C055` | Current flashback family/oath gaps and new Garfiel/Frederica instruction extend rather than cure the asymmetry. |
+| `RZ-V13-C056` | `STRENGTHEN` → `RZ-V14-C056` | Individual outside arrival and distinct refugee/copy wishes further reject one collective constraint or compulsory exit. |
+| `RZ-V13-C057` | `PRESERVE` → `RZ-V14-C057` | The new other-Ryuzu audience is not independently mapped to every earlier shared-face appearance; stable named/removed-role history stands. |
+| `RZ-V13-C058` | `PRESERVE` → `RZ-V14-C058` | Individual low-mixed-blood Garfiel's exit is not the unperformed forced removal test of the older soul-left-behind account. |
+| `RZ-V13-C059` | `STRENGTHEN` → `RZ-V14-C059` | Warpaint explicitly masks continued bandages and full casting capacity is conditional, not proof fake wounds. |
+| `RZ-V13-C060` | `PRESERVE` → `RZ-V14-C060` | Current rescue contact does not provide the missing individual census, refugee-family reunion or fire explanation for older discarded cathedral/village states. |
+| `RZ-V13-C061` | `REVISE` → `RZ-V14-C061` | The announced snow becomes a specified preparation, but not an observed storm by EOF. |
+| `RZ-V13-C062` | `STRENGTHEN` → `RZ-V14-C062` | The refugees' bounded wait and Ryuzu responses are actual differentiated choices, not unanimity or endless sacrifice. |
+| `RZ-V13-C063` | `PRESERVE` → `RZ-V14-C063` | Emilia's trial progress supplies no restoration of Subaru's lost standing or retroactive full knowledge to older recipients; apostle access remains separate. |
+| `RZ-V13-C064` | `STRENGTHEN` → `RZ-V14-C064` | Explicit parallel rewind and Emilia's trial waking/reentry add no Subaru return. |
+| `RZ-V13-C065` | `PRESERVE` → `RZ-V14-C065` | The birthday anecdote and applied parental lesson supply no new real-Earth contact, school reintegration, parental receipt or cosmic no-contact law. |
+| `RZ-V13-C066` | `PRESERVE` → `RZ-V14-C066` | New help and continuing performance do not negate these specific earlier developmental changes or make them a complete cure/sole-person causation. |
+| `RZ-V13-C067` | `PRESERVE` → `RZ-V14-C067` | The birthday anecdote and applied parental lesson supply no new real-Earth contact, school reintegration, parental receipt or cosmic no-contact law. |
+| `RZ-V13-C068` | `PRESERVE` → `RZ-V14-C068` | New help and continuing performance do not negate these specific earlier developmental changes or make them a complete cure/sole-person causation. |
+| `RZ-V13-C069` | `PRESERVE` → `RZ-V14-C069` | The birthday anecdote and applied parental lesson supply no new real-Earth contact, school reintegration, parental receipt or cosmic no-contact law. |
+| `RZ-V13-C070` | `STRENGTHEN` → `RZ-V14-C070` | Childhood-derived intensifier, mother/daughter/family naming and factor-linked speech further show register is evidentially conditioned. |
+| `RZ-V13-C071` | `PRESERVE` → `RZ-V14-C071` | New help and continuing performance do not negate these specific earlier developmental changes or make them a complete cure/sole-person causation. |
+| `RZ-V13-C072` | `PRESERVE` → `RZ-V14-C072` | The birthday anecdote and applied parental lesson supply no new real-Earth contact, school reintegration, parental receipt or cosmic no-contact law. |
+| `RZ-V13-C073` | `PRESERVE` → `RZ-V14-C073` | The birthday anecdote and applied parental lesson supply no new real-Earth contact, school reintegration, parental receipt or cosmic no-contact law. |
+| `RZ-V13-C074` | `PRESERVE` → `RZ-V14-C074` | New help and continuing performance do not negate these specific earlier developmental changes or make them a complete cure/sole-person causation. |
+| `RZ-V13-C075` | `STRENGTHEN` → `RZ-V14-C075` | Meyer's real chosen life and unequal sacrificial context add a distinct difficult countercase, not the same debt as Otto's. |
+| `RZ-V13-C076` | `STRENGTHEN` → `RZ-V14-C076` | New cooperative labor and private conditions preserve partial friendship, not shared old-loop memory or unlimited assent. |
+| `RZ-V13-C077` | `REVISE` → `RZ-V14-C077` | The first trial now explicitly includes unwitnessed history by an attributed correction mechanism, not only remembered past. |
+| `RZ-V13-C078` | `STRENGTHEN` → `RZ-V14-C078` | Emilia's actual first pass adds a third person without establishing an Echidna bargain requirement. |
+| `RZ-V13-C079` | `REVISE` → `RZ-V14-C079` | The reached trial coordinate advances, not its unrevealed subject content. |
+| `RZ-V13-C080` | `REVISE` → `RZ-V14-C080` | Original Pandora editing is represented separately from Puck's later contractual lid and Subaru's chosen concealment. |
+| `RZ-V13-C081` | `REVISE` → `RZ-V14-C081` | The current first-trial result and detailed catastrophe replace the old undelivered-past boundary without completing the remedy. |
+| `RZ-V13-C082` | `PRESERVE` → `RZ-V14-C082` | No new aroma use or consent/safety test revises the older intervention. |
+| `RZ-V13-C083` | `REVISE` → `RZ-V14-C083` | The separate Oni-village admission must be added without falsely expanding the badge/Arlam chain. |
+| `RZ-V13-C084` | `STRENGTHEN` → `RZ-V14-C084` | Subaru's explicit knight self-label and villagers' Otto office-label are not formal appointment. |
+| `RZ-V13-C085` | `REVISE` → `RZ-V14-C085` | Rem is now encountered through Petra's care and assigned evacuation, not wholly unvisited in the new source. |
+| `RZ-V13-C086` | `STRENGTHEN` → `RZ-V14-C086` | New delegation and bodily-risk criticism preserve both real development and nonzero costs. |
+| `RZ-V13-C087` | `PRESERVE` → `RZ-V14-C087` | The current arrival is not acceptance of Roswaal's proposed visitor strategy or an independently predetermined answer. |
+| `RZ-V13-C088` | `STRENGTHEN` → `RZ-V14-C088` | He now acknowledges some Echidna contact while still withholding the critical mechanisms. |
+| `RZ-V13-C089` | `STRENGTHEN` → `RZ-V14-C089` | Her own trial choice develops and the new departure is interpreted separately; old apology condition is not retroactively void. |
+| `RZ-V13-C090` | `REVISE` → `RZ-V14-C090` | The two-site plan is materially enacted but remains incomplete. |
+| `RZ-V13-C091` | `STRENGTHEN` → `RZ-V14-C091` | Healing wounds differs explicitly from restoring lost resources; injured Roswaal's casting also has a timed vulnerability. |
+| `RZ-V13-C092` | `REVISE` → `RZ-V14-C092` | Otto actually meets Roswaal for the first time; the commercial outcome is still absent. |
+| `RZ-V13-C093` | `PRESERVE` → `RZ-V14-C093` | No new formal reward bargain or beneficiary assent is performed by current rescue labor. |
+| `RZ-V13-C094` | `PRESERVE` → `RZ-V14-C094` | Garfiel's later growth does not erase the prior accountability distinction, rejected marriage proposal or actual denial of Emilia's choice. |
+| `RZ-V13-C095` | `STRENGTHEN` → `RZ-V14-C095` | Actual siblings' reunion and letters add living evidence beyond the Garfiel trial proxy. |
+| `RZ-V13-C096` | `STRENGTHEN` → `RZ-V14-C096` | The held-aid crystal's next custody is identified without conflating sibling keys. |
+| `RZ-V13-C097` | `PRESERVE` → `RZ-V14-C097` | Current rescue contact does not provide the missing individual census, refugee-family reunion or fire explanation for older discarded cathedral/village states. |
+| `RZ-V13-C098` | `REVISE` → `RZ-V14-C098` | The separate post-V13 operation has fulfilled the construction trigger, not automatically advanced its source scope. |
+| `RZ-V13-C099` | `PRESERVE` → `RZ-V14-C099` | Current rescue contact does not provide the missing individual census, refugee-family reunion or fire explanation for older discarded cathedral/village states. |
+| `RZ-V13-C100` | `STRENGTHEN` → `RZ-V14-C100` | New plans name adversary dependence and divergent contributors, not perfect authorial foresight. |
+| `RZ-V13-C101` | `PRESERVE` → `RZ-V14-C101` | Meili is named in rescue planning, not newly encountered; Roswaal's separate Oni implication does not disclose her complete handler/control history. |
+| `RZ-V13-C102` | `PRESERVE` → `RZ-V14-C102` | No new Subaru death/return changes this historically identified transition; V14's explicit scene backfills are not RBD. |
+| `RZ-V13-C103` | `PRESERVE` → `RZ-V14-C103` | No source bridge admits the internal escape-family premise, spouse/child/hobby biography or exclusive current arrangement. |
+| `RZ-V13-C104` | `STRENGTHEN` → `RZ-V14-C104` | The new unit supplies actual child, household and sibling routines as well as promised future play. |
+| `RZ-V13-C105` | `STRENGTHEN` → `RZ-V14-C105` | Fortuna's explicit kinship and maternal role can be named while biological-mother identity remains unknown. |
+| `RZ-V13-C106` | `STRENGTHEN` → `RZ-V14-C106` | New supportive delegation and unilateral insistence continue to discriminate genuine change from cure or immutable incapacity. |
+| `RZ-V13-C107` | `REVISE` → `RZ-V14-C107` | Both historical artifact pairs now exist with different default horizons; neither gains V14 scope from source reading. |
+| `RZ-V13-C108` | `REVISE` → `RZ-V14-C108` | Otto's separate operation is fulfilled and Emilia's new qualitative breadth earns construction, not an existing model or Arc4 freeze. |
+| `RZ-V13-C109` | `PRESERVE` → `RZ-V14-C109` | V14's separate publication/paratext does not alter these exact V13 paratext observations or turn promotions into narrative evidence. |
+| `RZ-V13-C110` | `PRESERVE` → `RZ-V14-C110` | V14's separate publication/paratext does not alter these exact V13 paratext observations or turn promotions into narrative evidence. |
+| `RZ-V13-C111` | `STRENGTHEN` → `RZ-V14-C111` | Further abstraction and threats are heard, but not a new full death-trigger taboo test. |
+| `RZ-V13-C112` | `PRESERVE` → `RZ-V14-C112` | No new test establishes infinite quota, selectable checkpoints or guaranteed restored counterparts. |
+| `RZ-V13-C113` | `PRESERVE` → `RZ-V14-C113` | New Ryuzu/Meyer origin information does not resolve every earlier caretaker identity or retroactively make compulsory ordinary-copy treatment consensual/omniscient. |
+| `RZ-V13-C114` | `STRENGTHEN` → `RZ-V14-C114` | New finite recovery and ongoing grief reinforce non-equivalence of bodily function, emotional resolution and diagnostic claims. |
+| `RZ-V13-C115` | `PRESERVE` → `RZ-V14-C115` | No matched new scent or creature-communication test changes the prior demonstrated channels, overload or surveillance placement limits. |
+| `RZ-V13-C116` | `STRENGTHEN` → `RZ-V14-C116` | Current partial arm transformation retains thought and tactical action, not a new universal full-tiger rule. |
+| `RZ-V13-C117` | `PRESERVE` → `RZ-V14-C117` | No matched new scent or creature-communication test changes the prior demonstrated channels, overload or surveillance placement limits. |
+| `RZ-V13-C118` | `STRENGTHEN` → `RZ-V14-C118` | Secret clauses and new evacuation initiative add present choices, not inherited E015 memories. |
+| `RZ-V13-C119` | `PRESERVE` → `RZ-V14-C119` | Current rescue contact does not provide the missing individual census, refugee-family reunion or fire explanation for older discarded cathedral/village states. |
+| `RZ-V13-C120` | `REVISE` → `RZ-V14-C120` | Current Petra/Frederica/Beatrice states are now directly encountered, but total evacuation is still unrealized. |
+| `RZ-V13-C121` | `STRENGTHEN` → `RZ-V14-C121` | Core-catalyst preparation is not current Rabbit observation, whole-set extinction or fixed-day law. |
+| `RZ-V13-C122` | `PRESERVE` → `RZ-V14-C122` | V14 supplies no new Typhon/Minerva/Daphne action or executed Rabbit whole-set extinction; snow preparation alone cannot revise these bounds. |
+| `RZ-V13-C123` | `PRESERVE` → `RZ-V14-C123` | V14 supplies no new Typhon/Minerva/Daphne action or executed Rabbit whole-set extinction; snow preparation alone cannot revise these bounds. |
+| `RZ-V13-C124` | `PRESERVE` → `RZ-V14-C124` | V14 supplies no new Typhon/Minerva/Daphne action or executed Rabbit whole-set extinction; snow preparation alone cannot revise these bounds. |
+| `RZ-V13-C125` | `PRESERVE` → `RZ-V14-C125` | V14 supplies no new Typhon/Minerva/Daphne action or executed Rabbit whole-set extinction; snow preparation alone cannot revise these bounds. |
+| `RZ-V13-C126` | `PRESERVE` → `RZ-V14-C126` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C127` | `PRESERVE` → `RZ-V14-C127` | The actual dirty-cloth reunion is not another measured magical intervention and does not revise the older bounded wish effect or its price. |
+| `RZ-V13-C128` | `STRENGTHEN` → `RZ-V14-C128` | Actual new arrival and declared rescue still do not retroactively assent to prior visitor/first-priority terms. |
+| `RZ-V13-C129` | `PRESERVE` → `RZ-V14-C129` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C130` | `STRENGTHEN` → `RZ-V14-C130` | His stated inheritance theory remains an inference while other Roswaal/Ram scenes are not all heard by him. |
+| `RZ-V13-C131` | `REVISE` → `RZ-V14-C131` | Shima's particular trial-derived origin account and Roswaal's present crystal use add evidence without settling souls. |
+| `RZ-V13-C132` | `DOWNGRADE` → `RZ-V14-C132` | The old laboratory-purpose explanation is now explicitly preinstalled knowledge challenged by another bounded account. |
+| `RZ-V13-C133` | `STRENGTHEN` → `RZ-V14-C133` | New individual comfort and life-purpose response reject interchangeability without settling all wishes. |
+| `RZ-V13-C134` | `PRESERVE` → `RZ-V14-C134` | No new competing-order or compelled-sacrifice test replaces these actual selective command/refusal choices; a new origin story is not retrospective consent. |
+| `RZ-V13-C135` | `PRESERVE` → `RZ-V14-C135` | No new competing-order or compelled-sacrifice test replaces these actual selective command/refusal choices; a new origin story is not retrospective consent. |
+| `RZ-V13-C136` | `PRESERVE` → `RZ-V14-C136` | No new competing-order or compelled-sacrifice test replaces these actual selective command/refusal choices; a new origin story is not retrospective consent. |
+| `RZ-V13-C137` | `REVISE` → `RZ-V14-C137` | Shima now supplies what the trial showed and where her fragment-based knowledge ends. |
+| `RZ-V13-C138` | `PRESERVE` → `RZ-V14-C138` | The cloth reunion and current rescue do not complete the earlier requested outing or grant inherited consent across counterparts. |
+| `RZ-V13-C139` | `PRESERVE` → `RZ-V14-C139` | Current door/held-book observations supply no new open-page text or controlled correction of earlier selection, blankness or copy/readability distinctions. |
+| `RZ-V13-C140` | `STRENGTHEN` → `RZ-V14-C140` | Her current non-answer and body language prevent Subaru's fresh promise from becoming accepted rescue. |
+| `RZ-V13-C141` | `PRESERVE` → `RZ-V14-C141` | No new observed Beatrice spell outside the library changes the earlier finite Minya/protective-transfer event. |
+| `RZ-V13-C142` | `STRENGTHEN` → `RZ-V14-C142` | Current injury/recovery to standing does not amount to a new observed death/restoration test. |
+| `RZ-V13-C143` | `REVISE` → `RZ-V14-C143` | The announced schedule is now tied to a concrete catalyst plan, not completed weather or exact future law. |
+| `RZ-V13-C144` | `PRESERVE` → `RZ-V14-C144` | Those murders belong to a discarded state, not the new active Ram/Roswaal confrontation. |
+| `RZ-V13-C145` | `STRENGTHEN` → `RZ-V14-C145` | Historical A/current L and long-held teacher desire add distinctions, not a demonstrated transfer mechanism. |
+| `RZ-V13-C146` | `STRENGTHEN` → `RZ-V14-C146` | Current recovered history and own trial decision strengthen independent wishes, not inherited E017 confession. |
+| `RZ-V13-C147` | `STRENGTHEN` → `RZ-V14-C147` | Private positive lip/teeth recollection is real but is not communicated assent or old-loop memory. |
+| `RZ-V13-C148` | `STRENGTHEN` → `RZ-V14-C148` | Expanded represented history still does not bridge real counterparts or continuing worlds. |
+| `RZ-V13-C149` | `PRESERVE` → `RZ-V14-C149` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C150` | `PRESERVE` → `RZ-V14-C150` | New help and continuing performance do not negate these specific earlier developmental changes or make them a complete cure/sole-person causation. |
+| `RZ-V13-C151` | `PRESERVE` → `RZ-V14-C151` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C152` | `PRESERVE` → `RZ-V14-C152` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C153` | `PRESERVE` → `RZ-V14-C153` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C154` | `PRESERVE` → `RZ-V14-C154` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C155` | `STRENGTHEN` → `RZ-V14-C155` | The intended return now reaches Beatrice, but choice and old terms remain open. |
+| `RZ-V13-C156` | `PRESERVE` → `RZ-V14-C156` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C157` | `PRESERVE` → `RZ-V14-C157` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C158` | `PRESERVE` → `RZ-V14-C158` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C159` | `PRESERVE` → `RZ-V14-C159` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C160` | `PRESERVE` → `RZ-V14-C160` | New help and continuing performance do not negate these specific earlier developmental changes or make them a complete cure/sole-person causation. |
+| `RZ-V13-C161` | `PRESERVE` → `RZ-V14-C161` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C162` | `PRESERVE` → `RZ-V14-C162` | V14 supplies no new tea-encounter action, Satella-history corroboration or revised receipt of those Witch-side exchanges; Pandora/Hector are distinct evidence, not automatic generalization. |
+| `RZ-V13-C163` | `PRESERVE` → `RZ-V14-C163` | Emilia's trial progress supplies no restoration of Subaru's lost standing or retroactive full knowledge to older recipients; apostle access remains separate. |
+| `RZ-V13-C164` | `PRESERVE` → `RZ-V14-C164` | New transport does not replace the specific earlier Patrasche rescue, grudge or touch-boundary event or grant erased-loop memory. |
+| `RZ-V13-C165` | `PRESERVE` → `RZ-V14-C165` | V14 supplies no new controlled blessing translation, overload or borrowed-mana spell test; reins and ordinary advice do not establish unlimited magic. |
+| `RZ-V13-C166` | `STRENGTHEN` → `RZ-V14-C166` | The plan repeats his trigger expectation while the Petra frame supplies attack already underway; neither is a controlled timing law. |
+| `RZ-V13-C167` | `STRENGTHEN` → `RZ-V14-C167` | Represented A and current L provide more identity questions but no supplied transfer observation. |
+| `RZ-V13-C168` | `STRENGTHEN` → `RZ-V14-C168` | He explicitly refuses surrender and prepares further interference, so no completed wager victory follows begun intervention. |
+| `RZ-V13-C169` | `PRESERVE` → `RZ-V14-C169` | Emilia's trial progress supplies no restoration of Subaru's lost standing or retroactive full knowledge to older recipients; apostle access remains separate. |
+| `RZ-V13-C170` | `STRENGTHEN` → `RZ-V14-C170` | A new specific clairvoyant Roswaal link supplies conditions, not every old linked target or full audio. |
+| `RZ-V13-C171` | `STRENGTHEN` → `RZ-V14-C171` | The private negotiation confirms autonomous coauthorship and limited mutual knowledge. |
+| `RZ-V13-C172` | `PRESERVE` → `RZ-V14-C172` | No new competing-order or compelled-sacrifice test replaces these actual selective command/refusal choices; a new origin story is not retrospective consent. |
+| `RZ-V13-C173` | `PRESERVE` → `RZ-V14-C173` | Shima's actual fatigue corroborates finite embodiment but does not measure Alma's whole-day endurance or production process. |
+| `RZ-V13-C174` | `STRENGTHEN` → `RZ-V14-C174` | Shima's own account supplements the earlier report without identifying every shared-face audience as Alma. |
+| `RZ-V13-C175` | `STRENGTHEN` → `RZ-V14-C175` | He admits contact/advice to a different audience, not full transparency to Emilia or all listeners. |
+| `RZ-V13-C176` | `PRESERVE` → `RZ-V14-C176` | The hundred-year represented freeze context does not establish an exact birthdate, clinical mental age or capacity test. |
+| `RZ-V13-C177` | `PRESERVE` → `RZ-V14-C177` | Emilia's recovered intention and Roswaal teacher admission still do not implement a thaw or prove Subaru's complete recruitment inference. |
+| `RZ-V13-C178` | `REVISE` → `RZ-V14-C178` | The original selective edit is now represented and distinguished from later lid and trial reconstruction. |
+| `RZ-V13-C179` | `PRESERVE` → `RZ-V14-C179` | No V14 fact alters the prior untightened sleeping-neck intrusion, actual Puck frost or lack of prior informed assent. |
+| `RZ-V13-C180` | `STRENGTHEN` → `RZ-V14-C180` | Continued aid without a new Emilia contract sharpens the difference between cancellation, nonreach and informed assent. |
+| `RZ-V13-C181` | `REVISE` → `RZ-V14-C181` | Fortuna's precise role and Geuse's full name are now actually supplied inside the bounded reconstruction. |
+| `RZ-V13-C182` | `PRESERVE` → `RZ-V14-C182` | Emilia's new first-trial success does not cancel her earlier requested beside-her/overnight support, actual objections or Subaru's unkept specific promise. |
+| `RZ-V13-C183` | `STRENGTHEN` → `RZ-V14-C183` | Recovered formative promise teaching and original edit add differentiated reasons, not proof all care lies. |
+| `RZ-V13-C184` | `PRESERVE` → `RZ-V14-C184` | No matched new scent or creature-communication test changes the prior demonstrated channels, overload or surveillance placement limits. |
+| `RZ-V13-C185` | `PRESERVE` → `RZ-V14-C185` | New Ryuzu/Meyer origin information does not resolve every earlier caretaker identity or retroactively make compulsory ordinary-copy treatment consensual/omniscient. |
+| `RZ-V13-C186` | `PRESERVE` → `RZ-V14-C186` | New Ryuzu/Meyer origin information does not resolve every earlier caretaker identity or retroactively make compulsory ordinary-copy treatment consensual/omniscient. |
+| `RZ-V13-C187` | `REVISE` → `RZ-V14-C187` | Previously withheld bargaining clauses are now revealed, with private recipients and independent risk preserved. |
+| `RZ-V13-C188` | `PRESERVE` → `RZ-V14-C188` | The new Suwen-family invocation supplies no contradictory childhood timeline, absent-family demand, shared hired assassin or new receipt of Otto's private rescued-captive retrospective. |
+| `RZ-V13-C189` | `PRESERVE` → `RZ-V14-C189` | The new Suwen-family invocation supplies no contradictory childhood timeline, absent-family demand, shared hired assassin or new receipt of Otto's private rescued-captive retrospective. |
+| `RZ-V13-C190` | `PRESERVE` → `RZ-V14-C190` | The new Suwen-family invocation supplies no contradictory childhood timeline, absent-family demand, shared hired assassin or new receipt of Otto's private rescued-captive retrospective. |
+| `RZ-V13-C191` | `PRESERVE` → `RZ-V14-C191` | The new Suwen-family invocation supplies no contradictory childhood timeline, absent-family demand, shared hired assassin or new receipt of Otto's private rescued-captive retrospective. |
+| `RZ-V13-C192` | `PRESERVE` → `RZ-V14-C192` | The new Suwen-family invocation supplies no contradictory childhood timeline, absent-family demand, shared hired assassin or new receipt of Otto's private rescued-captive retrospective. |
+| `RZ-V13-C193` | `PRESERVE` → `RZ-V14-C193` | The new Suwen-family invocation supplies no contradictory childhood timeline, absent-family demand, shared hired assassin or new receipt of Otto's private rescued-captive retrospective. |
+| `RZ-V13-C194` | `STRENGTHEN` → `RZ-V14-C194` | Suwen family honor in a new negotiation adds motive without canceling gratitude or current friendship. |
+| `RZ-V13-C195` | `PRESERVE` → `RZ-V14-C195` | V14 supplies no new controlled blessing translation, overload or borrowed-mana spell test; reins and ordinary advice do not establish unlimited magic. |
+| `RZ-V13-C196` | `PRESERVE` → `RZ-V14-C196` | V14 supplies no new controlled blessing translation, overload or borrowed-mana spell test; reins and ordinary advice do not establish unlimited magic. |
+| `RZ-V13-C197` | `STRENGTHEN` → `RZ-V14-C197` | Actual moving-cart ground contact and incomplete resources add an explicit condition, not unlimited healing. |
+| `RZ-V13-C198` | `STRENGTHEN` → `RZ-V14-C198` | Current wand and bodily dependence extend the lost-horn context, not proof old fight damage vanished. |
+| `RZ-V13-C199` | `PRESERVE` → `RZ-V14-C199` | Otto's living subsequent conduct remains consistent with his already resolved survival; no retrospective death is created. |
+| `RZ-V13-C200` | `STRENGTHEN` → `RZ-V14-C200` | The new narrative explicitly confirms wound healing while distinguishing unrecovered resources. |
+| `RZ-V13-C201` | `STRENGTHEN` → `RZ-V14-C201` | Positive private recollection adds affect but not revised witnessed assent wording. |
+| `RZ-V13-C202` | `PRESERVE` → `RZ-V14-C202` | The birthday anecdote and applied parental lesson supply no new real-Earth contact, school reintegration, parental receipt or cosmic no-contact law. |
+| `RZ-V13-C203` | `PRESERVE` → `RZ-V14-C203` | Actual sister reunion and Garfiel's changed action do not cancel the specific earlier limited conjecture, trial reconstruction, mother's unknown fate or past self-injury. |
+| `RZ-V13-C204` | `PRESERVE` → `RZ-V14-C204` | Actual sister reunion and Garfiel's changed action do not cancel the specific earlier limited conjecture, trial reconstruction, mother's unknown fate or past self-injury. |
+| `RZ-V13-C205` | `PRESERVE` → `RZ-V14-C205` | Actual sister reunion and Garfiel's changed action do not cancel the specific earlier limited conjecture, trial reconstruction, mother's unknown fate or past self-injury. |
+| `RZ-V13-C206` | `PRESERVE` → `RZ-V14-C206` | Actual sister reunion and Garfiel's changed action do not cancel the specific earlier limited conjecture, trial reconstruction, mother's unknown fate or past self-injury. |
+| `RZ-V13-C207` | `PRESERVE` → `RZ-V14-C207` | New Puck housing/custody does not replace the siblings' represented maternal gift meaning or identify every earlier teleport trigger. |
+| `RZ-V13-C208` | `STRENGTHEN` → `RZ-V14-C208` | Actual sister is now encountered but still gives no independent maternal-fate testimony in the supplied exchange. |
+| `RZ-V13-C209` | `PRESERVE` → `RZ-V14-C209` | Garfiel's later growth does not erase the prior accountability distinction, rejected marriage proposal or actual denial of Emilia's choice. |
+| `RZ-V13-C210` | `PRESERVE` → `RZ-V14-C210` | The new Puck manifestation/Geuse resemblance does not replace the exact earlier mana drain or costly one-fist observation with universal power limits. |
+| `RZ-V13-C211` | `PRESERVE` → `RZ-V14-C211` | The new Puck manifestation/Geuse resemblance does not replace the exact earlier mana drain or costly one-fist observation with universal power limits. |
+| `RZ-V13-C212` | `PRESERVE` → `RZ-V14-C212` | New transport does not replace the specific earlier Patrasche rescue, grudge or touch-boundary event or grant erased-loop memory. |
+| `RZ-V13-C213` | `REVISE` → `RZ-V14-C213` | Individual followership is enacted outside and Emilia's first result advances, not collective liberation. |
+| `RZ-V13-C214` | `STRENGTHEN` → `RZ-V14-C214` | Actual wall grief and private gratitude do not supply an oral repair of the old promise. |
+| `RZ-V13-C215` | `REVISE` → `RZ-V14-C215` | The hostility gains an admitted mother connection, still without literal Witch genealogy. |
+| `RZ-V13-C216` | `REVISE` → `RZ-V14-C216` | The intervening separately published operation fulfills the old construction trigger; new source does not extend its grade. |
+
+## V18 V14-to-V15 transition
+
+### V14-to-V15 transition
+
+V15's source-facing freeze §13 adjudicates every predecessor individually. The same cumulative routes follow; no earlier freeze is rewritten.
+
+| predecessor → current | disposition | individual reason | V15 discriminator / inherited evidence |
+|---|---|---|---|
+| `RZ-V14-C001` → `RZ-V15-C001` | `REVISE` | Living E018 reaches month-later accepted knighthood and reader-only Omega coda; no new Subaru death/return. | V14 §12 C001 ancestry; V15-B08, V15-B10, V15-B17, V15-B39, V15-B44 |
+| `RZ-V14-C002` → `RZ-V15-C002` | `PRESERVE` | V10's opening remains one rejoined event; no new evidence reclassifies the historical transition. | V14 §12 C002 ancestry; No new test; exact earlier locus retained in V14 §12 C002 |
+| `RZ-V14-C003` → `RZ-V15-C003` | `PRESERVE` | Earlier dream injury/repair, tea waking and collapse retain their non-return status. | V14 §12 C003 ancestry; No new test; exact earlier locus retained in V14 §12 C003 |
+| `RZ-V14-C004` → `RZ-V15-C004` | `REVISE` | Replace current-unit consumption record with actual V15 45/3995/3974T/21I/20resources coverage; keep V14 history. | V14 §12 C004 ancestry; V15 §1 actual-consumption record |
+| `RZ-V14-C005` → `RZ-V15-C005` | `STRENGTHEN` | Gate remains destroyed; spirit-mediated casting is an explicitly different interface, not repair. | V14 §12 C005 ancestry; V15-B29, V15-B30, V15-B37 |
+| `RZ-V14-C006` → `RZ-V15-C006` | `PRESERVE` | No actual Wilhelm/Theresia encounter resolves his older wound or lineage uncertainty. | V14 §12 C006 ancestry; No new test; exact earlier locus retained in V14 §12 C006 |
+| `RZ-V14-C007` → `RZ-V15-C007` | `PRESERVE` | No new Ferris resuscitation or generally usable revival is demonstrated. | V14 §12 C007 ancestry; No new test; exact earlier locus retained in V14 §12 C007 |
+| `RZ-V14-C008` → `RZ-V15-C008` | `PRESERVE` | No current Crusch encounter, new autobiography or changed friendship terms. | V14 §12 C008 ancestry; No new test; exact earlier locus retained in V14 §12 C008 |
+| `RZ-V14-C009` → `RZ-V15-C009` | `PRESERVE` | New soul-transfer evidence does not validate Crusch's ethical maxim as mechanics. | V14 §12 C009 ancestry; No new test; exact earlier locus retained in V14 §12 C009 |
+| `RZ-V14-C010` → `RZ-V15-C010` | `STRENGTHEN` | Patrasche actually returns the living mansion cohort and participates in accountability; no erased memory. | V14 §12 C010 ancestry; V15-B03, V15-B22, V15-B35 |
+| `RZ-V14-C011` → `RZ-V15-C011` | `STRENGTHEN` | Mutual help succeeds while self-denigration, coercive persuasion and actual fear remain. | V14 §12 C011 ancestry; V15-B05, V15-B26, V15-B27, V15-B29, V15-B31, V15-B42 |
+| `RZ-V14-C012` → `RZ-V15-C012` | `REVISE` | Emilia now communicates happiness and kiss concern, but has not reciprocally confessed romance or retroactively settled assent. | V14 §12 C012 ancestry; V15-B38, V15-B42 |
+| `RZ-V14-C013` → `RZ-V15-C013` | `REVISE` | Emilia completes all trials and local liberation; Elior villagers' viability/thaw and origin disclosure to Subaru remain unverified. | V14 §12 C013 ancestry; V15-B07, V15-B08, V15-B10, V15-B11, V15-B12, V15-B31, V15-B42 |
+| `RZ-V14-C014` → `RZ-V15-C014` | `STRENGTHEN` | Ram attends sleeping Rem through ceremony despite expressly missing memories. | V14 §12 C014 ancestry; V15-B03, V15-B06, V15-B36, V15-B39 |
+| `RZ-V14-C015` → `RZ-V15-C015` | `STRENGTHEN` | Group briefing and corpse comparisons are limited receipts; death trigger/full RBD and private tea stay undisclosed. | V14 §12 C015 ancestry; V15-B13, V15-B18, V15-B32, V15-B38, V15-B40, V15-B41, V15-B42, V15-B44, V15-B45 |
+| `RZ-V14-C016` → `RZ-V15-C016` | `REVISE` | Frederica completes room extraction and protection, saves Meili and returns with surviving cohort. | V14 §12 C016 ancestry; V15-B03, V15-B15, V15-B17, V15-B35 |
+| `RZ-V14-C017` → `RZ-V15-C017` | `PRESERVE` | Professional help and new family reunion do not remove older personal/intimate boundaries. | V14 §12 C017 ancestry; No new test; exact earlier locus retained in V14 §12 C017 |
+| `RZ-V14-C018` → `RZ-V15-C018` | `STRENGTHEN` | Practical dancing, sculpting, food, clothes and support work add competence domains without universal expertise. | V14 §12 C018 ancestry; V15-B06, V15-B14, V15-B43 |
+| `RZ-V14-C019` → `RZ-V15-C019` | `STRENGTHEN` | Petra's protection, escort, moral refusal and new friendship do not awaken Rem or restore her history. | V14 §12 C019 ancestry; V15-B03, V15-B06, V15-B36, V15-B39 |
+| `RZ-V14-C020` → `RZ-V15-C020` | `PRESERVE` | No old decoy-meeting or Rem autobiography is restored. | V14 §12 C020 ancestry; No new test; exact earlier locus retained in V14 §12 C020 |
+| `RZ-V14-C021` → `RZ-V15-C021` | `PRESERVE` | No exhaustive new possession census revises the old material-erasure inspection. | V14 §12 C021 ancestry; No new test; exact earlier locus retained in V14 §12 C021 |
+| `RZ-V14-C022` → `RZ-V15-C022` | `REVISE` | Rem is visibly extracted, safely escorted and ceremonially seated but remains sleeping/unresponsive. | V14 §12 C022 ancestry; V15-B03, V15-B06, V15-B36, V15-B39 |
+| `RZ-V14-C023` → `RZ-V15-C023` | `PRESERVE` | The older Ram/Rem private meeting remains Subaru-retained rather than reenacted mutual history. | V14 §12 C023 ancestry; No new test; exact earlier locus retained in V14 §12 C023 |
+| `RZ-V14-C024` → `RZ-V15-C024` | `REVISE` | Mother's actual farewell/limited waiting-role definition and enacted new Subaru contract are now supplied. | V14 §12 C024 ancestry; V15-B01, V15-B02, V15-B24, V15-B25, V15-B27, V15-B28 |
+| `RZ-V14-C025` → `RZ-V15-C025` | `STRENGTHEN` | Repeated open-door search and shrinking candidates corroborate local selection limit; doorless warp is distinct. | V14 §12 C025 ancestry; V15-B01, V15-B02, V15-B26, V15-B27, V15-B28 |
+| `RZ-V14-C026` → `RZ-V15-C026` | `STRENGTHEN` | Current opened blank pages and Beatrice-owned past show waiting without continuous fresh instructions. | V14 §12 C026 ancestry; V15-B01, V15-B02, V15-B24, V15-B25, V15-B27, V15-B28 |
+| `RZ-V14-C027` → `RZ-V15-C027` | `REVISE` | Creator calls the two books imperfect analyses/copies of Wisdom Authority; blankness, script and degraded Gospel stay distinct. | V14 §12 C027 ancestry; V15-B01, V15-B02, V15-B24, V15-B25, V15-B27, V15-B28 |
+| `RZ-V14-C028` → `RZ-V15-C028` | `STRENGTHEN` | Beatrice learns/compares the dream-corpse anomaly, not the full private tea/RBD/factor account. | V14 §12 C028 ancestry; V15-B13, V15-B18, V15-B32, V15-B38, V15-B40, V15-B41, V15-B42, V15-B44, V15-B45 |
+| `RZ-V14-C029` → `RZ-V15-C029` | `REVISE` | Repeated enacted refusals precede selected companionship and actual hand/contract, with coercion retained. | V14 §12 C029 ancestry; V15-B01, V15-B02, V15-B26, V15-B27, V15-B28 |
+| `RZ-V14-C030` → `RZ-V15-C030` | `REVISE` | Doorless ejection, escape, short warp and Al Shamak are spatial and finite; reserve depletion blocks universal rescue service. | V14 §12 C030 ancestry; V15-B29, V15-B30, V15-B37 |
+| `RZ-V14-C031` → `RZ-V15-C031` | `STRENGTHEN` | A new after-party room promise explicitly says not to break it this time; old overnight apology is still not delivered. | V14 §12 C031 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C032` → `RZ-V15-C032` | `REVISE` | Otto burns commercial oil, demands repayment and negotiates concessions; no completed sale/wage or death-order follows. | V14 §12 C032 ancestry; V15-B05, V15-B06, V15-B29, V15-B35, V15-B43 |
+| `RZ-V14-C033` → `RZ-V15-C033` | `STRENGTHEN` | Petra acts with practical, moral and social agency under adult care without adult romance or invulnerability. | V14 §12 C033 ancestry; V15-B06, V15-B14, V15-B43 |
+| `RZ-V14-C034` → `RZ-V15-C034` | `PRESERVE` | No new measured cloth wish/anti-Witch effect changes the older bounded intervention. | V14 §12 C034 ancestry; No new test; exact earlier locus retained in V14 §12 C034 |
+| `RZ-V14-C035` → `RZ-V15-C035` | `PRESERVE` | Frederica's original personal oath is not disclosed by Roswaal's separate new curse mark. | V14 §12 C035 ancestry; No new test; exact earlier locus retained in V14 §12 C035 |
+| `RZ-V14-C036` → `RZ-V15-C036` | `REVISE` | Earlier protection now leads to completed Rem extraction and chosen rear-guard/rescue, not betrayal. | V14 §12 C036 ancestry; V15-B03, V15-B15, V15-B17, V15-B35 |
+| `RZ-V14-C037` → `RZ-V15-C037` | `REVISE` | Uncontracted Puck expends aid and sleeps in a fragment returned to Emilia; no renewed contract or soul death. | V14 §12 C037 ancestry; V15-B18, V15-B22 |
+| `RZ-V14-C038` → `RZ-V15-C038` | `REVISE` | Emilia's second/third passes, reflection, choices and leadership occur with grief and finite control, not cure. | V14 §12 C038 ancestry; V15-B07, V15-B08, V15-B10, V15-B11, V15-B12, V15-B31, V15-B42 |
+| `RZ-V14-C039` → `RZ-V15-C039` | `REVISE` | She requests a new room discussion and receives support, while actual origin telling and old overnight apology remain pending. | V14 §12 C039 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C040` → `RZ-V15-C040` | `REVISE` | The blue Puck stone is retrospectively linked across Garf/Ram/current fragment custody; older sibling and transfer causes stay distinct. | V14 §12 C040 ancestry; V15-B18, V15-B22 |
+| `RZ-V14-C041` → `RZ-V15-C041` | `REVISE` | Shima's disappearance and reader-only gradual soul-domination/Omega evidence qualify the cast's loss model without merging copies. | V14 §12 C041 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C042` → `RZ-V15-C042` | `PRESERVE` | No new evidence revives a necessary one-at-a-time Witch substitution theory. | V14 §12 C042 ancestry; No new test; exact earlier locus retained in V14 §12 C042 |
+| `RZ-V14-C043` → `RZ-V15-C043` | `PRESERVE` | Subaru's refused formal bargain/waking remain historical; no new tea or disclosure immunity. | V14 §12 C043 ancestry; No new test; exact earlier locus retained in V14 §12 C043 |
+| `RZ-V14-C044` → `RZ-V15-C044` | `PRESERVE` | No new Satella/Envy identity or claimed past is independently corroborated. | V14 §12 C044 ancestry; No new test; exact earlier locus retained in V14 §12 C044 |
+| `RZ-V14-C045` → `RZ-V15-C045` | `PRESERVE` | No new invisible-fist use, proven origin or general Authority taxonomy. | V14 §12 C045 ancestry; No new test; exact earlier locus retained in V14 §12 C045 |
+| `RZ-V14-C046` → `RZ-V15-C046` | `REVISE` | Echidna's near-tears hostility, contingent future report and corpse/dream anomaly require identity and reliability boundaries. | V14 §12 C046 ancestry; V15-B08, V15-B10, V15-B11, V15-B13, V15-B24, V15-B44, V15-B45 |
+| `RZ-V14-C047` → `RZ-V15-C047` | `REVISE` | Emilia actually completes second/third; formula and crystal-key closure are separate required stages. | V14 §12 C047 ancestry; V15-B07, V15-B08, V15-B10, V15-B11, V15-B12, V15-B31, V15-B42 |
+| `RZ-V14-C048` → `RZ-V15-C048` | `STRENGTHEN` | Deliberate retained-memory withholding persists; Roswaal explicitly knows redo but not death. | V14 §12 C048 ancestry; V15-B13, V15-B18, V15-B32, V15-B38, V15-B40, V15-B41, V15-B42, V15-B44, V15-B45 |
+| `RZ-V14-C049` → `RZ-V15-C049` | `REVISE` | Garf's willed beast form, tactical limits, first-kill unease and continuing anger resist universal cure. | V14 §12 C049 ancestry; V15-B14, V15-B15, V15-B16, V15-B17, V15-B35 |
+| `RZ-V14-C050` → `RZ-V15-C050` | `STRENGTHEN` | Completed rescue is distributed and Subaru lacks private trial, Ram/Puck and Shima/Omega facts. | V14 §12 C050 ancestry; V15-B05, V15-B26, V15-B27, V15-B29, V15-B31, V15-B42 |
+| `RZ-V14-C051` → `RZ-V15-C051` | `REVISE` | Individual low-mixed-blood exit precedes collective two-site release and Omega vessel exit; ancestry claims remain attributed. | V14 §12 C051 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C052` → `RZ-V15-C052` | `STRENGTHEN` | Emilia requests shared burden and accepts a task with a proposed alternative, rather than unasked self-sacrifice. | V14 §12 C052 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C053` → `RZ-V15-C053` | `REVISE` | Roswaal explicitly lacks death-trigger knowledge yet privately threatens burn-and-self-sanction if anyone is lost. | V14 §12 C053 ancestry; V15-B13, V15-B18, V15-B32, V15-B38, V15-B40, V15-B41, V15-B42, V15-B44, V15-B45 |
+| `RZ-V14-C054` → `RZ-V15-C054` | `STRENGTHEN` | Stone custody and current access uses broaden without proving old teleport causes or canceling family-gift meaning. | V14 §12 C054 ancestry; V15-B03, V15-B22, V15-B35 |
+| `RZ-V14-C055` → `RZ-V15-C055` | `STRENGTHEN` | Ram's current care for sleeping Rem explicitly coexists with lost remembered history. | V14 §12 C055 ancestry; V15-B03, V15-B06, V15-B36, V15-B39 |
+| `RZ-V14-C056` → `RZ-V15-C056` | `REVISE` | Collective release, key cost and temporary copy command differ from individual exit and wishes. | V14 §12 C056 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C057` → `RZ-V15-C057` | `STRENGTHEN` | Alma/Bilma/Delma are again named; shared face never identifies every historical appearance. | V14 §12 C057 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C058` → `RZ-V15-C058` | `PRESERVE` | No forced extraction before barrier shutdown tests the old soul-left-behind claim. | V14 §12 C058 ancestry; No new test; exact earlier locus retained in V14 §12 C058 |
+| `RZ-V14-C059` → `RZ-V15-C059` | `REVISE` | Real wounds coexist with triple-to-five casting; a weather channel prevents sixth; makeup removal/restoration is presentation. | V14 §12 C059 ancestry; V15-B18, V15-B19, V15-B20, V15-B21, V15-B22, V15-B29, V15-B30 |
+| `RZ-V14-C060` → `RZ-V15-C060` | `PRESERVE` | Current survivors do not fill the older discarded cathedral/village individual-fate census. | V14 §12 C060 ancestry; No new test; exact earlier locus retained in V14 §12 C060 |
+| `RZ-V14-C061` → `RZ-V15-C061` | `REVISE` | Preinscribed weather actually produces blizzard/Rabbit attraction despite book burning; no longer merely intended. | V14 §12 C061 ancestry; V15-B18, V15-B19, V15-B20, V15-B21, V15-B22, V15-B29, V15-B30 |
+| `RZ-V14-C062` → `RZ-V15-C062` | `STRENGTHEN` | Voluntary Arlam waiting and openly ambivalent Sanctuary support demonstrate differentiated, nonunanimous will. | V14 §12 C062 ancestry; V15-B09, V15-B12, V15-B23, V15-B31 |
+| `RZ-V14-C063` → `RZ-V15-C063` | `REVISE` | Subaru's trial standing is not restored; shutdown removes the practical system rather than retroactively qualifying him. | V14 §12 C063 ancestry; V15-B07, V15-B08, V15-B10, V15-B11, V15-B12, V15-B31, V15-B42 |
+| `RZ-V14-C064` → `RZ-V15-C064` | `STRENGTHEN` | New trial leap/waking, focal retelling and spatial moves are not new Subaru returns. | V14 §12 C064 ancestry; V15-B08, V15-B10, V15-B17, V15-B39, V15-B44 |
+| `RZ-V14-C065` → `RZ-V15-C065` | `STRENGTHEN` | New maternal anecdote and parents' ceremonial invocation supply no present Earth-parent contact or receipt. | V14 §12 C065 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C066` → `RZ-V15-C066` | `STRENGTHEN` | New trust coexists with audience-conditioned fearful bravado and costly intrusion. | V14 §12 C066 ancestry; V15-B05, V15-B26, V15-B27, V15-B29, V15-B31, V15-B42 |
+| `RZ-V14-C067` → `RZ-V15-C067` | `PRESERVE` | No new school reintegration revises remembered truancy/persona history. | V14 §12 C067 ancestry; No new test; exact earlier locus retained in V14 §12 C067 |
+| `RZ-V14-C068` → `RZ-V15-C068` | `STRENGTHEN` | He rejects Emilia's sacrificial option, while she challenges his own worst-burden entitlement. | V14 §12 C068 ancestry; V15-B05, V15-B26, V15-B27, V15-B29, V15-B31, V15-B42 |
+| `RZ-V14-C069` → `RZ-V15-C069` | `PRESERVE` | The father's remembered fallibility remains bounded rather than fresh ideal parenting. | V14 §12 C069 ancestry; No new test; exact earlier locus retained in V14 §12 C069 |
+| `RZ-V14-C070` → `RZ-V15-C070` | `STRENGTHEN` | Chosen-name/sono-hito, private watashi-to-boku and promise/curse distinctions add exact register responsibility. | V14 §12 C070 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C071` → `RZ-V15-C071` | `STRENGTHEN` | Distributed present aid and remembered parental/Rem care retain multiple, distinct recovery sources. | V14 §12 C071 ancestry; V15-B05, V15-B26, V15-B27, V15-B29, V15-B31, V15-B42 |
+| `RZ-V14-C072` → `RZ-V15-C072` | `PRESERVE` | No demonstrated cosmic contact ban or new Earth contact. | V14 §12 C072 ancestry; No new test; exact earlier locus retained in V14 §12 C072 |
+| `RZ-V14-C073` → `RZ-V15-C073` | `PRESERVE` | No new cloth habit cause replaces remembered maternal care. | V14 §12 C073 ancestry; No new test; exact earlier locus retained in V14 §12 C073 |
+| `RZ-V14-C074` → `RZ-V15-C074` | `STRENGTHEN` | Ending-over-origin principle is reapplied before promised disclosure without proving all lessons mastered. | V14 §12 C074 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C075` → `RZ-V15-C075` | `STRENGTHEN` | Library coercion, required key and patronage dependency keep autonomy limits visible in successful care. | V14 §12 C075 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C076` → `RZ-V15-C076` | `STRENGTHEN` | Otto's cost, escort and negotiation remain chosen and bounded; E015 history is not mutual. | V14 §12 C076 ancestry; V15-B05, V15-B06, V15-B29, V15-B35, V15-B43 |
+| `RZ-V14-C077` → `RZ-V15-C077` | `PRESERVE` | New constructed futures do not independently validate or refute the first-trial Book-correction explanation. | V14 §12 C077 ancestry; No new test; exact earlier locus retained in V14 §12 C077 |
+| `RZ-V14-C078` → `RZ-V15-C078` | `REVISE` | Emilia finishes remaining trials without the rejected formal Witch bargain; passing still differs from physical core closure. | V14 §12 C078 ancestry; V15-B07, V15-B08, V15-B10, V15-B11, V15-B12, V15-B31, V15-B42 |
+| `RZ-V14-C079` → `RZ-V15-C079` | `REVISE` | Emilia's impossible present and contingent future are now shown, not the same content as Subaru's second trial. | V14 §12 C079 ancestry; V15-B07, V15-B08, V15-B10, V15-B11, V15-B12, V15-B31, V15-B42 |
+| `RZ-V14-C080` → `RZ-V15-C080` | `REVISE` | Roswaal's admitted contract interference adds a distinct absence cause, not a total replacement of memory-edit/lid sources. | V14 §12 C080 ancestry; V15-B18, V15-B22 |
+| `RZ-V14-C081` → `RZ-V15-C081` | `REVISE` | All-trial development and new political ideal remain distinct from an enacted Elior thaw or full disclosed biography. | V14 §12 C081 ancestry; V15-B07, V15-B08, V15-B10, V15-B11, V15-B12, V15-B31, V15-B42 |
+| `RZ-V14-C082` → `RZ-V15-C082` | `PRESERVE` | No new aroma intervention tests old consent/safety uncertainty. | V14 §12 C082 ancestry; No new test; exact earlier locus retained in V14 §12 C082 |
+| `RZ-V14-C083` → `RZ-V15-C083` | `REVISE` | Roswaal admits both Elsa commissions and Beatrice-only current target; Meili's two attacks remain separately commissioned/unknown. | V14 §12 C083 ancestry; V15-B04, V15-B15, V15-B17, V15-B41 |
+| `RZ-V14-C084` → `RZ-V15-C084` | `REVISE` | Formal accepted Emilia-knight ceremony now occurs; Otto wage and reciprocal romance remain unestablished. | V14 §12 C084 ancestry; V15-B12, V15-B23, V15-B28, V15-B30, V15-B34, V15-B35, V15-B36, V15-B39 |
+| `RZ-V14-C085` → `RZ-V15-C085` | `REVISE` | Rem moves safely to cabin/Sanctuary/ceremony while sleeping; current family feeling is not restored autobiography. | V14 §12 C085 ancestry; V15-B03, V15-B06, V15-B36, V15-B39 |
+| `RZ-V14-C086` → `RZ-V15-C086` | `STRENGTHEN` | Cooperative victory retains costs and persuasion pressure, not disposable lives or costlessness. | V14 §12 C086 ancestry; V15-B05, V15-B26, V15-B27, V15-B29, V15-B31, V15-B42 |
+| `RZ-V14-C087` → `RZ-V15-C087` | `REVISE` | Subaru rejects the designated-person identity and Beatrice explicitly chooses him rather than relabeling him. | V14 §12 C087 ancestry; V15-B01, V15-B02, V15-B24, V15-B25, V15-B27, V15-B28 |
+| `RZ-V14-C088` → `RZ-V15-C088` | `STRENGTHEN` | Briefings, body comparison and tactical facts do not equal full RBD/private-tea/own-trial receipt. | V14 §12 C088 ancestry; V15-B13, V15-B18, V15-B32, V15-B38, V15-B40, V15-B41, V15-B42, V15-B44, V15-B45 |
+| `RZ-V14-C089` → `RZ-V15-C089` | `STRENGTHEN` | Renewed support and promise retain the old breach, rather than supplying an unshown apology. | V14 §12 C089 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C090` → `RZ-V15-C090` | `REVISE` | Rescues, local liberation and accepted wager defeat occur; future trust, full accountability and all mysteries do not close. | V14 §12 C090 ancestry; V15-B12, V15-B23, V15-B28, V15-B30, V15-B34, V15-B35, V15-B36, V15-B39 |
+| `RZ-V14-C091` → `RZ-V15-C091` | `REVISE` | Finite costs now include spent Beatrice reserve, Puck dormancy and Roswaal's maintained weather channel; the gate stays broken. | V14 §12 C091 ancestry; V15-B29, V15-B30, V15-B37 |
+| `RZ-V14-C092` → `RZ-V15-C092` | `REVISE` | Commercial oil is actually consumed, not sold; repayment demanded but no payment or payroll demonstrated. | V14 §12 C092 ancestry; V15-B05, V15-B06, V15-B29, V15-B35, V15-B43 |
+| `RZ-V14-C093` → `RZ-V15-C093` | `STRENGTHEN` | Formal knight status is enacted for political credit before a future capital ceremony; old bargains do not transfer assent. | V14 §12 C093 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C094` → `RZ-V15-C094` | `PRESERVE` | Garfiel's growth does not erase his earlier denial of Emilia's choice or accountability for superseded violence. | V14 §12 C094 ancestry; No new test; exact earlier locus retained in V14 §12 C094 |
+| `RZ-V14-C095` → `RZ-V15-C095` | `STRENGTHEN` | Outside sibling cooperation and reunion develop without settling their parents' whole fates. | V14 §12 C095 ancestry; V15-B03, V15-B15, V15-B17, V15-B35 |
+| `RZ-V14-C096` → `RZ-V15-C096` | `REVISE` | Puck's fragment reaches Emilia, but Otto's stolen Garfiel key and Frederica's stone are not merged. | V14 §12 C096 ancestry; V15-B03, V15-B22, V15-B35 |
+| `RZ-V14-C097` → `RZ-V15-C097` | `PRESERVE` | New safe evacuation does not retrospectively supply the old state-bound family reunion. | V14 §12 C097 ancestry; No new test; exact earlier locus retained in V14 §12 C097 |
+| `RZ-V14-C098` → `RZ-V15-C098` | `STRENGTHEN` | Otto's autonomous commercial, care and negotiation actions broaden evidence without extending his V13 model/review grade. | V14 §12 C098 ancestry; V15-B05, V15-B06, V15-B29, V15-B35, V15-B43 |
+| `RZ-V14-C099` → `RZ-V15-C099` | `PRESERVE` | Current survivors do not complete E013/E014/E015's missing-person censuses. | V14 §12 C099 ancestry; No new test; exact earlier locus retained in V14 §12 C099 |
+| `RZ-V14-C100` → `RZ-V15-C100` | `STRENGTHEN` | Failed science, independent rear guards and private negotiations further refute Subaru's perfect control/foresight. | V14 §12 C100 ancestry; V15-B05, V15-B26, V15-B27, V15-B29, V15-B31, V15-B42 |
+| `RZ-V14-C101` → `RZ-V15-C101` | `REVISE` | Meili is actually encountered, commands beasts and invokes Mama, then is captured; her separate client remains unidentified. | V14 §12 C101 ancestry; V15-B04, V15-B15, V15-B17, V15-B41 |
+| `RZ-V14-C102` → `RZ-V15-C102` | `PRESERVE` | Historical deaths16/17 and interrupted nonfatal attempts are not changed by V15. | V14 §12 C102 ancestry; No new test; exact earlier locus retained in V14 §12 C102 |
+| `RZ-V14-C103` → `RZ-V15-C103` | `PRESERVE` | Neither ideal trial family nor mistaken pregnancy supplies an actual current spouse, child or imported IF biography. | V14 §12 C103 ancestry; No new test; exact earlier locus retained in V14 §12 C103 |
+| `RZ-V14-C104` → `RZ-V15-C104` | `STRENGTHEN` | Actual reading preference, dancing, snow sculpture, food and etiquette broaden ordinary evidence; trial picnic and promises stay marked. | V14 §12 C104 ancestry; V15-B06, V15-B14, V15-B43 |
+| `RZ-V14-C105` → `RZ-V15-C105` | `REVISE` | Formal knighthood now occurs; chosen father/brother language does not name biological parents or settle romance. | V14 §12 C105 ancestry; V15-B07, V15-B08, V15-B12, V15-B19, V15-B23, V15-B27, V15-B28, V15-B30, V15-B31, V15-B34, V15-B35, V15-B36, V15-B39, V15-B42 |
+| `RZ-V14-C106` → `RZ-V15-C106` | `REVISE` | The new novice-contractor/accepted-knight phase combines reciprocal help with continuing concealment, fear and promise liability. | V14 §12 C106 ancestry; V15-B05, V15-B26, V15-B27, V15-B29, V15-B31, V15-B42 |
+| `RZ-V14-C107` → `RZ-V15-C107` | `REVISE` | All three historical model/review pairs now exist and retain exact old defaults; V15 needs new reconciliation and cannot inherit their grades. | V14 §12 C107 ancestry; V15 §15 readiness/scope review |
+| `RZ-V14-C108` → `RZ-V15-C108` | `REVISE` | Five owners remain sufficient; source-verified Arc04 checkpoint is now earned after V15 freeze, with new readiness separately adjudicated. | V14 §12 C108 ancestry; V15 §15 readiness/scope review |
+| `RZ-V14-C109` → `RZ-V15-C109` | `PRESERVE` | The exact V13 afterword did not certify its own completed Arc4; V15 supplies a later distinct closing assertion. | V14 §12 C109 ancestry; No new test; exact earlier locus retained in V14 §12 C109 |
+| `RZ-V14-C110` → `RZ-V15-C110` | `PRESERVE` | The exact older paratext/June2017 colophon observation stays historical, not replaced by V15's December colophon. | V14 §12 C110 ancestry; No new test; exact earlier locus retained in V14 §12 C110 |
+| `RZ-V14-C111` → `RZ-V15-C111` | `STRENGTHEN` | Private redo discussion again explicitly lacks death-trigger knowledge; no safe full-disclosure test occurs. | V14 §12 C111 ancestry; V15-B13, V15-B18, V15-B32, V15-B38, V15-B40, V15-B41, V15-B42, V15-B44, V15-B45 |
+| `RZ-V14-C112` → `RZ-V15-C112` | `PRESERVE` | No new death/return test proves infinite quota, selectable checkpoints or guaranteed restoration. | V14 §12 C112 ancestry; No new test; exact earlier locus retained in V14 §12 C112 |
+| `RZ-V14-C113` → `RZ-V15-C113` | `REVISE` | New Shima/Omega soul-domination evidence qualifies caretaker agency while leaving old individual body identifications unresolved. | V14 §12 C113 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C114` → `RZ-V15-C114` | `STRENGTHEN` | Healed wounds and successful rescue coexist with grief, depleted resources and persistent gate loss. | V14 §12 C114 ancestry; V15-B29, V15-B30, V15-B37 |
+| `RZ-V14-C115` → `RZ-V15-C115` | `PRESERVE` | New miasma narration does not retest the old Shima-to-Garfiel scent channel or prove infallible detection. | V14 §12 C115 ancestry; No new test; exact earlier locus retained in V14 §12 C115 |
+| `RZ-V14-C116` → `RZ-V15-C116` | `REVISE` | Willed full-beast combat and first-current-human-kill unease are new; older speaking/healing and discarded murders remain state-bound. | V14 §12 C116 ancestry; V15-B14, V15-B15, V15-B16, V15-B17, V15-B35 |
+| `RZ-V14-C117` → `RZ-V15-C117` | `STRENGTHEN` | Copy-assisted search and Otto's qualified mabeast-communication account add evidence without omniscience. | V14 §12 C117 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C118` → `RZ-V15-C118` | `STRENGTHEN` | Fresh mutual friendship supports completed escort and autonomous negotiation, not E015 memory or blanket risk consent. | V14 §12 C118 ancestry; V15-B05, V15-B06, V15-B29, V15-B35, V15-B43 |
+| `RZ-V14-C119` → `RZ-V15-C119` | `PRESERVE` | Old sacrifice and inferred cathedral self-destruction remain distinct from the current joined safe gathering. | V14 §12 C119 ancestry; No new test; exact earlier locus retained in V14 §12 C119 |
+| `RZ-V14-C120` → `RZ-V15-C120` | `REVISE` | Main mansion cohort actually escapes/reunites; property/library losses and old discarded censuses remain separate. | V14 §12 C120 ancestry; V15-B03, V15-B06, V15-B36, V15-B39 |
+| `RZ-V14-C121` → `RZ-V15-C121` | `REVISE` | Current blizzard and Rabbit arrival are enacted, then the local whole swarm is displaced rather than biologically extinguished. | V14 §12 C121 ancestry; V15-B18, V15-B19, V15-B20, V15-B21, V15-B22, V15-B29, V15-B30 |
+| `RZ-V14-C122` → `RZ-V15-C122` | `PRESERVE` | No new Typhon moral judgment calibrates her earlier actions; name mention alone adds no such test. | V14 §12 C122 ancestry; No new test; exact earlier locus retained in V14 §12 C122 |
+| `RZ-V14-C123` → `RZ-V15-C123` | `PRESERVE` | No new demonstrated Minerva healing or indirect-cost test changes her earlier bounded effects. | V14 §12 C123 ancestry; No new test; exact earlier locus retained in V14 §12 C123 |
+| `RZ-V14-C124` → `RZ-V15-C124` | `PRESERVE` | Daphne's earlier behavior remains; the new party's countermeasure is not her negotiated benevolent plan. | V14 §12 C124 ancestry; No new test; exact earlier locus retained in V14 §12 C124 |
+| `RZ-V14-C125` → `RZ-V15-C125` | `REVISE` | A whole gathered swarm is actually confined/displaced; cap/shared-consciousness theory is not a proven exact universal count. | V14 §12 C125 ancestry; V15-B18, V15-B19, V15-B20, V15-B21, V15-B22, V15-B29, V15-B30 |
+| `RZ-V14-C126` → `RZ-V15-C126` | `PRESERVE` | The earlier Subaru dream-release sequence stays distinct from Emilia's new exit; no universal invitation/time law is tested. | V14 §12 C126 ancestry; No new test; exact earlier locus retained in V14 §12 C126 |
+| `RZ-V14-C127` → `RZ-V15-C127` | `PRESERVE` | No new cloth-wish price or unlimited-foresight test changes the earlier intervention. | V14 §12 C127 ancestry; No new test; exact earlier locus retained in V14 §12 C127 |
+| `RZ-V14-C128` → `RZ-V15-C128` | `REVISE` | Beatrice now chooses Subaru as her first, not herself as his exclusive first or a predetermined visitor. | V14 §12 C128 ancestry; V15-B01, V15-B02, V15-B24, V15-B25, V15-B27, V15-B28 |
+| `RZ-V14-C129` → `RZ-V15-C129` | `PRESERVE` | No new direct Satella/Envy past, identity or possession law. | V14 §12 C129 ancestry; No new test; exact earlier locus retained in V14 §12 C129 |
+| `RZ-V14-C130` → `RZ-V15-C130` | `REVISE` | Subaru receives living-teacher objective and dual-Elsa confession; full private descendant-transfer procedure and book text are not automatically his knowledge. | V14 §12 C130 ancestry; V15-B13, V15-B18, V15-B32, V15-B38, V15-B40, V15-B41, V15-B42, V15-B44, V15-B45 |
+| `RZ-V14-C131` → `RZ-V15-C131` | `REVISE` | Meyer's crystal mediates actual snow and two-part shutdown, then disappears; Omega coda qualifies body/soul fate, not a complete Pseudo-Od law. | V14 §12 C131 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C132` → `RZ-V15-C132` | `REVISE` | Descendant-inhabiting Roswaal and the Omega composite show bounded successful workarounds, not wholly failed research or universal immortality. | V14 §12 C132 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C133` → `RZ-V15-C133` | `REVISE` | Representative care and personal choice persist, but covert gradual soul domination qualifies an unproblematized Shima agency model. | V14 §12 C133 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C134` → `RZ-V15-C134` | `STRENGTHEN` | Emilia gains temporary copy command; no matched competing-order priority or exhaustive apostle-acquisition test. | V14 §12 C134 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C135` → `RZ-V15-C135` | `PRESERVE` | Subaru's older refusal of compelled Alma truth remains a particular choice, not a universal noncoercion claim. | V14 §12 C135 ancestry; No new test; exact earlier locus retained in V14 §12 C135 |
+| `RZ-V14-C136` → `RZ-V15-C136` | `STRENGTHEN` | New role-dependent copy command and future-welfare promise do not make old commanded sacrifice voluntary. | V14 §12 C136 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C137` → `RZ-V15-C137` | `REVISE` | Beatrice's own post-core recollection extends the old ending, while the coda reveals soul seeding through Shima's tomb entry. | V14 §12 C137 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C138` → `RZ-V15-C138` | `PRESERVE` | The earlier requested Subaru/Petra outing is not shown fulfilled by new rescue or Petra/Beatrice dancing. | V14 §12 C138 ancestry; No new test; exact earlier locus retained in V14 §12 C138 |
+| `RZ-V14-C139` → `RZ-V15-C139` | `STRENGTHEN` | Current blank pages and successful chosen departure disconfirm treating her blankness inference as a certain death forecast. | V14 §12 C139 ancestry; V15-B01, V15-B02, V15-B24, V15-B25, V15-B27, V15-B28 |
+| `RZ-V14-C140` → `RZ-V15-C140` | `REVISE` | Repeated refusal eventually changes to a selected finite bond and actual extraction, not acceptance of the original first-priority terms. | V14 §12 C140 ancestry; V15-B01, V15-B02, V15-B24, V15-B25, V15-B27, V15-B28 |
+| `RZ-V14-C141` → `RZ-V15-C141` | `REVISE` | New outside Minya/warp/Al Shamak demonstrate power from finite stored mana, followed by explicit depletion. | V14 §12 C141 ancestry; V15-B29, V15-B30, V15-B37 |
+| `RZ-V14-C142` → `RZ-V15-C142` | `REVISE` | Elsa's regeneration, crushed moving remnant and final backdraft destruction qualify death/return and fixed-life-count assumptions. | V14 §12 C142 ancestry; V15-B16 |
+| `RZ-V14-C143` → `RZ-V15-C143` | `REVISE` | Preinscribed sustained weather actually matures despite book burning; current rescue and wager outcomes are supplied. | V14 §12 C143 ancestry; V15-B18, V15-B19, V15-B20, V15-B21, V15-B22, V15-B29, V15-B30 |
+| `RZ-V14-C144` → `RZ-V15-C144` | `STRENGTHEN` | Current nonfatal Ram fire injury and living Garfiel remain distinct from their earlier discarded deaths. | V14 §12 C144 ancestry; V15-B08, V15-B10, V15-B17, V15-B39, V15-B44 |
+| `RZ-V14-C145` → `RZ-V15-C145` | `REVISE` | Roswaal explicitly reveals descendant-soul transfer to Beatrice and narration corroborates it; no death-trigger or cross-return memory follows. | V14 §12 C145 ancestry; V15-B25, V15-B32, V15-B40 |
+| `RZ-V14-C146` → `RZ-V15-C146` | `STRENGTHEN` | E018 Emilia's glad response and accepted knight role add mutual trust without importing E017 dependence/confession. | V14 §12 C146 ancestry; V15-B38, V15-B42 |
+| `RZ-V14-C147` → `RZ-V15-C147` | `REVISE` | Positive kiss response becomes communicated, but old terminal history, retrospective assent and full romance terms do not. | V14 §12 C147 ancestry; V15-B38, V15-B42 |
+| `RZ-V14-C148` → `RZ-V15-C148` | `STRENGTHEN` | Emilia's ideal present/contingent futures change her without proving realized timelines or original-family contact. | V14 §12 C148 ancestry; V15-B08, V15-B10, V15-B17, V15-B39, V15-B44 |
+| `RZ-V14-C149` → `RZ-V15-C149` | `PRESERVE` | No new Carmilla identity/attention experiment or proof that all Witches share her effect. | V14 §12 C149 ancestry; No new test; exact earlier locus retained in V14 §12 C149 |
+| `RZ-V14-C150` → `RZ-V15-C150` | `STRENGTHEN` | Further reciprocal help and the new Beatrice bond defeat a crisis-only exclusive-care model without waking Rem or curing Subaru. | V14 §12 C150 ancestry; V15-B05, V15-B26, V15-B27, V15-B29, V15-B31, V15-B42 |
+| `RZ-V14-C151` → `RZ-V15-C151` | `PRESERVE` | The new spirit contract is not acceptance of Echidna's earlier refused formal soul-link bargain. | V14 §12 C151 ancestry; No new test; exact earlier locus retained in V14 §12 C151 |
+| `RZ-V14-C152` → `RZ-V15-C152` | `PRESERVE` | The empty later tea setting and unnamed guide do not revise the earlier bounded seven-Witch conflict or establish ranks. | V14 §12 C152 ancestry; No new test; exact earlier locus retained in V14 §12 C152 |
+| `RZ-V14-C153` → `RZ-V15-C153` | `STRENGTHEN` | New comfort/secrecy and covert escape retain differentiated Witch values rather than a common benevolent ethic. | V14 §12 C153 ancestry; V15-B08, V15-B10, V15-B11, V15-B13, V15-B24, V15-B44, V15-B45 |
+| `RZ-V14-C154` → `RZ-V15-C154` | `PRESERVE` | No new evidence proves the old offered short path optimal or turns its refused price into accepted consent. | V14 §12 C154 ancestry; No new test; exact earlier locus retained in V14 §12 C154 |
+| `RZ-V14-C155` → `RZ-V15-C155` | `REVISE` | Beatrice's own farewell and chosen Subaru contract are supplied without confirming a predetermined visitor. | V14 §12 C155 ancestry; V15-B01, V15-B02, V15-B24, V15-B25, V15-B27, V15-B28 |
+| `RZ-V14-C156` → `RZ-V15-C156` | `PRESERVE` | The earlier Satella meeting did not itself close Arc4; the later V15 afterword is a separate actual boundary. | V14 §12 C156 ancestry; No new test; exact earlier locus retained in V14 §12 C156 |
+| `RZ-V14-C157` → `RZ-V15-C157` | `PRESERVE` | New fictional soul phenomena do not diagnose real DID or generalize the attributed incompatible-factor explanation. | V14 §12 C157 ancestry; No new test; exact earlier locus retained in V14 §12 C157 |
+| `RZ-V14-C158` → `RZ-V15-C158` | `PRESERVE` | New miasma imagery does not corroborate Satella's claimed prior shared biography or a mutual past vow. | V14 §12 C158 ancestry; No new test; exact earlier locus retained in V14 §12 C158 |
+| `RZ-V14-C159` → `RZ-V15-C159` | `PRESERVE` | The historical dream-local tongue bite and conflicting Witch priorities remain nonfatal and nonunanimous. | V14 §12 C159 ancestry; No new test; exact earlier locus retained in V14 §12 C159 |
+| `RZ-V14-C160` → `RZ-V15-C160` | `STRENGTHEN` | Subaru acts to live and asks for help, while risky pressure and possible future RBD prevent a permanent-cure/no-return-vow claim. | V14 §12 C160 ancestry; V15-B05, V15-B26, V15-B27, V15-B29, V15-B31, V15-B42 |
+| `RZ-V14-C161` → `RZ-V15-C161` | `PRESERVE` | Satella's requested future killing and Subaru's saving intention remain distinct and unperformed. | V14 §12 C161 ancestry; No new test; exact earlier locus retained in V14 §12 C161 |
+| `RZ-V14-C162` → `RZ-V15-C162` | `PRESERVE` | No evidence grants Subaru every older Witch-side aside or a full causal account of familiar voices. | V14 §12 C162 ancestry; No new test; exact earlier locus retained in V14 §12 C162 |
+| `RZ-V14-C163` → `RZ-V15-C163` | `REVISE` | Tomb-system shutdown permits later access without restoring Subaru's earlier revoked trial standing. | V14 §12 C163 ancestry; V15-B07, V15-B08, V15-B10, V15-B11, V15-B12, V15-B31, V15-B42 |
+| `RZ-V14-C164` → `RZ-V15-C164` | `PRESERVE` | New cart transport does not identify every earlier unexplained external waker. | V14 §12 C164 ancestry; No new test; exact earlier locus retained in V14 §12 C164 |
+| `RZ-V14-C165` → `RZ-V15-C165` | `STRENGTHEN` | Otto's qualified most-mabeasts-eat-threat account preserves interpretation rather than exact/universal translation. | V14 §12 C165 ancestry; V15-B05, V15-B06, V15-B29, V15-B35, V15-B43 |
+| `RZ-V14-C166` → `RZ-V15-C166` | `STRENGTHEN` | Separate assassin commissioning and continuous focal backfill reinforce that the arrival plan is not a universal trigger/clock. | V14 §12 C166 ancestry; V15-B04, V15-B15, V15-B17, V15-B41 |
+| `RZ-V14-C167` → `RZ-V15-C167` | `REVISE` | Descendant-body soul continuity supersedes mere inherited-longing theory, while full immortality and cross-return memory remain unproved. | V14 §12 C167 ancestry; V15-B25, V15-B32, V15-B40 |
+| `RZ-V14-C168` → `RZ-V15-C168` | `REVISE` | Roswaal loses the wager and book, shows his mark and makes a new oath; effects remain stated sanctions, not guaranteed action prevention. | V14 §12 C168 ancestry; V15-B12, V15-B23, V15-B28, V15-B30, V15-B34, V15-B35, V15-B36, V15-B39 |
+| `RZ-V14-C169` → `RZ-V15-C169` | `PRESERVE` | No reissued Subaru qualification is performed; later shutdown is a different event. | V14 §12 C169 ancestry; No new test; exact earlier locus retained in V14 §12 C169 |
+| `RZ-V14-C170` → `RZ-V15-C170` | `STRENGTHEN` | Ram actually uses Roswaal-attuned sight for the concealed strike, not mind reading or full RBD knowledge. | V14 §12 C170 ancestry; V15-B19, V15-B20, V15-B21 |
+| `RZ-V14-C171` → `RZ-V15-C171` | `STRENGTHEN` | New material cost and negotiation reinforce Otto's independent coauthorship without retroactively changing his earlier confidential knowledge. | V14 §12 C171 ancestry; V15-B05, V15-B06, V15-B29, V15-B35, V15-B43 |
+| `RZ-V14-C172` → `RZ-V15-C172` | `PRESERVE` | Barrier release is not a completed civil-registration/citizenship act or retrospective removal of the earlier force asymmetry. | V14 §12 C172 ancestry; No new test; exact earlier locus retained in V14 §12 C172 |
+| `RZ-V14-C173` → `RZ-V15-C173` | `PRESERVE` | No measured Alma whole-day endurance/manufacture test; Omega's different composite body cannot supply it. | V14 §12 C173 ancestry; No new test; exact earlier locus retained in V14 §12 C173 |
+| `RZ-V14-C174` → `RZ-V15-C174` | `REVISE` | The ten-year tomb-entry/removal account gains regret, Garfiel companionship and reader-only soul seeding; representatives remain distinct. | V14 §12 C174 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C175` → `RZ-V15-C175` | `REVISE` | Origin sharing is newly promised after the ceremony but not performed; private trial/tea sources remain concealed. | V14 §12 C175 ancestry; V15-B13, V15-B18, V15-B32, V15-B38, V15-B40, V15-B41, V15-B42, V15-B44, V15-B45 |
+| `RZ-V14-C176` → `RZ-V15-C176` | `STRENGTHEN` | Body-reflection history and Roswaal's Annerose comparison do not yield an exact birthday, clinical mental age or capacity test. | V14 §12 C176 ancestry; V15-B07, V15-B08, V15-B10, V15-B11, V15-B12, V15-B31, V15-B42 |
+| `RZ-V14-C177` → `RZ-V15-C177` | `REVISE` | Inclusive present ideals and practical patronage needs broaden Emilia's goal; Elior thaw and Subaru's recruitment-only hypothesis remain unproved. | V14 §12 C177 ancestry; V15-B07, V15-B08, V15-B10, V15-B11, V15-B12, V15-B31, V15-B42 |
+| `RZ-V14-C178` → `RZ-V15-C178` | `STRENGTHEN` | New Puck/Roswaal explanations retain distinct memory-edit/lid/interference sources rather than a universal trial-amnesia rule. | V14 §12 C178 ancestry; V15-B07, V15-B08, V15-B10, V15-B11, V15-B12, V15-B31, V15-B42 |
+| `RZ-V14-C179` → `RZ-V15-C179` | `PRESERVE` | Later gratitude does not change the untightened sleeping-neck intrusion or supply earlier informed assent. | V14 §12 C179 ancestry; No new test; exact earlier locus retained in V14 §12 C179 |
+| `RZ-V14-C180` → `RZ-V15-C180` | `REVISE` | Emilia now receives Puck's dormant fragment and limited aid account, but no recontract or awake conversation. | V14 §12 C180 ancestry; V15-B18, V15-B22 |
+| `RZ-V14-C181` → `RZ-V15-C181` | `STRENGTHEN` | Chosen father/brother language preserves foster-vs-biological identity and the still-unperformed full origin disclosure to Subaru. | V14 §12 C181 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C182` → `RZ-V15-C182` | `STRENGTHEN` | A new not-this-time promise retains the importance of her earlier specific overnight request. | V14 §12 C182 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C183` → `RZ-V15-C183` | `STRENGTHEN` | Actual help and communicated affection coexist with distinct concealments and an unrepaired old promise, not universally false affection. | V14 §12 C183 ancestry; V15-B38, V15-B42 |
+| `RZ-V14-C184` → `RZ-V15-C184` | `REVISE` | Covert Shima soul control qualifies independence of her social classification, without proving every earlier scent report a lie. | V14 §12 C184 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C185` → `RZ-V15-C185` | `STRENGTHEN` | Emilia's promise of lives beyond copy roles supplies a contrasting valuation, not proof artificial persons have no interests. | V14 §12 C185 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C186` → `RZ-V15-C186` | `STRENGTHEN` | Copy-assisted current search again uses an embodied placement network rather than unrestricted surveillance. | V14 §12 C186 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C187` → `RZ-V15-C187` | `PRESERVE` | The exact three historical Ram/Otto clauses and Otto's earlier knowledge remain unchanged; no new full retroactive briefing is invented. | V14 §12 C187 ancestry; No new test; exact earlier locus retained in V14 §12 C187 |
+| `RZ-V14-C188` → `RZ-V15-C188` | `PRESERVE` | No new childhood developmental timing revises Otto's written-communication history. | V14 §12 C188 ancestry; No new test; exact earlier locus retained in V14 §12 C188 |
+| `RZ-V14-C189` → `RZ-V15-C189` | `PRESERVE` | No new parental-history evidence or clinical diagnosis is supplied. | V14 §12 C189 ancestry; No new test; exact earlier locus retained in V14 §12 C189 |
+| `RZ-V14-C190` → `RZ-V15-C190` | `PRESERVE` | No new evidence changes the brother/choice/insect-demonstration causal distinction. | V14 §12 C190 ancestry; No new test; exact earlier locus retained in V14 §12 C190 |
+| `RZ-V14-C191` → `RZ-V15-C191` | `PRESERVE` | Roswaal's Elsa admission does not identify Otto's unrelated childhood hired pursuer. | V14 §12 C191 ancestry; No new test; exact earlier locus retained in V14 §12 C191 |
+| `RZ-V14-C192` → `RZ-V15-C192` | `PRESERVE` | Commercial sacrifice does not turn Otto's remembered family/dragon attachment into an imposed family repayment demand. | V14 §12 C192 ancestry; No new test; exact earlier locus retained in V14 §12 C192 |
+| `RZ-V14-C193` → `RZ-V15-C193` | `PRESERVE` | No new receipt gives Subaru Otto's private Ricardo-rescue interior retrospective or makes third birth literal. | V14 §12 C193 ancestry; No new test; exact earlier locus retained in V14 §12 C193 |
+| `RZ-V14-C194` → `RZ-V15-C194` | `STRENGTHEN` | Autonomous escort, oil loss and concrete concessions keep plural care/friend/commercial motives distinct from paid obedience. | V14 §12 C194 ancestry; V15-B05, V15-B06, V15-B29, V15-B35, V15-B43 |
+| `RZ-V14-C195` → `RZ-V15-C195` | `PRESERVE` | No new overload, unlimited comprehension or permanent injury test changes the old bounded blessing cost. | V14 §12 C195 ancestry; No new test; exact earlier locus retained in V14 §12 C195 |
+| `RZ-V14-C196` → `RZ-V15-C196` | `STRENGTHEN` | Ordinary sound/scent spells add a separate technique without making earlier shared-mana Al Dona an omnipotent blessing. | V14 §12 C196 ancestry; V15-B05, V15-B06, V15-B29, V15-B35, V15-B43 |
+| `RZ-V14-C197` → `RZ-V15-C197` | `REVISE` | Ground recovery and near-reach alteration are demonstrated with an explicitly false sight-range bluff and continuing wound/resource costs. | V14 §12 C197 ancestry; V15-B14, V15-B15, V15-B16, V15-B17, V15-B35 |
+| `RZ-V14-C198` → `RZ-V15-C198` | `REVISE` | New under-two-second incomplete Oni activation, maintenance infusion and Beatrice's burn treatment are distinct finite interventions. | V14 §12 C198 ancestry; V15-B18, V15-B19, V15-B20, V15-B21, V15-B22, V15-B29, V15-B30 |
+| `RZ-V14-C199` → `RZ-V15-C199` | `PRESERVE` | Otto's resolved living survival remains; no retrospective death is created from the earlier ironic phrase. | V14 §12 C199 ancestry; No new test; exact earlier locus retained in V14 §12 C199 |
+| `RZ-V14-C200` → `RZ-V15-C200` | `STRENGTHEN` | New powerful but partly uncontrolled casting and receding self-ice fit bounded competence, not total incapacity or universal mastery. | V14 §12 C200 ancestry; V15-B07, V15-B08, V15-B10, V15-B11, V15-B12, V15-B31, V15-B42 |
+| `RZ-V14-C201` → `RZ-V15-C201` | `REVISE` | Emilia's positive response is now communicated, but the earlier warning/wait/uncertain assent is not retroactively replaced. | V14 §12 C201 ancestry; V15-B38, V15-B42 |
+| `RZ-V14-C202` → `RZ-V15-C202` | `STRENGTHEN` | The parental principle is reapplied at the ceremony and before promised disclosure, not a new Earth reply or complete mastery. | V14 §12 C202 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C203` → `RZ-V15-C203` | `PRESERVE` | No new full Garfiel-mother truth or shared Subaru trial cancels the earlier admitted conjecture. | V14 §12 C203 ancestry; No new test; exact earlier locus retained in V14 §12 C203 |
+| `RZ-V14-C204` → `RZ-V15-C204` | `STRENGTHEN` | Willed bloodline use shows development beyond old self-rejection without proving the mother's actual motive/fate. | V14 §12 C204 ancestry; V15-B14, V15-B15, V15-B16, V15-B17, V15-B35 |
+| `RZ-V14-C205` → `RZ-V15-C205` | `PRESERVE` | Later real reunion does not turn the earlier Frederica trial proxy into a changed historical event. | V14 §12 C205 ancestry; No new test; exact earlier locus retained in V14 §12 C205 |
+| `RZ-V14-C206` → `RZ-V15-C206` | `PRESERVE` | The earlier scar/self-injury remains a narrated past fact, not new fatality or diagnosis. | V14 §12 C206 ancestry; No new test; exact earlier locus retained in V14 §12 C206 |
+| `RZ-V14-C207` → `RZ-V15-C207` | `PRESERVE` | New functional crystal custody does not replace the original maternal gift meaning or prove its original purpose was office. | V14 §12 C207 ancestry; No new test; exact earlier locus retained in V14 §12 C207 |
+| `RZ-V14-C208` → `RZ-V15-C208` | `PRESERVE` | Current sibling cooperation still does not verify what Frederica actually knew of the mother's fate. | V14 §12 C208 ancestry; No new test; exact earlier locus retained in V14 §12 C208 |
+| `RZ-V14-C209` → `RZ-V15-C209` | `STRENGTHEN` | Ram's explicit present love for Roswaal adds negative control against granting Garfiel a mutually accepted marriage. | V14 §12 C209 ancestry; V15-B14, V15-B15, V15-B16, V15-B17, V15-B35 |
+| `RZ-V14-C210` → `RZ-V15-C210` | `PRESERVE` | New Puck aid does not alter the exact older drain-assisted brawl or supply all its undelivered pact terms. | V14 §12 C210 ancestry; No new test; exact earlier locus retained in V14 §12 C210 |
+| `RZ-V14-C211` → `RZ-V15-C211` | `PRESERVE` | New spirit casting is not another invisible-fist strike or proof of costless inherited full powers. | V14 §12 C211 ancestry; No new test; exact earlier locus retained in V14 §12 C211 |
+| `RZ-V14-C212` → `RZ-V15-C212` | `STRENGTHEN` | Current transport and Roswaal-accountability charge retain Patrasche's agency without erased-loop revenge or romance. | V14 §12 C212 ancestry; V15-B03, V15-B22, V15-B35 |
+| `RZ-V14-C213` → `RZ-V15-C213` | `REVISE` | Differentiated agency now achieves two-site barrier shutdown and defense, without displacing Emilia's leadership. | V14 §12 C213 ancestry; V15-B07, V15-B08, V15-B10, V15-B11, V15-B12, V15-B31, V15-B42 |
+| `RZ-V14-C214` → `RZ-V15-C214` | `STRENGTHEN` | Continued wall-based encouragement and a new not-this-time promise do not supply the missing old spoken apology. | V14 §12 C214 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C215` → `RZ-V15-C215` | `REVISE` | All-trial success, Echidna's near-tears hatred and an unnamed guide's maternal knowledge broaden evidence but do not name parentage. | V14 §12 C215 ancestry; V15-B07, V15-B08, V15-B10, V15-B11, V15-B12, V15-B13, V15-B24, V15-B31, V15-B42, V15-B44, V15-B45 |
+| `RZ-V14-C216` → `RZ-V15-C216` | `PRESERVE` | Otto's exact V13 model/default/review stay unchanged; neither V15 breadth nor another model extends its grade. | V14 §12 C216 ancestry; No new test; exact earlier locus retained in V14 §12 C216 |
+| `RZ-V14-C217` → `RZ-V15-C217` | `STRENGTHEN` | The deliberately impossible adult family picnic preserves lived foster motherhood without becoming historical adult domestic biography. | V14 §12 C217 ancestry; V15-B07, V15-B08, V15-B10, V15-B31 |
+| `RZ-V14-C218` → `RZ-V15-C218` | `STRENGTHEN` | New family, help and party registers retain relationally learned sugooku, not merely a fixed cute tic. | V14 §12 C218 ancestry; V15-B07, V15-B08, V15-B10, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C219` → `RZ-V15-C219` | `STRENGTHEN` | The newly enacted promise and explicit reminder retain maternal trust teaching without erasing earlier concealment/breach. | V14 §12 C219 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C220` → `RZ-V15-C220` | `PRESERVE` | No new test dates the beginning of Pandora's microspirit steering or makes every earlier helper her plot. | V14 §12 C220 ancestry; No new test; exact earlier locus retained in V14 §12 C220 |
+| `RZ-V14-C221` → `RZ-V15-C221` | `STRENGTHEN` | Jeuse's chosen father role does not merge Cult factions or identify Meili's separate employer. | V14 §12 C221 ancestry; V15-B07, V15-B08, V15-B10, V15-B31 |
+| `RZ-V14-C222` → `RZ-V15-C222` | `PRESERVE` | No new factor-ingestion test or Flugel identification replaces the old incompatible-cost scene. | V14 §12 C222 ancestry; No new test; exact earlier locus retained in V14 §12 C222 |
+| `RZ-V14-C223` → `RZ-V15-C223` | `PRESERVE` | No new Regulus attack, wife census or consent demonstration changes the bounded boasts. | V14 §12 C223 ancestry; No new test; exact earlier locus retained in V14 §12 C223 |
+| `RZ-V14-C224` → `RZ-V15-C224` | `STRENGTHEN` | The second trial explicitly offers an impossible parent-like future, not an actual marriage/paternity contract. | V14 §12 C224 ancestry; V15-B07, V15-B08, V15-B10, V15-B31 |
+| `RZ-V14-C225` → `RZ-V15-C225` | `STRENGTHEN` | Archi's later trial representation is expressly not a surviving original or newly witnessed corpse census. | V14 §12 C225 ancestry; V15-B07, V15-B08, V15-B10, V15-B31 |
+| `RZ-V14-C226` → `RZ-V15-C226` | `PRESERVE` | New spatial magic/future representations do not generalize Pandora's selective alteration into a universal reset. | V14 §12 C226 ancestry; No new test; exact earlier locus retained in V14 §12 C226 |
+| `RZ-V14-C227` → `RZ-V15-C227` | `PRESERVE` | No new source makes Pandora's earlier coercive love/respect procedure benevolent or freely consenting. | V14 §12 C227 ancestry; No new test; exact earlier locus retained in V14 §12 C227 |
+| `RZ-V14-C228` → `RZ-V15-C228` | `PRESERVE` | Elior's seal stays unopened/unseen; Sanctuary-core closure is a different object and mechanism. | V14 §12 C228 ancestry; No new test; exact earlier locus retained in V14 §12 C228 |
+| `RZ-V14-C229` → `RZ-V15-C229` | `PRESERVE` | No new forced-opening test establishes an absolute metaphysical free-consent requirement. | V14 §12 C229 ancestry; No new test; exact earlier locus retained in V14 §12 C229 |
+| `RZ-V14-C230` → `RZ-V15-C230` | `PRESERVE` | Ideal Jeuse fatherhood does not erase the actual represented misidentification/strike or prove deliberate murder. | V14 §12 C230 ancestry; No new test; exact earlier locus retained in V14 §12 C230 |
+| `RZ-V14-C231` → `RZ-V15-C231` | `STRENGTHEN` | The explicitly impossible living-Fortuna future does not undo her farewell or demonstrate resurrection by tears. | V14 §12 C231 ancestry; V15-B07, V15-B08, V15-B10, V15-B31 |
+| `RZ-V14-C232` → `RZ-V15-C232` | `STRENGTHEN` | Current self-icing under excessive magic supports bounded control, not deliberate mass freezing or total mastery. | V14 §12 C232 ancestry; V15-B07, V15-B08, V15-B10, V15-B31 |
+| `RZ-V14-C233` → `RZ-V15-C233` | `PRESERVE` | New contract interference does not overwrite the distinct original Pandora edit, later lid and current recovery. | V14 §12 C233 ancestry; No new test; exact earlier locus retained in V14 §12 C233 |
+| `RZ-V14-C234` → `RZ-V15-C234` | `PRESERVE` | No new event opens Elior's seal, reveals payload or establishes physical door removal. | V14 §12 C234 ancestry; No new test; exact earlier locus retained in V14 §12 C234 |
+| `RZ-V14-C235` → `RZ-V15-C235` | `STRENGTHEN` | A new unnamed guide also claims maternal knowledge; no mother's name, Witch parentage or exhaustive identity follows. | V14 §12 C235 ancestry; V15-B08, V15-B10, V15-B11, V15-B13, V15-B24, V15-B44, V15-B45 |
+| `RZ-V14-C236` → `RZ-V15-C236` | `REVISE` | Speech contrasts now accompany a different corpse face and explicit soul-fragment escape; the complete past/dream/Omega identity mapping remains unresolved. | V14 §12 C236 ancestry; V15-B08, V15-B10, V15-B11, V15-B13, V15-B24, V15-B44, V15-B45 |
+| `RZ-V14-C237` → `RZ-V15-C237` | `STRENGTHEN` | Beatrice's own remembered loss corroborates a real ordinary friendship, without making the old prank harmless or lessons completed. | V14 §12 C237 ancestry; V15-B24, V15-B25, V15-B27, V15-B32, V15-B44 |
+| `RZ-V14-C238` → `RZ-V15-C238` | `REVISE` | The earlier sixteen-year-old A and six-attribute talent remain historical; descendant soul-continuity is now explicitly disclosed. | V14 §12 C238 ancestry; V15-B25, V15-B32, V15-B40 |
+| `RZ-V14-C239` → `RZ-V15-C239` | `REVISE` | Refuge, compatible core, failed empty-vessel research and the later workaround coexist; no exhaustive single-purpose camouflage theory. | V14 §12 C239 ancestry; V15-B24, V15-B25, V15-B27, V15-B32, V15-B44 |
+| `RZ-V14-C240` → `RZ-V15-C240` | `PRESERVE` | Later exploitation of the body does not retrospectively replace Meyer's particular constrained choice with either perfect freedom or zero agency. | V14 §12 C240 ancestry; No new test; exact earlier locus retained in V14 §12 C240 |
+| `RZ-V14-C241` → `RZ-V15-C241` | `STRENGTHEN` | Beatrice's own remembered regret reinforces her uninformed opposition, without proving every proposed alternative feasible. | V14 §12 C241 ancestry; V15-B24, V15-B25, V15-B27, V15-B32, V15-B44 |
+| `RZ-V14-C242` → `RZ-V15-C242` | `STRENGTHEN` | Her own sleeve-release recollection corroborates attachment; promised literacy/sweets still do not prove completed lessons or spirit metabolism. | V14 §12 C242 ancestry; V15-B24, V15-B25, V15-B27, V15-B32, V15-B44 |
+| `RZ-V14-C243` → `RZ-V15-C243` | `REVISE` | New post-core history supplies held-off assault and A's later debility/death; Hector's final fate and a full roster remain unverified. | V14 §12 C243 ancestry; V15-B24, V15-B25, V15-B27, V15-B32, V15-B44 |
+| `RZ-V14-C244` → `RZ-V15-C244` | `REVISE` | Emilia later receives limited copy/core explanations, not automatically the full earlier Shima narrative; Omega remains reader-only. | V14 §12 C244 ancestry; V15-B13, V15-B18, V15-B32, V15-B38, V15-B40, V15-B41, V15-B42, V15-B44, V15-B45 |
+| `RZ-V14-C245` → `RZ-V15-C245` | `REVISE` | Earlier sleep was nonfatal; current ritual disappearance and the covert coda newly qualify the cast's sacrifice model and others' agency. | V14 §12 C245 ancestry; V15-B12, V15-B23, V15-B25, V15-B44, V15-B45 |
+| `RZ-V14-C246` → `RZ-V15-C246` | `STRENGTHEN` | Further represented family comfort and Subaru's future promise to listen do not make his old overgeneralization omniscient. | V14 §12 C246 ancestry; V15-B07, V15-B08, V15-B19, V15-B27, V15-B31, V15-B34, V15-B39, V15-B42 |
+| `RZ-V14-C247` → `RZ-V15-C247` | `STRENGTHEN` | Independent defense and continued objections to Roswaal deepen autonomous growth, not absolute followership or erased earlier state-bound harm. | V14 §12 C247 ancestry; V15-B14, V15-B15, V15-B16, V15-B17, V15-B35 |
+| `RZ-V14-C248` → `RZ-V15-C248` | `REVISE` | Named Milde's voluntary wait, mixed support, shelter and safe defense are enacted; full later convoy/family/compensation census is not supplied. | V14 §12 C248 ancestry; V15-B09, V15-B12, V15-B23, V15-B31 |
+| `RZ-V14-C249` → `RZ-V15-C249` | `REVISE` | Ram's actual love disclosure, book-burning and Emilia's living rescue turn the misread petition into action without curing Roswaal. | V14 §12 C249 ancestry; V15-B19, V15-B20, V15-B21 |
+| `RZ-V14-C250` → `RZ-V15-C250` | `STRENGTHEN` | Subsequent practical care does not make the earlier attack bait proof that any nonlethal injury would lose the wager. | V14 §12 C250 ancestry; V15-B18, V15-B19, V15-B20, V15-B21, V15-B22, V15-B29, V15-B30 |
+| `RZ-V14-C251` → `RZ-V15-C251` | `REVISE` | Roswaal now receives and denies Ram's changed love, then wounds/sustains her; old revenge and present motive stay distinct. | V14 §12 C251 ancestry; V15-B19, V15-B20, V15-B21 |
+| `RZ-V14-C252` → `RZ-V15-C252` | `REVISE` | Book burning and preinscribed channel-maintained snow are now actual; no complete text or restored guide is obtained. | V14 §12 C252 ancestry; V15-B18, V15-B19, V15-B20, V15-B21, V15-B22, V15-B29, V15-B30 |
+| `RZ-V14-C253` → `RZ-V15-C253` | `STRENGTHEN` | Petra's repellent use, escort, friendship and explicit nonforgiveness add agency without making her fearless-Subaru ideal objective. | V14 §12 C253 ancestry; V15-B06, V15-B14, V15-B43 |
+| `RZ-V14-C254` → `RZ-V15-C254` | `STRENGTHEN` | Roswaal's later Beatrice-only order disclosure reinforces that target omission never guaranteed Rem's safety or identified Meili's orders. | V14 §12 C254 ancestry; V15-B04, V15-B15, V15-B17, V15-B41 |
+| `RZ-V14-C255` → `RZ-V15-C255` | `STRENGTHEN` | Real sibling battle/rescue and later care deepen the reunion without supplying the mother's fate or retroactive proxy receipt. | V14 §12 C255 ancestry; V15-B03, V15-B15, V15-B17, V15-B35 |
+| `RZ-V14-C256` → `RZ-V15-C256` | `PRESERVE` | The two exact V14 wording queries remain historical; clear V15 eye-color descriptions do not silently amend the earlier EPUB. | V14 §12 C256 ancestry; No new test; exact earlier locus retained in V14 §12 C256 |
+
+## V18 earlier claim snapshots
+
+### Historical V06 current-state snapshot — advanced by V07
+
+| current claim | bounded formulation | ancestry / operation | evidence class / route |
+|---|---|---|---|
+| `RZ-V06-C001` | One V06 Subaru death brings the cumulative count to ten; restoration retains the post-rupture fruit stall, with V06-E2 active. | V05 C001; REVISE | DIRECT / HIGH; V06 §12/C001, full loci there |
+| `RZ-V06-C002` | Checkpoint body restoration does not transfer all artifacts, complete gate treatment, erase retained pain or repair Emilia's rupture. | V05 C004/C009/C012; STRENGTHEN | DIRECT + BOUNDED SYNTHESIS / HIGH; V06 §12/C002, full loci there |
+| `RZ-V06-C003` | E1 reaches living Arlam children before the anticipated massacre; fainting, neck-chop, waking and spatial transfer are not additional returns. | V05 C003; STRENGTHEN | DIRECT SEQUENCE / HIGH; V06 §12/C003, full loci there |
+| `RZ-V06-C004` | Disappearance, changed Otto/Ram/Emilia memories and absent Rem-room traces occur within E1 before Subaru's death. | NEW; observed within-state change | DIRECT + COMPARATIVE / HIGH; V06 §12/C004, full loci there |
+| `RZ-V06-C005` | Subaru retains discrepant Rem memory; other holders/traces have distinct tests, and E2 Rem's restored self/shared V03 memory does not certify an unperformed universal retest. | V05 C004; REVISE / OPEN | DIRECT + EPISTEMIC LIMIT / HIGH; V06 §12/C005, full loci there |
+| `RZ-V06-C006` | Attempted causal disclosure triggers two-handed stasis and Emilia's death; narration attributes her crushed heart to the left hand. | V05 C006; REVISE | DIRECT NARRATIVE CAUSAL ACCOUNT / HIGH; V06 §12/C006, full loci there |
+| `RZ-V06-C007` | Punisher identity and integration of restoration, odor, dark figure, chant, favor and Authorities remain unproved; no new dark interval is shown with this return. | V05 C005–008/C043; PRESERVE / OPEN | BOUNDED ABSENCE / OPEN IDENTITY; V06 §12/C007, full loci there |
+| `RZ-V06-C008` | Subaru now sees Unseen Hand and seven arms together; Puck cannot see them. | V05 C042; REVISE | DIRECT / HIGH; V06 §12/C008, full loci there |
+| `RZ-V06-C009` | Sight permits partial evasion, not mastery; Subaru moves here unlike punitive stasis, and arm maximum/cost/visibility cause/shared identity stay OPEN. | V05 C042; REVISE / OPEN | DIRECT + BOUNDED MECHANICS / HIGH; V06 §12/C009, full loci there |
+| `RZ-V06-C010` | Named Puck transforms into the V05 giant; V05-E2 identity is confirmed, whereas unseen E1 freeze attribution is convergent inference. | V05 C044; REVISE / OPEN | DIRECT IDENTITY + CORROBORATED INFERENCE; V06 §12/C010, full loci there |
+| `RZ-V06-C011` | Puck claims world destruction after Emilia's loss regardless of her wishes, tortures Subaru and states Sword Saint will stop him. | V04 Puck model; REVISE | DIRECT CONDUCT + ATTRIBUTED CONTRACT/LIMIT / HIGH; V06 §12/C011, full loci there |
+| `RZ-V06-C012` | Puck's Gluttony/Whale wording, Satella benchmark and Echidna name are bounded expert/cult testimony, not a complete power/witch genealogy. | NEW; attributed / ontology OPEN | DIRECT ATTRIBUTION / HIGH; ONTOLOGY OPEN; V06 §12/C012, full loci there |
+| `RZ-V06-C013` | The White Whale is actually encountered; fog, body and destructive force are observed, while neither Rem's attacks nor this encounter kills it. | V05 beast reports; STRENGTHEN | DIRECT + IDENTIFICATION / HIGH; V06 §12/C013, full loci there |
+| `RZ-V06-C014` | E1 Rem's departure/disappearance and later erasure have no witnessed corpse or demonstrated resurrection; scattered merchant fates likewise remain bounded. | V05 C028; PRESERVE / OPEN | DIRECT SEQUENCE + ABSENCE / HIGH; V06 §12/C014, full loci there |
+| `RZ-V06-C015` | Whale attraction to Subaru's scent is corroborated tactical inference, not a proven always-kill-carrier law or a new measured odor-decay model. | V05 C007; STRENGTHEN / OPEN | CORROBORATED INFERENCE / BOUNDED; V06 §12/C015, full loci there |
+| `RZ-V06-C016` | Finite phone light and map use produce ordinary practical value; local wind protection has range/context limits rather than demonstrated global cancellation. | V05 C017/C035; STRENGTHEN | DIRECT / HIGH; V06 §12/C016, full loci there |
+| `RZ-V06-C017` | No completed gate cure, new safe Subaru casting or removal/activation of the old inert curse formulas is demonstrated. | V05 C008–009; PRESERVE | BOUNDED ABSENCE / HIGH; V06 §12/C017, full loci there |
+| `RZ-V06-C018` | Beatrice expels Subaru, Emilia's corpse and a floor fragment spatially; unlimited range/cost/eligibility is not established. | V02 C024; STRENGTHEN | DIRECT EFFECT / HIGH; LIMITS OPEN; V06 §12/C018, full loci there |
+| `RZ-V06-C019` | Beatrice retrieves the cracked Puck token and explains delay/main-body return; her private maternal appeal supplies no verified mother identity or Subaru receipt. | V05 C044 / Beatrice model; REVISE / OPEN | DIRECT + EXPERT ACCOUNT / HIGH; IDENTITY OPEN; V06 §12/C019, full loci there |
+| `RZ-V06-C020` | Killing Petelgeuse fails to restore Rem/Emilia or reconcile Subaru, directly falsifying the opening one-target-solves-all victory model. | V05 C014/C019–020; REVISE | DIRECT + CAUSAL COMPARISON / HIGH; V06 §12/C020, full loci there |
+| `RZ-V06-C021` | Subaru's conclusion that all Rem care was false order-following is a focalized overgeneralization, not the reader's supported causal account. | V05 C021–026; STRENGTHEN | DIRECT FOCALIZATION + CONTRARY EVIDENCE / HIGH; V06 §12/C021, full loci there |
+| `RZ-V06-C022` | E1 rescue intent becomes abduction threat, commands and deliberate hurt to monopolize Emilia's attention. | V05 C018; STRENGTHEN | DIRECT / HIGH; V06 §12/C022, full loci there |
+| `RZ-V06-C023` | Later insight/help-seeking does not enact Emilia's forgiveness, informed consent or repair; the precheckpoint rupture survives. | V05 C012/C047; PRESERVE | DIRECT + BOUNDED ABSENCE / HIGH; V06 §12/C023, full loci there |
+| `RZ-V06-C024` | Flight combines genuine penalty/loss fear with deliberate withholding and dependency-based “me or others” leverage on Rem. | V05 C013/C018; STRENGTHEN | DIRECT FOCALIZATION / HIGH; V06 §12/C024, full loci there |
+| `RZ-V06-C025` | Subaru's self-account revises Earth history and display/evasion motives without making every skill, effort or rescue nonexistent. | V05 C013/C017; REVISE | DIRECT SELF-ACCOUNT + COUNTEREVIDENCE / HIGH; V06 §12/C025, full loci there |
+| `RZ-V06-C026` | Rem's love includes ordinary recipient-specific observations and epistemic humility; she can hear faults and remain without knowing his pain. | V05 C021/C023; STRENGTHEN | DIRECT SPEECH / HIGH AS ATTRIBUTION; V06 §12/C026, full loci there |
+| `RZ-V06-C027` | Active Rem rejects offered escape despite an attractive imagined domestic future; that future is conditional speech, not mainline/IF events accomplished. | V05 C025; STRENGTHEN / STATE-SPECIFY | DIRECT CHOICE + COUNTERFACTUAL / HIGH; V06 §12/C027, full loci there |
+| `RZ-V06-C028` | Hero/trust-chain language enables a shared restart while preserving dependence/performance risk; Subaru still hates himself. | V05 C019/C026; REVISE / OPEN | DIRECT + CONDITIONAL SYNTHESIS / HIGH; V06 §12/C028, full loci there |
+| `RZ-V06-C029` | Subaru declares love for Emilia, and Rem names his harshness before choosing support; no exclusive Rem romance or completed independent worth is certified. | V05 C020/C026; REVISE | DIRECT + BOUNDED LIMIT / HIGH; V06 §12/C029, full loci there |
+| `RZ-V06-C030` | Asking Rem for help/correction and later her mission creates a newly declared shared goal and specific delegation, not universal disclosure or blanket consent. | V05 C018/C020; REVISE | DIRECT / HIGH; V06 §12/C030, full loci there |
+| `RZ-V06-C031` | Rem's Whale tactics and self-sacrificial purpose coexist with a neck-chop overriding Subaru's refusal; courage does not make the means consensual. | V05 C011/C022/C027/C029; STRENGTHEN | DIRECT + AGENCY SYNTHESIS / HIGH; V06 §12/C031, full loci there |
+| `RZ-V06-C032` | Evacuation planning, hired vehicles and trader incentives are real competence; the beast-hunt cover materially withholds risk. | V05 C017/C035; STRENGTHEN / COMPLICATE | DIRECT + ETHICAL/LOGISTICAL SYNTHESIS / HIGH; V06 §12/C032, full loci there |
+| `RZ-V06-C033` | Otto is a competent frightened merchant who later ejects Subaru under a scent theory; his bloody abandoned vehicle does not directly establish his death. | V05 C034; REVISE | DIRECT + FATE LIMIT / HIGH; V06 §12/C033, full loci there |
+| `RZ-V06-C034` | Army refusal is distinct from care expulsion, and different retainers' roles differ; Crusch offers healing/dinner after refusing aid. | V05 C030/C038; STRENGTHEN | DIRECT / HIGH; V06 §12/C034, full loci there |
+| `RZ-V06-C035` | Crusch's benefit/credibility objections are real, but her revenge-origin theory is wrong; sincere testimony is not omniscient lie detection. | V05 C030/C037; REVISE | DIRECT ARGUMENT + COMPARATIVE LIMIT / HIGH; V06 §12/C035, full loci there |
+| `RZ-V06-C036` | Subaru initially lacks authority; E2 Rem-to-Subaru transfer makes him an envoy for this bargain, not an appointed knight or holder of Emilia's personal consent. | V05 C046; REVISE / OPEN | DIRECT AUTHORITY TRANSITION / HIGH; V06 §12/C036, full loci there |
+| `RZ-V06-C037` | Priscilla's conditional submission test ends in a kick before licking/touch; her later camp threat is not a deployment already performed. | V05 C047; STRENGTHEN | DIRECT / HIGH; V06 §12/C037, full loci there |
+| `RZ-V06-C038` | Priscilla's reading/routine, Al's mundane limits and Schult's household role add ordinary contrasts, not universal providence or hidden biography. | V05 C047; STRENGTHEN | DIRECT + ATTRIBUTED ROUTINE / HIGH; V06 §12/C038, full loci there |
+| `RZ-V06-C039` | Al's Ram/Rem confusion and shock at Ram living are observed; their meaning, Rem's sniffed cue and any restoration/cult identity stay OPEN. | V05 C047; NEW / OPEN | DIRECT REACTION / HIGH; EXPLANATION OPEN; V06 §12/C039, full loci there |
+| `RZ-V06-C040` | Anastasia extracts camp intelligence through a staged/networked encounter while giving a useful signed rental referral and advice; this is not a completed military-alliance refusal. | V05 C047; STRENGTHEN | DIRECT + BOUNDED INFERENCE / HIGH; V06 §12/C040, full loci there |
+| `RZ-V06-C041` | Mimi supplies actual help/healing and is surprised by the escort; Iron Fang role is attributed, not a proved full combat ranking or universal complicity. | NEW; attributed / conduct | DIRECT + SELF/OTHER ACCOUNT / HIGH; V06 §12/C041, full loci there |
+| `RZ-V06-C042` | Anastasia receives Subaru's Earth/Japan claim; her beyond-waterfall/Hoshin account does not verify a Japanese founder or shared return power. | V04 Al origin; STRENGTHEN HOLDER | DIRECT DISCLOSURE + ATTRIBUTED HISTORY / HIGH; V06 §12/C042, full loci there |
+| `RZ-V06-C043` | Carriage scarcity, iron/weapons buying, Russell's commercial position and trader coordination establish material/information networks; Crusch's operation target remains unnamed. | V05 C031/C033/C035; STRENGTHEN / OPEN | DIRECT / REPORTED / BOUNDED; V06 §12/C043, full loci there |
+| `RZ-V06-C044` | The bishop falsely interprets Emilia's penalty death as Subaru's fulfilled half-elf trial, showing doctrine's causal fallibility. | V05 C040–041; STRENGTHEN LIMIT | DIRECT SPEECH + CONTRARY CAUSE / HIGH; V06 §12/C044, full loci there |
+| `RZ-V06-C045` | New retaliatory estate/village orders and local cult deaths are episode-specific; neither universal prior motive nor global eradication is established. | V05 C040; REVISE / OPEN | DIRECT CONDUCT + SCOPE LIMIT / HIGH; V06 §12/C045, full loci there |
+| `RZ-V06-C046` | Cult reverence, Pride classification and Gospel/favor claims still do not verify Subaru's office, an infallible book or body-possession mechanics. | V05 C041; PRESERVE / OPEN | DIRECT ATTRIBUTION / HIGH; ONTOLOGY OPEN; V06 §12/C046, full loci there |
+| `RZ-V06-C047` | Rem reports a planned Garfiel visit and anticipated cult risk; actual Roswaal location, countermeasure and handler/Elsa/sponsor links remain unproved. | V05 C008; REVISE / OPEN | DIRECT REPORT / HIGH AS ATTRIBUTION; V06 §12/C047, full loci there |
+| `RZ-V06-C048` | Rem's nightly mission is alliance/mining-rights negotiation with a notice/transfer condition; medical information price and castle admission purpose remain separately OPEN. | V05 C046; REVISE / OPEN | DIRECT REVELATION / HIGH; V06 §12/C048, full loci there |
+| `RZ-V06-C049` | Ore value depends on mana/land affinity, craft skill, irreversible working, trade and institutional control as speakers explain; not unlimited reusable power. | NEW; expert/commercial account | DIRECT EXPERT/COMMERCIAL ACCOUNT / HIGH AS ATTRIBUTION; V06 §12/C049, full loci there |
+| `RZ-V06-C050` | Crusch names half-elf objection a pretext, respects Emilia's merit and still needs an additional political benefit; no simple race-hostility or completed policy conclusion follows. | V05 C037/C047; REVISE | DIRECT SPEECH / HIGH; V06 §12/C050, full loci there |
+| `RZ-V06-C051` | Final Whale place/time offer is untested and unanswered; no accepted alliance, hunt, rescue or named additional invitee is shown. | V05 C031/C048; REVISE / OPEN | DIRECT ENDPOINT + BOUNDED ABSENCE / HIGH; V06 §12/C051, full loci there |
+| `RZ-V06-C052` | Wilhelm's Trias/wife-name unworthiness and hatred sympathy add history/motive, without revealing full wife/service biography or return knowledge. | V05 C039; REVISE / OPEN | DIRECT SELF-ACCOUNT / HIGH; V06 §12/C052, full loci there |
+| `RZ-V06-C053` | Reinhard's absence, Subaru's self-exclusion of Julius and Rem's ineffective actual guard appeal are different events; no new protective-rationale receipt is shown. | V05 C015–016/C047; PRESERVE / EXTEND | DIRECT / REPORTED + KNOWLEDGE LIMIT; V06 §12/C053, full loci there |
+| `RZ-V06-C054` | Ram's gentle bedside conduct coexists with role limits; her denial of Rem is changed memory, not demonstrated knowing concealment. | V03 Ram model; STRENGTHEN | DIRECT + COMPARATIVE / HIGH; V06 §12/C054, full loci there |
+| `RZ-V06-C055` | Emilia's healing, questions and duties show independent agency; her penalty death involves Subaru causally without proving intentional murder or removing the external coercer's causality. | V05 C045; STRENGTHEN / DISTINGUISH | DIRECT + CAUSAL/AGENCY SYNTHESIS / HIGH; V06 §12/C055, full loci there |
+| `RZ-V06-C056` | Beatrice's grief/refusal and contrast with Roswaal resist Subaru's cruelty-only model; neither the future hint nor maternal speech establishes return foreknowledge. | V03 Beatrice model; STRENGTHEN / OPEN | DIRECT + EPISTEMIC LIMIT / HIGH; V06 §12/C056, full loci there |
+| `RZ-V06-C057` | Ordinary routines, practical skills and desired domestic futures constrain crisis-only models; self-condemnation and future imagery do not erase or accomplish them. | V05 C013/C017/C023; STRENGTHEN | DIRECT + CONDITIONAL SYNTHESIS / HIGH; V06 §12/C057, full loci there |
+| `RZ-V06-C058` | Interrupted clauses, hero/curse/zero metaphors and status courtesy require full scene/recipient context, not literal new mechanics or automatic office. | V05 wording model; STRENGTHEN | TEXTUAL/PRAGMATIC / HIGH; V06 §12/C058, full loci there |
+| `RZ-V06-C059` | Author-marked achievement/recovery turn and visual release do not end the named capital section; backmatter ads/meta-banter admit no future narrative witness. | V05 C048; REVISE TURN / PRESERVE LIMIT | PARATEXT/FORM + SCOPE LIMIT / HIGH; V06 §12/C059, full loci there |
+| `RZ-V06-C060` | Interacting durability/erasure and holder/disclosure changes earn two registered ledger splits; no mature character model, final specialist or new arc checkpoint is promoted. | V05 architecture; REVISE TWO HOMES | ARCHITECTURAL JUDGMENT / V06-BOUNDED; V06 §12/C060, full loci there |
+
+The formulations above route to the frozen source-facing argument, not a second reconstruction of it. V06 §§11–12 own complete predecessor adjudication, confidence and exact loci. Unreplaced earlier propositions retain their bounded scope through those routes and the historical snapshots below.
+
+### Historical V05 current-state snapshot — advanced by V06
+
+| current claim | compact formulation | ancestry / operation | evidence route |
+|---|---|---|---|
+| `RZ-V05-C001` | two deaths/two fruit-stall returns; nine cumulative deaths; E3 active | V04 C001/C004; `REVISE`, DIRECT | V05 §§3, 12 |
+| `RZ-V05-C002` | E1 underground freeze after estate aftermath; three principal fates unshown | V04 continuing-line model; `NEW`, DIRECT/OPEN | V05 §§3–4, 8 |
+| `RZ-V05-C003` | E2 altered routes/Rem/children/captivity defeat identical-script inference | V02 C003; `STRENGTHEN`, comparative | V05 §3 |
+| `RZ-V05-C004` | body resets, experience/affect and asymmetric history persist with incomplete recall | V04 C002/C009; `STRENGTHEN / REVISE`, direct | V05 §§3–5 |
+| `RZ-V05-C005` | dark feminine encounter now includes full love utterance; identity/controller OPEN | V03 C006, V04 C004; `REVISE / OPEN` | V05 §8 |
+| `RZ-V05-C006` | no disclosure retest; cave gag distinguished from semantic penalty | V04 C003; `PRESERVE`, bounded limit | V05 §8 |
+| `RZ-V05-C007` | Rem detects post-return increases; Ram explicitly lacks detection | V02 C007–008; `STRENGTHEN`, observed/report | V05 §8 |
+| `RZ-V05-C008` | inert formula and earlier-handler/Elsa/Garfiel/Dragon links remain OPEN | V04 C039; `PRESERVE / OPEN` | V05 §§7–8, 11 |
+| `RZ-V05-C009` | actual water gate treatment, side effects, interrupted course; no cure/permanent prognosis | V04 C002/C006; `STRENGTHEN`, direct | V05 §6.2 |
+| `RZ-V05-C010` | entrusted mana enables influence; Ferris admits manipulation, not Crusch order | `NEW`, admission/explanation | V05 §6.2 |
+| `RZ-V05-C011` | Rem covertly induces sleep and leaves safe lodging/money/accessibly written instructions | V04 C017; `REVISE`, direct/inferred intent | V05 §5.2 |
+| `RZ-V05-C012` | physical repair, responsiveness and relationship recovery differ | V04 C002/C016; `STRENGTHEN`, synthesis | V05 §§4.4, 6.2 |
+| `RZ-V05-C013` | genuine care/ordinary competence coexist with recognition hunger/evasion | V04 C007/C014/C038; `STRENGTHEN` | V05 §4 |
+| `RZ-V05-C014` | Subaru needs her danger to prove indispensability | V04 C011; `STRENGTHEN`, direct focalization | V05 §4.2 |
+| `RZ-V05-C015` | rejects sincere mediation to preserve duel's felt pride meaning | V04 C032; `STRENGTHEN`, direct | V05 §6.4 |
+| `RZ-V05-C016` | sanction learned; protective rationale/remorse not transferred | V04 C033–034; `STRENGTHEN` / epistemic limit | V05 §6.4 |
+| `RZ-V05-C017` | practical reasoning/gratitude/Otto refusal acceptance remain counterexamples | V04 C038; `STRENGTHEN`, conditional | V05 §§4.1, 7.1 |
+| `RZ-V05-C018` | assumes Rem's consent from old rescue despite treatment-first objection | V04 C012/C017; `STRENGTHEN`, direct | V05 §§4.2, 5.2 |
+| `RZ-V05-C019` | responding to Rem then hate changes attention, not completed recovery | V04 C032; `REVISE`, direct/synthesis | V05 §4.4 |
+| `RZ-V05-C020` | warm E3 handholding coexists with private killing mission/opposed intentions | `NEW`, direct | V05 §4.4, exit |
+| `RZ-V05-C021` | Rem sees flaws and chooses to remain, not merely ordered or blind | V04 C017; `STRENGTHEN`, direct | V05 §5.1 |
+| `RZ-V05-C022` | costly protective refusal is real agency, not consensual means | V04 C017; `REVISE`, agency synthesis | V05 §5.2 |
+| `RZ-V05-C023` | wider work/sister/household relations improve in Rem's E2 self-account | V03 C020–021; `STRENGTHEN`, attributed | V05 §5.3 |
+| `RZ-V05-C024` | Rem/Emilia: learned prejudice, formal distance, shared interests and jealousy | `NEW`, focalization | V05 §5.3 |
+| `RZ-V05-C025` | rejects satisfying escape that would preserve Subaru's helplessness | V03 C020; `STRENGTHEN / REVISE`, focalization | V05 §5.4 |
+| `RZ-V05-C026` | real development retains service-worth/unrepayable gratitude/self-expenditure | V03 C016/C020, V04 C017; `STRENGTHEN` | V05 §5.4 |
+| `RZ-V05-C027` | formidable oni/ice/flail capacity constrained by injuries/combined force/protection | V03 C018; `STRENGTHEN`, direct | V05 §5.5 |
+| `RZ-V05-C028` | blood-ice cuffs rescue then explicit final death; not resurrection power | `NEW`, direct / bounded limit | V05 §5.5 |
+| `RZ-V05-C029` | care, gratitude, consent and benefit differ; control can accompany concern | V04 C014/C017/C021; `STRENGTHEN`, synthesis | V05 §§4–6 |
+| `RZ-V05-C030` | Crusch contract closure coexists with decision-respect and transport gift | V04 C010/C016/C021; `STRENGTHEN`, direct | V05 §6.1; institution ledger |
+| `RZ-V05-C031` | people/goods/vehicles gathered for unnamed Wilhelm-related event | V04 C028; `NEW` preparation / purpose OPEN | V05 §7.2; institution ledger |
+| `RZ-V05-C032` | candidate marriage prohibition plus future/private arrangement exceptions | V04 C022; `NEW`, rule explanation | V05 §7.2; institution ledger |
+| `RZ-V05-C033` | publicity/reputation/racial reception are unequal despite qualification | V04 C015/C021–023/C030; `STRENGTHEN` | V05 §7.1; institution ledger |
+| `RZ-V05-C034` | Otto empathy counters universal hostility/exclusive protector | V04 C011/C015; `REVISE / STRENGTHEN` | V05 §§4.3, 7.1 |
+| `RZ-V05-C035` | transport/cargo/market/border constraints; closure cause only Otto guess | `NEW`, observation/report | V05 §7.2; institution ledger |
+| `RZ-V05-C036` | Crusch repelled not killed beast, regrets process; self-stated 20 | `NEW`, self-account correcting reputation | V05 §7.2 |
+| `RZ-V05-C037` | conditional independence program/evaluation-after-action, no completed policy | V04 C028; `STRENGTHEN / OPEN` | V05 §§4.1, 7.2 |
+| `RZ-V05-C038` | Ferris will-to-live ethic sincere but actual trauma unknown | V04 Ferris model; `REVISE`, epistemic synthesis | V05 §6.2 |
+| `RZ-V05-C039` | Wilhelm sustained practice/resolve not instant power; wife/regret history OPEN | V04 C038; `STRENGTHEN`, expert/self-account | V05 §6.3 |
+| `RZ-V05-C040` | cult reports/finger organization, cleanup/redeployment orders, scheduled trial | `NEW`, direct conduct | V05 §7.3; institution ledger |
+| `RZ-V05-C041` | Pride/Gospel/bishop acquaintance are Petelgeuse claims | `NEW`, attributed / ontology OPEN | V05 §7.3 |
+| `RZ-V05-C042` | named Unseen Hand's invisible force shown; limits/integration OPEN | `NEW`, effect + speaker name | V05 §8 |
+| `RZ-V05-C043` | cult murmurs accompany inner pain/distinct feminine voice | `NEW`, experience / causation OPEN | V05 §8 |
+| `RZ-V05-C044` | gray frost beast direct; Puck identity and E1 common cause hypotheses | V04 C020; `NEW / OPEN`, interpretive hypothesis | V05 §8 |
+| `RZ-V05-C045` | guilt/crisis wish not direct causation of massacre | V04 C011/C014; `STRENGTHEN`, causal limit | V05 §§4.3, 10 |
+| `RZ-V05-C046` | medical information/secret mission/proposal/admission purpose stay distinct OPEN | V04 C010/C018/C039; `PRESERVE / OPEN` | V05 §§6.1, 8 |
+| `RZ-V05-C047` | Felt education plan reported; other policy/Al/Emilia-repair tests unclosed | V04 C008/C015–016/C024–036; `PRESERVE / OPEN` | V05 §§6.4–7.2 |
+| `RZ-V05-C048` | book endpoint is not capital endpoint or mature synthesis gate | V04 C040; `PRESERVE`, formal limit | V05 §§14–16 |
+
+Full formulations, classes, confidence, counterevidence, locators and 40-row predecessor adjudication are frozen in V05 §§8–12. Preserved V04 date, office, ancestry, sanctions, programs and Al propositions retain their prior scope through V05 §11 and their unchanged freeze. V03 curse, oni, Beatrice, Od and private Dragon propositions remain effective below; a current OPEN integration row does not erase demonstrated local mechanisms or history.
+
+### Historical V03 current-state snapshot — advanced by the V04 adjudication
+
+| claim ID | current formulation | class | ancestry / evidence route |
+|---|---|---|---|
+| `RZ-V03-C001` | V02's cliff death restores Subaru to the mansion-arrival checkpoint; V03 has no later restoration. | `DIRECT` | revises/strengthens `RZ-V02-C001/C030`; V03 §§3, 5.1 |
+| `RZ-V03-C002` | The active V03 branch reaches the first fifth-day morning with the household and all seven children alive. | `DIRECT` | new current boundary; V03 §§3, 5.5 |
+| `RZ-V03-C003` | Direct or revealing indirect disclosure triggers sensory/time-like suppression, heart pain, increasingly embodied black limbs, and stronger Witch odor. | `DIRECT` | strengthens `RZ-V02-C005/C008/C019`; V03 §5.4 |
+| `RZ-V03-C004` | Suppression agent, purpose, ontology, semantic boundary, and relation to restoration remain unresolved. | `OPEN` | preserves `RZ-V02-C006`; V03 §§9, 15 |
+| `RZ-V03-C005` | Ulgarm preferentially converge on intensified Witch odor, making Subaru's stigma a tactical attractant and social danger marker. | `DIRECT OPERATIONAL CORRELATION` | strengthens `RZ-V02-C007/C008`; V03 §5.4 |
+| `RZ-V03-C006` | A feminine black dream/liminal shadow evokes longing and says only `──いしてる`; identity and complete wording remain unresolved. | `DIRECT / OPEN ONTOLOGY` | revises `RZ-V02-C030`; V03 §5.5 |
+| `RZ-V03-C007` | Ulgarm bites implant dormant curse formulas at the contact wound. | `DIRECT EXPERT DETECTION + REPEATED CORRELATION` | revises `RZ-V02-C012`; V03 §5.2 |
+| `RZ-V03-C008` | A hungry Ulgarm activates its own formula to drain mana; killing the operator interrupts that feeding connection. | `DIRECT EXPERT EXPLANATION + OBSERVED CORROBORATION` | revises `RZ-V02-C011/C012`; V03 §5.4 |
+| `RZ-V03-C009` | Overlapping formulas can become too tangled for timely removal and remain inert after operators die. | `DIRECT EXPERT ASSESSMENT` | new; V03 §§5.4–5.5 |
+| `RZ-V03-C010` | Ulgarm feeding strongly explains V02 depletion deaths, while V02-E1's unseen terminal instant remains inferential. | `CORROBORATED RETROSPECTIVE INFERENCE` | revises `RZ-V02-C004/C011`; V03 §§12, 15 |
+| `RZ-V03-C011` | Horn-broken Ulgarm obey their breaker; all inspected corpses were hornless, proving controlled incursion. | `DIRECT INVESTIGATIVE REPORT` | new; V03 §5.5 |
+| `RZ-V03-C012` | The unknown brown-braided girl introduced the puppy, led the children through the barrier, disappeared, and is the leading handler. | `CORROBORATED INFERENCE` | new; V03 §5.5 |
+| `RZ-V03-C013` | Handler identity, sponsor, exact target/objective, and any Elsa-employer link remain unresolved. | `OPEN` | carries `RZ-V02-C023` and revises threat model; V03 §§12, 15 |
+| `RZ-V03-C014` | Oni horns draw ambient mana and amplify combat; twins split the normal pair and are traditionally treated as `忌子`. | `NARRATOR HISTORY/MECHANICS` | revises `RZ-V02-C029`; V03 §5.4 |
+| `RZ-V03-C015` | Ram was an oni prodigy, lost her horn protecting Rem, and now requires Roswaal's regular mana transfer to sustain her body. | `DIRECT HISTORY + NARRATOR MECHANICS` | strengthens `RZ-V02-C015/C027/C029`; V03 §§5.4–5.5 |
+| `RZ-V03-C016` | Rem's inferior-replacement self-model arises from comparison, relief at horn loss, and guilt rather than objective responsibility. | `DIRECT FOCALIZED HISTORY + SYNTHESIS` | revises `RZ-V02-C010/C015/C029`; V03 §5.4 |
+| `RZ-V03-C017` | Rem's odor suspicion is historically learned, but treating the risk marker as lethal certainty remains unsafe. | `DIRECT HISTORY + AGENCY ANALYSIS` | revises `RZ-V02-C009/C010`; V03 §§5.3–5.4 |
+| `RZ-V03-C018` | Oni Rem gains rapid healing/extreme force while battle instinct can overwhelm reason; attachment and rescue purpose remain partly accessible. | `DIRECT OBSERVATION + FOCALIZATION` | strengthens magic/character model; V03 §5.4 |
+| `RZ-V03-C019` | Present-state observation and reciprocal rescue allow Rem to revise suspicion despite persistent Witch odor. | `DIRECT RELATIONSHIP EVIDENCE` | revises `RZ-V02-C014/C016`; V03 §§5.3–5.5 |
+| `RZ-V03-C020` | Rem's mutual-dependence/future turn is genuine but does not establish completed recovery or autonomous self-worth. | `CORROBORATED / OPEN DEVELOPMENT` | new; V03 §§5.5, 6 |
+| `RZ-V03-C021` | Ram's care, surveillance, sister responsibility, estate duty, and direct Roswaal loyalty coexist. | `CORROBORATED CHARACTER SYNTHESIS` | strengthens `RZ-V02-C014/C015`; V03 §6 |
+| `RZ-V03-C022` | Subaru's acute stress carries after restoration as sleeplessness, vomiting, hypervigilance, compulsive optimization, and performed cheer. | `DIRECT` | strengthens `RZ-V02-C017/C018`; V03 §§5.1, 6 |
+| `RZ-V03-C023` | Emilia assists without secret disclosure through present-state regulation, behavioral prediction, and mobilizing Roswaal. | `DIRECT + CORROBORATED AGENCY ANALYSIS` | strengthens `RZ-V02-C021`; V03 §§5.1, 5.5 |
+| `RZ-V03-C024` | Subaru/Emilia establish mutual gratitude and a future date; his unilateral protective exclusion remains unresolved. | `DIRECT RELATIONSHIP EVIDENCE` | strengthens `RZ-V02-C021`; V03 §§5.5, 6 |
+| `RZ-V03-C025` | Courage is action under acknowledged fear; success depends on shared capacity and chance, not solo mastery. | `DIRECT PHENOMENA + SYNTHESIS` | strengthens `RZ-V02-C003/C018/C020`; V03 §§5.3–5.5 |
+| `RZ-V03-C026` | Subaru's self-sacrifice broadens into repeated all-in bodily gambles; successful rescue does not make this pattern safe. | `CORROBORATED AGENCY ANALYSIS` | strengthens `RZ-V02-C018`; V03 §§5.4–6 |
+| `RZ-V03-C027` | Beatrice's expertise/care extends to removal, village exorcism, bad-odds disclosure, and extensive healing outside simple library boundary-setting. | `DIRECT + CHARACTER SYNTHESIS` | strengthens `RZ-V02-C024/C025`; V03 §§5.2, 5.4–6 |
+| `RZ-V03-C028` | Forced gate activation, repeated depletion, and healing leave Subaru's gate damaged, possibly for years. | `DIRECT EXPERT ASSESSMENT` | strengthens `RZ-V02-C026`; V03 §5.5 |
+| `RZ-V03-C029` | `シャマク` separates senses from the world; Subaru can cast it only with poor control and high gate/mana cost. | `DIRECT EXPLANATION + OBSERVATION` | strengthens `RZ-V02-C026`; V03 §§5.5, 9 |
+| `RZ-V03-C030` | `マナ` is ambient magic power and `オド` a finite internal reserve; Emilia spends Od healing Subaru. | `DIRECT EXPERT EXPLANATION` | strengthens spirit/mana model; V03 §§5.4, 9 |
+| `RZ-V03-C031` | Roswaal flies, uses high-level fire and multi-attribute mana transfer, and remains a decisive but interested expert. | `DIRECT OBSERVATION/EXPLANATION` | strengthens `RZ-V02-C027`; V03 §§5.5–6 |
+| `RZ-V03-C032` | Roswaal values the twins as indispensable pieces and requires Emilia's royal victory for his stated aim of killing the Dragon. | `DIRECT PRIVATE DECLARATION` | adds stakeholder motive to `RZ-V02-C022/C028`; V03 §5.5 |
+| `RZ-V03-C033` | V03 adds no material Felt, Rom, Reinhard, Elsa-employer, or badge-attribution evidence. | `DIRECT BOUNDED ABSENCE` | preserves dormant V01/V02 threads; V03 §§14–16 |
+| `RZ-V03-C034` | Village routines, promises, gifts, food, labor, and shared plans create motive and material survival resources. | `DIRECT + SYNTHESIS` | strengthens `RZ-V02-C020`; V03 §10 |
+| `RZ-V03-C035` | V02–V03 form a source-verified estate-story problem/solution checkpoint without a formal arc ID. | `DIRECT PARATEXT + BOUNDED STRUCTURAL INFERENCE` | V03 §§3, 17; checkpoint freeze |
+
+### Historical V02 current-state table — superseded as current authority at V03
+
+The following table is retained as the repair-era backfill snapshot. Use the V06 table and explicit preserved routes above for current state and the frozen V02 reading for its historical prospective horizon.
+
+| claim ID | current formulation | class | ancestry / evidence route |
+|---|---|---|---|
+| `RZ-V02-C001` | The observed restoration checkpoint can move from V01's fruit-seller state to the mansion-arrival state. | `DIRECT` | revises `RZ-V01-C001`; V02 §§3, 5.1 |
+| `RZ-V02-C002` | Literacy, procedures, social knowledge, and promises persist with memory while wounds and bodily state reset. | `DIRECT` | strengthens `RZ-V01-C002/C006`; V02 §§5.1–5.2 |
+| `RZ-V02-C003` | Retained learning prevents deterministic social replay because Subaru's competence changes others' responses. | `CORROBORATED INFERENCE` | strengthens branch mutability and genre-model claims; V02 §5.2 |
+| `RZ-V02-C004` | E1's exact lethal event is not depicted; later depletion makes curse causation plausible but not direct. | `CORROBORATED / OPEN` | new; V02 §5.1 |
+| `RZ-V02-C005` | Direct attempted disclosure of `死に戻り` produces sensory/time-like suppression and a black hand gripping Subaru's heart. | `DIRECT` | new; V02 §5.4 |
+| `RZ-V02-C006` | The suppression agent/mechanism and its relation to restoration remain unknown. | `OPEN` | revises uncertainty in `RZ-V01-C004`; V02 §5.4 |
+| `RZ-V02-C007` | Rem and Beatrice independently detect a Witch-associated odor on Subaru. | `DIRECT speaker corroboration` | new; V02 §§5.3–5.4 |
+| `RZ-V02-C008` | Beatrice says the odor is stronger after the recent restoration/disclosure episode; the cause is unresolved. | `DIRECT / OPEN CAUSATION` | new; V02 §5.4 |
+| `RZ-V02-C009` | Rem's E3 attack is her own security action rather than a stated Roswaal execution order. | `DIRECT FROM REM` | new; V02 §5.3 |
+| `RZ-V02-C010` | Rem's threat model combines Witch odor, unexplained conduct, possible rival affiliation, loyalty, and prior harm involving Ram. | `DIRECT + CORROBORATED SYNTHESIS` | new; V02 §5.3 |
+| `RZ-V02-C011` | Rem's violence and curse-like depletion cannot be one sufficient culprit model; Rem dies from depletion in E4. | `CORROBORATED INFERENCE` | new; V02 §§5.3–5.4 |
+| `RZ-V02-C012` | Curse caster, vector, activation, target rule, and purpose are unresolved. | `OPEN` | new; V02 §§5.2, 5.4 |
+| `RZ-V02-C013` | Ram is strongly implicated in E3 through wind magic; exact terminal-strike ownership and motive remain incomplete. | `CORROBORATED INFERENCE` | new; V02 §§5.3–5.4 |
+| `RZ-V02-C014` | Surveillance/security motives do not make all sisterly care toward Subaru counterfeit. | `CORROBORATED INFERENCE` | new; V02 §5.4 |
+| `RZ-V02-C015` | Ram/Rem have exceptional mutual centrality; Rem's death produces catastrophic grief in Ram. | `DIRECT RELATIONSHIP EVIDENCE` | new; V02 §§5.3–5.4 |
+| `RZ-V02-C016` | Retained bonds can constrain Subaru's self-defense against a currently hostile person. | `DIRECT + CORROBORATED` | strengthens `RZ-V01-C008`; V02 §5.3 |
+| `RZ-V02-C017` | Restoration costs include social bereavement for erased mutual histories. | `DIRECT PHENOMENA + CORROBORATED SYNTHESIS` | strengthens `RZ-V01-C007/C008`; V02 §5.1 |
+| `RZ-V02-C018` | Death remains frightening; deliberate death becomes conditionally instrumental under relational stakes. | `CORROBORATED INFERENCE` | revises use-of-death model; V02 §5.4 |
+| `RZ-V02-C019` | Subaru's E4 secrecy is externally constrained by demonstrated disclosure punishment, alongside fear and distrust. | `DIRECT CONSTRAINT + CORROBORATED AGENCY ANALYSIS` | new; V02 §5.4 |
+| `RZ-V02-C020` | Under chosen purpose and feedback, Subaru can enjoy difficult effort despite V01's avoidance baseline. | `DIRECT + CONDITIONAL INFERENCE` | strengthens mixed/state-conditioned model; V02 §§5.1, 6 |
+| `RZ-V02-C021` | Emilia repeatedly offers care/trust across altered states without discarded-state memory. | `CORROBORATED INFERENCE` | strengthens `RZ-V01-C010/C013`; V02 §§5.1, 5.4, 6 |
+| `RZ-V02-C022` | Emilia is a royal candidate, the dragon badge is proof tied to candidacy, and Roswaal is her sponsor. | `DIRECT INSTITUTIONAL EXPLANATION` | strengthens `RZ-V01-C019`; V02 §§6, 8 |
+| `RZ-V02-C023` | Badge theft is plausibly royal-selection sabotage; Elsa's employer and ultimate objective remain unproven. | `CORROBORATED / OPEN` | strengthens `RZ-V01-C016`; V02 §8 |
+| `RZ-V02-C024` | Beatrice guards the Forbidden Library by contract, uses `扉渡り`, drains mana, and treats protection contract as binding. | `DIRECT` | new; V02 §§5.4, 6 |
+| `RZ-V02-C025` | Beatrice's abrasive speech coexists with concrete care; the balance among contract, preference, Puck, and attachment remains unresolved. | `CORROBORATED INFERENCE` | new; V02 §§5.4, 6 |
+| `RZ-V02-C026` | Current speaker-grounded magic model includes `ゲート`, four common attributes plus `陰/陽`; Subaru has strong Yin affinity but low assessed talent. | `DIRECT EXPERT EXPLANATION` | strengthens `RZ-V01-C024`; V02 §§5.2, 8 |
+| `RZ-V02-C027` | Ram uses wind magic, Rem water-aligned healing, Beatrice Yin, and Roswaal exceptional multi-attribute magic. | `DIRECT OBSERVATION/EXPLANATION` | strengthens `RZ-V01-C024`; V02 §8 |
+| `RZ-V02-C028` | Royal vacancy, `賢人会`, and the dragon covenant create a succession burden around the royal selection. | `DIRECT IN-WORLD INSTITUTIONAL/HISTORY CLAIMS` | strengthens political state; V02 §§5.3, 8 |
+| `RZ-V02-C029` | Ram's `泣いた赤鬼` response says that a person pursuing an end should bear its cost rather than externalize sacrifice onto a loved one; autobiographical mapping is open. | `DIRECT VALUE STATEMENT / OPEN BACKSTORY` | new; V02 §5.3 |
+| `RZ-V02-C030` | V02 ends after Subaru's deliberate death with an unidentified liminal silhouette/voice saying `まだ、会えない`; no subsequent restoration is shown. | `DIRECT / OPEN ONTOLOGY` | new; V02 §§0, 5.4, 17 |
+
+### Preserved predecessor claims without a V03 replacement
+
+Through V03, V01 C011/C012/C014/C015/C017/C018/C020/C021 and V02 C009/C013/C022/C023/C028 remained effective under the recorded scope. At V04, Felt/Reinhard and selection routes advance under C021–C027/C031; V01's “Satella” naming motive, Elsa employer and Felt blessing explanation remain unresolved. V02-E3 terminal attribution remains historical inference, not reassigned by the new court evidence. V04 §12 records the older-claim review. No earlier character acquires later knowledge retroactively.
+
+End of V18 lossless rollover. These blocks retain their original earlier horizons; live source, next operation and readiness remain in the current corpus map and master. This historical record does not assert a publication pass.
+
+## V18 entering corpus map
+
+The complete entering map is retained verbatim as historical evidence. Its relative links keep their original project-root base here; current source, readiness and work order remain in the live corpus map.
+
+````markdown
+---
+series: RE_ZERO
+artifact_type: corpus_map
+scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
+generation: V0.37
+status: canonical
+release_state: mutable_active
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+# Re:ZERO -Starting Life in Another World- — current state and corpus map
+
+This is the canonical first read for the Git-side Re:Zero analytical corpus.
+
+```yaml
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/REZERO_ANALYTICAL_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md
+  character_reconstruction_protocol: 00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+  supplemental_witness_catalog: 01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md
+  method_status: canonical
+  architecture_status: canonical
+  source_reconnaissance_complete: true
+  required_day_one_infrastructure_initialized: true
+  required_day_one_infrastructure:
+    - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
+  sequential_analysis_lock: OPEN
+  next_permitted_operation: V18
+```
+
+```yaml
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: main_light_novel_volume
+  authorized_start: V03
+  terminal_boundary: V43
+  committed_high_water_mark: V17
+  next_candidate_operation: V18
+  confirmation_between_units: false
+  run_state: active
+```
+
+## Authority split
+
+- **GitHub is the analytical authority** for methods, source-routing decisions, sequential readings, longitudinal ledgers, character analysis, adaptation analysis, specialist synthesis, and analytical audits promoted under `series/re-zero/`.
+- **Primary-source media do not belong in this Git root.** Japanese light-novel files, audiovisual media, scans, extracted text, and other source-bearing objects remain in the governed evidence plane unless a policy explicitly admits a reference representation.
+- **The current source lock admits the acquired Japanese main-light-novel spine V01-V43.** Exact file identity, integrity, Drive provenance, alternate-edition handling, the bounded post-manifest V41 hash override, and known current acquisition gaps are recorded in `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`. The lock does not claim complete-to-date possession: published Japanese V44 and V45 are not present in the live governed folder.
+- Local workspaces are working environments, not authority, until an artifact is promoted through the governed Git route.
+
+## Current analytical state
+
+The [V17 deep reading](02%20Sequential%20Readings/REZERO_LN_V17_DEEP_READING.md) and synchronized owners completed their full exact-source publication gate atcfad8d70e5371e86ca73611100aa3d605106a6f2:459discovered/459executed tests, no skips/failures/errors, trusted exact-head reporter, source-specific completed housekeeping no-op and later native/source/protected/seal proof. Verified committed source high-water is nowV17; no rereading or repeat gate is required for that completed transaction. The earned Mimi pair is now implemented and locally reviewed, but its own complete gate remains before V18. Both next-operation fields name that conditional next source, not permission to skip this pair's publication checks.
+
+The same admitted Japanese V17 original was fully consumed:21OPFmembers/78actual sequential deliveries/3780positions=3756TEXT+24IMAGEreferences,23unique images,167232base-text characters, zero gaps/duplicates. Separate navigation and all802unique base/reading pairs were actually covered, accounting for2769ruby groups/3745labels; structural inspection alone was not credited. Original23970413bytes/SHA063327017f7b28665388610ee7853ef11b93ad4d6a356d633c368c87792f0dc9/CRCpass. Promotional/design/colophon text was consumed as paratext, not current narrative or instructions.
+
+Current371claims incorporate340 individually reviewed predecessors:218PRESERVE/94STRENGTHEN/20REVISE/8OPEN plus31NEW. All60incoming questions/10forecasts have separate postread adjudications. The historical incoming V17 prospect stays exact. The outgoing V18 body is60questions/10forecasts,15685UTF-8bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d, fixed after complete V17 consumption/review and before V18 or the derived Mimi operation.
+
+E019's failed solo tower rescue ends in death19; E020's Reinhard intervention ends in shared bisection/death20; actual park arrival instantiates E021,20observed deaths/21arrived segments. Latest Subaru has an actually severed right thigh, Capella's applied black blood and unresolved victim-dragon flame aftermath. Emilia separately wakes captive, hears Regulus's name, rejects the husband claim and receives an unanswered virginity demand. Garfiel's prior-day maternal-household/Mimi backfill, hospital waking and captive waking are not returns. No death21/E022, decoded Authority, cured wound, restored Gate/Puck/Rem, verified full civilian census or consenting marriage follows.
+
+Five sole owners remain sufficient: eventV2.1/E021, knowledgeV2.1/K601, mechanicsV1.10/M382, institutionV1.14/I325, relationshipV1.8/R125/RT288. New56K/37M/31I/21R/49RT;28old relationship rows advance with exact preimages,76stableR/239oldRT remain exact. MasterV1.30 owns371claims/person/ordinary/Japanese/questions/readiness. Its V17 size reconciliation already moved six exact old §3 snapshots, V12–V07, losslessly into the existing [project changelog](REZERO_PROJECT_CHANGELOG.md#v17-source-facing-transaction--historical-preimages-and-lossless-claim-rollover); original-heading routers, entering340claim body/both seals and the full older append-only history stay recoverable. No sixth ledger, new field, independent index or size exception. This Mimi candidate remains within the unchanged1MiB limit without another historical rollover; its measured master headroom is307bytes. Current371claims/five owners and all prior history/seals are unchanged.
+
+All42 entering frozen analytical artifacts, including the completed V17 reading and eleven earlier model/review pairs, retain exact bytes/scopes/defaults/local documentary grades; latest Ferris16 full gate38bfed019a665455599792a7a5da22156d930fff is closed. Those eleven historical defaults are not silently E021 or certified through V17. Ram chronology remains OPEN; C116/M344's Frederica-subject control remains mandatory despite Garfiel's new partial upper-body form. The bounded V13 chronology check distinguishes old trial/scar timing from maternal departure, not an invented retcon/date.
+
+Mimi's [V01–V17 model](05%20Character%20Analysis/REZERO_MIMI_V01_V17_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_MIMI_V01_V17_FIDELITY_REVIEW.md) now implement the earned responsibility at PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY: all19dimensions,23controls/8NONCANONICAL_PROBE applications actually applied after exact Japanese reconciliation, whole saved-draft reading, ten grouped findings/eighteen repairs and complete correction/inverse review. The separate review was wholly read and temporary-support wording clarified. This is not independent, held-out, runtime or global validation. Default remains latest livingE021 unconscious with nonclosing chest wound, physical hemostasis and risky triplet sharing; no new awake reply, assent or cure. Earlier waking phases/recipients/knowledge/resources, explicit affection without proved reciprocity, approximate—not exact—age and full counterevidence/abstentions remain selectable. Garfiel's V10–V15 pair remains unchanged; his V17 reconciliation is not an automatic grade extension.
+
+## Governing method and retrieval route
+
+Read in this order for new Re:Zero analytical work:
+
+1. `CURRENT_STATE_AND_CORPUS_MAP.md`
+2. `00 Frameworks and Methods/REZERO_ANALYTICAL_METHOD.md`
+3. `00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md`
+4. `00 Frameworks and Methods/REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`
+5. `00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` for character promotion, reconstruction, or fidelity work;
+6. `01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md` for non-spine discovery or acquisition work;
+7. `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`
+8. `04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md`
+9. the immediately prior frozen sequential reading's claim ledger and outbound question set;
+10. only the additional character, supplemental, adaptation, promoted-ledger, or specialist artifact required for the task.
+
+The intended primary semantic anchor is the **Japanese light novel**, within the exact admitted source range. Translations may be convenience witnesses; wording-sensitive claims return to Japanese. Anime, web-novel material, IF/alternate routes, side stories, bonus stories, game material, guidebooks, interviews, and other supplements do not silently overwrite main-light-novel findings.
+
+## Why Re:Zero needs a route-aware method
+
+The project must preserve more than ordinary chronology. Whenever the text presents repeated, reset, branching, failed, counterfactual, or otherwise non-identical event states, analysis must keep separate:
+
+- what occurred in a particular event-state or iteration;
+- what remains true in the currently active narrative state;
+- what a focal character remembers or has learned across states;
+- what other characters locally know in that state;
+- what the reader has learned from states that characters may not share;
+- which behaviors repeat under similar conditions and which depend on changed information;
+- what later success owes to information, sacrifice, rehearsal, coercion, luck, or altered circumstances from earlier attempts.
+
+A discarded or superseded event-state can remain highly probative character evidence without being treated as a durable event in the active world-state. Conversely, a later successful sequence does not erase the experiential or interpretive importance of earlier failures for any character whose state actually carries forward.
+
+## Corpus architecture
+
+| Layer | Analytical responsibility | Current state |
+|---|---|---|
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | methodV0.1/witnessprotocolV0.2 unchanged; architectureV1.29 EVOLVING; characterprotocolV1.28; eleven older full-gated pairs exact; Mimi V01–V17 model/separate applied local documentary review implemented, own gate before V18 |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | sourceLockV0.32; admittedV01–V43/V41exception/datedgaps unchanged; V17 complete full-gated consumption; Mimi revisits older admitted source only, no new unit/admission; V18+/nonspine/import narratives unopened |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V17/three checkpoints exact; V17 full gatecfad8d70 closed; exact outgoing60Q/10P V18 prospect preserved through Mimi's separate operation/gate |
+| `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.30/source horizonV17/371claims; eventV2.1/E021, knowledgeV2.1/K601, mechanicsV1.10/M382, institutionV1.14/I325, relationshipV1.8/R125/RT288 exact; schemaV0.31/no new field; Mimi implementation/readiness route only |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routerV0.19; eleven earlier pairs exact/full-gated; Mimi twelfth source-bounded pair implemented with separately actually applied nineteen-dimension PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY; own complete gate before V18 |
+| `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
+| `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | eleven prior scoped reviews exact; new Mimi V01–V17 separate review actually applied; no independent, held-out, runtime, inherited or global result; pair's own publication verification remains separate |
+| future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
+| future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
+| `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
+
+The absence of an unused directory is intentional. Re:Zero should grow by analytical responsibility, not by template symmetry.
+
+## Sequential lock and history
+
+All initiation requirements are initialized and `SEQUENTIAL_ANALYSIS_LOCK = OPEN`. The current method, evolving synthesis architecture, five specialist owners, master and source-bounded model/audit define the present routing. An OPEN lock does not itself admit a different witness or override source/publication controls.
+
+The V01/V02 repair, later architecture extensions, ledger promotions, checkpoint operation and source-consumption history are preserved in the [project changelog](REZERO_PROJECT_CHANGELOG.md). These are historical records, not competing current defaults. Git history and live audit statuses own exact publication receipts; this entrypoint owns current scope and the next permitted operation.
+
+## Reasoning-class routing
+
+- architecture repair/extension, final role-gap review, and full-series integration: `PREMIUM_QUALITY_FIRST`;
+- ordinary Japanese-primary VNN deep reading and interpretive master-ledger update: `SUBSTANTIVE_ANALYSIS`;
+- deterministic source identity, checksum, locator, and metadata maintenance: `BOUNDED_STANDARD` or `ROUTINE_FAST`;
+- source-verified checkpoints, mature character work, and difficult relationship/specialist synthesis: normally `DEEP_SYNTHESIS`, with evidence-based escalation for unusually propagation-sensitive cases.
+
+The stable class governs; literal provider/model names remain a mutable mapping in the corpus-wide reasoning policy.
+
+## Main reading methodology
+
+The numbered main light novels use a **prospective freeze**:
+
+1. establish the exact source witness and current analytical horizon;
+2. record material expectations, unresolved questions, and confidence before opening the next volume;
+3. read only the newly admitted source increment;
+4. identify what the new volume preserves, strengthens, revises, downgrades, rejects, or leaves open;
+5. write a bounded deep reading rather than a chapter transcript;
+6. freeze that state before advancing.
+
+Where an official/source-verified arc structure exists, preserve both global volume identity and arc identity. Do not infer or hard-code arc boundaries from fandom memory when the locked corpus can establish them directly.
+
+## Supplemental and alternate witnesses
+
+Non-spine material is not inserted merely because it is available.
+
+Before reading a supplement analytically, establish:
+
+- exact witness identity and source family;
+- publication order;
+- diegetic or route relationship to the main light novel where knowable;
+- the earliest safe analytical insertion point relative to the prospective main-volume horizon;
+- whether the item is mainline supplemental evidence, alternate-route/counterfactual evidence, a developmental web-novel witness, an adaptation witness, or something else.
+
+The witness protocol now separates publication horizon (`H_pub`), diegetic dependency (`H_diegetic`), and route/divergence dependency (`H_route`). The safe opening point `H_final` is the latest established dependency. If a material dependency is unresolved, `H_final` remains `OPEN` and the witness stays unread.
+
+Alternate-route material may illuminate constraints, latent tendencies, or counterfactual possibilities, but it does not prove that the same choice would occur in the main route under materially different knowledge, relationships, or conditions.
+
+## Initial analytical questions — not findings
+
+The sequential pass should test rather than assume questions including:
+
+- how repeated failure, partial success, and accumulated information change judgment, self-conception, planning, risk tolerance, and interpersonal behavior;
+- which character tendencies remain stable across materially different event-states and which are products of local information or pressure;
+- how asymmetric knowledge changes trust, consent, persuasion, deception, dependency, and apparent irrationality;
+- how relationships develop when continuity may be experienced differently by the participants;
+- how fear, grief, shame, hope, exhaustion, attachment, obligation, and trauma alter practical agency without being reduced to generic pathology labels;
+- how institutions, factions, status, law, custom, patronage, violence, and material resources constrain nominal choices;
+- which setting explanations are demonstrated, which are viewpoint-bound, which are institutional doctrine, and which remain unresolved;
+- how abilities, rules, costs, exceptions, and hidden mechanisms should be reconstructed without converting character theory into world fact;
+- how Japanese register, address terms, self-reference, politeness, insults, emotional formulae, and recurring lexical choices change interpretation;
+- where ordinary routines, food, work, study, leisure, humor, gifts, comfort, etiquette, and low-stakes choices reveal durable character structure;
+- which later conclusions genuinely revise earlier models and which merely add information unavailable at the earlier freeze.
+
+Publication follows the current repository integration checklist. Routing-current and stale-routing paths have different housekeeping requirements; exact Git/audit evidence owns receipts, and the work order below states required dependencies rather than a prose publication status.
+
+## Current work order
+
+1. Complete this implemented Mimi pair's own atomic publication gate: two new model/review artifacts and eight maintained current routes, exact targeted preimages/unaffected bytes, complete staged-diff/named-reference review, final-index author preflight and current-main/remote reconciliation. Use approved-owner exact-path commit/nonforce push and branch PR; merging stays owner/CI responsibility.
+2. Require immutable full-file/tree readback and the actual all-discovered exact-head full audit/trusted reporter, applicable completed housekeeping and later native/source/protected/seal consistency proof. Routing-current no-op needs no redundant child; regeneration needs its exact child gate. The previous V17 gate is complete, not certification of this new head.
+3. Only then open V18's admitted Japanese original in OPF order through actual full text/image EOF, against unchanged60Q/10P seal3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d. Derived reconciliation is not source admission or permission to open it early.
+4. Preserve all42 entering frozen artifacts/eleven older pairs, and guard this new pair after its own closure. Their historical defaults/local grades never silently become E021 or another source scope. Keep current371claims, five owners, master historical ancestry/both seals,20deaths21segments and all holder/consent/resource bounds.
+5. Mimi's current body cannot reply or newly consent; earlier waking use requires explicit phase/recipient/knowledge/resources. Her bruised wrist/Garfiel's apology, own other-hand support, explicit affection without proved reciprocal couple, ordinary pleasure/intrusion, incomplete understanding and finite protection remain distinct. The [current master readiness](04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md#13-promotion-readiness) owns use/readiness; no global grade follows.
+6. Continue prospective atomic volume and earned derived operations through activeV43 without routine confirmation. Source exhaustion is not published-series completion. Mandatory terminal architecture/state/acquisition review remains; no final specialist, sixth owner/index/field or complete-series synthesis is created merely by count.
+7. Admission43/V41exception and datedV44/V45 gaps are unchanged. Supplements/IF/WN/adaptations/new import narrative stay unopened; metadata/report is not admission. Ram chronologyOPEN, C116/M344's Frederica-subject control and Roswaal's qualifiers remain binding. Global curation/evaluation and protected integration retain separate authority. Muse base differs from captured city hall; source wording/query is not silently repaired.
+
+## Bootstrap abstentions
+
+- No synopsis, wiki, fandom consensus, adaptation memory, prior ChatGPT discussion, or model knowledge is promoted as a Re:Zero source finding by this scaffold.
+- No later volume, supplement, alternate route, or adaptation is allowed to contaminate an earlier prospective freeze.
+- No failed/discarded event-state is automatically treated as a durable active-world event; no active-world reset automatically erases its evidentiary value for character reconstruction.
+- No character's explanation of mechanics, history, politics, religion, another person's motives, or hidden causality is treated as objective fact solely because it is explicit dialogue or narration.
+- No IF/alternate-route evidence is silently blended into main-route personality claims.
+- No web-novel wording is treated as the light novel's wording.
+- No anime-only performance or staging is attributed to the light novel.
+- No PACTRIH score or cross-series ethical placement is assigned before source-grounded evidence is sufficient.
+- No character registry edit is implied by creating this analytical root; character discovery remains under the repository's separate curation authority.
+````
+
+## Priscilla V01–V18 implementation after verified V18 — attributable operation history
+
+V18's full source gate closed through [PR323](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/323), source4f6a7dafc097f4194b20c7f2868bbc85534b8bb8/integratedmain10576e0dace0d2fe888f28357e9ed6dc95846c15. Source audit40147767308 and main audit40149038549 actually executed all479discovered tests without nonpasses, with trusted exact-commit success; completed source-specific no-op housekeeping40148182273 and later native/source/protected/seal proof closed the gate. The map's separate measurement erratum binds1036296bytes/12280headroom/SHA c8fdaff1903a979cfea8d1eaa836151e0111efb48c87a22a49b1de48747b5209 to the committed master at2b235dd66da696a31a4bd5543f93671321aa04c1; frozenV18's earlier candidate measurements and every frozen byte remain unchanged. That measurement does not describe subsequent master growth.
+
+The [Priscilla integrated model](05%20Character%20Analysis/REZERO_PRISCILLA_V01_V18_CHARACTER_MODEL.md) and [separate review](08%20Audits%20and%20Manifests/REZERO_PRISCILLA_V01_V18_FIDELITY_REVIEW.md) implement the earned V01–V18responsibility: seven-axis selector, actual19-dimension/28negative-control/8NONCANONICAL_PROBE applications,13grouped findings repaired and complete final saved-content/source/name-reference review. Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY is not independent/held-out/runtime/global assessment or publication closure. Sixty-six contextual deliveries/3302unique positions=3300TEXT+2IMAGEreferences/145613base-text/5855ruby-reading characters and five actual selected image views revisit consumed admitted originals without a new source unit, admission or claim generation.
+
+Default is accepted Fourth assignment/collective departure with Liliana, with no separate tower arrival/battle/result shown. The pair differentiates selective care, coercive service/bodily tests, accepted/rejected approaches, earlier artistic refusal, pride pressure and self-staked trust. SupersededE010events do not become E021remembered history; Al's private knowledge/source-local hand wording do not prove complete biography, RBD receipt, universal favor or a decoded Wrath/SunSword mechanism.
+
+This ten-path transaction adds the pair and targets current routing/readiness in eight maintained documents. All45entering protected artifacts/twelve earlier scopes/defaults/local grades, all five specialist owners,377claims/master§§2–12/whole entering§14prefix, formal/reserved tails, source identities and complete incomingV18/outgoingV19prospects remain exact. Earlier log bytes remain an exact prefix; no additional historical move, field, owner/index or global-agent write follows. The new pair's own full publication gate is pending before V19/reuse; the PR323-only merge authorization does not authorize another integration. ActiveV43 and mandatory terminal architecture/state/acquisition review remain.
+
+### PR326 administrative owner-status correction
+
+PR326 review identified stale current work orders in the five mutable specialist owners. Their single current-status paragraphs now consistently record verified V18/PR323 closure and the implemented Priscilla pair at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY, with its own full publication/integration gate pending before V19. Every owner byte outside those five declared paragraphs, including all data rows, fields and historical bodies, remains exact. The model/separate frozen review and all45entering protected artifacts,377claims, formal/reserved tails and both complete prospective bodies remain unchanged. No new source, analytical finding, model-review grade or owner contract follows.
+
+The earlier whole-owner-byte preservation statements record initial source403f9d86, not a claim that these later administrative paragraph updates changed no file bytes. Source403 audit40158119432 actually executed479tests and completed source-specific housekeeping40158515154; the corrected head requires fresh preflight, full exact-head audit, housekeeping and later native proof. Neither prior green result closes the new head or authorizes another PR merge. [Review finding](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/326#discussion_r4369521306).

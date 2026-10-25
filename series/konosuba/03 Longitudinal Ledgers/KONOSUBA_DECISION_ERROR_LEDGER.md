@@ -2066,3 +2066,24 @@ Private willing contract qualifies public brainwashing account. Leen wedding bri
 Guild living-hijacker account differs from discovered skeleton and read journal. MAIN05positive scientist recognition is stronger than Dust02similarity. Two plant visits are one local episode;repeated first-human claim is directly contradicted by second use. Kazuma unoffered provisioning is not failed rehabilitation. Dust premature orb-destruction hypothesis is superseded by a functioning miniature machine. Source-known diagnostic B2residual-two-hours issue remains unchanged.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Specific failed-Kazuma-client/priest-fear conjunction supports qualified Lolisa join, with unshown different failure retained as rival. Chief own lake advocacy drives adventurers away; final apology is collective. Temporary warrior first-person section has an unmarked dream onset, so no independent physical Leen assault/drugging is inferred. Week begins today inDUST01U015550, only two days pass576; later complete two-week custody report is later knowledge.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Megumi’s emotion coexists with later source checking and a near-apology interrupted by Ozuma. Ozuma accepts an improvised ecological explanation and transfers real capability into excessive moral credibility, yet still notices immediate danger. Eibram changes an exorcism task while retaining a limit on a demanded blow. The veteran shifts from contents-only stakes to retaining the wallet and recipient-specific retaliation. Crow updates about identity while defending rank, then repeatedly withdraws under danger.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+The dryad’s living-dependent objection, wanted water and naturally expired-plant settlement support a conditional exchange constraint, while death threats and pressure resist an idealized fairness account. The dinner host checks immediate cat danger yet later admits wing-broth extraction and flees a rights confrontation; take-home permission belongs to another unjoined woman. The follower’s bag leverage is lost after provocation and Steal, with final fate unshown. Park-men harmful statements contradict a blanket harmless reading; the social lesson’s fake withdrawal is contradicted by the actual blast.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -5,14 +5,14 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.50"
+version: "1.52"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Original I1 and five BW additions retained; accepted LN01–09,23 supplements and KAK-JP-E0001–E0019; LN-JP-V10 separately authorized at metadata-only admission; E0020+ original work paused; E0432+/automatic releases/premature V1 excluded"
+source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0019; LN10 separately admitted outside immutable I1; original I1/E0020+ and dependent stages paused, V1/future releases unopened"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: LN10_METADATA_ADMISSION_ONLY_NO_NARRATIVE_INSPECTION
+review_status: LN10_SOURCE_AND_CUMULATIVE_TRANSACTION_REVIEW_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,7 +21,13 @@ do_not_use_as_literary_evidence: true
 
 # Source inventory and edition/witness architecture
 
+## Current LN10 analysis and closeout status — 2026-10-24
+
+The [complete V10 source transaction](../08%20Audits%20and%20Handoffs/SHUUKURA_V2_LN_V10_TRANSACTION_AUDIT.md) now covers all31components,4405native paragraphs and23actually viewed originals, with92 first-encounter records and full mainline/extra/paratext classification. All four logical ledgers are1.43. Whole introducing commit yields52completed/52admitted,52/464combined,LN10 1/1;46/458I1,51/463pre-LN10,WEB19/431,Narō0/290,23supplements,27discovery and4resolved/47unresolved of51gaps remain. The bounded analytical run records completed with both next fields NONE_LN10_RUN_COMPLETE; external publication verification remains pending until observed. Current entrypoint and latest appended checkpoint control; old metadata-only admission counts remain historical. Frozen I1/BW/LN10 inventories and static disclosure master are unchanged.
+
 ## Current bounded LN10 admission — 2026-10-24
+
+Historical metadata-only record follows; pending source duties/0coverage refer to admission time.
 
 The newest owner instruction admits only main `LN-JP-V10` for one complete deep-reading transaction under the unchanged method/architecture procedures, expressly adopted for this source by the dated current-state successor and [addendum](SHUUKURA_V2_LN10_ADMISSION_INVENTORY_20261024_A1.json). The acquired Japanese EPUB is **12,106,996 bytes / SHA-256 `80e1c8ad88eeeecc61dc8ab6d19072121ab46b9c5b5c14bd7137894c69556640`**. All 31 spine components are mandatory; fiction, paratext and image roles remain unclassified until actual inspection. Metadata/structure verification earns no narrative or visual coverage. The [latest LN10 record](#bounded-main-ln10-admission--2026-10-24) owns admission; the [current entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) owns operational state.
 
@@ -2024,3 +2030,34 @@ The owner’s request, “V10 has been added to the sources and needs to have a 
 This dated record supersedes only the former current LN10 exclusion and I1-only applicability for this source, adopting the existing prospective, Japanese-language, epistemic, four-ledger, claim-revision and atomic publication procedures unchanged. `BW-JP-V10` is a distinct accepted bonus; no duplicate or gap-resolution credit follows. The 51 historical gap candidates, four resolved/47 unresolved, 27 discovery duties and Narō0/290 state remain unchanged.
 
 This active single-operation admission is real metadata preparation. Narrative/visual inspection, entering/endpoint freezes, current ledger outcomes, due-prediction/claim adjudication, source correspondence, semantic review and final publication remain pending. Only the whole LN10 transaction can yield 52/464 and LN10 1/1. It then records completed/NONE and stops; original I1 remains interrupted and the full architecture unfinished.
+
+## LN10 source analysis complete, bounded run closed — 2026-10-24
+
+The nine-path transaction SHUUKURA-TX-LN-JP-V10-20261024-A1 includes new reading/audit, all four current ledger files, map, inventory and run checkpoint. Source SHA25680e1c8ad88eeeecc61dc8ab6d19072121ab46b9c5b5c14bd7137894c69556640; locator manifest4b9a714e9bfd2bc57df3dad3bd79c9aaaf0fe850c0a5e3b8567787745185f898. All31components/4405p/4324meaningfulp/23image occurrences/4428events were actually inspected in92consecutive root acknowledgments; original image pixels were viewed. Source reviewer independently read all4405p in112untruncated deliveries and verified structure/hashes, while viewing0image pixels. Semantic reviewer read both Q1s, complete journal and developed argument plus bounded359original paragraphs (324 initial and35 in a later clock recheck) and exact affected prior rows. Final source and cumulative A3 reviews accept the complete nine-file content; the later presentation promotion changes no source argument or ledger row. No modality capability remains unmet for this EPUB; no audio/video is present.
+
+Whole introducing commit yields52completed/52admitted and52/464combined,LN10 1/1. Frozen originalI1 remains46/458, pre-LN10 subtotal51/463, supplements23,WEB19/431,Narō0/290,27discoveryduties,51gaps=4resolved/47unresolved. Main novel lane10read acquired volumes is separate from originalI1 LN9/9. Three new claims/23older successors yield236IDs/745versions/1252strict quoted rows;66new props/20successors yield1230IDs/1743versions;6new rules/19successors yield192IDs/458pairs/477physical rows, preserving19legacy repeats and66excluded old claim-index rows. Character36events,relationship26events/16directions,15information tensions. No new forecast/test/domainvalidation;18/13,M0.13/S0.14noncurrentUNTESTED and zero validated domains remain.
+
+Root mainline Q1 was sealed before afterword/extra, whole-volume Q1 before reviewer results. Journal hash5f7bed539ae500208f8d45b8bc80b20a222081f1e959df7ae6bfd9b1ac7f53ba. Later source-literal corrections are attributable in the reading; no frozen evidence is rewritten. Separate event/presentation/disclosure clocks preserve current adult ownMiyagi throughchapter10, ownSendai throughchapter11, later observedMiyagi, both historical extra packets, and all WEB19/WEB17 states. No BW10-only endpoint is silently rewritten as full shopping completion. The V10 body receives actual later outcome credit; no future advertisement becomes a read narrative.
+
+The bounded analytical run records completed, OPEN foundation/single_operation/start=terminal/highwater LN-JP-V10 and both next fields NONE_LN10_RUN_COMPLETE. Original I1 remains interrupted atE19 with its wider pause. Actual fetched mainfb0dc312b4eae6bd5d5d07bb35bbf88659f6021d contains matching active LN10 admission following merged PR318; local08116e9aa9188a31885b817b84a5fac901d3f464 ordinarily adopts it. Full seven before images and governance controls are unchanged. This is the ordinary final-admission route in initiation policy3.9.4, without portable proof or comparison-ref/control substitution; earlier active-only planning is superseded by observed main integration of metadata.
+
+Source and cumulative content acceptance is complete; external publication remains pending until actual receipts. Required closeout is exact INDEX preflight, approved author/committer and nine-path commit, ordinary push/readback, the new actual-head audit/any housekeeping child and owner/CI-controlled analytical main acceptance. This completed source-transaction metadata does not claim future CI or analytical main integration. Stop new narrative and preserve original I1/E20+, V1/future-source exclusions and all dependent-stage pause throughout.
+
+## LN10 freeze-time provenance erratum — 2026-10-24
+
+`ERRATUM-LN10-FREEZE-TIME-001`; documentation authored at **2026-10-24T23:47:35.566827+00:00 (UTC)**. This is retrospective public attestation of previously retained evidence. It is not a new prospective freeze, a substituted commit timestamp, or a repeated first reading. The original immutable addendum `SHUUKURA-V2-LN10-20261024-A1` records only `frozen_on: 2026-10-24`; its missing public time/timezone was not supplied by merely citing a private hash. That omission in the earlier public record is acknowledged and the original bytes remain intact.
+
+The actual retained **pre-reading entering/source-set binding instant** is **2026-10-24 21:40:13.309815 UTC**, stored literally as `ENTERING_FREEZE_A1.json.at_utc = 2026-10-24T21:40:13.309815+00:00`. Its exact8470bytes/SHA256`1d95f8091ae3046b29f6ed18747c7123df053b134720f9b5de15d3ef524d5c53` bind the immutable19507-byte inventory/SHA256`68d6c1d3bc561123ef27f528413ea4f2e6ab684a04e61cad6fb9ff2e80fc2d11`, the one admitted source and native locator manifest. The hash identifies the original evidence; the quoted field supplies the timestamp. The earlier first serialization or first freeze of the date-only inventory itself is **UNKNOWN** and is not inferred from this later pre-read binding, file modification time or Git history.
+
+| Retained event | Literal UTC time | Exact evidence / binding |
+| --- | --- | --- |
+| Entering/source-set binding | `2026-10-24T21:40:13.309815+00:00` | ENTERING_FREEZE_A1.json;8470bytes;SHA256`1d95f8091ae3046b29f6ed18747c7123df053b134720f9b5de15d3ef524d5c53`; frozen inventory/source/locator bindings and no V10 narrative or image exposure declared. |
+| Reading release | `2026-10-24T21:40:13.327002+00:00` | READING_RELEASE_A1.json;854bytes;SHA256`f1e59d509a7e25c95ff1f380835a7fcc6dc16755d95fef4354d32999145fbc20`; pins that freeze, next event1, reading credit0. |
+| First source acknowledgment | `2026-10-24T21:40:33.209787+00:00` | ack-0001.json;1549bytes;SHA256`9f732fcb2832a473e722fcc6fb706810367f67fbea60e7175dcb65a0ceaee9c4`; pins same freeze/source and records original cover inspection, no narrative opened. |
+| First encounter seal | `2026-10-24T21:40:33.221228+00:00` | seal-0001.json;439bytes;SHA256`f388a804e67650e0d51a599687eca276cbc5a8eae06ebea9522caae48be54331`; pins first acknowledgment and original journal prefix; reading incomplete. |
+
+This is retained local-clock evidence with an ordered freeze→release→first-acknowledgment→seal chain, not independent external clock authentication. It supports a fixed one-unit source-set binding before the first recorded source inspection. It does not recover an unknown earlier inventory-authoring instant or retroactively make the earlier public record complete. No narrative prediction/model validation gains credit from this correction.
+
+The unchanged ordered source set is `[LN-JP-V10]`, exact acquired witness `ACQUIRED-20261024-A1-80e1c8ad88ee`,12106996bytes/SHA256`80e1c8ad88eeeecc61dc8ab6d19072121ab46b9c5b5c14bd7137894c69556640`; all31components remain compulsory. Native locator SHA256`4b9a714e9bfd2bc57df3dad3bd79c9aaaf0fe850c0a5e3b8567787745185f898` and raw inventory SHA bind component order. For explicit ordered-ID/hash recovery, this documentation computes SHA256`101ddcf67f1bd0e8ab2389bd8bfe49824a217ce60a50303cf5ef84446bf3b4d7` over UTF8 `LN-JP-V10`, one TAB, the64-character source SHA256, then LF, with no BOM. That derived digest is computed now from retained membership; no pre-reading computation time is asserted. Edition policy remains the exact acquired Japanese electronic witness; retail/conversion lineage unproved, no automatic replacement. Start=terminal remains LN-JP-V10; original I1/BW inventories and all exclusions remain exact.
+
+**Remaining procedural acceptance:** live architecture's source-freeze paragraph requires date/time/timezone. It does not literally require adding those fields inside the immutable JSON. The author submits this evidence-backed clarification for owner/CI review of whether the retained pre-read binding plus this public attestation sufficiently documents that contract. Structural CI success or a hash alone does not decide procedural sufficiency, and this erratum grants no waiver. That acceptance residual remains pending in PR322. Source analysis is complete, both next operations remain NONE_LN10_RUN_COMPLETE, and original I1/E0020+/G3–G7 remain paused. Frozen inventory, reading, journal, Q1s, seals and all four analytical ledgers are unchanged.

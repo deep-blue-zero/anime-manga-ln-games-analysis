@@ -233,6 +233,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Reviewed current evidence:
   - [`character-model` — Otto Suwen: V01–V13 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md)
 
+<a id="priscilla-barielle"></a>
+
+### Priscilla Barielle
+
+- Entity ID: `re-zero:priscilla-barielle`
+- Entity aliases:
+  - プリシラ・バーリエル (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:priscilla-barielle@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Priscilla Barielle across the original Japanese main light novels V01–V18, revisiting already-consumed V04, V06, V16, V17 and V18 deliveries, with a V05 window used only as contextual negative evidence; the horizon label does not assert an appearance in every volume. Default is living E021 at the Fourth assignment and departure with Liliana; superseded E010 and E020 states require explicit selection and are not default memories. No V19 or later, EX/side-story, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Priscilla Barielle: V01–V18 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_PRISCILLA_V01_V18_CHARACTER_MODEL.md)
+
 <a id="ram"></a>
 
 ### Ram

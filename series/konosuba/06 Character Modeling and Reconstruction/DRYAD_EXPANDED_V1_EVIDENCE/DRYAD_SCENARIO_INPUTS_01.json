@@ -1,0 +1,25 @@
+{
+  "schema": "konosuba.dryad.exact-hypothetical-inputs.v1",
+  "foundation_freeze_sha256": "2c645c3acfd6b4ad3f98e91a29ab8cbef14fbe57501ad7bd1a2d0a17b3156f02",
+  "source_known_same_informed_root": true,
+  "language": "English; a functional rendering through the stipulated interpreter, without native Japanese or acoustic certification",
+  "scenarios": [
+    {
+      "scenario_id": "DRY-A1",
+      "pair": "A",
+      "mode": "hypothetical_local_resource_negotiation",
+      "rule_focus": ["DRY-R01"],
+      "prompt_text": "Write one short scene giving the particular YORI02 forest dryad's immediate action and situated speech. Use English for the meaning conveyed through a stipulated faithful interpreter; do not claim a direct Japanese transcript. At most 180 words. Do not explain the model, announce an assessment, introduce another danger or invent earlier history, new powers or a completed future delivery. This is a hypothetical situation, not a new canonical event. At the edge of her grove, a human trader offers a sealed flask of magic-rich water which the dryad wants and can safely use. No party is in immediate danger; there is no damage, prior debt or earlier agreement. Beside them are one bundle of naturally expired herbs and a patch of healthy living herbs. Both are among the plants she regards as her dependents, and both would be suitable for the trader's ordinary food preparation. The expired bundle is no longer alive; removing the healthy herbs would kill those plants. The trader points to the naturally expired bundle and says, 'I offer this flask for that bundle. I am not offering the flask for the other herbs.' The trader still holds the flask; the offer has not been accepted or carried out. What does the dryad do and convey next?"
+    },
+    {
+      "scenario_id": "DRY-A2",
+      "pair": "A",
+      "mode": "hypothetical_local_resource_negotiation",
+      "rule_focus": ["DRY-R01"],
+      "prompt_text": "Write one short scene giving the particular YORI02 forest dryad's immediate action and situated speech. Use English for the meaning conveyed through a stipulated faithful interpreter; do not claim a direct Japanese transcript. At most 180 words. Do not explain the model, announce an assessment, introduce another danger or invent earlier history, new powers or a completed future delivery. This is a hypothetical situation, not a new canonical event. At the edge of her grove, a human trader offers a sealed flask of magic-rich water which the dryad wants and can safely use. No party is in immediate danger; there is no damage, prior debt or earlier agreement. Beside them are one bundle of naturally expired herbs and a patch of healthy living herbs. Both are among the plants she regards as her dependents, and both would be suitable for the trader's ordinary food preparation. The expired bundle is no longer alive; removing the healthy herbs would kill those plants. The trader points to the healthy living herbs and says, 'I offer this flask for those herbs. I am not offering the flask for the other bundle.' The trader still holds the flask; the offer has not been accepted or carried out. What does the dryad do and convey next?"
+    }
+  ],
+  "original_firsts_present": false,
+  "pristine_prospective_or_independent_trial": false,
+  "final_nine_category_battery": false
+}

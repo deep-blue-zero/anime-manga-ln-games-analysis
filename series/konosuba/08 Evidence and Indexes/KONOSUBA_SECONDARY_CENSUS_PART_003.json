@@ -3294,6 +3294,21 @@
         "main_integration_not_certified_by_author_gate": true,
         "no_independent_accuracy_or_confidence_gain": true,
         "separate_housekeeping_run": null
+      },
+      "cohort43_alias_reconciliation": {
+        "old_episode_route": 100,
+        "positive_locator": "YORI01U014P63",
+        "same_existing_individual": true,
+        "existing_C27_study_and_tier_unchanged": true,
+        "new_person_or_study_credit": 0
+      },
+      "cohort43_identity_supplement": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI01_IDENTITY_AND_SUPPORTING_CAST_COHORT43_SUPPLEMENT.md",
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Exact-source author publication is closed for the scoped C43 interpretation or alias supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "cohort43_publication_resolution": {
+        "source": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "424fb940e26dd4b2e6da6803e50afd81cef9b6cb1446fb0906d0dad2a3640d01"
       }
     },
     {

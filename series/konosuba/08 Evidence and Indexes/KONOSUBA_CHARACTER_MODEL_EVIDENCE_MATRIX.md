@@ -1258,3 +1258,29 @@ Doreck81/Gaibil82/head butler84earn3provisional models/5rules;king83earns monogr
 Row133MAIN02/05scientist earns a monograph and two-rule provisional reconstruction,with explicit contextual identity recognition and documentary/generic rivals. Rows89/90/145earn substantial monographs without forced models;92/146andfour new roles earn six compact profiles. Eight sparse/access records andtwo unfinished substantive routes remain distinct. Four originals/two dependent pairs carry retained binding ambiguities and no independent accuracy. Candidate totals63models57scoped106compact32monograph-only397nonfinal routes.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Rows395/396receive substantial monographs with mechanism/attribution rivals rather than forced models. Seven new compact profiles and15T0routes append; seven entering rows11/17/80/88/132/395/396change,390remain exact per plane. Model artifacts63/source-scoped secondary entries57unchanged;113compact34monograph-only419nonfinal routes. Qualified identity join can retain two historical model artifacts for one provisional individual without independent duplication.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Ozuma93 adds one two-rule provisional model; six other new monographs remain monograph-only. Four bounded profiles and 37 source/access records preserve individual versus group/report distinctions. Candidate totals: 64 model artifacts / 58 source-scoped secondary model entries / 117 compact profiles / 40 monograph-only routes / 456 nonfinal records. Existing63 models and every old rule/first/score remain exact. The old deputy100 joins existing231 without increasing study counts. Same-root hypothetical compatibility is separate from empirical model support.
+
+[Current evidence index](KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C43 exact-source author gate closed — 2026-10-25T02:58:12.478636+00:00
+
+C43 exact-source author publication is closed. The one new Ozuma two-rule provisional model remains source-concentrated with four unchanged English originals/two dependent contrasts and retained binding/transfer issues. Current64 models/58 source-scoped secondary entries/117 compact/40 monograph-only/456 nonfinal records do not measure unique people or independent accuracy. Technical479-test/127-check success is separate from semantic maturity, designated capability evaluation and final StageD/battery obligations.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+Six new monographs add the dryad’s one-rule provisional model and five monograph-only routes. Twenty-one bounded profiles and56 nonfinal source/access records produce candidate65 model artifacts/59 source-scoped secondary model entries/138 profiles/45 monograph-only routes/512 records. These are not unique people or independent observations. Chomusuke’s frozen study stays exact; all64 entering models and all earlier outputs/scores remain. The dryad’s two English originals expose constraint use but leave generic and source-echo rivals unresolved. Full program validation remains due.
+
+[Current evidence index](KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

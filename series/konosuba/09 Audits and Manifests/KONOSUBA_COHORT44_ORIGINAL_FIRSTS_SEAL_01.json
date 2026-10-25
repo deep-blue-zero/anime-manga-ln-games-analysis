@@ -1,0 +1,28 @@
+{
+  "schema": "konosuba.cohort44.source-safe-original-firsts-seal.v1",
+  "private_complete_seal_sha256": "1319a7edfb3a3ff3261051ab7ba63461bed100f578feabe2e38a26de71ddaa53",
+  "sealed_utc": "2026-10-25T03:51:56.225644+00:00",
+  "input_freeze_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_EXACT_INPUT_FREEZE_01.json",
+  "input_freeze_sha256": "a13ae0974e8bde8f88d13168e0970b4ad1be55d9ac7b1686c2075593469646cc",
+  "original_bundle_path": "series/konosuba/06 Character Modeling and Reconstruction/DRYAD_EXPANDED_V1_EVIDENCE/DRYAD_FIRST_OUTPUTS_01.json",
+  "original_bundle_sha256": "9252224c8f28c620486a1caf41b8553db7b2ea26adc69c1d93a7d7d7c181fa30",
+  "response_pins": [
+    {
+      "scenario_id": "DRY-A1",
+      "UTF8_body_sha256": "b4a4688f76772f035562d345097438a21d7956e31daed9c29ca4263fb3d4145d",
+      "word_count": 97,
+      "attempt": 1
+    },
+    {
+      "scenario_id": "DRY-A2",
+      "UTF8_body_sha256": "ddeeea87e87ba040a2ecd839e9e2f77543ee11aaa7462f3c348c2bcaa06985a5",
+      "word_count": 84,
+      "attempt": 1
+    }
+  ],
+  "first_body_count": 2,
+  "dependent_pairs": 1,
+  "feedback_before_seal": false,
+  "body_or_rule_repair": false,
+  "independent_accuracy_grade_confidence_gain_or_final_battery": false
+}

@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.32
+generation: V0.34
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -724,6 +724,28 @@ The original V13 witness is7580833bytes/SHAf352e6bf101a26c3b0cfc35bec32677afc886
 - **Source admission and acquisition priority:** unchanged43-original lock/V41exception; V44/V45 acquisition before authorized boundary is reached, not done here. New metadata/report does not admit unread works. V17+/nonspine/new import narratives remain unopened.
 ````````
 
+## Volume 18 consumption record — original admitted witness, no new admission
+
+- **Identity:** RZ-MAIN-LN-JA-V18, Re Zero - Volume 18.epub (normalized filename is a locator);20485268bytes/SHA7cfdbbfd68d1141500df35f6cd0065545accdc50f0bb88dcbe471c2165a54584;58ZIPentries/originalCRCpass. Japanese title/edition/semantic source remain the locked original, not an advertisement's instructions.
+- **Actual consumption:**21OPFmembers/73bounded actual deliveries/3772positions=3751TEXT+21IMAGEreferences/166433base-text characters, zero gaps/duplicates. All21OPFimages and one extra packaging-ad image were actually viewed:22packaged images. Narrative p-007#B0209《了》and final p-bookwalker#B0001 are reached; all afterword/design/promotional/jacket/colophon/logo text is paratext.
+- **Navigation/ruby:** full1400-byte navigation/SHA700838839b0bf16985a9338ba7b89de8ec8f2d38d9deb3a398ced14dabd4d598,12labels/96characters; all571unique base/reading pairs in6actual deliveries cover1939groups/2636labels and match original raw text. Early deliveries2–6 retain honest actual-delivery acknowledgments, not a false claim that all original transient raw output was saved; no reconstructed/duplicate reading credit.
+- **Entering gate:** Mimi17 source/finala453ba89260ef5d1d00a7c89fd8719f686a8add0 completed actual459discovered/executed tests, trusted exact-head reporter, source-specific completed routing-current housekeeping no-op and later native/source/protected/seal proof before V18 opening. V17's earliercfad8d70gate is independently closed. These do not certify a later V18publication head.
+- **Prospective/state boundary:** exact incoming15685-byte60Q/10Pseal3cb3c253 remains literal; current377claims adjudicate371predecessors223P/110S/30R/8O+6NEW, all60Q/10P separately. LivingE021continues20deaths21arrived segments; connected leg/waking/focal shifts/independent departure add no return. No death21/E022, all-city safety, completed tower victory or restored resource is supplied.
+- **Current source-facing limits:** actual pre-speech英雄幻想warning529–0569 and earlier child/adult shelter restraint582–0603 are not the later speech's universal effect. Named Fredo/sister life does not supply every parent's fate. Public Kurgan/private Theresia, contested Tome responsibility/private motives, patient refusal/hidden retry and separate mirror1003–1022allocation keep actors/audiences distinct. Literalリブレ・フエルミ/屍兵reading and Frederica-subject control remain.
+- **No opening/admission through paratext:** V19/OVA/collection/booklet/rehost references were read as packaged paratext, not their advertised narrative or directions. JapaneseV01–V43/V41exception and datedV44/V45gaps stay unchanged. The metadata-only subsequent-import note is append-only against the historical manifest and does not admit/open those works. This is not a fresh all43object audit or complete-to-date bibliography.
+
+## Current source-state summary
+
+- **Admitted:** unchanged Japanese mainLN V01–V43; boundedV41replacement; no admitted translation/supplement/EX/IF/WN/adaptation. DatedV44/V45gaps are not a new freshness claim.
+- **Actual consumed source horizon:** verified V18; source4f6a7dafc097f4194b20c7f2868bbc85534b8bb8 completed its full gate through PR323/integratedmain10576e0dace0d2fe888f28357e9ed6dc95846c15. Source/main479-test audits, completed source-specific housekeeping and later native/source/protected/seal checks passed. All45entering protected artifacts/twelve earlier pair scopes/defaults/local grades remain exact; earlier source/model gates are closed.
+- **Current owners/readiness:**377claims, E021/20deaths21segments, K654/M408/I353/R138/RT327; five specialist owners keep exact analytical records/history while their current-status paragraphs are synchronized; master owns person/ordinary/Japanese/questions/readiness. The thirteenth pair, [Priscilla V01–V18 model](../05%20Character%20Analysis/REZERO_PRISCILLA_V01_V18_CHARACTER_MODEL.md)/[separate review](../08%20Audits%20and%20Manifests/REZERO_PRISCILLA_V01_V18_FIDELITY_REVIEW.md), is implemented at MONOGRAPH_READY/local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after13grouped findings; own publication gate pending, no independent/held-out/runtime/global grade.
+- **Bounded reconciliation, no admission:**66contextual deliveries in already-consumed Japanese originals cover3302unique positions=3300TEXT+2IMAGEreferences/145613base-text/5855ruby-reading characters; five selected original images were actually viewed. Exact size/hash/CRC and locus correspondence were checked. This is neither fresh whole-volume consumption nor a new source unit/admission/claim generation. Actual19dimensions/28controls/8NONCANONICAL_PROBE applications and complete saved-content/name-reference review support only the scoped local result.
+- **Next operation:** close the implemented Priscilla pair's own complete publication gate, then V19. Default remains accepted Fourth assignment/collective departure with Liliana; no separate Priscilla tower arrival/battle/result shown. OutgoingV19body60Q/10P/17236bytes/SHAc69ce35c1af024204a354e95692137007d52b10c7b3d3613d13da13ef50c5ede stays prospective. V19+/nonspine/new import narratives remain unopened.
+- **Execution/controls:** activecontinuousV43/terminal review; no ordinary pause, source extension, global grade or final specialist. Ram chronologyOPEN, C116/M344Frederica-subject/Roswaal qualifications and all protected history/seals remain. Native size/inverse and later publication checks remain distinct from semantic acceptance.
+
+### Exact entering V17/Mimi source summary — historical
+
+````markdown
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01–V43 continuous; the bounded V41 replacement is unchanged.
@@ -735,3 +757,4 @@ The original V13 witness is7580833bytes/SHAf352e6bf101a26c3b0cfc35bec32677afc886
 - **Prospect:** exact60Q/10P V18 body15685UTF-8bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d remains fixed. Derived retrieval does not alter it or admit later source.
 - **Current execution:** active continuous terminalV43; E021/20deaths21arrived segments. Subaru's severed thigh/black-blood/flame aftermath and Emilia's coercive captivity remain unresolved. Mimi remains living/unconscious under nonclosing-wound treatment/physical hemostasis/risky sharing, not stable/cured or available for a new reply/assent.
 - **Controls and exclusions:** current371claims/five owners, all42 entering freezes/eleven earlier scopes/defaults/grades, Ram chronologyOPEN, C116/M344 Frederica-subject and Roswaal qualifiers remain. Garfiel's V17 reconciliation does not rewrite his V10–V15 pair. V18+/nonspine/new import narrative remains unopened; acquisition/report is not admission or automatic extension beyondV43.
+````
