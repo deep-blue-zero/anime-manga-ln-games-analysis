@@ -5,7 +5,7 @@ artifact_type: bootstrap_audit_receipt
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: active_provisional
 scope: "Historical reconnaissance, exact authored manifest and owner-review handoff"
 source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
@@ -100,3 +100,17 @@ The approved published basis was `362416e20a94362c55bd8ef6651dbe68bc1e256d`, wit
 Version 0.2 records architecture approval across the ten Markdown artifacts. The synthesis architecture becomes canonical; the other instruments retain active_provisional status because no source analysis or admission is established. The routing descriptor requests PRESENT_REVIEWED materialization for the owner-reviewed bootstrap; this is not source-completeness or reconstruction readiness. The method explicitly names its existing STILL_IMAGE lane with source-checked TEXT support under the newly accepted medium-routing policy; the evidence obligations and four-ledger design are unchanged. Housekeeping remains the only writer of generated routing outputs.
 
 The current entrypoint now routes to OWNER_SOURCE_SCOPE_DECISION. SEQUENTIAL_ANALYSIS_LOCK remains CLOSED; source admission remains NOT_ADMITTED; all narrative counters and ledger record sets remain zero. Original bootstrap observations, source hashes, component candidates, limitations and the historical pending-review account above are retained. No additional source retrieval or inspection occurred during approval recording. Merge preparation requires current-main reconciliation, author preflight, exact-scope review, ordinary publication and a fresh exact-head audit before the PR is released from draft; Git/GitHub records and the PR receipt own the resulting publication identity.
+
+## Owner-selected local working source — 2026-10-24
+
+The owner instructed: "For the purposes of analysis a local copy of the manga in the workspace will be used," then identified the existing title folder. This selects its single Japanese revised All-in-One EPUB as `CM-JP-AIO2020-LOCAL` for future analysis. Exact local locations remain in the title-local README and verification receipt, outside public Git.
+
+The independently verified local file is 109,599,835 bytes, SHA-256 `b4412bb3dad58bcda14de1bfb831b1b62d44db373c398d34ca7a032e91adfbd4`. It contains every one of the 1,086 archived-source members, each individually SHA-256-identical, plus `META-INF/calibre_bookmarks.txt`. The archived file remains `CM-JP-AIO2020`, 109,599,529 bytes, SHA-256 `ce389cb785a37f6b271065c33a177bd8c9a62428e5c3c58c6bf2be756822b617`. The additional bookmarks member explains the changed archive identity; neither the source file nor historical acquisition/propagation manifests were modified. Bookmark contents were not inspected.
+
+Local ZIP CRC, metadata, manifest resources, 539-entry rtl spine and 539 JPEG resources passed bounded structural checks. No narrative image or OCR text was inspected, no unit was admitted and no ledger record was added. The earlier contents/colophon observations retain identical member bytes. This comparison does not establish narrative completeness, component ends, translation equivalence or inspection legibility.
+
+Version 0.3 updates the current entrypoint, source map, method and architecture to use the selected local witness and digest; this receipt appends the decision. The routing descriptor describes evidence as external to Git, covering both archived provenance and local use. The local README points to the new verification receipt; source payloads, raw provenance, exact local paths and derived verification data remain outside analytical Git. The four ledgers, reconstruction protocol, synthesis dependencies, completion gates and INITIAL architecture lifecycle are unchanged.
+
+Publication basis: approved/audited head `9765330ed0e7c446c60dc34477f9c5d2620a7790`; subsequent main `10576e0dace0d2fe888f28357e9ed6dc95846c15` was reconciled through `a89c11a6d4dd06f5517c71cf3131aaf5b68e5ad5`, preserving project tree `1da447456917adf8a01650c7659b5f5afabb55d7` before these targeted changes. Fresh author preflight, housekeeping and an exact-head audit remain required for this tranche. The existing owner draft release remains effective.
+
+The current next operation remains OWNER_SOURCE_SCOPE_DECISION for supplemental boundaries and a bounded first-reading authorization after source-admission checks. SEQUENTIAL_ANALYSIS_LOCK remains CLOSED, source admission NOT_ADMITTED, narrative pages inspected and sequential counters zero. Witness selection is settled for this working copy; this instruction does not itself authorize the first reading.

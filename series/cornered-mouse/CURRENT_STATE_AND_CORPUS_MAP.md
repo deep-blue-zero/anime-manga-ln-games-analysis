@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: active_provisional
 scope: "Single current entrypoint, source boundaries and next permitted operation"
 source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
@@ -25,9 +25,12 @@ project_initialization:
   method_status: active_provisional
   architecture_status: canonical
   source_reconnaissance_complete: true
-  source_reconnaissance_scope: BIBLIOGRAPHY_DRIVE_PROVENANCE_CONTAINER_CONTENTS_AND_COLOPHON_ONLY
+  source_reconnaissance_scope: BIBLIOGRAPHY_DRIVE_PROVENANCE_CONTAINER_CONTENTS_COLOPHON_AND_LOCAL_MEMBER_COMPARISON_ONLY
   source_reconciliation_complete: false
   source_admission: NOT_ADMITTED
+  selected_source_witness: CM-JP-AIO2020-LOCAL
+  source_access: OWNER_DESIGNATED_LOCAL_COPY
+  owner_source_location_decision_date: "2026-10-24"
   required_day_one_infrastructure_initialized: true
   required_day_one_infrastructure:
     - "03 Longitudinal Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md"
@@ -38,7 +41,7 @@ project_initialization:
   owner_review: ARCHITECTURE_APPROVED
   owner_architecture_approval_date: "2026-10-24"
   sequential_analysis_lock: CLOSED
-  lock_reason: AWAITING_WITNESS_SELECTION_AND_SOURCE_ADMISSION
+  lock_reason: AWAITING_SUPPLEMENTAL_SCOPE_AND_SOURCE_ADMISSION
   next_permitted_operation: OWNER_SOURCE_SCOPE_DECISION
 analytical_execution:
   authorization: BOOTSTRAP_ONLY
@@ -57,18 +60,18 @@ supplemental_execution:
 
 One connected manga project by **Setona Mizushiro / 水城せとな**: *The Cornered Mouse Dreams of Cheese* / 窮鼠はチーズの夢を見る, followed by *The Carp on the Chopping Block Jumps Twice* / 俎上の鯉は二度跳ねる. Aliases include Kyuuso/Kyuso wa Cheese no Yume o Miru and Sojou/Sojo no Koi wa Nido Haneru; the author also uses 俎上の鯉は２度跳ねる. Stable slug: `cornered-mouse`; canonical root: `series/cornered-mouse/`. The sequel has no separate analytical root.
 
-**Next permitted operation: OWNER_SOURCE_SCOPE_DECISION. SEQUENTIAL_ANALYSIS_LOCK = CLOSED.** The owner approved this bootstrap architecture on 2026-10-24 and authorized release from draft for merge preparation. This approval establishes the architectural foundation; witness selection, supplemental scope and narrative admission remain pending.
+**Next permitted operation: OWNER_SOURCE_SCOPE_DECISION. SEQUENTIAL_ANALYSIS_LOCK = CLOSED.** The owner approved this bootstrap architecture on 2026-10-24 and authorized release from draft for merge preparation. The owner subsequently selected the local All-in-One copy for future analysis; supplemental scope and narrative admission remain pending.
 
 ## Source and authority boundary
 
 | Responsibility | Present state |
 |---|---|
-| Canonical evidence | Drive series folder (Drive folder ID `1WXDzO2vyHsVtI76FoZlwCZsaNOg8MunI`); primary and deterministic derived evidence remain outside Git |
-| Available Japanese witness | One revised 2020 All-in-One EPUB, `CM-JP-AIO2020`; bytes retrieved, SHA-256 matched to acquisition manifest, container/spine/resources checked |
+| Evidence and provenance | Archived Drive source and acquisition records retain their provenance IDs; the owner-designated local copy is the active analysis source. Primary and deterministic derived evidence remain outside Git |
+| Selected Japanese witness | Revised 2020 All-in-One local EPUB, `CM-JP-AIO2020-LOCAL`; 109,599,835 bytes, SHA-256 `b4412bb3dad58bcda14de1bfb831b1b62d44db373c398d34ca7a032e91adfbd4`; all 1,086 archived-source members match byte for byte, with one extra Calibre bookmarks member |
 | Bibliographic coverage | Publisher and embedded contents list both principal works, collected short components, and ハミングバード・ラプソディ; narrative completeness remains unverified |
 | Visual inspection | Contents and colophon only; zero narrative pages inspected, zero admitted units, zero sequential readings, no narrative high-water mark |
 | Other witnesses | 2006, 2009 original-form pair, Reboot pair and official English pair bibliographically identified; none located in the bounded series-folder inventory |
-| Edition decision | Pending owner review; available revised All-in-One is the practical candidate, not a verified substitute for the original-form 2009 pair |
+| Edition decision | Owner selected the local revised All-in-One on 2026-10-24; original-form 2009, Reboot and English comparison remain separate unacquired strategies |
 | Longitudinal state | Four initialized schemas; zero source-derived rows, subjects, claims, predictions or readiness assessments |
 | Reconstruction / synthesis | Protocol only; no monographs, models, capability grades, specialist essays or literary conclusions |
 
@@ -89,7 +92,7 @@ The owner-approved architecture governs this foundation. The source map, method,
 
 ## Source selection and admission prerequisites
 
-Architecture review is accepted. Choose the mainline witness: accept the available revised AIO2020 basis with explicit limits, or defer selection until an original-form Japanese pair can be reconciled. Determine the intended supplemental scope, especially the unavailable Reboot-only two-part short. Authorize a specific first unit or bounded run only after page/component boundaries, visual legibility, source lock and entering knowledge boundary are verified. No such authorization exists now.
+Architecture review is accepted, and the owner-designated local revised AIO2020 copy is selected as the working witness. Its exact location is retained in the local source handoff; the source map binds its own digest and archived-source equivalence. Determine the intended supplemental scope, especially the unavailable Reboot-only two-part short. Authorize a specific first unit or bounded run only after page/component boundaries, visual legibility, source lock and entering knowledge boundary are verified. No such authorization exists now.
 
 The owner released the bootstrap draft hold for merge preparation on 2026-10-24. Repository integration follows the approved merge workflow; this source branch does not itself establish integration into main. Architecture approval and PR release do not open source admission. For a future reading, the owner-approved method/architecture, source admission and OPEN lock must agree with a recoverable continuation mode, authorized start, terminal boundary and candidate operation. Default one-unit execution applies when the later instruction is ambiguous.
 

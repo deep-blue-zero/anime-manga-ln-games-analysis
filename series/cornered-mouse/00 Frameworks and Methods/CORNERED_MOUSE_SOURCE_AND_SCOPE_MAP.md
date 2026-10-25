@@ -5,7 +5,7 @@ artifact_type: source_scope_map
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: active_provisional
 scope: "Canonical work, edition, component and evidence-availability map"
 source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
@@ -30,7 +30,7 @@ The reading order is 窮鼠はチーズの夢を見る, then 俎上の鯉は二�
 |---|---|---|
 | JP-JC2006 | January 2006 first collected title work, Shogakukan Creative | Not located |
 | JP-FCA2009 | May 2009 新装版 title work plus sequel, Shogakukan; original-form editorial category | Neither separate book located |
-| JP-AIO2020 | Revised All-in-One combining both works and Hummingbird; publisher digital release 2020-04-10, JDCN `098710360000d0000000` | One EPUB byte-checked below |
+| JP-AIO2020 | Revised All-in-One combining both works and Hummingbird; publisher digital release 2020-04-10, JDCN `098710360000d0000000` | Archived source and owner-selected local analysis copy byte-checked below |
 | JP-RB2020-A / B | Two Reboot Editions, announced for 2020-04-10; separate ISBN identities | Neither located |
 | EN-SS2019 / EN-SS2020 | Seven Seas, 2019-11-26 / 2020-02-11; ISBNs `9781642757590` / `9781642757606`; translation Jocelyne Allen | Neither located; textual/visual edition relationship unverified |
 
@@ -38,9 +38,9 @@ The reading order is 窮鼠はチーズの夢を見る, then 俎上の鯉は二�
 
 The official English [title-work record][B04] and [sequel record][B05] establish the pair's identities and translation credit. Their summaries motivate open methodological questions only. No synopsis-derived behavioral or ending claim is admitted.
 
-## Canonical evidence and provenance
+## Evidence provenance and selected local analysis copy
 
-The evidence-root README (Drive Doc ID `1K5p3nbvCyNIkHrGID7iIp6KWx_k_yMZstEa6udHks1g`) and live series inventory (Drive Doc ID `1bfPi00AKmELjeXmdCudU_4HqOknTIOODANEi12GDJFw`) route the series evidence folder (Drive folder ID `1WXDzO2vyHsVtI76FoZlwCZsaNOg8MunI`). Complete direct-child listing returned one EPUB and three provenance files. No unrelated Drive collections were crawled; absence here is not a claim that the owner has no other copy.
+During the bootstrap, the evidence-root README (Drive Doc ID `1K5p3nbvCyNIkHrGID7iIp6KWx_k_yMZstEa6udHks1g`) and live series inventory (Drive Doc ID `1bfPi00AKmELjeXmdCudU_4HqOknTIOODANEi12GDJFw`) route the series evidence folder (Drive folder ID `1WXDzO2vyHsVtI76FoZlwCZsaNOg8MunI`). Complete direct-child listing returned one EPUB and three provenance files. No unrelated Drive collections were crawled; absence here is not a claim that the owner has no other copy.
 
 | Local reference key | Canonical Drive object | Observed role / integrity |
 |---|---|---|
@@ -51,9 +51,22 @@ The evidence-root README (Drive Doc ID `1K5p3nbvCyNIkHrGID7iIp6KWx_k_yMZstEa6udH
 
 The import manifest identifies Calibre item 107, preserves Japanese metadata, and reports a local import from the owner's Calibre library. It records the owner's general Kobo-purchase account while explicitly saying individual receipts were not inspected. The propagation manifest binds the source hash, byte size, edition and exact Drive ID. This bootstrap independently retrieved that object and matched its SHA-256 to both records. Provider metadata did not expose a checksum through this connector; the verification rests on downloaded bytes, not a claimed provider checksum or proof of individual purchase rights. Private paths and acquisition records remain external.
 
+## Owner-designated local analysis copy — 2026-10-24
+
+The owner instructed that a local manga copy in the workspace be used for analysis and identified its title folder. That folder contains one Japanese All-in-One EPUB. Use this local file read-only for future authorized analysis; its exact path and a verification receipt remain in the local source handoff, outside public Git.
+
+| Source key | Role | Exact byte identity |
+|---|---|---|
+| `CM-JP-AIO2020-LOCAL` | Selected local revised All-in-One analysis copy | 109,599,835 bytes; SHA-256 `b4412bb3dad58bcda14de1bfb831b1b62d44db373c398d34ca7a032e91adfbd4` |
+| `CM-JP-AIO2020` | Archived Drive/provenance source retained above | 109,599,529 bytes; SHA-256 `ce389cb785a37f6b271065c33a177bd8c9a62428e5c3c58c6bf2be756822b617` |
+
+The local ZIP has 1,087 members. All 1,086 members of the archived source are present and individually SHA-256-identical, including the OPF, XHTML, navigation, and all 539 JPEGs. The sole added member is `META-INF/calibre_bookmarks.txt`; its contents were not inspected or used as narrative evidence. The different whole-file digest records that packaging addition, with no observed change to any shared source member. The original acquisition digest and dated manifests remain historical records and are not rewritten to match the local file.
+
+Independent local checks passed ZIP CRC, declared-resource presence, metadata identity, 539-entry rtl spine and 539 JPEG resources. No narrative image, OCR text or bookmark content was inspected. This establishes the selected copy's identity and its content equivalence to the bounded bootstrap probe; it does not certify narrative completeness, unit boundaries or legibility. Future coverage receipts use the local witness key and digest. A later file change requires a new byte-identity record and reconciliation before use.
+
 ## Verification ladder and technical structure
 
-| Level | `CM-JP-AIO2020` status |
+| Level | Archived `CM-JP-AIO2020` status |
 |---|---|
 | Bibliographically identified | Yes: author/publisher, Japanese title and edition |
 | Listed in inventory | Yes: root inventory and dated series manifests |
@@ -63,7 +76,7 @@ The import manifest identifies Calibre item 107, preserves Japanese metadata, an
 | Narrative content inspected | No; zero narrative images viewed or OCRed |
 | Explicitly admitted into sequential analysis | No |
 
-The source has 1,086 archive entries, `item/standard.opf`, 539 spine entries and 539 distinct referenced JPEGs, all 847 × 1200 pixels, right-to-left progression, and no encryption descriptor. Embedded title, author, language (`ja`) and publisher agree with the declared source; UUID is `743805db-b45d-4117-bb89-3e29b824bacc`. These counts include covers/paratext and are **not** a narrative page count or completeness certification.
+The archived source has 1,086 archive entries; the selected local copy has 1,087 because of the bookmarks member. Both retain `item/standard.opf`, 539 spine entries and 539 distinct referenced JPEGs, all 847 × 1200 pixels, right-to-left progression, and no encryption descriptor. Embedded title, author, language (`ja`) and publisher agree with the declared source; UUID is `743805db-b45d-4117-bb89-3e29b824bacc`. These counts include covers/paratext and are **not** a narrative page count or completeness certification.
 
 The existing source-side `bookwalker_capture/bookfab_ocr/epub_source.py` read-only `open_book` interface successfully parsed all 539 pages with no structure findings, alongside the independent container probe. Existing Calibre import/page-comparison tooling also owns import verification. No new generic acquisition framework is needed. Page extraction and local image viewing worked for the contents and colophon; narrative lettering/panel legibility must still be checked within an authorized unit. OCR quality is untested and OCR cannot replace image inspection.
 
@@ -98,13 +111,13 @@ Thus physical Reboot placement would expose a late short in book one, while the 
 
 ## Edition choice, conflict rules and admission
 
-Recommend `CM-JP-AIO2020` as the practical **available candidate** for a revised-edition Japanese pass. Owner review must accept that basis or defer selection pending a verified original-form 2009 pair. That pair is a useful comparison strategy, not an available witness. Reboot should supply its exclusive short and identified editorial variants if later available; official English can support wording comparison after identity/coverage checks. No definitive primary witness is selected at bootstrap.
+The owner selected `CM-JP-AIO2020-LOCAL` for future analysis on 2026-10-24. This is the revised All-in-One basis, with the limits and supplemental disclosure barriers recorded above. The original-form 2009 pair remains a useful unacquired comparison strategy. Reboot should supply its exclusive short and identified editorial variants if later available; official English can support wording comparison after identity/coverage checks. Selection of this working witness does not admit a narrative unit or settle required supplemental scope.
 
-Evidence retrieval uses the stable Drive IDs above through the connected Drive metadata/fetch tools; these identify evidence objects, not migrated analytical artifacts. Every claim must bind its actual witness. A byte change requires a new witness key and preserved prior digest; never replace the bytes behind an existing source identity silently. Record an edition variant as `(original locator, revised locator, observed difference, interpretation impact)`; record translation disagreements with Japanese text, English witness and locators separately. Do not silently harmonize images, wording, pagination or chapter order. Author commentary can explain an editorial operation but cannot replace direct comparison or outrank the manga on motive. Adaptation events, endings, performances and dialogue remain outside this continuity.
+Analysis access opens the owner-designated local file read-only and verifies its current whole-file SHA-256 against `CM-JP-AIO2020-LOCAL`. The retained Drive IDs identify archived evidence/provenance objects for later authorized reconciliation; analysis does not require a new Drive download. Exact local paths remain in the private source handoff. Every claim must bind its actual witness. A byte change requires a new witness key and preserved prior digest; never replace the bytes behind an existing source identity silently. Record an edition variant as `(original locator, revised locator, observed difference, interpretation impact)`; record translation disagreements with Japanese text, English witness and locators separately. Do not silently harmonize images, wording, pagination or chapter order. Author commentary can explain an editorial operation but cannot replace direct comparison or outrank the manga on motive. Adaptation events, endings, performances and dialogue remain outside this continuity.
 
-Before admission: owner-approved witness and bounded unit/run; fresh exact-ID retrieval/hash check; component starts/ends and physical-to-spine mapping; legible page inspection route; missing/duplicate/resource audit; prospective entering freeze and disclosure quarantine; current eligible method/architecture and four ledgers; truthful OPEN lock and authorized continuation fields. Record evidence obligations as required/optional/out-of-scope and pending/partial/complete-for-declared-scope. Availability, technical parsing and source admission are separate states.
+Before admission: the selected working witness and owner-authorized bounded unit/run; fresh local-file identity/hash check; component starts/ends and physical-to-spine mapping; legible page inspection route; missing/duplicate/resource audit; prospective entering freeze and disclosure quarantine; current eligible method/architecture and four ledgers; truthful OPEN lock and authorized continuation fields. Record evidence obligations as required/optional/out-of-scope and pending/partial/complete-for-declared-scope. Availability, technical parsing and source admission are separate states.
 
-No full source images, extracted dialogue corpus, raw acquisition manifests or cache files enter Git. Git retains these public-safe IDs, hashes and interpretive routes; Drive owns evidence, and local working copies confer no authority.
+No full source images, extracted dialogue corpus, raw acquisition manifests or cache files enter Git. Git retains public-safe IDs, hashes and interpretive routes; source media, deterministic derivatives and exact local locations remain in the external source/extraction domain. Owner designation establishes the working source location; analytical write authority and narrative admission remain separately governed.
 
 [B01]: https://www.mizushilog.com/『窮鼠はチーズの夢を見る』オールインワンエデ/
 [B02]: https://www.mizushilog.com/『窮鼠はチーズの夢を見る』『俎上の鯉は２度跳/

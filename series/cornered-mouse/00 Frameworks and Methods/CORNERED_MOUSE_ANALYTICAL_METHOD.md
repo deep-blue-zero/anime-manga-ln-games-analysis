@@ -5,7 +5,7 @@ artifact_type: analytical_method
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: active_provisional
 scope: "Prospective Japanese manga inspection, evidence discipline and atomic closeout"
 source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
@@ -29,13 +29,13 @@ The planned manga inspection lane is `STILL_IMAGE`, with `TEXT` only for source-
 
 Use the source map's separately titled chapter/component candidates, in verified collection order, as atomic transactions. This preserves interlude disclosure and supports reconciliation across edited collections. Do not treat two bibliographic books or one omnibus as two or one complete reading transactions. If inspection reveals a titled component needs subdivision, define stable subunits and freeze points before consuming it; amend the source map/architecture with the reason, without retroactively inventing checkpoints.
 
-Before narrative access, recover owner authorization, approved witness, source hash, component range, predecessor freeze and current lock. Admit only the authorized range. A structural probe may locate boundaries; it cannot be used to read later scenes. Stop on corrupt/missing/ambiguous pages or inadequate legibility, record the exact gap, and do not advance completion. View every page in the unit at usable resolution; contact sheets orient inspection but cannot certify unreadable dialogue or omitted panels. Record actual page coverage and unresolved visual/textual gaps.
+For source access, use the owner-designated local copy `CM-JP-AIO2020-LOCAL` and verify its digest against the source map. Preserve the archived source identity separately. Before narrative access, recover owner authorization, approved witness, source hash, component range, predecessor freeze and current lock. Admit only the authorized range. A structural probe may locate boundaries; it cannot be used to read later scenes. Stop on corrupt/missing/ambiguous pages or inadequate legibility, record the exact gap, and do not advance completion. View every page in the unit at usable resolution; contact sheets orient inspection but cannot certify unreadable dialogue or omitted panels. Record actual page coverage and unresolved visual/textual gaps.
 
 Use a source reference in this exact grammar:
 
-`CM-JP-AIO2020::spNNNN::xhtml=<member>::image=<member>::panel=Pnn::balloon=Bnn`
+`CM-JP-AIO2020-LOCAL::spNNNN::xhtml=<member>::image=<member>::panel=Pnn::balloon=Bnn`
 
-`spNNNN` is the 1-based OPF spine position, padded to four digits and including covers/paratext; `xhtml` and `image` are exact case-sensitive archive paths. Bind the whole-source SHA-256 through the source map and an image digest through the unit's coverage receipt. Panel/balloon selectors are optional until relevant. Number panels and balloons in the page's verified reading order; document ambiguous order with a bounded region or `(left, top, right, bottom)` coordinates on the original-size image. `P00` denotes whole-page composition, not an invented panel. A spread cites both images and the verified viewing order. Printed page numbers are additional labels only after image verification. A valid existing example is the **contents** reference `CM-JP-AIO2020::sp0010::xhtml=item/xhtml/p-0008.xhtml::image=item/image/i-0008.jpg::panel=P00`; it is not a narrative observation.
+`spNNNN` is the 1-based OPF spine position, padded to four digits and including covers/paratext; `xhtml` and `image` are exact case-sensitive archive paths. Bind the whole-source SHA-256 through the source map and an image digest through the unit's coverage receipt. Panel/balloon selectors are optional until relevant. Number panels and balloons in the page's verified reading order; document ambiguous order with a bounded region or `(left, top, right, bottom)` coordinates on the original-size image. `P00` denotes whole-page composition, not an invented panel. A spread cites both images and the verified viewing order. Printed page numbers are additional labels only after image verification. A valid existing example is the **contents** reference `CM-JP-AIO2020-LOCAL::sp0010::xhtml=item/xhtml/p-0008.xhtml::image=item/image/i-0008.jpg::panel=P00`; it is not a narrative observation.
 
 Within a reading, assign stable observation IDs `CM-U01-O001`, scene IDs `CM-U01-SC01` and evidence anchors such as `#cm-u01-o001`; reserve comparable unit-prefixed IDs for later units. A cumulative row refers to `reading path#anchor` plus its source locator. Observations are never renumbered after publication. Character (`CM-CH-...`), relationship (`CM-REL-...`), information (`CM-INF-...`), decision (`CM-DEC-...`), claim (`CM-CL-...`) and forecast (`CM-PR-...`) IDs are allocated only when admitted evidence warrants records. They are local IDs, not global character enrollment.
 

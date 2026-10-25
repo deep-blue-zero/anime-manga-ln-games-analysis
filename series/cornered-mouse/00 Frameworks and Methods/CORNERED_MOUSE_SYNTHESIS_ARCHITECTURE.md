@@ -5,7 +5,7 @@ artifact_type: synthesis_architecture
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: canonical
 scope: "Responsibility ownership, synthesis dependencies, amendment and completion gates"
 source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
@@ -28,7 +28,7 @@ The [initiation policy](../../../governance/source-policies/MANGA_ANIME_PROJECT_
 
 ## Source and sequential contract
 
-One Japanese manga continuity encompasses both principal works and separately identified supplementary manga. AIO2020 is the only located, byte-verified candidate and is revised; no definitive mainline witness has been selected. The 2009 original-form pair, Reboot variants/exclusive two-part short and English translations are separate witness strategies. Adaptations, drama CDs and performance evidence are outside scope. Creator commentary has bibliographic/paratext authority only.
+One Japanese manga continuity encompasses both principal works and separately identified supplementary manga. The owner selected the revised All-in-One local working witness `CM-JP-AIO2020-LOCAL` on 2026-10-24; its own digest and archived-source equivalence are recorded in the source map. The 2009 original-form pair, Reboot variants/exclusive two-part short and English translations are separate witness strategies. Adaptations, drama CDs and performance evidence are outside scope. Creator commentary has bibliographic/paratext authority only.
 
 Ten separately titled mainline/embedded component candidates preserve the verified contents order; Hummingbird and unavailable Black Cat parts have later independent admission/disclosure. Their event chronology never changes an earlier prospective knowledge boundary. Exact component ends and the original closing coda's internal boundary remain source-audit work. The source map distinguishes publication, collection, story chronology and analytical order.
 
@@ -143,4 +143,4 @@ The current map, source map and cumulative ledgers remain mutable by targeted ed
 
 This compact project uses the simplest adequate staged arrangement; it does not inherit long-series infrastructure merely for similarity. Reuse the live reasoning/capability policies rather than hard-code model names or infer unobserved settings. Future sessions verify transport, processing, actual Japanese image inspection and durable persistence independently. One mutable owner per file; compare base/returned/current versions before accepting transferred work. Handoffs include full artifacts, hashes, source/knowledge boundaries, permitted paths, unresolved required/optional evidence and next owner; the receiver separately checks integrity, drift and semantics.
 
-Apply handoff section 15's named-subject/reference check to introduction, a substantive middle section and exit/synthesis, extending across each major relationship when relevant. Preserve source-required anonymity and knowledge limits. Structural validation is necessary for publication and supplies no literary or owner approval. The owner approved the architecture and released the draft hold for merge preparation on 2026-10-24. The sequential lock remains CLOSED pending witness selection and separate source-admission authorization. Version 0.2 records that approval without changing the four-ledger responsibilities, dependencies or completion gates.
+Apply handoff section 15's named-subject/reference check to introduction, a substantive middle section and exit/synthesis, extending across each major relationship when relevant. Preserve source-required anonymity and knowledge limits. Structural validation is necessary for publication and supplies no literary or owner approval. The owner approved the architecture and released the draft hold for merge preparation on 2026-10-24. The sequential lock remains CLOSED pending supplemental scope and separate source-admission authorization. Version 0.2 records architecture approval; version 0.3 records the owner-selected local working source and its locator key. The four-ledger responsibilities, dependencies and completion gates are unchanged.
