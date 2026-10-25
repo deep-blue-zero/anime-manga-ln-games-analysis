@@ -2003,3 +2003,17 @@ Six frozen public cores,two monographs,seven compact profiles,15T0routesand22new
 ## Cohort42 owner PR322 authority reconciliation — 2026-10-25T00:49:56.532446+00:00
 
 Owner mainc2e8af7cincludesPR322nineShuukurastreams/two new paths,all retained exactly. Current10074path/full479audit40146686536verified;it does not certify the new candidate. Original31KonoSuba staged scope andsix frozen cores retained;only six authority/navigation metadata streams change,all419canonical/private row bodies unchanged. WORK121remains immutable;WORK122owns new authority metadata. Global108bindings/12controls/40namespaces/417entries remain atPR321baseline7a78b207. Finalcandidate expects10083paths;no new analysis/model/rule/input/first/foreign-reading orindependent credit. Exactauthorpreflight,ordinarypublication/fullsource gates andfullprogram continue.
+
+
+## Cohort42 exact-source author gate closed — 2026-10-25T01:13:52.697603+00:00
+
+Cohort42 source `7acb76f63f77539b79dd4d9f7891855043058af1` /tree `1290426538132b4fe72067fa1c5dcc31699f2fe4` closes the scoped author tranche. Audit40148739580:479/479tests,every discoveredID matched,allfive non-success categories zero;trusted reporter/status,10083remote bindings/43changed streams and1515-body reload verified. Totals63models/57source-scoped entries/113compact/34monograph-only/419nonfinal records. Twenty-nine publication-status rows change;390others and19historical plane differences remain exact. Five earlier model-route tier/disposition/priority fields stay exact. Allsix analytical cores,63models,rules,originals,adverse findings andscratch history unchanged. No new model,rule,input,first,independent performance orfull-program closure. PR324protected integration,newer owner main andthe full remaining census/synthesis/successor/validation/release program stay separately governed.
+
+[Gate receipt](KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json).
+
+
+## PR324 artifact-reference correction — 2026-10-25T01:37:40.568616+00:00
+
+PR324comment4369184138is confirmed:15Tier0records contained the evidence index twice. Stable first-occurrence normalization retains the same3distinct targets and removes onlythe redundant fourth edge ineach canonical/private row. All404otherrecords,19historical plane differences,63models/rules/originals and6analytical cores remain exact. WORK123andoriginal frozen drafts retain historical bytes;newprivateWORK124carries the current correction. Earlier C42source7acb76f6author gate remains historical;this containing correction requires fresh preflight,ordinarypublication,remote readback,full479-test audit andauthorityreload. No newprimary reading,model,rule,input,first orindependent credit. Fullprogram continues.
+
+[Reference correction](KONOSUBA_COHORT42_ARTIFACT_REFERENCE_NORMALIZATION_01.json).

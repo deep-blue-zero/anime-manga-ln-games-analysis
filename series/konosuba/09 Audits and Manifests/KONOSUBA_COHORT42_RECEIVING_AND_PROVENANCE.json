@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort42.receiving-and-provenance.v1",
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "received_utc": "2026-10-25T00:36:03.269045+00:00",
   "semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
   "foundation_seal_sha256": "82476a0131adec157938514a89ee98a993d27b453c9b0c8f5123845ef2643f8c",
@@ -251,13 +251,7 @@
     "tests": 479,
     "current_candidate_certified_by_prior_audit": false
   },
-  "publication_pending": [
-    "exact-index author preflight",
-    "authorized source publication",
-    "whole-tree and every changed-stream remote byte readback",
-    "full actual-source audit and latest trusted status",
-    "fresh published authority reload"
-  ],
+  "publication_pending": [],
   "source_absolute_paths_in_public": 0,
   "full_program_complete": false,
   "publication_baseline_before_owner_PR322": "7a78b2072ed6a322d3c90cf0cedf511685d3e1e8",
@@ -336,5 +330,53 @@
     "prior_audits_not_transferred_to_new_candidate": true,
     "no_new_foreign_primary_reading_or_model_credit": true
   },
-  "current_publication_authority_precedence": "Latestauthority_reconciliation/current_publication_baseline govern actual commit parent. Priorpublicationauthority/baseline_reconciliation retain datedPR321preparation;all prior model/native/source scopes exact. No previous audit certifies new candidate."
+  "current_publication_authority_precedence": "Latestauthority_reconciliation/current_publication_baseline govern actual commit parent. Priorpublicationauthority/baseline_reconciliation retain datedPR321preparation;all prior model/native/source scopes exact. No previous audit certifies new candidate.",
+  "prior_cohort42_publication_status": {
+    "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+    "publication_pending": [
+      "exact-index author preflight",
+      "authorized source publication",
+      "whole-tree and every changed-stream remote byte readback",
+      "full actual-source audit and latest trusted status",
+      "fresh published authority reload"
+    ]
+  },
+  "publication_resolution": {
+    "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+    "tree": "1290426538132b4fe72067fa1c5dcc31699f2fe4",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace",
+    "source_run": 40148739580,
+    "full_discovered_tests": 479,
+    "current_models": 63,
+    "author_publication_tranche_complete": true,
+    "protected_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 324
+  },
+  "current_gate_qualification": "All six analytical cores and63frozen models remain exact. Current qualified identities,dream/calendar/reporting distinctions,unresolved speaker mapping andharmful conduct remain asreceived. Source/main andcandidate-at-capture metadata retain dated history. Twenty-nine status records change separately in canonical/private planes;390others and19historical differences remain exact. Five earlier model-route tier/disposition/priority fields remain exact. No new model,rule,input,first,independent trial,grade,confidence gain,final battery orfull-program closure. PR324protected integration andnewer owner main remain separately governed.",
+  "current_artifact_reference_normalization": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_ARTIFACT_REFERENCE_NORMALIZATION_01.json",
+    "sha256": "37c6150de70361a550763dccde335fdbd468a6a9e45984c957fc420fe4b1ccaf",
+    "review_comment": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/324#discussion_r4369184138",
+    "affected_rows": [
+      398,
+      399,
+      401,
+      402,
+      404,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      416,
+      417,
+      418
+    ],
+    "status": "REVIEWED_REFERENCE_CORRECTION_EXACT_CONTAINING_PUBLICATION_PENDING",
+    "substantive_analysis_unchanged": true
+  }
 }

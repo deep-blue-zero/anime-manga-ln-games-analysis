@@ -8,7 +8,7 @@ do_not_use_as_current_authority: false
 
 # Secondary-character coverage audit
 
-This maintained register retains419nonfinal source-bound records. Cohort41author gate remains closed andPR320is integrated;ownerPR321registry baseline7a78b207is retained,andcurrent mainc2e8af7c/full479audit40146686536also includesPR322foreignseries integration. Cohort42semantic receiving is complete,with exact new publication pending:two monographs,seven compact profiles,fifteen reported/group/dream/access routes,zero new models/rules/inputs/firsts. Candidate totals63model artifacts/57source-scoped secondary entries/113compact/34monograph-only routes;these are not disjoint people or independent observations. Qualified Lolisa17/132event join andcontextual Luna disguise do not revise frozen model support. Seven entering rows change,390others and19historical plane differences remain exact. See the [cohort42index](KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Currentcohort42section/census governs;older entries retain dated scopes. Full census,synthesis,successors,validation,integration and release remain open.
+This maintained register retains419 nonfinal source-bound records. Cohort42 has closed its exact-source author publication gate for two substantial criminal-trio monographs,seven bounded profiles,fifteen reported/group/dream/access routes andqualified identity supplements. Totals:63model artifacts,57source-scoped secondary model entries,113compact profiles and34monograph-only routes;these are not disjoint people. Twenty-nine publication-status records change;390others and19historical plane differences remain exact. All frozen models,rules,originals andadverse findings persist. See the [cohort42 index](KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md),[author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json) and[partitioned census](KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json). Full census,synthesis,successors,validation,integration/release andfull program remain open.
 
 Iris earns scoped Tier3 treatment: direct ordinary activity, competence, duty, refusal, political choice, coercive tactics, different relationships and her own private focalization support distinct falsifiable mechanisms. The [monograph](../05%20Specialist%20Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md), [model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md) and [evidence index](KONOSUBA_IRIS_EVIDENCE_INDEX.md) carry those different responsibilities. Tier3 describes an earned reconstruction candidate, not demonstrated future accuracy or a mature universal simulator. Seven new informed rules and22actually generated synthetic outputs preserve weak, adverse and underdetermined branches.
 
@@ -1570,27 +1570,27 @@ Twenty-two new records397–418retain source-bound occurrences rather than a new
 
 | Row | Current route | Tier | Source |
 | --- | --- | --- | --- |
-| 397 | Village client daughter requesting a birthday gift | 1 scoped; compact individual or paired profile; publication pending | DUST01U013P84-106/396-410 |
-| 398 | Reported father of DUST01 village client daughter | 0 scoped; reported/group/access occurrence index; publication pending | DUST01U013P92-103 |
-| 399 | Reported mother / apparent accompanying woman in DUST01 gift episode | 0 scoped; reported/group/access occurrence index; publication pending | DUST01U013P101/106 |
-| 400 | Apparent DUST01 succubus proprietor | 1 scoped; compact individual or paired profile; publication pending | DUST01U013P166-174;U015P533-543 |
-| 401 | Other DUST01 succubus coworkers and collective arrangements | 0 scoped; reported/group/access occurrence index; publication pending | DUST01U013P181;U015P113-115;U017P199-215 |
-| 402 | Unidentified DUST01 inspection and custody officers | 0 scoped; reported/group/access occurrence index; publication pending | DUST01U015P111-583, especially195/207/285/312/574-580 |
-| 403 | Temporary warrior / Leen-party infiltrator (DUST01) | 1 scoped; compact individual or paired profile; publication pending | DUST01U017P24-33/241-244/327-351/676-751 |
-| 404 | Seven road coalition men in DUST01 | 0 scoped; reported/group/access occurrence index; publication pending | DUST01U017P487-655 |
-| 405 | Road coalition confection-maker (DUST01) | 1 scoped; compact individual or paired profile; publication pending | DUST01U017P515-531 |
-| 406 | Black-clad contracted fighter (DUST01) | 1 scoped; compact individual or paired profile; publication pending | DUST01U017P771-798;U018P7 |
-| 407 | Reported noble client for Leen abduction (DUST01) | 0 scoped; reported/group/access occurrence index; publication pending | DUST01U017P252-253 |
-| 408 | Reported employer of black-clad fighter (DUST01) | 0 scoped; reported/group/access occurrence index; publication pending | DUST01U017P775-776 |
-| 409 | Six masked Darkness-abduction attackers (DUST01 group) | 0 scoped; reported/group/access occurrence index; publication pending | DUST01U014P393-535;U017P233-238 |
-| 410 | Orc figures in DUST01 infiltrator dream interlude | 0 scoped; reported/group/access occurrence index; publication pending | DUST01U017P676-736 |
-| 411 | Actual orc group at DUST01 village quest site | 0 scoped; reported/group/access occurrence index; publication pending | DUST01U013P65-82/219-261 |
-| 412 | Reported deceased foreign romance writer (DUST01) | 0 scoped; reported/group/access occurrence index; publication pending | DUST01U014P257-263 |
-| 413 | DUST01 village requesters and reported banquet hosts | 0 scoped; reported/group/access occurrence index; publication pending | DUST01U013P74-82/316 |
-| 414 | Older bathhouse counter attendant (DUST05) | 1 scoped; compact individual or paired profile; publication pending | DUST05U011P304-320/338/443-445 |
-| 415 | Mountain couple sheltering Feit (DUST06) | 1 scoped; compact individual or paired profile; publication pending | DUST06U011P307-333;P940-1033 checked as non-couple context |
-| 416 | Unidentified jewelry-sale counterparty (DUST06) | 0 scoped; reported/group/access occurrence index; publication pending | DUST06U011P363-367 |
-| 417 | Breadshop encounter staff / customer roles (DUST01) | 0 scoped; reported/group/access occurrence index; publication pending | DUST01U015P360;P574-583 for separate jail gift |
-| 418 | Other human lake guards / obstruction coalition (DUST03) | 0 scoped; reported/group/access occurrence index; publication pending | DUST03U011P596-604/623-738 |
+| 397 | Village client daughter requesting a birthday gift | 1 scoped; compact individual or paired profile; exact-source author gate closed; scoped/nonfinal | DUST01U013P84-106/396-410 |
+| 398 | Reported father of DUST01 village client daughter | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST01U013P92-103 |
+| 399 | Reported mother / apparent accompanying woman in DUST01 gift episode | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST01U013P101/106 |
+| 400 | Apparent DUST01 succubus proprietor | 1 scoped; compact individual or paired profile; exact-source author gate closed; scoped/nonfinal | DUST01U013P166-174;U015P533-543 |
+| 401 | Other DUST01 succubus coworkers and collective arrangements | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST01U013P181;U015P113-115;U017P199-215 |
+| 402 | Unidentified DUST01 inspection and custody officers | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST01U015P111-583, especially195/207/285/312/574-580 |
+| 403 | Temporary warrior / Leen-party infiltrator (DUST01) | 1 scoped; compact individual or paired profile; exact-source author gate closed; scoped/nonfinal | DUST01U017P24-33/241-244/327-351/676-751 |
+| 404 | Seven road coalition men in DUST01 | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST01U017P487-655 |
+| 405 | Road coalition confection-maker (DUST01) | 1 scoped; compact individual or paired profile; exact-source author gate closed; scoped/nonfinal | DUST01U017P515-531 |
+| 406 | Black-clad contracted fighter (DUST01) | 1 scoped; compact individual or paired profile; exact-source author gate closed; scoped/nonfinal | DUST01U017P771-798;U018P7 |
+| 407 | Reported noble client for Leen abduction (DUST01) | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST01U017P252-253 |
+| 408 | Reported employer of black-clad fighter (DUST01) | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST01U017P775-776 |
+| 409 | Six masked Darkness-abduction attackers (DUST01 group) | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST01U014P393-535;U017P233-238 |
+| 410 | Orc figures in DUST01 infiltrator dream interlude | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST01U017P676-736 |
+| 411 | Actual orc group at DUST01 village quest site | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST01U013P65-82/219-261 |
+| 412 | Reported deceased foreign romance writer (DUST01) | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST01U014P257-263 |
+| 413 | DUST01 village requesters and reported banquet hosts | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST01U013P74-82/316 |
+| 414 | Older bathhouse counter attendant (DUST05) | 1 scoped; compact individual or paired profile; exact-source author gate closed; scoped/nonfinal | DUST05U011P304-320/338/443-445 |
+| 415 | Mountain couple sheltering Feit (DUST06) | 1 scoped; compact individual or paired profile; exact-source author gate closed; scoped/nonfinal | DUST06U011P307-333;P940-1033 checked as non-couple context |
+| 416 | Unidentified jewelry-sale counterparty (DUST06) | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST06U011P363-367 |
+| 417 | Breadshop encounter staff / customer roles (DUST01) | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST01U015P360;P574-583 for separate jail gift |
+| 418 | Other human lake guards / obstruction coalition (DUST03) | 0 scoped; reported/group/access occurrence index; exact-source author gate closed; scoped/nonfinal | DUST03U011P596-604/623-738 |
 
-Semantic receiving complete;exact containing publication pending. No independent validation or full-program closure.
+Cohort42 exact-source author publication is closed. Earlier pending-at-authorship fields remain dated history; current publication resolutions and the author gate govern this status. No independent validation or full-program closure. All unresolved mappings remain explicit.

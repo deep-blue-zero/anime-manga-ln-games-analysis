@@ -90,8 +90,19 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_EARLY_IDENTITY_COHORT42_SUPPLEMENT.md"
       ],
       "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
-      "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. Older published model/monograph/first histories retain original scopes.",
-      "cohort42_current_scope_precedence": "CurrentC42qualified identity/supplemental statements govern present interpretation; earlier per-row phrases and complete prior fields remain dated exact history. No unique-person denominator, model support transfer, independent observation or performance gain."
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "cohort42_current_scope_precedence": "CurrentC42qualified identity/supplemental statements govern present interpretation; earlier per-row phrases and complete prior fields remain dated exact history. No unique-person denominator, model support transfer, independent observation or performance gain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact-source author publication closed; scoped/nonfinal",
+        "priority": "Cohort39 bounded author publication complete;continuing full program.",
+        "disposition_status": "COHORT39_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. Older published model/monograph/first histories retain original scopes."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
     },
     {
       "priority": "Cohort40 bounded author publication complete;continuing full program.",
@@ -566,8 +577,19 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_EARLY_IDENTITY_COHORT42_SUPPLEMENT.md"
       ],
       "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
-      "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. Older published model/monograph/first histories retain original scopes.",
-      "cohort42_current_scope_precedence": "CurrentC42qualified identity/supplemental statements govern present interpretation; earlier per-row phrases and complete prior fields remain dated exact history. No unique-person denominator, model support transfer, independent observation or performance gain."
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "cohort42_current_scope_precedence": "CurrentC42qualified identity/supplemental statements govern present interpretation; earlier per-row phrases and complete prior fields remain dated exact history. No unique-person denominator, model support transfer, independent observation or performance gain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "3 scoped; twelve-dimension monograph and one-rule provisional model; exact-source author publication closed; scoped/nonfinal",
+        "priority": "Cohort39 bounded author publication complete;continuing full program.",
+        "disposition_status": "COHORT39_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. Older published model/monograph/first histories retain original scopes."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
     },
     {
       "character": "Lake 安楽少女 (Dust03 individual)",
@@ -1637,8 +1659,19 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_EARLY_IDENTITY_COHORT42_SUPPLEMENT.md"
       ],
       "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
-      "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. Older published model/monograph/first histories retain original scopes.",
-      "cohort42_current_scope_precedence": "CurrentC42qualified identity/supplemental statements govern present interpretation; earlier per-row phrases and complete prior fields remain dated exact history. No unique-person denominator, model support transfer, independent observation or performance gain."
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "cohort42_current_scope_precedence": "CurrentC42qualified identity/supplemental statements govern present interpretation; earlier per-row phrases and complete prior fields remain dated exact history. No unique-person denominator, model support transfer, independent observation or performance gain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "3 scoped; twelve-dimension monograph and asymmetric provisional three-rule model; exact-source author publication closed; scoped/nonfinal",
+        "priority": "Cohort 32 bounded author publication complete; continuing full program.",
+        "disposition_status": "COHORT32_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. Older published model/monograph/first histories retain original scopes."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
     },
     {
       "character": "Unnamed Destroyer / laboratory scientist (MAIN02/05)",
