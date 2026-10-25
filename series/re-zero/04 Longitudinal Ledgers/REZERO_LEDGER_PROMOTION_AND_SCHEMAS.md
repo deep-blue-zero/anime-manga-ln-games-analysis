@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.32
+generation: V0.33
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,7 +24,7 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master was backfilled from frozenV01/V02 and now owns currentV18/377claims/person/19ordinary/17Japanese/prospect/readiness candidates. Five sole owners remain eventE021/K654/M408/I353/R138/RT327;125individualRdecisions=48advance/77literal preserve,13newR/39newRT/all288olderRTexact. All44older frozen artifacts/twelve historical pairs and Mimi17's closed full gatea453 remain exact. Priscilla V01–V18construction/separate applied19-dimension review is earned, not implemented/graded, after V18full gate and before V19. Earlier phase reviews below are historical, not gates to repeat. No field, selector, formal fidelity dimension or registered candidate/schema contract changes.
+The master was backfilled from frozenV01/V02 and now owns verifiedV18/377claims/person/19ordinary/17Japanese/prospect/readiness. Five sole owners remain unchanged: eventE021/K654/M408/I353/R138/RT327;125individualRdecisions=48advance/77literal preserve,13newR/39newRT/all288olderRTexact. V18full gate closed through PR323/integratedmain10576e0d; all45entering protected artifacts/twelve earlier pairs retain exact bytes/scopes/defaults/local grades. The thirteenth Priscilla V01–V18model/separate actual19-dimension review is implemented at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after13grouped findings/28controls/8NONCANONICAL_PROBE applications; own publication gate pending before sealedV19. Bounded original-source revisits add no source unit or claim generation. Earlier phase reviews below are historical, not gates to repeat. No field, selector, formal fidelity dimension, registered candidate/schema contract, sixth owner, independent index or global capability changes.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 

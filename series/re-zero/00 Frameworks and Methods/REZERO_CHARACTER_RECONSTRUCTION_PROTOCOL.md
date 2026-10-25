@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.29
+generation: V1.30
 status: canonical
 release_state: mutable_active
 current_analytical_horizon: V18
@@ -19,15 +19,15 @@ do_not_use_as_current_authority: false
 
 It is subordinate to method, architecture, witness protocol and live source lock. It neither admits sources nor rewrites freezes.
 
-Source horizonV18 is actually fully consumed; its synchronized reading/current owners still require the complete publication gate. V17's source gate and Mimi17's separate full gatea453ba89260ef5d1d00a7c89fd8719f686a8add0 are closed. All44older frozen artifacts/twelve source-bounded pairs keep exact scopes/defaults/local grades. Current377claims/five owners select livingE021/20deaths21segments, K654/M408/I353/R138/RT327. No later source is opened by current-use reconciliation.
+Source horizonV18 completed its full gate through PR323/source4f6a7dafc097f4194b20c7f2868bbc85534b8bb8/integratedmain10576e0dace0d2fe888f28357e9ed6dc95846c15. All45entering protected artifacts/twelve earlier source-bounded pairs keep exact bytes/scopes/defaults/local grades. Current377claims/five unchanged specialist owners select livingE021/20deaths21segments, K654/M408/I353/R138/RT327. No later source is opened by current-use reconciliation.
 
 Select the actual person/body/holder/recipient. Subaru's connected marked leg, open nape and later invaded hand/forearm do not prove universal repair or safe uptake. Crusch actually wakes/refuses/sleeps; dormant Beatrice/Mimi supply no new reply or assent. Emilia independently scouts/refuses Regulus and positively chooses a future beloved while present understanding remains limited; that is neither a consenting ceremony nor a fully negotiated mutual romantic contract. Wilhelm's private identity/correction is not Reinhard's receipt; Otto's public/private/final-inner motives and endpoint interception are not all-group knowledge. Al's warning/thanks retains a different interpretation, not a decoded secret biography. Fredo/sister's local life and earlier crying/adult restraint do not become a city census or an effect wholly created by the later speech.
 
-Priscilla V01–V18is MONOGRAPH_READY—construction and separate applied19-dimension review EARNED_NOT_IMPLEMENTED_OR_GRADED. After V18's full gate, reconcile exact already-consumed Japanese and implement the integrated seven-axis model/separate review, negative controls, bounded NONCANONICAL_PROBE cases and abstentions; close its own full gate before V19. Default is latest livingE021Fourth assignment/departure with Liliana, outcome unread. Ordinary/adverse/authority/recipient/voice/failure contrasts earn the duty without requiring every secret or a perfect person. Do not infer uniform benevolence/cruelty, universal favor/immunity, all-refusal tolerance, complete Al history or independent/runtime/global fidelity.
+Priscilla V01–V18is MONOGRAPH_READY—[integrated model](../05%20Character%20Analysis/REZERO_PRISCILLA_V01_V18_CHARACTER_MODEL.md)/[separate review](../08%20Audits%20and%20Manifests/REZERO_PRISCILLA_V01_V18_FIDELITY_REVIEW.md) IMPLEMENTED, local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. All19existing dimensions,28negative controls and8NONCANONICAL_PROBE applications were actually applied;13grouped findings were repaired and both final saved documents completely read/reviewed. This is a thirteenth scoped pair, with its own full publication gate pending before reuse/V19; no independent, held-out, runtime or global result. Default is `V18_E021_FOURTH_ASSIGNMENT_DEPARTURE_WITH_LILIANA`, accepted Fourth allocation/collective departure with no separate tower arrival/battle/result shown. Ordinary/adverse/authority/recipient/voice/failure contrasts qualify selective care, coercion, accepted refusal, pride pressure and self-staked trust; no uniform benevolence/cruelty, universal favor/immunity, all-refusal tolerance or complete Al history follows.
 
 All12historical defaults/results remain scope-specific. Mimi17's livingunconsciousE021default and supported waking overrides remain exact, not a new V18assent, chest cure or reciprocal Garfiel couple. Her bruised wrist, use of her own other hand and Garfiel's apology remain distinct. Ram chronologyOPEN, C116/M344Frederica-subject and Roswaal source/recipient/agency qualifiers bind current use. Formal§§19–21 and all existing selector/test contracts stay byte-exact.
 
-The source43/V41exception/datedgaps and EVOLVING/activeV43/no ordinary pause remain. IncomingV18body15685bytes/SHA3cb3c253 and outgoingV19body17236bytes/SHAc69ce35c1af024204a354e95692137007d52b10c7b3d3613d13da13ef50c5ede stay literal; V18full gate → Priscilla own operation/full gate → V19. This is not source admission, global curation/evaluation authority or a current-grade extension.
+The source43/V41exception/datedgaps and EVOLVING/activeV43/no ordinary pause remain. IncomingV18body15685bytes/SHA3cb3c253 and outgoingV19body17236bytes/SHAc69ce35c1af024204a354e95692137007d52b10c7b3d3613d13da13ef50c5ede stay literal; V18full gate CLOSED → Priscilla implemented/own full publication gate PENDING → V19. Sixty-six contextual deliveries/3302unique positions=3300TEXT+2IMAGEreferences/145613base-text/5855ruby-reading characters and five actual selected image views revisit consumed originals without fresh whole-volume credit, source admission or claim generation. This is not global curation/evaluation authority or an earlier grade's scope extension.
 
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
@@ -608,6 +608,12 @@ Next source is V18 only after this Mimi pair's own complete publication/readback
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
 ````
+
+### Post-V18 Priscilla implementation receipt
+
+The integrated model/separate review now implement actual seven-axis selection, nineteen dimensions,28negative controls and8bounded NONCANONICAL_PROBE applications. Thirteen grouped findings were repaired, including nonholder Typhon receipt, source-local hand wording, superseded E010contact/violence, distinct accepted/rejected approaches, artist refusal/pride pressure and explicit later surprise. Complete saved-content/source/name-reference readback supports only local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY; counts are traceability, not maturity thresholds or independent samples.
+
+The new pair's own complete publication gate remains pending before V19. Default is accepted Fourth assignment/collective departure with Liliana, with no separate tower arrival/battle/result shown. All45entering protected artifacts/twelve earlier scopes/defaults/grades, five owners,377claims, master protected history and whole prospective bodies remain exact. No selector, formal fidelity dimension, registered schema, new owner/index or global capability claim changes. Formal§§19–21 below retain their entering bytes.
 
 ## 19. First mature-character fidelity audit
 
