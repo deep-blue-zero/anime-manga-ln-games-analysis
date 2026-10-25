@@ -8,6 +8,12 @@ status: "canonical"
 
 # Character, Relationship, and Recognition Ledger
 
+## Current E06 source correction — support and survivable boundaries
+
+`TBHX-AV-E06-001` / `P2-CR-R10`: native Chinese hardsubs at E06-WEB 21:10.88–21:27.25 (V2 cues 413–419) promise wholehearted support **if Yang faces himself bravely and honestly** and refuse stopping to wait indefinitely if he cannot. The actual Japanese-reference track makes a different affirmative waiting commitment. Earlier Japanese-dependent episode entries below remain the history of the prior reading; they do not govern this corrected Chinese-primary interpretation.
+
+Xia's recognition does not require Yang to keep the E-Soul role, and her own future does not become Yang's property. This correction preserves care, testimony, disagreement, and agency on both sides. It establishes neither simple abandonment nor confirmed reciprocal romance. The mature recognition/exit model remains valid with this two-person boundary. See [formal audit §5](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md), including direct displayed-text verification and remaining acoustic limits.
+
 ## Lin Ling ↔ Xiao Yueqing
 
 ### E01 baseline

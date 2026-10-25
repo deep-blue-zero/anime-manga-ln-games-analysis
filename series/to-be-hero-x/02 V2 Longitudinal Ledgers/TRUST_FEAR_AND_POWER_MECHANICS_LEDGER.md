@@ -1283,6 +1283,14 @@ The stabilized model deliberately distinguishes:
 - **exceptions/anomalies** — cases that constrain over-generalization;
 - **protected unknowns** — mechanics the 24-episode source does not solve.
 
+## Current E05–E07 source qualification — 2026-10-24
+
+`TBHX-AV-E05-001` independently verifies a local 0→1 display in E05-WEB:0 at 20:33.000 and solid 1 at 20:35.200. This strengthens `TF-031` and `P2-TF-09` as a locally displayed threshold without proving one believer equals one Trust point, a universal heroization threshold, or a duration. The frozen E05 negative about a displayed one is superseded in current interpretation, not edited in the episode body. The earlier non-finding about a numeric readout **proving Pomelo's exact contribution** remains valid at that narrower causal scope.
+
+E07-WEB 22:32/22:35 native graph samples and Chinese news 22:32.12–22:41.12 strengthen `TF-E07-05` and `P2-TF-08` locally: E-Soul Trust consolidates with Yang surviving and the veteran dead. The producer's precise graph number, universal death-transfer arithmetic, and conservation remain unproven. The earlier E07 unknown-client non-finding is historical: `TBHX-AV-E07-002` now attributes the paid commission to Yan at high bounded retrospective confidence, while administrative release/disappearance details remain OPEN.
+
+Source identity, hashes, native locators, pre-edit findings `GAV-01/02/14/19`, and remaining continuous/audio obligations are in [the formal audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md); causal distinctions are in [the Yan audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_YAN_MO_RETROSPECTIVE_AV_EVIDENCE_AUDIT.md). No independent Codex continuous playback or listening is claimed.
+
 ## P2-TF master rule table
 
 | ID | Stabilized rule | Authority | Important limits / exceptions |
