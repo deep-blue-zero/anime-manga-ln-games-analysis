@@ -31,7 +31,8 @@
       "canonical_entrypoint": "studies/pactrih-ethical-topology/README.md",
       "materialization_status": "PRESENT_UNREVIEWED",
       "authority_status": "GIT_PRIMARY",
-      "catalog_note": "methodology scaffold and routing for future canonical data, interactive artifacts, validation tooling, and audits."
+      "catalog_note": "Seven-axis comparative ethical topology for fictional characters/entities, factions and historical agents, with canonical numerical data and a verified interactive atlas.",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED"
     },
     {
       "study_id": "project-itoh-genocidal-organ-harmony",

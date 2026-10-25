@@ -3294,7 +3294,16 @@
         "main_integration_not_certified_by_author_gate": true,
         "no_independent_accuracy_or_confidence_gain": true,
         "separate_housekeeping_run": null
-      }
+      },
+      "cohort43_alias_reconciliation": {
+        "old_episode_route": 100,
+        "positive_locator": "YORI01U014P63",
+        "same_existing_individual": true,
+        "existing_C27_study_and_tier_unchanged": true,
+        "new_person_or_study_credit": 0
+      },
+      "cohort43_identity_supplement": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI01_IDENTITY_AND_SUPPORTING_CAST_COHORT43_SUPPLEMENT.md",
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127"
     },
     {
       "character": "Unnamed DUST07 Dullahan commander, former Beldia subordinate",

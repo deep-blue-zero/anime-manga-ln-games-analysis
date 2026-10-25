@@ -2092,3 +2092,17 @@ Envy performance, king child-exchange offer, maid weapon escalation and butler w
 Scientist plausible accounts become unwanted obligations;dog/snake design and non-electromagnetic railgun naming preserve real technical limits. Roadside plant repeats an emotional farewell before a fluent appetite reveal;lake bargaining secures fruit before failed intercession. These comic structures do not erase coercive work,destructive satisfaction,guard wasting,Yunyun actual unconsciousness or killing. No new H/L frequency denominator or automatic paratext/fantasy code is assigned.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Abduction discussion becoming preference debate, demanding a feared binding and useful reward-supported rescue are different reversals. They do not erase intended coercion or Dust sexual threats/imposed exposure. Vanir plus two linked shells perform apparent three-police rescue; they are not three new human officers. The girl receipt/address reversal and bath watcher explanation have actual outcomes, unlike unperformed promises.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+The visiting quartet’s parallels do not make them aliases or transfer the principals’ psychology. Rank reversal, excessive heroic credibility, the veteran’s rule inconsistency and the diary/adoption interruption are distinct comic mechanisms. Their comedy does not erase threats, invasive requests, coerced contact, purification or unresolved parentage. No new H/L census or selected-sample denominator is claimed.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

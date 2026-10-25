@@ -2059,3 +2059,17 @@ Doreck private admissions and proposal differ from Gaibil performed groom regist
 Scientist quoted private writing uses colloquial complaint,self-questioning and abrupt appraisal reversals;public register remains weakly observed. MAIN05plant halting katakana switches to fluent private speech and back at exposure. Dust03plant changes sibling appeal to deferential bargaining and insults. MAIN15guest surprise belongs to her byP38and differs from Darkness laughter. Four exact Japanese hypothetical originals remain informed written work,not acoustic or native-speaker certification.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Chief directives, argument, protest and refusal vary with leverage. Adjacentっす/オイラturns help local mapping but are not permanent voice IDs. Small worker polite corrections, flat refusal and stated danger exit differ from an always-timid or always-praise-responsive type. Girl repeatsおじちゃん/correctsガキtoお嬢ちゃんthenchanges address after gift. Native ruby received in exact3461Pscope; no acoustic/native-human adequacy finding.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Ozuma’s plain self-introduction, explanatory exchange correction, contracted threats and rough phrasing with カズマさん vary by state. Rakuresu’s タナカ殿, table strike and protective explanation coexist; Megumi’s personal disclosure, quoted accusation, stammer and rule objection are distinct functions. Crow’s pedigree claims differ from pleading; Pickles’s voice is Aqua-mediated. Four new English hypothetical firsts retain functional limits and do not certify Japanese particles, native performance or acoustics.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

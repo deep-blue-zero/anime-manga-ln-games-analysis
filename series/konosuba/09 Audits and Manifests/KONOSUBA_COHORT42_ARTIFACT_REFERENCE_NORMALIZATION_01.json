@@ -1,0 +1,137 @@
+{
+  "schema": "konosuba.cohort42.artifact-reference-normalization.v1",
+  "prepared_utc": "2026-10-25T01:37:40.568616+00:00",
+  "status": "REVIEWED_REFERENCE_CORRECTION_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "review_comment": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/324#discussion_r4369184138",
+  "reviewed_source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+  "correction": "Remove only the repeated fourth evidence-index reference in15Tier0cohort42_artifacts arrays,retaining first-occurrence order andall3distinct targets.",
+  "affected_rows": [
+    398,
+    399,
+    401,
+    402,
+    404,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    416,
+    417,
+    418
+  ],
+  "common_before_artifacts": [
+    "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+    "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+    "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json",
+    "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md"
+  ],
+  "common_after_artifacts": [
+    "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+    "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+    "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json"
+  ],
+  "row_bindings": [
+    {
+      "row": 398,
+      "character": "Reported father of DUST01 village client daughter",
+      "before_sha256": "a4fa19e09751dc7b85a717c5f5ee3393958f1734045ca6c2216c1c30bea14ccb",
+      "after_sha256": "69293d1082f25094a80e6facec55141a99e728857a5948c44ff9417164507776"
+    },
+    {
+      "row": 399,
+      "character": "Reported mother / apparent accompanying woman in DUST01 gift episode",
+      "before_sha256": "81f02d8277c3b5187d19b4d6dca2aee91a59a45dc62be4d6de877b5a5d08d8f7",
+      "after_sha256": "14309c7399a28616e2cd637a875b9e413252740cc13530c6ea36e6dbe0b0a538"
+    },
+    {
+      "row": 401,
+      "character": "Other DUST01 succubus coworkers and collective arrangements",
+      "before_sha256": "3b9592b3a91ce21783ff9fa6e57043bafc63309925196e21daf344ac8f903556",
+      "after_sha256": "f920f8b1f605189104be126189128000bedb30e4b4c80d31828bc2e423d04e39"
+    },
+    {
+      "row": 402,
+      "character": "Unidentified DUST01 inspection and custody officers",
+      "before_sha256": "e19dc3e2afc3765f63aa6a872b1aeb572e82ff5ae0c3d2dca050097c8c3cac1f",
+      "after_sha256": "cb1b295b389418b95418115bf5f7a81fc8f47d266adb072ab5f8edca08bab78f"
+    },
+    {
+      "row": 404,
+      "character": "Seven road coalition men in DUST01",
+      "before_sha256": "73cf48378d77579f084faa35cf86cb84c95ee39ff2e6e4bb51f35f922edfb655",
+      "after_sha256": "7b74befeeb3b01147881b5a7cf780675e9e60668fc32e0a653e8f48ab92a8e95"
+    },
+    {
+      "row": 407,
+      "character": "Reported noble client for Leen abduction (DUST01)",
+      "before_sha256": "d8425d7a6ce983ceecd13df50de593a5baf6c383339842e2ba0f8d6eb8f2d57b",
+      "after_sha256": "bb7e323b8c72b63b475f64a86898620486c3d1ae4daa0291caef90cdd5a1d888"
+    },
+    {
+      "row": 408,
+      "character": "Reported employer of black-clad fighter (DUST01)",
+      "before_sha256": "88829950cc0af416d9ab4af2514a6e226872413a16854dc49b1cd5f1e2ea8723",
+      "after_sha256": "dd619bead76d421ec2d83fa8d32904d953b46de37810cdc96425c579c7bf5689"
+    },
+    {
+      "row": 409,
+      "character": "Six masked Darkness-abduction attackers (DUST01 group)",
+      "before_sha256": "0e94d548abb2cbc0d3d3d535bd90e596c771c7ff41f4c8e79b1a132261676a97",
+      "after_sha256": "1c63217a364fce4988f86deee2fb63f93717b000a99528d316b77055d7050056"
+    },
+    {
+      "row": 410,
+      "character": "Orc figures in DUST01 infiltrator dream interlude",
+      "before_sha256": "509e180113fbbc47dab911ca40c7be87e777681a07eaf061734a8423e5145d51",
+      "after_sha256": "ba0d826ed1e84f96d7e78aa89f992ec8808f428fcef1f6e749e87af9f44b7974"
+    },
+    {
+      "row": 411,
+      "character": "Actual orc group at DUST01 village quest site",
+      "before_sha256": "8e5756be4d20db9a86b4619f70b15abdaa2cb7f6343141b6e5f954bcbf25777e",
+      "after_sha256": "c27f149e616be18983d04a82ede1f36f649ef32a06f37eab36ad2e72610735c3"
+    },
+    {
+      "row": 412,
+      "character": "Reported deceased foreign romance writer (DUST01)",
+      "before_sha256": "4e19835049ba0f8f1406b9418714f557fcfdf4444370b75029494b97230f1e0f",
+      "after_sha256": "5667b16975cfecd7b7e7f9e5704771063963937887034314c1fc5c6f35c02bf7"
+    },
+    {
+      "row": 413,
+      "character": "DUST01 village requesters and reported banquet hosts",
+      "before_sha256": "9e8b47b36cf854ce6145da415dc05f01ef6a9bf6ad04f66ea82547668a570427",
+      "after_sha256": "3230a2763e7f17112440531387195318809d4e08594a0fc22bb4a830aa8626d7"
+    },
+    {
+      "row": 416,
+      "character": "Unidentified jewelry-sale counterparty (DUST06)",
+      "before_sha256": "3f9abb256626768ce1374f69afc914bf2d3d20d5e8b6cec6280d60bd9bfed26b",
+      "after_sha256": "03b49e81eb0de80200a5cfa30f6989afb6549b72d1cd5306abe61c73914ae9f9"
+    },
+    {
+      "row": 417,
+      "character": "Breadshop encounter staff / customer roles (DUST01)",
+      "before_sha256": "0aafd57a7b400e098d6d5d7b914391087fd178e10fb57303c04c3092b262ce61",
+      "after_sha256": "8689b410042c3055c8bdd579832c26f108b5bd6f44700decc49cb451413857c1"
+    },
+    {
+      "row": 418,
+      "character": "Other human lake guards / obstruction coalition (DUST03)",
+      "before_sha256": "e54e96512b4af6ac6eab9c2d67b99e4dcb768cb9c1f42a291ddeb1322b6a967b",
+      "after_sha256": "d09c5772877dc241b25829da64373d27b8ff85dec0a2fa1774b2ff3f93b46907"
+    }
+  ],
+  "all_other404_rows_exact_in_each_plane": true,
+  "all19_historical_cross_plane_differences_exact": true,
+  "all63_models_rules_originals_and6_analytical_cores_unchanged": true,
+  "all_substantive_fields_tiers_identities_gaps_and_independent_observation_fields_unchanged": true,
+  "original_frozen_C42_drafts_and_WORK123_preserved_as_history": true,
+  "publications_from_old_source_not_transferred_to_new_commit": true,
+  "new_source_preflight_readback_full479_audit_and_reload_due": true,
+  "no_new_primary_reading_model_rule_input_first_or_independent_credit": true,
+  "full_program_complete": false
+}

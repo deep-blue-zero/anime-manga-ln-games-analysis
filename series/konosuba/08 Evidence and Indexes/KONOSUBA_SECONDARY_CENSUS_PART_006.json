@@ -1,0 +1,1366 @@
+{
+  "schema": "konosuba.secondary-census.row-part.v1",
+  "canonical_census_manifest": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
+  "part_ordinal": 6,
+  "first_row_index": 400,
+  "last_row_index": 455,
+  "row_count": 56,
+  "rows": [
+    {
+      "character": "Apparent DUST01 succubus proprietor",
+      "identity": "Apparently operating the same Dust dream shop; legal ownership unproved. MASK leader and MAIN02 counterwoman individual joins remain unresolved.",
+      "likely_tier": "1 scoped; compact individual or paired profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U013P166-174;U015P533-543",
+      "substantive_responsibility": "Own customer-valuing instruction and later romance/dream proposal; worker permission request/assent and Sena response stay separate.",
+      "gaps": "No performed dream arrangement, full staff policy, private income or role-based MASK identity borrowing.",
+      "disposition_status": "SCOPED_TIER1_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_COMPACT_PROFILES.md#the-apparent-dust01-succubus-proprietor",
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_COMPACT_PROFILES.md"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "1 scoped; compact individual or paired profile; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER1_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Other DUST01 succubus coworkers and collective arrangements",
+      "identity": "Unresolved staff/group occurrences; not a fixed worker roster or new disjoint people.",
+      "likely_tier": "0 scoped; reported/group/access occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U013P181;U015P113-115;U017P199-215",
+      "substantive_responsibility": "Rehearsal support, inspection presentation and reported apology/holiday arrangements retain collective scope; individual small-worker acts remain separately attributed.",
+      "gaps": "Do not assign every group act to proprietor/Lolisa or all shop workers; arranged benefit is not completed service.",
+      "disposition_status": "SCOPED_TIER0_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": null,
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "0 scoped; reported/group/access occurrence index; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER0_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Unidentified DUST01 inspection and custody officers",
+      "identity": "Source-local inspection, exit/bell/noble-removal and jail roles; overlap unresolved. Contextual Luna candidate excluded as a new person.",
+      "likely_tier": "0 scoped; reported/group/access occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U015P111-583, especially195/207/285/312/574-580",
+      "substantive_responsibility": "Actual untagged enforcement/help roles retained apart from Sena and the strongly contextual disguised-Luna attribution.",
+      "gaps": "No unified leaker/supervisor/guard identity; U014 apparent three police are Vanir plus two shells, not these human officers.",
+      "disposition_status": "SCOPED_TIER0_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": null,
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "0 scoped; reported/group/access occurrence index; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER0_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Temporary warrior / Leen-party infiltrator (DUST01)",
+      "identity": "Friendly leather-armored longsword user locally connected to the infiltrator plan; no personal name. DUST02 third-man join open.",
+      "likely_tier": "1 scoped; compact individual or paired profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U017P24-33/241-244/327-351/676-751",
+      "substantive_responsibility": "Actual party acceptance and operation contrasted with first-person predatory scene whose dream onset is unmarked.",
+      "gaps": "No independently confirmed physical drugging/assault from dream interlude, real orc attackers there, or stable awake private biography.",
+      "disposition_status": "SCOPED_TIER1_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_COMPACT_PROFILES.md#the-temporary-warrior-and-infiltrator",
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_COMPACT_PROFILES.md"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "1 scoped; compact individual or paired profile; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER1_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Seven road coalition men in DUST01",
+      "identity": "Seven actual road participants; chief already in jail. Includes confection-maker route, with other speaker/weapon mapping unresolved.",
+      "likely_tier": "0 scoped; reported/group/access occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U017P487-655",
+      "substantive_responsibility": "Serving, declared category constraints, attacks, physical defeats, orb shock and binding belong to current group/local actors.",
+      "gaps": "Not seven certified new global people; no universal innocence, proven all-unharmed outcome, or automatic dungeon-subordinate join.",
+      "disposition_status": "SCOPED_TIER0_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": null,
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "0 scoped; reported/group/access occurrence index; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER0_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Road coalition confection-maker (DUST01)",
+      "identity": "One source-local maker/speaker within the seven; no paid baker profession or breadshop/jail-baguette identity established.",
+      "likely_tier": "1 scoped; compact individual or paired profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U017P515-531",
+      "substantive_responsibility": "Proud self-made confection and peer response retain ordinary craft alongside group no-touch declarations and coercive demands.",
+      "gaps": "Individual mapping across seven incomplete; no childhood history, full moral innocence or assignment of dream infiltrator acts.",
+      "disposition_status": "SCOPED_TIER1_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_COMPACT_PROFILES.md#the-road-coalitions-confection-maker",
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_COMPACT_PROFILES.md"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "1 scoped; compact individual or paired profile; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER1_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Black-clad contracted fighter (DUST01)",
+      "identity": "Separate dual-dagger attacker; assassin-like is Dust classification. Employer and occupation unconfirmed independently.",
+      "likely_tier": "1 scoped; compact individual or paired profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U017P771-798;U018P7",
+      "substantive_responsibility": "Own advance-payment/transport obligation claim and actual attack/counter; later disappearance separately reported.",
+      "gaps": "Butt-end abdominal strike is not blade puncture/death. No named employer, completed contract discharge or proved future nonreturn.",
+      "disposition_status": "SCOPED_TIER1_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_COMPACT_PROFILES.md#the-black-clad-contracted-fighter",
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_COMPACT_PROFILES.md"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "1 scoped; compact individual or paired profile; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER1_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Reported noble client for Leen abduction (DUST01)",
+      "identity": "Paying noble in chief/subordinate account; no name, directly seen commission or identity bridge.",
+      "likely_tier": "0 scoped; reported/group/access occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U017P252-253",
+      "substantive_responsibility": "Reported requested transfer to customer preserves exploitative plan beyond declared gentleness.",
+      "gaps": "Do not identify as Alderp, helmeted noble or fighter employer; no recipient permission supplied.",
+      "disposition_status": "SCOPED_TIER0_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": null,
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "0 scoped; reported/group/access occurrence index; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER0_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Reported employer of black-clad fighter (DUST01)",
+      "identity": "Employer in fighter own advance-payment account; not independently identified with earlier paying noble.",
+      "likely_tier": "0 scoped; reported/group/access occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U017P775-776",
+      "substantive_responsibility": "Stated paid transport obligation and claimed persistence after chief arrest.",
+      "gaps": "No verified payment, named employer, personally spoken order or independent contract terms.",
+      "disposition_status": "SCOPED_TIER0_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": null,
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "0 scoped; reported/group/access occurrence index; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER0_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Six masked Darkness-abduction attackers (DUST01 group)",
+      "identity": "Initial three plus three arrivals. Later duo explicitly recognized as group members; individual masked weapons/turns remain incompletely mapped.",
+      "likely_tier": "0 scoped; reported/group/access occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U014P393-535;U017P233-238",
+      "substantive_responsibility": "Threat/photograph reference, actual attacks and retreat after staged police intervention are collective/local acts.",
+      "gaps": "No six-new-person denominator, forced chief=spear-wielder join or real three-police/arrest outcome.",
+      "disposition_status": "SCOPED_TIER0_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": null,
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "0 scoped; reported/group/access occurrence index; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER0_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Orc figures in DUST01 infiltrator dream interlude",
+      "identity": "Dream-plane first figure and later group; onset unmarked. No certified corresponding waking-world individuals.",
+      "likely_tier": "0 scoped; reported/group/access occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U017P676-736",
+      "substantive_responsibility": "Narrative encounter and claimed biology belong to framed focalization/dream, not an independent physical assault report.",
+      "gaps": "No actual outside-world orc count, completed physical assault on Leen or authenticated species biology from this scene.",
+      "disposition_status": "SCOPED_TIER0_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": null,
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "0 scoped; reported/group/access occurrence index; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER0_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Actual orc group at DUST01 village quest site",
+      "identity": "Source-bound quest group, distinct evidentiary plane from later dream figures. Initial approximate count is a report.",
+      "likely_tier": "0 scoped; reported/group/access occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U013P65-82/219-261",
+      "substantive_responsibility": "Mitsurugi seen among fallen orcs; subsequent search actually occurs. Captured-villager/Aqua rescue story is staged fiction.",
+      "gaps": "No exact observed count, validated universal reproductive account or defeated-group identity bridge to dream figures.",
+      "disposition_status": "SCOPED_TIER0_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": null,
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "0 scoped; reported/group/access occurrence index; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER0_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Reported deceased foreign romance writer (DUST01)",
+      "identity": "One writer of three books according to Yunyun; personal name not supplied.",
+      "likely_tier": "0 scoped; reported/group/access occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U014P257-263",
+      "substantive_responsibility": "Reported distant origin, deceased status, common authorship and asserted originality retained as testimony.",
+      "gaps": "No independently authenticated originality, Japanese/reincarnation identity, author psychology or actual fictional-character biography.",
+      "disposition_status": "SCOPED_TIER0_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": null,
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "0 scoped; reported/group/access occurrence index; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER0_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "DUST01 village requesters and reported banquet hosts",
+      "identity": "Village-level requester/host/resident roles; may overlap client household. No fixed distinct-person count.",
+      "likely_tier": "0 scoped; reported/group/access occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U013P74-82/316",
+      "substantive_responsibility": "Luna reports frightened workers and prospective welcome; Dust later reports village visit and absent young women.",
+      "gaps": "Promised welcome is not witnessed completed banquet or personal endorsement by every resident; narrator insults are not population facts.",
+      "disposition_status": "SCOPED_TIER0_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": null,
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "0 scoped; reported/group/access occurrence index; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER0_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Older bathhouse counter attendant (DUST05)",
+      "identity": "Unidentified counter elder at Dust usual public bath. No join to Eris believer or other old men.",
+      "likely_tier": "1 scoped; compact individual or paired profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST05U011P304-320/338/443-445",
+      "substantive_responsibility": "Fee receipt, actual prevention, practical alternative and threat of exclusion/police; party gaze later explained separately.",
+      "gaps": "No actual police call, permanent ban, confirmed prior peeking offense, actual Dust assault or extra watcher from bubbles.",
+      "disposition_status": "SCOPED_TIER1_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_COMPACT_PROFILES.md#the-bathhouse-counter-attendant",
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_COMPACT_PROFILES.md"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "1 scoped; compact individual or paired profile; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER1_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Mountain couple sheltering Feit (DUST06)",
+      "identity": "Explicit elderly spouses; some alternating lines unallocated. Barn does not establish farming profession.",
+      "likely_tier": "1 scoped; compact individual or paired profile; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST06U011P307-333;P940-1033 checked as non-couple context",
+      "substantive_responsibility": "Initial fear, mutual recognition, recalled prior rescue and actual shelter/items arrangement retain separate access.",
+      "gaps": "No completed exact payment, later return, individualized all-line mapping or eldercare diagnosis. Late Line-sama is butler, not couple.",
+      "disposition_status": "SCOPED_TIER1_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_COMPACT_PROFILES.md#the-mountain-couple-sheltering-feit",
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_COMPACT_PROFILES.md"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "1 scoped; compact individual or paired profile; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER1_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Unidentified jewelry-sale counterparty (DUST06)",
+      "identity": "Implied counterparty of completed shop sale; name, number and speaking role unprovided.",
+      "likely_tier": "0 scoped; reported/group/access occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST06U011P363-367",
+      "substantive_responsibility": "Actual sale in narrative distinguished from Line ignorance and Rionor qualified near-national-treasure appraisal.",
+      "gaps": "No verified fair/fraudulent price, precise amount, independently audited value, provenance knowledge or invented clerk voice.",
+      "disposition_status": "SCOPED_TIER0_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": null,
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "0 scoped; reported/group/access occurrence index; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER0_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Breadshop encounter staff / customer roles (DUST01)",
+      "identity": "Unresolved bakery encounter roles; no person bridge to road confection-maker or jail bread donor.",
+      "likely_tier": "0 scoped; reported/group/access occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST01U015P360;P574-583 for separate jail gift",
+      "substantive_responsibility": "Shop-side staff/customers watching remain separate from actual warm-baguette handoff and Dust inferred donor.",
+      "gaps": "No named baker, proved same maker, observed gift purchase or shop occupation for road confection-maker.",
+      "disposition_status": "SCOPED_TIER0_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": null,
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "0 scoped; reported/group/access occurrence index; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER0_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Other human lake guards / obstruction coalition (DUST03)",
+      "identity": "More than ten armored guards with possible overlap of known trio; no full individual roll call.",
+      "likely_tier": "0 scoped; reported/group/access occurrence index; exact-source author publication closed; scoped/nonfinal",
+      "priority": "Cohort42 source-bound author publication complete; full KonoSuba program continues.",
+      "evidence_distribution": "DUST03U011P596-604/623-738",
+      "substantive_responsibility": "Obstruction, collective belief, health observation, departures and remaining clients preserved by local scope.",
+      "gaps": "Dust admits key accusations are lies; no uniform mind-control diagnosis, authenticated all-guard motives or extra unique-person count.",
+      "disposition_status": "SCOPED_TIER0_COHORT42_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
+      "independent_observation_count": null,
+      "cohort42_source_known": true,
+      "cohort42_unique_person_denominator": false,
+      "cohort42_profile_path": null,
+      "cohort42_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort42_semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+      "cohort42_current_receiving": "Exact-source author publication closed for current qualified interpretation/supplement. Earlier published model and first histories retain their original support scopes; all unresolved identities and adverse findings remain.",
+      "prior_cohort42_publication_fields": {
+        "likely_tier": "0 scoped; reported/group/access occurrence index; publication pending",
+        "priority": "Cohort42 proportional source-bound treatment; exact containing publication pending; full program active",
+        "disposition_status": "SCOPED_TIER0_COHORT42_PUBLICATION_PENDING",
+        "cohort42_current_receiving": "Source-bound interpretation received; exact containing publication pending. No unique-person or independent-observation denominator."
+      },
+      "cohort42_publication_resolution": {
+        "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace"
+      }
+    },
+    {
+      "character": "Two Eibram-household gate guards",
+      "identity": "Two actual guards, with some quoted turns unallocated; no join to other noble retinues.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U012P73–83",
+      "substantive_responsibility": "They challenge the visitors, react joyfully to the exorcism request, fetch and admit them.",
+      "gaps": "No personal names, complete fear motive or permanent disposition. The pair is not a unique-person count.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Eibram household resident maids and related reported maid occurrences",
+      "identity": "Current resident staff and related reported maid occurrences; past wishes are not all joined to each present member.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U012P116–119/172–182/233",
+      "substantive_responsibility": "Reported closet disturbance and felt watching differ from actual toy embraces. Father and son statements do not supply consent.",
+      "gaps": "Individual turns, possession awareness and the precise unshown earlier acts remain unknown.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Dustiness wife in Pickles reported past",
+      "identity": "Reported woman in Pickles’s past, addressed through Darkness’s resemblance and the daughter comparison; personal name unknown.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U012P210–213/249",
+      "substantive_responsibility": "She is the object of Pickles’s claimed attachment; his account of displacement remains interested testimony.",
+      "gaps": "No affair proof, own viewpoint, parentage answer or entitlement to the daughter.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Initial visiting male police officer in mushroom inquiry",
+      "identity": "Actual initial male officer, distinct from the later returning Lolierina.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U014P7–45/49–63",
+      "substantive_responsibility": "Preserve the initial police visit without giving this man the deputy’s self-name.",
+      "gaps": "No personal name, occupation-only join or assignment of all later police acts.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Marybell / マリーベル (Megumin reported dispute)",
+      "identity": "Explicitly named reported Marybell; no join to the MAIN11 maid Mary/メアリー.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U014P140/145",
+      "substantive_responsibility": "Megumin reports a quarrel about breast size and lists Marybell for inquiry.",
+      "gaps": "Interested report, without Marybell’s own speech, an actual present arrest or a verified appearance/personality.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Adventurer assaulted during mushroom inquiry",
+      "identity": "Actual nearby guild adventurer, not automatically another familiar named man.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U014P129–139",
+      "substantive_responsibility": "He reacts to Megumin’s assault, recovers and explains the earlier collision and apology.",
+      "gaps": "The earlier event is his report; Megumin’s accusation does not prove culpability or a wider personal identity.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Reported weapon-shop man in Megumin dispute list",
+      "identity": "Reported weapon-shop man; no automatic join to the Dust weapon merchant or another weapon shop.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U014P145",
+      "substantive_responsibility": "Megumin reports bargaining him down and making him cry.",
+      "gaps": "No own viewpoint, positive personal join, price record or actual present interview.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Reported magic-tool-shop man in Megumin dispute list",
+      "identity": "Reported magic-tool trade role, separate from an automatic all-sellers identity.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U014P145",
+      "substantive_responsibility": "The forced low-price purchase and distress remain Megumin’s account.",
+      "gaps": "No own speech, completed inquiry or universal merchant disposition.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Reported fruit-shop man in Megumin dispute list",
+      "identity": "Reported fruit-shop man in the trade-specific list.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U014P145",
+      "substantive_responsibility": "The dispute and distress remain a separate reported role from the other trades.",
+      "gaps": "No independently watched event, exact personal identity or final outcome.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Reported hole-filling civil workers",
+      "identity": "Unresolved reported civil-worker group.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U014P216",
+      "substantive_responsibility": "Megumin proposes suspicion but also reports their thanks for increased hole-filling work.",
+      "gaps": "Her hypothesis is not guilt proof; no individual mapping, complete work ledger or actual interview.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Reported woodcutters union objecting to forest casts",
+      "identity": "Reported woodcutters’ occupational group; no automatic join to MAIN05 woodcutter 146.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U014P223",
+      "substantive_responsibility": "Megumin reports their anger at forest Explosion use.",
+      "gaps": "No individuated speaker, precise case or universal ban.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Reported hunters union objecting to forest casts",
+      "identity": "Separate hunters’ occupation in the complaint account; membership unresolved.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U014P223",
+      "substantive_responsibility": "Preserve the affected hunters’ role at its reported access.",
+      "gaps": "No personal join or complete institutional rule.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Reported female devil scapegoat in prior mushroom incident",
+      "identity": "Megumin’s reported female-devil passerby, not positively identified as Arnes.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U014P175",
+      "substantive_responsibility": "Preserve the target of prior blame shifting without endorsing culpability.",
+      "gaps": "No personal name, own perspective or automatic devil identity join.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Armed men accompanying Darkness with mushroom",
+      "identity": "Actual men accompanying Darkness; household-troop attribution is Kazuma’s question.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U014P321–329",
+      "substantive_responsibility": "The group accompanies Darkness and hands her a mushroom.",
+      "gaps": "Exact employer, individual mapping and joins to other retinues remain unknown.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Reported novice victim of wallet wager",
+      "identity": "Specific victim in Chris’s account, not all novice adventurers.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U018P16/149/194",
+      "substantive_responsibility": "Preserve reported forced wagering, wallet loss and later return/reward.",
+      "gaps": "The original coercion and handover are not independently watched; no name or universal novice policy.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Jewelry seller in Chris cursed-item account",
+      "identity": "Reported jewelry proprietor, not other jewelers by trade.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U018P69–74",
+      "substantive_responsibility": "Chris says he refused to relinquish the item because a noble had ordered its import.",
+      "gaps": "Narrator inference about knowing abuse is not an independent mind read; the full proprietor’s account is unheard.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Noble customer in Chris cursed-jewel account",
+      "identity": "Reported unnamed noble customer; Darkness’s late implication does not positively identify this person.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U018P71–74/375–389",
+      "substantive_responsibility": "Requested import and possible intended misuse retain their report/inference layers.",
+      "gaps": "No personal name, completed misuse or confession joining the customer to Darkness.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Two pursuing police voices in Chris concealment",
+      "identity": "Two local pursuing police presences, with individual turn allocation unfixed.",
+      "likely_tier": "1 scoped; bounded pair/role profile; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U018P125–135",
+      "substantive_responsibility": "They check a sound, mistake Chris’s call for a Neroid, and leave after a voice forgoes pocket money because they are working.",
+      "gaps": "No actual animal capture, stable ethic shared by both, exact names or positive join to the final gathering.",
+      "disposition_status": "SCOPED_TIER1_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort43--yorimichi-1-visitors-and-supporting-cast"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Wallet-wager spectator and betting voices",
+      "identity": "Unresolved local adventurer crowd, rather than a census of all Axel people.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U018P289–306/312",
+      "substantive_responsibility": "They watch, wager, heckle and react; Kazuma’s own participation stays distinct.",
+      "gaps": "No name for every turn or uniform spectator motive.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Bookmaker at wallet-wager gathering",
+      "identity": "Bookmaker role referred to by Aqua, with no personal name.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U018P306",
+      "substantive_responsibility": "Preserve bookmaking separately from the contestant and unallocated spectators.",
+      "gaps": "No directly watched fee collection, full accounts or join to other gamblers.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Police gathering around Megumin and Darkness",
+      "identity": "Actual final police-group occurrence, possibly overlapping other officers without proof.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U018P373",
+      "substantive_responsibility": "Officers stand at a distance around Megumin and Darkness.",
+      "gaps": "No automatic arrest, conviction or personal join to the pursuing pair.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Ghouls at Crow encounter",
+      "identity": "Actual unresolved ghoul group, separate from Crow himself.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U020P118–122/131–132",
+      "substantive_responsibility": "They pursue Aqua and are frozen and shattered by Wiz; the consumed body has a separate identification.",
+      "gaps": "No personal history, exact production process or human-victim identity from the initial impression.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Goblin remains in Crow encounter",
+      "identity": "Corpse identified as a goblin by Kazuma after an earlier human-like impression.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U020P131–132",
+      "substantive_responsibility": "Preserve the actual identification and the limit of depicted harm.",
+      "gaps": "No observed personal killing by Crow, complete death chronology or meaningful behavioral profile.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Meal-server voice at visiting quartet meal",
+      "identity": "One actual serving voice, without an established join to other food roles.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U024P58–60",
+      "substantive_responsibility": "The server supplies the fried frog-tongue dish at the paid information meal.",
+      "gaps": "No personal name, broader disposition or automatic skewer-stall join.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Reported mystery-skewer stall proprietor",
+      "identity": "Kazuma’s reported skewer-stall proprietor after an actual prior purchase.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U024P7/64",
+      "substantive_responsibility": "Kazuma has bought and eaten skewers and says the proprietor will not disclose ingredients.",
+      "gaps": "Ingredients are unverified; no separately heard refusal or join to the meal server.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Wounded male adventurer healed during visitors story",
+      "identity": "Actual wounded male adventurer, personal name unknown.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U024P285–301",
+      "substantive_responsibility": "He arrives with support and receives Aqua’s healing; others’ assessments are not his own self-report.",
+      "gaps": "No own psychological history, performed failed Akyua heal or universal injury ceiling.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Female adventurer bringing wounded man",
+      "identity": "Actual female helper and requester, distinct from the injured man.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U024P285–292",
+      "substantive_responsibility": "She supports the wounded man, seeks Akyua and reacts to Aqua’s presence.",
+      "gaps": "No verified romantic/family relation, complete earlier attack or stable global assessment of Aqua.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Ozuma reported companion lost to Hans",
+      "identity": "Specific former companion in Ozuma’s report, without a join to another known victim.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U024P430/436",
+      "substantive_responsibility": "The lost companion is the object of Ozuma’s revenge project, training account and particular thanks.",
+      "gaps": "Death and training are not currently watched; name, full relationship and other joins remain unknown.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Megumi reported grandfather",
+      "identity": "Megumi’s reported grandfather; his unusual personal name is not supplied and reincarnator status is unverified.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U024P86–87/449",
+      "substantive_responsibility": "He named Megumi with the blessing meaning and reportedly left a magical legacy.",
+      "gaps": "Kazuma’s Japan inference is not proof; no actual spell career, precise will or Arue-grandfather join.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Rakuresu reported former house companions and residents",
+      "identity": "Reported former house, companions and residents in Rakuresu’s territory account; a collective, not one person.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U024P444",
+      "substantive_responsibility": "They are objects of restoration and revenge in the surviving knight’s own explanation.",
+      "gaps": "No exhaustive casualty count, sole-survivor claim, completed restoration or automatic Ozuma-victim join.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "White-wolf group in visiting quartet crisis",
+      "identity": "Actual white-wolf coalition, distinct from the YORI02 white-tiger family.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U024P296/330–395",
+      "substantive_responsibility": "Injury attribution, group threat and the surviving attack differ from Kazuma’s improvised ecology.",
+      "gaps": "No verified bear/wolf balance from that story, full individual mapping or supplied human motives.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Guild praise and work-audience roles for visiting quartet",
+      "identity": "Unresolved local guild/adventurer praise voices and work recipients.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U024P252–255",
+      "substantive_responsibility": "They acknowledge two weeks of work and report finishing magic and a rescue.",
+      "gaps": "Not a complete kill account, independent certification of every deed or automatic spectator identity join.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Two familiar male advisers at capital inspection",
+      "identity": "Actual familiar male pair, not positively named Keith, Dust or Taylor.",
+      "likely_tier": "1 scoped; bounded pair/role profile; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U026P77–95",
+      "substantive_responsibility": "They seek Kazuma’s help, understand the frog plan, warn about the party’s weakness and circulate the plan to others.",
+      "gaps": "Turns and personal names remain unallocated; not all private staying motives or a completed transfer are known.",
+      "disposition_status": "SCOPED_TIER1_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort43--yorimichi-1-visitors-and-supporting-cast"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Capital-aspiring female adventurer party occurrences",
+      "identity": "Female-party voices with continuing group context; individual membership unresolved.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U026P133–137/181–185/200–203",
+      "substantive_responsibility": "They seek capital opportunities, respond to danger and press the recruiter with their aspirations and complaints.",
+      "gaps": "No universal women’s motive, exact party roster or successful recruitment.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Frog-killer snake and Aqua-carried young",
+      "identity": "Adult frog-killer snake and Aqua-carried young; kinship is Aqua’s later account.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U026P162–178/206",
+      "substantive_responsibility": "Separate the adult threat, the young’s acquisition report and the later defeat claim by access and timing.",
+      "gaps": "No earlier recognized species, verified capture method, human-style intention or broader wildlife law.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Frog quarry at inspection hunt",
+      "identity": "Multiple frog quarry occurrences, not individuated people.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U026P85–95/114–124/162–178",
+      "substantive_responsibility": "Preserve the staged group hunt and the particular predator context.",
+      "gaps": "No individual personalities, automatically adequate overall risk plan or unique-person denominator.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    },
+    {
+      "character": "Unnamed YORI01 guild-reception occurrences",
+      "identity": "Source-local guild-reception occurrences in U014/U024/U026; individual continuity unproved.",
+      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+      "priority": "Cohort43 source-bound treatment; containing publication pending; wider program continues",
+      "evidence_distribution": "YORI01U014P49–63/142–149;U024guildcontext;U026P36/73",
+      "substantive_responsibility": "Preserve information and office interaction without naming every clerk Luna.",
+      "gaps": "No assertion that every occurrence is one woman; existing positive Luna joins elsewhere stay separate.",
+      "disposition_status": "SCOPED_TIER0_COHORT43_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort43_source_known": true,
+      "cohort43_unique_person_denominator": false,
+      "cohort43_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json"
+      ],
+      "cohort43_semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+      "cohort43_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, reported role or overlapping occurrence; no unique-person denominator."
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "schema": "konosuba.secondary_character.partitioned_census.v1",
   "status": "INCREMENTAL_219_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-24T22:38:34.409784+00:00",
-  "scope": "Cohort40 exact-source author gate remains closed at0eb0b972/full479audit40134804125;Owner mergedPR316atdb1e0652;this newtranche requires a newPR. Cohort41semantic receiving complete;exact publication pending. Candidate63models57scoped secondary model subjects106compact32monograph-only397nonfinal records. Final census,synthesis,successor models,integration and release remain open.",
+  "updated_utc": "2026-10-25T02:36:22.720524+00:00",
+  "scope": "PR324 reference correction is published at17e6afe7 with full479 audit and resolved review. C43 semantic receiving is complete; exact new publication remains pending. Candidate64 model artifacts/58 source-scoped secondary entries/117 compact/40 monograph-only routes/456 nonfinal source records. Full program remains active.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
-  "working_row_count_not_population_denominator": 397,
+  "working_row_count_not_population_denominator": 456,
   "global_census_closed": false,
   "final_tiers_assigned": false,
   "global_completion_percentage": null,
@@ -37,7 +37,7 @@
     "Cohort23 Yuiyui/Pucchin conditional Tier3 candidates and Hyoizaburoo Tier2 monograph-only; fourteen bounded new discovery records retain source-plane/identity gaps and candidate profile review where due. Semantic receiving complete, exact publication pending.",
     "Cohort24 Chekera Tier2 monograph-only and six compact Tier1 profiles in existing coverage audit; ten new indexed incidental dispositions and one deferred Arcanretia manager review remain source-bound/nonfinal. No model or matched synthetic quota; semantic receiving complete, exact publication pending."
   ],
-  "current_actual_individual_audit_scope": "Source-known same informed root/possible pretraining. Current2130P1954ruby44displays10members8EPUBs,four full paragraph projections/six bounded,zero new images/residual/whole-edition. Literal41-source retrieval and current383labels are routing,not full prose/absence or unique-person denominator. Six entering rows change;377others exact in each plane. Fourteen new routes are not14certified new people.",
+  "current_actual_individual_audit_scope": "Six complete YORI01 paragraph/ruby projections plus one bounded 37-P YORI02 projection. The bounded cache outside P209–245 is unreceived. No fresh image, nonparagraph-residual or whole-edition credit. Prior full YORI01 reading retains its dated receipt scope; derivative reinspection does not add independent observations. Current total 2,116 P / 2,017 ruby in seven members/two local objects/47 prepared-page deliveries; six full paragraph projections and one bounded projection. Eleven entering rows change,408 others are exact in each plane;19 historical plane differences remain. New records include groups, reports, creatures and possible overlaps.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -1913,7 +1913,7 @@
     "updated_utc": "2026-10-20T17:44:03.663249+00:00",
     "scope": "Cohorts01-18 have closed exact-source gates at declared scopes: twenty-one scoped secondary conditional-model subjects/27model bodies,fifteen bounded profiles and four Tier2monograph-only Nos,Rionor,Feit,Chomusuke.187qualifiedrecords include groups,aliases and occurrence slots,not final unique people. Reliability remains provisional; full census/final tiers/program open."
   },
-  "canonical_status": "Four monographs include one two-rule provisional MAIN02/05scientist reconstruction and three monograph-only routes. Six compact profiles,eight new sparse/access records andtwo unfinished substantive criminal-trio routes retained. Four original Japanese firsts/two dependent contrasts preserve ambiguity and timing issue;no independent reliability or population result.",
+  "canonical_status": "Seven monographs, one two-rule provisional Ozuma model, four bounded profiles and37 new source/access records. Old deputy100 joins existing Lolierina231 without a new study. Every old model and original diagnostic remains exact; four new English firsts retain adverse binding/transfer findings.",
   "cohort19_current_receiving": {
     "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT_19_RECEIVING_AND_PROVENANCE.json",
@@ -2757,9 +2757,9 @@
   "prior_single_file_schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
   "row_storage": {
     "kind": "AUTHORITATIVE_ORDERED_ROW_PARTS",
-    "logical_nonfinal_record_count": 397,
-    "part_count": 5,
-    "row_array_sha256": "6799e53c1ead4fae4cbdd2c19c155c582576b82ef0ae4c341299f88c8bd21d18",
+    "logical_nonfinal_record_count": 456,
+    "part_count": 6,
+    "row_array_sha256": "41b2a8af6f45f38b9ecf8718419819d2ca3e6aea337ad497a8eca5a2dc1ab364",
     "read_instruction": "Read the listed parts in order,verify their hashes,bounds and counts,and concatenate rows. Each row occurs once; the existing census path remains the single authority. Physical part boundaries assign no analytical tiers or person denominator.",
     "source_identity_or_report_not_population_proof": true
   },
@@ -2770,8 +2770,8 @@
       "first_row_index": 0,
       "last_row_index": 79,
       "row_count": 80,
-      "bytes": 639170,
-      "sha256": "e24a32ee8445a8b3dc891640854f847cbb951c4a8ca3aabae68b6d32d64edae4"
+      "bytes": 653884,
+      "sha256": "2dd3bf12b1face0e194e85362c17dbca099099676165ba3740e1934e81e43ee9"
     },
     {
       "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_002.json",
@@ -2779,8 +2779,8 @@
       "first_row_index": 80,
       "last_row_index": 159,
       "row_count": 80,
-      "bytes": 270167,
-      "sha256": "0bda44713336f025ef4e30d0bfe7aa9acae18b2db19050cd03c914d0c876ddfd"
+      "bytes": 316696,
+      "sha256": "de7d6eaeadedf7ba4c3ae3ce2f68e4d835c5866fddddbe4429ce483472d409bd"
     },
     {
       "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_003.json",
@@ -2788,8 +2788,8 @@
       "first_row_index": 160,
       "last_row_index": 239,
       "row_count": 80,
-      "bytes": 295279,
-      "sha256": "edfeb0e8ea10f82a6d7df23d39c7dd34bdf86aae572710e9dc4d30a5e9d6697e"
+      "bytes": 295811,
+      "sha256": "556108f82fdf8fdd8963e3004154901d0b57ecc369fc5061d6548276b6254797"
     },
     {
       "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_004.json",
@@ -2804,10 +2804,19 @@
       "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_005.json",
       "part_ordinal": 5,
       "first_row_index": 320,
-      "last_row_index": 396,
-      "row_count": 77,
-      "bytes": 199481,
-      "sha256": "21b2ad9f861b2f456374a553c5cedfd0a32af40cd9840fb97a6dc993c4b186fc"
+      "last_row_index": 399,
+      "row_count": 80,
+      "bytes": 227061,
+      "sha256": "7a73d6bc2f5191472c4b0ad9dd992704fb33b4f41a19afd1f9d14a1234cd5790"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_006.json",
+      "part_ordinal": 6,
+      "first_row_index": 400,
+      "last_row_index": 455,
+      "row_count": 56,
+      "bytes": 109601,
+      "sha256": "f26fbce9179132b95ceb9c00e29bda59c5a9b4b61061cbb161c78cf0352c327e"
     }
   ],
   "storage_transition": {
@@ -3183,7 +3192,7 @@
       "separate_housekeeping_run": null
     }
   },
-  "current_scope_precedence": "Latestcohort41_current_receiving and root current fields govern current scope/totals. Earlier fields/stage statements remain dated exact history. No final maturity,global census closure,protected integration or release follows.",
+  "current_scope_precedence": "Latest cohort43 fields govern current scope and proposed totals. PR324 reference-fix closure resolves its dated pending wording. Earlier cohort/row statements remain exact history. No final census, independent accuracy, mature model or program closure is asserted.",
   "prior_current_metadata_before_cohort28_gate_close": {
     "scope": "Cohort 27 retains its closed exact-source author gate at b7a698ec/audit 40048307237. Cohort 28 source-bound semantic receiving is complete; exact containing publication pending. Candidate 41 models/35 scoped secondary model subjects, 46 profiles, 19 monograph-only subjects and 264 nonfinal records. Final census, tiers, model maturity, protected-main integration and full program remain open.",
     "canonical_status": "Alderp, Maxwell, Ragcraft, Ignis scoped Tier 3 monographs and separate provisional three-rule generators; Aulip, Balter, Hagen, wedding guard, Elroad prosecutor and casino manager Tier 2 monographs; ten Tier 1 profiles and fifteen Tier 0 indexes. Exact publication pending; 37 entering model bodies exact.",
@@ -4496,7 +4505,7 @@
     "current_scope_precedence": "Latest cohort40_current_receiving and root current fields govern current scope/totals. Prior current fields,stage flags and gate statements remain dated exact history. Body compliance is distinct from causal isolation;no final maturity,global closure or release follows."
   },
   "cohort41_current_receiving": {
-    "status": "SEMANTIC_RECEIVING_COMPLETE_EXACT_PUBLICATION_PENDING",
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_RECEIVING_AND_PROVENANCE.json",
     "semantic_receiving_sha256": "1d41bbe5e3791c3c744ee98fd950b003313ff131ec95f8501322899eaafe2000",
     "candidate_models": 63,
@@ -4570,7 +4579,20 @@
     "new_monographs": 4,
     "new_first_bodies": 4,
     "new_dependent_pairs": 2,
-    "new_rules": 2
+    "new_rules": 2,
+    "publication_resolution": {
+      "source": "86aa4073afc6e1f6431f5e9a485c4c7e4f67bc8a",
+      "tree": "f5f886c9af74a7b02a25073f832f69dc5ea0ff4e",
+      "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_PUBLICATION_GATE_CLOSE.json",
+      "gate_sha256": "d395da3c295b9f281ae5df9c4980b79e699247b7b821c1595654da01eb0d0093",
+      "source_run": 40141674799,
+      "full_discovered_tests": 479,
+      "current_models": 63,
+      "author_publication_tranche_complete": true,
+      "new_tranche_main_integration_not_certified_by_author_gate": true,
+      "no_independent_accuracy_grade_or_confidence_gain": true,
+      "pull_request_number": 320
+    }
   },
   "prior_scope_before_owner_PR316_integration": "Cohort40 exact-source author gate remains closed at0eb0b972/full479audit40134804125;PR316open. Cohort41semantic receiving complete;exact publication pending. Candidate63models57scoped secondary model subjects106compact32monograph-only397nonfinal records. Final census,synthesis,successor models,integration and release remain open.",
   "cohort41_publication_after_owner_integration": {
@@ -4643,5 +4665,381 @@
     "earlier_candidate_preflights_historical_only": true,
     "new_tranche_PR_required": true,
     "full_program_complete": false
+  },
+  "prior_current_metadata_before_cohort41_gate_close": {
+    "scope": "Cohort40 exact-source author gate remains closed at0eb0b972/full479audit40134804125;Owner mergedPR316atdb1e0652;this newtranche requires a newPR. Cohort41semantic receiving complete;exact publication pending. Candidate63models57scoped secondary model subjects106compact32monograph-only397nonfinal records. Final census,synthesis,successor models,integration and release remain open.",
+    "canonical_status": "Four monographs include one two-rule provisional MAIN02/05scientist reconstruction and three monograph-only routes. Six compact profiles,eight new sparse/access records andtwo unfinished substantive criminal-trio routes retained. Four original Japanese firsts/two dependent contrasts preserve ambiguity and timing issue;no independent reliability or population result.",
+    "current_actual_individual_audit_scope": "Source-known same informed root/possible pretraining. Current2130P1954ruby44displays10members8EPUBs,four full paragraph projections/six bounded,zero new images/residual/whole-edition. Literal41-source retrieval and current383labels are routing,not full prose/absence or unique-person denominator. Six entering rows change;377others exact in each plane. Fourteen new routes are not14certified new people.",
+    "updated_utc": "2026-10-24T22:38:34.409784+00:00"
+  },
+  "cohort41_publication_resolution": {
+    "source": "86aa4073afc6e1f6431f5e9a485c4c7e4f67bc8a",
+    "tree": "f5f886c9af74a7b02a25073f832f69dc5ea0ff4e",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT41_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "d395da3c295b9f281ae5df9c4980b79e699247b7b821c1595654da01eb0d0093",
+    "source_run": 40141674799,
+    "full_discovered_tests": 479,
+    "current_models": 63,
+    "author_publication_tranche_complete": true,
+    "new_tranche_main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 320
+  },
+  "prior_current_metadata_before_cohort42": {
+    "scope": "Cohorts01–41 retain declared exact-source author publication gates. Totals63models,57scoped secondary model subjects,106compact profiles,32monograph-only subjects and397nonfinal records. Full census,final tiers,model maturity,synthesis/successors andfull program remain open. PR320author tranche awaits separately owned integration.",
+    "canonical_status": "Cohort41 exact-source author gate andfull1506file reload closed. Four monographs,one two-rule provisional scientist model,six compact profiles,eight sparse/access records andtwo unfinished substantive criminal-trio routes retain separate scopes. Twenty publication-status rows change;377others and19historical plane differences remain exact. All63models/four originals andtheir adverse findings unchanged;no independent accuracy,grade orconfidence gain.",
+    "current_actual_individual_audit_scope": "C41retains2130selectedP/1954ruby,10members8localEPUBs44complete displays,four completePprojections/six bounded;zero image/nonparagraph/whole-edition credit. MAIN02/05scientist explicitly joined;Dust02inventor association unresolved;plants remain individual routes. Four Japanese originals/two dependent same-informed-root comparisons retain public-account ambiguity,notification looseend,effort-only branch andresidual-two-hours issue. No repair,independent mechanism isolation,accuracy,grade,confidence gain,acoustic certification orfinal battery. PriorPR316owner integration separately passed full479audit40140324280;C41source full479audit40141674799andowner-carried foreign streams are separately bound.",
+    "updated_utc": "2026-10-24T23:22:39.124076+00:00",
+    "working_row_count_not_population_denominator": 397,
+    "current_scope_precedence": "Latestcohort41_current_receiving and root current fields govern current scope/totals. Earlier fields/stage statements remain dated exact history. No final maturity,global census closure,protected integration or release follows."
+  },
+  "cohort42_current_receiving": {
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_RECEIVING_AND_PROVENANCE.json",
+    "semantic_receiving_sha256": "e7fe0c9647adf35384ffa4b5f026caf37826d88adb8fd280df2e8a688424a1d8",
+    "candidate_models": 63,
+    "candidate_scoped_secondary_model_subjects": 57,
+    "model_subject_count_qualification": "57source-scoped secondary model entries,not certified disjoint people;qualified17/132join preserves both frozen artifacts.",
+    "bounded_profiles": 113,
+    "monograph_only_subjects": [
+      "Nos",
+      "Rionor",
+      "Feit",
+      "Chomusuke",
+      "Funifura",
+      "Dodonko",
+      "Arue",
+      "Hyoizaburoo",
+      "Chekera",
+      "Sylvia",
+      "Aloerina",
+      "Lolierina",
+      "Unnamed DUST07 Dullahan commander",
+      "Aulip",
+      "Balter",
+      "Hagen",
+      "Unnamed Dustiness wedding guard",
+      "Unnamed Elroad prosecutor",
+      "Unnamed Elroad state-casino manager",
+      "Sylphina",
+      "Charlie",
+      "Daniel",
+      "Froger",
+      "Goran",
+      "Brad",
+      "Rosary",
+      "Unnamed MASK succubus leader",
+      "Perie",
+      "King of Bridol (Dust continuation)",
+      "Lake 安楽少女 (Dust03 individual)",
+      "Diary inventor (Dust02 historical witness)",
+      "Unnamed Tranquility Girl (MAIN05 individual plant)",
+      "Criminal chief in Dust01–03",
+      "Criminal subordinate pair / local-turn route (Dust01–03)"
+    ],
+    "records_not_final_people": 419,
+    "changed_current_rows": [
+      11,
+      17,
+      80,
+      88,
+      132,
+      395,
+      396
+    ],
+    "untouched_entering_rows": 390,
+    "new_rows": [
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418
+    ],
+    "new_Tier1_records": 7,
+    "new_Tier0_records": 15,
+    "new_compact_profiles": 7,
+    "new_models": 0,
+    "new_monographs": 2,
+    "new_first_bodies": 0,
+    "new_dependent_pairs": 0,
+    "new_rules": 0,
+    "publication_resolution": {
+      "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+      "tree": "1290426538132b4fe72067fa1c5dcc31699f2fe4",
+      "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+      "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace",
+      "source_run": 40148739580,
+      "full_discovered_tests": 479,
+      "current_models": 63,
+      "author_publication_tranche_complete": true,
+      "protected_integration_not_certified_by_author_gate": true,
+      "no_independent_accuracy_grade_or_confidence_gain": true,
+      "pull_request_number": 324
+    }
+  },
+  "prior_cohort42_publication_authority_fields_01": {
+    "scope": "Cohort41author gate remains closed andPR320integrated at62c26cdb. Current owner main7a78b207also integratesPR321Doreck/Gaibilcuration;full479audit40145592318verified atthat exact main. Cohort42semantic receiving complete;exact new publication pending. Candidate63model artifacts57source-scoped secondary entries113compact34monograph-only419nonfinal census records. Full census,synthesis,successors,integration and release remain open.",
+    "updated_utc": "2026-10-25T00:36:03.269045+00:00",
+    "current_scope_precedence": "Latestcohort42_current_receiving/current root fields govern current scope/totals/qualified identities. Earlier phrases are dated exact history. All63model artifacts andsource-scoped support remain frozen;no unique-person,independent-accuracy or final-maturity claim."
+  },
+  "cohort42_publication_baseline_reconciliation": {
+    "current_main": "c2e8af7cd40b2c49bba015396c9aee58f9018649",
+    "publication_parent": "c2e8af7cd40b2c49bba015396c9aee58f9018649",
+    "previous_candidate_parent": "7a78b2072ed6a322d3c90cf0cedf511685d3e1e8",
+    "remote_published_series": "45bd1d0f1e08482d8d8bf3efefe51d51ef11b417",
+    "owner_PR322_integrated": true,
+    "foreign_owner_paths": [
+      {
+        "path": "series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md",
+        "bytes": 454133,
+        "sha256": "6eacfa0766cfabb64862c74069958e295c7cc776c97672f04d81665dd2954cd4",
+        "new_path": false
+      },
+      {
+        "path": "series/shuukura/02 Sequential Readings/SHUUKURA_V2_LN_V10_DEEP_READING.md",
+        "bytes": 189369,
+        "sha256": "b580dd237400fe8b54f141a1e8575cb38d8090e1c3e156fa00d335816b714874",
+        "new_path": true
+      },
+      {
+        "path": "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_CHARACTER_STATE_AND_READINESS_LEDGER.md",
+        "bytes": 755305,
+        "sha256": "f3d586f5677283b611fafa34a23a92ccb9eb17074ba2f364fb2aa6f50f18aff4",
+        "new_path": false
+      },
+      {
+        "path": "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md",
+        "bytes": 1009392,
+        "sha256": "6f304ba53f801dff5857ee552d846010dcd6a73091de48e90553675eca75c0e9",
+        "new_path": false
+      },
+      {
+        "path": "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_01.md",
+        "bytes": 628980,
+        "sha256": "521494f774a5a30c7a472d5ec34fde3bc332861c49f7bdd65ea351942312bb62",
+        "new_path": false
+      },
+      {
+        "path": "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_RELATIONSHIP_RULE_AND_BOUNDARY_LEDGER.md",
+        "bytes": 790128,
+        "sha256": "7db6abdd1fa7cf1613a4a138a682a8dc745ecfdb20bacea0f3dcc72abb0e6d66",
+        "new_path": false
+      },
+      {
+        "path": "series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_LN_V10_TRANSACTION_AUDIT.md",
+        "bytes": 14562,
+        "sha256": "4b13a009d39d104e80cf9903bf8aa58d57be1fbfea630cded1bd24a18d0149be",
+        "new_path": true
+      },
+      {
+        "path": "series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md",
+        "bytes": 438425,
+        "sha256": "c85221d974db13a76c5882fb9f9f549025f33c0ec6550a640d5a7136f9050a92",
+        "new_path": false
+      },
+      {
+        "path": "series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md",
+        "bytes": 34207,
+        "sha256": "5e2a962724c788a110d151d684adca33a6f554958b64f480ea9c63864320ac62",
+        "new_path": false
+      }
+    ],
+    "foreign_fastforward_verification_sha256": "d42ad3dfcf7f3628c65c506a03886f93cdf399d606660e9ef8c3a42fff4b773b",
+    "all31_previously_reviewed_KonoSuba_paths_preserved": true,
+    "all108_owner_bindings_and12controls_unchanged": true,
+    "global_registry_binding_source": "7a78b2072ed6a322d3c90cf0cedf511685d3e1e8",
+    "global_registry_rows": 417,
+    "global_namespace_partitions": 40,
+    "full_current_main_audit": 40146686536,
+    "current_main_audit_verification_sha256": "0476daa154f83b82862b8ed503f80835196ae6279e391620e3c3ba6d7330b86f",
+    "current_main_audit_paths": 10074,
+    "all479_discovered_tests_pass": true,
+    "prior_audits_not_transferred_to_new_candidate": true,
+    "no_new_foreign_primary_reading_or_model_credit": true
+  },
+  "prior_current_metadata_before_cohort42_gate_close": {
+    "scope": "Cohort42semantic receiving retained:63model artifacts57source-scoped secondary entries113compact34monograph-only419nonfinal census records. Final candidate parent/currentmain c2e8af7cincludes ownerPR322nineforeignstreams after priorPR320integration/PR321curation. Exactcurrentmain10074path/full479audit40146686536verified;newauthorcandidate remains uncertified. Models/rules/firsts andall419row bodies unchanged bythis authority reconciliation. Fullprogram remains open.",
+    "canonical_status": "Chief and unresolved subordinate route receive two substantial monographs;seven bounded profiles andfifteen reported/group/dream/access routes append. Qualified Lolisa event join andcontextual Luna disguise do not silently broaden frozen models or create independent evidence. No new model,rule,input or first body.",
+    "current_actual_individual_audit_scope": "3461current unique P/3426ruby/10members/5DustEPUBs/50prepared pages;6fullparagraph projections4bounded;zeroimages,residuals,whole-edition. Separate259already received MAIN02/MASK Preturn in2members2objects;zeroextra core or global primary credit. Seven entering rows change;390others exact in each plane.22newroutesare not22newdisjoint people.",
+    "updated_utc": "2026-10-25T00:49:56.532446+00:00"
+  },
+  "cohort42_publication_resolution": {
+    "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+    "tree": "1290426538132b4fe72067fa1c5dcc31699f2fe4",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "6b642fbb3c453aa048103d72874fbc5040ea9a9470eb85126ebca3abb2aeaace",
+    "source_run": 40148739580,
+    "full_discovered_tests": 479,
+    "current_models": 63,
+    "author_publication_tranche_complete": true,
+    "protected_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 324
+  },
+  "cohort42_artifact_reference_normalization": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT42_ARTIFACT_REFERENCE_NORMALIZATION_01.json",
+    "sha256": "37c6150de70361a550763dccde335fdbd468a6a9e45984c957fc420fe4b1ccaf",
+    "review_comment": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/324#discussion_r4369184138",
+    "affected_rows": [
+      398,
+      399,
+      401,
+      402,
+      404,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      416,
+      417,
+      418
+    ],
+    "status": "EXACT_SOURCE_AUTHOR_GATE_AND_REVIEW_CLOSED",
+    "substantive_analysis_unchanged": true,
+    "prior_status_at_authorship": "REVIEWED_REFERENCE_CORRECTION_EXACT_CONTAINING_PUBLICATION_PENDING",
+    "published_source": "17e6afe779dfacca8611596939b4fbc75633534a",
+    "closure_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_PR324_REFERENCE_FIX_PUBLICATION_AND_REVIEW_CLOSE_01.json",
+    "closure_sha256": "75fc8e5ff717f909a7b2b74332bbf703c0464402079d79325e0133938858bbea"
+  },
+  "prior_current_metadata_before_cohort43": {
+    "scope": "Cohorts01–42 retain declared exact-source author publication gates. Totals63model artifacts,57source-scoped secondary model entries,113compact profiles,34monograph-only routes and419nonfinal records. These are not disjoint people. Final census,tiers,model maturity,expanded synthesis,successors,integration/release andfull program remain open.",
+    "canonical_status": "Cohort42 exact-source author gate and1515-file authority reload closed. Two substantial monographs,seven bounded profiles,fifteen reported/group/dream/access routes andqualified identity supplements retain separate scopes. Twenty-nine publication-status records change;390others and19historical plane differences remain exact. Five earlier model-route tier/disposition/priority fields stay exact. No new model,rule,input,first body orindependent performance gain.",
+    "current_actual_individual_audit_scope": "3461current unique P/3426ruby/10members/5DustEPUBs/50prepared pages;6fullparagraph projections4bounded;zeroimages,residuals,whole-edition. Separate259already received MAIN02/MASK Preturn in2members2objects;zeroextra core or global primary credit. Qualified Lolisa17/132event join andcontextual Luna disguise govern current interpretation without pooling frozen model support. Collective lake apology,chief persuasion failure,reported exit,dream frame andcalendar correction retain their warrants. Source7acb76f6passed10083-file author preflight,full479-test audit40148739580,10083remote bindings/43changed streams and1515project-body reload. Protected integration is separately owned;observed newer main is not certified bythis author gate.",
+    "updated_utc": "2026-10-25T01:13:52.697603+00:00",
+    "working_row_count_not_population_denominator": 419,
+    "current_scope_precedence": "Latestcohort42_publication_baseline_reconciliation governs current commit/owner authority;cohort42_current_receiving governs analytical scope/totals. Earlier candidate-parent/current-main phrases are dated preparation history. Qualified identity/current artifact scopes,19historical plane differences andall frozen model histories remain exact;no independent or fullprogram completion gain."
+  },
+  "cohort43_current_receiving": {
+    "status": "SEMANTIC_RECEIVING_COMPLETE_EXACT_PUBLICATION_PENDING",
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_RECEIVING_AND_PROVENANCE.json",
+    "semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
+    "candidate_models": 64,
+    "candidate_scoped_secondary_model_subjects": 58,
+    "model_subject_count_qualification": "58 source-scoped secondary model entries, not certified distinct people. Prior qualified Lolisa17/132 artifacts remain frozen; Lolierina100/231 adds no study.",
+    "bounded_profiles": 117,
+    "monograph_only_subjects": [
+      "Nos",
+      "Rionor",
+      "Feit",
+      "Chomusuke",
+      "Funifura",
+      "Dodonko",
+      "Arue",
+      "Hyoizaburoo",
+      "Chekera",
+      "Sylvia",
+      "Aloerina",
+      "Lolierina",
+      "Unnamed DUST07 Dullahan commander",
+      "Aulip",
+      "Balter",
+      "Hagen",
+      "Unnamed Dustiness wedding guard",
+      "Unnamed Elroad prosecutor",
+      "Unnamed Elroad state-casino manager",
+      "Sylphina",
+      "Charlie",
+      "Daniel",
+      "Froger",
+      "Goran",
+      "Brad",
+      "Rosary",
+      "Unnamed MASK succubus leader",
+      "Perie",
+      "King of Bridol (Dust continuation)",
+      "Lake 安楽少女 (Dust03 individual)",
+      "Diary inventor (Dust02 historical witness)",
+      "Unnamed Tranquility Girl (MAIN05 individual plant)",
+      "Criminal chief in Dust01–03",
+      "Criminal subordinate pair / local-turn route (Dust01–03)",
+      "Megumi / メグミ",
+      "Rakuresu / ラクレス",
+      "Wolfgang Crow / ヴォルフガン・クロウ",
+      "Eibram / トランザム・ルッソ・エイブラム",
+      "Pickles / トランザム・ルッソ・ピクルス",
+      "Unnamed wallet-wager veteran (YORI01 U018)"
+    ],
+    "records_not_final_people": 456,
+    "changed_current_rows": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      122,
+      231
+    ],
+    "untouched_entering_rows": 408,
+    "new_rows": [
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455
+    ],
+    "new_Tier1_records": 2,
+    "new_Tier0_records": 35,
+    "new_compact_profiles": 4,
+    "new_models": 1,
+    "new_monographs": 7,
+    "new_first_bodies": 4,
+    "new_dependent_pairs": 2,
+    "new_rules": 2
   }
 }

@@ -1258,3 +1258,17 @@ Doreck81/Gaibil82/head butler84earn3provisional models/5rules;king83earns monogr
 Row133MAIN02/05scientist earns a monograph and two-rule provisional reconstruction,with explicit contextual identity recognition and documentary/generic rivals. Rows89/90/145earn substantial monographs without forced models;92/146andfour new roles earn six compact profiles. Eight sparse/access records andtwo unfinished substantive routes remain distinct. Four originals/two dependent pairs carry retained binding ambiguities and no independent accuracy. Candidate totals63models57scoped106compact32monograph-only397nonfinal routes.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Rows395/396receive substantial monographs with mechanism/attribution rivals rather than forced models. Seven new compact profiles and15T0routes append; seven entering rows11/17/80/88/132/395/396change,390remain exact per plane. Model artifacts63/source-scoped secondary entries57unchanged;113compact34monograph-only419nonfinal routes. Qualified identity join can retain two historical model artifacts for one provisional individual without independent duplication.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Ozuma93 adds one two-rule provisional model; six other new monographs remain monograph-only. Four bounded profiles and 37 source/access records preserve individual versus group/report distinctions. Candidate totals: 64 model artifacts / 58 source-scoped secondary model entries / 117 compact profiles / 40 monograph-only routes / 456 nonfinal records. Existing63 models and every old rule/first/score remain exact. The old deputy100 joins existing231 without increasing study counts. Same-root hypothetical compatibility is separate from empirical model support.
+
+[Current evidence index](KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
