@@ -25,7 +25,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`harmony`](characters/index/harmony.md) | 6 |
 | [`idoly-pride`](characters/index/idoly-pride.md) | 22 |
 | [`kimishinu`](characters/index/kimishinu.md) | 3 |
-| [`konosuba`](characters/index/konosuba.md) | 12 |
+| [`konosuba`](characters/index/konosuba.md) | 14 |
 | [`legend-of-the-galactic-heroes`](characters/index/legend-of-the-galactic-heroes.md) | 2 |
 | [`maebashi-witches`](characters/index/maebashi-witches.md) | 7 |
 | [`mass-effect`](characters/index/mass-effect.md) | 2 |
@@ -120,6 +120,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Dabi](characters/index/my-hero-academia.md#todoroki-toya) | My Hero Academia manga | `my-hero-academia:todoroki-toya@manga` | Todoroki Toya |
 | [Decartes](characters/index/blue-archive.md#decartes) | Blue Archive game | `blue-archive:decartes@game` | — |
 | [Denia](characters/index/wuthering-waves.md#denia) | Wuthering Waves game | `wuthering-waves:denia@game` | — |
+| [Doreck](characters/index/konosuba.md#doreck) | Original light-novel continuity, bounded expanded cohort | `konosuba:doreck@original-light-novel` | ドレック |
 | [Dragon Boy](characters/index/to-be-hero-x.md#dragon-boy) | To Be Hero X animated series | `to-be-hero-x:dragon-boy@animated-series` | — |
 | [Duke](characters/index/konosuba.md#duke) | Original light-novel continuity, bounded expanded cohort | `konosuba:duke@original-light-novel` | デューク |
 | [Dust](characters/index/konosuba.md#dust) | Original light-novel continuity, bounded expanded cohort | `konosuba:dust@original-light-novel` | — |
@@ -148,6 +149,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Furina](characters/index/genshin-impact.md#furina) | Genshin Impact game | `genshin-impact:furina@game` | — |
 | [Futaba Anzu](characters/index/the-idolmaster.md#futaba-anzu) | Cinderella Girls mobile games | `the-idolmaster:futaba-anzu@cinderella-girls-mobile-games` | — |
 | [Gagari Mimi](characters/index/kimishinu.md#gagari-mimi) | KimiShinu manga through Volume 9 and side stories | `kimishinu:gagari-mimi@manga-v09-side-stories` | ガガリ・ミミ |
+| [Gaibil](characters/index/konosuba.md#gaibil) | Original light-novel continuity, bounded expanded cohort | `konosuba:gaibil@original-light-novel` | ガイビル |
 | [Garfiel Tinsel](characters/index/re-zero.md#garfiel-tinsel) | Re:Zero main light novel | `re-zero:garfiel-tinsel@light-novel` | ガーフィール・ティンゼル |
 | [Garou](characters/index/one-punch-man.md#garou) | One Punch Man manga | `one-punch-man:garou@manga` | — |
 | [Genos](characters/index/one-punch-man.md#genos) | One Punch Man manga | `one-punch-man:genos@manga` | — |
