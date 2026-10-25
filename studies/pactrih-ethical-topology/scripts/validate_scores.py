@@ -34,6 +34,11 @@ PINS = {
 SOURCE_CSV_PIN = (12658, "32d23e61134df1336af482e976e2006bb7a1321415b8b01cd13fdcf785d73f59")
 RAW_PATTERN = re.compile(r"const raw\s*=\s*(\[.*?\])\s*;\s*const data\s*=", re.S)
 SCRIPT_PATTERN = re.compile(r"<script(?:\s[^>]*)?>(.*?)</script>", re.S | re.I)
+# Inline CSS and JavaScript can also load resources; the SVG namespace URI is an identifier, not a request.
+INLINE_NETWORK_PATTERN = re.compile(
+    r"url\s*\(|@import\b|\bfetch\s*\(|\bXMLHttpRequest\b|\bWebSocket\b|\bEventSource\b"
+    r"|\bsendBeacon\b|\bimport\s*\(|\bimportScripts\b|\bnew\s+(?:Image|Worker|SharedWorker)\b"
+    r"|(?:https?:)?//(?!www\.w3\.org/2000/svg\b)[A-Za-z0-9.-]+\.[A-Za-z]{2,}", re.I)
 
 
 class ValidationError(ValueError):
@@ -80,13 +85,28 @@ def load_csv(data: bytes) -> list[dict[str, str]]:
 
 
 class ResourceCheck(HTMLParser):
+    inline: str | None = None
+
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         attrs = dict(attrs)
+        if tag in {"script", "style"}:
+            self.inline = tag
         if tag in {"script", "img", "iframe", "audio", "video", "source", "embed", "object"}:
             check(not any(key in attrs for key in ("src", "srcset", "data")),
                   f"Atlas must remain standalone: external {tag} resource")
         if tag == "link":
             check("href" not in attrs, "Atlas must remain standalone: external link resource")
+        check(INLINE_NETWORK_PATTERN.search(attrs.get("style") or "") is None,
+              f"Atlas must remain standalone: network dependency in {tag} style attribute")
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag == self.inline:
+            self.inline = None
+
+    def handle_data(self, data: str) -> None:
+        if self.inline:
+            check(INLINE_NETWORK_PATTERN.search(data) is None,
+                  f"Atlas must remain standalone: network dependency in inline {self.inline}")
 
 
 def load_atlas(data: bytes) -> tuple[list[list], str]:

@@ -123,6 +123,19 @@ class SnapshotValidationTests(unittest.TestCase):
         with self.assertRaisesRegex(validator.ValidationError, "standalone"):
             validator.load_atlas(changed)
 
+    def test_inline_network_dependencies_fail(self):
+        for marker, injection in ((b"<script>", b"<script>fetch('https://example.invalid/x');"),
+                                  (b"<script>", b"<script>new Image().src='//example.invalid/p';"),
+                                  (b"<script>", b"<script>import('./mod.js');"),
+                                  (b"<style>", b"<style>body{background:url(https://example.invalid/b.png)}"),
+                                  (b"<style>", b"<style>@import 'theme.css';"),
+                                  (b"<body", b'<body style="background:url(b.png)"')):
+            with self.subTest(injection=injection):
+                self.assertIn(marker, self.html_data)
+                changed = self.html_data.replace(marker, injection, 1)
+                with self.assertRaisesRegex(validator.ValidationError, "standalone"):
+                    validator.load_atlas(changed)
+
     def test_node_is_required_and_syntax_failure_propagates(self):
         with patch.object(validator.subprocess, "run", side_effect=FileNotFoundError):
             with self.assertRaisesRegex(validator.ValidationError, "Node.js is required"):
