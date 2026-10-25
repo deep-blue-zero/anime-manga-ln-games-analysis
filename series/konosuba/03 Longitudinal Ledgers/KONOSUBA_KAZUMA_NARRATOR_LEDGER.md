@@ -1557,3 +1557,10 @@ MAIN01U013 crossing memory24-29, guessed girl school25, guessed vehicle28 and Aq
 MAIN16C1 guild recollection separates reports/forecasts from actual card checking and preparation. Shop-regular recognition122 does not independently invalidate civic affection113. Kazuma own comparison with his first-love motorcycle memory317-319 explains his current appraisal,not the girl private life or a confirmed couple. In C2,Stella temporarily becomes the I focalizer138-249; her simile208 is not Vanir private expectation. Kazuma calls treasure taking robbery512/539,while the owner supplies dungeon convention540. The line does not establish every item prior ownership or a universal entitlement code. MAIN17room continuity does not give the offstage owner a completed retirement.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+The narrator’s opinions are not neutral capability measures. Dust’s borrowed sword actually blocks a dangerous strike316 despite the useless-sword complaint321;the king’s gift wording322 does not change the loan. Handkerchief catch101 precedes the daughter explanation103. The king’s anger110 has explicit alternative causes. Yunyun705 and Kazuma725 tentatively identify the daughter;creatorU01622 corroborates as attributed paratext. U015 is Eris fictional focalization:her initial death assumption is corrected by Kazuma’s alive Teleport47–60. Publication colophonU018 adds no fictional actor.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

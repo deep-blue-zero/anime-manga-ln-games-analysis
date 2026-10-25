@@ -2104,3 +2104,10 @@ C47 receives3160unique structural paragraphs/3010ruby in72bounded actual deliver
 C48 receives1895unique structural paragraphs/1862ruby in46actual source review pages across14known EPUBs/20members. MAIN16U010-U013 are four complete narrative paragraph/ruby members. MAIN11U018 is a distinct complete30Pauthor afterword. Adaptive exact-name retrieval verifies41known source objects but supplies positions only,no whole-corpus absence or semantic credit. Five complete related current rows are derivative receiving,not new primary paragraphs. Zero current images,residuals,whole-edition,new-global-first or independent credit follows. MAIN17U0141-113 is now known before C49; later source exposure cannot be reset to a pristine holdout.
 
 [Current evidence index](KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+C49 actual scope is2784unique structuralP/2397ruby in61complete native review pages across3known EPUBs/9text members. Five complete narrative members differ from one creator afterword and one colophon;two bounded comparisons total121P/62ruby. Eighteen further pages are complete existing-authority review,not primary pages. Main17U015 is Eris focalization,U016 creator prose,U018 publication metadata. No additional images,residuals,whole-edition,global-first or independent credit. All prior report/ruby/image exposure remains known;preparation and truncated attempts are not credited as receiving.
+
+[Current evidence index](KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort48.receiving-and-provenance.v1",
-  "status": "SCOPED_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+  "status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
   "received_utc": "2026-10-25T15:05:58.178067+00:00",
   "source_baseline": "fcc404eb8ef5eb60925ea9fd15d8c82dd354a325",
   "current_main": "f0d17c618ff5fd6749f1c9ef4dbdf717a0534b34",
@@ -412,7 +412,24 @@
     "owner_controls_unchanged": 12,
     "author_global_curation_or_grade_write": false
   },
-  "publication_pending": [
+  "publication_pending": [],
+  "private_native_caches_or_absolute_filesystem_paths_exported": false,
+  "global_percentage": null,
+  "full_program_complete": false,
+  "publication_resolution": {
+    "source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+    "tree": "585d4f490919289edfc086d085ddd346e713afea",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+    "gate_sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1",
+    "source_run": 40206751488,
+    "full_discovered_tests": 479,
+    "current_models": 71,
+    "author_publication_tranche_complete": true,
+    "protected_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 335
+  },
+  "historical_publication_pending_at_semantic_receiving": [
     "complete candidate operation review",
     "exact-index author preflight",
     "ordinary publication",
@@ -420,7 +437,5 @@
     "new actual-source full discovered-suite audit and latest trusted isolated status",
     "fresh published-authority reload"
   ],
-  "private_native_caches_or_absolute_filesystem_paths_exported": false,
-  "global_percentage": null,
-  "full_program_complete": false
+  "closing_progress_bytes_require_next_containing_publication": true
 }

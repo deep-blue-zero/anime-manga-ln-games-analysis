@@ -9,13 +9,13 @@
     {
       "character": "Pool intruder reported by the MASK water-treatment client",
       "identity": "Pool intruder reported by the MASK water-treatment client; REPORTED_UNNAMED_ROLE_FILLER. Typed context/comparison/member/possible-role/possible-identity edges are not interchangeable. No automatic individual count from a group,report or repeated role. This occurrence does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access route; exact containing publication pending",
-      "priority": "C48 source-bound interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "0 scoped limited source/access route; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C48 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MASKU01545-46",
       "source_access_type": "REPORTED_UNNAMED_ROLE_FILLER",
       "substantive_responsibility": "Client quotes someone announcing help with purification before jumping in; Vanir calls the presence evil.",
       "gaps": "No Aqua name or actual pool scene here. Aqua is a possible role-filler context, not a new proved identification; Vanir's label remains his reply.",
-      "disposition_status": "SCOPED_TIER0_COHORT48_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT48_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "cohort48_route_id": "C48-I27",
       "cohort48_source_access": {
@@ -62,18 +62,31 @@
       "cohort48_unique_person_denominator": false,
       "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
       "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
-      "cohort48_current_receiving": "Received access-qualified occurrence. Identity,member overlap,role filler,comparison and context stay typed; no proposed or known-context edge proves an identity join. Exact publication pending."
+      "cohort48_current_receiving": "Exact-source author publication gate closed at 8c09e83d after its own full 479-test audit, remote bytes and fresh authority reload; scoped/nonfinal. The full program and protected integration remain separately governed.",
+      "cohort48_publication_resolution": {
+        "source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+        "tree": "585d4f490919289edfc086d085ddd346e713afea",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1",
+        "source_run": 40206751488,
+        "full_discovered_tests": 479,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "MASK household retainer consultation client",
       "identity": "MASK household retainer consultation client; DIRECT_CLIENT_WITH_REPORTED_HOUSEHOLD_PROBLEM. Typed context/comparison/member/possible-role/possible-identity edges are not interchangeable. No automatic individual count from a group,report or repeated role. This occurrence does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access route; exact containing publication pending",
-      "priority": "C48 source-bound interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "0 scoped limited source/access route; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C48 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MASKU01547-48",
       "source_access_type": "DIRECT_CLIENT_WITH_REPORTED_HOUSEHOLD_PROBLEM",
       "substantive_responsibility": "Reports concern about the household young woman after she joined a man's party.",
       "gaps": "No personal name,gender,explicit butler title,Heidel join or named household. Familiar reader inferences are not direct identification.",
-      "disposition_status": "SCOPED_TIER0_COHORT48_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT48_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "cohort48_route_id": "C48-I28",
       "cohort48_source_access": {
@@ -113,18 +126,31 @@
       "cohort48_unique_person_denominator": false,
       "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
       "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
-      "cohort48_current_receiving": "Received access-qualified occurrence. Identity,member overlap,role filler,comparison and context stay typed; no proposed or known-context edge proves an identity join. Exact publication pending."
+      "cohort48_current_receiving": "Exact-source author publication gate closed at 8c09e83d after its own full 479-test audit, remote bytes and fresh authority reload; scoped/nonfinal. The full program and protected integration remain separately governed.",
+      "cohort48_publication_resolution": {
+        "source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+        "tree": "585d4f490919289edfc086d085ddd346e713afea",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1",
+        "source_run": 40206751488,
+        "full_discovered_tests": 479,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "Young household woman in the MASK retainer's complaint",
       "identity": "Young household woman in the MASK retainer's complaint; REPORTED_UNNAMED_ROLE_FILLER. Typed context/comparison/member/possible-role/possible-identity edges are not interchangeable. No automatic individual count from a group,report or repeated role. This occurrence does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access route; exact containing publication pending",
-      "priority": "C48 source-bound interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "0 scoped limited source/access route; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C48 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MASKU01547-48",
       "source_access_type": "REPORTED_UNNAMED_ROLE_FILLER",
       "substantive_responsibility": "A young woman is the referent of the reported party-related change.",
       "gaps": "No name,age,own decision or private view. Darkness is possible context only, not an asserted identification or new independent personality observation.",
-      "disposition_status": "SCOPED_TIER0_COHORT48_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT48_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "cohort48_route_id": "C48-I29",
       "cohort48_source_access": {
@@ -171,18 +197,31 @@
       "cohort48_unique_person_denominator": false,
       "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
       "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
-      "cohort48_current_receiving": "Received access-qualified occurrence. Identity,member overlap,role filler,comparison and context stay typed; no proposed or known-context edge proves an identity join. Exact publication pending."
+      "cohort48_current_receiving": "Exact-source author publication gate closed at 8c09e83d after its own full 479-test audit, remote bytes and fresh authority reload; scoped/nonfinal. The full program and protected integration remain separately governed.",
+      "cohort48_publication_resolution": {
+        "source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+        "tree": "585d4f490919289edfc086d085ddd346e713afea",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1",
+        "source_run": 40206751488,
+        "full_discovered_tests": 479,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "Fellow household retainers reported by the MASK client",
       "identity": "Fellow household retainers reported by the MASK client; REPORTED_GROUP_WITH_CLIENT_OVERLAP. Typed context/comparison/member/possible-role/possible-identity edges are not interchangeable. No automatic individual count from a group,report or repeated role. This occurrence does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access route; exact containing publication pending",
-      "priority": "C48 source-bound interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "0 scoped limited source/access route; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C48 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MASKU01547",
       "source_access_type": "REPORTED_GROUP_WITH_CLIENT_OVERLAP",
       "substantive_responsibility": "Client says the retainers are collectively worried.",
       "gaps": "No roster or exact count; the speaker may be included. Do not turn one complaint into independent testimony by every employee.",
-      "disposition_status": "SCOPED_TIER0_COHORT48_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT48_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "cohort48_route_id": "C48-I30",
       "cohort48_source_access": {
@@ -227,18 +266,31 @@
       "cohort48_unique_person_denominator": false,
       "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
       "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
-      "cohort48_current_receiving": "Received access-qualified occurrence. Identity,member overlap,role filler,comparison and context stay typed; no proposed or known-context edge proves an identity join. Exact publication pending."
+      "cohort48_current_receiving": "Exact-source author publication gate closed at 8c09e83d after its own full 479-test audit, remote bytes and fresh authority reload; scoped/nonfinal. The full program and protected integration remain separately governed.",
+      "cohort48_publication_resolution": {
+        "source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+        "tree": "585d4f490919289edfc086d085ddd346e713afea",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1",
+        "source_run": 40206751488,
+        "full_discovered_tests": 479,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "MASK receptionist consultation client",
       "identity": "MASK receptionist consultation client; DIRECT_CLIENT_WITH_UNRESOLVED_ROLE_FILLER. Typed context/comparison/member/possible-role/possible-identity edges are not interchangeable. No automatic individual count from a group,report or repeated role. This occurrence does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access route; exact containing publication pending",
-      "priority": "C48 source-bound interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "0 scoped limited source/access route; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C48 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MASKU01549-50",
       "source_access_type": "DIRECT_CLIENT_WITH_UNRESOLVED_ROLE_FILLER",
       "substantive_responsibility": "Complains about adventurer problems and demands for easier profitable work; Vanir recognizes reception work in his reply.",
       "gaps": "Luna11 is a possible role filler, not a named identification. No automatic gender,workplace identity,universal officer join or completed solution.",
-      "disposition_status": "SCOPED_TIER0_COHORT48_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT48_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "cohort48_route_id": "C48-I31",
       "cohort48_source_access": {
@@ -280,18 +332,31 @@
       "cohort48_unique_person_denominator": false,
       "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
       "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
-      "cohort48_current_receiving": "Received access-qualified occurrence. Identity,member overlap,role filler,comparison and context stay typed; no proposed or known-context edge proves an identity join. Exact publication pending."
+      "cohort48_current_receiving": "Exact-source author publication gate closed at 8c09e83d after its own full 479-test audit, remote bytes and fresh authority reload; scoped/nonfinal. The full program and protected integration remain separately governed.",
+      "cohort48_publication_resolution": {
+        "source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+        "tree": "585d4f490919289edfc086d085ddd346e713afea",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1",
+        "source_run": 40206751488,
+        "full_discovered_tests": 479,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "Adventurers in the MASK reception complaint",
       "identity": "Adventurers in the MASK reception complaint; REPORTED_PROBLEM_GROUP. Typed context/comparison/member/possible-role/possible-identity edges are not interchangeable. No automatic individual count from a group,report or repeated role. This occurrence does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access route; exact containing publication pending",
-      "priority": "C48 source-bound interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "0 scoped limited source/access route; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C48 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MASKU01549",
       "source_access_type": "REPORTED_PROBLEM_GROUP",
       "substantive_responsibility": "The client reports recurrent problems and demands from adventurers.",
       "gaps": "No exact people,count,independent observation of every incident or identity with MAIN16standing regulars.",
-      "disposition_status": "SCOPED_TIER0_COHORT48_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT48_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "cohort48_route_id": "C48-I32",
       "cohort48_source_access": {
@@ -336,18 +401,31 @@
       "cohort48_unique_person_denominator": false,
       "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
       "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
-      "cohort48_current_receiving": "Received access-qualified occurrence. Identity,member overlap,role filler,comparison and context stay typed; no proposed or known-context edge proves an identity join. Exact publication pending."
+      "cohort48_current_receiving": "Exact-source author publication gate closed at 8c09e83d after its own full 479-test audit, remote bytes and fresh authority reload; scoped/nonfinal. The full program and protected integration remain separately governed.",
+      "cohort48_publication_resolution": {
+        "source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+        "tree": "585d4f490919289edfc086d085ddd346e713afea",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1",
+        "source_run": 40206751488,
+        "full_discovered_tests": 479,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "Tavern proprietor in Cecily's ban account",
       "identity": "Tavern proprietor in Cecily's ban account; REPORTED_PAST_SERVICE_SPEAKER. Typed context/comparison/member/possible-role/possible-identity edges are not interchangeable. No automatic individual count from a group,report or repeated role. This occurrence does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access route; exact containing publication pending",
-      "priority": "C48 source-bound interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "0 scoped limited source/access route; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C48 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MAIN16U01316-24",
       "source_access_type": "REPORTED_PAST_SERVICE_SPEAKER",
       "substantive_responsibility": "Cecily reports that payment was waived and she was told not to return. Aqua interprets the proprietor as tsundere and recommends returning.",
       "gaps": "No direct proprietor appearance,amount,romantic motive or actual repeat visit. Aqua's interpretation is not proved permission.",
-      "disposition_status": "SCOPED_TIER0_COHORT48_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT48_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "cohort48_route_id": "C48-I33",
       "cohort48_source_access": {
@@ -389,18 +467,31 @@
       "cohort48_unique_person_denominator": false,
       "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
       "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
-      "cohort48_current_receiving": "Received access-qualified occurrence. Identity,member overlap,role filler,comparison and context stay typed; no proposed or known-context edge proves an identity join. Exact publication pending."
+      "cohort48_current_receiving": "Exact-source author publication gate closed at 8c09e83d after its own full 479-test audit, remote bytes and fresh authority reload; scoped/nonfinal. The full program and protected integration remain separately governed.",
+      "cohort48_publication_resolution": {
+        "source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+        "tree": "585d4f490919289edfc086d085ddd346e713afea",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1",
+        "source_run": 40206751488,
+        "full_discovered_tests": 479,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "Professional coach drivers in Cecily's suggestion",
       "identity": "Professional coach drivers in Cecily's suggestion; PROPOSED_ROLE_CONTACT. Typed context/comparison/member/possible-role/possible-identity edges are not interchangeable. No automatic individual count from a group,report or repeated role. This occurrence does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access route; exact containing publication pending",
-      "priority": "C48 source-bound interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "0 scoped limited source/access route; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C48 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MAIN16U01337-47",
       "source_access_type": "PROPOSED_ROLE_CONTACT",
       "substantive_responsibility": "Cecily proposes asking professional drivers to head toward the Demon King's castle.",
       "gaps": "No particular driver speaks; no performed request,boarding,route agreement or successful arrival. Occupation reference is not a new certified individual.",
-      "disposition_status": "SCOPED_TIER0_COHORT48_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT48_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "cohort48_route_id": "C48-I34",
       "cohort48_source_access": {
@@ -442,18 +533,31 @@
       "cohort48_unique_person_denominator": false,
       "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
       "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
-      "cohort48_current_receiving": "Received access-qualified occurrence. Identity,member overlap,role filler,comparison and context stay typed; no proposed or known-context edge proves an identity join. Exact publication pending."
+      "cohort48_current_receiving": "Exact-source author publication gate closed at 8c09e83d after its own full 479-test audit, remote bytes and fresh authority reload; scoped/nonfinal. The full program and protected integration remain separately governed.",
+      "cohort48_publication_resolution": {
+        "source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+        "tree": "585d4f490919289edfc086d085ddd346e713afea",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1",
+        "source_run": 40206751488,
+        "full_discovered_tests": 479,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "Experimenter and buyer in Amaryllis's invented biography",
       "identity": "Experimenter and buyer in Amaryllis's invented biography; EXPLICITLY_DISAVOWED_FABRICATED_ROLE. Typed context/comparison/member/possible-role/possible-identity edges are not interchangeable. No automatic individual count from a group,report or repeated role. This occurrence does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access route; exact containing publication pending",
-      "priority": "C48 source-bound interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "0 scoped limited source/access route; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C48 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MAIN16U012283/286/328",
       "source_access_type": "EXPLICITLY_DISAVOWED_FABRICATED_ROLE",
       "substantive_responsibility": "A purported magician/buyer is part of the story she later calls a complete lie.",
       "gaps": "Do not instantiate an actual experimenter,purchase,abandonment,medical transformation or cure. Same claimed man is not split into two real offenders.",
-      "disposition_status": "SCOPED_TIER0_COHORT48_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT48_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "cohort48_route_id": "C48-I35",
       "cohort48_source_access": {
@@ -495,18 +599,31 @@
       "cohort48_unique_person_denominator": false,
       "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
       "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
-      "cohort48_current_receiving": "Received access-qualified occurrence. Identity,member overlap,role filler,comparison and context stay typed; no proposed or known-context edge proves an identity join. Exact publication pending."
+      "cohort48_current_receiving": "Exact-source author publication gate closed at 8c09e83d after its own full 479-test audit, remote bytes and fresh authority reload; scoped/nonfinal. The full program and protected integration remain separately governed.",
+      "cohort48_publication_resolution": {
+        "source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+        "tree": "585d4f490919289edfc086d085ddd346e713afea",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1",
+        "source_run": 40206751488,
+        "full_discovered_tests": 479,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "Parents in Amaryllis's invented biography",
       "identity": "Parents in Amaryllis's invented biography; EXPLICITLY_DISAVOWED_FABRICATED_GROUP. Typed context/comparison/member/possible-role/possible-identity edges are not interchangeable. No automatic individual count from a group,report or repeated role. This occurrence does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access route; exact containing publication pending",
-      "priority": "C48 source-bound interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "0 scoped limited source/access route; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C48 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MAIN16U012286/328",
       "source_access_type": "EXPLICITLY_DISAVOWED_FABRICATED_GROUP",
       "substantive_responsibility": "Claimed dead parents belong to the disavowed story.",
       "gaps": "No actual deaths,names,family history or extra canonical population follows from the lie.",
-      "disposition_status": "SCOPED_TIER0_COHORT48_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT48_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "cohort48_route_id": "C48-I36",
       "cohort48_source_access": {
@@ -548,18 +665,31 @@
       "cohort48_unique_person_denominator": false,
       "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
       "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
-      "cohort48_current_receiving": "Received access-qualified occurrence. Identity,member overlap,role filler,comparison and context stay typed; no proposed or known-context edge proves an identity join. Exact publication pending."
+      "cohort48_current_receiving": "Exact-source author publication gate closed at 8c09e83d after its own full 479-test audit, remote bytes and fresh authority reload; scoped/nonfinal. The full program and protected integration remain separately governed.",
+      "cohort48_publication_resolution": {
+        "source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+        "tree": "585d4f490919289edfc086d085ddd346e713afea",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1",
+        "source_run": 40206751488,
+        "full_discovered_tests": 479,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "Hostage heroine trope in Kazuma's explanation",
       "identity": "Hostage heroine trope in Kazuma's explanation; UNINSTANTIATED_GENRE_REFERENCE. Typed context/comparison/member/possible-role/possible-identity edges are not interchangeable. No automatic individual count from a group,report or repeated role. This occurrence does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access route; exact containing publication pending",
-      "priority": "C48 source-bound interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "0 scoped limited source/access route; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C48 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MAIN16U010237",
       "source_access_type": "UNINSTANTIATED_GENRE_REFERENCE",
       "substantive_responsibility": "Kazuma invokes a fictional heroine trope to explain his reluctance to be a burden.",
       "gaps": "No real new hostage,abduction or rescue is performed. His genre opinion does not establish another girl's conduct.",
-      "disposition_status": "SCOPED_TIER0_COHORT48_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT48_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "cohort48_route_id": "C48-I37",
       "cohort48_source_access": {
@@ -599,18 +729,31 @@
       "cohort48_unique_person_denominator": false,
       "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
       "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
-      "cohort48_current_receiving": "Received access-qualified occurrence. Identity,member overlap,role filler,comparison and context stay typed; no proposed or known-context edge proves an identity join. Exact publication pending."
+      "cohort48_current_receiving": "Exact-source author publication gate closed at 8c09e83d after its own full 479-test audit, remote bytes and fresh authority reload; scoped/nonfinal. The full program and protected integration remain separately governed.",
+      "cohort48_publication_resolution": {
+        "source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+        "tree": "585d4f490919289edfc086d085ddd346e713afea",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1",
+        "source_run": 40206751488,
+        "full_discovered_tests": 479,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "Hypothetical goblin opponent in Kazuma's risk claim",
       "identity": "Hypothetical goblin opponent in Kazuma's risk claim; UNINSTANTIATED_OPPONENT. Typed context/comparison/member/possible-role/possible-identity edges are not interchangeable. No automatic individual count from a group,report or repeated role. This occurrence does not certify global distinctness.",
-      "likely_tier": "0 scoped limited source/access route; exact containing publication pending",
-      "priority": "C48 source-bound interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "0 scoped limited source/access route; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C48 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MAIN16U010232",
       "source_access_type": "UNINSTANTIATED_OPPONENT",
       "substantive_responsibility": "Kazuma predicts danger even in a one-on-one goblin fight at his current level.",
       "gaps": "No specific goblin appears or kills him; this is not the first-floor group or an independent combat test.",
-      "disposition_status": "SCOPED_TIER0_COHORT48_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT48_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "cohort48_route_id": "C48-I38",
       "cohort48_source_access": {
@@ -650,7 +793,20 @@
       "cohort48_unique_person_denominator": false,
       "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
       "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
-      "cohort48_current_receiving": "Received access-qualified occurrence. Identity,member overlap,role filler,comparison and context stay typed; no proposed or known-context edge proves an identity join. Exact publication pending."
+      "cohort48_current_receiving": "Exact-source author publication gate closed at 8c09e83d after its own full 479-test audit, remote bytes and fresh authority reload; scoped/nonfinal. The full program and protected integration remain separately governed.",
+      "cohort48_publication_resolution": {
+        "source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+        "tree": "585d4f490919289edfc086d085ddd346e713afea",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1",
+        "source_run": 40206751488,
+        "full_discovered_tests": 479,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     }
   ]
 }

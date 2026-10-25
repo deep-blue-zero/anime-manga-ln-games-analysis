@@ -1,14 +1,14 @@
 ---
 series: KONOSUBA
 artifact_type: secondary_character_coverage_audit
-scope: INCREMENTAL_CENSUS_AND_SCOPED_COHORTS_01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42_43_44_45_46_47_48
+scope: INCREMENTAL_CENSUS_AND_SCOPED_COHORTS_01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42_43_44_45_46_47_48_49
 status: active_provisional
 do_not_use_as_current_authority: false
 ---
 
 # Secondary-character coverage audit
 
-This maintained register retains 732 nonfinal source/access records. C48 scoped semantic receiving is complete with exact publication pending: three substantial monographs, one restricted provisional Amaryllis model/two rules, three focus and six supporting bounded profiles, one report-only pet reference and 38 new occurrence routes. Candidate 71 model artifacts / 65 source-scoped secondary entries / 193 profile passages / 60 monograph-only studies do not establish distinct people or independent performance. Seven focus rows change; the other 687 entering rows and 19 historical plane differences remain exact. All 70 entering models and prior originals/scores/adverse findings/blanks/nulls remain preserved. See the [C48 index](KONOSUBA_COHORT48_EVIDENCE_INDEX.md), [qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json) and [receiving](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT48_RECEIVING_AND_PROVENANCE.json). Earlier wording remains dated history; the full program continues.
+This maintained register retains 732 nonfinal source/access records. C49 scoped semantic receiving is complete with exact publication pending: four substantial Tier2 monographs and two bounded Tier1 profiles, without new models, rules, inputs or diagnostic firsts. Candidate71 model artifacts/65 scoped secondary model entries/195 profile passages/64 monograph-only studies do not establish distinct people or independent performance. Six focus rows change;726 others and19 historical plane differences remain exact. All71 entering models and old frozen performance histories are preserved. See the [C49 index](KONOSUBA_COHORT49_EVIDENCE_INDEX.md), [individual audit](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT49_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json), [qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT49_SOURCE_PRECISION_QUALIFICATIONS_01.json) and [receiving](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT49_RECEIVING_AND_PROVENANCE.json). Earlier wording remains dated history;the full program continues.
 
 Iris earns scoped Tier3 treatment: direct ordinary activity, competence, duty, refusal, political choice, coercive tactics, different relationships and her own private focalization support distinct falsifiable mechanisms. The [monograph](../05%20Specialist%20Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md), [model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md) and [evidence index](KONOSUBA_IRIS_EVIDENCE_INDEX.md) carry those different responsibilities. Tier3 describes an earned reconstruction candidate, not demonstrated future accuracy or a mature universal simulator. Seven new informed rules and22actually generated synthetic outputs preserve weak, adverse and underdetermined branches.
 
@@ -2014,3 +2014,22 @@ Sourcefcc404eb/tree7c580007 passed its own full479audit40196405542,all61remote c
 | 156 | Stesky / ステスキー, MAIN16 reported pet | 0 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#stesky-a-named-report-with-unresolved-recurrence) |
 
 The [six supporting encounter profiles](../05%20Specialist%20Synthesis/KONOSUBA_COHORT48_SUPPORTING_ENCOUNTER_PROFILES.md) have separate [twelve-dimension audits](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT48_SUPPORTING_DIMENSION_AUDIT_01.json). All [38 typed occurrence routes](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT48_TYPED_SUPPORTING_ROUTES_01.json) preserve individual/group/role/report/memory/fabrication distinctions. Stella and the vampire receive monographs without forced models; only Amaryllis has AMR-R01/02. Stesky reports and the slain hell-neroid remain unjoined. The body count does not increase when the dragon is reanimated. Source-qualified treatment follows evidence, without name/species/frequency quotas. Exact publication and the full remaining program continue.
+
+
+## C48 exact-source author publication gate closed — 2026-10-25T15:34:12.683921+00:00
+
+Source 8c09e83d passed its own full 479-test audit 40206751488, all 60 remote changed streams, the 1,718-file/71-model authority reload and fresh 14-EPUB/20-member correspondence. All 194 preservation checks passed. Forty-five status routes close without changing substantive source interpretations; 687 other rows and 19 historical differences remain exact. Protected integration and full-program completion remain separate. These closing bytes await the next coherent publication.
+
+
+## Cohort49 — final castle defenders and an unfinished explanation
+
+| Current row | Subject | Scoped tier | Analytical home |
+|---|---|---|---|
+| 135 | Pain / ペイン | 2 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_PAIN_CHARACTER_MONOGRAPH.md) |
+| 136 | Logia / ロギア | 1 | [Individual interpretation](../03%20Longitudinal%20Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md#cohort49-logia-bounded-profile) |
+| 138 | Mammon / マモン | 2 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_MAMMON_CHARACTER_MONOGRAPH.md) |
+| 139 | Unnamed masked gatekeeper | 2 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_MASKED_GATEKEEPER_CHARACTER_MONOGRAPH.md) |
+| 140 | Demon King / self-introduced Yasaka Kyōichi | 2 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_DEMON_KING_CHARACTER_MONOGRAPH.md) |
+| 141 | Demon King’s unnamed daughter | 1 | [Individual interpretation](../03%20Longitudinal%20Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md#cohort49-demon-kings-daughter-bounded-profile) |
+
+The king supplies his name;its origin and the war motive remain withheld. Mammon’s history is a qualified high-confidence join,while the daughter’s own voice and exact fate remain unavailable. Existing Nos,Duke,companion and barrier-crew routes are preserved. Four monographs earn descriptive depth without forced generators;two compact profiles preserve limited agency. No new access record or final unique-person denominator is introduced. All six decisions and their contrary evidence have separate twelve-dimension audits. Exact publication and the remaining full program continue.

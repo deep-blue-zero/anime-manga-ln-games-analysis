@@ -1652,3 +1652,10 @@ Keele's recollection supplies the accepted proposal and remembered smiles MAIN02
 Stella own focalization does not reveal the other three private states. Companion shopping turns remain untagged; Gil thanks is explicit241. Mitsurugi two women210-218 have possible member overlap with127/128,without a Fio/Clemea-to-role or turn mapping. MASKreception client has only a possible role-filler edge toLuna11. The civic-affection speaker may be identical to a preceding level32/38speaker; that person-to-person possibility differs from membership in the standing group. Stesky reports and slain hell-neroid retain possible identity,without an Amaryllis-client join or forced two-pet count. Vampire126 is not explicitly joined toWolfgang97; female-succubus113 is a different owner route. Three dragon zombies may include the earlier animated body; group routes do not add independent people.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Pain’s own warning,Logia’s order and Nos’s offered cover remain separate coalition acts. Kazuma’s false Pain insults are not genuine contempt. Mammon’s apology and restraint coexist with hostage threats and punitive violence. The king’s treasured handkerchief is a father-attributed craft gift,caught before its history; no full reciprocal daughter psychology or moral acquittal. Nos stays one already joined subject; Fio/Clemea remain a role-unmapped nameset and the barrier crew remains route692. No duplicate person or normalized historical row plane.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

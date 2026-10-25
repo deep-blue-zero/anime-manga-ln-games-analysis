@@ -1662,3 +1662,10 @@ The Beginner Killer sniffs/passes the concealed party MAIN02U014517/522 and late
 Gil interrupted magic instruction186-189 is not a Stella cast. Ogre status32 is Kazuma inference; actual last-ogre restraint and killing41 remain. Dragon breath preparation88 is Vanir warning; Wiz feared bite89 is hypothetical,whereas Vanir arm loss93 and lightning kill98 are actual. Same-corpse necromancy117-122 changes state without adding another individual. Kazuma shallow minotaur slash445 does not win the encounter. Vampire class-limit answer528 fits armor failure524 but his market generalization532 is not exhaustive expertise. Human murder-ray fatality406-408 remains hypothetical. No universal species hierarchy,unlimited body repair or independent capability grade follows.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Pain’s alternate perception survives Flash424,but Aqua contact and magic weapons qualify immunity. The gatekeeper regenerates and recognizes range disadvantage142;claimed infinite mana does not establish infinite throughput or survival. The king takes an ordinary leg wound157,conserves resources and actually fields a buffed smaller golem263;no automatic on-sight spell learning. Retainers cast the opening lightningU013122–124;nine retainers plus king make ten. Seal effects,local ally enhancement and global monster weakening are separate. Mammon’s initial skill-versus-poison collapse371 and exact fatal transition stay unresolved.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

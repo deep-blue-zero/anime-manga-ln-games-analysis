@@ -1532,3 +1532,10 @@ Keele's sparse room, arranged remains and reported property do not establish a f
 Tea is actually drunk in the vampire room496/503. Tomato farming498/502 is proposed,not performed; the personally worn ring is offered537-538,declined539,and only then described as precious since life540. Its donor and history remain unknown. Stella remembers patient mapping149 and lost food/barrier means170-174; party supplies are actually bought227,without an itemized fivefold bill or witnessed safe return. Vanir clothes-giver story73 remains a reported gift/bereavement,not verified romance. Summoned devils complain about work/domain duties456-458; those offstage routines are testimony. Amaryllis fear preference328 and pet-search account325 are attributed,not quantitative diet or witnessed care.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Pain’s conditional drain-talk affinity493 is not a performed social routine. Mammon’s ordered last tea is coercive hospitality,not an independently shown taste;his bonus246 is promised,not paid. The king cherishes a handkerchief reportedly made by his daughter103 and recounts managerial trouble277–279,but no domestic scene or full financial ethic is supplied. The daughter’s reported craft and military reputation do not reveal her own everyday goals. Missing ordinary-life evidence limits all six;no fabricated leisure,household,age or family history fills it.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
