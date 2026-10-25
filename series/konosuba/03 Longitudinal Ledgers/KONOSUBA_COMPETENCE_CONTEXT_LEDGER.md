@@ -1655,3 +1655,10 @@ Angie actual Sharpness/mineral techniqueU018471-484 and kobold kills510 coexist 
 The Beginner Killer sniffs/passes the concealed party MAIN02U014517/522 and later targets Taylor668 before eye obstruction681 and escape686. Species hunting explanations530/534-535 do not prove deliberate goblin herding in this instance; no kill is shown. Castle guards contribute real restraint MAIN11U012581/584/599 while some earlier blockers are disabled; four initial action roles and a larger later contingent cannot be summed as unique people. Barrier users assist the gatekeeper MAIN17U011117/132 and repair149, but the barrier fails155; his own infinite-mana claim142 is not every crew member's resource or proof of invulnerability.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+Gil interrupted magic instruction186-189 is not a Stella cast. Ogre status32 is Kazuma inference; actual last-ogre restraint and killing41 remain. Dragon breath preparation88 is Vanir warning; Wiz feared bite89 is hypothetical,whereas Vanir arm loss93 and lightning kill98 are actual. Same-corpse necromancy117-122 changes state without adding another individual. Kazuma shallow minotaur slash445 does not win the encounter. Vampire class-limit answer528 fits armor failure524 but his market generalization532 is not exhaustive expertise. Human murder-ray fatality406-408 remains hypothetical. No universal species hierarchy,unlimited body repair or independent capability grade follows.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -2097,3 +2097,10 @@ C46 current native union is3986P/1559ruby across seven known source objects and 
 C47 receives3160unique structural paragraphs/3010ruby in72bounded actual deliveries across24already-known EPUBs and43unique members, six complete at paragraph/ruby narrative scope. The base50pages supply2215P/2125ruby and adaptive22pages add945P/885ruby. Complete MAIN01U013, MAIN02U014/U015, MAIN06U011/U020 and MAIN11U012 are narrative members; MAIN06U020's original preparation label is explicitly corrected to fictional interlude. All41edition exact-name locator retrievals are technical inquiries, not whole-corpus absence proof. MAIN17U0111-180 is now known for the later cohort; no new holdout is invented. Zero current image, residual, whole-edition, new global-source-first or independent credit follows.
 
 [Current evidence index](KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+C48 receives1895unique structural paragraphs/1862ruby in46actual source review pages across14known EPUBs/20members. MAIN16U010-U013 are four complete narrative paragraph/ruby members. MAIN11U018 is a distinct complete30Pauthor afterword. Adaptive exact-name retrieval verifies41known source objects but supplies positions only,no whole-corpus absence or semantic credit. Five complete related current rows are derivative receiving,not new primary paragraphs. Zero current images,residuals,whole-edition,new-global-first or independent credit follows. MAIN17U0141-113 is now known before C49; later source exposure cannot be reset to a pristine holdout.
+
+[Current evidence index](KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

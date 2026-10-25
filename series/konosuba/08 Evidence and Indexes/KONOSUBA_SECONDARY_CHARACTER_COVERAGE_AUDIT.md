@@ -1,14 +1,14 @@
 ---
 series: KONOSUBA
 artifact_type: secondary_character_coverage_audit
-scope: INCREMENTAL_CENSUS_AND_SCOPED_COHORTS_01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42_43_44_45_46_47
+scope: INCREMENTAL_CENSUS_AND_SCOPED_COHORTS_01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42_43_44_45_46_47_48
 status: active_provisional
 do_not_use_as_current_authority: false
 ---
 
 # Secondary-character coverage audit
 
-This maintained register retains694nonfinal source/access records. C47 scoped semantic receiving is complete; exact publication pending: three substantial monographs, one restricted provisional Heidel model/two rules, three focus and four supporting bounded profiles,54new routes. Candidate70model artifacts/64source-scoped secondary entries/184retained profiles/58monograph-only studies do not establish distinct people or independent performance. Six focus rows change,202/570receive supplements preserving seven prior analytical fields,632others and19plane differences stay exact. All69entering models and earlier firsts/scores/adverse/blanks/nulls remain exact. See the [C47 index](KONOSUBA_COHORT47_EVIDENCE_INDEX.md), [qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT47_SOURCE_PRECISION_QUALIFICATIONS_01.json) and [receiving](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT47_RECEIVING_AND_PROVENANCE.json). Earlier wording remains dated history; the full program continues.
+This maintained register retains 732 nonfinal source/access records. C48 scoped semantic receiving is complete with exact publication pending: three substantial monographs, one restricted provisional Amaryllis model/two rules, three focus and six supporting bounded profiles, one report-only pet reference and 38 new occurrence routes. Candidate 71 model artifacts / 65 source-scoped secondary entries / 193 profile passages / 60 monograph-only studies do not establish distinct people or independent performance. Seven focus rows change; the other 687 entering rows and 19 historical plane differences remain exact. All 70 entering models and prior originals/scores/adverse findings/blanks/nulls remain preserved. See the [C48 index](KONOSUBA_COHORT48_EVIDENCE_INDEX.md), [qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json) and [receiving](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT48_RECEIVING_AND_PROVENANCE.json). Earlier wording remains dated history; the full program continues.
 
 Iris earns scoped Tier3 treatment: direct ordinary activity, competence, duty, refusal, political choice, coercive tactics, different relationships and her own private focalization support distinct falsifiable mechanisms. The [monograph](../05%20Specialist%20Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md), [model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md) and [evidence index](KONOSUBA_IRIS_EVIDENCE_INDEX.md) carry those different responsibilities. Tier3 describes an earned reconstruction candidate, not demonstrated future accuracy or a mature universal simulator. Seven new informed rules and22actually generated synthetic outputs preserve weak, adverse and underdetermined branches.
 
@@ -1994,3 +1994,23 @@ Seventeen bounded profile passages have one [supporting-supplement home](../05%2
 | 150 | Heidel / ハイデル | 3 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_HEIDEL_CHARACTER_MONOGRAPH.md) |
 
 The [four supporting profiles](../05%20Specialist%20Synthesis/KONOSUBA_COHORT47_ENCOUNTER_CREATURE_AND_GROUP_PROFILES.md) have individual [twelve-dimension audits](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT47_SUPPORTING_DIMENSION_AUDIT_01.json). All54new source/access routes and2existing supplements retain [typed relations and access limits](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT47_TYPED_SUPPORTING_ROUTES_01.json). Groups,reports,unperformed referents and possible overlaps do not become a unique-person denominator. Keele and the angel have monographs without generators; no quota or permanent anonymity/species ceiling is used. Exact publication is pending; full-program work continues.
+
+
+## C47 exact-source author publication gate closed — 2026-10-25T13:21:09.215309+00:00
+
+Sourcefcc404eb/tree7c580007 passed its own full479audit40196405542,all61remote changed streams,1681-body/70-model authority reload and24local EPUB/43member correspondence. All176preservation entries passed. Sixty status routes and two supplements close without changing substantive source interpretations;632others and19plane differences remain exact. The two supplements preserve their seven prior analytical fields. Protected integration and full-program completion remain separate; these closing progress bytes await the next coherent publication.
+
+
+## Cohort48 — MAIN16 dungeon cast and supporting source occurrences
+
+| Current row | Subject | Scoped tier | Analytical home |
+|---|---|---|---|
+| 126 | Unnamed MAIN16 dungeon vampire owner | 2 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_DUNGEON_VAMPIRE_OWNER_CHARACTER_MONOGRAPH.md) |
+| 151 | Stella / ステラ | 2 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_STELLA_CHARACTER_MONOGRAPH.md) |
+| 152 | Gil / ギル | 1 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#gil-plans-under-interrupted-threat) |
+| 153 | Gain / ゲイン | 1 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#gain-an-injury-behind-the-spilled-treasure) |
+| 154 | Stella unnamed younger sister | 1 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#stellas-younger-sister-fear-within-a-working-party) |
+| 155 | Amaryllis / アマリリス | 3 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_AMARYLLIS_CHARACTER_MONOGRAPH.md) |
+| 156 | Stesky / ステスキー, MAIN16 reported pet | 0 | [Individual interpretation](../05%20Specialist%20Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#stesky-a-named-report-with-unresolved-recurrence) |
+
+The [six supporting encounter profiles](../05%20Specialist%20Synthesis/KONOSUBA_COHORT48_SUPPORTING_ENCOUNTER_PROFILES.md) have separate [twelve-dimension audits](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT48_SUPPORTING_DIMENSION_AUDIT_01.json). All [38 typed occurrence routes](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT48_TYPED_SUPPORTING_ROUTES_01.json) preserve individual/group/role/report/memory/fabrication distinctions. Stella and the vampire receive monographs without forced models; only Amaryllis has AMR-R01/02. Stesky reports and the slain hell-neroid remain unjoined. The body count does not increase when the dragon is reanimated. Source-qualified treatment follows evidence, without name/species/frequency quotas. Exact publication and the full remaining program continue.

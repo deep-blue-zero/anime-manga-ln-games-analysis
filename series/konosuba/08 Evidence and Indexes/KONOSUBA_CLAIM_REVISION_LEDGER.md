@@ -533,3 +533,10 @@ C46 current addenda retain all47 historical YORI04 qualifications and frozen his
 C47 preserves preparation history while explicitly correcting MAIN06U020 to the Aldarp-focalized fictional interlude, confirmed against the actual TOC, rather than author paratext. Nine frozen source qualifications retain the Winter sequence, unnamed sprite, beloved access, angel promise, Jatice report/fantasy/plan channels, remembered girl report and Heidel's unperformed proposals. The supporting mimic profile narrows active-deception wording to apparent lure and material response before its own seal; the26already frozen core bodies remain unchanged after feedback. Current C46 post-freeze qualifications for pension-price comparison, weather-diviner/army-locust wording and Kazuma as Heal recipient remain fully effective.
 
 [Current evidence index](KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+C48 preserves source and draft history while narrowing actual advice to Vanir as speaker,MASKpet recurrence to possible identity,and dragon breath88 to Vanir warning. The motorcycle wording does not certify the senior driving arrangement; the clothes giver is not automatically a known neighbor. Person-to-person civic-speaker possibilities use possible-identity edges,distinct from group membership. MAIN11U018 is an author afterword discussing another work,not canonical KonoSuba vampire evidence. Amaryllis invented biography is disavowed,her stop/register/apology sequence is ordered,and the owner ring remains untransferred. All25core bodies remain unchanged after feedback; four supporting bodies have separate pre-freeze precision review. Current C46post-freeze qualifications remain fully effective.
+
+[Current evidence index](KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

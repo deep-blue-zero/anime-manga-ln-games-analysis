@@ -1525,3 +1525,10 @@ The retired professionals actually eat togetherU01474-89/151-156 and value a pea
 Keele's sparse room, arranged remains and reported property do not establish a full personal diet or monetary valuation MAIN02U015. Heidel actually brings coffee MAIN11U012154/182 and tea/door service412, while future transactions156-160 and proposed vase/clothing changes148/152 remain unperformed. Aqua's one retained snow sprite MAIN02U014346-366 has a reportedly assigned but unsupplied name; refrigeration/shaved-ice hopes are not achieved business and its diet remains unknown. Family hospital laughter is Aqua's report MAIN01U01363, not a complete relative roster or verified private feelings.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+Tea is actually drunk in the vampire room496/503. Tomato farming498/502 is proposed,not performed; the personally worn ring is offered537-538,declined539,and only then described as precious since life540. Its donor and history remain unknown. Stella remembers patient mapping149 and lost food/barrier means170-174; party supplies are actually bought227,without an itemized fivefold bill or witnessed safe return. Vanir clothes-giver story73 remains a reported gift/bereavement,not verified romance. Summoned devils complain about work/domain duties456-458; those offstage routines are testimony. Amaryllis fear preference328 and pet-search account325 are attributed,not quantitative diet or witnessed care.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

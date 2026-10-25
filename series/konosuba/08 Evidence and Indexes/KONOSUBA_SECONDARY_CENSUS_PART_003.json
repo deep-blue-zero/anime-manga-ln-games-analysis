@@ -2132,11 +2132,24 @@
       "cohort47_semantic_receiving_sha256": "4033ba51eae43a6e89e8dc5d920c151438b0d27d54be5d3ad18ff556354401dc",
       "cohort47_supporting_freeze_sha256": "1a87213cf1555dde03ceb7f91f74c9e2fa6d80d9f2419e02bac280af4fb0f820",
       "cohort47_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_SOURCE_PRECISION_QUALIFICATIONS_01.json",
-      "cohort47_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "cohort47_current_receiving": "Exact-source author publication gate closed at fcc404eb after own full479audit,remote bytes and fresh authority reload; scoped/nonfinal. Full program and protected integration remain separately governed.",
       "cohort47_source_supplement": {
         "row": 202,
         "current_note": "MAIN06U01113/20 andU013353-362 anticipates familiar Mary service but actual entrant is Darkness. MAIN11U012148/152 are Heidel guest proposals;215-217 is Mary actual message. Narrative familiarity supports a qualified same-palace Mary route, not all servants or Marybell. Retain Tier0 current treatment and old seven analytical fields as historical source bounds.",
         "limits": "No completed shortening of clothes, staged breakage or punishment, performed MAIN06 sheet change, private motive or broader dialogue."
+      },
+      "cohort47_publication_resolution": {
+        "source": "fcc404eb8ef5eb60925ea9fd15d8c82dd354a325",
+        "tree": "7c5800077e764990da50aafe0ea7239a46a70dd0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "e93e7291163b87f5ad13ba3883d30e02cd90180c3961f8a8f34b662c2da362b0",
+        "source_run": 40196405542,
+        "full_discovered_tests": 479,
+        "current_models": 70,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
       }
     },
     {

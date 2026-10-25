@@ -2108,3 +2108,10 @@ Dark Stalker invested romance attention coexists with practical correction from 
 Kazuma's initial chest-mimic classification MAIN02U015236 is corrected by Aqua's dungeon-mimic identification237 and floor/wall response241. The bottle response does not prove a performed human disguise or complete diet. Kazuma's city-avoidance explanation U014691 and scent inference U015104-105 remain hypotheses. Heidel wrongly guesses the complaint MAIN11U012203-204 and hesitates208-209 before a prompt213; competent anticipation is fallible. Kazuma's online-guild retelling312-325 supplies handles and causal interpretation without offline identity verification.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+Stella corrects her first impulse to blame Gain180 after seeing his wound181,then warns the stranger204; she later misreads Vanir divine objection235 as religious humility238. Accuracy varies within one actor. Vanir wild/untrained guess217 does not resolve pet ownership. Kazuma recognition of standing male shop regulars122 adds an interpretation to civic affection113,not proof that every speaker lies. Luna actually checks cards109. Fabricated chimera biography283/286 is explicitly disavowed328; Kazuma abandonment inference287-288 does not instantiate real parents or an experimenter. The motorcycle memory317 does not establish romance or senior gender.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

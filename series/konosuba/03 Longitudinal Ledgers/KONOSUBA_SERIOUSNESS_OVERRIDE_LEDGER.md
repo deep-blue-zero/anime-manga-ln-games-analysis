@@ -1448,3 +1448,10 @@ Angie fear and costly town-protection decisionU018591-604 are meaningful despite
 Kazuma's death to the Winter Shogun MAIN02U014213-224 is an actual cost, without a witnessed defeat of the attacker. Castle removal MAIN11U012 is coercive: Kazuma resists, guards restrain him, Claire forces the potion630 and awareness fades631 despite Iris's intervention617. Heidel's earlier service412 does not assign him the restraint or potion. MAIN17 barrier failure155 and users blown away158 preserve material harm without an invented death or escape roster. Aqua's report that the remembered girl had a fracture MAIN01U01341 is neither independent medical testimony nor certified lifesaving by Kazuma.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+Amaryllis stops on Vanir voice320 and changes register321 before his explicit companion disclosure324; apology/explanation follows325. Rank,familiarity,surprise,etiquette and affiliation remain intertwined. The vampire abandons ceremonial intimidation for courtesy and surrender under overwhelming pressure; personal attachment survives in his relief when the offered ring is declined. Stella updates blame and stops with the injured party member while afraid. These local changes do not establish a single universal threshold,altruistic rescue law or generic obedience policy.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

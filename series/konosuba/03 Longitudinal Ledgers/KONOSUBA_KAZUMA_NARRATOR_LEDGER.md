@@ -1550,3 +1550,10 @@ Kazuma private gratitude toward AngieU020529-530 differs from spoken apology or 
 MAIN01U013 crossing memory24-29, guessed girl school25, guessed vehicle28 and Aqua's counterfactual report41-55 have different access. Mary MAIN06 anticipated service is interrupted by Darkness's actual arrival362. Jatice reports, artifact warnings, Aldarp focalized scheme and mistaken Kazuma identity remain separate channels. In MAIN11U012, apparent guard rank527, felt castle attitudes210-213 and online-guild causation312-325 are Kazuma's interpretations. Kazuma's distant MAIN17 lip reading does not turn a cry for a mother129 into a witnessed parent.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+MAIN16C1 guild recollection separates reports/forecasts from actual card checking and preparation. Shop-regular recognition122 does not independently invalidate civic affection113. Kazuma own comparison with his first-love motorcycle memory317-319 explains his current appraisal,not the girl private life or a confirmed couple. In C2,Stella temporarily becomes the I focalizer138-249; her simile208 is not Vanir private expectation. Kazuma calls treasure taking robbery512/539,while the owner supplies dungeon convention540. The line does not establish every item prior ownership or a universal entitlement code. MAIN17room continuity does not give the offstage owner a completed retirement.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -1645,3 +1645,10 @@ One professional volunteering does not bind the otherU014495/529/553. The watche
 Keele's recollection supplies the accepted proposal and remembered smiles MAIN02U015305/327. Kazuma's summary303-305 and Keele's affirmation belong to that same conversation. Darkness later interprets the woman's happiness400; her assessment does not replace the woman's unavailable own testimony. Jatice's military, sibling and marriage roles are reported. Aldarp's body-theft plan in the fictional interlude MAIN06U020 threatens Jatice without completing a body swap. The transfer angel's job succession despite Aqua's protests MAIN01U013130-147 does not identify all heavenly personnel with one person. Mary's actual MAIN11 message215-217 remains distinct from contemplated clothes/vase plans and from all castle servants.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+Stella own focalization does not reveal the other three private states. Companion shopping turns remain untagged; Gil thanks is explicit241. Mitsurugi two women210-218 have possible member overlap with127/128,without a Fio/Clemea-to-role or turn mapping. MASKreception client has only a possible role-filler edge toLuna11. The civic-affection speaker may be identical to a preceding level32/38speaker; that person-to-person possibility differs from membership in the standing group. Stesky reports and slain hell-neroid retain possible identity,without an Amaryllis-client join or forced two-pet count. Vampire126 is not explicitly joined toWolfgang97; female-succubus113 is a different owner route. Three dragon zombies may include the earlier animated body; group routes do not add independent people.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

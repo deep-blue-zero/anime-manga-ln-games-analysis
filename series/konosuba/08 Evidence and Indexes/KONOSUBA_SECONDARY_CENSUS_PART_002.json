@@ -2527,18 +2527,41 @@
     },
     {
       "character": "Unnamed dungeon vampire owner (MAIN16 training trip)",
-      "identity": "C2 explicitly leaves name unspecified; species/status and approximate age are his claims. Episode identity provisional.",
-      "likely_tier": "1–2 candidate",
-      "priority": "Discovery",
-      "evidence_distribution": "MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. C2 P440–578, especially P477–487/498/508/529/537–544; IMG022. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "Responds to Wiz/Vanir with strain, surrender and tea; states retirement wishes and yields treasure under pressure. Inventory/class constraints matter. A personally valued ring has a different utility to him; Kazuma declines it while Wiz still wants it. There is no completed killing. CURRENT WORKING31: MAIN16C2 surrender/tea, property loss, proposed tomato retirement and removal of cherished ring preserve own agency. Kazuma refuses before hearing ring sentimental history; proposal is not performed future retirement.",
-      "gaps": "Resolve possible recurring-owner join with YORI03 last-life owner and named Wolfgang Crow through exact source proof before a final denominator. Do not merge by vampire species or occupational role; don't invent departure/retirement completion. CURRENT WORKING31 QUALIFICATION: Do not automatically merge with Wolfgang Crow or YORI03 last-life owner by species/dungeon role. Name remains absent in this episode; resolve exact cross-source identity before final individual denominator, no invented later departure.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Unnamed vampire owner in MAIN16U012477-545; personal name explicitly unspecified529. Claimed true-ancestor status/age stay attributed. MAIN17 recalls the same room without a new owner appearance. Female-succubus113 is distinct; Wolfgang97 is not explicitly joined.",
+      "likely_tier": "2 scoped substantial monograph; no forced model; exact containing publication pending",
+      "priority": "C48 evidence-proportional interpretation received; own-source publication gates pending; full program active.",
+      "evidence_distribution": "Complete MAIN16U010-U013 paragraph/ruby context; bounded MAIN17U0141-113 and explicit YORI01/03/02/04 plus other category/analogy/paratext comparisons in current native provenance.",
+      "substantive_responsibility": "Changes from ceremonial entrance to strained courtesy, serves tea, surrenders treasure, answers inventory/class questions and offers a cherished ring that Kazuma stops him removing. His visible relief follows the refusal; retirement/farming remain intentions.",
+      "gaps": "No performed retirement,relocation,death,ring transfer or hauling by the owner; no personal name,independently measured age,ring donor or universal ownership code. Generic outmatched-host and attachment readings remain; a monograph does not force a model.",
+      "disposition_status": "SCOPED_TIER2_COHORT48_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "current_scope_asof_working23": "MAIN01–15 excluded full gates closed. MAIN16 published 870756ef7cfeb3d14f395deac59be65e909ba9a3; all 9,114 remote paths/35 changed streams verified and exact-index author preflight passed. Source/housekeeping/final audit gate remains pending verification in this version. MAIN17 excluded not admitted. Full individual census, earned artifacts, expanded synthesis/versioned models, curation/integration/release continue.",
       "prior_gap_history_working30": "Resolve possible recurring-owner join with YORI03 last-life owner and named Wolfgang Crow through exact source proof before a final denominator. Do not merge by vampire species or occupational role; don't invent departure/retirement completion.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_cohort48_current_fields": {
+        "identity": "C2 explicitly leaves name unspecified; species/status and approximate age are his claims. Episode identity provisional.",
+        "likely_tier": "1–2 candidate",
+        "priority": "Discovery",
+        "evidence_distribution": "MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. C2 P440–578, especially P477–487/498/508/529/537–544; IMG022. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
+        "substantive_responsibility": "Responds to Wiz/Vanir with strain, surrender and tea; states retirement wishes and yields treasure under pressure. Inventory/class constraints matter. A personally valued ring has a different utility to him; Kazuma declines it while Wiz still wants it. There is no completed killing. CURRENT WORKING31: MAIN16C2 surrender/tea, property loss, proposed tomato retirement and removal of cherished ring preserve own agency. Kazuma refuses before hearing ring sentimental history; proposal is not performed future retirement.",
+        "gaps": "Resolve possible recurring-owner join with YORI03 last-life owner and named Wolfgang Crow through exact source proof before a final denominator. Do not merge by vampire species or occupational role; don't invent departure/retirement completion. CURRENT WORKING31 QUALIFICATION: Do not automatically merge with Wolfgang Crow or YORI03 last-life owner by species/dungeon role. Name remains absent in this episode; resolve exact cross-source identity before final individual denominator, no invented later departure.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort48_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_MAIN16_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUNGEON_VAMPIRE_OWNER_CHARACTER_MONOGRAPH.md"
+      ],
+      "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
+      "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
+      "cohort48_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "cohort48_current_receiving": "Scoped interpretation fully received; exact containing publication and its own technical gates remain pending. No unique-person,mature-model,independent-performance,grade or confidence claim.",
+      "cohort48_source_known": true,
+      "cohort48_unique_person_denominator": false
     },
     {
       "character": "Mitsurugi spear-user companion (personal name-to-role unresolved)",
@@ -2671,12 +2694,12 @@
     {
       "character": "Keele / キール (MAIN02 lich)",
       "identity": "Named lich Keele in the MAIN02 dungeon encounter; his remembered court career and relationship remain attributed history, separate from later uses of the dungeon name.",
-      "likely_tier": "2 scoped substantial monograph; no forced model; exact containing publication pending",
-      "priority": "C47 evidence-proportional interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "2 scoped substantial monograph; no forced model; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C47 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "Complete MAIN02U0151-401 and U0141-746; bounded MAIN03/08/11 and DUST01/03 contexts in the native provenance.",
       "substantive_responsibility": "Recognizes the priestly opportunity, introduces himself, recounts the relationship and costly protection, requests purification, bows and disappears in the performed rite. His explicit uncertainty about the woman's happiness remains beside the proud history.",
       "gaps": "No independently witnessed beloved woman's interior life, full campaign chronology, exact age, measured property value or achieved reunion. Competing romance, release and opportunity readings remain; a substantial monograph does not force a generator.",
-      "disposition_status": "SCOPED_TIER2_COHORT47_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT47_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
       "cohort47_artifacts": [
@@ -2690,7 +2713,7 @@
       "cohort47_semantic_receiving_sha256": "4033ba51eae43a6e89e8dc5d920c151438b0d27d54be5d3ad18ff556354401dc",
       "cohort47_supporting_freeze_sha256": "1a87213cf1555dde03ceb7f91f74c9e2fa6d80d9f2419e02bac280af4fb0f820",
       "cohort47_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_SOURCE_PRECISION_QUALIFICATIONS_01.json",
-      "cohort47_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "cohort47_current_receiving": "Exact-source author publication gate closed at fcc404eb after own full479audit,remote bytes and fresh authority reload; scoped/nonfinal. Full program and protected integration remain separately governed.",
       "prior_cohort47_current_fields": {
         "identity": "Self-named lich/dungeon creator; actual identity received in C2P289.",
         "likely_tier": "1–2 candidate",
@@ -2701,17 +2724,30 @@
         "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
       },
       "cohort47_source_known": true,
-      "cohort47_unique_person_denominator": false
+      "cohort47_unique_person_denominator": false,
+      "cohort47_publication_resolution": {
+        "source": "fcc404eb8ef5eb60925ea9fd15d8c82dd354a325",
+        "tree": "7c5800077e764990da50aafe0ea7239a46a70dd0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "e93e7291163b87f5ad13ba3883d30e02cd90180c3961f8a8f34b662c2da362b0",
+        "source_run": 40196405542,
+        "full_discovered_tests": 479,
+        "current_models": 70,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "Keele's unnamed beloved noblewoman (MAIN02)",
       "identity": "Unnamed noblewoman loved by Keele; actual remains and attributed relationship history are distinct from an independently observed living dialogue corpus.",
-      "likely_tier": "1 scoped bounded profile; exact containing publication pending",
-      "priority": "C47 evidence-proportional interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "1 scoped bounded profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C47 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MAIN02U015291-341, especially affirmed account303-305, remains306, Aqua's assessment321, Keele's doubt328; Darkness's later interpretation400.",
       "substantive_responsibility": "The accepted proposal, escape and remembered smiles preserve attributed agency; her body is present in the room. Aqua reports peace, while Keele still questions whether she was happy. Neither voice is replaced with an omniscient account of the woman.",
       "gaps": "Personal name, exact age, own speech and inner state unavailable. Parent count is unspecified; no invented reunion, universal consent to every risk, or repeated living encounters. A bounded profile is proportional, without a permanent anonymity ceiling.",
-      "disposition_status": "SCOPED_TIER1_COHORT47_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT47_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
       "cohort47_artifacts": [
@@ -2725,7 +2761,7 @@
       "cohort47_semantic_receiving_sha256": "4033ba51eae43a6e89e8dc5d920c151438b0d27d54be5d3ad18ff556354401dc",
       "cohort47_supporting_freeze_sha256": "1a87213cf1555dde03ceb7f91f74c9e2fa6d80d9f2419e02bac280af4fb0f820",
       "cohort47_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_SOURCE_PRECISION_QUALIFICATIONS_01.json",
-      "cohort47_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "cohort47_current_receiving": "Exact-source author publication gate closed at fcc404eb after own full479audit,remote bytes and fresh authority reload; scoped/nonfinal. Full program and protected integration remain separately governed.",
       "prior_cohort47_current_fields": {
         "identity": "Unnamed noblewoman/deceased remains; public and Keele/Aqua accounts have unequal access.",
         "likely_tier": "0–1 candidate",
@@ -2736,17 +2772,30 @@
         "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
       },
       "cohort47_source_known": true,
-      "cohort47_unique_person_denominator": false
+      "cohort47_unique_person_denominator": false,
+      "cohort47_publication_resolution": {
+        "source": "fcc404eb8ef5eb60925ea9fd15d8c82dd354a325",
+        "tree": "7c5800077e764990da50aafe0ea7239a46a70dd0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "e93e7291163b87f5ad13ba3883d30e02cd90180c3961f8a8f34b662c2da362b0",
+        "source_run": 40196405542,
+        "full_discovered_tests": 479,
+        "current_models": 70,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "Winter Shogun / 冬将軍 (MAIN02 encounter)",
       "identity": "Winter Shogun encountered during the MAIN02 snow-sprite hunt; speech and private intention remain unavailable.",
-      "likely_tier": "1 scoped bounded profile; exact containing publication pending",
-      "priority": "C47 evidence-proportional interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "1 scoped bounded profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C47 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MAIN02U014116-275/324-366, especially sheath205, holding209, drop210, raised head211, strike213-219 and Eris's report234.",
       "substantive_responsibility": "Appears, sheathes the sword, attacks during the apology sequence and kills Kazuma. The ordering preserves multiple changing cues instead of identifying one universal trigger. Eris later reports disappearance.",
       "gaps": "No witnessed defeat, own dialogue, proof of knowing the concealed sprite, isolated eye-contact/sword-guilt law or independently measured bounty/Explosion limit. Local encounter profile only; no forced species-wide generator.",
-      "disposition_status": "SCOPED_TIER1_COHORT47_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT47_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
       "cohort47_artifacts": [
@@ -2760,7 +2809,7 @@
       "cohort47_semantic_receiving_sha256": "4033ba51eae43a6e89e8dc5d920c151438b0d27d54be5d3ad18ff556354401dc",
       "cohort47_supporting_freeze_sha256": "1a87213cf1555dde03ceb7f91f74c9e2fa6d80d9f2419e02bac280af4fb0f820",
       "cohort47_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_SOURCE_PRECISION_QUALIFICATIONS_01.json",
-      "cohort47_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "cohort47_current_receiving": "Exact-source author publication gate closed at fcc404eb after own full479audit,remote bytes and fresh authority reload; scoped/nonfinal. Full program and protected integration remain separately governed.",
       "prior_cohort47_current_fields": {
         "identity": "Manifested threatening entity/role; exact species/recurring-individual join unresolved.",
         "likely_tier": "0–1 candidate",
@@ -2771,7 +2820,20 @@
         "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
       },
       "cohort47_source_known": true,
-      "cohort47_unique_person_denominator": false
+      "cohort47_unique_person_denominator": false,
+      "cohort47_publication_resolution": {
+        "source": "fcc404eb8ef5eb60925ea9fd15d8c82dd354a325",
+        "tree": "7c5800077e764990da50aafe0ea7239a46a70dd0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "e93e7291163b87f5ad13ba3883d30e02cd90180c3961f8a8f34b662c2da362b0",
+        "source_run": 40196405542,
+        "full_discovered_tests": 479,
+        "current_models": 70,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "MAIN02/MASK small worker — qualified Lolisa event join",
@@ -3277,12 +3339,12 @@
     {
       "character": "Unnamed transfer-processing angel (MAIN01)",
       "identity": "Unnamed angel who handles Kazuma's transfer and takes over Aqua's prior office. Duke, the male castle gatekeeper and the online handle 闇†天使 are distinct routes.",
-      "likely_tier": "2 scoped substantial monograph; no forced model; exact containing publication pending",
-      "priority": "C47 evidence-proportional interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "2 scoped substantial monograph; no forced model; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C47 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "Complete MAIN01U0131-161, especially130-157; bounded MAIN15U01289-90 and U015176-182, with separate heavenly comparison contexts.",
       "substantive_responsibility": "Accepts the unusual selection, handles the transfer communication and takes over the office despite Aqua's protests. Later Eris reporting supplies a difficult recruitment consequence of full disclosure, while Kazuma's impressions remain focalized.",
       "gaps": "No performed future reward or approved wealthy-return fantasy, recorded recruitment interview, personal name, universal honesty morality or verified sabotage intention. Three substantial access channels warrant a monograph while job-script and rival explanations prevent a forced model.",
-      "disposition_status": "SCOPED_TIER2_COHORT47_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT47_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
       "cohort47_artifacts": [
@@ -3296,7 +3358,7 @@
       "cohort47_semantic_receiving_sha256": "4033ba51eae43a6e89e8dc5d920c151438b0d27d54be5d3ad18ff556354401dc",
       "cohort47_supporting_freeze_sha256": "1a87213cf1555dde03ceb7f91f74c9e2fa6d80d9f2419e02bac280af4fb0f820",
       "cohort47_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_SOURCE_PRECISION_QUALIFICATIONS_01.json",
-      "cohort47_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "cohort47_current_receiving": "Exact-source author publication gate closed at fcc404eb after own full479audit,remote bytes and fresh authority reload; scoped/nonfinal. Full program and protected integration remain separately governed.",
       "prior_cohort47_current_fields": {
         "identity": "Institutional actor accepting transfer-choice loophole; no personal name supplied in current report.",
         "likely_tier": "0–1 candidate",
@@ -3307,7 +3369,20 @@
         "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
       },
       "cohort47_source_known": true,
-      "cohort47_unique_person_denominator": false
+      "cohort47_unique_person_denominator": false,
+      "cohort47_publication_resolution": {
+        "source": "fcc404eb8ef5eb60925ea9fd15d8c82dd354a325",
+        "tree": "7c5800077e764990da50aafe0ea7239a46a70dd0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "e93e7291163b87f5ad13ba3883d30e02cd90180c3961f8a8f34b662c2da362b0",
+        "source_run": 40196405542,
+        "full_discovered_tests": 479,
+        "current_models": 70,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "Unnamed Tranquility Girl (MAIN05 individual plant)",
@@ -3470,12 +3545,12 @@
     {
       "character": "Prince Jatice (MAIN06 reported artifact target)",
       "identity": "First prince Jatice, a reported military, family and marriage figure in these received contexts; mistaken Kazuma identity and Luna's fantasy do not become his acts.",
-      "likely_tier": "1 scoped bounded profile; exact containing publication pending",
-      "priority": "C47 evidence-proportional interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "1 scoped bounded profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C47 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MAIN06U013486/488,U015567/613-637,U0201-46 fictional interlude; MAIN10U014626-627/U016744-745; MAIN11 letter; DUST03 Claire/Lean contexts; MASK Luna's fantasy context.",
       "substantive_responsibility": "Reports locate him at the front and place royal obligations and possible marriage around him. Aldarp's private body-theft scheme threatens his position; Chris warns about possible artifact misuse. Those channels explain narrative pressure without supplying Jatice's decisions.",
       "gaps": "No witnessed proposal, engagement, body swap, death or direct prince dialogue in these windows. Claire's career wishes, Lean's reputation, tribute reports, an impostor mistake and a fantasy line remain attributed. Bounded relational profile, without a forced generator.",
-      "disposition_status": "SCOPED_TIER1_COHORT47_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT47_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "current_scope_asof_working25": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
       "cohort47_artifacts": [
@@ -3489,7 +3564,7 @@
       "cohort47_semantic_receiving_sha256": "4033ba51eae43a6e89e8dc5d920c151438b0d27d54be5d3ad18ff556354401dc",
       "cohort47_supporting_freeze_sha256": "1a87213cf1555dde03ceb7f91f74c9e2fa6d80d9f2419e02bac280af4fb0f820",
       "cohort47_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_SOURCE_PRECISION_QUALIFICATIONS_01.json",
-      "cohort47_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "cohort47_current_receiving": "Exact-source author publication gate closed at fcc404eb after own full479audit,remote bytes and fresh authority reload; scoped/nonfinal. Full program and protected integration remain separately governed.",
       "prior_cohort47_current_fields": {
         "identity": "Name/royal role from accepted MAIN06 derivative interlude; Japanese spelling and cross-title relation need explicit native join; distinct from Levi",
         "likely_tier": "0 candidate, not final",
@@ -3500,7 +3575,20 @@
         "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
       },
       "cohort47_source_known": true,
-      "cohort47_unique_person_denominator": false
+      "cohort47_unique_person_denominator": false,
+      "cohort47_publication_resolution": {
+        "source": "fcc404eb8ef5eb60925ea9fd15d8c82dd354a325",
+        "tree": "7c5800077e764990da50aafe0ea7239a46a70dd0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "e93e7291163b87f5ad13ba3883d30e02cd90180c3961f8a8f34b662c2da362b0",
+        "source_run": 40196405542,
+        "full_discovered_tests": 479,
+        "current_models": 70,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "Unnamed dragon-egg seller (MAIN07)",
@@ -3569,12 +3657,12 @@
     {
       "character": "Heidel / ハイデル (MAIN11 butler)",
       "identity": "Named elderly palace butler Heidel, who corrects Kazuma's Sebastian misnaming; the repeated MAIN06 opening is one episode, and later eviction guards are not assigned to him.",
-      "likely_tier": "3 restricted provisional service model; two eight-field rules; exact containing publication pending",
-      "priority": "C47 evidence-proportional interpretation received; own-source publication gates pending; full program active.",
+      "likely_tier": "3 restricted provisional service model; two eight-field rules; exact-source author gate closed; scoped/nonfinal",
+      "priority": "C47 exact-source author publication gate closed; scoped interpretation retained; full program active.",
       "evidence_distribution": "MAIN06U0111-20/U013320-380 and complete MAIN11U0121-633, especially146-217/412; all current scopes and qualifications remain attached.",
       "substantive_responsibility": "Provides coffee and tea, concise corrections, practical preparation and relayed warnings; answers guest explanations with qualified assent and facilitation. Wrong complaint guesses and hesitation constrain competence. Only HEI-R01/02 in the frozen inventory form a restricted provisional service model.",
       "gaps": "Mary's clothing and vase plans are unperformed; no actual breakage, punishment or trade profit. The earlier request for at least ten minutes remains. Four sealed English originals show overexplicit polished/cautionary voice and generic-role rivals, without independent validation, grade or Japanese performance credit.",
-      "disposition_status": "SCOPED_TIER3_COHORT47_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER3_COHORT47_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "cohort47_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md",
@@ -3590,7 +3678,7 @@
       "cohort47_semantic_receiving_sha256": "4033ba51eae43a6e89e8dc5d920c151438b0d27d54be5d3ad18ff556354401dc",
       "cohort47_supporting_freeze_sha256": "1a87213cf1555dde03ceb7f91f74c9e2fa6d80d9f2419e02bac280af4fb0f820",
       "cohort47_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_SOURCE_PRECISION_QUALIFICATIONS_01.json",
-      "cohort47_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain.",
+      "cohort47_current_receiving": "Exact-source author publication gate closed at fcc404eb after own full479audit,remote bytes and fresh authority reload; scoped/nonfinal. Full program and protected integration remain separately governed.",
       "prior_cohort47_current_fields": {
         "identity": "Named MAIN11 butler/provider; exact native voice and later identity joins not consolidated.",
         "likely_tier": "0–1 candidate, provisional bounded-profile review",
@@ -3601,79 +3689,233 @@
         "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
       },
       "cohort47_source_known": true,
-      "cohort47_unique_person_denominator": false
+      "cohort47_unique_person_denominator": false,
+      "cohort47_publication_resolution": {
+        "source": "fcc404eb8ef5eb60925ea9fd15d8c82dd354a325",
+        "tree": "7c5800077e764990da50aafe0ea7239a46a70dd0",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "e93e7291163b87f5ad13ba3883d30e02cd90180c3961f8a8f34b662c2da362b0",
+        "source_run": 40196405542,
+        "full_discovered_tests": 479,
+        "current_models": 70,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified_by_author_gate": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 335
+      }
     },
     {
       "character": "Stella / ステラ (MAIN16 dungeon adventurer)",
-      "identity": "Directly addressedP139; I focalizer within C2section2, four-person native party. No automatic join to any similarly named actor.",
-      "likely_tier": "1 candidate; narrow concentrated own viewpoint",
-      "priority": "Discovery — newly consolidated source-backed individual; final disposition pending",
-      "evidence_distribution": "Accepted MAIN16C2 item/xhtml/p-004.xhtml native184P targeted current recheck across136-249/273-342, separately pinned; report52 derivative full receiving. No new source/whole-principal/independent-trial credit.",
-      "substantive_responsibility": "Exhausted scroll response, remembered careful mapping/overconfidence, ecological retreat plan and recovery-resource appraisal, stop for wounded companion, warning stranger and fear for his arm. Useful rescue/trade produces mistaken deity/humility explanation.",
-      "gaps": "No omniscient ecology/savior identity, spell class/level individual certainty, whole-source personality or independent event count from same rescue/POV. Final smaller profile/monograph decision open.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Stella is the named first-person focalizer in MAIN16U012138-249. Explicit four-person party includes Gil,Gain and her unnamed younger sister. Exact age,formal class and captaincy are unprovided.",
+      "likely_tier": "2 scoped substantial monograph; no forced model; exact containing publication pending",
+      "priority": "C48 evidence-proportional interpretation received; own-source publication gates pending; full program active.",
+      "evidence_distribution": "Complete MAIN16U010-U013 at paragraph/ruby scope; her focal scene138-249 retains memories,resource appraisal,injury correction,rescue,actual purchases and religious misappraisal.",
+      "substantive_responsibility": "Regrets descent after earlier cautious mapping, corrects initial blame of injured Gain, stops with the party, warns the stranger, apologizes and gives sincere thanks. Accurate injury/nonhuman appraisals coexist with mistaken god/humility explanation. Companion purchases227 are actual; safe return225 is expected.",
+      "gaps": "No performed spell from interrupted instruction186-189,proved safe escape,exact bill or personal payment,confirmed Gain recovery or automatic shared belief. Stable conscientiousness,shock and party-norm rivals remain; no forced model.",
+      "disposition_status": "SCOPED_TIER2_COHORT48_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null."
+      "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
+      "prior_cohort48_current_fields": {
+        "identity": "Directly addressedP139; I focalizer within C2section2, four-person native party. No automatic join to any similarly named actor.",
+        "likely_tier": "1 candidate; narrow concentrated own viewpoint",
+        "priority": "Discovery — newly consolidated source-backed individual; final disposition pending",
+        "evidence_distribution": "Accepted MAIN16C2 item/xhtml/p-004.xhtml native184P targeted current recheck across136-249/273-342, separately pinned; report52 derivative full receiving. No new source/whole-principal/independent-trial credit.",
+        "substantive_responsibility": "Exhausted scroll response, remembered careful mapping/overconfidence, ecological retreat plan and recovery-resource appraisal, stop for wounded companion, warning stranger and fear for his arm. Useful rescue/trade produces mistaken deity/humility explanation.",
+        "gaps": "No omniscient ecology/savior identity, spell class/level individual certainty, whole-source personality or independent event count from same rescue/POV. Final smaller profile/monograph decision open.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort48_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_MAIN16_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_STELLA_CHARACTER_MONOGRAPH.md"
+      ],
+      "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
+      "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
+      "cohort48_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "cohort48_current_receiving": "Scoped interpretation fully received; exact containing publication and its own technical gates remain pending. No unique-person,mature-model,independent-performance,grade or confidence claim.",
+      "cohort48_source_known": true,
+      "cohort48_unique_person_denominator": false
     },
     {
       "character": "Gil / ギル (MAIN16 dungeon adventurer)",
-      "identity": "Named male companion in Stella focal segmentP139/169/187/241; distinct from TRPG Gilbert absent exact join.",
-      "likely_tier": "0–1 candidate",
-      "priority": "Discovery — newly consolidated source-backed individual; final disposition pending",
-      "evidence_distribution": "Accepted MAIN16C2 item/xhtml/p-004.xhtml native184P targeted current recheck across136-249/273-342, separately pinned; report52 derivative full receiving. No new source/whole-principal/independent-trial credit.",
-      "substantive_responsibility": "Requests remaining Flash, supplies upstairs escape rationale and emergency magic instruction, later explicitly thanks actual rescuer/resource seller.",
-      "gaps": "Instructions do not establish permanent party leadership or guaranteed ecological theory; no unshown cast/return-home outcome or broad hero model. Resolve transliteration/any cross-source identity only by exact proof.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Named Gil in Stella focalization MAIN16U012140/169/187/189/241; no automatic join to TRPG Gilbert or a guild substring.",
+      "likely_tier": "1 scoped bounded profile; exact containing publication pending",
+      "priority": "C48 evidence-proportional interpretation received; own-source publication gates pending; full program active.",
+      "evidence_distribution": "MAIN16U012139-241 within complete chapter; residual non-guild literal contexts are MAIN01Egil tree and DUST05dragon roar.",
+      "substantive_responsibility": "Requests another scroll,proposes upper-floor escape,calls for Stella magic before interruption,stops with party and explicitly thanks the rescuer. Crying coexists with initiative.",
+      "gaps": "No actual spell,completed escape,formal captaincy,class,personal bill or individually tagged shopping turn. Limited own voice and one crisis earn a bounded profile without a generator.",
+      "disposition_status": "SCOPED_TIER1_COHORT48_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null."
+      "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
+      "prior_cohort48_current_fields": {
+        "identity": "Named male companion in Stella focal segmentP139/169/187/241; distinct from TRPG Gilbert absent exact join.",
+        "likely_tier": "0–1 candidate",
+        "priority": "Discovery — newly consolidated source-backed individual; final disposition pending",
+        "evidence_distribution": "Accepted MAIN16C2 item/xhtml/p-004.xhtml native184P targeted current recheck across136-249/273-342, separately pinned; report52 derivative full receiving. No new source/whole-principal/independent-trial credit.",
+        "substantive_responsibility": "Requests remaining Flash, supplies upstairs escape rationale and emergency magic instruction, later explicitly thanks actual rescuer/resource seller.",
+        "gaps": "Instructions do not establish permanent party leadership or guaranteed ecological theory; no unshown cast/return-home outcome or broad hero model. Resolve transliteration/any cross-source identity only by exact proof.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort48_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_MAIN16_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#gil-plans-under-interrupted-threat"
+      ],
+      "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
+      "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
+      "cohort48_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "cohort48_current_receiving": "Scoped interpretation fully received; exact containing publication and its own technical gates remain pending. No unique-person,mature-model,independent-performance,grade or confidence claim.",
+      "cohort48_source_known": true,
+      "cohort48_unique_person_denominator": false
     },
     {
       "character": "Gain / ゲイン (MAIN16 dungeon adventurer)",
-      "identity": "Named rear runner carrying treasureP144/178; exact episode identity, separate from Gil/Stella.",
-      "likely_tier": "0–1 candidate",
-      "priority": "Discovery — newly consolidated source-backed individual; final disposition pending",
-      "evidence_distribution": "Accepted MAIN16C2 item/xhtml/p-004.xhtml native184P targeted current recheck across136-249/273-342, separately pinned; report52 derivative full receiving. No new source/whole-principal/independent-trial credit.",
-      "substantive_responsibility": "Values the recovered treasure and fears loss/death; actual scratched back makes him unable to keep pace, drops treasure and recruits companions stopping.",
-      "gaps": "Do not recast injury-driven dropped property as voluntary greed/refusal to discard burden. Later group buying/replies not automatically his separate acts; no invented role/long-term preference.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Named rear runner Gain carrying treasure MAIN16U012144/178-182; an episode-specific identified party member.",
+      "likely_tier": "1 scoped bounded profile; exact containing publication pending",
+      "priority": "C48 evidence-proportional interpretation received; own-source publication gates pending; full program active.",
+      "evidence_distribution": "MAIN16U012143-182 within complete chapter,plus subsequent group rescue and shopping without individual treatment attribution.",
+      "substantive_responsibility": "Voices despair,runs with the bag,cries out and spills treasure after the pursuer scratches his back. Stella corrects blame and everyone stops because he cannot escape.",
+      "gaps": "No deliberate refusal to discard treasure,greed mechanism,voluntary sacrifice,individually assigned potion purchase or confirmed healing. Age,class,load,value and later journey unavailable; no forced model.",
+      "disposition_status": "SCOPED_TIER1_COHORT48_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null."
+      "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
+      "prior_cohort48_current_fields": {
+        "identity": "Named rear runner carrying treasureP144/178; exact episode identity, separate from Gil/Stella.",
+        "likely_tier": "0–1 candidate",
+        "priority": "Discovery — newly consolidated source-backed individual; final disposition pending",
+        "evidence_distribution": "Accepted MAIN16C2 item/xhtml/p-004.xhtml native184P targeted current recheck across136-249/273-342, separately pinned; report52 derivative full receiving. No new source/whole-principal/independent-trial credit.",
+        "substantive_responsibility": "Values the recovered treasure and fears loss/death; actual scratched back makes him unable to keep pace, drops treasure and recruits companions stopping.",
+        "gaps": "Do not recast injury-driven dropped property as voluntary greed/refusal to discard burden. Later group buying/replies not automatically his separate acts; no invented role/long-term preference.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort48_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_MAIN16_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#gain-an-injury-behind-the-spilled-treasure"
+      ],
+      "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
+      "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
+      "cohort48_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "cohort48_current_receiving": "Scoped interpretation fully received; exact containing publication and its own technical gates remain pending. No unique-person,mature-model,independent-performance,grade or confidence claim.",
+      "cohort48_source_known": true,
+      "cohort48_unique_person_denominator": false
     },
     {
       "character": "Stella's unnamed younger sister (MAIN16 dungeon party)",
-      "identity": "P157-158 identifies crying runner as focalizer Stella younger sister; four-person groupP194-195. Name/age/class not supplied.",
-      "likely_tier": "0 candidate; narrow identifiable cameo",
-      "priority": "Discovery — newly consolidated source-backed individual; final disposition pending",
-      "evidence_distribution": "Accepted MAIN16C2 item/xhtml/p-004.xhtml native184P targeted current recheck across136-249/273-342, separately pinned; report52 derivative full receiving. No new source/whole-principal/independent-trial credit.",
-      "substantive_responsibility": "Explicit own death fear within depleted-resource flight; group presence supplies location and relations.",
-      "gaps": "No named cleric/spell assignment, exact age, all group replies/purchases or full personality inferred. Retain as individual episode identity with narrow descriptive treatment; do not merge with Amaryllis child persona.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Stella explicitly identifies the runner immediately behind her as a younger sister MAIN16U012157-158; one of the four195. Name,exact age and class unprovided.",
+      "likely_tier": "1 scoped bounded profile; exact containing publication pending",
+      "priority": "C48 evidence-proportional interpretation received; own-source publication gates pending; full program active.",
+      "evidence_distribution": "Complete Stella-focalized scene MAIN16U012138-249,with own fear line157 and group response182/195.",
+      "substantive_responsibility": "Voices a wish not to die,continues flight and participates in the group response to injury. Her relation and bodily presence remain distinct from Stella private reasoning.",
+      "gaps": "No automatic individual assignment of shopping/final untagged turns,divine belief,magic or formal role. One voice sample does not earn a full idiolect or forced model; anonymity imposes no permanent ceiling.",
+      "disposition_status": "SCOPED_TIER1_COHORT48_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null."
+      "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
+      "prior_cohort48_current_fields": {
+        "identity": "P157-158 identifies crying runner as focalizer Stella younger sister; four-person groupP194-195. Name/age/class not supplied.",
+        "likely_tier": "0 candidate; narrow identifiable cameo",
+        "priority": "Discovery — newly consolidated source-backed individual; final disposition pending",
+        "evidence_distribution": "Accepted MAIN16C2 item/xhtml/p-004.xhtml native184P targeted current recheck across136-249/273-342, separately pinned; report52 derivative full receiving. No new source/whole-principal/independent-trial credit.",
+        "substantive_responsibility": "Explicit own death fear within depleted-resource flight; group presence supplies location and relations.",
+        "gaps": "No named cleric/spell assignment, exact age, all group replies/purchases or full personality inferred. Retain as individual episode identity with narrow descriptive treatment; do not merge with Amaryllis child persona.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort48_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_MAIN16_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#stellas-younger-sister-fear-within-a-working-party"
+      ],
+      "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
+      "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
+      "cohort48_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "cohort48_current_receiving": "Scoped interpretation fully received; exact containing publication and its own technical gates remain pending. No unique-person,mature-model,independent-performance,grade or confidence claim.",
+      "cohort48_source_known": true,
+      "cohort48_unique_person_denominator": false
     },
     {
       "character": "Amaryllis / アマリリス (MAIN16 devil)",
-      "identity": "SelfnamesP279; P317/321/325/328 explicitly joins child-spider guise and postdisclosure formal persona as one devil. True chronological age unestablished.",
-      "likely_tier": "1–2 candidate; concentrated mechanism review open",
-      "priority": "Discovery — newly consolidated source-backed individual; final disposition pending",
-      "evidence_distribution": "Accepted MAIN16C2 item/xhtml/p-004.xhtml native184P targeted current recheck across136-249/273-342, separately pinned; report52 derivative full receiving. No new source/whole-principal/independent-trial credit.",
-      "substantive_responsibility": "Performs fabricated abuse/abandonment to invite pity/cure promises, intensifies fear then stops herself on Vanir recognition/affiliation disclosure. Explicitly prefers fear negative emotion, declines anger as Vanir preference; seeks pet and requests foresight but accepts evasive departure.",
-      "gaps": "Invented child biography/parents/experimenter are not actual cast history. One actor/forms, no performed cure, physical restraint, true age or fulfilled pet search. Concentrated agency can earn deeper treatment; generative mechanism/discrimination remains to review.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Self-named Amaryllis279 is continuous across childlike guise,spider-bodied reveal and formal devil persona321-328. True age/original body/rank remain unknown. Invented purchased-child biography is expressly disavowed328.",
+      "likely_tier": "3 restricted provisional Amaryllis model; two eight-field rules; exact containing publication pending",
+      "priority": "C48 evidence-proportional interpretation received; own-source publication gates pending; full program active.",
+      "evidence_distribution": "Full MAIN16U010-U013 paragraph/ruby context,especiallyU012273-336; complete MASKU015opening1-89 supplies a possible same-name pet relation without identifying the customer.",
+      "substantive_responsibility": "Stages pity,reassurance and a frightening reveal for fear; actually stops on Vanir voice320,addresses him courteously321 and apologizes after companion disclosure324-325. Reports pet search,asks for location333 and leaves without an answer336. Only AMR-R01/02 form a restricted provisional model.",
+      "gaps": "One continuous encounter does not isolate rank,familiarity,affiliation or surprise. No actual childhood abuse,cure,measured diet,pet recovery or universal obedience. Four sealed English firsts retain B2unprovided prior speech,both Bprior voice-state additions,coy Avoice and generic/prompt rivals; no independent validation or Japanese credit.",
+      "disposition_status": "SCOPED_TIER3_COHORT48_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null."
+      "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
+      "prior_cohort48_current_fields": {
+        "identity": "SelfnamesP279; P317/321/325/328 explicitly joins child-spider guise and postdisclosure formal persona as one devil. True chronological age unestablished.",
+        "likely_tier": "1–2 candidate; concentrated mechanism review open",
+        "priority": "Discovery — newly consolidated source-backed individual; final disposition pending",
+        "evidence_distribution": "Accepted MAIN16C2 item/xhtml/p-004.xhtml native184P targeted current recheck across136-249/273-342, separately pinned; report52 derivative full receiving. No new source/whole-principal/independent-trial credit.",
+        "substantive_responsibility": "Performs fabricated abuse/abandonment to invite pity/cure promises, intensifies fear then stops herself on Vanir recognition/affiliation disclosure. Explicitly prefers fear negative emotion, declines anger as Vanir preference; seeks pet and requests foresight but accepts evasive departure.",
+        "gaps": "Invented child biography/parents/experimenter are not actual cast history. One actor/forms, no performed cure, physical restraint, true age or fulfilled pet search. Concentrated agency can earn deeper treatment; generative mechanism/discrimination remains to review.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort48_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_MAIN16_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_AMARYLLIS_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AMARYLLIS_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_RULE_INVENTORY_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_PAIRED_FIRST_DIAGNOSTIC_01.md"
+      ],
+      "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
+      "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
+      "cohort48_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "cohort48_current_receiving": "Scoped interpretation fully received; exact containing publication and its own technical gates remain pending. No unique-person,mature-model,independent-performance,grade or confidence claim.",
+      "cohort48_source_known": true,
+      "cohort48_unique_person_denominator": false
     },
     {
       "character": "Stesky / ステスキー (MAIN16 reported hell-neroid pet)",
-      "identity": "Amaryllis names escaped petP325/333; exact spelling pinned, English transliteration provisional. Identity to earlier killed hell-neroid not explicit.",
-      "likely_tier": "0–1 reported creature-profile candidate",
-      "priority": "Discovery — newly consolidated source-backed individual; final disposition pending",
-      "evidence_distribution": "Accepted MAIN16C2 item/xhtml/p-004.xhtml native184P targeted current recheck across136-249/273-342, separately pinned; report52 derivative full receiving. No new source/whole-principal/independent-trial credit.",
-      "substantive_responsibility": "Owner reports escape/search and requests Vanir location help. Prior hell-neroid attack has actual behavior but cross-event identity remains hypothesis.",
-      "gaps": "No automatic merger with slain/wild creature, proven returned pet, own speech/intention or performed owner-search success. Reported named reference may earn narrow record only; no human-style model or new independent count.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Named reported escaped hell-neroid pet in Amaryllis account MAIN16U012325/333. Same printed name in MASKU01543-44 is a possible relation only; earlier slain pursuer identity is unresolved.",
+      "likely_tier": "0 scoped reported reference; direct pet behavior unestablished; exact containing publication pending",
+      "priority": "C48 evidence-proportional interpretation received; own-source publication gates pending; full program active.",
+      "evidence_distribution": "Complete MAIN16U012 within current two-chapter/interlude context; MASKU0151-89 includes unnamed-client pet report and Vanir location advice.",
+      "substantive_responsibility": "Object of Amaryllis reported search and unanswered request; separate unnamed client reports absence and receives advice. No directly identified Stesky behavior or own speech is supplied.",
+      "gaps": "No proved same/different identity across reports,Amaryllis-client join,slain-pet conclusion,actual escape,retrieval,location confirmation or global individual increment. Tier0 follows absent direct access,not a species ceiling.",
+      "disposition_status": "SCOPED_TIER0_COHORT48_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null."
+      "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
+      "prior_cohort48_current_fields": {
+        "identity": "Amaryllis names escaped petP325/333; exact spelling pinned, English transliteration provisional. Identity to earlier killed hell-neroid not explicit.",
+        "likely_tier": "0–1 reported creature-profile candidate",
+        "priority": "Discovery — newly consolidated source-backed individual; final disposition pending",
+        "evidence_distribution": "Accepted MAIN16C2 item/xhtml/p-004.xhtml native184P targeted current recheck across136-249/273-342, separately pinned; report52 derivative full receiving. No new source/whole-principal/independent-trial credit.",
+        "substantive_responsibility": "Owner reports escape/search and requests Vanir location help. Prior hell-neroid attack has actual behavior but cross-event identity remains hypothesis.",
+        "gaps": "No automatic merger with slain/wild creature, proven returned pet, own speech/intention or performed owner-search success. Reported named reference may earn narrow record only; no human-style model or new independent count.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort48_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_MAIN16_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md#stesky-a-named-report-with-unresolved-recurrence"
+      ],
+      "cohort48_semantic_receiving_sha256": "70b6408f4588f1ed53b77565bc6fe50c9e35410fa88dc7ea8dc07f170254991b",
+      "cohort48_supporting_freeze_sha256": "c3b5322c59cfd77370f46bf3e74101d6d0ab6868f74bb1071d0e87ef9ed37056",
+      "cohort48_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "cohort48_current_receiving": "Scoped interpretation fully received; exact containing publication and its own technical gates remain pending. No unique-person,mature-model,independent-performance,grade or confidence claim.",
+      "cohort48_source_known": true,
+      "cohort48_unique_person_denominator": false
     },
     {
       "character": "ライズ (EXP03 warrior; historical Rize retrieval)",

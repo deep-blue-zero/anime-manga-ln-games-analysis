@@ -1978,3 +1978,10 @@ Dark Stalker retirement, recovered arm, romance absorption, actual rivalry injur
 Keele moves from remembered costly protection and long waiting to an actual request for purification and disappearance MAIN02U015315-341. His doubt328 does not vanish inside the proud retrospective romance. The woman's remains306 are present; Aqua reports peace321, without a witnessed reunion. The Winter Shogun's sheathing205 precedes changed apology cues209-211 and the strike213-219; Eris's report234 is disappearance rather than a shown defeat. Heidel repeats an earlier service encounter across MAIN06 openings, then works around Kazuma's prolonged MAIN11 stay; a copied narrative opening is not a second independent visit.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+C48 gives Stella,Amaryllis and the unnamed MAIN16dungeon vampire individual monographs; only Amaryllis earns a restricted provisional model,AMR-R01/02. Gil,Gain and Stella younger sister have separate bounded profiles; Stesky remains a report-only reference with no identified own behavior. Six supporting profiles and32narrower access routes distinguish actual,reported,remembered,fabricated and proposed cases. These treatments follow evidence density and contrary cases without a quota,anonymity/species ceiling or forced generator.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

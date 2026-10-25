@@ -1320,3 +1320,15 @@ C46 exact-source author publication is closed. Dark Stalker and Angie retain two
 C47 adds one restricted unvalidated Heidel model with HEI-R01/02, both eight-field rules. Keele and the transfer angel receive substantial monographs without forced generators; beloved, Winter and Jatice receive bounded profiles. Four supporting encounter profiles and fifty narrower routes complete the new source/access packet. Candidate70model artifacts/64source-scoped secondary entries,184retained bounded-profile passages,58monograph-only studies and694nonfinal records are not distinct people or mature performance. All69entering models, earlier originals, scores, adverse findings, blanks and nulls remain exact. Four new English originals/two dependent pairs have adverse voice findings and no independent generic run, grade, confidence gain or final battery credit.
 
 [Current evidence index](KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C47 author gate closed; restricted Heidel scope retained — 2026-10-25T13:21:09.215309+00:00
+
+Current70model artifacts/64source-scoped secondary entries,184retained profile passages,58monograph-only studies and694nonfinal records remain evidence-scope counts. C47sourcefcc404eb passed full479audit40196405542 and fresh1681-body/70-model reload with176preservation checks. Heidel stays restricted/unvalidated; four English originals/two dependent pairs retain adverse voice and generic-role rivals. No model,rule,input,first,score or confidence gain is repaired or certified. The [exact author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT47_PUBLICATION_GATE_CLOSE_01.json) is separate from protected integration and the still-due final battery. Closing progress bytes await the next coherent publication.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+C48 adds one restricted provisional Amaryllis model with AMR-R01/02,two eight-field rules. Stella and the unnamed vampire receive substantial monographs without forced generators; Gil,Gain and the sister have bounded profiles,Stesky a report-only entry. Six further supporting encounter profiles accompany38typed source/access routes. Candidate71model artifacts/65source-scoped secondary entries,193bounded-profile passages,60monograph-only studies and732nonfinal records are not unique people or mature performance. All70entering models,old originals,scores,adverse findings,blanks and nulls stay exact. Four new English originals/two dependent pairs retain adverse information/voice findings and no independent generic run,grade,confidence gain or final-battery credit.
+
+[Current evidence index](KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

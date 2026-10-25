@@ -2101,3 +2101,10 @@ The female class-named professionals have separate attributed turns; Assassin pr
 Keele's formal self-presentation, time correction, proud history, uncertainty and direct request supply a more varied voice than a generic doomed romantic MAIN02U015. The transfer angel's polite office speech and Eris's later account remain different speakers. No Jatice performed line is manufactured from Luna's fantasy, Claire's wishes or a Kazuma mistaken-identity exchange. Winter and the two creature encounters have no articulate own dialogue here. Heidel's four English originals retain polished aphorism, unnecessary caution and excess explicitness relative to source assent; they do not certify Japanese pragmatic or acoustic adequacy.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+Stella has her own first-person appraisal,urgent reply,apology and devotional thanks. Gil own requests/instruction/thanks are tagged; later shopping turns are not. Amaryllis plain私/sibling address/repeated promise pressure309 shifts to respectful address321 andわたくし325. The vampire moves from a ceremonial introduction477 to hesitant courtesy486 and modest attachment540. Three worker complaints456-458 remain untagged,not three named idiolects. Four English firsts retain coy under-amplification,polished transfer phrasing and unsupplied prior vocal states; they certify neither Japanese pragmatics nor acoustics.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
