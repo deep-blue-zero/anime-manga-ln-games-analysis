@@ -76,7 +76,7 @@ See the machine-readable [`series/registry.json`](../series/registry.json) for c
 
 - [Comparative Media](../studies/comparative-media/) — `studies/comparative-media/` — cross-title and cross-medium analysis, including the Mass Effect character-monograph study.
 - [Doujinshi/Fanwork Comparative Taxonomy](../studies/doujinshi-fanwork-comparative-taxonomy/) — `studies/doujinshi-fanwork-comparative-taxonomy/` — approved text and machine-readable projections for the comparative taxonomy project; the native XLSX remains REFERENCE_DRIVE.
-- [PACTRIH Ethical Topology](../studies/pactrih-ethical-topology/) — `studies/pactrih-ethical-topology/` — methodology scaffold and routing for future canonical data, interactive artifacts, validation tooling, and audits.
+- [PACTRIH Ethical Topology](../studies/pactrih-ethical-topology/) — `studies/pactrih-ethical-topology/` — Seven-axis comparative ethical topology for fictional characters/entities, factions and historical agents, with canonical numerical data and a verified interactive atlas.
 - [Project Itoh — Genocidal Organ and Harmony: From Genocidal Grammar to the Maelstrom](../studies/project-itoh-genocidal-organ-harmony/) — `studies/project-itoh-genocidal-organ-harmony/` — Source-verified comparative chronology, causal continuity and ethical-literary synthesis connecting Genocidal Organ and Harmony without altering either novel's frozen reading.
 
 <!-- END GENERATED CORPUS STUDY CATALOG -->

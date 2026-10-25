@@ -37,7 +37,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 17 |
+| [`re-zero`](characters/index/re-zero.md) | 18 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
@@ -336,6 +336,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Paul](characters/index/mushoku-tensei.md#paul) | Japanese light-novel continuity | `mushoku-tensei:paul@light-novel` | — |
 | [Perie](characters/index/konosuba.md#perie) | Original light-novel continuity, bounded expanded cohort | `konosuba:perie@original-light-novel` | ペリエ |
 | [Platypus tissue cover](characters/index/shuukura.md#platypus-tissue-cover) | Original Japanese light-novel continuity and author supplements | `shuukura:platypus-tissue-cover@original-light-novel` | — |
+| [Priscilla Barielle](characters/index/re-zero.md#priscilla-barielle) | Re:Zero main light novel | `re-zero:priscilla-barielle@light-novel` | プリシラ・バーリエル |
 | [Queen](characters/index/to-be-hero-x.md#queen) | To Be Hero X animated series | `to-be-hero-x:queen@animated-series` | — |
 | [Raiden Shuga](characters/index/86-eighty-six.md#raiden-shuga) | 86 - Eighty-Six original light novels | `86-eighty-six:raiden-shuga@original-light-novels` | ライデン・シュガ |
 | [Ram](characters/index/re-zero.md#ram) | Re:Zero main light novel | `re-zero:ram@light-novel` | — |

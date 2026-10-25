@@ -6,7 +6,7 @@ Comparative, taxonomy, methodology, and other non-series analytical projects bel
 
 - [`comparative-media/`](comparative-media/) — Comparative Media — cross-title and cross-medium analysis, including the Mass Effect character-monograph study.
 - [`doujinshi-fanwork-comparative-taxonomy/`](doujinshi-fanwork-comparative-taxonomy/) — Doujinshi/Fanwork Comparative Taxonomy — approved text and machine-readable projections for the comparative taxonomy project; the native XLSX remains REFERENCE_DRIVE.
-- [`pactrih-ethical-topology/`](pactrih-ethical-topology/) — PACTRIH Ethical Topology — methodology scaffold and routing for future canonical data, interactive artifacts, validation tooling, and audits.
+- [`pactrih-ethical-topology/`](pactrih-ethical-topology/) — PACTRIH Ethical Topology — Seven-axis comparative ethical topology for fictional characters/entities, factions and historical agents, with canonical numerical data and a verified interactive atlas.
 - [`project-itoh-genocidal-organ-harmony/`](project-itoh-genocidal-organ-harmony/) — Project Itoh — Genocidal Organ and Harmony: From Genocidal Grammar to the Maelstrom — Source-verified comparative chronology, causal continuity and ethical-literary synthesis connecting Genocidal Organ and Harmony without altering either novel's frozen reading.
 
 <!-- END GENERATED STUDY CATALOG -->
