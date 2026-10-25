@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_analysis_contract
 scope: SOURCE_GROUNDED_CHARACTER_RECONSTRUCTION
-generation: V0.19
+generation: V0.20
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -31,11 +31,29 @@ Historical boundary: no character monograph was present through V03. V10's added
 | Wilhelm van Astrea, Japanese main LN V01–V16 | [Integrated model](REZERO_WILHELM_VAN_ASTREA_V01_V16_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_WILHELM_VAN_ASTREA_V01_V16_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND after eight grouped first-draft repairs; full gate0c9c3585 complete before Crusch16, not independent/held-out/runtime/global grade |
 | Crusch Karsten, Japanese main LN V01–V16 | [Integrated model](REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_CRUSCH_KARSTEN_V01_V16_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND after six grouped model repairs/two review-wording clarifications; full gate9131ffb6 closed before Ferris16, not independent/held-out/runtime/global grade |
 | Ferris / Felix Argyle, Japanese main LN V01–V16 | [Integrated model](REZERO_FERRIS_FELIX_ARGYLE_V01_V16_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_FERRIS_FELIX_ARGYLE_V01_V16_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND after nine scoped findings/one minor editorial repair and three review-only clarifications; full gate38bfed01 closed before V17, not independent/held-out/runtime/global grade |
-| Mimi, Japanese main LN V01–V17 | [Integrated model](REZERO_MIMI_V01_V17_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_MIMI_V01_V17_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after ten grouped findings/eighteen exact model edits and one review-only temporary-support clarification. Default livingunconsciousE021; own complete publication gate before V18, not independent/held-out/runtime/global grade |
+| Mimi, Japanese main LN V01–V17 | [Integrated model](REZERO_MIMI_V01_V17_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_MIMI_V01_V17_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after ten grouped findings/eighteen exact model edits and one review-only temporary-support clarification. Default livingunconsciousE021; own complete gatea453ba89 closed before V18; exact V17scope/default/local grade unchanged, not independent/held-out/runtime/global grade |
 
 For the Subaru model, default is latest reached **terminal E013/death13**. A living action/dialogue task must explicitly select a supported preterminal phase and its knowledge, remembered history, recipient, role and resources. Current Rem cannot answer; generated Kenichi/Naoko are not real parents' present receipt; no E014 arrival, unobserved remedy, active IF-family biography or anime performance is supplied. The model compiles24 derived rules/28 evidence bundles/eight noncanonical probes; it adds no narrative source or canonical generated scene. Master §13 remains readiness owner and five specialist ledgers remain state authorities. Otto's different V01–V13 scope/default and separate publication gate are described below; neither model silently inherits the other's coverage.
 
 `../00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` is the controlling detailed protocol. It defines the seven-axis state selector, ordinary-life and relationship responsibilities, Japanese-register discipline, failure and negative controls, abstentions, unfamiliar probes, and the first mature-character fidelity audit. This README is the directory router and does not duplicate that contract.
+
+## Current V18 source boundary and earned Priscilla construction
+
+V18's admitted Japanese original is actually fully consumed; the complete synchronized transaction still requires its own publication gate. All44older frozen artifacts/twelve model-review pairs above remain exact/source-bounded, and Mimi17's complete gatea453ba89 is closed before this source. Current377claims/five owners keep livingE021/20deaths21segments, K654/M408/I353/R138/RT327. Earlier 'Current VNN' headings below record their historical review boundaries; their old pending statements are not new duties to repeat.
+
+**Priscilla V01–V18: MONOGRAPH_READY—construction and separate actually applied19-dimension review EARNED_NOT_IMPLEMENTED_OR_GRADED.** Existing ordinary/adverse/authority/recipient/voice/failure/counterexample breadth now warrants an integrated bounded reconstruction; it is not a demand for every secret or a perfect person. Actual Schult care, Subaru/Al-directed harm, accepted earlier artist refusal, current pride pressure, stated surprise at rejecting electoral death benefit and self-staked artistic trust require different conditions. Master§13 owns the full reason/source routes, including actual p-006#B0824–0835.
+
+After V18's complete gate, perform PRISCILLA_V01_V18_MODEL_AND_FIDELITY_REVIEW: exact older Japanese reconciliation, one integrated seven-axis model, separate actually applied19dimensions/negative controls/bounded NONCANONICAL_PROBE cases/abstentions, complete saved-content/source/name-reference review and its own full publication gate before V19. Default is latest livingE021Fourth assignment/departure with Liliana; outcome unread. No model/review file or grade is created merely by this router. Do not infer uniform kindness/cruelty, all-refusal tolerance, universal favor/immunity or complete Al biography.
+
+Other current use requires explicit V18 body/holder/recipient reconciliation: Crusch wakes/refuses/sleeps, Beatrice/Mimi cannot newly reply, Emilia's refusal/positive future choice precedes rescuers, Wilhelm's correction remains privately held, Otto's errand motives/interception have separate audiences and Al's warning/thanks do not establish full agreement. Named child life and prebroadcast restraint are not a whole-city cure or sole-hero effect. Historical Subaru10/Otto13/Emilia14/Beatrice15/Garfiel15/Ram15/Roswaal15/Julius16/Wilhelm16/Crusch16/Ferris16/Mimi17defaults/local grades remain exact. Ram chronologyOPEN/C116-M344Frederica/Roswaal controls remain.
+
+Order: V18full gate → Priscilla own construction/review/full gate → sealedV19 → activecontinuousV43/terminal review. No sixth owner/index/field, global curation/evaluation write, Arc5-end/final specialist or ordinary pause. Incoming/outgoing seals remain literal; source43/V41exception/datedgaps unchanged.
+
+### Exact entering Mimi implementation-table binding — historical
+
+````markdown
+| Mimi, Japanese main LN V01–V17 | [Integrated model](REZERO_MIMI_V01_V17_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_MIMI_V01_V17_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after ten grouped findings/eighteen exact model edits and one review-only temporary-support clarification. Default livingunconsciousE021; own complete publication gate before V18, not independent/held-out/runtime/global grade |
+````
 
 ## Current V17 source boundary and earned Mimi construction
 
