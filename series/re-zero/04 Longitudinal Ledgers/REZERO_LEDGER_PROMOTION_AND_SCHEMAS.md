@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.31
+generation: V0.32
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,7 +24,7 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master was backfilled from frozen V01/V02 and now owns the full-gated V17/current371claims/person/ordinary/Japanese/prospect/readiness state. Event/knowledge/mechanics/institution/relationship remain five sole owners. V17 gatecfad8d70 and eleven earlier model/review gates are closed; all42 entering protected artifacts retain exact scopes/defaults/local grades. Mimi V01–V17 model/separate actually applied nineteen-dimension review is implemented at PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY; its own complete publication gate remains before V18. Earlier phase reviews below are historical, not new pending gates. No field, formal protocol or reserved candidate/schema contract changes.
+The master was backfilled from frozenV01/V02 and now owns currentV18/377claims/person/19ordinary/17Japanese/prospect/readiness candidates. Five sole owners remain eventE021/K654/M408/I353/R138/RT327;125individualRdecisions=48advance/77literal preserve,13newR/39newRT/all288olderRTexact. All44older frozen artifacts/twelve historical pairs and Mimi17's closed full gatea453 remain exact. Priscilla V01–V18construction/separate applied19-dimension review is earned, not implemented/graded, after V18full gate and before V19. Earlier phase reviews below are historical, not gates to repeat. No field, selector, formal fidelity dimension or registered candidate/schema contract changes.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
@@ -131,6 +131,14 @@ V17 full publication gate → Mimi V01–V17 model/separate actually applied nin
 Mimi's [V01–V17 model](../05%20Character%20Analysis/REZERO_MIMI_V01_V17_CHARACTER_MODEL.md) and [separate review](../08%20Audits%20and%20Manifests/REZERO_MIMI_V01_V17_FIDELITY_REVIEW.md) implement the existing selectors/rules/ordinary/recipient/voice/care/failure/abstention/probe responsibilities at actual nineteen-dimension PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY.35bounded revisits/22bundles/20rules/23controls/8NONCANONICAL_PROBE applications are traceability, not new field contracts or a count-driven owner.
 
 Current371claims/five owners, all42 entering freezes/eleven older scopes/defaults/grades, exact V18 prospect and formal/reserved tails stay unchanged. Master alone owns current readiness; its measured1048269-byte candidate fits1MiB without an additional rollover. No separate ordinary/voice/readiness/evidence-index duty, sixth ledger, global grade, source admission or specialist is earned. LivingunconsciousE021 default denies new speech/assent/cure; earlier waking use is explicitly selected. This pair's own complete publication gate precedes V18 and continuous activeV43. The entire registered candidate/schema tail below remains byte-exact.
+
+### Post-V18 ownership and measured historical-storage review
+
+377claims/371individual dispositions223P/110S/30R/8O+6NEW, actual60Q/10P review and exact outgoingV19seal use the same contracts. Source-coded local restraint, one-way listeners, private warning/thanks, contested blame, patient refusal and current dormant bodies require accurate existing fields, not a new schema. Master alone owns29revised person rows/3new bounded cases,19ordinary/17Japanese observations and readiness. Priscilla's new construction is separate and not a local/global review result here.
+
+The complete1320667-byte pre-rollover master exceeds1MiB by272091against208659old-log headroom. Exact historical claim spans move to the existing changelog and older readiness/nonclaim preimages to a real [history archive01](REZERO_PROJECT_HISTORY_ARCHIVE_01.md), with original-heading routes and native inverse. The exact old map is preserved at its project-root link base in the [changelog](../REZERO_PROJECT_CHANGELOG.md#v18-entering-corpus-map). Current/entering claim bodies, both prospective bodies and the older master14prefix stay exact. Final refined master1036296bytes fits without an exception, sixth current owner or independent index. All44frozen artifacts/formal contracts remain protected.
+
+V18full gate → earned Priscilla integrated model/separate applied review/own full gate → sealedV19 → continuousV43/terminal review. No Arc5-end/final specialist, new source or ordinary pause; the entire registered tail below remains byte-exact.
 
 ### Registered exact candidate homes
 
