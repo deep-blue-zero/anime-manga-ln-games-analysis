@@ -16,7 +16,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-16
-last_updated: 2026-08-16
+last_updated: 2026-10-24
 ---
 
 # To Be Hero X V2 — Targeted Audiovisual Evidence Ledger
@@ -347,6 +347,19 @@ No new Queen↔Qīng conclusion should be propagated from this packet alone. The
 
 ---
 
+## E05–E07 Gemini V2 accepted tranche — 2026-10-24
+
+Archive SHA-256 `7114b52b2d873fb1505546f3962ba0b61317f4ca6e7b373be5525813a0fea216`; 28 members/27 verified payload checksums. The 30-finding matrix was recorded before canonical edits. [Formal audit](Targeted%20AV%20Evidence/TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md) owns full provenance, timing, form, source QA, and Phase 5 routing; [Yan causal audit](Targeted%20AV%20Evidence/TBHX_V2_E05-E07_YAN_MO_RETROSPECTIVE_AV_EVIDENCE_AUDIT.md) owns commission/coercion/disposal/strategy.
+
+| Entry | Current transition | Accepted evidence / limitations | Propagation |
+|---|---|---|---|
+| `TBHX-AV-E05-001` | `REVISE / STRENGTHEN` | Native WEB 0 at 20:33.000; solid 1 at 20:35.200. No universal person-to-point equation or frame-exact duration. | master; mechanics; Specialist 07; Doc 18 queue |
+| `TBHX-AV-E06-001` | `REVISE` | Native Chinese conditional support/no indefinite waiting; actual Japanese localization differs. No abandonment/hero-status condition; audio delivery unverified. | master; relationships/Chinese; Specialists 07/16; Doc 17 |
+| `TBHX-AV-E07-001` | `REVISE` | Yang-centered recollection is high visual inference; displayed Shang/Xia names preserved; focalizer not every speaker; guilt not intentional non-rescue. | master; Specialist 07; Chinese/Doc 17; Docs 18–20 queue |
+| `TBHX-AV-E07-002` | `REVISE / STRENGTHEN` | Retrospective paid commission plus coercion/disposal/expectation engineering; intended Yang versus actual Shang; unresolved administrative chain and foresight retained. | master; mechanics qualification; Specialist 07; institutional/Phase 5 retrieval |
+
+Both are completed analytical audits within their stated source scope. Codex used targeted contact sheets and individual native/source screenshots, text witnesses, and metadata; no independent continuous playback or audio audition is claimed. Producer reports retain attribution. Remaining obligations `AV-D01–07` explicitly cover continuous timing, shooting/voice turns, Cyan-specific concern, original-speed audio/music, release alignment, proposed agency line, and administrative/disposal detail. Full-season coverage remains external work; Documents 18–20 await complete-season evidence. Frozen episode bodies are unchanged.
+
 # 7. Requested targeted-review queue
 
 This queue records sequences where continuous audiovisual review is likely to change analytical confidence rather than merely illustrate an already secure screenshot claim.
@@ -386,6 +399,21 @@ When a new targeted clip is supplied:
 For an ambiguous clip, retain the media and mark the claim `OPEN`; evidence preservation does not require forced interpretation.
 
 ---
+
+### Incremental Gemini arc-bundle integration
+
+The same intake procedure applies to each separately supplied arc ZIP:
+
+1. Fetch live integrated authority and the stable series branch; resolve current-state routing and read every maintained document before changing it. Compare the producer baseline with the integrated series state.
+2. Verify archive/member hashes and inventory. Read supporting witnesses and review/remediation records; distinguish document instructions from the user-authorized task. Preserve the received version externally.
+3. Identify release/source hashes and native clocks. Record segment-specific subtitle/clip mappings; never assume a constant offset across advertisements, edits, or different releases.
+4. Record a finding matrix **before canonical claim edits**: prior ID/section, producer claim, source/locator, actual independent verification, judgment/alternatives, confidence, transition, destination, and blocking source gap.
+5. Check consequential disputes in original media or existing full-resolution screenshots. Contact sheets locate evidence; continuous motion and original-speed listening govern claims requiring them. Model agreement, default QA tags, filenames, and matching export fields are not verification receipts.
+6. Declare exact change paths; preserve frozen readings and historical claims. Put accepted analysis in existing topical/master/specialist homes and the two responsibility-specific audit types; keep named debts OPEN rather than inventing resolution.
+7. Preserve retrievable evidence for Documents 17–20 while retaining complete-season scope. Do not expand to new arcs, source reconstruction, global governance, character registries, or later phases without authorization.
+8. Validate/preflight the exact series index, review/stage exact paths, use approved identity, fetch/reconcile before push, publish the continuing series PR, and confirm its exact-head Repository integration audit. Record actual main status and a durable publication receipt; stop for the next supplied bundle.
+
+Raw clips, screenshots, complete subtitles, and archives stay in the approved external evidence plane. Packet folders in analytical Git hold only references, hashes, adjudication, and analysis; earlier raw-source-folder examples are logical packet identities, not permission to commit the source binaries. A new bundle may revise an earlier accepted finding only through an explicit transition with its new evidence.
 
 # 9. Retrieval order
 
