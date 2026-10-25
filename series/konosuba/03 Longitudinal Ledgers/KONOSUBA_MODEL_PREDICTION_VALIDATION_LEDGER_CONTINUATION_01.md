@@ -687,3 +687,17 @@ C47 freezes nine foundation bodies after twenty complete author-review pages and
 C48 freezes eight foundation objects after20full review pages/two precision pages,then ten exact-input objects after seven full pages/two clarification pages. Four genuine English ordinal-one originals are authored once,sealed and received before feedback. Two dependent informed-author pairs vary prior reassurance and recognizable voice in an explicit human rehearsal analogue. A changes warrant with coy pacing and limited action discrimination. Both Bcostumes stop; B2invents a prior loneliness explanation absent from its input,while both Bcases add unsupplied prior vocal states. Generic horror,ordinary performer/courtesy,prompt following and cross-pair contamination rivals remain. No original,model,rule,input or old score is repaired after feedback. No independent baseline,accuracy,grade,confidence gain,Japanese proof or final StageD credit follows.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+C49 earns four Tier2monographs and two Tier1profiles,with no new reconstruction models,rules,scenario inputs or first outputs. Dense source description does not isolate generators from role,danger,presentation and information rivals. All71entering model bodies,old originals,prediction strings,outcomes,scores and adverse histories remain exact. Eris’s qualified tactical/resistance assessments remain forecasts,not performed alternate fights;MAIN16U010310 is Megumin’s forecast,explicitly tagged312. No known-source material becomes a pristine holdout or final StageD battery. The six separate principal/party/transfer successors remain owed.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+C50 adds eighteen bounded profile passages and55 individual proportional dispositions, with no new models, rules, scenario inputs or original outputs. All71 model bodies and all prior original forecasts, outcomes, adverse findings, scores, blanks and nulls remain exact. Source-known returns do not become prospective holdouts; different focalizers do not become independent trials. The six distinct StageD successors and final battery remain separately owed. Existing adequate incidental homes remain sufficient without a forced generator or an immutable future ceiling.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

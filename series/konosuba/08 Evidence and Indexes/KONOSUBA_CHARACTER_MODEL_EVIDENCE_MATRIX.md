@@ -1332,3 +1332,27 @@ Current70model artifacts/64source-scoped secondary entries,184retained profile p
 C48 adds one restricted provisional Amaryllis model with AMR-R01/02,two eight-field rules. Stella and the unnamed vampire receive substantial monographs without forced generators; Gil,Gain and the sister have bounded profiles,Stesky a report-only entry. Six further supporting encounter profiles accompany38typed source/access routes. Candidate71model artifacts/65source-scoped secondary entries,193bounded-profile passages,60monograph-only studies and732nonfinal records are not unique people or mature performance. All70entering models,old originals,scores,adverse findings,blanks and nulls stay exact. Four new English originals/two dependent pairs retain adverse information/voice findings and no independent generic run,grade,confidence gain or final-battery credit.
 
 [Current evidence index](KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C48 author gate closed; restricted Amaryllis scope retained — 2026-10-25T15:34:12.683921+00:00
+
+Current 71 model artifacts/65 source-scoped secondary entries, 193 profile passages, 60 monograph-only studies and 732 nonfinal records are evidence-scope counts. Source 8c09e83d passed its own full 479-test audit 40206751488, all 60 remote changed streams, the 1,718-file/71-model authority reload and fresh 14-EPUB/20-member correspondence. All 194 preservation checks passed. Forty-five status routes close without changing substantive source interpretations; 687 other rows and 19 historical differences remain exact. Protected integration and full-program completion remain separate. These closing bytes await the next coherent publication. Amaryllis remains restricted/provisional. Four English originals/two dependent pairs retain B2’s invented prior speech, both B prior vocal-state additions, coy A pacing and generic/prompt rivals. No model, rule, input, first or score is repaired, and no confidence gain is certified. The [author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json) is separate from protected integration and the still-due final battery.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+C49 adds four monograph-only studies—Pain,Mammon,the unnamed masked gatekeeper and the Demon King—and two bounded profiles for Logia and the daughter. No new generative model,rule,input or diagnostic first is justified. Candidate71models/65source-scoped secondary model entries remain unchanged;195bounded-profile passages/64monograph-only studies/732nonfinal records are source treatments,not unique people or mature capability. Six existing rows change,726others and19historical plane differences stay exact. All old models and frozen performance history retain authority;full-corpus curation and final tests remain separate.
+
+[Current evidence index](KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C49 author gate closed; no forced reconstruction — 2026-10-25T17:16:57.547309+00:00
+
+Current 71 model artifacts/65 source-scoped secondary entries, 195 profile passages, 64 monograph-only studies and 732 nonfinal records are evidence-scope counts. Source 85dc3c2f passed its own full 479-test audit 40214600785, all 33 remote changed streams, the 1,729-file/71-model authority reload and fresh three-EPUB/nine-member correspondence. All 207 preservation checks passed. Six status routes close without changing substantive source interpretations; 726 other rows and nineteen historical differences remain exact. Protected integration and full-program completion remain separate. These closing bytes await the next coherent publication. Four new monographs and two bounded profiles retain their different evidential responsibilities; no additional model, rule, input or first is supplied. All previous generated originals and scores retain adverse findings and uncertainty. The [author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT49_PUBLICATION_GATE_CLOSE_01.json) is separate from protected integration and the final battery.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+C50 adds18 bounded profile passages covering19 access rows, because the two Eris records share one pair profile. It receives24 retained targets and31 new access routes;708 other entering records and19 historical plane differences stay exact. Proposed totals are71 models,65 scoped secondary model entries,213 profile passages,64 monograph-only studies and763 nonfinal access records. These count artifacts and source treatments rather than unique people or mature capability. Eleven already adequate incidental cases retain all eight entering core fields and receive additive C50 qualifications. No new model or grade is claimed.
+
+[Current evidence index](KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

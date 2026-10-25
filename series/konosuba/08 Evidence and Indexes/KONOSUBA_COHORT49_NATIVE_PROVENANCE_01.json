@@ -1,0 +1,235 @@
+{
+  "schema": "konosuba.cohort49.native-and-existing-provenance.v1",
+  "source_boundary": "Known admitted MAIN17 and bounded known MAIN16/YORI04; no source admission or new whole-edition credit.",
+  "actual_primary_receiving": {
+    "file": "COHORT49_NATIVE_SOURCE_COMPLETE_RECEIVING_01.json",
+    "bytes": 7071,
+    "sha256": "dfd45f8464706068e8b2fa3be64ed96a0378623154c0a5de68ba6622b66be7b1"
+  },
+  "actual_related_receiving": {
+    "file": "COHORT49_RELATED_CONTEXT_COMPLETE_RECEIVING_01.json",
+    "bytes": 4050,
+    "sha256": "0515e52e65b9a96020484012d5daea9d84028e5c61fd05903371a3ff703f30bd"
+  },
+  "source_bindings": [
+    {
+      "source_id": "MAIN-17",
+      "native_filename": "Konosuba - Main Series - Volume 17.epub",
+      "native_bytes": 2197695,
+      "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "opf": "content.opf",
+      "OPF_sha256": "bcb1fa6a6479b790f3edea18a9d00ed3fff6fcf4c16bfc2d6e9cb9dc02ad4d7c",
+      "source_known": true
+    },
+    {
+      "source_id": "YORI-04",
+      "native_filename": "Konosuba - Short Stories - Yorimichi 4.epub",
+      "native_bytes": 10437818,
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "ca1a08ee4b2ce96e79897b9f9fb12c142e685c24027335f860e457b705a998e2",
+      "source_known": true
+    },
+    {
+      "source_id": "MAIN-16",
+      "native_filename": "Konosuba - Main Series - Volume 16.epub",
+      "native_bytes": 8530869,
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "9bf3cb7daa5812197253e8f5328e624ceee6b367f0a0ce895b3729fc31d6721e",
+      "source_known": true
+    }
+  ],
+  "members": [
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U011",
+      "member": "text/part0009.html",
+      "member_sha256": "8d1d0017ca714c02613753f0a7811f0cd7d1ee3e7691cff5029765548338f90a",
+      "actual_ranges": [
+        [
+          1,
+          591
+        ]
+      ],
+      "actual_unique_structural_P": 591,
+      "actual_ruby_occurrences": 546,
+      "actual_complete_text_member": true,
+      "classification": "NARRATIVE_CHAPTER"
+    },
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U012",
+      "member": "text/part0010.html",
+      "member_sha256": "beb44a5a379c32617f442231d29760eafd4897fc2e1b29ee6847390d1cb73118",
+      "actual_ranges": [
+        [
+          1,
+          575
+        ]
+      ],
+      "actual_unique_structural_P": 575,
+      "actual_ruby_occurrences": 546,
+      "actual_complete_text_member": true,
+      "classification": "NARRATIVE_CHAPTER"
+    },
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U013",
+      "member": "text/part0011.html",
+      "member_sha256": "bc9d7f4f238f0c0d8512bb29dc071d3f24ddcf7bb0c6e9cf7891ea66ad8e310e",
+      "actual_ranges": [
+        [
+          1,
+          560
+        ]
+      ],
+      "actual_unique_structural_P": 560,
+      "actual_ruby_occurrences": 499,
+      "actual_complete_text_member": true,
+      "classification": "NARRATIVE_CHAPTER"
+    },
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U014",
+      "member": "text/part0012.html",
+      "member_sha256": "43b8bcea92d4723fb7ea62d3d84cb6e2e862c0ac9c3c596c088d455a741e6b84",
+      "actual_ranges": [
+        [
+          1,
+          789
+        ]
+      ],
+      "actual_unique_structural_P": 789,
+      "actual_ruby_occurrences": 615,
+      "actual_complete_text_member": true,
+      "classification": "NARRATIVE_CHAPTER"
+    },
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U015",
+      "member": "text/part0013.html",
+      "member_sha256": "9df7d8a8ed2c8f0f42e28d261b11045e6ac593e8d5ec3fc56ab3a62e282071fd",
+      "actual_ranges": [
+        [
+          1,
+          93
+        ]
+      ],
+      "actual_unique_structural_P": 93,
+      "actual_ruby_occurrences": 63,
+      "actual_complete_text_member": true,
+      "classification": "NARRATIVE_EPILOGUE_ERIS_FOCALIZATION"
+    },
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U016",
+      "member": "text/part0014.html",
+      "member_sha256": "0e6c75df4820ebbb68b8b42bb6e6348d17c9d41e2558c13c752f67b942bbe846",
+      "actual_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "actual_unique_structural_P": 37,
+      "actual_ruby_occurrences": 60,
+      "actual_complete_text_member": true,
+      "classification": "CREATOR_AFTERWORD_PARATEXT_NOT_NARRATIVE"
+    },
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U018",
+      "member": "text/part0016.html",
+      "member_sha256": "18e20df357ea37a5458cf3c12699286281f2be76dfb73f238284f65cd2d9e13e",
+      "actual_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "actual_unique_structural_P": 18,
+      "actual_ruby_occurrences": 6,
+      "actual_complete_text_member": true,
+      "classification": "PUBLICATION_COLOPHON_NOT_CHARACTER_EVIDENCE"
+    },
+    {
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+      "actual_ranges": [
+        [
+          500,
+          558
+        ]
+      ],
+      "actual_unique_structural_P": 59,
+      "actual_ruby_occurrences": 6,
+      "actual_complete_text_member": false,
+      "classification": "NARRATIVE_BOUNDED_CONTEXT_WITH_ATTRIBUTED_REPORT"
+    },
+    {
+      "source_id": "MAIN-16",
+      "component_id": "MAIN-16-U010",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_sha256": "aac0476d3091ee405a7becfd1362e430bfe1b60ea423dd7b76f7689131ef9eb9",
+      "actual_ranges": [
+        [
+          260,
+          321
+        ]
+      ],
+      "actual_unique_structural_P": 62,
+      "actual_ruby_occurrences": 56,
+      "actual_complete_text_member": false,
+      "classification": "NARRATIVE_BOUNDED_CONTEXT_WITH_ATTRIBUTED_REPORT"
+    }
+  ],
+  "actual_context_counts": {
+    "known_EPUB_objects": 3,
+    "text_members": 9,
+    "complete_narrative_members": 5,
+    "complete_creator_afterwords": 1,
+    "complete_publication_colophons": 1,
+    "bounded_comparison_members": 2,
+    "narrative_unique_structural_P": 2729,
+    "creator_structural_P": 37,
+    "colophon_structural_P": 18,
+    "total_unique_structural_P": 2784,
+    "ruby_occurrences": 2397,
+    "complete_native_review_pages": 61,
+    "complete_existing_authority_review_pages": 18
+  },
+  "existing_authority_receiving": {
+    "rows": [
+      75,
+      78,
+      127,
+      128,
+      137,
+      692
+    ],
+    "distinct_canonical_private_rows_received_separately": [
+      78,
+      137
+    ],
+    "documents": [
+      "KONOSUBA_NOS_CHARACTER_MONOGRAPH.md",
+      "KONOSUBA_NOS_EVIDENCE_INDEX.md",
+      "KONOSUBA_NOS_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json"
+    ]
+  },
+  "source_classification": "U015 fictional Eris focalization; U016 explicit creator commentary; U018 publication colophon. Letter, testimony, proposal, retrospective exposition and tentative visual identification remain distinct.",
+  "source_known_same_informed_root": true,
+  "prior_text_ruby_image_and_report_exposure_retained": true,
+  "current_images_viewed": 0,
+  "current_nonparagraph_residuals_received": 0,
+  "new_source_admission_whole_edition_global_first_or_independent_credit": 0,
+  "independent_observation_count": null,
+  "new_models_rules_inputs_or_firsts": 0,
+  "canonical_adoption_at_receiving": false,
+  "final_individual_census": false,
+  "full_program_complete": false,
+  "private_native_arrays_images_caches_or_absolute_local_paths_exported": false
+}

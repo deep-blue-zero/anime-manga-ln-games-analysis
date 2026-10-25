@@ -1455,3 +1455,17 @@ Kazuma's death to the Winter Shogun MAIN02U014213-224 is an actual cost, without
 Amaryllis stops on Vanir voice320 and changes register321 before his explicit companion disclosure324; apology/explanation follows325. Rank,familiarity,surprise,etiquette and affiliation remain intertwined. The vampire abandons ceremonial intimidation for courtesy and surrender under overwhelming pressure; personal attachment survives in his relief when the offered ring is declined. Stella updates blame and stops with the injured party member while afraid. These local changes do not establish a single universal threshold,altruistic rescue law or generic obedience policy.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Mammon stops further humiliation334 but retains hostages and armed coercion;earlier hesitation and public rebuke prevent a single-cause moral rule. Pain corrects a friend’s catastrophic strike and requests restraint467 without abandoning hostility493. The king’s rejection of a draw443 changes after visible Explosion446–451;his fear/resource appraisal does not establish general generosity. Claims of fair-duel obligation are contested by his actual return attempts and qualification of the challenger22. All are local changes with competing mechanisms,not new generative rules.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+The butcher changes sanction after Iris intervention while retaining a warning. Eris pair alarm/comfort under feigned distress limits their antagonism without proving permanent repentance. The apple helper's assistance does not negate her later refusal. Hall guards' inhibitions coexist with coercion and armed response; protectors shield the apparent daughter while fleeing bombardment. Situation, information, reputation, role and self-preservation remain competing explanations. No isolated generative switch or universal moral exception is inferred.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

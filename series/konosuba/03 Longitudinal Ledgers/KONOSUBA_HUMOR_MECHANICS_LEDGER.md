@@ -2141,3 +2141,17 @@ The transfer choice reverses Aqua's administrative position MAIN01U013130-147; t
 The dungeon rescue is also a successful sale227/239,while Stella mistakes a devil for a humble divine rescuer234-249. The boss owner offers tea486 and later contemplates tomatoes rather than staging a duel. Intimidating summoned bodies453 give way to workload/clothing complaints456-459 and Kazuma loss of fear460. Amaryllis frightening performance changes into courteous conversation321-328; the fabricated biography remains a lie with actual frightened listeners,not harmless consent supplied by comic framing. Humor does not complete retirement,pet recovery,teleport negotiations or every character private motive.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Gatekeeper interruption,regeneration and failed attrition combine actual capacity with refused ceremonial turns. Kazuma embellishes one lip-read insult134–135,while142 contains genuine derision. Pain’s friendly-fire scene includes actual Logia death and his own distress;comic framing does not remove harm. Mammon’s public fear denial follows anxious information gathering;his later corpse does not isolate its killer. The king’s elevated identity yields to managerial grievance and uncertain bargaining;withheld explanation is deliberate retaliation388. Ending logistics and Eris’s epilogue misapprehension are corrected by living Teleport,not another death.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+The shooting operator's police appeal reverses onto his stall; the butcher's alleged leading-question trap follows Cecily volunteering the rumor. Pub-manager clipped dismissal frames an interrupted explanation. Tea-service repetition punishes an apparently innocent worker, so comic repetition does not multiply performed blows. Voice imitation changes the interceptors' apparent count-in; Decoy redirects their real attack. Embedded lord fiction, creator modal sketches and approaching sounds retain different access from performed main-setting actions. Comic presentation does not settle identity, consent or casualty outcomes.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

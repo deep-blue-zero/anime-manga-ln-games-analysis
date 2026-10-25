@@ -2108,3 +2108,17 @@ Keele's formal self-presentation, time correction, proud history, uncertainty an
 Stella has her own first-person appraisal,urgent reply,apology and devotional thanks. Gil own requests/instruction/thanks are tagged; later shopping turns are not. Amaryllis plain私/sibling address/repeated promise pressure309 shifts to respectful address321 andわたくし325. The vampire moves from a ceremonial introduction477 to hesitant courtesy486 and modest attachment540. Three worker complaints456-458 remain untagged,not three named idiolects. Four English firsts retain coy under-amplification,polished transfer phrasing and unsupplied prior vocal states; they certify neither Japanese pragmatics nor acoustics.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Pain’s genuine thought brackets differ from Kazuma’s imitations;colloquial challenge,urgent explanation467 and qualified affinity493 have distinct functions. Logia’s own assignment order403 is not every trio line. Mammon’s question list175,apology205,hesitation306,stop334 and repeated self-naming350 vary within rough speech. Gatekeeper ceremony96/108 becomes fragmented134 and practical142 through Kazuma-mediated lip reading. The king’s 我/貴様 stance,managerial lists,私 full-name turn367 and changed negotiation remain contextual. No daughter utterance is supplied. No full grammar,acoustic measurement or Japanese adequacy grade follows.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+Butcher confrontation shifts to hesitant retraction; campaigner polite solicitation contrasts farmer plain responses; the child maintains a resource objection under pressure. The pub manager repeats クビ around a brief hearing. Mary formal summons is actual, while Heidel proposals are not her performed choices. The server's ちゃんと/違います protests differ from commands; one interceptor's katakana voice is locally recognizable, but Kazuma404is imitation. Library colloquial denial contradicts Megumin staged accusation. Pair letters, reports and unassigned group speech do not create full individual grammar or acoustic proof.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -2115,3 +2115,17 @@ Kazuma's initial chest-mimic classification MAIN02U015236 is corrected by Aqua's
 Stella corrects her first impulse to blame Gain180 after seeing his wound181,then warns the stranger204; she later misreads Vanir divine objection235 as religious humility238. Accuracy varies within one actor. Vanir wild/untrained guess217 does not resolve pet ownership. Kazuma recognition of standing male shop regulars122 adds an interpretation to civic affection113,not proof that every speaker lies. Luna actually checks cards109. Fabricated chimera biography283/286 is explicitly disavowed328; Kazuma abandonment inference287-288 does not instantiate real parents or an experimenter. The motorcycle memory317 does not establish romance or senior gender.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Mammon notices the false Nos’s register but misclassifies it123;his correct corpse recognition yields a wrong human-killer inference93. Aqua purifies the tea203,so server punishment217 is not proof of servant sabotage. Initial hesitation306 precedes Mitsurugi’s rebuke321,posture recovery325 and restraint334;face,cruelty inhibition and tactical sufficiency remain rivals. The king correctly diagnoses delay38–40 yet misidentifies the charm80 and revises his Explosion/class expectation295/453. Competence and error vary within actors; no uniform stupidity or omniscience.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+The butcher retracts his police threat locally; the festival child combines skepticism, allowance limits and distress. The target-game operator's appeal to police brings enforcement on his own stall. The pub manager's nodding does not rescind dismissal; Megumin hot-oden account is interrupted before a completed act. Megumin's library-classmate accusation is denied, and she admits her own intervention motives. The intervening policeman initially follows a misleading account but also asks the fleeing pair to stay. No error is made into a universal incompetence trait.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
