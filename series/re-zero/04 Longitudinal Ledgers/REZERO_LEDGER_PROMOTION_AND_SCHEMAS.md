@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.33
+generation: V0.34
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,7 +24,7 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master was backfilled from frozenV01/V02 and now owns verifiedV18/377claims/person/19ordinary/17Japanese/prospect/readiness. Five sole owners retain unchanged analytical records/history, with only current-status paragraph synchronization: eventE021/K654/M408/I353/R138/RT327;125individualRdecisions=48advance/77literal preserve,13newR/39newRT/all288olderRTexact. V18full gate closed through PR323/integratedmain10576e0d; all45entering protected artifacts/twelve earlier pairs retain exact bytes/scopes/defaults/local grades. The thirteenth Priscilla V01–V18model/separate actual19-dimension review is implemented at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after13grouped findings/28controls/8NONCANONICAL_PROBE applications; own publication gate pending before sealedV19. Bounded original-source revisits add no source unit or claim generation. Earlier phase reviews below are historical, not gates to repeat. No field, selector, formal fidelity dimension, registered candidate/schema contract, sixth owner, independent index or global capability changes.
+The master was backfilled from frozenV01/V02 and now owns actualV19/393claims/current persons/24ordinary/21Japanese/prospect/readiness. 393claims; eventV2.3/E021/20Subaru deaths/21segments, knowledgeV2.3/K705, mechanicsV1.12/M442, institutionV1.16/I379, relationshipV1.10/R155/RT363. All138entering relationships have24advance/114literal-preserve decisions;17newR/36newRT preserve all327older transitions/ancestry/preimages. Master owns32advanced person rows/one bounded Dainas case/24ordinary/21Japanese/prospects/readiness. Thirteen historical model/review pairs, including full-gated Priscilla18, and all47entering protected artifacts retain exact bytes/scopes/defaults/local grades. This V19transaction requires its own full gate, then the earned Liliana and Regulus integrated constructions/separate applied19-dimension reviews with separate complete gates before V20. No new construction/pass is claimed here. Earlier reviews below are historical; no field, selector, formal fidelity dimension, registered candidate/schema tail, sixth owner, independent index or global capability changes.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
@@ -140,6 +140,18 @@ The complete1320667-byte pre-rollover master exceeds1MiB by272091against208659ol
 
 V18full gate → earned Priscilla integrated model/separate applied review/own full gate → sealedV19 → continuousV43/terminal review. No Arc5-end/final specialist, new source or ordinary pause; the entire registered tail below remains byte-exact.
 
+
+### V19 field-contract review
+
+Correctable trust, preserved53lives, private self-accounts, conditional already-bestowed awakening, body/permission direction, narrated actor and unfinished outcomes fit the existing five owners and master. All138relationship bases have individual decisions and all327older transitions/ancestry remain exact. File size earns only declared historical storage maintenance with complete preimages/native inverse, not another state owner or changed schema. V19complete publication/integration gate → LILIANA_V01_V19_MODEL_AND_FIDELITY_REVIEW/own full gate → REGULUS_V01_V19_MODEL_AND_FIDELITY_REVIEW/own full gate → unchanged final prospective V20 → sequential admitted units throughV43 → mandatory terminal architecture/state/role-gap/acquisition review. Neither earned new construction/review is implemented or graded here. CI handles merges; no ordinary unit/model pause.
+
+### V19 schema maintenance preserves the entering current-state paragraph — exact historical input
+
+Earlier current/pending labels retain their V18/input date; they are not current V19 work orders.
+
+````````````````markdown
+The master was backfilled from frozenV01/V02 and now owns verifiedV18/377claims/person/19ordinary/17Japanese/prospect/readiness. Five sole owners retain unchanged analytical records/history, with only current-status paragraph synchronization: eventE021/K654/M408/I353/R138/RT327;125individualRdecisions=48advance/77literal preserve,13newR/39newRT/all288olderRTexact. V18full gate closed through PR323/integratedmain10576e0d; all45entering protected artifacts/twelve earlier pairs retain exact bytes/scopes/defaults/local grades. The thirteenth Priscilla V01–V18model/separate actual19-dimension review is implemented at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after13grouped findings/28controls/8NONCANONICAL_PROBE applications; own publication gate pending before sealedV19. Bounded original-source revisits add no source unit or claim generation. Earlier phase reviews below are historical, not gates to repeat. No field, selector, formal fidelity dimension, registered candidate/schema contract, sixth owner, independent index or global capability changes.
+````````````````
 ### Registered exact candidate homes
 
 The V03 column preserves the prior review. V04 promotes the institution ledger; V06 promotes event and knowledge; V07 promotes mechanics; V09 promotes `REZERO_RELATIONSHIP_CONTINUITY_LEDGER.md` under its registered trigger. These five are instantiated sole current homes; other filenames remain reservations. Historical dispositions below are not overwritten by later promotion.
