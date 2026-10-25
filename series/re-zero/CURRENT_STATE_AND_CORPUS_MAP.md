@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.38
+generation: V0.39
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -65,7 +65,7 @@ Five owners remain sufficient: eventV2.2/E021, knowledgeV2.2/K654, mechanicsV1.1
 
 A complete pre-rollover master measured1320667bytes,272091over1MiB against208659existing-log headroom. Four exact old claim-history spans totaling173561bytes now route to the existing [changelog](REZERO_PROJECT_CHANGELOG.md#v18-lossless-historical-rollover);84598bytes of older readiness plus master nonclaim preimages route to [history archive01](04%20Longitudinal%20Ledgers/REZERO_PROJECT_HISTORY_ARCHIVE_01.md). The complete entering map stays at its original project-root link base in the [changelog](REZERO_PROJECT_CHANGELOG.md#v18-entering-corpus-map). Original-heading routers, full old log/master14prefixes, current377/entering371claim bodies, both prospective bodies and all44older frozen artifacts remain exact. The refined master1036296bytes leaves12280headroom; no limit exception or competing current owner is introduced.
 
-**Storage/measurement-only erratum to frozen V18 §17:** That section records the source-refinement snapshot, when the master measured1,036,398bytes and the first archive candidate also held the old map. Author preflight exposed incompatible inherited relative-link bases. The final arrangement keeps master-history in the ledger-directory archive and the old map in the root-level changelog; the live master now measures1036296bytes with12280headroom. No source-facing claim, prospective body, historical payload, model scope/default/grade or frozen V18 byte is changed by this routing correction.
+**Storage/measurement-only erratum to frozen V18 §§15 and 17:** Addressing [PR323's measurement finding](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/323#discussion_r4369078901), §15's `historical_size_duty` row records an earlier 1,036,243-byte candidate with 12,333 bytes of headroom; its “final exact” wording is superseded as a final-blob measurement. Section 17 records a later 1,036,398-byte source-refinement candidate with 12,178 bytes of headroom. Neither figure describes the committed final master. The [master](04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md) at source commit `2b235dd66da696a31a4bd5543f93671321aa04c1` measures **1,036,296 bytes**, leaving **12,280 bytes** below the 1,048,576-byte limit; its SHA256 is `c8fdaff1903a979cfea8d1eaa836151e0111efb48c87a22a49b1de48747b5209`. This committed-blob measurement supersedes both earlier size/headroom pairs for rollover auditing. Author preflight exposed incompatible inherited relative-link bases in the first archive arrangement, which also held the old map. The final arrangement keeps master-history in the ledger-directory archive and the old map in the root-level changelog. No source-facing claim, prospective body, historical payload, model scope/default/grade or frozen V18 byte is changed by this erratum.
 
 All12historical model/review pairs retain exact source scopes/defaults/local documentary grades. V18current-use reconciliation does not certify another horizon or grant a sleeping person a new reply/assent. Ram chronologyOPEN, C116/M344Frederica full-feline subject and Roswaal source/recipient/agency qualifiers remain binding. C095's actual private denial to Gallek is preserved; no Reala/children receipt is invented. Source43/V41exception/datedgaps and the nonspine firewall remain unchanged.
 
