@@ -1522,3 +1522,10 @@ ReturnedMAIN02P375-509retains Kazuma mistaken real-world bath-as-dream belief, a
 The informant alias and selective history shape the visitors’ sympathy. Their impostor suspicion is their interpretation, not objectively established impersonation. Kazuma’s improvised ecology and falsely credited foresight are not world facts. Pickles’s mediated testimony, Eibram’s corroboration, reported governance, observed toy handling and unanswered parentage have different warrants. Unnamed-clerk familiarity and a household-troop question do not supply personal identity.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+Kazuma’s weed explanation, spring-spirit reference, annual storm interpretation, noble confection-transmission history and inferred fairy gratitude are retained as inferences rather than independent fact. Darkness says she cannot touch Chomusuke atU022P16; Kazuma adds feeding and hand-removal18 and narrates Aqua-related scratching19. Family care of his Japan room is visible in effects but the individual carers are unbound. The train-station employee’s help is established by the companions’ aftermath account; the exact railway procedure is elided. The recruitment offer has no delivered refusal shown.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

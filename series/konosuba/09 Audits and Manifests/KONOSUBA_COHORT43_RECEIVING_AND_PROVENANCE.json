@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort43.receiving-and-provenance.v1",
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "received_utc": "2026-10-25T02:36:22.720524+00:00",
   "semantic_receiving_sha256": "fff3493e19a859ffc529aa09a8c2c8cac5395a05665b8633dd74a5fa1cf93127",
   "source_baseline": "17e6afe779dfacca8611596939b4fbc75633534a",
@@ -374,14 +374,7 @@
     "tests": 479,
     "review_resolved": true
   },
-  "publication_pending": [
-    "complete candidate review",
-    "exact-index author preflight",
-    "ordinary publication",
-    "whole-tree and changed-stream remote verification",
-    "full actual-source audit and latest trusted status",
-    "fresh authority reload"
-  ],
+  "publication_pending": [],
   "source_absolute_paths_in_public": 0,
   "full_program_complete": false,
   "candidate_census_identity_precision": {
@@ -409,5 +402,30 @@
     ],
     "all_foundation_models_rules_inputs_original_firsts_and_diagnostics_unchanged": true,
     "prior_candidate_only_no_canonical_error_published": true
-  }
+  },
+  "prior_cohort43_publication_status": {
+    "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+    "publication_pending": [
+      "complete candidate review",
+      "exact-index author preflight",
+      "ordinary publication",
+      "whole-tree and changed-stream remote verification",
+      "full actual-source audit and latest trusted status",
+      "fresh authority reload"
+    ]
+  },
+  "publication_resolution": {
+    "source": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
+    "tree": "28cc5cd0452c1eb388e8c3276c47a3048861eb92",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_PUBLICATION_GATE_CLOSE_01.json",
+    "gate_sha256": "424fb940e26dd4b2e6da6803e50afd81cef9b6cb1446fb0906d0dad2a3640d01",
+    "source_run": 40155746060,
+    "full_discovered_tests": 479,
+    "current_models": 64,
+    "author_publication_tranche_complete": true,
+    "protected_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 324
+  },
+  "current_gate_qualification": "All19 analytical cores,64 models and four original English firsts remain exact. Source-known diagnostics retain binding/transfer issues and no independent confidence gain. Forty-eight status/supplement records update;408 others and19 historical differences stay exact. Old231 tier/priority/disposition is unchanged. Prior candidate/main/pending statements remain dated history. Protected integration, final battery, StageD successors and full program are not completed by this author gate."
 }

@@ -1950,3 +1950,10 @@ Two substantial monographs treat the criminal chief and unresolved subordinate r
 Seven individual monographs cover Ozuma, Megumi, Rakuresu, Crow, Eibram, Pickles and the wallet-wager veteran. Only Ozuma earns a narrow two-rule provisional model. Akyua, the recruiter and two anonymous pairs receive four bounded profiles. Thirty-five sparse source/access routes and two bounded pair routes append, yielding 456 nonfinal records, not 456 people. Old deputy100 positively joins existing Lolierina231 with no new study credit; unrelated230 is unchanged.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+Six monographs cover the particular forest dryad, noble dinner host, white-tiger mother, Siegwald, unnamed Wolbach follower and storm great spirit. Only the dryad receives one provisional rule. Twenty-one bounded profiles and56 new source/access routes retain individuals, groups, reports and overlapping occurrences. Chomusuke21 receives a source supplement without another study; Anna118 stays unchanged pending adequate later treatment. Candidate512 records are not512 people.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

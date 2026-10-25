@@ -1617,3 +1617,10 @@ Selective no-touch/gentleness declarations coexist with abduction; actual protec
 The visitors have separate grief, family and territorial purposes. Ozuma’s protectiveness toward Megumi can also interrupt a correction. Eibram’s filial indulgence is not others’ consent; Darkness’s initial hug and later refusal differ. Crow and Wiz accept a peer contest but not every third-party intervention or continued contact after withdrawal. The client’s adoption reveal neither disproves attachment nor resolves biological parents. Lolierina100/231 is a positive same-scene join, not two new individuals.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+Maternal entrustment, the cub’s clinging, the mother’s pause and coercive transport of Aqua are observed separately from inferred thoughts or later training. The dryad’s claimed dependents shape a bargain without universal plant representation. The follower’s Wolbach reverence does not establish his personal identity as Hoost or Arnes. The dinner fairy’s movement and whispered contributions do not settle final custody or bind every supplier to the host. Three park men and two frog novices retain incomplete voice allocation; a group route is not a shared mind.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

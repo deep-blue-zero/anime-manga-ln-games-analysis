@@ -2069,3 +2069,10 @@ CoreC42reading3461unique currentP/3426ruby/10members/5DustEPUBs/50prepared pages
 C43 receives 2,116 current P / 2,017 ruby across seven members/two local EPUB objects/47 prepared-page displays: six complete YORI01 paragraph projections (U012336, U014353, U018398, U020312, U024472, U026208) and YORI02U018P209–245 only. Zero current image, nonparagraph-residual or whole-edition credit. Fixed-41 literal retrieval gives 196 leads, with 195 in the full current YORI01 scope and the sole outer cub-name lead inside the bounded YORI02 window. Retrieval is not absence, identity or independent-reading proof.
 
 [Current evidence index](KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+C44 receives2675 current paragraph slots/2530ruby in ten complete YORI02 paragraph projections: U012283,U014282,U016390,U018331,U020393,U022423,U024367,U02667,U02762,U02877, across57 actual page deliveries in one verified local EPUB. The C43 U018P209–245 window repeats explicitly. Zero current images, nonparagraph residuals, whole-edition or new global source-first credit. Earlier full-edition receipts retain their own dated scope. Derivative13-page and identity16-page context were fully received; all456 labels were routing only.
+
+[Current evidence index](KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

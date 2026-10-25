@@ -1420,3 +1420,10 @@ Retain paid kidnapping plan, forced exposure/sexual coercion, feigned hostage wi
 Crow’s predatory intentions remain harmful even though Aqua later coerces him. His vegetarian pledge is not fulfilled reform before purification. Pickles’s private wishes and legacy counsel retain invasive implications; Eibram explicitly declines to demand a blow. Rakuresu actually strikes the table after a selective account and separately reports striking an unwanted approacher. Reported bereavement, urgent injury help and actual survival requests must not disappear into the doubles joke.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+The dryad’s human-fertilizer threat and pressure after refusal remain adverse; a usable bargain does not establish harmlessness. The follower’s abduction and actual hostage threats survive the comic reversal, while final Explosion impact and fate are unshown. The mother’s removal of protesting Aqua remains coercive without an invented journey. Fairy wing-broth admission and flight are treated critically without graphic elaboration. Park-men predatory statements are not excused by the narrator’s early reassurance, but no completed offense or diagnosis is invented.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -1497,3 +1497,10 @@ Child birthday gift is actually returned; chief printed collection and money, ro
 Ozuma protects a paid informant’s unhurried meal and helps before a bargain; Megumi refuses one frog dish and explains her name. Akyua supplies hospitality and prayer without borrowing Aqua’s biography. The veteran wants quiet beer/snacks and gives peanuts before accepting a contest. Pickles’s guitar, garden and drink preferences are mediated/corroborated reports, not newly watched past activity. Eibram’s staff suspicion, diary privacy and family question matter alongside the haunting.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+Siegwald’s recovery, offered milk, play with Chomusuke, sleep, garment bedding and separation behavior receive an individual account with state/comfort rivals. The mother waits and carries Aqua despite protest; final care arrangements remain open. The dryad wants usable water and rejects damage to dependents. At dinner the waiter gives actual tickets, a male noble supplies food and an unjoined woman permits take-home; these acts do not all belong to the host. Ice-cream service, cake-worker conversation and poultry/egg supply retain their separate ordinary-life roles.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
