@@ -7,14 +7,14 @@ scope: E01-E24
 generation: V2
 phase: 2
 status: canonical
-source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; stabilized Phase-2 longitudinal ledgers; episode-specific motion audits; E24 credits-coda audit; post-freeze targeted AV evidence through TBHX-AV-E11-001
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; stabilized Phase-2 longitudinal ledgers; episode-specific motion audits; E24 credits-coda audit; post-freeze targeted AV evidence TBHX-AV-E11-001 plus TBHX-AV-E05-001, TBHX-AV-E06-001, TBHX-AV-E07-001, and TBHX-AV-E07-002 within their recorded source limits
 transition_vocabulary: PRESERVE | STRENGTHEN | REVISE | DOWNGRADE | REJECT | OPEN
 legacy_transition_crosswalk: PRESERVE=CONFIRMED; STRENGTHEN=STRENGTHENED; REVISE=NARROWED/CORRECTED; DOWNGRADE=confidence reduction; REJECT=OVERTURNED; OPEN=UNRESOLVED
 targeted_av_authority: TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: 2026-08-16
+last_updated: 2026-10-24
 ---
 
 # To Be Hero X V2 — Claim Revision and Confidence Ledger
@@ -298,7 +298,7 @@ Later synthesis may argue for **answerable, revisable, non-totalizing rolehood**
 | `P2-CR-R07` | Grief can preserve relation and provenance or conscript the survivor into revenge, succession, role-continuation, and posthumous obligation. | `F-DLG/INT`, full-series | High | `STRENGTHEN` across King, Yang, Qīng, Nice, Xiao Qiang, X | relationships ledger |
 | `P2-CR-R08` | Recognition is not sufficient to defeat institutional capture. Nice/Smile is the clearest case: genuine attachment changes action and produces grief but cannot prevent weaponization and collapse. | `F-DLG/INT`, character/system | High | `REJECT` recognition-as-sufficient model | relationships/personhood ledgers |
 | `P2-CR-R09` | Lin/Xiao Yueqing develops genuine reciprocal recognition inside an imposed public romance, but affection does not retrospectively legitimate confinement, forced content, or contractual capture. | `F-DLG/INT`, character relation | High | `REVISE` both fake-romance and coercion-justified-by-love readings | relationships ledger |
-| `P2-CR-R10` | Yang/Xia Qing demonstrates person-recognition through and beyond performance; Xia's recognition does not depend on Yang successfully maintaining the E-Soul role. | `F-DLG/INT`, character relation | High | `STRENGTHEN` E05–E07 | relationships ledger |
+| `P2-CR-R10` | Yang/Xia Qing demonstrates person-recognition through and beyond performance; Xia's recognition does not depend on Yang successfully maintaining the E-Soul role. The Chinese rain passage conditions support on honest self-facing and refuses indefinite waiting; see `TBHX-AV-E06-001`. | `F-DLG/INT`, character relation | High | `STRENGTHEN` E05–E07 | relationships ledger |
 | `P2-CR-R11` | Qīng/Luo is a de-totalizing relation built around shared reduction by luck/jinx labels, musical provenance, material aid, and reciprocal memory. Its future completeness remains open. | `F-DLG/INT`, character relation | High current state / Open future | `STRENGTHEN` | relationships ledger |
 | `P2-CR-R12` | Little Johnny/Big Johnny and Xinya/A-Hu establish chosen kinship and family recognition before public or legal legitimacy. | `F-DLG/F-VIS/INT`, cross-case | High | `STRENGTHEN` | relationships ledger |
 | `P2-CR-R13` | Wang Yi's paternal motive revises the interpretation of his surveillance and violence but does not erase Nuonuo's abandonment wound or prove reconciliation. | `F-DLG/INT/REV`, character relation | High | `REVISE` motive; `REJECT` retroactive repair | relationships ledger |
@@ -595,6 +595,20 @@ A later document may develop a richer argument than the wording in this ledger, 
 
 # 12. Targeted audiovisual evidence routing
 
+### E05–E07 Gemini V2 receipt — current post-freeze adjudication (2026-10-24)
+
+These entries are current targeted revisions within Part I; the 145 `P2-CR-*` keys and Part-II history retain their identifiers. The received candidate was independently adjudicated against targeted native stills, complete supplied text witnesses, and metadata. No independent Codex continuous playback or acoustic audition is claimed. The formal audit's 30-finding matrix and source-debt table govern the limits.
+
+| Targeted ID | Current accepted claim | Transition / prior authority | Confidence / limits | Destination |
+|---|---|---|---|---|
+| `TBHX-AV-E05-001` | E05 native WEB 20:33.000 shows 0 and 20:35.200 a solid 1 during first manifestation. | `REVISE` frozen E05 numeric-display negative / historical CR-053; `STRENGTHEN` TF-031 and P2-TF-09 locally | High F-VIS; no source-frame duration or one-believer/one-point universal rule | [Formal audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md) §4; mechanics ledger; Specialist 07 |
+| `TBHX-AV-E06-001` | Xia offers wholehearted support if Yang faces himself honestly; otherwise she will not stop and keep waiting indefinitely. Actual Japanese witness makes a different waiting commitment. | `REVISE` indefinite-waiting reading / historical CR-073; qualify `P2-CR-R10` without withdrawing person-recognition | High displayed-text/semantic confidence; neither abandonment nor conditional hero-status recognition; acoustic delivery OPEN | Formal audit §5; relationships/language ledgers; Specialists 07/16; Document 17 |
+| `TBHX-AV-E07-001` | Climax recollection is Yang-centered at high visual-inference confidence; displayed names remain Shang/Xia. Focalizer is not every remembered speaker. | `REVISE` frozen E07 §16 attribution; preserve `P2-CR-N05` / `P2-CR-F11` limits | High focalization inference; contextual Shang VIP attribution; exact voice turns OPEN; no deliberate-inaction proof | Formal audit §7; Specialist 07; Document 17 |
+| `TBHX-AV-E07-002` | Yan is retrospectively attributable as original paid commissioning client and directly implicated in coercion/disposal and expectation engineering; intended Yang and actual Shang casualty remain distinct. | `REVISE / STRENGTHEN` current earlier-event responsibility under `P2-CR-CH16`; preserve historical unknown-client entries | High bounded commission inference and source acts; exact administrative chain, full disposal trajectories, motives and universal foresight OPEN | [Yan causal audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_YAN_MO_RETROSPECTIVE_AV_EVIDENCE_AUDIT.md); Specialist 07 |
+
+Rejected producer overclaims include E05's invented `严谟先生` introduction (native text is 尚超), E07 caller-ID `启示` (native is 启士), E07 `THREE SUSPECTS` (native is THREE SEATS), blanket Yang voice assignments, filename-based12fps/0.75-second precision, and universal source offsets. Cyan-specific concern, precise sound/music placement, and the E06 agency-name insertion remain specifically OPEN. Existing Phase-3/4 closure and Document 17's discourse-level authority stand; Documents 18–20 await complete-season external evidence.
+
+
 `TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md` remains active throughout later phases.
 
 For every new packet:
@@ -608,11 +622,15 @@ For every new packet:
 7. update this claim ledger if the packet changes a `P2-CR-*` proposition;
 8. route the packet into Phase 7 source locators.
 
-Current active packet:
+Current active packets:
 
 | Packet | Claim consequence | Current transition | Claim keys affected |
 |---|---|---|---|
 | `TBHX-AV-E11-001` — Queen vs X and immediate aftermath | upgrades strategic/epistemic surprise into a sustained embodied private crisis of control; preserves uncertainty over exact beverage contents and clinical interpretation | `STRENGTHEN` | `P2-CR-F17`, `P2-CR-F18`, `P2-CR-CH05`, `P2-CR-CH06` |
+| `TBHX-AV-E05-001` — first Trust display | admits the local visible0→1; preserves uncertainty about universal one-believer arithmetic and exact display duration | `REVISE / STRENGTHEN` locally | `TF-031`, `P2-TF-09`; `P2-CR-M19` limit preserved |
+| `TBHX-AV-E06-001` — rain support/localization | corrects indefinite waiting to conditional support and a boundary; preserves the different Japanese witness | `REVISE` | `P2-CR-R10` |
+| `TBHX-AV-E07-001` — retrospective focalization | revises toward Yang-centered recollection while separating focalizer, displayed names, and remembered speakers | `REVISE`; exact voice turns remain `OPEN` | `P2-CR-N05`, `P2-CR-F11` |
+| `TBHX-AV-E07-002` — Yan causal chain | strengthens bounded commission/coercion/disposal attribution and separates intended target from casualty; administrative detail and exhaustive foresight remain unresolved | `REVISE / STRENGTHEN`; stronger claims `OPEN` | `P2-CR-CH16`, `P2-CR-CH03`, `P2-TF-08` |
 
 ---
 
