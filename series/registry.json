@@ -144,7 +144,7 @@
       "repository_path": "series/cornered-mouse/",
       "canonical_entrypoint": "series/cornered-mouse/CURRENT_STATE_AND_CORPUS_MAP.md",
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
-      "materialization_status": "PRESENT_UNREVIEWED",
+      "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_CORNERED_MOUSE_BOOTSTRAP_20261024",
       "authority_status": "GIT_PRIMARY",
       "project_initiation_gate": "REQUIRED",
