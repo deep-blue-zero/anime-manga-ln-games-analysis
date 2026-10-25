@@ -2087,3 +2087,10 @@ Dryad and storm-spirit meanings are mediated; raw glyphs and translated proposit
 Shumel's formal contempt and later imperatives/status addressU014358–391 are written pragmatic shifts, not an acoustic certificate. Crank's respectful opening282 and stronger entitlement/protest300–303 preserve local pressure. Vice's declarations and compressed apologyU01839–86 contrast with the largely unvoiced later bargain. Tia's side's court account and narrated forgiveness cannot be borrowed as her extended idiolect. Liliantine teacher-address/questions and the veteran polite refusal/broken gratitude retain small attributed native samples. All six C45 hypothetical originals are invented English; no new Japanese/acoustic adequacy or repair of prior language failures follows.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+The female class-named professionals have separate attributed turns; Assassin practical refusals/corrections cannot be replaced with Dark Stalker first-person narration. Angie senior address, class language, protests and later knowledge update are source-bound pragmatic evidence, not one invariant catchphrase. Printed Anna author attribution is not a recorded child writing/speaking performance, and Kazuma often receives her through Aqua. 両手斧 is two-handed axe; お天気占い師 is weather diviner and 軍隊イナゴ is the swarm term, not a military institution. All eight new first responses are invented English; no acoustic/native-human or Japanese-performance adequacy is certified.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.

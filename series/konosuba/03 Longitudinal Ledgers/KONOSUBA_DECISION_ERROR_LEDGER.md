@@ -2094,3 +2094,10 @@ The dryad’s living-dependent objection, wanted water and naturally expired-pla
 Vice interprets Darkness's assault as confirmation of Tia's storyU01860 despite having the wrong addressee; later correction and exposed stories308–309 qualify that apparent evidence. Crank admits monster trade while disputing attributed purposeU014296 and explicitly defends maid harassment300. Actual contraband307 does not retroactively prove every allegation; no collar311. Shumel's actual lightning375 gives Darkness public-casting/injury leverage383. Kazuma's threatened retaliation precedes Megumin disbelieving a true frog warningU012154–176. These are situated evidence/choice failures, not global intelligence diagnoses.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+Dark Stalker invested romance attention coexists with practical correction from Assassin; a genre-shaped reading is not knowledge of the watched people private intentionsU014/U018. Kazuma initially withholds his age and threat information from AngieU018242-244/500, then uses her incomplete information for revenge; her errors cannot be credited to universal incompetence. Kazuma wallet theftU020228 is followed by return230 and does not confirm polite transparent negotiation. Aqua reading a reported pub ban as affectionMAIN16U01322-24 is not proprietor consent. Related census routes now distinguish comparisons/context/exclusions from possible identity or membership overlap.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.

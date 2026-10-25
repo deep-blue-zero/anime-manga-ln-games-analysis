@@ -1,14 +1,14 @@
 ---
 series: KONOSUBA
 artifact_type: secondary_character_coverage_audit
-scope: INCREMENTAL_CENSUS_AND_SCOPED_COHORTS_01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42_43_44_45
+scope: INCREMENTAL_CENSUS_AND_SCOPED_COHORTS_01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42_43_44_45_46
 status: active_provisional
 do_not_use_as_current_authority: false
 ---
 
 # Secondary-character coverage audit
 
-This maintained register retains572 nonfinal source/access records. C45 semantic receiving is complete and exact publication pending: ten substantial studies, two weak provisional models/three rules and22bounded-profile passages. Candidate67model artifacts/61source-scoped secondary entries/160retained profile passages/53monograph-only studies are not people or independent observations. Twenty-one profile passages enroll new Tier1routes; one supplements existing Rex51 without a new row or changed model. Ten entering rows change,502others and19historical plane differences remain exact. All65entering models and earlier firsts/scores/blanks/nulls stay exact. Anna broader treatment remains due. See the [C45 index](KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md) and [receiving](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json). Older wording remains dated history; full census,synthesis,successors,validation,designated integration and release continue.
+This maintained register retains640 nonfinal source/access records. C46 scoped semantic receiving is complete and exact containing publication pending: five substantial studies, two restricted provisional models/four rules,17bounded profiles and68new routes. Candidate69model artifacts/63source-scoped secondary entries/177retained profile passages/56monograph-only studies are not distinct people or independent performance. Nine entering routes change,563others and19historical plane differences stay exact; all67entering models and earlier firsts/scores/blanks/nulls are preserved. Current post-freeze qualifications govern BOTH new model routes: pension-price comparison is not an itemized transaction, and Aqua Heals KazumaU018624 rather than Angie. Typed relations keep parents, comparisons and explicit exclusions out of alias candidates. See the [C46 index](KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md), [qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json) and [receiving](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json). Earlier wording remains dated history; full census,syntheses,successors,validation,designated integration and release continue.
 
 Iris earns scoped Tier3 treatment: direct ordinary activity, competence, duty, refusal, political choice, coercive tactics, different relationships and her own private focalization support distinct falsifiable mechanisms. The [monograph](../05%20Specialist%20Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md), [model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md) and [evidence index](KONOSUBA_IRIS_EVIDENCE_INDEX.md) carry those different responsibilities. Tier3 describes an earned reconstruction candidate, not demonstrated future accuracy or a mature universal simulator. Seven new informed rules and22actually generated synthetic outputs preserve weak, adverse and underdetermined branches.
 
@@ -1964,4 +1964,19 @@ Wiz reports that the familiar mansion’s owner accepts the proposed tenancy but
 
 Unbound voices in U020 P752–754 seek the notably effective priest while saying they have failed to find her at the churches753. The search responds to an ongoing dangerous situation, and the provider’s location in a different drinking setting755 limits what the searchers can obtain. This is practical effort and incomplete information, not evidence of omniscient city coordination. No exact speaker identity, count, knowledge of Aqua’s divine status, final contact or completed battle contribution is supplied. The voices may overlap other local guild actors without becoming a single person. The unsuccessful search corresponds closely to EXP-03 U045 P85–87, where the notable blue-haired Archpriest is sought. This supports a specific-event link, without naming these searchers, proving the same speaker set or supplying a second independent observation. Their source-bound profile leaves private motives and broader competence open.
 
-Exact containing publication remains pending. Earlier models,firsts and all source/identity qualifications retain their own bounds; the full program continues.
+C45 exact-source author publication is closed. Earlier pending-at-authorship statements retain their dated scope; the publication resolution and author gate govern current status. All models,rules,originals,source bounds,scores and adverse findings remain exact. Protected integration and the full program remain open.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles
+
+Five substantial studies have separate analytical homes; only Dark Stalker and Angie currently receive narrow provisional generators. The [post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json) govern both models and related census routes.
+
+| Current row | Subject | Scoped tier | Individual study |
+|---|---|---|---|
+| 115 | Dark Stalker / retired female professional | 3 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_DARK_STALKER_CHARACTER_MONOGRAPH.md) |
+| 116 | Assassin / retired female professional | 2 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_ASSASSIN_CHARACTER_MONOGRAPH.md) |
+| 117 | Angie / アンジー | 3 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_ANGIE_CHARACTER_MONOGRAPH.md) |
+| 118 | Anna Filante Esteroid / アンナ＝フィランテ＝エステロイド | 2 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_ANNA_CHARACTER_MONOGRAPH.md) |
+| 572 | Familiar YORI04 succubus shop-worker occurrence | 2 | [Substantial study](../05%20Specialist%20Synthesis/KONOSUBA_YORIMICHI04_SUCCUBUS_WORKER_CHARACTER_MONOGRAPH.md) |
+
+Seventeen bounded profile passages have one [supporting-supplement home](../05%20Specialist%20Synthesis/KONOSUBA_YORIMICHI04_IDENTITY_AND_SUPPORTING_CAST_COHORT46_SUPPLEMENT.md). Fifty incidental/reference routes and all68new source/access records are individually typed in the [evidence index](KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md). Reports, groups, embedded fiction, uninstantiated proposals and uncertain overlaps are not silently converted into new people. Possible occurrence/membership overlap, possible proposed-role filler, comparison, context and exclusion remain distinct. Assassin, Anna and the familiar worker have monographs without forced models or permanent ceilings. Exact containing publication is pending; full-program work continues.

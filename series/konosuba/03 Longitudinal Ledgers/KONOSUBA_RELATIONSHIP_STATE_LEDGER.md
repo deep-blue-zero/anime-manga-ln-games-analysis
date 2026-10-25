@@ -1631,3 +1631,10 @@ Maternal entrustment, the cub’s clinging, the mother’s pause and coercive tr
 Successful business and mansion accessU020714/723–724 precede the wish for the familiar companions779–824; harder chores783 and Aqua's own people preference784/799 coexist. Known reset792/796 prevents a durable-loss or equal-role substitution claim. Shumel invokes reciprocal name etiquette with DarknessU014385, while attacking Kazuma and resisting a superior raid; this is neither general trust nor a verified shared conspiracy. Melvirei shows interest in stayingU018431 before Aqua prompts432 and departure433; the animal's private sea-desire437 is Kazuma's inference. The messenger's workplace connectionU016267 and Vanir gesture264–265 retain distinct contributors.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+One professional volunteering does not bind the otherU014495/529/553. The watcher being known to the main partyU0163-14 qualifies her belief that she is covert; tolerated presence is not unlimited privacy permission. The familiar shop worker rejects the stalker label, accepts recruitment, admits failure and makes a later bookingU016285-378; night continuity401-448 does not name every other worker. Angie objects to Kazuma withheld threat informationU018500-524 and later changes her appraisal after the card/name evidenceU020459-471 without a gracious final reconciliation. Anna story arrangements remain mediated through Aqua and specific household context.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.

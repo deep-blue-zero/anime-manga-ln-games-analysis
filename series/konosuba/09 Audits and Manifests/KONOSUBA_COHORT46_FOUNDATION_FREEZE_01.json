@@ -1,0 +1,82 @@
+{
+  "schema": "konosuba.cohort46.source-safe-foundation-freeze.v1",
+  "private_complete_freeze_sha256": "abc049cd97e97e6f9a7db1f291b85c5fe46e0cff058eb6d566c13bb8558bcd18",
+  "sealed_utc": "2026-10-25T09:22:13.719706+00:00",
+  "pins": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/ANGIE_EXPANDED_V1_EVIDENCE/ANGIE_RULE_INVENTORY_01.json",
+      "bytes": 7414,
+      "sha256": "dfb705b69a982556ebe2bcc9d7fa3a7b4c10aff82738368d4104d6c7c0bf3f47"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DARK_STALKER_EXPANDED_V1_EVIDENCE/DARK_STALKER_RULE_INVENTORY_01.json",
+      "bytes": 7659,
+      "sha256": "46e37f5b5c2dafa4dd986033fa29824f8efd88a1c6fcf50f0ddc51e43ba05e4a"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ANGIE_CHARACTER_MONOGRAPH.md",
+      "bytes": 11700,
+      "sha256": "941086ad41d0c769ee7aa4faaf1026950ac5327300f0a49f910a0ad47505be91"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ANGIE_RECONSTRUCTION_MODEL.md",
+      "bytes": 5521,
+      "sha256": "6ec1d39156d3adadd8c9610c1bacbd7ac7c11fe32c7ab35f03656043463b48a9"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ANNA_CHARACTER_MONOGRAPH.md",
+      "bytes": 11447,
+      "sha256": "17b09b6b0cdfd6f0fa4053253f76526b36f6a12cdf9c1b34c9075d911208d79d"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ASSASSIN_CHARACTER_MONOGRAPH.md",
+      "bytes": 10627,
+      "sha256": "8bbd1f4ae7a809beb995d99bfa175f67a6bccc8f6c6007c4c0f686e4af209ccb"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DARK_STALKER_CHARACTER_MONOGRAPH.md",
+      "bytes": 12458,
+      "sha256": "965470d33ee4a232bf6ec67ab69cc141a39f61a5c687fa1d1d1c4b66d16f570a"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARK_STALKER_RECONSTRUCTION_MODEL.md",
+      "bytes": 5279,
+      "sha256": "f1bdd7b76e2281dd9409b2407cc43ebc02737a3df4b555060325a792d221637d"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI04_COHORT46_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 6748,
+      "sha256": "2d355cd2bbc7cfefe9c141a6b482060ebb91a99b8f0e060649d4c1e6dfc80c7f"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_NATIVE_PROVENANCE.json",
+      "bytes": 18831,
+      "sha256": "c7bca8583cfc4bab34ebdd809a6fc250c47fa42be2903501eeadbbb2d151e237"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI04_SUCCUBUS_WORKER_CHARACTER_MONOGRAPH.md",
+      "bytes": 10702,
+      "sha256": "1791f455dac61f64fc8bac76a3029d18d5f2ae039175591f67850ffe052da5c5"
+    }
+  ],
+  "private_scope_assessment_not_exported": true,
+  "full_foundation_bodies": 12,
+  "canonical_foundation_objects": 11,
+  "original_review_pages": 39,
+  "complete_correction_pages": 2,
+  "monographs": 5,
+  "provisional_models": 2,
+  "rules": 4,
+  "exact_inputs_at_seal": 0,
+  "firsts_at_seal": 0,
+  "all67_entering_models_preserved": true,
+  "later_current_source_qualifications": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+    "sha256": "1b270b19d8b119d6ebb785ac4a66112a2665b1abf7dc85e546f9ba80488d0c0f",
+    "frozen_wording_not_repaired": true
+  },
+  "source_known_same_informed_root": true,
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "full_program_complete": false
+}

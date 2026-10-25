@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort45.receiving-and-provenance.v1",
-  "status": "SCOPED_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "received_utc": "2026-10-25T07:34:24.234913+00:00",
   "private_complete_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
   "source_baseline": "8acdff2b96e927fce744dc3201859e09b9047d27",
@@ -531,14 +531,32 @@
     "merged_PR329": 329,
     "merge_commit": "941f8c84f2beee8f8bd57b0e5b4c4c62d621ec87"
   },
-  "publication_pending": [
-    "complete candidate operation review",
-    "exact-index author preflight",
-    "ordinary publication",
-    "whole remote tree and every changed byte-stream verification",
-    "new actual-source full discovered-suite audit and latest trusted isolated status",
-    "fresh published-authority reload"
-  ],
+  "publication_pending": [],
   "source_absolute_paths_in_public": 0,
-  "full_program_complete": false
+  "full_program_complete": false,
+  "prior_cohort45_publication_status": {
+    "status": "SCOPED_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+    "publication_pending": [
+      "complete candidate operation review",
+      "exact-index author preflight",
+      "ordinary publication",
+      "whole remote tree and every changed byte-stream verification",
+      "new actual-source full discovered-suite audit and latest trusted isolated status",
+      "fresh published-authority reload"
+    ]
+  },
+  "publication_resolution": {
+    "source": "6cdb2339932b7b0ac63051ab0e9cb8ad3d169c3c",
+    "tree": "94d34272226c3c92409a1c7a6c3d9d1bc4a63e62",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+    "gate_sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173",
+    "source_run": 40174847588,
+    "full_discovered_tests": 479,
+    "current_models": 67,
+    "author_publication_tranche_complete": true,
+    "protected_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 331
+  },
+  "current_gate_qualification": "All28standalone analytical cores plus22profile fragment,67models and six genuine English originals remain exact. Three dependent source-known pairs retain generic/source-cue,spell-preparation,neutral-offer,invented-amount and unprobed-teaching limits without independent confidence gain.70status/supplement routes update;502others and19historical plane differences remain exact.43/51/118existing analytical fields remain unchanged. Prior candidate/main/pending statements remain dated history. Protected integration,final battery,StageD successors and full program are not completed by this author gate."
 }

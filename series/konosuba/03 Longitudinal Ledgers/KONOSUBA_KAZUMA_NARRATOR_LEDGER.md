@@ -1536,3 +1536,10 @@ Kazuma’s weed explanation, spring-spirit reference, annual storm interpretatio
 Kazuma's genealogyU014373–374, initial paralysis-awarenessU012153, common wealth motiveU018310 and Melvirei tactical comprehension/sea desire421–437 remain attributed inferences. The pupil fiction/grade report316–318 qualifies earlier adult worry without a witnessed dismissal meeting. Only Kazuma carries route memoryU02047–58; counterpart knowledge must not be filled with it. Specific Hoost/Rex correspondence is supported by the checked EXP03 episode, while alternate leader names, untagged voices and Anna's unnamed new apparition remain qualified. Profitable alternative life and wanting familiar people are both represented; neither proves K06-equivalent substitution/loss validation.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+Kazuma private gratitude toward AngieU020529-530 differs from spoken apology or praise. His harmful bottle, billing, age and threat-information choices qualify claims of an always-cooperative party. Narrator guesses about the familiar worker hurtU016295, youthful-worker innocence569, Anna intentions and childhood remembered girlU018470 keep their access limits. MAIN16U01334 confirms Aqua misses the coach while absorbed in the ghost story, without proving Anna deliberately engineered it. Sutton mineral valuationU018447 is Angie report and garden644 is Aqua report; neither is direct Sutton speech or a quest personally issued by him.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
