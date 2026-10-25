@@ -148,7 +148,7 @@
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_CORNERED_MOUSE_BOOTSTRAP_20261024",
       "authority_status": "GIT_PRIMARY",
       "project_initiation_gate": "REQUIRED",
-      "catalog_note": "Connected Japanese manga project covering The Cornered Mouse Dreams of Cheese and The Carp on the Chopping Block Jumps Twice, with explicit edition/supplement boundaries, longitudinal character and relationship evidence, and separate reconstruction validation. Primary and derived evidence remain in Drive."
+      "catalog_note": "Connected Japanese manga project covering The Cornered Mouse Dreams of Cheese and The Carp on the Chopping Block Jumps Twice, with explicit edition/supplement boundaries, longitudinal character and relationship evidence, and separate reconstruction validation. Primary and derived evidence remain outside Git."
     },
     {
       "series_id": "gakuen-idolmaster",
