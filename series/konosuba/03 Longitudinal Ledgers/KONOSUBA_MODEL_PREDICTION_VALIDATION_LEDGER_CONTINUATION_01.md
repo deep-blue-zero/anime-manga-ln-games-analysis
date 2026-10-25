@@ -659,3 +659,10 @@ Ozuma’s foundations froze after 24 complete review pages, four corrective page
 The dryad foundation received33 complete pages and4 corrective pages before freeze. Two exact English prompts and their pre-first plan were then received and frozen; two genuine bodies were authored directly once and sealed before feedback. A1 accepts an expired-bundle exchange and waits for the trader’s flask; A2 refuses living-plant removal and leaves its counteroffer unaccepted. No unambiguous material input violation was identified. Neatness, generic bargaining/protection rivals, conspicuous known-source cues and invented English scene details limit both bodies. One dependent pair adds no independent trial, accuracy, grade, confidence gain or final-battery credit. Originals, inputs and rule stay exact.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+C45 foundations21artifacts/45complete review-and-correction pages froze before six exact English inputs, which froze before six genuine once-authored originals and their pre-feedback seal. Three dependent same-root pairs are not independent trials or final StageD. SHU-A1 stops at spell preparation without completed cost; A2 is procedurally tidy. KIV-B2 questions without accepting a neutral offer canon never tested. KIV-C1 invents a three-coin offer; C2 preserves committed funds but proposes unprobed instruction and evokes an unrequired expense. All firsts/models/inputs remain exact after feedback; generic rivals and fluent boundary talk remain limits. Prior forecasts, scores,14Dust blanks and28SI/SY nulls are unchanged.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

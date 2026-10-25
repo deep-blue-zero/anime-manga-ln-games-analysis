@@ -1634,3 +1634,10 @@ Ozuma’s actual water assistance and timely wolf warning coexist with mistaken 
 The dryad helps against deer but does not have unlimited boss-deer control; remote weed control remains Kazuma’s inference. The follower changes hostages and leverage but has no demonstrated completed escape or final spell impact. The storm spirit takes intermediate spells, thins after three actual Explosions and bows; Aqua’s explanation and Kazuma’s annual-purpose inference retain their warrants. Cub meows, approach, garment play and sleep do not prove trained tactical obedience. Japan travel is actual despite later memory loss; skill use does not establish general competence with every device.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+Actual capabilities have finite contexts: Shumel casts a dangerous spellU014375 but Darkness intercepts381 and uses the event383; guards cut Bind and remember tactics463/471–472; Melvirei balances water and healsU018345–346/408–410 while learning/comprehension remain hypotheses. Prototype sweeping/alarm/explosionU01690–111 does not demonstrate a humanlike mind and is not the sold later stock368. The EXP03 returnU034492–515/U04513–54 ties the Hoost aftermath and capital invitation specifically to existing routes, with an unnamed probable Rex counterpart and a broader coalition rather than automatic Sophie/Terry voices.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

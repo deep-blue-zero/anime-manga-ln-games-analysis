@@ -512,3 +512,10 @@ C43 positively joins old unnamed deputy100 to Lolierina231 at exact YORI01U014P6
 C44 qualifies prior dinner-host pooling without rewriting the original deep-reading body orQ49: the host, male food supplier and take-home woman are separate local assignments. Old row120’s two-men label becomes THREE usingU024P225/266 while exact prior fields remain. The dryad stays distinct from Princess/Tranquility; follower/Hoost/Arnes, neighbor/Sutton, cafe daughter/MASK daughter and poultry seller/butcher remain unjoined. A source correction attributes Chomusuke feeding/hand removal to Kazuma18 rather than Darkness16; final Explosion targets the follower without separately shown impact or fate. An unaccepted recruiter offer is not a delivered rejection.
 
 [Current evidence index](KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+C45-CR01 corrects recovered Shumel father/son shorthand to the native woman and preserves unverified genealogyU014359/373–374. C45-CR02 preserves Melvirei interest431 plus Aqua prompt432 before departure433. C45-CR03 separates the female succubus ownerU016337/359 from MAIN16 vampire126, with actual hospitality and unperformed concessions. C45-CR04 uses Vice male heir/嫡男 without unnecessary birth order, Tia nativeドルトリン, correct female pronouns and no unsupported privately coordinated deception. C45-CR05 supplements generic devil caution with specific Hoost/Rex event correspondence from EXP03; alternate leader remains unnamed/probable. Complete original drafts and all pre-freeze corrections remain preserved. No frozen model, input, first or score is repaired.
+
+[Current evidence index](KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

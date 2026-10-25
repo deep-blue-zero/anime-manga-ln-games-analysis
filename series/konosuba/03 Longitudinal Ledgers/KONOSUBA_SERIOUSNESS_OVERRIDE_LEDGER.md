@@ -1427,3 +1427,10 @@ Crow’s predatory intentions remain harmful even though Aqua later coerces him.
 The dryad’s human-fertilizer threat and pressure after refusal remain adverse; a usable bargain does not establish harmlessness. The follower’s abduction and actual hostage threats survive the comic reversal, while final Explosion impact and fate are unshown. The mother’s removal of protesting Aqua remains coercive without an invented journey. Fairy wing-broth admission and flight are treated critically without graphic elaboration. Park-men predatory statements are not excused by the narrator’s early reassurance, but no completed offense or diagnosis is invented.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+Shumel's articulated grievance does not make her attempted dangerous attack harmlessU014370–383; no completed killing is shown. The last-life owner is explicitly a woman/succubusU016330/337/359, distinct from MAIN16 vampire126. Her revised offers332–335 are unperformed; Vanir's responsibility/kin intervention343–350 stops Wiz, followed by actual hospitality359–360. Darkness's chosen participation in a collar sequenceU014575–594 does not authorize later humiliating photographs over objections623–629. Warm belongingU020828–882 does not complete unsigned contracts, apologies, debt repair or proposed outings.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -1772,13 +1772,13 @@
     {
       "character": "Unnamed Wolbach follower / Chomusuke abductor (YORI02)",
       "identity": "Particular one-horned male devil; his own name is interrupted. Distinct from the Arnes and Hoost he references.",
-      "likely_tier": "2 scoped; substantial monograph without reconstruction model; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "2 scoped; substantial monograph without reconstruction model; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U012P129–283",
       "source_access_type": "Direct acts/dialogue with Megumin narration; master/plan claims remain attributed.",
       "substantive_responsibility": "Seizes the cat, changes escape and hostage tactics, loses knife and bag to separate Steals, attacks Darkness and becomes the target of an actual final Explosion cast; the impact and final fate are not separately shown.",
       "gaps": "No personal name, full master instruction, borrowed subordinate biography, performed sexual demand or demonstrated permanent fate.",
-      "disposition_status": "SCOPED_TIER2_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -1789,18 +1789,29 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_WOLBACH_FOLLOWER_CHARACTER_MONOGRAPH.md"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "2 scoped; substantial monograph without reconstruction model; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER2_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Particular storm great spirit (YORI02 lake encounter)",
       "identity": "Particular encountered spirit; no automatic identity with every annual storm, spring spirit or water spirit.",
-      "likely_tier": "2 scoped; substantial monograph without reconstruction model; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "2 scoped; substantial monograph without reconstruction model; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U020P186–393",
       "source_access_type": "Visible acts and unintelligible speech; Aqua-mediated propositions and Kazuma physiology inference distinguished.",
       "substantive_responsibility": "Rejects divine command, accepts magical impacts, pursues an attributed insult, calms and bows; offered gust is cancelled.",
       "gaps": "No complete physiology, proved shared voyeuristic aim, fulfilled final gust, exact Japanese native voice or actual next-year visit.",
-      "disposition_status": "SCOPED_TIER2_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -1811,18 +1822,29 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_STORM_GREAT_SPIRIT_CHARACTER_MONOGRAPH.md"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "2 scoped; substantial monograph without reconstruction model; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER2_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Reported fisherman requesting Explosion-assisted catch (YORI02)",
       "identity": "Source-bound fishing client; no join to another fisherman by role.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U012P9–17/31/51",
       "source_access_type": "Kazuma task/payment account and Megumin narrated quota outcome.",
       "substantive_responsibility": "Request has an advance said to be spent; fish quota is met despite excessive blast.",
       "gaps": "No directly heard client voice, watched advance transfer, identity or complete satisfaction account.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -1832,18 +1854,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Reported retired octopus farmer (YORI02)",
       "identity": "Retired predecessor named by role in the request, separate from the replacement farmer.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U012P62–63",
       "source_access_type": "Darkness reading quest information.",
       "substantive_responsibility": "Retirement precedes the replacement farmer losing the crop.",
       "gaps": "No actual personal encounter, motive, retirement process or wider identity.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -1853,18 +1886,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Reported replacement octopus farmer (YORI02)",
       "identity": "Newly entrusted farmer in the escape account; not the retired predecessor.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U012P62–63",
       "source_access_type": "Quest report relayed by Darkness.",
       "substantive_responsibility": "Reportedly loses the cultivated octopuses that become the current quarry.",
       "gaps": "No individual name, watched farming event, negligence verdict or complete expertise claim.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -1874,18 +1918,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Stealth-octopus quarry in YORI02 early-party task",
       "identity": "Local creature occurrence/group with number unresolved; not one modeled collective mind.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U012P76–109",
       "source_access_type": "Observed camouflage/restraint plus character explanations of feeding.",
       "substantive_responsibility": "Conceals itself, restrains Darkness and changes the physical condition that triggers her rescue pleas.",
       "gaps": "No complete final kill/meal, universal species psychology or continued consent from the initial welcomed ambush.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -1895,18 +1950,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Bounty-chase civilian voices in YORI02 cat abduction",
       "identity": "Local responding crowd, individual turns and cross-source identities unbound.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U012P140–159",
       "source_access_type": "Direct crowd response to Kazuma fabricated claims.",
       "substantive_responsibility": "Blocks routes and pursues after false harmlessness/bounty framing.",
       "gaps": "No real wanted notice, informed risk agreement or identity with YORI01 spectators.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -1916,18 +1982,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Adult-film recruiter in YORI02 Japan visit",
       "identity": "Unnamed man handing Darkness a card; distinct from YORI01 institutional recruiter.",
-      "likely_tier": "1 scoped; bounded source/role/group profile; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "1 scoped; bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U014P134–161",
       "source_access_type": "Direct approach/card; recipient reports of inquiry and narrator reading of job.",
       "substantive_responsibility": "Makes a selective offer, whose later explanation changes Darkness pride to distress.",
       "gaps": "No contract, filming, completed intimate act, verified full motive, age inference or cross-world alias.",
-      "disposition_status": "SCOPED_TIER1_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -1938,18 +2015,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort44--yorimichi-2-cast-and-supporting-roles"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "1 scoped; bounded source/role/group profile; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER1_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Arcade photographers addressing Megumin in YORI02 Japan",
       "identity": "Plural local enthusiasts, not a fixed personally identified roster.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U014P166–179",
       "source_access_type": "Direct local voice turns and narrated photographs.",
       "substantive_responsibility": "Request photographs and interpret Megumin origin account as roleplay.",
       "gaps": "No cross-scene identities, new Megumi person from mishearing, or proof Megumin shares their roleplay interpretation.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -1959,18 +2047,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Arcade employee warning Darkness (YORI02 Japan)",
       "identity": "Locally identified male worker, distinct from station worker and police officer.",
-      "likely_tier": "1 scoped; bounded source/role/group profile; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "1 scoped; bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U014P197–205",
       "source_access_type": "Direct warning with actual preceding disturbance and Kazuma apology.",
       "substantive_responsibility": "Acknowledges frustration while refusing machine striking.",
       "gaps": "No name, whole authority, fine, expulsion or general temperament.",
-      "disposition_status": "SCOPED_TIER1_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -1981,18 +2080,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort44--yorimichi-2-cast-and-supporting-roles"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "1 scoped; bounded source/role/group profile; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER1_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Police officer questioning visitors (YORI02 Japan)",
       "identity": "Unnamed local officer; no automatic Axel police join.",
-      "likely_tier": "1 scoped; bounded source/role/group profile; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "1 scoped; bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U014P245–255",
       "source_access_type": "Audible questioning and surprise; Kazuma offense interpretation separate.",
       "substantive_responsibility": "Asks country/visa and responds when bodies begin fading.",
       "gaps": "No verified offense, arrest, prosecution, checked documents or voluntary release.",
-      "disposition_status": "SCOPED_TIER1_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -2003,18 +2113,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort44--yorimichi-2-cast-and-supporting-roles"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "1 scoped; bounded source/role/group profile; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER1_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Kazuma family / unidentified room-care providers (YORI02 Japan)",
       "identity": "Family reference and observed effects; no identified individual performer of each care act.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U014P227–258",
       "source_access_type": "Kazuma household knowledge and observed clean room/flowers; later family receipt absent.",
       "substantive_responsibility": "Room remains preserved; note and gold are left for the family.",
       "gaps": "No met relative, individually witnessed cleaning, later reading/use or emotional response.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -2024,18 +2145,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Unnamed male potato-giving neighbor in YORI02",
       "identity": "Aqua-reported neighboring man; Sutton340 personal join remains unproved.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U016P5–8",
       "source_access_type": "Aqua gift/capture/career report.",
       "substantive_responsibility": "Supplies potatoes reportedly captured in a counterattack; prior adventurer career attributed.",
       "gaps": "No direct dialogue, watched capture, verified whole career or name-based join.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -2045,18 +2177,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Particular garden weeds resisting Kazuma (YORI02)",
       "identity": "Local active plant encounter, not all plants or an identified dryad puppet mechanism.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U016P43–75/291–294/308–309",
       "source_access_type": "Actual retaliatory movements; dryad-control explanation is Kazuma inference.",
       "substantive_responsibility": "Launches seeds and strikes vulnerable areas as Kazuma interferes.",
       "gaps": "No individual count/mind, complete remote-control proof or universal plant psychology.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -2066,18 +2209,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Forest wild-vegetable gatherers in YORI02 dryad request",
       "identity": "Reported local gatherers; no individual names or witnessed deaths.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U016P139–140/227–242/373–375",
       "source_access_type": "Quest account, threats and future negotiated service.",
       "substantive_responsibility": "Their access conflict motivates the ghost request and later alternative provision arrangement.",
       "gaps": "Megumin imagined fatal origin is conjecture; no observed killing, later harvest or received vegetable handover.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -2087,18 +2241,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Reported wind-spirit messengers to YORI02 dryad",
       "identity": "Uncounted messenger reference; not the dryad or all water/storm spirits.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U016P247",
       "source_access_type": "Aqua translation of dryad report.",
       "substantive_responsibility": "Attributed rumor communicates desirable magic-rich water.",
       "gaps": "No separately heard messenger, direct journey, personal identity or independently verified rumor chain.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -2108,18 +2273,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Ordinary deer group in YORI02 forest conflict",
       "identity": "Local herd occurrences, not independent people or a single personality.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U016P153–192/312–368",
       "source_access_type": "Direct chase/attack; ordinary-deer classification Aqua-mediated218.",
       "substantive_responsibility": "Chases after stone, shifts under Decoy, attacks tree and is blasted in later confrontation.",
       "gaps": "No complete individual mapping, universal obedience to dryad or transfer of all boss actions to every deer.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -2129,18 +2305,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Boss deer at YORI02 dryad tree",
       "identity": "Particular large boss animal in the later group; wider identity unresolved.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U016P301–368",
       "source_access_type": "Translated rivalry report308 and direct particular attack331.",
       "substantive_responsibility": "Returns with the group and attacks armor joints while dryad vines impede the herd.",
       "gaps": "No independently decoded animal language, infinite intelligence or separate final corpse certainty.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -2150,18 +2337,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Unnamed YORI02 guild-reception occurrences",
       "identity": "Several staff occurrences across different stories, without a positive personal Luna join.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U016P126–139/366–367;U018P172–195;U020P5–45/75;U026P5–19",
       "source_access_type": "Direct staff dialogue and reported institutional information; identities not pooled.",
       "substantive_responsibility": "Handles requests/payment, offers cub price, specifies Megumin commission and reports checks on Aqua commission.",
       "gaps": "No one enduring employee inferred from profession; offers are not completed sale and reports not omniscient authority.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -2171,18 +2369,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Rookie-Killer lookout before tiger meeting (YORI02)",
       "identity": "Particular local watcher; not automatically U027 pursuing quarry.",
-      "likely_tier": "1 scoped; bounded source/role/group profile; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "1 scoped; bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U018P55–121/127",
       "source_access_type": "Observed stillness/howl/non-pursuit; coordination interpretation belongs to Darkness111.",
       "substantive_responsibility": "Watches and howls rather than attacking, remains during retreat and hides as spell rises.",
       "gaps": "No raw tiger command, universal harmlessness or demonstrated death/escape after blast.",
-      "disposition_status": "SCOPED_TIER1_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -2193,18 +2402,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort44--yorimichi-2-cast-and-supporting-roles"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "1 scoped; bounded source/role/group profile; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER1_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Treasure Island / 宝島 reported turtle in YORI02",
       "identity": "Particular reported giant-turtle reference; no performed current encounter.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U018P18–20",
       "source_access_type": "Megumin lore response to Kazuma genre guess.",
       "substantive_responsibility": "Described as sleeping underground with valuable shell deposits and rare surfacing.",
       "gaps": "No direct sighting, proven full four-beast mythology, individual behavior model or observed treasure collection.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -2214,18 +2434,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Reported capital weather diviner for YORI02 storm warning",
       "identity": "Source-bound forecast role; personal name/number unknown.",
-      "likely_tier": "0 scoped; source/access occurrence index; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "0 scoped; source/access occurrence index; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U020P20–22",
       "source_access_type": "Institutional forecast account.",
       "substantive_responsibility": "Sends warning of approaching storm and expected arrival interval.",
       "gaps": "No direct interview, complete method or general predictive accuracy.",
-      "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER0_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -2235,18 +2466,29 @@
         "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "0 scoped; source/access occurrence index; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER0_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Male storm-practice explainer in YORI02",
       "identity": "Locally stable private interlocutor140–158, not automatically Iron Mask or later provocateurs.",
-      "likely_tier": "1 scoped; bounded source/role/group profile; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "1 scoped; bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U020P140–159",
       "source_access_type": "Direct private account; earlier collective history is his report.",
       "substantive_responsibility": "Explains preparation and openly discloses hoped-for privacy violation from stronger return gust.",
       "gaps": "No all-participant consent, exact past-event audit, stable wider identity or performed final gust.",
-      "disposition_status": "SCOPED_TIER1_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -2257,18 +2499,29 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort44--yorimichi-2-cast-and-supporting-roles"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "1 scoped; bounded source/role/group profile; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER1_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     },
     {
       "character": "Two storm-event provocateurs in YORI02",
       "identity": "Two explicitly separate local speakers with coordinated gestures; stable names/joins unprovided.",
-      "likely_tier": "1 scoped; bounded source/role/group profile; publication pending",
-      "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+      "likely_tier": "1 scoped; bounded source/role/group profile; exact-source author gate closed; scoped/nonfinal",
+      "priority": "Cohort44 source-bound author publication complete; full KonoSuba program continues.",
       "evidence_distribution": "YORI02 U020P309–325",
       "source_access_type": "Direct taunts and knowing exchange with Kazuma.",
       "substantive_responsibility": "Pressures Megumin away from staged testing toward larger combined attack.",
       "gaps": "No merger with every man or earlier explainer; useful storm relief does not excuse manipulation or prove fulfilled hidden aim.",
-      "disposition_status": "SCOPED_TIER1_COHORT44_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_COHORT44_AUTHOR_PUBLICATION_COMPLETE_SCOPED_NONFINAL",
       "independent_observation_count": null,
       "cohort44_source_known": true,
       "cohort44_unique_person_denominator": false,
@@ -2279,7 +2532,18 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort44--yorimichi-2-cast-and-supporting-roles"
       ],
       "cohort44_semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
-      "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      "cohort44_current_receiving": "Exact-source author publication is closed for the scoped C44 interpretation or source supplement. Existing histories and source bounds remain unchanged; no model-maturity, independent-performance or unique-person claim.",
+      "prior_cohort44_publication_fields": {
+        "likely_tier": "1 scoped; bounded source/role/group profile; publication pending",
+        "priority": "Cohort44 source-bound treatment; containing publication pending; wider program continues",
+        "disposition_status": "SCOPED_TIER1_COHORT44_PUBLICATION_PENDING",
+        "cohort44_current_receiving": "Source-bound interpretation received; exact containing publication pending. A record can be a group, report or overlapping occurrence; no unique-person denominator."
+      },
+      "cohort44_publication_resolution": {
+        "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      }
     }
   ]
 }

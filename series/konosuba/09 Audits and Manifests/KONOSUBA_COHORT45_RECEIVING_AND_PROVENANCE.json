@@ -1,0 +1,544 @@
+{
+  "schema": "konosuba.cohort45.receiving-and-provenance.v1",
+  "status": "SCOPED_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+  "received_utc": "2026-10-25T07:34:24.234913+00:00",
+  "private_complete_semantic_receiving_sha256": "456019ea61065ff33851f8cbd86a5f529ec176d060d2e168c865a5087156476a",
+  "source_baseline": "8acdff2b96e927fce744dc3201859e09b9047d27",
+  "current_main": "8acdff2b96e927fce744dc3201859e09b9047d27",
+  "remote_series_baseline": "2761b08d5044db60dc9480497e13f641277f20e5",
+  "accepted_owner_import": {
+    "verified_receipt_sha256": "62baa744c65bc8b8a173b67ede9e40732b18ddd7163a09cb6cc4ccde2d56ef39",
+    "main": "8acdff2b96e927fce744dc3201859e09b9047d27",
+    "own_source_audit": 40167450659,
+    "full_discovered_tests": 479,
+    "paths": 10159,
+    "owner_current_bindings": 110,
+    "controls_unchanged": 12,
+    "incoming_streams_exact": 23,
+    "owner_registry_namespaces": 40,
+    "owner_registry_logical_rows": 424,
+    "KonoSuba_owner_records": 20,
+    "no_author_global_grade_assignment": true
+  },
+  "reviewed_artifact_pins": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SHUMEL_CHARACTER_MONOGRAPH.md",
+      "bytes": 12716,
+      "sha256": "8dc54bc0d2d1a2b276d133a9c09cc8de9b64734c5ea758217261a51fab0984cf",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_VICE_CHARACTER_MONOGRAPH.md",
+      "bytes": 10325,
+      "sha256": "07d3e9df84065ff9b942d0acb0e9f7e1705d8d8339ce1427c02420a37b3e31dd",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LILAC_LALATINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 9294,
+      "sha256": "a1561c41dd4cae21b979a968bd36bc8f565ffc378ff72e209d25d454e8e86d19",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TIA_CHARACTER_MONOGRAPH.md",
+      "bytes": 8894,
+      "sha256": "1f7e47055bcc26780024fe4acf3d75065f569b7a56bf97b0ec0c3b220d869020",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LILIANTINE_CHARACTER_MONOGRAPH.md",
+      "bytes": 10540,
+      "sha256": "063e68e68878f6316c9ccad7b850de9ec73ea04a7c6e27c6f7f5fad6a2180ebc",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MELVIREI_CHARACTER_MONOGRAPH.md",
+      "bytes": 10644,
+      "sha256": "d75f585cdfc95999a3f3eff1ccc7dbdda81157c3c097fc46e6ea91043203d98f",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LAST_LIFE_SUCCUBUS_OWNER_CHARACTER_MONOGRAPH.md",
+      "bytes": 10159,
+      "sha256": "1262c67dadada1a4407c9f40a751882fff9496308e4238ee631c4126a3e911f3",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CRANK_CHARACTER_MONOGRAPH.md",
+      "bytes": 8945,
+      "sha256": "45e2442f7020450e0e90a440d7ddb3576053cd56a73246e2b3af48373435c49f",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI03_SUCCUBUS_MESSENGER_CHARACTER_STUDY.md",
+      "bytes": 10358,
+      "sha256": "d1704a28e843b2cd69914b550549960cb59fa00ab98f8f340a526861857fe0d1",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KNEE_INJURED_VETERAN_CHARACTER_MONOGRAPH.md",
+      "bytes": 12577,
+      "sha256": "347640b9a460a335f7ff754edbc5f38474a4106ba04f18166b78ef455d0c1cc4",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_SHUMEL_RECONSTRUCTION_MODEL.md",
+      "bytes": 8025,
+      "sha256": "96536f42abf075059eab4cfcc7eedaaedff0f8f1f346729ee5c7a76e06ab055f",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/SHUMEL_EXPANDED_V1_EVIDENCE/SHUMEL_RULE_INVENTORY_01.json",
+      "bytes": 5049,
+      "sha256": "c78dac5b3e5b0273f67c4dbaa57c843b438514bf11243dba692a4f92cd6c63a8",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KNEE_INJURED_VETERAN_RECONSTRUCTION_MODEL.md",
+      "bytes": 11534,
+      "sha256": "5a9dc199c4fc3d000e957c10309efe94bc4857559ce1775dfeb8493af62776a6",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KNEE_VETERAN_EXPANDED_V1_EVIDENCE/KNEE_VETERAN_RULE_INVENTORY_01.json",
+      "bytes": 8600,
+      "sha256": "fb60994c618e42f2f33ad0798577541b4095f7b0b2579851c1e75b3f362da6e5",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles",
+      "bytes": 19613,
+      "sha256": "b88508f3600492f1328c479cd327d32247b97220be46731537940a6cf03f4f9d",
+      "append_fragment_not_full_file": true
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md",
+      "bytes": 17270,
+      "sha256": "ace11f1d71107f07fd1aa2b8b243351ca6ac5bfca285ab16f3242862bf233efa",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI03_IDENTITY_AND_SUPPORTING_CAST_COHORT45_SUPPLEMENT.md",
+      "bytes": 11058,
+      "sha256": "c93bda082192ef65891bd6655f0c9e1b341805f55aa7f35538525a15e632411c",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_NEW_DISCOVERY_RECORDS.json",
+      "bytes": 52651,
+      "sha256": "00eef0e7502e741c7699698069f078e6acb4f3c597afd872c742252b069eae53",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_NATIVE_PROVENANCE.json",
+      "bytes": 7913,
+      "sha256": "1030a99ab5c62078a697f544778c7cb145554cb5a877d9123963b2c877037090",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_IDENTITY_AND_SCOPE_ASSESSMENT.json",
+      "bytes": 8072,
+      "sha256": "dfa13d009d23f0e168bdbcede162a5ffdf1abbfba2e073b59bce55c43c4b6d10",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 7295,
+      "sha256": "8c19f0b33334c5a2ce62f081c795314c9925a9c2a20c38350e413e3a212de873",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/SHUMEL_EXPANDED_V1_EVIDENCE/SHUMEL_SCENARIO_INPUTS_01.json",
+      "bytes": 5633,
+      "sha256": "7f00d687b8e1f0a775803f02c9d456b74ee99aa8d12049345f624302fe415ab1",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/SHUMEL_EXPANDED_V1_EVIDENCE/SHUMEL_FIRST_OUTPUTS_01.json",
+      "bytes": 3193,
+      "sha256": "2ea8d378c1e3e781342ca7921c0b5885429d8fb31e59e4e79e01e3b1c601eedc",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/SHUMEL_EXPANDED_V1_EVIDENCE/SHUMEL_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 3284,
+      "sha256": "7921c6784db9dfcaf2ae447c8221e94a2c701d640c978cd8525d46f8fbce7c4b",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/SHUMEL_EXPANDED_V1_EVIDENCE/SHUMEL_DIAGNOSTIC_ASSESSMENT_01.md",
+      "bytes": 4434,
+      "sha256": "22f6f16847cc6c0178c599ef079072d398a495513c68b2601231c95c6f08bff5",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KNEE_VETERAN_EXPANDED_V1_EVIDENCE/KNEE_VETERAN_SCENARIO_INPUTS_01.json",
+      "bytes": 10781,
+      "sha256": "e35f3f4c26e614e2c64c51c346851a7acda238e16bde790197d9e20caf2387e3",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KNEE_VETERAN_EXPANDED_V1_EVIDENCE/KNEE_VETERAN_FIRST_OUTPUTS_01.json",
+      "bytes": 5305,
+      "sha256": "ee46e1784280fdac2e9305c42d596d9a70692dc68f144ba91d2d267fb10b9299",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KNEE_VETERAN_EXPANDED_V1_EVIDENCE/KNEE_VETERAN_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 5982,
+      "sha256": "ba340048948c022faced0e61ec2c69419364870d9f47af0cf47fd3fe8f0c80a5",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KNEE_VETERAN_EXPANDED_V1_EVIDENCE/KNEE_VETERAN_DIAGNOSTIC_ASSESSMENT_01.md",
+      "bytes": 6815,
+      "sha256": "19c395f7f97cc3b4374d54414af6d900c2c386a0bd0366d19f155a089238803f",
+      "append_fragment_not_full_file": false
+    }
+  ],
+  "candidate_totals": {
+    "model_artifacts": 67,
+    "source_scoped_secondary_model_entries": 61,
+    "bounded_profile_passages": 160,
+    "bounded_profile_qualification": "Retained textual passages, including one qualified Rex occurrence supplement;21new C45Tier1census routes plus one existing route supplement.",
+    "monograph_only_source_studies": 53,
+    "nonfinal_source_access_records": 572
+  },
+  "scoped_new": {
+    "monographs": 10,
+    "monograph_only": 8,
+    "provisional_models": 2,
+    "provisional_rules": 3,
+    "bounded_profiles": 22,
+    "new_profile_occurrences": 21,
+    "existing_Rex_occurrence_supplement": 1,
+    "new_substantial_study_routes": 3,
+    "limited_access_records": 36,
+    "proposed_new_census_records": 60,
+    "original_first_bodies": 6,
+    "dependent_pairs": 3
+  },
+  "individual_study_homes": [
+    {
+      "row": 107,
+      "subject": "Shumel / シュメール・ミード・ひゃんひゃん",
+      "tier": 3,
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SHUMEL_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 108,
+      "subject": "Vice / バイス",
+      "tier": 2,
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_VICE_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 109,
+      "subject": "Lilac Rod Lalatina / later Lalatine",
+      "tier": 2,
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LILAC_LALATINA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 110,
+      "subject": "Tia / ティア",
+      "tier": 2,
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TIA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 111,
+      "subject": "Liliantine / リリアンティーヌ",
+      "tier": 2,
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LILIANTINE_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 112,
+      "subject": "Melvirei / メルビレイ",
+      "tier": 2,
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MELVIREI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 113,
+      "subject": "Last-life succubus dungeon owner",
+      "tier": 2,
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LAST_LIFE_SUCCUBUS_OWNER_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 512,
+      "subject": "Baron Crank / クランク",
+      "tier": 2,
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CRANK_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 513,
+      "subject": "YORI03 succubus messenger occurrence",
+      "tier": 2,
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI03_SUCCUBUS_MESSENGER_CHARACTER_STUDY.md"
+    },
+    {
+      "row": 514,
+      "subject": "Knee-injured veteran counterpart bundle",
+      "tier": 3,
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KNEE_INJURED_VETERAN_CHARACTER_MONOGRAPH.md"
+    }
+  ],
+  "source_scope": {
+    "YORI03_unique_P": 3006,
+    "YORI03_ruby": 2745,
+    "EXP03_known_return_unique_P": 181,
+    "EXP03_ruby": 151,
+    "total_current_unique_P": 3187,
+    "total_current_ruby": 2896,
+    "current_images": 0,
+    "current_residuals": 0,
+    "whole_edition": false,
+    "new_global_source_first": false,
+    "independent_observation_count": null
+  },
+  "proportionality": "No word/appearance quota,symmetry,anonymity/animal ceiling or forced generator. Eight monograph-only treatments and one event-scoped identity-open messenger study retain their own substantive agency and limits.",
+  "complete_receiving": {
+    "existing_context_all18pages": true,
+    "adaptive_identity_all22pages": true,
+    "staff_wager_all3pages": true,
+    "Hoost_all3pages_and_index": true,
+    "Rex_party_all2pages": true,
+    "additional5_logical_rows": true,
+    "YORI03_all66pages": true,
+    "EXP03_all4pages": true,
+    "foundation_all41pages_and4complete_correction_pages": true,
+    "six_exact_inputs_received_before_firsts": true,
+    "six_originals_sealed_before_feedback": true,
+    "all4_diagnostic_bodies_received": true,
+    "bounded_owner_import_all10pages_received": true,
+    "broader_foreign61pages_not_received_or_credited": true
+  },
+  "freeze_receipts": {
+    "foundation": {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_FOUNDATION_FREEZE_01.json",
+      "sha256": "f6d19bf173327abb8893b934b152ead4b78941f0cd443a394ff0d4b37021ac6b"
+    },
+    "exact_inputs": {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_EXACT_INPUT_FREEZE_01.json",
+      "sha256": "352da7f2cb8ef04fe996fc0db05664923bf61f6d4961a5d9812471bdc33f642f"
+    },
+    "original_firsts": {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_ORIGINAL_FIRSTS_SEAL_01.json",
+      "sha256": "df313c8c7b5231ca5fd639f1a3a60dc8c5c3526987be36d4a30e317ca4019641"
+    }
+  },
+  "census": {
+    "changed_existing_rows": [
+      43,
+      51,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      118
+    ],
+    "unchanged_entering_rows": 502,
+    "new_rows": [
+      512,
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530,
+      531,
+      532,
+      533,
+      534,
+      535,
+      536,
+      537,
+      538,
+      539,
+      540,
+      541,
+      542,
+      543,
+      544,
+      545,
+      546,
+      547,
+      548,
+      549,
+      550,
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558,
+      559,
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571
+    ],
+    "new_Tier3": 1,
+    "new_Tier2": 2,
+    "new_Tier1": 21,
+    "new_Tier0": 36,
+    "discovery_token_to_current_row": {
+      "Y03-N01": 512,
+      "Y03-N02": 513,
+      "Y03-N03": 514,
+      "Y03-B01": 515,
+      "Y03-B02": 516,
+      "Y03-B03": 517,
+      "Y03-B04": 518,
+      "Y03-B05": 519,
+      "Y03-B06": 520,
+      "Y03-B07": 521,
+      "Y03-B08": 522,
+      "Y03-B09": 523,
+      "Y03-B10": 524,
+      "Y03-B11": 525,
+      "Y03-B12": 526,
+      "Y03-B13": 527,
+      "Y03-B14": 528,
+      "Y03-B15": 529,
+      "Y03-B16": 530,
+      "Y03-B17": 531,
+      "Y03-B18": 532,
+      "Y03-B19": 51,
+      "Y03-B20": 533,
+      "Y03-B21": 534,
+      "Y03-B22": 535,
+      "Y03-T01": 536,
+      "Y03-T02": 537,
+      "Y03-T03": 538,
+      "Y03-T04": 539,
+      "Y03-T05": 540,
+      "Y03-T06": 541,
+      "Y03-T07": 542,
+      "Y03-T08": 543,
+      "Y03-T09": 544,
+      "Y03-T10": 545,
+      "Y03-T11": 546,
+      "Y03-T12": 547,
+      "Y03-T13": 548,
+      "Y03-T14": 549,
+      "Y03-T15": 550,
+      "Y03-T16": 551,
+      "Y03-T17": 552,
+      "Y03-T18": 553,
+      "Y03-T19": 554,
+      "Y03-T20": 555,
+      "Y03-T21": 556,
+      "Y03-T22": 557,
+      "Y03-T23": 558,
+      "Y03-T24": 559,
+      "Y03-T25": 560,
+      "Y03-T26": 561,
+      "Y03-T27": 562,
+      "Y03-T28": 563,
+      "Y03-T29": 564,
+      "Y03-T30": 565,
+      "Y03-T31": 566,
+      "Y03-T32": 567,
+      "Y03-T33": 568,
+      "Y03-T34": 569,
+      "Y03-T35": 570,
+      "Y03-T36": 571
+    },
+    "qualified_Rex_supplement_without_new_row": 51,
+    "part_rows": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      12
+    ],
+    "separate_private_inline_candidate": "WORK129; WORK128 remains immutable",
+    "historical19_differences_preserved": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "all_independent_observation_counts_null": true,
+    "no_unique_person_denominator": true
+  },
+  "diagnostic_findings": [
+    "SHU-A1 expresses boundary/threat and spell preparation, but no completed costly hit or tactical result; ending inspection is a unilateral assertion. SHU-A2 keeps dispute under respect but is procedurally tidy. Generic insulted noble remains live.",
+    "KIV-B1 refuses religious bargain; B2 asks questions and does not grant permission. No binary refusal/acceptance reversal, no required neutral acceptance, and no unique causal discrimination.",
+    "KIV-C1 extra3coin offer stays within supplied12 but is invented/unreceived; C2 reserves all committed coins and proposes teaching, whose expertise/outcome are unprobed. Pay-your-way wording implies an unrequired expense, not a performed fare.",
+    "Late consent-grievance wording, articulate English, neat budgeting and arbitrary amounts are retained as authored extensions. No source or input fact is created from them; no new rule, model/input repair or replacement first.",
+    "All three pairs are informed dependent hypotheticals. No independent accuracy, causal identification, capability grade, confidence increase, Japanese adequacy or final StageD battery credit."
+  ],
+  "frozen_history": {
+    "entering65_models_and_all_prior_rules_firsts_scores_blanks_nulls_exact": true,
+    "new_models": 2,
+    "new_rules": 3,
+    "new_original_firsts": 6,
+    "dependent_pairs": 3,
+    "model_input_or_first_repair_after_feedback": false,
+    "independent_observation_count": null,
+    "numeric_accuracy": null,
+    "grade": null,
+    "confidence_gain": false,
+    "final_StageD_battery_credit": false
+  },
+  "prior_C44_author_gate": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+    "sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541",
+    "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+    "own_full_tests": 479,
+    "merged_PR329": 329,
+    "merge_commit": "941f8c84f2beee8f8bd57b0e5b4c4c62d621ec87"
+  },
+  "publication_pending": [
+    "complete candidate operation review",
+    "exact-index author preflight",
+    "ordinary publication",
+    "whole remote tree and every changed byte-stream verification",
+    "new actual-source full discovered-suite audit and latest trusted isolated status",
+    "fresh published-authority reload"
+  ],
+  "source_absolute_paths_in_public": 0,
+  "full_program_complete": false
+}

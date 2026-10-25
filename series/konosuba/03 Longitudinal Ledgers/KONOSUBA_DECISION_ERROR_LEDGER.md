@@ -2087,3 +2087,10 @@ Megumi’s emotion coexists with later source checking and a near-apology interr
 The dryad’s living-dependent objection, wanted water and naturally expired-plant settlement support a conditional exchange constraint, while death threats and pressure resist an idealized fairness account. The dinner host checks immediate cat danger yet later admits wing-broth extraction and flees a rights confrontation; take-home permission belongs to another unjoined woman. The follower’s bag leverage is lost after provocation and Steal, with final fate unshown. Park-men harmful statements contradict a blanket harmless reading; the social lesson’s fake withdrawal is contradicted by the actual blast.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+Vice interprets Darkness's assault as confirmation of Tia's storyU01860 despite having the wrong addressee; later correction and exposed stories308–309 qualify that apparent evidence. Crank admits monster trade while disputing attributed purposeU014296 and explicitly defends maid harassment300. Actual contraband307 does not retroactively prove every allegation; no collar311. Shumel's actual lightning375 gives Darkness public-casting/injury leverage383. Kazuma's threatened retaliation precedes Megumin disbelieving a true frog warningU012154–176. These are situated evidence/choice failures, not global intelligence diagnoses.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

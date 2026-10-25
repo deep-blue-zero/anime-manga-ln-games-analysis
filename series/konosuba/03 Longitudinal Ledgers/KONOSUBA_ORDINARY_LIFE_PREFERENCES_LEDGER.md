@@ -1504,3 +1504,10 @@ Ozuma protects a paid informant’s unhurried meal and helps before a bargain; M
 Siegwald’s recovery, offered milk, play with Chomusuke, sleep, garment bedding and separation behavior receive an individual account with state/comfort rivals. The mother waits and carries Aqua despite protest; final care arrangements remain open. The dryad wants usable water and rejects damage to dependents. At dinner the waiter gives actual tickets, a male noble supplies food and an unjoined woman permits take-home; these acts do not all belong to the host. Ice-cream service, cake-worker conversation and poultry/egg supply retain their separate ordinary-life roles.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+Liliantine's preferred teacher, volcano question, notes/applause and narrated academic gainsU018118–127/210–217/316–318 give ordinary learning agency without a fight or royal function. Enjoying fiction and copying poses coexist; no private dismissal interview is shown. The veteran wants to test restored mobilityU020665 and expands the practical exchange671–679, with no unlimited purse or prior consent. The foreman actually recognizes useful work and increases pay528–539. Melvirei's growth outstrips successive containersU018274/327/348–350; human reluctance and information suppression contribute to confinement.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

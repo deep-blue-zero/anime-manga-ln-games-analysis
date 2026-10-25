@@ -2076,3 +2076,10 @@ C43 receives 2,116 current P / 2,017 ruby across seven members/two local EPUB ob
 C44 receives2675 current paragraph slots/2530ruby in ten complete YORI02 paragraph projections: U012283,U014282,U016390,U018331,U020393,U022423,U024367,U02667,U02762,U02877, across57 actual page deliveries in one verified local EPUB. The C43 U018P209–245 window repeats explicitly. Zero current images, nonparagraph residuals, whole-edition or new global source-first credit. Earlier full-edition receipts retain their own dated scope. Derivative13-page and identity16-page context were fully received; all456 labels were routing only.
 
 [Current evidence index](KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+C45 actual current native union is3187P/2896ruby: YORI03 five complete paragraph/ruby projectionsU012P1–517,U014P1–629,U016P1–517,U018P1–461,U020P1–882 (3006P/2745ruby,66pages); EXP03 known returnU034P485–561 andU045P1–104 (181P/151ruby,4pages). These are two already-known local EPUB objects, with fresh hash/CRC/OPF/member correspondence. No current image, residual, whole-edition or new global source-first credit. All earlier81 YORI03 precision qualifications were received and remain governing. The additional return answers a specific Hoost/Rex identity question and is not a new independent battle observation.
+
+[Current evidence index](KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

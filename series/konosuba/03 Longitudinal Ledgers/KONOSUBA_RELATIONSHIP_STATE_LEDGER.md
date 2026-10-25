@@ -1624,3 +1624,10 @@ The visitors have separate grief, family and territorial purposes. Ozuma’s pro
 Maternal entrustment, the cub’s clinging, the mother’s pause and coercive transport of Aqua are observed separately from inferred thoughts or later training. The dryad’s claimed dependents shape a bargain without universal plant representation. The follower’s Wolbach reverence does not establish his personal identity as Hoost or Arnes. The dinner fairy’s movement and whispered contributions do not settle final custody or bind every supplier to the host. Three park men and two frog novices retain incomplete voice allocation; a group route is not a shared mind.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+Successful business and mansion accessU020714/723–724 precede the wish for the familiar companions779–824; harder chores783 and Aqua's own people preference784/799 coexist. Known reset792/796 prevents a durable-loss or equal-role substitution claim. Shumel invokes reciprocal name etiquette with DarknessU014385, while attacking Kazuma and resisting a superior raid; this is neither general trust nor a verified shared conspiracy. Melvirei shows interest in stayingU018431 before Aqua prompts432 and departure433; the animal's private sea-desire437 is Kazuma's inference. The messenger's workplace connectionU016267 and Vanir gesture264–265 retain distinct contributors.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
