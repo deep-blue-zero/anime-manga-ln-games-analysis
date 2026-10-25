@@ -1,0 +1,117 @@
+{
+  "schema": "konosuba.cohort43.identity-and-proportional-scope.v1",
+  "recorded_utc": "2026-10-25T02:18:25.475947+00:00",
+  "subjects": [
+    {
+      "row": 93,
+      "subject": "Ozuma / ザトゥ・オズマ",
+      "tier": 3,
+      "rules": [
+        "OZU-R01",
+        "OZU-R02"
+      ],
+      "justification": "Actual unpaid help, an explicit exchange norm, anger/legal inhibition, companion interaction, work, a danger warning, gratitude and credibility errors support two narrow defeasible propositions.",
+      "limits": "One connected episode; ordinary reciprocity, gratitude, loyalty and comic reversal remain rivals. No independent mechanism isolation, maturity or transfer accuracy."
+    },
+    {
+      "row": 94,
+      "subject": "Akyua / アキュア",
+      "tier": 1,
+      "rules": [],
+      "justification": "Her own apology, hospitality, prayer, intended but preempted heal, arrow recognition and mistaken trust support a bounded profile.",
+      "limits": "No performed failed heal, complete capacity ceiling or individually supplied tragic biography; no automatic Aqua trait transfer."
+    },
+    {
+      "row": 95,
+      "subject": "Megumi / メグミ",
+      "tier": 2,
+      "rules": [],
+      "justification": "Food/name exchange, emotional engagement, checking, a pressured near-apology, correct rule objection, danger proposal and family project support an individual monograph.",
+      "limits": "Inherited claims are reported; reincarnation remains an inference, mobilization is not performed and no distinctive generator is isolated."
+    },
+    {
+      "row": 96,
+      "subject": "Rakuresu / ラクレス",
+      "tier": 2,
+      "rules": [],
+      "justification": "Courtesy, reputation interest, sympathetic proposed departure, protective offer/stance, former territorial duty and reported harassment response support a monograph.",
+      "limits": "No actual failed tanking, sole-survivor or noble-birth claim, completed restoration or Darkness-desire transfer; several deeds are reported or preempted."
+    },
+    {
+      "row": 97,
+      "subject": "Wolfgang Crow / ヴォルフガン・クロウ",
+      "tier": 2,
+      "rules": [],
+      "justification": "Hierarchy revision, harmful intent, a chosen contest, forced alternatives, metric critique, withdrawal and coerced pledge support substantial study.",
+      "limits": "Ordinary life and comparable independent contexts are thin. Status defense, survival and a connected contest remain rivals; no cub join, fulfilled reform or model."
+    },
+    {
+      "row": 98,
+      "subject": "Eibram / トランザム・ルッソ・エイブラム",
+      "tier": 2,
+      "rules": [],
+      "justification": "Rank-sensitive hospitality, task revision, filial care, a limit on a violent demand, diary promise, adverse admission and unanswered adoption questions support the client’s agency.",
+      "limits": "Good governance is interested testimony, disposal is unperformed, biological parentage unanswered and C29 name attribution preserved."
+    },
+    {
+      "row": 99,
+      "subject": "Pickles / トランザム・ルッソ・ピクルス",
+      "tier": 2,
+      "rules": [],
+      "justification": "Public-image/private-appetite account, play versus business, recipient limits, exposure bargaining, adverse legacy and adoption disclosure support a mediated-subject study.",
+      "limits": "Aqua-mediated speech is not separately heard voice. No affair proof, consent proxy, destroyed diary or fulfilled reform; C29 name precision retained."
+    },
+    {
+      "row": 100,
+      "subject": "Old unnamed-deputy episode route",
+      "tier": "JOIN_EXISTING_231",
+      "rules": [],
+      "justification": "Exact YORI01U014P63 self-name and office match the already studied Lolierina at 231; retain the old route with a joined-to history.",
+      "limits": "Zero new-person, monograph, model or independent credit. Chief Aloerina is 91; unrelated 230 remains untouched."
+    },
+    {
+      "row": 101,
+      "subject": "Unnamed recruiter/inspector",
+      "tier": 1,
+      "rules": [],
+      "justification": "Report-based appraisal, explicit recruitment aim, progression assumptions, actual refusal response and departure contrast support a bounded occupational profile.",
+      "limits": "Punitive aim is initially inferred; private departure cause is unknown. No accepted recruit, stripped license or universal class-coward generator."
+    },
+    {
+      "row": 122,
+      "subject": "Unnamed wallet-wager veteran",
+      "tier": 2,
+      "rules": [],
+      "justification": "Consent defense, ordinary interference, strategic odds, an exact stake violation, funds checking and retaliatory retention support a substantial study.",
+      "limits": "No personal name, rigged die, shown prior-city crime, completed Kazuma rematch or watched final restoration. Profit, irritation, object value and face remain overlapping causes."
+    }
+  ],
+  "new_record_draft_sha256": "2f0c290529a7754a4f4dcf832da99d5dce00904e24ca248e2113ff055a417167",
+  "monographs": 7,
+  "monograph_only_new_routes": 6,
+  "new_provisional_models": 1,
+  "new_rule_count": 2,
+  "compact_profiles": 4,
+  "existing_compact_routes": [
+    94,
+    101
+  ],
+  "new_compact_routes": [
+    436,
+    451
+  ],
+  "new_sparse_routes": 35,
+  "alias_join": {
+    "old_route": 100,
+    "existing_route": 231,
+    "positive_locator": "YORI01 U014 P63",
+    "new_person_or_study_credit": 0,
+    "chief_route": 91,
+    "unrelated_route230_excluded": true
+  },
+  "remaining_cross_source_identity_review": "Anna/118 and unnamed-role joins remain open; literal retrieval does not prove source absence.",
+  "source_access_and_uncertainty": "Source known; same informed root. Current 2,116 P / 2,017 ruby in seven members and two objects: six full paragraph projections and one bounded projection. No fresh image, residual, whole-edition or independent credit.",
+  "models_not_automatic_for_monographs": true,
+  "no_anonymity_gender_species_or_appearance_count_ceiling": true,
+  "full_program_complete": false
+}

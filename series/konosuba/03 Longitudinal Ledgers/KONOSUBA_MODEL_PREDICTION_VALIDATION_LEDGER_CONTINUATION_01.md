@@ -638,3 +638,17 @@ Three foundations/five rules froze before exact inputs. Twelve actual original J
 Scientist monograph/model/two rules froze after17complete review pages plus2correction pages,before exact inputs. Four exact inputs/pre-first plan were received,then four direct original Japanese first bodies were authored once and sealed before feedback. Two dependent contrasts show directional compatibility only. A1public prototype ambiguity,A2unbound notification frame,B1effort-only branch andB2residual-two-hours issue remain;zero model/body repair,independent trials,character-mechanism isolation,scalar accuracy,grade,confidence gain,acoustic certification or final-battery credit.
 
 [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Cohort42authors no model, rule, exact input or first body: two Tier2monographs and seven Tier1profiles earn proportional responsibility. Current identity inference does not silently add support to frozen Lolisa/MASK/Luna/store-owner/noble models. All63models, rules, genuine originals and errors remain exact. No independent trials, scalar accuracy, confidence gain, grade, acoustic finding or final-battery completion follows.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Ozuma’s foundations froze after 24 complete review pages, four corrective pages and an exact link/destination correction, before exact inputs. Four exact English prompts and a pre-first plan were received and frozen, then four direct original bodies were authored once and sealed before feedback. A1 adds unprovided door action; A1/A2 add agreement-role allocation; A2 may idealize fairness; B2’s precise moral ordering remains unvalidated. B1 retains the capability-to-credibility error. All originals and rules remain unchanged. Two dependent known-source contrasts confer no independent accuracy, grade, confidence gain or final-battery credit.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

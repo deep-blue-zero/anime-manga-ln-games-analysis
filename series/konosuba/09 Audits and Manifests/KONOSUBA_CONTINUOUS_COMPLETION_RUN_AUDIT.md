@@ -1986,3 +1986,39 @@ Owner merged PR316atdb1e0652196adae10a01a1d1899d0782011e52f6,withthe exact01a822
 ## Cohort41 final baseline after owner foreign-series integration — 2026-10-24T23:08:05.276143+00:00
 
 Final publication parent38cb5cbd contains ownerPR318four Shuukura paths,retained byte-exact. All KonoSuba/control/model/rule/original streams remained exact through retained checkpointeebbf78e andordinary fast-forward. The earlier db1e0652ownerPR316integration now independently passes full479audit40140324280andtrusted status. That result does not transfer to this candidate. Five current publication-metadata paths are updated;10068repository files/1506project files require fresh author preflight andtheir own source audit. New author PR,remote readback andauthority reload remain due. Full program continues.
+
+
+## Cohort41 exact-source author gate closed — 2026-10-24T23:22:39.124076+00:00
+
+Cohort41 source `86aa4073afc6e1f6431f5e9a485c4c7e4f67bc8a` /tree `f5f886c9af74a7b02a25073f832f69dc5ea0ff4e` closes the author tranche. Audit40141674799:479/479tests,allfive non-success categories zero;trusted reporter/status,10068remote bindings/40changed streams and1506file reload verified. Totals63models/57scoped/106compact/32monograph-only/397nonfinal records. Twenty status rows change;377others and19historical plane differences exact. All13cores16private15supporting,four originals and63models unchanged. Public-account,notification,effort-only andresidual-time findings remain withgeneric rivals;no independent accuracy/grade/confidence gain. Criminal-trio mapping andfull remaining program stay open. PriorPR316owner integration separately verified;PR320new-tranche protected integration/release are separately owned.
+
+[Gate receipt](KONOSUBA_COHORT41_PUBLICATION_GATE_CLOSE.json).
+
+
+## Cohort42 semantic receiving — 2026-10-25T00:36:03.269045+00:00
+
+Six frozen public cores,two monographs,seven compact profiles,15T0routesand22newrecords support419nonfinal records. Seven entering rows change,390others/19historical differences retained. Existing63models/rules/firsts/scores/notes/nulls unchanged;new model/rule/input/first count0. Actual3461P3426ruby50prepared displays10members5Dustobjects,six fullparagraph projections/four bounded;separate259oldMAIN02/MASKPreturn,zeroimages/residual/whole-edition/independent credit. Full16page foundations plus2precision pages received before freeze. Qualified identity joins andunresolved local mapping remain. Owner main7a78b207/full479audit40145592318verified;incomingPR321threeglobal streams and417row/40namespace scope carried,old415/397history retained. NineC41closing paths included. Exact candidate preflight/publication/full remote readback/fullactual-source audit/latest trusted status/freshauthority reload still due;full program continues.
+
+
+## Cohort42 owner PR322 authority reconciliation — 2026-10-25T00:49:56.532446+00:00
+
+Owner mainc2e8af7cincludesPR322nineShuukurastreams/two new paths,all retained exactly. Current10074path/full479audit40146686536verified;it does not certify the new candidate. Original31KonoSuba staged scope andsix frozen cores retained;only six authority/navigation metadata streams change,all419canonical/private row bodies unchanged. WORK121remains immutable;WORK122owns new authority metadata. Global108bindings/12controls/40namespaces/417entries remain atPR321baseline7a78b207. Finalcandidate expects10083paths;no new analysis/model/rule/input/first/foreign-reading orindependent credit. Exactauthorpreflight,ordinarypublication/fullsource gates andfullprogram continue.
+
+
+## Cohort42 exact-source author gate closed — 2026-10-25T01:13:52.697603+00:00
+
+Cohort42 source `7acb76f63f77539b79dd4d9f7891855043058af1` /tree `1290426538132b4fe72067fa1c5dcc31699f2fe4` closes the scoped author tranche. Audit40148739580:479/479tests,every discoveredID matched,allfive non-success categories zero;trusted reporter/status,10083remote bindings/43changed streams and1515-body reload verified. Totals63models/57source-scoped entries/113compact/34monograph-only/419nonfinal records. Twenty-nine publication-status rows change;390others and19historical plane differences remain exact. Five earlier model-route tier/disposition/priority fields stay exact. Allsix analytical cores,63models,rules,originals,adverse findings andscratch history unchanged. No new model,rule,input,first,independent performance orfull-program closure. PR324protected integration,newer owner main andthe full remaining census/synthesis/successor/validation/release program stay separately governed.
+
+[Gate receipt](KONOSUBA_COHORT42_PUBLICATION_GATE_CLOSE.json).
+
+
+## PR324 artifact-reference correction — 2026-10-25T01:37:40.568616+00:00
+
+PR324comment4369184138is confirmed:15Tier0records contained the evidence index twice. Stable first-occurrence normalization retains the same3distinct targets and removes onlythe redundant fourth edge ineach canonical/private row. All404otherrecords,19historical plane differences,63models/rules/originals and6analytical cores remain exact. WORK123andoriginal frozen drafts retain historical bytes;newprivateWORK124carries the current correction. Earlier C42source7acb76f6author gate remains historical;this containing correction requires fresh preflight,ordinarypublication,remote readback,full479-test audit andauthorityreload. No newprimary reading,model,rule,input,first orindependent credit. Fullprogram continues.
+
+[Reference correction](KONOSUBA_COHORT42_ARTIFACT_REFERENCE_NORMALIZATION_01.json).
+
+
+## C43 semantic receiving and PR324 closure — 2026-10-25T02:36:22.720524+00:00
+
+Seven monographs, one two-rule Ozuma model, four bounded profiles and37 source/access records are received; candidate64 model artifacts/58 source-scoped secondary entries/117 compact/40 monograph-only/456 nonfinal records. Eleven existing rows change,408 are exact and19 historical plane differences persist. Actual2,116P/2,017ruby/47displays/seven members/two local EPUBs gives six full paragraph projections and one bounded context, zero images/residuals/whole-edition/independent credit. Foundation24+4-page review and link correction preceded four frozen inputs/four once-authored English firsts; adverse binding and transfer findings remain without repair. PR324 exact-source correction gate/review are closed at17e6afe7/full479 audit121preservation checks, documented in [closure](KONOSUBA_PR324_REFERENCE_FIX_PUBLICATION_AND_REVIEW_CLOSE_01.json). C43 complete candidate review, exact preflight/publication/readback/full source audit/reload remain due. Original changelog is preserved with an append-only continuation pointer. Full program remains active.
