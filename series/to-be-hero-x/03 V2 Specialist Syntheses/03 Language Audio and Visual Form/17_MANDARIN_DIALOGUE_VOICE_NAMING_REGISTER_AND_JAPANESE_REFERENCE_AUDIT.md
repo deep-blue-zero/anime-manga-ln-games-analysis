@@ -695,6 +695,8 @@ Her voice is one of the clearest examples of institutional language sounding int
 
 ## 26. Yang Cheng / E-Soul: shame, uprightness, covenant, and burden
 
+**E06 source correction (`TBHX-AV-E06-001`):** native Chinese rain hardsubs at WEB 21:10.88–21:27.25 / V2 cues 413–419 attach wholehearted support to honest self-facing, then explicitly refuse stopping to wait indefinitely if he cannot. `无条件` does not remove the surrounding conditional; `但是` is visibly subtitled. This corrects the older Japanese-dependent waiting interpretation without making E-Soul success a requirement of Xia's person-recognition. Her boundary preserves her agency as well as Yang's. Delivery and precise pauses remain acoustic debt.
+
 Yang’s early register is organized by shame, imitation, gratitude, and the desire to stand `堂堂正正`—uprightly and without shame—before E-Soul.
 
 The veteran’s mask language treats the role as covenant:
@@ -871,7 +873,7 @@ Both convert persons into projects, but their discourse differs:
 - Shang De devalues the existing person and imposes a product;
 - Yan Mo cultivates conditions in which the person appears to author the desired result.
 
-The forthcoming E05–E07 Yan Mo retrospective evidence audit remains necessary before the causal chain is archivally frozen. This document preserves the established lexical model without promoting the stronger claim that he planned every contingency from the beginning.
+The E05–E07 Yan Mo retrospective evidence audit now adjudicates the received tranche: paid commission, coercion, disposal, assistance, and expectation engineering are distinguished from unresolved administrative links and foresight. Its continuous/audio source qualifications remain conditions on archival causal closure. This document preserves the established lexical model without promoting the stronger claim that he planned every contingency from the beginning.
 
 ---
 
@@ -925,6 +927,8 @@ A current English-facing synthesis should use the official English surface while
 
 ## 39. Japanese reference function IV: source flattening or shift
 
+**Additional localization shift:** the actual `s01e06.ja.reference-aligned.ass` lines 337–340 (21:12.02–21:29.84) affirm continued waiting even if he cannot face himself. Native Chinese negates that indefinite waiting; BD English events 350–354 agrees with Chinese. Preserve the disagreement and actual witness provenance; do not substitute the producer's reconstructed Japanese quotation or infer localization intent.
+
 Some Japanese lines change emphasis:
 
 - Qīng’s `能犯错的普通人` becomes a more general wish to be ordinary.
@@ -942,6 +946,8 @@ The audit’s central discipline is to preserve the difference rather than harmo
 ---
 
 ## 40. Speaker labels, alignment, and false certainty
+
+**E05–E07 source-control cases:** the E07 recollection is Yang-centered at high visual-inference confidence, but pictured Shang and Japanese tags support Shang for the VIP/call context; exact voice turns await audition. Displayed 尚超/夏晴 cannot establish every speaker. QA statuses in ASS `Name` are not character labels. Native E06/E07 written forms read 启士, including E07 phone 05:03.167; reject the report's 启示 claim. E05 native 11:39.500 displays 尚超, contradicting the derived 严谟先生 insertion. Preserve canonical 岩莫/Yan Mo and 岩叔 address; no stronger executive title follows. The E06 proposed agency line remains OPEN. Audio-ledger default exact-match text is not proof of independent listening. See [formal audit §§3/7/9](../../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md).
 
 Subtitle alignment can fail in three distinct ways:
 
@@ -1137,9 +1143,9 @@ A later acoustic claim becomes synthesis-grade only when the evidence record ide
 
 This requirement prevents a familiar analytical error: converting a memorable local delivery into a permanent character essence. Queen's collapse, Ghostblade's silence, Qīng's singing, and X's workmanlike refusal may each have strong local acoustic force while still requiring comparison across public, private, crisis, and recovery contexts.
 
-The required E05–E07 audiovisual-form microsequence audit should be completed next, before Documents 18 and 19. It will directly examine continuous Mandarin audio, dialogue bridges, music, silence, timing, and motion for the E-Soul arc. In particular it must test the transition from Yang's unaided rescue attempt into first manifestation; the conversion of private rescue into managed hero image; the E06 prototype-helmet mistaken-target sequence; the E07 duel, Lucky Cyan's concern, crowd/spectacle register, and the ending Yan Mo reveal montage. Document 19 will then own the full sound/public-voice synthesis.
+The E05–E07 formal audit is now a completed analytical receipt within its declared still/text/metadata and producer-report boundary. It preserves findings for Documents 18–20 and explicitly leaves uninterrupted motion, precise timing, independent Mandarin/music audition, and Cyan-specific concern as source obligations AV-D01–06. The inspected concerned/isolated concert spectator is Xia Qing; do not silently use her as evidence of Cyan's concern. Document 19 still owns the full sound/public-voice synthesis. Documents 18–20 await complete-season evidence from further external Gemini bundles; this tranche does not close Phase 5.
 
-A separate E05–E07 Yan Mo retrospective AV evidence audit remains mandatory before Phase 6. That audit has a different responsibility: causal adjudication of the kidnapping call, exclusion from selection, mistaken-target assassination chain, coercion, disposal of Da Hu and Er Hu, and the shift from attempted elimination to adaptive assistance. Formal construction and causal responsibility may cite overlapping footage without being collapsed into one document.
+The separate E05–E07 Yan causal audit now supplies that bounded adjudication, retaining AV-D02/04/07 for stronger continuous/audio/administrative claims. Formal construction and causal responsibility cite overlapping sources with distinct responsibilities. No Phase 6–9 task begins from this receipt; the next expected input is another separately supplied Gemini arc handoff ZIP.
 
 ---
 

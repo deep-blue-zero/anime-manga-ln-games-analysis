@@ -9,7 +9,7 @@ source_boundary: Chinese-original audiovisual Season 1, Episodes 1–24, prospec
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: 2026-08-18
+last_updated: 2026-10-24
 ---
 
 # To Be Hero X V2 — Current State and Corpus Map
@@ -23,7 +23,7 @@ This is the canonical first-read routing surface for the active *To Be Hero X* V
 - **Secondary witness:** aligned Japanese subtitles/dialogue.
 - **Sequential readings:** **E01–E24 canonical / prospectively frozen**.
 - **Current phase:** **Phase 5 — language, audio, visual-form, and character-modeling synthesis; active**.
-- **Phase-5 progress:** **1/4 architecture-defined specialist documents complete**; Document 17 is canonical; Document 20 character behavior/personality/speech/situational modeling is now architecture-defined; and the mandatory E05–E07 AV-form evidence unit remains next before Documents 18–19.
+- **Phase-5 progress:** **1/4 architecture-defined specialist documents complete**; Document 17 is canonical; Document 20 character behavior/personality/speech/situational modeling is now architecture-defined; and the E05–E07 Gemini tranche now has two bounded analytical audits with explicit continuous/audio source debts; Documents 18–20 await complete-season external evidence.
 - **Completed Phase-5 synthesis:** **Document 17 — Mandarin dialogue, discourse voice, naming, register, and Japanese-reference audit**.
 - **Phase-4 progress:** **5/5 complete / formally closed**.
 - **Completed Phase-4 systems/thematic syntheses:** **Documents 01–05 canonical** — narrative architecture; Trust/Fear social ontology; heroism/legitimacy/dignity/coercion; institutions/political economy; and public narrative/branding/celebrity/myth/collective belief.
@@ -33,8 +33,8 @@ This is the canonical first-read routing surface for the active *To Be Hero X* V
 - **Phase 4:** **closed** under `TBHX_V2_PHASE4_CLOSURE_CHECKPOINT.md`; all five architecture-defined system/thematic syntheses are canonical, totaling approximately 52,800 whitespace-delimited words.
 - **Current claim authority:** Part I of `CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md`, containing 145 canonical `P2-CR-*` keys.
 - **Completed Phase-3 specialists:** **06 revision 1.1 + 07 + 08 + 09 + 10 + 11 + 12 + 13 + 14 + 15 + 16**. Specialist 06 incorporates the E24 Lin Ling/Nice dual-entry correction; 07–15 stabilize the individual and paired character clusters; Specialist 16 closes the sequence by establishing **answerable interdependence** as the cross-arc relational standard across testimony, kinship, mentorship, care, rivalry, alliance, public recognition, and survivable separation.
-- **Next recommended work unit:** **`TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md`**, completed before Documents 18–19; Document 20 follows stabilization of Documents 18–19 before Phase-5 closure.
-- **Active evidence intake:** `TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md` under `04 V2 Evidence and Revision`; first packet `TBHX-AV-E11-001` records Queen vs X and the immediate post-defeat collapse.
+- **Next recommended work unit:** receive the next separately supplied Gemini arc handoff ZIP and apply the established acceptance workflow. E05–E07 bounded analytical audits are recorded; outstanding source checks remain named. Do not begin a substitute arc audit or finalize Documents 18–20 while awaiting the external producer.
+- **Active evidence intake:** `TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md` under `04 V2 Evidence and Revision`; `TBHX-AV-E11-001` remains active, joined by E05–E07 entries `TBHX-AV-E05-001`, `TBHX-AV-E06-001`, and `TBHX-AV-E07-001/002`. See the [integration checkpoint](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_E05-E07_GEMINI_AV_INTEGRATION_CHECKPOINT.md) for publication state and the exact next-bundle boundary.
 - **V1 status:** `historical_legacy`; all forty imported hypotheses have final dispositions in `V1_TO_V2_REVISION_LEDGER.md`.
 - **Later TV source:** none inside the currently supplied 24-episode Season-1 corpus.
 
@@ -1102,39 +1102,24 @@ Checkpoint:
 
 The Phase-5 pass preserves all row-level identity separations while formalizing four Japanese-reference functions: semantic completion, interpretive sharpening, independent localization, and source flattening/shift. Japanese remains a secondary semantic/timing witness, not Mandarin lexical authority. Phase 7 must still perform the second claim-to-source/locator audit; Phase 9 alone may freeze the crosswalk as archival `canonical` authority.
 
-### Mandatory next evidence work before Documents 18–19
+### E05–E07 Gemini tranche and remaining Phase-5 evidence
 
-Complete:
+The received V2 bundle is adjudicated in two canonical evidence artifacts:
 
-`TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md`
+- [E05–E07 formal microsequence audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md): visible 0→1, covenant/rescue, conditional support, helmet/shooting, memory, concert/duel, local consolidation, source QA, and the 30-finding matrix.
+- [Yan Mo retrospective causal audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_YAN_MO_RETROSPECTIVE_AV_EVIDENCE_AUDIT.md): exclusion, paid commission, coercion, intended target/actual casualty, concrete disposal, assistance, expectation engineering, and bounded adaptive strategy.
 
-Canonical home:
+The analytical audits are complete within their stated source boundary. Codex independently inspected targeted stills/text/metadata, not uninterrupted playback or Mandarin audio. `AV-D01–07` retain exact timing and dialogue bridges, continuous shooting/climax and speaker turns, Cyan-specific concern, original-speed sound/music, source-clock mapping, the agency-name insertion, and administrative/disposal details. The architecture's stronger direct-AV requirements are not silently marked fulfilled. These debts remain retrievable alongside accepted corrections; they do not authorize automatic duplicate extraction or another arc's analysis.
 
-`04 V2 Evidence and Revision/Targeted AV Evidence/`
+Full-season Gemini AV coverage: **IN PROGRESS — external producer**. Phase 5 remains **1/4**, Document 17 canonical with targeted corrections. **Phase 5 Documents 18–20: PENDING COMPLETE-SEASON EVIDENCE.**
 
-This is a bounded continuous-video/audio formal audit, not a replacement episode reading. It must directly examine:
-
-- Yang's continuing rescue attempt, Yòuzi/Pomelo's recognition, and first E-Soul manifestation;
-- the veteran E-Soul covenant speech and whether agency formally precedes amplification;
-- the E06 conversion of private rescue into scalable managed hero image;
-- the prototype E-Soul helmet / Shang Chao shooting sequence as mistaken visual identity;
-- Shang Chao's funeral, MG pressure, Yan Mo's `电光斩` expectation engineering, and a substantial uninterrupted duel passage;
-- Lucky Cyan's visible/vocal concern in relation to crowd excitement, music, cutting, duration, and bodily violence;
-- the duel climax, veteran E-Soul's death, Trust consolidation, and the complete Yan Mo reveal montage.
-
-Only after this audit should Phase 5 proceed to:
-
-1. `18_VISUAL_FORM_ANIMATION_MODES_COLOR_EDITING_SCREENS_AND_SPECTACLE.md`
-2. `19_MUSIC_SOUND_SILENCE_PERFORMANCE_AND_THE_PUBLIC_VOICE.md`
-3. `20_CHARACTER_BEHAVIOR_PERSONALITY_SPEECH_AND_SITUATIONAL_MODELING_REFERENCE.md` — after Documents 18 and 19, integrating the Phase-3 monographs plus Documents 17–19 into evidence-bounded character reconstruction models.
+1. `18_VISUAL_FORM_ANIMATION_MODES_COLOR_EDITING_SCREENS_AND_SPECTACLE.md` will retrieve the accepted visual evidence with its continuous-source limits.
+2. `19_MUSIC_SOUND_SILENCE_PERFORMANCE_AND_THE_PUBLIC_VOICE.md` will retrieve attributed audio candidates and require actual audition before acoustic conclusions.
+3. `20_CHARACTER_BEHAVIOR_PERSONALITY_SPEECH_AND_SITUATIONAL_MODELING_REFERENCE.md` follows Documents 18/19 and retains its architecture-defined confidence-graded behavioral and speech modeling responsibility. Inference remains inference, not canon or a simulated acoustic profile.
 
 Document 20 is now a mandatory Phase-5 closure artifact. It is responsible for plausible situational reconstruction of sufficiently evidenced characters through baseline temperament, worldview/salience, decision heuristics, emotional needs and defenses, relationship-conditioned variants, speech-generation constraints, directly observed acoustic/embodied behavior, stress/failure/recovery patterns, negative constraints, and a confidence-graded `stimulus -> interpretation -> emotion -> priorities -> behavior -> speech -> aftereffect` inference chain. It must label extrapolation as inference rather than canon.
 
-A separate prerequisite before Phase 6 remains:
-
-`TBHX_V2_E05-E07_YAN_MO_RETROSPECTIVE_AV_EVIDENCE_AUDIT.md`
-
-That causal/claim audit must adjudicate the E05 kidnapping call, zero-Trust exclusion, E06 mistaken-target assassination chain, coercion, concrete disposal, and Yan Mo's pivot from attempted elimination to adaptive assistance. It must not promote a fully planned awakening/succession without direct evidence.
+The older Phase 3/4/Document 17 completion metrics elsewhere in this map and in their checkpoints describe those completed passes; the new integration checkpoint records this tranche's changed-file state. No Phase 5 closure or Phase 6–9 work is initiated. **Next expected input: next Gemini arc handoff ZIP.**
 
 ## 15. Protected full-series questions
 

@@ -347,6 +347,16 @@ Remain open:
 
 Future acoustic work must not be simulated from subtitle punctuation or translated dialogue.
 
+### E05–E07 received-source correction — 2026-10-24
+
+`TBHX-AV-E06-001`: the E06 Chinese rain passage (WEB 21:10.88–21:27.25; corrected cues 413–419) conditions wholehearted support on honest self-facing and negates indefinite waiting if he cannot. `但是` is displayed. The actual aligned Japanese lines 337–340 retain the affirmative waiting commitment; preserve that localization difference rather than letting it govern Mandarin meaning. Acoustic delivery remains unauditioned by Codex.
+
+The native E06 introduction/addresses and E07 caller-ID screenshot 000296 at source 05:03.167 read **启士**, preserving crosswalk `NM-005`; the producer's claimed phone `启示` is rejected. Homophonic audio cannot choose glyphs. Preserve **岩莫 / Yan Mo / Rock** and address **岩叔** (`NM-017/018`). E05 corrected cue 274 / audio ledgerL-009 is a false name repair: native 11:39.500 shows **尚超** and Shang Chao, not `严谟先生`. Do not admit it as a written Yan variant or infer an executive title from it.
+
+E07 cues 227–235 preserve calls of **尚超 / 夏晴**, confession, VIP invitation, and Yang's no-more-hesitation line. A Yang-centered recollection is not Yang voicing every line. Pictured helmeted Shang and Japanese speaker tags support Shang for VIP/call context; exact Mandarin turns remain an audio obligation. The derived ASS `Name` statuses are QA metadata, not speakers. Audio-ledger exact-match defaults are not an audition receipt. The agency-name insertion at E06-WEB 13:15.50–13:17.62 remains OPEN rather than causing a canonical institutional renaming.
+
+Source hashes, actual witness identities, rejected report claims, and cue-number corrections are in [formal audit §§2–3/5/7/9](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md). This is a current-source qualification; the prospective entries below remain preserved.
+
 ## 15. Prospective episode ledger — preserved
 
 The entries below retain episode-local terminology and uncertainty as it existed during Phase 1. Current normalization is supplied by Sections 1–14 and the audited crosswalk; older wording remains provenance rather than silent error.

@@ -242,6 +242,8 @@ The episode does not need the institution to be malicious. Structural exclusion 
 
 ## 6. Pomelo: recognition before belief becomes power
 
+**Current source qualification (`TBHX-AV-E05-001`):** native E05-WEB 20:33.000 shows 0 and 20:35.200 a solid 1. This revises the frozen numeric-display negative and strengthens the local relational threshold. It does not establish one believer equals one Trust point, a universal threshold, or an exact display duration. The broad action-before-amplification argument remains intact; precise continuous timing and acoustic bridging remain qualified by the formal audit.
+
 Yòuzi/Pomelo is not important merely because he appears to provide Yang's first useful Trust. His analytical function begins earlier.
 
 He is a critic before he is a believer.
@@ -379,7 +381,7 @@ In E06 she calls the performed hero `另一个你`—**another you**. That phras
 
 Instead, the performed self can be one real mode among several.
 
-Her later testimony grounds courage and justice in Yang Cheng. Her support survives his humiliation, uncertainty, and inability to immediately face himself. She does not withdraw recognition when the role becomes contested.
+Her later testimony grounds courage and justice in Yang Cheng. Her recognition survives humiliation and a contested role, but the Chinese rain passage does not promise indefinite availability: if he faces himself bravely and honestly she will support him wholeheartedly; if he cannot, she will not stop and keep waiting indefinitely. The actual Japanese witness makes a different waiting commitment. `TBHX-AV-E06-001` corrects that inherited semantic error without making her a person who simply abandons Yang.
 
 This is the basis of `P2-CR-R10`:
 
@@ -456,6 +458,8 @@ Yang does not inherit only equipment from Shang Chao. He inherits an unfinished 
 ---
 
 ## 13. Engineered agency: Yan Mo does not need puppets
+
+**Retrospective causal qualification (`TBHX-AV-E07-002`):** the E07 reveal now supports attributing the original paid commission to Yan, as well as explicit brother coercion, controlled concrete disposal, and paid expectation engineering. Intended Yang/new E-Soul and actual Shang casualty remain distinct. Administrative release/disappearance, exclusive motives, and exhaustive foresight remain open. Effective assistance does not erase coercion; adaptation is the sufficient bounded strategy, without establishing which later outcomes he anticipated. See the separate Yan causal audit.
 
 Yan Mo's most important E07 proposition is not a threat. It is a theory of environment.
 
@@ -1071,6 +1075,8 @@ Rejected. The operation is covert. The public's ranking judgment is based on inc
 ---
 
 ## 35. Primary-source locator route
+
+The received E05–E07 tranche is now adjudicated in [the formal audit](../../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md) and [Yan causal audit](../../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_YAN_MO_RETROSPECTIVE_AV_EVIDENCE_AUDIT.md). `TBHX-AV-E07-001` revises frozen E07 §16 toward Yang-centered focalization at high visual-inference confidence, while preserving Shang as the contextual VIP/call speaker and leaving exact Mandarin turns for audition. Scribbled-face guilt/jealousy does not prove deliberate inaction. The audits separate directly inspected still/text facts from producer-reported continuous AV and retain named source debts.
 
 For future evidence backfill, use the following canonical routes rather than this synthesis as primary proof.
 
