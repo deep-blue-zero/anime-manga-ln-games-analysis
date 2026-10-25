@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 16
+- Recorded totals: `CANDIDATE` 18
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -120,6 +120,56 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `unsettled-treatment-boundary` (evidence-backed limitation): Section 4 attributes difficulty defending the brain-as-body/person distinction to Tuan. A rigid, fully settled rule rejecting every treatment of psychological suffering would erase that represented difficulty.
 - Evidence at basis commit:
   - [`harmony:tuan-kirie@original-novel#comparative-ethics`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1ac5215d216de2451fd3cf0ed667d90ad9df7cde/studies/project-itoh-genocidal-organ-harmony/COMPARATIVE_ETHICS_AND_FORM.md)
+
+### Subject `konosuba:ozuma@original-light-novel`
+
+#### Assessment `konosuba-ozuma-ln-yori01-u024-monograph-20261025-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:ozuma`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only konosuba:ozuma@original-light-novel\#expanded-cohort-monograph, the active\_provisional KONOSUBA\_OZUMA\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the YORI-01 U024 paragraph and ruby projection \(P1-472\), which rests on Kazuma's retrospective narration, direct exchanges and reported histories. The KonoSuba CURRENT\_STATE\_AND\_CORPUS\_MAP.md was read for method, authority order and scope only. The project-local two-rule KONOSUBA\_OZUMA\_RECONSTRUCTION\_MODEL.md, its expanded evidence files, the cohort 43 evidence index, ledgers, readings and the Japanese source are not curated evidence on this subject and nothing is borrowed from them; the monograph's own description of that model is read only as a statement of its scope. No image, whole-edition, independent-reader or primary-source inspection is included.
+- Temporal boundary: The single YORI-01 U024 visit, from Ozuma's self-introduction at P21 to the principals' prostration at P472, with no default state beyond that ending. His companion's death at Hans's hands and his revenge training \(P430\) are his own report, not observed states. Whether he keeps or abandons the P422 credibility judgment, and any later appearance, are outside this assessment, and no in-world calendar time is fixed.
+- Basis commit: `2f77b3877760403413fd45de6564ce018cedaf66`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `4c12a7556147ae3e46a6575d6550a005246f0142dbaabcd283163b1d3bd89721`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology The YORI-01 U024 visit, P21-P472, with the P422 credibility judgment the last attested state.; interlocutor Kazuma and his party as strangers, accused and then benefactors; Ozuma's companions Akyua, Megumi and Rakuresu; guild members.; settings Axel town, guild work and nearby wolf-hunting situations of the kinds narrated in U024; No later appearance, project-local model rule or uncurated evidence; Printed Japanese only, no performed voice
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` NOT_ASSESSED; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `appraisal-versus-perception` (evidence-backed limitation): The monograph separates Ozuma's errors about explanation and intention \(accepting Kazuma's bear-and-wolf story, P330-334; reading the silver arrow as foresight, P369-375\) from accurate situational perception \(the wolves have not dispersed, P394-395\); neither a general credulity rule nor general competence may be inferred.
+  - `credibility-error-has-consequences` (evidence-backed limitation): At P422 he treats witnessed power as proof that bad reports are envious slander and promises to challenge future defamation \(P458\), then repeats an allegation grounded in actual party conduct \(P463\); power, gratitude and good conduct must remain separate evidential questions when modeling his judgments.
+  - `parallel-party-is-not-identity` (evidence-backed limitation): Akyua, Megumi and Rakuresu are not aliases of Kazuma's party, and the parallel composition supplies no shared psychology; companions' biographies are not Ozuma's history.
+  - `reported-history` (evidence-backed limitation): The companion killed by Hans and his revenge training are his own report \(P430\), not observed events, and do not explain all earlier conduct; he arrived with more than one purpose.
+  - `uncurated-model-and-corpus` (evidence gap): The project-local two-rule reconstruction model, its expanded evidence files, ledgers, readings, the evidence index and the Japanese source are not curated on this subject and were not assessed; missing support is not evidence that any trait or capacity is absent.
+- Evidence at basis commit:
+  - [`konosuba:ozuma@original-light-novel#expanded-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2f77b3877760403413fd45de6564ce018cedaf66/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_OZUMA_CHARACTER_MONOGRAPH.md)
+
+### Subject `konosuba:pickles@original-light-novel`
+
+#### Assessment `konosuba-pickles-ln-yori01-u012-monograph-20261025-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:pickles`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only konosuba:pickles@original-light-novel\#expanded-cohort-monograph, the active\_provisional KONOSUBA\_PICKLES\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the YORI-01 U012 paragraph and ruby projection \(P1-336\). The subject is deceased and reached principally through Aqua's translation while he possesses a toy, with Eibram's corroboration; the monograph is a Tier 2 study that itself declines a behavioral reconstruction. The KonoSuba CURRENT\_STATE\_AND\_CORPUS\_MAP.md was read for method, authority order and scope only. The cohort 43 evidence index, the earlier cohort 29 qualification, ledgers, readings and the Japanese source are not curated evidence on this subject and nothing is borrowed from them. No image, whole-edition, independent-reader or primary-source inspection is included.
+- Temporal boundary: The single posthumous YORI-01 U012 episode, from Aqua's identification at P136-144 to the reported departure at P253 and Eibram's unanswered parentage question at P254. His life as head of the house is reported only \(P139, P182, P202, P249\), not narrated as a state, and no in-world calendar time is fixed.
+- Basis commit: `2f77b3877760403413fd45de6564ce018cedaf66`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `1548dc22f7bc2c27b82af378c100b1e709dc03046d3b64b5c409772613820c6b`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology The posthumous YORI-01 U012 episode, P136-P254, ending with the reported departure.; interlocutor His son Eibram, household maids, Darkness, Kazuma and Megumin, always through Aqua as interpreter.; settings The Pickles household during the possessed-toy episode; No living-era scene, later appearance or uncurated evidence; Mediated printed Japanese only, no heard or performed voice
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` NOT_ASSESSED; `VOICE_REGISTER` NOT_ASSESSED; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `adoption-and-parentage` (evidence-backed limitation): The P249 adoption disclosure withdraws the dead-wife explanation and leaves Eibram's biological parentage unanswered \(P254\); neither biological descent nor the absence of attachment may be inferred.
+  - `interested-reports` (evidence-backed limitation): The son's praise of his government \(P202\), his own account of suppressed wishes \(P182\) and of a loved woman lost to the Dustiness family are interested reports; they do not establish public virtue, acted fantasies, an affair or entitlement to Darkness.
+  - `mediated-voice` (evidence-backed limitation): Every Pickles utterance reaches the reader through Aqua's quotation or paraphrase while he possesses a toy; his delivery, original particles and habitual register are uncertified, and Aqua's own comments must not be assigned to him.
+  - `no-reform-or-completed-acts` (evidence-backed limitation): The P233 advice is adverse counsel, not moral growth or consent; the diary's destruction and contents and the completion of his departure are reported or unknown \(P230-231, P253\).
+  - `uncurated-corpus-and-living-era` (evidence gap): No narrated scene of his living life, no project reconstruction model and no uncurated readings, ledgers or Japanese source inform this assessment; missing support is not evidence that any trait or capacity is absent.
+- Evidence at basis commit:
+  - [`konosuba:pickles@original-light-novel#expanded-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2f77b3877760403413fd45de6564ce018cedaf66/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_PICKLES_CHARACTER_MONOGRAPH.md)
 
 ### Subject `mass-effect:commander-shepard@paragon-player-archetype`
 
