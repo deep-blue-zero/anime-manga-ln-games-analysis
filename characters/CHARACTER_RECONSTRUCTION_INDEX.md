@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 14
+- Recorded totals: `CANDIDATE` 16
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -153,6 +153,39 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `voice-relationships-and-playthrough` (evidence gap): No attested dialogue, register, individual squadmate or romance relationship, mundane behavior, mission chronology, edition or playthrough variable \(origin, class, gender, survivors\) is part of this evidence set. Missing support is not evidence that the games lack them.
 - Evidence at basis commit:
   - [`mass-effect:commander-shepard@paragon-player-archetype#paragon-shepard-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c5166e2059fd671dcaac2283fd72b4c04f88be06/studies/comparative-media/Mass%20Effect/01%20Character%20Monographs/MASS_EFFECT_PARAGON_SHEPARD_CHARACTER_MONOGRAPH.md)
+
+### Subject `peach-girl:adachi-momo@manga`
+
+#### Assessment `peach-girl-adachi-momo-manga-v01-v18-dossier-20261025-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `peach-girl:adachi-momo`
+- Scope: continuity `peach-girl-manga`
+- Source boundary: Only peach-girl:adachi-momo@manga\#second-pass-character-monograph \(PEACH\_GIRL\_MOMO\_MONOGRAPH.md, version 1.1, active\_provisional\) and peach-girl:adachi-momo@manga\#time-indexed-literary-dossier \(PEACH\_GIRL\_MOMO\_TIME\_INDEXED\_RECONSTRUCTION\_DOSSIER.md, version 1.0, active\_provisional\) at basis\_commit, read in full as reviewed repository analysis of the original Japanese 新装版 manga V01-V18. The Peach Girl current-state and corpus map was read for method, authority order and scope only. The volume readings, the four longitudinal ledgers, the second-pass reconciliation, coverage and reconstruction reassessments, the G4 rules, cases, results and runner, and the other characters' monographs and dossiers are not curated evidence on this subject and nothing is borrowed from them. The project's BOUNDED\_PROVISIONAL, PASS\_SCOPED and BLOCKED\_NO\_HELD\_OUT\_VALIDATION labels are inputs, not conclusions. No anime, live-action or sequel material is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Fourteen dossier states from M01 \(V01 i0178\) through M14 \(V18 i0178\), each excluding later or unreceived information, together with the monograph's V01-V18 developmental account. No default state is designated for an unspecified request, so a cutoff must be named. Anything after the V18 ending, including future safety, durable repair and the course of the final relationship, is expressly unestablished, and no in-world calendar dates are fixed.
+- Basis commit: `7a78b2072ed6a322d3c90cf0cedf511685d3e1e8`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `a04b1d00f55adf03740f767714ed9882f253c30e8c7c6aabcdde11d6fcc5ef75`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any named dossier state M01-M14 or V01-V18 cutoff; no post-V18 state.; interlocutor Any counterpart, including Tōji, Kairi and Sae as the evidence describes them at the named cutoff; the refusal does not depend on the partner.; settings Crossover, counterfactual or materially novel contexts outside the canon cutoffs; Adult independent work, politics, parenting or unfamiliar clinical crises; Behavioral or dialogue simulation rather than retrieval of a canon state
+  - `ROMANCE_RELATIONSHIP` condition: A dossier state M01-M14 or an equally exact V01-V18 cutoff is named; no default state is assumed and no information after the cutoff or unreceived by Momo is used.
+  - `ROMANCE_RELATIONSHIP` condition: The partner is Kazuya Tojigamori \(Tōji\) or Kairi Okayasu as the evidence describes him at that cutoff; Sae Kashiwagi appears only in roles the evidence locates.
+  - `ROMANCE_RELATIONSHIP` condition: Output is a description of Momo's accessible state, goals, alternatives and constraints, with the dossier's abstentions kept; no quoted dialogue is produced as canon.
+  - `ROMANCE_RELATIONSHIP` condition: Later responsive contact never supplies earlier permission, and an informed offer is never treated as the other participant's assent.
+  - `ROMANCE_RELATIONSHIP` condition: No outcome after V18, durable repair, future safety or exclusive arrangement not depicted at the cutoff is asserted.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `linked-corpus-not-curated` (evidence gap): The volume readings, four ledgers, source receipts, reconciliation, coverage and reconstruction reassessments and the G4 rules, cases and results are not curated evidence on this subject, so their warrants and the project's preserved probe failures were not rechecked here. Missing support is not evidence of absence.
+  - `literary-states-not-executable-model` (evidence-backed limitation): The dossier describes its fourteen states as literary reconstruction states, not an executable model, new observation IDs or replacement freezes; the monograph claims no operational reconstruction.
+  - `no-held-out-validation` (evidence-backed limitation): The dossier's eleven retrieval vectors were designed after source outcomes were known and are unexecuted consistency questions, not runner executions or held-out probes; operational acceptance is BLOCKED\_NO\_HELD\_OUT\_VALIDATION and no predictive accuracy or calibration is claimed.
+  - `no-retroactive-knowledge-or-permission` (evidence-backed limitation): A later account \(the V13 Jigorō denial, V18 disclosures, later responsive contact\) cannot be installed in an earlier state of Momo's knowledge or used as earlier permission; each state excludes later or unreceived information.
+  - `same-pass-authorship-owner-acceptance-pending` (evidence-backed limitation): Both artifacts carry SECOND\_PASS\_SCOPED\_SEMANTIC\_REVIEW\_PASSED\_OWNER\_ACCEPTANCE\_PENDING, were authored and accepted within the project's own second pass, and are active\_provisional.
+  - `uncovered-domains` (evidence-backed limitation): Adult independent work, politics, parenting, unfamiliar clinical crises and crossover contexts lack adequate source coverage; no diagnosis, forgiveness threshold or exact motivational weights may be invented.
+  - `voice-not-acoustic-or-global` (evidence-backed limitation): No acoustic delivery, global address transition, all-context catchphrase or generated canonical dialogue is supported; at V14 i0076 Momo still uses Okayasu.
+- Evidence at basis commit:
+  - [`peach-girl:adachi-momo@manga#second-pass-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7a78b2072ed6a322d3c90cf0cedf511685d3e1e8/series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MOMO_MONOGRAPH.md)
+  - [`peach-girl:adachi-momo@manga#time-indexed-literary-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7a78b2072ed6a322d3c90cf0cedf511685d3e1e8/series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MOMO_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md)
 
 ### Subject `re-zero:crusch-karsten@light-novel`
 
@@ -575,3 +608,30 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 - Evidence at basis commit:
   - [`the-idolmaster:yonai-p@u149-anime#u149-full-series-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/dd7112797976a61f5e85517b86a233f597ecbb1d/series/the-idolmaster-cinderella-girls-u149/V1%20Analysis/06%20Full-Series%20Synthesis/U149_FULL_SERIES_SYNTHESIS.md)
   - [`the-idolmaster:yonai-p@u149-anime#yonai-p-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/dd7112797976a61f5e85517b86a233f597ecbb1d/series/the-idolmaster-cinderella-girls-u149/V1%20Analysis/04%20Character%20and%20Specialist%20Analysis/U149_YONAIP_PRODUCER_AUTHORSHIP_ANALYSIS.md)
+
+### Subject `yuru-camp:shima-rin@manga`
+
+#### Assessment `yuru-camp-shima-rin-manga-v01-v19-synthesis-20261025-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `yuru-camp:shima-rin`
+- Scope: continuity `yuru-camp-manga`
+- Source boundary: Only yuru-camp:shima-rin@manga\#reviewed-synthesis-document02, the active\_provisional full-series character synthesis 02\_SHIMA\_RIN\_CHARACTER\_VOICE\_SOLITUDE\_AND\_RELATIONSHIPS.md at basis\_commit, read in full as reviewed repository analysis of the Japanese main manga V01-V19, with its 26 claim routes \(122 PRIMARY\_VERIFIED and 22 ANALYSIS\_EXTRACTED records in the project register\) taken as the synthesis reports them. The Yuru Camp current-state and corpus map was read for method, authority order and scope only. The volume deep readings, checkpoints, ledgers, correction overlays, the project reconstruction specification and synthesis document 04 are not curated evidence on this subject and nothing is borrowed from them. No anime, spin-off or post-V19 material is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: From the V01 first encounter with Nadeshiko Kagamihara through the V19 Suwa arrival and the household reunion, organized by the project checkpoints CP03-CP18 and the V19 transaction; the V16 spring-break special is dated before Golden Week. No default state is designated, V19 is not the manga's ending, and nothing after V19 is established.
+- Basis commit: `7a78b2072ed6a322d3c90cf0cedf511685d3e1e8`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `12e3039a064fe0407d1436bcf532487441fab482a9cbf195f04f36b7f5966111`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any V01-V19 period the synthesis describes; no post-V19 state.; interlocutor Any counterpart, including Nadeshiko, Ena, Ayano and the Shima family as the synthesis describes them; the refusal does not depend on the partner.; settings Crossover, counterfactual or materially novel contexts beyond the located V01-V19 episodes; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `analysis-extracted-records-not-upgraded` (evidence-backed limitation): Twenty-two older ANALYSIS\_EXTRACTED records keep their original verification limit, including several broad itinerary, modular-trip and late solo-camp clusters and the V10 and V13-V15 bridges, and were not upgraded because later evidence resembles them.
+  - `care-not-consent` (evidence-backed limitation): Rin's care includes the covert V07 check on Nadeshiko, which the synthesis treats as unilateral judgment whose benevolent motive is an interpretation, not proof of consent.
+  - `linked-corpus-not-curated` (evidence gap): The deep readings, checkpoints, five ledgers, correction overlays and the project reconstruction specification are not curated evidence on this subject, so the routed warrants were not rechecked here. Missing support is not evidence of absence.
+  - `no-held-out-tests-no-post-v19` (evidence-backed limitation): The synthesis states that its samples were available during preparation and are not held-out tests, that V19 is no claim about the manga's ending, and that no later source was consulted for the V18 calendar, the V19 dream seam or the camper pair's names.
+  - `reference-not-generation-model` (evidence-backed limitation): The synthesis is a provisional character reference under architecture section 7, Document 02, not a complete psychology or a model certified to generate Rin in new situations; it explicitly assigns no reconstruction-readiness grade.
+  - `solitude-not-a-fixed-reaction` (evidence-backed limitation): The solitude preference recurs but the feeling attached to each occasion is not fixed; 'Rin likes solitude' does not predict an identical interior reaction whenever she is alone, and a little sadness does not invalidate a chosen solo interval.
+  - `voice-and-ordinary-life-sampled` (evidence-backed limitation): Self-reference and address distributions are not exhaustive, and school, a full working day, wider reading and noncamp domestic routines have bounded samples rather than coverage.
+- Evidence at basis commit:
+  - [`yuru-camp:shima-rin@manga#reviewed-synthesis-document02`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7a78b2072ed6a322d3c90cf0cedf511685d3e1e8/series/yuru-camp/05%20Full-Series%20Synthesis/02_SHIMA_RIN_CHARACTER_VOICE_SOLITUDE_AND_RELATIONSHIPS.md)
