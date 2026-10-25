@@ -16,7 +16,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-16
-last_updated: 2026-08-16
+last_updated: 2026-10-24
 ---
 
 # To Be Hero X V2 — Targeted Audiovisual Evidence Ledger

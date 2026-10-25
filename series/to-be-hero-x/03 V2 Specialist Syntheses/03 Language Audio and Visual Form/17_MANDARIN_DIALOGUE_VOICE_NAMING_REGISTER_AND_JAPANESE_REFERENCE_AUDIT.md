@@ -7,7 +7,7 @@ generation: V2
 phase: 5
 specialist_number: 17
 status: canonical
-source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24 as represented by verified reconstructed Mandarin dialogue/visible text, aligned Japanese captions, episode deep readings, Phase-2 language and naming authorities, official multilingual naming sources, and prior source-grounded audiovisual notes; no fresh uninterrupted full-season acoustic audition is claimed
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24 as represented by verified reconstructed Mandarin dialogue/visible text, aligned Japanese captions, episode deep readings, Phase-2 language and naming authorities, official multilingual naming sources, and prior source-grounded audiovisual notes; no fresh uninterrupted full-season acoustic audition is claimed; post-freeze E05–E07 AV reconciliation within the formal and Yan audits' stated source limits
 canonical_home: 03 V2 Specialist Syntheses/03 Language Audio and Visual Form
 acoustic_scope: Lexical/discourse voice is canonical; pitch, timbre, breath, tempo, vocal placement, laughter, singing technique, and complete character-acoustic profiles remain outside this document unless directly auditioned in a cited local evidence artifact
 primary_claim_keys:
@@ -154,7 +154,8 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-18
-last_updated: 2026-08-18
+last_updated: 2026-10-24
+revision: AV-2026-10-24
 ---
 
 # Mandarin Dialogue, Voice, Naming, Register, and Japanese Reference Audit

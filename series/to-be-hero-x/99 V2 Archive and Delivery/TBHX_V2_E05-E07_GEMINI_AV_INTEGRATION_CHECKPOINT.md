@@ -59,6 +59,24 @@ The user's subsequent English SDH extraction request was delegated separately: 2
 | E06 | `00e376084a5aac6bb1e34ec1b4a43a2addd2bfb93ab9620eead6199528c6ee25` |
 | E07 | `d83d7dbb88a2cce46fe7c04b9d25d014d5b237abf01fdae33b5192af07554031` |
 
+## Current specialist revisions
+
+Revision **`AV-2026-10-24`** identifies the E05–E07 AV amendments in Specialists 07/16/17. Their revision/date/source-boundary metadata now records that evidence tranche; the analytical bodies are unchanged by this metadata follow-up. The current corpus map and this table supply matching checksums for the current artifacts. Byte counts cover each complete UTF-8 file; word counts use whitespace splitting of the complete artifact, including front matter.
+
+| Current artifact / revision | Bytes | Whitespace-delimited words | SHA-256 |
+|---|---|---|---|
+| [Specialist 7](../03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/07_YANG_CHENG_ESOUL_POMELO_AND_INHERITED_HEROISM.md) / `AV-2026-10-24` | 64,190 | 9,354 | `870fa31ec41f07c60e97329754462015f1fa0ddc7808d2b934600be66da14b99` |
+| [Specialist 16](../03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/16_CROSS_ARC_RELATIONSHIPS_ALLIANCES_MENTORSHIP_AND_RECOGNITION.md) / `AV-2026-10-24` | 82,156 | 11,528 | `4ead8169803af54ded8f3a172bcff31fa645db56f2682e63e17ec6c9aa67ba34` |
+| [Specialist 17](../03%20V2%20Specialist%20Syntheses/03%20Language%20Audio%20and%20Visual%20Form/17_MANDARIN_DIALOGUE_VOICE_NAMING_REGISTER_AND_JAPANESE_REFERENCE_AUDIT.md) / `AV-2026-10-24` | 70,068 | 9,818 | `a0606b7fe6ddf5d1a1ef6689db476d353cd640fc5f00e584122d5411db2fe70c` |
+
+Original completion receipts remain unchanged as archival provenance:
+
+- [Specialist 7 original completion](TBHX_V2_PHASE3_07_08_YANG_CYAN_CHECKPOINT.md)
+- [Specialist 16 original completion](TBHX_V2_PHASE3_16_RELATIONSHIPS_CHECKPOINT.md)
+- [Specialist 17 original completion](TBHX_V2_PHASE5_17_LANGUAGE_VOICE_NAMING_CHECKPOINT.md)
+
+The E05–E07 evidence IDs, source limitations, and accepted analytical transitions remain as recorded above. The claim ledger now declares all four E05–E07 IDs in its source boundary and active-packet index alongside the retained E11 packet. This addresses PR #325 review comments 4369291425 and 4369291430 without reopening source analysis or changing frozen readings.
+
 ## Exact files in this tranche
 
 - `series/to-be-hero-x/04 V2 Evidence and Revision/Targeted AV Evidence/TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md`

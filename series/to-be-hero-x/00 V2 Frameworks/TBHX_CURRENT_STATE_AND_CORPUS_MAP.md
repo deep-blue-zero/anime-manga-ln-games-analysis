@@ -485,8 +485,10 @@ Canonical artifact:
 - `07_YANG_CHENG_ESOUL_POMELO_AND_INHERITED_HEROISM.md`
 - **Drive ID:** `16AHYbGugXafi5abVAAN4jKf3tNhf8eg8`
 - **Drive URL:** ../03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/07_YANG_CHENG_ESOUL_POMELO_AND_INHERITED_HEROISM.md
-- **SHA-256:** `7e49509a19237684d2a70674d2f4925f1d9b85fd3212f252859176d15d9d0834`
-- **Approximate length:** 9,100 words
+- **Current revision:** `AV-2026-10-24` — E05–E07 AV integration; see [revision receipt](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_E05-E07_GEMINI_AV_INTEGRATION_CHECKPOINT.md#current-specialist-revisions).
+- **SHA-256:** `870fa31ec41f07c60e97329754462015f1fa0ddc7808d2b934600be66da14b99`
+- **Bytes:** 64,190
+- **Current length:** 9,354 whitespace-delimited words
 
 Current governing proposition:
 
@@ -787,8 +789,10 @@ Canonical artifact:
 - `16_CROSS_ARC_RELATIONSHIPS_ALLIANCES_MENTORSHIP_AND_RECOGNITION.md`
 - **Drive ID:** `1lnBuyDfhSZgDHkozetKw5sL5O3dTOl_w`
 - **Drive URL:** ../03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/16_CROSS_ARC_RELATIONSHIPS_ALLIANCES_MENTORSHIP_AND_RECOGNITION.md
-- **SHA-256:** `6bee2f647aef2f9727c8bad604e74f372545a9eead3272d7b5a019d60e04849b`
-- **Approximate length:** 11,453 whitespace-delimited words
+- **Current revision:** `AV-2026-10-24` — E05–E07 AV integration; see [revision receipt](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_E05-E07_GEMINI_AV_INTEGRATION_CHECKPOINT.md#current-specialist-revisions).
+- **SHA-256:** `4ead8169803af54ded8f3a172bcff31fa645db56f2682e63e17ec6c9aa67ba34`
+- **Bytes:** 82,156
+- **Current length:** 11,528 whitespace-delimited words
 
 Current governing proposition:
 
@@ -809,7 +813,7 @@ Major conclusions:
 - relational totalization occurs when one partial truth becomes the only socially actionable account of a person;
 - the strongest positive relationships preserve the possibility that the other person may become someone the founding relation did not predict.
 
-Checkpoint:
+Original completion checkpoint (archival):
 
 - `TBHX_V2_PHASE3_16_RELATIONSHIPS_CHECKPOINT.md`
 - **Drive ID:** `1Wa-mqpF1KEl2w7E-_I4U4hpx7LgmxMTx`
@@ -1059,8 +1063,10 @@ Canonical artifact:
 - **Drive ID:** `13z_uNfrjV7GBcO6XaZ5ivn01fdjC6jA7`
 - **Drive URL:** ../03%20V2%20Specialist%20Syntheses/03%20Language%20Audio%20and%20Visual%20Form/17_MANDARIN_DIALOGUE_VOICE_NAMING_REGISTER_AND_JAPANESE_REFERENCE_AUDIT.md
 - **Canonical home:** `03 V2 Specialist Syntheses/03 Language Audio and Visual Form`
-- **SHA-256:** `9a9f2d7a38a47134c4cc35f397081e72bf8010ac1089a09ddb19386989552afa`
-- **Approximate length:** 9,575 whitespace-delimited words
+- **Current revision:** `AV-2026-10-24` — E05–E07 AV integration; see [revision receipt](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_E05-E07_GEMINI_AV_INTEGRATION_CHECKPOINT.md#current-specialist-revisions).
+- **SHA-256:** `a0606b7fe6ddf5d1a1ef6689db476d353cd640fc5f00e584122d5411db2fe70c`
+- **Bytes:** 70,068
+- **Current length:** 9,818 whitespace-delimited words
 - **Claim routing:** 108 resolved `P2-CR-*` keys
 
 Current governing proposition:
@@ -1085,7 +1091,7 @@ Major conclusions:
 
 Document 17 is canonical for **discourse voice** and lexical/register findings. It does not claim a fresh uninterrupted audition of all twenty-four episode audio tracks. Full acoustic profiles, singing technique, systematic pause/overlap analysis, and public/private voice-placement comparison remain reserved for directly auditioned evidence and Document 19.
 
-Checkpoint:
+Original completion checkpoint (archival):
 
 - `TBHX_V2_PHASE5_17_LANGUAGE_VOICE_NAMING_CHECKPOINT.md`
 - **Drive ID:** `1nYalEy1NkyECW9mb8bpwTEixjPhApzD9`
@@ -1119,7 +1125,7 @@ Full-season Gemini AV coverage: **IN PROGRESS — external producer**. Phase 5 r
 
 Document 20 is now a mandatory Phase-5 closure artifact. It is responsible for plausible situational reconstruction of sufficiently evidenced characters through baseline temperament, worldview/salience, decision heuristics, emotional needs and defenses, relationship-conditioned variants, speech-generation constraints, directly observed acoustic/embodied behavior, stress/failure/recovery patterns, negative constraints, and a confidence-graded `stimulus -> interpretation -> emotion -> priorities -> behavior -> speech -> aftereffect` inference chain. It must label extrapolation as inference rather than canon.
 
-The older Phase 3/4/Document 17 completion metrics elsewhere in this map and in their checkpoints describe those completed passes; the new integration checkpoint records this tranche's changed-file state. No Phase 5 closure or Phase 6–9 work is initiated. **Next expected input: next Gemini arc handoff ZIP.**
+Original completion checkpoints retain their historical metrics as archival provenance. Current hashes, byte sizes, word counts, and explicit AV revision identifiers for Specialists 07/16/17 appear in their entries above and in the integration checkpoint. No Phase 5 closure or Phase 6–9 work is initiated. **Next expected input: next Gemini arc handoff ZIP.**
 
 ## 15. Protected full-series questions
 

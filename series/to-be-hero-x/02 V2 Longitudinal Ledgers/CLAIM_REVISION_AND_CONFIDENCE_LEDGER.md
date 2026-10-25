@@ -7,14 +7,14 @@ scope: E01-E24
 generation: V2
 phase: 2
 status: canonical
-source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; stabilized Phase-2 longitudinal ledgers; episode-specific motion audits; E24 credits-coda audit; post-freeze targeted AV evidence through TBHX-AV-E11-001
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; stabilized Phase-2 longitudinal ledgers; episode-specific motion audits; E24 credits-coda audit; post-freeze targeted AV evidence TBHX-AV-E11-001 plus TBHX-AV-E05-001, TBHX-AV-E06-001, TBHX-AV-E07-001, and TBHX-AV-E07-002 within their recorded source limits
 transition_vocabulary: PRESERVE | STRENGTHEN | REVISE | DOWNGRADE | REJECT | OPEN
 legacy_transition_crosswalk: PRESERVE=CONFIRMED; STRENGTHEN=STRENGTHENED; REVISE=NARROWED/CORRECTED; DOWNGRADE=confidence reduction; REJECT=OVERTURNED; OPEN=UNRESOLVED
 targeted_av_authority: TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: 2026-08-16
+last_updated: 2026-10-24
 ---
 
 # To Be Hero X V2 — Claim Revision and Confidence Ledger
@@ -622,11 +622,15 @@ For every new packet:
 7. update this claim ledger if the packet changes a `P2-CR-*` proposition;
 8. route the packet into Phase 7 source locators.
 
-Current active packet:
+Current active packets:
 
 | Packet | Claim consequence | Current transition | Claim keys affected |
 |---|---|---|---|
 | `TBHX-AV-E11-001` — Queen vs X and immediate aftermath | upgrades strategic/epistemic surprise into a sustained embodied private crisis of control; preserves uncertainty over exact beverage contents and clinical interpretation | `STRENGTHEN` | `P2-CR-F17`, `P2-CR-F18`, `P2-CR-CH05`, `P2-CR-CH06` |
+| `TBHX-AV-E05-001` — first Trust display | admits the local visible0→1; preserves uncertainty about universal one-believer arithmetic and exact display duration | `REVISE / STRENGTHEN` locally | `TF-031`, `P2-TF-09`; `P2-CR-M19` limit preserved |
+| `TBHX-AV-E06-001` — rain support/localization | corrects indefinite waiting to conditional support and a boundary; preserves the different Japanese witness | `REVISE` | `P2-CR-R10` |
+| `TBHX-AV-E07-001` — retrospective focalization | revises toward Yang-centered recollection while separating focalizer, displayed names, and remembered speakers | `REVISE`; exact voice turns remain `OPEN` | `P2-CR-N05`, `P2-CR-F11` |
+| `TBHX-AV-E07-002` — Yan causal chain | strengthens bounded commission/coercion/disposal attribution and separates intended target from casualty; administrative detail and exhaustive foresight remain unresolved | `REVISE / STRENGTHEN`; stronger claims `OPEN` | `P2-CR-CH16`, `P2-CR-CH03`, `P2-TF-08` |
 
 ---
 

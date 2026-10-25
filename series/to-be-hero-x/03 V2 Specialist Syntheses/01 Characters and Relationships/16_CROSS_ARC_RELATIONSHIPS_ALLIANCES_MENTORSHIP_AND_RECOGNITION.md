@@ -7,7 +7,7 @@ generation: V2
 phase: 3
 specialist_number: 16
 status: canonical
-source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; canonical Specialists 06-15; targeted audiovisual and episode-specific motion evidence where those layers revise relationship interpretation
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; canonical Specialists 06-15; targeted audiovisual and episode-specific motion evidence where those layers revise relationship interpretation; post-freeze E05–E07 AV reconciliation within the formal and Yan audits' stated source limits
 canonical_home: 03 V2 Specialist Syntheses/01 Characters and Relationships
 primary_claim_keys:
 - P2-CR-R01
@@ -138,7 +138,8 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
-last_updated: 2026-08-17
+last_updated: 2026-10-24
+revision: AV-2026-10-24
 ---
 
 # Cross-Arc Relationships, Alliances, Mentorship, and Recognition
