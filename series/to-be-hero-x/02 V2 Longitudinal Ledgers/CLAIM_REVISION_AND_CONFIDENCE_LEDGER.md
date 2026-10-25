@@ -7,14 +7,14 @@ scope: E01-E24
 generation: V2
 phase: 2
 status: canonical
-source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; stabilized Phase-2 longitudinal ledgers; episode-specific motion audits; E24 credits-coda audit; post-freeze targeted AV evidence TBHX-AV-E11-001 plus TBHX-AV-E05-001, TBHX-AV-E06-001, TBHX-AV-E07-001, and TBHX-AV-E07-002 within their recorded source limits
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; stabilized Phase-2 longitudinal ledgers; episode-specific motion audits; E24 credits-coda audit; post-freeze targeted AV evidence TBHX-AV-E11-001 plus TBHX-AV-E05-001, TBHX-AV-E06-001, TBHX-AV-E07-001, and TBHX-AV-E07-002 within their recorded source limits; ten remaining-arc Gemini packets and seven supplemental reports adjudicated on 2026-10-25, with native-frame and reported-channel evidence kept distinct
 transition_vocabulary: PRESERVE | STRENGTHEN | REVISE | DOWNGRADE | REJECT | OPEN
 legacy_transition_crosswalk: PRESERVE=CONFIRMED; STRENGTHEN=STRENGTHENED; REVISE=NARROWED/CORRECTED; DOWNGRADE=confidence reduction; REJECT=OVERTURNED; OPEN=UNRESOLVED
 targeted_av_authority: TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: 2026-10-24
+last_updated: 2026-10-25
 ---
 
 # To Be Hero X V2 — Claim Revision and Confidence Ledger
@@ -209,7 +209,7 @@ Specialist synthesis may safely argue that hero power is **socially produced, id
 | `P2-CR-C05` | E21–E23's Original Nice–Smile–Liang–A-Hu sequence occurs causally **before E01**, and E01's suicide is the endpoint of a longer destabilization chain. | `F-CHRON/REV`, major full-series revision | High | `REVISE` the early isolated-perfection model | chronology + claim ledgers |
 | `P2-CR-C06` | Original Nice's collapse is not responsibly explained by one factor. Smile's death, Shang De's Fear engineering, role totalization, Fear contamination, perfection pressure, and prior history form a multicausal chain whose exact final weighting remains open. | `INF/REV`, character chronology | High multicausality / Open exact causation | `REJECT` single-cause suicide explanation | chronology/personhood/relationships ledgers |
 | `P2-CR-C07` | Repeated events do not make earlier public versions irrelevant. Later private context revises causal and ethical understanding while earlier stories may retain real Trust/Fear and institutional effects. | `SRC/INT`, full-series | High | `PRESERVE` core narrative method | chronology/public-narrative ledgers |
-| `P2-CR-C08` | The twentieth ranking tournament opening is the latest secure Season-1 diegetic point. | `F-CHRON`, season boundary | High | `PRESERVE` | chronology ledger |
+| `P2-CR-C08` | The twenty-first ranking tournament opening is the latest secure Season-1 diegetic point; the earlier suspended twentieth is a different historical event. | `F-CHRON/REV`, season boundary | High displayed ordinal; absolute Union year open | `REVISE` ordinal via native E04 WEB 24:28 and E20 WEB 23:56 | chronology ledger; `TBHX-AV-E01-001` / `TBHX-AV-E24-001` |
 | `P2-CR-C09` | The E24 credits coda is canonical supplemental, future-facing opening-form paratext, not settled post-tournament chronology. | `SRC/F-MOTION`, paratext | High | `REVISE/REJECT` automatic epilogue readings | E24 coda audit + chronology/form ledgers |
 | `P2-CR-C10` | X's E24 history-space and the night-to-tournament discontinuity may include temporal components, but Season 1 does not prove conventional time travel. | `F-MOTION/UNR`, late-season mechanism | Open | `DOWNGRADE` time-travel assertion | X/chronology/mechanics ledgers |
 | `P2-CR-C11` | Broadcast delay is part of the work's argument: the viewer repeatedly experiences public classification before provenance, consequence before cause, and institutional fact before private history. | `INT`, full-series formal claim | High | `STRENGTHEN` after complete chronology map | chronology/public/form ledgers |
@@ -631,6 +631,24 @@ Current active packets:
 | `TBHX-AV-E06-001` — rain support/localization | corrects indefinite waiting to conditional support and a boundary; preserves the different Japanese witness | `REVISE` | `P2-CR-R10` |
 | `TBHX-AV-E07-001` — retrospective focalization | revises toward Yang-centered recollection while separating focalizer, displayed names, and remembered speakers | `REVISE`; exact voice turns remain `OPEN` | `P2-CR-N05`, `P2-CR-F11` |
 | `TBHX-AV-E07-002` — Yan causal chain | strengthens bounded commission/coercion/disposal attribution and separates intended target from casualty; administrative detail and exhaustive foresight remain unresolved | `REVISE / STRENGTHEN`; stronger claims `OPEN` | `P2-CR-CH16`, `P2-CR-CH03`, `P2-TF-08` |
+| `TBHX-AV-E01-001` — E01-E04 | Correct E01 cue 134 interval-collapse diagnosis and current twenty-first tournament ordinal; preserve Moon fate and exact bearer uncertainty. | `REVISE / PRESERVE` within channel limits | P2-CR-C08; language/Doc 17; chronology; Specialist 01 |
+| `TBHX-AV-E08-001` — E08-E10 | Qualify E10 formal naming to displayed Fear (not Fear Particles); preserve musical provenance. Donor identity, counter and coin pairing need matched native evidence. | `PRESERVE / REVISE / OPEN` within channel limits | Chinese-language, mechanics, chronology and institutions current errata; P2-CR-CH04, N01, L06; Documents 18–20 queue |
+| `TBHX-AV-E11-002` — E11-E12 | Retain existing Queen crisis and relational recovery; reject compact speaker, tournament-history and exact-time errors; keep granular corrections distinct. | `PRESERVE / REVISE` within channel limits | P2-CR-CH05/06, R03; existing E11-001 remains independent |
+| `TBHX-AV-E13-001` — E13-E14 | Native gym display 11→10 and extraterrestrial-material briefing support local constraint/exception; future drug proposal is not completed production. | `STRENGTHEN / REVISE` within channel limits | P2-CR-M04/05/11, CH07; Documents 17–20 queue |
+| `TBHX-AV-E15-001` — E15-E16 | Ah Sheng is already named in E15; later family biography remains a delayed disclosure. Reject invented late order, Year 37 and curated combat/conspiracy quotations. | `PRESERVE / REVISE` within channel limits | P2-CR-C07, P14, R13, CH08; Specialist 01; Documents 17–20 queue |
+| `TBHX-AV-E17-001` — E17-E18 | Preserve family recognition and local Vortex failure; no universal immunity, invented hospital/clone telemetry or verified noninterference message. | `PRESERVE / REJECT` within channel limits | P2-CR-M05/11, I13, R12, CH09 |
+| `TBHX-AV-E19-001` — E19-E20 | Retain distinct suppression mandates and attributed Zero/god/resurrection language; a vow is not successful resurrection or total foresight. | `PRESERVE / STRENGTHEN` within channel limits | P2-CR-I13, CH16, X01; historical twentieth suspension |
+| `TBHX-AV-E21-001` — E21-E22 | Retain motion-secure Nice→Liang injection and Fear redirection to Smile; reject target/sequence regression and universal Fear arithmetic. | `PRESERVE / REVISE` within channel limits | P2-CR-M03/08, CH10/11/12; existing E22 motion audit |
+| `TBHX-AV-E23-001` — E23 | Native24:10 supports A-Hu rank 8; actual cue 241 replaces advertised cue 260/time. Preserve multicausality and reject a clinical PTSD/single-cause suicide claim. | `STRENGTHEN / REVISE` within channel limits | P2-CR-C06, CH10/13; existing E23 motion audit |
+| `TBHX-AV-E24-001` — E24 | Main-tournament cracked Nice image, X-attributed Zero persistence and coin montage remain bounded; no proved resurrection, reverse luck, exact full roster or coda chronology. | `PRESERVE / STRENGTHEN` within channel limits | P2-CR-C08/09, X03/06/07; Specialists 06/15 |
+
+### Remaining-arc receipt — bounded current adjudication (2026-10-25)
+
+All ten remaining handoffs and seven supplemental inventories/SDH/quote/name reports have been reconciled against the current corpus. The [remaining-arcs checkpoint](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_REMAINING_ARCS_GEMINI_AV_INTEGRATION_CHECKPOINT.md) indexes ten finding matrices, verified input hashes, specific propagation and mandatory source debts. E01 native 08:09/08:13 shows Trust-build/destroy text omitted inside the overlong Chinese OCR cue 134: Document 17 and the Chinese-language ledger now correct the earlier “unrelated Japanese” diagnosis. The compact proposed replacement transcript is not accepted wholesale. Current chronology, institutions and Specialist 01 use the twenty-first ordinal; E15 already names Ah Sheng before E17 restores his family biography.
+
+**PR339 review follow-up (2026-10-25; `TBHX-AV-E08-001`):** the E10 naming correction is also current in the mechanics, chronology and institutions ledgers. Their source-qualified errata supersede the earlier `恐惧粒子` / Fear Particles naming in `TF-E10-01/05`, the E10 non-findings and `TF-E14-01` backreference, E10 chronology sequence item 13, and `IP-E10-06`. Native WEB 23:49.000/23:50.200 supports the displayed name `恐惧` / Fear in that scene. Earlier episode-local wording is preserved as history; later particle/material language and the public/private-knowledge argument are not withdrawn.
+
+The 145 master keys and Part-II history are preserved. Other secure local observations strengthen source retrieval without widening current claims into universal power laws, settled identity continuity, clinical diagnosis, complete acoustic profiles or solved chronology. Model outputs and English subtitles are secondary witnesses; repeated frozen bodies are not independent confirmation. Rejected findings include fabricated exact UI/quotes, mismatched cue IDs, global release offsets, an incorrect injector target and E24 resurrection/reverse-luck certainty. The E24 historical FAIL and remediated current payload are different versions. Full-season handoff receipt is complete; original-speed acoustic and continuous-motion obligations remain named. Phase 5 stays1/4 and Documents 18–20 remain pending adequate accepted evidence.
 
 ---
 
