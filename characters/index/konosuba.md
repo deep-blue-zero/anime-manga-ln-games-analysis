@@ -138,6 +138,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Dust: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DUST_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+<a id="eibram"></a>
+
+### Eibram
+
+- Entity ID: `konosuba:eibram`
+- Entity aliases:
+  - トランザム・ルッソ・エイブラム (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:eibram@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-43`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete YORI-01 U012 paragraph projection (P1–336): the self-naming and rank-sensitive hospitality, corroboration of his father and the change from exorcism to assistance, the limit on the demanded blow, the diary promise, his adverse admission and the unanswered parentage question. Paragraph and ruby scope only, with no image or whole-edition credit. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Eibram: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_EIBRAM_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="gaibil"></a>
 
 ### Gaibil
@@ -226,6 +248,50 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Lucy: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_LUCY_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+<a id="megumi"></a>
+
+### Megumi
+
+- Entity ID: `konosuba:megumi`
+- Entity aliases:
+  - メグミ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:megumi@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-43`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete YORI-01 U024 paragraph projection (P1–472): food and name exchange, sympathy and checking of Kazuma's account, the interrupted near-apology, the rule objection, the reinforcement proposal, the reaction to Explosion and the reported family project. Paragraph and ruby scope only, with no image or whole-edition credit. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Megumi: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MEGUMI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="ozuma"></a>
+
+### Ozuma
+
+- Entity ID: `konosuba:ozuma`
+- Entity aliases:
+  - ザトゥ・オズマ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:ozuma@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-43`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete YORI-01 U024 paragraph projection (P1–472): help and the meal exchange norm, threats and legal inhibition, protection of Megumi, work and mistaken explanations, the real wolf warning, gratitude for Hans's defeat and the excessive exoneration. Paragraph and ruby scope only, with no image or whole-edition credit. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Ozuma: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_OZUMA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="perie"></a>
 
 ### Perie
@@ -247,6 +313,50 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - `expanded-cohort-38`: LIGHT_NOVEL OTHER: Bounded synthesis of the DUST06 encounter contexts and complete DUST06 epilogue, with a bounded DUST07 retrospective comparison that supplies no new encounter. This is monograph review, not new whole-book primary reading or a completed scene/identity census.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Perie: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_PERIE_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="pickles"></a>
+
+### Pickles
+
+- Entity ID: `konosuba:pickles`
+- Entity aliases:
+  - トランザム・ルッソ・ピクルス (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:pickles@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-43`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete YORI-01 U012 paragraph projection (P1–336): the Aqua-reported preferences and suppressed wishes, the play and requests through the possessed toy, the diary exposure bargain, the legacy advice and the adoption disclosure. Access is principally through Aqua's mediation. Paragraph and ruby scope only, with no image or whole-edition credit. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Pickles: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_PICKLES_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="rakuresu"></a>
+
+### Rakuresu
+
+- Entity ID: `konosuba:rakuresu`
+- Entity aliases:
+  - ラクレス (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:rakuresu@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-43`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete YORI-01 U024 paragraph projection (P1–472): courtesy and the proposed departure, the preempted shield offer, the reputational grievance, her stated survivor duty and her reported response to harassment. Paragraph and ruby scope only, with no image or whole-edition credit. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Rakuresu: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_RAKURESU_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="rosary"></a>
 
@@ -313,3 +423,25 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - `main-principal-synthesis`: LIGHT_NOVEL VOLUME: Longitudinal specialist synthesis of the admitted main-novel 01–17 principal narratives: comfort and autonomy, local problem-solving and implementation failures, competing rewards, particular attachment, agency and harm, narrator access, ordinary life and written pragmatics. This is review of the bounded synthesis, not a new full source reading. Holdouts, supplemental narratives, excluded edition components and adaptations are outside this evidence item’s coverage; later ledger qualifications do not widen that scope.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`main-principal-monograph` — Satou Kazuma: main-principal character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_KAZUMA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="wolfgang-crow"></a>
+
+### Wolfgang Crow
+
+- Entity ID: `konosuba:wolfgang-crow`
+- Entity aliases:
+  - ヴォルフガン・クロウ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:wolfgang-crow@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-43`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete YORI-01 U020 paragraph projection (P1–312): the rank claims against Wiz, harmful intentions, the chosen and imposed contests, the metric objection, release requests, the coerced vegetarian pledge and purification at P311. A bounded YORI-02 U018 P209–245 context is used only to exclude a name join with the white-tiger cub. Paragraph and ruby scope only, with no image or whole-edition credit. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Wolfgang Crow: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_WOLFGANG_CROW_CHARACTER_MONOGRAPH.md) — **active provisional authority**
