@@ -37,7 +37,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 18 |
+| [`re-zero`](characters/index/re-zero.md) | 19 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
@@ -267,6 +267,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Lara](characters/index/sayonara-lara.md#lara) | Television anime continuity | `sayonara-lara:lara@anime` | — |
 | [Lerche](characters/index/86-eighty-six.md#lerche) | 86 - Eighty-Six original light novels | `86-eighty-six:lerche@original-light-novels` | レルヒェ |
 | [Levi Ackerman](characters/index/attack-on-titan.md#levi-ackerman) | Attack on Titan manga | `attack-on-titan:levi-ackerman@manga` | — |
+| [Liliana Masquerade](characters/index/re-zero.md#liliana-masquerade) | Re:Zero main light novel | `re-zero:liliana-masquerade@light-novel` | — |
 | [Lin Ling](characters/index/to-be-hero-x.md#lin-ling) | To Be Hero X animated series | `to-be-hero-x:lin-ling@animated-series` | — |
 | [Lisa](characters/index/sayonara-lara.md#lisa) | Television anime continuity | `sayonara-lara:lisa@anime` | Shiomi Lisa; 潮見リサ |
 | [Little Johnny](characters/index/to-be-hero-x.md#little-johnny) | To Be Hero X animated series | `to-be-hero-x:little-johnny@animated-series` | — |
