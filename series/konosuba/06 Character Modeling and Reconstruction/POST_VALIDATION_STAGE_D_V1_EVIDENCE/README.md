@@ -1,0 +1,13 @@
+# Stage D V1: evidence authority and retrieval
+
+This directory preserves an actually executed, source-known diagnostic. It contains 45 fixed settings,90 prompts,90 original complete first responses and separate eight-criterion feedback. The exact six tested cores are the neighboring `KONOSUBA_*_POST_VALIDATION_*_V1.md` files listed in the core freeze. All are active provisional versions; earlier MAIN_ONLY_R1 bodies and results retain their own authority.
+
+Read `STAGED_MODEL_CORE_FREEZE_01.json`, then `STAGED_INPUTS_AND_PREBINDINGS_FREEZE_01.json`, the fixed cases/prompts/prebindings, actual release/settings, all-ninety seal and `STAGED_ACTUAL_FIRST_TEXTS_01.json`. Each aggregate text includes its original final newline; UTF-8 encoding reproduces the individually sealed response bytes and hashes. No original is replaced by later feedback or a diagnostic example.
+
+`STAGED_SEPARATE_AUTHOR_FEEDBACK_02.json` is current. Feedback01 is retained exactly: its recording helper tested the mode enum against `TRANSFER`, whereas the frozen enum is `CROSS_CONTEXT_TRANSFER`. The qualification changes only44 T01 records from UNOBSERVABLE to SUPPORTED; early K07-TR already had the supported known-absence guard. It changes no response, primary outcome, criterion judgment or retained defect. `STAGED_FEEDBACK_MODE_JOIN_QUALIFICATION_01.json` records every before/after record and a complete inverse check.
+
+Frozen prompts and prebindings retain their **historical pre-execution nulls**, and the input/model freeze receipts retain historical before-release flags. Their nulls are not missing current execution: join by `execution_id` to the actual texts/seal and current feedback. Current feedback reports49 fully prebound directional views across18 commitments as internal trace consistency, without an accuracy rate. Nine qualified views,two not-triggered views,54 OPEN views and264 not-fully-prebound views receive no full directional success. Typed constraints stay separate.
+
+SD1-QA-D01 remains a typed A04 failure in original F04-A-TR. The later text in `STAGED_DIAGNOSTIC_SUCCESSORS_01.json` is a post-feedback example, not a replacement or new first. Settings identify the exact served build,temperature,top_p and seed as UNKNOWN; no external sampling API or user-set stochastic controls were used. Batch times are actual write/seal times, not per-token generation times.
+
+The same assistant authored all stages and performed review. Case design anticipated behaviors; pairs and overlapping clauses are dependent. Full saved-text readback is documented separately. These files create no primary-source reading,image-view,independent observation,grade or full-program-completion credit. Native EPUBs and complete native source bodies are not part of this packet.

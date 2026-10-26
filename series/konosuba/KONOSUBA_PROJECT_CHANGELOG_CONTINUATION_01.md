@@ -577,3 +577,134 @@ Continue the structured current operation above. Each next source requires separ
 
 Further source units then proceed in the governed natural order and scopes in the matrix/architecture. Keep accepted past readings and frozen baseline evidence intact, and use attributed revisions for analytical corrections. Git/audit receipts own publication identities; this map owns present state and governing routes.
 ```
+
+
+## PR345 entrypoint correction: exact source gate closed — 2026-10-26T05:40:48.415357+00:00
+
+Source `d19992708d222141f1dff6e35b8daf43eb868a8a` / tree `1647c22c75c9e56e72ae7f7cc5e59fa102f957f5` passed full10,385 author preflight/remote bindings, all4 changed bodies, fresh1,772 project bodies/71 preserved models and own full479 audit40274352393. [Gate](09%20Audits%20and%20Manifests/KONOSUBA_EXPANDED_SPECIALIST_ENTRYPOINT_REVIEW_GATE_CLOSE_01.json). Comment4374021391 is addressed by active-control changes with exact displaced history and inverse preservation. The supported-mode preflight qualification is retained. No actual new first, model grade or program completion is credited at this source.
+
+
+## Stage D input freeze: displaced active controls â€” 2026-10-26T05:54:18.818289+00:00
+
+The following exact previous controls are retained as history. The current entrypoint advances to actual release with zero saved firsts. Model/input/binding files remain frozen. All earlier text outside these declared replacements remains exact.
+
+```text
+source_boundary: Expanded specialists published/full author gate closed at f659d164; declared fixed41 source programs retained; private reviewed extended synthesis and six frozen StageD cores;45 settings/90 planned prompts/zero new firsts;full program active;percentage null
+```
+
+```text
+next_permitted_operation: STAGE_D_INPUT_PREBINDING_FREEZE_AND_ACTUAL_FIRST_RESPONSES
+```
+
+```text
+next_candidate_operation: STAGE_D_INPUT_PREBINDING_FREEZE_AND_ACTUAL_FIRST_RESPONSES
+```
+
+```text
+The private packet `post-validation-staged-models-v1` owns the actual current execution preparation. Its accepted model-core freeze is SHA256 `2bde793fbf6a93d1de6b2b09397eb1999ebc860f66e31c6f39ac7378dba95113`. The new bank has 45 settings, covering all nine protocol families for each principal and the party, with 90 planned paired-mode prompts. Its complete input-review plan is SHA256 `029a105a765ed6cae7322be7b8abd05c3b3004982f895bb84e6e22b47fc3eac7`. **No new Stage D first response has yet been generated.** Next, finalize the explicit model/case prebindings, freeze the reviewed inputs, record an actual release, and save each first response once before any feedback. Same-assistant authorship, known source exposure, dependent mode pairs, OPEN choices and typed constraints must not be converted into independent accuracy or directional successes.
+```
+
+```text
+Their exact frozen cores, future input bindings, actual firsts and later feedback require separate attributable records.
+```
+
+```text
+Continue the structured Stage D operation above: complete prebindings and the input freeze, then preserve actual first responses before feedback.
+```
+
+
+## Stage D actual firsts 40/90 — 2026-10-26T06:01:11.492524+00:00
+
+Exact displaced active controls follow; counts reflect saved/hash-verified originals only. No feedback has begun.
+
+```text
+source_boundary: Expanded specialists and entrypoint correction published/full author gates closed through d1999270; fixed41 programs retained; private reviewed extended synthesis and six frozen StageD cores;45 settings/90 inputs and prebindings frozen;actual release next/zero firsts;full program active;percentage null
+```
+
+```text
+**Actual release and all 90 complete first texts remain next; none has been saved at this update.**
+```
+
+```text
+Record release before composing complete responses, save each original once, and finish all firsts before feedback.
+```
+
+```text
+Continue the structured Stage D operation above: record the actual release, then preserve all 90 complete first responses before feedback.
+```
+
+
+## Stage D actual firsts 90/90 — 2026-10-26T06:07:27.739159+00:00
+
+Exact displaced active controls follow; counts reflect saved/hash-verified originals only. No feedback has begun.
+
+```text
+source_boundary: Published expanded specialists and entrypoint gates closed through d1999270; fixed41 retained; six StageD cores and45settings/90inputs frozen;actual release/firsts40/90 sealed;feedback not started;full program active;percentage null
+```
+
+```text
+**Actual run: release recorded; 40/90 complete first texts saved once and sealed; feedback has not begun.**
+```
+
+```text
+next_permitted_operation: STAGE_D_ACTUAL_RELEASE_AND_PRESERVED_FIRST_RESPONSES_THEN_FEEDBACK
+```
+
+```text
+next_candidate_operation: STAGE_D_ACTUAL_RELEASE_AND_PRESERVED_FIRST_RESPONSES_THEN_FEEDBACK
+```
+
+```text
+Continue the structured Stage D operation above: complete the released run and preserve all 90 first responses before feedback.
+```
+
+
+## Executed Stage D suite and extended synthesis: displaced controls — 2026-10-26T06:22:25.292203+00:00
+
+Exact prior active controls follow. Their pending first-response and feedback statements are historical. All unrelated current-map bytes remain exact. New artifacts preserve the six tested cores and all originals; current feedback02 only qualifies the mode enum join.
+
+```text
+source_boundary: Published expanded specialists and entrypoint gates closed through d1999270; fixed41 retained; six StageD cores and45settings/90inputs frozen;actual release/firsts90/90 sealed;feedback not started;full program active;percentage null
+```
+
+```text
+next_permitted_operation: STAGE_D_SEALED90_ACTUAL_READBACK_AND_SEPARATE_FEEDBACK
+```
+
+```text
+next_candidate_operation: STAGE_D_SEALED90_ACTUAL_READBACK_AND_SEPARATE_FEEDBACK
+```
+
+```text
+<!-- CURRENT_OPERATION_START -->
+
+**Current phase: post-validation Stage D diagnostic inputs and execution.** The seven expanded specialist papers are published and their exact author gate is closed at `f659d164d359644c32238e5de5145ee1db508b92`. Their [scope record](09%20Audits%20and%20Manifests/KONOSUBA_EXPANDED_SPECIALIST_SYNTHESIS_SCOPE_AUDIT_01.json) and [publication gate](09%20Audits%20and%20Manifests/KONOSUBA_EXPANDED_SPECIALISTS_PUBLICATION_GATE_CLOSE_01.json) govern the current expanded literary interpretation; the seven main-only bodies remain wholly retrievable. Do not repeat C52 admission, the completed broader audit/ledger consolidation or authorship of these seven papers.
+
+The combined extended-corpus synthesis is a semantically reviewed **private candidate**, not yet a published analytical home. Six distinct provisional Stage D model cores—four principals, party and transfer—have been privately authored, fully reviewed and frozen before the concrete new case bank. The original 71 published model bodies, MAIN_ONLY_R1 forecasts, four source-local scores, first responses and blank/null commitments remain unchanged. These six private successor versions create no additional secondary subjects and have not been promoted as mature canonical models.
+
+The private packet `post-validation-staged-models-v1` owns the current diagnostic execution. Six accepted model cores were frozen before concrete case authorship (SHA256 `2bde793fbf6a93d1de6b2b09397eb1999ebc860f66e31c6f39ac7378dba95113`). All 45 settings, 90 exact paired-mode prompts and their primary/typed prebindings have now been semantically reviewed and frozen (input-freeze SHA256 `8b9d343573f4728eae7defc05a7912332a57cbde7a8b0028bddfffe792c65068`). **Actual run: release recorded; 90/90 complete first texts saved once and sealed; feedback has not begun.** The actual release precedes complete response authorship; continue saving each original once and finish all firsts before feedback. The 49 fully prebound directional opening views concern 18 distinct commitments; they are dependent opportunities, not an accuracy denominator. OPEN choices, typed constraints, mode qualifications and unknown results retain their separate meanings. Same-assistant source-known case design anticipated behavior; recorded firsts are first complete released continuations, without a claim of blinding or independent API sampling.
+
+All nineteen supplemental supplied editions, seventeen main-edition excluded-component programs and five mixed/reference programs retain their closed declared source gates. The broader identity/reference/image audit, evidence-proportional individual dispositions and ten-ledger consolidation have been performed at their recorded scopes. This source-program accounting does not establish a narrative-component denominator or force another native pass. Current treatment counts remain 71 published model bodies / 65 scoped secondary model entries, 231 profile passages, 69 monograph-only studies and 836 nonfinal access records. All nineteen historical canonical/private row differences and all independent-observation nulls remain intact; final unique-person denominator and global completion percentage remain null.
+
+After the actual first-response battery and separate feedback, publish the reviewed extended synthesis and attributable Stage D suite with their exact evidence. Then complete the full-series synthesis, claim/evidence routing, component/responsibility accounting and separately owned curation/evaluation, protected integration and release. A cohort, essay, frozen model, bank or internally plausible output does not close the full program. Earlier dated/appended C52 and pending-at-authorship statements below are retained history and cannot override this current-operation block or the frontmatter.
+
+<!-- CURRENT_OPERATION_END -->
+```
+
+```text
+Nineteen of19 supplemental supplied editions, all five mixed/reference programs and all17 main excluded-component programs have closed their full publication gates at the declared supplied-edition scopes. Original accepted principal histories retain exact authority and zero new principal-pass credit. This source-program accounting is not a narrative-component percentage: the global component denominator remains unresolved and percentage is null. Original metadata audits retain their historical scopes. The broader secondary audit and ledger consolidation are recorded at their declared scopes, and all seven expanded specialists are published. The reviewed private extended synthesis, six frozen Stage D cores and prepared nine-family/two-mode bank now lead the active route above. Actual first responses/feedback, full-series synthesis, component accounting and designated curation/evaluation/integration/release remain due.
+```
+
+```text
+The four mandatory principal subjects remain Satou Kazuma, Aqua, Megumin and Darkness, with party interaction and cross-context transfer as separate model responsibilities. `05 Specialist Synthesis` now contains both published expanded versions and preserved main-only baselines. `06 Character Modeling and Reconstruction` retains MAIN_ONLY_R1 and the other earlier model bodies; the six reviewed Stage D successors are privately frozen and not yet published. Their exact frozen cores and now-frozen input bindings are privately recorded; actual firsts and later feedback require separate attributable records.
+
+All declared source programs and the seven expanded specialist publications retain their closed gates. Current work is the actual Stage D diagnostic release/execution and feedback, followed by the combined extended/full-series syntheses, versioned-suite publication, synchronized claims/evidence, component/responsibility accounting and designated curation/evaluation/integration/release. Residual identities, final tiers and denominators keep their explicit uncertainty; they do not justify repeating the completed audit wholesale or forcing new model promotions. A later source admission, if actually needed, still requires its separate gates. A warm ending or paid task does not imply complete causal repair, consent or model success.
+```
+
+```text
+Continue the structured Stage D operation above: all 90 original complete first responses are sealed. Perform complete actual readback, then record separate criterion-level feedback without rewriting any original. The exact inputs and prebindings are frozen; do not rewrite them after seeing responses. The new hypothetical battery does not create another literary holdout or alter any old score. Review and exact publication remain distinct from private preparation.
+
+
+```
+
+The new report records90 complete firsts,720 criterion entries,49 dependent fully prebound directional opening traces across18 commitments,and retained typed A04 defect SD1-QA-D01. A post-feedback example is separately marked. No original model/score/first/blank/null is overwritten; no new native reading,independent accuracy or full-program completion is claimed. Containing publication remains pending.
