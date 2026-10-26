@@ -1,0 +1,715 @@
+{
+  "schema": "konosuba.cohort51.art-reference-native-provenance.v1",
+  "authored_utc": "2026-10-25T20:53:24.750950+00:00",
+  "source_bindings": [
+    {
+      "source_id": "ART-CHEERS",
+      "filename": "Konosuba - Artbook - Cheers.epub",
+      "bytes": 40806672,
+      "sha256": "fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea",
+      "fixed_matrix_hash_exact": true,
+      "fresh_ZIP_CRC": "PASS",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "b16151e2bdbc2ac070b2c0a1483b03111b47fde3f0385b725407497b71406c84"
+    },
+    {
+      "source_id": "MAIN-04",
+      "filename": "Konosuba - Main Series - Volume 04.epub",
+      "bytes": 3907671,
+      "sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+      "fixed_matrix_hash_exact": true,
+      "fresh_ZIP_CRC": "PASS",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "18355a9f9399b24882cd76357319dea4c7735cd16218bba9a47fa916c88e7669"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "filename": "Konosuba - Artbook - Blessing.epub",
+      "bytes": 44810944,
+      "sha256": "12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c",
+      "fixed_matrix_hash_exact": true,
+      "fresh_ZIP_CRC": "PASS",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "4ae569247cdb4ea7bbcb0c9a5e154d64bda424829102d83d5d0c51375d5567f6"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "filename": "Konosuba - Fanbook - Official Memorial Fanbook.epub",
+      "bytes": 69401330,
+      "sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+      "fixed_matrix_hash_exact": true,
+      "fresh_ZIP_CRC": "PASS",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "7021c968ced14384f0c5feedeb9a6625ac5a2a433f2210db5234acd4a2abe19a"
+    }
+  ],
+  "actual_complete_native_image_returns": [
+    {
+      "source_id": "ART-CHEERS",
+      "image_id": "ART-CHEERS-S030",
+      "native_member": "item/image/i-024.jpg",
+      "bytes": 316666,
+      "sha256": "72fd2881e2860eb3fc9d2aa0042feb30ef7818875fbf8d14dc4450eadd3924e1",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-CHEERS",
+      "image_id": "ART-CHEERS-S031",
+      "native_member": "item/image/i-025.jpg",
+      "bytes": 392418,
+      "sha256": "4f180c08c028ae81a07af7e761a15f9b477a885cf9e6358be7b971b35d101930",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-CHEERS",
+      "image_id": "ART-CHEERS-S032",
+      "native_member": "item/image/i-026.jpg",
+      "bytes": 266277,
+      "sha256": "912f929e12195a76d74b377a9401fa83e22d62d3bf8da68872b0f05fffc617fd",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-CHEERS",
+      "image_id": "ART-CHEERS-S033",
+      "native_member": "item/image/i-027.jpg",
+      "bytes": 300121,
+      "sha256": "70690b244d07796cd3d010be292635e9c71d6b2411a3d4bb858fed82867f9542",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "MAIN-04",
+      "image_id": "MAIN-04-IMG005",
+      "native_member": "item/image/kuchie-001.jpg",
+      "bytes": 200400,
+      "sha256": "bb6427c6b3b7da1bbf5474e564c638d79f7f84781cadd2a64a7bd36962f2cf93",
+      "dimensions": [
+        1128,
+        1600
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "MAIN-04",
+      "image_id": "MAIN-04-IMG006",
+      "native_member": "item/image/kuchie-002.jpg",
+      "bytes": 159095,
+      "sha256": "8f63560a5644056893bedd8c0cdcc40850911d66a85c45e63d09234f7dcc8df2",
+      "dimensions": [
+        1128,
+        1600
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "MAIN-04",
+      "image_id": "MAIN-04-IMG007",
+      "native_member": "item/image/kuchie-003.jpg",
+      "bytes": 156848,
+      "sha256": "485d0714db71b65c6ff46b0296c218bdf71d6bb5d66fc4f7a33905204ac0c89d",
+      "dimensions": [
+        1128,
+        1600
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "MAIN-04",
+      "image_id": "MAIN-04-IMG008",
+      "native_member": "item/image/kuchie-004.jpg",
+      "bytes": 150691,
+      "sha256": "bf188e65a36f0ee416c5093fc7cca2966b0d5d359ad56fb00485660a4d14a081",
+      "dimensions": [
+        1128,
+        1600
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "MAIN-04",
+      "image_id": "MAIN-04-IMG009",
+      "native_member": "item/image/kuchie-005.jpg",
+      "bytes": 162647,
+      "sha256": "c0bf4322e69eb672270a37774f65e30cceda1cc259e9b66fba165dd4715c63c3",
+      "dimensions": [
+        1128,
+        1600
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "MAIN-04",
+      "image_id": "MAIN-04-IMG010",
+      "native_member": "item/image/kuchie-006.jpg",
+      "bytes": 223705,
+      "sha256": "8360de95d151187f3822538a97b51e6444d8d3bab93be7b4258375131367e0af",
+      "dimensions": [
+        2020,
+        1455
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "MAIN-04",
+      "image_id": "MAIN-04-IMG011",
+      "native_member": "item/image/kuchie-007.jpg",
+      "bytes": 156618,
+      "sha256": "8941f0a1545ba98292e048922a98efd74b8cdbe1a4bd7fe1a28f54ad0a582474",
+      "dimensions": [
+        1128,
+        1600
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-CHEERS",
+      "image_id": "ART-CHEERS-S124",
+      "native_member": "item/image/i-118.jpg",
+      "bytes": 544415,
+      "sha256": "a77a339636ed09aa73adb62c88c216f5db5e71b83ae0b93c4c34c5d9d2f726c0",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-CHEERS",
+      "image_id": "ART-CHEERS-S125",
+      "native_member": "item/image/i-119.jpg",
+      "bytes": 557324,
+      "sha256": "00f141dc9bd25aad3acceeb476910dc2bceef6a376c9e766d7c4b28b7d228ae3",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-CHEERS",
+      "image_id": "ART-CHEERS-S126",
+      "native_member": "item/image/i-120.jpg",
+      "bytes": 568782,
+      "sha256": "2942298f35eae748dfbf2d996dfbb5dc61600a6b76c63f6516e8ab0a8c7aa8cc",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-CHEERS",
+      "image_id": "ART-CHEERS-S127",
+      "native_member": "item/image/i-121.jpg",
+      "bytes": 541644,
+      "sha256": "27b83a69beaad313d13ba4f035b47948c522f89522a362b3391c073e5ecf582b",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-CHEERS",
+      "image_id": "ART-CHEERS-S128",
+      "native_member": "item/image/i-122.jpg",
+      "bytes": 515147,
+      "sha256": "4fe77769c6c3a148d1735aa13fd10ffaec5ca15e0d06b5591283b0e2aec14cf1",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "image_id": "ART-BLESSING-S10",
+      "native_member": "item/image/i-004.jpg",
+      "bytes": 288279,
+      "sha256": "6f24aee107798f9d667700f3e7c8fa3f820366f0960405938e35ebe8c350c8ef",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "image_id": "ART-BLESSING-S11",
+      "native_member": "item/image/i-005.jpg",
+      "bytes": 425607,
+      "sha256": "fc555f3fb79d010621bcec96bbc9d4fbcaa1c60d3252976ff8431c06e4768915",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "image_id": "ART-BLESSING-S17",
+      "native_member": "item/image/i-011.jpg",
+      "bytes": 417297,
+      "sha256": "5bfcd0bf1877f1ef1158b6c04f8500b0d31427778e41f9b67b25cecdb362a668",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "image_id": "ART-BLESSING-S42",
+      "native_member": "item/image/i-036.jpg",
+      "bytes": 390851,
+      "sha256": "99efd7c9379f495d86771a31f75c42f103d00bcbdff01bfe137652ce8a0862a2",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "image_id": "ART-BLESSING-S52",
+      "native_member": "item/image/i-046.jpg",
+      "bytes": 268774,
+      "sha256": "64322b1bd902f129eaea90f104d168ebe57264af30bd9adada56be431dfdefd3",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "image_id": "ART-BLESSING-S140",
+      "native_member": "item/image/i-134.jpg",
+      "bytes": 252429,
+      "sha256": "d79ed2e88839d1c21530c8fcd1456c56bbfa5acdcb36f19df759bf1e0e54d0ea",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "image_id": "ART-BLESSING-S141",
+      "native_member": "item/image/i-135.jpg",
+      "bytes": 297739,
+      "sha256": "801f449f5da2702b9e542efdc4f5d00ed9b4bea30f5d958845f656a0f0ae6062",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "image_id": "ART-BLESSING-S142",
+      "native_member": "item/image/i-136.jpg",
+      "bytes": 441286,
+      "sha256": "13c83bc13889fa66f896a2f7d367aa12a4bc92f21d6cf1b02af61d4154ee10ed",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "image_id": "ART-BLESSING-S143",
+      "native_member": "item/image/i-137.jpg",
+      "bytes": 432684,
+      "sha256": "3d6c894466ceb93c9658c92a3386098df84f65e74bfbbd1a0ed19a832d9fcf8a",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "image_id": "ART-BLESSING-S144",
+      "native_member": "item/image/i-138.jpg",
+      "bytes": 484255,
+      "sha256": "4048fcb3e9c142628ea5a8ceae07d449e5bfa603ca357a9e4fa823c0ea1e10cd",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "image_id": "ART-BLESSING-S145",
+      "native_member": "item/image/i-139.jpg",
+      "bytes": 451526,
+      "sha256": "004cc884e3baff1070d61690fd8975e461f58fe7d1014bc8f1da5575c9178a74",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "image_id": "ART-BLESSING-S146",
+      "native_member": "item/image/i-140.jpg",
+      "bytes": 438761,
+      "sha256": "88bede5e938a2ee01dd03ef280ca008e044ee580c0f1a3bb07d3f5fb8ff0b3c1",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "image_id": "ART-BLESSING-S147",
+      "native_member": "item/image/i-141.jpg",
+      "bytes": 447728,
+      "sha256": "390c41a0766ff3d62501cc7b2980fb45b205c368e8003c390ede085d3983a08a",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "image_id": "ART-BLESSING-S148",
+      "native_member": "item/image/i-142.jpg",
+      "bytes": 412184,
+      "sha256": "ba752037f985cb0d56443299178c3c9fb8b2c35e4c00427f1df5ce9887d8b9ec",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S013",
+      "native_member": "item/image/i-011.jpg",
+      "bytes": 409944,
+      "sha256": "4596a258e65027489d31d8ae213e9fa60f09b115560b84360614fdcc67d07232",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S014",
+      "native_member": "item/image/i-012.jpg",
+      "bytes": 372949,
+      "sha256": "17b1fc250392b573af6fa34edb050ed72124edf641de6226bdbf3a6c9949ed7c",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S096",
+      "native_member": "item/image/i-094.jpg",
+      "bytes": 629268,
+      "sha256": "df41178461255d27b17bde012f438645c507474ef675e67d216c9b7e7e047bfe",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S097",
+      "native_member": "item/image/i-095.jpg",
+      "bytes": 600033,
+      "sha256": "79108a344f849a1407af23d73dbcb075dfe047476af18267817db153834f79ca",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S098",
+      "native_member": "item/image/i-096.jpg",
+      "bytes": 576237,
+      "sha256": "8b8fd2258513f9c41fd2180b464ee17897af65beb93addada1c20f6aa9e97b9b",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S099",
+      "native_member": "item/image/i-097.jpg",
+      "bytes": 525089,
+      "sha256": "5cbd2e854ee92a6f7ec590c8465e5b66a592898fc89d55a576b9c734d9ae34af",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S100",
+      "native_member": "item/image/i-098.jpg",
+      "bytes": 481018,
+      "sha256": "c38f3058187a805ba65990b3dd4c5555f33a39d72023347f7f706ae9604ebb56",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S101",
+      "native_member": "item/image/i-099.jpg",
+      "bytes": 484176,
+      "sha256": "cfbc2a1cbd055f33d79a088f42c09ac194c8adf1ce758dcc3bee8decce8df8b1",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S102",
+      "native_member": "item/image/i-100.jpg",
+      "bytes": 518550,
+      "sha256": "54294b4a66c851e000b8e675446979e450100a12237c9f0d8ae4f57354d7af7c",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S103",
+      "native_member": "item/image/i-101.jpg",
+      "bytes": 485438,
+      "sha256": "fe21669122e916045e2d46cec60490146403ec4af8a228a4761c6b9e2faf1cb2",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S104",
+      "native_member": "item/image/i-102.jpg",
+      "bytes": 552479,
+      "sha256": "555aa06717a712b7d9b5ec9edc07dacea2c7c380782fbe50690394fabd732277",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S105",
+      "native_member": "item/image/i-103.jpg",
+      "bytes": 542099,
+      "sha256": "a34f70322e9d5573254ec8bd21faecc213055f0f67c2a81a3bb2f0ee119cb071",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S106",
+      "native_member": "item/image/i-104.jpg",
+      "bytes": 496060,
+      "sha256": "baa0ce9cacc1e8a6b0f3ac3b0402d9288c34d23a5ef513bd972593e5b6c7c907",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S107",
+      "native_member": "item/image/i-105.jpg",
+      "bytes": 692820,
+      "sha256": "64b5a2aa999817d62f5ee19651bc6e0bbd71880d222a04105daf074d4f747c8f",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S110",
+      "native_member": "item/image/i-108.jpg",
+      "bytes": 534530,
+      "sha256": "c95b5537fd77f2a6248b5736f68719f3b18f5f66210c60db1420d9835fafd573",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "image_id": "FAN-MEM-S111",
+      "native_member": "item/image/i-109.jpg",
+      "bytes": 551442,
+      "sha256": "1d1c6d6735aed57f8c919c6c9bac3152749815ec50593214fc09d860313bde36",
+      "dimensions": [
+        1448,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json"
+    }
+  ],
+  "current_art_reference_unique_native_images": 46,
+  "current_prior_branding_blank_duplicate_groups": 16,
+  "current_all_selected_unique_native_views": 62,
+  "complete_before_component_records_received": 46,
+  "actual_current_census_neighbor_records_received": 24,
+  "private_complete_receiving_pins": [
+    {
+      "file": "ART_CHEERS_MAIN04_NATIVE11_AND_BEFORE_RECORDS_RECEIVING_01.json",
+      "sha256": "9f88a5be288276aaf8944d98f7851f1475ea3333e5be355923f5fb0e42b21aae"
+    },
+    {
+      "file": "ART_REFERENCE_NATIVE35_AND_COMPLETE_BEFORE_RECORDS_ACTUAL_RECEIVING_01.json",
+      "sha256": "19043a55db33a96d1dc4ad27d347684e6734f0341ebaa18543cadc7749fa1c4d"
+    },
+    {
+      "file": "ART_CHEERS_MAIN04_CENSUS_NEIGHBOR_RECEIVING_AND_TYPED_ROUTE_DECISIONS_01.json",
+      "sha256": "42791f1e24b585e61817a7e5980cbb57777c85fd3dea3ff855622dacb39c461d"
+    },
+    {
+      "file": "ART_REFERENCE_CENSUS14_ACTUAL_RECEIVING_AND_DISPOSITION_DECISIONS_01.json",
+      "sha256": "1c2a5f3a6a7d1aef43ed5bcffd9a451f6c472572a5e3c0e09ed9a57f7e219efa"
+    },
+    {
+      "file": "C51_ART_REFERENCE_DISPOSITION_COMPLETE_SEMANTIC_RECEIVING_01.json",
+      "sha256": "520b2d4b517a6bd7b6e847799c50ed01715e47cc623acc73bdc1fbe2768f0b1f"
+    }
+  ],
+  "visual_recomposition": [
+    {
+      "artbook_page": "ART-CHEERS-S030",
+      "main_images": [
+        "MAIN-04-IMG005",
+        "MAIN-04-IMG006"
+      ],
+      "relationship": "Two corresponding source images recomposed on one artbook page; book-title overlay and surrounding layout differ."
+    },
+    {
+      "artbook_page": "ART-CHEERS-S031",
+      "main_images": [
+        "MAIN-04-IMG007",
+        "MAIN-04-IMG008",
+        "MAIN-04-IMG009"
+      ],
+      "relationship": "The Megumin, Darkness and Aqua cases are recomposed together; right/left page arrangement retains the identified cases."
+    },
+    {
+      "artbook_page": "ART-CHEERS-S032",
+      "main_images": [
+        "MAIN-04-IMG010"
+      ],
+      "relationship": "Selected right-side region of the same wide Kazuma-case image continued on the following artbook page."
+    },
+    {
+      "artbook_page": "ART-CHEERS-S033",
+      "main_images": [
+        "MAIN-04-IMG010",
+        "MAIN-04-IMG011"
+      ],
+      "relationship": "Selected left-side region completes the wide Kazuma-case presentation, followed by the Yunyun case and Vanir closing frame. This is not a second separate Kazuma-case event."
+    }
+  ],
+  "whole_resource_byte_identity": false,
+  "chronology": "Publication order, album retrospection, comic framing, reprint distribution and source-local fiction chronology remain distinct. Exact main placement/reprint equivalences are not invented.",
+  "all41_mechanical_search": "All41 EPUBs,2157 parsed XML/nav members,0 parse errors,11 hit members; no positive extra reprint join established. Search absence is not proof of no equivalence and supplies no semantic receiving credit.",
+  "no_raw_source_media_full_transcription_or_absolute_local_path": true,
+  "source_known_same_AI_lineage": true,
+  "new_whole_edition_or_independent_credit": 0,
+  "new_models_rules_inputs_or_firsts": 0,
+  "global_completion_percentage": null
+}

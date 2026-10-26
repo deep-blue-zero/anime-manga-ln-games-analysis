@@ -1,0 +1,341 @@
+{
+  "schema": "konosuba.cohort51.receiving-and-provenance.v1",
+  "status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+  "received_utc": "2026-10-25T20:53:24.750950+00:00",
+  "source_baseline": "6b35401cd14589c12bf332be8f8cb9df302fac4f",
+  "current_main": "6b35401cd14589c12bf332be8f8cb9df302fac4f",
+  "remote_series_baseline": "83fbc004c3bcd1478a25c5f4ee676fcff8dd63dd",
+  "accepted_PR336_merge": "6b35401cd14589c12bf332be8f8cb9df302fac4f",
+  "equal_source_and_merge_tree": "4a5c73a0c880a32a5e09af7f491c813f194d7c6d",
+  "current_main_merge_audit_not_inferred_from_source_audit": true,
+  "carried_C50_closing_paths": [
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_003.json",
+      "before_sha256": "f6459406bed9d81574372bb45608746afa139585d1fadb6c2110f5d4c4c6138a",
+      "after_sha256": "7123eca9a6fb84040c94b393d2661fec52ae7cef46889eb44c58b19df06f6ade",
+      "after_bytes": 423725
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_010.json",
+      "before_sha256": "0f5c20588d2c9ebca77cb98950599eb227e76b72839346d7472ced8084856027",
+      "after_sha256": "914c6021aa06c1cb0bb2849dd63187c95e58e356a76f534449d470042ec47a49",
+      "after_bytes": 271334
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
+      "before_sha256": "1bcf09394a5eb226aa9f984563edd4a737177b74adf4f9ebba17cbbe614a1846",
+      "after_sha256": "74c009ecd975ea6c1eacf45c7b25e47caaed70c996c0e67dab66ca33e7b4e174",
+      "after_bytes": 361827
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_RECEIVING_AND_PROVENANCE.json",
+      "before_sha256": "70a99230bb5154635165da077a79471591283b07d5679432b9151e390f98d43c",
+      "after_sha256": "6ce9ef7bdef312952f0c0f29e69bb3b930cf30e23e84e908484368852c97d11e",
+      "after_bytes": 16366
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+      "before_sha256": "7943d9171c30cd7bbb09dfa1fef1cffa11ab81b75cf2127be0df6c0a2d560003",
+      "after_sha256": "3f5a9312e9eb19fa9b6b7da59502b467ed1097a1fada817cfc14893e9f19fd54",
+      "after_bytes": 479543
+    },
+    {
+      "path": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "before_sha256": "347c974f28d26ee5195cde67112c992a6e95ab63936e9ea47979d8fb95ecb80d",
+      "after_sha256": "0baa43e19f9fdf6f4088cf252b761ac02d2e28a49101dc87086653d7fb9e907d",
+      "after_bytes": 31290
+    },
+    {
+      "path": "series/konosuba/KONOSUBA_PROJECT_CHANGELOG_CONTINUATION_01.md",
+      "before_sha256": "de39a3dd2ce966a03b97ab59807cb66dc1f44eb5d0a902a5b1fcaf704fc2e80e",
+      "after_sha256": "94f54d6ba886996c0950f5103ee86ee74e147bed2e7f6d6e8006a90fae248c8a",
+      "after_bytes": 96588
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md",
+      "before_sha256": "40d34c30e872e6a1db2b18800f3016d7bd8c19306703f2d0f9476ad1579f5de5",
+      "after_sha256": "959f472d122b3d6188540a9ae3d3fff4c792cbb67e2acc964b52479e4727abe3",
+      "after_bytes": 496782
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CHARACTER_MODEL_EVIDENCE_MATRIX.md",
+      "before_sha256": "612c594c952a3ae199dbbe899293460dbd340b5d389d05d6ba3f4a5393b4fedd",
+      "after_sha256": "63c328c5ea24f2668d8ebe40c5425b550dfd0196986d8d1cd5d54a974cb2a557",
+      "after_bytes": 151960
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_PUBLICATION_GATE_CLOSE_01.json",
+      "before_sha256": null,
+      "after_sha256": "91fa7513ff884f53cea06a78f6d2bc81d5d40db43fb32a235f9970f759abd3af",
+      "after_bytes": 8477
+    }
+  ],
+  "complete_semantic_receiving_sha256": "520b2d4b517a6bd7b6e847799c50ed01715e47cc623acc73bdc1fbe2768f0b1f",
+  "reviewed_initial_draft_seal_sha256": "460c88d81fb1c5175939d1f779f7fd3fad01e647b9c669d67f94969d3aac1ad8",
+  "actual_native_scope": {
+    "art_reference_images": 46,
+    "prior_branding_blank_duplicate_groups": 16,
+    "current_unique_selected_images": 62,
+    "complete_component_before_records": 46,
+    "complete_census_neighbor_records": 24
+  },
+  "individual_dispositions": [
+    {
+      "row": 763,
+      "subject": "Eris-doll vendor in Wiz illustrated wish",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 764,
+      "subject": "Townsperson A in Megumin illustrated wish",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 765,
+      "subject": "Unseen recruiting or coercing voice in Darkness illustrated wish",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 766,
+      "subject": "Admirer requests in Aqua illustrated wish",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 767,
+      "subject": "Unseen monsters reported within Megumin illustrated wish",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 768,
+      "subject": "Reported victims of Megumin mage-intimidation campaign in Cheers",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 769,
+      "subject": "Unmapped onlookers at the Cheers rival introductions",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 770,
+      "subject": "Giant toads in the Cheers frog contest",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 771,
+      "subject": "Represented card-game combatant roles in Cheers and FAN-MEM",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 772,
+      "subject": "Unidentified photographer reference in the Blessing album frame",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 773,
+      "subject": "Greed / グリード, Blessing viscount",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md#c51-greed-bounded-profile"
+    },
+    {
+      "row": 774,
+      "subject": "Greed reported high-level Archwizard employee",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 775,
+      "subject": "Hive insects in Aqua reported practice incident",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 776,
+      "subject": "Giant toads in the Blessing appeasement failure",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 777,
+      "subject": "Unmapped adventurer phases in the Blessing storm",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 778,
+      "subject": "Weather admirers and migration onlookers in Blessing",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 779,
+      "subject": "Brief grasshopper observation in Blessing",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 780,
+      "subject": "荒魔鬼鮭 migration group in Blessing",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 781,
+      "subject": "Equipment merchant pitch in the Blessing salmon fight",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 782,
+      "subject": "Novice mage Freeze offer in the Blessing fight",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 783,
+      "subject": "Salmon-buying pitch during the Blessing fight",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 784,
+      "subject": "Unnamed Medusa dungeon owner in FAN-MEM",
+      "tier": 2,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_FANBOOK_MEDUSA_DUNGEON_OWNER_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 785,
+      "subject": "Unassigned guild announcement voices in the FAN tower story",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 786,
+      "subject": "Unnamed guild briefing counterpart in the FAN tower story",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 787,
+      "subject": "Unidentified invader cohorts in the FAN dungeon story",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 788,
+      "subject": "Kobold Hero defender occurrences in FAN-MEM",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 789,
+      "subject": "Other monster defenders in the FAN dungeon story",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 790,
+      "subject": "Uninstantiated succubus reward-provider role in FAN-MEM",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 791,
+      "subject": "Unperformed roles in Darkness fanbook interview fantasy",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    },
+    {
+      "row": 792,
+      "subject": "Unnamed water supplier in FAN-MEM reprint",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md#c51-water-supplier-bounded-profile"
+    },
+    {
+      "row": 793,
+      "subject": "Unnamed restaurant woman in FAN-MEM reprint",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md#c51-restaurant-woman-bounded-profile"
+    },
+    {
+      "row": 794,
+      "subject": "Children obstructed at the fountain in the FAN reprint",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md"
+    }
+  ],
+  "candidate_totals": {
+    "model_artifacts": 71,
+    "source_scoped_secondary_model_entries": 65,
+    "bounded_profile_passages": 216,
+    "monograph_only_source_studies": 65,
+    "nonfinal_source_access_records": 795
+  },
+  "new_models_rules_inputs_or_original_firsts": 0,
+  "existing_source_only_supplement_rows": [
+    1,
+    3,
+    4,
+    6,
+    11,
+    126
+  ],
+  "all8_core_fields_preserved_for_existing_rows": true,
+  "other757_entering_rows_unchanged": true,
+  "historical19_canonical_private_differences": [
+    5,
+    6,
+    7,
+    8,
+    12,
+    13,
+    43,
+    78,
+    123,
+    124,
+    125,
+    137,
+    142,
+    143,
+    168,
+    170,
+    171,
+    172,
+    177
+  ],
+  "source_known_same_AI_lineage_no_independent_gain": true,
+  "current_qualification_owner": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT51_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+  "all71_model_bodies80scratch_and_prior_frozen_histories_preserved": true,
+  "final_census": false,
+  "final_tiers": false,
+  "unique_person_denominator": null,
+  "global_completion_percentage": null,
+  "full_program_complete": false,
+  "publication_closed_utc": "2026-10-25T21:26:59.113220+00:00",
+  "publication_resolution": {
+    "source": "87f93dab7b985d6b09acd94e9c33d34370a47c2f",
+    "tree": "759b0b7a9452a5f15ef80090d0c3eec4f9a4ac1c",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT51_PUBLICATION_GATE_CLOSE_01.json",
+    "gate_sha256": "dac2aa30045ed21e08690099290d1154ce08dc9b37c3c758de3d014b049dbdb0",
+    "source_run": 40234232453,
+    "full_discovered_tests": 479,
+    "latest_trusted_status": 57217494556,
+    "current_models": 71,
+    "author_publication_tranche_complete": true,
+    "protected_integration_not_certified": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 338
+  },
+  "published_authority_reload_sha256": "fdf21da8ef85a9ee3b8242091dd40ba6e0aff79f06543c0e5acfe0aa6ccad4b6",
+  "current_receiving": "Source87f93dab passed exact10341-file author preflight, complete remote tree/all27 changed streams, its own full479-test audit40234232453 and latest trusted status57217494556. A fresh1747-file/71-model authority reload and4local EPUB/OPF/CRC/46image correspondence passed all229 preservation checks. Thirty-eight publication routes close: six existing records retain all eight core fields, and32 new routes receive publication-status changes. The other757 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. Protected integration and full-program completion remain separate.",
+  "closing_bytes_await_next_containing_publication": true
+}
