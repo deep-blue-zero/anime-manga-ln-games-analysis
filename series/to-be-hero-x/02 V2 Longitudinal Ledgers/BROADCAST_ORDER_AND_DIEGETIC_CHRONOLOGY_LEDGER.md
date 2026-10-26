@@ -909,7 +909,8 @@ Where absolute dates remain unsupported, this section deliberately uses relative
 | Anchor | Current authority |
 |---|---|
 | Union Year 16 | Glimmer Lab is already operating as a major multi-field research institution. |
-| Union Year 19 | FOMO appears/emerges as a platform; A-Sheng's retirement/alien-discovery period is plausibly near this year but remains inferred. |
+| Union Year 18 | E17 explicitly displays `联合18年 / YEAR18 AFTER COMMISSION` over the city/Hero Tower establishing shot; the card anchors that framing. |
+| Union Year 19 | FOMO appears/emerges as a platform. |
 | Union Year 20 | Wang Yi leaves the crowded family setting and adopts Ghostblade / `默杀` after MG recruitment. |
 | Union Year 22 | A-Sheng is Ghostblade's 175th completed mission; Ghostblade kills him. |
 | Union Year 26 | Liu Yuwei/Queen is attempting university entrance. |
@@ -918,6 +919,8 @@ Where absolute dates remain unsupported, this section deliberately uses relative
 | Union Year 36 | Lucky Cyan is a rapidly rising singer/hero and sells out the District-20 Union Arena concert. |
 | Approx. Union Year 38 | Project Zero begins “last year” relative to the Year-39 Luo Li/Glimmer sequence. This is a strong inference, not a printed year. |
 | Union Year 39 | Luo Li is sixteen; later Queen recovery/vacation material is also explicitly anchored to Year 39. |
+
+Post-freeze source qualification (2026-10-25; [SUB-03](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_GEMINI_SUBSTRATE_FOLLOWUP_AUDIT.md#sub-03)): the supplied E17 1fps window places the printed Year-18 city card at **nominal WEB 00:03:34** (window-local PTS 89 seconds). This recovers the actual card after the earlier failed 03:45/03:05 locators. The source position is a derivative mapping, not a new native-frame onset or a DB Blu-ray offset. The card alone does not date A-Sheng's retirement, the alien discovery, Nuonuo's birth or every adjacent/intercut event. E18 separately reports MG's Year-18 dispatch of A-Sheng to investigate the crash. The earlier near-Year19 estimate depends on the later three-year Vortex interval and cannot jointly date mission, alien recovery and retirement; the exact discovery-to-retirement interval remains open.
 
 ### Calendar protection
 
