@@ -248,6 +248,28 @@ Reviewed analysis subjects in the `to-be-hero-x` namespace of the [Character Ana
 - Reviewed current evidence:
   - [`13-dragon-boy-smile-pain-fear-and-punitive-heroism` — 13 DRAGON BOY SMILE PAIN FEAR AND PUNITIVE HEROISM](../../series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/13_DRAGON_BOY_SMILE_PAIN_FEAR_AND_PUNITIVE_HEROISM.md)
 
+<a id="x"></a>
+
+### X
+
+- Entity ID: `to-be-hero-x:x`
+- Entity aliases:
+  - _None._
+
+#### Subject: To Be Hero X first season
+
+- Analysis subject ID: `to-be-hero-x:x@animated-series`
+- Series: `to-be-hero-x`
+- Continuity: `to-be-hero-x-animated-series`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `x-reviewed-corpus`: ANIME EPISODE: Dedicated subject-specific analysis in a canonical Phase-3 character synthesis over the first-season S01E11–E24 scope declared by the artifact, with the E09/E24 coin-donor audit within its still-frame and text limits. Earlier holders of the X rank, the office itself and Zero are not covered by this row.; continuity `to-be-hero-x-animated-series`
+- Reviewed current evidence:
+  - [`15-x-zero-godhood-fate-and-the-limit-of-public-will` — 15 X ZERO GODHOOD FATE AND THE LIMIT OF PUBLIC WILL](../../series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/15_X_ZERO_GODHOOD_FATE_AND_THE_LIMIT_OF_PUBLIC_WILL.md)
+
 <a id="xiao-yueqing-moon"></a>
 
 ### Xiao Yueqing
