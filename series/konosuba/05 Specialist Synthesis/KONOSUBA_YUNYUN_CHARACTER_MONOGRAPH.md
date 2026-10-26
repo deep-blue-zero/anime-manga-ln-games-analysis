@@ -5,6 +5,8 @@ character: Yunyun
 generation: SECONDARY_YUNYUN_EXPANDED_V1
 status: active_provisional
 source_boundary: Accepted main17 principal histories and completed supplemental analysis; bounded actual native rechecks through MAIN08 excluded-component closure
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

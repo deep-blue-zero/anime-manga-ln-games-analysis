@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+generation: "EARLIER_COHORT_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "YORI01 U014 single dense linked inquiry/emergency; named deputy chief distinct from initial male officer/Aloerina/Sena. Apologies, indirect explosion causation, changing restrictions and limited device inference; final arrest unshown. Tier2 monograph only."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "78a00e4bed8b097751a0bee699c2b5b81c142b6e"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "b503e1f09ecc6512430fac6cdd70467334ca19fb40345deef61a91a68facb1cc"
+reference_corrections: 0
+---
+
+> Current authority: scoped active provisional interpretation accepted in the [earlier-monograph authority review](../09%20Audits%20and%20Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The complete original argument below is retained byte for byte. Earlier pending labels record authorship history. Current project progress is owned by the current entrypoint; this adoption adds no primary reading, independent performance, model maturity or capability grade.
+
 # Lolierina: a changing investigation with mixed public and private incentives
 
 Status: cohort27 initial scoped Tier2 monograph; no reconstruction model or new hypothetical first bodies. LO27 locators belong to the [cohort27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). The complete BASE body of YORI01 U014 was received, with no new ruby, image-set, source admission or independent validation credit. Semantic receiving and containing publication remain pending at authorship.

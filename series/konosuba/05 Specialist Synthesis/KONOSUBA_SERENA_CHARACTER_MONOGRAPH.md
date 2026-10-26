@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+generation: "EARLIER_COHORT_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "MAIN14–16 infiltration/control/constraint/work/capture chain, with deduplicated Dust and later reports. Serena / セレスディナ alias secured; Sena and other officials distinct. Real harmful agency and real resistance/coercion remain together; no voluntary conversion or unshown completed assault."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "78a00e4bed8b097751a0bee699c2b5b81c142b6e"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "a83b0855402e5aea0420f67291507cbd231da56022cac0c676f160b1329c1ef6"
+reference_corrections: 0
+---
+
+> Current authority: scoped active provisional interpretation accepted in the [earlier-monograph authority review](../09%20Audits%20and%20Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The complete original argument below is retained byte for byte. Earlier pending labels record authorship history. Current project progress is owned by the current entrypoint; this adoption adds no primary reading, independent performance, model maturity or capability grade.
+
 # Serena: manufactured obligation, finite control and resistance under coercion
 
 Status: cohort27 initial monograph, proposed scoped Tier3 with a separate provisional model. SE27 locators belong to the [cohort27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). The sources are admitted and known. Repeated narration of the same introduction, kick, control and release is deduplicated. Semantic receiving and exact containing publication remain pending at authorship; no diagnostic or capability result is claimed.

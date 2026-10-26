@@ -2205,3 +2205,8 @@ Source `0d36d142698ad839135f81dd1d6ef7a2731b23bf` / tree `aeef1c5a45f75929541b4a
 ## Scoped secondary-monograph authority adoption — 2026-10-26T22:17:48.039224+00:00
 
 The separately delegated reviewer received 32 complete C44–48/C51–52 monographs/studies; the author received all 32 proposal arguments and the complete controlling C46 qualification. Complete current quartets and visible adoption notices are added while every original argument byte remains an exact suffix. Current Angie/Dark Stalker use is controlled by PFQ03/PFQ02. No immutable model/rule/input/first, old score, source receipt, census field, ledger body, admission or narrative denominator changes. This is evidence-supported authority adoption, not capability grading or fresh source completion. Its containing publication/audit and designated curation/evaluation remain actual next gates.
+
+
+## Earlier monographs and qualified current arguments — 2026-10-26T23:26:44.214681+00:00
+
+Delegated whole-body authority reviews cover 35 earlier papers. The author accepts 23 existing papers through narrow administrative completion and separately authors 12 substantial current versions: eight C28 reference-qualified arguments, two C18 interpretations preserving explicit seals, and two C20 arguments applying the operative medicine correction. All12 original public papers remain exact, as do private foundations and all 77 original model bodies,90 firsts, old scores and nulls. A bounded already admitted MAIN10 role return confirms Ragcraft as impersonator and Kazuma as restrained observer; no whole-edition or independent credit follows. Containing publication, designated curation/evaluation and final release remain actual subsequent gates.
