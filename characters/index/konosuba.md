@@ -72,6 +72,29 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Chris / Eris: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+<a id="demon-king"></a>
+
+### Demon King
+
+- Entity ID: `konosuba:demon-king`
+- Entity aliases:
+  - 八坂恭一 (ja, ALTERNATIVE) — Personal name supplied in his own self-introduction (MAIN17 U014367); its origin is withheld and it establishes no genealogy.
+  - Yasaka Kyōichi (ja-latn, TRANSLITERATION) — Family-name-first order, as given in the cohort 49 monograph.
+
+#### Subject: Original light-novel continuity, scoped Tier 2 cohort monograph
+
+- Analysis subject ID: `konosuba:demon-king@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-49`: LIGHT_NOVEL OTHER: Bounded synthesis of the MAIN17 final confrontation (U013122–540 court and Eris's qualified assessments; U01413–496 dungeon fight, negotiation and death), with the U015 epilogue and separately attributed U016 creator afterword. Eris's forecasts and his unperformed offers are kept apart from performed choices. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — The Demon King: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DEMON_KING_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="doreck"></a>
 
 ### Doreck
@@ -248,6 +271,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Lucy: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_LUCY_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+<a id="mammon"></a>
+
+### Mammon
+
+- Entity ID: `konosuba:mammon`
+- Entity aliases:
+  - マモン (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped Tier 2 cohort monograph
+
+- Analysis subject ID: `konosuba:mammon@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-49`: LIGHT_NOVEL OTHER: Bounded synthesis of MAIN17 U01292–371 and U012468–469 (command of the hall, interrogation, hostage policy, punishment, partial restraint, boasting, wounding and later corpse), with YORI04 U014530–540 retrospective testimony joined as a high-confidence cross-source inference. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Mammon: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MAMMON_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="megumi"></a>
 
 ### Megumi
@@ -291,6 +336,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - `expanded-cohort-43`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete YORI-01 U024 paragraph projection (P1–472): help and the meal exchange norm, threats and legal inhibition, protection of Megumi, work and mistaken explanations, the real wolf warning, gratitude for Hans's defeat and the excessive exoneration. Paragraph and ruby scope only, with no image or whole-edition credit. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Ozuma: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_OZUMA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="pain"></a>
+
+### Pain
+
+- Entity ID: `konosuba:pain`
+- Entity aliases:
+  - ペイン (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped Tier 2 cohort monograph
+
+- Analysis subject ID: `konosuba:pain@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-49`: LIGHT_NOVEL OTHER: Bounded synthesis of one connected MAIN17 castle encounter (U011373–498, with aftermath U011578 and U01293): detection and avoidance of Aqua, chosen assignment, perception under Flash, correction of Nos after the friendly strike, counter-drain, conditional affinity and destruction. Kazuma's two impersonations are not Pain's speech. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Pain: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_PAIN_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="perie"></a>
 

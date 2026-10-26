@@ -25,7 +25,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`harmony`](characters/index/harmony.md) | 6 |
 | [`idoly-pride`](characters/index/idoly-pride.md) | 22 |
 | [`kimishinu`](characters/index/kimishinu.md) | 3 |
-| [`konosuba`](characters/index/konosuba.md) | 20 |
+| [`konosuba`](characters/index/konosuba.md) | 23 |
 | [`legend-of-the-galactic-heroes`](characters/index/legend-of-the-galactic-heroes.md) | 2 |
 | [`maebashi-witches`](characters/index/maebashi-witches.md) | 7 |
 | [`mass-effect`](characters/index/mass-effect.md) | 2 |
@@ -119,6 +119,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Crusch Karsten](characters/index/re-zero.md#crusch-karsten) | Re:Zero main light novel | `re-zero:crusch-karsten@light-novel` | クルシュ・カルステン |
 | [Dabi](characters/index/my-hero-academia.md#todoroki-toya) | My Hero Academia manga | `my-hero-academia:todoroki-toya@manga` | Todoroki Toya |
 | [Decartes](characters/index/blue-archive.md#decartes) | Blue Archive game | `blue-archive:decartes@game` | — |
+| [Demon King](characters/index/konosuba.md#demon-king) | Original light-novel continuity, scoped Tier 2 cohort monograph | `konosuba:demon-king@original-light-novel` | 八坂恭一; Yasaka Kyōichi |
 | [Denia](characters/index/wuthering-waves.md#denia) | Wuthering Waves game | `wuthering-waves:denia@game` | — |
 | [Doreck](characters/index/konosuba.md#doreck) | Original light-novel continuity, bounded expanded cohort | `konosuba:doreck@original-light-novel` | ドレック |
 | [Dragon Boy](characters/index/to-be-hero-x.md#dragon-boy) | To Be Hero X animated series | `to-be-hero-x:dragon-boy@animated-series` | — |
@@ -281,6 +282,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Makishima Saori](characters/index/oreimo.md#makishima-saori) | Oreimo original light novels | `oreimo:makishima-saori@original-light-novels` | Saori Bajeena |
 | [Mami Nanami](characters/index/rent-a-girlfriend.md#mami-nanami) | Main manga continuity | `rent-a-girlfriend:mami-nanami@manga` | — |
 | [Mamiya Kanoko](characters/index/watayuri.md#mamiya-kanoko) | Japanese manga | `watayuri:mamiya-kanoko@manga` | — |
+| [Mammon](characters/index/konosuba.md#mammon) | Original light-novel continuity, scoped Tier 2 cohort monograph | `konosuba:mammon@original-light-novel` | マモン |
 | [Mari Otsu](characters/index/sayonara-lara.md#mari-otsu) | Television anime continuity | `sayonara-lara:mari-otsu@anime` | — |
 | [Megumi](characters/index/konosuba.md#megumi) | Original light-novel continuity, bounded expanded cohort | `konosuba:megumi@original-light-novel` | メグミ |
 | [Miach Mihie](characters/index/harmony.md#miach-mihie) | Original novel, bounded comparative ethics | `harmony:miach-mihie@original-novel` | Miaha |
@@ -336,6 +338,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Otto](characters/index/ascendance-of-a-bookworm.md#otto) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:otto@light-novel` | — |
 | [Otto Suwen](characters/index/re-zero.md#otto-suwen) | Re:Zero main light novel | `re-zero:otto-suwen@light-novel` | オットー・スーウェン |
 | [Ozuma](characters/index/konosuba.md#ozuma) | Original light-novel continuity, bounded expanded cohort | `konosuba:ozuma@original-light-novel` | ザトゥ・オズマ |
+| [Pain](characters/index/konosuba.md#pain) | Original light-novel continuity, scoped Tier 2 cohort monograph | `konosuba:pain@original-light-novel` | ペイン |
 | [Paul](characters/index/mushoku-tensei.md#paul) | Japanese light-novel continuity | `mushoku-tensei:paul@light-novel` | — |
 | [Perie](characters/index/konosuba.md#perie) | Original light-novel continuity, bounded expanded cohort | `konosuba:perie@original-light-novel` | ペリエ |
 | [Pickles](characters/index/konosuba.md#pickles) | Original light-novel continuity, bounded expanded cohort | `konosuba:pickles@original-light-novel` | トランザム・ルッソ・ピクルス |
