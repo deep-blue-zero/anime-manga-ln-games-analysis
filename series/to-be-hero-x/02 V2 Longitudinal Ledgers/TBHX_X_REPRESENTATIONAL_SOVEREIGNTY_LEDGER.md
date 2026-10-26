@@ -180,7 +180,8 @@ Current evidence:
 - handled before E20 civilian/public transition;
 - recurrent X motif;
 - appears in action/history imagery;
-- E24: X says he thought the coin invited him onto the hero path.
+- E24: X says he thought the coin invited him onto the hero path;
+- E09, identified retrospectively (`RS-E24-13`): X, in civilian presentation, gave a coin to young Qīng busking at night; E24 re-stages that gift as the event he once took for his beginning.
 
 Current best model:
 
@@ -476,6 +477,8 @@ Current:
 
 The toss outcome is not consulted as a binary decision.
 
+**Current erratum (2026-10-25):** the “toss” above is the coin released from X's civilian hand toward young Qīng in a re-staging of the E09 nighttime gift; see `RS-E24-13`. The non-origin and open-mechanics conclusions stand.
+
 ## RS-E24-11 — spatiotemporal discontinuity at tournament convergence
 
 The history/domino sequence occurs after the night-before-tournament office/assault/bar material. It transitions continuously into the tournament opening established for the following day.
@@ -498,3 +501,18 @@ X can visualize and traverse the system while still describing himself as one of
 This strengthens the distinction between:
 - **power over local world-state**;
 - **freedom from causality**, which X never claims.
+
+## RS-E24-13 — the remembered coin was a civilian gift to young Qīng
+
+**Status:** `CONFIRMED RETROSPECTIVE IDENTITY / HIGH` — evidence intake `TBHX-AV-E09-001` (2026-10-25); [paired-source audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E09-E24_COIN_DONOR_PAIRED_SOURCE_AUDIT.md).
+
+E24 WEB 20:02–20:25 re-stages the E09 nighttime encounter (WEB 11:44–12:03): the same night square, fountain and recipient — young Qīng with her white flying-V guitar — the same gold coin with rim glyphs and a triangular emblem, and E09's coin-landing and departing-wave compositions. It shows the donor's face in the black-haired, bespectacled, dark-suited civilian presentation (`X-RS-01`), carries the same back-view figure into a finger snap and a cut to the white-suited public X, and sets X's narration `我本以为自己的英雄之路 / 是从那枚硬币开始的` over the sequence.
+
+Consequences for this ledger:
+
+- the coin event X once took for his beginning is a civilian act toward another person, not a solitary chance toss;
+- the snap appears here as a transition cue from civilian to public presentation inside a recollection; this adds one instance to `X-RS-02` and changes nothing in `RS-E24-05`;
+- the coin's mechanism remains `OPEN` (§7): nothing shows it activating powers, choosing timelines, changing fate, transferring luck, or causing Qīng's abilities;
+- E09 withholds the donor's face, so the identification is retrospective; the frozen E09 reading is unchanged.
+
+Role-sovereignty corollary: in X's own account the hero path he once dated to this night begins with an anonymous, unclaimed act of ordinary generosity performed out of the hero role. This is a character interpretation (`INT`), consistent with `P2-CR-P16`, not a mechanics finding.
