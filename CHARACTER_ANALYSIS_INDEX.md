@@ -37,7 +37,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 18 |
+| [`re-zero`](characters/index/re-zero.md) | 19 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
@@ -46,7 +46,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`solo-leveling`](characters/index/solo-leveling.md) | 5 |
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
 | [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
-| [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 13 |
+| [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
 | [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 39 |
 | [`tomozaki`](characters/index/tomozaki.md) | 7 |
 | [`watayuri`](characters/index/watayuri.md) | 7 |
@@ -267,6 +267,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Lara](characters/index/sayonara-lara.md#lara) | Television anime continuity | `sayonara-lara:lara@anime` | — |
 | [Lerche](characters/index/86-eighty-six.md#lerche) | 86 - Eighty-Six original light novels | `86-eighty-six:lerche@original-light-novels` | レルヒェ |
 | [Levi Ackerman](characters/index/attack-on-titan.md#levi-ackerman) | Attack on Titan manga | `attack-on-titan:levi-ackerman@manga` | — |
+| [Liliana Masquerade](characters/index/re-zero.md#liliana-masquerade) | Re:Zero main light novel | `re-zero:liliana-masquerade@light-novel` | — |
 | [Lin Ling](characters/index/to-be-hero-x.md#lin-ling) | To Be Hero X animated series | `to-be-hero-x:lin-ling@animated-series` | — |
 | [Lisa](characters/index/sayonara-lara.md#lisa) | Television anime continuity | `sayonara-lara:lisa@anime` | Shiomi Lisa; 潮見リサ |
 | [Little Johnny](characters/index/to-be-hero-x.md#little-johnny) | To Be Hero X animated series | `to-be-hero-x:little-johnny@animated-series` | — |
@@ -453,6 +454,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Wilhelm van Astrea](characters/index/re-zero.md#wilhelm-van-astrea) | Re:Zero main light novel | `re-zero:wilhelm-van-astrea@light-novel` | ヴィルヘルム・ヴァン・アストレア |
 | [Wolfgang Crow](characters/index/konosuba.md#wolfgang-crow) | Original light-novel continuity, bounded expanded cohort | `konosuba:wolfgang-crow@original-light-novel` | ヴォルフガン・クロウ |
 | [Woo Jinchul](characters/index/solo-leveling.md#woo-jinchul) | Solo Leveling original Korean novel | `solo-leveling:woo-jinchul@original-korean-novel` | — |
+| [X](characters/index/to-be-hero-x.md#x) | To Be Hero X first season | `to-be-hero-x:x@animated-series` | — |
 | [Xiao Yueqing](characters/index/to-be-hero-x.md#xiao-yueqing-moon) | To Be Hero X animated series | `to-be-hero-x:xiao-yueqing-moon@animated-series` | Moon |
 | [Yamai Saori](characters/index/tokyo-7th-sisters.md#yamai-saori) | Tokyo 7th Sisters game | `tokyo-7th-sisters:yamai-saori@game` | — |
 | [Yang Cheng](characters/index/to-be-hero-x.md#yang-cheng-e-soul) | To Be Hero X animated series | `to-be-hero-x:yang-cheng-e-soul@animated-series` | E-Soul |

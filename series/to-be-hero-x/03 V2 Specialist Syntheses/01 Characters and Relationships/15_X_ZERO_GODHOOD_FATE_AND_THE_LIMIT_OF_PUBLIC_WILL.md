@@ -7,7 +7,7 @@ generation: V2
 phase: 3
 specialist_number: 15
 status: canonical
-source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; X-specific sovereignty ledger; primary close reading E20-E24 with E24 full-motion audit, and E11-E12 for X's first institutional/Queen encounter
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; X-specific sovereignty ledger; primary close reading E20-E24 with E24 full-motion audit, and E11-E12 for X's first institutional/Queen encounter; post-freeze paired-source E09/E24 coin-donor audit TBHX-AV-E09-001 within its still-frame and text limits
 canonical_home: 03 V2 Specialist Syntheses/01 Characters and Relationships
 primary_claim_keys:
 - P2-CR-CH14
@@ -134,7 +134,8 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
-last_updated: 2026-08-17
+last_updated: 2026-10-25
+revision: AV-2026-10-25-E09-001
 ---
 
 # X and Zero: Godhood, Fate, and the Limit of Public Will
@@ -1331,6 +1332,12 @@ It is not established as:
 
 **SP15-16 — The coin is the event X mistook for origin: a memorable threshold inside a causal field whose antecedents exceed the story a person tells about beginning.**
 
+**Current revision (`TBHX-AV-E09-001`, 2026-10-25): the coin was given, not merely tossed.** Native E24 frames (WEB 20:02–20:25) show that the coin in this montage leaves X's civilian hand — black hair, glasses, dark suit — toward young Qīng, who sits busking with her guitar at night. The sequence re-stages E09's nighttime encounter (WEB 11:44–12:03): the same square and fountain, the same coin, and the same compositions of the coin landing and of the departing man's backward wave. The departing figure then snaps and becomes the white-suited public X while X says the coin was where he thought his hero path began. The E09 donor is therefore X, identified retrospectively. E09 itself withholds his face, and its prospective reading stands; the frozen E24 reading's description of a toss remains its historical record.
+
+The revision sharpens SP15-16 rather than overturning it. The event X once mistook for his origin was not a private gamble with chance but an anonymous, unclaimed gift to a runaway child whose own history — the crash, the orphanage, Luo, a family song — was already in motion. His remembered beginning was an entry into someone else's story. That is the grammar of `都早已被种下` in miniature: causes already sown, lives already pushing into one another's worlds, before anyone calls the result a hero path. It also carries SP15-03 backward. In X's own account, the path he dated to that night starts with an ordinary act performed outside any hero role and credited to no one, as his later anonymous help to A-Hu is.
+
+The revision establishes no mechanism. Nothing shown makes the coin activate X's powers, select a timeline, transfer luck or cause Qīng's abilities, and no reverse-luck loop follows. Nothing shows Qīng learning who gave it: at E09 she thanks a man who waves without turning around.
+
 ---
 
 ## 40. Dominoes: biography becomes causal architecture
@@ -1572,6 +1579,7 @@ The phrase is repeatedly prepared through identity change, overtime refusal, ord
 | `SP15-14` | The anti-X operation attacks the private-role boundary that currently most strongly distinguishes X from Zero. | `F-INST/F-MOTION/INT` | High | Canonical |
 | `SP15-15` | A legitimate settlement requires reciprocal self-binding of X and institutions. | `INT/UNR` | High normative model / Open implementation | OPEN constitutional problem |
 | `SP15-16` | The coin is a remembered threshold inside antecedent causality, and fate resistance means refusing expected repetition rather than escaping cause. | `F-DLG/F-MOTION/INT` | High | Canonical |
+| `SP15-17` | The coin event X once mistook for his origin is his anonymous civilian gift to young Qīng in E09, identified retrospectively by E24's re-staging; his remembered beginning is an entry into another life already in motion. | `F-VIS/F-DLG/REV` (`TBHX-AV-E09-001`) + `INT` | High identity / Medium-High interpretation | Canonical current revision |
 
 ---
 
@@ -1585,7 +1593,7 @@ The phrase is repeatedly prepared through identity change, overtime refusal, ord
 | Zero and totalization | `P2-CR-CH15`, `M18`, `P17`, `X01`, `X03` | First hero becomes god/sovereign tyrant; structural persistence secure, literal ontology open. |
 | Yan Mo | `P2-CR-CH16`, `M18`, `N10`, `I08` | Suppressed historical memory becomes cultivation/restoration politics; exact objective remains open. |
 | Representational sovereignty | `P2-CR-M15`, `M16`, `F02`, `F03`, `F12`, `F13` | Use bounded world-state model; snap not universally required; identity can persist across substrate. |
-| Coin and fate | `P2-CR-M17`, `X04`, `X05`, `X06`, `X07`, `X08` | Coin is non-origin; dominoes encode networked causality; seed causality preserves choice. |
+| Coin and fate | `P2-CR-M17`, `X04`, `X05`, `X06`, `X07`, `X08`; `TBHX-AV-E09-001` | Coin is non-origin; the remembered coin event is X's civilian gift to young Qīng (E09); dominoes encode networked causality; seed causality preserves choice. |
 | Public will | `P2-CR-M01`, `M03`, `N01`, `N03`, `N07`, `N08` | Trust/Fear are causal but not truth-sensitive or morally sovereign. |
 | Commission legitimacy | `P2-CR-X02`, `X10`, `X11`, `I01`, `I03`, `I11`, `I12` | Anti-apotheosis purpose is legitimate; historical monopoly and preventive execution fail reciprocal legitimacy. |
 | X/A-Hu | `P2-CR-X09`, `R14`, `R15` | Adversarial trust preserves dissent and testimony without solving institutional governance. |
@@ -1609,7 +1617,8 @@ The phrase is repeatedly prepared through identity change, overtime refusal, ord
 14. **Coin non-origin and `都早已被种下`** — E24 Sections 34.5–34.8.
 15. **2D→3D transition and tournament convergence** — E24 video audit Clip 04 (`00:20:32.956–00:23:10.637`); Sections 33.2–33.7.
 16. **`违抗命运的安排 / 准点下班`** — E24 Section 33.9 and final motion sequence.
-17. **X-specific mechanics** — `TBHX_X_REPRESENTATIONAL_SOVEREIGNTY_LEDGER.md`, especially `RS-E24-02` through `RS-E24-12`.
+17. **X-specific mechanics** — `TBHX_X_REPRESENTATIONAL_SOVEREIGNTY_LEDGER.md`, especially `RS-E24-02` through `RS-E24-13`.
+18. **The E09 coin gift and its E24 re-staging** — `TBHX_V2_E09-E24_COIN_DONOR_PAIRED_SOURCE_AUDIT.md` (`TBHX-AV-E09-001`): E09 WEB 11:44–12:09 and E24 WEB 20:02–20:30.
 
 ### 48.3 Protected questions
 

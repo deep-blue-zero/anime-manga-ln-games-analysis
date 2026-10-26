@@ -1,0 +1,53 @@
+{
+  "schema": "konosuba.staged.accepted-model-core-freeze.v1",
+  "frozen_utc": "2026-10-26T04:36:10.956526+00:00",
+  "model_version": "POST_VALIDATION_STAGE_D_V1",
+  "candidate_manifest_sha256": "88cfe47390649369c20dde5f61dcc7d81ce8bd09016a926d704db024e5d072e6",
+  "author_review_sha256": "8699277dc7ff6191323fe493174a20243f38a77553905a8ef2e1a8a60a65b6cb",
+  "initial_context_seal_sha256": "9ab919f6c566e5f5f36858f743a79763f3b6678b3c35084098fae49a74c5f719",
+  "models": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "frozen_file": "KONOSUBA_AQUA_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "bytes": 15710,
+      "sha256": "66e6f9a8a4fc46506917f8c1c83bb1e88ff438267dd9311ae847ad1316b8b75e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "frozen_file": "KONOSUBA_DARKNESS_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "bytes": 15296,
+      "sha256": "c478565ef08354ec152917b30d4dea76282f1f49176263d6034fb54c67d98056"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "frozen_file": "KONOSUBA_KAZUMA_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "bytes": 16589,
+      "sha256": "f35ef6b308f5c0e1ffb3dc0eb904482eb203af1b118dea2eb1aa8e5e43bc2eba"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "frozen_file": "KONOSUBA_MEGUMIN_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "bytes": 15972,
+      "sha256": "7dcccf99a5ed908a3e837521032130a2ae2fed88b2c55977170296094cdc81dc"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_POST_VALIDATION_INTERACTION_MODEL_V1.md",
+      "frozen_file": "KONOSUBA_PARTY_POST_VALIDATION_INTERACTION_MODEL_V1.md",
+      "bytes": 16569,
+      "sha256": "0e7bd633176b4f7922f78ff4985818e731ce54d19c42fe4d7562f627dab9d219"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_POST_VALIDATION_CROSS_CONTEXT_TRANSFER_MODEL_V1.md",
+      "frozen_file": "KONOSUBA_POST_VALIDATION_CROSS_CONTEXT_TRANSFER_MODEL_V1.md",
+      "bytes": 14085,
+      "sha256": "ad6e1fe8a986491dae698b9f4a951f7e5b869b16e500a057a4c7f6a12734e8c6"
+    }
+  ],
+  "all6_exact_complete_core_bytes_frozen_before_concrete_new_case_authorship": true,
+  "source_known_same_assistant_authorship_and_future_review": true,
+  "absolute_blinding_or_independence": false,
+  "new_concrete_case_bank_exists": false,
+  "actual_first_responses_generated": false,
+  "publication_boundary": "Private accepted model cores and extended-synthesis candidate remain unapplied. Expanded7 publication is independently pending final owner-merge preflight/publication; later suite adoption must retain these exact tested cores or declare an attributable successor.",
+  "full_program_complete": false
+}

@@ -1356,3 +1356,57 @@ Current 71 model artifacts/65 source-scoped secondary entries, 195 profile passa
 C50 adds18 bounded profile passages covering19 access rows, because the two Eris records share one pair profile. It receives24 retained targets and31 new access routes;708 other entering records and19 historical plane differences stay exact. Proposed totals are71 models,65 scoped secondary model entries,213 profile passages,64 monograph-only studies and763 nonfinal access records. These count artifacts and source treatments rather than unique people or mature capability. Eleven already adequate incidental cases retain all eight entering core fields and receive additive C50 qualifications. No new model or grade is claimed.
 
 [Current evidence index](KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C50 author gate closed; proportional profiles — 2026-10-25T19:06:26.463565+00:00
+
+Current71 models/65scoped secondary entries/213profile passages/64monograph-only studies/763nonfinal records are treatment counts. Source 83fbc004 passed exact10332-file index preflight, complete remote tree/all31changed streams, its own full479-test audit 40223499214 and latest trusted status 57213248574, followed by a fresh1738-file/71-model reload and7local EPUB/CRC/OPF/15text-member/4image correspondence. All220preservation checks passed.55 publication routes close,44 updating publication-only core status fields and11 preserving all eight earlier core fields;708 other records and19 historical plane differences remain exact. These closing bytes await their next containing publication. Protected integration and full-program completion remain separate. Eighteen compact profile passages cover19access rows and preserve55individual dispositions. No model, rule, input or diagnostic first is added. All earlier generated originals, adverse findings, blanks and scores remain exact. [Author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT50_PUBLICATION_GATE_CLOSE_01.json).
+
+
+## C51 — proportional art/reference treatments — 2026-10-25T20:53:24.750950+00:00
+
+C51 adds one source-bound Medusa dungeon-owner monograph, three compact profiles and28 incidental typed routes. The32 new records retain nested wishes, game tokens, reports, unmapped group phases and uninstantiated roles as different access types. Greed is the viscount; Megumin supposes1000 floors within an illustrated wish. Original annotations remain preserved under attributable corrections. The supplier and restaurant woman have separate voices and actions; Aqua makes the donation demands. No final Medusa fate, actual tower blast, executed Leen experiment, personal identity join or new rule is invented.
+
+Current71 model bodies/65 scoped secondary model entries remain unchanged. Candidate216 profile passages/65 monograph-only studies/795 nonfinal access records count treatments. Six existing rows receive only additive source supplements;757 others and19 historical canonical/private differences remain exact. All independent counts stay null. The original forecasts, firsts, adverse outcomes, scores, blanks and nulls remain unchanged. Exact containing publication is pending; full-program work continues.
+
+[Current evidence index](KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md). No new generative model, rule, scenario input or original diagnostic output is justified by these treatments.
+
+
+## C51 author gate closed; no new model — 2026-10-25T21:26:59.113220+00:00
+
+Current71 model bodies/65 scoped secondary entries/216 profile passages/65 monograph-only studies/795 nonfinal access records are treatment counts. Source87f93dab passed exact10341-file author preflight, complete remote tree/all27 changed streams, its own full479-test audit40234232453 and latest trusted status57217494556. A fresh1747-file/71-model authority reload and4local EPUB/OPF/CRC/46image correspondence passed all229 preservation checks. Thirty-eight publication routes close: six existing records retain all eight core fields, and32 new routes receive publication-status changes. The other757 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. Protected integration and full-program completion remain separate.
+
+The Medusa owner remains Tier2 monograph-only; Greed,water supplier and restaurant woman remain separate Tier1 profiles. Nested wishes,tokens,uninstantiated roles and group phases preserve their typed access. No original response,model,rule,input,adverse result,score,blank or null is revised. [Author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT51_PUBLICATION_GATE_CLOSE_01.json). Final specialist/synthesis/StageD/battery/curation/release work remains due.
+
+
+## C52 — proportional TRPG individual treatments — 2026-10-25T23:11:09.495270+00:00
+
+C52 adds four substantial monographs for the guide newcomer, Okina, Boren and the autonomous tank; fifteen bounded profiles cover nine optional samples, two guide counterparts and four captive women. Twenty-two incidental routes preserve source-local groups, optional branches, casualties, reference roles and nonperson equipment provenance. All41 complete twelve-dimension dispositions retain source boundaries, agency, counterevidence and unresolved identity. Eight attributable precision findings correct derivative labels/translations/locators or qualify interpretation, editorial claims and sequential ownership without rewriting original notes.
+
+Candidate totals are71 unchanged model bodies/65scoped secondary model entries,231bounded-profile passages,69monograph-only studies and836nonfinal source-access records. These are different treatment counts, not unique people or final tiers. Twelve named-reference rows preserve all8core fields; aggregate38 archives its prior8fields and preserves all C31 history. The other782entering rows and all19canonical/private differences remain exact. Every independent count stays null; original models, forecasts, first responses, adverse outcomes, scores, blanks and nulls remain unchanged. Containing C52 author publication is pending; the full program continues.
+
+[Current evidence index](KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md). Dense single contexts can earn monographs, while no falsifiable portable generator is earned here. Optional samples, game mechanics and source-known returns are not diagnostic firsts.
+
+
+## C52 author gate closed; no new model — 2026-10-26T00:48:51.037378+00:00
+
+Current71 model bodies/65 scoped secondary entries/231 profile passages/69 monograph-only studies/836 nonfinal access records are treatment counts. Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.
+
+Four monographs treat the guide newcomer,Okina,Boren and autonomous tank. Fifteen bounded profiles retain optional sample,guide counterpart and captive-individual scopes;22 incidental routes retain typed access. All nine frozen foundations and both profile appendices remain exact. The frozen C31 index is preserved under attributable precision findings. No original response,model,rule,input,adverse result,score,blank or null is revised. [Author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json).
+
+
+## Expanded specialist literary plane V1
+
+The main-only matrix and every earlier validation/source plane remain exact historical prefixes. Seven attributable expanded topical versions now integrate admitted source-known evidence while keeping their main-only baselines whole. These rows route literary conclusions; they do not replace six R1 models,create StageD outputs or change any forecast/outcome.
+
+| Responsibility | Expanded owner | Distinction carried forward | Validation boundary |
+| --- | --- | --- | --- |
+| Kazuma | [Expanded literary V1](../05%20Specialist%20Synthesis/KONOSUBA_KAZUMA_EXPANDED_CHARACTER_MONOGRAPH_V1.md) | civil-surface failure, mixed-motive loan, known limits and selective accountability | No new model,first or score |
+| Aqua | [Expanded literary V1](../05%20Specialist%20Synthesis/KONOSUBA_AQUA_EXPANDED_CHARACTER_MONOGRAPH_V1.md) | useful service, task understanding, particular care and chosen harm | No new model,first or score |
+| Megumin | [Expanded literary V1](../05%20Specialist%20Synthesis/KONOSUBA_MEGUMIN_EXPANDED_CHARACTER_MONOGRAPH_V1.md) | pre-discovery build reconsideration, known pet risk, provider agency and bounded responsibility | No new model,first or score |
+| Darkness | [Expanded literary V1](../05%20Specialist%20Synthesis/KONOSUBA_DARKNESS_EXPANDED_CHARACTER_MONOGRAPH_V1.md) | specific consent, actual civic work, prevented truth and protective overconfidence | No new model,first or score |
+| Party | [Expanded literary V1](../05%20Specialist%20Synthesis/KONOSUBA_EXPANDED_PARTY_ENSEMBLE_SYNTHESIS_V1.md) | distinct goals, event joins, unwanted quiet and unfinished provider recovery/settlement | No new model,first or score |
+| Humor | [Expanded literary V1](../05%20Specialist%20Synthesis/KONOSUBA_EXPANDED_HUMOR_SYSTEM_SYNTHESIS_V1.md) | successful means, misfitted benefits, changing authority and source-format limits | No new model,first or score |
+| Japanese language | [Expanded literary V1](../05%20Specialist%20Synthesis/KONOSUBA_EXPANDED_JAPANESE_LANGUAGE_AND_COMEDY_SYNTHESIS_V1.md) | speaker/channel ownership, written stance, form dependence and original coding boundaries | No new model,first or score |
+
+[Scope and preservation](../09%20Audits%20and%20Manifests/KONOSUBA_EXPANDED_SPECIALIST_SYNTHESIS_SCOPE_AUDIT_01.json). All71 model bodies and existing secondary-audit counts remain unchanged. Known-source interpretation confers no independent accuracy,grade or confidence gain. Six distinct StageD successors and the final nine-category battery remain due; this containing publication is pending.

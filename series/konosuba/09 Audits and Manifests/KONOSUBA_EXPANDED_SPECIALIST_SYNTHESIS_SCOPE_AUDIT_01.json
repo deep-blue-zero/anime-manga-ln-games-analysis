@@ -1,0 +1,513 @@
+{
+  "schema": "konosuba.expanded-specialists.authorship-scope-and-preservation.v1",
+  "authored_utc": "2026-10-26T03:44:42.268915+00:00",
+  "authority_scope": "Authorship/scope record. Complete candidate semantic acceptance and exact containing publication are separate required receipts.",
+  "base_source": "e9e89cd6e9773be2eb87a693f1d9bdb7c9013efb",
+  "base_source_own_full479_gate_sha256": "5776eb06e9160b5e561aefe6595b2eed815a37913a4aea40a38e071d6ad171b2",
+  "complete_current_main_only_baselines": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KAZUMA_CHARACTER_MONOGRAPH.md",
+      "bytes": 41535,
+      "sha256": "bf153bd3c6fc06cbea4c44503387cee38b38a2c2c7ec58e6b56666fb30e2105b"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_AQUA_CHARACTER_MONOGRAPH.md",
+      "bytes": 37985,
+      "sha256": "6523f600cdec38ddcd0d1f3c3a7dc4ca21192364137613cc1284e4fcfa19bf66"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MEGUMIN_CHARACTER_MONOGRAPH.md",
+      "bytes": 42749,
+      "sha256": "56b2fe991368233271b6b761b0f775983c3c2bb30f6bd770b86b849e2ec6da98"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DARKNESS_CHARACTER_MONOGRAPH.md",
+      "bytes": 34675,
+      "sha256": "c63bd0c4efa574ec1233e37f6038050016cbbf96771ef1aaf7b73f3eda3d8071"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_PARTY_ENSEMBLE_SYNTHESIS.md",
+      "bytes": 43770,
+      "sha256": "514a28c145fc2426223134b9b90ea70e4b279a39de1bbbbbb93042cdc74472d2"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_HUMOR_SYSTEM_SYNTHESIS.md",
+      "bytes": 31929,
+      "sha256": "936386f7e06ce6bc394df6eeaa43929073ba3cd6c139c2cfe700a84dad51eb19"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_JAPANESE_LANGUAGE_AND_COMEDY_SYNTHESIS.md",
+      "bytes": 38732,
+      "sha256": "b15d0007351af7b0b96b9effcd80d85072dbcca2a4cd082bc9df38d3179e9e33"
+    }
+  ],
+  "baseline_actual_receiving": {
+    "files": 7,
+    "complete_pages": 48,
+    "receipt_sha256": "dbaaf2810c52c0e71a659604e87aebfdbf58f7a2eddea603bce496b99b4f23c4",
+    "same_AI_lineage_not_statistical_independence": true
+  },
+  "expanded_versions": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_AQUA_EXPANDED_CHARACTER_MONOGRAPH_V1.md",
+      "bytes": 13276,
+      "sha256": "fa80c6d454741ec698660e0cb632782020c348953cc3954159362de0b7b944df",
+      "initial_draft_sha256": "3d90322f4b48c7f608aa842aa1c0f73661a25019db8142e44029f03c9563ebed"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DARKNESS_EXPANDED_CHARACTER_MONOGRAPH_V1.md",
+      "bytes": 13402,
+      "sha256": "cfc1e525d7fa18a8fa8bbf3b5183b41b2aab428000328ccacfb3878e0b490e1d",
+      "initial_draft_sha256": "980885c6ec59d9c9e06bad28bd6e8b52a75dc82ef9f80eb777490f31c475cc9d"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_EXPANDED_HUMOR_SYSTEM_SYNTHESIS_V1.md",
+      "bytes": 13147,
+      "sha256": "3d7bd05b8cdd9abf809f06c0e0f09cad4e615b9315ac5fac2f0eb69006181991",
+      "initial_draft_sha256": "ba945055a2a3f707bdb4342e83ee50f1e6a07d244fb37d08ed03b30fd8c80d16"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_EXPANDED_JAPANESE_LANGUAGE_AND_COMEDY_SYNTHESIS_V1.md",
+      "bytes": 13739,
+      "sha256": "912604ee9ea22413a8a228d7b10467e8db6045239b66c7f3ca9838ca05e09459",
+      "initial_draft_sha256": "aa97b97454a04d6b2d36f343b8f7e5007b0b3c3214ae8b5243279d7d9fb77cf0"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_EXPANDED_PARTY_ENSEMBLE_SYNTHESIS_V1.md",
+      "bytes": 13846,
+      "sha256": "232d16d6d39352c879f5e4deb1ceca19ef157150bb3eff785cc27be0403114f8",
+      "initial_draft_sha256": "ef95f892e0faf8ef735987569375ee5956f5796f6d277d97ae82863e396314c7"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KAZUMA_EXPANDED_CHARACTER_MONOGRAPH_V1.md",
+      "bytes": 14961,
+      "sha256": "4fa3d13e06a86a091ecfc87fb7638f891f456f35e0cfff3399b76baf649f3669",
+      "initial_draft_sha256": "083eeaaddce52bcf370ee2a8f9c4b785e1ae568dd2a54783510b7dce9a9bee67"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MEGUMIN_EXPANDED_CHARACTER_MONOGRAPH_V1.md",
+      "bytes": 15314,
+      "sha256": "93d6b5034ebd21ec2240d68c570c83a1ae69f89b5eeb383197c1da1083e012b4",
+      "initial_draft_sha256": "cf014917b7b6afc021bcbb217e8ae6e463ff01ab7b577ca0577e9246c73e23cd"
+    }
+  ],
+  "initial_literary_drafts_seal_sha256": "55771c66384a482cbac6ad494d286b4059698e60e59b1be4ab596334aaa7f6f6",
+  "admitted_source_owner_pins": [
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_DEEP_READING.md",
+      "bytes": 81867,
+      "sha256": "50e02690ec05fad4c9d665a3d37d4a038b2f5140d0573db54e13f06a486b000d",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_DEEP_READING.md",
+      "bytes": 69101,
+      "sha256": "dd7ed1955003868b4ea8bc3722d595a532fe3c8968c42437c5608f85d5684e60",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md",
+      "bytes": 57038,
+      "sha256": "35e7cd3c64c8f976bce05fb08150e7d397b370d65c3d405f4ddd0cac00d896ad",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md",
+      "bytes": 64738,
+      "sha256": "b36e5640445e4fa8997c6b3121c62c3da94febeb6fd810a691a2384224e53908",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_DEEP_READING.md",
+      "bytes": 47299,
+      "sha256": "b9a51928855aa3fb20ae22d75b0a896bfe0ca0ba4607faa4347770f1feab7384",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md",
+      "bytes": 39612,
+      "sha256": "05f34f0eac8f51d195154d2b64b5a91945f524ed88eb4af8d60d6d630e6f92bd",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md",
+      "bytes": 50258,
+      "sha256": "389c84d346bc0eab3d7e36b1ab5ad2d89ad3be594957e327ffcb21a70346811f",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md",
+      "bytes": 47678,
+      "sha256": "4073efff8c31c67ccc0dcf5b2d3dfb65de2ffc7d4436121c3bfd741cd2bca4be",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md",
+      "bytes": 37237,
+      "sha256": "1b65bcd3d98fe01244db5bbb8d114d8e98afa174dd2a2c43ddddee833ee599b3",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md",
+      "bytes": 51395,
+      "sha256": "e085d36d3a7e1e4dcd2ee0cc2a70b7096cdcc2eec240b708c20ce5928bb732f7",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md",
+      "bytes": 66567,
+      "sha256": "0dd1f5123c50ea410625f1f2656c26f6190d8a792f5788b337cfb941402fcd33",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V02_DEEP_READING.md",
+      "bytes": 81416,
+      "sha256": "cb8da61e4b49d247af96f0031f10ef533756d4770daf6878219400e6bde5fce1",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_DEEP_READING.md",
+      "bytes": 95947,
+      "sha256": "6bbb421413e45ab1f9129ee7617e2b68e1005bc3ced95e947e58fa85106338bb",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Fantastic Days/KONOSUBA_FD_DEEP_READING.md",
+      "bytes": 61808,
+      "sha256": "d4dbaf7d4277f17af291d9b1504d4dc98ecb207881ed4e52012c8f3075de58c4",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md",
+      "bytes": 18183,
+      "sha256": "6adcd153710550db21b015adff59103f70b4a894f3837c4c6ce74e1d34b60b2c",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V02_EXCLUDED_DEEP_READING.md",
+      "bytes": 18470,
+      "sha256": "0172badb00be1d84c55a6d5e8fac3f511a5d960d173b4514b95612dd8fb7d484",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V03_EXCLUDED_DEEP_READING.md",
+      "bytes": 19542,
+      "sha256": "9ebe72dc0ca99c9f25ad08f2ee06eb79605ec4d558efb22513d9616af183e29e",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V04_EXCLUDED_DEEP_READING.md",
+      "bytes": 20431,
+      "sha256": "607c96eb81023f975e64108226ec25a5c8119459ff6bbb6b9dc4f49a619075ae",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V05_EXCLUDED_DEEP_READING.md",
+      "bytes": 18815,
+      "sha256": "183b3848c829187099f2bede2e23e6fba32531cab88b77220cdeae52106aa085",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V06_EXCLUDED_DEEP_READING.md",
+      "bytes": 18212,
+      "sha256": "50c6a69bd733b7963051b1d69f6cbbb5e0f558def663c6f3d15817acb8c54557",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_DEEP_READING.md",
+      "bytes": 19554,
+      "sha256": "fb69a221d65d02718e49b3cc04c42731b63cbc39667c09f8a15df634b5dcda70",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V08_EXCLUDED_DEEP_READING.md",
+      "bytes": 18706,
+      "sha256": "03226099b53909e166cac4dcebf0699b79f4a4f9fdd40d6be7116f9b518ed473",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V09_EXCLUDED_DEEP_READING.md",
+      "bytes": 44604,
+      "sha256": "29fd42d162691e3d376e666e27815e14c596bfcd12754cf9ebec0cef8faf2d7f",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V10_EXCLUDED_DEEP_READING.md",
+      "bytes": 44066,
+      "sha256": "49bee26bb86424a58ef4d69de8cd279559c1fe45e4706fc6a479477a6a522ebb",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_DEEP_READING.md",
+      "bytes": 38061,
+      "sha256": "6fa2a8496464714ad2f776be8c218d5057bace26b4fa0b52c8718f4a065f6c4c",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V12_EXCLUDED_DEEP_READING.md",
+      "bytes": 30932,
+      "sha256": "d0bcd3e28a8c1eac8611a9cc6d9164e93033aad75400e9f9a2aae7d58717f7d8",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V13_EXCLUDED_DEEP_READING.md",
+      "bytes": 36833,
+      "sha256": "9d6223e1c39e80a6f701fb93a1456348b391f4204c48bab25645484e16f5e15c",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_DEEP_READING.md",
+      "bytes": 35835,
+      "sha256": "4ae07f5c7e31b08446ebc5e327f106e61f9508456870a1ae9c08b99b45272329",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_DEEP_READING.md",
+      "bytes": 35262,
+      "sha256": "52d00e8e018e23487d380cb313145e051c83e036986f0582c3d703f9fa2164d8",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V16_EXCLUDED_DEEP_READING.md",
+      "bytes": 34204,
+      "sha256": "69238d22ec60fd77df5f4c9c195dfee70bfba8c741f6fd4f18176fb20dcfb778",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V17_EXCLUDED_DEEP_READING.md",
+      "bytes": 36986,
+      "sha256": "9f74c3c569db26bb0722f7bcbb91d0639c6d7a75e4c77783601e503ad61aa8cc",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_DEEP_READING.md",
+      "bytes": 63587,
+      "sha256": "0c066d3550302fd68db85010729f82b1d39d478de4f0fb27f02639dbf36f4954",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md",
+      "bytes": 38314,
+      "sha256": "5990a3066ccf46cef29ae2d666c44912a1663fb9c928c312f9b450c28e03dd90",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md",
+      "bytes": 27652,
+      "sha256": "486732074e08bbceab22a3f9c626ebbe063aeb72468d9f80db8328765a3b70e8",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI01_DEEP_READING.md",
+      "bytes": 54635,
+      "sha256": "0847ac89c4ae59f5b167ca718c07dca8f531c992eff17777ff1eb5deaa0145a5",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_DEEP_READING.md",
+      "bytes": 38138,
+      "sha256": "e0c759f30ffe03e9e4ce4aff5c23685cb013fc287c3e05a32cf283c1705e01ac",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI03_DEEP_READING.md",
+      "bytes": 51307,
+      "sha256": "25d83f5f19f775222ee2fe144ce71dff1a9b273b377dbfc82ef4df70d358822a",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI04_DEEP_READING.md",
+      "bytes": 50978,
+      "sha256": "d295fdc9625142e43c9117700cd0b0d86186b0bfb8be4b991602f9c9b403a5d8",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md",
+      "bytes": 26666,
+      "sha256": "b2f4958facea2c41b1d2a4601e90b158c7730c10cc82adae0db80c12a90ea780",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md",
+      "bytes": 34104,
+      "sha256": "fb603f94c69641ab1f7c4431b88f0a8031a4c2341b234b6f846d31c746886a45",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md",
+      "bytes": 43736,
+      "sha256": "3ede7500a6233e6d6378e4642eff06257c760a12b5506889297ffbd89859e698",
+      "current_receiving_scope": "mechanical source-owner binding; no fresh complete semantic reread is claimed"
+    }
+  ],
+  "source_owner_binding_qualification": "Forty-one retained source-owner files are pinned mechanically. Source identities and individual object/component assignments are governed by the source/admission matrix and their provenance records. Filenames or the file count alone prove neither new semantic source completion nor a narrative-component denominator; accepted source programs remain governing.",
+  "current_selected_derivative_receiving": [
+    {
+      "owner": "MASK §§3–6",
+      "actual_tool_chunks": [
+        "13bcd8",
+        "63f419"
+      ]
+    },
+    {
+      "owner": "FD §§3–6",
+      "actual_tool_chunks": [
+        "13bcd8",
+        "aa29f3",
+        "63f419"
+      ],
+      "truncation_recovery": "FD omitted chapter1/2 context was recovered completely in aa29f3; no truncated span earns completion alone."
+    },
+    {
+      "owner": "EXP01 chapter5 and §§4–6",
+      "actual_tool_chunks": [
+        "aa29f3",
+        "7bc869"
+      ],
+      "truncation_recovery": "Complete decision section recovered in7bc869."
+    },
+    {
+      "owner": "EXP02 chapter5",
+      "actual_tool_chunks": [
+        "7bc869"
+      ]
+    },
+    {
+      "owner": "EXP03,Continued01,Continued02 §4",
+      "actual_tool_chunks": [
+        "6f40d5"
+      ]
+    },
+    {
+      "owner": "Four-book reconciliation",
+      "actual_tool_chunks": [
+        "aef719",
+        "63f419"
+      ],
+      "truncation_recovery": "Omitted paragraph restored in63f419."
+    },
+    {
+      "owner": "FD current R1-D08 qualitative observation and unchanged hypothesis",
+      "actual_tool_chunks": [
+        "ff159b",
+        "429478"
+      ]
+    }
+  ],
+  "validation_owner": {
+    "path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md",
+    "sha256": "88c558f77eafe157ea08db19a9bc647cb07e34e855c519004c437f26ab519817",
+    "all_old_outcomes_preserved": true
+  },
+  "preserved_histories": [
+    "Gen03 K04 failure/retirement",
+    "Gen04 K03 adverse history",
+    "Gen05 J01 Aqua-service failure",
+    "Gen05 8C/6P/1F/3AMB/7NT",
+    "YORI01 R1-K08 failure",
+    "DUST07 R1-E06 failure",
+    "MASK E08 dissent",
+    "all original forecasts,firsts,scorecards,blanks and nulls"
+  ],
+  "source_locator_conventions": "Main/expanded native U/P routes and preserved holdout C/P conventions remain under their own owners; a shared chapter label does not silently equate different ordinal schemes.",
+  "preservation": {
+    "all7_baseline_whole_bodies_unchanged": true,
+    "existing_model_bodies": 71,
+    "new_reconstruction_models": 0,
+    "new_rules": 0,
+    "new_case_inputs": 0,
+    "new_first_responses": 0,
+    "new_prospective_results": 0,
+    "independent_accuracy_grade_or_confidence_gain": 0,
+    "old_L_H_codes_and_J02_denominators_unchanged": true,
+    "canonical_private_census19_differences_unchanged": true,
+    "all_independent_observation_counts_still_null": true
+  },
+  "treatment_count_scope": "Existing secondary-audit counts remain71 model bodies/65 scoped secondary entries/231 profile passages/69 monograph-only studies/836 nonfinal access records. These seven principal/general topical versions are recorded separately; they create no new secondary subject,profile or model.",
+  "substantive_remaining": [
+    "extended-corpus synthesis",
+    "six distinct StageD principal/party/transfer successors",
+    "actual first-response and nine-category final battery work",
+    "full-series synthesis and component-level completion accounting",
+    "designated curation/evaluation,protected integration and release"
+  ],
+  "full_program_complete": false,
+  "initial_candidate_complete_actual_receiving": {
+    "candidate_manifest_sha256": "7edf4c8317b377fb2901240a6363779c74d18b7a0d70405780b23169d58dcac4",
+    "review_plan_sha256": "cf4fcfc9bda329a47a8b6d48086b64051e9694638664c8fac0576bebdb42b2b5",
+    "all22_pages_received_without_unrecovered_truncation": true,
+    "actual_tool_receipts": [
+      {
+        "pages": [
+          1,
+          2,
+          3
+        ],
+        "actual_tool_chunk": "27338b"
+      },
+      {
+        "pages": [
+          4,
+          5,
+          6
+        ],
+        "actual_tool_chunk": "b0bcae"
+      },
+      {
+        "pages": [
+          7,
+          8,
+          9
+        ],
+        "actual_tool_chunk": "ea52d7"
+      },
+      {
+        "pages": [
+          10,
+          11,
+          12
+        ],
+        "actual_tool_chunk": "d32ae0"
+      },
+      {
+        "pages": [
+          13,
+          14,
+          15
+        ],
+        "actual_tool_chunk": "42db17"
+      },
+      {
+        "pages": [
+          16,
+          17,
+          18
+        ],
+        "actual_tool_chunk": "6a569f"
+      },
+      {
+        "pages": [
+          19,
+          20,
+          21
+        ],
+        "actual_tool_chunk": "183f12"
+      },
+      {
+        "pages": [
+          22
+        ],
+        "actual_tool_chunk": "6ab889"
+      }
+    ],
+    "qualification_boundary": "The original complete candidate and its separately reviewed qualification delta jointly support author acceptance. Exact containing-source preflight, remote readback and full audit are separate obligations."
+  },
+  "qualification_changes": [
+    "Lifecycle statements point to the current map and exact containing publication instead of retaining future draft wording.",
+    "Affection alone is not evidence of assent; the located pet-risk branch remains adverse.",
+    "Kazuma explicitly labels the preserved holdout C/P convention, without equating it to native U/P ordinals.",
+    "Humor names Wiz and the Core newcomer and supplies the received Logia corpse locator/index.",
+    "Source-owner pins are qualified as mechanical file bindings, with assignments retained under source/admission owners.",
+    "Selected spacing corrections affect only the new literary versions; historical prefixes remain unchanged."
+  ]
+}
