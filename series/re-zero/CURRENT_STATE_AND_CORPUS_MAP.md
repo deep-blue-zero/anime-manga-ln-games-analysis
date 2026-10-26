@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.41
+generation: V0.43
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -29,7 +29,7 @@ project_initialization:
   required_day_one_infrastructure:
     - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: LILIANA_V01_V19_MODEL_AND_FIDELITY_REVIEW
+  next_permitted_operation: REGULUS_V01_V19_MODEL_AND_FIDELITY_REVIEW
 ```
 
 ```yaml
@@ -38,8 +38,8 @@ sequential_execution:
   unit_type: main_light_novel_volume
   authorized_start: V03
   terminal_boundary: V43
-  committed_high_water_mark: V18
-  next_candidate_operation: LILIANA_V01_V19_MODEL_AND_FIDELITY_REVIEW
+  committed_high_water_mark: V19
+  next_candidate_operation: REGULUS_V01_V19_MODEL_AND_FIDELITY_REVIEW
   confirmation_between_units: false
   run_state: active
 ```
@@ -53,7 +53,7 @@ sequential_execution:
 
 ## Current analytical state
 
-The [V19 deep reading](02%20Sequential%20Readings/REZERO_LN_V19_DEEP_READING.md), master and five sole owners are the new source-consumed393claim transaction; its own complete publication/integration gate remains required. Verified integrated sequential high-water staysV18. The thirteenth [Priscilla18 model](05%20Character%20Analysis/REZERO_PRISCILLA_V01_V18_CHARACTER_MODEL.md)/[separate review](08%20Audits%20and%20Manifests/REZERO_PRISCILLA_V01_V18_FIDELITY_REVIEW.md) completed [PR326](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/326), source8a6a6f85b12b8bd5621785a1f047bd469978099f/integratedmain6c181f53dbdfc857bf3994c10459c5819da130ea: source/main audits40159885549/40160273095 actually executed all479discovered tests with no nonpasses/trusted exact-commit success; source-specific housekeeping40160259709 executed and later native/source/protected/seal proof passed. Next-operation fields name Liliana conditionally on V19closure; earlier gates are closed, not certificates for a new head.
+The [V19 deep reading](02%20Sequential%20Readings/REZERO_LN_V19_DEEP_READING.md), master and five sole owners are verified integrated at393claims. [PR332](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/332), source298adfed8db47742692bb0a81bd9a8bf74603bfe/integratedmain2f77b3877760403413fd45de6564ce018cedaf66, completed source/main audits40182244797/40191877484: all479discovered tests actually executed, zero nonpasses, trusted exact-commit success. Source-specific housekeeping40182580539 executed acquisition/dependency/generation and reported routing-current no-op; later native/source/protected/seal readback passed. This closes V19 only. The new Liliana pair own complete gate remains pending. The next-operation fields name Regulus conditionally on that closure; they do not authorize starting it now.
 
 The admitted Japanese V19original was actually fully consumed:23535212bytes/SHAd05c621e02a9767a6ca44e792f03dbec33c62db62467f3c1f3386eb65fc1db5d/CRCpass;23OPFmembers/3710positions=3671TEXT+39IMAGEreferences/165170base-text characters/55TEXTdeliveries. All25distinct packaged assets were actually viewed in29calls;2navigation resources and2187ruby groups/2877labels were read occurrence-by-occurrence after base context. Advertisements/design/afterword remain packaged paratext. Identity/count/correspondence receipts are not machine semantic-attention certificates or new narrative admission.
 
@@ -61,7 +61,7 @@ Current393claims incorporate all377individually reviewed predecessors:215PRESERV
 
 LivingE021continues20Subaru deaths/21arrived segments. Reinhard's actual Phoenix revival, retrospect/waking and city-hall backfill add no E022. All53wives survive suspension/thaw; Emilia's corrected plan, accepted risk and Geuse address differ from full Subaru receipt or a revived person. Regulus terminally drowns for narrator while surface knowledge is bounded; his wish that death not please Emilia is ironically granted through nonrecall without erasing forest causality. Actual Tina rescue/Kiritaka retrieval do not finish Sirius fate, transport/waking, other fronts or all-city cure. Narrator names Anastasia; familiar guises are Capella and actual patients have been moved.
 
-Same five sole owners: eventV2.3/E021, knowledgeV2.3/K705, mechanicsV1.12/M442, institutionV1.16/I379, relationshipV1.10/R155/RT363. New51K/34M/26I/17R/36RT and138individualRdecisions=24advance/114literal preserves retain327olderRT/whole affected preimages/ancestry. MasterV1.33owns393claims/32advanced person rows/one Dainas case/24ordinary/21Japanese/prospects/readiness. SchemaV0.34changes no field/owner/index or ordinary/voice/readiness responsibility.
+Same five sole owners: eventV2.3/E021, knowledgeV2.3/K705, mechanicsV1.12/M442, institutionV1.16/I379, relationshipV1.10/R155/RT363. New51K/34M/26I/17R/36RT and138individualRdecisions=24advance/114literal preserves retain327olderRT/whole affected preimages/ancestry. MasterV1.35owns393claims/32advanced person rows/one Dainas case/24ordinary/21Japanese/prospects/readiness. SchemaV0.36changes no field/owner/index or ordinary/voice/readiness responsibility.
 
 Complete substantive V19 pre-rollover master/log candidates measured1370666/1074890bytes,322090/26314above the unchanged1MiBlimit. Declared lossless maintenance moves413629inner bytes of older V15/V16/V17master claims plus the104798-byte earlier project-log V14 fenced block to existing [history archive01](04%20Longitudinal%20Ledgers/REZERO_PROJECT_HISTORY_ARCHIVE_01.md#v19-measured-lossless-history-rollover). Original outer headings retain live links, complete removed fences/payloads stay literal and native inverse reconstructs the entire pre-rollover candidates/old14prefix. Current393/entering377claims and c69seal remain in master; complete entering map stays at root in the [changelog](REZERO_PROJECT_CHANGELOG.md#v19-entering-corpus-map). Source-specific earlier measurements/erratum below remain historical; final current-blob sizing requires its own native proof. No limit exception or competing owner follows.
 
@@ -71,7 +71,7 @@ All13historical model/review pairs retain exact source scopes/defaults/local doc
 
 The Priscilla V01–V18integrated model/separate actually applied19-dimension review remains IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY and its own full gate is CLOSED through PR326. Its13repaired grouped findings/28controls/8NONCANONICAL_PROBE applications and exact `V18_E021_FOURTH_ASSIGNMENT_DEPARTURE_WITH_LILIANA` default keep their original scope. V19's employ/trust distinction, specific dress permission versus imposed kiss, lethal title response versus selective rescue and finite night sword/jewels are explicit current reconciliation; no duplicate graded Priscilla19pair or independent/runtime/global result follows.
 
-Qualitative V19readiness earns `LILIANA_V01_V19_MODEL_AND_FIDELITY_REVIEW`, default `V19_E021_KIRITAKA_CANAL_RETRIEVAL_BEFORE_UNSHOWN_TRANSPORT`, then `REGULUS_V01_V19_MODEL_AND_FIDELITY_REVIEW`, default `V19_E021_TERMINAL_DROWNING_NARRATED_NO_CURRENT_LIVING_REPLY`. Neither construction/review/pass is achieved here. Liliana's ordinary development/received world/music and Regulus's interested family/first-wife contradictions support distinct conditional models. Each actually applies the existing19dimensions and requires its own full gate after V19. Master§13owns readiness; unknown powers/secrets alone do not decide promotion. Merges remain with CI.
+The fourteenth model, Liliana V01-V19 generationV1.1, is IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY under the [current scoped reassessment](08%20Audits%20and%20Manifests/REZERO_LILIANA_V01_V19_FIDELITY_REASSESSMENT_01.md). Initial F1/F2 produced five source-route/knowledge edits; publication findingF3 added explicit Confidence/rationale to all22rules (19HIGH/3MEDIUM). The reassessment actually reapplied all19dimensions/26original controls/eight original NONCANONICAL probe families and added three NONCANONICAL calibration cases; the three matched-recipient variants remain. The original frozen review stays byte-exact and binds modelV1.0, whose assessment missed this contract defect. Its old result does not certify V1.1. The corrected-head full publication/integration gate remains PENDING. Default remains `V19_E021_KIRITAKA_CANAL_RETRIEVAL_BEFORE_UNSHOWN_TRANSPORT` before unshown transport/waking. Liliana-specific initialization actually revisited3392unique selected positions=3370TEXT+22IMAGEreferences in44received/read deliveries across already-consumed V04/V10/V16-V19, including2036contextual ruby groups; six distinct source assets were actually viewed. These are bounded revisits, not six fresh whole-volume readings, additional source consumption or admission; count/hash correspondence does not certify semantic attention. All48entering protected artifacts retain exact bytes. Close the complete publication/integration gate for the implemented Liliana pair, then REGULUS_V01_V19_MODEL_AND_FIDELITY_REVIEW with its separate full gate, then the unchanged final prospective V20, sequential admitted units throughV43, and the mandatory terminal architecture/state/role-gap/acquisition review. Regulus remains earned but unimplemented/ungraded. CI handles merges; no ordinary unit/model pause. Regulus default remains `V19_E021_TERMINAL_DROWNING_NARRATED_NO_CURRENT_LIVING_REPLY`; no current living answer. Master section13 owns readiness; unknown powers/secrets alone do not decide promotion.
 
 ## Governing method and retrieval route
 
@@ -108,15 +108,15 @@ A discarded or superseded event-state can remain highly probative character evid
 
 | Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | methodV0.1/witnessprotocolV0.2 unchanged; architectureV1.32 EVOLVING/characterprotocolV1.31;13historical scoped pairs exact/full-gated; two earned19constructions unimplemented/ungraded |
-| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | sourceLockV0.35; source43/V41exception/datedgaps unchanged; actual consumedV19transaction pending own full gate, verified integrated sequential high-waterV18; V20+/nonspine/import narrative unopened |
-| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V19source-facing corpus/three earlier checkpoints; V19full gate pending, incomingc69seal exact; outgoingV20seal follows actual saved-content acceptance and is held through Liliana/Regulus separate gates |
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | methodV0.1/witnessprotocolV0.2 unchanged; architectureV1.34 EVOLVING/characterprotocolV1.33;13historical scoped pairs exact/full-gated; fourteenth Liliana19 modelV1.1/current confidence reassessment implemented/local bounded documentary pass with own gate pending, Regulus19 earned/unimplemented |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | sourceLockV0.37; source43/V41exception/datedgaps unchanged; verified integrated sequential high-waterV19/PR332 full gate closed; bounded Liliana revisits add no source consumption; V20+/nonspine/import narrative unopened |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01-V19source-facing corpus/three earlier checkpoints; V19 full gate closed; incomingc69seal exact; finalized outgoingV20seal remains held through Liliana/Regulus separate full gates |
 | `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
-| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.33/currentV19/393claims/person/24ordinary/21Japanese/prospects/readiness; eventV2.3/E021, knowledgeV2.3/K705, mechanicsV1.12/M442, institutionV1.16/I379, relationshipV1.10/R155/RT363; schemaV0.34/no new field; exact declared older history in existing archive |
-| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routerV0.22;13historical source-bounded pairs exact/full-gated; Liliana19 then Regulus19 earned integrated constructions/separate reviews, no models/passes achieved here |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.35/currentV19/393claims/person/24ordinary/21Japanese/prospects/readiness; eventV2.3/E021, knowledgeV2.3/K705, mechanicsV1.12/M442, institutionV1.16/I379, relationshipV1.10/R155/RT363; schemaV0.36/no new field; exact declared older history in existing archive |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routerV0.24;13historical source-bounded pairs exact/full-gated; fourteenth Liliana19 modelV1.1/current reassessment implemented/local bounded pass with corrected-operation full gate pending; original frozen review retained as modelV1.0 history; Regulus19 earned/unimplemented, conditional next operation |
 | `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
 | `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
-| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests |13historical scoped reviews/local documentary grades exact; future Liliana/Regulus reviews must each actually apply existing19dimensions separately; no independent/held-out/runtime/global result |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests |13historical scoped reviews exact; original Liliana review byte-exact for model1.0; current model1.1 scoped confidence/fidelity reassessment local PASS_WITH_BOUND, corrected full gate pending; Regulus review unimplemented; no independent/held-out/runtime/global result |
 | future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
 | future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
@@ -189,9 +189,9 @@ Publication follows the current repository integration checklist. Routing-curren
 
 ## Current work order
 
-1. Preserve V18/PR323 and Priscilla18/PR326 full closure, all47entering protected artifacts/thirteen historical pair scopes/defaults/local grades, complete incomingV19seal and entering377claim body. A prior green head does not certify a new candidate; no completed gate is reopened as pending.
-2. Close the complete15author-path V19transaction: reconcile live main/remote branch, actually review all saved new content/deltas/named references and exact history wrappers, preserve unaffected bytes, use approved identities/exact-path staging/final-index author preflight/nonforced push/branch PR. Require immutable whole-file/tree/changed-set readback, all-discovered actually executed exact-head tests/trusted reporter/status, completed source-specific housekeeping or exact regenerated child, later native/source/protected/seal proof and actual integrated-main verification. CI handles the merge.
-3. After V19full gate, construct the earned integrated Liliana V01–V19model and separately actually apply all19existing dimensions/controls/probes, with generated probes NONCANONICAL. Default actual Kiritaka retrieval before unshown transport; earlier waking dialogue needs a supported explicit seven-axis selector. Preserve the fixed outgoingV20body and complete this operation's own full publication/integration gate.
+1. Preserve verified V19/PR332 full closure, all48prior protected artifacts/thirteen older pair scopes/defaults/local grades, complete incomingV19seal, entering377claim body and current393claims. Preserve the original frozen Liliana review byte-exact for its modelV1.0 scope; the current V1.1 result belongs to the separate reassessment. A prior green head certifies its own commit only.
+2. The earned Liliana modelV1.1 and current scoped confidence/fidelity reassessment are IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Close their corrected-head full publication/integration gate: reconcile main/remote branch; complete saved-content/diff/name-reference/history-wrapper review; preserve unaffected bytes; use approved identities/exact-path staging/final-index preflight/nonforce push/existingPR341. Require immutable file/tree/changed-set readback, all-discovered actually executed exact-head tests/trusted status, completed source-specific housekeeping or exact regenerated child, later native/source/protected/seal proof and actual integrated-main verification. CI handles the merge.
+3. Use the corrected model through its explicit22rule confidence values/rationales (19HIGH/3MEDIUM), current versioned reassessment and seven-coordinate selector. The reassessment reapplied19dimensions/26original controls/eight original NONCANONICAL probe families and added three NONCANONICAL calibration cases. Original F1/F2 five source/knowledge edits and publicationF3 confidence repair remain distinguished. Default actual Kiritaka retrieval precedes unshown transport/waking. Preserve the fixed outgoingV20body; no Regulus opening before the corrected Liliana full gate.
 4. After Liliana's full gate, construct Regulus V01–V19and separately actually apply all19dimensions. Default narrated terminal drowning permits no current living reply; earlier living use requires supported explicit override. Distinguish interested private account, represented forest, actual conduct and nonholders. Complete its own full gate before V20; no pass is promised.
 5. Only then open the admitted Japanese V20original in OPF order against the final literal60Q/10Pprospect, through actual full text/image/navigation/ruby reading and individual postread decisions. No future source, supplement, IF, WN, adaptation or new-import narrative may repair an earlier freeze. Dormant/absent people acquire no new reply/assent by another's concern.
 6. Continue prospective atomic source and earned derived operations through activeV43 without ordinary confirmation/pause, then perform the mandatory architecture/state/role-gap/acquisition review. Admitted-source exhaustion is not published-series completion, automatic Arc5closure or final-synthesis readiness.
@@ -208,3 +208,125 @@ Publication follows the current repository integration checklist. Routing-curren
 - No anime-only performance or staging is attributed to the light novel.
 - No PACTRIH score or cross-series ethical placement is assigned before source-grounded evidence is sufficient.
 - No character registry edit is implied by creating this analytical root; character discovery remains under the repository's separate curation authority.
+
+
+## Liliana V01-V19 routing maintenance - superseded entering fragments
+
+These exact fragments record the entering V19/pending-source status. They are historical preimages, not current work orders, grades or permission to open V20. The live replacements above govern this derived operation.
+
+### Entering fragment: current integrated-source evidence and conditional fields
+
+````````````````markdown
+The [V19 deep reading](02%20Sequential%20Readings/REZERO_LN_V19_DEEP_READING.md), master and five sole owners are the new source-consumed393claim transaction; its own complete publication/integration gate remains required. Verified integrated sequential high-water staysV18. The thirteenth [Priscilla18 model](05%20Character%20Analysis/REZERO_PRISCILLA_V01_V18_CHARACTER_MODEL.md)/[separate review](08%20Audits%20and%20Manifests/REZERO_PRISCILLA_V01_V18_FIDELITY_REVIEW.md) completed [PR326](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/326), source8a6a6f85b12b8bd5621785a1f047bd469978099f/integratedmain6c181f53dbdfc857bf3994c10459c5819da130ea: source/main audits40159885549/40160273095 actually executed all479discovered tests with no nonpasses/trusted exact-commit success; source-specific housekeeping40160259709 executed and later native/source/protected/seal proof passed. Next-operation fields name Liliana conditionally on V19closure; earlier gates are closed, not certificates for a new head.
+````````````````
+
+### Entering fragment: current master and schema generations
+
+````````````````markdown
+Same five sole owners: eventV2.3/E021, knowledgeV2.3/K705, mechanicsV1.12/M442, institutionV1.16/I379, relationshipV1.10/R155/RT363. New51K/34M/26I/17R/36RT and138individualRdecisions=24advance/114literal preserves retain327olderRT/whole affected preimages/ancestry. MasterV1.33owns393claims/32advanced person rows/one Dainas case/24ordinary/21Japanese/prospects/readiness. SchemaV0.34changes no field/owner/index or ordinary/voice/readiness responsibility.
+````````````````
+
+### Entering fragment: fourteenth implemented pair and pending gate
+
+````````````````markdown
+Qualitative V19readiness earns `LILIANA_V01_V19_MODEL_AND_FIDELITY_REVIEW`, default `V19_E021_KIRITAKA_CANAL_RETRIEVAL_BEFORE_UNSHOWN_TRANSPORT`, then `REGULUS_V01_V19_MODEL_AND_FIDELITY_REVIEW`, default `V19_E021_TERMINAL_DROWNING_NARRATED_NO_CURRENT_LIVING_REPLY`. Neither construction/review/pass is achieved here. Liliana's ordinary development/received world/music and Regulus's interested family/first-wife contradictions support distinct conditional models. Each actually applies the existing19dimensions and requires its own full gate after V19. Master§13owns readiness; unknown powers/secrets alone do not decide promotion. Merges remain with CI.
+````````````````
+
+### Entering fragment: map framework route
+
+````````````````markdown
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | methodV0.1/witnessprotocolV0.2 unchanged; architectureV1.32 EVOLVING/characterprotocolV1.31;13historical scoped pairs exact/full-gated; two earned19constructions unimplemented/ungraded |
+````````````````
+
+### Entering fragment: map source route
+
+````````````````markdown
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | sourceLockV0.35; source43/V41exception/datedgaps unchanged; actual consumedV19transaction pending own full gate, verified integrated sequential high-waterV18; V20+/nonspine/import narrative unopened |
+````````````````
+
+### Entering fragment: map sequential route
+
+````````````````markdown
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V19source-facing corpus/three earlier checkpoints; V19full gate pending, incomingc69seal exact; outgoingV20seal follows actual saved-content acceptance and is held through Liliana/Regulus separate gates |
+````````````````
+
+### Entering fragment: map ledger generations
+
+````````````````markdown
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.33/currentV19/393claims/person/24ordinary/21Japanese/prospects/readiness; eventV2.3/E021, knowledgeV2.3/K705, mechanicsV1.12/M442, institutionV1.16/I379, relationshipV1.10/R155/RT363; schemaV0.34/no new field; exact declared older history in existing archive |
+````````````````
+
+### Entering fragment: map character route
+
+````````````````markdown
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routerV0.22;13historical source-bounded pairs exact/full-gated; Liliana19 then Regulus19 earned integrated constructions/separate reviews, no models/passes achieved here |
+````````````````
+
+### Entering fragment: map audit route
+
+````````````````markdown
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests |13historical scoped reviews/local documentary grades exact; future Liliana/Regulus reviews must each actually apply existing19dimensions separately; no independent/held-out/runtime/global result |
+````````````````
+
+
+## PR341 review corrections - exact entering current fragments
+
+These complete fragments are superseded historical preimages of the first PR341 source. Current V1.1/reassessment routing above governs; neither its old verdict nor old pending work order certifies the corrected head.
+
+### Entering fragment: canonical map current versioned model and reassessment
+
+````````````````markdown
+The fourteenth [Liliana V01-V19 model](05%20Character%20Analysis/REZERO_LILIANA_V01_V19_CHARACTER_MODEL.md)/[separate review](08%20Audits%20and%20Manifests/REZERO_LILIANA_V01_V19_FIDELITY_REVIEW.md) is IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Actual19dimensions/26individual controls/8NONCANONICAL_PROBE applications/3matched-recipient variants yielded two grouped findings/five substantive model edits and one review-only clarification. Default `V19_E021_KIRITAKA_CANAL_RETRIEVAL_BEFORE_UNSHOWN_TRANSPORT` retains actual retrieval/exhaustion/rest and sleeping-access boundary before unshown transport/waking. Liliana-specific initialization actually revisited3392unique selected positions=3370TEXT+22IMAGEreferences in44received/read deliveries across already-consumed V04/V10/V16-V19, including2036contextual ruby groups; six distinct source assets were actually viewed. These are bounded revisits, not six fresh whole-volume readings, additional source consumption or admission; count/hash correspondence does not certify semantic attention. All48entering protected artifacts retain exact bytes. Close the complete publication/integration gate for the implemented Liliana pair, then REGULUS_V01_V19_MODEL_AND_FIDELITY_REVIEW with its separate full gate, then the unchanged final prospective V20, sequential admitted units throughV43, and the mandatory terminal architecture/state/role-gap/acquisition review. Regulus remains earned but unimplemented/ungraded. CI handles merges; no ordinary unit/model pause. Regulus default remains `V19_E021_TERMINAL_DROWNING_NARRATED_NO_CURRENT_LIVING_REPLY`; no current living answer. Master section13 owns readiness; unknown powers/secrets alone do not decide promotion.
+````````````````
+
+### Entering fragment: map current master/schema generations
+
+````````````````markdown
+Same five sole owners: eventV2.3/E021, knowledgeV2.3/K705, mechanicsV1.12/M442, institutionV1.16/I379, relationshipV1.10/R155/RT363. New51K/34M/26I/17R/36RT and138individualRdecisions=24advance/114literal preserves retain327olderRT/whole affected preimages/ancestry. MasterV1.34owns393claims/32advanced person rows/one Dainas case/24ordinary/21Japanese/prospects/readiness. SchemaV0.35changes no field/owner/index or ordinary/voice/readiness responsibility.
+````````````````
+
+### Entering fragment: map layer route | `00 Frameworks and Methods` |
+
+````````````````markdown
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | methodV0.1/witnessprotocolV0.2 unchanged; architectureV1.33 EVOLVING/characterprotocolV1.32;13historical scoped pairs exact/full-gated; fourteenth Liliana19 implemented/local bounded documentary pass with own gate pending, Regulus19 earned/unimplemented |
+````````````````
+
+### Entering fragment: map layer route | `01 Source Lock and Inventory` |
+
+````````````````markdown
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | sourceLockV0.36; source43/V41exception/datedgaps unchanged; verified integrated sequential high-waterV19/PR332 full gate closed; bounded Liliana revisits add no source consumption; V20+/nonspine/import narrative unopened |
+````````````````
+
+### Entering fragment: map layer route | `04 Longitudinal Ledgers` |
+
+````````````````markdown
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.34/currentV19/393claims/person/24ordinary/21Japanese/prospects/readiness; eventV2.3/E021, knowledgeV2.3/K705, mechanicsV1.12/M442, institutionV1.16/I379, relationshipV1.10/R155/RT363; schemaV0.35/no new field; exact declared older history in existing archive |
+````````````````
+
+### Entering fragment: map layer route | `05 Character Analysis` |
+
+````````````````markdown
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routerV0.23;13historical source-bounded pairs exact/full-gated; fourteenth Liliana19 implemented/local bounded pass with own gate pending; Regulus19 earned/unimplemented, conditional next operation |
+````````````````
+
+### Entering fragment: map layer route | `08 Audits and Manifests` |
+
+````````````````markdown
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests |13historical scoped reviews/local documentary grades exact; fourteenth Liliana19 separate actual19-dimension review local PASS_WITH_BOUND with own full gate pending; Regulus review unimplemented; no independent/held-out/runtime/global result |
+````````````````
+
+### Entering fragment: synchronize complete numbered current work order
+
+````````````````markdown
+## Current work order
+
+1. Preserve V18/PR323 and Priscilla18/PR326 full closure, all47entering protected artifacts/thirteen historical pair scopes/defaults/local grades, complete incomingV19seal and entering377claim body. A prior green head does not certify a new candidate; no completed gate is reopened as pending.
+2. Close the complete15author-path V19transaction: reconcile live main/remote branch, actually review all saved new content/deltas/named references and exact history wrappers, preserve unaffected bytes, use approved identities/exact-path staging/final-index author preflight/nonforced push/branch PR. Require immutable whole-file/tree/changed-set readback, all-discovered actually executed exact-head tests/trusted reporter/status, completed source-specific housekeeping or exact regenerated child, later native/source/protected/seal proof and actual integrated-main verification. CI handles the merge.
+3. After V19full gate, construct the earned integrated Liliana V01–V19model and separately actually apply all19existing dimensions/controls/probes, with generated probes NONCANONICAL. Default actual Kiritaka retrieval before unshown transport; earlier waking dialogue needs a supported explicit seven-axis selector. Preserve the fixed outgoingV20body and complete this operation's own full publication/integration gate.
+4. After Liliana's full gate, construct Regulus V01–V19and separately actually apply all19dimensions. Default narrated terminal drowning permits no current living reply; earlier living use requires supported explicit override. Distinguish interested private account, represented forest, actual conduct and nonholders. Complete its own full gate before V20; no pass is promised.
+5. Only then open the admitted Japanese V20original in OPF order against the final literal60Q/10Pprospect, through actual full text/image/navigation/ruby reading and individual postread decisions. No future source, supplement, IF, WN, adaptation or new-import narrative may repair an earlier freeze. Dormant/absent people acquire no new reply/assent by another's concern.
+6. Continue prospective atomic source and earned derived operations through activeV43 without ordinary confirmation/pause, then perform the mandatory architecture/state/role-gap/acquisition review. Admitted-source exhaustion is not published-series completion, automatic Arc5closure or final-synthesis readiness.
+7. Keep source43/V41exception/datedgaps, Ram chronologyOPEN, C116/M344Frederica/C095Gallek-recipient and Roswaal qualifications; preserve the literal Muse/city-hall query and source2b235dd6measurement erratum. No sixth owner/field/index, global curation/evaluator write or relaxed file limit; historical storage is not source admission or current analytical duplication.
+
+
+````````````````

@@ -6940,13 +6940,13 @@
     {
       "character": "Core reincarnated adventurer sample",
       "identity": "OPTIONAL_SAMPLE_PERSONA; Reincarnated Adventurer archetype, not Kazuma or Chiho.",
-      "likely_tier": "1 scoped/source-qualified; not final global tier",
-      "priority": "C52 complete bounded source return and semantic receiving; exact containing author publication pending.",
+      "likely_tier": "1 scoped/source-qualified; exact-source author gate closed; nonfinal",
+      "priority": "C52 exact-source author publication closed; full program continues.",
       "evidence_distribution": "CORE S005/S102–103",
       "source_access_type": "OPTIONAL_SAMPLE_PERSONA",
       "substantive_responsibility": "Attributable short trajectory/choice/voice supports a bounded profile; no monograph or generator is forced.",
       "gaps": "Personal identity, chosen purpose, motive weights and unfamiliar conflicts remain unspecified.",
-      "disposition_status": "SCOPED_TIER1_COHORT52_CONTAINING_PUBLICATION_PENDING_NONFINAL",
+      "disposition_status": "SCOPED_TIER1_COHORT52_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort52_route_id": "C52-TRPG-R01",
@@ -7000,18 +7000,39 @@
       "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
       "cohort52_source_known": true,
       "cohort52_unique_person_denominator": false,
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "prior_cohort52_publication_fields": {
+        "likely_tier": "1 scoped/source-qualified; not final global tier",
+        "priority": "C52 complete bounded source return and semantic receiving; exact containing author publication pending.",
+        "disposition_status": "SCOPED_TIER1_COHORT52_CONTAINING_PUBLICATION_PENDING_NONFINAL"
+      },
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Core greatsword warrior sample",
       "identity": "OPTIONAL_SAMPLE_PERSONA; Greatsword role without a proper name or named holy sword.",
-      "likely_tier": "1 scoped/source-qualified; not final global tier",
-      "priority": "C52 complete bounded source return and semantic receiving; exact containing author publication pending.",
+      "likely_tier": "1 scoped/source-qualified; exact-source author gate closed; nonfinal",
+      "priority": "C52 exact-source author publication closed; full program continues.",
       "evidence_distribution": "CORE S005/S104–105",
       "source_access_type": "OPTIONAL_SAMPLE_PERSONA",
       "substantive_responsibility": "Attributable short trajectory/choice/voice supports a bounded profile; no monograph or generator is forced.",
       "gaps": "Response to refusal, fear, competing duties and durable goals is unknown.",
-      "disposition_status": "SCOPED_TIER1_COHORT52_CONTAINING_PUBLICATION_PENDING_NONFINAL",
+      "disposition_status": "SCOPED_TIER1_COHORT52_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort52_route_id": "C52-TRPG-R02",
@@ -7065,18 +7086,39 @@
       "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
       "cohort52_source_known": true,
       "cohort52_unique_person_denominator": false,
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "prior_cohort52_publication_fields": {
+        "likely_tier": "1 scoped/source-qualified; not final global tier",
+        "priority": "C52 complete bounded source return and semantic receiving; exact containing author publication pending.",
+        "disposition_status": "SCOPED_TIER1_COHORT52_CONTAINING_PUBLICATION_PENDING_NONFINAL"
+      },
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Core Crimson wizard sample",
       "identity": "OPTIONAL_SAMPLE_PERSONA; 紅の魔術師, not Megumin/Yunyun/Temiren by design or species.",
-      "likely_tier": "1 scoped/source-qualified; not final global tier",
-      "priority": "C52 complete bounded source return and semantic receiving; exact containing author publication pending.",
+      "likely_tier": "1 scoped/source-qualified; exact-source author gate closed; nonfinal",
+      "priority": "C52 exact-source author publication closed; full program continues.",
       "evidence_distribution": "CORE S005/S106–107",
       "source_access_type": "OPTIONAL_SAMPLE_PERSONA",
       "substantive_responsibility": "Attributable short trajectory/choice/voice supports a bounded profile; no monograph or generator is forced.",
       "gaps": "Taste and ambition are templated; specific name, age, choices and stable transfer remain open.",
-      "disposition_status": "SCOPED_TIER1_COHORT52_CONTAINING_PUBLICATION_PENDING_NONFINAL",
+      "disposition_status": "SCOPED_TIER1_COHORT52_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort52_route_id": "C52-TRPG-R03",
@@ -7130,18 +7172,39 @@
       "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
       "cohort52_source_known": true,
       "cohort52_unique_person_denominator": false,
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "prior_cohort52_publication_fields": {
+        "likely_tier": "1 scoped/source-qualified; not final global tier",
+        "priority": "C52 complete bounded source return and semantic receiving; exact containing author publication pending.",
+        "disposition_status": "SCOPED_TIER1_COHORT52_CONTAINING_PUBLICATION_PENDING_NONFINAL"
+      },
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Core compassionate priest sample",
       "identity": "OPTIONAL_SAMPLE_PERSONA; 慈愛の神官 optional archetype, not a named sect member.",
-      "likely_tier": "1 scoped/source-qualified; not final global tier",
-      "priority": "C52 complete bounded source return and semantic receiving; exact containing author publication pending.",
+      "likely_tier": "1 scoped/source-qualified; exact-source author gate closed; nonfinal",
+      "priority": "C52 exact-source author publication closed; full program continues.",
       "evidence_distribution": "CORE S006/S108–109",
       "source_access_type": "OPTIONAL_SAMPLE_PERSONA",
       "substantive_responsibility": "Attributable short trajectory/choice/voice supports a bounded profile; no monograph or generator is forced.",
       "gaps": "Costs, competing wishes, refusal, errors and individual name remain unspecified.",
-      "disposition_status": "SCOPED_TIER1_COHORT52_CONTAINING_PUBLICATION_PENDING_NONFINAL",
+      "disposition_status": "SCOPED_TIER1_COHORT52_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort52_route_id": "C52-TRPG-R04",
@@ -7195,18 +7258,39 @@
       "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
       "cohort52_source_known": true,
       "cohort52_unique_person_denominator": false,
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "prior_cohort52_publication_fields": {
+        "likely_tier": "1 scoped/source-qualified; not final global tier",
+        "priority": "C52 complete bounded source return and semantic receiving; exact containing author publication pending.",
+        "disposition_status": "SCOPED_TIER1_COHORT52_CONTAINING_PUBLICATION_PENDING_NONFINAL"
+      },
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Core questing thief sample",
       "identity": "OPTIONAL_SAMPLE_PERSONA; Task-oriented thief class explicitly distinguished from a criminal profession.",
-      "likely_tier": "1 scoped/source-qualified; not final global tier",
-      "priority": "C52 complete bounded source return and semantic receiving; exact containing author publication pending.",
+      "likely_tier": "1 scoped/source-qualified; exact-source author gate closed; nonfinal",
+      "priority": "C52 exact-source author publication closed; full program continues.",
       "evidence_distribution": "CORE S006/S110–111",
       "source_access_type": "OPTIONAL_SAMPLE_PERSONA",
       "substantive_responsibility": "Attributable short trajectory/choice/voice supports a bounded profile; no monograph or generator is forced.",
       "gaps": "探索 in old S110 note is an annotation error; risk preference and solitude pleasure remain interpretive, not settled.",
-      "disposition_status": "SCOPED_TIER1_COHORT52_CONTAINING_PUBLICATION_PENDING_NONFINAL",
+      "disposition_status": "SCOPED_TIER1_COHORT52_AUTHOR_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort52_route_id": "C52-TRPG-R05",
@@ -7260,7 +7344,28 @@
       "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
       "cohort52_source_known": true,
       "cohort52_unique_person_denominator": false,
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "prior_cohort52_publication_fields": {
+        "likely_tier": "1 scoped/source-qualified; not final global tier",
+        "priority": "C52 complete bounded source return and semantic receiving; exact containing author publication pending.",
+        "disposition_status": "SCOPED_TIER1_COHORT52_CONTAINING_PUBLICATION_PENDING_NONFINAL"
+      },
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     }
   ]
 }
