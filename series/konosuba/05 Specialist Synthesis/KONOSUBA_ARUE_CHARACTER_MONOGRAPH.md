@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+generation: "EARLIER_COHORT_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "Known EXP01 classroom/field/practical/patch scenes, EXP02 farewell, MAIN05 enclosure/manuscript and MAIN14 occupational return. Shared C21 preparation3154 known BASE context slots/20members/5objects and3actual prior image rechecks includes other actors, blanks and the MAIN17 false hit; no independent observation denominator or fresh source pass."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "78a00e4bed8b097751a0bee699c2b5b81c142b6e"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "bcb13f1f26924bb439184935ce4a64876a5584c7edfb649522cc1cb260b2453f"
+reference_corrections: 0
+---
+
+> Current authority: scoped active provisional interpretation accepted in the [earlier-monograph authority review](../09%20Audits%20and%20Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The complete original argument below is retained byte for byte. Earlier pending labels record authorship history. Current project progress is owned by the current entrypoint; this adoption adds no primary reading, independent performance, model maturity or capability grade.
+
 # Arue: authored performance, practical participation and the cost of a story
 
 ## 1. Identity and analytical scope

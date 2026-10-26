@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+generation: "EARLIER_COHORT_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "Core edited-replay adversary Froger/フロガー with later Advanced survivor report kept separate; dense sovereignty project/alternatives/defeat supports monograph only, not a mature model or permanent death."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "78a00e4bed8b097751a0bee699c2b5b81c142b6e"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "c181a34b9dd9a811177d8b6873841cf271e9fb9d46a86450905d01a7a4c94af4"
+reference_corrections: 0
+---
+
+> Current authority: scoped active provisional interpretation accepted in the [earlier-monograph authority review](../09%20Audits%20and%20Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The complete original argument below is retained byte for byte. Earlier pending labels record authorship history. Current project progress is owned by the current entrypoint; this adoption adds no primary reading, independent performance, model maturity or capability grade.
+
 # Froger: a bid for sovereignty made through a frog kingdom
 
 Status: scoped Tier 2 monograph for フロガー in the Core TRPG edited replay. [Cohort 31 evidence and qualifications](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md) govern this account. No generative model is accepted: a dense adversarial project does not identify a general decision mechanism across ordinary alternatives.
