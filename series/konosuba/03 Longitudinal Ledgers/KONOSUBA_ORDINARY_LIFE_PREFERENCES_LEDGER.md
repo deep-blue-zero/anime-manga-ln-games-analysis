@@ -1511,3 +1511,38 @@ Siegwald’s recovery, offered milk, play with Chomusuke, sleep, garment bedding
 Liliantine's preferred teacher, volcano question, notes/applause and narrated academic gainsU018118–127/210–217/316–318 give ordinary learning agency without a fight or royal function. Enjoying fiction and copying poses coexist; no private dismissal interview is shown. The veteran wants to test restored mobilityU020665 and expands the practical exchange671–679, with no unlimited purse or prior consent. The foreman actually recognizes useful work and increases pay528–539. Melvirei's growth outstrips successive containersU018274/327/348–350; human reluctance and information suppression contribute to confinement.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+The retired professionals actually eat togetherU01474-89/151-156 and value a peaceful morning. U014121 compares restaurant price with a week pension, without an itemized paid bill, payer, exact pension debit or balance. Dark Stalker later pressured bottle-takingU018342-350 is contrary evidence to universal noninterference. The familiar worker combines wages/business, fandom, fear, failed recruitment and promised reward. Anna mediated adventure/doll/story interests and the printed author creditU018675 support ordinary agency without witnessing writing. The YORI01 doll customer asks for sleep; an alleged apology intention does not remove disturbance or prove a remedy.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+Keele's sparse room, arranged remains and reported property do not establish a full personal diet or monetary valuation MAIN02U015. Heidel actually brings coffee MAIN11U012154/182 and tea/door service412, while future transactions156-160 and proposed vase/clothing changes148/152 remain unperformed. Aqua's one retained snow sprite MAIN02U014346-366 has a reportedly assigned but unsupplied name; refrigeration/shaved-ice hopes are not achieved business and its diet remains unknown. Family hospital laughter is Aqua's report MAIN01U01363, not a complete relative roster or verified private feelings.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+Tea is actually drunk in the vampire room496/503. Tomato farming498/502 is proposed,not performed; the personally worn ring is offered537-538,declined539,and only then described as precious since life540. Its donor and history remain unknown. Stella remembers patient mapping149 and lost food/barrier means170-174; party supplies are actually bought227,without an itemized fivefold bill or witnessed safe return. Vanir clothes-giver story73 remains a reported gift/bereavement,not verified romance. Summoned devils complain about work/domain duties456-458; those offstage routines are testimony. Amaryllis fear preference328 and pet-search account325 are attributed,not quantitative diet or witnessed care.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Pain’s conditional drain-talk affinity493 is not a performed social routine. Mammon’s ordered last tea is coercive hospitality,not an independently shown taste;his bonus246 is promised,not paid. The king cherishes a handkerchief reportedly made by his daughter103 and recounts managerial trouble277–279,but no domestic scene or full financial ethic is supplied. The daughter’s reported craft and military reputation do not reveal her own everyday goals. Missing ordinary-life evidence limits all six;no fabricated leisure,household,age or family history fills it.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+The unseen guard's safe-job expectation, reported pet and unperformed leave request supply ordinary concerns without a watched feeding routine. The farmer wants to water his field but participates in an inducement pretext. The festival child names foregone spending; the butcher defends business reputation. Refrigerator use is Cecily report, principal tulips a student report and family craft/potion outcomes participant accounts. No name, age, gender, exact budget, private household or stable habit is invented where the source does not supply it.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

@@ -1,0 +1,55 @@
+{
+  "schema": "konosuba.cohort50.source-safe-foundation-freeze.v1",
+  "frozen_utc": "2026-10-25T18:18:01.459570+00:00",
+  "private_complete_freeze_sha256": "915136e3fef259758bf97aaa81dd8cae2fd69159759f83ce779d4880e513e9c0",
+  "private_complete_author_review_sha256": "a4e69b9dba58e7a335915e54a1402d26b7099fc113d641e04978d858d3460bae",
+  "complete_before_review_pages": 43,
+  "current_targeted_qualification_pages": 3,
+  "complete_before_plus_five_exact_reviewed_changes": true,
+  "complete_new_artifact_pins": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md",
+      "bytes": 21688,
+      "sha256": "350e4a67e937b62c7791e0d0b5f5c4612aeaa00086ba9f99b0e7825ffd3646c2"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md",
+      "bytes": 14404,
+      "sha256": "3627fd2261e50a04b33880d59053f9ce08e46d8e8fd1fbffabf4862392ab71d6"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT50_NATIVE_PROVENANCE_01.json",
+      "bytes": 14573,
+      "sha256": "cb3a4535f2f7e38ac5bdb65e7f78f53ca7ac2cebdedd891fce38e7ddf01f3783"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+      "bytes": 135412,
+      "sha256": "29c33b40d52b01ad90191bf3df5f0af0087fb3d7b15d1fc630fe257686568ef6"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_TYPED_SOURCE_ACCESS_ROUTES_01.json",
+      "bytes": 56741,
+      "sha256": "6b4f2f6946a90c35e6786d5bad6324168e96aad65094b66e6adcd499fea5a347"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "bytes": 7482,
+      "sha256": "0fe2e350874f30b9210dd23ac80b428d332bf8ddebdad22930dab9919c28d9a7"
+    }
+  ],
+  "bounded_profile_passages": 18,
+  "audited_access_records": 55,
+  "new_access_routes": 31,
+  "new_models": 0,
+  "new_rules": 0,
+  "new_inputs": 0,
+  "new_original_firsts": 0,
+  "scenario_sequence": "INAPPLICABLE_NO_TIER3_MODEL_EARNED",
+  "authorship_draft_status_fields_are_dated_history": true,
+  "all71_entering_models_preserved": true,
+  "source_known_same_informed_root": true,
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "full_program_complete": false
+}

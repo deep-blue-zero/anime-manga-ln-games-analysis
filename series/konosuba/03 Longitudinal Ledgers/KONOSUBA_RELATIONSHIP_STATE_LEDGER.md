@@ -1631,3 +1631,38 @@ Maternal entrustment, the cub’s clinging, the mother’s pause and coercive tr
 Successful business and mansion accessU020714/723–724 precede the wish for the familiar companions779–824; harder chores783 and Aqua's own people preference784/799 coexist. Known reset792/796 prevents a durable-loss or equal-role substitution claim. Shumel invokes reciprocal name etiquette with DarknessU014385, while attacking Kazuma and resisting a superior raid; this is neither general trust nor a verified shared conspiracy. Melvirei shows interest in stayingU018431 before Aqua prompts432 and departure433; the animal's private sea-desire437 is Kazuma's inference. The messenger's workplace connectionU016267 and Vanir gesture264–265 retain distinct contributors.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+One professional volunteering does not bind the otherU014495/529/553. The watcher being known to the main partyU0163-14 qualifies her belief that she is covert; tolerated presence is not unlimited privacy permission. The familiar shop worker rejects the stalker label, accepts recruitment, admits failure and makes a later bookingU016285-378; night continuity401-448 does not name every other worker. Angie objects to Kazuma withheld threat informationU018500-524 and later changes her appraisal after the card/name evidenceU020459-471 without a gracious final reconciliation. Anna story arrangements remain mediated through Aqua and specific household context.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+Keele's recollection supplies the accepted proposal and remembered smiles MAIN02U015305/327. Kazuma's summary303-305 and Keele's affirmation belong to that same conversation. Darkness later interprets the woman's happiness400; her assessment does not replace the woman's unavailable own testimony. Jatice's military, sibling and marriage roles are reported. Aldarp's body-theft plan in the fictional interlude MAIN06U020 threatens Jatice without completing a body swap. The transfer angel's job succession despite Aqua's protests MAIN01U013130-147 does not identify all heavenly personnel with one person. Mary's actual MAIN11 message215-217 remains distinct from contemplated clothes/vase plans and from all castle servants.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+Stella own focalization does not reveal the other three private states. Companion shopping turns remain untagged; Gil thanks is explicit241. Mitsurugi two women210-218 have possible member overlap with127/128,without a Fio/Clemea-to-role or turn mapping. MASKreception client has only a possible role-filler edge toLuna11. The civic-affection speaker may be identical to a preceding level32/38speaker; that person-to-person possibility differs from membership in the standing group. Stesky reports and slain hell-neroid retain possible identity,without an Amaryllis-client join or forced two-pet count. Vampire126 is not explicitly joined toWolfgang97; female-succubus113 is a different owner route. Three dragon zombies may include the earlier animated body; group routes do not add independent people.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Pain’s own warning,Logia’s order and Nos’s offered cover remain separate coalition acts. Kazuma’s false Pain insults are not genuine contempt. Mammon’s apology and restraint coexist with hostage threats and punitive violence. The king’s treasured handkerchief is a father-attributed craft gift,caught before its history; no full reciprocal daughter psychology or moral acquittal. Nos stays one already joined subject; Fio/Clemea remain a role-unmapped nameset and the barrier crew remains route692. No duplicate person or normalized historical row plane.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+Iris obtains a local reprieve for Cecily without proving restitution. The Eris men soften under Cecily feigned distress and protest her taking relief bread; the later matching pair is a qualified contextual recurrence without persistent individual assignment. The apple helper performs aid and then refuses further pressure. Mammon's guards voice scruples while maintaining actual coercion. Explicit group/member containment differs from a shared private psyche or an inferred cross-source identity. No old individual relationship or historical row plane is silently replaced.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

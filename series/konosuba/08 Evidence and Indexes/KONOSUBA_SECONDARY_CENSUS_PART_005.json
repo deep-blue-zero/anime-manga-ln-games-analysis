@@ -783,6 +783,30 @@
         "no_independent_accuracy_grade_or_confidence_gain": true,
         "separate_housekeeping_run": null,
         "pull_request_number": 312
+      },
+      "cohort46_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_NATIVE_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI04_IDENTITY_AND_SUPPORTING_CAST_COHORT46_SUPPLEMENT.md"
+      ],
+      "cohort46_semantic_receiving_sha256": "d819a2618b54945dd8c5a111782a28080b1fffd1a6b78979e703fa190c5d3ffd",
+      "cohort46_supporting_freeze_sha256": "cb8f4d207c7859074f5bce8ac1a5d9fc3094230b2e09727ad851f0a19d43c6e6",
+      "cohort46_current_source_qualifications": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+      "cohort46_current_receiving": "Exact-source author publication is closed for this scoped C46 study or source supplement. Current source qualifications and typed relations govern; all original histories remain preserved. No model-maturity, independent-performance or unique-person claim.",
+      "cohort46_source_supplement": {
+        "source": "MAIN13U015372;YORI04U018447/644",
+        "finding": "Distinctive Sutton name/local relation supports qualified reported continuity: Aqua neighbor information, Angie report of count mineral valuation and Aqua report of garden stones.",
+        "limit": "No personally issued Sutton quest request, direct Sutton speech, independently tested expertise, inferred gender or bridge to other nobles."
+      },
+      "prior_cohort46_publication_fields": {
+        "cohort46_current_receiving": "Scoped interpretation received; exact containing publication and own-source technical gates pending. No independent, grade, confidence or final-tier gain."
+      },
+      "cohort46_publication_resolution": {
+        "source": "3c3eed797bac620a9b6c78ca50349ab88fde61f7",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "ec4a93d07e7258ffe96c673af3c08d9d0274a05a3116d64e6701d98af0fb239a"
       }
     },
     {

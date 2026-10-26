@@ -1434,3 +1434,38 @@ The dryad’s human-fertilizer threat and pressure after refusal remain adverse;
 Shumel's articulated grievance does not make her attempted dangerous attack harmlessU014370–383; no completed killing is shown. The last-life owner is explicitly a woman/succubusU016330/337/359, distinct from MAIN16 vampire126. Her revised offers332–335 are unperformed; Vanir's responsibility/kin intervention343–350 stops Wiz, followed by actual hospitality359–360. Darkness's chosen participation in a collar sequenceU014575–594 does not authorize later humiliating photographs over objections623–629. Warm belongingU020828–882 does not complete unsigned contracts, apologies, debt repair or proposed outings.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+Angie fear and costly town-protection decisionU018591-604 are meaningful despite ridicule and later collapse; subsequent protection does not erase the preceding bill exploitation or withheld warning. At the coatl battle, Darkness agrees to a paid one-wing requestU020367 before Kazuma forcibly extends it377-390; an extra5000offer is not a witnessed payment. The mask-binding woman is a contributor387-400 whose aid does not authorize every coercive act. Dust being revived477 is not zero actual death. The child Anna and youthful-looking unnamed worker retain nonsexual treatment, with the latter exact age unproved.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+Kazuma's death to the Winter Shogun MAIN02U014213-224 is an actual cost, without a witnessed defeat of the attacker. Castle removal MAIN11U012 is coercive: Kazuma resists, guards restrain him, Claire forces the potion630 and awareness fades631 despite Iris's intervention617. Heidel's earlier service412 does not assign him the restraint or potion. MAIN17 barrier failure155 and users blown away158 preserve material harm without an invented death or escape roster. Aqua's report that the remembered girl had a fracture MAIN01U01341 is neither independent medical testimony nor certified lifesaving by Kazuma.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+Amaryllis stops on Vanir voice320 and changes register321 before his explicit companion disclosure324; apology/explanation follows325. Rank,familiarity,surprise,etiquette and affiliation remain intertwined. The vampire abandons ceremonial intimidation for courtesy and surrender under overwhelming pressure; personal attachment survives in his relief when the offered ring is declined. Stella updates blame and stops with the injured party member while afraid. These local changes do not establish a single universal threshold,altruistic rescue law or generic obedience policy.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Mammon stops further humiliation334 but retains hostages and armed coercion;earlier hesitation and public rebuke prevent a single-cause moral rule. Pain corrects a friend’s catastrophic strike and requests restraint467 without abandoning hostility493. The king’s rejection of a draw443 changes after visible Explosion446–451;his fear/resource appraisal does not establish general generosity. Claims of fair-duel obligation are contested by his actual return attempts and qualification of the challenger22. All are local changes with competing mechanisms,not new generative rules.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+The butcher changes sanction after Iris intervention while retaining a warning. Eris pair alarm/comfort under feigned distress limits their antagonism without proving permanent repentance. The apple helper's assistance does not negate her later refusal. Hall guards' inhibitions coexist with coercion and armed response; protectors shield the apparent daughter while fleeing bombardment. Situation, information, reputation, role and self-preservation remain competing explanations. No isolated generative switch or universal moral exception is inferred.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

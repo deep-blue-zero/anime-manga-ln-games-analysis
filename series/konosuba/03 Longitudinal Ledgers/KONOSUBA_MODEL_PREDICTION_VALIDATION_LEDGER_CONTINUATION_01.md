@@ -666,3 +666,38 @@ The dryad foundation received33 complete pages and4 corrective pages before free
 C45 foundations21artifacts/45complete review-and-correction pages froze before six exact English inputs, which froze before six genuine once-authored originals and their pre-feedback seal. Three dependent same-root pairs are not independent trials or final StageD. SHU-A1 stops at spell preparation without completed cost; A2 is procedurally tidy. KIV-B2 questions without accepting a neutral offer canon never tested. KIV-C1 invents a three-coin offer; C2 preserves committed funds but proposes unprobed instruction and evokes an unrequired expense. All firsts/models/inputs remain exact after feedback; generic rivals and fluent boundary talk remain limits. Prior forecasts, scores,14Dust blanks and28SI/SY nulls are unchanged.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+C46 freezes twelve foundation bodies after39original+2complete correction pages, then eight exact English inputs after5original+1clarification pages, then eight genuine once-authored ordinal1 responses before feedback. Four dependent same-informed-root pairs test four narrow provisional rules without an independent generic run. Dark Stalker A2 adds an unprovided saw detail; B1 projects private intentions. Angie A2 negotiates more orderly than the source may warrant; cart B1 includes unbound payment wording. Both cart outputs attempt the lever, with no completed rescue or calibrated release threshold. Post-freeze source qualifications narrow meal/healing assertions while all47 core pins remain exact. No prompt, rule, first, diagnostic or old score is repaired.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+C47 freezes nine foundation bodies after twenty complete author-review pages and three correction pages; ten exact-input objects follow four full input pages and two possessive-copyedit review pages. Four genuine English ordinal1 originals are then authored once, sealed and actually received before feedback. Two dependent pairs vary recipient preference and curator approval. A2 adds an unrequested recipient-opinion warning; both card cases add an unrequested not-building-the-clock caution. A1's polished aphorism and narrator scaffolding weaken voice. Both card outputs choose the same name card, changing warrant/friction rather than demonstrating a different selected action. Generic butler, client obedience and prompt-following rivals remain sufficient. No original, rule, input, model or old score is repaired after feedback; no independent validation or final StageD credit follows.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+C48 freezes eight foundation objects after20full review pages/two precision pages,then ten exact-input objects after seven full pages/two clarification pages. Four genuine English ordinal-one originals are authored once,sealed and received before feedback. Two dependent informed-author pairs vary prior reassurance and recognizable voice in an explicit human rehearsal analogue. A changes warrant with coy pacing and limited action discrimination. Both Bcostumes stop; B2invents a prior loneliness explanation absent from its input,while both Bcases add unsupplied prior vocal states. Generic horror,ordinary performer/courtesy,prompt following and cross-pair contamination rivals remain. No original,model,rule,input or old score is repaired after feedback. No independent baseline,accuracy,grade,confidence gain,Japanese proof or final StageD credit follows.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+C49 earns four Tier2monographs and two Tier1profiles,with no new reconstruction models,rules,scenario inputs or first outputs. Dense source description does not isolate generators from role,danger,presentation and information rivals. All71entering model bodies,old originals,prediction strings,outcomes,scores and adverse histories remain exact. Eris’s qualified tactical/resistance assessments remain forecasts,not performed alternate fights;MAIN16U010310 is Megumin’s forecast,explicitly tagged312. No known-source material becomes a pristine holdout or final StageD battery. The six separate principal/party/transfer successors remain owed.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+C50 adds eighteen bounded profile passages and55 individual proportional dispositions, with no new models, rules, scenario inputs or original outputs. All71 model bodies and all prior original forecasts, outcomes, adverse findings, scores, blanks and nulls remain exact. Source-known returns do not become prospective holdouts; different focalizers do not become independent trials. The six distinct StageD successors and final battery remain separately owed. Existing adequate incidental homes remain sufficient without a forced generator or an immutable future ceiling.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

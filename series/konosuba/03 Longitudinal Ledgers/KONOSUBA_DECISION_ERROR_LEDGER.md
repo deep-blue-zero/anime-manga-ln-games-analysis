@@ -2094,3 +2094,38 @@ The dryad’s living-dependent objection, wanted water and naturally expired-pla
 Vice interprets Darkness's assault as confirmation of Tia's storyU01860 despite having the wrong addressee; later correction and exposed stories308–309 qualify that apparent evidence. Crank admits monster trade while disputing attributed purposeU014296 and explicitly defends maid harassment300. Actual contraband307 does not retroactively prove every allegation; no collar311. Shumel's actual lightning375 gives Darkness public-casting/injury leverage383. Kazuma's threatened retaliation precedes Megumin disbelieving a true frog warningU012154–176. These are situated evidence/choice failures, not global intelligence diagnoses.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+Dark Stalker invested romance attention coexists with practical correction from Assassin; a genre-shaped reading is not knowledge of the watched people private intentionsU014/U018. Kazuma initially withholds his age and threat information from AngieU018242-244/500, then uses her incomplete information for revenge; her errors cannot be credited to universal incompetence. Kazuma wallet theftU020228 is followed by return230 and does not confirm polite transparent negotiation. Aqua reading a reported pub ban as affectionMAIN16U01322-24 is not proprietor consent. Related census routes now distinguish comparisons/context/exclusions from possible identity or membership overlap.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+Kazuma's initial chest-mimic classification MAIN02U015236 is corrected by Aqua's dungeon-mimic identification237 and floor/wall response241. The bottle response does not prove a performed human disguise or complete diet. Kazuma's city-avoidance explanation U014691 and scent inference U015104-105 remain hypotheses. Heidel wrongly guesses the complaint MAIN11U012203-204 and hesitates208-209 before a prompt213; competent anticipation is fallible. Kazuma's online-guild retelling312-325 supplies handles and causal interpretation without offline identity verification.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+Stella corrects her first impulse to blame Gain180 after seeing his wound181,then warns the stranger204; she later misreads Vanir divine objection235 as religious humility238. Accuracy varies within one actor. Vanir wild/untrained guess217 does not resolve pet ownership. Kazuma recognition of standing male shop regulars122 adds an interpretation to civic affection113,not proof that every speaker lies. Luna actually checks cards109. Fabricated chimera biography283/286 is explicitly disavowed328; Kazuma abandonment inference287-288 does not instantiate real parents or an experimenter. The motorcycle memory317 does not establish romance or senior gender.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Mammon notices the false Nos’s register but misclassifies it123;his correct corpse recognition yields a wrong human-killer inference93. Aqua purifies the tea203,so server punishment217 is not proof of servant sabotage. Initial hesitation306 precedes Mitsurugi’s rebuke321,posture recovery325 and restraint334;face,cruelty inhibition and tactical sufficiency remain rivals. The king correctly diagnoses delay38–40 yet misidentifies the charm80 and revises his Explosion/class expectation295/453. Competence and error vary within actors; no uniform stupidity or omniscience.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+The butcher retracts his police threat locally; the festival child combines skepticism, allowance limits and distress. The target-game operator's appeal to police brings enforcement on his own stall. The pub manager's nodding does not rescind dismissal; Megumin hot-oden account is interrupted before a completed act. Megumin's library-classmate accusation is denied, and she admits her own intervention motives. The intervening policeman initially follows a misleading account but also asks the fleeing pair to stay. No error is made into a universal incompetence trait.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

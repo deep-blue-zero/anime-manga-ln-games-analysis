@@ -1641,3 +1641,38 @@ The dryad helps against deer but does not have unlimited boss-deer control; remo
 Actual capabilities have finite contexts: Shumel casts a dangerous spellU014375 but Darkness intercepts381 and uses the event383; guards cut Bind and remember tactics463/471–472; Melvirei balances water and healsU018345–346/408–410 while learning/comprehension remain hypotheses. Prototype sweeping/alarm/explosionU01690–111 does not demonstrate a humanlike mind and is not the sold later stock368. The EXP03 returnU034492–515/U04513–54 ties the Hoost aftermath and capital invitation specifically to existing routes, with an unnamed probable Rex counterpart and a broader coalition rather than automatic Sophie/Terry voices.
 
 [Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+Angie actual Sharpness/mineral techniqueU018471-484 and kobold kills510 coexist with uncertainty, resource dependence and a dangerous pursuit whose onset is elided. Her attempted Sigil Burst is not completed before Megumin Explosion609. The weather inquiryU012500-506 is compressed; no extra preliminary escort casting is explicitly narrated. Ignis actually uses spear/wire interceptionU020333-347, while archer group credit402 does not assign each earlier shot to one speaker. Dark Stalker/Assassin prepare weapons and poisonU014415-449 without a performed rescue attack; reported later teaching/potion use remain separate from the unseen original lesson/transfer.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+The Beginner Killer sniffs/passes the concealed party MAIN02U014517/522 and later targets Taylor668 before eye obstruction681 and escape686. Species hunting explanations530/534-535 do not prove deliberate goblin herding in this instance; no kill is shown. Castle guards contribute real restraint MAIN11U012581/584/599 while some earlier blockers are disabled; four initial action roles and a larger later contingent cannot be summed as unique people. Barrier users assist the gatekeeper MAIN17U011117/132 and repair149, but the barrier fails155; his own infinite-mana claim142 is not every crew member's resource or proof of invulnerability.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+Gil interrupted magic instruction186-189 is not a Stella cast. Ogre status32 is Kazuma inference; actual last-ogre restraint and killing41 remain. Dragon breath preparation88 is Vanir warning; Wiz feared bite89 is hypothetical,whereas Vanir arm loss93 and lightning kill98 are actual. Same-corpse necromancy117-122 changes state without adding another individual. Kazuma shallow minotaur slash445 does not win the encounter. Vampire class-limit answer528 fits armor failure524 but his market generalization532 is not exhaustive expertise. Human murder-ray fatality406-408 remains hypothetical. No universal species hierarchy,unlimited body repair or independent capability grade follows.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Pain’s alternate perception survives Flash424,but Aqua contact and magic weapons qualify immunity. The gatekeeper regenerates and recognizes range disadvantage142;claimed infinite mana does not establish infinite throughput or survival. The king takes an ordinary leg wound157,conserves resources and actually fields a buffed smaller golem263;no automatic on-sight spell learning. Retainers cast the opening lightningU013122–124;nine retainers plus king make ten. Seal effects,local ally enhancement and global monster weakening are separate. Mammon’s initial skill-versus-poison collapse371 and exact fatal transition stay unresolved.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+The tea-server rebrews and denies blame; Kazuma attributes the water to Aqua. Mammon actually strikes once and a later attempt is interrupted. Three interceptors become two free plus one bound; two arrivals make four free and release restores five. Coordination, imitation detection, Decoy redirection and defeat coexist. Nine retainers plus king make ten; the initial lightning belongs to subordinates, without exact allocation to every figure. Skeleton detection/strike is direct, precise beheading and Aqua finishing are inferred. Downed bodies do not certify every death.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.

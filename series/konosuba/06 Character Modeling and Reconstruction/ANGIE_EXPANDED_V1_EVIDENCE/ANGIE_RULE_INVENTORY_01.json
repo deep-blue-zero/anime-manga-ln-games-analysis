@@ -1,0 +1,37 @@
+{
+  "schema": "konosuba.cohort46.angie-rule-inventory.v1",
+  "subject": "Angie / アンジー, seventeen-year-old Rune Knight",
+  "status": "active_provisional",
+  "source_known_same_informed_root": true,
+  "rule_count": 2,
+  "rules": [
+    {
+      "id": "ANG-R01",
+      "status": "active_provisional",
+      "proposition": "Angie uses frontline experience and advanced-class standing to organize a senior-junior interaction and seek acknowledgment. Those cues can support real guidance and a useful shared task, but she overextends them when a basic class or Axel residence conceals competence. A costly reversal can provoke objection and anger even after new evidence changes her estimate; the model must not require a gracious reconciliation.",
+      "support": "YORI04U018172-184 shows demanded deference and extended display;197 names her class,212-220 supplies her advanced-start/Axel judgment. She undertakes a mineral quest438-445, demonstrates Sharpness/kill/harvest471-484 and acknowledges skill514. Party-information objection524 is practical. U020459-474 moves from disbelief to card/name evidence. She reacts angrily481-484, joins the collective drawn brawl485 and leaves486; private K appreciation529-540 is not heard by her.",
+      "contrary": "Initial protection124-171 responds to a plausible but mistaken social picture. K withholds age242-244 and threat500, admits revenge224 and expands her bill301-308/404-410. Her objections are not all status blindness. She can refuse a mismatched quest425-431 and recognize performance514. Yunyun blameU020138-142 remains unjust and uncorrected. No completed private apology, permanent reform or solo victory is shown.",
+      "rivals": "Generic boastfulness, generic novice leadership, class hierarchy, actual information gaps, resource scarcity and deliberate provocation explain overlapping behavior. There is no independent estimate of the effects of status versus exploitation or fear. K is an interested narrator, not an unbiased tester.",
+      "applies_when": "State her perceived standing, the other's known class/experience, actual information, audience, current obligation and material costs. Strongest extension concerns a peer-aged adventurer she regards as junior and evidence that challenges that appraisal. Changed role or an unfamiliar institutional setting calls for uncertainty rather than importing frontier authority unchanged.",
+      "do_not_assume": "No omniscient rank estimate, unlimited jewels, all-purpose competence, inevitable humiliation, complete bankruptcy, automatic gratitude or compulsory apology. Do not invent an unknown age/name, hidden deceit, another person's assent or a refunded bill to make the interaction tidy. A collective drawn brawl is not an individual victory. Seventeen is explicit locally, not every edition's established chronology.",
+      "confidence": "Provisional with varied but source-known connected situations and real contrary evidence. Conditional miscalibration is better supported than exact escalation thresholds or broad authority transfer. No independent accuracy, causal identification, grade, confidence increase or Japanese-performance claim.",
+      "falsifier": "Comparable later canonical encounters assessed prospectively would weaken the rule if class/seniority cues consistently do no work in her attention or decisions, or if clear competence corrections reliably produce a uniform gracious resolution contrary to the proposed conflict. Changed stakes cannot be invented after feedback. A simulated perfect mentor, unchanging class caricature or magically settled cost is an adverse output rather than canon."
+    },
+    {
+      "id": "ANG-R02",
+      "status": "active_provisional",
+      "proposition": "When Angie regards a junior or town as exposed to danger within her current responsibility, fear can coexist with a concrete protective choice: refuse a badly matched task, demand information, seek backup, stand against a threat or appeal to stronger authority. The model should preserve her willingness to bear cost without making her tactically infallible, freely choosing every assignment or capable of unlimited sacrifice.",
+      "support": "YORI04U018425-431 refuses an unsuitable quest;501/524 objects to withheld threat and solitary conduct. During the chase she stops and turns for the town591-604, tells K to seek aid and begins a jewel/skill action604-605 before interruption. Explosion609-614 still injures them613 and Heal624 follows. U020143-149 expresses fear for the Axel juniors and confronts Ignis;165-168 promises return, with actual later return404-410. K privately credits her flower information529-530.",
+      "contrary": "She initially misreads K/Dust124-171 and underestimates Axel212-220/459. Ignis coerces the locust assignmentU020108-125; compliance is not a clean free preference. Bell interpretationU018604 is mistaken, the ultimate attack is not completed, and the chase onset551-555 is elided. She falsely blames YunyunU020138-142 and ends in a brawl481-486. Protective intent does not make every act benevolent or effective.",
+      "rivals": "A generic brave adventurer, senior-role identity, fear for group reputation, obedience under rank, reciprocal aid and local story construction remain serious alternatives. Protection and desired acknowledgment covary; no independent causal weights are isolated. Later locust effort is partly inferred from returned condition rather than a witnessed individual kill sequence.",
+      "applies_when": "Give her perceived responsibility, credible information about who is exposed, current fear/injury, means, escape/backup options and external coercion. The strongest scope is a comparable included junior or town threat. A protective choice can be warning, refusal or appeal; it need not be a successful fight. Stranger rescue, open war and extreme sacrifices outside this network remain less specified.",
+      "do_not_assume": "No fearless action, universal martyrdom, optimal tactic, guaranteed rescue, completed Sigil Burst, limitless resources, direct knowledge of all enemy behavior or sole-victory credit. Do not convert a duke's order into consent or the junior's hidden knowledge into hers. No invented initial flower theft, unshown locust kills, received payment, served dinner or achieved safe future.",
+      "confidence": "Provisional protective priority with explicit costly choices in linked known contexts. Danger thresholds, priority over every resource need and general transfer are uncertain. Any informed same-root English paired firsts are dependent diagnostics with no independent observation, grade or confidence gain.",
+      "falsifier": "Adequate later canonical evidence under prospectively comparable known-responsibility conditions would weaken the model if she repeatedly ignores a recognized junior/town danger while the proposed protection never affects attention or action despite explicit available means. Coercion and changed facts must be recorded, not fabricated after failure. A simulation that erases fear, performs an interrupted attack or grants a costless guaranteed rescue is adverse output, not confirmation."
+    }
+  ],
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "authorship_phase": "Foundation draft before exact inputs or firsts; full review and freeze pending.",
+  "full_program_complete": false
+}
