@@ -5,14 +5,14 @@ artifact_type: "sports_technical_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.17"
+version: "1.18"
 status: "canonical"
 scope: "Technical/training progression, competition/performance records and external-rule applicability"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_SKATING_TRAINING_AND_COMPETITION_LEDGER.md"
 source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
-updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_SYNTHESIS_RELEASE_UPDATE"
+updated: "2026-10-14"
+review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -540,3 +540,9 @@ Recorded at the release of the provisional syntheses at `MD-FR-FB02`. No row is 
 **Erratum (MD-COMP-0006, FB02 annotation).** The annotation in the FB02 section says that places seven to fifteen of the regional qualifier are fanbook data. They are not: the completed row for MD-COMP-0006 in the V06 section already records all fifteen places and scores from the manga. The fanbook's table agrees with it. What the supplement adds for that competition is ten-element lists for seven programs. For MD-COMP-0007 the annotation stands: places five to fifteen as a ranked table, and one score the manga did not print, are fanbook data.
 
 **Erratum (age).** The frontier paragraph of the V13 section calls Hikaru Kamisaki, the champion of the All-Japan Junior, thirteen. By that volume's profile page she is twelve.
+
+## Independent source-review numerical erratum (2026-10-14)
+
+Preserve the prior rows; read **MD-PERF-0084** and **MD-SK-0056** with the [audit](../07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY_AND_CORRECTION_AUDIT.md) JC02 correction. Original V09 Score34 occurrence0086 shows five notebook marks O X O O O: **four successes in five**, not three in four. This remains one warm-up tally, not a stable landing rate. MD-EV-V09-0023 is corrected by explicit retained-reading erratum; current specialist repetitions are repaired.
+
+The Kyoto FSSp1 at MD-PERF-0023 and second-Meikō FCSp2/LSp3/CCoSp4 at MD-PERF-0027 were already correctly recorded and are now independently image-verified. MD-SK-0038 correctly records first success, probability raised for layout, then combinations orGOE; its derivative specialist no longer substitutes an official call or claims every acquisition is shown. The V14 result is highest **printed** PCS; the omitted Baek breakdown cannot be inferred from her total. Depicted elements, planned layouts, official calls and observer judgments remain separate channels.

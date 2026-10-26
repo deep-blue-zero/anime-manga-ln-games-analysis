@@ -2,7 +2,7 @@
 
 > Repository state: public, owner-maintained, and active as the epoch-1 primary analytical authority. The sealed cutover scope contains 2,939 Drive-derived representations covering 2,924 unique source artifacts across 37 migrated series roots and two study roots. Post-cutover Git-native analytical roots are listed separately and do not alter those historical migration counts.
 >
-> Analytical authority: Git for the exact hashed migration scope in `AUTHORITY_SCOPE.json` and for owner-approved post-cutover Git-native analysis routed through the live registry, effective under authority epoch 1. The repository is in its approved 14-day stabilization period. Declared Drive-native authoring surfaces and reference-only artifacts retain their narrower roles.
+> Analytical authority: Git `main`, for the migrated corpus and for owner-approved Git-native analysis routed through the live registry. The owner accepted the Drive-to-Git migration (authority epoch 1) on 2026-10-15; its records are archived in `governance/archive/migration/`. Declared Drive-native authoring surfaces and reference-only artifacts retain their narrower roles.
 
 This is the Git-side navigation index derived from the historical Drive hierarchy and extended by governed post-cutover analytical roots. Every migrated representation is bound to its source identity, revision, byte hash, transformation, and final repository path in `../crosswalk/`. Post-cutover roots must identify their own source/evidence authority and provenance in their canonical entrypoint.
 
@@ -21,8 +21,10 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Chitose Is in the Ramune Bottle](../series/chiramune/) — `series/chiramune/` — post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane.
 - [Classroom of the Elite](../series/classroom-of-the-elite/) — `series/classroom-of-the-elite/`
 - [Gakuen Idolmaster](../series/gakuen-idolmaster/) — `series/gakuen-idolmaster/`
+- [Genocidal Organ / 虐殺器官](../series/genocidal-organ/) — `series/genocidal-organ/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Genshin Impact](../series/genshin-impact/) — `series/genshin-impact/`
 - [Girls Band Cry](../series/girls-band-cry/) — `series/girls-band-cry/`
+- [Harmony / ハーモニー](../series/harmony/) — `series/harmony/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Henshin - Metamorphosis](../series/henshin-metamorphosis/) — `series/henshin-metamorphosis/`
 - [IDOLY PRIDE](../series/idoly-pride/) — `series/idoly-pride/`
 - [KimiShinu](../series/kimishinu/) — `series/kimishinu/`
@@ -40,6 +42,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [One Punch Man](../series/one-punch-man/) — `series/one-punch-man/`
 - [Oregairu](../series/oregairu/) — `series/oregairu/`
 - [Oreimo](../series/oreimo/) — `series/oreimo/`
+- [Peach Girl / ピーチガール](../series/peach-girl/) — `series/peach-girl/` — Original Japanese manga analysis of character development, directional relationships, information and reputation, and manga form; architecture supports longitudinal synthesis and time-bounded character reconstruction. Primary and derived evidence remain in Drive.
 - [Project SEKAI](../series/project-sekai/) — `series/project-sekai/` — Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git.
 - [Re:ZERO -Starting Life in Another World-](../series/re-zero/) — `series/re-zero/` — post-cutover Git-native analytical root; source witnesses remain outside Git unless separately admitted through the governed evidence boundary.
 - [Redo of Healer](../series/redo-of-healer/) — `series/redo-of-healer/`
@@ -48,10 +51,11 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Sayonara Lara](../series/sayonara-lara/) — `series/sayonara-lara/` — Japanese-language TV anime E01-E12 source bundles inventoried and locked; analytical foundation adopted; sequential run authorized through E12 with channel-specific AV debts tracked separately.
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`
 - [Shokugeki no Soma](../series/shokugeki-no-soma/) — `series/shokugeki-no-soma/`
-- [Shuukura](../series/shuukura/) — `series/shuukura/`
+- [Shuukura / 週に一度クラスメイトを買う話](../series/shuukura/) — `series/shuukura/` — Independent V2 architecture for original-Japanese LN reading, separate web witnesses, longitudinal character and relationship analysis, and evidence-tested reconstruction; V1 remains preserved historical analysis. Primary and derived evidence remain in Drive.
 - [Silent Witch: Secrets of the Silent Witch](../series/silent-witch/) — `series/silent-witch/` — Owner-accepted Japanese-LN foundation, architecture STABILIZED at completion; V01 byte-locked with locally retained, reverified locators. Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes read in full and closed; continuous sequential run through all supplied Japanese works authorized 2026-10-14 and complete; master ledger reconciled; high-water mark -another- (lower); checkpoint, longitudinal reconciliation, three specialist arguments, four character monographs, relationship arguments, integrated synthesis and reconstruction-readiness assessment closed at author level; no reconstruction model. Primary and deterministic derived evidence remain outside Git.
 - [Solo Leveling](../series/solo-leveling/) — `series/solo-leveling/`
 - [Sound! Euphonium](../series/sound-euphonium/) — `series/sound-euphonium/`
+- [The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る](../series/cornered-mouse/) — `series/cornered-mouse/` — Connected Japanese manga project covering The Cornered Mouse Dreams of Cheese and The Carp on the Chopping Block Jumps Twice, with explicit edition/supplement boundaries, longitudinal character and relationship evidence, and separate reconstruction validation. Primary and derived evidence remain outside Git.
 - [THE IDOLM@STER CINDERELLA GIRLS (2015 Anime)](../series/the-idolmaster-cinderella-girls-2015-anime/) — `series/the-idolmaster-cinderella-girls-2015-anime/`
 - [THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)](../series/the-idolmaster-cinderella-girls-mobile-games/) — `series/the-idolmaster-cinderella-girls-mobile-games/`
 - [THE IDOLM@STER CINDERELLA GIRLS U149](../series/the-idolmaster-cinderella-girls-u149/) — `series/the-idolmaster-cinderella-girls-u149/`
@@ -59,7 +63,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Tokyo 7th Sisters](../series/tokyo-7th-sisters/) — `series/tokyo-7th-sisters/` — Game-first analytical architecture under approved design 1.1. T7S_B0001–B0003 close the exact first 11 Main episodes through 201000201 with synchronized readings, state ledgers, coverage, and bounded visual review; native source corpus/media remain external. B0002 completes Haru's first chapter and B0003 opens but does not complete Musubi's. Next candidate 201000202 is not admitted; Haru is R2 state-bounded, and no monograph, model, specialist, or synthesis is promoted.
 - [Wuthering Waves](../series/wuthering-waves/) — `series/wuthering-waves/` — post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane.
 - [YOUJO SENKI](../series/youjo-senki/) — `series/youjo-senki/`
-- [Yuri Is My Job!](../series/watayuri/) — `series/watayuri/` — Owner-approved Japanese manga architecture with the sequential-analysis lock OPEN. V01–V09 readings and all nine cumulative ledgers cover mainline through V09 Shift 46/i134, also the latest depicted present. Packaged shorts are separately bounded; V09 Shift 46.5 does not advance the endpoint, its one-shot has separate continuity, and V04 EX is promotional. V10 requires separate authorization; V10–V14 and the V10 booklet remain inventory only.
+- [Yuri Is My Job!](../series/watayuri/) — `series/watayuri/` — Prospective Japanese manga analysis of Yuri Is My Job!, with volume readings and nine cumulative responsibilities for relationships, performance, information, agency, chronology, written speech, visual form, claims and character readiness. Source continuity, separately bounded supplements and reconstruction gates are controlled by the current entrypoint and project methods.
 - [Yuru Camp](../series/yuru-camp/) — `series/yuru-camp/`
 
 <!-- END GENERATED CORPUS SERIES CATALOG -->
@@ -72,7 +76,8 @@ See the machine-readable [`series/registry.json`](../series/registry.json) for c
 
 - [Comparative Media](../studies/comparative-media/) — `studies/comparative-media/` — cross-title and cross-medium analysis, including the Mass Effect character-monograph study.
 - [Doujinshi/Fanwork Comparative Taxonomy](../studies/doujinshi-fanwork-comparative-taxonomy/) — `studies/doujinshi-fanwork-comparative-taxonomy/` — approved text and machine-readable projections for the comparative taxonomy project; the native XLSX remains REFERENCE_DRIVE.
-- [PACTRIH Ethical Topology](../studies/pactrih-ethical-topology/) — `studies/pactrih-ethical-topology/` — methodology scaffold and routing for future canonical data, interactive artifacts, validation tooling, and audits.
+- [PACTRIH Ethical Topology](../studies/pactrih-ethical-topology/) — `studies/pactrih-ethical-topology/` — Seven-axis comparative ethical topology for fictional characters/entities, factions and historical agents, with canonical numerical data and a verified interactive atlas.
+- [Project Itoh — Genocidal Organ and Harmony: From Genocidal Grammar to the Maelstrom](../studies/project-itoh-genocidal-organ-harmony/) — `studies/project-itoh-genocidal-organ-harmony/` — Source-verified comparative chronology, causal continuity and ethical-literary synthesis connecting Genocidal Organ and Harmony without altering either novel's frozen reading.
 
 <!-- END GENERATED CORPUS STUDY CATALOG -->
 

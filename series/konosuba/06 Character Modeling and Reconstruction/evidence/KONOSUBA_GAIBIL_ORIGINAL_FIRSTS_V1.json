@@ -1,0 +1,72 @@
+{
+  "schema": "konosuba.character-original-firsts.v1",
+  "serialized_utc": "2026-10-24T20:44:56.565542+00:00",
+  "generation": "GAIBIL_EXPANDED_V1",
+  "subject": "Gaibil / ガイビル",
+  "model_foundation_freeze_sha256": "e547c7cd5f828a4fb38f3f8bf54d80393cab0618714f7251236d0ab29749ea05",
+  "exact_inputs_file": "GAIBIL_SCENARIO_INPUTS_01.json",
+  "exact_inputs_sha256": "a9e615c8e0f911a052e338394761bbc134c98f64ff3c283439d78540f2e16f0d",
+  "all_original_firsts_sealed_sha256": "07bb85b81509107b0abb4196ae597a1140293dcb64451cfd40f071b4dd72f10c",
+  "cases": [
+    {
+      "case_id": "C40-GAI-A1",
+      "pair_id": "C40-GAI-A",
+      "mode": "canon_domain_counterfactual",
+      "generation": "GAIBIL_EXPANDED_V1",
+      "exact_prompt_sha256": "7a48ed3501e698819fdaceb0e77d2aecf7913206b08730cd84f7166c925c7a81",
+      "original_response_utf8": "「くっくっく、この嫉妬を前にして幕を下ろせとな？　惜しい、実に惜しいではないか。ダストよ、もう十分だけ続きを楽しむとしよう」\n\nAction: Continue the same consented staged contest for the offered ten minutes.\n\nRationale: The original project has failed, but this particular performance still provides the jealousy he values. Equal effort, safety and covered care remove the supplied competing costs for this interval. He uses the available performance rather than inventing a new audience, coercion or a revived marriage contract.\n",
+      "original_body_bytes": 590,
+      "original_body_sha256": "edb7dd47f8e717c59ccc293512e62c00355f4327eb2e4bb9b34b7c5ac77eee9f",
+      "original_receipt_sha256": "3408580bd395be652488802ccb3df71195ea06a9e09a0f044b84919e2426ae52"
+    },
+    {
+      "case_id": "C40-GAI-A2",
+      "pair_id": "C40-GAI-A",
+      "mode": "canon_domain_counterfactual",
+      "generation": "GAIBIL_EXPANDED_V1",
+      "exact_prompt_sha256": "36495c0255601d8c341904c3d3fbcfa45763829338775a101e0c0a40087d89cb",
+      "original_response_utf8": "「称賛ばかりでは、どうにも味気ないな。ここで粘ったところで、我の望む嫉妬にはならぬか。よし、幕だ。ドレックの次の願いとやらを聞きに戻ろう」\n\nAction: End this unchanged contest now and return to discuss a new wish with Doreck.\n\nRationale: The stipulated appraisal removes the valued jealousy from this available performance. There is no supplied substitute source to discover or create. Ending is a defeasible reward-directed choice, not proof that he dislikes all admiration or that the next discussion has already produced a contract or reward.\n",
+      "original_body_bytes": 614,
+      "original_body_sha256": "a4f20421c1b506df5630da593122c47f0a74b80b697000a11fec34098ea625df",
+      "original_receipt_sha256": "baea2c093e393ee0879ec276c828c6dc54081eb0a328fb39e19eed53636cac90"
+    },
+    {
+      "case_id": "C40-GAI-B1",
+      "pair_id": "C40-GAI-B",
+      "mode": "human_world_counterfactual",
+      "generation": "GAIBIL_EXPANDED_V1",
+      "exact_prompt_sha256": "1dd1b167637e68c0ed1d71874e48c25f459dacf5911466df609653e35ec9d42b",
+      "original_response_utf8": "「前の仕事を未完のままにして、よくやったと胸を張る趣味はないぞ。まずは十五分だ。お前が自分で立つために、何を練習して、どこで休むかを決めよう。その先に何を引き受けるかは、きちんと話してからだ」\n\nAction: Begin the available fifteen-minute practice/break planning with Doreck, then ask about the scope of any ongoing engagement.\n\nRationale: The acknowledged failure makes professional standing salient, while the particular client relationship supports modest practical help without a promised reward. This is a human producer's planning action, with no magic, cure, settled new price, refund or guarantee of acceptance. Beginning the schedule does not complete the new project.\n",
+      "original_body_bytes": 772,
+      "original_body_sha256": "575bab2e18776264f0f442f3945bdada45d08a99d4fd843f8589d87e905c1b1c",
+      "original_receipt_sha256": "782022444458c3d6e7c4e9cc24e558d00530129f18a51779877c6bbc7bb3a9e4"
+    },
+    {
+      "case_id": "C40-GAI-B2",
+      "pair_id": "C40-GAI-B",
+      "mode": "human_world_counterfactual",
+      "generation": "GAIBIL_EXPANDED_V1",
+      "exact_prompt_sha256": "92129db9d95079ecd4e707e5154d918865a0d58ec4b13a783a1f3e7b2e0a35c7",
+      "original_response_utf8": "「前の仕事は済んでいるぞ。そこを未払いの借りのように扱うでない。……だが、十五分くらいは付き合ってやろう。今度はお前自身でやるのだろう？　まず予定を考えるとするか」\n\nAction: Voluntarily help with the available fifteen-minute planning step while treating further work as a new discussion.\n\nRationale: There is no outstanding professional failure to repair, so he does not claim a mandatory renewal. The unchanged particular friendship can still support the same modest help. This choice is underdetermined by professional pride alone and provides no action-flip evidence for that mechanism. It sets no price and promises no accomplished improvement.\n",
+      "original_body_bytes": 731,
+      "original_body_sha256": "cdf93ff3eb9f0f619d96ad74c2403ba63d15a31cfa33a0ae643bb27dfb80f7bd",
+      "original_receipt_sha256": "e611319f9c101cd00c4fa4b6ad31bdfd39efe41fc7ff74dd15a5af36fd45f574"
+    }
+  ],
+  "original_firsts": true,
+  "original_bodies_copied_byte_exact_after_seal": true,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "source_known": true,
+  "same_informed_root": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "assessment_complete": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

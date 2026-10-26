@@ -1,0 +1,616 @@
+{
+  "schema": "KONOSUBA_DUST02_WHOLE_SUPPLIED_EDITION_ROOT_ACCEPTANCE_V1",
+  "status": "ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+  "accepted_utc": "2026-10-18T01:39:32.953430+00:00",
+  "preceding_exact_published_source": "ee740bf0023b6cc7167f80cbbc70fa949f29f232",
+  "preceding_publication_full_gate": "09 Audits and Manifests/KONOSUBA_LOCAL_RECOVERY_PUBLICATION_GATE_CLOSE.json",
+  "native_identity": {
+    "bytes": 18886514,
+    "sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+    "OPF": "item/standard.opf",
+    "OPF_sha256": "4c0f802b3540260bec7d32f73b5937450293a5c0ebcc266abe9fd9f9550fc13f",
+    "language": "ja",
+    "EPUB_version": "3.0"
+  },
+  "source_filename": "Konosuba Extra - Dust - Volume 02.epub",
+  "source_use": "Verified local EPUB, identical to the preserved admission; no new acquisition or purchase-provenance claim.",
+  "principal_admission_sha256": "1d029e984afb97a2a14624bcf53d9f2f3702efc8a2019c24f7aef6fe473c5ce6",
+  "component_admission_sha256": "7556d4758e88b8640d26d0d9cfe1e75c86b41f796253cd443de8f7db619973e8",
+  "coverage": {
+    "principal": {
+      "members": 7,
+      "P": 3052,
+      "nonempty": 2960,
+      "base": 102610,
+      "ruby": 2742,
+      "rt": 4103
+    },
+    "excluded": {
+      "containers": 16,
+      "P": 139,
+      "nonempty": 125,
+      "base": 3825,
+      "ruby": 35,
+      "rt": 62,
+      "nonP_nav": 17,
+      "native_images": 23
+    },
+    "combined": {
+      "text_containers": 23,
+      "P": 3191,
+      "nonempty": 3085,
+      "base": 106435,
+      "ruby": 2777,
+      "rt": 4165
+    },
+    "not_event_counts_or_population_denominators": true
+  },
+  "bonus": {
+    "stable_id": "DUST-02-BONUS-01",
+    "admission_alias": "DUST-02-S18",
+    "title": "仲間の秘密",
+    "member": "item/xhtml/p-010.xhtml",
+    "P": [
+      1,
+      67
+    ],
+    "base": 2031,
+    "ruby": 0,
+    "complete_literary_analysis": true,
+    "absolute_date_and_reprint_join": "OPEN"
+  },
+  "creator_roles": {
+    "prose": "昼熊",
+    "original_work": "暁なつめ",
+    "character_originals": "三嶋くろね",
+    "illustration": "憂姫はぐれ",
+    "signed_raster_comments": "Hagure/Akatsuki/Mishima separately attributed; creator framing does not determine consent"
+  },
+  "edition_date": "Actual colophon2017-12-01/ver.002; OPF modified2023-03-25 is separate from publication and fictional chronology",
+  "actual_reader_scopes": {
+    "recorded_after_actual_read_utc": "2026-10-18T01:32:03.083476+00:00",
+    "principal_argument": "All17 sections re-received; initial output missing C02-through6 recovered completely in next bounded display",
+    "P_local_assessments": "All7 exact original objects and complete independent local arguments",
+    "P_humor": "Historical root H001-H021 reused by preserved receipt; H022-H061 all fields newly displayed/read in four10-record windows",
+    "P_voice": "All35 all fields newly displayed/read in three12/12/11 windows",
+    "P_ten_ledger_proposals": "All91 complete MD semantic records read; CHARACTER_STATE JSON also read. JSON/MD semantic value equality verified; pin metadata mechanical only. No blanket full JSON lexical-reading claim.",
+    "P_source_receipt_and_manifest": "Full actual-reading receipt and full complete-author manifest received",
+    "S_principal": "Complete29580-character source-only report read in0-16000 and16000-END windows; all42 source-first event cards and21 uncoded voice cards read; full reading receipt received",
+    "S_seven": "Full MD7 arguments received; all7 structured local assessments received; duplicate exact-report strings reused from full MD; original questions verified byte/content exact",
+    "components": "Historical full16/23 root and producer component receiving and8H9V reused by preserved progress; current full P component argument, complete coordinated report/recommendations and root proposed analysis received",
+    "fresh_local_primary_windows": {
+      "C02": [
+        [
+          269,
+          291
+        ]
+      ],
+      "C03": [
+        [
+          149,
+          176
+        ],
+        [
+          181,
+          214
+        ],
+        [
+          420,
+          430
+        ],
+        [
+          572,
+          594
+        ]
+      ],
+      "C04": [
+        [
+          459,
+          470
+        ],
+        [
+          483,
+          490
+        ],
+        [
+          528,
+          550
+        ]
+      ],
+      "Final": [
+        [
+          217,
+          250
+        ],
+        [
+          331,
+          352
+        ],
+        [
+          355,
+          381
+        ],
+        [
+          436,
+          455
+        ],
+        [
+          510,
+          546
+        ]
+      ],
+      "bonus_p010": [
+        [
+          1,
+          67
+        ]
+      ]
+    },
+    "fresh_local_image_views": [
+      {
+        "image": "DUST-02-IMG18",
+        "requested_detail": "high default",
+        "native_dimensions": [
+          1443,
+          2048
+        ],
+        "returned_resized_dimensions": [
+          1312,
+          1862
+        ],
+        "observed": "Dust isolated in dynamic spear pose; image omits rope providers/casters and cannot establish solo victory",
+        "not_a_new_event_or_full23_reinspection": true
+      }
+    ],
+    "historical_root_primary_scope": "328 unique principal P plus139 excluded P and23 actual images; these are recovered earlier acts, not fresh local reading",
+    "local_primary_scope_limit": "No claim of fresh full3052 principal reading; receiving incorporates P full source-first and S informed full retrospective pass, both disclosed same AI lineage",
+    "pending_at_earlier_scope_record": "Root concrete attributable derivatives/decisions and canonical acceptance, then full publication gate; Dust03 remains closed",
+    "current": "Receiving completed and root accepted below; containing publication pending, Dust03 CLOSED."
+  },
+  "mechanical_support": {
+    "all96_principal_anchors_join_native": true,
+    "all91_MD_JSON_semantic_values_match": true,
+    "all10_ledger_baselines_exact_current_prefixes": true,
+    "seven_component_precision_operations": [
+      {
+        "owner": "root",
+        "name": "SOURCE_SAFE_DUST02_EXCLUDED_COMPONENT_REGISTER.json",
+        "original": {
+          "bytes": 33944,
+          "sha256": "a983e2794f03c60c196482db9cbde547a3aa2ddc12ade443c3a8a0121ad49498"
+        },
+        "successor": {
+          "bytes": 34114,
+          "sha256": "5ca9a33919b440e4d6730417f7997d12eac6a1a6c55bdd27cbd7ed0c1fb89a39"
+        },
+        "operations": [
+          "R01",
+          "R04"
+        ],
+        "full_forward_and_inverse_exact": true
+      },
+      {
+        "owner": "root",
+        "name": "SOURCE_SAFE_DUST02_BONUS_SELECTED_HUMOR_REGISTER.json",
+        "original": {
+          "bytes": 3596,
+          "sha256": "8e79151331473fbb4cc885c954f5b516a3c657ccfa4b3c73ff7672eec4d6ba0c"
+        },
+        "successor": {
+          "bytes": 3611,
+          "sha256": "8c5747e30e71ede31f80381766541fde31e65f4614ec3960d0fd15eda082f0f7"
+        },
+        "operations": [
+          "R02"
+        ],
+        "full_forward_and_inverse_exact": true
+      },
+      {
+        "owner": "root",
+        "name": "SOURCE_SAFE_DUST02_EXCLUDED_COMPONENT_ANALYSIS.md",
+        "original": {
+          "bytes": 13052,
+          "sha256": "4230cd10a08302e5a0863cfa2db0c8d86d6587db5b99c1cf0c5a66ddb14ed703"
+        },
+        "successor": {
+          "bytes": 13090,
+          "sha256": "d35e635a2f303b1a96f8d75b5b7954a8bc63356f9baced7587b92a6af1085d78"
+        },
+        "operations": [
+          "R03"
+        ],
+        "full_forward_and_inverse_exact": true
+      },
+      {
+        "owner": "producer",
+        "name": "KONOSUBA_DUST_V02_COMPONENT_ANALYSIS.md",
+        "original": {
+          "bytes": 15987,
+          "sha256": "3f352836256b5d5ad6e18f745b7d8876255263871f99b691ffd65744f47e611c"
+        },
+        "successor": {
+          "bytes": 16019,
+          "sha256": "95f8d1a32de868452b12a250501816412089f19f56023f0e897c83dd87d14a9f"
+        },
+        "operations": [
+          "O01"
+        ],
+        "full_forward_and_inverse_exact": true
+      },
+      {
+        "owner": "producer",
+        "name": "KONOSUBA_DUST_V02_BONUS_SELECTED_HUMOR_VOICE.json",
+        "original": {
+          "bytes": 12620,
+          "sha256": "1dd109506cacee6f1d8860ca325136482662819035a6c457f626bb12a3d82807"
+        },
+        "successor": {
+          "bytes": 12745,
+          "sha256": "a1de04d6563c0fb01228d78e3224d51a2c01cdcbbe5590afb56a87d7b213bc76"
+        },
+        "operations": [
+          "O02",
+          "O03"
+        ],
+        "full_forward_and_inverse_exact": true
+      }
+    ],
+    "checks_supply_no_semantic_reading_credit": true
+  },
+  "principal_precision_operations": [
+    {
+      "target": "KONOSUBA_DUST_V02_HUMOR_REGISTER.json",
+      "record_id": "DUST02-H023",
+      "field": "L_rationale",
+      "old": "Dust gives retreat instructions, privately calls his assurance an excuse to remove witnesses, and later reports removing a sword from the dragon.",
+      "new": "Dust gives retreat instructions, privately calls his assurance a pretext to send companions to safety, and later reports removing a sword from the dragon.",
+      "basis": "C02P775 establishes protective removal, not a uniquely demonstrated wish to remove witnesses.",
+      "codes_bounds_anchors_changed": false
+    },
+    {
+      "target": "KONOSUBA_DUST_V02_HUMOR_REGISTER.json",
+      "record_id": "DUST02-H029",
+      "field": "L_rationale",
+      "old": "Dust engineers a favorable first draw and is exposed; the second arrangement routes Small toward Vanir’s own preference.",
+      "new": "Dust engineers a favorable first draw and is exposed; Small redirects the later arrangement toward her own desired seat with Vanir.",
+      "basis": "Her already stated Vanir preference and actual recommendation, not an invented Vanir seating preference, explain her choice.",
+      "codes_bounds_anchors_changed": false
+    },
+    {
+      "target": "KONOSUBA_DUST_V02_DEEP_READING.md",
+      "old": "artifact_type: expanded_principal_deep_reading_candidate",
+      "new": "artifact_type: supplemental_principal_volume_deep_reading",
+      "reason": "Attributable canonical routing and original-proposal/current-root separation"
+    },
+    {
+      "target": "KONOSUBA_DUST_V02_DEEP_READING.md",
+      "old": "status: PRIVATE_RECEIVING_CANDIDATE",
+      "new": "status: canonical\ndo_not_use_as_current_authority: false\nsupersedes: []\nsuperseded_by: []",
+      "reason": "Attributable canonical routing and original-proposal/current-root separation"
+    },
+    {
+      "target": "KONOSUBA_DUST_V02_DEEP_READING.md",
+      "old": "## 14. Seven entering questions: local assessments",
+      "new": "## 14. Preserved producer proposals for the seven entering questions",
+      "reason": "Attributable canonical routing and original-proposal/current-root separation"
+    },
+    {
+      "target": "KONOSUBA_DUST_V02_DEEP_READING.md",
+      "old": "Seven DUST01 exploratory questions were pinned before DUST02 narrative:",
+      "new": "The following are the original producer proposals; current root dispositions in section18 and the separate assessment JSON supersede their local labels only. Seven DUST01 exploratory questions were pinned before DUST02 narrative:",
+      "reason": "Attributable canonical routing and original-proposal/current-root separation"
+    }
+  ],
+  "current_seven_dispositions": [
+    {
+      "id": "DUST01-N01",
+      "current_root_category": "PARTIAL_MIXED_SUPPORT_AND_DIRECT_CONTRARY",
+      "P_original_category": "PARTIAL",
+      "S_original_category": "C",
+      "support": "Final217-250: Dust actually transports particular impaired companions despite explicit attractive sleep/dream offers and his anticipated fatal consequence; urgency, available action and pleasure tradeoff are shown. The externally imposed drain is a broad coercive constraint; direct-agent-only eligibility is uncertain.",
+      "direct_contrary": "C03P149 gives Yunyun’s explicit refusal before P156-176 gives Dust knowledge of induced attraction and his deliberate plan; P420-424 depicts execution for gratification. He can refrain from using the device and chooses the dispensable reward instead. Causing understood coercion is not an unstated exemption from protective conduct. No further moral acknowledgment or external perpetrator is required by the original question.",
+      "scope_and_rivals": "These are mixed within-volume directions, not one clean passed trial. The pleasure-caused coercion is direct adverse evidence, not merely a general morality footnote. Chris scapegoating (C04P483-490) remains adverse but immediate escape is not an established leisure alternative. The Final hostage bluff changes a numerically bad encounter (P355-381), rather than depicting leisure replacing action. Do not pool these unlike triggers or erase any harm.",
+      "model_transition": "Retain bounded emergency carrying and reject an exceptionless protective hierarchy. This local mixed disposition does not fill the original fields or repair R1."
+    },
+    {
+      "id": "DUST01-N02",
+      "current_root_category": "PARTIAL_CONJUNCTION_AND_ATTRIBUTION_LIMIT",
+      "P_original_category": "CONFIRMED",
+      "S_original_category": "C",
+      "support": "Final223-250 gives actual Leen-directed help, a usable bodily resource, effort, tempting rest and refusal to leave residual danger. C01P166-169 and EpiP56-67 add relational care with less explicit competing resource value.",
+      "direct_contrary": "No repeated fully matched withholding pattern is established. Yunyun’s toy is cross-target evidence and cannot confirm a Leen-specific claim.",
+      "scope_and_rivals": "The gentle smile/support at P224-225 is overt; the complaints at P230-231 can minimize tenderness but also express actual labor resentment. They do not unambiguously identify concealed tenderness as the mechanism. Self-preservation and need for fighting partners (P236-237/P245) remain live contributors. No unique, pure or exclusively Leen motive is made a new requirement. The full concealment/minimization-and-care conjunction has less support than the help act itself, so the current whole-question conclusion is partial.",
+      "model_transition": "Strengthen observed particular practical care at moderate generalization confidence; keep the tenderness mechanism open. Preserve both readers’ supportive original labels as authored history."
+    },
+    {
+      "id": "DUST01-N03",
+      "current_root_category": "PARTIAL",
+      "P_original_category": "PARTIAL",
+      "S_original_category": "P",
+      "support": "C02P635 contrasts spear advantage with sword stalling; Final532-541 supplies actual trained spear action. EpiP50-61 gives concealment and willingness to disclose.",
+      "direct_contrary": "Public skill display and actual willingness to speak defeat absolute secrecy, but do not show admiration-only advertising under an independently unchanged binding restraint.",
+      "scope_and_rivals": "A weapon’s usefulness, its physical availability and a binding older rule are different facts. Do not infer an active oath from nonuse, a full identity from hearsay, or a proven permission change from successful protection.",
+      "model_transition": "Preserve domain-specific capacity; leave exact identity, old restraint and permission appraisal open."
+    },
+    {
+      "id": "DUST01-N04",
+      "current_root_category": "PARTIAL_WITH_GENUINE_CHECKING_COUNTEREVIDENCE",
+      "P_original_category": "PARTIAL",
+      "S_original_category": "P",
+      "support": "C03P159-160 cuts off further instructions after an attractive promised effect. The attention mechanism is plausible but exact unheard earlier content is not established.",
+      "direct_contrary": "Ownership inquiry/assurance (P157-158), retained familiarity restriction (P172-176), proactive ticket inquiry (P18-23), and successful physical/document checks (P572-594) are real attentive evidence. They cannot be exempted because earlier fraud made caution salient.",
+      "scope_and_rivals": "Do not backdate the later reader-only duration account P477-478 into delivered pre-choice terms. Concealed client numbers and fraudulent album contents are not known terms ignored. Recruitment goal substitution and memory retrieval failure are neighboring mechanisms, not automatically full matches to timing/ownership/provider clauses.",
+      "model_transition": "Retain a low-confidence reward-sensitive inquiry risk and downgrade any global contract-blindness account."
+    },
+    {
+      "id": "DUST01-N05",
+      "current_root_category": "PARTIAL",
+      "P_original_category": "PARTIAL",
+      "S_original_category": "P",
+      "support": "C02P284-290 gives Leen’s initial request and a limited emergency role proposed by Dust and accepted by Small. C03P187-214 and the seating choice preserve her Vanir preference; Final516 supplies actual owned dream-access leverage.",
+      "direct_contrary": "Impaired hostage use at Final365-376 is actual instrumentalization without free agreement, not a voluntary unlimited service response. Dangerous fraud participation leaves exact freely usable veto knowledge uncertain.",
+      "scope_and_rivals": "Professional praise plus costly Dust request is not cleanly isolated: C03P194 recognition is internal, P193 claims credit, and Vanir attendance explains acceptance. Final366 is Small’s sleepy no-touch protest, whereas P377-379 are unnamed women’s comments grouped at P380; P378 is not uniquely hers.",
+      "model_transition": "Preserve bounded agency and access ownership, with missing praise conjunction explicit. Do not turn lack of power while impaired into freely waived agency."
+    },
+    {
+      "id": "DUST01-N06",
+      "current_root_category": "BOUNDED_SUPPORT_C",
+      "P_original_category": "CONFIRMED",
+      "S_original_category": "C",
+      "support": "Final355-381 explicitly notices numerical disadvantage before a changed-room hostage bluff; P436-455 recruits actual evacuation carriers; P510-546 depicts role recruitment, ropes, shields, leg cuts, spear and Lightning. Geometry/materials/providers are alternatives, not a mandatory all-three conjunction.",
+      "direct_contrary": "C01P43-55 abandons a working rope role, disregards warning and ends in actual death. His bound-monster appraisal limits a clean acknowledged-inferiority match, while leaving serious overconfidence and underchecking visible.",
+      "scope_and_rivals": "The hostage target did not agree. Numerical tactical rearrangement does not require an ethical-approval threat and does not establish innocence. The later three pullers are recruited former criminals, not the earlier bounty client. Effective spear penetration alone does not stop the machine; the blast injury remains.",
+      "model_transition": "Strengthen conditional practical rearrangement with phase/provider limits, no solo-victory, modern engineering or safe-total-recovery claim."
+    },
+    {
+      "id": "DUST01-N07",
+      "current_root_category": "BOUNDED_SUPPORT_C",
+      "P_original_category": "CONFIRMED",
+      "S_original_category": "C",
+      "support": "The seating scheme is desired-alliance inference despite Small’s already stated Vanir preference (C03P187-214/P350-378). Her independent choice exposes the missing rival.",
+      "direct_contrary": "Actual document investigation (C03P572-594), causal rival testing (Final97-100/P185-190), visible-eye revision (P499-500) and recognition of Yunyun’s rivalry purpose before her confirmation (C04P540-541) show real consideration/updating.",
+      "scope_and_rivals": "Unavailable reader-only knowledge is not refusal of a known warning, and an unverified guess is not automatically a proven falsehood. Vanir’s intervention and Small’s aims contribute to the seating result.",
+      "model_transition": "Retain a bounded desire-sensitive initial-attribution tendency at moderate generalization confidence and domain-specific competence."
+    }
+  ],
+  "original_question_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+  "all14_original_fields_blank": true,
+  "selected_records": {
+    "principal_humor": 61,
+    "principal_voice": 35,
+    "principal_codes_bounds_anchors_unchanged": true,
+    "bonus_producer_H_V": [
+      8,
+      9
+    ],
+    "bonus_root_H_V": [
+      4,
+      4
+    ],
+    "bonus_sets_overlapping_dependent_not_pooled_agreement": true
+  },
+  "ten_ledger_updates": [
+    {
+      "role": "CHARACTER_STATE",
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "before_bytes": 210848,
+      "before_sha256": "1935a87b0cf9b098c7ca171b8b26e394c327ba864b618bc6654a3f642fdb8e32",
+      "append_bytes": 7113,
+      "after_sha256": "44e093dc80580ddbd81fc9c77e04089ba1c8a993c9dcac30139dce8c8baec99c",
+      "principal_adopted_records": 9,
+      "root_bonus_records": 1,
+      "unchanged_prefix": true
+    },
+    {
+      "role": "RELATIONSHIP_STATE",
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "before_bytes": 142432,
+      "before_sha256": "1792c1663006edc662685e31171a7ade54a8e61558909bc82f056511d05163d9",
+      "append_bytes": 6688,
+      "after_sha256": "79961dfd8ef43c74c18dca76ef022c2954c68003228d420bfc8f0c56530d5bfe",
+      "principal_adopted_records": 9,
+      "root_bonus_records": 1,
+      "unchanged_prefix": true
+    },
+    {
+      "role": "DECISION_ERROR",
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "before_bytes": 190777,
+      "before_sha256": "6f7f991fb6973bf669fa392de90af8c805f10160123ea05b1d8b27f6bbbb6a30",
+      "append_bytes": 9353,
+      "after_sha256": "8a8a3d5896295e2582c65faa269e858280a808bfd882e0230d1358ca17229220",
+      "principal_adopted_records": 15,
+      "root_bonus_records": 1,
+      "unchanged_prefix": true
+    },
+    {
+      "role": "COMPETENCE_CONTEXT",
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "before_bytes": 139082,
+      "before_sha256": "f34cad1db3ff18f2a4bfe4425578c379b0323852070564f6dabf1f0b3db76115",
+      "append_bytes": 6311,
+      "after_sha256": "77799244496b821ffb518075c4628afdeb139824adf2295418911147b2bfafcb",
+      "principal_adopted_records": 9,
+      "root_bonus_records": 1,
+      "unchanged_prefix": true
+    },
+    {
+      "role": "HUMOR_MECHANICS",
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "before_bytes": 716831,
+      "before_sha256": "ef23a19b7580ed23dd29fad139974065a0997900017af835f48961656eea29e9",
+      "append_bytes": 5021,
+      "after_sha256": "4633311b89329c2d978f456742cf6adc3a3aeea24e2f46f522e3e918b0bea2ae",
+      "principal_adopted_records": 6,
+      "root_bonus_records": 1,
+      "unchanged_prefix": true
+    },
+    {
+      "role": "JAPANESE_VOICE_HUMOR",
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "before_bytes": 528640,
+      "before_sha256": "3f8f67673af0d2f3ff34025f13ccd9b07e44f7a48181905370bf47bc8a50fbab",
+      "append_bytes": 5501,
+      "after_sha256": "7f7e5228cd513ea9001c37b3cb97220dce324d729eb418ae1e5d9a55ee765877",
+      "principal_adopted_records": 7,
+      "root_bonus_records": 1,
+      "unchanged_prefix": true
+    },
+    {
+      "role": "SERIOUSNESS_OVERRIDE",
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "before_bytes": 107589,
+      "before_sha256": "5dfa9c894b63460ec43eb676bbdc787255e56b1f9f8e391b9ab29c5532c8448f",
+      "append_bytes": 5621,
+      "after_sha256": "2a3167ad31f929035f6622db4694f640db2af1206d8c03f06bc0597b0b47f372",
+      "principal_adopted_records": 8,
+      "root_bonus_records": 1,
+      "unchanged_prefix": true
+    },
+    {
+      "role": "KAZUMA_NARRATOR",
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "before_bytes": 122514,
+      "before_sha256": "1d265f404dfb142bbca04411cf8dbd3aa1d3650e189a5adf4961bd7175cf80e0",
+      "append_bytes": 7488,
+      "after_sha256": "17165c32a6f47920f6fd7c9f5422422ed6846972ee44b584fa5d4a34787aef5b",
+      "principal_adopted_records": 11,
+      "root_bonus_records": 1,
+      "unchanged_prefix": true
+    },
+    {
+      "role": "ORDINARY_LIFE_PREFERENCES",
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "before_bytes": 118771,
+      "before_sha256": "f1ced33f2ac4868c20e346fa768af0d806cf8e41ab1cd337f2d820d111e0b3eb",
+      "append_bytes": 6566,
+      "after_sha256": "fa5b0f61880ff89d35e35de03658eaf3a01c626ca62919262807cd59a4309e67",
+      "principal_adopted_records": 10,
+      "root_bonus_records": 1,
+      "unchanged_prefix": true
+    },
+    {
+      "role": "MODEL_PREDICTION_VALIDATION",
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "before_bytes": 978139,
+      "before_sha256": "29b4143df2e6a14e6cab34add77ceaa0dfaf55d8360c459ef7aa4824afed4bee",
+      "append_bytes": 9911,
+      "after_sha256": "1898135a4249dfde61f213e0cf467d105683ad0ab6ca1e2af2a4061b34669ec3",
+      "principal_adopted_records": 7,
+      "root_bonus_records": 1,
+      "unchanged_prefix": true
+    }
+  ],
+  "S_report_precision": "C04P465 shows pulling clinging Small away from Vanir himself; a protective rescue/extrication is not independently established. Original S sentence/report is preserved with this qualification.",
+  "separation": "S source-only report/inventory and then seven assessments preceded P/root label exposure. Root now receives both retrospectively. Same AI lineage, different known-source histories, no independent prospective validation.",
+  "frozen_preservation": {
+    "current_immutable_suite_products": 66,
+    "historical_products_at_3b92": 72,
+    "freeze_sha256": "a446f7f59c9ae1044a42b6ebe525bb75e8bfde00e78d9a10ec0dc73f67ce06a4",
+    "four_scorecards": {
+      "YORI01": {
+        "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_ACCEPTED_ADJUDICATIONS.json",
+        "sha256": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026"
+      },
+      "MASK": {
+        "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_ACCEPTED_ADJUDICATIONS.json",
+        "sha256": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967"
+      },
+      "DUST06": {
+        "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_ACCEPTED_ADJUDICATIONS.json",
+        "sha256": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e"
+      },
+      "DUST07": {
+        "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ACCEPTED_ADJUDICATIONS.json",
+        "sha256": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+      }
+    },
+    "no_new_Gen06_out_of_sample_J01_J02_score": true
+  },
+  "remaining_program": "Seventeen supplemental whole editions, all17 main excluded-component programs, both TRPG acceptances, expanded synthesis, attributable Stage D models/secondary treatments, full synthesis/indexes/final audit/release remain. Threeof5 mixed programs accepted/published; global component denominator unresolved, percentage null.",
+  "next_source_gate": "Dust03 CLOSED until containing nonforce push/exact readback/source audit/housekeeping/final actual-source audit/status and fresh authority reload, then separate admission. Core separately admitted and unaccepted.",
+  "acceptance_limit": "Literary/component treatment of this fixed supplied EPUB; no semantic audit of every CSS/font byte or certification of all external editions. No raw source/images/full transcription published.",
+  "transported_private_artifact_pins": [
+    {
+      "artifact_alias": "expanded-dust02-producer/source-safe-candidate-v1/KONOSUBA_DUST_V02_DEEP_READING.md",
+      "bytes": 42596,
+      "sha256": "49b7bd943cc1237fd7f41e052e518616318096ae985ed8216ceebf7087944d27"
+    },
+    {
+      "artifact_alias": "expanded-dust02-producer/source-safe-candidate-v1/KONOSUBA_DUST_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 23664,
+      "sha256": "8ed564c2fd05afa7cc92b4f6146bd3a54899595c9525ec3b1862c2373ada6553"
+    },
+    {
+      "artifact_alias": "expanded-dust02-producer/source-safe-candidate-v1/KONOSUBA_DUST_V02_HUMOR_REGISTER.json",
+      "bytes": 121023,
+      "sha256": "a655d286cd2e03555bcd892648c176207f620d7135f331c735022e8b75cbd311"
+    },
+    {
+      "artifact_alias": "expanded-dust02-producer/source-safe-candidate-v1/KONOSUBA_DUST_V02_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 16839,
+      "sha256": "21b41747057bab12038324e8367ea7084a851f91ddcf6f764962c48432e85080"
+    },
+    {
+      "artifact_alias": "expanded-dust02-producer/source-safe-candidate-v1/KONOSUBA_DUST_V02_VOICE_REGISTER.json",
+      "bytes": 58674,
+      "sha256": "3b96af92cd6ed3c8ace8e86f09191ba3e1186cbca00ac3f60d5c0a8c56f82c17"
+    },
+    {
+      "artifact_alias": "expanded-dust02-principal-semantic/ACTUAL_FULL_ORDERED_PRINCIPAL_READ_RECEIPT.json",
+      "bytes": 5331,
+      "sha256": "0a587b65330c778fdb28129c5b88e29fae2f7d2e10ddcd4bb4622f25e45cb4bb"
+    },
+    {
+      "artifact_alias": "expanded-dust02-principal-semantic/DUST02_INITIAL_COMPLETE_PRINCIPAL_UNCODED_SEAL_v1.json",
+      "bytes": 3407,
+      "sha256": "0793d650425bb275c55e15f591920c9e3e7abfcdf504757bbe37299db6d7cbb3"
+    },
+    {
+      "artifact_alias": "expanded-dust02-principal-semantic/INITIAL_SOURCE_FIRST_EVENT_AND_VOICE_INVENTORY.json",
+      "bytes": 78406,
+      "sha256": "3f44197c3ce78fe0cdbadfa066eb1d877d9e3151399f0a35082a9c1701e649e8"
+    },
+    {
+      "artifact_alias": "expanded-dust02-principal-semantic/INITIAL_SOURCE_ONLY_PRINCIPAL_REVIEW.md",
+      "bytes": 29898,
+      "sha256": "47cbaf346c4d011096532a98edbe98607cb7c2fb2ff838acd3347cb4459397ad"
+    },
+    {
+      "artifact_alias": "expanded-dust02-principal-semantic/PRE_INITIAL_SEAL_AUTHOR_QA_PRECISION.json",
+      "bytes": 1041,
+      "sha256": "ced615752aae4bc6c41442943784c056cb92a490d5955ba2f589e2bf7234594c"
+    },
+    {
+      "artifact_alias": "expanded-dust02-principal-semantic/seven-retrospective-assessments-v1/ACTUAL_BOUNDED_REREADS_AND_LITERAL_REUSE_RECEIPT.json",
+      "bytes": 2784,
+      "sha256": "e16d85d70f194accd7e261265f497b0d98a9722a736841b7c62b3fe0a75490c3"
+    },
+    {
+      "artifact_alias": "expanded-dust02-principal-semantic/seven-retrospective-assessments-v1/DUST02_SEVEN_RETROSPECTIVE_INITIAL_SEAL_v1.json",
+      "bytes": 2755,
+      "sha256": "4de69f7f3aee3d56fce7c078429e3f0fdf57f2540f401f561b07d76df2bdd007"
+    },
+    {
+      "artifact_alias": "expanded-dust02-principal-semantic/seven-retrospective-assessments-v1/EXACT_LITERAL_AND_SCOPE_PRESERVATION_PROOF.json",
+      "bytes": 607,
+      "sha256": "db7a9c92c7d81139b65ee72fa8be62764b1742c692005351402d3bc0d539c01d"
+    },
+    {
+      "artifact_alias": "expanded-dust02-principal-semantic/seven-retrospective-assessments-v1/EXACT_ORIGINAL_SEVEN_QUESTION_BYTES.json",
+      "bytes": 10914,
+      "sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f"
+    },
+    {
+      "artifact_alias": "expanded-dust02-principal-semantic/seven-retrospective-assessments-v1/SEVEN_RETROSPECTIVE_LITERAL_ASSESSMENTS.json",
+      "bytes": 41369,
+      "sha256": "14ee295ef7b717e53dc4c914eac40eac49c6ef58b4bb5ed9d214c724aa7313fb"
+    },
+    {
+      "artifact_alias": "expanded-dust02-principal-semantic/seven-retrospective-assessments-v1/SEVEN_RETROSPECTIVE_LITERAL_ASSESSMENTS.md",
+      "bytes": 17365,
+      "sha256": "1baeb4809aea64ebc690fb5c51124be2c17b6a3cbdb516ab447126592ded6fc8"
+    }
+  ],
+  "transport_pin_limit": "These identify actual received export streams; MANIFEST/SHA256SUMS and the separate37 acquisition-path-redaction mapping distinguish exported from original-seal hashes. No blanket original/export equality claim."
+}

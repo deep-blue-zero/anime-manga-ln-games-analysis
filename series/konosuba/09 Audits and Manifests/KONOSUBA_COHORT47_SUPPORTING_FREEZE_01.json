@@ -1,0 +1,40 @@
+{
+  "schema": "konosuba.cohort47.source-safe-supporting-freeze.v1",
+  "frozen_utc": "2026-10-25T12:49:09.478940+00:00",
+  "private_complete_freeze_sha256": "1a87213cf1555dde03ceb7f91f74c9e2fa6d80d9f2419e02bac280af4fb0f820",
+  "pins": [
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_TYPED_SUPPORTING_ROUTES_01.json",
+      "bytes": 94762,
+      "sha256": "b252118723bc4fb448f4052ab91d928cf99fadfb761414becdcf64e3f4578935"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT47_ENCOUNTER_CREATURE_AND_GROUP_PROFILES.md",
+      "bytes": 8450,
+      "sha256": "376943373896911c24354191b5b61f00b540bb854f8a3c472fceeaebe426a20d"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_SUPPORTING_DIMENSION_AUDIT_01.json",
+      "bytes": 10996,
+      "sha256": "d5dff4288a24bcb115a91b421e5be2d8fe2cba4967c9e496b0333f2c04dd7fc6"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md",
+      "bytes": 7402,
+      "sha256": "560372d61d83d2018218b3e796e4d6dd79b56fece5beb024037662d819535ae0"
+    }
+  ],
+  "complete_route_review_pages": 10,
+  "full_profile_audit_index_review": true,
+  "bounded_profiles": 4,
+  "Tier0_source_access_routes": 50,
+  "new_records": 54,
+  "existing_supplement_rows": [
+    202,
+    570
+  ],
+  "typed_relation_contract": "Existing/new possibilities, possible member overlap, possible role fillers, comparisons, known context and explicit exclusions remain distinct. Known-context edges do not assert identity. A group and a member route do not add independent people; source text retains reported or observed membership. All relation arrays are unique, and each target has one relation category per route.",
+  "all26_core_pins_exact_after_feedback": true,
+  "independent_or_grade_gain": 0,
+  "full_program_complete": false
+}

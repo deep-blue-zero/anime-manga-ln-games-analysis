@@ -1,0 +1,242 @@
+{
+  "schema": "KONOSUBA_MAIN16_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-16",
+  "records": [
+    {
+      "id": "M16EX-H01",
+      "boundary": {
+        "component_id": "MAIN-16-U023",
+        "start_P": 1,
+        "end_P": 12
+      },
+      "whole_selected_premise": "Kazuma mistakes a mother's approach for romantic interest, discovers she wants absent Aqua's water, and learns her reported household use exceeds his picture of Aqua.",
+      "primary_L": "L2",
+      "L_rationale": "The misread encounter, correction and admitted gap in familiar-person knowledge depend on local social expectations.",
+      "primary_H": "H1",
+      "H_rationale": "Approach, question, explanation and departure are actual; the child's allergy benefit is the mother's report, not a directly observed treatment test.",
+      "source_plane": "New electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "The unknown mother and child remain unnamed; Aqua is absent and makes no new choice here.",
+      "native_member": "item/xhtml/p-015.xhtml",
+      "native_member_sha256": "8e1d09e30012bdb402812786a946e7a783b7b718481c05158ecb346636983da9",
+      "formal_assignment_after_seal_utc": "2026-10-19T21:08:27.662258+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M16EX-H02",
+      "boundary": {
+        "component_id": "MAIN-16-U023",
+        "start_P": 13,
+        "end_P": 19
+      },
+      "whole_selected_premise": "Pierre's advertised capital reputation meets a sparse Axel audience whose supposed difficulty is new information to Kazuma.",
+      "primary_L": "L2",
+      "L_rationale": "Self-introduction, expert boasting and audience status contrast organize the opening.",
+      "primary_H": "H1",
+      "H_rationale": "The announcement, gathering and sparse applause occur. The capital ranking and city-wide reputation are his claims, not a measured hierarchy.",
+      "source_plane": "New electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "Pierre is explicitly named; his self-presentation is not proof of every ability or a full life history.",
+      "native_member": "item/xhtml/p-015.xhtml",
+      "native_member_sha256": "8e1d09e30012bdb402812786a946e7a783b7b718481c05158ecb346636983da9",
+      "formal_assignment_after_seal_utc": "2026-10-19T21:08:27.662258+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M16EX-H03",
+      "boundary": {
+        "component_id": "MAIN-16-U023",
+        "start_P": 20,
+        "end_P": 26
+      },
+      "whole_selected_premise": "Children expect impossible-looking animals or coordinated crows from the bag; Pierre instead declares it a preliminary candy container and offers a sweet.",
+      "primary_L": "L2",
+      "L_rationale": "Raised expectations force an improvised reclassification of the same prop and a face-saving offer.",
+      "primary_H": "H1",
+      "H_rationale": "Expectations, his hesitation, explanation and actual removed sweets are literal. The spectacular Aqua tricks are attributed memories, not newly performed here.",
+      "source_plane": "New electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "No actual beginner-killer/crow flock appears; candy offered does not prove a particular child's receipt.",
+      "native_member": "item/xhtml/p-015.xhtml",
+      "native_member_sha256": "8e1d09e30012bdb402812786a946e7a783b7b718481c05158ecb346636983da9",
+      "formal_assignment_after_seal_utc": "2026-10-19T21:08:27.662258+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M16EX-H04",
+      "boundary": {
+        "component_id": "MAIN-16-U023",
+        "start_P": 27,
+        "end_P": 36
+      },
+      "whole_selected_premise": "An announced disappearance and 'no tricks' assurance produce fear for the helper rather than admiration, while adults actually go to call police.",
+      "primary_L": "L1",
+      "L_rationale": "Ordinary illusion patter is interpreted as a literal claim about a real magical capability; the wording matters but can be translated.",
+      "primary_H": "H1",
+      "H_rationale": "The fear, objections and police-seeking are actual responses under the received premise. No physical erasure is established merely by the announcement.",
+      "source_plane": "New electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "The audience's world has possible real powers; fear is not a diagnosed incapacity or proof the helper is actually killed.",
+      "native_member": "item/xhtml/p-015.xhtml",
+      "native_member_sha256": "8e1d09e30012bdb402812786a946e7a783b7b718481c05158ecb346636983da9",
+      "formal_assignment_after_seal_utc": "2026-10-19T21:08:27.662258+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M16EX-H05",
+      "boundary": {
+        "component_id": "MAIN-16-U023",
+        "start_P": 37,
+        "end_P": 44
+      },
+      "whole_selected_premise": "Pierre proceeds despite the alarm, the helper vanishes from sight, and an apparent successful effect makes the crowd accuse him of a crime.",
+      "primary_L": "L2",
+      "L_rationale": "He initially misreads alarm as approval, then tries to restore the performance frame after an observable reaction change.",
+      "primary_H": "H1",
+      "H_rationale": "Cloak drop, disappearance, panic and his protest occur. Visual disappearance and criminal bodily destruction are different propositions.",
+      "source_plane": "New electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "Helper's exact agency, location and return are not shown; the later mechanism is his report.",
+      "native_member": "item/xhtml/p-015.xhtml",
+      "native_member_sha256": "8e1d09e30012bdb402812786a946e7a783b7b718481c05158ecb346636983da9",
+      "formal_assignment_after_seal_utc": "2026-10-19T21:08:27.662258+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M16EX-H06",
+      "boundary": {
+        "component_id": "MAIN-16-U023",
+        "start_P": 45,
+        "end_P": 50
+      },
+      "whole_selected_premise": "Police take Pierre's own 'no tricks' claim literally; he retracts it and explains the helper can Teleport while being led away.",
+      "primary_L": "L1",
+      "L_rationale": "The authority's use of the performer's earlier assurance turns a genre formula into an incriminating premise.",
+      "primary_H": "H1",
+      "H_rationale": "Questioning, actual removal and his concrete corrective disclosure occur. It is a remedy attempt without narrated release or a verified crime.",
+      "source_plane": "New electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "No completed conviction, permanent disappearance, proven false police testimony or final helper return is supplied.",
+      "native_member": "item/xhtml/p-015.xhtml",
+      "native_member_sha256": "8e1d09e30012bdb402812786a946e7a783b7b718481c05158ecb346636983da9",
+      "formal_assignment_after_seal_utc": "2026-10-19T21:08:27.662258+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M16EX-H07",
+      "boundary": {
+        "component_id": "MAIN-16-U023",
+        "start_P": 51,
+        "end_P": 57
+      },
+      "whole_selected_premise": "Once ordinary Teleport is disclosed, the crowd dismisses the trick; Kazuma infers that Aqua has trained unusual expectations and admits that her life in town exceeds his knowledge.",
+      "primary_L": "L2",
+      "L_rationale": "Devaluation after clarification and a familiar-person knowledge reversal carry the whole effect.",
+      "primary_H": "H1",
+      "H_rationale": "Actual comments and Kazuma's inference are literal. Aqua's earlier no-trick prowess and routinely crushing performers remain attributed claims or inference.",
+      "source_plane": "New electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "His 'probably' matters; a current Aqua art-standard, payment or identity-response trial is not created.",
+      "native_member": "item/xhtml/p-015.xhtml",
+      "native_member_sha256": "8e1d09e30012bdb402812786a946e7a783b7b718481c05158ecb346636983da9",
+      "formal_assignment_after_seal_utc": "2026-10-19T21:08:27.662258+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M16EX-H08",
+      "boundary": {
+        "component_id": "MAIN-16-U023",
+        "start_P": 58,
+        "end_P": 60
+      },
+      "whole_selected_premise": "Kazuma finishes food shopping and comes home to a report of Aqua's bar tab, turning new appreciation into a future intention to watch her more carefully.",
+      "primary_L": "L2",
+      "L_rationale": "The final household cost changes the meaning of the preceding favorable discovery without making it unreal.",
+      "primary_H": "H1",
+      "H_rationale": "Shopping, homecoming, received bill report and stated intention occur; repayment and future monitoring do not.",
+      "source_plane": "New electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "P59 is untagged household speech. Polite endings alone do not identify Megumin, Darkness or another speaker.",
+      "native_member": "item/xhtml/p-015.xhtml",
+      "native_member_sha256": "8e1d09e30012bdb402812786a946e7a783b7b718481c05158ecb346636983da9",
+      "formal_assignment_after_seal_utc": "2026-10-19T21:08:27.662258+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M16EX-H09",
+      "boundary": {
+        "component_id": "MAIN-16-U020",
+        "start_P": 4,
+        "end_P": 8
+      },
+      "whole_selected_premise": "The creator calls this a serious(?) low-Aqua volume and summarizes heroic self-training for companions, again adding that it is probably roughly right.",
+      "primary_L": "L2",
+      "L_rationale": "Question marks, heroic compression and a repeated understated qualification frame reader recognition.",
+      "primary_H": "H2",
+      "H_rationale": "Real pursuit, training and concern underlie an amplified heroic account. Technical providers, mixed motives, fear and costs remain in the accepted main.",
+      "source_plane": "Creator afterword.",
+      "eligibility_and_limits": "Creator intent and framing are not new canonical actions or a present news claim.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "03ee72be3689dbae0c338f1285f111365f9cc347c2cccab176e0d869f8ae1966",
+      "formal_assignment_after_seal_utc": "2026-10-19T21:08:27.662258+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M16EX-H10",
+      "boundary": {
+        "component_id": "MAIN-16-U009",
+        "image_id": "MAIN-16-IMG019"
+      },
+      "whole_selected_premise": "Editorial profiles condense the quartet, Wiz and Vanir into memorable extreme labels and roles.",
+      "primary_L": "L1",
+      "L_rationale": "Capsule labels and absolutes shape the exaggeration; they remain translatable characterization rather than Japanese-only form dependence.",
+      "primary_H": "H2",
+      "H_rationale": "Known interests and limits are amplified into shorthand. The profiles do not establish global uselessness, exclusive motives or no other interests.",
+      "source_plane": "Editorial raster profile.",
+      "eligibility_and_limits": "Chomusuke and Zel remain separately labeled; editorial portraits are not new episodes.",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "native_member_sha256": "815b6430cb7211dd91c0ce6a208e759a49f9eb5a3cd8a0c478924ec79206438a",
+      "native_image_sha256": "1d4bf461d667db2817ab9d8e177f8a3b8ce7a60f475693b2300b079e8c7ec9f8",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T21:08:27.662258+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M16EX-H11",
+      "boundary": {
+        "component_id": "MAIN-16-U021",
+        "image_id": "MAIN-16-IMG028"
+      },
+      "whole_selected_premise": "The NEXT17 script turns costly power into money-fueled bravado, contradicts Megumin's remembered position and ends with boxed Aqua asking whether she has been forgotten.",
+      "primary_L": "L2",
+      "L_rationale": "Callbacks, explicit contradiction and the interrupted purpose organize the staged preview.",
+      "primary_H": "H4",
+      "H_rationale": "This is an explicitly promotional script, not an admitted MAIN17 event or an actual Demon King Megumin title.",
+      "source_plane": "Promotional raster script.",
+      "eligibility_and_limits": "No performed banknote attack, castle destruction, actual cat transformation or next-volume reading follows.",
+      "native_member": "item/xhtml/p-013.xhtml",
+      "native_member_sha256": "3757164fbea03112e67f9f271b8046ed262f84c7c8feb0b01a172dd6b4aa5aef",
+      "native_image_sha256": "7ac02aa760c02855566af6bffb4d45ac6845cb443de4ff9dd312aa7c7b3eb83e",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T21:08:27.662258+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M16EX-H12",
+      "boundary": {
+        "component_id": "MAIN-16-U024",
+        "image_id": "MAIN-16-IMG004"
+      },
+      "whole_selected_premise": "The author's biography tells of an artist-parent expectation, a requested drawing praised as a novel raccoon, and an unspoken correction that it was a cat.",
+      "primary_L": "L2",
+      "L_rationale": "The repeated surprise and withheld correction depend on social expectation and face-saving sequence.",
+      "primary_H": "H1",
+      "H_rationale": "This is an actually printed self-deprecating contributor anecdote, at its attributed report plane. It is not a witnessed fictional event or independent proof of each biographical act.",
+      "source_plane": "Contributor jacket biography.",
+      "eligibility_and_limits": "The account grants no Kazuma/Aqua drawing skill and supplies no stable competence measure.",
+      "native_member": "item/xhtml/p-allcover-001.xhtml",
+      "native_member_sha256": "bb688112e919b4f28b6ef0aaf5454ccf9df3c1731a246c242c0fae3668daedfd",
+      "native_image_sha256": "84a1f954b7c4916268a27b6381adbe14480c9e3a43ae534679d5723c6bc2c2b5",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T21:08:27.662258+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    }
+  ],
+  "H_protocol": "H1 literal acts or attributed statements; H2 underlying reaction with amplified intensity; H3 only behavior contingent on a local gag, not uncertainty; H4 staged/nonliteral presentation rather than fantasy automatically. Actual and projected effects remain different.",
+  "L_protocol": "L0 structurally portable; L1 phrasing-sensitive; L2 register/pragmatic stance; L3 central Japanese-form dependence. Whole effects and named nested forms are distinct; selected overlap is not a denominator."
+}

@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.7
+generation: V0.41
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -29,6 +29,7 @@ project_initialization:
   required_day_one_infrastructure:
     - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
   sequential_analysis_lock: OPEN
+  next_permitted_operation: LILIANA_V01_V19_MODEL_AND_FIDELITY_REVIEW
 ```
 
 ```yaml
@@ -37,31 +38,40 @@ sequential_execution:
   unit_type: main_light_novel_volume
   authorized_start: V03
   terminal_boundary: V43
-  committed_high_water_mark: V03
-  next_candidate_operation: V04
+  committed_high_water_mark: V18
+  next_candidate_operation: LILIANA_V01_V19_MODEL_AND_FIDELITY_REVIEW
   confirmation_between_units: false
-  run_state: paused_by_user
-  pause_boundary: after_verified_V03_publication
+  run_state: active
 ```
 
 ## Authority split
 
 - **GitHub is the analytical authority** for methods, source-routing decisions, sequential readings, longitudinal ledgers, character analysis, adaptation analysis, specialist synthesis, and analytical audits promoted under `series/re-zero/`.
 - **Primary-source media do not belong in this Git root.** Japanese light-novel files, audiovisual media, scans, extracted text, and other source-bearing objects remain in the governed evidence plane unless a policy explicitly admits a reference representation.
-- **The current source lock admits the acquired Japanese main-light-novel spine V01-V43.** Exact file identity, integrity, Drive provenance, alternate-edition handling, the bounded post-manifest V41 hash override, and known current acquisition gaps are recorded in `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`. The lock does not claim complete-to-date possession: published Japanese V44 and V45 are not present in the live governed folder.
+- **The current source lock admits the acquired Japanese main-light-novel spine V01–V43.** Exact identity, integrity, provenance, boundedV41override and dated V44/V45acquisition gaps are recorded in `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`. This transaction adds no source admission, fresh all43object audit or complete-to-date/freshness claim.
 - Local workspaces are working environments, not authority, until an artifact is promoted through the governed Git route.
 
 ## Current analytical state
 
-**The acquired Japanese main-LN range V01-V43 is source-locked, and the prospective Japanese-primary Volume 01 through Volume 03 deep readings are frozen and canonical. The source-verified V02–V03 estate-story checkpoint is also frozen. Volume 04 and the separately previewed non-spine story remain analytically unopened. The sequential run is paused at the user's post-V03 boundary. A canonical character-reconstruction protocol and a bibliographic-only supplemental witness catalog are now present, but no character monograph, dedicated specialist ledger, standalone specialist synthesis, PACTRIH placement, adaptation judgment, evidence/index layer, or full-series synthesis is canonical here yet.**
+The [V19 deep reading](02%20Sequential%20Readings/REZERO_LN_V19_DEEP_READING.md), master and five sole owners are the new source-consumed393claim transaction; its own complete publication/integration gate remains required. Verified integrated sequential high-water staysV18. The thirteenth [Priscilla18 model](05%20Character%20Analysis/REZERO_PRISCILLA_V01_V18_CHARACTER_MODEL.md)/[separate review](08%20Audits%20and%20Manifests/REZERO_PRISCILLA_V01_V18_FIDELITY_REVIEW.md) completed [PR326](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/326), source8a6a6f85b12b8bd5621785a1f047bd469978099f/integratedmain6c181f53dbdfc857bf3994c10459c5819da130ea: source/main audits40159885549/40160273095 actually executed all479discovered tests with no nonpasses/trusted exact-commit success; source-specific housekeeping40160259709 executed and later native/source/protected/seal proof passed. Next-operation fields name Liliana conditionally on V19closure; earlier gates are closed, not certificates for a new head.
 
-The later project-initiation architecture gate is satisfied prospectively. `REZERO_SYNTHESIS_ARCHITECTURE.md` is the canonical `EVOLVING` synthesis architecture, `REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` governs future mature character work and its first fidelity audit, and `REZERO_MASTER_LONGITUDINAL_LEDGER.md` is the required cumulative home promoted and backfilled from the unmodified V01/V02 freezes, then advanced through V03. `SEQUENTIAL_ANALYSIS_LOCK = OPEN`, but the user-requested execution pause controls: no V04 source-facing work begins until the user resumes the run.
+The admitted Japanese V19original was actually fully consumed:23535212bytes/SHAd05c621e02a9767a6ca44e792f03dbec33c62db62467f3c1f3386eb65fc1db5d/CRCpass;23OPFmembers/3710positions=3671TEXT+39IMAGEreferences/165170base-text characters/55TEXTdeliveries. All25distinct packaged assets were actually viewed in29calls;2navigation resources and2187ruby groups/2877labels were read occurrence-by-occurrence after base context. Advertisements/design/afterword remain packaged paratext. Identity/count/correspondence receipts are not machine semantic-attention certificates or new narrative admission.
 
-The governed source audit admits one continuous Japanese main-volume sequence V01-V43. A live 2026-09-08 rescan found no V44/V45 or other new source, reproduced 44 of 45 manifest objects exactly, and re-audited the sole post-manifest replacement, Japanese V41, under its current exact hash. A 2026-09-04 official-publication freshness check establishes V44 and V45 as published but absent from that acquisition. This does not block the authorized V03-V43 run; it means the repository must not describe the source corpus as complete-to-date.
+Current393claims incorporate all377individually reviewed predecessors:215PRESERVE/121STRENGTHEN/33REVISE/8OPEN+16NEW. All60incoming questions/10forecasts are separately adjudicated. IncomingV19body17236bytes/SHAc69ce35c1af024204a354e95692137007d52b10c7b3d3613d13da13ef50c5ede and complete201166-byte entering377body remain literal/recoverable. After complete V19saved-content/name-reference acceptance, the outgoing60V20questions/10forecasts were finalized2026-10-25T09:20:11.459996+00:00: whole body17355bytes/SHAbc9edf56ab9f39d8c87eab9a2f152df6c1f329c9bc3713339ded080669aac718, literal in master§12 and frozenV19§16. Preserve this exact body through both earned derived operations. V20+/nonspine/import narratives stay unopened.
 
-The architecture remains intentionally conservative because Re:Zero has multiple source families that can contaminate one another if treated as a single undifferentiated canon pool. Main light novels, mainline supplemental stories, alternate-route/IF material, web-novel material, and anime adaptation evidence must remain separately labeled witnesses until a specific analytical operation compares them. The supplemental catalog may record officially established but unacquired items and unresolved paratext leads; this is not admission. The current audited source folder admits no supplemental, IF/alternate-route, web-novel, or audiovisual witness.
+LivingE021continues20Subaru deaths/21arrived segments. Reinhard's actual Phoenix revival, retrospect/waking and city-hall backfill add no E022. All53wives survive suspension/thaw; Emilia's corrected plan, accepted risk and Geuse address differ from full Subaru receipt or a revived person. Regulus terminally drowns for narrator while surface knowledge is bounded; his wish that death not please Emilia is ironically granted through nonrecall without erasing forest causality. Actual Tina rescue/Kiritaka retrieval do not finish Sirius fate, transport/waking, other fronts or all-city cure. Narrator names Anastasia; familiar guises are Capella and actual patients have been moved.
 
-The first three interpretive operations are complete. `REZERO_LN_V01_DEEP_READING.md` freezes four local event-states and 24 V01 claim IDs. `REZERO_LN_V02_DEEP_READING.md` carries those claims forward through explicit revision operations, freezes four mansion event-states (`V02-E1` through `V02-E4`), 30 stable V02 claim IDs, and the bounded V03 question set. `REZERO_LN_V03_DEEP_READING.md` adjudicates all 30 V02 claims and all 26 V03 questions, confirms a surviving fifth-day mansion state, freezes 35 V03 claim IDs and 24 bounded V04 questions, and preserves the exact consumed Japanese witness identity. `REZERO_ARC_ESTATE_STORY_CHECKPOINT.md` records the source-verified V02–V03 structural break without inventing a formal arc ID. V04 is the next candidate only after resumption.
+Same five sole owners: eventV2.3/E021, knowledgeV2.3/K705, mechanicsV1.12/M442, institutionV1.16/I379, relationshipV1.10/R155/RT363. New51K/34M/26I/17R/36RT and138individualRdecisions=24advance/114literal preserves retain327olderRT/whole affected preimages/ancestry. MasterV1.33owns393claims/32advanced person rows/one Dainas case/24ordinary/21Japanese/prospects/readiness. SchemaV0.34changes no field/owner/index or ordinary/voice/readiness responsibility.
+
+Complete substantive V19 pre-rollover master/log candidates measured1370666/1074890bytes,322090/26314above the unchanged1MiBlimit. Declared lossless maintenance moves413629inner bytes of older V15/V16/V17master claims plus the104798-byte earlier project-log V14 fenced block to existing [history archive01](04%20Longitudinal%20Ledgers/REZERO_PROJECT_HISTORY_ARCHIVE_01.md#v19-measured-lossless-history-rollover). Original outer headings retain live links, complete removed fences/payloads stay literal and native inverse reconstructs the entire pre-rollover candidates/old14prefix. Current393/entering377claims and c69seal remain in master; complete entering map stays at root in the [changelog](REZERO_PROJECT_CHANGELOG.md#v19-entering-corpus-map). Source-specific earlier measurements/erratum below remain historical; final current-blob sizing requires its own native proof. No limit exception or competing owner follows.
+
+**Storage/measurement-only erratum to frozen V18 §§15 and 17:** Addressing [PR323's measurement finding](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/323#discussion_r4369078901), §15's `historical_size_duty` row records an earlier 1,036,243-byte candidate with 12,333 bytes of headroom; its “final exact” wording is superseded as a final-blob measurement. Section 17 records a later 1,036,398-byte source-refinement candidate with 12,178 bytes of headroom. Neither figure describes the committed final master. The [master](04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md) at source commit `2b235dd66da696a31a4bd5543f93671321aa04c1` measures **1,036,296 bytes**, leaving **12,280 bytes** below the 1,048,576-byte limit; its SHA256 is `c8fdaff1903a979cfea8d1eaa836151e0111efb48c87a22a49b1de48747b5209`. This committed-blob measurement supersedes both earlier size/headroom pairs for rollover auditing. Author preflight exposed incompatible inherited relative-link bases in the first archive arrangement, which also held the old map. The final arrangement keeps master-history in the ledger-directory archive and the old map in the root-level changelog. No source-facing claim, prospective body, historical payload, model scope/default/grade or frozen V18 byte is changed by this erratum.
+
+All13historical model/review pairs retain exact source scopes/defaults/local documentary grades. V19current-use reconciliation does not extend an older reviewed horizon or grant sleeping/absent people a new reply/assent. Ram chronologyOPEN, C116/M344Frederica full-feline subject/C095actual private Gallek denial and Roswaal source/recipient/agency qualifiers bind current use. Garfiel's new grounded human/partial repair does not cure the old wrong-subject inference or inform Reala/children. Source43/V41exception/datedgaps/nonspine firewall remain unchanged.
+
+The Priscilla V01–V18integrated model/separate actually applied19-dimension review remains IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY and its own full gate is CLOSED through PR326. Its13repaired grouped findings/28controls/8NONCANONICAL_PROBE applications and exact `V18_E021_FOURTH_ASSIGNMENT_DEPARTURE_WITH_LILIANA` default keep their original scope. V19's employ/trust distinction, specific dress permission versus imposed kiss, lethal title response versus selective rescue and finite night sword/jewels are explicit current reconciliation; no duplicate graded Priscilla19pair or independent/runtime/global result follows.
+
+Qualitative V19readiness earns `LILIANA_V01_V19_MODEL_AND_FIDELITY_REVIEW`, default `V19_E021_KIRITAKA_CANAL_RETRIEVAL_BEFORE_UNSHOWN_TRANSPORT`, then `REGULUS_V01_V19_MODEL_AND_FIDELITY_REVIEW`, default `V19_E021_TERMINAL_DROWNING_NARRATED_NO_CURRENT_LIVING_REPLY`. Neither construction/review/pass is achieved here. Liliana's ordinary development/received world/music and Regulus's interested family/first-wife contradictions support distinct conditional models. Each actually applies the existing19dimensions and requires its own full gate after V19. Master§13owns readiness; unknown powers/secrets alone do not decide promotion. Merges remain with CI.
 
 ## Governing method and retrieval route
 
@@ -98,37 +108,28 @@ A discarded or superseded event-state can remain highly probative character evid
 
 | Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | populated; analytical method V0.1; witness protocol V0.2; synthesis architecture V1.1 `EVOLVING`; character reconstruction protocol V1.0 |
-| `01 Source Lock and Inventory` | Exact admitted witness set, integrity/provenance, edition identity, publication ordering, source-family classification, and non-spine bibliographic awareness | V01-V43 Japanese `MAIN_LN` admitted; V41 current hash point-audited after manifest drift; V44-V45 known acquisition gaps; V01-V03 consumed; supplemental catalog V0.1 contains no admitted or opened non-spine witness |
-| `02 Sequential Readings` | Main-light-novel volume-by-volume prospective deep readings and source-verified arc checkpoints | V01-V03 deep readings and the V02–V03 estate-story checkpoint frozen/canonical; V04 remains unopened |
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | methodV0.1/witnessprotocolV0.2 unchanged; architectureV1.32 EVOLVING/characterprotocolV1.31;13historical scoped pairs exact/full-gated; two earned19constructions unimplemented/ungraded |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | sourceLockV0.35; source43/V41exception/datedgaps unchanged; actual consumedV19transaction pending own full gate, verified integrated sequential high-waterV18; V20+/nonspine/import narrative unopened |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V19source-facing corpus/three earlier checkpoints; V19full gate pending, incomingc69seal exact; outgoingV20seal follows actual saved-content acceptance and is held through Liliana/Regulus separate gates |
 | `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
-| `04 Longitudinal Ledgers` | Current claims/revisions, route/event-state, knowledge, relationship, character-state, institution, mechanics, ordinary-life, terminology, prospective questions, and readiness | master ledger V1.2 current through V03; schema contract V0.3 registers exact later candidate homes; V03 review promotes none |
-| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routing contract V0.2 populated; no monographs yet; first mature model requires a separate fidelity audit |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.33/currentV19/393claims/person/24ordinary/21Japanese/prospects/readiness; eventV2.3/E021, knowledgeV2.3/K705, mechanicsV1.12/M442, institutionV1.16/I379, relationshipV1.10/R155/RT363; schemaV0.34/no new field; exact declared older history in existing archive |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routerV0.22;13historical source-bounded pairs exact/full-gated; Liliana19 then Regulus19 earned integrated constructions/separate reviews, no models/passes achieved here |
 | `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
 | `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
-| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | bootstrap manifest populated; detailed source audit remains Drive-authoritative |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests |13historical scoped reviews/local documentary grades exact; future Liliana/Regulus reviews must each actually apply existing19dimensions separately; no independent/held-out/runtime/global result |
 | future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
 | future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
 
 The absence of an unused directory is intentional. Re:Zero should grow by analytical responsibility, not by template symmetry.
 
-## Architecture repair provenance and sequential lock
+## Sequential lock and history
 
-The Re:Zero Git-native root was created and V01/V02 were frozen before enforcement of the current initiation validator. After merging live `origin/main` into the stable branch, the role-gap audit found a complete analytical method and witness protocol but no separately recoverable synthesis/corpus architecture and no promoted cumulative current-state home despite repeated longitudinal responsibilities.
+All initiation requirements are initialized and `SEQUENTIAL_ANALYSIS_LOCK = OPEN`. The current method, evolving synthesis architecture, five specialist owners, master and source-bounded model/audit define the present routing. An OPEN lock does not itself admit a different witness or override source/publication controls.
 
-The repair therefore:
+The V01/V02 repair, later architecture extensions, ledger promotions, checkpoint operation and source-consumption history are preserved in the [project changelog](REZERO_PROJECT_CHANGELOG.md). These are historical records, not competing current defaults. Git history and live audit statuses own exact publication receipts; this entrypoint owns current scope and the next permitted operation.
 
-- preserves the historical bootstrap manifest and both frozen readings unchanged;
-- creates `REZERO_SYNTHESIS_ARCHITECTURE.md` as the canonical `EVOLVING` architecture;
-- promotes one proportional `REZERO_MASTER_LONGITUDINAL_LEDGER.md` rather than seven empty or competing ledgers;
-- backfills only the state already established by V01/V02;
-- marks the routing descriptor `project_initiation_gate: REQUIRED`;
-- records the bounded audit in `08 Audits and Manifests/REZERO_ARCHITECTURE_REPAIR_MANIFEST.md`.
-
-All initiation requirements are now initialized. The sequential lock is affirmatively **OPEN**. The repair preceded V03; V03 is now frozen, and the user-requested pause keeps V04 unopened.
-
-At the first safe boundary after the V03 freeze, a bounded architecture extension added the character-reconstruction protocol and supplemental witness catalog, registered exact future ledger/evidence candidates, required a fidelity audit for the first mature character, and declared `10 Full-Series Synthesis/REZERO_FULL_SERIES_SYNTHESIS.md` as the eventual canonical convergence home. The V03 promotion review retained every recurring responsibility in the master ledger or deferred it with a concrete trigger; it created no empty specialist artifact.
+The V18size-required extension preserves exact genuinely historical bodies in the [changelog](REZERO_PROJECT_CHANGELOG.md#v18-lossless-historical-rollover) and [history archive01](04%20Longitudinal%20Ledgers/REZERO_PROJECT_HISTORY_ARCHIVE_01.md), with live original-heading routers. Neither is another current state owner; current/entering claims and both prospective bodies remain literal in the master.
 
 ## Reasoning-class routing
 
@@ -184,18 +185,17 @@ The sequential pass should test rather than assume questions including:
 - where ordinary routines, food, work, study, leisure, humor, gifts, comfort, etiquette, and low-stakes choices reveal durable character structure;
 - which later conclusions genuinely revise earlier models and which merely add information unavailable at the earlier freeze.
 
+Publication follows the current repository integration checklist. Routing-current and stale-routing paths have different housekeeping requirements; exact Git/audit evidence owns receipts, and the work order below states required dependencies rather than a prose publication status.
+
 ## Current work order
 
-1. Treat both frozen sequential readings as immutable historical prospective states. V01 remains the original prior; V02 owns the historical V01→V02 revision transaction and must not retroactively rewrite V01.
-2. Preserve the completed V03 transaction as its own prospective state: it owns the V02→V03 revisions, 35 current claims, the V04 horizon, and the source-verified V02–V03 estate-story checkpoint.
-3. Preserve the completed post-V03 architecture extension as a separate transaction. Its catalog and future-path reservations do not advance the source horizon.
-4. Keep V04 and the previewed non-spine story unopened while the user pause is active. On resumption, load the frozen V03 horizon before opening only admitted Japanese witness `RZ-MAIN-LN-JA-V04`.
-5. Continue prospectively through the admitted main-LN spine; create later checkpoints only after source evidence establishes the boundary and the final contributing volume is frozen.
-6. Acquire and integrity-audit Japanese V44 and V45 before the sequential reading reaches that boundary; admission is not implied by their bibliographic existence.
-7. Maintain bibliographic awareness in the supplemental catalog without opening narrative material. When a witness is acquired, assign its source class and `H_pub`/`H_diegetic`/`H_route`/`H_final` state before reading it analytically.
-8. Update the master longitudinal ledger in every volume transaction; promote a dedicated ledger only when one responsibility develops an independent retrieval/revision burden, then leave routing rather than a competing full copy in the master.
-9. Create character monographs only after protocol-defined cross-state, relational, ordinary-life, linguistic, failure, and abstention evidence exists. The first mature model must pass its fidelity audit.
-10. Treat anime and other adaptations as distinct witnesses whose performance, direction, framing, omission, compression, and reordering can be analyzed without replacing the light-novel model.
+1. Preserve V18/PR323 and Priscilla18/PR326 full closure, all47entering protected artifacts/thirteen historical pair scopes/defaults/local grades, complete incomingV19seal and entering377claim body. A prior green head does not certify a new candidate; no completed gate is reopened as pending.
+2. Close the complete15author-path V19transaction: reconcile live main/remote branch, actually review all saved new content/deltas/named references and exact history wrappers, preserve unaffected bytes, use approved identities/exact-path staging/final-index author preflight/nonforced push/branch PR. Require immutable whole-file/tree/changed-set readback, all-discovered actually executed exact-head tests/trusted reporter/status, completed source-specific housekeeping or exact regenerated child, later native/source/protected/seal proof and actual integrated-main verification. CI handles the merge.
+3. After V19full gate, construct the earned integrated Liliana V01–V19model and separately actually apply all19existing dimensions/controls/probes, with generated probes NONCANONICAL. Default actual Kiritaka retrieval before unshown transport; earlier waking dialogue needs a supported explicit seven-axis selector. Preserve the fixed outgoingV20body and complete this operation's own full publication/integration gate.
+4. After Liliana's full gate, construct Regulus V01–V19and separately actually apply all19dimensions. Default narrated terminal drowning permits no current living reply; earlier living use requires supported explicit override. Distinguish interested private account, represented forest, actual conduct and nonholders. Complete its own full gate before V20; no pass is promised.
+5. Only then open the admitted Japanese V20original in OPF order against the final literal60Q/10Pprospect, through actual full text/image/navigation/ruby reading and individual postread decisions. No future source, supplement, IF, WN, adaptation or new-import narrative may repair an earlier freeze. Dormant/absent people acquire no new reply/assent by another's concern.
+6. Continue prospective atomic source and earned derived operations through activeV43 without ordinary confirmation/pause, then perform the mandatory architecture/state/role-gap/acquisition review. Admitted-source exhaustion is not published-series completion, automatic Arc5closure or final-synthesis readiness.
+7. Keep source43/V41exception/datedgaps, Ram chronologyOPEN, C116/M344Frederica/C095Gallek-recipient and Roswaal qualifications; preserve the literal Muse/city-hall query and source2b235dd6measurement erratum. No sixth owner/field/index, global curation/evaluator write or relaxed file limit; historical storage is not source admission or current analytical duplication.
 
 ## Bootstrap abstentions
 

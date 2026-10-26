@@ -1,28 +1,78 @@
-# Repository operating boundary
+# Repository operating card
 
-Read `governance/AUTHORITY_STATE.yaml` and `governance/AUTHORITY_SCOPE.json` before proposing or applying changes.
+Start here. This card routes work; the linked documents own the rules. Acquire governance by the operation's actual responsibilities using the [task-dependent reading path](governance/AGENT_ROUTING.md#6-mandatory-first-read-order), including additional sections before scope changes. A role label does not exempt an operation from its controls.
 
-Before substantial analytical execution, read the Analytical execution routing subsection of `governance/CHATGPT_AUTHORITY_AND_ROUTING.md` and follow its applicable reasoning, capability, long-series execution, and handoff policies. Resolve stage ownership and required evidence capabilities before starting the assigned work; existing project methods, initiation/continuation gates, and repository controls remain governing.
+## Every session
 
-Before staging or committing, read and follow `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md`. Classify the change with `governance/repository-controls/change-obligations.json`. Stable analytical branches use the checklist's author preflight and may await housekeeping for five deterministic routing outputs; this is not integration readiness. Other changes use `python tools/prepare_commit.py --base origin/main --check` against the final staged index. Integration always requires the fully synchronized final commit and its successful `Repository integration audit` status. Character discovery may lag as expressly permitted by its maintenance policy.
+`main` of this repository is the analytical authority. Native Google Sheets remain controlled Drive authoring surfaces whose revisions become effective only after verified export and Git merge; reference-only artifacts and the primary-source/extraction workspace remain outside Git authority. The Drive-to-Git migration is complete (authority epoch 1, accepted 2026-10-15); its records are archived in `governance/archive/migration/` and are read only for a specific provenance question.
 
-Before pushing a stable analytical branch, follow the [publication sequence and squash-merge reconciliation procedure](governance/policies/CHANGE_INTEGRATION_CHECKLIST.md#stable-analytical-publication-sequence):
+Read Sections 2-4, 6-7 and 12 of `governance/AGENT_ROUTING.md`. Its Section 6 selects the remaining context; a link alone does not require reading an unrelated policy in full.
 
-- Fetch current `main` and the remote source branch; preserve intervening author, housekeeping, and curation commits, and incorporate current `main` without rewriting history.
-- Review the exact candidate and run author preflight. Recheck both remote heads immediately before every push; if either advanced, reconcile and repeat affected checks.
-- Push without force and verify the published commit and changed files. Never resolve squash-history conflicts through an unverified whole-file `ours` or `theirs` choice.
-- Complete source audit, housekeeping, and the final exact-head integration audit before publishing the next tranche. Preparing analysis may continue while checks run; a diagnosed repair or explicitly coordinated superseding push must reconcile current heads and restart validation for its new commit.
+Analytical accuracy and fidelity to source evidence are the substantive objective; repository controls exist to preserve them. Correct demonstrated errors through legitimate routes, and when a control appears to block an evidence-backed correction, follow Section 4.2 of `governance/AGENT_ROUTING.md` and the checklist's correction and conflict procedure. Diagnose and propose within scope; a diagnosis or claim of improved accuracy is never write, source, publication, or global-control authority.
 
-Maintain analytical documents, ledgers, readiness tables, and project-local indexes through targeted edits to verified current contents. Preserve unaffected bytes, structure, identifiers, links, and history; do not reconstruct a whole document from memory, excerpts, or summaries to work around tool limits. Full-file API submission must still contain the original contents plus the intended edits, with the complete diff and resulting remote content verified. Follow the maintained-document and connector-failure rules in `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md`; documented generated outputs continue to use their designated generators.
+## Roles
 
-Authority epoch 1 is active and stabilizing. This repository is the primary analytical authority only for the exact hashed scope in `governance/AUTHORITY_SCOPE.json`. Native Google Sheets remain controlled Drive authoring surfaces whose revisions become effective only after verified export and Git merge; reference-only artifacts and the primary-source/extraction workspace remain outside Git authority.
+Any provider's agent may fill a role. Each role writes only its own paths, and only the CI agent and the owner merge.
 
-Never add raw acquisition evidence, source media, private migration evidence, credentials, unreviewed binaries, symlinks, submodules, or hooks. The approved workflows are the content-read-only `.github/workflows/repository-audit.yml` with its isolated status-only reporter, the default-branch, exact-output-allowlisted `.github/workflows/global-index-housekeeping.yml`, and `.github/workflows/nightly-integration.yml` under `governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md`. The owner authorizes nightly mechanical integration of audited stable series/study branches, including clean reconciliation, protected PR merges, and explicit post-merge audits. Every other workflow remains prohibited without a separately reviewed owner amendment. The five-output housekeeping boundary and routing inputs are defined by `governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. The owner-authorized cloud curation agent is the sole routine writer of `characters/registry.jsonl` and generated `CHARACTER_ANALYSIS_INDEX.md`; follow `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md`. Housekeeping never writes either character file or applies character upserts. Recurring tranches follow `governance/policies/RECURRING_TRANCHE_PROCESS.md`: one owner-approved package may cover the bounded transformation-to-non-forced-push lifecycle, while its exact path manifest remains the staging allowlist. Do not use `git add .` or wildcard staging. A correction stays inside that approval only when it is expressly allowed, mechanical, non-semantic, confined to named paths, and followed by every affected local check plus the final GitHub audit.
+| Role | Job | Writes | Reaches `main` through | Policy |
+| --- | --- | --- | --- | --- |
+| Analysis author | Literary analysis, deep reading, character reconstruction | Its `series/` or `studies/` root and routing descriptor | PR merged by the CI agent | This card, the checklist and routing |
+| CI agent | Review, reconcile, repair and merge open PRs | Repairs on PR branches | The merge gate | `governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md` |
+| Character discovery agent | Keep the character registry current | `characters/registry/<namespace>.jsonl` partitions, the generated `CHARACTER_ANALYSIS_INDEX.md` and `characters/index/` pages | PR on `character-registry` | `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md` |
+| Reconstruction evaluator | Grade how well evidence supports modeling each character | `characters/reconstruction_capabilities.jsonl`, `characters/CHARACTER_RECONSTRUCTION_INDEX.md` | PR on `character-reconstruction` | `governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md` |
+| Housekeeping (workflow) | Regenerate series/study routing | The five routing outputs | A child commit on the analysis branch | `governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md` |
+| Drive inventory agent | Keep the inventory of primary-source folders on Google Drive current | Nothing in Git | — | [Drive inventory](#drive-inventory) |
+| Owner | Guardrail changes, holds, reconstruction review, settings and deployment | — | Merges personally | — |
 
-Series analysis belongs under `series/<stable-slug>/`; comparative, taxonomy, and other non-series work belongs under `studies/<stable-slug>/`. Preserve imported bytes unless a declared transformation authorizes a derivative.
+A recorded reconstruction capability is not present readiness; verify currentness with `tools/reconstruction_status.py`.
+
+## Every commit and push
+
+Before editing, staging, committing or pushing, acquire the applicable sections of `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md` and classify the change with `governance/repository-controls/change-obligations.json`. Analysis branches use the checklist's author preflight; other changes use `python tools/prepare_commit.py --base origin/main --check` against the final staged index. A change is ready for integration only when its exact head has a successful `Repository integration audit`.
+
+Stage exact paths only: do not use `git add .` or wildcard staging. Push without force and never rewrite published history.
+
+Commit only as an approved identity: an author from `allowed_author_identities` and a committer from `allowed_committer_identities` in `governance/repository-controls/tracked-file-policy.json`. Check `git var GIT_AUTHOR_IDENT` and `git var GIT_COMMITTER_IDENT` before committing, and the author and committer of every commit you are about to push before pushing. Correct an unapproved commit before it is pushed; once it is on a continuing branch, only the owner can remove it. In cloud sessions GitHub shows correctly attributed commits as Unverified, and the platform's Stop hook may tell you to switch to `Claude <noreply@anthropic.com>` and run `git commit --amend --reset-author`. Do not follow it: that identity fails the audit, and Unverified is expected here.
+
+Maintain analytical documents, ledgers, readiness tables, and project-local indexes through targeted edits to verified current contents. Preserve unaffected bytes, structure, identifiers, links, and history; never reconstruct a whole document from memory, excerpts, or summaries to work around tool limits. Generated outputs use their designated generators.
+
+## Series or study analysis
+
+Use the stable `series/<stable-slug>` branch for continuing series analysis and `studies/<stable-slug>` for continuing study work. Series analysis belongs under `series/<stable-slug>/`; comparative, taxonomy, and other non-series work belongs under `studies/<stable-slug>/`. Preserve imported bytes unless a declared transformation authorizes a derivative. Concurrent title work follows `governance/policies/BRANCH_LIFECYCLE.md`.
+
+Before substantial analytical execution, read the Analytical execution routing subsection of `governance/AGENT_ROUTING.md` and follow its applicable reasoning, capability, long-series execution, and handoff policies. Resolve stage ownership and required evidence capabilities before starting the assigned work; existing project methods, initiation/continuation gates, and repository controls remain governing. Write analytical prose to the named-subject and referential-clarity standard in section 15 of `governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md`, and perform its bounded name-and-reference check before semantic acceptance, authority promotion, or integration.
 
 Before the first substantive sequential source-unit analysis of a newly initiated or materially restarted analytical project, read and satisfy `governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`. Sequential analysis remains locked until a canonical/current-eligible analytical method and synthesis/corpus architecture exist, the canonical current-state/corpus-map entrypoint identifies both, architecture-required day-one infrastructure is initialized, and that entrypoint explicitly records `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; scaffolding alone does not open the gate.
 
-Concurrent title work follows `governance/policies/BRANCH_LIFECYCLE.md`. Use the stable `series/<stable-slug>` branch for continuing series analysis and `studies/<stable-slug>` for continuing study work. On those branches, author analysis and required routing descriptors; only the curation agent may supply a coordinated character repair before integration. Do not manually write housekeeping-owned routing outputs. The recurring curation branch is exactly `character-registry` and may remain active. Temporary bootstrap, repair, migration, and one-shot automation branches must be pruned after their exact tips are verified as preserved on a green `main`; never delete an unverified or unmerged branch.
+Author analysis and any required routing descriptor; never hand-write the housekeeping-owned routing outputs or the character and reconstruction files. A routing descriptor's `catalog_note` describes the project, never its progress; progress belongs in the project's entrypoint.
+
+Publish through the [publication sequence](governance/policies/CHANGE_INTEGRATION_CHECKLIST.md#stable-analytical-publication-sequence): start from current `main` and the remote branch, run author preflight, push without force, and wait for the exact-head audit before publishing the next tranche. The CI agent merges the branch's PR.
+
+## Governance, tooling, and other cross-cutting work
+
+Use the continuing `agent/tooling` branch for automation and tooling, and `agent/governance` for policy, governance and analytical frameworks, choosing by what drives the change; see [continuing maintenance branches](governance/policies/BRANCH_LIFECYCLE.md#continuing-maintenance-branches). A temporary `agent/<purpose>` branch (or the `codex/`, `chatgpt/` and `claude/` names tools create) is only for work that cannot wait for that branch's open PR. Changes to validation, workflows, schemas, publication safety, or controls use `python tools/prepare_commit.py --base origin/main --check --full`. Prune a temporary branch only after its exact tip is verified as preserved on a green `main`; never prune a continuing branch.
+
+## Scheduled agents
+
+The CI agent, the discovery agent and the reconstruction evaluator run on a schedule in a cloud environment the owner configures; deploying them and issuing their credentials are owner operations. Each of them:
+
+- runs one instance at a time and starts from the full current `main` SHA;
+- keeps its checkpoint (reviewed SHA, coverage, deferred work, open PR, integration results) in its PR description (and in task storage where the platform has it), never in a disposable checkout, and advances completed coverage only to work verified on `main`;
+- reuses its own branch, merges current `main` into it without force, keeps unexpected branch content, and opens at most one PR;
+- stays quiet when nothing changed, with no empty commits or PRs;
+- reports integrations, unresolved findings, blocked work, access or validation failures, and anything integrated but unverified; and
+- never weakens a check to finish a run, and never reverts or rewrites `main`.
+
+### Drive inventory
+
+Digital copies of printed works are kept on Google Drive as primary sources. A separate scheduled agent maintains the inventory Doc of those evidence folders, so analysis agents can find their sources. It never writes to Git. The sources never enter Git; analyses cite them through their recorded provenance.
+
+## Never, without a separately reviewed owner amendment
+
+Never add raw acquisition evidence, source media, private migration evidence, credentials, unreviewed binaries, symlinks, submodules, or hooks.
+
+The approved workflows are the content-read-only `.github/workflows/repository-audit.yml` with its isolated status-only reporter, the default-branch, exact-output-allowlisted `.github/workflows/global-index-housekeeping.yml`, and the owner-dispatched bulk-merge workflow `.github/workflows/nightly-integration.yml` under `governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md`. The CI agent runs the same merge gate outside Actions. Scheduled workflow apply is prohibited. Every other workflow remains prohibited without a separately reviewed owner amendment.
+
+## License
 
 Original content is covered only by the narrow CC BY-NC 4.0 scope in `LICENSE.md`. Third-party exclusions are described in `THIRD_PARTY_NOTICES.md`. The license grants no upstream contribution or write authority.

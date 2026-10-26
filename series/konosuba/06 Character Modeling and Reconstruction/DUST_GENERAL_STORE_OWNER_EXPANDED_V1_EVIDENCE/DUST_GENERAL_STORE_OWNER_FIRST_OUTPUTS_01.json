@@ -1,0 +1,119 @@
+{
+  "schema": "konosuba.character-original-first-outputs.v1",
+  "recorded_utc": "2026-10-24T18:55:55.691027+00:00",
+  "generation": "DUST_GENERAL_STORE_OWNER_EXPANDED_V1",
+  "exact_input_freeze": {
+    "file": "COHORT39_EXACT_INPUT_FREEZE_01.json",
+    "bytes": 3207,
+    "sha256": "a902789277fe772aa5c266513cc16126483e640c902f04e6193c6aee8a5b8300"
+  },
+  "model_foundation_freeze": {
+    "file": "COHORT39_MODEL_FOUNDATION_FREEZE_01.json",
+    "bytes": 22357,
+    "sha256": "2e8a6f6db0b8e35ab9b899d4563931208fb3c9cde19a6d8b6475f1940355be65"
+  },
+  "input_pin": {
+    "file": "GENERAL_STORE_OWNER_SCENARIO_INPUTS_01.json",
+    "bytes": 13792,
+    "sha256": "273718c82645a08bce2279dfbbfff00bdc7db72bd0b754750f17cf33558de5ec"
+  },
+  "outputs": [
+    {
+      "case_id": "DGO-A1",
+      "pair_id": "DGO-A",
+      "collection_order": 5,
+      "prompt_sha256": "0a0054681525518a9a9f6b8f3a49f24079a31020d1c97d934f795761fe8e0ed7",
+      "original_body": "The owner put his hand around the lamp before Dust could acquire any more certainty about it.\n\n“I owe you a lamp? For sitting at a card game? That's a new way of taking stock.”\n\nHe moved it back among the sale goods and kept his hand there.\n\n“It stays here. I've got an inventory to finish, and your game isn't on it.”\n\nDust's lack of cash did not improve the proposal when the owner looked at him again. The owner turned the lamp so he could continue checking it, deliberately occupying the space Dust had expected to receive for free.\n\n“You can play before dusk without my merchandise. Try that arrangement.”\n",
+      "original_body_pin": {
+        "file": "firsts01/DGO-A1.txt",
+        "bytes": 623,
+        "sha256": "c5e7ac4a0be8b5266dd415d4bf365d17eddd724137e4ba83f31b5cfadc7edd7a"
+      },
+      "original_first_receipt": {
+        "file": "DGO-A1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2023,
+        "sha256": "f2d670e39af857bf6523b62e44205baddbaa992c661656537afcec52e2fb614b"
+      },
+      "word_count_whitespace": 112,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    },
+    {
+      "case_id": "DGO-A2",
+      "pair_id": "DGO-A",
+      "collection_order": 6,
+      "prompt_sha256": "8152014e9da65f8425300a00225cd18e96753c49e872959dfce252fb175963f4",
+      "original_body": "The owner's answer stopped when the courier called again. He looked into the alley, saw the trapped adult, and picked up the lamp.\n\n“This isn't something I owe you,” he told Dust. “Take it over there. Bring it back before dusk; I still need it.”\n\nHe held it out to him rather than returning it to the stock.\n\n“And watch where you're shifting that debris. A lamp isn't much use if you bury the person you're looking for.”\n\nThe owner moved to the doorway to keep the alley in view. His inventory could wait while Dust took the light; whether the courier could actually get clear was still a matter for the work ahead.\n",
+      "original_body_pin": {
+        "file": "firsts01/DGO-A2.txt",
+        "bytes": 628,
+        "sha256": "cb7e9ca14ae6f5f5fe654441bf206ecac55d9cd50913229a9f57ece323f7bcc4"
+      },
+      "original_first_receipt": {
+        "file": "DGO-A2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2023,
+        "sha256": "276016cf1b7c39106e7c231b8436dbeb99239502591854eb33f04fdf4b99a293"
+      },
+      "word_count_whitespace": 114,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    },
+    {
+      "case_id": "DGO-B1",
+      "pair_id": "DGO-B",
+      "collection_order": 7,
+      "prompt_sha256": "1e555cad5a5d44d7df4664de7316af8aefcf1d10f0ee2930cbc420d79ec5b485",
+      "original_body": "The owner looked at the water, then at the old ledger. He had not kept it all these years to leave it in the path of a doorway full of rainwater.\n\n“I want those supplies moved,” he told the organizer. “But you can't take the only person watching this shop and call that helping.”\n\nHe did not ask the assistant to pretend she could cover. He picked up the ledger himself and began carrying it upstairs.\n\n“Twenty minutes away isn't available. If you've got something I can do from this doorway after I get these things up, tell me. Otherwise, you'll have to move them without me.”\n\nHe kept working, with the stock still to protect and no answer yet to his proposed alternative.\n",
+      "original_body_pin": {
+        "file": "firsts01/DGO-B1.txt",
+        "bytes": 688,
+        "sha256": "e87c77e450690f17971f2e62ac1fcec6282cfd2cd156d97f52a36e18d89b29bf"
+      },
+      "original_first_receipt": {
+        "file": "DGO-B1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2023,
+        "sha256": "f274a3d4e3d056605960e1b1ccf36790b8a39797c9c28c28752114a1b40b7e12"
+      },
+      "word_count_whitespace": 124,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    },
+    {
+      "case_id": "DGO-B2",
+      "pair_id": "DGO-B",
+      "collection_order": 8,
+      "prompt_sha256": "cea7e1b86aa582bd326ee4d47e0fb3643761c5be600d53d113be5377710d30cc",
+      "original_body": "The owner checked the cleared place where the ledger had been. Upstairs, with the exposed stock; he had seen it himself. He looked at the assistant and nodded.\n\n“Twenty minutes,” he told the organizer. “That's what you asked for. I'm not signing over the rest of the day.”\n\nHe kept the shop key in his hand as he went out to help move the community supplies. At the doorway he turned once more.\n\n“If the water starts getting worse, call me. I'll have the phone.”\n\nThen he joined the work. He still disliked leaving the shop in the rain, but staring at a watched doorway would not move a single supply.\n",
+      "original_body_pin": {
+        "file": "firsts01/DGO-B2.txt",
+        "bytes": 614,
+        "sha256": "9d0b0d594ed8c2bc36fdbd28c81dd1a4c71c805160fe718994ccdc8184cedbce"
+      },
+      "original_first_receipt": {
+        "file": "DGO-B2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2023,
+        "sha256": "047cd0391332a9b93c6c2a8f33223247c91993a69b4487d8df45d5fbc43dadd4"
+      },
+      "word_count_whitespace": 111,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    }
+  ],
+  "original_first_count": 4,
+  "dependent_pair_count": 2,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "same_informed_root_authors_and_assesses": true,
+  "all_twelve_bodies_precede_any_feedback": true,
+  "original_bodies_immutable": true,
+  "no_isolated_model_execution_claim": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

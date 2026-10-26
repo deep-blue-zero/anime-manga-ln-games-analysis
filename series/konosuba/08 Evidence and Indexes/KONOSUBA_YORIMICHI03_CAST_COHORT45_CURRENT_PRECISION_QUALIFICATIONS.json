@@ -1,0 +1,133 @@
+{
+  "schema": "konosuba.cohort45.current-precision-qualifications-draft.v1",
+  "authored_utc": "2026-10-25T06:31:34.644563+00:00",
+  "status": "CURRENT_DRAFT_REQUIRE_FULL_REVIEW",
+  "earlier_all81_qualifications_still_governing": {
+    "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI03_CURRENT_PRECISION_QUALIFICATIONS.json",
+    "sha256": "8d05b367348225305507618a38ebabbe0b8929574859efd6a666ac0b8b437e10",
+    "received_in_full": true
+  },
+  "qualifications": [
+    {
+      "id": "C45-Q01",
+      "subject": "Shumel woman/name and unverified genealogy",
+      "locators": "U014P350/358-394",
+      "qualification": "Correct recovered father/son shorthand before foundations; do not turn K's wife/grandmother questions into verified family history."
+    },
+    {
+      "id": "C45-Q02",
+      "subject": "Ring awareness and coercion",
+      "locators": "U012P153-176",
+      "qualification": "Initial unawareness is K hypothesis; deliberate later leverage, threats, true disbelieved warning and rescue all retained."
+    },
+    {
+      "id": "C45-Q03",
+      "subject": "Restraint critics and information bounty",
+      "locators": "U012P215-296/348-378",
+      "qualification": "Exactly three locally restrained; no actual strike. Bounty buys location only; higher offer unperformed."
+    },
+    {
+      "id": "C45-Q04",
+      "subject": "Park girl and mother/helper",
+      "locators": "U012P318-346",
+      "qualification": "Her helpful-conduct evaluation retained; mother absent, helper identity inferred, K moral diagnosis not proved."
+    },
+    {
+      "id": "C45-Q05",
+      "subject": "Crank admission versus search proof",
+      "locators": "U014P275-315",
+      "qualification": "Harassment admitted; disputed commodity purpose separate; actual contraband does not prove every allegation; no collar; patron unjoined."
+    },
+    {
+      "id": "C45-Q06",
+      "subject": "Shumel costly action and court plan",
+      "locators": "U014P370-414",
+      "qualification": "Actual dangerous lightning retained, not actual death. Court account prospective; vault disclosure/contraband/restraint not voluntary full handover."
+    },
+    {
+      "id": "C45-Q07",
+      "subject": "Household and collar boundaries",
+      "locators": "U014P445-629",
+      "qualification": "Guard competence and Ignis identity retained. Specific self-wear does not authorize humiliation; photos performed, public debut/return unperformed."
+    },
+    {
+      "id": "C45-Q08",
+      "subject": "Wiz, dolls and buyers",
+      "locators": "U016P53-242/368-384",
+      "qualification": "Work agreement precedes job disclosure; actual refusal and alternative. Prototype destroyed, stock separate; combat image pleases customers, no Wiz consent or settled wage."
+    },
+    {
+      "id": "C45-Q09",
+      "subject": "Messenger identity and permission",
+      "locators": "U016P244-280",
+      "qualification": "Existing Lolisa17/132 bridge preserved, this occurrence unjoined. Other patron offers alternative; gesture interpretation qualified; travel actual, exact fare payment unshown."
+    },
+    {
+      "id": "C45-Q10",
+      "subject": "Owner identity, offers and actual rescue",
+      "locators": "U016P327-360",
+      "qualification": "Explicit succubus distinct MAIN16 vampire126. Closure/treasure offers unperformed; Vanir stops Wiz; gratitude/hospitality actual, exact payer/services unshown."
+    },
+    {
+      "id": "C45-Q11",
+      "subject": "Vice and petitioners",
+      "locators": "U018P39-89/257-336",
+      "qualification": "False victim/childhood stories do not become biography; shared wealth motive remains K qualified inference. Bargain unheard; actual two-wife wedding/dead-eyed reaction/alias retained."
+    },
+    {
+      "id": "C45-Q12",
+      "subject": "Pupil educational outcome",
+      "locators": "U018P118-127/210-219/314-318",
+      "qualification": "Choice, questions and grades retained. Fiction reception not universal critical perfection; no direct dismissal interview or child intent to fire teacher. Age appropriate and nonsexual."
+    },
+    {
+      "id": "C45-Q13",
+      "subject": "Melvirei access and departure",
+      "locators": "U018P105-437",
+      "qualification": "Actual defense/growth/healing distinct human mind/weather/species hypotheses. Interest in staying431 precedes Aqua prompt432 and departure433; no unprompted autonomy claim."
+    },
+    {
+      "id": "C45-Q14",
+      "subject": "Knee veteran counterparts",
+      "locators": "U020P496-519/652-679",
+      "qualification": "Refusal before heal; branch3 heal unrequested, later gratitude not prior consent. Own knee test, finite actual funds/lodging/level4 retained; no branch-memory transfer or infinite generosity."
+    },
+    {
+      "id": "C45-Q15",
+      "subject": "Hoost and Rex specific correspondence",
+      "locators": "U020P53/549-599/752-770;EXP03U034P492-515/U045P13-87",
+      "qualification": "Specific episode supports Hoost/Rex context beyond generic motif. Alternate leader remains unnamed/probable Rex; coalition broader than permanent party, no automatic Sophie/Terry voice or independent trial."
+    },
+    {
+      "id": "C45-Q16",
+      "subject": "Successful alternative and familiar companions",
+      "locators": "U020P714-828",
+      "qualification": "Profits and mansion access actual, not economic failure. Chores/people preference co-cause recruitment; reset known, no K06 durable-loss/equal-role substitution validation."
+    },
+    {
+      "id": "C45-Q17",
+      "subject": "Closing enacted versus planned",
+      "locators": "U020P847-882",
+      "qualification": "Put down not abandoned; contract purchased unsigned; Aq unties. Future seafood/fishing/banquet/apologies/payment not performed."
+    },
+    {
+      "id": "C45-Q18",
+      "subject": "Embedded and indirect source access",
+      "locators": "All five YORI03 components",
+      "qualification": "Book/lesson reports, generic typologies, implicit providers and institutional proposals do not create independently seen residents. All recorded groups/roles allow overlap; count null remains null."
+    },
+    {
+      "id": "C45-Q19",
+      "subject": "Pre-freeze naming, pronoun and inference corrections",
+      "locators": "U018P43/74/259/306-311;U016P337/359;U020P53/599/766",
+      "qualification": "Vice is the male heir without an extra birth-order claim; Tia native houseドルトリン; succubus owner uses female pronouns. False accounts do not prove a privately coordinated plan. Capital invitation and failed recognition have separate locators. Earlier draft bytes are retained and the complete literal corrections reviewed before any freeze or input."
+    }
+  ],
+  "old_versions_preserved": true,
+  "no_frozen_firsts_repaired": true,
+  "foundation_review_complete": false,
+  "canonical_changes": false,
+  "full_program_complete": false,
+  "prior_draft_sha256": "681a8f4b911c6666ffa32ec416e0b2cff95330b62a131bb34901265a29ffe60b",
+  "status_time_basis": "This document records the pre-freeze authorship state. Proposed tiers and false review/freeze/publication flags describe that point in time. Exact current acceptance and publication are recorded separately in the cohort receiving manifests and current census; these frozen foundation bytes are not retroactively rewritten."
+}

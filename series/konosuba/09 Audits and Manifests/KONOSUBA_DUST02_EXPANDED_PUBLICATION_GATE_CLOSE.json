@@ -1,0 +1,55 @@
+{
+  "schema": "KONOSUBA_DUST02_EXPANDED_PUBLICATION_GATE_CLOSE_V1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-18T02:01:19.189055+00:00",
+  "actual_source_commit": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+  "tree": "407a09ca6dc49273cf8a7385f3a1935bbad0cf87",
+  "all8316_remote_paths_equal": true,
+  "all27_changed_blob_streams_equal": true,
+  "source_audit": {
+    "run": 39087791087,
+    "job": 117557900141,
+    "actual_snapshot": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+    "paths": 8316,
+    "full_tests": 352,
+    "all_non_success_counters_zero": true,
+    "selection_enabled": false,
+    "log_sha256": "ede1772eb19d682ac08733c5662a7433d5f07bedc2ae166ac6065d5f3442a4ab"
+  },
+  "housekeeping": {
+    "run": 39088120420,
+    "job": 117558888145,
+    "actual_SOURCE_SHA": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+    "result": "NO_OP",
+    "exact_final_dispatch_verified": true,
+    "log_sha256": "f431249ae57eaed0a4619ab5d3d0b6910ddc8f3bb84447b45cacb90cf3ae138a"
+  },
+  "final_audit": {
+    "run": 39088145784,
+    "job": 117558966962,
+    "actual_snapshot_from_PASS_log": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+    "displayed_workflow_head_metadata": "1065d51ce5d4bec523e144fc2aec36f25abee8a1",
+    "paths": 8316,
+    "full_tests": 352,
+    "all_non_success_counters_zero": true,
+    "selection_enabled": false,
+    "log_sha256": "ed6c1cb5c321755d221c7290b7fb33e7a3368f5fee70d0deaf284f9bea05eaa8"
+  },
+  "exact_commit_status": {
+    "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+    "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+    "id": 56614723488,
+    "node_id": "SC_kwDOUJ9ads8AAAANLoAfoA",
+    "state": "success",
+    "description": "Exact commit passed the repository audit",
+    "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39088145784",
+    "context": "Repository integration audit",
+    "created_at": "2026-10-18T01:59:28Z",
+    "updated_at": "2026-10-18T01:59:28Z"
+  },
+  "source_branch_head": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+  "current_main": "1065d51ce5d4bec523e144fc2aec36f25abee8a1",
+  "source_main_integration_not_asserted": true,
+  "freeze_and_original_question_and_four_scores": "Remain exact; fresh published authority/pin reload is next before any new source admission",
+  "next": "Fresh published source/recovered frozen authority reload. Core receiving already admitted; Dust03 requires separate exact admission after reload. Full fixed41 program remains active."
+}

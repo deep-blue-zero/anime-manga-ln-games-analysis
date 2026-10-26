@@ -1,0 +1,387 @@
+{
+  "schema": "KONOSUBA_ROYAL_COHORT11_RECEIVING_AND_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T08:16:00.363533+00:00",
+  "source_boundary": "6958c3726a1dc3f9fb505915508af32a2f7e7bae",
+  "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "subject_tiers": {
+    "Claire": 3,
+    "Rain": 3
+  },
+  "new_distinct_model_bodies": 2,
+  "fifteen_entering_models_exact": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 24777,
+      "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md",
+      "bytes": 20922,
+      "sha256": "3ef260ea7a64f350c8c09448020a96e18ed0eed75af5acd417193805bff8655f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md",
+      "bytes": 25873,
+      "sha256": "e973e7f325238ab71fa0e10e3588d32c8fc3bf03dd827bb32e9120789c4742c7"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 20464,
+      "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md",
+      "bytes": 21826,
+      "sha256": "0be5bfa9097547a3d705b5a8216dd395f714382b65f6fa4cad499504641065c0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LEVI_RECONSTRUCTION_MODEL.md",
+      "bytes": 23809,
+      "sha256": "dd3b48dba631c87e7c0fe604f0cb5a94dd618e5e77b9d2c781491b6c7b7b3c46"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+      "bytes": 25561,
+      "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24361,
+      "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+      "bytes": 25474,
+      "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+    }
+  ],
+  "proposed_current_model_bodies": 17,
+  "prior_closed_model_subjects": 9,
+  "new_scoped_model_candidates": 2,
+  "prior_Nos_monograph_only_and_nine_bounded_profiles_preserved": true,
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CLAIRE_CHARACTER_MONOGRAPH.md",
+      "bytes": 18223,
+      "sha256": "3bd45b6bb27c70163bff8cebac6739642ed502a2e96fb07a48188df91801a813"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CLAIRE_RECONSTRUCTION_MODEL.md",
+      "bytes": 18435,
+      "sha256": "386b2e7c5df610e83bbf9fec58a8c9485132d6f28b8abb65a3658142de6b08d1"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLAIRE_EVIDENCE_INDEX.md",
+      "bytes": 12432,
+      "sha256": "69ffa5c1becd9ede5fa47d3426898b6e317ea1f2962c7374d01366553ff6905e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/CLAIRE_EXPANDED_V1_EVIDENCE/CLAIRE_RULE_INVENTORY_01.json",
+      "bytes": 2150,
+      "sha256": "4e1ded149ef247b5fcf4de549e4981b593045cb6e45fdae22217c985e6c172e8"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/CLAIRE_EXPANDED_V1_EVIDENCE/CLAIRE_SCENARIO_INPUTS_01.json",
+      "bytes": 5452,
+      "sha256": "0fa125092d06b51f0dfa9de73ffed00234b6d633ec4c8386a2516776239be21f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/CLAIRE_EXPANDED_V1_EVIDENCE/CLAIRE_FIRST_OUTPUTS_01.json",
+      "bytes": 3951,
+      "sha256": "f67e09d399f102cb972b39d19eb87e1cb04c666e71c9f9ea5fa1f70348bf9f76"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/CLAIRE_EXPANDED_V1_EVIDENCE/CLAIRE_INTERNAL_ASSESSMENT_01.json",
+      "bytes": 3590,
+      "sha256": "99529ceb8eec5b5a7814b4ae4d520d02a89beaa332f6c6c761733bcf71ff0db1"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_RAIN_CHARACTER_MONOGRAPH.md",
+      "bytes": 18766,
+      "sha256": "89e0ef4ad3e74741321d62dab635d921b7aa65f1a72bcc6bea6f03df646c50aa"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_RAIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 19139,
+      "sha256": "3d62cb9fc0958b86cc9edef8479036483f4cb0d752f63c599beab3719d689637"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_RAIN_EVIDENCE_INDEX.md",
+      "bytes": 13790,
+      "sha256": "4eee29fcca3845134a10767b43f73606d0c40bf05176f7506f6a8279ca688a4a"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/RAIN_EXPANDED_V1_EVIDENCE/RAIN_RULE_INVENTORY_01.json",
+      "bytes": 2109,
+      "sha256": "5ddd56b13d6593c221cbb0d3447a919670f893a30e20c5ced24d52c586157731"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/RAIN_EXPANDED_V1_EVIDENCE/RAIN_SCENARIO_INPUTS_01.json",
+      "bytes": 4703,
+      "sha256": "372da5bac7ba182ae4b8a0986749c66f773670c58cd895a56d4bd0d0307fc507"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/RAIN_EXPANDED_V1_EVIDENCE/RAIN_FIRST_OUTPUTS_01.json",
+      "bytes": 3186,
+      "sha256": "f0f0f1f1ee0364905df56dd8bbe7ef98b012cf470aa56d9f062b3227e2426d2e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/RAIN_EXPANDED_V1_EVIDENCE/RAIN_INTERNAL_ASSESSMENT_01.json",
+      "bytes": 3322,
+      "sha256": "dccdcb7da3bb8983ce846d6e15d30c19dadb592f907d5c1e1092ba7baffa30a2"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLAIRE_RAIN_INTERNAL_CHECK_PRE_BODY_CONTRACT_01.json",
+      "bytes": 6147,
+      "sha256": "2ddf47bc0dc0227732508756aeff627e5bbe283005c973fac67832b597ab96d3"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLAIRE_RAIN_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+      "bytes": 9422,
+      "sha256": "d43fa1209c5667b5aea52be4e118e19de68d103d9e7858bfe5e43a149df83ae9"
+    }
+  ],
+  "semantic_receiving": {
+    "schema": "KONOSUBA_ROYAL_COHORT11_SEMANTIC_NAME_REFERENCE_RECEIVING_V1",
+    "recorded_utc": "2026-10-20T08:07:45.666692+00:00",
+    "source_boundary": "6958c3726a1dc3f9fb505915508af32a2f7e7bae",
+    "status": "PRIVATE_SUBSTANTIVE_RECEIVING_COMPLETE_CANONICAL_ADOPTION_AND_PUBLICATION_PENDING",
+    "actual_native_receiving03_sha256": "c3f66f54428441ff35d993d9dca80b7d93427f287bb6f2ab2d2565649e69ef8c",
+    "current_drafts_and_evidence": [
+      {
+        "file": "CLAIRE_CHARACTER_MONOGRAPH_DRAFT_02.md",
+        "bytes": 18223,
+        "sha256": "3bd45b6bb27c70163bff8cebac6739642ed502a2e96fb07a48188df91801a813"
+      },
+      {
+        "file": "RAIN_CHARACTER_MONOGRAPH_DRAFT_02.md",
+        "bytes": 18766,
+        "sha256": "89e0ef4ad3e74741321d62dab635d921b7aa65f1a72bcc6bea6f03df646c50aa"
+      },
+      {
+        "file": "CLAIRE_RECONSTRUCTION_MODEL_DRAFT_01.md",
+        "bytes": 18435,
+        "sha256": "386b2e7c5df610e83bbf9fec58a8c9485132d6f28b8abb65a3658142de6b08d1"
+      },
+      {
+        "file": "RAIN_RECONSTRUCTION_MODEL_DRAFT_01.md",
+        "bytes": 19139,
+        "sha256": "3d62cb9fc0958b86cc9edef8479036483f4cb0d752f63c599beab3719d689637"
+      },
+      {
+        "file": "CLAIRE_EVIDENCE_INDEX_DRAFT_01.md",
+        "bytes": 12432,
+        "sha256": "69ffa5c1becd9ede5fa47d3426898b6e317ea1f2962c7374d01366553ff6905e"
+      },
+      {
+        "file": "RAIN_EVIDENCE_INDEX_DRAFT_02.md",
+        "bytes": 13790,
+        "sha256": "4eee29fcca3845134a10767b43f73606d0c40bf05176f7506f6a8279ca688a4a"
+      },
+      {
+        "file": "CLAIRE_RULE_INVENTORY_01.json",
+        "bytes": 2150,
+        "sha256": "4e1ded149ef247b5fcf4de549e4981b593045cb6e45fdae22217c985e6c172e8"
+      },
+      {
+        "file": "RAIN_RULE_INVENTORY_01.json",
+        "bytes": 2109,
+        "sha256": "5ddd56b13d6593c221cbb0d3447a919670f893a30e20c5ced24d52c586157731"
+      },
+      {
+        "file": "CLAIRE_SCENARIO_INPUTS_01.json",
+        "bytes": 5452,
+        "sha256": "0fa125092d06b51f0dfa9de73ffed00234b6d633ec4c8386a2516776239be21f"
+      },
+      {
+        "file": "RAIN_SCENARIO_INPUTS_01.json",
+        "bytes": 4703,
+        "sha256": "372da5bac7ba182ae4b8a0986749c66f773670c58cd895a56d4bd0d0307fc507"
+      },
+      {
+        "file": "CLAIRE_FIRST_OUTPUTS_01.json",
+        "bytes": 3951,
+        "sha256": "f67e09d399f102cb972b39d19eb87e1cb04c666e71c9f9ea5fa1f70348bf9f76"
+      },
+      {
+        "file": "RAIN_FIRST_OUTPUTS_01.json",
+        "bytes": 3186,
+        "sha256": "f0f0f1f1ee0364905df56dd8bbe7ef98b012cf470aa56d9f062b3227e2426d2e"
+      },
+      {
+        "file": "CLAIRE_INTERNAL_ASSESSMENT_01.json",
+        "bytes": 3590,
+        "sha256": "99529ceb8eec5b5a7814b4ae4d520d02a89beaa332f6c6c761733bcf71ff0db1"
+      },
+      {
+        "file": "RAIN_INTERNAL_ASSESSMENT_01.json",
+        "bytes": 3322,
+        "sha256": "dccdcb7da3bb8983ce846d6e15d30c19dadb592f907d5c1e1092ba7baffa30a2"
+      },
+      {
+        "file": "KONOSUBA_CLAIRE_RAIN_INTERNAL_CHECK_PRE_BODY_CONTRACT_01.json",
+        "bytes": 6147,
+        "sha256": "2ddf47bc0dc0227732508756aeff627e5bbe283005c973fac67832b597ab96d3"
+      },
+      {
+        "file": "KONOSUBA_CLAIRE_RAIN_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+        "bytes": 9422,
+        "sha256": "d43fa1209c5667b5aea52be4e118e19de68d103d9e7858bfe5e43a149df83ae9"
+      }
+    ],
+    "substantive_scope": "Full authored two monographs02, two distinct five-rule models01, two indexes at current versions, all first bodies, full assessments and major relationships/contrary cases compared with the actual listed native windows and already received source/ledger histories. Same informed root receiving, not independent review.",
+    "semantic_name_reference_findings": [
+      {
+        "classification": "JUSTIFIED_ROLE_REFERENCE",
+        "finding": "Claireクレア and白スーツ are source-joined; own eldest-daughter introduction and later attributed house-head title do not justify invented succession."
+      },
+      {
+        "classification": "JUSTIFIED_ROLE_REFERENCE",
+        "finding": "Rainレイン/Rein retrieval is distinct from Leenリーン; Irisアイリス/coverイリス has source continuity without invented merchant genealogy."
+      },
+      {
+        "classification": "KNOWLEDGE_BOUNDARY_REQUIRED",
+        "finding": "Actual Rain versus Dust in her body, quoted apparent Dust, reader knowledge and later real Rain dream recollection remain different actors/access planes."
+      },
+      {
+        "classification": "KNOWLEDGE_BOUNDARY_REQUIRED",
+        "finding": "MAIN10 proposed sedation is lip-read; MAIN11 forced potion is administered by Claire with Rain participation and actual later gaps; intended full erasure, permanent side effect and exact duration unproven. MAIN15 adds later attributed recovered-memory/guarantor evidence."
+      },
+      {
+        "classification": "SOURCE_PLANE_REQUIRED",
+        "finding": "Former coldness and financial memory projections remain mediated; current self-acknowledgment and actual requests to stop are distinct. Prologue/full-body/retold finance episode deduplicated."
+      },
+      {
+        "classification": "QUALIFIED_AMBIGUOUS_SPEAKER",
+        "finding": "DUST03U01459-60 consultation-level role statement is not forced into a uniquely tagged Rain turn; preserved monograph/index02 successors implement that precision."
+      },
+      {
+        "classification": "INTERNAL_PACKET_PRECISION_DEFECT_RETAINED",
+        "finding": "CL-H01B invents a council absent from the official-meeting packet. First body stays exact with explicit defect; no repair, new source person or success claim."
+      },
+      {
+        "classification": "UNRESOLVED_CENSUS_RETURN_LEAD",
+        "finding": "MAIN15U013461 police-officer self-nameアロエリーナ is a later identity return lead; no new person or tier inferred without existing-row/alias reconciliation."
+      }
+    ],
+    "tier_decisions": [
+      {
+        "subject": "Claire",
+        "tier": 3,
+        "scope": "First provisional expanded model candidate; semantic receiving complete, publication pending.",
+        "earned_basis": "Own past acknowledgment, conditional rank restraint/alliance, emotional susceptibility with actual refusals, performed skill and proxy errors, ordinary company/resources, feared control and recipient-sensitive speech justify a monograph plus differentiated five-rule conditional model.",
+        "limits": "Generic guardian/official and near-canonical rivals, covarying values, uncertain thresholds, English exercises and preserved packet defect leave generative reliability unproved."
+      },
+      {
+        "subject": "Rain",
+        "tier": 3,
+        "scope": "First provisional expanded model candidate; semantic receiving complete, publication pending.",
+        "earned_basis": "Own repair choices, family/pay/accountability conditions, local correction/protest and errors, protective execution versus chosen harmful participation, ordinary aspirations and controller-sensitive voice justify a distinct five-rule model.",
+        "limits": "Generic constrained official/subordinate and near-canonical rivals, unknown weights, designed bill contrast and unmatched primed compliance case leave generative reliability unproved."
+      }
+    ],
+    "actual_first_bodies": {
+      "Claire": 4,
+      "Rain": 3
+    },
+    "same_author_known_source_hypotheticals_only": true,
+    "independent_or_source_accuracy_credit": 0,
+    "confidence_gain_claimed": false,
+    "designated_curation_or_capability_grade_authored": false,
+    "new_models_proposed": 2,
+    "fifteen_entering_models_and_all_historical_records_preserved": true,
+    "no_new_source_admission": true,
+    "next": "Prepare ten-ledger/locator/matrix/claim/census current inputs against complete canonical files; review exact candidate, preflight, normal publication and full source-HK-final/readback/reload gate. Continue full program.",
+    "full_program_complete": false
+  },
+  "canonical_census_change_controls": {
+    "targeted_prior_row_indices": [
+      7,
+      8
+    ],
+    "untouched_prior_rows_exact": 166,
+    "new_rows": 0,
+    "current_rows_not_final_population": 168,
+    "fifteen_entering_models_unchanged": true,
+    "new_distinct_reconstruction_models": 2,
+    "proposed_current_models_after_adoption": 17,
+    "new_source_admission": false,
+    "global_census_closed": false,
+    "final_tiers_assigned": false,
+    "global_completion_percentage": null
+  },
+  "full_current_ten_ledger_receiving_retained": true,
+  "source_known_BASE_context_slots_within_receipt": 3285,
+  "new_global_unique_primary_full_ruby_image_admission_or_independent_credit": 0,
+  "hypothetical_first_bodies": {
+    "Claire": 4,
+    "Rain": 3
+  },
+  "known_defect_and_limits": "CL-H01B invents a council absent from its packet; first body remains exact. Generic/near-canonical rivals, designed cost contrast, unmatched primed compliance case and unknown thresholds remain; no Japanese/independent adequacy, capability grade or confidence gain.",
+  "protected_histories": {
+    "immutable66": true,
+    "historical72_at_frozen_revision": true,
+    "four_scores_Dust14blanks_SISY28nulls": true,
+    "fifteen_entering_models": true,
+    "original_source_reports_annotations_errata_gates_and_first_bodies": true,
+    "unrelated_scratch80": true
+  },
+  "publication": "Exact candidate review/preflight/nonforced publication/whole tree and changed blob readback/source-HK-final actual-source audit/status/fresh reload remain required. Prior Nos gate certifies6958c372, not this candidate.",
+  "designated_ownership": "No discovery/capability registry/index or housekeeping global output authored; designated maintainers retain ownership and new eligible discovery may lag under policy.",
+  "remaining": "Full all-individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separate StageD principal-party-transfer revisions, designated curation/evaluation/integration and component/release/final-entry audits.",
+  "full_program_complete": false,
+  "publication_pending_status_at_authorship": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "publication_resolution": {
+    "status": "SCOPED_CLAIRE_RAIN_TIER3_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "56dd3653c85d475ab85cdf891202d8e97531d729",
+    "tree": "23c73348bd59d7a231ffc85e0644884050732ae5",
+    "closed_utc": "2026-10-20T08:48:05.652388+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_ROYAL_COHORT11_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "63b217b8f00fbe0752dff06ef48f039f30fd652b1e9f82ed88ac40b24154c086",
+    "source_run": 39394115696,
+    "housekeeping_run": 39394836833,
+    "final_run": 39394885667,
+    "all_remote_paths": 9239,
+    "all_changed_streams": 37,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1063,
+    "current_model_bodies": 17,
+    "new_model_bodies": 2,
+    "scoped_secondary_model_subjects": 11,
+    "bounded_profiles": 9,
+    "monograph_only_subjects": 1,
+    "independent_accuracy_or_confidence_gain": false,
+    "full_program_complete": false
+  },
+  "published_authority_reload_sha256": "4a515897a0bb072ac638db64b6d09e1adf92b46173db32355cd462a263b5f73f"
+}

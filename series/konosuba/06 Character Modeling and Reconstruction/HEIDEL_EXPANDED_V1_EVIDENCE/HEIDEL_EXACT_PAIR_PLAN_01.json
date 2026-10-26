@@ -1,0 +1,40 @@
+{
+  "schema": "konosuba.cohort47.exact-input-pairs.v1",
+  "authored_utc": "2026-10-25T12:00:00.408770+00:00",
+  "foundation_freeze_sha256": "bd285c36cd90fe9dad086fdd979ae8f9d9b5274bfbc6e2f00a7d45f983f6c1bc",
+  "cases": [
+    "HEI-A1",
+    "HEI-A2",
+    "HEI-B1",
+    "HEI-B2"
+  ],
+  "pairs": [
+    {
+      "pair_id": "HEI-A",
+      "rule_id": "HEI-R01",
+      "only_substantive_driver": "Whether recipient preference information is explicitly supplied. Inventory, messenger capacity, timing, guest wording, role, stakes and output limits remain exact.",
+      "questions_for_later_diagnostic": "Does the output keep unknown preference unknown, distinguish a tentative selection from established taste, respect one-packet capacity and avoid unnecessary exposure of the guest? A generic efficient butler may do the same; no specific outcome is prescribed here.",
+      "rivals": "Generic service competence, guessing to reduce delay, deference, cue following and narrator-style role performance remain alternatives."
+    },
+    {
+      "pair_id": "HEI-B",
+      "rule_id": "HEI-R02",
+      "only_substantive_driver": "The curator's explicit instruction prohibits or approves the guest-name card. Actual selected-clock credit, resources, guest stimulus and available authority remain exact.",
+      "questions_for_later_diagnostic": "Does a relayed objection remain a real fact while the output shows its actual next response? Does the generated servant accommodate, refuse, delay, invent permission or guarantee reception? No branch is prewritten or scored as canon.",
+      "rivals": "Generic obedience to either host or guest, sincere misunderstanding, professional compliance and principled idealization overlap with the proposed local mechanism."
+    }
+  ],
+  "comparison_limits": [
+    "Four English outputs constitute two dependent pairs by the same informed author, with both inputs and source histories known.",
+    "This is a diagnostic of frozen model use and factual discipline, not independently identified psychology or an independent generic-baseline experiment.",
+    "Neither pair completes the nine-category final battery or any of the six separately owed original StageD successors.",
+    "Hypothetical clock, packets, curator notes and Rain's preference are supplied scene facts only; none enters canonical character census or biographies.",
+    "Output word guidance is a scenario format constraint, not an evidence-tier quota."
+  ],
+  "review_status": "Exact inputs authored after frozen foundation; full receiving/review and freeze required before any first output.",
+  "firsts_authored": 0,
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "canonical_changes": false,
+  "full_program_complete": false
+}

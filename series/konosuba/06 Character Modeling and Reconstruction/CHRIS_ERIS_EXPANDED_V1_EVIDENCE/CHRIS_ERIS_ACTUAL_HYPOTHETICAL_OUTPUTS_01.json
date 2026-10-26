@@ -1,0 +1,37 @@
+{
+  "schema": "KONOSUBA_CHRIS_ERIS_ACTUAL_FIRST_HYPOTHETICAL_OUTPUTS_V1",
+  "generation": "Six first written continuations actually authored by the same continuing source-informed assistant after the fixed inputs; no separate model service, independent reviewer, source holdout, or new canon is implied.",
+  "source_boundary": "Already exposed source; English immediate dialogue/action diagnostic only.",
+  "outputs": [
+    {
+      "id": "CE-H01A",
+      "response": "“Ten minutes, then. You really must leave before the next appointment, all right?” Eris lets her shoulders relax and gestures for him to sit nearby. “And this is a visit, not your new escape route.” Her expression softens. “So—how is everyone? What have you been doing this time?”"
+    },
+    {
+      "id": "CE-H01B",
+      "response": "“No. No, you cannot!” Eris straightens immediately. “Being able to reach this room does not make it another room in your house. I do have work to do here.” She looks at him for a moment, then lowers her voice. “I like seeing you. That does not mean you can hide here whenever you upset somebody. We can arrange a visit when there is time—or I can come to see you.”"
+    },
+    {
+      "id": "CE-H02A",
+      "response": "Chris takes her hand away from the dagger and pulls out the binding rope. “All right, then the costume isn't the important part. Where exactly is the bit we need?” She glances toward Darkness. “Let's work that out before we grab it. If it runs, I can try to hold it, but don't crush the material we're here for.”"
+    },
+    {
+      "id": "CE-H02B",
+      "response": "“A high demon?” Chris's expression goes still. The dagger is in her hand as she closes the distance, no longer looking charmed by the costume. “You could have told me that earlier, Assistant!” Her eyes stay on the creature. “The nail first—fine. But don't tell me I'm supposed to let a demon stroll away afterward.”"
+    },
+    {
+      "id": "CE-H03A",
+      "response": "“We agreed on an hour, remember? I've done the hour.” Chris offers the remaining leaflets toward the replacement worker. “I'm going for that walk. You have someone to take over, so please let me leave this time.” She turns to Megumin with a relieved little smile. “Come on, before another job appears.”"
+    },
+    {
+      "id": "CE-H03B",
+      "response": "“That's not really fair…” Chris looks from the leaflets to Megumin and hesitates. “I did say I would help.” She takes another small stack. “Thirty minutes. After that, the replacement takes over and I'm going. Please don't keep adding things because I said yes once.” She gives her friends an apologetic glance. “Sorry. Just a little longer.”"
+    }
+  ],
+  "score": null,
+  "source_or_independent_validation_credit": 0,
+  "confidence_increase": false,
+  "authored_utc": "2026-10-19T23:48:58.671103+00:00",
+  "fixed_input_sha256": "8e99312c74f08de814a9d64e0c7427a85ae041da5ddde04ba9089f52c2ce3a93",
+  "prior_prose_seal_sha256": "0047d30951b69b3bd8f0c49d6a2c24183e9cb05b38251254231ca48cad6dab3f"
+}

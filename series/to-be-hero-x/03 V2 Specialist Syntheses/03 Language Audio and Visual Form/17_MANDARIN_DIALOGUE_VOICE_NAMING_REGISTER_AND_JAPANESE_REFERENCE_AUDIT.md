@@ -7,7 +7,7 @@ generation: V2
 phase: 5
 specialist_number: 17
 status: canonical
-source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24 as represented by verified reconstructed Mandarin dialogue/visible text, aligned Japanese captions, episode deep readings, Phase-2 language and naming authorities, official multilingual naming sources, and prior source-grounded audiovisual notes; no fresh uninterrupted full-season acoustic audition is claimed
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24 as represented by verified reconstructed Mandarin dialogue/visible text, aligned Japanese captions, episode deep readings, Phase-2 language and naming authorities, official multilingual naming sources, and prior source-grounded audiovisual notes; no fresh uninterrupted full-season acoustic audition is claimed; post-freeze E05–E07 AV reconciliation within the formal and Yan audits' stated source limits; E01 native-frame alignment correction under TBHX-AV-E01-001
 canonical_home: 03 V2 Specialist Syntheses/03 Language Audio and Visual Form
 acoustic_scope: Lexical/discourse voice is canonical; pitch, timbre, breath, tempo, vocal placement, laughter, singing technique, and complete character-acoustic profiles remain outside this document unless directly auditioned in a cited local evidence artifact
 primary_claim_keys:
@@ -154,7 +154,8 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-18
-last_updated: 2026-08-18
+last_updated: 2026-10-25
+revision: AV-2026-10-25
 ---
 
 # Mandarin Dialogue, Voice, Naming, Register, and Japanese Reference Audit
@@ -292,7 +293,7 @@ A publication-grade Mandarin quotation requires:
 - an explanation when the Japanese witness materially diverges;
 - no silent correction of malformed OCR into a cleaner sentence unless the correction is documented.
 
-The preserved alignment exceptions matter. E01 cue 134 pairs a Chinese line about changed eye color with unrelated Japanese text about Trust. The Chinese and image govern. Other E01 and E04 strings contain OCR contamination around remembered names or insults. Japanese and context can establish broad sense without manufacturing a quote that was never securely reconstructed.
+The preserved alignment exceptions require explicit revision when source inspection changes their diagnosis. **E01 correction (`TBHX-AV-E01-001`, 2026-10-25):** legacy cue 134 retains the eye-color caption across an interval containing several changing Chinese hardsubs. Native WEB stills at 08:04.000–08:05.000 show the hair/voice comparison, at 08:09.000 Trust taking great effort to build, and at 08:13.000 its rapid destruction. The Japanese Trust text is therefore not established as unrelated: it can correspond to Chinese material omitted by the collapsed OCR cue. The supplied granular §5.2 and compact curated repair themselves disagree, so the latter is not accepted as a complete verbatim restoration. The [E01–E04 audit](../../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E01-E04_GEMINI_AV_HANDOFF_AUDIT.md) and current language-ledger erratum preserve the source samples and earlier ALE-001 diagnosis. Other E01 and E04 strings contain OCR contamination around remembered names or insults. Japanese and context can establish broad sense without manufacturing a quote that was never securely reconstructed.
 
 Spoken Mandarin `ta` also does not acoustically distinguish `他 / 她 / 它`. When the visible hardsub chooses a written pronoun, that is textual evidence, not phonetic evidence.
 
@@ -695,6 +696,8 @@ Her voice is one of the clearest examples of institutional language sounding int
 
 ## 26. Yang Cheng / E-Soul: shame, uprightness, covenant, and burden
 
+**E06 source correction (`TBHX-AV-E06-001`):** native Chinese rain hardsubs at WEB 21:10.88–21:27.25 / V2 cues 413–419 attach wholehearted support to honest self-facing, then explicitly refuse stopping to wait indefinitely if he cannot. `无条件` does not remove the surrounding conditional; `但是` is visibly subtitled. This corrects the older Japanese-dependent waiting interpretation without making E-Soul success a requirement of Xia's person-recognition. Her boundary preserves her agency as well as Yang's. Delivery and precise pauses remain acoustic debt.
+
 Yang’s early register is organized by shame, imitation, gratitude, and the desire to stand `堂堂正正`—uprightly and without shame—before E-Soul.
 
 The veteran’s mask language treats the role as covenant:
@@ -871,7 +874,7 @@ Both convert persons into projects, but their discourse differs:
 - Shang De devalues the existing person and imposes a product;
 - Yan Mo cultivates conditions in which the person appears to author the desired result.
 
-The forthcoming E05–E07 Yan Mo retrospective evidence audit remains necessary before the causal chain is archivally frozen. This document preserves the established lexical model without promoting the stronger claim that he planned every contingency from the beginning.
+The E05–E07 Yan Mo retrospective evidence audit now adjudicates the received tranche: paid commission, coercion, disposal, assistance, and expectation engineering are distinguished from unresolved administrative links and foresight. Its continuous/audio source qualifications remain conditions on archival causal closure. This document preserves the established lexical model without promoting the stronger claim that he planned every contingency from the beginning.
 
 ---
 
@@ -925,6 +928,8 @@ A current English-facing synthesis should use the official English surface while
 
 ## 39. Japanese reference function IV: source flattening or shift
 
+**Additional localization shift:** the actual `s01e06.ja.reference-aligned.ass` lines 337–340 (21:12.02–21:29.84) affirm continued waiting even if he cannot face himself. Native Chinese negates that indefinite waiting; BD English events 350–354 agrees with Chinese. Preserve the disagreement and actual witness provenance; do not substitute the producer's reconstructed Japanese quotation or infer localization intent.
+
 Some Japanese lines change emphasis:
 
 - Qīng’s `能犯错的普通人` becomes a more general wish to be ordinary.
@@ -943,13 +948,16 @@ The audit’s central discipline is to preserve the difference rather than harmo
 
 ## 40. Speaker labels, alignment, and false certainty
 
-Subtitle alignment can fail in three distinct ways:
+**E05–E07 source-control cases:** the E07 recollection is Yang-centered at high visual-inference confidence, but pictured Shang and Japanese tags support Shang for the VIP/call context; exact voice turns await audition. Displayed 尚超/夏晴 cannot establish every speaker. QA statuses in ASS `Name` are not character labels. Native E06/E07 written forms read 启士, including E07 phone 05:03.167; reject the report's 启示 claim. E05 native 11:39.500 displays 尚超, contradicting the derived 严谟先生 insertion. Preserve canonical 岩莫/Yan Mo and 岩叔 address; no stronger executive title follows. The E06 proposed agency line remains OPEN. Audio-ledger default exact-match text is not proof of independent listening. See [formal audit §§3/7/9](../../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md).
+
+Subtitle alignment and reconstruction can fail in four distinct ways:
 
 1. **Temporal mismatch** — paired cues belong to different moments.
 2. **Speaker-label overreach** — the reference assigns a speaker inconsistent with the visible scene.
 3. **Semantic overcompletion** — a plausible Japanese line tempts the analyst to manufacture exact Chinese wording.
+4. **Interval collapse** — one retained OCR caption occupies an interval containing several different native hardsubs, making a valid secondary passage appear unrelated.
 
-The E01 alignment exception and E16 masked-handler speaker issue demonstrate the first two. The E09 condition line demonstrates the third risk: the Japanese supplies the missing object, but the Mandarin quote remains only `我有个条件`.
+The E01 cue-134 reinspection demonstrates interval collapse rather than establishing a temporal mismatch; the E16 masked-handler issue demonstrates speaker-label overreach. The E09 condition line demonstrates the third risk: the Japanese supplies the missing object, but the Mandarin quote remains only `我有个条件`.
 
 A confident audit records the mismatch. It does not hide it for the sake of a smoother bilingual transcript.
 
@@ -1137,9 +1145,9 @@ A later acoustic claim becomes synthesis-grade only when the evidence record ide
 
 This requirement prevents a familiar analytical error: converting a memorable local delivery into a permanent character essence. Queen's collapse, Ghostblade's silence, Qīng's singing, and X's workmanlike refusal may each have strong local acoustic force while still requiring comparison across public, private, crisis, and recovery contexts.
 
-The required E05–E07 audiovisual-form microsequence audit should be completed next, before Documents 18 and 19. It will directly examine continuous Mandarin audio, dialogue bridges, music, silence, timing, and motion for the E-Soul arc. In particular it must test the transition from Yang's unaided rescue attempt into first manifestation; the conversion of private rescue into managed hero image; the E06 prototype-helmet mistaken-target sequence; the E07 duel, Lucky Cyan's concern, crowd/spectacle register, and the ending Yan Mo reveal montage. Document 19 will then own the full sound/public-voice synthesis.
+The E05–E07 formal audit is now a completed analytical receipt within its declared still/text/metadata and producer-report boundary. It preserves findings for Documents 18–20 and explicitly leaves uninterrupted motion, precise timing, independent Mandarin/music audition, and Cyan-specific concern as source obligations AV-D01–06. The inspected concerned/isolated concert spectator is Xia Qing; do not silently use her as evidence of Cyan's concern. Document 19 still owns the full sound/public-voice synthesis. The remaining Gemini arc bundles are now received, while their source-qualified adjudications retain channel-specific verification debts. Receipt of season-wide candidates does not itself complete Documents 18–20 or close Phase 5.
 
-A separate E05–E07 Yan Mo retrospective AV evidence audit remains mandatory before Phase 6. That audit has a different responsibility: causal adjudication of the kidnapping call, exclusion from selection, mistaken-target assassination chain, coercion, disposal of Da Hu and Er Hu, and the shift from attempted elimination to adaptive assistance. Formal construction and causal responsibility may cite overlapping footage without being collapsed into one document.
+The separate E05–E07 Yan causal audit now supplies that bounded adjudication, retaining AV-D02/04/07 for stronger continuous/audio/administrative claims. Formal construction and causal responsibility cite overlapping sources with distinct responsibilities. No Phase 6–9 task begins from these receipts. The [remaining-arcs integration checkpoint](../../99%20V2%20Archive%20and%20Delivery/TBHX_V2_REMAINING_ARCS_GEMINI_AV_INTEGRATION_CHECKPOINT.md) routes the newly supplied handoffs and their unresolved source checks.
 
 ---
 

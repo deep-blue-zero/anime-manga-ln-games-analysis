@@ -1,0 +1,87 @@
+{
+  "schema": "konosuba.cohort48.amaryllis-paired-first-diagnostic.v1",
+  "authored_utc": "2026-10-25T14:19:23.842839+00:00",
+  "foundation_freeze_sha256": "f834e28ea593a9a3dcaf0180014a0a557beea4ea4c623ec79a571c7d43859d85",
+  "exact_input_freeze_sha256": "87c504092f4143f85046e3f491ce8414d3a144729857612157357d6c914b0782",
+  "original_first_seal_sha256": "9f027192f65e74a099f00cc86d0778f73ad50109be39457499c768d3a1cd91ec",
+  "original_actual_receiving_sha256": "83a89d781bcc8f916ebea9e1a03b9339bf2e838a6659c2ecfb7083e13b592807",
+  "predeclared_design_sha256": "97f3ecd58b1e1fdc7b3fa8e9fed6a3eaa8df432a1bb41098bfa562d77c1fe8b4",
+  "case_observations": [
+    {
+      "input_id": "AMR-A1",
+      "rule": "AMR-R01",
+      "retained_body_sha256": "bbf5ec2e0ca6d9f543ee25610e49f23780af75e9c30122d3e2986d7a366d9d94",
+      "observed": "Uses the supplied earlier assurance as conversational pressure, moves a visible leg and withdraws/repositions it, then solicits company while remaining partly in the doorway.",
+      "adverse": "The current wait request is not answered directly. Quiet coaxing and carefully staged shadow replace the source more frantic repetition/advance; this is a local tonal choice, not proven voice fidelity. Continued pressure is not narrated consent.",
+      "unprovided_event_finding": "No new other-person reply, realized fear, cure,pet location or prop observed. Dialogue questions about expectations/leaving are questions, not independent private-state evidence.",
+      "rivals": "Literal reuse of the reassurance line, generic horror/coaxing and the informed author plan remain sufficient. No independent baseline was run."
+    },
+    {
+      "input_id": "AMR-A2",
+      "rule": "AMR-R01",
+      "retained_body_sha256": "443d0dd11b8207a600be4f92648cddeef4b34ece94ebbc34867baa6e75fecf68",
+      "observed": "Uses the supplied possibility wording and asks for a closer look or company instead of claiming a real prior promise not to fear. A foot moves forward while the existing request is left unanswered.",
+      "adverse": "The already frightened speaker is rhetorically treated as not yet decided. That is character pressure in dialogue, not a verified assessment of the traveler. Both A bodies share coy pacing and a small physical display, so different warrant is clearer than a broadly distinct behavioral policy.",
+      "unprovided_event_finding": "No actual past assurance is fabricated as fact; no new traveler reaction or completed emotion consumption. Existing wait request does not disappear even though she presses against it.",
+      "rivals": "Prompt-word echo, generic social pressure and informed contrast writing remain sufficient; one contrast does not validate AMR-R01."
+    },
+    {
+      "input_id": "AMR-B1",
+      "rule": "AMR-R02",
+      "retained_body_sha256": "50d87fee5555ef1cc129fabce0926c4c12c9de3cf9180b039fd3059763099d13",
+      "observed": "Recognizes Vanir, stops/retracts the ordinary costume, uses courteous apology and asks for an introduction. No supernatural mechanics or explicit superior rank are added.",
+      "adverse": "The narration says a pleading note disappears, although that prior vocal register was not supplied in B. The polished elaborate-introduction/absorbing-rehearsal phrasing risks a generic courteous performer. Attention being absorbing is her conversational claim, not a measured guest response.",
+      "unprovided_event_finding": "No next guest reply or successful later help. Recognition is supplied by the input; no independent evidence establishes why the canonical change occurs.",
+      "rivals": "Generic actor responding to a familiar colleague, courtesy, social connection and direct input following remain alternatives."
+    },
+    {
+      "input_id": "AMR-B2",
+      "rule": "AMR-R02",
+      "retained_body_sha256": "233378dd7166ab9405947fabe8292e6af8d7879b18222e8fd61089a5e42ce5a6",
+      "observed": "Stops the costume without identifying the voice as Vanir; maintains injured-sweet performance, requests a name/introduction and invites the unknown speaker closer.",
+      "adverse": "Invents past speech: I was just explaining how lonely it gets behind this curtain. B supplies no such earlier explanation, while the A pair does supply a loneliness statement. This is unprovided-history contamination. Kept injured sweetness also backfills an earlier vocal state. Both B outputs stop; recognition does not isolate the stopping action.",
+      "unprovided_event_finding": "Unprovided earlier utterance retained as an adverse original, not repaired. No inferred hidden rank,magic,pet search or next guest response is added.",
+      "rivals": "Generic performance continuity, prompt manipulation, remembered A context and ordinary workplace etiquette remain sufficient. This is not a clean causal confirmation or independent transfer result."
+    }
+  ],
+  "pair_observations": [
+    {
+      "pair_id": "AMR-A",
+      "cases": [
+        "AMR-A1",
+        "AMR-A2"
+      ],
+      "controlled_fact": "Only prior reassurance wording differs.",
+      "descriptive_contrast": "A1 invokes the actual assurance; A2 works with uncertainty and invitation. Both keep a partly hidden body and pressure the audience; A2 makes a small further step. The visible difference is primarily conversational warrant/tactic, not proof of a stable cross-context personality.",
+      "adverse_retained": "Coy controlled pacing underplays the source escalation; both leave the actual wait request unanswered. No forced moral-compliance score, independent baseline or unique causal explanation.",
+      "independent_observation_count": null
+    },
+    {
+      "pair_id": "AMR-B",
+      "cases": [
+        "AMR-B1",
+        "AMR-B2"
+      ],
+      "controlled_fact": "Only familiar Vanir versus unfamiliar staff voice differs in the explicitly ordinary human analogue.",
+      "descriptive_contrast": "Both stop the costume. B1 becomes courteous/retracts; B2 maintains the scare pose and asks for a name. This gives a representational register/accommodation contrast, with the same initial stopping action.",
+      "adverse_retained": "B2 invents a prior loneliness explanation; both prior voice-state descriptions exceed supplied B facts. Courtesy/workplace-response rivals and cross-pair contamination prevent a clean character-specific transfer conclusion. No supernatural or age biography is imported into canon.",
+      "independent_observation_count": null
+    }
+  ],
+  "word_count_accounting_only": {
+    "AMR-A1": 112,
+    "AMR-A2": 109,
+    "AMR-B1": 113,
+    "AMR-B2": 117
+  },
+  "original_firsts": 4,
+  "dependent_pairs": 2,
+  "independent_generator_or_generic_baseline_run": false,
+  "regeneration_or_repair_count": 0,
+  "foundation_or_input_revision_after_feedback": 0,
+  "independent_observation_count": null,
+  "accuracy_grade_confidence_or_Japanese_credit": null,
+  "final_nine_category_or_StageD_credit": 0,
+  "canonical_changes": false,
+  "full_program_complete": false
+}

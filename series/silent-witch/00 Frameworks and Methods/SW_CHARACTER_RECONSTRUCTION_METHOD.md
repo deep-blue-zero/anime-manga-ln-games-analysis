@@ -5,8 +5,8 @@ artifact_type: character_reconstruction_method
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.3"
-last_updated: "2026-10-14"
+version: "1.4"
+last_updated: "2026-10-18"
 status: canonical
 scope: "Future Japanese-LN, continuity- and state-bounded operational models"
 source_boundary: "Architecture bootstrap and source reconnaissance only; no narrative source unit analyzed."
@@ -87,6 +87,12 @@ Use qualitative distance: DIRECT_SOURCE, NEAR_ANALOG, STRUCTURAL_ANALOG, EXTRAPO
 
 Readiness records in the master ledger name subject/state, domain/context, evidence/coverage, rival model, gaps versus affirmative limitations, tests and result, restrictions, date and reviewer. Any rule/model path appears only when the artifact actually exists. A local readiness update preserves the preceding assessment and its boundary.
 
+### 4.1 Diagnose evidence gaps before rating readiness
+
+For subsequent authorized assessments, distinguish four causes in the existing readiness record's gap/evidence fields: (1) genuine source insufficiency within a defined inspected opportunity; (2) source evidence not sufficiently captured in the analytical corpus; (3) evidence retained locally but not routed into the reconstruction workflow; and (4) conflicting evidence requiring source reinspection. Mixed or unknown causes remain explicit. Cite the inspected range, reading/observation routes, affected domain and required retrieval or reinspection; do not infer source absence from a thin summary, missing monograph or missing ledger row.
+
+Recover local evidence and follow architecture section 5.1's escalation duty before assigning a source-insufficiency rationale. If that work is unavailable or unauthorized, preserve the bounded assessment as unresolved with the exact blocker, rather than treating the pipeline gap as a property of the character. A thin record supports only a bounded interpretation after adequate capture/routing review; it is not a license to discard supporting-character evidence. A single observation can be diagnostic, but added detail alone does not raise readiness: domain variation, counterevidence, uncertainty and actual tests still govern the existing tiers. No tier or historical readiness finding changes through this amendment.
+
 ## 5. Tiered outputs and activation
 
 | Output | Minimum basis | Boundaries |
@@ -116,7 +122,7 @@ A scenario specification states character/state/continuity, participants, knowle
 
 ## 7. Acceptance, revision, and reconstruction limits
 
-Accept a proposed tier only after the model's scope, evidence trail, ordinary behavior, recipient specificity, counterevidence, uncertainty and test history support that tier. Keep thin supporting characters explicitly thin. Preserve alternatives that cannot be discriminated.
+Accept a proposed tier only after the model's scope, evidence trail, ordinary behavior, recipient specificity, counterevidence, uncertainty and test history support that tier. Keep genuinely thin evidence explicitly bounded under section 4.1; distinguish source limits from capture/routing failures before relying on thinness. Preserve alternatives that cannot be discriminated.
 
 Use the claim/revision history in the [claims and revisions ledger](../03%20Longitudinal%20Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md) for material mechanism changes and preserve rule IDs/testing history. A consequential failure may expose wrong knowledge, recipient conditioning, applicability or causal model; record affected monographs and dependencies. Do not rewrite earlier prospective freezes to make the model appear predictive.
 
@@ -127,3 +133,8 @@ State at bootstrap: NO_SOURCE_UNIT_ANALYZED; zero identities modeled; zero readi
 State at V01 closure, 2026-10-14: one source unit analyzed; sixteen local identities keyed in the master ledger; eight evidence reviews recorded as SW-RD-0001 to SW-RD-0008, none awarding a tier; zero identities modeled; no recognition profile, domain model, fuller reconstruction, rule ID or synthetic dialogue created.
 
 State at completion, 2026-10-14: sixteen source units analyzed; 179 local identities keyed; evidence reviews SW-RD-0001 to SW-RD-0066, the last ten from the [reconstruction-readiness assessment](../09%20Reconstruction%20Readiness/SW_RECONSTRUCTION_READINESS_ASSESSMENT.md); no tier awarded and no test run; zero identities modeled; no recognition profile, domain model, fuller reconstruction, rule ID or synthetic dialogue created.
+
+
+## Amendment history
+
+- **1.4 — 2026-10-18:** Clarified source insufficiency, capture gaps, routing gaps and conflicting evidence before readiness judgments. Existing ordinary-behavior, recipient, conditional-rule and testing requirements retained without duplication. Completed V1 readiness findings and all model restrictions unchanged.

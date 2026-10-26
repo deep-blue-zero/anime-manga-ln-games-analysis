@@ -1,0 +1,63 @@
+{
+  "schema": "konosuba/pre-response-binding-final-seal/v1",
+  "sealed_at_utc": "2026-10-17T14:21:16.897072+00:00",
+  "state": "NINETY_BINDINGS_SEALED_ZERO_RESPONSES_NO_EXECUTION_RELEASE",
+  "manifest": {
+    "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/METADATA_ONLY_FINAL_PRE_RESPONSE_BINDING_MANIFEST.json",
+    "bytes": 11094,
+    "sha256": "e8239faaaa5e8f895a6157b30c85168d4b6a0b4df9f637e8058a7fafcc245f4b"
+  },
+  "root_safe_projection": {
+    "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/ROOT_SAFE_PRE_EXECUTION_METADATA_PROJECTION.md",
+    "bytes": 7120,
+    "sha256": "e2b3cff5a60ed2ad8153f934d5b4bc9a19197fecef5517836aa7c65d757351f8"
+  },
+  "full_private_binding_identity": {
+    "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SEALED_PRE_RESPONSE_BINDINGS_PRIVATE.json",
+    "bytes": 1382202,
+    "sha256": "0a05252f1005f482da2d0f015d4431f715c9b8544451d2d7ba3251fdeecd189d"
+  },
+  "exact_model_input_pins": {
+    "K": {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 60135,
+      "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+    },
+    "T": {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 49900,
+      "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+    },
+    "A": {
+      "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 63022,
+      "sha256": "f85d902572a6d1f5094a3892c693d7d456dde5b90b688d706840693a63499187"
+    },
+    "M": {
+      "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 59422,
+      "sha256": "618a867bfadb361305de4a4b8587a86f348eae1985042bbef11389fd9ab67080"
+    },
+    "D": {
+      "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-source-precision-proposal-v4/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 61217,
+      "sha256": "dc70739ab5613e70b6387421f324330735a0b79d1944100a3fd613f1cd2a310f"
+    },
+    "E": {
+      "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 66517,
+      "sha256": "13c288a0278f87af60ee0b1c01d04ed6336977e9f34d36e9f163a9e6399b0271"
+    }
+  },
+  "original_bank_and_prompts_unchanged": true,
+  "owner_pack_counts": [
+    18,
+    36,
+    36
+  ],
+  "project_generation": "V1",
+  "model_version": "MAIN_ONLY_R1",
+  "responses": 0,
+  "reader_boundary": "Metadata only for root before K18 first-response seal. Concrete packs remain closed until explicit execution release; assessment details remain evaluator-private until first complete owner response seals.",
+  "actual_execution_or_suite_freeze": "NOT_PERFORMED"
+}

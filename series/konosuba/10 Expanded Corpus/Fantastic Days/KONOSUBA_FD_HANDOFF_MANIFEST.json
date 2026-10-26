@@ -1,0 +1,93 @@
+{
+  "schema": "KONOSUBA_FD_DERIVATIVE_CANDIDATE_MANIFEST_V1",
+  "created_utc": "2026-10-18T22:53:49.333509+00:00",
+  "source_id": "FD",
+  "current_baseline_commit": "e3289990f823c0fe9027d7c940b1456590361094",
+  "canonical_directory": "series/konosuba/10 Expanded Corpus/Fantastic Days",
+  "files_excluding_this_manifest": [
+    {
+      "name": "KONOSUBA_FD_COMPONENT_REGISTER.json",
+      "bytes": 284345,
+      "sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090"
+    },
+    {
+      "name": "KONOSUBA_FD_DEEP_READING.md",
+      "bytes": 61808,
+      "sha256": "d4dbaf7d4277f17af291d9b1504d4dc98ecb207881ed4e52012c8f3075de58c4"
+    },
+    {
+      "name": "KONOSUBA_FD_HUMOR_REGISTER.json",
+      "bytes": 98256,
+      "sha256": "f3171c21a16d8a1a5a7998544d6b225e143bc1c4a1182086851fe45a92381ab0"
+    },
+    {
+      "name": "KONOSUBA_FD_VOICE_REGISTER.json",
+      "bytes": 363061,
+      "sha256": "adf544359e2b3c858be7f8c745feaa3e61984404c01b572e023538efe0d417ee"
+    },
+    {
+      "name": "KONOSUBA_FD_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 205043,
+      "sha256": "4ac9f2a84d9f052feb28054bd3935c0ec93b717cf894d6c3848938aa7b3919ba"
+    },
+    {
+      "name": "KONOSUBA_FD_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 20855,
+      "sha256": "1dcb2f8a3ec431748dd4c0fb8e6030fdfd69a4d2203e05b137de91c3b8ab3603"
+    },
+    {
+      "name": "KONOSUBA_FD_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 31580,
+      "sha256": "93f2d640fbcabfab1149b231b83f1de1a17fa7783850a5dd26262c8c8c085463"
+    },
+    {
+      "name": "KONOSUBA_FD_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 11438,
+      "sha256": "e5ba652026607222b569ff504ce7c5b62a8972ce7bbfa1afe91fff61ce725be5"
+    },
+    {
+      "name": "KONOSUBA_FD_ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 150789,
+      "sha256": "2f874635c4d5f4944d67d508282ea6dcb485dc0b8dd308992c16e1a03c6f1c1a"
+    },
+    {
+      "name": "KONOSUBA_FD_ORIGINAL_UNCODED_TEXT_NOTES.jsonl",
+      "bytes": 184126,
+      "sha256": "280ac3f260f78a39e6b6d7b9286cecd3eeca9ae0a5bef7d2085a51afcf239f6a"
+    },
+    {
+      "name": "KONOSUBA_FD_ORIGINAL_UNCODED_IMAGE_NOTES.jsonl",
+      "bytes": 12169,
+      "sha256": "61341f1b4985805f4759cc6522c7bdf14144c9bddd3fc3a9c7c101d82383d093"
+    },
+    {
+      "name": "KONOSUBA_FD_COMPONENT_ANALYSIS.md",
+      "bytes": 10813,
+      "sha256": "9b48d8b1be49a8a9c4125b5b0be6c3b1234d96d84eae575c17e4786cea46ea55"
+    },
+    {
+      "name": "KONOSUBA_FD_HUMOR_REGISTER.md",
+      "bytes": 41349,
+      "sha256": "35070eac75dfbffb3bc7523313c765c1bf83d36f8fd800117b6bf359149bf2b6"
+    },
+    {
+      "name": "KONOSUBA_FD_VOICE_REGISTER.md",
+      "bytes": 115706,
+      "sha256": "4d3c2490cd62a9fbe3c70fa06d413f3ca094417f8bf28fe980a092db9d0bf52b"
+    },
+    {
+      "name": "KONOSUBA_FD_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 5247,
+      "sha256": "464ac011b205175f3c7c163a09041b0c3f1d968e1647f88bf63a88e30ad427c3"
+    },
+    {
+      "name": "KONOSUBA_FD_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 30000,
+      "sha256": "d72daace31140af92a61610418e1f2fa55fca56353a597d686edb3a4b10e0658"
+    }
+  ],
+  "status": "ACCEPTED_AT_STATED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "native_epub_or_full_native_story_text_not_published": true,
+  "original_uncoded_derivative_notes_published_exact_not_native_source": true,
+  "frozen66_historical72_scores4_original14blanks_exact": true
+}
