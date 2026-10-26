@@ -25,7 +25,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`harmony`](characters/index/harmony.md) | 6 |
 | [`idoly-pride`](characters/index/idoly-pride.md) | 22 |
 | [`kimishinu`](characters/index/kimishinu.md) | 3 |
-| [`konosuba`](characters/index/konosuba.md) | 23 |
+| [`konosuba`](characters/index/konosuba.md) | 25 |
 | [`legend-of-the-galactic-heroes`](characters/index/legend-of-the-galactic-heroes.md) | 2 |
 | [`maebashi-witches`](characters/index/maebashi-witches.md) | 7 |
 | [`mass-effect`](characters/index/mass-effect.md) | 2 |
@@ -78,7 +78,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Anju Emma](characters/index/86-eighty-six.md#anju-emma) | 86 - Eighty-Six original light novels | `86-eighty-six:anju-emma@original-light-novels` | アンジュ・エマ |
 | [Annette Penrose](characters/index/86-eighty-six.md#annette-penrose) | 86 - Eighty-Six original light novels | `86-eighty-six:annette-penrose@original-light-novels` | アンリエッタ・ペンローズ |
 | [Aoyama Yuga](characters/index/my-hero-academia.md#aoyama-yuga) | My Hero Academia manga | `my-hero-academia:aoyama-yuga@manga` | — |
-| [Aqua](characters/index/konosuba.md#aqua) | Original light-novel continuity, main-principal analysis | `konosuba:aqua@original-light-novel` | — |
+| [Aqua](characters/index/konosuba.md#aqua) | Original light-novel continuity, main-principal and expanded analysis | `konosuba:aqua@original-light-novel` | — |
 | [Aragaki Ayase](characters/index/oreimo.md#aragaki-ayase) | Oreimo original light novels | `oreimo:aragaki-ayase@original-light-novels` | — |
 | [Araragi Koyomi](characters/index/monogatari-series.md#araragi-koyomi) | Monogatari Series original light novels | `monogatari-series:araragi-koyomi@original-light-novels` | — |
 | [Arato Hisako](characters/index/shokugeki-no-soma.md#arato-hisako) | Shokugeki no Soma manga | `shokugeki-no-soma:arato-hisako@manga` | — |
@@ -118,6 +118,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Crocodile tissue cover](characters/index/shuukura.md#crocodile-tissue-cover) | Original Japanese light-novel continuity and author supplements | `shuukura:crocodile-tissue-cover@original-light-novel` | — |
 | [Crusch Karsten](characters/index/re-zero.md#crusch-karsten) | Re:Zero main light novel | `re-zero:crusch-karsten@light-novel` | クルシュ・カルステン |
 | [Dabi](characters/index/my-hero-academia.md#todoroki-toya) | My Hero Academia manga | `my-hero-academia:todoroki-toya@manga` | Todoroki Toya |
+| [Darkness](characters/index/konosuba.md#darkness) | Original light-novel continuity, main-principal and expanded analysis | `konosuba:darkness@original-light-novel` | Dustiness Ford Lalatina |
 | [Decartes](characters/index/blue-archive.md#decartes) | Blue Archive game | `blue-archive:decartes@game` | — |
 | [Demon King](characters/index/konosuba.md#demon-king) | Original light-novel continuity, scoped Tier 2 cohort monograph | `konosuba:demon-king@original-light-novel` | 八坂恭一; Yasaka Kyōichi |
 | [Denia](characters/index/wuthering-waves.md#denia) | Wuthering Waves game | `wuthering-waves:denia@game` | — |
@@ -286,6 +287,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Mammon](characters/index/konosuba.md#mammon) | Original light-novel continuity, scoped Tier 2 cohort monograph | `konosuba:mammon@original-light-novel` | マモン |
 | [Mari Otsu](characters/index/sayonara-lara.md#mari-otsu) | Television anime continuity | `sayonara-lara:mari-otsu@anime` | — |
 | [Megumi](characters/index/konosuba.md#megumi) | Original light-novel continuity, bounded expanded cohort | `konosuba:megumi@original-light-novel` | メグミ |
+| [Megumin](characters/index/konosuba.md#megumin) | Original light-novel continuity, main-principal and expanded analysis | `konosuba:megumin@original-light-novel` | めぐみん |
 | [Miach Mihie](characters/index/harmony.md#miach-mihie) | Original novel, bounded comparative ethics | `harmony:miach-mihie@original-novel` | Miaha |
 | [Midori](characters/index/blue-archive.md#midori) | Blue Archive game | `blue-archive:midori@game` | — |
 | [Midoriya Izuku](characters/index/my-hero-academia.md#midoriya-izuku) | My Hero Academia manga | `my-hero-academia:midoriya-izuku@manga` | — |
@@ -380,7 +382,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Sakura](characters/index/tokyo-7th-sisters.md#sakura-child) | Tokyo 7th Sisters game | `tokyo-7th-sisters:sakura-child@game` | — |
 | [Saori](characters/index/blue-archive.md#saori) | Blue Archive game | `blue-archive:saori@game` | — |
 | [Sara](characters/index/mushoku-tensei.md#sara) | Japanese light-novel continuity | `mushoku-tensei:sara@light-novel` | — |
-| [Satou Kazuma](characters/index/konosuba.md#satou-kazuma) | Original light-novel continuity, main-principal analysis | `konosuba:satou-kazuma@original-light-novel` | — |
+| [Satou Kazuma](characters/index/konosuba.md#satou-kazuma) | Original light-novel continuity, main-principal and expanded analysis | `konosuba:satou-kazuma@original-light-novel` | — |
 | [Sayuri Ichinose](characters/index/rent-a-girlfriend.md#sayuri-ichinose) | Main manga continuity | `rent-a-girlfriend:sayuri-ichinose@manga` | — |
 | [Seia](characters/index/blue-archive.md#seia) | Blue Archive game | `blue-archive:seia@game` | — |
 | [Seibu Rio](characters/index/shine-post.md#seibu-rio) | SHINE POST television anime | `shine-post:seibu-rio@television-anime` | — |

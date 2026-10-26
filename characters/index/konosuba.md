@@ -14,7 +14,7 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Entity aliases:
   - _None._
 
-#### Subject: Original light-novel continuity, main-principal analysis
+#### Subject: Original light-novel continuity, main-principal and expanded analysis
 
 - Analysis subject ID: `konosuba:aqua@original-light-novel`
 - Series: `konosuba`
@@ -24,8 +24,10 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `expanded-synthesis`: LIGHT_NOVEL OTHER: Retrospective synthesis over the main-novel 01–17 baseline plus admitted expanded evidence: Consulting the Masked Devil reports, the game-derived Fantastic Days novel, Core world-guide tutorial fiction and individually dispositioned artbook and fanbook components. Source classes keep separate authority; later-read material does not rewrite the main-only derivation, holdout outcomes or main-novel chronology. This is review of the monograph, not new primary reading.; continuity `original-light-novel`
   - `main-principal-synthesis`: LIGHT_NOVEL VOLUME: Longitudinal specialist synthesis scoped to the admitted main-novel 01–17 principal narratives: ordinary work and art, sacred intervention and practical consequences, recognition, particular care and harm, written voice, belonging and the return-home conflict. The review concerns this synthesis, not a new full source reading. Holdouts, excluded edition components, supplemental narratives and adaptations are outside this evidence item’s analytical coverage.; continuity `original-light-novel`
 - Reviewed current evidence:
+  - [`expanded-monograph` — Aqua: expanded-corpus character monograph V1](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_AQUA_EXPANDED_CHARACTER_MONOGRAPH_V1.md) — **active provisional authority**
   - [`main-principal-monograph` — Aqua: main-principal character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_AQUA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="brad"></a>
@@ -71,6 +73,30 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - `expanded-cohort-01`: LIGHT_NOVEL OTHER: Bounded synthesis centered on MAIN12 final chapter; MAIN17 chapter 3 P200–402 and Eris-focalized epilogue; Continued Explosions 01 U021 P1–80/P119–203/P329–375/P444–510 and U026 P1–50. Accepted earlier-main and supplemental reports supply separately qualified derivative context. This is review of the monograph, not new primary reading, continuous MAIN12–17 coverage or completed scene and identity census.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Chris / Eris: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="darkness"></a>
+
+### Darkness
+
+- Entity ID: `konosuba:darkness`
+- Entity aliases:
+  - Dustiness Ford Lalatina (en, ALTERNATIVE) — Noble personal name given with Darkness as the subject of both monographs; Darkness is her chosen adventuring name.
+
+#### Subject: Original light-novel continuity, main-principal and expanded analysis
+
+- Analysis subject ID: `konosuba:darkness@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-synthesis`: LIGHT_NOVEL OTHER: Retrospective synthesis over the main-novel 01–17 baseline plus admitted expanded evidence: the game-derived Fantastic Days novel, Continued Explosions 01–02, Consulting the Masked Devil reports, the artbook Blessing encounter, Core guide tutorial fiction and individually dispositioned fanbook and TRPG components. Source classes keep separate authority; later-read material does not rewrite the main-only derivation, holdout outcomes or main-novel chronology. This is review of the monograph, not new primary reading.; continuity `original-light-novel`
+  - `main-principal-synthesis`: LIGHT_NOVEL VOLUME: Longitudinal specialist synthesis of the admitted main-novel 01–17 principal narratives: the chosen name and noble role, defensive contribution and finite endurance, the V07 crisis, particular attachment, meanings of humiliation, civic competence, ordinary life and written voice. This is review of the bounded synthesis, not a new full source reading. Holdouts, excluded edition components, supplemental narratives and adaptations are outside this evidence item’s coverage.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-monograph` — Darkness: expanded-corpus character monograph V1](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DARKNESS_EXPANDED_CHARACTER_MONOGRAPH_V1.md) — **active provisional authority**
+  - [`main-principal-monograph` — Darkness: main-principal character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DARKNESS_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="demon-king"></a>
 
@@ -315,6 +341,30 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Megumi: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MEGUMI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+<a id="megumin"></a>
+
+### Megumin
+
+- Entity ID: `konosuba:megumin`
+- Entity aliases:
+  - めぐみん (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, main-principal and expanded analysis
+
+- Analysis subject ID: `konosuba:megumin@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-synthesis`: LIGHT_NOVEL OTHER: Retrospective synthesis over the main-novel 01–17 baseline plus admitted expanded evidence: Explosions 01–03 prequels, Continued Explosions 01–02, the game-derived Fantastic Days novel and individually dispositioned artbook, comic and TRPG components. Source classes keep separate authority; later-read material does not rewrite the main-only derivation, holdout outcomes or main-novel chronology. This is review of the monograph, not new primary reading.; continuity `original-light-novel`
+  - `main-principal-synthesis`: LIGHT_NOVEL VOLUME: Longitudinal specialist synthesis of the admitted main-novel 01–17 principal narratives: the chosen Explosion specialization, practical and social knowledge, contribution and identity conflicts, Wolbach, particular relationships, adverse danger choices, written voice and narrator limits. This is review of the bounded synthesis, not a new full source reading. Holdouts, excluded edition components, supplemental narratives and adaptations are outside this evidence item’s coverage.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-monograph` — Megumin: expanded-corpus character monograph V1](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MEGUMIN_EXPANDED_CHARACTER_MONOGRAPH_V1.md) — **active provisional authority**
+  - [`main-principal-monograph` — Megumin: main-principal character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MEGUMIN_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="ozuma"></a>
 
 ### Ozuma
@@ -477,7 +527,7 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Entity aliases:
   - _None._
 
-#### Subject: Original light-novel continuity, main-principal analysis
+#### Subject: Original light-novel continuity, main-principal and expanded analysis
 
 - Analysis subject ID: `konosuba:satou-kazuma@original-light-novel`
 - Series: `konosuba`
@@ -487,8 +537,10 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `expanded-synthesis`: LIGHT_NOVEL OTHER: Retrospective synthesis over the main-novel 01–17 baseline plus admitted expanded evidence: Yorimichi 01, Consulting the Masked Devil, Dust 07, the game-derived Fantastic Days novel, the Medusa-dungeon and guide components and other fixed-41 component dispositions. Source classes keep separate authority; later-read material does not rewrite the main-only derivation, holdout outcomes or main-novel chronology. This is review of the monograph, not new primary reading.; continuity `original-light-novel`
   - `main-principal-synthesis`: LIGHT_NOVEL VOLUME: Longitudinal specialist synthesis of the admitted main-novel 01–17 principal narratives: comfort and autonomy, local problem-solving and implementation failures, competing rewards, particular attachment, agency and harm, narrator access, ordinary life and written pragmatics. This is review of the bounded synthesis, not a new full source reading. Holdouts, supplemental narratives, excluded edition components and adaptations are outside this evidence item’s coverage; later ledger qualifications do not widen that scope.; continuity `original-light-novel`
 - Reviewed current evidence:
+  - [`expanded-monograph` — Satou Kazuma: expanded-corpus character monograph V1](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_KAZUMA_EXPANDED_CHARACTER_MONOGRAPH_V1.md) — **active provisional authority**
   - [`main-principal-monograph` — Satou Kazuma: main-principal character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_KAZUMA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="wolfgang-crow"></a>
