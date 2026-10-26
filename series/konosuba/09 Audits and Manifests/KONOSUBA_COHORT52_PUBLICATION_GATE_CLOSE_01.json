@@ -1,0 +1,119 @@
+{
+  "schema": "konosuba.cohort52.exact-source-author-publication-gate.v1",
+  "status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+  "closed_utc": "2026-10-26T00:46:39.819309+00:00",
+  "gate_scope": "Reviewed TRPG Core/Advanced reference, sample, guide and scenario character increment. This source gate does not certify later closing bytes, the separately owned integration audit, final census or full program.",
+  "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+  "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+  "parent": "3fefb604441e806c369f3a105e80c2ec17139c35",
+  "accepted_main_at_author_publication": "136f5733c1be7bcb12e31b39c4c65b41116f3197",
+  "current_main_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+  "pull_request": {
+    "number": 338,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/338",
+    "title": "Expand KonoSuba artbook, fanbook and TRPG character studies",
+    "state": "closed",
+    "merged": true,
+    "head_sha": "9d09a6e0cff51591d1827ef5ab3dc25d9d937ece",
+    "base_sha": "c1ce63553e42527cebd7e6e4a665429c69619c88",
+    "merge_commit_sha": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+    "merged_at": "2026-10-26T00:32:24Z"
+  },
+  "current_provider_receiving_sha256": "db41011d5d302f68d30e81cf8fcfd749460b27e23c8d049b01a8b25bf51820fe",
+  "author_preflight": {
+    "files": 10365,
+    "project_files": 1760,
+    "authored_changed_paths": 29,
+    "sha256": "424834a495e2b5940a7948ebed292108063d1a11345b4731dbdc7bb0aff88429"
+  },
+  "ordinary_push": {
+    "sha256": "2cfaf6d490d86373e0b9f989ad827861c70f9ac2b316e7b1e6696960151dcc4b",
+    "approved_authors_and_committers_verified": true,
+    "forced": false,
+    "explicit_user_authorization_and_exact_payload_proof_sha256": "92f93c33703b4c922c4f780ac969650735b3955e131f59200f732495c86cbaf4"
+  },
+  "provider_protection_observation": {
+    "sha256": "841dc9569696607180632ec95b7b250977fd7dad7368c9abce71704be7bac6f5",
+    "main_ruleset_active": true,
+    "activation_tag_ruleset_active": true,
+    "continuing_branches_ruleset_disabled_at_observation": true,
+    "provider_settings_changed_by_analysis_author": false,
+    "ordinary_forward_push_preserved_history": true
+  },
+  "remote_readback": {
+    "files": 10365,
+    "project_files": 1760,
+    "all49_branch_delta_streams_exact": true,
+    "authored_KonoSuba_paths": 29,
+    "inherited_accepted_main_paths": 20,
+    "sha256": "ebcb69d94842fded19181baf2ae273bf4ad616cbabc0f354dceefdd968d503b5"
+  },
+  "actual_source_audit": {
+    "run": 40247993774,
+    "job": 121333561065,
+    "reporter_job": 121335344117,
+    "full_discovered_tests": 479,
+    "all5_non_success_zero": true,
+    "all_discovered_test_IDs_compared": true,
+    "latest_trusted_status": {
+      "id": 57223140124,
+      "context": "Repository integration audit",
+      "state": "success",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40247993774",
+      "updated_at": "2026-10-26T00:17:04Z"
+    },
+    "sha256": "ddcc57109d439752611e93c9b7e5dd92df3b0832cab44bf6c1652f56bba622b1"
+  },
+  "fresh_published_authority_reload": {
+    "sha256": "19c89dc971896b50aa2f233ac48c3ca5d99bb6e778a4240a91b1d93d8a798323",
+    "files": 1760,
+    "models": 71,
+    "preservation_checks": 239,
+    "fresh_full_EPUBs": 2,
+    "OPF_CRC_and82_selected_native_image_bytes_exact": true,
+    "technical_reload_not_new_semantic_or_independent_validation": true
+  },
+  "earlier_accepted_main136f_own_full479_audit": {
+    "run": 40245013203,
+    "source": "136f5733c1be7bcb12e31b39c4c65b41116f3197",
+    "sha256": "8d739617aa6d744a3d36ed7bded1f90a8d01281a1adab443889f700fdf663bdb"
+  },
+  "accepted_main_ordinary_reconciliation_sha256": "928d284ac367758ca0e9a77e6b2463c6df83c9695a1e176520602bae8781387e",
+  "received_increment": {
+    "new_source_access_records": 41,
+    "tier0": 22,
+    "bounded_profiles": 15,
+    "monograph_only": 4,
+    "new_models": 0,
+    "new_rules": 0,
+    "new_inputs": 0,
+    "new_original_firsts": 0,
+    "selected_native_images": 82,
+    "complete_census_neighbors": 21
+  },
+  "current_totals": {
+    "models": 71,
+    "scoped_secondary_model_entries": 65,
+    "bounded_profile_passages": 231,
+    "monograph_only_source_studies": 69,
+    "nonfinal_source_access_records": 836
+  },
+  "twelve_reference_only_supplements_preserve_all8_core_fields": true,
+  "aggregate38_prior8_core_fields_archived_and41_constituent_routes_qualified": true,
+  "other782_entering_rows_unchanged": true,
+  "historical19_plane_differences_exact": true,
+  "all_independent_counts_null": true,
+  "original_forecasts_models_responses_adverse_findings_scores_blanks_nulls_preserved": true,
+  "source_known_same_AI_lineage": true,
+  "independent_accuracy_or_grade_or_confidence_gain": 0,
+  "housekeeping": "No separate run is invented where routing was already materialized.",
+  "author_publication_tranche_complete": true,
+  "protected_integration_observed_merged_by_separate_owner": true,
+  "protected_integration_own_full_audit_not_certified_by_this_gate": true,
+  "broader_full_corpus_identity_audit_complete": false,
+  "final_census": false,
+  "final_tiers": false,
+  "unique_person_denominator": null,
+  "global_completion_percentage": null,
+  "full_program_complete": false
+}
