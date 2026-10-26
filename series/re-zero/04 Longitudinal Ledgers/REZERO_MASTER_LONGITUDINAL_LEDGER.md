@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: master_longitudinal_ledger
 scope: CUMULATIVE_MAIN_LIGHT_NOVEL_STATE_THROUGH_V19
-generation: V1.33
+generation: V1.34
 status: canonical
 release_state: mutable_active
 current_source_horizon: V19
@@ -43,15 +43,15 @@ For every new volume, update this file only after the source-facing reading has 
 
 | field | current state |
 |---|---|
-| analytical high-water mark in this synchronized transaction | V19 fully source-consumed/393current-claim candidate; its own full publication/integration gate remains required. Verified integrated sequential high-water is V18; thirteenth Priscilla pair completed PR326/source8a6a6f85/integratedmain6c181f53dbdfc857bf3994c10459c5819da130ea with actual exact source/main479-test audits, source-specific housekeeping and later native proof |
-| next candidate | After complete V19 gate: LILIANA_V01_V19_MODEL_AND_FIDELITY_REVIEW/own full gate, then REGULUS_V01_V19_MODEL_AND_FIDELITY_REVIEW/own full gate, then fixed prospective V20. Both earned constructions are unimplemented/ungraded. Active continuous terminalV43 plus mandatory terminal review; merges left to CI |
+| analytical high-water mark in this synchronized transaction | Verified integrated sequential high-water is V19: PR332/source298adfed8db47742692bb0a81bd9a8bf74603bfe/integratedmain2f77b3877760403413fd45de6564ce018cedaf66 completed exact source/main479-test audits, source-specific housekeeping and later native/source/protected/seal proof. The source-facing393claim transaction is verified integrated; the new Liliana derived pair requires its own complete publication/integration gate. |
+| next candidate | Close the complete publication/integration gate for the implemented Liliana pair, then REGULUS_V01_V19_MODEL_AND_FIDELITY_REVIEW with its separate full gate, then the unchanged final prospective V20, sequential admitted units throughV43, and the mandatory terminal architecture/state/role-gap/acquisition review. Regulus remains earned but unimplemented/ungraded. CI handles merges; no ordinary unit/model pause. |
 | current claim generation | RZ-V19-C001–C393;377exact predecessors individually adjudicated:215PRESERVE/121STRENGTHEN/33REVISE/8OPEN plus16NEW. All60incoming questions/10forecasts have separate postread decisions; complete entering377body and incomingV19seal remain literal/recoverable; exact older freezes unchanged |
 | reached event-state boundary | Living E021 continues,20Subaru deaths/21arrived segments. Reinhard actually dies/revives separately; all53wives survive suspension/thaw, Regulus terminally drowns for narrator, Fourth rescues Tina/Kiritaka retrieves Liliana, other fronts/rear remain unfinished. Unknown ingress is no named usable Greed power, new return or all-city cure |
 | admitted numbered source range | Japanese MAIN_LN V01–V43 under unchanged source lock/V41exception. V19 original23535212bytes/SHAd05c621e02a9767a6ca44e792f03dbec33c62db62467f3c1f3386eb65fc1db5d/CRCpass; actual23OPFmembers/3710positions=3671TEXT+39IMAGEreferences/55TEXTdeliveries,25distinct assets viewed/29views,2navigation resources and2187ruby groups/2877readings occurrence-by-occurrence. Identity/count proof is not semantic-attention credit |
 | unadmitted published gaps | DatedV44–V45gaps unchanged; metadata append/import report adds no narrative admission or current bibliographic freshness claim |
 | admitted non-spine witnesses | None; V20+/supplement/IF/WN/adaptation/new-import narratives remain unopened |
 | dedicated ledgers promoted | Same five sole owners: eventV2.3/E021; knowledgeV2.3/K705; mechanicsV1.12/M442; institutionV1.16/I379; relationshipV1.10/R155/RT363. New51K/34M/26I/17R/36RT;138individualRdecisions=24advanced/114literal preserves, all327oldRT/exact ancestry/preimages retained |
-| character models / local review | Thirteen historical model/separate review pairs retain exact bytes/scopes/defaults/local grades and closed gates, including Priscilla18. Liliana19 and Regulus19 have earned separate integrated constructions/reviews, neither implemented or graded here. V19 current-use reconciliation never extends an old review grade; no independent/held-out/runtime/global result |
+| character models / local review | All48entering protected artifacts/thirteen historical pair bytes, source scopes, defaults and local documentary grades remain exact. The new Liliana result is local same-analyst nonblind documentary acceptance, with no independent, held-out, runtime or global grade. The fourteenth pair, Liliana V01-V19, is IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after an actual separate19-dimension review,26individual negative controls,8NONCANONICAL_PROBE applications and3matched-recipient variants; two grouped model findings produced five exact substantive edits, plus one review-only independence-wording clarification. Its own complete publication/integration gate remains PENDING. V19 current-use reconciliation does not extend an old review grade. |
 | binding current corrections | Ram nearly-seven-year/nine-year chronologyOPEN. C116/M344 full feline speech/healing subject is Frederica, not Garfiel. C095's actual private denial to Gallek remains. Roswaal source/recipient/agency bounds remain; Muse evacuation/new city-hall base does not emend V17's source query |
 | relationship/specialist syntheses | Three earlier checkpoints exact. Arc5-end checkpoint/final specialist, sixth owner, new field, independent index or ordinary/voice/readiness split not earned; master retains current claims/person/ordinary/Japanese/questions/readiness |
 | prospective seal | IncomingV19body remains exact17236bytes/SHAc69ce35c1af024204a354e95692137007d52b10c7b3d3613d13da13ef50c5ede; older incomingV18body15685bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d remains historical. After complete V19 saved-content acceptance, outgoing60V20questions/10forecasts were finalized2026-10-25T09:20:11.459996+00:00: whole body17355bytes/SHAbc9edf56ab9f39d8c87eab9a2f152df6c1f329c9bc3713339ded080669aac718, literal below and in frozenV19§16. Preserve through both earned derived gates; no V20 opening before all required gates |
@@ -723,7 +723,7 @@ Explicit V19-B references select the new reading's exact bundles. Rows not mater
 |---|---|---|---|
 | Clind | Prior household/training competence retained; Subaru's actual taught stealth and whip applications now supply bounded performance evidence | V17-B02/B32; student success/cost not all-domain master power, adult offense or universal technical mastery | ACCUMULATING bounded mentor/household case |
 | Joshua Juukulius | Actual envoy/explicit younger brother in V16 remains; Roy's V19 brother cue adds a contextual family connection in Julius's battle. | V19 B04; explicitly V16 p-003#B0153. No newly observed theft, supplied missing content, confirmed fate, delivered old letter or every private motive. | ACCUMULATING particular envoy/brother case; suggestive wording is not a complete received explanation. |
-| Liliana | Own current22/departure13/nine-year history, family instrument/pursuit, caravan work/refused marriage invitation, paid-tip amulet, illness/song-as-gift and parental passing17 now condition the actually performed frightened song. | V19 B08/B10/B15–20. Already-bestowed awakening is unnoticed, not a new grant or erased old name account. Actual Kiritaka retrieval precedes unshown transport/waking; private warmer thought is not settled romance or universal social insight. | MONOGRAPH_READY_FOR_CONSTRUCTION — V01–V19 integrated model/separate applied19-dimension review EARNED_NOT_IMPLEMENTED; default actual retrieval before unshown transport. Own full gate precedes Regulus then V20. |
+| Liliana | Own current22/departure13/nine-year history, family instrument/pursuit, caravan work/refused marriage invitation, paid-tip amulet, illness/song-as-gift and parental passing17 now condition the actually performed frightened song. | V19 B08/B10/B15–20. Already-bestowed awakening is unnoticed, not a new grant or erased old name account. Actual Kiritaka retrieval precedes unshown transport/waking; private warmer thought is not settled romance or universal social insight. | MONOGRAPH_READY - V01-V19 integrated model/separate applied19-dimension review IMPLEMENTED; local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after two grouped findings/five substantive edits. Default actual retrieval before unshown transport; own full gate remains pending before earned Regulus then fixed V20. |
 | Kiritaka | Actually alive and retrieving Liliana after her call; makes a love claim/offers transport while she accepts rest and sets a sleeping boundary. | V19 B20. Claim rebuked as presumptuous, not every affection categorically rejected. No performed safe transport/new waking/settled romance, entire TenCouncil survival or erased old jealous stone harm. | Expanded bounded merchant/host/civic/relationship case; no complete ordinary/private biography from the rescue. |
 | Heinkel Astrea | Prior deputy/headship/father/son status remains; Reinhard reports current Felt-hostage coercion, followed by binding/gagging at a shelter | V18-B15; Felt's refusal/Otto's diversion change leverage, not legal succession. Reinhard's motive judgment is not forensics of every Cult association; no proved Theresia guilt or family reconciliation | ACCUMULATING harmful coercion/status case with source grades; no complete private motive |
 | Schult | Priscilla actually searches/finds him and returns; later stays at city hall as noncombatant while Fourth departs | V18-B11/B17/B22; attachment matters but no performed foot/bed reward, adult consent, complete parental/private history or guaranteed safety | ACCUMULATING bounded child/attachment/task subject, not a mature independent biography |
@@ -2606,13 +2606,13 @@ No forecast identifies a named betrayer, promises a cure, supplies an unseen liv
 
 ### Current post-V19 responsibility review
 
-Actual Japanese V19 consumption reaches complete text/image/navigation/ruby EOF. All377 entering claims were individually read/adjudicated, all60incoming questions/10forecasts separately answered, and all138 entering relationship rows individually judged. The393current claim candidate comprises215PRESERVE/121STRENGTHEN/33REVISE/8OPEN plus16NEW. These counts expose ancestry and coverage; the qualitative decisions below follow actual contrasting conditions rather than a threshold. This V19 transaction's own complete publication/integration gate remains required. Verified integrated sequential high-water remainsV18, and the thirteenth Priscilla pair's full gate is closed at integratedmain6c181f53dbdfc857bf3994c10459c5819da130ea. All47entering protected artifacts/thirteen historical scopes/defaults/local grades remain exact.
+Actual Japanese V19 consumption reaches complete text/image/navigation/ruby EOF. All377 entering claims were individually read/adjudicated, all60incoming questions/10forecasts separately answered, and all138 entering relationship rows individually judged. The393current claim candidate comprises215PRESERVE/121STRENGTHEN/33REVISE/8OPEN plus16NEW. These counts expose ancestry and coverage; the qualitative decisions below follow actual contrasting conditions rather than a threshold. Verified integrated sequential high-water is V19: PR332/source298adfed8db47742692bb0a81bd9a8bf74603bfe/integratedmain2f77b3877760403413fd45de6564ce018cedaf66 completed exact source/main479-test audits, source-specific housekeeping and later native/source/protected/seal proof. All48entering protected artifacts/thirteen historical pair bytes, source scopes, defaults and local documentary grades remain exact. The new Liliana result is local same-analyst nonblind documentary acceptance, with no independent, held-out, runtime or global grade. The fourteenth pair, Liliana V01-V19, is IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after an actual separate19-dimension review,26individual negative controls,8NONCANONICAL_PROBE applications and3matched-recipient variants; two grouped model findings produced five exact substantive edits, plus one review-only independence-wording clarification. Its own complete publication/integration gate remains PENDING.
 
 #### Liliana — earned integrated V01–V19 construction and separate review
 
-**MONOGRAPH_READY_FOR_CONSTRUCTION — EARNED_NOT_IMPLEMENTED.** V16's chosen vocation/refusal, public performance, errors and occasional social perception, V18's local relief/pride pressure/frightened commitment, and V19's family labor/departure/caravan/illness/music/ordinary attachments provide a materially different longitudinal axis. She can misread a person, fear death, resist misuse, value a name, accept help and continue a demanding song without becoming one invariant comic mannerism or a newly infallible gifted singer. The actual declined marriage invitation is separate from a counterfactual return-home husband/ten children; the first paid-tip amulet predates the later illness. Her gift to past heroes does not require their reciprocation, while her wish for actual living friends remains real. Current Kiritaka retrieval permits fatigue/rest and a private warmer possibility without inventing waking, transport or settled romance. V19 B08/B10/B15–20 supplies the new source axis.
+**MONOGRAPH_READY - IMPLEMENTED; local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY; own publication gate PENDING.** V16's chosen vocation/refusal, public performance, errors and occasional social perception, V18's local relief/pride pressure/frightened commitment, and V19's family labor/departure/caravan/illness/music/ordinary attachments provide a materially different longitudinal axis. She can misread a person, fear death, resist misuse, value a name, accept help and continue a demanding song without becoming one invariant comic mannerism or a newly infallible gifted singer. The actual declined marriage invitation is separate from a counterfactual return-home husband/ten children; the first paid-tip amulet predates the later illness. Her gift to past heroes does not require their reciprocation, while her wish for actual living friends remains real. Current Kiritaka retrieval permits fatigue/rest and a private warmer possibility without inventing waking, transport or settled romance. V19 B08/B10/B15–20 supplies the new source axis.
 
-Required operation: **LILIANA_V01_V19_MODEL_AND_FIDELITY_REVIEW**, after the complete V19 gate. Construct one integrated conditional person model from all admitted actual appearances/retrospects, then actually apply the existing nineteen-dimension review separately, with controls/probes kept NONCANONICAL. A new model, completed review, passing grade or independent/runtime result does not exist at this readiness horizon.
+Implemented operation: **LILIANA_V01_V19_MODEL_AND_FIDELITY_REVIEW**, after the verified full V19 gate. The [integrated conditional model](../05%20Character%20Analysis/REZERO_LILIANA_V01_V19_CHARACTER_MODEL.md) and [separate applied review](../08%20Audits%20and%20Manifests/REZERO_LILIANA_V01_V19_FIDELITY_REVIEW.md) reconstruct vocation, ordinary development, family/work, song-as-gift, differentiated recipients, fear, errors, awakening and actual retrieval within admitted V01-V19. Twenty-two conditional rules/eighteen evidence-dependency bundles preserve the seven-axis selector. All19dimensions,26negative controls,8NONCANONICAL_PROBE cases and3matched-recipient variants were actually applied; two grouped findings repaired five model passages concerning exact event/civic-cover evidence routes and acquired Petelgeuse identity. One review-only clarification makes same-analyst adjudication explicit. Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY is bounded documentary acceptance; own full publication/integration gate remains pending, with no independent/held-out/runtime/global grade.
 
 Default: **`V19_E021_KIRITAKA_CANAL_RETRIEVAL_BEFORE_UNSHOWN_TRANSPORT`**, V19 p-006#B0494–0529. She has actually been retrieved, is exhausted/accepting rest and sets a sleeping boundary; no new wake or safe transport is performed. Waking/earlier performance or ordinary dialogue requires an explicit supported override. Development, event, knowledge, remembered history, recipient, role/status and bodily/resource coordinates must each be selected; a comic voice does not fill missing knowledge. Its own full publication/integration gate precedes the Regulus operation.
 
@@ -2659,7 +2659,7 @@ No sixth owner, field contract, independent locator/evidence index, ordinary/voi
 
 **arc5_checkpoint: NOT_EARNED.** Greed's narrated death and successful local Fourth interventions coexist with unfinished Lye/Roy/First/rear battles, unresolved patients/identity/family claims and unperformed transport. 《了》does not independently establish the arc ending.
 
-**work order:** complete V19 transaction gate → Liliana integrated construction/separate actually applied review/own full gate → Regulus integrated construction/separate actually applied review/own full gate → fixed prospective V20 → sequential admitted units throughV43 → mandatory terminal architecture/state/role-gap/acquisition review. Merges remain with CI. No routine unit/model pause; admitted-source exhaustion is not published-series completion or automatic final synthesis readiness.
+**work order:** V19 complete gate CLOSED. Close the complete publication/integration gate for the implemented Liliana pair, then REGULUS_V01_V19_MODEL_AND_FIDELITY_REVIEW with its separate full gate, then the unchanged final prospective V20, sequential admitted units throughV43, and the mandatory terminal architecture/state/role-gap/acquisition review. Regulus remains earned but unimplemented/ungraded. CI handles merges; no ordinary unit/model pause. Admitted-source exhaustion is not published-series completion or automatic final synthesis readiness.
 
 
 ### Historical entering post-V17 readiness — original-heading routers
@@ -3714,4 +3714,63 @@ Historical size maintenance must use the measured complete candidate, exact decl
 
 **work order:** V18full gate CLOSED at integratedmain10576e0d → Priscilla model/separate bounded review IMPLEMENTED, own full publication gate PENDING → sealedV19 → atomic prospective operations through authorizedV43 → terminal architecture/state/acquisition review. No ordinary confirmation/pause. Source exhaustion is not complete-to-date possession or automatic final synthesis readiness.
 
+````````````````
+
+
+## Liliana V01-V19 routing maintenance - superseded entering fragments
+
+These exact fragments record the entering V19/pending-source status. They are historical preimages, not current work orders, grades or permission to open V20. The live replacements above govern this derived operation.
+
+### Entering fragment: master integrated source boundary
+
+````````````````markdown
+| analytical high-water mark in this synchronized transaction | V19 fully source-consumed/393current-claim candidate; its own full publication/integration gate remains required. Verified integrated sequential high-water is V18; thirteenth Priscilla pair completed PR326/source8a6a6f85/integratedmain6c181f53dbdfc857bf3994c10459c5819da130ea with actual exact source/main479-test audits, source-specific housekeeping and later native proof |
+````````````````
+
+### Entering fragment: master next operation
+
+````````````````markdown
+| next candidate | After complete V19 gate: LILIANA_V01_V19_MODEL_AND_FIDELITY_REVIEW/own full gate, then REGULUS_V01_V19_MODEL_AND_FIDELITY_REVIEW/own full gate, then fixed prospective V20. Both earned constructions are unimplemented/ungraded. Active continuous terminalV43 plus mandatory terminal review; merges left to CI |
+````````````````
+
+### Entering fragment: master implementations and review limits
+
+````````````````markdown
+| character models / local review | Thirteen historical model/separate review pairs retain exact bytes/scopes/defaults/local grades and closed gates, including Priscilla18. Liliana19 and Regulus19 have earned separate integrated constructions/reviews, neither implemented or graded here. V19 current-use reconciliation never extends an old review grade; no independent/held-out/runtime/global result |
+````````````````
+
+### Entering fragment: current Liliana person-row readiness
+
+````````````````markdown
+| Liliana | Own current22/departure13/nine-year history, family instrument/pursuit, caravan work/refused marriage invitation, paid-tip amulet, illness/song-as-gift and parental passing17 now condition the actually performed frightened song. | V19 B08/B10/B15–20. Already-bestowed awakening is unnoticed, not a new grant or erased old name account. Actual Kiritaka retrieval precedes unshown transport/waking; private warmer thought is not settled romance or universal social insight. | MONOGRAPH_READY_FOR_CONSTRUCTION — V01–V19 integrated model/separate applied19-dimension review EARNED_NOT_IMPLEMENTED; default actual retrieval before unshown transport. Own full gate precedes Regulus then V20. |
+````````````````
+
+### Entering fragment: current post-V19 readiness source boundary
+
+````````````````markdown
+Actual Japanese V19 consumption reaches complete text/image/navigation/ruby EOF. All377 entering claims were individually read/adjudicated, all60incoming questions/10forecasts separately answered, and all138 entering relationship rows individually judged. The393current claim candidate comprises215PRESERVE/121STRENGTHEN/33REVISE/8OPEN plus16NEW. These counts expose ancestry and coverage; the qualitative decisions below follow actual contrasting conditions rather than a threshold. This V19 transaction's own complete publication/integration gate remains required. Verified integrated sequential high-water remainsV18, and the thirteenth Priscilla pair's full gate is closed at integratedmain6c181f53dbdfc857bf3994c10459c5819da130ea. All47entering protected artifacts/thirteen historical scopes/defaults/local grades remain exact.
+````````````````
+
+### Entering fragment: Liliana readiness heading
+
+````````````````markdown
+#### Liliana — earned integrated V01–V19 construction and separate review
+````````````````
+
+### Entering fragment: qualitative Liliana argument with implemented verdict
+
+````````````````markdown
+**MONOGRAPH_READY_FOR_CONSTRUCTION — EARNED_NOT_IMPLEMENTED.** V16's chosen vocation/refusal, public performance, errors and occasional social perception, V18's local relief/pride pressure/frightened commitment, and V19's family labor/departure/caravan/illness/music/ordinary attachments provide a materially different longitudinal axis. She can misread a person, fear death, resist misuse, value a name, accept help and continue a demanding song without becoming one invariant comic mannerism or a newly infallible gifted singer. The actual declined marriage invitation is separate from a counterfactual return-home husband/ten children; the first paid-tip amulet predates the later illness. Her gift to past heroes does not require their reciprocation, while her wish for actual living friends remains real. Current Kiritaka retrieval permits fatigue/rest and a private warmer possibility without inventing waking, transport or settled romance. V19 B08/B10/B15–20 supplies the new source axis.
+````````````````
+
+### Entering fragment: implemented Liliana operation and actual review
+
+````````````````markdown
+Required operation: **LILIANA_V01_V19_MODEL_AND_FIDELITY_REVIEW**, after the complete V19 gate. Construct one integrated conditional person model from all admitted actual appearances/retrospects, then actually apply the existing nineteen-dimension review separately, with controls/probes kept NONCANONICAL. A new model, completed review, passing grade or independent/runtime result does not exist at this readiness horizon.
+````````````````
+
+### Entering fragment: current readiness work order
+
+````````````````markdown
+**work order:** complete V19 transaction gate → Liliana integrated construction/separate actually applied review/own full gate → Regulus integrated construction/separate actually applied review/own full gate → fixed prospective V20 → sequential admitted units throughV43 → mandatory terminal architecture/state/role-gap/acquisition review. Merges remain with CI. No routine unit/model pause; admitted-source exhaustion is not published-series completion or automatic final synthesis readiness.
 ````````````````

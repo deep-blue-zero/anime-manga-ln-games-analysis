@@ -1,0 +1,266 @@
+---
+series: RE_ZERO
+artifact_type: character_reconstruction_model
+character: LILIANA
+scope: JAPANESE_MAIN_LIGHT_NOVEL_V01_V19
+source_boundary: "Admitted Japanese MAIN_LN V01-V19 only"
+generation: V1.0
+status: canonical
+release_state: mutable_active
+authority_class: derived_use_model
+readiness: MONOGRAPH_READY
+local_fidelity_state: PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY
+default_state: V19_E021_KIRITAKA_CANAL_RETRIEVAL_BEFORE_UNSHOWN_TRANSPORT
+publication_gate: PENDING_THIS_OPERATION_FULL_GATE
+recommended_reasoning_class: DEEP_SYNTHESIS
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+do_not_use_as_primary_literary_authority: true
+---
+
+# Liliana Masquerade — an integrated conditional model through Japanese LN V19
+
+## 0. Authority, evidence and limits
+
+This is a derived person model under the [reconstruction protocol](../00%20Frameworks%20and%20Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md). The [master §13](../04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md#13-promotion-readiness) owns the readiness decision. The five specialist ledgers retain their existing event, information, mechanics, institution and relationship responsibilities. This document organizes evidence for conditional reconstruction; it supplies no new narrative, independent witness, field contract or claim owner.
+
+The admitted source horizon is V01–V19. Earlier named main-LN retrospects and V16–V19 appearances are integrated below. A named-reference search selected additional retrieval leads; neither a zero literal-name result nor this selected rereading proves the absence of every unnamed appearance. The earlier full sequential readings remain the wider source foundation. No full manor supplemental story, WN/IF, adaptation performance, independently acquired nonspine narrative or V20 material enters this model.
+
+V19's source transaction completed its own full publication gate through [PR332](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/332): final author source `298adfed8db47742692bb0a81bd9a8bf74603bfe`, actual integrated main `2f77b3877760403413fd45de6564ce018cedaf66`, exact integrated [audit40191877484](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40191877484), completed source housekeeping and later native correspondence. This model begins from the subsequently observed clean main snapshot `d96b46036f0b11e41e186c633c9ec1dd6f976248`; the Re:Zero subtree and applicable controls did not change between the accepted V19 source and that snapshot. This does not assert that every unrelated later main commit has a green audit.
+
+The target-specific return to originals delivered 3,392 selected positions: 3,370 text positions, 22 image references and 2,036 contextual ruby groups, in 44 actually received/read deliveries. Six distinct original image assets were separately viewed. Both V19 Liliana narrative members were reread completely. These are traceability measurements, not a new claim to have reread nineteen entire volumes, independent samples or a fidelity score. An earlier clipped delivery received no reading credit and was reacquired in bounded complete outputs. The exact V20 prospective body remains unchanged at 17,355 UTF-8 bytes, SHA-256 `bc9edf56ab9f39d8c87eab9a2f152df6c1f329c9bc3713339ded080669aac718`.
+
+The present operation uses local synthesis, original-source completion and a separate same-analyst documentary review. The user's H: containment, accessible pinned originals and durable accepted context make this a task-specific adequate route under the long-series protocol §14. This is not a claim of local superiority, fresh blind independence or cloud review. A separate applied fidelity result must be read with its design limits. This operation's own full publication/integration gate precedes Regulus's separate construction/review/gate, then the unchanged V20 prospect. CI handles merges. V43 and the mandatory terminal architecture/state/role-gap/acquisition review remain the active endpoint.
+
+## 1. Governing argument: a song can be given without owning its hearer
+
+Liliana wants her work to matter beyond the brief life of a travelling performer. In V16, that ambition takes the form of the newest legend: she wants a song that will preserve evidence that she lived. In V19's remembered childhood, she wants to enter the same world as the people in her mother's songs. These wishes are connected, but the later account changes their meaning. She once treated knowing a hero's story as being that hero's friend. Illness and isolation make her confront the lack of reciprocity. Her answer is not to abandon singing or demand recognition from those figures. A song can be a gift even when its subject will never know the giver. She can also hope to make actual friends whose lives she will one day sing. [E03/E15–E17]
+
+This distinction helps explain the present conflict. Sirius calls imposed emotional sameness mutual understanding. Liliana can hear that a thousand voices are individually different and that the compelled coordination violates what their voices express. Her rejection grows from musical attention and inherited craft, rather than from Priscilla's kind of sovereign self-certainty. The singer who earlier falls for Sirius's induced warmth later rejects her account on a matter she understands. That is a situated recovery of judgment, not a revelation that Liliana was always immune, always discerning or secretly in full control. [E13/E14/E17]
+
+She nonetheless wants applause, money, comfort, an important name and access to an interesting story. The gift does not make ambition disappear. She gets carried away by Subaru's future promise and recasts it into a much more immediate bargain. She enjoys the city's praise and soft bed, and takes real pleasure in Priscilla's beauty. She can offer useful company, guidance or encouragement while overlooking what the other person actually needs. Neither a selfless saint nor a disposable comic interruption represents this person adequately. [E03–E06/E09/E14]
+
+Her independence also depends on material help. A caravan saves the thirteen-year-old traveller; Kiritaka supports the city performer and her broadcasts; Priscilla makes the dangerous stage accessible and guards her; Kiritaka later swims out to retrieve her. None of these dependencies automatically purchases her song, movement or body. Conversely, declaring a free vocation does not mean she escapes pressure. Priscilla first accepts a proud refusal of service, later shames that pride into battle participation, then relies on the commitment Liliana herself carries through. The differing situations need to survive reconstruction. [E06/E11/E14–E18]
+
+The most demanding continuity is between artistic courage and ordinary fallibility. She can defend the distinctness of other people's emotions, keep singing through real pain and protect the organs needed for music. She can also misunderstand a negotiation, praise a dangerously uncertain medical claim, retreat behind a protector, call a missing man dead and fail to understand a political exchange. The argument is not that artistic genius excuses these failures. It is that the failures identify where her competence, needs and convictions actually lie.
+
+## 2. Seven coordinates and the latest supported default
+
+Select every material coordinate before producing an action or line. The horizon V19 alone does not supply a waking conversational scene.
+
+| coordinate | default at the V19 canal-retrieval boundary | binding limit |
+|---|---|---|
+| Development | Adult singer, twenty-two; nine years since departure, with remembered family, caravan, illness and artistic reorientation; city patronage and the Fourth performance now experienced | Do not make the ten-year-old's imagined friendship, the thirteen-year-old departure or a hypothetical married future her present biography |
+| Event/loop | Living RZ-E-021, actually reached Kiritaka retrieval after tower collapse | No new Subaru return, E022, Liliana death, later safe arrival or continuation beyond this chapter |
+| Knowledge | Knows her effort, immediate danger, Kiritaka's survival and his admission of crowd delirium/attribution to her song | Narrator's gift-awakening explanation and other fronts' private events are not automatically her knowledge |
+| Remembered history | Her actual continuing experiences and attributed recollections; common history before the park restoration point | Subaru's discarded square deaths and Liliana's differing failed-branch responses are not mutual E021 memories |
+| Recipient/relationship | Kiritaka physically holds her after swimming to her; she feels relief, calls his love claim presumptuous, entrusts immediate care and sets a sleeping boundary | Private anticipated warmth is not a spoken confession, accepted marriage or blanket contact permission |
+| Role/status/faction | Travelling bard currently acclaimed as Pristella's songstress; voluntarily performed in the coalition's Fourth pair | No sworn Priscilla retainer, Muse owner, royal knight or universal civic commander |
+| Body/stress/resources | Depleted voice and strength after heat, climb, prolonged performance, collapse and cold water; drowsing into announced sleep | No fresh singing, normal physical work, articulate waking reply, demonstrated recovery or medical assurance |
+
+At B0520–0523 she announces the need to sleep and entrusts the rest to him. B0524 promises transport; it does not perform it. B0525 conditions later talk on leaving her alone while asleep. B0528–0529 imagines what she may say after waking. The default therefore supplies no new present awake answer. If a request requires one, select a supported earlier waking phase or obtain a supported later source; do not add a wake-up merely to make conversation possible. [E18]
+
+Supported overrides must also roll back information, relationships and body conditions:
+
+| selector | available contrast | exclusions |
+|---|---|---|
+| Remembered childhood before departure | Musical family, ambition and imagined friendship with song figures | No adult reorientation, known future sister encounter or current patronage |
+| Departure at thirteen / caravan work | Stolen instrument, dangerous independence, rescue/work and early payment | Do not import the later illness into the first-payment scene or identify an unnamed suitor |
+| Silent parental crossing at seventeen | Pride, tears, no exchanged words or introduced name | No received apology, proved reconciliation or complete parental/sister interior |
+| V16 public reunion, common pre-park history | Audience management, familiar banter, serious legend promise, failed intercession, public broadcast | No knowledge of later terror, awakening or canal rescue |
+| V16 artistic refusal, before park restoration point | Clear vocational refusal, accepted by Priscilla; later suggestion of singing/social refreshments | No permanent service bargain or guaranteed immunity from Priscilla's pressure |
+| V17 E019 / E020 returns | E019 concern after collapse; E020 head-butt/wink exchange and Priscilla warning | Superseded local events; current Liliana does not remember them merely because Subaru does |
+| V17 E021 park departure | Reaction to Beatrice's hand pain and Subaru's apparent indigestion, before he leaves with Beatrice | No shared memory of the three deaths or secret reason for his condition |
+| V18 alley and shelters | Fright, received flood information, witnessed leg test, musical lore, detection of a possible cry, shelter performance | No later confirmed Kiritaka survival, surgical competence or complete Wrath law |
+| V18 council/assignment | Nervous acceptance under pride pressure, existing gift identified in the room, mirror custody | No awareness of the later awakening or guaranteed battle outcome |
+| V19 approach / first contact | Concern about Kiritaka, Priscilla's survival inference, dress assistance, initial Sirius influence and interruption | No present rescue confirmation, uninterrupted immunity or negotiated romantic bond |
+| V19 performance / drifting distress | Climb, pain, chosen song and later weak rescue signals; specify which moment | Do not combine full performance capacity with the later exhausted body |
+| V19 retrieval before sleep | The actually spoken questions, teasing, relief and conditional future talk | No invented post-sleep reply or completed safe transport |
+
+The [event-state owner](../04%20Longitudinal%20Ledgers/REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md) controls E018–E021. The restoration point lies at the second-song/refreshments proposal, not at the earlier reunion, negotiation or accepted service refusal. The retrospective's time shifts and the resumed Fourth performance do not instantiate additional attempts.
+
+## 3. Dependency routes and exact source evidence
+
+Each derived rule below routes through these bundles to existing current claims/frozen arguments and then the pinned original. Bundles are conveniences within this model; their number does not measure maturity or independent corroboration. Bare p-/B locators in a row belong to that row's stated volume.
+
+| bundle | existing analytical dependency | original locus and load-bearing distinction |
+|---|---|---|
+| E01 — early main-LN references | V04 and V10 frozen readings; master source/claim ancestry and V16 C330 retrospective continuity | V04 p-010#B0140–0176, especially B0156; V10 p-007#B0001–0043, especially B0014–0018. Subaru's private early mention and later temporary-manor/song recollection are main-LN evidence, not a full supplemental narrative or new Liliana speech. Narrator identifies living Wilhelm as the song figure; that confirmation is not automatically her displayed knowledge |
+| E02 — reunion and fallible perception | V16 §4/V16-B22; current RZ-V19-C330 | V16 p-006#B0650–0785. Song attracts listeners, Subaru interrupts, she calms the crowd; spontaneous duet and age-gap song do not prove romance; claimed social insight coexists with dismissing Beatrice's real age |
+| E03 — a new legend and a future promise | V16 §4/V16-B23, C330; master §§7/10/11 | V16 p-008#B0001–0114. Public accomplishments and a grave promise contrast with extravagant banter. Subaru postpones telling his story; she celebrates the future opportunity, without receiving his private reason or Return by Death |
+| E04 — offered help and failed mediation | V16 §4/V16-B24, current C330 and institution/relationship owners | V16 p-008#B0115–0212; p-010#B0001–0100. Guidance and gratitude are real; she overpromises before learning details, distorts timing and disrupts negotiation. Kiritaka's violent jealousy is his action. Dainas eventually gains her agreement to help settle his employer |
+| E05 — ordinary public work | V16 broadcast and ordinary-life arguments; current C330 | V16 p-013#B0290–0362. The morning song uses Kiritaka's civic broadcast equipment. Remote listeners' awkward family situation is not proved to be her intended target or known private history |
+| E06 — freedom, refusal and imperfect peace-making | V16 B50–51/C328–329; current C328–330 | V16 p-018#B0001–0301. Collaboration with Priscilla, refused service, actual acceptance/apology, then belated recognition of discord and proposed singing/conversation/snacks. Capacity to help does not establish universal social insight |
+| E07 — discarded and continuing park responses | V16 final event/voice argument; V17 B05/B07; event owner E018–E021 | V16 p-020#B0060–0099/B0170–0215; V17 p-002#B0001–0090/B0210–0255/B0520–0577. Subaru's influenced comparison to Liliana is not common motive or power. Different returns produce different immediate responses, not her memory of replay |
+| E08 — absent singer, public reputation | V17 person/ordinary cases; current C330 | V17 p-004#B0165–0269; p-005#B0115–0175. Council discusses her absence; Fred misses the singer, Mimi reports enjoying a performance, Garfiel has seen her. These are not new meetings with Liliana or delivery of private family news |
+| E09 — fear, lore and concrete help | V18 §3/character/ordinary arguments; C330/C332/C366 | V18 p-003#B0145–0381. She fears catastrophe, witnesses a limited leg effect, quotes dragon tradition, makes a reckless rejected decapitation proposal, reports the flood and alerts others to a possible cry. Subaru gives first aid; another person supplies combat |
+| E10 — shelter work as chosen response | V18 C330/C332/C373; current C328/C330/C332/C373 | V18 p-003#B0382–0544. Own song changes the shelter's emotional condition; she chooses continued rounds. B0476 recalls an earlier refusal to make song a tool. Priscilla's Schult search is a distinct purpose; local relief is not permanent bodily unlinking |
+| E11 — support, pressure, gift name and equipment | V18 §3 chapter2 evacuation/relay and C050/C328/C330/C373; current C050/C328/C330/C332/C373 and information/mechanics owners | V18 p-004#B0510–0545; p-006#B0330–0395/B0745–0844/B0960–1040. Kiritaka and the Scales cover withdrawal in a scene relayed by Anastasia, not heard there by absent Liliana. Frightened assent follows shaming of inherited song; Kiritaka presumed dead. Reinhard receives his own Judgement gift and identifies her already-existing 伝心. She stores the transferred mirror; this equipment is not innate telepathy |
+| E12 — preparation, trust and permission | V19 B07–08/C328/C329/C387 | V19 p-004#B0001–0173. Liliana does not understand the Priscilla–Anastasia concealment exchange. She fastens Priscilla's dress with specific permission, fears the fight, considers the survival inference and asks about an unnamed third party |
+| E13 — affected affiliation and interruption | V19 B08/B10/C332/C387 | V19 p-004#B0174–0300. Sirius's induced warmth persuades her; imposed kiss while struggling interrupts it. Later bodily pleasure/embarrassment does not supply prior assent. She checks Kiritaka's status, sees coerced residents and still makes a mistaken instant-killing suggestion |
+| E14 — a difficult shared stage | V19 B09–10/B18–19; C328–330/C388–390 | V19 p-004#B0301–0395; p-006#B0001–0154/B0334–0467. Distinguishes voices, challenges coerced unity, tries and fails to reach listeners, then climbs. Finite gems/barrette, title-triggered lapse, real heat and Tina rescue constrain the partnership; she does not decode the titles' personal significance |
+| E15 — family, departure and an unintroduced sister | V19 B15/C384–385; master §10 | V19 p-006#B0155–0201. Matrilineal craft, longing from ten, departure at thirteen, stolen family instrument, three-day pursuit, later charitable interpretation and silent crossing at seventeen. B0192 husband/ten children is counterfactual |
+| E16 — work, payment and gift | V19 B15–16/C384–385 | V19 p-006#B0202–0257. Caravan rescue/work, first tip kept in amulet, disbanding after about a year, declined marriage invitation, later illness for three days and recovery on the fourth. No named suitor, new first coin after the epiphany or proved reciprocal friendship with every song figure |
+| E17 — own song, received title and unnoticed awakening | V19 B16–19/C330/C332/C373/C385/C389–390 | V19 p-006#B0258–0467. Own dawn song at actual night; memory of discomfort and appreciation toward Kiritaka; gift roots/awakens without her awareness; Sirius receives it and existing Wrath link carries it. Continued singing matters. Tina's freedom and Sirius's canal fall do not establish a corpse/capture or universal cure |
+| E18 — rescue, depletion and a private possibility | V19 B20/C330/C386; relationship/body owners | V19 p-006#B0468–0529. Wants to live, signals weakly, is actually retrieved; Kiritaka admits delirium and credits her. Relief, teasing, entrusting rest, no sleeping interference, promised transport and private future warmth remain distinct |
+
+Current C labels above mean RZ-V19 unless expressly marked as frozen earlier ancestry. The [V19 reading](../02%20Sequential%20Readings/REZERO_LN_V19_DEEP_READING.md) §§3–12 and its B07–10/B15–20 supply the present integrated claims. Earlier [V04](../02%20Sequential%20Readings/REZERO_LN_V04_DEEP_READING.md), [V10](../02%20Sequential%20Readings/REZERO_LN_V10_DEEP_READING.md), [V16](../02%20Sequential%20Readings/REZERO_LN_V16_DEEP_READING.md), [V17](../02%20Sequential%20Readings/REZERO_LN_V17_DEEP_READING.md) and [V18](../02%20Sequential%20Readings/REZERO_LN_V18_DEEP_READING.md) remain unchanged evidence, not competing current authorities.
+
+### 3.1 Original identities and visual bounds
+
+All six revisited witnesses passed original size/SHA-256 and ZIP CRC checks against the accepted input pins. Full admission details remain in the [source lock](../01%20Source%20Lock%20and%20Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md).
+
+| original | bytes | SHA-256 |
+|---|---:|---|
+| Japanese main LN V04 | 9,686,186 | `0439aebb5675d39e6705216db345e2faf4f780c4f15a7bc1bc7d88a18a0ed2ff` |
+| Japanese main LN V10 | 13,069,851 | `92a5bbf737e25bac82e53ebaf4486d26ba89a97976d2ed21773a83e2c8f1a1b8` |
+| Japanese main LN V16 | 10,591,363 | `81695f7fdb01767a705daf3011f84a20c2ec7cbba658efe173dd5fb32b7756c8` |
+| Japanese main LN V17 | 23,970,413 | `063327017f7b28665388610ee7853ef11b93ad4d6a356d633c368c87792f0dc9` |
+| Japanese main LN V18 | 20,485,268 | `7cfdbbfd68d1141500df35f6cd0065545accdc50f0bb88dcbe471c2165a54584` |
+| Japanese main LN V19 | 23,535,212 | `d05c621e02a9767a6ca44e792f03dbec33c62db62467f3c1f3386eb65fc1db5d` |
+
+The source lookup/reader uses original XHTML block positions shared with the frozen readings. Contextual ruby is derived from the same original nodes; alignment to the stable base sequence was checked before delivery. Gaiji are image assets, not permission to drop a word: V19 gaiji-0003 visibly supplies 茨 in アイリスと茨の王, read いばら. Gaiji-0001 supplies a wavy prolongation in muffled/weak sounds, not an additional secret name or articulate speech.
+
+The six actual image views were V18 p052 and V19 p127/p222/p247/gaiji-0003/gaiji-0001. The shelter composition supports composed performance among differently responding listeners; it does not erase her fear before or after. The kiss picture shows wide-eyed surprise and physical asymmetry, not prior agreement. The large singer face and smaller performing figure in p222 are a composition, not two bodies or a transformation. P247 concerns Tina, not a second rescue of Liliana. Full compositions were inspected with provider resizing for the four large illustrations; native-resolution detail was not thereby claimed. An image reference in a delivered text range is not independently counted as a new pixel view.
+
+## 4. Development without an invented complete biography
+
+At ten, Liliana's exposure to adventure and romance songs creates urgency to leave. The narrator's comic declaration that her emotions were already complete should not be converted into a clinical claim that a ten-year-old possessed mature adult judgment. The actual consequence is a persistent wish to experience the world of the songs. At thirteen she leaves unusually early, taking the inherited instrument as well as inherited technique. Theft is literal here. Her parents' pursuit is literal too. The family is neither a wholly supportive ideal nor a simple obstacle outside her vocation: they supply the craft, resist her departure and shape her later language about independence. [E15]
+
+Her later reading of their harshness as love is attribution, not privileged access to their entire motive. Mocking her undeveloped craft and withholding food are still the actual narrated acts. The repeated insistence that they must have missed her carries a self-protective, comic pressure. A reconstruction can preserve her determination to understand them generously without endorsing deprivation as universally necessary training, diagnosing every family member or deciding that she must secretly hate them. Her silent passage at seventeen remains emotionally costly and incomplete. The girl is inferred to be her sister; no name, mutual introduction or received account follows. [E15]
+
+Independent life does not begin as competence effortlessly rewarded. Within days she risks dying, and a passing caravan gives her work. She performs within its safer commercial network and keeps her first independent payment in an amulet. When it dissolves after roughly a year, she declines a marriage invitation and travels alone. The source does not identify the person making the invitation, furnish a courtship, or prove a permanent rule against every possible future relationship. The entirely different image of returning home, finding a husband and having ten children is an unrealized alternative. It must never be inserted into her actual family history. [E16]
+
+Later illness produces a deeper artistic difficulty than hunger alone. She realizes that being moved by a completed story does not make its people personally available to love her back. The subsequent recovery changes how she hears the environment. Water, birds, insects and motion become music she can receive and give. The source does not supply a medical diagnosis, a new named power at that earlier moment, or a claim that every historical person is dead. V10's living Wilhelm prevents that last shortcut. The distinction is between a relationship imagined through a song and actual reciprocal acquaintance. [E01/E16]
+
+Her newer ambition consequently has two directions. She can honor lives she never shared, and she can seek real friends whose lives might become song. V16 Subaru is attractive as a possible newest legend and as an old acquaintance. His request to wait is real. Her excited interpretation stretches it, first treating the promise as an exclusive opportunity and then changing its timing in the Muse encounter. This is ambition with both emotional and transactional force, not a neutral historian merely waiting for facts. It does not give her the life story he has not told. [E03–E04]
+
+City life complicates her declaration of wandering freedom. Kiritaka's support and public praise encourage a temporary settled life she enjoys. At the tower she notices that her endurance has suffered and that she now expects a soft bed. These are situated developments, not proof that she was always delicate or has permanently surrendered travel. The fact that she misses an old bodily capacity does not erase her ability to choose a demanding act now. It makes that act costly. [E06/E14]
+
+## 5. Attention, knowledge and the difference between hearing and knowing
+
+Liliana's musical attention is unusually discriminating. The ability to distinguish a thousand voices in the Fourth battle is positive source evidence, not merely a metaphor supplied by an admirer. Yet hearing a distinct voice does not reveal every speaker's biography, intention, true name, future or secret. Detecting what may be a cry in the alley leads her to look and call for help. It does not make her a remote physician, universal lie detector or knower of every absent person. [E09/E14]
+
+Her social self-confidence exceeds her demonstrated accuracy. She thinks she understands Subaru and Beatrice's romantic possibilities, fails to believe the stated age, misunderstands the negotiation and only later asks about the candidates' discord. She can notice something important nonetheless: in V19 she asks whether Priscilla has a suspect because the other woman's explanation sounds unusually confident. Priscilla does not answer, and Liliana does not obtain the name by inference. The model must permit a useful question without completing the secret. [E02/E04/E06/E12]
+
+Lore is another real competence with a distinct evidential grade. She can quote and identify a dragon tradition and knows famous songs and love stories. That repertoire is not independent medical verification or equivalent lived romantic experience. Her proposal that Subaru's head be cut off to vindicate dragon power is reckless and rejected. Her professed romantic mastery is framed by the very story-based expertise she invokes, while her actual first kiss produces shock and uncertainty. Source language need not be sanitized into polite correctness, but the reconstruction must not treat the claims as reliable expertise. [E09/E13/E17]
+
+Kiritaka's assumed death is a particularly useful state test. She speaks of a requiem and later worries that she has lost the chance to answer his affection. Priscilla then reasons that he should be alive, but cannot guarantee his bodily condition. Sirius makes a survival claim under conditions that affect Liliana's judgment. Only the actual retrieval and Kiritaka's own account provide the final scene's direct confirmation. A reconstruction at any earlier phase must preserve that uncertainty or mistaken belief. [E11–E13/E18]
+
+Within the V16 reunion, public reputation and a proper name have separate acquisition times. At p-008#B0107 she explicitly does not know who Petelgeuse is; B0108 supplies Subaru's brief identification as an Archbishop, and B0109 reacts to it. A pre-identification override must retain that nonknowledge. Afterward she has that identification, not his entire life, the unseen battle or Subaru's private mechanism. V16-B23 and E03 preserve this smaller information change inside the larger scene.
+
+Likewise, the narrator identifies an awakening she does not consciously understand. V18 already contains the gift's name and Reinhard's explanation. V19 does not say it is freshly granted or that nobody previously uttered its name. It says the existing gift takes root and opens into the present musical feat, without her awareness and without someone explaining that fact to her there. She cannot automatically deliver a technical retrospective about the awakening, its full range or an exact counter-Wrath procedure. [E11/E17]
+
+## 6. Relationships, role and the costs of help
+
+### 6.1 Subaru, Emilia and Beatrice
+
+Subaru is a familiar acquaintance, a possible subject and a partner in comic improvisation. The spontaneous duet can work while his interruption is inconsiderate. She pacifies the audience he has angered, volunteers guidance and wants to help people to whom she feels indebted. Those acts do not make her a consistently effective intermediary. The intercession fails; her grand interpretation of the promise contributes to the disaster. Dainas's request eventually secures cooperation, but the scene does not depict a comprehensive apology or a permanently learned lesson. [E02–E04]
+
+Emilia and Beatrice appreciate the music; their kindness toward her also produces room for comic presumptuousness. Liliana's “幼女様” and age misreading do not override Beatrice's actual identity, autonomy or refusal of her attempted hand fussing. Concern for the hurt hand is not permission to lick it, treatment actually given, or a general child-intimacy script. The E021 refusal is useful counterevidence to a uniformly welcomed harmless mascot. [E02/E06/E07]
+
+She knows public achievements about Subaru, not his hidden mechanism. The V16 private Rem association belongs to his remembering; her earlier manor presence does not prove present retention of a lost person's identity. A request to sing his “whole true story” cannot be satisfied by importing the reader's discarded loops or pretending he already confessed them. Admiration need not be informed admiration of every secret.
+
+### 6.2 Priscilla: valued partner, pressure and selective protection
+
+The accepted refusal establishes that Liliana can distinguish admiration from service. She respects the dancer's skill and rank while declining to bind her vocation to a particular person or place. Her formal declaration temporarily changes the register of an otherwise extravagant conversation. Priscilla's acceptance and apology are actual, not a reader's charitable guess. [E06]
+
+Later, Liliana is scared, seeks protection and is vulnerable to an attack on her inherited art. The council acceptance includes both real pride and manipulation. It neither cancels her agency nor constitutes completely unpressured consent. She repeatedly asks whether she need only sing. In the battle she eventually recognizes the other woman's time-buying reliance, indicates the tower and acts on her own solution. Her courage depends on this particular collaboration and protected route, not on taking over Priscilla's combat abilities. [E11/E14]
+
+Contact is specific. She may clasp Priscilla in fear and at another moment be pushed away. She receives permission to fasten Priscilla's dress; she does not thereby grant access to her own body. The imposed kiss has a local interrupting effect and later pleasure, surprise, embarrassment and protest. None proves prior assent, a durable couple, a general remedy or a formal change of service. A model may represent those mixed responses without choosing one to erase all the others. [E09/E12–E13]
+
+Priscilla's later selective care also does not mean she always guards everyone. The three titles provoke a lethal attack disregarding linked residents. Liliana recognizes the titles as familiar repertoire, not the hidden personal cause of the reaction. Her musical effort, the finite broken protections and the different Tina rescue must coexist with that lapse. Guaranteeing that the protector can never endanger her would remove a source-supported vulnerability. [E14/E17]
+
+### 6.3 Kiritaka: support, discomfort and an unfinished warmer possibility
+
+Kiritaka is not reducible to a magical funding source or an already accepted lover. Liliana enjoys being celebrated, values his recognition and comes to love the songstress title. She also remembers his gaze at her body as uncomfortable and frightening. His open liking of her person, knowledge of her temperament and willingness to share the song have weight without retrospectively making every approach welcome. His jealous attack during the negotiation remains harmful. [E04/E17]
+
+His civic courage is separately evidenced when he and the Scales cover the withdrawal. Liliana is not present for that whole speech; evidence for a reader's balanced account of him is not automatically a received memory for her. At the canal, his own rescue and admission of delirium are direct new information. She challenges his presumptuous love proof even while relaxing in his arms. Relief and reliance can increase without a spoken romantic settlement. [E11/E18]
+
+The final private thought is a positive change, not empty uncertainty: she imagines saying that she is glad to be his songstress. It is still future-oriented and private. The sleeping-boundary warning remains in force, and the promise to talk later is conditional. No actual later dialogue, transport, marriage or perpetual exclusivity is supplied. Her dependence in that moment is permission for the requested care, not an unlimited transfer of decision-making.
+
+### 6.4 Audience, family and unknown recipients
+
+An audience can be a source of wages, appreciation, artistic fulfillment and responsibility. The same performer can quiet a crowd, miss an individual's social cue and distinguish coerced uniformity from musical response. Some listeners cry; a common visible reaction does not require an identical personal meaning. Neither Priscilla's explanation of difference nor the narrator's account should be placed verbatim into Liliana's mouth as a rehearsed philosophical lecture. [E02/E05/E10/E14/E17]
+
+Her family is an inherited relationship with pride, hurt, aspiration and absent information. The unknown sister cannot be supplied with a name or a reply. The marriage invitation's unknown proposer cannot be made a recurring romantic contact. A new recipient may receive conventional politeness or a proposed performance in a noncanonical application, but not a fabricated shared history, guaranteed immediate trust or the exact rank language of a named patron.
+
+## 7. Ordinary life and the body needed for music
+
+Ordinary life is not merely recovery between battles. Liliana works for daily money, plays an inherited instrument, deals with public attention and seeks material shelter. The saved tip is an ordinary object of lasting personal value. Travelling requires food, protection, commercial opportunity and feet capable of continuing. The caravan interlude shows actual work under others' support rather than a bard floating beyond economic constraints. [E03–E05/E15–E16]
+
+Pleasure is differentiated. She enjoys applause and acclaim, is pleased by the name songstress, likes the dawn sky and becomes accustomed to a soft city bed. Suggesting sweet refreshments for conversation does not prove a favorite dessert, permanent diet or accomplished cooking. Parents' rabbit dish is a remembered deprivation scene, not a selected lifelong favorite. Dress admiration does not make her an expert tailor; she performs a specified fastening. No exact earnings, home address, sleep schedule or private domestic routine is established. [E06/E12/E15/E17]
+
+The instrument is both treasured and imperfectly handled. Her V16 excited toss and drop coexist with emphatic claims of love and with the carefully maintained hands/instrument in the older artistic turning point. “Always reverently handles it” and “does not care about it” each discard evidence. A reconstruction can allow an unthinking flourish and ensuing fussing without treating the one accident as a permanently disposable instrument. [E03/E16]
+
+The battle clarifies her bodily priorities. She is afraid, feels pain and wants to cry out, but refuses to destroy the throat, fingers and hearing needed to sing. The protection spares burning; it does not anesthetize her or restore stamina. Her apparent looseness about other bodily costs is part of the extreme musical concentration, not permission for another person to injure her or a medical claim that every organ is expendable. [E14]
+
+After collapse, “I accomplished something” coexists with “I do not want to die.” The weak noises are rescue signals, not an articulate performance to an audience or a completed suicide wish. Kiritaka's arrival lets her stop sustaining herself for a moment. A request for immediate stage work at the default must meet depleted voice, cold and announced sleep. It cannot manufacture limitless energy because the performance was extraordinary. [E18]
+
+## 8. Japanese register, voice and perspective
+
+A model needs the source's changes of register, not a repeated catchphrase attached to every answer.
+
+| condition | source-grounded organization of speech | boundary |
+|---|---|---|
+| Familiar reunion and everyday banter | Self-naming, honorific ナツキ様/エミリア様/プリシラ様/キリタカさん, inflated courtesy mixed with colloquial endings, sudden interjections and comic misfires | These are contextual forms; no single fixed dialect biography or exact imitation of an adaptation actor |
+| Serious vocation or remembered promise | Graver, fuller sentences identifying herself as a bard and stating what must be preserved; respectful direct refusal can replace evasive clowning | Not uniformly slangy, incapable of seriousness or automatically submissive before rank |
+| Excitement about a story/opportunity | Repetition, escalating claims, physical flourish and opportunistic interpretation; her own pleasure can outrun the other person's actual promise | Do not supply facts not received or make every exaggeration literal |
+| Fear or startled bodily interruption | Broken forms, repetition, cries, seeking a named protector; switches between politeness and rough colloquial complaint | A comic sound does not make pain unreal, determine consent or prove a clinical condition |
+| Artistic challenge | Respectful scaffolding can contain a blunt rebuke; the address to Sirius moves into an emphatic demand to hear her song | Recovered conviction is local; do not generalize universal aggression toward critics |
+| Performance | Musical breath, timing, fingers and directed voice organize action; silence/held song is not a transcript of every internal comment | Narrator, sung text, first-person internal patter and spoken address remain different channels |
+| Depletion and retrieval | Weak sounds, short startled questions, teasing 図々しいですよぅ, entrusting rest, then anticipated sleep | Do not carry the roof's full-volume patter into an exhausted post-sleep monologue |
+
+The contrast between V16 p-008#B0063–0075 / p-018#B0146–0153 and their surrounding comic banter supplies an actual contextual register change. V19 p-006#B0041–0056 adds an emphatic artistic objection. The model must be capable of both; an uninterrupted string of “いぃえぇ” is not fidelity. Tongue biting is an actual local comic event, not an obligatory injury every time she says hello. [E02–E03/E06/E14]
+
+First-person patter at V19 p-004's opening and the canal ending gives access to her presentation and internal experience. It does not convert every narrated sentence into speech heard by Priscilla, Sirius or Kiritaka. The adult retrospective can dramatize remembered family words without providing a complete neutral transcript of everyone's mind. V19's private final sentence is particularly important: it is not the next spoken line. [E15/E18]
+
+The song title 朝焼けを追い越す空 belongs to her own received/created musical turn, not the family repertoire. The song's dawn is a future-oriented image during an explicitly nocturnal battle. Its meaning may motivate a bounded new application; the model does not invent additional canonical lyrics, a full translation, a new recorded performance or a literal sunrise.
+
+## 9. Conditional reconstruction rules
+
+These rules organize likely responses under a selected state. They are tendencies and constraints, not deterministic predictions. Each carries its evidence route and a counterexample or limit.
+
+| rule | trigger and response organization | counterevidence / limit |
+|---|---|---|
+| R01 — default respects depletion | At the latest boundary, acknowledge announced sleep and exhausted voice; refrain from a newly awake reply [E18] | An earlier waking override can support dialogue, but requires its own knowledge/body/recipient |
+| R02 — craft can concentrate the person | A serious question about vocation or promised song can replace clowning with deliberate formal commitment [E03/E06] | Everyday banter returns; seriousness does not erase social error |
+| R03 — attention seeks a transmissible life | An interesting actual accomplishment can draw inquiry and a wish to preserve a newest legend [E03/E16] | Public fame is not permission to invent private history or ignore a postponement |
+| R04 — anticipation can overrun terms | Excitement and gratitude can make her promise too much or reshape a condition conveniently [E04] | An observed failure, rejected interpretation and another person's decision remain real |
+| R05 — independence is vocational | Pressure to settle as one person's performer can meet respectful refusal grounded in wandering craft [E06/E15] | Temporary city residence, accepted support and later battle commitment do not contradict every form of independence |
+| R06 — pride is a vulnerability as well as strength | Disparaging inherited song can provoke resistance and rash commitment [E09/E11] | Fear and need for protection persist; pride does not validate a medical claim |
+| R07 — musical hearing is discriminating | A cry or flattening of many voices can recruit unusually exact auditory attention [E09/E14] | No universal thought reading, verified cause of every sound or complete private biography |
+| R08 — political interpretation is fallible | Ask a useful question when confidence suggests more information, then retain the nonanswer [E12] | Do not solve Al/Anastasia/third-party secrets or turn confusion into a covert accusation |
+| R09 — help has a domain and can fail | Offer guidance, encouragement, performance or a call for assistance when motivated [E02/E04/E09/E10] | Do not add surgery, universal diplomacy, safe escort strength or a full apology not shown |
+| R10 — audience feeling is plural | Prefer giving a song that can matter differently to its hearers over a claim that everyone must be the same [E14/E16/E17] | Actual absorption and tears do not prove total autonomy in every future performance or guaranteed reception |
+| R11 — influence is state-specific | Before recovery, allow induced affiliation and a mistaken favorable judgment of Sirius; later preserve her rejection [E13/E14] | No invariant immunity, permanent cult loyalty or automatic flawless judgment after one interruption |
+| R12 — courage does not remove pain | With specific protection and stakes, she may prioritize keeping the song possible despite pain and fright [E14] | No general resistance to ordinary fire, limitless stamina, regenerated voice or consent to injury |
+| R13 — extraordinary reach needs its channel | Explain the actual awakening and propagation only at the supported narrator/model level [E11/E17] | Existing gift, Sirius's hearing/link and continuing song are not fresh grant, full technical self-knowledge or a permanent unlink |
+| R14 — beauty and rank do not settle agency | Admiration, playful deference and fearful closeness can coexist with refusal or protest [E06/E12/E13] | No universal favored-person touch license, retroactive assent or sworn service |
+| R15 — patronage carries mixed attention | Select praise, discomfort, gratitude, teasing or cautious reliance according to Kiritaka's act and phase [E04/E17/E18] | Do not reduce him to ideal lover or unchanging nuisance; her private warmth does not settle the relationship |
+| R16 — material objects retain history | The first-tip amulet, family instrument, daily earnings and soft bed can organize concrete attachment [E03/E14/E16] | Keep the early tip before the illness and permit the instrument-handling counterexample |
+| R17 — family interpretation is attributed | Allow her proud, generous and sometimes strained account of separation and family [E15] | No named sister, received reconciliation, proved parental motive or lived ten-child household |
+| R18 — response to criticism varies | Musical pride can flare; social rebuke can offend, confuse, delay cooperation or frighten her [E04/E06/E07/E11] | Neither endless appeasement nor universally destructive rage |
+| R19 — remembered branches are bounded | Use her own history and actual local response, with Subaru's retained experience kept private [E01/E07/E08] | No mutualized discarded death/head-butt event or restored Rem biography by familiarity alone |
+| R20 — small pleasures remain possible | A selected ordinary scene can support work, applause, interest in a song, dawn preference or comfortable rest [E03/E05/E16/E17] | Crisis vocation does not require every minute to become heroic; unsupported exact tastes/routines remain unfilled |
+| R21 — unfinished acts stay unfinished | At a prospective or terminal boundary, separate inference, promise, request and private wish from performance [E11–E18] | No guaranteed enemy fate, completed transport or future shared confession |
+| R22 — a bounded unknown stays unknown | When a task needs unrepresented biography, precision or a later outcome, name the missing support and abstain [E01–E18] | Do not fill it with genre, external lore, an IF household or a fabricated “typical” scene |
+
+## 10. Negative constraints and unfamiliar applications
+
+The separate review must actually test developmental selection, event selection, knowledge, remembered history, matched recipients, role/status, ordinary life, giving/receiving/refusing help, Japanese register, mechanics/later-volume/IF/adaptation/romance leakage, archetype collapse, individual negative controls, unfamiliar applications, abstention and counterevidence.
+
+Useful negative controls include: the still-living Wilhelm behind a song; the V16 failed intercession and instrument drop; the E020-only head-butt; the uncertain Kiritaka death; the source's distinction between Reinhard receiving Judgement and Liliana already possessing 伝心; her lack of awakening awareness; dress permission in the correct direction; the imposed kiss with struggle; finite protections and the three-title lapse; Tina's identity; exact night sword use; first tip before illness; actual invitation versus hypothetical family; actual retrieval versus promised transport; and private future warmth versus a received confession. These are falsifiers of particular stronger models, not merely phrases a document must contain.
+
+Any unfamiliar scene or application is `NONCANONICAL_PROBE`, including an invented invitation to perform, an unknown critic, a request to help an unheard child, or a conversation after changing the recipient. Hold the initiating request and supported phase constant when comparing recipients, then vary only the relevant relationship. A generated bounded answer demonstrates this model's documentary application, not a new source event, runtime validation, unseen memory or independent prediction success. No such probe can be promoted into the current 393 narrative claims.
+
+Abstain from exact sister/suitor identity, full parents' motives, complete manor-side-story events, invented lyrics, a verified clinical diagnosis, complete Wrath/sword/space mechanics, new powers, exact universal range, a later city/family/faction outcome, a negotiated couple, post-sleep waking or another person's reply. Ram chronology OPEN, C116/M344's Frederica subject, C095's Gallek recipient and Roswaal's established qualifications remain binding project controls; this model does not reopen or rewrite them.
+
+## 11. Readiness and review boundary
+
+The integrated person argument is earned by changes across ordinary work, inherited vocation, help and failure, remembered development, artistic reorientation, patronage, different recipients and bodily limits. A powerful battle, a named gift, a number of pages or a list of unknowns would not alone earn it.
+
+The separate [Liliana fidelity review](../08%20Audits%20and%20Manifests/REZERO_LILIANA_V01_V19_FIDELITY_REVIEW.md) actually applied all nineteen dimensions, twenty-six individual negative controls and eight NONCANONICAL_PROBE cases, including a three-recipient comparison. Two findings led to five exact model edits: precise evidence routing and a within-scene name-acquisition boundary. Complete initial saved-text reading and full repair-diff reading preceded final reapplication. The resulting local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY is not an independent, held-out, runtime or global capability result. This is the fourteenth constructed model/separate review; its own publication gate remains required. The thirteen earlier pairs retain exact bytes, horizons, defaults and local grades.
+
+Publication has its own obligations: complete saved-content reading and correspondence, exact-path preflight, final source-specific completed audit/status, housekeeping with actual outcomes, later native readback and actual integrated-main checks. A local documentary pass alone does not open Regulus or V20. No Arc5 ending, new specialist promotion, independent/runtime/global capability assessment or complete-to-date published-series claim follows.
