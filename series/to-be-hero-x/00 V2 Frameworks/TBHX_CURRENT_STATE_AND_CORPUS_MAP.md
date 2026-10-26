@@ -35,7 +35,7 @@ This is the canonical first-read routing surface for the active *To Be Hero X* V
 - **Current claim authority:** Part I of `CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md`, containing 145 canonical `P2-CR-*` keys.
 - **Completed Phase-3 specialists:** **06 revision 1.1 + 07 + 08 + 09 + 10 + 11 + 12 + 13 + 14 + 15 + 16**. Specialist 06 incorporates the E24 Lin Ling/Nice dual-entry correction; 07–15 stabilize the individual and paired character clusters; Specialist 16 closes the sequence by establishing **answerable interdependence** as the cross-arc relational standard across testimony, kinship, mentorship, care, rivalry, alliance, public recognition, and survivable separation.
 - **Next recommended work unit:** resolve the named continuous-motion, source-clock and original-speed audio debts in the accepted audit queue before finalizing Documents 18–20. All supplied Season 1 Gemini bundles have been received and reconciled; keep disputed claims excluded until their stated acceptance conditions are met.
-- **Active evidence intake:** `TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md` under `04 V2 Evidence and Revision` now indexes 15 permanent packets: existing E11-001 and four E05–E07 entries plus ten remaining-arc entries. The [remaining-arcs checkpoint](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_REMAINING_ARCS_GEMINI_AV_INTEGRATION_CHECKPOINT.md) records ten matrices, seven supplemental reports, exact inputs, current revisions and outstanding source debts; the [E05–E07 checkpoint](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_E05-E07_GEMINI_AV_INTEGRATION_CHECKPOINT.md) retains its historical tranche receipt.
+- **Active evidence intake:** `TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md` under `04 V2 Evidence and Revision` now indexes 16 permanent packets: existing E11-001 and four E05–E07 entries, ten remaining-arc entries, and the paired E09/E24 coin-donor entry `TBHX-AV-E09-001`. The [remaining-arcs checkpoint](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_REMAINING_ARCS_GEMINI_AV_INTEGRATION_CHECKPOINT.md) records ten matrices, seven supplemental reports, exact inputs, current revisions and outstanding source debts; the [E05–E07 checkpoint](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_E05-E07_GEMINI_AV_INTEGRATION_CHECKPOINT.md) retains its historical tranche receipt.
 - **V1 status:** `historical_legacy`; all forty imported hypotheses have final dispositions in `V1_TO_V2_REVISION_LEDGER.md`.
 - **Later TV source:** none inside the currently supplied 24-episode Season-1 corpus.
 
@@ -512,8 +512,10 @@ Canonical artifact:
 - `08_LUCKY_CYAN_HOPE_SURVIVORHOOD_AND_PUBLIC_NEED.md`
 - **Drive ID:** `1-PCA-DU56nUAceUQO__BxRTKsZNVjtOF`
 - **Drive URL:** ../03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/08_LUCKY_CYAN_HOPE_SURVIVORHOOD_AND_PUBLIC_NEED.md
-- **SHA-256:** `a21b8915d69a48b57357dcad781273f5bb39bda2357a0aa79bb937dec956665b`
-- **Approximate length:** 8,600 words
+- **Current revision:** `AV-2026-10-25-E09-001` — E09/E24 coin-donor reconciliation; see [revision receipt](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_ARCHITECTURE_V1_5_AND_E09_COIN_RECONCILIATION_CHECKPOINT.md#current-specialist-revisions).
+- **SHA-256:** `251e58185d7be4f7834121b672d217a4bc789a4bcebd725dc2aedaf6614f8a65`
+- **Bytes:** 61,116
+- **Current length:** 8,951 whitespace-delimited words
 
 Current governing proposition:
 
@@ -528,6 +530,7 @@ Major conclusions:
 - The recorder restores the dead as intentional agents and distinguishes entrusted hope from extractive hope without proving a universal luck mechanism.
 - Queen explicitly recognizes Qīng's singing, not her luck utility, as what gave her strength and brought her out of gloom.
 - Later Lucky Cyan heroism distributes care through cooperation with Queen and the Johnnies rather than requiring Qīng to embody hope alone.
+- One of the first coins of Qīng's post-escape self-support was an anonymous, unclaimed gift from X in civilian presentation, identified retrospectively by E24 (`TBHX-AV-E09-001`); it stands outside the Sacred Maiden petition economy, and nothing shows Qīng learning who gave it.
 
 ### Paired Specialist-07/08 checkpoint
 
@@ -753,8 +756,10 @@ Canonical artifact:
 - `15_X_ZERO_GODHOOD_FATE_AND_THE_LIMIT_OF_PUBLIC_WILL.md`
 - **Drive ID:** `1FGR6Qcw7Z0lxebZA_ib0MTXim3cawOpp`
 - **Drive URL:** ../03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/15_X_ZERO_GODHOOD_FATE_AND_THE_LIMIT_OF_PUBLIC_WILL.md
-- **SHA-256:** `0f3dbf62a8a6a370c8afcfaa66bc607e5e471dd5bc3b95c567fda68ff91ecb60`
-- **Approximate length:** 11,610 whitespace-delimited words
+- **Current revision:** `AV-2026-10-25-E09-001` — E09/E24 coin-donor reconciliation; see [revision receipt](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_ARCHITECTURE_V1_5_AND_E09_COIN_RECONCILIATION_CHECKPOINT.md#current-specialist-revisions).
+- **SHA-256:** `91d84bb84829a051c5df99880fb4243721f016e00c3f11afb5ee8e00d77fd908`
+- **Bytes:** 82,798
+- **Current length:** 12,010 whitespace-delimited words
 
 Current governing proposition:
 
@@ -774,6 +779,7 @@ Key stabilized findings:
 - the anti-X operation attacks the private/role boundary that currently most clearly distinguishes X from Zero;
 - X/A-Hu remains adversarial trust and an interpersonal prototype of answerability, not a complete constitution;
 - the coin is a remembered threshold rather than origin or fate selector;
+- the coin X once took for his beginning was his anonymous civilian gift to young Qīng in E09, identified retrospectively by E24's re-staging (`TBHX-AV-E09-001`); its mechanism remains open;
 - `都早已被种下` establishes causal embeddedness without strict determinism;
 - `违抗命运的安排 / 准点下班` defines freedom as refusing expected repetition and preserving the right to end the role's claim.
 
@@ -1128,6 +1134,8 @@ Full-season Gemini handoff receipt: **COMPLETE — eleven supplied arc bundles**
 
 Document 20 is now a mandatory Phase-5 closure artifact. It is responsible for plausible situational reconstruction of sufficiently evidenced characters through baseline temperament, worldview/salience, decision heuristics, emotional needs and defenses, relationship-conditioned variants, speech-generation constraints, directly observed acoustic/embodied behavior, stress/failure/recovery patterns, negative constraints, and a confidence-graded `stimulus -> interpretation -> emotion -> priorities -> behavior -> speech -> aftereffect` inference chain. It must label extrapolation as inference rather than canon.
 
+Original completion checkpoints retain their historical metrics as archival provenance. Current hashes, byte sizes, word counts and AV revision identifiers for Specialists 01/07/08/15/16/17 appear in their entries above and the appropriate integration checkpoints. No Phase 5 closure or Phase 6–9 work is initiated. **Next source work: the named channel-specific debts in the remaining-arcs checkpoint and ten audit matrices; the E09/E24 paired-source donor debt is now satisfied (below).**
+
 ### Architecture v1.5 and the character reconstruction method (2026-10-25)
 
 The synthesis architecture is amended to **v1.5** (§10 there). Current identities and dependencies:
@@ -1141,7 +1149,9 @@ The synthesis architecture is amended to **v1.5** (§10 there). Current identiti
 
 No Document 18–20 drafting, Phase-5 closure or Phase 6–9 work is initiated by this amendment.
 
-Original completion checkpoints retain their historical metrics as archival provenance. Current hashes, byte sizes, word counts and AV revision identifiers for Specialists 01/07/16/17 appear in their entries above and the appropriate integration checkpoints. No Phase 5 closure or Phase 6–9 work is initiated. **Next source work: the named channel-specific debts in the remaining-arcs checkpoint and ten audit matrices.**
+### E09/E24 coin-donor reconciliation (2026-10-25)
+
+[`TBHX-AV-E09-001`](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E09-E24_COIN_DONOR_PAIRED_SOURCE_AUDIT.md) compared native E09 and E24 WEB frames and hardsubs. **Confirmed retrospective identity:** the E09 nighttime coin donor (WEB 11:44–12:03) is X in his black-haired, bespectacled, dark-suited civilian presentation. E24 WEB 20:02–20:25 re-stages the encounter — same square, recipient and coin; matching coin-landing and departing-wave compositions — shows his face, carries the same figure into X's snap and public presentation, and sets X's `我本以为自己的英雄之路 / 是从那枚硬币开始的` over it. The Liu Zhen attribution is rejected; the daytime tipper is a separate giver; the reported “counter 0” is Qīng's eye image rather than a wrist reading, and the wrist value stays open, narrowed. The coin's mechanism remains a protected question. Debts `E08A-D2` and `E24-D03` are satisfied for identity. The frozen E09 reading's uncertainty is preserved as its prospective state; `P2-CR-X06`, the X sovereignty ledger (`RS-E24-13`) and Specialists 08 and 15 carry labeled current revisions.
 
 ## 15. Protected full-series questions
 
