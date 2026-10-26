@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_FIXED41_MAIN_AND_EXPANDED_CORPUS
 generation: V1
 status: canonical
-source_boundary: Fixed41 declared gates retained; expanded specialists/extended/six provisional Stage D versions with 90 original first responses author gates closed through 9b3cc94f; full-series/claims/evidence/component/consistency/completion package reviewed; containing publication next; designated evaluation/integration/release not certified; percentage null
+source_boundary: Full-series and completion author package published and verified at 0d36d142; all 41 fixed source gates retained; six provisional Stage D cores and 90 originals unchanged; designated curation/evaluation/protected integration/release remain; percentage null
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,14 +17,14 @@ project_initialization:
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
   sequential_analysis_lock: open
-  next_permitted_operation: FULL_PROGRAM_AUTHOR_PUBLICATION_THEN_DESIGNATED_CURATION_EVALUATION_INTEGRATION_RELEASE
+  next_permitted_operation: DESIGNATED_CURATION_EVALUATION_PROTECTED_INTEGRATION_AND_RELEASE
 sequential_execution:
   mode: continuous_sequential
   unit_type: analytical_responsibility
   authorized_start: V11
   terminal_boundary: V17
   committed_high_water_mark: V17
-  next_candidate_operation: FULL_PROGRAM_AUTHOR_PUBLICATION_THEN_DESIGNATED_CURATION_EVALUATION_INTEGRATION_RELEASE
+  next_candidate_operation: DESIGNATED_CURATION_EVALUATION_PROTECTED_INTEGRATION_AND_RELEASE
   confirmation_between_units: false
   run_state: active
 ---
@@ -45,9 +45,9 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 
 <!-- CURRENT_OPERATION_START -->
 
-**Current phase: full-series/completion author-package publication; designated gates remain.** Seven expanded specialists, the extended synthesis and six distinct provisional Stage D cores retain closed exact author gates through `9b3cc94f7575ccbc96c493b7c68ae79dd2556dbf`. The [Stage D gate](09%20Audits%20and%20Manifests/KONOSUBA_POST_VALIDATION_STAGE_D_AUTHOR_PUBLICATION_GATE_CLOSE_01.json) records the complete 10,411-path index/remote tree, 29 changed streams, 1,798 reloaded project bodies and its own 479-test audit 40280071856, with every discovered ID and all five non-success categories verified. Do not repeat source admission, the completed broader audit, ledger consolidation, specialist authorship or the actual battery of 90 first responses.
+**Current phase: author analysis published and verified; designated curation/evaluation/integration/release remain.** Seven expanded specialists, the extended synthesis and six distinct provisional Stage D cores retain closed exact author gates through `9b3cc94f7575ccbc96c493b7c68ae79dd2556dbf`. The [Stage D gate](09%20Audits%20and%20Manifests/KONOSUBA_POST_VALIDATION_STAGE_D_AUTHOR_PUBLICATION_GATE_CLOSE_01.json) records the complete 10,411-path index/remote tree, 29 changed streams, 1,798 reloaded project bodies and its own 479-test audit 40280071856, with every discovered ID and all five non-success categories verified. Do not repeat source admission, the completed broader audit, ledger consolidation, specialist authorship or the actual battery of 90 first responses.
 
-The [full-series synthesis](07%20Full-Series%20Synthesis/KONOSUBA_FULL_SERIES_SYNTHESIS.md), [current 27-contract evidence matrix](08%20Evidence%20and%20Indexes/KONOSUBA_POST_VALIDATION_MODEL_EVIDENCE_MATRIX_V1.md), [18 claim revisions](08%20Evidence%20and%20Indexes/KONOSUBA_POST_VALIDATION_CLAIM_REVISION_LEDGER_V1.md), [component-disposition audit](09%20Audits%20and%20Manifests/KONOSUBA_FULL_PROGRAM_COMPONENT_DISPOSITION_AUDIT_V1.md) and [cross-model consistency audit](09%20Audits%20and%20Manifests/KONOSUBA_POST_VALIDATION_CROSS_MODEL_CONSISTENCY_AUDIT_V1.md) are accepted working artifacts. Their containing publication is next. The component audit joins all 41 registers and receiving routes to 40 distinct published gates while preserving source-plane/reading limits and historical fields. These arguments and audits are performed work, not empty templates or future source passes.
+The [full-series synthesis](07%20Full-Series%20Synthesis/KONOSUBA_FULL_SERIES_SYNTHESIS.md), [current 27-contract evidence matrix](08%20Evidence%20and%20Indexes/KONOSUBA_POST_VALIDATION_MODEL_EVIDENCE_MATRIX_V1.md), [18 claim revisions](08%20Evidence%20and%20Indexes/KONOSUBA_POST_VALIDATION_CLAIM_REVISION_LEDGER_V1.md), [component-disposition audit](09%20Audits%20and%20Manifests/KONOSUBA_FULL_PROGRAM_COMPONENT_DISPOSITION_AUDIT_V1.md) and [cross-model consistency audit](09%20Audits%20and%20Manifests/KONOSUBA_POST_VALIDATION_CROSS_MODEL_CONSISTENCY_AUDIT_V1.md) are published and their [exact author gate](09%20Audits%20and%20Manifests/KONOSUBA_FULL_PROGRAM_AUTHOR_PUBLICATION_GATE_CLOSE_V1.json) is closed at `0d36d142698ad839135f81dd1d6ef7a2731b23bf` / tree `aeef1c5a45f75929541b4a04eb84479db4a6fa6b`: all 10,423 index/remote paths, 15 changed streams, 1,810 body reloads and its own complete 479-test audit `40288269475`, with every discovered ID, all five non-success categories, reporter, cleanup and latest trusted exact-source status verified. The component audit joins all 41 registers and receiving routes to 40 distinct published gates while preserving source-plane/reading limits and historical fields. These arguments and audits are performed work, not empty templates or future source passes.
 
 The [completion audit](09%20Audits%20and%20Manifests/KONOSUBA_FULL_PROGRAM_COMPLETION_AUDIT_V1.md), [evaluation handoff](09%20Audits%20and%20Manifests/KONOSUBA_DESIGNATED_EVALUATION_HANDOFF_V1.json) and [release-candidate manifest](09%20Audits%20and%20Manifests/KONOSUBA_ANALYTICAL_RELEASE_CANDIDATE_MANIFEST_V1.json) distinguish reviewed author outputs from their exact publication and the separately owned remaining gates. At snapshot 9b3, the central capability file has no matching KonoSuba assessment; the actual evaluator queue has 23 enrolled BACKFILL_UNASSESSED items. That queue is not a 65-subject or unique-person denominator. Later designated work must use its actual current Git state; no global grade/registry write or message to another chat has been performed by this author package.
 
@@ -55,7 +55,7 @@ The original 71 model bodies and six exact tested successors total 77 bodies; 65
 
 Ninety complete first texts were saved and sealed before separate eight-criterion feedback. Forty-nine dependent full opening traces across 18 commitments align internally, without an accuracy rate. Original F04-A-TR retains typed A04 failure SD1-QA-D01; the separately marked post-feedback example does not replace it. K04, M04 and E03 remain OPEN; typed/qualified/not-triggered/not-fully-prebound views retain separate outcomes. Same-assistant source-known authorship, scaffolded inputs, short procedural speech and unexecuted joint-guard intersections limit the active provisional suite. No mature/VERY_HIGH or independent-grade promotion is claimed.
 
-Next, finish this exact author publication gate, then the designated discovery/curation and capability-evaluation work, protected-main integration and separately verified release. The author does not self-merge or write evaluator-owned outputs. The single current map remains the entrypoint; do not rename it or infer full-program completion from the reviewed package. Earlier appended phase/pending/zero-firsts statements retain their historical boundaries and cannot override this block or its frontmatter.
+Next, complete actual designated discovery/curation and capability evaluation, protected-main integration and separately verified release. The author analytical package is closed at its recorded scopes; any concrete returned findings require a separately attributable authorized correction. The author does not self-merge or write evaluator-owned outputs. The single current map remains the entrypoint; do not rename it or infer full-program completion from the reviewed package. Earlier appended phase/pending/zero-firsts statements retain their historical boundaries and cannot override this block or its frontmatter.
 
 <!-- CURRENT_OPERATION_END -->
 
@@ -93,7 +93,7 @@ This execution uses the owner-designated local primary-source EPUB collection; i
 | Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
 | Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
 
-Nineteen supplemental editions, all five mixed/reference programs and all 17 main excluded-component programs retain their closed declared gates; original principal histories retain zero new pass credit. Broader secondary audit, ledger consolidation, seven expanded specialists, extended integration, six exact provisional Stage D cores and the actual 90-first/feedback packet are performed. The full-series argument and current component/claim/evidence/consistency/completion package are reviewed working artifacts awaiting their containing publication gate. Designated curation/evaluation, protected integration and release remain distinct; no narrative-component percentage is inferred.
+Nineteen supplemental editions, all five mixed/reference programs and all 17 main excluded-component programs retain their closed declared gates; original principal histories retain zero new pass credit. Broader secondary audit, ledger consolidation, seven expanded specialists, extended integration, six exact provisional Stage D cores and the actual 90-first/feedback packet are performed. The full-series argument and current component/claim/evidence/consistency/completion package are published and their exact author publication gate is closed. Designated curation/evaluation, protected integration and release remain distinct; no narrative-component percentage is inferred.
 
 Before another source is admitted, its predecessor's exact publication/readback, source audit, housekeeping, final actual-source audit/status and fresh published-authority reload must be satisfied under the governing workflow. Admission then verifies exact local identity/CRC/OPF/structure, records current informed exposure/questions and seals zero-new-body preparation. Full actual text/ruby/residual/image reading and an uncoded seal precede formal outcomes. Extraction, prior principal validation, captions and marketing do not substitute for that work.
 
@@ -109,9 +109,9 @@ Historical early checkpoints cited some illustrations and a V03 afterword, witho
 
 ## 6. Mandatory subjects and outstanding program
 
-The four mandatory principals are Satou Kazuma, Aqua, Megumin and Darkness, with party interaction and cross-context transfer as separate responsibilities. Their six distinct Stage D successors are published, exactly frozen/tested and active provisional. The full-series synthesis, current 27-contract matrix, 18 claim records, component audit, cross-model audit and completion/handoff/candidate-manifest package are now reviewed working artifacts. Model bodies remain 77, including 71 preserved earlier bodies; scoped secondary entries remain 65.
+The four mandatory principals are Satou Kazuma, Aqua, Megumin and Darkness, with party interaction and cross-context transfer as separate responsibilities. Their six distinct Stage D successors are published, exactly frozen/tested and active provisional. The full-series synthesis, current 27-contract matrix, 18 claim records, component audit, cross-model audit and completion/handoff/candidate-manifest package are now published and author-verified at their recorded scopes. Model bodies remain 77, including 71 preserved earlier bodies; scoped secondary entries remain 65.
 
-Current work is their exact author publication, then designated discovery/curation, capability evaluation, protected integration and final release. The source-known battery is already executed and reviewed. Do not regenerate its firsts, erase its typed defect, retrofit old scores, force new subjects/denominators or treat a repository integrity audit as personality validation.
+Current work is actual designated discovery/curation, capability evaluation, protected integration and final release. The author full-series/component/claim/evidence/consistency/completion work has its exact publication gate closed. The source-known battery is already executed and reviewed. Do not regenerate its firsts, erase its typed defect, retrofit old scores, force new subjects/denominators or treat a repository integrity audit as personality validation.
 
 ## 7. Core analytical commitments
 
@@ -167,7 +167,7 @@ A later synthesis never licenses invented evidence. Exact wording, linguistic cl
 
 ## 12. Current next actions
 
-Finish exact author publication of the accepted full-series and completion package. Then use the actual designated discovery/evaluation and protected integration/release gates recorded in its audit. The full-series/component/claims/evidence work and 90-first feedback are performed; originals, uncertainties and source-local limits remain. No final release, entrypoint rename or full-program-complete claim is authorized by file counts or internal consistency.
+Continue the actual designated discovery/curation, capability evaluation, CI/owner integration and separately verified release gates. The complete author analytical package is published and verified; do not repeat its source readings, regenerate its firsts or restate its accepted arguments as future work. Use actual current Git for designated currentness. Original scores, blanks/nulls, source-plane limits and OPEN selectors remain. No final release or entrypoint rename has yet been certified.
 
 No additional native source pass is requested by this current operation. If a concrete unresolved claim later requires one, use a bounded return or a separately gated source admission as appropriate, preserve informed exposure and original questions, and give actual text/ruby/residual/image receiving only its earned scope. The matrix/architecture retain natural-order and admission requirements. Git/audit receipts own publication identities; this map owns current phase and governing routes.
 

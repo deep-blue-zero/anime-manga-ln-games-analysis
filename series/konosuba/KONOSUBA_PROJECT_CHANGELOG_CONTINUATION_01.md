@@ -822,3 +822,52 @@ The extended synthesis and executed provisional Stage D suite have their exact a
 ```
 
 The package routes27 contracts, 18 current claim records, all 41 component registers/receiving owners and 40 gate receipts. It retains the 90 original firsts and typed A04 defect, original four source-local scores, old matrix/claim/locator bodies, all nineteen historical census-plane differences and independent nulls. Actual evaluator work-queue observation is23 enrolled unassessed items at source9b3, not a model/person denominator or grade.
+
+
+## Full-program author publication gate closed: displaced active controls — 2026-10-26T08:11:59.821010+00:00
+
+Source `0d36d142` / tree `aeef1c5a`: 10,423 exact index/remote paths, 15 complete changed streams, 1,810 fresh body reloads and complete 479-test audit `40288269475` verified. Author analytical responsibilities are closed at their recorded scopes; designated curation/evaluation, protected integration and final release remain. Exact displaced controls follow.
+
+```text
+source_boundary: Fixed41 declared gates retained; expanded specialists/extended/six provisional Stage D versions with 90 original first responses author gates closed through 9b3cc94f; full-series/claims/evidence/component/consistency/completion package reviewed; containing publication next; designated evaluation/integration/release not certified; percentage null
+```
+
+```text
+next_permitted_operation: FULL_PROGRAM_AUTHOR_PUBLICATION_THEN_DESIGNATED_CURATION_EVALUATION_INTEGRATION_RELEASE
+```
+
+```text
+next_candidate_operation: FULL_PROGRAM_AUTHOR_PUBLICATION_THEN_DESIGNATED_CURATION_EVALUATION_INTEGRATION_RELEASE
+```
+
+```text
+**Current phase: full-series/completion author-package publication; designated gates remain.**
+```
+
+```text
+are accepted working artifacts. Their containing publication is next.
+```
+
+```text
+Next, finish this exact author publication gate, then the designated discovery/curation and capability-evaluation work, protected-main integration and separately verified release.
+```
+
+```text
+are reviewed working artifacts awaiting their containing publication gate.
+```
+
+```text
+are now reviewed working artifacts.
+```
+
+```text
+Current work is their exact author publication, then designated discovery/curation, capability evaluation, protected integration and final release.
+```
+
+```text
+Finish exact author publication of the accepted full-series and completion package. Then use the actual designated discovery/evaluation and protected integration/release gates recorded in its audit. The full-series/component/claims/evidence work and 90-first feedback are performed; originals, uncertainties and source-local limits remain. No final release, entrypoint rename or full-program-complete claim is authorized by file counts or internal consistency.
+
+
+```
+
+The owner subsequently integrated registry PR #343 at `4ea2caf128ba7f6be3c6045195d38d371855a0b1`. Ordinary merge `39207bfd5847190b8d224f46dc775b848f34e1ab` retains those five imported registry/index files exactly and changes no KonoSuba body. This is an inherited owner integration, not new curation by the analysis author.
