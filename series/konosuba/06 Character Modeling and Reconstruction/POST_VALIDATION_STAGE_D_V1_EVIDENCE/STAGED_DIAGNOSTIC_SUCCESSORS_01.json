@@ -1,0 +1,22 @@
+{
+  "schema": "konosuba.staged.post-feedback-diagnostic-successors.v1",
+  "recorded_utc": "2026-10-26T06:22:25.292203+00:00",
+  "current_feedback_sha256": "ba3b5b5c6599f20ddd51751771b352de329688d061d22a0011b6bcb71594331b",
+  "successors": [
+    {
+      "id": "SD1-F04-A-TR-D01",
+      "parent_execution_id": "SD1-F04-A-TR",
+      "parent_original_sha256": "7b75b7e7153e741004bdb3ab68c0728f91ed5a325d206bb711716578a4ddc0ad",
+      "defect": "SD1-QA-D01",
+      "composed_after_feedback": true,
+      "bytes": 681,
+      "sha256": "ddadc25dd016b2c8b4ecc0afbd192d59fb7138f907bdb47bf8ff55bb45c32797",
+      "text_utf8": "Aqua straightens, pleased that her practical usefulness was conceded and offended that her identity was denied. 「この世界で力が使えないからって、女神じゃなくなるわけじゃないでしょ。役に立つとは認めるのに、そこだけ否定するのね！」 She addresses the onlooker's stated denial without claiming that this person received the repair. Her protest is an attempt to obtain recognition, not a new demonstration of power. She knows magic is absent and does not perform it. The friend has supplied no intervention, and the onlooker's belief and next answer remain unknown. No apology or converted audience is created by the protest.\n",
+      "scope": "Later illustration removes the unsupported recipient and argument-role error; no replacement first or rerun success. Original A04 VIOLATED remains.",
+      "same_frozen_model": true
+    }
+  ],
+  "new_firsts": 0,
+  "originals_rewritten": 0,
+  "independent_validation_gain": 0
+}

@@ -1,0 +1,760 @@
+{
+  "schema": "konosuba.staged.feedback-mode-join-qualification.v1",
+  "parent_sha256": "3f1b332b2599fce41bc434ce56ab69f9c933d67a83a8e8a466dbfd65dea16a1c",
+  "successor_sha256": "ba3b5b5c6599f20ddd51751771b352de329688d061d22a0011b6bcb71594331b",
+  "changes": [
+    {
+      "execution_id": "SD1-F01-K-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F01-A-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F01-M-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F01-D-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F01-E-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F02-K-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F02-A-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F02-M-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F02-D-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F02-E-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F03-K-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F03-A-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F03-M-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F03-D-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F03-E-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F04-K-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F04-A-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F04-M-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F04-D-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F04-E-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F05-K-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F05-A-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F05-M-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F05-D-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F05-E-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F06-K-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F06-A-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F06-M-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F06-D-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F06-E-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F07-A-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F07-M-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F07-D-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F07-E-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F08-K-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F08-A-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F08-M-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F08-D-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F08-E-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F09-K-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F09-A-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F09-M-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F09-D-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    },
+    {
+      "execution_id": "SD1-F09-E-TR",
+      "before": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "UNOBSERVABLE",
+        "evidence": "No explicit known-absence conjunction. Unknown readiness did not become a performed spell, but that is not a full T01 test."
+      },
+      "after": {
+        "id": "SD1-T01",
+        "applicability": "KNOWN_ABSENT_MEANS_GUARD",
+        "directional_success": false,
+        "outcome": "SUPPORTED",
+        "evidence": "Fixed mode CROSS_CONTEXT_TRANSFER explicitly removes magic; actual saved response performs no absent power or invented replacement expertise. Local typed constraint only, not a directional success."
+      }
+    }
+  ],
+  "full_inverse_exact": true,
+  "first_texts_changed": 0,
+  "models_changed": 0,
+  "primary_results_changed": 0,
+  "QA_defect_erased": false
+}
