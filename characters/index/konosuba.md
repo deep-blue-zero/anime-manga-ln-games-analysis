@@ -6,6 +6,73 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 
 ## Reviewed entries
 
+<a id="amaryllis"></a>
+
+### Amaryllis
+
+- Entity ID: `konosuba:amaryllis`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original light-novel continuity, scoped cohort monograph
+
+- Analysis subject ID: `konosuba:amaryllis@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-48`: LIGHT_NOVEL OTHER: Bounded synthesis of MAIN16 U012 (complete chapter with its predecessor and interludes): the self-named performer's fabricated chimera biography, the reassurance turned to pressure, the spider-body reveal, the fear preference, the register change on Vanir's arrival, and the unfinished pet search. The MASK U015 Stesky report stays a separate, unjoined occurrence. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Amaryllis: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_AMARYLLIS_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="angie"></a>
+
+### Angie
+
+- Entity ID: `konosuba:angie`
+- Entity aliases:
+  - アンジー (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped cohort monograph
+
+- Analysis subject ID: `konosuba:angie@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-46`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete YORI04 U018 and U020 paragraph and ruby projections: the mistaken rescue, senior-junior display, the drinking bills, the refused quest, the mineral trip and its objections, the protective stand before Megumin's Explosion, the locust duty under Ignis, the false blame of Yunyun, and the recognition of Kazuma ending in a drawn brawl. Controlling qualification C46-PFQ03 applies: the observed Heal treats Kazuma, and Angie's own injury, treatment and recovery are unshown. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Angie: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_ANGIE_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="anna-filante-esteroid"></a>
+
+### Anna Filante Esteroid
+
+- Entity ID: `konosuba:anna-filante-esteroid`
+- Entity aliases:
+  - アンナ゠フィランテ゠エステロイド (ja, ORIGINAL_SCRIPT) — Separator form printed as the adventure book's author in Yorimichi 4.
+  - アンナ＝フィランテ＝エステロイド (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped cohort monograph
+
+- Analysis subject ID: `konosuba:anna-filante-esteroid@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-46`: LIGHT_NOVEL OTHER: Bounded synthesis of the mansion's resident child ghost across MAIN02 U016 (full name, grave inscription, exclusion of the hostile dolls, grave care) and U017, YORI01 U012 (Aqua's admitted false blame, the story condition, the privacy disclosures), MAIN16 U011 and U013 (the final-story request before Aqua leaves) and YORI04 U018 and U020 (the adventure-book author attribution and the waiting audience). Most of her speech is mediated by Aqua. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Anna Filante Esteroid: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_ANNA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="aqua"></a>
 
 ### Aqua
@@ -75,6 +142,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - `expanded-cohort-01`: LIGHT_NOVEL OTHER: Bounded synthesis centered on MAIN12 final chapter; MAIN17 chapter 3 P200–402 and Eris-focalized epilogue; Continued Explosions 01 U021 P1–80/P119–203/P329–375/P444–510 and U026 P1–50. Accepted earlier-main and supplemental reports supply separately qualified derivative context. This is review of the monograph, not new primary reading, continuous MAIN12–17 coverage or completed scene and identity census.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Chris / Eris: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="crank"></a>
+
+### Crank
+
+- Entity ID: `konosuba:crank`
+- Entity aliases:
+  - クランク (ja, ORIGINAL_SCRIPT) — Written with the title 男爵 (baron).
+
+#### Subject: Original light-novel continuity, scoped cohort monograph
+
+- Analysis subject ID: `konosuba:crank@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-45`: LIGHT_NOVEL OTHER: Bounded synthesis of YORI-03 U014 P275–315 within the complete U014 paragraph and ruby projection: the surprise inspection, his late-work and patronage explanations, the admitted monster business with a contested purpose, his defense of harassment as noble custom, the search, the found contraband and his reaction. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Crank: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_CRANK_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="darkness"></a>
 
@@ -235,6 +324,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Gaibil: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_GAIBIL_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+<a id="heidel"></a>
+
+### Heidel
+
+- Entity ID: `konosuba:heidel`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original light-novel continuity, scoped cohort monograph
+
+- Analysis subject ID: `konosuba:heidel@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-47`: LIGHT_NOVEL OTHER: Bounded synthesis of MAIN06 U011 and U013 (the Sebastian name correction) and MAIN11 U012 (the returning butler's anticipatory service, the Mary proposal, the crop-futures question, schedules, the relayed Darkness objection and cake scheme, the misread complaint and the later tea and door service), with responsibility for the later restraint and potion kept with Claire, Rain and others. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Heidel: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_HEIDEL_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="iris"></a>
 
 ### Iris
@@ -278,6 +389,73 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - `expanded-cohort-33`: LIGHT_NOVEL OTHER: Bounded synthesis of the connected CONTEXP01 Donnelly episode at census row 70. The reported MASK adventurer Karen is not joined to this subject. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Karen Donnelly: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_KAREN_DONNELLY_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="keele"></a>
+
+### Keele
+
+- Entity ID: `konosuba:keele`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original light-novel continuity, scoped cohort monograph
+
+- Analysis subject ID: `konosuba:keele@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-47`: LIGHT_NOVEL OTHER: Bounded synthesis of MAIN02 U015 and its preceding chapter (the public legend, the opened wall, his self-account of the request and abduction, the reported acceptance, becoming a lich, his doubt about her happiness, the purification request and Sacred Turn Undead), with bounded later references that name only the dungeon or recall his request. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Keele: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_KEELE_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="lilac-lalatine"></a>
+
+### Lalatine
+
+- Entity ID: `konosuba:lilac-lalatine`
+- Entity aliases:
+  - ライラック・ロッド・ララティーナ (ja, ORIGINAL_SCRIPT) — Full name before the wedding; distinct from Darkness.
+  - ララティーヌ (ja, ORIGINAL_SCRIPT) — Given name after the wedding rename.
+
+#### Subject: Original light-novel continuity, scoped cohort monograph
+
+- Analysis subject ID: `konosuba:lilac-lalatine@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-45`: LIGHT_NOVEL OTHER: Bounded synthesis of YORI-03 U018 (complete paragraph and ruby projection): the duel she wins against Vice, the childhood-romance account later exposed as false, the victory-based claim over Vice, the drawn duel with Tia, the court submission, the threatened settlement, the wedding and the rename to Lalatine. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Lalatine: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_LILAC_LALATINA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="liliantine"></a>
+
+### Liliantine
+
+- Entity ID: `konosuba:liliantine`
+- Entity aliases:
+  - リリアンティーヌ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped cohort monograph
+
+- Analysis subject ID: `konosuba:liliantine@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-45`: LIGHT_NOVEL OTHER: Bounded synthesis of the four YORI-03 U018 teaching frames (P118–145, 209–223, 280–287, 313–319) within the complete paragraph and ruby projection: her crater-city question, note-taking, enjoyment of invented Crimson history as fiction, improved grades, imitated poses and the end of the tutoring job. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Liliantine: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_LILIANTINE_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="lucy"></a>
 
@@ -370,6 +548,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - [`expanded-monograph` — Megumin: expanded-corpus character monograph V1](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MEGUMIN_EXPANDED_CHARACTER_MONOGRAPH_V1.md) — **active provisional authority**
   - [`main-principal-monograph` — Megumin: main-principal character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MEGUMIN_CHARACTER_MONOGRAPH.md) — **active provisional authority**
   - [`stage-d-principal-model` — Megumin: post-validation Stage D reconstruction V1](../../series/konosuba/06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_MEGUMIN_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md) — **active provisional authority**
+
+<a id="melvirei"></a>
+
+### Melvirei
+
+- Entity ID: `konosuba:melvirei`
+- Entity aliases:
+  - メルビレイ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped cohort monograph
+
+- Analysis subject ID: `konosuba:melvirei@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-45`: LIGHT_NOVEL OTHER: Bounded synthesis of the continuous YORI-03 U018 sequence (complete paragraph and ruby projection): collection in the rain, resistance to Kazuma and approach to Aqua, sprays at Megumin, growth from jar to pond, the water display, the delayed release, the four-frog fight, the healing and the prompted departure to the sea. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Melvirei: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MELVIREI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="ozuma"></a>
 
@@ -550,6 +750,118 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - [`expanded-monograph` — Satou Kazuma: expanded-corpus character monograph V1](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_KAZUMA_EXPANDED_CHARACTER_MONOGRAPH_V1.md) — **active provisional authority**
   - [`main-principal-monograph` — Satou Kazuma: main-principal character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_KAZUMA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
   - [`stage-d-principal-model` — Satou Kazuma: post-validation Stage D reconstruction V1](../../series/konosuba/06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_KAZUMA_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md) — **active provisional authority**
+
+<a id="shumel"></a>
+
+### Shumel
+
+- Entity ID: `konosuba:shumel`
+- Entity aliases:
+  - シュメール・ミード・ひゃんひゃん (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped cohort monograph
+
+- Analysis subject ID: `konosuba:shumel@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-45`: LIGHT_NOVEL OTHER: Bounded synthesis of YORI-03 U014 P358–414 within the complete U014 paragraph and ruby projection: the inspection confrontation, the name and Crimson objections, the conditional threat and Cursed Lightning cast, the reported reciprocal name convention with Darkness, the courtroom counteraccount, the vault exchange and the grapple. Ancestry and the collar handover are not established. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Shumel: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_SHUMEL_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="siegwald"></a>
+
+### Siegwald
+
+- Entity ID: `konosuba:siegwald`
+- Entity aliases:
+  - ジーク (ja, ORIGINAL_SCRIPT) — Nickname Aqua gives.
+  - ジークヴァルト (ja, ORIGINAL_SCRIPT)
+  - ヴォルフガング・ジークヴァルト (ja, ORIGINAL_SCRIPT) — Full form of the name Aqua gives.
+
+#### Subject: Original light-novel continuity, scoped cohort monograph
+
+- Analysis subject ID: `konosuba:siegwald@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-44`: LIGHT_NOVEL OTHER: Bounded synthesis of the complete YORI-02 U018 paragraph and ruby projection: the weak cub's healing and recovery, guild-counter cries, household care, attempted training, garment play and bedding, play with Chomusuke, toileting incidents and the return to the waiting white-tiger mother. Human projections of military use, loneliness and a future match keep their authors. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Siegwald: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_SIEGWALD_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="stella"></a>
+
+### Stella
+
+- Entity ID: `konosuba:stella`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original light-novel continuity, scoped cohort monograph
+
+- Analysis subject ID: `konosuba:stella@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-48`: LIGHT_NOVEL OTHER: Bounded synthesis of MAIN16 U012 P138–249, her first-person focalized account of the failed descent (complete chapter with its predecessor and interludes): remembered mapping and overconfidence, appraisal under pursuit, the corrected reproach of Gain, the warning to Vanir, the rescue, the supply purchase and her mistaken divine explanation of Vanir. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Stella: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_STELLA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="tia"></a>
+
+### Tia
+
+- Entity ID: `konosuba:tia`
+- Entity aliases:
+  - ティア (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped cohort monograph
+
+- Analysis subject ID: `konosuba:tia@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-45`: LIGHT_NOVEL OTHER: Bounded synthesis of YORI-03 U018 (complete paragraph and ruby projection): the harassment claim advanced in her name and later exposed as staged, the narrated forgiveness, her challenge and drawn duel with Lalatina, her side's court argument, the threatened settlement and the wedding. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Tia: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_TIA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="vice"></a>
+
+### Vice
+
+- Entity ID: `konosuba:vice`
+- Entity aliases:
+  - バイス (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped cohort monograph
+
+- Analysis subject ID: `konosuba:vice@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-cohort-45`: LIGHT_NOVEL OTHER: Bounded synthesis of YORI-03 U018 (complete paragraph and ruby projection): the mistaken public repudiation addressed to Darkness, the correct fiancée's duel, the court exposure of both women's false accounts, and the coercively constrained wedding. The final three-way negotiation is unvoiced. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`scoped-cohort-monograph` — Vice: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_VICE_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="wolfgang-crow"></a>
 
