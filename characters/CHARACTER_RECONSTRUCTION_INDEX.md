@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 18
+- Recorded totals: `CANDIDATE` 20
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -120,6 +120,60 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `unsettled-treatment-boundary` (evidence-backed limitation): Section 4 attributes difficulty defending the brain-as-body/person distinction to Tuan. A rigid, fully settled rule rejecting every treatment of psychological suffering would erase that represented difficulty.
 - Evidence at basis commit:
   - [`harmony:tuan-kirie@original-novel#comparative-ethics`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1ac5215d216de2451fd3cf0ed667d90ad9df7cde/studies/project-itoh-genocidal-organ-harmony/COMPARATIVE_ETHICS_AND_FORM.md)
+
+### Subject `konosuba:demon-king@original-light-novel`
+
+#### Assessment `konosuba-demon-king-ln-main17-u013-u014-monograph-20261026-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:demon-king`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only konosuba:demon-king@original-light-novel\#scoped-cohort-monograph, the active\_provisional KONOSUBA\_DEMON\_KING\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the MAIN17 final confrontation \(U013 court and Eris's qualified assessments; U014 dungeon fight, negotiation and death\), with the U015 epilogue and the separately attributed U016 creator afterword, all reached through Kazuma's narration, the king's printed speech and others' testimony. The KonoSuba CURRENT\_STATE\_AND\_CORPUS\_MAP.md and the cohort 49 evidence index row were read for method, authority order and scope only. The cohort 49 audits, provenance and gate records, other monographs \(including the generals'\), ledgers and the Japanese source are not curated evidence on this subject and nothing is borrowed from them. No image, whole-edition, independent-reader or primary-source inspection is included.
+- Temporal boundary: The single MAIN17 final confrontation, from the throne-room court \(U013122\) through the dungeon fight to his death after Explosion \(U014496\), with Aqua's report of Kazuma's death and Eris's confirmation of his defeat \(U014539/667\) and the U015 epilogue as reported consequences. Eris's earlier forecasts \(U013246/343-353/537\) are planning statements, not states of the king. His history, the war's reason, the name's origin and any earlier reign are withheld and outside this assessment; no default state exists before U013 or after his death, and no in-world calendar time is fixed.
+- Basis commit: `c1ce63553e42527cebd7e6e4a665429c69619c88`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `abbed81f34c615f5cca1076c7cefd64965186327e791589725c96151e78df508`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology The MAIN17 final confrontation, U013122 to his death at U014496, with the bargaining posture at U014439-472 the last attested state.; interlocutor Kazuma as hostile challenger and bargaining counterpart; Megumin, Eris, Mitsurugi and the throne-room retainers as enemies or subordinates; his daughter and generals only as reported absent parties.; settings The Demon King's throne room and the dungeon to which Kazuma transports him, under mortal threat; No earlier reign, domestic setting, history, war reason or uncurated evidence; Printed Japanese only, no performed voice
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` NOT_ASSESSED; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` NOT_ASSESSED; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `attributed-grievances` (evidence-backed limitation): His reports of Beldia, Vanir, Wiz, Hans, Sylvia, Serena and Wolbach are attributed, potentially selective institutional memories \(U014277-279\), not newly witnessed events or confirmations of those subjects' monographs.
+  - `forecasts-are-not-choices` (evidence-backed limitation): Eris's forecasts of Teleport and duel conduct, and her qualified assessments of poison resistance and instant-death ineffectiveness \(MAIN17U013246/343-353/537\), are informed planning statements, not performed choices or tested traits; Kazuma's later less-qualified retelling does not replace their modality.
+  - `name-is-not-genealogy` (evidence-backed limitation): Yasaka Kyōichi \(八坂恭一\) is an adversary's self-introduction \(U014358/367\); he calls himself a demon, knows Japan only by rumor and withholds the name's origin and the war's reason \(U014373/376-390\), which the U016 afterword confirms remain unresolved. No Japanese-human, reincarnated, former-hero or descendant identity may be inferred.
+  - `separate-enhancement-mechanisms` (evidence-backed limitation): His local enhancement of a servant or golem, the seal Eris discusses, and the weakening of the world's monsters after his death are three separate mechanisms \(U013324/389; U014221/259-263; U01525; U01616\) and do not combine into one buff rule.
+  - `uncurated-corpus` (evidence gap): The cohort 49 audits, provenance and gate records, ledgers, other monographs and the Japanese source are not curated on this subject and were not assessed.
+  - `unperformed-offers` (evidence-backed limitation): His offers of escape, rest and monster recruitment, the imagined return with his daughter and the nonbetrayal-curse subordinate proposal \(U014343/398/415-418/433\) are never performed or tested; neither their sincerity nor their deceptiveness is established.
+  - `unshown-domestic-and-history` (evidence gap): No domestic scene, private value hierarchy, full history, verified genealogy, comparable low-stakes dispute or voice of the daughter is available; missing support is not evidence that any trait or capacity is absent.
+- Evidence at basis commit:
+  - [`konosuba:demon-king@original-light-novel#scoped-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c1ce63553e42527cebd7e6e4a665429c69619c88/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DEMON_KING_CHARACTER_MONOGRAPH.md)
+
+### Subject `konosuba:mammon@original-light-novel`
+
+#### Assessment `konosuba-mammon-ln-main17-u012-monograph-20261026-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:mammon`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only konosuba:mammon@original-light-novel\#scoped-cohort-monograph, the active\_provisional KONOSUBA\_MAMMON\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of MAIN17 U01292-371 and U012468-469 present action, reached through Kazuma's narration while he impersonates Nos, together with YORI04 U014530-540 retrospective testimony by a professional adventurer that the monograph joins to Mammon as a high-confidence cross-source inference with a tentative name. The KonoSuba CURRENT\_STATE\_AND\_CORPUS\_MAP.md and the cohort 49 evidence index rows \(including join C49-M01\) were read for method, authority order and scope only. The cohort 49 audits, provenance and gate records, the Nos monograph, ledgers and the Japanese source are not curated evidence on this subject and nothing is borrowed from them. No image, whole-edition, independent-reader or primary-source inspection is included.
+- Temporal boundary: The single MAIN17 U012 hall episode, from his recognition of Logia's corpse \(U01292\) to his fall from Kazuma's concealed attack \(U012363-371\), and his corpse at U012468-469 with the fatal transition unisolated. The YORI04 testimony describes an earlier mission and a reported promotion only as an opponent's hearsay; publication order does not make it a later state. No default state exists before or after the episode, and no in-world calendar time is fixed.
+- Basis commit: `c1ce63553e42527cebd7e6e4a665429c69619c88`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `89a813ef6747d98a03b2b63c8ee372a8267e9a63fa94b782edbb74c83a28edeb`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology The MAIN17 U012 hall episode, U01292 to U012371, with the stop order and boast the last attested states before his fall.; interlocutor His subordinates and server; the apparent Nos \(Kazuma in disguise\); the Axis prisoner Aqua; Mitsurugi and the other captives; the hidden intruder as an absent feared enemy.; settings The hall before the Demon King's room during the MAIN17 infiltration, with hostages held; No earlier mission beyond the YORI04 hearsay, no private or domestic setting and no uncurated evidence; Printed Japanese only, no performed voice
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` NOT_ASSESSED; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` NOT_ASSESSED; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `blow-count-and-server` (evidence-backed limitation): One completed blow \(U012217\) and one interrupted attempt \(U012240\) are located; Aqua's purification of the tea is not the server's sabotage, so the punishment cannot be justified as a response to it.
+  - `cross-source-join-is-inference` (evidence-backed limitation): The YORI04 professional adventurer's goat-headed knight, tentatively named Mammon, with one two-handed axe and a reported promotion to the Demon King's guard \(YORI04U014530-540\), is a high-confidence cross-source inference with tentativeness and hearsay preserved, not an explicit identity equation, a first-person confession or a witnessed battle; the adventurer's wish for his death is the adventurer's.
+  - `death-mechanism-unisolated` (evidence-backed limitation): The disabling cause of his fall is left between a skill and poison \(U012363-371\), and the corpse report \(U012468-469\) identifies no fatal stroke, time or exclusive killer.
+  - `impersonation-is-not-evidence` (evidence-backed limitation): Kazuma's Nos impersonation, hostage proposals and self-praise are Kazuma's performances \(U012119-127/279\); Mammon's errors arise from an incomplete security picture and he cannot be credited with the narrator's knowledge.
+  - `ordinary-life-unknown` (evidence gap): Food preferences, finances, family, leisure, private obligations and enduring relationships are unknown; missing support is not evidence that any trait or capacity is absent.
+  - `restraint-ceiling-and-cause` (evidence-backed limitation): He stops further humiliation of prisoners but keeps hostage taking and armed coercion \(U012306/321-334\); the cause is not separated among prior hesitation, Mitsurugi's rebuke, face, tactical sufficiency and limited aversion to cruelty, so neither moral clearance nor limitlessness may be inferred.
+  - `uncurated-corpus` (evidence gap): The cohort 49 audits, provenance and gate records, the Nos monograph, ledgers and the Japanese source are not curated on this subject and were not assessed.
+- Evidence at basis commit:
+  - [`konosuba:mammon@original-light-novel#scoped-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c1ce63553e42527cebd7e6e4a665429c69619c88/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MAMMON_CHARACTER_MONOGRAPH.md)
 
 ### Subject `konosuba:ozuma@original-light-novel`
 
