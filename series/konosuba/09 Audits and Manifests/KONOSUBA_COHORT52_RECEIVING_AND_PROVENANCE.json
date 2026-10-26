@@ -1,0 +1,419 @@
+{
+  "schema": "konosuba.cohort52.receiving-and-provenance.v1",
+  "status": "COMPLETE_SCOPED_SEMANTIC_RECEIVING_CONTAINING_PUBLICATION_PENDING",
+  "received_utc": "2026-10-25T23:11:09.495270+00:00",
+  "source_baseline": "87f93dab7b985d6b09acd94e9c33d34370a47c2f",
+  "current_main": "6b35401cd14589c12bf332be8f8cb9df302fac4f",
+  "remote_series_baseline": "87f93dab7b985d6b09acd94e9c33d34370a47c2f",
+  "carried_C51_closing11": [
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT51_PUBLICATION_GATE_CLOSE_01.json",
+      "kind": "NEW_VERBATIM_COMPLETE_RECEIVED_GATE_6ed91a",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 3957,
+      "after_sha256": "dac2aa30045ed21e08690099290d1154ce08dc9b37c3c758de3d014b049dbdb0"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_001.json",
+      "kind": "DESIGNATED_CENSUS_GENERATOR_STATUS_ONLY_CLOSURE",
+      "before_bytes": 671132,
+      "before_sha256": "0cd7129356b83ef5037b18b3a777d4537751ee11d3cce8301f75bce621324316",
+      "after_bytes": 678217,
+      "after_sha256": "b3115a55efadb07ec18103be6918f30e5a683aae3dbb1833f96f432cba762d59"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_002.json",
+      "kind": "DESIGNATED_CENSUS_GENERATOR_STATUS_ONLY_CLOSURE",
+      "before_bytes": 468233,
+      "before_sha256": "ee417ebf081f100ebec1c995a0a9239e5263c2293fc6c5aff0dd80728f5752d6",
+      "after_bytes": 469650,
+      "after_sha256": "ac312e2662b59ce21a501de29e56735eef17177ec0ae03cfe362df162215939f"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_010.json",
+      "kind": "DESIGNATED_CENSUS_GENERATOR_STATUS_ONLY_CLOSURE",
+      "before_bytes": 509204,
+      "before_sha256": "5834a689590c87aa45ba41a5bd56b33b8c2bb1fccc02b8bc17cfb22a953b88b2",
+      "after_bytes": 564852,
+      "after_sha256": "7e25225e82ad341b834bc10a46ccf8d0e29e73e2645b390ca7e0e44f42910ef7"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
+      "kind": "DESIGNATED_CENSUS_GENERATOR_STATUS_ONLY_CLOSURE",
+      "before_bytes": 364058,
+      "before_sha256": "57baebc105517e0753d080020a1789a361dcb97942e85c443cc3aab22ca1b7b1",
+      "after_bytes": 366172,
+      "after_sha256": "f881353c4d7eac67b50c0d321ed3bfddbd50f5bfd157c108a61a8efcfebed47f"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT51_RECEIVING_AND_PROVENANCE.json",
+      "kind": "TARGETED_CURRENT_PUBLICATION_STATUS_AND_RESOLUTION",
+      "before_bytes": 12689,
+      "before_sha256": "7a1de246f8fd4e65d1a4a420e755d91689de93a84c89ab019e1916f9782f357b",
+      "after_bytes": 14249,
+      "after_sha256": "0c877632f1421b8ca124aeae795a6963a0a3aa8f7bc4cb855ae7e64ae4b6809e"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+      "kind": "APPEND_EXACT",
+      "before_bytes": 481245,
+      "before_sha256": "37ea7cb7d689460402959e98d9315c0eb8e34ef5a520fdb3f1ef296291928239",
+      "after_bytes": 482608,
+      "after_sha256": "7d80fef9eec0778f6b96710bb2d08db369d99e3439169c37a93a3b93848f91e1"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CHARACTER_MODEL_EVIDENCE_MATRIX.md",
+      "kind": "APPEND_EXACT",
+      "before_bytes": 153357,
+      "before_sha256": "7a312689e47c07a2149a437eaefccaae2a84ef06984f6c46627e743df1c16caa",
+      "after_bytes": 154696,
+      "after_sha256": "b2415e1650bc45909f0d82bf6572e173aef0ece182277b889e39f4239fb0e912"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md",
+      "kind": "APPEND_EXACT",
+      "before_bytes": 498611,
+      "before_sha256": "9c5a27d3c49e0abc16654f03791a3b92e8448989433e878e777432ae8fc5482a",
+      "after_bytes": 499967,
+      "after_sha256": "f62a4cfcdc83cde206086ec341b6a7bac75a2fa33b0e73b45cf32c4521a7c66d"
+    },
+    {
+      "path": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "kind": "TARGETED_CURRENT_OPERATION_AND_BOUNDARY",
+      "before_bytes": 30088,
+      "before_sha256": "00e6f60d00d04361892e1caf1e04fac2d71187863aeff0b6fcee40fd3928c7fd",
+      "after_bytes": 30494,
+      "after_sha256": "5e7acc020e417dffe886b5bbdfb6f7f71e0925dc025e3344a1edfc8377d7d994"
+    },
+    {
+      "path": "series/konosuba/KONOSUBA_PROJECT_CHANGELOG_CONTINUATION_01.md",
+      "kind": "APPEND_EXACT",
+      "before_bytes": 102451,
+      "before_sha256": "bbf7603d8160ff5ece9133e2b2d42eafc30000cd2e5b7395f24ad0a63219c296",
+      "after_bytes": 106637,
+      "after_sha256": "3d435231c6a6561c82551e22e10a9df925bd1fa79d3ff3d3edce21509aeff436"
+    }
+  ],
+  "C51_exact_source_gate_sha256": "dac2aa30045ed21e08690099290d1154ce08dc9b37c3c758de3d014b049dbdb0",
+  "C52_complete_semantic_acceptance_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+  "actual_native_scope": {
+    "Core": 50,
+    "Advanced": 32,
+    "complete_before_records": 82,
+    "complete_census_neighbors_both_planes": 21,
+    "complete_current_owners": 8
+  },
+  "individual_dispositions": [
+    {
+      "row": 795,
+      "subject": "Core reincarnated adventurer sample",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md#c52-core-reincarnated-sample"
+    },
+    {
+      "row": 796,
+      "subject": "Core greatsword warrior sample",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md#c52-core-greatsword-sample"
+    },
+    {
+      "row": 797,
+      "subject": "Core Crimson wizard sample",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md#c52-core-crimson-sample"
+    },
+    {
+      "row": 798,
+      "subject": "Core compassionate priest sample",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md#c52-core-compassionate-priest-sample"
+    },
+    {
+      "row": 799,
+      "subject": "Core questing thief sample",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md#c52-core-thief-sample"
+    },
+    {
+      "row": 800,
+      "subject": "Advanced iron-wall holy knight sample",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md#c52-advanced-knight-sample"
+    },
+    {
+      "row": 801,
+      "subject": "Advanced Crimson great-mage sample",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md#c52-advanced-mage-sample"
+    },
+    {
+      "row": 802,
+      "subject": "Advanced noble great-priest sample",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md#c52-advanced-priest-sample"
+    },
+    {
+      "row": 803,
+      "subject": "Advanced deadly Assassin sample",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md#c52-advanced-assassin-sample"
+    },
+    {
+      "row": 804,
+      "subject": "Unnamed Core world-guide newcomer",
+      "tier": 2,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_GUIDE_NEWCOMER_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 805,
+      "subject": "Core guide unfamiliar priest-seeming girl",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md#c52-guide-priest-novice"
+    },
+    {
+      "row": 806,
+      "subject": "Core world-guide receptionist",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md#c52-guide-receptionist"
+    },
+    {
+      "row": 807,
+      "subject": "Okina / オキナ",
+      "tier": 2,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_OKINA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 808,
+      "subject": "Boren / ボーレン",
+      "tier": 2,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 809,
+      "subject": "Metal Mōrā / メタルモーラー",
+      "tier": 2,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 810,
+      "subject": "Advanced captive party Warrior",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md#c52-captive-warrior"
+    },
+    {
+      "row": 811,
+      "subject": "Advanced captive party Wizard",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md#c52-captive-wizard"
+    },
+    {
+      "row": 812,
+      "subject": "Advanced captive party Thief",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md#c52-captive-thief"
+    },
+    {
+      "row": 813,
+      "subject": "Advanced captive party Priest",
+      "tier": 1,
+      "home": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md#c52-captive-priest"
+    },
+    {
+      "row": 814,
+      "subject": "Core optional origins, circumstances and purposes",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 815,
+      "subject": "Core optional cheat-role and power prompts",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 816,
+      "subject": "Advanced optional Demon Army origins",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 817,
+      "subject": "Advanced optional army species and transformation roles",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 818,
+      "subject": "Core guide entrance and guild audience occurrences",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 819,
+      "subject": "Core guide red-haired waitress",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 820,
+      "subject": "Core scenario goblin leader role",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 821,
+      "subject": "Core scenario goblin invader phase groups",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 822,
+      "subject": "Core scenario goblin already dead in the pit",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 823,
+      "subject": "Core scenario goblin felled by a shoot at climax",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 824,
+      "subject": "Core scenario bamboo and rampaging-shoot occurrences",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 825,
+      "subject": "Core scenario vegetable broker",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 826,
+      "subject": "Core scenario reported tourism audience",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 827,
+      "subject": "Advanced scenario attacked-city soldiers",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 828,
+      "subject": "Advanced scenario attacked-city civilian role",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 829,
+      "subject": "Advanced scenario rotating prison guards",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 830,
+      "subject": "Advanced scenario junction Lesser Demon encounter",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 831,
+      "subject": "Advanced scenario corridor and diverted guard force",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 832,
+      "subject": "Advanced scenario golem guard encounter routes",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 833,
+      "subject": "Advanced supply-store other-party equipment ownership route",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 834,
+      "subject": "Advanced Axel celebration residents",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    },
+    {
+      "row": 835,
+      "subject": "Core mapped/reference town population roles",
+      "tier": 0,
+      "home": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md#incidental-source-access-routes"
+    }
+  ],
+  "candidate_totals": {
+    "model_artifacts": 71,
+    "source_scoped_secondary_model_entries": 65,
+    "bounded_profile_passages": 231,
+    "monograph_only_source_studies": 69,
+    "nonfinal_source_access_records": 836
+  },
+  "existing_source_only_supplement_rows": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    10,
+    11,
+    12,
+    13,
+    46
+  ],
+  "all8_core_fields_preserved_for_named_rows": true,
+  "aggregate_row38_prior8_archived_in_each_plane": true,
+  "other782_entering_rows_unchanged": true,
+  "historical19_canonical_private_differences": [
+    5,
+    6,
+    7,
+    8,
+    12,
+    13,
+    43,
+    78,
+    123,
+    124,
+    125,
+    137,
+    142,
+    143,
+    168,
+    170,
+    171,
+    172,
+    177
+  ],
+  "entering232_preservation_receipt_sha256": "22af3dcbdc9babdee4e908db6799c4f8a8f60af1e73a16a996a0f82b1a0a1757",
+  "containing_candidate_preservation_and_publication_pending": true,
+  "all71_models_and80scratch_preserved": true,
+  "source_known_same_AI_lineage": true,
+  "new_models_rules_inputs_firsts_scores_or_independent_gain": 0,
+  "final_census": false,
+  "final_tiers": false,
+  "unique_person_denominator": null,
+  "global_completion_percentage": null,
+  "full_program_complete": false,
+  "candidate_review_role_clarity_revision": {
+    "authored_utc": "2026-10-25T23:21:19.857772+00:00",
+    "reason": "Candidate receiving identified an ambiguous role attribution. Luna mediates/settles; the separate vegetable broker grades the harvest.",
+    "initial_unpublished_candidate_sentence": "Core S259 names Luna in a reference portrait; the fictional guide receptionist remains a qualified possible correspondence. Core S300–303/S312 and Advanced S310 explicitly name scenario Luna, with recruitment/grading or bounty checks as unperformed script. No automatic replay-receptionist join.",
+    "current_sentence": "Core S259 names Luna in a reference portrait; the fictional guide receptionist remains a qualified possible correspondence. Core S300–303/S312 and Advanced S310 explicitly name scenario Luna, with recruitment and settlement/bounty checks as unperformed script. The separate vegetable broker grades the harvest at Core S312. No automatic replay-receptionist join.",
+    "initial_candidate_review_sha256": "73b6d3490caa73d9cacf1dbf2a9c39203b170180c1514d016a2480e4c0d6f2e9",
+    "source": "Core S300–303/S312; Advanced S310",
+    "no_original_published_source_or_model_rewrite": true
+  }
+}

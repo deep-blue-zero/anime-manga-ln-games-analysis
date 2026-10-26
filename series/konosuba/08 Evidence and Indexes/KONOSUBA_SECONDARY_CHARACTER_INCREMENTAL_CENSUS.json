@@ -1,11 +1,11 @@
 {
   "schema": "konosuba.secondary_character.partitioned_census.v1",
-  "status": "INCREMENTAL_219_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-25T20:53:24.750950+00:00",
-  "scope": "C51 adds32 nonfinal source/access routes,one Medusa monograph andthree compact profiles.71 model bodies/65 scoped secondary model entries remain unchanged;216 profile passages/65 monograph-only studies/795 records count treatments,not distinct people. Final corpus identity audit, tiers, syntheses, StageD successors, final tests, designated curation/integration and full completion remain open.",
+  "status": "SCOPED_COHORT52_836_SOURCE_ACCESS_RECORDS_NONFINAL",
+  "updated_utc": "2026-10-25T23:11:09.495270+00:00",
+  "scope": "C52 adds41 nonfinal TRPG source/access routes:22Tier0,15bounded profiles and4source-bound monographs.71 model bodies/65scoped secondary entries remain unchanged;231profile passages/69monograph-only studies/836records count treatments,not unique people. Full identity/individual audit,syntheses,StageD successors,final testing,designated curation/integration and completion remain open.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
-  "working_row_count_not_population_denominator": 795,
+  "working_row_count_not_population_denominator": 836,
   "global_census_closed": false,
   "final_tiers_assigned": false,
   "global_completion_percentage": null,
@@ -37,7 +37,7 @@
     "Cohort23 Yuiyui/Pucchin conditional Tier3 candidates and Hyoizaburoo Tier2 monograph-only; fourteen bounded new discovery records retain source-plane/identity gaps and candidate profile review where due. Semantic receiving complete, exact publication pending.",
     "Cohort24 Chekera Tier2 monograph-only and six compact Tier1 profiles in existing coverage audit; ten new indexed incidental dispositions and one deferred Arcanretia manager review remain source-bound/nonfinal. No model or matched synthetic quota; semantic receiving complete, exact publication pending."
   ],
-  "current_actual_individual_audit_scope": "C51 art/reference increment:46 complete native image returns with complete before-records,24 complete census neighbors,32 complete twelve-dimension dispositions. Broader audit remains open.",
+  "current_actual_individual_audit_scope": "C52 bounded reference/guide/scenario return:82complete native images and before-records,21complete census neighbors in both planes,8complete current owners,41complete twelve-dimension dispositions. Broader audit remains open.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -2757,9 +2757,9 @@
   "prior_single_file_schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
   "row_storage": {
     "kind": "AUTHORITATIVE_ORDERED_ROW_PARTS",
-    "logical_nonfinal_record_count": 795,
-    "part_count": 10,
-    "row_array_sha256": "ec5497141b665b2f4024ab35b5cebaba25ebf398722eaee096292ab493a0adba",
+    "logical_nonfinal_record_count": 836,
+    "part_count": 11,
+    "row_array_sha256": "3eaf1b8300ea52cee62cb1de52a3a4291517bb324a0ae5b3d7316fd57d8f152b",
     "read_instruction": "Read the listed parts in order,verify their hashes,bounds and counts,and concatenate rows. Each row occurs once; the existing census path remains the single authority. Physical part boundaries assign no analytical tiers or person denominator.",
     "source_identity_or_report_not_population_proof": true
   },
@@ -2770,8 +2770,8 @@
       "first_row_index": 0,
       "last_row_index": 79,
       "row_count": 80,
-      "bytes": 671132,
-      "sha256": "0cd7129356b83ef5037b18b3a777d4537751ee11d3cce8301f75bce621324316"
+      "bytes": 707266,
+      "sha256": "fdc751e32f63b92f507e747cf040cc96da1852c44d61c8db6fff52b061baf3db"
     },
     {
       "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_002.json",
@@ -2779,8 +2779,8 @@
       "first_row_index": 80,
       "last_row_index": 159,
       "row_count": 80,
-      "bytes": 468233,
-      "sha256": "ee417ebf081f100ebec1c995a0a9239e5263c2293fc6c5aff0dd80728f5752d6"
+      "bytes": 469650,
+      "sha256": "ac312e2662b59ce21a501de29e56735eef17177ec0ae03cfe362df162215939f"
     },
     {
       "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_003.json",
@@ -2849,10 +2849,19 @@
       "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_010.json",
       "part_ordinal": 10,
       "first_row_index": 720,
-      "last_row_index": 794,
-      "row_count": 75,
-      "bytes": 509204,
-      "sha256": "5834a689590c87aa45ba41a5bd56b33b8c2bb1fccc02b8bc17cfb22a953b88b2"
+      "last_row_index": 799,
+      "row_count": 80,
+      "bytes": 594408,
+      "sha256": "77933e4b77a75cfb99ebed307e3676ac90fe64a96aeb6115ed15abba10f3261b"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CENSUS_PART_011.json",
+      "part_ordinal": 11,
+      "first_row_index": 800,
+      "last_row_index": 835,
+      "row_count": 36,
+      "bytes": 218488,
+      "sha256": "8b6d1aed8a71b8e37a47795a629481406d06dfbace43fe35c3b8caa532c00158"
     }
   ],
   "storage_transition": {
@@ -6642,5 +6651,58 @@
     "new_rules": 0,
     "new_inputs": 0,
     "new_original_firsts": 0
+  },
+  "prior_current_metadata_before_cohort51_gate_close": {
+    "status": "INCREMENTAL_219_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
+    "updated_utc": "2026-10-25T20:53:24.750950+00:00",
+    "scope": "C51 adds32 nonfinal source/access routes,one Medusa monograph andthree compact profiles.71 model bodies/65 scoped secondary model entries remain unchanged;216 profile passages/65 monograph-only studies/795 records count treatments,not distinct people. Final corpus identity audit, tiers, syntheses, StageD successors, final tests, designated curation/integration and full completion remain open.",
+    "current_actual_individual_audit_scope": "C51 art/reference increment:46 complete native image returns with complete before-records,24 complete census neighbors,32 complete twelve-dimension dispositions. Broader audit remains open.",
+    "working_row_count_not_population_denominator": 795
+  },
+  "cohort51_publication_resolution": {
+    "source": "87f93dab7b985d6b09acd94e9c33d34370a47c2f",
+    "tree": "759b0b7a9452a5f15ef80090d0c3eec4f9a4ac1c",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT51_PUBLICATION_GATE_CLOSE_01.json",
+    "gate_sha256": "dac2aa30045ed21e08690099290d1154ce08dc9b37c3c758de3d014b049dbdb0",
+    "source_run": 40234232453,
+    "full_discovered_tests": 479,
+    "latest_trusted_status": 57217494556,
+    "current_models": 71,
+    "author_publication_tranche_complete": true,
+    "protected_integration_not_certified": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 338
+  },
+  "prior_current_metadata_before_cohort52": {
+    "updated_utc": "2026-10-25T21:26:59.113220+00:00",
+    "status": "SCOPED_COHORT51_795_SOURCE_ACCESS_RECORDS_NONFINAL",
+    "scope": "Cohorts01–51 retain their declared exact-source author gates.71 models/65 scoped secondary model entries/216 bounded-profile passages/65 monograph-only studies and795 nonfinal access records count treatments. Final individual census, tiers, syntheses, successors, final tests, designated integration/release and full completion remain open.",
+    "current_actual_individual_audit_scope": "C51 received46 art/reference native images with complete before-records,24 complete census neighbors and32 complete twelve-dimension dispositions. Source87f93dab passed exact10341-file author preflight, complete remote tree/all27 changed streams, its own full479-test audit40234232453 and latest trusted status57217494556. A fresh1747-file/71-model authority reload and4local EPUB/OPF/CRC/46image correspondence passed all229 preservation checks. Thirty-eight publication routes close: six existing records retain all eight core fields, and32 new routes receive publication-status changes. The other757 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. Protected integration and full-program completion remain separate.",
+    "working_row_count_not_population_denominator": 795
+  },
+  "cohort52_current_receiving": {
+    "status": "COMPLETE_SCOPED_SEMANTIC_RECEIVING_EXACT_PUBLICATION_PENDING",
+    "artifact_paths": [
+      "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md",
+      "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_NATIVE_PROVENANCE_01.json",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_TYPED_SOURCE_ACCESS_ROUTES_01.json",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_RECEIVING_AND_PROVENANCE.json",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_FOUNDATION_FREEZE_01.json",
+      "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md",
+      "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md",
+      "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json",
+      "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_GUIDE_NEWCOMER_CHARACTER_MONOGRAPH.md",
+      "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_OKINA_CHARACTER_MONOGRAPH.md",
+      "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
+      "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
+    ],
+    "private_semantic_acceptance_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+    "new_source_access_routes": 41,
+    "new_monograph_only": 4,
+    "new_bounded_profiles": 15,
+    "new_models_rules_inputs_or_original_firsts": 0
   }
 }

@@ -2108,3 +2108,21 @@ Actual receiving covers46 native art/reference images and before-records,24 cens
 Current71 model bodies/65 scoped secondary model entries remain unchanged. Candidate216 profile passages/65 monograph-only studies/795 nonfinal access records count treatments. Six existing rows receive only additive source supplements;757 others and19 historical canonical/private differences remain exact. All independent counts stay null. The original forecasts, firsts, adverse outcomes, scores, blanks and nulls remain unchanged. Exact containing publication is pending; full-program work continues.
 
 Seven specialist expansions, extended/full-series synthesis, six separate StageD successors, final nine-category tests, designated curation/evaluation and protected integration/release remain due.
+
+
+## C51 author publication closed; full program continues — 2026-10-25T21:26:59.113220+00:00
+
+Current71 model bodies/65 scoped secondary entries/216 profile passages/65 monograph-only studies/795 nonfinal access records are treatment counts. Source87f93dab passed exact10341-file author preflight, complete remote tree/all27 changed streams, its own full479-test audit40234232453 and latest trusted status57217494556. A fresh1747-file/71-model authority reload and4local EPUB/OPF/CRC/46image correspondence passed all229 preservation checks. Thirty-eight publication routes close: six existing records retain all eight core fields, and32 new routes receive publication-status changes. The other757 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. Protected integration and full-program completion remain separate.
+
+The Medusa owner remains Tier2 monograph-only; Greed,water supplier and restaurant woman remain separate Tier1 profiles. Nested wishes,tokens,uninstantiated roles and group phases preserve their typed access. No original response,model,rule,input,adverse result,score,blank or null is revised. [Author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT51_PUBLICATION_GATE_CLOSE_01.json). Final specialist/synthesis/StageD/battery/curation/release work remains due.
+
+
+## C52 — complete bounded TRPG receiving — 2026-10-25T23:11:09.495270+00:00
+
+C52 adds four substantial monographs for the guide newcomer, Okina, Boren and the autonomous tank; fifteen bounded profiles cover nine optional samples, two guide counterparts and four captive women. Twenty-two incidental routes preserve source-local groups, optional branches, casualties, reference roles and nonperson equipment provenance. All41 complete twelve-dimension dispositions retain source boundaries, agency, counterevidence and unresolved identity. Eight attributable precision findings correct derivative labels/translations/locators or qualify interpretation, editorial claims and sequential ownership without rewriting original notes.
+
+Actual complete receiving covers82native images/before-records,21current census neighbors in both planes,8current owners,all41twelve-dimension dispositions and all prose. The initial31draft pages were received before an attributable two-wording revision, whose exact delta was then received and reconstructed. C51 own479source gate87f93dab and accepted-main6b35401c own479audit retain separate boundaries. Eleven reviewed C51closing streams travel here; PR338 virtual merge remains unaccepted.
+
+Candidate totals are71 unchanged model bodies/65scoped secondary model entries,231bounded-profile passages,69monograph-only studies and836nonfinal source-access records. These are different treatment counts, not unique people or final tiers. Twelve named-reference rows preserve all8core fields; aggregate38 archives its prior8fields and preserves all C31 history. The other782entering rows and all19canonical/private differences remain exact. Every independent count stays null; original models, forecasts, first responses, adverse outcomes, scores, blanks and nulls remain unchanged. Containing C52 author publication is pending; the full program continues.
+
+Remaining: broader identity/reference/image and final individual audit;seven specialist expansions;extended/full-series syntheses;six separately attributable StageD successors;final nine-category tests;designated curation/evaluation;protected integration,component release and final entry.

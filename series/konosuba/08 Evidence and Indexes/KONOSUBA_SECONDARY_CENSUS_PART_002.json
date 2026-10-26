@@ -2587,8 +2587,23 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_FANBOOK_MEDUSA_DUNGEON_OWNER_CHARACTER_MONOGRAPH.md",
         "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V04_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json"
       ],
-      "cohort51_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING",
-      "cohort51_semantic_receiving_sha256": "520b2d4b517a6bd7b6e847799c50ed01715e47cc623acc73bdc1fbe2768f0b1f"
+      "cohort51_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "cohort51_semantic_receiving_sha256": "520b2d4b517a6bd7b6e847799c50ed01715e47cc623acc73bdc1fbe2768f0b1f",
+      "cohort51_current_receiving": "Source87f93dab passed exact10341-file author preflight, complete remote tree/all27 changed streams, its own full479-test audit40234232453 and latest trusted status57217494556. A fresh1747-file/71-model authority reload and4local EPUB/OPF/CRC/46image correspondence passed all229 preservation checks. Thirty-eight publication routes close: six existing records retain all eight core fields, and32 new routes receive publication-status changes. The other757 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. Protected integration and full-program completion remain separate.",
+      "cohort51_publication_resolution": {
+        "source": "87f93dab7b985d6b09acd94e9c33d34370a47c2f",
+        "tree": "759b0b7a9452a5f15ef80090d0c3eec4f9a4ac1c",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT51_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "dac2aa30045ed21e08690099290d1154ce08dc9b37c3c758de3d014b049dbdb0",
+        "source_run": 40234232453,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57217494556,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "protected_integration_not_certified": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338
+      }
     },
     {
       "character": "Mitsurugi spear-user companion (personal name-to-role unresolved)",

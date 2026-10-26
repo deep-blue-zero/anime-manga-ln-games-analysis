@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort51.receiving-and-provenance.v1",
-  "status": "COMPLETE_SCOPED_SEMANTIC_RECEIVING_CONTAINING_PUBLICATION_PENDING",
+  "status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
   "received_utc": "2026-10-25T20:53:24.750950+00:00",
   "source_baseline": "6b35401cd14589c12bf332be8f8cb9df302fac4f",
   "current_main": "6b35401cd14589c12bf332be8f8cb9df302fac4f",
@@ -319,5 +319,23 @@
   "final_tiers": false,
   "unique_person_denominator": null,
   "global_completion_percentage": null,
-  "full_program_complete": false
+  "full_program_complete": false,
+  "publication_closed_utc": "2026-10-25T21:26:59.113220+00:00",
+  "publication_resolution": {
+    "source": "87f93dab7b985d6b09acd94e9c33d34370a47c2f",
+    "tree": "759b0b7a9452a5f15ef80090d0c3eec4f9a4ac1c",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT51_PUBLICATION_GATE_CLOSE_01.json",
+    "gate_sha256": "dac2aa30045ed21e08690099290d1154ce08dc9b37c3c758de3d014b049dbdb0",
+    "source_run": 40234232453,
+    "full_discovered_tests": 479,
+    "latest_trusted_status": 57217494556,
+    "current_models": 71,
+    "author_publication_tranche_complete": true,
+    "protected_integration_not_certified": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 338
+  },
+  "published_authority_reload_sha256": "fdf21da8ef85a9ee3b8242091dd40ba6e0aff79f06543c0e5acfe0aa6ccad4b6",
+  "current_receiving": "Source87f93dab passed exact10341-file author preflight, complete remote tree/all27 changed streams, its own full479-test audit40234232453 and latest trusted status57217494556. A fresh1747-file/71-model authority reload and4local EPUB/OPF/CRC/46image correspondence passed all229 preservation checks. Thirty-eight publication routes close: six existing records retain all eight core fields, and32 new routes receive publication-status changes. The other757 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. Protected integration and full-program completion remain separate.",
+  "closing_bytes_await_next_containing_publication": true
 }
