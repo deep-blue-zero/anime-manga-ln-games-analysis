@@ -1,3 +1,23 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+scope: "Actor-specific bounded argument and locators retained in the original body; cohort 46 context totals are not independent observations for this actor."
+generation: "COHORT46_V1_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "Japanese YORI04 five complete fiction paragraph/ruby members and declared bounded MAIN02, MAIN16, MAIN17, YORI01 and DUST-CONT returns; 3986 P/1559 ruby in 16 members/7 known source objects, no new full-edition/image/residual or independent credit."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "33ff979c717586c6685a8b19727c67d07866b00f"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "965470d33ee4a232bf6ec67ab69cc141a39f61a5c687fa1d1d1c4b66d16f570a"
+current_source_qualifications: ["series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json"]
+---
+
+> Current authority: scoped active provisional interpretation, accepted in the [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The original argument below is retained byte for byte. Any draft-era pending labels in that argument describe its authorship history; the adoption record and actual containing publication own the later status. This classification supplies no new primary reading, model maturity or independent performance credit.
+
+> Controlling source qualification **C46-PFQ02**: YORI04 U014 P121 compares the restaurant price with one week of the professionals’ pension. It does not identify a paid bill, payer, exact pension debit or remaining balance. Later spending evidence remains separate. Read the retained discussion with the [complete qualification](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json).
+
 # Dark Stalker: retirement, watchfulness and the life she wants to keep
 
 ## A class name attached to a particular woman

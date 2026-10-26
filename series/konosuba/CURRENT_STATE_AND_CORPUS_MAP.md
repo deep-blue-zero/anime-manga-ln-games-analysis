@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_FIXED41_MAIN_AND_EXPANDED_CORPUS
 generation: V1
 status: canonical
-source_boundary: Full-series and completion author package published and verified at 0d36d142; all 41 fixed source gates retained; six provisional Stage D cores and 90 originals unchanged; designated curation/evaluation/protected integration/release remain; percentage null
+source_boundary: Full fixed41 analytical package integrated; original models and 90 firsts retained; 32 scoped monograph authority adoptions and C46 current qualifications pending containing publication; designated curation/evaluation and conditional final release remain; percentage null
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,14 +17,14 @@ project_initialization:
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
   sequential_analysis_lock: open
-  next_permitted_operation: DESIGNATED_CURATION_EVALUATION_PROTECTED_INTEGRATION_AND_RELEASE
+  next_permitted_operation: AUTHORITY_RECONCILIATION_CURATION_EVALUATION_AND_RELEASE
 sequential_execution:
   mode: continuous_sequential
   unit_type: analytical_responsibility
   authorized_start: V11
   terminal_boundary: V17
   committed_high_water_mark: V17
-  next_candidate_operation: DESIGNATED_CURATION_EVALUATION_PROTECTED_INTEGRATION_AND_RELEASE
+  next_candidate_operation: AUTHORITY_RECONCILIATION_CURATION_EVALUATION_AND_RELEASE
   confirmation_between_units: false
   run_state: active
 ---
@@ -45,7 +45,7 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 
 <!-- CURRENT_OPERATION_START -->
 
-**Current phase: author analysis published and verified; designated curation/evaluation/integration/release remain.** Seven expanded specialists, the extended synthesis and six distinct provisional Stage D cores retain closed exact author gates through `9b3cc94f7575ccbc96c493b7c68ae79dd2556dbf`. The [Stage D gate](09%20Audits%20and%20Manifests/KONOSUBA_POST_VALIDATION_STAGE_D_AUTHOR_PUBLICATION_GATE_CLOSE_01.json) records the complete 10,411-path index/remote tree, 29 changed streams, 1,798 reloaded project bodies and its own 479-test audit 40280071856, with every discovered ID and all five non-success categories verified. Do not repeat source admission, the completed broader audit, ledger consolidation, specialist authorship or the actual battery of 90 first responses.
+**Current phase: scoped authority reconciliation and designated curation/evaluation; final release remains conditional.** Seven expanded specialists, the extended synthesis and six distinct provisional Stage D cores retain closed exact author gates through `9b3cc94f7575ccbc96c493b7c68ae79dd2556dbf`. The [Stage D gate](09%20Audits%20and%20Manifests/KONOSUBA_POST_VALIDATION_STAGE_D_AUTHOR_PUBLICATION_GATE_CLOSE_01.json) records the complete 10,411-path index/remote tree, 29 changed streams, 1,798 reloaded project bodies and its own 479-test audit 40280071856, with every discovered ID and all five non-success categories verified. Do not repeat source admission, the completed broader audit, ledger consolidation, specialist authorship or the actual battery of 90 first responses.
 
 The [full-series synthesis](07%20Full-Series%20Synthesis/KONOSUBA_FULL_SERIES_SYNTHESIS.md), [current 27-contract evidence matrix](08%20Evidence%20and%20Indexes/KONOSUBA_POST_VALIDATION_MODEL_EVIDENCE_MATRIX_V1.md), [18 claim revisions](08%20Evidence%20and%20Indexes/KONOSUBA_POST_VALIDATION_CLAIM_REVISION_LEDGER_V1.md), [component-disposition audit](09%20Audits%20and%20Manifests/KONOSUBA_FULL_PROGRAM_COMPONENT_DISPOSITION_AUDIT_V1.md) and [cross-model consistency audit](09%20Audits%20and%20Manifests/KONOSUBA_POST_VALIDATION_CROSS_MODEL_CONSISTENCY_AUDIT_V1.md) are published and their [exact author gate](09%20Audits%20and%20Manifests/KONOSUBA_FULL_PROGRAM_AUTHOR_PUBLICATION_GATE_CLOSE_V1.json) is closed at `0d36d142698ad839135f81dd1d6ef7a2731b23bf` / tree `aeef1c5a45f75929541b4a04eb84479db4a6fa6b`: all 10,423 index/remote paths, 15 changed streams, 1,810 body reloads and its own complete 479-test audit `40288269475`, with every discovered ID, all five non-success categories, reporter, cleanup and latest trusted exact-source status verified. The component audit joins all 41 registers and receiving routes to 40 distinct published gates while preserving source-plane/reading limits and historical fields. These arguments and audits are performed work, not empty templates or future source passes.
 
@@ -56,6 +56,8 @@ The original 71 model bodies and six exact tested successors total 77 bodies; 65
 Ninety complete first texts were saved and sealed before separate eight-criterion feedback. Forty-nine dependent full opening traces across 18 commitments align internally, without an accuracy rate. Original F04-A-TR retains typed A04 failure SD1-QA-D01; the separately marked post-feedback example does not replace it. K04, M04 and E03 remain OPEN; typed/qualified/not-triggered/not-fully-prebound views retain separate outcomes. Same-assistant source-known authorship, scaffolded inputs, short procedural speech and unexecuted joint-guard intersections limit the active provisional suite. No mature/VERY_HIGH or independent-grade promotion is claimed.
 
 Next, complete actual designated discovery/curation and capability evaluation, protected-main integration and separately verified release. The author analytical package is closed at its recorded scopes; any concrete returned findings require a separately attributable authorized correction. The author does not self-merge or write evaluator-owned outputs. The single current map remains the entrypoint; do not rename it or infer full-program completion from the reviewed package. Earlier appended phase/pending/zero-firsts statements retain their historical boundaries and cannot override this block or its frontmatter.
+
+The [deferred-monograph authority adoption](09%20Audits%20and%20Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.md) accepts 32 existing C44–48/C51–52 arguments as scoped active provisional interpretations, with exact original bodies retained below explicit authority/adoption prefixes. Angie and Dark Stalker visibly require C46-PFQ03/PFQ02; the initial overbroad injury/Heal and price/payment wording does not control current use. Explicitly immutable tested models remain separate, untouched work. This tranche awaits its own containing publication and designated discovery; neither metadata nor document counts confer a tier, independent accuracy or global grade.
 
 <!-- CURRENT_OPERATION_END -->
 
@@ -167,7 +169,7 @@ A later synthesis never licenses invented evidence. Exact wording, linguistic cl
 
 ## 12. Current next actions
 
-Continue the actual designated discovery/curation, capability evaluation, CI/owner integration and separately verified release gates. The complete author analytical package is published and verified; do not repeat its source readings, regenerate its firsts or restate its accepted arguments as future work. Use actual current Git for designated currentness. Original scores, blanks/nulls, source-plane limits and OPEN selectors remain. No final release or entrypoint rename has yet been certified.
+Publish and verify the scoped 32-monograph authority adoption, then curate its effective main evidence and rederive the evaluator’s actual queue/currentness. Resolve remaining explicit model locks and reference findings through separately attributable accepted changes. Preserve original arguments, models, firsts, scores, blanks/nulls, source-plane limits and OPEN selectors. Calibration candidates require actual human review and owner publication; no human acceptance, final release or entrypoint rename is supplied by delegation.
 
 No additional native source pass is requested by this current operation. If a concrete unresolved claim later requires one, use a bounded return or a separately gated source admission as appropriate, preserve informed exposure and original questions, and give actual text/ruby/residual/image receiving only its earned scope. The matrix/architecture retain natural-order and admission requirements. Git/audit receipts own publication identities; this map owns current phase and governing routes.
 
