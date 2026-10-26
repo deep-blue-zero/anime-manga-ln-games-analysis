@@ -25,7 +25,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`harmony`](characters/index/harmony.md) | 6 |
 | [`idoly-pride`](characters/index/idoly-pride.md) | 22 |
 | [`kimishinu`](characters/index/kimishinu.md) | 3 |
-| [`konosuba`](characters/index/konosuba.md) | 39 |
+| [`konosuba`](characters/index/konosuba.md) | 57 |
 | [`legend-of-the-galactic-heroes`](characters/index/legend-of-the-galactic-heroes.md) | 2 |
 | [`maebashi-witches`](characters/index/maebashi-witches.md) | 7 |
 | [`mass-effect`](characters/index/mass-effect.md) | 2 |
@@ -88,6 +88,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Arimura Mao](characters/index/the-idolmaster.md#arimura-mao) | Gakuen Idolmaster mobile-game Phase-3 core | `the-idolmaster:arimura-mao@mobile-game-phase-3-core` | 有村麻央 |
 | [Armin Arlert](characters/index/attack-on-titan.md#armin-arlert) | Attack on Titan manga | `attack-on-titan:armin-arlert@manga` | — |
 | [Aru](characters/index/blue-archive.md#aru) | Blue Archive game | `blue-archive:aru@game` | — |
+| [Assassin (Yorimichi 4)](characters/index/konosuba.md#yorimichi04-retired-assassin) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi04-retired-assassin@original-light-novel` | — |
 | [Asui Tsuyu](characters/index/my-hero-academia.md#asui-tsuyu) | My Hero Academia manga | `my-hero-academia:asui-tsuyu@manga` | — |
 | [Asuka Nishino](characters/index/chiramune.md#asuka-nishino) | Chiramune light novel | `chiramune:asuka-nishino@light-novel` | — |
 | [Atsuko](characters/index/blue-archive.md#atsuko) | Blue Archive game | `blue-archive:atsuko@game` | — |
@@ -102,6 +103,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Benno](characters/index/ascendance-of-a-bookworm.md#benno) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:benno@light-novel` | — |
 | [Big Johnny](characters/index/to-be-hero-x.md#big-johnny) | To Be Hero X animated series | `to-be-hero-x:big-johnny@animated-series` | — |
 | [Black Suit](characters/index/blue-archive.md#black-suit) | Blue Archive game | `blue-archive:black-suit@game` | — |
+| [Boren](characters/index/konosuba.md#boren) | Authored TRPG component, unplayed source-specific scope | `konosuba:boren@trpg-advanced-supplied-scenario` | ボーレン |
 | [Brad](characters/index/konosuba.md#brad) | Original light-novel continuity, bounded expanded cohort | `konosuba:brad@original-light-novel` | ブラッド |
 | [Bremerton](characters/index/azur-lane.md#bremerton) | Azur Lane mobile game | `azur-lane:bremerton@mobile-game` | — |
 | [Cartethyia](characters/index/wuthering-waves.md#cartethyia) | Wuthering Waves game | `wuthering-waves:cartethyia@game` | カルテジア; 카르티시아; 卡提希娅 |
@@ -118,10 +120,12 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Cliff Grimoire](characters/index/mushoku-tensei.md#cliff) | Japanese light-novel continuity | `mushoku-tensei:cliff@light-novel` | — |
 | [Commander Shepard](characters/index/mass-effect.md#commander-shepard) | Paragon Shepard player archetype | `mass-effect:commander-shepard@paragon-player-archetype` | Paragon Shepard |
 | [Commander Shepard](characters/index/mass-effect.md#commander-shepard) | Renegade Shepard player archetype | `mass-effect:commander-shepard@renegade-player-archetype` | Renegade Shepard |
+| [Core world-guide newcomer](characters/index/konosuba.md#trpg-core-guide-newcomer) | Authored TRPG component, unplayed source-specific scope | `konosuba:trpg-core-guide-newcomer@trpg-core-world-guide` | — |
 | [Crank](characters/index/konosuba.md#crank) | Original light-novel continuity, scoped cohort monograph | `konosuba:crank@original-light-novel` | クランク |
 | [Crocodile tissue cover](characters/index/shuukura.md#crocodile-tissue-cover) | Original Japanese light-novel continuity and author supplements | `shuukura:crocodile-tissue-cover@original-light-novel` | — |
 | [Crusch Karsten](characters/index/re-zero.md#crusch-karsten) | Re:Zero main light novel | `re-zero:crusch-karsten@light-novel` | クルシュ・カルステン |
 | [Dabi](characters/index/my-hero-academia.md#todoroki-toya) | My Hero Academia manga | `my-hero-academia:todoroki-toya@manga` | Todoroki Toya |
+| [Dark Stalker (Yorimichi 4)](characters/index/konosuba.md#yorimichi04-retired-dark-stalker) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi04-retired-dark-stalker@original-light-novel` | — |
 | [Darkness](characters/index/konosuba.md#darkness) | Original light-novel continuity, main-principal and expanded analysis | `konosuba:darkness@original-light-novel` | Dustiness Ford Lalatina |
 | [Decartes](characters/index/blue-archive.md#decartes) | Blue Archive game | `blue-archive:decartes@game` | — |
 | [Demon King](characters/index/konosuba.md#demon-king) | Original light-novel continuity, scoped Tier 2 cohort monograph | `konosuba:demon-king@original-light-novel` | 八坂恭一; Yasaka Kyōichi |
@@ -145,6 +149,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Ernst Zimmerman](characters/index/86-eighty-six.md#ernst-zimmerman) | 86 - Eighty-Six original light novels | `86-eighty-six:ernst-zimmerman@original-light-novels` | エルンスト・ツィマーマン |
 | [Erwin Marcel](characters/index/86-eighty-six.md#erwin-marcel) | 86 - Eighty-Six original light novels | `86-eighty-six:erwin-marcel@original-light-novels` | Marcel; エルウィン・マルセル |
 | [Erwin Smith](characters/index/attack-on-titan.md#erwin-smith) | Attack on Titan manga | `attack-on-titan:erwin-smith@manga` | — |
+| [Fanbook Medusa dungeon owner](characters/index/konosuba.md#fanbook-medusa-dungeon-owner) | Original light-novel continuity, bounded source-specific study | `konosuba:fanbook-medusa-dungeon-owner@original-light-novel` | — |
 | [Felt](characters/index/re-zero.md#felt) | Re:Zero main light novel | `re-zero:felt@light-novel` | — |
 | [Ferris](characters/index/re-zero.md#ferris) | Re:Zero main light novel | `re-zero:ferris@light-novel` | Felix Argyle; フェリス |
 | [Fido](characters/index/86-eighty-six.md#fido) | 86 - Eighty-Six original light novels | `86-eighty-six:fido@original-light-novels` | ファイド |
@@ -288,6 +293,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Mafuyu](characters/index/project-sekai.md#mafuyu) | Project SEKAI game — Nightcord at 25:00 | `project-sekai:mafuyu@game` | — |
 | [Mai](characters/index/maebashi-witches.md#mai) | Maebashi Witches anime | `maebashi-witches:mai@anime` | — |
 | [Maika Utsunomiya](characters/index/shuukura.md#maika-utsunomiya) | Original Japanese light-novel continuity and author supplements | `shuukura:maika-utsunomiya@original-light-novel` | 宇都宮舞香; Utsunomiya Maika |
+| [Main 16 dungeon vampire owner](characters/index/konosuba.md#main16-dungeon-vampire-owner) | Original light-novel continuity, bounded source-specific study | `konosuba:main16-dungeon-vampire-owner@original-light-novel` | — |
 | [Makino Kouhei](characters/index/idoly-pride.md#makino-kouhei) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:makino-kouhei@v2-cross-media` | — |
 | [Makishima Saori](characters/index/oreimo.md#makishima-saori) | Oreimo original light novels | `oreimo:makishima-saori@original-light-novels` | Saori Bajeena |
 | [Mami Nanami](characters/index/rent-a-girlfriend.md#mami-nanami) | Main manga continuity | `rent-a-girlfriend:mami-nanami@manga` | — |
@@ -297,6 +303,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Megumi](characters/index/konosuba.md#megumi) | Original light-novel continuity, bounded expanded cohort | `konosuba:megumi@original-light-novel` | メグミ |
 | [Megumin](characters/index/konosuba.md#megumin) | Original light-novel continuity, main-principal and expanded analysis | `konosuba:megumin@original-light-novel` | めぐみん |
 | [Melvirei](characters/index/konosuba.md#melvirei) | Original light-novel continuity, scoped cohort monograph | `konosuba:melvirei@original-light-novel` | メルビレイ |
+| [Metal Mōrā](characters/index/konosuba.md#metal-mora) | Authored TRPG component, unplayed source-specific scope | `konosuba:metal-mora@trpg-advanced-supplied-scenario` | メタルモーラー |
 | [Miach Mihie](characters/index/harmony.md#miach-mihie) | Original novel, bounded comparative ethics | `harmony:miach-mihie@original-novel` | Miaha |
 | [Midori](characters/index/blue-archive.md#midori) | Blue Archive game | `blue-archive:midori@game` | — |
 | [Midoriya Izuku](characters/index/my-hero-academia.md#midoriya-izuku) | My Hero Academia manga | `my-hero-academia:midoriya-izuku@manga` | — |
@@ -343,6 +350,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Nonomi](characters/index/blue-archive.md#nonomi) | Blue Archive game | `blue-archive:nonomi@game` | — |
 | [Norn Greyrat](characters/index/mushoku-tensei.md#norn) | Japanese light-novel continuity | `mushoku-tensei:norn@light-novel` | — |
 | [Nuaza](characters/index/harmony.md#nuaza) | Original novel, bounded comparative ethics | `harmony:nuaza@original-novel` | — |
+| [Okina](characters/index/konosuba.md#okina) | Authored TRPG component, unplayed source-specific scope | `konosuba:okina@trpg-core-supplied-scenario` | オキナ |
 | [Okuyama Sumire](characters/index/idoly-pride.md#okuyama-sumire) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:okuyama-sumire@v2-cross-media` | — |
 | [Origasa Ayumu](characters/index/tokyo-7th-sisters.md#origasa-ayumu) | Tokyo 7th Sisters game | `tokyo-7th-sisters:origasa-ayumu@game` | — |
 | [Original Nice](characters/index/to-be-hero-x.md#original-nice) | To Be Hero X animated series | `to-be-hero-x:original-nice@animated-series` | — |
@@ -365,6 +373,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Reinhard](characters/index/re-zero.md#reinhard) | Re:Zero main light novel | `re-zero:reinhard@light-novel` | — |
 | [Reinhard von Lohengramm](characters/index/legend-of-the-galactic-heroes.md#reinhard-von-lohengramm) | Legend of the Galactic Heroes original novels | `legend-of-the-galactic-heroes:reinhard-von-lohengramm@original-novels` | Reinhard von Müsel; ラインハルト・フォン・ローエングラム |
 | [Rem](characters/index/re-zero.md#rem) | Re:Zero main light novel | `re-zero:rem@light-novel` | — |
+| [Replacement transfer angel](characters/index/konosuba.md#replacement-transfer-angel) | Original light-novel continuity, bounded source-specific study | `konosuba:replacement-transfer-angel@original-light-novel` | — |
 | [Rito Oriya](characters/index/86-eighty-six.md#rito-oriya) | 86 - Eighty-Six original light novels | `86-eighty-six:rito-oriya@original-light-novels` | リト・オリヤ |
 | [Rom](characters/index/re-zero.md#rom) | Re:Zero main light novel | `re-zero:rom@light-novel` | — |
 | [Rosary](characters/index/konosuba.md#rosary) | Original light-novel continuity, bounded expanded cohort | `konosuba:rosary@original-light-novel` | ロザリー |
@@ -467,6 +476,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Vladilena Milizé](characters/index/86-eighty-six.md#vladilena-milize) | 86 - Eighty-Six original light novels | `86-eighty-six:vladilena-milize@original-light-novels` | ヴラディレーナ・ミリーゼ |
 | [Wakaouji Rui](characters/index/tokyo-7th-sisters.md#wakaouji-rui) | Tokyo 7th Sisters game | `tokyo-7th-sisters:wakaouji-rui@game` | — |
 | [Wanibuchi Emoco](characters/index/tokyo-7th-sisters.md#wanibuchi-emoco) | Tokyo 7th Sisters game | `tokyo-7th-sisters:wanibuchi-emoco@game` | — |
+| [White-tiger mother](characters/index/konosuba.md#yorimichi02-white-tiger-mother) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi02-white-tiger-mother@original-light-novel` | — |
 | [Wilhelm van Astrea](characters/index/re-zero.md#wilhelm-van-astrea) | Re:Zero main light novel | `re-zero:wilhelm-van-astrea@light-novel` | ヴィルヘルム・ヴァン・アストレア |
 | [Wolfgang Crow](characters/index/konosuba.md#wolfgang-crow) | Original light-novel continuity, bounded expanded cohort | `konosuba:wolfgang-crow@original-light-novel` | ヴォルフガン・クロウ |
 | [Woo Jinchul](characters/index/solo-leveling.md#woo-jinchul) | Solo Leveling original Korean novel | `solo-leveling:woo-jinchul@original-korean-novel` | — |
@@ -479,6 +489,14 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Yaoyorozu Momo](characters/index/my-hero-academia.md#yaoyorozu-momo) | My Hero Academia manga | `my-hero-academia:yaoyorozu-momo@manga` | — |
 | [YonaiP (U149 Producer)](characters/index/the-idolmaster.md#yonai-p) | U149 anime Producer | `the-idolmaster:yonai-p@u149-anime` | 米内P; YonaiP; U149P; プロデューサー; 471P |
 | [Yoo Jinho](characters/index/solo-leveling.md#yoo-jinho) | Solo Leveling original Korean novel | `solo-leveling:yoo-jinho@original-korean-novel` | — |
+| [Yorimichi 2 dryad](characters/index/konosuba.md#yorimichi02-dryad) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi02-dryad@original-light-novel` | — |
+| [Yorimichi 2 noble dinner host](characters/index/konosuba.md#yorimichi02-noble-dinner-host) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi02-noble-dinner-host@original-light-novel` | — |
+| [Yorimichi 2 storm great spirit](characters/index/konosuba.md#yorimichi02-storm-great-spirit) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi02-storm-great-spirit@original-light-novel` | — |
+| [Yorimichi 2 Wolbach follower](characters/index/konosuba.md#yorimichi02-wolbach-follower) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi02-wolbach-follower@original-light-novel` | — |
+| [Yorimichi 3 knee-injured veteran](characters/index/konosuba.md#yorimichi03-knee-injured-veteran) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi03-knee-injured-veteran@original-light-novel` | — |
+| [Yorimichi 3 succubus dungeon owner](characters/index/konosuba.md#yorimichi03-succubus-dungeon-owner) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi03-succubus-dungeon-owner@original-light-novel` | — |
+| [Yorimichi 3 succubus messenger](characters/index/konosuba.md#yorimichi03-succubus-messenger) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi03-succubus-messenger@original-light-novel` | — |
+| [Yorimichi 4 succubus worker](characters/index/konosuba.md#yorimichi04-succubus-worker) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi04-succubus-worker@original-light-novel` | — |
 | [Yua Uchida](characters/index/chiramune.md#yua-uchida) | Chiramune light novel | `chiramune:yua-uchida@light-novel` | — |
 | [Yuina](characters/index/maebashi-witches.md#yuina) | Maebashi Witches anime | `maebashi-witches:yuina@anime` | — |
 | [Yukihira Jōichirō](characters/index/shokugeki-no-soma.md#yukihira-joichiro) | Shokugeki no Soma manga | `shokugeki-no-soma:yukihira-joichiro@manga` | — |
