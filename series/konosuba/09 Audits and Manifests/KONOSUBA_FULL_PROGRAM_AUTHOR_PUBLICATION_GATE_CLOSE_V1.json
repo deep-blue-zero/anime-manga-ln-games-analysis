@@ -1,0 +1,78 @@
+{
+  "schema": "konosuba.full-program.author-publication-gate-close.v1",
+  "closed_utc": "2026-10-26T08:11:59.821010+00:00",
+  "source": "0d36d142698ad839135f81dd1d6ef7a2731b23bf",
+  "tree": "aeef1c5a45f75929541b4a04eb84479db4a6fa6b",
+  "parent": "9b3cc94f7575ccbc96c493b7c68ae79dd2556dbf",
+  "accepted_main": "dc1c83893e6d22cff9dcdcc8c5a8763f1b8ba616",
+  "exact_index_preflight": {
+    "paths": 10423,
+    "changed_paths": 15,
+    "receipt_sha256": "ebd6be57f6e6cbe8fe7fd0476d6569de20c20191531dd9ccc00409baa51f6b33"
+  },
+  "actual_full_audit": {
+    "run": 40288269475,
+    "job": 121457014763,
+    "reporter": 121459541067,
+    "all479_discovered_ids_executed": true,
+    "all5_non_success_zero": true,
+    "receipt_sha256": "5868efc9f7c25f70f909aa2f335d6ce5498d3b71f3b11955a8c8991e9c0242b1",
+    "latest_trusted_exact_source_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/0d36d142698ad839135f81dd1d6ef7a2731b23bf",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57240796767,
+      "node_id": "SC_kwDOUJ9ads8AAAANU9E-Xw",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40288269475",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-26T07:58:02Z",
+      "updated_at": "2026-10-26T07:58:02Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    },
+    "job_and_reporter_cleanup_verified": true
+  },
+  "remote_and_authority_reload": {
+    "all10423_paths_modes_types_blobs_equal": true,
+    "all15_changed_streams_equal": true,
+    "all1810_project_bodies_reloaded": true,
+    "all10503_git_visible_working_bindings_exact": true,
+    "all71_earlier_and6_exact_tested_models_preserved": true,
+    "all90_original_firsts_and4_old_source_scores_preserved": true,
+    "all80_scratch_preserved": true,
+    "receipt_sha256": "3d4a25260bb309f74fa3d071f2d33680b7b32c2500279845a71d701418185bf1"
+  },
+  "candidate_snapshot_at_this_source": {
+    "manifest_sha256": "98392843251c747719a2c3bdef62c4b2dd827c0f453a915e9f9e403563c8f99c",
+    "member_count_excluding_self": 1809,
+    "all_member_hashes_verified": true
+  },
+  "analytical_responsibilities": "Full-series synthesis,current27-contract matrix,18 claim revisions,41-register component audit,13-intersection cross-model audit,completion/evaluation handoff and analytical release candidate are published and author-verified at their recorded scopes.",
+  "retained_limits": "Source-known same-assistant90-first diagnostics,dependent49 opening traces/18 commitments,typed A04 failure and original historical failures/OPEN selectors remain;no independent accuracy or maturity promotion.",
+  "author_analytical_responsibilities_closed_at_recorded_scopes": true,
+  "designated_curation_or_evaluation_completed_by_this_author": false,
+  "protected_main_integration_asserted": false,
+  "final_release": false,
+  "full_program_complete": false,
+  "next": "Actual designated discovery/curation,evaluator currentness,CI/owner protected integration and separately verified release;respond to any concrete returned findings within authorized role."
+}
