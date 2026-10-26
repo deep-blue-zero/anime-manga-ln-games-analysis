@@ -1,11 +1,11 @@
 {
   "schema": "konosuba.analytical-release-candidate-manifest.v1",
-  "prepared_utc": "2026-10-26T08:21:17.340910+00:00",
-  "context_source": "39207bfd5847190b8d224f46dc775b848f34e1ab",
-  "context_tree": "34d9c0d737f9ccacdaae88c4af540c2531c38366",
-  "status": "AUTHOR_ANALYTICAL_PACKAGE_VERIFIED_DESIGNATED_GATES_REMAIN_NOT_FINAL_RELEASE",
-  "project_paths_including_this_manifest": 1811,
-  "member_paths_excluding_this_manifest": 1810,
+  "prepared_utc": "2026-10-26T22:17:48.039224+00:00",
+  "context_source": "33ff979c717586c6685a8b19727c67d07866b00f",
+  "context_tree": "ea9389c4994879a6a224f2f9b8dbee50cb67f6c1",
+  "status": "SCOPED_MONOGRAPH_AUTHORITY_ADOPTION_PENDING_CONTAINING_GATE_DESIGNATED_ROLES_AND_FINAL_RELEASE",
+  "project_paths_including_this_manifest": 1813,
+  "member_paths_excluding_this_manifest": 1812,
   "members": [
     {
       "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_CHARACTER_RECONSTRUCTION_AND_VALIDATION_PROTOCOL.md",
@@ -809,18 +809,18 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_AMARYLLIS_CHARACTER_MONOGRAPH.md",
-      "bytes": 8887,
-      "sha256": "c2fe082d485c7ceb1eab5dcfa67632ee131bfb35ad00752f791222c219c78b71"
+      "bytes": 10355,
+      "sha256": "e6a329982c8f6e6f30a6912f7c08d578c42a619fae81e644fc1ab3ea908d0339"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ANGIE_CHARACTER_MONOGRAPH.md",
-      "bytes": 11700,
-      "sha256": "941086ad41d0c769ee7aa4faaf1026950ac5327300f0a49f910a0ad47505be91"
+      "bytes": 13692,
+      "sha256": "664b12d357a5f57ed0f4bb794149c5cc01e56e508c2275192c79de3a730a71df"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ANNA_CHARACTER_MONOGRAPH.md",
-      "bytes": 11447,
-      "sha256": "17b09b6b0cdfd6f0fa4053253f76526b36f6a12cdf9c1b34c9075d911208d79d"
+      "bytes": 12892,
+      "sha256": "add42c0c6b6651c977a8fc27eb3b121a6b1499ffa18e20f2c32d4d02e76767d7"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_AQUA_CHARACTER_MONOGRAPH.md",
@@ -844,8 +844,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ASSASSIN_CHARACTER_MONOGRAPH.md",
-      "bytes": 10627,
-      "sha256": "8bbd1f4ae7a809beb995d99bfa175f67a6bccc8f6c6007c4c0f686e4af209ccb"
+      "bytes": 12072,
+      "sha256": "fab5974ae28acec3690d1f8c2b5d6e40c7e9b2dd14f3e500548c8d47df01a4df"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_AULIP_CHARACTER_MONOGRAPH.md",
@@ -969,8 +969,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CRANK_CHARACTER_MONOGRAPH.md",
-      "bytes": 8945,
-      "sha256": "45e2442f7020450e0e90a440d7ddb3576053cd56a73246e2b3af48373435c49f"
+      "bytes": 10320,
+      "sha256": "ae3b819cccf897dbd66cbfeeaecf310fb37c0d4e2d242af6ed4d575274e05f1f"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DANIEL_CHARACTER_MONOGRAPH.md",
@@ -989,8 +989,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DARK_STALKER_CHARACTER_MONOGRAPH.md",
-      "bytes": 12458,
-      "sha256": "965470d33ee4a232bf6ec67ab69cc141a39f61a5c687fa1d1d1c4b66d16f570a"
+      "bytes": 14466,
+      "sha256": "b9eab18e32947d9a20408e5c962504854c6cf163e2693de115b2753223733520"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DEMON_KING_CHARACTER_MONOGRAPH.md",
@@ -1014,8 +1014,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DRYAD_CHARACTER_MONOGRAPH.md",
-      "bytes": 10867,
-      "sha256": "1cf5378ebe52de18ca467e84311826b06252c026f1daf73bbd140e6913352de0"
+      "bytes": 12211,
+      "sha256": "7568ec0599997f250fa64c5a539a62f2892fd4b94e27388860b05dd00ce4d01b"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUKE_CHARACTER_MONOGRAPH.md",
@@ -1024,8 +1024,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUNGEON_VAMPIRE_OWNER_CHARACTER_MONOGRAPH.md",
-      "bytes": 8666,
-      "sha256": "a17bc168b1ab426dd87e29c0a0a80932fb098a2322445a845568a27070fde614"
+      "bytes": 10134,
+      "sha256": "2a1a3a4f758ebaa50b17fc715a4bc3d3c50f49eae2a57f099802fb68e6fda28c"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST07_DULLAHAN_COMMANDER_CHARACTER_MONOGRAPH.md",
@@ -1114,8 +1114,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_FANBOOK_MEDUSA_DUNGEON_OWNER_CHARACTER_MONOGRAPH.md",
-      "bytes": 11372,
-      "sha256": "32a08d5d2143f611ed9355f2de22eb7ee0abd92a0420d02500f9bfc6214c439b"
+      "bytes": 12762,
+      "sha256": "055bac6b2a660a12473d51e96d24787b997140a62af9e4d9968401cb4ff5e95d"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_FEIT_CHARACTER_MONOGRAPH.md",
@@ -1164,8 +1164,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_HEIDEL_CHARACTER_MONOGRAPH.md",
-      "bytes": 10009,
-      "sha256": "ddf6ced4d34bdffca2f0997056617c35cd245ab8fb924d55d108326ed503bc6d"
+      "bytes": 11445,
+      "sha256": "6a4ece2a6a0bcc2e6aeb5e54681a9c942e0288b227aa4870c47eb2f54e4e61d5"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_HELMETED_NOBLE_CHARACTER_MONOGRAPH.md",
@@ -1219,8 +1219,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KEELE_CHARACTER_MONOGRAPH.md",
-      "bytes": 10262,
-      "sha256": "4495f9eb74ccd5b51cf6c4720da950bdbd7fba32dc53bba31562e1bed124022f"
+      "bytes": 11698,
+      "sha256": "f470936f653105d804ca6385fa32599891fed4e3b0088c35298ca2403d910645"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KEITH_CHARACTER_MONOGRAPH.md",
@@ -1229,8 +1229,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KNEE_INJURED_VETERAN_CHARACTER_MONOGRAPH.md",
-      "bytes": 12577,
-      "sha256": "347640b9a460a335f7ff754edbc5f38474a4106ba04f18166b78ef455d0c1cc4"
+      "bytes": 13952,
+      "sha256": "6cc26897f736e1fbc6dc90987d4acf5711c5d76ff01d348165eb0a2cccacb886"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KOMEKKO_CHARACTER_MONOGRAPH.md",
@@ -1239,8 +1239,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LAST_LIFE_SUCCUBUS_OWNER_CHARACTER_MONOGRAPH.md",
-      "bytes": 10159,
-      "sha256": "1262c67dadada1a4407c9f40a751882fff9496308e4238ee631c4126a3e911f3"
+      "bytes": 11534,
+      "sha256": "77a3ef723daac0398a347225538003bec7d91673b5bf0e1270f851acdfef03f8"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LEEN_CHARACTER_MONOGRAPH.md",
@@ -1259,13 +1259,13 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LILAC_LALATINA_CHARACTER_MONOGRAPH.md",
-      "bytes": 9294,
-      "sha256": "a1561c41dd4cae21b979a968bd36bc8f565ffc378ff72e209d25d454e8e86d19"
+      "bytes": 10669,
+      "sha256": "e9ad1e88707e1f7d4a917921530e5b46881831ae52b81d1bf2b1e30fa2730666"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LILIANTINE_CHARACTER_MONOGRAPH.md",
-      "bytes": 10540,
-      "sha256": "063e68e68878f6316c9ccad7b850de9ec73ea04a7c6e27c6f7f5fad6a2180ebc"
+      "bytes": 11915,
+      "sha256": "5b927e246f6f391f1f592fb68df5e9a00861ad797855dd12e24f4510a1e93692"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LOLIERINA_CHARACTER_MONOGRAPH.md",
@@ -1329,8 +1329,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MELVIREI_CHARACTER_MONOGRAPH.md",
-      "bytes": 10644,
-      "sha256": "d75f585cdfc95999a3f3eff1ccc7dbdda81157c3c097fc46e6ea91043203d98f"
+      "bytes": 12019,
+      "sha256": "bef838add34becadf1ab4764a30a883385ba7e7d5d5c7ec71e057e662cd0e8f1"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MITSURUGI_CHARACTER_MONOGRAPH.md",
@@ -1339,8 +1339,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_NOBLE_DINNER_HOST_CHARACTER_MONOGRAPH.md",
-      "bytes": 9911,
-      "sha256": "33ac15866726fc7673503006fe64c78bc5ba8c28988d76d72f5a4911f7f5a6dc"
+      "bytes": 11255,
+      "sha256": "2a90f4eb0d9ef4def7b3d5507237bbc9c329d8fb61825e25f35bebd3a5a02643"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_NOS_CHARACTER_MONOGRAPH.md",
@@ -1439,13 +1439,13 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SHUMEL_CHARACTER_MONOGRAPH.md",
-      "bytes": 12716,
-      "sha256": "8dc54bc0d2d1a2b276d133a9c09cc8de9b64734c5ea758217261a51fab0984cf"
+      "bytes": 14091,
+      "sha256": "2dcf7e6e04d86af150ea88bdf0d6a0ed7145b1f3dfedd044691420468d80ac5c"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SIEGWALD_CHARACTER_MONOGRAPH.md",
-      "bytes": 9034,
-      "sha256": "891d66ba9f60eca5370dfc6b3754bce2586b94c97f0a535f244d3e7af0a78c3c"
+      "bytes": 10378,
+      "sha256": "c9dbb4330c32d2a16808d56cb53a8e9e5eff4b48f66027d58a0af6cfd8fe3546"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SOKETTO_CHARACTER_MONOGRAPH.md",
@@ -1454,13 +1454,13 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_STELLA_CHARACTER_MONOGRAPH.md",
-      "bytes": 7884,
-      "sha256": "83e51cab02743729a39925b2a6fe73b3d42743e0c77da2fd88baa261924b15b7"
+      "bytes": 9352,
+      "sha256": "193526a45334d95bb77c8a81e0f55079156cace7c9a267132588a25c250ebf95"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_STORM_GREAT_SPIRIT_CHARACTER_MONOGRAPH.md",
-      "bytes": 9264,
-      "sha256": "edb7be169033e01cfdab4832b690657d293aab65809291b2470c07d58dffa4b3"
+      "bytes": 10608,
+      "sha256": "9b5da80ec02ccce0cc37f76dbd1c4e7b8157524c3969f754580ad46d88eed25b"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SUZUKI_CHIHO_CHARACTER_MONOGRAPH.md",
@@ -1489,33 +1489,33 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TIA_CHARACTER_MONOGRAPH.md",
-      "bytes": 8894,
-      "sha256": "1f7e47055bcc26780024fe4acf3d75065f569b7a56bf97b0ec0c3b220d869020"
+      "bytes": 10269,
+      "sha256": "5ec5cd97ae3f3cd4a046a07e5f15edb31b13ce343f85fd415828001a8ab605af"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRANSFER_ANGEL_CHARACTER_MONOGRAPH.md",
-      "bytes": 7914,
-      "sha256": "06fe245ae7b5ab353702acd7bf0f674dfb6709e2cf746fe2db7b34ca32f7b6c1"
+      "bytes": 9350,
+      "sha256": "10d58c07c20de2408efb4b56369a886a1e3ad13cbca65d32700a1fcafc0bc95b"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
-      "bytes": 7523,
-      "sha256": "83253b4b998f596db4071419a79461e7a02a8c8c56d2eae1de5d0373c1e2ca39"
+      "bytes": 8988,
+      "sha256": "b2190fd4ad94f93b9d6044590f14a2cf0bd8f3ae4e62a6e47f55b7d3d8687701"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_GUIDE_NEWCOMER_CHARACTER_MONOGRAPH.md",
-      "bytes": 8094,
-      "sha256": "4c9513ca786e57a6616bc0270bd6d38f8d39228c8e7262b58f3962909915347f"
+      "bytes": 9559,
+      "sha256": "cb84317edce5f42014f86d9c68da26da770639c780aaf7fbc9c052a7a41984bb"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md",
-      "bytes": 7063,
-      "sha256": "5a65a814c4bde22f5c67f30d970ac8077d8c75d7f5211fe7d948ce6b894f56bd"
+      "bytes": 8528,
+      "sha256": "18e00e98193a8501a055b363b3f6dff19fdc8cec2efa6e3e332f097b7eae00bb"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_OKINA_CHARACTER_MONOGRAPH.md",
-      "bytes": 7106,
-      "sha256": "75f020e3ff92b3d2677bbe78b96eb67d049cee1adb9be2f67d0b224acb94f8b4"
+      "bytes": 8571,
+      "sha256": "02a245bafd6f54c052f3d6ae05c3daa9344c1ad63c49e788e9d4a30e0d762859"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_VANIR_CHARACTER_MONOGRAPH.md",
@@ -1524,13 +1524,13 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_VICE_CHARACTER_MONOGRAPH.md",
-      "bytes": 10325,
-      "sha256": "07d3e9df84065ff9b942d0acb0e9f7e1705d8d8339ce1427c02420a37b3e31dd"
+      "bytes": 11700,
+      "sha256": "db57377e3d785b9414428c3bb08375f05c81908da5dc786921342d4adcb0f076"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_WHITE_TIGER_MOTHER_CHARACTER_MONOGRAPH.md",
-      "bytes": 9115,
-      "sha256": "f30b9e6219071d29c560664c946b3344ac57ca60005c9f5b91bc46c686672701"
+      "bytes": 10459,
+      "sha256": "7be55c6139f7c75d8e8f94f2d257d3c131db69b5edec5257f81ebbe5832677f0"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_WIZ_CHARACTER_MONOGRAPH.md",
@@ -1544,8 +1544,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_WOLBACH_FOLLOWER_CHARACTER_MONOGRAPH.md",
-      "bytes": 9221,
-      "sha256": "cfb1bcd7ca71abb8896a037a93ea05a31689f5eb7ee0ea9c4c7cee7b32b16a69"
+      "bytes": 10565,
+      "sha256": "426978ef9b695865bc5da02f2b4ea367e8fc770f7d80014fda1ef4291c4f4301"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_WOLFGANG_CROW_CHARACTER_MONOGRAPH.md",
@@ -1569,8 +1569,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI03_SUCCUBUS_MESSENGER_CHARACTER_STUDY.md",
-      "bytes": 10358,
-      "sha256": "d1704a28e843b2cd69914b550549960cb59fa00ab98f8f340a526861857fe0d1"
+      "bytes": 11729,
+      "sha256": "24873c0a4353e489f7945c4b81a0117a7c543e7a8342e3b07fca239464851956"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI04_IDENTITY_AND_SUPPORTING_CAST_COHORT46_SUPPLEMENT.md",
@@ -1579,8 +1579,8 @@
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI04_SUCCUBUS_WORKER_CHARACTER_MONOGRAPH.md",
-      "bytes": 10702,
-      "sha256": "1791f455dac61f64fc8bac76a3029d18d5f2ae039175591f67850ffe052da5c5"
+      "bytes": 12147,
+      "sha256": "003a4d15296a59a71d81071055b2b73fc4df70f6f95170b055e70907490a63b1"
     },
     {
       "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YUIYUI_CHARACTER_MONOGRAPH.md",
@@ -5094,8 +5094,8 @@
     },
     {
       "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md",
-      "bytes": 514467,
-      "sha256": "74f50509a000cbff6ad1ae390fc8aca386b20e3286beb88500b25f1fc875b447"
+      "bytes": 515256,
+      "sha256": "24937b4e53dd8ff3626e76b1171db3333dbfdf9074841f96071ebc41cdc3540e"
     },
     {
       "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_COHORT25_PUBLICATION_GATE_CLOSE.json",
@@ -5126,6 +5126,16 @@
       "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT_24_RECEIVING_AND_PROVENANCE.json",
       "bytes": 17478,
       "sha256": "d0f1e24d5b99ca44a9326490cf99d5ea08a18f7c4c3ae3e909a0b7071294c2f8"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+      "bytes": 96993,
+      "sha256": "251e02a679abb06d5c608d7cbf72e441945186e7d66141d1c12a6a505dbeb75c"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.md",
+      "bytes": 12556,
+      "sha256": "09b183ec2c5e4d44048154b7b336f25de3e44decb6a3b0bba5fba8a07d277822"
     },
     {
       "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DESIGNATED_EVALUATION_HANDOFF_V1.json",
@@ -9044,8 +9054,8 @@
     },
     {
       "path": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
-      "bytes": 40109,
-      "sha256": "ff8b06741f28ee866c1afaa94296bb70bdd010dc9ad1480726d03ac47c37915f"
+      "bytes": 40834,
+      "sha256": "348d6665022e4477755b4c7f0f92537c03b23c2be932fb0e9a0c850462ea6a08"
     },
     {
       "path": "series/konosuba/KONOSUBA_PROJECT_CHANGELOG.md",
@@ -9054,11 +9064,11 @@
     },
     {
       "path": "series/konosuba/KONOSUBA_PROJECT_CHANGELOG_CONTINUATION_01.md",
-      "bytes": 153598,
-      "sha256": "d411a3f3aece27d8a612642eecf9534f384fd5a16d3bed9f826463ee96027317"
+      "bytes": 155190,
+      "sha256": "ed5b3b901ed122722f82dd23343262bc548f0cef9e7f9d1fda308b6cd8f103e8"
     }
   ],
-  "member_map_sha256": "665ed433239a0292336c8af36464e7ba2265ff8edb601cbee459a9326938d5ed",
+  "member_map_sha256": "380360a5222dbe102ba7849aa21a8208772a7ee5fe042fd6b226ffdfea6a05c6",
   "self_reference": "This manifest alone is excluded from its own member-hash list. The containing Git tree/commit and exact-source author readback bind its blob;no cyclic self-hash or future commit is fabricated.",
   "native_fixed_object_identities": [
     {
@@ -9240,11 +9250,11 @@
   "global_completion_percentage": null,
   "unique_person_denominator": null,
   "required_remaining_gates": [
-    "Exact containing operational-closeout source audit/current status",
-    "Actual designated discovery/curation",
-    "Actual designated reconstruction evaluation/currentness",
-    "CI agent/owner protected-main integration",
-    "Separately verified final release transition"
+    "Exact containing authority-adoption publication/source audit",
+    "Designated curation of effective main evidence",
+    "Remaining explicit model-lock and reference dispositions",
+    "Designated reconstruction evaluation/currentness and actual owner calibration publication",
+    "CI/owner integrations and separately verified final release"
   ],
   "entrypoint": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
   "entrypoint_renamed": false,
@@ -9252,8 +9262,8 @@
   "final_release": false,
   "full_program_complete": false,
   "snapshot_semantics": "Candidate member hashes describe the analytical snapshot bound at its containing publication. A later operational-control update requires a separately attributable candidate-manifest successor; this list is not live evaluation currentness or a final release.",
-  "revision": "POST_AUTHOR_GATE_CLOSE_V2",
-  "parent_candidate_manifest_sha256": "98392843251c747719a2c3bdef62c4b2dd827c0f453a915e9f9e403563c8f99c",
+  "revision": "DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_V3",
+  "parent_candidate_manifest_sha256": "e59441a4b7089c0b63e9ee5e7c7fa8a360b6d8dd3fedb00ebfa6e91b3875433e",
   "closed_author_analytical_gate_sha256": "3554d49a5806839053c807ff2227a811abd705190fa9d181cbc9aa08362aaec8",
   "owner_main_reconciliation": {
     "accepted_main": "4ea2caf128ba7f6be3c6045195d38d371855a0b1",
@@ -9267,5 +9277,11 @@
       "characters/registry/to-be-hero-x.jsonl"
     ],
     "all_project_bytes_unchanged_before_closeout": true
+  },
+  "authority_adoption_audit": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+    "sha256": "251e02a679abb06d5c608d7cbf72e441945186e7d66141d1c12a6a505dbeb75c",
+    "artifacts": 32,
+    "all_original_arguments_exact_suffixes": true
   }
 }

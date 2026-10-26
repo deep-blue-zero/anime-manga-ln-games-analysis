@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+scope: "Actor-specific bounded argument and locators retained in the original body; cohort 51 context totals are not independent observations for this actor."
+generation: "COHORT51_V1_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "FAN-MEM-FIC-01, Japanese printed 94–97/native S096–S099, upper/lower prose tiers read right-to-left. Dedicated fanbook fiction, distinct from reprint/editorial/art and other dungeon owners."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "33ff979c717586c6685a8b19727c67d07866b00f"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "32a08d5d2143f611ed9355f2de22eb7ee0abd92a0420d02500f9bfc6214c439b"
+---
+
+> Current authority: scoped active provisional interpretation, accepted in the [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The original argument below is retained byte for byte. Any draft-era pending labels in that argument describe its authorship history; the adoption record and actual containing publication own the later status. This classification supplies no new primary reading, model maturity or independent performance credit.
+
 # The fanbook’s Medusa dungeon owner: learning to run a defended home
 
 ## 1. One owner within a particular fiction component

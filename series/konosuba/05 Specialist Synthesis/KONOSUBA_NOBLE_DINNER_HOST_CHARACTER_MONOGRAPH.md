@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+scope: "Actor-specific bounded argument and locators retained in the original body; cohort 44 context totals are not independent observations for this actor."
+generation: "COHORT44_V1_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "Japanese YORI-02 ten paragraph/ruby projections, 2675 P/2530 ruby; each study remains bounded to its identified U012/U016/U018/U020/U022 encounter."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "33ff979c717586c6685a8b19727c67d07866b00f"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "33ac15866726fc7673503006fe64c78bc5ba8c28988d76d72f5a4911f7f5a6dc"
+---
+
+> Current authority: scoped active provisional interpretation, accepted in the [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The original argument below is retained byte for byte. Any draft-era pending labels in that argument describe its authorship history; the adoption record and actual containing publication own the later status. This classification supplies no new primary reading, model maturity or independent performance credit.
+
 # The YORI02 dinner host: hospitality, a useful debt and concealed extraction
 
 ## 1. Which noblewoman is being studied
