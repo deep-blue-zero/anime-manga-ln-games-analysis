@@ -436,5 +436,18 @@
     "U027 local park conception, U056 promotional wink, U065 GM/god appropriation and U071 reader-directed unperformed threat retain their specific local-gag H3 warrants; no blanket erasure of H3.",
     "No H4 forced for fantasy or game abstraction. Optional rules/scenarios/reference with no performed behavioral target remain NOT_APPLICABLE."
   ],
-  "no_aggregate_census_or_score": true
+  "no_aggregate_census_or_score": true,
+  "cohort52_current_source_qualification_route": {
+    "authored_utc": "2026-10-25T23:11:09.495270+00:00",
+    "current_owner": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+    "qualification_ids": [
+      "C52-Q01",
+      "C52-Q02",
+      "C52-Q03",
+      "C52-Q08"
+    ],
+    "scope": "Attributable additions to preserved historical source-first notes and current qualifications. No rewriting of frozen C31 index, H/L coding, model, first response or score.",
+    "actual_complete_native_return": 82,
+    "source_known_same_AI_lineage": true
+  }
 }

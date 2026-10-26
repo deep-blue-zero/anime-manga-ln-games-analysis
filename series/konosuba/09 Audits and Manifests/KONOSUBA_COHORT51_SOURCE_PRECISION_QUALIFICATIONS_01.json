@@ -1,0 +1,39 @@
+{
+  "schema": "konosuba.cohort51.source-precision.v1",
+  "authored_utc": "2026-10-25T20:53:24.750950+00:00",
+  "status": "CURRENT_SOURCE_QUALIFICATIONS_CONTAINING_PUBLICATION_PENDING",
+  "scope": "Additive corrections to preserved historical notes. No replacement H/L coding, model, score or first output.",
+  "findings": [
+    {
+      "id": "C51-ARTREF-Q06",
+      "affected": [
+        "ART-BLESSING-S142 source_first_observations",
+        "ART-BLESSING-S143 source_first_observations"
+      ],
+      "original_scope_error": "Greed described as son-noble in the preserved page notes.",
+      "current": "The printed 子爵 is the rank viscount. Greed is referred to as the viscount and names that title himself. It does not say that he is merely a noble son. Preserve his uncertain age, actual family history and native グリード name separately.",
+      "basis": [
+        "ART-BLESSING-S142 printed136/B2-B3",
+        "ART-BLESSING-S143 printed137/B1-B2",
+        "ART-BLESSING-S147-S148 reward conversation"
+      ],
+      "original_annotations_retained": true,
+      "exact_current_publication_pending": true,
+      "authored_after_seal_utc": "2026-10-25T20:53:24.750950+00:00",
+      "affected_historical_copies": [
+        "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json",
+        "series/konosuba/10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_ALL157_COMPONENT_INVENTORY.md"
+      ]
+    }
+  ],
+  "main04_current_owner": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V04_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json",
+  "main04_current_ids": [
+    "C51-ARTM04-Q01",
+    "C51-ARTM04-Q02",
+    "C51-ARTM04-Q03",
+    "C51-ARTM04-Q04",
+    "C51-ARTM04-Q05"
+  ],
+  "complete_native_comparison_received": true,
+  "original_annotations_preserved": true
+}

@@ -2118,3 +2118,17 @@ C49 actual scope is2784unique structuralP/2397ruby in61complete native review pa
 C50 current receiving is2,026 structural paragraphs/1,707 ruby occurrences in48 complete bounded deliveries across15 text members/seven known editions, plus four actually viewed EXP02 printed-text images. EXP02U029is the sole complete text member in this return. MAIN17 current633P explicitly re-inspects a subset of the prior complete C49 context. The images form a fictional Cecily-focalized interlude, not creator paratext; decorative portrait/layout adds no performed scene. Blank slots, other actors, reports and creator prose are included. No new whole-edition, admission, global-first, residual-set or independent credit follows.
 
 [Current evidence index](KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C51 — artbook/fanbook individual returns — 2026-10-25T20:53:24.750950+00:00
+
+C51 adds one source-bound Medusa dungeon-owner monograph, three compact profiles and28 incidental typed routes. The32 new records retain nested wishes, game tokens, reports, unmapped group phases and uninstantiated roles as different access types. Greed is the viscount; Megumin supposes1000 floors within an illustrated wish. Original annotations remain preserved under attributable corrections. The supplier and restaurant woman have separate voices and actions; Aqua makes the donation demands. No final Medusa fate, actual tower blast, executed Leen experiment, personal identity join or new rule is invented.
+
+[Source distribution and native identities](KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md). Four source EPUBs,46 complete native images/complete before-records and24 complete census neighbors were received. Sixteen earlier selected duplicate-branding/blank representatives bring current selected unique views to62; no all-image reread is claimed.
+
+
+## C52 — bounded TRPG reference/guide/scenario return — 2026-10-25T23:11:09.495270+00:00
+
+C52 adds four substantial monographs for the guide newcomer, Okina, Boren and the autonomous tank; fifteen bounded profiles cover nine optional samples, two guide counterparts and four captive women. Twenty-two incidental routes preserve source-local groups, optional branches, casualties, reference roles and nonperson equipment provenance. All41 complete twelve-dimension dispositions retain source boundaries, agency, counterevidence and unresolved identity. Eight attributable precision findings correct derivative labels/translations/locators or qualify interpretation, editorial claims and sequential ownership without rewriting original notes.
+
+[Native distribution and all routes](KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md). Core scenario nativeS300–313 equals printed298–311; Advanced section nativeS297–311 equals printed295–309, with bodyS298/296. Frozen C31 index remains unchanged under attributable current errata. Actual scope:82complete native images/before-records,21census neighbors in both planes and8current owners. No new whole-edition or independent credit.

@@ -10,6 +10,10 @@ supersedes: []
 superseded_by: []
 ---
 
+**C51 current source qualification:** [the art/reference evidence index](../../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md) governs the later source and identity audit. Earlier dated pending notes and original annotations below retain their historical boundary. No old H/L labels, forecasts or scores are replaced.
+The collected Main04 color sequence has now been compared in full: four pages visually recompose seven native assets, including a split wide image. [C51-ARTM04-Q01–Q05](../Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) distinguish the Vanir smirk inset, qualified opening speaker, **1000-floor nested supposition**, dependent reproduction and typed imagined roles. No second actual dungeon event follows.
+
+
 Accepted 2026-10-17T23:27:29.977226+00:00 from the source-correct V5 reading, with all 137 actual native pages and separately bounded source receiving. This is expanded-source analysis, outside the frozen main-only derivation and four-book scorecards. The original V1–V5 candidates, reviewer originals and attributable corrections remain recoverable by the hashes in [receiving and provenance](KONOSUBA_CHEERS_RECEIVING_AND_PROVENANCE.json). The current [component register](KONOSUBA_CHEERS_COMPONENT_REGISTER.json) records every actual page and the final source-correct story precisions. Private uncoded notes are historical, not a substitute for this accepted successor.
 
 P fully reread the five story pages; I inspected 12 specified pages including all five story pages. Neither independently reread the other 125 pages. Initial source notes were sealed before shared comparison; later corrections were coordinated. No new human, statistical independence, acoustic performance, new holdout result or completed publication is claimed. The root reader knows the main series and holdouts. The containing publication gate remains pending until its exact commit is audited.
