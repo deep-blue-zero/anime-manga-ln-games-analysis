@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort52.receiving-and-provenance.v1",
-  "status": "COMPLETE_SCOPED_SEMANTIC_RECEIVING_CONTAINING_PUBLICATION_PENDING",
+  "status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
   "received_utc": "2026-10-25T23:11:09.495270+00:00",
   "source_baseline": "87f93dab7b985d6b09acd94e9c33d34370a47c2f",
   "current_main": "6b35401cd14589c12bf332be8f8cb9df302fac4f",
@@ -415,5 +415,25 @@
     "initial_candidate_review_sha256": "73b6d3490caa73d9cacf1dbf2a9c39203b170180c1514d016a2480e4c0d6f2e9",
     "source": "Core S300–303/S312; Advanced S310",
     "no_original_published_source_or_model_rewrite": true
-  }
+  },
+  "prior_current_publication_status_before_gate_close": "COMPLETE_SCOPED_SEMANTIC_RECEIVING_CONTAINING_PUBLICATION_PENDING",
+  "publication_closed_utc": "2026-10-26T00:48:51.037378+00:00",
+  "publication_resolution": {
+    "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+    "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+    "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+    "source_run": 40247993774,
+    "full_discovered_tests": 479,
+    "latest_trusted_status": 57223140124,
+    "current_models": 71,
+    "author_publication_tranche_complete": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 338,
+    "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+    "owner_integration_own_audit_separate": true
+  },
+  "published_authority_reload_sha256": "19c89dc971896b50aa2f233ac48c3ca5d99bb6e778a4240a91b1d93d8a798323",
+  "current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+  "closing_bytes_await_next_containing_publication": true
 }
