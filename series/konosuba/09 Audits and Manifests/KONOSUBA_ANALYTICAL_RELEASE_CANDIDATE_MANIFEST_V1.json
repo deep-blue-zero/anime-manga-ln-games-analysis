@@ -1,11 +1,11 @@
 {
   "schema": "konosuba.analytical-release-candidate-manifest.v1",
-  "prepared_utc": "2026-10-26T07:35:07.511733+00:00",
-  "context_source": "9b3cc94f7575ccbc96c493b7c68ae79dd2556dbf",
-  "context_tree": "5481c0357677789b433f67626823d2f31014ce93",
-  "status": "REVIEWABLE_AUTHOR_CANDIDATE_NOT_FINAL_RELEASE",
-  "project_paths_including_this_manifest": 1810,
-  "member_paths_excluding_this_manifest": 1809,
+  "prepared_utc": "2026-10-26T08:21:17.340910+00:00",
+  "context_source": "39207bfd5847190b8d224f46dc775b848f34e1ab",
+  "context_tree": "34d9c0d737f9ccacdaae88c4af540c2531c38366",
+  "status": "AUTHOR_ANALYTICAL_PACKAGE_VERIFIED_DESIGNATED_GATES_REMAIN_NOT_FINAL_RELEASE",
+  "project_paths_including_this_manifest": 1811,
+  "member_paths_excluding_this_manifest": 1810,
   "members": [
     {
       "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_CHARACTER_RECONSTRUCTION_AND_VALIDATION_PROTOCOL.md",
@@ -5094,8 +5094,8 @@
     },
     {
       "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md",
-      "bytes": 513337,
-      "sha256": "2c7b55ea64907517091b37019360be07fa46bc462fa3a7b288ab36571297f73d"
+      "bytes": 514467,
+      "sha256": "74f50509a000cbff6ad1ae390fc8aca386b20e3286beb88500b25f1fc875b447"
     },
     {
       "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_COHORT25_PUBLICATION_GATE_CLOSE.json",
@@ -5271,6 +5271,11 @@
       "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_FD_EXPANDED_PUBLICATION_GATE_CLOSE.json",
       "bytes": 3197,
       "sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_FULL_PROGRAM_AUTHOR_PUBLICATION_GATE_CLOSE_V1.json",
+      "bytes": 4521,
+      "sha256": "3554d49a5806839053c807ff2227a811abd705190fa9d181cbc9aa08362aaec8"
     },
     {
       "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_FULL_PROGRAM_AUTHOR_SCOPE_AUDIT_V1.json",
@@ -9039,8 +9044,8 @@
     },
     {
       "path": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
-      "bytes": 39553,
-      "sha256": "cd16a1b68e4699e6685857f047c5fd0985b95d7cce22a4ac50803bfcff6cd0f8"
+      "bytes": 40109,
+      "sha256": "ff8b06741f28ee866c1afaa94296bb70bdd010dc9ad1480726d03ac47c37915f"
     },
     {
       "path": "series/konosuba/KONOSUBA_PROJECT_CHANGELOG.md",
@@ -9049,11 +9054,11 @@
     },
     {
       "path": "series/konosuba/KONOSUBA_PROJECT_CHANGELOG_CONTINUATION_01.md",
-      "bytes": 151008,
-      "sha256": "1c72ac35f15622b5331e52e837ef702754ef81307a9e69fb412d6e63b7053189"
+      "bytes": 153598,
+      "sha256": "d411a3f3aece27d8a612642eecf9534f384fd5a16d3bed9f826463ee96027317"
     }
   ],
-  "member_map_sha256": "990cf04d14178cf75df0fe179c1356c4dcc84f7aa6880159c27c17f7d24c9b07",
+  "member_map_sha256": "665ed433239a0292336c8af36464e7ba2265ff8edb601cbee459a9326938d5ed",
   "self_reference": "This manifest alone is excluded from its own member-hash list. The containing Git tree/commit and exact-source author readback bind its blob;no cyclic self-hash or future commit is fabricated.",
   "native_fixed_object_identities": [
     {
@@ -9235,10 +9240,10 @@
   "global_completion_percentage": null,
   "unique_person_denominator": null,
   "required_remaining_gates": [
-    "Exact containing author publication and full source audit",
-    "Designated discovery/curation at actual current source",
-    "Designated reconstruction evaluation/currentness at actual current source",
-    "Protected-main integration by CI agent/owner",
+    "Exact containing operational-closeout source audit/current status",
+    "Actual designated discovery/curation",
+    "Actual designated reconstruction evaluation/currentness",
+    "CI agent/owner protected-main integration",
     "Separately verified final release transition"
   ],
   "entrypoint": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
@@ -9246,5 +9251,21 @@
   "raw_native_media_included": false,
   "final_release": false,
   "full_program_complete": false,
-  "snapshot_semantics": "Candidate member hashes describe the analytical snapshot bound at its containing publication. A later operational-control update requires a separately attributable candidate-manifest successor; this list is not live evaluation currentness or a final release."
+  "snapshot_semantics": "Candidate member hashes describe the analytical snapshot bound at its containing publication. A later operational-control update requires a separately attributable candidate-manifest successor; this list is not live evaluation currentness or a final release.",
+  "revision": "POST_AUTHOR_GATE_CLOSE_V2",
+  "parent_candidate_manifest_sha256": "98392843251c747719a2c3bdef62c4b2dd827c0f453a915e9f9e403563c8f99c",
+  "closed_author_analytical_gate_sha256": "3554d49a5806839053c807ff2227a811abd705190fa9d181cbc9aa08362aaec8",
+  "owner_main_reconciliation": {
+    "accepted_main": "4ea2caf128ba7f6be3c6045195d38d371855a0b1",
+    "source": "39207bfd5847190b8d224f46dc775b848f34e1ab",
+    "receipt_sha256": "1bb7b583cb515dfcdfe8e0243f24ace4875209ef6eb5c03a19e0e2ad4d485931",
+    "foreign_paths_inherited": [
+      "CHARACTER_ANALYSIS_INDEX.md",
+      "characters/index/re-zero.md",
+      "characters/index/to-be-hero-x.md",
+      "characters/registry/re-zero.jsonl",
+      "characters/registry/to-be-hero-x.jsonl"
+    ],
+    "all_project_bytes_unchanged_before_closeout": true
+  }
 }
