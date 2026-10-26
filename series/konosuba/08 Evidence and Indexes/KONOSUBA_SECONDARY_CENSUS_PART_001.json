@@ -52,8 +52,24 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
       ],
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING",
-      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Yunyun",
@@ -130,8 +146,24 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
       ],
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING",
-      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Chris / Eris",
@@ -184,8 +216,24 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
       ],
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING",
-      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Wiz",
@@ -267,8 +315,24 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
       ],
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING",
-      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Vanir",
@@ -350,8 +414,24 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
       ],
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING",
-      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Dust",
@@ -463,8 +543,24 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
       ],
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING",
-      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Claire",
@@ -547,8 +643,24 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
       ],
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING",
-      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Rain / Rein",
@@ -754,8 +866,24 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
       ],
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING",
-      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Luna",
@@ -914,7 +1042,7 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
       ],
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING",
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
       "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
       "cohort52_reference_supplement_candidate_review_correction": {
         "authored_utc": "2026-10-25T23:21:19.857772+00:00",
@@ -924,6 +1052,22 @@
         "initial_candidate_review_sha256": "73b6d3490caa73d9cacf1dbf2a9c39203b170180c1514d016a2480e4c0d6f2e9",
         "source": "Core S300–303/S312; Advanced S310",
         "no_original_published_source_or_model_rewrite": true
+      },
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
       }
     },
     {
@@ -1004,8 +1148,24 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
       ],
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING",
-      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Cecily",
@@ -1083,8 +1243,24 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
       ],
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING",
-      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Leen / Lean",
@@ -2690,11 +2866,11 @@
       "character": "Other TRPG Core/Advanced optional personas, guide/scenario actors and reference populations (aggregate route)",
       "identity": "Open source/access routing aggregate, not an additional individual or a global distinct-person denominator.",
       "likely_tier": "Aggregate route: C31 replay constituents and C52 scoped Tier0/1/2 access records; no aggregate person tier.",
-      "priority": "C52 selected reference/guide/scenario scope received; containing publication pending and wider identity/population audit continues.",
+      "priority": "C52 selected reference/guide/scenario exact-source author gate closed; wider identity/population audit continues.",
       "evidence_distribution": "Original C31 bounded replay children282–294 remain preserved. C52 optional samples, world-guide fiction, unselected reference branches and supplied scenarios route to41 typed access records795–835; local native82/82 received.",
       "substantive_responsibility": "Route each subject and access to its proportional artifact, retaining individual agency and all12 dimensions; no forced generator or borrowed named-actor identity.",
       "gaps": "The broader population/identity/reference audit remains open. Group overlap, unselected roles, underidentified participants and equipment remainder provenance do not produce a final people count.",
-      "disposition_status": "SCOPED_C31_REPLAY_AND_C52_REFERENCE_GUIDE_SCENARIO_ROUTES_NONFINAL_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_C31_REPLAY_AND_C52_REFERENCE_GUIDE_SCENARIO_ROUTES_NONFINAL_AUTHOR_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_gap_history_working21": "Inventory source-qualified identities before artifact decisions; source silence, unindexed evidence and incomplete review stay distinct.",
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
@@ -2813,8 +2989,28 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
       ],
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING",
-      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+      "prior_cohort52_aggregate_publication_fields": {
+        "priority": "C52 selected reference/guide/scenario scope received; containing publication pending and wider identity/population audit continues.",
+        "disposition_status": "SCOPED_C31_REPLAY_AND_C52_REFERENCE_GUIDE_SCENARIO_ROUTES_NONFINAL_PUBLICATION_PENDING"
+      },
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Yuiyui",
@@ -3359,8 +3555,24 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md"
       ],
-      "cohort52_current_review_status": "SOURCE_QUALIFIED_NONFINAL_CONTAINING_PUBLICATION_PENDING",
-      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396"
+      "cohort52_current_review_status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+      "cohort52_semantic_receiving_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+      "cohort52_current_receiving": "Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.",
+      "cohort52_publication_resolution": {
+        "source": "67d4c5293c37f2f416358af9fb3b35a1957bfcce",
+        "tree": "f6ec3fbe30ee41fec52354f1772b96abd6cf5933",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "gate_sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95",
+        "source_run": 40247993774,
+        "full_discovered_tests": 479,
+        "latest_trusted_status": 57223140124,
+        "current_models": 71,
+        "author_publication_tranche_complete": true,
+        "no_independent_accuracy_grade_or_confidence_gain": true,
+        "pull_request_number": 338,
+        "owner_integration_observed": "d96b46036f0b11e41e186c633c9ec1dd6f976248",
+        "owner_integration_own_audit_separate": true
+      }
     },
     {
       "character": "Bukkorori",
