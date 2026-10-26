@@ -578,7 +578,8 @@ Later identity equivalences guide current synthesis but cannot be inserted into 
 | Mandarin voice, naming, register | `P2-CR-L*`; language ledger and crosswalk | `17_MANDARIN_DIALOGUE_VOICE_NAMING_REGISTER_AND_JAPANESE_REFERENCE_AUDIT.md` |
 | Visual form | `P2-CR-F*`; form ledger and motion audits | `18_VISUAL_FORM_ANIMATION_MODES_COLOR_EDITING_SCREENS_AND_SPECTACLE.md` |
 | Music and sound | `P2-CR-F06`, `F16`; deferred audio questions | `19_MUSIC_SOUND_SILENCE_PERFORMANCE_AND_THE_PUBLIC_VOICE.md` |
-| Comparative/open-question matrix | all `P2-CR-*` plus Section 9 | `20_COMPARATIVE_REFERENCE_MATRICES_AND_OPEN_QUESTIONS.md` |
+| Character behavior, speech and situational modeling | `P2-CR-CH*`, `P2-CR-R*`, `P2-CR-L*`; Specialists 06–16; Documents 17–19; governed by `TBHX_V2_CHARACTER_RECONSTRUCTION_METHOD.md` | `20_CHARACTER_BEHAVIOR_PERSONALITY_SPEECH_AND_SITUATIONAL_MODELING_REFERENCE.md` |
+| Comparative/open-question matrix | all `P2-CR-*` plus Section 9 | `TBHX_COMPARATIVE_REFERENCE_MATRICES_AND_OPEN_QUESTIONS.md` (unnumbered Phase-6 artifact; architecture v1.5 retired the earlier `20_COMPARATIVE_REFERENCE_MATRICES_AND_OPEN_QUESTIONS.md` identity) |
 | Final source routing | this ledger + topical ledgers + targeted AV packets | `21_PRIMARY_SOURCE_LOCATOR_AND_CLAIM_REVISION_LEDGER.md` |
 | V1 intellectual history | current Phase-2 claim state versus V1 corpus | `22_V1_TO_V2_REVISION_AND_CONFIDENCE_AUDIT.md` |
 
