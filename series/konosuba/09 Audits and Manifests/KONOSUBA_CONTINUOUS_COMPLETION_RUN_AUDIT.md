@@ -2150,3 +2150,13 @@ The [scoped author gate](KONOSUBA_C51_C52_LEDGER_PUBLICATION_GATE_CLOSE_01.json)
 ## Expanded specialists V1 — attributable author increment
 
 All seven current main-only specialist bodies were actually received in48 complete pages and remain byte-exact. Seven expanded topical candidates add distinct source-known arguments; the [scope record](KONOSUBA_EXPANDED_SPECIALIST_SYNTHESIS_SCOPE_AUDIT_01.json) distinguishes selected derivative receiving from fresh primary reading and mechanical source-owner bindings. No new whole-edition exposure,model,rule,case input,first response,prospective result,independent observation,accuracy or grade is credited. The e9e89cd6 own479 source gate is closed; this containing candidate requires its own preflight,remote readback and audit. Extended/full-series synthesis,six StageD successors,actual final battery,component completion and separately owned curation/evaluation/integration/release remain due.
+
+
+## Expanded specialist source f659d164 gate closed — 2026-10-26T04:54:03.965633+00:00
+
+[Exact author gate](KONOSUBA_EXPANDED_SPECIALISTS_PUBLICATION_GATE_CLOSE_01.json): own479 audit40270306533, all IDs executed/all five non-success zero, exact10,382 remote bindings/all13 changed streams and fresh1,771-body/71-model reload. The250 checks passed at the declared preceding snapshot; exact audited owner reconciliations and fresh final readback preserve the resulting protected bodies without claiming another execution of the older global-count assertion. This source adds seven literary versions and no new model/case/first/independent grade. Full-program responsibilities remain separately tracked; no terminal closure is asserted.
+
+
+## PR345 current-entrypoint correction
+
+Comment4374021391 correctly identified stale C52/current-next-operation controls after specialist publication. Frontmatter, the unique current-operation block and active route paragraphs now identify privately reviewed/frozen StageD preparation and zero generated new firsts. Exact displaced controls are preserved in the changelog; all other map text, original analytical bodies, forecasts, scores and blanks remain unchanged. This containing correction requires its own source verification.

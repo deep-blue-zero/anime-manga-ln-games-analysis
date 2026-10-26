@@ -493,3 +493,87 @@ The [scoped author gate](09%20Audits%20and%20Manifests/KONOSUBA_C51_C52_LEDGER_P
 ## Expanded specialist versions V1 — source-known literary consolidation
 
 Added seven substantive, separately attributable expanded specialists for Kazuma,Aqua,Megumin,Darkness,party,humor and Japanese language. Main-only whole bodies remain unchanged. Actual source/semantic receiving and all source-class/chronology/knowledge limits are recorded in the [scope audit](09%20Audits%20and%20Manifests/KONOSUBA_EXPANDED_SPECIALIST_SYNTHESIS_SCOPE_AUDIT_01.json); the single current map routes both phases. Original models,forecasts,first responses,scorecards,L/H codes and blanks remain intact. No StageD model,battery,independent accuracy or release completion follows from these essays. This containing publication is pending.
+
+
+## Seven expanded specialists: verified author publication — 2026-10-26T04:54:03.965633+00:00
+
+Source `f659d164d359644c32238e5de5145ee1db508b92` / tree `479c801f3a742a7d92a2783d13f8d557c9ec9b0e` passed its exact full index preflight, complete remote readback and own full479 audit40270306533; all discovered test IDs and both isolated job cleanups were verified. Fresh reload covers all1,771 project bodies/71 preserved model bodies. [Gate](09%20Audits%20and%20Manifests/KONOSUBA_EXPANDED_SPECIALISTS_PUBLICATION_GATE_CLOSE_01.json). The seven earlier main-only bodies, frozen histories, scores and blanks remain intact. Wider synthesis, StageD/battery and final designated responsibilities continue.
+
+
+## Entrypoint state displaced after expanded-specialist review — 2026-10-26T04:58:40.157599+00:00
+
+PR345 comment4374021391 identified an obsolete authoritative operation/frontmatter beneath otherwise completed expanded work. The following exact prior controls came from source `f659d164d359644c32238e5de5145ee1db508b92`; they are historical, not next-work instructions. All unaffected map bytes and every frozen analytical artifact remain preserved.
+
+### Prior frontmatter
+
+```yaml
+---
+series: KONOSUBA
+artifact_type: corpus_map
+scope: FULL_MAIN_SERIES
+generation: V1
+status: canonical
+source_boundary: Cohort52 exact-source author gate closed at67d4c529;71 model artifacts and836 nonfinal source-access records;owner PR338 integration observed at d96b4603;full program active;percentage null
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md
+  method_status: canonical
+  source_reconnaissance_complete: true
+  required_ledgers_initialized: true
+  sequential_analysis_lock: open
+  next_permitted_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume
+  authorized_start: V11
+  terminal_boundary: V17
+  committed_high_water_mark: V17
+  next_candidate_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+  confirmation_between_units: false
+  run_state: active
+---
+```
+
+### Prior current-operation body
+
+```markdown
+
+
+**C52 has closed its exact-source author publication gate; the full KonoSuba program continues.** Four monographs treat the guide newcomer,Okina,Boren and the autonomous Metal Mōrā tank. Fifteen bounded profiles cover nine optional samples,two guide counterparts and four captive women;22 incidental routes preserve source-local groups,unselected branches,casualties,reference roles and nonperson equipment provenance. All41 complete twelve-dimension dispositions retain source boundaries,agency,counterevidence and unresolved identity. Eight attributable precision findings qualify derivative labels,translation,locators,editorial claims and sequential ownership while original notes remain preserved.
+
+Current totals are71 unchanged model bodies/65 scoped secondary model entries,231 bounded-profile passages,69 monograph-only studies and836 nonfinal source-access records in eleven parts,80x10+36. Counts describe treatments and artifacts. Twelve named reference rows retain all8 core fields;aggregate38 preserves its prior8-field archive and C31 history. The other782 entering records and all19 canonical/private differences remain exact. All independent counts stay null.
+
+The [C52 evidence index](08%20Evidence%20and%20Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md), [individual audit](09%20Audits%20and%20Manifests/KONOSUBA_COHORT52_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json), [typed routes](09%20Audits%20and%20Manifests/KONOSUBA_COHORT52_TYPED_SOURCE_ACCESS_ROUTES_01.json), [precision findings](09%20Audits%20and%20Manifests/KONOSUBA_COHORT52_SOURCE_PRECISION_QUALIFICATIONS_01.json) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_COHORT52_RECEIVING_AND_PROVENANCE.json) own their declared scopes. Actual semantic return is50 Core+32 Advanced complete native images and before-records,21 complete census neighbors in both planes and8 complete current owners. Technical source correspondence adds no new whole-edition semantic or independent-validation credit.
+
+Narrated guide fiction,unplayed scenarios,optional builds and life paths remain distinct. Reference ages,rumor,appearance estimates and conditional help preserve source states. The guide receptionist/Luna correspondence remains possible;equipment context points to the existing captive women while remainder provenance stays unknown. Boren labor and skill coexist with coercion;artificial or Extra status does not erase agency.
+
+Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue. The [C52 author gate](09%20Audits%20and%20Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json) records the actual source boundary and the observed provider-protection qualification. Accepted-main136f5733 has its own full479-test audit40245013203. C51 gate87f93dab retains its own479-test audit and reload;its reviewed closing records are now included in source67d4c529.
+
+Remaining work:broader identity/reference/image and full-ledger reconciliation and final individual dispositions;seven expanded specialists;extended/full-series syntheses;six distinct versioned StageD successors;the final nine-category battery;designated curation/evaluation;protected integration of later increments;component release and final-entry work. Current derivative preparation reviews existing Dust,Komekko and Hoost homes before resolving concrete remaining joins or ledger gaps. It earns no new native exposure or automatic model promotion. Final tiers,unique-person denominator and global percentage remain unresolved/null.
+
+```
+
+### Prior active route paragraphs
+
+```markdown
+Full individual secondary census and joins, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active.
+```
+
+```markdown
+The four mandatory principal subjects remain Satou Kazuma, Aqua, Megumin and Darkness, with party interaction and cross-context transfer as separate model responsibilities. Current main-only specialists remain in `05 Specialist Synthesis`; current main-only models/evidence remain in `06 Character Modeling and Reconstruction`. No new empty architecture layers or parallel project roots are required.
+```
+
+```markdown
+All declared supplemental, mixed/reference and main excluded-component source programs have closed their stated publication gates. Remaining work is the full individual secondary census and event joins, earned monographs/models/bounded profiles, expanded specialist synthesis, separately versioned principal/party/transfer revisions, synchronized evidence/locators/indexes, designated curation/integration and final source/component/authority/release audits. Any later source operation still requires its applicable admission and receiving gates; none is opened by this paragraph. A character cohort or recovery milestone does not end the program, and a warm ending or paid task does not imply complete causal repair, full consent or model success.
+```
+
+```markdown
+Continue the structured current operation above. Each next source requires separate admission with informed exposure declared. Preserve original questions, the preceding working inquiries and adverse history before any new body is read. Only after complete actual reading/seal may formal coding, seventeen-responsibility analysis, ten-ledger uptake and exact publication follow.
+
+Further source units then proceed in the governed natural order and scopes in the matrix/architecture. Keep accepted past readings and frozen baseline evidence intact, and use attributed revisions for analytical corrections. Git/audit receipts own publication identities; this map owns present state and governing routes.
+```
