@@ -2,11 +2,11 @@
 series: RE_ZERO
 artifact_type: synthesis_architecture
 scope: JAPANESE_LIGHT_NOVEL_PROSPECTIVE_LONGITUDINAL_AND_SYNTHESIS_ARCHITECTURE
-generation: V1.35
+generation: V1.36
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
-source_boundary: "Japanese main LN V01-V43 admitted; verified integrated V19/PR332 at2f77b387/current393claims/five owners;51entering protected artifacts/fourteen preceding person-model scopes exact; Liliana modelV1.1/current reassessment full gate CLOSED throughPR341, original model1.0 review byte-exact; fifteenth Regulus19 modelV1.0/separate19-dimension review implemented at local bounded documentary pass; own gate PENDING before unopenedV20; no new admission"
+source_boundary: "Japanese main LN V01-V43 admitted; V20 source-complete423claims/five owners; enteringV19 integrated and Liliana19/Regulus19 full gates closed;53protected/fifteen model scopes exact; V20 own gate then Arc5/three named models separately before sealedV21; no new admission"
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 pro_justification: "Propagation-sensitive architecture repair: this routing governs every later Re:Zero volume transaction and synthesis layer."
@@ -342,20 +342,20 @@ Claim/evidence stabilization precedes any synthesis that depends on the disputed
 
 ## 13. Responsibility matrix
 
-| Analytical dimension | Sequential observation | Cumulative canonical home | Mature/final destination | Verified V19; Liliana gate CLOSED; Regulus implemented with own gate PENDING |
+| Analytical dimension | Sequential observation | Cumulative canonical home | Mature/final destination | V20 authored source-complete state; own full gate and four separate derived duties remain |
 |---|---|---|---|---|
-| Claims and revisions | material claims, counterevidence, six-state adjudication | master ledger claim tables | relevant specialists and full-series synthesis |393current claims:377individual predecessors215P/121S/33R/8O+16NEW; all60incomingQ/10P. Current/entering bodies and c69seal remain literal/recoverable; source-facing V19 owns every individual reason. |
-| Route/event-state | local state, trigger, outcome, durability, carry-forward | `04 Longitudinal Ledgers/REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` | memory/continuity or mechanics specialist if earned | LivingE021/20Subaru deaths/21segments; Reinhard revival, retrospect/waking/backfill add no E022. Preserved53lives, terminal Greed narration and unfinished other fronts have distinct endpoints. |
-| Knowledge/asymmetry | holder, source, confidence, nonholder, disclosure, false belief, consequence | `04 Longitudinal Ledgers/REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` | relationship, agency, and continuity syntheses | K001–705;51newK655–705/base updates preserve older horizons. Private Geuse/family/wish/return intention differ from shared acts; narrator names Anastasia, no future-derived substitute or full camp RBD. |
-| Relationships | each party's remembered history, trust, disclosure, dependency, power | `04 Longitudinal Ledgers/REZERO_RELATIONSHIP_CONTINUITY_LEDGER.md` | character monographs; dyadic/ensemble synthesis if earned | R001–155/RT001–363;138individual decisions24advance/114literal preserve;17newR/36newRT retain327oldRT/ancestry/preimages. Local permission, imposed contact, actual retrieval and private hopes are distinct. |
-| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models |14preceding full-gated person-model scopes and51protected artifacts exact;32current person rows/one Dainas case reconcile V19. Liliana modelV1.1/current scoped reassessment gate CLOSED throughPR341; original model1.0 review exact. Fifteenth Regulus modelV1.0/separate review locally accepted:22confidence assignments/19dimensions/28controls/six NONCANONICAL families, F1/F2 repaired and frozen-reading H1 exposed; own gate PENDING. |
-| Institutions/factions/power | rule/doctrine, actor behavior, capacity, resources, status, coercion | `04 Longitudinal Ledgers/REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` | institutional/political specialist if earned | I001–379;26newI354–379/fivecamp updates preserve older increments. Actual mixed resistance, surviving end of bodily service and temporary civic role do not enact permanent merged service, free old marriage or new law. |
-| Mechanics/world model | speaker theory, observation, cost, exception, corroboration | `04 Longitudinal Ledgers/REZERO_MECHANICS_METAPHYSICS_AND_WORLD_MODEL_LEDGER.md` | mechanics/metaphysics specialist if earned | M001–442;34newM409–442/base updates; M344 exact. Revised time/support/own-heart and performed continued-song counter retain operational limits, costs, unexplained ingress/rot/beam and older hypotheses at their horizons. |
-| Ordinary life/preferences | only model-diagnostic routines, tastes, labor, comfort, low-stakes conduct | master ledger ordinary-life table | character/relationship or ordinary-life specialist if earned |24newV19observations include inherited/taken craft, work/declined invitation/amulet, gift to past heroes/living-friend aspiration, dawn/rest/boundary, finery/practice and interested family counterexamples; no invented boy or lived counterfactual family. |
-| Japanese wording/register | wording-sensitive terms, address, titles, pragmatic shifts, exact locus | master ledger terminology table plus VNN evidence loci | language/register specialist; character and translation analysis |21newV19observations retain exact titles, actors/recipients, instrument, gift/name/awakening, hand/Geuse, private79/wish and weak cries; all2187ruby groups/2877labels actually read occurrence-by-occurrence. |
-| Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | All60incomingV19Q/10Pseparately adjudicated; c69incoming17236-byte body exact. New60V20Q/10Pseal follows complete saved-content acceptance and remains unchanged through both earned derived operations. |
-| Source identity/locators | source ID, hash, locus convention | source lock plus VNN reading; ledger routes only | evidence/index layer if retrieval burden earns it | V19original23535212bytes/SHAd05c621e02a9767a6ca44e792f03dbec33c62db62467f3c1f3386eb65fc1db5d/CRCpass;23OPF/3710positions/55TEXTdeliveries/25distinct assets actually viewed/navigation/ruby complete. Source43/V41exception/datedgaps unchanged. |
-| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Master section13 owns qualitative readiness: V19 and Liliana full gates CLOSED; Regulus construction/separate review implemented locally, own full gate PENDING before fixed V20. No sixth owner/field/index, Arc5-end/final specialist or global grade. |
+| Claims and revisions | material claims, counterevidence, six-state adjudication | master ledger claim tables | relevant specialists and full-series synthesis | 423claims:393individual predecessors208P/141S/36R/8O+30NEW;60incomingQ/10P individually answered. Current423body stays in master; exact entering393body in archive02, older377body in archive01; frozenV20 owns reasons. Both incoming seals remain literal in master. |
+| Route/event-state | local state, trigger, outcome, durability, carry-forward | `04 Longitudinal Ledgers/REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` | memory/continuity or mechanics specialist if earned | Living E021/20Subaru deaths/21segments. Present front endings, retrospective life, ordinary waking and changing operator add no E022; local custody and proposed travel differ from performed transfer. |
+| Knowledge/asymmetry | holder, source, confidence, nonholder, disclosure, false belief, consequence | `04 Longitudinal Ledgers/REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` | relationship, agency, and continuity syntheses | K001–761;56newK706–761/scoped base updates retain old horizons. Named theft, partial truth/mistaken inference, human/body/operator and supported emergency promise/stuck return have distinct recipients. |
+| Relationships | each party's remembered history, trust, disclosure, dependency, power | `04 Longitudinal Ledgers/REZERO_RELATIONSHIP_CONTINUITY_LEDGER.md` | character monographs; dyadic/ensemble synthesis if earned | R001–171/RT001–406;155individual decisions65advanced/90literal preserves plus16newR/43newRT; all363older transitions and ancestry exact. R171 separates Emilia rival challenge from Liliana pledge. |
+| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models | 53protected/fifteen historical model scopes/defaults/local grades exact.37advanced person rows/16new differentiated person-or-phase rows; Theresia/Reinhard/Felt constructions with separate reviews are qualitatively earned UNIMPLEMENTED/UNGRADED after Arc5 checkpoint. |
+| Institutions/factions/power | rule/doctrine, actor behavior, capacity, resources, status, coercion | `04 Longitudinal Ledgers/REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` | institutional/political specialist if earned | I001–403;24newI380–403/fivecamp summaries preserve older increments. Recovery scarcity, chosen dissent, current occupied-body role and proposed custody/preservation do not create permanent office or all-patient assent. |
+| Mechanics/world model | speaker theory, observation, cost, exception, corroboration | `04 Longitudinal Ledgers/REZERO_MECHANICS_METAPHYSICS_AND_WORLD_MODEL_LEDGER.md` | mechanics/metaphysics specialist if earned | M001–482;40newM443–482/scoped bases and exactM344. Finite crystals, performed/failed theft, separate blessings/swords, species/limb limits, distinct Gates, Od cost and unperformed Greed remain different cases. |
+| Ordinary life/preferences | only model-diagnostic routines, tastes, labor, comfort, low-stakes conduct | master ledger ordinary-life table | character/relationship or ordinary-life specialist if earned | 22newV20observations join Theresia gardening/flowers/wanted words/marriage/family care, learned effort and current recipient-specific help. Retrospective, reported and crisis-adjacent conditions remain explicit; no separate owner. |
+| Japanese wording/register | wording-sensitive terms, address, titles, pragmatic shifts, exact locus | master ledger terminology table plus VNN evidence loci | language/register specialist; character and translation analysis | 23newV20observations keep actual speaker/focalizer/recipient: subjective voice, wanted words, appropriated Rem, Flow, true-name explanation, nickname refusal, three Gluttony types, 怨樂, operator voice and prospective promise. All2192ruby groups/3039rt labels read contextually. |
+| Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | All60incomingV20Q/10P separately adjudicated;17355-byte incomingbc9body and oldc69body exact. Outgoing60V21Q/10P requires postacceptance whole-body seal, held through all four derived gates before V21. |
+| Source identity/locators | source ID, hash, locus convention | source lock plus VNN reading; ledger routes only | evidence/index layer if retrieval burden earns it | V20 original23273776bytes/SHAd9959f536e55ad096a5fcd2b86670d25391230034fa9361438a76f0893e7f7a7/CRCpass;25OPF/3992positions/58offers/22distinct viewed assets/navigation/ruby complete. Source43/V41exception/datedgaps unchanged. |
+| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Master section13 owns qualitative judgment. V20 own gate → Arc5checkpoint/own gate → Theresia/own gate → Reinhard/own gate → Felt/own gate → sealedV21. No final specialist, sixth owner/field/index or global grade. |
 | Supplemental/IF/WN | catalog awareness only; no opening until admission and safe horizon | supplemental catalog + source lock + witness protocol; later witness-specific reading | bounded cross-witness specialist | no separately admitted witness; V09 internal escape-family fragment remains MAIN_LN-container/local-premise evidence |
 | Anime/adaptation | no observation until source admission | adaptation source lock/readings when created | adaptation specialists and bounded comparison | `NO_WITNESS_ADMITTED` |
 
@@ -688,7 +688,7 @@ After interruption or ambiguous publication:
 6. resolve branch, source, or prospective-contamination ambiguity before new source reading;
 7. resume at the first unclosed volume within the authorized terminal boundary.
 
-An earned construction/review does not skip its own publication gate. V16/Julius16/Wilhelm16/Crusch16 and predecessors are full-gated/closed. Ferris16's model and separate actually applied local documentary PASS_WITH_BOUND review are implemented; its own complete exact-commit gate remains before unopened V17 against seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Both map fields/master§13 select V17 conditionally on that gate. Keep Ram chronology OPEN, C116/M344 subject correction and Roswaal qualifiers;39 older artifacts/ten prior scopes/defaults/grades and active V43 remain exact. No ordinary pause or unauthorized global-agent action.
+Entering verified integrated sequential high-water is V19. The Liliana19 and Regulus19 full gates CLOSED before V20 source opening. Regulus PR351 final sourceeedd65c31b35f060a5fe744b1689dadb7569bfef/actual mergee4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da completed all479discovered/actually executed tests on source/main, zero nonpasses, trusted status and completed source-specific housekeeping; later native/source/protected/seal verification passed. Base81ec13bbdce71fdbb44d6bbad45f680925781f84 preserves the Re:Zero/control projection without a claimed exact81ec audit. V20 requires its own full gate. After the complete V20 publication/integration gate: ARC_05_CHECKPOINT/own full gate → THERESIA_V01_V20_MODEL_AND_FIDELITY_REVIEW/own full gate → REINHARD_V01_V20_MODEL_AND_FIDELITY_REVIEW/own full gate → FELT_V01_V20_MODEL_AND_FIDELITY_REVIEW/own full gate → sealed V21. All four derived duties are EARNED_UNIMPLEMENTED/UNGRADED. Continue the admitted sequence throughV43 and the mandatory terminal architecture/state/role-gap/acquisition review; CI owns merges. All53entering protected analytical artifacts and fifteen historical model scopes/defaults/local documentary grades remain exact. Liliana1.1/current reassessment remains distinct from its original frozen1.0review; Regulus19 retains terminal no-current-living-reply and visible H1 attribution correction: Subaru offers the pause analogy. V20 reconciliation does not extend an older grade. Ram chronology remainsOPEN; C116/M344 identifies Frederica as the old full-feline speaker/healing subject, C095 retains Gallek's actual private denial, and Roswaal source/recipient/agency qualifications remain binding.
 
 Conversational memory never advances state. A drafted file, local commit, push success message, earlier green audit, or housekeeping-pending source commit is not the same as a verified completed transaction.
 
@@ -957,4 +957,100 @@ source_boundary: "Japanese main LN V01-V43 admitted; verified integrated V19/PR3
 
 ````````````````markdown
 | Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Master section13 owns qualitative readiness: V19 full gate closed; close the Liliana full gate, then Regulus construction/separate review/own full gate, then fixed V20. No sixth owner/field/index, Arc5-end/final specialist or global grade. |
+````````````````
+
+## V20 current architecture maintenance
+
+V20 is actually source-complete at423claims:393individual predecessors208PRESERVE/141STRENGTHEN/36REVISE/8OPEN plus30NEW; all60incoming questions/10forecasts separately adjudicated. Five sole owners: eventV2.4/E021/20Subaru deaths/21arrived segments, knowledgeV2.4/K761, mechanicsV1.13/M482, institutionV1.17/I403, relationshipV1.11/R171/RT406. New56K/40M/24I/16R/43RT;155individual relationship decisions advance65/preserve90literally, retain all363oldRT/ancestry/full affected preimages. MasterV1.37owns current claims,37advanced person rows/16new differentiated person-or-phase rows,22ordinary/23Japanese observations, prospects and qualitative readiness. Counts identify traceability rather than maturity or fidelity.
+
+The complete substantive master candidate measured1427922bytes,379346above the unchanged1048576limit. Two complete superseded claim generations require469088fenced bytes, exceeding existing archive01's404588available bytes before metadata. Preserve the complete201166-byte V18body in history archive01 and267838-byte V19body in history archive02, at the same ledger-directory relative-link base, with original-heading routers and exact native inverses. The resulting draft master is959770bytes; archive01/02 are845767/269626bytes. These are named candidate measurements, not a final committed-blob certificate. Current423claims, current people/readiness and both incoming seals remain in master; no sixth owner or source admission follows.
+
+Source-facing locators and the existing five owners recovered the newly important distinctions; draft citation and attribution repairs use those homes. They do not demonstrate an independent sixth-owner/index/field burden. Source-verified Arc5 completion earns a separate checkpoint; no final-series or specialist readiness is inferred. The current matrix/recovery order above governs; the following full preimages preserve superseded input wording.
+
+## V20 architecture maintenance exact entering fragments
+
+Complete changed entering fragments retain their original source/input horizon and link base. Historical pending labels do not reopen subsequently closed gates.
+
+### input line345
+
+````````````````markdown
+| Analytical dimension | Sequential observation | Cumulative canonical home | Mature/final destination | Verified V19; Liliana gate CLOSED; Regulus implemented with own gate PENDING |
+````````````````
+
+### input line347
+
+````````````````markdown
+| Claims and revisions | material claims, counterevidence, six-state adjudication | master ledger claim tables | relevant specialists and full-series synthesis |393current claims:377individual predecessors215P/121S/33R/8O+16NEW; all60incomingQ/10P. Current/entering bodies and c69seal remain literal/recoverable; source-facing V19 owns every individual reason. |
+````````````````
+
+### input line348
+
+````````````````markdown
+| Route/event-state | local state, trigger, outcome, durability, carry-forward | `04 Longitudinal Ledgers/REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` | memory/continuity or mechanics specialist if earned | LivingE021/20Subaru deaths/21segments; Reinhard revival, retrospect/waking/backfill add no E022. Preserved53lives, terminal Greed narration and unfinished other fronts have distinct endpoints. |
+````````````````
+
+### input line349
+
+````````````````markdown
+| Knowledge/asymmetry | holder, source, confidence, nonholder, disclosure, false belief, consequence | `04 Longitudinal Ledgers/REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` | relationship, agency, and continuity syntheses | K001–705;51newK655–705/base updates preserve older horizons. Private Geuse/family/wish/return intention differ from shared acts; narrator names Anastasia, no future-derived substitute or full camp RBD. |
+````````````````
+
+### input line350
+
+````````````````markdown
+| Relationships | each party's remembered history, trust, disclosure, dependency, power | `04 Longitudinal Ledgers/REZERO_RELATIONSHIP_CONTINUITY_LEDGER.md` | character monographs; dyadic/ensemble synthesis if earned | R001–155/RT001–363;138individual decisions24advance/114literal preserve;17newR/36newRT retain327oldRT/ancestry/preimages. Local permission, imposed contact, actual retrieval and private hopes are distinct. |
+````````````````
+
+### input line351
+
+````````````````markdown
+| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models |14preceding full-gated person-model scopes and51protected artifacts exact;32current person rows/one Dainas case reconcile V19. Liliana modelV1.1/current scoped reassessment gate CLOSED throughPR341; original model1.0 review exact. Fifteenth Regulus modelV1.0/separate review locally accepted:22confidence assignments/19dimensions/28controls/six NONCANONICAL families, F1/F2 repaired and frozen-reading H1 exposed; own gate PENDING. |
+````````````````
+
+### input line352
+
+````````````````markdown
+| Institutions/factions/power | rule/doctrine, actor behavior, capacity, resources, status, coercion | `04 Longitudinal Ledgers/REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` | institutional/political specialist if earned | I001–379;26newI354–379/fivecamp updates preserve older increments. Actual mixed resistance, surviving end of bodily service and temporary civic role do not enact permanent merged service, free old marriage or new law. |
+````````````````
+
+### input line353
+
+````````````````markdown
+| Mechanics/world model | speaker theory, observation, cost, exception, corroboration | `04 Longitudinal Ledgers/REZERO_MECHANICS_METAPHYSICS_AND_WORLD_MODEL_LEDGER.md` | mechanics/metaphysics specialist if earned | M001–442;34newM409–442/base updates; M344 exact. Revised time/support/own-heart and performed continued-song counter retain operational limits, costs, unexplained ingress/rot/beam and older hypotheses at their horizons. |
+````````````````
+
+### input line354
+
+````````````````markdown
+| Ordinary life/preferences | only model-diagnostic routines, tastes, labor, comfort, low-stakes conduct | master ledger ordinary-life table | character/relationship or ordinary-life specialist if earned |24newV19observations include inherited/taken craft, work/declined invitation/amulet, gift to past heroes/living-friend aspiration, dawn/rest/boundary, finery/practice and interested family counterexamples; no invented boy or lived counterfactual family. |
+````````````````
+
+### input line355
+
+````````````````markdown
+| Japanese wording/register | wording-sensitive terms, address, titles, pragmatic shifts, exact locus | master ledger terminology table plus VNN evidence loci | language/register specialist; character and translation analysis |21newV19observations retain exact titles, actors/recipients, instrument, gift/name/awakening, hand/Geuse, private79/wish and weak cries; all2187ruby groups/2877labels actually read occurrence-by-occurrence. |
+````````````````
+
+### input line356
+
+````````````````markdown
+| Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | All60incomingV19Q/10Pseparately adjudicated; c69incoming17236-byte body exact. New60V20Q/10Pseal follows complete saved-content acceptance and remains unchanged through both earned derived operations. |
+````````````````
+
+### input line357
+
+````````````````markdown
+| Source identity/locators | source ID, hash, locus convention | source lock plus VNN reading; ledger routes only | evidence/index layer if retrieval burden earns it | V19original23535212bytes/SHAd05c621e02a9767a6ca44e792f03dbec33c62db62467f3c1f3386eb65fc1db5d/CRCpass;23OPF/3710positions/55TEXTdeliveries/25distinct assets actually viewed/navigation/ruby complete. Source43/V41exception/datedgaps unchanged. |
+````````````````
+
+### input line358
+
+````````````````markdown
+| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Master section13 owns qualitative readiness: V19 and Liliana full gates CLOSED; Regulus construction/separate review implemented locally, own full gate PENDING before fixed V20. No sixth owner/field/index, Arc5-end/final specialist or global grade. |
+````````````````
+
+### input line691
+
+````````````````markdown
+An earned construction/review does not skip its own publication gate. V16/Julius16/Wilhelm16/Crusch16 and predecessors are full-gated/closed. Ferris16's model and separate actually applied local documentary PASS_WITH_BOUND review are implemented; its own complete exact-commit gate remains before unopened V17 against seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Both map fields/master§13 select V17 conditionally on that gate. Keep Ram chronology OPEN, C116/M344 subject correction and Roswaal qualifiers;39 older artifacts/ten prior scopes/defaults/grades and active V43 remain exact. No ordinary pause or unauthorized global-agent action.
 ````````````````
