@@ -275,6 +275,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`current-monograph` — Balter: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_BALTER_QUALIFIED_CURRENT_MONOGRAPH_01.md) — **active provisional authority**
 
+<a id="barton"></a>
+
+### Barton
+
+- Entity ID: `konosuba:barton`
+- Entity aliases:
+  - バートン (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped current monograph
+
+- Analysis subject ID: `konosuba:barton@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-source-boundary`: LIGHT_NOVEL OTHER: Monograph's declared source boundary: Shared68source-known windows/6730uniqueBASE/40members/18objects/14completeBASEmembers; bibliographic and creator-afterword planes distinct. Barton concentrated in one title; no new whole-source/ruby/residual/image-set/admission/independence. This is review of the scoped monograph, not new primary reading or a reconstruction grade.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`current-monograph` — Barton: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_BARTON_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="beldia"></a>
 
 ### Beldia
@@ -362,6 +384,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - `scoped-source-boundary`: LIGHT_NOVEL OTHER: Monograph's declared source boundary: Known EXP01 consultation/pursuit/magic, EXP02 patrol/Arnes attribution, MAIN05 introduction/transport/display and MAIN14 guard/leisure/blame. Shared C21 preparation3154 known BASE slots/20members/5objects and3actual prior images is context, not personal events, new admission or independent validation. This is review of the scoped monograph, not new primary reading or a reconstruction grade.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`current-monograph` — Bukkorori: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_BUKKORORI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="chekera"></a>
+
+### Chekera
+
+- Entity ID: `konosuba:chekera`
+- Entity aliases:
+  - ちぇけら (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped current monograph
+
+- Analysis subject ID: `konosuba:chekera@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-source-boundary`: LIGHT_NOVEL OTHER: Monograph's declared source boundary: 1149sharedknownBASE/7members/4objects, ownclothier work encounters and source-specific attributedcomparisons. No newwhole-source/ruby/residual/imageset/admission/independence; no model or cases. This is review of the scoped monograph, not new primary reading or a reconstruction grade.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`current-monograph` — Chekera: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_CHEKERA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="chomusuke"></a>
 
@@ -1227,6 +1271,29 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`bounded-monograph` — Metal Mōrā: bounded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+<a id="mitsurugi-kyouya"></a>
+
+### Mitsurugi Kyouya
+
+- Entity ID: `konosuba:mitsurugi-kyouya`
+- Entity aliases:
+  - ミツルギ・キョウヤ (ja, ALTERNATIVE) — Katakana reading given in reference material for the same subject.
+  - 御剣響夜 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped current monograph
+
+- Analysis subject ID: `konosuba:mitsurugi-kyouya@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-source-boundary`: LIGHT_NOVEL OTHER: Monograph's declared source boundary: 5026sharedknownBASE/35members/19objects plus5referenceimages, not personal decisions/newwhole-edition/ruby/residual/imageset/admission/independence. MAIN/Dust story evidence, FDnovelization, redo and reference planes explicit; future discovery must not merge their histories. Coverage here is the main/Dust plane only; Fantastic Days novelization, redo and reference planes are excluded. This is review of the scoped monograph, not new primary reading or a reconstruction grade.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`current-monograph` — Mitsurugi Kyouya: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MITSURUGI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="okina"></a>
 
 ### Okina
@@ -1337,6 +1404,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Pickles: bounded expanded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_PICKLES_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+<a id="pucchin"></a>
+
+### Pucchin
+
+- Entity ID: `konosuba:pucchin`
+- Entity aliases:
+  - ぷっちん (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped current monograph
+
+- Analysis subject ID: `konosuba:pucchin@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-source-boundary`: LIGHT_NOVEL OTHER: Monograph's declared source boundary: Shared3992knownBASE/22members/7textobjects plus1FAN-MEMpage/eighthobject; context/negative retrieval are not personal decisions, no new whole-source/ruby/image-set/admission/independence. This is review of the scoped monograph, not new primary reading or a reconstruction grade.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`current-monograph` — Pucchin: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_PUCCHIN_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="ragcraft"></a>
 
 ### Ragcraft
@@ -1402,6 +1491,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - `bounded-source-study`: LIGHT_NOVEL OTHER: MAIN01 U013 P119–161 opening transfer and bounded MAIN15 U012 P85–93/U015 P176–185 later recruitment report. Office-continuity identity is supported; Aqua’s protest, future promises and reported truthful risk disclosure remain separate, with no universal wish power or other-angel join. This is review of the source-bound monograph, not a new primary reading, independent trial or reconstruction grade.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`bounded-monograph` — Replacement transfer angel: bounded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_TRANSFER_ANGEL_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="rex"></a>
+
+### Rex
+
+- Entity ID: `konosuba:rex`
+- Entity aliases:
+  - レックス (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped current monograph
+
+- Analysis subject ID: `konosuba:rex@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-source-boundary`: LIGHT_NOVEL OTHER: Monograph's declared source boundary: 1556 known BASE context slots/six members/twoobjects; four complete EXP03 BASE members and two partial CONTEXP02 members. No new full ruby/image/whole-source/admission/independent credit. This is review of the scoped monograph, not new primary reading or a reconstruction grade.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`current-monograph` — Rex: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_REX_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="rosary"></a>
 
@@ -1566,6 +1677,29 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`scoped-cohort-monograph` — Siegwald: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_SIEGWALD_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+<a id="soketto"></a>
+
+### Soketto
+
+- Entity ID: `konosuba:soketto`
+- Entity aliases:
+  - Socket (en, ALTERNATIVE) — English rendering used in accepted reports for the same fortune-teller.
+  - そけっと (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped current monograph
+
+- Analysis subject ID: `konosuba:soketto@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-source-boundary`: LIGHT_NOVEL OTHER: Monograph's declared source boundary: Shared C21 3154 known BASE slots/20members/5objects plus3actual prior image rechecks, with particular forest/consultation and qualified reported/tourist return. Context is not personal decisions or a fresh whole-source/ruby/admission/independent pass. This is review of the scoped monograph, not new primary reading or a reconstruction grade.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`current-monograph` — Soketto: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_SOKETTO_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="stella"></a>
 
 ### Stella
@@ -1587,6 +1721,50 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - `scoped-cohort-48`: LIGHT_NOVEL OTHER: Bounded synthesis of MAIN16 U012 P138–249, her first-person focalized account of the failed descent (complete chapter with its predecessor and interludes): remembered mapping and overconfidence, appraisal under pursuit, the corrected reproach of Gain, the warning to Vanir, the rescue, the supply purchase and her mistaken divine explanation of Vanir. This is monograph review, not new whole-book primary reading.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`scoped-cohort-monograph` — Stella: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_STELLA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="sylphina"></a>
+
+### Sylphina
+
+- Entity ID: `konosuba:sylphina`
+- Entity aliases:
+  - ダスティネス・フォード・シルフィーナ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped current monograph
+
+- Analysis subject ID: `konosuba:sylphina@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-source-boundary`: LIGHT_NOVEL OTHER: Monograph's declared source boundary: Shared cohort29 preparation:68 source-known windows,6730 unique BASE slots,40 members,18 objects and14 complete BASE members, with bibliographic/creator-afterword planes separate. This actor’s actual windows and access are bounded by the retained monograph and its individual index; no personal-event denominator, new whole-source/ruby/image/admission or independent credit. This is review of the scoped monograph, not new primary reading or a reconstruction grade.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`current-monograph` — Sylphina: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_SYLPHINA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="sylvia"></a>
+
+### Sylvia
+
+- Entity ID: `konosuba:sylvia`
+- Entity aliases:
+  - シルビア (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped current monograph
+
+- Analysis subject ID: `konosuba:sylvia@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-source-boundary`: LIGHT_NOVEL OTHER: Monograph's declared source boundary: 2122sharedknownBASE/35windows/19members/9objects; concentrated MAIN05 and earlier attributed MASKfight; no newwhole-source/ruby/residual/imageset/admission/independence, no model/cases. This is review of the scoped monograph, not new primary reading or a reconstruction grade.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`current-monograph` — Sylvia: qualified current monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_SYLVIA_QUALIFIED_CURRENT_MONOGRAPH_01.md) — **active provisional authority**
 
 <a id="tia"></a>
 
@@ -1697,6 +1875,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - `scoped-source-boundary`: LIGHT_NOVEL OTHER: Monograph's declared source boundary: Source-informed scoped reconstruction after Vanir cohort03 closure; seven complete accepted MASK BASE-TEXT units and bounded MAIN04 native rechecks with separately identified derivative/late routes This is review of the scoped monograph, not new primary reading or a reconstruction grade.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`current-monograph` — Wiz: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_WIZ_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="wolbach"></a>
+
+### Wolbach
+
+- Entity ID: `konosuba:wolbach`
+- Entity aliases:
+  - ウォルバク (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped current monograph
+
+- Analysis subject ID: `konosuba:wolbach@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-source-boundary`: LIGHT_NOVEL OTHER: Monograph's declared source boundary: Shared C17 3093 known BASE slots/20members/7objects plus8actually inspected EXP03 integral prose images with visible ruby. Source-known text/reports/retellings remain typed; no independent observations or new whole-source/Japanese adequacy credit. This is review of the scoped monograph, not new primary reading or a reconstruction grade.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`current-monograph` — Wolbach: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_WOLBACH_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="wolfgang-crow"></a>
 
@@ -1896,6 +2096,28 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`bounded-monograph` — Yorimichi 4 succubus worker: bounded character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_YORIMICHI04_SUCCUBUS_WORKER_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+<a id="yuiyui"></a>
+
+### Yuiyui
+
+- Entity ID: `konosuba:yuiyui`
+- Entity aliases:
+  - ゆいゆい (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped current monograph
+
+- Analysis subject ID: `konosuba:yuiyui@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-source-boundary`: LIGHT_NOVEL OTHER: Monograph's declared source boundary: Shared3992knownBASE/22members/7textobjects plus1FAN-MEMpage/eighthobject; context/negative retrieval are not personal decisions, no new whole-source/ruby/image-set/admission/independence. This is review of the scoped monograph, not new primary reading or a reconstruction grade.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`current-monograph` — Yuiyui: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_YUIYUI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="yunyun"></a>
 
 ### Yunyun
@@ -1917,3 +2139,26 @@ Reviewed analysis subjects in the `konosuba` namespace of the [Character Analysi
   - `scoped-source-boundary`: LIGHT_NOVEL OTHER: Monograph's declared source boundary: Accepted main17 principal histories and completed supplemental analysis; bounded actual native rechecks through MAIN08 excluded-component closure This is review of the scoped monograph, not new primary reading or a reconstruction grade.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`current-monograph` — Yunyun: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_YUNYUN_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="zereschilt"></a>
+
+### Zereschilt
+
+- Entity ID: `konosuba:zereschilt`
+- Entity aliases:
+  - 残虐公 (ja, ALTERNATIVE) — Nickname in MAIN12, also used in his own Dust7 introduction; source-specific title forms vary.
+  - ゼーレシルト (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Original light-novel continuity, scoped current monograph
+
+- Analysis subject ID: `konosuba:zereschilt@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `scoped-source-boundary`: LIGHT_NOVEL OTHER: Monograph's declared source boundary: Shared cohort29 preparation:68 source-known windows,6730 unique BASE slots,40 members,18 objects and14 complete BASE members, with bibliographic/creator-afterword planes separate. This actor’s actual windows and access are bounded by the retained monograph and its individual index; no personal-event denominator, new whole-source/ruby/image/admission or independent credit. This is review of the scoped monograph, not new primary reading or a reconstruction grade.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`current-monograph` — Zereschilt: scoped character monograph](../../series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_ZERESCHILT_CHARACTER_MONOGRAPH.md) — **active provisional authority**
