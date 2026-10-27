@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 22
+- Recorded totals: `CANDIDATE` 24
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -175,6 +175,59 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 - Evidence at basis commit:
   - [`konosuba:mammon@original-light-novel#scoped-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c1ce63553e42527cebd7e6e4a665429c69619c88/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MAMMON_CHARACTER_MONOGRAPH.md)
 
+### Subject `konosuba:megumin@original-light-novel`
+
+#### Assessment `konosuba-megumin-ln-main17-expanded-staged-20261027-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:megumin`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only the three REVIEWED items curated on konosuba:megumin@original-light-novel at basis\_commit, each read in full: \#main-principal-monograph \(the active\_provisional main-only MAIN01-MAIN17 monograph, with paragraph-level locators and the CP06 M01-M06 and J01 adjudications it reports\), \#expanded-monograph \(the active\_provisional EXPANDED\_V1 monograph over the Explosions 01-03 prequels, Continued Explosions 01-02, the game-derived Fantastic Days novel and individually dispositioned artbook, comic and TRPG components\) and \#stage-d-principal-model \(the active\_provisional POST\_VALIDATION\_STAGE\_D\_V1 reconstruction specification with its four SD1 working commitments\). The KonoSuba CURRENT\_STATE\_AND\_CORPUS\_MAP.md was read for method, authority order and gate state only. The MAIN\_ONLY\_R1 model, the executed 90-first suite and its diagnostic report, the core freeze, the model-evidence matrix, the extended synthesis, the sequential readings, ledgers, checkpoints, the voice sheet and the Japanese EPUBs are not curated evidence on this subject and nothing is borrowed from them; outcomes the monographs themselves report \(for example CP06 M02 CONFIRMED, M05 AMBIGUOUS\) are read as reported, and the model's MODERATE and LOW labels are inputs, not conclusions. Holdout, adaptation and post-MAIN17 material is excluded, and the evaluator performed no primary-source inspection.
+- Temporal boundary: The main sequence from MAIN01 recruitment \(C1P461-482\) through the MAIN17 ending and gift \(FP734-740\), plus prequel slices in the Crimson Demon village \(Explosions 01-03\) and the separately provenanced Continued Explosions 01-02 and Fantastic Days episodes, each kept as its own slice; the expanded books were read after main and holdout exposure, so they qualify the account but are not prospective tests, and prequel narration grants no later relationship knowledge. The model has no single default state and requires chronology, state, means and decision interval to be specified first. No state after MAIN17 is established and no in-world dates are fixed.
+- Basis commit: `e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `3539257342d696dadaf99629f52a4d1cad93e949db79cd3e7a1f3941d452f701`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Short, situated turns in a named phase and attested relationship, with chronology, mode, state and audience specified first.
+  - `DIALOGUE` condition: Polite structure is used for its function \(technical explanation, dramatic introduction, rebuttal, reluctant request, refusal, responsibility admission\), never as a deference or kindness switch.
+  - `DIALOGUE` condition: No compulsory chant, catchphrase, destructive ending or status insult in a neutral exchange; a spell name or ritual is not a completed cast.
+  - `DIALOGUE` condition: Output is labeled noncanonical, written only, and makes no acoustic or native-voice claim.
+  - `CROSS_SCENARIO` condition: The probe states chronology, state, means, target and provider permissions and keeps desire, attempt, execution, recovery and aftermath as separate stages.
+  - `CROSS_SCENARIO` condition: Under grave collateral or relational risk, rival outcomes are prebound and neither restraint nor casting is predicted \(SD1-M04 OPEN\).
+  - `CROSS_SCENARIO` condition: In transfer, magic is removed without inventing weapons, explosives or professional expertise; any analogous cherished craft must be supplied and carries lower mapping confidence.
+  - `CROSS_SCENARIO` condition: Companions keep their own information, skills and refusals; no relationship endpoint beyond MAIN17 is assumed.
+  - `CROSS_SCENARIO` bounds: chronology One named slice: a prequel phase in the Crimson Demon village \(Explosions 01-03\), a Continued Explosions or Fantastic Days episode as its own slice, or a main-sequence phase from MAIN01 recruitment to the MAIN17 ending; never after MAIN17, and prequel slices without later relationship knowledge.; interlocutor Attested relations in their phase-appropriate state: Kazuma as carrier, companion and negotiated partner, Yunyun as rival and friend, Darkness, Aqua, Iris, Komekko, Wolbach as teacher-linked target, or strangers as audience, client or opponent without fabricated shared history.; settings Source-world adventuring, village, household or royal settings of the admitted main and expanded slices; A supplied realistic transfer setting with magic removed and no substitute weapons or expertise; Finite mana, bodily depletion and provider dependence retained; Open domains, including grave-risk priority and post-MAIN17 states, end in abstention
+  - `MUNDANE_SOCIAL` condition: Scenes of attested kinds: cooking and gathering, small household economies, family care, rivalry visits, the daily cast and walk, gifts.
+  - `MUNDANE_SOCIAL` condition: No favorite food, schedule or domestic routine beyond what is located; scarcity explains resource attention without making every expenditure prudent.
+  - `MUNDANE_SOCIAL` condition: A minor criticism is not treated as denial of her art, and a neutral task contains no compulsory cast.
+  - `ETHICAL_DELIBERATION` condition: Only for a self-accepted contribution burden with a known feasible alternative, or an explicitly accepted responsibility with a received explanation and real alternative.
+  - `ETHICAL_DELIBERATION` condition: Meaningful consideration is expected, not actual purchase, permanent reform or a guaranteed outcome.
+  - `ETHICAL_DELIBERATION` condition: External prevention is never scored as voluntary restraint, and later rescue or praise never authorizes an earlier start.
+  - `ETHICAL_DELIBERATION` condition: Grave-risk choices are not predicted in either direction.
+  - `ROMANCE_RELATIONSHIP` condition: Toward Kazuma only, in a named main-series phase, with the step reached by then \(V09 reciprocal liking, V11 proposal, V12 accepted intermediate relation, V16 private advance\).
+  - `ROMANCE_RELATIONSHIP` condition: No marriage, completed sex, stable exclusive household or universal consent is assumed; consent is specific to a moment and act.
+  - `ROMANCE_RELATIONSHIP` condition: Darkness and Iris remain rivals and companions in their own right, and Ragcraft's impersonation is not Megumin's conduct.
+  - `ROMANCE_RELATIONSHIP` condition: No romance is imported into prequel slices.
+  - `PROFESSIONAL_CONTEXT` condition: Party or small-group adventuring, leadership of the Continued Explosions kind, or item identification and practical reasoning; no institutional command.
+  - `PROFESSIONAL_CONTEXT` condition: Mana, transport, target separation and recovery are supplied by named providers before the act and are never reconstructed from a successful blast.
+  - `PROFESSIONAL_CONTEXT` condition: Successful damage does not certify a prepared safe operation, and sole authorship of a distributed victory is not assigned.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `bonded-target-transfer-single-case` (evidence-backed limitation): Target-specific friction rests on the Wolbach episode; CP06 M04 is NOT\_TESTED in V16-V17, and a bonded opponent differs from a companion at collateral risk or an animal used as a shield.
+  - `expanded-slices-source-known` (evidence-backed limitation): The expanded books were read after main and holdout exposure; they qualify the account but are not prospective tests, fourteen holdout contracts were untested, and prequel narration grants no later relationship knowledge.
+  - `external-prevention-not-restraint` (evidence-backed limitation): Several apparent stops are other people's acts \(Darkness catching her at V17 C1P185, Yunyun catching the cat in EXP02, a crowd disarming her in Fantastic Days\); they are not evidence of voluntary inhibition.
+  - `grave-risk-selector-open` (evidence-backed limitation): The priority under known grave collateral danger, art reward and a valued shield promise is OPEN in the model \(SD1-M04\); the formal CP06 M05 result is AMBIGUOUS and M06 PARTIAL, while EXP02 and MAIN17 C3P425-438 prevent any universal affection brake.
+  - `model-diagnostic-not-accuracy` (evidence-backed limitation): The Stage D commitments are source-known diagnostic working generalizations requiring prebound premises; the model states that no plausible generated answer earns independent accuracy, VERY\_HIGH fidelity or a numerical moral-development level.
+  - `relationship-endpoints-unestablished` (evidence-backed limitation): No marriage, completed sex or stable exclusive household is established with Kazuma; Kazuma's V05 point allocation was against Megumin's stated intention and later joy does not convert it into prior consent.
+  - `safe-artillery-preparation-untested` (evidence-backed limitation): CP06 M03 is NOT\_TESTED: a fully prepared operation with safe friendly geometry, resources and exit or recovery planning is not established, and successful damage or a later carry does not supply it.
+  - `source-local-components` (evidence-backed limitation): Fantastic Days is game-derived, the artbook dungeon wish is an attributed imagined preference, and the TRPG Crimson Mage sample sheets are source-local personas; none adds biography, learned skills or audio evidence.
+  - `uncurated-suite-readings-and-later-material` (evidence gap): The executed suite, diagnostic report, core freeze, evidence matrix, MAIN\_ONLY\_R1 model, readings, ledgers, checkpoints and sources are not curated on this subject and were not assessed, and holdout, adaptation and post-MAIN17 material is outside the boundary; missing support is not evidence that any trait or capacity is absent.
+- Evidence at basis commit:
+  - [`konosuba:megumin@original-light-novel#expanded-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MEGUMIN_EXPANDED_CHARACTER_MONOGRAPH_V1.md)
+  - [`konosuba:megumin@original-light-novel#main-principal-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MEGUMIN_CHARACTER_MONOGRAPH.md)
+  - [`konosuba:megumin@original-light-novel#stage-d-principal-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da/series/konosuba/06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_MEGUMIN_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md)
+
 ### Subject `konosuba:ozuma@original-light-novel`
 
 #### Assessment `konosuba-ozuma-ln-yori01-u024-monograph-20261025-01`
@@ -224,6 +277,38 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `uncurated-corpus-and-living-era` (evidence gap): No narrated scene of his living life, no project reconstruction model and no uncurated readings, ledgers or Japanese source inform this assessment; missing support is not evidence that any trait or capacity is absent.
 - Evidence at basis commit:
   - [`konosuba:pickles@original-light-novel#expanded-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2f77b3877760403413fd45de6564ce018cedaf66/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_PICKLES_CHARACTER_MONOGRAPH.md)
+
+### Subject `konosuba:vanir@original-light-novel`
+
+#### Assessment `konosuba-vanir-ln-mask-main17-monograph-20261027-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:vanir`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only konosuba:vanir@original-light-novel\#current-monograph, the active\_provisional SECONDARY\_VANIR\_EXPANDED\_V1 monograph at basis\_commit, read in full as reviewed repository analysis of accepted main and supplemental histories through the MAIN17 excluded-component closure, with seven MASK BASE-TEXT units and bounded MAIN07 joins rechecked by its author. The KonoSuba CURRENT\_STATE\_AND\_CORPUS\_MAP.md was read for method, authority order and scope only. The linked KONOSUBA\_VANIR\_RECONSTRUCTION\_MODEL.md, the Vanir evidence index, the readings, ledgers, reports and the Japanese source are not curated evidence on this subject and nothing is borrowed from them; the monograph's own 'scoped Tier 3 reconstruction candidate' label is an input, not a conclusion. No exhaustive appearance census, image, audio or primary-source inspection is included.
+- Temporal boundary: Separate episode families kept apart: the MASK human-Wiz origin encounter, the MAIN03 dungeon possession and lost life, the MAIN04 commercial proposal, the MAIN07 financing and Alderp collection, the MASK shop, guild, royal-outing and succubus episodes, and later main, Dust and Yorimichi boundary checks through MAIN17. Publication order is not in-world date, no default present state is fixed, and the number of remaining lives, the completed dungeon and any announced future restitution or punishment are outside this assessment.
+- Basis commit: `e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `50674803ad34a77ae3addcaf4da2b585bde29c168cc4dd49120308242dd96dcc`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology Any one named episode family \(MASK origin, MAIN03, MAIN04, MAIN07, MASK shop episodes or later boundary checks through MAIN17\); the NOT\_READY judgment holds for each, and no later state is assumed.; interlocutor Attested relations only: Wiz, Kazuma, Maxwell, Alderp, Iris, Luna, Yunyun, Leen, the succubi and Aqua, each in its located mix of service, leverage, attachment and antagonism.; settings Source-world shop, guild, dungeon, noble household or royal settings, or a realistic brokerage transfer without supernatural surveillance; No completed dungeon, counted lives or performed future restitution
+  - `PROFESSIONAL_CONTEXT` condition: Merchant brokerage, shop pricing or financing negotiation of the narrated kinds only.
+  - `PROFESSIONAL_CONTEXT` condition: Foresight is limited, can be blocked or left unused, and is never treated as omniscience; without a privileged channel he must infer, ask or bluff.
+  - `PROFESSIONAL_CONTEXT` condition: Effective help can be costly to the counterpart and rewarding to him at once; presumptive handling is not prior permission.
+  - `PROFESSIONAL_CONTEXT` condition: Wiz, clients and officials keep their own skills, refusals and costs.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `announced-not-performed` (evidence-backed limitation): The completed dungeon, the whole punishment of Alderp and every forecast restitution are announced rather than performed, and seeking the court job does not show an appointment.
+  - `first-person-accounts-attributed` (evidence-backed limitation): The origin episode is Wiz's first person and the MAIN07 interlude Alderp's; neither grants access to Vanir's private calculations, and his own accounts remain attributed.
+  - `foresight-bounded` (evidence-backed limitation): His foresight is not omniscience: he says he does not see everything, divine light blocks a search, available sight can be deliberately unused, and Kazuma's belief that he need not read the documents is an interpretation.
+  - `help-is-not-consent` (evidence-backed limitation): Assistance can be effective, costly to the recipient and self-rewarding at once; the MAIN07 presumptive handling, possession and imposed terms remain coercive whatever the later gratitude, and Wiz cannot forgive on others' behalf.
+  - `lives-and-body-states-uncounted` (evidence-backed limitation): Mask, constructed body, possessed host and reconstituted manifestation are one subject; body collapse, a cracked mask, nearly losing a life and an explicit lost life are different observations, and no present reserve of lives is inferred.
+  - `motive-ranking-unresolved` (evidence-backed limitation): The reviewed episodes do not isolate attachment from provider dependence, contractual pride from reputational interest, or pleasure from profit under forced tradeoffs.
+  - `no-supernatural-transfer` (evidence-backed limitation): A realistic transfer must not acquire actual supernatural surveillance because a canonical line sounds confident.
+  - `uncurated-model-index-and-corpus` (evidence gap): The linked reconstruction model, the Vanir evidence index, readings, ledgers and the Japanese source are not curated on this subject and were not assessed; missing support is not evidence that any trait or capacity is absent.
+- Evidence at basis commit:
+  - [`konosuba:vanir@original-light-novel#current-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_VANIR_CHARACTER_MONOGRAPH.md)
 
 ### Subject `mass-effect:commander-shepard@paragon-player-archetype`
 
