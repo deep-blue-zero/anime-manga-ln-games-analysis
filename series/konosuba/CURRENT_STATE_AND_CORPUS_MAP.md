@@ -1,5 +1,24 @@
 ---
 series: KONOSUBA
+artifact_type: historical_corpus_map_wrapper
+generation: FIXED41_RELEASE_V1
+status: superseded
+source_boundary: Complete prior working map retained verbatim as historical provenance; the current reader guide governs the
+  released boundary.
+supersedes: []
+superseded_by:
+- series/konosuba/00_README_AND_CORPUS_MAP.md
+do_not_use_as_current_authority: true
+---
+
+# Historical working map and current route
+
+Use the [KonoSuba reader guide](00_README_AND_CORPUS_MAP.md) and its release audit for the current analytical boundary. The complete previous working map follows verbatim. Its dates, pending states and operating instructions retain their historical scope.
+
+<!-- Complete preserved prior working map follows. -->
+
+---
+series: KONOSUBA
 artifact_type: corpus_map
 scope: FULL_FIXED41_MAIN_AND_EXPANDED_CORPUS
 generation: V1

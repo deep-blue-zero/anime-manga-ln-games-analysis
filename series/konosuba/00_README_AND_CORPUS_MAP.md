@@ -1,37 +1,39 @@
 ---
 series: KONOSUBA
-artifact_type: preparatory_reader_guide
-scope: CURRENT_ROUTING_PREPARATION_FOR_FIXED41_PROGRAM_ONLY
-generation: FIXED41_ROUTING_BOOTSTRAP
-status: active_provisional
-source_boundary: Current provisional routing and reader preparation over the accepted fixed41 program; the original CURRENT_STATE_AND_CORPUS_MAP remains the canonical working map. No final release or reciprocal retirement is effective at this stage.
-supersedes: []
+artifact_type: corpus_map
+scope: FULL_FIXED41_MAIN_AND_EXPANDED_CORPUS
+generation: FIXED41_RELEASE_V1
+status: canonical
+source_boundary: Fixed collection of 41 supplied EPUBs at declared source and component scopes, with separately joined current
+  discovery and provisional capability decisions. Release effectiveness follows actual containing source/main gates.
+supersedes:
+- series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md
 superseded_by: []
 do_not_use_as_current_authority: false
 project_initialization:
   status: canonical
-  architecture_lifecycle: EVOLVING
+  architecture_lifecycle: STABILIZED
   governing_method: 00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md
   synthesis_architecture: 00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md
   method_status: canonical
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
-  sequential_analysis_lock: open
-  next_permitted_operation: FINAL_CURATION_BOUNDED_EVALUATION_OWNER_CALIBRATION_PUBLICATION_AND_RELEASE
+  sequential_analysis_lock: OPEN
+  next_permitted_operation: NONE
 sequential_execution:
   mode: continuous_sequential
   unit_type: analytical_responsibility
   authorized_start: V11
   terminal_boundary: V17
   committed_high_water_mark: V17
-  next_candidate_operation: FINAL_CURATION_BOUNDED_EVALUATION_OWNER_CALIBRATION_PUBLICATION_AND_RELEASE
+  next_candidate_operation: NONE
   confirmation_between_units: false
-  run_state: active
+  run_state: completed
 ---
 
-# KonoSuba: provisional routing and reader preparation
+# KonoSuba: reader guide and corpus map
 
-**Provisional reader guide.** The [original working corpus map](CURRENT_STATE_AND_CORPUS_MAP.md) remains the canonical working map; this current reader accompanies it without superseding it. The [release audit](09%20Audits%20and%20Manifests/KONOSUBA_FINAL_RELEASE_AUDIT_V1.md) records analytical responsibilities and retained limits, and the [manifest](09%20Audits%20and%20Manifests/KONOSUBA_FINAL_RELEASE_MANIFEST_V1.json) identifies this bounded preparatory snapshot.
+This corpus develops evidence-grounded accounts of KonoSuba’s characters, relationships, comic mechanisms and Japanese-language presentation across the fixed collection of 41 supplied EPUBs. Start with the integrated literary argument, then follow its source-specific evidence and reconstruction limits. The [release audit](09%20Audits%20and%20Manifests/KONOSUBA_FINAL_RELEASE_AUDIT_V1.md) records the actual author, authority, curation, evaluation and integration decisions; the [release manifest](09%20Audits%20and%20Manifests/KONOSUBA_FINAL_RELEASE_MANIFEST_V1.json) identifies the exact analytical snapshot. Neither document turns a provisional behavioral model into a validated imitation of a person.
 
 ## Reading routes
 
@@ -78,6 +80,6 @@ Use the [synthesis architecture](00%20Frameworks%20and%20Methods/KONOSUBA_SYNTHE
 
 During CALIBRATION, capability publications are provisional CANDIDATE assessments and the owner reviews and merges every such publication. A passing repository audit establishes repository integrity at an exact commit; it does not establish human review, behavioral accuracy, native-human or acoustic validation, or mature confidence. The release audit records the actual bounded evaluation batch, its evidence basis, explicit retained backfill dispositions and the integrated outcome. Unassessed subjects receive no invented production records.
 
-The bounded snapshot remains retrievable through its manifest and Git history. The snapshot preserves each artifact’s existing source, authority and freeze scope; it does not grant broader evidentiary authority to rules, adaptations, reports, alternate branches or generated diagnostics. Original hard-frozen models, forecasts, firsts, scores, blank fields and nulls remain protected. Later substantive work requires an attributable version and the applicable authorization and publication gates.
+The exact release snapshot remains retrievable through its manifest and Git history. The snapshot preserves each artifact’s existing source, authority and freeze scope; it does not grant broader evidentiary authority to rules, adaptations, reports, alternate branches or generated diagnostics. Original hard-frozen models, forecasts, firsts, scores, blank fields and nulls remain protected. Later substantive work requires an attributable version and the applicable authorization and publication gates.
 
-The original working corpus map remains the canonical map. This guide does not supersede it or authorize source admission or another sequential run.
+The superseded working corpus map remains a historical route. Its dated instructions and pending labels describe their original snapshots. This reader guide and the actual release audit govern the released boundary; they do not reopen source admission or authorize another sequential run.
