@@ -1,3 +1,22 @@
+---
+series: "KONOSUBA"
+artifact_type: "character_monograph"
+character: "Charlie"
+scope: "CHARLIE_CURRENT_AUTHORITY_20261026"
+status: "active_provisional"
+source_boundary: "Fantastic Days Japanese novelization ONLY, selective PartOne adaptation;3707knownBASE/15complete positive-P members/33deliveries/one admittedlocalobject, 3645narrative62nonfiction. Original ruby/residual/15image admission separate, no newgame/main continuity or newsource/independent credit."
+authority_review_basis_commit: "c5a176928f08aac6a445af355e57a8b3f6d7cc58"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+authority_preserved_original_argument_sha256: "3cb24fc04d16a487d01d80348a2e35be6da81682d8f7243f45e0705e4bb6b232"
+authority_current_argument_sha256: "3cb24fc04d16a487d01d80348a2e35be6da81682d8f7243f45e0705e4bb6b232"
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+> Authority adoption notice: This administrative current-public derivative retains the complete previously published argument below without changing any analytical byte. Its original SHA-256 is `3cb24fc04d16a487d01d80348a2e35be6da81682d8f7243f45e0705e4bb6b232`.
+> The original private foundation and every original tested model, rule, input, first response, defect, score and null remain at their recorded boundaries. Historical authorship-time or publication-pending statements below remain attributable history. Current provisional use is governed by the paired [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.md) and [record](../09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.json). This adoption adds no source admission, whole-source/ruby/image reading, new model or test, capability grade, maturity, independent validation or confidence gain.
+
 # Charlie: selective attachment, subordinate judgment and coercive fandom
 
 Status: scoped Tier 2 monograph for チャーリー in the Japanese Fantastic Days novelization. The [cohort 30 index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md) owns shared source access and exact loci. Charlie has enough differentiated action for an individual interpretation. His broader ordinary-life behavior and novel-context mechanisms remain too concentrated and confounded to justify a dedicated reconstruction model in this cohort. This is an evidence decision, not a permanent ceiling for antagonists or supporting characters.

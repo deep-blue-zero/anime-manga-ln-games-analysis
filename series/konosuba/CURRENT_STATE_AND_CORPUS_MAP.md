@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_FIXED41_MAIN_AND_EXPANDED_CORPUS
 generation: V1
 status: canonical
-source_boundary: Fixed 41 author package and the 32-monograph authority tranche published and verified; earlier 35 authority decisions and sealed C20 qualified successors pending containing publication; original 77 model bodies and 90 firsts retained; designated curation/evaluation and conditional release remain; percentage null
+source_boundary: Fixed 41 author package and the 35-monograph authority tranche published and main-verified; remaining 16 authority decisions and 77-file reconstruction authority audit pending containing publication; accepted public model files and original 90 firsts retained; final curation,bounded evaluation,owner calibration publication and release remain; percentage null
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,14 +17,14 @@ project_initialization:
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
   sequential_analysis_lock: open
-  next_permitted_operation: AUTHORITY_RECONCILIATION_CURATION_EVALUATION_AND_RELEASE
+  next_permitted_operation: FINAL_CURATION_BOUNDED_EVALUATION_OWNER_CALIBRATION_PUBLICATION_AND_RELEASE
 sequential_execution:
   mode: continuous_sequential
   unit_type: analytical_responsibility
   authorized_start: V11
   terminal_boundary: V17
   committed_high_water_mark: V17
-  next_candidate_operation: AUTHORITY_RECONCILIATION_CURATION_EVALUATION_AND_RELEASE
+  next_candidate_operation: FINAL_CURATION_BOUNDED_EVALUATION_OWNER_CALIBRATION_PUBLICATION_AND_RELEASE
   confirmation_between_units: false
   run_state: active
 ---
@@ -45,7 +45,7 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 
 <!-- CURRENT_OPERATION_START -->
 
-**Current phase: scoped authority reconciliation and designated curation/evaluation; final release remains conditional.** Seven expanded specialists, the extended synthesis and six distinct provisional Stage D cores retain closed exact author gates through `9b3cc94f7575ccbc96c493b7c68ae79dd2556dbf`. The [Stage D gate](09%20Audits%20and%20Manifests/KONOSUBA_POST_VALIDATION_STAGE_D_AUTHOR_PUBLICATION_GATE_CLOSE_01.json) records the complete 10,411-path index/remote tree, 29 changed streams, 1,798 reloaded project bodies and its own 479-test audit 40280071856, with every discovered ID and all five non-success categories verified. Do not repeat source admission, the completed broader audit, ledger consolidation, specialist authorship or the actual battery of 90 first responses.
+**Current phase: final authority adoption and designated curation/evaluation; release remains conditional.** Seven expanded specialists, the extended synthesis and six distinct provisional Stage D cores retain closed exact author gates through `9b3cc94f7575ccbc96c493b7c68ae79dd2556dbf`. The [Stage D gate](09%20Audits%20and%20Manifests/KONOSUBA_POST_VALIDATION_STAGE_D_AUTHOR_PUBLICATION_GATE_CLOSE_01.json) records the complete 10,411-path index/remote tree, 29 changed streams, 1,798 reloaded project bodies and its own 479-test audit 40280071856, with every discovered ID and all five non-success categories verified. Do not repeat source admission, the completed broader audit, ledger consolidation, specialist authorship or the actual battery of 90 first responses.
 
 The [full-series synthesis](07%20Full-Series%20Synthesis/KONOSUBA_FULL_SERIES_SYNTHESIS.md), [current 27-contract evidence matrix](08%20Evidence%20and%20Indexes/KONOSUBA_POST_VALIDATION_MODEL_EVIDENCE_MATRIX_V1.md), [18 claim revisions](08%20Evidence%20and%20Indexes/KONOSUBA_POST_VALIDATION_CLAIM_REVISION_LEDGER_V1.md), [component-disposition audit](09%20Audits%20and%20Manifests/KONOSUBA_FULL_PROGRAM_COMPONENT_DISPOSITION_AUDIT_V1.md) and [cross-model consistency audit](09%20Audits%20and%20Manifests/KONOSUBA_POST_VALIDATION_CROSS_MODEL_CONSISTENCY_AUDIT_V1.md) are published and their [exact author gate](09%20Audits%20and%20Manifests/KONOSUBA_FULL_PROGRAM_AUTHOR_PUBLICATION_GATE_CLOSE_V1.json) is closed at `0d36d142698ad839135f81dd1d6ef7a2731b23bf` / tree `aeef1c5a45f75929541b4a04eb84479db4a6fa6b`: all 10,423 index/remote paths, 15 changed streams, 1,810 body reloads and its own complete 479-test audit `40288269475`, with every discovered ID, all five non-success categories, reporter, cleanup and latest trusted exact-source status verified. The component audit joins all 41 registers and receiving routes to 40 distinct published gates while preserving source-plane/reading limits and historical fields. These arguments and audits are performed work, not empty templates or future source passes.
 
@@ -59,7 +59,9 @@ Next, complete actual designated discovery/curation and capability evaluation, p
 
 The [deferred-monograph authority adoption](09%20Audits%20and%20Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.md) accepts 32 existing C44–48/C51–52 arguments as scoped active provisional interpretations, with exact original bodies retained below explicit authority/adoption prefixes. Angie and Dark Stalker visibly require C46-PFQ03/PFQ02; the initial overbroad injury/Heal and price/payment wording does not control current use. Explicitly immutable tested models remain separate, untouched work. The 32-monograph tranche is published at `78a00e4bed8b097751a0bee699c2b5b81c142b6e` and integrated at `f8ef62a1d007782ccb5d936f801264113514e363` with source/main audits 40413230808/40414209396, each 479 actual discovered IDs and all five non-success categories zero. Designated discovery remains artifact-specific; neither metadata nor document counts confer a tier, independent accuracy or global grade.
 
-The [earlier-monograph authority review](09%20Audits%20and%20Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.md) accepts 35 scoped interpretations: 23 existing papers with narrow administrative authority completion; eight substantial C28 current versions with 33 per-instance Kazuma reference corrections; two C18 current interpretations under explicit original-byte preservation; and two current Funifura/Dodonko successors applying C20-CR04. All12 original public papers and all private foundations remain exact. The medicine effect is attributed to Megumin’s preparation, with contextual Dodonko speech assignment; no medical production or cure credit follows. Ragcraft’s imitation remains separate from the real Kazuma’s conduct. This tranche awaits its own containing publication and designated curation. Original 77 model bodies,90 firsts, four scores and source-plane limits remain exact.
+The [earlier-monograph authority review](09%20Audits%20and%20Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.md) accepts 35 scoped interpretations: 23 existing papers with narrow administrative authority completion; eight substantial C28 current versions with 33 per-instance Kazuma reference corrections; two C18 current interpretations under explicit original-byte preservation; and two current Funifura/Dodonko successors applying C20-CR04. All12 original public papers and all private foundations remain exact. The medicine effect is attributed to Megumin’s preparation, with contextual Dodonko speech assignment; no medical production or cure credit follows. Ragcraft’s imitation remains separate from the real Kazuma’s conduct. The 35-monograph tranche is published at `c5a176928f08aac6a445af355e57a8b3f6d7cc58` and main-verified at `0eb1ca61aaad774d360bef1bba1bf80949e11363`, with complete source/main audits 40421656480/40422622514, each 479 actual discovered IDs and all five non-success categories zero. Its direct designated curation is a separate gate. Original 77 model bodies,90 firsts, four scores and source-plane limits remain exact.
+
+The [remaining-monograph adoption](09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.md) accepts 15 exact-argument administrative current derivatives and one separate substantial Sylvia paper under C25’s operative policy. The [final reconstruction authority and limits audit](09%20Audits%20and%20Manifests/KONOSUBA_FINAL_RECONSTRUCTION_AUTHORITY_AND_LIMITS_AUDIT_V1.md) preserves all 77 accepted public model files and distinguishes 40 native-current from 37 legacy versions. These counts are not people, grades or readiness. Vanir/Wiz/Yunyun initial private foundations remain distinct from their declared later public clarifications. Source qualifications, original firsts, adverse cases and OPEN selectors remain. This final authority tranche awaits its own containing publication; combined curation, bounded evaluation, owner-only calibration publication and release remain actual next gates.
 
 <!-- CURRENT_OPERATION_END -->
 
@@ -171,7 +173,7 @@ A later synthesis never licenses invented evidence. Exact wording, linguistic cl
 
 ## 12. Current next actions
 
-Publish and verify the earlier 35 authority tranche and its qualified C20 successors, then complete designated curation/evaluation using actual effective main evidence. Resolve remaining legacy authority dispositions without changing sealed models or original firsts. Preserve scores, blanks/nulls, source-plane limits and OPEN selectors. During CALIBRATION every assessment publication is owner-merged; human review is required only for a REVIEWED promotion at its exact ID, basis and evidence digest. Prepare the final release only from verified integrations and actual currentness; delegation does not supply human acceptance or an entrypoint rename.
+Complete designated curation against effective main after this 16-paper authority and 77-file audit gate, then rederive the evaluator’s queue and exact candidate currentness at that stable basis. Prepare the policy-priority bounded batch within unchanged publication controls and retain explicit substantive backfill dispositions. Only the owner personally reviews and merges assessment publications during CALIBRATION. After verified integration, establish actual applicability and complete the separately verified release transition. Provisional authority, complete source work and native checks do not supply human review or a release by themselves.
 
 No additional native source pass is requested by this current operation. If a concrete unresolved claim later requires one, use a bounded return or a separately gated source admission as appropriate, preserve informed exposure and original questions, and give actual text/ruby/residual/image receiving only its earned scope. The matrix/architecture retain natural-order and admission requirements. Git/audit receipts own publication identities; this map owns current phase and governing routes.
 

@@ -1,3 +1,22 @@
+---
+series: "KONOSUBA"
+artifact_type: "character_monograph"
+character: "Sylphina"
+scope: "SYLPHINA_CURRENT_AUTHORITY_20261026"
+status: "active_provisional"
+source_boundary: "Shared cohort29 preparation:68 source-known windows,6730 unique BASE slots,40 members,18 objects and14 complete BASE members, with bibliographic/creator-afterword planes separate. This actor’s actual windows and access are bounded by the retained monograph and its individual index; no personal-event denominator, new whole-source/ruby/image/admission or independent credit."
+authority_review_basis_commit: "c5a176928f08aac6a445af355e57a8b3f6d7cc58"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+authority_preserved_original_argument_sha256: "d4ed46a423abd82342a75eb216a2fac12d1193296882b27497f4b884220eda1b"
+authority_current_argument_sha256: "d4ed46a423abd82342a75eb216a2fac12d1193296882b27497f4b884220eda1b"
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+> Authority adoption notice: This administrative current-public derivative retains the complete previously published argument below without changing any analytical byte. Its original SHA-256 is `d4ed46a423abd82342a75eb216a2fac12d1193296882b27497f4b884220eda1b`.
+> The original private foundation and every original tested model, rule, input, first response, defect, score and null remain at their recorded boundaries. Historical authorship-time or publication-pending statements below remain attributable history. Current provisional use is governed by the paired [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.md) and [record](../09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.json). This adoption adds no source admission, whole-source/ruby/image reading, new model or test, capability grade, maturity, independent validation or confidence gain.
+
 # Sylphina: attachment, reciprocal care and a child's choices
 
 Status: initial scoped Tier2 monograph, with no separate reconstruction model or synthetic first-output exercise. SY29 in the [cohort29 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md) owns the native identity and source boundaries. The organizing question is what Sylphina herself wants, does and understands within the observed situations. Her illness and the adults' reactions provide context without replacing her agency.

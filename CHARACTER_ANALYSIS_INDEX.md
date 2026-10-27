@@ -37,7 +37,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 19 |
+| [`re-zero`](characters/index/re-zero.md) | 20 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
@@ -391,6 +391,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Raiden Shuga](characters/index/86-eighty-six.md#raiden-shuga) | 86 - Eighty-Six original light novels | `86-eighty-six:raiden-shuga@original-light-novels` | ライデン・シュガ |
 | [Rakuresu](characters/index/konosuba.md#rakuresu) | Original light-novel continuity, bounded expanded cohort | `konosuba:rakuresu@original-light-novel` | ラクレス |
 | [Ram](characters/index/re-zero.md#ram) | Re:Zero main light novel | `re-zero:ram@light-novel` | — |
+| [Regulus Corneas](characters/index/re-zero.md#regulus-corneas) | Re:Zero main light novel | `re-zero:regulus-corneas@light-novel` | — |
 | [Rei](characters/index/tokyo-7th-sisters.md#first-spirit-rei) | Tokyo 7th Sisters game | `tokyo-7th-sisters:first-spirit-rei@game` | — |
 | [Reiner Braun](characters/index/attack-on-titan.md#reiner-braun) | Attack on Titan manga | `attack-on-titan:reiner-braun@manga` | — |
 | [Reinhard](characters/index/re-zero.md#reinhard) | Re:Zero main light novel | `re-zero:reinhard@light-novel` | — |

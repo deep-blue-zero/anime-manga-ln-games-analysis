@@ -921,3 +921,36 @@ This tranche awaits its own containing publication and designated discovery; nei
 ```text
 Publish and verify the scoped 32-monograph authority adoption, then curate its effective main evidence and rederive the evaluator’s actual queue/currentness. Resolve remaining explicit model locks and reference findings through separately attributable accepted changes. Preserve original arguments, models, firsts, scores, blanks/nulls, source-plane limits and OPEN selectors. Calibration candidates require actual human review and owner publication; no human acceptance, final release or entrypoint rename is supplied by delegation.
 ```
+
+
+## Final authority and reconstruction audit: displaced active controls — 2026-10-27T00:16:52.285818+00:00
+
+The 35-monograph tranche is main-verified. This substantive final authority tranche adopts 16 remaining arguments and records all 77 accepted public model versions with their distinct source/test histories. Displaced active controls follow exactly.
+
+```text
+source_boundary: Fixed 41 author package and the 32-monograph authority tranche published and verified; earlier 35 authority decisions and sealed C20 qualified successors pending containing publication; original 77 model bodies and 90 firsts retained; designated curation/evaluation and conditional release remain; percentage null
+```
+
+```text
+**Current phase: scoped authority reconciliation and designated curation/evaluation; final release remains conditional.**
+```
+
+```text
+next_permitted_operation: AUTHORITY_RECONCILIATION_CURATION_EVALUATION_AND_RELEASE
+```
+
+```text
+next_candidate_operation: AUTHORITY_RECONCILIATION_CURATION_EVALUATION_AND_RELEASE
+```
+
+```text
+This tranche awaits its own containing publication and designated curation.
+```
+
+```text
+<!-- CURRENT_OPERATION_END -->
+```
+
+```text
+Publish and verify the earlier 35 authority tranche and its qualified C20 successors, then complete designated curation/evaluation using actual effective main evidence. Resolve remaining legacy authority dispositions without changing sealed models or original firsts. Preserve scores, blanks/nulls, source-plane limits and OPEN selectors. During CALIBRATION every assessment publication is owner-merged; human review is required only for a REVIEWED promotion at its exact ID, basis and evidence digest. Prepare the final release only from verified integrations and actual currentness; delegation does not supply human acceptance or an entrypoint rename.
+```
