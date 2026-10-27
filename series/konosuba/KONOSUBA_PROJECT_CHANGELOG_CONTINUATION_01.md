@@ -871,3 +871,53 @@ Finish exact author publication of the accepted full-series and completion packa
 ```
 
 The owner subsequently integrated registry PR #343 at `4ea2caf128ba7f6be3c6045195d38d371855a0b1`. Ordinary merge `39207bfd5847190b8d224f46dc775b848f34e1ab` retains those five imported registry/index files exactly and changes no KonoSuba body. This is an inherited owner integration, not new curation by the analysis author.
+
+
+## Delegated authority adoption: displaced active controls — 2026-10-26T22:17:48.039224+00:00
+
+Original fixed41 author work remains published and verified. The explicit user delegation activates authority review, curation, evaluation and conditional release. This tranche adopts32 reviewed monographs while preserving all original argument bytes and adverse qualifications. Exact displaced controls follow.
+
+```text
+source_boundary: Full-series and completion author package published and verified at 0d36d142; all 41 fixed source gates retained; six provisional Stage D cores and 90 originals unchanged; designated curation/evaluation/protected integration/release remain; percentage null
+```
+
+```text
+next_permitted_operation: DESIGNATED_CURATION_EVALUATION_PROTECTED_INTEGRATION_AND_RELEASE
+```
+
+```text
+next_candidate_operation: DESIGNATED_CURATION_EVALUATION_PROTECTED_INTEGRATION_AND_RELEASE
+```
+
+```text
+**Current phase: author analysis published and verified; designated curation/evaluation/integration/release remain.**
+```
+
+```text
+<!-- CURRENT_OPERATION_END -->
+```
+
+```text
+Continue the actual designated discovery/curation, capability evaluation, CI/owner integration and separately verified release gates. The complete author analytical package is published and verified; do not repeat its source readings, regenerate its firsts or restate its accepted arguments as future work. Use actual current Git for designated currentness. Original scores, blanks/nulls, source-plane limits and OPEN selectors remain. No final release or entrypoint rename has yet been certified.
+```
+
+
+## Earlier monograph authority decisions: displaced active controls — 2026-10-26T23:26:44.214681+00:00
+
+Original fixed 41 author work and the32-monograph tranche remain published and verified. The next 35 actor-specific decisions preserve tested histories and sealed C20 originals; exact displaced controls follow.
+
+```text
+source_boundary: Full fixed41 analytical package integrated; original models and 90 firsts retained; 32 scoped monograph authority adoptions and C46 current qualifications pending containing publication; designated curation/evaluation and conditional final release remain; percentage null
+```
+
+```text
+This tranche awaits its own containing publication and designated discovery; neither metadata nor document counts confer a tier, independent accuracy or global grade.
+```
+
+```text
+<!-- CURRENT_OPERATION_END -->
+```
+
+```text
+Publish and verify the scoped 32-monograph authority adoption, then curate its effective main evidence and rederive the evaluator’s actual queue/currentness. Resolve remaining explicit model locks and reference findings through separately attributable accepted changes. Preserve original arguments, models, firsts, scores, blanks/nulls, source-plane limits and OPEN selectors. Calibration candidates require actual human review and owner publication; no human acceptance, final release or entrypoint rename is supplied by delegation.
+```

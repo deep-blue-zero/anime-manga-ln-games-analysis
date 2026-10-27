@@ -5,6 +5,8 @@ character: Vanir
 generation: SECONDARY_VANIR_EXPANDED_V1
 status: active_provisional
 source_boundary: Accepted main and supplemental histories through MAIN17 excluded-component closure; seven MASK BASE-TEXT units and bounded main-source joins separately rechecked
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

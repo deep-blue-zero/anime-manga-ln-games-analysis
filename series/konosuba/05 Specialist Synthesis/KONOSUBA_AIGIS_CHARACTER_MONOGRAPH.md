@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+generation: "EARLIER_COHORT_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "Known MAIN08 recovery/contest, MAIN14 Yunyun trial and bounded MAIN17 report;1427 BASE context slots/11members/3Japanese EPUBs, no new full-ruby/image/whole-source or independent credit."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "78a00e4bed8b097751a0bee699c2b5b81c142b6e"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "85ad24050adffd7d703525685f1be80f52adcd2e563c137846aa3c91ecefd9a5"
+reference_corrections: 0
+---
+
+> Current authority: scoped active provisional interpretation accepted in the [earlier-monograph authority review](../09%20Audits%20and%20Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The complete original argument below is retained byte for byte. Earlier pending labels record authorship history. Current project progress is owned by the current entrypoint; this adoption adds no primary reading, independent performance, model maturity or capability grade.
+
 # Aigis: chosen service, bodily autonomy and unreliable protection
 
 Status: cohort26 initial monograph, proposed scoped Tier3 alongside a separate provisional reconstruction model. Semantic receiving and exact containing publication remain pending. Aigis / 聖鎧アイギス is the speaking sacred armor, distinct from the paired sacred shield イージス. The [cohort26 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md) owns AG26 locators and source-plane qualifications. The source recheck received 1,427 known BASE context slots in eleven members across three local Japanese EPUB objects. Those totals include blanks and other actors; they are neither Aigis decision counts nor independent observations. No new narrative admission, blind test, capability grade or confidence gain follows.

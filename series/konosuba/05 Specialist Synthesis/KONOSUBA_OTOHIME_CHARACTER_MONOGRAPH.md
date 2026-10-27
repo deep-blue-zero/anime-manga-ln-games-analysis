@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+generation: "EARLIER_COHORT_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "Core+Advanced edited-replay PC Otohime, distinct from player and external fiction; typed Covering/Death Return outcomes, survival concerns, comfort/borrowing and partial communication repair, not settled debts or sole motive."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "78a00e4bed8b097751a0bee699c2b5b81c142b6e"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "a553db695eac3d1236ddd2f1ee8f8c023cd224dc8c209d9d49bd603af0ac92d9"
+reference_corrections: 0
+---
+
+> Current authority: scoped active provisional interpretation accepted in the [earlier-monograph authority review](../09%20Audits%20and%20Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The complete original argument below is retained byte for byte. Earlier pending labels record authorship history. Current project progress is owned by the current entrypoint; this adoption adds no primary reading, independent performance, model maturity or capability grade.
+
 # Otohime: fear, security and protection that does not settle the debt
 
 Status: scoped Tier 3 monograph for the Core and Advanced TRPG edited replays. The [provisional model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_OTOHIME_RECONSTRUCTION_MODEL.md) owns generative hypotheses and the [cohort 31 index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md) owns exact source boundaries. Density supports interpretation; it supplies no independent capability grade.

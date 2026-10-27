@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+scope: "Actor-specific bounded argument and locators retained in the original body; cohort 48 context totals are not independent observations for this actor."
+generation: "COHORT48_V1_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "Known Japanese MAIN16/MAIN17 plus identified comparison contexts; C48 1895 structural P/1862 ruby in 20 members/14 editions, four full narrative paragraph/ruby members and one full author afterword kept distinct; no new image/residual/whole-edition or independent credit."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "33ff979c717586c6685a8b19727c67d07866b00f"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "a17bc168b1ab426dd87e29c0a0a80932fb098a2322445a845568a27070fde614"
+---
+
+> Current authority: scoped active provisional interpretation, accepted in the [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The original argument below is retained byte for byte. Any draft-era pending labels in that argument describe its authorship history; the adoption record and actual containing publication own the later status. This classification supplies no new primary reading, model maturity or independent performance credit.
+
 # The unnamed dungeon vampire: surrender with a valued remainder
 
 ## The owner who never completes his name
