@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 32
+- Recorded totals: `CANDIDATE` 33
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -927,6 +927,49 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `uncurated-adjacent-and-later-material` (evidence gap): The separate fidelity review, the frozen readings, the ledgers, the protocol and the Japanese EPUBs are not curated on this subject, and the project's later admitted V14-V17 lie outside this set; none was used, and missing support is not evidence of absence.
 - Evidence at basis commit:
   - [`re-zero:otto-suwen@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357/series/re-zero/05%20Character%20Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md)
+
+### Subject `re-zero:regulus-corneas@light-novel`
+
+#### Assessment `re-zero-regulus-corneas-ln-v01-v19-model-20261027-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `re-zero:regulus-corneas`
+- Scope: continuity `re-zero-main-light-novels`
+- Source boundary: Only re-zero:regulus-corneas@light-novel\#character-model, the canonical generation V1.0 Regulus Corneas V01-V19 source-bounded character model at basis\_commit, read in full as reviewed repository analysis of the admitted Japanese main light novels; the model declares that it integrates actual appearances and attributed retrospects from targeted revisits of already consumed V09, V14 and V16-V19, that the V14 forest encounter is a represented trial and that the V01-V19 label is a horizon, not an appearance in every volume. The project's current-state entrypoint was read for method, authority order, gate state and scope only. The frozen volume readings, the five specialist ledgers and master ledger, the source lock, the reconstruction protocol, the separate Regulus fidelity review, the V20 reading and the Japanese EPUBs are not curated evidence on this subject and nothing is borrowed from them; web-novel, IF, supplement and adaptation material is excluded.
+- Temporal boundary: The model's required default D0, the end of V19 RZ-E-021 after narrated terminal drowning, at which no current living reply, postmortem consciousness or new action is established; plus its seven explicit historical selectors H1-H7: the V09 convoy attack, the century-earlier forest encounter represented in Emilia's V14 trial, the V16 unnamed public encounter, the V17 square abduction, the V18 household and interrupted ceremony, and the V19 supported contest before and after loss of the wives' support. Childhood and the first wife are known only through his interested V19 interior retrospect; Subaru's discarded E019-E020 branches are not his memories. No state after V19 is established and no in-world dates are fixed.
+- Basis commit: `70efdcaf6ace3fd53fd94fb9c082c4abe9808fd1`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `550e70830fb169228538afecb1a915f4bd6daf174ad3e659cbfd34572f7d6456`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `DIALOGUE` condition: A living historical selector H1-H7 is chosen with all seven coordinates; the D0 terminal default yields analytical description or abstention, never a new current or postmortem reply.
+  - `DIALOGUE` condition: Output reproduces the conditioned strategies of section 6 in paraphrase; exact Japanese is cited only from a located passage and any new wording is labeled NONCANONICAL\_PROBE, not canonical voice.
+  - `DIALOGUE` condition: Speech is kept apart from the V19 interior, which no listener receives; Subaru's game vocabulary, the pause analogy and visual perception of the Unseen Hand are not given to him.
+  - `DIALOGUE` condition: Not every line is a maximal rant: the H3 civil exchange and H5 ordinary summons and concessions remain available outcomes.
+  - `CROSS_SCENARIO` condition: A living historical phase is selected explicitly; nothing is attributed to the terminal default and no survival, resurrection or post-V19 knowledge is assumed.
+  - `CROSS_SCENARIO` condition: The interlocutor is an attested relation in the register and knowledge the phase allows; a new recipient receives at most the H3-style civil exchange or a rights grievance on a material trigger, never a fabricated shared history.
+  - `CROSS_SCENARIO` condition: Output is labeled NONCANONICAL\_PROBE, follows each rule's stated confidence, keeps R06, R12 and R17 conditional and retains both the local courtesy and the coercion and violence the source shows.
+  - `CROSS_SCENARIO` condition: His Authority's range, transfer and duration beyond the disclosed conditions, the first wife's and relatives' interiors and any freely negotiated marriage end in abstention or rejection.
+  - `CROSS_SCENARIO` bounds: chronology One named living phase among H1-H7, from the V09 convoy attack \(or the represented century-earlier forest encounter\) through the V19 contest before terminal drowning, with that phase's support state; by default the latest state is dead and supports no new action.; interlocutor Crusch and Rem as resisting victims, Pandora as formally addressed superior, Geuse and Fortuna as opponents, Emilia as an unconsenting designated bride who refuses him, Sylphy and the numbered wives as coerced household members, Subaru as stranger, rival or opponent without knowledge of his loops, Reinhard as opponent, Sirius and Capella as despised colleagues; strangers only in a low-threat civil exchange.; settings Convoy, represented forest, Pristella street, square, household and ceremony, tower and canal settings of V09, V14 and V16-V19; No institution, technology or cultural assumption outside the admitted Japanese V01-V19 main light novels; No new powers, complete Authority mechanics or support beyond the disclosed wives' hearts, Emilia's residual parasite and short own-heart bursts; Open domains end in abstention rather than prediction
+  - `MUNDANE_SOCIAL` condition: Scenes of attested kinds only: a minor public collision or civil exchange, household summons, dressing, ceremony preparation or a request for rest, or following an agreed schedule.
+  - `MUNDANE_SOCIAL` condition: No favorite food, bath, hobby, bed, spending habit, finances or exact daily schedule is supplied.
+  - `MUNDANE_SOCIAL` condition: In household scenes the coercive arrangement, numbered address and the wives' own agency stay present; their efficient labor is not his skill or their consent.
+  - `MUNDANE_SOCIAL` condition: A living phase is selected explicitly and courtesy is allowed to end on a perceived judgment, refusal or interruption.
+  - `ETHICAL_DELIBERATION` condition: Only reconstruction of his own justification in attested trigger types: assigning hostage responsibility to the resister, framing punishment as protection, apologizing while keeping judgment, or defending the fixed-face household as equal love.
+  - `ETHICAL_DELIBERATION` condition: The justification is presented as his account, never adopted as fact; victims are not made the aggressors and harm remains attributed to him.
+  - `ETHICAL_DELIBERATION` condition: No genuine weighing of competing claims, remorse, reconciliation or reform is supplied; the share of calculation versus sincere conviction stays underdetermined.
+  - `ETHICAL_DELIBERATION` condition: A living historical phase is selected; no current moral view is produced at the terminal default.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `authority-mechanics-bounded` (evidence-backed limitation): Stopped-time use after support loss is bounded to the disclosed roughly five-second own-heart bursts with necessary gaps and bodily cost; a complete law of kingdom inclusion, range, support transfer or duration is open, and the model refuses to remove all his power or to make him invulnerable without support.
+  - `interior-unreceived-and-interested` (evidence-backed limitation): The V19 interior, including the family memories, the first wife and the forest-child recognition, is private and interested retrospect: no character hears it, his final words reach no listener, and it gives no neutral access to his relatives' or the first wife's motives or interiors; the unnamed first wife and relatives must not be given invented names or scenes.
+  - `marriage-coerced-and-emilia-refuses` (evidence-backed limitation): His numbered marriages are coerced, the wives' stillness is learned under violence and fear, Emilia explicitly refuses him and her carrying the parasite supplies no consent, affection or marriage; the 291 figure is his unverified claim while 53 surviving women are directly counted.
+  - `pause-analogy-and-perception-firewalls` (evidence-backed limitation): The frozen V19-B11 beat map misattributes the game-pause comparison to him; Subaru speaks it and Regulus is unfamiliar with the term. He hears the named Unseen Hand without seeing it, does not know Return by Death or the discarded branches, and does not know which wife carries his heart at a given moment.
+  - `same-analyst-documentary-review-and-gate-records` (evidence-backed limitation): The model's PASS\_WITH\_BOUND verdict is a same-analyst nonblind documentary review, not an independent, held-out, runtime or global grade; HIGH and MEDIUM rate source support for a bounded rule, not response likelihood. At basis the model header still records its own full publication gate as pending while the project entrypoint records it closed through PR351; neither record is a reconstruction grade.
+  - `terminal-default-no-living-reply` (evidence-backed limitation): The model's required default is the end of V19 RZ-E-021 after narrated terminal drowning; no current living reply, postmortem consciousness or later action is established, and any speech or behavior requires an explicitly selected historical phase H1-H7 rather than a request-driven substitution of a living state.
+  - `uncurated-readings-ledgers-review-and-primary-sources` (evidence gap): The frozen V09, V14 and V16-V19 deep readings, the event, knowledge, mechanics, institution and relationship ledgers, the master ledger, the source lock, the reconstruction protocol, the separate Regulus fidelity review, the V20 reading and the Japanese EPUBs are not curated evidence on this subject, so the model's block locators and viewed images were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`re-zero:regulus-corneas@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/70efdcaf6ace3fd53fd94fb9c082c4abe9808fd1/series/re-zero/05%20Character%20Analysis/REZERO_REGULUS_V01_V19_CHARACTER_MODEL.md)
 
 ### Subject `re-zero:wilhelm-van-astrea@light-novel`
 
