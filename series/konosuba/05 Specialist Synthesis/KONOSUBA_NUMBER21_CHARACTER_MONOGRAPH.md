@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+generation: "EARLIER_COHORT_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "Advanced edited-replay artificial PC21/21番 only; origin construction, pressured inclusion, useful questions/acts and later chosen warmth/welcome; not former-life count, complete village-girl fate or perfect mediation."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "78a00e4bed8b097751a0bee699c2b5b81c142b6e"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "47afe8e0bccab2ff5ac0ee232c1e63dc7eadaf17f1ade31181a247e8b91fd700"
+reference_corrections: 0
+---
+
+> Current authority: scoped active provisional interpretation accepted in the [earlier-monograph authority review](../09%20Audits%20and%20Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The complete original argument below is retained byte for byte. Earlier pending labels record authorship history. Current project progress is owned by the current entrypoint; this adoption adds no primary reading, independent performance, model maturity or capability grade.
+
 # 21: belonging chosen after pressure, and help with limits
 
 Status: scoped Tier 3 monograph for 21番 in the Advanced TRPG edited replay. The [separate provisional model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_NUMBER21_RECONSTRUCTION_MODEL.md) owns hypotheses; the [cohort 31 index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md) owns source qualifications. One dense replay supports interpretation across settings, not independent reconstruction accuracy.

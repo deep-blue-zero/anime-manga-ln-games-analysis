@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+generation: "EARLIER_COHORT_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "Joint C23 recheck3992 known BASE slots/22text members/7text objects plus one editorial reference view/eighth object. Father direct MAIN05 household decisions; craft/work/spending mostly Megumin/Wiz/artisan/editorial report. No new full-source/ruby/image/admission/independent credit."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "78a00e4bed8b097751a0bee699c2b5b81c142b6e"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "525d2f65ee50b573e9a0e6b6fe6d0179fcdcce4985168d90371bdc30a77d4521"
+reference_corrections: 0
+---
+
+> Current authority: scoped active provisional interpretation accepted in the [earlier-monograph authority review](../09%20Audits%20and%20Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The complete original argument below is retained byte for byte. Earlier pending labels record authorship history. Current project progress is owned by the current entrypoint; this adoption adds no primary reading, independent performance, model maturity or capability grade.
+
 # Hyoizaburoo: family concern, material inducements and difficult craft
 
 Status: initial cohort23 monograph, proposed scoped Tier2. A separate reconstruction model remains open. The Crimson parents/teacher index supplies HY01–HY10 and shared YY locators; exact native provenance is separate. Authored from known accepted sources before this cohort’s exact diagnostic inputs or first responses. Canonical receiving/publication remain pending.
