@@ -2,7 +2,7 @@
   "schema": "konosuba.fixed41.analytical-release-manifest.v1",
   "release_identity": "FIXED41_ANALYTICAL_RELEASE_V1",
   "preparation_basis": "d81f4099abf13383f5acf56db13dcdff85cae484",
-  "effectiveness_rule": "Effective only at the actual containing main publication after verified exact source/main audits. Authored front matter and this record do not self-certify a future own commit or audit.",
+  "effectiveness_rule": "ROUTING_BOOTSTRAP_ONLY_NOT_FINAL_RELEASE. This snapshot prepares native routing and must not be integrated as the final release. After the actual generated routing child, restore the accepted final semantic streams and complete their exact source/main gates.",
   "upstream_owner_gate": "OWNER_REVIEW_AND_MERGE_CONFIRMED_RESULTING_MAIN_FULL479_VERIFIED",
   "historical_V5_candidate_sha256": "86f0cb347a033bd8a7820d4233f34bbd5516fb85d8e4588c760a867f7c864667",
   "native_fixed_object_identities": [
@@ -205,8 +205,8 @@
     },
     {
       "path": "series/konosuba/00_README_AND_CORPUS_MAP.md",
-      "bytes": 11470,
-      "sha256": "28398572d6ff3a672995d9b5030771cf8a489920bd49095260f8070de309727e"
+      "bytes": 11242,
+      "sha256": "b365bd7029c74287f5bf5469587bccde86810de44d6618b0d44e98eeef63f529"
     },
     {
       "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.json",
@@ -9345,8 +9345,8 @@
     },
     {
       "path": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
-      "bytes": 44143,
-      "sha256": "d7a46bd53773afb69eb52075ddac36763908433bb2af195709a2a46a5fc5d283"
+      "bytes": 43405,
+      "sha256": "9b68e540af5854cfaffb468c3ee08e6fc91d076a4e2af62985026072b573e329"
     },
     {
       "path": "series/konosuba/KONOSUBA_PROJECT_CHANGELOG.md",
@@ -9359,9 +9359,12 @@
       "sha256": "6426e2f174c82c18879faa1df659442162d3e2fb2828c23530d5764f47923cc8"
     }
   ],
-  "member_map_sha256": "4d3c424cd2658807432996647cd99bbbf1d5180a5e662781797ec2a51bd477f1",
+  "member_map_sha256": "e4ef4956b43ce6f1614eba3e06ae84ded4966b8a63eb39c80ae4bb8ef9aee93f",
   "independent_accuracy": null,
   "global_completion_percentage": null,
   "certified_unique_person_denominator": null,
-  "snapshot_scope": "Exact released snapshot plus each artifact existing individual hard seal; no additional perpetual all-working-file byte lock."
+  "snapshot_scope": "Exact released snapshot plus each artifact existing individual hard seal; no additional perpetual all-working-file byte lock.",
+  "publication_stage": "ROUTING_BOOTSTRAP_PREPARATION_ONLY",
+  "accepted_final_candidate_manifest_sha256": "82d6f0d965f5a6ae1e8550ff4768dc7e6e59cb77c86f9e03206c02cf9dc55771",
+  "final_restoration_required_after_actual_housekeeping_child": true
 }
