@@ -1,3 +1,22 @@
+---
+series: "KONOSUBA"
+artifact_type: "character_monograph"
+character: "Barton"
+scope: "BARTON_CURRENT_AUTHORITY_20261026"
+status: "active_provisional"
+source_boundary: "Shared68source-known windows/6730uniqueBASE/40members/18objects/14completeBASEmembers; bibliographic and creator-afterword planes distinct. Barton concentrated in one title; no new whole-source/ruby/residual/image-set/admission/independence."
+authority_review_basis_commit: "c5a176928f08aac6a445af355e57a8b3f6d7cc58"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+authority_preserved_original_argument_sha256: "2e48bf3360f2c684cb3e5a0809b198daac425a8c3854e8f2ab653f0f824ee6f1"
+authority_current_argument_sha256: "2e48bf3360f2c684cb3e5a0809b198daac425a8c3854e8f2ab653f0f824ee6f1"
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+> Authority adoption notice: This administrative current-public derivative retains the complete previously published argument below without changing any analytical byte. Its original SHA-256 is `2e48bf3360f2c684cb3e5a0809b198daac425a8c3854e8f2ab653f0f824ee6f1`.
+> The original private foundation and every original tested model, rule, input, first response, defect, score and null remain at their recorded boundaries. Historical authorship-time or publication-pending statements below remain attributable history. Current provisional use is governed by the paired [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.md) and [record](../09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.json). This adoption adds no source admission, whole-source/ruby/image reading, new model or test, capability grade, maturity, independent validation or confidence gain.
+
 # Barton: scholarly recognition, selective care and practical misalignment
 
 Status: initial scoped Tier3 candidate with a separate provisional reconstruction model. This monograph owns interpretation; BT29 and BR29 in the [cohort29 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md) own the exact native loci and access limits. The material is already source-known. A concentrated source can support differentiated mechanisms without establishing cross-volume reliability or final maturity.

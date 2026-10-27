@@ -1,3 +1,22 @@
+---
+series: "KONOSUBA"
+artifact_type: "character_monograph"
+character: "Chekera"
+scope: "CHEKERA_CURRENT_AUTHORITY_20261026"
+status: "active_provisional"
+source_boundary: "1149sharedknownBASE/7members/4objects, ownclothier work encounters and source-specific attributedcomparisons. No newwhole-source/ruby/residual/imageset/admission/independence; no model or cases."
+authority_review_basis_commit: "c5a176928f08aac6a445af355e57a8b3f6d7cc58"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+authority_preserved_original_argument_sha256: "075935e786633db08f3cb709db26017562302e4f9ce18b5a68f6a83a80122cf8"
+authority_current_argument_sha256: "075935e786633db08f3cb709db26017562302e4f9ce18b5a68f6a83a80122cf8"
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+> Authority adoption notice: This administrative current-public derivative retains the complete previously published argument below without changing any analytical byte. Its original SHA-256 is `075935e786633db08f3cb709db26017562302e4f9ce18b5a68f6a83a80122cf8`.
+> The original private foundation and every original tested model, rule, input, first response, defect, score and null remain at their recorded boundaries. Historical authorship-time or publication-pending statements below remain attributable history. Current provisional use is governed by the paired [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.md) and [record](../09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.json). This adoption adds no source admission, whole-source/ruby/image reading, new model or test, capability grade, maturity, independent validation or confidence gain.
+
 # Chekera: controlled craft, ceremonial welcome and useful misrecognition
 
 Status: cohort24 initial monograph, proposed scoped Tier2; canonical receiving/publication pending. Chekera is the working Latin retrieval label forちぇけら. A distinct reconstruction model is not earned by the reviewed material. The Crimson trades/staff evidence index owns CC01–CC08; native provenance binds the exact source objects and actual known-source receiving. This interpretation is informed by already known passages, with no new source-blind or prospective test.
