@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 16
+- Recorded totals: `CANDIDATE` 32
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -120,6 +120,427 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `unsettled-treatment-boundary` (evidence-backed limitation): Section 4 attributes difficulty defending the brain-as-body/person distinction to Tuan. A rigid, fully settled rule rejecting every treatment of psychological suffering would erase that represented difficulty.
 - Evidence at basis commit:
   - [`harmony:tuan-kirie@original-novel#comparative-ethics`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1ac5215d216de2451fd3cf0ed667d90ad9df7cde/studies/project-itoh-genocidal-organ-harmony/COMPARATIVE_ETHICS_AND_FORM.md)
+
+### Subject `konosuba:amaryllis@original-light-novel`
+
+#### Assessment `konosuba-amaryllis-original-light-novel-calibration-20261027-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:amaryllis`
+- Scope: continuity `original-light-novel`
+- Source boundary: MAIN16 U012 named performer through childlike/spider/formal-devil appearances; monograph AMR-R01/R02 limited hypotheses only, false origin stays false.
+- Temporal boundary: P273-336 sympathetic lure/reassurance/approach, recognizable Vanir voice stops her before relationship disclosure/apology, then unfulfilled pet request.
+- Basis commit: `81ec13bbdce71fdbb44d6bbad45f680925781f84`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `02ef5855ebda26934c6bce1e28e19ecd50559a877b746b70a628abf3f80ec542`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration, countercases, bounded procedures and explicit gaps, without inherited project labels or independent validation. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+  - `DIALOGUE` condition: M “The voice arrives” and recognition/apology account: actual recognized Vanir,stated companion relation,current performance/audience supplied; formal acknowledgment,interrupted advance,apology/explanation distinct.
+  - `CROSS_SCENARIO` condition: Only actual sympathetic promise/reassurance, available fear-staging means and recognized Vanir intervention with exact timing; preserve listener refusals/rank-affiliation confound and low unfamiliar transfer.
+  - `CROSS_SCENARIO` bounds: chronology P273-336 sympathetic lure/reassurance/approach, recognizable Vanir voice stops her before relationship disclosure/apology, then unfulfilled pet request.; interlocutor Wiz/Kazuma actual distressed targets, Vanir recognized intervenor, Stesky only reported missing pet.; settings One performer’s exact promise/recognition phases and means, no age-coded private biology or blanket obedience.; Output is a bounded noncanonical hypothesis. Preserve recorded rivals,failures and missing predicates; do not invent another actor assent or use the output as source evidence.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `false-origin` (evidence-backed limitation): Complete chimera/dead-parent/purchase account admitted lie; no separate verified child biography or victim population.
+  - `independent-validation-gap` (evidence gap): No directly curated independent predictive,native-human or acoustic validation is available in this evidence set; bounded generation is not general accuracy or maturity.
+  - `pet-identity-gap` (evidence gap): MASK same-name pet/customer and slain hell-neroid lack secure identity bridge here; not joined or asserted globally distinct.
+  - `pet-search` (evidence-backed limitation): Own reported escape and actual request333,Vanir evasion334,hesitation335,bow/departure336 do not show a found pet or completed recovery.
+  - `recognition-order` (evidence-backed limitation): Vanir voice/recognition stop precedes companion disclosure; rank/familiarity/affiliation not isolated causal laws.
+- Evidence at basis commit:
+  - [`konosuba:amaryllis@original-light-novel#scoped-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_AMARYLLIS_CHARACTER_MONOGRAPH.md)
+
+### Subject `konosuba:angie@original-light-novel`
+
+#### Assessment `konosuba-angie-original-light-novel-calibration-20261027-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:angie`
+- Scope: continuity `original-light-novel`
+- Source boundary: Directly curated adopted Angie monograph: YORI04 U018/U020 named seventeen-year-old Rune Knight. Its controlling PFQ03 text qualifies the retained body: Kazuma receives the narrated hearing treatment,not a certified Angie diagnosis/Heal/recovery. No further fact from uncurated qualification JSON,linked model or primary media supports a claim.
+- Temporal boundary: First senior/junior encounter, bill/quest/protective stand, then duke-pressured frontline operation, card/name correction and drawn brawl. No completed ultimate or future safe life.
+- Basis commit: `81ec13bbdce71fdbb44d6bbad45f680925781f84`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `f1bc9372e4c27e64c60a933c9c7dbd8dae5de1d3a4c85b3a2707b41eed7ef97b`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration, countercases, bounded procedures and explicit gaps, without inherited project labels or independent validation. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: Only comparable small-party senior recognition/protection with actual class knowledge, received danger, junior capacity and means supplied; keep reasonable objection/unjust blame and uncertainty.
+  - `CROSS_SCENARIO` bounds: chronology First senior/junior encounter, bill/quest/protective stand, then duke-pressured frontline operation, card/name correction and drawn brawl. No completed ultimate or future safe life.; interlocutor Kazuma unknown-competence junior, Megumin later card counterevidence, Yunyun unjustly blamed, Ignis coercive duke and frontline peers distinct.; settings Age17 source-selected small-party/frontline state, actual resources/knowledge; preserve PFQ03 and no invented romance.; Output is a bounded noncanonical hypothesis. Preserve recorded rivals,failures and missing predicates; do not invent another actor assent or use the output as source evidence.
+  - `MUNDANE_SOCIAL` condition: Resource quest/treat/ordinary company within actual funds and intended scope, no blanket expansion or bankruptcy assumption.
+  - `PROFESSIONAL_CONTEXT` condition: Demonstrated Rune Knight/leader tasks only with actual jewels/body/tools and coerced-vs-free task distinguished; no completed ultimate or general omniscience.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `bill-agency` (evidence-backed limitation): Treat offer does not consent to all expenses; objections before opening and wider-group protests remain.
+  - `competence-anger` (evidence-backed limitation): Real class skill/protective stand coexist with prejudice/unjust Yunyun blame and drawn angry ending; no ideal mentor.
+  - `independent-validation-gap` (evidence gap): No directly curated independent predictive,native-human or acoustic validation is available in this evidence set; bounded generation is not general accuracy or maturity.
+  - `pfq03` (evidence-backed limitation): Current PFQ03 limits frozen plural injury/healing wording: Angie blown away, only Kazuma’s hearing/Heal narrated; no certified Angie recovery.
+- Evidence at basis commit:
+  - [`konosuba:angie@original-light-novel#scoped-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_ANGIE_CHARACTER_MONOGRAPH.md)
+
+### Subject `konosuba:aqua@original-light-novel`
+
+#### Assessment `konosuba-aqua-original-light-novel-calibration-20261027-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:aqua`
+- Scope: continuity `original-light-novel`
+- Source boundary: Accepted main-principal V01-V17 plus individually admitted fixed41 expanded components through the directly curated main/expanded monographs and exact Stage D model only; active\_provisional, retrospective/source-known. Unequal novel, game-derived novel, report, tutorial, image/reference/editorial and scenario planes remain separate. No additional independent primary reading, native-human/acoustic credit or uncurated suite-result borrowing.
+- Temporal boundary: Main V01-V17 current power/readiness and relationship slice, with expanded source-specific comparisons; no automatic terminal restoration in earlier states or settled romantic future.
+- Basis commit: `81ec13bbdce71fdbb44d6bbad45f680925781f84`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `19e92f6ef27c7cba4485a057bfb815854eee98262039458c803af2cf215c9b48`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration, countercases, bounded procedures and explicit gaps, without inherited project labels or independent validation. (version `calibration-1.0.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Main §9, expanded §6 and Stage D §§15/19 support bounded speech generation by independently fixed recipient, task uptake, known information and communicative purpose: assertion, petition, request, refusal, complaint or task talk. Service status alone never selects directives; preserve J01 and other retained failures, and abstain where the purpose/recipient premise is unresolved.
+  - `CROSS_SCENARIO` condition: Stage D §§14/22/25 only with actual task uptake, known target, powers/resources/access, recipient and observation interval; A04 is typed constraint, no modern credential, and unresolved priority stays alternative.
+  - `CROSS_SCENARIO` bounds: chronology Main V01-V17 current power/readiness and relationship slice, with expanded source-specific comparisons; no automatic terminal restoration in earlier states or settled romantic future.; interlocutor Kazuma familiar grievance/work/company partner, Wiz valued under categorical conflict, Vanir reciprocal antagonist, Lia particular recipient and outsiders without inherited permissions.; settings Actual task/world/target ontology and capabilities, no automatic divine knowledge, free resurrection or professional substitution.; Output is a bounded noncanonical hypothesis. Preserve recorded rivals,failures and missing predicates; do not invent another actor assent or use the output as source evidence.
+  - `MUNDANE_SOCIAL` condition: Stage D §18 ordinary art/meals/repairs/company within demonstrated skills/resources; particular value established independently, no automatic fungibility or destructive gag.
+  - `PROFESSIONAL_CONTEXT` condition: Known sacred/manual/artistic service with actual capability, task understanding, target fit, adoption/readiness and provider means; no universal campaign success or invented medicine/engineering.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` B; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `capacity-is-not-policy` (evidence-backed limitation): Technical skill, task understanding, adoption, execution and whole-task success differ; actual failed operation and target-fit qualification persist.
+  - `independent-validation-gap` (evidence gap): No directly curated independent predictive,native-human or acoustic validation is available in this evidence set; bounded generation is not general accuracy or maturity.
+  - `particular-care-harm` (evidence-backed limitation): Wiz/Lia concern does not erase ignored pleas/categorical harm; external boundary is not self-inhibition.
+  - `provisional-source-known` (evidence-backed limitation): Current Stage D model is retrospective, with no new unseen source score or independent accuracy; actual suite diagnostics are separate evidence.
+  - `uncurated-suite-gap` (evidence gap): The linked raw diagnostic inputs,complete literal first-response bodies and suite causal reviews are not directly curated in this assessment evidence set. Model/monograph receiving accounts are used only as attributed summaries; no complete90-first or independent diagnostic inspection is claimed.
+  - `voice-failure` (evidence-backed limitation): Main monograph §9 and Stage D §§15/19/23 retain failed service-to-directive expectation; no formal grammar or acoustic/native adequacy follows.
+- Evidence at basis commit:
+  - [`konosuba:aqua@original-light-novel#expanded-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_AQUA_EXPANDED_CHARACTER_MONOGRAPH_V1.md)
+  - [`konosuba:aqua@original-light-novel#main-principal-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_AQUA_CHARACTER_MONOGRAPH.md)
+  - [`konosuba:aqua@original-light-novel#stage-d-principal-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_AQUA_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md)
+
+### Subject `konosuba:darkness@original-light-novel`
+
+#### Assessment `konosuba-darkness-original-light-novel-calibration-20261027-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:darkness`
+- Scope: continuity `original-light-novel`
+- Source boundary: Accepted main-principal V01-V17 plus individually admitted fixed41 expanded components through the directly curated main/expanded monographs and exact Stage D model only; active\_provisional, retrospective/source-known. Unequal novel, game-derived novel, report, tutorial, image/reference/editorial and scenario planes remain separate. No additional independent primary reading, native-human/acoustic credit or uncurated suite-result borrowing.
+- Temporal boundary: Explicit source-selected slice from early adventurer/noble concealment to late-main civic/armor state; prequel/FD/component chronology remains source-specific; no final romance or terminal invulnerability.
+- Basis commit: `81ec13bbdce71fdbb44d6bbad45f680925781f84`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `c92fcdf4cbd4a4e4d0cc7a763e10153b2cb297b5b9602a2b7c59e42816a5769a`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration, countercases, bounded procedures and explicit gaps, without inherited project labels or independent validation. (version `calibration-1.0.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Main voice section, expanded §7 and Stage D §19 support bounded generation of practical statements, capability admissions, sincere requests and familiar protests by supplied recipient, developmental/body state and purpose. Do not put analyst motive diagnoses or untagged speech in her mouth, infer consent from formality, or make mistaken protective assurances true.
+  - `CROSS_SCENARIO` condition: Stage D §§14/22/25 only when chronology, body/resources, received duty, audience, act-specific scope and provider edges are fixed; keep D04/rival selector uncertainty, no untested joint-guard reliability.
+  - `CROSS_SCENARIO` bounds: chronology Explicit source-selected slice from early adventurer/noble concealment to late-main civic/armor state; prequel/FD/component chronology remains source-specific; no final romance or terminal invulnerability.; interlocutor Kazuma valued companion/desired counterpart; Megumin valued caster; Aqua/Chris distinct providers/correctors; family/residents real but independently affected.; settings Known source slice, finite body/resources and real institutional powers; transfer removes unavailable magic and preserves unresolved dignity/risk choices.; Output is a bounded noncanonical hypothesis. Preserve recorded rivals,failures and missing predicates; do not invent another actor assent or use the output as source evidence.
+  - `MUNDANE_SOCIAL` condition: Stage D §§18/25 D03 within demonstrated practical/domestic/civic capacities and actual opportunity; no compulsory fantasy or generic competence.
+  - `ROMANCE_RELATIONSHIP` condition: Known Kazuma/Megumin relationship phase only, with actual refusal/participation timing and unilateral desires preserved; no settled reciprocal romance or retrospective assent.
+  - `PROFESSIONAL_CONTEXT` condition: Actual defensive/civic tasks with role authority, finite endurance and provider timing supplied; no modern legal/medical powers or safety guarantee.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` B; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `consent-object` (evidence-backed limitation): Wanted sensation, specific agreement and later changed scope differ; arousal/later cooperation never retroactively authorize an unwanted start.
+  - `finite-protection` (evidence-backed limitation): MAIN17 shield promise and FD weapon desire do not establish group safety; actual barriers/providers and warnings retain timing.
+  - `independent-validation-gap` (evidence gap): No directly curated independent predictive,native-human or acoustic validation is available in this evidence set; bounded generation is not general accuracy or maturity.
+  - `own-coercion` (evidence-backed limitation): Real care/civic work does not erase coercive letters/restraint/interrogation or externally blocked truth-telling.
+  - `provisional-tests` (evidence-backed limitation): Stage D §§23-28 explicitly retain old mixed/missing results and source-known uncertainty; no independent accuracy or VERY\_HIGH maturity.
+  - `uncurated-suite-gap` (evidence gap): The linked raw diagnostic inputs,complete literal first-response bodies and suite causal reviews are not directly curated in this assessment evidence set. Model/monograph receiving accounts are used only as attributed summaries; no complete90-first or independent diagnostic inspection is claimed.
+- Evidence at basis commit:
+  - [`konosuba:darkness@original-light-novel#expanded-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DARKNESS_EXPANDED_CHARACTER_MONOGRAPH_V1.md)
+  - [`konosuba:darkness@original-light-novel#main-principal-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DARKNESS_CHARACTER_MONOGRAPH.md)
+  - [`konosuba:darkness@original-light-novel#stage-d-principal-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_DARKNESS_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md)
+
+### Subject `konosuba:demon-king@original-light-novel`
+
+#### Assessment `konosuba-demon-king-ln-main17-u013-u014-monograph-20261026-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:demon-king`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only konosuba:demon-king@original-light-novel\#scoped-cohort-monograph, the active\_provisional KONOSUBA\_DEMON\_KING\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the MAIN17 final confrontation \(U013 court and Eris's qualified assessments; U014 dungeon fight, negotiation and death\), with the U015 epilogue and the separately attributed U016 creator afterword, all reached through Kazuma's narration, the king's printed speech and others' testimony. The KonoSuba CURRENT\_STATE\_AND\_CORPUS\_MAP.md and the cohort 49 evidence index row were read for method, authority order and scope only. The cohort 49 audits, provenance and gate records, other monographs \(including the generals'\), ledgers and the Japanese source are not curated evidence on this subject and nothing is borrowed from them. No image, whole-edition, independent-reader or primary-source inspection is included.
+- Temporal boundary: The single MAIN17 final confrontation, from the throne-room court \(U013122\) through the dungeon fight to his death after Explosion \(U014496\), with Aqua's report of Kazuma's death and Eris's confirmation of his defeat \(U014539/667\) and the U015 epilogue as reported consequences. Eris's earlier forecasts \(U013246/343-353/537\) are planning statements, not states of the king. His history, the war's reason, the name's origin and any earlier reign are withheld and outside this assessment; no default state exists before U013 or after his death, and no in-world calendar time is fixed.
+- Basis commit: `c1ce63553e42527cebd7e6e4a665429c69619c88`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `abbed81f34c615f5cca1076c7cefd64965186327e791589725c96151e78df508`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology The MAIN17 final confrontation, U013122 to his death at U014496, with the bargaining posture at U014439-472 the last attested state.; interlocutor Kazuma as hostile challenger and bargaining counterpart; Megumin, Eris, Mitsurugi and the throne-room retainers as enemies or subordinates; his daughter and generals only as reported absent parties.; settings The Demon King's throne room and the dungeon to which Kazuma transports him, under mortal threat; No earlier reign, domestic setting, history, war reason or uncurated evidence; Printed Japanese only, no performed voice
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` NOT_ASSESSED; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` NOT_ASSESSED; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `attributed-grievances` (evidence-backed limitation): His reports of Beldia, Vanir, Wiz, Hans, Sylvia, Serena and Wolbach are attributed, potentially selective institutional memories \(U014277-279\), not newly witnessed events or confirmations of those subjects' monographs.
+  - `forecasts-are-not-choices` (evidence-backed limitation): Eris's forecasts of Teleport and duel conduct, and her qualified assessments of poison resistance and instant-death ineffectiveness \(MAIN17U013246/343-353/537\), are informed planning statements, not performed choices or tested traits; Kazuma's later less-qualified retelling does not replace their modality.
+  - `name-is-not-genealogy` (evidence-backed limitation): Yasaka Kyōichi \(八坂恭一\) is an adversary's self-introduction \(U014358/367\); he calls himself a demon, knows Japan only by rumor and withholds the name's origin and the war's reason \(U014373/376-390\), which the U016 afterword confirms remain unresolved. No Japanese-human, reincarnated, former-hero or descendant identity may be inferred.
+  - `separate-enhancement-mechanisms` (evidence-backed limitation): His local enhancement of a servant or golem, the seal Eris discusses, and the weakening of the world's monsters after his death are three separate mechanisms \(U013324/389; U014221/259-263; U01525; U01616\) and do not combine into one buff rule.
+  - `uncurated-corpus` (evidence gap): The cohort 49 audits, provenance and gate records, ledgers, other monographs and the Japanese source are not curated on this subject and were not assessed.
+  - `unperformed-offers` (evidence-backed limitation): His offers of escape, rest and monster recruitment, the imagined return with his daughter and the nonbetrayal-curse subordinate proposal \(U014343/398/415-418/433\) are never performed or tested; neither their sincerity nor their deceptiveness is established.
+  - `unshown-domestic-and-history` (evidence gap): No domestic scene, private value hierarchy, full history, verified genealogy, comparable low-stakes dispute or voice of the daughter is available; missing support is not evidence that any trait or capacity is absent.
+- Evidence at basis commit:
+  - [`konosuba:demon-king@original-light-novel#scoped-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c1ce63553e42527cebd7e6e4a665429c69619c88/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DEMON_KING_CHARACTER_MONOGRAPH.md)
+
+### Subject `konosuba:heidel@original-light-novel`
+
+#### Assessment `konosuba-heidel-original-light-novel-calibration-20261027-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:heidel`
+- Scope: continuity `original-light-novel`
+- Source boundary: MAIN06/MAIN11 named assigned royal-guest butler with explicit returning-service continuity; monograph’s two limited role-conditioned hypotheses only.
+- Temporal boundary: MAIN06 requested coffee/name correction and MAIN11 anticipatory service/schedules/host objection/cake rejection/complaint misread; duplicate opening not extra event.
+- Basis commit: `81ec13bbdce71fdbb44d6bbad45f680925781f84`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `9c2d0cee5576c796c1fa380e0f2e06ff3741a4bda3a22921323a70b0fcdb9e44`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration, countercases, bounded procedures and explicit gaps, without inherited project labels or independent validation. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: M “Keeping responsibility”/“What can be modeled”: assigned royal guest with actual request/known host objection and means; formal acknowledgment,clarifying question,discreet correction/listing or tentative face-saving denial.
+  - `CROSS_SCENARIO` condition: Only assigned royal-guest role with actual desires/objection, available logistics and receiving household agency; anticipate may misread, no free authority/compliance.
+  - `CROSS_SCENARIO` bounds: chronology MAIN06 requested coffee/name correction and MAIN11 anticipatory service/schedules/host objection/cake rejection/complaint misread; duplicate opening not extra event.; interlocutor Kazuma assigned guest, Mary affected maid, Darkness separate objecting host; other staff distinct.; settings Assigned royal-castle service role, real request/logistics/recipient agency and fallible anticipation.; Output is a bounded noncanonical hypothesis. Preserve recorded rivals,failures and missing predicates; do not invent another actor assent or use the output as source evidence.
+  - `MUNDANE_SOCIAL` condition: Known low-stakes service with actual tools/resources; supplies no personal food preferences or every planned event.
+  - `PROFESSIONAL_CONTEXT` condition: Narrow practical/face-saving guest service and host-objection failure hypothesis; no market expertise, clairvoyance or every-employer transfer.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` NOT_ASSESSED; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `boundaries` (evidence-backed limitation): Guest satisfaction does not authorize Mary exposure or Darkness intrusion; proposed vase/punishment not performed.
+  - `independent-validation-gap` (evidence gap): No directly curated independent predictive,native-human or acoustic validation is available in this evidence set; bounded generation is not general accuracy or maturity.
+  - `no-financial-success` (evidence-backed limitation): Clarifying crop question/offer to choose is not trade, debit, profit or portfolio expertise.
+  - `source-events` (evidence-backed limitation): Duplicate scene presentation not independent interaction; rejected cake not accepted entrance; later arrest/potion belongs to others.
+- Evidence at basis commit:
+  - [`konosuba:heidel@original-light-novel#scoped-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_HEIDEL_CHARACTER_MONOGRAPH.md)
+
+### Subject `konosuba:mammon@original-light-novel`
+
+#### Assessment `konosuba-mammon-ln-main17-u012-monograph-20261026-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:mammon`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only konosuba:mammon@original-light-novel\#scoped-cohort-monograph, the active\_provisional KONOSUBA\_MAMMON\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of MAIN17 U01292-371 and U012468-469 present action, reached through Kazuma's narration while he impersonates Nos, together with YORI04 U014530-540 retrospective testimony by a professional adventurer that the monograph joins to Mammon as a high-confidence cross-source inference with a tentative name. The KonoSuba CURRENT\_STATE\_AND\_CORPUS\_MAP.md and the cohort 49 evidence index rows \(including join C49-M01\) were read for method, authority order and scope only. The cohort 49 audits, provenance and gate records, the Nos monograph, ledgers and the Japanese source are not curated evidence on this subject and nothing is borrowed from them. No image, whole-edition, independent-reader or primary-source inspection is included.
+- Temporal boundary: The single MAIN17 U012 hall episode, from his recognition of Logia's corpse \(U01292\) to his fall from Kazuma's concealed attack \(U012363-371\), and his corpse at U012468-469 with the fatal transition unisolated. The YORI04 testimony describes an earlier mission and a reported promotion only as an opponent's hearsay; publication order does not make it a later state. No default state exists before or after the episode, and no in-world calendar time is fixed.
+- Basis commit: `c1ce63553e42527cebd7e6e4a665429c69619c88`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `89a813ef6747d98a03b2b63c8ee372a8267e9a63fa94b782edbb74c83a28edeb`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology The MAIN17 U012 hall episode, U01292 to U012371, with the stop order and boast the last attested states before his fall.; interlocutor His subordinates and server; the apparent Nos \(Kazuma in disguise\); the Axis prisoner Aqua; Mitsurugi and the other captives; the hidden intruder as an absent feared enemy.; settings The hall before the Demon King's room during the MAIN17 infiltration, with hostages held; No earlier mission beyond the YORI04 hearsay, no private or domestic setting and no uncurated evidence; Printed Japanese only, no performed voice
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` NOT_ASSESSED; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` NOT_ASSESSED; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `blow-count-and-server` (evidence-backed limitation): One completed blow \(U012217\) and one interrupted attempt \(U012240\) are located; Aqua's purification of the tea is not the server's sabotage, so the punishment cannot be justified as a response to it.
+  - `cross-source-join-is-inference` (evidence-backed limitation): The YORI04 professional adventurer's goat-headed knight, tentatively named Mammon, with one two-handed axe and a reported promotion to the Demon King's guard \(YORI04U014530-540\), is a high-confidence cross-source inference with tentativeness and hearsay preserved, not an explicit identity equation, a first-person confession or a witnessed battle; the adventurer's wish for his death is the adventurer's.
+  - `death-mechanism-unisolated` (evidence-backed limitation): The disabling cause of his fall is left between a skill and poison \(U012363-371\), and the corpse report \(U012468-469\) identifies no fatal stroke, time or exclusive killer.
+  - `impersonation-is-not-evidence` (evidence-backed limitation): Kazuma's Nos impersonation, hostage proposals and self-praise are Kazuma's performances \(U012119-127/279\); Mammon's errors arise from an incomplete security picture and he cannot be credited with the narrator's knowledge.
+  - `ordinary-life-unknown` (evidence gap): Food preferences, finances, family, leisure, private obligations and enduring relationships are unknown; missing support is not evidence that any trait or capacity is absent.
+  - `restraint-ceiling-and-cause` (evidence-backed limitation): He stops further humiliation of prisoners but keeps hostage taking and armed coercion \(U012306/321-334\); the cause is not separated among prior hesitation, Mitsurugi's rebuke, face, tactical sufficiency and limited aversion to cruelty, so neither moral clearance nor limitlessness may be inferred.
+  - `uncurated-corpus` (evidence gap): The cohort 49 audits, provenance and gate records, the Nos monograph, ledgers and the Japanese source are not curated on this subject and were not assessed.
+- Evidence at basis commit:
+  - [`konosuba:mammon@original-light-novel#scoped-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c1ce63553e42527cebd7e6e4a665429c69619c88/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MAMMON_CHARACTER_MONOGRAPH.md)
+
+### Subject `konosuba:megumin@original-light-novel`
+
+#### Assessment `konosuba-megumin-ln-main17-expanded-staged-20261027-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:megumin`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only the three REVIEWED items curated on konosuba:megumin@original-light-novel at basis\_commit, each read in full: \#main-principal-monograph \(the active\_provisional main-only MAIN01-MAIN17 monograph, with paragraph-level locators and the CP06 M01-M06 and J01 adjudications it reports\), \#expanded-monograph \(the active\_provisional EXPANDED\_V1 monograph over the Explosions 01-03 prequels, Continued Explosions 01-02, the game-derived Fantastic Days novel and individually dispositioned artbook, comic and TRPG components\) and \#stage-d-principal-model \(the active\_provisional POST\_VALIDATION\_STAGE\_D\_V1 reconstruction specification with its four SD1 working commitments\). The KonoSuba CURRENT\_STATE\_AND\_CORPUS\_MAP.md was read for method, authority order and gate state only. The MAIN\_ONLY\_R1 model, the executed 90-first suite and its diagnostic report, the core freeze, the model-evidence matrix, the extended synthesis, the sequential readings, ledgers, checkpoints, the voice sheet and the Japanese EPUBs are not curated evidence on this subject and nothing is borrowed from them; outcomes the monographs themselves report \(for example CP06 M02 CONFIRMED, M05 AMBIGUOUS\) are read as reported, and the model's MODERATE and LOW labels are inputs, not conclusions. Holdout, adaptation and post-MAIN17 material is excluded, and the evaluator performed no primary-source inspection.
+- Temporal boundary: The main sequence from MAIN01 recruitment \(C1P461-482\) through the MAIN17 ending and gift \(FP734-740\), plus prequel slices in the Crimson Demon village \(Explosions 01-03\) and the separately provenanced Continued Explosions 01-02 and Fantastic Days episodes, each kept as its own slice; the expanded books were read after main and holdout exposure, so they qualify the account but are not prospective tests, and prequel narration grants no later relationship knowledge. The model has no single default state and requires chronology, state, means and decision interval to be specified first. No state after MAIN17 is established and no in-world dates are fixed.
+- Basis commit: `e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `3539257342d696dadaf99629f52a4d1cad93e949db79cd3e7a1f3941d452f701`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Short, situated turns in a named phase and attested relationship, with chronology, mode, state and audience specified first.
+  - `DIALOGUE` condition: Polite structure is used for its function \(technical explanation, dramatic introduction, rebuttal, reluctant request, refusal, responsibility admission\), never as a deference or kindness switch.
+  - `DIALOGUE` condition: No compulsory chant, catchphrase, destructive ending or status insult in a neutral exchange; a spell name or ritual is not a completed cast.
+  - `DIALOGUE` condition: Output is labeled noncanonical, written only, and makes no acoustic or native-voice claim.
+  - `CROSS_SCENARIO` condition: The probe states chronology, state, means, target and provider permissions and keeps desire, attempt, execution, recovery and aftermath as separate stages.
+  - `CROSS_SCENARIO` condition: Under grave collateral or relational risk, rival outcomes are prebound and neither restraint nor casting is predicted \(SD1-M04 OPEN\).
+  - `CROSS_SCENARIO` condition: In transfer, magic is removed without inventing weapons, explosives or professional expertise; any analogous cherished craft must be supplied and carries lower mapping confidence.
+  - `CROSS_SCENARIO` condition: Companions keep their own information, skills and refusals; no relationship endpoint beyond MAIN17 is assumed.
+  - `CROSS_SCENARIO` bounds: chronology One named slice: a prequel phase in the Crimson Demon village \(Explosions 01-03\), a Continued Explosions or Fantastic Days episode as its own slice, or a main-sequence phase from MAIN01 recruitment to the MAIN17 ending; never after MAIN17, and prequel slices without later relationship knowledge.; interlocutor Attested relations in their phase-appropriate state: Kazuma as carrier, companion and negotiated partner, Yunyun as rival and friend, Darkness, Aqua, Iris, Komekko, Wolbach as teacher-linked target, or strangers as audience, client or opponent without fabricated shared history.; settings Source-world adventuring, village, household or royal settings of the admitted main and expanded slices; A supplied realistic transfer setting with magic removed and no substitute weapons or expertise; Finite mana, bodily depletion and provider dependence retained; Open domains, including grave-risk priority and post-MAIN17 states, end in abstention
+  - `MUNDANE_SOCIAL` condition: Scenes of attested kinds: cooking and gathering, small household economies, family care, rivalry visits, the daily cast and walk, gifts.
+  - `MUNDANE_SOCIAL` condition: No favorite food, schedule or domestic routine beyond what is located; scarcity explains resource attention without making every expenditure prudent.
+  - `MUNDANE_SOCIAL` condition: A minor criticism is not treated as denial of her art, and a neutral task contains no compulsory cast.
+  - `ETHICAL_DELIBERATION` condition: Only for a self-accepted contribution burden with a known feasible alternative, or an explicitly accepted responsibility with a received explanation and real alternative.
+  - `ETHICAL_DELIBERATION` condition: Meaningful consideration is expected, not actual purchase, permanent reform or a guaranteed outcome.
+  - `ETHICAL_DELIBERATION` condition: External prevention is never scored as voluntary restraint, and later rescue or praise never authorizes an earlier start.
+  - `ETHICAL_DELIBERATION` condition: Grave-risk choices are not predicted in either direction.
+  - `ROMANCE_RELATIONSHIP` condition: Toward Kazuma only, in a named main-series phase, with the step reached by then \(V09 reciprocal liking, V11 proposal, V12 accepted intermediate relation, V16 private advance\).
+  - `ROMANCE_RELATIONSHIP` condition: No marriage, completed sex, stable exclusive household or universal consent is assumed; consent is specific to a moment and act.
+  - `ROMANCE_RELATIONSHIP` condition: Darkness and Iris remain rivals and companions in their own right, and Ragcraft's impersonation is not Megumin's conduct.
+  - `ROMANCE_RELATIONSHIP` condition: No romance is imported into prequel slices.
+  - `PROFESSIONAL_CONTEXT` condition: Party or small-group adventuring, leadership of the Continued Explosions kind, or item identification and practical reasoning; no institutional command.
+  - `PROFESSIONAL_CONTEXT` condition: Mana, transport, target separation and recovery are supplied by named providers before the act and are never reconstructed from a successful blast.
+  - `PROFESSIONAL_CONTEXT` condition: Successful damage does not certify a prepared safe operation, and sole authorship of a distributed victory is not assigned.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `bonded-target-transfer-single-case` (evidence-backed limitation): Target-specific friction rests on the Wolbach episode; CP06 M04 is NOT\_TESTED in V16-V17, and a bonded opponent differs from a companion at collateral risk or an animal used as a shield.
+  - `expanded-slices-source-known` (evidence-backed limitation): The expanded books were read after main and holdout exposure; they qualify the account but are not prospective tests, fourteen holdout contracts were untested, and prequel narration grants no later relationship knowledge.
+  - `external-prevention-not-restraint` (evidence-backed limitation): Several apparent stops are other people's acts \(Darkness catching her at V17 C1P185, Yunyun catching the cat in EXP02, a crowd disarming her in Fantastic Days\); they are not evidence of voluntary inhibition.
+  - `grave-risk-selector-open` (evidence-backed limitation): The priority under known grave collateral danger, art reward and a valued shield promise is OPEN in the model \(SD1-M04\); the formal CP06 M05 result is AMBIGUOUS and M06 PARTIAL, while EXP02 and MAIN17 C3P425-438 prevent any universal affection brake.
+  - `model-diagnostic-not-accuracy` (evidence-backed limitation): The Stage D commitments are source-known diagnostic working generalizations requiring prebound premises; the model states that no plausible generated answer earns independent accuracy, VERY\_HIGH fidelity or a numerical moral-development level.
+  - `relationship-endpoints-unestablished` (evidence-backed limitation): No marriage, completed sex or stable exclusive household is established with Kazuma; Kazuma's V05 point allocation was against Megumin's stated intention and later joy does not convert it into prior consent.
+  - `safe-artillery-preparation-untested` (evidence-backed limitation): CP06 M03 is NOT\_TESTED: a fully prepared operation with safe friendly geometry, resources and exit or recovery planning is not established, and successful damage or a later carry does not supply it.
+  - `source-local-components` (evidence-backed limitation): Fantastic Days is game-derived, the artbook dungeon wish is an attributed imagined preference, and the TRPG Crimson Mage sample sheets are source-local personas; none adds biography, learned skills or audio evidence.
+  - `uncurated-suite-readings-and-later-material` (evidence gap): The executed suite, diagnostic report, core freeze, evidence matrix, MAIN\_ONLY\_R1 model, readings, ledgers, checkpoints and sources are not curated on this subject and were not assessed, and holdout, adaptation and post-MAIN17 material is outside the boundary; missing support is not evidence that any trait or capacity is absent.
+- Evidence at basis commit:
+  - [`konosuba:megumin@original-light-novel#expanded-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MEGUMIN_EXPANDED_CHARACTER_MONOGRAPH_V1.md)
+  - [`konosuba:megumin@original-light-novel#main-principal-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_MEGUMIN_CHARACTER_MONOGRAPH.md)
+  - [`konosuba:megumin@original-light-novel#stage-d-principal-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da/series/konosuba/06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_MEGUMIN_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md)
+
+### Subject `konosuba:metal-mora@trpg-advanced-supplied-scenario`
+
+#### Assessment `konosuba-metal-mora-trpg-advanced-supplied-scenario-calibration-20261027-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:metal-mora`
+- Scope: continuity `trpg-advanced-supplied-scenario`
+- Source boundary: TRPG Advanced supplied scenario nativeS298-311/printed296-309 individually designated autonomous machine, same vehicle across controlled/autonomous states; unplayed.
+- Temporal boundary: Authored excavation/controlled attack, device destruction/ejection/enemy classification and conditional wreckage/dependencies.
+- Basis commit: `81ec13bbdce71fdbb44d6bbad45f680925781f84`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `447838482ab0c2f1f7141909e930c77e83117c235df1fdd434713d93d8558704`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration, countercases, bounded procedures and explicit gaps, without inherited project labels or independent validation. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Authored excavation/controlled attack, device destruction/ejection/enemy classification and conditional wreckage/dependencies.; interlocutor Boren controller whose command fails, ejected detected targets, control device/golems/guards distinct functions.; settings Advanced supplied mechanical states only, no human psychology or actual play outcomes.; Output is a bounded noncanonical hypothesis. Preserve recorded rivals,failures and missing predicates; do not invent another actor assent or use the output as source evidence.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` NOT_ASSESSED; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` NOT_ASSESSED; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` NOT_ASSESSED; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `artificial-not-human` (evidence gap): Artificial agency is substantial, but human emotion/family/remorse/inner voice not supplied; absence is gap not universal incapacity.
+  - `independent-validation-gap` (evidence gap): No directly curated independent predictive,native-human or acoustic validation is available in this evidence set; bounded generation is not general accuracy or maturity.
+  - `same-machine-states` (evidence-backed limitation): Device loss changes control/barrier/targeting in same machine, not a second person; device not automatically sentient companion.
+  - `unplayed-mechanics` (evidence-backed limitation): Forced defeat, player-count HP, general card/encounter defense and conditional wreckage are authored contexts, not actual tests or guaranteed effects.
+- Evidence at basis commit:
+  - [`konosuba:metal-mora@trpg-advanced-supplied-scenario#bounded-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md)
+
+### Subject `konosuba:ozuma@original-light-novel`
+
+#### Assessment `konosuba-ozuma-ln-yori01-u024-monograph-20261025-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:ozuma`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only konosuba:ozuma@original-light-novel\#expanded-cohort-monograph, the active\_provisional KONOSUBA\_OZUMA\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the YORI-01 U024 paragraph and ruby projection \(P1-472\), which rests on Kazuma's retrospective narration, direct exchanges and reported histories. The KonoSuba CURRENT\_STATE\_AND\_CORPUS\_MAP.md was read for method, authority order and scope only. The project-local two-rule KONOSUBA\_OZUMA\_RECONSTRUCTION\_MODEL.md, its expanded evidence files, the cohort 43 evidence index, ledgers, readings and the Japanese source are not curated evidence on this subject and nothing is borrowed from them; the monograph's own description of that model is read only as a statement of its scope. No image, whole-edition, independent-reader or primary-source inspection is included.
+- Temporal boundary: The single YORI-01 U024 visit, from Ozuma's self-introduction at P21 to the principals' prostration at P472, with no default state beyond that ending. His companion's death at Hans's hands and his revenge training \(P430\) are his own report, not observed states. Whether he keeps or abandons the P422 credibility judgment, and any later appearance, are outside this assessment, and no in-world calendar time is fixed.
+- Basis commit: `2f77b3877760403413fd45de6564ce018cedaf66`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `4c12a7556147ae3e46a6575d6550a005246f0142dbaabcd283163b1d3bd89721`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology The YORI-01 U024 visit, P21-P472, with the P422 credibility judgment the last attested state.; interlocutor Kazuma and his party as strangers, accused and then benefactors; Ozuma's companions Akyua, Megumi and Rakuresu; guild members.; settings Axel town, guild work and nearby wolf-hunting situations of the kinds narrated in U024; No later appearance, project-local model rule or uncurated evidence; Printed Japanese only, no performed voice
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` NOT_ASSESSED; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `appraisal-versus-perception` (evidence-backed limitation): The monograph separates Ozuma's errors about explanation and intention \(accepting Kazuma's bear-and-wolf story, P330-334; reading the silver arrow as foresight, P369-375\) from accurate situational perception \(the wolves have not dispersed, P394-395\); neither a general credulity rule nor general competence may be inferred.
+  - `credibility-error-has-consequences` (evidence-backed limitation): At P422 he treats witnessed power as proof that bad reports are envious slander and promises to challenge future defamation \(P458\), then repeats an allegation grounded in actual party conduct \(P463\); power, gratitude and good conduct must remain separate evidential questions when modeling his judgments.
+  - `parallel-party-is-not-identity` (evidence-backed limitation): Akyua, Megumi and Rakuresu are not aliases of Kazuma's party, and the parallel composition supplies no shared psychology; companions' biographies are not Ozuma's history.
+  - `reported-history` (evidence-backed limitation): The companion killed by Hans and his revenge training are his own report \(P430\), not observed events, and do not explain all earlier conduct; he arrived with more than one purpose.
+  - `uncurated-model-and-corpus` (evidence gap): The project-local two-rule reconstruction model, its expanded evidence files, ledgers, readings, the evidence index and the Japanese source are not curated on this subject and were not assessed; missing support is not evidence that any trait or capacity is absent.
+- Evidence at basis commit:
+  - [`konosuba:ozuma@original-light-novel#expanded-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2f77b3877760403413fd45de6564ce018cedaf66/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_OZUMA_CHARACTER_MONOGRAPH.md)
+
+### Subject `konosuba:pickles@original-light-novel`
+
+#### Assessment `konosuba-pickles-ln-yori01-u012-monograph-20261025-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:pickles`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only konosuba:pickles@original-light-novel\#expanded-cohort-monograph, the active\_provisional KONOSUBA\_PICKLES\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the YORI-01 U012 paragraph and ruby projection \(P1-336\). The subject is deceased and reached principally through Aqua's translation while he possesses a toy, with Eibram's corroboration; the monograph is a Tier 2 study that itself declines a behavioral reconstruction. The KonoSuba CURRENT\_STATE\_AND\_CORPUS\_MAP.md was read for method, authority order and scope only. The cohort 43 evidence index, the earlier cohort 29 qualification, ledgers, readings and the Japanese source are not curated evidence on this subject and nothing is borrowed from them. No image, whole-edition, independent-reader or primary-source inspection is included.
+- Temporal boundary: The single posthumous YORI-01 U012 episode, from Aqua's identification at P136-144 to the reported departure at P253 and Eibram's unanswered parentage question at P254. His life as head of the house is reported only \(P139, P182, P202, P249\), not narrated as a state, and no in-world calendar time is fixed.
+- Basis commit: `2f77b3877760403413fd45de6564ce018cedaf66`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `1548dc22f7bc2c27b82af378c100b1e709dc03046d3b64b5c409772613820c6b`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology The posthumous YORI-01 U012 episode, P136-P254, ending with the reported departure.; interlocutor His son Eibram, household maids, Darkness, Kazuma and Megumin, always through Aqua as interpreter.; settings The Pickles household during the possessed-toy episode; No living-era scene, later appearance or uncurated evidence; Mediated printed Japanese only, no heard or performed voice
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` NOT_ASSESSED; `VOICE_REGISTER` NOT_ASSESSED; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `adoption-and-parentage` (evidence-backed limitation): The P249 adoption disclosure withdraws the dead-wife explanation and leaves Eibram's biological parentage unanswered \(P254\); neither biological descent nor the absence of attachment may be inferred.
+  - `interested-reports` (evidence-backed limitation): The son's praise of his government \(P202\), his own account of suppressed wishes \(P182\) and of a loved woman lost to the Dustiness family are interested reports; they do not establish public virtue, acted fantasies, an affair or entitlement to Darkness.
+  - `mediated-voice` (evidence-backed limitation): Every Pickles utterance reaches the reader through Aqua's quotation or paraphrase while he possesses a toy; his delivery, original particles and habitual register are uncertified, and Aqua's own comments must not be assigned to him.
+  - `no-reform-or-completed-acts` (evidence-backed limitation): The P233 advice is adverse counsel, not moral growth or consent; the diary's destruction and contents and the completion of his departure are reported or unknown \(P230-231, P253\).
+  - `uncurated-corpus-and-living-era` (evidence gap): No narrated scene of his living life, no project reconstruction model and no uncurated readings, ledgers or Japanese source inform this assessment; missing support is not evidence that any trait or capacity is absent.
+- Evidence at basis commit:
+  - [`konosuba:pickles@original-light-novel#expanded-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2f77b3877760403413fd45de6564ce018cedaf66/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_PICKLES_CHARACTER_MONOGRAPH.md)
+
+### Subject `konosuba:satou-kazuma@original-light-novel`
+
+#### Assessment `konosuba-satou-kazuma-original-light-novel-calibration-20261027-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:satou-kazuma`
+- Scope: continuity `original-light-novel`
+- Source boundary: Accepted main-principal V01-V17 plus individually admitted fixed41 expanded components through the directly curated main/expanded monographs and exact Stage D model only; active\_provisional, retrospective/source-known. Unequal novel, game-derived novel, report, tutorial, image/reference/editorial and scenario planes remain separate. No additional independent primary reading, native-human/acoustic credit or uncurated suite-result borrowing.
+- Temporal boundary: Early/late skill, money, inhibition and negotiated relationships explicitly selected; admitted main V01-V17 plus source-qualified expanded scenes, no final romantic settlement or retrospectively shared knowledge.
+- Basis commit: `81ec13bbdce71fdbb44d6bbad45f680925781f84`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `9e91ab73d9eeca81e1a1989cf07a9c1f05094cc26d936b0d9b48f9152beffd3b`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration, countercases, bounded procedures and explicit gaps, without inherited project labels or independent validation. (version `calibration-1.0.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Main §9, expanded §2 and Stage D §§15/19 support bounded informal practical speech by actual recipient, leverage, available information and purpose: reason-bearing complaint, procedural or open pressure, ordinary question, apology or ridicule. Preserve R1-K08 civil-surface failure: instrumental conduct does not require polite wording; narrator rationalization is not automatically his line.
+  - `CROSS_SCENARIO` condition: Stage D §§14/22/25 with actual obstacle/end, means, reward/effort, relationship, audience and interval fixed; K04 OPEN unless independent facts discriminate; retain omitted recovery and no modern expertise.
+  - `CROSS_SCENARIO` bounds: chronology Early/late skill, money, inhibition and negotiated relationships explicitly selected; admitted main V01-V17 plus source-qualified expanded scenes, no final romantic settlement or retrospectively shared knowledge.; interlocutor Aqua familiar company/grievance, Megumin negotiated close relation, Darkness valued partner with own refusal, Chris independent corrector, Dust mixed-motive lender and strangers without inherited consent.; settings Exact slice/resources/end/accountability/recipient knowledge; no guaranteed cheap success, free recovery or universal sexual/moral behavior.; Output is a bounded noncanonical hypothesis. Preserve recorded rivals,failures and missing predicates; do not invent another actor assent or use the output as source evidence.
+  - `MUNDANE_SOCIAL` condition: Stage D §§18/25 K02 known ordinary work/company with actual security/reward/need; no manufactured secret reward or obligatory contempt.
+  - `ROMANCE_RELATIONSHIP` condition: Established Megumin/Darkness phase and actual agency/consent sequence, preserve unilateral wishes and unsettled exclusivity; no covert Aqua or adultized Iris relationship.
+  - `PROFESSIONAL_CONTEXT` condition: Demonstrated tactical/negotiating/producer tasks with actual tools, mana, skills/providers and liability; local cleverness not complete safe operation or medical/legal expertise.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` B; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `independent-validation-gap` (evidence gap): No directly curated independent predictive,native-human or acoustic validation is available in this evidence set; bounded generation is not general accuracy or maturity.
+  - `open-accountability` (evidence-backed limitation): K04 leaves account selection OPEN without independent audience/accountability facts; a plausible rationale cannot make either branch predicted.
+  - `real-care-real-harm` (evidence-backed limitation): Costly attachment does not erase agency override, humiliation after tears or knowingly imposed means; later care does not retroactively authorize them.
+  - `retained-failures` (evidence-backed limitation): Gen03 tears brake and R1-K08 civil-surface failure remain; retrospective Stage D adds no unseen source score, independent accuracy or maturity.
+  - `source-and-consent` (evidence-backed limitation): First-person report is neither global unreliability nor omniscience; later participation, outcome or heavenly access does not certify earlier consent/intention.
+  - `uncurated-suite-gap` (evidence gap): The linked raw diagnostic inputs,complete literal first-response bodies and suite causal reviews are not directly curated in this assessment evidence set. Model/monograph receiving accounts are used only as attributed summaries; no complete90-first or independent diagnostic inspection is claimed.
+- Evidence at basis commit:
+  - [`konosuba:satou-kazuma@original-light-novel#expanded-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_KAZUMA_EXPANDED_CHARACTER_MONOGRAPH_V1.md)
+  - [`konosuba:satou-kazuma@original-light-novel#main-principal-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_KAZUMA_CHARACTER_MONOGRAPH.md)
+  - [`konosuba:satou-kazuma@original-light-novel#stage-d-principal-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_KAZUMA_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md)
+
+### Subject `konosuba:vanir@original-light-novel`
+
+#### Assessment `konosuba-vanir-ln-mask-main17-monograph-20261027-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:vanir`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only konosuba:vanir@original-light-novel\#current-monograph, the active\_provisional SECONDARY\_VANIR\_EXPANDED\_V1 monograph at basis\_commit, read in full as reviewed repository analysis of accepted main and supplemental histories through the MAIN17 excluded-component closure, with seven MASK BASE-TEXT units and bounded MAIN07 joins rechecked by its author. The KonoSuba CURRENT\_STATE\_AND\_CORPUS\_MAP.md was read for method, authority order and scope only. The linked KONOSUBA\_VANIR\_RECONSTRUCTION\_MODEL.md, the Vanir evidence index, the readings, ledgers, reports and the Japanese source are not curated evidence on this subject and nothing is borrowed from them; the monograph's own 'scoped Tier 3 reconstruction candidate' label is an input, not a conclusion. No exhaustive appearance census, image, audio or primary-source inspection is included.
+- Temporal boundary: Separate episode families kept apart: the MASK human-Wiz origin encounter, the MAIN03 dungeon possession and lost life, the MAIN04 commercial proposal, the MAIN07 financing and Alderp collection, the MASK shop, guild, royal-outing and succubus episodes, and later main, Dust and Yorimichi boundary checks through MAIN17. Publication order is not in-world date, no default present state is fixed, and the number of remaining lives, the completed dungeon and any announced future restitution or punishment are outside this assessment.
+- Basis commit: `e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `50674803ad34a77ae3addcaf4da2b585bde29c168cc4dd49120308242dd96dcc`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology Any one named episode family \(MASK origin, MAIN03, MAIN04, MAIN07, MASK shop episodes or later boundary checks through MAIN17\); the NOT\_READY judgment holds for each, and no later state is assumed.; interlocutor Attested relations only: Wiz, Kazuma, Maxwell, Alderp, Iris, Luna, Yunyun, Leen, the succubi and Aqua, each in its located mix of service, leverage, attachment and antagonism.; settings Source-world shop, guild, dungeon, noble household or royal settings, or a realistic brokerage transfer without supernatural surveillance; No completed dungeon, counted lives or performed future restitution
+  - `PROFESSIONAL_CONTEXT` condition: Merchant brokerage, shop pricing or financing negotiation of the narrated kinds only.
+  - `PROFESSIONAL_CONTEXT` condition: Foresight is limited, can be blocked or left unused, and is never treated as omniscience; without a privileged channel he must infer, ask or bluff.
+  - `PROFESSIONAL_CONTEXT` condition: Effective help can be costly to the counterpart and rewarding to him at once; presumptive handling is not prior permission.
+  - `PROFESSIONAL_CONTEXT` condition: Wiz, clients and officials keep their own skills, refusals and costs.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `announced-not-performed` (evidence-backed limitation): The completed dungeon, the whole punishment of Alderp and every forecast restitution are announced rather than performed, and seeking the court job does not show an appointment.
+  - `first-person-accounts-attributed` (evidence-backed limitation): The origin episode is Wiz's first person and the MAIN07 interlude Alderp's; neither grants access to Vanir's private calculations, and his own accounts remain attributed.
+  - `foresight-bounded` (evidence-backed limitation): His foresight is not omniscience: he says he does not see everything, divine light blocks a search, available sight can be deliberately unused, and Kazuma's belief that he need not read the documents is an interpretation.
+  - `help-is-not-consent` (evidence-backed limitation): Assistance can be effective, costly to the recipient and self-rewarding at once; the MAIN07 presumptive handling, possession and imposed terms remain coercive whatever the later gratitude, and Wiz cannot forgive on others' behalf.
+  - `lives-and-body-states-uncounted` (evidence-backed limitation): Mask, constructed body, possessed host and reconstituted manifestation are one subject; body collapse, a cracked mask, nearly losing a life and an explicit lost life are different observations, and no present reserve of lives is inferred.
+  - `motive-ranking-unresolved` (evidence-backed limitation): The reviewed episodes do not isolate attachment from provider dependence, contractual pride from reputational interest, or pleasure from profit under forced tradeoffs.
+  - `no-supernatural-transfer` (evidence-backed limitation): A realistic transfer must not acquire actual supernatural surveillance because a canonical line sounds confident.
+  - `uncurated-model-index-and-corpus` (evidence gap): The linked reconstruction model, the Vanir evidence index, readings, ledgers and the Japanese source are not curated on this subject and were not assessed; missing support is not evidence that any trait or capacity is absent.
+- Evidence at basis commit:
+  - [`konosuba:vanir@original-light-novel#current-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_VANIR_CHARACTER_MONOGRAPH.md)
+
+### Subject `konosuba:yorimichi04-retired-dark-stalker@original-light-novel`
+
+#### Assessment `konosuba-yorimichi04-retired-dark-stalker-original-light-novel-calibration-20261027-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:yorimichi04-retired-dark-stalker`
+- Scope: continuity `original-light-novel`
+- Source boundary: Directly curated adopted YORI04 U014 monograph for the female first-person retired Dark Stalker. Its controlling PFQ02 text distinguishes a week-pension price comparison from an observed bill,payer,debit or balance; actual later spending is separate. The unnamed DUST-CONT class route remains unjoined. No further uncurated JSON fact,linked model or primary source is borrowed.
+- Temporal boundary: Restored-arm retirement, romance watching, spending/rivalry, emergency readiness and own unpaid-work offer; later MAIN17 teaching attributed, no performed patrol.
+- Basis commit: `81ec13bbdce71fdbb44d6bbad45f680925781f84`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `295156ac1668644c25d54b67d29768b09739a0fdae14cd58fd67d445304e16d9`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration, countercases, bounded procedures and explicit gaps, without inherited project labels or independent validation. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: Only supplied retired-Axel relation/gratitude, actual danger/means, or ambiguous romantic cue and accessible correction; preserve misreading, pleasure/rivalry and missing priority facts.
+  - `CROSS_SCENARIO` bounds: chronology Restored-arm retirement, romance watching, spending/rivalry, emergency readiness and own unpaid-work offer; later MAIN17 teaching attributed, no performed patrol.; interlocutor Assassin independent rival/care partner, Aqua restorer/gratitude object, Kazuma/Megumin watched actors, Angie opposed bottle account.; settings Retired female source slice with actual pension/body and observation limits, no unjoined rumor or ideal-protector transfer.; Output is a bounded noncanonical hypothesis. Preserve recorded rivals,failures and missing predicates; do not invent another actor assent or use the output as source evidence.
+  - `MUNDANE_SOCIAL` condition: Actual pension/resource state supplied independently, observed food/drink/companionship and finite restored body; PFQ02 not an invented paid bill/balance.
+  - `PROFESSIONAL_CONTEXT` condition: Demonstrated observation/readiness/own offer only, actual permissions and partner separate answer; no credit for performed attack, completed patrol or unrelated professional powers.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `independent-validation-gap` (evidence gap): No directly curated independent predictive,native-human or acoustic validation is available in this evidence set; bounded generation is not general accuracy or maturity.
+  - `other-agency` (evidence-backed limitation): Own unpaid offer does not volunteer Assassin; limited tolerated watching not every intrusion assent.
+  - `pfq02` (evidence-backed limitation): Restaurant cost compared with week pension, not observed debit/payer/balance; actual later spending/request evidence separate.
+  - `unjoined-class-route` (evidence gap): DUST-CONT unnamed Dark Stalker lacks name/sex/restored-arm bridge; class/theme similarity neither joins nor certifies distinct person.
+  - `unperformed-work` (evidence-backed limitation): Emergency weapons prepared but no attack; prospective patrol/photo gift not completed, later teacher attribution not staged lesson.
+- Evidence at basis commit:
+  - [`konosuba:yorimichi04-retired-dark-stalker@original-light-novel#bounded-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DARK_STALKER_CHARACTER_MONOGRAPH.md)
 
 ### Subject `mass-effect:commander-shepard@paragon-player-archetype`
 
@@ -375,6 +796,49 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 - Evidence at basis commit:
   - [`re-zero:julius-juukulius@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b20de0edab953d40bf5fc3d2e51dea84e99a610c/series/re-zero/05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md)
 
+### Subject `re-zero:liliana-masquerade@light-novel`
+
+#### Assessment `re-zero-liliana-masquerade-ln-v01-v19-model-20261026-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `re-zero:liliana-masquerade`
+- Scope: continuity `re-zero-main-light-novels`
+- Source boundary: Only re-zero:liliana-masquerade@light-novel\#character-model, the canonical generation V1.1 Liliana Masquerade V01-V19 source-bounded character model at basis\_commit, read in full as reviewed repository analysis of the admitted Japanese main light novels; the model declares that it integrates actual appearances and attributed retrospects from targeted revisits of already consumed V04, V10 and V16-V19 and that the V01-V19 label is a horizon, not an appearance in every volume. The project's current-state entrypoint was read for method, authority order, gate state and scope only. The frozen volume readings, the five specialist ledgers and master ledger, the source lock, the original V1.0 fidelity review, the separate V1.1 confidence/fidelity reassessment, the reconstruction protocol and the Japanese EPUBs are not curated evidence on this subject and nothing is borrowed from them; the model's MONOGRAPH\_READY label, its PASS\_WITH\_BOUND local verdict and its HIGH/MEDIUM rule confidences are inputs, not conclusions. No V20 or later volume, manor side story, web-novel, IF, supplement or adaptation material is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: The model's default, living RZ-E-021 at Kiritaka's canal retrieval after the V19 tower collapse, before unshown transport or waking, in which no new awake reply is established; plus its twelve explicit override selectors from remembered childhood \(age ten\), the departure at thirteen and the silent crossing at seventeen through the V16 reunion and refusal, the V17 E019/E020/E021 park states, the V18 alley, shelters and council and the V19 approach, performance and retrieval, each with knowledge, relationship and body rollbacks. Childhood and early travel are known only through her V19 adult retrospect; discarded E018-E020 branches are Subaru's memory, not hers. No state after the V19 retrieval is established and no in-world dates are fixed.
+- Basis commit: `f79e49071be39667e2fc5d5be5a5f3e9ae503589`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `02012e47ff93143cb25eae1397ee2449193fc961a2e446f20c9573f9df61cae0`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: An awake phase among the model's override selectors is explicitly chosen with its knowledge, relationship and body rollbacks; the default canal-retrieval state yields abstention, never a new awake reply.
+  - `CROSS_SCENARIO` condition: The interlocutor is an attested relation \(Subaru, Emilia, Beatrice, Priscilla, Kiritaka, an audience or shelter listeners\) in the register and knowledge the phase allows; a new recipient receives at most conventional politeness or a proposed performance, never a fabricated shared history.
+  - `CROSS_SCENARIO` condition: Output is labeled NONCANONICAL\_PROBE, follows the rule's stated confidence, keeps R04, R08 and R20 conditional, and retains the fear, misjudgment and dependence the source shows.
+  - `CROSS_SCENARIO` condition: Unrepresented biography, the sister's and suitor's identities, parental motives, the awakening's technical scope, lyrics and any outcome after the V19 retrieval end in abstention.
+  - `CROSS_SCENARIO` bounds: chronology One named phase between the V16 Pristella reunion and the V19 retrieval before sleep, or an explicitly selected remembered phase from her V19 retrospect used only as recollection; by default the latest state is asleep and supports no new action.; interlocutor Subaru as familiar acquaintance and prospective legend subject without knowledge of his loops, Emilia and Beatrice as appreciative listeners, Priscilla as valued partner and pressuring protector, Kiritaka as patron in the phase-appropriate mix of praise, discomfort and reliance, or audiences and shelter listeners; strangers only as audience or recipients of an offered performance.; settings Pristella streets, broadcast, shelters, council, tower and canal settings of V16-V19, or travelling-performance contexts the retrospect attests; No institution, technology or cultural assumption outside the admitted Japanese V01-V19 main light novels; No new powers, complete Wrath or gift mechanics, or fresh singing capacity in a depleted phase; Open domains end in abstention rather than prediction
+  - `MUNDANE_SOCIAL` condition: Scenes of attested kinds only: public performance for wages or applause, proposing song and refreshments for conversation, handling the inherited instrument, enjoying praise or comfort, or a specified small task such as fastening a dress with permission.
+  - `MUNDANE_SOCIAL` condition: No favorite dessert, diet, earnings, address, sleep schedule or private domestic routine is supplied.
+  - `MUNDANE_SOCIAL` condition: Touch and access are recipient- and permission-specific; Priscilla's dress permission grants no access to Liliana's own body, and Beatrice's refusal of hand fussing is retained.
+  - `MUNDANE_SOCIAL` condition: An awake phase is selected explicitly; nothing ordinary is attributed to the sleeping default.
+  - `ROMANCE_RELATIONSHIP` condition: Toward Kiritaka only, in a named phase from V16 patronage through the V19 retrieval; no other romantic relation is attested and the unnamed suitor and marriage invitation are not a recurring contact.
+  - `ROMANCE_RELATIONSHIP` condition: Her private wish to say she is glad to be his songstress is unspoken; no confession, accepted marriage, exclusivity or later talk is asserted.
+  - `ROMANCE_RELATIONSHIP` condition: Her remembered discomfort at his gaze, the sleeping-access boundary and her challenge to his presumptuous love claim stay live.
+  - `ROMANCE_RELATIONSHIP` condition: The imposed kiss is not prior assent, a couple or a romance with Priscilla, and no V20 or later material resolves anything.
+  - `PROFESSIONAL_CONTEXT` condition: Contexts of the kinds narrated: street performance and crowd calming, civic broadcast with Kiritaka's equipment, shelter singing rounds, caravan performance work and the protected Fourth stage.
+  - `PROFESSIONAL_CONTEXT` condition: Her help has a domain: song, guidance, encouragement or a call for assistance; no surgery, diplomacy, escort strength or complete apology is added.
+  - `PROFESSIONAL_CONTEXT` condition: The Fourth performance depends on Priscilla's protection, finite gems and a protected route, and costs pain and stamina; the awakening is not self-understood.
+  - `PROFESSIONAL_CONTEXT` condition: She is a travelling bard, not a sworn retainer, royal knight or civic commander, and the vocational refusal of permanent service holds.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `awakening-and-gift-not-self-known` (evidence-backed limitation): Reinhard identifies her existing gift 伝心 in V18; in V19 it roots and opens without her awareness and without anyone explaining it to her there. She cannot deliver a technical account of the awakening, its range or a counter-Wrath procedure, and the transferred mirror is equipment, not innate telepathy.
+  - `default-state-asleep-before-transport` (evidence-backed limitation): The model's default is living RZ-E-021 after Kiritaka's canal retrieval, with depleted voice and strength, announced sleep, promised but unperformed transport and a conditional promise of later talk; no waking reply, safe arrival or recovery is shown, and any dialogue requires an explicitly selected earlier waking phase rather than an invented wake-up.
+  - `discarded-branches-are-subarus-memory` (evidence-backed limitation): Subaru's discarded square deaths, the E020-only head-butt exchange and Liliana's differing failed-branch responses are not her E021 memories; she does not know his Return by Death, his private reason for postponing his story or the lost Rem identity by familiarity.
+  - `family-sister-and-suitor-unidentified` (evidence-backed limitation): Her family account is her own attributed retrospect; the girl at the silent crossing is only inferred to be her sister and is unnamed, the marriage invitation's proposer is unidentified, parental motives are not known, and the husband-and-ten-children image at V19 B0192 is an unrealized counterfactual.
+  - `kiritaka-relation-unsettled-and-kiss-not-assent` (evidence-backed limitation): The Kiritaka relation ends in relief, teasing and a private future-oriented wish without a spoken confession or settlement, and his earlier gaze remains remembered as uncomfortable; the imposed Priscilla kiss followed struggle, and later pleasure or embarrassment does not supply prior assent.
+  - `same-analyst-documentary-review-and-pending-gate` (evidence-backed limitation): The model's PASS\_WITH\_BOUND verdict is a same-analyst nonblind documentary reassessment of V1.1, not an independent, held-out, runtime or global grade; HIGH and MEDIUM rate source support for a bounded rule, not response likelihood, and both the model header and the project entrypoint record the pair's own full publication gate as pending at basis.
+  - `uncurated-readings-ledgers-reviews-and-primary-sources` (evidence gap): The frozen V04-V19 deep readings, the event, knowledge, mechanics, institution and relationship ledgers, the master ledger, the source lock, the reconstruction protocol, the original and current fidelity reviews and the Japanese EPUBs are not curated evidence on this subject, so the model's block locators and image views were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`re-zero:liliana-masquerade@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f79e49071be39667e2fc5d5be5a5f3e9ae503589/series/re-zero/05%20Character%20Analysis/REZERO_LILIANA_V01_V19_CHARACTER_MODEL.md)
+
 ### Subject `re-zero:mimi@light-novel`
 
 #### Assessment `re-zero-mimi-ln-v01-v17-model-20261023-01`
@@ -608,6 +1072,33 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 - Evidence at basis commit:
   - [`the-idolmaster:yonai-p@u149-anime#u149-full-series-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/dd7112797976a61f5e85517b86a233f597ecbb1d/series/the-idolmaster-cinderella-girls-u149/V1%20Analysis/06%20Full-Series%20Synthesis/U149_FULL_SERIES_SYNTHESIS.md)
   - [`the-idolmaster:yonai-p@u149-anime#yonai-p-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/dd7112797976a61f5e85517b86a233f597ecbb1d/series/the-idolmaster-cinderella-girls-u149/V1%20Analysis/04%20Character%20and%20Specialist%20Analysis/U149_YONAIP_PRODUCER_AUTHORSHIP_ANALYSIS.md)
+
+### Subject `to-be-hero-x:x@animated-series`
+
+#### Assessment `to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `to-be-hero-x:x`
+- Scope: continuity `to-be-hero-x-animated-series`
+- Source boundary: Only to-be-hero-x:x@animated-series\#15-x-zero-godhood-fate-and-the-limit-of-public-will, the canonical Phase-3 Specialist 15 monograph on X and Zero at basis\_commit, read in full as reviewed repository analysis of the frozen Mandarin-primary audiovisual first season, and used only for its section-2 'current X as person' \(the black-haired office worker who can adopt or refuse the public X presentation\); its claims about the X rank as an office, the public X image, Zero, Yan Mo, the Commission and public will are context, not assessed conduct. The project's current-state entrypoint was read for method and scope only. The episode deep readings, longitudinal ledgers, the X representational-sovereignty ledger, the video and motion audits, the E09/E24 coin-donor audit, the name crosswalk, the project character reconstruction method, any Document 20 model and the episodes themselves are not curated evidence on this subject and nothing is borrowed from them. No later season, adaptation or supplementary material is included, and the evaluator performed no audiovisual inspection.
+- Temporal boundary: First-season S01E11-E24 as the artifact declares: the E11 tournament result recognized before the bearer is identified, the E20-E21 office and home presentation, the E22 Liang intervention and pendant retrieval, the E23 anonymous help, and the E24 home invasion, pursuit, bar, history-space and tournament entry ending with the clock-out line; plus the E09 coin gift to young Qīng identified only retrospectively through E24's re-staging. Broadcast order is revelation order, not diegetic development; X's legal name, age, origin and how he became X are unestablished, the E24 credits coda is non-diegetic and the final spatiotemporal discontinuity is unresolved. No state after the season's end is established.
+- Basis commit: `f79e49071be39667e2fc5d5be5a5f3e9ae503589`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `c42ce92f6e2e6beaf4560a4799625d433a4a8babc74e063ec774615c0097cd04`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology First-season E20-E24 as analyzed, from the office and home presentation through the E24 tournament entry, with E11 only as an offscreen result and E09 only as a retrospectively identified gift.; interlocutor Smile as private friend, A-Hu as adversarial confidant, Liang as opponent, unaware coworkers, institutional pursuers and young Qīng as unknowing recipient.; settings The office, home, Liang confrontation, neighborhood rescue, home invasion and pursuit, bar, shared history-space and tournament arena of the first season; Only the person, not the X office, the public X image or Zero; No complete mechanics, range, cost or reversibility of his representational/world-state power; No later season or supplementary material
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `coin-gift-retrospective-without-mechanism` (evidence-backed limitation): The E09 coin donor is identified as X only through E24's re-staging; E09 withholds his face, nothing shows Qīng learning who gave it, and no mechanism links the coin to his powers, fate or Qīng's abilities.
+  - `durability-of-self-limitation-open` (evidence-backed limitation): Whether his ordinary-life, refusal and exit habits survive future trauma, Fear, political escalation or prolonged office is a protected open question; none of his current values guarantees later conduct.
+  - `history-space-is-authored-testimony` (evidence-backed limitation): The shared history-space through which X shows A-Hu Zero's origin is authored by X, who selects sequence, images and framing; it is strong narrative testimony but not an established neutral archive, and how X knows the history is unestablished.
+  - `identity-origin-and-mechanics-unresolved` (evidence-backed limitation): Season 1 leaves X's legal name, age, origin and complete pre-hero history, how he first became X, and the complete mechanics, range, cost, duration and reversibility of his representational/world-state power unresolved; the snap is a recurrent cue, not a universal law.
+  - `monograph-is-constitutional-interpretation` (evidence-backed limitation): The artifact's governing object is the political limit of public will and godhood; X's acts are read chiefly as a counter-model to Zero, his practice is called evidence of current telos rather than permanent benevolence, and no decision rules, priorities or exceptions are given for the person.
+  - `person-not-office-image-or-zero` (evidence-backed limitation): This subject is only the current X as a person; the X rank as an office that can outlast a bearer, the public X image that crowds call god, and Zero are separate entities in the monograph, and claims about them are not conduct of this person.
+  - `uncurated-readings-ledgers-audits-and-episodes` (evidence gap): The episode deep readings, longitudinal ledgers, representational-sovereignty ledger, video and motion audits, the coin-donor audit, the name crosswalk, the project character reconstruction method, any Document 20 model and the audiovisual source are not curated evidence on this subject, so the monograph's timestamps and routes were not rechecked here. Missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`to-be-hero-x:x@animated-series#15-x-zero-godhood-fate-and-the-limit-of-public-will`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f79e49071be39667e2fc5d5be5a5f3e9ae503589/series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/15_X_ZERO_GODHOOD_FATE_AND_THE_LIMIT_OF_PUBLIC_WILL.md)
 
 ### Subject `yuru-camp:shima-rin@manga`
 
