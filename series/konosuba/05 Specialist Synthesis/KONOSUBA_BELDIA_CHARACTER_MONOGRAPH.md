@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+generation: "EARLIER_COHORT_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "MAIN01 complaint/return/defeat plus admitted MASK/Dust projected and other attributed reports. Beldia distinct from later Dullahan commander, head/body one actor. Selective restraint, tactical capacity and harm, no resurrection or universal knight ethics."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "78a00e4bed8b097751a0bee699c2b5b81c142b6e"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "38e84d41739e0035606e87a657712b7b42b4252dbacbac06ed247edfbfd7b84d"
+reference_corrections: 0
+---
+
+> Current authority: scoped active provisional interpretation accepted in the [earlier-monograph authority review](../09%20Audits%20and%20Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The complete original argument below is retained byte for byte. Earlier pending labels record authorship history. Current project progress is owned by the current entrypoint; this adoption adds no primary reading, independent performance, model maturity or capability grade.
+
 # Beldia: a defended home, selective chivalry and escalating retaliation
 
 Status: cohort27 initial monograph, proposed scoped Tier3 with a separate provisional model. The [cohort27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md) owns BE27 locators and their narrative planes. All sources were already admitted and known. The shared source recheck totals include other actors, blanks and repeated accounts; they are not independent decisions or validation trials. Semantic receiving and the containing publication remain pending at authorship.

@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+generation: "EARLIER_COHORT_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "Known EXP01 consultation/pursuit/magic, EXP02 patrol/Arnes attribution, MAIN05 introduction/transport/display and MAIN14 guard/leisure/blame. Shared C21 preparation3154 known BASE slots/20members/5objects and3actual prior images is context, not personal events, new admission or independent validation."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "78a00e4bed8b097751a0bee699c2b5b81c142b6e"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "e60b81811647e715710c9def0b5061321d5aca1c74442eb8e6bf2dc6bee3eaf3"
+reference_corrections: 0
+---
+
+> Current authority: scoped active provisional interpretation accepted in the [earlier-monograph authority review](../09%20Audits%20and%20Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The complete original argument below is retained byte for byte. Earlier pending labels record authorship history. Current project progress is owned by the current entrypoint; this adoption adds no primary reading, independent performance, model maturity or capability grade.
+
 # Bukkorori: performed distinction, intrusive pursuit and useful fallible work
 
 ## 1. Identity and reconstruction scope

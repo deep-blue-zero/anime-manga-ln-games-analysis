@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+generation: "EARLIER_COHORT_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "DUST07 U012 P703–890 individual unnamed former Beldia subordinate with ambition, dialogue, body-specific tactics and open permanent fate. Not Beldia resurrection, universal inherited powers or exact commanded breach. Tier2 monograph only."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "78a00e4bed8b097751a0bee699c2b5b81c142b6e"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "4c0fd8fd5123896aec0a134c5c35b2de87374b3828df43f62d4ca5adac9a75a0"
+reference_corrections: 0
+---
+
+> Current authority: scoped active provisional interpretation accepted in the [earlier-monograph authority review](../09%20Audits%20and%20Manifests/KONOSUBA_EARLIER_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The complete original argument below is retained byte for byte. Earlier pending labels record authorship history. Current project progress is owned by the current entrypoint; this adoption adds no primary reading, independent performance, model maturity or capability grade.
+
 # The Dust07 Dullahan commander: defended status, ambition and an exploitable body
 
 Status: cohort27 initial scoped Tier2 monograph; no proper name, reconstruction model or new hypothetical first bodies. DU27 locators belong to the [cohort27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). The received DUST07 U012 P703–890 covers the encounter and its immediate aftermath. Source-known reading is not independent validation. Semantic receiving and containing publication remain pending at authorship.
