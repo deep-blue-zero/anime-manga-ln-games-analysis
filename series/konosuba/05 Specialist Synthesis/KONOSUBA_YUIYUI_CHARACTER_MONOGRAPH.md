@@ -1,3 +1,22 @@
+---
+series: "KONOSUBA"
+artifact_type: "character_monograph"
+character: "Yuiyui"
+scope: "YUIYUI_CURRENT_AUTHORITY_20261026"
+status: "active_provisional"
+source_boundary: "Shared3992knownBASE/22members/7textobjects plus1FAN-MEMpage/eighthobject; context/negative retrieval are not personal decisions, no new whole-source/ruby/image-set/admission/independence."
+authority_review_basis_commit: "c5a176928f08aac6a445af355e57a8b3f6d7cc58"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+authority_preserved_original_argument_sha256: "9482e62d86c64e014faa171433903ba7ea549f1c350e67412fdd44a50d796c96"
+authority_current_argument_sha256: "9482e62d86c64e014faa171433903ba7ea549f1c350e67412fdd44a50d796c96"
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+> Authority adoption notice: This administrative current-public derivative retains the complete previously published argument below without changing any analytical byte. Its original SHA-256 is `9482e62d86c64e014faa171433903ba7ea549f1c350e67412fdd44a50d796c96`.
+> The original private foundation and every original tested model, rule, input, first response, defect, score and null remain at their recorded boundaries. Historical authorship-time or publication-pending statements below remain attributable history. Current provisional use is governed by the paired [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.md) and [record](../09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.json). This adoption adds no source admission, whole-source/ruby/image reading, new model or test, capability grade, maturity, independent validation or confidence gain.
+
 # Yuiyui: household care, advantageous futures and imposed arrangements
 
 Status: initial cohort23 monograph, proposed scoped Tier3 with a separate provisional model. Authored from known accepted sources before exact diagnostic inputs and first responses. Canonical receiving and publication remain pending. The joint Crimson parents/teacher evidence index supplies YY01–YY14; native provenance supplies exact object/member pins and actual read windows. This is an individual account of ゆいゆい, using Yuiyui as a working Latin retrieval label.
