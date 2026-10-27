@@ -1,3 +1,22 @@
+---
+series: "KONOSUBA"
+artifact_type: "character_monograph"
+character: "Rex"
+scope: "REX_CURRENT_AUTHORITY_20261026"
+status: "active_provisional"
+source_boundary: "1556 known BASE context slots/six members/twoobjects; four complete EXP03 BASE members and two partial CONTEXP02 members. No new full ruby/image/whole-source/admission/independent credit."
+authority_review_basis_commit: "c5a176928f08aac6a445af355e57a8b3f6d7cc58"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+authority_preserved_original_argument_sha256: "b193933c729f6b9af045daecbf9a7ad21dc3d4c8aa1263c1b5d06902c1fb7dab"
+authority_current_argument_sha256: "b193933c729f6b9af045daecbf9a7ad21dc3d4c8aa1263c1b5d06902c1fb7dab"
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+> Authority adoption notice: This administrative current-public derivative retains the complete previously published argument below without changing any analytical byte. Its original SHA-256 is `b193933c729f6b9af045daecbf9a7ad21dc3d4c8aa1263c1b5d06902c1fb7dab`.
+> The original private foundation and every original tested model, rule, input, first response, defect, score and null remain at their recorded boundaries. Historical authorship-time or publication-pending statements below remain attributable history. Current provisional use is governed by the paired [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.md) and [record](../09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.json). This adoption adds no source admission, whole-source/ruby/image reading, new model or test, capability grade, maturity, independent validation or confidence gain.
+
 # Rex: selective judgment, practical teamwork and an ambitious party
 
 ## 1. Identity and narrative position

@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+scope: "Actor-specific bounded argument and locators retained in the original body; cohort 46 context totals are not independent observations for this actor."
+generation: "COHORT46_V1_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "Japanese YORI04 five complete fiction paragraph/ruby members and declared bounded MAIN02, MAIN16, MAIN17, YORI01 and DUST-CONT returns; 3986 P/1559 ruby in 16 members/7 known source objects, no new full-edition/image/residual or independent credit."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "33ff979c717586c6685a8b19727c67d07866b00f"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "17b09b6b0cdfd6f0fa4053253f76526b36f6a12cdf9c1b34c9075d911208d79d"
+---
+
+> Current authority: scoped active provisional interpretation, accepted in the [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The original argument below is retained byte for byte. Any draft-era pending labels in that argument describe its authorship history; the adoption record and actual containing publication own the later status. This classification supplies no new primary reading, model maturity or independent performance credit.
+
 # Anna Filante Esteroid: a resident who asks for another story
 
 ## A full name with two material anchors

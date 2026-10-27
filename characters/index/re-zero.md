@@ -189,6 +189,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Reviewed current evidence:
   - [`character-model` — Julius Juukulius: V01–V16 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md)
 
+<a id="liliana-masquerade"></a>
+
+### Liliana Masquerade
+
+- Entity ID: `re-zero:liliana-masquerade`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:liliana-masquerade@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Liliana Masquerade across the original Japanese main light novels V01–V19, integrating actual appearances and attributed retrospects from targeted revisits of already-consumed V04, V10 and V16–V19; the horizon label does not assert an appearance in every volume. Default is living E021 at Kiritaka's canal retrieval after the tower collapse, before unshown transport or waking; Subaru's discarded branches are not her memories. No V20 or later, manor side-story, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Liliana Masquerade: V01–V19 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_LILIANA_V01_V19_CHARACTER_MODEL.md)
+
 <a id="mimi"></a>
 
 ### Mimi
@@ -279,6 +301,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
   - [`character-model` — Ram: V01–V15 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_RAM_V01_V15_CHARACTER_MODEL.md)
   - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](../../series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
   - [`master-longitudinal-ledger` — Cumulative character, information and relationship states (cited here for V02–V03)](../../series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+
+<a id="regulus-corneas"></a>
+
+### Regulus Corneas
+
+- Entity ID: `re-zero:regulus-corneas`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:regulus-corneas@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Regulus Corneas across the original Japanese main light novels V01–V19, integrating actual appearances and attributed retrospects from targeted revisits of already-consumed V09, V14 and V16–V19 (including the V14 represented forest trial and the full V19 interior); the horizon label does not assert an appearance in every volume. Default is V19 E021 after narrated terminal drowning, with no current living reply; Subaru's discarded branches are not his memories. No V20 or later, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Regulus Corneas: V01–V19 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_REGULUS_V01_V19_CHARACTER_MODEL.md)
 
 <a id="reinhard"></a>
 

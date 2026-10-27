@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+scope: "Actor-specific bounded argument and locators retained in the original body; cohort 47 context totals are not independent observations for this actor."
+generation: "COHORT47_V1_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "Known Japanese MAIN01/02/06/11/15 and declared bounded comparison returns; C47 3160 P/3010 ruby in 43 members/24 editions, six complete narrative members including repeated framing, no new image/residual/full-edition or independent credit."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "33ff979c717586c6685a8b19727c67d07866b00f"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "ddf6ced4d34bdffca2f0997056617c35cd245ab8fb924d55d108326ed503bc6d"
+---
+
+> Current authority: scoped active provisional interpretation, accepted in the [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The original argument below is retained byte for byte. Any draft-era pending labels in that argument describe its authorship history; the adoption record and actual containing publication own the later status. This classification supplies no new primary reading, model maturity or independent performance credit.
+
 # Heidel: service that anticipates, enables and sometimes misreads
 
 ## A name the guest repeatedly gets wrong

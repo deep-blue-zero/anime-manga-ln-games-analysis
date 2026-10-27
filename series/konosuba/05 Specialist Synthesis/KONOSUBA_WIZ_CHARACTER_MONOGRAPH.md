@@ -5,6 +5,8 @@ character: Wiz
 generation: SECONDARY_WIZ_EXPANDED_V1
 status: active_provisional
 source_boundary: Source-informed scoped reconstruction after Vanir cohort03 closure; seven complete accepted MASK BASE-TEXT units and bounded MAIN04 native rechecks with separately identified derivative/late routes
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

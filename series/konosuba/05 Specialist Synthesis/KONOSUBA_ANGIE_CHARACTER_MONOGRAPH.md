@@ -1,3 +1,23 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+scope: "Actor-specific bounded argument and locators retained in the original body; cohort 46 context totals are not independent observations for this actor."
+generation: "COHORT46_V1_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "Japanese YORI04 five complete fiction paragraph/ruby members and declared bounded MAIN02, MAIN16, MAIN17, YORI01 and DUST-CONT returns; 3986 P/1559 ruby in 16 members/7 known source objects, no new full-edition/image/residual or independent credit."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "33ff979c717586c6685a8b19727c67d07866b00f"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "941086ad41d0c769ee7aa4faaf1026950ac5327300f0a49f910a0ad47505be91"
+current_source_qualifications: ["series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json"]
+---
+
+> Current authority: scoped active provisional interpretation, accepted in the [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The original argument below is retained byte for byte. Any draft-era pending labels in that argument describe its authorship history; the adoption record and actual containing publication own the later status. This classification supplies no new primary reading, model maturity or independent performance credit.
+
+> Controlling source qualification **C46-PFQ03**: Aqua’s Heal at YORI04 U018 P624 treats Kazuma after his reported hearing damage. Angie is blown away at P613; this passage does not establish her injury diagnosis, a Heal cast on her, or her recovery. Read the retained discussion with the [complete qualification](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json).
+
 # Angie: being the senior, carrying the cost and misreading Axel
 
 ## A named seventeen-year-old Rune Knight

@@ -1,0 +1,36 @@
+{
+  "schema": "konosuba.staged.complete-first-text-actual-receiving.v1",
+  "recorded_utc": "2026-10-26T06:22:25.292203+00:00",
+  "all90_seal_sha256": "0ebbe678ad8fc6916b910c7b94e825c07b3f3c39ccc4cac835e2af2ee41ec02b",
+  "complete_actual_readback": [
+    {
+      "families": [
+        "F01",
+        "F02",
+        "F03"
+      ],
+      "chunk": "01ffa6"
+    },
+    {
+      "families": [
+        "F04",
+        "F05",
+        "F06"
+      ],
+      "chunk": "ca18ae"
+    },
+    {
+      "families": [
+        "F07",
+        "F08",
+        "F09"
+      ],
+      "chunk": "fe13f2"
+    }
+  ],
+  "actual_complete_texts_received": 90,
+  "total_source_first_text_bytes": 59438,
+  "no_omitted_responses": true,
+  "actual_criteria_readback": "b683d5",
+  "no_primary_native_source_credit": true
+}

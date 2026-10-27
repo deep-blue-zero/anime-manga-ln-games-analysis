@@ -1,3 +1,20 @@
+---
+series: "KonoSuba"
+artifact_type: "character_monograph"
+scope: "Actor-specific bounded argument and locators retained in the original body; cohort 52 context totals are not independent observations for this actor."
+generation: "COHORT52_V1_AUTHORITY_RECONCILIATION_01"
+status: "active_provisional"
+source_boundary: "TRPG Core world-guide fiction S252–262/printed250–260 or Core supplied scenario S300–313/printed298–311 or Advanced supplied scenario S298–311/printed296–309, per artifact; authored guide/scenario states, never actual play or main-novel/replay observation."
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_review_basis_commit: "33ff979c717586c6685a8b19727c67d07866b00f"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+original_argument_sha256: "83253b4b998f596db4071419a79461e7a02a8c8c56d2eae1de5d0373c1e2ca39"
+---
+
+> Current authority: scoped active provisional interpretation, accepted in the [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.md). The original argument below is retained byte for byte. Any draft-era pending labels in that argument describe its authorship history; the adoption record and actual containing publication own the later status. This classification supplies no new primary reading, model maturity or independent performance credit.
+
 # Boren: earned strength, claimed authority and coercive command
 
 **ボーレン / Bōren** is the named kobold antagonist in the Advanced supplied scenario **この地底戦車に強制停止を！**, native **TRPG-ADV-S298–311**, printed **296–309**. The preceding divider is native S297/printed295. This is an unperformed authored adventure, not either published replay or a newly witnessed main-novel episode. Shared kobold status does not establish an identity connection to the Fanbook's repeatedly appearing Kobold Hero; no such join is admitted here.

@@ -483,3 +483,474 @@ Source67d4c529 passed exact10365-file author preflight, complete remote tree/all
 All ten maintained ledger responsibilities now receive attributable C51/C52 appendices. The prior current bodies remain exact prefixes; the original prediction ledger is wholly unchanged. Seven responsibilities received complete current semantic review; humor, Japanese voice and prediction validation received the narrower targeted inspection recorded in the [consolidation audit](09%20Audits%20and%20Manifests/KONOSUBA_C51_C52_LEDGER_CONSOLIDATION_AUDIT_01.json). All eleven physical core files were loaded and byte-verified. The bounded local MAIN07/DUST04 return narrows the existing event-join lead without inventing a detailed retelling or independent observation.
 
 The C52 source gate remains closed at67d4c529; owner-merged main12e6e328 has its own successful full479-test audit. Those results do not certify this new containing candidate, whose publication is pending. Counts remain71 model bodies/65 scoped secondary model entries,231 profile passages,69 monograph-only studies and836 nonfinal access records; every independent-observation count and the global completion percentage remain unassigned. Seven expanded specialists, the extended/full-series syntheses, six distinct StageD successors, the final nine-category battery and designated curation/evaluation/protected integration/release remain due.
+
+
+## Post-C52 ledger source publication closed at e9e89cd6
+
+The [scoped author gate](09%20Audits%20and%20Manifests/KONOSUBA_C51_C52_LEDGER_PUBLICATION_GATE_CLOSE_01.json) is closed at exact source `e9e89cd6e9773be2eb87a693f1d9bdb7c9013efb`: complete10370-path remote-tree readback,23 changed streams,1762 freshly reloaded project bodies and71 preserved models. The source’s own run40261732113 executed all479 discovered test IDs with all five non-success categories zero; all246 preservation checks were actually executed before commit and the published bodies were subsequently verified exact. Protected-main integration is separately owned. This closure supersedes pending-at-authorship wording only for this source, not for a later containing candidate. The complete48-page current review of seven main-only specialist bodies is finished; expanded versions,extended/full-series syntheses,six StageD successors,final battery and designated completion/integration/release remain due.
+
+
+## Expanded specialist versions V1 — source-known literary consolidation
+
+Added seven substantive, separately attributable expanded specialists for Kazuma,Aqua,Megumin,Darkness,party,humor and Japanese language. Main-only whole bodies remain unchanged. Actual source/semantic receiving and all source-class/chronology/knowledge limits are recorded in the [scope audit](09%20Audits%20and%20Manifests/KONOSUBA_EXPANDED_SPECIALIST_SYNTHESIS_SCOPE_AUDIT_01.json); the single current map routes both phases. Original models,forecasts,first responses,scorecards,L/H codes and blanks remain intact. No StageD model,battery,independent accuracy or release completion follows from these essays. This containing publication is pending.
+
+
+## Seven expanded specialists: verified author publication — 2026-10-26T04:54:03.965633+00:00
+
+Source `f659d164d359644c32238e5de5145ee1db508b92` / tree `479c801f3a742a7d92a2783d13f8d557c9ec9b0e` passed its exact full index preflight, complete remote readback and own full479 audit40270306533; all discovered test IDs and both isolated job cleanups were verified. Fresh reload covers all1,771 project bodies/71 preserved model bodies. [Gate](09%20Audits%20and%20Manifests/KONOSUBA_EXPANDED_SPECIALISTS_PUBLICATION_GATE_CLOSE_01.json). The seven earlier main-only bodies, frozen histories, scores and blanks remain intact. Wider synthesis, StageD/battery and final designated responsibilities continue.
+
+
+## Entrypoint state displaced after expanded-specialist review — 2026-10-26T04:58:40.157599+00:00
+
+PR345 comment4374021391 identified an obsolete authoritative operation/frontmatter beneath otherwise completed expanded work. The following exact prior controls came from source `f659d164d359644c32238e5de5145ee1db508b92`; they are historical, not next-work instructions. All unaffected map bytes and every frozen analytical artifact remain preserved.
+
+### Prior frontmatter
+
+```yaml
+---
+series: KONOSUBA
+artifact_type: corpus_map
+scope: FULL_MAIN_SERIES
+generation: V1
+status: canonical
+source_boundary: Cohort52 exact-source author gate closed at67d4c529;71 model artifacts and836 nonfinal source-access records;owner PR338 integration observed at d96b4603;full program active;percentage null
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md
+  method_status: canonical
+  source_reconnaissance_complete: true
+  required_ledgers_initialized: true
+  sequential_analysis_lock: open
+  next_permitted_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume
+  authorized_start: V11
+  terminal_boundary: V17
+  committed_high_water_mark: V17
+  next_candidate_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+  confirmation_between_units: false
+  run_state: active
+---
+```
+
+### Prior current-operation body
+
+```markdown
+
+
+**C52 has closed its exact-source author publication gate; the full KonoSuba program continues.** Four monographs treat the guide newcomer,Okina,Boren and the autonomous Metal Mōrā tank. Fifteen bounded profiles cover nine optional samples,two guide counterparts and four captive women;22 incidental routes preserve source-local groups,unselected branches,casualties,reference roles and nonperson equipment provenance. All41 complete twelve-dimension dispositions retain source boundaries,agency,counterevidence and unresolved identity. Eight attributable precision findings qualify derivative labels,translation,locators,editorial claims and sequential ownership while original notes remain preserved.
+
+Current totals are71 unchanged model bodies/65 scoped secondary model entries,231 bounded-profile passages,69 monograph-only studies and836 nonfinal source-access records in eleven parts,80x10+36. Counts describe treatments and artifacts. Twelve named reference rows retain all8 core fields;aggregate38 preserves its prior8-field archive and C31 history. The other782 entering records and all19 canonical/private differences remain exact. All independent counts stay null.
+
+The [C52 evidence index](08%20Evidence%20and%20Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md), [individual audit](09%20Audits%20and%20Manifests/KONOSUBA_COHORT52_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json), [typed routes](09%20Audits%20and%20Manifests/KONOSUBA_COHORT52_TYPED_SOURCE_ACCESS_ROUTES_01.json), [precision findings](09%20Audits%20and%20Manifests/KONOSUBA_COHORT52_SOURCE_PRECISION_QUALIFICATIONS_01.json) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_COHORT52_RECEIVING_AND_PROVENANCE.json) own their declared scopes. Actual semantic return is50 Core+32 Advanced complete native images and before-records,21 complete census neighbors in both planes and8 complete current owners. Technical source correspondence adds no new whole-edition semantic or independent-validation credit.
+
+Narrated guide fiction,unplayed scenarios,optional builds and life paths remain distinct. Reference ages,rumor,appearance estimates and conditional help preserve source states. The guide receptionist/Luna correspondence remains possible;equipment context points to the existing captive women while remainder provenance stays unknown. Boren labor and skill coexist with coercion;artificial or Extra status does not erase agency.
+
+Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue. The [C52 author gate](09%20Audits%20and%20Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json) records the actual source boundary and the observed provider-protection qualification. Accepted-main136f5733 has its own full479-test audit40245013203. C51 gate87f93dab retains its own479-test audit and reload;its reviewed closing records are now included in source67d4c529.
+
+Remaining work:broader identity/reference/image and full-ledger reconciliation and final individual dispositions;seven expanded specialists;extended/full-series syntheses;six distinct versioned StageD successors;the final nine-category battery;designated curation/evaluation;protected integration of later increments;component release and final-entry work. Current derivative preparation reviews existing Dust,Komekko and Hoost homes before resolving concrete remaining joins or ledger gaps. It earns no new native exposure or automatic model promotion. Final tiers,unique-person denominator and global percentage remain unresolved/null.
+
+```
+
+### Prior active route paragraphs
+
+```markdown
+Full individual secondary census and joins, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active.
+```
+
+```markdown
+The four mandatory principal subjects remain Satou Kazuma, Aqua, Megumin and Darkness, with party interaction and cross-context transfer as separate model responsibilities. Current main-only specialists remain in `05 Specialist Synthesis`; current main-only models/evidence remain in `06 Character Modeling and Reconstruction`. No new empty architecture layers or parallel project roots are required.
+```
+
+```markdown
+All declared supplemental, mixed/reference and main excluded-component source programs have closed their stated publication gates. Remaining work is the full individual secondary census and event joins, earned monographs/models/bounded profiles, expanded specialist synthesis, separately versioned principal/party/transfer revisions, synchronized evidence/locators/indexes, designated curation/integration and final source/component/authority/release audits. Any later source operation still requires its applicable admission and receiving gates; none is opened by this paragraph. A character cohort or recovery milestone does not end the program, and a warm ending or paid task does not imply complete causal repair, full consent or model success.
+```
+
+```markdown
+Continue the structured current operation above. Each next source requires separate admission with informed exposure declared. Preserve original questions, the preceding working inquiries and adverse history before any new body is read. Only after complete actual reading/seal may formal coding, seventeen-responsibility analysis, ten-ledger uptake and exact publication follow.
+
+Further source units then proceed in the governed natural order and scopes in the matrix/architecture. Keep accepted past readings and frozen baseline evidence intact, and use attributed revisions for analytical corrections. Git/audit receipts own publication identities; this map owns present state and governing routes.
+```
+
+
+## PR345 entrypoint correction: exact source gate closed — 2026-10-26T05:40:48.415357+00:00
+
+Source `d19992708d222141f1dff6e35b8daf43eb868a8a` / tree `1647c22c75c9e56e72ae7f7cc5e59fa102f957f5` passed full10,385 author preflight/remote bindings, all4 changed bodies, fresh1,772 project bodies/71 preserved models and own full479 audit40274352393. [Gate](09%20Audits%20and%20Manifests/KONOSUBA_EXPANDED_SPECIALIST_ENTRYPOINT_REVIEW_GATE_CLOSE_01.json). Comment4374021391 is addressed by active-control changes with exact displaced history and inverse preservation. The supported-mode preflight qualification is retained. No actual new first, model grade or program completion is credited at this source.
+
+
+## Stage D input freeze: displaced active controls â€” 2026-10-26T05:54:18.818289+00:00
+
+The following exact previous controls are retained as history. The current entrypoint advances to actual release with zero saved firsts. Model/input/binding files remain frozen. All earlier text outside these declared replacements remains exact.
+
+```text
+source_boundary: Expanded specialists published/full author gate closed at f659d164; declared fixed41 source programs retained; private reviewed extended synthesis and six frozen StageD cores;45 settings/90 planned prompts/zero new firsts;full program active;percentage null
+```
+
+```text
+next_permitted_operation: STAGE_D_INPUT_PREBINDING_FREEZE_AND_ACTUAL_FIRST_RESPONSES
+```
+
+```text
+next_candidate_operation: STAGE_D_INPUT_PREBINDING_FREEZE_AND_ACTUAL_FIRST_RESPONSES
+```
+
+```text
+The private packet `post-validation-staged-models-v1` owns the actual current execution preparation. Its accepted model-core freeze is SHA256 `2bde793fbf6a93d1de6b2b09397eb1999ebc860f66e31c6f39ac7378dba95113`. The new bank has 45 settings, covering all nine protocol families for each principal and the party, with 90 planned paired-mode prompts. Its complete input-review plan is SHA256 `029a105a765ed6cae7322be7b8abd05c3b3004982f895bb84e6e22b47fc3eac7`. **No new Stage D first response has yet been generated.** Next, finalize the explicit model/case prebindings, freeze the reviewed inputs, record an actual release, and save each first response once before any feedback. Same-assistant authorship, known source exposure, dependent mode pairs, OPEN choices and typed constraints must not be converted into independent accuracy or directional successes.
+```
+
+```text
+Their exact frozen cores, future input bindings, actual firsts and later feedback require separate attributable records.
+```
+
+```text
+Continue the structured Stage D operation above: complete prebindings and the input freeze, then preserve actual first responses before feedback.
+```
+
+
+## Stage D actual firsts 40/90 — 2026-10-26T06:01:11.492524+00:00
+
+Exact displaced active controls follow; counts reflect saved/hash-verified originals only. No feedback has begun.
+
+```text
+source_boundary: Expanded specialists and entrypoint correction published/full author gates closed through d1999270; fixed41 programs retained; private reviewed extended synthesis and six frozen StageD cores;45 settings/90 inputs and prebindings frozen;actual release next/zero firsts;full program active;percentage null
+```
+
+```text
+**Actual release and all 90 complete first texts remain next; none has been saved at this update.**
+```
+
+```text
+Record release before composing complete responses, save each original once, and finish all firsts before feedback.
+```
+
+```text
+Continue the structured Stage D operation above: record the actual release, then preserve all 90 complete first responses before feedback.
+```
+
+
+## Stage D actual firsts 90/90 — 2026-10-26T06:07:27.739159+00:00
+
+Exact displaced active controls follow; counts reflect saved/hash-verified originals only. No feedback has begun.
+
+```text
+source_boundary: Published expanded specialists and entrypoint gates closed through d1999270; fixed41 retained; six StageD cores and45settings/90inputs frozen;actual release/firsts40/90 sealed;feedback not started;full program active;percentage null
+```
+
+```text
+**Actual run: release recorded; 40/90 complete first texts saved once and sealed; feedback has not begun.**
+```
+
+```text
+next_permitted_operation: STAGE_D_ACTUAL_RELEASE_AND_PRESERVED_FIRST_RESPONSES_THEN_FEEDBACK
+```
+
+```text
+next_candidate_operation: STAGE_D_ACTUAL_RELEASE_AND_PRESERVED_FIRST_RESPONSES_THEN_FEEDBACK
+```
+
+```text
+Continue the structured Stage D operation above: complete the released run and preserve all 90 first responses before feedback.
+```
+
+
+## Executed Stage D suite and extended synthesis: displaced controls — 2026-10-26T06:22:25.292203+00:00
+
+Exact prior active controls follow. Their pending first-response and feedback statements are historical. All unrelated current-map bytes remain exact. New artifacts preserve the six tested cores and all originals; current feedback02 only qualifies the mode enum join.
+
+```text
+source_boundary: Published expanded specialists and entrypoint gates closed through d1999270; fixed41 retained; six StageD cores and45settings/90inputs frozen;actual release/firsts90/90 sealed;feedback not started;full program active;percentage null
+```
+
+```text
+next_permitted_operation: STAGE_D_SEALED90_ACTUAL_READBACK_AND_SEPARATE_FEEDBACK
+```
+
+```text
+next_candidate_operation: STAGE_D_SEALED90_ACTUAL_READBACK_AND_SEPARATE_FEEDBACK
+```
+
+```text
+<!-- CURRENT_OPERATION_START -->
+
+**Current phase: post-validation Stage D diagnostic inputs and execution.** The seven expanded specialist papers are published and their exact author gate is closed at `f659d164d359644c32238e5de5145ee1db508b92`. Their [scope record](09%20Audits%20and%20Manifests/KONOSUBA_EXPANDED_SPECIALIST_SYNTHESIS_SCOPE_AUDIT_01.json) and [publication gate](09%20Audits%20and%20Manifests/KONOSUBA_EXPANDED_SPECIALISTS_PUBLICATION_GATE_CLOSE_01.json) govern the current expanded literary interpretation; the seven main-only bodies remain wholly retrievable. Do not repeat C52 admission, the completed broader audit/ledger consolidation or authorship of these seven papers.
+
+The combined extended-corpus synthesis is a semantically reviewed **private candidate**, not yet a published analytical home. Six distinct provisional Stage D model cores—four principals, party and transfer—have been privately authored, fully reviewed and frozen before the concrete new case bank. The original 71 published model bodies, MAIN_ONLY_R1 forecasts, four source-local scores, first responses and blank/null commitments remain unchanged. These six private successor versions create no additional secondary subjects and have not been promoted as mature canonical models.
+
+The private packet `post-validation-staged-models-v1` owns the current diagnostic execution. Six accepted model cores were frozen before concrete case authorship (SHA256 `2bde793fbf6a93d1de6b2b09397eb1999ebc860f66e31c6f39ac7378dba95113`). All 45 settings, 90 exact paired-mode prompts and their primary/typed prebindings have now been semantically reviewed and frozen (input-freeze SHA256 `8b9d343573f4728eae7defc05a7912332a57cbde7a8b0028bddfffe792c65068`). **Actual run: release recorded; 90/90 complete first texts saved once and sealed; feedback has not begun.** The actual release precedes complete response authorship; continue saving each original once and finish all firsts before feedback. The 49 fully prebound directional opening views concern 18 distinct commitments; they are dependent opportunities, not an accuracy denominator. OPEN choices, typed constraints, mode qualifications and unknown results retain their separate meanings. Same-assistant source-known case design anticipated behavior; recorded firsts are first complete released continuations, without a claim of blinding or independent API sampling.
+
+All nineteen supplemental supplied editions, seventeen main-edition excluded-component programs and five mixed/reference programs retain their closed declared source gates. The broader identity/reference/image audit, evidence-proportional individual dispositions and ten-ledger consolidation have been performed at their recorded scopes. This source-program accounting does not establish a narrative-component denominator or force another native pass. Current treatment counts remain 71 published model bodies / 65 scoped secondary model entries, 231 profile passages, 69 monograph-only studies and 836 nonfinal access records. All nineteen historical canonical/private row differences and all independent-observation nulls remain intact; final unique-person denominator and global completion percentage remain null.
+
+After the actual first-response battery and separate feedback, publish the reviewed extended synthesis and attributable Stage D suite with their exact evidence. Then complete the full-series synthesis, claim/evidence routing, component/responsibility accounting and separately owned curation/evaluation, protected integration and release. A cohort, essay, frozen model, bank or internally plausible output does not close the full program. Earlier dated/appended C52 and pending-at-authorship statements below are retained history and cannot override this current-operation block or the frontmatter.
+
+<!-- CURRENT_OPERATION_END -->
+```
+
+```text
+Nineteen of19 supplemental supplied editions, all five mixed/reference programs and all17 main excluded-component programs have closed their full publication gates at the declared supplied-edition scopes. Original accepted principal histories retain exact authority and zero new principal-pass credit. This source-program accounting is not a narrative-component percentage: the global component denominator remains unresolved and percentage is null. Original metadata audits retain their historical scopes. The broader secondary audit and ledger consolidation are recorded at their declared scopes, and all seven expanded specialists are published. The reviewed private extended synthesis, six frozen Stage D cores and prepared nine-family/two-mode bank now lead the active route above. Actual first responses/feedback, full-series synthesis, component accounting and designated curation/evaluation/integration/release remain due.
+```
+
+```text
+The four mandatory principal subjects remain Satou Kazuma, Aqua, Megumin and Darkness, with party interaction and cross-context transfer as separate model responsibilities. `05 Specialist Synthesis` now contains both published expanded versions and preserved main-only baselines. `06 Character Modeling and Reconstruction` retains MAIN_ONLY_R1 and the other earlier model bodies; the six reviewed Stage D successors are privately frozen and not yet published. Their exact frozen cores and now-frozen input bindings are privately recorded; actual firsts and later feedback require separate attributable records.
+
+All declared source programs and the seven expanded specialist publications retain their closed gates. Current work is the actual Stage D diagnostic release/execution and feedback, followed by the combined extended/full-series syntheses, versioned-suite publication, synchronized claims/evidence, component/responsibility accounting and designated curation/evaluation/integration/release. Residual identities, final tiers and denominators keep their explicit uncertainty; they do not justify repeating the completed audit wholesale or forcing new model promotions. A later source admission, if actually needed, still requires its separate gates. A warm ending or paid task does not imply complete causal repair, consent or model success.
+```
+
+```text
+Continue the structured Stage D operation above: all 90 original complete first responses are sealed. Perform complete actual readback, then record separate criterion-level feedback without rewriting any original. The exact inputs and prebindings are frozen; do not rewrite them after seeing responses. The new hypothetical battery does not create another literary holdout or alter any old score. Review and exact publication remain distinct from private preparation.
+
+
+```
+
+The new report records90 complete firsts,720 criterion entries,49 dependent fully prebound directional opening traces across18 commitments,and retained typed A04 defect SD1-QA-D01. A post-feedback example is separately marked. No original model/score/first/blank/null is overwritten; no new native reading,independent accuracy or full-program completion is claimed. Containing publication remains pending.
+
+
+## Stage D exact author gate closed: displaced active controls — 2026-10-26T06:41:21.222932+00:00
+
+The complete479 exact-source audit40280071856 and remote/reload verification close source9b3cc94f. Full-series/accounting is current; prior containing-publication statements below retain their historical boundaries. Exact displaced active controls follow.
+
+```text
+source_boundary: Prior exact author gates closed through d1999270; reviewed extended synthesis and six provisional StageD cores with90 sealed firsts/separate feedback adopted in working candidate;containing publication pending;77model bodies/65scoped secondary entries;full program active;percentage null
+```
+
+```text
+next_permitted_operation: STAGE_D_SUITE_EXACT_AUTHOR_PUBLICATION_THEN_FULL_SERIES_SYNTHESIS
+```
+
+```text
+next_candidate_operation: STAGE_D_SUITE_EXACT_AUTHOR_PUBLICATION_THEN_FULL_SERIES_SYNTHESIS
+```
+
+```text
+**Current phase: Stage D suite publication and full-series synthesis.**
+```
+
+```text
+The containing publication is pending.
+```
+
+```text
+are now accepted working artifacts with their exact
+```
+
+```text
+There are77 working model bodies because six versions were added;
+```
+
+```text
+Current treatment counts are77 working model bodies /65 scoped secondary entries,231 profile passages,69 monograph-only studies and836 nonfinal access records.
+```
+
+```text
+Next, finish the exact author publication gate for this coherent suite/extended synthesis, then complete the full-series synthesis, claim/evidence routing and component/responsibility accounting.
+```
+
+```text
+are now working publication artifacts.
+```
+
+```text
+Six distinct provisional successors are accepted with exact tested bytes
+```
+
+```text
+Current work is exact suite/extended-synthesis publication,then full-series synthesis,claims/evidence and component/responsibility accounting
+```
+
+```text
+Finish the exact author publication gate for the extended synthesis and executed provisional Stage D suite. Then author the full-series synthesis and reconcile claim/evidence and component/responsibility accounting.
+```
+
+
+## Full-series/completion package: displaced active controls — 2026-10-26T07:35:07.511733+00:00
+
+The substantive full-series and companion responsibilities are reviewed. Exact displaced active controls follow; containing publication and designated evaluation/integration/release remain separate. No original source/model/first/score/census body is rewritten.
+
+```text
+source_boundary: Extended synthesis and six provisional StageD successors published/full author gate closed at9b3cc94f;90 originals/separate feedback retained;77 model bodies/65 scoped secondary entries;full-series and component/responsibility accounting active;percentage null
+```
+
+```text
+next_permitted_operation: FULL_SERIES_SYNTHESIS_CLAIM_EVIDENCE_AND_COMPONENT_ACCOUNTING
+```
+
+```text
+next_candidate_operation: FULL_SERIES_SYNTHESIS_CLAIM_EVIDENCE_AND_COMPONENT_ACCOUNTING
+```
+
+```text
+<!-- CURRENT_OPERATION_START -->
+
+**Current phase: full-series synthesis and component/responsibility accounting.** The seven expanded specialist papers and entrypoint review correction retain their exact closed author gates through `d19992708d222141f1dff6e35b8daf43eb868a8a`. Their published source interpretations remain current; all seven main-only specialists remain wholly retrievable. Do not repeat C52 admission, the broader audit, ledger consolidation or the seven-paper authorship.
+
+The reviewed [extended synthesis](10%20Expanded%20Corpus/KONOSUBA_EXTENDED_CORPUS_SYNTHESIS.md) and six distinct Stage D cores are now published artifacts with their exact [scope record](09%20Audits%20and%20Manifests/KONOSUBA_POST_VALIDATION_STAGE_D_EXECUTED_SUITE_SCOPE_01.json). The containing publication is verified at `9b3cc94f7575ccbc96c493b7c68ae79dd2556dbf` / tree `5481c0357677789b433f67626823d2f31014ce93`. Its [exact author gate](09%20Audits%20and%20Manifests/KONOSUBA_POST_VALIDATION_STAGE_D_AUTHOR_PUBLICATION_GATE_CLOSE_01.json) records all 10,411 index/remote paths,29 changed streams,1,798 reloaded project bodies and the own complete479-test audit40280071856,with every discovered ID and all five non-success categories verified. Cores remain **active provisional source-known successors**, without mature/VERY_HIGH or independent-grade promotion. The earlier71 model bodies, MAIN_ONLY_R1 forecasts, four source-local score files, original firsts and blank/null commitments remain unchanged. There are 77 published model bodies because six versions were added; this does not add six secondary subjects.
+
+The [executed diagnostic report](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_STAGE_D_DIAGNOSTIC_BATTERY_REPORT_V1.md) owns the actual run:45 settings across all nine families,90 fixed paired-mode prompts,90 complete first texts saved and sealed before separate eight-criterion feedback. Exact six-core freeze preceded concrete bank authorship; input/binding freeze preceded complete released firsts. The [evidence route](06%20Character%20Modeling%20and%20Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/README.md) retains executable inputs, original prebindings, settings, release, complete originals, actual readback, both feedback versions and the exact mode-join qualification. **The first-response/feedback work is performed.** Forty-nine full directional opening traces align with18 working commitments at their stated intervals; these are dependent source-known consistency findings, without an accuracy rate. All OPEN, qualified, not-triggered and not-fully-prebound views retain their separate treatment.
+
+Original F04-A-TR retains typed A04 failure SD1-QA-D01: Japanese argument-role confusion and an unsupported repair-recipient relation. A separately marked post-feedback example removes that defect without replacing the first or scoring a rerun. All six exact tested cores remain unchanged. Short scenes, scaffolded inputs, over-explicit procedural speech, same-assistant model/case/binding/response/review authorship and absent independent native/audio validation limit promotion.
+
+All nineteen supplemental supplied editions,seventeen main excluded-component programs and five mixed/reference programs retain their closed declared source gates. Current treatment counts are 77 published model bodies / 65 scoped secondary entries,231 profile passages,69 monograph-only studies and836 nonfinal access records. All nineteen historical canonical/private row differences and independent-observation nulls remain intact. Source-program counts are not a narrative-component or unique-person denominator; those denominators and global completion percentage remain null.
+
+Next, complete the full-series synthesis,claim/evidence routing and component/responsibility accounting. The Stage D/extended-synthesis author increment is closed; do not regenerate or rescore its firsts. Designated curation/evaluation,protected integration and release remain separately owned. A completed battery or internal consistency result does not close the full program. Earlier appended pending/zero-firsts statements retain their dated authorship boundaries and do not override this block or the frontmatter.
+
+<!-- CURRENT_OPERATION_END -->
+```
+
+```text
+This entrypoint does not duplicate their evidence catalogs.
+```
+
+```text
+Nineteen supplemental editions,all five mixed/reference programs and all17 main excluded-component programs retain their closed declared gates; original principal histories retain zero new pass credit. The broader secondary audit,ledger consolidation and seven expanded specialists are performed at their recorded scopes. The reviewed extended synthesis,six exact provisional Stage D cores and actual90-first/eight-criterion-feedback packet are published with their exact author gate closed. Full-series synthesis,component/responsibility accounting and designated curation/evaluation/integration/release remain due. These source-program and treatment counts establish no global narrative-component percentage.
+```
+
+```text
+The four mandatory principals remain Satou Kazuma,Aqua,Megumin and Darkness,with party interaction and cross-context transfer as separate responsibilities. Expanded specialist papers are published; their main-only baselines remain. Six distinct provisional successors are published with exact tested bytes and an actually executed90-first diagnostic packet. Model bodies now total77 including the71 preserved earlier bodies; scoped secondary model entries remain65.
+
+Current work is full-series synthesis,claims/evidence and component/responsibility accounting with designated curation/evaluation/integration/release. Actual firsts and separate feedback are no longer future work. Their qualifications,OPEN selectors and retained typed failure govern use; no new model promotion or denominator is forced.
+```
+
+```text
+The extended synthesis and executed provisional Stage D suite have their exact author gate closed. Author the full-series synthesis and reconcile claim/evidence and component/responsibility accounting. Ninety complete firsts,actual readback and separate feedback are recorded; preserve originals,typed failures and historical pre-execution nulls. This hypothetical battery does not create another literary holdout or alter any old score.
+
+
+```
+
+The package routes27 contracts, 18 current claim records, all 41 component registers/receiving owners and 40 gate receipts. It retains the 90 original firsts and typed A04 defect, original four source-local scores, old matrix/claim/locator bodies, all nineteen historical census-plane differences and independent nulls. Actual evaluator work-queue observation is23 enrolled unassessed items at source9b3, not a model/person denominator or grade.
+
+
+## Full-program author publication gate closed: displaced active controls — 2026-10-26T08:11:59.821010+00:00
+
+Source `0d36d142` / tree `aeef1c5a`: 10,423 exact index/remote paths, 15 complete changed streams, 1,810 fresh body reloads and complete 479-test audit `40288269475` verified. Author analytical responsibilities are closed at their recorded scopes; designated curation/evaluation, protected integration and final release remain. Exact displaced controls follow.
+
+```text
+source_boundary: Fixed41 declared gates retained; expanded specialists/extended/six provisional Stage D versions with 90 original first responses author gates closed through 9b3cc94f; full-series/claims/evidence/component/consistency/completion package reviewed; containing publication next; designated evaluation/integration/release not certified; percentage null
+```
+
+```text
+next_permitted_operation: FULL_PROGRAM_AUTHOR_PUBLICATION_THEN_DESIGNATED_CURATION_EVALUATION_INTEGRATION_RELEASE
+```
+
+```text
+next_candidate_operation: FULL_PROGRAM_AUTHOR_PUBLICATION_THEN_DESIGNATED_CURATION_EVALUATION_INTEGRATION_RELEASE
+```
+
+```text
+**Current phase: full-series/completion author-package publication; designated gates remain.**
+```
+
+```text
+are accepted working artifacts. Their containing publication is next.
+```
+
+```text
+Next, finish this exact author publication gate, then the designated discovery/curation and capability-evaluation work, protected-main integration and separately verified release.
+```
+
+```text
+are reviewed working artifacts awaiting their containing publication gate.
+```
+
+```text
+are now reviewed working artifacts.
+```
+
+```text
+Current work is their exact author publication, then designated discovery/curation, capability evaluation, protected integration and final release.
+```
+
+```text
+Finish exact author publication of the accepted full-series and completion package. Then use the actual designated discovery/evaluation and protected integration/release gates recorded in its audit. The full-series/component/claims/evidence work and 90-first feedback are performed; originals, uncertainties and source-local limits remain. No final release, entrypoint rename or full-program-complete claim is authorized by file counts or internal consistency.
+
+
+```
+
+The owner subsequently integrated registry PR #343 at `4ea2caf128ba7f6be3c6045195d38d371855a0b1`. Ordinary merge `39207bfd5847190b8d224f46dc775b848f34e1ab` retains those five imported registry/index files exactly and changes no KonoSuba body. This is an inherited owner integration, not new curation by the analysis author.
+
+
+## Delegated authority adoption: displaced active controls — 2026-10-26T22:17:48.039224+00:00
+
+Original fixed41 author work remains published and verified. The explicit user delegation activates authority review, curation, evaluation and conditional release. This tranche adopts32 reviewed monographs while preserving all original argument bytes and adverse qualifications. Exact displaced controls follow.
+
+```text
+source_boundary: Full-series and completion author package published and verified at 0d36d142; all 41 fixed source gates retained; six provisional Stage D cores and 90 originals unchanged; designated curation/evaluation/protected integration/release remain; percentage null
+```
+
+```text
+next_permitted_operation: DESIGNATED_CURATION_EVALUATION_PROTECTED_INTEGRATION_AND_RELEASE
+```
+
+```text
+next_candidate_operation: DESIGNATED_CURATION_EVALUATION_PROTECTED_INTEGRATION_AND_RELEASE
+```
+
+```text
+**Current phase: author analysis published and verified; designated curation/evaluation/integration/release remain.**
+```
+
+```text
+<!-- CURRENT_OPERATION_END -->
+```
+
+```text
+Continue the actual designated discovery/curation, capability evaluation, CI/owner integration and separately verified release gates. The complete author analytical package is published and verified; do not repeat its source readings, regenerate its firsts or restate its accepted arguments as future work. Use actual current Git for designated currentness. Original scores, blanks/nulls, source-plane limits and OPEN selectors remain. No final release or entrypoint rename has yet been certified.
+```
+
+
+## Earlier monograph authority decisions: displaced active controls — 2026-10-26T23:26:44.214681+00:00
+
+Original fixed 41 author work and the32-monograph tranche remain published and verified. The next 35 actor-specific decisions preserve tested histories and sealed C20 originals; exact displaced controls follow.
+
+```text
+source_boundary: Full fixed41 analytical package integrated; original models and 90 firsts retained; 32 scoped monograph authority adoptions and C46 current qualifications pending containing publication; designated curation/evaluation and conditional final release remain; percentage null
+```
+
+```text
+This tranche awaits its own containing publication and designated discovery; neither metadata nor document counts confer a tier, independent accuracy or global grade.
+```
+
+```text
+<!-- CURRENT_OPERATION_END -->
+```
+
+```text
+Publish and verify the scoped 32-monograph authority adoption, then curate its effective main evidence and rederive the evaluator’s actual queue/currentness. Resolve remaining explicit model locks and reference findings through separately attributable accepted changes. Preserve original arguments, models, firsts, scores, blanks/nulls, source-plane limits and OPEN selectors. Calibration candidates require actual human review and owner publication; no human acceptance, final release or entrypoint rename is supplied by delegation.
+```
+
+
+## Final authority and reconstruction audit: displaced active controls — 2026-10-27T00:16:52.285818+00:00
+
+The 35-monograph tranche is main-verified. This substantive final authority tranche adopts 16 remaining arguments and records all 77 accepted public model versions with their distinct source/test histories. Displaced active controls follow exactly.
+
+```text
+source_boundary: Fixed 41 author package and the 32-monograph authority tranche published and verified; earlier 35 authority decisions and sealed C20 qualified successors pending containing publication; original 77 model bodies and 90 firsts retained; designated curation/evaluation and conditional release remain; percentage null
+```
+
+```text
+**Current phase: scoped authority reconciliation and designated curation/evaluation; final release remains conditional.**
+```
+
+```text
+next_permitted_operation: AUTHORITY_RECONCILIATION_CURATION_EVALUATION_AND_RELEASE
+```
+
+```text
+next_candidate_operation: AUTHORITY_RECONCILIATION_CURATION_EVALUATION_AND_RELEASE
+```
+
+```text
+This tranche awaits its own containing publication and designated curation.
+```
+
+```text
+<!-- CURRENT_OPERATION_END -->
+```
+
+```text
+Publish and verify the earlier 35 authority tranche and its qualified C20 successors, then complete designated curation/evaluation using actual effective main evidence. Resolve remaining legacy authority dispositions without changing sealed models or original firsts. Preserve scores, blanks/nulls, source-plane limits and OPEN selectors. During CALIBRATION every assessment publication is owner-merged; human review is required only for a REVIEWED promotion at its exact ID, basis and evidence digest. Prepare the final release only from verified integrations and actual currentness; delegation does not supply human acceptance or an entrypoint rename.
+```
