@@ -4,7 +4,7 @@
   "artifact_type": "logical_entity_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.14",
+  "version": "1.15",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -12,13 +12,13 @@
   "do_not_use_as_literary_evidence": true,
   "logical_artifact_id": "T7S_ENTITY_STATE_LEDGER",
   "current_owner_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 67 Intimacy primary documents across 8 family portfolios / T7S_B0182–T7S_B0189; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
+  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 75 Intimacy primary documents across 9 family portfolios / T7S_B0182–T7S_B0190; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-    "physical_bytes": 38725,
-    "physical_sha256": "6fb2e1556f0ccc414121f22bf29de9f131f5321863a2e8abfe04f6ed6d6989d7",
+    "physical_bytes": 39191,
+    "physical_sha256": "ccbe15730574f0b21cd01146b254a08535929f20e2c5d4e308bfc221451be684",
     "logical_prefix_bytes": 7708,
-    "logical_prefix_sha256": "ecc4a0783675d7975a477a95187eedc0ae583a8ee480c044fa5978cb4f12eaa0",
+    "logical_prefix_sha256": "3ef2663a360c1e7ea2cb416ed58e879e27f85e299465588812d9d7a3be311859",
     "route_marker": "<!-- T7S ENTITY STATE COMPONENT ROUTES -->"
   },
   "assembly_rule": "Read the exact owner prefix before the unique route marker, then append every ordered component payload byte range. Validate all full-file and payload byte lengths/hashes, paths, intervals, owner IDs, LF/UTF8 and complete ordering before treating the result as the logical ledger. Component terminators are metadata outside the declared payload range; original final blank lines remain inside that exact payload.",
@@ -58,11 +58,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "artifact_id": "T7S_ENTITY_STATE_COMPONENT_003",
-      "physical_bytes": 302035,
-      "physical_sha256": "d600693ce571ed4fcc5ec10b6db2698a5699b181e0cbe6ed3bfb56222908301e",
+      "physical_bytes": 312379,
+      "physical_sha256": "0f772b4761ee4f1e7e7b81af801d1192c0fc50890273fca5bd2208064f3e4035",
       "payload_offset_bytes": 712,
-      "payload_bytes": 301285,
-      "payload_sha256": "e46a2c6b29ae72b5561a926e9d3ceed32becd3b5c1f0764179a620d376bd0017",
+      "payload_bytes": 311629,
+      "payload_sha256": "685161472cde57dad4144509907fa1e500f8baa89703d2c98606d7c409e0bfc0",
       "preserved_original_interval": [
         829500,
         990668
@@ -73,11 +73,11 @@
     }
   ],
   "parts_count": 3,
-  "logical_bytes": 1131355,
-  "logical_sha256": "76b65ac4bdf10f9bf4c21448c06d3b2a06bca0d0df29855ff93a0c05ab357a09",
+  "logical_bytes": 1141699,
+  "logical_sha256": "349a85e95bc977a34c64483573461f682eca72ab30566525a3eb3257b94ce3bd",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "last_source_high_water": "T7S_B0189",
+  "last_source_high_water": "T7S_B0190",
   "storage_transition": {
     "operation": "T7S_ENTITY_LEDGER_STORAGE_V1",
     "date": "2026-10-13",
@@ -894,17 +894,23 @@
       "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "component_anchor": "b0189-mimis-wants-fallibility-and-qualified-relational-address",
       "heading": "B0189 Mimi's wants, fallibility and qualified relational address"
+    },
+    {
+      "original_anchor": "b0190-ferb-musical-commitments-and-expressed-personal-attention",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0190-ferb-musical-commitments-and-expressed-personal-attention",
+      "heading": "B0190 Ferb, musical commitments and expressed personal attention"
     }
   ],
   "publication_scope": "This proposed representation has no effect until separately reviewed/applied/committed/published. Private proposal receipts remain noncurrent.",
   "latest_logical_append": {
-    "source_high_water": "T7S_B0189",
+    "source_high_water": "T7S_B0190",
     "date": "2026-10-28",
-    "logical_before_sha256": "25061db28c60402e20978bcdc126b48ec5f671a154f69fbf509bced46bb85ef5",
-    "logical_after_sha256": "76b65ac4bdf10f9bf4c21448c06d3b2a06bca0d0df29855ff93a0c05ab357a09",
-    "addition_bytes": 4968,
-    "addition_sha256": "f274c9aa2aa8b384d3c769626f427eff6dfd9e0efa9403f47deb1c041dcbe3f6",
-    "unchanged_older_body_sha256": "07db8d55838fd3615c4a14952c4ca36abaaafd4982b09f05ff09f38cd66578f7",
+    "logical_before_sha256": "76b65ac4bdf10f9bf4c21448c06d3b2a06bca0d0df29855ff93a0c05ab357a09",
+    "logical_after_sha256": "349a85e95bc977a34c64483573461f682eca72ab30566525a3eb3257b94ce3bd",
+    "addition_bytes": 10344,
+    "addition_sha256": "984e2b46228616e0efb704d775a3fa50ecb1e1d30a8029bffb34edfe5ebfc8c3",
+    "unchanged_older_body_sha256": "35b02ebf5a88b474fb0585b07aa99e1b2b55e95a1227546ee33d43666b65073f",
     "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
     "sealed_older_components_byte_exact": true
   }

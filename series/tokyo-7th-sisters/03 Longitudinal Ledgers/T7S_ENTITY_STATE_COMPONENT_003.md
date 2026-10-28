@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.14"
+version: "1.15"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0189; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0190; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-28
 ---
@@ -1255,4 +1255,59 @@ Complete seven-occurrence family200640, source-lock 12.95, witness `T7S_GAME_OFF
 | `REL-1059` | `futagawa-mimi → reported unnamed photographer` | Reports following prior instructions while considering greater self-direction. No photographer-authored response, inspected work, sole blame or standing policy. |
 
 Totals1001KNOW/1059REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. Older body, reciprocal links, current histories and readiness horizons retain their bytes. No reverse direction or mature monograph is fabricated from Mimi's address.
+
+## B0190 Ferb, musical commitments and expressed personal attention
+
+Complete eight-document family200650, source-lock 12.96, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; the [B0190](../02%20Readings/T7S_B0190_DEEP_READING.md) A–H primary key binds exact ranges/locators. Ferb `IDENTITY-0078/CHAR-0060/seto-ferb`, Player `IDENTITY-0001/CHAR-0001`, Kyoko `IDENTITY-0077/CHAR-0059`, Susu `IDENTITY-0021/CHAR-0018`, QOP `UNIT-0015` and Nanasta `UNIT-0002` retain their routes. Kyoko's アイツ, school-band peers and H:P13 anonymous exclamation add no stable identity. Machine registry equivalence is not inferred from sprite127/123.
+
+| Existing subject | Qualified annotation | Prior horizons and missing access retained |
+| --- | --- | --- |
+| `CHAR-0060` / seto-ferb | Owns band/idol effort, enjoys specific help/company, sets local proximity scope, finds lyric self-consciousness, values a pupil's sound and finally voices fear that autonomy/busyness has displaced attention. Receives Player's explanation, reported visits and named gift reception. | B0032/B0077 chosen continuation/person-specific care; B0125 overwork/coercive restriction; B0163 creative agency and gaze/scheduling limits; B0178 disputed affect remain. No whole chronology, settled couple, acoustic expertise verdict, permanent cure or R3 promotion. |
+| `CHAR-0001` / Player | In H explicitly asks listening/notebook access, values Ferb's sound, explains his own distance assumption, reports secret visits, acknowledges unintended insecurity, apologizes and receives chocolate while naming her. | Own H turns differ from short-case uptake; no omniscient account, every-live attendance, fixed visit/workload policy or matching romantic declaration. |
+| `CHAR-0059` / Kyoko | In H expresses hurried chocolate preparation for an unnamed person, answers Ferb and leaves. | No resolved recipient, completed gift or newly certified romantic state. Earlier Kyoko/Ferb reciprocal work and READY0027 remain. |
+| `UNIT-0015` / QOP | Ferb describes lives/current busyness; Player attributes four-member mutual support to formation and explains his decision to stand back. | Reported perspectives, not a new formation/membership event, all-members testimony or proof autonomy removes attention needs. |
+| `UNIT-0002` / Nanasta | Manager's improvement work is part of Ferb's changed-lives account; his own mistaken practical inference is locally acknowledged. | No new institutional staffing, consultation, privacy, scheduling or care policy. |
+
+| ID | Qualified knowledge holder and state | Native range and retained limit |
+| --- | --- | --- |
+| `KNOW-1002` | Ferb likes/anticipates being named and describes voice resonance/calming, asking repetition. | A:P1–3; own preference, no clinical effect or new manager answer. |
+| `KNOW-1003` | Ferb reports band delay and difficulty combining work, taking up apparent manager reassurance. | B:P1–3; implied reply is not independently authored or a verified schedule. |
+| `KNOW-1004` | Ferb distinguishes her burden feeling, owns more effort and calls that wish genuine despite self-likeness question. | B:P3–5; no sustainable capacity or universal no-burden duty. |
+| `KNOW-1005` | Ferb conjectures homework intent, credits current help and greater enjoyment. | C:P1–3; own account, no policy motive or completed assignment proof. |
+| `KNOW-1006` | Ferb anticipates lesson/meal/company, jokingly delegates remaining work then says she will do it herself. | C:P4–5; future plans and explicit joke, no performed meal. |
+| `KNOW-1007` | Ferb invites noticing/closer approach and identifies Susu-gifted perfume plus intended surprise. | D:P1–4; her gift/report/permission, no Susu own testimony or smelled evidence. |
+| `KNOW-1008` | Ferb takes up serious sniffing, names embarrassment and asks distance. | D:P5; local limit, no exact observed movement or blanket permission. |
+| `KNOW-1009` | Ferb appraises band sound and shared visit, inferring manager enjoyment and valuing favorite songs. | E:P1–3; actor testimony, not acoustic/counterpart verification. |
+| `KNOW-1010` | Ferb reports usually solitary visits/adult-venue unease and proposes karaoke to hear his voice. | E:P2,4–5; no census, actual karaoke or heard singing. |
+| `KNOW-1011` | Ferb reports peers' lyric demands and claims difficulty understanding romance/awareness of men. | F:P1–2; situated self-account, no hidden-knowledge or total-biography verdict. |
+| `KNOW-1012` | Ferb chooses nearest man as subject, observes, infers embarrassment, admits her own and stops the exercise. | F:P3–5; no completed lyric, diagnosed preoccupation or manager own reply. |
+| `KNOW-1013` | Ferb appraises bass progress, gendered power and particularly pleasurable manager sound. | G:P1–3; her generalization/valuation, no analyst biological/acoustic rule. |
+| `KNOW-1014` | Ferb retains lower-skill judgment and proposes continued lessons/perfect whole-piece target. | G:P4–5; no technical certification or future fulfillment. |
+| `KNOW-1015` | Ferb wants to show good lyrics and experiences repeated manager absences. | H:P1–12; her expected reception/pattern, not exhaustive travel record. |
+| `KNOW-1016` | Kyoko states hurried chocolate preparation for unnamed アイツ; Ferb hears and recognizes approaching Valentine's Day. | H:P13–28; anonymous shout not silently routed, recipient unprovided, no completed gift. |
+| `KNOW-1017` | Ferb meets another absence, refers to an unspecified prepared object and attributes busyness while trying acceptance. | H:P31–35; object not collapsed into initial lyrics/later chocolate, no exact interval or manager inner access. |
+| `KNOW-1018` | Ferb says instrument sound fails to clear unease, seeks tablature, finds old notebook and questions its bag presence; recalls worried others and teaching. | H:P40–52; private search/memory, no inspected notebook or established insertion cause. |
+| `KNOW-1019` | Ferb privately addresses absence and, after reunion, thinks she cannot choose words. | H:P54–57,64; reader sees parenthesized thought, Player not shown hearing it. |
+| `KNOW-1020` | Player reports returned hearing/desire to listen and offers exit; Ferb explicitly welcomes him. | H:P59–74; distinct own turns and permission, no earlier secret encounter chronology. |
+| `KNOW-1021` | Player appraises bodily resonance and his liked sound after the elided piece; Ferb receives particular praise. | H:P75–83; no auditioned bass or objective quality/ranking. |
+| `KNOW-1022` | Both identify lesson notebook; Player requests/receives access and recognizes her difficulty notes/his own writing. | H:P84–97; spoken mutual recollection, no notebook facsimile or unlimited private-information access. |
+| `KNOW-1023` | Both recall joint phrases/seven-string attempts and associate a page with QOP formation/TRIGGER creation. | H:P99–108; remembered interval, no actual seven-string/song performance or exact year. |
+| `KNOW-1024` | Ferb privately notices Player handwriting diminishing after that point. | H:P110; her observation, no quantified notebook census or explicit Player acquisition. |
+| `KNOW-1025` | Ferb voices changed lives, ended shared playing, understood busyness but fear of lost attention and joy at renewed listening wish. | H:P112–125; disclosed feeling, not rejected autonomy or demand for all time. |
+| `KNOW-1026` | Player explains distance based on QOP capacity, acknowledges insecurity, reports secret visits and apologizes; Ferb newly learns and welcomes the visit report. | H:P128–138; participant explanation/report, no every-live or band-wide knowledge proof. |
+| `KNOW-1027` | Ferb apologizes for abrupt topic, Player reassures, and both value having expressed feelings. | H:P139–143; apologies have distinct objects; no future schedule/permanent cure. |
+| `KNOW-1028` | Ferb identifies made-for-him chocolate; Player recognizes the holiday and expressly thanks her by name. | H:P144–156; received gift, no tasting/packaging/process or settled couple. |
+| `KNOW-1029` | Ferb repeats liked-sound/body-resonance language and clarifies suspended object as manager voice naming her. | H:P157–163; her affection/address, no matching romantic declaration or inter-case date. |
+
+| ID | Directional relationship | Qualified local state and missing access |
+| --- | --- | --- |
+| `REL-1060` | `seto-ferb → player-protagonist` | Wants naming/company/listening, owns effort, sets proximity limits, enjoys teaching, then discloses fear and gives chocolate while identifying his naming voice as liked. H contains actual received replies; short cases retain uptake/prospect distinctions. No universal bodily/image/time assent or declared couple. |
+| `REL-1061` | `player-protagonist → seto-ferb` | H gives own permission-seeking, particular bass valuation, self-explained distance/error, reported secret visits, apology and named gift gratitude. Reciprocal direction1060 has its own scope; no manager-authored romance or guaranteed future regimen. |
+| `REL-1062` | `seto-ferb → uesugi-uebasu-kyoko` | Notices hurry, asks what happened, hears chocolate deadline and says goodbye. H:P16–25. No completed shared preparation or resolved recipient. |
+| `REL-1063` | `uesugi-uebasu-kyoko → seto-ferb` | Supplies flustered own reply about unnamed-recipient chocolate, then departs. H:P15–24. No new gift outcome or whole romantic identity. |
+| `REL-1064` | `seto-ferb → alessandra-susu` | Credits received perfume within her own noticing experiment. D:P3–4. No Susu own response, reverse knowledge or standing styling authority. |
+| `REL-1065` | `seto-ferb → reported school-band peers` | Reports shared practice cost and their lyric requests while owning desire to keep commitments. B/F. No named/new unit, own peer turns or durable workload settlement. |
+| `REL-1066` | `seto-ferb → QOP` | Describes changed performing life and shares formation/song memories with manager. H:P106–120. No new membership, other members' own views or transfer of musical authorship. |
+
+Totals1029KNOW/1066REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. READY0028 retains its complete NANASUTA state-bounded horizon; all other readiness, older reciprocal links, source/authority receipts and body history remain. No monograph maturity or2053 admission is promoted.
 <!-- T7S ENTITY STATE PAYLOAD END -->

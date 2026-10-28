@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.90"
+version: "11.91"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 67 Intimacy primary documents across 8 family portfolios / T7S_B0182–T7S_B0189; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 75 Intimacy primary documents across 9 family portfolios / T7S_B0182–T7S_B0190; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-28
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1151`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1308`; `last_closed_block = T7S_B0189`. The admitted horizon contains 582 primary documents: 235 Main, 280 i-n-g and 67 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 67 Intimacy documents across 8 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1164`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1317`; `last_closed_block = T7S_B0190`. The admitted horizon contains 590 primary documents: 235 Main, 280 i-n-g and 75 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 75 Intimacy documents across 9 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3824,3 +3824,37 @@ Owner [B0189](../02%20Readings/T7S_B0189_DEEP_READING.md), reading SHA256 `2ebed
 | `EDGE-1315` | `EV-B0189-004` ↔ `EV-B0189-005` | `POSSIBLE_FUTURE_AND_TODAY_REQUEST`: overlapping-future joke and situated preference check personalize relation without a fixed life course, answered proposal or menu-derived order. |
 
 Totals1151EV/25WORLD/47THREAD/1308EDGE. MaximumEDGE1315 preserves seven pre-existing non-active gaps. No new world/thread identity or total chronology is inferred.
+
+## B0190 Ferb's short addresses and complete named-attention episode
+
+Owner [B0190](../02%20Readings/T7S_B0190_DEEP_READING.md), reading SHA256 `2285d5c7e2d961c7acade06e5a8341e38966f9056e157ad035b7ffed5f82afd3`; complete family200650 / routeNM-INTIMACY-200650, eight exact primary documents, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.96. Entering B0189/12.95 complete24physical/control/entity views were committed at dd99f75fd8ad2034500696826988f4e7a92bbe48. The reading's A–H key supplies exact script IDs and portable zero-based primary locators. Seven short cases are independent conditional occurrences; H has an internal causal sequence and earlier shared-practice/QOP memories without dating every case.
+
+| ID | Complete primary range | Factual/causal case | Frame and retained limit |
+| --- | --- | --- | --- |
+| `EV-B0190-001` | A:401000086 P0–3 | Ferb likes/anticipates manager naming her, attributes inward resonance/calming to his voice and requests repeated naming. | `WANTED_NAMED_ADDRESS`; own valuation, no supplied manager answer or clinical effect. |
+| `EV-B0190-002` | B:401000090 P0–5 | Reports delayed school-band practice, checks work timing, distinguishes own burden feeling from his apparent reassurance and owns further effort toward manager/band/Nanasta. | `PLURAL_COMMITMENT_AND_SELF_IMPOSED_BURDEN_STANDARD`; no new schedule, durable capacity or duty to overwork. |
+| `EV-B0190-003` | C:401000750 P0–5 | Complains/conjectures about homework, enjoys manager help/company and prospective lesson/meal, jokes he should finish then explicitly keeps the work hers. | `SHARED_STUDY_AND_RETAINED_TASK_AUTHORSHIP`; no policy verdict, completed work/meal or own counterpart turn. |
+| `EV-B0190-004` | D:401000838 P0–5 | Invites closer noticing, extends particular permission, identifies Susu-gifted perfume and desired surprise, then asks distance after apparent serious sniffing embarrasses her. | `CHANGING_LOCAL_PROXIMITY_SCOPE`; no smelled evidence, blanket permission or Susu-authored response. |
+| `EV-B0190-005` | E:401001050 P0–5 | Appraises attended band live, values manager company against usually solitary night-venue unease, infers his enjoyment and proposes karaoke to hear his voice. | `MUSICAL_ENTHUSIASM_AND_CONTINUED_COMPANY`; no acoustic/age census, actual karaoke or manager-own appraisal. |
+| `EV-B0190-006` | F:401001130 P0–5 | Reports lyric requests, claims romantic unfamiliarity, chooses nearest man as writing subject, observes him, infers embarrassment, admits her own and abandons the exercise. | `CREATIVE_TASK_BECOMES_SELF_CONSCIOUS_ADDRESS`; no completed lyric, hidden-knowledge verdict or developmental chronology. |
+| `EV-B0190-007` | G:401001406 P0–5 | Appraises bass-pupil progress/pleasurable sound, voices a gender generalization and personal preference, retains a lower-skill judgment and proposes continued lessons. | `LISTENER_PLEASURE_AND_TEACHER_LIMIT`; own appraisal, no technical certification, biological rule or performed evidence. |
+| `EV-B0190-008` | H:401006538 P0–39 | Wants to show new lyrics, repeatedly misses manager, hears Kyoko's hurried unnamed-recipient chocolate plan, recognizes approaching Valentine's Day, then meets another absence with an unspecified prepared object's disappointment. | `MISSED_MEETINGS_AND_WITHHELD_OBJECT`; first lyrics and later chocolate remain distinct; no resolved Kyoko recipient or exact interval. |
+| `EV-B0190-009` | H:P40–58 | Instrument sound fails to clear unease; tablature search reveals old notebook, prompts recollections of absorbed work/teaching and private address to absent manager. | `PRIVATE_UNEASE_AND_RETRIEVED_SHARED_PRACTICE`; bag cause questioned, memories attributed, no current manager access or displayed notebook facsimile. |
+| `EV-B0190-010` | H:P59–83 | Player returns citing heard bass, asks to listen with an exit option, Ferb welcomes him, a piece is elided and he gives his own bodily/personal appraisal. | `PERMISSIONED_LISTENING_AND_PARTICULAR_RECOGNITION`; no auditioned passage or objective acoustic quality. |
+| `EV-B0190-011` | H:P84–111 | Player recognizes notebook, asks access and receives yes; both recall lesson difficulties, his writing, coauthored phrases/seven-string attempts and QOP/TRIGGER notes. Ferb privately sees his later handwriting diminish. | `SHARED_MEMORY_AND_PRIVATE_PARTICIPATION_TRACE`; no inspected pages/census, performed TRIGGER or global chronology. |
+| `EV-B0190-012` | H:P112–143 | Ferb explains changed lives/busyness and fear of lost attention; Player explains distance based on QOP capacity, acknowledges insecurity, reports secret live visits and apologizes. She learns/brightens, apologizes for abrupt topic and both value speaking. | `INTENTION_RECEIPT_MISMATCH_LOCALLY_DISCLOSED`; own reports and differentiated apologies, no universal neglect/romance verdict, visit schedule or permanent cure. |
+| `EV-B0190-013` | H:P144–166 | Ferb presents made-for-him chocolate, Player expressly thanks her by name, then her liked-sound formulation culminates in his voice naming her. | `RECEIVED_GIFT_AND_NAMED_VOICE_CALLBACK`; no tasting/packaging, matching romantic declaration or complete future guarantee. |
+
+| ID | Typed relation | Chronology and causality qualification |
+| --- | --- | --- |
+| `EDGE-1316` | `EV-B0190-008` → `EV-B0190-009` | `LOCAL_PRESENTATION_SUCCESSION_WITH_ELIDED_INTERVAL`: office absences precede the clothing-rack interior; transitions supply no counted days/year. |
+| `EDGE-1317` | `EV-B0190-009` → `EV-B0190-010` | `PLAYER_REPORTED_SOUND_DETECTION_AND_ENTRY`: Player explicitly connects returned hearing with desired listening; no direct external observation of his prior route. |
+| `EDGE-1318` | `EV-B0190-010` → `EV-B0190-011` | `NOTEBOOK_NOTICE_AND_PERMISSIONED_REVIEW`: noticed object prompts request/yes and shared recollection after the musical passage. |
+| `EDGE-1319` | `EV-B0190-011` → `EV-B0190-012` | `LOCAL_SEQUENCE_WITH_PRIVATE_TRACE_AND_DISCLOSURE`: her reduced-handwriting observation precedes spoken fear; no exhaustive mental cause or Player access to private thought. |
+| `EDGE-1320` | `EV-B0190-012` → `EV-B0190-013` | `REPAIR_PRECEDES_GIFT_DISCLOSURE`: local recognition/apologies precede giving/name callback, without claiming repair mechanically causes every later feeling. |
+| `EDGE-1321` | `EV-B0190-001` ↔ `EV-B0190-013` | `NAMING_VOICE_RESONANCE_FORMAL_RECURRENCE`: parallel wording/address across documents establishes no A-before-H fictional order. |
+| `EDGE-1322` | `EV-B0190-007` ↔ `EV-B0190-010` | `RECIPROCAL_SOUND_VALUATION_COMPARISON`: Ferb values his playing, Player hers; no same performance, measured equivalence or inter-case chronology. |
+| `EDGE-1323` | `EV-B0190-002` ↔ `EV-B0190-012` | `COMMITMENTS_AND_ATTENTION_COST_COMPARISON`: owned effort and manager-owned distance explanation retain different responsibility, without a common date or whole workload solution. |
+| `EDGE-1324` | `EV-B0190-004` ↔ `EV-B0190-011` | `PARTICULAR_WELCOME_AND_CURRENT_PERMISSION_COMPARISON`: closeness with a later limit and explicit notebook access are local scopes, not standing bodily/information authority. |
+
+Totals1164EV/25WORLD/47THREAD/1317EDGE. MaximumEDGE1324 retains seven pre-existing non-active gaps. H attests earlier shared lessons and formation, while no total ordering of the eight source occurrences or every i-n-g case is invented.
