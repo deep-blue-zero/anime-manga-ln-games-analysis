@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 33
+- Recorded totals: `CANDIDATE` 34
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -927,6 +927,53 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `uncurated-adjacent-and-later-material` (evidence gap): The separate fidelity review, the frozen readings, the ledgers, the protocol and the Japanese EPUBs are not curated on this subject, and the project's later admitted V14-V17 lie outside this set; none was used, and missing support is not evidence of absence.
 - Evidence at basis commit:
   - [`re-zero:otto-suwen@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357/series/re-zero/05%20Character%20Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md)
+
+### Subject `re-zero:priscilla-barielle@light-novel`
+
+#### Assessment `re-zero-priscilla-barielle-ln-v01-v18-model-20261028-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `re-zero:priscilla-barielle`
+- Scope: continuity `re-zero-main-light-novels`
+- Source boundary: Only re-zero:priscilla-barielle@light-novel\#character-model, the canonical generation V1.0 Priscilla Barielle V01-V18 source-bounded character model at basis\_commit, read in full as reviewed repository analysis of the admitted Japanese main light novels; the model declares that it integrates sixty-six bounded contextual revisits of already consumed V04, V06 and V16-V18 deliveries, that a V05 window is contextual negative evidence only and that the V01-V18 label is a horizon, not an appearance in every volume. The project's current-state entrypoint was read for method, authority order, gate state and scope only. The frozen volume readings, the master and five specialist ledgers, the source lock, the reconstruction protocol, the separate Priscilla fidelity review, the V19 reading and its recorded Priscilla reconciliation, and the Japanese EPUBs are not curated evidence on this subject and nothing is borrowed from them; EX and side-story, web-novel, IF, supplement and adaptation material is excluded.
+- Temporal boundary: The model's default is living V18 RZ-E-021 at the accepted Fourth/Wrath assignment with Liliana and the announced start of the collective operation, before any depicted arrival at the Fourth tower or result; plus its explicit historical selectors: the V04 street, carriage and court encounters \(RZ-E-008\), the superseded V06 early private audience \(RZ-E-010\), the V16 breakfast, artist refusal and post-park-point food exchange \(RZ-E-018\), the V17 E020 head-butt aftermath, the V17 E021 park departure, the V18 alley and shelter search before Schult is found, and the V18 meeting return through the assignment. Superseded E010, E018 post-park-point and E020 experiences are not default memories; childhood, natal identity, complete marriage history and the intervening year are not supplied. No state after V18 is established and no in-world dates are fixed.
+- Basis commit: `2c4dee68a5be9dd7a4f14ec83028b9a9c4a6f83e`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `8236e516000bdbd874afe20f8c8f962e4475ae1d576ef70d7ed8951f7939984e`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: The default E021 assignment phase or one named historical selector is chosen with all seven coordinates, and only knowledge received in that phase is voiced.
+  - `DIALOGUE` condition: Output reproduces the conditioned address and speech acts of section 9 in paraphrase; exact Japanese is cited only from a located passage and any new wording is labeled NONCANONICAL\_PROBE, not canonical voice.
+  - `DIALOGUE` condition: Superseded E010, E018 post-park-point and E020 exchanges, Subaru's Return by Death, Otto's hallway confession, the withheld Theresia identity and Al's private warnings are not voiced as hers.
+  - `DIALOGUE` condition: Not every line is a threat or boast: acknowledgment, apology to a named recipient, questions and admitted surprise remain available outcomes, with no guaranteed apology or blow.
+  - `CROSS_SCENARIO` condition: One phase is selected explicitly, by default V18 E021 at the accepted Fourth assignment before any tower arrival; no V19 or later state, tower result or victory over Sirius is assumed.
+  - `CROSS_SCENARIO` condition: The interlocutor is an attested relation in the register and knowledge the phase allows; a new person receives treatment from current role, observed conduct and supplied information only, with no invented familiarity or guaranteed safety.
+  - `CROSS_SCENARIO` condition: Output is labeled NONCANONICAL\_PROBE, names the governing rules and keeps both the coercion and harm and the selective care the source shows; benefit never authorizes the method.
+  - `CROSS_SCENARIO` condition: Childhood, natal identity, marriage history, the sword's mechanism, a Wrath immunity mechanism and complete governing methods end in abstention.
+  - `CROSS_SCENARIO` bounds: chronology One named phase from the V04 RZ-E-008 street, carriage and court encounters through V18 RZ-E-021 at the accepted Fourth/Wrath assignment and announced operation start, with that phase's knowledge and remembered history; superseded E010, E018 post-park-point and E020 states only by explicit selection.; interlocutor Subaru as historical acquaintance, humiliated petitioner \(E010 only\), unrecognized guest and then perceptive E021 interlocutor without knowledge of his loops; Al as retainer with real but limited agency; Schult as named dependent; Liliana as valued singer under recruitment and pressure; Emilia, Felt, Crusch and Anastasia as rival candidates; Reinhard, Heinkel and Wilhelm of the Astrea family; coalition members and civilians; strangers only by current role and observed conduct.; settings Capital street, carriage and royal-selection court of V04, the V06 early private audience, and Pristella breakfast, garden, park, alleys, shelter and coalition meeting of V16-V18; No institution, technology or cultural assumption outside the admitted Japanese V01-V18 main light novels; No new powers, complete sword or blessing mechanics, Wrath immunity mechanism or guaranteed operational outcome; Open domains end in abstention rather than prediction
+  - `MUNDANE_SOCIAL` condition: Scenes of attested kinds only: reading and judging a book, receiving an audience, tasting or learning an unfamiliar food, playing a game, music and dance, household direction of Al and Schult, or ornate travel and display.
+  - `MUNDANE_SOCIAL` condition: No favorite dish, genre, allergy, diet, exact timetable, finances or completed proposed reward is supplied; the early-rising habit is Al's report.
+  - `MUNDANE_SOCIAL` condition: Household and civilian scenes keep the hierarchy and her ownership language present without supplying consent, parenthood or sexual relation.
+  - `MUNDANE_SOCIAL` condition: A phase is selected explicitly and courtesy may end in reprimand, withdrawal or force where an attested trigger such as unasked restraint occurs.
+  - `ETHICAL_DELIBERATION` condition: Only attested trigger types: a confidently grounded vocational refusal, a named dependent at risk, a capacity she has judged worthy of her own stake, or an unexpected moral premise she can acknowledge.
+  - `ETHICAL_DELIBERATION` condition: Her evaluative language is reproduced as her appraisal, never adopted as the analyst's moral verdict; harms to Subaru, Emilia, Al, Heinkel and Liliana stay attributed to her and are not repaired by a different named apology.
+  - `ETHICAL_DELIBERATION` condition: No automatic apology, repentance, universal respect or permanent reform follows a local revision.
+  - `ETHICAL_DELIBERATION` condition: A phase is selected explicitly; no post-V18 moral position is supplied.
+  - `PROFESSIONAL_CONTEXT` condition: Only attested activity: royal-selection presentation, information gathering and intermediaries, legal and popular-loyalty reasoning, retainer command and coalition negotiation among distinct agents.
+  - `PROFESSIONAL_CONTEXT` condition: No complete governing methods, administrative routine, electoral outcome or universal benevolence; territorial success is reported, not every means witnessed.
+  - `PROFESSIONAL_CONTEXT` condition: She is neither sole coalition commander nor obedient subordinate; Al's formal knighthood and every camp's agreement are not supplied.
+  - `PROFESSIONAL_CONTEXT` condition: A phase is selected explicitly, by default the V18 E021 allocation.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `discontinuous-record-and-private-biography` (evidence-backed limitation): The record consists of V04, V06 and V16-V18 episodes; childhood, natal identity, the intervening year and a complete marital history are not supplied, Leip Barielle is named only as her deceased husband, and Al's full history, powers and allegiance remain unprovided.
+  - `left-hand-wording-conflict` (evidence-backed limitation): V04 p-011\#B0270 literally gives Al a left hand at the helmet seam against the dominant one-armed frame; the model preserves the isolated wording without correcting it or inventing a regenerated arm, which limits that gesture claim only.
+  - `mechanics-and-outcomes-bounded` (evidence-backed limitation): The sword's source, cost, targeting and operating conditions are unsupplied, the Heinkel stroke is prevented rather than executed, the beast result is not a Sirius result, and no Fourth-tower arrival, victory or completed song efficacy is depicted.
+  - `same-analyst-documentary-review` (evidence-backed limitation): The model's PASS\_WITH\_BOUND verdict is a same-analyst nonblind documentary review with no independent reviewer, held-out source, response benchmark or character runtime; its MONOGRAPH\_READY readiness label and local fidelity state are project labels, not reconstruction grades.
+  - `state-selection-and-memory-firewalls` (evidence-backed limitation): The default is living V18 E021 at the accepted Fourth assignment; superseded E010 audience, E018 post-park-point food exchange and E020 head-butt warning are available only by explicit selection, she never receives Subaru's Return by Death or discarded deaths, and a historical selection must roll back later information and relationships.
+  - `uncurated-readings-ledgers-review-and-primary-sources` (evidence gap): The frozen V04, V06 and V16-V18 deep readings, the master and specialist ledgers, the source lock, the reconstruction protocol, the separate Priscilla fidelity review, the V19 reading with the Priscilla reconciliation the project entrypoint records, and the Japanese EPUBs are not curated evidence on this subject, so the model's block locators and viewed illustrations were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+  - `wrath-steadiness-unexplained` (evidence-backed limitation): Her apparent steadiness under the local Wrath effect is a genuine contrast with no supported mechanism: Subaru's no-empathy explanation is explicitly abandoned after her Schult concern and the song moves even her, and neither a diagnosis nor an immunity blessing may be supplied.
+- Evidence at basis commit:
+  - [`re-zero:priscilla-barielle@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2c4dee68a5be9dd7a4f14ec83028b9a9c4a6f83e/series/re-zero/05%20Character%20Analysis/REZERO_PRISCILLA_V01_V18_CHARACTER_MODEL.md)
 
 ### Subject `re-zero:regulus-corneas@light-novel`
 
