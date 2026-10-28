@@ -37,7 +37,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 20 |
+| [`re-zero`](characters/index/re-zero.md) | 21 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
@@ -526,6 +526,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Tendo Rui](characters/index/idoly-pride.md#tendo-rui) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:tendo-rui@v2-cross-media` | — |
 | [Tendoji Musubi](characters/index/tokyo-7th-sisters.md#tendoji-musubi) | Tokyo 7th Sisters game | `tokyo-7th-sisters:tendoji-musubi@game` | — |
 | [Theoto Rikka](characters/index/86-eighty-six.md#theoto-rikka) | 86 - Eighty-Six original light novels | `86-eighty-six:theoto-rikka@original-light-novels` | セオト・リッカ |
+| [Theresia van Astrea](characters/index/re-zero.md#theresia-van-astrea) | Re:Zero main light novel | `re-zero:theresia-van-astrea@light-novel` | — |
 | [Tia](characters/index/konosuba.md#tia) | Original light-novel continuity, scoped cohort monograph | `konosuba:tia@original-light-novel` | ティア |
 | [Todoroki Shoto](characters/index/my-hero-academia.md#todoroki-shoto) | My Hero Academia manga | `my-hero-academia:todoroki-shoto@manga` | — |
 | [Togata Mirio](characters/index/my-hero-academia.md#togata-mirio) | My Hero Academia manga | `my-hero-academia:togata-mirio@manga` | — |
