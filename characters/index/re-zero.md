@@ -441,6 +441,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
   - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](../../series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
   - [`master-longitudinal-ledger` — Cumulative character, information and relationship states (cited here for V02–V03)](../../series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
 
+<a id="theresia-van-astrea"></a>
+
+### Theresia van Astrea
+
+- Entity ID: `re-zero:theresia-van-astrea`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:theresia-van-astrea@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Theresia van Astrea across the original Japanese main light novels V01–V20, built from targeted revisits of already-consumed V07, V08, V09, V16 and V20 with V18–V19 as frozen context; it covers her historical life from childhood fear of her blessing through the Sword Saint inheritance, courtship, marriage and last expedition, and the V20 E021 controlled body, brief final recognition of Wilhelm and ashes. The horizon label does not assert an appearance in every volume. No V21 or later, EX, IF, web-novel, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Theresia van Astrea: V01–V20 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_THERESIA_V01_V20_CHARACTER_MODEL.md)
+
 <a id="wilhelm-van-astrea"></a>
 
 ### Wilhelm van Astrea
