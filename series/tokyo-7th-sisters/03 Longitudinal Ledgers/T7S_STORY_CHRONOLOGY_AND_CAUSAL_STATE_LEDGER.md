@@ -4,16 +4,16 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.89"
+version: "11.90"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 60 Intimacy primary documents across 7 family portfolios / T7S_B0182–T7S_B0188; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 67 Intimacy primary documents across 8 family portfolios / T7S_B0182–T7S_B0189; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-14
+last_updated: 2026-10-28
 ---
 
 # Tokyo 7th Sisters story chronology and causal state ledger
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1144`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1304`; `last_closed_block = T7S_B0188`. The admitted horizon contains 575 primary documents: 235 Main, 280 i-n-g and 60 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 60 Intimacy documents across 7 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1151`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1308`; `last_closed_block = T7S_B0189`. The admitted horizon contains 582 primary documents: 235 Main, 280 i-n-g and 67 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 67 Intimacy documents across 8 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3801,3 +3801,26 @@ Owner [B0188](../02%20Readings/T7S_B0188_DEEP_READING.md), reading SHA256 `58a53
 | `EDGE-1311` | `EV-B0188-008` ↔ `EV-B0188-009` | `CARE_OFFER_AND_FATIGUE_COMPARISON`: practical care and a request for support do not make Hime permanently self-sufficient or prove sustainable labor/leisure conditions; no common day or duty cycle. |
 
 Totals1144EV/25WORLD/47THREAD/1304EDGE. MaximumEDGE1311 retains seven pre-existing non-active gaps; no renumbering, invented causal chain or menu-derived total chronology.
+
+## B0189 Mimi's older-sister address across independent occasions
+
+Owner [B0189](../02%20Readings/T7S_B0189_DEEP_READING.md), reading SHA256 `2ebed189bee996f3fc49870b5a16d92f159fab2b12a489ccb1df119bbf66557f`; complete family200640 / routeNM-INTIMACY-200640, seven exact primary scripts/ranges, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.95. Entering B0188/12.94 complete24physical/control/entity views were frozen at a4ba2049961cd380185e3e504c5235a493a88845; PR359's administrative bridge is separately recorded. Mimi is sole authored speaker. The reading's A–G key binds exact scripts, primary ranges and portable native locators below.
+
+| ID | Complete primary range | Factual mini-case | Frame and retained limit |
+| --- | --- | --- | --- |
+| `EV-B0189-001` | A:401000075 P0–3 | Calls manager unusually attentive to her among many girls, warns of misunderstanding from kindness, takes up an implied question, calls him insensitive but values that quality and asks him to remain the person she likes. | `POSSIBLE_MISREADING_AND_DESIRED_CONTINUITY`; attention/reaction are her account; no manager-authored romantic answer or confirmed couple. |
+| `EV-B0189-002` | B:401000079 P0–5 | Asks about his holiday, offers to drive, reacts to apparent concern, admits developing skill/qualified nearby safety and explains wanting shared conversation, scenery and memories specifically with him. | `INVITATION_WITH_ADMITTED_CAPACITY_LIMIT`; no license/safety certification, chosen route, assent or completed outing. |
+| `EV-B0189-003` | C:401000598 P0–4 | Anticipates an all-day job while admitting fatigue/difficulty, values all-day company and temporarily calls the usually shared manager her own. | `WORK_COST_AND_DESIRED_ATTENTION`; no performed workday, permanent labor exclusivity or institutional role transfer. |
+| `EV-B0189-004` | D:401000794 P0–5 | Takes up concern about her mood, reports a friend's future-choice dilemma, intends continued idol work while considering her future, asks about his and jokes that it could affect hers. | `OPEN_FUTURITY_AND_PERSONAL_JOKE`; friend unnamed/reported; no retirement, career answer, accepted partnership or fixed chronology. |
+| `EV-B0189-005` | E:401001094 P0–4 | Asks his care-direction preference, retains enjoyment/habit of being depended on while sometimes wanting to depend, conditionally requests today's care and first a head stroke; further wish trails off. | `REQUESTED_RECIPROCITY_WITHIN_OLDER_SISTER_ADDRESS`; no manager assent, enacted stroke, specified further act or false-mask verdict. |
+| `EV-B0189-006` | F:401001302 P0–4 | Notices complexion, asks stillness, appraises no fever, explains forehead contact and apparent agitation, jokes about raised heat then offers nursing if real fever occurs. | `ATTRIBUTED_CONTACT_AND_CONDITIONAL_CARE`; contact explicit in her account, no observed motion, clinical diagnosis, prior permission or later nursing outcome. |
+| `EV-B0189-007` | G:401001458 P0–4 | Appraises a recent shoot poorly, says she previously mostly followed photographer instructions, considers her own expressions and proposes manager-assisted practice including sexy poses. | `SELF_AUTHORED_PRACTICE_PROPOSAL`; no inspected past photos, new pose pixels, completed practice, improvement or blanket image authority. |
+
+| ID | Formal comparison | Non-chronological qualification |
+| --- | --- | --- |
+| `EDGE-1312` | `EV-B0189-001` ↔ `EV-B0189-003` | `PERSONAL_VALUATION_AND_TEMPORARY_POSSESSION`: desired unchanged kindness and today's exclusive address are different relational formulations, not established couplehood or one workday. |
+| `EDGE-1313` | `EV-B0189-002` ↔ `EV-B0189-007` | `CAPACITY_LIMIT_AND_CHOSEN_ACTION`: driving uncertainty and expression-practice initiative show distinct learning/capacity limits without proving a development sequence or same task. |
+| `EDGE-1314` | `EV-B0189-005` ↔ `EV-B0189-006` | `REQUESTED_AND_OFFERED_CARE`: wanting a stroke and offering future nursing retain different direction/conditions, no completed reciprocal exchange or general consent. |
+| `EDGE-1315` | `EV-B0189-004` ↔ `EV-B0189-005` | `POSSIBLE_FUTURE_AND_TODAY_REQUEST`: overlapping-future joke and situated preference check personalize relation without a fixed life course, answered proposal or menu-derived order. |
+
+Totals1151EV/25WORLD/47THREAD/1308EDGE. MaximumEDGE1315 preserves seven pre-existing non-active gaps. No new world/thread identity or total chronology is inferred.

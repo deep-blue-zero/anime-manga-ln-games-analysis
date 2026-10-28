@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.13"
+version: "1.14"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,9 +12,9 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0188; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0189; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
-last_updated: 2026-10-14
+last_updated: 2026-10-28
 ---
 
 <!-- T7S ENTITY STATE PAYLOAD BEGIN -->
@@ -1225,4 +1225,34 @@ Nine complete family200490 primary occurrences, source-lock 12.94, witness `T7S_
 | `REL-1056` | `nonohara-hime → tsunomori-rona` | Retrospectively appraises a weak soccer shot within enjoyable group sport and wishes manager had witnessed it. No Rona own perspective, objective technical grade, prior manager viewing or new lasting ability state. |
 
 Totals990KNOW/1056REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. All older directional/reciprocal histories remain exact; no new reverse relation is fabricated from reports, uptake or invitations. READY0004 stays its historical bounded decision; no mature monograph promoted.
+
+## B0189 Mimi's wants, fallibility and qualified relational address
+
+Complete seven-occurrence family200640, source-lock 12.95, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; B0189 A–G primary key and exact locators are owned by the [reading](../02%20Readings/T7S_B0189_DEEP_READING.md). Existing Mimi `IDENTITY-0042` / `CHAR-0065` / `futagawa-mimi` and Player `IDENTITY-0001` / `CHAR-0001` retain their routes. Friend/photographer are reported unnamed roles, not new stable identities or units. Sprite126 does not independently establish machine identity.
+
+| Existing subject | Qualified new annotation | Prior state and access retained |
+| --- | --- | --- |
+| `CHAR-0065` / futagawa-mimi | Wants specific companionship/attention, admits developing driving and photo dissatisfaction, keeps idol-continuation intention while considering future, requests reciprocal care and offers conditional nursing; older-sister address accommodates wanting and effort. | B0086 reciprocal-role learning, B0124 permissioned cover/fear, B0162 effort/choice versus idealization and B0170 differentiated care/recall histories remain. No chronological bridge, infallible competence, settled couple, permanent caregiver duty or maturity promotion. |
+
+| ID | Actor-local epistemic state | Native range and reliability |
+| --- | --- | --- |
+| `KNOW-0991` | Mimi attributes particular attention/kindness, warns of possible misunderstanding, takes up an implied question and expresses liking plus a wish for his continuity. | A:P1–3; her account/valuation, no independent manager motive or own romantic answer. |
+| `KNOW-0992` | Announces driving invitation, reacts to apparent concern and admits developing skill, nearby qualification and uncertainty. | B:P1–3; self-account/offer, no license, safety clearance, route or acceptance. |
+| `KNOW-0993` | Prefers two-person conversation/scenery/memory sharing and names manager as wanted companion. | B:P4–5; explicit desire, no completed trip or shared memories yet. |
+| `KNOW-0994` | Anticipates company during difficult/tiring work and calls today privately hers despite his usually shared role. | C:P1–4; expectation/possessive address, no executed workday or standing exclusive entitlement. |
+| `KNOW-0995` | Explains mood through reported friend's unresolved future choice, intends idol continuation and feels need to consider future. | D:P1–3; friend unindividuated, no own resignation or closed career choice. |
+| `KNOW-0996` | Asks his future and makes possible overlap personal through permanent-employment joke. | D:P4–5; question/modal tease, no supplied answer, engagement or settled life plan. |
+| `KNOW-0997` | Says receiving others' dependence is familiar/enjoyed while sometimes wanting to depend herself. | E:P1–2; situated self-account, no care-as-fraud diagnosis or exhaustive psychology. |
+| `KNOW-0998` | Conditions today's care request on his not disliking the role and first asks a head stroke; further wish unprovided. | E:P3–4; request/preference check, no affirmative answer or executed/unnamed subsequent intimacy. |
+| `KNOW-0999` | Notices complexion, appraises no fever and retrospectively explains forehead contact and his apparent agitation. | F:P1–3; attributed gesture/reaction, no clinical result, observed movement or prior bodily assent. |
+| `KNOW-1000` | Jokes about raised heat then offers nursing if actual fever occurs. | F:P3–4; joke/future condition, no later illness or care outcome. |
+| `KNOW-1001` | Dislikes recent photographic appearance, reports largely following instructions, considers her own expressions and proposes manager-assisted pose practice. | G:P1–4; appraisal/report/intention, no inspected photos, actual practice or skill-result judgment. |
+
+| ID | Directional relationship | Qualified state and missing access |
+| --- | --- | --- |
+| `REL-1057` | `futagawa-mimi → player-protagonist` | Values particular company/kindness/attention, imagines possible shared future, asks preference-conditioned care, reports close contact and offers future nursing/practice collaboration. No manager-authored matching desire, acceptance of any offer, general bodily/image assent or settled romance. Existing independently grounded reverse relations remain at their own horizons. |
+| `REL-1058` | `futagawa-mimi → reported unnamed friend` | Reports friend's future-choice difficulty as occasion for her own reflection. No friend name, own testimony, outcome or new stable relation/identity. |
+| `REL-1059` | `futagawa-mimi → reported unnamed photographer` | Reports following prior instructions while considering greater self-direction. No photographer-authored response, inspected work, sole blame or standing policy. |
+
+Totals1001KNOW/1059REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. Older body, reciprocal links, current histories and readiness horizons retain their bytes. No reverse direction or mature monograph is fabricated from Mimi's address.
 <!-- T7S ENTITY STATE PAYLOAD END -->
