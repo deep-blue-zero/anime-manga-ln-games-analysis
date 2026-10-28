@@ -4,7 +4,7 @@ artifact_id: T7S_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -13,7 +13,7 @@ do_not_use_as_literary_evidence: true
 source_boundary: "c20260909-r484; governing architecture through closed T7S_B0177 and checked entity/source-lock/coverage physical representations; no new semantic source or2053 admission"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-14
+last_updated: 2026-10-27
 ---
 
 # Tokyo 7th Sisters synthesis architecture
@@ -447,12 +447,13 @@ The [storage record](../09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_T
 
 ## Source-lock and coverage physical representation V1
 
-The [control-storage record](../09%20Audits%20and%20Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md) extends B06/B08 after B0177. The existing [SourceLock address](../01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK.json) is a small typed physical owner, binding the exact [source-lock manifest](../01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK_MANIFEST.json). Three ordered framed components carry the complete logical JSON, including every older immutable integrity object, edition/source binding and admitted horizon. The wrapper alone supplies no complete source state. Physical/payload lengths, hashes, order, path directness, logical JSON hash, owner/manifest version, source high-water and reviewed reader code must agree before use.
+The [control-storage record](../09%20Audits%20and%20Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md) extends B06/B08 after B0177. The existing [SourceLock address](../01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK.json) is a small typed physical owner, binding the exact [source-lock manifest](../01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK_MANIFEST.json). All ordered framed components declared by the current source-lock manifest carry the complete logical JSON, including every older immutable integrity object, edition/source binding and admitted horizon. The wrapper alone supplies no complete source state. Physical/payload lengths, hashes, order, path directness, logical JSON hash, owner/manifest version, source high-water and reviewed reader code must agree before use.
 
-The existing [coverage manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json) still governs one logical ledger with current-or-consumed and routed-or-unconsumed roles. Each role is represented by ordered physical JSONL components: three current and two routed. Manifest-bound original logical role headers retain the exact inherited defaults and original role views; every physical META declares its own row count. All1590 effective identities,1578 scenario rows,12 supplemental-tranche rows, decision histories, nullable horizons and analytical routes remain intact. Source-unit changes move only reviewed records and update affected component/manifest responsibilities atomically.
+The existing [coverage manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json) still governs one logical ledger with current-or-consumed and routed-or-unconsumed roles. Each role is represented by all ordered physical JSONL components declared for that role by the current coverage manifest. Manifest-bound original logical role headers retain the exact inherited defaults and original role views; every physical META declares its own row count. All1590 effective identities,1578 scenario rows,12 supplemental-tranche rows, decision histories, nullable horizons and analytical routes remain intact. Source-unit changes move only reviewed records and update affected component/manifest responsibilities atomically.
 
-Source-lock12.83 records this administrative representation with B0177 high-water unchanged. It promotes no source, readiness or mature analysis. Physical files remain strictly below1MiB and each actual quoted native argument strictly below28000UTF16 units. A complete logical view may exceed a physical-file threshold; this grants no exception to any physical artifact or command. Future storage interval moves must be explicit, hash-bound and prove exact preservation of all unchanged logical bytes. A missing/changed part, duplicate owner/record, unsupported representation, unsafe path, mismatched header/default or incomplete consumer adaptation fails closed.
+Source-lock12.83 records the historical administrative cutover with the then-current B0177 high-water unchanged. It promotes no source, readiness or mature analysis. Physical files remain strictly below1MiB and each actual quoted native argument strictly below28000UTF16 units. A complete logical view may exceed a physical-file threshold; this grants no exception to any physical artifact or command. Future storage interval moves must be explicit, hash-bound and prove exact preservation of all unchanged logical bytes. A missing/changed part, duplicate owner/record, unsupported representation, unsafe path, mismatched header/default or incomplete consumer adaptation fails closed.
 
 Capture and verification consumers must distinguish physical owner/manifest/component fingerprints from complete logical SourceLock/coverage views. The prior entity representation and its frozen administrative receipt remain unchanged. Source/database/media bindings remain external and immutable. Architecture, control record and private proofs do not themselves certify native application, author preflight, publication, integration or performed listening; those gates remain separately evidenced.
 
 - 2026-10-14 —1.8: specify complete source-lock JSON component ownership and five physical coverage components at B0177, with exact logical reassembly/default/effective-state preservation. Keep the full2034 endpoint and2053 semantic block.
+- 2026-10-27 —1.9: route current SourceLock and coverage readers through every component declared by the current manifests instead of fixed component counts, and record source-lock12.83 as the historical B0177 cutover. No semantic source, reading, model or maturity is added.

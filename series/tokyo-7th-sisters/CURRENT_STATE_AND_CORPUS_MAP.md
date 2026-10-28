@@ -13,7 +13,7 @@ do_not_use_as_literary_evidence: true
 source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 280 non-Main i-n-g episodes / T7S_B0080–T7S_B0181 are reconstructed and integrated; remaining 2034 non-Main stays routed; 2053 and crossover semantics remain gated; Intimacy current aggregate 60 primary documents/7 family portfolios through T7S_B0188"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-14
+last_updated: 2026-10-27
 project_initialization:
   status: canonical
   architecture_lifecycle: EVOLVING
@@ -37,20 +37,22 @@ project_initialization:
     - "09 Audits and Manifests/T7S_BOOTSTRAP_AND_GATE_RECORD.md"
     - "09 Audits and Manifests/T7S_OPENING_PREREQUISITE_AUDIT.md"
   sequential_analysis_lock: open
+  next_permitted_operation: T7S_B0189_NM-INTIMACY-200640_COMPLETE_FAMILY
 substantive_findings_at_bootstrap: false
 execution_scope: continuous_sequential_remaining_2034_to_era_release
 sequential_execution:
   mode: continuous_sequential
   latest_operation: T7S_B0188_CLOSE
-  status: ACTIVE
+  run_state: active
   authorized_start: T7S_B0160
   terminal_boundary: T7S_STACK_2034_ERA_RELEASE_COMPLETE
-  committed_high_water: T7S_B0188
+  committed_high_water_mark: T7S_B0188
   completed_run_blocks: 22
   completed_run_blocks_scope: B0160_B0181_COMPLETED_ING_CHECKPOINT
   completed_intimacy_portfolios: 7
   completed_intimacy_episodes: 60
   remaining_run_blocks: NOT_FIXED_RELEASE_REQUIREMENTS_GOVERN
+  next_candidate_operation: T7S_B0189_NM-INTIMACY-200640_COMPLETE_FAMILY
   confirmation_between_units: false
   execution_record: "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md"
   next_candidate_episode_id: "401000075"
@@ -86,9 +88,11 @@ major_story_structures:
 
 **Continuous analysis is authorized through the complete 2034 era release.** The [completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) binds all remaining obligations. [B0188](02%20Readings/T7S_B0188_DEEP_READING.md) is the current closed portfolio: Hime's complete nine-occurrence Intimacy portfolio connects offered care, desired company, a chance to thank, chosen appearance and maternal memory. Gruff speech/cuteness and receiving/giving care coexist; gift denials, felt maternal response, role self-check and future offers retain their access limits. All41Japanese/50native/11projection lines, one individual portrait and four original backgrounds actually reviewed; no performed audio/runtime. Proposed source-lock12.94 preserves Main235/ING280, adds9Intimacy documents (60 across7portfolios), total575primary/662consumed including87attachments;289Intimacy/634eligible stories and all supplemental/full2034 responsibilities remain,2053blocked. The completed B0160–B0181 i-n-g checkpoint retains22chapters/66primary episodes; later Intimacy progress is 7 portfolios/60 primary documents. The next authorized unread portfolio is B0189, 二川ミミ, route `NM-INTIMACY-200640` / native Sub family `200640`, 7 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred. The previous B0100–B0159 publication completed its exact-source audit, housekeeping and final integration audit at `e9644c298f744206cd015cf23ecc5347d10183f9`; its frozen [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and [completion audit](09%20Audits%20and%20Manifests/T7S_B0100_B0159_COMPLETION_AUDIT.md) retain their historical boundaries. Performed audio remains unauditioned; the 2034 release is incomplete and every 2053 semantic operation remains blocked.
 
-The entity ledger has a manifest-bound physical representation: its original address routes all ordered payload components and retains aggregate metadata. Read the complete bound logical view before interpreting or editing state. All983,530 transferred payload bytes, prior IDs/horizons/history and120 heading routes are preserved. At the metadata-only source-lock12.80 entity-storage cutover, B0175 was analytical high-water and B0176/chapter301480 was still unconsumed. Those historical receipt boundaries are unchanged; the current analytical high-water is B0177 and full2034 release obligations remain active. Storage preparation/application/publication are governed separately by the [transition record](09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md).
+The entity ledger has a manifest-bound physical representation: its original address routes all ordered payload components and retains aggregate metadata. Read the complete bound logical view before interpreting or editing state. All983,530 transferred payload bytes, prior IDs/horizons/history and120 heading routes are preserved. At the metadata-only source-lock12.80 entity-storage cutover, B0175 was analytical high-water and B0176/chapter301480 was still unconsumed. Those historical receipt boundaries are unchanged; full2034 release obligations remain active. The current SourceLock owner/manifest and the current portfolio status above identify the current analytical high-water. Storage preparation/application/publication are governed separately by the [transition record](09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md).
 
-Source-lock12.83 is a control-storage boundary at the unchanged B0177 horizon. Read the complete SourceLock JSON through its owner/manifest/three components and both complete coverage roles through their five physical components before capture, interpretation or another closeout. All115 older SourceLock integrity objects and1590 effective coverage records/defaults retain their bytes/values. The [control-storage record](09%20Audits%20and%20Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md) governs this mapping and separate consumer/native/author/publication gates. Complete those gates before B0178 extraction; no source, character maturity, listening or2053 admission is added.
+Source-lock12.83 records the historical control-storage cutover at B0177. Before current capture, interpretation or closeout, read the complete SourceLock JSON through its owner/manifest and every ordered component declared by that manifest, and both complete coverage roles through all physical components declared by the current coverage manifest. The cutover preserved all115 older SourceLock integrity objects and1590 effective coverage records/defaults with their bytes/values unchanged. The [control-storage record](09%20Audits%20and%20Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md) records that historical mapping and its separate consumer/native/author/publication gates, which were prerequisites for B0178 extraction. That storage cutover added no source, character maturity, listening or2053 admission.
+
+Reading authority metadata: the original readings T7S_B0001–T7S_B0168 and T7S_B0184–T7S_B0187 carry incomplete authority quartets (no `supersedes` or `superseded_by`; T7S_B0080–T7S_B0168 and T7S_B0186 also lack `do_not_use_as_current_authority`), so the repository classifier treats them as `UNCLASSIFIED_LEGACY` for character-evidence purposes. They remain the exact source-bound readings that the coverage ledger, the [portfolio index](02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) and the SourceLock closeout receipts route to; their analytical content is unchanged and none is superseded or redirected. T7S_B0169–T7S_B0183 and T7S_B0188 carry the complete quartet, and every later reading uses the front-matter template in the [analytical method](00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md). Character evidence for this project is enrolled through the longitudinal ledgers and the two enrolled arc deep readings. If an individual reading is later enrolled, a complete-quartet representation of that reading is created at enrollment under the repository's hash-locked artifact rule, without editing the receipt-bound original. This note records metadata state only; the semantic high-water remains B0188 and SourceLock12.94 is unchanged.
 
 ## Governing and cumulative homes
 
@@ -100,7 +104,7 @@ Source-lock12.83 is a control-storage boundary at the unchanged B0177 horizon. R
 | External evidence recovery and portable locators | [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md) |
 | Immutable witness/digest binding | [SourceLock physical owner](01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK.json) and [complete logical manifest/components](01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK_MANIFEST.json), governed by the [control-storage record](09%20Audits%20and%20Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md) |
 | Native topology, partial chronology and candidate order | [T7S_TOPOLOGY_AND_CHRONOLOGY.md](01%20Sources%20and%20Chronology/T7S_TOPOLOGY_AND_CHRONOLOGY.md) |
-| Exact inventory, consumption and routing | [logical coverage-ledger manifest](01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), binding three current-or-consumed and two routed-or-unconsumed components with complete role headers/defaults and1590 effective identities |
+| Exact inventory, consumption and routing | [logical coverage-ledger manifest](01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), binding every ordered component declared for the current-or-consumed and routed-or-unconsumed roles, with complete role headers/defaults and1590 effective identities |
 | Passed 2034 non-Main eligibility gate | [T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md](09%20Audits%20and%20Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md) |
 | Non-Main portfolio router | [T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md](02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) |
 | Closed first twenty i-n-g cases | [T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md](02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) |
