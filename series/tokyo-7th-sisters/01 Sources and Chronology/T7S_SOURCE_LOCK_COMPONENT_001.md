@@ -19,7 +19,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
   "schema": "t7s-analysis/source-lock/v1",
   "artifact_id": "T7S_SOURCE_LOCK",
   "artifact_type": "source_lock",
-  "version": "12.105",
+  "version": "12.106",
   "generation": "V1",
   "status": "canonical",
   "supersedes": [],
@@ -44,7 +44,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "resource_revision": 100005,
     "build_version": "Bound by external preservation manifest; no unverified version string supplied"
   },
-  "scope_admission": "Complete235Main with bound inline/choices and280i-n-g/102chapters throughB0181 remain closed unchanged. Complete Intimacy closure 132 primary documents/18 family portfolios throughT7S_B0199; native/menu order is not total chronology. Completed i-n-g checkpoint B0160–B0181 remains22units/66episodes. Remaining217Intimacy/562eligible stories, active supplemental and actually multimodal character/longitudinal/era-release work remain. Full2034active/incomplete;2053blocked. Publication/exact final audit separate.",
+  "scope_admission": "Complete235Main with bound inline/choices and280i-n-g/102chapters throughB0181 remain closed unchanged. Complete Intimacy closure 140 primary documents/19 family portfolios throughT7S_B0200; native/menu order is not total chronology. Completed i-n-g checkpoint B0160–B0181 remains22units/66episodes. Remaining209Intimacy/554eligible stories, active supplemental and actually multimodal character/longitudinal/era-release work remain. Full2034active/incomplete;2053blocked. Publication/exact final audit separate.",
   "analysis_horizon": {
     "closed_blocks": [
       "T7S_B0001",
@@ -245,7 +245,8 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
       "T7S_B0196",
       "T7S_B0197",
       "T7S_B0198",
-      "T7S_B0199"
+      "T7S_B0199",
+      "T7S_B0200"
     ],
     "in_progress_blocks": [],
     "consumed_sources": [
@@ -8410,14 +8411,134 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
         ],
         "choice_scope": "NONE",
         "canonical_artifact": "02 Readings/T7S_B0199_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000142",
+        "script_id": "intimate_0142.json__dfa751261405fae9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000428",
+        "script_id": "intimate_0428.json__e7fae93c2c9d01b0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000734",
+        "script_id": "intimate_0734.json__3a92496733a32daf",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000878",
+        "script_id": "intimate_0878.json__bbbb77d07350155b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001038",
+        "script_id": "intimate_1038.json__8f247067d3729aa2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001214",
+        "script_id": "intimate_1214.json__50dca7ddc98ba6c8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001358",
+        "script_id": "intimate_1358.json__f570abc9c50f75e6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401006488",
+        "script_id": "exepisode_6488.json__96606f4bd3f142ff",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          306
+        ],
+        "log_order_index": [
+          0,
+          306
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
       }
     ],
-    "next_candidate_episode_id": "401000142",
+    "next_candidate_episode_id": "401000149",
     "next_candidate_native_chapter_layer_id": null,
-    "next_candidate_status": "AUTHORIZED_B0200_NM-INTIMACY-200620_COMPLETE_FAMILY_UNREAD; full2034 active",
+    "next_candidate_status": "AUTHORIZED_B0201_NM-INTIMACY-200810_COMPLETE_FAMILY_UNREAD; full2034 active",
     "authorized_story_boundary_complete": false,
-    "next_candidate_family_layer_id": "200620",
-    "next_candidate_portfolio_route_key": "NM-INTIMACY-200620"
+    "next_candidate_family_layer_id": "200810",
+    "next_candidate_portfolio_route_key": "NM-INTIMACY-200810"
   },
   "collection_manifest": {
     "sha256": "f8127e578c3e350fca526b3f60315cedce2ef5de82d456d92962ca19364877b1",
@@ -8564,6 +8685,776 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "runtime_validation": "Historical four-script sample: 49 unique observed pages, 47 dialogue and 2 title; not complete playback"
   },
   "integrity": {
+    "b0200_close_verification": {
+      "operation": "T7S_B0200_CLOSE",
+      "checked_at": "2026-10-29",
+      "status": "PASS_BOUNDED_ORDINARY_LIFE_TEXT_NATIVE_AND_STATIC_REVIEW",
+      "portfolio_route_key": "NM-INTIMACY-200620",
+      "native_character_family_id": "200620",
+      "episode_ids": [
+        "401000142",
+        "401000428",
+        "401000734",
+        "401000878",
+        "401001038",
+        "401001214",
+        "401001358",
+        "401006488"
+      ],
+      "source_bindings": [
+        {
+          "episode_id": "401000142",
+          "script_id": "intimate_0142.json__dfa751261405fae9",
+          "source_sha256": "ccb9bcd89d28806b9b5ba5b3cc2fdab363cb0b3df13594771dc348e84497a2e5",
+          "decoded_sha256": "8ae94a7ff70f8473668e62d22bb1631817f23a5428550d81ec8d5fa34ef39f4f",
+          "normalized_sha256": "964e1c6d384f4daf2555bf809a7fe8fd27c4f381126f413c8a7d02765583ec3d",
+          "structured_sha256": "964e1c6d384f4daf2555bf809a7fe8fd27c4f381126f413c8a7d02765583ec3d",
+          "pages": 4,
+          "text_records": 3,
+          "command_only_pages": 1,
+          "voice_pages": 3,
+          "native_pages_verified": 4
+        },
+        {
+          "episode_id": "401000428",
+          "script_id": "intimate_0428.json__e7fae93c2c9d01b0",
+          "source_sha256": "a1cb71edb5e4b6328009e7941caeba4b0541555dbcb9ff44d65d0198f7e0d796",
+          "decoded_sha256": "76736feb7be3cc56f9f8ca8663f65a220434fc0d94e78f588a5781580d2f1e13",
+          "normalized_sha256": "8a09ff63f0c808a4029845a6dce16fd54571c2a6804b800fb11b23ab4e76e8d5",
+          "structured_sha256": "8a09ff63f0c808a4029845a6dce16fd54571c2a6804b800fb11b23ab4e76e8d5",
+          "pages": 6,
+          "text_records": 5,
+          "command_only_pages": 1,
+          "voice_pages": 5,
+          "native_pages_verified": 6
+        },
+        {
+          "episode_id": "401000734",
+          "script_id": "intimate_0734.json__3a92496733a32daf",
+          "source_sha256": "8458ceecfc3577e722dab808c418fe5e9b7f16a64b0a8f0a8720b190f69de545",
+          "decoded_sha256": "20847ac6cb2750ae3700ba20e616ef1de2850d533ab3bbdb6d922ece256d921c",
+          "normalized_sha256": "0199c1e0ea324dc8a417dad5970c16caa1d51f2d2ebfffcd1dbbef68a24736c7",
+          "structured_sha256": "0199c1e0ea324dc8a417dad5970c16caa1d51f2d2ebfffcd1dbbef68a24736c7",
+          "pages": 6,
+          "text_records": 5,
+          "command_only_pages": 1,
+          "voice_pages": 5,
+          "native_pages_verified": 6
+        },
+        {
+          "episode_id": "401000878",
+          "script_id": "intimate_0878.json__bbbb77d07350155b",
+          "source_sha256": "8efbad2a44680a60492e652b06b5073e7d3fa59442cd7825ac7a652ca7ed9bbb",
+          "decoded_sha256": "1921b366912ec5b66a5742a79ebeea35bbd28c540337fdba52f86ca333197807",
+          "normalized_sha256": "f6d0af872d1e1014ae88d4f36ea88195af65fa8a2e172342dd6f21804cb69464",
+          "structured_sha256": "f6d0af872d1e1014ae88d4f36ea88195af65fa8a2e172342dd6f21804cb69464",
+          "pages": 6,
+          "text_records": 5,
+          "command_only_pages": 1,
+          "voice_pages": 5,
+          "native_pages_verified": 6
+        },
+        {
+          "episode_id": "401001038",
+          "script_id": "intimate_1038.json__8f247067d3729aa2",
+          "source_sha256": "c00c5d419306c317574d29acd367b8c0284b08451cd3aaff4dbed3dfd82d6546",
+          "decoded_sha256": "aef4f118d85f6a3fd311ae447d1bcdf156d3fa29b1778ef4a462fe6f307a6253",
+          "normalized_sha256": "2c430bc64107b1e2a09a9286ab2f572d43a775457ca749ade9c6153178da247a",
+          "structured_sha256": "2c430bc64107b1e2a09a9286ab2f572d43a775457ca749ade9c6153178da247a",
+          "pages": 6,
+          "text_records": 5,
+          "command_only_pages": 1,
+          "voice_pages": 5,
+          "native_pages_verified": 6
+        },
+        {
+          "episode_id": "401001214",
+          "script_id": "intimate_1214.json__50dca7ddc98ba6c8",
+          "source_sha256": "c9d1651c92fbaeb5292a60c16db934473284433c20b876805576878f5af48c84",
+          "decoded_sha256": "dd4f52b7dd06ec6755bbde8b2130ad3473fdf3534cee767597efb06aa612ae12",
+          "normalized_sha256": "f62cd7ad6d492059d460d93af84ca3f13ce06c363da25dba98b88a42db2fe91d",
+          "structured_sha256": "f62cd7ad6d492059d460d93af84ca3f13ce06c363da25dba98b88a42db2fe91d",
+          "pages": 6,
+          "text_records": 5,
+          "command_only_pages": 1,
+          "voice_pages": 5,
+          "native_pages_verified": 6
+        },
+        {
+          "episode_id": "401001358",
+          "script_id": "intimate_1358.json__f570abc9c50f75e6",
+          "source_sha256": "85bcb922f311a4d01275def27de42ecbf338797223baa8ad60de82cc6b77ce10",
+          "decoded_sha256": "ec46f78f01cd43e35f86a42c3189b024af47b5f968e3d332e4e91fb74a695cfd",
+          "normalized_sha256": "28128e315291ff6381701fda455da17548834f156ea0f1558e6c76ab1cdd9a23",
+          "structured_sha256": "28128e315291ff6381701fda455da17548834f156ea0f1558e6c76ab1cdd9a23",
+          "pages": 6,
+          "text_records": 5,
+          "command_only_pages": 1,
+          "voice_pages": 5,
+          "native_pages_verified": 6
+        },
+        {
+          "episode_id": "401006488",
+          "script_id": "exepisode_6488.json__96606f4bd3f142ff",
+          "source_sha256": "60b2d5be6294eadad55cde366c30944fea3be562b81bf8be5c01379dfdd7814f",
+          "decoded_sha256": "f3bc26b678df09460d372e62011a28841bf62534cf5d8b95f37de7de138ea7f3",
+          "normalized_sha256": "2cbfc97ad985f53c29d445266eead091c0486108c8e066c8bbe28a4a3775d40b",
+          "structured_sha256": "2cbfc97ad985f53c29d445266eead091c0486108c8e066c8bbe28a4a3775d40b",
+          "pages": 307,
+          "text_records": 265,
+          "command_only_pages": 42,
+          "voice_pages": 0,
+          "native_pages_verified": 307
+        }
+      ],
+      "totals": {
+        "pages": 347,
+        "text_records": 298,
+        "command_only_pages": 49,
+        "voice_pages": 33,
+        "visual_refs": 3936
+      },
+      "voice_count_basis": "Distinct dialogue-associated log-order references; any title carriers separately reviewed; no listening",
+      "native_packet_sha256": "7354547d1819743d37c758d028d83a2d446a243b9f5e63bde0fbaff1bdc02471",
+      "dialogue_packet_sha256": "662fb9bf16edf5bc4a204d06898e6c5d35c83537747b9cbd7308eea624d2fd74",
+      "entering_repository_head": "e1c9b4f904f63054ce37883d9c3662d37d3d43dc",
+      "entering_repository_tree": "c12b7b899c8206a72d2d946880e01854465f4a3e",
+      "entering_source_lock_version": "12.105",
+      "entering_source_lock_logical_sha256": "e1ea619463b32fdf1732250b1b0309e3ea5e0cb408e2ba1c40dfe961efc2c033",
+      "entering_source_lock_physical_owner_sha256": "3e1ac40b238a32cd3528dde81a6d071b7b0b6edf37876edf743abf2c5cd5fe8e",
+      "entering_source_high_water": "T7S_B0199",
+      "prospective_boundary_sha256": "a912300b2e513ac627daebe0f00b00ba049f46eeeeeef9abfdbb366bc5d6dd5c",
+      "evidence_receipt_sha256": "4ea8310139ecbef45eaaf0ca47318098e1d626590a24ea6a3d217f887ab560e5",
+      "native_fields_projection_sha256": "52320a6f9b27adb52a30ec98707cb32138fb0e476ee9de5b2cd8a1be580f8903",
+      "actual_root_review_sha256": "51cd3eca05c288fe954b6f64f8c3851baecb7c3dd830b2a97b936ae6ebf48185",
+      "native_segment_review_sha256": "65e94488f7f0c824d15641e6912a3b985a02e186f492389e0cbf1e854fec1b02",
+      "reading_sha256": "e1eba5def2eb457e7b2c61e8e7f2e8680ceba8868fc0ab3bb4c546c1ca62973a",
+      "literal_authored_state_sha256": "462fafc938c6c4fb96c033bf5707263ab09c5d50e2329e6e2ebbc56e10bd05cb",
+      "visual_assets": [
+        {
+          "resource": "adv_chara_124_01_01",
+          "body": "adv_chara_124_01.png",
+          "body_sha256": "8bcac9ca97a13c056fec42fba89bd89a106b1ecf4be98535afb69c0c36f2a9fe",
+          "face": "adv_chara_124_01_01.png",
+          "face_sha256": "143562b5abec14ae3e7ce3b0245c7c4632d70ea6b1cf76d0b81967c674556fb0",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "016f1596228338d4e4977bc9634fc795a7d3ef0593af4763679c6be44a1d0a95"
+        },
+        {
+          "resource": "adv_chara_124_01_04",
+          "body": "adv_chara_124_01.png",
+          "body_sha256": "8bcac9ca97a13c056fec42fba89bd89a106b1ecf4be98535afb69c0c36f2a9fe",
+          "face": "adv_chara_124_01_04.png",
+          "face_sha256": "eaf248f6894cedd92012492c5c8acd40a6ffed01015446788249a349a1e31669",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "2a0b5535703d7106856c673460820d1297ea4d9e85dea0b62bdc34b238164a5a"
+        },
+        {
+          "resource": "adv_chara_124_01_10",
+          "body": "adv_chara_124_01.png",
+          "body_sha256": "8bcac9ca97a13c056fec42fba89bd89a106b1ecf4be98535afb69c0c36f2a9fe",
+          "face": "adv_chara_124_01_10.png",
+          "face_sha256": "79b65391dabecb4857b612be403a07e0b6a379209f6e5eb174f73cd6662e6bc9",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "ffe4eff7ce1a5efb9870cd5704a7d7b059d395f78a6ac278cef38de89ba91b70"
+        },
+        {
+          "resource": "adv_chara_124_02_09",
+          "body": "adv_chara_124_02.png",
+          "body_sha256": "a4ce12ad4305abae68c27b31861b50adb9ac74716823f24427e2c1e50ff00506",
+          "face": "adv_chara_124_02_09.png",
+          "face_sha256": "ab824e7e860f6ae2c6edd6e58e7d8dc52627f94664a169964b4b0b97101aa704",
+          "native_face_offset": [
+            187,
+            54
+          ],
+          "output_sha256": "d199ee316cfe6d7962eadcf947751df08b5d31676d5f4031c833dcb9fa31dae0"
+        },
+        {
+          "resource": "adv_chara_124_04_01",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_01.png",
+          "face_sha256": "e195b19e642c888add956b9e591eaae41f23545c2382c1567b790be80f002843",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "c76d3b835eeba2ece8bfdeee4a93eaca16f05b3a4760a6e64bd35564d3311bbd"
+        },
+        {
+          "resource": "adv_chara_124_04_02",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_02.png",
+          "face_sha256": "91170211d83551c3a6766065e8c788c18778265a10da3f0cf70cebfbb77211b7",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "eafbd03fdbb90bf6e7df36cd131eef026e678f7bf21b45f814c4cef7470c75d1"
+        },
+        {
+          "resource": "adv_chara_124_04_03",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_03.png",
+          "face_sha256": "53e08ed5e732a1aef6440439264ea7fb6dfc9609ace91674dbb5bd242d87753c",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "9e080c22b6b884245966f9769781548e9075c0e81870140970f17466ab8be7bf"
+        },
+        {
+          "resource": "adv_chara_124_04_04",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_04.png",
+          "face_sha256": "4bd157059f151b7612c7141261f00686dffe67e96babce6d497b2e04c3389a41",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "cf5b814bf3c3da2bd5e6c461ae419a332ed38446bba510d4aac8c5541840e8ef"
+        },
+        {
+          "resource": "adv_chara_124_04_05",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_05.png",
+          "face_sha256": "ddd7d07cf150b1404b22c3ff02db788afcf502daebafab0eea516dc4abf07c7f",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "766d328d9487856d767dd96f3384856bb3d1083a26ca236a8ca0877dcaedef00"
+        },
+        {
+          "resource": "adv_chara_124_04_06",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_06.png",
+          "face_sha256": "82ad6d0ffc3b3b4bc07e6fa6f804a172ee3e5c669eda2b0db0d2f3c3254088ab",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "94e7f62dfec96a3813074bafc0f8105c4a6f90e50db76f670bc408aecb8aaf2f"
+        },
+        {
+          "resource": "adv_chara_124_04_07",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_07.png",
+          "face_sha256": "a59e105a156c6377a30e3faa2dba62cf3ac345f239c37f7a00dbc54e7031e508",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "696f4ae0dadd487de4fa00b135d99f3e1f06e2c6a75326afe7d5fcf8968b54dd"
+        },
+        {
+          "resource": "adv_chara_124_04_08",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_08.png",
+          "face_sha256": "8755b7c15ab134bf3c66fd51f4b4927e6a1b5466c7f7e2a0faf8521855bebadd",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "d283f05884a6f0c2379a81d283d3fee1a0fdedfbad5dca858fc47bf31bfd41af"
+        },
+        {
+          "resource": "adv_chara_124_04_09",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_09.png",
+          "face_sha256": "329c7998bb966ecebcc7e0963296ba3d118b6f6920e7c732b6befe1876dfb8fc",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "4bf5dfa41ac13d73dd9b266d1eb32446a396258460d400de8ada2b9d5e7efcf6"
+        },
+        {
+          "resource": "adv_chara_124_04_10",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_10.png",
+          "face_sha256": "95b0f299bfb5558af2520299fe08dadb1b353b9f7bc4b8a0019bab7196e582b2",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "7cb917afdec0dd295402b85dc0dc5a94a55067d44f4fc1e1cbf051d763b3b11c"
+        },
+        {
+          "resource": "adv_chara_124_04_11",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_11.png",
+          "face_sha256": "c831c11955cc3f164905a2096bcc0963e60d6164bd32bde6a2171ee0e075a975",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "5f0a5b4e34305c393bfd10eb672419d6c9b87cab26e9723864fd3866679fa4e7"
+        },
+        {
+          "resource": "adv_chara_124_04_12",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_12.png",
+          "face_sha256": "f867c49a596cb52c1430c035a44a3569cc831a82d2a026bc74e1369111fbd362",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "5a8d62e4b9ee04393239c73b4391b7f8dda714d0d41f8605aa58a95573c0bac0"
+        },
+        {
+          "resource": "adv_chara_124_04_13",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_13.png",
+          "face_sha256": "052e1db2de6366e6698d8ea4eeb70bcfd135fa50abb9ce43667af9d5285a2e38",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "325872d082ab31c72f9df62d2adbc0ad8fc3b1cd52cb25565b7627b88136c846"
+        },
+        {
+          "resource": "adv_chara_124_04_14",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_14.png",
+          "face_sha256": "c95687dbc5ef9ca6622348b38a07f89ee15019b876c1906a3b2d83673ff9522b",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "bd0d6feb5013111e7a0e17cb3a62707fc2009f3de249857f0608aaf1ae502573"
+        },
+        {
+          "resource": "adv_chara_124_04_15",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_15.png",
+          "face_sha256": "9d4bfadf66ee25b672ca8fd4133098958ee0ead8f9fab5495ea98ec30dafee44",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "1953cb1e5d6eaf8d7e151a95c30d826b8bd7a2f7021eb8239021a75d86f192ce"
+        },
+        {
+          "resource": "adv_chara_124_04_17",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_17.png",
+          "face_sha256": "1116e7e0d41044e87a70ec6dc90bdc091e64b550fe236a62a54e4a13a6d6ef48",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "3b554e9ed34368552804d5c431e2dfd9d94c4506783cfd53674f8619080a1c16"
+        },
+        {
+          "resource": "adv_chara_124_04_18",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_18.png",
+          "face_sha256": "6a2bf729c24ba46cbc8f598fd3bf8eaea7be1e284be4fc54c80970f1e1a1c281",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "f9b599796cb124b61c21b364c2262099176357e299d53e590f14a9acc2d47fc8"
+        },
+        {
+          "resource": "adv_chara_124_04_19",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_19.png",
+          "face_sha256": "44ead48de5676ee25afde9c3b118c097d32a16e07eed0807b527c21c2a5af05e",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "06de532da0debfb02ebf09beb02cff84f5d2448f8881520d9a608bb675c8d672"
+        },
+        {
+          "resource": "adv_chara_124_04_20",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_20.png",
+          "face_sha256": "5de5b5bf5501529bf80edd2c3b555d41f5d4addde09ea9b8a576f80356ab2922",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "84834a7038fb80ca60b0ef4d8491d9a16e3376aa39b58b6edfeaa75e43faaa4d"
+        },
+        {
+          "resource": "adv_chara_124_04_21",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_21.png",
+          "face_sha256": "c90c2db3694b771113f5d3f7553bccd589b642f7148c64f64b34e26bf607ccee",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "f731c4d80dde544d47597ea32d6993fa5143fc17e051fe00d0b29c08b8bca216"
+        },
+        {
+          "resource": "adv_chara_124_04_25",
+          "body": "adv_chara_124_04.png",
+          "body_sha256": "7eac71094f3d6fdb40d97fd9bfb86349d11423ebf657d0e46874a8093c8f59dc",
+          "face": "adv_chara_124_04_25.png",
+          "face_sha256": "fd00f01b73188d9bdfa20a6621a6baecdf47a0c965b60f9122f187b04bdb4392",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "464f15401ef7af37d6e106339c9c676ff0bc77d3c265267306acfcf4a7263d53"
+        },
+        {
+          "resource": "adv_chara_124_07_01",
+          "body": "adv_chara_124_07.png",
+          "body_sha256": "47397f98941f89c86d5d5a18065273101b2dda7ad25db42bcd80dc746c7f3742",
+          "face": "adv_chara_124_07_01.png",
+          "face_sha256": "64db2db1160a5090cd79f527cc5eb3ca22c42b242a9bb8adbbfab69938246ff1",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "77338e54bda6b67492c122060cc70451425fdd398994f59584fc42329798ef25"
+        },
+        {
+          "resource": "adv_chara_124_07_03",
+          "body": "adv_chara_124_07.png",
+          "body_sha256": "47397f98941f89c86d5d5a18065273101b2dda7ad25db42bcd80dc746c7f3742",
+          "face": "adv_chara_124_07_03.png",
+          "face_sha256": "d6479fb42ba98be2cf0e3cc0ba7739d913483b0859552cc28a03c64dd9b467a6",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "fffcf3bc090c211853399fb172140b6d0f0df5de88cea68b5f10714f18a2331e"
+        },
+        {
+          "resource": "adv_chara_124_07_04",
+          "body": "adv_chara_124_07.png",
+          "body_sha256": "47397f98941f89c86d5d5a18065273101b2dda7ad25db42bcd80dc746c7f3742",
+          "face": "adv_chara_124_07_04.png",
+          "face_sha256": "49df3e46d7a65204d1927b140480082a9aa6a41d1dcdf03de5ba9d387e3a53e8",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "a9913a26d3f5241f164e45e83124ec339d438fc87bdad53302770b4a6e7af49c"
+        },
+        {
+          "resource": "adv_chara_124_07_08",
+          "body": "adv_chara_124_07.png",
+          "body_sha256": "47397f98941f89c86d5d5a18065273101b2dda7ad25db42bcd80dc746c7f3742",
+          "face": "adv_chara_124_07_08.png",
+          "face_sha256": "a45bc9605b91785c9c03977185f507d955c625ea98bab6ba1cacb7413e2fa330",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "af25c7de447688d585ec3e79b49c86c49003f8af6ea73c016b2f07c40fdd668a"
+        },
+        {
+          "resource": "adv_chara_124_07_09",
+          "body": "adv_chara_124_07.png",
+          "body_sha256": "47397f98941f89c86d5d5a18065273101b2dda7ad25db42bcd80dc746c7f3742",
+          "face": "adv_chara_124_07_09.png",
+          "face_sha256": "9cc7864f60685ea6e2e47a32fdca21612f2a880acc02fdfc494c0a90acc442e7",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "303f21a206a0ebeeb68f5ff772bc5094f758ff53b68394bcb68696b8a9b19975"
+        },
+        {
+          "resource": "adv_chara_124_07_10",
+          "body": "adv_chara_124_07.png",
+          "body_sha256": "47397f98941f89c86d5d5a18065273101b2dda7ad25db42bcd80dc746c7f3742",
+          "face": "adv_chara_124_07_10.png",
+          "face_sha256": "fcbaf60466e51bdcb2b161dbbdd1c42110de5eb85aebd914761f5adcf7780235",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "938a1beba1374ad644cc541ff2bd223a4bd19ba2177ec748dfb3c861d5b8ffd5"
+        },
+        {
+          "resource": "adv_chara_124_07_11",
+          "body": "adv_chara_124_07.png",
+          "body_sha256": "47397f98941f89c86d5d5a18065273101b2dda7ad25db42bcd80dc746c7f3742",
+          "face": "adv_chara_124_07_11.png",
+          "face_sha256": "75dcf216cb93a0a31a3204e409fe1e635ac453c825b175238d582e2fc5288f80",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "6682d55ccb8559f293cee7048dc3b79f0d102417ab91cd525fb71b593812759d"
+        },
+        {
+          "resource": "adv_chara_124_07_12",
+          "body": "adv_chara_124_07.png",
+          "body_sha256": "47397f98941f89c86d5d5a18065273101b2dda7ad25db42bcd80dc746c7f3742",
+          "face": "adv_chara_124_07_12.png",
+          "face_sha256": "52be0278b981e660d1872a26d42ce3b2e2e9d78d12045f480b1cd5c7d76f6e28",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "c2485db2826e030c1e884a541c99b23df15ea734612f4a075bebd3a7f397c028"
+        },
+        {
+          "resource": "adv_chara_124_07_13",
+          "body": "adv_chara_124_07.png",
+          "body_sha256": "47397f98941f89c86d5d5a18065273101b2dda7ad25db42bcd80dc746c7f3742",
+          "face": "adv_chara_124_07_13.png",
+          "face_sha256": "2b1f17437860b128b75efa8567e36b13baf4c6d50659b17564fb22df8a19dbd8",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "7e1236385706f4aaf7e06caec974d44cb7d30c609a84a4fbbd5973d95e365c3e"
+        },
+        {
+          "resource": "adv_chara_124_07_15",
+          "body": "adv_chara_124_07.png",
+          "body_sha256": "47397f98941f89c86d5d5a18065273101b2dda7ad25db42bcd80dc746c7f3742",
+          "face": "adv_chara_124_07_15.png",
+          "face_sha256": "00b4344023409a1b7709d3b5e7af978741605b911cf83c946380501e609d3c2e",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "3fe79d8ff05736cba6979aac571a54b50c838d38905a8276f659b97c2926fa4f"
+        },
+        {
+          "resource": "adv_chara_124_07_17",
+          "body": "adv_chara_124_07.png",
+          "body_sha256": "47397f98941f89c86d5d5a18065273101b2dda7ad25db42bcd80dc746c7f3742",
+          "face": "adv_chara_124_07_17.png",
+          "face_sha256": "3946f359ba7eb174f83cadcdceacad5ab628dedfa7e1de8c576f6ac8206e0a0f",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "8857627168cd91833cbfdfde8d8ddf71df2aadb5d70cce14f1f8c174cfa735bc"
+        },
+        {
+          "resource": "adv_chara_124_07_18",
+          "body": "adv_chara_124_07.png",
+          "body_sha256": "47397f98941f89c86d5d5a18065273101b2dda7ad25db42bcd80dc746c7f3742",
+          "face": "adv_chara_124_07_18.png",
+          "face_sha256": "b90565ce9c274e669c7a67cdb7558cb304114a84197cc4cfd60271d6a04b9c82",
+          "native_face_offset": [
+            187,
+            64
+          ],
+          "output_sha256": "44a163b116d1bee3af264ab59d4a0474995ef523d2315301731964981ae0ab5f"
+        },
+        {
+          "resource": "adv_chara_224_01",
+          "body": "adv_chara_224_01.png",
+          "body_sha256": "ad0ef778199786b025dc0a08b0d6639a07fdaebaa95a12ffb8cd3279f0ed2271",
+          "output_sha256": "46fad4635a1c2d92d2bf4ab89578521ff633654f24f827de2966ea50947b51b8"
+        },
+        {
+          "resource": "adv_chara_225_01",
+          "body": "adv_chara_225_01.png",
+          "body_sha256": "ab3ea2c9190436ab7e6dc702773f9f830c618385d5559e1e86d959874b68cf6d",
+          "output_sha256": "3c5bebed0e2064cd741d43dafde5900f3c6731d90c742ffb0b90d4e8737abad9"
+        },
+        {
+          "resource": "adv_chara_229_01",
+          "body": "adv_chara_229_01.png",
+          "body_sha256": "9aa31511958157626257ad921de0efbca6d5aab92f1467d09a3a4615881828c5",
+          "output_sha256": "24f7f43bcaee710f72d4abd6c62f56ea24d4ae18bfc2b8747341ba30ca0ceebd"
+        },
+        {
+          "resource": "adv_chara_230_01",
+          "body": "adv_chara_230_01.png",
+          "body_sha256": "2d9ff2d136b782c5d898dc1e296bee64f6526bd72638702ac911fb4011e7eed3",
+          "output_sha256": "7a766b95001005a741c7832207b6774f920c28b7a51917c979c3c0c955adc634"
+        }
+      ],
+      "original_background_static_bindings": {
+        "status": "ACTUALLY_VIEWED_STATIC_ONLY",
+        "source_binding_receipt_sha256": "c28016de7c23051b4b14d8a107ffe5a96f90e470214ba333b9f359c728185ada",
+        "count": 14,
+        "assets": [
+          {
+            "resource": "bg_002.jpg.enc",
+            "sha256": "3b75aaa618dfb3885f414f4d31ef9d1cc899dec37c1c50cb408fc8f4ba00c36f",
+            "representative_native_occurrence": {
+              "episode_id": "401000428",
+              "page": 0,
+              "pointer": "/Pages/0/BackGround/FileName"
+            }
+          },
+          {
+            "resource": "bg_003.jpg.enc",
+            "sha256": "cd6dc17b0946efb72c3c7c083d54aaf6d3ff24b834798a9826b45504fe8c3210",
+            "representative_native_occurrence": {
+              "episode_id": "401006488",
+              "page": 0,
+              "pointer": "/Pages/0/BackGround/FileName"
+            }
+          },
+          {
+            "resource": "bg_014.jpg.enc",
+            "sha256": "9144edb6f3e92be5a6642cbf9cf5e9cfab8e9e491cafd96b254338443443ac3b",
+            "representative_native_occurrence": {
+              "episode_id": "401006488",
+              "page": 197,
+              "pointer": "/Pages/197/BackGround/FileName"
+            }
+          },
+          {
+            "resource": "bg_034.jpg.enc",
+            "sha256": "2e2adcbbae27d70f9be513ebfa08bd06f54394847b41b731514b29607ff67bb4",
+            "representative_native_occurrence": {
+              "episode_id": "401006488",
+              "page": 96,
+              "pointer": "/Pages/96/BackGround/FileName"
+            }
+          },
+          {
+            "resource": "bg_035.jpg.enc",
+            "sha256": "8fad1258b748aa41495f7471856bcb3917a58db72e6039b5d12c08e034d5ceb3",
+            "representative_native_occurrence": {
+              "episode_id": "401000142",
+              "page": 0,
+              "pointer": "/Pages/0/BackGround/FileName"
+            }
+          },
+          {
+            "resource": "bg_037.jpg.enc",
+            "sha256": "58d282cc15ec3d6f1190d0bc9b0f6eaa6314503a854e952a79aa78295b1be90e",
+            "representative_native_occurrence": {
+              "episode_id": "401006488",
+              "page": 162,
+              "pointer": "/Pages/162/BackGround/FileName"
+            }
+          },
+          {
+            "resource": "bg_049.jpg.enc",
+            "sha256": "226f1be181e7b8ac095564f86d6bdbdde654dffbd4a5020c1bd504e767eae269",
+            "representative_native_occurrence": {
+              "episode_id": "401006488",
+              "page": 160,
+              "pointer": "/Pages/160/BackGround/FileName"
+            }
+          },
+          {
+            "resource": "bg_054.jpg.enc",
+            "sha256": "a700776abba45edf0040a8ff28c14036f72ebf5d9fab34d87facc22cd6cfc8a5",
+            "representative_native_occurrence": {
+              "episode_id": "401006488",
+              "page": 164,
+              "pointer": "/Pages/164/BackGround/FileName"
+            }
+          },
+          {
+            "resource": "bg_058.jpg.enc",
+            "sha256": "8847a40d23ef0c35819c2877a46304dffe6fdf7643f4a4da2856fd3b1caea1f6",
+            "representative_native_occurrence": {
+              "episode_id": "401006488",
+              "page": 78,
+              "pointer": "/Pages/78/BackGround/FileName"
+            }
+          },
+          {
+            "resource": "bg_065.jpg.enc",
+            "sha256": "6f009f5598a176eb26325b4f1cc2b82227c30c0169788f406fc93a3610b8a378",
+            "representative_native_occurrence": {
+              "episode_id": "401006488",
+              "page": 44,
+              "pointer": "/Pages/44/BackGround/FileName"
+            }
+          },
+          {
+            "resource": "bg_111.jpg.enc",
+            "sha256": "49a803b161c4560b1a84ecd2f646b15bbc969df191c414a04f286a60bb54ba43",
+            "representative_native_occurrence": {
+              "episode_id": "401006488",
+              "page": 283,
+              "pointer": "/Pages/283/BackGround/FileName"
+            }
+          },
+          {
+            "resource": "bg_351.jpg.enc",
+            "sha256": "bc53c23fcfa21e7b1f005d7820c1eb87b0e84ed0a58393af620a3d4960b74a80",
+            "representative_native_occurrence": {
+              "episode_id": "401006488",
+              "page": 43,
+              "pointer": "/Pages/43/BackGround/FileName"
+            }
+          },
+          {
+            "resource": "bg_352.jpg.enc",
+            "sha256": "83fec128996f4dcbc9bc37a1e6fec53bbd869bd88dd036d3a47a3f2375c55d45",
+            "representative_native_occurrence": {
+              "episode_id": "401006488",
+              "page": 4,
+              "pointer": "/Pages/4/BackGround/FileName"
+            }
+          },
+          {
+            "resource": "bg_571.jpg.enc",
+            "sha256": "363c0de0a1c966cd71d628de1c2ea5fdae4f456b699ffb80fdf4f2ebfb56e83f",
+            "representative_native_occurrence": {
+              "episode_id": "401006488",
+              "page": 5,
+              "pointer": "/Pages/5/BackGround/FileName"
+            }
+          }
+        ]
+      },
+      "coverage_effective_state_sha256": "0a41bb17e3a132443f461082b77e9f7706eab74c125e8a83b41cb3255ab21639",
+      "execution_record": "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md",
+      "entity_storage_append": {
+        "entering_manifest_sha256": "271926077974345fecfbd6be8ef358a6b184ccd7125fdd2fa239ac1ec6b33aa9",
+        "entering_logical_sha256": "519082475cedea23202f4ee16e3062e86eebaf6465bd99beaca8d27339801ccd",
+        "closing_manifest_sha256": "cdcb4e888e1c931843f3674f4ffac69c4c7ce78059f4599891e6469408ce73f1",
+        "closing_logical_sha256": "22a7f80eb7d5671b12e66cc51cf56a7692d123e5b22f8eda84a3e0805742d4df",
+        "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+        "sealed_older_components_byte_exact": true
+      },
+      "control_storage_append": {
+        "entering_logical_source_lock_sha256": "e1ea619463b32fdf1732250b1b0309e3ea5e0cb408e2ba1c40dfe961efc2c033",
+        "entering_physical_owner_sha256": "3e1ac40b238a32cd3528dde81a6d071b7b0b6edf37876edf743abf2c5cd5fe8e",
+        "entering_coverage_manifest_sha256": "e8c741337342c20c9237677b3e8db34930546a83aebd08998e0abe51ef9fc332",
+        "closing_coverage_manifest_sha256": "1cd368aee84ccf7bcfd1cc8bf5c153e706bd87d1b555e6a5397aa2067d03c64b",
+        "all_older_integrity_serialized_bytes": "BYTE_EXACT",
+        "administrative_storage_history": "UNCHANGED",
+        "logical_reader_required": true
+      },
+      "source_menu_and_chronology": "Complete independent conditional Intimacy occurrences; menu/source/priority order routes execution only; no total chronology.",
+      "boundary": "Actually bounded Japanese/native and selected static review; no performed voice/music/SFX listening, runtime, monograph maturity, full2034completion or2053admission."
+    },
     "b0199_close_verification": {
       "operation": "T7S_B0199_CLOSE",
       "checked_at": "2026-10-29",
@@ -10449,750 +11340,4 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
             "resource": "bg_029.jpg.enc",
             "sha256": "ad7723032f9909e830947909a38225e70864874e394f9d51c862ad084d042349",
             "representative_native_occurrence": {
-              "episode_id": "401000107",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_062.jpg.enc",
-            "sha256": "fc736b0e2ff60542947cbd5783dc65c7f76fd62b1b96a0d3d58742b10b90dc41",
-            "representative_native_occurrence": {
-              "episode_id": "401003049",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_079.jpg.enc",
-            "sha256": "6a6aeb2444bb022982535133c4f4e703dd77181d7513940317d1af354b25e43c",
-            "representative_native_occurrence": {
-              "episode_id": "401001486",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          }
-        ]
-      },
-      "coverage_effective_state_sha256": "9c0dba0758e38e841d46747044224d27b4771daf8f06a3eb34d9cac31081eb29",
-      "execution_record": "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md",
-      "entity_storage_append": {
-        "entering_manifest_sha256": "f094a376bca8de23d84fb3057c0b6b278a1c242fae2932d0a0802d0ad7734e61",
-        "entering_logical_sha256": "6f5e7c19d01c802851d3489cd2c2e8a6ddc6c284fa0d4d4d35d684308fab6593",
-        "closing_manifest_sha256": "5ab5570b5fa3e0ecf99422dd4229563149ff9344ae47422f18d2e41b43879ad3",
-        "closing_logical_sha256": "33f60c6b612d47c4a5c7d75349412be00d1f38b4b03f45a788845657f5f71e03",
-        "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
-        "sealed_older_components_byte_exact": true
-      },
-      "control_storage_append": {
-        "entering_logical_source_lock_sha256": "89902d8ce374dd14f8f6c53915289b2f439262b5482f7d1da403ee1ac238c192",
-        "entering_physical_owner_sha256": "41a06843239bbe3c0bf8785cc271c7a178e0fd31dde89d9d6df051683d9cae29",
-        "entering_coverage_manifest_sha256": "2f4529601c3dcf1dc0537db861687d922384da5f9ff777e2ae13bec398530c43",
-        "closing_coverage_manifest_sha256": "e674585b8c8d876c87edb3b523dd4a312e98b907fe972b691f855174f0d4b5a8",
-        "all_older_integrity_serialized_bytes": "BYTE_EXACT",
-        "administrative_storage_history": "UNCHANGED",
-        "logical_reader_required": true
-      },
-      "source_menu_and_chronology": "Complete independent conditional Intimacy occurrences; menu/source/priority order routes execution only; no total chronology.",
-      "boundary": "Actually bounded Japanese/native and selected static review; no performed voice/music/SFX listening, runtime, monograph maturity, full2034completion or2053admission."
-    },
-    "b0192_close_verification": {
-      "operation": "T7S_B0192_CLOSE",
-      "checked_at": "2026-10-29",
-      "status": "PASS_BOUNDED_ORDINARY_LIFE_TEXT_NATIVE_AND_STATIC_REVIEW",
-      "portfolio_route_key": "NM-INTIMACY-200840",
-      "native_character_family_id": "200840",
-      "episode_ids": [
-        "401000105",
-        "401000626",
-        "401001338",
-        "401001770",
-        "401003025"
-      ],
-      "source_bindings": [
-        {
-          "episode_id": "401000105",
-          "script_id": "intimate_0105.json__8fc8b6d710761127",
-          "source_sha256": "b7ea2e73b4f4281b40eb3888e3f3829c69174dc9c4c0b7b1e559a12ce2314537",
-          "decoded_sha256": "0d1915a8ef17395fa9420d228c3f6aeb2d12328a24b25edf8661a84bdaf8be47",
-          "normalized_sha256": "bf1719c63924e87b76fea0934e070f4288ce2235d2772b76f7bd65b4dbb81916",
-          "structured_sha256": "bf1719c63924e87b76fea0934e070f4288ce2235d2772b76f7bd65b4dbb81916",
-          "pages": 4,
-          "text_records": 3,
-          "command_only_pages": 1,
-          "voice_pages": 3,
-          "native_pages_verified": 4
-        },
-        {
-          "episode_id": "401000626",
-          "script_id": "intimate_0626.json__ac61ec4a2760a2f2",
-          "source_sha256": "8b2e856ac8351e631e31d9f333acd5cbf931af7fa594b378535271a54c7afa88",
-          "decoded_sha256": "620e5f63df5f23cc0ceebe821c6d689f92e7083a8c446c6738d2c4c5b490e681",
-          "normalized_sha256": "ded27fea1c12be37d654bad021dc21d67d44c90fcae8b336e7313118cd48765b",
-          "structured_sha256": "ded27fea1c12be37d654bad021dc21d67d44c90fcae8b336e7313118cd48765b",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001338",
-          "script_id": "intimate_1338.json__46b79737d2f9cfef",
-          "source_sha256": "04df4ad59205d91b28a3acc8ea6d7f876c5e46005711add69dca2d9d68497ebb",
-          "decoded_sha256": "04a7b8b7c12070a3a6d66ae285045934cfd41883d112b50e240643f49071dbbd",
-          "normalized_sha256": "71f6cf32f95e4a14024c0ec0d1e07135df9224153eae17293b4284c6ae6ee861",
-          "structured_sha256": "71f6cf32f95e4a14024c0ec0d1e07135df9224153eae17293b4284c6ae6ee861",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001770",
-          "script_id": "intimate_1770.json__afb42cc2e684bb46",
-          "source_sha256": "c5b778a2f6b9b2e20de57c0d6d2cf7131c5d674509ce6bfea8ef3bc26a5dae86",
-          "decoded_sha256": "61782c224f2241088a172a93687676b61e4d7ec6d7ebae4ab6be6fc5dd300150",
-          "normalized_sha256": "42ad895c1f8819d93a2f2d6325f9f447837d0fb158e406aae4294b1deb9d7feb",
-          "structured_sha256": "42ad895c1f8819d93a2f2d6325f9f447837d0fb158e406aae4294b1deb9d7feb",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401003025",
-          "script_id": "intimate_3025.json__d0a27e83df8774e2",
-          "source_sha256": "ee40f53648cf00c8d0463a387d0d02edcc726bd98a31ab52a433788f320534f8",
-          "decoded_sha256": "f7f59574cbc9295cba220efd599be66f830547ef7bd7586f458b225548e93b49",
-          "normalized_sha256": "2732dec75ee6c449e251265409e8456acd6059f7241fa81a804a0e00f8be1159",
-          "structured_sha256": "2732dec75ee6c449e251265409e8456acd6059f7241fa81a804a0e00f8be1159",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        }
-      ],
-      "totals": {
-        "pages": 28,
-        "text_records": 23,
-        "command_only_pages": 5,
-        "voice_pages": 23,
-        "visual_refs": 191
-      },
-      "voice_count_basis": "Distinct dialogue-associated log-order references; any title carriers separately reviewed; no listening",
-      "native_packet_sha256": "5b1b5e1131826030fb933c919841965791d79a3d70964cc38d87a3abcddb0aa0",
-      "dialogue_packet_sha256": "0639996521c5f66dc5e793804111323c56515d19b30beafcb519a9e1303394cf",
-      "entering_repository_head": "827a0221ccc2156307543c62a973ad8cc222325c",
-      "entering_repository_tree": "65e98f094770043504cd4a0d8b6419bb6105cda5",
-      "entering_source_lock_version": "12.97",
-      "entering_source_lock_logical_sha256": "6c5a7f1190664f1402fb8b33808526a964cba3c4c96e6d4c9c39b77bd321e937",
-      "entering_source_lock_physical_owner_sha256": "17f5859aacf2185595c495915c9cd101969b5fd79831b9ce2d0dc70b306f89b2",
-      "entering_source_high_water": "T7S_B0191",
-      "prospective_boundary_sha256": "567d288fc5139e908806cff2b5a5abfd023176f941afa5ba48040cce1fbeb070",
-      "evidence_receipt_sha256": "dd0d0dd84968e0a2f78e703d41963e39fb9e7ef2d3875801a22d8f7c8b4ea842",
-      "native_fields_projection_sha256": "141bedf97c7a95b2aff1d1daf193629dba59e5a970ab33461ca6313366bb5f44",
-      "actual_root_review_sha256": "71f42df6d0a338773fb449ff97ce07ec36b03e5489529af40f6576665d1c67f0",
-      "native_segment_review_sha256": "a66d78085d3d759f6eb8185355041cc314601e4b6c4b677c52983cf5984cd741",
-      "reading_sha256": "84fea3c716cab630dbcfcf93e3bca125cbf071041fed299f5f583e809fc6efe0",
-      "literal_authored_state_sha256": "0479154fa7b2c4688539d14286d3b6f49a2e585a53210a61075cd748571288f9",
-      "visual_assets": [
-        {
-          "resource": "adv_chara_001_02_01",
-          "body": "adv_chara_001_02.png",
-          "body_sha256": "ebfb1cb2b043be3b956b409312a66fad825ccbbc8f28c8d44e2b507a0126d992",
-          "face": "adv_chara_001_02_01.png",
-          "face_sha256": "e42164004107d92ee477d2d69a92e8847b3e073b84be6a24c703f07bf95bba80",
-          "native_face_offset": [
-            120,
-            110
-          ],
-          "output_sha256": "1dafb178584f5b8969a09e579d6dd6277007098d27777ab0d9758bb50d294a55"
-        }
-      ],
-      "original_background_static_bindings": {
-        "status": "ACTUALLY_VIEWED_STATIC_ONLY",
-        "source_binding_receipt_sha256": "8dbbad69cad7510560496a8a9c396294f0a6ae3cdae6d49fe972379504b07c87",
-        "count": 5,
-        "assets": [
-          {
-            "resource": "bg_004.jpg.enc",
-            "sha256": "31b63d12811facf787b9292fd1787ab066f6a28322772586cc0ead59135c0c4a",
-            "representative_native_occurrence": {
-              "episode_id": "401000105",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_005.jpg.enc",
-            "sha256": "3fb088b1b9a764fd96643d5c694f8d157c82b9c8d85fb85073c037b8e57aec14",
-            "representative_native_occurrence": {
-              "episode_id": "401001770",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_030.jpg.enc",
-            "sha256": "a6b2c357f5836b5893470d548a7020509acb9dd48cd707cb5308347f13f55763",
-            "representative_native_occurrence": {
-              "episode_id": "401001338",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_040.jpg.enc",
-            "sha256": "8d8d17cde8a4723a273dadbe429ab29c4494d19bee26aba3c7316bca10c2476b",
-            "representative_native_occurrence": {
-              "episode_id": "401000626",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_079.jpg.enc",
-            "sha256": "6a6aeb2444bb022982535133c4f4e703dd77181d7513940317d1af354b25e43c",
-            "representative_native_occurrence": {
-              "episode_id": "401003025",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          }
-        ]
-      },
-      "coverage_effective_state_sha256": "b1784e4a8a1d482204aa7b6af5333fba60bbb82ca98431370aac8d8d668ae596",
-      "execution_record": "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md",
-      "entity_storage_append": {
-        "entering_manifest_sha256": "09b9549c1c25c34358a006817af8a5d5c533ea5683110f9b13d8d1b948de9793",
-        "entering_logical_sha256": "ecc0d9048ce760fb3084bdca0944042a804b490b6a17c5c90f2e1d3e4c62a057",
-        "closing_manifest_sha256": "f094a376bca8de23d84fb3057c0b6b278a1c242fae2932d0a0802d0ad7734e61",
-        "closing_logical_sha256": "6f5e7c19d01c802851d3489cd2c2e8a6ddc6c284fa0d4d4d35d684308fab6593",
-        "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
-        "sealed_older_components_byte_exact": true
-      },
-      "control_storage_append": {
-        "entering_logical_source_lock_sha256": "6c5a7f1190664f1402fb8b33808526a964cba3c4c96e6d4c9c39b77bd321e937",
-        "entering_physical_owner_sha256": "17f5859aacf2185595c495915c9cd101969b5fd79831b9ce2d0dc70b306f89b2",
-        "entering_coverage_manifest_sha256": "6929698d7908a8fb862b615eb89432b9831c185b7e1b3053056a782cb12428c0",
-        "closing_coverage_manifest_sha256": "2f4529601c3dcf1dc0537db861687d922384da5f9ff777e2ae13bec398530c43",
-        "all_older_integrity_serialized_bytes": "BYTE_EXACT",
-        "administrative_storage_history": "UNCHANGED",
-        "logical_reader_required": true
-      },
-      "source_menu_and_chronology": "Complete independent conditional Intimacy occurrences; menu/source/priority order routes execution only; no total chronology.",
-      "boundary": "Actually bounded Japanese/native and selected static review; no performed voice/music/SFX listening, runtime, monograph maturity, full2034completion or2053admission.",
-      "git_only_reconciliation": {
-        "source_entry_commit": "827a0221ccc2156307543c62a973ad8cc222325c",
-        "integration_base_commit": "2c964d2ef1785dc48ca9de26078121d7aad0c48b",
-        "incoming_main": "2c964d2ef1785dc48ca9de26078121d7aad0c48b",
-        "remote_series": "ddecaf0d8eec750f1178fdba5a6e522da3b7a11a",
-        "reconciliation_receipt_sha256": "25847299da2b7ee0009e87f1a5d96160fcfc9ce86f5362ea3a766556af3a68de",
-        "t7s_tree_unchanged": "ed6da6dea6407e47bb65e17bfd10758285ca3623",
-        "frozen_prospective_evidence": "UNCHANGED; no later semantic source or admission"
-      }
-    },
-    "b0191_close_verification": {
-      "operation": "T7S_B0191_CLOSE",
-      "checked_at": "2026-10-28",
-      "status": "PASS_BOUNDED_ORDINARY_LIFE_TEXT_NATIVE_AND_STATIC_REVIEW",
-      "portfolio_route_key": "NM-INTIMACY-200500",
-      "native_character_family_id": "200500",
-      "episode_ids": [
-        "401000101",
-        "401000354",
-        "401000396",
-        "401000558",
-        "401000650",
-        "401000686",
-        "401001010",
-        "401001074",
-        "401001226"
-      ],
-      "source_bindings": [
-        {
-          "episode_id": "401000101",
-          "script_id": "intimate_0101.json__f35b62ed14eabb54",
-          "source_sha256": "5f79e91b6c4f1b917f733f052b4978dd76913db3a25e5e1bcd09e6156ac5a081",
-          "decoded_sha256": "3020930c32356be3855ae66f58d0358e056292dd1f90ecc58a1154be8d4c4c1e",
-          "normalized_sha256": "5014c33b85842ab2fa523b1ed09d53471c815735b97ecfd08cc74dcd44449e29",
-          "structured_sha256": "5014c33b85842ab2fa523b1ed09d53471c815735b97ecfd08cc74dcd44449e29",
-          "pages": 5,
-          "text_records": 4,
-          "command_only_pages": 1,
-          "voice_pages": 4,
-          "native_pages_verified": 5
-        },
-        {
-          "episode_id": "401000354",
-          "script_id": "intimate_0354.json__d33bba9255b8210b",
-          "source_sha256": "44486e44dd66bec203f5b4121b341496e9defa022d57de28a686c58da14c7127",
-          "decoded_sha256": "0fc51c372ec1495f6ba159dd7d5bb3173c63d1a82d6a53ec6aca2e4e32c26bea",
-          "normalized_sha256": "a8a1b838825f5f82ce357e767fc063f79a0f5cbfe09242a43c7cf9e1ed576595",
-          "structured_sha256": "a8a1b838825f5f82ce357e767fc063f79a0f5cbfe09242a43c7cf9e1ed576595",
-          "pages": 4,
-          "text_records": 3,
-          "command_only_pages": 1,
-          "voice_pages": 3,
-          "native_pages_verified": 4
-        },
-        {
-          "episode_id": "401000396",
-          "script_id": "intimate_0396.json__4b23b63cf6fbd82a",
-          "source_sha256": "d18e7e4e518859f30c97f7b3bfe7fad8b7c915ad0e312129937b0b0622841434",
-          "decoded_sha256": "b1bf6855fd29397e9c1df38df7f8df2e3a45122e914bd7ec4fe3e06f04613776",
-          "normalized_sha256": "157fbe9c30e593b37727fb24116c4d17d9b5c643290fee7be685263ac264435d",
-          "structured_sha256": "157fbe9c30e593b37727fb24116c4d17d9b5c643290fee7be685263ac264435d",
-          "pages": 5,
-          "text_records": 4,
-          "command_only_pages": 1,
-          "voice_pages": 4,
-          "native_pages_verified": 5
-        },
-        {
-          "episode_id": "401000558",
-          "script_id": "intimate_0558.json__618bc0aa2100d88e",
-          "source_sha256": "d0a3bbf70174fe060dfa720b42a38dbc28530945d34a7e54f36099bb7dab13ec",
-          "decoded_sha256": "1e54afe875b8a4ade73a11973122540f66cd13ce5dd2a01198919e9a30e0bc85",
-          "normalized_sha256": "f6ddb4ba3d54a9a08a8b032b326c4a21d45916ad279108c8925b3b7716790b4b",
-          "structured_sha256": "f6ddb4ba3d54a9a08a8b032b326c4a21d45916ad279108c8925b3b7716790b4b",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000650",
-          "script_id": "intimate_0650.json__0f5bc8f725bce743",
-          "source_sha256": "3a5254c0b2f5c0cb637ccb4ce8de383f9add710fde0369c1500d4c294bbdba0e",
-          "decoded_sha256": "6216fdcd17919c8c74ea093ac3a877cb5b0364cbb26a7d6c8066ac46a963b231",
-          "normalized_sha256": "4d60971bdcc547e7a036be0e143a20b179234e7aa3201350b4eae09a030b113b",
-          "structured_sha256": "4d60971bdcc547e7a036be0e143a20b179234e7aa3201350b4eae09a030b113b",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000686",
-          "script_id": "intimate_0686.json__d6570be9c22fa428",
-          "source_sha256": "aba362e3a53f4e3fae0dc22db7879851053bc66b7af9d228cbe5bf09f3977153",
-          "decoded_sha256": "38674f4c5c089a6bbb110237a8768934fcadf3047bdec5e93340fef4a4a4880c",
-          "normalized_sha256": "d05bf27766724d4c6db55db3074455a09480d3e87ae4b98e64a8c0c49bad9f77",
-          "structured_sha256": "d05bf27766724d4c6db55db3074455a09480d3e87ae4b98e64a8c0c49bad9f77",
-          "pages": 4,
-          "text_records": 3,
-          "command_only_pages": 1,
-          "voice_pages": 3,
-          "native_pages_verified": 4
-        },
-        {
-          "episode_id": "401001010",
-          "script_id": "intimate_1010.json__684b96751b454cbc",
-          "source_sha256": "a18e1df2012d8620e9b2cb8c1c35658a006894ce072e22e967141893d342ec3b",
-          "decoded_sha256": "23df992f47ce37173671a48fc5bf758b10423cbaf6aa3bb05f6650188f014b54",
-          "normalized_sha256": "1063c4f47480b91c93b4b3c273a244c87d8b45d925060d019414722b21a24f13",
-          "structured_sha256": "1063c4f47480b91c93b4b3c273a244c87d8b45d925060d019414722b21a24f13",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001074",
-          "script_id": "intimate_1074.json__81c9f657d0595cdb",
-          "source_sha256": "539cf84143d2221e858f30e58766390a156bd806971a4ab020e68f9610be534f",
-          "decoded_sha256": "a7c7cc1f614f40ca85113ecc1a2367d2a7e1a60c03fe6e30a4bb8fdab8ee4a7b",
-          "normalized_sha256": "11e8965c5a0074217a689d1b3bfe599946b91ee0e82b685deedf2fff07cb2a82",
-          "structured_sha256": "11e8965c5a0074217a689d1b3bfe599946b91ee0e82b685deedf2fff07cb2a82",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001226",
-          "script_id": "intimate_1226.json__908d8aa419583112",
-          "source_sha256": "31d8357aeff15f03cc463bb1fae9bfe7f63f67f54f06185cd1f1e70cfde99710",
-          "decoded_sha256": "9179aaa47ff5e3949540bd5218c9614da2b4d66d7170a397e95f13248901d7b5",
-          "normalized_sha256": "5cf1fb631068ac47fd6359e13efa463da87c3a58cc0a3f9e2919d29a998d75c5",
-          "structured_sha256": "5cf1fb631068ac47fd6359e13efa463da87c3a58cc0a3f9e2919d29a998d75c5",
-          "pages": 5,
-          "text_records": 4,
-          "command_only_pages": 1,
-          "voice_pages": 4,
-          "native_pages_verified": 5
-        }
-      ],
-      "totals": {
-        "pages": 47,
-        "text_records": 38,
-        "command_only_pages": 9,
-        "voice_pages": 38,
-        "visual_refs": 266
-      },
-      "voice_count_basis": "Distinct dialogue-associated log-order references; any title carriers separately reviewed; no listening",
-      "native_packet_sha256": "17777753bf89e3e53639ca067a8e7304999e119f5356cb748a2058d2a5b9428c",
-      "dialogue_packet_sha256": "574bc4a6e764aeb94c8b6891ed038144d78cac5febd4afba0f9f4d84d8a7ab61",
-      "entering_repository_head": "3520c464baefca50ba27c46cedfaa23b5ca91b19",
-      "entering_repository_tree": "7b63230637ca9e30f02a754351b52970fbd73a62",
-      "entering_source_lock_version": "12.96",
-      "entering_source_lock_logical_sha256": "9253230e15d4d463053a5db4cb85e7d1e2edeab7de18e434705db51ce5943234",
-      "entering_source_lock_physical_owner_sha256": "ce93c65848247f1300f673819726a3475b5fe4a3e4935d2902e0f34d1bfd3889",
-      "entering_source_high_water": "T7S_B0190",
-      "prospective_boundary_sha256": "f71e7ccdabb78bfcbf182edc12d691a053282bef0d20551ae9dd2d89e7c94f4f",
-      "evidence_receipt_sha256": "157608b3515087c55acae81f2afd5c7bcf6ddf694b2dfcdceadd38926cd10ef3",
-      "native_fields_projection_sha256": "04d00e0aea5ad1afdfc44277302ed22dd961a34345288994f5a803bf6fc432e7",
-      "actual_root_review_sha256": "8af10e77f56059d4f37b37e7e7c5ad5b7be6ab4084c4fee1e377fa62d9dc047a",
-      "native_segment_review_sha256": "5e99e38ef4189b84087ffa06fc05853c65a6e610128459cec1907e9da26175fd",
-      "reading_sha256": "ba97cf217b7c3ef251ec0eb560adc9437e3ce2eb5b94859576c597a3ae503f9c",
-      "literal_authored_state_sha256": "2b3686c1700c13dce490c968831ac3fd4892940a47c498ed0f5dafc9c051d487",
-      "visual_assets": [
-        {
-          "resource": "adv_chara_007_01_02",
-          "body": "adv_chara_007_01.png",
-          "body_sha256": "1bf0de43c70899cafbf9ae8fedfba9663293ade0a774d004e620c158af87ccf0",
-          "face": "adv_chara_007_01_02.png",
-          "face_sha256": "447a64d6fb7ad56536043b47f3ce6f2bbc7784641d7915c577645ae1fb83f644",
-          "native_face_offset": [
-            84,
-            80
-          ],
-          "output_sha256": "15f7a3434cf0f5029a643d8d16eb41fd459e289aee7072e2c47ad85e920ed869"
-        }
-      ],
-      "original_background_static_bindings": {
-        "status": "ACTUALLY_VIEWED_STATIC_ONLY",
-        "source_binding_receipt_sha256": "6f016b680d130593050b431bf8c6bd3aab4beab966b9a54ccbf85616f66e4162",
-        "count": 5,
-        "assets": [
-          {
-            "resource": "bg_002.jpg.enc",
-            "sha256": "3b75aaa618dfb3885f414f4d31ef9d1cc899dec37c1c50cb408fc8f4ba00c36f",
-            "representative_native_occurrence": {
-              "episode_id": "401000396",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_004.jpg.enc",
-            "sha256": "31b63d12811facf787b9292fd1787ab066f6a28322772586cc0ead59135c0c4a",
-            "representative_native_occurrence": {
-              "episode_id": "401000101",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_005.jpg.enc",
-            "sha256": "3fb088b1b9a764fd96643d5c694f8d157c82b9c8d85fb85073c037b8e57aec14",
-            "representative_native_occurrence": {
-              "episode_id": "401000558",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_023.jpg.enc",
-            "sha256": "b0fb785518e8445152b99dc331cb4f81b5c2a8e9a63e7a4b799e3532763a6355",
-            "representative_native_occurrence": {
-              "episode_id": "401001226",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_032.jpg.enc",
-            "sha256": "2555f89da4d2924e263531bb78c9115391a489a13009d175b3b55e748fd3ce87",
-            "representative_native_occurrence": {
-              "episode_id": "401000354",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          }
-        ]
-      },
-      "coverage_effective_state_sha256": "95631bba8bb35f01d35619dab8ac7b70fa18add0275e9a863842f5175fb0c625",
-      "execution_record": "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md",
-      "entity_storage_append": {
-        "entering_manifest_sha256": "708da8558d5c729cbad1e0073fd2112dbeabda2941f9affc5384feb22e243da4",
-        "entering_logical_sha256": "349a85e95bc977a34c64483573461f682eca72ab30566525a3eb3257b94ce3bd",
-        "closing_manifest_sha256": "09b9549c1c25c34358a006817af8a5d5c533ea5683110f9b13d8d1b948de9793",
-        "closing_logical_sha256": "ecc0d9048ce760fb3084bdca0944042a804b490b6a17c5c90f2e1d3e4c62a057",
-        "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
-        "sealed_older_components_byte_exact": true
-      },
-      "control_storage_append": {
-        "entering_logical_source_lock_sha256": "9253230e15d4d463053a5db4cb85e7d1e2edeab7de18e434705db51ce5943234",
-        "entering_physical_owner_sha256": "ce93c65848247f1300f673819726a3475b5fe4a3e4935d2902e0f34d1bfd3889",
-        "entering_coverage_manifest_sha256": "8ebe106dcbde93d5e0f624136da0d2497871f2e79f81d4601bb11e95af720f15",
-        "closing_coverage_manifest_sha256": "6929698d7908a8fb862b615eb89432b9831c185b7e1b3053056a782cb12428c0",
-        "all_older_integrity_serialized_bytes": "BYTE_EXACT",
-        "administrative_storage_history": "UNCHANGED",
-        "logical_reader_required": true
-      },
-      "source_menu_and_chronology": "Complete independent conditional Intimacy occurrences; menu/source/priority order routes execution only; no total chronology.",
-      "boundary": "Actually bounded Japanese/native and selected static review; no performed voice/music/SFX listening, runtime, monograph maturity, full2034completion or2053admission.",
-      "coverage_physical_growth": {
-        "before_role_components": [
-          3,
-          2
-        ],
-        "after_role_components": [
-          4,
-          2
-        ],
-        "new_component": "01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_CURRENT_004.jsonl",
-        "retired_components": [],
-        "logical_records": 1590,
-        "unchanged_other_effective_records": 1581,
-        "old_role_defaults_and_serialized_data": "PRESERVED_EXCEPT_EXACT_SELECTED_FAMILY_DELTA",
-        "physical_and_native_caps": "UNCHANGED",
-        "frozen_storage_transition_history": "UNCHANGED"
-      }
-    },
-    "b0190_close_verification": {
-      "operation": "T7S_B0190_CLOSE",
-      "checked_at": "2026-10-28",
-      "status": "PASS_BOUNDED_ORDINARY_LIFE_TEXT_NATIVE_AND_STATIC_REVIEW",
-      "portfolio_route_key": "NM-INTIMACY-200650",
-      "native_character_family_id": "200650",
-      "episode_ids": [
-        "401000086",
-        "401000090",
-        "401000750",
-        "401000838",
-        "401001050",
-        "401001130",
-        "401001406",
-        "401006538"
-      ],
-      "source_bindings": [
-        {
-          "episode_id": "401000086",
-          "script_id": "intimate_0086.json__011611904fd7751d",
-          "source_sha256": "70778bfaebc909bf6313765fb3c5fbed6c2a49c4c21a6dfcf77fb5bd3552c314",
-          "decoded_sha256": "c7dfb879d1467f42147e74dbb11102f66199809445f5c986dbc2ad0ba152bb48",
-          "normalized_sha256": "b2167a8ddb82e196b203154fdbae717ba80cdd9d73b361acc769fd9eff41a3e8",
-          "structured_sha256": "b2167a8ddb82e196b203154fdbae717ba80cdd9d73b361acc769fd9eff41a3e8",
-          "pages": 4,
-          "text_records": 3,
-          "command_only_pages": 1,
-          "voice_pages": 3,
-          "native_pages_verified": 4
-        },
-        {
-          "episode_id": "401000090",
-          "script_id": "intimate_0090.json__5be8fa85501d29f7",
-          "source_sha256": "5006cfc37bcaaec09bd5a8760b7ea36a91c1cdaff598e8e1a8cd1d6c1c3acbf8",
-          "decoded_sha256": "4b34d7d99843827f861e72811e227595f7272ba803e33226d6670a5bc853f0d4",
-          "normalized_sha256": "26e230f3fe84b4c6df75ff3170668499c9bda5c79352fd6266a980c1e2251521",
-          "structured_sha256": "26e230f3fe84b4c6df75ff3170668499c9bda5c79352fd6266a980c1e2251521",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000750",
-          "script_id": "intimate_0750.json__eb59ed4f7fea9b52",
-          "source_sha256": "ec267fceeb9bdf496e17d8f5b571182edceb63530c4d84cf9d6c20bab22d0968",
-          "decoded_sha256": "5cc3aedc3c0e2c6a6536aff22fafe9d51aa814f36e4a21376cdb4025c31faee0",
-          "normalized_sha256": "9e80dbadd416a2cfecc36245436972f90627238336cd5f4395b64f63714dad6b",
-          "structured_sha256": "9e80dbadd416a2cfecc36245436972f90627238336cd5f4395b64f63714dad6b",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000838",
-          "script_id": "intimate_0838.json__b7e84c890d5823f4",
-          "source_sha256": "1c3f23d1fd9072a3459797bde5fbcfece3c634dcdf1597eedab27592c8a047d0",
-          "decoded_sha256": "fea3996b2174a8aae14933c1f10319fba38237d74e86ad928f5a33cb27fe2ac2",
-          "normalized_sha256": "c5b094012260f1d735745c49fc9e0ac4aa773af770b256c6bd5d860c4e4dca4e",
-          "structured_sha256": "c5b094012260f1d735745c49fc9e0ac4aa773af770b256c6bd5d860c4e4dca4e",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001050",
-          "script_id": "intimate_1050.json__a378554682c22fe5",
-          "source_sha256": "e375249b0130e755eb53aca9eef9c8bd34da1582a5b130c1b946ccc73c3ee0fd",
-          "decoded_sha256": "4c07b34d82b45c58a8a32e8020a2d144c6faa044069e5e3ff934552b91ff3bff",
-          "normalized_sha256": "9ffc784316eb866b06aa16fdffc098cffa412f131be1b539a2f90f8f9c5a835b",
-          "structured_sha256": "9ffc784316eb866b06aa16fdffc098cffa412f131be1b539a2f90f8f9c5a835b",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001130",
-          "script_id": "intimate_1130.json__9020a75b1cea1bd8",
-          "source_sha256": "5d493af4683ea3660491a60536c33df3c9ab9bcaf93e9e7a38b4e837711c8ba2",
-          "decoded_sha256": "55ebe2d64146d1bf713147890f9c5894f4d9db28765722bea50919f1ee14db38",
-          "normalized_sha256": "9f642531ef33e34f9f1c790de784376bd96ffd00696ca56c3991b7270fb240f7",
-          "structured_sha256": "9f642531ef33e34f9f1c790de784376bd96ffd00696ca56c3991b7270fb240f7",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001406",
-          "script_id": "intimate_1406.json__12a026139ed2c3fc",
-          "source_sha256": "c8ec401b929207c75a814de87883d65a1e12cf4d4bfa419f9807a2fd65001efb",
-          "decoded_sha256": "abcec9634b2f5245a6e2cbd767602a5e52475577a079e1b4bf6e5706f7aca19f",
-          "normalized_sha256": "c54f0c0d498bc3f258784cddfded978889e79c0ec5e9c1a2187184ff63d0885e",
-          "structured_sha256": "c54f0c0d498bc3f258784cddfded978889e79c0ec5e9c1a2187184ff63d0885e",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401006538",
-          "script_id": "exepisode_6538.json__373dc2d9f7ef5b05",
-          "source_sha256": "2205950a86c0891aff675569eaca7cf4bac48cacc47a7b979dfcf2949db836b9",
-          "decoded_sha256": "d2c535dfff82e968b41345c89079dad84b229751067968f9b3a9aa38d4ec3332",
-          "normalized_sha256": "d3bfb79dffea4e262c922b30fd05cd51ebddff4f715444c70f550cc6c327e7e0",
-          "structured_sha256": "d3bfb79dffea4e262c922b30fd05cd51ebddff4f715444c70f550cc6c327e7e0",
-          "pages": 167,
-          "text_records": 125,
-          "command_only_pages": 42,
-          "voice_pages": 0,
-          "native_pages_verified": 167
-        }
-      ],
-      "totals": {
-        "pages": 207,
-        "text_records": 158,
-        "command_only_pages": 49,
-        "voice_pages": 33,
-        "visual_refs": 2168
-      },
-      "voice_count_basis": "Distinct dialogue-associated log-order references; any title carriers separately reviewed; no listening",
-      "native_packet_sha256": "64fe24bfa0485ac9ba1da554ae3eed7ab2e124af74d76e13654f1d113bff44a7",
-      "dialogue_packet_sha256": "4ee9c3ef13db1730bfb008d1d680a2d2ec570e06ee815146362970e6d69db919",
-      "entering_repository_head": "dd99f75fd8ad2034500696826988f4e7a92bbe48",
-      "entering_repository_tree": "3bcbeaee17c7a9d76baa127741f85dcaba7d3d30",
-      "entering_source_lock_version": "12.95",
-      "entering_source_lock_logical_sha256": "0c9ed3cc4befacf33ffb7368347335ec9720ff971ffc926750c5c1edad9b9079",
-      "entering_source_lock_physical_owner_sha256": "5806c675e209157a62702fe54ef8c6eedbf1cc40ed64294c5e722a793e1a2865",
-      "entering_source_high_water": "T7S_B0189",
-      "prospective_boundary_sha256": "0588e764a3b15264fb09d63402feb507133d06a27dedef969f92f21698ace360",
-      "evidence_receipt_sha256": "1c73c9faafd9d3c0bf4bba7a82a0b9994f2fba9ef5c6b6af1890d392f1d96c63",
-      "native_fields_projection_sha256": "0074966a4a34e0e5c7685f08e433a263008b13cb60b6dcf26e9028b6485f32aa",
-      "actual_root_review_sha256": "72d02c4cdaaf59e34d96dcf4a8f2c8a4c21785651f48ae1acce5dc1fea5a5dcb",
-      "native_segment_review_sha256": "dc0121f3b91a213e94837f375b2fb8410640abe299d3254f889f5a7a56b7bdf5",
-      "reading_sha256": "2285d5c7e2d961c7acade06e5a8341e38966f9056e157ad035b7ffed5f82afd3",
-      "literal_authored_state_sha256": "1c8e91a17d2033c8fa912c0f889090a9904de220e8a2b1e7bb5cbf56b727ba54",
-      "visual_assets": [
-        {
-          "resource": "adv_chara_127_01_01",
-          "body": "adv_chara_127_01.png",
-          "body_sha256": "55ab7e21679b73357782950a32dba638beb20b7be142cb9810b5021b94af28db",
-          "face": "adv_chara_127_01_01.png",
-          "face_sha256": "4cb29f702bfc626726aa369fd36a1e62fc518fff214338cb4ce6dc4237bbcaf0",
-          "native_face_offset": [
-            176,
-            108
-          ],
-          "output_sha256": "2173b61a37f0aaa3172f20921551ed6a21b62e82e33875b67c2df2805aeafa72"
-        },
-        {
-          "resource": "adv_chara_127_01_04",
-          "body": "adv_chara_127_01.png",
-          "body_sha256": "55ab7e21679b73357782950a32dba638beb20b7be142cb9810b5021b94af28db",
-          "face": "adv_chara_127_01_04.png",
-          "face_sha256": "7b3c05a6522c17e8c7aa59a621d5b5edc344a3d4e0842420f2e2e00968e62df6",
-          "native_face_offset": [
-            176,
-            108
-          ],
-          "output_sha256": "897b4ac7693bbf12d9d08bdf2e69610756f84fccacfceb6553a658ef126204b4"
-        },
-        {
-          "resource": "adv_chara_127_01_09",
-          "body": "adv_chara_127_01.png",
-          "body_sha256": "55ab7e21679b73357782950a32dba638beb20b7be142cb9810b5021b94af28db",
-          "face": "adv_chara_127_01_09.png",
-          "face_sha256": "89fdb5d779c9d21074520b7f8cfaf37379307b0bada09fc2eca55934f3a57d33",
-          "native_face_offset": [
-            176,
-            108
-          ],
-          "output_sha256": "31a951fb704fef7930eb86fc64f791ebaaea7fbc4f7b1f230a71ba9806e53b77"
-        },
-        {
-          "resource": "adv_chara_123_01_14",
-          "body": "adv_chara_123_01.png",
-          "body_sha256": "bf9dd13377050333bee12690b2cb5cc31035c1f0269f79493d6b1761efb819fd",
-          "face": "adv_chara_123_01_14.png",
-          "face_sha256": "7e7326f61335a5a6b0fa1b7bc5138d2a6cd2538e47ac60d7297dff39f59edb01",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "de72245e6d8e223b0b165673da70d7550c41d6f755fdba7228fbd32c0c34794f"
-        },
-        {
-          "resource": "adv_chara_123_01_29",
-          "body": "adv_chara_123_01.png",
-          "body_sha256": "bf9dd13377050333bee12690b2cb5cc31035c1f0269f79493d6b1761efb819fd",
-          "face": "adv_chara_123_01_29.png",
-          "face_sha256": "65202b91942e0d0be0f7123dce3031dd465d06f89c54785351bf6df28b73b65f",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "e3b4bc95d30f67288d4decda48795c871cbbeee293a6d022661d6b933f6da501"
-        },
-        {
-          "resource": "adv_chara_127_02_09",
-          "body": "adv_chara_127_02.png",
-          "body_sha256": "eca3cd36fc801dcf1e93e85ffaa806839d28ae78ee599b6848dd5d5bb0c64074",
-          "face": "adv_chara_127_02_09.png",
-          "face_sha256": "fa50c0ea3d4afeab23f6e47551fde0d1517190392396855f9b9c21f86cb487a5",
-          "native_face_offset": [
-            176,
-            108
-          ],
-          "output_sha256": "ae00b36044db605aca62cebbf416ad728edcb2cb1b2375cd21375eb07a9b9dab"
-        },
-        {
-          "resource": "adv_chara_127_02_16",
-          "body": "adv_chara_127_02.png",
-          "body_sha256": "eca3cd36fc801dcf1e93e85ffaa806839d28ae78ee599b6848dd5d5bb0c64074",
-          "face": "adv_chara_127_02_16.png",
-          "face_sha256": "b462ab82702f4f1fc9b6dd4c517fd8f35857b6422b944e097687716ff76bf9a6",
-          "native_face_offset": [
-            176,
-            108
-          ],
-          "output_sha256": "2879d077f78abb17f74c4116cda8e9a83f7d03911e5c31125209980cda8eef60"
-        },
-        {
-          "resource": "adv_chara_127_02_14",
-          "body": "adv_chara_127_02.png",
-          "body_sha256": "eca3cd36fc801dcf1e93e85ffaa806839d28ae78ee599b6848dd5d5bb0c64074",
-          "face": "adv_chara_127_02_14.png",
 <!-- T7S SOURCE LOCK PAYLOAD END -->

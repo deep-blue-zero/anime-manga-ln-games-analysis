@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.100"
+version: "11.101"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 132 Intimacy primary documents across 18 family portfolios / T7S_B0182–T7S_B0199; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 140 Intimacy primary documents across 19 family portfolios / T7S_B0182–T7S_B0200; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-29
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1226`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1375`; `last_closed_block = T7S_B0199`. The admitted horizon contains 647 primary documents: 235 Main, 280 i-n-g and 132 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 132 Intimacy documents across 18 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1240`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1389`; `last_closed_block = T7S_B0200`. The admitted horizon contains 655 primary documents: 235 Main, 280 i-n-g and 140 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 140 Intimacy documents across 19 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4086,3 +4086,43 @@ Owner [B0199](../02%20Readings/T7S_B0199_DEEP_READING.md), reading SHA256 `c839f
 | `EDGE-1382` | `EV-B0199-006 / EV-B0199-013` | REQUESTED_PUSH_AND_REQUESTED_BACKSLAP; metaphorical/physical supports compared, no cross-case BEFORE or blanket permission. |
 
 Totals:1226 EV,25 WORLD,47 THREAD and1375 active EDGE records; maximum1382 retains seven prior non-active gaps. Only H receives five internal BEFORE links; cross-case thematic relations impose no total chronology. All reports, inferences, recalled states, actual utterance/actions and proposals retain their scopes. No new institutional/world fact or measured jump result.
+
+## B0200 Honoka's ordinary self and the happiness she chooses to carry
+
+Owner [B0200](../02%20Readings/T7S_B0200_DEEP_READING.md), reading SHA256 `e1eba5def2eb457e7b2c61e8e7f2e8680ceba8868fc0ab3bb4c546c1ca62973a`; source-lock 12.106, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Exact A-H scripts/hashes/full locators are owned by that reading. All25 physical and complete logical before-controls were frozen at published e1c9b4f/B0199/12.105 before primary access; later publication-cycle evidence is separate. No menu-derived total chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0200-001` | A:401000142 P0-3 | Reports father knife restriction and secret cooking study since yesterday; imperfect food leads to promise of future skill for a liked addressee. | REPORTED_RESTRICTION_AND_FUTURE_OFFER; no father-own motive, actual delicious dish, reciprocal romance or menu chronology. |
+| `EV-B0200-002` | B:401000428 P0-5 | Rejects ojousama label, reports painful peer gaze, values ordinary recognition and asks ordinary private treatment beside public idol role. | OWN_APPRAISAL_AND_REQUEST; no audited wealth/class, universal isolation or perfect managerial recognition. |
+| `EV-B0200-003` | C:401000734 P0-5 | Believes horoscope, compares morning forecast with memories, recalls company and invites future joint reading. | RETROSPECTIVE_PERSONAL_PATTERN; no divination causality or completed invitation/calendar. |
+| `EV-B0200-004` | D:401000878 P0-5 | Asks busy manager to rest over tea, wants plentiful apparently purposeless talk and greater personal knowledge. | REQUESTED_COMPANIONABLE_REST; no complete transcript/duration, unlimited disclosure or supplied assent. |
+| `EV-B0200-005` | E:401001038 P0-5 | Reports poor waking/about three alarms, fears possible future burden, imagines manager-like wakeup then qualifies joke/not lovers while retaining appeal. | QUALIFIED_INTIMATE_WISH; no past missed job, actual call, cohabitation or reciprocal status. |
+| `EV-B0200-006` | F:401001214 P0-5 | Asks lunch appraisal, reports practice after failure, mother's teaching/father knife permission and tentatively credits manager while valuing an eater. | REPORTED_LEARNING_AND_TENTATIVE_CAUSE; no independently improved taste, parent motive or identified G-before-F failure. |
+| `EV-B0200-007` | G:401001358 P0-5 | First lunch offering meets too-sweet uptake; suspects sugar/salt quantities, infers father's praise protective, withdraws food and vows next try/secrecy. | FAILED_OFFER_WITH_WITHDRAWAL_AND_PRIVACY; no literal ingredient swap, certified lie, permanent incompetence or total chronology. |
+| `EV-B0200-008` | H:401006488 P0-41 | Opening stage address precedes reported solo-stream success/peer schedules; prior-exam apology and repayment wish lead shared day/conversation and agreed university-area ramen plan. | PROLOGUE_OF_ATTENTION_AND_DEBT; no heard performance, metrics, new appointment, named prior incident/year or delivered meal. |
+| `EV-B0200-009` | H:401006488 P42-94 | Forgotten future report due this week exposes certainty about continuing idol work but difficulty naming its form; remembered light goal is deflected before accepted origin tour. | ASSIGNMENT_AND_AVOIDED_ANSWER; university practice and Sevens origin are situated reports, no completed or manager-authored report. |
+| `EV-B0200-010` | H:401006488 P95-158 | Amusement-park/debut memories and elided newcomer live lead local idol fans' requested handshake, particular preference and light testimony; Honoka continues seeking another answer. | RECEIVED_RECOGNITION_NOT_YET_ACCEPTED; no analyst-viewed performance, global identities, survey or actual real-date conversion. |
+| `EV-B0200-011` | H:401006488 P159-180 | Different schoolgirl pair recognizes stream; B confirms shared Fukuoka-4th origin/reports Honoka-inspired move; exposed secret dream meets future-stage encouragement and resolve. | REPORTED_INFLUENCE_AND_UNFINISHED_AMBITION; no recruitment/career fulfillment, sole audited cause or join with first pair. |
+| `EV-B0200-012` | H:401006488 P181-219 | Tea/dango and present-stage recollection permit unchanged light wish, comparison-based self-minimization and her own decision to stop escaping/return to original aim. | DISCLOSURE_AND_SELF_DIRECTED_RETURN; children-speech motif admitted, no objective inability or manager-originated decision. |
+| `EV-B0200-013` | H:401006488 P220-281 | Manager affirms already gentle light/thanks her decision; recalled testimony becomes accepted pride and Honoka states further aim to return happiness by song at her own pace. | RECOGNITION_ACCEPTED_AND_FUTURE_CHOSEN; sepia repetitions not new events, no measured influence, permanent cure, infinite debt or dictated assignment. |
+| `EV-B0200-014` | H:401006488 P282-306 | Backstage preparation brings reported deadline managed, own dandelion title/happiness metaphor, upcoming first-step live, local self-reference repair and scouting thanks through final ending. | REPORTED_REPORT_AND_PROSPECTIVE_PERFORMANCE; no full report/grade, literal seed transport, heard live or global authentic-dialect rule. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1383` | `EV-B0200-008 / EV-B0200-009` | BEFORE_INTERNAL_H; continuous episode order only, no cross-case calendar. |
+| `EDGE-1384` | `EV-B0200-009 / EV-B0200-010` | BEFORE_INTERNAL_H; continuous episode order only, no cross-case calendar. |
+| `EDGE-1385` | `EV-B0200-010 / EV-B0200-011` | BEFORE_INTERNAL_H; two distinct local fan encounters, not same A/B people. |
+| `EDGE-1386` | `EV-B0200-011 / EV-B0200-012` | BEFORE_INTERNAL_H; testimony precedes disclosed difficulty and own return. |
+| `EDGE-1387` | `EV-B0200-012 / EV-B0200-013` | BEFORE_INTERNAL_H; Honoka decides before manager affirms already light. |
+| `EDGE-1388` | `EV-B0200-013 / EV-B0200-014` | BEFORE_INTERNAL_H; chosen new goal precedes later backstage report/title. |
+| `EDGE-1389` | `EV-B0200-001 / EV-B0200-006` | COOKING_PRACTICE_AND_REPORTED_ACCESS; thematic comparison, no asserted BEFORE/parent motive. |
+| `EDGE-1390` | `EV-B0200-006 / EV-B0200-007` | OFFERING_RECEPTION_AND_RETRY; F's recalled failure unidentified, no G-before-F inference. |
+| `EDGE-1391` | `EV-B0200-002 / EV-B0200-012` | ORDINARY_RECOGNITION_AND_SELF_DISCOUNT; desired private treatment differs from comparative self-devaluation. |
+| `EDGE-1392` | `EV-B0200-004 / EV-B0200-008` | CONVERSATION_AS_GIVEN_TIME; short tea wish and agreed long outing compared without asserted total chronology. |
+| `EDGE-1393` | `EV-B0200-003 / EV-B0200-005` | DAILY_COMPANY_AND_QUALIFIED_WISH; invitations/imagination not actual joint ritual or relationship status. |
+| `EDGE-1394` | `EV-B0200-010 / EV-B0200-013` | TESTIMONY_RECALLED_AND_ACCEPTED; H230-234 repeats earlier statements, not additional new fans. |
+| `EDGE-1395` | `EV-B0200-011 / EV-B0200-013` | INFLUENCE_ACCOUNT_AND_OWN_FUTURE; schoolgirl report informs reflection without transferring ownership of her career. |
+| `EDGE-1396` | `EV-B0200-012 / EV-B0200-014` | CHOSEN_AIM_AND_TITLE; own return/new goal expressed in dandelion title, report outcome remains reported and live future. |
+
+Totals:1240 EV,25 WORLD,47 THREAD and1389 active EDGE; maximum EDGE1396 preserves seven earlier intentional gaps. Fourteen factual homes include seven contiguous H phases covering P0-306. All older bodies/IDs/frames remain exact; no new WORLD or retrospective total chronology.
