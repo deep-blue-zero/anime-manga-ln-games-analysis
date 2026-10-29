@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: current_release_ledger
-scope: Official uncollected web serialization, web 235-284
+scope: Official uncollected web serialization, web 235-287
 generation: V2
 status: active_provisional
-source_boundary: First uncollected installment after V37 through official web 284, retrieved 2026-09-16
+source_boundary: First uncollected installment after V37 through official web 287; September and October source locks
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-09-16
+updated: 2026-10-28
+evidence_code: PR
 ---
 
 # One Punch Man — Uncollected Release Ledger
 
 ## Authority boundary
 
-This ledger is the rolling `active_provisional` overlay after the stable Japanese-tankobon boundary V37. It does not rewrite the collected character, relationship, thematic or mystery ledgers. Every conclusion below remains evidence code `PR` until tankobon reconciliation.
+This ledger is the rolling `active_provisional` overlay after the stable Japanese-tankobon boundary V37. Its findings now propagate into explicitly marked current-release sections in the owning character, relationship, thematic and mystery ledgers. They are eligible for current analysis immediately. Dated collected histories retain their boundaries; every web conclusion remains evidence code `PR` until direct tankobon reconciliation.
+
+Current coverage: **53 uncollected installments / 1,013 pages**. The newly read interval is web 285-287 / 39 pages. The [October reading](OPM_WEB_285-287_DEEP_READING.md) expands the new observation/inference distinctions.
 
 The printed installment headings were transcribed from the captured title pages. Their correspondence to provider labels is observational; no numeric-offset rule is inferred.
 
@@ -73,6 +77,9 @@ The printed installment headings were transcribed from the captured title pages.
 | 282 | 235撃目 | 2026-08-12T15:00:00Z | 24 | main narrative | Garou–Suiryu encounter and training | `active_provisional` / PR |
 | 283 | 236撃目 | 2026-08-26T15:00:00Z | 17 | main narrative | Garou–Suiryu encounter and training | `active_provisional` / PR |
 | 284 | 237撃目 | 2026-09-09T15:00:00Z | 17 | main narrative | institutional status reports and open transitions | `active_provisional` / PR |
+| 285 | 238撃目「なかなか」 | 2026-09-23T15:00:00Z | 15 | main narrative | suit agency, Neo strategy, investigation and returned leaders | `active_provisional` / PR |
+| 286 | 239撃目「きっとうまくいく」 | 2026-10-07T15:00:00Z | 12 | main narrative | Webigaza's ambition, trust and life-dependent maintenance | `active_provisional` / PR |
+| 287 | 240撃目「ヒドーくん」 | 2026-10-21T15:00:00Z | 12 | main narrative | Amai pursuit, covert coordination and unresolved Sonic-A attack | `active_provisional` / PR |
 
 ## Provisional evidence atoms
 
@@ -92,6 +99,20 @@ The printed installment headings were transcribed from the captured title pages.
 | PR-CR-012 | Machine God Mirror's use of combat data makes information extraction part of battle. Genos and other heroes supply legible signatures, while Saitama's intervention breaks the model rather than validating it. | web274/pages 12-16; web275/pages 2-17; web276/pages 2-18; web277/pages 2-17; web278/pages 2-8 | `active_provisional` |
 | PR-CR-013 | Garou's post-conflict labor and training show restraint and social reinsertion without establishing full restitution; Suiryu's challenge tests style, identity and recognition rather than settling either man's future. | web279/pages 2-15; web280/pages 2-17; web281/pages 2-17; web282/pages 2-24; web283/pages 2-17 | `active_provisional` |
 | PR-CR-014 | The latest status-report montage broadens unresolved institutional risk across Neo leadership, escaped or transformed actors and injured heroes; it is setup, not closure. | web284/pages 2-17 | `active_provisional` |
+| PR-CR-015 | Updated suit precedes the trainee's reported involuntary lunge; Darkshine catches and checks him. | web285/pages 3-5 | `active_provisional` |
+| PR-CR-016 | Neo's superior declares data accumulation and advantage while S-Class heroes struggle. | web285/pages 2,6-8 | `active_provisional` |
+| PR-CR-017 | Metal Bat rejects delaying rescue for data at the risk of Zenko or civilians. | web285/pages 8-9 | `active_provisional` |
+| PR-CR-018 | Sekingar lacks core access but reports financial and residual-executive leads. | web285/page 10 | `active_provisional` |
+| PR-CR-019 | Child Emperor examines an electronic component at a fallen monster. | web285/pages 10-13 | `active_provisional` |
+| PR-CR-020 | Returned leaders receive miracle/corporate welcomes while A discusses surgery and their economic value. | web285/pages 14-15 | `active_provisional` |
+| PR-CR-021 | Webigaza's ambition and distrust connect Amai idealization to a self-chosen goal. | web286/pages 4-9 | `active_provisional` |
+| PR-CR-022 | Webigaza explicitly says Neo maintenance sustains her life and she cannot leave. | web286/pages 9-11 | `active_provisional` |
+| PR-CR-023 | Child Emperor questions the cover-up premise, listens, asks and reassures without endorsing Neo. | web286/pages 7-12 | `active_provisional` |
+| PR-CR-024 | Webigaza reports Neo's satellite/facial Amai pursuit, difficulty and promotional motive. | web287/pages 2-4 | `active_provisional` |
+| PR-CR-025 | Child Emperor, Sekingar and Metal Bat coordinate intended Amai contact and counter-surveillance. | web287/pages 5-7 | `active_provisional` |
+| PR-CR-026 | Child Emperor tentatively interprets resentment as self-support and hopes for repair. | web287/page 7 | `active_provisional` |
+| PR-CR-027 | A claims Neo affiliation, describes killing as a game and commands the attack on Sonic. | web287/pages 8-11 | `active_provisional` |
+| PR-CR-028 | An exterior explosion closes the interval without showing victory or casualties. | web287/page 12 | `active_provisional` |
 
 ## Reconciliation queue
 
@@ -102,6 +123,15 @@ A future Japanese tankobon must directly test:
 - whether the shared recap page in web 249-254 is collected, omitted or relocated;
 - whether Amai Mask's exposure and Saitama's response change in text, panel order or outcome;
 - whether New Blood and Machine God material is regrouped across tankobon chapter boundaries;
-- whether web 282-284 remain unchanged after the 2026-09-16 lock.
+- how later states compare with the now-verified byte-stable web 282-284 interval across September and October;
+- whether the suit lunge, Webigaza maintenance/exit account, Amai pursuit, returned leaders and Sonic-A encounter survive collection.
 
 Until then every item remains provisional and must be cited with a `web<label>/page` locator.
+
+## October claim transitions and current routing
+
+- **PR-CR-007 → PR-CR-022 — STRENGTHEN / REVISE:** dependence was previously a risk inferred from modification and management; Webigaza now explicitly reports life-dependent Neo maintenance and inability to leave.
+- **PR-CR-014 → PR-CR-015-028 — EXTEND:** web284's setup develops into strategy, investigation, conversation and attack; the wider arc remains open.
+- **PR-CR-008 → PR-CR-021/024/026 — EXTEND:** Amai's exposure now has an identified resentful admirer and reported Neo pursuit; current location and final status remain open.
+- **PR-CR-013 — PRESERVE:** no new Garou/Suiryu act occurs in web285-287.
+- Current cumulative homes are the thirteen ledgers under `03 Longitudinal Ledgers and Checkpoints`, each with a `Current-release overlay through web 287` section. This release ledger remains the source/claim index rather than a second set of complete character profiles.

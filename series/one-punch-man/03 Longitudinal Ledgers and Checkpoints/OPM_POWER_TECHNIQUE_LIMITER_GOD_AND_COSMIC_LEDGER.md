@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Power, technique, limiter, God, and cosmic evidence through V37
+scope: Power, technique, limiter, God, and cosmic evidence through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Power, Technique, Limiter, God, and Cosmic Ledger
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 
 ## Evidence discipline
@@ -733,3 +737,18 @@ Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_
 | King test / VF and focalized inference | never unsheathes or cuts; observers imagine action too fine for sword and apple to notice | literal non-event governs; expertise cannot manufacture a feat | `194 / 0177–0198` |
 
 No limiter mechanism, God identity, cube rule or cosmic ceiling is newly resolved in V37. Evaluation failure is a social mechanism, not an undisclosed power.
+
+## Current-release overlay through web 287
+
+Authority: `web_active_provisional` / PR; [source lock](../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md).
+
+| Explanatory system | Current supported use | Boundary / counterevidence | Sources |
+|---|---|---|---|
+| Ninja technique / dimensional combat | Flash-Sonic cooperation and Blast-Empty Void conflict expand trained and spatial capabilities | testimony, local result and universal cosmology remain distinct; God's full mechanism unresolved | PR-CR-003,004; web239-248 |
+| Combat-data replication | Machine God Mirror copies or combines readable signatures; Genos resists and is damaged; Saitama interrupts the local model | no proven complete database, final Genos ceiling or settled machine origin | PR-CR-012; web274-278 |
+| Neo improvement doctrine | the superior explicitly claims continual suit improvement through data without ordinary rest, training or decline | attributed forecast, not scientific proof. The phrase about reaching a divine realm does not identify the entity God as Neo's patron | PR-CR-016; web285/pages 6-8 |
+| Software and movement | update notification precedes the trainee's unchosen lunge at Darkshine | concrete autonomy concern; no universal power ranking or complete command specification | PR-CR-015; web285/pages 3-5 |
+| Enhanced embodiment | Webigaza supplies a private account of chosen strength and indispensable maintenance | peak output is not sustainable autonomy; maintenance-free progress rhetoric cannot replace evidence about this body | PR-CR-007,022; web267/pages 2-16; web286/pages 9-11 |
+| Reciprocal martial learning | Garou and Suiryu read and adapt to each other under restraint | skill exchange is not exhaustive knowledge of the other's history or moral state | PR-CR-013; web279-283 |
+
+No new limiter law, divine identity or cosmic ceiling is established by web285-287. Darkshine's reaction to the trainee is not a controlled test proving that standard Neo recruits equal S-Class combatants.

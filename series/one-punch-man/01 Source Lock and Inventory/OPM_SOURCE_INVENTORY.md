@@ -4,12 +4,12 @@ artifact_type: source_inventory
 scope: Japanese tankobon V01-V37 physically present; official web layer status
 generation: V2
 status: canonical
-source_boundary: Local Japanese tankobon V01-V37 inspected and semantically locked; official web 232-284 source-locked 2026-09-16 with 235-284 uncollected
+source_boundary: Japanese tankobon V01-V37 locked; official web 232-287 in September and October snapshots, with web 235-287 uncollected
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-updated: 2026-09-16
+updated: 2026-10-28
 workspace_state: governed_series_branch
 ---
 
@@ -20,7 +20,7 @@ workspace_state: governed_series_branch
 ## Boundary
 
 
-Current contiguous local collected holding: **V01-V37**, including newly supplied V35-V36. All archive object sizes and hashes are recorded below. Semantic source lock and completed reading are **V01-V37**. The inherited official-web source folder was reported empty and Drive was not re-audited in this local bootstrap; the active web source is instead a provenance-complete local snapshot under excluded `_staging/current-web/tonari_2026-09-16/`. It locks provider web 232-284 (53 objects / 1,075 pages), with web 235-284 admitted only to the separate `active_provisional` analytical layer.
+Current contiguous local collected holding: **V01-V37**. All archive identities and completed collected readings remain locked. The official-web register now contains **web 232-287: 56 distinct objects / 1,114 pages**, with **web 235-287: 53 uncollected installments / 1,013 pages** admitted as `active_provisional` / PR. The September snapshot preserves web232-284; the October snapshot adds web285-287 (39 pages) and verifies web282-284 unchanged (58 pages). Web235-281 retains its September retrieval state. Source captures remain under excluded local staging; the [living source lock](../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md) owns dates, IDs, hashes and revision limits.
 
 
 ## Build-manifest summary — contiguous V01-V34 set
@@ -136,3 +136,9 @@ All 247 images were directly reviewed after fresh integrity checks. Chapters 182
 ## V37 semantic closeout — 2026-09-16
 
 All 207 images were directly reviewed after fresh integrity checks. Chapters 189–194, bonus image 0201 and endmatter are locked. Japanese/register PASS followed 186 distinct targeted reinspections; prospective freeze, the 2,054-line V1 comparison, checkpoint adjudication, propagation and the V28–V37 corpus-wide audit are complete. See the [source audit](OPM_V37_SOURCE_AUDIT.md) and [V37 update manifest](../08%20Audits%20and%20Manifests/OPM_V37_UPDATE_MANIFEST.md). The official-web narrative now continues separately through web 284 under provisional authority.
+
+## Official-web continuation — 2026-10-28
+
+The official feed's newest numbered object is web287. The three installments published since the previous reading are web285-287, 39 pages. Capture, restoration and direct sequential reading are complete. The 58 overlap pages of web282-284 match their September hashes.
+
+Current-release findings now propagate into existing character, relationship, thematic, mystery and readiness documents with explicit PR boundaries. No new tankobon was admitted and no earlier volume reading was reopened. The [October update manifest](../08%20Audits%20and%20Manifests/OPM_WEB_285-287_UPDATE_MANIFEST.md) records scope and verification.

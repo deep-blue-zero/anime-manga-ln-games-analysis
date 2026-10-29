@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Visual form, motif, and redraw state through V37
+scope: Visual form, motif, and redraw state through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Visual Form, Motif, and Redraw Ledger
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 
 ## V01 formal grammar
@@ -634,3 +638,23 @@ Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_
 | Prolonged stillness and failed draw | reader-visible non-action becomes in-world transcendent technique through focalized reaction | `0190–0198`; narration never certifies a slash |
 
 Cover/endmatter apple imagery condenses the Saitama/King recognition asymmetry as paratext, not timed narrative evidence (`0001,0005,0202–0207`). No paired official-web redraw comparison is inferred.
+
+## Current-release overlay through web 287
+
+Authority: `web_active_provisional` / PR for current forms, RX only for a direct comparison. [Source lock](../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md); [new reading](../07%20Current%20Release/OPM_WEB_285-287_DEEP_READING.md).
+
+| Formal sequence | Analytical work | Source and boundary |
+|---|---|---|
+| King instruction / Flash hierarchy / Amai exposure | public or expert models compete with the visible person; conduct can escape the assigned image | PR-CR-002,003,008; web237-248,254-263; prior completed readings |
+| Screens, multiple-city cuts and Mirror's composite forms | useful coordination and data extraction coexist without one observer possessing the whole event | PR-CR-010-012; web268-278; prior completed reading |
+| Darkshine's open trainer pose → notification → lunge → frightened face | a progress signal becomes an action-ownership problem; care replaces a triumph pose | PR-CR-015; web285/pages 3-5 |
+| Ruined city / maintenance workers / abstract data graph / executive close-ups | sets bodily consequence beside an account that benefits from accumulating time | PR-CR-016; web285/pages 6-8 |
+| Chip between fingers at a gigantic corpse | compresses city-scale threat into a small potentially manufactured mechanism | PR-CR-019; web285/pages 10-13; maker and controller unshown |
+| Returned leaders framed by follower welcome and A's surgery discussion | identical public appearance can carry incompatible accounts of restoration | PR-CR-020; web285/pages 14-15 |
+| Child Emperor and Webigaza seated on the monster amid ruins | lowers the scene's volume for private ambition and care while destruction remains materially present | PR-CR-021-023; web286/pages 2-12 |
+| Webigaza's large smiling close-up after the maintenance bargain | visible composure cannot alone prove freedom from distress or absence of constraint | PR-CR-022,023; web286/pages 10-12 |
+| Child Emperor's private reflection → Sonic's encounter → exterior explosion | changes both focalizer and problem before supplying a result; future outcome stays open | PR-CR-026-028; web287/pages 7-12 |
+
+**RX stability result:** all 58 source-page hashes and all three ordered-content digests for web282-284 match the 2026-09-16 and 2026-10-28 captures. The pilot adds a 2026-09-12 match. This proves stability for those observed states only. Web285-287 has one preserved public state; no earlier redraw history is asserted. The shared recap structure of web249-254 remains a future collection question.
+
+Saitama's title art in the three new objects is paratext, not present story action. The explosion at web287/page 12 is an observed visual endpoint, not confirmation of a casualty or victory.
