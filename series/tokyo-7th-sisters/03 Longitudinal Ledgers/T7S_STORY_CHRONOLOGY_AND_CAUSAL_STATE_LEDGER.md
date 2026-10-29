@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.91"
+version: "11.92"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 75 Intimacy primary documents across 9 family portfolios / T7S_B0182–T7S_B0190; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 84 Intimacy primary documents across 10 family portfolios / T7S_B0182–T7S_B0191; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-28
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1164`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1317`; `last_closed_block = T7S_B0190`. The admitted horizon contains 590 primary documents: 235 Main, 280 i-n-g and 75 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 75 Intimacy documents across 9 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1173`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1323`; `last_closed_block = T7S_B0191`. The admitted horizon contains 599 primary documents: 235 Main, 280 i-n-g and 84 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 84 Intimacy documents across 10 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3858,3 +3858,30 @@ Owner [B0190](../02%20Readings/T7S_B0190_DEEP_READING.md), reading SHA256 `2285d
 | `EDGE-1324` | `EV-B0190-004` ↔ `EV-B0190-011` | `PARTICULAR_WELCOME_AND_CURRENT_PERMISSION_COMPARISON`: closeness with a later limit and explicit notebook access are local scopes, not standing bodily/information authority. |
 
 Totals1164EV/25WORLD/47THREAD/1317EDGE. MaximumEDGE1324 retains seven pre-existing non-active gaps. H attests earlier shared lessons and formation, while no total ordering of the eight source occurrences or every i-n-g case is invented.
+
+## B0191 Momoka's selective investment and continuing place
+
+Owner [B0191](../02%20Readings/T7S_B0191_DEEP_READING.md), reading SHA256 `ba97cf217b7c3ef251ec0eb560adc9437e3ce2eb5b94859576c597a3ae503f9c`; complete family 200500 / route NM-INTIMACY-200500, nine primary documents, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.97. The complete prospective B0190/12.96 source/coverage/entity views and 24 physical before-images were locally committed at 3520c464baefca50ba27c46cedfaa23b5ca91b19 before primary access. Their frozen prepublication qualification remains historical; publication is separately certified. The reading's A–I key binds exact scripts and primary zero-based locators. Cases are independent conditional occurrences; only C's week-before-last/current/tomorrow relations are locally supplied.
+
+| ID | Complete primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0191-001` | A:401000101 P0–4 | Momoka declares energy for lessons, proposes about thirty minutes measured as one anime episode, takes up an apparent shortness objection and reports sleeping deeply at school. | `OWN_ENTHUSIASM_AND_CONTESTED_WORK_MEASURE`; no completed practice, independent stamina/school record or manager-own reply. |
+| `EV-B0191-002` | B:401000354 P0–3 | Claims anime-derived competence for enlarging Nanasta, proposes membership adjustment reaching self-replacement, then explicitly retracts into a joke and qualified effort/fun wording. | `REFORM_PREMISE_AND_RETRACTED_SELF_REPLACEMENT`; no staffing rule, actual resignation/replacement or managerial qualification. |
+| `EV-B0191-003` | C:401000396 P0–4 | Reports Sui/Rena's almost-training invitation, acknowledges her old wish, dates its anime context to the week before last, names changed interest and reports another invitation before appealing to the manager. | `CHANGED_CURRENT_DESIRE_AND_REPORTED_PERSISTENT_INVITATION`; no completed training, forced action, own peer turn or global case chronology. |
+| `EV-B0191-004` | D:401000558 P0–5 | Reports off-day boredom after media exhaustion, asks manager company assuming his freedom, notices a self-lesson timetable and abruptly announces an appointment/departure. | `AVAILABLE_TIME_AND_ACTIVITY_DEPENDENT_EXIT`; evasion supported by sequence, appointment truth and timetable authority/execution unknown. |
+| `EV-B0191-005` | E:401000650 P0–5 | Protects doujinshi reading time, explains ComiGene with scale/crowd claims and expressly rumored visitors, reports successful purchase and declares today's lesson holiday/tomorrow effort. | `ENTHUSIAST_ACCOUNT_AND_UNILATERAL_LEISURE_CLAIM`; no verified fair census, official/princess identity, agreed schedule or fulfilled promise. |
+| `EV-B0191-006` | F:401000686 P0–3 | Uses archaic address to accuse manager of candy shortage, performs hyperbolic loss/exit, then takes up refusal and reveals an imminent period-gag television program. | `BORROWED_REGISTER_AND_BROADCAST_DEADLINE`; no diagnosis, actual resignation/exit, heard impersonation or standing stocking duty. |
+| `EV-B0191-007` | G:401001010 P0–5 | Reports Coney swimsuit request/quote, recalls Kajika and imagines Sawara's impact, delays then clarifies no swimsuit as no work, proposes Kyoko and jokes about manager thought/police. | `DELAYED_PREDICATE_AND_WORK_REFUSAL`; no nudity/costume change, purchase, assigned substitute, own peer assent, mind-reading or police contact. |
+| `EV-B0191-008` | H:401001074 P0–5 | Minimizes persistence difficulty, reports abandoned anime-inspired activities but ongoing idol work, names manager presence as reason, imagines his grief and renews effort with a candy request. | `OWN_CONTINUATION_REASON_WITH_COMIC_COUNTERFACTUAL`; reason retained, no actual manager plea, matching confession, agreed bargain or permanent labor assent. |
+| `EV-B0191-009` | I:401001226 P0–4 | Calls candy philosophical, extends planet/Gaia/ultimate-answer language, then describes the current battle anime after an apparent manager question. | `COSMIC_METAPHOR_AND_NESTED_MEDIA_SOURCE`; no actual cosmic speech, diagnosis, philosophical credential, verified purchase or new organization. |
+
+| ID | Compared events | Typed relationship and limit |
+| --- | --- | --- |
+| `EDGE-1325` | `EV-B0191-001` ↔ `EV-B0191-008` | `EFFORT_MEASURE_AND_CONTINUATION_REASON_COMPARISON`: enthusiastic interval and person-specific stated persistence retain task/occasion scope; no A-before-H or measured durability. |
+| `EDGE-1326` | `EV-B0191-002` ↔ `EV-B0191-007` | `SELF_REPLACEMENT_AND_SUBSTITUTION_FORMAL_COMPARISON`: organization/impact premises bend toward avoided work, with distinct retraction/clarification and no actual staffing transition. |
+| `EDGE-1327` | `EV-B0191-003` ↔ `EV-B0191-004` | `CURRENT_DESIRE_AND_PROPOSED_TIME_USE_COMPARISON`: old enthusiasm and available time do not independently certify present welcome to lessons; no general refusal rule or fictional order. |
+| `EDGE-1328` | `EV-B0191-006` ↔ `EV-B0191-009` | `BORROWED_MEDIA_IDIOM_AND_CLOSING_REFRAME`: archaic exit and cosmic candy formulations disclose different current program sources; no actual performance or shared date. |
+| `EDGE-1329` | `EV-B0191-004` ↔ `EV-B0191-008` | `WANTED_COMPANY_AND_STATED_CONTINUATION_REASON`: company request and reason for staying support person-specific attachment without proving causal dependence or a romantic agreement. |
+| `EDGE-1330` | `EV-B0191-005` ↔ `EV-B0191-006` | `PROTECTED_READING_AND_BROADCAST_WINDOW_COMPARISON`: two leisure claims recruit different temporal urgency; no completed leave, common program or total chronology. |
+
+Totals: 1173 EV, 25 WORLD, 47 THREAD and 1323 active EDGE records. Maximum EDGE1330 retains the seven pre-existing non-active gaps. No cross-case BEFORE edge or institutional/fictional-world event is invented.

@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.15"
+version: "1.16"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0190; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0191; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-28
 ---
@@ -1310,4 +1310,50 @@ Complete eight-document family200650, source-lock 12.96, witness `T7S_GAME_OFFLI
 | `REL-1066` | `seto-ferb → QOP` | Describes changed performing life and shares formation/song memories with manager. H:P106–120. No new membership, other members' own views or transfer of musical authorship. |
 
 Totals1029KNOW/1066REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. READY0028 retains its complete NANASUTA state-bounded horizon; all other readiness, older reciprocal links, source/authority receipts and body history remain. No monograph maturity or2053 admission is promoted.
+
+## B0191 Momoka's reported preferences, particular address and peer scopes
+
+Owner [B0191](../02%20Readings/T7S_B0191_DEEP_READING.md), source-lock 12.97, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; the reading's A–I key binds all exact primary ranges. Existing Momoka `IDENTITY-0015/CHAR-0012/serizawa-momoka`, Player `IDENTITY-0001/CHAR-0001`, Sui `IDENTITY-0017/CHAR-0014`, Rena `IDENTITY-0084/CHAR-0064`, Coney `IDENTITY-0003/CHAR-0003`, Kajika `IDENTITY-0023/CHAR-0020`, Sawara `IDENTITY-0022/CHAR-0019`, Kyoko `IDENTITY-0077/CHAR-0059` and Nanasta `UNIT-0002` retain their routes. The reported athlete pair, rumored visitors, police joke and nested fiction add no master identity/unit. Sprite007 is presentation, not machine identity resolution.
+
+| Existing subject | Qualified addition | Prior state and missing access retained |
+| --- | --- | --- |
+| `CHAR-0012` / Momoka | Measures current effort through familiar leisure, retracts self-replacement, distinguishes past/current wishes, negotiates time and company, uses borrowed registers, and names manager presence as her own reason for continuing. | B0006 selective competence/covert motivation, B0110 edited image/rehearsal cost, B0130 assistance, B0136/B0166 disruptive game framing, B0148 real trading-related exhaustion and later admitted managerial development keep their own horizons. No total laziness/devotion model, diagnosis, settled couple or maturity promotion. |
+| `CHAR-0001` / Player | Is the addressee of requests, explanations, accusations and imagined responses in nine one-speaker cases. | Uptake is not newly authored manager dialogue. His availability, thoughts, permission, candy promise and actual grief are unprovided. |
+| Reported Sui/Rena | Are named in Momoka's account of a prior training wish and repeated invitation. | No own new turn, verified coercion, athlete-unit formation or durable shared desire. |
+| Reported Coney/Kajika/Sawara/Kyoko | Enter Momoka's swimsuit account as attributed request/quote, recalled wearing, hypothetical impact and proposed replacement respectively. | These four relations remain different; no new actual image/work, common agreement or peer bodily assent. |
+| `UNIT-0002` / Nanasta | Is the object of proposed reform/hyperbolic departure and the place in Momoka's own stated continuation reason. | No staffing, scheduling, costume, candy-supply, safeguarding or membership rule is adopted. |
+
+| ID | Holder and qualified state | Range and missing access |
+| --- | --- | --- |
+| `KNOW-1030` | Momoka declares current energy and measures intended lessons as thirty minutes/one anime episode. | A:P1–2; own valuation/intention, no performed interval or stamina assessment. |
+| `KNOW-1031` | Takes up apparent shortness/energy questions and reports school sleep. | A:P3–4; own uptake/report, not manager-own speech or school/clinical record. |
+| `KNOW-1032` | Claims anime study supports broad competence and proposes Nanasta reform reaching self-replacement. | B:P1–2; own proposal, no demonstrated qualification or institution change. |
+| `KNOW-1033` | Explicitly calls proposal a joke and expresses effort/fun through interrupted wording. | B:P3; qualified local assurance, no permanent reformed work ethic. |
+| `KNOW-1034` | Admits an earlier training wish, places its sports-anime context in the week before last and names a different current interest. | C:P1–3; local temporal relation, no date or B0006 equivalence. |
+| `KNOW-1035` | Reports the pair's tomorrow invitation/enjoyment promise and asks manager intervention. | C:P4; quoted peers through Momoka, no own peer/manager response or executed training. |
+| `KNOW-1036` | Reports off-day boredom/media exhaustion, assumes manager free and asks company. | D:P1–3; his actual schedule unknown. |
+| `KNOW-1037` | Identifies a densely scheduled self-lesson paper then announces remembered appointment/departure. | D:P4–5; textual paper description and evasive sequence, appointment truth/timetable authority unknown. |
+| `KNOW-1038` | Explains ComiGene, declares scale/crowd claims and explicitly marks elite/princess attendance as rumor. | E:P1–4; enthusiast account, no verified census or new visitor identities. |
+| `KNOW-1039` | Reports obtaining wanted books, declares today's lesson holiday and promises tomorrow effort. | E:P5; no agreed leave or future fulfillment. |
+| `KNOW-1040` | Accuses manager of candy shortage and performs archaic existential/exit hyperbole. | F:P1–2; no clinical finding, stocking contract or executed resignation. |
+| `KNOW-1041` | Takes up apparent departure refusal and names imminent period-gag program. | F:P3; nested fiction/deadline, no actual manager-own turn or hearing. |
+| `KNOW-1042` | Reports Coney request/quote, recalls Kajika wearing and imagines Sawara's impact. | G:P1–2; attribution, recollection and hypothesis remain separate. |
+| `KNOW-1043` | Clarifies no swimsuit as no work, proposes Kyoko and attributes improper thought before a police joke. | G:P3–5; no nudity, actual replacement, peer assent, mind-reading or police call. |
+| `KNOW-1044` | Reports quickly abandoned guitar/skating yet continued idol work, attributing persistence to manager presence. | H:P1–3; own stated motive and activity history, no universal durability or exclusive romance. |
+| `KNOW-1045` | Imagines manager's noisy grief, states effort for him and requests plentiful candy. | H:P4–5; counterfactual plus request, no actual plea or agreed bargain. |
+| `KNOW-1046` | Describes candy through planet/Gaia/ultimate-answer metaphors. | I:P1–3; self-dramatizing language, no literal cosmic event or diagnosis. |
+| `KNOW-1047` | Takes up apparent anime question and describes a current philosophy-battle anime. | I:P4; nested media account, no philosopher credential or separately admitted fiction. |
+
+| ID | Direction | Qualified state and limit |
+| --- | --- | --- |
+| `REL-1067` | `serizawa-momoka → player-protagonist` | Requests company, offers enthusiasm/retreats, recruits intervention, performs accusations and expressly names his presence as a reason to continue. Imagined grief/thought and uptake remain different from his own replies. No standing labor assent, candy contract or confirmed couple. |
+| `REL-1068` | `serizawa-momoka → kamishiro-sui` | Acknowledges prior training wish while resisting the currently reported invitation and asking manager help. C. No new own Sui turn, completed coercion or enduring shared preference. |
+| `REL-1069` | `serizawa-momoka → araki-rena` | Names Rena alongside Sui in the same qualified training account. C. No new athlete unit, actual training or own Rena assessment. |
+| `REL-1070` | `serizawa-momoka → rokusaki-connie-presented` | Reports swimsuit-buying request/objectifying quote and rejects its proposed style in her own account. G:P1. No own Coney speech, actual purchase or institutional costume authority established here. |
+| `REL-1071` | `serizawa-momoka → harumi-kajika` | Recalls Kajika wearing the style in her impact comparison. G:P2. No new viewed image/event, costume assignment or own Kajika reply. |
+| `REL-1072` | `serizawa-momoka → harumi-sawara` | Imagines Sawara would produce stronger impact. G:P2. Hypothetical appraisal, no performed appearance or assent. |
+| `REL-1073` | `serizawa-momoka → uesugi-uebasu-kyoko` | Appraises Kyoko as a possible work substitute while explaining her own refusal. G:P4. No actual assignment, reciprocal answer or standing bodily license. |
+| `REL-1074` | `serizawa-momoka → Nanasta` | Proposes reform, hyperbolically declares no need for the place and states manager presence there as a continuing-idol reason in separate occurrences. B/F/H. No resignation, membership change or institutional rule. |
+
+Totals: 1047 KNOW and 1074 REL. The 102 IDENTITY, 84 CHAR, 29 UNIT and 29 readiness decisions remain. READY0005 retains complete B0006/R2_STATE_BOUNDED/MONOGRAPH_NOT_READY and its full missing multimodal/longitudinal obligations. Later Main evidence is retained at its own horizon, with no backdated explanation or 2053 admission.
 <!-- T7S ENTITY STATE PAYLOAD END -->
