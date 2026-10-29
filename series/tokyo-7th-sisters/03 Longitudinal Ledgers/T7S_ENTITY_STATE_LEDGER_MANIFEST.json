@@ -4,7 +4,7 @@
   "artifact_type": "logical_entity_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.17",
+  "version": "1.18",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -12,13 +12,13 @@
   "do_not_use_as_literary_evidence": true,
   "logical_artifact_id": "T7S_ENTITY_STATE_LEDGER",
   "current_owner_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 89 Intimacy primary documents across 11 family portfolios / T7S_B0182–T7S_B0192; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
+  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 94 Intimacy primary documents across 12 family portfolios / T7S_B0182–T7S_B0193; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-    "physical_bytes": 40139,
-    "physical_sha256": "24368b092fe016ce1a0b5d3d3197fcf651765a3bf339e9f0b0a7d879bc5517b9",
+    "physical_bytes": 40603,
+    "physical_sha256": "2988e0ea64dce14e648d148d50f62fca38fce8f53d628871348f44961324c9e3",
     "logical_prefix_bytes": 7711,
-    "logical_prefix_sha256": "7d6f9bb8b87b7023849c3711263e939db27a45181b78dea4bc86cc02dcdc9abf",
+    "logical_prefix_sha256": "b1d55844c1dc856ec60529dbc0907540103912ad2a5ceaf58fea8608e56c63c9",
     "route_marker": "<!-- T7S ENTITY STATE COMPONENT ROUTES -->"
   },
   "assembly_rule": "Read the exact owner prefix before the unique route marker, then append every ordered component payload byte range. Validate all full-file and payload byte lengths/hashes, paths, intervals, owner IDs, LF/UTF8 and complete ordering before treating the result as the logical ledger. Component terminators are metadata outside the declared payload range; original final blank lines remain inside that exact payload.",
@@ -58,11 +58,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "artifact_id": "T7S_ENTITY_STATE_COMPONENT_003",
-      "physical_bytes": 326438,
-      "physical_sha256": "1bb2901cff1b938dff40393dbe32c9d737022abec8059ad032b746fc53e51b70",
+      "physical_bytes": 332765,
+      "physical_sha256": "5738daf7094a27b7d59a88a9b73d609f4cc303ac364d71915f09f78c2e1a4d94",
       "payload_offset_bytes": 712,
-      "payload_bytes": 325688,
-      "payload_sha256": "0545515720ccd35b3ca20501357c7a1165aac80cc413a93c1bd3312d1cedd99b",
+      "payload_bytes": 332015,
+      "payload_sha256": "d47dd6df17bbc00449e5879277ff82a2a00143702b1eb52789003a9607304c98",
       "preserved_original_interval": [
         829500,
         990668
@@ -73,11 +73,11 @@
     }
   ],
   "parts_count": 3,
-  "logical_bytes": 1155761,
-  "logical_sha256": "6f5e7c19d01c802851d3489cd2c2e8a6ddc6c284fa0d4d4d35d684308fab6593",
+  "logical_bytes": 1162088,
+  "logical_sha256": "33f60c6b612d47c4a5c7d75349412be00d1f38b4b03f45a788845657f5f71e03",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "last_source_high_water": "T7S_B0192",
+  "last_source_high_water": "T7S_B0193",
   "storage_transition": {
     "operation": "T7S_ENTITY_LEDGER_STORAGE_V1",
     "date": "2026-10-13",
@@ -912,17 +912,23 @@
       "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "component_anchor": "b0192-nicoles-audience-facing-states-and-existing-coney-route",
       "heading": "B0192 Nicole's audience-facing states and existing Coney route"
+    },
+    {
+      "original_anchor": "b0193-mitos-artistic-attention-local-choices-and-peer-boundary",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0193-mitos-artistic-attention-local-choices-and-peer-boundary",
+      "heading": "B0193 Mito's artistic attention, local choices and peer boundary"
     }
   ],
   "publication_scope": "This proposed representation has no effect until separately reviewed/applied/committed/published. Private proposal receipts remain noncurrent.",
   "latest_logical_append": {
-    "source_high_water": "T7S_B0192",
+    "source_high_water": "T7S_B0193",
     "date": "2026-10-29",
-    "logical_before_sha256": "ecc0d9048ce760fb3084bdca0944042a804b490b6a17c5c90f2e1d3e4c62a057",
-    "logical_after_sha256": "6f5e7c19d01c802851d3489cd2c2e8a6ddc6c284fa0d4d4d35d684308fab6593",
-    "addition_bytes": 5944,
-    "addition_sha256": "a2a3f9d94f58275664ba0caba7cbc415c27b8c72c9d97378a5e1a0d629b0388e",
-    "unchanged_older_body_sha256": "5239903c1c2f5a0f6f4e029fb5f4868120c19bce33a65a9e82b75f15390bade9",
+    "logical_before_sha256": "6f5e7c19d01c802851d3489cd2c2e8a6ddc6c284fa0d4d4d35d684308fab6593",
+    "logical_after_sha256": "33f60c6b612d47c4a5c7d75349412be00d1f38b4b03f45a788845657f5f71e03",
+    "addition_bytes": 6327,
+    "addition_sha256": "08f2f078d8e01592eeb2333ba325df12fa2ffede899d94b4db574693b6d458e9",
+    "unchanged_older_body_sha256": "6c612c9eca60cad1e2d16a9818068f1d802a5ae6451dba8e62c0399a3b8b898a",
     "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
     "sealed_older_components_byte_exact": true
   }

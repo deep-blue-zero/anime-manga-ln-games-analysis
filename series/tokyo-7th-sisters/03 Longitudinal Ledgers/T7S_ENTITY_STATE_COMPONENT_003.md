@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.17"
+version: "1.18"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0192; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0193; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1389,4 +1389,37 @@ Owner [B0192](../02%20Readings/T7S_B0192_DEEP_READING.md), source-lock 12.98, wi
 | `REL-1077` | `rokusaki-connie-presented as Nicole -> Seven Sisters` | A/C/D/E use plural idol/group language to formulate dependence, fantastic protection, possible brevity and continuing audience ties; B permits support beyond the group. No separate member ratification, new group policy, robot capability, revised chronology or permanent Nanasta role. |
 
 Totals:1058 KNOW and1077 REL. The102 IDENTITY,84 CHAR,29 UNIT and29 readiness decisions remain. READY0018 retains its full Main-through-retrospective-EP0.7/B0063, R2_STATE_BOUNDED/MONOGRAPH_NOT_READY decision and missing performed/longitudinal/biographical/accountability evidence. No R3 or2053 admission.
+
+## B0193 Mito's artistic attention, local choices and peer boundary
+
+Owner [B0193](../02%20Readings/T7S_B0193_DEEP_READING.md), source-lock 12.99, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; exact A-E scripts/full primary locators in the reading. Mito remains `IDENTITY-0060/CHAR-0047/hanyuda-mito`, ニコ the earlier Nicole persona of `IDENTITY-0003/CHAR-0003/rokusaki-connie-presented`, Seven Sisters `UNIT-0001`. Unspecified viewers/requesters/crowd remain unnamed; sprite015 is presentation, not a new machine identity. Player is not supplied as an interlocutor.
+
+| Existing subject | Qualified addition | Resistant state and missing access retained |
+| --- | --- | --- |
+| `CHAR-0047` / Mito | Chooses tofu over a prescribed message, represents composing as provisional work, objects yet locally accepts backstage-camera access, seeks recording that foregrounds singing, and demands explanation of an outing before interruption. | Artistic exactness/domestic care, Ito's terminal crisis, concealed knowledge, constrained resignation, chosen performance/dissolution/journey and approximate knowledge of love retain their horizons. No pure resistance/compliance model, complete private biography, fixed event chronology or maturity promotion. |
+| `CHAR-0003` / earlier Nicole | Is addressed in Mito's uptake of a theatrical composing proposal, reported winning enthusiasm and account of being drawn into an unfamiliar outing. | No own new turn or interior motive. Existing generativity, permission, imposed interpretation and boundary costs remain; later Coney's current situation/Player disclosure is not backdated. |
+| `UNIT-0001` / Seven Sisters | Mito describes a collective practice of concentration/repeated rehearsal and giving all to audiences. | Her own plural formulation, not every member's new assent, named rehearsal/performance event, institutional camera policy or changed dissolution date. |
+| Addressed viewers and unspecified requesters | Are selected in A, credited with desired backstage/private access through reports, and asked to prefer the bonus feature in D. | No independent viewer survey, manager identity, own reply, actual reception or adopted production rule. |
+
+| ID | Holder and qualified state | Range and missing access |
+| --- | --- | --- |
+| `KNOW-1059` | Mito refers to a planned special selected-listener message, declines it and treats further song talk as redundant. | A:P1-2; own refusal/topic assessment, no identified commissioner or viewer reply. |
+| `KNOW-1060` | Chooses tofu as an exception and values it beyond health through unfinished cosmos language. | A:P2-3; specific enthusiasm/figure, no literal world event, nutritional proof or meal. |
+| `KNOW-1061` | Tries written musical syllables, rejects one and provisionally favors another between ellipsis records. | B:P1-3; textual trial/selection, no heard melody, measured silence or completed composition. |
+| `KNOW-1062` | Takes up Nicole's plainness objection and repeats/challenges a proposed incense/closed-room/sword spectacle. | B:P4-5; Mito's uptake/quotation, no own Nicole turn, motive or executed ritual. |
+| `KNOW-1063` | Reports a pre-live camera request on an attributed fan-interest premise. | C:P1; unidentified requester and reported desire, no actual fan survey or continuous camera record. |
+| `KNOW-1064` | Objects to backstage noise harming the song's world, accepts the already-made decision and describes usual group preparation. | C:P2-4; own aesthetic judgment/local constrained acceptance/generalized practice, no enthusiastic blanket consent or independently completed rehearsal loop. |
+| `KNOW-1065` | Names the intended offering to the audience and signals that the time to go has come. | C:P5; imminent transition, no performed song, stage-entry observation or audience reception. |
+| `KNOW-1066` | Reports Nicole's sports-event enthusiasm and questions the format, bloomers and exposure-oriented promotion. | D:P1-2; Mito's account/questions, no own Nicole reply, actual costume change or wardrobe incident. |
+| `KNOW-1067` | Ranks marginal screen treatment of singing as chief objection, reports deciding on a bonus recording and requests viewer attention there. | D:P3-5; stated grievance/decision/request, no played broadcast, completed recording contract or verified uptake. |
+| `KNOW-1068` | Attributes a private-life request, calls herself ordinary outside song and reports walks or Nicole drawing her out as today. | E:P1-3; self-description/outing account, no complete private-life inventory, physical pulling depiction or Nicole motive. |
+| `KNOW-1069` | Asks Nicole about the crowded location, takes up the name ComiGene without understanding, demands explanation and breaks off at reported crowd movement. | E:P4-5; name acquisition and open understanding gap, no completed explanation, confirmed injury/rescue/exit or later repair. |
+
+| ID | Direction | Qualified state and limit |
+| --- | --- | --- |
+| `REL-1078` | `hanyuda-mito -> addressed unnamed viewers/fans` | A/C/D choose/refuse kinds of access and appeal for song-focused attention; E attributes wanted private access. Distinguish Mito's choices from reported production assumptions. No own fan reply/survey, verified reception, private Player exchange or rejection of audiences in general. |
+| `REL-1079` | `hanyuda-mito -> rokusaki-connie-presented as earlier Nicole` | B challenges the quoted theatrical composing idea; D distinguishes Nicole's reported enthusiasm; E describes imposed outing and asks for an explanation that remains incomplete. No new Nicole-own motive, global hostile/beneficent verdict, completed consent or erasure of prior gratitude/opportunities. |
+| `REL-1080` | `hanyuda-mito -> seven-sisters` | C describes concentrated/repeated work and giving all to listeners, while A/B/D preserve her own artistic priorities. Her collective formulation creates no new member vote, camera policy, exact live/date or revision of the group's chosen ending. |
+
+Totals:1069 KNOW and1080 REL. The102 IDENTITY,84 CHAR,29 UNIT and29 readiness decisions remain. Full READY0019 retains Main EP0.0/0.7 throughB0063, R2_STATE_BOUNDED/MONOGRAPH_NOT_READY and unresolved later life/career chronology, maternal perspective, independent relationships and listened voice/music. No R3 or2053 admission.
 <!-- T7S ENTITY STATE PAYLOAD END -->

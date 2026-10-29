@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.93"
+version: "11.94"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 89 Intimacy primary documents across 11 family portfolios / T7S_B0182–T7S_B0192; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 94 Intimacy primary documents across 12 family portfolios / T7S_B0182–T7S_B0193; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-29
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1178`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1328`; `last_closed_block = T7S_B0192`. The admitted horizon contains 604 primary documents: 235 Main, 280 i-n-g and 89 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 89 Intimacy documents across 11 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1183`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1333`; `last_closed_block = T7S_B0193`. The admitted horizon contains 609 primary documents: 235 Main, 280 i-n-g and 94 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 94 Intimacy documents across 12 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3907,3 +3907,25 @@ Owner [B0192](../02%20Readings/T7S_B0192_DEEP_READING.md), reading SHA256 `84fea
 | `EDGE-1335` | `EV-B0192-001` / `EV-B0192-003` | `SELECTED_AUDIENCE_AND_SELECTED_SECRET_COMPARISON`: limited plural fan message and singular secret construct closeness differently; neither supplies a private Player exchange or counterpart-own assent. |
 
 Totals:1178 EV,25 WORLD,47 THREAD and1328 active EDGE records; maximum EDGE1335 retains the seven older non-active gaps. No new BEFORE edge, world mechanism or institutional event is invented.
+
+## B0193 Mito's song and the demand to be visible
+
+Owner [B0193](../02%20Readings/T7S_B0193_DEEP_READING.md), reading SHA256 `fe25df61bc5fc745b86dbb112e5eef755ed7efca2adc314e51b5f8617cbd3c2f`; complete family200850 / route NM-INTIMACY-200850, five primary documents, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.99. The complete prospective B0192/12.98 controls and25 physical before-images were committed at96ed134666256d07d64f11f5fe3fdcf0f617ac0c before primary access. The frozen audit-pending state at capture is retained; later B0192 audit and any Git-only reconciliation have separate receipts. A-E bind exact scripts/zero-based primary ranges in the reading. These are independent conditional occurrences, with no menu/cue-derived total chronology or actual unlock date.
+
+| ID | Complete primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0193-001` | A:401000107 P0-3 | Mito declines a planned special message for selected plural listeners, treats song talk as redundant, then offers an expansive tofu valuation ending mid-formulation. | `DECLINED_MESSAGE_AND_CHOSEN_ORDINARY_SUBJECT`; no manager exchange, listener reply, literal cosmos, nutritional finding or actual meal/purchase. |
+| `EV-B0193-002` | B:401000882 P0-5 | Ellipsis/syllable records stage provisional composing; Mito takes up Nicole's apparent plainness objection, repeats an incense/closed-room/sword proposal and challenges that view of composing. | `MODEST_TRIAL_AND_REJECTED_VISUAL_MYSTIQUE`; no heard melody/silence, finished song, Nicole-own turn, ritual compliance or actual props. |
+| `EV-B0193-003` | C:401001486 P0-5 | Reports a pre-live camera request and attributed fan desire, objects to harm to the song's world, accepts the already-made decision, describes usual concentration/rehearsal and signals time to go to the audience. | `CONSTRAINED_CAMERA_ACCEPTANCE_AND_AUDIENCE_PURPOSE`; no actual continuous recording/performance/reception, named decision maker, enthusiastic blanket consent or group policy. |
+| `EV-B0193-004` | D:401001794 P0-5 | At a reported idol sports event, distinguishes Nicole's winning enthusiasm from her own complaints, ranks the song's marginal screen treatment highest, and reports a bonus-recording decision/request to viewers. | `CONTESTED_FORMAT_AND_SOUGHT_MUSICAL_PROMINENCE`; no played broadcast/song, completed recording contract, actual bloomers change/exposure, own Nicole reply or verified viewer uptake. |
+| `EV-B0193-005` | E:401003049 P0-5 | Attributes a private-life request, calls herself ordinary outside singing, reports walks/Nicole's forced outing, asks where they are and what ComiGene is, then breaks off as she reports crowd movement. | `ORDINARY_SELF_DESCRIPTION_AND_INTERRUPTED_EXPLANATION`; no full explanation, confirmed injury/rescue/exit, Nicole-own motive, actual pulling animation or completed knowledge repair. |
+
+| ID | Compared events | Typed relationship and limit |
+| --- | --- | --- |
+| `EDGE-1336` | `EV-B0193-001` / `EV-B0193-005` | `ORDINARY_SELF_DESCRIPTION_AND_SPECIFIC_INTEREST`: song-only/uninteresting formulations coexist with a chosen tofu discourse and ordinary outings; no exhaustive personality diagnosis or case sequence. |
+| `EDGE-1337` | `EV-B0193-002` / `EV-B0193-003` | `PLAIN_WORK_AND_REQUESTED_BACKSTAGE_ATTENTION`: provisional composition and repeated preparation distinguish labor from demanded spectacle; no B-before-C, measured technique or finished performance. |
+| `EDGE-1338` | `EV-B0193-003` / `EV-B0193-004` | `UNWANTED_SUPPLEMENTARY_AND_WANTED_MUSICAL_VISIBILITY`: reluctant backstage acceptance and sought song-focused recording concern different distributions of attention; no simple pro/anti-camera rule or development sequence. |
+| `EDGE-1339` | `EV-B0193-002` / `EV-B0193-005` | `NICOLE_PROPOSAL_AND_OUTING_AS_MITO_ACCOUNTS`: two peer negotiations retain quotation/attribution and missing Nicole-own access; no universal motive, completed consent or causal link. |
+| `EDGE-1340` | `EV-B0193-003` / `EV-B0193-005` | `ACCEPTED_DECISION_AND_INTERRUPTED_UNDERSTANDING`: an explicit local acceptance differs from an outing ending before explanation; no general freedom/lack-of-agency verdict or before/after relation. |
+
+Totals:1183 EV,25 WORLD,47 THREAD and1333 active EDGE records. Maximum EDGE1340 retains the seven older non-active gaps. No new BEFORE edge, world mechanism or institutional rule is invented.
