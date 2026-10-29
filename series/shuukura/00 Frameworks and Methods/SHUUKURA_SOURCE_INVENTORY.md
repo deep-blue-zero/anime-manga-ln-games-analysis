@@ -5,14 +5,14 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.52"
+version: "1.53"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0019; LN10 separately admitted outside immutable I1; original I1/E0020+ and dependent stages paused, V1/future releases unopened"
+source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0019; original I1 continuous execution resumed at E0020, with dependent architectural stages retained; separate immutable BW/LN10 additions, V1/future releases unopened"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: LN10_SOURCE_AND_CUMULATIVE_TRANSACTION_REVIEW_ACCEPTED
+review_status: OWNER_RESUMPTION_RECOVERY_RECORDED_NO_NEW_SOURCE_CREDIT
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,6 +20,12 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Source inventory and edition/witness architecture
+
+## Current continuous I1 resumption — 2026-10-28
+
+Original I1 is active again at **KAK-JP-E0020** after the owner's renewed continuous Kakuyomu instruction; accepted WEB high-water remainsE0019. Original start `LN-JP-V01` and full terminal `SHUUKURA-V2-20261017-I1` remain, including all dependent architectural stages; no routine unit confirmation is added. The separate LN10 run is complete and integrated through [PR322](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/322), including the [owner's procedural acceptance](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/322#issuecomment-6391399025). The [new recovery checkpoint](#continuous-i1-resumption-after-ln10--2026-10-28) and current entrypoint govern current operation. Every older paused/NONE, bounded-only or pending-publication statement below remains dated history, not current instruction. No frozen record or literary conclusion is rewritten.
+
+No new source is read in this metadata transaction: **52/464 combined**, **46/458 I1**, **51/463 pre-LN10**, WEB19/431, LN10 1/1,23supplements; ledger files1.43 and all model/test/gap counts unchanged. E0020 remains unread until its prospective entering freeze. Original I1 membership and BW/LN10 addenda remain immutable; V1 remains quarantined until its required stage and automatic future releases remain excluded.
 
 ## Current LN10 analysis and closeout status — 2026-10-24
 
@@ -2061,3 +2067,26 @@ This is retained local-clock evidence with an ordered freeze→release→first-a
 The unchanged ordered source set is `[LN-JP-V10]`, exact acquired witness `ACQUIRED-20261024-A1-80e1c8ad88ee`,12106996bytes/SHA256`80e1c8ad88eeeecc61dc8ab6d19072121ab46b9c5b5c14bd7137894c69556640`; all31components remain compulsory. Native locator SHA256`4b9a714e9bfd2bc57df3dad3bd79c9aaaf0fe850c0a5e3b8567787745185f898` and raw inventory SHA bind component order. For explicit ordered-ID/hash recovery, this documentation computes SHA256`101ddcf67f1bd0e8ab2389bd8bfe49824a217ce60a50303cf5ef84446bf3b4d7` over UTF8 `LN-JP-V10`, one TAB, the64-character source SHA256, then LF, with no BOM. That derived digest is computed now from retained membership; no pre-reading computation time is asserted. Edition policy remains the exact acquired Japanese electronic witness; retail/conversion lineage unproved, no automatic replacement. Start=terminal remains LN-JP-V10; original I1/BW inventories and all exclusions remain exact.
 
 **Remaining procedural acceptance:** live architecture's source-freeze paragraph requires date/time/timezone. It does not literally require adding those fields inside the immutable JSON. The author submits this evidence-backed clarification for owner/CI review of whether the retained pre-read binding plus this public attestation sufficiently documents that contract. Structural CI success or a hash alone does not decide procedural sufficiency, and this erratum grants no waiver. That acceptance residual remains pending in PR322. Source analysis is complete, both next operations remain NONE_LN10_RUN_COMPLETE, and original I1/E0020+/G3–G7 remain paused. Frozen inventory, reading, journal, Q1s, seals and all four analytical ledgers are unchanged.
+
+## Continuous I1 resumption after LN10 — 2026-10-28
+
+Recovery recorded at `2026-10-29T00:32:52.803269+00:00` (UTC; owner-local date2026-10-28, America/New_York). The owner's active goal is “Resume continuous sequential analysis of the Kakoyomu published stories.” The original attached task remains the full authorization: resume the frozen Kakuyomu sequence without routine confirmations and carry all dependent reconciliation, discovery/correspondence, longitudinal work, monographs, specialists, reconstruction, independent V1 comparison, integrated synthesis and release audits through the original I1 terminal. The former E19 owner pause is superseded for that scope; the separately completed LN10 run is preserved as completed history. This is recovery of an existing source set, not a new inventory freeze or an E0020-only terminal.
+
+| Responsibility | Recovered actual state; no new narrative credit |
+| --- | --- |
+| Current execution | `continuous_sequential`; `unit_type: other`; start `LN-JP-V01`; terminal `SHUUKURA-V2-20261017-I1`; committed WEB high-water `KAK-JP-E0019`; next permitted/candidate `KAK-JP-E0020`; `active`; OPEN foundation; confirmation false. |
+| Prior accepted transaction | E19 reading/transaction audit and all four ledgers retained; LN10 source/ledger transaction plus original freeze-time erratum integrated via PR322 from1ab5decb6ef28e3c325d6647b91c15d439a77430 atc2e8af7cd40b2c49bba015396c9aee58f9018649 on2026-10-25T00:26:15Z. Owner deep-blue-zero's recorded2026-10-25T00:26:10Z acceptance resolves the former procedural hold; unknown earlier inventory serialization time stays unknown. |
+| Actual local/source/main | Clean continuing branch ordinarily fast-forwarded from remote source1ab5 to fetched maina4ba2049961cd380185e3e504c5235a493a88845. Accepted Shuukura subtree and governing controls are unchanged; unrelated legitimate main changes are retained. Existing actual green audits: source40145745397 (10,074paths/479tests), main40771990258 (10,457paths/479tests). This new head still needs its own INDEX/publication/audit. |
+| Immutable source sets | I1 SHA256`6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b`; frozen2026-10-17T04:34:25Z; ordered identity digest`2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95`. BW SHA256`26c5a1ced2334329bb302a3c1a57acae51ba0f9927383cc705936a87ea52d159`; LN10 SHA256`68d6c1d3bc561123ef27f528413ea4f2e6ab684a04e61cad6fb9ff2e80fc2d11`; all unchanged. |
+| Original web archive | 431originalHTML snapshots;12,057,474bytes;SHA256`46fefa044e34596948548a49693c6a9b2b937b7f5b82cb61cc89e20a35b427b3`; ZIP CRC passes. Complete original locator manifest24,312,821bytes/SHA256`c119aad7ac1dbbf820b21680ea2d28db954c17497b1b324b2a08dc1c5bd5ece2`;88,232native paragraph locators; exact I1 unit order/episode IDs. No live-site substitution or regenerated frozen manifest. |
+| Exact next witness | E0020; Kakuyomu work1177354054894027232/episode1177354054895022350; `NATIVE_CAPTURE-20261017-A1`; member`KAK-JP-E0020_1177354054895022350.html`;58,753bytes/SHA256`630f0d8c7e4b6d8b1f11186196a2ac470ca0ad1e507a11bb087a66450eb34610`; complete outer-body SHA256`8d9382c0a1dd423697891a63fad8195ea9d272b9bb1c5ee3e070d6ef7f943c55`;232native paragraphs. Original pinned parser and all native character fragments match. Body has0media markup/0ruby/0replacement characters; metadata verification earns no actual reading or visual credit. |
+| Recovery scope/exposure | Exact complete before images for17governing/state/last-transaction inputs were acquired and verified againsta4ba. Manual rereading was bounded to the recorded governing sections, current surfaces and relevant prior argument; multi-megabyte ledgers were not freshly read in full. E0020+ title/body/image pixels were not displayed or substantively inspected. Familiarity includes LN01–10,23supplements and WEB1–19; pretraining/old context exposure is not erased. |
+| Coverage |52completed/52already-admitted readings;52/464combined;46/458immutableI1;51/463pre-LN10; LN10 1/1; originalLN9/9;WEB19/431;23supplements;Narō0/290.51historical gap candidates=4resolved/47unresolved;27discoveryduties. E0020 is available/next, not completed. |
+| Four logical ledgers | Current files1.43, no mutation:236claim IDs/745distinct versions/1252strict quoted rows;1230proposition IDs/1743versions;192rule IDs/458pairs/477physical rows,19legacy repeats. Static disclosure master remains byte-identical; continuation01 is part of the same logical instrument. |
+| Actor/model clocks | WEB own SendaiE19, own MiyagiE17 beside observed/voicedE19; retained adult LN10 own Miyagi throughchapter10/own Sendai throughchapter11 and historical-extra states stay separate.18forecasts/13historical attempts;M0.13/S0.14draft_noncurrent/UNTESTED;0validateddomains. No recovered source fit is a blind/held-out validation. |
+| Next atomic duty | Seal E0020 entering state before title/body inspection; read all232native paragraphs in source order with substantive first notes and immutable Q1 before downstream comparisons/review. Finish reading/audit, all four ledgers, due claims/predictions and ROOT/INV/checkpoint in one whole episode transaction. Publish ordinary approved-identity commits and obtain actual-head green audit before the next tranche push; continuous preparation may proceed. Do not stop at E20 orE431 while original dependent duties remain. |
+| Preserved exclusions/debts | No automaticE0432+/futureLN/bonus admission. V1 remains unopened until the required independent comparison stage. Both OFF evidence archives remain local. Narō correspondence, discovery/gap and G3–G7 obligations remain visible and uncompleted; no invented source/modality/model readiness. |
+
+Private recovery inputs are8743bytes/SHA256`6e60097df60bce0dd7da2978d82750820f1cc81b4f25c9fda59b32cd4df178cc`. The successful metadata-only archive/locator integrity report is2349bytes/SHA256`401298ced3e1524d4d37a28559bec8dfb9812776c04bfde20e4585bc57852135`. Its preceding failed check compared only an inner div rather than the original complete outer-body digest; the correction reuses the pinned original parser class without changing any source or expected hash. Neither check earns narrative coverage. Exact private paths, source payloads and locators containing primary excerpts stay outside Git.
+
+This three-path metadata successor alters no accepted reading, ledger, frozen inventory, immutable source note or historical erratum. Local staging/INDEX validation, approved-identity commit, ordinary remote readback, an actual-head integration audit, and owner/CI-controlled protected-main integration must be observed separately. No current result is inferred from earlier green runs. The current entrypoint owns the restored operational state; dated pause and LN10-only records remain evidence of their earlier state.
