@@ -1,0 +1,250 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Noa",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_NOA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 8698,
+    "sha256": "436b0fcd1481f0e4e7a3096ac64ea1c564db259f6eeca4d80f2a9b0f56422196",
+    "git_blob_oid_of_actual_bytes": "7030aba3cb18142352cbaf707e68a219f90418b2",
+    "lines": 205
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_NOA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "7cfad36a54c559d9b9fa0231f841a917c324e5a7f8c163f151b84dfa19d369e4",
+    "source_checks": [
+      {
+        "source_id": "C01",
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": false
+      },
+      {
+        "source_id": "C02",
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "C03",
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "C04",
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "C05",
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "current_bytes_exact": true,
+        "snapshot_comparison": "NOT_APPLICABLE_CURRENT_ROOT_SCOPE_CONTROL"
+      },
+      {
+        "source_id": "C06",
+        "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+        "current_bytes_exact": true,
+        "snapshot_comparison": "NOT_APPLICABLE_CURRENT_ROOT_SCOPE_CONTROL"
+      },
+      {
+        "source_id": "M02",
+        "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "M21",
+        "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "M22",
+        "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "N01",
+        "sha256": "790bb58c59b7821a56b6ac5963135d04539f0f2c77bdd5189dfdd40ddcb4e480",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "G31",
+        "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "G15",
+        "sha256": "5befccc68d9cd8c89ba1f60e37f5fe861acfe280f33d5c5ea145f89a8126b0d6",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "F00",
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "F03",
+        "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "F04",
+        "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "F36",
+        "sha256": "7dab6902dd3e5cb85aac4039e6b19b48bd2787fcb55e96b466337d9614096fdc",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "F45",
+        "sha256": "a9a841059c515616b52abd72e76c58aa38f42f11d7852dacf04af144e82129ba",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "E17",
+        "sha256": "4bbb3e21eb2959d3a06f1f0fb4b66111017a6d7e113283d7b32f7dd66aee852e",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "E42",
+        "sha256": "1df4ea37a6733bd3fd4d5285f7d3aedda7c864a415968f9f537188b2bd7be6ed",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "E21",
+        "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "L89",
+        "sha256": "6f75f51f6a079e4cc332089f5e166091c3cfa2f3534a3e6f67fedb3d9369e80e",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "E10",
+        "sha256": "880f77f0a0027aabe86b4fcc556e93a96c8e2c7320ae857162aac010a771343e",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      }
+    ],
+    "exact_saved_claim_paragraphs": 57,
+    "frozen_outputs_verified": 4,
+    "saved_receipt_sha256": "7efc9093804c34993cd5eee937087886d8664982fb8ac3b0aecea78f3697b8db",
+    "prior_frozen_outputs_preserved": 60,
+    "root_actual_receiving": {
+      "whole_saved_body": [
+        "336c07 lines1–80",
+        "efecfa lines81–152EOF"
+      ],
+      "source_fields": [
+        "c6fce2 complete source controls",
+        "5407cf inputs0–7",
+        "92dae3 inputs8–14",
+        "b6e350 inputs15–21"
+      ],
+      "claim_fields": [
+        "969abf first2 complete claim rows; all57 exact joins mechanically checked and joined meanings received in full saved body; no whole57support-row manual claim"
+      ],
+      "saved_receipt": [
+        "4a8929 complete controls",
+        "de08cb complete3outputs;22source and60prior rows separately exactchecked; no whole573line manual receiving claim"
+      ],
+      "additional_accepted_arguments": [
+        "bab4d1 substantive private732–778 exact complete family reconciliation/ordinary and contrary/chronology/seven cumulative proposals",
+        "369e4f wholeFinalC003E00637linesEOF and ac31b2 wholeFinalC004E00536linesEOF, competing safety/delegation/early dispatch and actual arrival",
+        "1ecc6b completegift08973linesEOF qualified by Cycle008 and current admitted context"
+      ],
+      "authority_qualification": "Other adequate accepted owners use author-attributed complete scopes and prior ROOT accepted meanings. Twenty snapshot comparisons, twenty-two bindings and sixty preservation checks add no new primary, performance, independence or whole source-field reading credit."
+    },
+    "semantic_grounds": [
+      "Recording and administrative review are chosen practices with intrinsic coffee, cat, books, poetry, views, plain food, scent, diary, comfort, rest and company preferences; a sparse room is not absence of self or an adult-created identity.",
+      "Whole patent tail retains reported federal return and renewed stopping request. Accurate observation, controlled quiz, refused termination, private withholding and disclosure pressure remain distinct acts with recipient costs.",
+      "Actual meals, writing, scent enjoyment, tidying, reading and sleep coexist with failed decor, continued illness, a misunderstood stain and unreconciled irritation. Bill payment, future invitations and clinical recovery remain unprinted.",
+      "Her own poetry submission differs from fear fixing a particular loved-poem preference. Timed/log/inward/UI forms do not authenticate hearing, performance, a determinate confession or universal actor repair.",
+      "Competing safety rankings do not show Rio surveillance or a guaranteed safe counterfactual. Timely departure and actual C&C arrival are positive distributed achievements motivated by Noa and Seia; reported escort is separate from evacuation, medical clearance or calibrated prophecy.",
+      "Yuuka, Koyuki, Chihiro, Alice, Seia, makers and affected players have independent wishes, knowledge, privacy and costs. Noa is not invented as an actor in G15; her character home leaves distinct directed and institutional work required."
+    ],
+    "root_new_primary_or_performance_credit": 0,
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope_reference": "Current355/29 controls exact; historical353 and Noa home preserved; scope allocation does not supply literary completion",
+    "quarter_reached": false,
+    "main_integration": "NONE",
+    "root_current_head": "7489d76d96b232609f1cd16473173b6dc4ab0eee"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-NOA-CH0095",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+    "bytes": 41281,
+    "sha256": "e3b6e71510497bd00dcd5312875e16b34bece10de19348ab393ec8b914405bd3",
+    "git_blob_oid_of_actual_bytes": "3a72feb7616e83cf1fecaa43c850e41cf0e713e2"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "The author considers this a complete bounded eleven-section literary candidate, with ROOT whole receiving and adoption pending.",
+      "new": "ROOT accepted this complete bounded eleven-section literary monograph with limits after whole receiving.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    },
+    {
+      "old": "Neither this candidate nor its exactness completes",
+      "new": "Neither this monograph nor its exactness completes",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    }
+  ]
+}

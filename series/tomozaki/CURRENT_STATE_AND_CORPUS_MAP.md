@@ -2,9 +2,10 @@
 series: TOMOZAKI
 artifact_type: current_state_and_corpus_map
 scope: GIT_NATIVE_ANALYTICAL_ROOT
-source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus side-story Volumes 06.5 and 08.5; source audit dated 2026-08-29"
+source_boundary: "Admitted Japanese main V01-V12 plus separately routed V06.5/V08.5; historical audit 2026-08-29 and additive V12 admission 2026-10-22; analytical high-water mark V12"
 source_audit_date: 2026-08-29
-generation: V2.6_R05_MIMIMI
+source_admission_date: 2026-10-22
+generation: V3.4_R11_ACCEPTED_ARCHITECTURE_STABILIZED
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -15,12 +16,12 @@ project_initialization:
   historical_gate_status: VIOLATED_ARCHITECTURE_MISSING_BEFORE_V01
   historical_initialization_timing: REMEDIATED_AFTER_V11_NOT_PRESENT_AT_DAY_ONE
   remediation_status: ACTIVE
-  architecture_lifecycle: EVOLVING
+  architecture_lifecycle: STABILIZED
   governing_method: "00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md"
   synthesis_architecture: "00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md"
   method_status: canonical
   architecture_status: canonical
-  architecture_maturity: EVOLVING
+  architecture_maturity: STABILIZED
   source_reconnaissance_complete: true
   required_day_one_infrastructure_initialized: true
   historical_required_day_one_infrastructure_initialized: false
@@ -33,14 +34,26 @@ project_initialization:
     - "03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md"
     - "03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md"
   sequential_analysis_lock: OPEN
-  committed_high_water_mark: V11_PLUS_ROUTED_V06_5_AND_V08_5
-  next_sequential_operation: NONE_AWAIT_NEW_ADMISSION
-  next_source_admission_gate: CLOSED
-  longitudinal_reconciliation_gate: PASS_AT_V11_BOUNDARY
+  committed_high_water_mark: V12
+  next_permitted_operation: NONE
+  next_source_admission_gate: NO_FURTHER_SOURCE_AUTHORIZED
+  longitudinal_reconciliation_gate: PASS_AT_V12_BOUNDARY
   major_character_input_readiness: READY
-  specialist_input_readiness: READY_PENDING_SCOPE_ADJUDICATION
-  specialist_synthesis_gate: CLOSED
-  full_series_synthesis_gate: CLOSED
+  specialist_input_readiness: ACCEPTED_INPUTS_AT_R11_BOUNDARY
+  specialist_synthesis_gate: PASS_AT_R10_BOUNDARY
+  full_series_synthesis_gate: PASS_AT_R11_BOUNDARY
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume
+  authorized_start: V12
+  terminal_boundary: V12
+  committed_high_water_mark: V12
+  next_candidate_operation: NONE
+  confirmation_between_units: false
+  run_state: completed
+supplemental_execution:
+  current_state: CLOSED
+  other_narrative_admission: NOT_AUTHORIZED
 ---
 
 # Bottom-Tier Character Tomozaki — current state and corpus map
@@ -82,11 +95,13 @@ Current audited inventory, dated 2026-08-29:
 - V04 and V11 carry non-blocking `mimetype`-ordering warnings;
 - no exact duplicate groups.
 
-This source inventory is **verified**. It does not establish availability or authority for V12+, adaptations, translations, retailer bonuses outside the audited EPUBs, interviews, or reception material.
+This historical source inventory is **verified** and retained unchanged as the 2026-08-29 boundary. The separately authorized 2026-10-22 additive V12 admission uses the verified local witness, SHA-256 `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c`; the owner expressly corrected the pasted task digest before admission. See the [V12 source-admission audit](08%20Audits%20and%20Manifests/TOMOZAKI_V12_SOURCE_ADMISSION_AUDIT.md). V12 prose, all 42 spine members, all 26 actual image occurrences and the ending paratext have now been inspected and analyzed. The admitted inventory and completed source-facing boundary comprise fourteen EPUB witnesses: main V01–V12 plus the two routed supplements. See the [V12 completion audit](08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md) for source coverage, six-owner acceptance and separate repository/publication gates. V13+, adaptations, translations, unadmitted bonuses, interviews and reception remain outside the boundary.
 
 ## 4. Current analytical state
 
-**Volumes 01 through 11 have been read, analyzed, and prospectively frozen. Volumes 06.5 and 08.5 have been read and closed under story-local supplemental routing. V11 is the current numbered-volume boundary. Sequential-source completion and R01–R03 longitudinal reconciliation have passed. Fumiya’s and Hinami’s local literary-monograph roles pass independent review, completing R04’s pair. Kikuchi’s and Mimimi’s local literary-monograph roles now pass, completing R05’s pair. Overall literary synthesis completion remains unpassed.**
+**Active campaign:** the owner authorized the V12-only source run and the subsequent complete-corpus character coverage, R06, relationship/thematic, convergence, final literary synthesis and derived-model stages in one continuous task. The [prospective entering snapshot](08%20Audits%20and%20Manifests/TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md) preserves V11 and the accepted R01-R05 refinements before V12 content access. The prior V11 gate decisions below remain valid at their stated scope; those historical passes do not certify later aggregate gates. The V12 reading and all six cumulative owners now have independent substantive review; repository/publication acceptance is recorded separately in the completion audit.
+
+**Volumes 01–12 have been read and analyzed, preserving every earlier prospective freeze. Volumes 06.5 and 08.5 retain story-local supplemental routing. V12 is the completed numbered-volume boundary of the owner/CI-integrated source transaction; the completion audit records substantive, repository and publication acceptance separately. The V11 sequential/R01–R03 passes remain historical. Fumiya’s and Hinami’s local literary-monograph roles pass independent review, completing R04’s pair. Kikuchi’s and Mimimi’s local literary-monograph roles now pass, completing R05’s pair. The materially revised integrated full-series argument now passes independent R11 review; R12 validation/release and models remain separate.**
 
 Current completed responsibilities:
 
@@ -105,26 +120,26 @@ Current completed responsibilities:
 - V09 sequential deep reading: pre-prose freeze staged, package and images audited, narrative read in order, all numbered and supplemental claims adjudicated, and post-state frozen;
 - V10 sequential deep reading: pre-prose freeze staged, package and images audited, narrative read in order, all carried claims and questions adjudicated, Nagisa causal limits preserved, and post-state frozen;
 - V11 sequential deep reading: pre-prose freeze staged before source access, package and all image layers audited, narrative read in order, all thirty-six carried claims and twelve controlling questions adjudicated, and forty current-boundary claims frozen;
-- effort/competition/goal-ownership ledger: canonical and current through V11 for effort regimes, goal origin, stopping conditions, comparative self-worth, capacity governance, viable routes, disclosure authority, and the distinction between retrospective meaning and antecedent control;
-- canonical synthesis architecture: established in remediation, lifecycle `EVOLVING`;
+- effort/competition/goal-ownership ledger: canonical with the V12 current extension for effort regimes, goal origin, stopping conditions, comparative self-worth, capacity governance, viable routes, disclosure authority, and the distinction between retrospective meaning and antecedent control;
+- canonical synthesis architecture: established in remediation, lifecycle `STABILIZED` after root’s explicit five-condition decision; this does not freeze the literary corpus;
 - architecture/role-gap audit: preserved checkpoint for remaining literary-role deficits;
-- all six mandatory longitudinal owners: reconciled through V11, preserving stable IDs, source chronology and explicit OPENs;
+- V12 sequential reading: complete source-order inspection, forty inherited decisions, fourteen prospective answers, forty new local claims, and bounded final state;
+- all six mandatory longitudinal owners: reconciled through V12, preserving stable IDs, source chronology and explicit OPENs; repository acceptance remains a separate gate;
 - twelve targeted L2/L3 source queues: independently reviewed retrieval PASS, with exact witness/member/paragraph routes;
 - Japanese voice/register/key-terms ledger: 24 attested state/recipient records covering seven principals at declared selective scope;
 - longitudinal reconciliation audit: current PASS for R01–R03, with correction propagation and preservation receipts;
-- Fumiya literary monograph: mature local responsibility through V11 after reviewed integration of the supplied R04 candidate; bounded ordinary-life additions are routed in the character, relationship and effort ledgers.
-- Hinami literary monograph: mature local responsibility through V11 after independent source and semantic review; bounded character, relationship, effort and voice enrichments complete the R04 pair.
-- Kikuchi literary monograph: mature local responsibility through V11 after independent source and semantic review; character, effort and voice enrichments preserve earlier agency, ordinary life, authorial concern and source/access precision.
-- Mimimi literary monograph: mature local responsibility through V11 after independent source and semantic review, completing R05; bounded cumulative additions distinguish ordinary-life and process value, role loss, V09’s resumed walk and partial affirmative self-regard, and partial conversation disclosure from full supplemental knowledge.
+- Fumiya literary monograph: mature local responsibility through V12 after reviewed targeted extension; accepted R04/R05 developmental content, ordinary-life evidence, stable records and historical V11 limits remain preserved.
+- Hinami literary monograph: mature local responsibility through V12 after reviewed targeted extension; accepted R04/R05 developmental content, ordinary-life evidence, stable records and historical V11 limits remain preserved.
+- Kikuchi literary monograph: mature local responsibility through V12 after reviewed targeted extension; accepted R04/R05 developmental content, ordinary-life evidence, stable records and historical V11 limits remain preserved.
+- Mimimi literary monograph: mature local responsibility through V12 after reviewed targeted extension; accepted R04/R05 developmental content, ordinary-life evidence, stable records and historical V11 limits remain preserved.
+- Tama, Mizusawa and Yuzu literary monographs: mature A responsibilities through V12 after independent R06 scope/source/semantic adjudication; the former provisional studies are substantially developed and their prior history remains recoverable.
 
 Current open responsibilities:
 
-- adjudicate and deepen or reclassify the Tama, Mizusawa, and Yuzu candidates according to evidence sufficiency (R06); preserve and later cross-check the four reviewed monographs;
-- create the mandatory relationship and thematic specialists;
-- perform cross-specialist and locator convergence;
-- revise the existing full-series synthesis candidate last and then conduct a new release audit.
+- conduct R12 literary validation/release against the independently accepted R11 argument, exact preserved evidence and current authority/routing; no release pass follows from stabilization;
+- consider separately justified derived models only after actual literary release, with their own evidence-sufficiency and validation contracts.
 
-The [Fumiya integration review](08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) certifies Fumiya’s `canonical`, `mutable_active`, `MATURE_LOCAL_LITERARY_ROLE` responsibility. The [Hinami integration review](08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md) certifies the same bounded role for Hinami. The [Kikuchi integration review](08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) certifies her individual R05 role. The [Mimimi integration review](08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md) certifies her individual R05 role and completes the pair. The other three character files and existing full-series synthesis remain `active_provisional` pre-remediation candidates. Aggregate character/specialist, convergence and full-series gates remain unpassed.
+The [Fumiya integration review](08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) certifies Fumiya’s `canonical`, `mutable_active`, `MATURE_LOCAL_LITERARY_ROLE` responsibility. The [Hinami integration review](08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md) certifies the same bounded role for Hinami. The [Kikuchi integration review](08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) certifies her individual R05 role. The [Mimimi integration review](08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md) certifies her individual R05 role and completes the pair. The [current V12/principal and R06 review](08%20Audits%20and%20Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md) accepts all seven individual monographs through V12. The materially revised full-series synthesis now has independent R11 acceptance; its complete V11 predecessor remains separately preserved. The [supporting implementation review](08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) records the original eleven-B/C37/D1/six-group local acceptance; the later [R10 named-scope addendum](08%20Audits%20and%20Manifests/TOMOZAKI_FULL_CORPUS_CHARACTER_COVERAGE_AND_SCOPE_AUDIT.md#r10-named-scope-addendum) carries current A7/B11/C38/D1 plus six contexts, 63 profiles including groups, while preserving the original 62-profile assembly and dated C37 receipt; the [primary relationship review](08%20Audits%20and%20Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_INTEGRATION_REVIEW.md) accepts the three primary dyadic arguments. The [ensemble and thematic review](08%20Audits%20and%20Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_INTEGRATION_REVIEW.md) additionally accepts R08 and all seven R09 local literary/source contracts. The [R10 convergence audit](08%20Audits%20and%20Manifests/TOMOZAKI_ADVERSARIAL_AND_CROSS_SPECIALIST_CONVERGENCE_AUDIT.md) and [evidence/review packet](08%20Audits%20and%20Manifests/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_AND_REVIEW_MANIFEST.json) accept the declared adversarial/convergence scope and open R11 integrated drafting only. The [R11 integration review](08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md) and [evidence/review manifest](08%20Audits%20and%20Manifests/TOMOZAKI_R11_FULL_SERIES_EVIDENCE_AND_REVIEW_MANIFEST.json) bind its current authority and root’s separate five-condition STABILIZED decision. R12 release and models remain unpassed. Canonical placement in this author tree remains distinct from exact-head validation, publication and main integration.
 
 V01 was read from audited witness `Bottom-Tier Character Tomozaki - Volume 01.epub`, Drive file ID `1B7r3rf0bIZ1gnFg88NTeDa5K6C4LVlF0`, SHA-256 `49d1577da47a22e0838b8430a52bfe24639effcfb519786149cba7ed1d0bc0c4`.
 
@@ -162,7 +177,7 @@ The volume also exposes the ethical and systemic limits of local optimization. T
 
 V05 rejects a universal-deficit reading of Tama. Her expressive fundamentals already exceed Tomozaki's; the copied drills fail until the training is rebuilt around her actual strengths, limited curiosity about classmates, recipient fit, settled public character, and the exceptional cost of failure under harassment. The resulting curriculum is genuinely distributed across Tama, Tomozaki, Mizusawa, Takei, Mimimi, and Kikuchi. Tama changes delivery, relational orientation, and public legibility while retaining the governing reason and evaluative core of her action.
 
-The climax tests that distinction. Hinami precisely engineers Konno's overreach and public collapse by using grievance, directional ambiguity, class resentment, and Konno's romantic wound. The class converts justified grievance into licensed retaliation and makes Konno the substitute target. Tama uses her newly trained interface to transmit the same principle she held before training: collective attack remains wrong even when its target has done wrong. The immediate harassment stops and Yuzu helps Konno re-enter ordinary peer life, but no apology, restitution, institutional response, or durable systemic safeguard is shown. V05 therefore establishes cessation and partial repair rather than completed justice.
+The climax tests that distinction. Hinami precisely engineers Konno's overreach and public collapse by using grievance, directional ambiguity, class resentment, and Konno's romantic wound. The class converts justified grievance into licensed retaliation and makes Konno the substitute target. Tama uses her newly trained interface to transmit the same principle she held before training: collective attack remains wrong even when its target has done wrong. The immediate harassment stops. After Konno leaves and Yuzu follows, Akiyama and other group members directly apologize to Tama, whose weighted assent is not blanket forgiveness. Yuzu helps Konno re-enter ordinary peer life. Konno’s own apology, full responsibility accounting, restitution, institutional response and durable safeguards remain unestablished. The dated retrospective correction is owned by [CRI §19](03%20Longitudinal%20Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md#19-retrospective-correction-to-the-class-accountability-baseline--2026-10-23), source V05 `text/part0028.html` P2–25. Cessation, apology and re-entry remain distinct from completed justice.
 
 V05 also retests Mizusawa's owned desire after rejection: he acts, accepts risk, discloses his continuing feeling, and refuses to extract privileged information about Hinami from Tomozaki. Kikuchi's forward movement becomes broader social participation and independent interpretive contribution. Tomozaki functions as a team-supported teacher and leader, wants to know Hinami more deeply, and has not yet demonstrated whether understanding her will include confronting her method. The exact evidence, supplemental routing, claim adjudications, abstentions, and V06 freeze are in `02 Sequential Readings/TOMOZAKI_V05_DEEP_READING.md`.
 
@@ -196,11 +211,11 @@ The V10 disclosure places middle sister Nagisa in sixth grade when she opposed b
 
 V11’s disclosure-framed, mixed-person retrospective gives reader access beyond a certified transcript of everything Tomozaki heard. It shows that Hinami's family did not simply neglect meaning. Her mother Yoko filled the household with affirmation and retrospectively organized events as meaningful; the birthday video praises Aoi by turning a childhood marathon and later national running result into a destiny-like continuity. Nagisa's death makes that inherited account intolerable: Yoko again says the world chose the result and that it has meaning, while Aoi experiences the framework as false. Hinami's later demand for controllable antecedent cause, measurable proof, and victory is therefore a strong formation response without becoming a sufficient explanation of every trait. Nagisa's intent remains unresolved, and neither the private practice nor the family's language licenses a religious or cult identification.
 
-The present crisis separates capacity from reason. Hinami withdraws from spring break, school, and the student council without handoff, yet retains elite Atafami competence. Tomozaki understands much of the formation history but converts that understanding into a unilateral credential claim: she should trust him because she cannot beat `nanashi`. Hinami studies his secondary character, reverses an 0-2 set, defeats him 3-2, and calls life a bad game. The victory invalidates his proposed authority; it does not establish that her crisis judgment is the series' final ontology. Tomozaki then loses his own reason to play and withdraws, exposing a parallel between method and motive.
+The V11 crisis separates capacity from reason. Hinami withdraws from spring break, school, and the student council without handoff, yet retains elite Atafami competence. Tomozaki understands much of the formation history but converts that understanding into a unilateral credential claim: she should trust him because she cannot beat `nanashi`. Hinami studies his secondary character, reverses an 0-2 set, defeats him 3-2, and calls life a bad game. The victory invalidates his proposed authority; it does not establish that her crisis judgment is the series' final ontology. Tomozaki then loses his own reason to play and withdraws, exposing a parallel between method and motive.
 
-Kikuchi's fiction reaches Tomozaki where direct speech fails. A conditional publication opportunity for `純混血とアイスクリーム` forces her to ask why she writes and whether insight grants permission to use another person's pain. Tomozaki and Kikuchi reselect the relationship and co-propose a collective narrative project for Hinami. At the boundary the project has not been executed, Hinami has not consented to it, Mizusawa has not carried out a renewed confession after the V03 refusal, and no cure or return is shown. Jack's fourth-place offline tournament finish is real route evidence without closing Tomozaki's professional feasibility question. Full evidence, all thirty-six V10 claim adjudications, all twelve V11 question adjudications, forty frozen V11 claims, and the current abstentions are in `02 Sequential Readings/TOMOZAKI_V11_DEEP_READING.md`.
+Kikuchi's fiction reaches Tomozaki where direct speech fails. A conditional publication opportunity for `純混血とアイスクリーム` forces her to ask why she writes and whether insight grants permission to use another person's pain. Tomozaki and Kikuchi reselect the relationship and co-propose a collective narrative project for Hinami. At that historical V11 boundary the project has not been executed, Hinami has not consented to it, Mizusawa has not carried out a renewed confession after the V03 refusal, and no cure or return is shown. Jack's fourth-place offline tournament finish is real route evidence without closing Tomozaki's professional feasibility question. Full evidence, all thirty-six V10 claim adjudications, all twelve V11 question adjudications, forty frozen V11 claims, and that V11 boundary’s abstentions are in `02 Sequential Readings/TOMOZAKI_V11_DEEP_READING.md`.
 
-The canonical character registry currently discovers seven Tomozaki subjects. Tomozaki, Hinami and Mimimi retain bounded V01–V02 effort, competition and goal-ownership records, which explicitly claim neither V03+ outcomes nor a completed general character model. The curation update incorporated from main `a825ec0539deacfb9fe795181d8cd00222759cd2` adds Kikuchi, Tama, Mizusawa and Yuzu as dedicated provisional-study records through V11 with explicitly routed supplements; those records do not certify mature synthesis or uniform volume coverage. These catalog scopes remain distinct from the four local literary-role acceptances above. Character discovery and any coordinated catalog-status repair remain independently governed by the designated curation agent through `characters/registry.jsonl` and generated `CHARACTER_ANALYSIS_INDEX.md`. This analytical branch does not create character upsert inputs or independently edit either character output.
+Global character discovery and capability assessment remain independently governed. The registry/index records retain their own bounded evidence scopes; their curation state is not a substitute for these seven local literary acceptances. Existing paths and compatibility anchors are preserved. The designated curation/evaluation agents own later catalog refreshes; this analytical branch does not write those global outputs or character-upsert inputs.
 
 ## 5. Architecture
 
@@ -210,7 +225,7 @@ Canonical paired foundation: source-facing analytical method plus corpus/synthes
 Current artifact:
 
 - `TOMOZAKI_ANALYTICAL_METHOD.md`
-- `TOMOZAKI_SYNTHESIS_ARCHITECTURE.md` — canonical `EVOLVING` architecture; records the historical gate violation, cumulative responsibilities, evidence routing, dependencies, and completion gates
+- `TOMOZAKI_SYNTHESIS_ARCHITECTURE.md` — canonical `STABILIZED` architecture v1.14; preserves the historical gate violation and all responsibilities/dependencies; stabilization does not pass release
 
 ### `01 Source Lock and Inventory/`
 Exact primary-source boundary, audited witness identity, source integrity, exclusions, and future source-lock revision rules.
@@ -237,7 +252,8 @@ Current artifacts:
 - `TOMOZAKI_V08_5_SUPPLEMENTAL_READING.md` — V08.5 routed and closed; parallel and adapted bonus layers segregated
 - `TOMOZAKI_V09_DEEP_READING.md` — V09 closed/frozen; image, gaiji, and trailing promotional layers segregated
 - `TOMOZAKI_V10_DEEP_READING.md` — V10 closed/frozen; Nagisa disclosure and family-video endpoint causally bounded
-- `TOMOZAKI_V11_DEEP_READING.md` — V11 closed/frozen; family formation evidence, crisis, game result, and proposed intervention bounded
+- `TOMOZAKI_V11_DEEP_READING.md` — historical V11 freeze retained
+- [TOMOZAKI_V12_DEEP_READING.md](02%20Sequential%20Readings/TOMOZAKI_V12_DEEP_READING.md) — complete V12 reading, inherited/new claims and bounded exit state
 
 ### `03 Longitudinal Ledgers/`
 Canonical home for recurring cross-volume questions once repetition creates a real retrieval/revision need.
@@ -245,11 +261,11 @@ Canonical home for recurring cross-volume questions once repetition creates a re
 Current artifacts:
 
 - `README.md`
-- `TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md` — current through V11
-- `TOMOZAKI_CHARACTER_STATE_LEDGER.md` — canonical remediation backfill; time-indexed character state through V11
-- `TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md` — canonical remediation backfill; directional relationship/network state through V11
-- `TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md` — canonical L1 crosswalk of the 319-claim/140-question universe, with unchanged promoted/local accounting and twelve independently reviewed L2/L3 retrieval queues
-- `TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md` — canonical remediation backfill for `空気`, status, reputation, punishment, facilitation, repair, and distributed intervention through V11
+- `TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md` — current through V12
+- `TOMOZAKI_CHARACTER_STATE_LEDGER.md` — canonical remediation backfill; time-indexed character state through V12
+- `TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md` — canonical remediation backfill; directional relationship/network state through V12
+- `TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md` — canonical crosswalk of 359 claims/154 questions: 160/44 promoted and 199/110 intentionally local; historical twelve L2/L3 queues preserved, with new V12 routes
+- `TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md` — canonical remediation backfill for `空気`, status, reputation, punishment, facilitation, repair, and distributed intervention through V12
 
 - `TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md` — canonical selective attested Japanese voice/register/key terms; seven principals, 24 JVL records
 
@@ -269,17 +285,17 @@ Current artifacts:
 - `Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md`
 - `Izumi Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md`
 
-Fumiya, Hinami, Kikuchi and Mimimi are reviewed mature local literary monographs; the other three artifacts remain `active_provisional`. R04 and R05 are complete at their respective pair scopes. See the [Fumiya integration review](08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md). Tama, Mizusawa, and Yuzu require either substantial deepening or explicit bounded-dossier scope. Relationship and whole-corpus responsibilities cannot be delegated to these individual files.
+All seven files are mature local literary monographs through V12 under the [current integration review](08%20Audits%20and%20Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md). R04/R05 retain their original pair acceptances, the four principals have reviewed V12 extensions, and R06 accepts Tama/Mizusawa/Yuzu as A monographs. The [coverage audit](08%20Audits%20and%20Manifests/TOMOZAKI_FULL_CORPUS_CHARACTER_COVERAGE_AND_SCOPE_AUDIT.md) retains its original C37/62-profile scope snapshot and adds the later R10 current extension: eleven B and thirty-eight C responsibilities, one D identification and six source-group nodes, 63 profiles including the seven A subjects. The original eleven-B/C37/D1/six-group implementations pass under the [supporting implementation review](08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md); the later named-scope addendum owns C-D39 and C-D37’s new evidence, and current accounts are routed from the [character entrypoint](04%20Character%20Analysis/README.md). Relationship, ensemble and whole-corpus responsibilities remain independent.
 
 ### `05 Full-Series Synthesis/`
 Canonical home for whole-corpus integration only after the longitudinal, character, relationship, specialist, and convergence gates pass.
 
 Current artifact:
 
-- `TOMOZAKI_FULL_SERIES_SYNTHESIS.md` — preserved `active_provisional` pre-remediation synthesis candidate; not mature final authority and not to be rewritten until specialist convergence
+- `TOMOZAKI_FULL_SERIES_SYNTHESIS.md` — independently accepted, mutable current R11 integrated literary argument through V12; complete V11 predecessor and forty historical confidence/open dispositions are separately preserved; R12 release remains pending
 
 ### `06 Specialist Synthesis/`
-Architecture-defined future home for relationship and thematic literary synthesis. The directory remains uninstantiated until the first specialist is drafted. Mandatory responsibilities are enumerated in `TOMOZAKI_SYNTHESIS_ARCHITECTURE.md`.
+Current home for relationship, distributed supporting and later thematic literary synthesis. The [specialist entrypoint](06%20Specialist%20Synthesis/README.md) routes the independently accepted [Hinami](06%20Specialist%20Synthesis/TOMOZAKI_HINAMI_RELATIONSHIP_SYNTHESIS.md), [Kikuchi](06%20Specialist%20Synthesis/TOMOZAKI_KIKUCHI_RELATIONSHIP_SYNTHESIS.md) and [Mimimi](06%20Specialist%20Synthesis/TOMOZAKI_MIMIMI_RELATIONSHIP_SYNTHESIS.md) dyads and the [C/D companion](06%20Specialist%20Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md). It also routes the independently accepted ensemble/coequal Mimimi–Tama and all seven thematic studies under the [ensemble and thematic review](08%20Audits%20and%20Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_INTEGRATION_REVIEW.md). Mandatory domains remain distinct; R10 convergence precedes synthesis LAST.
 
 ### `07 Character Reconstruction Models/`
 Deferred future home for simulation-oriented derived-use models. No model is authorized until literary authority converges; future models must declare that they are not primary literary authority.
@@ -289,12 +305,30 @@ Canonical home for title-local audit and manifest artifacts whose responsibility
 
 Current artifact:
 
+- [V12 literary release audit](08%20Audits%20and%20Manifests/TOMOZAKI_V12_LITERARY_RELEASE_AUDIT.md) — scoped semantic, preservation and live-generation checks; literary release PENDING on actual final repository gates
+- [V12 literary release version manifest](08%20Audits%20and%20Manifests/TOMOZAKI_V12_LITERARY_RELEASE_VERSION_MANIFEST.json) — thirty-one exact accepted literary versions, historical/current bindings and pending intentional release selection
+- [R11 full-series integration review](08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md) — independent integrated-argument acceptance and explicit five-condition stabilization decision; no release/model pass
+- [R11 full-series evidence and review manifest](08%20Audits%20and%20Manifests/TOMOZAKI_R11_FULL_SERIES_EVIDENCE_AND_REVIEW_MANIFEST.json) — preserved predecessor/dispositions, exact candidate/review generations and canonical rendering; no new source claims
+- [R10 adversarial and cross-specialist convergence audit](08%20Audits%20and%20Manifests/TOMOZAKI_ADVERSARIAL_AND_CROSS_SPECIALIST_CONVERGENCE_AUDIT.md) — declared R10 acceptance scope and R11 drafting readiness, preserving source OPENs
+- [R10 convergence evidence and review manifest](08%20Audits%20and%20Manifests/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_AND_REVIEW_MANIFEST.json) — durable exact evidence/review/correction generations; historical acceptance hashes distinguished from current gate/control generation
+- [TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md](08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md) — V12 source/semantic review and distinct validation/publication gates
+- [TOMOZAKI_FULL_CORPUS_CHARACTER_COVERAGE_AND_SCOPE_AUDIT.md](08%20Audits%20and%20Manifests/TOMOZAKI_FULL_CORPUS_CHARACTER_COVERAGE_AND_SCOPE_AUDIT.md) — fourteen-witness gap-finding, preserved original scope snapshot and later R10 C38/63-profile named-scope addendum
+- [TOMOZAKI_CHARACTER_EVIDENCE_COVERAGE_MATRIX.json](08%20Audits%20and%20Manifests/TOMOZAKI_CHARACTER_EVIDENCE_COVERAGE_MATRIX.json) — 250 original records and current adjudication, preserving unknown cells
+- [TOMOZAKI_CHARACTER_SCOPE_REVIEW_DATA.json](08%20Audits%20and%20Manifests/TOMOZAKI_CHARACTER_SCOPE_REVIEW_DATA.json) — lossless profile/destination/replay data and preserved scope disagreement
+- [TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md](08%20Audits%20and%20Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md) — seven individual literary acceptances through V12
+- [TOMOZAKI_V12_CHARACTER_PATH_AND_VALIDATION_MANIFEST.json](08%20Audits%20and%20Manifests/TOMOZAKI_V12_CHARACTER_PATH_AND_VALIDATION_MANIFEST.json) — exact character/coverage tranche and preservation bindings
+- [TOMOZAKI_SUPPORTING_AND_RELATIONSHIP_PATH_AND_VALIDATION_MANIFEST.json](08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_AND_RELATIONSHIP_PATH_AND_VALIDATION_MANIFEST.json) — preserved thirty-nine-path character/supporting/dyad implementation checkpoint, preservation and pending publication state
+- [TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md](08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) — actual eleven-B and C/D/group literary acceptance
+- [TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json](08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) — source/read/review records, exact render chains and attributable precision
+- [TOMOZAKI_PRIMARY_RELATIONSHIP_INTEGRATION_REVIEW.md](08%20Audits%20and%20Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_INTEGRATION_REVIEW.md) — three independently accepted R07 arguments and remaining integration gates
+- [TOMOZAKI_PRIMARY_RELATIONSHIP_EVIDENCE_AND_REVIEW_MANIFEST.json](08%20Audits%20and%20Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_EVIDENCE_AND_REVIEW_MANIFEST.json) — original, reconciled, independently reviewed and canonical relationship identities
 - `TOMOZAKI_BOOTSTRAP_PATH_MANIFEST.json`
 - `TOMOZAKI_ARCHITECTURE_AND_SYNTHESIS_ROLE_GAP_AUDIT.md` — immutable architecture/role-gap checkpoint; remaining literary-role deficits still apply
 - [TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md](08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md) — current R01–R03 convergence and input-readiness authority
 - [TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md](08%20Audits%20and%20Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md) — independently reviewed ESC-01–ESC-12, witness receipt and 49 LOC records
 - [TOMOZAKI_R01_R03_PATH_AND_VALIDATION_MANIFEST.json](08%20Audits%20and%20Manifests/TOMOZAKI_R01_R03_PATH_AND_VALIDATION_MANIFEST.json) — authored-path and baseline preservation receipt
-- [TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md](08%20Audits%20and%20Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md) — current R01–R05 completion at declared scopes and remaining work
+- [TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md](08%20Audits%20and%20Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md) — current R01–R11 acceptance scopes, supporting implementation and pending R12 validation/release
+- [TOMOZAKI_ENSEMBLE_AND_THEMATIC_INTEGRATION_REVIEW.md](08%20Audits%20and%20Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_INTEGRATION_REVIEW.md) — R08 and all seven R09 local literary/source acceptance, exact corrections and evidence/review provenance
 - [TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md](08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) — Fumiya-only literary role review and bounded source/cumulative additions
 - [TOMOZAKI_FUMIYA_R04_PATH_AND_VALIDATION_MANIFEST.json](08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_PATH_AND_VALIDATION_MANIFEST.json) — exact ten-path integration scope and baseline preservation receipt
 - [HINAMI_AOI_R04_INTEGRATION_REVIEW.md](08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md) — Hinami’s literary role review, source refinements and completion of the R04 pair
@@ -312,34 +346,30 @@ Current artifact:
 
 - `series-registry.json`
 
-Directory `90` remains intentionally absent. Directories `06` and `07` now have architecture-defined future responsibilities but remain uninstantiated until their dependency gates open.
+Directory `90` remains intentionally absent. Directory `06` is the instantiated current specialist home described above. Directory `07` remains a deferred, uninstantiated home until the distinct reconstruction-model dependency gates open.
 
-## 6. Current-boundary analytical questions after V11
+## 6. Current-boundary analytical questions after V12
 
-V11 closes the present source boundary while deliberately leaving several active questions:
+V12 answers execution, local uptake, slight self-liking and school-event return. These do not close the following questions:
 
-- Will the proposed collective narrative project be executed, and can it obtain Hinami's consent without turning understanding into authority over her?
-- Can Hinami distinguish rejecting her inherited retrospective-meaning system from having no affirmative reason of her own?
-- Can Tomozaki recover an owned reason to play after losing the `nanashi` credential on which he based his rescue claim?
-- Does Hinami return to school, the student council, friendship, or coaching, and under what terms?
-- Can Haruka's admiration become self-authored rather than dependent on Aoi as a perfect example?
-- How will Kikuchi govern motive, consent, fictionalization, and possible publication when her writing uses another person's pain?
-- Can Tomozaki and Kikuchi sustain their renewed relationship through allocation, privacy, third-party access, and unequal intervention costs?
-- Does Mizusawa make the renewed confession proposed by V11, what response follows, and what stopping condition develops? His earlier V03 confession/refusal remains part of the history.
-- Do Tomozaki's Endo promotion and Jack experiment produce durable professional evidence beyond one fourth-place tournament finish?
-- Do Mimimi's romantic stopping rule, Yuzu's absorber limit, Rena's durable boundary compliance, or Konno/Akiyama accountability move?
-- Will the series preserve the distinction between explanatory formation and exhaustive causal reduction?
-- Does a later volume revise the competing claims that life is a learnable game and that life is a bad game, or keep both as bounded character theories?
+- How durable is Hinami’s new relation to self, performance and correctness? Regular attendance, presidency, coaching and comprehensive repair remain unshown.
+- What disclosure, representation, publication, time-allocation and stopping rules can the couple and collaborators sustain after the pressured delivery?
+- How do Mimimi’s continuing love and owned restraint develop, and can self-regard survive separation from Tama without simply finding a replacement?
+- Does Mizusawa pursue a renewed confession after the historical V03 refusal, receive another reply, or choose a stopping condition?
+- Can Yuzu set an absorber limit, Haruka sustain independent value, and the wider group distribute neglected work?
+- Do Rena’s internal boundary or Konno/Akiyama accountability ever change? This source supplies no new test.
+- What professional economics, Endo/follower outcome, education/family negotiation, exit conditions, shop/career decisions, publication or rights arrangements become viable?
+- Nagisa’s mechanism/intent/prevention and the earlier grade tension remain OPEN. Fictional reunion, love, guilt and tears supply no missing testimony. The 31-frame replay motive and final match result also remain unknown.
 
-Sections 8-10 of the V11 deep reading contain the controlling numbered claim state, questions, and abstentions for any later source expansion. Both side-story volumes remain separately routed historical evidence layers and must not be converted into actor knowledge.
+The V11 reading remains historical entering authority. [V12 §§6–9](02%20Sequential%20Readings/TOMOZAKI_V12_DEEP_READING.md) and the current CRI/ledger extensions own current dispositions. Both supplements retain story-local clocks and reader/actor limits.
 
 ## 7. Main reading order and side-story control
 
 The default prospective main chain is:
 
-`V01 → V02 → V03 → V04 → V05 → V06 → V07 → V08 → V09 → V10 → V11`
+`V01 → V02 → V03 → V04 → V05 → V06 → V07 → V08 → V09 → V10 → V11 → V12`
 
-Current position: **V01-V11 complete; V06.5 and V08.5 routed and closed; the post-V11 numbered freeze is the active current boundary.** Preserve every earlier numbered freeze and both story-local supplemental layers if a later numbered volume is admitted.
+Current position: **V01–V12 source-facing analysis complete; V06.5/V08.5 retain their routed historical placement. V12 source-run certification and publication use the completion audit’s exact gate receipt.** Preserve every earlier numbered freeze and both story-local supplemental layers if a later numbered volume is admitted.
 
 Volumes V06.5 and V08.5 are inside the source lock but outside that simple integer-numbered chain. V06.5 is integrated as a publication-order supplement after V06 with story-local diegetic placement; only its tenth unit directly advances the post-V06 state. V08.5 is integrated after V08 as a mixed-chronology supplement; none of its units advances beyond the V08 endpoint, and its parallel/adapted units remain segregated.
 
@@ -347,29 +377,29 @@ Do not use side-story evidence retroactively to rewrite earlier predictions.
 
 ## 8. Work order
 
-The [analytical document spine and execution inventory](08%20Audits%20and%20Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md) now records R01–R03 complete under the [longitudinal reconciliation audit](08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md). The six-owner input spine is ready. The owner subsequently supplied and authorized integration of the cloud-authored Fumiya and Hinami monographs. Their local roles complete R04 under the [Fumiya integration review](08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) and [Hinami integration review](08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md); Kikuchi’s and Mimimi’s supplied monographs complete R05 under the [Kikuchi review](08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) and [Mimimi review](08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md); the remaining character and synthesis work stays with the separate literary session. Specialist scope/completion, cross-specialist convergence and full-series readiness are not promoted by the input pass.
+The [analytical document spine and execution inventory](08%20Audits%20and%20Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md) now records R01–R03 complete under the [longitudinal reconciliation audit](08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md). The six-owner input spine is ready. The owner subsequently supplied and authorized integration of the cloud-authored Fumiya and Hinami monographs. Their local roles complete R04 under the [Fumiya integration review](08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) and [Hinami integration review](08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md); Kikuchi’s and Mimimi’s supplied monographs complete R05 under the [Kikuchi review](08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) and [Mimimi review](08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md); the remaining character and synthesis work is authorized within the current continuous campaign, after the V12 source gate. Specialist scope/completion, cross-specialist convergence and full-series readiness are not promoted by the input pass.
 
 Current remediation order:
 
 1. **completed R01:** reconcile the six cumulative owners with the effort spine and current map;
 2. **completed R02–R03:** independently verify all twelve indexed source queues and the attested voice/register/key-terms ledger;
-3. **completed R04–R05:** Fumiya, Hinami, Kikuchi and Mimimi pass their local monograph roles; next undertake R06 scope adjudication and deepening for Tama, Mizusawa and Yuzu; retain all four reviewed studies for later convergence;
-4. build Tomozaki/Hinami, Tomozaki/Kikuchi, and Tomozaki/Mimimi relationship syntheses plus the mandatory thematic specialists;
-5. perform adversarial claim/locator and cross-specialist convergence audits;
-6. substantially revise the full-series synthesis last;
-7. run the literary validation/release audit;
+3. **completed individual R04–R06 and supporting roles:** seven monographs, eleven B dossiers and the C/D/group companion pass their declared local contracts; retain every individual/shared owner for convergence;
+4. **completed local R07–R09 roles:** the three primary dyads, ensemble/coequal Mimimi–Tama and all seven mandatory thematic studies have independent acceptance;
+5. **completed R10 at declared audit scope:** adversarial claim/locator, character/ledger, secondary-omission and cross-specialist convergence checks pass under the durable convergence audit and evidence/review packet; preserve every source OPEN;
+6. **completed R11 at independent integrated-argument scope:** the substantially revised full-series synthesis is current through V12; root separately records STABILIZED after the five architecture conditions;
+7. **NEXT R12:** run the literary validation/release audit; stabilization and R11 acceptance are not release;
 8. consider derived reconstruction models only after the literary corpus passes.
 
-If a later numbered volume is admitted before remediation finishes, revise the source lock, preserve all existing freezes, stage the next pre-prose freeze from V11 before source access, and then update every affected cumulative layer. New source work does not erase the remediation dependency chain.
+If a later numbered volume is admitted before remediation finishes, revise the source lock, preserve all existing freezes, stage the next pre-prose freeze from the then-current accepted boundary before source access, and then update every affected cumulative layer. New source work does not erase the remediation dependency chain.
 
 
 ## 9. Current abstentions
 
-At the current V11 boundary this project deliberately does **not** claim:
+At the V12 boundary this project deliberately does **not** claim:
 
-- a definitive ending or post-V11 state for Tomozaki, Hinami, Mimimi, Tama, Kikuchi, or any other character;
+- complete future biographies for Tomozaki, Hinami, Kikuchi, Mimimi, Tama or other characters beyond the depicted local ending;
 - that the birthday trip saves, cures, diagnoses, permanently changes, or obtains full access to Hinami;
-- that Hinami accepted Tomozaki's help, resumed coaching, forgave unauthorized disclosure, or authorized anyone else to know her history;
+- resumed coaching/presidency, complete forgiveness of unauthorized disclosure, or blanket authority to know/represent Hinami's history from her local uptake;
 - that `NO NAME` is Hinami's complete true self or that spontaneous affect is necessarily more authentic than controlled affect;
 - that Nagisa intentionally died, died only by accident, experienced a named medical event, left a note, or disclosed intent;
 - a harmonized V10/V11 school-year alignment, precise date, location, bullying sequence, legally responsible actor, or complete family response to Nagisa's death;
@@ -378,8 +408,8 @@ At the current V11 boundary this project deliberately does **not** claim:
 - that Hinami's permanent uncertainty can be resolved by analyst inference;
 - that the three Found mugs are definitively for all three sisters or establish a memorial ritual;
 - that the family video, Yoko's language, or Nagisa's death supplies a single sufficient cause of Hinami's present personality;
-- that Yoko's private practice, vocabulary, or affirmational household establishes a religion, cult, diagnosis, or abusive intent;
-- that Hinami's withdrawal is permanent, that Tomozaki's intervention cures her, or that the proposed collective narrative project has been executed or consented to;
+- that Yoko's now-explicit prayer room identifies a named religion, cult, diagnosis, complete doctrine or abusive intent;
+- that Hinami's local return is a permanent cure, full routine, or retroactive consent to the now-executed collective story project;
 - that Tomozaki's disclosure to Mizusawa was authorized, harmless, necessary, vindicated by outcomes, or ethically complete;
 - that specialness, love, trust, or willingness to bear responsibility transfers ownership of another person's secret;
 - that Tomozaki is romantically in love with Hinami, permanently non-romantic toward her, jealous of Mizusawa, or destined to pair with either girl;
@@ -389,7 +419,7 @@ At the current V11 boundary this project deliberately does **not** claim:
 - that Rena has durably reformed or respects consent, relationship, age, message, or contact boundaries because Tomozaki removes her touch and Kikuchi objects;
 - that Mizusawa's delayed opportunity is withdrawal, surrender, or a terminal pursuit rule;
 - that Yuzu's facilitation is costless or establishes her absorber limit;
-- that Konno or Akiyama acknowledged harm, offered restitution, or adopted durable accountability;
+- that Konno supplies her own apology, that Akiyama/group’s actual brief V05 apology establishes full responsibility accounting, or that either actor offers restitution or adopts durable accountability;
 - that the commissioned game is commercially licensed or distributable beyond the described private use;
 - that the promotional barter proves professional status, sponsorship income, sustainable economics, advertising compliance, or a viable career;
 - that the three-month follower promise succeeds or the agreement has adequate written and termination protections;
@@ -402,12 +432,17 @@ At the current V11 boundary this project deliberately does **not** claim:
 - that relationship-as-coauthored-practice, care-as-disruption, or form-as-medium is universally correct;
 - that V08.5 reader knowledge is automatically available to numbered-volume actors;
 - a PACTRIH score, comparative-ethics placement, or adaptation comparison;
-- a complete series source boundary beyond V11;
-- that the four individual monograph passes complete the other three character candidates, exhaust every meaningful character, require monographs for supporting figures, open the aggregate specialist gate, or make a global character-enrollment decision; or
-- any V12+, adaptation, translation, reception, or external-authority conclusion.
+- any admitted source beyond V12 and the two separately routed supplements;
+- that the seven individual monograph passes exhaust every meaningful character, complete B/C representation, open final-synthesis readiness, require full monographs for supporting figures or make a global enrollment decision; or
+- any V13+, adaptation, translation, reception, or external-authority conclusion;
+- an actual final exhibition match/result, resolution of the earlier 31-frame motive, Nagisa’s authenticated last voice, or a future career/publication outcome from the afterword.
 
 Those claims require later source-grounded work.
 
 ## 10. Current next action
 
-**R01–R05 are complete at their declared scopes. The separately reserved literary session should adjudicate the R06 character scopes before relationship/thematic convergence. Use all four reviewed monographs and their bounded cumulative additions alongside the six-owner spine. Aggregate specialist completion and the full-series gate remain unpassed. No broad primary-source reread or new source admission follows.**
+**V12 is validated, published and owner/CI-integrated through PR 288; PR 289 integrates the apology correction and publication receipt. The fourteen-witness coverage/scope audit passes at its declared gap-finding scope, and all seven individual monographs pass through V12, including R06 A decisions for Tama/Mizusawa/Yuzu. The eleven B accounts, actual C/D/group companion and three primary dyads now pass independent local literary review and are installed in this authored tree. The R08 ensemble/coequal Mimimi–Tama and all seven R09 themes now also pass their separate local contracts. The R10 audit and evidence/review packet now accept their declared convergence scope. The materially revised R11 integrated argument now passes independent review, and root separately records the five-condition STABILIZED architecture decision. Continue with R12 literary validation/release. Derived models remain blocked until actual literary release and then require separate evidence-sufficiency and validation. Their exact-head publication remains separate. Sixty unknown coverage cells remain unknown. The completed/NONE source-run fields admit no further source; global discovery/capability outputs and formal terminal sealing retain their separate owners.**
+
+**R12 checkpoint before the index-repair authorization:** The V12 release audit/version manifest record PASS only for their declared local semantic, source-preservation, backward-retrieval and live-generation checks. Literary release remains PENDING: the actual earlier 64-path index preflight reported only the stale `CHARACTER_ANALYSIS_INDEX.md`; its exact three-marker repair remains outside the authorised scope, and the expanded final R12 index still requires validation. These findings do not grant a waiver, publication/main-integration pass or model authority. Derived models remain blocked until actual literary release. The integrating agent separately prepares the whole-corpus path/validation manifest; its actual allowlist and repository results must be bound when available.
+
+**Current publication preparation after owner authorization (2026-10-23):** The owner authorized a narrowly scoped repair after a fresh unchanged-index check. The official index generator removed exactly three obsolete provisional-authority markers for Yuzu, Mizusawa and Tama; no registry, path, anchor, coverage or other index content changed. The earlier failed64/67-path checks remain dated failures. Continue with the corrected68-file candidate:67 project paths plus a separately identifiable one-file generated-index repair commit. Required final author preflight, normal publication/readback, exact-head audit, owner/CI main integration and intentional31-version literary release remain pending. Derived models remain blocked until actual literary release.

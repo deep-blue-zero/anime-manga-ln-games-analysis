@@ -1,0 +1,3070 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_INPUT_AND_AUTHOR_SCOPE_RECEIPT_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Neru",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+    "bytes": 50803,
+    "sha256": "cfbc956ac44a5fab3c754ae68414ef1b109a975641c315c0e6e6155a191da313",
+    "git_blob_oid_of_actual_bytes": "463aedf90824518944278090af3ec8f1ce662dbb",
+    "lines": 924
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_PHASE3_NERU_SOURCE_AND_AUTHOR_SCOPE_V1",
+    "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_RECEIVING_PENDING",
+    "created": "2026-10-10",
+    "package": "P3-CHAR-NERU-NEL",
+    "candidate": "P3-F124",
+    "dated_route": "P3-A079",
+    "literal_identity": "BA_PERSON_NERU",
+    "variant_routes": [
+      "10008",
+      "10026",
+      "10111"
+    ],
+    "main_comparator": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "declared_source_snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+    "HEAD_at_binding": "1dc2092095ed74ee743971f1f274b30cb291d939",
+    "root_worktree_distinction": "Seventeen enumerated analytical/control sources verified against c1, sixteen also byte equal main; architecture1.12 has unchanged11sections against main1.11. C05/C06 are separately exactbound currentROOTworktree scope controls, not c1/main comparisons. OthermutableROOTmetadata excluded.",
+    "modern_source_pin": {
+      "repository": "electricgoat/ba-data@jp",
+      "commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "generation": "BA_REFRESH_20260928T032248159554Z",
+      "parser": "0.2.0",
+      "historical_eden_checkpoint_witnesses": "Historical cbe3fd source pin retained by owners, not silently recertified by this author"
+    },
+    "original_producer_provenance": "Accepted small analytical owners retain their own historical source pins. Current byte equality does not recertify all producer fields against the modern pin.",
+    "inputs": [
+      {
+        "source_id": "C01",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_count": 52261,
+        "line_count": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "worktree_content_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "declared_c1_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "main_blob_oid": "685661b716fd0032997883efeb294425b0816c18",
+        "main_sha256": "e5e0c9794fdb9664a61110eb002afc75011b75e49ab5965ad8808231455cd7cd",
+        "main_byte_count": 51287,
+        "same_c1": true,
+        "same_main": false,
+        "inspected_scope": "319–344 exact eleven-section mature character monograph architecture",
+        "receiving_records": [
+          "17488f",
+          "e06654",
+          "2c2f81"
+        ],
+        "custody_credit": "CONTROL_SCOPE_RECEIVING",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "C02",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "byte_count": 53414,
+        "line_count": 840,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "worktree_content_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "declared_c1_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "main_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "main_sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "main_byte_count": 53414,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "327–379,485–509,606–639 relevant complete-story, audience/choice, comparison and counterreading requirements",
+        "receiving_records": [
+          "85dec8"
+        ],
+        "custody_credit": "CONTROL_SCOPE_RECEIVING",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "C03",
+        "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+        "byte_count": 79178,
+        "line_count": 354,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "worktree_content_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "declared_c1_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "main_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "main_sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "main_byte_count": 79178,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "31–44 all 14 literal gap registrations and OPEN boundaries; G13–14 recovered separately",
+        "receiving_records": [
+          "757011",
+          "f0f49c",
+          "2c2f81"
+        ],
+        "custody_credit": "CONTROL_SCOPE_RECEIVING",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "C04",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+        "byte_count": 19463,
+        "line_count": 113,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "worktree_content_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "declared_c1_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "main_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "main_sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "main_byte_count": 19463,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Previously received complete current Cycle008 argument 113 lines; current 3940 contextual admission supersedes producer pending intake without adding primary credit",
+        "receiving_records": [
+          "Frozen Trinity V1 complete control receipt"
+        ],
+        "custody_credit": "CONTROL_SCOPE_REUSE",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "G12",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1201_1203_DEEP_READING.md",
+        "byte_count": 28415,
+        "line_count": 172,
+        "sha256": "7878d5a7517dfad383ffd92f175d48f4ce5052afc332956122f396dc6209b32a",
+        "worktree_content_blob_oid": "8d0422d805814d9148746b4c2f2ad9ab606b7038",
+        "declared_c1_blob_oid": "8d0422d805814d9148746b4c2f2ad9ab606b7038",
+        "main_blob_oid": "8d0422d805814d9148746b4c2f2ad9ab606b7038",
+        "main_sha256": "7878d5a7517dfad383ffd92f175d48f4ce5052afc332956122f396dc6209b32a",
+        "main_byte_count": 28415,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole172-line three-group analytical argument atf2f1eb, including complete endings/contraries/seams.1202 states Akane internal absence-delegation rule, Karin report of prior signing, Asuna acknowledgment and Neru refusal. Historical producer wording formalvalidity is qualified: no shown instrument/legalvalidity/freeNeruassent. Actual1203 jacket accommodation/hair permission, cost/invoice, report of earnings, unacted threatened refusal retained.",
+        "receiving_records": [
+          "f2f1eb"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_GROUP_ARGUMENT_WITH_PRECISE_SIGNING_QUALIFICATION",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "M02",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "byte_count": 33564,
+        "line_count": 257,
+        "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+        "worktree_content_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+        "declared_c1_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+        "main_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+        "main_sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+        "main_byte_count": 33564,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole257-line contextual argument27fd0c(1–135)/971197(136–257EOF), with all relevant public/private comparisons and original source-status/provenance bounds. Whole arc mean argument is not primary replay, familycounts not new admissions; modernCycle008 supersedes earlier queue statements. No borrowing peers feats or automatic eventchronology.",
+        "receiving_records": [
+          "27fd0c",
+          "971197"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_PAVANE_CONTEXTUAL_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "M21",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md",
+        "byte_count": 23039,
+        "line_count": 137,
+        "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+        "worktree_content_blob_oid": "4328e26cd55fbdb65935615c27e85154f7c6867a",
+        "declared_c1_blob_oid": "4328e26cd55fbdb65935615c27e85154f7c6867a",
+        "main_blob_oid": "4328e26cd55fbdb65935615c27e85154f7c6867a",
+        "main_sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+        "main_byte_count": 23039,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole137-line checkpoint at0aa121. Genuine C&C assignment, Alice detaineddecoy and coalition tacticalforecast failures, Karin fire/Akaneescape/Asunaintervention/Yuukareserves, withdrawal/report, Nerutest, repaired-body appraisal/accident report and temporaryprize outcomes retained. Historicalcbe3fd producerpin not recertifiedmodern primary; no licensed detention/noharm/fulllegalrepair invented.",
+        "receiving_records": [
+          "0aa121"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_PAVANE_C001_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "M22",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+        "byte_count": 22309,
+        "line_count": 125,
+        "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+        "worktree_content_blob_oid": "edc03f8b5d5c71d7c4914187845a20b6e0941376",
+        "declared_c1_blob_oid": "edc03f8b5d5c71d7c4914187845a20b6e0941376",
+        "main_blob_oid": "edc03f8b5d5c71d7c4914187845a20b6e0941376",
+        "main_sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+        "main_byte_count": 22309,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole125-line checkpoint300ee6. Distributed12–25 coalitionauthors, elevator21 enactment and exactAkane correction ofRio soleSenseiattribution atphysicalL44 freshly verified4808c7, consequential sourcefirewall79–103 at8e9651. Alice socialreturn/Nerudischarge/Toki uneasytolerance/Rio resignationapologydisappearance distinct from clearedcombat/fullforgiveness/accountability. Historicalcbe3fd producerpin retained, no newprimary technicaloutcomeproof.",
+        "receiving_records": [
+          "300ee6",
+          "8e9651",
+          "4808c7"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_PAVANE_C002_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E06",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 40613,
+        "line_count": 230,
+        "sha256": "a79b9d10a02fc32e3a2b6aed115e9b0e5cbba92eee4d118ef41c1c42c28a6b82",
+        "worktree_content_blob_oid": "ccc7f310da572e77d3411dba7ca445fe6abb8646",
+        "declared_c1_blob_oid": "ccc7f310da572e77d3411dba7ca445fe6abb8646",
+        "main_blob_oid": "ccc7f310da572e77d3411dba7ca445fe6abb8646",
+        "main_sha256": "a79b9d10a02fc32e3a2b6aed115e9b0e5cbba92eee4d118ef41c1c42c28a6b82",
+        "main_byte_count": 40613,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole230-line historicalaccepted checkpoint received50de7d(1–100)/0a980e(101–230EOF). All11 literary meanings, relativechronology, fifteenactor contrasts, localroles, alternatives and fullendings received. Producerdraft_noncurrent/pendingheaders qualify throughE06Ccurrentowner/Cycle008; not standaloneadmission or newprimary/raw/performance/independent credit. C4failure/admission, changingroomprivacy, resistedcaptive/peerintervention, reportedcustody/unprintedrescue and missinguniforms retained.",
+        "receiving_records": [
+          "50de7d",
+          "0a980e"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_HISTORICAL_ANALYTICAL_ARGUMENT_PAIRED_CURRENT_OWNER",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E06C",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "byte_count": 16448,
+        "line_count": 103,
+        "sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091",
+        "worktree_content_blob_oid": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465",
+        "declared_c1_blob_oid": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465",
+        "main_blob_oid": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465",
+        "main_sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091",
+        "main_byte_count": 16448,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole103-line current maintained eleven-object comparative owner throughEOF at50de7d. CurrentCycle008 adoptedWITHLIMITS front governs inheritedproducerpendingstates. Whole coherent progression/contraries/actorseams/endings, all14OPEN; no newprimary/independence or legal/medical custody outcome.",
+        "receiving_records": [
+          "50de7d"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_CURRENT_SHIP_ANALYTICAL_OWNER",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E25",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 37786,
+        "line_count": 169,
+        "sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9",
+        "worktree_content_blob_oid": "d42104a33d911bddec431a94c5c030e2834f2e7d",
+        "declared_c1_blob_oid": "d42104a33d911bddec431a94c5c030e2834f2e7d",
+        "main_blob_oid": "d42104a33d911bddec431a94c5c030e2834f2e7d",
+        "main_sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9",
+        "main_byte_count": 37786,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole169-line sixteen-object currentaccepted argument641dfb(1–85)/bd66dd(86–169EOF). Used only independentpeer/institution comparison: Toki friendshipchoice, Neru praise/apology/suspects/evidence report with futureValkyrie transfer, GDDwork and actuallateplay, Akiraescape/crownreturns/fees lost. No directAkaneact from sharedclub/namecoverage; no conviction/fullrepair/purchasedfuturegame invented.",
+        "receiving_records": [
+          "641dfb",
+          "bd66dd"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_EVENT_ARGUMENT_PEER_CONTEXT_ONLY",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "C05",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "byte_count": 461112,
+        "line_count": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "worktree_content_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+        "snapshot_comparison": "NOT_APPLICABLE_CURRENT_ROOT_WORKTREE_SUCCESSOR_CONTROL",
+        "inspected_scope": "Current ROOT worktree scope/summary/sectionscounting rule and onlyNeru/Noa exacthomes personallyreceived30f324/f0250f.355requiredhomes/29substantialsections/zero completioncredit/noauthorfreeze; notwhole fullcastsemantics or c1/mainpublishedfile.",
+        "receiving_records": "30f324/f0250f",
+        "custody_credit": "CURRENT_ROOT_WORKTREE_SCOPED_REQUIRED_HOME_CONTROL",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "C06",
+        "repository_relative_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+        "byte_count": 21833,
+        "line_count": 289,
+        "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+        "worktree_content_blob_oid": "195739a98c7b439b48bfd8e973282e941a45d8e1",
+        "snapshot_comparison": "NOT_APPLICABLE_CURRENT_ROOT_WORKTREE_SUCCESSOR_CONTROL",
+        "inspected_scope": "Current ROOT worktree status/requiredscope/N355/29namedsections/zero source-literarycredit/all14OPEN/noquarter/canonicalderivativeowner personallyreceived30f324/f0250f. Notwholehistory/exactROOTreviewfields and not c1/main analyticalclaim.",
+        "receiving_records": "30f324/f0250f",
+        "custody_credit": "CURRENT_ROOT_WORKTREE_SCOPED_ACCEPTANCE_CONTROL",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "N01",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_NERU_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "byte_count": 27704,
+        "line_count": 311,
+        "sha256": "f8de600c9349986e51101217f1c04d4370a32b5aeb8811636d093c310a86e762",
+        "worktree_content_blob_oid": "f9ea931be3eb9f753a6c81cd094d95ef5b83fc1d",
+        "declared_c1_blob_oid": "f9ea931be3eb9f753a6c81cd094d95ef5b83fc1d",
+        "main_blob_oid": "f9ea931be3eb9f753a6c81cd094d95ef5b83fc1d",
+        "main_sha256": "f8de600c9349986e51101217f1c04d4370a32b5aeb8811636d093c310a86e762",
+        "main_byte_count": 27704,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Personally complete declared substantive/adoption scope182–311EOF, at a10e85 and14bfc4. All12BOND/12wholeMomo/fivewritten meanings and actual/failing codas. Metadata1–181 not claimed fresh whole receiving. Historical producer pending credit/status qualified by front182–184 and currentCycle008.",
+        "receiving_records": "a10e85/14bfc4",
+        "custody_credit": "PERSONALLY_COMPLETE_DECLARED_PRIVATE_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E21",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 28870,
+        "line_count": 157,
+        "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+        "worktree_content_blob_oid": "59a74816f84bbcc362ffc3684016ad713b930372",
+        "declared_c1_blob_oid": "59a74816f84bbcc362ffc3684016ad713b930372",
+        "main_blob_oid": "59a74816f84bbcc362ffc3684016ad713b930372",
+        "main_sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+        "main_byte_count": 28870,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole157-line sixteen-object current accepted analytical argument f665fe, all endpoints/contraries/actor seams/provenance. Neru004mustache approval is ordinary response, not personal causal credit for every later victory;UNKNOWNgreeting retained.",
+        "receiving_records": "f665fe",
+        "custody_credit": "PERSONALLY_COMPLETE_CURRENT_COALITION_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E43",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 26925,
+        "line_count": 160,
+        "sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+        "worktree_content_blob_oid": "9f210324ba71ed86e21f112b0956f2c371c5f43a",
+        "declared_c1_blob_oid": "9f210324ba71ed86e21f112b0956f2c371c5f43a",
+        "main_blob_oid": "9f210324ba71ed86e21f112b0956f2c371c5f43a",
+        "main_sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+        "main_byte_count": 26925,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole160-line nine-object current accepted analytical argument8ffd00. Neru004/006directness,006refusal of simple-minded label,007refusal of isolated responsibility/proposed operation notperformed,008reportedhandover andno-forcefiniteRio stay; compensationofferednotpaid,weeknotobserved/legalclosureunproved. Literal007u46/47 actor seam and currentCycle008 distinct from producerpending.",
+        "receiving_records": "8ffd00",
+        "custody_credit": "PERSONALLY_COMPLETE_CURRENT_EXPO_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "L67",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_067_80000067_DEEP_READING.md",
+        "byte_count": 7805,
+        "line_count": 73,
+        "sha256": "fcbc7f4d853a04feb2169fda2db232ff1a7a0f7fc63c4ea8562f749f3a7ec61c",
+        "worktree_content_blob_oid": "3c8d5666e2e27989ec35f2c0da87d49e4522464d",
+        "declared_c1_blob_oid": "3c8d5666e2e27989ec35f2c0da87d49e4522464d",
+        "main_blob_oid": "3c8d5666e2e27989ec35f2c0da87d49e4522464d",
+        "main_sha256": "fcbc7f4d853a04feb2169fda2db232ff1a7a0f7fc63c4ea8562f749f3a7ec61c",
+        "main_byte_count": 7805,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole historical gift067 literary argumentf4d498:31units/fourgroups/50rawrows are attributed producer scope, not authorprimary credit. Wholeendings,nonmonotonic32/missing15label, designproposal notcurrentimage, JP/KRgood-versusordinarytaste/gaze/dragon differences andactualsharedeating retained. Paired currentCycle008/E10 assignedmeaning.",
+        "receiving_records": "f4d498",
+        "custody_credit": "PERSONALLY_COMPLETE_HISTORICAL_GIFT_ARGUMENT_QUALIFIED_BY_CURRENT_AUTHORITY",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E10",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 211962,
+        "line_count": 1501,
+        "sha256": "880f77f0a0027aabe86b4fcc556e93a96c8e2c7320ae857162aac010a771343e",
+        "worktree_content_blob_oid": "c2777a962c37b5aad4f595e61ab057dbb227f386",
+        "declared_c1_blob_oid": "c2777a962c37b5aad4f595e61ab057dbb227f386",
+        "main_blob_oid": "c2777a962c37b5aad4f595e61ab057dbb227f386",
+        "main_sha256": "880f77f0a0027aabe86b4fcc556e93a96c8e2c7320ae857162aac010a771343e",
+        "main_byte_count": 211962,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Personally bounded context1–42,111–118,668–675at8e9651; exact067routeL117/raw80000067 andNerumeaningL674. HistoricalproducerqualifiedCycle008. Notwhole102-objectanalytical body orannex and no freshothergift credit.",
+        "receiving_records": "8e9651",
+        "custody_credit": "SCOPED_GIFT_CONTEXT_AND_ROUTING",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "F00",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "byte_count": 49292,
+        "line_count": 452,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "worktree_content_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+        "declared_c1_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+        "main_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+        "main_sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "main_byte_count": 49292,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Previously personally complete Final contextual argument at firstTrinitytrio, reused. Fresh exactNeru/C&C locator queryc3a32f receives169/229/235 andboundedcontextL140/145: collectivearrival toToki andwanted-life comparison, not individually reconstructedNeruFinal action orprimary replay.",
+        "receiving_records": "Frozen first Trinity trio complete Final receiving/c3a32f",
+        "custody_credit": "PRIOR_COMPLETE_FINAL_ARGUMENT_WITH_FRESH_SCOPED_LOCATORS",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      }
+    ],
+    "historical_detail_inputs": [
+      {
+        "source_id": "H01",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_BOND_10008_E002_PAIRED_DEEP_READING.md",
+        "byte_count": 6758,
+        "line_count": 95,
+        "sha256": "94d92eda6e650465d5860e25527c4a6342f2e77c482a4410dec6a16b569c29d4",
+        "content_blob_oid": "107896c47adbe0a40d0b2bdb1f91ef3a5c2a3ebf",
+        "receiving_records": [
+          "c5c144"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10008:002 wholeMomo100080010, canfailure/repeatedjoy;actualhelp/satisfaction,latearrivalunresolved;u3–41/choices1–5",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H02",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_BOND_10008_E003_PAIRED_DEEP_READING.md",
+        "byte_count": 6866,
+        "line_count": 95,
+        "sha256": "4f85787e8182fc18840511007820e6794ff901511f7540ef6d543c14533d4846",
+        "content_blob_oid": "73d3c245e5b6ad6fc4d168b1158387ddae673f00",
+        "receiving_records": [
+          "c5c144"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10008:003 wholeMomo100080090, two launchesoneillness;medicineobjection/requeststay/badporridgethanks;actualsleepnocure;u1–65/whole658–667",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H03",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_BOND_10008_E005_PAIRED_DEEP_READING.md",
+        "byte_count": 7582,
+        "line_count": 94,
+        "sha256": "963e9928d5384f7751d35c76923ff17f169eb92f9a18479b567416430259be5f",
+        "content_blob_oid": "aa73027dc50933153ab92d3073f425fc69737773",
+        "receiving_records": [
+          "c5c144"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10008:005 wholeMomo100080150, explodeddoor/imaginednursingonce/allchoice7eatingmandatory/localquickrecovery; nativeinwardseamsattributednotrepaired;u2–51/choices1–8",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H04",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_BOND_10008_E006_PAIRED_DEEP_READING.md",
+        "byte_count": 7752,
+        "line_count": 94,
+        "sha256": "efcbdb89b2db4fd9237ecbe5c1f5760db60b0bf89cd7e47d9c1a3e0e5d4d8072",
+        "content_blob_oid": "eeb31c3e73eb5da1f70735200031d2e1a24db5f3",
+        "receiving_records": [
+          "4d6d09"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10008:006 wholeMomo100080190, enemyknowledge/trapnotingested/desiredfoodwigrefused/timelyarrivalreport; inheritedmerchant/insultnativebounds,noheardshot",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H05",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_BOND_10008_E008_PAIRED_DEEP_READING.md",
+        "byte_count": 6628,
+        "line_count": 95,
+        "sha256": "860366c04fb506059bedfef927caa4ab795f2fa034d5a9b4c2d3d2ab0d64be99",
+        "content_blob_oid": "d20b5c448b501aa6cccd5e9b93caba9b71766be5",
+        "receiving_records": [
+          "4d6d09"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10008:008 wholeMomo100080280, selectedroofcompany/handlocationunprinted/timednarratorprojection notdirectschoolaffection/deaththreatnoassault",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H06",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_BOND_10008_E020_PAIRED_DEEP_READING.md",
+        "byte_count": 6658,
+        "line_count": 95,
+        "sha256": "f9e08d7830466c3e6c4d33461dabef909617e0d364d94d587b62398c0d6ed321",
+        "content_blob_oid": "088eca9141e18b00c59117406da5549bf508a7d8",
+        "receiving_records": [
+          "4d6d09"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10008:020 wholeMomo100080350, jacketcoolpreference/twostudentsfear/nohiddenmotiveforced/matchingproposalfails/searchunprinted;u4–68/choices1–5",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H07",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_BOND_10026_E002_PAIRED_DEEP_READING.md",
+        "byte_count": 7434,
+        "line_count": 95,
+        "sha256": "862a1baec223582a02fa84566694f757629b4039a07ea5bbcc40abdc7fec72f2",
+        "content_blob_oid": "e5cd2f45f24dfe48a6f11a0a90d3c22eb9af8a51",
+        "receiving_records": [
+          "187cbf"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10026:002 wholeMomo100260010, unviewedphoto/mistakenrecipient/deletiondemandnotshown/leave-wait-returnprivacy/conditionalphotooffer;u17/28–54",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H08",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_BOND_10026_E003_PAIRED_DEEP_READING.md",
+        "byte_count": 7249,
+        "line_count": 95,
+        "sha256": "44a5a6a3fd3256deff8d0c0000279523cf8484bd8168faa3396f2894ee2c0d8b",
+        "content_blob_oid": "7ef1b42549cd0f5ebdba59faf873661004a75d3e",
+        "receiving_records": [
+          "187cbf"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10026:003 wholeMomo100260130, childlabelrefusal/withdrawalpressure/actualbandage/thanks/burden380/reassurance390/timedmodebound;u27–54",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H09",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_BOND_10026_E005_PAIRED_DEEP_READING.md",
+        "byte_count": 7047,
+        "line_count": 95,
+        "sha256": "ea2175e5efcc315bef82472ce2754b871ed7e9fafa3d217f42dba6eb06c0a1b8",
+        "content_blob_oid": "432bfc01ab99372743b562bc3634fa703f4e9752",
+        "receiving_records": [
+          "187cbf"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10026:005 wholeMomo100260270, personallywearingnotmission/reportedheeladaptation/spectacleobjection/praise/actualworkstudyandplayuntilnight;u14–47",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H10",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_BOND_10111_E002_PAIRED_DEEP_READING.md",
+        "byte_count": 7745,
+        "line_count": 95,
+        "sha256": "0b2e4d4f5dd0b6307caa00c86a09046566b706913925b7c471e0aacbee0d3b49",
+        "content_blob_oid": "43444f3617f0d6c14e0f950abc8e9b670134443f",
+        "receiving_records": [
+          "8bf9a8"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10111:002 wholeMomo101110010, unnamedaccountant/recognitionwithoutidentityreplacement/jacketpref/classroomfuture/funactual; inheritedgangsteractorseamsnoactualnewbeating",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H11",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_BOND_10111_E003_PAIRED_DEEP_READING.md",
+        "byte_count": 7577,
+        "line_count": 95,
+        "sha256": "3d19f3832fa205ba3ee677e25bd68a9fc23971ee6ba51387902365c1c25ea9e5",
+        "content_blob_oid": "ab2d6b9bd904c935cd558d7c1d8100b09a293417",
+        "receiving_records": [
+          "8bf9a8"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10111:003 wholeMomo101110110, chosentoykept/pondlinger/railrescue/requestrelease/askedcompanionfun/narratedsleep/refreshed/shoulderreciprocitytoolate;u64–112",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H12",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_BOND_10111_E005_PAIRED_DEEP_READING.md",
+        "byte_count": 7756,
+        "line_count": 94,
+        "sha256": "5f94098aff5c4b31ccc3a245e32f383521d02652435414121b48b4ba77e9b3a2",
+        "content_blob_oid": "c6f469229dab71b61ade638bf7aea82528dbe02f",
+        "receiving_records": [
+          "8bf9a8"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10111:005 wholeMomo101110190, lastuniformday/localjacketreturn/threecoasters/allowedrest/solocarousel/headband-sweetsmodes/forcefulfuturecompanythen390–470explicitdeclinepermission",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H13",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_VARIANT_10008_WRITTEN_DATA_DEEP_READING.md",
+        "byte_count": 7272,
+        "line_count": 95,
+        "sha256": "5bda53b686aacfafcd1c13cab969e73aa32f787768219f2582602d700752d583",
+        "content_blob_oid": "aba42af846aafc7f136f7fe6b0182e06d0dcb91e",
+        "receiving_records": [
+          "28521d"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10008 completeprofile/allwrittenrows1175–1203; strongestPROFILEclaim/wholeordinaryrange/directwrittenschoolaffectionnotrepairbondnarrator; fixedage/noadultreplyperformed",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H14",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_VARIANT_10026_WRITTEN_DATA_DEEP_READING.md",
+        "byte_count": 7301,
+        "line_count": 95,
+        "sha256": "5f5322ea44aa5a7f1fc4a365ef69419a79b7e3c905a233da4faface7012d5b74",
+        "content_blob_oid": "7e69496640119164cd562e92bfb255c52342e699",
+        "receiving_records": [
+          "28521d"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10026 completeprofile/allwrittenrows2725–2761; generalizedmissionreluctance/positivepersonalbondcontext/jacketcondition/earboundary/birthdaydenial/bandagereliance; UI notwholecareenactment",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H15",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_VARIANT_10111_WRITTEN_DATA_DEEP_READING.md",
+        "byte_count": 7237,
+        "line_count": 95,
+        "sha256": "a8179186ffce50aae9527d6865b979f0a2d9f5d9f6fcf957af0a413d3ac0818a",
+        "content_blob_oid": "f027fe14469ec482447397a4a8cac353f066fb91",
+        "receiving_records": [
+          "28521d"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 10111 completeprofile/allwrittenCafe/Lobby/seasonal/weapon/special;EXPOguard-guidereport/secretmissionhedged/docilityexplicitdenial/temporaryordinaryroles/declaredseniorjunior/companywants",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H16",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_COSTUME_1900901501_CHARACTER_10026_WRITTEN_DATA_DEEP_READING.md",
+        "byte_count": 7150,
+        "line_count": 97,
+        "sha256": "bd6b80a7912a7bc9dc7ff12aedb35ec73f7989351cd803377aac7ec78148cf1c",
+        "content_blob_oid": "a80e7ad9c2b0009c81ebee1019608ad9979bb975",
+        "receiving_records": [
+          "8d86b4"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 1900901501:10026 emptyprofile/all36rows,806/10806fifteenfullrows plus900806sixlobbyonly;oneobject/fullpartialrepeatnotthreejobs/purchase;workencouragementordinary",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "H17",
+        "artifact_relative_to_visualization_root": "NERU29_EXACT18_PUBLIC_HOME_HEADER_ONLY_PREPARATION_20261008_V1_5fe26b73/CURRENT_HEADER_ONLY_DERIVATIVES/BLUE_ARCHIVE_NERU_COSTUME_1900934101_CHARACTER_10111_WRITTEN_DATA_DEEP_READING.md",
+        "byte_count": 6952,
+        "line_count": 97,
+        "sha256": "7b18ee7e623cdf46ecd99d9cd67c7925f76565b598d04677190ef18bd8b52201",
+        "content_blob_oid": "6db83ce668c90b5999e790cf321868eeb30e3523",
+        "receiving_records": [
+          "8d86b4"
+        ],
+        "inspected_scope": "Personally whole historical analytical body throughEOF: 1900934101:10111 emptyprofile/all20rows,843/10843teneach;oneobject/askedcompanionexperience/pokeobjection/playoffer/noretaliationortwoholidays",
+        "current_authority_pair": [
+          "N01",
+          "C04"
+        ],
+        "original_producer_pending_header_retained": true,
+        "ROOT_authorized_consequential_detail_receiving": true,
+        "repository_blob_claim": false,
+        "primary_native_or_performed_credit_added": 0,
+        "independent_review_credit": 0
+      }
+    ],
+    "historical_scope_control": {
+      "artifact_relative_path": "ROOT_FULL_CAST_REQUIRED_HOME_PARTITION_ACCEPTED_V2.json",
+      "byte_count": 364114,
+      "sha256": "0321499803aa4c9f19c5cd8a70fd92558e83636c400dc36afb3015262ad98fe0",
+      "content_blob_oid": "61e8e7e4a9b689de31226b64a4816d8a76c8efa8",
+      "inspected_scope": "Historicalscope/summary/threeAkaneNeruNoahomesonly467366/17a19b; no whole353semantics",
+      "exact_selected_home": {
+        "home_key": "P3-CHAR-NERU-NEL",
+        "kind": "CHARACTER",
+        "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+        "source_responsibility_refs": [
+          "P3-F124"
+        ],
+        "literary_rationale": [
+          "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+        ],
+        "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+        "counts_as_completed": false,
+        "proposed_denominator_entry": true
+      },
+      "current_scope": "ROOT laterrequires355/29;thisunchangedhome remains. NotauthorNfreeze orcurrentwhole355review."
+    },
+    "author_review": {
+      "body": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+      "whole_saved_receiving": "7d6bc7 saved1–84/52fcce85–150EOF;final26/134/146changesactuallyreceivedd396bd",
+      "literary_verdict": "AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS",
+      "thesis": "Strength can control confrontation but not recognition or mutual company; intrinsictastes/directlimits/localrequestrevision coexist with coercion, recipientcosts andunfinishedreciprocity.",
+      "ordinary_wants": "Canchallenge/jacket/wigtemptation/roof/robottoy/pond/rest/rides/outfitplay/giftcooldesign/sharedfood/finitecompany intrinsic, allprivatecodasretained.",
+      "rivals": "Purecombatinstrument/meekchild/idealcare/uniformcoercion/jackettrauma/fixedcostumecure/teachercreatedorromanceonly company tested against positiveandcontraryendings.",
+      "actual_endings": "Failedcanenjoyed;illnesssleepnotcure;repaymentnarratedrecoverynotgeneralmedical;attendancearrivalreport;privacyrespected/deletionunprinted;workplayuntilnight;toykept/pond/railrescue/requestrelease/rest/lateunfulfilledshoulder;permittedcoasterrest/actualdeclinepermission/futureoutingunprinted;Pavanewin/return/discharge;Tokispecificapology;shipcoercion+intervention/missinguniforms;EXPOrefusal/reportedhandover/finiteagreementunpacking.",
+      "signature_precision": "G1202 internalAkaneabsence-delegationstatement/Karinsigningreport/Asunaack/Nerurefusal;noshowinstrument/legalvalidity/freeassent.",
+      "historical_detail_authority": "Whole17pairedwrittenanalyticaldetailpersonallyreceived, authorizedboundednecessarydetail; historicalproducerpending/sourceassertionsretained/currentN01+C008authority nofreshprimary/native/standaloneadmission/performance/independence.",
+      "ROOT_literary_review": "PENDING",
+      "ROOT_adoption": "PENDING",
+      "independent": false
+    },
+    "all_fourteen_gaps": [
+      {
+        "id": "G01",
+        "state": "OPEN",
+        "claim_specific_effect": "Varied twelve pairs/five written objects broaden ordinary range without completing every remaining family or all later released sources"
+      },
+      {
+        "id": "G02",
+        "state": "OPEN",
+        "claim_specific_effect": "Unnamed Seminar accountant not Yuuka identification or her independent council/decision transfer"
+      },
+      {
+        "id": "G03",
+        "state": "OPEN",
+        "claim_specific_effect": "Neru reciprocity not Serika evidence or completion"
+      },
+      {
+        "id": "G04",
+        "state": "OPEN",
+        "claim_specific_effect": "Neru force/care not Hina crisis/ordinary accountability closure"
+      },
+      {
+        "id": "G05",
+        "state": "OPEN",
+        "claim_specific_effect": "No Arius/PS68 complete aftermath repair from Millennium coalition contexts"
+      },
+      {
+        "id": "G06",
+        "state": "OPEN",
+        "claim_specific_effect": "Specific fearful students/peers/company not universal crossschoolfear/trust/completeordinarycast"
+      },
+      {
+        "id": "G07",
+        "state": "OPEN",
+        "claim_specific_effect": "Local temporaryuniform days/invitations/codas/event843onehourearlier not globalcalendar orvariantgrowthladder"
+      },
+      {
+        "id": "G08",
+        "state": "OPEN",
+        "claim_specific_effect": "Gift067numeric suffix/partial806repeat/843repeatcontexts/missingtitle remainliteral;notnewprimaryeventrepetition"
+      },
+      {
+        "id": "G09",
+        "state": "OPEN",
+        "claim_specific_effect": "Timednarrator/inwardquote/choice/unviewedphoto/merchantgangster/seia-Neruactorseams andJP-KR differences explicit"
+      },
+      {
+        "id": "G10",
+        "state": "OPEN",
+        "claim_specific_effect": "No voice/audio/performedpitch/music/imageclothing/giftpixels orheardshot inspected"
+      },
+      {
+        "id": "G11",
+        "state": "OPEN",
+        "claim_specific_effect": "No HoshinoYume notebook/office/deathprovenance closure"
+      },
+      {
+        "id": "G12",
+        "state": "OPEN",
+        "claim_specific_effect": "AcceptedNeru/Nel3variants samefamily;unnamedaccountant/crowd/localroles notforcednewidentities"
+      },
+      {
+        "id": "G13",
+        "state": "OPEN",
+        "claim_specific_effect": "Internaldelegation/signingreport notlegalvalidity/freeassent;medicalclearance/photodeletion/propertyrepair/custody/rescue/uniformreturn/compensation/weekcompletion unproved"
+      },
+      {
+        "id": "G14",
+        "state": "OPEN",
+        "claim_specific_effect": "Profileboasts/UIrowrepeats/pokeproposal/seniorjunior/timedthought/report/futureoffer remain actualwrittenmodes,notuniversaldefaultenactment"
+      }
+    ],
+    "source_recovery": "Freshwholeordinaryprivate/currentPavane/group/ship/art/coalition/EXPO plusqualifiedwhole17historicalpairedwrittenandgift067;adequateacceptedmeaningreusedwithoutprimaryreplay.",
+    "original_primary_credit_added": 0,
+    "performed_credit": 0,
+    "independent_review_credit": 0,
+    "unbound_large_reads_or_hashes": 0,
+    "repository_or_global_writes": 0,
+    "N_frozen_by_author": false,
+    "quarter_claimed": false,
+    "external_handoff": false
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "current_required_home": "P3-CHAR-NERU-NEL",
+  "root_exact_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_NERU_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "historical_author_delivery_attachments": {
+    "NERU_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json": {
+      "schema": "BLUE_ARCHIVE_PHASE3_NERU_CLAIM_AND_ENDPOINT_V1",
+      "status": "AUTHOR_VERIFIED_ROOT_RECEIVING_PENDING",
+      "claims": [
+        {
+          "claim_id": "NE01",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 20,
+          "joined_saved_paragraph": "Neru can dominate a confrontation without controlling how she is recognized or how company becomes mutual. Her power, formidable jacket and rough address are useful and sometimes coercive; they do not explain away her independent liking for the jacket, a failed can challenge, a robot toy, a pond, a rooftop view or a holiday. Across the received public and private arguments, the strongest sustained question is what happens when a leader used to decisive action wants participation whose value depends on another person's response. She sometimes obtains practical help or pleasure, sometimes imposes terms, and sometimes changes a request. These are distinct outcomes rather than a single conversion from threatening agent to harmless child. [N01:222–262; H01–H17; M21; M22; E06/E06C; E43]",
+          "source_locator_expressions": [
+            "N01:222–262; H01–H17; M21; M22; E06/E06C; E43"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Strength/recognition/company cannot be made universal instrument orchildidentity",
+          "directed_recipients_and_agency": "Neru wants and independentcompanions/resistantrecipients",
+          "actual_endpoint_and_unfinished_coda": "Usefulwork/pleasure/pressure andrequestrevision coexist",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE02",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 22,
+          "joined_saved_paragraph": "The private sequence most clearly revises a demand after its apparent scene ending. On the last temporary-uniform outing she presses for future company, while the complete MomoTalk aftermath explicitly permits refusal: 『嫌だったら断って良いからな』. She also extends the invitation beyond the uniform to the same particular companion. That correction is real communicative action. It establishes neither universal consent reform nor the next completed outing. Earlier compulsory eating, a death threat attached to a secret roof, pressure around bandaging and a requested release from a hold remain adverse evidence. The full account must preserve both the change and the conduct it cannot retrospectively repair. [N01:238–258; H12:10111:005, whole thread101110190; H03/H05/H08/H11]",
+          "source_locator_expressions": [
+            "N01:238–258; H12:10111:005, whole thread101110190; H03/H05/H08/H11"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Localdeclinepermissionnotuniversalconsentreform/priorrepair",
+          "directed_recipients_and_agency": "Adultcanrefusefutureinvitation;earlierrecipientlimitsretainforce",
+          "actual_endpoint_and_unfinished_coda": "Actualwholethreadpermission;nextoutingunprinted",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE03",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 24,
+          "joined_saved_paragraph": "Her public relations pose a related problem at a larger scale. In Pavane she tests Alice's capability and later participates in an operation whose knowledge and initiative are distributed among students; in the ship event she helps companions while participating in intimidation and an unwanted pursuit. In the EXPO argument, her refusal to let Rio enlist companions and then exclude them through self-sacrifice is substantive care, and her objection to being dismissed as simple-minded is a substantive boundary. Neither is evidence that she grants every other recipient equal freedom. Strength can make company possible and can constrain it; the literary argument concerns how those uses coexist at exact achieved endpoints. [M21:019; M22:021–025; E06:001–011; E43:006–008]",
+          "source_locator_expressions": [
+            "M21:019; M22:021–025; E06:001–011; E43:006–008"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Strengthnotsolecoalitioncredit oruniversalfreedom",
+          "directed_recipients_and_agency": "Alice/students/Koyuki/Rio/Seia retainindependentchoices",
+          "actual_endpoint_and_unfinished_coda": "Test/victory/shiphelp/EXPOrefusalactual;harm/repairbounded",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE04",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 26,
+          "joined_saved_paragraph": "The thesis therefore gives ordinary life its own weight. A wanted toy is not important only because it softens a fighter, and a quiet pond is not covert training. Those preferences show what she wants from time that work has previously consumed. Her authority and her pleasures illuminate each other without becoming each other's justification. The unfinished offer of a shoulder, a proposed shared day or an unprinted photograph deletion remains consequential even when no civic emergency follows. None is discarded for being low stakes. [H06/H10/H11/H12; H14–H17; E10/L67]",
+          "source_locator_expressions": [
+            "H06/H10/H11/H12; H14–H17; E10/L67"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Lowstakespleasuresnotcovertutility orcompletedfutureplans",
+          "directed_recipients_and_agency": "Toy/pond/shoulder/photo/desiredcompanion experienceintrinsic",
+          "actual_endpoint_and_unfinished_coda": "Wantedshoulderandfutureday notperformed;deletionunprinted",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE05",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 30,
+          "joined_saved_paragraph": "This longitudinal account is a comparison across registered source contexts, not a fabricated global calendar. BA_PERSON_NERU has the accepted Neru/Nel rendering and three positive variant routes; their twelve BOND/whole-MomoTalk pairs and five written objects form the received private responsibility. Two documentary launches lead to the same illness encounter, yielding thirteen launch edges without a thirteenth bond. Invitations, encounters and aftermaths supply local order; temporary uniform days supply their own sequence. Profile EXPO assignments, costume UI bindings, release numbers and event folder order do not establish a universal progression from base to bunny to uniform, or date every scene against MAIN. [N01:214–218/242/278; H01–H17; C03:G07/G08/G12]",
+          "source_locator_expressions": [
+            "N01:214–218/242/278; H01–H17; C03:G07/G08/G12"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "No variantgrowthcalendar/doubledillness/identitymultiplication",
+          "directed_recipients_and_agency": "RegisteredNerufamily/actualdocumentarylaunchscope",
+          "actual_endpoint_and_unfinished_coda": "Localinvitations anduniformsequence;globalcalendarOPEN",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE06",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 32,
+          "joined_saved_paragraph": "The base repertoire already contains play, vulnerability and preference. A cleanup walk becomes a repeated can-kicking challenge that initially fails. A misaddressed request during illness leads to bedside company; bad porridge remains bad in the message aftermath even though she thanks the adult. Repayment care reverses the roles, but explosive entry and mandatory eating compromise its means. On an attendance journey she declines temptations she actually likes in order to reach school; on another day she chooses to share a secret view. A jacket inquiry then elicits her plain account that she likes how it looks. These are different forms of agency within the base route, not traits invented by a later costume. [H01–H06; N01:222/230–238]",
+          "source_locator_expressions": [
+            "H01–H06; N01:222/230–238"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Basealreadyvariednotlatercostumecreatesperson",
+          "directed_recipients_and_agency": "Neruwantscleaning/play/care/view/jacket;adultreceivespressuredcare",
+          "actual_endpoint_and_unfinished_coda": "Canfailure/illnesscompany/forcedmeal/arrivaltime report",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE07",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 34,
+          "joined_saved_paragraph": "Bunny contexts vary as well. Unfamiliar clothing brings a request for practical help, an explicit privacy boundary and a conditional photograph offer. Rehearsal brings heel pain and a conflict over accepting treatment. A later encounter represents wearing the outfit for her own reason rather than the mission explanation generalized in the written profile, and ends in play until night after work and study. The positive personal choice and the profile's generalized reluctance remain source-local evidence; no invented elapsed time is needed to erase either. Her reported adaptation to heels is not proof that all discomfort, gaze or coercion has disappeared. [H07–H09; H14; N01:230/262]",
+          "source_locator_expressions": [
+            "H07–H09; H14; N01:230/262"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Generalprofileandpersonalwearingnotfabricatedtimeline",
+          "directed_recipients_and_agency": "Neruchoicesprivacy/pain/outfit;adultrequestedresponse",
+          "actual_endpoint_and_unfinished_coda": "Actualhelp/playtillnight,reportedadaptationnotuniversalcomfort",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE08",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 36,
+          "joined_saved_paragraph": "Temporary uniform scenes change recognition without replacing the person. Local passersby do not avoid her; gangsters discover the familiar voice and demand that she restore the jacket as a warning. A quiet holiday gives her a chosen robot toy, the pleasure of lingering at a pond previously passed for work, rescue from a mishap, rest and an unfulfilled attempt to repay it. The final temporary day permits the adult's exhaustion and later modifies the forceful future invitation. That is an ordered local set of experiences with different successes and costs, not a permanent meek identity. The written uniform explicitly rejects the idea that clothing has made her docile. [H10–H12; H15]",
+          "source_locator_expressions": [
+            "H10–H12; H15"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Uniformrecognitionnotmeekidentity/personreplacement",
+          "directed_recipients_and_agency": "Passersby/gangsters/adult/Nerutoyandrest",
+          "actual_endpoint_and_unfinished_coda": "Actualrecognition/toy/pond/rest;shoulderunfulfilled/declinepermission",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE09",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 38,
+          "joined_saved_paragraph": "Public outcomes extend this range rather than superseding it. Pavane includes genuine C&C assignment, failed forecasts, Alice's test, distributed resistance to Rio and a reported hospital discharge; the ship argument includes protective help alongside covert-force failure, contested amusement and missing uniforms. The art event gives Neru a specific apology for leaving Toki behind under urgent assignment, while EXPO gives her resistance to exclusion and an actual refusal to accept disparagement. These positive changes and continuities do not locate every private holiday between named crises, certify combat clearance or prove durable repair. The rescue roster in Final contextualizes company, but its collective C&C arrival cannot be converted into every member's separately inspected action. [M21/M22; E06/E06C; E25:015–016; E43:006–008; F00:169/229]",
+          "source_locator_expressions": [
+            "M21/M22; E06/E06C; E25:015–016; E43:006–008; F00:169/229"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Publicendpointsnotcombatclear/fullrepair/calendar/individualFinalfeats",
+          "directed_recipients_and_agency": "Alice/Toki/Rio/coalitiondifferentresponses",
+          "actual_endpoint_and_unfinished_coda": "Discharge/apology/EXPOrefusal/collectivehelp retainedatprintedmode",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE10",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 42,
+          "joined_saved_paragraph": "The jacket illustrates the difference between reputation and motive. Two particular students react fearfully, and a familiar gangster group later recognizes her voice once the jacket is absent. Those reactions establish local recognition; they do not prove that all Millennium fears her, that an unknown trauma caused the jacket preference, or that the uniform has cured a pathology. In the private jacket encounter she defends an item she says looked cool at first sight. Anticipation of criticism is real, but her answer is available without an elaborate secret cause. The adult's attempt to suggest matching jackets is rebuked, and the search outcome is unprinted. Acceptance of her taste is not assent to every offered form of intimacy. [H06:10008:020; H10:10111:002; H13/H15]",
+          "source_locator_expressions": [
+            "H06:10008:020; H10:10111:002; H13/H15"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "No globalfear/hiddenjackettrauma/costumecure/intimacyassent",
+          "directed_recipients_and_agency": "Twostudents/gangsters/Neruplaintaste/adultproposal",
+          "actual_endpoint_and_unfinished_coda": "Tastevalidated;matchingrebuked/searchunprinted",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE11",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 44,
+          "joined_saved_paragraph": "Her forceful public presentation does not make every forceful sentence a completed injury. In the attendance encounter adversaries plan a sanction and a laxative trap; their knowledge remains theirs. Neru confronts repeated faces and reports arriving in time, but the offered bait is not shown ingested and a cocking or sound cue is not a witnessed shot. The private rooftop threat likewise matters as pressure without becoming an unprinted assault. Conversely, the absence of a narrated injury cannot make explosive entry, fear, compulsory eating or property damage harmless. Mode and endpoint distinguish ethical evaluation from invented physical results. [H04/H05; H03; N01:246–258]",
+          "source_locator_expressions": [
+            "H04/H05; H03; N01:246–258"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Threatnotunprintedinjury;noharmabsence notethicalexoneration",
+          "directed_recipients_and_agency": "Adversariesknowledge/Nerufearpressuredrecipient",
+          "actual_endpoint_and_unfinished_coda": "Trapnotingested/arrivalreported/noheardshot/doorcosts",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE12",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 46,
+          "joined_saved_paragraph": "Vulnerability is active and uneven. She objects to strawberry medicine on grounds the adult's flavor explanation misses, dislikes the porridge and nevertheless asks the visitor to remain. Later she presents herself as a strong maid leader and proposes nursing, only to admit that she imagined it once. Bandaging exposes a separate refusal of child address; the adult's threatened withdrawal prompts reluctant acceptance. Care can be useful and wanted while pressure remains material. A fictionally narrated quick recovery in the repayment encounter is a local afterstate, not medical assurance or proof that the meal was freely chosen. [H02/H03/H08]",
+          "source_locator_expressions": [
+            "H02/H03/H08"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Wantedusefulcare notmedicalproof orfreeconsent",
+          "directed_recipients_and_agency": "SickNerurequestscompany/adultforcedmeal/bandagepressure",
+          "actual_endpoint_and_unfinished_coda": "Localnarratedrecovery/actualsleep/thanks;fullhealunproved",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE13",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 48,
+          "joined_saved_paragraph": "The private first-person projection in the rooftop scene and direct written school affection must also remain separate. Timed narration suggests an interpretation of her attachment to school; secure dialogue expresses pleasure in company and openness to further secrets. The written special-lobby lines independently express liking school and acknowledge occasional truancy. The latter is positive Neru-written evidence in its own context, not a correction of the bond narrator into heard Neru speech. These source modes allow a rich portrait without using psychological plausibility to repair actor or inward labels. [H05; H13:special1200–1203; N01:230/250/254]",
+          "source_locator_expressions": [
+            "H05; H13:special1200–1203; N01:230/250/254"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Directwrittenaffectionnotrepairtimednarratoractor",
+          "directed_recipients_and_agency": "Neruschoolwrittenmeaning/securecompanyspeech",
+          "actual_endpoint_and_unfinished_coda": "Positivewrittenschoolaffectionseparatefromprojectedbondthought",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE14",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 50,
+          "joined_saved_paragraph": "Private range therefore complicates the public instrument reading without falsifying public danger. The same person can like winning, cleaning, a wig she refuses on a particular morning, a jacket she insists on keeping, a toy she chooses and the company of specific people. Those particulars make availability conditional and tastes heterogeneous. They do not entitle her to intimidate strangers or make others responsible for her happiness. A monograph that records only violence would omit her desired life; one that records only tenderness would omit recipients' costs. [H03/H04/H06/H09/H11/H14; E06/E06C]",
+          "source_locator_expressions": [
+            "H03/H04/H06/H09/H11/H14; E06/E06C"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Neitheronlyviolencenoronlytenderness/availabilityentitlement",
+          "directed_recipients_and_agency": "Nerutastesandactualrecipientsfear/cost",
+          "actual_endpoint_and_unfinished_coda": "Conditionalwantedlife alongsidecoercion/help",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE15",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 54,
+          "joined_saved_paragraph": "C&C leadership and Double O are positive institutional contexts, including the written victory-symbol and strongest-agent presentation. A profile superlative is a claim, not an independently measured ceiling or a guarantee of winning every encounter. The school matters both as an institution she attends imperfectly and as a place of chosen views, work and rest. Temporary talk of being an ordinary student or setting C&C aside for a day is a leisure frame, not resignation; the uniform's senior–junior language does not abolish roles. The unnamed Seminar accountant's request is a report, not a positive Yuuka identification or an audited disciplinary order. [H04/H05/H10/H12/H13/H15; N01:234/242]",
+          "source_locator_expressions": [
+            "H04/H05/H10/H12/H13/H15; N01:234/242"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Profileceilingnotmeasurement/temporaryleisure notresignation/accountantnotYuuka",
+          "directed_recipients_and_agency": "C&C/Neruschools/seniorjunior/unnamedaccountant",
+          "actual_endpoint_and_unfinished_coda": "Positiverolecontext/temporaryframe;disciplinaryauditunknown",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE16",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 56,
+          "joined_saved_paragraph": "The GROUP account makes club procedure genuinely disputed. Karin reports prior signing, Asuna acknowledges it, Akane states an internal absence-delegation rule and Neru refuses the result. The received text does not show a signed instrument, independently valid legal authority or Neru's free assent. That disagreement is not erased by the later café work or by Yuuka's report of earnings. Akane accommodates Neru's jacket and seeks permission concerning hair, while Asuna opens early; agency exists inside a shared job without proving that everyone agreed to every term. A profitable report and threatened future labor refusal are distinct from paid repair, an enacted strike or a resolved contract. [G12:1202/1203]",
+          "source_locator_expressions": [
+            "G12:1202/1203"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Internalrule/signingreportnotinstrument/legalvalidity/freeassent",
+          "directed_recipients_and_agency": "Karinreport/Asunaack/Akanerule/Nerurefusal/earlyopening",
+          "actual_endpoint_and_unfinished_coda": "Caféwork/earningsreportactual;strike/payment/contractunresolved",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE17",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 58,
+          "joined_saved_paragraph": "The earlier club-cleaning scene similarly distinguishes work, spectacle and cost. Akane hums and invites company, Asuna enjoys the dust, Neru objects to turning the process into a show, and Karin distinguishes cleaning from handling people. Machinery produces a large invoice despite promises to proceed quietly. Each response matters separately. Neru's objection can be practical without establishing a complete audit or making her the only sober agent; her own destructive methods elsewhere limit that interpretation. The club's varied work pleasures and burdens support a separate C&C ensemble and institution argument, neither completed by this character package. [G12:1201; H01/H03; E06/E06C]",
+          "source_locator_expressions": [
+            "G12:1201; H01/H03; E06/E06C"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Neruobjectionnotsolecompetence/audit/allclubsamepleasure",
+          "directed_recipients_and_agency": "Akanehumming/Asunadust/Karinprocedure/Neruobjects",
+          "actual_endpoint_and_unfinished_coda": "Invoiceactual/promisequietfails;institutionensemble separate",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE18",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 60,
+          "joined_saved_paragraph": "Pavane tests the relation between skill and legitimate procedure. C&C's assignment is represented as genuine, yet Alice's detention as a decoy and the surrounding tactical conflict have effects beyond procedure's assertion. Forecasts fail; Karin's fire, Akane's escape, Asuna's intervention and reserves do distinct work. Neru's subsequent test of Alice reaches a represented damaged-body/floor boundary and a stop, followed by an appraisal that Alice's body is repaired and a report classifying building damage as a club accident. That later account does not independently prove absence of harm, legal absolution or comprehensive compensation. Competition can acknowledge a person while still requiring the means and recipient to remain visible. [M21:013–020]",
+          "source_locator_expressions": [
+            "M21:013–020"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Genuineassignment/test/bodyrepairreportnotlegallicense/noharm",
+          "directed_recipients_and_agency": "Alice/C&Cpeerstacticalwork/differentexposure",
+          "actual_endpoint_and_unfinished_coda": "Testdamage/stop/bodyrepairedappraisal/accidentreport",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE19",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 62,
+          "joined_saved_paragraph": "The resistance to Rio further refuses a leader-only account of capability. Momoi's idea conveyed through Yuzu, Chihiro's hypothesis and the elevator operation enacted by C&C contribute to Neru's victory; Akane explicitly contests attribution to Sensei alone. Subsequent Alice return, Neru's hospital discharge, Toki's uneasy tolerance and Rio's resignation, apology and disappearance are different endpoints. Discharge is not general combat clearance; apology is not completed accountability. Neru's contribution matters precisely because it belongs to a coalition of people whose thinking, labor and different risks cannot be reduced to her strength or to the adult's command. [M22:021–025, checkpointL44/79–103]",
+          "source_locator_expressions": [
+            "M22:021–025, checkpointL44/79–103"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Neruwinnotsoleleader/adultcredit/dischargecombatclear",
+          "directed_recipients_and_agency": "Momoi/Yuzu/Chihiro/C&C/Akanecorrection/Alice/Toki/Rio",
+          "actual_endpoint_and_unfinished_coda": "Win/return/discharge/apologyresigndisappear differ",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE20",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 66,
+          "joined_saved_paragraph": "The cleanup encounter's failed can kick becomes pleasurable repetition. An invitation and time reminders frame the walk, while satisfaction accompanies the separation; arriving late remains unresolved rather than disappearing behind the successful joke. Duty and play share time without every moment being efficient. That small divergence is enough to count as an actual wanted experience. It does not need a hidden combat-training purpose, a revelation of a secret child self or a claim that she has stopped caring about work. [H01:10008:002, wholeMomo100080010]",
+          "source_locator_expressions": [
+            "H01:10008:002, wholeMomo100080010"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Canplaynottraining/efficiency/abandonedduty",
+          "directed_recipients_and_agency": "Neruchosenrepetition/adultreminders",
+          "actual_endpoint_and_unfinished_coda": "Actualhelp/failure/joy/satisfieddeparture;latearrivalunresolved",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE21",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 68,
+          "joined_saved_paragraph": "The attendance journey makes desired pleasures consequential through refusal. Food and a wig tempt her, but she chooses the immediate school goal; adversaries' sanction schemes and proposed trap are not her knowledge. The strength of the choice depends on the temptation being attractive, rather than on pretending she never wanted it. Her reported timely arrival and gratitude for company are actual represented endpoints; permanent punctuality, disciplinary reform and converted adversaries are not. Denied pleasure on one morning belongs beside freely chosen leisure elsewhere. [H04:10008:006, wholeMomo100080190]",
+          "source_locator_expressions": [
+            "H04:10008:006, wholeMomo100080190"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Foodwigrejectionnotabsenceofwant/enemyknowledgetransfer",
+          "directed_recipients_and_agency": "Nerutemptationandchoice/adversaryplan/adultcompany",
+          "actual_endpoint_and_unfinished_coda": "Timelyarrivalreported/notpermanentpunctualityorconversion",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE22",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 70,
+          "joined_saved_paragraph": "The roof and park supply different forms of quiet. She directs a selected companion to a viewpoint and asks for a hand while correcting a mistaken grasp; the exact bodily location is unprinted. The shared view and request for future company are meaningful, but neither an exclusive worldwide visitor census nor permission to control another person's movements follows. On the uniform holiday, a familiar work park becomes newly enjoyable because she can linger at the pond. The place has not physically changed in order for her relation to time to change. Novel attention is the achieved experience; it is not evidence that previous work contained no pleasure. [H05:10008:008; H11:10111:003]",
+          "source_locator_expressions": [
+            "H05:10008:008; H11:10111:003"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Rooftopnonprintedbody/exclusivitynotworldcensus/controllicense",
+          "directed_recipients_and_agency": "ChosenNerucompanion/handcorrection/parkattention",
+          "actual_endpoint_and_unfinished_coda": "Actualviewandpondlinger/futurevisitwanted",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE23",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 72,
+          "joined_saved_paragraph": "The children's meal is chosen for its transforming robot. Neru keeps the toy after demonstrating it; the adult can acquire another rather than taking hers. A child's commercial category does not diminish the legitimacy of her taste, and resistance to being treated as a child during bandaging does not forbid her from choosing a toy. Those are different recipient relations and choices. The later rail mishap, rescue, request to be released, shoulder rest and delayed reciprocal offer retain different bodily and temporal outcomes. Hours of narrated sleep leave her refreshed; her proposed return of the shoulder comes too late to be fulfilled. The account does not convert that wanted reciprocity into a completed exchange. [H08; H11:10111:003]",
+          "source_locator_expressions": [
+            "H08; H11:10111:003"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Toynotinfantilizationconsent/thanksnotcancelreleaserequest",
+          "directed_recipients_and_agency": "Nerukeepsrobot/adultotherpurchase/rescue/lateoffer",
+          "actual_endpoint_and_unfinished_coda": "Chosenmealtoy/linger/rescue/releasewant/sleep;shoulderunfulfilled",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE24",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 74,
+          "joined_saved_paragraph": "The last uniform day gives the adult a different limit. Three narrated coaster rides leave the companion unable to continue; Neru allows rest and takes a solo carousel ride whose appearance is not witnessed by the adult. Offers involving a headband or sweets and inward/timed alternatives cannot all be treated as visible chosen actions. At closing, the future company command survives as pressure until the Momo aftermath reformulates it with permission to refuse. Work and costume do not end her desire for company; the recipient's capacity and choice are nevertheless part of what a shared day requires. [H12:10111:005, wholeMomo101110190]",
+          "source_locator_expressions": [
+            "H12:10111:005, wholeMomo101110190"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Alternativesnotallvisibleacts/permittedrestnotuniversalconsent",
+          "directed_recipients_and_agency": "Adultfinitecapacity/Nerusoloride/newinvitation",
+          "actual_endpoint_and_unfinished_coda": "Threecoasters/rest/carousel/actualMomochange;futureunprinted",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE25",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 76,
+          "joined_saved_paragraph": "Gift and written contexts add pleasures without inventing received presents or images. The gift encounter values a striking, cool design; an adult sculpture proposal is not the design actually shown, and Japanese versus Korean wording supplies different taste and gaze qualifications. Actual shared eating is a positive endpoint, while a general verdict that everyone found it delicious is unsupported. Written birthday, cake, hobby, furniture, rest, encouragement and play lines retain invitations, requests and reported liking; empty costume profiles and repeated shop rows do not become several completed purchases or holidays. Ordinary pleasure remains intrinsic even where the interlocutor's answer is absent. [L67/E10; H13–H17]",
+          "source_locator_expressions": [
+            "L67/E10; H13–H17"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Giftimage/proposal/taste/notallUIgiftsorholidaysenacted",
+          "directed_recipients_and_agency": "Nerucooldesign/sharedfood/differentJP-KRacknowledgments",
+          "actual_endpoint_and_unfinished_coda": "Actualeating/repeatedwrittenwants;unknownimage/purchases",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE26",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 80,
+          "joined_saved_paragraph": "Neru's public competence is concrete but shared. In Pavane she can test Alice and win a consequential confrontation through an operation built from others' ideas and work. The account retains damage and a stop, genuine assignment and failed forecasts, a restored body appraisal and the separate hospitalization/discharge tail. These outcomes give more than a profile boast; they still do not establish invulnerability, a measured maximum or a general license to detain and test someone. The person recognized as a peer cannot be represented solely as an object against which strength is certified. [M21:013–020; M22:021–025]",
+          "source_locator_expressions": [
+            "M21:013–020; M22:021–025"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Publiccompetencenotinvulnerability/license",
+          "directed_recipients_and_agency": "Alice/coalition/differentcontribution andbody",
+          "actual_endpoint_and_unfinished_coda": "Win/teststop/restored-bodyappraisal/hospitaltail",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE27",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 82,
+          "joined_saved_paragraph": "The ship story places helpful protection and coercive pursuit within the same account. Neru supports companions and uses familiar means, while the C4 error and exposure contradict the claim of a reliably quiet operation. Koyuki does not consent to a game of tag merely because others describe the pursuit playfully. Cost minimization and indirect coercion remain materially different from innocent leisure. When a held recipient resists laughter, Akane and Neru stop Karin; their intervention is actual restraint of a peer, not an injury audit or proof that every preceding or subsequent act was proportionate. The complete ending reports custody but does not show the promised rescue, return or retrieval of valued missing uniforms. [E06:001–011; E06C:completecomparison]",
+          "source_locator_expressions": [
+            "E06:001–011; E06C:completecomparison"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Koyukipursuitnotmutualgame/laughternotconsent/peerinterventionnotaudit",
+          "directed_recipients_and_agency": "Koyukiheldrecipient/Neru-AkanestopKarin",
+          "actual_endpoint_and_unfinished_coda": "C4error/custodyreport/intervention;rescue/uniformsnotshown",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE28",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 84,
+          "joined_saved_paragraph": "The art event allows a more specific judgment than either total abandonment or total repair. Neru intercepts Meitaro; suspects and evidence are reported secured, with transfer to Valkyrie still prospective. She praises Toki and apologizes for leaving her behind because of urgent assignment, and Toki thanks her. That apology is represented address to the particular person affected. It does not authorize a conclusion that Toki has forgiven every source of isolation or that her command, friendship and future work questions are settled. Toki's chosen Game Development company and expressed dissatisfaction have their own agency independent of Neru's approval. [E25:015–016, particularly016u0073–0076; E25:wholeToki/GDDendings]",
+          "source_locator_expressions": [
+            "E25:015–016, particularly016u0073–0076; E25:wholeToki/GDDendings"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Specificapology notuniversalforgiveness/settledcommandorbelonging",
+          "directed_recipients_and_agency": "Nerupraiseapology/Tokithanks/ownfriends",
+          "actual_endpoint_and_unfinished_coda": "Suspectsevidencesecuredreport/transferfuture;apologyactual",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE29",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 86,
+          "joined_saved_paragraph": "Coalition reports and light responses also preserve distinct kinds of participation. EVENT821 places Neru's mustache approval among recognized assistance and varied reactions; the initial greeting remains UNKNOWN and raw/native actor seams remain inherited. Later sanctum-success announcements are real reports of completion, not proof that every actor shown admiring a mustache caused every victory. Her aesthetic response is valuable in the coalition precisely as her response, without being recoded as command, a physical feat or disposable filler. Final's collective arrival to Toki similarly supports help at the printed group scope while leaving individual mechanisms and future work unproved. [E21:004/131; F00:169/229]",
+          "source_locator_expressions": [
+            "E21:004/131; F00:169/229"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Mustachetaste noteveryvictorycredit/collectivehelpnotpersonalmechanism",
+          "directed_recipients_and_agency": "Neruordinaryresponse/UNKNOWNgreeting/coalitionroles",
+          "actual_endpoint_and_unfinished_coda": "Reportedassistance/completedreportedoperations;individualscopebounded",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE30",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 88,
+          "joined_saved_paragraph": "At EXPO, directness is both a preference and a limit on calculation. Rio anticipates Neru's response; Neru asks her to speak plainly and says she will say when she cannot do something. Rio's later claim that past data show Neru always objects openly is still an attributed generalization. Her simple-minded characterization immediately elicits objection and refusal. The counterresponse preserves a recipient who can reject the framing of her own presumed predictability. This is neither a psychological theorem nor unlimited permission to insult because a person normally speaks frankly. [E43:004/006, especially006u0017–0056]",
+          "source_locator_expressions": [
+            "E43:004/006, especially006u0017–0056"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Riopastdatageneralizationnotpredictabilitytheorem/insultlicense",
+          "directed_recipients_and_agency": "Nerudirectrequest/cannotcommit/Riolabel/rejectedrecipient",
+          "actual_endpoint_and_unfinished_coda": "Actualobjection/refusal/dataunproved",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE31",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 90,
+          "joined_saved_paragraph": "Rio's self-sacrificial instruction to leave then meets a different refusal. Neru and Seia oppose being brought into the task and excluded from responsibility as a solution; they do not declare Rio blameless. Neru proposes intrusion, locating the enemy and destroying the machine, but the episode ends with a request for directions rather than performed destruction. Later reported handover and averted EXPO cancellation are positive local results; transport, completed compensation and full legal disposition remain distinct. In the lodging exchange Neru says nobody can force an unwanted stay, Rio agrees to one week and begins unpacking, and her stated departure after the event remains a limit. The actual agreement is not an observed completed week, permanent office, pardon or cure of isolation. [E43:007–008]",
+          "source_locator_expressions": [
+            "E43:007–008"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Proposalnotperformedmachinebreak/offernotpaid/weeknotobserved/pardon",
+          "directed_recipients_and_agency": "NeruSeiarefuseexcludedresponsibility/Riofiniteagreement",
+          "actual_endpoint_and_unfinished_coda": "Directionrequest/reportedhandover/noforcecondition/unpacking",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE32",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 94,
+          "joined_saved_paragraph": "The adult is often a practical companion rather than the source of every motive. Time reminders accompany the can game; bedside presence is requested after intrusive ringing is initially resisted; jacket taste receives validation rather than an invented trauma explanation. On the rooftop the adult follows directions, and on the uniform day helps make time for pleasures already chosen by Neru. These acts can be caring without creating her tastes or absorbing peer agency. Private recurrence makes a particular chosen relationship legible, but does not prove universal adult indispensability or a uniquely correct player response. [H01/H02/H05/H06/H10/H11]",
+          "source_locator_expressions": [
+            "H01/H02/H05/H06/H10/H11"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Adultnotcreatorofeverytaste/indispensable/universalcorrectchoice",
+          "directed_recipients_and_agency": "Neruchosenwork/company/adultlimitedpracticalhelp",
+          "actual_endpoint_and_unfinished_coda": "Reminders/bedsidepresence/validation/chosenview pleasures",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE33",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 96,
+          "joined_saved_paragraph": "Changing clothes gives a precise achieved privacy endpoint. The adult supplies instructions, leaves, waits outside and returns at Neru's invitation; she can want the help without authorizing uncontrolled looking. A deletion demand in the mistaken-message context is not shown fulfilled, and a possible photograph remains conditional. The asset is unviewed in this literary receiving. The argument therefore credits respected changing-room privacy and preserves the unresolved image question separately, instead of concluding that trust makes every visual access or subsequent disclosure acceptable. [H07:10026:002, wholeMomo100260010]",
+          "source_locator_expressions": [
+            "H07:10026:002, wholeMomo100260010"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Trustnotblanketphotobodyaccess/deletionnotshown",
+          "directed_recipients_and_agency": "Neruprivacyrequest/adultleaveswaitsreturnsinvited",
+          "actual_endpoint_and_unfinished_coda": "Actualprivacyhelp/conditionalphoto/unviewedasset",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE34",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 98,
+          "joined_saved_paragraph": "Care does not have one ethical valence. Neru asks the visitor to stay during illness and later worries about burden in the bandaging thread; those are directed wants. The adult's withdrawal tactic nevertheless pressures a reluctant acceptance after the child-address objection. In repayment, the adult's food choices vary in formulation but none supplies a genuine option not to eat. Door destruction, a single imagined nursing model and an explicit calorie guarantee remain limits beside narrated local recovery. Useful assistance and gratitude do not settle bodily consent, competence or material repair. [H02/H03/H08]",
+          "source_locator_expressions": [
+            "H02/H03/H08"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Gratituderecovery notbodilyconsent/medicalassurance/repair",
+          "directed_recipients_and_agency": "Nerustaywant/burdenconcern/adultpressureandmealconstraints",
+          "actual_endpoint_and_unfinished_coda": "Bandage/narratedrecovery;doorcost/forcedeating retained",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE35",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 100,
+          "joined_saved_paragraph": "The uniform holiday makes both bodies and both experiences consequential. An adult rescue is achieved after the mishap; her request to be released remains valid beside later thanks and pleasure. The rested person's wish to return a shoulder does not erase the companion's earlier time cost, and her late offer is not performed. On the next outing the adult cannot take more rides; her allowance of rest is a real accommodation. These finite outcomes support reciprocity as an imperfect practice rather than an automatic property of affection. A romance-only explanation would miss the toy, pond, sleep and limits that make company valuable and costly. [H11/H12]",
+          "source_locator_expressions": [
+            "H11/H12"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Laterpleasuredoesnotcancelrelease/timecost/reciprocitynotautomatic",
+          "directed_recipients_and_agency": "Adultrescues/Nerureleaserequest/finitebodies/lateoffer",
+          "actual_endpoint_and_unfinished_coda": "Refreshedrest/allowedridebreak;shoulderreturnunfulfilled",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE36",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 102,
+          "joined_saved_paragraph": "The later permission to refuse revises an invitation from this person to this recipient. It neither converts prior threats into harmless jokes nor becomes a signed permanent code governing every future encounter. Nor should its limited scope make it disappear: the complete thread gives an actual change in how another person's choice is acknowledged, and explicitly wants the same companion without needing the temporary uniform. Written lines of reliance and senior–junior address are additional context-specific expressions, not evidence that every listed adult reply, birthday gift, touch or private thought was enacted. [H12:whole101110190; H14/H15/H17; N01:238/246]",
+          "source_locator_expressions": [
+            "H12:whole101110190; H14/H15/H17; N01:238/246"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Localpermissionnotpermanentcode/priorabsolution/allUIreplyactual",
+          "directed_recipients_and_agency": "Neruparticularsamecompanion/recipientdeclinechoice",
+          "actual_endpoint_and_unfinished_coda": "Expresspermissionandbeyonduniforminvitation;futureunprinted",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE37",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 106,
+          "joined_saved_paragraph": "The C&C peers have separate wants and corrective roles. Akane's hospitality, Asuna's dust or work enjoyment and Karin's procedural or operational claims are not Neru's feelings. Neru objects to spectacle and rejects the signing outcome; Akane negotiates clothing and later joins her in stopping resisted captive laughter. The same peer whose service makes work possible can dispute her or impose a reported club rule, while Neru can offer help and exert force. The character monograph preserves these directions without completing the required C&C institution or differentiated-company ensemble. Each will need its own argument about procedure, labor, taste, laughter and recipient cost. [G12:1201–1203; E06/E06C]",
+          "source_locator_expressions": [
+            "G12:1201–1203; E06/E06C"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "PeersnotNerufeelings/characterhome notseparateinstitutionensemblecompletion",
+          "directed_recipients_and_agency": "Akane/Asuna/Karin/Neru differentiatedwantsandcorrection",
+          "actual_endpoint_and_unfinished_coda": "Refusal/clothingnegotiation/intervention;contractcostbounds",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE38",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 108,
+          "joined_saved_paragraph": "Alice is a peer with her own refusal, body and coalition. A competitive acknowledgment can coexist with the risk and damage of the test; a repaired-body appraisal does not erase what was tested. In the subsequent rescue operation, Game Development members' ideas and Chihiro's work help make Neru's win possible. The outcome cannot be assigned solely to the stronger fighter, Rio's plans or Sensei. Alice's return is her social endpoint, not Neru's ownership of a rescued person; Toki's tolerance and Rio's apology remain other people's partial responses. [M21:019–020; M22:012–025]",
+          "source_locator_expressions": [
+            "M21:019–020; M22:012–025"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Alice notownedobject/coalitionnotsolefighterteacher",
+          "directed_recipients_and_agency": "Aliceownbody/refusal/GDDideas/Chihiro/Akanecorrection",
+          "actual_endpoint_and_unfinished_coda": "Bodyappraisal/return/Neruwin/Tokitolerance/Rioapology distinct",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE39",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 110,
+          "joined_saved_paragraph": "Toki's connection is especially legible through difference. An account in which all C&C members enjoy the same service, clothes or company would omit her claimed command question and chosen outside friends. Neru's later praise and apology address an actual absence under urgent assignment; Toki's thanks does not turn every earlier need into fulfilled belonging. Final's collective C&C arrival gives real help at its own scope, while subsequent work, injuries and durable roles remain unsettled. These scenes permit a sustained directed Neru→Toki question without making this monograph its independent completion or importing every Toki act as Neru evidence. [E25:whole/016; F00:169/229; M22:025]",
+          "source_locator_expressions": [
+            "E25:whole/016; F00:169/229; M22:025"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "AllC&Cnotidenticalwants/Tokithanksnotfullbelonging/Finalnotborrowedfeats",
+          "directed_recipients_and_agency": "Tokiowncommandquestion/friends/Neruspecificapology",
+          "actual_endpoint_and_unfinished_coda": "Praise/apology/collectivehelp;roles/injuries/workunfinished",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE40",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 112,
+          "joined_saved_paragraph": "Koyuki provides a consequential resistant recipient. Calling her pursuit a game does not make it a shared game, and useful ship tactics do not establish her assent. Likewise a frightened captive's laughter cannot substitute for willingness. Neru's participation in coercion and later intervention against Karin must both remain, with no universal kindness or timeless cruelty verdict. Actual restraint of another person is a particular action; harm, lawful custody, rescue and the missing uniforms have different evidentiary tails. These limits protect the recipients from being reduced to material for a protagonist's comic charm. [E06:004–011; E06C]",
+          "source_locator_expressions": [
+            "E06:004–011; E06C"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Coercionnotmutualgame/frightenedlaughternotwillingness",
+          "directed_recipients_and_agency": "Koyukiresists/captivecosts/Nerupeerintervention",
+          "actual_endpoint_and_unfinished_coda": "Actualrestraint/custodyreported;harm/rescue/uniformtails",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE41",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 114,
+          "joined_saved_paragraph": "Rio and Seia are independent interlocutors in the EXPO account. Rio's data model, guilt and usefulness frame do not control the responses she gets; Neru objects to disparagement and, together with Seia, rejects the attempt to bear everything alone. Seia's desire for a week of company and Rio's initial not-qualified refusal differ from Neru's practical lodging suggestion and express no-force condition. Rio's eventual agreement and unpacking are achieved responses with a stated departure limit. The conclusion is chosen finite company, not permanent incorporation into Neru's command or absolution by companions. The signed or claimed-room-rule issues elsewhere are not imported as legal or free-assent proof here. [E43:004/006–008]",
+          "source_locator_expressions": [
+            "E43:004/006–008"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Finitecompanynotpermanentcommand/pardon/legalroomrules",
+          "directed_recipients_and_agency": "Rioownrefusal/Seiawantedweek/Neruobjectionandnoforce",
+          "actual_endpoint_and_unfinished_coda": "Actualagreement/unpacking/leavelimit;weekcompletionunprinted",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE42",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 116,
+          "joined_saved_paragraph": "Other peers retain sparse but real agency. The two fearful students and voice-recognizing gangsters give different local recognitions; unnamed adversaries plan the attendance trap; an unnamed accountant is reported to request the uniform. Cherino's mustache presentation elicits Neru's taste without certifying the self-listed offices or assigning formation command. These actors need their actual scope preserved even where neither a personal monograph nor a positive alias join is justified. Recognition, resistance, request and ordinary response cannot be silently collapsed into a generic crowd. [H04/H06/H10; E21:004; N01:242]",
+          "source_locator_expressions": [
+            "H04/H06/H10; E21:004; N01:242"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Localactorsnotgenericcrowd/forcedaliases/formationcommand",
+          "directed_recipients_and_agency": "Fearfulstudents/gangsters/adversaries/accountant/Cherino",
+          "actual_endpoint_and_unfinished_coda": "Actualrecognition/request/ordinarytaste;identitybounds",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE43",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 120,
+          "joined_saved_paragraph": "Rough written address carries initiative, impatience and relationship without being a recording of performance. あたし, shortened negatives, commands and exclamations coexist with hesitation, thanks, invitations and questions about whether the companion enjoyed the day. A musical or sound marker is not heard voice, nor does a denial automatically mean its opposite. The profile's victory and strongest-agent language remains self-presentation; quieter written school liking and discomfort are also positive evidence. They do not have to be classified as more authentic because they appear gentler. [N01:250; H13–H17; C03:G10/G14]",
+          "source_locator_expressions": [
+            "N01:250; H13–H17; C03:G10/G14"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Register notperformedvoice/denialnotautomaticopposite",
+          "directed_recipients_and_agency": "Neruselfpresentation/quietwrittenschoolaffection/askedcompanions",
+          "actual_endpoint_and_unfinished_coda": "Writtenexpressionpositive;noperformanceclaim",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE44",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 122,
+          "joined_saved_paragraph": "『見せもん』 rejects being a showpiece while leaving room for a voluntarily solicited opinion about clothing. 『これは譲れねぇ』 marks the jacket as nonnegotiable preference; it is not an analyst's license to speculate about hidden trauma. The uniform question about becoming docile receives an explicit rejection, while 『普通』 and 『今』 support temporary leisure frames rather than permanent identity replacement. Birthday denial, waiting denial and mission reluctance similarly remain printed stances, with contrary positive choices kept in their actual contexts rather than reversed into obligatory concealed affection. [H06/H09/H14/H15]",
+          "source_locator_expressions": [
+            "H06/H09/H14/H15"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Showpiecerefusalnotallopinionsrefused/jacketnottrauma/docilityfalse",
+          "directed_recipients_and_agency": "Neruselectedpraise/request/preferences/source-localdenials",
+          "actual_endpoint_and_unfinished_coda": "Directstancesandcontrarychoices retainedwithoutforcedcalendar",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE45",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 124,
+          "joined_saved_paragraph": "Modes materially affect the portrait. Timed first-person passages at the roof and during bandaging cannot all be converted into spoken Neru confession. Native written selections next to inward questions or reassurance qualify source labels without establishing heard private thought or one enacted route through every option. The written special lobby can directly express school affection without repairing the bond's narrator projection. The gangsters' projected labels and the attendance scene's merchant/insult attribution retain inherited source qualifications; this synthesis makes no fresh actor repair from personality plausibility. [H03/H04/H05/H08/H10/H13; N01:246/250/278]",
+          "source_locator_expressions": [
+            "H03/H04/H05/H08/H10/H13; N01:246/250/278"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Inwardnarratornotdirectconfession/actorrepair/oneenactedroute",
+          "directed_recipients_and_agency": "Source-modebounds/schoolwrittenownauthority",
+          "actual_endpoint_and_unfinished_coda": "Inheritednativescriptqualificationsnotfreshnativecredit",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE46",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 126,
+          "joined_saved_paragraph": "Complete message codas alter interpretation because they contain different speech acts. Bad porridge survives thanks; bandage burden concern survives accepted care; a matching-jacket proposal meets rebuke; the last-uniform demand acquires express permission to decline. These tails make recipient experience and change legible without diagnosing a stable psychological type from every line. Repeated UI wording, by contrast, does not supply successive dates: the ship costume has thirty full-context rows plus six partial repeat rows, and the uniform costume has two ten-row contexts. Their invitations, play questions and poke objection remain written repertoire, not multiplied performed jobs or holidays. [H02/H06/H08/H12/H16/H17]",
+          "source_locator_expressions": [
+            "H02/H06/H08/H12/H16/H17"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Codasnotdiscarded/repeatedUI notsequentialjobs",
+          "directed_recipients_and_agency": "Neruthanks/recipientcost/burden/declinepermission/playquestions",
+          "actual_endpoint_and_unfinished_coda": "Badporridge/rebuke/permission actual;UIrepeatmultiplicitybounded",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE47",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 128,
+          "joined_saved_paragraph": "Localization narrows conclusions rather than erasing the gift. In the complete067 argument, Japanese retains gaze and a good-taste acknowledgment despite design concern; Korean omits the gaze and uses ordinary-taste wording with a tentative emphasis on appearance. A sculpture proposal is general in Japanese and dragon-specific in Korean. Actual shared eating can be retained across the endpoint without inventing a visible current design, a voiced crowd judgment or uniform enthusiasm. The nonmonotonic unit0032 and missing0015 label are locator matters, not proof of a missing story ending. [L67:whole31units/fourgroups; E10:L117/L674]",
+          "source_locator_expressions": [
+            "L67:whole31units/fourgroups; E10:L117/L674"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Localegoodordinarytaste/gaze/designproposalsnotidenticalimage/crowdvoice",
+          "directed_recipients_and_agency": "Nerufooddesign/JP-KRdistincts",
+          "actual_endpoint_and_unfinished_coda": "Sharedfoodactual/missing15labelnotmissingending",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE48",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 132,
+          "joined_saved_paragraph": "The combat-instrument reading explains the superlative profile, genuine assignments and confrontational competence, but fails to explain chosen jacket taste, can play, toy ownership, pond attention and finite company without artificially translating them into training. The reverse meek-child reading fails against initiative, resisted child address, explicit rejection of docility, coercive actions and public objection to disparagement. She can choose a child-branded toy without agreeing to infantilization, and wear an unfamiliar costume without acquiring a new obedient self. These counterexamples establish range rather than an exception list around a single essential role. [H01/H06/H08/H11/H13/H15; M21/M22; E43:006]",
+          "source_locator_expressions": [
+            "H01/H06/H08/H11/H13/H15; M21/M22; E43:006"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Combatinstrument/meekchildrivals contradicted byspecificchoices",
+          "directed_recipients_and_agency": "Nerutoy/childaddressrejection/strength/wants/EXPOobjection",
+          "actual_endpoint_and_unfinished_coda": "Positivevariedactsnotfixedvariantladder",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE49",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 134,
+          "joined_saved_paragraph": "An ideal-care reading has real evidence: requested bedside presence, respected changing-room privacy, permitted rest, partial reciprocity, a specific Toki apology and resistance to Rio's isolation. It fails if it erases pressure around treatment, compulsory eating, fear, explosive entry, unconfirmed photograph deletion or the captive's resistance. A uniformly coercive reading has equally real adverse evidence but cannot explain the achieved privacy, rest accommodation or later permission to refuse without declaring every positive recipient response false. A serious synthesis preserves both, and asks what each act achieves and leaves unfinished for its actual recipient. [H02/H03/H07/H08/H11/H12; E06/E06C; E25:016; E43:007–008]",
+          "source_locator_expressions": [
+            "H02/H03/H07/H08/H11/H12; E06/E06C; E25:016; E43:007–008"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Idealcareanduniformcoercioneachomitactualcontraries",
+          "directed_recipients_and_agency": "Directedrecipientprivacy/rest/pressure/Tokithanks/Riochoice",
+          "actual_endpoint_and_unfinished_coda": "Positivehelp/permissionapology withunconfirmeddeletion/repair",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE50",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 136,
+          "joined_saved_paragraph": "The jacket-as-trauma interpretation is possible only as an unproved explanation at this scope. The direct preference account and different local reactions are adequate positive evidence without requiring it. The costume-growth ladder is likewise unestablished: bunny profile reluctance and personal wearing are different contexts; uniform leisure and public EXPO duties have different source modes; later refusal permission changes one request but not every relationship. No fabricated chronology should harmonize all statements into a predetermined cure or turn a change of clothes into an ethical safety theorem. [H06/H09/H10/H12/H14/H15; N01:218/262; C03:G07/G14]",
+          "source_locator_expressions": [
+            "H06/H09/H10/H12/H14/H15; N01:218/262; C03:G07/G14"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Jackettrauma/costumecure/globalcalendarunproved",
+          "directed_recipients_and_agency": "Nerudirecttaste/source-localprofileandchoice",
+          "actual_endpoint_and_unfinished_coda": "Localinvitationrevisionpositive/notglobalethicaltheorem",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE51",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 138,
+          "joined_saved_paragraph": "Public success does not excuse means, and incomplete tails do not nullify success. The coalition makes Neru's win possible; Alice's return and the hospital discharge are actual represented outcomes. The ship's protective acts and restraint of Karin coexist with coercive pursuit and missing uniforms. Neru's apology is real even though universal forgiveness is unproved. EXPO cooperation and Rio's finite agreement are positive beside unprinted compensation and legal closure. An account that demands complete safety before acknowledging any help is as inaccurate as one that treats a victory report as total repair. [M21/M22; E06/E06C; E25; E43]",
+          "source_locator_expressions": [
+            "M21/M22; E06/E06C; E25; E43"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Successnotexcuse/incomplete tailnoteraseactualachievement",
+          "directed_recipients_and_agency": "Coalition/Alice/Toki/Koyuki/Rioindependentcosts",
+          "actual_endpoint_and_unfinished_coda": "Win/return/discharge/apology/weekagreement;repairOPEN",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE52",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 140,
+          "joined_saved_paragraph": "Finally, company need not be read exclusively as romance, instrumental dependence or adult rescue. The toy, roof, pond, rides, tastes and words of thanks are concrete desired experiences whose value cannot be exhausted by any one relation label. Adult care can be helpful and pressuring; independent peers can supply ideas, apology, criticism, company and refusal. Neru's last-uniform invitation extending beyond costume is meaningful at its actual recipient scope without proving exclusive lifelong attachment. The sustained account is an uneven practice of sharing time and responsibility with people whose responses remain their own. [H01–H17; G12; M22; E25; E43]",
+          "source_locator_expressions": [
+            "H01–H17; G12; M22; E25; E43"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Companynotonlyromance/dependence/adultrescue/exclusiveeternity",
+          "directed_recipients_and_agency": "Nerupeers/adultindependentchoices/wantedexperiences",
+          "actual_endpoint_and_unfinished_coda": "Unevensharedtime/responsibilitywithfiniteactualresponses",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE53",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 144,
+          "joined_saved_paragraph": "N01 is the current maintained private argument, personally received complete at its declared182–311 substantive/adoption scope; whole-byte binding does not claim fresh whole metadata receiving. H01–H12 are the twelve complete historical paired analytical arguments, and H13–H17 the five complete historical written arguments, personally received through EOF as consequential detail and qualified by N01/Cycle008 rather than admitted as new standalone authority. G12, M02, M21, M22, E06/E06C, E25, E21 and E43 are complete received GROUP/MAIN/event arguments. L67 is the complete historical gift argument qualified by current Cycle008 and the specific received E10 context; E10 is scoped, not the whole102-object body. F00 is prior complete Final analytical custody with fresh relevant locator receiving, not a newly observed individual Neru Final action. Exact paths, byte/hash/blob comparands and receiving scopes are in the source receipt; the claim register joins saved paragraphs to actual source modes, recipients, endpoints and contrary limits.",
+          "source_locator_expressions": [
+            "N01scope182–311/H01–H17wholequalifieddetail/G12/M02/M21/M22/E06/E06C/E25/E21/E43/L67whole/E10scoped/F00priorwhole; exacttupleandcustodyscopesinsourcereceipt"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Wholebytebindingnotwholescopereceiving/historicaldetailnotnewauthority",
+          "directed_recipients_and_agency": "Exactdeclarednormal/private/historical/publiccustody",
+          "actual_endpoint_and_unfinished_coda": "Completeacceptedarguments plusexplicitscopedE10/F00receiving",
+          "applicable_open_gaps": [
+            "G01",
+            "G02",
+            "G03",
+            "G04",
+            "G05",
+            "G06",
+            "G07",
+            "G08",
+            "G09",
+            "G10",
+            "G11",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE54",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 146,
+          "joined_saved_paragraph": "The modern documentary pin and attributed historical producer pins are preserved separately. Historical UNADMITTED, pending, draft_noncurrent and model/Phase2-incomplete statements in producer bodies do not override current Cycle008 accepted meanings or require ritual primary replay. Equally, current contextual admission does not give this author original primary, native, performed or independent credit. Architecture1.12 is bound separately from main1.11 with its same eleven character sections. The historical353-home scope remains a retrieval witness; current C05/C06 record ROOT's accepted355/29 successor, personally received here only at exact summary/status and Neru/Noa-home scope, with zero added literary credit. This author neither freezes scope nor claims whole355 semantic review. R/shared indexes, Git, provider, global registry, other required C&C/relationship homes and milestone claims remain outside this delivery.",
+          "source_locator_expressions": [
+            "C01architecture319–344/C04wholeCycle008/C05currentROOTscope-summary-NeruNoahomes/C06currentROOTstatussummary/historical353selectedhome"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "CurrentC008notprimarycredit/historicalpendingnotritualreplay/Nfreeze",
+          "directed_recipients_and_agency": "Sourcescopes/currentROOTmutablemetadata distinct",
+          "actual_endpoint_and_unfinished_coda": "Architecture1.12 stableelevensections/main1.11;historical353retrievalwitness/currentROOT355/29summary/home only,zeroauthorfreezeorcompletion",
+          "applicable_open_gaps": [
+            "G01",
+            "G02",
+            "G03",
+            "G04",
+            "G05",
+            "G06",
+            "G07",
+            "G08",
+            "G09",
+            "G10",
+            "G11",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE55",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 148,
+          "joined_saved_paragraph": "All fourteen gaps remain OPEN at their actual effects. G01/G06 retain ordinary breadth and other families beyond this varied repertoire; G02 does not identify the accountant as Yuuka or complete her council transfer; G03 does not transfer reciprocity to Serika; G04 does not settle Hina's crisis or ordinary duties; G05 does not repair Arius/PS68 aftermath; G07 forbids a fabricated global costume/event calendar; G08 retains gift suffixes, partial repeat contexts and missing titles; G09 keeps actor, inward, option and localization seams; G10 supplies no performed voice, image or acoustic claim; G11 does not close Hoshino/Yume record or office questions; G12 preserves the registered Neru/Nel family and leaves unnamed roles unjoined; G13 leaves contract validity, free assent, property repair, injury/healing, custody, uniform return, paid compensation and future-week completion unproved; G14 preserves written/profile/UI/report modes without universal continuity. None makes quiet pleasures ineligible.",
+          "source_locator_expressions": [
+            "C01 architecture319–344/C02method/C03all14/C04wholecurrentCycle008/exactdeclaredsourceandhistoricalscopeinNERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "OPENlimitsnotquietpleasureexclusion/globalcastcomplete",
+          "directed_recipients_and_agency": "All14actualclaims/unnamedroles/modesretainbounds",
+          "actual_endpoint_and_unfinished_coda": "Specificunprintedtailsnotlostpositiveendings",
+          "applicable_open_gaps": [
+            "G01",
+            "G02",
+            "G03",
+            "G04",
+            "G05",
+            "G06",
+            "G07",
+            "G08",
+            "G09",
+            "G10",
+            "G11",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "NE56",
+          "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "saved_line": 150,
+          "joined_saved_paragraph": "The author considers this a complete bounded eleven-section literary candidate, with ROOT receiving and adoption pending. Its central outcome is not an accomplished universal reform: Neru obtains some useful work and wanted company, recognizes particular limits, pressures others, fails some reciprocal acts, and explicitly changes one future invitation. The last uniform thread's refusal permission, Toki apology, defended privacy, accepted rest and EXPO no-force condition are positive; the earlier coercion, injury and property uncertainties, unfulfilled shoulder offer, unresolved image deletion and public repair tails remain. Those finite successes and costs make the argument independently substantial without claiming a model, a completed whole cast, source/performance inflation or completion of any distinct directed relation or institution package.",
+          "source_locator_expressions": [
+            "C01 architecture319–344/C02method/C03all14/C04wholecurrentCycle008/exactdeclaredsourceandhistoricalscopeinNERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          ],
+          "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+          "extension_limit": "Authorcandidate notROOTaccepted/model/primary/otherhome/quartercredit",
+          "directed_recipients_and_agency": "Neruwants/recipientagency/finitechange andcosts",
+          "actual_endpoint_and_unfinished_coda": "Achievedpermission/apology/privacy/rest/noforce;unfinishedtails",
+          "applicable_open_gaps": [
+            "G01",
+            "G02",
+            "G03",
+            "G04",
+            "G05",
+            "G06",
+            "G07",
+            "G08",
+            "G09",
+            "G10",
+            "G11",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+          "ROOT_review": "PENDING"
+        }
+      ],
+      "eleven_headers": [
+        "## 1. Core thesis",
+        "## 2. Longitudinal arc",
+        "## 3. Public and private self",
+        "## 4. School and club role",
+        "## 5. Ordinary life",
+        "## 6. Crisis behavior",
+        "## 7. Relationship with Sensei",
+        "## 8. Major peer relationships",
+        "## 9. Language and written voice",
+        "## 10. Competing readings",
+        "## 11. Evidence route and remaining limits"
+      ],
+      "whole_saved_body_receiving": "7d6bc7 1–84/52fcce85–150EOF/final26-134-146d396bd",
+      "all14gaps": "OPEN",
+      "counts_not_literary_completion": true,
+      "original_primary_or_performed_or_independent_credit_added": 0,
+      "ROOT_literary_review": "PENDING",
+      "N_or_quarter_claimed": false
+    },
+    "NERU_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json": {
+      "schema": "BLUE_ARCHIVE_PHASE3_NERU_SAVED_OUTPUT_V1",
+      "status": "FROZEN_AUTHOR_DELIVERY_ROOT_RECEIVING_PENDING",
+      "created": "2026-10-10",
+      "HEAD_at_final_recheck": "1dc2092095ed74ee743971f1f274b30cb291d939",
+      "outputs": [
+        {
+          "file": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+          "byte_count": 40852,
+          "line_count": 150,
+          "sha256": "72a6ab70b4f9d08df52446230082b2419998126875dc2d2088fff0ed9f536b3e",
+          "worktree_content_blob_oid": "cff19c60ba7706eb4d7bd9a7c6fbd1d27cb7c8d2",
+          "utf8_lf_no_bom": true,
+          "below_1MiB": true,
+          "public_path_scan": "PASS"
+        },
+        {
+          "file": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 50803,
+          "line_count": 924,
+          "sha256": "cfbc956ac44a5fab3c754ae68414ef1b109a975641c315c0e6e6155a191da313",
+          "worktree_content_blob_oid": "463aedf90824518944278090af3ec8f1ce662dbb",
+          "utf8_lf_no_bom": true,
+          "below_1MiB": true,
+          "public_path_scan": "PASS"
+        },
+        {
+          "file": "NERU_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 104007,
+          "line_count": 1505,
+          "sha256": "d869a50635299c4f9c9ca6d9b918fcdf0e055cf617888ede64cfc226248e1fbd",
+          "worktree_content_blob_oid": "601855a1a7fb96f9336e82f3d4cb5a893b0e0d09",
+          "utf8_lf_no_bom": true,
+          "below_1MiB": true,
+          "public_path_scan": "PASS"
+        }
+      ],
+      "source_rechecks": [
+        {
+          "source_id": "C01",
+          "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+          "worktree_content_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+          "unchanged": true
+        },
+        {
+          "source_id": "C02",
+          "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+          "worktree_content_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+          "unchanged": true
+        },
+        {
+          "source_id": "C03",
+          "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+          "worktree_content_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+          "unchanged": true
+        },
+        {
+          "source_id": "C04",
+          "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+          "worktree_content_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+          "unchanged": true
+        },
+        {
+          "source_id": "G12",
+          "sha256": "7878d5a7517dfad383ffd92f175d48f4ce5052afc332956122f396dc6209b32a",
+          "worktree_content_blob_oid": "8d0422d805814d9148746b4c2f2ad9ab606b7038",
+          "unchanged": true
+        },
+        {
+          "source_id": "M02",
+          "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+          "worktree_content_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+          "unchanged": true
+        },
+        {
+          "source_id": "M21",
+          "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+          "worktree_content_blob_oid": "4328e26cd55fbdb65935615c27e85154f7c6867a",
+          "unchanged": true
+        },
+        {
+          "source_id": "M22",
+          "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+          "worktree_content_blob_oid": "edc03f8b5d5c71d7c4914187845a20b6e0941376",
+          "unchanged": true
+        },
+        {
+          "source_id": "E06",
+          "sha256": "a79b9d10a02fc32e3a2b6aed115e9b0e5cbba92eee4d118ef41c1c42c28a6b82",
+          "worktree_content_blob_oid": "ccc7f310da572e77d3411dba7ca445fe6abb8646",
+          "unchanged": true
+        },
+        {
+          "source_id": "E06C",
+          "sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091",
+          "worktree_content_blob_oid": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465",
+          "unchanged": true
+        },
+        {
+          "source_id": "E25",
+          "sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9",
+          "worktree_content_blob_oid": "d42104a33d911bddec431a94c5c030e2834f2e7d",
+          "unchanged": true
+        },
+        {
+          "source_id": "C05",
+          "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+          "worktree_content_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+          "unchanged": true
+        },
+        {
+          "source_id": "C06",
+          "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+          "worktree_content_blob_oid": "195739a98c7b439b48bfd8e973282e941a45d8e1",
+          "unchanged": true
+        },
+        {
+          "source_id": "N01",
+          "sha256": "f8de600c9349986e51101217f1c04d4370a32b5aeb8811636d093c310a86e762",
+          "worktree_content_blob_oid": "f9ea931be3eb9f753a6c81cd094d95ef5b83fc1d",
+          "unchanged": true
+        },
+        {
+          "source_id": "E21",
+          "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+          "worktree_content_blob_oid": "59a74816f84bbcc362ffc3684016ad713b930372",
+          "unchanged": true
+        },
+        {
+          "source_id": "E43",
+          "sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+          "worktree_content_blob_oid": "9f210324ba71ed86e21f112b0956f2c371c5f43a",
+          "unchanged": true
+        },
+        {
+          "source_id": "L67",
+          "sha256": "fcbc7f4d853a04feb2169fda2db232ff1a7a0f7fc63c4ea8562f749f3a7ec61c",
+          "worktree_content_blob_oid": "3c8d5666e2e27989ec35f2c0da87d49e4522464d",
+          "unchanged": true
+        },
+        {
+          "source_id": "E10",
+          "sha256": "880f77f0a0027aabe86b4fcc556e93a96c8e2c7320ae857162aac010a771343e",
+          "worktree_content_blob_oid": "c2777a962c37b5aad4f595e61ab057dbb227f386",
+          "unchanged": true
+        },
+        {
+          "source_id": "F00",
+          "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+          "worktree_content_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+          "unchanged": true
+        }
+      ],
+      "historical_detail_rechecks": [
+        {
+          "source_id": "H01",
+          "sha256": "94d92eda6e650465d5860e25527c4a6342f2e77c482a4410dec6a16b569c29d4",
+          "content_blob_oid": "107896c47adbe0a40d0b2bdb1f91ef3a5c2a3ebf",
+          "unchanged": true
+        },
+        {
+          "source_id": "H02",
+          "sha256": "4f85787e8182fc18840511007820e6794ff901511f7540ef6d543c14533d4846",
+          "content_blob_oid": "73d3c245e5b6ad6fc4d168b1158387ddae673f00",
+          "unchanged": true
+        },
+        {
+          "source_id": "H03",
+          "sha256": "963e9928d5384f7751d35c76923ff17f169eb92f9a18479b567416430259be5f",
+          "content_blob_oid": "aa73027dc50933153ab92d3073f425fc69737773",
+          "unchanged": true
+        },
+        {
+          "source_id": "H04",
+          "sha256": "efcbdb89b2db4fd9237ecbe5c1f5760db60b0bf89cd7e47d9c1a3e0e5d4d8072",
+          "content_blob_oid": "eeb31c3e73eb5da1f70735200031d2e1a24db5f3",
+          "unchanged": true
+        },
+        {
+          "source_id": "H05",
+          "sha256": "860366c04fb506059bedfef927caa4ab795f2fa034d5a9b4c2d3d2ab0d64be99",
+          "content_blob_oid": "d20b5c448b501aa6cccd5e9b93caba9b71766be5",
+          "unchanged": true
+        },
+        {
+          "source_id": "H06",
+          "sha256": "f9e08d7830466c3e6c4d33461dabef909617e0d364d94d587b62398c0d6ed321",
+          "content_blob_oid": "088eca9141e18b00c59117406da5549bf508a7d8",
+          "unchanged": true
+        },
+        {
+          "source_id": "H07",
+          "sha256": "862a1baec223582a02fa84566694f757629b4039a07ea5bbcc40abdc7fec72f2",
+          "content_blob_oid": "e5cd2f45f24dfe48a6f11a0a90d3c22eb9af8a51",
+          "unchanged": true
+        },
+        {
+          "source_id": "H08",
+          "sha256": "44a5a6a3fd3256deff8d0c0000279523cf8484bd8168faa3396f2894ee2c0d8b",
+          "content_blob_oid": "7ef1b42549cd0f5ebdba59faf873661004a75d3e",
+          "unchanged": true
+        },
+        {
+          "source_id": "H09",
+          "sha256": "ea2175e5efcc315bef82472ce2754b871ed7e9fafa3d217f42dba6eb06c0a1b8",
+          "content_blob_oid": "432bfc01ab99372743b562bc3634fa703f4e9752",
+          "unchanged": true
+        },
+        {
+          "source_id": "H10",
+          "sha256": "0b2e4d4f5dd0b6307caa00c86a09046566b706913925b7c471e0aacbee0d3b49",
+          "content_blob_oid": "43444f3617f0d6c14e0f950abc8e9b670134443f",
+          "unchanged": true
+        },
+        {
+          "source_id": "H11",
+          "sha256": "3d19f3832fa205ba3ee677e25bd68a9fc23971ee6ba51387902365c1c25ea9e5",
+          "content_blob_oid": "ab2d6b9bd904c935cd558d7c1d8100b09a293417",
+          "unchanged": true
+        },
+        {
+          "source_id": "H12",
+          "sha256": "5f94098aff5c4b31ccc3a245e32f383521d02652435414121b48b4ba77e9b3a2",
+          "content_blob_oid": "c6f469229dab71b61ade638bf7aea82528dbe02f",
+          "unchanged": true
+        },
+        {
+          "source_id": "H13",
+          "sha256": "5bda53b686aacfafcd1c13cab969e73aa32f787768219f2582602d700752d583",
+          "content_blob_oid": "aba42af846aafc7f136f7fe6b0182e06d0dcb91e",
+          "unchanged": true
+        },
+        {
+          "source_id": "H14",
+          "sha256": "5f5322ea44aa5a7f1fc4a365ef69419a79b7e3c905a233da4faface7012d5b74",
+          "content_blob_oid": "7e69496640119164cd562e92bfb255c52342e699",
+          "unchanged": true
+        },
+        {
+          "source_id": "H15",
+          "sha256": "a8179186ffce50aae9527d6865b979f0a2d9f5d9f6fcf957af0a413d3ac0818a",
+          "content_blob_oid": "f027fe14469ec482447397a4a8cac353f066fb91",
+          "unchanged": true
+        },
+        {
+          "source_id": "H16",
+          "sha256": "bd6b80a7912a7bc9dc7ff12aedb35ec73f7989351cd803377aac7ec78148cf1c",
+          "content_blob_oid": "a80e7ad9c2b0009c81ebee1019608ad9979bb975",
+          "unchanged": true
+        },
+        {
+          "source_id": "H17",
+          "sha256": "7b18ee7e623cdf46ecd99d9cd67c7925f76565b598d04677190ef18bd8b52201",
+          "content_blob_oid": "6db83ce668c90b5999e790cf321868eeb30e3523",
+          "unchanged": true
+        }
+      ],
+      "prior_frozen_output_checks": [
+        {
+          "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V1.md",
+          "byte_count": 77666,
+          "sha256": "917b7e0fdd90b9a9dde2301c98e60c3e678e78ac2c9223127ea881b673f27f17",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V1.json",
+          "byte_count": 87882,
+          "sha256": "3135c48175aabf56bf1c65477d6392471b59fbf6745a2aefbeca2df2ebdbb1c9",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_INPUT_RECEIPTS_V1.json",
+          "byte_count": 27235,
+          "sha256": "433fc404fcd258871e6310039679308772c3c6702981d66ec5643849d33014ac",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 8921,
+          "sha256": "e6e962e4108efd6a7f331c06fda687b1b089921165185b78fa379804cf559cf2",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V2.md",
+          "byte_count": 83818,
+          "sha256": "46b7865841293dd2525931a85b8d28393523576368ef4d9272b5a597f5fc8cd4",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V2.json",
+          "byte_count": 94478,
+          "sha256": "6f8607abe964b0032bda888a6d3b9f37b374a5aba8d953eca83d7f485627b6d4",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_INPUT_RECEIPTS_V2.json",
+          "byte_count": 26656,
+          "sha256": "d8bb1889cd4a6804e155c8ce8fb5b29e81e7c7bbe12eac810d0f9640aaa7c942",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_SAVED_OUTPUT_RECEIPT_V2.json",
+          "byte_count": 14481,
+          "sha256": "8e04ba792e15583e4f9d6dc9a023b1e58ee29e7bc024e8518a50b7d515de1f0d",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 24404,
+          "sha256": "bb6d1bde60acd44e539bb22a0979f7cf870b935c9f772d1229ac61bceb7cb79e",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 26279,
+          "sha256": "e5c5008d72b3bcdcf1bdba8f1a0104fd8ab6eb76c7a5701316f93fa847515318",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 24049,
+          "sha256": "0fe9c7f8923138aff2fbd75daf66ab481a991fb8bacfdf13ebbdcb6fff879c3f",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/TRINITY_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+          "byte_count": 40511,
+          "sha256": "f233f90869af7eb4995d0f964d2033ba1907067e9f8186f9eb4ff3dabb82ccc4",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/TRINITY_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 36454,
+          "sha256": "fa32f44389dabf76aed4fdf6830e91725d0d84308b0c01b17349d9c72ffca28a",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/TRINITY_MONOGRAPH_AUTHOR_REVIEW_AND_CUSTODY_V1.md",
+          "byte_count": 12228,
+          "sha256": "548cf4470de5ee06354f9176086e8e50d222a663880fca6dc713fffbb9cf4751",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/TRINITY_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 14042,
+          "sha256": "ae6f53fef4d15a541ffa67070e343af6fe4dc94f7509dfaa930f5503176d74da",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/BLUE_ARCHIVE_AZUSA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 25160,
+          "sha256": "02a9527df78fe53b6d10b31924028e8c0cda2b343e3d72561b27efc283bac9db",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/BLUE_ARCHIVE_HIFUMI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 26720,
+          "sha256": "0a27a92658f8bf0f4a9e70c0274ab97bf5a4b47a999bb9288fb0a0fb84a51462",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/BLUE_ARCHIVE_HANAKO_CHARACTER_MONOGRAPH.md",
+          "byte_count": 29090,
+          "sha256": "2fd4af6a25a3fb8164b13bde6dc717a6f7aee59f04829e9a8e7e7c4273d0c5cc",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/TRINITY_SECOND_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+          "byte_count": 47460,
+          "sha256": "4f98b59bb8fc25dce8fbaeac3a3e7f8515a9d34d57383c53b54ebf873a8c415d",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/TRINITY_SECOND_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 95616,
+          "sha256": "591d584bc5a6b95168f55d1802afa221e2187f9fdf0ede2951fa36db2725d1e6",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/TRINITY_SECOND_MONOGRAPH_AUTHOR_REVIEW_AND_CUSTODY_V1.md",
+          "byte_count": 11190,
+          "sha256": "8f465ab994968dee54d690f5214e233eb3575b3538da73b2ff65ddcd0a760d58",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/TRINITY_SECOND_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 21437,
+          "sha256": "5c7fb5cd10f8e7acdf892a992a0eec9b78db7da7983633bd3ab43730f7cc388d",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+          "byte_count": 30854,
+          "sha256": "c73867de4766fcb800c10c541f27e74ab127407b9d3cd9d86ed2eec320ddb8a6",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/KOHARU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 20605,
+          "sha256": "7a5871eb7ccf060dcab2b4c9c3c32eb249e37eb1571d974f43917f6b2c886147",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/KOHARU_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 27109,
+          "sha256": "01028690f015dcb6d564100854dee3b77fa0e946ff0752a4cfb0b191d1affe37",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/KOHARU_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 10169,
+          "sha256": "47a69a84ada3a067a73c9141589dc9ff568a3677521651da34af977982455a10",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 31871,
+          "sha256": "4aed0693ba32f492ca3841150b18c1758d913fbc09df77f55c443541d51a14b7",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/UI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 25253,
+          "sha256": "b154ee8dae3ab7719b0008c34b7f839516e6cf8f6520c8cf8fddf3a30056513e",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/UI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 31952,
+          "sha256": "eee361704dd8e4f308240eaed193fd7f9282f387f638368e3feb8e832d2face2",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/UI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 12279,
+          "sha256": "f9106a2068bf7d5ce18816220c2be38c04c3f0a28f2b9c60540ffab500adeb4e",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 34081,
+          "sha256": "29ebde7cb854d63c0298587d796a28b4ea673f49f275f525b206b84bb0a9e964",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/HINATA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 28987,
+          "sha256": "bd2ed575f2aae0a04c584b7dd487302bf794e73b9525d538c44e579044398a36",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/HINATA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 41463,
+          "sha256": "87c28852eb1dcbed7a2eda5cea102c05fd50af5faed4926b3d629d3ac03bfa43",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/HINATA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 13694,
+          "sha256": "ee9bd1d326cb1bc9afef92685b37c426c30bb10cb2e53b4f024e8bced0d7812c",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 38318,
+          "sha256": "d7f5b1178d27c30a24104d6d5230ad5e418b2dae839e65c0ff6d53f1f5d79544",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 25339,
+          "sha256": "65e325109bbb8e99f870a8021ff73a788873757a69a965b10f5380032d360ced",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 60777,
+          "sha256": "da817452942c545e65281d53aca8d190ea26abbb3b79f3e92797b92250784dfc",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 13911,
+          "sha256": "b68907f20991c8a8aef3be4fb53556923a96de91dce2ca6cf3f1055bd9973a85",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_FROZEN_DELIVERY_GROUP_LOCATOR_ERRATUM_V1.md",
+          "byte_count": 1656,
+          "sha256": "4b81795f5f5a20a35e48216e80626c77b9bb0386cc74636beb2b8ce82c44a192",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_FROZEN_DELIVERY_CHECKPOINT_LINE_LOCATOR_ERRATUM_V1.md",
+          "byte_count": 1775,
+          "sha256": "d5221b1098b8cf874f324f262d5d47e03f9b82e7c8f7a87d15c19fd60355b289",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 34017,
+          "sha256": "61d95223a1cc99e69dbbe4dd0d360511d0e1e62dfbf24f95307e8c85a18cb5a2",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 25180,
+          "sha256": "c5fa5b4504c436579cc7aa65d2a82a2129f6b8e54d29bebd9b0ae2a47bead185",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/TSURUGI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 48919,
+          "sha256": "841ac3f719edaabfdf74c92e638e73f5b9b105e8f24d6b117306f194f4d2729b",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/TSURUGI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 15214,
+          "sha256": "ac34e0618b73647bad14b43aa5a6feff11949a260dbd20762416aabd7b11456e",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/BLUE_ARCHIVE_MASHIRO_CHARACTER_MONOGRAPH.md",
+          "byte_count": 36158,
+          "sha256": "e5acb2adcb32cea98d6fe38db414c6287b048d1338ac55962bbd465cad957929",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/MASHIRO_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 29479,
+          "sha256": "79b98113e59c9f1982f70e7e23198493927d5e9826e5422a1c198b6543143c01",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/MASHIRO_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 61488,
+          "sha256": "88df334608f19f535fb78e71dd724ff0ee3a53e37e14a8a2b32ba1e0b650abb9",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/MASHIRO_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 16849,
+          "sha256": "77600686f2ffacf7e8106421aa462495a6dd6628467e32c23482a80c14d2fd21",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 41212,
+          "sha256": "22365fc384fde2790e328934511629b4dafb19384002b0fb583bf8781b16be9f",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 26275,
+          "sha256": "068514ea743e8d71cd393313c689a7dc8a883a652aaa4f0df357be07c2f49e01",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/ICHIKA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 104730,
+          "sha256": "8b2bc3e84e425ffdcf83afd0d265fffa30b368683e988059c640647f94dc815d",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/ICHIKA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 17057,
+          "sha256": "b2a8c13c1e56729cbfb5370b341f5f9788e9c82a29cbb9d128b17478977e97a9",
+          "unchanged": true
+        },
+        {
+          "file": "MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "byte_count": 39054,
+          "sha256": "7240991de4a6a46f12bbe4d88c902d3a4508be0646daf0816761700d54cd7882",
+          "unchanged": true
+        },
+        {
+          "file": "MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 30263,
+          "sha256": "557c5d639d971d8b804853ca6129e9285f70e768028f47184068f244b0f6d11d",
+          "unchanged": true
+        },
+        {
+          "file": "MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/AKANE_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 111145,
+          "sha256": "f687beb8f36c333b52e21e26c113542b41484ccad0dd69d666248f8bd146b4db",
+          "unchanged": true
+        },
+        {
+          "file": "MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/AKANE_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 18474,
+          "sha256": "a091ed3ed42598b3f0db791b8116dac7637a9e51907314ae2019cbc5d8129074",
+          "unchanged": true
+        }
+      ],
+      "author_body_receiving": "7d6bc7/52fccecomplete150linebody pluscorrected26/134/146finalreadbacksenttoROOT",
+      "author_metadata_receiving": "All19Rinputfields/17historicaldetailfields/scopecontrols/all56claimsemanticfields/authorscope/fullsavedreceipt actuallyreadthroughEOFbefore delivery; externaltoolrecords accompany frozen tuples.",
+      "checks": "19guardedRbindings/17qualifiedhistoricalbindings/56savedparagraphjoins/56priorfrozen/11substantivesections/publicsafeUTF8LFnoBOM/<1MiB. Exactcountsnotliteraryacceptance.",
+      "all14gaps": "OPEN",
+      "ROOT_literary_review": "PENDING",
+      "ROOT_adoption": "PENDING",
+      "original_primary_or_performed_or_independent_credit_added": 0,
+      "repository_or_global_writes": 0,
+      "unbound_large_reads_or_hashes": 0,
+      "N_frozen_by_author": false,
+      "quarter_claimed": false,
+      "external_handoff": false,
+      "excluded_working_notes": [
+        "build_neru_receipts_working.py"
+      ],
+      "self_binding": "Externalexacttuplebindsthisreceipt;noembeddedselfSHA."
+    }
+  }
+}

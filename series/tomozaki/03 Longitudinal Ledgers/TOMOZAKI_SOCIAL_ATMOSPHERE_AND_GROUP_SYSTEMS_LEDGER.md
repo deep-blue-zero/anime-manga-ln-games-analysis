@@ -1,11 +1,11 @@
 ---
 series: TOMOZAKI
 artifact_type: longitudinal_social_atmosphere_and_group_systems_ledger
-scope: JP_LIGHT_NOVEL_V01-V11_PLUS_STORY_LOCAL_V06_5_AND_V08_5
-source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus explicitly routed side-story Volumes 06.5 and 08.5; source audit dated 2026-08-29"
-analytical_boundary: V11_OPEN_SPLIT_CLIMAX
+scope: JP_LIGHT_NOVEL_V01-V12_PLUS_STORY_LOCAL_V06_5_AND_V08_5
+source_boundary: "Locked Japanese main V01–V12 plus story-local V06.5/V08.5; historical audit 2026-08-29 and separately corrected/admitted V12 witness 2026-10-22"
+analytical_boundary: V12_SOURCE_END_CURRENT_OVERLAY_WITH_HISTORICAL_V11_STATE
 analytical_generation: V2_REMEDIATION
-generation: V1.1
+generation: V1.3_COVERAGE_PRECISION
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -18,10 +18,12 @@ execution_reasoning_control: "Max (owner-directed for the current remediation op
 execution_reasoning_note: "The execution control is recorded as requested; no equivalence to ChatGPT Pro, a provider tier, or the durable reasoning class is claimed."
 reasoning_policy: "../../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md"
 reasoning_policy_version: "1.0"
-current_boundary: V11_OPEN_SPLIT_CLIMAX
+current_boundary: V12_SOURCE_END
+review_state: V12_SIX_OWNER_SEMANTIC_REVIEW_AND_AUTHOR_PREFLIGHT_PASS_PUBLICATION_SEPARATE
+v12_execution_note: "V12 source pass complete after committed prospective freeze; historical Max control fields above describe remediation and do not certify a newly selectable execution setting."
 ---
 
-# Bottom-Tier Character Tomozaki — social-atmosphere and group-systems ledger through Volume 11
+# Bottom-Tier Character Tomozaki — social-atmosphere and group-systems ledger through Volume 12
 
 ## 1. Responsibility, authority, and boundary
 
@@ -43,7 +45,7 @@ No primary EPUB needed to be reopened for the V1.0 backfill. The source-facing r
 
 ### 1.2 Corpus and continuity control
 
-The main progression is V01 → V02 → V03 → V04 → V05 → V06 → V07 → V08 → V09 → V10 → V11.
+The main progression is V01 → V02 → V03 → V04 → V05 → V06 → V07 → V08 → V09 → V10 → V11 → V12.
 
 V06.5 and V08.5 remain publication-order supplements with story-local diegetic placement:
 
@@ -51,7 +53,7 @@ V06.5 and V08.5 remain publication-order supplements with story-local diegetic p
 - V08.5 contains childhood formation, V07–V08 interstitial material, a Rena retrospective, an explicit alternate story, and segregated adapted material. These layers are not interchangeable.
 - A supplement can change reader reconstruction without changing what the contemporaneous class, group, or individual actors knew.
 
-No V12 event, adaptation, translation, interview, retailer bonus outside the lock, or remembered canon enters the current state. V11 is one part of an unresolved split climax, not the series ending.
+The V11 state below is retained as the historical pre-V12 boundary. The additive V12 consultation and current social-system overlay are in §17; later resolution must not become earlier actor or analyst knowledge. No source beyond V12, adaptation, translation, interview, unadmitted retailer bonus or remembered canon enters the current state.
 
 ### 1.3 Bounded responsibility
 
@@ -66,6 +68,8 @@ This document does not:
 - equate conflict cessation with acknowledgment, restitution, trust repair, or institutional justice;
 - equate group care, majority agreement, interpretive accuracy, or beneficial outcome with a subject's consent; or
 - use the V11 proposed party as evidence of an executed or successful intervention.
+
+**V12 maintenance rule:** §§3–16 retain the earlier evidence and dated R01 state except for explicit routing clarifications. §17 is the current V12 overlay and adjudicates the affected stable SOC-C identities; the older statements that the party is unassembled or return unobserved are historical V11 limits, not present negative claims. This ledger's V12 extension has passed independent source review and the integrating author's combined six-owner semantic acceptance. The staged source transaction passed author preflight; exact publication and integration remain separately recorded by the [completion audit](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md).
 
 ## 2. Social-system state schema
 
@@ -190,12 +194,12 @@ Maintenance is therefore neither trivial nor automatically reparative. It can pr
 - distributed interpretation is not distributed consent; and
 - institutional absence is not proof that no institution or adult exists, only that none is shown doing the required work in the admitted scenes.
 
-## 3. Current social-system boundary at V11
+## 3. Historical social-system boundary at V11 — current V12 overlay in §17
 
 | Field or system | Achieved state | Current fracture, missing rule, or unresolved responsibility | Confidence |
 |---|---|---|---|
 | **school friendship network** | Years of ordinary contact, crisis work, romance mediation, festival production, and shared care create durable differentiated ties. | Third-year course separation and Hinami's absence remove passive repair opportunities; the group disagrees about blame and intervention; no standing crisis process exists. | HIGH |
-| **class atmosphere** | Earlier hostility ceased; Tama gained legibility and refusal capacity; former antagonists returned to ordinary participation; festival work became possible. | No later evidence establishes acknowledgment, restitution, a durable anti-bullying norm, or repaired Konno/Akiyama/Tama trust. Political peace remains the last demonstrated accountability state. | HIGH |
+| **class atmosphere** | Earlier hostility ceased; Tama gained legibility and refusal capacity; former antagonists returned to ordinary participation; festival work became possible. | Akiyama and other group members briefly apologize to Tama in V05 after Konno leaves (§18). Full acknowledgment of participation, Konno's own apology, restitution, a durable anti-bullying norm and repaired trust remain unestablished; political peace does not complete accountability. | HIGH |
 | **status and reputation system** | Reputations are shown to be accumulated, revisable priors that allocate attention, credibility, and response costs. Tomozaki, Tama, Yuzu, and others acquire new public standing through repeated action. | Stored reputations still simplify persons; Hinami's public excellence becomes both access and burden; high-status framing can still outrun informed consent. | HIGH |
 | **Hinami's public-role network** | Her work produced real gratitude, practices, council continuity, and admired routes for others. | Her governing reason collapses; she stops school and council work without normal handoff. Beneficiaries' reliance does not oblige her to continue performing. | HIGH on effects; OPEN on return |
 | **student-council/event continuity** | Mimimi and peers assume unfinished work and preserve an event despite Hinami's absence; Mimimi's improvisation creates audience value. | Substitution keeps the institution functioning but does not repair Hinami, settle role succession, or show sustainable burden allocation. | HIGH / bounded |
@@ -322,14 +326,14 @@ This result must be decomposed:
 | reverse persecution of Konno | stops after Tama's intervention |
 | Tama's class reception | materially improves |
 | Konno's ordinary peer participation | later resumes, aided by Yuzu |
-| acknowledgment of harm | not demonstrated |
-| apology to Tama | not demonstrated |
+| acknowledgment of harm | brief Akiyama/group apology is direct; full participation/responsibility account and Konno acknowledgment remain unestablished (§18) |
+| apology to Tama | Akiyama and other group members directly apologize after Konno leaves; no Konno apology shown (§18) |
 | restitution for the destroyed strap | not demonstrated |
 | Akiyama's full participation/account | unresolved |
 | formal institutional resolution of the harassment | not demonstrated; distinguish the earlier V04 teacher's local questioning of coerced role acceptance |
 | general anti-bullying rule or future procedure | not demonstrated |
 
-The correct state is **cessation plus re-entry, without completed justice**.
+The correct state is **cessation, brief Akiyama/group apology and re-entry, without completed justice**. The attributable source correction and earlier generic negative are preserved in §18.
 
 Yuzu is central to that distinction. She repairs the strap, monitors Hinami, follows the fallen Konno when others do not, and helps her regain ordinary peer life. This is valuable maintenance and a barrier against permanent expulsion. It also permits the class to function without forcing responsible actors to complete acknowledgment or restitution.
 
@@ -534,7 +538,7 @@ These states must be recorded separately:
 | **functional coexistence** | people can share space or project work again | Konno/Akiyama group and class function in V06–V07 |
 | **re-entry** | a fallen/excluded person resumes ordinary participation | Yuzu helps Konno return to her group |
 | **acknowledgment** | responsible actor names conduct and responsibility | not demonstrated for Konno→Tama or Akiyama's full role |
-| **apology** | recipient-directed recognition and regret | not demonstrated in the controlling class case |
+| **apology** | recipient-directed recognition and regret | direct for Akiyama/other group members toward Tama after Konno leaves; no Konno apology established (§18) |
 | **restitution** | material or symbolic loss is addressed by an accountable party | destroyed strap is repaired by Yuzu, not shown restituted by its destroyer |
 | **trust repair** | altered practice makes future reliance reasonable | not demonstrated across Konno/Akiyama/Tama |
 | **norm/institution repair** | group or institution adopts a rule/procedure against recurrence | not demonstrated |
@@ -583,7 +587,7 @@ The longitudinal revision is precise: **distributed competence is usually more c
 
 These gaps are not narrative invitations to supply the most convenient answer. They constrain causal and ethical claims.
 
-## 8. Stable claim-revision register
+## 8. Stable claim-revision register at V11 — V12 adjudication in §17.5
 
 | ID | Prior or recurrent claim | Current disposition and formulation | Controlling basis |
 |---|---|---|---|
@@ -597,7 +601,7 @@ These gaps are not narrative invitations to supply the most convenient answer. T
 | **SOC-C08** | Changing the target changes the punitive mechanism. | **REJECT.** Grievance, moral license, distributed attack, and reply-cost reproduce when Konno replaces Tama as the authorized target. | V05 §§8–10 |
 | **SOC-C09** | Hinami alone controls the V05 crowd outcome. | **REVISE.** She intentionally engineers and escalates key cues; Konno and Akiyama retain agency; accumulated resentment enables distributed attack that exceeds singular control. | V05 §§8–9 |
 | **SOC-C10** | Tama's adaptation validates victim-borne accommodation as the solution to bullying. | **REJECT.** Her owned adaptation expands communicative reach, but the coercive field is unfair, early restraint increases victim cost, and institutional/accountability gaps remain. | V05 §§4–6, 10 |
-| **SOC-C11** | The V05 ending completes justice. | **REJECT.** It achieves cessation, changed reception, and re-entry without demonstrated acknowledgment, apology, restitution, safeguard, or trust repair. | V05 §§10–11; V06 §6 |
+| **SOC-C11** | The V05 ending completes justice. | **REJECT closure / REVISE apology baseline (§18).** Cessation, changed reception, brief Akiyama/group apology and re-entry are direct. Full accounting, Konno apology, restitution, safeguard and durable trust remain unestablished. | V05 §§10–11; exact text/part0028.html P2–25; V06 §6 |
 | **SOC-C12** | Konno's later help and festival participation prove moral repair. | **REJECT.** Prosocial capacity is direct and should be preserved; it is not recipient-directed accountability for prior harm. | V06.5 §11; V07 §14.4 |
 | **SOC-C13** | Yuzu's maintenance is either passive conformity or complete repair. | **REVISE.** Much of it is chosen, skilled agency that preserves affiliation and projects; it can also absorb consequences and invite an unbounded facilitator burden. | V04 §6; V05 §11.4; V06 §6; V10 §5.5; V11 §5.7 |
 | **SOC-C14** | Formal public roles are fake masks opposed to authentic selfhood. | **REJECT.** Election, festival, council, game-community, and performance roles can become owned capacities with real consequences. Compulsory universality and overload remain distinct risks. | V02 §8; V06 §§8–11; V07 §§10–11; V11 §§4.3–4.4 |
@@ -687,13 +691,13 @@ Primary route: `TOMOZAKI_V06_5_SUPPLEMENTAL_READING.md` §6 “Story-local evide
 
 Primary route: `TOMOZAKI_V08_5_SUPPLEMENTAL_READING.md` §6 “Story-local evidence map”; §§8.2–8.4; §10 “Rena's belonging substitute”; §11.1 “`みんなのうた` is explicitly parallel”; §17 “Post-reading abstentions.”
 
-## 12. Open questions and explicit negative constraints
+## 12. Historical V11 open questions and negative constraints — V12 adjudication in §17
 
 ### 12.1 Open questions at the V11 boundary
 
 #### Class harm and accountability
 
-- Do Konno or Akiyama ever acknowledge their specific conduct, apologize, or make restitution?
+- Beyond Akiyama/group’s brief V05 apology, is full conduct/participation acknowledged, restitution made or trust repaired; does Konno herself apologize?
 - Does Tama receive any choice in what repair would count for her?
 - Has the class acquired a durable norm against covert harassment and reverse persecution, or only a memory of one stopped event?
 - Would the acquired interpretive prior protect Tama during a new high-cost disagreement?
@@ -781,7 +785,7 @@ The specialist must:
 7. use the character ledger to prevent facilitators and targets from becoming role labels;
 8. adversarially test whether `空気` is being overextended beyond local evidence;
 9. state what ordinary maintenance achieves and what it conceals;
-10. preserve V11 party formation as prospective; and
+10. preserve V11 party formation as prospective at that historical boundary and use §17 for its later execution and limits; and
 11. route any Japanese lexical or register thesis through the Japanese voice/register ledger and exact source escalation.
 
 The relationship ledger separately recommends a core-peer ensemble specialist. These may become two artifacts or one carefully partitioned pair, but neither responsibility may be reduced to a subsection of the other: the social-system specialist owns field mechanisms; the ensemble specialist owns the accumulated relational agency and cost of the particular peer network.
@@ -918,3 +922,87 @@ When a new admitted source is read:
 - Preserved counterevidence, causal unknowns, V11 open questions, and explicit abstentions.
 - Confirmed the mandatory social-systems specialist while keeping local and distributed evidence in its proper homes.
 - Recorded that this backfill closes one missing cumulative responsibility without passing the broader synthesis gates.
+
+## 17. V12 — current social-system overlay after complete source consultation
+
+### 17.1 Evidence boundary and current decision
+
+V12 advances the proposed party into an executed, contested, distributed writing and delivery project, followed by **present school/peer re-entry**. It strengthens plurality and ordinary participation while retaining the separation between useful effect and legitimate authority. It neither proves a cure nor retroactively validates every input. The core transition is from trying to install the correct interpretation to offering a carefully observed but openly owned story that Hinami can use without erasing doubt.
+
+All V12 locators below mean `item/xhtml/p-NNNN.xhtml` in `Bottom-Tier Character Tomozaki - Volume 12.epub`, SHA-256 `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c`. P counts every paragraph, including empty/image paragraphs. The [admission](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_SOURCE_ADMISSION_AUDIT.md), [pre-prose snapshot](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md) and [completion audit](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md) separate identity, prospective knowledge and achieved consultation. The complete narrative, non-p headings, semantic ruby and all 26 actual images were read; illustration/advertising classification does not create new plot evidence.
+
+| Field | Achieved V12 state | Unresolved responsibility / evidence limit |
+|---|---|---|
+| Peer writing party | Fumiya and Kikuchi recruit Mimimi and Mizusawa; initial doubts, manuscript consent, self-disclosure and improvisation materially change the work. | Contributor agreement is particular; neither plurality nor the novel's success creates prior Hinami consent. p0011 P233–291, P349–507, P511–543; p0013 P9–277. |
+| Subject and reader access | Hinami reads the delivered novel, experiences intrusion and anger alongside identification, and admits a little current self-liking afterward. | Her reading is not unpressured prior authorization. Tears do not prove the representation correct or grant others her private interior. p0022 P124–284, P291–398; p0026 P15–23, P114–119. |
+| School/peer participation | Hinami attends the event in uniform, sits among Mimimi/Tama/Mizusawa and the wider group, responds to ordinary teasing, accepts the exhibition and chooses Found. | The match itself and its result are unnarrated. No complete presidential handoff/restoration, sustained attendance, counseling, family reconciliation or permanent recovery is shown. p0026 P209–258. |
+| Council/event labor | Mimimi and Fumiya keep the event available, with monitor/projector fallback; Ashigaru's professional presentation carries the underplanned program and selects the match. | Fumiya narrates that both left their council work untouched while absorbed in the novel. Capacity is distributed, but a sustainable workload rule remains absent. p0026 P177–209. |
+| Earlier class justice | **NO CHANGE:** V12 gives no new Konno/Akiyama acknowledgment, restitution, trust repair or institutional safeguard. | Hinami's return and present festival/community cooperation cannot close the older bullying accountability case. Prior SOC-C10–12 remain. |
+| Career and broader community | Fumiya begins framing what he wants his professional performance to show; Ashigaru demonstrates performance expertise beyond rank. | No professional success, sponsor/follower result, final match winner or later career outcome is narrated. p0026 P170–173, P239–284. |
+
+### 17.2 Contributions, disagreement, permission and recipient access
+
+The relevant network is differentiated rather than universally coequal or omniscient:
+
+| Named contributor | Actual contribution / ordinary context | Knowledge and authority limit |
+|---|---|---|
+| **Kikuchi Fuka** | Writes, studies, interviews, performs Alcia in improvisation, stops when her own method becomes ethically suspect, undertakes island work, and chooses a writing reason. | Her own consent to send unfinished chapters does not confer a modeled subject's permission. She finally states both that writing was worthwhile and that tears cannot certify correctness. p0011 P240–291; p0013 P324–552; p0021 P429–433; p0026 P114–163. |
+| **Tomozaki Fumiya** | Recruits and relays, hears doubts, gathers Tama's words, travels after renegotiated agreement, assists practical work and carries Kikuchi's bag; meets Hinami after Haruka's DM. | His belief in the final story's future support is an assurance, not demonstrated permanence. He lacks the reader's complete p0022 interior. p0014 P146–206; p0016 P1061–1074; p0024 P3–16; p0026 P23, P40–102. |
+| **Nanami Minami / Mimimi** | Initially doubts rescue by fiction; recognizes herself in Nana, critiques incomplete dependence on being someone's first, and shares costly romantic restraint after a bodily running encounter. | Existing Tama recognition is not annulled: she trusts Tama not to leave abruptly, but fears her own self-regard may not survive physical separation without finding a replacement support. Her concern and self-owned refusal are particular self-accounts, not a complete lifelong independence policy. p0011 P233–239; p0013 P34–169. |
+| **Mizusawa Takahiro** | On karaoke break, eating a large yakitori bowl and teasing Fumiya, then admits one instrumental approach motive; later offers interviews and a reluctant one-time improvisation. | Aoi was **one** motive for approaching Fumiya, not proof every friendship act was instrumental. Sharif dialogue is improvised fiction, not actual Hinami testimony. p0011 P331–507; p0013 P187–277. |
+| **Natsubayashi Hanabi / Tama** | Competently serves family-shop customers; remakes a damaged birthday cake, shares the unsold cake, and articulates childhood hero identification and its costs. | The remake delays others and relies partly on shopkeeper-daughter privilege. Owning a rule is neither pure invulnerability nor universally efficient ethical superiority. No shop inheritance or permanent vocational choice follows. p0014 P30–154. |
+| **Izumi Yuzu / Nakamura Shuji / Takei** | Deliver the manuscript together. Takei's loud call penetrates curtains. At school Yuzu waves, Nakamura sits with her, and Takei loudly encourages Hinami. | Hinami's apology/strategy theories are her hypotheses, not proved visitor motives. Yuzu's final words are unheard under Takei; do not invent them. No new romantic or maintenance-limit settlement follows. p0022 P124–158; p0026 P212–230. |
+| **Hinami Haruka** | Receives the refused manuscript, independently reads and weeps, urges Aoi to take it using Nagisa's name, then alerts Fumiya when Aoi wanders outside. | Participation is meaningful agency, but it does not certify full anticipation, informed representation consent or harmless delivery. Exact shared knowledge remains bounded to shown communication. p0022 P151–226; p0024 P9–12. |
+| **Ashigaru** | Makes an underplanned assembly entertaining and uses professional/live experience to propose the Fumiya/Hinami exhibition. | His initiative enables an event, not a formal mental-health or institutional return procedure. p0026 P177–209. |
+
+Pressure remains part of the mechanism. Hinami first refuses the manuscript; Haruka leaves it, then reads and presses it on her after an emotional response. Aoi can imagine rejecting it and does not, but anger and fear of being redefined coexist with continued reading. The audit therefore **REJECTS** both 'she never exercises agency' and 'engagement retrospectively authorizes all exposure'. Kikuchi's p0026 P117 is controlling counterevidence against outcome-based moral closure.
+
+### 17.3 Nagi Island — plural witnesses, craft dependence and participation without one meaning
+
+The island is a second bounded social field, not a universal model of society. Fumiya and Kikuchi encounter unnamed residents with different memories and uses of Andi's work. Their reports include gaps: the liquor seller cannot explain the intended observation-record remark; the innkeeper knows long stays and late writing but not whether a manuscript was finished. The residents' fish account includes dislike, ordinary indifference and pleasure rather than one correct response. 'He hated feeling he understood' is one resident's hypothesis. These reports broaden observation without becoming exhaustive Andi interiority. p0014 P393–465; p0016 P195–260, P501–584.
+
+**Umayahara Mitsu / 馬屋原ミツ** remains an individual: exact color judgment, changing kimono colors, neatly maintained nails, impatience, refusal of pity, impaired fingers without a diagnosis, reluctant delegation, professional correction, and quiet archive maintenance. No spouse status is established. Her acceptance of help does not erase her authority over her shop; her correction of the teens' temporary costume proposal preserves specialized craft rather than validating amateur replacement. The wrong sample's exact cause remains guessed, not an established culprit. p0014 P469–483; p0016 P1–31, P405–497, P666–858, P861–888.
+
+The festival also has concrete labor and material constraints: youth departure creates shortages; weather destroys birds; replacements are insufficient; food/lights remain partly damaged; tide and narrowed path require timing. Mitsu starts work despite pain and inadequate time, others join, and Kikuchi's observation lets children give **their own** accounts of damaged birds. Their meaning-making does not repair the paper or prove the storm was good. Combining damaged with new birds creates enough usable material without denying loss. p0016 P265–301, P1157–1308; p0018 P1–48.
+
+Andi did not simply impose one new myth on a reconciled island. Mitsu explicitly says people still quarreled, but sat together waiting for story continuations. Later residents adopted and changed selected elements without his command. On Mio Island, elders pray, young people take pictures, and children play; an elder says debating the place's meaning causes conflict, whereas placing birds permits common practice. Shared participation and incompatible interpretation coexist. The social achievement is **a usable shared occasion**, not consensus, uniform belief, or abolishing prior conflict. p0016 P925–949; p0018 P166–258.
+
+The color exercise is equally relational: a named color changes appearance with its neighbor, light, wearer and angle; the final costumes retain different base colors and become a pair through small contextual changes. This supports recipient/context sensitivity, not a formula that any two people must complement each other or that all antagonisms are curable through reframing. p0016 P429–464, P728–848; p0018 P134–143. The [voice ledger](TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md) owns exact color terminology and the belief/telling/record/wish/prayer sequence.
+
+### 17.4 Actor knowledge, ordinary re-entry and unresolved repair
+
+V12 deliberately gives the reader Hinami's private narrative in p0022. She identifies the room/scroll visual as a reminder, admits self-hatred in a whisper she believes Fumiya did not hear, and retains uncertainty about Nagisa's last step. That reader access is not one completed peer interview. Fictional execution, stargazing, necromancy and the voiced Nagisa are not evidence real Nagisa did those things. Aoi's interpretation of others—including her earlier low appraisal of Mimimi—is also a perspective, not the ledger's endorsed verdict. p0022 P42–110, P291–347, P504–512, P746–979.
+
+The final ordinary group arrangement matters independently of grand rescue language. Hinami sits beside Mimimi and Tama, Mizusawa nearby, Yuzu/Nakamura together and Takei behind. Mimimi jostles; Hinami pushes back and says stop. Mizusawa invites enjoyment. Tama looks concerned and Hinami looks back. Yuzu's wave is visible but words are inaudible. Returning as an audience member to her own planned event shows participation without requiring immediate performance of every former office duty. Fumiya's inference that she no longer judges performance wrong must not become direct Hinami testimony. p0026 P209–238. Later, Hinami directly says that she has stopped clinging to correctness; she is describing herself, not instructing Fumiya to stop. p0026 P266–268.
+
+Aoi directly admits a little current self-liking, and Fumiya expressly allows this might be temporary. His proposal that a story can remain available when people die or circumstances change rejects becoming a replacement Nagisa and moves the second support point away from one exclusive living rescuer. It remains an owned assurance, not an empirically shown lifelong stopping/return protocol. Nagisa's death cause, comprehensive disclosure permission, durable school/council arrangements, Rena's boundaries, Mizusawa's renewed confession, Yuzu's absorber limit and old class accountability remain unresolved where V12 supplies no new event. p0026 P15–102, P114–119, P239–284.
+
+### 17.5 Stable SOC-C adjudication and propagation
+
+All **SOC-C01–SOC-C22** remain intact. The §8 rows retain their V11 record; these are their present V12 extensions, not new replacement identities.
+
+| Existing identities | V12 disposition / current extension | Source route |
+|---|---|---|
+| SOC-C01–04, SOC-C07–12 | **PRESERVE / NO NEW ACCOUNTABILITY:** local permission, status and punitive mechanisms remain supported; present re-entry does not create earlier restitution or safeguard. | Earlier §8 routes; V12 p0026 P209–234 supplies no class-accountability event. |
+| SOC-C05 | **PRESERVE:** no new rumor verification rule; island memories and Hinami's visitor hypotheses must stay attributed. | p0014 P393–465; p0022 P124–127. |
+| SOC-C06, SOC-C15 | **STRENGTHEN:** common activity permits different purposes and interpretations; selected literary work and wider embodied/community participation coexist. | p0016 P925–949; p0018 P166–258. |
+| SOC-C13 | **STRENGTHEN agency / OPEN limit:** Yuzu participates in delivery and ordinary return; neither guilt, total plan ownership nor sustainable repair capacity is established by these acts. | p0022 P124–158; p0026 P212–230. |
+| SOC-C14, SOC-C16–18 | **STRENGTHEN:** public form and ordinary membership are real; Fumiya selects exhibition narrative beyond optimal-main choice; Takei's loudness has useful recipient reach without becoming universal tact. | p0026 P177–284; p0022 P137–158. |
+| SOC-C19 | **REVISE historical prospect / PRESERVE ethical limit:** the party now assembles, revises and delivers. Plurality changes author method and reception, but subject consent remains distinct and pressure visible. | p0011 P511–543; p0013 P34–82, P371–488; p0022 P124–284. |
+| SOC-C20 | **STRENGTHEN real effects / REVISE return:** Hinami re-enters a school audience and chosen play; no duty to restore indefinite perfect performance or full office handoff is inferred. | p0026 P209–239. |
+| SOC-C21 | **PRESERVE distinction / REVISE personal endpoint:** institutional output and personal return both occur now, but are not identical; underplanning and expert substitution expose remaining costs. | p0026 P177–234. |
+| SOC-C22 | **STRENGTHEN:** beneficial affect is explicitly insufficient to prove rightness or actual Nagisa's voice. Owned writing can remain worthwhile without ethical/categorical closure. | p0026 P114–119. |
+
+This current overlay feeds the six-owner atomic transaction and later social-system/ensemble specialists. It does not complete the retrospective fourteen-witness character sweep, R06 individual scope decisions, those specialists, or the final synthesis. The historical V11 prospective party and unknown return remain correct at their earlier boundaries. No new SOC identity, class-harm resolution or future event is manufactured to close the ledger.
+
+### V1.2 — 2026-10-22 — V12 source-facing extension
+
+Updated only the declared current metadata/title/routing, retained earlier chronological argument and SOC-C01–22, and added §17 with source-grounded current adjudication. The original V1.0/V1.1 history and accepted R01 attribution corrections remain unchanged. Full V12 consultation is complete; acceptance of the combined six-owner transaction and repository/publication validation remain with the integrating author.
+
+## 18. Coverage-audit correction — apology is an act, not a completed justice system
+
+**2026-10-23; REVISE current generic negatives; preserve SOC-C11's rejection of completed justice.** V05 `text/part0028.html` P2–6/P16–25 was independently read by the middle-bucket reviewer and integrating author in the verified Japanese V05 witness (`f43355c286c8b33db529febb6389cb08fa9ef5a65a7e13e3c2a8490214965e89`). Konno has left before Akiyama apologizes at P17–18; other group members apologize at P19. Tama's weighty acknowledgment at P21–24 and the class response at P25 do not establish a full confession, restitution, blanket forgiveness, institutional procedure or guarantee of future trust. Qualified forgiveness is not ruled out by the absence of a light dismissal.
+
+Earlier §5.5 cells said “acknowledgment of harm | not demonstrated” and “apology to Tama | not demonstrated”; §8's taxonomy and SOC-C11 repeated a generic no-apology result. Those formulations were too broad. They are corrected above with this dated revision history. The §3/open-question shorthand is narrowed accordingly. Konno's own apology remains unshown; Akiyama's full participation and durable accountability remain OPEN. Yuzu's strap repair and re-entry work do not become aggressor restitution. Useful Konno conduct in V06.5/V07 remains genuine without inheriting Akiyama's act.
+
+The full-witness V12 finding remains **NO NEW RELEVANT ACCOUNTABILITY TEST**; final reunion supplies no missing earlier remedy. This correction changes the retrospective baseline, not the V12 event register or any immutable reading. Neighboring character/claim owners and current-map summary carry the same actor-specific formulation. All twenty-two SOC identities remain intact; no claim of completed coverage, R06 maturity, specialist convergence or release follows from this local repair.

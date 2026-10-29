@@ -1,0 +1,529 @@
+{
+  "schema": "konosuba.remaining 16.authority-adoption.v1",
+  "authored_utc": "2026-10-27T00:16:52.285818+00:00",
+  "status": "AUTHOR_SCOPED_ADOPTION_ACCEPTED_PENDING_CONTAINING_PUBLICATION",
+  "basis_commit": "c5a176928f08aac6a445af355e57a8b3f6d7cc58",
+  "decision": "Adopt15 administrative current-public derivatives with complete unchanged arguments, and one separately authored substantial current Sylvia paper under the operative C25 authority-qualification policy. Preserve all private originals/test histories and the original public Sylvia paper. These are scoped interpretations, not new people, models, grades or maturity claims.",
+  "proposal_sha256": "e344641286df4b81e7099a976c13720fe81294ba9a7ecd4ac41ca5bdaf228544",
+  "complete_argument_review_packets": [
+    {
+      "packet": "remaining16-rex-soketto-wolbach-authority-proposals-v1.json",
+      "sha256": "c172f65b469821ddb64f1ed86e1660c2a9d3141d874abee6d7726d5ccf6e8df4"
+    },
+    {
+      "packet": "remaining16-crimson23-and-cohort29-authority-proposals-v1.json",
+      "sha256": "db8cf018918a1ebe131f544cdd9296841280b2debdc23f79cf3be33d66a7a7a2"
+    },
+    {
+      "packet": "remaining16-fantastic30-mitsurugi-chekera-sylvia-authority-proposals-v1.json",
+      "sha256": "305b3393f70e28230361aa7c5858a5e22e1b3da642a3e11f820a82c09a05700c"
+    }
+  ],
+  "receiving": {
+    "root_all16_complete_proposal_arguments": [
+      "d4ee06",
+      "c51cea",
+      "b1970f",
+      "a61dca"
+    ],
+    "root_complete_Sylvia_original_and_actual_C25_policy": "d74975",
+    "root_complete_two_representative_new_authority_frames": "51ec40",
+    "root_new_Sylvia_argument_authored_and_independently_received": true,
+    "Sylvia_authority_review_sha256": "a781937297243d965e734ed9bb8dcfc37108aa5e76317a9ccfafaad3abc2a79d",
+    "root_acceptance_scope": "Complete transferred scope/authority/lock arguments and exact inheritance of the separately reviewed full monographs; current Sylvia causal/rival/identity argument plus entire attributed original. No new whole primary-source pass or independent behavioral validation."
+  },
+  "current_scope_clarifications": "Sylphina and Zereschilt header values identify the shared cohort 29 preparation explicitly; the irrelevant Barton-only concentration clause is omitted from their new headers. Slot/member/object/plane limits and all analytical body bytes remain unchanged.",
+  "original_preservation": "Every one of the 15 administrative arguments remains a complete exact suffix. Sylvia’s current paper retains the entire reviewed current argument and its complete attributed original; the old public/private Sylvia files remain untouched. Explicit source/input/first/byte restrictions remain operative at their actual scopes.",
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_REX_CHARACTER_MONOGRAPH.md",
+      "subject": "REX",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_REX_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 16787,
+      "prior_public_sha256": "b193933c729f6b9af045daecbf9a7ad21dc3d4c8aa1263c1b5d06902c1fb7dab",
+      "new_bytes": 18577,
+      "new_sha256": "2360bf4031aab5bc4a33222b82392b58bf7e95731f08933738c88b5a0e349c3a",
+      "prefix_bytes": 1790,
+      "prefix_sha256": "8dbe40567dbeadd91e8bf1af2e17c894fc274cc09f20e81260a42489a9875577",
+      "argument_suffix_bytes": 16787,
+      "argument_suffix_sha256": "b193933c729f6b9af045daecbf9a7ad21dc3d4c8aa1263c1b5d06902c1fb7dab",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "1556 known BASE context slots/six members/twoobjects; four complete EXP03 BASE members and two partial CONTEXP02 members. No new full ruby/image/whole-source/admission/independent credit.",
+      "adopted_source_boundary": "1556 known BASE context slots/six members/twoobjects; four complete EXP03 BASE members and two partial CONTEXP02 members. No new full ruby/image/whole-source/admission/independent credit.",
+      "source_publication": "fdd72d658e75bf527f9b564118a39edaf5809caa",
+      "scope_rationale_and_limits": "Three conditional hypotheses join selective local updating, finite practical teamwork/protection and usable-role recruitment. Rex, Sophie and Terry retain separate speech/acts; wrong Max address is corrected, not a second entity or alias. Pride/reputation/recruitment/team-role rivals and uncertain injury/immobility remain.",
+      "literal_owning_scope": {
+        "no_post_output_revision_allowed": true,
+        "regenerations_allowed": 0,
+        "repairs_allowed": 0
+      },
+      "name_and_reference_receiving": [
+        "0b9bdf"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SOKETTO_CHARACTER_MONOGRAPH.md",
+      "subject": "SOKETTO",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SOKETTO_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 16286,
+      "prior_public_sha256": "d1fcebc4bee6be45bbcd23440511cb7b9197bbada82cc8f0b5936bbbe7eb512f",
+      "new_bytes": 18148,
+      "new_sha256": "a3f5ab080c95797d6be84f5f47e6ee050c36b3d53c329c90a937b27b5aafe4d6",
+      "prefix_bytes": 1862,
+      "prefix_sha256": "7208f2367f120820e612de80fca962350ce32476f7838c80869b9e7f0421453c",
+      "argument_suffix_bytes": 16286,
+      "argument_suffix_sha256": "d1fcebc4bee6be45bbcd23440511cb7b9197bbada82cc8f0b5936bbbe7eb512f",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "Shared C21 3154 known BASE slots/20members/5objects plus3actual prior image rechecks, with particular forest/consultation and qualified reported/tourist return. Context is not personal decisions or a fresh whole-source/ruby/admission/independent pass.",
+      "adopted_source_boundary": "Shared C21 3154 known BASE slots/20members/5objects plus3actual prior image rechecks, with particular forest/consultation and qualified reported/tourist return. Context is not personal decisions or a fresh whole-source/ruby/admission/independent pass.",
+      "source_publication": "6cdc432fc24893957af1717db86982aa9da8b848",
+      "scope_rationale_and_limits": "Substantial conditional analysis of selective future disclosure, finite divination access and conditional personal boundaries. Soketto/Socket/そけっと form one supported alias join; Bukkorori surveillance is not neutral biography. Yunyun owns bandaging; crystal/shop location supplies no Soketto healing. Harassment-endurance advice and violent retaliation remain adverse; no guaranteed romance or perfect oracle.",
+      "literal_owning_scope": {
+        "status": "FOUNDATION_SEMANTIC_RECEIVING_COMPLETE_EXACT_INPUTS_AND_FIRST_BODIES_NOT_AUTHORED",
+        "precision_before_freeze": "Index grammatical Knew attraction corrected to His attraction; provenance historical boundary/admission-reference qualifiers added. No source/model/first-body correction after feedback."
+      },
+      "name_and_reference_receiving": [
+        "f5857c"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_WOLBACH_CHARACTER_MONOGRAPH.md",
+      "subject": "WOLBACH",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_WOLBACH_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 18065,
+      "prior_public_sha256": "8c2e40a54e0f1ec29b1d96164f8adf93fa687815a2f86cd9ef68ac0fd2c73bba",
+      "new_bytes": 19923,
+      "new_sha256": "4949bf2d1635687e12604c50a1321816d5ab892d0e58d811b5d488c257313c87",
+      "prefix_bytes": 1858,
+      "prefix_sha256": "d7c60b51db274c3cddb8969fcffbfe87132228d4a2f5ad56b74a620bbdfaeac1",
+      "argument_suffix_bytes": 18065,
+      "argument_suffix_sha256": "8c2e40a54e0f1ec29b1d96164f8adf93fa687815a2f86cd9ef68ac0fd2c73bba",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "Shared C17 3093 known BASE slots/20members/7objects plus8actually inspected EXP03 integral prose images with visible ruby. Source-known text/reports/retellings remain typed; no independent observations or new whole-source/Japanese adequacy credit.",
+      "adopted_source_boundary": "Shared C17 3093 known BASE slots/20members/7objects plus8actually inspected EXP03 integral prose images with visible ruby. Source-known text/reports/retellings remain typed; no independent observations or new whole-source/Japanese adequacy credit.",
+      "source_publication": "3ed7a3e59383fc701f72073619ec8a7b5d6c16f2",
+      "scope_rationale_and_limits": "Full analysis preserves considerate rescue/food/company beside committed warfare, refusal of nonaggression, information errors, finite power and guarded disclosure. Explicit bath name and later carriage invitation backjoin support identity; Arnes and Chomusuke retain separate present agency/access. Recognition denials, allegiance motive and uncertain smile are not turned into known lies, noble purpose or chosen death.",
+      "literal_owning_scope": {
+        "stage": "MODEL_RULE_AND_TWO_MONOGRAPHS_BEFORE_EXACT_INPUT_CONSTRUCTION",
+        "allowed_next": "Construct exact internal English hypothetical scenarios,save/freeze exact bytes,then save actual first bodies without repair or regeneration and assess limitations honestly."
+      },
+      "name_and_reference_receiving": [
+        "d49adc"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_PUCCHIN_CHARACTER_MONOGRAPH.md",
+      "subject": "PUCCHIN",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_PUCCHIN_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 13447,
+      "prior_public_sha256": "920f3160342c26c47544db818d31f7fcb05b40fd64e551c254d47bc83a350fac",
+      "new_bytes": 15245,
+      "new_sha256": "272ad9496bbcdfaad6299abf7f6df158acbb7d9497cd0b6b6fd4eba3ef45caa8",
+      "prefix_bytes": 1798,
+      "prefix_sha256": "2334a6320135ef5eb6f294f9e93242c7f97fd1c5414b196bc19e72e1f1baaedd",
+      "argument_suffix_bytes": 13447,
+      "argument_suffix_sha256": "920f3160342c26c47544db818d31f7fcb05b40fd64e551c254d47bc83a350fac",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "Shared3992knownBASE/22members/7textobjects plus1FAN-MEMpage/eighthobject; context/negative retrieval are not personal decisions, no new whole-source/ruby/image-set/admission/independence.",
+      "adopted_source_boundary": "Shared3992knownBASE/22members/7textobjects plus1FAN-MEMpage/eighthobject; context/negative retrieval are not personal decisions, no new whole-source/ruby/image-set/admission/independence.",
+      "source_publication": "d7eb6ef45283a473c97f019f9db4400647cfce5a",
+      "scope_rationale_and_limits": "Performance-weighted assessment and dramatic timing coexist with useful instruction, real rescue, ordinary teaching and needs-triggered recipe/material support. Bad delay, exclusion, appropriation and actual limits remain; teacher/principal/artisans and pupil medicine roles are differentiated. ぷっちん is selfnamed, principal ambition is not promotion. No material section15 referent defect found.",
+      "literal_owning_scope": {
+        "original_private_foundation_frozen": true,
+        "original_private_and_current_public_argument_byte_equal": true,
+        "original_private_must_remain_exact": true,
+        "tested_models_inputs_firsts_scores_and_nulls_unchanged": true,
+        "new_perpetual_public_copy_lock_not_inferred_from_SHA": true,
+        "finding": "Actual C23 seal fixes9private foundation files; input/body controls all9 foundations unchanged and regeneration_or_feedback_repair_allowed=false remain operative. No C18-style after-seal every-listed-monograph-byte policy over every later public current derivative was found in fully received controls."
+      },
+      "name_and_reference_receiving": [
+        "a12efe"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YUIYUI_CHARACTER_MONOGRAPH.md",
+      "subject": "YUIYUI",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YUIYUI_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 13598,
+      "prior_public_sha256": "9482e62d86c64e014faa171433903ba7ea549f1c350e67412fdd44a50d796c96",
+      "new_bytes": 15394,
+      "new_sha256": "9eecad08eef2f7afa7e02ce836ad98540b8dc03729da70a2d94c948d54f427da",
+      "prefix_bytes": 1796,
+      "prefix_sha256": "b9b7eeda7d0499ea7e4e331cb94781467bed13605dfb8b57ae32ea1499187129",
+      "argument_suffix_bytes": 13598,
+      "argument_suffix_sha256": "9482e62d86c64e014faa171433903ba7ea549f1c350e67412fdd44a50d796c96",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "Shared3992knownBASE/22members/7textobjects plus1FAN-MEMpage/eighthobject; context/negative retrieval are not personal decisions, no new whole-source/ruby/image-set/admission/independence.",
+      "adopted_source_boundary": "Shared3992knownBASE/22members/7textobjects plus1FAN-MEMpage/eighthobject; context/negative retrieval are not personal decisions, no new whole-source/ruby/image-set/admission/independence.",
+      "source_publication": "d7eb6ef45283a473c97f019f9db4400647cfce5a",
+      "scope_rationale_and_limits": "Household/future agenda, resource-sensitive appraisal and fallible adaptation preserve recipient refusal, coercive spells, actual failures, later unshown neutralization and mutual drinking exhaustion. Concern/work are not erased; warmth does not stand for consent. ゆいゆい is separately named from husband, chief and teacher; no material section15 referent defect found.",
+      "literal_owning_scope": {
+        "original_private_foundation_frozen": true,
+        "original_private_and_current_public_argument_byte_equal": true,
+        "original_private_must_remain_exact": true,
+        "tested_models_inputs_firsts_scores_and_nulls_unchanged": true,
+        "new_perpetual_public_copy_lock_not_inferred_from_SHA": true,
+        "finding": "Actual C23 seal fixes9private foundation files; input/body controls all9 foundations unchanged and regeneration_or_feedback_repair_allowed=false remain operative. No C18-style after-seal every-listed-monograph-byte policy over every later public current derivative was found in fully received controls."
+      },
+      "name_and_reference_receiving": [
+        "2d4fa0"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_BARTON_CHARACTER_MONOGRAPH.md",
+      "subject": "BARTON",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_BARTON_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 12425,
+      "prior_public_sha256": "2e48bf3360f2c684cb3e5a0809b198daac425a8c3854e8f2ab653f0f824ee6f1",
+      "new_bytes": 14275,
+      "new_sha256": "98067a5e05c40137f0b3f54d6fcbffd7515055369cc719092e1cfdbac24bc5fd",
+      "prefix_bytes": 1850,
+      "prefix_sha256": "9c966ae592bcfb2e5279c2bbee93ee0dbe158f5d5aeaeb2a66e08bcd93b62483",
+      "argument_suffix_bytes": 12425,
+      "argument_suffix_sha256": "2e48bf3360f2c684cb3e5a0809b198daac425a8c3854e8f2ab653f0f824ee6f1",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "Shared68source-known windows/6730uniqueBASE/40members/18objects/14completeBASEmembers; bibliographic and creator-afterword planes distinct. Barton concentrated in one title; no new whole-source/ruby/residual/image-set/admission/independence.",
+      "adopted_source_boundary": "Shared68source-known windows/6730uniqueBASE/40members/18objects/14completeBASEmembers; bibliographic and creator-afterword planes distinct. Barton concentrated in one title; no new whole-source/ruby/residual/image-set/admission/independence.",
+      "source_publication": "f6297f384640a97edf0bbd31853699e6f632edea",
+      "scope_rationale_and_limits": "Scholarly recognition, relationship feedback, curiosity and selective care are substantial conditional mechanisms. Useful facts remain distinct from weather causal proof, task-fit and finite stamina; childhood friend Barbera owns reported refusal/unheard replies, with no marriage assent. バートン selfname; professor demand precedes reported doctorate. No material section15 defect found.",
+      "literal_owning_scope": {
+        "original_private_foundation_frozen": true,
+        "original_private_and_current_public_argument_byte_equal": true,
+        "original_private_must_remain_exact": true,
+        "tested_models_inputs_firsts_scores_and_nulls_unchanged": true,
+        "new_perpetual_public_copy_lock_not_inferred_from_SHA": true,
+        "finding": "Actual C29 seal FROZEN_BEFORE_EXACT_INPUTS_AND_FIRST_BODIES binds named private files with public target mappings. Original first-body freeze forbids regeneration/repair. Public display_prose_precision says all17frozen files/13canonicalcores remain byte-exact in that formatting/publication operation. Preserve these original streams; no C18-style perpetual-after-seal copy rule is inferred from the target pins or this scoped observation."
+      },
+      "name_and_reference_receiving": [
+        "62fd22"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SYLPHINA_CHARACTER_MONOGRAPH.md",
+      "subject": "SYLPHINA",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SYLPHINA_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 11020,
+      "prior_public_sha256": "d4ed46a423abd82342a75eb216a2fac12d1193296882b27497f4b884220eda1b",
+      "new_bytes": 13009,
+      "new_sha256": "c617602069dbf6d67b4cc16c6ca5f113d1967f3c5c0bf889426973dc256a2016",
+      "prefix_bytes": 1989,
+      "prefix_sha256": "3dccd4565d00aadcff2f654d67a14245bc45acefd1c267c89efb334f16f6f1ab",
+      "argument_suffix_bytes": 11020,
+      "argument_suffix_sha256": "d4ed46a423abd82342a75eb216a2fac12d1193296882b27497f4b884220eda1b",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "Shared68source-known windows/6730uniqueBASE/40members/18objects/14completeBASEmembers; bibliographic and creator-afterword planes distinct. Barton concentrated in one title; no new whole-source/ruby/residual/image-set/admission/independence.",
+      "adopted_source_boundary": "Shared cohort29 preparation:68 source-known windows,6730 unique BASE slots,40 members,18 objects and14 complete BASE members, with bibliographic/creator-afterword planes separate. This actor’s actual windows and access are bounded by the retained monograph and its individual index; no personal-event denominator, new whole-source/ruby/image/admission or independent credit.",
+      "source_publication": "f6297f384640a97edf0bbd31853699e6f632edea",
+      "scope_rationale_and_limits": "Substantial child-centered descriptive argument preserves own play/revision, care, gifts, thanks, affect and ordinary life. Mama is attachment address, not biological/adoptive parentage; actual illness, temporary recovery, remedy and reported school attendance have separate chronology. No quota-driven model, adult motives, sexual profile or generic illness-only reduction. No material section15 defect found.",
+      "literal_owning_scope": {
+        "original_private_foundation_frozen": true,
+        "original_private_and_current_public_argument_byte_equal": true,
+        "original_private_must_remain_exact": true,
+        "tested_models_inputs_firsts_scores_and_nulls_unchanged": true,
+        "new_perpetual_public_copy_lock_not_inferred_from_SHA": true,
+        "finding": "Actual C29 seal FROZEN_BEFORE_EXACT_INPUTS_AND_FIRST_BODIES binds named private files with public target mappings. Original first-body freeze forbids regeneration/repair. Public display_prose_precision says all17frozen files/13canonicalcores remain byte-exact in that formatting/publication operation. Preserve these original streams; no C18-style perpetual-after-seal copy rule is inferred from the target pins or this scoped observation."
+      },
+      "name_and_reference_receiving": [
+        "62fd22"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ZERESCHILT_CHARACTER_MONOGRAPH.md",
+      "subject": "ZERESCHILT",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ZERESCHILT_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 13233,
+      "prior_public_sha256": "31eb35362774e30675acff60c1b37189e507c6a934b9b19bc14183a74cdcfba3",
+      "new_bytes": 15226,
+      "new_sha256": "2705ff7adedabce97ca9eec331527e72ac02bca9fb10015615a52b094e0d1b23",
+      "prefix_bytes": 1993,
+      "prefix_sha256": "19bbc1fa7a830712f8eea982480ad0584a3de72c06e42db0982e2f3f2dd4ef81",
+      "argument_suffix_bytes": 13233,
+      "argument_suffix_sha256": "31eb35362774e30675acff60c1b37189e507c6a934b9b19bc14183a74cdcfba3",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "Shared68source-known windows/6730uniqueBASE/40members/18objects/14completeBASEmembers; bibliographic and creator-afterword planes distinct. Barton concentrated in one title; no new whole-source/ruby/residual/image-set/admission/independence.",
+      "adopted_source_boundary": "Shared cohort29 preparation:68 source-known windows,6730 unique BASE slots,40 members,18 objects and14 complete BASE members, with bibliographic/creator-afterword planes separate. This actor’s actual windows and access are bounded by the retained monograph and its individual index; no personal-event denominator, new whole-source/ruby/image/admission or independent credit.",
+      "source_publication": "f6297f384640a97edf0bbd31853699e6f632edea",
+      "scope_rationale_and_limits": "Substantial conditional account of recognition/emotional exchange, threat-specific regulation, refuge/reciprocity and work preserves inflicted harm and victimization, finite nearby revival, coerced concessions, ordinary competence and source-specific ranks/name forms. Distinct from Biflantz/Zel/possessed bear; strength-test requester is correctly Zereschilt. No material section15 defect found.",
+      "literal_owning_scope": {
+        "original_private_foundation_frozen": true,
+        "original_private_and_current_public_argument_byte_equal": true,
+        "original_private_must_remain_exact": true,
+        "tested_models_inputs_firsts_scores_and_nulls_unchanged": true,
+        "new_perpetual_public_copy_lock_not_inferred_from_SHA": true,
+        "finding": "Actual C29 seal FROZEN_BEFORE_EXACT_INPUTS_AND_FIRST_BODIES binds named private files with public target mappings. Original first-body freeze forbids regeneration/repair. Public display_prose_precision says all17frozen files/13canonicalcores remain byte-exact in that formatting/publication operation. Preserve these original streams; no C18-style perpetual-after-seal copy rule is inferred from the target pins or this scoped observation."
+      },
+      "name_and_reference_receiving": [
+        "d55df6"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CIELO_CHARACTER_MONOGRAPH.md",
+      "subject": "CIELO",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CIELO_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 13116,
+      "prior_public_sha256": "344bfd0af405a0ea3dbb0f55d345394b90ea14a0d1cb49c4ae74480dde661fc5",
+      "new_bytes": 15014,
+      "new_sha256": "41780172f2aff6a10a7949d9a0bf9ee47cd6ad8435c98cb1dc4750538f796ac9",
+      "prefix_bytes": 1898,
+      "prefix_sha256": "f710d328977a2398bf88c4be3b935e81591988cefd2908c655033eebc93b75d8",
+      "argument_suffix_bytes": 13116,
+      "argument_suffix_sha256": "344bfd0af405a0ea3dbb0f55d345394b90ea14a0d1cb49c4ae74480dde661fc5",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "Fantastic Days Japanese novelization ONLY, selective PartOne adaptation;3707knownBASE/15complete positive-P members/33deliveries/one admittedlocalobject, 3645narrative62nonfiction. Original ruby/residual/15image admission separate, no newgame/main continuity or newsource/independent credit.",
+      "adopted_source_boundary": "Fantastic Days Japanese novelization ONLY, selective PartOne adaptation;3707knownBASE/15complete positive-P members/33deliveries/one admittedlocalobject, 3645narrative62nonfiction. Original ruby/residual/15image admission separate, no newgame/main continuity or newsource/independent credit.",
+      "source_publication": "681d9d058caabc38a26c56496c255677e2a2d616",
+      "scope_rationale_and_limits": "Bodily contact conditions, actual refused/forced touch, particular care/belonging, performance growth, deliberate violence and finite competence remain distinct. ボク does not make her male; source fear label is not diagnosis or treatment efficacy. Strong generic-care/automatic-reaction rivals persist.",
+      "literal_owning_scope": {
+        "status": "FROZEN_BEFORE_EXACT_INPUTS_AND_FIRST_BODIES",
+        "original_first_status": "ALL24_ACTUAL_ORIGINAL_FIRSTS_FROZEN_BEFORE_ANNOTATION",
+        "body_regenerations": 0,
+        "feedback_repairs": 0
+      },
+      "name_and_reference_receiving": [
+        "7f1a35"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ERIKA_CHARACTER_MONOGRAPH.md",
+      "subject": "ERIKA",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ERIKA_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 12950,
+      "prior_public_sha256": "00f41a2d315d1c69cd4d6b1ced943a5c5e169a1b53cb1393d5d56085651ba623",
+      "new_bytes": 14848,
+      "new_sha256": "82e0fe0e53c9992a71e8443aa2dbec5a7731ee4b92dcb6ee19c6c0abeac69358",
+      "prefix_bytes": 1898,
+      "prefix_sha256": "769456717d5baebb8eda4ef7fd364bf8c732a8c419ef5fa31451594487e1f9f7",
+      "argument_suffix_bytes": 12950,
+      "argument_suffix_sha256": "00f41a2d315d1c69cd4d6b1ced943a5c5e169a1b53cb1393d5d56085651ba623",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "Fantastic Days Japanese novelization ONLY, selective PartOne adaptation;3707knownBASE/15complete positive-P members/33deliveries/one admittedlocalobject, 3645narrative62nonfiction. Original ruby/residual/15image admission separate, no newgame/main continuity or newsource/independent credit.",
+      "adopted_source_boundary": "Fantastic Days Japanese novelization ONLY, selective PartOne adaptation;3707knownBASE/15complete positive-P members/33deliveries/one admittedlocalobject, 3645narrative62nonfiction. Original ruby/residual/15image admission separate, no newgame/main continuity or newsource/independent credit.",
+      "source_publication": "681d9d058caabc38a26c56496c255677e2a2d616",
+      "scope_rationale_and_limits": "Recognition, credibility after betrayal, particular trio and audience-driven shared-resource lapse are differentiated. エーリカ is actual spelling; エリカ only retrieval variant. Her parental hope does not prove parents intentions/reunion, no inferred trauma mechanism.",
+      "literal_owning_scope": {
+        "status": "FROZEN_BEFORE_EXACT_INPUTS_AND_FIRST_BODIES",
+        "original_first_status": "ALL24_ACTUAL_ORIGINAL_FIRSTS_FROZEN_BEFORE_ANNOTATION",
+        "body_regenerations": 0,
+        "feedback_repairs": 0
+      },
+      "name_and_reference_receiving": [
+        "7f1a35"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LIA_CHARACTER_MONOGRAPH.md",
+      "subject": "LIA",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LIA_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 13903,
+      "prior_public_sha256": "81dbe59b674e1b7a2dd376895f6cf0f06fe1333c7dcd18af641fe3103c9324b8",
+      "new_bytes": 15797,
+      "new_sha256": "b67032fbd5e9a9dbf2745d070fe8488b256eb3084805fa5bdcaf7b78ac802c4c",
+      "prefix_bytes": 1894,
+      "prefix_sha256": "9bc9499b60751417164b4fb8cb4bb7594c12634fcebd6b39978abc0ff8710873",
+      "argument_suffix_bytes": 13903,
+      "argument_suffix_sha256": "81dbe59b674e1b7a2dd376895f6cf0f06fe1333c7dcd18af641fe3103c9324b8",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "Fantastic Days Japanese novelization ONLY, selective PartOne adaptation;3707knownBASE/15complete positive-P members/33deliveries/one admittedlocalobject, 3645narrative62nonfiction. Original ruby/residual/15image admission separate, no newgame/main continuity or newsource/independent credit.",
+      "adopted_source_boundary": "Fantastic Days Japanese novelization ONLY, selective PartOne adaptation;3707knownBASE/15complete positive-P members/33deliveries/one admittedlocalobject, 3645narrative62nonfiction. Original ruby/residual/15image admission separate, no newgame/main continuity or newsource/independent credit.",
+      "source_publication": "681d9d058caabc38a26c56496c255677e2a2d616",
+      "scope_rationale_and_limits": "Chosen vocation versus exclusive responsibility, particular attachments, finite keyboard power, actual death/Aqua resurrection, practical care and domestic/resource failures support conditional interpretation. リア is chosen present name; withheld birth name not invented. Plush コン次郎 is not animated/cheat, ポン太さん unresolved.",
+      "literal_owning_scope": {
+        "status": "FROZEN_BEFORE_EXACT_INPUTS_AND_FIRST_BODIES",
+        "original_first_status": "ALL24_ACTUAL_ORIGINAL_FIRSTS_FROZEN_BEFORE_ANNOTATION",
+        "body_regenerations": 0,
+        "feedback_repairs": 0
+      },
+      "name_and_reference_receiving": [
+        "fa0fb0"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CHARLIE_CHARACTER_MONOGRAPH.md",
+      "subject": "CHARLIE",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CHARLIE_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 11959,
+      "prior_public_sha256": "3cb24fc04d16a487d01d80348a2e35be6da81682d8f7243f45e0705e4bb6b232",
+      "new_bytes": 13861,
+      "new_sha256": "d9c8e67b8666f730d886b3e1fb85af0bc6da18dcf0a6baa88ab8788fe2aa81fa",
+      "prefix_bytes": 1902,
+      "prefix_sha256": "fab7ce8f967ed9d14232c54ffb7a4e2501ca98cde53b333072a338f7040a2cbb",
+      "argument_suffix_bytes": 11959,
+      "argument_suffix_sha256": "3cb24fc04d16a487d01d80348a2e35be6da81682d8f7243f45e0705e4bb6b232",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "Fantastic Days Japanese novelization ONLY, selective PartOne adaptation;3707knownBASE/15complete positive-P members/33deliveries/one admittedlocalobject, 3645narrative62nonfiction. Original ruby/residual/15image admission separate, no newgame/main continuity or newsource/independent credit.",
+      "adopted_source_boundary": "Fantastic Days Japanese novelization ONLY, selective PartOne adaptation;3707knownBASE/15complete positive-P members/33deliveries/one admittedlocalobject, 3645narrative62nonfiction. Original ruby/residual/15image admission separate, no newgame/main continuity or newsource/independent credit.",
+      "source_publication": "681d9d058caabc38a26c56496c255677e2a2d616",
+      "scope_rationale_and_limits": "Substantial descriptive monograph preserves own coercive fandom, requester-specific disclosure, hurt, bodily precaution, subordinate support and correct warnings. Human/troll forms same named actor, distinct Daniel/troops; Wiz does not know him. Broader generator deferred, terminal death/incarceration not shown.",
+      "literal_owning_scope": {
+        "status": "FROZEN_BEFORE_EXACT_INPUTS_AND_FIRST_BODIES",
+        "original_first_status": "ALL24_ACTUAL_ORIGINAL_FIRSTS_FROZEN_BEFORE_ANNOTATION",
+        "body_regenerations": 0,
+        "feedback_repairs": 0
+      },
+      "name_and_reference_receiving": [
+        "fa0fb0"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DANIEL_CHARACTER_MONOGRAPH.md",
+      "subject": "DANIEL",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DANIEL_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 13243,
+      "prior_public_sha256": "26f9c64f0251542f804e5db11fc2696f7265778c5e545593d15cb5518e572dd9",
+      "new_bytes": 15143,
+      "new_sha256": "908f41f7c3b5a902cfa284a15f286239097ec3ba93b81c9b41ddcc621b2a44d1",
+      "prefix_bytes": 1900,
+      "prefix_sha256": "81988d290b56aea4f5ac3e4a69f8cdd62b643041f1b9bf8f9a2313e391b1ac13",
+      "argument_suffix_bytes": 13243,
+      "argument_suffix_sha256": "26f9c64f0251542f804e5db11fc2696f7265778c5e545593d15cb5518e572dd9",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "Fantastic Days Japanese novelization ONLY, selective PartOne adaptation;3707knownBASE/15complete positive-P members/33deliveries/one admittedlocalobject, 3645narrative62nonfiction. Original ruby/residual/15image admission separate, no newgame/main continuity or newsource/independent credit.",
+      "adopted_source_boundary": "Fantastic Days Japanese novelization ONLY, selective PartOne adaptation;3707knownBASE/15complete positive-P members/33deliveries/one admittedlocalobject, 3645narrative62nonfiction. Original ruby/residual/15image admission separate, no newgame/main continuity or newsource/independent credit.",
+      "source_publication": "681d9d058caabc38a26c56496c255677e2a2d616",
+      "scope_rationale_and_limits": "Substantial descriptive monograph preserves military-recognition versus possessive pursuit, real tactics/retreat, equipment learning versus ignored warnings and selective distress. Army/executive standing is Wiz report, no mutual romance or clinical diagnosis; actual fatal interception and resurrection separate. Broader generator deferred.",
+      "literal_owning_scope": {
+        "status": "FROZEN_BEFORE_EXACT_INPUTS_AND_FIRST_BODIES",
+        "original_first_status": "ALL24_ACTUAL_ORIGINAL_FIRSTS_FROZEN_BEFORE_ANNOTATION",
+        "body_regenerations": 0,
+        "feedback_repairs": 0
+      },
+      "name_and_reference_receiving": [
+        "3ab4d0"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MITSURUGI_CHARACTER_MONOGRAPH.md",
+      "subject": "MITSURUGI",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MITSURUGI_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 19357,
+      "prior_public_sha256": "6bfac3478718704da09e3c4832a773bbf323cc79d20fcb9ae4e172285eaa9e6d",
+      "new_bytes": 21247,
+      "new_sha256": "563786d68d1d97746f073f0e9808a76f7468c9b9cd5c009a827ef8827b75cc0c",
+      "prefix_bytes": 1890,
+      "prefix_sha256": "45227c4740bbfe790ddeecb26b3d03c3914b763dc9a4460c174bbe2fda8214a5",
+      "argument_suffix_bytes": 19357,
+      "argument_suffix_sha256": "6bfac3478718704da09e3c4832a773bbf323cc79d20fcb9ae4e172285eaa9e6d",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "5026sharedknownBASE/35members/19objects plus5referenceimages, not personal decisions/newwhole-edition/ruby/residual/imageset/admission/independence. MAIN/Dust story evidence, FDnovelization, redo and reference planes explicit; future discovery must not merge their histories.",
+      "adopted_source_boundary": "5026sharedknownBASE/35members/19objects plus5referenceimages, not personal decisions/newwhole-edition/ruby/residual/imageset/admission/independence. MAIN/Dust story evidence, FDnovelization, redo and reference planes explicit; future discovery must not merge their histories.",
+      "source_publication": "9b191f37ae735b24786a52a52f46d10e82609771",
+      "scope_rationale_and_limits": "Relationship-weighted capable protection, wanted recognition, concrete updating and adverse pressure coexist. 御剣響夜/ミツルギ・キョウヤ identity supported, wrong addresses not aliases. MAIN/Dust, FD novelization, redo and editorial/TRPG references retain different planes; no unqualified adaptation feat transfer. Fio/Clemea nameset remains role-unmapped; no two extra people. Ria in FD discussion is Latin-rendering variation of source リア, not a second named actor. No material section15 actor defect found.",
+      "literal_owning_scope": {
+        "status": "REVIEWED_INITIAL_FOUNDATIONS_FROZEN_BEFORE_EXACT_INPUTS_AND_FIRST_BODIES",
+        "completion_limit": "Frozen informed inputs, not independent source tests. Do not alter frozen foundations or inputs in response to later bodies.",
+        "no_body_or_model_repair_after_assessment": true
+      },
+      "name_and_reference_receiving": [
+        "57fb34"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CHEKERA_CHARACTER_MONOGRAPH.md",
+      "subject": "CHEKERA",
+      "route": "ADMINISTRATIVE_CURRENT_PUBLIC_DERIVATIVE_EXACT_ARGUMENT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CHEKERA_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 12684,
+      "prior_public_sha256": "075935e786633db08f3cb709db26017562302e4f9ce18b5a68f6a83a80122cf8",
+      "new_bytes": 14489,
+      "new_sha256": "a4e618b930e801e32a996a2a08c30fbafd876582be0bf8ddbfb3495e60450dc7",
+      "prefix_bytes": 1805,
+      "prefix_sha256": "47001852f89c0d9640a346e9685189cec838b3fa4faf4335f8ca44e92ea9cc6f",
+      "argument_suffix_bytes": 12684,
+      "argument_suffix_sha256": "075935e786633db08f3cb709db26017562302e4f9ce18b5a68f6a83a80122cf8",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "1149sharedknownBASE/7members/4objects, ownclothier work encounters and source-specific attributedcomparisons. No newwhole-source/ruby/residual/imageset/admission/independence; no model or cases.",
+      "adopted_source_boundary": "1149sharedknownBASE/7members/4objects, ownclothier work encounters and source-specific attributedcomparisons. No newwhole-source/ruby/residual/imageset/admission/independence; no model or cases.",
+      "source_publication": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+      "scope_rationale_and_limits": "Two substantial trade encounters preserve discrepancy/revised trial, finite safety/skill, conditional rehire, ceremonial welcome and material sale. ちぇけら is selfname; Hyo comparison is separate actor; rifle recognition/use belong to others. No separate portable generator or diagnostic quota.",
+      "literal_owning_scope": {
+        "status": "SEVEN_SOURCE_CHECKED_FOUNDATIONS_FROZEN_BEFORE_CANONICAL_CANDIDATE",
+        "no_future_diagnostic_repair_of_frozen_foundations": true
+      },
+      "name_and_reference_receiving": [
+        "6212ca"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SYLVIA_QUALIFIED_CURRENT_MONOGRAPH_01.md",
+      "subject": "SYLVIA",
+      "route": "SEPARATE_SUBSTANTIAL_CURRENT_PAPER_ORIGINAL_PUBLIC_AND_PRIVATE_EXACT",
+      "prior_public_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SYLVIA_CHARACTER_MONOGRAPH.md",
+      "prior_public_bytes": 13731,
+      "prior_public_sha256": "51a0757089d1cec10e9a735063ae6fb9418f286ef130a340e392b988a73886bd",
+      "new_bytes": 20034,
+      "new_sha256": "42bc033cca1a2eba910b5dbe908353802afe2b23db00943468d6076da1d35b01",
+      "prefix_bytes": 1742,
+      "prefix_sha256": "e92e01f60c6d26313bfa41adf38aabbd2898e8853760cb4d41fa12c50dff7e31",
+      "argument_suffix_bytes": 18292,
+      "argument_suffix_sha256": "079a1a8af1e3c63a521445929874faa6cdbea4cf33ce9f266286b22e6ac79a4e",
+      "argument_exact_suffix": true,
+      "proposed_source_boundary": "2122sharedknownBASE/35windows/19members/9objects; concentrated MAIN05 and earlier attributed MASKfight; no newwhole-source/ruby/residual/imageset/admission/independence, no model/cases.",
+      "adopted_source_boundary": "2122sharedknownBASE/35windows/19members/9objects; concentrated MAIN05 and earlier attributed MASKfight; no newwhole-source/ruby/residual/imageset/admission/independence, no model/cases.",
+      "source_publication": "8330092eb4ad1c76bd9b4930180652ab47d47c3c",
+      "scope_rationale_and_limits": "Substantial concentrated conditional interpretation preserves threat updating, selective reciprocity, instrumental captivity and retaliatory overreach without pretending a unique general mechanism. シルビア is same subject across composite bodies. Actual final novel kill belongs to Megumin energy/Kazuma aim/Komekko trigger; no adaptation ending or identity label imported. No material actor/reference defect found.",
+      "literal_owning_scope": {
+        "revision_policy": "Preserve these frozen semantic foundations. Later publication/status/authority qualification belongs in mutable receiving/census/run audit unless a diagnosed source error requires explicit preserved revision."
+      },
+      "name_and_reference_receiving": [
+        "6212ca"
+      ],
+      "authority_state": "ACTIVE_PROVISIONAL_CURRENT",
+      "no_model_grade_or_new_source_credit": true
+    }
+  ],
+  "original77_accepted_public_model_files_unchanged": true,
+  "original90_principal_first_texts_unchanged": true,
+  "source_reading_credit": 0,
+  "new_model_or_first_credit": 0,
+  "independent_accuracy": null,
+  "unique_person_denominator": null,
+  "global_completion_percentage": null,
+  "curator_enrollment_by_author": false,
+  "capability_assessment_by_author": false,
+  "final_release": false,
+  "full_program_complete": false
+}

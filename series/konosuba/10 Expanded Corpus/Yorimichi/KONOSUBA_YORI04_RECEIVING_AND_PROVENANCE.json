@@ -1,0 +1,577 @@
+{
+  "schema": "KONOSUBA_YORI04_WHOLE_SUPPLIED_EDITION_SAME_ROOT_ACCEPTANCE_V1",
+  "source_id": "YORI-04",
+  "status": "ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "accepted_utc": "2026-10-19T03:57:28.974898+00:00",
+  "native_identity": {
+    "native_filename": "Konosuba - Short Stories - Yorimichi 4.epub",
+    "native_bytes": 10437818,
+    "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "ca1a08ee4b2ce96e79897b9f9fb12c142e685c24027335f860e457b705a998e2"
+  },
+  "actual_source_and_reading_receipt": {
+    "schema": "KONOSUBA_YORI04_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+    "source_id": "YORI-04",
+    "accepted_utc": "2026-10-19T03:57:28.974898+00:00",
+    "native_filename": "Konosuba - Short Stories - Yorimichi 4.epub",
+    "native_bytes": 10437818,
+    "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "ca1a08ee4b2ce96e79897b9f9fb12c142e685c24027335f860e457b705a998e2",
+    "language": [
+      "ja"
+    ],
+    "colophon": "この素晴らしい世界に祝福を！ よりみち４回目！;暁なつめ/三嶋くろね;角川スニーカー文庫/KADOKAWA;electronic2026-02-28ver.002;print-base2026-03-01;copyright2026;publisher山下直久.",
+    "admission_sha256": "a81d27ae47e61305771b43d4dd19a530b9ef12d609f0648abb3816187e9dd144",
+    "admission_utc": "2026-10-19T02:52:40.515958+00:00",
+    "preceding_full_gate_source": "f98205cf33575040fa9aa2706c4da99b86ad7d9d",
+    "preceding_gate_sha256": "f5392322f061b2ded5fbdc912cd503b3c7bc32cce5e56603a7cff1d6384b3d2f",
+    "preceding_fresh_reload_sha256": "2c0c8bfba771c6cad969b6c02774f399f1d629926faf6bdc5de4c692d44f113a",
+    "complete_uncoded_seal_sha256": "787a2a35f08924ca1048f9921e106647702e4e741d65e94ea0d4835fce52d797",
+    "complete_uncoded_seal_utc": "2026-10-19T03:35:10.750313+00:00",
+    "actual_reading": {
+      "all_textual_components": 26,
+      "all_native_P_slots": 2952,
+      "principal_P_slots": 2900,
+      "other_P_slots": 52,
+      "separate_bonus_narrative": false,
+      "bonus_P_slots": 0,
+      "nonfiction_P_slots": 52,
+      "individually_identified_bonus_narrative_groups": [],
+      "individually_identified_narrative_image_groups": [
+        {
+          "id": "YORI04-INTEGRAL-ILLUSTRATIONS",
+          "component_ids": [
+            "YORI-04-U012",
+            "YORI-04-U014",
+            "YORI-04-U016",
+            "YORI-04-U018",
+            "YORI-04-U020"
+          ],
+          "image_ids": [
+            "YORI-04-IMG011",
+            "YORI-04-IMG012",
+            "YORI-04-IMG013",
+            "YORI-04-IMG014",
+            "YORI-04-IMG015",
+            "YORI-04-IMG016",
+            "YORI-04-IMG017",
+            "YORI-04-IMG018",
+            "YORI-04-IMG019",
+            "YORI-04-IMG020"
+          ],
+          "scope": "Each actual illustration individually viewed; no additional unseen cause, consent or event from pose."
+        },
+        {
+          "id": "YORI04-AFTERWORD-CARTOON",
+          "component_id": "YORI-04-U021",
+          "image_ids": [
+            "YORI-04-IMG021"
+          ],
+          "scope": "Contributor dialogue/caption of D asserting continued Eris faith to pouting Chris; paratext not new validated enacted reunion."
+        }
+      ],
+      "individually_identified_embedded_narrative_groups": [
+        {
+          "id": "YORI04-STORY01",
+          "native_units": [
+            "YORI-04-U012"
+          ],
+          "start_P": 1,
+          "end_P": 546,
+          "scope": "Distinct fully read integral story; K firstperson; subordinate reports remain separate planes, no extra paragraph accounting."
+        },
+        {
+          "id": "YORI04-STORY02",
+          "native_units": [
+            "YORI-04-U014"
+          ],
+          "start_P": 1,
+          "end_P": 558,
+          "scope": "Distinct fully read integral story; female DarkStalker firstperson; subordinate reports remain separate planes, no extra paragraph accounting."
+        },
+        {
+          "id": "YORI04-STORY03",
+          "native_units": [
+            "YORI-04-U016"
+          ],
+          "start_P": 1,
+          "end_P": 573,
+          "scope": "Distinct fully read integral story; K firstperson; subordinate reports remain separate planes, no extra paragraph accounting."
+        },
+        {
+          "id": "YORI04-STORY04",
+          "native_units": [
+            "YORI-04-U018"
+          ],
+          "start_P": 1,
+          "end_P": 682,
+          "scope": "Distinct fully read integral story; K firstperson; subordinate reports remain separate planes, no extra paragraph accounting."
+        },
+        {
+          "id": "YORI04-STORY05",
+          "native_units": [
+            "YORI-04-U020"
+          ],
+          "start_P": 1,
+          "end_P": 541,
+          "scope": "Distinct fully read integral story; K firstperson; subordinate reports remain separate planes, no extra paragraph accounting."
+        },
+        {
+          "id": "YORI04-RETOLD-CINDERELLA",
+          "native_units": [
+            "YORI-04-U014"
+          ],
+          "start_P": 74,
+          "end_P": 103,
+          "scope": "Abbreviated narrator-retold embedded theater/fairytale plot only, not complete new independent fiction body; PalreadywithinSTORY02."
+        },
+        {
+          "id": "YORI04-MENTIONED-ADVENTUREBOOK",
+          "native_units": [
+            "YORI-04-U018"
+          ],
+          "start_P": 49,
+          "end_P": 49,
+          "later_identity_P": 675,
+          "scope": "Book stimulus, later full author identity, not full supplied/read book; already parent-accounted."
+        }
+      ],
+      "individually_identified_image_only_nonfiction_prose_groups": [
+        {
+          "id": "YORI04-PROFILES",
+          "component_id": "YORI-04-U010",
+          "image_id": "YORI-04-IMG010",
+          "scope": "Eight actual role profiles; humor labels not exhaustive psychology/guarantees and Chris profile does not reveal Eris."
+        },
+        {
+          "id": "YORI04-JACKET",
+          "component_id": "YORI-04-U022",
+          "image_id": "YORI-04-IMG004",
+          "scope": "Full bio/synopsis/cover/spine seen; uncertain tiny design-name spelling explicitly limited."
+        },
+        {
+          "id": "YORI04-TEASER-TEXT",
+          "component_ids": [
+            "YORI-04-U003",
+            "YORI-04-U004",
+            "YORI-04-U005"
+          ],
+          "image_ids": [
+            "YORI-04-IMG006",
+            "YORI-04-IMG007",
+            "YORI-04-IMG008"
+          ],
+          "scope": "Actual teaser dialogue/labels read, joins stories without independent event counts."
+        }
+      ],
+      "integral_image_only_prose_pages": 0,
+      "all_native_images_actually_viewed": 26,
+      "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+      "all_native_local_and_archive_text_image_hash_joins_reverified": 52,
+      "fresh_native_ZIP_CRC": "PASS",
+      "image_individual_scopes_control": true
+    },
+    "source_first_sealed_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 29309,
+        "sha256": "a81d27ae47e61305771b43d4dd19a530b9ef12d609f0648abb3816187e9dd144"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 175266,
+        "sha256": "091522ceb5cc15fa1c7f91d4dbb1cc4bed6c34db36e47271fe9f3f43c13146c5"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 165647,
+        "sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 22250,
+        "sha256": "614e7d4be1a9ad7223e0bc7476f93662e27b1fa22382c051f73c40a17e893a73"
+      },
+      {
+        "file": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl",
+        "bytes": 854,
+        "sha256": "b627504df465e1a71fb999fdf51d315ae030fd1e8fa9f4bb1ac25ed6d24cfeb4"
+      }
+    ],
+    "formal_coverage": {
+      "full_responsibilities": 17,
+      "selected_premises_not_census": 82,
+      "native_verified_short_form_context_witnesses": 76,
+      "local_unchanged_question_assessments": 31,
+      "append_only_decisions_across_ten_ledgers": 26,
+      "current_precision_qualifications": 47
+    },
+    "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02,YORI-03. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+    "no_independent_second_full_pass_native_human_audio_claim": true,
+    "source_first_originals_remain_exact": true,
+    "original_four_scores_and_14_future_fields_unchanged": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+    "midread_precision_context": "K07candor and K08direct-pressure contrary retained; no foreign-leverage K08confirmation. D08specific risk and M07full offered-face-saving guard kept distinct. All narrow technical successes do not establish whole-operation safety. Presealed secondaryYunpartial is not full C; Iris/CEfull scopes not tested; exact anchors/speakers corrected against native paragraphs before acceptance. Prior YORI02target-fit additive still current."
+  },
+  "current_root_check": "Same continuing root authored and received all26text2952P/26images before full uncodedseal, then17responsibilities/82selectedcomicpremises/76exact-nativevoice/31principal+8party+4typed+4secondarycomparisons/tenledgerdecisions/precisionqualifications. No independent review. Bounded semantic name/reference review completed across opening, allfive fullstory synopses, major character/relationship claims, narrator changes, technical names, model and secondary dispositions.76nativefragment joins independently checked against actual paragraphs; rough remembered wording and the Vanir127/repeated-Assassin529 speaker planes corrected before acceptance. Intentional class-name anonymity, unidentified provider versus Lolisa, local age and provisional Anna/ghost merge retained. No unresolved material identity/attribution defect promoted as certain. Same-author review is not independent.",
+  "current_qualifications": [
+    {
+      "id": "Q01",
+      "qualification": "All26textualresources2952Pslots/26nativeimages actually read/viewed before whole uncodedseal787a2a35f08924ca1048f9921e106647702e4e741d65e94ea0d4835fce52d797. Structural extraction has no semantic reading credit.",
+      "source": "Whole-source seal/admission"
+    },
+    {
+      "id": "Q02",
+      "qualification": "Five integral long stories2900P plus52Ptextnonfiction. No separate electronic bonus; blank/image/headerPslots are native accounting, not word/gag counts.",
+      "source": "U012546/U014558/U016573/U018682/U020541;all26units"
+    },
+    {
+      "id": "Q03",
+      "qualification": "Story2 narrator is female DarkStalker, not K. Other four use K. Assassin is separately female; only class names supplied; no inferred hidden names/identity merges.",
+      "source": "U014156–169/555;U0217–8"
+    },
+    {
+      "id": "Q04",
+      "qualification": "Author says chronology loose and near latter main. Internal callbacks join acting-lord/Angie episodes and Vanir week-away report without fixing exact main stage.",
+      "source": "U0216;U01897;U020"
+    },
+    {
+      "id": "Q05",
+      "qualification": "IMG015ornamental miniature cursive not fully decipherable after actual views. IMG009/004tiny design spelling stays provisional. Preserve original notes plus preseal qualification; no false exact transcription or extra fiction credit.",
+      "source": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl"
+    },
+    {
+      "id": "Q06",
+      "qualification": "Covers/teasers/profile labels/jacket/afterword cartoon/rights/branding/navigation have individual scopes, not equal canonical behavioral authority.",
+      "source": "All components and26images"
+    },
+    {
+      "id": "Q07",
+      "qualification": "K’s proposed D/Chris voices are his imagined performances; actual humiliating Vanir request is Aq witness report; forecast later recalled by D.",
+      "source": "U01262/74/353–355;U020380"
+    },
+    {
+      "id": "Q08",
+      "qualification": "Aqpaperwork is real precise manual help and actual repair; her competence is not erased by K’s dismissive account. Pool water and fieldsupport remain prospective.",
+      "source": "U01299/175/458;160/262"
+    },
+    {
+      "id": "Q09",
+      "qualification": "Initial three-day useful work and two destroyed workdays remain separate; genuine K apologies are direct own-agency acknowledgments.",
+      "source": "U012194/123/341–350"
+    },
+    {
+      "id": "Q10",
+      "qualification": "Public pool proposal is vetoed; attempted forced stamp/hand grab actual, fracture not shown. Profit forecast not actual revenue.",
+      "source": "U012239–281"
+    },
+    {
+      "id": "Q11",
+      "qualification": "Megumin useful knowledge/office work coexist with concealed fight complaint. Yun fighting willingness is her report, not direct new battle.",
+      "source": "U012296–311/369–387"
+    },
+    {
+      "id": "Q12",
+      "qualification": "Escort warming Explosion undermines rest; no actual dragon appears. Slime fallback is planned, not completed. D chooses temporary relief, not permanent conversion.",
+      "source": "U012502–545;U02070"
+    },
+    {
+      "id": "Q13",
+      "qualification": "M’s local intermediate relationship56, handholding and kiss offer do not establish completed kiss, full play viewing or exact prior main boundary.",
+      "source": "U01436–68"
+    },
+    {
+      "id": "Q14",
+      "qualification": "Retold 真・デレラ is an abbreviated nested fiction/report, not full separate novel or another validated canonical couple.",
+      "source": "U01474–103"
+    },
+    {
+      "id": "Q15",
+      "qualification": "Old limb recoveries, first duel recollection332, rescue history and Mammon rank are reports; first duel later recalled is same event, second duel distinct.",
+      "source": "U014174–209/219–245/332/364–369/532–538"
+    },
+    {
+      "id": "Q16",
+      "qualification": "Horror-date deception is not innocent because no explicit romantic promise; M had requested D replacement. Ban threats not executed.",
+      "source": "U014240/253–268"
+    },
+    {
+      "id": "Q17",
+      "qualification": "Vanir admits strong spy hard to read; true name is バニルミルド, public leak not guaranteed successful summons. ハニル is mistaken address, not alias.",
+      "source": "U014307–317;U016559"
+    },
+    {
+      "id": "Q18",
+      "qualification": "Separate retired-spy assent matters: observer volunteers495, Assassin not yet529, finally accepts553. No completed later night operation.",
+      "source": "U014488–557"
+    },
+    {
+      "id": "Q19",
+      "qualification": "Party knows some watching, not every intrusion; observer’s secrecy belief and K tolerance are different states.",
+      "source": "U014firstperson;U0163–14"
+    },
+    {
+      "id": "Q20",
+      "qualification": "Komekko summoning aptitude only remembered succubus report here. Vanir contract ends at one life lost, not costless reset for all contracts.",
+      "source": "U016103/127"
+    },
+    {
+      "id": "Q21",
+      "qualification": "Wiz privately researches/publishes information, protects partner from mockery and profits; Vanir threatens forced termination then joins profit.",
+      "source": "U016162–213"
+    },
+    {
+      "id": "Q22",
+      "qualification": "Yun joins reconnaissance but arrests herself through reported protective assault224; successful reading/involvement is not successful original reconnaissance. Later Weather role has pardon/official pressure.",
+      "source": "U01663–88/140/221–224;U020130–141/407"
+    },
+    {
+      "id": "Q23",
+      "qualification": "Chris is Eris to K248, not D. Her first requested force is withdrawn262; disguise-performance versus literal knowledge at later devil hint remains unresolved.",
+      "source": "U016247–277"
+    },
+    {
+      "id": "Q24",
+      "qualification": "Shop succubus and younger-looking succubus remain unnamed, not automatically Lolisa; no provider consent to sexual demands is supplied by customer wishes.",
+      "source": "U016298–309/535–537/569"
+    },
+    {
+      "id": "Q25",
+      "qualification": "K actually reports ritual danger before VIP offer; earlier service visit was not a hidden heroic plan. Life loss448 is later report, not printed complete death episode.",
+      "source": "U016348–350/397–436/448"
+    },
+    {
+      "id": "Q26",
+      "qualification": "Actual Satanists want succubi, not to bind Vanir. Family sacrifices/buyout/physical services are proposals, not performed transactions; actual bans/departure are shown.",
+      "source": "U016517–573"
+    },
+    {
+      "id": "Q27",
+      "qualification": "K and Dust’s staged mugging is explicitly translated as friendly script. That local fact does not neutralize real Dust harassment in other books.",
+      "source": "U018103–120"
+    },
+    {
+      "id": "Q28",
+      "qualification": "Angie is RuneKnightアンジー, locally17 like K, real technical protector with status biases; no global age backfill or pure exploitative mentor portrait.",
+      "source": "U018197/241–265/471–484/604"
+    },
+    {
+      "id": "Q29",
+      "qualification": "Angie bill offer is not unlimited authorization for K/veteran excesses; actual paid bill follows, not merely hypothetical expense.",
+      "source": "U018296–324/404–410"
+    },
+    {
+      "id": "Q30",
+      "qualification": "K’s actual enemy detection withheld500 and solo stealth524 produce different shared-risk states. Monster is ナメギンチャク, not his invented giant-deadly name.",
+      "source": "U018477–500/501–537"
+    },
+    {
+      "id": "Q31",
+      "qualification": "Ore has actual rune-skill utility. First mountain chase cause is unprinted551→555; later eye shot hits desired flower after chase already underway.",
+      "source": "U018542–589"
+    },
+    {
+      "id": "Q32",
+      "qualification": "M did not identify K before adjusting blast; real injury remains. Aqrequested Heal624 succeeds. Trophy/dinner/mineral-swap have separate executed/proposed states.",
+      "source": "U018611–669"
+    },
+    {
+      "id": "Q33",
+      "qualification": "Adventurebook author full nameアンナ゠フィランテ゠エステロイド. Link to mansionghost is strong pending identity-census inference; invisible play is through Aq and no actual birth occurs.",
+      "source": "U018675–682;U020511–514"
+    },
+    {
+      "id": "Q34",
+      "qualification": "Fully named fatherダスティネス・フォード・イグニス accepts training responsibility and real grave risk while using coercive threats and class power.",
+      "source": "U02011/19/31/78/92/96/194/333–347/451"
+    },
+    {
+      "id": "Q35",
+      "qualification": "Cecily departure/clergy return are shown; every individual undead purification is not directly observed. Weather clouds/return similarly do not show every spell step.",
+      "source": "U020103/130–135/161/291–292/407/433"
+    },
+    {
+      "id": "Q36",
+      "qualification": "K aide205 plus direct215 pressure is distinct from frightened father-facing68. No confirmation from an explanatory causal clause alone.",
+      "source": "U020205–231;U012269–281"
+    },
+    {
+      "id": "Q37",
+      "qualification": "D hydra/high-level assurance301 precedes explicit M dissent302/305 and ignored refusal306. Full group safety not established by personal endurance.",
+      "source": "U020294–323"
+    },
+    {
+      "id": "Q38",
+      "qualification": "Vanir original one-wing help is a paid transaction; D extension377/heldmask379/ties388 are actual nonassented coercion. K explicitly calls itセクハラ523.",
+      "source": "U020365–390/523"
+    },
+    {
+      "id": "Q39",
+      "qualification": "One blond delinquent is lethally crushed353; Aqbegins revival355 and K explicitly reports completed revival477. No-count357 is narrator accounting, not zero actual deaths.",
+      "source": "U020352–357/477"
+    },
+    {
+      "id": "Q40",
+      "qualification": "Window damage20million is Ignis estimate plus actual prior shattered windows; bounty offset and medical/shoprepair costs retain external consequences.",
+      "source": "U020290/435–451"
+    },
+    {
+      "id": "Q41",
+      "qualification": "Chris letter/indulgence and afterword cartoon do not enact a new reunion or full CE01public accumulated-service test; Iris only funding mention234.",
+      "source": "U020496–499;IMG021;U012234"
+    },
+    {
+      "id": "Q42",
+      "qualification": "All43original contracts/sixmodels,66current72historical,fouracceptedscorefiles and14Dustblanks remain exact. Actual later qualitative adverse is retained without new blinded score.",
+      "source": "Frozen controls/current assessments"
+    },
+    {
+      "id": "Q43",
+      "qualification": "Foursecondary scopes really sealed before Y4admission/body/images; current afterseal assessments preserve their original null fields and old MG05V16–17scope. Yun partial is not full confirmation.",
+      "source": "Prebody ROOT seal;foursecondaryassessments"
+    },
+    {
+      "id": "Q44",
+      "qualification": "All ten ledger prefixes are exact verified current inputs; appends never substitute for full report, independent evidence or character-tier decisions.",
+      "source": "Ten-ledger decision controls"
+    },
+    {
+      "id": "Q45",
+      "qualification": "Same root author/receiver, possible prior/pretraining exposure; no independent second pass, native-human reading, audio judgment or population accuracy claim.",
+      "source": "Admission/ROOT/uncodedseal"
+    },
+    {
+      "id": "Q46",
+      "qualification": "New owner secondary-character audit remains corpus-wide: deduplicate scene identity across17readings/checkpoints/tenledgers/expanded sources; publication of this source does not complete profiles/models.",
+      "source": "Owner request intake/candidate leads/current report"
+    },
+    {
+      "id": "Q47",
+      "qualification": "Nineteen supplied supplemental editions accepted including current pending publication is book accounting only. All17main principal histories already accepted; excluded-component source work, syntheses, StageD and final audits remain.",
+      "source": "Current coverage/next boundary"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "ledger": "CS",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 277862,
+      "sha256": "b235d311e7f6bbe6f416576b9b156c6737099003e4e2bd2c9d1d446151e1ee88"
+    },
+    {
+      "ledger": "RS",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 199477,
+      "sha256": "146c886924cfd4fb74265c01bcf2d638a39095d4ce4a8029afe5d2774b7062fc"
+    },
+    {
+      "ledger": "HM",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 769243,
+      "sha256": "695f3936bef6d37b2069ca14a1ddce0f4c40f05993fbc487e81c5f170fc70ea2"
+    },
+    {
+      "ledger": "JV",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 579963,
+      "sha256": "8f54817f1d2fd5220b43db7230fafc7c0aa914d23e824b2abe6625962d6bbef3"
+    },
+    {
+      "ledger": "KN",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 177271,
+      "sha256": "9393fa5a089c2e52f2cd7a1998fcdb324f58e58d1e08239d2781a6abd1879396"
+    },
+    {
+      "ledger": "OP",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 171234,
+      "sha256": "91cce74049632477c1dfaa652292e81644915d60fa7143e70b800d70832faef3"
+    },
+    {
+      "ledger": "CC",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 193693,
+      "sha256": "0da5d8f4322efdce7951d989c7120cf6de08ffd4e2321d90ff39b45f7f63ade7"
+    },
+    {
+      "ledger": "SO",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 159514,
+      "sha256": "d15ea788372db1404d25852272b32f82a6b5f3aaf3aea9c54a38db9a914ddd32"
+    },
+    {
+      "ledger": "DE",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 249325,
+      "sha256": "148d00addb016b1957621824893df3e053df0f10907f3c90d9acf227eacc55d4"
+    },
+    {
+      "ledger": "PV",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 107494,
+      "sha256": "2759aa77ba8d01dac93824966c36c974f75fccca9c32217e8aa0361c7f5d5077"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_changed": false
+  },
+  "whole_edition_accounting_only": {
+    "supplemental_total": 19,
+    "accepted_including_this_pending_publication": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04",
+      "DUST-05",
+      "DUST-06",
+      "DUST-07",
+      "DUST-CONT",
+      "EXP-01",
+      "EXP-02",
+      "EXP-03",
+      "CONTEXP-01",
+      "CONTEXP-02",
+      "MASK",
+      "FD",
+      "YORI-01",
+      "YORI-02",
+      "YORI-03",
+      "YORI-04"
+    ],
+    "previously_published_full_gate_closed": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04",
+      "DUST-05",
+      "DUST-06",
+      "DUST-07",
+      "DUST-CONT",
+      "EXP-01",
+      "EXP-02",
+      "EXP-03",
+      "CONTEXP-01",
+      "CONTEXP-02",
+      "MASK",
+      "FD",
+      "YORI-01",
+      "YORI-02",
+      "YORI-03"
+    ],
+    "mixed_programs_published_at_stated_scopes": 5
+  },
+  "global_narrative_component_completion_percentage": null,
+  "remaining_boundary": "CloseYORI04exactremotealltree/changedbytes/sourceaudit/HK/finalactualsourceaudit/status/freshpublishedauthorityreload. Then individually admit all17MAINexcludedcomponentprograms with accepted principal bodies inherited, zero invented new principal reading; expanded/full syntheses, attributable versioned StageD4principal/party/transfer, corpus-wide secondary audit and earned profiles/models, registry/index via designated curation, component/release audits and finalentrytransitiononlyifearned. Narrative-component denominator unresolved/percentage null."
+}

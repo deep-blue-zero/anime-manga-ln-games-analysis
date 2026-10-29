@@ -1,0 +1,41 @@
+{
+  "schema": "konosuba.cohort51.foundation-freeze.v1",
+  "frozen_utc": "2026-10-25T20:53:24.750950+00:00",
+  "scope": "Source-known initial analytical foundations. Later revisions must be attributable; this is not a prospective prediction or a final-model freeze.",
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_FANBOOK_MEDUSA_DUNGEON_OWNER_CHARACTER_MONOGRAPH.md",
+      "bytes": 11372,
+      "sha256": "32a08d5d2143f611ed9355f2de22eb7ee0abd92a0420d02500f9bfc6214c439b"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md",
+      "bytes": 9441,
+      "sha256": "064a208266e687d221a74923267effd999bef946e6ec0d4650af877d81a8de28"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT51_ART_REFERENCE_NATIVE_PROVENANCE_01.json",
+      "bytes": 25005,
+      "sha256": "a083e15213081f51ebd70969d0c6948d5b8d9229830eccd31028f3848300a859"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT51_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+      "bytes": 87980,
+      "sha256": "97dd316f70be6c20a491b9b992fc9c7dd62edf5b2fb5585c13e50dd74fe7dfe8"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT51_TYPED_SOURCE_ACCESS_ROUTES_01.json",
+      "bytes": 85739,
+      "sha256": "414d4e6f5bfeb6fb0e154ef9c38f76bf8be25630cdd50cd6c47ceee68d6d13fb"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT51_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "bytes": 1828,
+      "sha256": "de1cd0d03cfbe3ab3f2445fab1d17d040a6213341e16fcc12f14934a8951678f"
+    }
+  ],
+  "initial_private_draft_seal_sha256": "460c88d81fb1c5175939d1f779f7fd3fad01e647b9c669d67f94969d3aac1ad8",
+  "complete_semantic_receiving_sha256": "520b2d4b517a6bd7b6e847799c50ed01715e47cc623acc73bdc1fbe2768f0b1f",
+  "no_new_first_outputs": true,
+  "no_final_StageD_successor": true
+}

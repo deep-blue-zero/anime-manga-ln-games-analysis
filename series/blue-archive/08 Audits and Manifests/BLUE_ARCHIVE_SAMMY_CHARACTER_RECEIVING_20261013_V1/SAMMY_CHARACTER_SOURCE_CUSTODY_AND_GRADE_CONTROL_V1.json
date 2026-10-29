@@ -1,0 +1,610 @@
+{
+  "schema": "SAMMY_CHARACTER_FINITE_ANALYTICAL_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1",
+  "current_qualifier": {
+    "required_home": "P3-CHAR-M032",
+    "source_responsibility": "P3-M032",
+    "source_local_subject": "Sammy / サミー / MAIN_S2_V003_C001",
+    "current_scope": "EXISTING_ACCEPTED_REQUIRED_HOME_WITH_LIMITS",
+    "present_disposition": "COMPLETE_PRIVATE_AUTHOR_PROPOSAL;ROOT_LITERARY_RECEIVING_AND_CANONICAL_INSTALLATION_PENDING",
+    "future_primary_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAMMY_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "own_current_core19": {
+      "complete_maintained_analytical_normals": 18,
+      "selected_complete_family_meaning_and_current_limits_plus_tail": 1,
+      "underlying_primary_native_raw_AV": 0
+    },
+    "own_current105": {
+      "adequate_report_meanings": 105,
+      "finite_union": "O000–O104 exactly once",
+      "manually_Sammy_specific_questions_and_positive_limits": 105,
+      "fresh_underlying105_normal_replay": 0
+    },
+    "separate_attributed_grades": {
+      "original_contributors": "26 whole /79 selected connected analytical sources",
+      "ROOT_common105": "all105 report meanings adopted WITH LIMITS",
+      "ROOT_original_core19": "original ROOT scope remains separately attributed, not this author's fresh inspection"
+    },
+    "operative_authority": "Current Cycle008 qualified analytical adoption over retained historical UNADMITTED/frontier/pending creation states; no new admission",
+    "all14_original_gaps": "OPEN",
+    "operational_models": 0,
+    "validated_predictions": 0,
+    "no_exclusion_basis": [
+      "low stakes",
+      "popularity",
+      "animal status",
+      "private-join absence",
+      "name absence",
+      "model grade"
+    ],
+    "no_new_credit": {
+      "primary_native_raw_AV": 0,
+      "source_admission": 0,
+      "private_family_join": 0,
+      "global_person_or_variant_join": 0,
+      "named_sections": 0,
+      "models": 0,
+      "canonical_completed_packages": 0,
+      "remote_publications": 0,
+      "main_integrations": 0
+    },
+    "separate_homes": "Ami M039; Minato M040; directed Sammy-care; Odysseia institution; claimant M008; GSC all remain separately owned",
+    "comparison_limits": "Human testimony, animal movement, narration, memories, hypotheses, conditional alternatives and report grades remain distinct; no source/actor/calendar/clinical transfer"
+  },
+  "source_binding_context": "Inherited verified source130b9 finite normal bytes; ROOT must reconcile current remote before installation. This author performed no R/Git/provider operation for Sammy.",
+  "current_selected_source": "480 MAIN +3940 selected supplements WITH LIMITS; outside-selection444/native/raw/AV/UNBOUND9/protected39 excluded",
+  "source_generation": "BA_REFRESH_20260928T032248159554Z",
+  "original_repository": "electricgoat/ba-data@jp",
+  "original_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+  "records": [
+    {
+      "alias": "MN01",
+      "source_class": "MAIN_SEQUENTIAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E001_DEEP_READING.md",
+      "bytes": 5569,
+      "sha256": "a4fb6f0650abe2e36684ae830810055c2c0d40e34c175527c937ff76c2218fb9",
+      "physical_lines": 35,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          35
+        ],
+        "tool": "b66ce7",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "Can Sammy's play object be mistaken for his distress or intention?",
+      "positive_finite_meaning": "The observed S.O.S. object and claimant's probabilistic maritime origin initiate a fleet recall; object content and sender intention are separate. Subsequent MN04–05 maker/toy explanations are necessary.",
+      "counterevidence_and_stronger_claim_limit": "No authenticated feline distress message, object-chain provenance or all-fleet response is inferred."
+    },
+    {
+      "alias": "MN02",
+      "source_class": "MAIN_SEQUENTIAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E002_DEEP_READING.md",
+      "bytes": 6723,
+      "sha256": "f2e35aa937604025b840b70900014f7c47199a74f507bb4527accddd662673c3",
+      "physical_lines": 38,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          38
+        ],
+        "tool": "b66ce7",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "What institutional setting makes a ship cat's familiar home and human decisions consequential?",
+      "positive_finite_meaning": "A flagship docks, work and reception occur, and Minato/Ami self-introductions establish distinct present leaders despite displaced tags. This gives Sammy's later environment without asserting a direct Sammy act here.",
+      "counterevidence_and_stronger_claim_limit": "One docked flagship does not establish whole fleet compliance, authenticated office or universal maritime consent."
+    },
+    {
+      "alias": "MN03",
+      "source_class": "MAIN_SEQUENTIAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+      "bytes": 7575,
+      "sha256": "409cc63812d2a901de0d7ded891b40bc8dda1df81bfc7aa87a3b3020b01dffb2",
+      "physical_lines": 40,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          40
+        ],
+        "tool": "b66ce7",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "What ordinary represented acts establish Sammy before the care crisis?",
+      "positive_finite_meaning": "Sammy sniffs guests, draws Ami's affectionate food-limiting attention and runs during the fish demonstration; Ami goes to fetch him. Play/food attention/company are substantive before risk debates.",
+      "counterevidence_and_stronger_claim_limit": "No reported run motive, famine, return endpoint or supernatural effect of a whistle is supplied."
+    },
+    {
+      "alias": "MN04",
+      "source_class": "MAIN_SEQUENTIAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E004_DEEP_READING.md",
+      "bytes": 5941,
+      "sha256": "206063c0cf27047603b2d9a64b3adbd814ff4c5ed4d40c167342002182ff2dd3",
+      "physical_lines": 35,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          35
+        ],
+        "tool": "f5c260",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "How does a familiar toy revise the signal without turning play into a hidden plot?",
+      "positive_finite_meaning": "Minato says she made and lost the ball; Sammy interrupts and Ami calls him back; it is identified as his toy. A mundane caring object reorganizes the opening mystery.",
+      "counterevidence_and_stronger_claim_limit": "Maker testimony is not a forensic chain. Sammy's interruption has no translated intention; S.O.S. letters remain unexplained untilMN05."
+    },
+    {
+      "alias": "MN05",
+      "source_class": "MAIN_SEQUENTIAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E005_DEEP_READING.md",
+      "bytes": 6013,
+      "sha256": "ddf48a954b61ec4af0774692fd518ec31da33fd47747e5bfcd292357bf2ee3c6",
+      "physical_lines": 35,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          35
+        ],
+        "tool": "f5c260",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "How do familiar attachment and reported bodily vulnerability generate a welfare question?",
+      "positive_finite_meaning": "Minato explains the durable toy and nickname inscription; Sammy accepts Sensei's touch. Age at least15/history and hypertension/arthritis are participant/medical-director reports, while dragged leg, falls and cough are described. Students' ship/shore wants differ.",
+      "counterevidence_and_stronger_claim_limit": "No inspected age record, chart, actual fast-boat treatment, complete preference test or performed vocalization. One-week inquiry is a window, not completed cure."
+    },
+    {
+      "alias": "MN06",
+      "source_class": "MAIN_SEQUENTIAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E006_DEEP_READING.md",
+      "bytes": 4898,
+      "sha256": "d93ae4904902d6142bf970c13d16873f9a98f4e1e71ccc2a69038e2d27ae4098",
+      "physical_lines": 32,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          32
+        ],
+        "tool": "f5c260",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "How can Sammy be materially active without becoming a supernatural or moral scapegoat?",
+      "positive_finite_meaning": "Narrated play and ordinary work precede direct cough/squall coincidence, a gangway slip and wet-deck slip; humans assign bad luck. Narration acknowledges curiosity/practical hazards while Sensei rescues Sumika and reports pain.",
+      "counterevidence_and_stronger_claim_limit": "Co-occurrence is not weather causation. Cat movement can matter to practical mishap without proving intentional blame or a general harm-causing essence."
+    },
+    {
+      "alias": "MN07",
+      "source_class": "MAIN_SEQUENTIAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E007_DEEP_READING.md",
+      "bytes": 5445,
+      "sha256": "2537453c9b5bc16ab4b275813c0eaf4a6900996e92fb7e53c9ce005bb470ec2f",
+      "physical_lines": 35,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          35
+        ],
+        "tool": "47a204",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "What can professional human care say, and what remains unknown about the animal recipient?",
+      "positive_finite_meaning": "Sumika blames and shakes Sammy; Sanae stops her with hypertension/dizziness concern, then weighs ship salt/wind risk and the cat's will while criticizing self-satisfying projections. Sammy vocalizes without a ship/shore proposition.",
+      "counterevidence_and_stronger_claim_limit": "Direct physician speech strengthens the clinical lead but supplies no chart, measured preference or simple best-care directive; her critique does not certify his actual wishes."
+    },
+    {
+      "alias": "MN08",
+      "source_class": "MAIN_SEQUENTIAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E008_DEEP_READING.md",
+      "bytes": 5427,
+      "sha256": "7757b826c87ce34013d0567621adb8a90ab09c87229b9ed9e2ba8d2ae03fa77e",
+      "physical_lines": 35,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          35
+        ],
+        "tool": "47a204",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "How does familiar making counter a role that would remove the valued recipient?",
+      "positive_finite_meaning": "Minato remembers imperfect first-year knots Sammy liked and calls him a longtime friend while admitting captaincy fear. Claimant offers an unverified hygiene removal ground; Minato verbally entrusts him.",
+      "counterevidence_and_stronger_claim_limit": "Friendship testimony has real value but cannot authenticate office, confirm clinical optimum or turn assent into handover."
+    },
+    {
+      "alias": "MN09",
+      "source_class": "MAIN_SEQUENTIAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E009_DEEP_READING.md",
+      "bytes": 6296,
+      "sha256": "621761a34ca30ee73472c3d1b8dec45b0b64a3a48eb16a14e108b42b62889bfd",
+      "physical_lines": 37,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          37
+        ],
+        "tool": "47a204",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "How do human gifts represent particular attachment while preserving the recipient's limits?",
+      "positive_finite_meaning": "Students bring excess handmade balls and favorite-food offerings, then rethink unfamiliar toys/excess food while one protests total discarding. Resentment and farewell preparation occur; packing and consumption do not.",
+      "counterevidence_and_stronger_claim_limit": "Preference is human-attributed; neither quantities nor generosity prove desired treatment, all-gift disposal or unified consent."
+    },
+    {
+      "alias": "MN10",
+      "source_class": "MAIN_SEQUENTIAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E010_DEEP_READING.md",
+      "bytes": 6081,
+      "sha256": "1f145e56e2502648be73ece0ffc7df04c04919ace3122f0f1a1bbea5ac333675",
+      "physical_lines": 37,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          37
+        ],
+        "tool": "42c3fa",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "What does movement through familiar ships establish beyond the humans' residence claims?",
+      "positive_finite_meaning": "Missing cushion/ordinary-walk report, rope/rail/narrow-passage movement and active student sheltering show familiar spatial repertoire. Minato falls during the risky chase; Sammy approaches her and she interprets concern.",
+      "counterevidence_and_stronger_claim_limit": "Past bath/vaccination anecdotes do not prove he understood the transfer; agility does not negate frailty, and approach is not verified informed care or destination consent."
+    },
+    {
+      "alias": "MN11",
+      "source_class": "MAIN_SEQUENTIAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E011_DEEP_READING.md",
+      "bytes": 5448,
+      "sha256": "90d84759c3e2d89c1c268d35bb9ebace287fad98ca1643f1214a7bfb7e0a1083",
+      "physical_lines": 35,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          35
+        ],
+        "tool": "42c3fa",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "How do a reversed administrative choice and renewed illness remain different endpoints?",
+      "positive_finite_meaning": "Sammy is back in the room; the handover signature is still pending. Minato asks cancellation and claimant agrees. Proposed experiential persuasion remains prospective; Sanae reports a critical night afterward.",
+      "counterevidence_and_stronger_claim_limit": "No medical clearance, actual rescission record or causal link from keeping him aboard to deterioration; claimant agrees to Minato's request rather than withdrawing her own strategy."
+    },
+    {
+      "alias": "MN12",
+      "source_class": "MAIN_SEQUENTIAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E012_DEEP_READING.md",
+      "bytes": 5095,
+      "sha256": "b9775698ccc1c6aceac919e318dbf62c32816a0aff2ed4d7d400e35c0f1c8d34",
+      "physical_lines": 34,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          34
+        ],
+        "tool": "42c3fa",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "How do grave bodily reports differ from the symbolic/ethical meaning of a final gift?",
+      "positive_finite_meaning": "Sanae reports grave measurements and hypotheses and rejects a single hypothetical cause. Minato's memories of bubbles/tag/sunlight/rope-ball ground familiar ship attachment; she announces an optional-for-students final voyage with objections deferred.",
+      "counterevidence_and_stronger_claim_limit": "Measurements are attributed medical observations; memory is not a present preference test. No prognosis-independent clinical optimum, actual departure or universal permission in this unit."
+    },
+    {
+      "alias": "MN13",
+      "source_class": "MAIN_SEQUENTIAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E013_DEEP_READING.md",
+      "bytes": 5320,
+      "sha256": "61d3c148bde4013254aeb1c7b7e9343e2956e8df2a7d6ede7cc23bd0d56646fc",
+      "physical_lines": 35,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          35
+        ],
+        "tool": "abbe5c",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "What does the narrative allow Sammy's final presence to mean?",
+      "positive_finite_meaning": "Olympos sails; Sammy weakly vocalizes. Other vessels request/join by distinct mechanisms. Narration gives his seeing fellow sailors, usual place/friends and contented expression as he closes his eyes and the voyage ends.",
+      "counterevidence_and_stronger_claim_limit": "This is a strong narrated death and limited represented animal perspective, not a clinical certificate, informed voyage consent, unprinted guest assent or proven welfare counterfactual."
+    },
+    {
+      "alias": "MN14",
+      "source_class": "MAIN_SEQUENTIAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E014_DEEP_READING.md",
+      "bytes": 5764,
+      "sha256": "9c9a0b7c6c7e0f910278c32a54ebbc01743244e2a93f9ff40820a04fec1b39c6",
+      "physical_lines": 35,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          35
+        ],
+        "tool": "abbe5c",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "How does an animal remain consequential through ordinary material absence?",
+      "positive_finite_meaning": "Half-month-later changed bubble-cleaning, automatic tuna-can reach and Minato's retained cushion are differentiated human grief habits. Sammy's loss is confirmed; Minato's best-farewell/all-satisfied appraisal is her evaluation.",
+      "counterevidence_and_stronger_claim_limit": "No posthumous Sammy speech/reunion, universal consent, cured surviving grief, audited accident absence or resolved captaincy from the claimant cliffhanger."
+    },
+    {
+      "alias": "MN15",
+      "source_class": "MAIN_CHAPTER_CHECKPOINT",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+      "bytes": 11521,
+      "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+      "physical_lines": 58,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          58
+        ],
+        "tool": "abbe5c",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "What does the full chapter close and explicitly leave open?",
+      "positive_finite_meaning": "The coherent14-reading checkpoint confirms death/mourning and separates animal action, human interpretation, professional reports, uncompleted handover, last-voyage participation and identity limits.",
+      "counterevidence_and_stronger_claim_limit": "Its old437/480/backfill/side-unadmitted statistics are dated sequential state. Current480MAIN/Cycle008 admission governs; no prospective holdout or model is created."
+    },
+    {
+      "alias": "MN16",
+      "source_class": "MAIN_PHASE2_CONTEXTUAL_ANALYTICAL_NORMAL",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 19594,
+      "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+      "physical_lines": 677,
+      "actual_own_Sammy_target_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "span": [
+          1,
+          677
+        ],
+        "tool": "423056",
+        "underlying_primary_native_raw_AV": false
+      },
+      "Sammy_specific_question": "How do current arc comparisons preserve the animal's distinct role?",
+      "positive_finite_meaning": "Current Cycle008 acceptance supersedes creator-stage pending text. Main creature care, diver food/singing/reading/physical help and EVENT861 whale-remains ethics have separate recipient channels and endpoints. Kokoro recovery cannot prove Sammy's lost clinical alternative.",
+      "counterevidence_and_stronger_claim_limit": "Known bounded no-private-route metadata is attributed and not global absence. Secure diver identities do not alias MAIN officers or Sammy; no global chronology or creature consent transfer."
+    },
+    {
+      "alias": "MN17",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 50993,
+      "sha256": "6f64262858301f3100f5edbf8b65c6463e117ad15ac607e6e537d1aa467bc553",
+      "physical_lines": 285,
+      "Sammy_specific_question": "What does the whale-resting-place and diver-consent case contribute without becoming Sammy's history?",
+      "actual_positive_and_contrary_meaning": "The event gives wanted underwater activity/food/company before institutional utility, forced extraction of purported whale remains, spoken student refusal, and actual yet qualified rescue/work/company afterstates. These contrast with Sammy's nonverbal recipient position and MAIN last-voyage/grief; the source explicitly rejects cat/whale-consent, funerary and chronology mergers.",
+      "limits": "No Event861 Sammy funeral, global marine cognition, biologically related divers, normative clinical outcome or animal-informed assent. Client/graveyard/mine/legal/technical assertions retain their source-local grades.",
+      "actual_own_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "line_spans": [
+          [
+            1,
+            285
+          ]
+        ],
+        "tools": [
+          "0a2554",
+          "d2df17",
+          "85e443"
+        ],
+        "primary_native_raw_AV": false
+      },
+      "current_authority": "Cycle008 current contextual acceptance governs retained source-owner creation-stage UNADMITTED/UNAPPLIED/Phase2-incomplete fields. Original primary/native/source-owner scopes remain attributed."
+    },
+    {
+      "alias": "MN18",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOTONE/BLUE_ARCHIVE_KOTONE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 24480,
+      "sha256": "f4644f7ca1a203f0f34f4664e7c270d93558b7425727560f47a8eeb1617cc944",
+      "physical_lines": 582,
+      "Sammy_specific_question": "How can familiar quiet reading, food and company remain worthwhile while comfort and permission differ by recipient?",
+      "actual_positive_and_contrary_meaning": "Kotone's actual poke/glasses/return, wanted reading/radio friendship and reported reply remain positive; her invited floating leaves the adult uncomfortable and a refused distance request persists. This substantiates ordinary value without claiming that human consent, unseen friendship or marine familiarity supplies Sammy's wishes or cancels his decline.",
+      "limits": "Kotone's distinct securely bound private family is not Sammy's private biography or an officer alias. Reported reply is not posthumous Sammy communication; achieved floating is not universal comfortable rest, and offered sea expertise is not a clinical preference test.",
+      "actual_own_receiving": {
+        "grade": "SELECTED_CONNECTED_COMPLETE_FAMILY_ANALYTICAL_ACCOUNT_AND_CURRENT_LIMITS_PLUS_TAIL;NOT_WHOLE_PHYSICAL_FILE;CLIP185_207_REPAIRED",
+        "line_spans": [
+          [
+            1,
+            421
+          ],
+          [
+            573,
+            582
+          ]
+        ],
+        "tools": [
+          "2c339e",
+          "923bec"
+        ],
+        "primary_native_raw_AV": false
+      },
+      "current_authority": "Cycle008 current contextual acceptance governs retained source-owner creation-stage UNADMITTED/UNAPPLIED/Phase2-incomplete fields. Original primary/native/source-owner scopes remain attributed."
+    },
+    {
+      "alias": "MN19",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOKORO/BLUE_ARCHIVE_KOKORO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 42654,
+      "sha256": "dba39b01fa27e17f64d7cb0d2fbdd85b2f98cefd1c12feeb6056b0d0a12c77a4",
+      "physical_lines": 253,
+      "Sammy_specific_question": "How does actually achieved human recovery qualify an equation between caring intent and animal welfare optimum?",
+      "actual_positive_and_contrary_meaning": "Kokoro's pleasures, safety pressure, false alarm, hurried ascent and narrated chamber recovery have separate actual endpoints. Temporary avoidance is qualified by the whole-thread future-help request. This retains fulfilled treatment and chosen reciprocal company rather than reducing all care to unverified hope, while preserving why Sammy's alternative-treatment outcome remains unprinted.",
+      "limits": "The human narrated local recovery does not prove a medical protocol, identify Sammy's cause of death, date private scenes against MAIN, establish cat/whale informed consent, or create a private actor join. Technical explanations and source-owner primary receipts remain attributed.",
+      "actual_own_receiving": {
+        "grade": "FRESH_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+        "line_spans": [
+          [
+            1,
+            253
+          ]
+        ],
+        "tools": [
+          "802cbb",
+          "58877e",
+          "d260af"
+        ],
+        "primary_native_raw_AV": false
+      },
+      "current_authority": "Cycle008 current contextual acceptance governs retained source-owner creation-stage UNADMITTED/UNAPPLIED/Phase2-incomplete fields. Original primary/native/source-owner scopes remain attributed."
+    }
+  ],
+  "future_primary_assignment": {
+    "controller_evidence_id": "ROOT_NEXT_ODYSSEIA_CLUSTER_FOUR_EXISTING_HOMES_EXACT_FUTURE_AUTHORSHIP_TARGET_BINDINGS_20261013_V1.json",
+    "bytes": 3729,
+    "sha256": "486041bfa000c233f26ef8431ba0c33d48dea3d88bba71957eeb7f95147387a8",
+    "ROOT_actual_absence_witness": "27006b",
+    "author_grade": "exact C controller pinned/read; R absence and blank canonical row ROOT-attributed only"
+  },
+  "existing_scope_and_original_argument": {
+    "required_row_preserved": {
+      "required_package_id": "P3-CHAR-M032",
+      "kind": "CHARACTER",
+      "subject_or_question": "Sammy",
+      "source_responsibility_refs": "P3-M032",
+      "mandatory_named_section_ids": "",
+      "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+      "canonical_path": "",
+      "persistence_state": "UNACCEPTED",
+      "remote_publication": "NOT_YET_PUBLISHED",
+      "main_integration": "NOT_YET_INTEGRATED",
+      "completed_after_ROOT_install": "false",
+      "required_count": "1"
+    },
+    "home_partition": {
+      "repository_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+      "pointer": "/homes/25",
+      "complete_original_home": {
+        "home_key": "P3-CHAR-M032",
+        "kind": "CHARACTER",
+        "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+        "source_responsibility_refs": [
+          "P3-M032"
+        ],
+        "literary_rationale": [
+          "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+        ],
+        "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+        "counts_as_completed": false,
+        "proposed_denominator_entry": true
+      }
+    },
+    "complete_original_responsibility_argument": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/CHARACTER_AND_SOURCE_FORM_PARTITION_PART_01.json",
+      "pointer": "/historical_payload/rows/31",
+      "full_original_row": {
+        "source_responsibility": "P3-M032",
+        "subject": "Sammy",
+        "proposal_targets": [
+          "P3-CHAR-M032"
+        ],
+        "allocation": "RETAIN_SOURCE_SCOPED_PROPOSED_DISPOSITION_AND_ORIGINAL_SEMANTICS",
+        "acceptance": "ROOT_PENDING_THIS_PARTITION",
+        "original_complete_decision": {
+          "lane": "MAIN_SPECIAL",
+          "source_file": "CENSUS_MAIN_SPECIAL/MAIN_SPECIAL_CENSUS_CANDIDATE.json",
+          "source_field": "decisions",
+          "source_row": 31,
+          "decision": {
+            "candidate_unit_id": "P3-M032",
+            "subject": "Sammy",
+            "verdict": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+            "review_state": "SUBSTANTIVE_LOCAL_RECOMMENDATION_ROOT_ADOPTION_PENDING",
+            "package_key": "P3-CHAR-M032",
+            "raw_identity_or_source_ids": "",
+            "exact_identity_scope": "サミー label and vocalizations are text. Language/voice section can explicitly map animal representation/anthropomorphism limits, not human pronoun psychology or inspected meow performance.",
+            "inspected_current_homes": [
+              "02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md"
+            ],
+            "sections_11_feasibility": {
+              "core_thesis": "Sammy is an independently retrievable animal-character question about represented agency, familiar belonging and human uncertainty; a nonhuman interior must stay unknown rather than become an exclusion rule.",
+              "longitudinal_arc_public_private": "Sniffing, running/slipping, approaching fallen Minato, deterioration, last voyage and death form a shown/narrated trajectory. Human interpretation of concern is stronger than nothing but not verified feline intention.",
+              "school_club_role": "Ship cat membership and tradition-bound humans’ decisions. Sammy is not an official student, medical authority or taboo cause; nonhuman status does not remove character meaning.",
+              "ordinary_life": "Familiar views, food attention and habitual company matter as represented conditions/actions. The humans’ wishes for him differ from his independently secured preferences.",
+              "crisis_behavior_and_counterevidence": "Handling, salty shiprisk, grave condition and final death are consequential. No inspected clinical cause, land-care counterfactual or humane-best-choice certification follows.",
+              "sensei_relationship": "Sensei’s catching others and facilitating discussion affect Sammy’s environment; no linguistic reciprocal teacher relationship is invented.",
+              "major_peer_relationships": "Sammy→Minato approach is interpreted by humans; Sumika/Ami attachment and Sanae’s will/risk positions differ. Grief habits after death belong to survivors, not Sammy’s posthumous speech.",
+              "language_voice_identity": "サミー label and vocalizations are text. Language/voice section can explicitly map animal representation/anthropomorphism limits, not human pronoun psychology or inspected meow performance.",
+              "evidence_route": "BA:main:series2:003:001:003:u0019–0038,005–007,010–014; C001 checkpoint final voyage/grief",
+              "public_private_self": "Retain the represented public, private-staged, inward, reported and conditional channels described above. No typed private family is established for this local scope; this is an explicit absent channel, not a character-value or independent-package exclusion.",
+              "competing_readings": "The thesis and contrary acts above must both appear. Do not promote an invariant, a total reform/fraud, a sole-savior cause, universal consent, or a verified technical/medical/legal mechanism from the bounded outcomes."
+            },
+            "no_exclusion_basis": "No stakes, popularity, model grade, MAIN frequency, animal/system/antagonist status or private-join absence used as an exclusion rule.",
+            "mandatory_debt": [
+              "ROOT must receive/adjudicate this complete candidate argument and reconcile identity/package overlap before denominator freeze.",
+              "Complete the shared 105-owner appearance/roster review and trace any consequential additional source to its adequate existing argument; a bounded route query is not global absence.",
+              "A future specialist must write all 11 sections and substantive competing readings at exact evidence scope; this census is not a completed monograph."
+            ],
+            "legitimate_limits": [
+              "All 14 original gaps remain OPEN and claim-specific; missing global chronology, voice performance and unprinted future acts constrain claims.",
+              "Existing accepted arguments reused; no new primary-reading or model/validation credit."
+            ],
+            "matched_dated_retrieval_siblings": [
+              "P3-A273"
+            ]
+          }
+        },
+        "superseded_exact_same_F_decisions": [],
+        "receiving_qualification": "Attributed original author and ROOT receiving; personal projected question receiving only except complete Red Winter body and complete Millennium thesis/shared sections",
+        "completion_credit_added": 0
+      },
+      "current_history_rule": "Historical pending/denominator-freeze duties are preserved as history; current V3 required-home acceptance discharges scope allocation only, not literary authorship/source-purpose receiving."
+    },
+    "current_candidate_route": {
+      "repository_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_DISPOSITIONS_PART_02_V3.json",
+      "pointer": "/rows/325",
+      "full_original_candidate_route": {
+        "candidate_unit_id": "P3-M032",
+        "literal_subject": "Sammy",
+        "original_population": "MAIN_ONLY_CONTEXT_SPECIAL_RETRIEVAL",
+        "literal_identity_or_source_ids": "",
+        "original_source_boundary": "S2V003",
+        "original_evidence_paths": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_002.md#3-kei-mini-and-unjoined-written-responsibilities|series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "original_eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+        "original_argument_or_limit": "Published retrieval witnesses: BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md:84; BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md:85. Bounded candidate inquiry only; complete source/identity/eligibility review remains pending. No private family, person merge or independent package inferred from lexical matching.",
+        "original_package_target": "",
+        "current_home_refs": [
+          "P3-CHAR-M032"
+        ],
+        "disposition": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+        "individual_rationale": "P3-M032 (‘Sammy’) routes to the explicitly accepted355/29 homes: P3-CHAR-M032. Full original source thesis, contrary cases, intrinsic wants and exact recipient/identity/mode/chronology limits remain in the preserved whole decision and ROOT scope. Scope acceptance is separate from literary writing/receiving and adds no completed package.",
+        "original_decision_references": [
+          {
+            "source_responsibility": "P3-M032",
+            "whole_original_source_decision": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/CHARACTER_AND_SOURCE_FORM_PARTITION_PART_01.json",
+            "original_source_field": "decisions",
+            "original_source_row": 31,
+            "meaning": "Whole thesis/contrary/eleven dimensions/identity/mode/debt preserved"
+          }
+        ],
+        "unresolved_target_tokens": [],
+        "global_person_join_added": false,
+        "completion_credit_added": 0,
+        "positive_revisit_trigger": "A positively recovered admitted source-local witness and adequate complete analytical argument establishes the actual correspondent identity/role/question; ROOT must adjudicate any strengthened join or scope change."
+      }
+    },
+    "historical_unassigned_path": "retained creation state; later explicit ROOT future assignment governs proposed body, without installation"
+  },
+  "current_current19_author_receipts": [
+    {
+      "evidence_id": "SAMMY_OWN_FIRST16_ANALYTICAL_NORMAL_PURPOSE_AND_ACTUAL_RECEIVING_V1.json",
+      "bytes": 24832,
+      "sha256": "04fdfc6fa2f76b8935c344e13c9e43e7f8f1e52666e4737f0ebb4c3741a4923f"
+    },
+    {
+      "evidence_id": "SAMMY_OWN_MN17_MN18_MN19_COMPARATIVE_PURPOSE_AND_ACTUAL_RECEIVING_V1.json",
+      "bytes": 6906,
+      "sha256": "83cc7e319f0b9c37ae47572d8773c68479394b2359e4c6ae9df881f0c3c83a87"
+    }
+  ],
+  "source_and_PRIVATE_original_mutation": "NONE; complete originals private; only local absolute path fields omitted from proposed public source records"
+}

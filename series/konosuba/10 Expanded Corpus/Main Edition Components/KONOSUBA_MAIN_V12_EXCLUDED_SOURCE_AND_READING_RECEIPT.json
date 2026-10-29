@@ -1,0 +1,93 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_ACTUAL_NEW_READING_WITH_RETAINED_PRINCIPAL_RECEIPT_V1",
+  "source_id": "MAIN-12",
+  "accepted_utc": "2026-10-19T17:15:27.529005+00:00",
+  "native_filename": "Konosuba - Main Series - Volume 12.epub",
+  "native_bytes": 1570295,
+  "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+  "OPF_member": "content.opf",
+  "OPF_sha256": "2ef93048e85d44494c2da406d2e9efcbffcfe212b06efd3082bea72b81eea29c",
+  "language": [
+    "ja"
+  ],
+  "colophon_and_bibliographic_difference": "Electronic issue2017-08-01; print-basis first issue2017-08-01; copyright2017. The shop bonus states that Kazuma recently completed repeated original-story inquiries after Aqua incomplete report; it supplies no unique calendar day or exact identity with a retained main chapter.",
+  "admission_sha256": "fe0c7f1189ceea6b9bdc25cbad0b17a48860ff5ab81b48b063865441dafbce53",
+  "preceding_full_gate_source": "70516f603eb2f02b3563091be6f81f142bda60d6",
+  "preceding_fresh_reload_sha256": "0a917c0f0738e6006e51028c7ff15e9eb74660444c016b0ec48c7f1d940a77d8",
+  "excluded_uncoded_seal_sha256": "9bebad695f8e491ccc888e9fd0ebfe33edab7bb5c36d68d99d4da807828b5246",
+  "excluded_uncoded_seal_utc": "2026-10-19T16:50:43.741717+00:00",
+  "actual_new_reading": {
+    "text_resources": 17,
+    "P_slots": 124,
+    "native_images": 29,
+    "ruby_and_nonparagraph_residual_received": true,
+    "bonus_P": 53,
+    "nonbonus_text_slots_P": 71,
+    "author_afterword_P": 23,
+    "other_wrapper_credit_slots_P": 48
+  },
+  "retained_principal_authority": {
+    "members": 8,
+    "P_slots": 2841,
+    "new_principal_reading_credit": 0,
+    "exact_native_and_prior_acceptance_control_joins": true
+  },
+  "fresh_native_CRC": "PASS",
+  "all_native_text_image_hashes_reverified": true,
+  "original_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 39459,
+      "sha256": "fe0c7f1189ceea6b9bdc25cbad0b17a48860ff5ab81b48b063865441dafbce53"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 187022,
+      "sha256": "1f1b264ccb37eecb882c01570a655109333682b5a1e09b44a24691c46c7676bc"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 18658,
+      "sha256": "c1004625f5b4c559e65394d4eebfb6450c23020558342d8673659f3efa19f4e9"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 20965,
+      "sha256": "362caa8dfa4176a41e9e750da00e76648f36e347cbd891bb4d74a88bcdaab14b"
+    }
+  ],
+  "public_preparation_view_is_redacted": true,
+  "formal_counts": [
+    14,
+    35,
+    31,
+    12,
+    42
+  ],
+  "party_comparisons": 8,
+  "typed_constraints_not_behavioral_scores": 4,
+  "Iris_SI_C01_no_opportunity_comparisons": 7,
+  "Yunyun_SY_C01_no_eligible_opportunity_comparisons": 7,
+  "Yunyun_new_direct_bonus_choices_represented": true,
+  "Yunyun_full_eligible_scope_cases": 0,
+  "original_SI_SY_null_fields_preserved": 28,
+  "historical_Yunyun_cohort_gate_preserved": {
+    "actual_source_commit": "906a29b4c986de8035b2511ed19dbf3e7c3e0676",
+    "canonical_gate_sha256": "02bf090e2f30b8f01abb66a7fd4de5c4ce8a8ca219e7b4e25d703392a831af43",
+    "historical_gate_not_current_intervening_cohort": true
+  },
+  "preceding_main_component_gate": {
+    "source_id": "MAIN-11",
+    "actual_source_commit": "70516f603eb2f02b3563091be6f81f142bda60d6",
+    "gate_sha256": "7b9c72314c806cfb42264414cfaa572f9399b06a4689960b3b955e8baba0fb5d",
+    "reload_sha256": "0a917c0f0738e6006e51028c7ff15e9eb74660444c016b0ec48c7f1d940a77d8",
+    "schema": "KONOSUBA_MAIN11EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE_V1"
+  },
+  "historical_Iris_cohort_gate_preserved": {
+    "actual_source_commit": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+    "historical_gate_not_current_intervening_cohort": true
+  },
+  "continuing_informed_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02,YORI-03,YORI-04. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim. Separately completed main excluded-component programs: MAIN-01,MAIN-02,MAIN-03,MAIN-04,MAIN-05,MAIN-06,MAIN-07,MAIN-08,MAIN-09,MAIN-10,MAIN-11. These include their actual new bonuses/paratext/images, with original principal authority retained and zero new principal-pass credit. No pristine blindness is claimed. Iris and Yunyun scoped Tier3 cohorts are published/fullgateclosed. Existing SI-C01/SY-C01 each carry seven optional rules/14 original nulls unchanged before this excluded exposure. Completed MAIN11 excluded new18resources130P/28images include53Pbonus/30Pauthorafterword/47otherP, EPUB3 navigation residual received;1119bounded retainedMAIN11 base-textP with zero new principal credit. Complete accepted MASK report and2862unique native base-textP acrosssevenunitunions and completeCONTEXP01report281L plus329nativebase-textP acrossU021/U026 additionally received; no new wholebook/ruby/image passes or independent tests from those rechecks. Complete CONTEXP02 report261L and1087actual unique nativebase-textP acrossU013/U020/U023/U026/U031 additionally received for the secondary audit, including the full57Pcostume bonus. These known-source rechecks carry no new wholebook/ruby/image or independent-test credit. Complete FDreport221L and735actual nativebase-textP acrossU012/U013/U017/U018 also received in the secondary audit; selective game-novelization source plane and zero new whole-source/test credit are retained. Working census14 has70 qualified audit rows, not a final person denominator; prior grouped rows and unresolved identity joins are preserved historically.",
+  "no_new_blind_independent_audio_or_full_principal_reread_claim": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+}

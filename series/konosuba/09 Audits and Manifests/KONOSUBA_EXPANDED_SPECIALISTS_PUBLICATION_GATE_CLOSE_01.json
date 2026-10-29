@@ -1,0 +1,110 @@
+{
+  "schema": "konosuba.expanded-specialists.author-publication-gate-close.v1",
+  "closed_utc": "2026-10-26T04:54:03.965633+00:00",
+  "source": "f659d164d359644c32238e5de5145ee1db508b92",
+  "tree": "479c801f3a742a7d92a2783d13f8d557c9ec9b0e",
+  "parent": "2557b34b6828a44dd29096be6f2d30ac7b32c107",
+  "pull_request": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/345",
+  "authority": "Exact author source publication; not independent model evaluation, protected-main integration or full-program release.",
+  "proofs": {
+    "preflight": {
+      "file": "EXPANDED_SPECIALISTS_AUTHOR_PREFLIGHT_03.json",
+      "sha256": "9823c9f39fe0bae552b33b121a902f608a230ba480720cd5b83c95ee9868151a"
+    },
+    "source_audit": {
+      "file": "EXPANDED_SPECIALISTS_SOURCE_AUDIT_VERIFIED_01.json",
+      "sha256": "4a46312f662964f05da024797587ed48f66cb78acfc229998a7bc5910115af88"
+    },
+    "remote_readback": {
+      "file": "EXPANDED_SPECIALISTS_REMOTE_READBACK_AND_RELOAD_01.json",
+      "sha256": "0c96dda9ae52f9d35209ad5edc4ea4eba9f1f338d8959270d93f1a292ab6575f"
+    },
+    "preservation": {
+      "file": "EXPANDED_SPECIALISTS_CURRENT250_PRESERVATION_01.json",
+      "sha256": "ddbdc3c034510b1415159708a6dd7499700c3142b920b955ef025a52b62c9453"
+    },
+    "owner_ad7_audit": {
+      "file": "EXPANDED_SPECIALISTS_OWNER_AD7_AUDIT_VERIFIED_01.json",
+      "sha256": "004202504761290ff75e644a80639138bb75d3d00ce8056ba10137e44d09dc7d"
+    },
+    "owner_ad7_reconciliation": {
+      "file": "EXPANDED_SPECIALISTS_OWNER_AD7_RECONCILIATION_01.json",
+      "sha256": "2e960430f6a0d49f2ced031448eb6871be545f7c7fe0d6b030ded8a53ca4be13"
+    },
+    "owner_2557_audit": {
+      "file": "EXPANDED_SPECIALISTS_OWNER_2557_AUDIT_VERIFIED_01.json",
+      "sha256": "511c979bc5a4453f4a84bd718b4a5d99ffbe460515200eb7b685116e7f5910e0"
+    },
+    "owner_2557_reconciliation": {
+      "file": "EXPANDED_SPECIALISTS_OWNER_2557_RECONCILIATION_01.json",
+      "sha256": "9ec15a6716872d68e4207a58e1068455e3a0b4f38561e5238b7c7d9a68ef77fe"
+    },
+    "author_review": {
+      "file": "EXPANDED_SPECIALISTS_AUTHOR_REVIEW_01.json",
+      "sha256": "dc584599ba484b66d0666f9d5c4d5ae7f24af93cd70e04af3d9f7dd593eab5a9"
+    },
+    "canonical_adoption": {
+      "file": "EXPANDED_SPECIALISTS_CANONICAL_ADOPTION_01.json",
+      "sha256": "05da6abbd0e4de27940c1e6e5414e0e130b13dac08741d09cbf668bed03142e2"
+    }
+  },
+  "full_candidate_index_paths": 10382,
+  "complete_remote_tree_exact": true,
+  "all13_changed_streams_exact": true,
+  "fresh_project_body_reload": 1771,
+  "preserved_model_bodies": 71,
+  "scratch_files": 80,
+  "actual_full_audit": {
+    "run": 40270306533,
+    "job": 121401488018,
+    "reporter_job": 121403362859,
+    "tests": 479,
+    "all_discovered_ids_executed": true,
+    "all5_non_success_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/f659d164d359644c32238e5de5145ee1db508b92",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57232611854,
+      "node_id": "SC_kwDOUJ9ads8AAAANU1RaDg",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40270306533",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-26T04:48:17Z",
+      "updated_at": "2026-10-26T04:48:17Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    }
+  },
+  "preservation_scope": "The 250 assertions actually passed before the owner integrations. The first integration had an identical source tree; this receipt independently verifies all protected KonoSuba and nonincoming bytes plus all sixteen audited owner streams. It does not claim a second execution of the historical 250 assertions or retain their old global-file-count assertion as a current count.",
+  "owner_inheritance": "PR342 merge had an identical ledger-source tree. PR341 imported sixteen Re:Zero paths/three new files with no KonoSuba or shared-control delta; both exact owner heads passed their own complete audits, with all current bytes reconciled.",
+  "publication_route": "Normal continuing-branch push, current routing already materialized; isolated exact-source reporter/status verified. No separate housekeeping or repository_dispatch execution is invented.",
+  "increment_scope": {
+    "new_expanded_literary_versions": 7,
+    "old_main_only_specialists_whole_unchanged": 7,
+    "new_models_at_this_source": 0,
+    "new_case_inputs_at_this_source": 0,
+    "new_first_responses_at_this_source": 0,
+    "independent_accuracy_or_grade_gain": 0
+  },
+  "full_program_complete": false
+}

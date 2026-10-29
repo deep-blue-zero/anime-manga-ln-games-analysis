@@ -1,0 +1,226 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Satsuki",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SATSUKI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_SATSUKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5469,
+    "sha256": "dad14f1c063f94848efb482b167c13d72e7bb4cda221af9492f7010711cc7e2d",
+    "git_blob_oid_of_actual_bytes": "22dced0fa96616fa956ecfe51a3c1c4ae6b8d468",
+    "lines": 69
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_SATSUKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "9e65760d16299cd5d3fe5513950b4e04733d8ba87dedd0debe188267a4e14a6b",
+    "frozen_outputs_verified": 4,
+    "prior_frozen_payloads_preserved": 97,
+    "separate_Kasumi_supplement_payloads_preserved": 2,
+    "exact_unique_binding_pairs_verified": 164,
+    "public_arguments_equal_current_main_c1_old_and_new_published_source": 13,
+    "effective_private_arguments": 15,
+    "separate_comparison_arguments": 1,
+    "selected_private_objects_integrity_only": 24,
+    "saved_nonempty_lines_joined": 91,
+    "substantial_sections": 11,
+    "ROOT_actual_receiving": {
+      "whole_body": [
+        "1e91091–80",
+        "b10a0581–147EOF"
+      ],
+      "whole_readable_receipt": "1e87e269EOF",
+      "all_nonarray_controls": "be5a0e",
+      "whole_private_arguments": [
+        "3c3e56SA01–05eachEOF",
+        "76ce95SA06–10eachEOF",
+        "f039e6SA11–14eachEOF",
+        "1287e5SA15whole82EOF",
+        "994ab8wholecomparison69EOF"
+      ],
+      "whole_fresh_main_arguments": [
+        "b6f9f7E00137EOF/E00934EOF/E01034EOF",
+        "28a1d6E01842EOF/E01940EOF"
+      ],
+      "all_five_claim_review_fields_and_public_binding_fields": "1e87e2",
+      "whole_delivery_manifest_and_probe": "1061ee",
+      "adequate_prior_meanings": "ROOT fresh complete E860273 through EOF in Makoto review and accepted qualified G190/MINI32/E833/E835/S2 meanings preserve independent recipients, staff dissent, actual local care, refusal, counterevidence and material endpoints. ROOT has now received all15 effective private arguments, whole comparator and five consequential main arguments. No fresh all8 reused public owner replay or inherited primary/native/QA/AV credit.",
+      "dated_snapshots": "Historical346 metadata, author dbabb mutable capture, current92184703 publication and main2e literary owners separately preserved. Historical CSV bytes verified at dated Git snapshots; exact current Satsuki rows unchanged. Cycle008 qualifies oldUNADMITTED/pending/frontier words without rewriting history."
+    },
+    "semantic_grounds": [
+      "Clothes, shopping, atmosphere, food, view, walking, warm hands and chosen company have intrinsic value independently of work or mechanism. Birthday remembering anyway and Christmas atmosphere retain decisive local qualifiers.",
+      "Completed sunscreen, shallow-water local relief, hug, cleanup, near-drowning pull, grooming, shirt change, curry udon, paperwork, comfort, meal and dorm escort remain meaningful. Rest is reported in linked MM, fight settlement is not printed, clinical cure and permanent safety are unverified.",
+      "Refused recruitment and demands, restrained hands/conditional release, failed techniques and reverse-exploitation admission remain serious counterevidence. Care neither cancels these costs nor proves wholly cynical or wholly benign motivation.",
+      "Cooperator-to-companion language and unfinished feelings establish local wanting, not romance, perpetual company, legal contract or unrestricted permission. No unsupported base-to-swimsuit conversion chronology.",
+      "Direct archive history and disposal testimony are useful with explicit trigger uncertainty, exception and unnamed former member. No exhaustive absence, authentic collaborator chain or source installation follows.",
+      "E009 experiment explicitly unperformed; E010 theory conditional/frequency unknown. Actual E018 counterbroadcast, group credit and local recovery are achievements without isolated factor, measured mechanism, clinical audit or inevitable death-trigger certificate.",
+      "E019 property/emotional harms, apologies, renewed duty, orders and promises remain finite; restitution and recurrence prevention unfinished. Satsuki meaning-making and Makoto untestable support account are not mechanism tests.",
+      "Recipients retain independent refusal and contribution: Iroha labor/privacy, Ibuki wants, teacher consent, Chiaki equipment lead, Erika/Kirara contribution, coalition norms. E860 obedience/freewill disagreement matters; actual rescue/newboat differ from retrospective dream conquest.",
+      "Native coastguard/medical speaker seams, empty-person logs, inward alternatives,48answers/42domains,109normal/66event rows, exact variants/costumes and JP/KR literal differences remain separate from performance and calendar."
+    ],
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "new_primary_native_raw_QA_AV_credit": 0,
+    "scope": "355packages/29namedsections unchanged; existingP3-CHAR-SATSUKI/F030/A129 only",
+    "completion_boundary": "Directed relations, ensemble, institutional, Sensei and register responsibilities retain their full questions within exact existing catalog; their mention grants no automatic package or section completion and creates no new home.",
+    "progress": {
+      "previous_ROOTaccepted_packages": 53,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 54,
+      "character_packages": 53,
+      "directed_relationship_packages": 1,
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "published_packages": 47,
+      "published_source_commit": "92184703994a1950a5660654ce52d8516dbe9bf5",
+      "published_source_audit_chain": "SOURCE_SUCCESS_HOUSEKEEPING_SUCCESS_FINAL_FULL_AUDIT_PENDING",
+      "quarter_reached": false
+    },
+    "main_integration": "NONE",
+    "nine_unbound_large": "UNREAD_UNHASHED"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-SATSUKI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SATSUKI_CHARACTER_MONOGRAPH.md",
+    "bytes": 38936,
+    "sha256": "e15a33269a893c834d613d6fcbdce246d533f2300f1a30878faab35566879273",
+    "git_blob_oid_of_actual_bytes": "2c75cbc9f1bbe3645cceca43069aa0960929daa4"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "Independent ROOT whole saved receiving, exact source/paragraph verification and canonical adoption remain pending; the author does not accept or count this candidate.",
+      "new": "ROOT independently received the whole saved argument, verified exact source/paragraph bindings and accepted this complete character boundary with limits; canonical persistence follows complete ROOT installation. The author did not accept or count the original candidate.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    },
+    {
+      "old": "| Gap | Status and claim-specific limit |\n|---|---|\n| G01 | OPEN — shopping, food, style, walks, views and company are intrinsic within the selected family; no exhaustive lifetime hobby or habit frequency is inferred. |\n| G02 | OPEN — local concern, aid, gratitude and assent do not establish every collaborator's motive, unrestricted recipient permission or permanent exclusivity. |\n| G03 | OPEN — profile titles and testimony establish bounded institutional representation, not a complete office, archive audit, legal intervention rule or collective alliance. |\n| G04 | OPEN — local links, continuations and memories are retained; variant/release order does not establish a Main/private/event maturity or conversion chronology. |\n| G05 | OPEN — empty-person logs, inward alternatives, formal options and coastguard/medical speaker seams constrain actor claims; contextual content is not all named speech. |\n| G06 | OPEN — JP/KR collaborator subjects, secret-base existence, temporary-stay wording, coin direction, suffering and closure differences remain separate rather than a harmonized causal theory. |\n| G07 | OPEN —109 normal/66 event written rows and editions retain conditional scope; invitations, birthday wishes, office promises and remembered acts are not all performed encounters. |\n| G08 | OPEN — no voice, audio, image, animation, acoustic signal or performance inspection follows from written IDs, sound requests or scene cues. |\n| G09 | OPEN — shallow-water fear cessation, trembling endurance and comfort are local; clinical cure, immunity, vaccine-policy safety and lifelong fearlessness remain unverified. |\n| G10 | OPEN — useful work and counterbroadcast are real at literary scope; frequency, source installation, individual causal contribution, experimental validation and universal hypnosis capacity remain unresolved. |\n| G11 | OPEN — archive destruction, unnamed former staff, external-force theory and Emperor history retain testimony/unknown limits; no complete person chain or historical record is authenticated. |\n| G12 | OPEN — actual sunscreen, hug, help, grooming, eating, work, hand holding, escort and incident closure differ from reported rest, future company, fight settlement, project success and uncompleted restitution. |\n| G13 | OPEN — current admission and qualified accepted arguments remain distinct from historical firstness/independence UNKNOWN; another reader's primary and source-execution credit does not transfer. |\n| G14 | OPEN — no model, prediction register, diagnostic, denominator, milestone, capacity, source admission or publication promotion follows from this candidate. |\n",
+      "new": "**Stable original-gap qualification.** The immutable author table below used G01–G14 to enumerate local limits. Those local topics are retained verbatim as L01–L14 in this public derivative; they do not redefine the original gap IDs. The fourteen stable definitions in the [source-gap impact register](../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md) govern G01–G14. The following stable-ID table records their claim-specific effect here. Every original gap remains OPEN; this clarification adds no source, receiving, model, scope, package or gap-closure credit. Original author bytes and coordinates remain frozen and exactly recoverable.\n\n| Local limit | Status and claim-specific limit |\n|---|---|\n| L01 | OPEN — shopping, food, style, walks, views and company are intrinsic within the selected family; no exhaustive lifetime hobby or habit frequency is inferred. |\n| L02 | OPEN — local concern, aid, gratitude and assent do not establish every collaborator's motive, unrestricted recipient permission or permanent exclusivity. |\n| L03 | OPEN — profile titles and testimony establish bounded institutional representation, not a complete office, archive audit, legal intervention rule or collective alliance. |\n| L04 | OPEN — local links, continuations and memories are retained; variant/release order does not establish a Main/private/event maturity or conversion chronology. |\n| L05 | OPEN — empty-person logs, inward alternatives, formal options and coastguard/medical speaker seams constrain actor claims; contextual content is not all named speech. |\n| L06 | OPEN — JP/KR collaborator subjects, secret-base existence, temporary-stay wording, coin direction, suffering and closure differences remain separate rather than a harmonized causal theory. |\n| L07 | OPEN —109 normal/66 event written rows and editions retain conditional scope; invitations, birthday wishes, office promises and remembered acts are not all performed encounters. |\n| L08 | OPEN — no voice, audio, image, animation, acoustic signal or performance inspection follows from written IDs, sound requests or scene cues. |\n| L09 | OPEN — shallow-water fear cessation, trembling endurance and comfort are local; clinical cure, immunity, vaccine-policy safety and lifelong fearlessness remain unverified. |\n| L10 | OPEN — useful work and counterbroadcast are real at literary scope; frequency, source installation, individual causal contribution, experimental validation and universal hypnosis capacity remain unresolved. |\n| L11 | OPEN — archive destruction, unnamed former staff, external-force theory and Emperor history retain testimony/unknown limits; no complete person chain or historical record is authenticated. |\n| L12 | OPEN — actual sunscreen, hug, help, grooming, eating, work, hand holding, escort and incident closure differ from reported rest, future company, fight settlement, project success and uncompleted restitution. |\n| L13 | OPEN — current admission and qualified accepted arguments remain distinct from historical firstness/independence UNKNOWN; another reader's primary and source-execution credit does not transfer. |\n| L14 | OPEN — no model, prediction register, diagnostic, denominator, milestone, capacity, source admission or publication promotion follows from this candidate. |\n\n| Stable original gap | Status | Character-specific contribution and remaining warrant |\n|---|---|---|\n| G01 — Ordinary and private breadth | OPEN | Shopping, food, style, walks, views and wanted company remain intrinsic within the selected family. They establish no exhaustive lifetime preference or habit frequency. Local L01 remains. |\n| G02 — Yuuka council/club decision transfer | OPEN | Satsuki’s information role, broadcasts and conditional help establish no Yuuka council/club transfer rule, universal mercy, privacy repair or durable security result. Yuuka’s own decision envelope remains separately evidenced. |\n| G03 — Serika service, peer and reciprocity range | OPEN | Care, work and reciprocal company in Satsuki’s sources supply no Serika customer, wage, service or private-response rule. Serika’s independent recipients and actual outcomes require their own sources. |\n| G04 — Hina crisis causality, accountability and ordinary contrast | OPEN | A useful counterbroadcast and Pandemonium testimony do not settle Hina’s NK Ultra responsibility, affected-student repair, restitution or lasting institutional change. Causal contribution remains claim-specific. |\n| G05 — Arius and PS68 ordinary/aftermath transfer | OPEN | Shared public context, comfort or incident closure supplies no Arius/PS68 ordinary biography, permanent livelihood/security, legal absolution or completed restitution. No cross-cohort transfer follows. |\n| G06 — Cross-school ordinary repertoire | OPEN | Specific collaborators, company and independent objections broaden ordinary repertoire. Local aid, gratitude or assent does not establish a school-wide norm, every motive or permanent exclusivity. Local L02 remains. |\n| G07 — Story-world chronology | OPEN | Local links, continuations and memories retain their order. Variant/release sequence supplies no global Main/private/event maturity or conversion calendar. Local L04 remains. |\n| G08 — Event naming and repeat contexts | OPEN | Literal event/source routes and written editions preserve naming and repeat context. No missing overarching title, fused holiday, additional enacted rerun or event–Main edge is supplied from metadata. |\n| G09 — Written speaker/choice attribution | OPEN | Empty-person logs, inward alternatives, formal options and coastguard/medical speaker seams constrain actors; JP/KR collaborator, coin and closure differences remain distinct. Local L05/L06 remain. |\n| G10 — Performed voice | OPEN | Written IDs, sound requests and scene cues supply no acoustic signal, voice, audio, pixels, animation or performance inspection. Local L08 remains. |\n| G11 — Hoshino's Yume record and office states | OPEN | Archive destruction testimony, former staff and Emperor history do not authenticate Hoshino/Yume notebook or death records, resolve their causality or prove lasting stabilization. No missing record is replaced by analogy. |\n| G12 — Counterpart, system and variant identity | OPEN | External-force theories, unnamed staff and historical leads retain testimony and identity limits. No whole person/system/control chain, variant chronology or collective alliance is authenticated. Local L03/L11 remain. |\n| G13 — Office, contract, safety and technical outcomes | OPEN | Actual sunscreen, hug, help, grooming, food, work, hand holding, escort and local closure differ from clinical cure, immunity, vaccine-policy safety, validated hypnosis, completed projects and restitution. Office/technical claims keep their missing warrants. Local L03/L09/L10/L12 remain. |\n| G14 — Unclassified/mode continuity | OPEN | The admitted written and narrative modes retain their actual scope; invitations, remembered acts and office promises are not all performed encounters. Unclassified, special and other mini sources are not silently admitted or excluded. Local L07/L13/L14 retain custody and no-promotion limits. |\n",
+      "kind": "EXPLICIT_STABLE_ORIGINAL_GAP_ID_QUALIFICATION_LOCAL_TEXT_PRESERVED"
+    }
+  ],
+  "exact_added_authority_or_custody_paragraphs": [
+    "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SATSUKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SATSUKI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed. The prior47-package source publication base is `92184703994a1950a5660654ce52d8516dbe9bf5`; frozen author/control/progress snapshots below retain their dated meaning. Execution requires ROOT’s successful actual exact-head audit chain."
+  ],
+  "exact_added_retrieval_title": null,
+  "fixed_publication_snapshot": "Seven accepted packages48–54 only; after complete ROOT installation54=53characters+1directedrelationship; later liveROOT acceptances excluded",
+  "stable_original_gap_alignment": {
+    "original_gap_authority": {
+      "repository_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+      "bytes": 79178,
+      "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+      "git_blob_oid_of_actual_bytes": "0e15ecdee162ba461e475081e2b430a17ce76edf"
+    },
+    "authority_received_scopes": [
+      [
+        27,
+        45
+      ],
+      [
+        333,
+        354
+      ]
+    ],
+    "authority_whole_file_reading_credit": false,
+    "historical_local_G01_G14_rows_preserved_as_L01_L14": true,
+    "stable_G01_G14_claim_specific_rows_added": [
+      {
+        "gap_id": "G01",
+        "original_name": "Ordinary and private breadth",
+        "status": "OPEN",
+        "claim_specific_disposition": "Shopping, food, style, walks, views and wanted company remain intrinsic within the selected family. They establish no exhaustive lifetime preference or habit frequency. Local L01 remains."
+      },
+      {
+        "gap_id": "G02",
+        "original_name": "Yuuka council/club decision transfer",
+        "status": "OPEN",
+        "claim_specific_disposition": "Satsuki’s information role, broadcasts and conditional help establish no Yuuka council/club transfer rule, universal mercy, privacy repair or durable security result. Yuuka’s own decision envelope remains separately evidenced."
+      },
+      {
+        "gap_id": "G03",
+        "original_name": "Serika service, peer and reciprocity range",
+        "status": "OPEN",
+        "claim_specific_disposition": "Care, work and reciprocal company in Satsuki’s sources supply no Serika customer, wage, service or private-response rule. Serika’s independent recipients and actual outcomes require their own sources."
+      },
+      {
+        "gap_id": "G04",
+        "original_name": "Hina crisis causality, accountability and ordinary contrast",
+        "status": "OPEN",
+        "claim_specific_disposition": "A useful counterbroadcast and Pandemonium testimony do not settle Hina’s NK Ultra responsibility, affected-student repair, restitution or lasting institutional change. Causal contribution remains claim-specific."
+      },
+      {
+        "gap_id": "G05",
+        "original_name": "Arius and PS68 ordinary/aftermath transfer",
+        "status": "OPEN",
+        "claim_specific_disposition": "Shared public context, comfort or incident closure supplies no Arius/PS68 ordinary biography, permanent livelihood/security, legal absolution or completed restitution. No cross-cohort transfer follows."
+      },
+      {
+        "gap_id": "G06",
+        "original_name": "Cross-school ordinary repertoire",
+        "status": "OPEN",
+        "claim_specific_disposition": "Specific collaborators, company and independent objections broaden ordinary repertoire. Local aid, gratitude or assent does not establish a school-wide norm, every motive or permanent exclusivity. Local L02 remains."
+      },
+      {
+        "gap_id": "G07",
+        "original_name": "Story-world chronology",
+        "status": "OPEN",
+        "claim_specific_disposition": "Local links, continuations and memories retain their order. Variant/release sequence supplies no global Main/private/event maturity or conversion calendar. Local L04 remains."
+      },
+      {
+        "gap_id": "G08",
+        "original_name": "Event naming and repeat contexts",
+        "status": "OPEN",
+        "claim_specific_disposition": "Literal event/source routes and written editions preserve naming and repeat context. No missing overarching title, fused holiday, additional enacted rerun or event–Main edge is supplied from metadata."
+      },
+      {
+        "gap_id": "G09",
+        "original_name": "Written speaker/choice attribution",
+        "status": "OPEN",
+        "claim_specific_disposition": "Empty-person logs, inward alternatives, formal options and coastguard/medical speaker seams constrain actors; JP/KR collaborator, coin and closure differences remain distinct. Local L05/L06 remain."
+      },
+      {
+        "gap_id": "G10",
+        "original_name": "Performed voice",
+        "status": "OPEN",
+        "claim_specific_disposition": "Written IDs, sound requests and scene cues supply no acoustic signal, voice, audio, pixels, animation or performance inspection. Local L08 remains."
+      },
+      {
+        "gap_id": "G11",
+        "original_name": "Hoshino's Yume record and office states",
+        "status": "OPEN",
+        "claim_specific_disposition": "Archive destruction testimony, former staff and Emperor history do not authenticate Hoshino/Yume notebook or death records, resolve their causality or prove lasting stabilization. No missing record is replaced by analogy."
+      },
+      {
+        "gap_id": "G12",
+        "original_name": "Counterpart, system and variant identity",
+        "status": "OPEN",
+        "claim_specific_disposition": "External-force theories, unnamed staff and historical leads retain testimony and identity limits. No whole person/system/control chain, variant chronology or collective alliance is authenticated. Local L03/L11 remain."
+      },
+      {
+        "gap_id": "G13",
+        "original_name": "Office, contract, safety and technical outcomes",
+        "status": "OPEN",
+        "claim_specific_disposition": "Actual sunscreen, hug, help, grooming, food, work, hand holding, escort and local closure differ from clinical cure, immunity, vaccine-policy safety, validated hypnosis, completed projects and restitution. Office/technical claims keep their missing warrants. Local L03/L09/L10/L12 remain."
+      },
+      {
+        "gap_id": "G14",
+        "original_name": "Unclassified/mode continuity",
+        "status": "OPEN",
+        "claim_specific_disposition": "The admitted written and narrative modes retain their actual scope; invitations, remembered acts and office promises are not all performed encounters. Unclassified, special and other mini sources are not silently admitted or excluded. Local L07/L13/L14 retain custody and no-promotion limits."
+      }
+    ],
+    "no_gap_closure_or_new_source_scope_package_model_credit": true
+  }
+}

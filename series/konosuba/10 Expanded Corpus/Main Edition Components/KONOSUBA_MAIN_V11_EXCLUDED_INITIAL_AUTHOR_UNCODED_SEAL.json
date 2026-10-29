@@ -1,0 +1,466 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_COMPONENT_ACTUAL_UNCODED_SEAL_WITH_RETAINED_PRINCIPAL_V1",
+  "source_id": "MAIN-11",
+  "sealed_utc": "2026-10-19T15:44:20.005551+00:00",
+  "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+  "fresh_native_CRC": "PASS",
+  "retained_accepted_principal_bodies": 7,
+  "retained_principal_new_P_credit": 0,
+  "actual_new_complete_textual_resources": 18,
+  "actual_new_paragraph_slots": 130,
+  "actual_unique_native_images_viewed": 28,
+  "unit_dispositions": [
+    {
+      "component_id": "MAIN-11-U001",
+      "native_member": "item/xhtml/p-cover.xhtml",
+      "sha256": "67134439157c764c4f97e146dab4f0034bc9fc054477bd2029c91326e5b2d77e",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 0,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U002",
+      "native_member": "item/xhtml/p-fmatter-001.xhtml",
+      "sha256": "756cbf5a447de3e654d58dfc036f814f7c1dd9a03728cf9f478be3060c8c13ac",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 0,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U003",
+      "native_member": "item/xhtml/p-fmatter-002.xhtml",
+      "sha256": "b8e275c2749be2b0ca36ffd6c18d3f4ed5d27a816271f70fce25fbed270361f3",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 0,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U004",
+      "native_member": "item/xhtml/p-fmatter-003.xhtml",
+      "sha256": "7eab7fb411078823608751d46616262466c095c2e1e6968346d2e16ad229ef25",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 0,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U005",
+      "native_member": "item/xhtml/p-fmatter-004.xhtml",
+      "sha256": "da6c36f8202ca6f149415ffa805faddbd812f308f339ac9f36fc129b3853acb6",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 0,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U006",
+      "native_member": "item/xhtml/p-fmatter-005.xhtml",
+      "sha256": "aa4aa40cc907ad608549ab41532c86e651091d7c7d85ae6ecb112865693f6017",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 0,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U007",
+      "native_member": "item/xhtml/p-titlepage.xhtml",
+      "sha256": "b5c07f84668c6cc1352f3f97e259d9f3caa9289b58b9b11abfb36f8b0de7dfb5",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 6,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 6
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U008",
+      "native_member": "item/xhtml/p-caution.xhtml",
+      "sha256": "bc9e24d866f32b0b2d5bf5d012a5ff17ad87405d693fffe3629295f083d18288",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 7,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 7
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U009",
+      "native_member": "item/xhtml/p-toc-001.xhtml",
+      "sha256": "9d0be62801ce3dd09b2362583c8275bf51c9f151c0c3b329e294856270a7074c",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 13,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 13
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U010",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "sha256": "2cf08fafadb8d5c4b1d84a2060af2187272429b710e1c42848ad0a8426069d0c",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 0,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U011",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "sha256": "a7b676790b915ebc17f574f8f488608527e2a1ed931b77a2d9279b073ac2e374",
+      "current_disposition": "ACCEPTED_PRINCIPAL_RETAINED_EXACT_NO_NEW_READING_CREDIT",
+      "actual_new_P_read": 0,
+      "retained_principal_authority": {
+        "component_id": "MAIN-11-U011",
+        "metadata_plan_id": "MAIN11-EDITION-U011",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "sha256": "a7b676790b915ebc17f574f8f488608527e2a1ed931b77a2d9279b073ac2e374",
+        "accepted_principal_contract_exact": {
+          "alias": "Pr / start",
+          "paragraph_slots": 38,
+          "member_sha256": "a7b676790b915ebc17f574f8f488608527e2a1ed931b77a2d9279b073ac2e374"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      }
+    },
+    {
+      "component_id": "MAIN-11-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "sha256": "402519269fae35532674fbb60f7fdb8b42df28e725a4b27c30639aafcfdd971f",
+      "current_disposition": "ACCEPTED_PRINCIPAL_RETAINED_EXACT_NO_NEW_READING_CREDIT",
+      "actual_new_P_read": 0,
+      "retained_principal_authority": {
+        "component_id": "MAIN-11-U012",
+        "metadata_plan_id": "MAIN11-EDITION-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "sha256": "402519269fae35532674fbb60f7fdb8b42df28e725a4b27c30639aafcfdd971f",
+        "accepted_principal_contract_exact": {
+          "alias": "C1 / start",
+          "paragraph_slots": 633,
+          "member_sha256": "402519269fae35532674fbb60f7fdb8b42df28e725a4b27c30639aafcfdd971f"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      }
+    },
+    {
+      "component_id": "MAIN-11-U013",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "sha256": "3c906a437c23241ca003a012cedc1461282eb8a9e4c4bf5781231f02b4984760",
+      "current_disposition": "ACCEPTED_PRINCIPAL_RETAINED_EXACT_NO_NEW_READING_CREDIT",
+      "actual_new_P_read": 0,
+      "retained_principal_authority": {
+        "component_id": "MAIN-11-U013",
+        "metadata_plan_id": "MAIN11-EDITION-U013",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "sha256": "3c906a437c23241ca003a012cedc1461282eb8a9e4c4bf5781231f02b4984760",
+        "accepted_principal_contract_exact": {
+          "alias": "C2 / start",
+          "paragraph_slots": 534,
+          "member_sha256": "3c906a437c23241ca003a012cedc1461282eb8a9e4c4bf5781231f02b4984760"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      }
+    },
+    {
+      "component_id": "MAIN-11-U014",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+      "current_disposition": "ACCEPTED_PRINCIPAL_RETAINED_EXACT_NO_NEW_READING_CREDIT",
+      "actual_new_P_read": 0,
+      "retained_principal_authority": {
+        "component_id": "MAIN-11-U014",
+        "metadata_plan_id": "MAIN11-EDITION-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+        "accepted_principal_contract_exact": {
+          "alias": "C3 / start",
+          "paragraph_slots": 579,
+          "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      }
+    },
+    {
+      "component_id": "MAIN-11-U015",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "sha256": "ea07ae3ecd06688a9df16a05d8bc98ff53a644ab013cc30d79bb67a727f4da9b",
+      "current_disposition": "ACCEPTED_PRINCIPAL_RETAINED_EXACT_NO_NEW_READING_CREDIT",
+      "actual_new_P_read": 0,
+      "retained_principal_authority": {
+        "component_id": "MAIN-11-U015",
+        "metadata_plan_id": "MAIN11-EDITION-U015",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "sha256": "ea07ae3ecd06688a9df16a05d8bc98ff53a644ab013cc30d79bb67a727f4da9b",
+        "accepted_principal_contract_exact": {
+          "alias": "C4 / start",
+          "paragraph_slots": 580,
+          "member_sha256": "ea07ae3ecd06688a9df16a05d8bc98ff53a644ab013cc30d79bb67a727f4da9b"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      }
+    },
+    {
+      "component_id": "MAIN-11-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "sha256": "6fc357c0d2a2e296781b478ab7edf4772d6abaa0db3e52da650136ca6b4bdeee",
+      "current_disposition": "ACCEPTED_PRINCIPAL_RETAINED_EXACT_NO_NEW_READING_CREDIT",
+      "actual_new_P_read": 0,
+      "retained_principal_authority": {
+        "component_id": "MAIN-11-U016",
+        "metadata_plan_id": "MAIN11-EDITION-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "sha256": "6fc357c0d2a2e296781b478ab7edf4772d6abaa0db3e52da650136ca6b4bdeee",
+        "accepted_principal_contract_exact": {
+          "alias": "F / start",
+          "paragraph_slots": 358,
+          "member_sha256": "6fc357c0d2a2e296781b478ab7edf4772d6abaa0db3e52da650136ca6b4bdeee"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      }
+    },
+    {
+      "component_id": "MAIN-11-U017",
+      "native_member": "item/xhtml/p-008.xhtml",
+      "sha256": "411be22a287cad0c8c0c0a1539b2115736cefdb3913fbcc172779045a3f76d25",
+      "current_disposition": "ACCEPTED_PRINCIPAL_RETAINED_EXACT_NO_NEW_READING_CREDIT",
+      "actual_new_P_read": 0,
+      "retained_principal_authority": {
+        "component_id": "MAIN-11-U017",
+        "metadata_plan_id": "MAIN11-EDITION-U017",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "sha256": "411be22a287cad0c8c0c0a1539b2115736cefdb3913fbcc172779045a3f76d25",
+        "accepted_principal_contract_exact": {
+          "alias": "Ep / start",
+          "paragraph_slots": 143,
+          "member_sha256": "411be22a287cad0c8c0c0a1539b2115736cefdb3913fbcc172779045a3f76d25"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      }
+    },
+    {
+      "component_id": "MAIN-11-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "sha256": "abaf7e00cf72ef4bc0411ea5cb20d195ff1673155b076f25023ef57ae4096788",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 30,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 30
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U019",
+      "native_member": "item/xhtml/p-010.xhtml",
+      "sha256": "23dc5fff4db053079824f49eafbb0db924cee55d7ea39d369edd3568d03eff33",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 0,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "sha256": "932923427a60990a8c2c61eb0ebdbebb048b8a8d1c75c4fc0247d61449ccf945",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 0,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U021",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 53,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 53
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U022",
+      "native_member": "item/xhtml/p-credit.xhtml",
+      "sha256": "607ffb9292d3b5f17bf65466b10e10bb274d65f8d0a4cd02ce30a2b10d9b272d",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 5,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 5
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U023",
+      "native_member": "item/xhtml/p-colophon.xhtml",
+      "sha256": "a440adc27da97ab6b66ed323738a7b914482fdfb08fbf7840f72ecc16104d322",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 16,
+      "actual_intervals": [
+        {
+          "start_P": 1,
+          "end_P": 16
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U024",
+      "native_member": "item/xhtml/p-bookwalker.xhtml",
+      "sha256": "1757004b8dd65a767fbba5fce482c063c27d14aa4225e6dc46e91621cc1ca879",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 0,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    },
+    {
+      "component_id": "MAIN-11-U025",
+      "native_member": "item/navigation-documents.xhtml",
+      "sha256": "58b9ad0a10d2af5cb784f146c64418e56c460c7ad343822824b820015da1a794",
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_UNCODED",
+      "actual_new_P_read": 0,
+      "actual_intervals": [
+        {
+          "start_P": 0,
+          "end_P": 0
+        }
+      ],
+      "nonparagraph_residual_actually_received": true
+    }
+  ],
+  "immutable_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 38092,
+      "sha256": "50749a3fcd57bc2a0f1e97d6eebc6b4c537c613c3d02798a0caeceae207d08d2"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 184963,
+      "sha256": "27686de7c0f887287c21284bba385ec663c8feff5ea64d37b2704f9f3ed14c33"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 19006,
+      "sha256": "0f7ba3e3d69328406a16e8570726ff5f4b551093770ae960b1c01c81a94b28b3"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 22432,
+      "sha256": "d97019a12da60cf64c2898d41b4ebb68be86f7ee16d099772cac3aed20d850e1"
+    }
+  ],
+  "all_new_source_formal_outcomes_still_unassigned": true,
+  "reader": "Continuing informed root; exact earlier principal acceptance retained, no reread, independent, pristine-blind, audio or native-human claim.",
+  "remaining": "Bespoke excluded-component report/individual bonus and image narrative dispositions/ledger decisions/receiving/full publication gate. Generic all-unit new-actual-read builder is prohibited."
+}

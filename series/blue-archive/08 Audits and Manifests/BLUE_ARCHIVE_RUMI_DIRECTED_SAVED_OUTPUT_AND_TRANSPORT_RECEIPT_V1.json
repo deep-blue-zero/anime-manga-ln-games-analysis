@@ -1,0 +1,524 @@
+{
+  "schema": "BLUE_ARCHIVE_RUMI_DIRECTED_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "EXACT_PREPARATION_COMPLETE_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 39201,
+      "sha256": "e820d6000b89e7bbde9ec77fc139cafa372fdcdb09f528635aec5f8c37c05ee5",
+      "git_blob_oid_of_actual_bytes": "10bdd6c03fc03af10f473901eb05a7c9e767b3e3"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 41996,
+      "sha256": "1a9846f464c7d2d8b67d3fc199a313710e00adeb137338bd7e0bbc2778456da8",
+      "git_blob_oid_of_actual_bytes": "f7e26fc0e3f320e0565bda0fa6701e3b9bc996e2"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "series: BLUE_ARCHIVE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "original_lines_complete_text": [
+          "artifact_type: directed_relationship_synthesis"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_artifact_type: directed_relationship_synthesis"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          4,
+          5
+        ],
+        "canonical_lines": [
+          4,
+          5
+        ],
+        "exact_unchanged_lines": [
+          "scope: P3-REL-SHANHAIJING-RUMI-DIFFERENT-DIRECTIONS",
+          "responsibility_id: HYS::significant_responsibilities::11"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          6,
+          7
+        ],
+        "canonical_lines": [
+          6,
+          7
+        ],
+        "original_lines_complete_text": [
+          "generation: WORKING_V1",
+          "status: ROOT_RECEIVING_PENDING"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_generation: WORKING_V1",
+          "historical_author_status: ROOT_RECEIVING_PENDING"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          8,
+          11
+        ],
+        "canonical_lines": [
+          8,
+          11
+        ],
+        "exact_unchanged_lines": [
+          "source_snapshot: 7546a2331b3f2ca83798d54f9a2b8120c780adae",
+          "source_boundary: Current accepted Japanese analytical meanings at declared private, GROUP, event, written and small Final scopes; pinned source generation BA_REFRESH_20260928T032248159554Z",
+          "mandatory_named_duties: [P3-REL-KISAKI-RUMI, P3-REL-REIJO-RUMI]",
+          "new_primary_native_raw_QA_AV_model_credit: 0"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          12,
+          12
+        ],
+        "canonical_lines": [
+          12,
+          12
+        ],
+        "original_lines_complete_text": [
+          "counts_as_ROOT_accepted_completed: false"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_counts_as_ROOT_accepted_completed: false"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          13,
+          13
+        ],
+        "canonical_lines": [
+          13,
+          13
+        ],
+        "exact_unchanged_lines": [
+          "created: 2026-10-10"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          14,
+          13
+        ],
+        "canonical_lines": [
+          14,
+          23
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "artifact_type: directed_relationship_synthesis",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: bf5ded30464ab39f78f71e79ecc7494654c25faa",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          14,
+          16
+        ],
+        "canonical_lines": [
+          24,
+          26
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# Rumi's different directions — provision, company and the person who answers"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          17,
+          16
+        ],
+        "canonical_lines": [
+          27,
+          28
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently accepted this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual author/ROOT custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the unchanged original and full byte inverse. Original pending/audit/local-navigation/count statements describe creation-time history. The first25% milestone is complete at merged89/main `b76b4373e6d0526bc78ce00bb673dba9e536c128` after the exact ROOT-accepted full postmerge audit. Ordinary local2714 reconciliation and the current published101 source `bf5ded30464ab39f78f71e79ecc7494654c25faa`/tree `f84fb33df77dfcef9fb7270cb4d1064f6ec9c898` have separately bound custody; its source→housekeeping NOOP→final exact-head full292-test audit chain is ROOT-accepted. This fixed seven-package102–108 proposal persists only through complete ROOT installation, giving108 (93 character,7 directed relationship,3 ensemble,5 institution) and6 completed non-denominator named duties; later109+ reviews remain outside this snapshot. Required355 packages/29 duties across25 parents, next178 milestone, all14 original OPEN gaps and model0 remain unchanged. Mechanical transport adds no literary, primary, performed, independent, scope or model credit. **Package-specific operative qualification:** Preserve all167 final original lines and exact body inverse. Transport both adjacent source/claim links through an explicit reviewed derivative. Keep both distinct full named directions, private normal adequate scopes, source7546 versus new same-tree main/head, historical individualgift120 versus current canonical hash difference, qualified actor carriers and all fourteen OPEN gap meanings. No monograph proxy completion."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          17,
+          166
+        ],
+        "canonical_lines": [
+          29,
+          178
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "## 1. Core thesis: care becomes a relationship through a particular reply",
+          "",
+          "**RR001.** Rumi's care has material substance: food prepared for an appetite, commercial work that keeps other people's lives possible, attention to fatigue, room for a wish and pleasure in somebody else's enjoyment. Its meaning changes with the person who receives it. Kisaki can share failed mooncakes with a cook who has approached her chosen vocation while admitting that headship was never her own choice. Reijo can contribute work, admire martial possibility, accept a chair's negotiated decision for today and still object to her nickname or being pushed out of a room. The relationship is therefore neither a universal hospitality ethic nor one family-like circle. It is differentiated attention whose genuine goods coexist with occasions when its giver discounts the answer. [A01:L173–177; A02:L079–081/L143/L147; A04:L095–097/L114]",
+          "",
+          "**RR002.** The distinction is not simply between an affectionate private Rumi and a calculating public chair. Rumi's holiday plan has both an investment interest and an interest in Kisaki's rest; neither cancels the other. Reijo's shelter creates a strategic debt and supplies actual refuge; neither makes the other unreal. What matters is whether another person's end remains present inside the arrangement. Kisaki wants the freedom to be an ordinary student and sometimes to contemplate rather than act. Reijo wants martial enjoyment, rest, recognition and protection as well as good service. A successful common undertaking does not make these wants interchangeable. [A05:L089–104; A04:L109/L116; A10:L097–109]",
+          "",
+          "**RR003.** The two named responsibilities below ask different questions. Kisaki–Rumi asks how remembered craft, an unchosen office and practical holiday care sustain affection without agreed kinship or unrestricted authority over bodies. Reijo–Rumi asks how a working association can cherish enthusiasm and achieve protection while still leaving its subordinate's dissent, labor and wished-for rest intact. Both include directions of reception and return, rather than treating the second person as supporting evidence about the first. Their complete arguments are required within this parent; neither an individual monograph nor the presence of a heading discharges them. [C05/C06/C07; A02:L121–149; A04:L109–116; A07:L079–087/L125–129]",
+          "",
+          "## 2. Longitudinal relations: local sequences and endings, without a growth ladder",
+          "",
+          "**RR004.** EVENT826 has a secure local movement from welcome and accusation through joint inquiry, capture, deferred apology, actual official apology and a banquet. The movement is consequential for relationships. Reijo's dissatisfaction survives the official speech even while she respects Rumi's decision for today; Kisaki's relaxation survives the unresolved institutional problems. Rumi's understanding of Kisaki is asserted during departure from a failed attack, and her insistence that words need not equal inner feeling remains a claim about knowing another person. It is not privileged access to every motive or proof that the chair can waive everyone else's resentment. [A02:L089/L135/L141–149]",
+          "",
+          "**RR005.** EVENT839 explicitly recaps an earlier false accusation and depicts an exchange that ends with genuine gifts and an unsettled crisis. EVENT840 supplies the immediately preceding exchange/remonstrance context and its own festival policy changes. Within840, remembered mooncakes precede refuge, a resisted separation, Kisaki's account of the past and a locally successful festival. These local relations support recontextualization: the wished-for life makes the unchosen burden intelligible, and affection does not erase commercial losses. The preview in839 is a preview; it cannot be silently counted as an already completed840 action. [A03:L082/L132–136; A04:L079/L095–097/L109–130]",
+          "",
+          "**RR006.** EVENT859 moves from painfully hot welcome and unsolicited demands through an agreed inspection pretext, actual recreation, local defense, fulfilled evening company and a disorderly return. Its ending refuses the notion that a successful holiday finishes delegation or restores everyone equally. Reijo stays as Genbu proxy while Rumi travels; Kanae takes imposed extra work and later collapses. Actual reported enjoyment and actual returned difficulties coexist. The ordinary good of the trip does not depend on a completed investment return, school peace or universal rest. [A05:L078–094/L138–144]",
+          "",
+          "**RR007.** The private objects, GROUP exercise, festival and river material provide a repertoire of possible contrasts rather than a verified public-to-private improvement ladder. Rumi's wish for the teacher's piggyback remains unfulfilled in840 and is actually fulfilled in859 at its own scope. That is a difference between two endings, not proof of a dated developmental stage or repair of an earlier denied wish. Reijo's rest and protection in private sources likewise are not chronologically assigned as lessons learned from her public work. Event identifiers, rank unlocks, repeated written contexts and variant order supply retrieval, not a total calendar. [A04:L116; A05:L104/L147; A10:L087–089; A01:L345/L375]",
+          "",
+          "## 3. Public and private relation: knowing someone is not speaking for them",
+          "",
+          "**RR008.** Kisaki distinguishes the head's public accountability from her statement that headship was never her own choice. Rumi's shared memory gives their different wanted lives concrete objects: imperfect ingredients, a broken mold, eating and a life spent cooking. Affection makes it possible to acknowledge the difference between their lives without making either a failed version of the other. Rumi has approached her vocation, but still has commercial losses and angry members to address. Kisaki has tried hard, but effort is not identical to a good result. Quiet conversation is itself a substantial relational event before it supplies a deduction for the crisis. [A04:L095–097]",
+          "",
+          "**RR009.** Rumi's claim to know Kisaki particularly well is qualified by her own statement that expressed words and inner feelings may differ. Her sister-like framing at the banquet meets Kisaki's explicit refusal. The refusal is an answer inside an affectionate scene, not proof the entire bond is cold and not an invitation to redefine the answer as secret assent. Kisaki's acceptance of food and relaxation establish those local goods. They do not establish literal kinship, an agreed sister role, decades of shared history or consent to every future form of care. [A02:L089/L147]",
+          "",
+          "**RR010.** Reijo's public respect and private judgment are likewise different contributions. She remains unsatisfied with the inadequate investigation/apology even while accepting Rumi's negotiated closure for today. She can admire Kisaki as an exception and criticize Genryumon. Rumi's affectionate tolerance of an excited martial interpretation preserves Reijo's energy but does not inform her correctly. Private doubt withheld from its recipient is not the same act as an honestly negotiated disagreement. Their bond includes these different information positions, not a single shared consciousness. [A02:L135/L143; A07:L079/L083/L127–129]",
+          "",
+          "**RR011.** Rumi's treatment of other recipients is a necessary contrary control on any broad claim of relational care. She supplies ingredients, accommodates Kokona's requested title and pursues Shun's confidentiality, yet frightens Kokona with a misleading story. Food is actually delicious in her private sources, while fullness and mercy protests remain unanswered or only partly answered. These cases do not erase care toward Kisaki or Reijo. They prevent turning familiarity and a positive ending into a claim that Rumi necessarily knows what is best for every person. [A06:L059–077/L089; A01:L261–273; A03:L102]",
+          "",
+          "## 4. School and association: different roles in a shared material life",
+          "",
+          "**RR012.** Genbu and Genryumon are connected through work rather than abstract labels alone. Reijo describes dependence alongside resented interference; the investigation can expose Genbu to surveillance and threatened dissolution while Kisaki also refuses premature guilt. Rumi seeks access partly through publicity pressure and minimizes the adult's concern that the approach is forceful. A container is evidence of a container before it is evidence of an institutional culprit. These distinctions keep relational trust from becoming a legal finding and institutional suspicion from making personal affection impossible. [A02:L081/L085–089; A04:L088]",
+          "",
+          "**RR013.** The river plan reveals unequal material obligations. Cooks refuse impossible foresight when members demand elite food without advance notice. Rumi has anticipated accessible seasonal alternatives, and Reijo explains their ingredients while finding them appetizing herself. The latter is a person with a taste as well as an operational messenger. Investment and rest are negotiated under a disputed rule; agreed inspection is achieved, a branch and return are not. The leave granted to some is supported by others' continued duties. The relationship must preserve the allocation instead of treating a happy group image as everyone's shared leisure. [A05:L080/L089–094]",
+          "",
+          "**RR014.** Reijo's private manager repertoire strengthens that recipient argument without replacing it. She solicits logistical help yet retains task ownership, listens to children whose wishes are not merely operational faults, admits earlier fault and resists an auditor whose demands change. Proposed records checks, supplies and sanitary outcomes remain unverified. Her repeated-apology endpoint is locally real; her martial maxim and threat tactics remain criticizable. This independent repertoire explains why it matters that Rumi can appreciate her energy while ignoring a particular objection. Reijo is an agent who makes judgments, not an uncomplicated personification of Genbu labor. [A10:L101–105/L123/L135]",
+          "",
+          "**RR015.** This parent does not own a school-wide governance account or the whole Genbu ensemble. It does own the relational effects of actual roles: one person asks for relief, another arranges it, a third is moved or stays behind; one person can accept today's settlement without sharing another's satisfaction. MAIN's small defense argument adds Rumi recognizing Kisaki and Kisaki's decision/order, with offscreen dispatch reported and evacuation assigned. It supplies an instance of public coordination, not a completed evacuation or proof that ordinary grievances were settled by shared crisis. [A08:L020–024; A02:L143; A04:L114; A05:L093]",
+          "",
+          "## 5. Ordinary life: pleasure and wanted lives have intrinsic standing",
+          "",
+          "**RR016.** The mooncakes are a history of doing something imperfectly together. Burnt paste, undercooked yolk, crushed walnuts and broken molding make the recollection particular. Present eating and shared silence give it an achieved ordinary ending. Neither a later deduction nor competence promotion is needed to justify its analytical place. Rumi's reached vocation and Kisaki's unchosen office stand beside each other because a wanted life is a positive object of interpretation, not merely evidence that someone is fit for a role. [A04:L095–097]",
+          "",
+          "**RR017.** Rest also has multiple legitimate forms. Kisaki can enjoy counting movements unseen, wish to sleep late, finish necessary work efficiently and prefer poetry beside the river before entering it. Rumi can delight in another person's delicious judgment and want time outside her kitchen. Reijo can voluntarily rest, enjoy fictional kung fu, prefer accompanied walking and want to hear a welcome again. These wants do not need to produce a permanent trait change or a crisis solution. Their particularity is the reason a shared activity cannot stand for a universal preference. [A07:L077/L091/L123; A05:L100/L104; A02:L079/L121; A10:L097/L101]",
+          "",
+          "**RR018.** Bodily limits belong inside the positive scenes. Kisaki requests a slower pace and wanted support, while Rumi's teasing practice helps observable local improvement but meets requests for readiness, attention to height and gentler treatment. Rumi's asked-for piggyback is actually received, with appreciation of time normally spent cooking. The comic assembled company collapses under weight and contains the teacher's startled reactions. Actual fun does not certify all-party safety or flatten an expressed bodily limit into mere humor. [A05:L102–104]",
+          "",
+          "**RR019.** Taste similarly can be accepted, refused, feared or unknown. Reijo privately dreads promised prototypes while earlier delicious food remains real; Rumi distinguishes friendly chatting from disruptive noise; her customer-response ideal need not be profit alone. In private tasting, however, a successful dish does not justify continuing after fullness or a failed departure. EVENT826's later permission to leave food if full is a meaningful local allowance. It cannot be backdated to every private meal or prove that every banquet offering was consumed. [A02:L079–081/L135/L145; A01:L263–265]",
+          "",
+          "## 6. Crisis behavior: protection does not dissolve the recipient's agency",
+          "",
+          "**RR020.** Rumi and Reijo contribute different reasoning in826. Reijo warns against premature certainty and still has an inverse conspiracy hypothesis that remains an argument; Rumi develops the exemption hypothesis rather than merely executing a teacher's plan. Capture is achieved with others' contributions, including Saya's independent arrival. Their acknowledgment of secretly involving Kokona survives the effective trap, with apologies to her and Shun still future. A package about the two friends cannot silently treat successful cooperation as proof that their own methods were fully consulted care. [A02:L105–117/L131–135]",
+          "",
+          "**RR021.** In840 Reijo's functioning information network and shelter protect Kisaki, Mina and Rumi. Her recognition of the strategic debt makes the act mixed in motive, not counterfeit. She can argue for the balance supplied by an institution she dislikes. Rumi's separation of the teacher and Kisaki gives privacy but pushes Reijo despite her objection; the supposed beneficiary's space and the displaced person's refusal belong to the same event. Kisaki's actual wanted comfort does not settle Rumi's own wish for it, nor convert Reijo's resistance into acceptance. [A04:L109/L114–116]",
+          "",
+          "**RR022.** Crisis has bodily and institutional tails after local victories.840 narrates incident closure and achieves festivities, with individual assays, transport, clinical recovery and reeducation effectiveness unprinted.859 achieves defense and actual fireworks, while retaliation, returned factional antagonism, Kanae's collapse and children outside instructions remain. Reijo's increased sales coexist with increased personnel burden and safety work. These endings are material to relations: the worker's life continues after the celebration, and the giver cannot be inferred to have repaired every cost through one kind moment. [A04:L126–130; A05:L131–144]",
+          "",
+          "## 7. Sensei relationship: facilitator and recipient among other agents",
+          "",
+          "**RR023.** The teacher helps mediate the river plan and actual company, but does not supply the whole relational meaning. Rumi anticipates seasonal difficulty and proposes nature/rest with commercial initiative; Reijo provides work and analysis; Kisaki asks for her preferred pace, hand, name and time. The adult cannot promise several weekly visits, and a Schale branch remains half-joking proposal. Kisaki's frequent desire does not establish unlimited availability. Neither Rumi's generous welcome nor the adult's status makes an independent peer's objecting answer irrelevant. [A05:L080–104]",
+          "",
+          "**RR024.** Private sources expose different teacher-recipient constraints: Rumi offers visits at convenient times but can continue tasting despite fullness; Reijo can solicit help while retaining ownership and explicitly want to receive protection once. The adult's hesitation and Valkyrie's settling of the external conflict prevent both a romance verdict and a universal adult-rescue account. Kisaki's teacher-directed care and pressure have their own repertoire, including a reported sleeping-face photograph and a secret image-reference message whose pixels are unreceived. These are comparisons, not evidence that she and Rumi have agreed the same privacy norms. [A01:L195/L213/L265/L271; A10:L101/L109]",
+          "",
+          "**RR025.** The anniversary tea encounter provides another bounded comparison. Kisaki articulates tea as pleasure with a friend, anticipates a taste and stages a rebuke expressly called a joke. Undisclosed club-assisted addition and the adult's surprise nevertheless remain. The current small normal meaning and current comparison support sensory company, subjective relaxation and non-disclosure; they do not certify a therapeutic mechanism or every added substance. The historical individual source hash remains historical against current routing. Neither entirely harmless nor inherently coercive hospitality can be inferred for all of her relationships from this gift. [A09:L024–044; A11:L032/L099–102]",
+          "",
+          "## 8. Major directed relationships: two full mandatory arguments",
+          "",
+          "### P3-REL-KISAKI-RUMI — affection between chosen craft and an unchosen office",
+          "",
+          "**RR026.** The relationship begins analytically with two different answers to what a life should contain. Rumi values culinary effort, discovered tastes and customers' reactions and wishes to cook without other concerns. Kisaki's unfinished alternative future with Rumi and her partly disavowed detachment from office do not amount to resignation.840 makes the contrast explicit: Rumi has approached wanted cooking, whereas Kisaki never chose headship. Their shared mooncakes are evidence of attachment to particular work and a remembered company, not proof that both secretly want the same occupation. [A02:L121–125; A04:L095–097]",
+          "",
+          "**RR027.** Rumi recognizes Kisaki through disguise, brings surplus mooncakes to children and shares the actual eating/silence. Recognition matters because the office image is fallible elsewhere: Kisaki wants to be called by her ordinary name and can perform Kiki without becoming another person. Rumi's knowing her here is concrete and relational. It cannot be expanded to perfect knowledge of her condition, all covert outings or every desire. Kisaki's bodily account and the medical claims remain source-local testimony, not facts certified by a familiar companion. [A04:L091/L095–097; A01:L185/L217–239; A05:L082/L098]",
+          "",
+          "**RR028.** Kisaki's official apology in826 is an achieved speech act that responds to unsupported accusation, reputational harm, confusion and failed oversight. Rumi accepts a banquet with physical feasibility and remuneration conditions, recognizes structural constraints and values comfortable returning customers. This is a negotiated local answer with commercial and relational content. It does not abolish surveillance, show paid expenses, finish apologies to other recipients or demonstrate no recurrence. Rumi's goodwill can coexist with business harm. The actual banquet and Kisaki's relaxed eating deserve their full positive standing without being renamed a repaired institution. [A02:L141–149; A04:L097]",
+          "",
+          "**RR029.** At that banquet Rumi's sister-like framing receives an explicit no. A purely familial interpretation might appeal to familiarity, food and shared history, but it cannot make the negative answer disappear. A purely distant political interpretation misses the specificity of remembered failure, relaxation and anticipated care. The strongest formulation is affectionate familiarity whose proposed role remains contested. There is no basis to install kinship, mutually agreed sisterhood or an automatic expectation that one will accept the other's manner of tending her. [A02:L147; A04:L095–097]",
+          "",
+          "**RR030.** Seasonal food and the holiday plan make attention operational without reducing it to utility. Rumi and Reijo explain the material limits of elite food demands while Rumi has already prepared accessible alternatives; the cooks insist they are not fortune-tellers. Rumi considers relief of mind/body as well as cooking, and an externally invested gorge can provide that wanted rest. The commercial interest does not invalidate the personal aim; neither supplies permission for every means. Kisaki actually identifies members' concern as compatible with bad action, while the negotiated inspection grants a specific opportunity. Future branch, investment return and universal assent remain unprinted. [A05:L080–093]",
+          "",
+          "**RR031.** During the river outing Kisaki first finds contemplation sufficient, then requests hand support and a slower pace, corrects her initial reassurance and asks for a piggyback. The adult meets those requests. Rumi's pursuit then helps local practice improve, yet Kisaki's readiness/height/gentleness requests preserve a contrary recipient side. Rumi's own request for a piggyback is also actually fulfilled. The pair can share fun without sharing identical bodies or wants. Actual improvement is therefore a local achieved good, not evidence that teasing was wholly wanted or that Kisaki has been medically cured. [A05:L100–104/L142]",
+          "",
+          "**RR032.** Their relational ending remains open in a precise way. In840 affection and effort survive lost sales; in859 Rumi recognizes Genry cooperation while explicitly saying faction relations are still bad. Actual holiday pleasure does not finish school work, and the return brings fresh disorder. A robust bond can inhabit this unfinished structure rather than resolve it. The named argument is about care that can hear a person outside office yet still pressure her in particular moments; it preserves food, ordinary company, actual refusal and finite achieved rest together. It does not discharge the independent school/Genbu institutional or ensemble homes. [A04:L097/L128–130; A05:L140–144]",
+          "",
+          "### P3-REL-REIJO-RUMI — cherished energy, practical partnership and answers that remain dissent",
+          "",
+          "**RR033.** Reijo is Rumi's assistant and a manager/guard in the positively joined10104 family, but she has ends beyond assistance. She voluntarily rests, enjoys martial fiction, values accompanied walking and wishes to receive protection at least once. These are adequate private normal meanings at their own exact scope, not a fresh reading of ten primary objects. They establish why affection cannot be measured by how tirelessly she serves. A relationship that values her only as energetic labor would omit the person whose taste and answer make cooperation meaningful. [A10:L078/L097–109]",
+          "",
+          "**RR034.** EVENT826 introduces the レイちゃん nickname with hesitation and an objection when Rumi wants to repeat it. Rumi's familiar gesture may express warmth; the recipient does not therefore lose the right to reject its form. The same opening shows admired food, stomach capacity and continued encouragement, followed by permission to leave food when full. Reijo's later dread of promised prototypes is not reconciled by an earlier delicious dish or by Saya's banquet pleasure. Different recipients can give different answers to the same generous cook. [A02:L079/L135/L147]",
+          "",
+          "**RR035.** In GROUP3401 Reijo sees Kisaki's exercise through kung-fu enthusiasm, criticizes Genryumon while exempting Kisaki and seeks a wider craft company. Rumi privately doubts the interpretation but withholds correction from the delighted reporter, values her energy and contemplates snacks if it is true. This is a real affectionate act with an information cost. It is not proof Rumi endorses the rumor, delivers the snack or causes every later escalation. Nor is Reijo's wish childish filler to discard: its positive value explains why failing to check the purpose matters to this particular bond. [A07:L079–087/L125–129]",
+          "",
+          "**RR036.** The later exercise restores each holder's purpose imperfectly. Kisaki says it is neither specialized art, the children become frightened, disputants apologize, Rumi intervenes and Kisaki apologizes for protective loudness. Shared exercise actually begins after those objections and repairs; no ended rivalry or verified attendance growth follows. The consequential3403u0108 intervention has canonical Kisaki/raw Rumi discrepancy in the received normal argument. Here its Rumi contextual-function claim remains qualified rather than silently rekeyed. Tolerating Reijo's enthusiasm can support company while still requiring correction when its projection presses someone else's wanted morning. [A07:L105–119/L151–162]",
+          "",
+          "**RR037.** Practical partnership has its own achieved and unachieved ends. Reijo warns against premature guilt, participates in inquiry and later insists a deferred apology is insufficient. Rumi develops the exemption hypothesis and negotiates a settlement. Reijo remains unsatisfied but respects her decision for today. That is limited deference with expressed dissent, not capitulation, identical satisfaction or an indefinitely surrendered right to criticize. Both can be effective collaborators while their judgments about institutional answerability remain different. [A02:L105–109/L135/L141–143]",
+          "",
+          "**RR038.** In840 Rumi acknowledges Reijo's preparation/security labor. Reijo later supplies network and refuge, values the strategic debt and argues for institutional balance. These actions have positive relational substance even where motives are mixed. Rumi then creates private space for Kisaki and the adult by pushing Reijo despite her objection. The displaced person's no cannot be paid away by the privacy's good intention or her earlier useful care. The argument therefore retains collaboration, appreciation and an actual recipient limit within one relationship rather than treating adverse conduct as proof that affection is false. [A04:L086/L109/L114–116]",
+          "",
+          "**RR039.** The river arrangement makes the cost of partnership visible without printing a voluntary agreement by every worker. Rumi travels and Reijo stays as Genbu proxy; Kanae's broader imposed duties show a parallel but distinct cost. Reijo's earlier work, her private rest wish and the specific stay-behind assignment warrant an asymmetry claim at their own scopes, not an inference that Rumi personally coerced every assignment or that Reijo never has leisure.840 already supplies Reijo's fireworks pleasure, increased sales and continued staff burden. These goods and costs remain differentiated rather than one final image of equally happy company. [A05:L093–094/L144; A04:L128–130; A10:L097]",
+          "",
+          "**RR040.** The directed bond is thus strongest as practical affection with an independent recipient. Rumi can cherish Reijo's martial energy, rely on her work and accept her respect; she can also fail to correct, repeat unwanted familiarity or impose an unwanted movement. Reijo can do useful work and give a limited answer, admire a criticizable head and want care herself. Their finite endings include acknowledgment, shelter, negotiated respect and started exercise; they do not include completed account repairs, blanket consent, permanent cessation of disagreement or all-restored institutional trust. This is a distinct substantial direction inside the parent, not a second character portrait or the same question as Kisaki–Rumi. [A02:L143; A04:L109/L114; A07:L083/L119; A10:L101–113]",
+          "",
+          "## 9. Language and written voice: address, silence and source carriers",
+          "",
+          "**RR041.** Address can offer a relationship or resist its terms. Kisaki's 門主 office title, her ordinary name request and written archaizing 妾/其方/じゃ repertoire do not determine what Rumi may call their bond. The refused sister framing and Reijo's レイちゃん objection are explicit recipient responses with more force than an analyst's inference that the tone must be affectionate. Kokona's actually accommodated 教官 request offers a nearby case of Rumi changing the form of address, but no such universal correction outcome is printed for every other boundary. [A01:L217/L235; A02:L079/L147/L167; A06:L059; A09:L036]",
+          "",
+          "**RR042.** Silence also needs ownership. Rumi's withheld correction is her private thought, not a disclosure Reijo has heard. Reijo's prototype dread is inward and does not establish that Rumi knows it. Kisaki's claimed knowledge, regret, reported condition and public statements occupy different audiences. Event826's numerous label drifts,840's 子供/キキ context and859's switched labels limit exact personal voice; complete normal meanings support contextual actions while particular tag ownership stays qualified. No source carrier is corrected by expected personality or merged from a matching generic office. [A02:L089/L099/L109/L135/L147; A04:L133; A05:L149; A10:L123–127]",
+          "",
+          "**RR043.** Written private profiles, costume repeats, invitations and MomoTalk endings retain their modes and conditions. Reijo's repeated840/10840 tickling-stop cluster is not two independent enacted refusals; its last request lacks a printed adult response, and laughter does not erase it. Rumi's craft Special is represented actorless timed text, not heard delivery. Kisaki's conditional remembered-photo messages do not admit pixels. Performance, animation, actual selected game branches and alternative adult replies are not received by this synthesis. Text is adequate for the present claims without pretending these absent channels were inspected. [A10:L087–089/L113/L125–127; A01:L213/L271–273]",
+          "",
+          "## 10. Competing readings: substantial alternatives and the endings that decide their reach",
+          "",
+          "**RR044.** **A settled family bond.** Shared food, intimate failure and care make this attractive, but Kisaki's explicit refusal blocks agreed sisterhood. Keeping that refusal does not abolish affection: the actual banquet relaxation and mooncake silence positively support familiarity. The appropriate revision is a contested familial offer inside an affectionate relationship, with no kinship installation. [A02:L147; A04:L095–097]",
+          "",
+          "**RR045.** **Everything is commercial strategy.** Investment, negotiated remuneration and strategic debt are real and cannot be hidden. The reading nevertheless cannot explain away Kisaki's wished-for life, Rumi's enjoyment of customers' delight, Reijo's wanted martial company or achieved time out of the kitchen. Mixed motives permit genuine goods; they require recipient and labor constraints, not a presumption that ordinary pleasure is false unless disinterested. [A02:L079/L121/L143; A04:L109; A05:L089–104]",
+          "",
+          "**RR046.** **A universally caring chair whose recipients need only understand.** Actual delicious food, practical provision and acknowledgment support care. Continuing tasting beyond fullness, refused nickname/family form, fear-based secrecy and pushing meet a different standard: the recipient has already supplied an answer. A positive ending is not a correction of those earlier acts.826's permission to leave food is a local improvement in the meal's terms, not proof of a globally transformed Rumi or a chronologically later ethical reform. [A01:L263–269; A02:L079/L147; A04:L114; A06:L065–089]",
+          "",
+          "**RR047.** **Reijo merely supplies comic energy and obedience.** The projected kung-fu purpose and film pleasure support comedy, while actual reasoning, qualified institutional critique, meaningful work and continuing objections defeat the word merely. Her own wish to receive protection and her listening to children have intrinsic force. Respecting Rumi's settlement for today is a finite choice, not an absence of judgment. This reading is revised toward a capable, fallible and desirous recipient whose commitment can contain dissent. [A07:L079–087; A02:L105/L143; A10:L097–109]",
+          "",
+          "**RR048.** **The holiday cures the head and repairs the association.** Achieved play, local skill improvement and requested piggybacks are strong positives. Kisaki's medicine-timing explanation is attributed, local vitality takes time, and the return prints collapse, antagonism and new work. Changed practice is not a clinical cure; joint defense is not monetary return or settled policy. The holiday is an achieved finite good in an unfinished structure. [A05:L102–104/L140–144/L162]",
+          "",
+          "**RR049.** **The teacher produces all reciprocity.** Facilitation, advice and support are real. Rumi's independent exemption hypothesis, Reijo's inquiry/shelter/judgment, Kisaki's choices and the merchants' actual assent prevent sole authorship. The teacher can also pressure food endurance, speak through constrained inward/choice modes or have finite time. A directed peer relationship cannot be reduced to a successful adult mediation account, and not every good occurs because an adult made it morally acceptable. [A02:L109/L117/L153; A03:L102/L146; A04:L109; A05:L129; A10:L125]",
+          "",
+          "**RR050.** **Mixed or adverse conduct makes every good counterfeit.** An actual apology, delivered refuge, shared meal and enjoyed company remain actual goods even with unprinted expense payment, strategic calculation or earlier pressure. The alternative rightly requires answerability and recipient preservation, but overreaches if it erases these endings because the people are imperfect. The synthesis instead keeps achieved acts and unprinted restitution apart, refusing both absolution and total negation. [A02:L141–149; A04:L109/L128–130; A05:L140–144]",
+          "",
+          "**RR051.** **A coherent progression into mutual consent.** Source-relative sequences support local changes; they do not order all private/GROUP/event objects. The repeated written conditions and private ordinary repertoire supply context, not a universal school calendar. Even inside a linked sequence, an acknowledged objection need not be repaired by the next pleasure. The relation remains evidence-rich without a tidy linear cure or consent story. [A01:L345/L375; A04:L133; A05:L147; A10:L087–089/L153]",
+          "",
+          "## 11. Evidence route, fourteen original OPEN limits and the finite boundary",
+          "",
+          "**RR052.** The argument owns this existing directed parent and both full named directions, while individual Kisaki/Rumi/Reijo characters, Genbu/Shanhaijing institutions and relevant ensembles remain separate. Eighteen planned inputs and the two necessary normal supplements are exactly bound to their declared source snapshot or frozen C secondary tuples. Current Cycle008 governs admission over producers' historical queue labels. Fresh personal receiving is analytical-meaning receiving at specified scopes, not the original contributors' primary inspection, all560 shared-account custody, whole Final, performed voice, raw QA, independence or a model test. The source/claim receipts disclose bounded source spans, recovered output clipping, secondary peer-only reading and every ending/rival. [C01/C02/C04–C07; A01:L144–169; A10:L149–153]",
+          "",
+          "| Original gap | Status | Actual effect on this argument |",
+          "|---|---|---|",
+          "| G01 Ordinary and private breadth | OPEN | Adequate Kisaki/Rumi/Reijo private meanings add meals, rest, craft, wanted protection and ordinary company; this parent is not all-person or all-school coverage. |",
+          "| G02 Yuuka council/club decision transfer | OPEN | Genbu arrangements and Kisaki's judgments are not evidence of Yuuka's arbitrary-state transfer; the duty remains independently bounded. |",
+          "| G03 Serika service, peer and reciprocity range | OPEN | Rumi's recipient limits and Reijo's work are comparisons, not a new Serika private persona or universal service rule. |",
+          "| G04 Hina crisis causality, accountability and ordinary contrast | OPEN | Local apology and protection here do not fill Hina's coercion, redress or institutional aftermath. |",
+          "| G05 Arius and PS68 ordinary/aftermath transfer | OPEN | These meals and holiday ends do not date or discharge other cohorts' ordinary or repair questions. |",
+          "| G06 Cross-school ordinary repertoire | OPEN | Guests, merchants and children retain their distinct wants; no uniform school hospitality norm or complete regional census follows. |",
+          "| G07 Story-world chronology | OPEN | Local826,839→840 and859 relations are retained; bond ranks, numeric events and release contexts do not establish a universal relationship progression. |",
+          "| G08 Event naming and repeat contexts | OPEN | Stable826/839/840/859/80000 IDs are used; no overarching title is invented, and repeated840/10840 written modes are not duplicate independent episodes. |",
+          "| G09 Written speaker/choice attribution | OPEN | Reijo/Rumi swaps, GROUP3403u0108, child/disguise labels, inward thoughts and adult alternatives retain qualified ownership and audience. |",
+          "| G10 Performed voice | OPEN | All voice/register claims are written Japanese; no acoustic delivery, pixels, animation or enacted branch is inspected. |",
+          "| G11 Hoshino's Yume record and office states | OPEN | Kisaki's unchosen office and remembered mooncakes are not provenance or state-transfer evidence for Hoshino/Yume records. |",
+          "| G12 Counterpart, system and variant identity | OPEN | CH0139/CH0135/REIZYO joins are retained; Kiki/子供 are source-context labels, local roles stay local, and unjoined Kaguya/Kanae are not manufactured private biographies. |",
+          "| G13 Office, contract, safety and technical outcomes | OPEN | Remuneration remains promised, closure is local, clinical effects unverified, and supplies/accounts/branch/transport/reeducation/full restitution remain unprinted. |",
+          "| G14 Unclassified/mode continuity | OPEN | Event, preview, profile, repeated UI, timed Special and whole-message meanings retain their modes; they do not prove an unreceived MINI/special/unclassified continuity. |",
+          "",
+          "**RR053.** The terminal position is substantive and finite: each named direction now has a connected positive thesis, contrary recipient argument and differentiated achieved ending, alongside the common eleven dimensions. No heading, allocation, tuple check or self-report here grants ROOT acceptance, named-duty completion, canonical installation, new source/model credit or a milestone. ROOT must independently receive the whole saved argument and exact receipts. The wider scope stays355 required packages and29 mandatory duties across25 distinct parents; older historical counts remain historical. Every earlier frozen artifact is preserved. [C05–C07]",
+          ""
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          167,
+          167
+        ],
+        "canonical_lines": [
+          179,
+          179
+        ],
+        "original_lines_complete_text": [
+          "Author input scopes and exact tuples: [source receipt](RUMI_RELATIONSHIP_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json). Saved paragraph, named-duty, endpoint and rival routes: [claim register](RUMI_RELATIONSHIP_CLAIM_AND_ENDPOINT_REGISTER_V1.json)."
+        ],
+        "canonical_lines_complete_text": [
+          "Author input scopes and exact tuples: [source receipt](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_INPUT_AND_RECEIVING_RECEIPT_V1.json). Saved paragraph, named-duty, endpoint and rival routes: [claim register](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_INPUT_AND_RECEIVING_RECEIPT_V1.json)."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "all_frozen_original_transports": [
+    {
+      "path": "RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 39201,
+      "sha256": "e820d6000b89e7bbde9ec77fc139cafa372fdcdb09f528635aec5f8c37c05ee5",
+      "git_blob_oid_of_actual_bytes": "10bdd6c03fc03af10f473901eb05a7c9e767b3e3",
+      "immutable_transport_path": "immutable_originals/RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md"
+    },
+    {
+      "path": "RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/RUMI_RELATIONSHIP_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 37630,
+      "sha256": "cfca2957b2baac8aefbbc3934e78152ebc6e28ba146cab83d61997e7045d60fd",
+      "git_blob_oid_of_actual_bytes": "f42698aa02b752aa157cfa9930f74637d2158073",
+      "immutable_transport_path": "immutable_originals/RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/RUMI_RELATIONSHIP_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/RUMI_RELATIONSHIP_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 18485,
+      "sha256": "7354f82a16a9a8f907c29773131d28ce6bbf08b084d676c851faf2b44268cf78",
+      "git_blob_oid_of_actual_bytes": "d17c021511c2b97565815e9e5546d0b8f7ada9fd",
+      "immutable_transport_path": "immutable_originals/RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/RUMI_RELATIONSHIP_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+    },
+    {
+      "path": "ROOT_RUMI_DIRECTED_PARENT_AND_TWO_NAMED_DUTIES_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 6497,
+      "sha256": "5574324b27388de6d63d79426ced36b5acc234310134f3dbb24298efa3279ce7",
+      "git_blob_oid_of_actual_bytes": "8a1c84a2ba3802cc0f24b5bf8eeb860eb4620610",
+      "immutable_transport_path": "immutable_originals/ROOT_RUMI_DIRECTED_PARENT_AND_TWO_NAMED_DUTIES_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/RUMI_RELATIONSHIP_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 126581,
+      "sha256": "e2028ed112dbf34e2f621f46690f43830f7d2817710fdf34372ffeccb1a11bdb",
+      "git_blob_oid_of_actual_bytes": "5c7fc412814fe8d1fcdf299dbe5c760977040b58",
+      "immutable_transport_path": "immutable_originals/RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/RUMI_RELATIONSHIP_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/RUMI_RELATIONSHIP_FINITE_EXACT_SOURCE_PLAN_V1.json",
+      "bytes": 22333,
+      "sha256": "25565407afc05fada8aea33635317703f89ab7ed59a5a15c88a6e8702a2bad4e",
+      "git_blob_oid_of_actual_bytes": "cbeeffe94f5eaa1fef4450fdb65e20f6ff6ffed0",
+      "immutable_transport_path": "immutable_originals/RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/RUMI_RELATIONSHIP_FINITE_EXACT_SOURCE_PLAN_V1.json"
+    },
+    {
+      "path": "RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/RUMI_RELATIONSHIP_FINITE_SOURCE_PLAN_V1.md",
+      "bytes": 2604,
+      "sha256": "2e68c8f644cda1e23a675545b759756138646688b703e167d11a969adfea062e",
+      "git_blob_oid_of_actual_bytes": "4653b0e5cd56f81aca70a0e5c64d0cb8a78f2889",
+      "immutable_transport_path": "immutable_originals/RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/RUMI_RELATIONSHIP_FINITE_SOURCE_PLAN_V1.md"
+    },
+    {
+      "path": "RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/RUMI_RELATIONSHIP_NECESSARY_RECIPIENT_PLAN_SUPPLEMENT_V1.json",
+      "bytes": 2187,
+      "sha256": "125d1fb2c0a98841dfd65c7ee5b1c7c7b5c8dec3745e158c263337f5fcbdd952",
+      "git_blob_oid_of_actual_bytes": "a1d230cae0dbefe1efbcbdb8e86b208c1fbedc23",
+      "immutable_transport_path": "immutable_originals/RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/RUMI_RELATIONSHIP_NECESSARY_RECIPIENT_PLAN_SUPPLEMENT_V1.json"
+    },
+    {
+      "path": "RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/RUMI_RELATIONSHIP_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 2411,
+      "sha256": "394c4112ce2c0bcfde1a184735e3288a2c49bd547c15ffb7a6c28b360f59c9b7",
+      "git_blob_oid_of_actual_bytes": "2c31b96c27cb90b8b735273eecc4b64d326f85e1",
+      "immutable_transport_path": "immutable_originals/RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS/RUMI_RELATIONSHIP_SAVED_OUTPUT_RECEIPT_V1.json"
+    }
+  ],
+  "canonical_link_translations": [
+    {
+      "candidate_relative_href": "RUMI_RELATIONSHIP_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "repository_relative_target": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "operative_canonical_relative_href": "../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "occurrences": 1,
+      "qualification": "Whole frozen source/register survives inside input wrapper, no transferred source receiving."
+    },
+    {
+      "candidate_relative_href": "RUMI_RELATIONSHIP_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "repository_relative_target": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "operative_canonical_relative_href": "../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "occurrences": 1,
+      "qualification": "Whole frozen source/register survives inside input wrapper, no transferred source receiving."
+    }
+  ],
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/complete_original_to_canonical_inverse/canonical_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "1a9846f464c7d2d8b67d3fc199a313710e00adeb137338bd7e0bbc2778456da8",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 41996,
+        "sha256": "1a9846f464c7d2d8b67d3fc199a313710e00adeb137338bd7e0bbc2778456da8"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 42046,
+        "sha256": "376edb5e0b438d6d947530324de997b06f8aa9dcb5ea0fc5fe0d0a4f9fae9083"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/9/canonical_lines_complete_text/1",
+      "retained_value_utf8_sha256": "7f4a229373051295599ef1bb9c55d95a0ac37bb9eb378d34c53387eee6c10fd4",
+      "finding_ids": [
+        "P30-P3-REL-SHANHAIJING-RUMI-DIFFERENT-DIRECTIONS-ROOT_RUMI_TWO_LINE_HASH_KIND_PRECISION_NINE_FIELDS_FULL_INVERSE_OWN_VERIFICATION_V1-125",
+        "P30-P3-REL-SHANHAIJING-RUMI-DIFFERENT-DIRECTIONS-L28"
+      ]
+    },
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/10/exact_unchanged_lines/63",
+      "retained_value_utf8_sha256": "9332e7f47820433c86b20a88187115417e29fc942f5f59e0a3bddfebe44f2b4d",
+      "finding_ids": [
+        "P30-P3-REL-SHANHAIJING-RUMI-DIFFERENT-DIRECTIONS-ROOT_RUMI_TWO_LINE_HASH_KIND_PRECISION_NINE_FIELDS_FULL_INVERSE_OWN_VERIFICATION_V1-125",
+        "P30-P3-REL-SHANHAIJING-RUMI-DIFFERENT-DIRECTIONS-L92"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 42046,
+      "sha256": "376edb5e0b438d6d947530324de997b06f8aa9dcb5ea0fc5fe0d0a4f9fae9083",
+      "lines": 179,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 42046,
+        "sha256": "376edb5e0b438d6d947530324de997b06f8aa9dcb5ea0fc5fe0d0a4f9fae9083"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 42046,
+        "sha256": "376edb5e0b438d6d947530324de997b06f8aa9dcb5ea0fc5fe0d0a4f9fae9083"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
+}

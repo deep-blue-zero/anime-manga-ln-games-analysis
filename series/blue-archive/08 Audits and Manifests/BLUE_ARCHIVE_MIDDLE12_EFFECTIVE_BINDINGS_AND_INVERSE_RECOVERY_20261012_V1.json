@@ -1,0 +1,263 @@
+{
+  "schema": "ROOT_COMPOSED_CURRENT_RECOVERY_ROUTE_WITH_EXACT_CONDITIONAL_MODULE_HISTORY_V1",
+  "conditional_precomposition_module": {
+    "schema": "blue-archive/middle12-effective-binding-and-inverse-recovery-index/v1",
+    "dated": "2026-10-12",
+    "current_register": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDDLE12_CURRENT_CONTEXT_AND_PRECISE_CORRECTIONS_20261012_V1.json",
+      "bytes": 64201,
+      "sha256": "5cac78745af8d2e6a177b1ba5ab87f768c5a0ca0102b3aca8b67c3b8fbb4e6e5"
+    },
+    "body_inverse_module": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDDLE12_FIVE_LINE_BODY_DIFFERENTIAL_INVERSES_20261012_V1.json",
+      "bytes": 11938,
+      "sha256": "2c0268374b1e30b2fa0577d77b3ecb274437a92964db108a4cdbdc077becde03"
+    },
+    "body_recovery": [
+      {
+        "package": "P3-CHAR-AKO",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKO_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 68473,
+          "sha256": "9b61b4a2a7b406a188141fed0ac4f9e9b7cfa11596e3b51ee625502d8ebd85d7",
+          "lines": 286
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKO_CHARACTER_MONOGRAPH.md",
+          "bytes": 68628,
+          "sha256": "f338d863306d27fc89aae9cabe886f29d859d1bf41d9902ae233d046bb66a84b",
+          "lines": 286
+        },
+        "differential_inverse_pointer": "/body_revisions/0/exact_differential_inverse"
+      },
+      {
+        "package": "P3-CHAR-CHINATSU",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHINATSU_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 72401,
+          "sha256": "59e7ae8fcaf77788952e9d231a37c7df1f528b46cab2911c0d9052d7718c751c",
+          "lines": 323
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHINATSU_CHARACTER_MONOGRAPH.md",
+          "bytes": 72396,
+          "sha256": "78474415c76256c9d499410c0aa65dbd423714a2523b89f20a4e0b03747d81e9",
+          "lines": 323
+        },
+        "differential_inverse_pointer": "/body_revisions/1/exact_differential_inverse"
+      },
+      {
+        "package": "P3-CHAR-MINA",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 42150,
+          "sha256": "743004645d8ec0d114c4eae1dd046d8ded9a7c8c6bf9142d5bd313edbe321684",
+          "lines": 186
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+          "bytes": 42140,
+          "sha256": "8960dae37de7c6b75f637812addbe42b709f642002cf95fcbf35548376511db3",
+          "lines": 186
+        },
+        "differential_inverse_pointer": "/body_revisions/2/exact_differential_inverse"
+      }
+    ],
+    "modular_wrapper_current_bindings": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AKO_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "prior_beforeimage": {
+          "bytes": 450906,
+          "sha256": "15f3a3c414cac0eb0b192090d7c0fb83f7842282c927db00f793cddc0b33300d"
+        },
+        "modular_effective_afterimage": {
+          "bytes": 453131,
+          "sha256": "41051e1a41ce0b8bc68b5b8fcf01442e9dcfe2719d3a94479f4198895ba2bbc5"
+        },
+        "additive_top_field": "middle12_source_consistency_current_qualification_20261012_v1",
+        "insertion_offset": 450904,
+        "insertion_utf8_bytes": 2225,
+        "insertion_utf8_sha256": "b8294b362ac58247461c778913370e419309b23cdbc818b43da14de19b567ab8"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AKO_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "prior_beforeimage": {
+          "bytes": 123112,
+          "sha256": "7346d73a67d702bf15f5ad0400b1d8637b94c116813c4d8bddd230434857f363"
+        },
+        "modular_effective_afterimage": {
+          "bytes": 125396,
+          "sha256": "ef014b02ae08c76e216305103de90cbc7cb550208ea854322507f5cc866acd3f"
+        },
+        "additive_top_field": "middle12_source_consistency_current_qualification_20261012_v1",
+        "insertion_offset": 123110,
+        "insertion_utf8_bytes": 2284,
+        "insertion_utf8_sha256": "7a86be99c92d5c9666082a95dfe0982e765d5f3c9e4e5086449a5c9de255e01b"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CHINATSU_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "prior_beforeimage": {
+          "bytes": 585060,
+          "sha256": "147c93a7ce8c0bbad54f57da9aaf458e09297c3101b90ba87664c03019745d14"
+        },
+        "modular_effective_afterimage": {
+          "bytes": 586649,
+          "sha256": "743b0f9ba07d99ef299c79e705f2adb68781dba3bbd46270067a518fa68675d3"
+        },
+        "additive_top_field": "middle12_source_consistency_current_qualification_20261012_v1",
+        "insertion_offset": 585058,
+        "insertion_utf8_bytes": 1589,
+        "insertion_utf8_sha256": "d4bba8e82567fbb939c55d31ca5b6387f80a3a135a61a9823bc6377e04917af5"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CHINATSU_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "prior_beforeimage": {
+          "bytes": 135442,
+          "sha256": "7342de9a6e2abdd450858db12ff9703657d54cf6fbd96140b92c30089165afb6"
+        },
+        "modular_effective_afterimage": {
+          "bytes": 137202,
+          "sha256": "c07a96fb68cde0db3dc068c61889daea42d355be96e53872804ce7e574a9d383"
+        },
+        "additive_top_field": "middle12_source_consistency_current_qualification_20261012_v1",
+        "insertion_offset": 135440,
+        "insertion_utf8_bytes": 1760,
+        "insertion_utf8_sha256": "33d900fb21bebd62e3c9ca7a654857b9622a9561e8b01a1aa94fa30612990daa"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "prior_beforeimage": {
+          "bytes": 218229,
+          "sha256": "87e54b3ff5a6b20228382d6538e8177682e7ed3bd3f462bc2d63b16fd142002d"
+        },
+        "modular_effective_afterimage": {
+          "bytes": 220004,
+          "sha256": "2e444eb2c4c1ea6ddc3c79d5221504e78dd7266b7fccbb08863c485bff909091"
+        },
+        "additive_top_field": "middle12_source_consistency_current_qualification_20261012_v1",
+        "insertion_offset": 218227,
+        "insertion_utf8_bytes": 1775,
+        "insertion_utf8_sha256": "1d4b4cd088bd99198fa06391ba38cbba633019fb9695c6d3fa02c2d66ebad8d1"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "prior_beforeimage": {
+          "bytes": 49819,
+          "sha256": "616f7a5ec8fe4d0fb49f6a7791e5a286aa8fa2b1625d66d16e5fc7b9f7f41afb"
+        },
+        "modular_effective_afterimage": {
+          "bytes": 51637,
+          "sha256": "5c08dd27f50e495fd0fd4406f148f1ffe2c00f28a45e50be4be3789b7333a448"
+        },
+        "additive_top_field": "middle12_source_consistency_current_qualification_20261012_v1",
+        "insertion_offset": 49817,
+        "insertion_utf8_bytes": 1818,
+        "insertion_utf8_sha256": "1a5d1b249b0e8cf446fc47deb17c55871a689c8785f9b4182aff0825450213e0"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AKO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "prior_beforeimage": {
+          "bytes": 7011,
+          "sha256": "bf4cccdd3541839360a4ed3bf5edac9cdba3d6107588f9221c0340ce0030909b"
+        },
+        "modular_effective_afterimage": {
+          "bytes": 8487,
+          "sha256": "2f6b17bdb9cfce0ca7cf2e196d4b474d65eed536e2d113013a8c6fe1236afa5a"
+        },
+        "additive_top_field": "middle12_source_consistency_current_qualification_20261012_v1",
+        "insertion_offset": 7009,
+        "insertion_utf8_bytes": 1476,
+        "insertion_utf8_sha256": "a0a0ed01cffc0b97361e4d996b813733c61d26235ee349024068a63448b20bd7"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_AKO_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+        "prior_beforeimage": {
+          "bytes": 173586,
+          "sha256": "e50f1810b7d020b4777283d9e26804fe9e62aca12c4462e78ee7848344b41d45"
+        },
+        "modular_effective_afterimage": {
+          "bytes": 176680,
+          "sha256": "2581383e2c7fbd097e9386e9ce85b34c7643b6c3de100582f4c2c5d60a2d7926"
+        },
+        "additive_top_field": "middle12_source_consistency_current_qualification_20261012_v1",
+        "insertion_offset": 173584,
+        "insertion_utf8_bytes": 3094,
+        "insertion_utf8_sha256": "a8b50220d600d9aee8cf8867f14273fcfa21e071fa2398bd52cb82b71baa7678"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_AKO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "prior_beforeimage": {
+          "bytes": 247958,
+          "sha256": "2ad078d74ca955c905d8dbc5bb8ecd60cf4b57dc91e037b7e5bf97127a256854"
+        },
+        "modular_effective_afterimage": {
+          "bytes": 250101,
+          "sha256": "4c03138f5bb94fd439c083cbc89ba8f5d5f4f69c9fd2bf83e427ea480924352b"
+        },
+        "additive_top_field": "middle12_source_consistency_current_qualification_20261012_v1",
+        "insertion_offset": 247956,
+        "insertion_utf8_bytes": 2143,
+        "insertion_utf8_sha256": "131e3c9bd52ddc19b3502ebf39d2fc6a58fd9384eb6408e1b5a61680d2feaacc"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CHINATSU_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "prior_beforeimage": {
+          "bytes": 98176,
+          "sha256": "14f554fe05854173d78663da95fc62a9d5830d955b0336ae4f3351d86b131847"
+        },
+        "modular_effective_afterimage": {
+          "bytes": 99662,
+          "sha256": "3f4a1448f8d909bc23ccdaeb8c3e1cdcaa923981b61d55ab94e0f376763e9af2"
+        },
+        "additive_top_field": "middle12_source_consistency_current_qualification_20261012_v1",
+        "insertion_offset": 98174,
+        "insertion_utf8_bytes": 1486,
+        "insertion_utf8_sha256": "ae8189d8b3a438d358f5d8a404d40b77475e912b2f8ca8dca68b734743137f08"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CHINATSU_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "prior_beforeimage": {
+          "bytes": 11255,
+          "sha256": "7d9f53684c76f641337bd66e36c2bbde7d8f11ffc41047a9eac42c07a56844bf"
+        },
+        "modular_effective_afterimage": {
+          "bytes": 12741,
+          "sha256": "4a33854ba01127d388f1df068998668d6ea0ea5c41bca6bdcdf63c879e9a4a0e"
+        },
+        "additive_top_field": "middle12_source_consistency_current_qualification_20261012_v1",
+        "insertion_offset": 11253,
+        "insertion_utf8_bytes": 1486,
+        "insertion_utf8_sha256": "ae8189d8b3a438d358f5d8a404d40b77475e912b2f8ca8dca68b734743137f08"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "prior_beforeimage": {
+          "bytes": 25012,
+          "sha256": "2385578552c1804cee1b6f1dab09ede51f703d2355387fbb017b987726f25cee"
+        },
+        "modular_effective_afterimage": {
+          "bytes": 26490,
+          "sha256": "90a78f0ed0d2ba97b33a0524d5074ef8293207878a2ee0c9740b5f15ced93ee6"
+        },
+        "additive_top_field": "middle12_source_consistency_current_qualification_20261012_v1",
+        "insertion_offset": 25010,
+        "insertion_utf8_bytes": 1478,
+        "insertion_utf8_sha256": "578256171bbaf2a6d5da77aa66fbaf00d0727dfe05aba317e67df0ea72649c36"
+      }
+    ],
+    "recovery_order": "Exact new body differential inverse first; unchanged historical original-to-canonical inverse second. Wrapper exact insertion removal restores all preceding original bytes.",
+    "composition_required": "Module wrapper hashes bind only this standalone afterimage. ROOT recomputes all final composed wrapper/recovery tuples.",
+    "new_source_primary_native_raw_AV_package_identity_model_credit": 0,
+    "all133_complete": false
+  },
+  "actual_current_body_bindings": [],
+  "current_total_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "current_total_wrapper_binding_and_recovery": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "current_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "preceding_preparation_tuple": {
+    "bytes": 12017,
+    "sha256": "69794ecc41e0b708407df6d692cd3de7adc9b7c40533eaf974a0aab41ab2ed28"
+  },
+  "original_transport_and_author_inverses": "UNCHANGED;COMPOSED_DIFFERENTIAL_FIRST",
+  "new_source_or_package_credit": 0
+}

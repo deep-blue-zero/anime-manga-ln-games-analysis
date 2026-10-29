@@ -1,0 +1,166 @@
+{
+  "schema": "KONOSUBA_MAIN07_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-07",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 292275,
+      "sha256": "9a698bc759ca62cfbb99f4aa2f5983613052ca4a158f7e0874f3a67c43578f94"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 212310,
+      "sha256": "45d182c902c1dbcc3f75304c1b38fe4b80c1f6d86daa387c0a6c54771737d874"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 781272,
+      "sha256": "3538dce22f57b9df2529fa271e0edbe65e5ddc5e5b800e5903dbf97e8ebf3e50"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 592063,
+      "sha256": "85b5eec96fd86ebe4d4d67e1afb8f865981dc65ce943eb740f731ad5de089358"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 190797,
+      "sha256": "68bd6259126fc548017f4b1cdd4108443b40eabd97d2720f089c05d364b17750"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 183683,
+      "sha256": "38379c54a641c7059d1ac33daa7a10c54c5fe4509e0dfcfc37732d7f0bf672fa"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 206007,
+      "sha256": "c5f302fa4b9d80af176573d8e9fd4d927cf730d7a923458b378429b5974d8f2b"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 171603,
+      "sha256": "230834df14618a10113048807bbbe95183e1d84d282ef5d1005200eda5874f04"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 261542,
+      "sha256": "9f943e38288988f0a2df5e6e15677ab94ad630aac3cc12182f7d69ccdcd166a6"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 123095,
+      "sha256": "201b6af9fa745fcd8feb4b4199d6c009e07c0b70dbe31b3e2360bf5af911f4d7"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M07EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Wiz/Vanir/Yunyun/Chris-Eris/Dust/Keith; unknown gratitude speaker, creator, report and promotional voices separately attributed",
+      "native_routes": "MAIN-07-U024P3-52;IMG018;M07EX-Q06/Q27",
+      "observation": "In the new bonus, familiar household interaction coexists with an uncontrolled thought-broadcast channel, followed by actual device removal. Printed profile ages and unknowns are reference-plane statements, including Yunyun13 and Chris15?.",
+      "implication": "Do not infer a settled later relationship-day, a permanent personality change, omniscience or a new principal pass.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M07EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Wiz/Vanir/Yunyun/Chris-Eris/Dust/Keith; unknown gratitude speaker, creator, report and promotional voices separately attributed",
+      "native_routes": "MAIN-07-U024P32-40/49-52;M07EX-Q30/Q32",
+      "observation": "Darkness refuses the hat before Kazuma approaches again; Megumin requests removal. Aqua later petitions Kazuma and receives one extra prepared side. Resistance, ordinary care and intrusive conduct coexist.",
+      "implication": "Specific boundaries survive familiarity; later accommodation neither erases the earlier act nor proves mature romance or full repair.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M07EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Wiz/Vanir/Yunyun/Chris-Eris/Dust/Keith; unknown gratitude speaker, creator, report and promotional voices separately attributed",
+      "native_routes": "MAIN-07-U024P3-14/24-30/41-52;M07EX-H01/H03-H10",
+      "observation": "New bonus reversals depend on who hears what: direct thoughts surprise listeners, exposed covert advantage becomes a proof demand, then an unidentified thank-you yields to mundane meal pleading.",
+      "implication": "H1 for performed turns; reported spell and imagined future costs are separate. Ontological uncertainty is not H3.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M07EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Wiz/Vanir/Yunyun/Chris-Eris/Dust/Keith; unknown gratitude speaker, creator, report and promotional voices separately attributed",
+      "native_routes": "IMG005-007/025-029;U016P630-699/744-784;U019P49-54",
+      "observation": "Front composites, two bedside images and the identity inset combine different visual and temporal responsibilities. The skyward blast really cracks glass; the cure really improves the father even as it disrupts the emotional script.",
+      "implication": "No duplicate events or harmlessness assumption; H2 inset intensity and H4 staging do not erase source-specific acts.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M07EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Wiz/Vanir/Yunyun/Chris-Eris/Dust/Keith; unknown gratitude speaker, creator, report and promotional voices separately attributed",
+      "native_routes": "MAIN-07-U024P3-51;24selectedwrittenvoicefragments;U020P8/11/20/31",
+      "observation": "Broadcast brackets differ from ordinary speech after removal; polite Megumin forms can rebuke or direct, Darkness sharpens address in refusal, Aqua restarts toward a proof demand and Kazuma ends with familiar resignation.",
+      "implication": "L0 causal structures, L1 phrasing, L2 stance and narrow L3 nickname/name forms remain separate; no audio, census or catchphrase law.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M07EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Wiz/Vanir/Yunyun/Chris-Eris/Dust/Keith; unknown gratitude speaker, creator, report and promotional voices separately attributed",
+      "native_routes": "MAIN-07-U024P17-28/38/45-52",
+      "observation": "Kazuma reports his own attraction-motivated acceptance, others' received thoughts, retrospective street looks, uncertain gratitude and an actual extra dish. These have different access and voluntariness.",
+      "implication": "Broadcast self-exposure is not deliberately candid testimony; an unidentified voice does not prove bottle sentience or a named dead speaker.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M07EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Wiz/Vanir/Yunyun/Chris-Eris/Dust/Keith; unknown gratitude speaker, creator, report and promotional voices separately attributed",
+      "native_routes": "MAIN-07-U024P3-8/25-28/43-52",
+      "observation": "Summer clothing, board-game stakes in dinner sides, appetite, cooking and grave-care thanks give ordinary-life evidence. Kazuma prepares one extra side after Aqua's appeal.",
+      "implication": "Neither a served meal nor complete game settlement is shown. The thanks refer to grave care, but current performance of that care is not newly narrated.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M07EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Wiz/Vanir/Yunyun/Chris-Eris/Dust/Keith; unknown gratitude speaker, creator, report and promotional voices separately attributed",
+      "native_routes": "MAIN-07-U024P17-26;U016P630-699/744-784;IMG025-027",
+      "observation": "Hat broadcasting is demonstrated; intended animal communication is only reported. Retained native checks identify real Explosion/city damage, Yunyun's covering role and Aqua's effective curse-break, each with separate costs and limits.",
+      "implication": "No performed farmer test, Yunyun Teleport or inferred safe whole operation; narrow competence is compatible with bad judgment and provider dependence.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M07EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Wiz/Vanir/Yunyun/Chris-Eris/Dust/Keith; unknown gratitude speaker, creator, report and promotional voices separately attributed",
+      "native_routes": "MAIN-07-U024P32-40;U012P100-138/203-206;U016P458-516/630-643",
+      "observation": "New privacy refusals and retained practice/carry phases prevent treating familiarity, chosen discomfort or later combat participation as blanket permission. Actual blast risk and Vanir's reported exploitation of Wiz remain material.",
+      "implication": "No consent backprojection, no completed intimate act inferred, no pure-care or harmless-comedy exemption.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M07EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Wiz/Vanir/Yunyun/Chris-Eris/Dust/Keith; unknown gratitude speaker, creator, report and promotional voices separately attributed",
+      "native_routes": "MAIN-07-U024P24-42",
+      "observation": "Aqua fails to update her model of listeners' access and demands proof after the thought broadcast; Megumin claims calmness after attacking. Kazuma persists in an invasive test before complying with the removal request.",
+      "implication": "Keep concrete information errors, defensive self-description and deliberate agency distinct. A reported odds-changing spell is not an omen/fallacy case.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M07EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Wiz/Vanir/Yunyun/Chris-Eris/Dust/Keith; unknown gratitude speaker, creator, report and promotional voices separately attributed",
+      "native_routes": "MAIN-07-U024P1-52;KONOSUBA_MAIN_V07_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "observation": "All31principal and8party contracts were compared explicitly. K07 is ambiguous selective-cause compatibility; E03/E05/E06 offer bounded adjacent response/information/boundary findings with missing full predicates. Remaining35full triggers are not tested by the new bonus.",
+      "implication": "No full C/F, accuracy update, old-event replication credit or original outcome mutation. Four typed constraints stay diagnostics rather than behavioral scores.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M07EX-LD12",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Wiz/Vanir/Yunyun/Chris-Eris/Dust/Keith; unknown gratitude speaker, creator, report and promotional voices separately attributed",
+      "native_routes": "MAIN-07-U024P1-52;U020P25-28;SI-C01;7source-localrows",
+      "observation": "Each of the seven SI-C01 Iris rules has a separate no-opportunity disposition. Iris is absent; author spinoff plans and inherited/promotional planes are excluded.",
+      "implication": "All14originalSI-C01nulls, priorI01/I02MG/SEC01 and Dust14blanks remain exact. No opportunistic retargeting or universal secondary tier promotion.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    }
+  ]
+}

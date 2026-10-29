@@ -1,0 +1,493 @@
+{
+  "schema": "BLUE_ARCHIVE_MEIHUA_INSTITUTION_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "EXACT_PREPARATION_COMPLETE_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 48956,
+      "sha256": "0822a7e91af5831c61a17afdaee5721b46859d7c728d7bb5898ff701daa734a0",
+      "git_blob_oid_of_actual_bytes": "701d476cc98633255759fc61f5c99d4901e04851"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 52044,
+      "sha256": "a766decff7d17ca5e3d6284062401ff2034e3325bab6c5766829a97dac52bb16",
+      "git_blob_oid_of_actual_bytes": "d8e6237eedfe3237859b949d17371d91a75bba06"
+    },
+    "complete_ranges": [
+      {
+        "kind": "insert",
+        "original_lines": [
+          1,
+          0
+        ],
+        "canonical_lines": [
+          1,
+          14
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "---",
+          "series: BLUE_ARCHIVE",
+          "artifact_type: institutional_synthesis",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_MEIHUA_INSTITUTIONAL_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MEIHUA_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128",
+          "---",
+          ""
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          1
+        ],
+        "canonical_lines": [
+          15,
+          15
+        ],
+        "exact_unchanged_lines": [
+          "# Meihua: care has a timetable, and its recipients can answer"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          2,
+          1
+        ],
+        "canonical_lines": [
+          16,
+          17
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS at the disclosed author/peer/ROOT scopes. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MEIHUA_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MEIHUA_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending, local, bf5/source101 and count statements remain creation-time history. Current published108 source `afb38a20d3714cb0ed7d22013cd7dfc86ad3226b`/tree `8564fbd3afb822096dec0984b5be597f39bddc9b` has an exact ROOT normal-push remote readback; its source→housekeeping→final automatic chain is pending at this capture, and this assembler grants no exact-head integration readiness. Merged89/main `b76b4373e6d0526bc78ce00bb673dba9e536c128` and the completed first25% milestone are separately bound. This fixed six-package109–114 proposal takes effect only through complete ROOT installation, yielding114 (94 character,10 directed relationship,4 ensemble,6 institution) and10 completed non-denominator named duties. Later115+ review/acceptance is excluded from this snapshot. Required355 packages/29 duties across25parents/384homes, next178 milestone, all14 original OPEN gaps and model0 remain unchanged. Mechanical transport supplies no new literary, source, primary, native, raw, QA, performed, independent, identity, scope or model credit. **Package-specific operative qualification:** All170 lines and the substantial ten-paragraph three-child duty retain Suiko, Nagomi and Youko's distinct tastes, agency, harmful conduct, independent recipients and finite endings. The five necessary primary-derived passage tuples/eight bounded observed spans remain honestly bounded, not whole-original/admission/native/raw/QA/AV credit. Promised care, payment, apologies and later return remain unprinted; Shun–Kokona and individual characters remain separate."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          2,
+          140
+        ],
+        "canonical_lines": [
+          18,
+          156
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "**Scope.** This institution argument belongs to existing `P3-INST-MEIHUA-CARE-TIME-RECIPIENTS` / `HYS::significant_responsibilities::13`. Its substantial three-child responsibility is `P3-SECTION-SUIKO-NAGOMI-YOUKO-INDIVIDUAL-QUESTIONS` / `HYS::significant_responsibilities::16`. It is an author candidate awaiting ROOT's independent literary receiving. The accepted allocation establishes a responsibility, not this document's completion. Sources are written private, public-event, GROUP and one bounded MAIN/Final argument; their mode and recipient limits remain visible. No new home, person census, source admission or primary/performance/model credit follows.",
+          "",
+          "## 1. Core thesis",
+          "",
+          "**MI001.** Meihua's strongest institutional promise is that growing people deserve time, nourishment, teaching and ordinary company. Its recurring difficulty is that the people providing those goods also need them, while the people receiving them can refuse, misunderstand or redirect them. The Garden works when a task is actually carried through and its recipient remains legible: delivered food, chosen teaching, a permitted outing, a lesson adjusted after fear. It becomes less answerable when protective adults conceal children's involvement, classify objections as immaturity, or count a corrected source as a repaired reception. Neither its caring vocabulary nor its comic warmth decides that difference by itself. [A06:L59-L89] [A02:L113-L117] [A07:L113-L119] [A05:L131-L144]",
+          "",
+          "**MI002.** This is a study of governance at the scale the stories show. Shun and Kokona have educational responsibilities, make requests, finish or miss work, and attempt correction. Rumi supplies food under a request; Kisaki accepts a particular children's activity and later stops other people imposing their specialties upon it. Those are actual distributions of labor and permission. They do not yield a complete school constitution, a universal account of enrollment, or an independently certified pedagogy. The contrast with mythology is concrete: “the future of Shanhaijing” can justify giving children an activity, but it cannot supply their missing assent, prove a treatment works, or demonstrate that a threat taught a lasting lesson. [A06:L59-L75] [A07:L101-L119] [A09:L90] [C01:L357-L368]",
+          "",
+          "**MI003.** Ordinary desires are evidence of the institution's purpose and of its costs, even when they cause no crisis. Shun's wanted rest, clothes, tea, fruit and company; Kokona's picture books, curiosity, meal and wanted recognition; and children's play and tastes belong in the account because they make a life desirable. They do not have to become resilience training or foreshadowing to matter. Conversely, the value of enjoying something does not authorize making another person furnish it. Meihua's attractive and troubling moments often arise from this very proximity: company is wanted, but company can also become an obligation; food is caring, but a taste or private-use condition can be ignored. [A01:L281-L293] [A15:L37-L45] [A05:L107-L117]",
+          "",
+          "## 2. Longitudinal arc",
+          "",
+          "**MI004.** The available repertoire supports a recurrent institutional problem rather than one dated ascent from flawed care to perfect care. GROUP260 makes provisioning and professional address meet gossip. EVENT805 makes fatigue and a wish for lost pleasures meet a bodily transformation and missed duties. EVENT826 makes the children's ordinary errands useful to people who conceal an investigation. GROUP340 makes a requested children's exercise meet competing specialist claims. EVENT859 lets a holiday provide genuine pleasures before a children's coercive organization draws those holidaymakers into defense and discipline. These are separate local sequences; no established calendar places all of them in that order. Their recurrence lets us compare mechanisms without inventing a progress ladder. [A06:L59-L89] [A09:L70-L90] [A02:L113-L117] [A07:L101-L119] [A05:L89-L144]",
+          "",
+          "**MI005.** EVENT805 gives fatigue causal weight without making it explain everything. Shun's missed rum-raisin ice cream and accumulated work make the risky remedy attractive; the changed form then enables wanted play and indulgence. The park's long-desired swing remains unperformed, while other ordinary pleasures actually occur. Her use of false alarms and retaliation against Kokona remain her acts, not automatic effects of a small body. Restoration is chosen after hearing children and Kokona, followed by an apology and qualified forgiveness; it is not a staffing reform, a clinical certification or proof that her wish to be indulged has vanished. The ending's surviving desire is central: care cannot solve the provider's exhaustion by declaring her needs childish. [A09:L71-L78] [A09:L84-L92]",
+          "",
+          "**MI006.** The private repertoire makes a simple identity ladder untenable. The ordinary Shun scope contains teaching that produces fear and delight, distance requests and wanted reciprocal care. The small-form scope contains actual exchange, play until sunset, tent nostalgia and access refusal. The swimming scope contains floating, food, outings, posed photographs, privacy shielding, a local child's changed-fear report and actual staff handover. Later warmth does not erase earlier means, and the last scope does not prove a collective cure. The late written10144 duty remains a separate character responsibility; this institution does not silently absorb it by discussing the Garden. [A01:L279-L287] [A11:L105-L123]",
+          "",
+          "**MI007.** EVENT859 ends with two different facts that an institutional arc must carry together. Kokona gains a specially permitted three-person walk and playful swinging; the teachers report an enjoyable return. The named gang nevertheless leaves Meihua against instructions, and bringing the children home is only proposed. Kanae's collapse also leaves recovery unprinted. A holiday can be achieved and a care arrangement can remain unsuccessful at its final edge. Reading the closing disorder as a reset joke would suppress a consequential custody failure; reading it as proof that all preceding joy was false would suppress actual wanted lives. [A05:L136-L144]",
+          "",
+          "## 3. Public/private self",
+          "",
+          "**MI008.** Meihua's public competence draws on people whose private needs are not fully served by their roles. Shun's fruit work and puppet teaching, Kokona's completed grading and concern for pupils, and ordinary snack preparation are real contributions. Their desires for a lullaby, headpat, holiday, curiosity, maturity and company are not merely compensation for performing them. This distinction matters because the texts repeatedly ask the provider to remain useful at the very moment she wishes to be received as a person. The institution's good is broader than uninterrupted output, and fatigue is evidence of an allocation problem even where no replacement plan is printed. [A01:L281-L293] [A02:L113-L115] [A15:L37]",
+          "",
+          "**MI009.** Kokona's wish to be called an instructor or a lady does not amount to consenting to every adult demand. In GROUP260 she corrects address before undertaking Shun's requested provisioning; Rumi accepts the correction and actually supplies food. In her private scope, gratitude and future company coexist with overextension, tears and objections to being grabbed and escorted. An enjoyed completed meal remains enjoyed; it does not retrospectively make the route there freely chosen. Likewise, EVENT840's delight at instructor recognition stands beside an explicit no-head-patting boundary. Recognition is answerable to the recipient's particular request, rather than an adult's general belief that affectionate treatment must be welcome. [A06:L59-L75] [A01:L291-L293] [A12:L50-L66] [A04:L93]",
+          "",
+          "**MI010.** The gift argument makes the distinction unusually clear. Kokona prepares snacks for children on a holiday, which delays her visit; the chocolate she gives the adult is nevertheless a private gift, with a repeated request that he taste it later at Schale and alone. On-site tasting is refused, retrieval is threatened, and she returns to ask for a promise. No actual consumption or kept promise is printed. The Garden's public labor therefore does not turn all her food into public institutional property. Her boundary has literary force at the moment it is stated, without a subsequent crisis or demonstrated culinary success. [A15:L37-L45] [A15:L67-L71]",
+          "",
+          "**MI011.** Privacy can also be damaged by a child or colleague, rather than only by a distant authority. In GROUP260 Kokona turns an unopened confidential bag into a frightening imagined object and passes the story to a local child. Children A, B and C relay it; students' changed gazes reach Shun before she knows why. Shun reports a massage roller and a beauty wish, but the object and efficacy are not independently inspected. The story stops its source while leaving existing reception unsettled. The relevant institutional failure is an information circuit capable of surviving correction, not proof of the rumor's contents or a definitive account of Shun's body. [A06:L65-L89]",
+          "",
+          "## 4. School/club role",
+          "",
+          "**MI012.** The Garden's educational hierarchy is observable through tasks and terms of address, not reducible to an adult/child binary. Kokona introduces herself as a first-year educational member; she can teach, grade, request participation and object to diminutive address while also being vulnerable to adults' pressure. Shun is an instructor who wants play and rest. Rumi is a supplier whose own vocation is cooking, and Kisaki is a head whose acceptance of an activity is specific. Their differently situated wishes cannot be dissolved into one benevolent institution-person. “For the children” must identify who requested what and who undertook the work. [A07:L93-L101] [A06:L59-L75] [A01:L281-L293]",
+          "",
+          "**MI013.** GROUP340 shows a defensible use of school authority and its limit in the same scene. Kokona asks to restart exercise for herself and the children; Kisaki accepts. Reijo and Kaguya subsequently try to make that ordinary movement evidence of their specialties and press Kisaki after her correction. Children and Kokona become frightened. Kisaki stops the dispute, offers conditional protection for aspirations that nourish children, and warns against harming them. The disputants apologize; Kisaki also apologizes for the intimidating delivery of her own intervention. Shared exercise actually begins, while rival crafts and broad attendance or health outcomes remain unresolved. Governance here is an achieved interruption plus a local repair, not a flawless voice whose warning has no cost. [A07:L101-L119]",
+          "",
+          "**MI014.** Meihua's exemption from ordinary factional suspicion in EVENT826 is a situated hypothesis used by Rumi, not a guarantee that childhood lies outside politics. Kokona reports seemingly harmless deliveries and children's usual errands; both factions resent the exploitation of that goodwill. The investigation then repeats it: a trap works locally, but Rumi and Reijo admit that Kokona was secretly involved, and apology to her and Shun stays future even through the banquet. That banquet actually occurs, with Shun and Kokona overseeing children's conduct, thanks and teeth routines. Shun's proposed adult business shifts child supervision to Kokona, who protests the asymmetry and threatens future ice-cream consumption. The public ending is therefore an achieved celebration and another unequal allocation, not merely missing repair. Kisaki's formal apology addresses unsupported accusations and failed oversight; it is not the still-unprinted apology to these educators. Rumi's remuneration condition and promised all-expenses payment also do not establish an executed invoice. Offers of accepting responsibility or shutdown cannot be silently upgraded to a sanction. The Garden is politically important precisely because its credibility and labor can be borrowed by outsiders, including protectors. [A02:L109-L117] [A02:L141-L149]",
+          "",
+          "**MI015.** The bounded Final argument provides a public contrast without certifying universal emergency governance. Shun assigns Plum Blossom defense and tells Kokona to guide civilian evacuation; Kokona accepts. The scene also contains Rumi's recognition and Genryumon direction. That actual order and acceptance establish that educational work can enter a school-wide response; they do not show every evacuee reaching safety, prove that either instructor single-handedly completes evacuation, or join generic storekeepers, students and executives to the local children in other sources. The institution's ordinary history makes that responsibility meaningful, but a crisis appearance does not replace its private or comic repertoire. [A08:L20-L24]",
+          "",
+          "## 5. Ordinary life",
+          "",
+          "**MI016.** Food is a daily relation with producers, tastes and limits. Rumi forgets a delivery date while busy, then makes the vegetables, noodles, soymilk and peaches actually arrive. Kokona carries out the requested supply task; it is not merely her snack errand. The difference between proposed provision and completed delivery matters, but the food's ordinary appeal matters too. Elsewhere children are curious or tired, Shun wants a missed treat, and Kokona tests coffee while wishing for unprinted ice cream. None of these has to prove institutional efficiency to deserve retrieval. Care includes giving life a texture, not only keeping a body or schedule operational. [A06:L59-L75] [A09:L70-L73] [A01:L291-L293]",
+          "",
+          "**MI017.** The Garden's place in hospitality also preserves different traditions and pleasures. EVENT840 actually fulfills an outing with egg tarts, a wanted fruit-and-cream crepe, matcha, walking and feeding pandas; the adult's caution and Kokona's touch boundary remain. Shared mooncakes lead to remembered burnt paste, undercooked yolk, crushed walnuts and broken molding, then to Kisaki's unchosen office and Rumi's wanted cooking vocation. The food conversation has value before it helps deduce a crisis. It lets an institution's members and neighbors remember failure affectionately, eat together and distinguish chosen work from inherited duty. It should not be reduced to a device for the next plot turn. [A04:L91-L97]",
+          "",
+          "**MI018.** Rest is likewise a real good with an allocation problem. EVENT859's inspection becomes an accepted holiday pretext, and Kokona locally permits more relaxed address. Some people enjoy outings while Reijo remains a proxy and Kanae takes wider work. Shun's compliment is enjoyed; Kokona wants to be treated as mature, laughs at being lifted and still objects to repeated diminutives. The pleasant day neither makes every role voluntary nor establishes that every named person rests. A time-based institution has to keep the absent worker and the contrary recipient in view when it describes its successful holiday. [A05:L89-L100]",
+          "",
+          "**MI019.** A promised life is not the same as an achieved activity. Shun's reciprocal lullaby, headpat and later two-person company remain wanted or future at their actual scopes; Kokona's private future company and coffee-related ice cream remain unprinted. EVENT859 changes a wished private walk into a specially accepted three-person outing and actually shows hand-held swinging. This qualification does not make the walk second-rate: Kokona chooses the exception for Shun. It does mean the reader must preserve her choice, rather than retrospectively calling the original two-person wish fulfilled unchanged. [A01:L281-L293] [A05:L113-L138]",
+          "",
+          "**MI020.** The named gang's tastes also have intrinsic significance, although their demands harm other people. Youko dislikes pepper; Nagomi finds unsweetened yogurt sour and lingeringly unpleasant; Suiko likes the offered snack. Nagomi's concern for a goose is specific, and the children's desire for friends and play is not invented to excuse them. Those ordinary preferences make their coercion legible as conduct by people who want things, not a generic villain mechanism. They do not oblige merchants to contradict yesterday's order, accept destruction or furnish exclusive leisure. Enjoyment remains valuable while its imposed cost remains answerable. [P006:u0004-u0019] [P006:u0051-u0058] [P008:u0023-u0046] [A05:L107-L117]",
+          "",
+          "## 6. Crisis behavior",
+          "",
+          "**MI021.** Protection in this repertoire is often a distribution of burdens before it becomes force. In EVENT826 the original misuse of children's ordinary errands matters, but so does a successful trap's concealed reliance upon Kokona. In EVENT859 Kokona refuses the proposed infiltration, and Shun and the adult oppose exposing her to danger; the plan changes. Shun and Kisaki instead use temporary covers. That local refusal has practical effect, unlike a reading in which any good end automatically warrants any participant. It is not proof that every later member is informed or consulted: Kokona separately resents not being consulted and obtains an ice-cream compensation promise whose completion remains unprinted. [A02:L113-L117] [A05:L111-L117]",
+          "",
+          "**MI022.** Merchants are independently acting recipients of protection. They prepare food, explain impossible requests, support one another after threatened ruin, accept a defense plan and use local knowledge. When the attack arrives they resist for their home and for the students who helped them; the hired attackers weigh discomfort, incomplete instructions and the limits of payment, then feign fighting. The gang's money-obedience doctrine thus meets adults who interpret rather than mechanically execute an order. Neither Teacher's initiative nor Genryumon's later theatrical authority owns all of this agency. These recipients' choices are an institutional test of whether care protects a live community or merely claims credit over it. [A05:L107-L129] [P006:u0026-u0031] [P010:u0003-u0007] [P010:u0038-u0060]",
+          "",
+          "### Required substantial section: P3-SECTION-SUIKO-NAGOMI-YOUKO-INDIVIDUAL-QUESTIONS",
+          "",
+          "**MI023.** The three-child responsibility requires separate questions within this institution, rather than a shared assertion that the gang was disciplined. The source names Suiko, Nagomi and Youko explicitly; their single-person, collective and label-drift records are not interchangeable. Their connection to Meihua is established by the narrated care-and-escape sequence, not by a forced join to GROUP260's local A/B/C children. The institution must explain why each child's wants and contrary conduct matter, what each receives, and what the ending does not establish. A generic “children learned their lesson” would fail all three questions. [P006:u0040-u0043] [A05:L131-L153] [A06:L45-L49]",
+          "",
+          "**MI024.** Suiko makes companionship into a rule of belonging. She names herself as the gang's founder and invites Kokona to play in a group where unwanted tasks need not be done and obstructing things can be blown away. Kokona refuses that invitation. Suiko's offered snack preference, welcome for supposed new children and reduced yogurt threshold show tastes and limited flexibility; she admits that she herself could not drink the whole serving. Those moments deserve retention even though they do not cancel her threats. The institution's question is not whether a bad child can like things. It is how chosen play becomes a condition that other people must satisfy and cannot leave. [P006:u0038-u0054] [P006:u0085-u0101] [P008:u0012-u0046] [P008:u0051-u0059]",
+          "",
+          "**MI025.** Suiko's later care is selective rather than nonexistent. She excuses supposed newcomers' oversleeping because children need sleep and tells them to stay back from danger; she also treats membership as shared fate after hesitation about destructive fireworks, urges total destruction and escalates to threatened domination when authority confronts her. Both sets of acts are hers at their secure source-local routes. Newcomer protection does not imply concern for merchants or freedom to refuse the group's project. Shun's actual punishment is followed by Suiko's pain and plea for forgiveness, then explicit anger at being hit and renewed revenge while escaping. An apology under force is printed; sustained acceptance of the lesson is not. [P008:u0067-u0070] [P010:u0008-u0019] [P010:u0030-u0031] [P010:u0050-u0060] [P012:u0046-u0062] [P012:u0084-u0085] [P013:u0003-u0006]",
+          "",
+          "**MI026.** Nagomi has a different contradiction. She wants the goose released because eating it seems pitiable, while the merchant says it was prepared in response to the gang's prior request. That concern for a living creature is not fraudulent merely because it is inconsistent or accompanied by coercion. She comforts purported newcomers over height, then declares a competitive hope to grow taller herself; yogurt's sourness and lingering taste genuinely frighten her. Yet her account of fireworks rests on enjoyment and resentment that merchants receive other customers, despite admitting no express exclusivity order. These are not the same motive as Suiko's founder authority or Youko's monetary certainty. Nagomi makes an unstated entitlement into an expectation adults should have guessed. [P006:u0011-u0015] [P006:u0041-u0042] [P008:u0023-u0044] [P008:u0073-u0079]",
+          "",
+          "**MI027.** Nagomi also answers back to care. She is surprised when merchants resist, objects that adults should leave the gang alone when Kokona defends discipline, and explicitly cries out over buttock pain during Shun's intervention. Her later tears and distressed question are printed; a freely accepted educational principle is not. This does not make the attacks harmless or Kokona's account of responsibility meaningless. It keeps the recipient of instruction present at the point where an institutional story might otherwise replace her with a success result. Her temporary earlier decision to spare merchants after snacks was a bounded reprieve, not repudiation of violence. Pain, compassion, entitlement and limited mercy coexist in the same child. [P006:u0055-u0061] [P010:u0053-u0054] [P012:u0018-u0037] [P012:u0067-u0075] [P013:u0001-u0002]",
+          "",
+          "**MI028.** Youko's question turns on whose reasons count. Her pepper aversion is an ordinary preference, but she calls adults ignorant for not meeting it, dismisses the inconsistency between wanted roast goose and demanded release, asks for punishment, and mocks merchants' mutual support. At the hired attack she argues that money should settle everything and questions whether the workers need any other reason. Their initial dislike, narrow understanding of payment and resistance to extra work supply a serious contrary recipient, not a mere failure of her employees. Source-label drift in parts of that exchange prevents assigning every reply to its printed child header; it does not erase the complete scene's challenge to her theory of command. [P006:u0004-u0015] [P006:u0024-u0030] [P010:u0021-u0027] [P010:u0043-u0060]",
+          "",
+          "**MI029.** Youko is not without hesitation or accommodation. She admits that the gang could not complete the yogurt trial, welcomes the successful newcomers and treats their first dangerous operation as a trial period. At the threat against Kisaki she asks if this is really all right and privately suspects it has become bad. That doubt does not become an effective veto: her assertion that adults cannot understand children's feelings and the group's subsequent conduct remain. The written punishment sequence gives her fear, distress and a collective cry with Nagomi. It does not show a separate post-escape Youko speech or her private decision to reform. The absence of that printed ending must remain an individual limit rather than borrowing Suiko's revenge or Nagomi's question. [P008:u0045-u0065] [P010:u0033-u0036] [P012:u0032-u0037] [P012:u0047-u0048] [P012:u0063-u0071] [P013:u0001-u0014]",
+          "",
+          "**MI030.** The three children's punishment is actual corporeal conduct in the written story, not a generic stern lecture. Kokona announces that Meihua children doing the same would already have been spanked; after Kisaki's cough and Suiko's threat, Shun states limits on harming and exploiting others while Suiko, Nagomi and Youko register pain, fear, tears and pleading. Nagomi names the painful body part; Suiko later says she was hit there. This supports the interpretation of corporal discipline without specifying unseen mechanics, injuries, clinical harm or a performed scene. The narrative's caring rationale and comic register do not constitute professional approval, legal validity or demonstrated educational success. Conversely, acknowledging those limits does not invent a punishment absent from the text. [P012:u0024-u0045] [P012:u0053-u0085] [A05:L131-L133]",
+          "",
+          "**MI031.** Competing educators remain active around this intervention. Kokona argues that discipline is for the children and that youth cannot excuse wrongdoing; Nagomi and Youko reject her account. Kisaki cautions against excessive scolding and offers a fallible thought about mature children carrying sadness. Her thought is not a diagnosis of these three children. Shun subsequently protects the coughing head and administers punishment; Mina is poised to defend her head, but does not own Shun's act. The scene therefore contains incompatible degrees and forms of care, not a unanimous adult doctrine. Its later escape and unfinished return preserve the dispute at the institution's endpoint. [P012:u0022-u0055] [A05:L131-L144]",
+          "",
+          "**MI032.** The gang's destructive fireworks and the permitted evening fireworks are distinct events with different actors and consent. The children seek a violent “celebration” of merchants; merchants later welcome Mina's actual display after defense, and Kokona's chosen company remains part of the holiday. The same pleasurable image can carry imposed danger or welcomed festivity. This is why ordinary happiness should be preserved without treating all happiness as morally equivalent: the recipient arrangement, refusal and actual endpoint make the difference, rather than a stakes filter that discards the quiet walk and keeps only the battle. [P008:u0063-u0079] [A05:L136-L140]",
+          "",
+          "## 7. Sensei relationship",
+          "",
+          "**MI033.** The adult functions within, beside and sometimes against the Garden's routines. He can listen to the tired Shun, help a chosen return, offer comfort, coordinate defense and receive gifts. He can also participate in a trap that secretly uses Kokona, overextend her, tease after an address objection, or recommend satisfying a crowd that Kisaki says need not be satisfied. The institution is not adequately described as children improving because he arrived. Its peers and recipients already cook, object, comfort, defend, choose and correct; his participation must be assessed through those existing agents rather than substituting for them. [A09:L77-L90] [A02:L117] [A01:L293] [A07:L109-L119] [A05:L136]",
+          "",
+          "**MI034.** Several adult successes are genuine and still bounded. In EVENT805 listening helps Shun choose return; EVENT859's altered infiltration preserves Kokona's refusal and the resulting coalition helps merchants defend their place. Kokona's private meal with him actually ends in enjoyment. None demonstrates a general right to disregard future refusals. The chocolate request's unprinted reception and the after-stop diminutive in EVENT859 are counterweights within the same repertoire. Affection is a particular relation to answer, not an advance permit for touching, escorting, eating or using someone in a plan. [A09:L77-L90] [A05:L111-L129] [A01:L293] [A15:L43-L71] [A05:L136]",
+          "",
+          "**MI035.** His position also has limits as a source of knowledge. Internal lines and offered choices may disclose care to the reader without proving an audible utterance or an enacted transfer. GROUP340's handkerchief offer is internally tagged, whereas Kokona's address preference and the authored formal response remain secure textual objects. GROUP260's adult explanations of the unopened bag are alternative guesses, not a cumulative inventory of its contents. A study of institutional authority must not turn the adult's narrative access into factual omniscience or the player's possible response into every branch being performed. [A07:L117-L119] [A06:L73-L101]",
+          "",
+          "## 8. Major peer relationships",
+          "",
+          "**MI036.** Shun and Kokona sustain the Garden through a relation whose costs are not symmetrical. Kokona wants closeness to Shun and says becoming an instructor was meant to make that possible; work instead makes them busier. Shun's fatigue and desire for youthful freedom coexist with concern for the children and a chosen return to teaching. Their later holiday can genuinely give them company, but it does not document an ongoing redistribution of grading, supervision or rest. The institution's distinctive time problem is thus not merely insufficient leisure; it is that a role adopted for a relationship can consume the time needed to enjoy that relationship. Their separate directed-relationship home remains responsible for its full longitudinal argument. [A09:L71-L90] [A05:L136-L144] [A01:L281-L293]",
+          "",
+          "**MI037.** Rumi's care is independently chosen labor, not a neutral supply function. She corrects a missed delivery, makes food arrive and enjoys cooking for people; her accessible cuisine and pleasure in customers' judgment coexist with pressure, requests and protection. In EVENT826 she develops a hypothesis and worries about sacrificing a person to an end, then admits her own secret use of Kokona. In EVENT859 she wants someone else's cooking and a break from the kitchen, while merchants retain their own preparation constraints and welcome. This institutional comparison leaves her relation to Kisaki and Reijo separate: it draws on their actions only where they affect care's allocation, not to discharge those named directions. [A06:L59-L75] [A02:L79-L81] [A02:L109-L117] [A05:L104-L109]",
+          "",
+          "**MI038.** Kisaki's relation to the Garden can create space rather than merely demand service. She chooses to accept the children's requested activity, refuses craft specialists' appropriation, apologizes after frightening those she protects, and permits the eventual holiday company. She is also a recipient who coughs, wants rest and needs help. Tradition's claims about the school's future therefore have a human bearer who is not continuously invulnerable. Her fallible interpretation of childhood sorrow and the unknown long-term consequences of discipline stay limits. This does not make her Genryumon office the Garden's entire governance or merge the two institutional packages. [A07:L101-L119] [A05:L89-L98] [A05:L131-L144]",
+          "",
+          "**MI039.** Saya makes care's technical dependency conspicuous. EVENT805's feared or refused medicine, fallible paralysis claim and deceptive/restraint conduct cannot be certified by a later return of form. EVENT840 contrasts requested antidotes with Kai's coercive dependency while explicitly preserving Saya's own troublemaking and the unproved safety of every experiment. The Garden depends on purported help that its recipients may reject and that text alone cannot medically validate. This institution needs that distinction to explain pressure on Shun and children; Saya's complete character, technical directed relation and Kai's separate source-scoped responsibilities remain outside its claimed completion. [A09:L76-L90] [A04:L113-L124]",
+          "",
+          "**MI040.** Anonymous participants belong to the institutional argument as local agents. GROUP260 children relay information; GROUP340 children express fear and join the actual start; EVENT826 children are reported errand participants; EVENT805 children express envy, questions, tiredness or apology. Those different roles must neither be erased nor merged into one universal classroom. The merchants' cooking knowledge and solidarity, the hired workers' doubts and the goose's represented response also affect outcomes. Keeping them visible establishes a community of answering recipients; it does not manufacture a person census, give all of them independent monographs, or join letters across episodes. [A06:L45-L49] [A06:L77-L89] [A07:L113-L119] [A02:L115] [A09:L70-L84] [P006:u0016-u0019] [P010:u0003-u0060]",
+          "",
+          "## 9. Language/voice",
+          "",
+          "**MI041.** The words “instructor,” “lady,” diminutives and adult/child classifications are practical claims on how another person should treat someone. Kokona asks for a title and a kind of recognition, then can still ask not to be patted, grabbed or teased. Shun's childlike desire and temporary cover do not remove her educational knowledge. The gang calls adults contemptible while demanding adult labor, and invokes childhood to resist responsibility. Their dialogue does not resolve a universal age criterion; it exposes how categories become permissions or excuses in particular encounters. Tone can be funny and a request can remain consequential at the same time. [A06:L59-L89] [A04:L93] [A01:L279-L293] [P006:u0005-u0049] [P012:u0022-u0037]",
+          "",
+          "**MI042.** The represented corpus has actual attribution seams. EVENT859 prints some apparent child replies under servant or merchant labels and reverses temporary cover introductions. This document uses secure named routes for individual claims and retains broader scene-level meanings where the exchange is sound but the exact tag is unreliable. It does not silently install a corrected speaker registry. In particular, adult objections to open-ended hired work are meaningful against Youko's money doctrine, while disputed replies printed as Youko are not her suddenly retracting that doctrine. Likewise, a collective cry cannot establish identical private lessons for Nagomi and Youko. [P006:u0018-u0019] [P006:u0088-u0090] [P008:u0004-u0005] [P008:u0081-u0087] [P010:u0016-u0019] [P010:u0055-u0059] [P012:u0071-u0075]",
+          "",
+          "**MI043.** Written events and actorless UI are also different kinds of evidence. Wishes for headpats, rest, food and future company can be complete written objects without having happened. A shutter command is not an inspected photograph; a forced-medicine proposal is not certified administration; internally tagged adult care is not an audible line. Japanese/Korean differences remain local, including Kokona's gift address slip and private coffee continuation. The analysis relies on represented meanings, choices and printed endings, not performed pitch, timing, a native voice sample or an inferred universal demeanor. These limits preserve ordinary evidence rather than disqualifying it. [A01:L283-L293] [A11:L109-L123] [A12:L50-L66] [A15:L67-L71] [A09:L88-L100]",
+          "",
+          "## 10. Competing readings",
+          "",
+          "**MI044.** **Benevolent hierarchy is the complete explanation.** There is real support: meals arrive, instructors work, children receive activities and dangerous conduct is stopped. But a hierarchy-only reading cannot account for concealed use of Kokona, unfulfilled rest and compensation, frightening protection, gift privacy or children who answer punishment with escape. Caring intent identifies a motive; it does not settle the recipient's experience or the institution's ending. The stronger account retains achieved goods and asks how authority remains answerable after supplying them. [A06:L61-L89] [A02:L117] [A07:L113-L119] [A05:L131-L144] [A15:L43-L71]",
+          "",
+          "**MI045.** **Meihua is only a coercive apparatus.** Its touch, escort, secrecy and corporal-discipline evidence is substantial and cannot be laundered by later warmth. Yet reducing the whole Garden to compulsion would miss Kokona's request for exercise, her effective infiltration refusal, the locally accepted outing exception, Shun's chosen return, actual meals and ordinary joy. Those choices do not erase the coercion, and the coercion does not make every choice fictitious. This rival is strongest as a warning against institutional self-description, weaker as an exhaustive explanation of every received scene. [A01:L293] [A07:L101-L119] [A05:L111-L138] [A09:L77-L90]",
+          "",
+          "**MI046.** **The comic register makes misconduct inconsequential.** EVENT805's broad bodily comedy, the gang's yogurt trial and GROUP260's absurd rumor clearly use comic disproportion. That helps explain why ordinary desire and embarrassment carry so much narrative energy. It does not convert Shun's punishment into a nonexistent lecture, Kokona's refusal into assent, or the final departure into completed supervision. A literary analysis can preserve the comic mode while tracking the acts and their missing repairs. Treating seriousness as the condition of evidence would discard precisely the character-building detail that gives this institution its texture. [A09:L84-L92] [A06:L77-L89] [P008:u0034-u0060] [P012:u0057-u0085] [A05:L144]",
+          "",
+          "**MI047.** **Everything follows from a small body or variant.** Changed form and particular profiles matter, but the source gives retained professional knowledge, chosen strategies, locale qualifications and contrary adult behavior. Ordinary-form overextension and small-form play cannot be arranged automatically as regressive and mature stages; a swimming scope's staff handover cannot certify all earlier care. The cross-source recurrence lies in time, recognition and authority, not a fixed psychological ladder. The late10144 and cover-name identities must stay at their own boundaries. [A01:L279-L293] [A09:L72-L100] [A11:L105-L123]",
+          "",
+          "**MI048.** **Teacher alone restores a good institution.** Listening and coordination genuinely help, but Rumi reasons and supplies, Kokona requests and refuses, merchants choose defense, Kisaki changes a public encounter, Shun chooses return, and hired workers resist an all-obedience account. Conversely, the adult helps repeat concealed use and teasing. An adult-centered repair narrative misallocates achievement and responsibility at once. The institution's strength is better described as distributed competence with incomplete correction, which requires keeping several recipients and rival judgments alive. [A02:L109-L117] [A07:L101-L119] [A09:L77-L90] [A05:L111-L140] [P010:u0038-u0060]",
+          "",
+          "**MI049.** **All three children are interchangeable bad children.** Their cooperation and collective speech support treating the gang as an organization, but not transferring motives or endpoints. Nagomi's goose concern and sour-taste fear are not Suiko's founding claim; Youko's money doctrine and hesitation are not proof that she utters Suiko's later revenge. Individual pain and collective distress require different readings. The complete named section rejects a diagnosis shared by co-occurrence and asks each child's question at the supported scope. This is necessary even where none has an independent private pool. [P006:u0004-u0058] [P008:u0023-u0079] [P010:u0021-u0027] [P012:u0046-u0085] [P013:u0001-u0014]",
+          "",
+          "**MI050.** **Stopping harm proves education succeeded.** The attack's suppression and the punishment are real events. But the child's apology is forced in a pain sequence, Suiko threatens revenge, Nagomi remains distressed, Youko has no separate printed reform, and the later Garden departure resists a stable-success ending. Kisaki hopes for growth rather than reports it. This rival confuses an immediate limit on conduct with acquired principle and future safe supervision. It also ignores that protection can frighten its beneficiaries, as GROUP340 explicitly recognizes and locally repairs. [P012:u0057-u0085] [P013:u0001-u0014] [A05:L144] [A07:L113-L119]",
+          "",
+          "**MI051.** **Ordinary scenes matter only when they prepare crisis competence.** Food, play and rest sometimes do affect later inquiry or duty, but they also have achieved or wanted ends of their own. Mooncakes let people enjoy shared failure; Kokona's particular chocolate boundary defines how she wants to be received; Shun wants company even after returning to work. An instrument-only reading loses the persons for whose lives care is organized. The appropriate contrast is not high stakes versus low stakes, but an intrinsic wanted good versus an imposed demand whose recipients may contest its means. [A04:L93-L97] [A15:L37-L71] [A09:L90-L92] [A01:L281-L293]",
+          "",
+          "**MI052.** **The closing warmth settles the ethical disputes.** Apologies, meals, pleasant returns and a hand-held outing supply affirmative endings, and the analysis should not treat them as fake. They are nonetheless finite: an apology need not be an institutional audit, a promise need not be paid compensation, a rumor's source stopping need not repair reception, and a desired return of children can remain unperformed. Warmth gives room to keep living together; it does not replace the missing aftermath. The strongest synthesis therefore ends with goods achieved alongside unresolved responsibility, rather than with total condemnation or a completed cure. [A06:L85-L89] [A02:L117] [A05:L136-L144] [A09:L77-L92] [A15:L45-L71]",
+          "",
+          "## 11. Evidence route",
+          "",
+          "**MI053.** The literary owners are current accepted normal meanings and their precise qualifiers, bound to source publication `bf5ded30464ab39f78f71e79ecc7494654c25faa`; earlier7546/b76/2714 custody remains a dated comparand. Complete relevant analytical arguments have been personally received at the extents stated in the source receipt, including whole small EVENT805, Shun and Kokona checkpoints, Kokona gift071 and complete relevant GROUP260/GROUP340/event meanings. A13's E810 comparison and A14's late written carrier are metadata/authority navigation here, not newly received whole literary meanings. The Shun and Kokona retained checkpoints' historical noncurrent/UNADMITTED producer declarations are qualified by shared current adoption/Cycle008; this document does not erase their historical custody or claim a new independent source owner. [A01:L279-L293] [C04:L47-L62]",
+          "",
+          "**MI054.** The grouped EVENT859 argument and accepted actor carrier did not resolve each child's individual taste, command and response. Only that material ambiguity occasioned bounded reinspection of canonical written passages:006u0001–0106,008u0001–0090,010u0001–0060,012u0001–0085 and013u0001–0014. Their exact bytes, hashes, unit/physical ranges and received spans are recorded separately. They supply newly disclosed source-local observations, not fresh whole-original, all-fourteen-event, native/raw/QA, performed, admission or model credit. No public primary copies are introduced by the body, and unresolved labels remain unresolved. [P006:u0001-u0106] [P008:u0001-u0090] [P010:u0001-u0060] [P012:u0001-u0085] [P013:u0001-u0014]",
+          "",
+          "**MI055.** Overlap controls are substantive. This package owns care's labor, timetable, recognition, correction and recipients, including the allocated three-child question. It does not complete Shun/Kokona character or10144 duties, their full relationship, merchant/child ensemble, Genryumon institution, Rumi's named directions, Mina–Reijo, Saya's technical relation, or each source-local role's separate responsibility by mentioning them. Existing355 packages and29 named duties across25 parents remain unchanged. The present named section requires ROOT's complete literary receiving; headings, count inventories and borrowed monograph acceptance cannot discharge it. [C05:L1-L356] [C07:L1-L30]",
+          "",
+          "### Current normal analytical routes",
+          ""
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          141,
+          151
+        ],
+        "canonical_lines": [
+          157,
+          167
+        ],
+        "original_lines_complete_text": [
+          "- A01: [Shared private contextual account](bound_source_inputs/A01_BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md), especially current279–293; private reports, UI and variants retain separate modes.",
+          "- A02: [EVENT826](bound_source_inputs/A02_BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md), substantive75–177/current29–47; achieved investigation, concealed use and unprinted recipient apology.",
+          "- A03: [EVENT839](bound_source_inputs/A03_BLUE_ARCHIVE_EVENT_839_CONTEXTUALIZATION_CHECKPOINT.md), prior substantive70–158/current29–47, available contextual comparison rather than an inferred universal Garden appearance.",
+          "- A04: [EVENT840](bound_source_inputs/A04_BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md), substantive65–149/current29–47; ordinary outing, touch boundary and qualified care/technical comparisons.",
+          "- A05: [EVENT859](bound_source_inputs/A05_BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md), substantive65–167/current29–47; complete fourteen meanings and finite ending, not a fresh fourteen-primary receipt.",
+          "- A06: [GROUP2601–2602](bound_source_inputs/A06_BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md), substantive39–133; completed provisioning, local roles, choices and unrestored rumor reception.",
+          "- A07: [GROUP3401–3403](bound_source_inputs/A07_BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md), substantive39–188; requested exercise, fear, apologies and actual start.",
+          "- A08: [Final V100C002E007](bound_source_inputs/A08_BLUE_ARCHIVE_MAIN_V100_C002_E007_DEEP_READING.md), whole32-line small argument; assigned evacuation, not whole Final or all-recipient safety.",
+          "- A09: [EVENT805](bound_source_inputs/A09_BLUE_ARCHIVE_EVENT_805_PHASE2_CONTEXTUAL_COMPARISON_20261008.md), whole121-line current argument; pleasures, refused means, chosen return and unprinted repair.",
+          "- A11/A12: [Shun](bound_source_inputs/A11_BLUE_ARCHIVE_SHUN_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) and [Kokona](bound_source_inputs/A12_BLUE_ARCHIVE_KOKONA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md), whole125/109-line retained checkpoints with current shared/Cycle008 qualification.",
+          "- A15: [Kokona gift071](bound_source_inputs/A15_BLUE_ARCHIVE_EVENT_810_EPISODE_071_80000071_DEEP_READING.md), whole73-line normal argument; required private-use boundary and unprinted reception."
+        ],
+        "canonical_lines_complete_text": [
+          "- A01: [Shared private contextual account](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md), especially current279–293; private reports, UI and variants retain separate modes.",
+          "- A02: [EVENT826](../../02%20Sequential%20Readings/EVENTS/EVENT_826/BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md), substantive75–177/current29–47; achieved investigation, concealed use and unprinted recipient apology.",
+          "- A03: [EVENT839](../../02%20Sequential%20Readings/EVENTS/EVENT_839/BLUE_ARCHIVE_EVENT_839_CONTEXTUALIZATION_CHECKPOINT.md), prior substantive70–158/current29–47, available contextual comparison rather than an inferred universal Garden appearance.",
+          "- A04: [EVENT840](../../02%20Sequential%20Readings/EVENTS/EVENT_840/BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md), substantive65–149/current29–47; ordinary outing, touch boundary and qualified care/technical comparisons.",
+          "- A05: [EVENT859](../../02%20Sequential%20Readings/EVENTS/EVENT_859/BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md), substantive65–167/current29–47; complete fourteen meanings and finite ending, not a fresh fourteen-primary receipt.",
+          "- A06: [GROUP2601–2602](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md), substantive39–133; completed provisioning, local roles, choices and unrestored rumor reception.",
+          "- A07: [GROUP3401–3403](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md), substantive39–188; requested exercise, fear, apologies and actual start.",
+          "- A08: [Final V100C002E007](../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C002_E007_DEEP_READING.md), whole32-line small argument; assigned evacuation, not whole Final or all-recipient safety.",
+          "- A09: [EVENT805](../../02%20Sequential%20Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_PHASE2_CONTEXTUAL_COMPARISON_20261008.md), whole121-line current argument; pleasures, refused means, chosen return and unprinted repair.",
+          "- A11/A12: [Shun](../../02%20Sequential%20Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) and [Kokona](../../02%20Sequential%20Readings/BOND/KOKONA/BLUE_ARCHIVE_KOKONA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md), whole125/109-line retained checkpoints with current shared/Cycle008 qualification.",
+          "- A15: [Kokona gift071](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_071_80000071_DEEP_READING.md), whole73-line normal argument; required private-use boundary and unprinted reception."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          152,
+          170
+        ],
+        "canonical_lines": [
+          168,
+          186
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "### Fourteen inherited source-gap effects: all OPEN",
+          "",
+          "G01 **Ordinary and private breadth — OPEN.** These received ordinary repertoires justify intrinsic wants; they do not exhaust every student, worker or local child or turn source-local roles into universal persons.",
+          "G02 **Yuuka council/club decision transfer — OPEN.** No Millennium council mechanism or fiscal model is transferred to Meihua's provisioning or educational permissions.",
+          "G03 **Serika service, peer and reciprocity range — OPEN.** No analogous service scene certifies these merchants' reciprocal repair, fair compensation or the Garden's later duties.",
+          "G04 **Hina crisis causality, accountability and ordinary contrast — OPEN.** Local attacks, school hierarchy and good leisure do not inherit another school's crisis-causality or accountability conclusions.",
+          "G05 **Arius and PS68 ordinary/aftermath transfer — OPEN.** Their independent ordinary value does not fill Meihua's unprinted return, reconciliation or paid-compensation aftermath.",
+          "G06 **Cross-school ordinary repertoire — OPEN.** Admitted local food, rest and play support comparisons at stated source classes, not exhaustive cross-school habits or universal consent rules.",
+          "G07 **Story-world chronology — OPEN.** Local continuations, remembered yesterday and reported endings do not date a global institutional growth sequence or variant ladder.",
+          "G08 **Event naming and repeat contexts — OPEN.** Verified event/object identifiers route the arguments; repeated covers, holidays and story controls are not new enacted events or calendar proof.",
+          "G09 **Written speaker/choice attribution — OPEN.** Literal role reversals, internal adult lines, collective speech and alternative choices retain exact limits; contextual exchange does not silently repair every speaker key.",
+          "G10 **Performed voice — OPEN.** Comic force, fear, dignity and desire are interpretations of represented writing, not inspected pitch, acting, audiovisual blocking or native-language performance.",
+          "G11 **Hoshino's Yume record and office states — OPEN.** No memory/office-state claim from that separate branch supplies the Garden's authority, discipline, attendance or childhood history.",
+          "G12 **Counterpart, system and variant identity — OPEN.** Temporary covers,10025/10143 and late10144 remain source-scoped; gang names do not join GROUP children, system actors or every label of the same form.",
+          "G13 **Office, contract, safety and technical outcomes — OPEN.** Assignments and completed local acts do not certify medication, corporal-discipline safety, law, evacuation, a contract, payment, staffing reform or enduring educational success.",
+          "G14 **Unclassified/mode continuity — OPEN.** Written UI, BOND, GROUP, event, MAIN and necessary canonical-passage observations retain separate modes; their association grants no automatic acted or enacted continuity.",
+          "",
+          "**MI056.** Meihua's endpoint is therefore a bounded promise still worth keeping: it can feed, teach, protect and make room for pleasure through particular people answering one another. Its remaining debt is equally particular—rest not redistributed, refusal not always honored, gossip not fully repaired, apology or payment not carried through, children not shown safely returned. Those unfinished goods do not cancel the achieved meal, chosen walk, lesson start or wanted company. They explain why this care institution needs a literary argument whose recipients remain present after the institution has said what it meant to do. [A06:L75-L89] [A02:L117] [A07:L119] [A05:L136-L144] [A15:L45-L71]"
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "all_frozen_original_transports": [
+    {
+      "path": "MEIHUA_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_MEIHUA_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 48956,
+      "sha256": "0822a7e91af5831c61a17afdaee5721b46859d7c728d7bb5898ff701daa734a0",
+      "git_blob_oid_of_actual_bytes": "701d476cc98633255759fc61f5c99d4901e04851",
+      "immutable_transport_path": "immutable_originals/MEIHUA_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_MEIHUA_INSTITUTIONAL_SYNTHESIS.md"
+    },
+    {
+      "path": "MEIHUA_INSTITUTION_SYNTHESIS/MEIHUA_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 57233,
+      "sha256": "927e3a8d1be422174fde0f8d8c1cefa0d9015fec30e255b78e527c32e2667cc6",
+      "git_blob_oid_of_actual_bytes": "6ff6cfd1ee1d3d09382e02775a345a4e84ac0f94",
+      "immutable_transport_path": "immutable_originals/MEIHUA_INSTITUTION_SYNTHESIS/MEIHUA_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "MEIHUA_INSTITUTION_SYNTHESIS/MEIHUA_INSTITUTION_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 10587,
+      "sha256": "5df71649a7dae709b6ce9199f6e0ce4dda8ffef0da562b11c4bf2bba89530d21",
+      "git_blob_oid_of_actual_bytes": "6bb3a80b484f6564386b8a04d317b1ef34c3cec5",
+      "immutable_transport_path": "immutable_originals/MEIHUA_INSTITUTION_SYNTHESIS/MEIHUA_INSTITUTION_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+    },
+    {
+      "path": "ROOT_MEIHUA_INSTITUTION_AND_THREE_CHILD_NAMED_DUTY_ACCEPTANCE_V1.json",
+      "bytes": 5499,
+      "sha256": "73a1bc81c6bec24afc9487455ed1c67cf2b1e940121044db059f0160c2b168aa",
+      "git_blob_oid_of_actual_bytes": "d4b775679063074caef130cac4299249d90395fe",
+      "immutable_transport_path": "immutable_originals/ROOT_MEIHUA_INSTITUTION_AND_THREE_CHILD_NAMED_DUTY_ACCEPTANCE_V1.json"
+    },
+    {
+      "path": "MEIHUA_INSTITUTION_SYNTHESIS/MEIHUA_BOUNDED_CHILD_ATTRIBUTION_AND_ADDITIONAL_GIFT_BINDING_V1.json",
+      "bytes": 9465,
+      "sha256": "483c372c8b00d81b3013a504866af8f0f1369ec11d3c21b72dea0441a147d898",
+      "git_blob_oid_of_actual_bytes": "9698294fdeebabf3bd74b4145c7f727d731e30b2",
+      "immutable_transport_path": "immutable_originals/MEIHUA_INSTITUTION_SYNTHESIS/MEIHUA_BOUNDED_CHILD_ATTRIBUTION_AND_ADDITIONAL_GIFT_BINDING_V1.json"
+    },
+    {
+      "path": "MEIHUA_INSTITUTION_SYNTHESIS/MEIHUA_INITIALLY_BOUND_CURRENT_INPUTS_AND_SOURCE_RECOVERY_DEBT_V1.json",
+      "bytes": 28258,
+      "sha256": "d853c64ee5b2289c5d358647a43bb02b46ddc776bcfe4b32eb25768127d4509d",
+      "git_blob_oid_of_actual_bytes": "9d259476741e5e5eb9189966b833e05838219a74",
+      "immutable_transport_path": "immutable_originals/MEIHUA_INSTITUTION_SYNTHESIS/MEIHUA_INITIALLY_BOUND_CURRENT_INPUTS_AND_SOURCE_RECOVERY_DEBT_V1.json"
+    },
+    {
+      "path": "MEIHUA_INSTITUTION_SYNTHESIS/MEIHUA_INSTITUTION_CLAIM_ENDPOINT_RIVAL_AND_NAMED_REGISTER_V1.json",
+      "bytes": 175920,
+      "sha256": "1da07c5ca9b24c86fe6303edfdb76049af507f370d82c7a372ce0190790ae7ce",
+      "git_blob_oid_of_actual_bytes": "e1f304c2f2361d4737be5d8361ff502b856a0d71",
+      "immutable_transport_path": "immutable_originals/MEIHUA_INSTITUTION_SYNTHESIS/MEIHUA_INSTITUTION_CLAIM_ENDPOINT_RIVAL_AND_NAMED_REGISTER_V1.json"
+    },
+    {
+      "path": "MEIHUA_INSTITUTION_SYNTHESIS/MEIHUA_INSTITUTION_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 5927,
+      "sha256": "0548755ca785a6a7ae754ad6962ddd92dc276e646722018171f9809b06ad71ae",
+      "git_blob_oid_of_actual_bytes": "8aeb7cdc04dca50b57bb0918b3e0fe3644806b0a",
+      "immutable_transport_path": "immutable_originals/MEIHUA_INSTITUTION_SYNTHESIS/MEIHUA_INSTITUTION_SAVED_OUTPUT_RECEIPT_V1.json"
+    }
+  ],
+  "canonical_link_translations": [
+    {
+      "original_candidate_href": "bound_source_inputs/A01_BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "operative_canonical_href": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "occurrences": 1,
+      "unchanged_source_exact_tuple": {
+        "byte_count": 82988,
+        "sha256": "785146763dabcffa26ebd55d9e87b0d55bb3dc8d5bc2b173b548b461b6b49ba0",
+        "actual_byte_blob_oid": "c9a04680387eaa1fffac1d9b098d531ae5d75a26"
+      }
+    },
+    {
+      "original_candidate_href": "bound_source_inputs/A02_BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_826/BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+      "operative_canonical_href": "../../02%20Sequential%20Readings/EVENTS/EVENT_826/BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+      "occurrences": 1,
+      "unchanged_source_exact_tuple": {
+        "byte_count": 32334,
+        "sha256": "287c1549225c6c17cb398c686b87f23cc7c062a8e7dabfa4c0bcd67f9ff5361b",
+        "actual_byte_blob_oid": "59694ca045d8c38d8772d95929e9ee55f2fb0f63"
+      }
+    },
+    {
+      "original_candidate_href": "bound_source_inputs/A03_BLUE_ARCHIVE_EVENT_839_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_839/BLUE_ARCHIVE_EVENT_839_CONTEXTUALIZATION_CHECKPOINT.md",
+      "operative_canonical_href": "../../02%20Sequential%20Readings/EVENTS/EVENT_839/BLUE_ARCHIVE_EVENT_839_CONTEXTUALIZATION_CHECKPOINT.md",
+      "occurrences": 1,
+      "unchanged_source_exact_tuple": {
+        "byte_count": 27920,
+        "sha256": "f4966f3e986af6f41f1690f9530f0c9940cb04ffc900915d21bdd0e18c6d8da0",
+        "actual_byte_blob_oid": "743ae69336f3ef32aaa75871876dbefdc6f6ff98"
+      }
+    },
+    {
+      "original_candidate_href": "bound_source_inputs/A04_BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_840/BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+      "operative_canonical_href": "../../02%20Sequential%20Readings/EVENTS/EVENT_840/BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+      "occurrences": 1,
+      "unchanged_source_exact_tuple": {
+        "byte_count": 30602,
+        "sha256": "a1fb6c0af2aa8b2e293208bbe0ecdb7638aece543487fcf838f790ffbbd8dc97",
+        "actual_byte_blob_oid": "54bbf27e8b011bba415d4bbfb0a61499bf2ada92"
+      }
+    },
+    {
+      "original_candidate_href": "bound_source_inputs/A05_BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_859/BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+      "operative_canonical_href": "../../02%20Sequential%20Readings/EVENTS/EVENT_859/BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+      "occurrences": 1,
+      "unchanged_source_exact_tuple": {
+        "byte_count": 38768,
+        "sha256": "05ff9e56135ff5d1535d4bb2196a93f09fef0ca99fb7503f15f9ddd3fd54fa86",
+        "actual_byte_blob_oid": "99b6b100bbe3f523338af7c70c22b6c59b11bfb9"
+      }
+    },
+    {
+      "original_candidate_href": "bound_source_inputs/A06_BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md",
+      "operative_canonical_href": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md",
+      "occurrences": 1,
+      "unchanged_source_exact_tuple": {
+        "byte_count": 20799,
+        "sha256": "316a2761199732a5c0055ba67f610cc0ac2192da4d29c5b46cf1c5cd279b56fb",
+        "actual_byte_blob_oid": "f419295b45330ccfc5022601d129bff061507fc1"
+      }
+    },
+    {
+      "original_candidate_href": "bound_source_inputs/A07_BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+      "operative_canonical_href": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+      "occurrences": 1,
+      "unchanged_source_exact_tuple": {
+        "byte_count": 31969,
+        "sha256": "ff1752082d3d7c96246c8c169967045cb4e20204c07ea4019eced928aaed906e",
+        "actual_byte_blob_oid": "6c498e138ba8daa74bfa4cc3614a10fa2cdd6fe7"
+      }
+    },
+    {
+      "original_candidate_href": "bound_source_inputs/A08_BLUE_ARCHIVE_MAIN_V100_C002_E007_DEEP_READING.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E007_DEEP_READING.md",
+      "operative_canonical_href": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C002_E007_DEEP_READING.md",
+      "occurrences": 1,
+      "unchanged_source_exact_tuple": {
+        "byte_count": 3387,
+        "sha256": "adb61ebf9b84e3ca80b63ff45134ffed027b060b0a8fe252bc723a00bb453c1b",
+        "actual_byte_blob_oid": "881ca30c257e77d4b9eaa9808f0a6c896d29e24d"
+      }
+    },
+    {
+      "original_candidate_href": "bound_source_inputs/A09_BLUE_ARCHIVE_EVENT_805_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "operative_canonical_href": "../../02%20Sequential%20Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "occurrences": 1,
+      "unchanged_source_exact_tuple": {
+        "byte_count": 17785,
+        "sha256": "cc1bcd269132e5b744f5bdf1da94327ae9fd299045b7151bc38553c8c8baa05f",
+        "actual_byte_blob_oid": "ce7f643a3008fd60c61fecf92e27258a975ba7b2"
+      }
+    },
+    {
+      "original_candidate_href": "bound_source_inputs/A11_BLUE_ARCHIVE_SHUN_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "operative_canonical_href": "../../02%20Sequential%20Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "occurrences": 1,
+      "unchanged_source_exact_tuple": {
+        "byte_count": 17034,
+        "sha256": "4a02ae145c0e7aaabe324861782a5fadd5dbcb46f5cf87fcf04e8d0d5bf2e0cf",
+        "actual_byte_blob_oid": "6c10cd13188bc94efb479f502f657458b814c7b2"
+      }
+    },
+    {
+      "original_candidate_href": "bound_source_inputs/A12_BLUE_ARCHIVE_KOKONA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/BOND/KOKONA/BLUE_ARCHIVE_KOKONA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "operative_canonical_href": "../../02%20Sequential%20Readings/BOND/KOKONA/BLUE_ARCHIVE_KOKONA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "occurrences": 1,
+      "unchanged_source_exact_tuple": {
+        "byte_count": 13807,
+        "sha256": "4b112267b233de002b0d8fd862cab9d31d8b94a85bb75585d21b837412c72fe8",
+        "actual_byte_blob_oid": "0bbe89a2fec0bd33dd5078e993ac2a1314253b6f"
+      }
+    },
+    {
+      "original_candidate_href": "bound_source_inputs/A15_BLUE_ARCHIVE_EVENT_810_EPISODE_071_80000071_DEEP_READING.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_071_80000071_DEEP_READING.md",
+      "operative_canonical_href": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_071_80000071_DEEP_READING.md",
+      "occurrences": 1,
+      "unchanged_source_exact_tuple": {
+        "byte_count": 7781,
+        "sha256": "118b5385e84ece503bf397085c4496127184f7e98dcf6721d8459118194279f0",
+        "actual_byte_blob_oid": "f840661a4019d34cdbab63f3c8b564ca58de3818"
+      }
+    }
+  ],
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

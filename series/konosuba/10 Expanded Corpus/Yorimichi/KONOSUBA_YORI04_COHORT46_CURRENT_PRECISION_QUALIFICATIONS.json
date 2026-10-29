@@ -1,0 +1,77 @@
+{
+  "schema": "konosuba.cohort46.current-precision-addendum.v1",
+  "authored_utc": "2026-10-25T09:13:29.268623+00:00",
+  "scope": "Current additive interpretation of the identified claims. Read with the historical accepted YORI04 report and its47qualifications. No original body, uncoded history, model, first or adjudication is replaced.",
+  "historical_authorities": [
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI04_DEEP_READING.md",
+      "bytes": 50978,
+      "sha256": "d295fdc9625142e43c9117700cd0b0d86186b0bfb8be4b991602f9c9b403a5d8"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI04_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 12682,
+      "sha256": "717e16c7c444b5d7f1cf8ed8f854ddfb0feab6289b76c0f98e6cbf5e9a9defd6"
+    }
+  ],
+  "historical47findings_retained": true,
+  "native_provenance_sha256": "c7bca8583cfc4bab34ebdd809a6fc250c47fa42be2903501eeadbbb2d151e237",
+  "findings": [
+    {
+      "id": "C46-Q01",
+      "target": "Historical YORI04 deep report paragraph beginning Vanir's humiliating consultation; originalQ12.",
+      "historical_assertion": "Megumin's preliminary Explosion undermines that purpose; Escort warming Explosion undermines rest.",
+      "current_qualification": "U012500-506 elides a three-minute investigation and identifies Megumin's Explosion as the warming cause. It does not explicitly narrate a newly performed preliminary cast during that escort. U012289-291 separately refers to a daily cast, and U014445 is a distinct emergency. Count neither as an explicitly performed escort cast on this basis. This does not establish that no unshown cast could have occurred. Retain the no-actual-dragon, unperformed slime fallback and temporary-relief findings.",
+      "source": "YORI04U012289-291/480-527/531-545;U014445;U02070",
+      "change_type": "Evidence-backed limitation of an overexplicit historical action claim."
+    },
+    {
+      "id": "C46-Q02",
+      "target": "Historical census115 substantive_responsibility MAIN17 supplement: his own defensive account.",
+      "current_qualification": "The native MAIN17U011330-331 is gender-unmarked and retrospectively attributes Eavesdrop and the class-name defense. YORI04U014 identifies the particular narrator as female and separately introduces female Assassin156-163. Use that controlling context; the historical English his own wording establishes no male teacher. The accepted MAIN17 report81 already uses neutral wording and is not the source of that pronoun. Original lesson/authorization conditions remain unshown.",
+      "source": "YORI04U01417-22/156-163/436-440;MAIN17U011326-331",
+      "change_type": "Current census interpretation, precisely attributed; historical field retained."
+    },
+    {
+      "id": "C46-Q03",
+      "target": "Anna identity, unseen acts and book attribution.",
+      "current_qualification": "Retain the full-name grave/printed-author join. MAIN02U016452 expressly attributes the hostile doll case to wandering ghosts, while350-354 identifies the red-eyed girl as Megumin. Aqua-mediated requests and nods retain their focalization; MAIN16U0134 confirms her own absorption caused a missed coach, not Anna's independently proved strategic intention. Printed YORI04 author name675 does not witness writing, publishing or placing the book. Mineral play is not an actual birth. Child treatment remains age appropriate and nonsexual.",
+      "source": "MAIN02U016239/334-452/517-525;MAIN16U01129-44/U0134;YORI01U012286-335;YORI04U018671-678/U020509-515",
+      "change_type": "Positive identity with explicit action exclusions and access boundaries."
+    },
+    {
+      "id": "C46-Q04",
+      "target": "DUST-CONT reported Dark Stalker and YORI04woman115.",
+      "current_qualification": "Keith120 and Lolisa162 report a class-named gossip source, while Dust questions identity126/163 and explains the class164. No name, sex or restoration bridge permits an individual join. Thematic likeness is not a confirmation of115, a witnessed earlier spying act or a second certified person.",
+      "source": "DUSTCONTU01095-175",
+      "change_type": "Unjoined source/access route retained."
+    },
+    {
+      "id": "C46-Q05",
+      "target": "Unnamed YORI04 shop-worker occurrences and collective succubus dialogue.",
+      "current_qualification": "Day/evening recognition348-351 is explicit. Reservation363-365 and the night visit403-408 support qualified narrative continuity without a personal name. Later queue/ban turns553-556 are not all individually tagged;567-569 remains a separate unjoined youthful-looking worker. No positive bridge to Lolisa, MASK leader/older fan or C45messenger. Forecasts432 and K reported life loss448 are not a witnessed extinction sequence.",
+      "source": "YORI04U016285-314/348-448/455-467/553-569",
+      "change_type": "Local continuity with explicit limits; no global distinct-person claim."
+    },
+    {
+      "id": "C46-Q06",
+      "target": "Angie protection, pursuit and outcomes.",
+      "current_qualification": "The first chase onset551-555 is elided. Flower hit579 occurs during pursuit, not a witnessed origin of it. Her protective turn591-604 is costly; the ultimate is interrupted, she is injured613 and receives Heal624. Exact all-ore division and proposed trade/dinner remain unshown. Later locust work is partly inferred from returned conditionU020404-410; the brawl485 is collective and drawn. Preserve both valid concern and false Yunyun blame138-142.",
+      "source": "YORI04U018438-665;U020108-168/404-486",
+      "change_type": "Performed/report/proposed and individual/group boundaries retained."
+    },
+    {
+      "id": "C46-Q07",
+      "target": "Principal models, resurrection accounting and current diagnostics.",
+      "current_qualification": "K's no-count formulationU020355-357 does not erase a lethal crushing, and477 explicitly reports revival. U020215/228 direct threats/Steal are not a polite-surface K08 confirmation; D/M disagreement302-307 does not instantiate the whole E08 conjunction. Current known-source reading cannot backfill frozen R1/holdout/Gen05 scores or become independent validation. All67 entering models and all original/blank/null histories remain exact.",
+      "source": "YORI04U020205-230/295-307/353-357/477",
+      "change_type": "No retrospective score or global capability inflation."
+    }
+  ],
+  "foundation_accepted": false,
+  "canonical_changes": false,
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "full_program_complete": false,
+  "status_time_basis": "Pre-review authored addendum; current acceptance/publication is separately evidenced, without rewriting this authorship record."
+}

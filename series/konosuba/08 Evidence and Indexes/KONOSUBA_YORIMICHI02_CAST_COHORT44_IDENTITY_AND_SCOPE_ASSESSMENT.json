@@ -1,0 +1,32 @@
+{
+  "schema": "konosuba.cohort44.identity-and-proportional-scope.v1",
+  "authorship_phase": "After complete primary, earlier-analytical and identity-context receiving; before foundation review/freeze, exact inputs and first bodies",
+  "source_known_same_informed_root": true,
+  "monographs": [
+    {"row": 102, "subject": "Particular YORI02 dryad", "tier": 3, "private_file": "DRYAD_MONOGRAPH_DRAFT_01.md", "public_filename": "KONOSUBA_DRYAD_CHARACTER_MONOGRAPH.md", "model": true, "rules": ["DRY-R01"], "reason": "Living-dependent claims, resource seeking, conditional cooperation and an expired-plant/water settlement constrain one narrow generator; threats, mediation and generic rivals prevent a maturity or independent-discrimination claim."},
+    {"row": 104, "subject": "Unnamed female noble dinner host", "tier": 2, "private_file": "NOBLE_DINNER_HOST_MONOGRAPH_DRAFT_01.md", "public_filename": "KONOSUBA_NOBLE_DINNER_HOST_CHARACTER_MONOGRAPH.md", "model": false, "rules": [], "reason": "Invitation, household claim, immediate cage safety, debt, withheld method, admission and flight warrant a substantial account. Other nobles' lines are separate; exact incentive weights and general policy remain unisolated."},
+    {"row": 105, "subject": "White-tiger mother", "tier": 2, "private_file": "WHITE_TIGER_MOTHER_MONOGRAPH_DRAFT_01.md", "public_filename": "KONOSUBA_WHITE_TIGER_MOTHER_CHARACTER_MONOGRAPH.md", "model": false, "rules": [], "reason": "Evasion, entrusting care, waiting, approach and coercive transport form a substantial nonverbal sequence. Exact motives and the final operation are not supplied; neither power nor animal status fixes a tier ceiling."},
+    {"row": 106, "subject": "Siegwald / ジークヴァルト", "tier": 2, "private_file": "SIEGWALD_MONOGRAPH_DRAFT_01.md", "public_filename": "KONOSUBA_SIEGWALD_CHARACTER_MONOGRAPH.md", "model": false, "rules": [], "reason": "Multi-scene recovery, play, sleep, garment use and separation behavior earn an individual ordinary-life study. Generic juvenile/comfort/state rivals and untested comprehension limit a generator."},
+    {"row": 456, "subject": "Unnamed Wolbach follower", "tier": 2, "private_file": "WOLBACH_FOLLOWER_MONOGRAPH_DRAFT_01.md", "public_filename": "KONOSUBA_WOLBACH_FOLLOWER_CHARACTER_MONOGRAPH.md", "model": false, "rules": [], "reason": "Particular reverence, coercion, route changes, new leverage and failed superiority earn an individual account. No borrowed Hoost/Arnes identity or model; broader transfer and final fate remain open."},
+    {"row": 457, "subject": "Particular storm great spirit", "tier": 2, "private_file": "STORM_GREAT_SPIRIT_MONOGRAPH_DRAFT_01.md", "public_filename": "KONOSUBA_STORM_GREAT_SPIRIT_CHARACTER_MONOGRAPH.md", "model": false, "rules": [], "reason": "Refusal, selective impacts, provoked pursuit, relief, bow and disputed gift warrant substantial treatment. Physiology, language and private purpose are mediated/underdetermined; no fulfilled final gust or added generator."}
+  ],
+  "bounded_profile_rows": [103,119,120,121,463,465,466,475,478,479,484,486,487,495,497,498,505,507,509,510,511],
+  "bounded_profile_count": 21,
+  "existing_Chomusuke21_source_supplement_only": true,
+  "existing_Chomusuke_tier_priority_disposition_and_frozen_study_unchanged": true,
+  "existing_Anna118_identity_and_future_study_unchanged": true,
+  "new_source_records": {"first_row": 456, "last_row": 511, "count": 56, "Tier2": 2, "Tier1": 17, "Tier0": 37, "not_a_unique_person_increment": true},
+  "proposed_targeted_existing_rows": [21,102,103,104,105,106,119,120,121],
+  "planned_other_existing_rows_exact_per_plane": 447,
+  "planned_historical_canonical_private_differences_exact": [5,6,7,8,12,13,43,78,123,124,125,137,142,143,168,170,171,172,177],
+  "proposed_artifact_totals": {"models": 65, "source_scoped_secondary_model_entries": 59, "bounded_profiles": 138, "monograph_only_routes": 45, "nonfinal_source_access_records": 512, "not_distinct_people_or_independent_observations": true},
+  "proposed_census_part_counts": [80,80,80,80,80,80,32],
+  "current_native_scope": {"unique_P": 2675, "ruby_occurrences": 2530, "full_paragraph_projection_members": 10, "actual_pages": 57, "C43_window_return_P": 37, "current_images": 0, "current_nonparagraph_residuals": 0, "current_whole_edition_credit": false, "new_global_source_first_credit": 0},
+  "earlier_analytical_context_pages_fully_received": 13,
+  "identity_context_pages_fully_received": 16,
+  "all456_labels_routing_only": true,
+  "independent_observation_count": null,
+  "no_model_maturity_accuracy_grade_or_confidence_gain": true,
+  "canonical_C44_changes": false,
+  "full_program_complete": false
+}

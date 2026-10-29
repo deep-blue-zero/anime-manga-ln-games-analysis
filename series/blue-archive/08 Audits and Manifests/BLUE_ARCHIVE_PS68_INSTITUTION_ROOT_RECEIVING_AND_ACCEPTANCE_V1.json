@@ -1,0 +1,321 @@
+{
+  "schema": "BLUE_ARCHIVE_PS68_INSTITUTION_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_COMPLETE_CANONICAL_INSTALLATION_PENDING",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PS68_COMMAND_FINANCE_INSTITUTION_SYNTHESIS.md",
+  "current_scope": "355required/29mandatory non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_source_beforeimage": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+  "dated_source_tree": "e6b570d622c4a56f6b98c29c9eb78e2e90025618",
+  "accepted_first_milestone_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "accepted_package_sequence": [
+      126,
+      128
+    ],
+    "new_packages": 3,
+    "after_complete_ROOT_install": 128,
+    "characters": 96,
+    "directed_relationships": 16,
+    "ensembles": 5,
+    "institutions": 11,
+    "named_duties_after_complete_ROOT_install": 13,
+    "published_before_successor": 125,
+    "merged_main": 89,
+    "next_milestone": 178,
+    "later129plus": "EXCLUDED_FROM_FIXED_PROPOSAL",
+    "automatic_chain_required_before_assembly": "ROOT_ACCEPTED_EXACT_5933_SOURCE125_HOUSEKEEPING_FINAL_PASS",
+    "new_named_duty_completions_from_prior_ROOT_acceptance": 3,
+    "mechanical_transport_credit": 0
+  },
+  "current_source125_complete_chain": {
+    "original_exact_tuple": {
+      "path": "ROOT_5933_SOURCE125_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+      "bytes": 6067,
+      "sha256": "b5a025b1958cfa8a08e0e629fb717fa8b6798cff77628b55ce5ec2516a392285",
+      "git_blob_oid_of_actual_bytes": "40e3bcdbdccd017bbc2760b4a6394f9d1f8de5fc",
+      "immutable_transport_path": "immutable_originals/ROOT_5933_SOURCE125_PUBLICATION_CHAIN_ACCEPTANCE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "blue-archive/root-5933125-complete-publication-chain-acceptance/v1",
+      "decision": "ACCEPT_EXACT_SOURCE_HOUSEKEEPING_FINAL_COMPLETE_AUTOMATIC_CHAIN",
+      "checked_UTC": "2026-10-11T01:58:48.077877+00:00",
+      "source": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source_tree": "e6b570d622c4a56f6b98c29c9eb78e2e90025618",
+      "source_parent": [
+        "c6908f2dba6f3b379bb84679fdd01175ac5894da"
+      ],
+      "original_capture": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_5933_SOURCE125_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+        "bytes": 34450,
+        "sha256": "6b95193c1198831daf874d47595b7ec51ce60f85bedadd49e1c7ef8dead49218",
+        "git_blob_sha1": "dd331b3b4987a3f4a7c21dbcce35c229a6a843e8"
+      },
+      "runs_and_actual_execution": [
+        {
+          "role": "SOURCE",
+          "run": {
+            "id": 38102191860,
+            "name": "Repository audit",
+            "event": "push",
+            "head_sha": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38102191860",
+            "created_at": "2026-10-11T01:32:42Z",
+            "updated_at": "2026-10-11T01:47:43Z"
+          },
+          "complete_log": {
+            "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 359172,
+            "lines": 2272,
+            "sha256": "18ec5a000a17e67b7e8a30cd4d125105a083b281f44d9f0f5b177edc05a84873",
+            "git_blob_oid_of_actual_bytes": "a3aa4d3cd5ec102332d8675433fb6f82c46ae464"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+          "actual_execution": {
+            "commit": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        },
+        {
+          "role": "HOUSEKEEPING",
+          "run": {
+            "id": 38103024197,
+            "name": "Global index housekeeping",
+            "event": "workflow_run",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38103024197",
+            "created_at": "2026-10-11T01:47:45Z",
+            "updated_at": "2026-10-11T01:48:05Z"
+          },
+          "complete_log": {
+            "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 44358,
+            "lines": 267,
+            "sha256": "9aab774b9d1e452463ee7aba2f91de8ffd15747c41aa1e6c53a65e6c885a41ed",
+            "git_blob_oid_of_actual_bytes": "fcd993f48bad8d54a98be762d444dab15a5b431b"
+          },
+          "actual_noop_and_dispatch_witnesses": [
+            {
+              "line": 265,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T01:48:03.3420005Z PASS: dispatched the full audit for 5933ee5e3859049509357c06e739ef91e0e7c98c"
+            },
+            {
+              "line": 266,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T01:48:03.3421274Z PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+            }
+          ]
+        },
+        {
+          "role": "FINAL_FULL_AUDIT",
+          "run": {
+            "id": 38103041900,
+            "name": "Repository audit",
+            "event": "repository_dispatch",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38103041900",
+            "created_at": "2026-10-11T01:48:04Z",
+            "updated_at": "2026-10-11T01:55:53Z"
+          },
+          "complete_log": {
+            "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 358656,
+            "lines": 2267,
+            "sha256": "5952f303becb464fec3fdd9b13984acddbf301022717e62b3dfadfc0bfa4f0a0",
+            "git_blob_oid_of_actual_bytes": "86e7805cbef04bcb9b120a6159e22ab08069e0d7"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+          "actual_execution": {
+            "commit": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        }
+      ],
+      "exact_final_status": {
+        "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/5933ee5e3859049509357c06e739ef91e0e7c98c",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "id": 56070978939,
+        "node_id": "SC_kwDOUJ9ads8AAAANDhc9ew",
+        "state": "success",
+        "description": "Exact commit passed the repository audit",
+        "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38103041900",
+        "context": "Repository integration audit",
+        "created_at": "2026-10-11T01:55:51Z",
+        "updated_at": "2026-10-11T01:55:51Z"
+      },
+      "ROOT_actual_execution_summary_receiving": "4af798",
+      "whole_log_human_reading_claim": false,
+      "progress": "Published125/merged89; ROOTaccepted128 remains separate. Nextmerge178/full355cast target unchanged; zero new literary acceptance or milestone.",
+      "source_or_repository_mutations": 0,
+      "all14_original_gaps": "OPEN_UNCHANGED",
+      "UNBOUND9_and_unpublished39": "UNREAD_UNHASHED_UNCHANGED"
+    }
+  },
+  "original_exact_tuple": {
+    "path": "ROOT_PS68_INSTITUTION_AND_SUBSTANTIAL_BELONGING_COMPLETE_ACCEPTANCE_V1.json",
+    "bytes": 6292,
+    "sha256": "1f9034242a6e428b2884bd09248664fb1abfce62930468e64c6c08564af1f1e0",
+    "git_blob_oid_of_actual_bytes": "29a76c210849fc6360ba7e13e28f72edc0a0444f",
+    "immutable_transport_path": "immutable_originals/ROOT_PS68_INSTITUTION_AND_SUBSTANTIAL_BELONGING_COMPLETE_ACCEPTANCE_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "ROOT_PS68_INSTITUTION_AND_SUBSTANTIAL_NAMED_BELONGING_COMPLETE_ACCEPTANCE_V1",
+    "created_UTC": "2026-10-11T01:03:09.999449+00:00",
+    "decision": "ACCEPT_COMPLETE_SOURCE_SCOPED_INSTITUTION_AND_SUBSTANTIAL_BELONGING_ARGUMENT_WITH_LIMITS",
+    "existing_home": "P3-INST-PS68-COMMAND-FINANCE-RESPONSIBILITY",
+    "original_responsibility": "GEHENNA::significant_relationship_and_institution_responsibilities::10",
+    "mandatory_named_duties": [
+      "P3-ENSEMBLE-PS68-BELONGING"
+    ],
+    "accepted_ordinal": 127,
+    "ROOT_accepted_packages_after": {
+      "CHAR": 95,
+      "REL": 16,
+      "ENS": 5,
+      "INST": 11,
+      "SENSEI": 0,
+      "REGISTER": 0,
+      "total": 127
+    },
+    "mandatory_named_duties_completed_after": 13,
+    "prior126_acceptance": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_HARUKA_ARU_MUTSUKI_COMPLETE_SOURCE_SCOPED_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json",
+      "bytes": 8800,
+      "sha256": "2354a8ab12948791f723ddfae8fd9a4a513c2e8857a779ace4422e0faaeea6d2",
+      "git_blob_sha1": "4c17de9fa9964c036777f61f8e09f8180cf20fcf"
+    },
+    "body": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/BLUE_ARCHIVE_PS68_COMMAND_FINANCE_INSTITUTION_SYNTHESIS.md",
+      "bytes": 43579,
+      "sha256": "41db704792300fe5baee8695513b59d050269c31169fe457ce141ed04de59423",
+      "git_blob_sha1": "0b7a53d9e02afaeb8294a5abdf6c81957ad9ebc7"
+    },
+    "author_manifest": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_DELIVERY_MANIFEST_V1.json",
+      "bytes": 30534,
+      "sha256": "5a627312a3fa5d6c19d485fce019e7c4d155cdd42421b337f6e412a1458c3191",
+      "git_blob_sha1": "760243b47de235db93fbe1616ee4406932d1ede9"
+    },
+    "author_freeze": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_FINAL_FREEZE_V1.json",
+      "bytes": 1758,
+      "sha256": "b2f086c52098d2f12cea932d4f1cfd5038ee0f3230c45b369b11785b3d8e94f8",
+      "git_blob_sha1": "ad93dc7214c4d63eba8ad09f5ddd3e746ca041f0"
+    },
+    "ROOT_actual_independent_receiving": {
+      "complete_saved242_body": [
+        "febae1:1-80",
+        "90c42a:81-160",
+        "3889b7:161-242 EOF"
+      ],
+      "all19_meaningful_source_grades": [
+        "9a1c1a:1-4",
+        "6a289a:5-8",
+        "b1488c:9-12",
+        "ce0f92:13-16",
+        "61a4f3:17-19"
+      ],
+      "whole_meaningful_author_control_inverse_manifest_and_freeze_fields": "23fcab",
+      "all54_claim_associations": [
+        "ebd60f:1-18",
+        "7e0702:19-36",
+        "fea4e7:37-54"
+      ],
+      "exact_finite43_files_50_C_bindings_242_lines_54_joins_80_spans_19_refs_nine_inverse_changes": "1fe820",
+      "ROOT_fresh_consequential_normal_meanings": [
+        "ac5cf4:MAIN149-169/229-239 andEVENT80989-112",
+        "3df260:EVENT834137-165 and wholeFinalC003E00939/C004E00238/C004E00434"
+      ],
+      "adequate_connected_MINI130_150_GROUP_and_private_comparison_reuse": "ROOT independently received8f724d/aeed1e/23dd7f/7a8e6f/39e723/31eac6; this study does not grant a fresh whole19-normal or private-primary reading claim.",
+      "positive_home_and_substantial_named_allocation": "ba9fa4 with exact finite295c7b"
+    },
+    "literary_adjudication": {
+      "institution_thesis": "Wanted common company and local coordinated success remain answerable to command, scarcity, unequal work, recipient assent and unfinished external costs.",
+      "distinct_actions": "MAIN uncommanded destruction plus post hoc ratification, GROUP deliberate retaliation order, MINI protective surrender and coordinated rescue remain distinct.",
+      "resources": "Savings, wages, toys and business wishes have differentiated stakes; reported rent and profit are not inspected solvency, and enjoyed dinner does not pay lost wages or repair a hotel.",
+      "ordinary_intrinsic_life": "Clothing, study, cinema, play, opera, music, cats, gardening, coffee and refusals retain independent value without a crisis utility or model requirement.",
+      "named_belonging": "Section7/P028-P037 is a complete independently substantial1046-word argument about recognition, prior gardening, explicit objection, rescue, actual dinner, limits on repayment and unequal costs. It is not proxy membership or completion of the separate character/directed homes.",
+      "independent_agency": "Aru, Mutsuki, Kayoko and Haruka retain different wants and fallible contributions; guest Ibuki and external clients, hostages and harmed recipients keep separate agency.",
+      "meaning_limits": "Printed report, replay, private thought, choice, source-local order and narrator-confirmed outcomes remain distinct; label seams and comparator-only event scopes are explicit.",
+      "rivals": "Six serious rivals and six finite ending tests survive, including affection-absolves-harm, universal leader/brake, unlimited gratitude and quiet-evidence exclusion.",
+      "actual_endpoints": "Rescue, arrest, dinner, flowering, shared seating and local terminal cut receive their actual grade; conviction, enduring finances, completed repair, transplantation and universal cure are unprinted."
+    },
+    "all14_original_gaps": "OPEN_UNCHANGED_STABLE_TOPICS_AND_CLAIM_SPECIFIC_EFFECTS",
+    "model_source_identity_scope_credit": 0,
+    "package_increment": 1,
+    "mandatory_named_increment": 1,
+    "source_publication_at_acceptance": {
+      "source": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+      "published_packages": 120,
+      "merged_packages": 89,
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "complete_chain_ROOT_acceptance": "ROOT_C690_SOURCE120_PUBLICATION_CHAIN_ACCEPTANCE_V1.json SHA7217d639a9209d16e7a3d7c27fced79ccb2e08bbae8ad0c40d7a08f56d343d6d"
+    },
+    "fixed_121_to125_publication_proposal": "UNCHANGED_EXCLUDES_LATER126_AND127",
+    "canonical_installation_publication_merge": "NOT_PERFORMED_BY_THIS_ACCEPTANCE",
+    "protected_H_private_original_UNBOUND9_unpublished39_content_hash_access": 0,
+    "full_goal": "ACTIVE355 packages,29 mandatory named duties across25 parents; next merge178."
+  },
+  "historical_payload_qualification": "Every dated pending/local/source114/7a/source120/source125-chain-pending/count/custody and relative-navigation field preserves creation-time meaning. Full original C bytes and literal/body inverses survive. Current ROOT acceptance is separately bound; mechanical transport supplies no new author, source, independent, primary/native/raw/QA/AV, model or scope credit. Original hashes bind originals rather than their public derivatives.",
+  "original_relative_navigation_boundary": "Historical payload hrefs retain their original document coordinates; explicit canonical body translations and public attachment descriptors supply current navigation. Historical relative literals are not fresh live-source reading.",
+  "assembler_receiving_credit": {
+    "new_primary_native_raw_QA_AV_model_identity": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PS68_COMMAND_FINANCE_INSTITUTION_SYNTHESIS.md",
+    "bytes": 46544,
+    "sha256": "def0590d78ff8ab62519b7710e4abe95064f3569445bdb49a7ecbb4f4e852a80",
+    "git_blob_oid_of_actual_bytes": "01552450d982694fa73b5538217baee0bc0d3bce"
+  },
+  "authority_framing_changes": {
+    "historical_frontmatter_fields": [
+      "ROOT_acceptance",
+      "artifact_type",
+      "canonical_adoption",
+      "canonical_completion_credit",
+      "canonical_home",
+      "canonical_target",
+      "counts_as_ROOT_accepted_completed",
+      "do_not_use_as_current_authority",
+      "generation",
+      "publication_state",
+      "root_acceptance",
+      "stage_state",
+      "status",
+      "version"
+    ],
+    "inserted_current_boundary": "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PS68_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PS68_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/source114/7a/source120/source125-chain-pending/count statements remain creation-time history. Published125 source 5933ee5e3859049509357c06e739ef91e0e7c98c/tree e6b570d622c4a56f6b98c29c9eb78e2e90025618 has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed three-package126–128 proposal takes effect only through complete ROOT installation, yielding128 (96character/16directedrelationship/5ensemble/11institution) and13 completed non-denominator named duties, including the three prior ROOT-adjudicated substantial sections within two parents. Later129+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** All242 literary lines and the independently substantial belonging section retain all four wishes, objections, unequal costs and wanted company alongside command, contracts, resources and public responsibility. The exact43-file author manifest and25 explicit dependencies remain preserved, including complete body/claim/source/receiving inverses. Nineteen normal-source grades and54 claims/80 spans retain actual own receiving versus attributed prior custody; no fresh whole-source or primary credit arises from tuple transport. Belonging is a non-denominator substantial section within one institution parent. Haruka/Aru/Mutsuki directions, Kayoko–Ako and individual portraits remain separately required.",
+    "all_original_literary_paragraphs_unchanged_except_exact_href_translation": true
+  },
+  "mandatory_operative_qualification": "All242 literary lines and the independently substantial belonging section retain all four wishes, objections, unequal costs and wanted company alongside command, contracts, resources and public responsibility. The exact43-file author manifest and25 explicit dependencies remain preserved, including complete body/claim/source/receiving inverses. Nineteen normal-source grades and54 claims/80 spans retain actual own receiving versus attributed prior custody; no fresh whole-source or primary credit arises from tuple transport. Belonging is a non-denominator substantial section within one institution parent. Haruka/Aru/Mutsuki directions, Kayoko–Ako and individual portraits remain separately required."
+}

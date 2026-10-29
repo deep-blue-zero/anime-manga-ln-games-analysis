@@ -1,0 +1,488 @@
+{
+  "schema": "konosuba.cohort44.receiving-and-provenance.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "received_utc": "2026-10-25T04:08:32.596571+00:00",
+  "semantic_receiving_sha256": "d213699b705ac788aa78b8655cce6330649906d28b6ca26e03b5cbbaaf6af44a",
+  "source_baseline": "66d6630d9a518fe993543edcdeea2391c9b84b15",
+  "prior_published_baseline": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
+  "current_main": "6c181f53dbdfc857bf3994c10459c5819da130ea",
+  "current_main_already_ancestor": true,
+  "owner_main_merge_receipt_sha256": "be0cd48196f1f07a9f4d8253f1f5f25ba76215ade5ae35f8f4eadc4cd66592cd",
+  "reviewed_artifact_pins": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DRYAD_CHARACTER_MONOGRAPH.md",
+      "bytes": 10867,
+      "sha256": "1cf5378ebe52de18ca467e84311826b06252c026f1daf73bbd140e6913352de0"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_NOBLE_DINNER_HOST_CHARACTER_MONOGRAPH.md",
+      "bytes": 9911,
+      "sha256": "33ac15866726fc7673503006fe64c78bc5ba8c28988d76d72f5a4911f7f5a6dc"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_WHITE_TIGER_MOTHER_CHARACTER_MONOGRAPH.md",
+      "bytes": 9115,
+      "sha256": "f30b9e6219071d29c560664c946b3344ac57ca60005c9f5b91bc46c686672701"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SIEGWALD_CHARACTER_MONOGRAPH.md",
+      "bytes": 9034,
+      "sha256": "891d66ba9f60eca5370dfc6b3754bce2586b94c97f0a535f244d3e7af0a78c3c"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_WOLBACH_FOLLOWER_CHARACTER_MONOGRAPH.md",
+      "bytes": 9221,
+      "sha256": "cfb1bcd7ca71abb8896a037a93ea05a31689f5eb7ee0ea9c4c7cee7b32b16a69"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_STORM_GREAT_SPIRIT_CHARACTER_MONOGRAPH.md",
+      "bytes": 9264,
+      "sha256": "edb7be169033e01cfdab4832b690657d293aab65809291b2470c07d58dffa4b3"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DRYAD_RECONSTRUCTION_MODEL.md",
+      "bytes": 7858,
+      "sha256": "6927f5750dcc495dfb8c91a71f783dd75ac4774dfd5dac914dc0a0dd8ff05625"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DRYAD_EXPANDED_V1_EVIDENCE/DRYAD_RULE_INVENTORY_01.json",
+      "bytes": 4877,
+      "sha256": "61c39562ef0de17b057b7c8057871cf8c9244b7a1b22193886a1f459b3fd2b85"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI02_IDENTITY_AND_SUPPORTING_CAST_COHORT44_SUPPLEMENT.md",
+      "bytes": 11220,
+      "sha256": "ca134ee8253ea730dfe6623a1c5f0f038eb41ae5eee59cf0cd00dba330594bab"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md",
+      "bytes": 12286,
+      "sha256": "909fde5bfe12de3e7e5330d5138f9bec0c66bde36b6ab8076ad92ec743015d4a"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_NATIVE_PROVENANCE.json",
+      "bytes": 18617,
+      "sha256": "f4dfc9ec938e36f24f4f529a48a9082a05d64a9ad2f67b55e948f73a45323f8a"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_IDENTITY_AND_SCOPE_ASSESSMENT.json",
+      "bytes": 4672,
+      "sha256": "4c3f96fd6d1b60cb274ccc4d8d96f84b00a91b9363c084f789a57a1a3b86d591"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_NEW_DISCOVERY_RECORDS.json",
+      "bytes": 56542,
+      "sha256": "8bcd9aaf768588b6bd7e6d520e126c1019539416b512656a8c4d0f5e9aca3174"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 8632,
+      "sha256": "75807e7bc2a64326b30eab7c2bd87da55bb3e92a4861c3d6da107079745c6357"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DRYAD_EXPANDED_V1_EVIDENCE/DRYAD_SCENARIO_INPUTS_01.json",
+      "bytes": 3322,
+      "sha256": "1871484bd870df203c8671ec0249b0c13e897bba30f28e8256c7640b8c4c3bf1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DRYAD_EXPANDED_V1_EVIDENCE/DRYAD_FIRST_OUTPUTS_01.json",
+      "bytes": 2611,
+      "sha256": "9252224c8f28c620486a1caf41b8553db7b2ea26adc69c1d93a7d7d7c181fa30"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DRYAD_EXPANDED_V1_EVIDENCE/DRYAD_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 5178,
+      "sha256": "2ef3fa3de9a0e238dbb52b7811cb6b830439f324e7dfd03646cee0ea657f4013"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DRYAD_EXPANDED_V1_EVIDENCE/DRYAD_DIAGNOSTIC_ASSESSMENT_01.md",
+      "bytes": 3838,
+      "sha256": "7aca63f17ddaf74c1ac2b3cd6ea3a9f54872bac19380bbc6854eef9ef6a30697"
+    }
+  ],
+  "candidate_totals": {
+    "model_artifacts": 65,
+    "source_scoped_secondary_model_entries": 59,
+    "bounded_profiles": 138,
+    "monograph_only_routes": 45,
+    "nonfinal_source_records": 512,
+    "unique_person_denominator": null
+  },
+  "new_artifact_counts": {
+    "monographs": 6,
+    "monograph_only_routes": 5,
+    "provisional_models": 1,
+    "rules": 1,
+    "exact_inputs": 2,
+    "original_firsts": 2,
+    "dependent_pairs": 1,
+    "compact_profiles": 21,
+    "source_access_records": 56,
+    "new_Tier2_records": 2,
+    "new_Tier1_records": 17,
+    "new_Tier0_records": 37
+  },
+  "source_access_qualification": "2,675 current paragraph slots /2,530 inline ruby across ten complete paragraph/ruby projections in one local Yorimichi2 EPUB and57 actual page deliveries. Earlier C43 U018P209–245 is explicitly repeated. Zero current images, nonparagraph residuals, whole-edition or new global source-first credit; earlier whole-edition receipt keeps its dated scope.",
+  "scope": {
+    "schema": "konosuba.cohort44.identity-and-proportional-scope.v1",
+    "authorship_phase": "After complete primary, earlier-analytical and identity-context receiving; before foundation review/freeze, exact inputs and first bodies",
+    "source_known_same_informed_root": true,
+    "monographs": [
+      {
+        "row": 102,
+        "subject": "Particular YORI02 dryad",
+        "tier": 3,
+        "private_file": "DRYAD_MONOGRAPH_DRAFT_01.md",
+        "public_filename": "KONOSUBA_DRYAD_CHARACTER_MONOGRAPH.md",
+        "model": true,
+        "rules": [
+          "DRY-R01"
+        ],
+        "reason": "Living-dependent claims, resource seeking, conditional cooperation and an expired-plant/water settlement constrain one narrow generator; threats, mediation and generic rivals prevent a maturity or independent-discrimination claim."
+      },
+      {
+        "row": 104,
+        "subject": "Unnamed female noble dinner host",
+        "tier": 2,
+        "private_file": "NOBLE_DINNER_HOST_MONOGRAPH_DRAFT_01.md",
+        "public_filename": "KONOSUBA_NOBLE_DINNER_HOST_CHARACTER_MONOGRAPH.md",
+        "model": false,
+        "rules": [],
+        "reason": "Invitation, household claim, immediate cage safety, debt, withheld method, admission and flight warrant a substantial account. Other nobles' lines are separate; exact incentive weights and general policy remain unisolated."
+      },
+      {
+        "row": 105,
+        "subject": "White-tiger mother",
+        "tier": 2,
+        "private_file": "WHITE_TIGER_MOTHER_MONOGRAPH_DRAFT_01.md",
+        "public_filename": "KONOSUBA_WHITE_TIGER_MOTHER_CHARACTER_MONOGRAPH.md",
+        "model": false,
+        "rules": [],
+        "reason": "Evasion, entrusting care, waiting, approach and coercive transport form a substantial nonverbal sequence. Exact motives and the final operation are not supplied; neither power nor animal status fixes a tier ceiling."
+      },
+      {
+        "row": 106,
+        "subject": "Siegwald / ジークヴァルト",
+        "tier": 2,
+        "private_file": "SIEGWALD_MONOGRAPH_DRAFT_01.md",
+        "public_filename": "KONOSUBA_SIEGWALD_CHARACTER_MONOGRAPH.md",
+        "model": false,
+        "rules": [],
+        "reason": "Multi-scene recovery, play, sleep, garment use and separation behavior earn an individual ordinary-life study. Generic juvenile/comfort/state rivals and untested comprehension limit a generator."
+      },
+      {
+        "row": 456,
+        "subject": "Unnamed Wolbach follower",
+        "tier": 2,
+        "private_file": "WOLBACH_FOLLOWER_MONOGRAPH_DRAFT_01.md",
+        "public_filename": "KONOSUBA_WOLBACH_FOLLOWER_CHARACTER_MONOGRAPH.md",
+        "model": false,
+        "rules": [],
+        "reason": "Particular reverence, coercion, route changes, new leverage and failed superiority earn an individual account. No borrowed Hoost/Arnes identity or model; broader transfer and final fate remain open."
+      },
+      {
+        "row": 457,
+        "subject": "Particular storm great spirit",
+        "tier": 2,
+        "private_file": "STORM_GREAT_SPIRIT_MONOGRAPH_DRAFT_01.md",
+        "public_filename": "KONOSUBA_STORM_GREAT_SPIRIT_CHARACTER_MONOGRAPH.md",
+        "model": false,
+        "rules": [],
+        "reason": "Refusal, selective impacts, provoked pursuit, relief, bow and disputed gift warrant substantial treatment. Physiology, language and private purpose are mediated/underdetermined; no fulfilled final gust or added generator."
+      }
+    ],
+    "bounded_profile_rows": [
+      103,
+      119,
+      120,
+      121,
+      463,
+      465,
+      466,
+      475,
+      478,
+      479,
+      484,
+      486,
+      487,
+      495,
+      497,
+      498,
+      505,
+      507,
+      509,
+      510,
+      511
+    ],
+    "bounded_profile_count": 21,
+    "existing_Chomusuke21_source_supplement_only": true,
+    "existing_Chomusuke_tier_priority_disposition_and_frozen_study_unchanged": true,
+    "existing_Anna118_identity_and_future_study_unchanged": true,
+    "new_source_records": {
+      "first_row": 456,
+      "last_row": 511,
+      "count": 56,
+      "Tier2": 2,
+      "Tier1": 17,
+      "Tier0": 37,
+      "not_a_unique_person_increment": true
+    },
+    "proposed_targeted_existing_rows": [
+      21,
+      102,
+      103,
+      104,
+      105,
+      106,
+      119,
+      120,
+      121
+    ],
+    "planned_other_existing_rows_exact_per_plane": 447,
+    "planned_historical_canonical_private_differences_exact": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "proposed_artifact_totals": {
+      "models": 65,
+      "source_scoped_secondary_model_entries": 59,
+      "bounded_profiles": 138,
+      "monograph_only_routes": 45,
+      "nonfinal_source_access_records": 512,
+      "not_distinct_people_or_independent_observations": true
+    },
+    "proposed_census_part_counts": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      32
+    ],
+    "current_native_scope": {
+      "unique_P": 2675,
+      "ruby_occurrences": 2530,
+      "full_paragraph_projection_members": 10,
+      "actual_pages": 57,
+      "C43_window_return_P": 37,
+      "current_images": 0,
+      "current_nonparagraph_residuals": 0,
+      "current_whole_edition_credit": false,
+      "new_global_source_first_credit": 0
+    },
+    "earlier_analytical_context_pages_fully_received": 13,
+    "identity_context_pages_fully_received": 16,
+    "all456_labels_routing_only": true,
+    "independent_observation_count": null,
+    "no_model_maturity_accuracy_grade_or_confidence_gain": true,
+    "canonical_C44_changes": false,
+    "full_program_complete": false
+  },
+  "foundation_receipt_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_FOUNDATION_FREEZE_01.json",
+  "foundation_receipt_sha256": "8e5122a34c3c31379edc8dd2906b24a4deaec24e96aa88ddcd891668ca6959d6",
+  "exact_input_receipt_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_EXACT_INPUT_FREEZE_01.json",
+  "exact_input_receipt_sha256": "a13ae0974e8bde8f88d13168e0970b4ad1be55d9ac7b1686c2075593469646cc",
+  "original_first_receipt_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_ORIGINAL_FIRSTS_SEAL_01.json",
+  "original_first_receipt_sha256": "a7bae599eea754fa994e6049773d0015524b358e04c06329b590b4c5721b1cbf",
+  "complete_receiving": {
+    "initial_foundation_pages": 33,
+    "initial_deliveries": {
+      "1–4": "eef98e",
+      "5–8": "b25cea",
+      "9–12": "bda68d",
+      "13–16": "56627b",
+      "17–20": "ba0520",
+      "21–24": "09e761",
+      "25–28": "2011f6",
+      "29–32": "2ce21b",
+      "33": "a00628"
+    },
+    "complete_correction_pages": 4,
+    "correction_deliveries": {
+      "1–2": "1b7f82",
+      "3–4": "9022cf"
+    },
+    "exact_inputs_and_pre_first_plan": "b2d46a",
+    "all_original_bodies_and_seal": "84d169",
+    "all_annotations_and_complete_readout": "e16a01"
+  },
+  "diagnostic_qualification": "Two directly once-authored English originals/one dependent source-known contrast; the living/dead branch and unaccepted counteroffer remain explicit, with no unambiguous material input violation identified. Neatness, generic bargaining/protection rivals, conspicuous known-source cues and English scene invention remain limits. No repair, independent trial, causal isolation, accuracy, grade, confidence gain, native/acoustic certification or final-battery claim.",
+  "census_comparison": {
+    "changed_entering_rows": [
+      21,
+      102,
+      103,
+      104,
+      105,
+      106,
+      119,
+      120,
+      121
+    ],
+    "untouched_entering_rows": 447,
+    "new_rows": [
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475,
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486,
+      487,
+      488,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      499,
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511
+    ],
+    "nonfinal_records": 512,
+    "canonical_part_rows": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      32
+    ],
+    "separate_private_inline_candidate": "WORK127; prior WORK126 preserved",
+    "historical19_differences_exact": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "all_independent_observation_counts_null": true,
+    "no_unique_person_denominator": true
+  },
+  "frozen_history": {
+    "existing64_models_and_all_prior_rules_originals_scores_blanks_notes_exact": true,
+    "new_model": 1,
+    "new_rules": 1,
+    "new_firsts": 2,
+    "firsts_and_foundations_not_repaired_after_feedback": true,
+    "independent_trials": 0,
+    "accuracy": null,
+    "grade": null,
+    "confidence_gain": false
+  },
+  "prior_C43_gate": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_PUBLICATION_GATE_CLOSE_01.json",
+    "sha256": "424fb940e26dd4b2e6da6803e50afd81cef9b6cb1446fb0906d0dad2a3640d01",
+    "source": "1042c16a61b639e3f16dc50e087d8458f0d03f68",
+    "tests": 479
+  },
+  "publication_pending": [],
+  "source_absolute_paths_in_public": 0,
+  "full_program_complete": false,
+  "candidate_review_precision_correction": {
+    "finding": "C44-CR01",
+    "initial_complete_candidate_review_sha256": "c478b4164106b3bf1b676cacc6758060117108d01bce97eb442e6774335cba5c",
+    "native_locator": "YORI02U014P105–114",
+    "correction": "Current row119 and a new ledger sentence correctly identify a train-station employee whose help is established by aftermath accounts; the street police officer remains a separate route. The map label is clarified.",
+    "frozen_profile_already_correct": true,
+    "all18_analytical_cores_models_inputs_originals_and21_profile_fragment_exact": true,
+    "no_new_primary_or_independent_credit": true
+  },
+  "prior_cohort44_publication_status": {
+    "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+    "publication_pending": [
+      "complete candidate review",
+      "exact-index author preflight",
+      "ordinary publication",
+      "whole remote tree and every changed-stream verification",
+      "full actual-source audit and latest trusted status",
+      "fresh authority reload"
+    ]
+  },
+  "publication_resolution": {
+    "source": "6b489e98c184a5f8ac0b8cd36f57070559233498",
+    "tree": "d979539044b57507cc31df836d60fedc1bf6ceda",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+    "gate_sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541",
+    "source_run": 40162521771,
+    "full_discovered_tests": 479,
+    "current_models": 65,
+    "author_publication_tranche_complete": true,
+    "protected_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 329
+  },
+  "current_gate_qualification": "All18 analytical cores,65 models and two original English firsts remain exact. The source-known pair retains generic/source-echo and realization limits without independent confidence gain.65 status/supplement routes update;447 others and19 historical plane differences remain exact. Chomusuke21 existing tier/priority/disposition is unchanged. The train-station correction is retained; every other analytical field is exact. Prior candidate/main/pending statements remain dated history. Protected integration,final battery,StageD successors and full program are not completed by this author gate."
+}

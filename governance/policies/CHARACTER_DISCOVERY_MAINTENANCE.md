@@ -1,59 +1,37 @@
 # Character discovery maintenance
 
-## Ownership and execution
+The character discovery agent keeps the character registry (the namespace partitions under `characters/registry/`) and its generated view (`CHARACTER_ANALYSIS_INDEX.md` and the namespace pages under `characters/index/`) current, so any agent can tell whether a character is written about in the repository without scanning every project. It follows the shared rules for scheduled agents in `AGENTS.md`.
 
-The owner-authorized character curation agent is the sole routine writer of `characters/registry.jsonl` and `CHARACTER_ANALYSIS_INDEX.md`. It interprets analytical evidence and curates the structured registry; it invokes `tools/generate_character_index.py` to produce the deterministic Markdown view. The index must never be independently authored.
+## What it writes
 
-The recurring task runs in a cloud environment with Git, Python, the hash-locked validation dependencies, and authenticated GitHub access. Its schedule and credentials are configured externally by the owner. This policy does not install or activate a scheduled task and requires no owner computer, local drive, local clone, or migration directory.
+Only those discovery outputs. The registry partitions are curated; the root index and namespace pages are produced only by `tools/generate_character_index.py` and never authored by hand. The layout is specified in [Registry storage](../../characters/README.md#registry-storage): a row lives in `characters/registry/<namespace>.jsonl` for the namespace of its `character_entity_id`, and a new namespace gets a new partition. Never recreate the retired `characters/registry.jsonl`. The agent never edits analytical prose, evidence or authority metadata, schemas, tools, workflows, other registries, the reconstruction outputs, or Drive files. It preserves unrelated records, including study-based entries. Deleting a record or moving an identity between series is an owner decision.
 
-GitHub Actions remains responsible for independent read-only validation. Global index housekeeping owns only the five series/study routing outputs in `AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`; neither that workflow nor its synchronizer may read character proposals as replacement inputs, rewrite the character registry, or generate the character index.
+## Each run
 
-The two-file allowlist applies to the agent's authored delta. It grants no authority to modify analytical prose, evidence or authority metadata, schemas, tools, workflows, other registries, or Drive files. Preserve unrelated character records, including study-based entries. Deletion, identity transfer between series, and reconstruction assessment remain outside routine curation authority.
+1. Start from the full current `main` SHA. Review tracked analytical files under `series/` and `studies/` that were added, changed, renamed or deleted since the last completed review. Track coverage per root: a checkpoint from before `studies/` was in scope covers `series/` only, so review `studies/` from a documented baseline (the whole tree when none exists) until it catches up. Unmerged evidence is never effective.
+2. Enroll or revise a record only for substantial, reviewed, dedicated or distributed analysis whose current evidence supports every claimed dimension, identity, alias, anchor and coverage range. Mentions, cast lists and filenames are not enough. Defer anything ambiguous without inventing metadata or repairing the source. Reassess affected existing records and keep deferred candidates for the next run.
+3. Work on the reusable `character-registry` branch with at most one open PR. Merge current `main` into it without force. Add or revise rows in their partitions and run `python tools/character_registry.py normalize`; stage, by exact name, each `registry path to stage` it reports (every registry path whose worktree differs from the index, including rows revised in place and new partitions it did not need to rewrite). Run `python tools/generate_character_index.py --snapshot index`, stage each output path it reports, including removals, and run `python tools/prepare_commit.py --base origin/main --check`.
+4. Push and open or update the PR. The repository audit confines this branch to the discovery outputs. The CI agent merges it under `NIGHTLY_ANALYTICAL_INTEGRATION.md`.
 
-## Daily discovery on main
+Structural checks cannot establish that an interpretation is correct; only evidence-supported changes are enrolled.
 
-1. Read the live repository instructions, authority records, integration checklist, character README and schema. Verify the exact repository identity and approved commit identities.
-2. Capture the full current `main` SHA. Review added, changed, renamed, and deleted tracked analytical files under `series/` since the last trustworthy completed review. Reassess affected existing records and retain deferred candidates. Routine discovery never treats unmerged evidence as effective.
-3. Read candidate prose and the relevant entrypoint or ledger. Include substantial reviewed dedicated or distributed analysis only when current evidence is eligible and supports every claimed dimension, identity, alias, anchor, and coverage range. Mentions and filenames are insufficient. Defer ambiguity without inventing metadata or repairing the source.
-4. Use the reusable `character-registry` branch and at most one open curation PR to `main`. Reconcile current `main` and pending branch work without overwriting concurrent changes, force-pushing, or rewriting published history. The complete ordinary curation PR diff may contain only the two character outputs.
-5. Stage `characters/registry.jsonl`; run `python tools/generate_character_index.py --snapshot index`; stage `CHARACTER_ANALYSIS_INDEX.md`; then run `python tools/prepare_commit.py --base origin/main --check`. Apply additional live obligations and inspect the entire diff. Required checks must pass without weakening validation.
-6. Publish normally under approved identities. The existing Repository audit runs the full integration gate on pushes to `character-registry` and publishes `Repository integration audit` on the exact audited SHA. If a token-originated push does not start a run, use the existing exact-commit dispatch or manual workflow dispatch and verify the audited SHA.
-7. The owner authorizes the configured curation agent to merge its bounded PR after semantic review, all applicable checks, and the full Repository audit with a successful `Repository integration audit` status succeed for the exact current head. An analytical author preflight with pending routing is insufficient. Recheck both heads and reconcile/revalidate any drift. Use an enabled merge method compatible with live protection, including linear-history requirements, and an expected-head SHA where supported. Do not push directly to `main`, bypass protections, or treat a missing, skipped, pending, or older check as success.
-8. Verify the integrated patch and the Repository audit for the exact integration commit on `main`. A post-merge failure must be reported as already integrated but unverified; do not automatically revert or rewrite `main`.
+## Lag and broken references
 
-Structural checks are necessary but cannot establish the correctness of textual interpretation. Only evidence-supported, reviewed changes may be automatically integrated.
+Discovery may lag: new analysis merges without immediate enrollment, and the registry is not presumed exhaustive. Validation stays strict, though. If an analysis change would break an existing record's path, anchor, authority relationship, coverage claim or index digest, it cannot merge until the discovery outputs are repaired in a separately identifiable commit on that analysis branch that touches nothing else. The discovery agent makes repairs that need curation judgment. The CI agent may make a purely mechanical one, such as following a renamed path or regenerating the index. Otherwise it adds the `character-repair` label and a comment naming the record. Each run, the discovery agent repairs labeled PRs first, then removes the label and comments what it changed. If the repair needs an owner decision, it comments the question and leaves the label. Never weaken a check to wait for the next run.
 
-## Delayed discovery versus existing-reference integrity
+Historical character-record fixtures in the tests describe an immutable checkpoint, not a freeze on the live registry.
 
-New eligible analysis may merge without immediate character enrollment when the existing registry and generated index still validate. Discovery is intentionally allowed to lag until the next agent run; the registry is not presumed exhaustive.
+A branch whose unmerged curation predates the 2026-10-24 partition migration changes the retired single file, so merging `main` would conflict on discovery outputs, and the merge gate rejects any merge that conflicts on them. Carry that curation across without a conflicted merge:
 
-Changes to already referenced evidence can invalidate a path, anchor, authority relationship, coverage claim, or generated digest before the daily run. Such changes must not merge with a broken character registry or stale index. Keep the existing strict validation and coordinate with the same curation agent before integration.
+1. Note the branch head `H` and the merge base `B` of `H` and `origin/main`.
+2. In a commit touching only discovery outputs, restore them to the merge base: `git checkout B -- characters/registry.jsonl CHARACTER_ANALYSIS_INDEX.md`.
+3. Merge `origin/main`; it now applies cleanly and brings the partitions.
+4. Run `python tools/character_registry.py replay --base B --head H`. It applies exactly the rows the branch added, revised or removed, and stops before writing if `main` also changed one of those rows; reconcile such a row by hand. Stage each `registry path to stage` it reports, regenerate the index, stage its reported outputs, and commit the discovery outputs as an ordinary curation commit.
 
-For this bounded on-demand mode:
+Rows deferred only because the single file was full are enrolled through the ordinary evidence checks above.
 
-- The owner/source task supplies the exact analytical branch and reviewed source commit. This is separate from ordinary main-only discovery; unmerged evidence remains proposed.
-- The curation agent reviews the affected records against that proposed tree and authors only the two character outputs in a separately identifiable commit on the source branch, preserving the source author's work and identities.
-- The source branch may carry that agent-authored repair alongside its own analytical changes. Housekeeping's branch-confinement check admits the two character files for this purpose but its write/staging allowlist does not.
-- Reconcile current `main`, validate the entire prospective integration, require the final exact-head audit and any housekeeping child-commit audit, and have the owner/source integration task merge the combined change atomically. The curation agent's ordinary automatic-merge authority does not extend to analytical changes.
-- If either source or base advances, repeat the affected review and validation. If the agent is unavailable or the repair is ambiguous, leave the source change blocked. Never disable an integrity check to wait for tomorrow's scan.
-- Verify the combined integration on `main`. Do not count unrelated source-branch content as completed daily main review.
+## Related agents and inputs
 
-## Retired declarative character inputs
+The reconstruction evaluator derives its work from integrated Git state, so discovery changes never wait on reconstruction; an affected assessment becomes effectively stale and the evaluator reconciles it. Either agent may note leads for the other in its PR description; leads are unverified hints, never authority to enroll or assess.
 
-`series/<stable-slug>/.repository/character-registry-upserts.jsonl` is no longer an authoritative input or required authoring surface. Housekeeping ignores it, including malformed or stale proposals, and cannot replay its values over curated global records.
-
-Preserve any existing proposal files and Git history as provenance. The agent may read them as optional leads, but must independently verify their assertions against eligible analysis. Their disagreement with the global registry is not a synchronization obligation. Do not create or maintain these files merely to drive character enrollment.
-
-Series/study routing descriptors retain their existing deterministic housekeeping role.
-
-## Coverage, concurrency, and reporting
-
-Serialize curation runs, including on-demand repairs, so they do not compete over the same records or branch. Preserve pending PR work between runs and inspect unexpected branch content before any write.
-
-Keep durable coverage and unresolved-candidate records in cloud task storage and relevant PR descriptions, never in a disposable checkout or container cache. Record reviewed base SHA, reviewed/deferred coverage, PR head, integration SHA, and validation outcomes. Track review completion separately from publication and integration; never advance completed coverage beyond unfinished work.
-
-If no trustworthy checkpoint is available, use the existing repository audit records to establish a documented baseline and review missing coverage explicitly. Do not silently assume completeness or skip changes.
-
-Do not create empty commits or PRs. Successful no-change runs remain quiet. Report verified integrations, substantive unresolved findings, access/validation failures, blocked integration, post-merge failure, or incomplete review.
-
-Retain `character-registry` while the recurring task is active. If it was deleted after a verified integration, recreate it from current `main`. Reuse it without force; retire it only after its intended content and exact integration are verified and no pending work remains.
+`series/<stable-slug>/.repository/character-registry-upserts.jsonl` files are retired. They may be read as optional leads and are never applied.

@@ -8,7 +8,8 @@
 /README.md text eol=lf
 /CHARACTER_ANALYSIS_INDEX.md text eol=lf
 /characters/README.md text eol=lf
-/characters/registry.jsonl text eol=lf
+/characters/index/** text eol=lf
+/characters/registry/** text eol=lf
 /governance/** text eol=lf
 /series/README.md text eol=lf
 /series/registry.json text eol=lf

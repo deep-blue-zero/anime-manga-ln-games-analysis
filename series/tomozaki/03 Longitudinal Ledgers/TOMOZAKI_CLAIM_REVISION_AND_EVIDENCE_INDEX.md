@@ -1,33 +1,33 @@
 ---
 series: TOMOZAKI
 artifact_type: claim_revision_and_evidence_index
-scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_V06_5_AND_V08_5
-source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus story-locally routed Volumes 06.5 and 08.5"
-analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
+scope: JP_LIGHT_NOVEL_V01-V12_PLUS_ROUTED_V06_5_AND_V08_5
+source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-12 plus story-locally routed Volumes 06.5 and 08.5"
+analytical_boundary: V12_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.2
+generation: V1.5_DISCLOSURE_CHRONOLOGY_PRECISION
 status: canonical
 release_state: mutable_active
 governing_method: ../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md
 governing_architecture: ../00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md
 recommended_reasoning_class: DEEP_SYNTHESIS
 reasoning_policy: ../../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
-reasoning_policy_version: "1.0"
-execution_reasoning_label: Max
-execution_reasoning_note: "Owner-directed control for this remediation synthesis; no equivalence across Codex, ChatGPT, API, model, or policy surfaces is asserted."
+reasoning_policy_version: "2.1"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Tomozaki — claim revision and evidence index through Volume 11
+# Tomozaki — claim revision and evidence index through Volume 12
+
+Latest cumulative state: **V12** in §18, with dated retrospective precision in §§19–21. The accepted V11/R01-R05 family, open-question, locator and gate records in §§5-17 remain historical; their earlier current labels do not override these amendments.
 
 ## 1. Responsibility and authority
 
 This index is the canonical cumulative crosswalk for **material claim lineage, present disposition, and evidence retrieval** in the audited Japanese-light-novel corpus of *Bottom-Tier Character Tomozaki* (`弱キャラ友崎くん`). It answers four questions that the frozen volume readings should not be forced to answer alone:
 
 1. Which local claim or question belongs to a reusable corpus-wide problem?
-2. What changed between its first supportable formulation and the V11 boundary?
+2. What changed between its first supportable formulation and the V12 boundary?
 3. Which exact source-facing reading section preserves the evidence and historical wording?
 4. Which cumulative ledger, monograph, relationship study, or specialist owns the next interpretation?
 
@@ -41,7 +41,7 @@ The authority order is:
 
 This ordering does not turn an inference into direct evidence. A current family formulation may reconcile several volume claims, but the local claim remains frozen in its reading and the primary text remains evidentiary authority.
 
-The index is governed by the [synthesis architecture](../00%20Frameworks%20and%20Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md) and [analytical method](../00%20Frameworks%20and%20Methods/TOMOZAKI_ANALYTICAL_METHOD.md). It is mutable current authority, not a retroactive rewrite of the V01–V11 prospective sequence.
+The index is governed by the [synthesis architecture](../00%20Frameworks%20and%20Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md) and [analytical method](../00%20Frameworks%20and%20Methods/TOMOZAKI_ANALYTICAL_METHOD.md). It is mutable current authority, not a retroactive rewrite of the V01–V11 prospective sequence. The V12 amendment retains that same temporal discipline.
 
 ### 1.1 What this index does not own
 
@@ -64,7 +64,7 @@ Local claims remain local when their retrieval burden is already satisfied by on
 
 The controlling numbered sequence is:
 
-`V01 -> V02 -> V03 -> V04 -> V05 -> V06 -> V07 -> V08 -> V09 -> V10 -> V11`.
+`V01 -> V02 -> V03 -> V04 -> V05 -> V06 -> V07 -> V08 -> V09 -> V10 -> V11 -> V12`.
 
 V06.5 and V08.5 are publication-order supplements with mixed internal chronology. They do not become simple steps in that developmental chain. Each supplemental claim retains:
 
@@ -100,7 +100,7 @@ Before two local claims are called inconsistent, classify the apparent conflict 
 
 ### 3.1 Complete local identifier universe
 
-A file-local inventory over the thirteen source-facing readings, deduplicated by exact identifier, yields **319 claim IDs** and **140 question IDs**, or **459 total local IDs**. Repeated later adjudications do not increase the count.
+A file-local inventory over the fourteen source-facing readings, deduplicated by exact identifier, yields **359 claim IDs** and **154 question IDs**, or **513 total local IDs**. Repeated later adjudications do not increase the count.
 
 | Prefix | Claim IDs | Question IDs | Total | Universe note |
 |---|---:|---:|---:|---|
@@ -117,7 +117,8 @@ A file-local inventory over the thirteen source-facing readings, deduplicated by
 | V09 | 36 | 16 | 52 | `V09-C01`–`V09-C36`; `V09-Q01`–`V09-Q16`. |
 | V10 | 36 | 12 | 48 | `V10-C01`–`V10-C36`; `V10-Q01`–`V10-Q12`. |
 | V11 | 40 | 12 | 52 | `V11-C01`–`V11-C40`; `V11-Q01`–`V11-Q12`. |
-| **Total** | **319** | **140** | **459** | Exact distinct-ID universe at the V11 boundary. |
+| V12 | 40 | 14 | 54 | `V12-C01`–`V12-C40`; `V12-Q01`–`V12-Q14`; DR12 §§7-8 retain the prospective questions and new claims. |
+| **Total** | **359** | **154** | **513** | Exact distinct-ID universe at the V12 boundary. |
 
 ### 3.2 Coverage classes
 
@@ -127,11 +128,11 @@ Every ID in that universe has one, and only one, retrieval treatment at this lay
 - **INTENTIONALLY LOCAL** — the set difference between the complete universe and the explicit indexed manifests in §3.3. The frozen reading remains its authoritative destination. This includes local package observations, scene-bounded state, already-discharged predictions, corroborative variants, and details whose force depends on their full local context.
 - **SOURCE ESCALATION** — an indexed family's wording-, attribution-, causality-, register-, or high-propagation use can require targeted L2/L3 recovery. This is an overlay, not a third disposition. Its retrieval state is `PENDING` until the defined check passes; the twelve V1.0 queues now have reviewed retrieval PASS in §13. Their interpretive OPENs remain independently recorded.
 
-The complement rule makes selective indexing auditable: a future validator can extract the 459-ID universe from the readings, extract the explicit manifests below, and compute the intentionally local set without guessing what was forgotten. No local ID is renumbered or silently converted into a corpus ID.
+The complement rule makes selective indexing auditable: a future validator can extract the 513-ID universe from the readings, extract the explicit manifests below, and compute the intentionally local set without guessing what was forgotten. No local ID is renumbered or silently converted into a corpus ID.
 
 ### 3.3 Indexed-ID manifests
 
-The following manifests are the exact promoted set for V1.0, preserved unchanged in V1.1. An ID can contribute to more than one corpus family, but it counts once here. Counts and local complements are reported in §3.4 after deduplication.
+The following manifests preserve the V1.0-V1.2 promoted set and add the forty V12 claims and fourteen V12 questions in V1.3. An ID can contribute to more than one corpus family, but it counts once here. Counts and local complements are reported in §3.4 after deduplication.
 
 <!-- INDEXED_CLAIM_MANIFEST_START -->
 - **V01 claims:** `V01-C02`, `V01-C03`, `V01-C05`, `V01-C06`, `V01-C07`, `V01-C08`
@@ -147,6 +148,7 @@ The following manifests are the exact promoted set for V1.0, preserved unchanged
 - **V09 claims:** `V09-C06`, `V09-C08`, `V09-C14`, `V09-C18`, `V09-C19`, `V09-C20`, `V09-C23`, `V09-C27`, `V09-C31`
 - **V10 claims:** `V10-C07`, `V10-C09`, `V10-C10`, `V10-C15`, `V10-C17`, `V10-C20`, `V10-C21`, `V10-C23`, `V10-C24`, `V10-C27`, `V10-C29`, `V10-C35`
 - **V11 claims:** `V11-C02`, `V11-C03`, `V11-C04`, `V11-C05`, `V11-C09`, `V11-C11`, `V11-C12`, `V11-C13`, `V11-C15`, `V11-C16`, `V11-C17`, `V11-C18`, `V11-C19`, `V11-C20`, `V11-C21`, `V11-C24`, `V11-C26`, `V11-C27`, `V11-C28`, `V11-C29`, `V11-C30`, `V11-C32`, `V11-C33`, `V11-C34`, `V11-C35`, `V11-C36`, `V11-C37`, `V11-C38`, `V11-C39`, `V11-C40`
+- **V12 claims:** `V12-C01`, `V12-C02`, `V12-C03`, `V12-C04`, `V12-C05`, `V12-C06`, `V12-C07`, `V12-C08`, `V12-C09`, `V12-C10`, `V12-C11`, `V12-C12`, `V12-C13`, `V12-C14`, `V12-C15`, `V12-C16`, `V12-C17`, `V12-C18`, `V12-C19`, `V12-C20`, `V12-C21`, `V12-C22`, `V12-C23`, `V12-C24`, `V12-C25`, `V12-C26`, `V12-C27`, `V12-C28`, `V12-C29`, `V12-C30`, `V12-C31`, `V12-C32`, `V12-C33`, `V12-C34`, `V12-C35`, `V12-C36`, `V12-C37`, `V12-C38`, `V12-C39`, `V12-C40`
 <!-- INDEXED_CLAIM_MANIFEST_END -->
 
 <!-- INDEXED_QUESTION_MANIFEST_START -->
@@ -154,15 +156,16 @@ The following manifests are the exact promoted set for V1.0, preserved unchanged
 - **V09 questions:** `V09-Q05`, `V09-Q06`, `V09-Q07`, `V09-Q11`, `V09-Q12`, `V09-Q15`
 - **V10 questions:** `V10-Q01`, `V10-Q02`, `V10-Q03`, `V10-Q04`, `V10-Q05`, `V10-Q06`, `V10-Q09`, `V10-Q10`, `V10-Q11`, `V10-Q12`
 - **V11 questions:** `V11-Q02`, `V11-Q03`, `V11-Q04`, `V11-Q05`, `V11-Q06`, `V11-Q07`, `V11-Q08`, `V11-Q09`, `V11-Q10`, `V11-Q11`, `V11-Q12`
+- **V12 questions:** `V12-Q01`, `V12-Q02`, `V12-Q03`, `V12-Q04`, `V12-Q05`, `V12-Q06`, `V12-Q07`, `V12-Q08`, `V12-Q09`, `V12-Q10`, `V12-Q11`, `V12-Q12`, `V12-Q13`, `V12-Q14`
 <!-- INDEXED_QUESTION_MANIFEST_END -->
 
 ### 3.4 Coverage accounting
 
 | Class | Claim IDs | Question IDs | Interpretation |
 |---|---:|---:|---|
-| Indexed load-bearing | 120 | 30 | Explicitly crosswalked below; exact local wording is retained at first family use or in the question-family table. |
+| Indexed load-bearing | 160 | 44 | Explicitly crosswalked below; earlier exact wording remains at first family use; V12 wording and all fourteen questions resolve through §18. |
 | Intentionally local | 199 | 110 | Exact complement of the complete universe; remains in the frozen source-facing reading. |
-| **Total** | **319** | **140** | No unclassified IDs. |
+| **Total** | **359** | **154** | No unclassified IDs. |
 
 These counts are subject to file-local validation against the manifests. A future version that promotes or demotes an ID must update both the manifest and this table; it must not change the frozen local wording.
 
@@ -183,6 +186,7 @@ These counts are subject to file-local validation against the manifests. A futur
 | DR09 | [V09 deep reading](../02%20Sequential%20Readings/TOMOZAKI_V09_DEEP_READING.md) | §2 pre-freeze; §6 adjudication; §§8–9 frozen state and abstentions |
 | DR10 | [V10 deep reading](../02%20Sequential%20Readings/TOMOZAKI_V10_DEEP_READING.md) | §2 pre-freeze; §6 adjudication; §§8–9 frozen state and abstentions |
 | DR11 | [V11 deep reading](../02%20Sequential%20Readings/TOMOZAKI_V11_DEEP_READING.md) | §2 pre-freeze; §6 adjudication; §§8–9 frozen state and abstentions |
+| DR12 | [V12 deep reading](../02%20Sequential%20Readings/TOMOZAKI_V12_DEEP_READING.md) | §2 prospective snapshot; §6 all inherited claims; §7 fourteen fresh questions; §8 forty new claims; §9 endpoint/OPEN handoff |
 
 An L1 route is sufficient only when the reading preserves the proposition, attribution, limit, and evidence class needed by the downstream use. Otherwise the family enters the escalation queue in §13. No EPUB page, spine item, XHTML name, or diagnostic quotation is manufactured here.
 
@@ -819,7 +823,7 @@ At the V11 boundary this index leaves the following materially open:
 - Mizusawa's renewed confession, Hinami's reply, and any stopping condition; the earlier V03 confession/refusal remains part of the history;
 - Yuzu's absorber/capacity boundary and Tama's long-term public-character revisability;
 - internalized broad boundary compliance by Rena;
-- acknowledgment, apology, restitution, or institutional repair by Konno or Akiyama;
+- full conduct accounting, restitution, trust or institutional repair beyond Akiyama/group’s brief V05 apology; Konno’s own apology remains unestablished (current retrospective correction §19);
 - Endo-promotion results, follower growth, professional income, family/university agreement, and career exit conditions;
 - whether the proposed peer party assembles, obtains Hinami's participation, changes its model under refusal, or helps; and
 - every V12 or post-V11 development.
@@ -895,3 +899,296 @@ V1.0 is the first corpus-wide claim/revision/evidence crosswalk after completion
 V1.1 (2026-09-13) is the R01–R03 reconciliation. It retains every corpus identity, local quoted anchor, promoted manifest, and coverage count; connects all twelve queues to independently reviewed exact-source evidence; corrects mixed-person retrospective and unspoken-qualification attribution; retains the school-year tension; distinguishes an earlier confession from an unshown renewed one; narrows phone-disconnect agency; and routes the co-developed punishment formulation and teacher-question counterevidence. Claim resolution remains separate from retrieval completion. The six-owner audit records the surviving and abandoned formulations and the limited readiness change.
 
 V1.2 (2026-09-13) adds bounded Mimimi R05 source precision to CRI-MIM-003 and CRI-REL-006: temporary restraint, an observed resumed walk, partial affirmative self-regard, local contact agreement, and partial conversation knowledge. All claim identities, frozen anchor quotations, promoted manifests, coverage counts, original reconciliation decisions, and prior integration receipts remain unchanged. The new review owns this propagation check; no broader maturity or synthesis gate is promoted here.
+
+## 18. V12 current-state amendment and retrieval authority
+
+### 18.1 Scope, evidence, and temporal controls
+
+V1.3 advances this cumulative index through Japanese V12. The [V12 source-facing reading](../02%20Sequential%20Readings/TOMOZAKI_V12_DEEP_READING.md) owns the complete source-order argument and exact local propositions: §6 adjudicates all forty inherited V11 claims, §7 adjudicates the fourteen prospective V12 questions, §8 defines forty new V12 claims, and §9 fixes the endpoint and remaining responsibilities. The [prospective entering snapshot](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md), SHA-256 8741334f47c5640fa446629ba5c06c58784479a9802f962bc49af61b43105e17, remains immutable. Its incoming state was recorded before V12 story access.
+
+The source is the admitted c7c witness, SHA-256 4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c. Inspection covered all 42 spine members, 5,244 p elements / 5,255 body units, all 26 actual image occurrences, chapter headings and semantic ruby, afterword, biography, colophon, eleven publisher image pages, and non-spine navigation. A locator such as item/xhtml/p-0022.xhtml P504-514 counts every p element from one within that member, including empty and image paragraphs. Short p0022:P504-513 forms in the new-claim table use the same convention fixed in DR12 §1. Images and paratext remain identified layers, not extra narrative episodes.
+
+Sections 6-17 retain their accepted V11/R01-R05 formulations, frozen anchors, old open-question states, locator receipts, and gate decisions. Their labels Current V11 and their historical PASSs do not state the V12 endpoint. The formulations in §18.3 and dispositions in §§18.4-18.6 are the latest cumulative state. A historical absence can remain true at V11 while a new event revises its current version. This amendment is prepared within the atomic V12 transaction; its existence alone does not pass the six-owner review, repository publication, full-corpus coverage, specialist convergence, synthesis, reconstruction, or formal terminal-closure gates.
+
+DIRECT identifies actual action, speech, or focalized thought; direct self-description remains a subject's account. CORROBORATED INFERENCE, INTERPRETIVE HYPOTHESIS, VALUE JUDGMENT, and OPEN retain their separate force. Hinami's first-person chapter gives the reader new interior evidence. It does not make Tomozaki, Kikuchi, Haruka, or the entire peer group recipients of every thought. Alcia's simulated objection is not an actual Hinami utterance, and fictional Nagisa's speech is not the dead girl's authenticated testimony.
+
+### 18.2 All forty new claims: promoted family and source retrieval
+
+All forty new claims are indexed load-bearing because each constrains a reusable character, relationship, thematic, causal, or source-boundary responsibility. Promotion is selective with respect to the entire corpus; it does not discard the ordinary island and craft evidence just because that evidence is less central to the school plot. No earlier intentionally local ID is promoted or demoted here. The new rows retain DR12 §8 wording; the last column assigns retrieval responsibility rather than replacing that wording.
+
+| Stable ID | Exact DR12 proposition | Evidence class | Exact source route | Existing corpus families |
+|---|---|---|---|---|
+| V12-C01 | The V11 replay contains 31 input-empty frames; their motive remains unresolved. | DIRECT record / OPEN motive | p0011:P3–25 | CRI-HIN-001; CRI-EFF-002 |
+| V12-C02 | Kikuchi challenges unique-savior exhaustion; Fumiya owns helping while receiving specific partner care. | DIRECT dialogue/action | p0011:P46–113 | CRI-TOM-004; CRI-REL-002; CRI-EFF-001 |
+| V12-C03 | Author permission is obtained for particular unfinished-chapter circulation, distinct from modeled-subject permission. | DIRECT / authority limit | p0011:P233–278 | CRI-REL-004; CRI-KIK-002 |
+| V12-C04 | Mizusawa acknowledges instrumental interest in Hinami as one origin of contact, alongside later owned liking. | DIRECT self-report / bounded motive | p0011:P374–441 | CRI-MIZ-001; CRI-REL-006 |
+| V12-C05 | Practiced social form carries an awkward direct friendship acknowledgment and local reciprocal help. | DIRECT / CORROBORATED INFERENCE | p0011:P455–504 | CRI-TOM-002; CRI-MIZ-001; CRI-REL-006 |
+| V12-C06 | The four-person party is actually convened; Hinami's participation/permission is absent. | DIRECT / OPEN subject permission | p0011:P511–543; p0012 | CRI-REL-005 |
+| V12-C07 | Mimimi questions exclusive Tama-based worth and owns refusing to exploit Fumiya's weakness while retaining love. | DIRECT self-report/action | p0013:P26–169 | CRI-MIM-001; CRI-MIM-002; CRI-MIM-003 |
+| V12-C08 | Improvisation falsifies the prescribed independent-star answer; Kikuchi suspends the meeting over harm risk. | DIRECT / INTERPRETIVE HYPOTHESIS | p0013:P206–487 | CRI-EPI-001; CRI-KIK-002; CRI-REL-005 |
+| V12-C09 | Kikuchi chooses a solo inquiry; Fumiya later offers a changed reason and waits for her acceptance. | DIRECT negotiated acts | p0013:P563–591; p0014:P158–206 | CRI-REL-002; CRI-KIK-001; CRI-EFF-001 |
+| V12-C10 | Tama's skilled cake remake protects one birthday while imposing staff/queue costs; she acknowledges privilege and distorted self-demand. | DIRECT / VALUE JUDGMENT separated | p0014:P30–140 | CRI-TAM-001; CRI-EFF-001 |
+| V12-C11 | A learned childhood heroic form has become Tama's owned practice; shop succession is still unchosen. | DIRECT self-report / OPEN vocation | p0014:P80–140 | CRI-TAM-001; CRI-TOM-002 |
+| V12-C12 | Island interviews supply fallible ordinary Andy testimony rather than an omniscient sage's complete motives. | DIRECT attributed report / epistemic limit | p0014:P331–465; p0016:P195–260 | CRI-EPI-001; CRI-EFF-001 |
+| V12-C13 | Concrete affectionate observation and ordinary play reach Kikuchi locally; no sexual encounter or durable cure is established. | DIRECT / bounded inference | p0016:P35–190 | CRI-REL-002; CRI-KIK-001; CRI-REL-006 |
+| V12-C14 | Mitsu refuses some help and grants other scoped labor, access, and delegation; bodily limits do not erase agency. | DIRECT / no diagnosis | p0016:P1–30, P305–497 | CRI-REL-004; CRI-EFF-001; CRI-SOC-001 |
+| V12-C15 | Colour judgments require context and practice; wider perception need not convert every dislike into liking. | DIRECT teaching / attributed testimony | p0016:P423–456, P517–617 | CRI-EPI-001; CRI-KIK-002; CRI-TOM-002 |
+| V12-C16 | The costume-label error has no established culprit; the useful amateur proposal receives partial expert correction. | DIRECT / OPEN responsibility | p0016:P649–857 | CRI-EPI-003; CRI-EFF-001 |
+| V12-C17 | The maintained tower and records establish costly observation, bounded handling, and incomplete access to Andy's intent. | DIRECT artifact / INTERPRETIVE HYPOTHESIS | p0016:P861–1129 | CRI-EPI-001; CRI-KIK-002 |
+| V12-C18 | Festival continuation preserves real losses; new use/meaning for broken birds does not reverse or justify the rain. | DIRECT / bounded interpretation | p0016:P1157–1308; p0018:P1–48 | CRI-EPI-003; CRI-FORM-001; CRI-SOC-001 |
+| V12-C19 | Mitsu reports existing practices preceding Andy's fiction and plural appropriation afterward; her own flawed model gave slight self-liking. | DIRECT testimony, not exhaustive history | p0018:P147–250 | CRI-EPI-001; CRI-FORM-001; CRI-SOC-001 |
+| V12-C20 | Kikuchi resumes writing through revised observation but remains blocked at Nagisa's unavailable voice. | DIRECT / epistemic limit | p0018:P268–432; p0020:P1–66 | CRI-KIK-002; CRI-EPI-001 |
+| V12-C21 | The calf-deep-water encounter supplies distress and return, without explicit suicidal intent or attempt. | DIRECT / OPEN intent | p0021:P11–61 | CRI-KIK-001; CRI-EPI-002 |
+| V12-C22 | Omission and invention both retain authorial choice; Fumiya never met the actual Nagisa. | DIRECT acknowledgment | p0021:P95–149 | CRI-EPI-001; CRI-REL-004 |
+| V12-C23 | Mitsu lends the continuation under return conditions; the couple reads via translation and returns it. | DIRECT / access limit | p0021:P209–249, P402–412 | CRI-REL-004; CRI-KIK-002 |
+| V12-C24 | Visible verb revision ends in prayer; its psychological meaning is the couple's interpretation, not omniscient Andy testimony. | DIRECT artifact / INTERPRETIVE HYPOTHESIS | p0021:P250–391 | CRI-EPI-001; CRI-KIK-002; CRI-EFF-001 |
+| V12-C25 | Kikuchi owns an observation-plus-prayer method rather than eliminating all subjectivity. | DIRECT commitment / bounded interpretation | p0021:P418–433; p0026:P121–163 | CRI-KIK-002; CRI-TOM-003; CRI-EFF-001 |
+| V12-C26 | Hinami's first-person account adds reader-only self-hate, mixed prior reception, and genuine birthday pleasure. | DIRECT interiority / knowledge limit | p0022:P1–56 | CRI-HIN-002; CRI-HIN-003; CRI-HIN-004; CRI-HIN-005 |
+| V12-C27 | The birthday video's acute trigger is the remembered prayer room/scroll; no named religion or diagnosis follows. | DIRECT interiority / OPEN classification | p0022:P59–110 | CRI-HIN-005 |
+| V12-C28 | Delivery traverses refusal, loud peers, Haruka's independent reading, pressure, and Hinami's eventual choice. | DIRECT / mixed permission state | p0022:P114–226 | CRI-REL-004; CRI-REL-005; CRI-REL-006; CRI-YUZ-001; CRI-SOC-001; CRI-SOC-002; CRI-FORM-001 |
+| V12-C29 | Hinami's devaluing Mimimi model is limited; real Mimimi's self-regard is independently evidenced. | DIRECT focalizer model / CORROBORATED INFERENCE | p0013:P86–169; p0022:P294–398 | CRI-MIM-001; CRI-MIM-002; CRI-HIN-004 |
+| V12-C30 | Nagisa's death mechanism, intent, and prevention remain explicitly unknown after five-plus years. | DIRECT uncertainty / OPEN | p0022:P504–513 | CRI-EPI-002; CRI-HIN-005 |
+| V12-C31 | The fictional ellipse revises assumptions while preserving testable data; its personal meaning is metaphor, not factual relativism. | DIRECT fiction / INTERPRETIVE HYPOTHESIS | p0022:P523–742 | CRI-HIN-002; CRI-EPI-001; CRI-TOM-001 |
+| V12-C32 | The semantic-ruby reunion gives Hinami an address of love and thanks within fiction, not Nagisa's authenticated final voice. | DIRECT reading/thought / epistemic limit | p0022:P846–979 | CRI-EPI-001; CRI-HIN-005 |
+| V12-C33 | Hinami reports slight self-liking; the narration explicitly permits temporariness. | DIRECT / OPEN durability | p0026:P15–23 | CRI-HIN-006; CRI-HIN-002; CRI-EPI-003 |
+| V12-C34 | Fumiya immediately retracts replacing Nagisa; his enduring reassurance is marked as unfounded confidence. | DIRECT speech/thought | p0026:P40–47, P94–96 | CRI-REL-001; CRI-REL-003; CRI-REL-004; CRI-HIN-006 |
+| V12-C35 | Kikuchi denies tears prove the story right and owns a reason to write; publication/rights remain unresolved. | DIRECT / OPEN publication | p0026:P106–173 | CRI-KIK-002; CRI-REL-002; CRI-EPI-001; CRI-FORM-001 |
+| V12-C36 | Fumiya/Mimimi's practical event neglect leaves Ashigaru carrying the underprepared event. | DIRECT / bounded cost judgment | p0026:P177–202 | CRI-EFF-001; CRI-REL-006; CRI-TOM-005; CRI-MIM-003; CRI-SOC-001 |
+| V12-C37 | Hinami returns to the school/public peer setting and accepts an exhibition, without demonstrated presidency, coaching, full repair, or permanent recovery. | DIRECT / OPEN duration and roles | p0026:P212–239 | CRI-HIN-006; CRI-REL-001; CRI-REL-003; CRI-REL-005; CRI-REL-006; CRI-YUZ-001; CRI-SOC-001; CRI-SOC-002 |
+| V12-C38 | Both choose Found for a stage match; no final match result or earlier 31-frame motive is disclosed. | DIRECT / OPEN result | p0026:P231–258 | CRI-EFF-002; CRI-HIN-001; CRI-HIN-003; CRI-REL-003 |
+| V12-C39 | Fumiya owns showing life's/play's pleasure; professional practical viability remains incomplete. | DIRECT end / VALUE JUDGMENT / OPEN route | p0026:P261–284 | CRI-TOM-001; CRI-TOM-004; CRI-TOM-005; CRI-EFF-001; CRI-EFF-002; CRI-REL-003 |
+| V12-C40 | Afterword marks thematic closure while leaving further life events and a possible future book undecided; cover intent is paratext. | DIRECT attributed paratext / boundary limit | p0029:P9–35 | CRI-SRC-002; CRI-EPI-003 |
+
+Every V12-C ID above resolves to DR12 §8 and its stated primary locator; an affected owner can retrieve the full source-order discussion in DR12 §§3-5. Multiple family assignments do not multiply the ID count.
+
+### 18.3 Latest state of every existing corpus family
+
+The family identities and accepted earlier anchors remain unchanged. This table supplies the current formulation or an explicit bounded preservation for every one of the thirty-six families. It does not silently make an OPEN into a solved claim.
+
+| Stable family | V12 disposition / current formulation | Exact V12 retrieval and surviving limit |
+|---|---|---|
+| CRI-SRC-001 | PRESERVE. V06.5/V08.5 retain story-local placement; V12 extends only the numbered chain. | DR12 §§1-2; no new supplement chronology or adaptation admission. |
+| CRI-SRC-002 | STRENGTHEN. The final-volume label, cover explanation and unwritten-future topics are attributed paratext; they do not supply later events. | V12-C40; item/xhtml/p-0029.xhtml P9-35. A possible later book has no promised date. |
+| CRI-EPI-001 | STRENGTHEN / REVISE uptake. The novel now actually affects Hinami, while Kikuchi expressly denies that tears certify rightness or Nagisa's authentic feeling. Observation remains revisable and authorship retains personal choice. | V12-C08/C12/C15/C17/C19-C20/C22/C24-C25/C31-C32/C35; p-0013 P414-488; p-0026 P117-163. No fictional scene becomes actual testimony. |
+| CRI-EPI-002 | STRENGTHEN formation / OPEN cause. Aoi's own first person corroborates mechanisms and guilt while explicitly leaving Nagisa's last intent, mechanism and preventability unknown. | V12-C21/C26-C27/C30/C32; p-0022 P504-514. Distressed movement into calf-deep water is not an explicitly stated suicidal attempt; the school-year conflict remains. |
+| CRI-EPI-003 | REVISE current state / PRESERVE incompleteness. Completed local intervention, slight self-liking and school/public event return now occur; no durable cure, full governance, career result or terminal administrative closure follows. | V12-C16/C18/C33/C37/C40; p-0026 P15-23/P212-267. Earlier V11 absence remains historically accurate. |
+| CRI-TOM-001 | STRENGTHEN revisable learnability. Better questions, craft practice and shared expressive exhibition choice develop his earlier game model; his final judgment of fun is owned, not an objective fairness theorem. | V12-C31/C39; p-0026 P261-284; the ellipse is a literary model, not factual relativism or mathematical proof of ethics. |
+| CRI-TOM-002 | STRENGTHEN. Practiced conversational form can carry vulnerable friendship; childhood heroic form and learned craft can become owned without becoming universally right. | V12-C05/C11/C15; p-0011 P455-504; p-0014 P80-140; p-0016 P423-456. Rehearsal can still exert selective pressure. |
+| CRI-TOM-003 | STRENGTHEN / REVISE method. Shared testimony and observation do not remove the need to own an end; a prescribed self-luminous answer fails before Kikuchi names her own writing reason. | V12-C08/C25; p-0013 P414-488; p-0021 P418-433. His rescue end does not substitute for her end or Hinami's permission. |
+| CRI-TOM-004 | STRENGTHEN plural recovery. He receives partner care, revises his method and develops a shared audience aim without a new undefeated credential. | V12-C02/C09/C39; p-0011 P46-113; p-0026 P239-284. No new competitive defeat tests durability. |
+| CRI-TOM-005 | STRENGTHEN owned expressive end / OPEN viability. Public exhibition acceptance, character choice and a reason to show enjoyment develop, with no Endo/follower result, contract, income, family/university agreement or exit rule. | V12-C36/C39; p-0026 P177-284. Afterword future professional struggles are unwritten topics. |
+| CRI-HIN-001 | PRESERVE capacity / OPEN the pause. Existing learned competence survives; the 31 input-empty replay frames acquire no determinate intentional explanation. | V12-C01/C38; p-0011 P3-25; p-0026 P231-258. No final exhibition match or result is narrated. |
+| CRI-HIN-002 | STRENGTHEN formation / REVISE present warrant. Her narration directly reports proof's agency-giving hope and self-hate; she later distinguishes different remembered achievements rather than counting interchangeable first places. | V12-C26/C31/C33; p-0022 P6-40/P728-742. Her interpretation is not an exhaustive account of all motives. |
+| CRI-HIN-003 | STRENGTHEN. Genuine birthday pleasure, person-specific attachment, differentiated achievement and accepted shared-story exhibition exceed the correctness doctrine. | V12-C26/C38; p-0022 P42-56; p-0026 P239-267. No whole affirmative life plan or permanent preference law. |
+| CRI-HIN-004 | STRENGTHEN epistemic control. Her first-person devaluation of Mimimi is a focalized, outdated model; actual Mimimi's prior self-regard is separately evidenced. Public/private fluency is not a fake/true binary. | V12-C26/C29; p-0013 P86-169 versus p-0022 P294-398. Reader access does not equal peer knowledge. |
+| CRI-HIN-005 | STRENGTHEN precision / OPEN cause. The remembered room and scroll supply the acute video trigger; own guilt and love gain direct interior force, while named religion, singular cause and Nagisa's intent remain unavailable. | V12-C27/C30/C32; p-0022 P59-110/P504-514/P846-979. Fiction-mediated reconciliation is not historical revelation. |
+| CRI-HIN-006 | REVISE current endpoint. Slight self-liking and limited school/public participation replace total current absence; temporariness is expressly allowed and correctness loosens. | V12-C33-C34/C37; p-0026 P15-23/P212-267. No resumed presidency/coaching, complete positive end or durable recovery. |
+| CRI-MIM-001 | STRENGTHEN mechanism / REVISE sufficiency. Mimimi herself questions being able to retain self-liking when physically separated from Tama and identifies the next-Tama dependence risk. She does not predict that their relationship or Tama's recognition will end. | V12-C07/C29; p-0013 P26-79. The Hinami first-person dismissal cannot overwrite this actual growth. |
+| CRI-MIM-002 | REVISE sufficiency / PRESERVE value. Tama's recognition mattered; Mimimi additionally locates self-regard in chosen conduct she can endorse. | V12-C07; p-0013 P103-169. Neither specialness nor this episode supplies a permanent dyadic cure. |
+| CRI-MIM-003 | STRENGTHEN restraint / OPEN terminal rule. She still loves Tomozaki and reports refusing to exploit his weak moment because that would violate her own self-regard. | V12-C07/C36; p-0013 P103-154; p-0026 P177-202. Bright cooperation does not establish moved-on status, a future contact policy or an end to love. |
+| CRI-TAM-001 | STRENGTHEN owned craft / OPEN constraint. Cake repair and the childhood hero model show skilled chosen care, self-demand and acknowledged shop-manager's-daughter latitude with real staff/queue cost. | V12-C10-C11; p-0014 P30-140. No succession choice, universal ethical correctness, hostile persona-cage test or revenge resolution. |
+| CRI-YUZ-001 | STRENGTHEN actual maintenance / OPEN boundary. Yuzu participates in delivery and ordinary public return; negotiated burden-sharing and her absorber limit remain untested. | V12-C28/C37; p-0022 P124-158; p-0026 P212-239. Hinami's guessed apology motive is not a Yuzu declaration. |
+| CRI-MIZ-001 | REVISE friendship / OPEN pursuit. His admission of instrumental access-to-Aoi interest and later owned liking coexists with an actual awkward best-friend exchange and useful roleplay. | V12-C04-C05; p-0011 P374-504. No renewed romantic confession, reply, reciprocity or exit rule; V03 refusal survives. |
+| CRI-KIK-001 | STRENGTHEN selective range. Solo travel, changed permission, ordinary playful/affectionate observation and learning widen her habitat while exhaustion and renewed block remain. | V12-C09/C13/C21; p-0014 P158-206; p-0016 P35-190; p-0021 P11-61. New range is not general ease or a permanent cure. |
+| CRI-KIK-002 | REVISE owned reason / OPEN governance. She finishes the revised story and names an observation-plus-prayer reason to write after confronting the imposed answer and unknowability. | V12-C03/C08/C15/C17/C20/C23-C25/C35; p-0026 P106-173. Subject benefit does not prove truth, consent or a publication/rights result. |
+| CRI-KON-001 | PRESERVE / NO NEW RELEVANT TEST. Earlier prosocial capacity and unresolved accountability remain jointly necessary. | Complete V12 supplies no new Konno/Akiyama acknowledgment, apology, restitution or reform episode. Publisher mention is not conduct. |
+| CRI-REL-001 | REVISE support / OPEN coaching. The story and received response alter the rescue state, but there is no resumed tutorial contract or equality rule. | V12-C08/C28/C34/C37; p-0026 P40-102/P212-239. Tomozaki immediately withdraws the person-surrogate offer. |
+| CRI-REL-002 | STRENGTHEN local negotiation / OPEN standing rules. Particular author-sharing consent, solo refusal then changed agreement, and concrete received affection extend reciprocal choice. | V12-C02-C03/C09/C13/C35; p-0011 P70-108/P233-278; p-0014 P158-206. Knowingly persuasive own-will rhetoric and privacy-transfer costs remain. |
+| CRI-REL-003 | PRESERVE exceptional attachment / OPEN category. Shared story and game recognition deepen chosen connection alongside the continuing Kikuchi partnership. | V12-C34/C37-C39; p-0026 P106-173/P212-284. No new Hinami romantic declaration, reciprocal romance, permanent non-romance or terminal pairing. |
+| CRI-REL-004 | STRENGTHEN distinct permissions. Author access, subject refusal, Haruka's independent reading, later uptake, translation/loan conditions and withdrawn substitution are separate states. | V12-C03/C14/C22-C23/C28/C34-C35; p-0022 P124-284; p-0026 P117. Accurate/beneficial representation does not create onward rights. |
+| CRI-REL-005 | REVISE proposal to actual coalition / PRESERVE consent limit. Four members meet; testimony changes the method, relay reaches Hinami and she eventually reads. | V12-C06/C08/C28/C37; p-0011 P511-543; p-0013 P414-488; p-0022 P124-226. No equal knowledge, prior subject consent or blanket approval. |
+| CRI-REL-006 | STRENGTHEN ordinary networks / retain costs. Awkward friendship, food/play/handholding, Haruka's reading, peer delivery and public return are relationship evidence. | V12-C04-C05/C13/C28/C36-C37; p-0016 P35-190; p-0026 P177-239. Neglected council/event preparation leaves Ashigaru carrying the underprepared event. |
+| CRI-EFF-001 | STRENGTHEN goal/capacity/cost analysis. Owned rescue effort still requires method revision and a writer's independent reason; expertise, refusal, bodily capacity and practical repair remain distributed. | V12-C02/C09-C16/C24-C25/C36/C39; effort ledger §§79-84. No general stopping rule, career viability or permission follows from intensity. |
+| CRI-EFF-002 | REVISE expressive game scope / PRESERVE results. Jack is now main; both choose Found for shared history on a public stage. | V12-C01/C38-C39; p-0026 P231-284. V11 fourth place and defeat are unchanged; final result and pause motive remain unshown. |
+| CRI-SOC-001 | STRENGTHEN situated participation / no institutional leap. Peers enact delivery and a welcoming public audience; island cooperation involves different meanings and real repair labor. | V12-C14/C18-C19/C28/C36-C37; p-0018 P147-250; p-0026 P177-239. No stable control over atmosphere, full harmony or institutional prevention. |
+| CRI-SOC-002 | PRESERVE accountability limit / NO NEW RELEVANT TEST. Public reunion and helpful classmates cannot settle old justice, apology, restitution or Yuzu's capacity boundary. | V12-C28/C37; all-source negative result for Konno/Akiyama accountability. No change to the accepted teacher counterexample or punishment attribution correction. |
+| CRI-FORM-001 | STRENGTHEN mixed effect. The story actually benefits a wounded subject, Mitsu's practices remain imperfect and damaging/invasive costs are acknowledged. | V12-C18-C19/C28/C35; p-0022 P230-284; p-0026 P117-119. Tears and beneficial outcomes certify neither original method nor historical truth. |
+
+In this table a short member such as p-0022 means item/xhtml/p-0022.xhtml, with the same all-p convention. The explicit V12-claim table above and DR12 supply full routes. No new corpus-family identity is needed: the existing responsibilities cover these changes without obscuring the local propositions.
+
+### 18.4 Every inherited V11 claim: current adjudication
+
+The incoming exact wording remains in DR11 §8 and the immutable snapshot. These actions address its current scope after V12, not whether the historical V11 record should be rewritten.
+
+| Stable ID | Action | V12 evidence and scope / cumulative-owner action |
+|---|---|---|
+| V11-C01 | STRENGTHEN | item/xhtml/p-0022.xhtml P61-78 primary Aoi adds room/scroll trigger and memory gap; earlier video/rupture remains. Not merely seeing mother/sister faces. |
+| V11-C02 | REVISE | item/xhtml/p-0022.xhtml P114 two-month absence persists; item/xhtml/p-0026.xhtml P20/P212-239 partial self-liking and actual uniformed public return now occur. Durability/council handoff unshown. |
+| V11-C03 | REVISE | item/xhtml/p-0022.xhtml P83-110 self-hate explains inability to retain care; item/xhtml/p-0026.xhtml P20 small current self-liking accepted. No universal end to emptiness. |
+| V11-C04 | PRESERVE | item/xhtml/p-0011.xhtml P3-25 31 replay frames and item/xhtml/p-0026.xhtml P239-258 fluent character selection; the exhibition match and its result are not narrated. |
+| V11-C05 | STRENGTHEN | item/xhtml/p-0022.xhtml P7-10/P130-135 agency/result compulsion and fear of renewed correct effort explicit; partial later public deployment. |
+| V11-C06 | STRENGTHEN | item/xhtml/p-0022.xhtml P6/P61-76/P803-812 new inward reception corroborates retrospective meaning system; her self-theory not Yoko own testimony. |
+| V11-C07 | REVISE | item/xhtml/p-0022.xhtml P68-71 wood cabinet/hanging scroll/illegible marks and maternal prayer explicit. No denomination, deity, organization or full doctrine identified. |
+| V11-C08 | STRENGTHEN | item/xhtml/p-0022.xhtml P504-509 Aoi remembers defender-target arc and own silence. No new direct Nagisa narration. |
+| V11-C09 | STRENGTHEN | item/xhtml/p-0022.xhtml P510-514 explicitly retains accident, intentional road step, dizziness, despair possibilities; item/xhtml/p-0026.xhtml P117 denies fictional speech proof. |
+| V11-C10 | STRENGTHEN | item/xhtml/p-0022.xhtml P6/P61-78/P803-812 confirms maternal death-meaning rejection and current revaluation of own deviation. Doesn't prove Yoko saw daughter similarly. |
+| V11-C11 | STRENGTHEN | item/xhtml/p-0022.xhtml P7-40 directly joins results, agency, self-proof tutoring and exposure relief; no exhaustive origin for every taste. |
+| V11-C12 | PRESERVE | item/xhtml/p-0022.xhtml P6-40/P504-514 remains selected causal history; no total-cause authority granted. Ordinary food/game/sibling/skill specificity persists. |
+| V11-C13 | STRENGTHEN | item/xhtml/p-0022.xhtml P504-514/P896-932 remembered guilt, apology and attachment. Guilt is actual present affect, not proved culpability/preventability. |
+| V11-C14 | REVISE | item/xhtml/p-0013.xhtml P414-488 author/narrator accept imposed-answer critique; item/xhtml/p-0021.xhtml P124/P192 recognizes cannot speak Nagisa; item/xhtml/p-0026.xhtml P40-59 staged surrogate explicitly withdrawn. Still intervention crosses refusal and has costs. |
+| V11-C15 | STRENGTHEN | item/xhtml/p-0022.xhtml P827-844 new direct Aoi interior tentatively reinterprets her disclosure as hoping time might move and an unavailable answer restore humanity; this is a present self-interpretation, not an exhaustive original motive; not consent for subsequent fictionalization. |
+| V11-C16 | REVISE | item/xhtml/p-0026.xhtml P40-102 refuses person-surrogate and offers shared story with Aoi doubt; her current reply/action accepted. Complete independently authored philosophy not demonstrated. |
+| V11-C17 | PRESERVE | No V11 result overwritten and no final rematch winner narrated item/xhtml/p-0026.xhtml P258-284. |
+| V11-C18 | REVISE | item/xhtml/p-0026.xhtml P267 Aoi abandons correctness obsession, p283-284 Fumiya affirms fun life. Earlier crisis verdict remains Aoi's historical one, not false record. |
+| V11-C19 | REVISE | item/xhtml/p-0011.xhtml P27-113 received care, item/xhtml/p-0026.xhtml P173/P260-284 expressive audience aim; recovery no longer unique-savior-only. No response to a new defeat tested. |
+| V11-C20 | PRESERVE | Main now Jack item/xhtml/p-0026.xhtml P239; no changed tournament placing or new fan metrics. |
+| V11-C21 | OPEN | Public Ashigaru exhibit/expressive aim item/xhtml/p-0026.xhtml P177-284, no contract/income/viability/family agreement/exit rule. |
+| V11-C22 | OPEN | Entire source supplies no Endo deal/follower target outcome. Afterword pro-future subject is paratext, not result. |
+| V11-C23 | PRESERVE | Haruka is a new reader/mediator at item/xhtml/p-0022.xhtml P183-226, no new council-president progress stated. |
+| V11-C24 | STRENGTHEN | item/xhtml/p-0022.xhtml P183-226 and item/xhtml/p-0024.xhtml P9-12 show Haruka's emotional reading and departure DM as her own stake and aid; no sustained model-independence demonstrated. |
+| V11-C25 | STRENGTHEN | item/xhtml/p-0022.xhtml P124-158 intermediated delivery despite Aoi refusal; Haruka active readership and DM item/xhtml/p-0024.xhtml P9-12. New participant choice does not retroactively confer subject permission. |
+| V11-C26 | OPEN | Finished renamed story item/xhtml/p-0026.xhtml P107-119 is actual creative completion, no formal publication/contract/income; item/xhtml/p-0029.xhtml P19 Kikuchi dream afterward unwritten. |
+| V11-C27 | STRENGTHEN | item/xhtml/p-0013.xhtml P414-488; item/xhtml/p-0022.xhtml P230-284 painful accurate portrayal; benefit and wound coexist. |
+| V11-C28 | REVISE | item/xhtml/p-0021.xhtml P429; item/xhtml/p-0026.xhtml P159-163 independent reason to offer believable support after observation/prayer now stated and enacted. Doesn't equal career completion. |
+| V11-C29 | STRENGTHEN | item/xhtml/p-0022.xhtml P728-979 actual Aoi reading opens her own response; item/xhtml/p-0026.xhtml P20 reception. P117 explicitly denies tears as truth/rightness certification. |
+| V11-C30 | STRENGTHEN | item/xhtml/p-0022.xhtml P1-40/P846-979 is new primary Aoi interior evidence for her feelings, while Alcia suicide/self-destruction imagery remains fiction; Nagisa reconstruction not fact. |
+| V11-C31 | STRENGTHEN | item/xhtml/p-0011.xhtml P70-108 care/receptivity; item/xhtml/p-0014.xhtml P158-206 negotiated arrival; item/xhtml/p-0016.xhtml P156-191 concrete unearned-value affection; item/xhtml/p-0026.xhtml P106-173 cafe reciprocal aim question. Costs/boundaries remain. |
+| V11-C32 | OPEN | Draft-sharing author consent, solo-trip refusal then changed consent, no whole privacy/allocation/third-party rule; item/xhtml/p-0011.xhtml P353-390 recipient-variant truth and disclosure cost remain. |
+| V11-C33 | OPEN | item/xhtml/p-0011.xhtml P417-488 instrumental admission/friendship repair and item/xhtml/p-0013.xhtml P173-277 roleplay are new; no renewed romantic confession/reply/stop. V03 refusal never cancelled. |
+| V11-C34 | REVISE | item/xhtml/p-0013.xhtml P59-73 separation/next-Tama fear, P143-154 self-owned conduct; continuing liked person explicit P105/P141; no cessation/terminal rule, leadership neglected item/xhtml/p-0026.xhtml P181. |
+| V11-C35 | OPEN | item/xhtml/p-0022.xhtml P124-158 delivery and item/xhtml/p-0026.xhtml P212-239 presence do not establish Yuzu's absorber boundary, Nakamura's negotiated labor or Konno/Akiyama accountability. |
+| V11-C36 | OPEN | Complete c7c V12 supplies no new Rena conduct; item/xhtml/p-0029.xhtml P12/P19 future mentions are not compliance. |
+| V11-C37 | REVISE | Four-person meetings item/xhtml/p-0011.xhtml P511-543, differentiated interviews/relay/delivery/actual reception, public peer network item/xhtml/p-0026.xhtml P212-239. Assigned original centrality/council duties not restored by implication. |
+| V11-C38 | STRENGTHEN | item/xhtml/p-0013.xhtml P414-488 peers correct the author's method; her first conclusion is rejected by her own simulation; item/xhtml/p-0021.xhtml P418-433 revises her reason; item/xhtml/p-0022.xhtml P124-226 shows Aoi's refusal then actual chosen reading. No prior consent or blanket approval. |
+| V11-C39 | REVISE | item/xhtml/p-0026.xhtml P15-23/P212-267 now supplies school return, accepted public exhibition and character choice, slight self-liking and completed local intervention; no coaching restart, whole-life future, final romance, match winner or durable cure. V11 endpoint remains historically correct. |
+| V11-C40 | REVISE | V12 complete source now read; item/xhtml/p-0029.xhtml P9-19 marks thematic final with possible untimed further volume. Not authorization to assume unwritten futures or formal terminal project closure. |
+
+### 18.5 All fourteen prospective V12 questions
+
+These questions were frozen before narrative access. Their answers remain bounded by their original falsifiers. They are new V12-Q identities; they do not add fourteen invented questions to the V11 register or overwrite the twelve attested V11-Q identities.
+
+| Stable ID | Action | Independent adjudication | Residual falsifier / exact route |
+|---|---|---|---|
+| V12-Q01 | STRENGTHEN | Medium prediction supported: actual four-member coalition, peer testimony changes story, simulation critique and island observation/prayer revise method, relay delivery/reception realized | Subject initially refuses, then takes/reads herself; no representation agreement or stopping rule. item/xhtml/p-0011.xhtml P511-543; item/xhtml/p-0013.xhtml P414-488; item/xhtml/p-0022.xhtml P124-226. |
+| V12-Q02 | STRENGTHEN | Victory/reassurance alone insufficient supported; received story yields her own small present self-liking and public participation and accepted exhibition | item/xhtml/p-0026.xhtml P23 narrator permits transient state; no durable positive life-end ownership. Her no-correctness statement P267 is local, not permanent cure. Exact route: item/xhtml/p-0026.xhtml P15-23/P212-267. |
+| V12-Q03 | REVISE | Partial contact/school/friend return and exhibition acceptance achieved item/xhtml/p-0026.xhtml P177-284 | Council reinstatement/coaching regularity/full routine absent; staged exhibition no result. |
+| V12-Q04 | STRENGTHEN | Plural recovery: receiving couple care, own participation/story audience goal; exhibition acceptance and character choice for shared history/fun | No new defeat or sustained professional interval. item/xhtml/p-0011.xhtml P70-108; item/xhtml/p-0016.xhtml P156-191; item/xhtml/p-0026.xhtml P173/239-284. |
+| V12-Q05 | REVISE | Owned reason and completed revised novel achieved; author/subject cost+benefit distinction explicit, so prediction supported | item/xhtml/p-0026.xhtml P117 explicitly truth unresolved; actual receptive reading doesn't supply earlier consent, contract or release. Exact route: item/xhtml/p-0013.xhtml P414-488; item/xhtml/p-0021.xhtml P418-433; item/xhtml/p-0026.xhtml P106-173. |
+| V12-Q06 | STRENGTHEN | New pressure/cost and renewed negotiation strongly supported; concrete received care and travel-boundary change | Own-will rhetoric knowingly secures agreement item/xhtml/p-0011.xhtml P97-98, privacy transfer/discretion remains, no comprehensive prospective rules. |
+| V12-Q07 | OPEN | Friendship honesty/coauthor aid develops; career only paratext aspiration, no renewed pursuit conclusion | V03 refusal remains. Afterword P19 points toward future feelings, no actual new reply/stop. Exact route: item/xhtml/p-0011.xhtml P374-504; item/xhtml/p-0029.xhtml P19. |
+| V12-Q08 | REVISE | Direct self-ownership through declined romantic opportunism and continuing love; meaningful playful run/leadership contribution plus neglected duties | No terminal romantic/private-contact/vocation choice; cannot flatten bright support into healed romance. Exact route: item/xhtml/p-0013.xhtml P59-169; item/xhtml/p-0026.xhtml P177-202. |
+| V12-Q09 | REVISE | Tama craft, cost and accepted self-described distortion richly retested, ordinary peer return; Yuzu/Nakamura/Takei material help real | Family-shop career, reciprocal Tama/Mimimi future, revenge processing and Yuzu absorber boundary not settled. Exact route: item/xhtml/p-0014.xhtml P30-140; item/xhtml/p-0022.xhtml P124-158; item/xhtml/p-0026.xhtml P212-239. |
+| V12-Q10 | STRENGTHEN | Medium-high prediction sustained: death intent explicitly unknown; new Aoi interior narrows video trigger and own motives | No Nagisa primary intent despite immersive fictional reunion; no grade-conflict/religion/institution/mug/whole sibling-repair resolution. Exact route: item/xhtml/p-0022.xhtml P59-110/P504-514/P846-979; item/xhtml/p-0026.xhtml P117. |
+| V12-Q11 | OPEN | Desire/expressive professional rationale and public demonstration grow; creative completion achieved | No Endo/follower/earnings/sponsorship/equipment/university/family/exit/publication-contract result. Afterword pro-future phrase not plot event. Exact route: item/xhtml/p-0026.xhtml P106-173/P239-284; item/xhtml/p-0029.xhtml P9-19. |
+| V12-Q12 | OPEN | No new relevant accountability/contact-stop event found in complete admitted source | Silence does not prove Konno/Akiyama repair or Rena compliance; promotional cast mention not conduct. Exact route: complete c7c V12; item/xhtml/p-0029.xhtml P12/P19 is paratext, not accountability action. |
+| V12-Q13 | REVISE | Rich body/craft/food/room/tea/play/recipient speech, island locals' independent labor, Aoi first-person without Fumiya, Haruka private reading | Selective spotlight; Gumi/Rena quiet, no invention for absent actors. Cover identifies Kikuchi by afterword, image identity alone insufficient. Exact route: item/xhtml/p-0016.xhtml P35-191/P422-857; item/xhtml/p-0022.xhtml P183-226; item/xhtml/p-0029.xhtml P29-33. |
+| V12-Q14 | STRENGTHEN | Scope revision supported: skill/sincerity, faith/doubt, observation/prayer, external story/own uptake, joy with imperfection | Story benefit doesn't prove factual truth/ethical rightness; no mathematical ethics law; narrator final fun judgment doesn't erase unfairness or justify every former intervention. Exact route: item/xhtml/p-0021.xhtml P239-433; item/xhtml/p-0022.xhtml P523-742; item/xhtml/p-0026.xhtml P117-163/P261-284. |
+
+### 18.6 All fifteen standing open-question families
+
+The complete historical question wording and lineage remain in §12. The following table controls current state for every existing CRI-OQ identity; no new open-family identifier is required merely because this is the final admitted volume.
+
+| Stable family | V12 action | Exact evidence and counterevidence | Cumulative-owner action / residual OPEN |
+|---|---|---|---|
+| CRI-OQ-HIN-001 | STRENGTHEN indeterminacy / OPEN | p-0022.xhtml P504-514 explicit accident/intentional step/dizziness/despair alternatives, five-year unknowability; P827-844 tentative retrospective interpretation of her disclosure hopes; p-0026.xhtml P117 denies fictional speech authenticity | Preserve grade tension, intent/prevention/singular cause OPEN. Add room/scroll trigger detail p-0022.xhtml P61-78 without named religion. |
+| CRI-OQ-HIN-002 | REVISE bounded movement / OPEN | p-0026.xhtml P20 small self-liking, P23 possible transience, P212-239 uniformed audience/exhibition acceptance, P267 correctness relaxation | Promote limited participation; no full affirmative governing life-end, durable cure, council reinstatement or resumed tutorials. |
+| CRI-OQ-HIN-003 | REVISE support / OPEN coaching | p-0013.xhtml P414-488 imposed-answer critique; p-0022.xhtml P157 refusal/P219-226 own receipt; p-0026.xhtml P40-63 surrogate offer immediately withdrawn, story offered | Uptake revises total failure. Prior subject permission, whole rescue policy, coaching agreement and stopping rule absent. |
+| CRI-OQ-REL-001 | OPEN classification | p-0026.xhtml P106-173 couple cafe and reciprocal professional-end question; P266-284 Aoi shared competition/expressive attachment | Preserve Kikuchi partnership plus exceptional Aoi attachment; no new Aoi romantic declaration/reciprocity or terminal couple future. |
+| CRI-OQ-KIK-001 | STRENGTHEN agency / OPEN rules | p-0011.xhtml P70-108 care plus knowingly persuasive own-will rhetoric P97-98; p-0013.xhtml P563-591 solo refusal; p-0014.xhtml P194-206 changed consent; p-0016.xhtml P156-191 concrete affection | Promote negotiated changing permission and received care, retain privacy/allocation/third-party governance incompleteness and costs. |
+| CRI-OQ-KIK-002 | REVISE owned reason / OPEN consent | p-0013.xhtml P414-488 self-critique; p-0021.xhtml P429-433 observation/prayer; p-0026.xhtml P117-163 own reason and non-certification; p-0022.xhtml P230-284 actual initial injury | Owned reason and finished retitled work achieved; no stable mutual representation/publication rule. Truth, uptake, ethical rightness and formal release remain distinct. |
+| CRI-OQ-MIM-001 | STRENGTHEN restraint / OPEN terminally | p-0013.xhtml P103-154 declined exploiting weakened Fumiya; P105/P141 continuing liked person/other relationship; P59-73 next-Tama risk | Revise dependence-only/bright-helper reduction; no end of love, terminal rule, private-contact future or selected vocation. |
+| CRI-OQ-REN-001 | OPEN / no new test | Complete c7c source supplies no new Rena scene; p-0029.xhtml P12/P19 future topics | Preserve V11 refusal and partner boundary; silence gives no general compliance or healing. |
+| CRI-OQ-MIZ-001 | OPEN pursuit / REVISE friendship | p-0011.xhtml P417-488 instrumental admission and best-friend reciprocity; p-0013.xhtml P173-277 roleplay; p-0029.xhtml P19 unwritten future feeling topic | Add vulnerable friendship/author cooperation. V03 refusal preserved; no renewed confession/reply/exit policy. |
+| CRI-OQ-VOC-001 | OPEN experiment / STRENGTHEN end | p-0026.xhtml P173/P177-284 public exhibition/Ashigaru and expressive aim; complete c7c no Endo/follower result | Record practice and audience reason; no pro contract, income, viability, family/university/exit outcome. Afterword future pro-Fumiya phrase not plot entry. |
+| CRI-OQ-VOC-002 | PRESERVE mixed transfer / OPEN durability | p-0026.xhtml P239 Jack now main; P246-258 Found mirror for story, no final result; p-0011.xhtml P11-25 31 replay frames intent unknown | Preserve V11 fourth-place/defeat history; add strength-plus-story choice, no optimality/career guarantee. |
+| CRI-OQ-SOC-001 | OPEN accountability / REVISE local action | p-0022.xhtml P124-158 Yuzu/Nakamura/Takei delivery; p-0026.xhtml P212-234 network return; p-0013.xhtml P103-154 Mimimi restraint | Material roles real. V12 supplies no NEW Konno/Akiyama apology/restitution, Yuzu capacity boundary, Rena general stop or Mimimi terminal rule. Preserve the actual V05 Akiyama/group apology (§19). |
+| CRI-OQ-TAM-001 | REVISE situated craft / OPEN hostile constraint | p-0014.xhtml P30-76 skill/costly cake repair, P100-144 hero model/self-described distortion/shop-manager's-daughter latitude; p-0026.xhtml P212/P234 Aoi care | Promote craft/owned ethic with cost/privilege counterevidence. No career choice, universal rightness, hostile persona-cage test or revenge resolution. |
+| CRI-OQ-YUZ-001 | STRENGTHEN maintenance / OPEN boundary | p-0022.xhtml P124-158 delivery; P125-127 apology motive is Aoi hypothesis; p-0026.xhtml P230 unheard words/hand wave beside Nakamura | Delivery and ordinary presence promoted; conjectured apology not event, negotiated burden/capacity rule absent. |
+| CRI-OQ-SYN-001 | REVISE source closure / TRANSFER | p-0029.xhtml P9-19 final thematic boundary plus possible untimed further book; P12/P19 unwritten futures | Reading gate requires complete transaction; cumulative/R06/specialist/convergence/model gates retain dependencies. Literary end cannot substitute actual formal completion. |
+
+### 18.7 Rejected propagation and unchanged uncertainties
+
+The following current inferences are rejected or bounded explicitly:
+
+- REJECT tears, immersive reunion, or useful fiction as proof of Nagisa's real intention, Hinami's culpability, the story's rightness, or prior permission. Nagisa's final cause and preventability remain OPEN.
+- REJECT a clinical diagnosis from either sister's crisis, a named religious classification from the room/scroll, and an explicit suicidal intention for Kikuchi from calf-deep movement alone.
+- REJECT restored presidency/coaching, complete routine, permanent recovery, or a final match winner from the actual limited return. Hinami's slight self-liking may be transient.
+- REJECT attributing the entire Aoi first-person chapter to Tomozaki's knowledge, Alcia's objection to actual Hinami speech, or Hinami's stale Mimimi model to narrator-certified present truth.
+- REJECT revived unique-savior authority, equal party knowledge, or subject consent from the peers' actual help. The staged offer to replace Nagisa is immediately retracted by Tomozaki.
+- REJECT moved-on Mimimi, renewed romantic acceptance for Mizusawa, broad Rena compliance, Konno/Akiyama accountability, or Yuzu's capacity settlement from silence or a final public gathering.
+- REJECT professional viability, the Endo/follower result, a publishing contract, a final romantic future, or unwritten later life from the afterword. Its possible continuation and future topics are attributed paratext.
+- PRESERVE the V10/V11 school-year tension and the separate earlier source and locator receipts. V12 does not arbitrate them by ending the novel.
+
+### 18.8 Accounting, propagation and gate receipt
+
+The complete universe is fourteen source-facing readings: 359 claims and 154 questions, 513 distinct local IDs. The promoted manifests contain 160 claims and 44 questions; the intentionally local complement remains 199 claims and 110 questions. All forty V12-C and all fourteen V12-Q identities have explicit routes above, all forty inherited V11-C identities have adjudications, all fifteen CRI-OQ families have current statuses, and all thirty-six preexisting corpus families have a latest-state decision. Repeated citations and adjudications do not create IDs.
+
+The original R01-R03 twelve ESC queues and PASS locator receipts remain historical reviewed retrieval, with their interpretive OPENs preserved. The new all-p V12 locators concern a separate witness and cannot be substituted for those earlier ordinals. New wording-sensitive uses include the actual/simulated voice distinction, prayer revisions, first-person/semantic-ruby reception, the withdrawn surrogate offer and explicit denial that tears prove rightness. DR12 and the voice ledger own that language responsibility; this amendment does not invent a new L3 quotation corpus.
+
+This update propagates current retrieval into the effort ledger and supplies routes for the other cumulative owners and later studies. It neither rewrites frozen readings nor declares the independent downstream owners complete. R06 scope, full-corpus omission coverage, mature V12 monograph revision, relationship/theme specialists, adversarial convergence, full-series synthesis and eligible reconstruction remain governed work. Exact-head validation, publication/integration, source-run completion and formal terminal governance closure require their actual separate receipts.
+
+V1.3 (2026-10-22) updates the live boundary, inventory, manifests and route key and adds §18. Accepted §§5-17 remain intact; the V11 gate table is historical. The former V1.0 execution label is not asserted as a current platform setting; frontmatter now cites the live reasoning-policy version without inventing a model or capability equivalence. A bounded named-subject/reference check covered the amendment, actor/reader limits, all three adjudication tables and all family assignments. No known material attribution defect is retained; genuine uncertainty stays explicit.
+
+## 19. Retrospective correction to the class-accountability baseline — 2026-10-23
+
+| Stable family | Prior formulation at risk | Source-grounded current disposition | Downstream owners |
+|---|---|---|---|
+| CRI-SOC-002 | Cessation/re-entry described through generic absence of acknowledgment/apology. | **REVISE baseline / PRESERVE unfinished justice.** V05 `text/part0028.html` P2–6/P16–25: Akiyama/group apology is direct after Konno leaves; full accounting, restitution, safeguard and durable trust remain OPEN. | SOC-C11/social §18; CS §20; current map; R06 Tama/Yuzu and class/ethics specialist |
+| CRI-KON-001 | Joined Konno/Akiyama shorthand can transfer absence or conduct between actors. | **PRESERVE Konno's distinct state.** Akiyama's apology is not Konno's. Konno's useful later conduct is neither erased nor made restitution. | Konno/Akiyama bounded scope and ensemble; CS §13.2/13.5 |
+| CRI-OQ-SOC-001 | “Do the accountability lines move?” interpreted as whether either actor ever apologized. | **REVISE question / OPEN full repair.** Brief apology occurred in V05. Ask about complete participation acknowledgment, accountable repair, durable trust and institutions; V12 adds no new test. | Current OQ row, social open questions, final synthesis only after dependencies |
+
+The selected V05 EPUB SHA256 is `f43355c286c8b33db529febb6389cb08fa9ef5a65a7e13e3c2a8490214965e89`. Independent producer and integrating-author returns inspected the full surrounding Japanese sequence, including Konno/Yuzu departure and Tama's response. P17 is the direct apology, P18 explicit narrator identification, P19 other members' apologies, P21–24 weighted assent, P25 class relaxation. The narrator's ceasefire interpretation is attributed; neither guilt-like delivery nor relaxation proves complete responsibility accounting or forgiveness.
+
+This correction is **DIRECT** for speech/action and an explicit epistemic limit for remedy. It records a demonstrated omission, not a preferred moral reading. Historical source-facing joined abstentions and accepted R01–R05 receipts retain their bytes; their earlier negatives cannot override this exact return. The source claim/question universe stays 359/154, corpus families stay thirty-six and OQ families fifteen: this is a revision inside existing identities, not an invented new source claim or renumbering. §18's no-NEW-V12 test remains correct and is made explicit where needed.
+
+The same coverage review narrows two wording choices in `CRI-TAM-001`/`CRI-OQ-TAM-001`: “owner-daughter” now reads **shop-manager's-daughter**, matching Tama's `店長の娘` at V12 `item/xhtml/p-0014.xhtml` P119–141. Her acknowledged latitude and the staff/queue cost remain direct; legal ownership of the business is not established by that phrase. The source-facing reading already uses manager's daughter and remains unchanged.
+
+## 20. Attribution erratum — earlier spoken disclosure within V12's private recollection
+
+**2026-10-23; REVISE a volume label, PRESERVE differentiated knowledge.** The frozen [V12 reading](../02%20Sequential%20Readings/TOMOZAKI_V12_DEEP_READING.md) §3.6 calls the recalled questions at `item/xhtml/p-0022.xhtml` P825–841 “V11's spoken questions”; its §4.5 Fumiya→Hinami-history cell likewise calls the overlap V11. Those labels are too narrow. Several exact questions already occur in the **V10 ride**: V12 P825/P828 correspond to V10 `text/part0024.html` P162/P176, and V12 P836/P839 to V10 `text/part0026.html` P17/P25. The V10 contextual windows P126–178 and P1–42, respectively, and V12 P825–841 were independently returned to by the Hinami-update producer and integrating author.
+
+The correct current formulation is **earlier disclosed questions, including the V10 ride, recalled within new private reflection**. V12 P833's five-year phrasing does not establish that every line of the recollection originates exclusively in one earlier volume. The new retrospective possibility that coaching and disclosure contained hope of time moving again remains Aoi's tentative self-interpretation; matching a spoken question does not certify one original motive. These are revisions within `CRI-HIN-001`/`002`/`005` and `CRI-EPI-001`, not new frozen claim identities.
+
+The access limit remains essential: particular matching earlier speech is evidence that Fumiya heard that content. It does **not** turn all V11 mixed-person retrospective narration or V12 first-person interiority into an exhaustive transcript delivered to him, Kikuchi or the peer group. No additional disclosure, Nagisa intention, prevention counterfactual or grade reconciliation is supplied by this chronological correction. Current principal studies and the later relationship/knowledge specialists must use the qualified route.
+
+Verified witnesses: V10 SHA-256 `316d510c2062119a1d3b77e3bb1cb6746340479db07c16579504bd1d5060b2d7`; V12 SHA-256 `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c`. P counts every HTML paragraph, including empty/image paragraphs, reset per exact member. The immutable V12 reading remains byte-identical at SHA-256 `cb6c309c995be6a9777e2fff493c870c0f8265beee6aa4c4ce2c329d3a4a1dc6`; this attributable current erratum qualifies the two labels without rewriting the source-order freeze or the completed consultation receipt. The source claim/question and family universes are unchanged.
+
+## 21. Costume evidence and individual initiation — 2026-10-23
+
+**REVISE the sample/label shorthand; STRENGTHEN actor attribution.** DR12 §3.4's formulation that a scarlet sample bears a “wrong blue label” can misidentify the error. V12 `item/xhtml/p-0016.xhtml` P701 explicitly identifies the written blue-color name as correct; P702–707 shows the attached scarlet sample mismatching that name. P708–710 supplies Fumiya's imagined swap/knot mechanisms and non-blame interpretation, rather than a demonstrated responsible actor. The narrower current result is a **sample/label mismatch, exact mechanism and responsibility unestablished**. The current relationship row's earlier “label error” is qualified accordingly; the social owner's already specific “wrong sample” needs no correction.
+
+Fumiya's individual action also matters within the couple's later joint proposal. Kikuchi touches the cord without pulling at P685. Fumiya proposes opening at P686–688 and opens the package at P690, after her assent; at P799 he tells Mitsu that the proposal was his. Mitsu's objection and later expert acceptance do not erase that initiation or create prior permission. The current Fumiya study and relationship owner retain this more precise sequence. It strengthens existing `CRI-TOM-003`, `CRI-REL-005` and `CRI-EPI-001` access/authority responsibilities without inventing a new frozen claim.
+
+The Fumiya-update reviewer and integrating author independently inspected the selected c7c V12 witness at P675–710/P790–809, preserving all-P/ruby conventions. The same review returned to `item/xhtml/p-0011.xhtml` P86–103: P96–98 directly narrates Fumiya's awareness that his owned-wish formulation will secure Kikuchi's acceptance and his understanding of its unfairness. The character owner's existing acknowledgment is preserved; the relationship row and new monograph band make that awareness explicit. This is not an assertion that her acceptance never occurred or that he had no sincere wish.
+
+The supporting-character name route is also made precise. The innkeeper at p0016 P235 gives **Mitsu**, while **Umayahara Mitsu / 馬屋原ミツ** is positively attested later: a visitor addresses her surname with `うま・や・はら` ruby at P634, and the delivered package is addressed to her full name at P653. The integrating author read P625–660 with source base/ruby retained. DR12's earlier full-name introduction at the innkeeper's P195–260 route should therefore be retrieved through these later positive attestations. An unsuccessful raw-XHTML string search was not absence evidence: inline span/ruby markup separates the written name's characters. The name is supported; this is a locator/attribution refinement, not an unidentified surname to invent or an additional person.
+
+DR12 and its source-claim universe remain unchanged at the digest in §20. The current errata preserve completed consultation and the earlier source-order formulation while making the demonstrated precision available to later studies. Literary effect, technical usefulness, consent, individual initiation and subsequent responsibility must remain separately recoverable.
+
+
+## 22. V11 Rena encounter — recipient precision during R07 review
+
+**2026-10-23 — REVISE attribution, preserve the relationship/boundary findings.** Current REL §6 had compressed the encounter as Rena taking Tomozaki's arm and belittling him. The selected V11 Japanese witness, SHA256 `c8f3fa288d426c0f2c2e2816366df4d636492ff4ec5bcb71d2a7b79bdba12141`, `item/xhtml/p-0028.xhtml` P210–258 (all 258 HTML p; member SHA256 `c509ac2cf2b2fee2426c3909263ce3bf5bbd5f2e94cacba5d965713017edb8dc`) distinguishes the recipients and channels.
+
+Rena's provocative/looking-down manner at P228 is directed at Kikuchi. Her later evaluating gaze and 'cute' compliment at P240–244 also address Kikuchi; the condescending force is rendered through Fumiya's narration, not an independently authenticated Rena motive. Taking his arm at P230 is a different act, immediately removed by him at P231–232. Kikuchi then objects at P233, identifies herself as his girlfriend at P239 and asks Rena not to make sexual remarks to him at P255. The subsequent departure supplies no general compliance rule. The R07 producer independently inspected the source sequence, and the integrating author freshly read P210–258 with witness hash/CRC, member hash, all-P and ruby controls.
+
+REL §6 now assigns the appraisal to Kikuchi and retains focalization. Existing CRI-REL-004, CRI-OQ-REN-001 and the couple/Rena owner identities remain stable. The correction preserves actual refusal, partner agency and unresolved future conduct; it does not add a new apology, intent, appearance absence, affair or private knowledge transfer. Historical readings and receipts are unchanged.
+
+
+## 23. V12 school guest — activity plan versus printed program
+
+**2026-10-23 — REVISE wording, preserve actual neglected responsibility.** Review of the Fumiya–Mimimi relationship exposed an overcompressed program/no-program sentence. The same ambiguity appeared in the newly placed Ashigaru dossier §10 as “The guest is chosen; the program is not.” V12 `item/xhtml/p-0026.xhtml` P181 says that the guest is fixed but what to do is undecided. P182 gives a real monitor/projector fallback, and P214 positively shows the day's printed program in Aoi's lap. Root freshly read P177–258; an independent reader checked P177–238 and confirmed the exact replacement. The approved witness SHA256 is `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c`; member SHA256 `c612b5faedc54d6ac334d8ec7fa2f899819683edbfd55b45d992179b81214044`, all 284 HTML p counted one-based including empty/image p, reset per member, with ruby retained.
+
+The current Ashigaru sentence now says “The guest is chosen; what the guest will do has not been settled.” AS-E10/AS-P11 remain stable, as do the source's joint-neglect finding, prepared fallback, actual guest work and unnarrated match boundary. The Mimimi specialist's independently rebound wording makes the same distinction. This supplies no preparation/rehearsal timing, quantified fee loss, lifetime reliability verdict or new claim family. The earlier sealed dossiers, renders and review receipts remain unchanged; the supporting evidence manifest records the attributable post-placement delta. Frozen source-facing readings are not rewritten.
+
+
+## 24. R10 character/ledger convergence — positive direction and explicit terms
+
+**2026-10-23 — REVISE current precision after separate independent source returns and exact root literary/preservation acceptance.** The character-state ledger §12.1 previously said that V08–V09 established no independent future direction for Yuzu. V08 `text/part0014.html` P150–176 gives her addressed Aogaku preference at P163 and Fumiya’s recognition that she has a university in mind. Her reason retains `らしい`: she has heard that reader-model China-chan attended. Current Yuzu §16.2/IY-R11 already preserves this. The negative is narrowed to no admission, feasibility, settled vocation or durable capacity rule. This strengthens ordinary selected agency within CS-YUZ-01/03 and CRI-YUZ-001; it does not create a modeling career or a new frozen source identity.
+
+The same ledger’s §11.2 Endo/game-contact row previously called Mizusawa’s vocational route one without terms. V10 `text/part0017.html` P36–61 explicitly gives the three-month follower proposal and its pressure sequence, the six-month promotion/game exchange and later continuation discussion at P47, and accepted restatement at P55–61. Current Mizusawa §8.4/§9.3 and supporting Endo C-D22 already retain those terms. The correction distinguishes an explicit bargain from demonstrated sustained work, adequate early-exit/quality/disclosure protections, realized income and a vocational failure test. CS-MIZ-03, CRI-MIZ-001, CRI-TOM-005, CRI-OQ-VOC-001 and the effort/relationship owners retain their existing uncertainty; agreement and performance are different states.
+
+The independent character auditor and integrating author separately returned to V08 P150–176 and V10 P1–63. Selected witnesses: V08 SHA256 `05c238aeb33ed48ffe47ed1c9ba339c6d0e0e2a7b0dd32f78b166f46460de49e`, member `text/part0014.html`, all-P374, member SHA256 `6cf646142ef0b40f0daf4d3dc152da079b990856758b440ffd692d1d4e651a72`; V10 SHA256 `316d510c2062119a1d3b77e3bb1cb6746340479db07c16579504bd1d5060b2d7`, member `text/part0017.html`, all-P295, member SHA256 `e5009ef7c97153dccae7ab714a6acfaa818acfe679a754f88f993028d4976dc5`. All-P resets per exact member and includes empty/image paragraphs; ruby was retained, and admitted witness/member hashes and ZIP CRC were checked. The frozen sequential readings, earlier receipts and all stable claim/question IDs remain unchanged.
+
+A separate independently accepted post-acceptance R10 coverage addition adds C-D39 for Kikuchi’s unnamed father and broadens the mother’s actual speech/recipient route. The admitted V08.5 New Year’s Eve story supplies those bounded acts; it does not create a new source witness or an original 251st COV row. The original 250 rows/47 source-row identities/62-profile assembly and dated C37 acceptance remain preserved. Root’s exact source/literary review accepts bounded C scope and the current C38/63-profile extension; the separate R10 integration audit binds actual implementation, current propagation and independent rebind. The source/implementation addendum owns those changed current counts; no complete biography, actual later script reading, occupation, uniform family knowledge or derived model follows.
+
+These revisions are source/retrieval corrections within the continuing R10 audit, not an assertion that all R10 convergence, literary release, synthesis or reconstruction gates have passed.
+
+
+## 25. R11 integrated-argument routing — local derived handles and preserved history
+
+**2026-10-23 — Current integration route, no new source-claim promotion.** The independently accepted [full-series synthesis](../05%20Full-Series%20Synthesis/TOMOZAKI_FULL_SERIES_SYNTHESIS.md) now owns the integrated literary argument through the admitted V12 boundary. The [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md) and [evidence/review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_R11_FULL_SERIES_EVIDENCE_AND_REVIEW_MANIFEST.json) bind actual independent review, narrow attributable corrections and exact canonical rendering.
+
+FS-C01–30 are thirty local derived claims and FS-L01–26 are retrieval routes. They do not add or renumber global source claims, change the 359-claim/154-question universe, alter its 160/44 promoted and 199/110 local partition, or rewrite any ledger family/source-facing freeze. The complete V11 predecessor and all forty historical confidence/open entries receive separate preserved dispositions in the R11 evidence packet. Their old epistemic horizon remains historical; the current argument records actual V12 assembly, completion, reception and limited public return while retaining source OPENs.
+
+Root separately records STABILIZED after explicitly adjudicating all five architecture §17 conditions. R11 acceptance and stabilization do not pass R12 literary validation/release, permit derived models before actual release, certify repository publication/main integration or perform owner-level terminal governance. This routing append makes no new primary reading or pixel-inspection claim; all earlier §1–24 bytes and stable source/claim/question identities remain unchanged.

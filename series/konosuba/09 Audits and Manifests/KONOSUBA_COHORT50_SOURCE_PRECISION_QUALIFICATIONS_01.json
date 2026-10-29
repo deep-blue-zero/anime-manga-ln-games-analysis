@@ -1,0 +1,129 @@
+{
+  "schema": "konosuba.cohort50.source-precision.v1",
+  "authored_utc": "2026-10-25T18:10:51.746649+00:00",
+  "scope": "Source-grounded additive qualifications; all earlier sealed artifacts, models, original forecasts, scores and missingness remain exact.",
+  "findings": [
+    {
+      "id": "C50-Q01",
+      "target": "Retained review flags",
+      "qualification": "Existing C20/C23/C47 adequate incidental homes are preserved; C50 audit resolves current role-review responsibility without rewriting sealed earlier fields or declaring the entire census final.",
+      "source": "Rows187–189/195/200–206; C20 medicine erratum; C47Q04"
+    },
+    {
+      "id": "C50-Q02",
+      "target": "Butcher and police threat",
+      "qualification": "Actual objection/retraction is distinct from theft guilt, a completed police report or Cecily alleged leading-question trap.",
+      "source": "CONTEXP01U015291–307"
+    },
+    {
+      "id": "C50-Q03",
+      "target": "Powder roles and refrigerator user",
+      "qualification": "The three-portion purchase237 is explicit; offered share246 is not a shown receipt or consumption. Refrigerator custom286 is a report. Ellipsis/hush does not prove narcotics or a Zesta identity.",
+      "source": "CONTEXP01U015234–249/280–287"
+    },
+    {
+      "id": "C50-Q04",
+      "target": "Festival markets and child",
+      "qualification": "Species/parentage pitches and refund demands remain claims. Stall removal430 is actual; shot/prize/arrest and child purchase/euthanasia are unperformed. No automatic officer identity join.",
+      "source": "MAIN08U014388–445"
+    },
+    {
+      "id": "C50-Q05",
+      "target": "Campaign item and vote",
+      "qualification": "Campaigner proposed writing/card transfer and farmer dialogue do not show a ballot or election. Cecily96disputes garment attribution. No unqualified Eris-priest ownership or completed transfer is claimed.",
+      "source": "EXP02U03868–98"
+    },
+    {
+      "id": "C50-Q06",
+      "target": "Two Eris men",
+      "qualification": "The text images explicitly show two men. Dialogue has no persistent A/B assignment. U029 matching pair recurrence is a contextual inference; graffiti is their separate report. No two individual profiles/donations or clergy171/172identity join.",
+      "source": "EXP02U024–027 images;U02993–141"
+    },
+    {
+      "id": "C50-Q07",
+      "target": "Medicine and staff",
+      "qualification": "Apparent effect of Megumin potion433is reported; contextual Dodonko attribution is not explicit name tag. Arue does actual ingredient assistance. Father manufacture418is Arue report, not a watched workshop.",
+      "source": "EXP01U03793–122;EXP02U023414–440; existing erratum"
+    },
+    {
+      "id": "C50-Q08",
+      "target": "Mary, roster, letters and principal",
+      "qualification": "Mary215–217actual summons differs Heidel148/152proposals. Roster replies6are collective although class7–8is female. Letters and parent reports are nested, not verified rescues/ages/marriages. Principal tulips245are student report.",
+      "source": "MAIN11U012148–237;EXP01U0185–8/245/261/317;U02342"
+    },
+    {
+      "id": "C50-Q09",
+      "target": "Tavern operator",
+      "qualification": "Welcome/name explanation does not explicitly identify Nerimaki biological father; passive alcohol delivery357does not identify its server. Other diner/pub identities remain unjoined.",
+      "source": "MAIN14U012330–358"
+    },
+    {
+      "id": "C50-Q10",
+      "target": "Pub dismissal and customer report",
+      "qualification": "Manager listens/nods but does not rescind the dismissal. Megumin67account is interrupted after the hot-oden object phrase; no specific completed retaliation, observed injury or full investigation is invented.",
+      "source": "EXP02U02956–69 in complete373P chapter"
+    },
+    {
+      "id": "C50-Q11",
+      "target": "Unseen castle voices",
+      "qualification": "Safe-job/pet35voice has no watched feeding or leave and no proved gender.33/34/55remain unmapped orders/report;55is not automatically Mammon.",
+      "source": "MAIN17U01228–66"
+    },
+    {
+      "id": "C50-Q12",
+      "target": "Tea server and reward",
+      "qualification": "Mammon217actually strikes;238/244are interrupted further attempt. Aqua effect is Kazuma attribution203. Angry180/rumor212/messenger240are not a certified unique-person partition.246reward promise addresses apparent Nos and is not paid.",
+      "source": "MAIN17U012178–246"
+    },
+    {
+      "id": "C50-Q13",
+      "target": "Interceptor sequence",
+      "qualification": "Three→onebound/twofree→fourfree after two arrivals→five after release.404isKazuma imitation. One collapse441has contextual Mitsurugi attribution; four later cuts are explicit. No five confirmed deaths.",
+      "source": "MAIN17U012377–453"
+    },
+    {
+      "id": "C50-Q14",
+      "target": "Retainer count and spells",
+      "qualification": "Nine retainers plus king make ten. Initial lightning is subordinate-cast135, not automatically king or all nine. Ogre/skeleton appearance does not join already defeated Logia/Pain.",
+      "source": "MAIN17U013122–185"
+    },
+    {
+      "id": "C50-Q15",
+      "target": "Skeleton and downed outcomes",
+      "qualification": "Detection/strike are direct. Beheading212andAqua finishing441/454are Kazuma reconstruction/inference. Downed retainersU014667do not certify every death.",
+      "source": "MAIN17U013194–212/440–454;U014667"
+    },
+    {
+      "id": "C50-Q16",
+      "target": "Returning force and approaching sounds",
+      "qualification": "Protective conduct725is actual; daughter identification705/725is tentative. Sounds772–783supply no exact pursuer identity/count or confirmed protection-group membership.",
+      "source": "MAIN17U014705–783"
+    },
+    {
+      "id": "C50-Q17",
+      "target": "Creator access",
+      "qualification": "U016iscreatorafterword;9–12/15are partlymodal offstage sketches;22explicitdaughteroutcome differs a watched duel. No actual temp payment, armor bargain, award or marriage is shown.21name-origin/war motive remain unresolved.",
+      "source": "MAIN17U0168–27"
+    },
+    {
+      "id": "C50-Q18",
+      "target": "Reported and actual police roles",
+      "qualification": "Cecily294past-visit report, initial interventionU029125–141, off-duty identification280andgroupencirclement333remain separate access records without forced identity/distinctness. Initial officer137also requests the fleeing pair account.",
+      "source": "CONTEXP01U015294;EXP02U029121–141/264–286/322–344"
+    },
+    {
+      "id": "C50-Q19",
+      "target": "Library classmate and embedded story",
+      "qualification": "Megumin exploitation accusation is denied and her own intervention motive admitted314. Classmate is unnamed. The lord tale/sequel are embedded fiction/reports, not newly watched main-world people.",
+      "source": "EXP01U018291–320;U02349–58"
+    },
+    {
+      "id": "C50-Q20",
+      "target": "Ingredients and source counts",
+      "qualification": "Mandrakes actively resist/flee; exact member mapping unknown. Kamonegi is strangled/falls limp with narrated level increase, not a shown later meal. No source/group/member/embedded-role arithmetic establishes a unique-person census.",
+      "source": "EXP01U03785–134; current2026P/1707ruby/four images"
+    }
+  ],
+  "independent_observation_count": null,
+  "full_program_complete": false
+}

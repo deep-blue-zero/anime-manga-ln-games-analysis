@@ -1,0 +1,166 @@
+{
+  "schema": "ART_COMMERCE_EXACT8_CURRENT_SAVED_AUTHOR_ARGUMENT_AND_CONDITIONAL_TRANSPORT_V1",
+  "existing_home": "P3-INST-ART-COMMERCE-UNCHOSEN-HEADSHIP",
+  "existing_mandatory_named_duty": "P3-ENSEMBLE-MIYO-FUYU-RITSU-HIROMI",
+  "future_primary": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ART_COMMERCE_AND_UNCHOSEN_HEADSHIP_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 49054,
+    "sha256": "450e4a1bcdd629269dc607652c5106ac4abf09d0fa83b97205fd40e8cfee6695",
+    "git_blob_oid_of_actual_bytes": "38436156d3fc53ddd16368016a78260bfde85f9b"
+  },
+  "current_first7_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ART_COMMERCE_AND_UNCHOSEN_HEADSHIP_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 49054,
+      "sha256": "450e4a1bcdd629269dc607652c5106ac4abf09d0fa83b97205fd40e8cfee6695",
+      "git_blob_oid_of_actual_bytes": "38436156d3fc53ddd16368016a78260bfde85f9b"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+      "bytes": 391873,
+      "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+      "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+      "bytes": 527768,
+      "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+      "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+      "bytes": 688509,
+      "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+      "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+      "bytes": 43230,
+      "sha256": "dc8b74790aec83c7d787ba83fd41f58f8feaceb11bacebb62f57cd60ec703630",
+      "git_blob_oid_of_actual_bytes": "8979e3e2aaefd58eb21cbd6b0ac1455d4c190dc3"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "bytes": 196517,
+      "sha256": "7cd475f544eefe2a84b410f51bc6402ef36e78721d3b4479ee9bff6b173472d3",
+      "git_blob_oid_of_actual_bytes": "bc07a479da434438f6376d9d4dc1e5ffc4609de7"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 496574,
+      "sha256": "f6007156409e1e0b137f51468a17fe5f77136dcd0d05bc81c2ea6aa7f758cef2",
+      "git_blob_oid_of_actual_bytes": "b4237111d34be6a1930eb8aa6783875bd3c61110"
+    }
+  ],
+  "author": "/root/minato_105_derivative",
+  "argument_extent": {
+    "physical_lines": 229,
+    "literal_claims": 52,
+    "institution_dimensions": 15,
+    "embedded_named_ensemble_dimensions": 12,
+    "serious_rivals": 8,
+    "finite_endpoints": 16,
+    "original_OPEN_gaps": 14,
+    "actual_pre_draft_core_questions": 12,
+    "new_common105_questions": 105,
+    "new_five_field_judgments": 525
+  },
+  "source_extent": "One personally complete139-line maintained E850 written argument;producer12canonicalprimary units attributed. Reused original common105 report meanings preserve contributor26whole79selected and ROOTreport105;no freshwhole105normal or primary/native/raw/AV/privatefamily receiving.",
+  "current61767_dependency": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+    "scope": "EXISTING_SIX_SOURCE_CURRENT_QUALIFIER;ONLY_O025_O071_O073_O075_O079_O087"
+  },
+  "current59334_dependency": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_COFFEE_DIRECTION_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 59334,
+    "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+    "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679",
+    "scope": "EXISTING_PUBLISHED_OLD_GSC134_COFFEE_DIRECTION_16_RETAINED_ALIASES;NOT_NEW_GLOBAL_SOURCE_CORRECTION_OR_FUTURE_GSC_ADOPTION"
+  },
+  "full_private_recovery_controls": [
+    {
+      "private_control_id": "ART_COMMERCE_ALL11_COMPLETE_ORIGINAL_RAW_ENVELOPE_RECOVERY_AND_SOURCE_BINDING_PRESERVATION_V1.json",
+      "bytes": 21725,
+      "sha256": "b40843886684aac18c05d55a2141fb4ac481fcc18fc255a4cd48cf1992e6d392",
+      "git_blob_oid_of_actual_bytes": "069f881241e47b659cf6a966cb0ef120c67c6a5e"
+    },
+    {
+      "private_control_id": "ART_COMMERCE_CORE1_COMPLETE_PATH_ONLY_FULL_ORIGINAL_SOURCE_RECEIPT_INVERSE_V1.json",
+      "bytes": 3955,
+      "sha256": "463485111a5914df81e46cb7dc9978c2258a52bf69ead0c8c80f5ccc2b2fc189",
+      "git_blob_oid_of_actual_bytes": "a5b0d91f43bd7f87dc89806788e40cfa8530c820"
+    },
+    {
+      "private_control_id": "ART_COMMERCE_CP000_CP035_V1.json_FULL_ORIGINAL_CARRIER_INVERSE.json",
+      "bytes": 160244,
+      "sha256": "50c91eea7132a7a80ac1a4ca44c5085a4d217a6de257c53a62467e6238a97c53",
+      "git_blob_oid_of_actual_bytes": "c7d7287f96dfe4cd72bc5db7f03c54582633b3c5"
+    },
+    {
+      "private_control_id": "ART_COMMERCE_CP036_CP070_V1.json_FULL_ORIGINAL_CARRIER_INVERSE.json",
+      "bytes": 166033,
+      "sha256": "fce5e3f467eafd70b56863fc69e9e63930056a625e8f21704a209ea069504d9c",
+      "git_blob_oid_of_actual_bytes": "d37a2d26a4f5050e591c4541e7192f2545a782d6"
+    },
+    {
+      "private_control_id": "ART_COMMERCE_CP071_CP104_V1.json_FULL_ORIGINAL_CARRIER_INVERSE.json",
+      "bytes": 168527,
+      "sha256": "068a93af48ffc97656a2e190d3c776b6ec2e2c2631aeda9eb50f5b0041e578ff",
+      "git_blob_oid_of_actual_bytes": "d81117cb6dd321a451d62c950a0ebbcc73e65dcc"
+    }
+  ],
+  "current_author_stage": "COMPLETE_C_ONLY_AUTHOR_ARGUMENT_SOURCE_AND_TARGET_PURPOSES_WITH_LIMITS",
+  "body_only_independent_QA": "PENDING_SEPARATE_REVIEW;NONE_INVENTED_BY_AUTHOR",
+  "complete105_source_literal_component_QA": "PENDING_DIFFERENT_AUTHOR",
+  "ROOT_literary_receiving_and_adoption": "PENDING",
+  "actual_install_preflight_commit_push_newhead_CI_MAIN": "PENDING_ROOT_SOLE_WRITER;PREDECESSOR_GREEN_CANNOT_CERTIFY_THIS_PREPARATION",
+  "fixed355_29_25_384_788": true,
+  "named_duty_rule": "Existingnamed29section housed substantivelyhere;no extraENS_REL_requiredpackage_or_nameddenominator",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_source_identity_package_named_or_milestone_credit": 0,
+  "merge": "RESERVED;NEXT178UNREACHED",
+  "R_Git_provider_shared_metadata_mutations": "NONE",
+  "current_body_only_independent_QA_qualification": {
+    "actual_unchanged_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ART_COMMERCE_AND_UNCHOSEN_HEADSHIP_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 48808,
+      "sha256": "a9ab2e1ae988746a19ec62042b551b0f9a794b513851417beda82a014dde2181",
+      "git_blob_oid_of_actual_bytes": "7879f8bbafe00219fe93e4b38844a10c9183f099"
+    },
+    "independent_QA": {
+      "private_witness_id": "ART_COMMERCE_BODY_FIRST_DIFFERENT_AUTHOR_FULL224_52_QA",
+      "reviewer": "/root/receive_middle_remaining",
+      "bytes": 98076,
+      "sha256": "390b8b97a1d4df84f5b7b41277614212d1cc4d66f1ae6c7a0da8b16f32ef3ed7",
+      "git_blob_oid_of_actual_bytes": "24645baa4ef874e0323f76fd862f78d9a1a3aa17",
+      "scope": "WHOLE_CURRENT224_52_BODY_FIRST_ONLY;SELECTED_MAINTAINED33–35/67–139;NO_SOURCE105_COMPONENT_OR_ROOT_ACCEPTANCE"
+    },
+    "current_decision": "BODY_FIRST_PASS_WITH_LIMITS_ZERO_FINDINGS;CURRENT105_COMPONENT_QA_AND_ROOT_ADOPTION_STILL_PENDING",
+    "retained_pending_clause_role": "Earlier body_only_independent_QA PENDING value retained as dated V2 preparation history; this additive current qualification supplies actual later body-only review, not whole package acceptance."
+  },
+  "current_ACP042_one_report_scope_precision_and_source_use_V1": {
+    "before": "Shiroko wanted fishing but does not achieve it and loses her rod; commandeering is not permission.",
+    "current": "Shiroko's wanted fishing is not established as an achieved endpoint in the received report, and her rod is ruined; commandeering is not permission.",
+    "current_part": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+      "bytes": 527768,
+      "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+      "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+    },
+    "operative_pointer": "/records/6/own_new_Art_commerce_countermeaning_and_rival_limit",
+    "current_source_use": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+      "bytes": 43230,
+      "sha256": "dc8b74790aec83c7d787ba83fd41f58f8feaceb11bacebb62f57cd60ec703630",
+      "git_blob_oid_of_actual_bytes": "8979e3e2aaefd58eb21cbd6b0ac1455d4c190dc3"
+    },
+    "source_use_pointer": "/current_ACP042_wanted_fishing_report_scope_precision_V1",
+    "scope": "One new counter +one exact mirror and required current tuple bindings/additive source-use. No body/original source/other524meaning/grade/decision changes;no fishing absencecertificate.",
+    "original_V3_all105_QA_role": "Differentauthor all105 complete receiving retained as dated;one bounded report-scope precision needs current delta resolution. No fullpackageQA or ROOTadoption fabricated.",
+    "independent_current_delta_review_ROOTadoption_install_publication": "PENDING"
+  }
+}

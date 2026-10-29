@@ -1,0 +1,93 @@
+{
+  "schema": "konosuba.secondary.informed-internal-assessment.v1",
+  "recorded_utc": "2026-10-20T17:10:35.193624+00:00",
+  "subject": "Arnes",
+  "model_precedes_exact_inputs": true,
+  "exact_inputs_precede_actual_first_saved_bodies": true,
+  "authorship": "The same informed root author wrote the source synthesis/model, designed exact cases, authored all first bodies and now assesses them. Broad contrast and response ideas were anticipated before input seal. No external generation API, separate case designer, independent judge or native-human evaluator.",
+  "precase_freeze_sha256": "58df851fb0f8bdb76a58831643428dfbcb4e2bae36fbe8af4d241eeeea868ce0",
+  "exact_input_file": "ARNES_SCENARIO_INPUTS_01.json",
+  "exact_input_file_sha256": "dd8d069a2924e7d551aaab8693f1f0d157ead460b7acf5d65538f4e661333629",
+  "actual_first_output_file": "ARNES_FIRST_OUTPUTS_01.json",
+  "actual_first_output_file_sha256": "5db84aeac8db55018b6b4482006d627228ad1e69752b57d1c96b665c361317f1",
+  "body_count": 4,
+  "regenerations": 0,
+  "repairs": 0,
+  "case_and_pair_assessment": {
+    "cases": [
+      {
+        "case_id": "ARNES-H01-A",
+        "observed": "Invokes yesterday’s intention, questions whether others changed the decision, steps inside and offers a pass despite current refusal.",
+        "defect": "The question introduces an uncued external-influence suspicion through them. No influence is provided in the input; this is an unearned hypothesis rather than proof about Wolbach. It is retained, not treated as an actual hidden cause.",
+        "limit": "Stepping inside and holding a pass do not establish blocking, physical restraint, accepted transport or consent. Interpreting resistance differently is compatible with AR-R01 but generic attached pursuit also explains it.",
+        "input_sha256": "9319559ff39be2c00420b19f24e5f07e12c02bda779da0cd8275d157b448e747",
+        "actual_first_body_sha256": "efb0689a0c0efd2d52a6c8a1f028f00e684d44cccc56f8cf5340da013550f41a"
+      },
+      {
+        "case_id": "ARNES-H01-B",
+        "observed": "Offers to carry books while maintaining the return objective; reaches for books with passes held between teeth.",
+        "defect": "Another errand on the way adds an unsupplied anticipated complication. It need not assert a past errand, but extends beyond the stated three-book task. Stylized pass-in-teeth business is root-authored English, not a validated Japanese mannerism.",
+        "limit": "Reaching and offering do not show the books were handed over, carrying completed or Wolbach returned. Explicit affirmative intention strongly cues generic cooperation.",
+        "input_sha256": "6f11797eeb5f20e1eb6ee4753a06eda5569095b4df791edaf0de0a9ff4d14824",
+        "actual_first_body_sha256": "d72ad4cd6bdb216b30f1e28c6397d76d31413557f2d317000fe87e8f1e372c37"
+      },
+      {
+        "case_id": "ARNES-H02-A",
+        "observed": "Mocks the three non-presentations and permits two minutes; taps the empty slot.",
+        "defect": "Not a word extends observed non-presentation to total silence, which the input does not supply. The spoken taunt need not be an exact factual assertion but remains a broad unsupported formulation. The line never clearly maintains an absolute inability belief after granting the slot.",
+        "limit": "It does not reproduce a decisive refusal or a failed capability prediction; no performance outcome is generated.",
+        "input_sha256": "1cef6a626acd51347b579e3d42e1be7c351708fc988afb94c1c55add5b3d26f0",
+        "actual_first_body_sha256": "e6c8e9b90aba33ee7c0646a3cc6a892115b1657d5c827c0bfa49476fb0111c84"
+      },
+      {
+        "case_id": "ARNES-H02-B",
+        "observed": "Recognizes that assigned silent roles explain non-presentation, explicitly leaves actual ability unproved, and permits two minutes; taps the same slot.",
+        "limit": "The new role information is an overt generic cue. The action and granted opportunity are identical toA; no demonstrated performance or distinctive Arnes identification follows.",
+        "input_sha256": "7118928f059dfe6e71ab6da735bb7401854e8070cd4d92756048deb2a010c5da",
+        "actual_first_body_sha256": "764891d67e1a12a95d636cd222e7888dcda719cc5a908cb6f1e5cc262c613f50"
+      }
+    ],
+    "pairs": [
+      {
+        "pair_id": "ARNES-H01",
+        "observed_difference": "Refusal version questions the present decision and advances the pass; affirmative version offers help with the stated task while retaining return pressure.",
+        "rivals": "The subject’s explicitly changed intention is enough for generic differences. Immediate rescue, finite payment, hostage leverage, present master-comprehension disputes and complete consent ethics are unprobed."
+      },
+      {
+        "pair_id": "ARNES-H02",
+        "observed_difference": "Verbal interpretation changes when opportunity information is given, but both allow exactly two minutes and tap the schedule.",
+        "rivals": "Behavioral endpoint is invariant. Context-aware updating is strongly prompted. TheAtaunt is too weak to establish the canonical non-use-to-inability error; no independent validation or successful discriminating prediction."
+      }
+    ],
+    "rules": [
+      {
+        "rule": "AR-R01",
+        "status": "Partly engaged through interpreted relationship, refusal and continued return goal; actual catches, protection under risk and memory claims unprobed."
+      },
+      {
+        "rule": "AR-R02",
+        "status": "Only weakly engaged by available passes/books/time. Prior defeat, changed leverage, resource loss and harmful tactics not tested."
+      },
+      {
+        "rule": "AR-R03",
+        "status": "Verbal evidence sensitivity partly engaged; both grant the same opportunity, explicit cue strongly generic, global-inability error not decisively reproduced."
+      },
+      {
+        "rule": "AR-R04",
+        "status": "A small taunt is present, but fear, credible superior threat, retaliation and proposed withdrawal remain largely unprobed."
+      }
+    ],
+    "conclusion": "Four first saved bodies give a partly compatible interpreted-refusal contrast and a verbally changed but behaviorally invariant capability pair. Uncued influence, unsupplied errand anticipation and overstated silence remain visible. Root-authored informed English examples do not establish source validation, native adequacy, independent accuracy, a capability grade, moral repair or higher confidence."
+  },
+  "source_scope": "3,275knownBASEcontextslots/15members/4objects before exact cases; zero new post-case native reading so far. Counts include collateral and are not independent trials.",
+  "scope_limits": [
+    "Not blind source prediction or held-out empirical test.",
+    "No independent character accuracy, native Japanese adequacy, capability grade or confidence gain.",
+    "No evaluator-owned global reconstruction output or curator-owned discovery output authored.",
+    "No model/input/body repairs after their seals."
+  ],
+  "independent_validation": 0,
+  "confidence_increase": false,
+  "reliability": "PROVISIONAL_INTERNAL_LIMITS_RETAINED",
+  "full_program_complete": false
+}

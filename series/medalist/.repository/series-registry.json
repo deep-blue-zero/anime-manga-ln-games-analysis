@@ -1,0 +1,16 @@
+{
+  "series_id": "medalist",
+  "stable_slug": "medalist",
+  "canonical_title": "Medalist / メダリスト",
+  "media": [
+    "MANGA"
+  ],
+  "repository_path": "series/medalist/",
+  "canonical_entrypoint": "series/medalist/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_REVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_MEDALIST_BOOTSTRAP_20261011",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Owner-approved Japanese manga-primary foundation; seven ledgers and one frozen reading per closed volume. EVOLVING architecture, OPEN project gate. Owner-authorized continuous run V02–V15 completed 2026-10-13 at the publication ceiling fixed 2026-10-12 (V15 / Score 61); Official Fanbooks 01 and 02 audited; provisional syntheses at that boundary; series ONGOING; adaptation unadmitted. The entrypoint owns current state."
+}

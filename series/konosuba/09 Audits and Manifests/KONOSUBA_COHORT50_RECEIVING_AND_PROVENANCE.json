@@ -1,0 +1,578 @@
+{
+  "schema": "konosuba.cohort50.receiving-and-provenance.v1",
+  "status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+  "received_utc": "2026-10-25T18:26:58.080611+00:00",
+  "source_baseline": "85dc3c2f8a142ddb7c83c568440d8981c918fa17",
+  "current_main": "ad0d79c7f64ec48d9ddb9ad2e77b029b7c0a8b3e",
+  "remote_series_baseline": "85dc3c2f8a142ddb7c83c568440d8981c918fa17",
+  "private_complete_semantic_receiving_sha256": "70581a7161ac7a06beea9bb6b5a8976adb86984ad6cc5b0e24d1cd6a3ba0ebdd",
+  "private_complete_foundation_freeze_sha256": "915136e3fef259758bf97aaa81dd8cae2fd69159759f83ce779d4880e513e9c0",
+  "received_complete_new_artifact_bindings": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md",
+      "bytes": 21688,
+      "sha256": "350e4a67e937b62c7791e0d0b5f5c4612aeaa00086ba9f99b0e7825ffd3646c2",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md",
+      "bytes": 14404,
+      "sha256": "3627fd2261e50a04b33880d59053f9ce08e46d8e8fd1fbffabf4862392ab71d6",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT50_NATIVE_PROVENANCE_01.json",
+      "bytes": 14573,
+      "sha256": "cb3a4535f2f7e38ac5bdb65e7f78f53ca7ac2cebdedd891fce38e7ddf01f3783",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+      "bytes": 135412,
+      "sha256": "29c33b40d52b01ad90191bf3df5f0af0087fb3d7b15d1fc630fe257686568ef6",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "bytes": 7482,
+      "sha256": "0fe2e350874f30b9210dd23ac80b428d332bf8ddebdad22930dab9919c28d9a7",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_TYPED_SOURCE_ACCESS_ROUTES_01.json",
+      "bytes": 56741,
+      "sha256": "6b4f2f6946a90c35e6786d5bad6324168e96aad65094b66e6adcd499fea5a347",
+      "verbatim_frozen_body": true
+    }
+  ],
+  "foundation_receipt": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_FOUNDATION_FREEZE_01.json",
+    "sha256": "a62214442ac34ac23ea965d580cb5a53afdd4a984d0c4ef7ac59d514818376b5"
+  },
+  "current_source_qualifications": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+    "sha256": "0fe2e350874f30b9210dd23ac80b428d332bf8ddebdad22930dab9919c28d9a7"
+  },
+  "candidate_totals": {
+    "model_artifacts": 71,
+    "source_scoped_secondary_model_entries": 65,
+    "bounded_profile_passages": 213,
+    "monograph_only_source_studies": 64,
+    "nonfinal_source_access_records": 763
+  },
+  "individual_dispositions": [
+    {
+      "row": 174,
+      "subject": "Unnamed Axel butcher confronted by Cecily",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p01"
+    },
+    {
+      "row": 175,
+      "subject": "Reported male Axis refrigerator user",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 176,
+      "subject": "Older gentleman acquainted with Cecily and the powder",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 178,
+      "subject": "Unnamed festival tadpole-stall officer",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p02"
+    },
+    {
+      "row": 179,
+      "subject": "Claimed juvenile-Kraken food vendor",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 180,
+      "subject": "Fish-display caller",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 181,
+      "subject": "Eris-target shooting-game operator",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p03"
+    },
+    {
+      "row": 182,
+      "subject": "Child pressured to buy Aqua alleged dragon",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p04"
+    },
+    {
+      "row": 183,
+      "subject": "Axis succession campaigner",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p05"
+    },
+    {
+      "row": 184,
+      "subject": "Axis farmer approached for a vote",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p06"
+    },
+    {
+      "row": 185,
+      "subject": "Eris bread encounter participant A, local unmapped slot",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p07"
+    },
+    {
+      "row": 186,
+      "subject": "Eris bread encounter participant B, local unmapped slot",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p07"
+    },
+    {
+      "row": 187,
+      "subject": "Funifura reported younger brother",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 188,
+      "subject": "Funifura reported staff-craftsman father",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 189,
+      "subject": "Unjoined MAIN14 tavern/lodging operator",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 195,
+      "subject": "Reported Crimson school principal",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 200,
+      "subject": "Kaikai / かいかい",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 201,
+      "subject": "Sakiberry / さきべりー",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 202,
+      "subject": "Mary / メアリー, palace messenger",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 203,
+      "subject": "Quoted fan-letter writer A",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 204,
+      "subject": "Quoted fan-letter writer B",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 205,
+      "subject": "Quoted fan-letter writer C",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 206,
+      "subject": "Parent roles reported in three fan letters",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 217,
+      "subject": "Unnamed Arcanretia pub manager",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p08"
+    },
+    {
+      "row": 732,
+      "subject": "Unseen castle guard citing safe employment and a pet Neroido",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p09"
+    },
+    {
+      "row": 733,
+      "subject": "Unmapped castle emergency orders and daughter-campaign report",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 734,
+      "subject": "Mammon corridor escort and elite-hall guard group",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p10"
+    },
+    {
+      "row": 735,
+      "subject": "Mammon unnamed tea-serving knight",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p11"
+    },
+    {
+      "row": 736,
+      "subject": "Knight objecting when Aqua requests tea",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 737,
+      "subject": "Hall knight recalling the Sato Kazuma rumor",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 738,
+      "subject": "Knight reporting successful capture to Mammon",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 739,
+      "subject": "Guards escorting the captured party into the hall",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 740,
+      "subject": "Five hall interceptors assembled during the melee",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p12"
+    },
+    {
+      "row": 741,
+      "subject": "Nine throne-room retainers",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p13"
+    },
+    {
+      "row": 742,
+      "subject": "Throne-room scythe-bearing skeleton",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p14"
+    },
+    {
+      "row": 743,
+      "subject": "Returning army and protectors of the apparent daughter",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p15"
+    },
+    {
+      "row": 744,
+      "subject": "Unidentified approaching castle footsteps",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 745,
+      "subject": "Creator offstage Axel-defense sketches and role references",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 746,
+      "subject": "Creator capital-battle collective and girl/armor references",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 747,
+      "subject": "Two young female Axis street recruiters",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 748,
+      "subject": "Pub customer in Megumin dismissal explanation",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 749,
+      "subject": "Earlier Arcanretia employment-rejection roles",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 750,
+      "subject": "First intervening Arcanretia police officer",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p16"
+    },
+    {
+      "row": 751,
+      "subject": "Off-duty Arcanretia officer selected by Megumin",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 752,
+      "subject": "Police encircling the toilet-paper thieves",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 753,
+      "subject": "Woman helping gather Zesta spilled apples",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p17"
+    },
+    {
+      "row": 754,
+      "subject": "Axis follower serving Megumin a meal on Cecily instruction",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 755,
+      "subject": "Follower presenting the recruitment-rate report to Zesta",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 756,
+      "subject": "Young police employee in Cecily prior-visit account",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 757,
+      "subject": "Male buyer taking three portions from the powder sellers",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 758,
+      "subject": "Embedded Rampaging Lord story roles",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 759,
+      "subject": "Unnamed library classmate misaccused by Megumin",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p18"
+    },
+    {
+      "row": 760,
+      "subject": "Classroom onlookers during potion preparation",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 761,
+      "subject": "Active mandrake ingredients in the potion lesson",
+      "tier": 0,
+      "home": null
+    },
+    {
+      "row": 762,
+      "subject": "Kamonegi used in the potion lesson",
+      "tier": 0,
+      "home": null
+    }
+  ],
+  "source_scope": {
+    "structural_P": 2026,
+    "ruby_occurrences": 1707,
+    "known_EPUBs": 7,
+    "text_members": 15,
+    "complete_current_text_members": [
+      "EXP-02-U029"
+    ],
+    "actual_text_images": 4
+  },
+  "complete_author_review": {
+    "complete_before_pages": 43,
+    "targeted_current_pages": 3,
+    "all_five_declared_changes_reviewed": true,
+    "all_other_bytes_exact": true
+  },
+  "census": {
+    "changed_existing_rows": [
+      174,
+      175,
+      176,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      195,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      217
+    ],
+    "unchanged_entering_rows": 708,
+    "earlier_eight_core_fields_preserved_rows": [
+      187,
+      188,
+      189,
+      195,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206
+    ],
+    "new_rows": [
+      732,
+      733,
+      734,
+      735,
+      736,
+      737,
+      738,
+      739,
+      740,
+      741,
+      742,
+      743,
+      744,
+      745,
+      746,
+      747,
+      748,
+      749,
+      750,
+      751,
+      752,
+      753,
+      754,
+      755,
+      756,
+      757,
+      758,
+      759,
+      760,
+      761,
+      762
+    ],
+    "part_rows": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      43
+    ],
+    "separate_private_inline_candidate": "WORK139;immutable WORK138 retained",
+    "historical19_differences_preserved": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "all_independent_observation_counts_null": true,
+    "no_final_unique_person_denominator": true,
+    "all_cohort_artifact_lists_unique": true
+  },
+  "frozen_history": {
+    "all71_entering_models_exact": true,
+    "old_firsts_predictions_scores_adverse_blanks_nulls_exact": true,
+    "new_models": 0,
+    "new_rules": 0,
+    "new_original_firsts": 0,
+    "model_program_not_earned": true,
+    "source_known_same_informed_root": true,
+    "independent_observation_count": null,
+    "numeric_accuracy": null,
+    "grade": null,
+    "confidence_gain": false,
+    "Japanese_or_acoustic_certification": false,
+    "final_StageD_battery_credit": false,
+    "original_draft_status_fields_in_frozen_files_describe_their_authorship_stage": true
+  },
+  "baseline_authority": {
+    "C49_author_source": "85dc3c2f8a142ddb7c83c568440d8981c918fa17",
+    "C49_own_audit_run": 40214600785,
+    "C49_latest_trusted_status": 57209672326,
+    "C49_reviewed_closing_paths": 9,
+    "C49_published_project_paths": 1729,
+    "C49_all210_closing_current_checks_preserved": true,
+    "C50_starting212_preservation_sha256": "37ff88cf1134c6966b448a774aa640729685da21b55a31d82e0c86201408bdd3",
+    "owner_current_bindings": 110,
+    "owner_controls_unchanged": 12,
+    "author_global_curation_or_grade_write": false,
+    "PR336_last_observed_open": true
+  },
+  "publication_pending": [],
+  "private_native_caches_or_absolute_filesystem_paths_exported": false,
+  "global_percentage": null,
+  "full_program_complete": false,
+  "publication_resolution": {
+    "source": "83fbc004c3bcd1478a25c5f4ee676fcff8dd63dd",
+    "tree": "4a5c73a0c880a32a5e09af7f491c813f194d7c6d",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_PUBLICATION_GATE_CLOSE_01.json",
+    "gate_sha256": "91fa7513ff884f53cea06a78f6d2bc81d5d40db43fb32a235f9970f759abd3af",
+    "source_run": 40223499214,
+    "full_discovered_tests": 479,
+    "current_models": 71,
+    "author_publication_tranche_complete": true,
+    "protected_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 336
+  },
+  "historical_publication_pending_at_semantic_receiving": [
+    "complete candidate operation review",
+    "exact-index author preflight",
+    "ordinary publication and current author PR",
+    "whole remote tree and every changed stream verification",
+    "new actual-source full discovered-suite audit and latest trusted isolated status",
+    "fresh published-authority reload"
+  ],
+  "closing_progress_bytes_require_next_containing_publication": true
+}

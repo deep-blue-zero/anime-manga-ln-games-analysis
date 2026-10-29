@@ -1,0 +1,142 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Kirara",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KIRARA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for 5f0a24b56557f308e9cef31c7d1c2d58406ef49a, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "ROOT_KIRARA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5040,
+    "sha256": "1549d482a63a97223383522476d9946ef5cb72e3479fc9b48492e0633c3e5ce4",
+    "git_blob_oid_of_actual_bytes": "1e8c79320a66d142eded8a530588df93eedd800b",
+    "lines": 85,
+    "immutable_transport_path": "immutable_originals/ROOT_KIRARA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_KIRARA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "checked_at": "2026-10-10T13:02:34.894567+00:00",
+    "candidate_sha256": "c5f96e4315e8e8a4372031dd2693d4d0ffa550d6558581e319ff8f39165e6582",
+    "frozen_outputs_verified": 4,
+    "source_dictionary_absolute_path_SHA_pairs": 159,
+    "union_absolute_pairs_with_four_delivery_payloads": 160,
+    "additional_relative_binding_pairs": 1,
+    "all_unique_resolved_dictionary_pairs_verified": 160,
+    "finite_count_boundary": "Producer159 absolute dictionary pairs verified unchanged. Four-output union160 adds the frozen source receipt itself. Relative historical bindings are verified at their stated historical commits separately; no extra source or literary credit follows.",
+    "dated_mutable_control_bindings": [
+      {
+        "field": "/whole_scope_ROOT_acceptance",
+        "commit": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+        "current_mutable_file_is_not_claimed_equal": true
+      }
+    ],
+    "prior_frozen_payloads_preserved": 109,
+    "separate_supplement_payloads_preserved": 4,
+    "public_arguments_equal_current_main_c1_dated_and_published_source": 9,
+    "effective_private_arguments": 8,
+    "separate_comparison_arguments": 1,
+    "selected_private_objects_integrity_only": 12,
+    "saved_nonempty_lines_joined": 95,
+    "substantial_sections": 11,
+    "claim_review_rivals_received": 5,
+    "all14_gaps": "ORIGINAL_LITERAL_STABLE_ID_NAME_ROWS_OPEN",
+    "ROOT_actual_receiving": {
+      "whole_body": [
+        "1b9e121–45",
+        "72169d46–105",
+        "5aca08106–154EOF"
+      ],
+      "whole_readable_receipt": "be32f457EOF",
+      "all_nonarray_controls": "5dbd37",
+      "all_private_scope_fields": "d52f24",
+      "all_claim_review_fields": "428bda",
+      "whole_private_arguments": [
+        "f7b90bK01",
+        "ccffadK02",
+        "984450K03",
+        "705457K04",
+        "ce8ffbK05",
+        "2a7d4eK06",
+        "6e5e87K07",
+        "bf7032K08",
+        "106546completecomparison"
+      ],
+      "whole_freeze_and_probe": [
+        "83c3db",
+        "7a7f15"
+      ],
+      "adequate_prior_public_meanings": "Personally complete accepted MAIN480, S2 contexts and G190/MINI32/E835 at prior actual scopes; complete E015/E018 already received in Chiaki/Iroha. CurrentG20 reused within complete connected420–602, not a fresh whole602. No transferred primary/native/raw/schema/QA/AV or historical independence credit."
+    },
+    "semantic_grounds": [
+      "Conversation, fashion, crepes, games, novelty, chosen company and sustained study are intrinsic analytical ends. The notebook retains actual work and memory independently of crisis usefulness.",
+      "Actual finished study, reported passing, outing/return and notebook recovery differ from an audited grade, sole-cause tutoring, matching-shirt purchase, portrait disclosure, kissing target or lasting privacy compliance.",
+      "Whole chats preserve post-witness tails, formal/inward/generic channels, nineteen notebook actor seams and locale differences. WrittenTalk secures its own channel without repairing another object.",
+      "Erika has different judgments and particular assent. Anonymous listeners, patients, Umika and the absent host retain their own preferences, objections, burdens or unknown outcomes.",
+      "Voluntary broadcasting and refusal to displace the host are actual decisions. Chain-letter fear, streaming advice, breached curfew and false planned-fire assent remain strong counterevidence without erasing real friendship and help.",
+      "The Main invitation and chosen cooperation are positively located; the bypass is proposed at E015 and later effective counterbroadcast remains collective rather than isolated Kirara causation.",
+      "Literal mixed club fields, event costume join and written conditions preserve their actual source scope; no formal governing office, whole-trip repetition, uniform consent, romance, performance or chronology is inferred.",
+      "All fourteen original stable series questions remain explicitly OPEN. Character synthesis does not automatically complete relationship, club, ensemble, institution, Sensei or register duties."
+    ],
+    "new_primary_native_raw_schema_QA_AV_or_model_credit": 0,
+    "scope": "355packages/29namedsections unchanged; existingP3-CHAR-KIRARA/F107/A086 only",
+    "progress": {
+      "previous_ROOTaccepted_packages": 58,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 59,
+      "character_packages": 58,
+      "directed_relationship_packages": 1,
+      "published_remote_packages": 54,
+      "published_source_commit": "5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+      "source_audit_chain": "PENDING_ACTUAL_SOURCE_HOUSEKEEPING_FINAL_EXACT_CHAIN",
+      "canonical_Kirara_persistence": "PENDING_LATER_EXACT_ADOPTION",
+      "quarter_reached": false
+    },
+    "main_integration": "NONE",
+    "nine_unbound_large": "UNREAD_UNHASHED",
+    "R_Git_provider_writes": false
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-KIRARA",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KIRARA_CHARACTER_MONOGRAPH.md",
+    "bytes": 38083,
+    "sha256": "23c3e5fb1a8c33e39c430c11efc992ab177bf96131424287017507db311499cc",
+    "git_blob_oid_of_actual_bytes": "fdbd1541ede7bfb078f1a55c8cef560e67404ff6",
+    "lines": 169
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "this candidate grants no acceptance or count.",
+      "new": "the original candidate granted no acceptance or count; ROOT subsequently received and accepted this complete character boundary WITH LIMITS.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    },
+    {
+      "old": "Independent ROOT whole saved receiving, exact source/paragraph verification and canonical adoption remain pending. The author does not accept or count the draft.",
+      "new": "ROOT independently received the whole saved character argument, verified its exact bindings and accepted its complete boundary WITH LIMITS; canonical persistence follows complete ROOT installation. The author did not accept or count the original draft.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    }
+  ],
+  "exact_added_authority_or_custody_paragraphs": [
+    "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KIRARA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KIRARA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative after complete ROOT installation. All fourteen original gaps remain OPEN at their claim-specific boundaries. The355-package/29-section scope and existing responsibilities are unchanged. The prior54-package source publication is `5f0a24b56557f308e9cef31c7d1c2d58406ef49a`; ROOT’s successful actual exact-head source/housekeeping/final chain is preserved separately as predecessor proof. This preparation supplies no successor adoption, publication, main integration, quarter, model or performed evidence before complete ROOT installation. Frozen author/control/progress snapshots retain their dated meaning.",
+    "Kirara’s159 unique absolute author-dictionary bindings,160 four-output-union bindings and ROOT’s160 resolved dictionary bindings are distinct populations. The output union adds the source receipt itself; ROOT’s resolved dictionary adds one separate repository-relative historical metadata witness. Equal counts do not merge these predicates or enlarge custody."
+  ],
+  "exact_added_retrieval_title": null,
+  "stable_original_gap_alignment": null,
+  "immutable_ROOT_count_cause_qualification": null,
+  "mandatory_private_semantic_erratum_public_projection": null,
+  "fixed_publication_snapshot": "Nine packages55–63 only;63aftercompleteROOTinstallation,54already source-published; later live ROOT acceptances excluded.",
+  "binding_count_predicates": "159uniqueabsoluteauthor-dictionary;160four-outputunionadds source receipt;ROOT160resolveddictionaryadds one relative historical metadata witness. Distinct populations remain distinct."
+}

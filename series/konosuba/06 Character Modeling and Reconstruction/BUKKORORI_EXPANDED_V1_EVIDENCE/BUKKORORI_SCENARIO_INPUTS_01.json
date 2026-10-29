@@ -1,0 +1,72 @@
+{
+  "schema": "konosuba.secondary.scenario-inputs.v1",
+  "created_utc": "2026-10-20T21:06:17.469097+00:00",
+  "subject": "Bukkorori",
+  "source_known": true,
+  "same_informed_model_author_case_designer_output_author_assessor": true,
+  "model_pre_case_freeze_sha256": "05a6562c0f2e7e7a5cf9a37add927ceb126543de5bfe036847f5e57fb8bffd6f",
+  "model_body_sha256": "58eb7af904048542aa1579683000e84543c9aebbe686c9b1b4eab54ace149203",
+  "case_count": 4,
+  "contrast_pairs": 2,
+  "cases": [
+    {
+      "case_id": "BK-H01-A",
+      "pair_id": "BK-H01",
+      "condition": "ordinary task with an audience",
+      "exact_prompt": "Use the frozen Bukkorori conditional model in this feasible modern human analogue. Everyone is an adult. There is no magic, hidden fact, unstated agreement or guaranteed later outcome. Write the next spoken response in English and, if appropriate, one immediate action of this subject, 80–130 words. Describe only the next minute. Do not supply another person’s new speech or action, invent equipment/history, or complete future events. Preserve fallible appraisal and situation-dependent voice; do not turn the subject into an ideal professional. Give only the response, without analysis or commentary.\n\nBukkorori is an unpaid volunteer setting out fifteen folding chairs for a community meeting. It is 16:00; the meeting begins at 16:15. All fifteen chairs are stacked beside him, and the empty marked seating area is six metres away. He can carry and place them unaided in about eight minutes. There is no danger or emergency. He has no other assigned task, special equipment or money commitment.\n\nThree adult visitors he has met once stand near the marked seating area, facing him and watching the setup. They have said nothing and have asked for no performance.\n\nHe is at the stack and has not moved a chair yet. Give only his next minute; setting out all fifteen chairs is not already complete.",
+      "input_sha256": "8358d69195a9637ff26c399bd07a56da1568646f2e5e1d56eec53fbdb9b8ae10",
+      "rules": [
+        "BK-R01",
+        "BK-R03"
+      ]
+    },
+    {
+      "case_id": "BK-H01-B",
+      "pair_id": "BK-H01",
+      "condition": "ordinary task with no audience",
+      "exact_prompt": "Use the frozen Bukkorori conditional model in this feasible modern human analogue. Everyone is an adult. There is no magic, hidden fact, unstated agreement or guaranteed later outcome. Write the next spoken response in English and, if appropriate, one immediate action of this subject, 80–130 words. Describe only the next minute. Do not supply another person’s new speech or action, invent equipment/history, or complete future events. Preserve fallible appraisal and situation-dependent voice; do not turn the subject into an ideal professional. Give only the response, without analysis or commentary.\n\nBukkorori is an unpaid volunteer setting out fifteen folding chairs for a community meeting. It is 16:00; the meeting begins at 16:15. All fifteen chairs are stacked beside him, and the empty marked seating area is six metres away. He can carry and place them unaided in about eight minutes. There is no danger or emergency. He has no other assigned task, special equipment or money commitment.\n\nNo visitor or other helper is present, watching, listening or expected during his next eight minutes of setup. He knows he is alone for that interval.\n\nHe is at the stack and has not moved a chair yet. Give only his next minute; setting out all fifteen chairs is not already complete.",
+      "input_sha256": "28f8e4a0301add56052250bef30370796cad901a4730f74f55ce606289018af9",
+      "rules": [
+        "BK-R01",
+        "BK-R03"
+      ]
+    },
+    {
+      "case_id": "BK-H02-A",
+      "pair_id": "BK-H02",
+      "condition": "one specifically permitted work text",
+      "exact_prompt": "Use the frozen Bukkorori conditional model in this feasible modern human analogue. Everyone is an adult. There is no magic, hidden fact, unstated agreement or guaranteed later outcome. Write the next spoken response in English and, if appropriate, one immediate action of this subject, 80–130 words. Describe only the next minute. Do not supply another person’s new speech or action, invent equipment/history, or complete future events. Preserve fallible appraisal and situation-dependent voice; do not turn the subject into an ideal professional. Give only the response, without analysis or commentary.\n\nBukkorori’s volunteer shift has just ended at 20:00. All his assigned work is complete; there is no emergency or unfinished task. He is at the public exit with adult coordinator Mira, to whom he is attracted. They have spoken three times about volunteer work, with no romantic agreement. He has her number from the official work group. His own phone is in his hand. Mira previously told him not to wait for her after shifts. In either case, an office email channel for the shift swap will be available tomorrow at 10:00; no personal visit is needed.\n\nMira says, “You may send me one text tonight about the shift swap.”\n\nHe has heard that exact instruction. Mira has not given any further reaction or personal invitation. Give his immediate response and, if appropriate, one action of his own.",
+      "input_sha256": "d98c590e6fe5d967f7ab56ed9e716efb29dfee4979455c301d132051db3b62c6",
+      "rules": [
+        "BK-R02"
+      ]
+    },
+    {
+      "case_id": "BK-H02-B",
+      "pair_id": "BK-H02",
+      "condition": "work texting explicitly refused tonight",
+      "exact_prompt": "Use the frozen Bukkorori conditional model in this feasible modern human analogue. Everyone is an adult. There is no magic, hidden fact, unstated agreement or guaranteed later outcome. Write the next spoken response in English and, if appropriate, one immediate action of this subject, 80–130 words. Describe only the next minute. Do not supply another person’s new speech or action, invent equipment/history, or complete future events. Preserve fallible appraisal and situation-dependent voice; do not turn the subject into an ideal professional. Give only the response, without analysis or commentary.\n\nBukkorori’s volunteer shift has just ended at 20:00. All his assigned work is complete; there is no emergency or unfinished task. He is at the public exit with adult coordinator Mira, to whom he is attracted. They have spoken three times about volunteer work, with no romantic agreement. He has her number from the official work group. His own phone is in his hand. Mira previously told him not to wait for her after shifts. In either case, an office email channel for the shift swap will be available tomorrow at 10:00; no personal visit is needed.\n\nMira says, “Please send me no texts tonight about the shift swap.”\n\nHe has heard that exact instruction. Mira has not given any further reaction or personal invitation. Give his immediate response and, if appropriate, one action of his own.",
+      "input_sha256": "e84ad69796f0bbf201db48d40acb198234ad63ad46bf06dae8864919a8e87537",
+      "rules": [
+        "BK-R02"
+      ]
+    }
+  ],
+  "controls": {
+    "BK_H01": "Same task,resources,available time and practical capability. Only audience presence/knowledge differs; audience changes possible addressee as part of the cue.",
+    "BK_H02": "Same attraction,relationship,prior no-wait instruction,available phone,work-only purpose,completed shift and email alternative. Only present permission for one work text versus zero changes."
+  },
+  "limits": [
+    "H01 has no actual danger or hard cost tradeoff. Extra words/gesture can differ while the setup endpoint stays the same; generic impression management remains strong.",
+    "H02 has direct permission/refusal and an available work alternative. Generic reasonable-boundary handling and prompt cues are strong rivals; an offered future text/email is not completed contact or durable reform.",
+    "BK-R03 only weakly engaged by an available volunteer task. BK-R04 appraisal and major battle,financial loss,unsafe rescue and Japanese voice remain unprobed.",
+    "General directions,response possibilities and generic rivals were anticipated by the same informed root before exact inputs. All cases/contrasts visible to output author; no pristine blind or independent designer/assessor.",
+    "Only the exact serialized hypothetical inputs are new. These are not new source forecasts,source validation,StageD principal/party/transfer successors or an independent accuracy/confidence estimate."
+  ],
+  "regenerations_allowed": 0,
+  "repairs_allowed": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": 0,
+  "full_program_complete": false
+}

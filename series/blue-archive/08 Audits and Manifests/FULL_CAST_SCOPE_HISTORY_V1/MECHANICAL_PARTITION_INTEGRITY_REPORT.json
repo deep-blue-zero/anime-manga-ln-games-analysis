@@ -1,0 +1,54 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1/MECHANICAL_PARTITION_INTEGRITY_REPORT.json",
+  "original_frozen_binding": {
+   "bytes": 1797,
+   "sha256": "fc8d1353caa09722fcdc04610938103b9efde1a9621693c97da0b37116155450",
+   "git_blob_sha1": "9293a6499352ae40373918e9bda94107606144e0"
+  }
+ },
+ "historical_payload": {
+  "scope": {
+   "state": "C_ONLY_SEMANTIC_PARTITION_PROPOSAL_ROOT_RECEIVING_AND_ADOPTION_PENDING",
+   "N_frozen": false,
+   "monograph_completion_credit_added": 0,
+   "primary_narrative_credit_added": 0,
+   "percentage_or_quarter_claimed": false,
+   "repository_writes": false,
+   "historical_source_baseline": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+   "reported_current_publication": "dc5ae72fb4841b90ff09fd53d8ba4b0ce0cf4193",
+   "reported_current_candidate_sha256": "f8ce1729205b02498c1981b0cd67943b80bd873d3b4aa83698325863223f9523"
+  },
+  "typed_F_responsibility_union_exact": true,
+  "typed_F_responsibilities": 148,
+  "selected_source_disposition_rows": 221,
+  "historical_same_F_successor_rows_preserved": 13,
+  "opening_already_adopted_rows_included_once": 4,
+  "dispatch_owners": 105,
+  "exact_source_union_objects": 1107,
+  "original_role_semantic_declarations_preserved_verbatim": true,
+  "original_128_receiving_declarations_preserved_verbatim": true,
+  "original_frozen_inputs_unchanged": true,
+  "new_current_argument_receiving_files": 19,
+  "E816_seventeen_deep_owners_claimed_personally_received": false,
+  "all_proposal_rows_ROOT_pending": true,
+  "no_N_or_completion_computation": true,
+  "final_schedule_standalone_proposal": 350,
+  "final_schedule_section_homes": 23,
+  "final_schedule_review_holds": 9,
+  "counts_equal_full_explicit_home_list": true,
+  "all_packet_routes_reference_a_present_home_decision": true,
+  "all_original_selected_character_and_historical_rows_exactly_preserved": true,
+  "all_three_original_role_declaration_fields_exactly_equal_frozen_matrix": true,
+  "all_input_tuples_reverified": true,
+  "entire_prior_frozen_mechanical_delivery_unchanged": true,
+  "final_UTF8LF_and_size_gate": "PASS",
+  "proposed_count_is_not_frozen_N": true
+ }
+}

@@ -1,0 +1,1520 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+    "bytes": 41998,
+    "sha256": "a26b21ee3554d21fde069acd6ada8344d1c1932804950165425e468187284c2f",
+    "git_blob_oid_of_actual_bytes": "ca5687faf034cc7adbf8e259bb2214a1ec858019"
+  },
+  "frozen_claim_register_qualification": "The nested claim register retains original paragraph/line coordinates and exact original support meaning. Use the exhaustive frozen→canonical saved line joins and changed range texts in the current saved-output receipt; historical addresses are never presented as current addresses.",
+  "canonical_saved_line_mapping": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_NERU_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+  "public_exact_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_NERU_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "historical_frozen_claim_and_endpoint_register": {
+    "schema": "BLUE_ARCHIVE_PHASE3_NERU_CLAIM_AND_ENDPOINT_V1",
+    "status": "AUTHOR_VERIFIED_ROOT_RECEIVING_PENDING",
+    "claims": [
+      {
+        "claim_id": "NE01",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 20,
+        "joined_saved_paragraph": "Neru can dominate a confrontation without controlling how she is recognized or how company becomes mutual. Her power, formidable jacket and rough address are useful and sometimes coercive; they do not explain away her independent liking for the jacket, a failed can challenge, a robot toy, a pond, a rooftop view or a holiday. Across the received public and private arguments, the strongest sustained question is what happens when a leader used to decisive action wants participation whose value depends on another person's response. She sometimes obtains practical help or pleasure, sometimes imposes terms, and sometimes changes a request. These are distinct outcomes rather than a single conversion from threatening agent to harmless child. [N01:222–262; H01–H17; M21; M22; E06/E06C; E43]",
+        "source_locator_expressions": [
+          "N01:222–262; H01–H17; M21; M22; E06/E06C; E43"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Strength/recognition/company cannot be made universal instrument orchildidentity",
+        "directed_recipients_and_agency": "Neru wants and independentcompanions/resistantrecipients",
+        "actual_endpoint_and_unfinished_coda": "Usefulwork/pleasure/pressure andrequestrevision coexist",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE02",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 22,
+        "joined_saved_paragraph": "The private sequence most clearly revises a demand after its apparent scene ending. On the last temporary-uniform outing she presses for future company, while the complete MomoTalk aftermath explicitly permits refusal: 『嫌だったら断って良いからな』. She also extends the invitation beyond the uniform to the same particular companion. That correction is real communicative action. It establishes neither universal consent reform nor the next completed outing. Earlier compulsory eating, a death threat attached to a secret roof, pressure around bandaging and a requested release from a hold remain adverse evidence. The full account must preserve both the change and the conduct it cannot retrospectively repair. [N01:238–258; H12:10111:005, whole thread101110190; H03/H05/H08/H11]",
+        "source_locator_expressions": [
+          "N01:238–258; H12:10111:005, whole thread101110190; H03/H05/H08/H11"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Localdeclinepermissionnotuniversalconsentreform/priorrepair",
+        "directed_recipients_and_agency": "Adultcanrefusefutureinvitation;earlierrecipientlimitsretainforce",
+        "actual_endpoint_and_unfinished_coda": "Actualwholethreadpermission;nextoutingunprinted",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE03",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 24,
+        "joined_saved_paragraph": "Her public relations pose a related problem at a larger scale. In Pavane she tests Alice's capability and later participates in an operation whose knowledge and initiative are distributed among students; in the ship event she helps companions while participating in intimidation and an unwanted pursuit. In the EXPO argument, her refusal to let Rio enlist companions and then exclude them through self-sacrifice is substantive care, and her objection to being dismissed as simple-minded is a substantive boundary. Neither is evidence that she grants every other recipient equal freedom. Strength can make company possible and can constrain it; the literary argument concerns how those uses coexist at exact achieved endpoints. [M21:019; M22:021–025; E06:001–011; E43:006–008]",
+        "source_locator_expressions": [
+          "M21:019; M22:021–025; E06:001–011; E43:006–008"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Strengthnotsolecoalitioncredit oruniversalfreedom",
+        "directed_recipients_and_agency": "Alice/students/Koyuki/Rio/Seia retainindependentchoices",
+        "actual_endpoint_and_unfinished_coda": "Test/victory/shiphelp/EXPOrefusalactual;harm/repairbounded",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE04",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 26,
+        "joined_saved_paragraph": "The thesis therefore gives ordinary life its own weight. A wanted toy is not important only because it softens a fighter, and a quiet pond is not covert training. Those preferences show what she wants from time that work has previously consumed. Her authority and her pleasures illuminate each other without becoming each other's justification. The unfinished offer of a shoulder, a proposed shared day or an unprinted photograph deletion remains consequential even when no civic emergency follows. None is discarded for being low stakes. [H06/H10/H11/H12; H14–H17; E10/L67]",
+        "source_locator_expressions": [
+          "H06/H10/H11/H12; H14–H17; E10/L67"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Lowstakespleasuresnotcovertutility orcompletedfutureplans",
+        "directed_recipients_and_agency": "Toy/pond/shoulder/photo/desiredcompanion experienceintrinsic",
+        "actual_endpoint_and_unfinished_coda": "Wantedshoulderandfutureday notperformed;deletionunprinted",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE05",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 30,
+        "joined_saved_paragraph": "This longitudinal account is a comparison across registered source contexts, not a fabricated global calendar. BA_PERSON_NERU has the accepted Neru/Nel rendering and three positive variant routes; their twelve BOND/whole-MomoTalk pairs and five written objects form the received private responsibility. Two documentary launches lead to the same illness encounter, yielding thirteen launch edges without a thirteenth bond. Invitations, encounters and aftermaths supply local order; temporary uniform days supply their own sequence. Profile EXPO assignments, costume UI bindings, release numbers and event folder order do not establish a universal progression from base to bunny to uniform, or date every scene against MAIN. [N01:214–218/242/278; H01–H17; C03:G07/G08/G12]",
+        "source_locator_expressions": [
+          "N01:214–218/242/278; H01–H17; C03:G07/G08/G12"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "No variantgrowthcalendar/doubledillness/identitymultiplication",
+        "directed_recipients_and_agency": "RegisteredNerufamily/actualdocumentarylaunchscope",
+        "actual_endpoint_and_unfinished_coda": "Localinvitations anduniformsequence;globalcalendarOPEN",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE06",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 32,
+        "joined_saved_paragraph": "The base repertoire already contains play, vulnerability and preference. A cleanup walk becomes a repeated can-kicking challenge that initially fails. A misaddressed request during illness leads to bedside company; bad porridge remains bad in the message aftermath even though she thanks the adult. Repayment care reverses the roles, but explosive entry and mandatory eating compromise its means. On an attendance journey she declines temptations she actually likes in order to reach school; on another day she chooses to share a secret view. A jacket inquiry then elicits her plain account that she likes how it looks. These are different forms of agency within the base route, not traits invented by a later costume. [H01–H06; N01:222/230–238]",
+        "source_locator_expressions": [
+          "H01–H06; N01:222/230–238"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Basealreadyvariednotlatercostumecreatesperson",
+        "directed_recipients_and_agency": "Neruwantscleaning/play/care/view/jacket;adultreceivespressuredcare",
+        "actual_endpoint_and_unfinished_coda": "Canfailure/illnesscompany/forcedmeal/arrivaltime report",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE07",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 34,
+        "joined_saved_paragraph": "Bunny contexts vary as well. Unfamiliar clothing brings a request for practical help, an explicit privacy boundary and a conditional photograph offer. Rehearsal brings heel pain and a conflict over accepting treatment. A later encounter represents wearing the outfit for her own reason rather than the mission explanation generalized in the written profile, and ends in play until night after work and study. The positive personal choice and the profile's generalized reluctance remain source-local evidence; no invented elapsed time is needed to erase either. Her reported adaptation to heels is not proof that all discomfort, gaze or coercion has disappeared. [H07–H09; H14; N01:230/262]",
+        "source_locator_expressions": [
+          "H07–H09; H14; N01:230/262"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Generalprofileandpersonalwearingnotfabricatedtimeline",
+        "directed_recipients_and_agency": "Neruchoicesprivacy/pain/outfit;adultrequestedresponse",
+        "actual_endpoint_and_unfinished_coda": "Actualhelp/playtillnight,reportedadaptationnotuniversalcomfort",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE08",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 36,
+        "joined_saved_paragraph": "Temporary uniform scenes change recognition without replacing the person. Local passersby do not avoid her; gangsters discover the familiar voice and demand that she restore the jacket as a warning. A quiet holiday gives her a chosen robot toy, the pleasure of lingering at a pond previously passed for work, rescue from a mishap, rest and an unfulfilled attempt to repay it. The final temporary day permits the adult's exhaustion and later modifies the forceful future invitation. That is an ordered local set of experiences with different successes and costs, not a permanent meek identity. The written uniform explicitly rejects the idea that clothing has made her docile. [H10–H12; H15]",
+        "source_locator_expressions": [
+          "H10–H12; H15"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Uniformrecognitionnotmeekidentity/personreplacement",
+        "directed_recipients_and_agency": "Passersby/gangsters/adult/Nerutoyandrest",
+        "actual_endpoint_and_unfinished_coda": "Actualrecognition/toy/pond/rest;shoulderunfulfilled/declinepermission",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE09",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 38,
+        "joined_saved_paragraph": "Public outcomes extend this range rather than superseding it. Pavane includes genuine C&C assignment, failed forecasts, Alice's test, distributed resistance to Rio and a reported hospital discharge; the ship argument includes protective help alongside covert-force failure, contested amusement and missing uniforms. The art event gives Neru a specific apology for leaving Toki behind under urgent assignment, while EXPO gives her resistance to exclusion and an actual refusal to accept disparagement. These positive changes and continuities do not locate every private holiday between named crises, certify combat clearance or prove durable repair. The rescue roster in Final contextualizes company, but its collective C&C arrival cannot be converted into every member's separately inspected action. [M21/M22; E06/E06C; E25:015–016; E43:006–008; F00:169/229]",
+        "source_locator_expressions": [
+          "M21/M22; E06/E06C; E25:015–016; E43:006–008; F00:169/229"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Publicendpointsnotcombatclear/fullrepair/calendar/individualFinalfeats",
+        "directed_recipients_and_agency": "Alice/Toki/Rio/coalitiondifferentresponses",
+        "actual_endpoint_and_unfinished_coda": "Discharge/apology/EXPOrefusal/collectivehelp retainedatprintedmode",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE10",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 42,
+        "joined_saved_paragraph": "The jacket illustrates the difference between reputation and motive. Two particular students react fearfully, and a familiar gangster group later recognizes her voice once the jacket is absent. Those reactions establish local recognition; they do not prove that all Millennium fears her, that an unknown trauma caused the jacket preference, or that the uniform has cured a pathology. In the private jacket encounter she defends an item she says looked cool at first sight. Anticipation of criticism is real, but her answer is available without an elaborate secret cause. The adult's attempt to suggest matching jackets is rebuked, and the search outcome is unprinted. Acceptance of her taste is not assent to every offered form of intimacy. [H06:10008:020; H10:10111:002; H13/H15]",
+        "source_locator_expressions": [
+          "H06:10008:020; H10:10111:002; H13/H15"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "No globalfear/hiddenjackettrauma/costumecure/intimacyassent",
+        "directed_recipients_and_agency": "Twostudents/gangsters/Neruplaintaste/adultproposal",
+        "actual_endpoint_and_unfinished_coda": "Tastevalidated;matchingrebuked/searchunprinted",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE11",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 44,
+        "joined_saved_paragraph": "Her forceful public presentation does not make every forceful sentence a completed injury. In the attendance encounter adversaries plan a sanction and a laxative trap; their knowledge remains theirs. Neru confronts repeated faces and reports arriving in time, but the offered bait is not shown ingested and a cocking or sound cue is not a witnessed shot. The private rooftop threat likewise matters as pressure without becoming an unprinted assault. Conversely, the absence of a narrated injury cannot make explosive entry, fear, compulsory eating or property damage harmless. Mode and endpoint distinguish ethical evaluation from invented physical results. [H04/H05; H03; N01:246–258]",
+        "source_locator_expressions": [
+          "H04/H05; H03; N01:246–258"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Threatnotunprintedinjury;noharmabsence notethicalexoneration",
+        "directed_recipients_and_agency": "Adversariesknowledge/Nerufearpressuredrecipient",
+        "actual_endpoint_and_unfinished_coda": "Trapnotingested/arrivalreported/noheardshot/doorcosts",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE12",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 46,
+        "joined_saved_paragraph": "Vulnerability is active and uneven. She objects to strawberry medicine on grounds the adult's flavor explanation misses, dislikes the porridge and nevertheless asks the visitor to remain. Later she presents herself as a strong maid leader and proposes nursing, only to admit that she imagined it once. Bandaging exposes a separate refusal of child address; the adult's threatened withdrawal prompts reluctant acceptance. Care can be useful and wanted while pressure remains material. A fictionally narrated quick recovery in the repayment encounter is a local afterstate, not medical assurance or proof that the meal was freely chosen. [H02/H03/H08]",
+        "source_locator_expressions": [
+          "H02/H03/H08"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Wantedusefulcare notmedicalproof orfreeconsent",
+        "directed_recipients_and_agency": "SickNerurequestscompany/adultforcedmeal/bandagepressure",
+        "actual_endpoint_and_unfinished_coda": "Localnarratedrecovery/actualsleep/thanks;fullhealunproved",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE13",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 48,
+        "joined_saved_paragraph": "The private first-person projection in the rooftop scene and direct written school affection must also remain separate. Timed narration suggests an interpretation of her attachment to school; secure dialogue expresses pleasure in company and openness to further secrets. The written special-lobby lines independently express liking school and acknowledge occasional truancy. The latter is positive Neru-written evidence in its own context, not a correction of the bond narrator into heard Neru speech. These source modes allow a rich portrait without using psychological plausibility to repair actor or inward labels. [H05; H13:special1200–1203; N01:230/250/254]",
+        "source_locator_expressions": [
+          "H05; H13:special1200–1203; N01:230/250/254"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Directwrittenaffectionnotrepairtimednarratoractor",
+        "directed_recipients_and_agency": "Neruschoolwrittenmeaning/securecompanyspeech",
+        "actual_endpoint_and_unfinished_coda": "Positivewrittenschoolaffectionseparatefromprojectedbondthought",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE14",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 50,
+        "joined_saved_paragraph": "Private range therefore complicates the public instrument reading without falsifying public danger. The same person can like winning, cleaning, a wig she refuses on a particular morning, a jacket she insists on keeping, a toy she chooses and the company of specific people. Those particulars make availability conditional and tastes heterogeneous. They do not entitle her to intimidate strangers or make others responsible for her happiness. A monograph that records only violence would omit her desired life; one that records only tenderness would omit recipients' costs. [H03/H04/H06/H09/H11/H14; E06/E06C]",
+        "source_locator_expressions": [
+          "H03/H04/H06/H09/H11/H14; E06/E06C"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Neitheronlyviolencenoronlytenderness/availabilityentitlement",
+        "directed_recipients_and_agency": "Nerutastesandactualrecipientsfear/cost",
+        "actual_endpoint_and_unfinished_coda": "Conditionalwantedlife alongsidecoercion/help",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE15",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 54,
+        "joined_saved_paragraph": "C&C leadership and Double O are positive institutional contexts, including the written victory-symbol and strongest-agent presentation. A profile superlative is a claim, not an independently measured ceiling or a guarantee of winning every encounter. The school matters both as an institution she attends imperfectly and as a place of chosen views, work and rest. Temporary talk of being an ordinary student or setting C&C aside for a day is a leisure frame, not resignation; the uniform's senior–junior language does not abolish roles. The unnamed Seminar accountant's request is a report, not a positive Yuuka identification or an audited disciplinary order. [H04/H05/H10/H12/H13/H15; N01:234/242]",
+        "source_locator_expressions": [
+          "H04/H05/H10/H12/H13/H15; N01:234/242"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Profileceilingnotmeasurement/temporaryleisure notresignation/accountantnotYuuka",
+        "directed_recipients_and_agency": "C&C/Neruschools/seniorjunior/unnamedaccountant",
+        "actual_endpoint_and_unfinished_coda": "Positiverolecontext/temporaryframe;disciplinaryauditunknown",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE16",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 56,
+        "joined_saved_paragraph": "The GROUP account makes club procedure genuinely disputed. Karin reports prior signing, Asuna acknowledges it, Akane states an internal absence-delegation rule and Neru refuses the result. The received text does not show a signed instrument, independently valid legal authority or Neru's free assent. That disagreement is not erased by the later café work or by Yuuka's report of earnings. Akane accommodates Neru's jacket and seeks permission concerning hair, while Asuna opens early; agency exists inside a shared job without proving that everyone agreed to every term. A profitable report and threatened future labor refusal are distinct from paid repair, an enacted strike or a resolved contract. [G12:1202/1203]",
+        "source_locator_expressions": [
+          "G12:1202/1203"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Internalrule/signingreportnotinstrument/legalvalidity/freeassent",
+        "directed_recipients_and_agency": "Karinreport/Asunaack/Akanerule/Nerurefusal/earlyopening",
+        "actual_endpoint_and_unfinished_coda": "Caféwork/earningsreportactual;strike/payment/contractunresolved",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE17",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 58,
+        "joined_saved_paragraph": "The earlier club-cleaning scene similarly distinguishes work, spectacle and cost. Akane hums and invites company, Asuna enjoys the dust, Neru objects to turning the process into a show, and Karin distinguishes cleaning from handling people. Machinery produces a large invoice despite promises to proceed quietly. Each response matters separately. Neru's objection can be practical without establishing a complete audit or making her the only sober agent; her own destructive methods elsewhere limit that interpretation. The club's varied work pleasures and burdens support a separate C&C ensemble and institution argument, neither completed by this character package. [G12:1201; H01/H03; E06/E06C]",
+        "source_locator_expressions": [
+          "G12:1201; H01/H03; E06/E06C"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Neruobjectionnotsolecompetence/audit/allclubsamepleasure",
+        "directed_recipients_and_agency": "Akanehumming/Asunadust/Karinprocedure/Neruobjects",
+        "actual_endpoint_and_unfinished_coda": "Invoiceactual/promisequietfails;institutionensemble separate",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE18",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 60,
+        "joined_saved_paragraph": "Pavane tests the relation between skill and legitimate procedure. C&C's assignment is represented as genuine, yet Alice's detention as a decoy and the surrounding tactical conflict have effects beyond procedure's assertion. Forecasts fail; Karin's fire, Akane's escape, Asuna's intervention and reserves do distinct work. Neru's subsequent test of Alice reaches a represented damaged-body/floor boundary and a stop, followed by an appraisal that Alice's body is repaired and a report classifying building damage as a club accident. That later account does not independently prove absence of harm, legal absolution or comprehensive compensation. Competition can acknowledge a person while still requiring the means and recipient to remain visible. [M21:013–020]",
+        "source_locator_expressions": [
+          "M21:013–020"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Genuineassignment/test/bodyrepairreportnotlegallicense/noharm",
+        "directed_recipients_and_agency": "Alice/C&Cpeerstacticalwork/differentexposure",
+        "actual_endpoint_and_unfinished_coda": "Testdamage/stop/bodyrepairedappraisal/accidentreport",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE19",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 62,
+        "joined_saved_paragraph": "The resistance to Rio further refuses a leader-only account of capability. Momoi's idea conveyed through Yuzu, Chihiro's hypothesis and the elevator operation enacted by C&C contribute to Neru's victory; Akane explicitly contests attribution to Sensei alone. Subsequent Alice return, Neru's hospital discharge, Toki's uneasy tolerance and Rio's resignation, apology and disappearance are different endpoints. Discharge is not general combat clearance; apology is not completed accountability. Neru's contribution matters precisely because it belongs to a coalition of people whose thinking, labor and different risks cannot be reduced to her strength or to the adult's command. [M22:021–025, checkpointL44/79–103]",
+        "source_locator_expressions": [
+          "M22:021–025, checkpointL44/79–103"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Neruwinnotsoleleader/adultcredit/dischargecombatclear",
+        "directed_recipients_and_agency": "Momoi/Yuzu/Chihiro/C&C/Akanecorrection/Alice/Toki/Rio",
+        "actual_endpoint_and_unfinished_coda": "Win/return/discharge/apologyresigndisappear differ",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE20",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 66,
+        "joined_saved_paragraph": "The cleanup encounter's failed can kick becomes pleasurable repetition. An invitation and time reminders frame the walk, while satisfaction accompanies the separation; arriving late remains unresolved rather than disappearing behind the successful joke. Duty and play share time without every moment being efficient. That small divergence is enough to count as an actual wanted experience. It does not need a hidden combat-training purpose, a revelation of a secret child self or a claim that she has stopped caring about work. [H01:10008:002, wholeMomo100080010]",
+        "source_locator_expressions": [
+          "H01:10008:002, wholeMomo100080010"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Canplaynottraining/efficiency/abandonedduty",
+        "directed_recipients_and_agency": "Neruchosenrepetition/adultreminders",
+        "actual_endpoint_and_unfinished_coda": "Actualhelp/failure/joy/satisfieddeparture;latearrivalunresolved",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE21",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 68,
+        "joined_saved_paragraph": "The attendance journey makes desired pleasures consequential through refusal. Food and a wig tempt her, but she chooses the immediate school goal; adversaries' sanction schemes and proposed trap are not her knowledge. The strength of the choice depends on the temptation being attractive, rather than on pretending she never wanted it. Her reported timely arrival and gratitude for company are actual represented endpoints; permanent punctuality, disciplinary reform and converted adversaries are not. Denied pleasure on one morning belongs beside freely chosen leisure elsewhere. [H04:10008:006, wholeMomo100080190]",
+        "source_locator_expressions": [
+          "H04:10008:006, wholeMomo100080190"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Foodwigrejectionnotabsenceofwant/enemyknowledgetransfer",
+        "directed_recipients_and_agency": "Nerutemptationandchoice/adversaryplan/adultcompany",
+        "actual_endpoint_and_unfinished_coda": "Timelyarrivalreported/notpermanentpunctualityorconversion",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE22",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 70,
+        "joined_saved_paragraph": "The roof and park supply different forms of quiet. She directs a selected companion to a viewpoint and asks for a hand while correcting a mistaken grasp; the exact bodily location is unprinted. The shared view and request for future company are meaningful, but neither an exclusive worldwide visitor census nor permission to control another person's movements follows. On the uniform holiday, a familiar work park becomes newly enjoyable because she can linger at the pond. The place has not physically changed in order for her relation to time to change. Novel attention is the achieved experience; it is not evidence that previous work contained no pleasure. [H05:10008:008; H11:10111:003]",
+        "source_locator_expressions": [
+          "H05:10008:008; H11:10111:003"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Rooftopnonprintedbody/exclusivitynotworldcensus/controllicense",
+        "directed_recipients_and_agency": "ChosenNerucompanion/handcorrection/parkattention",
+        "actual_endpoint_and_unfinished_coda": "Actualviewandpondlinger/futurevisitwanted",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE23",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 72,
+        "joined_saved_paragraph": "The children's meal is chosen for its transforming robot. Neru keeps the toy after demonstrating it; the adult can acquire another rather than taking hers. A child's commercial category does not diminish the legitimacy of her taste, and resistance to being treated as a child during bandaging does not forbid her from choosing a toy. Those are different recipient relations and choices. The later rail mishap, rescue, request to be released, shoulder rest and delayed reciprocal offer retain different bodily and temporal outcomes. Hours of narrated sleep leave her refreshed; her proposed return of the shoulder comes too late to be fulfilled. The account does not convert that wanted reciprocity into a completed exchange. [H08; H11:10111:003]",
+        "source_locator_expressions": [
+          "H08; H11:10111:003"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Toynotinfantilizationconsent/thanksnotcancelreleaserequest",
+        "directed_recipients_and_agency": "Nerukeepsrobot/adultotherpurchase/rescue/lateoffer",
+        "actual_endpoint_and_unfinished_coda": "Chosenmealtoy/linger/rescue/releasewant/sleep;shoulderunfulfilled",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE24",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 74,
+        "joined_saved_paragraph": "The last uniform day gives the adult a different limit. Three narrated coaster rides leave the companion unable to continue; Neru allows rest and takes a solo carousel ride whose appearance is not witnessed by the adult. Offers involving a headband or sweets and inward/timed alternatives cannot all be treated as visible chosen actions. At closing, the future company command survives as pressure until the Momo aftermath reformulates it with permission to refuse. Work and costume do not end her desire for company; the recipient's capacity and choice are nevertheless part of what a shared day requires. [H12:10111:005, wholeMomo101110190]",
+        "source_locator_expressions": [
+          "H12:10111:005, wholeMomo101110190"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Alternativesnotallvisibleacts/permittedrestnotuniversalconsent",
+        "directed_recipients_and_agency": "Adultfinitecapacity/Nerusoloride/newinvitation",
+        "actual_endpoint_and_unfinished_coda": "Threecoasters/rest/carousel/actualMomochange;futureunprinted",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE25",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 76,
+        "joined_saved_paragraph": "Gift and written contexts add pleasures without inventing received presents or images. The gift encounter values a striking, cool design; an adult sculpture proposal is not the design actually shown, and Japanese versus Korean wording supplies different taste and gaze qualifications. Actual shared eating is a positive endpoint, while a general verdict that everyone found it delicious is unsupported. Written birthday, cake, hobby, furniture, rest, encouragement and play lines retain invitations, requests and reported liking; empty costume profiles and repeated shop rows do not become several completed purchases or holidays. Ordinary pleasure remains intrinsic even where the interlocutor's answer is absent. [L67/E10; H13–H17]",
+        "source_locator_expressions": [
+          "L67/E10; H13–H17"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Giftimage/proposal/taste/notallUIgiftsorholidaysenacted",
+        "directed_recipients_and_agency": "Nerucooldesign/sharedfood/differentJP-KRacknowledgments",
+        "actual_endpoint_and_unfinished_coda": "Actualeating/repeatedwrittenwants;unknownimage/purchases",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE26",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 80,
+        "joined_saved_paragraph": "Neru's public competence is concrete but shared. In Pavane she can test Alice and win a consequential confrontation through an operation built from others' ideas and work. The account retains damage and a stop, genuine assignment and failed forecasts, a restored body appraisal and the separate hospitalization/discharge tail. These outcomes give more than a profile boast; they still do not establish invulnerability, a measured maximum or a general license to detain and test someone. The person recognized as a peer cannot be represented solely as an object against which strength is certified. [M21:013–020; M22:021–025]",
+        "source_locator_expressions": [
+          "M21:013–020; M22:021–025"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Publiccompetencenotinvulnerability/license",
+        "directed_recipients_and_agency": "Alice/coalition/differentcontribution andbody",
+        "actual_endpoint_and_unfinished_coda": "Win/teststop/restored-bodyappraisal/hospitaltail",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE27",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 82,
+        "joined_saved_paragraph": "The ship story places helpful protection and coercive pursuit within the same account. Neru supports companions and uses familiar means, while the C4 error and exposure contradict the claim of a reliably quiet operation. Koyuki does not consent to a game of tag merely because others describe the pursuit playfully. Cost minimization and indirect coercion remain materially different from innocent leisure. When a held recipient resists laughter, Akane and Neru stop Karin; their intervention is actual restraint of a peer, not an injury audit or proof that every preceding or subsequent act was proportionate. The complete ending reports custody but does not show the promised rescue, return or retrieval of valued missing uniforms. [E06:001–011; E06C:completecomparison]",
+        "source_locator_expressions": [
+          "E06:001–011; E06C:completecomparison"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Koyukipursuitnotmutualgame/laughternotconsent/peerinterventionnotaudit",
+        "directed_recipients_and_agency": "Koyukiheldrecipient/Neru-AkanestopKarin",
+        "actual_endpoint_and_unfinished_coda": "C4error/custodyreport/intervention;rescue/uniformsnotshown",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE28",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 84,
+        "joined_saved_paragraph": "The art event allows a more specific judgment than either total abandonment or total repair. Neru intercepts Meitaro; suspects and evidence are reported secured, with transfer to Valkyrie still prospective. She praises Toki and apologizes for leaving her behind because of urgent assignment, and Toki thanks her. That apology is represented address to the particular person affected. It does not authorize a conclusion that Toki has forgiven every source of isolation or that her command, friendship and future work questions are settled. Toki's chosen Game Development company and expressed dissatisfaction have their own agency independent of Neru's approval. [E25:015–016, particularly016u0073–0076; E25:wholeToki/GDDendings]",
+        "source_locator_expressions": [
+          "E25:015–016, particularly016u0073–0076; E25:wholeToki/GDDendings"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Specificapology notuniversalforgiveness/settledcommandorbelonging",
+        "directed_recipients_and_agency": "Nerupraiseapology/Tokithanks/ownfriends",
+        "actual_endpoint_and_unfinished_coda": "Suspectsevidencesecuredreport/transferfuture;apologyactual",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE29",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 86,
+        "joined_saved_paragraph": "Coalition reports and light responses also preserve distinct kinds of participation. EVENT821 places Neru's mustache approval among recognized assistance and varied reactions; the initial greeting remains UNKNOWN and raw/native actor seams remain inherited. Later sanctum-success announcements are real reports of completion, not proof that every actor shown admiring a mustache caused every victory. Her aesthetic response is valuable in the coalition precisely as her response, without being recoded as command, a physical feat or disposable filler. Final's collective arrival to Toki similarly supports help at the printed group scope while leaving individual mechanisms and future work unproved. [E21:004/131; F00:169/229]",
+        "source_locator_expressions": [
+          "E21:004/131; F00:169/229"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Mustachetaste noteveryvictorycredit/collectivehelpnotpersonalmechanism",
+        "directed_recipients_and_agency": "Neruordinaryresponse/UNKNOWNgreeting/coalitionroles",
+        "actual_endpoint_and_unfinished_coda": "Reportedassistance/completedreportedoperations;individualscopebounded",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE30",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 88,
+        "joined_saved_paragraph": "At EXPO, directness is both a preference and a limit on calculation. Rio anticipates Neru's response; Neru asks her to speak plainly and says she will say when she cannot do something. Rio's later claim that past data show Neru always objects openly is still an attributed generalization. Her simple-minded characterization immediately elicits objection and refusal. The counterresponse preserves a recipient who can reject the framing of her own presumed predictability. This is neither a psychological theorem nor unlimited permission to insult because a person normally speaks frankly. [E43:004/006, especially006u0017–0056]",
+        "source_locator_expressions": [
+          "E43:004/006, especially006u0017–0056"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Riopastdatageneralizationnotpredictabilitytheorem/insultlicense",
+        "directed_recipients_and_agency": "Nerudirectrequest/cannotcommit/Riolabel/rejectedrecipient",
+        "actual_endpoint_and_unfinished_coda": "Actualobjection/refusal/dataunproved",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE31",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 90,
+        "joined_saved_paragraph": "Rio's self-sacrificial instruction to leave then meets a different refusal. Neru and Seia oppose being brought into the task and excluded from responsibility as a solution; they do not declare Rio blameless. Neru proposes intrusion, locating the enemy and destroying the machine, but the episode ends with a request for directions rather than performed destruction. Later reported handover and averted EXPO cancellation are positive local results; transport, completed compensation and full legal disposition remain distinct. In the lodging exchange Neru says nobody can force an unwanted stay, Rio agrees to one week and begins unpacking, and her stated departure after the event remains a limit. The actual agreement is not an observed completed week, permanent office, pardon or cure of isolation. [E43:007–008]",
+        "source_locator_expressions": [
+          "E43:007–008"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Proposalnotperformedmachinebreak/offernotpaid/weeknotobserved/pardon",
+        "directed_recipients_and_agency": "NeruSeiarefuseexcludedresponsibility/Riofiniteagreement",
+        "actual_endpoint_and_unfinished_coda": "Directionrequest/reportedhandover/noforcecondition/unpacking",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE32",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 94,
+        "joined_saved_paragraph": "The adult is often a practical companion rather than the source of every motive. Time reminders accompany the can game; bedside presence is requested after intrusive ringing is initially resisted; jacket taste receives validation rather than an invented trauma explanation. On the rooftop the adult follows directions, and on the uniform day helps make time for pleasures already chosen by Neru. These acts can be caring without creating her tastes or absorbing peer agency. Private recurrence makes a particular chosen relationship legible, but does not prove universal adult indispensability or a uniquely correct player response. [H01/H02/H05/H06/H10/H11]",
+        "source_locator_expressions": [
+          "H01/H02/H05/H06/H10/H11"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Adultnotcreatorofeverytaste/indispensable/universalcorrectchoice",
+        "directed_recipients_and_agency": "Neruchosenwork/company/adultlimitedpracticalhelp",
+        "actual_endpoint_and_unfinished_coda": "Reminders/bedsidepresence/validation/chosenview pleasures",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE33",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 96,
+        "joined_saved_paragraph": "Changing clothes gives a precise achieved privacy endpoint. The adult supplies instructions, leaves, waits outside and returns at Neru's invitation; she can want the help without authorizing uncontrolled looking. A deletion demand in the mistaken-message context is not shown fulfilled, and a possible photograph remains conditional. The asset is unviewed in this literary receiving. The argument therefore credits respected changing-room privacy and preserves the unresolved image question separately, instead of concluding that trust makes every visual access or subsequent disclosure acceptable. [H07:10026:002, wholeMomo100260010]",
+        "source_locator_expressions": [
+          "H07:10026:002, wholeMomo100260010"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Trustnotblanketphotobodyaccess/deletionnotshown",
+        "directed_recipients_and_agency": "Neruprivacyrequest/adultleaveswaitsreturnsinvited",
+        "actual_endpoint_and_unfinished_coda": "Actualprivacyhelp/conditionalphoto/unviewedasset",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE34",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 98,
+        "joined_saved_paragraph": "Care does not have one ethical valence. Neru asks the visitor to stay during illness and later worries about burden in the bandaging thread; those are directed wants. The adult's withdrawal tactic nevertheless pressures a reluctant acceptance after the child-address objection. In repayment, the adult's food choices vary in formulation but none supplies a genuine option not to eat. Door destruction, a single imagined nursing model and an explicit calorie guarantee remain limits beside narrated local recovery. Useful assistance and gratitude do not settle bodily consent, competence or material repair. [H02/H03/H08]",
+        "source_locator_expressions": [
+          "H02/H03/H08"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Gratituderecovery notbodilyconsent/medicalassurance/repair",
+        "directed_recipients_and_agency": "Nerustaywant/burdenconcern/adultpressureandmealconstraints",
+        "actual_endpoint_and_unfinished_coda": "Bandage/narratedrecovery;doorcost/forcedeating retained",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE35",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 100,
+        "joined_saved_paragraph": "The uniform holiday makes both bodies and both experiences consequential. An adult rescue is achieved after the mishap; her request to be released remains valid beside later thanks and pleasure. The rested person's wish to return a shoulder does not erase the companion's earlier time cost, and her late offer is not performed. On the next outing the adult cannot take more rides; her allowance of rest is a real accommodation. These finite outcomes support reciprocity as an imperfect practice rather than an automatic property of affection. A romance-only explanation would miss the toy, pond, sleep and limits that make company valuable and costly. [H11/H12]",
+        "source_locator_expressions": [
+          "H11/H12"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Laterpleasuredoesnotcancelrelease/timecost/reciprocitynotautomatic",
+        "directed_recipients_and_agency": "Adultrescues/Nerureleaserequest/finitebodies/lateoffer",
+        "actual_endpoint_and_unfinished_coda": "Refreshedrest/allowedridebreak;shoulderreturnunfulfilled",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE36",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 102,
+        "joined_saved_paragraph": "The later permission to refuse revises an invitation from this person to this recipient. It neither converts prior threats into harmless jokes nor becomes a signed permanent code governing every future encounter. Nor should its limited scope make it disappear: the complete thread gives an actual change in how another person's choice is acknowledged, and explicitly wants the same companion without needing the temporary uniform. Written lines of reliance and senior–junior address are additional context-specific expressions, not evidence that every listed adult reply, birthday gift, touch or private thought was enacted. [H12:whole101110190; H14/H15/H17; N01:238/246]",
+        "source_locator_expressions": [
+          "H12:whole101110190; H14/H15/H17; N01:238/246"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Localpermissionnotpermanentcode/priorabsolution/allUIreplyactual",
+        "directed_recipients_and_agency": "Neruparticularsamecompanion/recipientdeclinechoice",
+        "actual_endpoint_and_unfinished_coda": "Expresspermissionandbeyonduniforminvitation;futureunprinted",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE37",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 106,
+        "joined_saved_paragraph": "The C&C peers have separate wants and corrective roles. Akane's hospitality, Asuna's dust or work enjoyment and Karin's procedural or operational claims are not Neru's feelings. Neru objects to spectacle and rejects the signing outcome; Akane negotiates clothing and later joins her in stopping resisted captive laughter. The same peer whose service makes work possible can dispute her or impose a reported club rule, while Neru can offer help and exert force. The character monograph preserves these directions without completing the required C&C institution or differentiated-company ensemble. Each will need its own argument about procedure, labor, taste, laughter and recipient cost. [G12:1201–1203; E06/E06C]",
+        "source_locator_expressions": [
+          "G12:1201–1203; E06/E06C"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "PeersnotNerufeelings/characterhome notseparateinstitutionensemblecompletion",
+        "directed_recipients_and_agency": "Akane/Asuna/Karin/Neru differentiatedwantsandcorrection",
+        "actual_endpoint_and_unfinished_coda": "Refusal/clothingnegotiation/intervention;contractcostbounds",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE38",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 108,
+        "joined_saved_paragraph": "Alice is a peer with her own refusal, body and coalition. A competitive acknowledgment can coexist with the risk and damage of the test; a repaired-body appraisal does not erase what was tested. In the subsequent rescue operation, Game Development members' ideas and Chihiro's work help make Neru's win possible. The outcome cannot be assigned solely to the stronger fighter, Rio's plans or Sensei. Alice's return is her social endpoint, not Neru's ownership of a rescued person; Toki's tolerance and Rio's apology remain other people's partial responses. [M21:019–020; M22:012–025]",
+        "source_locator_expressions": [
+          "M21:019–020; M22:012–025"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Alice notownedobject/coalitionnotsolefighterteacher",
+        "directed_recipients_and_agency": "Aliceownbody/refusal/GDDideas/Chihiro/Akanecorrection",
+        "actual_endpoint_and_unfinished_coda": "Bodyappraisal/return/Neruwin/Tokitolerance/Rioapology distinct",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE39",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 110,
+        "joined_saved_paragraph": "Toki's connection is especially legible through difference. An account in which all C&C members enjoy the same service, clothes or company would omit her claimed command question and chosen outside friends. Neru's later praise and apology address an actual absence under urgent assignment; Toki's thanks does not turn every earlier need into fulfilled belonging. Final's collective C&C arrival gives real help at its own scope, while subsequent work, injuries and durable roles remain unsettled. These scenes permit a sustained directed Neru→Toki question without making this monograph its independent completion or importing every Toki act as Neru evidence. [E25:whole/016; F00:169/229; M22:025]",
+        "source_locator_expressions": [
+          "E25:whole/016; F00:169/229; M22:025"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "AllC&Cnotidenticalwants/Tokithanksnotfullbelonging/Finalnotborrowedfeats",
+        "directed_recipients_and_agency": "Tokiowncommandquestion/friends/Neruspecificapology",
+        "actual_endpoint_and_unfinished_coda": "Praise/apology/collectivehelp;roles/injuries/workunfinished",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE40",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 112,
+        "joined_saved_paragraph": "Koyuki provides a consequential resistant recipient. Calling her pursuit a game does not make it a shared game, and useful ship tactics do not establish her assent. Likewise a frightened captive's laughter cannot substitute for willingness. Neru's participation in coercion and later intervention against Karin must both remain, with no universal kindness or timeless cruelty verdict. Actual restraint of another person is a particular action; harm, lawful custody, rescue and the missing uniforms have different evidentiary tails. These limits protect the recipients from being reduced to material for a protagonist's comic charm. [E06:004–011; E06C]",
+        "source_locator_expressions": [
+          "E06:004–011; E06C"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Coercionnotmutualgame/frightenedlaughternotwillingness",
+        "directed_recipients_and_agency": "Koyukiresists/captivecosts/Nerupeerintervention",
+        "actual_endpoint_and_unfinished_coda": "Actualrestraint/custodyreported;harm/rescue/uniformtails",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE41",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 114,
+        "joined_saved_paragraph": "Rio and Seia are independent interlocutors in the EXPO account. Rio's data model, guilt and usefulness frame do not control the responses she gets; Neru objects to disparagement and, together with Seia, rejects the attempt to bear everything alone. Seia's desire for a week of company and Rio's initial not-qualified refusal differ from Neru's practical lodging suggestion and express no-force condition. Rio's eventual agreement and unpacking are achieved responses with a stated departure limit. The conclusion is chosen finite company, not permanent incorporation into Neru's command or absolution by companions. The signed or claimed-room-rule issues elsewhere are not imported as legal or free-assent proof here. [E43:004/006–008]",
+        "source_locator_expressions": [
+          "E43:004/006–008"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Finitecompanynotpermanentcommand/pardon/legalroomrules",
+        "directed_recipients_and_agency": "Rioownrefusal/Seiawantedweek/Neruobjectionandnoforce",
+        "actual_endpoint_and_unfinished_coda": "Actualagreement/unpacking/leavelimit;weekcompletionunprinted",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE42",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 116,
+        "joined_saved_paragraph": "Other peers retain sparse but real agency. The two fearful students and voice-recognizing gangsters give different local recognitions; unnamed adversaries plan the attendance trap; an unnamed accountant is reported to request the uniform. Cherino's mustache presentation elicits Neru's taste without certifying the self-listed offices or assigning formation command. These actors need their actual scope preserved even where neither a personal monograph nor a positive alias join is justified. Recognition, resistance, request and ordinary response cannot be silently collapsed into a generic crowd. [H04/H06/H10; E21:004; N01:242]",
+        "source_locator_expressions": [
+          "H04/H06/H10; E21:004; N01:242"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Localactorsnotgenericcrowd/forcedaliases/formationcommand",
+        "directed_recipients_and_agency": "Fearfulstudents/gangsters/adversaries/accountant/Cherino",
+        "actual_endpoint_and_unfinished_coda": "Actualrecognition/request/ordinarytaste;identitybounds",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE43",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 120,
+        "joined_saved_paragraph": "Rough written address carries initiative, impatience and relationship without being a recording of performance. あたし, shortened negatives, commands and exclamations coexist with hesitation, thanks, invitations and questions about whether the companion enjoyed the day. A musical or sound marker is not heard voice, nor does a denial automatically mean its opposite. The profile's victory and strongest-agent language remains self-presentation; quieter written school liking and discomfort are also positive evidence. They do not have to be classified as more authentic because they appear gentler. [N01:250; H13–H17; C03:G10/G14]",
+        "source_locator_expressions": [
+          "N01:250; H13–H17; C03:G10/G14"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Register notperformedvoice/denialnotautomaticopposite",
+        "directed_recipients_and_agency": "Neruselfpresentation/quietwrittenschoolaffection/askedcompanions",
+        "actual_endpoint_and_unfinished_coda": "Writtenexpressionpositive;noperformanceclaim",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE44",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 122,
+        "joined_saved_paragraph": "『見せもん』 rejects being a showpiece while leaving room for a voluntarily solicited opinion about clothing. 『これは譲れねぇ』 marks the jacket as nonnegotiable preference; it is not an analyst's license to speculate about hidden trauma. The uniform question about becoming docile receives an explicit rejection, while 『普通』 and 『今』 support temporary leisure frames rather than permanent identity replacement. Birthday denial, waiting denial and mission reluctance similarly remain printed stances, with contrary positive choices kept in their actual contexts rather than reversed into obligatory concealed affection. [H06/H09/H14/H15]",
+        "source_locator_expressions": [
+          "H06/H09/H14/H15"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Showpiecerefusalnotallopinionsrefused/jacketnottrauma/docilityfalse",
+        "directed_recipients_and_agency": "Neruselectedpraise/request/preferences/source-localdenials",
+        "actual_endpoint_and_unfinished_coda": "Directstancesandcontrarychoices retainedwithoutforcedcalendar",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE45",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 124,
+        "joined_saved_paragraph": "Modes materially affect the portrait. Timed first-person passages at the roof and during bandaging cannot all be converted into spoken Neru confession. Native written selections next to inward questions or reassurance qualify source labels without establishing heard private thought or one enacted route through every option. The written special lobby can directly express school affection without repairing the bond's narrator projection. The gangsters' projected labels and the attendance scene's merchant/insult attribution retain inherited source qualifications; this synthesis makes no fresh actor repair from personality plausibility. [H03/H04/H05/H08/H10/H13; N01:246/250/278]",
+        "source_locator_expressions": [
+          "H03/H04/H05/H08/H10/H13; N01:246/250/278"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Inwardnarratornotdirectconfession/actorrepair/oneenactedroute",
+        "directed_recipients_and_agency": "Source-modebounds/schoolwrittenownauthority",
+        "actual_endpoint_and_unfinished_coda": "Inheritednativescriptqualificationsnotfreshnativecredit",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE46",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 126,
+        "joined_saved_paragraph": "Complete message codas alter interpretation because they contain different speech acts. Bad porridge survives thanks; bandage burden concern survives accepted care; a matching-jacket proposal meets rebuke; the last-uniform demand acquires express permission to decline. These tails make recipient experience and change legible without diagnosing a stable psychological type from every line. Repeated UI wording, by contrast, does not supply successive dates: the ship costume has thirty full-context rows plus six partial repeat rows, and the uniform costume has two ten-row contexts. Their invitations, play questions and poke objection remain written repertoire, not multiplied performed jobs or holidays. [H02/H06/H08/H12/H16/H17]",
+        "source_locator_expressions": [
+          "H02/H06/H08/H12/H16/H17"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Codasnotdiscarded/repeatedUI notsequentialjobs",
+        "directed_recipients_and_agency": "Neruthanks/recipientcost/burden/declinepermission/playquestions",
+        "actual_endpoint_and_unfinished_coda": "Badporridge/rebuke/permission actual;UIrepeatmultiplicitybounded",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE47",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 128,
+        "joined_saved_paragraph": "Localization narrows conclusions rather than erasing the gift. In the complete067 argument, Japanese retains gaze and a good-taste acknowledgment despite design concern; Korean omits the gaze and uses ordinary-taste wording with a tentative emphasis on appearance. A sculpture proposal is general in Japanese and dragon-specific in Korean. Actual shared eating can be retained across the endpoint without inventing a visible current design, a voiced crowd judgment or uniform enthusiasm. The nonmonotonic unit0032 and missing0015 label are locator matters, not proof of a missing story ending. [L67:whole31units/fourgroups; E10:L117/L674]",
+        "source_locator_expressions": [
+          "L67:whole31units/fourgroups; E10:L117/L674"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Localegoodordinarytaste/gaze/designproposalsnotidenticalimage/crowdvoice",
+        "directed_recipients_and_agency": "Nerufooddesign/JP-KRdistincts",
+        "actual_endpoint_and_unfinished_coda": "Sharedfoodactual/missing15labelnotmissingending",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE48",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 132,
+        "joined_saved_paragraph": "The combat-instrument reading explains the superlative profile, genuine assignments and confrontational competence, but fails to explain chosen jacket taste, can play, toy ownership, pond attention and finite company without artificially translating them into training. The reverse meek-child reading fails against initiative, resisted child address, explicit rejection of docility, coercive actions and public objection to disparagement. She can choose a child-branded toy without agreeing to infantilization, and wear an unfamiliar costume without acquiring a new obedient self. These counterexamples establish range rather than an exception list around a single essential role. [H01/H06/H08/H11/H13/H15; M21/M22; E43:006]",
+        "source_locator_expressions": [
+          "H01/H06/H08/H11/H13/H15; M21/M22; E43:006"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Combatinstrument/meekchildrivals contradicted byspecificchoices",
+        "directed_recipients_and_agency": "Nerutoy/childaddressrejection/strength/wants/EXPOobjection",
+        "actual_endpoint_and_unfinished_coda": "Positivevariedactsnotfixedvariantladder",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE49",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 134,
+        "joined_saved_paragraph": "An ideal-care reading has real evidence: requested bedside presence, respected changing-room privacy, permitted rest, partial reciprocity, a specific Toki apology and resistance to Rio's isolation. It fails if it erases pressure around treatment, compulsory eating, fear, explosive entry, unconfirmed photograph deletion or the captive's resistance. A uniformly coercive reading has equally real adverse evidence but cannot explain the achieved privacy, rest accommodation or later permission to refuse without declaring every positive recipient response false. A serious synthesis preserves both, and asks what each act achieves and leaves unfinished for its actual recipient. [H02/H03/H07/H08/H11/H12; E06/E06C; E25:016; E43:007–008]",
+        "source_locator_expressions": [
+          "H02/H03/H07/H08/H11/H12; E06/E06C; E25:016; E43:007–008"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Idealcareanduniformcoercioneachomitactualcontraries",
+        "directed_recipients_and_agency": "Directedrecipientprivacy/rest/pressure/Tokithanks/Riochoice",
+        "actual_endpoint_and_unfinished_coda": "Positivehelp/permissionapology withunconfirmeddeletion/repair",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE50",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 136,
+        "joined_saved_paragraph": "The jacket-as-trauma interpretation is possible only as an unproved explanation at this scope. The direct preference account and different local reactions are adequate positive evidence without requiring it. The costume-growth ladder is likewise unestablished: bunny profile reluctance and personal wearing are different contexts; uniform leisure and public EXPO duties have different source modes; later refusal permission changes one request but not every relationship. No fabricated chronology should harmonize all statements into a predetermined cure or turn a change of clothes into an ethical safety theorem. [H06/H09/H10/H12/H14/H15; N01:218/262; C03:G07/G14]",
+        "source_locator_expressions": [
+          "H06/H09/H10/H12/H14/H15; N01:218/262; C03:G07/G14"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Jackettrauma/costumecure/globalcalendarunproved",
+        "directed_recipients_and_agency": "Nerudirecttaste/source-localprofileandchoice",
+        "actual_endpoint_and_unfinished_coda": "Localinvitationrevisionpositive/notglobalethicaltheorem",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE51",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 138,
+        "joined_saved_paragraph": "Public success does not excuse means, and incomplete tails do not nullify success. The coalition makes Neru's win possible; Alice's return and the hospital discharge are actual represented outcomes. The ship's protective acts and restraint of Karin coexist with coercive pursuit and missing uniforms. Neru's apology is real even though universal forgiveness is unproved. EXPO cooperation and Rio's finite agreement are positive beside unprinted compensation and legal closure. An account that demands complete safety before acknowledging any help is as inaccurate as one that treats a victory report as total repair. [M21/M22; E06/E06C; E25; E43]",
+        "source_locator_expressions": [
+          "M21/M22; E06/E06C; E25; E43"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Successnotexcuse/incomplete tailnoteraseactualachievement",
+        "directed_recipients_and_agency": "Coalition/Alice/Toki/Koyuki/Rioindependentcosts",
+        "actual_endpoint_and_unfinished_coda": "Win/return/discharge/apology/weekagreement;repairOPEN",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE52",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 140,
+        "joined_saved_paragraph": "Finally, company need not be read exclusively as romance, instrumental dependence or adult rescue. The toy, roof, pond, rides, tastes and words of thanks are concrete desired experiences whose value cannot be exhausted by any one relation label. Adult care can be helpful and pressuring; independent peers can supply ideas, apology, criticism, company and refusal. Neru's last-uniform invitation extending beyond costume is meaningful at its actual recipient scope without proving exclusive lifelong attachment. The sustained account is an uneven practice of sharing time and responsibility with people whose responses remain their own. [H01–H17; G12; M22; E25; E43]",
+        "source_locator_expressions": [
+          "H01–H17; G12; M22; E25; E43"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Companynotonlyromance/dependence/adultrescue/exclusiveeternity",
+        "directed_recipients_and_agency": "Nerupeers/adultindependentchoices/wantedexperiences",
+        "actual_endpoint_and_unfinished_coda": "Unevensharedtime/responsibilitywithfiniteactualresponses",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE53",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 144,
+        "joined_saved_paragraph": "N01 is the current maintained private argument, personally received complete at its declared182–311 substantive/adoption scope; whole-byte binding does not claim fresh whole metadata receiving. H01–H12 are the twelve complete historical paired analytical arguments, and H13–H17 the five complete historical written arguments, personally received through EOF as consequential detail and qualified by N01/Cycle008 rather than admitted as new standalone authority. G12, M02, M21, M22, E06/E06C, E25, E21 and E43 are complete received GROUP/MAIN/event arguments. L67 is the complete historical gift argument qualified by current Cycle008 and the specific received E10 context; E10 is scoped, not the whole102-object body. F00 is prior complete Final analytical custody with fresh relevant locator receiving, not a newly observed individual Neru Final action. Exact paths, byte/hash/blob comparands and receiving scopes are in the source receipt; the claim register joins saved paragraphs to actual source modes, recipients, endpoints and contrary limits.",
+        "source_locator_expressions": [
+          "N01scope182–311/H01–H17wholequalifieddetail/G12/M02/M21/M22/E06/E06C/E25/E21/E43/L67whole/E10scoped/F00priorwhole; exacttupleandcustodyscopesinsourcereceipt"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Wholebytebindingnotwholescopereceiving/historicaldetailnotnewauthority",
+        "directed_recipients_and_agency": "Exactdeclarednormal/private/historical/publiccustody",
+        "actual_endpoint_and_unfinished_coda": "Completeacceptedarguments plusexplicitscopedE10/F00receiving",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G03",
+          "G04",
+          "G05",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G11",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE54",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 146,
+        "joined_saved_paragraph": "The modern documentary pin and attributed historical producer pins are preserved separately. Historical UNADMITTED, pending, draft_noncurrent and model/Phase2-incomplete statements in producer bodies do not override current Cycle008 accepted meanings or require ritual primary replay. Equally, current contextual admission does not give this author original primary, native, performed or independent credit. Architecture1.12 is bound separately from main1.11 with its same eleven character sections. The historical353-home scope remains a retrieval witness; current C05/C06 record ROOT's accepted355/29 successor, personally received here only at exact summary/status and Neru/Noa-home scope, with zero added literary credit. This author neither freezes scope nor claims whole355 semantic review. R/shared indexes, Git, provider, global registry, other required C&C/relationship homes and milestone claims remain outside this delivery.",
+        "source_locator_expressions": [
+          "C01architecture319–344/C04wholeCycle008/C05currentROOTscope-summary-NeruNoahomes/C06currentROOTstatussummary/historical353selectedhome"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "CurrentC008notprimarycredit/historicalpendingnotritualreplay/Nfreeze",
+        "directed_recipients_and_agency": "Sourcescopes/currentROOTmutablemetadata distinct",
+        "actual_endpoint_and_unfinished_coda": "Architecture1.12 stableelevensections/main1.11;historical353retrievalwitness/currentROOT355/29summary/home only,zeroauthorfreezeorcompletion",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G03",
+          "G04",
+          "G05",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G11",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE55",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 148,
+        "joined_saved_paragraph": "All fourteen gaps remain OPEN at their actual effects. G01/G06 retain ordinary breadth and other families beyond this varied repertoire; G02 does not identify the accountant as Yuuka or complete her council transfer; G03 does not transfer reciprocity to Serika; G04 does not settle Hina's crisis or ordinary duties; G05 does not repair Arius/PS68 aftermath; G07 forbids a fabricated global costume/event calendar; G08 retains gift suffixes, partial repeat contexts and missing titles; G09 keeps actor, inward, option and localization seams; G10 supplies no performed voice, image or acoustic claim; G11 does not close Hoshino/Yume record or office questions; G12 preserves the registered Neru/Nel family and leaves unnamed roles unjoined; G13 leaves contract validity, free assent, property repair, injury/healing, custody, uniform return, paid compensation and future-week completion unproved; G14 preserves written/profile/UI/report modes without universal continuity. None makes quiet pleasures ineligible.",
+        "source_locator_expressions": [
+          "C01 architecture319–344/C02method/C03all14/C04wholecurrentCycle008/exactdeclaredsourceandhistoricalscopeinNERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "OPENlimitsnotquietpleasureexclusion/globalcastcomplete",
+        "directed_recipients_and_agency": "All14actualclaims/unnamedroles/modesretainbounds",
+        "actual_endpoint_and_unfinished_coda": "Specificunprintedtailsnotlostpositiveendings",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G03",
+          "G04",
+          "G05",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G11",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NE56",
+        "saved_monograph": "BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+        "saved_line": 150,
+        "joined_saved_paragraph": "The author considers this a complete bounded eleven-section literary candidate, with ROOT receiving and adoption pending. Its central outcome is not an accomplished universal reform: Neru obtains some useful work and wanted company, recognizes particular limits, pressures others, fails some reciprocal acts, and explicitly changes one future invitation. The last uniform thread's refusal permission, Toki apology, defended privacy, accepted rest and EXPO no-force condition are positive; the earlier coercion, injury and property uncertainties, unfulfilled shoulder offer, unresolved image deletion and public repair tails remain. Those finite successes and costs make the argument independently substantial without claiming a model, a completed whole cast, source/performance inflation or completion of any distinct directed relation or institution package.",
+        "source_locator_expressions": [
+          "C01 architecture319–344/C02method/C03all14/C04wholecurrentCycle008/exactdeclaredsourceandhistoricalscopeinNERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+        ],
+        "exact_tuple_home": "NERU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "historical_H_detail_authority": "H01–H17historicalcompletequalifiedbyN01/C04;notnewstandaloneauthority",
+        "extension_limit": "Authorcandidate notROOTaccepted/model/primary/otherhome/quartercredit",
+        "directed_recipients_and_agency": "Neruwants/recipientagency/finitechange andcosts",
+        "actual_endpoint_and_unfinished_coda": "Achievedpermission/apology/privacy/rest/noforce;unfinishedtails",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G03",
+          "G04",
+          "G05",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G11",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Completeanalyticarguments atdeclaredscopes andboundednecessaryhistoricaldetail;primaryassertionsattributed,actualrecipientandmode limitsretained.",
+        "ROOT_review": "PENDING"
+      }
+    ],
+    "eleven_headers": [
+      "## 1. Core thesis",
+      "## 2. Longitudinal arc",
+      "## 3. Public and private self",
+      "## 4. School and club role",
+      "## 5. Ordinary life",
+      "## 6. Crisis behavior",
+      "## 7. Relationship with Sensei",
+      "## 8. Major peer relationships",
+      "## 9. Language and written voice",
+      "## 10. Competing readings",
+      "## 11. Evidence route and remaining limits"
+    ],
+    "whole_saved_body_receiving": "7d6bc7 1–84/52fcce85–150EOF/final26-134-146d396bd",
+    "all14gaps": "OPEN",
+    "counts_not_literary_completion": true,
+    "original_primary_or_performed_or_independent_credit_added": 0,
+    "ROOT_literary_review": "PENDING",
+    "N_or_quarter_claimed": false
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_literary_or_source_credit": 0
+}

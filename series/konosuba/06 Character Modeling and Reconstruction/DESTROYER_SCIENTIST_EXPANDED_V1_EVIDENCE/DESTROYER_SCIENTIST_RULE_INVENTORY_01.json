@@ -1,0 +1,71 @@
+{
+  "schema": "konosuba.character-rule-inventory.v1",
+  "recorded_utc": "2026-10-24T22:19:32.167178+00:00",
+  "generation": "DESTROYER_SCIENTIST_EXPANDED_V1",
+  "subject": "Unnamed MAIN02/05 Destroyer laboratory scientist",
+  "existing_census_row": 133,
+  "source_review_receiving_sha256": "678956a3771d4bfa9d3c373149ba9d441efcb6287fb75219bbea803cbe0677ce",
+  "adaptive_receiving_sha256": "457686e7562d59b1f8eb8f2bda68adcc4f618879a6f1606d6bb40dbcc87ae393",
+  "model_draft_file": "DESTROYER_SCIENTIST_MODEL_DRAFT_01.md",
+  "model_draft_sha256": "ccac48df322cceaafef165ff04ad62076bdae1f774231686f313522c6d423a5c",
+  "monograph_draft_file": "DESTROYER_SCIENTIST_MONOGRAPH_DRAFT_01.md",
+  "monograph_draft_sha256": "02cb8ff4f61ac2c22f556f5a641ab8b2b773bf0ddf49001c681de0b0acf93ef5",
+  "rules": [
+    {
+      "rule_id": "DSC-R01",
+      "proposition": "When an imposed technical or military deliverable threatens his discretionary time and available exits are blocked or discouraged by authority, expect the scientist to look for a low-effort plausible account,representation or demand that postpones accountability. Public credibility and avoiding immediate trouble can displace truthful task resolution. If others take the account literally,carry forward the new obligation and his fear or resentment rather than assuming the bluff works or that he controls the resulting project.",
+      "support": [
+        "MAIN02U018P480 reports failed protest,resignation and performed incapacity. P482-488 moves from a submitted spider stain and accepted design to an impossible-sounding coronatite demand actually met. P490-496 retains fear,alcohol,reported ignition,memory gap and withdrawal;no intentional all-purpose command of the catastrophe.",
+        "MAIN05U027P284-296 gives private game funding,military cover story,renewed official commission and a failed moralizing refusal. P302-310 distinguishes a serious rejected robot wish from casual accepted alternatives,misread dog design and a containment account after a battery failure. P333-343 positively joins this writer to MAIN02."
+      ],
+      "contrary": [
+        "The writer is often candid about failure in his private record. He can make a serious proposal and do real creative work. A supplied credible exit or truthful task solution need not produce another deception. Officials and colleagues constrain him;their behavior is not invented merely to explain an outcome.",
+        "His final satisfaction at destruction and decision to remain aboard go beyond innocent avoidance. The rule does not excuse that conduct or reduce every later choice to an earlier coercive demand."
+      ],
+      "rivals": [
+        "Ordinary avoidance under coercion,impression management,fear of punishment,institutional dysfunction and a comic self-presentational diary can explain overlapping parts. No clean source contrast isolates a unique trait. A reader may overestimate stability because only memorable failures are recorded."
+      ],
+      "applies_when": [
+        "Specify a concrete assigned task,actual skills/resources,what the scientist knows,feasible truthful alternatives,authority control,exit options,reward,deadline and consequences before generating his choice. Bind an existing obligation independently of whether the resulting response evades it. Separate private record,reported public speech and directly observed action."
+      ],
+      "do_not_assume": [
+        "No universal lying,permanent inability,unlimited cheat power,automatic technical success,single-handed construction,confirmed execution sentence,complete casualty count or control of every machine. Do not merge Dust02inventor or Moguninnin master without evidence. Do not invent an unavailable deadline,price,resource or sanction to trigger the rule."
+      ],
+      "confidence": "Moderate retrospective fit across two positively joined documentary contexts;low confidence about new institutions,credible exits and public conversational voice. Same informed root knows sources and will author/assess diagnostics. No reliability grade or independent causal isolation.",
+      "falsifier": "With the imposed task,knowledge,exit constraints and costs fixed in advance,repeated timely candid engagement with the substantive requirement despite an actually available easier credible evasion would weaken the proposed tendency. Conversely,unchanged deception after a clearly supplied costless truthful exit would weaken the exit-sensitive boundary. Merely changing threat,reward and audience together cannot isolate it."
+    },
+    {
+      "rule_id": "DSC-R02",
+      "proposition": "When a feasible technical idea captures his own play or aesthetic interest,expect effort allocation to exceed his declared wish to do little. He may elaborate an apparently quick project,become excited by the result,and recognize power,fragility or misuse problems after investment. Carry those limits into storage,repurposing or a further choice;do not turn interest into guaranteed success or late concern into complete safety.",
+      "support": [
+        "MAIN05U027P267-284 shows reproduced games and the private funding account. P302 reports a serious transforming-robot proposal. P327 explicitly says an intended makeshift weapon became overelaborate;P331records excitement,fear,makeshift limited-life parts,misuse concern,storage and clothesline use. The weapon is called railgun while the text explicitly denies electromagnetic acceleration.",
+        "P315-319 reports completed modifications,naming and preference for a bonus over promotion. This supports effort beyond universal idleness without certifying all capability,consent or every manufacturing act."
+      ],
+      "contrary": [
+        "Dog drawing becomes snake,battery runs out,and Destroyer proceeds with others implementation while the writer disclaims work. Technical engagement can end badly. The represented safety response is limited and cannot erase memory-changing work or destructive later conduct.",
+        "The serious robot wish is rejected,so desire alone does not produce a completed device. Materials,knowledge,authority and time still constrain what can actually be attempted."
+      ],
+      "rivals": [
+        "Ordinary hobby engagement,novelty seeking,overconfidence,transported capability,project resources and comic disproportion are plausible rivals. The single explicit overelaboration sequence has no matched source control;repeat appearance of a journal is not an independent trial."
+      ],
+      "applies_when": [
+        "Fix the genuinely available task and means,the scientist knowledge,a separately specified attraction or lack of attraction,the initial effort intention,competing obligations and real hazards. Predict attention/action rather than grant a new technical capability. A commonplace resource can be interesting;extraordinary machinery is not required."
+      ],
+      "do_not_assume": [
+        "No every-hobby obsession,unlimited building ability,perfect foresight,completed future projects,general benevolence or inevitable safe containment. No medical diagnosis. Do not invent a hidden appealing feature merely because the response works hard;interest must be bound in the scene before the output."
+      ],
+      "confidence": "Moderate local warrant for the distinction between imposed-work avoidance and real voluntary technical interest;low confidence about thresholds,duration,new domains and distinct causal weight relative to ordinary hobby engagement. No independent calibration or confidence gain.",
+      "falsifier": "Repeated minimal engagement with a preidentified personally attractive,feasible project under the same supplied constraints,while elaborating a matched uninteresting task without a separately specified reward or duty,would weaken the interest-sensitive claim. Repeated anticipation and complete prevention of the actual hazards before elaboration would weaken the late-recognition branch;an unbound or absent hazard is not a pass or failure."
+    }
+  ],
+  "rule_count": 2,
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "exact_inputs_or_firsts_serialized": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

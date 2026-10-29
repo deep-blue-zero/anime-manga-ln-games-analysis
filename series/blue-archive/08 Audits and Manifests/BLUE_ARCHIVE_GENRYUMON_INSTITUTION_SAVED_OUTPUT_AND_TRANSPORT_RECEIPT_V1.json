@@ -1,0 +1,485 @@
+{
+  "schema": "BLUE_ARCHIVE_GENRYUMON_INSTITUTION_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "EXACT_PREPARATION_COMPLETE_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 42024,
+      "sha256": "9ed9fd508a07c6a9f6864ee82e8bbdb2f2091906e62486ed62c9ccfb2684ade3",
+      "git_blob_oid_of_actual_bytes": "53a9fb8c1abf7d6053fa4df0f8b446dcb8c7452f"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 45209,
+      "sha256": "1866a74bff9b1c930f82ff8576f404b850bffbeec0537d8b4604e4545267d661",
+      "git_blob_oid_of_actual_bytes": "0bc5e989261b0fc3fd7cf850f79e488e07f5d474"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "series: BLUE_ARCHIVE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "original_lines_complete_text": [
+          "artifact_type: institution_synthesis_candidate"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_artifact_type: institution_synthesis_candidate"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          4,
+          5
+        ],
+        "canonical_lines": [
+          4,
+          5
+        ],
+        "exact_unchanged_lines": [
+          "required_home: P3-INST-SHANHAIJING-GENRYUMON-TRADITION-UNCHOSEN-OFFICE",
+          "source_responsibility: HYS::significant_responsibilities::10"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          6,
+          6
+        ],
+        "canonical_lines": [
+          6,
+          6
+        ],
+        "original_lines_complete_text": [
+          "status: AUTHOR_C_ONLY_ROOT_REVIEW_PENDING"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_status: AUTHOR_C_ONLY_ROOT_REVIEW_PENDING"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          7,
+          11
+        ],
+        "canonical_lines": [
+          7,
+          11
+        ],
+        "exact_unchanged_lines": [
+          "source_snapshot: 7546a2331b3f2ca83798d54f9a2b8120c780adae",
+          "merged_main_comparand: b76b4373e6d0526bc78ce00bb673dba9e536c128",
+          "source_mode: admitted_written_Japanese_and_existing_analytical_arguments",
+          "mandatory_named_duties: none",
+          "new_source_model_scope_or_completion_credit: none"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          12,
+          11
+        ],
+        "canonical_lines": [
+          12,
+          21
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "artifact_type: institutional_synthesis",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: bf5ded30464ab39f78f71e79ecc7494654c25faa",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          12,
+          14
+        ],
+        "canonical_lines": [
+          22,
+          24
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# Shanhaijing and Genryumon: a tradition must answer to the people asked to carry it"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          15,
+          14
+        ],
+        "canonical_lines": [
+          25,
+          26
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently accepted this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual author/ROOT custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the unchanged original and full byte inverse. Original pending/audit/local-navigation/count statements describe creation-time history. The first25% milestone is complete at merged89/main `b76b4373e6d0526bc78ce00bb673dba9e536c128` after the exact ROOT-accepted full postmerge audit. Ordinary local2714 reconciliation and the current published101 source `bf5ded30464ab39f78f71e79ecc7494654c25faa`/tree `f84fb33df77dfcef9fb7270cb4d1064f6ec9c898` have separately bound custody; its source→housekeeping NOOP→final exact-head full292-test audit chain is ROOT-accepted. This fixed seven-package102–108 proposal persists only through complete ROOT installation, giving108 (93 character,7 directed relationship,3 ensemble,5 institution) and6 completed non-denominator named duties; later109+ reviews remain outside this snapshot. Required355 packages/29 duties across25 parents, next178 milestone, all14 original OPEN gaps and model0 remain unchanged. Mechanical transport adds no literary, primary, performed, independent, scope or model credit. **Package-specific operative qualification:** Preserve original159 body lines and fullbyteinverse; exactsource7546/mainb76/datedlocal2714 framing plus operativeC05 stagedqualification remain historical. Current sourcebf5 contains101 publication; current canonical acceptance of this institution begins only through later ROOT installation. Carry operativequalification with receipt; C05 beforeimage ac296 versus exact372455 current successor remain different. Promise of expenses is printed; executed invoice/payment unprinted. No institution completed by character proxy, no additional Genbu institution home or newnamed duty. Full written Japanese/attribution/gap/mode bounds remain. The original Institution Syntheses spelling is historical; current adopted Institutional Syntheses is the operative home. All original spelling fields and the exact inverse remain preserved."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          15,
+          158
+        ],
+        "canonical_lines": [
+          27,
+          170
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "This is the existing required institution question. It examines actual allocation of authority, resources, work, belonging and correction across Genryumon, Genbu, research, theatre, education and ordinary recipients. It does not make one head the whole school. All eleven dimensions below carry substantive arguments; the fourteen original limits remain OPEN. Normal owners are received at the exact declared scopes, with their original primary custody attributed. Current Cycle008 admission qualifies their producers' dated pending-intake language. Source7546, mergedmainb76 and later local2714 are different Git states with the same verified source bytes. [C01:L357–368; C04; C05; C06; C07]",
+          "",
+          "## 1. Core thesis: tradition becomes governance through disputed allocation",
+          "",
+          "**GI001.** Shanhaijing's central institutional problem is who may define what a valuable tradition requires of someone else. The work supplies several answers: protect the weak, preserve procedure, retain artistic purposes, maintain a material livelihood, defend students and uphold an office. These answers can cooperate, but none automatically speaks for every resident. Genryumon's head can stop ideological accusation while maintaining surveillance; a procedural critic can refuse personal power while practicing coercion; commercial hospitality can provide genuine pleasure and press a full recipient to continue. The institution is therefore neither one benevolent person's essence nor a uniform apparatus of oppression. It is a contested distribution of decisions whose different recipients and unfinished consequences remain legible. [A02:L087–089; A03:L084/L128; A04:L111/L119–124]",
+          "",
+          "**GI002.** Tradition has positive content before it becomes an argument about crisis. Theatre can move a visiting audience; lanterns, fireworks, foods, clothes and pandas are things people genuinely want to encounter. Rumi values friends talking over a single dish, rather than simply maximizing table income. The danger lies in turning those goods into obligations whose alleged beneficiary cannot answer: guests interrogated in the name of welcome, unlimited culinary foresight demanded in the name of loyalty, or people assigned office and work through someone else's imagined improvement. Ordinary pleasure supplies the objects governance ought to make available, and also the particular limits that test its means. [A02:L079–081; A03:L090–106; A04:L084/L093; A05:L078–080]",
+          "",
+          "**GI003.** Authority can make useful decisions without resolving its own legitimacy. Kisaki's rejection of premature accusation, actual apology, refusal of a coercive cure and opening of the festival are consequential positive acts. Her acknowledged shortcut expulsion and record erasure, failed staff communication, continuing secrecy and unchosen office remain consequential contrary evidence. Treating the good acts as proof of complete just government would erase the procedure and recipients that make the argument difficult. Treating every good as counterfeit because the system is imperfect would erase achieved meals, refuge, apology, festivities and defense. This synthesis keeps both sides and asks what an action actually changes. [A02:L087/L141–149; A03:L090–094; A04:L104/L116/L126–130]",
+          "",
+          "## 2. Longitudinal institution: local sequences do not establish a reform ladder",
+          "",
+          "**GI004.** The ginseng inquiry first makes the distinction between organization and accusation concrete. A Genbu-labelled container really holds the protected material, but that object does not prove knowing organizational smuggling. Kisaki demands counterevidence, stops ideological attacks and allows a conditional grace period while preserving surveillance and threatened dissolution. A junior executive then attempts detention contrary to that ruling. The result is neither the head's words enacted uniformly nor an institution incapable of making any distinction. Local authority, subordinate discretion and recipients' protest coexist; the departure after a threatened formal complaint has no printed disciplinary sequel. [A02:L087–089]",
+          "",
+          "**GI005.** The later official apology is an achieved institutional speech act, not a settlement inferred from an agreeable atmosphere. Kisaki apologizes for unsupported accusation, reputational harm, confusion and oversight failure. Subordinates deflect, Mina minimizes, and Reijo remains unsatisfied while respecting Rumi's decision for today. The banquet actually happens under physical-feasibility and remuneration conditions. Payment is promised; an executed invoice or payment is not printed. The narrator expressly leaves problems unresolved. The local sequence supports correction of particular public conduct and renewed encounter, while keeping recurrence prevention, restitution, punishment and apologies to previously used children unfinished. [A02:L141–149]",
+          "",
+          "**GI006.** The exchange account then makes welcome and dissent separable from the earlier closure. Its recap gives the earlier accusation as supplied context; its own complete argument gives a first official interschool invitation and an actual coercive remonstrance. EVENT840 explicitly follows and recapitulates that exchange, so their local connection is secure. That does not place every private thread, GROUP scene, holiday or MAIN appearance on one calendar. The institution's repertoire includes different episodes of confidence, error, correction, ordinary joy and dependency; numerical story IDs and variant labels do not by themselves turn these into stages of ethical growth. [A03:L082–084; A04:L079; A01:L341–347]",
+          "",
+          "**GI007.** Within840, policy does change in a visible sequence. A usual public festival is first reaffirmed, then restricted to school members with movement for verified safe students, and finally the actual festival opens the whole school to visitors. The final state exceeds the earlier commercial-street access. Yet it is the first day of a three-day festival, with increased staffing burdens, quarrels and secrecy about Kaguya. Reeducation and volunteer work are instructed rather than shown completed; community recovery is narrated without individual assays or every recovery. A changed policy and enjoyed fireworks are real endpoints. They do not constitute an audited complete reform or a completed cure. [A04:L084–088/L126–130]",
+          "",
+          "**GI008.** The river inspection has its own finite sequence: an unprecedented investment question, a negotiated travel arrangement, work assigned to those left behind, actual recreation and a disorderly return. It gives Kisaki local bodily relief and new experiences while commercial and administrative pressures persist. Existing antagonisms and failed delegation survive cooperative defense. This is strong contrary evidence to a reading in which a holiday abolishes office or heals institutional relations. It is equally contrary to a reading in which holiday pleasure is false unless all those structures change. Actual rest has value at its local achieved scope. [A05:L089–094/L131–144]",
+          "",
+          "## 3. Public office and private life: an assigned role is not a chosen destiny",
+          "",
+          "**GI009.** Kisaki's account of becoming head connects appointment to a predecessor's disgrace, a tradition-breaking unanimous selection and a rapid expulsion. The selection and its significance are represented historical accounts, not an inspected vote or constitution. Her symptoms begin around taking office in her account, but timing and a metaphor of burden do not isolate a medical cause. The institutional fact that matters literarily is the conflict between exercising responsibility and having never chosen that vocation. A head who competently acts may still want scenery, play, rest, an ordinary name and company. Those wishes are not lapses to be dismissed for insufficient political importance. [A03:L114; A04:L095–097]",
+          "",
+          "**GI010.** Shared imperfect mooncakes make the distinction tangible. Rumi remembers a wanted cooking life and says she has approached it; Kisaki says she never chose the headship. Burnt paste, undercooked yolk, crushed walnuts and a broken mold are retained as the beginnings they actually remember, beside present eating and shared silence. Rumi acknowledges effort while retaining business loss. The scene supplies no rule that effort always achieves a good result, and no obligation that Kisaki abandon useful current duties to prove authenticity. It shows that responsibility and wanted life need not coincide, which changes how the institution's demands should be read. [A04:L095–097]",
+          "",
+          "**GI011.** Mina also has a life that exceeds bodyguard or executive utility. Her chosen film style can delay an entrance, distort an accusation and make a painful recorder frightening; it also supplies ordinary aesthetic pleasure and a rain dance. Children request play but object to address and unwanted clothing. Her attachment to Kisaki is her account and generalization, not a school-wide charisma survey. Duty does not make her reliable by definition, nor does failure make these pleasures ineligible. Private endings preserve returning conversation, bodily pain, gifts not replaced or accepted, and future shared viewing not enacted. [A01:L241–258]",
+          "",
+          "**GI012.** Reijo's wanted martial company, rest, attention to children and wish to be protected at least once differ from her practical labor and factional calculations. Kanae distinguishes internal administration from Mina's external work, professes both an armchair-strategist ideal and a wish to travel, then protests duties imposed when others leave. These people are not interchangeable functions serving the head's recreation. Their distinct desires and actual allocations make unequal rest visible. A useful proxy, an efficient information network or a strategic shelter can carry real competence while its worker remains a recipient of costs. [A10:L097–109; A05:L085–094; A04:L109–116]",
+          "",
+          "**GI013.** Medical privacy is also not identical to government secrecy. Kisaki asks Teacher to keep her condition confidential and receives an agreement and bounded comfort. She gives a political reason for concealing imperfection, but that reason is not proof that no other support is possible. Elsewhere Reijo favors not publicizing Kaguya's situation as a stability strategy. The first is a particular person's expressed privacy wish; the second concerns public handling of a confined or injured critic. A shared word, secrecy, cannot settle who owns information, whose interests are protected or what accountability remains necessary. [A03:L114–116; A04:L128–130]",
+          "",
+          "## 4. School, associations and resources: neither the head nor a faction is the whole",
+          "",
+          "**GI014.** Kisaki describes tradition as good practices worth protecting rather than unchanged repetition, says Rumi shares that outlook, and distinguishes her invitation from Genryumon as a whole. Her statement that Genryumon belongs to itself, including its head, is a represented institutional conception rather than a certified charter. Staff resistance and the head's own lack of exchange experience limit sovereign competence. Existing Genbu openness to visitors also prevents total-isolation mythology. The school is already inhabited through partly different practices before its ruler attempts an official exchange. [A03:L084–086]",
+          "",
+          "**GI015.** Genbu's material relation to Genryumon is neither simple independence nor pure submission. Reijo describes dependence and resented interference; Rumi can exploit publicity and Teacher's status to obtain access; commerce provides actual food, supplies, information and refuge. Later external investment raises an unprecedented interpretation problem: Mina invokes usual internal accounting, Kanae distinguishes outside investment, and Kisaki joins the difficulty of keeping negotiated rules. A proposed gorge branch and projected returns are not achieved development. The important institutional mechanism is public argument over a new case, where convention, practical research and wanted rest all enter the decision. [A02:L081/L085; A04:L088/L109; A05:L089–091]",
+          "",
+          "**GI016.** Research ownership is contested in acts as well as words. Kai calls the hidden facility and club her own, solicits control and research processes in her name, and exploits school resources while celebrating external disorder. Saya's actual role and medicine provision remain different. A follower's doubt about foreign soldiers disrupts a uniform loyal-faction story. Kisaki refuses a claimed cure purchased through renewed harm to students. This is an actual refusal of the offer's terms, not verification that its cure would work or a judgment that illness must be endured as virtue. Claiming possession, possessing a facility and legitimately representing its members remain different questions. [A04:L100–106]",
+          "",
+          "**GI017.** Dependency makes apparent assent difficult to evaluate. Kisaki retrospectively describes students accepting enhancements and then experiencing bodily or taste harm, with antidotes used to compel obedience. In the present crisis, guards admit they cannot release Saya because they depend on medicine. Their constraints are more specific than ideological loyalty. Kisaki rebukes the unequal weight of Mina's threat, listens and places release responsibility under Genryumon's name; Saya is subsequently actually free. That positive local release does not certify every supply chain, restored victim or later institutional independence. The account distinguishes ending one captivity from removing the mechanism that can manufacture it. [A04:L114/L121–126]",
+          "",
+          "**GI018.** Theatre has an institutional purpose of its own. Kaguya's craft and pride are not just instruments of Kai's plot. She objects to shortcut expulsion and erased records, would reinstate and publicly process Kai again, and remains willing to use force; she does not simply believe Kai innocent. Later she refuses headship because defending tradition by violating it is contradictory and her members exist to perform theatre. Limited rule-bound order maintenance is not acceptance of the title. Others nevertheless convert her reluctant assistance into authorization for demands she does not own. The critic's agency and coercive methods both belong in the governance account. [A03:L120–128; A04:L109–111]",
+          "",
+          "## 5. Ordinary culture: the pleasures governance is meant to leave possible",
+          "",
+          "**GI019.** The first drama gives Cherino an actual changing response: unfamiliar sound and discomfort, questions, concern for the staged woman's survivors and eventual praise. Kisaki's selective explanation leaves some meaning unfixed. Kaguya offers artistic technique and role-changing, while the visitor's wish to meet her is thwarted by further work. These are meaningful ends and disappointments in an encounter, not deductions from diplomatic success. The represented staged death is not a witnessed real death, and written descriptions of performance are not heard acoustics. Cultural value survives that source boundary. [A03:L098–100]",
+          "",
+          "**GI020.** Clothes, pandas and food also have different recipients. Borrowed dress offers relief and embarrassment; Marina wants animal company and appreciates an actually offered model, while later display and reciprocal visiting remain promises. Cherino praises cuisine but cannot eat its volume, appeals for help and is later narrated taking medicine in distress. Rumi's wish to offer the best and Teacher's encouragement of office dignity do not annul that bodily answer. An exchange can achieve pleasure and still fail a particular act of hospitality. Its success cannot be measured by whether a ruler intended generosity. [A03:L092/L102–106]",
+          "",
+          "**GI021.** Small tastes make variation in tradition visible without requiring a revolutionary interpretation. Kisaki actually wants and enjoys a fruit-and-cream crepe that some older students avoid as supposedly untraditional. Mooncake eating and imperfect remembered craft provide familiar pleasures; high-priced tea with milk produces different taste and economic judgments. Reijo states respect within mutual noninterference and nevertheless finds the practice difficult. New trade does not require identical tastes, and disagreement need not make every participant incapable of exchange. The institution permits particular encounters more readily than it produces one unified culture. [A04:L093–097/L130]",
+          "",
+          "**GI022.** Rest needs material support as well as permission. Genbu cooks explain sourcing and preparation time and insist they are not fortune-tellers when members demand an elaborate dish without notice. Ordinary accessible alternatives are already prepared and personally appetizing; later elaborate cooking remains proposed. In the agreed inspection, Reijo stays proxy and Kanae receives wider work despite protest. These allocations enable other people's holiday. The later night walk also supplies a positive recipient distinction: Kokona expressly makes an exception for her sister, and the three actually walk together with her between them. Mina contributes prepared real fireworks, and merchants are invited into appreciated beauty. Chosen company and welcome fireworks have their own achieved value. The institution's pleasure account includes whose labor made an experience possible and whose own desired trip did not occur, while preserving these actual joys. [A05:L080–094/L136–140]",
+          "",
+          "**GI023.** Children's pleasures and boundaries test adult political explanations. Their reported appreciation of Rumi's fruit contrasts with Mina's claim of bait, while the adult supplies ordinary care as a competing explanation. They refuse clothes and address they do not want; Kokona wants respect and can forbid head-patting while enjoying recognition and continuing work. In the inquiry, protecting children coexists with secretly using Kokona in a successful trap. No actual final apology to her and Shun is printed. During the river defense, Kisaki cautions against excessive scolding; Shun then physically disciplines threatening children, with pain, crying and pleading actually printed. Suiko's subsequent revenge promise and escape prevent that force from certifying education or reliable changed behavior. Kokona's enjoyed recognition likewise coexists with fear of her sister's anger and Teacher's renewed teasing despite a stop request. Recipient correction, play, fatigue, pain and unconsulted involvement are institutional evidence in their own right. [A01:L253–255; A04:L093; A02:L113–117; A05:L131–136]",
+          "",
+          "## 6. Crisis conduct: protection, coercion and limited actual results",
+          "",
+          "**GI024.** The exchange demonstrates how a protective instruction can produce harm through organizational habits. Staff interpret Genryumon welcome as interrogation, separate guests, confine them and threaten a panda's bamboo. Kisaki corrects them twice. Marina's distress, Tomoe's private bargaining calculation and Cherino's later bounded acceptance differ. The head's sincere intention and real correction should be credited, but neither means the earlier acts did not happen or all guests accepted the account. The failure lies in actual translation of an office's words into treatment of particular people. [A03:L090–094]",
+          "",
+          "**GI025.** Coercive dissent also makes a claim about institutional survival. The remonstrating drama condemns an opened-gate ruler through represented disasters; those images are not actual floods or a validated ruined future. Encirclement then forces a school-or-head choice. Genryumon hesitates, Mina chooses Kisaki, Marina assists reciprocally, and visitors' arguments affect some staff. Kisaki's willingness to give herself up is not an installed resignation. Protecting her ends a local defeat without installing a general democratic doctrine, and the rescuers' own leader-centered discipline survives. Authority is disputed through particular acts, not finally solved by a heroic speech. [A03:L122–128]",
+          "",
+          "**GI026.** Kisaki's acknowledged procedure shortcut sharpens the rival duties rather than resolving them. She feared timely customary process could fail and erased Kai's records; Kaguya considers that illegitimate despite recognizing a later expulsion could be justified. Mina invokes victims and delay. Kai independently says a later expulsion would be ignored. The source presents a genuine argument about process, safety and the efficacy of rules, while withholding an inspected statute, lawful judgment or full victim accounting. One can criticize the harmful shortcut and the critic's force without pretending there is a printed uncomplicated lawful solution. [A03:L128; A04:L116]",
+          "",
+          "**GI027.** In840, the head revises total self-blame while refusing to buy personal relief through others' harm. Teacher's replies assign Kai responsibility for Kai's choices and acknowledge complex history; they do not legally exonerate Kisaki's earlier acts. Kaguya wants sacrifice to restore the authority of someone who never chose office. Kisaki refuses that path, yet the next scene prints Kaguya in poor condition and orders treatment, transfer and nursing. No bloodless encounter, precise mechanism or completed recovery is inferred. The moral ideal remains in tension with what the action leaves to be done. [A04:L104/L116/L119–121]",
+          "",
+          "**GI028.** The local closure is substantial but finite. Saya is actually freed, Kai concedes the encounter and accepts capture with amusement, and the festival really takes place. Kai says repentance is unlikely; support is conditioned on not exploiting students. The offered remedy and narrated incident closure do not supply every restored body, confinement journey, clinical assay or rehabilitation result. Likewise the river account's cooperative defense can coexist with continuing bad relations, work and a disorderly return. A finished selected episode supplies achieved literary endpoints without certifying all consequences inside its world. [A04:L121–128; A05:L140–144]",
+          "",
+          "**GI029.** Final supplies a different scale of action without proving this institution has resolved its ordinary contradictions. In the small local scene, Shun assigns evacuation, Rumi recognizes Kisaki and Kisaki directs Genryumon; generic students, shopkeepers and executives remain unjoined. The complete current chapter checkpoint places such district acts inside a coalition whose later completion is reported. It does not show every battle result or a Genryumon accountability audit. The positive comparison is capacity for local civic direction among independently acting groups, not an inferred cure of faction relations or proof that every known member was deployed. [A08:L020–024; F01:L032–046/L052–064]",
+          "",
+          "## 7. Sensei: a participant whose support does not own the institution's decisions",
+          "",
+          "**GI030.** Teacher can help obtain access, propose a locally effective trap, offer protection and make useful distinctions about responsibility. Rumi's publicity pressure and independent exemption hypothesis, Reijo's inquiry and shelter, Saya's unanticipated action, and Kisaki's actual decisions prevent sole adult authorship. The trap's success also leaves the adult's acknowledged secret involvement of Kokona ethically consequential. Student and adult methods can resemble the exploitation they oppose. A useful intervention is not proof that every participant was consulted or that care automatically legitimizes the chosen means. [A02:L081/L109/L115–117/L129–149; A04:L109–116]",
+          "",
+          "**GI031.** An adult can receive and fail care as well as give it. Teacher enjoys food and aroma, can decline proximity or impossible visiting frequency, and participates in wanted comfort and conversation. Encouraging Cherino to bear excessive food for office dignity is adverse conduct; respecting Kisaki's privacy and assisting her are positive acts. Neither becomes a universal ethics model. Her request for several visits each week and a joking Schale branch meets the adult's inability to promise the frequency. An institutional solution cannot be inferred by treating one adult as endlessly available clinical, administrative or emotional infrastructure. [A03:L086/L102/L114; A05:L078/L082; A04:L116]",
+          "",
+          "**GI032.** The distinction matters especially in crisis. Teacher's direction to remove Kisaki is enacted local protection, and the later willingness to teach or support Kai has conditions against exploitation. These do not certify all recoveries or erase student judgment. In Final, acceptance of campaign command belongs to the coalition's printed procedure while local actions have their own decision-makers. The school can be read in relation to Schale without reducing its people to examples of a teacher's moral authority. Support becomes answerable to actual recipients, their refusals and the limits of what has happened. [A04:L106/L124–126; F01:L028–046/L052/L064]",
+          "",
+          "## 8. Institutional relationships: different parties retain different claims",
+          "",
+          "**GI033.** Genryumon and Genbu negotiate both authority and livelihood. The head's school-harm condition, retained surveillance, commercial publicity threat and remedy for unsupported accusation define a concrete conflict. Rumi wants accessible food and friends talking; Reijo supplies work and material knowledge while resenting interference. Genbu can provide refuge and gain a strategic debt without making refuge imaginary. These facts explain a reciprocal but unequal institutional relation. They do not complete the separate Rumi–Kisaki or Reijo–Rumi directed arguments by proxy, or reduce those people's familiarity and objections to diplomatic transactions. [A02:L081/L087–089; A04:L088/L109–116; C05; C06]",
+          "",
+          "**GI034.** Genryumon and theatre have overlapping but distinct objects of loyalty. The head values an exchange; Kaguya values the school, craft and procedure; Kai tries to use those commitments. Kaguya's forced choice harms the people she means to defend, but her categorical title refusal defeats a simple power-seeker reading. Her persistent remonstrance and unwillingness to regret it survive local cooperation. The resumption of theatre is an actual cultural end, not evidence that detention, injury and adjudication have been transparently repaired. Her source-scoped actor question and any separately required institutional responsibility remain distinct from this parent. [A03:L120–132; A04:L111/L119–130; C05; C06]",
+          "",
+          "**GI035.** Genryumon and research must distinguish technical ambition from entitlement over recipients. Saya can find an impossible problem fruitful, acknowledge others' limitations, enjoy food and keep inquiry private. Kai's desired experiment and claimed ownership do not erase drug dependency or students remembered merely as cases. Saya's own troublemaking remains admitted contrary evidence, so the contrast cannot be reduced to a perfectly safe scientist and an entirely unskilled opponent. Technical proximity to a goal is not permission to force the path. Current Saya character and directed-recipient packages remain independent; their separate completion is not supplied by an institutional comparison. [A02:L095–099; A04:L104/L114/L121–126; A01:L303–339; C05; C06]",
+          "",
+          "**GI036.** Cross-school meeting has different agents on both sides. Kisaki invites as head without claiming unanimous support; Cherino's theatre and food responses differ from Tomoe's limited outsider assessment and Marina's animal interest. Their actual help does not install permanent anti-authoritarian reform in Red Winter. Later Gehenna–Trinity quarrels and Reijo's uncertain cultural accommodation prevent the opened festival from proving uniform friendship. Final's coalition also preserves differentiated schools and volunteers. Exchange is achieved contact through particular goods, disputes and responsibilities, rather than fusion into one institution with one shared motive. [A03:L084/L098–110/L124–132; A04:L128–130; F01:L030–046]",
+          "",
+          "**GI037.** Education, children, couriers, cooks, generic executives and factions cannot be silently absorbed into named principals. Children answer gifts and address, staff dispute impossible preparation, guards describe medication dependence, and couriers object to bodily or identity checks. Their agency matters even when they have no long biography here. Kaguya and Kanae retain source-scoped names; local labels remain local; faction participation does not assign every turn to Mina or Reijo. This synthesis explains institutional effects on those roles without claiming their separately required full-cast homes or all literal rosters completed. [A01:L253–257; A05:L080/L085–094; A04:L121; A08:L020–024; C05; C06]",
+          "",
+          "## 9. Language, address and evidence carriers: office rhetoric is not an audit",
+          "",
+          "**GI038.** Titles and addresses distinguish public role from wanted recognition. Kisaki appears as 門主 in the local Final scene and can permit familiarity against members' objection elsewhere. Kaguya refuses the head's title while accepting a limited task. Mina tests personal forms of address, chooses Teacher and still imagines dissatisfaction the source does not endorse. The head's claim that tradition protects weak people is a normative statement to test against subsequent acts. It is not an analyst's independent definition of the institution or a legal fact obtained by reproducing its own language. [A08:L020–024; A02:L085; A04:L111/L119; A01:L245]",
+          "",
+          "**GI039.** The plays have different roles and audiences. The first drama invites aesthetic response; the later allegory becomes directed remonstrance and finally names Kisaki. Stage disasters, moral claims and character deaths do not enter ordinary chronology as actual school events. Kaguya's inward concern, Tomoe's speculation, Kisaki's secret symptom perception, teacher choices and actorless noir writing have different audiences from audible public speech. They can explain what a reader knows without proving an official heard a thought or a reported clinical or political mechanism was measured. [A03:L098–100/L110–128; A01:L245–251]",
+          "",
+          "**GI040.** Literal source seams are consequential. Reijo/Rumi role swaps, executive labels, Kaguya-addressing turns, キキ and 子供 require contextual qualification; generic executives are not automatically registered characters. Recap and preview remain their modes, and repeated costume text is not an independent enacted event. Japanese written sources do not certify Korean equivalence, heard singing, pixel content, gesture timing or exercised UI branches. These limits narrow precise actor and mode claims while leaving complete connected institutional arguments usable. They do not license a global rejection of the quiet or comic evidence that happens to carry them. [A02:L089/L109/L115; A03:L134–136/L148; A04:L133; A01:L257; A08:L020–024]",
+          "",
+          "## 10. Competing interpretations: what the achieved and unfinished ends require",
+          "",
+          "**GI041.** **A benevolent head makes the institution benevolent.** Actual restraint of accusations, apology, refusal of exploitation and opened festivities strongly support Kisaki's capacity and intentions. Staff confinement under welcome orders, procedure shortcuts, unresolved injury and unequal work prevent a system-wide conclusion. The appropriate revision credits particular corrections and asks how subordinate conduct and recipient redress change. Good government cannot be certified by making a person's moral aspiration substitute for its implementation. [A02:L087–089/L141–149; A03:L090–094; A04:L116/L121–130]",
+          "",
+          "**GI042.** **Tradition is simply the obstacle to freedom.** Coercive remonstrance, prestige demands and procedure disputes make the reading plausible. Yet shared theatre, admired craft, wanted festivals, cultural food and Kaguya's refusal of power are substantial positives. Kisaki's own definition also allows preservation through change. Tradition becomes dangerous when a claimant's interpretation silences recipients; it can supply meaningful pleasures and constraints on power when those recipients remain able to answer. The binary fails to explain why the school is worth meeting before its disagreements are settled. [A03:L084/L098–106/L128; A04:L093–097/L111/L119]",
+          "",
+          "**GI043.** **The remonstrator is only Kai's puppet or a rival claimant to power.** Kai supplies manipulative praise, connections and a tactical opening; the collaboration is real. Kaguya nevertheless identifies an independent procedural wrong, refuses the proposed headship and maintains theatre as her vocation. Those acts defeat the word only. Her force, detention demand and wish to reinstall someone who would ignore later process remain serious adverse evidence. Preserving the independent argument does not acquit its methods or declare the proposed remedy workable. [A03:L120–128; A04:L109–121]",
+          "",
+          "**GI044.** **Urgency makes procedure irrelevant, or procedure alone supplies the answer.** Kai's imposed dependency and threatened harms support the safety concern behind a shortcut. Actual erased records and Kaguya's critique support the procedural concern. Kai's refusal to comply with later expulsion and the absence of a full formal process defeat both easy closures. The work provides a sustained conflict over which duties to act upon and who bears the risk. It does not print the statute, audit or uncomplicated alternative needed for a complete legal judgment. [A03:L128; A04:L114–124]",
+          "",
+          "**GI045.** **Commerce makes hospitality and friendship counterfeit.** Publicity pressure, lost sales, strategic debt, possible outside returns and remonstrating consumers are genuine. The same sources give Rumi's pleasure in a delicious judgment and friends talking over one dish, actual shelter, wanted travel and particular feast acceptance. Mixed incentives do not make those goods imaginary. The necessary constraint is recipient response: overfeeding, prototype dread, objected-to movement and work transfer remain adverse, and a payment promise remains unexecuted in the text. [A02:L079–081/L135–149; A03:L102; A04:L109–116; A05:L089–094]",
+          "",
+          "**GI046.** **The crisis establishes a cure and durable institutional renewal.** Actual release, encounter defeat, narrated community recovery and a genuinely opened festival are substantial positive endpoints. Kai's unrepentant expectation, individual treatment tails, projected confinement, future reeducation, continued labor and later antagonism constrain their reach. Relief, actual joy and local civic coordination are real without being clinical cure or complete institutional repair. This revision preserves the endings rather than negating them because their consequences are finite. [A04:L121–130; A05:L140–144; F01:L034–046/L055–064]",
+          "",
+          "**GI047.** **Loyalty requires one student to choose office over all wanted life.** Mina's protective choice and Kisaki's acceptance of responsibility support serious commitment. They coexist with Mina's preferred style, Kisaki's unchosen vocation, an actual crepe outing, Kaguya's title refusal and Reijo's wished-for protection. Kanae's protest makes transferred labor visible. The institution has no printed right to define all such wants as selfish deviations. Commitment can be particular and fallible; enduring harm or monopolizing another person's labor is not proved necessary by a title. [A03:L114/L124; A04:L093–097/L111/L119–124; A01:L241–258; A10:L109; A05:L093]",
+          "",
+          "**GI048.** **Teacher's mediation settles the school's moral and practical questions.** The adult's protection, distinctions about responsibility and coalition command are positive contributions. Pressuring food endurance, using Kokona without full consultation, finite availability and students' independent reasoning supply serious counterevidence. The achieved banquet and holiday do not retrospectively change those acts into universally consensual care. Teacher is one participant whose intervention must answer to specific recipients and unprinted consequences, not the source of every student's agency or the institution's final certification. [A02:L109–117; A03:L102/L114; A05:L082; A04:L106/L116/L124–126; F01:L052/L064]",
+          "",
+          "## 11. Evidence, fourteen original OPEN limits and the complete finite boundary",
+          "",
+          "**GI049.** The full institution argument rests on complete adequate current normal meanings at their declared scopes: the selected private repertoires, full connected826/839/840/859 arguments, consequential GROUP260/GROUP340 meanings, the small Final local owner and the complete current chapter checkpoint. F00 is bounded navigation only. Historical producer statements about personal original-primary receiving, source availability, pending admission, model frontiers and future work remain attributed and dated; current Cycle008 owns present admission. Receiving these analytical arguments gives no new original-primary, native, raw, QA, AV, independent-author or model credit. Distinct same-tree Git states certify byte preservation, not new exposure. [A01:L142–169/L379–397; A02:L153–177; A03:L154–158; A04:L146–149; A05:L146–167; A08; F01:L059–077; C04]",
+          "",
+          "**GI050.** The boundary is substantial literary synthesis of the required institutional mechanism, not a roster tally, eleven-section feasibility outline or institution inferred from a character's importance. It preserves achieved apologies, actual meals, title refusal, useful refuge, conditional release, theatre and festival joy, and local defense alongside unresolved payment, injured recipients, treatment, procedure, work and return tails. Independent ROOT receiving must adjudicate this candidate. The existing355 package denominator and29 named duties across25 parents remain unchanged; this home owns no mandatory named duty and completes no other parent by proxy. The original fourteen questions below remain OPEN at their actual scope. [C05; C06; C07]",
+          "",
+          "| Original gap | Status | Specific effect on this institution argument |",
+          "|---|---|---|",
+          "| G01 Ordinary and private breadth | OPEN | Particular food, theatre, rest, craft, style and wanted company are intrinsic, while these received scopes do not constitute every person's full private repertoire. |",
+          "| G02 Yuuka council/club decision transfer | OPEN | Genbu and Genryumon resource disputes are not verification of Yuuka's decisions or transfer to her separate council duties. |",
+          "| G03 Serika service, peer and reciprocity range | OPEN | Recipient limits in hospitality and commercial work provide comparisons, not a completed Serika persona or universal service rule. |",
+          "| G04 Hina crisis causality, accountability and ordinary contrast | OPEN | Local confinement, protection and unfinished correction cannot discharge Hina's separate crisis causality and redress questions. |",
+          "| G05 Arius and PS68 ordinary/aftermath transfer | OPEN | These achieved meals, rest and festival ends do not order or complete other cohorts' ordinary and aftermath responsibilities. |",
+          "| G06 Cross-school ordinary repertoire | OPEN | Distinct visitors and residents retain their tastes and objections; no unified school culture or complete cross-school private census follows. |",
+          "| G07 Story-world chronology | OPEN | Source-relative826 sequences, explicit839→840 linkage and local859 order remain; private ranks, event numbers and Final context do not create a universal reform timeline. |",
+          "| G08 Event naming and repeat contexts | OPEN | Stable826/839/840/859 IDs are used; recaps/previews and repeated costume UI are not duplicate independent enacted stories. |",
+          "| G09 Written speaker/choice attribution | OPEN | Swapped tags, inward/choice forms, stage roles and generic executives retain contextual ownership and audience limits. |",
+          "| G10 Performed voice | OPEN | Japanese written theatre, noir, dialogue and register supply no heard acoustics, viewed pixels, timing or performed branch. |",
+          "| G11 Hoshino's Yume record and office states | OPEN | Kisaki's unchosen office and reported appointment do not certify Hoshino/Yume provenance or state transfer. |",
+          "| G12 Counterpart, system and variant identity | OPEN | Kisaki/Kiki, Rumi/子供, Shun/Shuerin and local roles retain source-qualified joins; generic executives are not automatically Mina or Reijo. |",
+          "| G13 Office, contract, safety and technical outcomes | OPEN | Promise is not payment; no complete legal, medicine, victim recovery, confinement transport, audit, reeducation or branch-return result is inferred. |",
+          "| G14 Unclassified/mode continuity | OPEN | Private pairs, written UI, recap, preview, represented stage and public narrative retain modes; no unreceived special/MINI continuity is supplied. |",
+          "",
+          "**GI051.** Particular people inhabit the school while its rules and resources are disputed, and their pleasures carry intrinsic value throughout those disputes. Their actual replies show when welcome becomes confinement, care becomes pressure, authority accepts a correction, tradition sustains art, and rest requires someone else's labor. Keeping those different endings makes the school legible as an institution, while leaving its members' individual and directed-relationship responsibilities intact. ROOT acceptance, canonical installation and publication remain pending. [A02:L141–149; A03:L090–106; A05:L080–094]",
+          ""
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          159,
+          159
+        ],
+        "canonical_lines": [
+          171,
+          171
+        ],
+        "original_lines_complete_text": [
+          "Exact source and saved paragraph/ending controls accompany this body: [source receipt](GENRYUMON_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json) and [claim and endpoint register](GENRYUMON_INSTITUTION_CLAIM_AND_ENDPOINT_REGISTER_V1.json)."
+        ],
+        "canonical_lines_complete_text": [
+          "Exact source and saved paragraph/ending controls accompany this body: [source receipt](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json) and [claim and endpoint register](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json)."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "all_frozen_original_transports": [
+    {
+      "path": "GENRYUMON_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+      "bytes": 42024,
+      "sha256": "9ed9fd508a07c6a9f6864ee82e8bbdb2f2091906e62486ed62c9ccfb2684ade3",
+      "git_blob_oid_of_actual_bytes": "53a9fb8c1abf7d6053fa4df0f8b446dcb8c7452f",
+      "immutable_transport_path": "immutable_originals/GENRYUMON_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md"
+    },
+    {
+      "path": "GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 33734,
+      "sha256": "3fa25a7a349c8accf80d7cbc3cecf6b7c26a0ad9b09052d8c8329cfbb258a0c3",
+      "git_blob_oid_of_actual_bytes": "0dba25985bb6d99f1445795ffa17d6b811f1bfc8",
+      "immutable_transport_path": "immutable_originals/GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_INSTITUTION_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 26404,
+      "sha256": "a6ca4b3a44e881f409a599658a738ec3a8893bb050586f5b52baee4bc6d80b93",
+      "git_blob_oid_of_actual_bytes": "d7a46b815a571c54f9a4bb184f36777ec36ef686",
+      "immutable_transport_path": "immutable_originals/GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_INSTITUTION_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+    },
+    {
+      "path": "ROOT_GENRYUMON_INSTITUTION_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 7339,
+      "sha256": "1865ef27db6d2c1b615112e7306b3239e3e44056927928d0bf40bda324420dcd",
+      "git_blob_oid_of_actual_bytes": "412d3390c3f8c84b5347dd162aae46cbb50bbfcb",
+      "immutable_transport_path": "immutable_originals/ROOT_GENRYUMON_INSTITUTION_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_AUTHOR_INITIAL_EXACT_INPUT_AND_RECOVERY_PLAN_V1.json",
+      "bytes": 17528,
+      "sha256": "758a3929dbd7249e23eb39d1897c5a7a9c7829cbbdfc0f7c71fe5fd4b7d7c17e",
+      "git_blob_oid_of_actual_bytes": "b14b387d0b70928620065aed7a7f0785d6c492b0",
+      "immutable_transport_path": "immutable_originals/GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_AUTHOR_INITIAL_EXACT_INPUT_AND_RECOVERY_PLAN_V1.json"
+    },
+    {
+      "path": "GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_FINAL_CHAPTER_TWO_BINDING_V1.json",
+      "bytes": 863,
+      "sha256": "4bb573f2df5f28ed8be59f845b203271f52b369c67e220bafc061639ae0fd9a6",
+      "git_blob_oid_of_actual_bytes": "fa005b9ea1d22e5762ff036e71fb1f5eddb9486a",
+      "immutable_transport_path": "immutable_originals/GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_FINAL_CHAPTER_TWO_BINDING_V1.json"
+    },
+    {
+      "path": "GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_FINAL_POSITIVE_NAVIGATION_AND_BINDING_V1.json",
+      "bytes": 6192,
+      "sha256": "85680da641329d1184e6efdb660705338a2a94616a7a18c59e66fd7de2f3ae3e",
+      "git_blob_oid_of_actual_bytes": "90c04ac1f00094a065ea5ecc2bac7edf137c5777",
+      "immutable_transport_path": "immutable_originals/GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_FINAL_POSITIVE_NAVIGATION_AND_BINDING_V1.json"
+    },
+    {
+      "path": "GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_INSTITUTION_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 165367,
+      "sha256": "e8f65222c0dd92158db78c2d1991d144aa653b0300e4defedf809cfcad4830b3",
+      "git_blob_oid_of_actual_bytes": "67aac0a98023dc9ad1fa28a529df8b4ee82d6709",
+      "immutable_transport_path": "immutable_originals/GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_INSTITUTION_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_INSTITUTION_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 4918,
+      "sha256": "8f8f6539051551c917f7bac0e2ef940035d45dc83345f4108d1344aa5cbad466",
+      "git_blob_oid_of_actual_bytes": "495e2bbf94b96c3833e3c831bfb3352f595d23ed",
+      "immutable_transport_path": "immutable_originals/GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_INSTITUTION_SAVED_OUTPUT_RECEIPT_V1.json"
+    },
+    {
+      "path": "GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_ROOT_MUTABLE_CONTROL_SEAM_QUALIFICATION_V1.json",
+      "bytes": 6633,
+      "sha256": "c1d0eaae6d31bda58d3ebd3e0be184179db69b32ca2c9211812866a4c18d1f99",
+      "git_blob_oid_of_actual_bytes": "d542b5d4f5d86c50ce5b3494210c3ec147faee17",
+      "immutable_transport_path": "immutable_originals/GENRYUMON_INSTITUTION_SYNTHESIS/GENRYUMON_ROOT_MUTABLE_CONTROL_SEAM_QUALIFICATION_V1.json"
+    }
+  ],
+  "canonical_link_translations": [
+    {
+      "candidate_relative_href": "GENRYUMON_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "repository_relative_target": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "operative_canonical_relative_href": "../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "occurrences": 1,
+      "qualification": "Whole frozen source/register survives inside input wrapper, no transferred source receiving."
+    },
+    {
+      "candidate_relative_href": "GENRYUMON_INSTITUTION_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "repository_relative_target": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "operative_canonical_relative_href": "../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "occurrences": 1,
+      "qualification": "Whole frozen source/register survives inside input wrapper, no transferred source receiving."
+    }
+  ],
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/complete_original_to_canonical_inverse/canonical_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "1866a74bff9b1c930f82ff8576f404b850bffbeec0537d8b4604e4545267d661",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 45209,
+        "sha256": "1866a74bff9b1c930f82ff8576f404b850bffbeec0537d8b4604e4545267d661"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 45224,
+        "sha256": "d8535e8b667ba0a37f78c8f298b02478d9455e2658cc590ac24374bc31defca6"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/8/exact_unchanged_lines/109",
+      "retained_value_utf8_sha256": "bf192dda548254cd853b9ed89bba91f34d9969d6f8816dfe86febebe30eb23fe",
+      "finding_ids": [
+        "P30-P3-INST-SHANHAIJING-GENRYUMON-TRADITION-UNCHOSEN-OFFICE-ROOT_GENRYUMON_GI044_INDEPENDENTLY_VERIFIED_FULL_INVERSE_AND_PRECISE_THREE_CURRENT_FROZEN_POINTERS_V1-124",
+        "P30-P3-INST-SHANHAIJING-GENRYUMON-TRADITION-UNCHOSEN-OFFICE-L136"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+      "bytes": 45224,
+      "sha256": "d8535e8b667ba0a37f78c8f298b02478d9455e2658cc590ac24374bc31defca6",
+      "lines": 171,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 45224,
+        "sha256": "d8535e8b667ba0a37f78c8f298b02478d9455e2658cc590ac24374bc31defca6"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 45224,
+        "sha256": "d8535e8b667ba0a37f78c8f298b02478d9455e2658cc590ac24374bc31defca6"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
+}

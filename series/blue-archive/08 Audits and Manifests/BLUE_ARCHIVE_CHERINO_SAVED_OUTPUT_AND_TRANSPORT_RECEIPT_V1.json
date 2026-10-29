@@ -1,0 +1,353 @@
+{
+  "schema": "BLUE_ARCHIVE_CHERINO_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "EXACT_PREPARATION_COMPLETE_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 36985,
+      "sha256": "f4c4f38775db0fa4809882cb64e1065890c5adad5de7964c400799306356aa1f",
+      "git_blob_oid_of_actual_bytes": "8ff1df5b5a578c1a0119cd438e55e9cff840a09b"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 39200,
+      "sha256": "b6c7f57bb43477cbd0af69415c688b5484c48aa859e0047730e88cba71a36531",
+      "git_blob_oid_of_actual_bytes": "6f0ff2a1318ff76b9f4d68332b612d1fc7b8a17a"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "series: BLUE_ARCHIVE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          4
+        ],
+        "canonical_lines": [
+          3,
+          4
+        ],
+        "original_lines_complete_text": [
+          "artifact_type: character_monograph",
+          "status: working_candidate_root_receiving_pending"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_artifact_type: character_monograph",
+          "historical_author_status: working_candidate_root_receiving_pending"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          5,
+          23
+        ],
+        "canonical_lines": [
+          5,
+          23
+        ],
+        "exact_unchanged_lines": [
+          "required_home: P3-CHAR-CHERINO",
+          "source_responsibility: P3-F081",
+          "literal_family: CHERINO",
+          "literal_person: BA_PERSON_CHERINO",
+          "selected_variants: [10017, 20009]",
+          "selected_written_costumes: [1900900301, 1900902001]",
+          "architecture_version: \"1.12\"",
+          "method_version: \"1.10\"",
+          "execution_class: DEEP_SYNTHESIS",
+          "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+          "dated_navigation_witness: 732b3f2e635d2b8e8855f4e6709354031936ebc6",
+          "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+          "source_generation: BA_REFRESH_20260928T032248159554Z",
+          "source_boundary: \"Current admitted bounded Japanese written meanings in complete adequate private24 checkpoint and declared public analytical owners; individual primary, raw/native controls and performed delivery are not newly inspected.\"",
+          "authority_quartet: \"Current Cycle008 qualified admission; personally received adequate accepted arguments; historical exposure/order/independence UNKNOWN where undeclared, FIRST/SECOND unassigned; performed voice unreceived.\"",
+          "new_primary_reading_credit: 0",
+          "new_model_or_prediction_credit: 0",
+          "canonical_publication_or_merge_credit: 0"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          24,
+          23
+        ],
+        "canonical_lines": [
+          24,
+          33
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "artifact_type: character_monograph",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHERINO_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CHERINO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: 7546a2331b3f2ca83798d54f9a2b8120c780adae",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          24,
+          26
+        ],
+        "canonical_lines": [
+          34,
+          36
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# Cherino — recognition, pleasure and the work imposed by office"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          27,
+          26
+        ],
+        "canonical_lines": [
+          37,
+          38
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently accepted this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHERINO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual author/ROOT source scopes and the accepted first-milestone control; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHERINO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the frozen original and complete byte inverse. Retained author pending, local navigation, source-capture and count wording describes creation-time custody. The first89 packages were published at source `7546a2331b3f2ca83798d54f9a2b8120c780adae`, squash-merged as main `b76b4373e6d0526bc78ce00bb673dba9e536c128` with the same `e9b01c39d750a9d12296023f0b29d04f30f3cdb5` tree, and accepted after the exact postmerge full audit. This first25% milestone does not finish Phase3. The present fixed twelve-package90–101 continuation takes effect only through complete ROOT installation:101 packages (89 character,6 directed relationship,3 ensemble,3 institution), with3 of29 mandatory named duties; later live ROOT reviews remain outside this snapshot. Required355 packages and29 non-denominator duties across25 distinct parents, the next178 milestone, all14 original OPEN gaps and model0 remain unchanged. This preparation provides no installation, publication, local source/main reconciliation or new source, primary, performed, independent literary or scope credit."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          27,
+          176
+        ],
+        "canonical_lines": [
+          39,
+          188
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "## 1. Core thesis: the person who wants to be recognized also makes recognition costly",
+          "",
+          "Cherino's office is enacted through titles, correctness, medals, portraiture, a mustache, publicity and the responses demanded of other people. The sources also give her particular pleasures and unwanted experiences: a design she wants praised, snow she enjoys shaping, favorite sweetness, a bath companion that initially seems useless, unfamiliar theatre, sleep, disappointment, fear and wanted company. Those experiences have value within her life. Their importance does not depend on proving an eventual beneficial policy. The central question is how these two dimensions meet: when acknowledgment becomes a shared activity, and when the requirement to acknowledge the president imposes labor, silence or punishment on someone else.",
+          "",
+          "The strongest bounded thesis is that **recognition is both a personally wanted experience and an asymmetrical practice of office**. Actual collaborative design, accepted play, waking comfort, local reconsideration and changed aesthetic appreciation give the first dimension real evidence. Threatened purge, changing administrative criteria, coerced subordinate assent, food scarcity blamed on staff and interrupted recipient objections give the second. Neither dimension explains away the other. Her need for comfort does not justify the threatened head's punishment; her public misconduct does not make the snowman, design, tasted chocolate or theatre response unreal (`BA:bond:10017:002/003/006/008`; `20009:020`; `BA:group:1301–1303`; `BA:event:810:025`; `839:004`).",
+          "",
+          "This is a literary account of represented conduct at declared extents. It is not a diagnosis, authenticated regime history, universal service rule or predictive mechanism. It does not establish her age from a promotion claim, a coup from a nightmare, a final legal authority from spoken titles, or a chronological reform from a larger variant ID. The adverse cases remain actions and demands with particular recipients; the positive cases remain actual achievements and pleasures rather than merely possible excuses.",
+          "",
+          "## 2. Longitudinal arc: local revisions and recurring demands, with no invented calendar",
+          "",
+          "The private variants and public stories permit several secure local developments. They do not supply one dated base-to-holiday-to-reformed-president sequence. Cherino can reconsider a particular object, accept a particular challenge or amend a particular order while other acts continue to press people. The analysis therefore follows **located changes and endings**, preserving the source sequence within each encounter and leaving global order unresolved.",
+          "",
+          "| Located state or change | Positive actual extent | Contrary or unfinished extent |",
+          "|---|---|---|",
+          "| A lasting medal is wanted and designed: `10017:002`/whole `100170010` | Narrated enjoyable joint naming/design; full afterword reports her completed design and asks for approval. | Rank hierarchy remains; the image is referenced, its pixels unreceived; production/distribution is not demonstrated. |",
+          "| Snow becomes shared making/play: `10017:006`/whole `100170250` | Completed snowman, admiration, accepted return challenge and continued pleasant play. | Proposed third snowman and family/marriage interpretations are not completed or confirmed; playful battle language is not murder. |",
+          "| Apparent office loss becomes waking fear: `10017:008`/whole `100170310` | Dream ends; actual waking recognition, fear and particular comfort follow. | Dream guard rejection and missing statue are not an outer-world coup; company is not unlimited availability. |",
+          "| Anticipated pudding becomes disappointed egg tasting: `20009:003`/whole `200090130` | Actual taste and complaint make recipient interpretation consequential. | Requisition is reported; adult prior knowledge is not admitted; leftover handling does not establish restitution. |",
+          "| A useless duck becomes a valued bath aide: `20009:020`/whole `200090380` | Watching, address, courage award and a narrated apparent enjoyable long bath supply new local value. | Reported stock clearance is not audited finance; exact duration and general institutional reform are unprovided. |",
+          "| Festival concessions meet renewed exclusion: `BA:event:802` | Book returned, importance acknowledged, particular opposition to proposed cruelty and regard for Marina are real. | Promised release/benefits and durable listening remain incomplete; cleaning punishment and final recurrence remain. |",
+          "| Demolition is actually deferred: `BA:event:808:011` | Tomoe/adult correction helps Cherino allow reuse rather than immediate demolition. | Meg independently rejects reuse and triggers destruction; the concession does not restore housing, resources or all consent. |",
+          "| Unfamiliar theatre acquires interest: `BA:event:839:004` | Initial discomfort/questions lead to attention, grief, favorable judgment and wanted conversation with Kaguya. | Later admiration misses the immediate force of a hostile allegory; no permanent political wisdom is established. |",
+          "",
+          "The medal and snowman are particularly useful together. One begins in a wish for an object that outlasts consumption; the other finds pleasure in something transient. Both reach actual making with company. Their difference prevents a single explanation in which she only wants indestructible monuments to herself. Her rank allocation still frames the medal encounter, while snow supplies a concrete counterexample to a leader incapable of tolerating any returned challenge (`10017:002:s1u9–11/u26–33`; `10017:006:s1u30–40`).",
+          "",
+          "The duck likewise changes the relevant criterion. A reported commercial success does not answer her felt objection that the object is useless. Quietly watching it sway, speaking to it and appointing it an aide provide a different experience of value. This is a positive local revision, even without a revenue audit or governance transformation. It should not be discarded because it concerns a bath toy. Nor should that revision be expanded into a person-wide willingness to hear objections: GROUP130 makes correction dangerous and EVENT802 ends with recurrence after concessions (`20009:020:u13–17/u29–50`; `BA:group:1301:u23–57`; `BA:event:802:011`).",
+          "",
+          "Explicit local links remain narrower than a world chronology. The pepper reference connects particular base encounters; the oil/mustache replacement connects the hot-spring contexts; ten schedules link full MomoTalk and bonds. Whole afterwords count, including the medal design and the table-tennis admission that it was fun despite unreceived matcha pudding. Higher IDs, unlocks, costume conditions and release dates cannot date these acts against coups, MAIN or exchanges. No completed local change is a frozen prediction about an unexposed future.",
+          "",
+          "## 3. Public and private self: vulnerability is real without being the only true Cherino",
+          "",
+          "Public Cherino frequently asks others to recognize an office already asserted to be correct. In GROUP130, her title list and pleasure in praise accompany an assigned mascot task; Marina's accurate objection becomes possible disloyalty. In V004C002E013, title elaboration displaces Kaya's request to recall demonstrators. In the pudding mediation she converts a manufacturer's limited sales choice into discrimination, then accepts an alternative after flattery of titles and mustache. These are different actual situations, not one all-purpose manipulation inferred from her favorite food (`BA:group:1301:u24–57`; `BA:main:004:002:013:s1u2–54`; `BA:main:series2:001:001:006:s3u60–88`).",
+          "",
+          "Private sources show fears and requests that the asserted office does not prevent. The nightmare stages a world where recognition disappears: a hostile represented guard, absent portrait/statue and apparent adult nonrecognition. Those remain inside the dream through `10017:008:s2u29`. Waking recognition begins at u30–33; fear, comfort need and the adult's objection to being blamed for dream behavior follow. This is real vulnerability in a specific scene. It is neither an actual loss of office nor a warrant to infer that every confident public statement conceals that same fear (`10017:008:s2u30–39`).",
+          "",
+          "Care dependence is also publicly visible. GROUP130 moves from threats and titles to sleep and Tomoe's nap preparation. GROUP280 juxtaposes Cherino's fear/rest request and promised presence with an actually burned petition; the latter is Tomoe's act, not an independently printed Cherino order to burn it. EVENT839 supplies a sweet-filled dream, wanting five more minutes, delegated paperwork, coup worry and newly eager travel after the invitation is framed as a trip. Public/private is thus a difference of situation and audience, not a division into false politician and innocent hidden self (`BA:group:1301:u59–61`; `2802:u55–71`; `BA:event:839:001:u20–51`).",
+          "",
+          "Nor is private life free of hierarchy. The meal contains a threat to send the whole Food Department to227; pleasure in three puddings does not show its revocation. The medal gives the adult a lower rank. The holiday sources make a wanted mustache a sign of authority that can obstruct an otherwise desired bath. What changes across scenes is what people are doing and what replies are available; vulnerability, appetite, affection and coercive expectation can remain simultaneous.",
+          "",
+          "## 4. School and club role: enacted office, dependence and the difference between correction and assent",
+          "",
+          "The sources name Cherino as Red Winter president with accumulated titles and situate Tomoe's secretary role, Marina's security work and class227. They do not permit a numeric-folder or profile `Club=None` field to erase the printed institutional practice or authenticate a complete registry. GROUP130's quoted rule that the president is always correct, followed by the purge consequence for contradiction, is directly spoken as a claimed code. The inspected argument supplies neither the full rule document nor every legally executed sanction (`BA:group:1301:u38–52`).",
+          "",
+          "The crucial literary effect is more specific than a generic dictatorship label. Marina voices accurate limits: a niche mascot is not desired by everyone, and a fictional character cannot simply enroll. Praise, a medal and threatened purge transform correction into risky subordinate work. Her later fabrication is knowing, while her career ambition remains her own motive. Cherino's task is consequential within that chain without proving she planned Marina's exact methods against Nodoka. The actual subsequent coercion and the recipient's refusal require their own directed treatment (`BA:group:1301:u23–57`; `1302:u25–63`).",
+          "",
+          "When the costume is presented, Cherino's criterion changes with proximity and preference. She now dislikes the ugly bird and rejects the beard idea she had accepted. Tomoe has also actually corrected her lateness claim after oversleeping. These are contrary facts to both universal subordinate silence and stable administrative rationality. Nodoka defends the old building as a valued place, revealing the wearer and challenging its treatment as a rubbish bin. The narrated three revolutions and countless purges over a week return administration to its former arrangement; they do not demonstrate restitution, freely renewed assent or durable reform (`BA:group:1303:u1–10/u11–49`).",
+          "",
+          "Local limits and concessions survive this adverse argument. She returns Momiji's valued book and acknowledges its importance; she opposes specific frightening punishment proposals; she values Marina above a statue; she actually defers demolition after correction. None needs to be called insincere to retain the renewed exclusion, cleaning penalty, unfulfilled benefits or destruction that also follow. The institution cannot be described adequately by either uninterrupted cruelty or complete benevolent reform (`BA:event:802:007/011`; `808:011`). Knowledge Liberation Front, Works, administration and the affected housing remain separate institutional responsibilities beyond this character home.",
+          "",
+          "## 5. Ordinary life: pleasure, craft, taste, art and company have intrinsic stakes",
+          "",
+          "Cherino's particular food judgments deserve exact treatment. Pepper is unwelcome; seasoning explanations and adult-taste claims are interpretations; three consumed puddings are an actual ending. A shop's pudding is actually enjoyed, while the rare cookie remains unreceived. The egg analogy produces disappointed tasting after expected pudding. Table tennis reaches many sets and a full afterword that it was fun, despite unconceded loss, reported soreness and absent matcha pudding. These mixed outcomes do not become either an ideal holiday or a meaningless failed diversion (`10017:003/005`; `20009:002/003` and their whole threads).",
+          "",
+          "The mustache is both materially troublesome and personally valued. An oil analogy motivates an intended waterproof fit; odor and discomfort spoil it before a water test, so the plan is not engineering certification. Milk bathing/drinking is pleasurable, and residue is treated as restored standing; its disappearance invites repetition, ending in narrated stomach upset after ten or more bottles. The wanted bath, the transient sign and the actual cost all remain. Nothing proves actual hair growth, an independently measured all-night course or clinical recovery (`20009:005/006`).",
+          "",
+          "Making is equally ordinary and substantive: medal design, snow play and wanted approval connect agency to receiving a response. A referenced design image has not been visually inspected, and the third snowman remains proposed; those limits do not undo the actually completed design and snowman. Festival/exchange written contexts add anticipation, first-person help, communal sharing and rest wishes under their own activation conditions. They complicate an exclusively self-directed appetite portrait without becoming delivered service or extra historical festivals (`10017:002/006`; costume1900900301; costume1900902001).",
+          "",
+          "EVENT810025 joins favorite sweetness to school pride and chosen sharing. Cherino actually tastes the portrait-branded chocolate with delight; the adult's final tasting gives a different judgment, unusually sweet/hard rather than proof of unanimous praise or dentistry. Ingredient shortage and a purge threat remain; the remaining partially eaten gift is still deliberately shared. Wanted broad distribution is a substantive aspiration with an absent production result, not an excuse to erase the personal gift or to certify unlimited supply (`BA:event:810:025:u2–30`).",
+          "",
+          "Theatre is a further independent interest. In EVENT839 she starts with unfamiliar sound, discomfort and questions about stylized movement, then notices a performer, objects to advisers and to the represented woman's self-killing because of survivors, feels the loss and calls the play good. The source gives an audience's actual change in response, not the analyst hearing its acoustics or a witnessed real death. She wants to know Kaguya's work and is disappointed that later performances prevent joining the walk. Art and wanted company here extend her repertoire beyond food and monuments; the second drama's missed directed allegory remains meaningful contrary evidence (`BA:event:839:004:u1–65/u75–169`; `009`).",
+          "",
+          "Positive curiosity and actual food enjoyment also coexist with limits imposed by a host. Rumi supplies abundant food; Cherino praises taste and says she cannot eat that much, asking for help. The adult urges office dignity rather than attending to that request, and narration later depicts crying and stomach-medicine ingestion. The distress is an actual outcome, not proof that she deserved excess, that all hospitality is kind, or that medicine cured her. A recipient's wish to stop is relevant even when that recipient herself imposes wishes elsewhere (`BA:event:839:005:u1–32`).",
+          "",
+          "## 6. Crisis behavior: local command, noncooperation, intervention and actual bounds",
+          "",
+          "Cherino's exercise of authority can create a crisis rather than respond successfully to one. GROUP130 ties risky correction to fabricated enrollment and coerced performance, then to revolt and a narrated return. EVENT802 includes preemptive action after Marina's statue accident and fear; Marina's imagined sentence is not an actual Cherino ruling, and saved pudding/bear attachment is not the cause of all revolt. Coalition, acknowledgment and promises contribute to a local recovery while the final recurrence prevents durable safety or accomplished benefits from being inferred (`BA:group:1301–1303`; `BA:event:802:002/003/005/011`).",
+          "",
+          "EVENT808 allows a specific actual revision: she defers demolition and permits reuse after Tomoe/adult correction. Tank victory against the workers and Meg's subsequent blast remain actual adverse endpoints. The revision is neither erased because it fails to save the buildings nor inflated into a restored home, inspected legal permit or consent from every affected person. Final crowded bathing and invitations retain pleasure after loss without repairing housing, water, wages or defense costs (`BA:event:808:010–012`).",
+          "",
+          "In V004C002E013, Kaya directly requests dispersal of demonstrators. Cherino says she had not realized the department was demonstrating, treats recurrent coups as familiar responses to unpopular policy and offers milk chocolate rather than a recall order. This is comic noncooperation and an offered object, not a formally issued refusal order or observed shipment. Marina's presidency a week earlier is Ayumu's report. The separate scene's mass-harm plan is not shown to Cherino; the analysis cannot give her knowledge, approval or responsibility for that unrepresented information (`BA:main:004:002:013:s1u2–54`, distinct s2).",
+          "",
+          "FinalE008 supplies reported absence on unspecified business alongside Tomoe/Minori's rally, Nodoka's shelter and Mel/Momiji's comic plans. Her absence is not a demonstrated location, an inferred secret mission or proof that she abandoned known duties for a particular pleasure. The monograph keeps her ordinary repertoire available to interpretation while refusing to use it to invent why she is missing (`BA:main:100:002:008`).",
+          "",
+          "The exchange in EVENT839 offers a different actual intervention. Cherino argues for rights to voice opinion and lead and questions whether coercive remonstrance is itself change; Tomoe's duty argument has bounded staff uptake, and Marina's charge produces a local defeat. These acts do not establish universal democratic doctrine. Leader-centered discipline, toilet-cleaning threats and the formula about sending greater figures to227 remain in the same event. She can be a successful outside helper while continuing to exercise an exclusionary conception of office (`BA:event:839:012–014`).",
+          "",
+          "## 7. Sensei relationship: acknowledgment and bounded company, with recipient disagreement",
+          "",
+          "Sensei can share Cherino's actual design and play rather than simply flatter an office. The medal afterword asks for approval of something she has made; the snow challenge is accepted and answered within a game. Waking comfort answers an actual request after an imagined loss of recognition, while the adult objects to the unreasonable implication of their dreamed conduct. These positives concern particular encounters and continued company. They do not supply a promise of constant presence, confirmed romance, family planning or an adult obligation to authenticate every title (`10017:002/006/008` and whole linked threads).",
+          "",
+          "Meals reveal responses with less equal terms. In10017E003, promised pudding changes her behavior around disliked food; a nutrition official explains seasoning and supplies a flattering adult-taste reading. Actual three-pudding consumption does not establish that a later promised purchase was made or the threatened collective sanction withdrawn. In20009E003, she challenges possible late correction if the adult had already noticed the misunderstanding. The adult alternatives do not admit that premise. Her complaint still matters as a recipient's judgment without certifying prior deception across routes (`10017:003:s2u11–33`; `20009:003:u37–44`).",
+          "",
+          "The gift's adult request to taste before promoting also preserves independent judgment. Her contacts are wanted for publicity; the actual tasting is a bounded result, not acceptance of an ambassador role or performed broad promotion. The partly eaten remainder is not no gift, but neither her enthusiasm nor commanded publicity makes the recipient's contrasting taste disappear (`BA:event:810:025:u11–30`).",
+          "",
+          "Public adult interactions add contrary methods. EVENT802's refused/pretend-not-to-hear alternatives converge on carrying; later recognition of the incumbent redirects protest and a promise test exposes implementation limits. EVENT839's food scene urges her to maintain dignity despite her request for help. Support, correction, useful intervention and failure to attend to bodily limits can coexist across these adult encounters. No universal good-care model follows, and a positive ending elsewhere cannot retrospectively approve these methods (`BA:event:802:004/009/011`; `839:005`).",
+          "",
+          "The S2 pudding mediation involves the identity-disputed claimant, not a replacement Sensei or authenticated returned president. The visitor notices Cherino's incentives, proposes caramel instead of sticky chocolate pudding and receives verbal withdrawal of this round of protest. No delivery, corporate policy change or permanent closure is printed. The comparison supports situated rhetorical accommodation; it does not authenticate the claimant or turn every dessert desire into a politically harmless request (`BA:main:series2:001:001:006:s3u60–93`).",
+          "",
+          "## 8. Major peers: the people who serve, resist, correct and receive her demands",
+          "",
+          "Tomoe's support includes praise, code enforcement and care, but also an actual correction of Cherino's lateness claim and a useful correction before demolition. GROUP280's petition burning supplies a serious adverse institutional act alongside promised presence and rest. Those are Tomoe's particular responses; Cherino's character argument must neither erase them in a generic loyal-retainer label nor assign them all to an unprinted Cherino instruction. Her ability to be cared for is demonstrated; reciprocal relief for petitioners is not (`BA:group:1301/1303/2802`; `BA:event:808:011`).",
+          "",
+          "Marina has accurate objections, ambition, fear and actual methods. A medal/purge constraint does not make her fabrication truthful; Cherino's shifting preference and rejection make administrative success unstable. Marina's downward coercion targets Nodoka's careful savoring and treasured instrument despite continued refusal. Nodoka's attachment to the old building then breaks the performance. The hierarchy matters through these independent recipients, not by converting them into a passive extension of Cherino's appetite. Marina's empty joins in some GROUP/event representations remain literal source limits despite secure local naming; the allocated two-key private home is separate (`BA:group:1301–1303`).",
+          "",
+          "Nodoka also refuses the premise that release is a prize Cherino can newly grant through a contest: it was already owed. Her desire for company and a return to better material conditions remains her own. The old-building objection, festival rebuke and hot-spring resistance are different actual responses, not proof she always submits or that affection for a place means welcoming deprivation. Cherino's particular acknowledgment/promise has literary value; it is not fulfilled suspension cancellation or a waiver of those objections (`BA:group:1303:u33–44`; `BA:event:802:005`; `808:010–012`).",
+          "",
+          "Momiji's returned book and access motive open a conditional alliance. Her proposed frightening punishments meet Cherino's specific opposition, a meaningful contrary to unlimited severity. Later Mel refuses the imposed Cherino protagonist, including the attempted outsourcing alternative; knowledge and creative wishes do not become the president's available material simply because a medal is offered. Other institutional claimants also retain independent needs and refusals. This is a character account of her encounter with those claims, with the complete directed and institutional homes remaining required (`BA:event:802:007`; `829:010–012`).",
+          "",
+          "Kisaki, Kaguya and Rumi are not interchangeable hosts. Kisaki's correction follows real harmful misunderstandings and imperfect command; Cherino's later acceptance of an apology is bounded, not every guest's assent. Kaguya's work produces genuine curiosity, disappointment over unavailable company and a different later response to allegory. Rumi's generous intention produces excess against expressed appetite limits. Cherino receives recognition, unfamiliarity and coercion as well as imposing them. That heterogeneity warrants preserving each actual recipient direction rather than using a foreign visit to declare political maturity (`BA:event:839:003–005/007/009/012–014`).",
+          "",
+          "## 9. Written language and voice: authority signs, address, framing and attribution",
+          "",
+          "Written `おいら`, `カムラッド`, stacked titles, `勲章`, `髭`, `粛清`, `権威` and `補佐官` establish a repertoire of self-presentation, address and valued signs. Their uptake varies: a companion accepts play; a subordinate voices doubt at risk; a recipient refuses the demanded theme; a bath toy receives a courage award. Martial snow language does not prove actual assassination, and unlimited-chocolate/dental praise remains hyperbole against the material shortage and recipient's taste (`10017:006`; `20009:020`; `BA:group:1301`; `BA:event:810:025/829:010`).",
+          "",
+          "The profiles preserve `??歳`, third school year and their own fields; her nine-year-old promotion claim does not settle age. The four written objects supply two profiles and175 records at the producer's inspected scope, with unequal event editions: festival27; holiday31, whose900808 has fewer Day/Close rows than808/10808. Activation is not a newly enacted scene. No fallback Special3030 is fabricated for20009, and the actual blank/fallback records remain. Beard removal requests, gifts, hospitality and rest wishes do not prove adult compliance, romance or completed travel/service.",
+          "",
+          "Dream, report, narrator description, inward text, choices and condition modes remain different witnesses. The dream guard is not an observed outer-world security member. Food-head responsive `character_narration` is not silence. Two10017E005 clerk display/text seams limit exact personalized assignment; snow/milk montages have the producer's positive ownership qualifications without automatic relabeling or extra encounters. Replied-to `[ns]` remains unresolved audience, not certified telepathy or inaudibility. All44 private groups/55 displayed options remain alternatives with `branch_effect_known=false`; singleton options do not create free refusal gates.",
+          "",
+          "Public seams likewise survive: GROUP130 has ten and EVENT802/E808 retain their declared actor layers. Source labels do not alone authorize fine voice claims or new generic people. The gift's chef address does not supply a displayed chef speaker; E839's represented theatre does not mean the analyst inspected its acoustics. The argument receives written language, not newly heard acting, gesture, audio or continuous AV. Full175 record reception is attributed to the primary producer, not converted into this author's primary or performance credit.",
+          "",
+          "## 10. Competing interpretations: seven tests against ordinary and adverse evidence",
+          "",
+          "**She is only an appetite-driven joke.** Pudding, sleep, theatrical titles and mixed holidays give this reading ample surface evidence. Actual design, shared making, worried recognition, changed duck value, interest in theatre and recipient judgments defeat the reduction. Comic form can carry desires and costs; it does not erase coerced labor or certify every threat as harmless.",
+          "",
+          "**Every pleasure is an instrument of political power.** Medals, portrait chocolate and recruitment show genuine instrumentality. Snow's enjoyable returned challenge, the duck's felt value apart from financial recovery and her wanted conversation with an unavailable performer have positive independent ends. The stronger account lets a pleasure also acquire political use without requiring that power explain its entire worth.",
+          "",
+          "**Private vulnerability reveals an innocent true self that cancels public harm.** The waking nightmare comfort is real and makes an absolute fearless rule untenable. Meal threats, ranked design and sign-dependent bath planning remain within private life, while public sleep/care exposes vulnerability there too. Neither a hidden-self division nor comfort-based exoneration describes the complete sources.",
+          "",
+          "**The president never accepts correction or reciprocal challenge.** GROUP130 and the final festival recurrence strongly support costly correction and self-privilege. Accepted snow challenge, book return, opposition to particular cruelty, regard for Marina and demolition deferral are concrete counterexamples. They warrant qualification of an invariant; they do not erase threats or establish all-future receptive governance.",
+          "",
+          "**Holiday and foreign experience produce a mature reformed ruler.** Changed bath-toy value, local concessions, theatre curiosity and successful outside intervention support actual learning and agency at particular moments. ID order supplies no calendar; humiliation, missed directed allegory, leader-centered discipline and renewed exclusion remain. Situated revision is a stronger conclusion than irreversible reform.",
+          "",
+          "**Symbolic office is empty decoration, so material failure has no consequences.** The mustache's odor, milk residue, portrait product shortage and costume criterion are visibly unstable. Those signs nevertheless organize wants, rhetoric and other people's work. Their instability explains specific conflicts without authenticating technical waterproofness, legal legitimacy or a universal theory that symbols are either powerless or omnipotent.",
+          "",
+          "**Others' successful management makes the relationship and institution safe.** Flattery can redirect this pudding protest; care can produce rest; correction can obtain a local concession. Independent refusal, forced carrying, excessive food despite appeal, demanded publicity and unfulfilled benefits limit the conclusion. A mediated positive result does not certify the method, all recipients' consent or enduring protection. The inverse account that no concession or care is real also fails at those actual results.",
+          "",
+          "## 11. Evidence route, original open gaps and terminal boundary",
+          "",
+          "The existing required home isP3-CHAR-CHERINO/P3-F081, familyCHERINO/rawBA_PERSON_CHERINO with variants10017/20009 and written costumes1900900301/1900902001. The current source responsibility is24 private objects:10 BOND,10 whole MomoTalk,4 written. Adequate complete Cherino245-line checkpoint was personally received, including the repaired107–165 middle after a clipped display. The sharedRedWinter7 whole495 prior account and its complete Cherino subsection provide current Cycle008 adoption and regional comparison. Neither their primary counts nor the fourteen individual-reading filenames are fresh author primary/body reception.",
+          "",
+          "Additional personally complete small current arguments include gift81002570, GROUP130138 and the two consequential MAIN arguments V004C002E01347/S2V001C001E00642. Prior personally complete adequate G280143/E802103/E808100/E839158/E829160/E852205/FinalE00829 remain at unchanged declared scopes; refreshed Cherino-bearing paragraphs are bounded refreshes, not additional whole credit. The gift lookup in four event-owner directories was a partial navigation probe; its negatives establish no global absence. Current admitted class routes/Cycle008 supersede producer UNADMITTED, pending, old frontier and model text as history. Literal source tuples and actual reading extents are bound separately in the receipt.",
+          "",
+          "| Original stable gap | Cherino contribution and remaining warrant; status OPEN |",
+          "|---|---|",
+          "| G01 Ordinary and private breadth | Complete adequate24 private meanings, design, play, taste, gifts, fear, bath value and art remain intrinsic; no all-future repertoire or primary replay credit. OPEN. |",
+          "| G02 Yuuka council/club decision transfer | Costly correction, authority and recipient comparison do not receive Yuuka's own council/club decisions or transfer. OPEN. |",
+          "| G03 Serika service, peer and reciprocity range | Particular company, sharing and failed publicity/rest outcomes do not complete Serika's service/peer evidence. OPEN. |",
+          "| G04 Hina crisis causality, accountability and ordinary contrast | Noncooperation and commands do not settle Hina's causes, accountability, aid receipt or ordinary contrasts. OPEN. |",
+          "| G05 Arius and PS68 ordinary/aftermath transfer | Quiet value retained without transferring unrelated gift actors, sanctions or political recovery into Arius/PS68 closure. OPEN. |",
+          "| G06 Cross-school ordinary repertoire | Actual theatre, hosts, recipients and specific pudding mediation broaden comparison; no school-wide tastes, automatic attendance or shared assent. OPEN. |",
+          "| G07 Story-world chronology | Ten pair schedules and explicit private links/event continuations stay local; no variant ladder, global MAIN order or permanent reform date. OPEN. |",
+          "| G08 Event naming and repeat contexts | Gift810025, festivals/resorts/exchange, written editions and MAIN remain distinct; repeated pudding/baths/titles do not join scenes. OPEN. |",
+          "| G09 Written speaker/choice attribution | Dream, narration, responsive inward modes, montage ownership, clerk/GROUP/event seams and conditional adult-knowledge complaint retained; no universal actor repair. OPEN. |",
+          "| G10 Performed voice | Written address, theatre representation and primary-producer175 records retained; no newly heard voice, acting, gesture or continuous AV. OPEN. |",
+          "| G11 Hoshino's Yume record and office states | Reported Final absence and local office claims do not complete Hoshino/Yume memory, causes or office-state duties. OPEN. |",
+          "| G12 Counterpart, system and variant identity | LiteralCherino/variants/costumes, dream guard and disputed S2 claimant remain scoped; no new person, generic-role merge or claimant authentication. OPEN. |",
+          "| G13 Office, contract, safety and technical outcomes | Actual design/play/comfort/taste/concessions separate from law, produced medals, sanctions, unlimited food, waterproofing, cure, restitution, safe housing or durable reform. OPEN. |",
+          "| G14 Unclassified/mode continuity | Admitted private/written/GROUP/event/MAIN and documentary controls distinct; no unclassified admission, written-to-performance or interface-to-enacted-history join. OPEN. |",
+          "",
+          "No mandatory primary recovery remains for the actually bounded claims. Stronger assertions about image appearance, actual age, full code/enforcement, individual purges/injuries, budgets and supply, restitution, construction/legal permits, waterproofing, diagnosis/cure, exact bath duration, global chronology, claimant identity, all-future political reform or performed delivery require stronger specific evidence and are unasserted. Exposure/order/independence remain UNKNOWN where undeclared, FIRST/SECOND unassigned, all14 gaps OPEN. ROOT receiving, acceptance, adoption and counts are separate; no source/model/admission/denominator/publication/merge/milestone credit follows from this C-only candidate. Tomoe/Marina/Nodoka and all directed, ensemble, institution, Sensei/register and remaining355/29 responsibilities retain their own required scope."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "all_frozen_original_transports": [
+    {
+      "path": "RED_WINTER_SECRETARIAT_MONOGRAPHS/BLUE_ARCHIVE_CHERINO_CHARACTER_MONOGRAPH.md",
+      "bytes": 36985,
+      "sha256": "f4c4f38775db0fa4809882cb64e1065890c5adad5de7964c400799306356aa1f",
+      "git_blob_oid_of_actual_bytes": "8ff1df5b5a578c1a0119cd438e55e9cff840a09b",
+      "immutable_transport_path": "immutable_originals/RED_WINTER_SECRETARIAT_MONOGRAPHS/BLUE_ARCHIVE_CHERINO_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "RED_WINTER_SECRETARIAT_MONOGRAPHS/CHERINO_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 122907,
+      "sha256": "7f25844ded0a556fc4b017685bbefe981734611310ef741f534ea75c08980a74",
+      "git_blob_oid_of_actual_bytes": "dd248843792c0f80826eb0458b93d387c1f24818",
+      "immutable_transport_path": "immutable_originals/RED_WINTER_SECRETARIAT_MONOGRAPHS/CHERINO_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "RED_WINTER_SECRETARIAT_MONOGRAPHS/CHERINO_FROZEN_OUTPUT_MANIFEST.json",
+      "bytes": 3464,
+      "sha256": "6fa07920dc66003e73563995ae2c16dd22303f5f4224c3461c9ac7af5ea901ca",
+      "git_blob_oid_of_actual_bytes": "034be0bfb84fd89e8fb5781cb468aca659a41306",
+      "immutable_transport_path": "immutable_originals/RED_WINTER_SECRETARIAT_MONOGRAPHS/CHERINO_FROZEN_OUTPUT_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_CHERINO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 4956,
+      "sha256": "ab2627632560261df3ff2ae38612e869096cd47b284bed105d2aa0c0bd3c34c5",
+      "git_blob_oid_of_actual_bytes": "eecf846bbb74c42e8f8d555d7e485424723ff4dc",
+      "immutable_transport_path": "immutable_originals/ROOT_CHERINO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "RED_WINTER_SECRETARIAT_MONOGRAPHS/CHERINO_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 8388,
+      "sha256": "bb205aa4ac25459a376561f3d56706e5f7a0dca397e9962deb3bcef2fa0524ce",
+      "git_blob_oid_of_actual_bytes": "7cb636a138a5a16e56dda7b1bfb8bee002f02fee",
+      "immutable_transport_path": "immutable_originals/RED_WINTER_SECRETARIAT_MONOGRAPHS/CHERINO_CURRENT_WORKTREE_METADATA_PROBE.json"
+    },
+    {
+      "path": "RED_WINTER_SECRETARIAT_MONOGRAPHS/CHERINO_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 7460,
+      "sha256": "2c6e97df4c8d39c148c09aa37d6d99c0cf51c8bd9ceae5524e62627685604f38",
+      "git_blob_oid_of_actual_bytes": "d12661a922a9c70f0b59c7fd073a80aca4c3956c",
+      "immutable_transport_path": "immutable_originals/RED_WINTER_SECRETARIAT_MONOGRAPHS/CHERINO_MONOGRAPH_RECEIVING_RECEIPT.md"
+    }
+  ],
+  "mandatory_claim_metadata_inverse": null,
+  "canonical_link_translations": [],
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

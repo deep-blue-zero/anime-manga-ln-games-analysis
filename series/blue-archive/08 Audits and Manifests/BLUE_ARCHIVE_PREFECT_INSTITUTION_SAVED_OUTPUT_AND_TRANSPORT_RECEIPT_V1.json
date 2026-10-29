@@ -1,0 +1,563 @@
+{
+  "schema": "BLUE_ARCHIVE_PREFECT_INSTITUTION_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "EXACT_C_ONLY_PROPOSAL_COMPLETE_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 52632,
+      "sha256": "532d726d6fd4aeed0debd3a27d898b988e488b52e1df127d2dc0c8c6cd2e8fb6",
+      "git_blob_oid_of_actual_bytes": "eed05607d41fdf91ff6ee2b67e4e32bfd88e4ab0"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 55142,
+      "sha256": "3473dc911afad1ebd9cde76c80bda0fa659afa1de84dedc12c718724e0127e86",
+      "git_blob_oid_of_actual_bytes": "d7ee4d7c1331fdeedf261e50463d156e60ac8a93"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "series: BLUE_ARCHIVE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "original_lines_complete_text": [
+          "artifact_type: institutional_synthesis_candidate"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_artifact_type: institutional_synthesis_candidate"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          4,
+          5
+        ],
+        "canonical_lines": [
+          4,
+          5
+        ],
+        "exact_unchanged_lines": [
+          "required_home: P3-INST-PREFECT-PROTECTION-INFORMATION-FORCE",
+          "original_responsibility: GEHENNA::significant_relationship_and_institution_responsibilities::1"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          6,
+          6
+        ],
+        "canonical_lines": [
+          6,
+          6
+        ],
+        "original_lines_complete_text": [
+          "status: C_ONLY_AUTHOR_CANDIDATE_ROOT_RECEIVING_PENDING"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_status: C_ONLY_AUTHOR_CANDIDATE_ROOT_RECEIVING_PENDING"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          7,
+          11
+        ],
+        "canonical_lines": [
+          7,
+          11
+        ],
+        "exact_unchanged_lines": [
+          "source_capture: afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+          "created: 2026-10-10",
+          "performed_voice: NOT_RECEIVED",
+          "reconstruction_model: NONE",
+          "original_gaps: G01-G14_OPEN"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          12,
+          11
+        ],
+        "canonical_lines": [
+          12,
+          21
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "artifact_type: institutional_synthesis",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PREFECT_INSTITUTIONAL_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: 7a146891ad9ffd999b2c4377d66a73313217a510",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          12,
+          14
+        ],
+        "canonical_lines": [
+          22,
+          24
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# The Prefect Team: protection, information and answerable force"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          15,
+          14
+        ],
+        "canonical_lines": [
+          25,
+          26
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/afb/bf5/count statements remain creation-time history. Published114 source 7a146891ad9ffd999b2c4377d66a73313217a510/tree b726ef7a1a3a103d3011cf708a169eb8c7d659df has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed six-package115–120 proposal takes effect only through complete ROOT installation, yielding120 (95character/12directedrelationship/5ensemble/8institution) and the unchanged10 completed non-denominator named duties. Later121+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** All246 literary lines,65 claims,78 saved blocks and six rivals retain protection, information, work, food/leisure, power, actual victims and incomplete accountability.20 normal source qualifications, three complete preseal histories and exact inverses survive. Character monographs, Hina–Ako and Pandemonium are separate responsibilities, not completion by proxy."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          15,
+          246
+        ],
+        "canonical_lines": [
+          27,
+          258
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "## Authority and literary question",
+          "",
+          "The existing required institutional home asks how the Prefect Team protects people while remaining answerable for its information, labor and force. It is independent of Hina, Ako, Iori and Chinatsu's character studies, the Hina–Ako relationship, the Pandemonium institution, and the other Gehenna clubs. Those arguments provide situated evidence; their acceptance cannot complete this question by proxy. No new named duty is proposed. This candidate awaits ROOT's complete literary receiving and exact acceptance.",
+          "",
+          "The source boundary is the accepted written analytical corpus. The maintained Cycle008 contextual accounts govern present admission and meaning; older checkpoints retain chapter-local conclusions and creation-time restrictions, not current denial of the completed contextual intake. This author received the accepted arguments at the exact scopes in the accompanying receipt, with declared reuse of personally received earlier meanings. No MAIN or supplemental primary was replayed for this study, and no raw commands, audiovisual performance, hidden documents or external lore were newly received. The literal sources retain `electricgoat/ba-data@jp` and corpus-specific provenance; the current selected pin is `a038020f1f5ac02dcfe76962426d38f86414cdd8`. Written source order is not a world calendar.",
+          "",
+          "**Thesis.** The Prefect Team is most intelligible as an institution of delegated protection whose legitimacy is repeatedly tested by whether its work can be explained, shared, opposed and corrected. It produces real protection, organized care and chosen cooperation. It also commits premature custody, participates in selective coercion, and leaves important repair unprinted. Fatigue and arbitrary treatment by Pandemonium make its working conditions concrete; they do not excuse its own imposition. Ordinary rest, food, music, study, clothing, privacy and wanted company reveal what protection is for, and whose needs a successful operation can still overlook. The argument follows those goods and adverse cases together rather than deriving a permanent moral state from one victory or one apology. [S00] [S01] [S02] [S06] [S07]",
+          "",
+          "## 1. Governance rather than school mythology",
+          "",
+          "Gehenna's recurring disorder can make the Prefect Team appear to be the sole serious institution in a school defined by freedom. That description is too coarse. The accepted sources show particular disturbances, particular decisions and conflicting authorities. A report about a club's destruction is not the entire school; a demand by Pandemonium is not necessarily a completed administrative act; and the ability to stop opponents is not an inspected charter granting unrestricted jurisdiction. The institution emerges through work performed and contested, not through a school emblem or Hina's reputation alone. [S01] [S02] [S05]",
+          "",
+          "GROUP1901 supplies the work setting. Ako opens a sequence of reports before Hina's approaching Pandemonium appointment. Hot Spring damage, the Gourmet Club's food quarrel and Fuuka's captivity, and PS68's forged absence-seal venture have different actors and consequences. The officers must classify reports, arrange action, anticipate costs and determine which office should process a problem. Hina's delegation of Hot Spring processing to Pandemonium is a decision in this setting, not a shown completed repair. Information-department leave extends the expected processing burden into the following week. An institution is visible in these queues, absences and dependencies even when a scene is comic. [S02]",
+          "",
+          "The office's purpose is also contested from within. In S2V002 C001 E017, Iori's protective dissent and Chinatsu's questions distinguish ordinary students' safety from conquest or merely following a superior's preference. Hina's earlier concern about abuse is reported in that discussion; it is not an unprinted institutional policy manual. Their distinction matters nonetheless. These students can articulate a reason for having guns which limits, rather than simply magnifies, the office's claim to force. Protection becomes a publicly disputable purpose. [S00] [S06]",
+          "",
+          "V001 makes the limits of jurisdiction concrete. Gehenna's operation against PS68 reaches Abydos, where Ayane and Shiroko reject unpermitted action in their school. Sensei makes that objection practically enforceable, and Hina subsequently interrupts, disciplines and apologizes before withdrawal. These are actual corrective acts. They do not retroactively authorize the earlier incursion or show that every officer understood the same procedural limit beforehand. Chinatsu's procedural concern, Iori's dismissive response and Ako's administrative arrival belong to different positions in that encounter. A school office can possess effective power while needing another school's resistance to expose where it overreaches. [S08]",
+          "",
+          "The Eden chapters add a further distinction. Hina describes distributed authority against Mika's fear that one person could seize the ETO, but no treaty charter is inspected. Later the treaty gathering is attacked, wounded participants need help, and Hina eventually accepts Justice and Abydos assistance in a local maneuver. Tactical agreement is positive governance in practice. It does not certify a signed peace regime, legal ETO substitution or comprehensive command restoration. The Prefect Team's institutional significance lies partly in cooperation possible under incomplete formal authority, with the incompleteness left visible. [S10] [S11]",
+          "",
+          "The resulting portrait neither requires a fictional constitution nor treats all action as lawless improvisation. The sources demonstrate appointment schedules, reporting functions, disciplinary action, operation-bound command transfer, budget dependency and relations with other offices. They leave the general rules and durable implementation of many decisions unverified. A source-bounded institutional study can explain the actual distribution of authority without inventing the missing instrument which would make that distribution permanent.",
+          "",
+          "## 2. Institutional agents and unequal distribution of work",
+          "",
+          "Hina's leadership is central but insufficient as an explanation. Ako receives and organizes information, forecasts problems, mobilizes resources and complains when work is pushed onto the team. Iori carries out intervention, can misjudge a situation, and can challenge a superior purpose. Chinatsu performs and interprets care, asks procedural questions and objects to unsuitable treatment. Anonymous singular and collective Prefects carry work and suffer consequences. The institution is this differentiated activity, not four interchangeable extensions of one leader. [S00] [S01] [S02] [S18]",
+          "",
+          "GROUP1901's injured officers are not just a number proving how busy Hina is. Reports include hospitalized Prefects and Iori while the Gourmet Club escapes. Fuuka's inward plea for rescue likewise remains a recipient's unmet need while officers debate lemon, coating, sauce and salt. Those tastes are meaningful ordinary preferences. Their placement in the report also exposes how an office's own interest can compete with attention to someone currently held captive. The literary point requires retaining both the pleasures and the person whose rescue has not thereby been completed. [S02]",
+          "",
+          "Ako's administrative work can be skilled and fallible at once. E844 presents her after three sleepless nights, responding to Sena's evidence and mobilizing heavy weapons. She admits that excessive firepower initially had a retaliatory purpose toward Teacher; she also recognizes that city damage would defeat the operation's point and refrains from simply firing. Neither an invariably prudent manager nor an indiscriminately destructive one fits the whole argument. Exhaustion explains conditions in which judgment occurs. It cannot turn her intention into an innocent one, or cancel the restraint actually shown. [S18]",
+          "",
+          "Iori's protective desire likewise has several outcomes. She departs before hearing Teacher's warning in E844 and is later found unconscious in sauce. She returns to participate and says she will not be careless again. Intent, failure, care by others and returned participation are distinct parts of institutional action. A protective role does not make her immune to needing protection; a failed intervention does not erase her meaningful later contribution. The institution depends on people able to be rescued, criticized and restored to local work, rather than on invulnerable personnel. [S18]",
+          "",
+          "Chinatsu prevents that pattern from becoming a simple cycle in which any response is justified because Gehenna is dangerous. In E844 she questions a painful method intended for other situations, objects to normalizing the incident through a Hot Spring comparison, and makes invisible Prefect labor audible. These are situated judgments, not clinical certification. They are institutionally important because they keep the recipient's pain and the appropriateness of methods in view, even while people are trying to solve a real emergency. [S18]",
+          "",
+          "E818016 makes relief depend on distribution. Hina reports resting at the joint medical station; Ako reports that other members helped and that she filled athletic slots with the Gourmet Club, especially Junko, whose speed she knew from pursuits. She finds that reliance objectionable but preferable to Pandemonium. Hina explicitly notices a change from Ako carrying everything herself, while Ako finds the praise complicated. Useful cooperation need not be uncomplicated liking. The event gives a local change in how work is carried, not proof that all future work is fairly distributed. [S14]",
+          "",
+          "Anonymous officers must remain visible without being silently joined to the named four or to one stable generic biography. A singular Prefect who likes crisp coating, collective hospital reports, a questioning field officer and an information-department absence have different source-local scopes. Their roles show participation, vulnerability and institutional capacity. The absence of a person join limits identity claims; it does not make their labor or objections analytically disposable. [S01] [S02] [S16]",
+          "",
+          "## 3. Ordinary ends: what protection makes room for",
+          "",
+          "The Prefect Team's work matters partly because its members want lives beyond responding to disorder. Hina wants quiet document reading, sleep, a coat, a meal, imperfect play, musical effort and particular company. Ako wants coffee, recognition, games even when they fail, and relief from exhaustion. Iori's ordinary repertoire includes recovered money, an intended nap, sunscreen, study failures, an entrusted album and privacy objections. Chinatsu wants tea, music, color, ribbons, shopping and a pleasant day; disliking paperwork or injections is not an absence of care. The complete current private comparison preserves these wants and their differing endpoints. They are not merely symptoms measuring readiness for the next crisis. [S00]",
+          "",
+          "This ordinary plurality changes the institutional question. A leader whose rest is valuable cannot be treated as inexhaustible capacity. An administrator's wish for attention is not automatically a communicated demand, and an inwardly imagined request is not knowledge held by its recipient. An officer who chooses one form of closeness or entrusts an album has not granted access to her body or every photograph. A caregiver's privately wanted outing need not justify itself through better professional performance afterward. Those distinctions identify goods that work can enable, consume or fail to respect. [S00] [S19]",
+          "",
+          "Food is especially revealing because it can be both wanted pleasure and organized obligation. The lemon quarrel in GROUP1901 gives officers distinct taste; it also sits beside Fuuka's captivity and reported officer injuries. GROUP1101–1102 offers genuine sensory attraction to a truffle while premature custody and an apology remain consequential. GROUP1104's helpers bring resources and offer cooking assistance but override Fuuka's request to ask before touching things. The story does not require us to choose between shared enjoyment and the cook's authority over her work. It asks whether enjoyment is being pursued with the person who must carry its cost. The School Lunch and Gourmet institutions retain their own independent questions. [S01] [S02]",
+          "",
+          "MINI050's birthday sequence makes a different kind of ordinary outcome explicit. Ako worries about cake cost and considers cheap delivery; the cakes are crossed, Chinatsu warns of possible diplomatic consequences, and Saya's telephone route permits private mediation rather than a newly established formal protocol. Hina first mistakes the surprise for a pretext to request leave and apologizes that Ako should not need to lie to obtain rest. The misunderstanding exposes a work relation in which permission to stop is important enough to shape interpretation of a gift. That apology belongs to the misunderstanding; it is not proof of completed labor reform. [S04]",
+          "",
+          "The sequence then supplies actual exchange and completed celebration. The cakes are exchanged, greetings occur, Rumi wants karaoke, others volunteer, and the narrator gives a successful party. Sensei arrives after the peers have already made joy possible; Reijo counters an account in which the adult must be its sole creator. Kisaki's particular first-name permission and Hina's singing boundary remain local. The party is a real positive endpoint despite uncertainty about every voiced turn and the absence of a later office audit. Recognition and celebration can be worthwhile without serving as evidence that the two schools have permanently reconciled. [S04]",
+          "",
+          "E833 makes Hina's music similarly irreducible to public rescue. Makoto's piano demand is designed as pressure, and Hina's willingness to accept a share of responsibility precedes that exact assignment. Ako objects to its unreasonableness while also wanting to hear Hina play. Sensei offers freedom not to accept; Hina thanks the consideration and explicitly accepts. Her effort and later written performance cannot be erased into pure submission. Equally, success cannot authorize the concealed burdens and public manipulation surrounding it. Wanted artistic achievement and unequal obligations coexist. [S17]",
+          "",
+          "The ending distinguishes those goods carefully. Narration reports that the disturbances were resolved and the party restarted. Written responses then establish positively received music, Hina's relief and thanks, her request for an escort and the beginning of enjoyable party time. The video directive does not give this author heard notes or inspected animation. Nor does the restart provide a fiscal or legal repair audit. It does give ordinary pleasure and recognition which would be lost if the analysis stopped at Makoto's failed trap or treated the performance only as Hina's proof of toughness. [S17]",
+          "",
+          "E818016 provides another quiet endpoint. Hina reports rest, a light examination and feeling better; her narration about Sena's warning does not automatically become information told to Ako. Hina apologizes for leaving work behind, Ako reports help, and an invitation to attend the campfire is accepted. A dance is not shown. The accepted company is nevertheless meaningful. Rest and reliance can revise an always-solitary image while leaving medical certainty, permanence and the coercion arc's accountability unclosed. [S14]",
+          "",
+          "Small gifts retain the same dignity. The current gift comparison keeps Hina's craft and distance request, Ako's reward and listening break, Iori's explicit refusal, and Chinatsu's direct stop. Objects kept, offered or not consumed can still matter. A pleased response does not cancel the earlier stop, nor establish blanket gratitude as consent. This is ordinary evidence about institutional people, not a newly generalized office gifting rule. [S19]",
+          "",
+          "## 4. Information, knowledge and the burden of explanation",
+          "",
+          "The Prefect Team repeatedly acts before information is complete. Its competence is not therefore best described as knowing the truth in advance. The stronger test is whether reports retain their source, whether uncertainty can be acknowledged, and whether people can correct an action made on an inadequate account. GROUP1901's damage and injury reports, GROUP1902's audit criteria, V001's jurisdiction encounter and S2V002's broadcasting mechanism all make different information problems visible. [S02] [S06] [S07] [S08]",
+          "",
+          "In GROUP1902, the criterion about Pandemonium newspapers has not been communicated to the office being judged. Iroha recognizes that field members may not know it, yet a deduction is imposed. This is not merely deficient paperwork by the Prefects. It is external authority controlling what counts as compliance while leaving the expected rule unavailable to the recipient. Such information asymmetry can generate failure regardless of Ako's preparation. Her apparently faultless papers cannot protect the office from a chair who has already selected rejection as the outcome. [S02]",
+          "",
+          "S2V002 produces a more dangerous information asymmetry. A six-word transmission has selective represented effects; Hina, Ako, Makoto and Sena change, while other students dissent. The source does not establish the complete operator, engineering authorship or universal mechanism. The return broadcast, personal appeal and narrative closure coexist, so the disappearance of the immediate incident cannot be causally apportioned to one factor. Labeling it all mind control would overstate the mechanism; denying the represented coercion because the mechanism is uninspected would also misread the action. [S06] [S07]",
+          "",
+          "The difference between private knowledge and communicated knowledge is particularly important in less dramatic contexts. Ako's internal essay, Hina's character-narration explanation at the festival and Sensei's inward interpretation of publicity are available to the reader in different modes. They are not automatically propositions every participant heard. Hina's self-assessed condition is not a doctor's report. Makoto's inability intelligence about Hina's music is not an objective skill test, and her later accusation of deliberate deception remains a new suspicion. Literary knowledge belongs to a perspective and a route. [S00] [S14] [S17]",
+          "",
+          "Actor distinctions also constrain interpretation. GROUP1902 preserves three display/text disagreements: the opening Makoto display with Ako text, a Chinatsu display with Iori text, and a Makoto display with Iroha text before the clean procedural limit. These are GROUP1902 witnesses; a shorthand in the private convergence should not move them into GROUP1901. GROUP3502 similarly distinguishes Hina's display from Meg's text-bearing gift and life account. The accepted raw qualifications refine specific meanings; this study does not replay raw commands or claim inspected engine behavior. [S02] [S03]",
+          "",
+          "Reported accusation must remain separate from established responsibility. In E860 Makoto guesses that Hina is obstructing rescue. The story does not verify that accusation. Sumika's later description leads an anonymous Prefect to identify Hina, producing a mistaken visit during summer training, not an apology to the intended Pandemonium recipient. Even a competent office can be inserted into another character's wrong account of an event. The institution study must refuse that causal assignment while retaining the actual disappointment of being mistaken for Makoto. [S16]",
+          "",
+          "This gives explanation an ethical force. If an office's authority depends on affected people understanding what happened, claims of intent or success cannot replace the missing records. Yet missing records do not imply that nothing meaningful happened. An apology, accepted invitation, withdrawal or protective maneuver can be securely local even when its broad cause or administrative afterlife is unresolved. The analysis should preserve both the event and the unanswered question, rather than treating uncertainty as permission to choose the most flattering or most cynical story.",
+          "",
+          "## 5. Rules, resources and labor under external authority",
+          "",
+          "GROUP1901 and GROUP1902 should be compared without inventing a next-day sequence. One presents weekly work and delegation; the other an audit. Together they show a capacity problem and a power problem. The first accumulates incidents, processing time and unavailable personnel. The second lets an external chair transform standards and hospitality into pretexts for punitive cuts. The institution's difficulty is not simply insufficient dedication. Dedication cannot make an unannounced rule known or require a preselected rejection to become fair. [S02]",
+          "",
+          "The source's numbers retain their actual status. A logistics forecast of 54 percent over three months is reported; the later proposed 95-percent cut and next-year zero are not approved final budgets. GROUP1902 expressly leaves formal administrative processing necessary. Likewise, Hina's request for a damage-cost report does not recover money, and a description of headquarters damage does not identify a shooter or prove a reversed audit. Exactness prevents comic escalation from becoming an invented fiscal history. [S02]",
+          "",
+          "Hospitality illustrates how ordinary wants and instrumental authority can coexist. Ibuki wants cocoa; that want is real. Iroha uses the treatment of that request as faultfinding within Makoto's instructions. Ibuki's trip and assurance that she is fine do not justify a zero-budget proposal. Nor does the bad audit erase the ordinary pleasures in a drink or the possibility of someone genuinely caring for Ibuki. The institution question concerns how a small good is converted into a sanction against people with less control over the criterion. [S02]",
+          "",
+          "E833 presents another claimed transfer of cost. Makoto says the statue production and placement contracts are in the Prefect Team's name, that Pandemonium controls its budget, and that the team does not know. The source supports a consequential covert cost-transfer claim by her. It does not display independently audited invoices, actual authorization, a definitive amount or completed collection. Ako's later resentment about nuisance being pushed onto the team gives recipient-side meaning to the asymmetry. The party's local success does not supply a ledger clearing that burden. [S17]",
+          "",
+          "Work cannot be made ethically sufficient merely by comparing it with a worse alternative. Ako's use of Gourmet athletes at the festival helps cover slots; her preference for that arrangement over Pandemonium does not demonstrate a generally fair labor system. Hina's rest is materially enabled by other people, and their chosen help matters. E844's work remains concentrated: Fuuka's rare free day is interrupted, Ako is exhausted, and Chinatsu reminds others of the Prefect Team and Hina's maintenance. An effective response can depend on capacity which the ending does not replace. [S14] [S18]",
+          "",
+          "The sources nevertheless supply real differences between imposed work and wanted work. Juri chooses service because it lets her experience customers enjoying something like her cooking, while Fuuka wants a day off. Later pressure to cook despite her warning is a different relation. This does not merge School Lunch into the Prefect institution. It supplies an exact comparison for judging claims that all service is either exploitation or selfless vocation: the task, its recipient, the option to refuse and the actual result must be kept together. [S18]",
+          "",
+          "Hina's artistic effort similarly should not become an automatic tax on her ability. She chooses to keep a promise and play; the demands and publicity that make her willingness useful to rivals remain adverse. A defensible institution would have to account for such imposed dependencies rather than narrating every successful extra task as evidence that the worker could afford it. The sources show this pressure and local resistance; they do not print a durable allocation rule which removes it. [S17]",
+          "",
+          "## 6. Force, care and answerability",
+          "",
+          "The Prefect Team's strongest adverse evidence is its own force. GROUP1101 begins with a reported dining-hall destruction and proceeds to arrest and gunfire notation. Hina's shift from disposal language to a command that opponents be barely alive does not supply casualty measurements or a proportionate-alternatives audit. Chinatsu's report of no resistance matters precisely because custody need not be narrated as a difficult battle. The action cannot become harmless solely because the register is comic. [S01]",
+          "",
+          "GROUP1102 gives an actual apology for prematurely arresting Sensei on a reported naked-swimming account. That apology is a correction, not empty rhetoric. The later aroma-based suspicion and threatening wording qualify any claim that the correction establishes an invariant of restrained procedure. The sound effect does not certify a death, a final adjudication or a lasting punishment. A local acknowledgment of error must be retained without being enlarged into either comprehensive reform or evidence that apology never matters. [S01]",
+          "",
+          "V001's withdrawal likewise benefits Abydos without establishing the office's prior right to intervene. Hina's later coalition role in the rescue of Hoshino is real; it does not retrospectively cancel the earlier coercion, nor Iori's separate adult-contact boundary. Hina's effective protection can coexist with inadequacy of the original institutional approach. The distinction gives affected students' objections explanatory power rather than treating them as obstacles the heroic leader eventually transcends. [S08]",
+          "",
+          "S2V002 intensifies that question. Ammunition restrictions, impossible ration demands and proposed protective custody become represented control. Sensei actually enters a cell; Shoko's encouragement and student action are part of the response. Students who question the direction are not merely unaffected background bodies. Their capacity to refuse, divert guards, exchange information and construct a coalition supplies an alternative to total obedience. The office's stated protective purpose is tested against what its methods make ordinary students undergo. [S06] [S07]",
+          "",
+          "After the immediate incident, Hina apologizes without accepting brainwashing as an excuse and offers resignation. Makoto rejects the offer, withdraws the plan and promises property return. Ako lists reconstruction, discipline and equipment matters. These are consequential responses and responsibilities. Actual property return, victim consultation, injury review, full reconstruction and durable discipline are not shown. Hina's subsequent private moral unease over enjoying justified violence must remain beside the warmth of care; neither cancels the other. [S00] [S07]",
+          "",
+          "E844 shows a different, bounded answer to command failure. Ako is incapacitated, and firing is blocked because authority has not been transferred. Hina explicitly transfers operation of the mobilized guns to Teacher and orders deployed personnel to follow Teacher for this operation. The scope is exact: it is neither universal Schale jurisdiction nor a standing surrender of Prefect command. Juri's decoy, returned Iori, Teacher's command and responders' actions make the outcome distributed. The institution can alter who may act in order to meet a real need, with the change publicly attributable. [S18]",
+          "",
+          "Care does not remove the need for answerability. Chinatsu and Sena assess Iori as not in mortal danger; later returned participation is shown, while the causal medical mechanism remains unverified. A painful waking method produces protest and objections. The event explicitly refuses treating Gehenna's recurrent danger as proof every treatment is suitable. Nor does helping a victim make the caregiver entitled to the victim's gratitude or future compliance. These limits are moral and literary observations about the represented encounter, not external medical advice. [S18]",
+          "",
+          "GROUP3502 offers a small contrary relation. Meg's snack errand does not establish a new digging offense; she uses a suspicious-bag script Kasumi taught her and experiences Hina's inquiry. A freely shared ice pop is accepted with thanks, while eating is not printed. Meg reports that she chose the work herself, and weather concern is reciprocal. This does not audit Hot Spring labor or declare every gift harmless. It shows that an institutional encounter with a frequent opponent can contain wanted work, uncertainty and particular kindness without becoming either bribery or proof of universal reform. Hina's separately required ice-pop/privacy duty retains its own acceptance scope. [S03]",
+          "",
+          "## 7. Recipient agency and reciprocal directions",
+          "",
+          "Answerability requires identifying recipients rather than treating protection as an action with no other side. Abydos students resist an unpermitted operation. Fuuka is captive or overburdened in different stories. Sensei can object, miss a warning, accept a delegated task or be wrongly detained. Gourmet actors can cause harm and still supply useful help. Justice and Abydos can offer cooperation without being reduced to Prefect resources. These directions are not equivalent, and none is exhausted by a report that Hina cares. [S01] [S02] [S08] [S11] [S14] [S18]",
+          "",
+          "Eden's coalition is especially important because Hina returns vulnerable. She voices exhaustion and a retirement wish, then retracts it as a request to lean on others and rejoins Ako. She accepts Justice and Abydos help; Ako offers opponent data and Ayane recognizes her. The dataset, receipt and measured effect are not printed. The relation is nevertheless a chosen exchange with people who have their own knowledge and stakes. It rebuts a monopoly of protection without claiming that tactical trust has become a formal truce. [S11]",
+          "",
+          "The Final volume widens that distributed pattern. Hina participates in a differentiated coalition rather than functioning as the entire defense. Gehenna evacuation aid, shelter food, missing civilians and technical teams have different duties and degrees of corroboration. Hot Spring Club's infrastructure damage remains a recipient problem even inside a shared crisis. Local rescue, a reported completed district defense, an observed normal sky and a broad public casualty statement have different evidence. The institutional reading should retain useful participation without making every allied action legitimate or a complete city audit. [S12]",
+          "",
+          "Cross-school help also carries moral and procedural limits. V006 C003 records medical aid from Trinity and Gehenna and residents unsettled by care from former enemies. Hina directly confirms her petition for Squad's parole in an inserted passage whose physical setting is unclear. Konoka reports fixed charges and sentences as well as approved parole, rejects Saori's extreme halo pledge, and stresses that parole is not innocence. Hina's contribution is meaningful support for a future; it does not cancel responsibility, prove all conditions or certify permanent safety. Emergency Medicine's aid is not automatically Chinatsu's performed treatment. [S13]",
+          "",
+          "E848's Iori–Ichika encounter gives a less dramatic reciprocal possibility. The accepted Item022 argument preserves awkwardness, a requested apology concerning a prior impression, freely offered cooperation over shared Gehenna responsibility, a briefly offered and withdrawn uniform compliment, and a readiness ending. It does not show an executed apology, patrol or treaty. Literal actor drift prevents giving every role to the printed name. Even at that bounded scope, the scene matters: an encounter between officers need not culminate in arrest or a crisis to test how one person will meet another. [S15]",
+          "",
+          "Private recipients remain independent too. Iori's explicit refusals, Chinatsu's direct stop and Hina's distance request cannot be overridden by a later smile. Ako's imagined demands cannot become obligations known to Sensei without communication. A freely accepted campfire invitation has a different endpoint from a completed dance; an actual birthday party has a different endpoint from wished future singing. These are claim-specific distinctions, not a general prohibition on interpreting intimacy or happiness. The institution's members are people whose boundaries continue while they are useful to others. [S00] [S04] [S14] [S19]",
+          "",
+          "The institutional consequence is that protection cannot be judged exclusively from the protector's side. The recipient's objection, delayed need, independent help or changed response can revise what the action means. Sincere intention and gratitude are evidence of particular acts; they are not transferable permission. Where response or aftermath is absent, the study leaves that direction unfinished instead of manufacturing agreement.",
+          "",
+          "## 8. Longitudinal ordering without a manufactured recovery timeline",
+          "",
+          "The public chapters allow local sequences. V001's unpermitted operation is interrupted and followed by withdrawal; its later rescue coalition is not the same act. S2V002 C001's selective transmission precedes C002's coercion, counterresponse and local closure. Eden C003 distinguishes missing and injured Hina reports from her direct return, a voiced wish to retire and subsequent acceptance of help. Final's district coordination, breach, takeover interruption and ordinary aftermath have their chapter order. Those sequences support changes in action and knowledge at each local point. [S06] [S07] [S08] [S11] [S12]",
+          "",
+          "They do not date the private and event repertoire. GROUP1901 and1902 are separate office stories, not a demonstrated consecutive week and audit day. E818's recollection context and afterstory number do not establish its place after S2V002 as a recovery trial. E833 supplies preparation days, a flashback and party-day relations, not a global Gehenna calendar. MINI050 supplies February dates without a universal year or MAIN anchor. Costumes and release timestamps cannot close those gaps. [S02] [S04] [S14] [S17]",
+          "",
+          "This independence is essential to the comparison. Hina's accepted piano role, Ako's peer reliance and Chinatsu's wanted ordinary day can complicate an interpretation drawn from a crisis without being invented causes of a later moral improvement. Recurrent motifs of fatigue, delegated work and desired company support a literary account of tensions. They do not establish that one lesson was retained permanently, that every later mistake occurred before reform, or that one variant is a later psychological stage. [S00] [S14] [S17]",
+          "",
+          "E860 shows why mode matters as much as sequence. Its actual holiday includes neglect, rescue, compensation and a mistaken visit to Hina during training. The subsequent tournament is retrospectively dream-qualified. Kanna's concession to an exhausted creature, school-conquest boasts and forced recruitment can matter within represented play without becoming real changes in Prefect or inter-school authority. An echo of a hermit crab does not authenticate the entire dream as an enacted event. The preservation of ordinary play makes interpretation richer precisely when its factual transfer is bounded. [S16]",
+          "",
+          "The longitudinal result is therefore a set of comparable tests with several securely ordered arcs, not a single ascent from coercion to rest. The same institution can protect and impose; the same member can welcome company and maintain a stop; the same office can be subjected to arbitrary scrutiny and commit its own wrong. A strong synthesis carries that coexistence across sources while refusing to manufacture the time relation that would explain it away.",
+          "",
+          "## 9. Language, comedy and perspective as institutional evidence",
+          "",
+          "Comedy repeatedly exposes mismatches between title, intention, labor and outcome. A serious report becomes a debate over fried-chicken taste while a hostage's need remains. Faultfinding converts cocoa and an uncommunicated newspaper rule into audit leverage. Repeated destruction becomes something Hina estimates without having counted. Those scenes do not give a statistical frequency, but they give characters ways of normalizing burden, noticing absurdity and preserving pleasure within work. Comedy changes perspective; it does not automatically annul the represented harm. [S01] [S02] [S17]",
+          "",
+          "The institution's language is consequently not one stable voice. Ako's formal loyalty, imagined demands, distress and workload complaints have different audiences. Chinatsu's procedural and caregiving questions differ from her private wishes. Iori's protective challenge cannot be reduced to her abrasive replies, and Hina's apology differs from her quiet, internal-style musical expectation. A source label that drifts across an exchange cannot support a precise speech signature. The accepted arguments preserve both coherent scene meaning and the lower confidence of isolated suspect turns. [S00] [S02] [S15] [S18]",
+          "",
+          "Japanese distinctions can change a claim without requiring a global translation repair. Ako's effective private question concerns what she wants next in Japanese, while a Korean rendering has a different task orientation. Hina's Japanese musical practice formulation and the corresponding Korean youthful-feelings wording are not one identical inner explanation. Written birthday condition differences likewise should not be normalized into an uninspected runtime occasion. Those local differences broaden possible reading while limiting what the institution study can claim about knowledge or motivation. [S00]",
+          "",
+          "Modes remain equally concrete. Sensei's alternative choices are not all enacted; inward text is not public testimony; narration can certify a party or a local closure without printing the mechanism; a character report can revise an earlier assumption without becoming a record audit. GROUP350's text-actor receipt and EVENT818016's five actor differences retain their declared written-command scopes. Neither supplies inspected voice, engine execution or the sound of an invitation. [S01] [S03] [S14]",
+          "",
+          "Ordinary forms also resist reduction to crisis symbolism. The ice pop is not only a lesson about policing; it is a wanted shared object. Piano is not only a trap reversed; it is effort, recognition and company. A birthday cake is not only diplomatic risk; it is preparation, exchange and celebration. The event can expose power through those forms because they are meaningful to the participants themselves. Removing their intrinsic ends would make the institution falsely appear to exist only when coercion or combat is occurring. [S03] [S04] [S17]",
+          "",
+          "## 10. Serious competing readings and contrary tests",
+          "",
+          "### Exhaustion excuses imposition",
+          "",
+          "This reading has real explanatory support. GROUP1901 accumulates work; information leave pushes processing later; E844 Ako is sleep-deprived; Hina wants rest in private and public scenes. Fatigue changes the conditions of action and exposes institutional dependence on particular people. The reading fails as an acquittal when placed beside premature custody, Fuuka's interrupted needs, city-damage expectations and the explicit refusal to use brainwashing as an excuse. A tired office remains capable of imposing on people who are also tired, vulnerable or misinformed. Fatigue should remain a causal condition and a serious good needing relief, not a moral transfer which cancels recipients. [S00] [S01] [S02] [S07] [S18]",
+          "",
+          "### Pandemonium's arbitrary treatment makes the Prefects innocent",
+          "",
+          "The audit, covert cost claims and piano pressure support a strong account of mistreatment. The Prefect Team lacks control over standards and fiscal dependency; Ako's complaints are not simply pride. Yet a rival authority's wrongdoing cannot validate the Prefects' earlier custody or their selective coercion. Even Pandemonium is not only its abusive acts: particular accommodation, Ibuki's wanted pleasure and E860's tangible boat compensation supply contrary evidence. The more adequate institution reading tracks direction and act: externally imposed burden, internally exercised force, chosen work and unfinished restitution require distinct judgments. [S01] [S02] [S07] [S16] [S17]",
+          "",
+          "### Successful protection proves durable legitimate governance",
+          "",
+          "V001's rescue, Eden's local maneuver and E844's operation-bound transfer all demonstrate effective help. The reading becomes too strong when it transforms those achievements into a standing rule or complete repair. Abydos's jurisdiction objection survives the rescue; treaty authority and datasets remain uninspected; the creature incident closes without a full city, cafe or victim-restoration record. S2V002's promised property return is not its execution. Success gives reason to recognize competence and meaningful cooperation, while the absent afterlife remains a material limitation. It neither erases the good nor completes the institution. [S07] [S08] [S11] [S18]",
+          "",
+          "### The institution is Hina's heroic or private psychology",
+          "",
+          "Hina repeatedly changes what can happen: she interrupts overreach, accepts help, apologizes, delegates command and undertakes artistic effort. These are central acts. A Hina-only account nevertheless loses Ako's information and resources, Iori's dissent and failure, Chinatsu's recipient-oriented questioning, anonymous officers' burden, Juri's decoy and other schools' chosen assistance. It also risks treating private care as causal proof of public reform. The institution is a distributed set of responsibilities with a strong leader; its literary responsibility cannot be satisfied by reproducing her monograph or diagnosing her mind. [S00] [S02] [S06] [S11] [S18]",
+          "",
+          "### Quiet pleasures and comic scenes are detachable filler",
+          "",
+          "The main danger in this reading is not only omission of charming detail. It changes the criterion of protection itself. Rest establishes a good being consumed by work; a stop establishes the limit of helpful attention; food shows a recipient whose labor enables other people's taste; music shows voluntarily undertaken effort inside coercive pressure. MINI050's completed party and E844's shared pancakes are real outcomes which a crisis-only criterion would make disappear. Conversely, their pleasure does not excuse the pressure or certify safety. The quieter evidence is indispensable because it can both affirm a wanted life and contradict an expansive claim about authority. [S00] [S03] [S04] [S14] [S17] [S18] [S19]",
+          "",
+          "### Variants and release order provide a recovery timeline",
+          "",
+          "This is tempting because the repertoire includes repeated fatigue, several forms of company, a musical achievement and increased reliance. The needed links are not printed. Current event and private arguments expressly preserve local order, recollection, mode and locale differences while refusing a universal calendar. Without those links, casting every adverse act before a later healed state would shield the institution from contrary evidence by invented chronology. A comparative synthesis can recognize locally noticed change and genuine particular outcomes while leaving persistence and transfer open. That is a stronger account of the sources than an ordered recovery story without its ordering evidence. [S00] [S04] [S14] [S16] [S17]",
+          "",
+          "The six readings share a problem when promoted beyond their scope: each makes one real consideration do all the work. The alternative argued here requires several simultaneous questions. Who knows? Who acts? Who carries the cost? Who can refuse? What changes locally? What repair is actually printed? This does not make judgment impossible. It permits exact positive judgments about withdrawal, invitation, command transfer, performance and collective aid while retaining contrary evidence and unfinished responsibility.",
+          "",
+          "## 11. Evidence route and residual obligations",
+          "",
+          "This is a complete proposed institutional literary argument at the allocated scope, not a reconstruction model, prediction, legal or clinical finding, scope amendment or ROOT acceptance. The current normal owners and the declared fresh/prior receiving ranges are recoverable in the accompanying input receipt. Its source copies preserve exact bytes; copying, hashing and current-commit comparison add no semantic or primary credit. The four character studies remain secondary qualified custody. The independently required institutions, relationships, ensembles and Hina's named ice-pop/privacy duty remain separate.",
+          "",
+          "The central positive result is that delegated protection can be effective without being morally self-certifying. The Prefect Team makes real room for safety, relief and chosen life; it needs others' knowledge and help, and its own force can harm or overreach. Its most convincing corrections are attributable and bounded: withdrawal, apology, an operation-specific transfer, recognition of reliance, respect for a particular limit. The source does not establish a durable general mechanism turning those acts into full institutional accountability. That residual is substantive, not a reason to discard the ordinary goods already shown.",
+          "",
+          "Every original stable gap remains **OPEN**. The table preserves the original fourteen questions; it does not reuse their IDs for a new local-limit numbering system.",
+          "",
+          "| ID | Original stable question | Current effect and remaining warrant |",
+          "|---|---|---|",
+          "| G01 | Ordinary and private breadth | Four Prefect families, food, gifts, music, rest and private refusals materially constrain the account. They do not establish an exhaustive ordinary repertoire or invariant psychology. |",
+          "| G02 | Yuuka council/club decision transfer | Prefect analogy supplies no completed Yuuka council/club transfer, generalized exception or security result. Her actual directions require their own evidence. |",
+          "| G03 | Serika service, peer and reciprocity range | Rescue or police service cannot substitute for Serika's recipient-specific work, reciprocity, wage or unfamiliar-peer outcomes. |",
+          "| G04 | Hina crisis causality, accountability and ordinary contrast | Coercion, apology, protective dissent and ordinary contrast are present. Operator causation, victim consultation, property return, injury review and durable repair remain unprinted. |",
+          "| G05 | Arius and PS68 ordinary/aftermath transfer | Parole petition, coalition and ordinary comparison do not establish innocence, lasting livelihood or completed legal/labor aftermath. |",
+          "| G06 | Cross-school ordinary repertoire | Specific shared food, celebration, care, company and cooperation retain value. None becomes a universal institutional norm or complete all-school comparison. |",
+          "| G07 | Story-world chronology | MAIN chapter-local sequence and explicit event transitions are retained. Variants, birthdays, release order and file numbers do not furnish the missing universal calendar. |",
+          "| G08 | Event naming and repeat contexts | Exact event IDs, blank titles, title offsets and recollection contexts remain. A repeat or gift record is not an extra enacted occasion. |",
+          "| G09 | Written speaker/choice attribution | Display/text seams, inward knowledge, reports, anonymous roles and alternatives remain bounded. No silent actor repair or universal precise voice attribution is claimed. |",
+          "| G10 | Performed voice | Written music, praise and video directives establish no heard delivery, inspected animation, notes or audiovisual performance. |",
+          "| G11 | Hoshino's Yume record and office states | Hina's intelligence and protection do not authenticate Yume records, death mechanics, lasting grief stabilization or one invariant Hoshino office state. |",
+          "| G12 | Counterpart, system and variant identity | Literal person keys and independent actors remain distinct. Collective Prefects, local strangers, repeated variants and system roles are not silently consolidated. |",
+          "| G13 | Office, contract, safety and technical outcomes | Local aid, custody correction, proposed budgets, command transfer and self-assessed rest do not certify lawful tenure, invoices, clinical efficacy, durable safety or full restitution. |",
+          "| G14 | Unclassified/mode continuity | Current selected written scopes are admitted at their limits. Dream, narration, UI conditions and outside-selection routes retain distinct modes; absence of conventional private material is no automatic exclusion. |",
+          "",
+          "The remaining institutional warrants are concrete. A stronger repair claim needs actual custody and property outcomes, affected students' responses, an attributable damage and discipline record, and the implementation of promised reconstruction. A stronger labor claim needs what happens to queues, relief, workload and fiscal dependency beyond local arrangements. A stronger technical account needs the transmission and reversal mechanism; a stronger formal-authority account needs the relevant instrument and its implementation. None is supplied by gratitude, a successful rescue, a normal-looking sky or a party which genuinely goes well. [S02] [S07] [S11] [S12] [S17] [S18]",
+          "",
+          "These limits should direct future recovery only when the corresponding claim is wanted. They do not require ritual replay of adequate accepted arguments or broad raw-source scanning. They also cannot be used to downgrade low-stakes material out of the analytical object: the wishes, refusals, wanted tastes and completed pleasures have already changed what the institution means. The scope is preserved at its actual written boundary, with ROOT's whole receiving and exact acceptance still required.",
+          "",
+          "## Source navigation",
+          "",
+          "The links identify accepted analytical owners, not new primary-reading claims. The receipt distinguishes complete fresh arguments, complete relevant current sections and qualified prior personal custody.",
+          "",
+          "[S00]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[S01]: ../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md",
+          "[S02]: ../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+          "[S03]: ../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_3501_3502_DEEP_READING.md",
+          "[S04]: ../../02%20Sequential%20Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[S05]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "[S06]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_CHECKPOINT.md",
+          "[S07]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_CHECKPOINT.md",
+          "[S08]: ../../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "[S09]: ../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "[S10]: ../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md",
+          "[S11]: ../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md",
+          "[S12]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "[S13]: ../../02%20Sequential%20Readings/MAIN/VOLUME_006/BLUE_ARCHIVE_MAIN_V006_C003_CHECKPOINT.md",
+          "[S14]: ../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_016_DEEP_READING.md",
+          "[S15]: ../../02%20Sequential%20Readings/EVENTS/EVENT_848/BLUE_ARCHIVE_EVENT_848_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[S16]: ../../02%20Sequential%20Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[S17]: ../../02%20Sequential%20Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[S18]: ../../02%20Sequential%20Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[S19]: ../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+          "",
+          "END OF PREFECT INSTITUTION CANDIDATE"
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "all_frozen_original_transports": [
+    {
+      "path": "PREFECT_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_PREFECT_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 52632,
+      "sha256": "532d726d6fd4aeed0debd3a27d898b988e488b52e1df127d2dc0c8c6cd2e8fb6",
+      "git_blob_oid_of_actual_bytes": "eed05607d41fdf91ff6ee2b67e4e32bfd88e4ab0",
+      "immutable_transport_path": "immutable_originals/PREFECT_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_PREFECT_INSTITUTIONAL_SYNTHESIS.md"
+    },
+    {
+      "path": "PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "bytes": 474970,
+      "sha256": "745b158710fdff5293a971f1073af8e9fea49d653a09c85c01993dce88fba013",
+      "git_blob_oid_of_actual_bytes": "55e43b248afa90aceabfb72996450c280d6802ab",
+      "immutable_transport_path": "immutable_originals/PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json"
+    },
+    {
+      "path": "PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_FINAL_FREEZE_V1.json",
+      "bytes": 19744,
+      "sha256": "7a575586217f37605222e2ed84315ab0bc5375c89c1b43db3bba9c70228c8cd7",
+      "git_blob_oid_of_actual_bytes": "62d057f7d8eb3b9fbd76a23b7ec63653f65b26d0",
+      "immutable_transport_path": "immutable_originals/PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_FINAL_FREEZE_V1.json"
+    },
+    {
+      "path": "ROOT_PREFECT_COMPLETE_SOURCE_SCOPED_INSTITUTION_ACCEPTANCE_V1.json",
+      "bytes": 6648,
+      "sha256": "aac198a39849d1560b34633c192269484a19f754089acbe7b4387b3626612668",
+      "git_blob_oid_of_actual_bytes": "5335e9a1f488f30c5db73fbf94fc8ab927cbf44d",
+      "immutable_transport_path": "immutable_originals/ROOT_PREFECT_COMPLETE_SOURCE_SCOPED_INSTITUTION_ACCEPTANCE_V1.json"
+    },
+    {
+      "path": "PREFECT_INSTITUTION_SYNTHESIS/pre_final_author_precision_history/BLUE_ARCHIVE_PREFECT_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 52615,
+      "sha256": "f138bf85a1ea9392cd665b24e496444201825e207adf68e61c39b6ba6c9c8e8e",
+      "git_blob_oid_of_actual_bytes": "edcd06a5b534edbc121056eb0a66974b60ea679a",
+      "immutable_transport_path": "immutable_originals/PREFECT_INSTITUTION_SYNTHESIS/pre_final_author_precision_history/BLUE_ARCHIVE_PREFECT_INSTITUTIONAL_SYNTHESIS.md"
+    },
+    {
+      "path": "PREFECT_INSTITUTION_SYNTHESIS/pre_final_author_precision_history/PREFECT_INSTITUTION_CLAIM_SOURCE_AND_LIMIT_REGISTER_V1.json",
+      "bytes": 234733,
+      "sha256": "1c3794d8a0b7e8fcc7bd074fe9f9aef15de8a131e1d5367e6880c48ed910563f",
+      "git_blob_oid_of_actual_bytes": "3016d1433c9c36a5ac5c62755e398a093b024f9e",
+      "immutable_transport_path": "immutable_originals/PREFECT_INSTITUTION_SYNTHESIS/pre_final_author_precision_history/PREFECT_INSTITUTION_CLAIM_SOURCE_AND_LIMIT_REGISTER_V1.json"
+    },
+    {
+      "path": "PREFECT_INSTITUTION_SYNTHESIS/pre_final_author_precision_history/PREFECT_INSTITUTION_SAVED_PARAGRAPH_REGISTER_V1.json",
+      "bytes": 75323,
+      "sha256": "3e16d6a363b96531e2ab4ba155d22eccb6d7181770b8957fcf4b87e7ab5f0413",
+      "git_blob_oid_of_actual_bytes": "54f27dd0a0524ca1e1a6a6756e82ae7d7d88d792",
+      "immutable_transport_path": "immutable_originals/PREFECT_INSTITUTION_SYNTHESIS/pre_final_author_precision_history/PREFECT_INSTITUTION_SAVED_PARAGRAPH_REGISTER_V1.json"
+    },
+    {
+      "path": "PREFECT_INSTITUTION_SYNTHESIS/PREFECT_AUTHOR_PRESEAL_PRECISION_AND_INVERSE_V1.json",
+      "bytes": 3937,
+      "sha256": "ab2b6f7b76116d815f52c446314271763f42919bd4949f86519220c4ee5be181",
+      "git_blob_oid_of_actual_bytes": "a4bc3dc0bdc78814ed1e9a3508c75d9f2b128a5f",
+      "immutable_transport_path": "immutable_originals/PREFECT_INSTITUTION_SYNTHESIS/PREFECT_AUTHOR_PRESEAL_PRECISION_AND_INVERSE_V1.json"
+    },
+    {
+      "path": "PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_AUTHOR_FINITE_VERIFICATION_V1.json",
+      "bytes": 44909,
+      "sha256": "b5c7d4a99479081ef007b9f78c7d67e65b014e02e14f798694dafaba722f41f9",
+      "git_blob_oid_of_actual_bytes": "26899b828c7105136b9d892b82fd0101d4743077",
+      "immutable_transport_path": "immutable_originals/PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_AUTHOR_FINITE_VERIFICATION_V1.json"
+    },
+    {
+      "path": "PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_CLAIM_SOURCE_AND_LIMIT_REGISTER_V1.json",
+      "bytes": 234761,
+      "sha256": "b6507fdd709155b6f4a10138967361ca89529c4f35f40bca70122254879cbfd8",
+      "git_blob_oid_of_actual_bytes": "6fcda79317b7f36b3da573066653041be42e1e8f",
+      "immutable_transport_path": "immutable_originals/PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_CLAIM_SOURCE_AND_LIMIT_REGISTER_V1.json"
+    },
+    {
+      "path": "PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_EXACT_DELIVERY_MANIFEST_V1.json",
+      "bytes": 19684,
+      "sha256": "ddc4d52b0eebaef90d004da5ff33387db385aae6feeb95bdb916199d8fcf7a56",
+      "git_blob_oid_of_actual_bytes": "f61b0f02f25cbedb3d204f54cddab7488a0eadf9",
+      "immutable_transport_path": "immutable_originals/PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_EXACT_DELIVERY_MANIFEST_V1.json"
+    },
+    {
+      "path": "PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_FINAL_AUTHOR_COMPLETE_RECEIVING_V1.json",
+      "bytes": 4414,
+      "sha256": "636f9f067bff15fc0c1edfa2653fb7ae0d6cac62776c07eb83508f8eb6dd9f16",
+      "git_blob_oid_of_actual_bytes": "a167c3bd60d257de169c2a77a77b9a5c7a2920dc",
+      "immutable_transport_path": "immutable_originals/PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_FINAL_AUTHOR_COMPLETE_RECEIVING_V1.json"
+    },
+    {
+      "path": "PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_FINAL_ROOT_RECEIVING_GUIDE_V1.md",
+      "bytes": 2635,
+      "sha256": "dcc80a560f4e8c81daffe249ee6ab93a252063ec7c4a561510bf18c4eac1e841",
+      "git_blob_oid_of_actual_bytes": "b3dc4b9559c8c791db886278e666546907fa2b89",
+      "immutable_transport_path": "immutable_originals/PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_FINAL_ROOT_RECEIVING_GUIDE_V1.md"
+    },
+    {
+      "path": "PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_READABLE_RECEIVING_RECEIPT_V1.md",
+      "bytes": 9122,
+      "sha256": "dd1a72faac42e6f7415b90dcdd1ab45bbe6c11d1a7aed6da770dc1304633a483",
+      "git_blob_oid_of_actual_bytes": "89d74b2b45783ae328fd3610f4461260663d5103",
+      "immutable_transport_path": "immutable_originals/PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_READABLE_RECEIVING_RECEIPT_V1.md"
+    },
+    {
+      "path": "PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_SAVED_PARAGRAPH_REGISTER_V1.json",
+      "bytes": 75351,
+      "sha256": "8bd820b06822387532b8daa2c7ba455de91fdee57afc2ec129537fae5df2c87f",
+      "git_blob_oid_of_actual_bytes": "62a5218b5519ac03c756d7032f8415062778c4af",
+      "immutable_transport_path": "immutable_originals/PREFECT_INSTITUTION_SYNTHESIS/PREFECT_INSTITUTION_SAVED_PARAGRAPH_REGISTER_V1.json"
+    }
+  ],
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 709413,
+      "sha256": "437af6ff6b9d9c378e1d1ac2517686e0f58809f0c3de9efa9bc5c594cdcb3ea4",
+      "git_blob_oid_of_actual_bytes": "471f81e85d1948b30800c0d008b5bbe00805aea9",
+      "attachment_names": [
+        "pre_final_author_precision_history/BLUE_ARCHIVE_PREFECT_INSTITUTIONAL_SYNTHESIS.md",
+        "pre_final_author_precision_history/PREFECT_INSTITUTION_CLAIM_SOURCE_AND_LIMIT_REGISTER_V1.json",
+        "pre_final_author_precision_history/PREFECT_INSTITUTION_SAVED_PARAGRAPH_REGISTER_V1.json",
+        "PREFECT_AUTHOR_PRESEAL_PRECISION_AND_INVERSE_V1.json",
+        "PREFECT_INSTITUTION_AUTHOR_FINITE_VERIFICATION_V1.json",
+        "PREFECT_INSTITUTION_CLAIM_SOURCE_AND_LIMIT_REGISTER_V1.json",
+        "PREFECT_INSTITUTION_EXACT_DELIVERY_MANIFEST_V1.json",
+        "PREFECT_INSTITUTION_FINAL_AUTHOR_COMPLETE_RECEIVING_V1.json",
+        "PREFECT_INSTITUTION_FINAL_ROOT_RECEIVING_GUIDE_V1.md",
+        "PREFECT_INSTITUTION_READABLE_RECEIVING_RECEIPT_V1.md"
+      ]
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "bytes": 81830,
+      "sha256": "faef253592e0fc875d98673d86146fd8d6ca0789e1deaa20a805dd48c580b69e",
+      "git_blob_oid_of_actual_bytes": "a235ee187c4fd82815f2974e519c5213cdc2affb",
+      "attachment_names": [
+        "PREFECT_INSTITUTION_SAVED_PARAGRAPH_REGISTER_V1.json"
+      ]
+    }
+  ],
+  "canonical_link_translations": [],
+  "mandatory_operative_qualification": "All246 literary lines,65 claims,78 saved blocks and six rivals retain protection, information, work, food/leisure, power, actual victims and incomplete accountability.20 normal source qualifications, three complete preseal histories and exact inverses survive. Character monographs, Hina–Ako and Pandemonium are separate responsibilities, not completion by proxy. 2026-10-11 operative correction: Chinatsu requests no resistance; the request does not establish whether resistance occurred. See operative_source_consistency_correction and its versioned register; historical wording is retained without current endorsement of these corrected details.",
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "operative_source_consistency_correction": {
+    "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+    "correction_ids": [
+      "BA-SC-20261011-02"
+    ],
+    "qualification": "Chinatsu requests no resistance; the request does not establish whether resistance occurred.",
+    "effective_canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PREFECT_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 55438,
+      "sha256": "7e42273afdeed7dd38bbdb99cedfb12d956bdad616ccc7d528a63f8a3318e9c7",
+      "git_blob_oid_of_actual_bytes": "46546cc796ff45078172da2846038e6a74e92019"
+    },
+    "prior_canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PREFECT_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 55142,
+      "sha256": "3473dc911afad1ebd9cde76c80bda0fa659afa1de84dedc12c718724e0127e86",
+      "git_blob_oid_of_actual_bytes": "d7ee4d7c1331fdeedf261e50463d156e60ac8a93"
+    },
+    "preservation": "Original author/ROOT payloads, receipt decisions, source and paragraph hashes, attachment tuples, authority-framing snapshots and complete inverse ranges remain historical and unchanged. This dated correction governs current claim/endpoint use and the effective body binding; earlier canonical tuples and exact-unchanged-line labels describe the pre-correction snapshot. It does not claim new ROOT receiving, primary/media inspection, source admission, character identity, package, model, milestone or integration credit."
+  }
+}

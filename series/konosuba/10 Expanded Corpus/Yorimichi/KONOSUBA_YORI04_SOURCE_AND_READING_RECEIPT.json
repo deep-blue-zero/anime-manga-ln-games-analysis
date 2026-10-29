@@ -1,0 +1,205 @@
+{
+  "schema": "KONOSUBA_YORI04_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+  "source_id": "YORI-04",
+  "accepted_utc": "2026-10-19T03:57:28.974898+00:00",
+  "native_filename": "Konosuba - Short Stories - Yorimichi 4.epub",
+  "native_bytes": 10437818,
+  "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+  "OPF_member": "item/standard.opf",
+  "OPF_sha256": "ca1a08ee4b2ce96e79897b9f9fb12c142e685c24027335f860e457b705a998e2",
+  "language": [
+    "ja"
+  ],
+  "colophon": "この素晴らしい世界に祝福を！ よりみち４回目！;暁なつめ/三嶋くろね;角川スニーカー文庫/KADOKAWA;electronic2026-02-28ver.002;print-base2026-03-01;copyright2026;publisher山下直久.",
+  "admission_sha256": "a81d27ae47e61305771b43d4dd19a530b9ef12d609f0648abb3816187e9dd144",
+  "admission_utc": "2026-10-19T02:52:40.515958+00:00",
+  "preceding_full_gate_source": "f98205cf33575040fa9aa2706c4da99b86ad7d9d",
+  "preceding_gate_sha256": "f5392322f061b2ded5fbdc912cd503b3c7bc32cce5e56603a7cff1d6384b3d2f",
+  "preceding_fresh_reload_sha256": "2c0c8bfba771c6cad969b6c02774f399f1d629926faf6bdc5de4c692d44f113a",
+  "complete_uncoded_seal_sha256": "787a2a35f08924ca1048f9921e106647702e4e741d65e94ea0d4835fce52d797",
+  "complete_uncoded_seal_utc": "2026-10-19T03:35:10.750313+00:00",
+  "actual_reading": {
+    "all_textual_components": 26,
+    "all_native_P_slots": 2952,
+    "principal_P_slots": 2900,
+    "other_P_slots": 52,
+    "separate_bonus_narrative": false,
+    "bonus_P_slots": 0,
+    "nonfiction_P_slots": 52,
+    "individually_identified_bonus_narrative_groups": [],
+    "individually_identified_narrative_image_groups": [
+      {
+        "id": "YORI04-INTEGRAL-ILLUSTRATIONS",
+        "component_ids": [
+          "YORI-04-U012",
+          "YORI-04-U014",
+          "YORI-04-U016",
+          "YORI-04-U018",
+          "YORI-04-U020"
+        ],
+        "image_ids": [
+          "YORI-04-IMG011",
+          "YORI-04-IMG012",
+          "YORI-04-IMG013",
+          "YORI-04-IMG014",
+          "YORI-04-IMG015",
+          "YORI-04-IMG016",
+          "YORI-04-IMG017",
+          "YORI-04-IMG018",
+          "YORI-04-IMG019",
+          "YORI-04-IMG020"
+        ],
+        "scope": "Each actual illustration individually viewed; no additional unseen cause, consent or event from pose."
+      },
+      {
+        "id": "YORI04-AFTERWORD-CARTOON",
+        "component_id": "YORI-04-U021",
+        "image_ids": [
+          "YORI-04-IMG021"
+        ],
+        "scope": "Contributor dialogue/caption of D asserting continued Eris faith to pouting Chris; paratext not new validated enacted reunion."
+      }
+    ],
+    "individually_identified_embedded_narrative_groups": [
+      {
+        "id": "YORI04-STORY01",
+        "native_units": [
+          "YORI-04-U012"
+        ],
+        "start_P": 1,
+        "end_P": 546,
+        "scope": "Distinct fully read integral story; K firstperson; subordinate reports remain separate planes, no extra paragraph accounting."
+      },
+      {
+        "id": "YORI04-STORY02",
+        "native_units": [
+          "YORI-04-U014"
+        ],
+        "start_P": 1,
+        "end_P": 558,
+        "scope": "Distinct fully read integral story; female DarkStalker firstperson; subordinate reports remain separate planes, no extra paragraph accounting."
+      },
+      {
+        "id": "YORI04-STORY03",
+        "native_units": [
+          "YORI-04-U016"
+        ],
+        "start_P": 1,
+        "end_P": 573,
+        "scope": "Distinct fully read integral story; K firstperson; subordinate reports remain separate planes, no extra paragraph accounting."
+      },
+      {
+        "id": "YORI04-STORY04",
+        "native_units": [
+          "YORI-04-U018"
+        ],
+        "start_P": 1,
+        "end_P": 682,
+        "scope": "Distinct fully read integral story; K firstperson; subordinate reports remain separate planes, no extra paragraph accounting."
+      },
+      {
+        "id": "YORI04-STORY05",
+        "native_units": [
+          "YORI-04-U020"
+        ],
+        "start_P": 1,
+        "end_P": 541,
+        "scope": "Distinct fully read integral story; K firstperson; subordinate reports remain separate planes, no extra paragraph accounting."
+      },
+      {
+        "id": "YORI04-RETOLD-CINDERELLA",
+        "native_units": [
+          "YORI-04-U014"
+        ],
+        "start_P": 74,
+        "end_P": 103,
+        "scope": "Abbreviated narrator-retold embedded theater/fairytale plot only, not complete new independent fiction body; PalreadywithinSTORY02."
+      },
+      {
+        "id": "YORI04-MENTIONED-ADVENTUREBOOK",
+        "native_units": [
+          "YORI-04-U018"
+        ],
+        "start_P": 49,
+        "end_P": 49,
+        "later_identity_P": 675,
+        "scope": "Book stimulus, later full author identity, not full supplied/read book; already parent-accounted."
+      }
+    ],
+    "individually_identified_image_only_nonfiction_prose_groups": [
+      {
+        "id": "YORI04-PROFILES",
+        "component_id": "YORI-04-U010",
+        "image_id": "YORI-04-IMG010",
+        "scope": "Eight actual role profiles; humor labels not exhaustive psychology/guarantees and Chris profile does not reveal Eris."
+      },
+      {
+        "id": "YORI04-JACKET",
+        "component_id": "YORI-04-U022",
+        "image_id": "YORI-04-IMG004",
+        "scope": "Full bio/synopsis/cover/spine seen; uncertain tiny design-name spelling explicitly limited."
+      },
+      {
+        "id": "YORI04-TEASER-TEXT",
+        "component_ids": [
+          "YORI-04-U003",
+          "YORI-04-U004",
+          "YORI-04-U005"
+        ],
+        "image_ids": [
+          "YORI-04-IMG006",
+          "YORI-04-IMG007",
+          "YORI-04-IMG008"
+        ],
+        "scope": "Actual teaser dialogue/labels read, joins stories without independent event counts."
+      }
+    ],
+    "integral_image_only_prose_pages": 0,
+    "all_native_images_actually_viewed": 26,
+    "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+    "all_native_local_and_archive_text_image_hash_joins_reverified": 52,
+    "fresh_native_ZIP_CRC": "PASS",
+    "image_individual_scopes_control": true
+  },
+  "source_first_sealed_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 29309,
+      "sha256": "a81d27ae47e61305771b43d4dd19a530b9ef12d609f0648abb3816187e9dd144"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 175266,
+      "sha256": "091522ceb5cc15fa1c7f91d4dbb1cc4bed6c34db36e47271fe9f3f43c13146c5"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 165647,
+      "sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 22250,
+      "sha256": "614e7d4be1a9ad7223e0bc7476f93662e27b1fa22382c051f73c40a17e893a73"
+    },
+    {
+      "file": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl",
+      "bytes": 854,
+      "sha256": "b627504df465e1a71fb999fdf51d315ae030fd1e8fa9f4bb1ac25ed6d24cfeb4"
+    }
+  ],
+  "formal_coverage": {
+    "full_responsibilities": 17,
+    "selected_premises_not_census": 82,
+    "native_verified_short_form_context_witnesses": 76,
+    "local_unchanged_question_assessments": 31,
+    "append_only_decisions_across_ten_ledgers": 26,
+    "current_precision_qualifications": 47
+  },
+  "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02,YORI-03. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "no_independent_second_full_pass_native_human_audio_claim": true,
+  "source_first_originals_remain_exact": true,
+  "original_four_scores_and_14_future_fields_unchanged": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+  "midread_precision_context": "K07candor and K08direct-pressure contrary retained; no foreign-leverage K08confirmation. D08specific risk and M07full offered-face-saving guard kept distinct. All narrow technical successes do not establish whole-operation safety. Presealed secondaryYunpartial is not full C; Iris/CEfull scopes not tested; exact anchors/speakers corrected against native paragraphs before acceptance. Prior YORI02target-fit additive still current."
+}

@@ -1,0 +1,48 @@
+{
+  "schema": "konosuba.cohort48.source-safe-original-firsts-seal.v1",
+  "sealed_utc": "2026-10-25T14:17:27.505015+00:00",
+  "private_complete_seal_sha256": "9f027192f65e74a099f00cc86d0778f73ad50109be39457499c768d3a1cd91ec",
+  "exact_inputs": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_EXACT_INPUT_FREEZE_01.json",
+    "sha256": "d026b068d277f68f5969ad7ca8dad70f4b827e81aa2ec01af35ba39b4b95cab9"
+  },
+  "pins": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_A1_FIRST_01.txt",
+      "bytes": 603,
+      "sha256": "bbf5ec2e0ca6d9f543ee25610e49f23780af75e9c30122d3e2986d7a366d9d94"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_A2_FIRST_01.txt",
+      "bytes": 644,
+      "sha256": "443d0dd11b8207a600be4f92648cddeef4b34ece94ebbc34867baa6e75fecf68"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_B1_FIRST_01.txt",
+      "bytes": 679,
+      "sha256": "50d87fee5555ef1cc129fabce0926c4c12c9de3cf9180b039fd3059763099d13"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_B2_FIRST_01.txt",
+      "bytes": 673,
+      "sha256": "233378dd7166ab9405947fabe8292e6af8d7879b18222e8fd61089a5e42ce5a6"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_FIRST_OUTPUTS_01.json",
+      "bytes": 5828,
+      "sha256": "28ae1dfd8b10a4b9301b1366b3658339e7a7fc10f5458ccef4273ca941f944b8"
+    }
+  ],
+  "raw_original_firsts": 4,
+  "dependent_pairs": 2,
+  "first_ordinal": 1,
+  "direct_root_prose_authored_once": true,
+  "programmatic_prose_template": false,
+  "feedback_before_seal": false,
+  "post_feedback_repair": false,
+  "source_known_same_informed_root": true,
+  "all_inputs_rules_and_earlier_cases_visible": true,
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "not_any_final_StageD_successor": true
+}

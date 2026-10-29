@@ -1,10 +1,10 @@
 ---
 series: TOMOZAKI
 artifact_type: longitudinal_relationship_state_ledger
-scope: JP_LIGHT_NOVEL_V01-V11_PLUS_STORY_LOCAL_V06_5_AND_V08_5
-source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus explicitly routed side-story Volumes 06.5 and 08.5; source audit dated 2026-08-29"
+scope: JP_LIGHT_NOVEL_V01-V12_PLUS_STORY_LOCAL_V06_5_AND_V08_5
+source_boundary: "Historical audited Japanese main V01-V11 plus story-local V06.5/V08.5; additive owner-approved V12 local witness dated 2026-10-22"
 analytical_generation: V2_REMEDIATION
-generation: V1.4
+generation: V1.7_RECIPIENT_PRECISION
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -17,16 +17,16 @@ execution_reasoning_control: "Max (owner-directed for the current remediation op
 execution_reasoning_note: "The execution control is recorded as requested; no equivalence to ChatGPT Pro, a provider tier, or the durable reasoning class is claimed."
 reasoning_policy: "../../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md"
 reasoning_policy_version: "1.0"
-current_boundary: V11_OPEN_SPLIT_CLIMAX
+current_boundary: V12_LOCAL_RESOLUTION_WITH_EXPLICIT_OPENS
 ---
 
-# Bottom-Tier Character Tomozaki — relationship-state ledger through Volume 11
+# Bottom-Tier Character Tomozaki — relationship-state ledger through Volume 12
 
 ## 1. Responsibility, authority, and boundary
 
 This is the canonical cumulative home for **directional relationship and network state** in the admitted Tomozaki Japanese-light-novel corpus. It tracks what one actor wants from another, what each knows, what each has disclosed, where trust and leverage sit, how care and conflict alter the relation, whether refusal is usable, what ordinary presence sustains, which third parties change the field, and who actually has authority to choose an end.
 
-The ledger is longitudinal rather than terminal. A relation that is intimate at V11 was not therefore intimate at V01; a later disclosure does not become earlier actor knowledge; a repaired conflict does not become proof that a standing rule existed before the repair; and a current crisis does not erase prior reciprocity. V11 is the present source boundary, not a timeless endpoint and not the series ending.
+The ledger is longitudinal rather than terminal. A relation that is intimate at V11 was not therefore intimate at V01; a later disclosure does not become earlier actor knowledge; a repaired conflict does not become proof that a standing rule existed before the repair; and a current crisis does not erase prior reciprocity. V11 remains a preserved historical boundary; section 17 owns current V12 changes and their limits.
 
 ### 1.1 Evidence authority
 
@@ -51,7 +51,7 @@ V06.5 and V08.5 are not inserted as homogeneous bridges:
 - V08.5 likewise contains childhood material, V07–V08 interstitial relationship states, a Rena retrospective, an explicit alternate story, and a segregated adapted bonus. None may be treated as one post-V08 state.
 - A supplement can change **reader knowledge** while leaving the contemporaneous actors' knowledge unchanged.
 
-No V12 event, adaptation, translation, retailer bonus outside the lock, interview, or fandom account enters this ledger.
+The V12 extension is bounded to its newly admitted local witness; no later source, adaptation, translation, retailer bonus outside the lock, interview, or fandom account enters this ledger.
 
 ### 1.3 Bounded responsibility
 
@@ -334,7 +334,7 @@ Kikuchi rejects the smaller substitute person. She chooses Tomozaki as socially 
 
 V10 moves Kikuchi from a protected dyadic habitat into Tomozaki's peer, family, travel, and game-professional worlds. She names fear, enters anyway, develops independent ties, and joins the Hinami project. The pair can state reciprocal jealousy after Mizusawa physically catches her. Kikuchi also deliberately yields the private ride to Tomozaki and Hinami. Her choice is valid and visibly costly; it is not permanent permission for every later Hinami-centered demand.
 
-V11 tests that distinction. Kikuchi directly asserts the couple's boundary when Rena takes Tomozaki's arm and belittles him. Later she tells Tomozaki that describing him and Hinami as mutually special hurts because he is her boyfriend. When he rejects even her attempt to reach him, she names the failure of her words to reach him; the call then ends. Her explicit statement makes the injury audible instead of silently absorbing another cost. The source does not identify who disconnects the call, so a deliberate unilateral hangup is not additional evidence of her boundary-setting (Section 14.4, COR-04).
+V11 tests that distinction. Kikuchi directly asserts the couple's boundary when Rena takes Tomozaki's arm. Rena's provocative appraisal and later 'cute' compliment are directed at Kikuchi; Fumiya's narration supplies the condescending reading. Later Kikuchi tells Tomozaki that describing him and Hinami as mutually special hurts because he is her boyfriend. When he rejects even her attempt to reach him, she names the failure of her words to reach him; the call then ends. Her explicit statement makes the injury audible instead of silently absorbing another cost. The source does not identify who disconnects the call, so a deliberate unilateral hangup is not additional evidence of her boundary-setting (Section 14.4, COR-04).
 
 Her fiction later reaches Tomozaki when direct reassurance cannot. He apologizes for his conduct and thanks her for making action possible. They reconcile around an explicit reason for the next story, while Kikuchi retains her own question about why she writes when interpretation may wound. Her request to involve the larger party prevents the couple from claiming exclusive rescue competence. It also opens new consent risks: the story uses Hinami-derived material, Hinami has not agreed, and no standing fictionalization rule governs the couple's work.
 
@@ -952,3 +952,66 @@ When a new admitted source is read:
 ### v1.4 — 2026-09-13 — bounded Mimimi R05 propagation
 
 - Reconciled the V09 temporary separation and resumed private walk, partial affirmative self-regard, bounded consent to continued leaning, and Tomozaki's partial conversation knowledge. Preserved all REL identities, historical source routes, earlier integration enrichments, and unresolved future policies.
+
+## 17. V12 directional relationship and network extension
+
+Sections 5–14 preserve the prior chronology and accepted R01–R05 qualifications. This extension owns current V12 changes; it does not turn a later result into earlier consent or knowledge. The [V12 reading](../02%20Sequential%20Readings/TOMOZAKI_V12_DEEP_READING.md) §§3–9 supplies the full argument and local claim IDs. The witness is the owner-approved local EPUB with SHA-256 `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c`; `p0011:P46–113` means `item/xhtml/p-0011.xhtml` with all HTML paragraphs counted from one, including empty/image elements. The [V12 completion audit](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md) owns atomic-source acceptance and validation. No later specialist gate is promoted here.
+
+### 17.1 Directional changes, third-party effects, and boundaries
+
+| Relation | A → B: shown act, wish, or access | B → A: shown response or contribution | Boundary / third-party consequence | Exact source route |
+|---|---|---|---|---|
+| Fumiya ↔ Kikuchi: care and allocation | He owns wanting to help Hinami while explicitly knowing his formulation will secure Kikuchi's acceptance and understanding its unfairness (P96–98); later identifies particular beloved conduct beyond writing utility. | She challenges exhaustion/unique-savior arrogance, offers care, initially refuses a trip companion, later accepts a changed invitation, and initiates touch. | Specific agreement is real; unequal pressure, time, privacy and future allocation remain unresolved. A changed invitation does not invalidate the initial refusal. Shared inn room does not establish a sexual act. | p0011:P46–113; p0013:P563–591; p0014:P158–206; p0016:P91–190 |
+| Fumiya ↔ Kikuchi: authorship and future | He requests particular draft circulation, receives permission, contributes experiences, and later asks about her reason. He must answer what he wants to show as a professional. | She consents to that circulation, stops the imposed-answer meeting, chooses observation and prayer, completes the story, and challenges effect-as-proof. | Author permission, modeled-subject permission, a reader's uptake and publication rights are separate. His final report of Hinami's tears does not certify Nagisa's voice. No contract or comprehensive joint rule. | p0011:P233–278; p0013:P384–487; p0021:P95–149, P418–433; p0026:P106–173 |
+| Fumiya ↔ Hinami | He gives a final shared-story offer after the collective relay and immediately retracts a proposed Nagisa-substitute role. His enduring reassurance is explicitly an ungrounded commitment. | She reports slight self-liking, later returns to public peers, accepts stage play and says she has stopped clinging to correctness. | The reader knows her private chapter; Fumiya does not automatically know it. Local response does not supply prior permission, full forgiveness, coaching resumption, presidency or durability. No romantic declaration or final game result. | p0022:P1–110, P825–979; p0024:P9–12; p0026:P15–102, P212–284 |
+| Fumiya ↔ Mimimi | He and Kikuchi receive her actual interview and embodied race contribution; he remains Kikuchi's selected partner. | She acknowledges continuing love and temptation to exploit his post-play weakness, but owns refusing because she wants to like the person she chooses to be. | Self-regard and restraint strengthen, without ending love, requiring indefinite waiting, or prescribing all future private contact. Their joint council-preparation neglect creates costs outside this tie. | p0013:P26–169; p0026:P177–202 |
+| Mimimi ↔ Tama | Tama's earlier person-specific care remains part of Mimimi's valued history; both are present beside Hinami at the event. | Mimimi fears that without Tama physically present she may struggle to like herself and seek a replacement source of worth; she does not expect Tama abruptly to abandon their bond. | This is not repudiation of Tama, a new reciprocal promise, or proof all dependence is harmful. Mimimi's interview is new direct self-theory; no unshown Tama reply should be invented. | p0013:P26–79; p0026:P212–234 |
+| Fumiya ↔ Mizusawa | He shares the story, apologizes for particular disclosure, admits more pessimism than with Kikuchi, and awkwardly recognizes a best friend. | Mizusawa accepts that particular couple sharing, admits access to Hinami was one initial motive, describes later owned liking, thanks him and offers help. | Fumiya's mixed feeling remains; one origin is not the whole friendship. Particular acceptance is not a standing privacy waiver for himself or Hinami. | p0011:P331–504 |
+| Kikuchi ↔ Mizusawa / Mimimi | She asks the models to contribute, tries an Alcia/Sharif role-play and takes its challenge seriously. | Mimimi supplies lived refusal and embodied method; Mizusawa initially resists, agrees once, and helps produce a counterargument. | Acting a character is not a new Hinami disclosure or renewed confession. Pressure to participate remains visible. Their reasonable defense of message-bearing fiction is counterevidence to treating every desired effect as manipulation. | p0013:P86–169, P206–487 |
+| Hinami ↔ Mizusawa | Hinami reads a fictionalized Sharif and reacts to its challenge within her private chapter. | His actual new conduct is with Fumiya/Kikuchi and the party, not a renewed romantic declaration to Hinami. | Earlier V03 refusal remains. Fictional exchange and Hinami's identification do not establish a real new confession/reply, forgiveness or terminal pursuit rule. | p0011:P417–504; p0013:P206–260; p0022:P375–398 |
+| Hinami ↔ Haruka | Aoi refuses contact/book, later sees Haruka reading, accepts the bundle under pressure, and leaves for the park. | Haruka reads independently, cries, names Nagisa as her sister, urges Aoi, witnesses departure and alerts Fumiya. | The younger sister has a stake beyond courier function. Her action does not prove durable independence from Aoi's model; positive later uptake does not erase the original refusal. | p0022:P151–226, P449–454; p0024:P9–12 |
+| Hinami ↔ Nagisa / Yoko | Aoi remembers guilt, prayer-room trigger and affection, and finds an address of love within an authored reunion. | No new living Nagisa or Yoko testimony is supplied; the modeled sister speaks within fiction. | Death mechanism, prevention, grade chronology, Yoko's interior and named religion remain OPEN. Loving prayer and reused birth-thanks language do not establish authentic last wishes or absolve all family methods. | p0022:P59–78, P504–513, P846–979; p0026:P114–119 |
+| Hinami ↔ delivery peers / public group | She refuses the house contact, suspects apology or a trap, reads later, and eventually sits with friends and accepts a stage match. | Yuzu/Nakamura/Takei deliver; Takei's volume reaches the room. Later banter and Yuzu's wave support ordinary re-entry. | Suspected motives remain hers. Yuzu's words are inaudible; no invented apology. Audience return is not full institutional role restoration or comprehensive network repair. | p0022:P114–158; p0026:P212–258 |
+| Couple ↔ Mitsu | They first accept refusal and later negotiate labor/access. Fumiya proposes and opens the package with Kikuchi's assent, later owns the proposal to Mitsu; they offer an unsolicited costume trial and return the loaned manuscript. | She refuses some help, delegates a scoped task to a trusted local, corrects/accepts parts of the trial, gives haori and lends records under constraints. | Changed permission is task- and recipient-specific. Costume usefulness does not retroactively authorize opening. Written blue-color name is correct; attached scarlet sample mismatches it. Exact mechanism/responsibility, diagnosis, publishing right and unstated spouse relation remain unestablished. | p0016:P305–497, P675–710/P790–809, P649–1055; p0018:P53–143; p0021:P209–249, P402–412 |
+| Mitsu ↔ Andy / island recipients | She maintains his archive, reports an ordinary fallible man and prior practices, and says a flawed fictional model helped her like herself slightly. | Surviving work and reported shared observation/story nights leave room for other recipients' independent alterations. | This is retrospective witness testimony, not omniscient mutual interiority. Festival participation permits different meanings without proving universal harmony; manuscript access is translation-mediated. | p0014:P331–465; p0016:P517–580, P861–1055; p0018:P147–250; p0021:P235–391 |
+| Party ↔ school / Ashigaru | Fumiya and Mimimi's story work displaces preparation for the actual school career event. | Ashigaru carries the underprepared public event with his professional account. The text does not establish whether he composed the talk extemporaneously. | Distributed intervention has externalities and repair labor. Professional testimony is not Fumiya's contract, viable income or completed practical route. | p0026:P177–202 |
+
+### 17.2 All sixteen REL identities — current dispositions
+
+| Stable identity | V12 disposition | Evidence / residual constraint |
+|---|---|---|
+| REL-C01 | **STRENGTHEN** | Learned manners and fiction can carry directly received friendship/affection (p0011:P455–504; p0016:P156–190); origin does not decide all later ownership. |
+| REL-C02 | **REVISE current reciprocity** | Fumiya's lost rescue credential is not restored by a win; Hinami responds to shared fiction/play (p0026:P15–102, P231–284). No equal jurisdiction over each other's ends. |
+| REL-C03 | **STRENGTHEN** | Successful reception coexists with prior refusal, invasive portrayal and event costs (p0022:P114–284; p0026:P177–202). Care is not authority. |
+| REL-C04 | **STRENGTHEN** | Draft circulation permission, trip refusal, changed acceptance and bounded loan are distinct permissions (p0011:P233–278; p0013:P563–591; p0014:P158–206; p0021:P209–249). |
+| REL-C05 | **STRENGTHEN local repair / OPEN policy** | Actual care and renewed reciprocal questions deepen the couple (p0011:P46–113; p0026:P106–173), without creating all prospective rules or rewriting the V11 call. |
+| REL-C06 | **PRESERVE** | Kikuchi remains the chosen partner; Mimimi's love and Hinami's exceptional tie remain consequential without automatic romance (p0013:P86–169; p0026:P106–173, P261–284). |
+| REL-C07 | **STRENGTHEN restraint / OPEN terminally** | Mimimi owns refusing opportunism while retaining love (p0013:P103–154). No end of feeling, perpetual waiting or complete contact policy. |
+| REL-C08 | **PRESERVE OPEN classification** | The Nagisa-substitute offer is immediately withdrawn (p0026:P40–47); shared play and final address do not establish romance or permanent non-romance. |
+| REL-C09 | **STRENGTHEN limit** | Mizusawa's scoped acceptance is direct; Hinami's 'nearly everything told' is her inference (p0011:P374–390; p0022:P400). No blanket transfer receipt or prior Hinami permission. |
+| REL-C10 | **STRENGTHEN** | Unavailable dead voice, semantic-ruby identification and tears-not-proof explicitly maintain model/testimony separation (p0021:P11–33; p0022:P846–979; p0026:P114–119). |
+| REL-C11 | **REVISE current warrant** | Shared play no longer requires Fumiya's V11 cross-domain superiority credential. No final new result changes that historical defeat (p0026:P231–284). |
+| REL-C12 | **REVISE execution / OPEN governance** | Four-person party, changed method, relay delivery and actual reading now occur (p0011:P511–543; p0013:P384–487; p0022:P114–226). Prior subject consent, stopping policy and cost allocation remain incomplete. |
+| REL-C13 | **STRENGTHEN** | Food, sunset play, craft labor, color/context, café exchange and public peer presence give ordinary ties explanatory force (p0016:P35–190; p0018:P53–180; p0026:P106–234). |
+| REL-C14 | **PRESERVE / explicit NO CHANGE** | No new Rena conduct retests her internal boundary. An unwritten afterword topic supplies no reform (p0029:P9–19). |
+| REL-C15 | **PRESERVE / no new accountability** | Tama's richer owned ethic and calm Konno recollection do not supply Hinami's revenge repair or Konno/Akiyama restitution (p0014:P30–140). |
+| REL-C16 | **PRESERVE pursuit OPEN / REVISE friendship** | Mizusawa's vulnerable friendship grows, but role-play is not renewed confession; earlier refusal survives (p0011:P417–504; p0013:P206–260; p0029:P9–19). |
+
+### 17.3 Specialist handoff and unresolved standing
+
+The three mandatory central dyads remain independent responsibilities. Mimimi/Tama requires dedicated or coequal treatment of valuable rescue, role loss, exclusive recognition and self-regard; the group needs a separate distributed-care/intervention account with channels, refusal, gatekeeping, practical obligations and nonprotagonist labor. Hinami/Mizusawa, Fumiya/Mizusawa, Hinami/Tama, Fumiya/Rena and Kikuchi/Mimimi remain explicit cases even if consolidated. Class punishment mechanisms belong to the social-system specialist; this particular peer network's ties and costs cannot disappear into that general mechanism.
+
+V12's local uptake does not settle exhaustive couple allocation, disclosure/representation rules, pursuit/contact stops, Yuzu's capacity, Rena's internal reform, Konno/Akiyama accountability, full family repair, or durable institutional return. A new actor's knowledge needs a shown communication route; reading a model does not provide every source interview or private supplemental thought. Narrative resolution and ethical adjudication remain different findings.
+
+### V1.5 — 2026-10-22 — atomic V12 extension
+
+Added the current directional/knowledge matrix, all-sixteen-REL dispositions, ordinary-life and labor consequences, and bounded specialist handoff. Preserved prior chronology, IDs, accepted R04/R05 enrichments and historical receipts. Current boundary metadata advances only with the complete six-owner source transaction and its reviewed validation.
+
+### V1.6 — 2026-10-23 — individual initiation and sample precision
+
+The §17.1 care row now retains Fumiya's directly narrated awareness of securing Kikuchi's acceptance and its unfairness, not only his knowledge of her likely answer. The couple/Mitsu row now identifies his proposal, opening and later acknowledgment separately from Kikuchi's assent and their joint repair trial. The earlier generic “label error” is narrowed to the mismatched sample/name pairing: the written color name is correct. Independent reviewer and integrating-author original returns, source convention, previous shorthand and residual uncertainty are recorded in [CRI §21](TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md). All sixteen REL identities and historical source-facing records remain unchanged. No general consent rule, culprit, diagnosis or completed literary convergence is inferred.
+
+
+### V1.7 — 2026-10-23 — Rena's recipient and focalized appraisal
+
+R07 review returned to V11 `item/xhtml/p-0028.xhtml` P210–258. Section 6's earlier phrase that Rena takes Tomozaki's arm and 'belittles him' assigned the appraisal to the wrong recipient. P228 explicitly directs her provocative/looking-down manner toward Kikuchi; P240–244 gives her appraisal and 'cute' compliment to Kikuchi, with Fumiya's condescending interpretation. P230–232 separately gives the arm-taking and his immediate removal, followed by Kikuchi's objection and relationship assertion at P233–239 and the sexual-remark request at P255. The current sentence is corrected; the original shorthand remains recoverable here and in Git. See [CRI §22](TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md). This adds no Rena interior, generalized future stop, new stable claim family or frozen-reading edit.

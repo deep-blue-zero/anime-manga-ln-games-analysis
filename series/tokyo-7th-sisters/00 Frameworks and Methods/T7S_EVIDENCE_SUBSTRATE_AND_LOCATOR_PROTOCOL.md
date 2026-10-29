@@ -4,16 +4,16 @@ artifact_id: T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL
 artifact_type: evidence_locator_protocol
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "1.92"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; preserved offline Japanese game; no sequential analysis consumed"
-architecture_lifecycle: INITIAL
+source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0188; complete source-lock JSON and two logical coverage roles maintained through checked manifest-bound physical components"
+architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-09
+last_updated: 2026-10-14
 ---
 
 # Tokyo 7th Sisters evidence substrate and locator protocol
@@ -140,7 +140,9 @@ Packets record lock digest, exact membership and ranges, query/parameters, adapt
 
 ### Exact membership and initial coverage
 
-The coverage ledger is an authored consumption/routing ledger with one record per exact script and catalog episode memberships, plus five exact supplemental tranches. It contains IDs and decisions; no copied source text or bulk metadata. Its META record declares field defaults. Missing fields inherit only those explicit defaults; unknown record types or fields are validation failures. A set of IDs alone is not evidence of reading.
+The canonical coverage ledger is one authored logical consumption/routing ledger represented by the [manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), the [current-or-consumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl), and the [routed-or-unconsumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl). Across the disjoint union it has one record per exact script and catalog episode membership plus twelve supplemental tranche records (ten active leaves and two inactive split parents): 661 current-or-consumed records and 929 routed-or-unconsumed records after B0188, 1,590 data records total. It contains IDs and decisions; no copied source text or bulk metadata.
+
+Each shard's META record declares its own field defaults. Expand every record with only its shard-local explicit defaults before interpretation; unknown record types or fields are validation failures. Record identity is `(record_type, script_id)` for `SCENARIO` and `(record_type, tranche_id)` for `SUPPLEMENTAL_TRANCHE`. When a routed record is consumed, move it atomically to the current-or-consumed shard while preserving its complete effective state, `decision_history`, and current decision fields. The manifest binds shard bytes, file hashes, membership hashes, record counts, partition rule, and the pre/post effective-state hash proving the split was lossless. A set of IDs alone is not evidence of reading.
 
 Use `SELECT script_id FROM scenarios ORDER BY script_id COLLATE BINARY` to recover all 1,578 scripts. Join `episodes` on script ID to recover all 1,350 catalog memberships and their qualified hierarchy. Additional scripts are the exact anti-join, not a filename guess. Supplemental membership recipes use namespace-qualified full IDs in BINARY order, UTF-8 without BOM and one LF per ID including the last. The source lock pins each membership digest, so an auditor can recover every still-unread record without a complete copied source registry in Git.
 
@@ -151,3 +153,206 @@ To split a supplemental tranche, retain its original scope/decision history, nam
 Resolve episode `201000001` to `scout_000_00_01.json__8df3fd723276f650` through the locked catalog. Read the complete structured source, select every page ordered by `log_order_index` and every line ordered by `line_index`, and compare each document-qualified native pointer with the selected document. The bootstrap adapter verified 195 pages and 190 text pointers and copied that one full structured source to an external packet with an exact receipt. No later script is included. That is a reproducible query-equivalent retrieval route; it does not claim a universal resolver or a semantic reading.
 
 For future script packets, repeat those checks for each explicitly admitted member and each inline child with its own provenance; fail on unbound documents or mismatches. For an ordinary query, pass IDs as parameters, verify the intended cardinality, compare native bytes/value and reject ambiguity. Never silently substitute search results outside the admitted horizon. Source access is required to verify the external evidence; the public repository does not redistribute it.
+
+## Revision history
+
+- 2026-09-09 — V1 / 1.0: establish the source/witness authority model, portable locator grammar, exact membership rules, and bounded first-operation query equivalent.
+- 2026-09-24 — V1 / 1.1: bind the coverage ledger as a manifest-governed, two-shard logical artifact after T7S_B0080–T7S_B0099; preserve all 1,590 effective records through a lossless partition and define atomic record migration for later consumption.
+
+- 2026-09-25 — V1 / 1.2: migrate both B0100 records with shard-local default expansion and complete history preservation; bind current effective state separately from the immutable original sharding proof.
+
+- 2026-09-25: migrate 2 complete T7S_B0101 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-25: migrate 2 complete T7S_B0102 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-25: migrate 2 complete T7S_B0103 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-25: migrate 2 complete T7S_B0104 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-25: migrate 2 complete T7S_B0105 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-25: migrate 3 complete T7S_B0106 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-25: migrate 3 complete T7S_B0107 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0108 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0109 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0110 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0111 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0112 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0113 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0114 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0115 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0116 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0117 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0118 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0119 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0120 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0121 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0122 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0123 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0124 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0125 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0126 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0127 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0128 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0129 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0130 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0131 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0132 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0133 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0134 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0135 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0136 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0137 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0138 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0139 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0140 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0141 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0142 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0143 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0144 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0145 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0146 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0147 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0148 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0149 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0150 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0151 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0152 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0153 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0154 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0155 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0156 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0157 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0158 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-09-26: migrate 3 complete T7S_B0159 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-11: migrate 3 complete T7S_B0160 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-11: migrate 3 complete T7S_B0161 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-11: migrate 3 complete T7S_B0162 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-11: migrate 3 complete T7S_B0163 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-11: migrate 3 complete T7S_B0164 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-11: migrate 3 complete T7S_B0165 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-11: migrate 3 complete T7S_B0166 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-11: migrate 3 complete T7S_B0167 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-11: migrate 3 complete T7S_B0168 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-12: migrate 3 complete T7S_B0169 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-12: migrate 3 complete T7S_B0170 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-12: migrate 3 complete T7S_B0171 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-12: migrate 3 complete T7S_B0172 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-13: migrate 3 complete T7S_B0173 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-13: migrate 3 complete T7S_B0174 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-13: migrate 3 complete T7S_B0175 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+## Analytical entity-storage retrieval
+
+The [entity owner](../03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md), [manifest](../03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER_MANIFEST.json) and [storage record](../09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md) represent one authored logical entity ledger. Bind current source-lock `physical_storage.entity_state_ledger` path/hash, then verify manifest/owner/all component full-file and payload lengths/hashes, direct series-relative paths, ordering and whole logical-view hash before reading or deriving entering state. Read the owner prefix before its unique route marker plus every ordered payload; the wrapper alone is incomplete evidence. Payload offsets exclude component metadata rather than changing transferred prose. Source locators and relative references retain their bytes and directory.
+
+Admission freezes retain physical source-lock and entity owner/manifest/component fingerprints plus the exact logical-view fingerprint. Native-page checks and edition bindings remain independent. An administrative version change consumes no episode and retargets no old path. Missing parts, stale hashes, duplicate owners, unsupported representation or failed reconstruction stop use. At that entity cutover, coverage retained its then two-shard representation; that historical change granted no general file-size or source-schema exception. The current control representation is defined below.
+
+- 2026-10-13 —1.78: add checked retrieval for B0175 entity storage; retain native authority, locator histories and modality/release gates.
+
+- 2026-10-13: migrate 3 complete T7S_B0176 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-13: migrate 3 complete T7S_B0177 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+## Analytical control-storage retrieval
+
+Bind the [physical SourceLock owner](../01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK.json), its exact [manifest](../01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK_MANIFEST.json) and every ordered source-lock component before reading any source-control field. Verify each full-file and payload length/hash, unique identity, contiguous logical byte interval, exact framing, direct series-relative path and final logical JSON length/hash. Check owner/manifest/logical version, witness, corpus alias and high-water agreement; use the separately reviewed reader projection. The original owner address remains the single current entrypoint; its wrapper is not the complete logical SourceLock. Binding its own manifest through the physical owner avoids a logical self-hash cycle.
+
+For [coverage](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), read all five declared JSONL components. Expand each row only with its own role's bound original META defaults; verify per-component counts/hashes and exact reassembly of both logical role views. Require the disjoint union of all1590 identities and the canonical effective-state digest. A null admitted horizon is a retained value, not a reason to exclude an active supplemental leaf. Separate source identity, narrative reconstruction, analytical integration and AV state fields keep their original meanings.
+
+Fresh prospective records capture the physical source-lock owner/manifest/components, the complete logical SourceLock fingerprint, all physical coverage shards and both whole logical role fingerprints/effective-state digest, together with the unchanged entity representation. Old freezes, receipts and path literals are historical and unmodified. Native equality, actually read Japanese/static evidence and performed audio/runtime observations remain separate. Source-lock12.83 is metadata storage only with B0177 unchanged.
+
+Missing/indirect/foreign parts, stale hashes, unknown schemas, owner/version/horizon mismatches, wrong inherited defaults and duplicate/missing effective records stop use. Monolithic consumers must be adapted through reviewed fresh code/hash bindings before another source extraction or closeout. Every physical file and actual quoted native argument retains its existing limit. The [control-storage record](../09%20Audits%20and%20Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md) owns the administrative mapping; it admits no new primary source or2053 semantics.
+
+- 2026-10-14 —1.81: add full checked SourceLock/coverage retrieval after B0177; preserve all historical native/source boundaries and modality/release requirements.
+
+- 2026-10-14: migrate 3 complete T7S_B0178 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-14: migrate 3 complete T7S_B0179 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-14: migrate 3 complete T7S_B0180 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-14: migrate 3 complete T7S_B0181 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+- 2026-10-14: move exactly seven Sisara Intimacy records with their full explicit routed defaults and retained histories; all1583 other effective records remain exact.
+
+- 2026-10-14: move exactly9 fullT7S_B0183records with explicit defaults/history; all1581other effective records retain bytes/values.
+
+- 2026-10-14: move exactly9 fullT7S_B0184records with explicit defaults/history; all1581other effective records retain bytes/values.
+
+- 2026-10-14: move exactly9 fullT7S_B0185records with explicit defaults/history; all1581other effective records retain bytes/values.
+
+- 2026-10-14: move exactly8 fullT7S_B0186records with explicit defaults/history; all1582other effective records retain bytes/values.
+
+- 2026-10-14: move exactly9 fullT7S_B0187records with explicit defaults/history; all1581other effective records retain bytes/values.
+
+- 2026-10-14: move exactly9 fullT7S_B0188records with explicit defaults/history; all1581other effective records retain bytes/values.

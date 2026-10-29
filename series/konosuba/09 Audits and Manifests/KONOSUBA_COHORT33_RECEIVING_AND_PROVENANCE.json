@@ -1,0 +1,522 @@
+{
+  "schema": "konosuba.cohort33.receiving-and-provenance.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "received_utc": "2026-10-24T10:43:54.974512+00:00",
+  "previous_published_source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+  "local_source_baseline_unpublished_main_merge": "40571cea9f7f7c596063ec511b40621c746a475c",
+  "main_at_receiving": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "preceding_source_audit_not_transferred_to_main_merge": true,
+  "semantic_receiving_sha256": "bd38bc1232d90c523f9a7888c36c0b84050dfeca21bc4ba79deb41bcf283a45d",
+  "foundation_seal_sha256": "acc4e8feb8c2401662e646c38d7b92472f9359c71802bd2ebb1fb13d34635cbd",
+  "foundation_review_sha256": "686298e25f16aeb67559da6f6612cdc050d024fc11b3801f8b1362114b061cab",
+  "exact_input_freeze_sha256": "f5e5c8dff6e3aa1a53e36135b5f08fee549f043efa85e20345d5683c5f97d5bb",
+  "body_freeze_sha256": "c467307506047789b68366a7ba5b0c7d61f51ffb62067a0d918e00e664cb652a",
+  "all12_frozen_private_artifact_pins": [
+    {
+      "file": "KAREN_DONNELLY_MONOGRAPH_DRAFT_01.md",
+      "bytes": 14161,
+      "sha256": "4e151803e88c7d65c810c39fdc2162803916cfcb7df8a7a81db6cb3e4df700f5"
+    },
+    {
+      "file": "KAREN_DONNELLY_MODEL_DRAFT_01.md",
+      "bytes": 11707,
+      "sha256": "13e6ee711061b56e081b79d48513a3c10dac9392040c87d3b56fd45abc284a93"
+    },
+    {
+      "file": "COHORT33_NEW_DISCOVERY_RECORDS_DRAFT_01.json",
+      "bytes": 5556,
+      "sha256": "ed8937ce409d3ec373d49e4a7c6cd50cd19c4925be3046d6ebd0ed6487f44da4"
+    },
+    {
+      "file": "COHORT33_SCOPE_ASSESSMENT_01.json",
+      "bytes": 4925,
+      "sha256": "66de57486a48e01b62fa1ff2f9444cf56b3dd2d22fae3d26a73cf619ba519843"
+    },
+    {
+      "file": "KAREN_DONNELLY_RULE_INVENTORY_DRAFT_01.json",
+      "bytes": 5910,
+      "sha256": "6111466c4a4e8ed9407f4daf0c1dd4aa8379ce8f53cffe2d8d9873fe37c6b599"
+    },
+    {
+      "file": "COHORT33_COMPACT_PROFILES_DRAFT_01.md",
+      "bytes": 6932,
+      "sha256": "660226acc3ff5ffcfa4ae06a072d830718dbd1ba6e25b97b2230e0c6c37e1c1e"
+    },
+    {
+      "file": "COHORT33_EVIDENCE_INDEX_DRAFT_01.md",
+      "bytes": 10971,
+      "sha256": "32cf43fb4efac36340b5b6fc05cc424ceb1edad2c9cd2d9421127f8b123b66a2"
+    },
+    {
+      "file": "COHORT33_NATIVE_PROVENANCE_DRAFT_01.json",
+      "bytes": 25042,
+      "sha256": "f406fab746e9103bdeba9d0b2251025f19d772bdc5231f93b15bb3f570a21b2c"
+    },
+    {
+      "file": "COHORT33_NAME_REFERENCE_CHECK_DRAFT_01.json",
+      "bytes": 4999,
+      "sha256": "89f0f46c268b1ddfb9580d066ed3b796c474134e72ee771b733d4401397d1097"
+    },
+    {
+      "file": "KAREN_DONNELLY_SCENARIO_INPUTS_01.json",
+      "bytes": 13219,
+      "sha256": "6cdcd7260dc0319165e500c233807f0e1c7bc24f5ee2b9963aebd0d78182f6fc"
+    },
+    {
+      "file": "KAREN_DONNELLY_FIRST_OUTPUTS_01.json",
+      "bytes": 9523,
+      "sha256": "dafbe945317813679b910c40f3cdca6d1ed6a06ebf664bb646b2edc5e686f79e"
+    },
+    {
+      "file": "KAREN_DONNELLY_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 12212,
+      "sha256": "26f69c914fdaf78df356c3619bc84d495704612555f012bcec49fec831ca5c6b"
+    }
+  ],
+  "core_artifact_pins": [
+    {
+      "private_file": "KAREN_DONNELLY_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KAREN_DONNELLY_CHARACTER_MONOGRAPH.md",
+      "bytes": 14161,
+      "sha256": "4e151803e88c7d65c810c39fdc2162803916cfcb7df8a7a81db6cb3e4df700f5"
+    },
+    {
+      "private_file": "KAREN_DONNELLY_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAREN_DONNELLY_RECONSTRUCTION_MODEL.md",
+      "bytes": 11707,
+      "sha256": "13e6ee711061b56e081b79d48513a3c10dac9392040c87d3b56fd45abc284a93"
+    },
+    {
+      "private_file": "KAREN_DONNELLY_RULE_INVENTORY_DRAFT_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KAREN_DONNELLY_EXPANDED_V1_EVIDENCE/KAREN_DONNELLY_RULE_INVENTORY_01.json",
+      "bytes": 5910,
+      "sha256": "6111466c4a4e8ed9407f4daf0c1dd4aa8379ce8f53cffe2d8d9873fe37c6b599"
+    },
+    {
+      "private_file": "COHORT33_EVIDENCE_INDEX_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md",
+      "bytes": 10971,
+      "sha256": "32cf43fb4efac36340b5b6fc05cc424ceb1edad2c9cd2d9421127f8b123b66a2"
+    },
+    {
+      "private_file": "COHORT33_NATIVE_PROVENANCE_DRAFT_01.json",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_NATIVE_PROVENANCE.json",
+      "bytes": 25042,
+      "sha256": "f406fab746e9103bdeba9d0b2251025f19d772bdc5231f93b15bb3f570a21b2c"
+    },
+    {
+      "private_file": "KAREN_DONNELLY_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KAREN_DONNELLY_EXPANDED_V1_EVIDENCE/KAREN_DONNELLY_SCENARIO_INPUTS_01.json",
+      "bytes": 13219,
+      "sha256": "6cdcd7260dc0319165e500c233807f0e1c7bc24f5ee2b9963aebd0d78182f6fc"
+    },
+    {
+      "private_file": "KAREN_DONNELLY_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KAREN_DONNELLY_EXPANDED_V1_EVIDENCE/KAREN_DONNELLY_FIRST_OUTPUTS_01.json",
+      "bytes": 9523,
+      "sha256": "dafbe945317813679b910c40f3cdca6d1ed6a06ebf664bb646b2edc5e686f79e"
+    },
+    {
+      "private_file": "KAREN_DONNELLY_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KAREN_DONNELLY_EXPANDED_V1_EVIDENCE/KAREN_DONNELLY_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 12212,
+      "sha256": "26f69c914fdaf78df356c3619bc84d495704612555f012bcec49fec831ca5c6b"
+    }
+  ],
+  "supporting_freeze_records": [
+    {
+      "file": "COHORT33_FOUNDATION_AUTHOR_REVIEW_01.json",
+      "bytes": 6702,
+      "sha256": "686298e25f16aeb67559da6f6612cdc050d024fc11b3801f8b1362114b061cab"
+    },
+    {
+      "file": "COHORT33_FOUNDATION_SEAL_01.json",
+      "bytes": 3105,
+      "sha256": "acc4e8feb8c2401662e646c38d7b92472f9359c71802bd2ebb1fb13d34635cbd"
+    },
+    {
+      "file": "COHORT33_EXACT_INPUT_AUTHOR_REVIEW_01.json",
+      "bytes": 996,
+      "sha256": "82ff447eab2f50766280e6d48ac5e01c7e22dce3e78629e45a9c8b04bb41e05a"
+    },
+    {
+      "file": "COHORT33_EXACT_INPUT_FREEZE_01.json",
+      "bytes": 1173,
+      "sha256": "f5e5c8dff6e3aa1a53e36135b5f08fee549f043efa85e20345d5683c5f97d5bb"
+    },
+    {
+      "file": "COHORT33_ORIGINAL_FIRST_BODY_FREEZE_01.json",
+      "bytes": 3598,
+      "sha256": "c467307506047789b68366a7ba5b0c7d61f51ffb62067a0d918e00e664cb652a"
+    },
+    {
+      "file": "COHORT33_NATIVE_AFTER_VIEW_NOTES_01.md",
+      "bytes": 3927,
+      "sha256": "eed8139484e8137a2b63271765bfaedc37ebbb942dbf9877d65cbc515bed45a3"
+    },
+    {
+      "file": "COHORT33_DIAGNOSTIC_AUTHOR_REVIEW_01.json",
+      "bytes": 1868,
+      "sha256": "fa4eff20b5f96ea6ddfeb042a0e76a5edf5a82486b48c7b278eb1ce3f68ecbdc"
+    }
+  ],
+  "compact_profile_fragment": {
+    "private_file": "COHORT33_COMPACT_PROFILES_DRAFT_01.md",
+    "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "bytes": 6932,
+    "sha256": "660226acc3ff5ffcfa4ae06a072d830718dbd1ba6e25b97b2230e0c6c37e1c1e",
+    "anchor": "#cohort-33-continued-explosions-individual-cast-and-open-identity-joins"
+  },
+  "original_first_serialization_pins": [
+    {
+      "case_id": "KD-H01-A",
+      "body_file": "COHORT33_FIRST_BODY_KD-H01-A_01.txt",
+      "body_bytes": 600,
+      "body_sha256": "892d93bcbe3b2e9307d37441852705a4487090209335016c14cdbb72ab671fdb",
+      "receipt_file": "COHORT33_FIRST_BODY_KD-H01-A_01_RECEIPT.json",
+      "receipt_bytes": 1228,
+      "receipt_sha256": "11cc07b83288b9c371547e2ce6444a9affcec7dce0774f43d82f2fd716d43181",
+      "actual_tool_chunk": "280745",
+      "words": 101
+    },
+    {
+      "case_id": "KD-H01-B",
+      "body_file": "COHORT33_FIRST_BODY_KD-H01-B_01.txt",
+      "body_bytes": 589,
+      "body_sha256": "6759840db4a3cac9a3e14aa48e3e3cfe106e5f9668c5e9ce713221c667c95fb4",
+      "receipt_file": "COHORT33_FIRST_BODY_KD-H01-B_01_RECEIPT.json",
+      "receipt_bytes": 1228,
+      "receipt_sha256": "5e4aec27ecc9192cbe2512007f0180555b4ca9aa915e9cc3605ca4f4eca2bd0d",
+      "actual_tool_chunk": "7383ba",
+      "words": 101
+    },
+    {
+      "case_id": "KD-H02-A",
+      "body_file": "COHORT33_FIRST_BODY_KD-H02-A_01.txt",
+      "body_bytes": 618,
+      "body_sha256": "f61addb8736b291ac2c5f1e956ba137326ea6b4aa72dd9607a9e014e8c3e35de",
+      "receipt_file": "COHORT33_FIRST_BODY_KD-H02-A_01_RECEIPT.json",
+      "receipt_bytes": 1228,
+      "receipt_sha256": "b78cc89fc0cd2bbb53d2c6f5c74af36634fcd2b28599c8ba7d3797bb06e5ee5f",
+      "actual_tool_chunk": "a53829",
+      "words": 105
+    },
+    {
+      "case_id": "KD-H02-B",
+      "body_file": "COHORT33_FIRST_BODY_KD-H02-B_01.txt",
+      "body_bytes": 610,
+      "body_sha256": "0ccf2bbe408f7879d0b6ff07f640b25d5b949c9f63557eb99983146f37a4a3d9",
+      "receipt_file": "COHORT33_FIRST_BODY_KD-H02-B_01_RECEIPT.json",
+      "receipt_bytes": 1228,
+      "receipt_sha256": "4ca844364f7d1b2ee2ae87fdb240d59b6dbcfeb814b8bb88fa7e72fc6ac2410d",
+      "actual_tool_chunk": "7628e8",
+      "words": 105
+    },
+    {
+      "case_id": "KD-H03-A",
+      "body_file": "COHORT33_FIRST_BODY_KD-H03-A_01.txt",
+      "body_bytes": 584,
+      "body_sha256": "2b4a38814fc2182577d8721b28d6daf2f76dbc0f763ac680bd505d359fd47506",
+      "receipt_file": "COHORT33_FIRST_BODY_KD-H03-A_01_RECEIPT.json",
+      "receipt_bytes": 1228,
+      "receipt_sha256": "786083dac33ef7a5ff853bf32126eb8b391187741a45350ee81181c639b57c98",
+      "actual_tool_chunk": "9b22b2",
+      "words": 102
+    },
+    {
+      "case_id": "KD-H03-B",
+      "body_file": "COHORT33_FIRST_BODY_KD-H03-B_01.txt",
+      "body_bytes": 596,
+      "body_sha256": "68bacc44af2481e685483e281c1188b47f4fc258340cf06b9b1688432d90ee51",
+      "receipt_file": "COHORT33_FIRST_BODY_KD-H03-B_01_RECEIPT.json",
+      "receipt_bytes": 1228,
+      "receipt_sha256": "872d6c92c9ebf896d153706168fe41a330d669b4bcb1b16416dd0b099e684d9f",
+      "actual_tool_chunk": "52c2fa",
+      "words": 104
+    }
+  ],
+  "new_artifact_scope": {
+    "models": 53,
+    "scoped_secondary_model_subjects": 47,
+    "bounded_profiles": 78,
+    "monograph_only_subjects": 27,
+    "nonfinal_records": 320,
+    "new_models": 1,
+    "new_monographs": 1,
+    "new_compact_profiles": 4,
+    "new_Tier0_dispositions": 5,
+    "new_records": 5,
+    "new_Tier0_records": 5,
+    "new_rules": 3,
+    "new_original_firsts": 6,
+    "new_dependent_pairs": 3
+  },
+  "subject_scope": {
+    "schema": "konosuba.cohort33.evidence-proportionate-scope-assessment.v1",
+    "recorded_utc": "2026-10-24T10:25:19.326883+00:00",
+    "local_head": "40571cea9f7f7c596063ec511b40621c746a475c",
+    "latest_certified_source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+    "native_review_receiving_sha256": "95a9fb9bd7c421f7730a4ca5d7ef32a59baa493e796c8ba99ce42016d7620a1a",
+    "complete_context_receiving_sha256": "bc9894acd1b52cbc189b813dbbe880d0f0c6a30b4b44cc8d982700db946e4342",
+    "native_notes_sha256": "eed8139484e8137a2b63271765bfaedc37ebbb942dbf9877d65cbc515bed45a3",
+    "all41_lexical_retrieval_sha256": "131a3504d252e29f79a841225755268665fab3b551fc108a8b5293e0250186c4",
+    "subjects": [
+      {
+        "row": 70,
+        "character": "Karen Donnelly / カレン (ドネリー家当主)",
+        "tier": 3,
+        "rules": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate asymmetric provisional model",
+          "dependent probes only after separate foundation and input freezes"
+        ],
+        "reason": "Direct reception/representative apology, useful-hire flattery versus comparative rivalry, own lending and rare-summon profit rationales, actual piece-rate payment and reversible threats/fear provide differentiated generative hypotheses. Concentrated arc, generic antagonist/fear/business rivals and unjoined MASK name remain explicit."
+      },
+      {
+        "row": 41,
+        "character": "Beat / ビート",
+        "tier": 1,
+        "artifacts": [
+          "individual compact profile"
+        ],
+        "reason": "Self-introduction, personal experience/level claim, active reassurance and changed response to status information support an individual interaction account. No repeated context or distinctive stable mechanism sufficient for a separate model; exact reaction-line mapping qualified."
+      },
+      {
+        "row": 42,
+        "character": "Clarice / クラリス",
+        "tier": 1,
+        "artifacts": [
+          "individual compact profile"
+        ],
+        "reason": "Welcome/party-balance invitation, explicitly attached name compliment, equipment/level reassurance and withdrawal in the shared scene supply a useful bounded profile. Does not inherit all male turns or every paired reaction; no invented inner life or model."
+      },
+      {
+        "row": 169,
+        "character": "クレイン (Crane retrieval only)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "A signed written payment justification and reported return support a narrow transaction/permission account and one actual written formulation. Return motive is contested and no direct spoken persona, consent receipt or stable generic Axis model is supplied."
+      },
+      {
+        "row": 173,
+        "character": "Unnamed inn woman reporting stolen snack (CONTEXP02)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Own loss report, fear of business reputation, escalating work solicitation and rejected request give meaningful choices and a local ordinary interest. Narrator employment guess and her inheritance/scout story retain their source layers."
+      }
+    ],
+    "existing_route_updates": [
+      {
+        "row": 62,
+        "disposition": "Preserve C32 reported-Karen tier, support and all frozen artifacts. Add only current route/identity qualification for the separately reviewed Donnelly subject; no surname/event bridge or certified unique-person split."
+      }
+    ],
+    "new_discovery_records_file": "COHORT33_NEW_DISCOVERY_RECORDS_DRAFT_01.json",
+    "new_discovery_records_sha256": "ed8937ce409d3ec373d49e4a7c6cd50cd19c4925be3046d6ebd0ed6487f44da4",
+    "new_records": 5,
+    "new_Tier0_records": 5,
+    "new_compact_profiles": 4,
+    "new_monographs": 1,
+    "new_models": 1,
+    "new_rules": 3,
+    "planned_existing_changed_rows": [
+      41,
+      42,
+      62,
+      70,
+      169,
+      173
+    ],
+    "planned_untouched_entering_rows": 309,
+    "planned_new_rows": [
+      315,
+      316,
+      317,
+      318,
+      319
+    ],
+    "planned_nonfinal_records": 320,
+    "planned_models_if_received": 53,
+    "planned_scoped_secondary_model_subjects": 47,
+    "planned_bounded_profiles": 78,
+    "planned_monograph_only_subjects": 27,
+    "planned_firsts": 6,
+    "planned_dependent_pairs": 3,
+    "exact_inputs_or_firsts_serialized": false,
+    "source_known": true,
+    "same_informed_root_authors_and_assesses_every_stage": true,
+    "all_contrasts_visible": true,
+    "classification_basis": "Actual choices, varied states, relationships and identifiable conditional behavior; no word/appearance/document/rule quota. Dense evidence can support unequal forms; these sparse profiles have no automatic later ceiling.",
+    "independent_accuracy_result": null,
+    "capability_grade": null,
+    "confidence_gain": null,
+    "new_whole_source_or_independent_credit": 0,
+    "new_role_records_not_unique_people": true,
+    "global_census_closed": false,
+    "global_completion_percentage": null,
+    "full_program_complete": false
+  },
+  "source_access_limits": "Two complete accepted CONTEXP derivatives/149462 characters actually reviewed.1151 current unique contextual native P/base/ruby slots plus3 complete MASK paragraphs rechecked; prior C32 complete MASK context reused exact. All41 byte/name retrieval is technical and not alias absence proof. No new whole-source,image,residual,OCR,audio,human or independent admission.",
+  "source_identity_and_knowledge_limits": [
+    "Self-introduced Donnelly head remains unjoined with reported MASK Karen; no unique-person split is certified.",
+    "Arshea retrieval uses complete アーシェア; occupations and some novice turns retain explicit inference, P112/P113 reactions unassigned.",
+    "P213 interrupted explanation does not show Karen received Kazuma death before her mockery.",
+    "Own profit rationale differs from Megumin item identification, Kazuma business inference and shelf-accident conjecture.",
+    "Actual employee apology and piece-rate payment retained; uncontracted rescue is not invented unpaid wage.",
+    "Two completed paired Steals; third stopped, no full exposure or legal verdict.",
+    "Clerk/inn/guard/young-wife/source roles have bounded written/report access and unknown group overlaps."
+  ],
+  "diagnostic_limits": "Six genuine original English firsts after separate foundation/input/body freezes, three dependent contrast-visible pairs, zero regeneration. H01B ownership presupposition,H02B assurance-speaker attribution,H03A fee-role ambiguity and polished/procedural voice remain. H02 no cancellation direction was prebound; H03 is a weaker nonsexual property/face analogue. No independent accuracy,grade,confidence gain or final battery.",
+  "unprobed_conditions": [
+    "Karen choices outside the connected house/business arc",
+    "actual combat and level",
+    "later legal/family/political outcome",
+    "noncoercive correction and sustained revision",
+    "H03 actually restored-protection aftermath",
+    "broad Japanese voice and realistic unfamiliar transfer",
+    "final nine-category battery and original six StageD successors"
+  ],
+  "current_unique_native_P_slots": 1154,
+  "complete_context_P_slots": 1151,
+  "additional_complete_MASK_P_slots": 3,
+  "main_context_objects": 2,
+  "objects_with_any_actual_P": 3,
+  "technical_all41_identity_retrieval_checks": true,
+  "technical_checks_not_reading": true,
+  "new_whole_source_ruby_residual_image_set_admission_or_independent_credit": 0,
+  "first_output_aggregation_byte_exact": true,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "census_comparison": {
+    "changed_entering_rows": [
+      41,
+      42,
+      62,
+      70,
+      169,
+      173
+    ],
+    "untouched_entering_rows": 309,
+    "new_rows": [
+      315,
+      316,
+      317,
+      318,
+      319
+    ],
+    "nonfinal_records": 320,
+    "canonical_layout": "Manifest/four stable80-row payloads; private WORK101 separate.",
+    "canonical_private_historical_differences_retained": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "historical_storage_snapshot_unchanged": true,
+    "no_unique_person_denominator": true
+  },
+  "prior_preservation_checks": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 52,
+    "control_baseline": "Accepted owner-integrated main controls preserved at a90722d065e56e8fe2c2131e4307e4fa03d0c289; epoch1 migration files remain historical,not current routing.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true,
+    "C27_twenty_cores_compact_fragment_exact": true,
+    "C28_twenty_eight_cores_thirtytwo_private_twentyfour_original_firsts_exact": true,
+    "C28_eighty_nine_raw_deliveries_exact": true,
+    "WORK92_exact": true,
+    "current_C28_public_gate_exact": true,
+    "C29_thirteen_cores_seventeen_private_sixteen_original_firsts_exact": true,
+    "C29_sixty_eight_raw_deliveries_exact": true,
+    "WORK94_exact": true,
+    "current_C29_public_gate_exact": true,
+    "C30_nineteen_cores_twenty_three_private_twenty_four_original_firsts_exact": true,
+    "C30_thirty_three_raw_deliveries_exact": true,
+    "WORK96_exact": true,
+    "current_C30_public_gate_exact": true,
+    "C31_twenty_nine_cores_thirty_three_private_twenty_six_original_firsts_exact": true,
+    "C31_fifty_six_native_copies_exact": true,
+    "WORK98_exact": true,
+    "current_C31_public_gate_exact": true,
+    "C32_eleven_cores_fifteen_private_six_original_firsts_exact": true,
+    "C32_fortysix_native_deliveries_exact": true,
+    "WORK99_exact": true,
+    "WORK100_exact": true,
+    "current_C32_public_gate_exact": true
+  },
+  "all52_entering_models_unchanged": true,
+  "all8_C33_cores_frozen_exact": true,
+  "previous_author_gate": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT32_PUBLICATION_GATE_CLOSE.json",
+    "source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+    "audit_run_id": 40082421051,
+    "full_discovered_tests": 459,
+    "scope": "Cohort32 author tranche; protected-main integration separately owned."
+  },
+  "historical_preinput_statements": "Frozen foundation/scope/inventory/provenance false input/first flags describe their earlier drafting boundary; the present execution records six genuine original firsts.",
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false,
+  "publication_resolution": {
+    "source": "48d5b27916773293b054a0bbd04b8a65d347b458",
+    "tree": "4bf5dbf620c49b9c136a28595f46ed5d36af94bf",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT33_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "9143f776478157531ec95b82457fff00302ac7bd6e2bc04964ab4ef98483428f",
+    "source_run": 40087962089,
+    "full_discovered_tests": 459,
+    "current_models": 53,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "separate_housekeeping_run": null
+  },
+  "current_gate_qualification": "Original source/diagnostic scope, all 8 canonical core artifacts, 12 frozen private artifacts and six original bodies/receipts remain exact. Author publication is closed; protected-main integration, independent accuracy, grade, confidence gain and the final nine-category battery are not certified."
+}

@@ -1,0 +1,82 @@
+{
+  "schema": "KONOSUBA_DUST03_CURRENT_ATTRIBUTABLE_PRECISION_V1",
+  "created_utc": "2026-10-18T06:12:46.797044+00:00",
+  "original_uncoded_history_unchanged": true,
+  "findings": [
+    {
+      "id": "Q01",
+      "qualification": "Original image2 note misidentified a horned/succubus design. Current image2 identification is Yunyun, joined to the native profile and labelled frontmatter. The original erroneous note is preserved.",
+      "source": "IMG002/IMG004/IMG006"
+    },
+    {
+      "id": "Q02",
+      "qualification": "Native image21 labels U017 the epilogue; U016 continues the flight before it. The original loose epilogue label remains in uncoded history, while current segmentation is corrected.",
+      "source": "U015–U018/IMG020–022"
+    },
+    {
+      "id": "Q03",
+      "qualification": "Opening U010 repeats U013:P0856–0869. One privacy/impersonation event has two textual presentations; voice058 links back rather than becoming a second trial.",
+      "source": "U010:P0016/0029–0030;U013:P0856–0869"
+    },
+    {
+      "id": "Q04",
+      "qualification": "The old instruction permits spear use for the lady or another person he truly wants to protect; it is not an absolute ban. Exact wording is now available, while the necessary weapon-choice trigger and older lady identity remain separate.",
+      "source": "U016:P0006–0007"
+    },
+    {
+      "id": "Q05",
+      "qualification": "Dust stops an available rescue while the guards remain caught, for explicitly dispensable gratification. Yunyun rescues them despite him. Later help, gradual digestion and a comic frame do not erase contrary protective-choice evidence.",
+      "source": "U013:P0218–0247"
+    },
+    {
+      "id": "Q06",
+      "qualification": "Plant magical control and guards-as-wives/lovers are admitted Dust lies. Later narration about fruit hallucination is distinct. Actual providers investigate and volunteer for their own clients.",
+      "source": "U011:P0635–0669/0693/0731"
+    },
+    {
+      "id": "Q07",
+      "qualification": "The dream account is Dust's untested explanation after hearing a swap premise; Vanir later confirms the actual pairing. First swap and second observational cohabitation have different scopes. Royal-magic causation of the second is Dust's inference.",
+      "source": "U013:P0758–0807;U014:P0009–0022/0107/0143–0145"
+    },
+    {
+      "id": "Q08",
+      "qualification": "Vanir's product safety/dependence claims are interested assurances; future citywide stock destruction is unperformed. No medical or numerical safety certification is made.",
+      "source": "U013:P0691–0700"
+    },
+    {
+      "id": "Q09",
+      "qualification": "Treasury provenance precedes ring commitment; the exact royal crest and resale refusal appear later. Dust owns an unusable cash substitute and only proposes a future exchange.",
+      "source": "U012:P0428–0432/0533–0537"
+    },
+    {
+      "id": "Q10",
+      "qualification": "The request for unwanted dreams produces apology, not an enacted punishment or documented specific provider consent. More than half of the earlier guards leave; whole customer recovery is not enumerated.",
+      "source": "U011:P0682–0739"
+    },
+    {
+      "id": "Q11",
+      "qualification": "Night flight and reported refuge are completed bounded outcomes, not solved marriage/funding, permanent freedom, public identity disclosure or confirmed universal safety.",
+      "source": "U014:P0268–0370;U016:P0001–0044"
+    },
+    {
+      "id": "Q12",
+      "qualification": "Wiz's repeated collapse, smoke and unconsciousness are not independently final death. Beldia scenes are artifact-mediated recollection, not present encounters or independent main-story replication.",
+      "source": "U011:P0298–0336;U012:P0188–0198;U013:P0506–0586"
+    },
+    {
+      "id": "Q13",
+      "qualification": "Image placement is not identical to depicted moment. IMG015 shows clothed armed guards, not swallowed bodies or Yunyun's rescue; IMG017 shows clothed Claire near a door.",
+      "source": "IMG015/IMG017"
+    },
+    {
+      "id": "Q14",
+      "qualification": "Leen's explicit lover denial, Yunyun's acquaintance correction, and Iris's privacy request retain their ordinary force. No secret assent, reverse-direction generosity test, or honorific-to-care shortcut is inferred.",
+      "source": "U012:P0525–0526;U013:P0294–0297/0856;U014:P0185–0186"
+    },
+    {
+      "id": "Q15",
+      "qualification": "Bonus outcome includes a pre-capture purpose check, cancellation and fee received. It is checking counterevidence, not a completed toad capture or another access failure.",
+      "source": "U020:P0039–0050"
+    }
+  ]
+}

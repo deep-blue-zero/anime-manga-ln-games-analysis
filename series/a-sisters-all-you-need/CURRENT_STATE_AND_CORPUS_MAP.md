@@ -3,13 +3,13 @@ series: IMOSAE
 artifact_type: corpus_map
 scope: project_current_state
 generation: V1
-status: active_provisional
+status: canonical
 source_boundary: Japanese light novel Volumes 01-14 frozen as IMOSAE-JP-LN-RAW-1.0; supplemental corpus not yet acquired/audited
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-version: '1.24'
-date: '2026-08-19'
+version: '1.29'
+date: '2026-10-13'
 ---
 
 # IMOSAE — Current State and Corpus Map
@@ -17,7 +17,9 @@ date: '2026-08-19'
 
 ## Current project state
 
-**Project stage:** Phase 1 **ACTIVE — V13 COMPLETE / V14 NEXT**. Phase 0 is **CLOSED / PASS** and the frozen normalized release `IMOSAE-JP-LN-NORM-1.0` is canonical. `IMOSAE_V01_DEEP_READING.md` through `IMOSAE_V13_DEEP_READING.md` are complete/canonical under strict prospective semantic boundaries. Four mandatory longitudinal checkpoints are **canonical / frozen** through V12: `IMOSAE_V01-V03_CHECKPOINT.md`, `IMOSAE_V04-V06_CHECKPOINT.md`, `IMOSAE_V07-V09_CHECKPOINT.md`, and `IMOSAE_V10-V12_CHECKPOINT.md`. All eight longitudinal ledgers are current through V13; claim/question authority remains frozen through V12 while V13 transitions are active provisional. Two bounded specialist artifacts remain **active_provisional** and intentionally bounded to V01-V06. **The next architecture-defined sequential artifact is `IMOSAE_V14_DEEP_READING.md`; after V14, create and freeze `IMOSAE_V13-V14_END_STATE_CHECKPOINT.md` before end-state/full-series synthesis.**
+**Main-series analytical release: COMPLETE, V01–V14 / V1.** Fourteen prospective readings, five frozen checkpoints, eight reconciled ledgers, eight independent mature specialists, seventeen conditional subject models, narrower profiles, four warranted monographs, 58 applied manual retrospective QA cases and all three terminal products are present. The final block preserves 41 claim and 32 question dispositions. Source/Japanese/chronology/counterthesis/responsibility/authority/capability/integrity reviews pass within their declared ceilings; unresolved evaluations and biographies remain open, and eleven external supplement task rows are deferred. The [release manifest](08%20Audits%20and%20Manifests/corpus_manifest/IMOSAE_MAIN_SERIES_RELEASE_MANIFEST.json) and [checksums](08%20Audits%20and%20Manifests/release_checksums/IMOSAE_MAIN_SERIES_RELEASE.sha256) identify the exact reviewed payload.
+
+**Publication state is commit-bound.** This file describes the accepted analytical package. The Git commit/tree carrying it establishes committed bytes; remote branch readback establishes publication; the exact commit's Repository integration audit and protected PR/integration establish external acceptance. Canonical analytical status alone does not assert a push, CI result or merge. The closing execution receipt records those separate events and exact SHAs. Authoring began at `238fed779661f6a5a49d6a70034a6183d17ca175` and incorporated main `cb99d141317d51f9c47ee098c7a07982c07c3a20`, preserving all eighty then-existing IMOSAE files byte-identically. Earlier thirteen readings, four checkpoints and two V01–V06 monographs remain protected history.
 
 **Stable series identifier:** `IMOSAE`
 
@@ -109,6 +111,12 @@ Interviews, marketing, reception, and contextual material.
 20. [`02 Sequential Readings/IMOSAE_V12_DEEP_READING.md`](02%20Sequential%20Readings/IMOSAE_V12_DEEP_READING.md) — **canonical**, third reading in the V10–V12 block; 576 validated evidence records; no V13–V14 semantic evidence
 21. [`02 Sequential Readings/Checkpoints/IMOSAE_V10-V12_CHECKPOINT.md`](02%20Sequential%20Readings/Checkpoints/IMOSAE_V10-V12_CHECKPOINT.md) — **canonical / frozen**, fourth-block prospective state; freezes `IM-C001`–`IM-C040`; 1,361 new evidence records; no V13–V14 semantic evidence
 22. [`02 Sequential Readings/IMOSAE_V13_DEEP_READING.md`](02%20Sequential%20Readings/IMOSAE_V13_DEEP_READING.md) — **canonical**, first reading in the final V13–V14 block; 652 validated evidence records; no V14 semantic evidence
+23. [`02 Sequential Readings/IMOSAE_V14_DEEP_READING.md`](02%20Sequential%20Readings/IMOSAE_V14_DEEP_READING.md) — **canonical prospective V14 reading**, 87 analytical evidence units; actual-present / embedded-draft authority explicit
+24. [V14 source/reading validation](08%20Audits%20and%20Manifests/locator_validation/IMOSAE_V14_SOURCE_AND_READING_VALIDATION.md) — source routes,22 primary short anchors,35 visuals and unchanged prior history
+25. [Primary identity/normalization errata](06%20Evidence%20and%20Indexes/IMOSAE_PRIMARY_IDENTITY_AND_NORMALIZATION_ERRATA.md) — Miyako/Ui/Ayane/Aoba correction routes and G005 scolding override; frozen source releases preserved
+26. [`02 Sequential Readings/Checkpoints/IMOSAE_V13-V14_END_STATE_CHECKPOINT.md`](02%20Sequential%20Readings/Checkpoints/IMOSAE_V13-V14_END_STATE_CHECKPOINT.md) — **canonical / frozen fifth checkpoint**,41 claims and32 question dispositions; completed-mainline horizon without projected futures
+27. [Final-block checkpoint validation](08%20Audits%20and%20Manifests/locator_validation/IMOSAE_V13-V14_CHECKPOINT_VALIDATION.md) — all cited IDs, prerequisite reading identity and unchanged prior freeze bytes
+28. [Eight-ledger reconciliation validation](08%20Audits%20and%20Manifests/contradiction_audits/IMOSAE_V14_LEDGER_RECONCILIATION_VALIDATION.md) — canonical V14 metadata,41 claim/32 question synchronization, preserved history and nine citation repairs
 23. [`04 Specialist Synthesis/IMOSAE_CHAR_KANI_NAYUTA_PROVISIONAL_MONOGRAPH_V01-V06.md`](04%20Specialist%20Synthesis/IMOSAE_CHAR_KANI_NAYUTA_PROVISIONAL_MONOGRAPH_V01-V06.md) — bounded `active_provisional` character-reconstruction surface; remains V01–V06 only
 24. [`04 Specialist Synthesis/IMOSAE_CHAR_KENJIRO_TOKI_PROVISIONAL_MONOGRAPH_V01-V06.md`](04%20Specialist%20Synthesis/IMOSAE_CHAR_KENJIRO_TOKI_PROVISIONAL_MONOGRAPH_V01-V06.md) — bounded `active_provisional` reconstruction of Toki's voice, editorial philosophy, professional ethics, creator management, and institutional mediation; remains V01–V06 only
 25. [`01 Source Lock and Inventory/IMOSAE_SUPPLEMENTAL_SOURCE_INVENTORY_AND_ACQUISITION_PLAN.md`](01%20Source%20Lock%20and%20Inventory/IMOSAE_SUPPLEMENTAL_SOURCE_INVENTORY_AND_ACQUISITION_PLAN.md)
@@ -235,11 +243,11 @@ At Phase-0 closure, the next architecture-defined operation was `IMOSAE_V01_DEEP
 - `IMOSAE_V13_DEEP_READING.md` — **canonical**, Drive `1Z80krn9OKpBaFsBwRwf7pJiGFQRxyIuy`; SHA-256 `def841b178f7410ea8a7e655cd9f5b11398c826a49564d00002101c347169be0`; 211,571 bytes / 21,911 whitespace-delimited words; semantic boundary `all four frozen checkpoints through V12 + V13 current evidence; no V14 semantic evidence`.
 - V13 evidence register: `IM-V13-E001` through `IM-V13-E652`; 624 textual/linguistic/paratextual/WFW locators and 28 internal visual/formal locators validated against `IMOSAE-JP-LN-NORM-1.0` / raw V13 EPUB.
 - V13 source integrity: raw V13 EPUB SHA-256 `70c62c02d882a8f7ada21657a03c0521ca1092bbbdc6e5e5d23e317419224737`; normalized V13 SHA-256 `9e88d11ec3fcca592c191830d9b2bb5988f0ec1e7ae842e6b1fbe603db063aec`; all textual locators resolved exactly, all selected internal visual members exist, and no V14 semantic evidence locators were detected.
-- V13 major movement: **self-authorship under circulation and institutionalization**. Kyo's chosen editorial vocation is tested by real authority, showing that expertise requires legibility, explanation, trust, and negotiability rather than self-justifying unilateral control; Chihiro learns that a community preserved by one person's concealment externalizes maintenance costs onto that person; Itsuki's V12 one-reader novel acquires public circulation through consented mediation without ceasing to have originated as private-address art. `IM-C016`, `IM-C033`, `IM-C034`, `IM-C014`, `IM-C031`, `IM-C037`, and `IM-C038` are substantially strengthened/revised in their existing topical homes; new `IM-C041` is **OPEN** on distributed community/relationship maintenance. Kyo and Haruto acknowledge mutual romantic feeling but are **not dating** at the V13 boundary. V13 ends with Itsuki proposing to Nayuta; her answer is strongly implied but not quoted. **V14 is next; the final V13–V14 end-state checkpoint remains gated until V14 is complete.**
+- V13 major movement: **self-authorship under circulation and institutionalization**. Kyo's chosen editorial vocation is tested by real authority, showing that expertise requires legibility, explanation, trust, and negotiability rather than self-justifying unilateral control; Chihiro learns that a community preserved by one person's concealment externalizes maintenance costs onto that person; Itsuki's V12 one-reader novel acquires public circulation through consented mediation without ceasing to have originated as private-address art. `IM-C016`, `IM-C033`, `IM-C034`, `IM-C014`, `IM-C031`, `IM-C037`, and `IM-C038` are substantially strengthened/revised in their existing topical homes; new `IM-C041` is **OPEN** on distributed community/relationship maintenance. Kyo and Haruto acknowledge mutual romantic feeling but are **not dating** at the V13 boundary. V13 ends with Itsuki proposing to Nayuta; her answer is strongly implied but not quoted. **Historical V13 boundary:** V14 was next and the final checkpoint was gated; V14 is now complete as recorded above.
 
 ## Current longitudinal ledgers
 
-All are mutable state artifacts seeded from V01 and current through V13; domain ledgers remain active_provisional while claim/open-question routing is frozen through V12 with V13 transitions active provisional:
+All eight Git ledgers are now canonical through V14, with the fifth checkpoint as the current frozen final-block layer. The following Drive IDs/version labels identify the preserved **V13 mirror/provenance snapshots**, whose older authority descriptions remain historical; they do not describe the current V14 Git layer:
 
 - `IMOSAE_CHARACTER_AND_RELATIONSHIP_STATE_LEDGER.md` — Drive `1EPHwbuJYvyGy_NCtEegnuFGNmwR4Py_m`; through V13, version 1.12
 - `IMOSAE_CREATIVE_LABOR_CAREER_AND_INDUSTRY_LEDGER.md` — Drive `1hjnTy05HU-G59pnwrL-UOk6K5znaIYml`; through V13, version 1.12
@@ -252,6 +260,39 @@ All are mutable state artifacts seeded from V01 and current through V13; domain 
 
 ## Provisional specialist synthesis
 
+<!-- CURRENT_MATURE_SPECIALISTS_START -->
+
+- [IMOSAE_COMEDY_SEXUALITY_VULGARITY_AND_BOUNDARIES_SPECIALIST_SYNTHESIS](04%20Specialist%20Synthesis/IMOSAE_COMEDY_SEXUALITY_VULGARITY_AND_BOUNDARIES_SPECIALIST_SYNTHESIS.md) — canonical mature study; source/semantic/release review passed with stated boundaries.
+- [IMOSAE_CREATIVE_LABOR_AUTHORSHIP_AND_LN_INDUSTRY_SPECIALIST_SYNTHESIS](04%20Specialist%20Synthesis/IMOSAE_CREATIVE_LABOR_AUTHORSHIP_AND_LN_INDUSTRY_SPECIALIST_SYNTHESIS.md) — canonical mature study; source/semantic/release review passed with stated boundaries.
+- [IMOSAE_FAMILY_SIBLINGHOOD_AND_IDENTITY_SPECIALIST_SYNTHESIS](04%20Specialist%20Synthesis/IMOSAE_FAMILY_SIBLINGHOOD_AND_IDENTITY_SPECIALIST_SYNTHESIS.md) — canonical mature study; source/semantic/release review passed with stated boundaries.
+- [IMOSAE_NARRATION_JAPANESE_VOICE_AND_INTERTEXT_SPECIALIST_SYNTHESIS](04%20Specialist%20Synthesis/IMOSAE_NARRATION_JAPANESE_VOICE_AND_INTERTEXT_SPECIALIST_SYNTHESIS.md) — canonical mature study; source/semantic/release review passed with stated boundaries.
+- [IMOSAE_RELATIONSHIPS_INTIMACY_FRIENDSHIP_AND_ADULT_LIFE_SPECIALIST_SYNTHESIS](04%20Specialist%20Synthesis/IMOSAE_RELATIONSHIPS_INTIMACY_FRIENDSHIP_AND_ADULT_LIFE_SPECIALIST_SYNTHESIS.md) — canonical mature study; source/semantic/release review passed with stated boundaries.
+- [IMOSAE_GAMES_TRPG_ALCOHOL_AND_SOCIAL_RITUAL_SPECIALIST_SYNTHESIS](04%20Specialist%20Synthesis/IMOSAE_GAMES_TRPG_ALCOHOL_AND_SOCIAL_RITUAL_SPECIALIST_SYNTHESIS.md) — canonical mature study; source/semantic/release review passed with stated boundaries.
+- [IMOSAE_TALENT_EFFORT_SUCCESS_FAILURE_AND_SELF_WORTH_SPECIALIST_SYNTHESIS](04%20Specialist%20Synthesis/IMOSAE_TALENT_EFFORT_SUCCESS_FAILURE_AND_SELF_WORTH_SPECIALIST_SYNTHESIS.md) — canonical mature study; source/semantic/release review passed with stated boundaries.
+- [IMOSAE_ILLUSTRATION_PARATEXT_AND_MEDIA_REFLEXIVITY_SPECIALIST_SYNTHESIS](04%20Specialist%20Synthesis/IMOSAE_ILLUSTRATION_PARATEXT_AND_MEDIA_REFLEXIVITY_SPECIALIST_SYNTHESIS.md) — canonical mature study; source/semantic/release review passed with stated boundaries.
+
+<!-- CURRENT_MATURE_SPECIALISTS_END -->
+
+### Current project-local character reconstruction
+
+This populated home extends V1's character work. Its local scope decisions are not global A–E capability grades. The current models are accepted canonical analyses within their conditional scopes; 58 applied manual retrospective constraint cases record abstention and source repairs. The separate capability specification remains unpopulated.
+
+- [Protocol](04%20Specialist%20Synthesis/character_reconstruction/IMOSAE_CHARACTER_RECONSTRUCTION_PROTOCOL.md) — one scenario/knowledge/voice/abstention procedure.
+- [Readiness audit](04%20Specialist%20Synthesis/character_reconstruction/IMOSAE_CHARACTER_READINESS_AUDIT.md) — five broad conditional, twelve bounded-domain decisions and narrower recognition/insufficient cases; production separately tracked.
+- [Itsuki model](04%20Specialist%20Synthesis/character_reconstruction/IMOSAE_CHAR_ITSUKI_HASHIMA_RECONSTRUCTION_MODEL.md).
+- [Nayuta model](04%20Specialist%20Synthesis/character_reconstruction/IMOSAE_CHAR_NAYUTA_KANI_RECONSTRUCTION_MODEL.md).
+- [Miyako model](04%20Specialist%20Synthesis/character_reconstruction/IMOSAE_CHAR_MIYAKO_SHIRAKAWA_RECONSTRUCTION_MODEL.md).
+- [Chihiro model](04%20Specialist%20Synthesis/character_reconstruction/IMOSAE_CHAR_CHIHIRO_HASHIMA_RECONSTRUCTION_MODEL.md).
+- [Haruto model](04%20Specialist%20Synthesis/character_reconstruction/IMOSAE_CHAR_HARUTO_FUWA_RECONSTRUCTION_MODEL.md).
+- [Toki domain model](04%20Specialist%20Synthesis/character_reconstruction/IMOSAE_CHAR_KENJIRO_TOKI_DOMAIN_MODEL.md) — explicit mature operational complement to the unchanged early monograph.
+- [Eleven distinct secondary domain models](04%20Specialist%20Synthesis/character_reconstruction/IMOSAE_SECONDARY_CHARACTER_DOMAIN_MODELS.md) — individual subject anchors, separate scopes, voice, conditional rules and limits.
+- [Recognition and abstention profiles](04%20Specialist%20Synthesis/character_reconstruction/IMOSAE_RECOGNITION_AND_ABSTENTION_PROFILES.md) — significant narrow evidence and actual-child/draft-future ceilings.
+
+Four mature literary monographs are produced: [Itsuki](04%20Specialist%20Synthesis/character_monographs/IMOSAE_CHAR_ITSUKI_HASHIMA_MONOGRAPH_V01-V14.md), [Nayuta](04%20Specialist%20Synthesis/character_monographs/IMOSAE_CHAR_NAYUTA_KANI_MONOGRAPH_V01-V14.md), [Miyako](04%20Specialist%20Synthesis/character_monographs/IMOSAE_CHAR_MIYAKO_SHIRAKAWA_MONOGRAPH_V01-V14.md) and [Chihiro](04%20Specialist%20Synthesis/character_monographs/IMOSAE_CHAR_CHIHIRO_HASHIMA_MONOGRAPH_V01-V14.md). Nayuta's mature surface explicitly succeeds the bounded old monograph for whole-series reading; Toki's operational domain model is a complement. No old monograph horizon or bytes have been broadened. [Model evidence and QA](04%20Specialist%20Synthesis/character_reconstruction/IMOSAE_CHARACTER_MODEL_EVIDENCE_AND_QA.md) records 58 applied manual retrospective cases, six documented repairs, sixteen successful abstentions and exact model/monograph basis bytes; it does not claim held-out prediction.
+
+**Mature fourteen-volume work:** [Creative labor, authorship and LN industry](04%20Specialist%20Synthesis/IMOSAE_CREATIVE_LABOR_AUTHORSHIP_AND_LN_INDUSTRY_SPECIALIST_SYNTHESIS.md), canonical within the audited mainline scope. The two frozen V01–V06 monographs below retain their older bounded authority.
+
+
 - `IMOSAE_CHAR_KANI_NAYUTA_PROVISIONAL_MONOGRAPH_V01-V06.md` — **active_provisional**, bounded to V01–V06; Drive `11rT1imUV39s99eJnkj7UlU56PHI-nW-y`; SHA-256 `04f2f0f4629b130388b1609fbf64170a0296941a99c64998c529a890a827c291`.
 - Canonical home: `04 Specialist Synthesis` — Drive folder `1JgVS29mruwzsvhTggWjfPXe9aDlhMrc3`.
 - Primary responsibility: reconstruct Kani Nayuta's textual Japanese voice, speech pragmatics, baseline and state-dependent behavior, beliefs/value assumptions, creative behavior, and relationship-conditioned interaction modes.
@@ -263,6 +304,20 @@ All are mutable state artifacts seeded from V01 and current through V13; domain 
 - Primary responsibility: reconstruct Kenjiro Toki's textual Japanese voice, editorial pragmatics, professional ethics, creator-management behavior, reader-facing judgment, deadline/risk behavior, and institutional mediation.
 - Evidence boundary: V01–V03 frozen checkpoint + canonical V04–V06 prospective readings/ledgers; no V07–V14 semantic evidence. V06 contains no material Toki-specific delta in the canonical reading, so the V05 reconstructive state is **PRESERVE** through V06 rather than being artificially extended. Drive readback is 77,365 bytes.
 - Authority limitation: this is an early character-specific synthesis, strongest for Toki's work-domain behavior and relationship with Itsuki and deliberately cautious about under-sourced private life. It **does not supersede the frozen V04–V06 checkpoint**, any sequential reading, or any ledger, and remains subject to extension/revision after later volumes.
+
+### Current terminal products
+
+- [Full-series synthesis](05%20Full-Series%20Synthesis/IMOSAE_FULL_SERIES_SYNTHESIS.md) — sustained integrated V01–V14 literary argument, not fourteen recaps; 9,582 argument words before source index at this boundary.
+- [Core character reference](05%20Full-Series%20Synthesis/IMOSAE_CORE_CHARACTER_REFERENCE.md) — detailed identity/state/voice/relationship retrieval for seventeen conditional models and narrower profiles; no unrestricted extrapolation.
+- [Comparative reference and open questions](05%20Full-Series%20Synthesis/IMOSAE_COMPARATIVE_REFERENCE_AND_OPEN_QUESTIONS.md) — competing title theses, reusable contrasts, all 32 historical question routes and watched claims, source/continuity ceilings and future admission gates.
+
+These are actual populated, reviewed artifacts. The final manifest/checksums record their exact released bytes. Nayuta's actual later fictional sequel is distinct from the E023 care request and from Itsuki's living-person draft. Late Miyako-reported romantic withdrawal of Ui/Chihiro is distinct from career retirement and from unprinted private emotional release.
+
+### Retrieval and release review
+
+[Primary locators](06%20Evidence%20and%20Indexes/IMOSAE_PRIMARY_SOURCE_LOCATOR_INDEX.md), [volume evidence](06%20Evidence%20and%20Indexes/IMOSAE_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md), [Japanese passages](06%20Evidence%20and%20Indexes/IMOSAE_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md), [illustrations](06%20Evidence%20and%20Indexes/IMOSAE_ILLUSTRATION_LOCATOR_INDEX.md) and [supplement crosswalk](06%20Evidence%20and%20Indexes/IMOSAE_SUPPLEMENT_CROSSWALK.md) provide the five concrete retrieval homes. The [minimal E route index](06%20Evidence%20and%20Indexes/machine_readable/IMOSAE_EVIDENCE_ROUTE_INDEX.jsonl) resolves 3,666 units without narrative payloads; [current errata](06%20Evidence%20and%20Indexes/IMOSAE_PRIMARY_IDENTITY_AND_NORMALIZATION_ERRATA.md) and [curation handoff](06%20Evidence%20and%20Indexes/IMOSAE_REVIEWED_CHARACTER_DISCOVERY_EVIDENCE_HANDOFF.md) expose corrected identities and scope.
+
+[Source/coordinate audit](08%20Audits%20and%20Manifests/source_audits/IMOSAE_MAIN_SERIES_SOURCE_AND_COORDINATE_AUDIT.md), [semantic/chronology/counterthesis audit](08%20Audits%20and%20Manifests/contradiction_audits/IMOSAE_MAIN_SERIES_SEMANTIC_CHRONOLOGY_AND_COUNTERTHESIS_AUDIT.md), [responsibility/succession audit](08%20Audits%20and%20Manifests/duplication_audits/IMOSAE_MAIN_SERIES_RESPONSIBILITY_AND_SUCCESSION_AUDIT.md), [authority/capability audit](08%20Audits%20and%20Manifests/authority_audits/IMOSAE_MAIN_SERIES_AUTHORITY_CAPABILITY_AND_BOUNDARY_AUDIT.md) and the final integrity/completeness receipt state the actual checks and limits. All 34,766 original block XPaths and 666 raster hashes resolve; G005's two original occurrences have an explicit interpretation-only exception. Global curated character/capability outputs are untouched.
 
 # 6. Planned sequential path
 
@@ -347,11 +402,11 @@ At least one historical retailer-linked Hirasaka-written SS is now verified, so 
 
 **Phase 0:** CLOSED / PASS.
 
-**Phase 1 current state:** V01–V03, V04–V06, V07–V09, and V10–V12 checkpoints are canonical/frozen; V01 through V13 sequential readings are canonical; all eight longitudinal ledgers are reconciled through V13. The latest frozen claim/question boundary remains `IMOSAE_V10-V12_CHECKPOINT.md`. V13 pressure-tests the frozen self-authorship model under professional authority, public circulation, and community maintenance; `IM-C041` is active provisional alongside V13 revisions to existing claims.
+**Phase 1 current state:** V01–V14 readings and all five checkpoints are complete; all eight ledgers are canonical through V14. Published-byte V14 SHA-256 `e3bdbec2041a19dac8ad37726f07ed5820f2102a4722f74bc23b2817f4f8b489`; fifth checkpoint SHA-256 `bd21fbb5e24d86108e9296574f43779f5198caa0f36ab5346726747e48ac507b`. [First-publication compatibility receipt](08%20Audits%20and%20Manifests/authority_audits/IMOSAE_FIRST_PUBLICATION_COMPATIBILITY_TRANSFORMATION.md) preserves the original tranche hashes and records required LF/opaque-Drive-ID representation changes with all evidence/interpretive states retained. [Ledger validation](08%20Audits%20and%20Manifests/contradiction_audits/IMOSAE_V14_LEDGER_RECONCILIATION_VALIDATION.md) records exact resulting ledger bytes. Mature retrospective work and all mainline retrieval/review responsibilities are complete.
 
-**Phase 1 next:** `IMOSAE_V14_DEEP_READING.md`.
+**Next permitted operation:** no additional mainline source analysis is required within V01–V14. Publication follows the exact-path preflight, stable branch, housekeeping, final-head audit and protected integration contract. A future supplement, adaptation, performance or new comparison needs separately classified admission and an explicit delta; the existing open ceilings remain intact.
 
-V14 must inherit all four frozen checkpoints through V12 plus canonical V13 prior context and use only V14 as new semantic evidence. Do not use post-series synthesis to settle V14 uncertainty. After V14 and ledger reconciliation, create `IMOSAE_V13-V14_END_STATE_CHECKPOINT.md` before full-series/end-state synthesis.
+V14 inherited the four checkpoints and V13 prior before ordered reading. Its apparent adolescent future is Itsuki's embedded draft, not actual biography; the final frame establishes Chihiro's secret astronaut goal and Kazuko's pregnancy. Preserve these distinctions in the checkpoint, every ledger, specialist and model. The fifth checkpoint explicitly defers external supplements for this fourteen-volume assignment. The verified eight-ledger transaction and explicit supplemental deferral open the mature specialist phase.
 
 
 
@@ -375,7 +430,7 @@ V14 must inherit all four frozen checkpoints through V12 plus canonical V13 prio
 - Claim freeze: `IM-C001`–`IM-C040`; bounded checkpoint support for `IM-C016`, `IM-C034`, `IM-C037`, `IM-C038`; `IM-C023`, `IM-C025`, `IM-C036`, `IM-C039`, `IM-C040` remain OPEN.
 - Critical recovery boundary: V11 technical/function recovery is real; identity/relational integration is separately tracked, not a hidden sole definition of recovery.
 - Prospective audit: no V13–V14 semantic evidence locators.
-- V13 gate satisfied: `IMOSAE_V13_DEEP_READING.md` is canonical. Next sequential artifact is `IMOSAE_V14_DEEP_READING.md`; final V13–V14 checkpoint remains gated until V14.
+- V13 gate satisfied: `IMOSAE_V13_DEEP_READING.md` is canonical. At that verification boundary the next artifact was V14; its current completion and fifth-checkpoint next action are recorded above.
 
 ## V13 source/evidence verification
 
@@ -386,7 +441,7 @@ V14 must inherit all four frozen checkpoints through V12 plus canonical V13 prio
 - Prospective semantic boundary: no V14 semantic-evidence locator is used.
 - Drive mirror: canonical V13 artifact is Drive `1Z80krn9OKpBaFsBwRwf7pJiGFQRxyIuy`; expected raw readback is 211,571 bytes.
 - Critical end-state: Kyo/Haruto have acknowledged mutual feeling but are not dating; Itsuki has proposed to Nayuta, whose answer is strongly implied but not quoted; `IM-C041` is OPEN NEW.
-- Next gate: `IMOSAE_V14_DEEP_READING.md`; after V14, `IMOSAE_V13-V14_END_STATE_CHECKPOINT.md` is mandatory.
+- Historical next gate was V14, now complete; the fifth checkpoint is now frozen as recorded above.
 
 ## V12 source/evidence verification
 

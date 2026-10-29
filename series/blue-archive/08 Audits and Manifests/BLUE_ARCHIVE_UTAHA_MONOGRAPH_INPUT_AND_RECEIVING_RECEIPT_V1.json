@@ -1,0 +1,3036 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_INPUT_AND_AUTHOR_SCOPE_RECEIPT_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Utaha",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for 5f0a24b56557f308e9cef31c7d1c2d58406ef49a, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+    "bytes": 92196,
+    "sha256": "1445d750de0d9f4bdba9b52e0e7330ea37ad897a1d7fe1549406eb7db47d64b7",
+    "git_blob_oid_of_actual_bytes": "741ca8130aa9ff9be47b29791afcb59a27e23369",
+    "lines": 1668,
+    "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "UTAHA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1",
+    "status": "AUTHOR_SOURCE_SCOPE_COMPLETE_ROOT_REVIEW_PENDING",
+    "package": "P3-CHAR-UTAHA",
+    "typed_family": "P3-F143",
+    "dated_route": "P3-A068",
+    "person_key": "BA_PERSON_UTAHA",
+    "variants": [
+      10051,
+      23004
+    ],
+    "costume": "1900906401:character:10051",
+    "body": {
+      "file": "BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+      "byte_count": 50384,
+      "line_count": 154,
+      "sha256": "7345567930a555f7f9152b6f1f25d40f17ac03720a1065f0c19ba8d09184cb05",
+      "actual_byte_blob_oid": "069e67eea0c5332679383e11cd4ce089a6488ad7"
+    },
+    "proposed_canonical_home": "series/blue-archive/04 Specialist Syntheses/CHARACTERS/BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+    "required_home": {
+      "home_key": "P3-CHAR-UTAHA",
+      "kind": "CHARACTER",
+      "source_responsibility_refs": [
+        "P3-F143"
+      ],
+      "scope_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "allocation_is_completion": false,
+      "selected_home_reading_only": true
+    },
+    "frozen_selection_snapshot": "92184703994a1950a5660654ce52d8516dbe9bf5",
+    "analytical_main_comparand": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "architecture": "Current1.12 differs from main1.11; eleven sections unchanged; allhistoricaltuples distinct",
+    "inputs": [
+      {
+        "source_id": "A01",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_count": 52261,
+        "line_count": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "author_receiving_scope": "Current required eleven sections L322–344 personally received fb4f2f; current1.12 equalsc1 but main1.11 differs, eleven requirements unchanged",
+        "custody_kind": "PRIOR_COMPLETE_ANALYTICAL_OR_DECLARED_CONTROL_REUSE",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 52261,
+            "line_count": 851,
+            "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+            "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 52261,
+            "line_count": 851,
+            "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+            "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": false,
+            "byte_count": 51287,
+            "line_count": 849,
+            "sha256": "e5e0c9794fdb9664a61110eb002afc75011b75e49ab5965ad8808231455cd7cd",
+            "actual_byte_blob_oid": "685661b716fd0032997883efeb294425b0816c18"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "A02",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "byte_count": 53414,
+        "line_count": 840,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "actual_byte_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "author_receiving_scope": "Applicable entire L327–379 minimum sources/required dimensions/ordinary before crisis personally received31a0cb; prior necessary comparison/counterreading controls retained",
+        "custody_kind": "PRIOR_COMPLETE_ANALYTICAL_OR_DECLARED_CONTROL_REUSE",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 53414,
+            "line_count": 840,
+            "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+            "actual_byte_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 53414,
+            "line_count": 840,
+            "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+            "actual_byte_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 53414,
+            "line_count": 840,
+            "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+            "actual_byte_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "A03",
+        "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+        "byte_count": 79178,
+        "line_count": 354,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "actual_byte_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "author_receiving_scope": "Prior personally received all fourteen literal definitions L31–44 in Noa frozen source receipt C03, with G13/G14 recoveryf0f49c; reused at exact current tuple",
+        "custody_kind": "PRIOR_COMPLETE_ANALYTICAL_OR_DECLARED_CONTROL_REUSE",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 79178,
+            "line_count": 354,
+            "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+            "actual_byte_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 79178,
+            "line_count": 354,
+            "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+            "actual_byte_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 79178,
+            "line_count": 354,
+            "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+            "actual_byte_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "A04",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+        "byte_count": 19463,
+        "line_count": 113,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "actual_byte_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "author_receiving_scope": "Prior complete current113-line Cycle008 admission/control argument reused from frozen Trinity/Noa custody; not fresh primary",
+        "custody_kind": "PRIOR_COMPLETE_ANALYTICAL_OR_DECLARED_CONTROL_REUSE",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 19463,
+            "line_count": 113,
+            "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+            "actual_byte_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 19463,
+            "line_count": 113,
+            "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+            "actual_byte_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 19463,
+            "line_count": 113,
+            "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+            "actual_byte_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "C05",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "byte_count": 461112,
+        "line_count": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+        "author_receiving_scope": "Fresh selected exact Utaha/Hibiki/Kotori home objects only; 355/29 scope retained, not whole355 literary receiving. Printed by engineering_home_working.py.",
+        "custody_kind": "PRIOR_COMPLETE_ANALYTICAL_OR_DECLARED_CONTROL_REUSE",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 461112,
+            "line_count": 6514,
+            "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+            "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": false,
+            "qualification": "Later exact scope control; not false historical equality"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": false,
+            "qualification": "Later exact scope control; not false historical equality"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "C06",
+        "repository_relative_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+        "byte_count": 21833,
+        "line_count": 289,
+        "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+        "actual_byte_blob_oid": "195739a98c7b439b48bfd8e973282e941a45d8e1",
+        "author_receiving_scope": "Prior exact current ROOT V3 scope acceptance355/29 with zero allocation completion and all14OPEN reused; no new ROOT adjudication or whole review credit",
+        "custody_kind": "PRIOR_COMPLETE_ANALYTICAL_OR_DECLARED_CONTROL_REUSE",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 21833,
+            "line_count": 289,
+            "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+            "actual_byte_blob_oid": "195739a98c7b439b48bfd8e973282e941a45d8e1"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": false,
+            "qualification": "Later exact scope control; not false historical equality"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": false,
+            "qualification": "Later exact scope control; not false historical equality"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E17",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "byte_count": 15844,
+        "line_count": 99,
+        "sha256": "4bbb3e21eb2959d3a06f1f0fb4b66111017a6d7e113283d7b32f7dd66aee852e",
+        "actual_byte_blob_oid": "779b22f9d700bbcfe2e8aa38e628217ed9891858",
+        "author_receiving_scope": "Prior whole own39e06b accepted corrected comparative owner; current consequential L65–89 full9af6d5, not replay of historical superseded corrected episodes; current Hare complete consequential L65–92 c72623; current Kotama fullL65–92cd17ca; Utaha current whole consequentialL60–99EOF newly received, preserving exact817 costume corrections.",
+        "custody_kind": "PRIOR_COMPLETE_ANALYTICAL_OR_DECLARED_CONTROL_REUSE",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 15844,
+            "line_count": 99,
+            "sha256": "4bbb3e21eb2959d3a06f1f0fb4b66111017a6d7e113283d7b32f7dd66aee852e",
+            "actual_byte_blob_oid": "779b22f9d700bbcfe2e8aa38e628217ed9891858"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 15844,
+            "line_count": 99,
+            "sha256": "4bbb3e21eb2959d3a06f1f0fb4b66111017a6d7e113283d7b32f7dd66aee852e",
+            "actual_byte_blob_oid": "779b22f9d700bbcfe2e8aa38e628217ed9891858"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 15844,
+            "line_count": 99,
+            "sha256": "4bbb3e21eb2959d3a06f1f0fb4b66111017a6d7e113283d7b32f7dd66aee852e",
+            "actual_byte_blob_oid": "779b22f9d700bbcfe2e8aa38e628217ed9891858"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E10",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "byte_count": 46462,
+        "line_count": 316,
+        "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+        "actual_byte_blob_oid": "13b90d6ccfe8df728be0e963cfb8c62c0116f2c2",
+        "author_receiving_scope": "Whole316-line maintained analytical owner: 5294de first199 lines present, combined output clipped200–250;1bc3f7 full200–260 and5ae824261–316EOF recover all omitted fields/meaning.102-object argument attribution retained; zero all-primary credit.; currentUtaha contextual gift projection290 reused; independent complete024 below.",
+        "custody_kind": "PRIOR_COMPLETE_ANALYTICAL_OR_DECLARED_CONTROL_REUSE",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 46462,
+            "line_count": 316,
+            "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+            "actual_byte_blob_oid": "13b90d6ccfe8df728be0e963cfb8c62c0116f2c2"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 46462,
+            "line_count": 316,
+            "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+            "actual_byte_blob_oid": "13b90d6ccfe8df728be0e963cfb8c62c0116f2c2"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 46462,
+            "line_count": 316,
+            "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+            "actual_byte_blob_oid": "13b90d6ccfe8df728be0e963cfb8c62c0116f2c2"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "PW",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "byte_count": 33564,
+        "line_count": 257,
+        "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+        "actual_byte_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+        "author_receiving_scope": "Personally whole257line normal analytical account da983a1–115/9c6161116–257EOF. All comparator and current six-family/Kei/context means preserved; no all45MAIN/all577private primary credit. Whole source form includes dated producer duties superseded byCycle008.; current Maki finite contribution clauses3846aa; whole prior analytical custody reused without assigning unprinted engineering authorship; current scoped L40–100 and literal routing; actual necessary six complete individual arguments below.",
+        "custody_kind": "PRIOR_COMPLETE_ANALYTICAL_OR_DECLARED_CONTROL_REUSE",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 33564,
+            "line_count": 257,
+            "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+            "actual_byte_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 33564,
+            "line_count": 257,
+            "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+            "actual_byte_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 33564,
+            "line_count": 257,
+            "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+            "actual_byte_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "F00",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "byte_count": 49292,
+        "line_count": 452,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "actual_byte_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+        "author_receiving_scope": "Prior personally complete452-line Final contextual argument in frozen first Trinity trio reused through Noa frozen F00 custody; current relevant local clauses149/210/229/334 routed39b90b/7e5b86. Historical producer/source statuses qualified by currentCycle008; no aggregate causal transfer to Koyuki; current Maki finite contribution clauses3846aa; whole prior analytical custody reused without assigning unprinted engineering authorship; current Utaha literal149/227/344 plus207–239/310–337, ending112/142/151/162–175/205/241/247 reused at prior complete scope.",
+        "custody_kind": "PRIOR_COMPLETE_ANALYTICAL_OR_DECLARED_CONTROL_REUSE",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 49292,
+            "line_count": 452,
+            "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+            "actual_byte_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 49292,
+            "line_count": 452,
+            "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+            "actual_byte_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 49292,
+            "line_count": 452,
+            "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+            "actual_byte_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "U23",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "byte_count": 27115,
+        "line_count": 286,
+        "sha256": "299f87770ef861a392ee5ce59955ba1c04500b41f273ccc45bf173519744cc48",
+        "actual_byte_blob_oid": "eac3d7ade7e36216f40b5206b5da94e7f97773a7",
+        "author_receiving_scope": "Personally current whole286lines L1–151/152–286EOF, normal family meaning including23 selected objects and current qualification; zero23 freshprimary.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 27115,
+            "line_count": 286,
+            "sha256": "299f87770ef861a392ee5ce59955ba1c04500b41f273ccc45bf173519744cc48",
+            "actual_byte_blob_oid": "eac3d7ade7e36216f40b5206b5da94e7f97773a7"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 27115,
+            "line_count": 286,
+            "sha256": "299f87770ef861a392ee5ce59955ba1c04500b41f273ccc45bf173519744cc48",
+            "actual_byte_blob_oid": "eac3d7ade7e36216f40b5206b5da94e7f97773a7"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 27115,
+            "line_count": 286,
+            "sha256": "299f87770ef861a392ee5ce59955ba1c04500b41f273ccc45bf173519744cc48",
+            "actual_byte_blob_oid": "eac3d7ade7e36216f40b5206b5da94e7f97773a7"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "G14",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "byte_count": 24487,
+        "line_count": 153,
+        "sha256": "2f196a0f37e8bb018bf29b953b20f233be8bcbd829936448dcc51728d45a84b2",
+        "actual_byte_blob_oid": "5af18f683c454059385397183a8822af7c9f7058",
+        "author_receiving_scope": "Personally current whole153lines L1–85/86–153EOF, allthree ordinary/device/ownership/retaliation arguments; prior wholeV2 scope retained.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 24487,
+            "line_count": 153,
+            "sha256": "2f196a0f37e8bb018bf29b953b20f233be8bcbd829936448dcc51728d45a84b2",
+            "actual_byte_blob_oid": "5af18f683c454059385397183a8822af7c9f7058"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 24487,
+            "line_count": 153,
+            "sha256": "2f196a0f37e8bb018bf29b953b20f233be8bcbd829936448dcc51728d45a84b2",
+            "actual_byte_blob_oid": "5af18f683c454059385397183a8822af7c9f7058"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 24487,
+            "line_count": 153,
+            "sha256": "2f196a0f37e8bb018bf29b953b20f233be8bcbd829936448dcc51728d45a84b2",
+            "actual_byte_blob_oid": "5af18f683c454059385397183a8822af7c9f7058"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E18",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 109502,
+        "line_count": 534,
+        "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187",
+        "actual_byte_blob_oid": "f359d3ab6367591050eb85c4dbbfe7abec940b66",
+        "author_receiving_scope": "CURRENT_ROUTING_AND_ACTOR_AUTHORITY_SCOPE_ONLY: emitted current23–40 and positive Utaha/header/literary/actor rows134/205–215/242/245/277/341–348/384–388/457–459. Not whole534 receiving; complete007/009/010/017 arguments separately below. No raw replay.",
+        "custody_kind": "SCOPED_CURRENT_AUTHORITY_AND_ACTOR_CONTROL",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 109502,
+            "line_count": 534,
+            "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187",
+            "actual_byte_blob_oid": "f359d3ab6367591050eb85c4dbbfe7abec940b66"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 109502,
+            "line_count": 534,
+            "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187",
+            "actual_byte_blob_oid": "f359d3ab6367591050eb85c4dbbfe7abec940b66"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 109502,
+            "line_count": 534,
+            "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187",
+            "actual_byte_blob_oid": "f359d3ab6367591050eb85c4dbbfe7abec940b66"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E18007",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "byte_count": 8542,
+        "line_count": 68,
+        "sha256": "4dc7f8921e4962faf3dae333742524bf0b2e4ad48008e3f8128d2b0f7181c1fa",
+        "actual_byte_blob_oid": "6e44f7ef305c8b634e4a493f1184b3a13970a3f0",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicit physicalEOF; precise choices, raw-command refinements, contrary recipients and ending. Actual fresh analytical receiving by engineering_read_episode_working.py, no primary.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 8542,
+            "line_count": 68,
+            "sha256": "4dc7f8921e4962faf3dae333742524bf0b2e4ad48008e3f8128d2b0f7181c1fa",
+            "actual_byte_blob_oid": "6e44f7ef305c8b634e4a493f1184b3a13970a3f0"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 8542,
+            "line_count": 68,
+            "sha256": "4dc7f8921e4962faf3dae333742524bf0b2e4ad48008e3f8128d2b0f7181c1fa",
+            "actual_byte_blob_oid": "6e44f7ef305c8b634e4a493f1184b3a13970a3f0"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 8542,
+            "line_count": 68,
+            "sha256": "4dc7f8921e4962faf3dae333742524bf0b2e4ad48008e3f8128d2b0f7181c1fa",
+            "actual_byte_blob_oid": "6e44f7ef305c8b634e4a493f1184b3a13970a3f0"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E18009",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "byte_count": 8127,
+        "line_count": 70,
+        "sha256": "668e7dd8623b83263bf83fc5738703752ac81065ef3192293bfb91ece637fb28",
+        "actual_byte_blob_oid": "4313276d4c06791f015f0edaa2e3aa85eb1f08dd",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicit physicalEOF; precise choices, raw-command refinements, contrary recipients and ending. Actual fresh analytical receiving by engineering_read_episode_working.py, no primary.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 8127,
+            "line_count": 70,
+            "sha256": "668e7dd8623b83263bf83fc5738703752ac81065ef3192293bfb91ece637fb28",
+            "actual_byte_blob_oid": "4313276d4c06791f015f0edaa2e3aa85eb1f08dd"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 8127,
+            "line_count": 70,
+            "sha256": "668e7dd8623b83263bf83fc5738703752ac81065ef3192293bfb91ece637fb28",
+            "actual_byte_blob_oid": "4313276d4c06791f015f0edaa2e3aa85eb1f08dd"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 8127,
+            "line_count": 70,
+            "sha256": "668e7dd8623b83263bf83fc5738703752ac81065ef3192293bfb91ece637fb28",
+            "actual_byte_blob_oid": "4313276d4c06791f015f0edaa2e3aa85eb1f08dd"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E18010",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "byte_count": 7590,
+        "line_count": 66,
+        "sha256": "e5a1f1842a7a6791c90c82a067d700b54dda14a0eebebc2a26eef421add49bcf",
+        "actual_byte_blob_oid": "f63c12ac184bc7fe83491869fec55f4fb788a7f5",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicit physicalEOF; precise choices, raw-command refinements, contrary recipients and ending. Actual fresh analytical receiving by engineering_read_episode_working.py, no primary.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 7590,
+            "line_count": 66,
+            "sha256": "e5a1f1842a7a6791c90c82a067d700b54dda14a0eebebc2a26eef421add49bcf",
+            "actual_byte_blob_oid": "f63c12ac184bc7fe83491869fec55f4fb788a7f5"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 7590,
+            "line_count": 66,
+            "sha256": "e5a1f1842a7a6791c90c82a067d700b54dda14a0eebebc2a26eef421add49bcf",
+            "actual_byte_blob_oid": "f63c12ac184bc7fe83491869fec55f4fb788a7f5"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 7590,
+            "line_count": 66,
+            "sha256": "e5a1f1842a7a6791c90c82a067d700b54dda14a0eebebc2a26eef421add49bcf",
+            "actual_byte_blob_oid": "f63c12ac184bc7fe83491869fec55f4fb788a7f5"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E18017",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md",
+        "byte_count": 6807,
+        "line_count": 59,
+        "sha256": "246577ca6434bb42420e89200267cde4c1c347210f2056f18ef0047b667b21e6",
+        "actual_byte_blob_oid": "8a0da842a1a3e2a448a99e3928da1e8f8a0256a6",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicit physicalEOF; precise choices, raw-command refinements, contrary recipients and ending. Actual fresh analytical receiving by engineering_read_episode_working.py, no primary.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 6807,
+            "line_count": 59,
+            "sha256": "246577ca6434bb42420e89200267cde4c1c347210f2056f18ef0047b667b21e6",
+            "actual_byte_blob_oid": "8a0da842a1a3e2a448a99e3928da1e8f8a0256a6"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 6807,
+            "line_count": 59,
+            "sha256": "246577ca6434bb42420e89200267cde4c1c347210f2056f18ef0047b667b21e6",
+            "actual_byte_blob_oid": "8a0da842a1a3e2a448a99e3928da1e8f8a0256a6"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 6807,
+            "line_count": 59,
+            "sha256": "246577ca6434bb42420e89200267cde4c1c347210f2056f18ef0047b667b21e6",
+            "actual_byte_blob_oid": "8a0da842a1a3e2a448a99e3928da1e8f8a0256a6"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "L24",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_024_80000024_DEEP_READING.md",
+        "byte_count": 7706,
+        "line_count": 68,
+        "sha256": "2c5f7031319b405b60f4f454ed85c44e9561e8cc834d33c45bbcb1d0c0d71a48",
+        "actual_byte_blob_oid": "bef08e2ea56e275c9c0e630b4f149d0cbfe0ea36",
+        "author_receiving_scope": "Personally complete68line current gift argument throughEOF, including locale distinction and final unperformed replacement/consumption/repair; dated producer intakes qualified by currentCycle008.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 7706,
+            "line_count": 68,
+            "sha256": "2c5f7031319b405b60f4f454ed85c44e9561e8cc834d33c45bbcb1d0c0d71a48",
+            "actual_byte_blob_oid": "bef08e2ea56e275c9c0e630b4f149d0cbfe0ea36"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 7706,
+            "line_count": 68,
+            "sha256": "2c5f7031319b405b60f4f454ed85c44e9561e8cc834d33c45bbcb1d0c0d71a48",
+            "actual_byte_blob_oid": "bef08e2ea56e275c9c0e630b4f149d0cbfe0ea36"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 7706,
+            "line_count": 68,
+            "sha256": "2c5f7031319b405b60f4f454ed85c44e9561e8cc834d33c45bbcb1d0c0d71a48",
+            "actual_byte_blob_oid": "bef08e2ea56e275c9c0e630b4f149d0cbfe0ea36"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P107",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "byte_count": 12509,
+        "line_count": 84,
+        "sha256": "e0bc0cfef4412114e40881b49095e2d8eb10e2068e1fc1b1a020e176239137ac",
+        "actual_byte_blob_oid": "2608db30916cadc69708a903ee0550cb24018a33",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 12509,
+            "line_count": 84,
+            "sha256": "e0bc0cfef4412114e40881b49095e2d8eb10e2068e1fc1b1a020e176239137ac",
+            "actual_byte_blob_oid": "2608db30916cadc69708a903ee0550cb24018a33"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 12509,
+            "line_count": 84,
+            "sha256": "e0bc0cfef4412114e40881b49095e2d8eb10e2068e1fc1b1a020e176239137ac",
+            "actual_byte_blob_oid": "2608db30916cadc69708a903ee0550cb24018a33"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 12509,
+            "line_count": 84,
+            "sha256": "e0bc0cfef4412114e40881b49095e2d8eb10e2068e1fc1b1a020e176239137ac",
+            "actual_byte_blob_oid": "2608db30916cadc69708a903ee0550cb24018a33"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P212",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "byte_count": 11241,
+        "line_count": 77,
+        "sha256": "41a3b59d29497baf1b336a212e376eea921ae3f1f00e345c4de4071987fb830e",
+        "actual_byte_blob_oid": "e21a57cb3b916b02dff14e98b59f1296cd6b4cc8",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 11241,
+            "line_count": 77,
+            "sha256": "41a3b59d29497baf1b336a212e376eea921ae3f1f00e345c4de4071987fb830e",
+            "actual_byte_blob_oid": "e21a57cb3b916b02dff14e98b59f1296cd6b4cc8"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 11241,
+            "line_count": 77,
+            "sha256": "41a3b59d29497baf1b336a212e376eea921ae3f1f00e345c4de4071987fb830e",
+            "actual_byte_blob_oid": "e21a57cb3b916b02dff14e98b59f1296cd6b4cc8"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 11241,
+            "line_count": 77,
+            "sha256": "41a3b59d29497baf1b336a212e376eea921ae3f1f00e345c4de4071987fb830e",
+            "actual_byte_blob_oid": "e21a57cb3b916b02dff14e98b59f1296cd6b4cc8"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P213",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md",
+        "byte_count": 9575,
+        "line_count": 72,
+        "sha256": "f855463a73fe432f6d98c55f921604e55ae643c9b472817e2c0876d42df7dc96",
+        "actual_byte_blob_oid": "86829cde73fcf167ccf0166e22fb7fdee08c6ce5",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 9575,
+            "line_count": 72,
+            "sha256": "f855463a73fe432f6d98c55f921604e55ae643c9b472817e2c0876d42df7dc96",
+            "actual_byte_blob_oid": "86829cde73fcf167ccf0166e22fb7fdee08c6ce5"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 9575,
+            "line_count": 72,
+            "sha256": "f855463a73fe432f6d98c55f921604e55ae643c9b472817e2c0876d42df7dc96",
+            "actual_byte_blob_oid": "86829cde73fcf167ccf0166e22fb7fdee08c6ce5"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 9575,
+            "line_count": 72,
+            "sha256": "f855463a73fe432f6d98c55f921604e55ae643c9b472817e2c0876d42df7dc96",
+            "actual_byte_blob_oid": "86829cde73fcf167ccf0166e22fb7fdee08c6ce5"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P217",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md",
+        "byte_count": 10259,
+        "line_count": 75,
+        "sha256": "2e0f08a62820cb98953d2b6aa13f19eef6299c95abf04266e1246af91a2a80b8",
+        "actual_byte_blob_oid": "b9a6fd3f5b0196887f8a55411a63ca6f68106d70",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 10259,
+            "line_count": 75,
+            "sha256": "2e0f08a62820cb98953d2b6aa13f19eef6299c95abf04266e1246af91a2a80b8",
+            "actual_byte_blob_oid": "b9a6fd3f5b0196887f8a55411a63ca6f68106d70"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 10259,
+            "line_count": 75,
+            "sha256": "2e0f08a62820cb98953d2b6aa13f19eef6299c95abf04266e1246af91a2a80b8",
+            "actual_byte_blob_oid": "b9a6fd3f5b0196887f8a55411a63ca6f68106d70"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 10259,
+            "line_count": 75,
+            "sha256": "2e0f08a62820cb98953d2b6aa13f19eef6299c95abf04266e1246af91a2a80b8",
+            "actual_byte_blob_oid": "b9a6fd3f5b0196887f8a55411a63ca6f68106d70"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P219",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E019_DEEP_READING.md",
+        "byte_count": 9028,
+        "line_count": 70,
+        "sha256": "7c8bd1a797da200a4d2022db0ada22f0c24f47fbea40094aa8eaa7b34ea89d1e",
+        "actual_byte_blob_oid": "c61adbf485220454d78092669fdaafb191db6557",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 9028,
+            "line_count": 70,
+            "sha256": "7c8bd1a797da200a4d2022db0ada22f0c24f47fbea40094aa8eaa7b34ea89d1e",
+            "actual_byte_blob_oid": "c61adbf485220454d78092669fdaafb191db6557"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 9028,
+            "line_count": 70,
+            "sha256": "7c8bd1a797da200a4d2022db0ada22f0c24f47fbea40094aa8eaa7b34ea89d1e",
+            "actual_byte_blob_oid": "c61adbf485220454d78092669fdaafb191db6557"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 9028,
+            "line_count": 70,
+            "sha256": "7c8bd1a797da200a4d2022db0ada22f0c24f47fbea40094aa8eaa7b34ea89d1e",
+            "actual_byte_blob_oid": "c61adbf485220454d78092669fdaafb191db6557"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P223",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md",
+        "byte_count": 10620,
+        "line_count": 77,
+        "sha256": "26d08a3839c57f51aee0a98ce26c97eb6f54f72f28ecbb4280acd1e1c56ea2cf",
+        "actual_byte_blob_oid": "92ab9cf967d913d49e09fae6c09eef0d119d2650",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 10620,
+            "line_count": 77,
+            "sha256": "26d08a3839c57f51aee0a98ce26c97eb6f54f72f28ecbb4280acd1e1c56ea2cf",
+            "actual_byte_blob_oid": "92ab9cf967d913d49e09fae6c09eef0d119d2650"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 10620,
+            "line_count": 77,
+            "sha256": "26d08a3839c57f51aee0a98ce26c97eb6f54f72f28ecbb4280acd1e1c56ea2cf",
+            "actual_byte_blob_oid": "92ab9cf967d913d49e09fae6c09eef0d119d2650"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 10620,
+            "line_count": 77,
+            "sha256": "26d08a3839c57f51aee0a98ce26c97eb6f54f72f28ecbb4280acd1e1c56ea2cf",
+            "actual_byte_blob_oid": "92ab9cf967d913d49e09fae6c09eef0d119d2650"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "F216",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E016_DEEP_READING.md",
+        "byte_count": 2316,
+        "line_count": 26,
+        "sha256": "cc8bffc658943c6f8b51984c30e63bbcb0f11b8764ef43d518e3c1109a111bef",
+        "actual_byte_blob_oid": "b4b08dd331cba4f7a57948aa20dbde82617139df",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 2316,
+            "line_count": 26,
+            "sha256": "cc8bffc658943c6f8b51984c30e63bbcb0f11b8764ef43d518e3c1109a111bef",
+            "actual_byte_blob_oid": "b4b08dd331cba4f7a57948aa20dbde82617139df"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 2316,
+            "line_count": 26,
+            "sha256": "cc8bffc658943c6f8b51984c30e63bbcb0f11b8764ef43d518e3c1109a111bef",
+            "actual_byte_blob_oid": "b4b08dd331cba4f7a57948aa20dbde82617139df"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 2316,
+            "line_count": 26,
+            "sha256": "cc8bffc658943c6f8b51984c30e63bbcb0f11b8764ef43d518e3c1109a111bef",
+            "actual_byte_blob_oid": "b4b08dd331cba4f7a57948aa20dbde82617139df"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "F307",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md",
+        "byte_count": 6643,
+        "line_count": 39,
+        "sha256": "341fac9070d15a90f4d180c2402d57f43e811af5cd1a455be2afb42f4f18fe2c",
+        "actual_byte_blob_oid": "40c7685c7e73c5c05a594d380110e919d0c165c7",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 6643,
+            "line_count": 39,
+            "sha256": "341fac9070d15a90f4d180c2402d57f43e811af5cd1a455be2afb42f4f18fe2c",
+            "actual_byte_blob_oid": "40c7685c7e73c5c05a594d380110e919d0c165c7"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 6643,
+            "line_count": 39,
+            "sha256": "341fac9070d15a90f4d180c2402d57f43e811af5cd1a455be2afb42f4f18fe2c",
+            "actual_byte_blob_oid": "40c7685c7e73c5c05a594d380110e919d0c165c7"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 6643,
+            "line_count": 39,
+            "sha256": "341fac9070d15a90f4d180c2402d57f43e811af5cd1a455be2afb42f4f18fe2c",
+            "actual_byte_blob_oid": "40c7685c7e73c5c05a594d380110e919d0c165c7"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "F315",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E015_DEEP_READING.md",
+        "byte_count": 5125,
+        "line_count": 36,
+        "sha256": "10a6d3b598fca1e4d8e68986daa27a9e16d48aeb2c443e271e759e4959ff65c1",
+        "actual_byte_blob_oid": "71c473bfe50b6d43d70ffc3080a259d3df981f9e",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "custody_kind": "PERSONALLY_COMPLETE_CURRENT_ANALYTICAL_ARGUMENT",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "same_bytes": true,
+            "byte_count": 5125,
+            "line_count": 36,
+            "sha256": "10a6d3b598fca1e4d8e68986daa27a9e16d48aeb2c443e271e759e4959ff65c1",
+            "actual_byte_blob_oid": "71c473bfe50b6d43d70ffc3080a259d3df981f9e"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "same_bytes": true,
+            "byte_count": 5125,
+            "line_count": 36,
+            "sha256": "10a6d3b598fca1e4d8e68986daa27a9e16d48aeb2c443e271e759e4959ff65c1",
+            "actual_byte_blob_oid": "71c473bfe50b6d43d70ffc3080a259d3df981f9e"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "same_bytes": true,
+            "byte_count": 5125,
+            "line_count": 36,
+            "sha256": "10a6d3b598fca1e4d8e68986daa27a9e16d48aeb2c443e271e759e4959ff65c1",
+            "actual_byte_blob_oid": "71c473bfe50b6d43d70ffc3080a259d3df981f9e"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      }
+    ],
+    "local_complete_original_analytical_owners": [
+      {
+        "source_id": "U01",
+        "attachment_relative_path": "ROOT_UTAHA23_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_d0fd9e4f/ARGUMENTS14/BLUE_ARCHIVE_UTAHA_BOND_10051_E002_PAIRED_DEEP_READING.md",
+        "byte_count": 16394,
+        "line_count": 110,
+        "sha256": "bde4c20ee3f3ae0c20515c710392f93215b15954e83401ea1d0e7bd9fccffb1d",
+        "actual_byte_blob_oid": "38ef7e271d6b0683d9110dbf3cee1a5f9bf3020f",
+        "personally_received_character_spans": [
+          0,
+          16196
+        ],
+        "through_physical_EOF": true,
+        "canonical_source_ids_attributed": [
+          "BA:bond:10051:002",
+          "BA:momotalk:10051:thread:100510010"
+        ],
+        "current_public_authority": "U23 plus Cycle008/A04; originals historical authoring states remain immutable",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "U02",
+        "attachment_relative_path": "ROOT_UTAHA23_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_d0fd9e4f/ARGUMENTS14/BLUE_ARCHIVE_UTAHA_BOND_10051_E003_PAIRED_DEEP_READING.md",
+        "byte_count": 17780,
+        "line_count": 112,
+        "sha256": "4bec87ef9199f24106e83f55de8ad6b2308df1cee65fb9fd666ab27b971f30d4",
+        "actual_byte_blob_oid": "73e9d87c9ca6816564e4f057e9a9a7ca2573d05f",
+        "personally_received_character_spans": [
+          0,
+          17582
+        ],
+        "through_physical_EOF": true,
+        "canonical_source_ids_attributed": [
+          "BA:bond:10051:003",
+          "BA:momotalk:10051:thread:100510080"
+        ],
+        "current_public_authority": "U23 plus Cycle008/A04; originals historical authoring states remain immutable",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "U03",
+        "attachment_relative_path": "ROOT_UTAHA23_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_d0fd9e4f/ARGUMENTS14/BLUE_ARCHIVE_UTAHA_BOND_10051_E005_PAIRED_DEEP_READING.md",
+        "byte_count": 19918,
+        "line_count": 114,
+        "sha256": "c0c33e1863e375303b155dd202080d2376b0cd6c78669030939452056ce3f5be",
+        "actual_byte_blob_oid": "cccf5dac456acfa777091fdaade290e0b16e5b85",
+        "personally_received_character_spans": [
+          0,
+          19768
+        ],
+        "through_physical_EOF": true,
+        "canonical_source_ids_attributed": [
+          "BA:bond:10051:005",
+          "BA:momotalk:10051:thread:100510170"
+        ],
+        "current_public_authority": "U23 plus Cycle008/A04; originals historical authoring states remain immutable",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "U04",
+        "attachment_relative_path": "ROOT_UTAHA23_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_d0fd9e4f/ARGUMENTS14/BLUE_ARCHIVE_UTAHA_BOND_10051_E006_PAIRED_DEEP_READING.md",
+        "byte_count": 21540,
+        "line_count": 116,
+        "sha256": "640f6c2ec33ec9080093cc81d652352f8efea94a5ed5ff5d68b6cc00b15bd008",
+        "actual_byte_blob_oid": "dbffd2399d57a9c7c8435d1bfe882d99c1836573",
+        "personally_received_character_spans": [
+          0,
+          21178
+        ],
+        "through_physical_EOF": true,
+        "canonical_source_ids_attributed": [
+          "BA:bond:10051:006",
+          "BA:momotalk:10051:thread:100510320"
+        ],
+        "current_public_authority": "U23 plus Cycle008/A04; originals historical authoring states remain immutable",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "U05",
+        "attachment_relative_path": "ROOT_UTAHA23_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_d0fd9e4f/ARGUMENTS14/BLUE_ARCHIVE_UTAHA_BOND_23004_E002_PAIRED_DEEP_READING.md",
+        "byte_count": 18737,
+        "line_count": 114,
+        "sha256": "ce5b394cf8d741075b2d194eb09e55bf9e6f71f86d7873c3915f838c2bfc5f59",
+        "actual_byte_blob_oid": "3c21dd0f45b00e838c012b841864f729f35d1e83",
+        "personally_received_character_spans": [
+          0,
+          18509
+        ],
+        "through_physical_EOF": true,
+        "canonical_source_ids_attributed": [
+          "BA:bond:23004:002",
+          "BA:momotalk:23004:thread:230040010"
+        ],
+        "current_public_authority": "U23 plus Cycle008/A04; originals historical authoring states remain immutable",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "U06",
+        "attachment_relative_path": "ROOT_UTAHA23_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_d0fd9e4f/ARGUMENTS14/BLUE_ARCHIVE_UTAHA_BOND_23004_E003_PAIRED_DEEP_READING.md",
+        "byte_count": 26002,
+        "line_count": 144,
+        "sha256": "5b41dd4d635ce43445531e9182ef3edd4ec5e0a7ce996fef2bc34d9fd8c0c8dd",
+        "actual_byte_blob_oid": "8544bb00c5e2b2e10adae31d9c5d7cd11db8b49e",
+        "personally_received_character_spans": [
+          [
+            0,
+            14000
+          ],
+          [
+            14000,
+            25592
+          ]
+        ],
+        "through_physical_EOF": true,
+        "canonical_source_ids_attributed": [
+          "BA:bond:23004:003",
+          "BA:momotalk:23004:thread:230040090"
+        ],
+        "current_public_authority": "U23 plus Cycle008/A04; originals historical authoring states remain immutable",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "U07",
+        "attachment_relative_path": "ROOT_UTAHA23_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_d0fd9e4f/ARGUMENTS14/BLUE_ARCHIVE_UTAHA_BOND_23004_E005_PAIRED_DEEP_READING.md",
+        "byte_count": 31097,
+        "line_count": 165,
+        "sha256": "d5c7a47211ac0cababf8c94ec79c9603caa1c00d7ebb6f0d68493ba8addb9a73",
+        "actual_byte_blob_oid": "580a8a0d010a6f4d9a6a417e77b911dfc0358035",
+        "personally_received_character_spans": [
+          [
+            0,
+            16000
+          ],
+          [
+            16000,
+            31029
+          ]
+        ],
+        "through_physical_EOF": true,
+        "canonical_source_ids_attributed": [
+          "BA:bond:23004:005",
+          "BA:momotalk:23004:thread:230040150"
+        ],
+        "current_public_authority": "U23 plus Cycle008/A04; originals historical authoring states remain immutable",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "U08",
+        "attachment_relative_path": "ROOT_UTAHA23_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_d0fd9e4f/ARGUMENTS14/BLUE_ARCHIVE_UTAHA_BOND_23004_E006_PAIRED_DEEP_READING.md",
+        "byte_count": 26395,
+        "line_count": 223,
+        "sha256": "a9b9bee9265de49236931ac0c222fdfd0775dd8f53c6a71dd0503f8f3c6e6150",
+        "actual_byte_blob_oid": "aa6f355e957cd5f66ac92284035886ca98824421",
+        "personally_received_character_spans": [
+          [
+            0,
+            16000
+          ],
+          [
+            16000,
+            25869
+          ]
+        ],
+        "through_physical_EOF": true,
+        "canonical_source_ids_attributed": [
+          "BA:bond:23004:006",
+          "BA:momotalk:23004:thread:230040240"
+        ],
+        "current_public_authority": "U23 plus Cycle008/A04; originals historical authoring states remain immutable",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "U09",
+        "attachment_relative_path": "ROOT_UTAHA23_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_d0fd9e4f/ARGUMENTS14/BLUE_ARCHIVE_UTAHA_BOND_23004_E008_PAIRED_DEEP_READING.md",
+        "byte_count": 18206,
+        "line_count": 149,
+        "sha256": "7c63e7fe3ab687fabd84a1bb272559ac13169c3311c990e1214e25a530ee04a3",
+        "actual_byte_blob_oid": "faa6b7a59bafe57b4cd3fa7e696acff740892698",
+        "personally_received_character_spans": [
+          0,
+          17760
+        ],
+        "through_physical_EOF": true,
+        "canonical_source_ids_attributed": [
+          "BA:bond:23004:008",
+          "BA:momotalk:23004:thread:230040340"
+        ],
+        "current_public_authority": "U23 plus Cycle008/A04; originals historical authoring states remain immutable",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "U10",
+        "attachment_relative_path": "ROOT_UTAHA23_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_d0fd9e4f/ARGUMENTS14/BLUE_ARCHIVE_UTAHA_BOND_23004_E020_PAIRED_DEEP_READING.md",
+        "byte_count": 13209,
+        "line_count": 123,
+        "sha256": "687c801d53cb519376f24851beeee52c72527a35b006fb4d2b3cd6578e8648c4",
+        "actual_byte_blob_oid": "89ac3a1f116916f1d952b46ef64e350c102e998a",
+        "personally_received_character_spans": [
+          0,
+          12957
+        ],
+        "through_physical_EOF": true,
+        "canonical_source_ids_attributed": [
+          "BA:bond:23004:020",
+          "BA:momotalk:23004:thread:230040400"
+        ],
+        "current_public_authority": "U23 plus Cycle008/A04; originals historical authoring states remain immutable",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "U11",
+        "attachment_relative_path": "ROOT_UTAHA23_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_d0fd9e4f/ARGUMENTS14/BLUE_ARCHIVE_UTAHA_CHARACTER_DATA_10051_PROFILE_AND_DIALOG_READING.md",
+        "byte_count": 11883,
+        "line_count": 121,
+        "sha256": "ab8cac7010ccc0d6ff0a80ed9cf2503df5760b05c7296b389a766b3e1b5b85b3",
+        "actual_byte_blob_oid": "ae65e4b9f3b903d4db9c96ba5465e31dc5c73464",
+        "personally_received_character_spans": [
+          0,
+          11703
+        ],
+        "through_physical_EOF": true,
+        "canonical_source_ids_attributed": [
+          "BA:character_data:10051:profile_and_dialog"
+        ],
+        "current_public_authority": "U23 plus Cycle008/A04; originals historical authoring states remain immutable",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "U12",
+        "attachment_relative_path": "ROOT_UTAHA23_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_d0fd9e4f/ARGUMENTS14/BLUE_ARCHIVE_UTAHA_CHARACTER_DATA_23004_PROFILE_AND_DIALOG_READING.md",
+        "byte_count": 11834,
+        "line_count": 121,
+        "sha256": "4957ac354e6113a7882410ab1419a16e5e559fbbdfa435cca75ea12b1346118a",
+        "actual_byte_blob_oid": "d7045e8e1db07ecfa3b9af53f77961b41ed63d64",
+        "personally_received_character_spans": [
+          0,
+          11688
+        ],
+        "through_physical_EOF": true,
+        "canonical_source_ids_attributed": [
+          "BA:character_data:23004:profile_and_dialog"
+        ],
+        "current_public_authority": "U23 plus Cycle008/A04; originals historical authoring states remain immutable",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "U13",
+        "attachment_relative_path": "ROOT_UTAHA23_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_d0fd9e4f/ARGUMENTS14/BLUE_ARCHIVE_UTAHA_EVENT_COSTUME_1900906401_CHARACTER_10051_WRITTEN_READING.md",
+        "byte_count": 11351,
+        "line_count": 117,
+        "sha256": "9930534d5a41b05c1991a8f8e20c61d585e2a916f5ec8a02dd53aabf4941f61f",
+        "actual_byte_blob_oid": "e5306ba510299b13ab6176a53caeda587b313605",
+        "personally_received_character_spans": [
+          0,
+          11257
+        ],
+        "through_physical_EOF": true,
+        "canonical_source_ids_attributed": [
+          "BA:character_data:event_costume:1900906401:character:10051"
+        ],
+        "current_public_authority": "U23 plus Cycle008/A04; originals historical authoring states remain immutable",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      }
+    ],
+    "registry_binding": {
+      "attachment_relative_path": "ROOT_UTAHA23_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_d0fd9e4f/CURRENT_UTAHA23_EXACT13_OWNER14_ARGUMENT_REGISTRY_V1.json",
+      "byte_count": 21729,
+      "line_count": 509,
+      "sha256": "3555913ef484872ecc3f090339d0414648575518bd371d0e5d1a93471b8f398d",
+      "actual_byte_blob_oid": "4076f8270a1a2f07ecb400ba922c579b543a2763",
+      "scope": "Selected13 exactsoleownerbindings, not claimedwholeallregistrymetadata or originalprimarycredit"
+    },
+    "relative_links": [
+      {
+        "label": "Private:complete twenty-three-object repertoire",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "Private:pen holder, tools, song and puppy owners",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "818:017u0031–0061",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md",
+        "source_id": "E18017",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "10051:002u0010–0041;003u0011–0019;whole100510010 and100510080",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "10051:003u0047–0059;005u0084–0093 and whole100510170messages350–420;006u0043–0044",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "23004:006scene001u0007–0031;scene002u0002–0009;whole230040240messages1609–1622",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "23004:020u0009–0043 and whole230040400",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "23004:006scene001u0017–0022;scene002u0006–0009;008u0010–0030",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "D23004:Introduction;1837–1884;D10051:Introduction;4594–4633",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "PavaneC002E012u0047–0082",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "source_id": "P212",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "818:017u0017–0061",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md",
+        "source_id": "E18017",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "G1401:complete ordinary-food and making argument",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "G1402–1403:ownership discovery and complete contrary ending",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "23004:002u0012–0027;003wholemessages1591–1598 andu0003–0022",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "PavaneC001E007scene002u0073–0148;scene003u0001–0014",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "source_id": "P107",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "817:corrected006/008 and achieved011",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "source_id": "E17",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "818:007u0019–0040",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "source_id": "E18007",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "Private:coat, pen holder, shop, panels and nail owners",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "810:024u0009–0026",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_024_80000024_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_024_80000024_DEEP_READING.md",
+        "source_id": "L24",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "10051:006u0009–0018;0022–0044",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "23004:005u0012–0044 and whole230040150messages1599–1608",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "PavaneC002E012u0047–0082",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "source_id": "P212",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "C002E013u0036–0055",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md",
+        "source_id": "P213",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "PavaneC002E017scene002u0001–0052",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md",
+        "source_id": "P217",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "C002E019u0078–0084",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E019_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E019_DEEP_READING.md",
+        "source_id": "P219",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "C002E023u0018–0047",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md",
+        "source_id": "P223",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "817:008–011",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "source_id": "E17",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "818:009u0079–0140",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "source_id": "E18009",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "818:010u0001–0018",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "source_id": "E18010",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "818:017u0017–0061",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md",
+        "source_id": "E18017",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "FinalC002E016u0001–0014",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E016_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E016_DEEP_READING.md",
+        "source_id": "F216",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "C003E007u0001–0019",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md",
+        "source_id": "F307",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "C003E015u0027–0076",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E015_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E015_DEEP_READING.md",
+        "source_id": "F315",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "Final:whole contextual ending",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "source_id": "F00",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "23004:003whole1591–1598;u0007–0022;choice001–003",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "23004:002u0012–0027;choice003–008;whole1582–1590",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "23004:008choice002–003;u0017–0030;006scene001u0009–0031",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "G1401–1403",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "817:corrected006",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "source_id": "E17",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "818:017complete afterstory",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md",
+        "source_id": "E18017",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "PavaneC001E007",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "source_id": "P107",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "Pavane:complete current contextual account",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "source_id": "PW",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "10051:005whole client sequence and messages;23004:005/008/020",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "G1401–1403:local actors and ownership",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "E818:current checkpoint actor controls",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md",
+        "source_id": "E18",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "810:024locale limits",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_024_80000024_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_024_80000024_DEEP_READING.md",
+        "source_id": "L24",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "Utaha current normal analytical owner",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "U23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      }
+    ],
+    "source_authority": "CurrentCycle008 admits registeredselectedscopeWITHLIMITS. Historicalindividualproducerintakes, countsandpendingstates preserved; no oldpass/primary replay.",
+    "whole_body_receiving_before_final_wording": {
+      "sha256": "2dbed10b0b4b2aca6d39af5dfeee40ea59a0513fdf52e193c519d559e8d5d11a",
+      "bytes": 50337,
+      "characters": 49929,
+      "complete_character_ranges": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          49929
+        ]
+      ],
+      "actual_emission": "Three untruncated savedbody tool emissions throughEOF; finalnarrowwordings separately received beforefreeze"
+    },
+    "consequential_fresh_receiving": "All13originalprivateanalyticalowners pluscurrentU23/G14; completeE818007/009/010/017,L24,P107/P212/P213/P217/P219/P223,F216/F307/F315; broadPW/F00/E10/E17 adequatepriorwhole analytical custody retained",
+    "mutable_ROOT_progress_excluded": true,
+    "nine_unbound_large": "UNREAD_UNHASHED_UNUSED",
+    "new_primary_raw_native_performed_model_independent_credit": 0,
+    "R_Git_provider_global_writes": 0,
+    "ROOT_acceptance": "PENDING",
+    "ROOT_adoption": "PENDING",
+    "scope_N_quarter_namedsection_relation_institution_credit": 0
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "current_required_home": "P3-CHAR-UTAHA",
+  "root_exact_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UTAHA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "fixed_publication_snapshot": "Nine already ROOT-accepted packages55–63 only; after full ROOT installation63=62characters+1directedrelationship. Later live ROOT reviews excluded.",
+  "historical_author_delivery_attachments": {
+    "UTAHA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json": {
+      "schema": "UTAHA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+      "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_REVIEW_PENDING",
+      "body": {
+        "file": "BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+        "byte_count": 50384,
+        "line_count": 154,
+        "sha256": "7345567930a555f7f9152b6f1f25d40f17ac03720a1065f0c19ba8d09184cb05",
+        "actual_byte_blob_oid": "069e67eea0c5332679383e11cd4ce089a6488ad7"
+      },
+      "all_eleven_sections": [
+        {
+          "line": 23,
+          "heading": "## 1. Core thesis"
+        },
+        {
+          "line": 31,
+          "heading": "## 2. Longitudinal arc and legitimate ordering"
+        },
+        {
+          "line": 41,
+          "heading": "## 3. Public self, private self, and the control of interpretation"
+        },
+        {
+          "line": 51,
+          "heading": "## 4. Millennium and Engineering: belonging, standards and resources"
+        },
+        {
+          "line": 63,
+          "heading": "## 5. Ordinary life: texture, tools, food, music and company"
+        },
+        {
+          "line": 75,
+          "heading": "## 6. Crisis behavior: practical inference, excessive design and actual endpoints"
+        },
+        {
+          "line": 87,
+          "heading": "## 7. Relationship with Sensei: shared practice, influence and retained refusal"
+        },
+        {
+          "line": 97,
+          "heading": "## 8. Major peers and independent recipients"
+        },
+        {
+          "line": 107,
+          "heading": "## 9. Japanese written voice and source-mode limits"
+        },
+        {
+          "line": 117,
+          "heading": "## 10. Competing readings and evidential judgment"
+        },
+        {
+          "line": 129,
+          "heading": "## 11. Evidence route, open gaps and completeness"
+        }
+      ],
+      "complete_saved_paragraph_joins": [
+        {
+          "saved_paragraph_id": "UTAHA-P001",
+          "saved_line": 25,
+          "section": "## 1. Core thesis",
+          "paragraph_sha256": "0df9b59999d2af4c0daa1e4fb05c7cf60521a28f0e4723d85e087dc4bf392058",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "Private:complete twenty-three-object repertoire"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P002",
+          "saved_line": 27,
+          "section": "## 1. Core thesis",
+          "paragraph_sha256": "c65c5fa03d87db8a9391da84e8419416c05906f392f140d30df7d18fcd978391",
+          "source_ids": [
+            "E18017",
+            "U23"
+          ],
+          "inline_locators": [
+            "Private:pen holder, tools, song and puppy owners",
+            "818:017u0031–0061"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P003",
+          "saved_line": 29,
+          "section": "## 1. Core thesis",
+          "paragraph_sha256": "faade8d8498dd371035a8329f1aac21d4d5ab21a82ea49dfcfdfe07d8aa310c1",
+          "source_ids": [
+            "E17",
+            "E18009",
+            "F00",
+            "G14",
+            "PW",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P004",
+          "saved_line": 33,
+          "section": "## 2. Longitudinal arc and legitimate ordering",
+          "paragraph_sha256": "97fda1ad13be3ca99ad5525974672de834bdd92d4fc49c01440bafffe77e67d3",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "10051:002u0010–0041;003u0011–0019;whole100510010 and100510080"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P005",
+          "saved_line": 35,
+          "section": "## 2. Longitudinal arc and legitimate ordering",
+          "paragraph_sha256": "c3a0a27ca40d48ee96c11432a7c9ee4c5885a20ed8434b181ecd22cd27255844",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "10051:003u0047–0059;005u0084–0093 and whole100510170messages350–420;006u0043–0044"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P006",
+          "saved_line": 37,
+          "section": "## 2. Longitudinal arc and legitimate ordering",
+          "paragraph_sha256": "8d71814f5e58946101195d3fae4dcf0950d80c843fd189c407ed5132c9b64e75",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "23004:006scene001u0007–0031;scene002u0002–0009;whole230040240messages1609–1622"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P007",
+          "saved_line": 39,
+          "section": "## 2. Longitudinal arc and legitimate ordering",
+          "paragraph_sha256": "f6b19d099db04266234325e0d469dfaea94375d9cedff04ac80af900dd955ae1",
+          "source_ids": [
+            "E17",
+            "E18017",
+            "F00",
+            "G14",
+            "PW",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P008",
+          "saved_line": 43,
+          "section": "## 3. Public self, private self, and the control of interpretation",
+          "paragraph_sha256": "3cc45c50ddf12154d0601b5fdc382471808ad2b9da72b3f59ccf0e2f2f409de8",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "23004:020u0009–0043 and whole230040400"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P009",
+          "saved_line": 45,
+          "section": "## 3. Public self, private self, and the control of interpretation",
+          "paragraph_sha256": "cb0583215979c25c1d28e91bb0473b4bbb462649d902c4b1295c126ce345df8e",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "23004:006scene001u0017–0022;scene002u0006–0009;008u0010–0030"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P010",
+          "saved_line": 47,
+          "section": "## 3. Public self, private self, and the control of interpretation",
+          "paragraph_sha256": "54f033ee18178ff926da461bd40182d19cea5682e6100ff4ad6554ba02c8b812",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "D23004:Introduction;1837–1884;D10051:Introduction;4594–4633"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P011",
+          "saved_line": 49,
+          "section": "## 3. Public self, private self, and the control of interpretation",
+          "paragraph_sha256": "44dbcf40a33e862767cebf8ec69cc61d9fd8ec287651f9b79267f2644d68b414",
+          "source_ids": [
+            "E18017",
+            "P212"
+          ],
+          "inline_locators": [
+            "PavaneC002E012u0047–0082",
+            "818:017u0017–0061"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P012",
+          "saved_line": 53,
+          "section": "## 4. Millennium and Engineering: belonging, standards and resources",
+          "paragraph_sha256": "52af223aff579299cabbfa4cefe58545f643728fdd6d20bbdd1e7d16e01e3efe",
+          "source_ids": [
+            "G14"
+          ],
+          "inline_locators": [
+            "G1401:complete ordinary-food and making argument"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P013",
+          "saved_line": 55,
+          "section": "## 4. Millennium and Engineering: belonging, standards and resources",
+          "paragraph_sha256": "c4af7360c0da430ad58979869b003edadd7c2073352749778686bcf023affea6",
+          "source_ids": [
+            "G14"
+          ],
+          "inline_locators": [
+            "G1402–1403:ownership discovery and complete contrary ending"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P014",
+          "saved_line": 57,
+          "section": "## 4. Millennium and Engineering: belonging, standards and resources",
+          "paragraph_sha256": "02029c20b31c7ac12f8faa7090026b9c9aef948ada03b4270615bce25e3bd4f9",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "23004:002u0012–0027;003wholemessages1591–1598 andu0003–0022"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P015",
+          "saved_line": 59,
+          "section": "## 4. Millennium and Engineering: belonging, standards and resources",
+          "paragraph_sha256": "20ea0808c4f4a4f335191b2cdb8c82446047fdc807d4cd20786e180f4548bcab",
+          "source_ids": [
+            "P107"
+          ],
+          "inline_locators": [
+            "PavaneC001E007scene002u0073–0148;scene003u0001–0014"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P016",
+          "saved_line": 61,
+          "section": "## 4. Millennium and Engineering: belonging, standards and resources",
+          "paragraph_sha256": "1c2e65cdf6e62f1c0447265358702588fd129e332eb0930513e3173cdef48510",
+          "source_ids": [
+            "E17",
+            "E18007"
+          ],
+          "inline_locators": [
+            "817:corrected006/008 and achieved011",
+            "818:007u0019–0040"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P017",
+          "saved_line": 65,
+          "section": "## 5. Ordinary life: texture, tools, food, music and company",
+          "paragraph_sha256": "cb8872620b70a08a44513157a4f5dafaba90daa9bbdbe1687511a64b37a0677b",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "Private:coat, pen holder, shop, panels and nail owners"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P018",
+          "saved_line": 67,
+          "section": "## 5. Ordinary life: texture, tools, food, music and company",
+          "paragraph_sha256": "f84e1f0441c08651c7ff91044ec6262d292e3398638f7de2380309ccd599e2ad",
+          "source_ids": [
+            "L24"
+          ],
+          "inline_locators": [
+            "810:024u0009–0026"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P019",
+          "saved_line": 69,
+          "section": "## 5. Ordinary life: texture, tools, food, music and company",
+          "paragraph_sha256": "3bc631267a3011214e227495f03c70008462cc01c4cd8cb09900834a65ec8101",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "10051:006u0009–0018;0022–0044"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P020",
+          "saved_line": 71,
+          "section": "## 5. Ordinary life: texture, tools, food, music and company",
+          "paragraph_sha256": "ee47460d911d5a3a32c2b89b7e7f4e380777b713414b3beacd272162868bf534",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "23004:005u0012–0044 and whole230040150messages1599–1608"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P021",
+          "saved_line": 73,
+          "section": "## 5. Ordinary life: texture, tools, food, music and company",
+          "paragraph_sha256": "645f40ca16fa882cf84fab313fc1e0ba6f16d22b031a5dead55bd9f24a9faca5",
+          "source_ids": [
+            "E17",
+            "E18017",
+            "F00",
+            "G14",
+            "PW",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P022",
+          "saved_line": 77,
+          "section": "## 6. Crisis behavior: practical inference, excessive design and actual endpoints",
+          "paragraph_sha256": "d8327096a302502433bf398a3c02ff2cf2f84b65f5cc0d11c27f99b578765789",
+          "source_ids": [
+            "P212",
+            "P213"
+          ],
+          "inline_locators": [
+            "PavaneC002E012u0047–0082",
+            "C002E013u0036–0055"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P023",
+          "saved_line": 79,
+          "section": "## 6. Crisis behavior: practical inference, excessive design and actual endpoints",
+          "paragraph_sha256": "d16da8078947d7b6e5c6ba76ee15d03e0333f06d8908beabdeb2a81c67c074d6",
+          "source_ids": [
+            "P217",
+            "P219",
+            "P223"
+          ],
+          "inline_locators": [
+            "PavaneC002E017scene002u0001–0052",
+            "C002E019u0078–0084",
+            "C002E023u0018–0047"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P024",
+          "saved_line": 81,
+          "section": "## 6. Crisis behavior: practical inference, excessive design and actual endpoints",
+          "paragraph_sha256": "82137544d999c360c3923b12aa7b7d7883db8f8d2a8df4dc6f42f0de6065199d",
+          "source_ids": [
+            "E17",
+            "E18009",
+            "E18010"
+          ],
+          "inline_locators": [
+            "817:008–011",
+            "818:009u0079–0140",
+            "818:010u0001–0018"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P025",
+          "saved_line": 83,
+          "section": "## 6. Crisis behavior: practical inference, excessive design and actual endpoints",
+          "paragraph_sha256": "3571dbb70077ab5bf5ca765fe8d3c1406b5588c0c269cced1054faa5b157aff8",
+          "source_ids": [
+            "E18017"
+          ],
+          "inline_locators": [
+            "818:017u0017–0061"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P026",
+          "saved_line": 85,
+          "section": "## 6. Crisis behavior: practical inference, excessive design and actual endpoints",
+          "paragraph_sha256": "3ae8b3c6c17eb5c0cf012c48281538b2014157cb1ebaa7573a31d83268c9b9c0",
+          "source_ids": [
+            "F00",
+            "F216",
+            "F307",
+            "F315"
+          ],
+          "inline_locators": [
+            "FinalC002E016u0001–0014",
+            "C003E007u0001–0019",
+            "C003E015u0027–0076",
+            "Final:whole contextual ending"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P027",
+          "saved_line": 89,
+          "section": "## 7. Relationship with Sensei: shared practice, influence and retained refusal",
+          "paragraph_sha256": "bbdf44c467f33bf6807e7e1263bb19c1486f17904172070e9727388db873328e",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "23004:003whole1591–1598;u0007–0022;choice001–003"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P028",
+          "saved_line": 91,
+          "section": "## 7. Relationship with Sensei: shared practice, influence and retained refusal",
+          "paragraph_sha256": "95b38dee2e89b651b2b6fba1befb23871d170cdd3d7255e726446971fc1ced61",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "23004:002u0012–0027;choice003–008;whole1582–1590"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P029",
+          "saved_line": 93,
+          "section": "## 7. Relationship with Sensei: shared practice, influence and retained refusal",
+          "paragraph_sha256": "d325e6b0377fff3f19448e33284e3f7a2d668bb34d0383ea19d4a9723c502331",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "23004:008choice002–003;u0017–0030;006scene001u0009–0031"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P030",
+          "saved_line": 95,
+          "section": "## 7. Relationship with Sensei: shared practice, influence and retained refusal",
+          "paragraph_sha256": "12652b30cefc32b9f0b7fee4789f88c52d71dd6a374a85e422dc9a8429144088",
+          "source_ids": [
+            "E17",
+            "E18017",
+            "F00",
+            "G14",
+            "PW",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P031",
+          "saved_line": 99,
+          "section": "## 8. Major peers and independent recipients",
+          "paragraph_sha256": "001ed705d402a4a849c443899eeb02ccf0ad9089913b376553c2d97b090fa7a2",
+          "source_ids": [
+            "E17",
+            "G14"
+          ],
+          "inline_locators": [
+            "G1401–1403",
+            "817:corrected006"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P032",
+          "saved_line": 101,
+          "section": "## 8. Major peers and independent recipients",
+          "paragraph_sha256": "903d90ad8304eaae8bd34c1a1494bc3920b3c3c155ba04b46046f87ce9cee8dc",
+          "source_ids": [
+            "E18017"
+          ],
+          "inline_locators": [
+            "818:017complete afterstory"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P033",
+          "saved_line": 103,
+          "section": "## 8. Major peers and independent recipients",
+          "paragraph_sha256": "2ea1156996a3bd802765efa5ee23f02fb4530f8d9c3eb5760268dbfd49d12cae",
+          "source_ids": [
+            "P107",
+            "PW"
+          ],
+          "inline_locators": [
+            "PavaneC001E007",
+            "Pavane:complete current contextual account"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P034",
+          "saved_line": 105,
+          "section": "## 8. Major peers and independent recipients",
+          "paragraph_sha256": "ccfdd907cf90e08fc262b8983f3d2dc03880eae541b7efdb7ab57e5434fae4da",
+          "source_ids": [
+            "G14",
+            "U23"
+          ],
+          "inline_locators": [
+            "10051:005whole client sequence and messages;23004:005/008/020",
+            "G1401–1403:local actors and ownership"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P035",
+          "saved_line": 109,
+          "section": "## 9. Japanese written voice and source-mode limits",
+          "paragraph_sha256": "b9e7a9af0f944377c74c9c5dc247ce8956433ea3ca43d24d5f698ae212bd02a4",
+          "source_ids": [
+            "E17",
+            "E18009",
+            "F00",
+            "G14",
+            "PW",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P036",
+          "saved_line": 111,
+          "section": "## 9. Japanese written voice and source-mode limits",
+          "paragraph_sha256": "22a7ebdf77d366c6cae2ed49f0dce753665a39e499e86e36ebd6d3746319c016",
+          "source_ids": [
+            "E17",
+            "E18009",
+            "F00",
+            "G14",
+            "PW",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P037",
+          "saved_line": 113,
+          "section": "## 9. Japanese written voice and source-mode limits",
+          "paragraph_sha256": "9c445bd7bf2a9e8ecbca6576708bc373d50a6636713207b254a994eb4f65f016",
+          "source_ids": [
+            "E17",
+            "E18009",
+            "F00",
+            "G14",
+            "PW",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P038",
+          "saved_line": 115,
+          "section": "## 9. Japanese written voice and source-mode limits",
+          "paragraph_sha256": "9a4266aa182f8d9d93a83da4c2a373d4f81afcca63f5e48ec8e69924ab8b3a3e",
+          "source_ids": [
+            "E18",
+            "L24"
+          ],
+          "inline_locators": [
+            "E818:current checkpoint actor controls",
+            "810:024locale limits"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P039",
+          "saved_line": 119,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "519688979aac7f28e69e633eb990cf56d2435cfad70fc522a751878b15e13ad5",
+          "source_ids": [
+            "E17",
+            "E18009",
+            "F00",
+            "G14",
+            "PW",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P040",
+          "saved_line": 121,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "29cc9743dc94d0e1d30708b1e02a27b1d588965bd9f035a8206eaf29547d57b4",
+          "source_ids": [
+            "E17",
+            "E18017",
+            "F00",
+            "G14",
+            "PW",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P041",
+          "saved_line": 123,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "300a77641ed868bc452e3173f605db5b34bd3df08db5ffcec2a499bc348ca27d",
+          "source_ids": [
+            "E17",
+            "E18009",
+            "F00",
+            "G14",
+            "PW",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P042",
+          "saved_line": 125,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "9c4ff44f33ca01607f7abaf4d1f5a5abd7bbe08aa9f7e038667cd40fa65a277c",
+          "source_ids": [
+            "E17",
+            "E18009",
+            "F00",
+            "G14",
+            "PW",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P043",
+          "saved_line": 127,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "ed489eee981f94f67d56b41b4b3772d3c98e4f1d3a810ac535d572b09a46b21d",
+          "source_ids": [
+            "E17",
+            "E18009",
+            "F00",
+            "G14",
+            "PW",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P044",
+          "saved_line": 131,
+          "section": "## 11. Evidence route, open gaps and completeness",
+          "paragraph_sha256": "6399d3028dfcca72a355c3f9dd061bdde5fc9dff0a88d5a38649b80904fa572a",
+          "source_ids": [
+            "U23"
+          ],
+          "inline_locators": [
+            "Utaha current normal analytical owner"
+          ],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P045",
+          "saved_line": 133,
+          "section": "## 11. Evidence route, open gaps and completeness",
+          "paragraph_sha256": "eed8d781e730de3c3552a996bbe0d837095fcf5198b582f34dc3bdd61aeff0f2",
+          "source_ids": [
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "C05",
+            "C06",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P046",
+          "saved_line": 135,
+          "section": "## 11. Evidence route, open gaps and completeness",
+          "paragraph_sha256": "43d31b6c12a55ef8e3e3acfbdde4a403e93dd09c2f1f10ee91b29aaa60de8e6f",
+          "source_ids": [
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "C05",
+            "C06",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "UTAHA-P047",
+          "saved_line": 154,
+          "section": "## 11. Evidence route, open gaps and completeness",
+          "paragraph_sha256": "04bfbad43f7888e61f84aebeb76da820e6ebd00659c3d170dd2bfa62dc322235",
+          "source_ids": [
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "C05",
+            "C06",
+            "U23"
+          ],
+          "inline_locators": [],
+          "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+          "ROOT_acceptance": "PENDING"
+        }
+      ],
+      "consequential_endpoint_review": [
+        {
+          "id": "UTAHA-E01",
+          "source_id": "U01",
+          "locators": "10051:002u0028–0041;whole100510010",
+          "affirmative_ending": "Changed coat and retained futurewear/wash desire",
+          "contrary_or_unfinished_tail": "No namedjunior, secretinvitation, observedwash or safetyaudit",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E02",
+          "source_id": "U02",
+          "locators": "10051:003u0047–0059;whole100510080",
+          "affirmative_ending": "Firstframe fails; enjoyment/learning and30fps plan remain",
+          "contrary_or_unfinished_tail": "No repairedmachine, clientdelivery or verifiedfault",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E03",
+          "source_id": "U03",
+          "locators": "10051:005u0084–0093;whole100510170messages350–420",
+          "affirmative_ending": "Actualclientresponses, hoarsevoice, jointreturn and complete proposedamplifier coda",
+          "contrary_or_unfinished_tail": "No allclientsatisfied proof, lastingprofit, election, recovery or builtdevice",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E04",
+          "source_id": "U04",
+          "locators": "10051:006u0043–0044;whole100510320",
+          "affirmative_ending": "Morethanhour continuation; narratedworkshophumming cause revisesexam hypothesis",
+          "contrary_or_unfinished_tail": "No apology, revisedperformance, heardsong or restoredjuniormood",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E05",
+          "source_id": "U05",
+          "locators": "23004:002u0021–0027;whole1582–1590",
+          "affirmative_ending": "Atleasttenmoretrials leadtomakersatisfaction",
+          "contrary_or_unfinished_tail": "No finalrecipientreceipt, durabilitytest or exacttrialcount",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E06",
+          "source_id": "U06",
+          "locators": "23004:003u0021–0022;whole1591–1598",
+          "affirmative_ending": "Premiumtoolpurchase and personalbudgetoverrun",
+          "contrary_or_unfinished_tail": "No returnedlightrepair, adulttraining, tanksafetyspec verification or institutionreimbursement",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E07",
+          "source_id": "U07",
+          "locators": "23004:005u0039–0044;whole1599–1608",
+          "affirmative_ending": "Realpuppy recognized, preconceptionconceded, nearhour technicalaccount",
+          "contrary_or_unfinished_tail": "Puppyresistance remains; no dissection, injury, deliveredrobot, resignedtitle or assuredwelcome",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E08",
+          "source_id": "U08",
+          "locators": "23004:006scene002u0002–0009;whole1609–1622",
+          "affirmative_ending": "Completionreport/thanks/futurewatchpermission/sootjoke follows activehelpinvitation",
+          "contrary_or_unfinished_tail": "No independentoperationtest, unpressuredinitialassent, bicyclecollection or universalsafety",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E09",
+          "source_id": "U09",
+          "locators": "23004:008u0017–0030;whole1623–1629",
+          "affirmative_ending": "Limitedcare, recurringvisitrefusal, chosenlittlefingermemento, apparentpleasure and jointreturn",
+          "contrary_or_unfinished_tail": "No healing, whollyunpressuredtrial, habitcure or romantictoken",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E10",
+          "source_id": "U10",
+          "locators": "23004:020u0040–0043;whole230040010–070",
+          "affirmative_ending": "ConditionalMeisteraspiration and apparentlyhappy jointbrowsing",
+          "contrary_or_unfinished_tail": "Not jointreturn, toolssentience, inspectedinventory or Alice/Keyidentityproof",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E11",
+          "source_id": "U11",
+          "locators": "D10051:Introduction;4621–4633",
+          "affirmative_ending": "Reportedlampfailure/intentiondenial, spectaclepreference and purposehedge",
+          "contrary_or_unfinished_tail": "Not executedvideo, auditoryperformance, restitution or perfectchoreography",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E12",
+          "source_id": "U12",
+          "locators": "D23004:Introduction;1863–1884",
+          "affirmative_ending": "Reportedselfdestructpumpkinrefusal and finalunansweredhelprequest",
+          "contrary_or_unfinished_tail": "No explosion, certifiedcombatcapacity, finishedrepair or receivedanswer",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E13",
+          "source_id": "U13",
+          "locators": "Costume1900906401:10051:000001–000053",
+          "affirmative_ending": "53contextlines19/19/15 withpeacefulwish, roleonlyconcern and possiblefitnessrobot",
+          "contrary_or_unfinished_tail": "Not3events, Yuukadiagnosis, namedpeerappearance, builtrobot or unanimouspleasure",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E14",
+          "source_id": "G14",
+          "locators": "GROUP1401–1403;currentL95–121",
+          "affirmative_ending": "Completedpeerdevice; ownershipdiscovery, concealmentplan and laterdistress/retaliation",
+          "contrary_or_unfinished_tail": "Utahaabsent1403; no substitutecompletion, Neruassent, restoredgun, death or settledliability",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E15",
+          "source_id": "E17",
+          "locators": "817:006/008–011;currentL78–83",
+          "affirmative_ending": "Correctpartialcostumefulfillment, localmachinestop, revisedprogram and reachedopening",
+          "contrary_or_unfinished_tail": "No universallypleasedpeers, fullyrestoredrobot, performedconsultation or safetyaudit",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E16",
+          "source_id": "L24",
+          "locators": "810:024u0016–0026",
+          "affirmative_ending": "Manufacturerblamereversed toownerror, apology/offeredchocolate and screwsretrievalplan",
+          "contrary_or_unfinished_tail": "No actualreplacement, restoredpower, adultconsumption or verifiedflavor; JP/KRdetails distinct",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E17",
+          "source_id": "E18007",
+          "locators": "818:007u0019–0040",
+          "affirmative_ending": "Utahaencourages unfamiliarwork; Hibikidissent and Hanaecare remain independent",
+          "contrary_or_unfinished_tail": "Hanaecareu24–26 notUtahacreedo; no unanimousenjoyment or heardperformance",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E18",
+          "source_id": "E18009",
+          "locators": "818:009u0079–0140",
+          "affirmative_ending": "Robotactivatesafterrepresentedblast; punitiveclassification/escalation and committeecoordination",
+          "contrary_or_unfinished_tail": "No witnessedpreciserocketact, Yuukaattackorder, fullbattleoutcome or auditedalgorithm",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E19",
+          "source_id": "E18010",
+          "locators": "818:010u0001–0018",
+          "affirmative_ending": "Reportedtrack/enginedestruction, evacuation/captives/injuredcare",
+          "contrary_or_unfinished_tail": "No totalinjurycount, durabletechnicalrestoration or liabilitysettlement",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E20",
+          "source_id": "E18017",
+          "locators": "818:017u0017–0061",
+          "affirmative_ending": "Utahaenjoyment/fatigue; Chihirocriticism/burden and finalcostumerefusal",
+          "contrary_or_unfinished_tail": "No acceptedparticipation, bodyshameconfirmed, saferedesign or completedSRTinvestigation",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E21",
+          "source_id": "P107",
+          "locators": "V002C001E007scene002u0073–0148;scene003u0001–0014",
+          "affirmative_ending": "Alicechooses/lifts/fires; giftconditionschange; qualificationresult and receipt",
+          "contrary_or_unfinished_tail": "No unseenbattletactics, lawfulcredential, certifiedstrength/selfrepair or origin",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E22",
+          "source_id": "P212/P213",
+          "locators": "V002C002E012u0047–0082;E013u0036–0055",
+          "affirmative_ending": "Conditionalfreightinference followedbydirectarrival within distributedwork",
+          "contrary_or_unfinished_tail": "No numericallycalibratedforecast, allnetworkstealth or hiddenmotivecertainty",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E23",
+          "source_id": "P217/P219/P223",
+          "locators": "V002C002E017scene002u0001–0052;E019u0078–0084;E023u0018–0047",
+          "affirmative_ending": "Localweapondefeat, exhaustedhandoff, unnamedgift, laterescape and renewedexternalhelp",
+          "contrary_or_unfinished_tail": "No giftescapemechanismjoin, permanentinjury, auditedspecifications or totalcontainment",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "UTAHA-E24",
+          "source_id": "F216/F307/F315/F00",
+          "locators": "V100C002E016u0001–0014;C003E007u0001–0019;E015u0027–0076;F00L162–175",
+          "affirmative_ending": "Overloadeddefense, unknownAMASoperator, declaredvessellimits, limitedmanual/repaircontingency and collectiveending",
+          "contrary_or_unfinished_tail": "No allAMASRiojoin, immediatecompletedrestart, everypersonsrecovery or Utahasoleendingauthorship",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        }
+      ],
+      "rival_review": {
+        "whole_section": 10,
+        "readings": [
+          "flawlessinventor",
+          "incompetentcomic",
+          "utilitarian",
+          "aesthetic",
+          "dominationonly",
+          "uncomplicatedmentor",
+          "romanticgrowth",
+          "facesavingonly",
+          "humilityonly",
+          "crisisonly"
+        ],
+        "decision": "Source-specificrecipientfit thesis preserves both intrinsicordinarywants and adverse/correction/actualresult evidence; no severityequivalence or totaltraitlaw"
+      },
+      "fourteen_OPEN_gaps": {
+        "G01": "OPEN",
+        "G02": "OPEN",
+        "G03": "OPEN",
+        "G04": "OPEN",
+        "G05": "OPEN",
+        "G06": "OPEN",
+        "G07": "OPEN",
+        "G08": "OPEN",
+        "G09": "OPEN",
+        "G10": "OPEN",
+        "G11": "OPEN",
+        "G12": "OPEN",
+        "G13": "OPEN",
+        "G14": "OPEN"
+      },
+      "ROOT_acceptance": "PENDING",
+      "relation_institution_namedsection_N_quarter_credit": 0
+    },
+    "UTAHA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json": {
+      "schema": "UTAHA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1",
+      "body": {
+        "file": "BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+        "byte_count": 50384,
+        "line_count": 154,
+        "sha256": "7345567930a555f7f9152b6f1f25d40f17ac03720a1065f0c19ba8d09184cb05",
+        "actual_byte_blob_oid": "069e67eea0c5332679383e11cd4ce089a6488ad7"
+      },
+      "format": "UTF8_LF_NO_BOM_ONE_FINAL_LF",
+      "eleven_sections": [
+        {
+          "line": 23,
+          "heading": "## 1. Core thesis"
+        },
+        {
+          "line": 31,
+          "heading": "## 2. Longitudinal arc and legitimate ordering"
+        },
+        {
+          "line": 41,
+          "heading": "## 3. Public self, private self, and the control of interpretation"
+        },
+        {
+          "line": 51,
+          "heading": "## 4. Millennium and Engineering: belonging, standards and resources"
+        },
+        {
+          "line": 63,
+          "heading": "## 5. Ordinary life: texture, tools, food, music and company"
+        },
+        {
+          "line": 75,
+          "heading": "## 6. Crisis behavior: practical inference, excessive design and actual endpoints"
+        },
+        {
+          "line": 87,
+          "heading": "## 7. Relationship with Sensei: shared practice, influence and retained refusal"
+        },
+        {
+          "line": 97,
+          "heading": "## 8. Major peers and independent recipients"
+        },
+        {
+          "line": 107,
+          "heading": "## 9. Japanese written voice and source-mode limits"
+        },
+        {
+          "line": 117,
+          "heading": "## 10. Competing readings and evidential judgment"
+        },
+        {
+          "line": 129,
+          "heading": "## 11. Evidence route, open gaps and completeness"
+        }
+      ],
+      "saved_nonempty_paragraph_count": 47,
+      "saved_joins_receipt": "UTAHA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "source_scope_receipt": "UTAHA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "relative_link_count": 47,
+      "relative_link_resolution": "Proposedcanonical04SpecialistSyntheses/CHARACTERS home; currentRtargets allfiniteboundexist, no absolutesourcepaths",
+      "consequential_endpoints": 24,
+      "all_fourteen_gaps": "OPEN",
+      "author_saved_scope": "Wholebody received before final precisewording; allmodifiedparagraphs/currentmetadata and finalreceipts require actual complete finalreceiving in separateauthorseal. Mechanicaljoins/binding are not literaryacceptance.",
+      "ROOT_review_and_adoption": "PENDING",
+      "credits_added": 0
+    },
+    "UTAHA_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json": {
+      "schema": "UTAHA_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1",
+      "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_REVIEW_PENDING",
+      "package": "P3-CHAR-UTAHA",
+      "frozen_payloads": [
+        {
+          "file": "BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 50384,
+          "line_count": 154,
+          "sha256": "7345567930a555f7f9152b6f1f25d40f17ac03720a1065f0c19ba8d09184cb05",
+          "actual_byte_blob_oid": "069e67eea0c5332679383e11cd4ce089a6488ad7"
+        },
+        {
+          "file": "UTAHA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 92196,
+          "line_count": 1668,
+          "sha256": "1445d750de0d9f4bdba9b52e0e7330ea37ad897a1d7fe1549406eb7db47d64b7",
+          "actual_byte_blob_oid": "741ca8130aa9ff9be47b29791afcb59a27e23369"
+        },
+        {
+          "file": "UTAHA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 42473,
+          "line_count": 1023,
+          "sha256": "821768e525f4b6c63acf64208be7e031a94ff6ec34c2d789d0782fe379be3acd",
+          "actual_byte_blob_oid": "d00a93c3cb03fb34c28c5115bda283c1ed3882ce"
+        },
+        {
+          "file": "UTAHA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 2332,
+          "line_count": 67,
+          "sha256": "89498c5b29248d994d5ed8b23f84242c5e1049afb1bee64f5ba40567889c3681",
+          "actual_byte_blob_oid": "f20e8acb4f86219bc99ce39a97bb381b07f68452"
+        }
+      ],
+      "complete_saved_body_receiving": {
+        "initial_sha256": "2dbed10b0b4b2aca6d39af5dfeee40ea59a0513fdf52e193c519d559e8d5d11a",
+        "initial_characters": 49929,
+        "complete_character_spans": [
+          [
+            0,
+            18000
+          ],
+          [
+            18000,
+            36000
+          ],
+          [
+            36000,
+            49929
+          ]
+        ],
+        "receipt": "Three actual untruncated emissions; nested chunk IDs were not printed and are not invented.",
+        "final_changed_lines": [
+          16,
+          71,
+          131,
+          133,
+          135,
+          146,
+          154
+        ],
+        "final_changed_lines_complete_receipt": "b4d445",
+        "final_sha256": "7345567930a555f7f9152b6f1f25d40f17ac03720a1065f0c19ba8d09184cb05",
+        "completeness": "Whole initial saved body plus every exact final changed line through final EOF. No unreceived final body revision."
+      },
+      "complete_source_receipt_receiving": {
+        "characters": 91318,
+        "spans": [
+          [
+            0,
+            16000,
+            "68c7dd"
+          ],
+          [
+            16000,
+            32000,
+            "ff5234"
+          ],
+          [
+            32000,
+            48000,
+            "4e7005"
+          ],
+          [
+            48000,
+            64000,
+            "30f3dc"
+          ],
+          [
+            64000,
+            80000,
+            "9cb9de"
+          ],
+          [
+            80000,
+            91318,
+            "5b47d1"
+          ]
+        ],
+        "through_EOF": true
+      },
+      "complete_claim_register_receiving": {
+        "characters": 42285,
+        "spans": [
+          [
+            0,
+            16000,
+            "6dae3f"
+          ],
+          [
+            16000,
+            32000,
+            "47cd9e"
+          ],
+          [
+            32000,
+            42285,
+            "90c79b"
+          ]
+        ],
+        "through_EOF": true
+      },
+      "complete_saved_receipt_receiving": "90c79b through EOF",
+      "consequential_additional_source_receiving": {
+        "E18": "6b5060 actual complete current authority L23–40, not whole534 owner",
+        "U10": "c584e8 precise source-local thread message230040010–070 and endingu0040–0043 confirmed; no new whole/primary credit"
+      },
+      "author_literary_review": {
+        "thesis": "Making is intrinsic enjoyment and a way to offer company; another recipient can want a different task, standard or stopping point. Useful results, pressure, extravagant taste and admitted error remain distinct.",
+        "ordinary_wants": "Coat texture and memories, analog panels, shop banter, tool renewal, cheese and sauce, a theme song, puppy contact, nails, workshop company, cheering and peaceful leisure retain their own value.",
+        "serious_contraries": "Unfinished commissions and repair, proprietor/recipient preferences, personal budget overrun, puppy resistance, junior mood, Neru ownership, Hibiki discomfort, Chihiro refusal and cleanup burden survive the admired making.",
+        "public_endpoints": "Alice authors choice; freight inference is followed by local arrival; distributed rescue and return are distinct from undocumented individual mechanisms. Festival damage/evacuation reports are followed through afterstory refusal. Final whole accepted ending is reused, not replayed primary.",
+        "private_endpoints": "All thirteen original sole analytical owners received through EOF, including complete Momotalk codas and written modal voice; no new primary ownership or all-selected-source credit.",
+        "rivals": "Flawless inventor, incompetent comic, utility-only, aesthetics-only, domination-only, uncomplicated mentor, romance ladder, face saving alone, humility alone and crisis-only readings considered in full section10.",
+        "source_join_qualification": "Saved paragraph hashes are exact projection joins. Source-ID arrays are retrieval support rather than exhaustive independent atom-by-atom semantic certification. Literary propositions and qualifiers remain in the complete body; all24 concrete endpoint reviews were personally received.",
+        "limits": "Current Cycle008 admission governs historical producer pending/intake language. Raw actor seams and branch alternatives remain qualified. Written precision is not inspected voice, animation, appearance, music, mechanics or diagnosis."
+      },
+      "finite_verification": {
+        "R_inputs": 27,
+        "local_sole_analytical_inputs": 13,
+        "saved_paragraph_joins": 47,
+        "relative_links_from_proposed_canonical_home": 47,
+        "complete_endpoint_reviews": 24,
+        "architecture_sections": 11,
+        "claim_specific_gaps_OPEN": 14,
+        "format": "UTF8_LF_NO_BOM_ONE_FINAL_LF_UNDER_1_MIB"
+      },
+      "prior_frozen_Maki_witnesses_unchanged": [
+        {
+          "file": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/BLUE_ARCHIVE_MAKI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 66368,
+          "line_count": 168,
+          "sha256": "628ba9c547cd5a55800e86ca0428d8fccb59ed27453352074cc7d6917a07e942",
+          "actual_byte_blob_oid": "1c520a2c62d70c44206024b2fdadeb27d3bc0e31"
+        },
+        {
+          "file": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/MAKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 67301,
+          "line_count": 1141,
+          "sha256": "a7dd38a02a70f2ad6dc19dffa7bdb64e487fb397cfcd9063aea34907b6987327",
+          "actual_byte_blob_oid": "a5ec32827a0e131161f9c2afa9c6fb736e62b330"
+        },
+        {
+          "file": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/MAKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 130171,
+          "line_count": 1407,
+          "sha256": "53b322f70536d37205c4c2d6f1ca60436c8329ae4951cdc171cb506949e0a7f2",
+          "actual_byte_blob_oid": "48172d9aea42e6542d7dbab0db1c56cdfff09d43"
+        },
+        {
+          "file": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/MAKI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 9688,
+          "line_count": 203,
+          "sha256": "b167943d085667f1110fb522cc9fe128ce13dc8957ec8ef061e3253f0dd73a3d",
+          "actual_byte_blob_oid": "f038ba2944808f20d014f07b28131f5e585f2d27"
+        },
+        {
+          "file": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/MAKI_MONOGRAPH_AUTHOR_COMPLETE_READBACK_AND_FREEZE_RECEIPT_V1.json",
+          "byte_count": 6953,
+          "line_count": 96,
+          "sha256": "196f4e076978e5bf7927cb9d05423a7a03fcdc3aa3245bf4b0c38a1b5047bf2c",
+          "actual_byte_blob_oid": "3d9b1d3ce1b7ab8aa8586b9a7c31f68fa74976d3"
+        }
+      ],
+      "source_snapshot": "92184703994a1950a5660654ce52d8516dbe9bf5",
+      "historical_comparands": "dbabb/c1/main2e exact comparisons remain separately declared in every current R source field; later V3 controls and main1.11 architecture are not falsely equal.",
+      "mutable_ROOT_live_progress": "EXCLUDED_FROM_AUTHOR_LITERARY_EVIDENCE",
+      "nine_UNBOUND_large_files": "UNREAD_UNHASHED_UNUSED",
+      "ROOT_literary_acceptance": "PENDING",
+      "ROOT_canonical_adoption": "PENDING",
+      "new_primary_raw_native_performed_model_independent_scope_N_quarter_namedsection_relation_institution_credit": 0,
+      "R_Git_provider_global_writes": 0
+    }
+  },
+  "all_complete_immutable_author_transport_tuples": [
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+      "bytes": 50384,
+      "sha256": "7345567930a555f7f9152b6f1f25d40f17ac03720a1065f0c19ba8d09184cb05",
+      "git_blob_oid_of_actual_bytes": "069e67eea0c5332679383e11cd4ce089a6488ad7",
+      "lines": 154,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "ROOT_UTAHA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 13285,
+      "sha256": "2fbd0b58904f5a4bc3de62ea5bf6aeaeceeba0b7e5fd1f8b7ba6358165ab6dfb",
+      "git_blob_oid_of_actual_bytes": "6b3638686adbb67e1824e3960111be9fcc7ecff8",
+      "lines": 208,
+      "immutable_transport_path": "immutable_originals/ROOT_UTAHA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 92196,
+      "sha256": "1445d750de0d9f4bdba9b52e0e7330ea37ad897a1d7fe1549406eb7db47d64b7",
+      "git_blob_oid_of_actual_bytes": "741ca8130aa9ff9be47b29791afcb59a27e23369",
+      "lines": 1668,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 42473,
+      "sha256": "821768e525f4b6c63acf64208be7e031a94ff6ec34c2d789d0782fe379be3acd",
+      "git_blob_oid_of_actual_bytes": "d00a93c3cb03fb34c28c5115bda283c1ed3882ce",
+      "lines": 1023,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 2332,
+      "sha256": "89498c5b29248d994d5ed8b23f84242c5e1049afb1bee64f5ba40567889c3681",
+      "git_blob_oid_of_actual_bytes": "f20e8acb4f86219bc99ce39a97bb381b07f68452",
+      "lines": 67,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 8028,
+      "sha256": "3f7b403ba76b4de5bb79ff30bcf904650b5b1aae3cc4a808036cffc58bea0d7e",
+      "git_blob_oid_of_actual_bytes": "c1497a2374f73ce0287d0e8509e4e55304c139ff",
+      "lines": 193,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+    }
+  ],
+  "stable_original_gap_alignment": null,
+  "immutable_ROOT_count_cause_qualification": null,
+  "mandatory_private_semantic_erratum_public_projection": null,
+  "source_credit_rule": "All complete/bounded author and ROOT scopes remain exactly attributed. Finite complete frozen witnesses and exact source-copy tuples are preservation transports, not independently rereceived primary or narrative evidence. Current wrappers qualify original pending labels without editing originals."
+}

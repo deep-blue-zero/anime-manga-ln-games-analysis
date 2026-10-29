@@ -1,0 +1,67 @@
+{
+  "schema": "silent-witch/v01-readiness-path-manifest/v1",
+  "artifact_id": "SW_V01_READINESS_PATH_MANIFEST",
+  "artifact_type": "technical_readiness_path_manifest",
+  "generation": "V1",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_literary_evidence": true,
+  "base_commit": "769e6bec4fe264f61328f0afa16afbfa718755a2",
+  "main_at_preparation": "0ed395926cca502fe1461d8c172330baab99e70e",
+  "series_id": "silent-witch",
+  "stable_branch": "series/silent-witch",
+  "bootstrap_generation": "SW_BOOTSTRAP_V1",
+  "owner_acceptance": "ACCEPTED",
+  "canonical_entrypoint": "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "governing_method": "series/silent-witch/00 Frameworks and Methods/SW_ANALYTICAL_METHOD.md",
+  "synthesis_architecture": "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+  "foundation_verification": "PASS",
+  "required_day_one_infrastructure": [
+    {
+      "path": "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+      "initialized": true
+    },
+    {
+      "path": "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+      "initialized": true,
+      "preserved_sha256": "37e42bbd2f93f3c6a163c6be9717527b4bfeecdeab878ef77fe08274cd5c4dc8"
+    }
+  ],
+  "v01_source_lock": "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_V01_SOURCE_LOCK.md",
+  "source_epub_sha256": "d3d8cca8fc271f29cc96a56e7e92b898bfebe4f744b9f3fd424fd8789686968d",
+  "technical_validation": "PASS",
+  "derivative_package": "SW-LNJP-V01_FIDELITY_LOCATORS_V1.zip",
+  "derivative_package_sha256": "33fade35c657bd95b120878b613d999d61dad2569f1a10e9418a76a7bd656f1e",
+  "derivative_retention": "LOCAL_ONLY_OWNER_REQUEST",
+  "drive_upload_performed": false,
+  "sequential_analysis_lock": "CLOSED",
+  "gate_hold": "EXPLICIT_OWNER_DIRECTION_KEEP_LOCAL_AND_CLOSED",
+  "substantive_sequential_findings_at_bootstrap": false,
+  "substantive_sequential_findings_added": false,
+  "analyzed_units": [],
+  "frozen_units": [],
+  "committed_high_water_mark": "PRE_V01",
+  "run_state": "not_authorized",
+  "next_permitted_operation": "stop; await separate owner instruction on evidence recovery, gate opening and V01 deep reading",
+  "authored_paths": [
+    "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+    "series/silent-witch/00 Frameworks and Methods/SW_ANALYTICAL_METHOD.md",
+    "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+    "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+    "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_V01_SOURCE_LOCK.md",
+    "series/silent-witch/08 Audits and Manifests/SW_V01_READINESS_GATE_REPORT.md",
+    "series/silent-witch/08 Audits and Manifests/SW_V01_READINESS_PATH_MANIFEST.json",
+    "series/silent-witch/.repository/series-registry.json",
+    "provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md"
+  ],
+  "scope_notes": [
+    "Five existing local state/method/routing files receive bounded verified patches.",
+    "One append to the Drive reference index preserves all prior bytes.",
+    "Source lock, foundation/gate report and this manifest are new technical provenance.",
+    "Historical bootstrap artifacts and the master ledger remain byte-identical.",
+    "Raw source/normalization/locators/images/normalizer remain outside Git.",
+    "Housekeeping and character outputs are not author-written."
+  ]
+}
