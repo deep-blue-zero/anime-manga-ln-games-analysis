@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.19"
+version: "1.20"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0194; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0195; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1465,4 +1465,47 @@ Owner [B0194](../02%20Readings/T7S_B0194_DEEP_READING.md), source-lock 12.100, w
 | `REL-1088` | `misonoo-mana -> seven-sisters` | A/B/C/E express support thanks, introduce the group, report gifts/pleasure and name present activity. No all-member own assent/reaction, new policy/member or changed ending date. |
 
 Totals:1084 KNOW and1088 REL. The102 IDENTITY,84 CHAR,29 UNIT and29 readiness decisions remain. READY0020 keeps its bounded Main history/B0009 horizons, R2_STATE_BOUNDED/MONOGRAPH_NOT_READY and unresolved family history, independent motive chronology, later life, finances/governance and listened voice/music. Earlier father-receipt uncertainty remains at its frozen horizon; no new R3 or2053 admission.
+
+## B0195 Kurt's own reasoning, situated gaps and differentiated peer roles
+
+Owner [B0195](../02%20Readings/T7S_B0195_DEEP_READING.md), source-lock 12.101, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; A-F locators in the reading. Existing Kurt `IDENTITY-0062/CHAR-0049/kotobuki-kurt`, Mana `IDENTITY-0020/CHAR-0017/misonoo-mana`, Mito `IDENTITY-0060/CHAR-0047/hanyuda-mito`, Rui `IDENTITY-0039/CHAR-0028/wakaouji-rui`, Memoru `IDENTITY-0061/CHAR-0048/yusa-memoru`, earlier Nicole `IDENTITY-0003/CHAR-0003/rokusaki-connie-presented` and Sisters `UNIT-0001` retain routes. Pes is only Kurt's reported named local-boss role with identity/species unresolved; no new master identity is created. Reports/uptake do not fabricate counterpart turns.
+
+| Existing subject | Qualified addition | Resistant prior state and missing access retained |
+| --- | --- | --- |
+| `CHAR-0049` / Kurt | A camera introduction is difficult; private life, play, learning, classification and prospective bodily contribution remain purposeful in her own categories. Questions and delight coexist with convention gaps and incomplete knowledge of others' preparations. | Earlier social freezing coexists with immediate ethical intervention and nuanced non-guaranteed repair for Memoru. No global cure, pure-instinct or global-incompetence model. READY0023 keeps complete circus/family history, age/education, wider relations, later life and listened performance unresolved. |
+| Mana/Mito | Are named as teachers of different utensil practices; Mito also enters F as reportedly indifferent to the sports day. | Instruction/praise and indifference remain attributed; no teacher-own turn, pedagogical motive, completed conventional mastery or equation with Mito's separate sports-day case. |
+| Rui | Is named by Kurt as the interrupter in C and as subject of a work-clothes transformation analogy in E. | Protective/presentation-regulating function is an interpretation, not Rui's newly acquired own motive. No actual biological transformation or direct new Rui belief. |
+| Memoru | Enters Kurt's C account through juice stickiness and F through eagerness, departure and unexplained preparation words. | No deliberate spill, malicious intention, verified possession/use of pin/laxative, successful sabotage, injury or own new Memoru turn established. |
+| Earlier Nicole | Supplies reported jersey terminology, assigns Kurt a useful sports role and explains idol participation. | No new own turn, complete intent or universal rule. Earlier Kurt's boundary against Nicole's apparent theft and Nicole's imposed-exposure costs remain. |
+| `UNIT-0001` / Seven Sisters | Supplies an anticipated team contribution in Kurt's account; unspecified others reportedly praise a step in manners. | No exact roster of praisers, unanimous new assent, shared plan, actual win or advanced group chronology. |
+
+| ID | Holder and qualified state | Range and missing access |
+| --- | --- | --- |
+| `KNOW-1085` | Kurt is uncertain about the recording medium, denies nerves, and takes up a time signal as an interruption before substantive speech. | A:P1-3; own register/uptake, no exact duration, audience response, independently heard delivery or diagnosis. |
+| `KNOW-1086` | Takes up a fried-potato/private-life correction, asks whether the unfamiliar category is edible and says she does not understand. | B:P1-2; no actual food presentation or own corrective-speaker turn. |
+| `KNOW-1087` | Calls the park her territory, reports winning it from local boss Pes and describes continued checking/protection. | B:P3-5; own narrated history/practice, no independently observed win, legal title or known Pes species/identity. |
+| `KNOW-1088` | Says camera address disrupts her manner and expects hiding the camera to restore ease. | C:P1-2; tactic/belief, no stopped recording or objectively private unobserved space. |
+| `KNOW-1089` | Verbally begins rolling, notices an insect, attributes stickiness to Memoru's juice, proposes changing and names Rui's repeated interference. | C:P2-4; no completed eating/clothing change, observed action, intentional spill or Rui-own full rationale. |
+| `KNOW-1090` | Attributes manners lessons to Mana/Mito while retaining hand-assignment uncertainty and adapting a forceful gripping/thrusting schema. | D:P1-4; own lesson account/attempt, no verified conventional mastery or actual complete meal. |
+| `KNOW-1091` | Reports others praising a step beyond using hands and ends pleased at her increased manners. | D:P5; incremental praise/own evaluation, exact praisers and motives unknown. |
+| `KNOW-1092` | Presents cicada/snake shed skins through a valued ninja-transformation classification and generalizes about Japan. | E:P1-3; own imaginative model, no world-certified biology, nationality or origin assignment. |
+| `KNOW-1093` | Applies the transformation model to Rui's work clothes, reports Nicole's jersey label and expresses disappointment. | E:P4-5; attributed analogy/correction, no literal Rui shedding or independent acquisition/inventory record. |
+| `KNOW-1094` | Has incomplete sports-day knowledge but anticipates strong running/jumping contribution and reports Nicole's trump-card description. | F:P1-2; own skill confidence/attributed role, no measured result or completed victory. |
+| `KNOW-1095` | Reports Mito's indifference and Nicole's explanation of sports-day participation as idol work. | F:P3; distinct attributed positions, no general binding industry rule or identical prior Mito occurrence. |
+| `KNOW-1096` | Reports Memoru's eagerness/departure and the unexplained words ガビョー/ゲザイ. | F:P4-5; troubling pin/laxative reading remains inference; no possession, deployment, intent or harm verified. |
+| `KNOW-1097` | Wants to make an effort and asks everyone to support her despite incomplete understanding. | F:P5; prospective commitment/request, no actual competition or audience reception. |
+
+| ID | Direction | Qualified state and limit |
+| --- | --- | --- |
+| `REL-1089` | `kotobuki-kurt -> addressed unnamed viewers` | Tries an introduction, offers valued places/treasures and lessons, and requests support. A-F. No private Player promise, direct audience reply or approved reception supplied. |
+| `REL-1090` | `kotobuki-kurt -> reported unnamed presentation interlocutor` | Takes up a time signal, a category correction and an expectation of ordinary behavior. A/B/C. No assumed named speaker, direct extra turn or universal editorial policy. |
+| `REL-1091` | `kotobuki-kurt -> reported local boss Pes (unresolved identity/species)` | B:P4-5 frames a past win and continued territorial maintenance in Kurt's own account. No witnessed contest, species/person equation, current rivalry detail or new stable identity. |
+| `REL-1092` | `kotobuki-kurt -> wakaouji-rui` | C questions repeated interference; E admires an imagined transformation and receives a reported corrective label. Different objects/contexts, no own Rui motive or actual biological change. |
+| `REL-1093` | `kotobuki-kurt -> yusa-memoru` | C attributes stickiness to juice; F reads eagerness/preparation as interesting while not understanding the words. No intentional prank, endorsed sabotage or erased earlier complex repair relationship. |
+| `REL-1094` | `kotobuki-kurt -> misonoo-mana` | D:P1 attributes utensil instruction and wants to demonstrate it. No complete lesson, Mana-own evaluation, full mastery or certain teaching motive. |
+| `REL-1095` | `kotobuki-kurt -> hanyuda-mito` | D recalls chopsticks instruction; F reports indifference to sports day. No new Mito-own voice, inferred identical occasion or equation of learning with institutional enthusiasm. |
+| `REL-1096` | `kotobuki-kurt -> rokusaki-connie-presented as earlier Nicole` | E reports a jersey label; F accepts a useful prospective role and transmits an idol-work explanation. No unrestricted obedience, own Nicole intent or loss of retained REL0156 ethical boundary. |
+| `REL-1097` | `kotobuki-kurt -> seven-sisters and reported unspecified praising group` | D appreciates incremental praise; F wants to contribute to the named team. Praisers are not automatically an exact member list; no shared plan, all-member consent or actual victory. |
+
+No IDENTITY, CHAR, UNIT or READY record is added. Existing totals remain102/84/29/29. Proposed epistemic total1097 and directional total1097. Earlier entity bodies/IDs, R2 readiness and frozen uncertainties retain their horizons; no listened-voice, monograph or era-release promotion.
 <!-- T7S ENTITY STATE PAYLOAD END -->

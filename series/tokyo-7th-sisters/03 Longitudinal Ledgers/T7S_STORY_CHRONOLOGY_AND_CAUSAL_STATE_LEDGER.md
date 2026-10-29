@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.95"
+version: "11.96"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 100 Intimacy primary documents across 13 family portfolios / T7S_B0182–T7S_B0194; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 106 Intimacy primary documents across 14 family portfolios / T7S_B0182–T7S_B0195; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-29
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1189`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1339`; `last_closed_block = T7S_B0194`. The admitted horizon contains 615 primary documents: 235 Main, 280 i-n-g and 100 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 100 Intimacy documents across 13 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1195`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1345`; `last_closed_block = T7S_B0195`. The admitted horizon contains 621 primary documents: 235 Main, 280 i-n-g and 106 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 106 Intimacy documents across 14 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3953,3 +3953,27 @@ Owner [B0194](../02%20Readings/T7S_B0194_DEEP_READING.md), reading SHA256 `45fc1
 | `EDGE-1346` | `EV-B0194-002` / `EV-B0194-003` | `CIRCULATION_ACROSS_AUDIENCES_AND_REPORTED_LIMITS`: a private introduction/gift cannot simply be repeated for viewers under their differently reported obstacles; no common authority, universal rule or completed distribution. |
 
 Totals:1189 EV,25 WORLD,47 THREAD and1339 active EDGE records. Maximum EDGE1346 retains seven pre-existing non-active gaps. Only B/C/D/F provide their local prior/proposal/correction/uptake relations; no cross-case BEFORE edge, property/legal world fact or counterfactual realm is created.
+
+## B0195 Kurt's categories inside an imposed presentation frame
+
+Owner [B0195](../02%20Readings/T7S_B0195_DEEP_READING.md), reading SHA256 `4df5c2c2614e7f566f38959253ca4000d2366c45d298e56af5d9cd1dc1cdba6b`; complete family200870 / route NM-INTIMACY-200870, six primary documents, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.101. Complete prospective B0194/12.100 controls and25 physical before-images were committed atb482a67c341a5415c88d70e736a1631b17a38be9 before primary access. Pending-at-capture audit history remains frozen; B0194's subsequent successful automatic exact-head audit is certified separately. A-F bind exact source scripts and zero-based primary locators in the reading; native menu/title/cue order supplies no total chronology or actual unlock/date.
+
+| ID | Complete primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0195-001` | A:401000111 P0-3 | Kurt hesitates over her introduction and recording medium, denies nerves and reacts to an apparent time signal by saying she has not yet spoken about anything. | `PRESENTATION_FRAME_AND_UNREACHED_TOPIC`: written tension/own denial, no independently heard delivery, diagnosis, named timer, exact duration, private Player turn or viewer response. |
+| `EV-B0195-002` | B:401000826 P0-5 | Takes up a fried-potato/private-life correction, questions the category, then describes her park territory, reported win from local boss Pes and continuing checks. | `SELF_AUTHORED_PRIVATE_LIFE_AND_REPORTED_TERRITORY`: own account, no witnessed contest, legal ownership, species/identity adjudication for Pes or global aggression model. |
+| `EV-B0195-003` | C:401001418 P0-4 | Hides the camera to feel ordinary, verbally begins floor play, notices an insect, reports sticky juice and proposes a clothing change, then asks why Rui keeps interfering. | `INVISIBLE_DEVICE_AND_CONTINUING_SOCIAL_REGULATION`: no cessation of recording, Rui-own motive, completed insect eating/clothing change, deliberate Memoru prank or depicted action. |
+| `EV-B0195-004` | D:401001857 P0-5 | Attributes utensil lessons to Mana/Mito, demonstrates a forceful gripping/thrusting schema despite uncertainty, and reports praise for a step beyond using her hands. | `INCREMENTAL_LEARNING_AND_UNVERIFIED_MASTERY`: reported instruction/praise, no complete lesson, continuously observed meal, universal malice or measure of moral competence. |
+| `EV-B0195-005` | E:401003053 P0-5 | Presents cicada/snake shed skins as ninja transformation evidence, extends that account to Rui's work clothes, and reports Nicole's jersey explanation with disappointment. | `VALUED_ANALOGY_AND_MEDIATED_LABEL`: coherent imaginative pattern, no actual Rui biological shedding, transformation scene, object provenance or narrator-certified ninja biology. |
+| `EV-B0195-006` | F:401003109 P0-5 | Anticipates a sports day from running/jumping skills and Nicole's assigned trump-card role, reports different peer positions and Memoru's unexplained preparation words, then asks for support. | `COMPETENCE_WITH_PARTIAL_INSTITUTIONAL_KNOWLEDGE`: no event victory, actual pin/laxative use, injury, verified plan, total idol rule or identity with Mito's independent sports-day occurrence. |
+
+| ID | Compared events | Typed relationship and limit |
+| --- | --- | --- |
+| `EDGE-1347` | `EV-B0195-001` / `EV-B0195-003` | `VISIBLE_PRESENTATION_AND_HIDDEN_DEVICE_WORKAROUND`: a camera address feels disruptive; concealing it leaves social intervention in place. Formal comparison, no BEFORE or cure established. |
+| `EDGE-1348` | `EV-B0195-001` / `EV-B0195-006` | `FRAMING_DIFFICULTY_AND_CONFIDENT_CONTRIBUTION`: unsettled introduction and anticipated bodily skill coexist; no universal incompetence, developmental sequence or verified victory. |
+| `EDGE-1349` | `EV-B0195-002` / `EV-B0195-005` | `OWN_VALUED_CATEGORIES`: territory and transformative treasure organize Kurt's account beyond presentation vocabulary; no actual contest/biology or single instinct-only explanation. |
+| `EDGE-1350` | `EV-B0195-004` / `EV-B0195-005` | `CONVENTION_LEARNING_AND_ANALOGICAL_REASONING`: utensil approximation and ninja classification differ in object and standard; no equivalence of error, chronology or total incapacity. |
+| `EDGE-1351` | `EV-B0195-003` / `EV-B0195-004` | `INTERRUPTION_AND_REPORTED_INCREMENTAL_PRAISE`: peer regulation and learning support are differently mediated; no undifferentiated caretaker role or fully known motive. |
+| `EDGE-1352` | `EV-B0195-003` / `EV-B0195-006` | `OWN_ACTIVITY_AND_PEER_FRAMING`: ordinary behavior and prospective useful skill encounter others' boundaries/expectations; no actual audience approval, informed endorsement of preparations or common occasion. |
+
+Totals:1195 EV,25 WORLD,47 THREAD and1345 active EDGE records. Maximum EDGE1352 retains seven pre-existing non-active gaps. Local reported acquisition/maintenance, remembered instruction, repeated work change and present sports-day anticipation retain their own frames; no cross-case BEFORE edge or new territorial/property/biological world fact is created.
