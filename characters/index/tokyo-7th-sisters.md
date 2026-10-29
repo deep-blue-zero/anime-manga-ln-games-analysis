@@ -956,6 +956,28 @@ Reviewed analysis subjects in the `tokyo-7th-sisters` namespace of the [Characte
   - [`claim-evidence-ledger` — Individual interpretations, counterevidence and unresolved obligations](../../series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Bounded identity, character state and directional relationships](../../series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
 
+<a id="araki-rena"></a>
+
+### 荒木レナ
+
+- Entity ID: `tokyo-7th-sisters:araki-rena`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:araki-rena@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-intimacy-200630`: GAME EPISODE: Dedicated reading of the complete Sub Intimacy family 200630 / NM-INTIMACY-200630 (T7S_B0199): episodes 401000131, 401000135, 401000460, 401000762, 401001042, 401001210, 401001494 and 401006487, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). These are conditional occurrences with no inferred unlock level or total chronology across them. Earlier Main and Sub chapters (B0085, B0122, B0123, B0159, B0161, B0167, B0186, B0191) are contextual leads, not enrolled coverage. No performed voice, singing, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`b0199-deep-reading` — B0199 deep reading: Rena's chosen heights and the terms of support](../../series/tokyo-7th-sisters/02%20Readings/T7S_B0199_DEEP_READING.md)
+
 <a id="yusa-memoru"></a>
 
 ### 遊佐メモル
