@@ -337,13 +337,15 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Analysis subject ID: `re-zero:reinhard@light-novel`
 - Series: `re-zero`
 - Continuity: `re-zero-main-light-novels`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Reinhard across the original Japanese main light novels V01–V20, built from targeted revisits of already-consumed V01–V07, V12 and V14–V20; it covers the V01 off-duty rescue and Felt custody, V04 court service and Felt's later choice, the V05 friendship error, V16 ordinary and family encounters, the discarded V17 E020 Sirius intervention (typed as discarded), the V18–V19 hostage delay, death, revival and Regulus fight, and the V20 Theresia intervention, family rupture, postbattle council and corridor default. The V12 second-trial representation is separately typed. The horizon label does not assert an appearance in every volume. No V21 or later, EX, IF, web-novel, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
   - `volume-1-bounded`: LIGHT_NOVEL VOLUME: Character-specific analysis in the frozen Japanese main light-novel Volume 1 reading. V01-E1 through V01-E4 are distinct event-states within one continuity; the surviving endpoint is V01-E4. Discarded experiences remain evidence only for the relevant event/knower, not mutual remembered history. No later volume, web novel, IF route, supplement or adaptation is enrolled, and no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
+  - [`character-model` — Reinhard van Astrea: V01–V20 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_REINHARD_V01_V20_CHARACTER_MODEL.md)
   - [`volume-1-individual-analysis` — Volume 1 bounded individual model and event-state analysis](../../series/re-zero/02%20Sequential%20Readings/REZERO_LN_V01_DEEP_READING.md)
 
 <a id="rem"></a>
