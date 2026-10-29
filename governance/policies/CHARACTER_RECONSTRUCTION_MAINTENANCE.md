@@ -71,8 +71,17 @@ The queue is keyed by exact `analysis_subject_id`; each subject appears once wit
 3. `NEWLY_ELIGIBLE`: an `INCLUDED` subject enrolled since the checkpoint.
 4. `BACKFILL_UNASSESSED`: any other eligible subject without an assessment.
 5. `DEFERRED_EVIDENCE_CHANGED`: a subject the evaluator deferred whose discovery scope, coverage, curation, or reviewed-evidence membership has since changed, or whose reviewed evidence bytes or authority classification changed without a discovery edit. `--deferred` requires `--since`; only the deferred subjects' reviewed evidence paths are compared, at the cost of one checkpoint snapshot.
+6. `ANALYSIS_FRONTIER_ADVANCED`: a subject whose claims all still apply, but where current-authority analysis under the roots of its reviewed evidence (`series/<slug>` or `studies/<slug>`) has gained at least `--frontier-min-mentions` (default 10) matches of the subject's registered names in a single file since a claim's `basis_commit`. Names match by the preferred name, unambiguous aliases and their distinctive parts. The item's `frontier` lists each claim's base and every such path with its mention growth. For a deferred subject, growth is measured from the checkpoint when it is later than the basis.
 
-Currentness reasons cover subject absence, scope, curation and coverage changes, reviewed-evidence membership, evidence location and anchors, referenced bytes, and authority or supersession state. A change to an unrelated file never creates work. Discovery records are the only source of eligibility; prominence, appearance frequency, or the existence of a monograph is never treated as readiness.
+Currentness reasons cover subject absence, scope, curation and coverage changes, reviewed-evidence membership, evidence location and anchors, referenced bytes, and authority or supersession state. A change to an unrelated file never makes a claim stale. Analysis that grows around a subject outside its evidence creates only tier-6 work. Discovery records are the only source of eligibility; prominence, appearance frequency, or the existence of a monograph is never treated as readiness, and mention growth is a recall heuristic for finding work, never evidence.
+
+The frontier tier exists because works in current publication outgrow their assessments: a new volume reading or ledger entry rarely edits the evidence a claim cites, so currentness alone leaves a claim bounded at an earlier horizon. For each frontier item, read the listed paths against the claim's `temporal_boundary` and `source_boundary`:
+
+- if the analysis extends the subject and is not on its discovery row, record a discovery lead naming the subject, the paths and the main SHA. Enrollment changes the row's reviewed evidence or coverage, which makes the claim effectively stale and returns the subject at tier 1;
+- if the row already carries the extending evidence, prepare a superseding candidate at a newer basis under the usual batch limits;
+- otherwise, or while a lead is outstanding, defer the subject with its reason and basis SHA, so it returns only after further growth.
+
+A frontier item never justifies marking a record `STALE`, citing unenrolled evidence, or editing discovery.
 
 The evaluator never depends on the discovery agent's private memory, checkpoint, or undocumented communication. Advisory hints only annotate queued subjects; a missing hint never hides work and a duplicate hint never duplicates it.
 

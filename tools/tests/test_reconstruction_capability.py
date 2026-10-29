@@ -51,8 +51,10 @@ from generate_reconstruction_index import (  # noqa: E402
 from prepare_commit import active_rules, missing_required_output_paths  # noqa: E402
 from reconstruction_status import (  # noqa: E402
     _discovery_at,
+    analysis_frontier,
     deferred_evidence_changes,
     main as reconstruction_status_main,
+    subject_mention_pattern,
     work_queue,
 )
 from validate_repository import (  # noqa: E402
@@ -1271,6 +1273,156 @@ class WorkDiscoveryTests(unittest.TestCase):
             [("example:carol@anime", "REASSESSMENT_NEEDED")],
         )
 
+    def test_frontier_queues_a_current_subject_last_without_changing_its_state(self) -> None:
+        bob, carol = "example:bob@anime", "example:carol@anime"
+        current = candidate("a" * 40, GOLDEN_EVIDENCE_SET_SHA256)
+        stale = candidate("a" * 40, GOLDEN_EVIDENCE_SET_SHA256, "bob-v1")
+        stale["analysis_subject_id"] = bob
+        currentness = {
+            0: AssessmentCurrentness("alice-anime-v1", SUBJECT, "CANDIDATE", "CURRENT_PROVISIONAL", ()),
+            1: AssessmentCurrentness("bob-v1", bob, "CANDIDATE", "EFFECTIVELY_STALE", ("EVIDENCE_BYTES_CHANGED",)),
+        }
+        claim = {
+            "assessment_id": "alice-anime-v1",
+            "base": "BASIS",
+            "base_commit": "a" * 40,
+            "paths": [{"mention_growth": 12, "repository_path": "series/example/LATER.md"}],
+        }
+        discovery = [self._discovery(item) for item in (SUBJECT, bob, carol)]
+        queue = self._queue(
+            [current, stale], currentness, discovery,
+            frontier={SUBJECT: [claim], bob: [dict(claim, assessment_id="bob-v1")]},
+        )
+        self.assertEqual(
+            [(item["analysis_subject_id"], item["kind"], item["tier"]) for item in queue["items"]],
+            [
+                (bob, "EFFECTIVELY_STALE_ASSESSMENT", 1),
+                (carol, "BACKFILL_UNASSESSED", 4),
+                (SUBJECT, "ANALYSIS_FRONTIER_ADVANCED", 6),
+            ],
+        )
+        self.assertEqual(queue["items"][2]["reasons"], ["SUBJECT_ANALYSIS_GREW_SINCE_BASIS"])
+        self.assertEqual(queue["items"][2]["frontier"], [claim])
+        self.assertNotIn("frontier", queue["items"][0])
+        self.assertEqual(
+            queue["subject_state_counts"],
+            {"EFFECTIVELY_STALE": 1, "ELIGIBLE_UNASSESSED": 1, "PENDING_PROVISIONAL": 1},
+        )
+
+
+class MentionPatternTests(unittest.TestCase):
+    def test_names_match_by_distinctive_parts_and_unspaced_scripts(self) -> None:
+        record = discovery_record()
+        japanese = "\u30f4\u30a3\u30eb\u30d8\u30eb\u30e0"
+        record["preferred_name"] = "Wilhelm van Astrea"
+        record["entity_aliases"] = [
+            {"value": japanese, "language": "ja", "kind": "ORIGINAL_SCRIPT", "ambiguous": False, "note": None},
+            {"value": "Sword Devil", "language": "en", "kind": "ALTERNATIVE", "ambiguous": True, "note": None},
+        ]
+        pattern = subject_mention_pattern(record)
+        assert pattern is not None
+        text = f"Wilhelm van Astrea; Wilhelm; Astrea; van; Wilhelms; {japanese}\u306f; Sword Devil"
+        self.assertEqual(
+            [match.group(0) for match in pattern.finditer(text)],
+            ["Wilhelm van Astrea", "Wilhelm", "Astrea", japanese],
+        )
+
+
+class AnalysisFrontierTests(GitRepositoryFixture):
+    """Later analysis about an assessed subject is found without staling its claim."""
+
+    def _write(self, path: str, data: bytes) -> None:
+        target = self.repository / Path(path)
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_bytes(data)
+
+    def _frontier(self, item: dict[str, object], **kwargs: object) -> dict[str, list[dict[str, object]]]:
+        snapshot = GitSnapshot.from_commit(self.repository, self._git_output("rev-parse", "HEAD"))
+        evaluation = evaluate_reconstruction_assessments(
+            [item], self.repository, comparison=snapshot, comparison_records=[self.record]
+        )
+        self.assertEqual(evaluation.errors, [])
+        self.assertEqual(evaluation.currentness[0].effective_state, "CURRENT_PROVISIONAL")
+        return analysis_frontier(
+            self.repository, snapshot, AuthorityGraph(snapshot), [item], [self.record], evaluation, **kwargs
+        )
+
+    def test_later_analysis_about_the_subject_is_reported_while_the_claim_stays_current(self) -> None:
+        reading = "series/example/LATER.md"
+        self._write(reading, authority_artifact(b"# Later volume\n" + b"Alice decides.\n" * 12))
+        self._commit("later reading", reading)
+        self.assertEqual(
+            self._frontier(candidate(self.commit, self.digest)),
+            {
+                SUBJECT: [
+                    {
+                        "assessment_id": "alice-anime-v1",
+                        "base": "BASIS",
+                        "base_commit": self.commit,
+                        "paths": [{"mention_growth": 12, "repository_path": reading}],
+                    }
+                ]
+            },
+        )
+
+    def test_only_mention_growth_in_current_analysis_under_the_subject_root_counts(self) -> None:
+        ledger = "series/example/LEDGER.md"
+        self._write(ledger, authority_artifact(b"# Ledger\n" + b"Alice acts.\n" * 12))
+        item = candidate(self._commit("ledger at basis", ledger), self.digest)
+        self._write(ledger, authority_artifact(b"# Ledger\n" + b"Alice acts.\n" * 12 + b"Bob acts.\n" * 12))
+        noise = {
+            "series/example/DRAFT.md": (
+                b"---\nstatus: draft_noncurrent\nsupersedes: []\nsuperseded_by: []\n"
+                b"do_not_use_as_current_authority: true\n---\n" + b"Alice.\n" * 12
+            ),
+            "series/example/LEGACY.md": b"# No authority header\n" + b"Alice.\n" * 12,
+            "series/other/ALICE.md": authority_artifact(b"Alice.\n" * 12),
+            "series/example/BRIEF.md": authority_artifact(b"Alice.\n" * 9),
+        }
+        for path, data in noise.items():
+            self._write(path, data)
+        self._commit("growth that is not about the subject", ledger, *noise)
+        self.assertEqual(self._frontier(item), {})
+        self._write(ledger, authority_artifact(b"# Ledger\n" + b"Alice acts.\n" * 22 + b"Bob acts.\n" * 12))
+        self._commit("ledger grows around the subject", ledger)
+        self.assertEqual(
+            self._frontier(item)[SUBJECT][0]["paths"], [{"mention_growth": 10, "repository_path": ledger}]
+        )
+        self.assertEqual(self._frontier(item, min_mentions=11), {})
+
+    def test_a_moved_reading_is_compared_with_its_departed_version(self) -> None:
+        reading, renamed, moved = "series/example/LATER.md", "series/example/V2.md", "series/example/volumes/LATER.md"
+        body = b"# Later\n" + b"Alice decides.\n" * 12
+        self._write(reading, authority_artifact(body))
+        item = candidate(self._commit("reading at basis", reading), self.digest)
+        (self.repository / reading).unlink()
+        self._write(renamed, authority_artifact(body))
+        self._commit("rename the reading unchanged", reading, renamed)
+        self.assertEqual(self._frontier(item), {})
+        (self.repository / renamed).unlink()
+        self._write(moved, authority_artifact(body + b"Alice waits.\n" * 3))
+        self._commit("move it back under its name with a small edit", renamed, moved)
+        self.assertEqual(self._frontier(item), {})
+        self._write(moved, authority_artifact(body + b"Alice waits.\n" * 13))
+        self._commit("the moved reading grows", moved)
+        self.assertEqual(
+            self._frontier(item)[SUBJECT][0]["paths"], [{"mention_growth": 13, "repository_path": moved}]
+        )
+
+    def test_a_deferred_frontier_returns_only_after_growth_since_the_checkpoint(self) -> None:
+        reading = "series/example/LATER.md"
+        self._write(reading, authority_artifact(b"# Later\n" + b"Alice decides.\n" * 12))
+        checkpoint = self._commit("later reading", reading)
+        item = candidate(self.commit, self.digest)
+        self.assertEqual(self._frontier(item, since=checkpoint, deferred=[SUBJECT]), {})
+        self._write(reading, authority_artifact(b"# Later\n" + b"Alice decides.\n" * 24))
+        head = self._commit("reading continues", reading)
+        (claim,) = self._frontier(item, since=checkpoint, deferred=[SUBJECT])[SUBJECT]
+        self.assertEqual((claim["base"], claim["base_commit"]), ("CHECKPOINT", checkpoint))
+        self.assertEqual(claim["paths"], [{"mention_growth": 12, "repository_path": reading}])
+        # A checkpoint older than the basis never widens the comparison.
+        self.assertEqual(self._frontier(candidate(head, self.digest), since=self.commit, deferred=[SUBJECT]), {})
+
 
 @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
 class ProductionRepositoryFixture(GitRepositoryFixture):
@@ -1617,6 +1769,30 @@ class ReadinessCertificationTests(ProductionRepositoryFixture):
             [(item["analysis_subject_id"], item["kind"], item["reasons"]) for item in output["items"]],  # type: ignore[index]
             [(SUBJECT, "DEFERRED_EVIDENCE_CHANGED", ["EVIDENCE_BYTES_CHANGED_SINCE_CHECKPOINT"])],
         )
+
+    def test_work_queue_reports_the_frontier_while_the_candidate_stays_current(self) -> None:
+        self._publish([candidate(self.commit, self.digest)])
+        self._commit_outputs("candidate")
+        reading = "series/example/ALICE_LATER_READING.md"
+        (self.repository / Path(reading)).write_bytes(authority_artifact(b"# Later\n" + b"Alice decides.\n" * 12))
+        self._commit("later reading", reading)
+        self._advance_main()
+        code, output, _ = run_status("work-queue", "--repo", str(self.repository), "--commit", self.main)
+        self.assertEqual(code, 0)
+        (item,) = output["items"]  # type: ignore[index]
+        self.assertEqual(
+            (item["analysis_subject_id"], item["kind"], item["reasons"]),
+            (SUBJECT, "ANALYSIS_FRONTIER_ADVANCED", ["SUBJECT_ANALYSIS_GREW_SINCE_BASIS"]),
+        )
+        self.assertEqual(item["frontier"][0]["paths"], [{"mention_growth": 12, "repository_path": reading}])
+        self.assertEqual(output["subject_state_counts"], {"PENDING_PROVISIONAL": 1})  # type: ignore[index]
+        code, output, _ = run_status("currentness", "--repo", str(self.repository), "--commit", self.main)
+        self.assertEqual(output["assessments"][0]["effective_state"], "CURRENT_PROVISIONAL")  # type: ignore[index]
+        code, _output, stderr = run_status(
+            "work-queue", "--repo", str(self.repository), "--commit", self.main, "--frontier-min-mentions", "0"
+        )
+        self.assertEqual(code, 2)
+        self.assertIn("--frontier-min-mentions must be at least 1", stderr)
 
 
 @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
