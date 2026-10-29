@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.98"
+version: "11.99"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 117 Intimacy primary documents across 16 family portfolios / T7S_B0182–T7S_B0197; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 124 Intimacy primary documents across 17 family portfolios / T7S_B0182–T7S_B0198; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-29
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1206`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1356`; `last_closed_block = T7S_B0197`. The admitted horizon contains 632 primary documents: 235 Main, 280 i-n-g and 117 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 117 Intimacy documents across 16 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1213`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1363`; `last_closed_block = T7S_B0198`. The admitted horizon contains 639 primary documents: 235 Main, 280 i-n-g and 124 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 124 Intimacy documents across 17 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4023,3 +4023,29 @@ Owner [B0197](../02%20Readings/T7S_B0197_DEEP_READING.md), reading SHA256 `8b856
 | `EDGE-1363` | `EV-B0197-005` / `EV-B0197-006` | `SOLICITED_WORDS_AND_PRESCRIBED_CALL`: audience contribution is differently invited/expected; no actual suggestion, reply, compliance or common occasion. |
 
 Totals:1206 EV,25 WORLD,47 THREAD and1356 active EDGE records. Maximum EDGE1363 preserves seven pre-existing non-active gaps. B's explicit recording/viewing distinction, C's claimed recent offer/resumed dispute and wishes/expected participation retain local/reported/modal horizons. No cross-case BEFORE or new poison/slavery/planet world fact is created.
+
+## B0198 Kazumi's words, taste and chosen interpreters
+
+Owner [B0198](../02%20Readings/T7S_B0198_DEEP_READING.md), reading SHA256 `60b66d8664086599ddd1ae7e5cdc40e013bef6d05e16c3faa71f28d454bb0ea8`; complete family200820/route NM-INTIMACY-200820, seven primary documents, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.104. Complete B0197/12.103 prospective controls and25 physical before-images were committed at a342a9c3c3da63ae931e387242e57c0e4e522ec2 before primary access. Audit-pending-at-capture bytes retain history; later B0197 successful publication is separately certified. A-G exact scripts/hashes/full zero-based locators are in the reading; menu/title/cue order supplies no total chronology.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0198-001` | A:401000120 P0-3 | Kazumi asks the manager's favorite author, describes new interest in somebody else's taste and conditionally requests an introduction and a topic for the two of them. | `CHOSEN_READER_CURIOSITY`: self-report/invitation, no author/book identified, counterpart response, completed discussion or universal first-social-contact chronology. |
+| `EV-B0198-002` | B:401000124 P0-5 | Calls him to express gratitude, reports words failing despite writing fluency, asks him to stay beside her while she finds them and wishes she were literature. | `DEFERRED_EXPRESSION_AND_REQUESTED_PRESENCE`: no actual assent, waiting duration/outcome, diagnosis or transformation into a fully legible text. |
+| `EV-B0198-003` | C:401000562 P0-5 | Asks about a new library, proposes a visit to see collection/curtain colors, gives her trust criterion, reports checking his ties and offers a suitable future gift if her taste is welcome. | `AESTHETIC_ATTENTION_AND_CONDITIONAL_GIFT`: personal judgment/report/proposal, no library quality audit/interior/visit, completed gift or general monitoring permission. |
+| `EV-B0198-004` | D:401000806 P0-5 | Reports lateness after Tasha's home-language teaching, discusses literary interest and a received snowy-winter explanation for novel length, then uses heart-snow/melting as personal metaphor. | `LANGUAGE_INQUIRY_AND_SELF_DISCLOSURE`: country/language unnamed; no external literary/climate fact, actual snow/clinical cure, teacher-own new turn or completed lesson/meeting outcome. |
+| `EV-B0198-005` | E:401001090 P0-5 | Questions stiffness, admires Sumire's recalled intuitive words/gestures, turns learning naturalness into losing, takes up a noncompetitive response and says to trust her own words. | `COMPARATIVE_LOOP_AND_LOCAL_REFRAMING`: mediated advice/own acceptance, no objective peer ranking, permanent cure, shared sensibility or repaired notebook privacy. |
+| `EV-B0198-006` | F:401001278 P0-4 | Reports frequent foreign-literature reading and translator-dependent reception, calls herself an original and manager her translator/story-decider, offers noncriticism and requests his public interpretation across past/future. | `EXPANSIVE_INTERPRETIVE_TRUST_WITH_ASYMMETRY`: strong actual grant retained, no legal transfer, sole real authorship, actual public reception or retroactive/universal consent to private access. |
+| `EV-B0198-007` | G:401001446 P0-5 | Thanks him for accompanying glasses shopping, adds fashion to usual replacement reasons, imagines Sisara's suitability and a contest, and declares confidence in this particular field. | `TASTE_AND_BOUNDED_COMPETITIVE_CONFIDENCE`: no current loss/vision diagnosis, frame change/purchase, Sisara-own preference, held contest/result or global appearance verdict. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1364` | `EV-B0198-001` / `EV-B0198-002` | `SHARED_TOPIC_AND_DIFFICULT_THANKS`: literary competence offers an approach while direct gratitude requires requested time; no causal ladder or generalized incapacity. |
+| `EDGE-1365` | `EV-B0198-002` / `EV-B0198-006` | `WISHED_FOR_LITERATURE_AND_ORIGINAL_TEXT_METAPHOR`: different images of expression/mediation, not literal textual identity or completed passive career conversion. |
+| `EDGE-1366` | `EV-B0198-003` / `EV-B0198-007` | `AESTHETIC_CHOICE_AS_RELATIONAL_PROPOSAL`: colors/accessories lead to offered gift/project, not completed exchange/contest or objective expertise. |
+| `EDGE-1367` | `EV-B0198-004` / `EV-B0198-005` | `RECEIVED_LANGUAGE_AND_OWN_WORDS`: borrowed explanation/metaphor and self-comparison differently create utterance; no universally superior literary/intuitional register. |
+| `EDGE-1368` | `EV-B0198-005` / `EV-B0198-006` | `SELF_TRUST_AND_ENTRUSTED_INTERPRETATION`: own-word confidence coexists with expansive manager mediation; tension retained without chronological autonomy-to-dependence story. |
+| `EDGE-1369` | `EV-B0198-001` / `EV-B0198-006` | `OTHER_READER_TASTE_AND_PUBLIC_TRANSLATOR`: the manager is differently invited into conversation and representation; no universal romance or private-work contract. |
+| `EDGE-1370` | `EV-B0198-005` / `EV-B0198-007` | `OBJECT_SPECIFIC_COMPARISON`: speech competition is reconsidered while glasses competition is imagined confidently; no global for/against-competition trait. |
+
+Totals:1213 EV,25 WORLD,47 THREAD and1363 active EDGE records. Maximum EDGE1370 retains seven prior non-active gaps. Habits, first/recent reports, requests and conditional future acts retain their local/reported/modal scopes. No BEFORE edge, completed gift/contest or new national-literary WORLD fact is added.

@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.22"
+version: "1.23"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0197; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0198; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1581,4 +1581,47 @@ Owner [B0197](../02%20Readings/T7S_B0197_DEEP_READING.md), source-lock 12.103, w
 | `REL-1104` | `yusa-memoru -> rokusaki-connie-presented as earlier Nicole` | B asks and takes up apparent legal obstacles, C confronts then resumes a dispute, F attributes call-control praise. Source-specific own perspective; no new Nicole-own motive, legal authority, actual institution or general approval of coercion. |
 
 No IDENTITY, CHAR, UNIT or READY record is added. Their totals remain102/84/29/29. Proposed epistemic total1124 and directional total1104. Older bodies/IDs, uncertain motives/outcomes and separately bounded R2 scopes persist; no monograph/era eligibility promoted.
+
+## B0198 Kazumi's authorship, selective approach and interpretive trust
+
+Owner [B0198](../02%20Readings/T7S_B0198_DEEP_READING.md), source-lock 12.104, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; exact A-G locators in the reading. Existing Kazumi `IDENTITY-0046/CHAR-0035/katsuragi-kazumi`, Player `IDENTITY-0001/CHAR-0001/player-protagonist`, Sumire `IDENTITY-0016/CHAR-0013/usuta-sumire`, Tasha `IDENTITY-0069/CHAR-0054/tasha-romanovsky` and Sisara `IDENTITY-0041/CHAR-0034/kawasumi-shisara` retain their routes. Original/translator/snow metaphors are not new persons, diagnoses or institutions. Nanasta remains UNIT0002 with no new glasses-event policy.
+
+| Existing subject | Qualified addition | Resistant state or missing access retained |
+| --- | --- | --- |
+| Kazumi / CHAR0035 | Chooses another reader's taste, requests time for difficult thanks, attends to colors, seeks a language, reconsiders speech comparison, offers expansive interpretive trust and imagines accessory confidence. | Authored fiction, privacy objections, mutual misreading with Sumire, mismatch-compatible cooperation, fitted recommendations, task/work boundaries and experimental acting remain. No generic shy-bookworm, passive-original or all-intrusion-is-now-consented model. READY0029 remains historically bounded R2, monograph not ready. |
+| Player / CHAR0001 | Is addressed as reader, nearby recipient, tie wearer, counselor, translator and shopping companion within Kazumi's reports/requests/uptake. | No separate new own-text turn, total intent, accepted waiting/gift, complete creative ownership or successful public interpretation. |
+| Sumire / CHAR0013 | Is admired as a recalled comparison for intuitive words/gestures. | Own present response, objective superiority, natural compatibility and repair of prior unpermitted reading are not supplied. |
+| Tasha / CHAR0054 | Is reported as teaching Kazumi her home-country language. | No new teacher-own turn, named country/language, competence audit, exact lesson or later-travel knowledge. |
+| Sisara / CHAR0034 | Is imagined to suit intellectual-looking spectacles. | No actual new outfit, own preference, contest entry or collective assent. |
+
+| ID | Holder and qualified state | Exact range and missing access |
+| --- | --- | --- |
+| `KNOW-1125` | Kazumi asks the manager's favorite author and says she had not asked his usual reading. | A:P1; inquiry/own retrospective, no supplied answer or book. |
+| `KNOW-1126` | Calls this curiosity about another person's book preference a first in her life. | A:P2; situated first-time self-report, not ordering of all admitted peer-book cases. |
+| `KNOW-1127` | Conditionally asks an introduction to an unfamiliar author and proposes a topic for the two of them. | A:P3; chosen invitation, no actual discussion or reciprocal romance. |
+| `KNOW-1128` | Says she called him to express everyday gratitude but cannot find the words. | B:P1-2; own intended/blocked expression, no completed declaration. |
+| `KNOW-1129` | Contrasts plentiful writing with blankness in direct expression. | B:P3; occasion/medium difference, no clinical or universal incapacity. |
+| `KNOW-1130` | Asks him to remain beside her until words come and wishes she were literature. | B:P4-5; request/wish, no assent, time/outcome or literal transformation. |
+| `KNOW-1131` | Asks about a newly opened Shibuhama library and invites a collection/curtain visit. | C:P1-2; report/invitation, no actual interior or visit. |
+| `KNOW-1132` | Gives curtain-color care as her library-trust criterion and reports checking his tie colors daily. | C:P3-4; personal judgment/habit report, no independent quality/observation audit. |
+| `KNOW-1133` | Offers a later tie gift in a suitable color if her taste is welcome. | C:P5; conditional future offer, no purchase/exchange or counterpart preference. |
+| `KNOW-1134` | Reports lateness to a meeting because Tasha was teaching her home-country language. | D:P1; own report, no new Tasha-own turn, named country/language or meeting outcome. |
+| `KNOW-1135` | Describes interest in that literature/philosophy and language and asks why its novels are long. | D:P2-3; appraisal/inquiry, no external national-literary classification. |
+| `KNOW-1136` | Relays a snowy-winter explanation for novel length and contrasts the town's scarce snow. | D:P4; received explanation/local account, no verified literary history or weather law. |
+| `KNOW-1137` | Uses snow in hearts, asks whether he can melt hers and says it has already largely melted. | D:P5; metaphorical self-disclosure/teasing question, no clinical cure or measured relationship state. |
+| `KNOW-1138` | Admires Sumire's recalled intuitive words/gestures, judges her own speech stiff/reasoned and wants naturalness. | E:P1-3; self/peer appraisal, not objective ranking or natural sameness. |
+| `KNOW-1139` | Calls deliberate acquisition already losing, takes up a non-win/loss response and agrees to trust her words. | E:P4-5; mediated counselor uptake/local reframing, no permanent confidence or privacy repair. |
+| `KNOW-1140` | Reports near-daily foreign reading and feels translations of the same work differ greatly; extends analogy to idols. | F:P1-2; reported habit/reception/analogy, no literal unrelated text content. |
+| `KNOW-1141` | Calls herself original/manager translator deciding her story, offers noncriticism and requests his public interpretation across past/future. | F:P3-4; expansive own grant/asymmetry retained, no sole actual authorship, legal transfer, actual reception or blanket private access. |
+| `KNOW-1142` | Thanks him for joining glasses shopping, reports usual replacement reasons and admits fashion appeal. | G:P1-2; outing/reason account, no current diagnosis/loss, completed purchase or frame change. |
+| `KNOW-1143` | Imagines Sisara's glasses suitability, proposes a contest if ideas scarce and declares particular confidence despite self-called plainness. | G:P3-5; appraisal/proposal/self-judgment, no Sisara-own preference, held contest/result or general appearance fact. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1105` | `katsuragi-kazumi -> player-protagonist` | A seeks a shared reading topic; B requests nearby waiting; C offers taste/gift; D metaphorically names thaw; E receives a reframing; F offers broad interpretive trust; G thanks shopping company. Local acts/reports/requests differ. No reciprocal romance, manager omniscience, completed gift/wait or sole ownership; F does not retroactively license notebook intrusion. |
+| `REL-1106` | `katsuragi-kazumi -> tasha-romanovsky` | D:P1-2 reports language-learning access tied to literary interest. No independent teacher turn/intent, nationality/language resolution, whole lesson or knowledge of later admitted research/travel. |
+| `REL-1107` | `katsuragi-kazumi -> usuta-sumire` | E:P2-5 admires remembered intuition and compares her own language before accepting a less competitive frame. No supplied Sumire response, natural compatibility or repair of earlier boundary violation. |
+| `REL-1108` | `katsuragi-kazumi -> kawasumi-shisara` | G:P3 offers hypothetical intellectual-glasses suitability among Nanasta peers. Thin source-specific appraisal, no own Sisara response/preference, new costume or enacted contest. |
+
+No IDENTITY, CHAR, UNIT or READY record is added. Their totals remain102/84/29/29. Proposed epistemic total1143 and directional total1108. All prior bodies/IDs, missing outcomes, resistant authorship/privacy and readiness scopes persist; no maturity or era release promoted.
 <!-- T7S ENTITY STATE PAYLOAD END -->
