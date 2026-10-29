@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 37
+- Recorded totals: `CANDIDATE` 39
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -574,6 +574,34 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `voice-relationships-and-playthrough` (evidence gap): No attested dialogue, register, individual squadmate or romance relationship, mundane behavior, mission chronology, edition or playthrough variable \(origin, class, gender, survivors\) is part of this evidence set. Missing support is not evidence that the games lack them.
 - Evidence at basis commit:
   - [`mass-effect:commander-shepard@paragon-player-archetype#paragon-shepard-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c5166e2059fd671dcaac2283fd72b4c04f88be06/studies/comparative-media/Mass%20Effect/01%20Character%20Monographs/MASS_EFFECT_PARAGON_SHEPARD_CHARACTER_MONOGRAPH.md)
+
+### Subject `one-punch-man:bang@manga`
+
+#### Assessment `one-punch-man-bang-manga-v04-v37-distributed-20261029-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `one-punch-man:bang`
+- Scope: continuity `one-punch-man-manga`
+- Source boundary: Only the three REVIEWED references curated on one-punch-man:bang@manga at basis\_commit: the canonical OPM character model readiness index, hero character-state ledger and relationship state ledger, read for every Bang entry, their stated readiness rules and their evidence conventions, as repository analysis of the Japanese tankobon V01-V37. Each ledger's official-web 235-287 overlay is active\_provisional and excluded from the discovery coverage; it was read but no claim here rests on it. The frozen volume deep readings, the Japanese dialogue and register audits, the checkpoints and the source media are not curated on this subject; nothing is borrowed from them, the chapter/image locators were not rechecked, and the evaluator performed no primary-source inspection.
+- Temporal boundary: From the V04 baseline \(the City Z meteor summons\) through the V37 collected state: the V06 dojo history, the V10-V11 Garou lineage and search with Bomb, the V16-V19 confrontations and institutional exclusion, the V30 private history, reform and teacher-failure admission, the V31-V33 bodily failure and refused reclamation, and the V34 restitution proposal, apology burden, sparring and retirement. No state after V37 is assessed, and no default state is designated.
+- Basis commit: `6cab13c6799a7f6488fabbdef96804643979de08`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `d86baa57d232c5523cb94f89a07ebd72ffa00017ce03fdd3f415f5fd9eae0396`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any V04-V37 state the ledgers describe; the refusal is strongest after V30 and V34, where reconciliation, retirement and registration are explicitly open.; interlocutor Any counterpart, including Garou, Bomb, Charanko, Saitama and Genos as the ledgers describe them; the refusal does not depend on the partner.; settings Crossover, counterfactual or materially novel contexts beyond the located V04-V37 episodes; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `attributed-not-observed` (evidence-backed limitation): Child Emperor's exclusion of Bang, Bang's diagnosis of Garou's alteration and the heart-in-fists language are attributed models or claims, not established facts about Bang's conduct or Garou's state.
+  - `linked-corpus-not-curated` (evidence gap): The frozen deep readings, the Japanese dialogue and register audits and the checkpoints are not curated on this subject, so the locators were not rechecked. Missing support is not evidence of absence.
+  - `no-dedicated-model` (evidence gap): No dedicated Bang model, voice inventory or conditional decision rules are in the curated evidence; the assessment rests on entries distributed through shared ledgers.
+  - `project-strong-is-breadth` (evidence-backed limitation): The readiness index defines readiness as conditional evidence breadth, not importance or power, and records no specialist-ready promotion; Bang's strong label from V30 is a project routing tier, not a reconstruction capability.
+  - `reconciliation-retirement-open` (evidence-backed limitation): At V37 the ledgers leave the V30 invitation unaccepted and present reclamation refused, and treat the V34 retirement, Garou's restitution and future registration as planned or modal rather than completed.
+  - `web-overlay-excluded` (evidence-backed limitation): The web 235-287 overlay \(teacherly observation of Garou and Suiryu\) is active\_provisional and outside the discovery coverage; no claim here extends past V37.
+- Evidence at basis commit:
+  - [`one-punch-man:bang@manga#opm-character-model-readiness-index`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6cab13c6799a7f6488fabbdef96804643979de08/series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_CHARACTER_MODEL_READINESS_INDEX.md)
+  - [`one-punch-man:bang@manga#opm-hero-character-state-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6cab13c6799a7f6488fabbdef96804643979de08/series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_HERO_CHARACTER_STATE_LEDGER.md)
+  - [`one-punch-man:bang@manga#opm-relationship-state-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6cab13c6799a7f6488fabbdef96804643979de08/series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md)
 
 ### Subject `peach-girl:adachi-momo@manga`
 
@@ -1341,6 +1369,33 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `uncurated-readings-ledgers-audits-and-episodes` (evidence gap): The episode deep readings, longitudinal ledgers, representational-sovereignty ledger, video and motion audits, the coin-donor audit, the name crosswalk, the project character reconstruction method, any Document 20 model and the audiovisual source are not curated evidence on this subject, so the monograph's timestamps and routes were not rechecked here. Missing support is not evidence of absence.
 - Evidence at basis commit:
   - [`to-be-hero-x:x@animated-series#15-x-zero-godhood-fate-and-the-limit-of-public-will`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f79e49071be39667e2fc5d5be5a5f3e9ae503589/series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/15_X_ZERO_GODHOOD_FATE_AND_THE_LIMIT_OF_PUBLIC_WILL.md)
+
+### Subject `tokyo-7th-sisters:araki-rena@game`
+
+#### Assessment `tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:araki-rena`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only tokyo-7th-sisters:araki-rena@game\#b0199-deep-reading, the canonical T7S\_B0199 reading at basis\_commit, read in full: the complete Sub Intimacy family 200630 \(NM-INTIMACY-200630\) of seven short addresses \(episodes 401000131, 401000135, 401000460, 401000762, 401001042, 401001210, 401001494\) and the long episode 401006487, in the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\), as the reading reports it. Its comparisons with earlier Rena states \(B0085, B0122, B0123, B0159, B0161, B0167, B0186, B0191\) are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, singing, music or runtime was reviewed by the reading, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Eight conditional occurrences with no inferred unlock level and no chronology across them; only episode 401006487 has an internal sequence, from the concealed late practice through the day off, the shoe shop, the low-bar jump, the higher-bar request and the backstage coda before a promised live. No default state is designated, and no state before or after these occurrences is assessed.
+- Basis commit: `6cab13c6799a7f6488fabbdef96804643979de08`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `e313a452671dafe87881a3200db7467571c21ced6d5327abe9ca765a7c054c45`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any of the eight unordered occurrences; nothing before or after them.; interlocutor The manager, as the portfolio describes him; the refusal applies equally to any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the eight located occurrences; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `care-not-consent` (evidence-backed limitation): The manager's unannounced foot grasp produced useful information but drew her objection; the reading does not treat the means as consensual, and her later requested slap on the back is a different kind of support.
+  - `earlier-states-not-curated` (evidence gap): The earlier Rena readings \(B0085, B0122, B0123, B0159, B0161, B0167, B0186, B0191\) are not curated on this subject, so the reading's comparisons with them were not checked. Missing support is not evidence of absence.
+  - `japanese-wording-not-quoted` (evidence gap): The reading paraphrases rather than quoting Rena's Japanese lines, so register, self-reference and address forms are not in the curated evidence.
+  - `no-performed-medium` (evidence-backed limitation): No performed voice, singing, music, sound or continuous runtime was heard or watched, and the promised live is not performed in the source.
+  - `no-permanent-change` (evidence-backed limitation): Her choice of both activities is a local turning point; the reading says it establishes no permanent cure for overwork, and the coda's complaint keeps the problem of limits open.
+  - `outcomes-not-shown` (evidence-backed limitation): The higher-bar attempt has no shown result, and the healed foot and improved performance are Rena's self-reports without examination or measurement.
+  - `unordered-occurrences` (evidence-backed limitation): The eight sources are conditional occurrences with no chronology or unlock level; only episode 401006487 has an internal sequence, and cross-case comparisons are thematic.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:araki-rena@game#b0199-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6cab13c6799a7f6488fabbdef96804643979de08/series/tokyo-7th-sisters/02%20Readings/T7S_B0199_DEEP_READING.md)
 
 ### Subject `yuru-camp:shima-rin@manga`
 
