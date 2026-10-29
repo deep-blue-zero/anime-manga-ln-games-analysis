@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.27"
+version: "1.28"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0202; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0203; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1825,4 +1825,49 @@ Owner [B0202](../02%20Readings/T7S_B0202_DEEP_READING.md), reading SHA256 `c8fb9
 | `REL-1127` | `enami-madoka -> harumi-sawara` | G reports Sawara laughing/apparently unafraid and wonders about maturity; elder-sister address stays relational. No biological kinship/newage/status, actual fear-free psyche or broad care certification. |
 
 Totals:1271 KNOW/1127 REL.102IDENTITY/84CHAR/29UNIT/29READY retained without new routes or individual Madoka READY/R2. Anonymous father/dog roles, reported peer interiors, quoted-introduction age and qualified future horizons stay bounded; all prior bodies/IDs preserved.
+
+## B0203 Musubi's chosen openings and the limits of disclosure
+
+Owner [B0203](../02%20Readings/T7S_B0203_DEEP_READING.md), reading SHA256 `773d73fbca9ac5c4260df3fd697ede4125c570a4226e5163cabdd67151ce7403`; source-lock 12.109, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-I scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published91f3b21b/B0202/12.108 before primary; automatic publication cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1272` | Musubi appraises Vibado's limited bread and reports last portion/manager queue company. | A:P1-2; own taste/context account, no independently depicted transaction or manager eating. |
+| `KNOW-1273` | Musubi reads a wanting-looking face and asks whether manager appreciates the food. | A:P3; attributed appearance/question, not direct manager desire or agreement. |
+| `KNOW-1274` | Musubi feels company improves taste, offers a share and asks everyone-else secrecy. | A:P4-5; own valuation/selected disclosure, no eating method or confidentiality outcome. |
+| `KNOW-1275` | Musubi reports recent karaoke and former difficulty entering the circle. | B:P1; situated retrospective barrier, not no previous friendships or observed karaoke song. |
+| `KNOW-1276` | Musubi values meeting companions with whom she can cry/laugh. | B:P2; own belonging account, not universal institutional quality or equal access to every member. |
+| `KNOW-1277` | Musubi includes manager presence in gratitude and deliberately speaks frankly today. | B:P3; direct thanks without sole causal authorship, permanent cure or reciprocal romance. |
+| `KNOW-1278` | Musubi identifies Piyopiyo, claims genre skill and school-persona secrecy, asks about download. | C:P1-2; named local game/context, no manager installation, measured rank or school ban. |
+| `KNOW-1279` | Musubi corrects fallback-sounding invitation to explicit choice of manager and asks him not to leave. | C:P3-4; actual textual repair, no verified departure, assent or license to invert other refusals. |
+| `KNOW-1280` | Musubi requests shared play and declares no intention of losing. | C:P5; prospective demand/competitive wish, no game result or unrestricted responsibility. |
+| `KNOW-1281` | Musubi compares membership with earlier days and credits manager efforts while welcoming companions. | D:P2-3; attributed comparison, no exact roster or sole recruitment cause. |
+| `KNOW-1282` | Musubi objects to fond attention and invokes professional relation. | D:P3-4; own grievance/claim, no independently audited interactions or certified romantic status. |
+| `KNOW-1283` | Musubi asks lessons not be neglected and withdraws an unfinished addition. | D:P5; request not proof of actual neglect; absent words not filled in by analyst. |
+| `KNOW-1284` | Musubi reports cute alongside cool appraisal and feels pleased/embarrassed/newly self-aware. | E:P1-2; additive reported recognition, no one authentic essence or complete audience consensus. |
+| `KNOW-1285` | Musubi retains unseen weaknesses and hopes gradually to show different selves, including to manager. | E:P3-4; chosen partial visibility, no universal disclosure duty or complete knowledge transfer. |
+| `KNOW-1286` | Musubi cannot identify manager-praise feeling as simply happiness and takes words back. | E:P5; admitted uncertainty/withdrawal, no analyst-assigned settled love or no feeling at all. |
+| `KNOW-1287` | Musubi describes former restriction to what she could do before Haru/manager meetings. | F:P1-2; own retrospective account, not exhaustive history or erasure of previously evidenced effort. |
+| `KNOW-1288` | Musubi says Nanasta taught her that people face worries while moving forward. | F:P3; her learning/meaning, not omniscience about every peer or sole manager cause. |
+| `KNOW-1289` | Musubi chooses gradual future challenge and requests help. | F:P4-5; actual commitment with prospective outcome, no universal bravery, accomplished cure or surrendered refusal rights. |
+| `KNOW-1290` | Musubi declares documents checked and credits shared help with quick completion. | G:P1-2; completed task report/relative appraisal, no timed productivity or independent full-task audit. |
+| `KNOW-1291` | Musubi contrasts today's help with usually doing paperwork alone. | G:P2; local routine report, no permanent staffing rule or resolved B0145 council decision. |
+| `KNOW-1292` | Musubi imagines manager as fun but unreliable teacher/adviser whom she scolds. | G:P3-5; counterfactual teasing, no actual appointment/credentials or total unreliability verdict. |
+| `KNOW-1293` | Musubi describes today's imposed revealing costume and occasional distress despite work framing. | H:P1; complaint retains causative force; exact garment/current costume image and consent outcome absent. |
+| `KNOW-1294` | Musubi reports customer cheers and recurring manager praise as grounds for complaint. | H:P2-3; attributed reception/influence, no analyst-heard cheers or complete wardrobe/audience motive record. |
+| `KNOW-1295` | Musubi acknowledges praise makes her inclined, then asks manager to treat disclosure as unheard. | H:P4-5; own responsiveness/withdrawal without universal gender rule, false distress or blanket costume assent. |
+| `KNOW-1296` | Musubi reports Susu changes choreography and supplies sexiness/Darling rationale through her account. | I:P1-2; mediated peer conduct/speech, no Susu-own independent interior, observed dance or technical verdict. |
+| `KNOW-1297` | Musubi hypothetically asks about manager directions then calls it joke and says she does not believe deliberate direction. | I:P3-4; explicit correction, no instruction fact or enacted threat/harm. |
+| `KNOW-1298` | Musubi admits habitual suspicion/anger and states trust qualified by 一応. | I:P5; own situated stance, no unconditional trust, erased prior injury or general waiver. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1128` | `tendoji-musubi → player-protagonist` | Selected sharing/thanks/play invitation and requested help coexist with professional-attention/costuming complaints, secrecy, uncertain feeling, imagined corrective role and qualified trust. A-I; no blanket assent, settled romance, guaranteed confidentiality or total repair. |
+| `REL-1129` | `player-protagonist → tendoji-musubi` | Queue company, shared paperwork and praise influence are available through Musubi's reports; gratitude/requests address him without supplying independent agreement or motives. A:P2-5/G:P1-5/H:P3-5; no universal reliable-adult verdict or completed future request. |
+| `REL-1130` | `tendoji-musubi → kasukabe-haru` | Names meeting Haru within her account of moving beyond safe capacities. F:P2-5; remembered significance, not a new own Haru turn, sole cause or automatic source chronology. |
+| `REL-1131` | `tendoji-musubi → alessandra-susu` | Reports unilateral choreography change and unwanted recruitment, questions possible manager role then corrects it as joke. I:P1-5; no complete Susu motive/technical failure or actual sanction. |
+| `REL-1132` | `alessandra-susu → tendoji-musubi` | Only Musubi-mediated report supplies changed choreography and attempts to involve her through stated sexiness/Darling rationale. I:P1-2; no independent Susu speech, verified managerial instruction, full consent or erased peer independence. |
+| `REL-1133` | `tendoji-musubi → school peers, qualified` | Says game interest/skill stays private because of school character; hopes gradual plural recognition without identifying every recipient. C:P2-3/E:P1-4; no whole-school ban, friendlessness, universal discovery or imposed disclosure. |
+
+Totals:1298 KNOW/1133 REL.102IDENTITY/84CHAR/29UNIT/29READY retained. READY-0002 remains exact B0003 R2/MONOGRAPH_NOT_READY with no horizon upgrade. Source-named Haru memory and Susu-mediated report remain bounded; no new route or historical body/ID change.
 <!-- T7S ENTITY STATE PAYLOAD END -->

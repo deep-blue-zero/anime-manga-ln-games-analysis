@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.103"
+version: "11.104"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 154 Intimacy primary documents across 21 family portfolios / T7S_B0182–T7S_B0202; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 163 Intimacy primary documents across 22 family portfolios / T7S_B0182–T7S_B0203; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-29
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1254`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1401`; `last_closed_block = T7S_B0202`. The admitted horizon contains 669 primary documents: 235 Main, 280 i-n-g and 154 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 154 Intimacy documents across 21 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1263`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1409`; `last_closed_block = T7S_B0203`. The admitted horizon contains 678 primary documents: 235 Main, 280 i-n-g and 163 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 163 Intimacy documents across 22 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4176,3 +4176,32 @@ Owner [B0202](../02%20Readings/T7S_B0202_DEEP_READING.md), reading SHA256 `c8fb9
 | `EDGE-1408` | `EV-B0202-002 / EV-B0202-007` | DIFFERENT_ACCESS_TO_RECEPTION; reported horn listener/praise versus covered-ear story gap, no analyst-heard performance or invented ghost tale. |
 
 Totals:1254 EV,25 WORLD,47 THREAD,1401 active EDGE with maximum1408/seven earlier intentional gaps retained. Seven whole factual homes; no new WORLD or earlier body/ID/chronology change.
+
+## B0203 Musubi's chosen openings and the limits of disclosure
+
+Owner [B0203](../02%20Readings/T7S_B0203_DEEP_READING.md), reading SHA256 `773d73fbca9ac5c4260df3fd697ede4125c570a4226e5163cabdd67151ce7403`; source-lock 12.109, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-I scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published91f3b21b/B0202/12.108 before primary; automatic publication cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0203-001` | A:401000167 P0-5 | Reports last limited-time bread portion/manager queue company, appraises his wanting face, values shared eating over secret solitude, offers a little in thanks and requests secrecy. | REPORTED_PURCHASE_CONTEXT_AND_SELECTED_SHARING; no depicted transaction/eating method, manager desire/assent, public disclosure or guaranteed confidentiality. |
+| `EV-B0203-002` | B:401000351 P0-3 | Reports karaoke with Nanasta companions despite former difficulty joining, values shared feeling and chooses frank thanks to manager. | OWN_PARTICIPATION_AND_BELONGING_ACCOUNT; no karaoke performance heard/pictured, complete roster, sole cause, global friendlessness or cured approval burden. |
+| `EV-B0203-003` | C:401000416 P0-5 | Names game/private school skill, asks manager to play, corrects fallback-sounding request into choice of him, asks him not to leave and declares competitive intent. | CORRECTED_INVITATION_AND_PROSPECTIVE_PLAY; no installed app/played match/score, manager assent or general reversal of every refusal. |
+| `EV-B0203-004` | D:401000488 P0-5 | Credits new companions to manager effort, objects to his fond attention, invokes professional relation, requests lesson care and leaves addition unfinished. | ATTRIBUTED_GRIEVANCE_AND_WITHDRAWN_DISCLOSURE; no audited neglect/roster, exclusive romance, total absence of attachment or completed final thought. |
+| `EV-B0203-005` | E:401000662 P0-5 | Values being called cute as well as cool, hopes gradually to show plural selves while retaining hidden weaknesses, cannot name manager-praise feeling and retracts it. | ADDITIVE_SELF_RECOGNITION_AND_UNRESOLVED_AFFECT; no false-cool/true-cute essence, total disclosure duty or analyst-assigned romantic certainty. |
+| `EV-B0203-006` | F:401000690 P0-5 | Retrospectively describes avoiding weakness before Haru/manager, finds others facing worries instructive, commits to gradual challenge and asks help. | OWN_RETROSPECTIVE_ACCOUNT_AND_FUTURE_COMMITMENT; no exhaustive childhood audit, universal bravery/cure, invalidated refusal or manager ownership of challenges. |
+| `EV-B0203-007` | G:401000898 P0-5 | Declares paperwork checked, thanks shared help/faster completion against usual solitary work, imagines enjoyable yet scolded teacher/adviser. | COMPLETED_WORK_REPORT_AND_ROLE_COUNTERFACTUAL; no timed productivity proof, new appointment/credentials, council-resignation verdict or durable workload repair. |
+| `EV-B0203-008` | H:401000970 P0-5 | Reports imposed revealing costume/distress and customer cheers, blames praise influence, acknowledges responsiveness then urgently retracts disclosure. | COSTUMING_COMPLAINT_WITH_ACKNOWLEDGED_INFLUENCE; no exact pictured costume/heard cheers, blanket consent, false initial distress or settled romance. |
+| `EV-B0203-009` | I:401001262 P0-5 | Reports Susu choreography changes/rationales, hypothetically questions manager direction, calls it a joke/denies that belief and states qualified trust amid habitual doubt/anger. | MEDIATED_PEER_REPORT_AND_EXPLICITLY_CORRECTED_HYPOTHESIS; no proven instruction, Susu-own full motive, actual violence or unlimited trust/waiver. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1409` | `EV-B0203-001 / EV-B0203-003` | SELECTED_COMPANY_AND_CORRECTED_RECIPIENT; secret food sharing and an explicitly repaired play request retain different choices, no courtship chronology or general consent decoder. |
+| `EDGE-1410` | `EV-B0203-002 / EV-B0203-006` | FELT_BELONGING_AND_PROSPECTIVE_CHALLENGE; own participation account informs comparison with chosen gradual effort, no established cause/BEFORE or completed cure. |
+| `EDGE-1411` | `EV-B0203-003 / EV-B0203-005` | DOMAIN_SPECIFIC_VISIBILITY; hidden game skill and desired plural recognition coexist, no total disclosure obligation or false school self. |
+| `EDGE-1412` | `EV-B0203-004 / EV-B0203-008` | PROFESSIONAL_COMPLAINT_AND_AFFECTIVE_INFLUENCE; lesson attention and costuming distress retain force beside embarrassment, no universal romantic reversal. |
+| `EDGE-1413` | `EV-B0203-005 / EV-B0203-009` | DISTINCT_EPISTEMIC_ENDINGS; unnamed feeling withdrawn differs from hypothesis explicitly called joke and qualified trust, no common certainty or BEFORE. |
+| `EDGE-1414` | `EV-B0203-006 / EV-B0203-007` | REQUESTED_HELP_AND_REPORTED_SHARED_LABOR; future challenge request differs from locally completed paperwork, no global outcome or formal adviser appointment. |
+| `EDGE-1415` | `EV-B0203-007 / EV-B0203-009` | CORRECTION_COMPATIBLE_WITH_COMPANY_AND_TRUST; imaginary scolded teacher and qualified trust allow answerability, no total adult incompetence or unlimited authority. |
+| `EDGE-1416` | `EV-B0203-001 / EV-B0203-008` | CONTROL_OF_DISCLOSURE; selected secret and request to unhear retain access limits, no confidentiality guarantee, erased utterance or automatic repair of B0003. |
+
+Totals:1263 EV,25 WORLD,47 THREAD,1409 active EDGE with maximum1416/seven earlier intentional gaps retained. Nine whole factual homes; no new WORLD or earlier body/ID/chronology change.
