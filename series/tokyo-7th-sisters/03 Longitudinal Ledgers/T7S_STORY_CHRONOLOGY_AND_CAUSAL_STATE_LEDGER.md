@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.96"
+version: "11.97"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 106 Intimacy primary documents across 14 family portfolios / T7S_B0182–T7S_B0195; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 111 Intimacy primary documents across 15 family portfolios / T7S_B0182–T7S_B0196; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-29
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1195`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1345`; `last_closed_block = T7S_B0195`. The admitted horizon contains 621 primary documents: 235 Main, 280 i-n-g and 106 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 106 Intimacy documents across 14 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1200`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1350`; `last_closed_block = T7S_B0196`. The admitted horizon contains 626 primary documents: 235 Main, 280 i-n-g and 111 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 111 Intimacy documents across 15 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3977,3 +3977,25 @@ Owner [B0195](../02%20Readings/T7S_B0195_DEEP_READING.md), reading SHA256 `4df5c
 | `EDGE-1352` | `EV-B0195-003` / `EV-B0195-006` | `OWN_ACTIVITY_AND_PEER_FRAMING`: ordinary behavior and prospective useful skill encounter others' boundaries/expectations; no actual audience approval, informed endorsement of preparations or common occasion. |
 
 Totals:1195 EV,25 WORLD,47 THREAD and1345 active EDGE records. Maximum EDGE1352 retains seven pre-existing non-active gaps. Local reported acquisition/maintenance, remembered instruction, repeated work change and present sports-day anticipation retain their own frames; no cross-case BEFORE edge or new territorial/property/biological world fact is created.
+
+## B0196 Rui's chosen access and particular limits
+
+Owner [B0196](../02%20Readings/T7S_B0196_DEEP_READING.md), reading SHA256 `238058f7bc085fc14f7e44534fb858a8bda52d027eb79a8e2b09c4514757dc96`; complete family200880 / route NM-INTIMACY-200880, five primary documents, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.102. Complete prospective B0195/12.101 controls and25 physical before-images were committed atcd5191db4bf627970eed12226cc812014a0251ee before primary access. Pending-at-capture audit bytes retain history; B0195's subsequent successful automatic exact-head audit is certified separately. A-E bind exact scripts and zero-based primary locators in the reading; native menu/title/voice order supplies no total chronology, actual unlock/date or actor foreknowledge.
+
+| ID | Complete primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0196-001` | A:401000113 P0-3 | Rui thanks recipients, explicitly places live/home listeners' love on equal terms, then offers a special-feeling bond as a secret of this time/place. | `EQUAL_REGARD_AND_SITUATED_SPECIALNESS`: own address, no privately established Player relationship, accepted reciprocity, audited exclusive distribution or categorical hypocrisy/motive finding. |
+| `EV-B0196-002` | B:401000790 P0-5 | Values wandering without purpose against scheduled days, conditionally welcomes fan approaches, reports rare private recognition and wonders whether feminine clothing explains it while feeling mixed. | `REST_AND_AMBIVALENT_VISIBILITY`: own pattern/hypothesis/feeling, no actual encounter, proved recognition cause, disguise success or new age/gender-identity claim. |
+| `EV-B0196-003` | C:401001374 P0-5 | Attributes an abrupt mountain proposal to Nicole, jumps hours to a summit without a full explanation, reports exhaustion except Nicole/Kurt and anticipates descent, then admires the view and wonders about future group scenery. | `ADMIRATION_WITH_COST_AND_OPEN_HORIZON`: own report/metaphor, no full consent/logistics, medical measurement, completed descent or dissolution foreknowledge. Exact bg016 is a sunset playground, not mountain corroboration. |
+| `EV-B0196-004` | D:401001834 P0-4 | Offers a rare pre-live camera glimpse, qualifies whether the group's positive tension reaches the screen, excepts Nicole's natural power and asks viewers to watch next from the seats. | `OFFERED_BACKSTAGE_THRESHOLD_AND_REDIRECTED_AUDIENCE`: attributed observation/limited comparison, no heard atmosphere, group physiology, continuous entrance, song or completed live. |
+| `EV-B0196-005` | E:401003093 P0-5 | Reports recently bathing energetic Kurt, describes own frequent shower preference and cold-drink ideal, takes up only-Memorun stock information, refuses and proposes an outside purchase. | `CARE_AND_CONCRETE_NEGATIVE_PREFERENCE`: report/own refusal/intention, no depicted bath, measured doubling, new Kurt/stock-speaker/Memoru-own turn, known drink contents/harm or completed purchase/consumption. |
+
+| ID | Compared events | Typed relationship and limit |
+| --- | --- | --- |
+| `EDGE-1353` | `EV-B0196-001` / `EV-B0196-002` | `ADDRESSED_SPECIALNESS_AND_PRIVATE_NONRECOGNITION`: offered audience intimacy and mixed private visibility coexist; no fan motive, logical universal contradiction or BEFORE established. |
+| `EDGE-1354` | `EV-B0196-001` / `EV-B0196-004` | `QUALIFIED_ACCESS_AND_AUDIENCE_POSITION`: secret-feeling message and unusual backstage glimpse offer bounded proximity; no permanent backstage access or unique personal contract. |
+| `EDGE-1355` | `EV-B0196-002` / `EV-B0196-005` | `OWN_PREFERENCES_WITH_AVAILABILITY`: rest, conditional fan openness, care and a definite drink refusal retain choice; no perfectly hidden self, completed purchase or global withdrawal. |
+| `EDGE-1356` | `EV-B0196-003` / `EV-B0196-004` | `OBJECT_SPECIFIC_ADMIRATION_FOR_NICOLE`: mobilizing scenery with bodily cost and natural pre-live power are differently reported; no all-purpose infallibility, full consent or no-fear-in-every-context rule. |
+| `EDGE-1357` | `EV-B0196-003` / `EV-B0196-005` | `BODILY_COST_AND_PRACTICAL_CARE`: fatigue and taxing care persist alongside positive valuation/preference; no depicted action, common occasion or actor-stage chronology inferred. |
+
+Totals:1200 EV,25 WORLD,47 THREAD and1350 active EDGE records. Maximum EDGE1357 retains seven pre-existing non-active gaps. C's reported hours/past pattern/future question, D's imminent particular live and E's recent task/proposed purchase retain local/modal frames; no cross-case BEFORE edge or new summit-location world fact is created.

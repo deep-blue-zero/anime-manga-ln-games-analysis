@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.20"
+version: "1.21"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0195; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0196; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1508,4 +1508,40 @@ Owner [B0195](../02%20Readings/T7S_B0195_DEEP_READING.md), source-lock 12.101, w
 | `REL-1097` | `kotobuki-kurt -> seven-sisters and reported unspecified praising group` | D appreciates incremental praise; F wants to contribute to the named team. Praisers are not automatically an exact member list; no shared plan, all-member consent or actual victory. |
 
 No IDENTITY, CHAR, UNIT or READY record is added. Existing totals remain102/84/29/29. Proposed epistemic total1097 and directional total1097. Earlier entity bodies/IDs, R2 readiness and frozen uncertainties retain their horizons; no listened-voice, monograph or era-release promotion.
+
+## B0196 Rui's offered proximity, situated admiration and definite preference
+
+Owner [B0196](../02%20Readings/T7S_B0196_DEEP_READING.md), source-lock 12.102, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; A-E locators in the reading. Existing Rui `IDENTITY-0039/CHAR-0028/wakaouji-rui`, established alias `IDENTITY-0070/himemiya-sol`, earlier Nicole `IDENTITY-0003/CHAR-0003/rokusaki-connie-presented`, Kurt `IDENTITY-0062/CHAR-0049/kotobuki-kurt`, Memoru `IDENTITY-0061/CHAR-0048/yusa-memoru` and Seven Sisters `UNIT-0001` retain routes. The drink label's association supplies no new Memoru-own turn/action; the stock-information speaker remains anonymous. No new identity or machine binding is introduced.
+
+| Existing subject | Qualified addition | Resistant prior state and missing access retained |
+| --- | --- | --- |
+| `CHAR-0028` / Rui | Offers equal regard and special-feeling access, values unscheduled rest while ambivalent about private recognition, admires Nicole through distinct costs/comparisons, describes practical care and makes a firm refusal. | Theatrical/radio/public work, discipline, orphanage history, resource-based recognition of Mana and later material care/revisable offer remain separate admitted intervals. No universal charm, passive caretaker, true-self/mask replacement or maturity promotion. READY0021 keeps childhood/abuse, post-travel life, wider relations, exact chronology and performed media unresolved. |
+| Earlier Nicole | Is attributed the abrupt mountain impetus and viewed by Rui as naturally powerful before a particular live. | No own new intention, full group-consent process, global infallibility, unrestricted direction license or erasure of independently admitted fear. |
+| Kurt | Is excepted from reported mountain exhaustion and named as recently bathed in Rui's account. | No own new Kurt perspective, complete care arrangement, numerical energy measurement or visual bathing scene. Her earlier independent ordinary-life/ethical states remain. |
+| Memoru/name-bearing drink | Only the Memorun label enters E's stock/refusal exchange. | No present sender, ingredient, quality test, deliberate harm, relation to the earlier sticky juice or actual drink consumption established. |
+| `UNIT-0001` / Seven Sisters | Rui compares the group's path to Nicole's rapid mountain mobilization and reports the particular pre-live mood. | Own group metaphor/observation, not all members' direct new assent, fixed lineup at the reported summit, unchanged-nerves-for-all rule or advanced total chronology. |
+
+| ID | Holder and qualified state | Range and missing access |
+| --- | --- | --- |
+| `KNOW-1098` | Rui thanks message recipients and declares equal affection for live attendees and home HoloCom listeners. | A:P1-2; own address, no independently heard music, fan reciprocity or ranked attendance economy. |
+| `KNOW-1099` | Feels a special bond with these recipients and frames it as a here/now secret. | A:P3; offered specialness, no actual exclusive distribution, private Player declaration or audited audience response. |
+| `KNOW-1100` | Values purposeless off-day wandering against days pursued by scheduled tasks. | B:P1-2; own relief/pattern, no full timetable, contract or clinical diagnosis. |
+| `KNOW-1101` | Would welcome fan approaches without commotion, reports they are rare privately, hypothesizes feminine clothing as a cause and states mixed feeling. | B:P3-5; stance/report/question, no actual recognition encounter, proved causal mechanism or fan-own motives. |
+| `KNOW-1102` | Attributes the mountain proposal to Nicole and reports being at a summit hours later without a full explanation. | C:P1-2; account with explicit gap, no full logistics/consent or static mountain corroboration. |
+| `KNOW-1103` | Reports others exhausted except Nicole/Kurt, anticipates descent with dizzying thought and values the view. | C:P3-4; own/report perspective, no observed stamina trial, medical measurement, complete roster or completed descent. |
+| `KNOW-1104` | Sees a pattern in the Sisters' shared path and wonders where Nicole will run/what views she will show next. | C:P4-5; own retrospective metaphor/prospective question, no complete group motive or terminal foreknowledge. |
+| `KNOW-1105` | Wants viewers to see an unusual pre-live space and qualifies whether its positive tension can reach the screen. | D:P1-2; intended access/own uncertainty, no performed atmosphere or actual broadcast reception. |
+| `KNOW-1106` | Excepts Nicole from the initial group-tension description, admires her in this respect and redirects the audience toward seats for the coming live. | D:P3-4; attributed observation/bounded comparison/request, no global fearlessness, actual entrance or concert completion. |
+| `KNOW-1107` | Reports just bathing especially energetic Kurt and says she often uses showers herself. | E:P1-3; stated care/cost/preference, no numerical energy test, depicted bath, full care terms or new Kurt-own response. |
+| `KNOW-1108` | Values a cold drink, takes up only-Memorun stock information, refuses even if requested and intends to buy something outside. | E:P4-5; own stance/uptake/intention, speaker/contents/rejection reason unknown, no harm test or completed purchase/drink. |
+
+| ID | Direction | Qualified state and limit |
+| --- | --- | --- |
+| `REL-1098` | `wakaouji-rui -> addressed unnamed fans/viewers` | A thanks, affirms equality and offers special-feeling confidence; B conditionally welcomes approaches; D offers a glimpse then seats-directed viewing; E invites preference agreement. No private Player contract, audience-own response, permanent availability or actual program reception. |
+| `REL-1099` | `wakaouji-rui -> rokusaki-connie-presented as earlier Nicole` | C attributes sudden mobilization, names its cost and values future scenery; D admires natural pre-live power in a particular respect. No full motive, unrestricted authority, all-member consent or universal absence of fear. |
+| `REL-1100` | `wakaouji-rui -> kotobuki-kurt` | C excepts Kurt from exhaustion; E reports recent bathing effort. No new Kurt-own voice, parent/child role assignment, completed depicted sequence or quantified stamina/energy. |
+| `REL-1101` | `wakaouji-rui -> seven-sisters` | C authors a shared-path metaphor; D reports positive tension then a Nicole exception. No exact summit roster, direct each-member assent or total chronology; earlier group plurality preserved. |
+| `REL-1102` | `wakaouji-rui -> unseen unnamed stock-information interlocutor` | E:P5 takes up a limited option, refuses and announces an alternative purchase intention. Source-required anonymity; no Memoru/Player substitution, known rationale or completed procurement. |
+
+No IDENTITY, CHAR, UNIT or READY record is added. Their totals remain102/84/29/29. Proposed epistemic total1108 and directional total1102. Every older body/ID and separately bounded R2 decision remains; no new monograph or era-release eligibility follows.
 <!-- T7S ENTITY STATE PAYLOAD END -->
