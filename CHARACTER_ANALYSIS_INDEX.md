@@ -33,7 +33,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`mushoku-tensei`](characters/index/mushoku-tensei.md) | 13 |
 | [`my-hero-academia`](characters/index/my-hero-academia.md) | 30 |
 | [`ntr-netsuzou-trap`](characters/index/ntr-netsuzou-trap.md) | 4 |
-| [`one-punch-man`](characters/index/one-punch-man.md) | 4 |
+| [`one-punch-man`](characters/index/one-punch-man.md) | 5 |
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
@@ -105,6 +105,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Bakugo Katsuki](characters/index/my-hero-academia.md#bakugo-katsuki) | My Hero Academia manga | `my-hero-academia:bakugo-katsuki@manga` | — |
 | [Balter](characters/index/konosuba.md#balter) | Original light-novel continuity, scoped current monograph | `konosuba:balter@original-light-novel` | アレクセイ・バーネス・バルター |
 | [Baltimore](characters/index/azur-lane.md#baltimore) | Azur Lane mobile game | `azur-lane:baltimore@mobile-game` | — |
+| [Bang](characters/index/one-punch-man.md#bang) | One Punch Man manga | `one-punch-man:bang@manga` | — |
 | [Barton](characters/index/konosuba.md#barton) | Original light-novel continuity, scoped current monograph | `konosuba:barton@original-light-novel` | バートン |
 | [Beatrice](characters/index/blue-archive.md#beatrice) | Blue Archive game | `blue-archive:beatrice@game` | — |
 | [Beatrice](characters/index/re-zero.md#beatrice) | Re:Zero main light novel | `re-zero:beatrice@light-novel` | — |
