@@ -5,14 +5,14 @@ artifact_type: corpus_map
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.53"
+version: "1.54"
 status: active_provisional
 scope: "Single current entrypoint for a material analytical restart at the continuing Shuukura root"
-source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0019; LN10 separately admitted outside immutable I1; original I1/E0020+ and dependent stages paused, V1/future releases unopened"
+source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0019; original I1 continuous execution resumed at E0020, with dependent architectural stages retained; separate immutable BW/LN10 additions, V1/future releases unopened"
 canonical_home: series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: LN10_SOURCE_AND_CUMULATIVE_TRANSACTION_REVIEW_ACCEPTED
+review_status: OWNER_RESUMPTION_RECOVERY_RECORDED_NO_NEW_SOURCE_CREDIT
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -37,9 +37,28 @@ project_initialization:
   substantive_sequential_findings_at_bootstrap: false
   owner_review: CURRENT_OWNER_INSTRUCTION_AUTHORIZES_VALIDATED_BOOTSTRAP_ADOPTION
   sequential_analysis_lock: OPEN
-  lock_reason: VERIFIED_FOUNDATION_AND_BOUNDED_LN10_UNIT_ADMISSION
-  next_permitted_operation: NONE_LN10_RUN_COMPLETE
+  lock_reason: VERIFIED_FOUNDATION_AND_OWNER_RESUMED_ORIGINAL_I1
+  next_permitted_operation: KAK-JP-E0020
 sequential_execution:
+  mode: continuous_sequential
+  unit_type: other
+  authorized_start: LN-JP-V01
+  terminal_boundary: SHUUKURA-V2-20261017-I1
+  committed_high_water_mark: KAK-JP-E0019
+  next_candidate_operation: KAK-JP-E0020
+  confirmation_between_units: false
+  run_state: active
+  stop_reason: null
+  inventory_freeze_state: FROZEN_AVAILABLE_UNITS_AND_EXPLICIT_MANDATORY_GAPS
+  terminal_definition: "Every eligible primary narrative unit and required supplement in the verified kickoff inventory across the admitted lanes; then all required reconciliation, monographs, specialists, reconstruction, V1 comparison, integrated synthesis and release audits. No automatic future releases."
+  authorization_record: "08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#continuous-i1-resumption-after-ln10--2026-10-28"
+  next_unread_unit: KAK-JP-E0020
+  original_available_completed: 46
+  original_available_total: 458
+  combined_completed: 52
+  combined_available_total: 464
+completed_ln10_execution:
+  record_status: HISTORICAL_COMPLETED_RUN_UNCHANGED
   mode: single_operation
   unit_type: volume
   authorized_start: LN-JP-V10
@@ -53,7 +72,8 @@ sequential_execution:
   terminal_definition: "One complete LN-JP-V10 transaction covering all 31 spine components, required cumulative updates, source review and publication; then stop. Original I1 and its dependent stages stay paused."
   authorization_record: "08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#bounded-main-ln10-admission--2026-10-24"
   admission_inventory: "00 Frameworks and Methods/SHUUKURA_V2_LN10_ADMISSION_INVENTORY_20261024_A1.json"
-paused_original_i1_execution:
+historical_original_i1_pause_after_e0019:
+  record_status: HISTORICAL_PAUSE_SUPERSEDED_BY_OWNER_RESUMPTION_20261028
   mode: continuous_sequential
   unit_type: other
   authorized_start: LN-JP-V01
@@ -74,7 +94,7 @@ paused_original_i1_execution:
   BW_inclusive_available_total: 463
   pause_scope: ORIGINAL_I1_AND_ALL_DEPENDENT_STAGES
 analytical_execution:
-  authorization: OWNER_AUTHORIZED_SINGLE_LN10_ORIGINAL_I1_STAYS_PAUSED
+  authorization: OWNER_RESUMED_ORIGINAL_I1_WITH_COMPLETED_LN10_PRESERVED
   sequential_units_admitted: 52
   sequential_units_completed: 52
   committed_narrative_high_water_mark: LN-JP-V10
@@ -95,13 +115,13 @@ web_execution:
   frozen_episode_count: 431
   last_complete_episode: KAK-JP-E0019
   next_episode: KAK-JP-E0020
-  execution_status: paused_by_owner_after_E0019_publication
-  resumption_record: "08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#owner-resumed-continuous-kakuyomu-analysis--2026-10-23"
+  execution_status: active_owner_resumption_after_E0019_and_LN10
+  resumption_record: "08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#continuous-i1-resumption-after-ln10--2026-10-28"
 repository_state:
   stable_branch: series/shuukura
   routing_input: series/shuukura/.repository/series-registry.json
   materialization_status: PRESENT_UNREVIEWED
-  main_integration: LN10_ANALYTICAL_TRANSACTION_NOT_YET_INTEGRATED
+  main_integration: LN10_INTEGRATED_PR322_RESUMPTION_METADATA_NOT_YET_PUBLISHED
   integration_hold_required: NONE_FOR_COMPLETED_BOOTSTRAP
 ---
 
@@ -111,7 +131,21 @@ This is the single V2 first-read surface for **週に一度クラスメイトを
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-`NEXT_PERMITTED_OPERATION = NONE_LN10_RUN_COMPLETE`
+`NEXT_PERMITTED_OPERATION = KAK-JP-E0020`
+
+## Continuous I1 resumption after LN10 — 2026-10-28
+
+The owner's renewed instruction to resume continuous sequential Kakuyomu analysis restores the original **SHUUKURA-V2-20261017-I1** run from accepted **E0019**, with **E0020** next. The original attached task still governs its full frozen E0001–E0431 lane and every dependent architectural stage; neither E0020 alone nor the last web episode is a substitute terminal. Current mode is `continuous_sequential`, start `LN-JP-V01`, terminal `SHUUKURA-V2-20261017-I1`, high-water `KAK-JP-E0019`, `run_state: active`, OPEN foundation and no confirmation between ordinary units. The earlier E19 pause is now historical. The distinct LN10 single-operation run remains completed under `completed_ln10_execution`; its source work is not repeated.
+
+V10's nine-path source/ledger transaction and freeze-time erratum are integrated in [PR322](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/322): source `1ab5decb6ef28e3c325d6647b91c15d439a77430`, merge `c2e8af7cd40b2c49bba015396c9aee58f9018649`, merged `2026-10-25T00:26:15Z`. The [owner's recorded acceptance](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/322#issuecomment-6391399025) at `2026-10-25T00:26:10Z` answers the prospective-freeze procedural question, “Yes. This is fine to merge.” It resolves the former pending owner decision; it does not turn an unknown earlier inventory-authoring instant into authenticated clock evidence. Frozen inventories, source notes and the original attributed erratum remain unchanged.
+
+Recovery ordinarily fast-forwarded the stable checkout to fetched main `a4ba2049961cd380185e3e504c5235a493a88845`; its Shuukura subtree is unchanged from the accepted V10 source. Main's actual integration audit [40771990258](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40771990258) passed 10,457 paths and479 tests; source1ab5's [40145745397](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40145745397) passed10,074 paths and479 tests. These are recovered prior-head results, not certification of this resumption transaction. Its exact INDEX, push/readback and actual-head audit remain separate duties.
+
+This metadata recovery earns **zero new reading credit**: **52/464 combined**, **46/458 original I1**, **51/463 pre-LN10**, WEB **19/431**, ten acquired LN volumes and23supplements complete; Narō0/290, four resolved/47 unresolved of51gap candidates and27discovery duties remain. The four current ledger files remain1.43. E0020 title/body/images have not been opened. Entering evidence inherits LN01–10,23supplements and WEB1–19 familiarity, without a blind-reading or held-out forecast claim. WEB own Sendai remainsE19 and own MiyagiE17 beside observed/voicedE19; the adult/historical novel clocks remain separate.
+
+The [new source/run checkpoint](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#continuous-i1-resumption-after-ln10--2026-10-28) binds archive integrity, exact next-source identity and all preserved boundaries. Before opening E0020, seal its entering state; after source-order first notes and Q1, finish one whole episode, four ledgers, claim/prediction dispositions and publication. Continue the admitted original program. V1 remains quarantined until its required independent-comparison stage; E0432+, automatic future releases and unadmitted future bonuses remain outside I1. Both OFF evidence archives stay local.
+
+All dated sections through 2026-10-24 below preserve the state and instructions at their recorded time. Their paused/NONE or pending-publication language is historical, superseded only for current execution/publication by this section and the machine-readable current fields; their original source conclusions and freeze records are retained.
 
 ## LN10 deep reading complete; wider analysis paused — 2026-10-24
 
@@ -161,10 +195,10 @@ The finite lane is complete through BW10; execution stops after its verified ups
 
 | Responsibility | Current state |
 | --- | --- |
-| Primary LN witnesses | Original LN01–09 remain accepted and frozen. Separately authorized acquired LN10 is complete at its whole introducing transaction: all31components/4405native paragraphs/23original-image views and source/cumulative review. Main metadata admission is integrated; analytical publication verification remains pending until observed. |
+| Primary LN witnesses | Original LN01–09 remain accepted and frozen. Separately authorized acquired LN10 is complete at its whole introducing transaction: all31components/4405native paragraphs/23original-image views and source/cumulative review. Source/ledger analysis and the provenance erratum are integrated through PR322; the recorded owner acceptance resolves the procedural hold. |
 | Accessible supplements | Original18complete plus5newBW=23current; finite lane5/5. Pending: NONE in this finite lane. Whole-source acceptance resolves4named I1 gap candidates; BW10 is a new bonus-only addition. Both OFF archives stay local. |
-| Web witnesses | Kakuyomu19/431 through whole E0019; E0020unread; it is next only after owner resumption of frozenE0431 continuation. Original46/458 and pre-LN10 additive51/463 stay separate from current52/464 including LN10. Narō0/290,27discovery duties and broader modality obligations remain unfinished. |
-| Frozen extent | Original I1 membership/hash remains immutable, including LN01–09; the five-source BW addendum remains immutable. A separate [LN10 addendum](00%20Frameworks%20and%20Methods/SHUUKURA_V2_LN10_ADMISSION_INVENTORY_20261024_A1.json) adds one main source for this single operation. E0020+ original work stays paused; E0432+ and automatic future releases stay excluded. |
+| Web witnesses | Kakuyomu19/431 through whole E0019; E0020unread and now next in the owner-resumed frozenE0431 continuation. Original46/458 and pre-LN10 additive51/463 stay separate from current52/464 including LN10. Narō0/290,27discovery duties and broader modality obligations remain unfinished. |
+| Frozen extent | Original I1 membership/hash remains immutable, including LN01–09; the five-source BW addendum remains immutable. A separate [LN10 addendum](00%20Frameworks%20and%20Methods/SHUUKURA_V2_LN10_ADMISSION_INVENTORY_20261024_A1.json) adds one main source for its now-completed single operation. Original I1 work resumes continuously at E0020; E0432+ and automatic future releases stay excluded. |
 | Literary coverage | LN01–10,23supplements and E0001–E0019 complete through whole transactions. V10 includes the full adult sequence, late dual historical extra and all paratext; its bounded source run is complete. E19adds actual garment/arm steps, an unspoken refusal ground, qualified private need, particular cessation, a visible mark and self-qualified symbolic concern. Removal efficacy and final reciprocal request outcome remain unshown. Novel-only home/alternative/intent clauses stay attributed. Later novel/supplement/adult clocks stay separate; Miyagi WEB own remainsE17 beside observedE19. G3–G7 unfinished. |
 | Longitudinal state | Four logical ledgers, current files1.43:236claim IDs/745distinct formulations/1252strict quoted rows;1230propositions/1743versions;192rules/458distinct pairs/477physical rows with19legacy repeats. Sendai ownE19 and Miyagi observed/voicedE19 remain distinct from retained Miyagi ownE17; adult LN10 ownMiyagi throughchapter10, ownSendai throughchapter11, later observedMiyagi and both historical extra packets retain their separate clocks. Every older analytical form and countercase remains. The exact historical master and [current continuation01](04%20Longitudinal%20Ledgers/SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_01.md) remain one logical disclosure instrument. |
 | Reconstruction | M0.13/S0.14 draft_noncurrent/UNTESTED; zero validated domains. All18forecasts/13historical attempts and failures/ties/exposure limits unchanged. New historical source fit earns no held-out score or current model promotion; required studies/tests/abstention remain. |
@@ -177,8 +211,8 @@ The [source inventory](00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY
 
 | Dependency | Verified condition and consequence | Recovery condition |
 | --- | --- | --- |
-| Independent LN lane | All9 original LN units and five bonus backfills remain complete; separately admitted main LN10 is1/1 complete with all source/visual checks and cumulative review accepted at its whole introducing transaction. | Bounded LN10 run complete; finish external publication verification and stop. Original frozen web and dependent I1 work remain owner-paused. |
-| Supplemental gap reconciliation | Original I1 retains 51 historical gap candidates and 27 discovery duties; four resolved/47 unresolved. BW10 remains a separate bonus addition. | Finite bonus lane complete. Remaining web/source/modality and G3–G7 duties remain unfinished and paused pending explicit owner resumption. |
+| Independent LN lane | All9 original LN units and five bonus backfills remain complete; separately admitted main LN10 is1/1 complete with all source/visual checks and cumulative review accepted at its whole introducing transaction. | Bounded LN10 run is complete and integrated. Resume original I1 continuously at E0020 and retain all dependent architectural duties; no repeat V10 reading is required. |
+| Supplemental gap reconciliation | Original I1 retains 51 historical gap candidates and 27 discovery duties; four resolved/47 unresolved. BW10 remains a separate bonus addition. | Finite bonus lane complete. Remaining web/source/modality and G3–G7 duties remain unfinished within the restored original I1 terminal and dependency order. |
 | Narō correspondence / discovery completeness | N0800GA episodes 1–290 remain an unperformed source-correspondence obligation; 27 frozen author-notice records require original-story holdings and duplication reconciliation. | Complete source access/correspondence and the bounded discovery audit after independent LN freezes; keep any genuine missing sources visible. |
 
 The following E19 paragraph is the preserved pre-LN10 original-I1 checkpoint. Its NONE route still describes that paused scope; the bounded LN10 route is declared above.
