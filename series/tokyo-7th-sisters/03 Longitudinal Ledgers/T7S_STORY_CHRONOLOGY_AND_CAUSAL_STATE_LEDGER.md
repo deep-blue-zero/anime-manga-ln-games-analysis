@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.94"
+version: "11.95"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 94 Intimacy primary documents across 12 family portfolios / T7S_B0182–T7S_B0193; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 100 Intimacy primary documents across 13 family portfolios / T7S_B0182–T7S_B0194; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-29
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1183`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1333`; `last_closed_block = T7S_B0193`. The admitted horizon contains 609 primary documents: 235 Main, 280 i-n-g and 94 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 94 Intimacy documents across 12 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1189`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1339`; `last_closed_block = T7S_B0194`. The admitted horizon contains 615 primary documents: 235 Main, 280 i-n-g and 100 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 100 Intimacy documents across 13 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3929,3 +3929,27 @@ Owner [B0193](../02%20Readings/T7S_B0193_DEEP_READING.md), reading SHA256 `fe25d
 | `EDGE-1340` | `EV-B0193-003` / `EV-B0193-005` | `ACCEPTED_DECISION_AND_INTERRUPTED_UNDERSTANDING`: an explicit local acceptance differs from an outing ending before explanation; no general freedom/lack-of-agency verdict or before/after relation. |
 
 Totals:1183 EV,25 WORLD,47 THREAD and1333 active EDGE records. Maximum EDGE1340 retains the seven older non-active gaps. No new BEFORE edge, world mechanism or institutional rule is invented.
+
+## B0194 Mana's wishes and the meanings others supply
+
+Owner [B0194](../02%20Readings/T7S_B0194_DEEP_READING.md), reading SHA256 `45fc1da529c941364fc16373ae5ba0cd374f6238681ba871725c1e4d2553d808`; complete family200860 / route NM-INTIMACY-200860, six primary documents, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.100. The complete prospective B0193/12.99 controls and25 physical before-images were committed at4c439df4f27a690d831722225e754b788305dd65 before primary access. Audit-pending-at-capture bytes remain; later successful B0193 audit and any incoming Git-only reconciliation are separately certified. A-F bind exact scripts and zero-based primary locators in the reading. Native menu/title/cue order supplies no total chronology or actual unlock/date.
+
+| ID | Complete primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0194-001` | A:401000109 P0-3 | Mana offers formal thanks, takes up a stiffness comment, shifts to reported bodily softness/peers' handling and receives apparent topic approval while still puzzled. | `WORDPLAY_AND_UNRESOLVED_FEEDBACK`: own report/uptake, no observed touching sequence, specified bodily locations/assent, independent viewer demand or clinical flexibility finding. |
+| `EV-B0194-002` | B:401000694 P0-5 | Reports a well-received earlier family introduction and unintended-joke reception, proposes public repetition, reports especially Memoru/Rui opposition and accepts disappointment. | `PRIVATE_RECEPTION_AND_BLOCKED_PUBLIC_REPEAT`: no reproduced introduction, exact birthday-letter/father binding, own counterpart reply, complete image policy or completed repeat. |
+| `EV-B0194-003` | C:401001346 P0-5 | Acknowledges correction about friendship chocolate, reports pleased Sisters, wishes to give viewers the same, then cites a vague Memoru/food-rule precedent and separate family objection to male recipients. | `GIFT_INTENTION_AND_DIFFERENTLY_REPORTED_BARRIERS`: no verified cultural/legal rule, actual fan delivery, named objector/rationale, own Memoru turn or calendar year. |
+| `EV-B0194-004` | D:401001570 P0-5 | Worries private life is too ordinary, reports brother's seaside invitation/own private-aircraft arrival, describes apparent personal island ownership as an unremembered fifth-birthday gift and says she likes it. | `ORDINARY_RESOURCE_FRAME_AND_QUALIFIED_PROPERTY_ACCOUNT`: no independently verified flight, deed, current age, full finances or own brother turn/name. |
+| `EV-B0194-005` | E:401001814 P0-5 | States current Sisters focus and a hoped-for warm partnership/family, rejects perceived marriage constraint through her own household reasoning, then imagines possible lifelong compliance without meeting Nicole. | `DESIRED_FUTURE_AND_CONTINGENT_FREEDOM`: aspiration/reasoning/modal counterfactual, no identified partner, actual wedding, complete family audit or alternative world. |
+| `EV-B0194-006` | F:401003077 P0-5 | Seeks viewer satisfaction through collected requests, hesitates at body-focused entries and asks clarification, then takes up Mito's attribution of all requests to Nicole and rebukes Nicole. | `REQUEST_FRAME_AND_ATTRIBUTED_AUTHORSHIP_REVEAL`: no enacted requested action, blanket assent, genuine audience-demand proof, independently audited senders or own Mito/Nicole turn. |
+
+| ID | Compared events | Typed relationship and limit |
+| --- | --- | --- |
+| `EDGE-1341` | `EV-B0194-001` / `EV-B0194-006` | `APPROVED_TOPIC_AND_REATTRIBUTED_REQUESTS`: favorable feedback and apparent audience demand retain different mediation/understanding gaps; no actual body action, shared occasion or global audience motive. |
+| `EDGE-1342` | `EV-B0194-002` / `EV-B0194-006` | `INTENDED_MESSAGE_AND_RECEIVED_OR_ASSIGNED_MEANING`: unintended comedy and changed request authorship distinguish Mana's intention from reception/source; no family/requester own reply or before/after. |
+| `EDGE-1343` | `EV-B0194-003` / `EV-B0194-005` | `PARTICULAR_GIFT_OBJECTION_AND_GENERAL_FREEDOM_CLAIM`: different objects/reported family positions remain, with no automatic total captivity, unlimited independence or contradiction verdict. |
+| `EDGE-1344` | `EV-B0194-004` / `EV-B0194-005` | `RESOURCES_AND_CONTINGENT_AGENCY`: ordinary resource access coexists with an own account of possible compliance without Nicole; no deed/complete finances or single causal explanation. |
+| `EDGE-1345` | `EV-B0194-001` / `EV-B0194-004` | `EXPECTED_INTEREST_AND_OWN_ORDINARY_FRAME`: topic approval and worry about boring private life concern how a viewer may value content; no verified reception, exhaustive innocence model or case chronology. |
+| `EDGE-1346` | `EV-B0194-002` / `EV-B0194-003` | `CIRCULATION_ACROSS_AUDIENCES_AND_REPORTED_LIMITS`: a private introduction/gift cannot simply be repeated for viewers under their differently reported obstacles; no common authority, universal rule or completed distribution. |
+
+Totals:1189 EV,25 WORLD,47 THREAD and1339 active EDGE records. Maximum EDGE1346 retains seven pre-existing non-active gaps. Only B/C/D/F provide their local prior/proposal/correction/uptake relations; no cross-case BEFORE edge, property/legal world fact or counterfactual realm is created.

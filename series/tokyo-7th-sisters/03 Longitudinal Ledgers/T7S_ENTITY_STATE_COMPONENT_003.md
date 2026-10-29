@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.18"
+version: "1.19"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0193; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0194; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1422,4 +1422,47 @@ Owner [B0193](../02%20Readings/T7S_B0193_DEEP_READING.md), source-lock 12.99, wi
 | `REL-1080` | `hanyuda-mito -> seven-sisters` | C describes concentrated/repeated work and giving all to listeners, while A/B/D preserve her own artistic priorities. Her collective formulation creates no new member vote, camera policy, exact live/date or revision of the group's chosen ending. |
 
 Totals:1069 KNOW and1080 REL. The102 IDENTITY,84 CHAR,29 UNIT and29 readiness decisions remain. Full READY0019 retains Main EP0.0/0.7 throughB0063, R2_STATE_BOUNDED/MONOGRAPH_NOT_READY and unresolved later life/career chronology, maternal perspective, independent relationships and listened voice/music. No R3 or2053 admission.
+
+## B0194 Mana's intentions, interpreted feedback and specific peer/family scopes
+
+Owner [B0194](../02%20Readings/T7S_B0194_DEEP_READING.md), source-lock 12.100, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; A-F primary locators in the reading. Existing Mana `IDENTITY-0020/CHAR-0017/misonoo-mana`, earlier Nicole `IDENTITY-0003/CHAR-0003/rokusaki-connie-presented`, Memoru `IDENTITY-0061/CHAR-0048/yusa-memoru`, Rui `IDENTITY-0039/CHAR-0028/wakaouji-rui`, Mito `IDENTITY-0060/CHAR-0047/hanyuda-mito` and Sisters `UNIT-0001` retain their routes. Reported Mana older brother remains an absent unnamed role, not Shizuka's brother or a new master identity. Generic household responses are not silently assigned to the existing father role.
+
+| Existing subject | Qualified addition | Resistant prior state and missing access retained |
+| --- | --- | --- |
+| `CHAR-0017` / Mana | Tries to understand and respond to feedback, accepts a correction, chooses gifts, proposes repeated introduction, values a private place, states partner/family wishes and credits a possible opening beyond compliance, while delaying requests she is not ready for. | Practical mediation/corporate competence, inherited resources and resource shame, Rui's reframe, chosen-group care, helplessness before mortality and Shizuka's independent purpose retain their horizons. No total wealthy-innocent, passive-compliance or unlimited-freedom model; no maturity promotion. |
+| Earlier Nicole | Is named in reported peer handling, Mana's modal account of liberation and the request-authorship attribution. | No own new turn or full intent. Generativity, care and imposed-framing/boundary costs coexist; opportunity supplies no standing license for every intervention. |
+| Memoru/Rui/Mito | Enter Mana's reports as introduction opponents, a gift precedent and request-provenance correction respectively. | Each function remains distinct; no new counterpart belief/motive, collective policy or independently verified sender log. |
+| Misonoo household/reported older brother | Supply reported reception, gift objection, resources, invitation and Mana's own freedom reasoning. | Particular objectors/receivers and full rationale remain unknown; no father receipt, brother name, legal governance, deed or total family judgment. |
+| `UNIT-0001` / Seven Sisters | Is thanked, introduced, reportedly given chocolate and named as Mana's current activity. | Her reports/assurances do not establish each member's own new assent, recipient reaction, policy or changed group chronology. |
+
+| ID | Holder and qualified state | Range and missing access |
+| --- | --- | --- |
+| `KNOW-1070` | Mana offers formal gratitude, takes up a stiffness comment and asks how to become softer. | A:P1-2; own register/uptake, no independently heard tone or identified evaluator. |
+| `KNOW-1071` | Reports bodily softness/peers' handling and apparent topic approval while retaining incomprehension. | A:P2-3; no observed touching, exact scope of assent or proof every viewer welcomes it. |
+| `KNOW-1072` | Reports apparently favorable family reception of an earlier introduction and a joke appraisal she did not intend. | B:P1-2; own qualified reception account, no exact earlier birthday-letter/recipient binding or family-own reply. |
+| `KNOW-1073` | Proposes repeating it for viewers, reports especially Memoru/Rui opposition and accepts disappointment. | B:P3-5; attributed objections, no public repeat or full image policy. |
+| `KNOW-1074` | Describes the occasion/friendship chocolate from hearsay, then acknowledges a recency correction and study gap. | C:P1-2; local uptake, no verified cultural chronology or fixed year. |
+| `KNOW-1075` | Reports Sisters pleased by gifts, wants viewers to receive the same and cites a vaguely understood Memoru/food-rule obstacle. | C:P3-4; own report/desire/precedent, no fan delivery or verified legal rule. |
+| `KNOW-1076` | Reports family opposition when male recipients are mentioned and asks why. | C:P5; particular reported objection, unnamed objector and rationale unknown. |
+| `KNOW-1077` | Attributes a private-life video proposal, worries it is ordinary and reports brother's seaside invitation/own quick aircraft arrival. | D:P1-3; no independent flight, brother-own turn/name or full private-life inventory. |
+| `KNOW-1078` | Describes apparent individual island ownership/reported fifth-birthday gift, disclaims memory and says she likes the island. | D:P4-5; own qualified property account/affection, no deed, current age or complete asset finances. |
+| `KNOW-1079` | States current Sisters focus and hopes someday for a fine partner and warm household. | E:P1-2; aspiration, no named partner, actual engagement or marriage. |
+| `KNOW-1080` | Rejects perceived inability to choose marriage through her own inference from allowed idol activity. | E:P3-4; own household reasoning, no complete liberty/governance audit or actual future approval. |
+| `KNOW-1081` | Imagines she might otherwise have lived in compliance had she not met Nicole. | E:P5; modal autobiographical counterfactual, no verified alternate world or sole cause of all choices. |
+| `KNOW-1082` | Says she is unsure what satisfies viewers, solicited requests and intends to respond. | F:P1-2; presentation/intention, no independently sampled audience preference. |
+| `KNOW-1083` | Expresses embarrassment/unreadiness at body-focused requests, delays and asks clarification. | F:P3-4; requests and hesitation, no completed action or blanket assent. |
+| `KNOW-1084` | Takes up Mito's attribution of all requests to Nicole and rebukes Nicole. | F:P5; acquired attribution through Mana's uptake, no own Mito/Nicole turn, forensic sender audit or universal forgiveness. |
+
+| ID | Direction | Qualified state and limit |
+| --- | --- | --- |
+| `REL-1081` | `misonoo-mana -> addressed unnamed viewers/fans` | Thanks, seeks suitable content/feedback, wishes gift circulation, discusses private life/future and delays requests. A-F. No actual reception, private Player declaration, audience-demand proof or consent inferred from gratitude. |
+| `REL-1082` | `misonoo-mana -> rokusaki-connie-presented as earlier Nicole` | A reports peer handling, E credits a possible opening beyond family compliance, F adopts request-authorship attribution and rebukes. Contexts remain different; no own Nicole motive, universal malice or license derived from gratitude. |
+| `REL-1083` | `misonoo-mana -> yusa-memoru` | B reports public-repeat opposition and C a similar gift attempt meeting a vaguely understood obstacle. No new own Memoru turn, exact precedent event binding or verified legal/marketing rule. |
+| `REL-1084` | `misonoo-mana -> wakaouji-rui` | B names Rui among opponents of the public introduction. Reported reason does not replace the earlier recognition/resource-care relation or supply Rui's full new motive. |
+| `REL-1085` | `misonoo-mana -> hanyuda-mito` | F turns to Mito and takes up a correction about request authorship. No own Mito speech, physical arrival, full investigation or invented reciprocal position. |
+| `REL-1086` | `misonoo-mana -> Misonoo household as reported` | B/C/D/E distinguish reception, a particular gift objection, resource ownership account, current freedom claim and possible prior compliance. No family-wide identical belief, father reply, complete financial/legal governance or fixed chronology. |
+| `REL-1087` | `misonoo-mana -> reported unnamed older-brother role` | D reports his invitation and her own aircraft arrival. No own brother turn/name, independent itinerary or equation with Shizuka's reported brother. |
+| `REL-1088` | `misonoo-mana -> seven-sisters` | A/B/C/E express support thanks, introduce the group, report gifts/pleasure and name present activity. No all-member own assent/reaction, new policy/member or changed ending date. |
+
+Totals:1084 KNOW and1088 REL. The102 IDENTITY,84 CHAR,29 UNIT and29 readiness decisions remain. READY0020 keeps its bounded Main history/B0009 horizons, R2_STATE_BOUNDED/MONOGRAPH_NOT_READY and unresolved family history, independent motive chronology, later life, finances/governance and listened voice/music. Earlier father-receipt uncertainty remains at its frozen horizon; no new R3 or2053 admission.
 <!-- T7S ENTITY STATE PAYLOAD END -->
