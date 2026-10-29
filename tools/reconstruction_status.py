@@ -299,18 +299,34 @@ def analysis_frontier(
         if (base, roots) not in trees:
             trees[(base, roots)] = _tree_blobs(root, base, roots)
         before = trees[(base, roots)]
+        # A path new since the base may be a moved file. Its baseline is the
+        # departed content: identical bytes are no growth, and a departed file
+        # of the same unique name is compared as the earlier version.
+        departed = {path: oid for path, (_mode, oid) in before.items() if path not in snapshot.entries}
+        departed_ids = set(departed.values())
+        departed_names: dict[str, str | None] = {}
+        for path, oid in departed.items():
+            name = path.rsplit("/", 1)[-1]
+            departed_names[name] = None if name in departed_names else oid
         prefixes = tuple(item + "/" for item in roots)
         grown: list[tuple[str, int, str | None]] = []
         for path in sorted(snapshot.entries):
             if not path.startswith(prefixes) or not authority.current_eligible(path):
                 continue
             entry = snapshot.entries[path]
+            blob_id = _git_blob_id(entry.data, len(base))
             previous = before.get(path)
-            if previous == (entry.mode, _git_blob_id(entry.data, len(base))):
+            if previous == (entry.mode, blob_id):
                 continue
+            if previous is not None:
+                baseline: str | None = previous[1]
+            elif blob_id in departed_ids:
+                continue
+            else:
+                baseline = departed_names.get(path.rsplit("/", 1)[-1])
             mentions = _mention_count(pattern, entry.data)
             if mentions >= min_mentions:
-                grown.append((path, mentions, None if previous is None else previous[1]))
+                grown.append((path, mentions, baseline))
         earlier = read_blob_objects(root, (oid for _path, _count, oid in grown if oid is not None), cache=blob_cache)
         paths = []
         for path, mentions, oid in grown:

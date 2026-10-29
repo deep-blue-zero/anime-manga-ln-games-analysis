@@ -1390,6 +1390,25 @@ class AnalysisFrontierTests(GitRepositoryFixture):
         )
         self.assertEqual(self._frontier(item, min_mentions=11), {})
 
+    def test_a_moved_reading_is_compared_with_its_departed_version(self) -> None:
+        reading, renamed, moved = "series/example/LATER.md", "series/example/V2.md", "series/example/volumes/LATER.md"
+        body = b"# Later\n" + b"Alice decides.\n" * 12
+        self._write(reading, authority_artifact(body))
+        item = candidate(self._commit("reading at basis", reading), self.digest)
+        (self.repository / reading).unlink()
+        self._write(renamed, authority_artifact(body))
+        self._commit("rename the reading unchanged", reading, renamed)
+        self.assertEqual(self._frontier(item), {})
+        (self.repository / renamed).unlink()
+        self._write(moved, authority_artifact(body + b"Alice waits.\n" * 3))
+        self._commit("move it back under its name with a small edit", renamed, moved)
+        self.assertEqual(self._frontier(item), {})
+        self._write(moved, authority_artifact(body + b"Alice waits.\n" * 13))
+        self._commit("the moved reading grows", moved)
+        self.assertEqual(
+            self._frontier(item)[SUBJECT][0]["paths"], [{"mention_growth": 13, "repository_path": moved}]
+        )
+
     def test_a_deferred_frontier_returns_only_after_growth_since_the_checkpoint(self) -> None:
         reading = "series/example/LATER.md"
         self._write(reading, authority_artifact(b"# Later\n" + b"Alice decides.\n" * 12))
