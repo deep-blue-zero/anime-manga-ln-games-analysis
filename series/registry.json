@@ -275,7 +275,7 @@
         "ANIME"
       ],
       "repository_path": "series/konosuba/",
-      "canonical_entrypoint": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint": "series/konosuba/00_README_AND_CORPUS_MAP.md",
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",

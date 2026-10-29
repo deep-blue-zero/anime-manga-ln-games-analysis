@@ -954,3 +954,46 @@ This tranche awaits its own containing publication and designated curation.
 ```text
 Publish and verify the earlier 35 authority tranche and its qualified C20 successors, then complete designated curation/evaluation using actual effective main evidence. Resolve remaining legacy authority dispositions without changing sealed models or original firsts. Preserve scores, blanks/nulls, source-plane limits and OPEN selectors. During CALIBRATION every assessment publication is owner-merged; human review is required only for a REVIEWED promotion at its exact ID, basis and evidence digest. Prepare the final release only from verified integrations and actual currentness; delegation does not supply human acceptance or an entrypoint rename.
 ```
+
+
+## Fixed41 release preparation — 2026-10-27T02:24:24.547132+00:00
+
+Current reader routing and completed-run controls are prepared; final authority/curation are closed. Actual personal owner capability publication and containing release source/main gates remain required. The complete prior map is preserved verbatim below its reciprocal historical wrapper. Exact displaced operational front matter:
+
+```text
+---
+series: KONOSUBA
+artifact_type: corpus_map
+scope: FULL_FIXED41_MAIN_AND_EXPANDED_CORPUS
+generation: V1
+status: canonical
+source_boundary: Fixed 41 author package and the 35-monograph authority tranche published and main-verified; remaining 16 authority decisions and 77-file reconstruction authority audit pending containing publication; accepted public model files and original 90 firsts retained; final curation,bounded evaluation,owner calibration publication and release remain; percentage null
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md
+  method_status: canonical
+  source_reconnaissance_complete: true
+  required_ledgers_initialized: true
+  sequential_analysis_lock: open
+  next_permitted_operation: FINAL_CURATION_BOUNDED_EVALUATION_OWNER_CALIBRATION_PUBLICATION_AND_RELEASE
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: analytical_responsibility
+  authorized_start: V11
+  terminal_boundary: V17
+  committed_high_water_mark: V17
+  next_candidate_operation: FINAL_CURATION_BOUNDED_EVALUATION_OWNER_CALIBRATION_PUBLICATION_AND_RELEASE
+  confirmation_between_units: false
+  run_state: active
+---
+```
+
+
+## Actual owner publication and release readiness — 2026-10-27T02:44:41.901819+00:00
+
+Owner-reviewed PR334 source7eccdfd60d2efcdc765b3a21e368d62349a8a4da was merged as d81f4099abf13383f5acf56db13dcdff85cae484; source40437154019 and resulting-main40439065252 each passed all479 actual discovered IDs with allfive non-success categories zero. All32 raw CANDIDATE records and the generated index match source. The owner core historical131/146 private pool is retained unchanged; actual remaining publication deferrals are123 scoped subjects/132 direct items. Current controls now record the completed authorized bounded run with both next operationsNONE; the entire prior map remains an exact historical suffix. This closes upstream role gates, while the containing release must pass its own native/provider/source/housekeeping/main gates. No grade promotion, new source/independent credit, terminal closure or expanded hard seal is claimed.
