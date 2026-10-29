@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.99"
+version: "11.100"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 124 Intimacy primary documents across 17 family portfolios / T7S_B0182–T7S_B0198; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 132 Intimacy primary documents across 18 family portfolios / T7S_B0182–T7S_B0199; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-29
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1213`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1363`; `last_closed_block = T7S_B0198`. The admitted horizon contains 639 primary documents: 235 Main, 280 i-n-g and 124 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 124 Intimacy documents across 17 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1226`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1375`; `last_closed_block = T7S_B0199`. The admitted horizon contains 647 primary documents: 235 Main, 280 i-n-g and 132 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 132 Intimacy documents across 18 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4049,3 +4049,40 @@ Owner [B0198](../02%20Readings/T7S_B0198_DEEP_READING.md), reading SHA256 `60b66
 | `EDGE-1370` | `EV-B0198-005` / `EV-B0198-007` | `OBJECT_SPECIFIC_COMPARISON`: speech competition is reconsidered while glasses competition is imagined confidently; no global for/against-competition trait. |
 
 Totals:1213 EV,25 WORLD,47 THREAD and1363 active EDGE records. Maximum EDGE1370 retains seven prior non-active gaps. Habits, first/recent reports, requests and conditional future acts retain their local/reported/modal scopes. No BEFORE edge, completed gift/contest or new national-literary WORLD fact is added.
+
+## B0199 Rena's chosen heights and the terms of support
+
+Owner [B0199](../02%20Readings/T7S_B0199_DEEP_READING.md), reading SHA256 `c839f793dbc639c0d971bc9b946e8e6b0df75b15158274bba9ee76f8bb955134`; complete family200630/route NM-INTIMACY-200630, eight primary documents, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.105. Exact all25 physical and complete logical before-controls were frozen at published f49dfe56a54feef28d60aa8e2ea7b8d09f05d2e2/B0198/12.104 before primary access. Historical audit-pending capture remains; later successful B0198cycle is separate. The reading owns exact A-H scripts/hashes/full primary locators; no menu/cue-derived total chronology. H is one complete occurrence with six contiguous phases, including every command.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0199-001` | A:401000131 P0-3 | Reports best/dual good form, wonders whether manager company explains felt lightness and asks continued closeness. | REPORTED_PERFORMANCE_AND_TENTATIVE_ATTRIBUTION; no measured causality, reciprocal romance or link filling H result. |
+| `EV-B0199-002` | B:401000135 P0-5 | Admits dance strain despite training, offers towel/used drink, takes up objection and admits nervousness beside attributed manager feelings. | OFFERED_CARE_AND_OWN_VULNERABILITY; no actual ingestion or independent counterpart interior. |
+| `EV-B0199-003` | C:401000460 P0-5 | Credits scouting with new passion, wants larger/national work and asks training through high-bar/flight imagery. | DESIRED_DUAL_AMBITION; no delivered live, limitless capacity or blanket training consent. |
+| `EV-B0199-004` | D:401000762 P0-5 | Values maturity/equal person-specific recognition and calls the manager near her type, near only/enough now. | QUALIFIED_ADULT_APPEAL; no confirmed romance or perfect equality across encounters. |
+| `EV-B0199-005` | E:401001042 P0-5 | Describes animal/film fondness and pet wish, questions dorm restriction, imagines manager-as-dog then withdraws joke for present distance. | WITHDRAWN_FANTASY_AND_CHOSEN_DISTANCE; no pet/transformation or verified dorm rule. |
+| `EV-B0199-006` | F:401001210 P0-5 | Wants replacement shoes/cute design, requests a push past embarrassment and proposes manager shoes/shared morning runs. | AESTHETIC_WISH_AND_REQUESTED_HELP; purchase/routine proposed, distinct horizon from H function-focused account. |
+| `EV-B0199-007` | G:401001494 P0-5 | Reports welcome shared wildlife film after usually viewing alone, values discussion, proposes meal on manager tab and tentative date frame. | REPORTED_SHARED_PLEASURE; no supplied film scenes, actual meal/payment or mutually accepted date status. |
+| `EV-B0199-008` | H:401006487 P0-45 | Unnamed late failed practice precedes nighttime manager work/apologies; Rena reports busy athletics and asks aligned whole day off. | PROLOGUE_AND_SHARED_TIME_REQUEST; local later Rena connection preserves initial???; chief-manager choice not appointment, prior incident unnamed. |
+| `EV-B0199-009` | H:401006487 P46-106 | Runs with unequal capacities, declares representative status, deflects manager optimism, values shared route, withdraws drink tease; torn shoe leads to carrying protest and chosen-shoe request. | CARE_WITH_PATERNALISM_AND_SELF_BLAME; no independent selection result, rendered piggyback, universal sharing preference or payer. |
+| `EV-B0199-010` | H:401006487 P107-163 | Shop selection leads to private two-week-wear warning/inferred overwork; manager unexpectedly grasps foot, hears protest, notices wounds and asks disclosure. | LOCAL_COMMERCIAL_WITNESS_AND_INTRUSIVE_CARE; concern/customer value coexist, no clinical diagnosis/blanket touch consent or exact conspiracy certainty. |
+| `EV-B0199-011` | H:401006487 P164-240 | Rena discloses specialist comparison/plateau/errors/belonging fear; manager belatedly understands, proposes low jump/mat/sky; remembered pleasure leads her to choose both, with his support. | BELATED_KNOWLEDGE_AND_LOCAL_RETURN_OF_CHOICE; no optimal timetable, formal coach/medical clearance, permanent cure or retroactive intrusion approval. |
+| `EV-B0199-012` | H:401006487 P241-259 | Requests2cm above best, answers rest warning with one-attempt plea, receives assent, inwardly lacks failure image and declares flight across portrait/white/sky fades. | RENEWED_AMBITION_WITH_UNSHOWN_RESULT; no explicit clearance/measurement/new record, no safety endorsement. |
+| `EV-B0199-013` | H:401006487 P260-289 | Backstage Rena reports healed foot/rest improvement; manager reports nonstop-dance complaint, she attributes peers, calls praise flirtation against denial, requests backslap then promises upcoming effort. | REPORTED_RECOVERY_AND_CONTESTED_RELATION; peer-own turns absent, rest interval/clinical proof unspecified, requested touch distinct, live not depicted. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1371` | `EV-B0199-008 / EV-B0199-009` | BEFORE_INTERNAL_H; explicit continuous episode order, not chronology of other cases. |
+| `EDGE-1372` | `EV-B0199-009 / EV-B0199-010` | BEFORE_INTERNAL_H; explicit continuous episode order, not chronology of other cases. |
+| `EDGE-1373` | `EV-B0199-010 / EV-B0199-011` | BEFORE_INTERNAL_H; explicit continuous episode order, not chronology of other cases. |
+| `EDGE-1374` | `EV-B0199-011 / EV-B0199-012` | BEFORE_INTERNAL_H; explicit continuous episode order, not chronology of other cases. |
+| `EDGE-1375` | `EV-B0199-012 / EV-B0199-013` | BEFORE_INTERNAL_H; explicit continuous episode order, not chronology of other cases. |
+| `EDGE-1376` | `EV-B0199-001 / EV-B0199-003` | FLIGHT_AS_RELATIONAL_AMBITION; reported good form and desired idol reach, no causal law. |
+| `EDGE-1377` | `EV-B0199-002 / EV-B0199-009` | OFFERED_DRINK_AND_WITHDRAWN_TEASE; own comfort/nervousness versus local withdrawal, no universal sharing rule or chronological conversion. |
+| `EDGE-1378` | `EV-B0199-004 / EV-B0199-009 / EV-B0199-010` | PERSON_SPECIFIC_RECOGNITION_AND_PROTEST; favorable appraisal coexists with objections to child treatment and unexpected touch. |
+| `EDGE-1379` | `EV-B0199-006 / EV-B0199-010` | AESTHETIC_SHOES_AND_REQUESTED_COMPANY; separate self-histories remain, no invented purchase equivalence/calendar. |
+| `EDGE-1380` | `EV-B0199-005 / EV-B0199-007` | QUALIFIED_FANTASIES_OF_CLOSENESS; animal interest/pet joke/date comparison differ, no literal ownership or romance ladder. |
+| `EDGE-1381` | `EV-B0199-011 / EV-B0199-012` | INTRINSIC_PLEASURE_AND_RENEWED_COMPETITION; low-bar reframing is followed internally by higher ambition, without fabricated clearance. |
+| `EDGE-1382` | `EV-B0199-006 / EV-B0199-013` | REQUESTED_PUSH_AND_REQUESTED_BACKSLAP; metaphorical/physical supports compared, no cross-case BEFORE or blanket permission. |
+
+Totals:1226 EV,25 WORLD,47 THREAD and1375 active EDGE records; maximum1382 retains seven prior non-active gaps. Only H receives five internal BEFORE links; cross-case thematic relations impose no total chronology. All reports, inferences, recalled states, actual utterance/actions and proposals retain their scopes. No new institutional/world fact or measured jump result.

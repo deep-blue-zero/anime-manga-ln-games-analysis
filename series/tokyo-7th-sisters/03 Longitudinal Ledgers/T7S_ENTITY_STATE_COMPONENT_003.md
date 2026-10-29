@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.23"
+version: "1.24"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0198; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0199; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1624,4 +1624,66 @@ Owner [B0198](../02%20Readings/T7S_B0198_DEEP_READING.md), source-lock 12.104, w
 | `REL-1108` | `katsuragi-kazumi -> kawasumi-shisara` | G:P3 offers hypothetical intellectual-glasses suitability among Nanasta peers. Thin source-specific appraisal, no own Sisara response/preference, new costume or enacted contest. |
 
 No IDENTITY, CHAR, UNIT or READY record is added. Their totals remain102/84/29/29. Proposed epistemic total1143 and directional total1108. All prior bodies/IDs, missing outcomes, resistant authorship/privacy and readiness scopes persist; no maturity or era release promoted.
+
+## B0199 Rena's chosen heights and the terms of support
+
+Owner [B0199](../02%20Readings/T7S_B0199_DEEP_READING.md), exact A-H keys/hashes/locators in the reading, source-lock 12.105, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Rena `IDENTITY-0084/CHAR-0064/araki-rena`, Player `IDENTITY-0001/CHAR-0001/player-protagonist`, Kyoko `IDENTITY-0077/CHAR-0059/uesugi-uebasu-kyoko` and Honoka `IDENTITY-0083/CHAR-0063/saionji-honoka` retain their routes. Le☆S☆Ca UNIT0014/Nanasta UNIT0002 remain inherited; shopkeeper is an unnamed occurrence-local role,171_01 no personal/master identity. No individual Rena READY exists in the entering state or is created here.
+
+| Existing subject | Qualified addition | Resistant state or missing access retained |
+| --- | --- | --- |
+| Rena / CHAR0064 | Seeks chosen company/recognition, admits nervousness, wants aesthetic help and shared interests; H discloses divided comparison/overwork, objects to forms of care, reclaims reasons for both pursuits and reports rest-associated improvement. | B0085 result/grief/perfectionism, B0122 capacity/preferences, B0123 refusal/anti-spying boundary, B0159 peer privacy/care, B0161 conditional university/idol path, B0167 styling boundaries and later mediated contact/training remain. No effortless balance, permanent cure, global romance, readiness or awarded future. |
+| Player / CHAR0001 | In H wants recompense, initially assumes success, fears manager failure, learns warning/wounds/distress, asks about chosen pursuits and promises support; his actual new own text differs from short-case mediated uptake. | Earlier ignorance and Rena's protests are retained beside helpful low-bar/sky prompt. No omniscient coach/clinician, perfect equality or blanket touch/access consent. |
+| Kyoko / CHAR0059 and Honoka / CHAR0063 | H:P267 are Rena's attributed likely sources of the reported nonstop-dancing complaint. | No new own turn, verified message sender, global supervisory duty or foreknowledge. Prior differentiated peer relations remain. |
+
+| ID | Holder and qualified state | Exact range and missing access |
+| --- | --- | --- |
+| `KNOW-1144` | Rena reports another jump above personal best and good form in both pursuits. | A:P1; own performance report, no measurement/history or completion of H attempt. |
+| `KNOW-1145` | Rena feels floating/lightness since more manager company and wonders whether it explains jumping higher. | A:P2; subjective causal speculation, no physical law or measured effect. |
+| `KNOW-1146` | Rena asks that he stay close and playfully says she will not let go, then asks acceptance. | A:P3; wish/request, no separate assent or reciprocal romance. |
+| `KNOW-1147` | Rena calls dance hard despite training, notices manager sweat and offers a towel. | B:P1-2; self/other appraisal and offer, no actual towel use or global incapacity. |
+| `KNOW-1148` | Rena offers a recommended partly used drink and treats the offer as evidence that she does not mind. | B:P3-4; own comfort/uptake, no actual consumption or general policy. |
+| `KNOW-1149` | Rena admits her own nervousness beside what she attributes to the manager. | B:P5; direct own feeling, other interior mediated rather than independently supplied. |
+| `KNOW-1150` | Rena credits scouting with another passion and wants larger/national live work. | C:P1-2; report/aspiration, no completed nationwide performance. |
+| `KNOW-1151` | Rena imagines high bars/flight with him and asks further idol training. | C:P3-5; confidence/request, no limitless physical ability or blanket training permission. |
+| `KNOW-1152` | Rena appraises maturity, equal treatment and recognition of herself against class-boy comparison. | D:P1-4; local preference/appraisal, no universal professionalism certification. |
+| `KNOW-1153` | Rena says he is near her type, near only and enough for now. | D:P5; qualified appeal/current distance, no formal relationship. |
+| `KNOW-1154` | Rena likes animals/animal films, wants pets and questions dorm prohibition. | E:P1-2; preference/wish/question, no living pet or audited dorm policy. |
+| `KNOW-1155` | Rena imagines feeding/walking a dog-manager then expressly withdraws it as joke for current distance. | E:P3-5; completed rhetorical withdrawal, no transformation or literal ownership. |
+| `KNOW-1156` | Rena asks replacement-shoe company and describes casual former choice becoming a cute-design wish after idol work. | F:P1-3; own history, not harmonized into H function-focused account by invented chronology. |
+| `KNOW-1157` | Rena wants a push past buying embarrassment and proposes manager shoes/shared morning runs. | F:P4-5; accompaniment request/proposal, no completed purchase or routine. |
+| `KNOW-1158` | Rena reports a moving shared wildlife film and usual solo viewing because friends dislike it. | G:P1-2; own report, no film actually viewed by analyst/species/title or independent peer motive. |
+| `KNOW-1159` | Rena values shared-topic company, proposes meal on his tab and tentatively likens enjoyment to a date. | G:P3-5; appraisal/proposal/qualified frame, no actual meal/payment or mutual romantic status. |
+| `KNOW-1160` | Player prepares staff-training material and considers a chief-manager choice in the night office. | H:P9-45; own work/context, not completed appointment or unlimited managerial expertise. |
+| `KNOW-1161` | Player apologizes for an unnamed earlier incident; Rena recognizes his effort, reports athletics absences and requests aligned whole day off. | H:P15-45; reciprocal situated accounts, no assigned prior arc/date or objective Rena blame. |
+| `KNOW-1162` | Rena calls running a hobby and declares Tokyo7th high-jump representative status. | H:P46-61; own claim, no independent selection document or performance time. |
+| `KNOW-1163` | Player reads her situation as dream fruition; Rena is subdued and deflects before disclosure. | H:P67-71; different access retained, no prior hidden manager knowledge of her burden. |
+| `KNOW-1164` | Rena values shared route despite pace difference and withdraws water-sharing tease. | H:P74-79; local company/withdrawal, no B ingestion or universal sharing preference. |
+| `KNOW-1165` | Rena asks to be put down and says a shoulder would suffice because she is not a child. | H:P92-95; textual carrying/protest, no rendered piggyback or blanket approval. |
+| `KNOW-1166` | Player fears being a failed manager; Rena normalizes breakage including two pairs at a meet. | H:P97-99; his self-blame/her account, not general normal-wear fact or disproved later concern. |
+| `KNOW-1167` | Rena requests he choose shoes and wants girl-oriented appearance beyond function. | H:P103-106/131/154; wish/selection appraisal, no shown model, price or payer. |
+| `KNOW-1168` | Shopkeeper raises possible defect/replacement; Rena attributes wear to herself. | H:P114-115; local proposals/accounts, no proven defect/warranty law or completed exchange. |
+| `KNOW-1169` | Shopkeeper reports that she bought the broken pair only two weeks earlier. | H:P140-141; specific sales-memory report, no independently audited purchase log. |
+| `KNOW-1170` | Shopkeeper infers many jumps plus long running; Player names overwork and hears probable agreement. | H:P142-146; informed inference, no clinical diagnosis or quantified training load. |
+| `KNOW-1171` | Shopkeeper believes she will hear Player and states concern for talent beside valued-customer interest. | H:P146-149; stated trust/mixed motives, not assured compliance or pure/sole motive. |
+| `KNOW-1172` | Rena questions foot-lifting and protests sudden grasp/public eyes; Player notices wounds, she suspects collusion and he asks her story. | H:P156-163; actual protest/textual observation, no injury CG or certified full prior conspiracy/consent. |
+| `KNOW-1173` | Rena admires specialists, reports plateau/dance errors and fears half-done belonging in both activities. | H:P166-183; her comparison/distress, no objective dual-career impossibility or clinical label. |
+| `KNOW-1174` | Player retrospectively joins earlier signs and recognizes the previously unseen burden. | H:P179/184-185; belated inward knowledge, no retroactive omniscience. |
+| `KNOW-1175` | Player sets low bar/asks jump; Rena assents partly for new-shoe break-in. | H:P190-196; local proposal/assent and implied use, no paid transaction or medical/coach clearance. |
+| `KNOW-1176` | Player hopes she recall why; Rena declares jump, lies on mat and recalls initial delight through sky view. | H:P198-216; distinct intention/own qualified memory, no literal childhood replay or performance measurement. |
+| `KNOW-1177` | Rena answers choice question with love of both pursuits and emphatic relief from worry/others gaze; Player promises support. | H:P221-240; real local reframing, no permanent cure or solved timetable/physical limits. |
+| `KNOW-1178` | Rena says bar is2cm above best, answers rest warning with one-attempt request and receives assent. | H:P245-249; negotiated desire, no medical safety endorsement or shown success. |
+| `KNOW-1179` | Rena inwardly says failure image is absent and declares flight with manager across sky/fade sequence. | H:P251-259; confidence/declaration, no explicit clearance, measured new record or A-derived result. |
+| `KNOW-1180` | Rena reports foot fully healed, overwork lesson and rest-associated dance/jump improvement. | H:P264-265; substantial self-report retained, no exam, elapsed rest or causal measurement. |
+| `KNOW-1181` | Player reports a nonstop-dance complaint; Rena confidently attributes it to Kyoko/Honoka. | H:P266-267; report/attribution, no peer-own text or verified sender; forever hyperbole retained. |
+| `KNOW-1182` | Player praises smile/promises continued support; Rena calls it courting and he denies that frame. | H:P270-277; contested interpretations, no established romance or erasure of flirtatious reading. |
+| `KNOW-1183` | Rena explicitly requests backslap, receives it/says energized, then promises upcoming full effort/wind. | H:P278-289; requested touch contrasts shop grasp, upcoming live not depicted/auditioned. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1109` | `araki-rena -> player-protagonist` | A-G chooses care/company/recognition, asks help, admits nervousness, withdraws jokes and offers qualified appeal; H requests shared day/shoes, objects to carrying/touch, discloses fear, chooses both and asks final support. Acts differ in scope; no universal consent, reciprocal romance or effortless dependency. |
+| `REL-1110` | `player-protagonist -> araki-rena` | H apology/self-blame, initial optimism/ignorance, received warning and wound discovery precede low-bar/choice question and promised support. Helpful reframing/rest concern coexist with overprotection/unannounced grasp; final backslap specifically requested. No omniscient clinician/coach or every-method-is-justified model. |
+| `REL-1111` | `araki-rena -> uesugi-uebasu-kyoko` | H:P267 attributes likely peer complaint about endless dancing and calls her worried; mediated care appraisal, no new Kyoko-own message/intent, general supervisory duty or repaired/all-future boundary. |
+| `REL-1112` | `araki-rena -> saionji-honoka` | H:P267 attributes same likely complaint to Honoka; retain distinct earlier practice/preferences and peer relation, no present own turn, verified sender or new athletic unit. |
+
+Totals:1183 KNOW and1112 REL. No IDENTITY, CHAR, UNIT or READY additions:102/84/29/29 retained. All prior entity bodies, routes, role distinctions and reported/modal horizons persist. No Rena R2 declaration, permanent recovery or full era release.
 <!-- T7S ENTITY STATE PAYLOAD END -->
