@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.24"
+version: "1.27"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0199; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0202; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1686,4 +1686,143 @@ Owner [B0199](../02%20Readings/T7S_B0199_DEEP_READING.md), exact A-H keys/hashes
 | `REL-1112` | `araki-rena -> saionji-honoka` | H:P267 attributes same likely complaint to Honoka; retain distinct earlier practice/preferences and peer relation, no present own turn, verified sender or new athletic unit. |
 
 Totals:1183 KNOW and1112 REL. No IDENTITY, CHAR, UNIT or READY additions:102/84/29/29 retained. All prior entity bodies, routes, role distinctions and reported/modal horizons persist. No Rena R2 declaration, permanent recovery or full era release.
+
+## B0200 Honoka's ordinary self and the happiness she chooses to carry
+
+Owner [B0200](../02%20Readings/T7S_B0200_DEEP_READING.md), reading SHA256 `e1eba5def2eb457e7b2c61e8e7f2e8680ceba8868fc0ab3bb4c546c1ca62973a`; source-lock 12.106, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Exact A-H scripts/hashes/full locators are owned by that reading. All25 physical and complete logical before-controls were frozen at published e1c9b4f/B0199/12.105 before primary access; later publication-cycle evidence is separate. No menu-derived total chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1184` | Honoka reports father's knife restriction/overprotection and secret study begun yesterday. | A:P1; own household account/relative time, no father-own motive or date for other cases. |
+| `KNOW-1185` | Honoka admits food not yet delicious, promises future ability and names a liked addressee as motivation. | A:P2-3; unfinished offer, no completed taste success or reciprocal romance. |
+| `KNOW-1186` | Honoka rejects ojousama categorization and reports painful attention at school. | B:P1-2; own experience, no independently audited class or universal peer intention. |
+| `KNOW-1187` | Honoka values the manager's ordinary-girl recognition and calls it uniquely welcome. | B:P3; own appraisal, no audited absence of all other recognition. |
+| `KNOW-1188` | Honoka distinguishes public idol role from ordinary private treatment she requests with him. | B:P4-5; request, no guarantee of all managerial conduct. |
+| `KNOW-1189` | Honoka believes horoscopes and compares a morning prediction with the remembered day. | C:P1-2; retrospective own pattern, no independently verified divination cause. |
+| `KNOW-1190` | Honoka recalls peers/manager often and invites future horoscope reading together. | C:P3-5; memory/invitation, no completed shared ritual or chronology. |
+| `KNOW-1191` | Honoka asks a busy manager to rest but wants plentiful ordinary conversation rather than only silence. | D:P1-4; specific desired companionship, no actual duration/transcript or assent. |
+| `KNOW-1192` | Honoka wants the manager to know more about her. | D:P5; own request, no unlimited disclosure entitlement. |
+| `KNOW-1193` | Honoka reports poor waking/about three alarms and fears possible oversleeping burden. | E:P1-2; report/possible future, no supplied past missed job. |
+| `KNOW-1194` | Honoka imagines manager-like wakeup, qualifies it as joke/not lovers and retains the imagined good feeling. | E:P3-5; qualified wish, no actual call/cohabitation/relationship or total erasure of desire. |
+| `KNOW-1195` | Honoka asks lunch appraisal and reports repeated practice since a failure with live-like nerves. | F:P1-2; reception requested, failure unidentified with G, no objective improvement. |
+| `KNOW-1196` | Honoka reports mother teaching/repertoire and father's present knife permission. | F:P3; her changed-access account, no parent-own reasons or single-manager cause. |
+| `KNOW-1197` | Honoka tentatively credits manager-related change and values having someone to eat her food. | F:P4-5; tentative attribution/motivation alongside own practice/mother teaching, no measured causality. |
+| `KNOW-1198` | Honoka calls lunch a first challenge, names ginger pork/omelet and offers chopsticks. | G:P1-2; limited repertoire/offer, no universal incompetence or every bite rendered. |
+| `KNOW-1199` | Honoka takes up too-sweet reaction and suspects wrong sugar/salt quantities. | G:P3; tentative quantity error, not literal swapping ingredients or objective taste assay. |
+| `KNOW-1200` | Honoka infers father's praise protective, asks stop eating, vows next try and requests secrecy. | G:P4-5; father intent inferred, withdrawal/privacy actual utterances, no permanent failure. |
+| `KNOW-1201` | Player appraises solo-stream success and explains Kyoko/Rena scheduling absence; Honoka offers fill-in. | H:P1-15; address/report/local scheduling, no heard live/metrics or new job/unit dissolution. |
+| `KNOW-1202` | Honoka reports prior university-exam absence, recognizes changed choices and feels she has only received/wants repayment. | H:P19-27; unnamed earlier incident/own debt feeling, no fixed date or compulsory debt. |
+| `KNOW-1203` | Player asks a day/conversation; Honoka agrees and proposes university-near ramen after second-period lectures. | H:P28-41; mutually settled plan, no delivered meal. |
+| `KNOW-1204` | Honoka forgot a future-oriented university report due this week and urgently asks help. | H:P46-60; her institutional account/relative deadline, no official policy audit. |
+| `KNOW-1205` | Honoka wants to remain an idol over next one or two years but cannot write what kind/what work. | H:P62-70; articulated specific difficulty, not absence of all ambition. |
+| `KNOW-1206` | A sepia classroom fragment recalls her light wish; Honoka seeks a different answer and deflects. | H:P78-83; accessible memory/avoidance, not proven literal forgetting. |
+| `KNOW-1207` | Player reports Sevens live origin and proposes returning to origins; Honoka accepts memory tour. | H:P84-94; his own history/method proposal, no prescribed report or sole authorship. |
+| `KNOW-1208` | Player recalls practice date/LeSCA debut and Honoka distinguishes today's purpose while remembering nerves. | H:P98-123; admitted memory, no real-date conversion or analyst-viewed newcomer live. |
+| `KNOW-1209` | Local newcomer fan pair asks handshake, Honoka accepts and they thank her. | H:P125-136; bounded text exchange, generic229/230 no global person join or detailed motion render. |
+| `KNOW-1210` | Newcomer fans describe Honoka's smile/effort/energy/light and prefer her while admiring Kyoko/Rena. | H:P131-153; situated stated preference, no audience survey or comparative peer inferiority; Honoka still seeks answer. |
+| `KNOW-1211` | Player notices written dialect; Honoka says she has rarely used it recently. | H:P119-121; text/local self-report, no heard prosody or menu chronology/authenticity binary. |
+| `KNOW-1212` | Honoka infers shared Fukuoka-4th roots; schoolgirl B confirms and reports moving for Honoka's live. | H:P165-171; local224/225 distinct from first pair, own influence account not sole audited cause. |
+| `KNOW-1213` | Schoolgirl A exposes B's secret dream; B protests, receives Honoka's encouragement and vows not to give up. | H:P172-180; privacy discomfort/future hope, no actual recruitment or completed career. |
+| `KNOW-1214` | Player buys tea/dango and Honoka settles into conversation. | H:P183-187; textual action/appraisal, se035 not heard or complete eating animation. |
+| `KNOW-1215` | Honoka says light wish remains and recalls telling children; she/Player recall early stage history with Kyoko/Rena. | H:P188-202; B0160 motif and own memories, current014 conversation not automatically filtered replay. |
+| `KNOW-1216` | Honoka compares peers' work/future plans and minimizes herself as only ordinary/onstage. | H:P205-213; own distressed appraisal, not objective inability or ranked worth. |
+| `KNOW-1217` | Honoka calls alternate-answer search escape and decides to return to original aim before Player's affirmation. | H:P215-219; her own interpretation/decision, no manager-authored will. |
+| `KNOW-1218` | Player says Honoka is already light and thanks her for deciding herself. | H:P220-223; his appraisal respects preceding agency, no measured influence certificate. |
+| `KNOW-1219` | Player proposes gentle light as a valid mode distinct from dazzling brilliance and asks her to recall fans. | H:P225-229; situated metaphor, no physical law or peer devaluation. |
+| `KNOW-1220` | Sepia repeats prior fans' preferences, schoolgirl move and resolve before return to current stage. | H:P230-235; recollection, not additional encounters/fans or repeated relocation/recruitment. |
+| `KNOW-1221` | Honoka accepts pride/joy, admits prior inward denial and says she will not escape; requests Player smile. | H:P246-259; strong local acceptance/textual affect, no permanent cure or auditioned crying. |
+| `KNOW-1222` | Player worries achieved aim may not answer future report, but Honoka already has a further goal. | H:P261-272; his assignment judgment distinct from her independent next aim, no official rubric. |
+| `KNOW-1223` | Honoka wants to return happiness by song to fans/friends/Player, values those beside her pace and accepts unknown time. | H:P268-281; chosen future direction, no mandatory infinite debt, guaranteed recipient happiness or completion date. |
+| `KNOW-1224` | Honoka later answers that she managed the report deadline. | H:P287-288; reported completion, no viewed report/submission/grade. |
+| `KNOW-1225` | Honoka chose dandelion title and imagines far-travelling fluff carrying happiness. | H:P289-295; own title/metaphor, no literal transport or measured influence distribution. |
+| `KNOW-1226` | Honoka calls coming live a first step; Kyoko/others are reported waiting as she prepares to go. | H:P282-298; upcoming performance, no new peer-own turns, heard song or depicted live. |
+| `KNOW-1227` | Honoka locally repairs 私 to ウチ and thanks Player for scouting before happiness image/final title/ending. | H:P301-306; actual written movement/thanks, no global formal-false/dialect-authentic conversion. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1113` | `saionji-honoka -> player-protagonist` | A-G offers practiced care, values ordinary recognition, asks talk/knowledge, qualifies morning-call intimacy and withdraws failed food/privacy; H chooses shared inquiry, discloses comparison, returns own aim and thanks support/scouting. Receptive gratitude coexists with agency and limits; no actual lovers, full disclosure duty or manager-only origin of growth. |
+| `REL-1114` | `player-protagonist -> saionji-honoka` | H gives time, accepts her outing idea, offers origin method, recalls debut, hears fans/disclosure, thanks her own decision and affirms gentle light. His appraisals/memories support rather than author all choices; short uptakes do not establish full independent interior, no omniscient policy/exam authority or perpetual cure. |
+| `REL-1115` | `saionji-honoka -> uesugi-uebasu-kyoko` | H recalls shared origin, admires/compares brilliance and later includes friends among happiness recipients; present busy schedule/waiting are mediated reports. Prior B0084/B0122 and later admitted peer states persist, no new Kyoko-own intention, universal inferiority or repaired-all-context relation. |
+| `REL-1116` | `saionji-honoka -> araki-rena` | H recalls shared origin and compares admired brilliance while planning continued LeSCA/friend-directed work; no present Rena-own turn. B0199 attributed peer concern and earlier practice/privacy states remain; no new athletic unit, sole supervision duty or menu-derived conversion. |
+
+Totals:1227 KNOW and1116 REL. Identity102/character84/unit29/readiness29 retained without additions; no individual Honoka READY exists. All older entity bodies/routes, local role distinctions, proposals and reported/modal horizons persist. No R2, permanent cure, new actor discovery or full era release.
+
+## B0201 Makoto's offered closeness and the pressure of being known
+
+Owner [B0201](../02%20Readings/T7S_B0201_DEEP_READING.md), reading SHA256 `ffba0b4cfcb7482a313db958d52c709ff28de58873ebec5fe71c2b0793e25ac6`; source-lock 12.107, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published417f952f/B0200/12.106 before primary; later successful automatic cycle separately retained. No menu-derived chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1228` | Makoto says others will not come and justifies arranged solitude as needed for feelings to be understood. | A:P1-2; her arrangement/account/uptake, no full invitation record or manager assent. |
+| `KNOW-1229` | Makoto wants to monopolize the manager, asks if strange, apologizes and calls herself bad. | A:P3; own desire/self-judgment, no diagnosis or mutually chosen exclusivity. |
+| `KNOW-1230` | Makoto reports always worrying alone and knowing she struggles to convey affection. | B:P1-2; own generalization/reflection, no audited absence of every peer support. |
+| `KNOW-1231` | Makoto says she is sometimes frightened of going too far. | B:P3; explicit fear/self-awareness, no clinical finding or completed reform. |
+| `KNOW-1232` | Makoto offers to go away if nuisance, takes up need-not-disappear reassurance and asks whether she can stay. | B:P4-5; conditional offer/mediated reassurance, no actual departure or blanket permission. |
+| `KNOW-1233` | Makoto calls him kind and returns to anything-for-him possibility. | B:P5; expansive relieved declaration, no unlimited agreed care/contact or self-harm act. |
+| `KNOW-1234` | Makoto says she made/left chocolate on his desk, asks if eaten and takes up favorable taste answer. | C:P1-2; reported preparation/uptake, no ingredients or independent sensory assay. |
+| `KNOW-1235` | Makoto reports Sumire asking recipe after praising deep flavor. | C:P2-3; mediated request, no Sumire-own turn or delivered recipe. |
+| `KNOW-1236` | Makoto says recipe knowledge would prevent staying, calls that joke, then labels family secret/sweet-deep taste. | C:P4-5; explicit retraction plus mysterious presentation, no literal expulsion, hidden harmful ingredient or certified safety. |
+| `KNOW-1237` | Makoto identifies handwritten big-brother diary and reports over100books. | D:P1-3; her object/scale account, no inspected count or full contents. |
+| `KNOW-1238` | Makoto says writing about him remains insufficient despite its accumulation. | D:P3; own incompleteness feeling, no measured compulsion/diagnosis or date span. |
+| `KNOW-1239` | Makoto makes reading imply responsibility and asks reciprocation if feelings become known. | D:P4-5; conditional demand, no actual reading/accepted obligation or reciprocal romance. |
+| `KNOW-1240` | Makoto retracts yesterday-dinner dyad/forgetting as lie and says she remembers Kyoko/Miu present. | E:P1-3; corrected retrospective account, no shown dinner or memory-loss diagnosis. |
+| `KNOW-1241` | Makoto calls Kyoko/Miu cute and reports fearing losing the manager to them. | E:P4; jealous appraisal, no peer-own attempt/romantic intention or property right. |
+| `KNOW-1242` | Makoto calls herself bad, offers punishment and interprets scolding as love. | E:P5; own proposal/interpretation, no actual punishment/injury or universal endorsement. |
+| `KNOW-1243` | Makoto claims prior no-entry promise and takes up manager's noise-based explanation of entry. | F:P1-2; mediated prior terms/response, no full negotiation or heard sound. |
+| `KNOW-1244` | Makoto explains sharpening as fish-cooking knife for Sawara/others at dorm and asks solitude for concentration. | F:P2-4; ordinary purpose/privacy account, no Sawara-own instruction or actual fish dish/knife close-up. |
+| `KNOW-1245` | Makoto allows there might be another loving use while telling him not to worry. | F:P5; ambiguous modal insinuation, no named target, concrete plan, attack or harm. |
+| `KNOW-1246` | Makoto seeks Murasaki to return borrowed makeup tools. | G:P1; obligation/reported borrowing, return not completed or Murasaki present. |
+| `KNOW-1247` | Makoto asks why he laughs and says she imitated Murasaki's adult look to attract his gaze. | G:P2-3; own uptake/motive, no independent makeup depiction, beauty rule or peer rivalry intent. |
+| `KNOW-1248` | Makoto reproaches him and vows greater skill to make him absorbed. | G:P4; hurt/ambition, no achieved skill or controlled recipient response. |
+| `KNOW-1249` | Makoto wonders whether clumsy makeup suffices if he smiles and calls that unlike herself. | G:P5; substantive qualified local alternative, no known kind motive/permanent cure or full renunciation. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1117` | `tamasaka-makoto -> player-protagonist` | A-G seeks exclusive/private recognition, reflects on poor expression/excess, offers conditional withdrawal and expansive care, protects secrecy, demands reciprocation, admits dinner lie, offers scolding and tests smile-valued imperfection. These acts retain distinct pressure/vulnerability, no blanket assent, actual kinship, mutual romance, clinical label or cured boundaries. |
+| `REL-1118` | `player-protagonist -> tamasaka-makoto` | Appears chiefly through her address/uptake: question about group, concern, need-not-disappear reassurance, taste reception, corrected dinner company, noise entry reason and perceived laughter. No full independent interior, unlimited permission, accepted diary debt, actual punishment or proven kind laughter. |
+| `REL-1119` | `tamasaka-makoto -> usuta-sumire` | C reports deep-flavor praise/recipe request while preserving family-secret presentation; no direct Sumire utterance or recipe delivery. B0141 sister/gift/corrective-care horizons remain, no new rivalry or blanket consent. |
+| `REL-1120` | `tamasaka-makoto -> uesugi-uebasu-kyoko` | E admits Kyoko's dinner presence and calls her cute within fear of losing manager. Retrospective jealous appraisal, no Kyoko-own romantic aim, theft act or objective rivalry. |
+| `REL-1121` | `tamasaka-makoto -> aihara-miu` | E admits Miu's dinner presence and treats cuteness as perceived threat to exclusive attention. Own fear, no Miu-own pursuit/intent or adjudicated affection transfer; existing Miu route unchanged. |
+| `REL-1122` | `tamasaka-makoto -> echizen-murasaki` | G reports borrowed makeup tools and adult-look imitation to attract manager, intends return. Practical/aspirational peer reference alongside B0179 instruction history, no actual return, present Murasaki speech or permanent beauty hierarchy. |
+
+Totals:1249 KNOW/1122 REL.102IDENTITY/84CHAR/29UNIT/29READY retain prior routes and full bodies; no new individual Makoto READY/R2. Named peers remain mediated within Makoto report, no newly invented peer-own turn or clinical/romantic/kinship certification.
+
+## B0202 Madoka's chosen bridges and unfinished invitations
+
+Owner [B0202](../02%20Readings/T7S_B0202_DEEP_READING.md), reading SHA256 `c8fb9ed20615fe68ddeb7d7fad13e01d669f0bc58db6a48a2ab6d019b4760724`; source-lock 12.108, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published3f07bca6/B0201/12.107 before primary; later successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1250` | Madoka reports father's tears after hearing about manager. | A:P1; her account, no independently supplied paternal motive/reaction diagnosis. |
+| `KNOW-1251` | Madoka says she called manager special and wonders whether she did wrong. | A:P2; own explanation/self-doubt, no settled romance or objective guilt. |
+| `KNOW-1252` | Madoka asks future home visit, permits refusal and requests consideration. | A:P3; actual conditional request, no accepted invitation/date/address or performed meeting. |
+| `KNOW-1253` | Madoka thanks manager for horn practice and reports pleasure in making much sound. | B:P1; shared-time/pleasure report, no analyst-heard music or technical assessment. |
+| `KNOW-1254` | Madoka likes city parks for music/painting/theatrical rehearsal. | B:P2; own affordance appraisal, no audited policy/allparks or depicted every activity. |
+| `KNOW-1255` | Madoka calls her playing clumsy and assumes listening was painful. | B:P3; negative self/other inference, not objective quality or listener's independent interior. |
+| `KNOW-1256` | Madoka takes up denial of painful reception and feels happy at manager praise. | B:P4; mediated reassurance/local joy, no permanent confidence or musical certification. |
+| `KNOW-1257` | Madoka reports a household dog and her daily morning-walk responsibility. | C:P1; own family/routine account, no named dog/newstable animal/current local residence proof. |
+| `KNOW-1258` | Madoka recalls dog protecting her from childhood bullies and calls it capable family. | C:P2-3; remembered action/appraisal, no witnessed complete history/breed or global incapacity. |
+| `KNOW-1259` | Madoka compares manager with dependable dog beside her. | C:P4; relational analogy/always-appraisal, no literal pet, ownership or physical omnipresence. |
+| `KNOW-1260` | Madoka's quoted practiced introduction says name, age thirteen and horn skill. | D:P1; local self-presentation, no timestamp for all independent cases/heard pronunciation/appearance-based age. |
+| `KNOW-1261` | Madoka asks whether speech practice improved and reports manager said dialect acceptable. | D:P2-3; uptake/prior assurance, no mastery or evidence of a demand to erase dialect. |
+| `KNOW-1262` | Madoka imagines joy at a Tokyo speaker trying home dialect and chooses reciprocal learning effort. | D:P4-5; counterfactual preference/own decision, no universal assimilation duty or completed language acquisition. |
+| `KNOW-1263` | Madoka remembers arrival anxiety, values kind older peers/younger capability and credits Nanasta with change. | E:P1-3; own institutional/growth appraisal and self-comparison, no measured all-context cure or competence ranking. |
+| `KNOW-1264` | Madoka calls meeting manager best part of coming. | E:P4; own relational valuation, no reciprocal romantic status or sole-cause measurement. |
+| `KNOW-1265` | Madoka hastily qualifies intended meaning as manager helping her change. | E:P5; affective qualification retained beside gratitude, no erasure of all attachment. |
+| `KNOW-1266` | Madoka reports obtaining desired sauce during accompanied shopping because local taste feels unfamiliar. | F:P1-2; reported completed purchase/preference, no brand/price/store receipt or inferred birthplace. |
+| `KNOW-1267` | Madoka praises okonomiyaki made with this sauce through deliciousness hyperbole. | F:P3; own culinary valuation, no served meal or independent taste assay. |
+| `KNOW-1268` | Madoka begins own-cooking/home invitation then says nothing/withdraws. | F:P4-5; unfinished/retracted offer, no accepted visit/delivered meal or link settling A. |
+| `KNOW-1269` | Madoka reports enjoyable late dorm chatter and Ei ghost-story excitement. | G:P1-2; recalled social frame, no supplied tale or analyst-viewed gathering/paranormal event. |
+| `KNOW-1270` | Madoka reads Yumeno/Sawara laughter as apparent fearlessness and asks if older age removes fear. | G:P3-4; own interpretation/question, no peer-own interior/newage assignment or universal law. |
+| `KNOW-1271` | Madoka says she cannot retell the story because she covered her ears. | G:P5; declared access limit/possible embarrassment, no invented exact cutoff, secret knowledge or clinical label. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1123` | `enami-madoka -> player-protagonist` | A-G asks consideration with refusal room, values practice/praise/reliability, chooses speech effort, expresses qualified gratitude and withdraws unfinished hospitality. Different acts preserve agency/hesitation; chosen anchan/special-person address not biological kinship, accepted visit, mutual romance or cured anxiety. |
+| `REL-1124` | `player-protagonist -> enami-madoka` | Mostly represented through her address/uptake: practice company, denied painful reception/praise, dialect acceptance and story-content question; no complete independent interior, musical/linguistic authority, visit assent, demand to assimilate or universal successful care. |
+| `REL-1125` | `enami-madoka -> yukuhashi-ei` | G remembers Ei as ghost storyteller/highlight but cannot give content because she covered ears. Reported social role, no Ei-own new statement, actual spirit event or invented tale; earlier identity/perception horizons unchanged. |
+| `REL-1126` | `enami-madoka -> sakaiya-yumeno` | G reports laughter/apparent lack of fear while comparing possible older age. No Yumeno-own interior/newage certification or repair of B0093pressure; one convivial report does not erase earlier boundary evidence. |
+| `REL-1127` | `enami-madoka -> harumi-sawara` | G reports Sawara laughing/apparently unafraid and wonders about maturity; elder-sister address stays relational. No biological kinship/newage/status, actual fear-free psyche or broad care certification. |
+
+Totals:1271 KNOW/1127 REL.102IDENTITY/84CHAR/29UNIT/29READY retained without new routes or individual Madoka READY/R2. Anonymous father/dog roles, reported peer interiors, quoted-introduction age and qualified future horizons stay bounded; all prior bodies/IDs preserved.
 <!-- T7S ENTITY STATE PAYLOAD END -->
