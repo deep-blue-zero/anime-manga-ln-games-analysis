@@ -4,16 +4,16 @@ artifact_id: T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL
 artifact_type: evidence_locator_protocol
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.92"
+version: "1.95"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0188; complete source-lock JSON and two logical coverage roles maintained through checked manifest-bound physical components"
+source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0191; complete source-lock JSON and two logical coverage roles maintained through checked manifest-bound physical components"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-14
+last_updated: 2026-10-28
 ---
 
 # Tokyo 7th Sisters evidence substrate and locator protocol
@@ -140,7 +140,9 @@ Packets record lock digest, exact membership and ranges, query/parameters, adapt
 
 ### Exact membership and initial coverage
 
-The canonical coverage ledger is one authored logical consumption/routing ledger represented by the [manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), the [current-or-consumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl), and the [routed-or-unconsumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl). Across the disjoint union it has one record per exact script and catalog episode membership plus twelve supplemental tranche records (ten active leaves and two inactive split parents): 661 current-or-consumed records and 929 routed-or-unconsumed records after B0188, 1,590 data records total. It contains IDs and decisions; no copied source text or bulk metadata.
+The canonical coverage ledger is one authored logical consumption/routing ledger represented by the [manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), the [current-or-consumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl), and the [routed-or-unconsumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl). Across the disjoint union it has one record per exact script and catalog episode membership plus twelve supplemental tranche records (ten active leaves and two inactive split parents): 685 current-or-consumed records and 905 routed-or-unconsumed records after B0191, 1,590 data records total. It contains IDs and decisions; no copied source text or bulk metadata.
+
+At B0191 the current-or-consumed role has four physical components: its original address, CURRENT_002, CURRENT_003 and [CURRENT_004](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_CURRENT_004.jsonl). The routed role retains two components. Read all six ordered components through the current manifest; the original role address alone is incomplete. This bounded physical growth preserves the complete 1,590-record logical union, role defaults and decision history; frozen transition receipts retain their historical five-component boundary.
 
 Each shard's META record declares its own field defaults. Expand every record with only its shard-local explicit defaults before interpretation; unknown record types or fields are validation failures. Record identity is `(record_type, script_id)` for `SCENARIO` and `(record_type, tranche_id)` for `SUPPLEMENTAL_TRANCHE`. When a routed record is consumed, move it atomically to the current-or-consumed shard while preserving its complete effective state, `decision_history`, and current decision fields. The manifest binds shard bytes, file hashes, membership hashes, record counts, partition rule, and the pre/post effective-state hash proving the split was lossless. A set of IDs alone is not evidence of reading.
 
@@ -356,3 +358,9 @@ Missing/indirect/foreign parts, stale hashes, unknown schemas, owner/version/hor
 - 2026-10-14: move exactly9 fullT7S_B0187records with explicit defaults/history; all1581other effective records retain bytes/values.
 
 - 2026-10-14: move exactly9 fullT7S_B0188records with explicit defaults/history; all1581other effective records retain bytes/values.
+
+- 2026-10-28: move exactly7 fullT7S_B0189records with explicit defaults/history; all1583other effective records retain bytes/values.
+
+- 2026-10-28: move exactly8 fullT7S_B0190records with explicit defaults/history; all1582other effective records retain bytes/values.
+
+- 2026-10-28: move exactly9 fullT7S_B0191records with explicit defaults/history; all1581other effective records retain bytes/values.
