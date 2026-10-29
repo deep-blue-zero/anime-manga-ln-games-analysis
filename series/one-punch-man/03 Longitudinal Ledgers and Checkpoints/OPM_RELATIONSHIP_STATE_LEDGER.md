@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Directional relationship state through V37
+scope: Directional relationship state through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Relationship State Ledger
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 
 ## Saitama -> Genos
@@ -880,3 +884,25 @@ Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_
 | Hero Association ↔ talent | Axel refuses, Raiden is already committed elsewhere and Genos treats membership as negotiable | affiliation becomes conditional; V37 proves recruitment pressure, not the rival's moral or operational superiority | `189,191 / 0015–0034,0085–0097` |
 
 Forte's neighbor claim is displaced by Genos's same-day move demand; this is comic proof of proximity seeking, not evidence of equal negotiation or Saitama's express endorsement (`193 / 0161–0165`).
+
+## Current-release overlay through web 287
+
+All rows are `web_active_provisional` / PR. They are current directional states, not revisions to the earlier tankobon participants' knowledge. [Release lock](../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md); [new evidence atoms](../07%20Current%20Release/OPM_WEB_285-287_DEEP_READING.md).
+
+| Direction / relation | Current change | Asymmetry and limit | Evidence / available from |
+|---|---|---|---|
+| Saitama → Amai / Amai → Saitama | particular heroic conduct is recognized after exposure / recognition offers a possible future outside the public ideal | no blanket acquittal, guaranteed rehabilitation or institutional remedy | PR-CR-008; web262/pages 8-21; web263/pages 2-15; web263 |
+| Flash ↔ Sonic | shared formation enables cooperation within rivalry | coordination does not erase antagonism, trauma or status competition | PR-CR-003; web239,241-245; web245 |
+| Blast → Empty Void | defeat remains subordinate to attempted recovery | Void's reciprocal position and final condition stay unsettled | PR-CR-004; web240-248; web248 |
+| King → prospective teachers / teachers → King | states weakness and seeks training / reputation blocks accurate instruction | sincerity does not yield a corrected social relationship or newly acquired technique | PR-CR-002; web237/pages 2-35; web237 |
+| Genos ↔ Blue | assess each other across master/lineage and rival institutional frames | neither man's explanatory frame verifies Blue's parentage or exhausts the other's purpose | PR-CR-009; web265/pages 2-20; web265 |
+| Garou ↔ Suiryu / Bang → pair | testing becomes reciprocal learning while Bang observes | no settled recruitment, equal knowledge or completed moral repair | PR-CR-013; web280-283; web283 |
+| Neo → Webigaza / Webigaza → Neo | supplies enhancement and life-dependent maintenance / she owns her choice while saying she cannot leave | self-authorship does not remove the exit barrier or certify consent to later control | PR-CR-021,022; web286/pages 9-11; web286 |
+| Webigaza → Child Emperor / reverse | offers ambition, distrust and resentment toward Amai / he listens, questions and reassures without disclosing his investigation | her friendly senior address and his politeness do not establish mutual trust, full candor or a clinical guarantee | PR-CR-021,023,026; web286/pages 2-12; web287/page 7; web287 |
+| Webigaza → Amai | admiration becomes disgust and desire to defeat him publicly | no present Amai reply; Child Emperor's hoped-for repair is not reciprocal reconciliation | PR-CR-021,024,026; web286/pages 5-8; web287/pages 2-7; web287 |
+| Child Emperor ↔ Sekingar ↔ Metal Bat | private communication joins investigation, information exchange and intended protection of Amai | three distinct judgments, not omniscience: core access lacking, surgical manipulation suspected, interference uncompleted | PR-CR-018,025; web285/page 10; web287/pages 5-7; web287 |
+| Metal Bat → Zenko and civilians | refuses strategy that exposes either group to danger for data | family attachment is an action threshold, not evidence he ignores unrelated people | PR-CR-017; web285/pages 8-9; web285 |
+| Darkshine → trainee / suit → wearer | encouraging spar becomes catching and checking / the wearer reports an involuntary lunge | care contrasts with uncertain action ownership; no psychological cure or identified remote operator | PR-CR-015; web285/pages 3-5; web285 |
+| A → returned leaders / A ↔ Sonic | values economic/supporter continuity after surgery / asserts Neo authority, boasts and orders attack while Sonic rejects the moral label | identity is A, not Erimin or Destro; past reputation is attributed to Sonic and the final blast settles no result | PR-CR-020,027,028; web285/pages 14-15; web287/pages 8-12; web287 |
+
+Use Webigaza's dependency and ambition together when reconstructing her response. Do not give her Child Emperor's covert communications, give Amai knowledge of this conversation, or turn Metal Bat's plan into an already completed rescue.

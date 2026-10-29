@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Technology, organization, and hidden actors through V37
+scope: Technology, organization, and hidden actors through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Technology, Organization, and Hidden Actors Ledger
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 
 ## V01 baseline
@@ -597,3 +601,24 @@ Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_
 **ADD upgrade without evaluative infrastructure:** Genos's `雷光核` and visible hardware change are technically real, but neither Saitama nor institutional promises supply a trustworthy comparative metric (`190–191 / 0060–0098`).
 
 Forte's doghouse and Genos's room demand turn headquarters infrastructure into a domestic proximity system for concealed survivors and disciples; comic use does not settle security or authorization (`193 / 0161–0170`).
+
+## Current-release overlay through web 287
+
+Authority: `web_active_provisional` / PR. [Source lock](../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md); [new evidence and uncertainties](../07%20Current%20Release/OPM_WEB_285-287_DEEP_READING.md).
+
+**Current causal model:** data can coordinate rescue, copy technique, move bodies, condition medical survival and support pursuit. These are related capabilities, not proof of a single established controller.
+
+| Mechanism / institution | Evidence and transition | Remains open | Route |
+|---|---|---|---|
+| Neo field infrastructure | PRESERVE real coordinated response and telemetry/publicity | legitimate output does not certify every hidden operation | PR-CR-010,011; web268-273 |
+| Machine God Mirror | STRENGTHEN combat as extraction/copying of information | builder, transmitted data and relation to Neo/other machine actors | PR-CR-012; web274-278 |
+| Suit software | ADD involuntary action after an update | intent and command source, scope across suits, safety controls | PR-CR-015; web285/pages 3-5 |
+| Neo superior / McCoy | ADD explicit strategy of gaining time/data while heroes struggle and public confidence erodes | complete principal-agent hierarchy and responsibility for each attack | PR-CR-016; web285/pages 2,6-8 |
+| Sekingar investigation | ADD lack of data-core access alongside financial and residual-executive leads | guilt beyond the leads, funds' ultimate origin, actual core access | PR-CR-018; web285/page 10 |
+| Monster chip | ADD visible electronic component in Child Emperor's examination | controller, function, maker and cross-city coordination | PR-CR-019; web285/pages 10-13 |
+| Surgical intervention | ADD A's successful-surgery account and instrumental economic valuation of returned leaders | exact changes, informed consent and capacity for refusal | PR-CR-020; web285/pages 14-15 |
+| Neo-linked research / Webigaza | REVISE speculative dependency to explicit self-reported life-dependent maintenance and inability to leave | alternatives, maintenance interval, specific threats or enforcement | PR-CR-022; web286/pages 9-11 |
+| Amai pursuit | ADD Webigaza's report of satellite heat/facial searches, with tracking difficulty | current location, search accuracy and actual target acquisition | PR-CR-024; web287/pages 2-4 |
+| Counter-surveillance | ADD coordinated intention to contact Amai, obstruct pursuit and access its satellite | successful rescue, system penetration or completed sabotage | PR-CR-025; web287/pages 5-7 |
+
+The Organization, Metal Knight, Drive Knight, Neo leadership, Erimin, Destro and A are not collapsed into one agent. A is named by Sonic in web287/page 10. A's claims and actions establish a bounded Neo-affiliated role, not a complete technological lineage.

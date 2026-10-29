@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Satire, genre, and public narrative through V37
+scope: Satire, genre, and public narrative through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Satire, Genre, and Public Narrative Ledger
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 
 ## Governing rule
@@ -596,3 +600,17 @@ Mumen's arrival restores genre seriousness inside the same chapter. He recognize
 Reduced monsters, tiny rooms, a doghouse and a neighboring-room eviction compress postwar survival and attachment into household scale (`191,193 / 0065–0067,0161–0170`).
 
 King's apple test makes expertise unfalsifiable: fear, delay, inability and departure are each rewritten as deeper mastery. The false belief still produces Atomic's real humility, separating useful consequence from truthful premise (`194 / 0172–0200`).
+
+## Current-release overlay through web 287
+
+Authority: `web_active_provisional` / PR. [Source lock](../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md).
+
+The web sequence extends V37's satire of appraisal into satire of managed improvement. King cannot obtain accurate instruction because reputation overrides confession; Flash supplies a prestigious role Saitama does not want; Amai's perfected public image cannot contain his body; Mirror converts spectacle into reusable data (PR-CR-002,003,008,012; web237-248,254-263,274-278).
+
+Web285 makes the progress story materially unstable. The notification promises an improved system while the trainee loses authorship of his own lunge. Executive certainty about inexhaustible improvement follows Darkshine's frightened care for the person in front of him. The joke is not that strength or training is useless, but that a performance account can conceal who is controlling performance (PR-CR-015,016; web285/pages 3-8).
+
+Webigaza treats strength as the highest-impact entertainment and owns the choice that delivered her role. Her medical dependence and declared inability to leave complicate any simple empowerment advertisement. Child Emperor's reassurance is sincere-seeming interpersonal support, not a narrator's guarantee that the title's promised good outcome will occur (PR-CR-021-023; web286/pages 4-12).
+
+The religious and corporate welcomes for the returned leaders coexist with A's calculation of money and supporters. Webigaza then wants an Amai takedown as promotion while a commercial shoot takes precedence. These scenes connect heroic publicity to other industries without claiming every follower or civilian shares one view (PR-CR-020,024; web285/pages 14-15; web287/pages 2-4).
+
+A denies a sensational killer label by explaining murder as a game; Sonic replies in the same vocabulary while refusing Neo's hero branding. The institutional name changes, but speech exposes the action policy. The last-page explosion withholds a heroic-result caption (PR-CR-027,028; web287/pages 9-12).

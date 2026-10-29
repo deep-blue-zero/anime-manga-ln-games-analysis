@@ -1,20 +1,24 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Independent / civilian character state through V37
+scope: Independent / civilian character state through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 # One Punch Man — Independent / Civilian Character State Ledger
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 ## Responsibility
 
@@ -343,3 +347,18 @@ Propagated after the frozen [V37 reading](../../02%20Sequential%20Readings/OPM_V
 | Sponsors and prospective recruits | receive commercial hero images, private access, offers and competing institutional promises | demonstrates a market for safety and hero labor, not a uniform public judgment or proven Neo Heroes superiority | `189,192 / 0010–0034,0099–0132` |
 
 The civilian who offers part of a recovered bag supplies ordinary gratitude rather than an institutional payment; Saitama's return of it marks his motive check, not contempt for the civilian (`192 / 0139`).
+
+## Current-release overlay through web 287
+
+Authority: `web_active_provisional` / PR. [Source lock](../../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md); [new reading](../../07%20Current%20Release/OPM_WEB_285-287_DEEP_READING.md). Institutional actors belong here when their evidence concerns administration, labor, finance or public interpretation; placement does not absolve harmful conduct.
+
+| Subject / setting | Current observed or reported behavior | Conditional model / limit | Source / available from |
+|---|---|---|---|
+| Suiryu / Neo and later Garou encounter | uses publicity and membership opportunity, then engages exceptional technique through reciprocal adjustment | real capability, competitive curiosity and social openness coexist; mature institutional commitment and completed rivalry remain unproved | PR-CR-005,013; web249-250; web280-283; available from web283 |
+| McCoy / Neo reporting | supplies S-Class reports, assents to the superior's strategy and privately approves his choice | status and strategic alignment are explicit; not the only possible organizational principal or a complete account of every executive | PR-CR-016; web285/pages 2,6-8; available from web285 |
+| Shadowed Neo superior / McCoy meeting | describes data accumulation and the advantage of conventional heroes' exhaustion and public anxiety | declared strategy, not neutral narration or proof that every Neo member knows it. The scene's concealment is preserved rather than assigning an unverified personal identity | PR-CR-016; web285/pages 2,6-8; available from web285 |
+| インフェルネイシヴ and Zaedats / returned leadership | appear publicly after intervention and receive religious or corporate affirmations | surgery and useful financial/supporter value are discussed by A; miraculous rebirth is followers' interpretation. Personal consent and the degree of alteration remain open | PR-CR-020; web285/pages 14-15; available from web285 |
+| Training participant / suit update | receives update notification, lunges, then says his body acted without his choice | an observed action-ownership conflict, not a new durable personality or universal suit-control specification | PR-CR-015; web285/pages 3-5; available from web285 |
+| Public / rescues and hero images | receives real Neo rescue work alongside managed publicity; Webigaza reports the audience value of defeating Amai | no homogeneous public mind and no proof that all beneficial outcomes are fabricated | PR-CR-010,011,024; web268-273; web287/pages 2-4; available from web287 |
+
+Sekingar's professional and relational development belongs in the hero ledger's current-release section, rather than a second competing profile. Economic dependence, administrative access and follower testimony are kept attributable to the people who actually state them.

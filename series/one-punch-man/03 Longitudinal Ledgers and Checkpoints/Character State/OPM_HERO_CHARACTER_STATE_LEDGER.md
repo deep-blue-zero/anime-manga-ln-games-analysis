@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Hero character state through V37
+scope: Hero character state through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Hero Character State Ledger
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 
 ## Genos — V01 baseline
@@ -1252,3 +1256,36 @@ Propagated after the frozen [V37 reading](../../02%20Sequential%20Readings/OPM_V
 | King | cannot draw the sword and leaves, while observers convert every failure signal into proof of impossible mastery | moderate retained. Social influence grows without demonstrated combat capacity or intentional pedagogy. `194 / 0172–0200` |
 
 Yuta and Shidou inherit grief and vengeance claims from Amahare and Zanbai, but receive no standalone readiness profiles (`193 / 0148–0150`). Axel, Raiden and the Hunters establish a competitive hero-labor field without proving Neo Heroes operations (`189 / 0015–0034`).
+
+## Current-release overlay through web 287
+
+Authority: `web_active_provisional` / PR. These are current usable profiles, layered onto the dated collected histories above. The September web findings are propagated here for the first time; only web 285-287 was newly read in this operation. [Source lock](../../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md); [new reading and atoms](../../07%20Current%20Release/OPM_WEB_285-287_DEEP_READING.md).
+
+| Profile | Current state / conditional behavior | Knowledge, contradiction and limit | Source / available from |
+|---|---|---|---|
+| Genos | upgraded fighter remains capable of technical resistance and peer assessment while combat also exposes readable data | hardware growth is real; damage, external help and copied signatures prevent a solved ceiling or lone-victory inference | PR-CR-012; web265/pages 2-20; web274/pages 12-16; web275-277; available from web278 |
+| King | seeks training and reports weakness while teachers continue interpreting his legend | unusually direct private self-knowledge does not produce a combat skill or public correction | PR-CR-002; web237/pages 2-35; available from web237 |
+| Flashy Flash | tries to assign Saitama a place in his hierarchy; ninja history and cooperation with Sonic broaden the relationship model | learning and coordination coexist with pride; no parity or permanent reconciliation | PR-CR-003; web238-245; available from web245 |
+| Blast | treats Empty Void as a person to recover as well as a threat to stop | recovery aim is attributed and enacted locally; full cosmic history, influence and post-conflict condition remain open | PR-CR-004; web240-248; available from web248 |
+| Amai Mask | monster body is publicly exposed after a struggle that preserves aspiration and severe prior violence; Saitama supplies particular recognition | REVISE the V37 open body hypothesis within PR only. Webigaza reports Neo's pursuit and tracking difficulty; current location, legal outcome and durable repair remain unknown | PR-CR-008,024; web254-264; web286/pages 5-8; web287/pages 2-4; available from web287 |
+| Darkshine | useful trainer with unresolved fear; invites full-effort sparring, then catches and checks a distressed trainee after the suit-driven lunge | care and bodily resilience are observable; no cure, full fight readiness or proof of an ordinary trainee matching his power | PR-CR-006,015; web250/pages 7-17; web251/pages 2-12; web285/pages 3-5; available from web285 |
+| Webigaza | aims to become a compelling idol through strength; distrusts professional relationships, chooses enhancement and claims responsibility for its consequences | states Neo maintenance is necessary to stay alive and she cannot leave. Agency and an exit barrier coexist; refusal to blame others is not proof of fair consent or safe treatment | PR-CR-007,021-024; web251,253,267; web286/pages 4-11; web287/pages 2-5; available from web287 |
+| Child Emperor / 非童帝 | investigates an electronic component, listens to Webigaza without endorsing her accusations, coordinates with Sekingar and Metal Bat, and proposes satellite interference | polite reassurance and covert investigation coexist. His thought about resentment as self-support is tentative; proposed system interference is not shown successful | PR-CR-019,023,025,026; web285/pages 10-13; web286/pages 7-12; web287/pages 5-7; available from web287 |
+| Metal Bat | rejects collecting useful data at the expense of civilians or Zenko; notices the returning leaders' altered presentation and agrees to counter the Amai pursuit | immediate protection constrains institutional strategy; he does not know the entire controller network or the full surgical mechanism | PR-CR-017,020,025; web285/pages 8-9,14-15; web287/pages 5-7; available from web287 |
+| Sekingar | works inside Neo's restricted information structure, develops financial/executive leads and coordinates investigation with the two heroes | no core access yet; leads are not proven guilt. His judgment about adults exploiting Webigaza's uncertainty is an interpretation | PR-CR-018,025; web285/page 10; web287/pages 5-7; available from web287 |
+| Blue | effective Neo leader with a publicly useful claim to Blast's lineage | biological claim and Blast's acknowledged relationship remain unverified; useful results do not settle Neo governance | PR-CR-009-011; web253/pages 11-17; web265/pages 2-20; web269-273; available from web273 |
+| Tatsumaki | overwhelming local intervention remains outside Neo's command structure | capacity does not supply complete knowledge, coordination or public credit | PR-CR-011; web271-273; available from web273 |
+| Bang | observes the Garou-Suiryu exchange from a teacher's position while Garou's ordinary reinsertion remains incomplete | no completed recruitment, universal absolution or resolved restitution | PR-CR-013; web283/pages 9-17; available from web283 |
+
+### New behavioral atoms
+
+| Context | Trigger / partner | Observed behavior | Interpretation and type | Locator | Warrant / authority | Confidence |
+|---|---|---|---|---|---|---|
+| Training | trainee's unexpectedly powerful lunge / Darkshine | catches him and asks what happened | care survives confusion; role-specific behavior, not trauma resolution | web285/pages 3-5 | TF/VF; PR-CR-015; PR | high observation |
+| Strategy | delayed monster removal / Metal Bat | objects to exposing his sister and civilians while collecting data | immediate duty limits tactical patience; repeated value under a new role | web285/pages 8-9 | TF/IR; PR-CR-017; PR | high |
+| Private talk | distrust and modification / Webigaza to Child Emperor | describes self-chosen goal and life-dependent maintenance, denies regret | developmental self-conception under structural constraint | web286/pages 4-11 | TF/IR; PR-CR-021,022; PR | high self-report, mechanism bounded |
+| Private talk | Amai accusation / Child Emperor to Webigaza | questions the disguise premise, asks about fulfillment, reassures | epistemic caution with partner-sensitive courtesy | web286/pages 7-12 | TF/IR; PR-CR-023; PR | high observation |
+| Covert communication | Amai pursuit / Child Emperor, Sekingar, Metal Bat | exchange information and plans to interfere | coordinated protection and investigation; outcome not yet observed | web287/pages 5-7 | TF; PR-CR-025; PR | high |
+| Reflection | Webigaza's resentment / Child Emperor | considers whether it sustains her and hopes misunderstanding can clear | empathetic hypothesis, not a diagnosis or mind-reading | web287/page 7 | TF/IR; PR-CR-026; PR | medium interpretation |
+
+Japanese voice is conditioned by audience: Webigaza's friendly professional address and Child Emperor's polite replies permit conversation without proving trust. Metal Bat's blunt challenge gives priority to concrete people. No present speech is assigned to Amai from Webigaza's report or flashbacks.

@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Monster and antagonist character state through V37
+scope: Monster and antagonist character state through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Monster / Antagonist Character State Ledger
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 
 ## V01 cohort
@@ -801,3 +805,21 @@ Propagated after the frozen [V37 reading](../../02%20Sequential%20Readings/OPM_V
 | Amai Mask hypothesis | changing face, absent records and troubling conduct support investigation of special ability or monsterization | unresolved personhood question, not canonical monster classification | `193 / 0141–0147` |
 
 The Association's gambling apparatus converts a genuine monster into a controlled prop and mistakes lethal divergence for successful theater. Institutional authorship does not make the creature imaginary (`192 / 0099–0132`).
+
+## Current-release overlay through web 287
+
+Authority: `web_active_provisional` / PR, with [exact source identities](../../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md). This cohort is an analytical home, not a judgment that every person recorded here is morally or biologically a monster. Amai's primary current profile remains in the hero ledger.
+
+| Subject | Current observation / state | Interpretation and unresolved limit | Source / available from |
+|---|---|---|---|
+| Speed-o'-Sound Sonic | shared ninja history permits cooperation with Flash while rivalry persists; now recognizes A, rejects Neo affiliation as proof of heroism and answers the killer's game metaphor | relationship breadth grows beyond Saitama. Sonic's criticism does not certify his own innocence; the final explosion leaves both fighters' outcomes unknown | PR-CR-003,027,028; web239,241-245; web287/pages 8-12; available from web287 |
+| Empty Void | Blast's recovery-oriented intervention competes with dangerous capability and the God-related account | retain personal history, influence, mechanism and final condition as distinct open questions | PR-CR-004; web240-248; available from web248 |
+| Pesky Clown | spectator attention and escalating spectacle reshape the threat confronting Amai | public attention has causal force in the event; do not turn this case into a universal monster law | PR-CR-008; web257-263; available from web263 |
+| Machine God Mirror | combat data supports copied and combined signatures before Saitama's intervention defeats the local machine | origin, controller, transmitted information and any link to Neo remain open | PR-CR-012; web274/pages 12-16; web275-278; available from web278 |
+| Garou | ordinary work and controlled training permit a Suiryu encounter based on adaptation and restraint | social reinsertion strengthens; completed restitution, a settled heroic identity and full legal resolution do not follow | PR-CR-013; web279-283; available from web283 |
+| A (エー), Neo-affiliated operative | is identified by Sonic in web287/page 10; discusses the returned leaders' economic value after surgery, describes killing as a game, and commands suited attackers | ADD bounded adversarial model: formal courtesy coexists with explicit instrumental valuation of lives. Past over-killing is Sonic's attribution; full organizational rank, bodily composition and post-explosion state are unverified | PR-CR-020,027,028; web285/pages 14-15; web287/pages 9-12; available from web287 |
+| Chip-bearing fallen monster | an electronic component is examined at its body by Child Emperor | technological involvement is supported; controller, manufacture and relation to the other city attacks remain hypotheses | PR-CR-019; web285/pages 10-13; available from web285 |
+
+A's alias, appearance and dialogue do not identify A with Erimin or Destro. The latter's earlier modification and enforcement evidence remains its own record (web253/pages 3-10). No webcomic identity or future outcome is imported.
+
+Sonic's hostile boundary is local and conditional: an adversary's hero label does not replace evidence about conduct. His game-over reply belongs to this encounter and is not evidence that every killing is now ethically motivated.
