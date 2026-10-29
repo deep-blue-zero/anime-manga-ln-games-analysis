@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.16"
+version: "1.21"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,9 +12,9 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0191; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0196; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
-last_updated: 2026-10-28
+last_updated: 2026-10-29
 ---
 
 <!-- T7S ENTITY STATE PAYLOAD BEGIN -->
@@ -1356,4 +1356,192 @@ Owner [B0191](../02%20Readings/T7S_B0191_DEEP_READING.md), source-lock 12.97, wi
 | `REL-1074` | `serizawa-momoka → Nanasta` | Proposes reform, hyperbolically declares no need for the place and states manager presence there as a continuing-idol reason in separate occurrences. B/F/H. No resignation, membership change or institutional rule. |
 
 Totals: 1047 KNOW and 1074 REL. The 102 IDENTITY, 84 CHAR, 29 UNIT and 29 readiness decisions remain. READY0005 retains complete B0006/R2_STATE_BOUNDED/MONOGRAPH_NOT_READY and its full missing multimodal/longitudinal obligations. Later Main evidence is retained at its own horizon, with no backdated explanation or 2053 admission.
+
+## B0192 Nicole's audience-facing states and existing Coney route
+
+Owner [B0192](../02%20Readings/T7S_B0192_DEEP_READING.md), source-lock 12.98, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; the reading's A-E source key binds full primary ranges. Established `IDENTITY-0003/CHAR-0003/rokusaki-connie-presented` is presented here as 七咲ニコル/Nicole, with `UNIT-0001` Seven Sisters. Later Coney and Player disclosure retain their admitted Main horizons; resource001 creates no new machine/master identity or Player knowledge. Fans and cover-video girls remain intentionally unnamed.
+
+| Existing subject | Qualified addition | Resistant state and missing access retained |
+| --- | --- | --- |
+| `CHAR-0003` / Nicole-Coney literary route | Nicole formulates a selected public audience, attributes courage/support to fans, welcomes possible future idols, plays with protective grandeur and tentatively acknowledges passing idol presence. | Earlier Nicole's catalytic/control costs, Mito's autonomy, later Coney's practical care/covert pressure/boundary failures, Ume's grievance/non-forgiveness and Rona's imitation-versus-relational-courage distinction remain. No complete private motive, moral cure, permanent Nanasta command restoration or maturity promotion. |
+| `UNIT-0001` / Seven Sisters | Nicole speaks of the group's support/dependence, invites love for it and imagines its pilots and possible successors beyond it. | Other members contribute no new own turn; no new member, collective doctrine, actual robot, revised dissolution date or institutional rule. |
+| Addressed unnamed fans | Are thanked, singled out, asked for support, credited with encouragement and assigned apparent disbelief by Nicole's speech. | Their own reply, actual reception, belief, emotional state and reciprocal exclusive bond remain unavailable. Player is not silently substituted for this audience. |
+| Unnamed girls in Nicole's cover-video account | Are praised by Nicole and presented as possible future idols deserving audience support. | No independently played video, name resolution, completed debut or own girl/fan reply. |
+
+| ID | Holder and qualified state | Range and missing access |
+| --- | --- | --- |
+| `KNOW-1048` | Nicole selects a limited fan audience and reports happiness at warm fans whose love supports idols. | A:P1-2; own gratitude/dependence formulation, no measured universality or verified meeting/reception. |
+| `KNOW-1049` | Requests continued support and declares the idols also think of fans. | A:P3; speaker's plural assurance, no own turn from every Sister or audience. |
+| `KNOW-1050` | Calls for song checking/downloads and reports seeing high-quality girls' cover videos. | B:P1-2; own report/appraisal, no actual media play or analyst technical verdict. |
+| `KNOW-1051` | Imagines possible future idols among those girls and asks listeners to support them too. | B:P3-5; prospective invitation, no named debut or adopted market policy. |
+| `KNOW-1052` | Asserts selected-secret HoloCom transformation/combination into GodSevenZetaWing with the Sisters as pilots. | C:P1-4; fantastic speaker claim, no independently demonstrated device, pilot organization or machine identity. |
+| `KNOW-1053` | Attributes disbelief, threatens withheld beam protection and demands faith in town-protecting idols. | C:P5; attributed uptake and fantastic threat, no listener-own reply or actual rescue refusal. |
+| `KNOW-1054` | Self-dramatizes as idol terrorist and reports startled cry at hologram advertising after Akiba Seven passage. | D:P1-3; metaphor/report, no violent act, played advertisement or audible cry. |
+| `KNOW-1055` | Reflects that entertainment/advertising evolve and idle idols risk being left behind. | D:P4; own generalization/conditional risk, no independently measured technological law. |
+| `KNOW-1056` | Sometimes thinks such change may be good, tentatively calls idols a moment and associates it with aching chest. | D:P5; qualified reflection, no clinical diagnosis, settled theory or foreknown dissolution. |
+| `KNOW-1057` | Hopes for proper message receipt, reports national tour/Osaka3rd food-town appraisal and difficult idol work. | E:P1-3; uncertain delivery and speaker itinerary/appraisal, no independently verified journey or meal. |
+| `KNOW-1058` | Credits Japanese/overseas fans with courage, rhetorically praises the addressed audience and asks love across distance while promising continued thought. | E:P3-5; own comparison/promise, no world census, own fan declaration, exclusive romance or permanent stamina. |
+
+| ID | Direction | Qualified state and limit |
+| --- | --- | --- |
+| `REL-1075` | `rokusaki-connie-presented as Nicole -> addressed unnamed fans` | A/C/E select, thank and solicit the audience, attribute support/courage and apparent disbelief, promise thought and play at protection. This is Nicole's speech toward fans; no newly authored Player exchange, verified delivery, fan-own belief or reciprocal romantic agreement. |
+| `REL-1076` | `rokusaki-connie-presented as Nicole -> unnamed cover-video girls` | B reports watching/praising their singing and invites support for possible future talent beyond the Sisters. No named girl, completed debut, actual technical review or own girl's response. |
+| `REL-1077` | `rokusaki-connie-presented as Nicole -> Seven Sisters` | A/C/D/E use plural idol/group language to formulate dependence, fantastic protection, possible brevity and continuing audience ties; B permits support beyond the group. No separate member ratification, new group policy, robot capability, revised chronology or permanent Nanasta role. |
+
+Totals:1058 KNOW and1077 REL. The102 IDENTITY,84 CHAR,29 UNIT and29 readiness decisions remain. READY0018 retains its full Main-through-retrospective-EP0.7/B0063, R2_STATE_BOUNDED/MONOGRAPH_NOT_READY decision and missing performed/longitudinal/biographical/accountability evidence. No R3 or2053 admission.
+
+## B0193 Mito's artistic attention, local choices and peer boundary
+
+Owner [B0193](../02%20Readings/T7S_B0193_DEEP_READING.md), source-lock 12.99, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; exact A-E scripts/full primary locators in the reading. Mito remains `IDENTITY-0060/CHAR-0047/hanyuda-mito`, ニコ the earlier Nicole persona of `IDENTITY-0003/CHAR-0003/rokusaki-connie-presented`, Seven Sisters `UNIT-0001`. Unspecified viewers/requesters/crowd remain unnamed; sprite015 is presentation, not a new machine identity. Player is not supplied as an interlocutor.
+
+| Existing subject | Qualified addition | Resistant state and missing access retained |
+| --- | --- | --- |
+| `CHAR-0047` / Mito | Chooses tofu over a prescribed message, represents composing as provisional work, objects yet locally accepts backstage-camera access, seeks recording that foregrounds singing, and demands explanation of an outing before interruption. | Artistic exactness/domestic care, Ito's terminal crisis, concealed knowledge, constrained resignation, chosen performance/dissolution/journey and approximate knowledge of love retain their horizons. No pure resistance/compliance model, complete private biography, fixed event chronology or maturity promotion. |
+| `CHAR-0003` / earlier Nicole | Is addressed in Mito's uptake of a theatrical composing proposal, reported winning enthusiasm and account of being drawn into an unfamiliar outing. | No own new turn or interior motive. Existing generativity, permission, imposed interpretation and boundary costs remain; later Coney's current situation/Player disclosure is not backdated. |
+| `UNIT-0001` / Seven Sisters | Mito describes a collective practice of concentration/repeated rehearsal and giving all to audiences. | Her own plural formulation, not every member's new assent, named rehearsal/performance event, institutional camera policy or changed dissolution date. |
+| Addressed viewers and unspecified requesters | Are selected in A, credited with desired backstage/private access through reports, and asked to prefer the bonus feature in D. | No independent viewer survey, manager identity, own reply, actual reception or adopted production rule. |
+
+| ID | Holder and qualified state | Range and missing access |
+| --- | --- | --- |
+| `KNOW-1059` | Mito refers to a planned special selected-listener message, declines it and treats further song talk as redundant. | A:P1-2; own refusal/topic assessment, no identified commissioner or viewer reply. |
+| `KNOW-1060` | Chooses tofu as an exception and values it beyond health through unfinished cosmos language. | A:P2-3; specific enthusiasm/figure, no literal world event, nutritional proof or meal. |
+| `KNOW-1061` | Tries written musical syllables, rejects one and provisionally favors another between ellipsis records. | B:P1-3; textual trial/selection, no heard melody, measured silence or completed composition. |
+| `KNOW-1062` | Takes up Nicole's plainness objection and repeats/challenges a proposed incense/closed-room/sword spectacle. | B:P4-5; Mito's uptake/quotation, no own Nicole turn, motive or executed ritual. |
+| `KNOW-1063` | Reports a pre-live camera request on an attributed fan-interest premise. | C:P1; unidentified requester and reported desire, no actual fan survey or continuous camera record. |
+| `KNOW-1064` | Objects to backstage noise harming the song's world, accepts the already-made decision and describes usual group preparation. | C:P2-4; own aesthetic judgment/local constrained acceptance/generalized practice, no enthusiastic blanket consent or independently completed rehearsal loop. |
+| `KNOW-1065` | Names the intended offering to the audience and signals that the time to go has come. | C:P5; imminent transition, no performed song, stage-entry observation or audience reception. |
+| `KNOW-1066` | Reports Nicole's sports-event enthusiasm and questions the format, bloomers and exposure-oriented promotion. | D:P1-2; Mito's account/questions, no own Nicole reply, actual costume change or wardrobe incident. |
+| `KNOW-1067` | Ranks marginal screen treatment of singing as chief objection, reports deciding on a bonus recording and requests viewer attention there. | D:P3-5; stated grievance/decision/request, no played broadcast, completed recording contract or verified uptake. |
+| `KNOW-1068` | Attributes a private-life request, calls herself ordinary outside song and reports walks or Nicole drawing her out as today. | E:P1-3; self-description/outing account, no complete private-life inventory, physical pulling depiction or Nicole motive. |
+| `KNOW-1069` | Asks Nicole about the crowded location, takes up the name ComiGene without understanding, demands explanation and breaks off at reported crowd movement. | E:P4-5; name acquisition and open understanding gap, no completed explanation, confirmed injury/rescue/exit or later repair. |
+
+| ID | Direction | Qualified state and limit |
+| --- | --- | --- |
+| `REL-1078` | `hanyuda-mito -> addressed unnamed viewers/fans` | A/C/D choose/refuse kinds of access and appeal for song-focused attention; E attributes wanted private access. Distinguish Mito's choices from reported production assumptions. No own fan reply/survey, verified reception, private Player exchange or rejection of audiences in general. |
+| `REL-1079` | `hanyuda-mito -> rokusaki-connie-presented as earlier Nicole` | B challenges the quoted theatrical composing idea; D distinguishes Nicole's reported enthusiasm; E describes imposed outing and asks for an explanation that remains incomplete. No new Nicole-own motive, global hostile/beneficent verdict, completed consent or erasure of prior gratitude/opportunities. |
+| `REL-1080` | `hanyuda-mito -> seven-sisters` | C describes concentrated/repeated work and giving all to listeners, while A/B/D preserve her own artistic priorities. Her collective formulation creates no new member vote, camera policy, exact live/date or revision of the group's chosen ending. |
+
+Totals:1069 KNOW and1080 REL. The102 IDENTITY,84 CHAR,29 UNIT and29 readiness decisions remain. Full READY0019 retains Main EP0.0/0.7 throughB0063, R2_STATE_BOUNDED/MONOGRAPH_NOT_READY and unresolved later life/career chronology, maternal perspective, independent relationships and listened voice/music. No R3 or2053 admission.
+
+## B0194 Mana's intentions, interpreted feedback and specific peer/family scopes
+
+Owner [B0194](../02%20Readings/T7S_B0194_DEEP_READING.md), source-lock 12.100, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; A-F primary locators in the reading. Existing Mana `IDENTITY-0020/CHAR-0017/misonoo-mana`, earlier Nicole `IDENTITY-0003/CHAR-0003/rokusaki-connie-presented`, Memoru `IDENTITY-0061/CHAR-0048/yusa-memoru`, Rui `IDENTITY-0039/CHAR-0028/wakaouji-rui`, Mito `IDENTITY-0060/CHAR-0047/hanyuda-mito` and Sisters `UNIT-0001` retain their routes. Reported Mana older brother remains an absent unnamed role, not Shizuka's brother or a new master identity. Generic household responses are not silently assigned to the existing father role.
+
+| Existing subject | Qualified addition | Resistant prior state and missing access retained |
+| --- | --- | --- |
+| `CHAR-0017` / Mana | Tries to understand and respond to feedback, accepts a correction, chooses gifts, proposes repeated introduction, values a private place, states partner/family wishes and credits a possible opening beyond compliance, while delaying requests she is not ready for. | Practical mediation/corporate competence, inherited resources and resource shame, Rui's reframe, chosen-group care, helplessness before mortality and Shizuka's independent purpose retain their horizons. No total wealthy-innocent, passive-compliance or unlimited-freedom model; no maturity promotion. |
+| Earlier Nicole | Is named in reported peer handling, Mana's modal account of liberation and the request-authorship attribution. | No own new turn or full intent. Generativity, care and imposed-framing/boundary costs coexist; opportunity supplies no standing license for every intervention. |
+| Memoru/Rui/Mito | Enter Mana's reports as introduction opponents, a gift precedent and request-provenance correction respectively. | Each function remains distinct; no new counterpart belief/motive, collective policy or independently verified sender log. |
+| Misonoo household/reported older brother | Supply reported reception, gift objection, resources, invitation and Mana's own freedom reasoning. | Particular objectors/receivers and full rationale remain unknown; no father receipt, brother name, legal governance, deed or total family judgment. |
+| `UNIT-0001` / Seven Sisters | Is thanked, introduced, reportedly given chocolate and named as Mana's current activity. | Her reports/assurances do not establish each member's own new assent, recipient reaction, policy or changed group chronology. |
+
+| ID | Holder and qualified state | Range and missing access |
+| --- | --- | --- |
+| `KNOW-1070` | Mana offers formal gratitude, takes up a stiffness comment and asks how to become softer. | A:P1-2; own register/uptake, no independently heard tone or identified evaluator. |
+| `KNOW-1071` | Reports bodily softness/peers' handling and apparent topic approval while retaining incomprehension. | A:P2-3; no observed touching, exact scope of assent or proof every viewer welcomes it. |
+| `KNOW-1072` | Reports apparently favorable family reception of an earlier introduction and a joke appraisal she did not intend. | B:P1-2; own qualified reception account, no exact earlier birthday-letter/recipient binding or family-own reply. |
+| `KNOW-1073` | Proposes repeating it for viewers, reports especially Memoru/Rui opposition and accepts disappointment. | B:P3-5; attributed objections, no public repeat or full image policy. |
+| `KNOW-1074` | Describes the occasion/friendship chocolate from hearsay, then acknowledges a recency correction and study gap. | C:P1-2; local uptake, no verified cultural chronology or fixed year. |
+| `KNOW-1075` | Reports Sisters pleased by gifts, wants viewers to receive the same and cites a vaguely understood Memoru/food-rule obstacle. | C:P3-4; own report/desire/precedent, no fan delivery or verified legal rule. |
+| `KNOW-1076` | Reports family opposition when male recipients are mentioned and asks why. | C:P5; particular reported objection, unnamed objector and rationale unknown. |
+| `KNOW-1077` | Attributes a private-life video proposal, worries it is ordinary and reports brother's seaside invitation/own quick aircraft arrival. | D:P1-3; no independent flight, brother-own turn/name or full private-life inventory. |
+| `KNOW-1078` | Describes apparent individual island ownership/reported fifth-birthday gift, disclaims memory and says she likes the island. | D:P4-5; own qualified property account/affection, no deed, current age or complete asset finances. |
+| `KNOW-1079` | States current Sisters focus and hopes someday for a fine partner and warm household. | E:P1-2; aspiration, no named partner, actual engagement or marriage. |
+| `KNOW-1080` | Rejects perceived inability to choose marriage through her own inference from allowed idol activity. | E:P3-4; own household reasoning, no complete liberty/governance audit or actual future approval. |
+| `KNOW-1081` | Imagines she might otherwise have lived in compliance had she not met Nicole. | E:P5; modal autobiographical counterfactual, no verified alternate world or sole cause of all choices. |
+| `KNOW-1082` | Says she is unsure what satisfies viewers, solicited requests and intends to respond. | F:P1-2; presentation/intention, no independently sampled audience preference. |
+| `KNOW-1083` | Expresses embarrassment/unreadiness at body-focused requests, delays and asks clarification. | F:P3-4; requests and hesitation, no completed action or blanket assent. |
+| `KNOW-1084` | Takes up Mito's attribution of all requests to Nicole and rebukes Nicole. | F:P5; acquired attribution through Mana's uptake, no own Mito/Nicole turn, forensic sender audit or universal forgiveness. |
+
+| ID | Direction | Qualified state and limit |
+| --- | --- | --- |
+| `REL-1081` | `misonoo-mana -> addressed unnamed viewers/fans` | Thanks, seeks suitable content/feedback, wishes gift circulation, discusses private life/future and delays requests. A-F. No actual reception, private Player declaration, audience-demand proof or consent inferred from gratitude. |
+| `REL-1082` | `misonoo-mana -> rokusaki-connie-presented as earlier Nicole` | A reports peer handling, E credits a possible opening beyond family compliance, F adopts request-authorship attribution and rebukes. Contexts remain different; no own Nicole motive, universal malice or license derived from gratitude. |
+| `REL-1083` | `misonoo-mana -> yusa-memoru` | B reports public-repeat opposition and C a similar gift attempt meeting a vaguely understood obstacle. No new own Memoru turn, exact precedent event binding or verified legal/marketing rule. |
+| `REL-1084` | `misonoo-mana -> wakaouji-rui` | B names Rui among opponents of the public introduction. Reported reason does not replace the earlier recognition/resource-care relation or supply Rui's full new motive. |
+| `REL-1085` | `misonoo-mana -> hanyuda-mito` | F turns to Mito and takes up a correction about request authorship. No own Mito speech, physical arrival, full investigation or invented reciprocal position. |
+| `REL-1086` | `misonoo-mana -> Misonoo household as reported` | B/C/D/E distinguish reception, a particular gift objection, resource ownership account, current freedom claim and possible prior compliance. No family-wide identical belief, father reply, complete financial/legal governance or fixed chronology. |
+| `REL-1087` | `misonoo-mana -> reported unnamed older-brother role` | D reports his invitation and her own aircraft arrival. No own brother turn/name, independent itinerary or equation with Shizuka's reported brother. |
+| `REL-1088` | `misonoo-mana -> seven-sisters` | A/B/C/E express support thanks, introduce the group, report gifts/pleasure and name present activity. No all-member own assent/reaction, new policy/member or changed ending date. |
+
+Totals:1084 KNOW and1088 REL. The102 IDENTITY,84 CHAR,29 UNIT and29 readiness decisions remain. READY0020 keeps its bounded Main history/B0009 horizons, R2_STATE_BOUNDED/MONOGRAPH_NOT_READY and unresolved family history, independent motive chronology, later life, finances/governance and listened voice/music. Earlier father-receipt uncertainty remains at its frozen horizon; no new R3 or2053 admission.
+
+## B0195 Kurt's own reasoning, situated gaps and differentiated peer roles
+
+Owner [B0195](../02%20Readings/T7S_B0195_DEEP_READING.md), source-lock 12.101, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; A-F locators in the reading. Existing Kurt `IDENTITY-0062/CHAR-0049/kotobuki-kurt`, Mana `IDENTITY-0020/CHAR-0017/misonoo-mana`, Mito `IDENTITY-0060/CHAR-0047/hanyuda-mito`, Rui `IDENTITY-0039/CHAR-0028/wakaouji-rui`, Memoru `IDENTITY-0061/CHAR-0048/yusa-memoru`, earlier Nicole `IDENTITY-0003/CHAR-0003/rokusaki-connie-presented` and Sisters `UNIT-0001` retain routes. Pes is only Kurt's reported named local-boss role with identity/species unresolved; no new master identity is created. Reports/uptake do not fabricate counterpart turns.
+
+| Existing subject | Qualified addition | Resistant prior state and missing access retained |
+| --- | --- | --- |
+| `CHAR-0049` / Kurt | A camera introduction is difficult; private life, play, learning, classification and prospective bodily contribution remain purposeful in her own categories. Questions and delight coexist with convention gaps and incomplete knowledge of others' preparations. | Earlier social freezing coexists with immediate ethical intervention and nuanced non-guaranteed repair for Memoru. No global cure, pure-instinct or global-incompetence model. READY0023 keeps complete circus/family history, age/education, wider relations, later life and listened performance unresolved. |
+| Mana/Mito | Are named as teachers of different utensil practices; Mito also enters F as reportedly indifferent to the sports day. | Instruction/praise and indifference remain attributed; no teacher-own turn, pedagogical motive, completed conventional mastery or equation with Mito's separate sports-day case. |
+| Rui | Is named by Kurt as the interrupter in C and as subject of a work-clothes transformation analogy in E. | Protective/presentation-regulating function is an interpretation, not Rui's newly acquired own motive. No actual biological transformation or direct new Rui belief. |
+| Memoru | Enters Kurt's C account through juice stickiness and F through eagerness, departure and unexplained preparation words. | No deliberate spill, malicious intention, verified possession/use of pin/laxative, successful sabotage, injury or own new Memoru turn established. |
+| Earlier Nicole | Supplies reported jersey terminology, assigns Kurt a useful sports role and explains idol participation. | No new own turn, complete intent or universal rule. Earlier Kurt's boundary against Nicole's apparent theft and Nicole's imposed-exposure costs remain. |
+| `UNIT-0001` / Seven Sisters | Supplies an anticipated team contribution in Kurt's account; unspecified others reportedly praise a step in manners. | No exact roster of praisers, unanimous new assent, shared plan, actual win or advanced group chronology. |
+
+| ID | Holder and qualified state | Range and missing access |
+| --- | --- | --- |
+| `KNOW-1085` | Kurt is uncertain about the recording medium, denies nerves, and takes up a time signal as an interruption before substantive speech. | A:P1-3; own register/uptake, no exact duration, audience response, independently heard delivery or diagnosis. |
+| `KNOW-1086` | Takes up a fried-potato/private-life correction, asks whether the unfamiliar category is edible and says she does not understand. | B:P1-2; no actual food presentation or own corrective-speaker turn. |
+| `KNOW-1087` | Calls the park her territory, reports winning it from local boss Pes and describes continued checking/protection. | B:P3-5; own narrated history/practice, no independently observed win, legal title or known Pes species/identity. |
+| `KNOW-1088` | Says camera address disrupts her manner and expects hiding the camera to restore ease. | C:P1-2; tactic/belief, no stopped recording or objectively private unobserved space. |
+| `KNOW-1089` | Verbally begins rolling, notices an insect, attributes stickiness to Memoru's juice, proposes changing and names Rui's repeated interference. | C:P2-4; no completed eating/clothing change, observed action, intentional spill or Rui-own full rationale. |
+| `KNOW-1090` | Attributes manners lessons to Mana/Mito while retaining hand-assignment uncertainty and adapting a forceful gripping/thrusting schema. | D:P1-4; own lesson account/attempt, no verified conventional mastery or actual complete meal. |
+| `KNOW-1091` | Reports others praising a step beyond using hands and ends pleased at her increased manners. | D:P5; incremental praise/own evaluation, exact praisers and motives unknown. |
+| `KNOW-1092` | Presents cicada/snake shed skins through a valued ninja-transformation classification and generalizes about Japan. | E:P1-3; own imaginative model, no world-certified biology, nationality or origin assignment. |
+| `KNOW-1093` | Applies the transformation model to Rui's work clothes, reports Nicole's jersey label and expresses disappointment. | E:P4-5; attributed analogy/correction, no literal Rui shedding or independent acquisition/inventory record. |
+| `KNOW-1094` | Has incomplete sports-day knowledge but anticipates strong running/jumping contribution and reports Nicole's trump-card description. | F:P1-2; own skill confidence/attributed role, no measured result or completed victory. |
+| `KNOW-1095` | Reports Mito's indifference and Nicole's explanation of sports-day participation as idol work. | F:P3; distinct attributed positions, no general binding industry rule or identical prior Mito occurrence. |
+| `KNOW-1096` | Reports Memoru's eagerness/departure and the unexplained words ガビョー/ゲザイ. | F:P4-5; troubling pin/laxative reading remains inference; no possession, deployment, intent or harm verified. |
+| `KNOW-1097` | Wants to make an effort and asks everyone to support her despite incomplete understanding. | F:P5; prospective commitment/request, no actual competition or audience reception. |
+
+| ID | Direction | Qualified state and limit |
+| --- | --- | --- |
+| `REL-1089` | `kotobuki-kurt -> addressed unnamed viewers` | Tries an introduction, offers valued places/treasures and lessons, and requests support. A-F. No private Player promise, direct audience reply or approved reception supplied. |
+| `REL-1090` | `kotobuki-kurt -> reported unnamed presentation interlocutor` | Takes up a time signal, a category correction and an expectation of ordinary behavior. A/B/C. No assumed named speaker, direct extra turn or universal editorial policy. |
+| `REL-1091` | `kotobuki-kurt -> reported local boss Pes (unresolved identity/species)` | B:P4-5 frames a past win and continued territorial maintenance in Kurt's own account. No witnessed contest, species/person equation, current rivalry detail or new stable identity. |
+| `REL-1092` | `kotobuki-kurt -> wakaouji-rui` | C questions repeated interference; E admires an imagined transformation and receives a reported corrective label. Different objects/contexts, no own Rui motive or actual biological change. |
+| `REL-1093` | `kotobuki-kurt -> yusa-memoru` | C attributes stickiness to juice; F reads eagerness/preparation as interesting while not understanding the words. No intentional prank, endorsed sabotage or erased earlier complex repair relationship. |
+| `REL-1094` | `kotobuki-kurt -> misonoo-mana` | D:P1 attributes utensil instruction and wants to demonstrate it. No complete lesson, Mana-own evaluation, full mastery or certain teaching motive. |
+| `REL-1095` | `kotobuki-kurt -> hanyuda-mito` | D recalls chopsticks instruction; F reports indifference to sports day. No new Mito-own voice, inferred identical occasion or equation of learning with institutional enthusiasm. |
+| `REL-1096` | `kotobuki-kurt -> rokusaki-connie-presented as earlier Nicole` | E reports a jersey label; F accepts a useful prospective role and transmits an idol-work explanation. No unrestricted obedience, own Nicole intent or loss of retained REL0156 ethical boundary. |
+| `REL-1097` | `kotobuki-kurt -> seven-sisters and reported unspecified praising group` | D appreciates incremental praise; F wants to contribute to the named team. Praisers are not automatically an exact member list; no shared plan, all-member consent or actual victory. |
+
+No IDENTITY, CHAR, UNIT or READY record is added. Existing totals remain102/84/29/29. Proposed epistemic total1097 and directional total1097. Earlier entity bodies/IDs, R2 readiness and frozen uncertainties retain their horizons; no listened-voice, monograph or era-release promotion.
+
+## B0196 Rui's offered proximity, situated admiration and definite preference
+
+Owner [B0196](../02%20Readings/T7S_B0196_DEEP_READING.md), source-lock 12.102, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; A-E locators in the reading. Existing Rui `IDENTITY-0039/CHAR-0028/wakaouji-rui`, established alias `IDENTITY-0070/himemiya-sol`, earlier Nicole `IDENTITY-0003/CHAR-0003/rokusaki-connie-presented`, Kurt `IDENTITY-0062/CHAR-0049/kotobuki-kurt`, Memoru `IDENTITY-0061/CHAR-0048/yusa-memoru` and Seven Sisters `UNIT-0001` retain routes. The drink label's association supplies no new Memoru-own turn/action; the stock-information speaker remains anonymous. No new identity or machine binding is introduced.
+
+| Existing subject | Qualified addition | Resistant prior state and missing access retained |
+| --- | --- | --- |
+| `CHAR-0028` / Rui | Offers equal regard and special-feeling access, values unscheduled rest while ambivalent about private recognition, admires Nicole through distinct costs/comparisons, describes practical care and makes a firm refusal. | Theatrical/radio/public work, discipline, orphanage history, resource-based recognition of Mana and later material care/revisable offer remain separate admitted intervals. No universal charm, passive caretaker, true-self/mask replacement or maturity promotion. READY0021 keeps childhood/abuse, post-travel life, wider relations, exact chronology and performed media unresolved. |
+| Earlier Nicole | Is attributed the abrupt mountain impetus and viewed by Rui as naturally powerful before a particular live. | No own new intention, full group-consent process, global infallibility, unrestricted direction license or erasure of independently admitted fear. |
+| Kurt | Is excepted from reported mountain exhaustion and named as recently bathed in Rui's account. | No own new Kurt perspective, complete care arrangement, numerical energy measurement or visual bathing scene. Her earlier independent ordinary-life/ethical states remain. |
+| Memoru/name-bearing drink | Only the Memorun label enters E's stock/refusal exchange. | No present sender, ingredient, quality test, deliberate harm, relation to the earlier sticky juice or actual drink consumption established. |
+| `UNIT-0001` / Seven Sisters | Rui compares the group's path to Nicole's rapid mountain mobilization and reports the particular pre-live mood. | Own group metaphor/observation, not all members' direct new assent, fixed lineup at the reported summit, unchanged-nerves-for-all rule or advanced total chronology. |
+
+| ID | Holder and qualified state | Range and missing access |
+| --- | --- | --- |
+| `KNOW-1098` | Rui thanks message recipients and declares equal affection for live attendees and home HoloCom listeners. | A:P1-2; own address, no independently heard music, fan reciprocity or ranked attendance economy. |
+| `KNOW-1099` | Feels a special bond with these recipients and frames it as a here/now secret. | A:P3; offered specialness, no actual exclusive distribution, private Player declaration or audited audience response. |
+| `KNOW-1100` | Values purposeless off-day wandering against days pursued by scheduled tasks. | B:P1-2; own relief/pattern, no full timetable, contract or clinical diagnosis. |
+| `KNOW-1101` | Would welcome fan approaches without commotion, reports they are rare privately, hypothesizes feminine clothing as a cause and states mixed feeling. | B:P3-5; stance/report/question, no actual recognition encounter, proved causal mechanism or fan-own motives. |
+| `KNOW-1102` | Attributes the mountain proposal to Nicole and reports being at a summit hours later without a full explanation. | C:P1-2; account with explicit gap, no full logistics/consent or static mountain corroboration. |
+| `KNOW-1103` | Reports others exhausted except Nicole/Kurt, anticipates descent with dizzying thought and values the view. | C:P3-4; own/report perspective, no observed stamina trial, medical measurement, complete roster or completed descent. |
+| `KNOW-1104` | Sees a pattern in the Sisters' shared path and wonders where Nicole will run/what views she will show next. | C:P4-5; own retrospective metaphor/prospective question, no complete group motive or terminal foreknowledge. |
+| `KNOW-1105` | Wants viewers to see an unusual pre-live space and qualifies whether its positive tension can reach the screen. | D:P1-2; intended access/own uncertainty, no performed atmosphere or actual broadcast reception. |
+| `KNOW-1106` | Excepts Nicole from the initial group-tension description, admires her in this respect and redirects the audience toward seats for the coming live. | D:P3-4; attributed observation/bounded comparison/request, no global fearlessness, actual entrance or concert completion. |
+| `KNOW-1107` | Reports just bathing especially energetic Kurt and says she often uses showers herself. | E:P1-3; stated care/cost/preference, no numerical energy test, depicted bath, full care terms or new Kurt-own response. |
+| `KNOW-1108` | Values a cold drink, takes up only-Memorun stock information, refuses even if requested and intends to buy something outside. | E:P4-5; own stance/uptake/intention, speaker/contents/rejection reason unknown, no harm test or completed purchase/drink. |
+
+| ID | Direction | Qualified state and limit |
+| --- | --- | --- |
+| `REL-1098` | `wakaouji-rui -> addressed unnamed fans/viewers` | A thanks, affirms equality and offers special-feeling confidence; B conditionally welcomes approaches; D offers a glimpse then seats-directed viewing; E invites preference agreement. No private Player contract, audience-own response, permanent availability or actual program reception. |
+| `REL-1099` | `wakaouji-rui -> rokusaki-connie-presented as earlier Nicole` | C attributes sudden mobilization, names its cost and values future scenery; D admires natural pre-live power in a particular respect. No full motive, unrestricted authority, all-member consent or universal absence of fear. |
+| `REL-1100` | `wakaouji-rui -> kotobuki-kurt` | C excepts Kurt from exhaustion; E reports recent bathing effort. No new Kurt-own voice, parent/child role assignment, completed depicted sequence or quantified stamina/energy. |
+| `REL-1101` | `wakaouji-rui -> seven-sisters` | C authors a shared-path metaphor; D reports positive tension then a Nicole exception. No exact summit roster, direct each-member assent or total chronology; earlier group plurality preserved. |
+| `REL-1102` | `wakaouji-rui -> unseen unnamed stock-information interlocutor` | E:P5 takes up a limited option, refuses and announces an alternative purchase intention. Source-required anonymity; no Memoru/Player substitution, known rationale or completed procurement. |
+
+No IDENTITY, CHAR, UNIT or READY record is added. Their totals remain102/84/29/29. Proposed epistemic total1108 and directional total1102. Every older body/ID and separately bounded R2 decision remains; no new monograph or era-release eligibility follows.
 <!-- T7S ENTITY STATE PAYLOAD END -->

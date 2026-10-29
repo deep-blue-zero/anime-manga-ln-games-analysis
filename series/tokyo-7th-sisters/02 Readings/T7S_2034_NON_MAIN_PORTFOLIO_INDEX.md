@@ -4,13 +4,13 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.92"
+version: "2.97"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
 routing_audit: "../09 Audits and Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md"
 created: 2026-09-24
-last_updated: 2026-10-28
+last_updated: 2026-10-29
 do_not_use_as_literary_evidence: true
 ---
 
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its historical boundary. The [remaining2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed the B0160–B0181 i-n-g checkpoint at22source units/66episodes; overall i-n-g280/280 across102chapters. Later Intimacy portfolios: 10, complete primary occurrences: 84; 265 Intimacy/610eligible story episodes and supplemental/multimodal/character/era-release obligations remain. The next authorized unread portfolio is B0192, 七咲ニコル, route `NM-INTIMACY-200840` / native Sub family `200840`, 5 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its historical boundary. The [remaining2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed the B0160–B0181 i-n-g checkpoint at22source units/66episodes; overall i-n-g280/280 across102chapters. Later Intimacy portfolios: 15, complete primary occurrences: 111; 238 Intimacy/583eligible story episodes and supplemental/multimodal/character/era-release obligations remain. The next authorized unread portfolio is B0197, 遊佐メモル, route `NM-INTIMACY-200890` / native Sub family `200890`, 6 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.
 
 ## Closed first i-n-g tranche
 
@@ -184,3 +184,8 @@ Each family closes exact primary members with one qualified mini-case per occurr
 | [T7S_B0189](T7S_B0189_DEEP_READING.md) | `200640` / 二川ミミ / `NM-INTIMACY-200640` | `401000075 / 401000079 / 401000598 / 401000794 / 401001094 / 401001302 / 401001458` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
 | [T7S_B0190](T7S_B0190_DEEP_READING.md) | `200650` / 瀬戸ファーブ / `NM-INTIMACY-200650` | `401000086 / 401000090 / 401000750 / 401000838 / 401001050 / 401001130 / 401001406 / 401006538` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
 | [T7S_B0191](T7S_B0191_DEEP_READING.md) | `200500` / 芹沢モモカ / `NM-INTIMACY-200500` | `401000101 / 401000354 / 401000396 / 401000558 / 401000650 / 401000686 / 401001010 / 401001074 / 401001226` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0192](T7S_B0192_DEEP_READING.md) | `200840` / 七咲ニコル / `NM-INTIMACY-200840` | `401000105 / 401000626 / 401001338 / 401001770 / 401003025` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0193](T7S_B0193_DEEP_READING.md) | `200850` / 羽生田ミト / `NM-INTIMACY-200850` | `401000107 / 401000882 / 401001486 / 401001794 / 401003049` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0194](T7S_B0194_DEEP_READING.md) | `200860` / 御園尾マナ / `NM-INTIMACY-200860` | `401000109 / 401000694 / 401001346 / 401001570 / 401001814 / 401003077` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0195](T7S_B0195_DEEP_READING.md) | `200870` / 寿クルト / `NM-INTIMACY-200870` | `401000111 / 401000826 / 401001418 / 401001857 / 401003053 / 401003109` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0196](T7S_B0196_DEEP_READING.md) | `200880` / 若王子ルイ / `NM-INTIMACY-200880` | `401000113 / 401000790 / 401001374 / 401001834 / 401003093` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
