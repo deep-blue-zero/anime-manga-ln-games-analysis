@@ -11,7 +11,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-last_amended: 2026-08-23
+last_amended: 2026-10-28
 ---
 
 # One Punch Man — Analytical Method V2
@@ -608,7 +608,9 @@ A tranche should normally close when:
 
 All uncollected conclusions must be labeled `active_provisional` and evidence code `PR` where relevant.
 
-Do not silently rewrite canonical tankobon specialist documents merely because a web update suggests a new direction. Update the current-state map and provisional ledgers first.
+Official uncollected evidence is eligible to advance current character profiles, relationships, thematic ledgers and rolling synthesis as soon as the admitted pages are source-locked and read. Do not wait for tankobon publication to perform that propagation. Use explicit `active_provisional` / PR sections or atom-level authority in the existing topical homes, with available-from boundaries and revision routes. Preserve frozen tankobon readings and collected model states; later web knowledge does not become earlier character knowledge.
+
+This rolling propagation rule implements the owner's 2026-10-28 instruction. It changes the maintenance cadence, not the hierarchy of source witnesses or the requirement to reconcile later redraws and collection.
 
 ## 10.4 Tankobon reconciliation event
 
