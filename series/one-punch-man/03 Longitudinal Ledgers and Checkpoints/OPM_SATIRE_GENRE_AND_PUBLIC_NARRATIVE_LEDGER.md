@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Satire, genre, and public narrative through V37
+scope: Satire, genre, and public narrative through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Satire, Genre, and Public Narrative Ledger
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 
 ## Governing rule
@@ -596,3 +600,21 @@ Mumen's arrival restores genre seriousness inside the same chapter. He recognize
 Reduced monsters, tiny rooms, a doghouse and a neighboring-room eviction compress postwar survival and attachment into household scale (`191,193 / 0065–0067,0161–0170`).
 
 King's apple test makes expertise unfalsifiable: fear, delay, inability and departure are each rewritten as deeper mastery. The false belief still produces Atomic's real humility, separating useful consequence from truthful premise (`194 / 0172–0200`).
+
+## Current-release overlay through web 287
+
+Authority: `web_active_provisional` / PR. [Source lock](../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md).
+
+The web sequence extends V37's satire of appraisal into satire of managed improvement: the apparatus that promises to recognize heroic value also shapes who can act and on what terms. King cannot obtain accurate instruction because reputation overrides confession; Flash supplies a prestigious role Saitama does not want; Amai's perfected public image cannot contain his body; Mirror converts combat performance into reusable data (PR-CR-002,003,008,012; web237-248,254-263,274-278; available incrementally through web278). These cases do not all expose an empty image. They expose an account of a person that resists correction by the person's actual conduct.
+
+King makes the distinction especially clear. His request is an effort to change his situation; the joke places the obstacle partly in teachers who reinterpret weakness as mastery. Calling him only a passive beneficiary of a lie now misses the action the scene frustrates. Amai provides the reverse test: a visibly monstrous body accompanies a protective struggle, while the beautiful heroic image was compatible with earlier coercion and violence. Saitama's particular recognition crosses that mismatch without certifying a morally pure biography (PR-CR-002,008; web237/pages 2-35, web262/pages 8-21, web263/pages 2-15; available through web263).
+
+Web285 makes the progress story materially unstable. The notification promises an improved system while the trainee loses authorship of his own lunge. Executive certainty about inexhaustible improvement follows Darkshine's frightened care for the person in front of him. The joke is not that strength or training is useless, but that a performance account can conceal who is controlling performance (PR-CR-015,016; web285/pages 3-8).
+
+Webigaza treats strength as the highest-impact entertainment and owns the choice that delivered her role. Her medical dependence and declared inability to leave complicate any simple empowerment advertisement. Child Emperor's reassurance is sincere-seeming interpersonal support, not a narrator's guarantee that the title's promised good outcome will occur (PR-CR-021-023; web286/pages 4-12).
+
+The religious and corporate welcomes for the returned leaders coexist with A's calculation of money and supporters. Webigaza then wants an Amai takedown as promotion while a commercial shoot takes precedence. These scenes connect heroic publicity to other industries without claiming every follower or civilian shares one view (PR-CR-020,024; web285/pages 14-15; web287/pages 2-4).
+
+**STRENGTHEN the limit of exposure as correction:** Webigaza's former admiration, disgust and reported pursuit show that public revelation redistributes injury and opportunity; it does not automatically produce understanding. Her response belongs to her history and ambitions, not to an undifferentiated public. Saitama can recognize Amai's act without persuading her, ending pursuit or making his judgment institutionally durable. King and Amai therefore place different limits on an authenticity cure: saying what is true can fail to be heard, and showing what happened can be assimilated to an existing hostile category. Child Emperor's listening and the investigators' intended protection suggest work that must follow recognition, while offering no guaranteed resolution (PR-CR-021,023-026; web286/pages 5-12, web287/pages 2-7; available through web287).
+
+A denies a sensational killer label by explaining murder as a game; Sonic replies in the same vocabulary while refusing Neo's hero branding. The institutional name changes, but speech exposes the action policy. The last-page explosion withholds a heroic-result caption (PR-CR-027,028; web287/pages 9-12).

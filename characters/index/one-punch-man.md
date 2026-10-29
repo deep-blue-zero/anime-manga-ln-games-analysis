@@ -6,6 +6,30 @@ Reviewed analysis subjects in the `one-punch-man` namespace of the [Character An
 
 ## Reviewed entries
 
+<a id="bang"></a>
+
+### Bang
+
+- Entity ID: `one-punch-man:bang`
+- Entity aliases:
+  - _None._
+
+#### Subject: One Punch Man manga
+
+- Analysis subject ID: `one-punch-man:bang@manga`
+- Series: `one-punch-man`
+- Continuity: `one-punch-man-manga`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bang-reviewed-corpus`: MANGA VOLUME: Distributed substantial analysis for a subject at the explicit current strong tier in the canonical readiness index (moderate to strong at the V30 transition, retained through V37), supported by the hero character-state and relationship ledgers; all per-volume and scenario limits remain in force.; continuity `one-punch-man-manga`
+- Reviewed current evidence:
+  - [`opm-character-model-readiness-index` — OPM CHARACTER MODEL READINESS INDEX](../../series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_CHARACTER_MODEL_READINESS_INDEX.md)
+  - [`opm-hero-character-state-ledger` — OPM HERO CHARACTER STATE LEDGER](../../series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_HERO_CHARACTER_STATE_LEDGER.md)
+  - [`opm-relationship-state-ledger` — OPM RELATIONSHIP STATE LEDGER](../../series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md)
+
 <a id="child-emperor"></a>
 
 ### Child Emperor

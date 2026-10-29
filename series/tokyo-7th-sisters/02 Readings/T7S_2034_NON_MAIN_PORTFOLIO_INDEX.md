@@ -4,13 +4,13 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.89"
+version: "2.104"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
 routing_audit: "../09 Audits and Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md"
 created: 2026-09-24
-last_updated: 2026-10-14
+last_updated: 2026-10-29
 do_not_use_as_literary_evidence: true
 ---
 
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its historical boundary. The [remaining2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed the B0160–B0181 i-n-g checkpoint at22source units/66episodes; overall i-n-g280/280 across102chapters. Later Intimacy portfolios: 7, complete primary occurrences: 60; 289 Intimacy/634eligible story episodes and supplemental/multimodal/character/era-release obligations remain. The next authorized unread portfolio is B0189, 二川ミミ, route `NM-INTIMACY-200640` / native Sub family `200640`, 7 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its historical boundary. The [remaining2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed the B0160–B0181 i-n-g checkpoint at22source units/66episodes; overall i-n-g280/280 across102chapters. Later Intimacy portfolios: 22, complete primary occurrences: 163; 186 Intimacy/531eligible story episodes and supplemental/multimodal/character/era-release obligations remain. The next authorized unread portfolio is B0204, 前園リシュリ, route `NM-INTIMACY-200770` / native Sub family `200770`, 7 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.
 
 ## Closed first i-n-g tranche
 
@@ -181,3 +181,18 @@ Each family closes exact primary members with one qualified mini-case per occurr
 | [T7S_B0186](T7S_B0186_DEEP_READING.md) | `200610` / 上杉・ウエバス・キョーコ / `NM-INTIMACY-200610` | `401000046 / 401000050 / 401000464 / 401000810 / 401001034 / 401001206 / 401001330 / 401006489` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
 | [T7S_B0187](T7S_B0187_DEEP_READING.md) | `200530` / 久遠寺シズカ / `NM-INTIMACY-200530` | `401000057 / 401000061 / 401000412 / 401000468 / 401000674 / 401000702 / 401000946 / 401001018 / 401001146` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
 | [T7S_B0188](T7S_B0188_DEEP_READING.md) | `200490` / 野ノ原ヒメ / `NM-INTIMACY-200490` | `401000068 / 401000353 / 401000392 / 401000456 / 401000638 / 401000726 / 401000986 / 401001070 / 401001258` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0189](T7S_B0189_DEEP_READING.md) | `200640` / 二川ミミ / `NM-INTIMACY-200640` | `401000075 / 401000079 / 401000598 / 401000794 / 401001094 / 401001302 / 401001458` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0190](T7S_B0190_DEEP_READING.md) | `200650` / 瀬戸ファーブ / `NM-INTIMACY-200650` | `401000086 / 401000090 / 401000750 / 401000838 / 401001050 / 401001130 / 401001406 / 401006538` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0191](T7S_B0191_DEEP_READING.md) | `200500` / 芹沢モモカ / `NM-INTIMACY-200500` | `401000101 / 401000354 / 401000396 / 401000558 / 401000650 / 401000686 / 401001010 / 401001074 / 401001226` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0192](T7S_B0192_DEEP_READING.md) | `200840` / 七咲ニコル / `NM-INTIMACY-200840` | `401000105 / 401000626 / 401001338 / 401001770 / 401003025` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0193](T7S_B0193_DEEP_READING.md) | `200850` / 羽生田ミト / `NM-INTIMACY-200850` | `401000107 / 401000882 / 401001486 / 401001794 / 401003049` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0194](T7S_B0194_DEEP_READING.md) | `200860` / 御園尾マナ / `NM-INTIMACY-200860` | `401000109 / 401000694 / 401001346 / 401001570 / 401001814 / 401003077` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0195](T7S_B0195_DEEP_READING.md) | `200870` / 寿クルト / `NM-INTIMACY-200870` | `401000111 / 401000826 / 401001418 / 401001857 / 401003053 / 401003109` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0196](T7S_B0196_DEEP_READING.md) | `200880` / 若王子ルイ / `NM-INTIMACY-200880` | `401000113 / 401000790 / 401001374 / 401001834 / 401003093` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0197](T7S_B0197_DEEP_READING.md) | `200890` / 遊佐メモル / `NM-INTIMACY-200890` | `401000115 / 401000742 / 401001466 / 401001762 / 401001861 / 401003133` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0198](T7S_B0198_DEEP_READING.md) | `200820` / 桂木カヅミ / `NM-INTIMACY-200820` | `401000120 / 401000124 / 401000562 / 401000806 / 401001090 / 401001278 / 401001446` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0199](T7S_B0199_DEEP_READING.md) | `200630` / 荒木レナ / `NM-INTIMACY-200630` | `401000131 / 401000135 / 401000460 / 401000762 / 401001042 / 401001210 / 401001494 / 401006487` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0200](T7S_B0200_DEEP_READING.md) | `200620` / 西園ホノカ / `NM-INTIMACY-200620` | `401000142 / 401000428 / 401000734 / 401000878 / 401001038 / 401001214 / 401001358 / 401006488` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0201](T7S_B0201_DEEP_READING.md) | `200810` / 玉坂マコト / `NM-INTIMACY-200810` | `401000149 / 401000153 / 401000754 / 401000894 / 401001106 / 401001178 / 401001390` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0202](T7S_B0202_DEEP_READING.md) | `200590` / 榎並マドカ / `NM-INTIMACY-200590` | `401000160 / 401000432 / 401000782 / 401001026 / 401001162 / 401001282 / 401001434` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0203](T7S_B0203_DEEP_READING.md) | `200470` / 天堂寺ムスビ / `NM-INTIMACY-200470` | `401000167 / 401000351 / 401000416 / 401000488 / 401000662 / 401000690 / 401000898 / 401000970 / 401001262` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
