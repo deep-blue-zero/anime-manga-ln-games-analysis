@@ -822,4 +822,12 @@ Authority: `web_active_provisional` / PR, with [exact source identities](../../0
 
 A's alias, appearance and dialogue do not identify A with Erimin or Destro. The latter's earlier modification and enforcement evidence remains its own record (web253/pages 3-10). No webcomic identity or future outcome is imported.
 
+### Garou — from defeat to a test of ordinary continuation
+
+**REVISE the current endpoint, not the earlier record.** Failed monsterhood and the disgraced-disciple relation remain essential history, but they no longer exhaust the conditions in which Garou is observed. Work and controlled training put him into situations where adaptation need not require domination of a public enemy. With Suiryu, competitive attention becomes reciprocal learning; restraint matters because it is exercised while capability remains, not because defeat has made him harmless (PR-CR-013; web279/pages 2-15, web280-283, especially web282/pages 2-24; available through web283).
+
+This develops V34's apology, sparring and ordinary bonds rather than discovering rehabilitation for the first time. The new question is whether his behavior can persist in ordinary social relations. Conditional reconstruction should therefore include an available labor/training response as well as the older grievance and conflict regimes. Do not rewrite earlier violence as secret universal solidarity with weak people, or treat the present restraint as evidence that every prior act was justified.
+
+Bang's observation gives the continuation a teacherly witness without making Garou simply his recovered property. Suiryu also contributes to the exchange; he is not only a scale for Garou's strength. These relations support provisional reinsertion, while completed restitution, public/legal restoration, a stable heroic identity and settled Neo enrollment remain OPEN (PR-CR-013; web283/pages 9-17; available web283). The [relationship ledger](../OPM_RELATIONSHIP_STATE_LEDGER.md#current-release-overlay-through-web-287) owns those directional states.
+
 Sonic's hostile boundary is local and conditional: an adversary's hero label does not replace evidence about conduct. His game-over reply belongs to this encounter and is not evidence that every killing is now ethically motivated.

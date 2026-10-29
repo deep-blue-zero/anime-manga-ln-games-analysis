@@ -153,6 +153,22 @@ Character state will preserve two authority horizons: canonical collected tankob
 
 These durable topical homes retain V37 collected history and now carry explicitly labeled current-release sections through web287. They are cumulative analytical responsibilities, not duplicate volume summaries.
 
+### Current specialist responsibilities through web287
+
+The standalone V1 monographs and specialist references remain historical. Current interpretation is retrieved through the existing V2 owners below; the planned specialist/cumulative directories have no extant current documents. The [downstream synthesis audit](08%20Audits%20and%20Manifests/OPM_POST_V37_DOWNSTREAM_SYNTHESIS_AUDIT.md) records all ten historical dispositions, evidence availability, selected revisions and intentional no-change decisions.
+
+| Responsibility | Current analytical owner / PR argument |
+|---|---|
+| Saitama monograph | [Saitama ledger](03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_SAITAMA_CHARACTER_STATE_LEDGER.md#current-release-overlay-through-web-287): conduct-specific recognition without possession, omniscience or automatic public repair. |
+| Genos and King monographs | [Hero ledger](03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_HERO_CHARACTER_STATE_LEDGER.md#current-release-overlay-through-web-287): technical agency versus extractable data; active disclosure defeated by reputation. Amai's revised model has the same owner. |
+| Garou monograph | [Antagonist ledger](03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_MONSTER_ANTAGONIST_CHARACTER_STATE_LEDGER.md#current-release-overlay-through-web-287): labor, restraint and reciprocal learning as provisional reinsertion, not completed restitution. |
+| Fubuki and Tatsumaki monographs | Hero/relationship ledgers retain collected models. No new personality or sister-relationship revision; Tatsumaki's web273 action reinforces already-routed local capacity. |
+| Saitama relational/thematic reference | [Relationship ledger](03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md#current-release-overlay-through-web-287): directionality, failed reception, care and uncompleted repair. |
+| Major targets of satire specialist | [Satire ledger](03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_SATIRE_GENRE_AND_PUBLIC_NARRATIVE_LEDGER.md#current-release-overlay-through-web-287), with institution/technology owners: production and control of heroic performance as well as false appraisal. |
+| V01-V15 and V01-V34 higher syntheses | Preserve their historical horizons; use the [living synthesis](07%20Current%20Release/OPM_CURRENT_RELEASE_SYNTHESIS.md) for the integrated V37-plus-web287 argument. |
+
+The principal revision is that useful institutions can both enable heroic capacity and constrain its use. King, Amai and Webigaza show why truthful disclosure, exact recognition and free action cannot be assumed to follow one another. All such web claims remain `active_provisional` / PR; no frozen boundary or readiness tier is changed.
+
 
 ## Primary-source architecture
 
@@ -194,6 +210,7 @@ The prior analytical corpus contains substantial work through Volume 34, includi
 - Genos monograph;
 - Garou monograph;
 - King monograph;
+- Fubuki monograph;
 - Tatsumaki monograph;
 - Bang monograph referenced by legacy metadata but currently unrecovered;
 - Saitama relationship/character-orbit analysis;
