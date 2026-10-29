@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.25"
+version: "1.26"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0200; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0201; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1746,4 +1746,44 @@ Owner [B0200](../02%20Readings/T7S_B0200_DEEP_READING.md), reading SHA256 `e1eba
 | `REL-1116` | `saionji-honoka -> araki-rena` | H recalls shared origin and compares admired brilliance while planning continued LeSCA/friend-directed work; no present Rena-own turn. B0199 attributed peer concern and earlier practice/privacy states remain; no new athletic unit, sole supervision duty or menu-derived conversion. |
 
 Totals:1227 KNOW and1116 REL. Identity102/character84/unit29/readiness29 retained without additions; no individual Honoka READY exists. All older entity bodies/routes, local role distinctions, proposals and reported/modal horizons persist. No R2, permanent cure, new actor discovery or full era release.
+
+## B0201 Makoto's offered closeness and the pressure of being known
+
+Owner [B0201](../02%20Readings/T7S_B0201_DEEP_READING.md), reading SHA256 `ffba0b4cfcb7482a313db958d52c709ff28de58873ebec5fe71c2b0793e25ac6`; source-lock 12.107, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published417f952f/B0200/12.106 before primary; later successful automatic cycle separately retained. No menu-derived chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1228` | Makoto says others will not come and justifies arranged solitude as needed for feelings to be understood. | A:P1-2; her arrangement/account/uptake, no full invitation record or manager assent. |
+| `KNOW-1229` | Makoto wants to monopolize the manager, asks if strange, apologizes and calls herself bad. | A:P3; own desire/self-judgment, no diagnosis or mutually chosen exclusivity. |
+| `KNOW-1230` | Makoto reports always worrying alone and knowing she struggles to convey affection. | B:P1-2; own generalization/reflection, no audited absence of every peer support. |
+| `KNOW-1231` | Makoto says she is sometimes frightened of going too far. | B:P3; explicit fear/self-awareness, no clinical finding or completed reform. |
+| `KNOW-1232` | Makoto offers to go away if nuisance, takes up need-not-disappear reassurance and asks whether she can stay. | B:P4-5; conditional offer/mediated reassurance, no actual departure or blanket permission. |
+| `KNOW-1233` | Makoto calls him kind and returns to anything-for-him possibility. | B:P5; expansive relieved declaration, no unlimited agreed care/contact or self-harm act. |
+| `KNOW-1234` | Makoto says she made/left chocolate on his desk, asks if eaten and takes up favorable taste answer. | C:P1-2; reported preparation/uptake, no ingredients or independent sensory assay. |
+| `KNOW-1235` | Makoto reports Sumire asking recipe after praising deep flavor. | C:P2-3; mediated request, no Sumire-own turn or delivered recipe. |
+| `KNOW-1236` | Makoto says recipe knowledge would prevent staying, calls that joke, then labels family secret/sweet-deep taste. | C:P4-5; explicit retraction plus mysterious presentation, no literal expulsion, hidden harmful ingredient or certified safety. |
+| `KNOW-1237` | Makoto identifies handwritten big-brother diary and reports over100books. | D:P1-3; her object/scale account, no inspected count or full contents. |
+| `KNOW-1238` | Makoto says writing about him remains insufficient despite its accumulation. | D:P3; own incompleteness feeling, no measured compulsion/diagnosis or date span. |
+| `KNOW-1239` | Makoto makes reading imply responsibility and asks reciprocation if feelings become known. | D:P4-5; conditional demand, no actual reading/accepted obligation or reciprocal romance. |
+| `KNOW-1240` | Makoto retracts yesterday-dinner dyad/forgetting as lie and says she remembers Kyoko/Miu present. | E:P1-3; corrected retrospective account, no shown dinner or memory-loss diagnosis. |
+| `KNOW-1241` | Makoto calls Kyoko/Miu cute and reports fearing losing the manager to them. | E:P4; jealous appraisal, no peer-own attempt/romantic intention or property right. |
+| `KNOW-1242` | Makoto calls herself bad, offers punishment and interprets scolding as love. | E:P5; own proposal/interpretation, no actual punishment/injury or universal endorsement. |
+| `KNOW-1243` | Makoto claims prior no-entry promise and takes up manager's noise-based explanation of entry. | F:P1-2; mediated prior terms/response, no full negotiation or heard sound. |
+| `KNOW-1244` | Makoto explains sharpening as fish-cooking knife for Sawara/others at dorm and asks solitude for concentration. | F:P2-4; ordinary purpose/privacy account, no Sawara-own instruction or actual fish dish/knife close-up. |
+| `KNOW-1245` | Makoto allows there might be another loving use while telling him not to worry. | F:P5; ambiguous modal insinuation, no named target, concrete plan, attack or harm. |
+| `KNOW-1246` | Makoto seeks Murasaki to return borrowed makeup tools. | G:P1; obligation/reported borrowing, return not completed or Murasaki present. |
+| `KNOW-1247` | Makoto asks why he laughs and says she imitated Murasaki's adult look to attract his gaze. | G:P2-3; own uptake/motive, no independent makeup depiction, beauty rule or peer rivalry intent. |
+| `KNOW-1248` | Makoto reproaches him and vows greater skill to make him absorbed. | G:P4; hurt/ambition, no achieved skill or controlled recipient response. |
+| `KNOW-1249` | Makoto wonders whether clumsy makeup suffices if he smiles and calls that unlike herself. | G:P5; substantive qualified local alternative, no known kind motive/permanent cure or full renunciation. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1117` | `tamasaka-makoto -> player-protagonist` | A-G seeks exclusive/private recognition, reflects on poor expression/excess, offers conditional withdrawal and expansive care, protects secrecy, demands reciprocation, admits dinner lie, offers scolding and tests smile-valued imperfection. These acts retain distinct pressure/vulnerability, no blanket assent, actual kinship, mutual romance, clinical label or cured boundaries. |
+| `REL-1118` | `player-protagonist -> tamasaka-makoto` | Appears chiefly through her address/uptake: question about group, concern, need-not-disappear reassurance, taste reception, corrected dinner company, noise entry reason and perceived laughter. No full independent interior, unlimited permission, accepted diary debt, actual punishment or proven kind laughter. |
+| `REL-1119` | `tamasaka-makoto -> usuta-sumire` | C reports deep-flavor praise/recipe request while preserving family-secret presentation; no direct Sumire utterance or recipe delivery. B0141 sister/gift/corrective-care horizons remain, no new rivalry or blanket consent. |
+| `REL-1120` | `tamasaka-makoto -> uesugi-uebasu-kyoko` | E admits Kyoko's dinner presence and calls her cute within fear of losing manager. Retrospective jealous appraisal, no Kyoko-own romantic aim, theft act or objective rivalry. |
+| `REL-1121` | `tamasaka-makoto -> aihara-miu` | E admits Miu's dinner presence and treats cuteness as perceived threat to exclusive attention. Own fear, no Miu-own pursuit/intent or adjudicated affection transfer; existing Miu route unchanged. |
+| `REL-1122` | `tamasaka-makoto -> echizen-murasaki` | G reports borrowed makeup tools and adult-look imitation to attract manager, intends return. Practical/aspirational peer reference alongside B0179 instruction history, no actual return, present Murasaki speech or permanent beauty hierarchy. |
+
+Totals:1249 KNOW/1122 REL.102IDENTITY/84CHAR/29UNIT/29READY retain prior routes and full bodies; no new individual Makoto READY/R2. Named peers remain mediated within Makoto report, no newly invented peer-own turn or clinical/romantic/kinship certification.
 <!-- T7S ENTITY STATE PAYLOAD END -->

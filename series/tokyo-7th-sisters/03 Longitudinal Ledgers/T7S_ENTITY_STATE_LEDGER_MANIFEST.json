@@ -4,7 +4,7 @@
   "artifact_type": "logical_entity_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.25",
+  "version": "1.26",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -12,13 +12,13 @@
   "do_not_use_as_literary_evidence": true,
   "logical_artifact_id": "T7S_ENTITY_STATE_LEDGER",
   "current_owner_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 140 Intimacy primary documents across 19 family portfolios / T7S_B0182–T7S_B0200; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
+  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 147 Intimacy primary documents across 20 family portfolios / T7S_B0182–T7S_B0201; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-    "physical_bytes": 43935,
-    "physical_sha256": "f2d82f81abc58a2ed5da1662c8c75fac634c411ecd3fbd10dff543e2f2b2a3dd",
+    "physical_bytes": 44401,
+    "physical_sha256": "acd9cb96222fe4b670fea3483d69cc849b76a9ef2ecced2a2dac79c3ca2d0bab",
     "logical_prefix_bytes": 7715,
-    "logical_prefix_sha256": "23492697ea5791bc2f12950f030ca253e605aef20aaa3ebec0a12796783b41c4",
+    "logical_prefix_sha256": "7d8c2c1833c86e36ccd3a102e33ffb4a2110db92e48315f1944806014c1bdd9c",
     "route_marker": "<!-- T7S ENTITY STATE COMPONENT ROUTES -->"
   },
   "assembly_rule": "Read the exact owner prefix before the unique route marker, then append every ordered component payload byte range. Validate all full-file and payload byte lengths/hashes, paths, intervals, owner IDs, LF/UTF8 and complete ordering before treating the result as the logical ledger. Component terminators are metadata outside the declared payload range; original final blank lines remain inside that exact payload.",
@@ -58,11 +58,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "artifact_id": "T7S_ENTITY_STATE_COMPONENT_003",
-      "physical_bytes": 394124,
-      "physical_sha256": "7539fb20e285d23b56ae0cd4768cefa0b9964294a638cc186b563b1b13742a8f",
+      "physical_bytes": 401170,
+      "physical_sha256": "9ec70b433373b09045328bad775710f896120d2df886aca7ef2447e89455e7ef",
       "payload_offset_bytes": 712,
-      "payload_bytes": 393374,
-      "payload_sha256": "8bd6650675bc5466155178fbe0b8aa4fc2d5ac465fc044d2ab69792fb6806d53",
+      "payload_bytes": 400420,
+      "payload_sha256": "d30fbd0b3b8b985aea5cafd68c78135c6ac70513298c16c49fd40e14d5b84f36",
       "preserved_original_interval": [
         829500,
         990668
@@ -73,11 +73,11 @@
     }
   ],
   "parts_count": 3,
-  "logical_bytes": 1223451,
-  "logical_sha256": "22a7f80eb7d5671b12e66cc51cf56a7692d123e5b22f8eda84a3e0805742d4df",
+  "logical_bytes": 1230497,
+  "logical_sha256": "94df495aac064f9668107dbb2792b2f8d3f452a944b2e7d2c8270a77a209247f",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "last_source_high_water": "T7S_B0200",
+  "last_source_high_water": "T7S_B0201",
   "storage_transition": {
     "operation": "T7S_ENTITY_LEDGER_STORAGE_V1",
     "date": "2026-10-13",
@@ -960,17 +960,23 @@
       "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "component_anchor": "b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry",
       "heading": "B0200 Honoka's ordinary self and the happiness she chooses to carry"
+    },
+    {
+      "original_anchor": "b0201-makotos-offered-closeness-and-the-pressure-of-being-known",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0201-makotos-offered-closeness-and-the-pressure-of-being-known",
+      "heading": "B0201 Makoto's offered closeness and the pressure of being known"
     }
   ],
   "publication_scope": "This proposed representation has no effect until separately reviewed/applied/committed/published. Private proposal receipts remain noncurrent.",
   "latest_logical_append": {
-    "source_high_water": "T7S_B0200",
+    "source_high_water": "T7S_B0201",
     "date": "2026-10-29",
-    "logical_before_sha256": "519082475cedea23202f4ee16e3062e86eebaf6465bd99beaca8d27339801ccd",
-    "logical_after_sha256": "22a7f80eb7d5671b12e66cc51cf56a7692d123e5b22f8eda84a3e0805742d4df",
-    "addition_bytes": 11239,
-    "addition_sha256": "7b672d82deeb0b3bde96fbdb8d9de2720d1b6d8b7744f266a91b45f8e915e659",
-    "unchanged_older_body_sha256": "0f90b70455fcaf0eed7d4e74200c2b3e7a2b3737762c844ccb786a4866425bbb",
+    "logical_before_sha256": "22a7f80eb7d5671b12e66cc51cf56a7692d123e5b22f8eda84a3e0805742d4df",
+    "logical_after_sha256": "94df495aac064f9668107dbb2792b2f8d3f452a944b2e7d2c8270a77a209247f",
+    "addition_bytes": 7046,
+    "addition_sha256": "f3bf47c0454c94ce47859fbf7f34975de4160db345d574f78a9498d571b2d0fb",
+    "unchanged_older_body_sha256": "c790f94fa363f16af0fbc03d29e52b97e7295e33f6d76375b359cf7fb961e832",
     "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
     "sealed_older_components_byte_exact": true
   }
