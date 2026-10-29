@@ -5,14 +5,14 @@ artifact_type: longitudinal_ledger
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.44"
+version: "1.45"
 status: active_provisional
 scope: "Directional relational states and the lifecycle of rules, consent, negotiation and commitments"
-source_boundary: "I1 through E0020 plus five BW backfills and separately complete LN-JP-V10; original I1 continuous and E0021 next after whole E20 transaction; V1/future releases unopened"
+source_boundary: "I1 through E0021 plus five BW backfills and separately complete LN-JP-V10; original I1 continuous and E0022 next after wholeE21; V1/future releases unopened"
 canonical_home: series/shuukura/04 Longitudinal Ledgers/SHUUKURA_RELATIONSHIP_RULE_AND_BOUNDARY_LEDGER.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0020_SOURCE_AND_CUMULATIVE_COMPONENT_REVIEW_ACCEPTED
+review_status: E0021_SOURCE_AND_CUMULATIVE_COMPONENT_REVIEW_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,7 +21,9 @@ do_not_use_as_literary_evidence: true
 
 # Directional relationships, rules and boundaries
 
-Revision1.44 records complete E0020 only through its whole introducing transaction:232native paragraphs/147meaningful/85format-only;14root observations,15character events,18relational events,2principal projections/2directions/3readiness-role rows;32new propositions/5earlier successors/32information transitions/10tensions;4new OPEN claims/13earlier successors;0new rule IDs/4existing successors. Totals240claimIDs/762distinct versions/1269strict quoted rows;1262propositionIDs/1780versions;192ruleIDs/462pairs/481physical rows, retaining19legacy repeats. Source/finite/cumulative component review is accepted; whole-transaction and publication verification remain separate dispositions. Whole introducing commit alone yields47/458I1,52/463pre-LN10,53/464combined andWEB20/431; LN10 and23supplements remain complete. Sendai ownE20 and Miyagi observedE20 stay beside ownMiyagiE17 and later LN10 clocks. Original I1 continues at E21 after whole E20 commit; its full architectural terminal remains unfinished.18forecasts/13attempts,noncurrentUNTESTED M0.13/S0.14 and0validateddomains remain unchanged.
+Revision1.45 records complete E0021 only through its whole introducing transaction:147native/91meaningful/56format-only,2ruby/2readings;11root observations,10character events,14relational events,2principal projections/2directions/7supporting-role rows;27new propositions/2earlier successors/27information transitions/8tensions;4new OPEN claims/5earlier successors;0new rule IDs/3existing-rule successors. Totals244claimIDs/771distinct versions/1278strict quoted rows;1289propositionIDs/1809versions;192ruleIDs/465pairs/484physical rows,19legacy repeats. Source/finite/cumulative components are accepted; whole-transaction and publication checks remain separate. Whole introducing commit alone yields48/458I1,53/463pre-LN10,54/464combined andWEB21/431; tenLNvolumes/23supplements remain complete. Miyagi ownE21 and Sendai observedE21 retain ownSendaiE20, observedMiyagiE20 and all later novel clocks separately. No shown message receipt/arrival or proved weekly-count breach. Original I1 continues atE22 after wholeE21, with full architectural terminal unfinished.18forecasts/13attempts,noncurrentUNTESTED M0.13/S0.14 and0validateddomains unchanged.
+
+Prior E20 scope notice (preserved historical state): Revision1.44 records complete E0020 only through its whole introducing transaction:232native paragraphs/147meaningful/85format-only;14root observations,15character events,18relational events,2principal projections/2directions/3readiness-role rows;32new propositions/5earlier successors/32information transitions/10tensions;4new OPEN claims/13earlier successors;0new rule IDs/4existing successors. Totals240claimIDs/762distinct versions/1269strict quoted rows;1262propositionIDs/1780versions;192ruleIDs/462pairs/481physical rows, retaining19legacy repeats. Source/finite/cumulative component review is accepted; whole-transaction and publication verification remain separate dispositions. Whole introducing commit alone yields47/458I1,52/463pre-LN10,53/464combined andWEB20/431; LN10 and23supplements remain complete. Sendai ownE20 and Miyagi observedE20 stay beside ownMiyagiE17 and later LN10 clocks. Original I1 continues at E21 after whole E20 commit; its full architectural terminal remains unfinished.18forecasts/13attempts,noncurrentUNTESTED M0.13/S0.14 and0validateddomains remain unchanged.
 
 Prior LN10 scope notice (preserved historical state): Revision1.43 adds complete separately admitted LN-JP-V10:92 source-order observations/all31components/4405native paragraphs/23actual original-image views;36character events,26relational events,16directional projections;66new propositions/20older successors/15information tensions;3new OPEN claims/23older successors;6new finite/historical rules/19older successors. Totals:236claimIDs/745distinctversions/1252strict quoted physical rows;1230propositionIDs/1743versions;192ruleIDs/458distinctpairs/477physical rows, preserving19legacy repeats. Source analysis and four-ledger transaction are complete; bounded LN10 run records completed with both next operations NONE_LN10_RUN_COMPLETE, original I1 stays paused atE19. External publication verification remains pending until observed. Whole introducing commit alone gives52/464combined andLN10 1/1, leaving46/458I1,51/463pre-LN10,WEB19/431,Narō0/290,27discovery duties,4resolved/47unresolved of51gaps,23supplements unchanged.18forecasts/13attempts/M0.13/S0.14noncurrentUNTESTED/zero validated domains remain.
 
@@ -2612,3 +2614,52 @@ Sendai own WEB advances E19→E20; Miyagi observed/voiced advances to E20 while 
 | RULE-KAK-JP-E0001-001 / v3 | PRESERVE | No new payment/rate/refund; remembered mental exit and present request/order do not enact a new financial term. |
 | RULE-KAK-JP-E0005-002 / v7 | PRESERVE | Approximate private high-school-end expectation is not a new shared schedule/expiry or performed future visit. |
 | RULE-KAK-JP-E0005-003 / v2 | PRESERVE | Keep early hitting avowal distinct from the broader later recognized violence/application history; no new hitting prohibition or threatened strike performance. |
+
+## E0021 current source appendix — 2026-10-29
+
+Complete frozen E0021:147native paragraphs/91meaningful/56LF-br nodes,2ruby/2readings and11root OBS groups. Prospective entering freeze and three substantive source-order notes precede wholeQ1; current novel comparison and peer findings follow it. All original notes remain exact. Source/cumulative component review is accepted; whole-transaction and publication acceptance remain separate, and only the whole introducing commit advances coverage. These are familiar-source interpretations, not held-out tests.
+
+Miyagi own WEB advancesE17→E21 beside exact observedE20 history. Sendai observed WEB advancesE17→the instant corridor crossingE21, with ownSendaiE20 retained. No message receipt or transfer of private motives is shown. Later adult/historical LN10 states remain separate. New retrospective outcomes do not rewrite earlier cutoffs, and hearsay remains hearsay.
+
+[E0021 source and observation record](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0021_DEEP_READING.md#recoverable-observation-and-actor-clock-record).
+
+### E0021 append-only relational events
+
+| Event/version/prior | Witness/time | A → B | Initiative/response | Scope/access limit | Evidence | Claim |
+| --- | --- | --- | --- | --- | --- | --- |
+| `REL-KAK-JP-E0021-001` / v1 / NONE | Frozen KAK-A1 / later school day, past and future distinct | Miyagi private→Sendai | Study concern and self-limitation | Private once-weekly decision is not a mutual contract or counted breach. | OBS-E0021-001; p1–12 | CLM-KAK-JP-E0021-001 |
+| `REL-KAK-JP-E0021-002` / v1 / NONE | Frozen KAK-A1 / later school day, past and future distinct | Maika/Ami↔Miyagi | Actual school companionship/reminder | Teacher report is mediated; friends have positive activity beyond the paid dyad. | OBS-E0021-002; p14–40 | CLM-KAK-JP-E0021-004 |
+| `REL-KAK-JP-E0021-003` / v1 / NONE | Frozen KAK-A1 / later school day, past and future distinct | Maika↔Miyagi | Arm question/denial/awareness and hand removal | Visible behavior does not disclose trace maker or full private meaning. | OBS-E0021-003; p42–57 | CLM-KAK-JP-E0021-002 |
+| `REL-KAK-JP-E0021-004` / v1 / NONE | Frozen KAK-A1 / later school day, past and future distinct | Ami/Maika↔Miyagi | Pause, pull/back pat and uncorrected cause attribution | Resisted possible wish and correction remain private. | OBS-E0021-004; p59–71 | CLM-KAK-JP-E0021-002; CLM-KAK-JP-E0021-004 |
+| `REL-KAK-JP-E0021-005` / v1 / NONE | Frozen KAK-A1 / later school day, past and future distinct | Maika↔Miyagi | Juku invitation and provisional reply | Companionship imagined privately; no actual plan or enrollment. | OBS-E0021-005; p73–88 | CLM-KAK-JP-E0021-004 |
+| `REL-KAK-JP-E0021-006` / v1 / NONE | Frozen KAK-A1 / later school day, past and future distinct | Miyagi private→Sendai | Imagined shared prep school immediately rejected | No communicated wish, joint school future or consciously settled motive. | OBS-E0021-005; p81–84 | CLM-KAK-JP-E0021-004 |
+| `REL-KAK-JP-E0021-007` / v1 / NONE | Frozen KAK-A1 / later school day, past and future distinct | Miyagi↔Sendai / public group context | Instant eye contact and agreed noncontact enacted | No greeting/new negotiation; school-possession metaphor is focalized. | OBS-E0021-006; p90–104 | CLM-KAK-JP-E0021-003 |
+| `REL-KAK-JP-E0021-008` / v1 / NONE | Frozen KAK-A1 / later school day, past and future distinct | Miyagi private→Sendai | Declared convention acceptance beside uneasy renewed wish | No rule-change demand or message yet by110. | OBS-E0021-007; p106–110 | CLM-KAK-JP-E0021-001; CLM-KAK-JP-E0021-003 |
+| `REL-KAK-JP-E0021-009` / v1 / NONE | Frozen KAK-A1 / later school day, past and future distinct | Maika→Miyagi/Ami | Rumor of apparent confession received | Heard proposition, not verified event or Sendai response. | OBS-E0021-008; p112–125 | CLM-KAK-JP-E0021-003 |
+| `REL-KAK-JP-E0021-010` / v1 / NONE | Frozen KAK-A1 / later school day, past and future distinct | Miyagi private→Sendai/Maika information distribution | Limited sharing acknowledged but other-source discovery disliked | No exclusive information entitlement, settled romance or deliberate concealment proved. | OBS-E0021-009; p127–138 | CLM-KAK-JP-E0021-003 |
+| `REL-KAK-JP-E0021-011` / v1 / NONE | Frozen KAK-A1 / later school day, past and future distinct | Miyagi↔friends | Unknown-boy answer and question about source | Actual ignorance answer does not reveal the whole private reaction. | OBS-E0021-009; p129–138 | CLM-KAK-JP-E0021-003 |
+| `REL-KAK-JP-E0021-012` / v1 / NONE | Frozen KAK-A1 / later school day, past and future distinct | Maika→Miyagi/Ami | Same-juku source link then topic shift | More precise chain does not corroborate gossip or reveal next rumor content. | OBS-E0021-010; p139–141 | CLM-KAK-JP-E0021-003; CLM-KAK-JP-E0021-004 |
+| `REL-KAK-JP-E0021-013` / v1 / NONE | Frozen KAK-A1 / later school day, past and future distinct | Miyagi private→Sendai schedule | Prep day/tomorrow expectation and concern | Existing accommodation recognized; no new reply or performed next-day visit. | OBS-E0021-011; p143–145 | CLM-KAK-JP-E0021-001 |
+| `REL-KAK-JP-E0021-014` / v1 / NONE | Frozen KAK-A1 / later school day, past and future distinct | Miyagi→Sendai message destination | Actual usual-message send after PE | No exact content/receipt/response/arrival/fee or proved numeric weekly violation. | OBS-E0021-011; p147 | CLM-KAK-JP-E0021-001; CLM-KAK-JP-E0021-004 |
+
+### E0021 directional projections
+
+| Direction/boundary | Prior → current | Wants/action | Access/strongest limit | Evidence |
+| --- | --- | --- | --- | --- |
+| DIR-KAK-JP-E0021-M_TO_S-v1 / M own | DIR-KAK-JP-E0017-M_TO_S-v1 → M-KAK-E0021-RESOLVED-RESTRAINT-AND-ACTUAL-SUMMONS | Private concern/restraint, resisted trace interpretation, unease and uneven-information discomfort; actual after-PE send. | Own access advances without importing Sendai E20private account or proving complete romance/sole motive/weekly breach. | OBS-E0021-001; OBS-E0021-003; OBS-E0021-004; OBS-E0021-005; OBS-E0021-006; OBS-E0021-007; OBS-E0021-008; OBS-E0021-009; OBS-E0021-010; OBS-E0021-011 |
+| DIR-KAK-JP-E0021-S_TO_M-OBSERVED-v1 / S observed | DIR-KAK-JP-E0017-S_TO_M_OBSERVED-v1 → S-KAK-E0021-HALLWAY-PASSING-OBSERVED | Instant public eye contact and passing; no utterance or later response represented. | Own DIR-KAK-JP-E0020-S_TO_M-v1 retained. No automatic receipt of message/rationale or whole Sendai intention. | OBS-E0021-006 |
+
+### E0021 existing-rule successors
+
+| Rule/version | Parties/domain | Bounded formulation | Recognition/access | Evidence | Status | History |
+| --- | --- | --- | --- | --- | --- | --- |
+| `RULE-KAK-JP-E0005-002` / v8 | Miyagi and Sendai / existing source-specific term | Retain complete v7 and every predecessor. E21 later annotation: Miyagi's private once-weekly resolution/concern and current knowledge that a prep-day summons would mean tomorrow are newly disclosed. She actually sends after PE; no earlier same-week count, new bilateral ceiling, changed rate/expiry or performed next-day arrival is shown. | Private recognition/current conduct distinct from new shared negotiation | OBS-E0021-001; OBS-E0021-007; OBS-E0021-011; p1–12,106–110,143–147 | EXISTING SCHEDULE / PRIVATE SELF-LIMIT AND EXPECTATION / SEND ONLY | v7 exact; no new rule ID |
+| `RULE-KAK-JP-E0002-001` / v6 | Miyagi and Sendai / existing source-specific term | Retain complete v5 and every predecessor. E21 later annotation: Maika observes repeated arm touching and guesses a teacher-related reason for a pause; Miyagi leaves that cause uncorrected. The private relation and trace maker are not disclosed. Preserve distinct confidentiality/visibility scopes; neither perfect invisibility nor actual exposure of the paid relation follows. | Private recognition/current conduct distinct from new shared negotiation | OBS-E0021-003; OBS-E0021-004; OBS-E0021-006; p42–71,90–104 | EXISTING CONFIDENTIALITY / OUTSIDE BEHAVIOR NOTICED WITHOUT CAUSE DISCLOSURE | v5 exact; no new rule ID |
+| `RULE-KAK-JP-E0005-006` / v4 | Miyagi and Sendai / existing source-specific term | Retain complete v3 and every predecessor. E21 later annotation: Miyagi and Sendai briefly meet eyes/pass without speaking or waving; Miyagi acknowledges the school agreement and avows no dissatisfaction. After PE she uses the usual message channel; no exact content or receipt is shown. Keep this practice distinct from the broader confidentiality term and no new school silence agreement. | Private recognition/current conduct distinct from new shared negotiation | OBS-E0021-006; OBS-E0021-011; p90–104,143–147 | EXISTING SCHOOL/PHONE PRACTICE / CURRENT NONCONTACT AND SENT MESSAGE | v3 exact; no new rule ID |
+
+### E0021 retained rule endpoints
+
+| Exact prior endpoint | Disposition | Reason |
+| --- | --- | --- |
+| RULE-KAK-JP-E0001-001.v3 / RULE-KAK-JP-E0001-002.v16 | PRESERVE | No new financial act, fee or quoted order/enforced task. A sent summons does not perform paid attendance. |
+| RULE-KAK-JP-E0003-001.v6 / RULE-KAK-JP-E0005-004.v4 | PRESERVE | No new dyadic bodily negotiation, stopped contact or violence adjudication. Retrospective fading does not erase earlier pain/refusal or settle future permission. |

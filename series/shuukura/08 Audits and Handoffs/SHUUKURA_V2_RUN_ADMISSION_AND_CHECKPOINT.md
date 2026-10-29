@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.51"
+version: "1.52"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0020 through whole transactions; original I1 continuous, E0021 next after whole E20 commit, all dependent stages retained; separate immutable BW/LN10 additions; V1/future releases unopened"
+source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0021 through whole transactions; original I1 continuous, E0022 next after wholeE21, all dependent stages retained; separate immutable BW/LN10 additions; V1/future releases unopened"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: E0020_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
+review_status: E0021_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,6 +19,12 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Run admission and checkpoint
+
+## Current E0021 source transaction — 2026-10-29
+
+Latest wholeE21reading/audit/ledger/run transaction alone yields54/464combined,48/458originalI1,53/463pre-LN10 andWEB21/431. Four logical ledgers become1.45:244claims/771versions/1278strict rows;1289propositions/1809versions;192rules/465pairs/484rows with19legacy repeats. The claims master preserves all history throughE20 and routes to continuation01; this size-compliant physical split adds no logical responsibility or reset. All6110oldtablelines/static disclosure master remain exact.
+
+OwnMiyagiE21and observedSendaiE21retain ownSendaiE20/observedMiyagiE20/laterLN10clocks. No counted weeklybreach, confirmed confession/date or message receipt/reply/arrival is shown. Current I1 stays active/continuous, high-waterE21/nextE22only through the whole commit, full original terminal/dependencies and confirmationfalse retained. Source/finite/cumulative components are accepted; finalINDEX/commit/push/readback/current-headCI remain separate. E20's actual source audit40967349923passed486tests/10481paths; it does not certifyE21or protectedmain.23supplements/10LNcomplete,51gaps(4resolved/47unresolved),27discovery,Narō0/290,18forecasts/13attempts/noncurrentUNTESTED M0.13S0.14/0validateddomains remain. BothOFFarchives stay local; V1/future releases unopened. Earlier dated states below remain history.
 
 ## Current E0020 source transaction — 2026-10-29
 
@@ -1788,3 +1794,21 @@ Current original I1 remains **continuous_sequential / active**, startLN-JP-V01, 
 The preceding actual c782e058423577a1b5988fb5461d40eb39e41b13source passed required audit40819167451 (10,472paths/486tests; trusted status57542128615). PR370merged it2026-10-29T04:48:46Z as e91d35a36fb1cde476b9f5a6190052f18821e88b. Ownerccdc9b08's two source-admission labels are preserved. Actual maindd40783ae42445a09013d11c20eb95ce441b5b90 was ordinarily adopted at53b8ad9737ad856b24fe35f46b2d38f325cd1b12; all source/ledger/frozen inputs remain exact. That previous source success is not E20CI or certification of current main's own audit.
 
 Final full INDEX, approved identities, ordinary commit/push/full changed-blob readback and the new actual-head audit remain separate publication evidence. Owner/CI retains protected-main integration and housekeeping. No controls, provider settings, comparison refs, generated indexes or global character registries are authored here. The current entrypoint owns operational state; the original notes/frozen inventories and dated E19/LN10/resumption metadata remain history at their own clocks.
+
+## E0021 restraint, vanished trace and unequal information — 2026-10-29
+
+The complete frozen E21source, finite original LN01counterpart and four-logical-ledger reconciliation are accepted components of this ten-path introducing transaction. Its whole commit alone advancesWEB21/431,48/458I1,53/463pre-LN10 and54/464combined. Ten acquired LNvolumes and23supplements remain complete; Narō0/290,51historical gaps(4resolved47unresolved) and27discovery duties remain. Original I1/BW/LN10membership/hashes and all source notes are immutable.
+
+Miyagi's study-related concern/private once-weekly resolution precedes renewed wishes and an actual after-PE usual-message send, without a same-week count proving a quota breach or a new shared rule. Her arm trace is reported faded before two days while habitual touching draws Maika's attention. A teacher-cause guess is left uncorrected, not certified as either friend's settled belief. Maika/Ami's real company and juku invitation coexist with a rejected Sendai-prep-school hypothetical. Public noncontact under the agreement leaves unease; confession gossip reaches Miyagi through an unnamed same-juku source. Limited sharing/discomfort are disclosed, not a verified confession/date, settled romance or exclusive information right. Message words/receipt/reply/arrival/fee remain unshown.
+
+All147native nodes/current generic title and2rubyreadings were actually read as1–49/50–98/99–147, with substantive seals between and wholeQ1before current comparison/peer findings.91nodes are meaningful/56LF-br; all11root observations cover everymeaningful node, while9omitted thematic boundaries are LF-only. Miyagi own advancesE17→E21; observedSendai advancesE17→only the hallway crossing. OwnSendaiE20and observedMiyagiE20remain exact; no private-clause transfer or later adult/historical LN10backdating.
+
+Root read acquired LN01part0018native1–86before comparator meanings: story5–86has82meaningful/12ruby23rt/0media; currentframing1–4adds1meaningful/3LF/1ruby2rt.86is a finite cutoff inside399, not memberend;87plusunread. Fullmap147WEB/82LNonce has81components(72single/8joins/1two-to-two repartition),43equal/38changedbases,11annotationchangesincluding6annotationonly,44manualchangedcomponents,187reversible opcodes/12semanticgroups. Root verified allorigins/slices/annotations/coordinates/inverses and read everychangedassessment. Novel-only neighboring-class/rumor-time/framing remains attributed.
+
+Four logicalledgers become1.45 across5changingphysicalfiles plus the static disclosuremaster:10CHR/14REL,2principal projections/2directions/7supporting-role rows;27newPROP/2successors/27EPI/8tensions;4newOPENclaims/5successors;0newRULEids/3successors. Totals244claimIDs/771versions/1278strict rows;1289propositionIDs/1809versions;192rules/465pairs/484rows with19legacy repeats. All6110older maintained tablelines remain exact. Claims continuation01keeps the master throughE20and newE21rows separate within one logicalledger, meeting the actual1MiBthreshold without exception or history reset. PreservedA1oversize/A2precision+split/A3question-versus-belief/A4one-LFrepair and all exact inverses remain private evidence.
+
+Independent source/Q2accepted339effectivechecks/13manuals; the same reviewer's cumulativeA4accepted161checks/16manuals. Root finite acceptance is a separate original/map/manual scope. No extra independent-source-person, currentmodelscore or validateddomain is inferred. All18forecasts/13historical attempts, failures/ties/exposurelimits and Sendaiinput-locationdefect remain. M0.13/S0.14are draft_noncurrent/UNTESTED,0validateddomains; monographs/specialists/reconstruction/G3–G7unfinished.
+
+Previous actual E20source5d8245b4c33df608c0007eafd1282f9b2160accdpassed ownerpush audit40967349923attempt1,486tests/10481paths/0failures-errors-skips, trustedstatus57626881976/github-actions[bot]41898282exactrun. Fresh23:09:58UTCrefs are source5d824/mainDD407with PR381OPEN/unmerged and no newcontrols/Shuukurachanges. Prior sourcegreen enables this next major push but does not certifyE21or protectedmain. This transaction still needs wholeassemblyreview, finalINDEX, approvedidentities, ordinarycommit/push/fullchanged-blobreadback and its own actual-headCI. Owner/CI retains protected-main/globalmaintenance; no controls, provider settings, indexes/registries or syntheticrefs are changed.
+
+Current run remains continuous_sequential/active, startLN-JP-V01, terminalSHUUKURA-V2-20261017-I1, high-waterE21/nextcandidate+permittedE22only through the whole commit, confirmationfalse. E22requires prospective entering/source controls after that whole commit, with E21actual published-headgreen before the nextmajorpush. Full original correspondence/discovery/reconciliation/monograph/specialist/reconstruction/V1comparison/synthesis/release duties remain; E21orE431alone is no substitute terminal. Separate completedLN10 and all dated pauses remain historical. BothOFFarchives staylocal; future releases/prematureV1excluded.

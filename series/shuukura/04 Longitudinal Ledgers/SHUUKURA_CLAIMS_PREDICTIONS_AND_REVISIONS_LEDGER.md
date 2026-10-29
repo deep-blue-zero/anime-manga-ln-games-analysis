@@ -5,14 +5,14 @@ artifact_type: longitudinal_ledger
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.44"
+version: "1.45"
 status: active_provisional
 scope: "Versioned interpretation, falsifiable predictions, counterevidence and post-freeze historical comparison"
-source_boundary: "I1 through E0020 plus five BW backfills and separately complete LN-JP-V10; original I1 continuous and E0021 next after whole E20 transaction; V1/future releases unopened"
+source_boundary: "I1 through E0021 plus five BW backfills and separately complete LN-JP-V10; original I1 continuous and E0022 next after wholeE21; V1/future releases unopened"
 canonical_home: series/shuukura/04 Longitudinal Ledgers/SHUUKURA_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0020_SOURCE_AND_CUMULATIVE_COMPONENT_REVIEW_ACCEPTED
+review_status: E0021_SOURCE_AND_CUMULATIVE_COMPONENT_REVIEW_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,7 +21,11 @@ do_not_use_as_literary_evidence: true
 
 # Claims, predictions, revisions and V1 reconciliation
 
-Revision1.44 records complete E0020 only through its whole introducing transaction:232native paragraphs/147meaningful/85format-only;14root observations,15character events,18relational events,2principal projections/2directions/3readiness-role rows;32new propositions/5earlier successors/32information transitions/10tensions;4new OPEN claims/13earlier successors;0new rule IDs/4existing successors. Totals240claimIDs/762distinct versions/1269strict quoted rows;1262propositionIDs/1780versions;192ruleIDs/462pairs/481physical rows, retaining19legacy repeats. Source/finite/cumulative component review is accepted; whole-transaction and publication verification remain separate dispositions. Whole introducing commit alone yields47/458I1,52/463pre-LN10,53/464combined andWEB20/431; LN10 and23supplements remain complete. Sendai ownE20 and Miyagi observedE20 stay beside ownMiyagiE17 and later LN10 clocks. Original I1 continues at E21 after whole E20 commit; its full architectural terminal remains unfinished.18forecasts/13attempts,noncurrentUNTESTED M0.13/S0.14 and0validateddomains remain unchanged.
+The current [claims continuation01](SHUUKURA_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER_CONTINUATION_01.md) continues this same logical claims/predictions/revisions ledger from E0021. This master preserves all historical rows throughE20. Read both files for complete claim/version/forecast history; identifiers and forecasts are not duplicated or reset. The physical split keeps both files below the repository's1MiB review threshold and creates no new ledger responsibility.
+
+Revision1.45 records complete E0021 only through its whole introducing transaction:147native/91meaningful/56format-only,2ruby/2readings;11root observations,10character events,14relational events,2principal projections/2directions/7supporting-role rows;27new propositions/2earlier successors/27information transitions/8tensions;4new OPEN claims/5earlier successors;0new rule IDs/3existing-rule successors. Totals244claimIDs/771distinct versions/1278strict quoted rows;1289propositionIDs/1809versions;192ruleIDs/465pairs/484physical rows,19legacy repeats. Source/finite/cumulative components are accepted; whole-transaction and publication checks remain separate. Whole introducing commit alone yields48/458I1,53/463pre-LN10,54/464combined andWEB21/431; tenLNvolumes/23supplements remain complete. Miyagi ownE21 and Sendai observedE21 retain ownSendaiE20, observedMiyagiE20 and all later novel clocks separately. No shown message receipt/arrival or proved weekly-count breach. Original I1 continues atE22 after wholeE21, with full architectural terminal unfinished.18forecasts/13attempts,noncurrentUNTESTED M0.13/S0.14 and0validateddomains unchanged.
+
+Prior E20 scope notice (preserved historical state): Revision1.44 records complete E0020 only through its whole introducing transaction:232native paragraphs/147meaningful/85format-only;14root observations,15character events,18relational events,2principal projections/2directions/3readiness-role rows;32new propositions/5earlier successors/32information transitions/10tensions;4new OPEN claims/13earlier successors;0new rule IDs/4existing successors. Totals240claimIDs/762distinct versions/1269strict quoted rows;1262propositionIDs/1780versions;192ruleIDs/462pairs/481physical rows, retaining19legacy repeats. Source/finite/cumulative component review is accepted; whole-transaction and publication verification remain separate dispositions. Whole introducing commit alone yields47/458I1,52/463pre-LN10,53/464combined andWEB20/431; LN10 and23supplements remain complete. Sendai ownE20 and Miyagi observedE20 stay beside ownMiyagiE17 and later LN10 clocks. Original I1 continues at E21 after whole E20 commit; its full architectural terminal remains unfinished.18forecasts/13attempts,noncurrentUNTESTED M0.13/S0.14 and0validateddomains remain unchanged.
 
 Prior LN10 scope notice (preserved historical state): Revision1.43 adds complete separately admitted LN-JP-V10:92 source-order observations/all31components/4405native paragraphs/23actual original-image views;36character events,26relational events,16directional projections;66new propositions/20older successors/15information tensions;3new OPEN claims/23older successors;6new finite/historical rules/19older successors. Totals:236claimIDs/745distinctversions/1252strict quoted physical rows;1230propositionIDs/1743versions;192ruleIDs/458distinctpairs/477physical rows, preserving19legacy repeats. Source analysis and four-ledger transaction are complete; bounded LN10 run records completed with both next operations NONE_LN10_RUN_COMPLETE, original I1 stays paused atE19. External publication verification remains pending until observed. Whole introducing commit alone gives52/464combined andLN10 1/1, leaving46/458I1,51/463pre-LN10,WEB19/431,Narō0/290,27discovery duties,4resolved/47unresolved of51gaps,23supplements unchanged.18forecasts/13attempts/M0.13/S0.14noncurrentUNTESTED/zero validated domains remain.
 
