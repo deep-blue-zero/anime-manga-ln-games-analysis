@@ -4,16 +4,16 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.92"
+version: "11.93"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 84 Intimacy primary documents across 10 family portfolios / T7S_B0182–T7S_B0191; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 89 Intimacy primary documents across 11 family portfolios / T7S_B0182–T7S_B0192; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-28
+last_updated: 2026-10-29
 ---
 
 # Tokyo 7th Sisters story chronology and causal state ledger
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1173`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1323`; `last_closed_block = T7S_B0191`. The admitted horizon contains 599 primary documents: 235 Main, 280 i-n-g and 84 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 84 Intimacy documents across 10 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1178`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1328`; `last_closed_block = T7S_B0192`. The admitted horizon contains 604 primary documents: 235 Main, 280 i-n-g and 89 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 89 Intimacy documents across 11 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3885,3 +3885,25 @@ Owner [B0191](../02%20Readings/T7S_B0191_DEEP_READING.md), reading SHA256 `ba97c
 | `EDGE-1330` | `EV-B0191-005` ↔ `EV-B0191-006` | `PROTECTED_READING_AND_BROADCAST_WINDOW_COMPARISON`: two leisure claims recruit different temporal urgency; no completed leave, common program or total chronology. |
 
 Totals: 1173 EV, 25 WORLD, 47 THREAD and 1323 active EDGE records. Maximum EDGE1330 retains the seven pre-existing non-active gaps. No cross-case BEFORE edge or institutional/fictional-world event is invented.
+
+## B0192 Nicole's selected listeners and passing idol world
+
+Owner [B0192](../02%20Readings/T7S_B0192_DEEP_READING.md), reading SHA256 `84fea3c716cab630dbcfcf93e3bca125cbf071041fed299f5f583e809fc6efe0`; complete family200840 / route NM-INTIMACY-200840, five primary documents, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.98. The complete prospective B0191/12.97 source/coverage/entity views and25 physical before-images were frozen at827a0221ccc2156307543c62a973ad8cc222325c before primary access. Separate Git-only reconciliation reaches integration base2c964d2ef1785dc48ca9de26078121d7aad0c48b with the exact same T7S tree and before-images. The reading's A-E key binds exact scripts and zero-based primary locators. All five are independent conditional occurrences; title/menu/cue order supplies no total chronology or actual unlock date.
+
+| ID | Complete primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0192-001` | A:401000105 P0-3 | Nicole greets a limited group of Seven Sisters fans, reports happiness at meeting warm fans, attributes idol support to their love, requests continuing support and promises the idols' continuing regard. | `SELECTED_PLURAL_FAN_ADDRESS_AND_OWN_RECIPROCITY_CLAIM`; no own fan reply, verified delivery, private manager encounter or separately ratified all-idol consensus. |
+| `EV-B0192-002` | B:401000626 P0-5 | Calls for song checking/downloads, reports watching girls' covers, praises their quality, imagines future idols and asks support for those girls as well as the Sisters. | `PROMOTIONAL_CALL_AND_PROSPECTIVE_GENERATIVITY`; no played video, named girl, analyst quality test, completed debut or institution policy. |
+| `EV-B0192-003` | C:401001338 P0-5 | Offers selected listener a secret: Sisters' HoloComs supposedly combine into a giant named robot with the Sisters as pilots; attributes disbelief and playfully threatens withheld beam protection. | `FANTASTIC_DEVICE_CLAIM_AND_ATTRIBUTED_UPTAKE`; no actual robot/invasion/piloting, established device function, own listener turn, explicit retraction or certain deliberate-lie finding. |
+| `EV-B0192-004` | D:401001770 P0-5 | Self-dramatizes, reports startlement by Akiba Seven hologram advertising, reflects on entertainment's pace and idols being left behind, and tentatively calls idols a moment associated with chest pain. | `REPORTED_SURPRISE_AND_QUALIFIED_IMPERMANENCE_REFLECTION`; no played ad, heard cry, actual terrorism, clinical finding, settled theory or advance dissolution knowledge. |
+| `EV-B0192-005` | E:401003025 P0-5 | Hopes message reaches listener, reports busy national tour/Osaka3rd appraisal, admits hard idol work, credits national/overseas audiences with courage, and asks continued love despite distance while promising regard. | `TOUR_ACCOUNT_AND_DISTANCE_AFFECTION`; uncertain reception retained, no independently verified itinerary/food/census, own audience answer or exclusive individual romance. |
+
+| ID | Compared events | Typed relationship and limit |
+| --- | --- | --- |
+| `EDGE-1331` | `EV-B0192-001` / `EV-B0192-005` | `FAN_SUPPORT_AND_RETURNED_REGARD_FORMAL_COMPARISON`: gratitude and promised thought persist across reported distance; no A-before-E, measured reciprocity or verified reception. |
+| `EDGE-1332` | `EV-B0192-002` / `EV-B0192-004` | `FUTURE_TALENT_AND_POSSIBLE_IDOL_BREVITY_COMPARISON`: delight in possible successors coexists with tentative pain about passing presence; no causal resolution, shared date or dissolution forecast. |
+| `EDGE-1333` | `EV-B0192-003` / `EV-B0192-004` | `FANTASTIC_MASTERY_AND_REPORTED_TECHNOLOGICAL_SURPRISE`: protective robot hyperbole and startlement give different relations to technology; no verified mechanism, hypocrisy diagnosis or event sequence. |
+| `EDGE-1334` | `EV-B0192-004` / `EV-B0192-005` | `MOMENT_AND_CONTINUING_AFFECTION_FORMAL_COMPARISON`: tentative brevity and promised regard remain different objects; no eternal stamina, reversed reflection or chronology. |
+| `EDGE-1335` | `EV-B0192-001` / `EV-B0192-003` | `SELECTED_AUDIENCE_AND_SELECTED_SECRET_COMPARISON`: limited plural fan message and singular secret construct closeness differently; neither supplies a private Player exchange or counterpart-own assent. |
+
+Totals:1178 EV,25 WORLD,47 THREAD and1328 active EDGE records; maximum EDGE1335 retains the seven older non-active gaps. No new BEFORE edge, world mechanism or institutional event is invented.

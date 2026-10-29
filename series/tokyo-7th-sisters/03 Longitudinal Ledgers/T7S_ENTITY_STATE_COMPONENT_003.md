@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.16"
+version: "1.17"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,9 +12,9 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0191; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0192; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
-last_updated: 2026-10-28
+last_updated: 2026-10-29
 ---
 
 <!-- T7S ENTITY STATE PAYLOAD BEGIN -->
@@ -1356,4 +1356,37 @@ Owner [B0191](../02%20Readings/T7S_B0191_DEEP_READING.md), source-lock 12.97, wi
 | `REL-1074` | `serizawa-momoka → Nanasta` | Proposes reform, hyperbolically declares no need for the place and states manager presence there as a continuing-idol reason in separate occurrences. B/F/H. No resignation, membership change or institutional rule. |
 
 Totals: 1047 KNOW and 1074 REL. The 102 IDENTITY, 84 CHAR, 29 UNIT and 29 readiness decisions remain. READY0005 retains complete B0006/R2_STATE_BOUNDED/MONOGRAPH_NOT_READY and its full missing multimodal/longitudinal obligations. Later Main evidence is retained at its own horizon, with no backdated explanation or 2053 admission.
+
+## B0192 Nicole's audience-facing states and existing Coney route
+
+Owner [B0192](../02%20Readings/T7S_B0192_DEEP_READING.md), source-lock 12.98, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; the reading's A-E source key binds full primary ranges. Established `IDENTITY-0003/CHAR-0003/rokusaki-connie-presented` is presented here as 七咲ニコル/Nicole, with `UNIT-0001` Seven Sisters. Later Coney and Player disclosure retain their admitted Main horizons; resource001 creates no new machine/master identity or Player knowledge. Fans and cover-video girls remain intentionally unnamed.
+
+| Existing subject | Qualified addition | Resistant state and missing access retained |
+| --- | --- | --- |
+| `CHAR-0003` / Nicole-Coney literary route | Nicole formulates a selected public audience, attributes courage/support to fans, welcomes possible future idols, plays with protective grandeur and tentatively acknowledges passing idol presence. | Earlier Nicole's catalytic/control costs, Mito's autonomy, later Coney's practical care/covert pressure/boundary failures, Ume's grievance/non-forgiveness and Rona's imitation-versus-relational-courage distinction remain. No complete private motive, moral cure, permanent Nanasta command restoration or maturity promotion. |
+| `UNIT-0001` / Seven Sisters | Nicole speaks of the group's support/dependence, invites love for it and imagines its pilots and possible successors beyond it. | Other members contribute no new own turn; no new member, collective doctrine, actual robot, revised dissolution date or institutional rule. |
+| Addressed unnamed fans | Are thanked, singled out, asked for support, credited with encouragement and assigned apparent disbelief by Nicole's speech. | Their own reply, actual reception, belief, emotional state and reciprocal exclusive bond remain unavailable. Player is not silently substituted for this audience. |
+| Unnamed girls in Nicole's cover-video account | Are praised by Nicole and presented as possible future idols deserving audience support. | No independently played video, name resolution, completed debut or own girl/fan reply. |
+
+| ID | Holder and qualified state | Range and missing access |
+| --- | --- | --- |
+| `KNOW-1048` | Nicole selects a limited fan audience and reports happiness at warm fans whose love supports idols. | A:P1-2; own gratitude/dependence formulation, no measured universality or verified meeting/reception. |
+| `KNOW-1049` | Requests continued support and declares the idols also think of fans. | A:P3; speaker's plural assurance, no own turn from every Sister or audience. |
+| `KNOW-1050` | Calls for song checking/downloads and reports seeing high-quality girls' cover videos. | B:P1-2; own report/appraisal, no actual media play or analyst technical verdict. |
+| `KNOW-1051` | Imagines possible future idols among those girls and asks listeners to support them too. | B:P3-5; prospective invitation, no named debut or adopted market policy. |
+| `KNOW-1052` | Asserts selected-secret HoloCom transformation/combination into GodSevenZetaWing with the Sisters as pilots. | C:P1-4; fantastic speaker claim, no independently demonstrated device, pilot organization or machine identity. |
+| `KNOW-1053` | Attributes disbelief, threatens withheld beam protection and demands faith in town-protecting idols. | C:P5; attributed uptake and fantastic threat, no listener-own reply or actual rescue refusal. |
+| `KNOW-1054` | Self-dramatizes as idol terrorist and reports startled cry at hologram advertising after Akiba Seven passage. | D:P1-3; metaphor/report, no violent act, played advertisement or audible cry. |
+| `KNOW-1055` | Reflects that entertainment/advertising evolve and idle idols risk being left behind. | D:P4; own generalization/conditional risk, no independently measured technological law. |
+| `KNOW-1056` | Sometimes thinks such change may be good, tentatively calls idols a moment and associates it with aching chest. | D:P5; qualified reflection, no clinical diagnosis, settled theory or foreknown dissolution. |
+| `KNOW-1057` | Hopes for proper message receipt, reports national tour/Osaka3rd food-town appraisal and difficult idol work. | E:P1-3; uncertain delivery and speaker itinerary/appraisal, no independently verified journey or meal. |
+| `KNOW-1058` | Credits Japanese/overseas fans with courage, rhetorically praises the addressed audience and asks love across distance while promising continued thought. | E:P3-5; own comparison/promise, no world census, own fan declaration, exclusive romance or permanent stamina. |
+
+| ID | Direction | Qualified state and limit |
+| --- | --- | --- |
+| `REL-1075` | `rokusaki-connie-presented as Nicole -> addressed unnamed fans` | A/C/E select, thank and solicit the audience, attribute support/courage and apparent disbelief, promise thought and play at protection. This is Nicole's speech toward fans; no newly authored Player exchange, verified delivery, fan-own belief or reciprocal romantic agreement. |
+| `REL-1076` | `rokusaki-connie-presented as Nicole -> unnamed cover-video girls` | B reports watching/praising their singing and invites support for possible future talent beyond the Sisters. No named girl, completed debut, actual technical review or own girl's response. |
+| `REL-1077` | `rokusaki-connie-presented as Nicole -> Seven Sisters` | A/C/D/E use plural idol/group language to formulate dependence, fantastic protection, possible brevity and continuing audience ties; B permits support beyond the group. No separate member ratification, new group policy, robot capability, revised chronology or permanent Nanasta role. |
+
+Totals:1058 KNOW and1077 REL. The102 IDENTITY,84 CHAR,29 UNIT and29 readiness decisions remain. READY0018 retains its full Main-through-retrospective-EP0.7/B0063, R2_STATE_BOUNDED/MONOGRAPH_NOT_READY decision and missing performed/longitudinal/biographical/accountability evidence. No R3 or2053 admission.
 <!-- T7S ENTITY STATE PAYLOAD END -->
