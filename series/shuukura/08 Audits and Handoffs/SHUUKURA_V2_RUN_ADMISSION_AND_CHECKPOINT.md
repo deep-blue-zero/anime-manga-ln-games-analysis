@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.50"
+version: "1.51"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0019; original I1 continuous execution resumed at E0020, with dependent architectural stages retained; separate immutable BW/LN10 additions, V1/future releases unopened"
+source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0020 through whole transactions; original I1 continuous, E0021 next after whole E20 commit, all dependent stages retained; separate immutable BW/LN10 additions; V1/future releases unopened"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: OWNER_RESUMPTION_RECOVERY_RECORDED_NO_NEW_SOURCE_CREDIT
+review_status: E0020_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,6 +19,12 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Run admission and checkpoint
+
+## Current E0020 source transaction — 2026-10-29
+
+The latest E0020checkpoint below records accepted full original/finite/cumulative components and the whole nine-path source transaction. Coverage advances only at its introducing commit:53/464combined,47/458I1,52/463pre-LN10,WEB20/431, LN10 1/1 and23supplements. Current I1 stays active/continuous with high-waterE20and nextE21 through that commit; full original terminal/dependencies and confirmationfalse remain. Previous dated resumption/LN10/E19pause and pending-publication statements are preserved history. No frozen source/Q1, older ledger version or original erratum is rewritten.
+
+Four ledger files1.44retain240claimIDs/762versions/1269strict rows,1262propositions/1780versions,192rules/462pairs/481rows with19legacy repeats. Own SendaiE20and observedMiyagiE20remain distinct from ownMiyagiE17/adult-historical LN10.18forecasts/13attempts/M0.13S0.14noncurrentUNTESTED/0validateddomains,51gaps(4resolved47unresolved),27discovery andNarō0/290remain. PR370metadata is actually integrated from auditedc782; E20requires its own finalINDEX/push/readback/actual-headCI, with protected-main controlled by its owners. BothOFFarchives stay local; V1/future releases remain unopened.
 
 ## Current continuous I1 resumption — 2026-10-28
 
@@ -1764,3 +1770,21 @@ Recovery recorded at `2026-10-29T00:32:52.803269+00:00` (UTC; owner-local date20
 Private recovery inputs are8743bytes/SHA256`6e60097df60bce0dd7da2978d82750820f1cc81b4f25c9fda59b32cd4df178cc`. The successful metadata-only archive/locator integrity report is2349bytes/SHA256`401298ced3e1524d4d37a28559bec8dfb9812776c04bfde20e4585bc57852135`. Its preceding failed check compared only an inner div rather than the original complete outer-body digest; the correction reuses the pinned original parser class without changing any source or expected hash. Neither check earns narrative coverage. Exact private paths, source payloads and locators containing primary excerpts stay outside Git.
 
 This three-path metadata successor alters no accepted reading, ledger, frozen inventory, immutable source note or historical erratum. Local staging/INDEX validation, approved-identity commit, ordinary remote readback, an actual-head integration audit, and owner/CI-controlled protected-main integration must be observed separately. No current result is inferred from earlier green runs. The current entrypoint owns the restored operational state; dated pause and LN10-only records remain evidence of their earlier state.
+
+## E0020 reciprocity, labels and a finite horizon — 2026-10-29
+
+The complete frozen E0020 source/finite/cumulative components are accepted; this nine-path introducing transaction alone advances **WEB20/431**, **47/458 original I1**, **52/463 pre-LN10** and **53/464 combined**, with ten acquired LN volumes and23supplements complete. No source/counter advances from prose alone. Original I1/BW/LN10 inventories and both local OFF archives remain unchanged;51historical gaps stay4resolved/47unresolved,27discovery andNarō0/290 remain unfinished.
+
+E19's polite request gains a later actual answer, permission/arm provision and finally reciprocal formation under an explicit command. Sendai's desired leveling is frustrated, and negative/unknown labels do not establish a shared romance or Miyagi's complete motive. A further proposal meets refusal; one approach ceases, then painful pinching persists until forced release and joking is rejected. Dinner is accepted without served meal/apology/repair. Sendai's own place need and probably inferred Miyagi need stay asymmetrical; expected high-school-end termination and felt perpetual trace meaning remain unperformed. Clothing concealment is not fading. End is movement toward the living room, not a future result.
+
+Sendai own advancesE19→E20; Miyagi observed/voiced advancesE20 while ownE17 remains. After Miyagi's room exit216, Sendai's solitary regret/ending packet is PRIVATE. Later adult LN10 and historical extra clocks remain separate. The exact full original232native nodes (147meaningful/85LF-br) and current title were read; bodyruby/media/replacement/outside-native prose are0. Original snapshotSHA256630f0d8c7e4b6d8b1f11186196a2ac470ca0ad1e507a11bb087a66450eb34610. Prospective freeze2026-10-29T00:41:22.905529+00:00UTC precedes exposure; four substantive notes/Q1 remain immutable. The initially mistaken116speaker was explicitly corrected by118in F3/Q1, not silently rewritten.
+
+Root's finite original LN01part0017 native194–321 includes128meaningful paragraphs/15ruby21readings/0media and reaches the true member end. The full reciprocal map covers232WEB/128LN,128literalunits (113single/15joins;85equal/43changed),253reversible opcodes and14comparison groups. Root read all originals before meanings, verified both-side reconstruction and read every43changed assessment. Novel-only added sleeve request/stronger refusal/need-for-Miyagi-as-provider remain distinct from WEB wording; no equality shortcut, next member, E21source or new whole-volume credit.
+
+All four current ledger files become1.44:15character events/18relational events/2principal projections/2directions/3readiness-role rows;32new propositions/5successors/32information transitions/10tensions;4newOPENclaims/13successors;0newRULEids/4successors. Totals240claimIDs/762distinct versions/1269strict quoted rows;1262propositionIDs/1780versions;192ruleIDs/462pairs/481physical rows with19legacy repeats. All5936old table lines and static disclosure master remain exact. A3closes PRIVATE030/032 and REL008fading-versus-cover wording; A1/A2and all earlier versions remain recoverable.18forecasts/13attempts, noncurrentUNTESTED M0.13/S0.14 and0validateddomains remain.
+
+Current original I1 remains **continuous_sequential / active**, startLN-JP-V01, terminalSHUUKURA-V2-20261017-I1, committed high-waterKAK-JP-E0020and next permitted/candidateKAK-JP-E0021 only through this whole commit. Confirmation between ordinary units staysfalse. E21needs its own entering freeze; the next major push also needs E20's actual published-head green. E20orE431alone is not the full terminal: source correspondence/discovery, longitudinal reconciliation, monographs, specialists, reconstruction, independent V1comparison, synthesis and release audits remain. Automatic future releases/E0432+ and premature V1stay excluded.
+
+The preceding actual c782e058423577a1b5988fb5461d40eb39e41b13source passed required audit40819167451 (10,472paths/486tests; trusted status57542128615). PR370merged it2026-10-29T04:48:46Z as e91d35a36fb1cde476b9f5a6190052f18821e88b. Ownerccdc9b08's two source-admission labels are preserved. Actual maindd40783ae42445a09013d11c20eb95ce441b5b90 was ordinarily adopted at53b8ad9737ad856b24fe35f46b2d38f325cd1b12; all source/ledger/frozen inputs remain exact. That previous source success is not E20CI or certification of current main's own audit.
+
+Final full INDEX, approved identities, ordinary commit/push/full changed-blob readback and the new actual-head audit remain separate publication evidence. Owner/CI retains protected-main integration and housekeeping. No controls, provider settings, comparison refs, generated indexes or global character registries are authored here. The current entrypoint owns operational state; the original notes/frozen inventories and dated E19/LN10/resumption metadata remain history at their own clocks.
