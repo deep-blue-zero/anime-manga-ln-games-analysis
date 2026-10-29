@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.102"
+version: "11.103"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 147 Intimacy primary documents across 20 family portfolios / T7S_B0182–T7S_B0201; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 154 Intimacy primary documents across 21 family portfolios / T7S_B0182–T7S_B0202; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-29
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1247`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1395`; `last_closed_block = T7S_B0201`. The admitted horizon contains 662 primary documents: 235 Main, 280 i-n-g and 147 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 147 Intimacy documents across 20 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1254`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1401`; `last_closed_block = T7S_B0202`. The admitted horizon contains 669 primary documents: 235 Main, 280 i-n-g and 154 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 154 Intimacy documents across 21 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4151,3 +4151,28 @@ Owner [B0201](../02%20Readings/T7S_B0201_DEEP_READING.md), reading SHA256 `ffba0
 | `EDGE-1402` | `EV-B0201-002 / EV-B0201-007` | LOCAL_RELIEF_WITHOUT_TOTAL_REPAIR; staying reassurance and imperfect-makeup possibility have bounded force, no cured pursuit/all-purpose consent. |
 
 Totals:1247 EV,25 WORLD,47 THREAD,1395 active EDGE with maximum1402/seven prior intentional gaps retained. Seven complete factual homes, no new WORLD, total chronology or earlier body/ID change.
+
+## B0202 Madoka's chosen bridges and unfinished invitations
+
+Owner [B0202](../02%20Readings/T7S_B0202_DEEP_READING.md), reading SHA256 `c8fb9ed20615fe68ddeb7d7fad13e01d669f0bc58db6a48a2ab6d019b4760724`; source-lock 12.108, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published3f07bca6/B0201/12.107 before primary; later successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0202-001` | A:401000160 P0-3 | Reports father's tears after naming manager special, wonders if wrong, asks future visit while permitting refusal/requesting consideration. | REPORTED_REACTION_AND_CONDITIONAL_INVITATION; no father-own motive, actual visit/assent, fixed household address or romantic/biological status. |
+| `EV-B0202-002` | B:401000432 P0-4 | Thanks horn-practice company/pleasure, appraises city creative parks, assumes poor playing hurt listener then receives praise through uptake and expresses joy. | REPORTED_PRACTICE_AND_LOCAL_REASSURANCE; no analyst-heard horn, technical verdict, parks policy or permanent confidence. |
+| `EV-B0202-003` | C:401000782 P0-4 | Reports family dog/morning-walk duty/childhood protective barking, calls dog capable family and compares manager reliability/company. | HOUSEHOLD_REPORT_AND_RELATIONAL_ANALOGY; no named dog/breed, literal manager pet/ubiquity, witnessed bullying or join to Monaka client dog. |
+| `EV-B0202-004` | D:401001026 P0-5 | Practices quoted thirteen-year-old/horn introduction, takes up improvement praise, reports dialect accepted but chooses Tokyo-language learning through imagined reciprocal pleasure. | LOCAL_SELF_PRESENTATION_AND_CHOSEN_ADAPTATION; no age stamp for all cases, heard pronunciation, mastery, compulsory assimilation or erased home voice. |
+| `EV-B0202-005` | E:401001162 P0-5 | Remembers arrival anxiety, values older/younger peers, credits Nanasta with shy-self change and manager meeting as best, then qualifies meaning as change gratitude. | OWN_GROWTH_ACCOUNT_WITH_AFFECTIVE_QUALIFICATION; no measured single cause, universal institutional quality, cured insecurity or settled romance. |
+| `EV-B0202-006` | F:401001282 P0-5 | Reports obtaining familiar sauce with shopping company, praises its okonomiyaki, begins home/cooking invitation then withdraws unfinished request. | REPORTED_PURCHASE_AND_WITHDRAWN_HOSPITALITY; no brand/place stereotype, served meal, actual visit/assent or A-before-F chronology. |
+| `EV-B0202-007` | G:401001434 P0-5 | Reports late dorm talk/Ei ghost-story excitement and Yumeno/Sawara apparent ease, wonders about older fearlessness, then admits cannot retell because ears covered. | REPORTED_SOCIAL_FRAME_AND_DECLARED_ACCESS_LIMIT; no supplied ghost plot/reality, peer-own interior, universal age rule or exact hearing timeline. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1403` | `EV-B0202-001 / EV-B0202-006` | INVITATION_WITH_ROOM_VERSUS_WITHDRAWAL; Aasks consideration/permits refusal, Funfinished offer retracted; no BEFORE, accepted visit or same-household inference. |
+| `EDGE-1404` | `EV-B0202-002 / EV-B0202-004` | PRACTICE_RECEPTION_AND_CHOSEN_PURPOSE; pleasure/reassurance versus reciprocal language effort, no musical/linguistic mastery or total chronology. |
+| `EDGE-1405` | `EV-B0202-003 / EV-B0202-005` | RELIABILITY_AND_SELF_COMPARISON; dog/younger-peers capability appraisals coexist with own duty/change, no global incapacity or literal constant protection. |
+| `EDGE-1406` | `EV-B0202-004 / EV-B0202-006` | SELECTIVE_ADAPTATION_AND_RETAINED_FAMILIARITY; learning city words and seeking home taste compatible, no authenticity test/birthplace/brand inference. |
+| `EDGE-1407` | `EV-B0202-005 / EV-B0202-001` | FELT_CHANGE_AND_CONTINUING_UNCERTAINTY; gratitude and hesitant request coexist, no cured anxiety, relapse narrative or causal BEFORE. |
+| `EDGE-1408` | `EV-B0202-002 / EV-B0202-007` | DIFFERENT_ACCESS_TO_RECEPTION; reported horn listener/praise versus covered-ear story gap, no analyst-heard performance or invented ghost tale. |
+
+Totals:1254 EV,25 WORLD,47 THREAD,1401 active EDGE with maximum1408/seven earlier intentional gaps retained. Seven whole factual homes; no new WORLD or earlier body/ID/chronology change.

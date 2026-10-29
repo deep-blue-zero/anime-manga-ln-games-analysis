@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.26"
+version: "1.27"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0201; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0202; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1786,4 +1786,43 @@ Owner [B0201](../02%20Readings/T7S_B0201_DEEP_READING.md), reading SHA256 `ffba0
 | `REL-1122` | `tamasaka-makoto -> echizen-murasaki` | G reports borrowed makeup tools and adult-look imitation to attract manager, intends return. Practical/aspirational peer reference alongside B0179 instruction history, no actual return, present Murasaki speech or permanent beauty hierarchy. |
 
 Totals:1249 KNOW/1122 REL.102IDENTITY/84CHAR/29UNIT/29READY retain prior routes and full bodies; no new individual Makoto READY/R2. Named peers remain mediated within Makoto report, no newly invented peer-own turn or clinical/romantic/kinship certification.
+
+## B0202 Madoka's chosen bridges and unfinished invitations
+
+Owner [B0202](../02%20Readings/T7S_B0202_DEEP_READING.md), reading SHA256 `c8fb9ed20615fe68ddeb7d7fad13e01d669f0bc58db6a48a2ab6d019b4760724`; source-lock 12.108, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published3f07bca6/B0201/12.107 before primary; later successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1250` | Madoka reports father's tears after hearing about manager. | A:P1; her account, no independently supplied paternal motive/reaction diagnosis. |
+| `KNOW-1251` | Madoka says she called manager special and wonders whether she did wrong. | A:P2; own explanation/self-doubt, no settled romance or objective guilt. |
+| `KNOW-1252` | Madoka asks future home visit, permits refusal and requests consideration. | A:P3; actual conditional request, no accepted invitation/date/address or performed meeting. |
+| `KNOW-1253` | Madoka thanks manager for horn practice and reports pleasure in making much sound. | B:P1; shared-time/pleasure report, no analyst-heard music or technical assessment. |
+| `KNOW-1254` | Madoka likes city parks for music/painting/theatrical rehearsal. | B:P2; own affordance appraisal, no audited policy/allparks or depicted every activity. |
+| `KNOW-1255` | Madoka calls her playing clumsy and assumes listening was painful. | B:P3; negative self/other inference, not objective quality or listener's independent interior. |
+| `KNOW-1256` | Madoka takes up denial of painful reception and feels happy at manager praise. | B:P4; mediated reassurance/local joy, no permanent confidence or musical certification. |
+| `KNOW-1257` | Madoka reports a household dog and her daily morning-walk responsibility. | C:P1; own family/routine account, no named dog/newstable animal/current local residence proof. |
+| `KNOW-1258` | Madoka recalls dog protecting her from childhood bullies and calls it capable family. | C:P2-3; remembered action/appraisal, no witnessed complete history/breed or global incapacity. |
+| `KNOW-1259` | Madoka compares manager with dependable dog beside her. | C:P4; relational analogy/always-appraisal, no literal pet, ownership or physical omnipresence. |
+| `KNOW-1260` | Madoka's quoted practiced introduction says name, age thirteen and horn skill. | D:P1; local self-presentation, no timestamp for all independent cases/heard pronunciation/appearance-based age. |
+| `KNOW-1261` | Madoka asks whether speech practice improved and reports manager said dialect acceptable. | D:P2-3; uptake/prior assurance, no mastery or evidence of a demand to erase dialect. |
+| `KNOW-1262` | Madoka imagines joy at a Tokyo speaker trying home dialect and chooses reciprocal learning effort. | D:P4-5; counterfactual preference/own decision, no universal assimilation duty or completed language acquisition. |
+| `KNOW-1263` | Madoka remembers arrival anxiety, values kind older peers/younger capability and credits Nanasta with change. | E:P1-3; own institutional/growth appraisal and self-comparison, no measured all-context cure or competence ranking. |
+| `KNOW-1264` | Madoka calls meeting manager best part of coming. | E:P4; own relational valuation, no reciprocal romantic status or sole-cause measurement. |
+| `KNOW-1265` | Madoka hastily qualifies intended meaning as manager helping her change. | E:P5; affective qualification retained beside gratitude, no erasure of all attachment. |
+| `KNOW-1266` | Madoka reports obtaining desired sauce during accompanied shopping because local taste feels unfamiliar. | F:P1-2; reported completed purchase/preference, no brand/price/store receipt or inferred birthplace. |
+| `KNOW-1267` | Madoka praises okonomiyaki made with this sauce through deliciousness hyperbole. | F:P3; own culinary valuation, no served meal or independent taste assay. |
+| `KNOW-1268` | Madoka begins own-cooking/home invitation then says nothing/withdraws. | F:P4-5; unfinished/retracted offer, no accepted visit/delivered meal or link settling A. |
+| `KNOW-1269` | Madoka reports enjoyable late dorm chatter and Ei ghost-story excitement. | G:P1-2; recalled social frame, no supplied tale or analyst-viewed gathering/paranormal event. |
+| `KNOW-1270` | Madoka reads Yumeno/Sawara laughter as apparent fearlessness and asks if older age removes fear. | G:P3-4; own interpretation/question, no peer-own interior/newage assignment or universal law. |
+| `KNOW-1271` | Madoka says she cannot retell the story because she covered her ears. | G:P5; declared access limit/possible embarrassment, no invented exact cutoff, secret knowledge or clinical label. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1123` | `enami-madoka -> player-protagonist` | A-G asks consideration with refusal room, values practice/praise/reliability, chooses speech effort, expresses qualified gratitude and withdraws unfinished hospitality. Different acts preserve agency/hesitation; chosen anchan/special-person address not biological kinship, accepted visit, mutual romance or cured anxiety. |
+| `REL-1124` | `player-protagonist -> enami-madoka` | Mostly represented through her address/uptake: practice company, denied painful reception/praise, dialect acceptance and story-content question; no complete independent interior, musical/linguistic authority, visit assent, demand to assimilate or universal successful care. |
+| `REL-1125` | `enami-madoka -> yukuhashi-ei` | G remembers Ei as ghost storyteller/highlight but cannot give content because she covered ears. Reported social role, no Ei-own new statement, actual spirit event or invented tale; earlier identity/perception horizons unchanged. |
+| `REL-1126` | `enami-madoka -> sakaiya-yumeno` | G reports laughter/apparent lack of fear while comparing possible older age. No Yumeno-own interior/newage certification or repair of B0093pressure; one convivial report does not erase earlier boundary evidence. |
+| `REL-1127` | `enami-madoka -> harumi-sawara` | G reports Sawara laughing/apparently unafraid and wonders about maturity; elder-sister address stays relational. No biological kinship/newage/status, actual fear-free psyche or broad care certification. |
+
+Totals:1271 KNOW/1127 REL.102IDENTITY/84CHAR/29UNIT/29READY retained without new routes or individual Madoka READY/R2. Anonymous father/dog roles, reported peer interiors, quoted-introduction age and qualified future horizons stay bounded; all prior bodies/IDs preserved.
 <!-- T7S ENTITY STATE PAYLOAD END -->
