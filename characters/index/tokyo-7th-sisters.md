@@ -899,7 +899,9 @@ Reviewed analysis subjects in the `tokyo-7th-sisters` namespace of the [Characte
   - _None._
 - Analytical coverage:
   - `reviewed-b0039`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0039, exactly Main episodes 611101501–611101504.  Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+  - `reviewed-intimacy-200820`: GAME EPISODE: Dedicated reading of the complete Sub Intimacy family 200820 / NM-INTIMACY-200820 (T7S_B0198): episodes 401000120, 401000124, 401000562, 401000806, 401001090, 401001278 and 401001446, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). These are conditional occurrences with no inferred unlock level or total chronology. No performed voice, singing, music, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
 - Reviewed current evidence:
+  - [`b0198-deep-reading` — B0198 deep reading: Kazumi's words, taste and chosen interpreters](../../series/tokyo-7th-sisters/02%20Readings/T7S_B0198_DEEP_READING.md)
   - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](../../series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
   - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](../../series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](../../series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
@@ -954,6 +956,28 @@ Reviewed analysis subjects in the `tokyo-7th-sisters` namespace of the [Characte
   - [`claim-evidence-ledger` — Individual interpretations, counterevidence and unresolved obligations](../../series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Bounded identity, character state and directional relationships](../../series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
 
+<a id="araki-rena"></a>
+
+### 荒木レナ
+
+- Entity ID: `tokyo-7th-sisters:araki-rena`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:araki-rena@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-intimacy-200630`: GAME EPISODE: Dedicated reading of the complete Sub Intimacy family 200630 / NM-INTIMACY-200630 (T7S_B0199): episodes 401000131, 401000135, 401000460, 401000762, 401001042, 401001210, 401001494 and 401006487, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). These are conditional occurrences with no inferred unlock level or total chronology across them. Earlier Main and Sub chapters (B0085, B0122, B0123, B0159, B0161, B0167, B0186, B0191) are contextual leads, not enrolled coverage. No performed voice, singing, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`b0199-deep-reading` — B0199 deep reading: Rena's chosen heights and the terms of support](../../series/tokyo-7th-sisters/02%20Readings/T7S_B0199_DEEP_READING.md)
+
 <a id="yusa-memoru"></a>
 
 ### 遊佐メモル
@@ -972,7 +996,9 @@ Reviewed analysis subjects in the `tokyo-7th-sisters` namespace of the [Characte
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-intimacy-200890`: GAME EPISODE: Dedicated reading of the complete Sub Intimacy family 200890 / NM-INTIMACY-200890 (T7S_B0197): episodes 401000115, 401000742, 401001466, 401001762, 401001861 and 401003133, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). These are conditional occurrences with no inferred unlock level or total chronology. No performed voice, singing, music, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
   - `reviewed-sisters`: GAME STORY_CHAPTER: Character-specific distributed analysis of the retrospective Main EPISODE 0.0 and EPISODE 0.7 material, T7S_B0055–T7S_B0063, including separately qualified childhood memories and 2031/2032 scenes. Later Coney stewardship, Mana mentoring and reported subsequent lives are not enrolled by this coverage. Japanese offline witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This locates analysis, not appearances in every episode. No performed voice, singing, technical performance, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
 - Reviewed current evidence:
+  - [`b0197-deep-reading` — B0197 deep reading: Memoru's love and the terms she sets](../../series/tokyo-7th-sisters/02%20Readings/T7S_B0197_DEEP_READING.md)
   - [`claim-evidence-ledger` — Individual interpretations, counterevidence and unresolved obligations](../../series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Bounded identity, character state and directional relationships](../../series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
