@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.21"
+version: "1.23"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0196; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0198; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1544,4 +1544,84 @@ Owner [B0196](../02%20Readings/T7S_B0196_DEEP_READING.md), source-lock 12.102, w
 | `REL-1102` | `wakaouji-rui -> unseen unnamed stock-information interlocutor` | E:P5 takes up a limited option, refuses and announces an alternative purchase intention. Source-required anonymity; no Memoru/Player substitution, known rationale or completed procurement. |
 
 No IDENTITY, CHAR, UNIT or READY record is added. Their totals remain102/84/29/29. Proposed epistemic total1108 and directional total1102. Every older body/ID and separately bounded R2 decision remains; no new monograph or era-release eligibility follows.
+
+## B0197 Memoru's crafted affection, public explanations and demands
+
+Owner [B0197](../02%20Readings/T7S_B0197_DEEP_READING.md), source-lock 12.103, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; A-F locators in the reading. Existing Memoru `IDENTITY-0061/CHAR-0048/yusa-memoru` and earlier Nicole `IDENTITY-0003/CHAR-0003/rokusaki-connie-presented` retain routes. Memorun/angel/royal language and the asserted drama role create no separate person, master identity or world institution. Audience winners, fans, contributors and believers are overlapping addressed roles, with no private Player or new counterpart turn. Seven Sisters `UNIT-0001` retains its prior scope without a new collective policy.
+
+| Existing subject | Qualified addition | Resistant prior state and missing access retained |
+| --- | --- | --- |
+| `CHAR-0048` / Memoru | Recognizes support through commerce/participation, offers or withholds access, manages an interruption through an acting account, reflects on wording and repairs strategic terminology, and prescribes calls while describing affection. | Commercial skill/anger coexist with failed authorship, contract intelligence, justice shaped by betrayal, remorse, helplessness and accepted uncertain repair. No pure villain, two-person split, always-fake-love or maturity model. READY0022 keeps apology/reunion, complete childhood/family, later life, broader routine and performed media unresolved. |
+| Earlier Nicole | Is addressed around chocolate removal/law names and a confrontation, and attributed praise for call coordination. | No new Nicole-own statement/intent, actual legal ruling, agreement with a literal slave plan or independently audited praise/control. |
+| Addressed fans/recipients | Are characterized as winners, possible buyers, supporters, possible greeting contributors and believers; expected to call, consume and recognize affection. | No actual recipient response, spending ledger, public obedience, material reward or proved harmful result. Their inward feelings are not supplied by Memoru's address. |
+| Retained Rui/Kurt/Mana context | Prior reports provide compatible comparison around blocked gifts and juice, not new Memoru-own knowledge of those reports. | Mana's exact precedent identity, Rui's refusal reason, liquid identity/ingredients/harm and prior apology outcome remain unknown; no frozen uncertainty is silently rewritten. |
+
+| ID | Holder and qualified state | Range and missing access |
+| --- | --- | --- |
+| `KNOW-1109` | Memoru characterizes these viewers as merchandise-ticket lottery winners and congratulates them. | A:P1; own address frame, no independent draw/distribution/eligibility audit or universal Intimacy access rule. |
+| `KNOW-1110` | Wonders whether some bought many goods, recognizes that as cherishing/love, returns affection and desires campaign repetition. | A:P2-3; guess/affective interpretation/wish, no actual spending or entirely insincere feeling proven. |
+| `KNOW-1111` | Says it is Valentine at recording while not knowing when viewers will watch. | B:P1-2; explicit temporal separation, no event year/recipient same-day assumption. |
+| `KNOW-1112` | Announces branded chocolate service, asks Nicole about it and takes up two named law references with incomprehension. | B:P3-4; own intended offering/uptake, no actual delivery, ingredients, legal finding or own Nicole reply. |
+| `KNOW-1113` | Says the service was forbidden and floats excessive fan growth as an explanation. | B:P5; flattering question/report, actual reason/belief and harm unknown. |
+| `KNOW-1114` | Directs a rough demand at Nicole and notices the camera. | C:P1; written register/camera awareness, no heard volume, visible attack or stopped recording. |
+| `KNOW-1115` | Explains the outburst as rehearsal for a recently offered delinquent role, calls it distant from her and asks support while citing learning. | C:P2-4; asserted professional/explanatory frame, neither independently verified offer nor proved fabrication. |
+| `KNOW-1116` | Resumes the prior dispute and demands settlement around a slave-ranch plan nearly spoiled. | C:P5; lexical plan/confrontation, no literal enslaved group, implemented institution or enacted violence. |
+| `KNOW-1117` | Calls the private-life assignment ordinary, considers what fans may want and says she wishes to respond. | D:P1-3; own framing/conditional desire, not measured audience demand or actual private access. |
+| `KNOW-1118` | Uses a palace camera prohibition on Memorun Star and locates that star in believers' hearts while rejecting location questions. | D:P4-5; persona-world boundary, no physical planet, birthplace, royal law or new identity. |
+| `KNOW-1119` | Questions how fully greeting words convey her feelings and compares formulas as more like Memoru. | E:P1-3; craft/self-expression, no measured100percent transmission or actual adopted new slogan. |
+| `KNOW-1120` | Names advertising strategy, then repairs the rationale into preventing misunderstanding of herself. | E:P4; visible written repair, no all-emotion-is-false conclusion or full motive audit. |
+| `KNOW-1121` | Solicits private greeting suggestions and offers gratitude as a reward. | E:P5; request/offer, no actual contribution, material gift, employment/IP contract or fulfilled exchange. |
+| `KNOW-1122` | Prompts and repeats calls, then expects fans to shout even before family or in town. | F:P1-2; prescriptive trust/expectation, no heard reply, actual compliance or punishment established. |
+| `KNOW-1123` | Repairs exact incomplete げぼ into fans and attributes perfect coordination praise to Nicole. | F:P3; likely servant-language remains inference, no completed source word or own Nicole statement/independent control measure. |
+| `KNOW-1124` | Says calls can make her tearful/happy and that juice consumption or purchases also make her feel loved; requests more love. | F:P4-5; reported habitual feeling/recognition, no observed tears, heard crowd, actual ingestion/purchase or product properties. |
+
+| ID | Direction | Qualified state and limit |
+| --- | --- | --- |
+| `REL-1103` | `yusa-memoru -> addressed lottery recipients/fans/contributors/believers` | A recognizes buying/winning as affection; B offers then withdraws a gift; C seeks role support; D sets fictionalized privacy terms; E seeks wording with gratitude; F expects calls and consumption as love. Roles overlap without new identities. No private Player contract, own audience assent, spending/control audit or proved fake feeling. |
+| `REL-1104` | `yusa-memoru -> rokusaki-connie-presented as earlier Nicole` | B asks and takes up apparent legal obstacles, C confronts then resumes a dispute, F attributes call-control praise. Source-specific own perspective; no new Nicole-own motive, legal authority, actual institution or general approval of coercion. |
+
+No IDENTITY, CHAR, UNIT or READY record is added. Their totals remain102/84/29/29. Proposed epistemic total1124 and directional total1104. Older bodies/IDs, uncertain motives/outcomes and separately bounded R2 scopes persist; no monograph/era eligibility promoted.
+
+## B0198 Kazumi's authorship, selective approach and interpretive trust
+
+Owner [B0198](../02%20Readings/T7S_B0198_DEEP_READING.md), source-lock 12.104, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`; exact A-G locators in the reading. Existing Kazumi `IDENTITY-0046/CHAR-0035/katsuragi-kazumi`, Player `IDENTITY-0001/CHAR-0001/player-protagonist`, Sumire `IDENTITY-0016/CHAR-0013/usuta-sumire`, Tasha `IDENTITY-0069/CHAR-0054/tasha-romanovsky` and Sisara `IDENTITY-0041/CHAR-0034/kawasumi-shisara` retain their routes. Original/translator/snow metaphors are not new persons, diagnoses or institutions. Nanasta remains UNIT0002 with no new glasses-event policy.
+
+| Existing subject | Qualified addition | Resistant state or missing access retained |
+| --- | --- | --- |
+| Kazumi / CHAR0035 | Chooses another reader's taste, requests time for difficult thanks, attends to colors, seeks a language, reconsiders speech comparison, offers expansive interpretive trust and imagines accessory confidence. | Authored fiction, privacy objections, mutual misreading with Sumire, mismatch-compatible cooperation, fitted recommendations, task/work boundaries and experimental acting remain. No generic shy-bookworm, passive-original or all-intrusion-is-now-consented model. READY0029 remains historically bounded R2, monograph not ready. |
+| Player / CHAR0001 | Is addressed as reader, nearby recipient, tie wearer, counselor, translator and shopping companion within Kazumi's reports/requests/uptake. | No separate new own-text turn, total intent, accepted waiting/gift, complete creative ownership or successful public interpretation. |
+| Sumire / CHAR0013 | Is admired as a recalled comparison for intuitive words/gestures. | Own present response, objective superiority, natural compatibility and repair of prior unpermitted reading are not supplied. |
+| Tasha / CHAR0054 | Is reported as teaching Kazumi her home-country language. | No new teacher-own turn, named country/language, competence audit, exact lesson or later-travel knowledge. |
+| Sisara / CHAR0034 | Is imagined to suit intellectual-looking spectacles. | No actual new outfit, own preference, contest entry or collective assent. |
+
+| ID | Holder and qualified state | Exact range and missing access |
+| --- | --- | --- |
+| `KNOW-1125` | Kazumi asks the manager's favorite author and says she had not asked his usual reading. | A:P1; inquiry/own retrospective, no supplied answer or book. |
+| `KNOW-1126` | Calls this curiosity about another person's book preference a first in her life. | A:P2; situated first-time self-report, not ordering of all admitted peer-book cases. |
+| `KNOW-1127` | Conditionally asks an introduction to an unfamiliar author and proposes a topic for the two of them. | A:P3; chosen invitation, no actual discussion or reciprocal romance. |
+| `KNOW-1128` | Says she called him to express everyday gratitude but cannot find the words. | B:P1-2; own intended/blocked expression, no completed declaration. |
+| `KNOW-1129` | Contrasts plentiful writing with blankness in direct expression. | B:P3; occasion/medium difference, no clinical or universal incapacity. |
+| `KNOW-1130` | Asks him to remain beside her until words come and wishes she were literature. | B:P4-5; request/wish, no assent, time/outcome or literal transformation. |
+| `KNOW-1131` | Asks about a newly opened Shibuhama library and invites a collection/curtain visit. | C:P1-2; report/invitation, no actual interior or visit. |
+| `KNOW-1132` | Gives curtain-color care as her library-trust criterion and reports checking his tie colors daily. | C:P3-4; personal judgment/habit report, no independent quality/observation audit. |
+| `KNOW-1133` | Offers a later tie gift in a suitable color if her taste is welcome. | C:P5; conditional future offer, no purchase/exchange or counterpart preference. |
+| `KNOW-1134` | Reports lateness to a meeting because Tasha was teaching her home-country language. | D:P1; own report, no new Tasha-own turn, named country/language or meeting outcome. |
+| `KNOW-1135` | Describes interest in that literature/philosophy and language and asks why its novels are long. | D:P2-3; appraisal/inquiry, no external national-literary classification. |
+| `KNOW-1136` | Relays a snowy-winter explanation for novel length and contrasts the town's scarce snow. | D:P4; received explanation/local account, no verified literary history or weather law. |
+| `KNOW-1137` | Uses snow in hearts, asks whether he can melt hers and says it has already largely melted. | D:P5; metaphorical self-disclosure/teasing question, no clinical cure or measured relationship state. |
+| `KNOW-1138` | Admires Sumire's recalled intuitive words/gestures, judges her own speech stiff/reasoned and wants naturalness. | E:P1-3; self/peer appraisal, not objective ranking or natural sameness. |
+| `KNOW-1139` | Calls deliberate acquisition already losing, takes up a non-win/loss response and agrees to trust her words. | E:P4-5; mediated counselor uptake/local reframing, no permanent confidence or privacy repair. |
+| `KNOW-1140` | Reports near-daily foreign reading and feels translations of the same work differ greatly; extends analogy to idols. | F:P1-2; reported habit/reception/analogy, no literal unrelated text content. |
+| `KNOW-1141` | Calls herself original/manager translator deciding her story, offers noncriticism and requests his public interpretation across past/future. | F:P3-4; expansive own grant/asymmetry retained, no sole actual authorship, legal transfer, actual reception or blanket private access. |
+| `KNOW-1142` | Thanks him for joining glasses shopping, reports usual replacement reasons and admits fashion appeal. | G:P1-2; outing/reason account, no current diagnosis/loss, completed purchase or frame change. |
+| `KNOW-1143` | Imagines Sisara's glasses suitability, proposes a contest if ideas scarce and declares particular confidence despite self-called plainness. | G:P3-5; appraisal/proposal/self-judgment, no Sisara-own preference, held contest/result or general appearance fact. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1105` | `katsuragi-kazumi -> player-protagonist` | A seeks a shared reading topic; B requests nearby waiting; C offers taste/gift; D metaphorically names thaw; E receives a reframing; F offers broad interpretive trust; G thanks shopping company. Local acts/reports/requests differ. No reciprocal romance, manager omniscience, completed gift/wait or sole ownership; F does not retroactively license notebook intrusion. |
+| `REL-1106` | `katsuragi-kazumi -> tasha-romanovsky` | D:P1-2 reports language-learning access tied to literary interest. No independent teacher turn/intent, nationality/language resolution, whole lesson or knowledge of later admitted research/travel. |
+| `REL-1107` | `katsuragi-kazumi -> usuta-sumire` | E:P2-5 admires remembered intuition and compares her own language before accepting a less competitive frame. No supplied Sumire response, natural compatibility or repair of earlier boundary violation. |
+| `REL-1108` | `katsuragi-kazumi -> kawasumi-shisara` | G:P3 offers hypothetical intellectual-glasses suitability among Nanasta peers. Thin source-specific appraisal, no own Sisara response/preference, new costume or enacted contest. |
+
+No IDENTITY, CHAR, UNIT or READY record is added. Their totals remain102/84/29/29. Proposed epistemic total1143 and directional total1108. All prior bodies/IDs, missing outcomes, resistant authorship/privacy and readiness scopes persist; no maturity or era release promoted.
 <!-- T7S ENTITY STATE PAYLOAD END -->
