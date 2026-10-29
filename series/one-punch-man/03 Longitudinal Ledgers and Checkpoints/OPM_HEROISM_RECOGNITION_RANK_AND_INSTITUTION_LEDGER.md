@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Heroism, recognition, rank, and institution evidence through V37
+scope: Heroism, recognition, rank, and institution evidence through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Heroism, Recognition, Rank, and Institution Ledger
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 
 ## Governing distinction
@@ -770,3 +774,19 @@ Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_
 **STRENGTHEN inverse recognition:** Saitama performs a real unscripted rescue and receives only local result-screen credit; King performs no feat while experts escalate his reputation. Actual consequence and public/expert attribution remain separable (`192,194 / 0124–0139,0172–0200`).
 
 Child Emperor's captured odds/site evidence converts V36's suspicion into an adversarial case. Investigation is not yet exposure or reform (`192 / 0130–0132`).
+
+## Current-release overlay through web 287
+
+Authority: `web_active_provisional` / PR. [Release source lock](../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md); [new close reading](../07%20Current%20Release/OPM_WEB_285-287_DEEP_READING.md). Existing V37 conclusions retain their collected boundary.
+
+**STRENGTHEN competing legitimacy; REVISE the reach of the critique:** Neo's recruitment, equipment and real rescues answer genuine Association failures. New Blood's useful field results remain evidence, rather than being retrospectively dismissed as uniformly fake (PR-CR-001,005,010,011; web235-236,249-253,268-273; available through web273). The current question exceeds whether an institution correctly recognizes a pre-existing hero: Neo helps produce capacity through equipment, coordination and maintenance, then gains possible control over its exercise. Operational effectiveness and authority over a person must therefore be judged separately. The collected histories already distinguish acknowledgment from leverage and care from the stripping of rights; the web sequence supplies additional mechanisms, not the first discovery of that ethical problem.
+
+**REVISE risk to demonstrated mechanism:** web285/pages 3-5 pairs a software update with a lunge the wearer calls involuntary. The superior's explanation then treats S-Class struggle and public anxiety as useful time for accumulating data (web285/pages 6-8; PR-CR-015,016). The first is an observed agency conflict; the second is an attributed strategic doctrine. Neither alone identifies every field incident's author.
+
+**STRENGTHEN internal pluralism as an ethical resource:** Metal Bat's refusal to delay rescue for data, Sekingar's limited-access investigation and Child Emperor's coordination show that affiliation does not equal assent. Their response uses relationships inside Neo to contest what the organization is doing. Metal Bat makes the immediate safety of Zenko and civilians a constraint on strategic patience; the investigation seeks information the institution withholds. Neither withdrawal nor institutional obedience exhausts the available moral positions. Their intended Amai protection and satellite interference are not completed reform or successful rescue (web285/pages 8-10; web287/pages 5-7; PR-CR-017,018,025; available through web287).
+
+**STRENGTHEN recognition against bodily verdict:** Saitama's Amai recognition concerns witnessed conduct, not a claim that appearance, fame or institutional classification guarantees virtue. Webigaza's reported desire to defeat Amai for promotion supplies a competing publicity logic; her former admiration and present resentment are not the entire public's view (web262/pages 8-21; web263/pages 2-15; web286/pages 5-8; web287/pages 2-4; PR-CR-008,021,024).
+
+A's Neo-branded command against Sonic brings the hero label into direct conflict with A's declared game of taking lives. Sonic's criticism exposes the label's insufficiency without proving Sonic morally reformed (web287/pages 9-12; PR-CR-027,028).
+
+**Entry, usefulness and continued consent:** Webigaza's case prevents a verdict based solely on recruitment. She describes strength as a chosen route to an entertainment ideal and refuses regret, while saying she needs Neo maintenance to live and cannot leave. Respecting that self-account requires preserving both ambition and dependency. Her responsibility for choosing modification is not evidence that Neo may choose every subsequent risk for her, nor does dependency erase her ability to judge or desire. A defensible institution would need to answer how a member can refuse particular uses of an enhanced body and obtain continued care. Those answers remain unavailable; total legal ownership is not established (web286/pages 4-11; PR-CR-021,022; available web286). See the [technology argument](OPM_TECHNOLOGY_ORGANIZATION_AND_HIDDEN_ACTORS_LEDGER.md#current-release-overlay-through-web-287) for the distinct mechanisms.

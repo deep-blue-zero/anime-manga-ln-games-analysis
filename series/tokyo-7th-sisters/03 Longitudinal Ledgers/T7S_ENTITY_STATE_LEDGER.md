@@ -4,16 +4,16 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.93"
+version: "11.98"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 84 Intimacy primary documents across 10 family portfolios / T7S_B0182–T7S_B0191; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 111 Intimacy primary documents across 15 family portfolios / T7S_B0182–T7S_B0196; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-28
+last_updated: 2026-10-29
 storage_representation: manifest_bound_components_v1
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
 logical_artifact_id: T7S_ENTITY_STATE_LEDGER
@@ -24,13 +24,13 @@ logical_artifact_id: T7S_ENTITY_STATE_LEDGER
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 84 complete Intimacy primary documents across 10 family portfolios. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 111 complete Intimacy primary documents across 15 family portfolios. Administrative authority metadata is not literary evidence.
 
 Read the complete manifest-bound logical ledger before editing, including all ordered payload components; append stable history and patch current rows without changing unaffected bytes or IDs. This file owns current aggregate metadata and routing; each payload interval has one component owner. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`identity_routes = 102`; `character_states = 84`; `epistemic_states = 1047`; `directional_relationship_states = 1074`; `unit_states = 29`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA, T7S_B0080–T7S_B0181 i-n-g and 84 independent Intimacy documents across 10 complete portfolios through T7S_B0191, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 102`; `character_states = 84`; `epistemic_states = 1108`; `directional_relationship_states = 1102`; `unit_states = 29`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA, T7S_B0080–T7S_B0181 i-n-g and 111 independent Intimacy documents across 15 complete portfolios through T7S_B0196, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -646,3 +646,33 @@ The active component also owns the subsequent reviewed append through T7S_B0191.
 <a id="b0191-momokas-reported-preferences-particular-address-and-peer-scopes"></a>
 
 [B0191 Momoka's reported preferences, particular address and peer scopes](T7S_ENTITY_STATE_COMPONENT_003.md#b0191-momokas-reported-preferences-particular-address-and-peer-scopes)
+
+The active component also owns the subsequent reviewed append through T7S_B0192. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0192-nicoles-audience-facing-states-and-existing-coney-route"></a>
+
+[B0192 Nicole's audience-facing states and existing Coney route](T7S_ENTITY_STATE_COMPONENT_003.md#b0192-nicoles-audience-facing-states-and-existing-coney-route)
+
+The active component also owns the subsequent reviewed append through T7S_B0193. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0193-mitos-artistic-attention-local-choices-and-peer-boundary"></a>
+
+[B0193 Mito's artistic attention, local choices and peer boundary](T7S_ENTITY_STATE_COMPONENT_003.md#b0193-mitos-artistic-attention-local-choices-and-peer-boundary)
+
+The active component also owns the subsequent reviewed append through T7S_B0194. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0194-manas-intentions-interpreted-feedback-and-specific-peerfamily-scopes"></a>
+
+[B0194 Mana's intentions, interpreted feedback and specific peer/family scopes](T7S_ENTITY_STATE_COMPONENT_003.md#b0194-manas-intentions-interpreted-feedback-and-specific-peerfamily-scopes)
+
+The active component also owns the subsequent reviewed append through T7S_B0195. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0195-kurts-own-reasoning-situated-gaps-and-differentiated-peer-roles"></a>
+
+[B0195 Kurt's own reasoning, situated gaps and differentiated peer roles](T7S_ENTITY_STATE_COMPONENT_003.md#b0195-kurts-own-reasoning-situated-gaps-and-differentiated-peer-roles)
+
+The active component also owns the subsequent reviewed append through T7S_B0196. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0196-ruis-offered-proximity-situated-admiration-and-definite-preference"></a>
+
+[B0196 Rui's offered proximity, situated admiration and definite preference](T7S_ENTITY_STATE_COMPONENT_003.md#b0196-ruis-offered-proximity-situated-admiration-and-definite-preference)
