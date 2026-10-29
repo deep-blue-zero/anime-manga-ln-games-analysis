@@ -4,7 +4,7 @@
   "artifact_type": "logical_entity_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.16",
+  "version": "1.28",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -12,13 +12,13 @@
   "do_not_use_as_literary_evidence": true,
   "logical_artifact_id": "T7S_ENTITY_STATE_LEDGER",
   "current_owner_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 84 Intimacy primary documents across 10 family portfolios / T7S_B0182–T7S_B0191; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
+  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 163 Intimacy primary documents across 22 family portfolios / T7S_B0182–T7S_B0203; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-    "physical_bytes": 39679,
-    "physical_sha256": "c2e4af63d9e075ffefbca4ca4b248892c497e198946a2a7809f2e86b697ab4f2",
-    "logical_prefix_bytes": 7711,
-    "logical_prefix_sha256": "89a0c594b5a03c3d26337b49b26a018e35d9a58a73e69c3e70946acc747997d9",
+    "physical_bytes": 45294,
+    "physical_sha256": "9af63db40e58721cc011abf97a5621a5fbe9d9a9c36e7a3a9a53725029deb103",
+    "logical_prefix_bytes": 7715,
+    "logical_prefix_sha256": "d739336bbbc72595f24c528b806ece05eb698e8be54679c1f4f9f33bbb3dfd61",
     "route_marker": "<!-- T7S ENTITY STATE COMPONENT ROUTES -->"
   },
   "assembly_rule": "Read the exact owner prefix before the unique route marker, then append every ordered component payload byte range. Validate all full-file and payload byte lengths/hashes, paths, intervals, owner IDs, LF/UTF8 and complete ordering before treating the result as the logical ledger. Component terminators are metadata outside the declared payload range; original final blank lines remain inside that exact payload.",
@@ -58,11 +58,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "artifact_id": "T7S_ENTITY_STATE_COMPONENT_003",
-      "physical_bytes": 320494,
-      "physical_sha256": "50788de9240a335a93cc62ac8ec627f2897b7eca22c4e50d9484f571275283b9",
+      "physical_bytes": 415949,
+      "physical_sha256": "20964bf4d0ac496250e1be9db615d3498be0aec6676f23bff39a85e2f03cf07d",
       "payload_offset_bytes": 712,
-      "payload_bytes": 319744,
-      "payload_sha256": "1dd6c2f51ffbfc691976fb1b3dacb278da86f752b3998d7af575aeaf0f420305",
+      "payload_bytes": 415199,
+      "payload_sha256": "78c7ef21f6599f2c41ea57df546f33006a00fa14c6f85d05ec34f189eff0756d",
       "preserved_original_interval": [
         829500,
         990668
@@ -73,11 +73,11 @@
     }
   ],
   "parts_count": 3,
-  "logical_bytes": 1149817,
-  "logical_sha256": "ecc0d9048ce760fb3084bdca0944042a804b490b6a17c5c90f2e1d3e4c62a057",
+  "logical_bytes": 1245276,
+  "logical_sha256": "41184c2eed1f6b2243759fba84a0c2b7b2cf05738533737e7f59ec1d21703452",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "last_source_high_water": "T7S_B0191",
+  "last_source_high_water": "T7S_B0203",
   "storage_transition": {
     "operation": "T7S_ENTITY_LEDGER_STORAGE_V1",
     "date": "2026-10-13",
@@ -906,17 +906,89 @@
       "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "component_anchor": "b0191-momokas-reported-preferences-particular-address-and-peer-scopes",
       "heading": "B0191 Momoka's reported preferences, particular address and peer scopes"
+    },
+    {
+      "original_anchor": "b0192-nicoles-audience-facing-states-and-existing-coney-route",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0192-nicoles-audience-facing-states-and-existing-coney-route",
+      "heading": "B0192 Nicole's audience-facing states and existing Coney route"
+    },
+    {
+      "original_anchor": "b0193-mitos-artistic-attention-local-choices-and-peer-boundary",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0193-mitos-artistic-attention-local-choices-and-peer-boundary",
+      "heading": "B0193 Mito's artistic attention, local choices and peer boundary"
+    },
+    {
+      "original_anchor": "b0194-manas-intentions-interpreted-feedback-and-specific-peerfamily-scopes",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0194-manas-intentions-interpreted-feedback-and-specific-peerfamily-scopes",
+      "heading": "B0194 Mana's intentions, interpreted feedback and specific peer/family scopes"
+    },
+    {
+      "original_anchor": "b0195-kurts-own-reasoning-situated-gaps-and-differentiated-peer-roles",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0195-kurts-own-reasoning-situated-gaps-and-differentiated-peer-roles",
+      "heading": "B0195 Kurt's own reasoning, situated gaps and differentiated peer roles"
+    },
+    {
+      "original_anchor": "b0196-ruis-offered-proximity-situated-admiration-and-definite-preference",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0196-ruis-offered-proximity-situated-admiration-and-definite-preference",
+      "heading": "B0196 Rui's offered proximity, situated admiration and definite preference"
+    },
+    {
+      "original_anchor": "b0197-memorus-crafted-affection-public-explanations-and-demands",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0197-memorus-crafted-affection-public-explanations-and-demands",
+      "heading": "B0197 Memoru's crafted affection, public explanations and demands"
+    },
+    {
+      "original_anchor": "b0198-kazumis-authorship-selective-approach-and-interpretive-trust",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0198-kazumis-authorship-selective-approach-and-interpretive-trust",
+      "heading": "B0198 Kazumi's authorship, selective approach and interpretive trust"
+    },
+    {
+      "original_anchor": "b0199-renas-chosen-heights-and-the-terms-of-support",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0199-renas-chosen-heights-and-the-terms-of-support",
+      "heading": "B0199 Rena's chosen heights and the terms of support"
+    },
+    {
+      "original_anchor": "b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry",
+      "heading": "B0200 Honoka's ordinary self and the happiness she chooses to carry"
+    },
+    {
+      "original_anchor": "b0201-makotos-offered-closeness-and-the-pressure-of-being-known",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0201-makotos-offered-closeness-and-the-pressure-of-being-known",
+      "heading": "B0201 Makoto's offered closeness and the pressure of being known"
+    },
+    {
+      "original_anchor": "b0202-madokas-chosen-bridges-and-unfinished-invitations",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0202-madokas-chosen-bridges-and-unfinished-invitations",
+      "heading": "B0202 Madoka's chosen bridges and unfinished invitations"
+    },
+    {
+      "original_anchor": "b0203-musubis-chosen-openings-and-the-limits-of-disclosure",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0203-musubis-chosen-openings-and-the-limits-of-disclosure",
+      "heading": "B0203 Musubi's chosen openings and the limits of disclosure"
     }
   ],
   "publication_scope": "This proposed representation has no effect until separately reviewed/applied/committed/published. Private proposal receipts remain noncurrent.",
   "latest_logical_append": {
-    "source_high_water": "T7S_B0191",
-    "date": "2026-10-28",
-    "logical_before_sha256": "349a85e95bc977a34c64483573461f682eca72ab30566525a3eb3257b94ce3bd",
-    "logical_after_sha256": "ecc0d9048ce760fb3084bdca0944042a804b490b6a17c5c90f2e1d3e4c62a057",
-    "addition_bytes": 8115,
-    "addition_sha256": "1c17af56e8725884aeacd39d867f9cae802273055c2a70c74437bee15c377964",
-    "unchanged_older_body_sha256": "027dc37f794591a04b20f5efb405b12e2495c6b2f69786ba39d664131ec49105",
+    "source_high_water": "T7S_B0203",
+    "date": "2026-10-29",
+    "logical_before_sha256": "171a7300110887994e425ed5589a16a7af0c5ef7237273be09e200aee957c630",
+    "logical_after_sha256": "41184c2eed1f6b2243759fba84a0c2b7b2cf05738533737e7f59ec1d21703452",
+    "addition_bytes": 8081,
+    "addition_sha256": "18a08cade58435e43414bbdc0527b5ee23f778715e986a11058b995b88e22198",
+    "unchanged_older_body_sha256": "b215e216d104568c7daa4040ac1d513c44f49c713bc180178ad2fbecb2c36bce",
     "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
     "sealed_older_components_byte_exact": true
   }

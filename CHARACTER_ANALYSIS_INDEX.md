@@ -33,7 +33,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`mushoku-tensei`](characters/index/mushoku-tensei.md) | 13 |
 | [`my-hero-academia`](characters/index/my-hero-academia.md) | 30 |
 | [`ntr-netsuzou-trap`](characters/index/ntr-netsuzou-trap.md) | 4 |
-| [`one-punch-man`](characters/index/one-punch-man.md) | 4 |
+| [`one-punch-man`](characters/index/one-punch-man.md) | 5 |
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
@@ -47,7 +47,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
 | [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
-| [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 39 |
+| [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 42 |
 | [`tomozaki`](characters/index/tomozaki.md) | 7 |
 | [`watayuri`](characters/index/watayuri.md) | 7 |
 | [`wuthering-waves`](characters/index/wuthering-waves.md) | 6 |
@@ -105,6 +105,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Bakugo Katsuki](characters/index/my-hero-academia.md#bakugo-katsuki) | My Hero Academia manga | `my-hero-academia:bakugo-katsuki@manga` | — |
 | [Balter](characters/index/konosuba.md#balter) | Original light-novel continuity, scoped current monograph | `konosuba:balter@original-light-novel` | アレクセイ・バーネス・バルター |
 | [Baltimore](characters/index/azur-lane.md#baltimore) | Azur Lane mobile game | `azur-lane:baltimore@mobile-game` | — |
+| [Bang](characters/index/one-punch-man.md#bang) | One Punch Man manga | `one-punch-man:bang@manga` | — |
 | [Barton](characters/index/konosuba.md#barton) | Original light-novel continuity, scoped current monograph | `konosuba:barton@original-light-novel` | バートン |
 | [Beatrice](characters/index/blue-archive.md#beatrice) | Blue Archive game | `blue-archive:beatrice@game` | — |
 | [Beatrice](characters/index/re-zero.md#beatrice) | Re:Zero main light novel | `re-zero:beatrice@light-novel` | — |
@@ -593,12 +594,15 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Ōgaki Chiaki](characters/index/yuru-camp.md#ogaki-chiaki) | Japanese manga | `yuru-camp:ogaki-chiaki@manga` | 大垣千明 |
 | [ターシャ・ロマノフスキー](characters/index/tokyo-7th-sisters.md#tasha-romanovsky) | Tokyo 7th Sisters game | `tokyo-7th-sisters:tasha-romanovsky@game` | — |
 | [上杉・ウエバス・キョーコ](characters/index/tokyo-7th-sisters.md#uesugi-uebasu-kyoko) | Tokyo 7th Sisters game | `tokyo-7th-sisters:uesugi-uebasu-kyoko@game` | — |
+| [二川ミミ](characters/index/tokyo-7th-sisters.md#futagawa-mimi) | Tokyo 7th Sisters game | `tokyo-7th-sisters:futagawa-mimi@game` | — |
 | [六咲コニー](characters/index/tokyo-7th-sisters.md#rokusaki-coney) | Tokyo 7th Sisters game | `tokyo-7th-sisters:rokusaki-coney@game` | — |
 | [寿クルト](characters/index/tokyo-7th-sisters.md#kotobuki-kurt) | Tokyo 7th Sisters game | `tokyo-7th-sisters:kotobuki-kurt@game` | — |
 | [御園尾マナ](characters/index/tokyo-7th-sisters.md#misonoo-mana) | Tokyo 7th Sisters game | `tokyo-7th-sisters:misonoo-mana@game` | — |
 | [星柿マノン](characters/index/tokyo-7th-sisters.md#hoshigaki-manon) | Tokyo 7th Sisters game | `tokyo-7th-sisters:hoshigaki-manon@game` | — |
 | [有栖シラユキ](characters/index/tokyo-7th-sisters.md#arisu-shirayuki) | Tokyo 7th Sisters game | `tokyo-7th-sisters:arisu-shirayuki@game` | — |
 | [桂木カヅミ](characters/index/tokyo-7th-sisters.md#katsuragi-kazumi) | Tokyo 7th Sisters game | `tokyo-7th-sisters:katsuragi-kazumi@game` | — |
+| [榎並マドカ](characters/index/tokyo-7th-sisters.md#enami-madoka) | Tokyo 7th Sisters game | `tokyo-7th-sisters:enami-madoka@game` | — |
 | [瀬戸ファーブ](characters/index/tokyo-7th-sisters.md#seto-ferb) | Tokyo 7th Sisters game | `tokyo-7th-sisters:seto-ferb@game` | — |
 | [羽生田ミト](characters/index/tokyo-7th-sisters.md#hanyuda-mito) | Tokyo 7th Sisters game | `tokyo-7th-sisters:hanyuda-mito@game` | — |
+| [荒木レナ](characters/index/tokyo-7th-sisters.md#araki-rena) | Tokyo 7th Sisters game | `tokyo-7th-sisters:araki-rena@game` | — |
 | [遊佐メモル](characters/index/tokyo-7th-sisters.md#yusa-memoru) | Tokyo 7th Sisters game | `tokyo-7th-sisters:yusa-memoru@game` | — |

@@ -26,8 +26,8 @@ project_initialization:
   method_status: active_provisional
   architecture_status: active_provisional
   source_reconnaissance_complete: true
-  source_reconnaissance_scope: LN10_COMPLETE_NATIVE_TEXT_AND_ORIGINAL_IMAGE_INSPECTION
-  source_admission: VERIFIED_LN10_SOURCE_AND_LEDGER_TRANSACTION_REVIEW_ACCEPTED
+  source_reconnaissance_scope: I1_METADATA_BYTES_STRUCTURE_AND_PROVENANCE_PLUS_COMPLETED_LN10_NATIVE_TEXT_AND_ORIGINAL_IMAGE_INSPECTION
+  source_admission: VERIFIED_I1_AND_FIVE_BW_CONTINUOUS_KAKUYOMU_RESUMED_AFTER_COMPLETED_LN10
   required_day_one_infrastructure_initialized: true
   required_day_one_infrastructure:
     - "04 Longitudinal Ledgers/SHUUKURA_CHARACTER_STATE_AND_READINESS_LEDGER.md"
