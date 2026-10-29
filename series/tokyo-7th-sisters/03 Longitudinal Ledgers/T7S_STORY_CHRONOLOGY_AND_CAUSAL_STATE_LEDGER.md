@@ -4,16 +4,16 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.92"
+version: "11.97"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 84 Intimacy primary documents across 10 family portfolios / T7S_B0182–T7S_B0191; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 111 Intimacy primary documents across 15 family portfolios / T7S_B0182–T7S_B0196; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-28
+last_updated: 2026-10-29
 ---
 
 # Tokyo 7th Sisters story chronology and causal state ledger
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1173`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1323`; `last_closed_block = T7S_B0191`. The admitted horizon contains 599 primary documents: 235 Main, 280 i-n-g and 84 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 84 Intimacy documents across 10 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1200`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1350`; `last_closed_block = T7S_B0196`. The admitted horizon contains 626 primary documents: 235 Main, 280 i-n-g and 111 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 111 Intimacy documents across 15 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3885,3 +3885,117 @@ Owner [B0191](../02%20Readings/T7S_B0191_DEEP_READING.md), reading SHA256 `ba97c
 | `EDGE-1330` | `EV-B0191-005` ↔ `EV-B0191-006` | `PROTECTED_READING_AND_BROADCAST_WINDOW_COMPARISON`: two leisure claims recruit different temporal urgency; no completed leave, common program or total chronology. |
 
 Totals: 1173 EV, 25 WORLD, 47 THREAD and 1323 active EDGE records. Maximum EDGE1330 retains the seven pre-existing non-active gaps. No cross-case BEFORE edge or institutional/fictional-world event is invented.
+
+## B0192 Nicole's selected listeners and passing idol world
+
+Owner [B0192](../02%20Readings/T7S_B0192_DEEP_READING.md), reading SHA256 `84fea3c716cab630dbcfcf93e3bca125cbf071041fed299f5f583e809fc6efe0`; complete family200840 / route NM-INTIMACY-200840, five primary documents, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.98. The complete prospective B0191/12.97 source/coverage/entity views and25 physical before-images were frozen at827a0221ccc2156307543c62a973ad8cc222325c before primary access. Separate Git-only reconciliation reaches integration base2c964d2ef1785dc48ca9de26078121d7aad0c48b with the exact same T7S tree and before-images. The reading's A-E key binds exact scripts and zero-based primary locators. All five are independent conditional occurrences; title/menu/cue order supplies no total chronology or actual unlock date.
+
+| ID | Complete primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0192-001` | A:401000105 P0-3 | Nicole greets a limited group of Seven Sisters fans, reports happiness at meeting warm fans, attributes idol support to their love, requests continuing support and promises the idols' continuing regard. | `SELECTED_PLURAL_FAN_ADDRESS_AND_OWN_RECIPROCITY_CLAIM`; no own fan reply, verified delivery, private manager encounter or separately ratified all-idol consensus. |
+| `EV-B0192-002` | B:401000626 P0-5 | Calls for song checking/downloads, reports watching girls' covers, praises their quality, imagines future idols and asks support for those girls as well as the Sisters. | `PROMOTIONAL_CALL_AND_PROSPECTIVE_GENERATIVITY`; no played video, named girl, analyst quality test, completed debut or institution policy. |
+| `EV-B0192-003` | C:401001338 P0-5 | Offers selected listener a secret: Sisters' HoloComs supposedly combine into a giant named robot with the Sisters as pilots; attributes disbelief and playfully threatens withheld beam protection. | `FANTASTIC_DEVICE_CLAIM_AND_ATTRIBUTED_UPTAKE`; no actual robot/invasion/piloting, established device function, own listener turn, explicit retraction or certain deliberate-lie finding. |
+| `EV-B0192-004` | D:401001770 P0-5 | Self-dramatizes, reports startlement by Akiba Seven hologram advertising, reflects on entertainment's pace and idols being left behind, and tentatively calls idols a moment associated with chest pain. | `REPORTED_SURPRISE_AND_QUALIFIED_IMPERMANENCE_REFLECTION`; no played ad, heard cry, actual terrorism, clinical finding, settled theory or advance dissolution knowledge. |
+| `EV-B0192-005` | E:401003025 P0-5 | Hopes message reaches listener, reports busy national tour/Osaka3rd appraisal, admits hard idol work, credits national/overseas audiences with courage, and asks continued love despite distance while promising regard. | `TOUR_ACCOUNT_AND_DISTANCE_AFFECTION`; uncertain reception retained, no independently verified itinerary/food/census, own audience answer or exclusive individual romance. |
+
+| ID | Compared events | Typed relationship and limit |
+| --- | --- | --- |
+| `EDGE-1331` | `EV-B0192-001` / `EV-B0192-005` | `FAN_SUPPORT_AND_RETURNED_REGARD_FORMAL_COMPARISON`: gratitude and promised thought persist across reported distance; no A-before-E, measured reciprocity or verified reception. |
+| `EDGE-1332` | `EV-B0192-002` / `EV-B0192-004` | `FUTURE_TALENT_AND_POSSIBLE_IDOL_BREVITY_COMPARISON`: delight in possible successors coexists with tentative pain about passing presence; no causal resolution, shared date or dissolution forecast. |
+| `EDGE-1333` | `EV-B0192-003` / `EV-B0192-004` | `FANTASTIC_MASTERY_AND_REPORTED_TECHNOLOGICAL_SURPRISE`: protective robot hyperbole and startlement give different relations to technology; no verified mechanism, hypocrisy diagnosis or event sequence. |
+| `EDGE-1334` | `EV-B0192-004` / `EV-B0192-005` | `MOMENT_AND_CONTINUING_AFFECTION_FORMAL_COMPARISON`: tentative brevity and promised regard remain different objects; no eternal stamina, reversed reflection or chronology. |
+| `EDGE-1335` | `EV-B0192-001` / `EV-B0192-003` | `SELECTED_AUDIENCE_AND_SELECTED_SECRET_COMPARISON`: limited plural fan message and singular secret construct closeness differently; neither supplies a private Player exchange or counterpart-own assent. |
+
+Totals:1178 EV,25 WORLD,47 THREAD and1328 active EDGE records; maximum EDGE1335 retains the seven older non-active gaps. No new BEFORE edge, world mechanism or institutional event is invented.
+
+## B0193 Mito's song and the demand to be visible
+
+Owner [B0193](../02%20Readings/T7S_B0193_DEEP_READING.md), reading SHA256 `fe25df61bc5fc745b86dbb112e5eef755ed7efca2adc314e51b5f8617cbd3c2f`; complete family200850 / route NM-INTIMACY-200850, five primary documents, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.99. The complete prospective B0192/12.98 controls and25 physical before-images were committed at96ed134666256d07d64f11f5fe3fdcf0f617ac0c before primary access. The frozen audit-pending state at capture is retained; later B0192 audit and any Git-only reconciliation have separate receipts. A-E bind exact scripts/zero-based primary ranges in the reading. These are independent conditional occurrences, with no menu/cue-derived total chronology or actual unlock date.
+
+| ID | Complete primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0193-001` | A:401000107 P0-3 | Mito declines a planned special message for selected plural listeners, treats song talk as redundant, then offers an expansive tofu valuation ending mid-formulation. | `DECLINED_MESSAGE_AND_CHOSEN_ORDINARY_SUBJECT`; no manager exchange, listener reply, literal cosmos, nutritional finding or actual meal/purchase. |
+| `EV-B0193-002` | B:401000882 P0-5 | Ellipsis/syllable records stage provisional composing; Mito takes up Nicole's apparent plainness objection, repeats an incense/closed-room/sword proposal and challenges that view of composing. | `MODEST_TRIAL_AND_REJECTED_VISUAL_MYSTIQUE`; no heard melody/silence, finished song, Nicole-own turn, ritual compliance or actual props. |
+| `EV-B0193-003` | C:401001486 P0-5 | Reports a pre-live camera request and attributed fan desire, objects to harm to the song's world, accepts the already-made decision, describes usual concentration/rehearsal and signals time to go to the audience. | `CONSTRAINED_CAMERA_ACCEPTANCE_AND_AUDIENCE_PURPOSE`; no actual continuous recording/performance/reception, named decision maker, enthusiastic blanket consent or group policy. |
+| `EV-B0193-004` | D:401001794 P0-5 | At a reported idol sports event, distinguishes Nicole's winning enthusiasm from her own complaints, ranks the song's marginal screen treatment highest, and reports a bonus-recording decision/request to viewers. | `CONTESTED_FORMAT_AND_SOUGHT_MUSICAL_PROMINENCE`; no played broadcast/song, completed recording contract, actual bloomers change/exposure, own Nicole reply or verified viewer uptake. |
+| `EV-B0193-005` | E:401003049 P0-5 | Attributes a private-life request, calls herself ordinary outside singing, reports walks/Nicole's forced outing, asks where they are and what ComiGene is, then breaks off as she reports crowd movement. | `ORDINARY_SELF_DESCRIPTION_AND_INTERRUPTED_EXPLANATION`; no full explanation, confirmed injury/rescue/exit, Nicole-own motive, actual pulling animation or completed knowledge repair. |
+
+| ID | Compared events | Typed relationship and limit |
+| --- | --- | --- |
+| `EDGE-1336` | `EV-B0193-001` / `EV-B0193-005` | `ORDINARY_SELF_DESCRIPTION_AND_SPECIFIC_INTEREST`: song-only/uninteresting formulations coexist with a chosen tofu discourse and ordinary outings; no exhaustive personality diagnosis or case sequence. |
+| `EDGE-1337` | `EV-B0193-002` / `EV-B0193-003` | `PLAIN_WORK_AND_REQUESTED_BACKSTAGE_ATTENTION`: provisional composition and repeated preparation distinguish labor from demanded spectacle; no B-before-C, measured technique or finished performance. |
+| `EDGE-1338` | `EV-B0193-003` / `EV-B0193-004` | `UNWANTED_SUPPLEMENTARY_AND_WANTED_MUSICAL_VISIBILITY`: reluctant backstage acceptance and sought song-focused recording concern different distributions of attention; no simple pro/anti-camera rule or development sequence. |
+| `EDGE-1339` | `EV-B0193-002` / `EV-B0193-005` | `NICOLE_PROPOSAL_AND_OUTING_AS_MITO_ACCOUNTS`: two peer negotiations retain quotation/attribution and missing Nicole-own access; no universal motive, completed consent or causal link. |
+| `EDGE-1340` | `EV-B0193-003` / `EV-B0193-005` | `ACCEPTED_DECISION_AND_INTERRUPTED_UNDERSTANDING`: an explicit local acceptance differs from an outing ending before explanation; no general freedom/lack-of-agency verdict or before/after relation. |
+
+Totals:1183 EV,25 WORLD,47 THREAD and1333 active EDGE records. Maximum EDGE1340 retains the seven older non-active gaps. No new BEFORE edge, world mechanism or institutional rule is invented.
+
+## B0194 Mana's wishes and the meanings others supply
+
+Owner [B0194](../02%20Readings/T7S_B0194_DEEP_READING.md), reading SHA256 `45fc1da529c941364fc16373ae5ba0cd374f6238681ba871725c1e4d2553d808`; complete family200860 / route NM-INTIMACY-200860, six primary documents, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.100. The complete prospective B0193/12.99 controls and25 physical before-images were committed at4c439df4f27a690d831722225e754b788305dd65 before primary access. Audit-pending-at-capture bytes remain; later successful B0193 audit and any incoming Git-only reconciliation are separately certified. A-F bind exact scripts and zero-based primary locators in the reading. Native menu/title/cue order supplies no total chronology or actual unlock/date.
+
+| ID | Complete primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0194-001` | A:401000109 P0-3 | Mana offers formal thanks, takes up a stiffness comment, shifts to reported bodily softness/peers' handling and receives apparent topic approval while still puzzled. | `WORDPLAY_AND_UNRESOLVED_FEEDBACK`: own report/uptake, no observed touching sequence, specified bodily locations/assent, independent viewer demand or clinical flexibility finding. |
+| `EV-B0194-002` | B:401000694 P0-5 | Reports a well-received earlier family introduction and unintended-joke reception, proposes public repetition, reports especially Memoru/Rui opposition and accepts disappointment. | `PRIVATE_RECEPTION_AND_BLOCKED_PUBLIC_REPEAT`: no reproduced introduction, exact birthday-letter/father binding, own counterpart reply, complete image policy or completed repeat. |
+| `EV-B0194-003` | C:401001346 P0-5 | Acknowledges correction about friendship chocolate, reports pleased Sisters, wishes to give viewers the same, then cites a vague Memoru/food-rule precedent and separate family objection to male recipients. | `GIFT_INTENTION_AND_DIFFERENTLY_REPORTED_BARRIERS`: no verified cultural/legal rule, actual fan delivery, named objector/rationale, own Memoru turn or calendar year. |
+| `EV-B0194-004` | D:401001570 P0-5 | Worries private life is too ordinary, reports brother's seaside invitation/own private-aircraft arrival, describes apparent personal island ownership as an unremembered fifth-birthday gift and says she likes it. | `ORDINARY_RESOURCE_FRAME_AND_QUALIFIED_PROPERTY_ACCOUNT`: no independently verified flight, deed, current age, full finances or own brother turn/name. |
+| `EV-B0194-005` | E:401001814 P0-5 | States current Sisters focus and a hoped-for warm partnership/family, rejects perceived marriage constraint through her own household reasoning, then imagines possible lifelong compliance without meeting Nicole. | `DESIRED_FUTURE_AND_CONTINGENT_FREEDOM`: aspiration/reasoning/modal counterfactual, no identified partner, actual wedding, complete family audit or alternative world. |
+| `EV-B0194-006` | F:401003077 P0-5 | Seeks viewer satisfaction through collected requests, hesitates at body-focused entries and asks clarification, then takes up Mito's attribution of all requests to Nicole and rebukes Nicole. | `REQUEST_FRAME_AND_ATTRIBUTED_AUTHORSHIP_REVEAL`: no enacted requested action, blanket assent, genuine audience-demand proof, independently audited senders or own Mito/Nicole turn. |
+
+| ID | Compared events | Typed relationship and limit |
+| --- | --- | --- |
+| `EDGE-1341` | `EV-B0194-001` / `EV-B0194-006` | `APPROVED_TOPIC_AND_REATTRIBUTED_REQUESTS`: favorable feedback and apparent audience demand retain different mediation/understanding gaps; no actual body action, shared occasion or global audience motive. |
+| `EDGE-1342` | `EV-B0194-002` / `EV-B0194-006` | `INTENDED_MESSAGE_AND_RECEIVED_OR_ASSIGNED_MEANING`: unintended comedy and changed request authorship distinguish Mana's intention from reception/source; no family/requester own reply or before/after. |
+| `EDGE-1343` | `EV-B0194-003` / `EV-B0194-005` | `PARTICULAR_GIFT_OBJECTION_AND_GENERAL_FREEDOM_CLAIM`: different objects/reported family positions remain, with no automatic total captivity, unlimited independence or contradiction verdict. |
+| `EDGE-1344` | `EV-B0194-004` / `EV-B0194-005` | `RESOURCES_AND_CONTINGENT_AGENCY`: ordinary resource access coexists with an own account of possible compliance without Nicole; no deed/complete finances or single causal explanation. |
+| `EDGE-1345` | `EV-B0194-001` / `EV-B0194-004` | `EXPECTED_INTEREST_AND_OWN_ORDINARY_FRAME`: topic approval and worry about boring private life concern how a viewer may value content; no verified reception, exhaustive innocence model or case chronology. |
+| `EDGE-1346` | `EV-B0194-002` / `EV-B0194-003` | `CIRCULATION_ACROSS_AUDIENCES_AND_REPORTED_LIMITS`: a private introduction/gift cannot simply be repeated for viewers under their differently reported obstacles; no common authority, universal rule or completed distribution. |
+
+Totals:1189 EV,25 WORLD,47 THREAD and1339 active EDGE records. Maximum EDGE1346 retains seven pre-existing non-active gaps. Only B/C/D/F provide their local prior/proposal/correction/uptake relations; no cross-case BEFORE edge, property/legal world fact or counterfactual realm is created.
+
+## B0195 Kurt's categories inside an imposed presentation frame
+
+Owner [B0195](../02%20Readings/T7S_B0195_DEEP_READING.md), reading SHA256 `4df5c2c2614e7f566f38959253ca4000d2366c45d298e56af5d9cd1dc1cdba6b`; complete family200870 / route NM-INTIMACY-200870, six primary documents, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.101. Complete prospective B0194/12.100 controls and25 physical before-images were committed atb482a67c341a5415c88d70e736a1631b17a38be9 before primary access. Pending-at-capture audit history remains frozen; B0194's subsequent successful automatic exact-head audit is certified separately. A-F bind exact source scripts and zero-based primary locators in the reading; native menu/title/cue order supplies no total chronology or actual unlock/date.
+
+| ID | Complete primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0195-001` | A:401000111 P0-3 | Kurt hesitates over her introduction and recording medium, denies nerves and reacts to an apparent time signal by saying she has not yet spoken about anything. | `PRESENTATION_FRAME_AND_UNREACHED_TOPIC`: written tension/own denial, no independently heard delivery, diagnosis, named timer, exact duration, private Player turn or viewer response. |
+| `EV-B0195-002` | B:401000826 P0-5 | Takes up a fried-potato/private-life correction, questions the category, then describes her park territory, reported win from local boss Pes and continuing checks. | `SELF_AUTHORED_PRIVATE_LIFE_AND_REPORTED_TERRITORY`: own account, no witnessed contest, legal ownership, species/identity adjudication for Pes or global aggression model. |
+| `EV-B0195-003` | C:401001418 P0-4 | Hides the camera to feel ordinary, verbally begins floor play, notices an insect, reports sticky juice and proposes a clothing change, then asks why Rui keeps interfering. | `INVISIBLE_DEVICE_AND_CONTINUING_SOCIAL_REGULATION`: no cessation of recording, Rui-own motive, completed insect eating/clothing change, deliberate Memoru prank or depicted action. |
+| `EV-B0195-004` | D:401001857 P0-5 | Attributes utensil lessons to Mana/Mito, demonstrates a forceful gripping/thrusting schema despite uncertainty, and reports praise for a step beyond using her hands. | `INCREMENTAL_LEARNING_AND_UNVERIFIED_MASTERY`: reported instruction/praise, no complete lesson, continuously observed meal, universal malice or measure of moral competence. |
+| `EV-B0195-005` | E:401003053 P0-5 | Presents cicada/snake shed skins as ninja transformation evidence, extends that account to Rui's work clothes, and reports Nicole's jersey explanation with disappointment. | `VALUED_ANALOGY_AND_MEDIATED_LABEL`: coherent imaginative pattern, no actual Rui biological shedding, transformation scene, object provenance or narrator-certified ninja biology. |
+| `EV-B0195-006` | F:401003109 P0-5 | Anticipates a sports day from running/jumping skills and Nicole's assigned trump-card role, reports different peer positions and Memoru's unexplained preparation words, then asks for support. | `COMPETENCE_WITH_PARTIAL_INSTITUTIONAL_KNOWLEDGE`: no event victory, actual pin/laxative use, injury, verified plan, total idol rule or identity with Mito's independent sports-day occurrence. |
+
+| ID | Compared events | Typed relationship and limit |
+| --- | --- | --- |
+| `EDGE-1347` | `EV-B0195-001` / `EV-B0195-003` | `VISIBLE_PRESENTATION_AND_HIDDEN_DEVICE_WORKAROUND`: a camera address feels disruptive; concealing it leaves social intervention in place. Formal comparison, no BEFORE or cure established. |
+| `EDGE-1348` | `EV-B0195-001` / `EV-B0195-006` | `FRAMING_DIFFICULTY_AND_CONFIDENT_CONTRIBUTION`: unsettled introduction and anticipated bodily skill coexist; no universal incompetence, developmental sequence or verified victory. |
+| `EDGE-1349` | `EV-B0195-002` / `EV-B0195-005` | `OWN_VALUED_CATEGORIES`: territory and transformative treasure organize Kurt's account beyond presentation vocabulary; no actual contest/biology or single instinct-only explanation. |
+| `EDGE-1350` | `EV-B0195-004` / `EV-B0195-005` | `CONVENTION_LEARNING_AND_ANALOGICAL_REASONING`: utensil approximation and ninja classification differ in object and standard; no equivalence of error, chronology or total incapacity. |
+| `EDGE-1351` | `EV-B0195-003` / `EV-B0195-004` | `INTERRUPTION_AND_REPORTED_INCREMENTAL_PRAISE`: peer regulation and learning support are differently mediated; no undifferentiated caretaker role or fully known motive. |
+| `EDGE-1352` | `EV-B0195-003` / `EV-B0195-006` | `OWN_ACTIVITY_AND_PEER_FRAMING`: ordinary behavior and prospective useful skill encounter others' boundaries/expectations; no actual audience approval, informed endorsement of preparations or common occasion. |
+
+Totals:1195 EV,25 WORLD,47 THREAD and1345 active EDGE records. Maximum EDGE1352 retains seven pre-existing non-active gaps. Local reported acquisition/maintenance, remembered instruction, repeated work change and present sports-day anticipation retain their own frames; no cross-case BEFORE edge or new territorial/property/biological world fact is created.
+
+## B0196 Rui's chosen access and particular limits
+
+Owner [B0196](../02%20Readings/T7S_B0196_DEEP_READING.md), reading SHA256 `238058f7bc085fc14f7e44534fb858a8bda52d027eb79a8e2b09c4514757dc96`; complete family200880 / route NM-INTIMACY-200880, five primary documents, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.102. Complete prospective B0195/12.101 controls and25 physical before-images were committed atcd5191db4bf627970eed12226cc812014a0251ee before primary access. Pending-at-capture audit bytes retain history; B0195's subsequent successful automatic exact-head audit is certified separately. A-E bind exact scripts and zero-based primary locators in the reading; native menu/title/voice order supplies no total chronology, actual unlock/date or actor foreknowledge.
+
+| ID | Complete primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0196-001` | A:401000113 P0-3 | Rui thanks recipients, explicitly places live/home listeners' love on equal terms, then offers a special-feeling bond as a secret of this time/place. | `EQUAL_REGARD_AND_SITUATED_SPECIALNESS`: own address, no privately established Player relationship, accepted reciprocity, audited exclusive distribution or categorical hypocrisy/motive finding. |
+| `EV-B0196-002` | B:401000790 P0-5 | Values wandering without purpose against scheduled days, conditionally welcomes fan approaches, reports rare private recognition and wonders whether feminine clothing explains it while feeling mixed. | `REST_AND_AMBIVALENT_VISIBILITY`: own pattern/hypothesis/feeling, no actual encounter, proved recognition cause, disguise success or new age/gender-identity claim. |
+| `EV-B0196-003` | C:401001374 P0-5 | Attributes an abrupt mountain proposal to Nicole, jumps hours to a summit without a full explanation, reports exhaustion except Nicole/Kurt and anticipates descent, then admires the view and wonders about future group scenery. | `ADMIRATION_WITH_COST_AND_OPEN_HORIZON`: own report/metaphor, no full consent/logistics, medical measurement, completed descent or dissolution foreknowledge. Exact bg016 is a sunset playground, not mountain corroboration. |
+| `EV-B0196-004` | D:401001834 P0-4 | Offers a rare pre-live camera glimpse, qualifies whether the group's positive tension reaches the screen, excepts Nicole's natural power and asks viewers to watch next from the seats. | `OFFERED_BACKSTAGE_THRESHOLD_AND_REDIRECTED_AUDIENCE`: attributed observation/limited comparison, no heard atmosphere, group physiology, continuous entrance, song or completed live. |
+| `EV-B0196-005` | E:401003093 P0-5 | Reports recently bathing energetic Kurt, describes own frequent shower preference and cold-drink ideal, takes up only-Memorun stock information, refuses and proposes an outside purchase. | `CARE_AND_CONCRETE_NEGATIVE_PREFERENCE`: report/own refusal/intention, no depicted bath, measured doubling, new Kurt/stock-speaker/Memoru-own turn, known drink contents/harm or completed purchase/consumption. |
+
+| ID | Compared events | Typed relationship and limit |
+| --- | --- | --- |
+| `EDGE-1353` | `EV-B0196-001` / `EV-B0196-002` | `ADDRESSED_SPECIALNESS_AND_PRIVATE_NONRECOGNITION`: offered audience intimacy and mixed private visibility coexist; no fan motive, logical universal contradiction or BEFORE established. |
+| `EDGE-1354` | `EV-B0196-001` / `EV-B0196-004` | `QUALIFIED_ACCESS_AND_AUDIENCE_POSITION`: secret-feeling message and unusual backstage glimpse offer bounded proximity; no permanent backstage access or unique personal contract. |
+| `EDGE-1355` | `EV-B0196-002` / `EV-B0196-005` | `OWN_PREFERENCES_WITH_AVAILABILITY`: rest, conditional fan openness, care and a definite drink refusal retain choice; no perfectly hidden self, completed purchase or global withdrawal. |
+| `EDGE-1356` | `EV-B0196-003` / `EV-B0196-004` | `OBJECT_SPECIFIC_ADMIRATION_FOR_NICOLE`: mobilizing scenery with bodily cost and natural pre-live power are differently reported; no all-purpose infallibility, full consent or no-fear-in-every-context rule. |
+| `EDGE-1357` | `EV-B0196-003` / `EV-B0196-005` | `BODILY_COST_AND_PRACTICAL_CARE`: fatigue and taxing care persist alongside positive valuation/preference; no depicted action, common occasion or actor-stage chronology inferred. |
+
+Totals:1200 EV,25 WORLD,47 THREAD and1350 active EDGE records. Maximum EDGE1357 retains seven pre-existing non-active gaps. C's reported hours/past pattern/future question, D's imminent particular live and E's recent task/proposed purchase retain local/modal frames; no cross-case BEFORE edge or new summit-location world fact is created.
