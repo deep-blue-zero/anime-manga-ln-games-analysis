@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.30"
+version: "1.31"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0205; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0206; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1950,4 +1950,41 @@ Owner [B0205](../02%20Readings/T7S_B0205_DEEP_READING.md), reading SHA256 `ef0a7
 | `REL-1147` | `Yumeno → Kyoko/Honoka, separately established routes` | G:P4-5: reports their support attendance and imagines a missed chance to watch them with Rena. No actual co-attendance, unified private motive, permission for her gaze or new group identity. |
 
 Totals:1340 KNOW/1147 REL.102IDENTITY/84CHAR/29UNIT/29READY retained without a new route, individual Yumeno READY or R2 upgrade. Nine source-named identity/character pairs stay established; peers remain report-only where absent and the manga-club bulletin adds no institutional record. All prior bodies/IDs preserved.
+
+## B0206 Tasha's names for closeness and an unfinished future
+
+Owner [B0206](../02%20Readings/T7S_B0206_DEEP_READING.md), reading SHA256 `5f079d9cd71ff04c90b117e9ced85cc3f413c028540d762752ea8aad586c8533`; source-lock 12.112, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published6607135b/B0205/12.111 before primary; successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1341` | Tasha describes manager teaching as welcome and offers to teach a word from her country in return. | A:P1; gratitude and reciprocal contribution, not a certified lesson or named national origin. |
+| `KNOW-1342` | Tasha glosses ダラゴーイ as an important person and applies it to manager. | A:P2; exact speaker gloss/use, not independently verified vocabulary, grammatical gender or citizenship. |
+| `KNOW-1343` | Tasha asks for a Japanese counterpart when she becomes his dear person. | A:P3; future question distinguishes her assertion from unprovided manager reciprocity/promise. |
+| `KNOW-1344` | Tasha reports a successful job and staff praise. | B:P1; attributed performance appraisal, no shown staff turn, technical result or adult qualification. |
+| `KNOW-1345` | Tasha receives apparent praise, enjoys being stroked/patted and then insists she is a working lady. | B:P2-3; represented interaction/own category, no named touch site, visual gesture, adulthood or general contact license. |
+| `KNOW-1346` | Tasha proposes cake and a date consisting of park play. | B:P4-5; self-tried ladylike criteria and invitation, no accepted or completed outing. |
+| `KNOW-1347` | Tasha reports a growing-up essay and a conflict between anticipated return and enjoyable idol work. | C:P1-2; own expectations/wish, no final return or residence decision. |
+| `KNOW-1348` | Tasha attributes Japan affection/homeland importance to both parents. | C:P3; no separate parental speech, named country, exact family history or completed negotiation. |
+| `KNOW-1349` | Tasha reports writing a future life with manager, predicts father would allow it and reports teacher surprise. | C:P4-5; no actual parental/manager assent, known teacher reasoning, marriage, guardianship or later research foreclosure. |
+| `KNOW-1350` | Tasha reports studying Japan through period/ninja media and initially groups lord/master addresses as dear-person terms. | D:P1-2; situated media inference/sound preference, no universal historical-language claim. |
+| `KNOW-1351` | Tasha takes up an apparent correction and rejects master because manager means dear family to her. | D:P3-4; represented correction and own relational distinction, not abolished work authority or legal family. |
+| `KNOW-1352` | Tasha considers brother but chooses manager because she feels embarrassed. | D:P5; local naming choice, no new sibling identity or permanent ban on another address. |
+| `KNOW-1353` | Tasha reports father-introduced rakugo difficulty and prefers the manager's Coney-failure anecdote. | E:P1-2; own comprehension/appraisal, no performance heard, audited failure or new Coney turn. |
+| `KNOW-1354` | Tasha imagines manager as a popular storyteller and herself as his tea-carrying assistant. | E:P3-4; hypothetical role/confidence, no actual career, audience, apprenticeship or demonstrated task competence. |
+| `KNOW-1355` | Tasha withdraws the proposal after imagining lost playtime. | E:P5; local revision prompted by an anticipated cost, no real fame, accepted promise or universal career veto. |
+| `KNOW-1356` | Tasha values snow/footprints and contrasts remembered home with Tokyo's snow in her experience. | F:P1-2; own emphatic comparison, not meteorological fact, current snow scene or named nationality. |
+| `KNOW-1357` | Tasha likes present films/anime/novelty and analogizes new-place walks to traces in hearts. | F:P3-4; stated belonging and explicit metaphor, not independent access to others' memories. |
+| `KNOW-1358` | Tasha requests more new places and first steps with manager. | F:P5; companion preference, not permanent residence, universal incapacity or guaranteed future travel. |
+| `KNOW-1359` | Tasha links evening departure/goodbyes to loneliness and orange warmth to sadness. | G:P1-2; situated affect/meaning, not objective temperature or a clinical diagnosis. |
+| `KNOW-1360` | Tasha says manager currently goes back with her and wonders about always being together. | G:P3; represented current companionship versus future question, no supplied promise or completed route/destination. |
+| `KNOW-1361` | Tasha asks not to be let go and makes orange warmth depend on his company in her expression. | G:P4; no explicit held hand, restraint, guaranteed permanence or proof no one else can comfort her. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1148` | `tasha-romanovsky → player-protagonist` | A-G: reciprocal teaching, competence recognition, familial address, imagined shared future and requested companionship have her own explicit meanings. C essay/G always-together remain wishes; no blanket touch consent, settled romance, legal kinship or permanent availability. |
+| `REL-1149` | `player-protagonist → tasha-romanovsky` | B:P2/D:P3/G:P3: pleasing stroking/patting, address correction and present return company are represented through her uptake/account. Touch site unspecified; no separate complete reply, reciprocal romantic intent, guardian authority or future promise. |
+| `REL-1150` | `Tasha → unnamed parents` | C:P3-4/E:P1: attributes affection for Japan and homeland value to both, predicts father's permission and reports his rakugo introduction. No parental own turn, actual permission, precise family/nationality history or replaced family. |
+| `REL-1151` | `tasha-romanovsky → rokusaki-connie-presented` | E:P2: remembers amusement at the manager's Coney-failure anecdote. Mediated appraisal, no new own encounter, independently established failure or backdated change to later Nicole-Coney horizon. |
+
+Totals:1361 KNOW/1151 REL.102IDENTITY/84CHAR/29UNIT/29READY retained without a new route or R2 upgrade. Tasha READY0026 remains R2_STATE_BOUNDED at complete native MainEP5.0/endB0069 and MONOGRAPH_NOT_READY. Three source-named identity/character pairs stay established; unnamed parents/staff/teacher remain reported roles. All prior bodies/IDs preserved.
 <!-- T7S ENTITY STATE PAYLOAD END -->

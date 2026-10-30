@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.106"
+version: "11.107"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 177 Intimacy primary documents across 24 family portfolios / T7S_B0182–T7S_B0205; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 184 Intimacy primary documents across 25 family portfolios / T7S_B0182–T7S_B0206; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-29
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1277`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1421`; `last_closed_block = T7S_B0205`. The admitted horizon contains 692 primary documents: 235 Main, 280 i-n-g and 177 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 177 Intimacy documents across 24 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1284`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1427`; `last_closed_block = T7S_B0206`. The admitted horizon contains 699 primary documents: 235 Main, 280 i-n-g and 184 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 184 Intimacy documents across 25 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4255,3 +4255,28 @@ Owner [B0205](../02%20Readings/T7S_B0205_DEEP_READING.md), reading SHA256 `ef0a7
 | `EDGE-1428` | `EV-B0205-005 / EV-B0205-007` | IMAGINED_COMPANIONSHIP_AND_OFFSCREEN_ACTIVITY; maid-event roles and athletic-support reports retain others' independent agency/unknown assent. No completed event or co-witness status follows. |
 
 Totals:1277 EV,25 WORLD,47 THREAD,1421 active EDGE with maximum1428/seven earlier intentional gaps retained. Seven whole factual homes; no new WORLD or earlier body/ID/chronology change.
+
+## B0206 Tasha's names for closeness and an unfinished future
+
+Owner [B0206](../02%20Readings/T7S_B0206_DEEP_READING.md), reading SHA256 `5f079d9cd71ff04c90b117e9ced85cc3f413c028540d762752ea8aad586c8533`; source-lock 12.112, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published6607135b/B0205/12.111 before primary; successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0206-001` | A:401000188 P0-3 | Thanks manager for teaching, offers her home-country word for an important person, applies it to him and asks for the Japanese counterpart when she becomes his dear person. | RECIPROCAL_TEACHING_AND_FUTURE_QUESTION; own katakana gloss/affection, no named country, independently verified lexicon or supplied reciprocal declaration. |
+| `EV-B0206-002` | B:401000574 P0-5 | Reports successful work/staff praise, enjoys represented stroking/patting, insists she is a working lady and asks for cake followed by a park date/play. | REPORTED_COMPETENCE_REPRESENTED_TOUCH_PROSPECTIVE_OUTING; touch site unspecified, no shown job, adulthood, blanket contact permission or completed invitation. |
+| `EV-B0206-003` | C:401000766 P0-5 | Reports a growing-up school essay, conflicted homecoming and parental homeland values, then a written wish to live with manager, predicted paternal permission and teacher surprise. | ESSAY_SELF_ACCOUNT_AND_PREDICTED_ASSENT; no actual parental/manager acceptance, settled residence, marriage/guardianship or overwrite of later research choices. |
+| `EV-B0206-004` | D:401000890 P0-5 | Tries a media-derived master-address, takes up a correction, rejects it for dear-family meaning, considers brother and returns to manager out of embarrassment. | ADDRESS_EXPERIMENT_AND_REPRESENTED_CORRECTION; no universal history lesson, legal kinship, servitude or abolished workplace authority. |
+| `EV-B0206-005` | E:401001114 P0-5 | Reports father-introduced rakugo difficulty and amusement at a manager anecdote about Coney, imagines new performer/assistant roles, then retracts the plan over possible lost playtime. | ATTRIBUTED_EXPOSURE_APPRAISAL_AND_REVISED_PROPOSAL; no audited Coney failure, performed storytelling, actual job/apprenticeship or permanent career veto. |
+| `EV-B0206-006` | F:401001306 P0-5 | Values snow and footprints, contrasts remembered home with Tokyo, affirms present novelty and asks for more first steps with manager through a heart-footprint analogy. | SITUATED_CLIMATE_ACCOUNT_AND_EXPLICIT_METAPHOR; no named nationality, current snow, access to others' minds, guaranteed future travel or permanent residence. |
+| `EV-B0206-007` | G:401001454 P0-4 | Connects evening goodbyes with loneliness and orange warmth with sadness, values present return companionship and requests continuing closeness. | PRESENT_COMPANIONSHIP_ACCOUNT_AND_FUTURE_WISH; no explicit handhold, completed walk/destination, permanent promise or clinical diagnosis. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1429` | `EV-B0206-001 / EV-B0206-004` | RECIPROCAL_WORD_AND_TESTED_ADDRESS; own gloss and corrected title trial locate importance differently, without lexical universality, mutual declaration or chronological lesson sequence. |
+| `EDGE-1430` | `EV-B0206-002 / EV-B0206-005` | TRIED_ROLES_AND_PREFERRED_ACCESS; lady language and imagined assistant role are self-authored experiments; neither establishes adult status, a job or permanent manager availability. |
+| `EDGE-1431` | `EV-B0206-003 / EV-B0206-006` | HOME_ATTACHMENT_AND_SUPPORTED_NOVELTY; conflicted homecoming and new-place metaphor coexist without a settled country/residence decision or a causal chronology. |
+| `EDGE-1432` | `EV-B0206-006 / EV-B0206-007` | ENDURING_TRACE_AND_GOODBYE_COLOUR; material images express desired relational continuity, not independently verified memories, guaranteed presence or diagnosis. |
+| `EDGE-1433` | `EV-B0206-003 / EV-B0206-004` | FUTURE_HOUSEHOLD_AND_PRESENT_FAMILY_ADDRESS; written cohabitation wish and familial naming do not supply parental assent, legal kinship, marriage or a completed arrangement. |
+| `EDGE-1434` | `EV-B0206-002 / EV-B0206-007` | LOCAL_COMFORT_AND_ITS_IMAGINED_EXTENSION; represented pleasing touch and current return companionship differ from future cake/park and always-together requests. No blanket consent or permanence. |
+
+Totals:1284 EV,25 WORLD,47 THREAD,1427 active EDGE with maximum1434/seven earlier intentional gaps retained. Seven whole factual homes; no new WORLD or earlier body/ID/chronology change.

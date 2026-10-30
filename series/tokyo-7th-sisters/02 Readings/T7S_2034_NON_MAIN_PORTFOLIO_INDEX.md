@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.106"
+version: "2.107"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its historical boundary. The [remaining2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed the B0160–B0181 i-n-g checkpoint at22source units/66episodes; overall i-n-g280/280 across102chapters. Later Intimacy portfolios: 24, complete primary occurrences: 177; 172 Intimacy/517eligible story episodes and supplemental/multimodal/character/era-release obligations remain. The next authorized unread portfolio is B0206, ターシャ・ロマノフスキー, route `NM-INTIMACY-200730` / native Sub family `200730`, 7 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its historical boundary. The [remaining2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed the B0160–B0181 i-n-g checkpoint at22source units/66episodes; overall i-n-g280/280 across102chapters. Later Intimacy portfolios: 25, complete primary occurrences: 184; 165 Intimacy/510eligible story episodes and supplemental/multimodal/character/era-release obligations remain. The next authorized unread portfolio is B0207, ジェダ・ダイヤモンド, route `NM-INTIMACY-200750` / native Sub family `200750`, 7 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.
 
 ## Closed first i-n-g tranche
 
@@ -198,3 +198,4 @@ Each family closes exact primary members with one qualified mini-case per occurr
 | [T7S_B0203](T7S_B0203_DEEP_READING.md) | `200470` / 天堂寺ムスビ / `NM-INTIMACY-200470` | `401000167 / 401000351 / 401000416 / 401000488 / 401000662 / 401000690 / 401000898 / 401000970 / 401001262` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
 | [T7S_B0204](T7S_B0204_DEEP_READING.md) | `200770` / 前園リシュリ / `NM-INTIMACY-200770` | `401000174 / 401000508 / 401000798 / 401000910 / 401001110 / 401001290 / 401001394` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
 | [T7S_B0205](T7S_B0205_DEEP_READING.md) | `200710` / 堺屋ユメノ / `NM-INTIMACY-200710` | `401000181 / 401000520 / 401000774 / 401000834 / 401001058 / 401001134 / 401001414` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0206](T7S_B0206_DEEP_READING.md) | `200730` / ターシャ・ロマノフスキー / `NM-INTIMACY-200730` | `401000188 / 401000574 / 401000766 / 401000890 / 401001114 / 401001306 / 401001454` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |

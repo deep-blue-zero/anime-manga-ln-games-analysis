@@ -4,13 +4,13 @@ artifact_id: T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL
 artifact_type: evidence_locator_protocol
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.109"
+version: "1.110"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0205; complete source-lock JSON and two logical coverage roles maintained through checked manifest-bound physical components"
+source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0206; complete source-lock JSON and two logical coverage roles maintained through checked manifest-bound physical components"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-29
@@ -140,7 +140,7 @@ Packets record lock digest, exact membership and ranges, query/parameters, adapt
 
 ### Exact membership and initial coverage
 
-The canonical coverage ledger is one authored logical consumption/routing ledger represented by the [manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), the [current-or-consumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl), and the [routed-or-unconsumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl). Across the disjoint union it has one record per exact script and catalog episode membership plus twelve supplemental tranche records (ten active leaves and two inactive split parents): 778 current-or-consumed records and 812 routed-or-unconsumed records after B0205, 1,590 data records total. It contains IDs and decisions; no copied source text or bulk metadata.
+The canonical coverage ledger is one authored logical consumption/routing ledger represented by the [manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), the [current-or-consumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl), and the [routed-or-unconsumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl). Across the disjoint union it has one record per exact script and catalog episode membership plus twelve supplemental tranche records (ten active leaves and two inactive split parents): 785 current-or-consumed records and 805 routed-or-unconsumed records after B0206, 1,590 data records total. It contains IDs and decisions; no copied source text or bulk metadata.
 
 At B0191 the current-or-consumed role has four physical components: its original address, CURRENT_002, CURRENT_003 and [CURRENT_004](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_CURRENT_004.jsonl). The routed role retains two components. Read all six ordered components through the current manifest; the original role address alone is incomplete. This bounded physical growth preserves the complete 1,590-record logical union, role defaults and decision history; frozen transition receipts retain their historical five-component boundary.
 
@@ -392,3 +392,7 @@ Missing/indirect/foreign parts, stale hashes, unknown schemas, owner/version/hor
 - 2026-10-29: move exactly7 fullT7S_B0204records with explicit defaults/history; all1583other effective records retain bytes/values.
 
 - 2026-10-29: move exactly7 fullT7S_B0205records with explicit defaults/history; all1583other effective records retain bytes/values.
+
+- 2026-10-29: move exactly7 fullT7S_B0206records with explicit defaults/history; all1583other effective records retain bytes/values.
+
+At T7S_B0206 the current SourceLock manifest declares five ordered logical components001–005. Read every component through the physical owner and current manifest; no individual part is a complete SourceLock. The earlier four-component snapshots remain frozen. This bounded growth changes storage only, preserves complete earlier logical/serialized history and admits no additional primary evidence or2053 semantics.
