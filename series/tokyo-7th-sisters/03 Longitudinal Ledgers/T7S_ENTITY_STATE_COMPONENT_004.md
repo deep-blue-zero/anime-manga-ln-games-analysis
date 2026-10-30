@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.12"
+version: "1.13"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0222; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0223; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -694,4 +694,52 @@ Existing Miwako `IDENTITY-0043 / CHAR-0070 / asami-miwako`, Player `IDENTITY-000
 CHAR-0070 gains chosen disclosure and privacy limits, particular music-company value, uncertainty when asked to teach an adult image, defense of idol/rock pleasures, imagined study within continued work, specific food choice and reciprocal child-led learning. B0094 plural futures, B0120 register help, B0132 fan/care/risk limits, B0139 agency-first restraint, B0160 consented method coaching/anxiety, B0170 role vulnerability/differentiated recall/pressure and care costs, B0177 task-local learning/partial whisper access and B0180 qualified analogy/coacting retain their horizons. No omniscience, universal care competence, permanent incapacity, total cure or uniform privacy doctrine.
 
 Totals:1827KNOW/1241REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Whole READY subject scan has no Miwako decision; no invented R2/R3, readiness-body rewrite, performed-audio or monograph/era maturity promotion.
+
+## B0223 Ayumu's service ideal, practice and fallible explanations
+
+Owner [B0223](../02%20Readings/T7S_B0223_DEEP_READING.md), reading SHA256 `cc2db67f5e37264205e8485d07c99df1a30aea673895f6a1863a1651397b630b`; source-lock 12.129, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts, hashes and whole primary ranges. All28 committed before-controls/five SourceLock/seven coverage/four entity components froze at publishedbeb7bf14/B0222/12.128 before primary. Audited mainbf48d9b1 is an ancestor. The entry's pending-cycle observation stays frozen; fresh exact execution witness and completed predecessor cycle govern semantic acceptance. All94 published Ayumu rows and whole READY subject scan0 actually reviewed before primary. No menu chronology, performed hearing or runtime.
+
+Existing Ayumu `IDENTITY-0036 / CHAR-0031 / origasa-ayumu`, Player `IDENTITY-0001 / CHAR-0001 / player-protagonist` and Shirayuki `IDENTITY-0067 / CHAR-0052 / arisu-shirayuki` retain their routes. E explicitly resolves Yukirin; no new alias adjudication. F's passenger stays a local reported role; pet types, maid-manager imagination and register create no identity. No new IDENTITY/CHAR/UNIT/READY.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1828` | Ayumu says entering Nanasta increased her kyunkyun experiences. | A:P1; self-reported effect, no agency-wide guarantee or completed contest. |
+| `KNOW-1829` | Ayumu finds herself becoming poetto when with the manager. | A:P2; experienced feeling, no supplied Player interior or resolved romantic category. |
+| `KNOW-1830` | Ayumu asks whether the manager uses poe and proposes a future contest for the maid seat. | A:P3; question/playful role reversal, no new profession, actual contest or supernatural proof. |
+| `KNOW-1831` | Ayumu performs formal service speech, slips into nya and admits the difficulty. | B:P1-2; actual written attempt/self-appraisal, no new identity or root-heard delivery. |
+| `KNOW-1832` | Ayumu explains the practice as preparation for an upcoming maid examination. | B:P3; actor-reported task, no verified institution, credential, actual sitting or outcome. |
+| `KNOW-1833` | Ayumu expresses unmatched-poepoe confidence yet says formal words are needed for a perfect maid. | B:P4; her standard/skill appraisal, no universal test result or settled hierarchy. |
+| `KNOW-1834` | Ayumu calls the service path demanding and recommits to another practice attempt. | B:P5; intention/effort, no next successful attempt or fixed order with B0120. |
+| `KNOW-1835` | Ayumu asks the manager's pet preference and names her own desired pink crocodile. | C:P1-2; question and imagined preference, no manager answer, obtained animal or identified lounge cat. |
+| `KNOW-1836` | Ayumu would rather be kept and expects the manager to treasure her. | C:P3; desired care/expectation, no literal ownership, his assent or unrestricted permission. |
+| `KNOW-1837` | Ayumu reads a red face as possible cold and offers constant nursing. | C:P4; her observation/question/offer, no independent portrait, clinical finding or completed care. |
+| `KNOW-1838` | Ayumu promises to blow away the cold with kyunkyun power. | C:P5; intended affective service, no demonstrated medical mechanism or cure. |
+| `KNOW-1839` | Ayumu asks about hunger and offers her special omurice if welcome. | D:P1; food offer/self-attribution, no received meal, viewed preparation or taste. |
+| `KNOW-1840` | Ayumu offers ketchup illustration on request and claims drawing competence. | D:P2; conditional customization/self-assessment, no actual order, drawing or measured skill. |
+| `KNOW-1841` | Ayumu proposes a large poepoe-filled heart if there is no order, intending kyunkyun response. | D:P3-4; default condition/desired effect, no chosen branch or inspected reception. |
+| `KNOW-1842` | Ayumu reports coaching Yukirin and explicitly identifies her as Shirayuki. | E:P1; source-local nickname resolution/reported prior action, no new identity or current pupil turn. |
+| `KNOW-1843` | Ayumu says Shirayuki was troubled by speaking in public. | E:P2; reported difficulty, no diagnosis, observed whole lesson or universal incapacity. |
+| `KNOW-1844` | Ayumu recounts advice to use Shirayuki's cute voice for Shirayuki-style service. | E:P3; actor voice appraisal/proposal, no root listening, guaranteed aptitude or full pupil assent. |
+| `KNOW-1845` | Ayumu reports remaining shyness yet predicts service comparable to hers. | E:P4-5; continued difficulty and confident potential, no cure, completed mastery or current Shirayuki agreement. |
+| `KNOW-1846` | Ayumu renews her own effort toward the highest service. | E:P6; goal following her pupil appraisal, no realized improvement or global ranking. |
+| `KNOW-1847` | Ayumu reports yielding a train seat to a colorfully dressed older woman and receiving candy. | F:P1; particular same-day account, no viewed scene or resolved passenger identity. |
+| `KNOW-1848` | Ayumu calls the encounter confirmation of hearsay about Osaka-3rd older women giving candy. | F:P2; attributed inference, no verified regional rule, demographic discovery or universal motive. |
+| `KNOW-1849` | Ayumu takes up virtue praise and explains yielding through her energetic kyunkyun/service heart. | F:P3-4; self-explanation, no proof of supernatural energy or erasure of reported help. |
+| `KNOW-1850` | Ayumu wishes everyone happy through service hearts and calls for all to be maids. | F:P5; expansive ideal, no enacted program, global consent or demonstrated happiness mechanism. |
+| `KNOW-1851` | Ayumu imagines that would include a maid-manager and says she might like to see it. | F:P6; playful consequence/desire, no appointment, costume change or actual shared system. |
+| `KNOW-1852` | Ayumu recalls an earlier search for best service and credits the manager's idol-answer guidance. | G:P1-2; attributed memory, no independently witnessed origin quote or new scouting admission. |
+| `KNOW-1853` | Ayumu takes up the manager not remembering such a statement and treats it as joking. | G:P3; mediated recollection discrepancy/her interpretation, no conclusive factual denial or resolved history. |
+| `KNOW-1854` | Ayumu says idol work made her think more about poepoe and kyunkyun. | G:P4; current self-reported work effect, no proof of the earlier wording or uniform institutional outcome. |
+| `KNOW-1855` | Ayumu sets thanking the manager through best service/making him poetto as her current goal. | G:P5-6; gratitude/desired reciprocity, no completed repayment, received emotional result or romantic agreement. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1242` | `origasa-ayumu → player-protagonist` | A-G: experiences his felt effect, proposes playful contest, practices/offers service, wants cherishing, guesses illness and offers care, provides conditional food customization, imagines him as maid and credits/thanks him despite unresolved memory. No literal ownership, diagnosis/cure, supplied full reply, reciprocal romance or completed effect. Reciprocal REL-1243. |
+| `REL-1243` | `player-protagonist → origasa-ayumu` | A/B/C/D/F/G: addressed companion/questioner, prospective carer/meal recipient and interpreted praiser; apparent absence of remembered formative statement is reached through her uptake. No independent interior/blush image, certification, accepted pet role/food/contest or adjudicated origin. Reciprocal REL-1242. |
+| `REL-1244` | `origasa-ayumu → arisu-shirayuki` | E:P1-6: reports coaching a public-speaking difficulty, appraises voice, proposes individual service and predicts strong potential while retaining shyness, then renews own effort. No performed audition, full pupil assent, cure or universal pedagogical authority. Reciprocal REL-1245. |
+| `REL-1245` | `arisu-shirayuki → origasa-ayumu` | E:P1-5: report-only pupil addressed by explained nickname, with difficulty and continued embarrassment in Ayumu's account. No independent current turn, verified improvement, complete pedagogical reception or future SOL state backprojection. Reciprocal REL-1244. |
+
+CHAR-0031 gains experienced incoming feeling, practiced register difficulty/renewed effort, desired cherishing and offered care, conditional food/sign customization, reported coaching with unresolved shyness, particular helpful exchange/expansive service ideal and gratitude despite uncertain origin memory. CHAR-0052 gains only the bounded report of coaching, voice appraisal and continued embarrassment, not an independent whole current reconstruction. B0035 conceptual uncertainty/Citrus care, B0082 service expertise/safeguarding gap, B0120 consented training/own-style choice, B0158 rest/care-costs/untested causes, B0163 requested instruction/offscreen scheduling limits, B0167 individualized styling/privacy, B0169 actual-versus-fantasy separation and B0179 generosity plus trap costs retain their horizons.
+
+Totals:1855KNOW/1245REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Whole Ayumu READY scan0; no invented R2/R3, rewritten historical readiness, performed-audio or monograph/era maturity promotion.
 <!-- T7S ENTITY STATE PAYLOAD END -->

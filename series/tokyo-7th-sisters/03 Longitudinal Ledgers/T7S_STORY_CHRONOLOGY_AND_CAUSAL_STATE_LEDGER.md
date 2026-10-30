@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.123"
+version: "11.124"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 305 Intimacy primary documents across 41 family portfolios / T7S_B0182–T7S_B0222; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 312 Intimacy primary documents across 42 family portfolios / T7S_B0182–T7S_B0223; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1411`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1534`; `last_closed_block = T7S_B0222`. The admitted horizon contains 820 primary documents: 235 Main, 280 i-n-g and 305 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 305 Intimacy documents across 41 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1418`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1540`; `last_closed_block = T7S_B0223`. The admitted horizon contains 827 primary documents: 235 Main, 280 i-n-g and 312 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 312 Intimacy documents across 42 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4706,3 +4706,28 @@ Owner [B0222](../02%20Readings/T7S_B0222_DEEP_READING.md), reading SHA256 `6f7c3
 | `EDGE-1541` | `EV-B0222-005 / EV-B0222-007` | FORMAL_COMPARISON: Desired language study and reported reciprocal teaching keep learning active; no established proficiency, travel prerequisite or total chronology. |
 
 Totals:1411EV/25WORLD/47THREAD/1534 active EDGE, maximum1541 with seven older intentional gaps retained. No new WORLD/THREAD, cross-case dated causality or older-body rewrite.
+
+## B0223 Ayumu's service ideal, practice and fallible explanations
+
+Owner [B0223](../02%20Readings/T7S_B0223_DEEP_READING.md), reading SHA256 `cc2db67f5e37264205e8485d07c99df1a30aea673895f6a1863a1651397b630b`; source-lock 12.129, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts, hashes and whole primary ranges. All28 committed before-controls/five SourceLock/seven coverage/four entity components froze at publishedbeb7bf14/B0222/12.128 before primary. Audited mainbf48d9b1 is an ancestor. The entry's pending-cycle observation stays frozen; fresh exact execution witness and completed predecessor cycle govern semantic acceptance. All94 published Ayumu rows and whole READY subject scan0 actually reviewed before primary. No menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0223-001` | A:401000320 P0-3 | Says Nanasta increased her kyunkyun experiences, feels poetto with the manager and asks whether he too uses poe before proposing a maid-seat contest. | EXPERIENCED_EFFECT_AND_PLAYFUL_ROLE_REVERSAL; no actual contest, supernatural skill, new identity or settled reciprocal romance. |
+| `EV-B0223-002` | B:401000594 P0-5 | Tries formal service speech, slips into nya and admits difficulty, explains an upcoming examination, adds formal register to her own perfection standard and commits to more practice. | PRACTICED_REGISTER_REPORTED_TASK_AND_RENEWED_EFFORT; no verified examining body, qualification/result, new person or fixed date relative to B0120. |
+| `EV-B0223-003` | C:401000802 P0-5 | Asks pet preference, imagines a pink crocodile, would rather be kept because she expects careful treatment, then guesses a cold from a red face and offers nursing/kyunkyun cure. | DESIRED_CARE_AND_UNVERIFIED_EXPLANATION_WITH_CARE_OFFER; no adoption, ownership contract, Player assent/blush image, clinical finding, cure or completed nursing. |
+| `EV-B0223-004` | D:401001022 P0-4 | Offers her special omurice if welcome, claims drawing skill and offers requested ketchup illustration, otherwise proposing a large poepoe heart to move the receiver. | CONDITIONAL_CUSTOMIZATION_AND_INTENDED_EFFECT; no received order, selected game branch, cooking/drawing/eating or measured reception. |
+| `EV-B0223-005` | E:401001194 P0-6 | Explicitly resolves Yukirin to Shirayuki, reports coaching a speaking difficulty, values her voice/proposes her own service, retains shyness yet predicts high potential and renews her own effort. | REPORTED_PEDAGOGY_AND_CONFIDENT_PROJECTION_WITH_UNRESOLVED_RECEPTION; no current Shirayuki turn/full agreement, heard voice, cure or acquired mastery. |
+| `EV-B0223-006` | F:401001334 P0-6 | Reports giving an older train passenger a seat/receiving candy, calls prior Osaka-3rd hearsay confirmed, rejects virtue praise in favor of energetic service motivation and imagines everyone including the manager as maids. | PARTICULAR_EXCHANGE_ATTRIBUTED_GENERALIZATION_AND_EXPANSIVE_IDEAL; no regional census, proved power/global happiness, enacted institutional program or universal consent. |
+| `EV-B0223-007` | G:401001530 P0-6 | Recalls the manager giving idol work as service's answer, takes up his absent recollection as joking, reports increased reflection through idol work and makes returned best service her current gratitude goal. | ATTRIBUTED_ORIGIN_MEMORY_DISCREPANCY_AND_CURRENT_SELF_REPORTED_EFFECT; no certified origin quotation, conclusive factual denial, resolved memory, new scouting scene or completed repayment. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1542` | `EV-B0223-001 / EV-B0223-003` | FORMAL_COMPARISON: Receiving poe and wanting to be treasured reverse one-way service, while offered nursing remains prospective; no common date, ownership or reciprocal romantic agreement. |
+| `EDGE-1543` | `EV-B0223-002 / EV-B0223-005` | FORMAL_COMPARISON: Ayumu's own difficult formal practice differs from confidence in a pupil's potential; no universal expertise or erased shyness. |
+| `EDGE-1544` | `EV-B0223-003 / EV-B0223-007` | FORMAL_COMPARISON: A possible-cold explanation and remembered formative statement preserve different uncertain accounts; no clinical or historical adjudication. |
+| `EDGE-1545` | `EV-B0223-004 / EV-B0223-005` | FORMAL_COMPARISON: Custom illustration and an individual's voice offer recipient-shaped service, not proof of identical needs, assent or completed effects. |
+| `EDGE-1546` | `EV-B0223-004 / EV-B0223-006` | FORMAL_COMPARISON: A particular conditional food offer and a universal service-heart wish occupy different scales; no one-to-world efficacy proof or obligation. |
+| `EDGE-1547` | `EV-B0223-001 / EV-B0223-007` | FORMAL_COMPARISON: Nanasta's felt effect and idol work's increased reflection are her accounts of receiving value, not a dated causal chain or verification of the disputed words. |
+
+Totals:1418EV/25WORLD/47THREAD/1540 active EDGE, maximum1547 with seven intentional older gaps retained. No new WORLD/THREAD, cross-case dated causality or older-body rewrite.
