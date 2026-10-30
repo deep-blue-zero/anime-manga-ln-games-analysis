@@ -5,13 +5,13 @@ artifact_type: source_scope_map
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: active_provisional
 scope: "Canonical work, edition, component and evidence-availability map"
 source_boundary: "Owner-selected revised Japanese All-in-One; unit coverage and run state are recorded in the current entrypoint and source map"
 canonical_home: series/cornered-mouse/00 Frameworks and Methods/CORNERED_MOUSE_SOURCE_AND_SCOPE_MAP.md
 created: "2026-10-24"
-updated: "2026-10-29"
+updated: "2026-10-30"
 review_status: OWNER_BOOTSTRAP_ARCHITECTURE_APPROVED
 supersedes: []
 superseded_by: []
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Source and scope map
 
-This is the single project source/scope authority. Bibliographic/bootstrap verification: 2026-10-24; local file and processing reverified: 2026-10-29. The owner-authorized continuous run begins at CM-U01 and ends at CM-S01 after the mainline freeze. Individual component ranges are verified at admission; no narrative unit has been completed at this opening checkpoint. See the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) for operational permission.
+This is the single project source/scope authority. Bibliographic/bootstrap verification: 2026-10-24; local file and processing reverified: 2026-10-29. The owner-authorized continuous run begins at CM-U01 and ends at CM-S01 after the mainline freeze. Individual component ranges are verified at admission; CM-U01 is fully read/frozen through sp0050, with later ranges still unverified. See the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) for operational permission.
 
 ## Work identity and bibliographic witnesses
 
@@ -63,7 +63,7 @@ The owner instructed that a local manga copy in the workspace be used for analys
 
 The local ZIP has 1,087 members. All 1,086 members of the archived source are present and individually SHA-256-identical, including the OPF, XHTML, navigation, and all 539 JPEGs. The sole added member is `META-INF/calibre_bookmarks.txt`; its contents were not inspected or used as narrative evidence. The different whole-file digest records that packaging addition, with no observed change to any shared source member. The original acquisition digest and dated manifests remain historical records and are not rewritten to match the local file.
 
-Independent local checks passed ZIP CRC, declared-resource presence, metadata identity, 539-entry rtl spine and 539 JPEG resources. No narrative image, OCR text or bookmark content was inspected. This establishes the selected copy's identity and its content equivalence to the bounded bootstrap probe; it does not certify narrative completeness, unit boundaries or legibility. Future coverage receipts use the local witness key and digest. A later file change requires a new byte-identity record and reconciliation before use.
+Independent local checks at the 2026-10-24 bootstrap passed ZIP CRC, declared-resource presence, metadata identity, 539-entry rtl spine and 539 JPEG resources. At that historical verification no narrative image, OCR text or bookmark content was inspected. This establishes the selected copy's identity and its content equivalence to the bounded bootstrap probe; it does not certify narrative completeness, unit boundaries or legibility. Future coverage receipts use the local witness key and digest. A later file change requires a new byte-identity record and reconciliation before use.
 
 ## Verification ladder and technical structure
 
@@ -81,11 +81,11 @@ The archived source has 1,086 archive entries; the selected local copy has 1,087
 
 The existing source-side `bookwalker_capture/bookfab_ocr/epub_source.py` read-only `open_book` interface successfully parsed all 539 pages with no structure findings, alongside the independent container probe. Existing Calibre import/page-comparison tooling also owns import verification. No new generic acquisition framework is needed. Page extraction and local image viewing worked for the contents and colophon; narrative lettering/panel legibility must still be checked within an authorized unit. OCR quality is untested and OCR cannot replace image inspection.
 
-Only two non-narrative images were visually read: `item/image/i-0008.jpg` (contents, spine 10; SHA-256 `068ec8b67e4d44bb8b6a9203948a8b04495c84b718a3cc1990df368316516ff9`) and `item/image/i-0535.jpg` (colophon, spine 537; SHA-256 `27ef3b34416b5011d3378119e9b754f757383d79f6e2b01b454fb5b440228972`). Navigation exposes cover/contents/colophon anchors, not a complete chapter graph. The contents labels below establish announced starts, not verified narrative page boundaries.
+At the bootstrap, only two non-narrative images were visually read: `item/image/i-0008.jpg` (contents, spine 10; SHA-256 `068ec8b67e4d44bb8b6a9203948a8b04495c84b718a3cc1990df368316516ff9`) and `item/image/i-0535.jpg` (colophon, spine 537; SHA-256 `27ef3b34416b5011d3378119e9b754f757383d79f6e2b01b454fb5b440228972`). Navigation exposes cover/contents/colophon anchors, not a complete chapter graph. The contents labels below establish announced starts, not verified narrative page boundaries.
 
 ## Component candidates and four orders
 
-For this witness, the proposed atomic unit is a **chapter or separately titled collected component**, including short interludes. A complete volume is not presumed to be one transaction. Keys are project identities; each future witness needs its own page mapping. At the opening checkpoint none has been completed. The run record owns the authorized queue; the verified-ranges table below will record actual admission and closeout.
+For this witness, the proposed atomic unit is a **chapter or separately titled collected component**, including short interludes. A complete volume is not presumed to be one transaction. Keys are project identities; each future witness needs its own page mapping. At the opening checkpoint none had been completed; the live verified-ranges table now records U01. The run record owns the authorized queue; the verified-ranges table below will record actual admission and closeout.
 
 | Candidate | Contents label | Printed start shown in contents | Collection group / proposed disclosure |
 |---|---|---:|---|
@@ -102,7 +102,7 @@ For this witness, the proposed atomic unit is a **chapter or separately titled c
 | `CM-PARA-AFTERWORD` | あとがき | 498 | Paratext; not narrative admission |
 | `CM-S01` | ハミングバード・ラプソディ | 501 | Later supplement, separate post-mainline admission |
 
-SPECIAL COLORS is listed at 002; it is uninspected illustration/paratext material. Component end pages, opening-page identity, missing/duplicate pages, and the boundary of the original sequel's final closing material are **unverified**. Do not infer an end as next start minus one or equate a filename number with printed pagination. Before each unit, reconcile a bounded structural range without consuming later narrative; splitting a long titled component needs an explicit prospective checkpoint plan before reading it.
+SPECIAL COLORS is listed at 002; it is uninspected illustration/paratext material. Beyond the verified U01 range and U02 opening below, component end pages, opening-page identity, missing/duplicate pages, and the boundary of the original sequel's final closing material remain **unverified**. Do not infer an end as next start minus one or equate a filename number with printed pagination. Before each unit, reconcile a bounded structural range without consuming later narrative; splitting a long titled component needs an explicit prospective checkpoint plan before reading it.
 
 Publication order is separately recorded by edition and first-publication evidence, not inferred from this collection. [Mizushiro's January announcement][B06], corroborated by the [publisher's magazine record][B07], identifies Hummingbird in *flowers* March 2020, released January 28, before its All-in-One collection. Individual original chapter serialization dates remain unresolved.
 
@@ -118,9 +118,10 @@ The authorized narrative sequence is CM-U01 through CM-U10 in this witness's col
 
 | Unit | Verified source range | Admission / closeout |
 |---|---|---|
-| CM-U01 | Pending bounded opening/end verification; contents announces printed 009 | Boundary reconciliation and reading authorized; no completed reading yet |
+| CM-U01 | sp0011–sp0050; `item/xhtml/p-0009.xhtml` / `item/image/i-0009.jpg` through `item/xhtml/p-0048.xhtml` / `item/image/i-0048.jpg` | Complete forty-image inspection and atomic closeout; opening title and explicit end label verified; [reading/coverage](../01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md), freeze CM-U01-EXIT |
+| CM-U02 | Opening sp0051, `item/xhtml/p-0049.xhtml` / `item/image/i-0049.jpg`, title 楽園の蛇 verified by bounded crops; end pending | Next authorized operation; partial frontispiece art/title exposure declared, no scene/dialogue read |
 
-The ordered local index verifies 539 distinct image resources, decoded at 847 × 1200, with source-member digests and rtl spine positions. Its exact local location remains in the workspace handoff. Only the known contents image was viewed during the current capability probe; no narrative or bookmark content was inspected before the entering boundary was recorded. Resource decoding is not visual narrative inspection or a completeness certification.
+The ordered local index verifies 539 distinct image resources, decoded at 847 × 1200, with source-member digests and rtl spine positions. Its exact local location remains in the workspace handoff. Before the entering boundary only the known contents image was viewed in the run capability probe. U01 subsequently verified usable Japanese narrative lettering and full forty-image coverage (one frontispiece, thirty-nine narrative-sequence images); no OCR was used. Together with bootstrap contents/colophon, forty-two distinct source images are fully inspected. Three bounded crops at sp0051 exposed the next title and portions of its frontispiece art, not a full-page inspection or narrative scene. Resource decoding is not reading. Bookmark content remains uninspected. The U01 reading preserves exact image digests, observed pagination anchors and the end-label evidence; later source completion is still open.
 
 ## Edition choice, conflict rules and admission
 

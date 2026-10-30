@@ -4,12 +4,13 @@ artifact_id: CORNERED_MOUSE_RUN_ADMISSION_AND_CHECKPOINT
 artifact_type: run_admission_checkpoint
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.0"
+version: "1.1"
 status: active_provisional
 scope: "Authorized continuous All-in-One run, entering boundary, checkpoint and required-artifact closeout"
 source_boundary: "CM-JP-AIO2020-LOCAL; mainline CM-U01–CM-U10, then CM-S01; Reboot-only story outside this run"
 canonical_home: series/cornered-mouse/07 Audits and Handoffs/CORNERED_MOUSE_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-29"
+updated: "2026-10-30"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -81,12 +82,18 @@ The synthesis architecture's G1–G9 gates remain controlling; this table makes 
 ## Current checkpoint
 
 - Run: ACTIVE, continuous_sequential, start CM-U01, terminal CM-S01.
-- Verified committed narrative high-water mark: NONE.
-- Current operation: CM-U01 boundary reconciliation and reading.
-- Next ordinary operation after a fully closed CM-U01: CM-U02, under the existing continuous authorization.
+- Verified committed narrative high-water mark: CM-U01; freeze CM-U01-EXIT, sp0011–sp0050.
+- Current operation: CM-U02 boundary reconciliation and reading, after the complete U01 transaction commit.
+- Continuous authorization remains active through CM-S01 and the required downstream artifacts; first-unit completion does not terminate the goal.
 - Hummingbird lane: CLOSED until committed/frozen CM-U10 closeout.
 - No source-completion, synthesis-readiness, model-validation or final-release claim exists.
 
 ## Transaction history
 
 2026-10-29: recovered current governance and the integrated bootstrap, reverified the selected local witness, built a private ordered source index, verified contents-image inspection, recorded owner run/supplement decisions and the zero-narrative entering boundary. First component boundaries and narrative legibility remain to be checked during the authorized operation.
+
+2026-10-30 — **CM-U01 atomic closeout.** All forty images sp0011–sp0050 were displayed/read at original resolution (one frontispiece, thirty-nine narrative-sequence images), with Japanese lettering usable and no OCR. Visible opening title and explicit ending label establish both edges. Coverage/digests and forty stable observations belong to [the immutable U01 reading](../01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md). Reading SHA-256: `c2e3b8b99f4ffc24d2f5b1ce4ed94078f2f4743f7db99c8caa28e03a13fd4d94`. Entering commit: `b27b76ae08f121471ccbf15ff21cd4d65802fe6a`; Git history binds the atomic exit commit and its unchanged forecast formulations. No previous genuine forecast existed to adjudicate.
+
+Four character events/subjects, six relationship events over three dyads, six information and six decision records, six claims and two future U02 tests were justified and recorded. The architecture review retained the four-home design and moved to EVOLVING. Protocol version 0.3 qualifies its no-enrollment bootstrap statement as historical; no reconstruction rule or validation requirement changed. Local readiness gaps remain distinct from model validation. Introduction, substantive middle and exit plus all major dyads passed the bounded named-subject/reference check; source-required anonymity was retained. The sp0024 speaker question was resolved with an enlarged image and following turn; uncertain small sp0033 speech was excluded from exact quotation.
+
+Three bounded crops of U02's frontispiece at sp0051 verified 楽園の蛇 and exposed partial faces/hands/torso art. No U02 narrative scene/dialogue was read. That exposure is declared in the exit/forecasts; it is not a full image inspection. Total fully inspected distinct source images: forty-two including known contents/colophon, with three classified as non-narrative. The opening zero-narrative record above remains historical and unchanged. U02 narrative access follows local validation and commit of this complete transaction. Mainline source completion, Hummingbird, full-file paratext accounting, monographs, specialists, integrated synthesis, reconstruction disposition and final audit remain required.
