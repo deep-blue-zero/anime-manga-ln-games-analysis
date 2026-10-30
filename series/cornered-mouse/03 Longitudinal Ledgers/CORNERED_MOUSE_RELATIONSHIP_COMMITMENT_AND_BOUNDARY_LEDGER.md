@@ -5,10 +5,10 @@ artifact_type: relationship_state_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: active_provisional
 scope: "Directional expectations, commitments, consent/boundaries and relational consequences"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U01 sp0011–sp0050 only"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U02; story ends sp0090, closing illustration sp0091 separately classified"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_RELATIONSHIP_COMMITMENT_AND_BOUNDARY_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Relationship, commitment and boundary state
 
-**Records: 6. Dyads enrolled: 3. Source boundary: CM-U01.** Independent directions are recorded within each paired event; reciprocity is never assumed. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
+**Records: 13. Dyads enrolled: 5. Source boundary: CM-U02.** Independent directions are recorded within each paired event; reciprocity is never assumed. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
 
 ## Record schema
 
@@ -114,10 +114,79 @@ Prior NONE. Parties A=Imagase, B=CM-CH-COMPANION-U01; affected Otomo. Event rest
 - **Terms/consequences:** relationship status is A's testimony, supported by proximity/household scene; exact exclusivity and B's knowledge of prior events remain unknown. CM-INF-005/006. The reader sees what Otomo only hears. Physical danger to A is depicted; injury is unshown. No repair is established.
 - **State after:** breakup reported at reunion, not directly witnessed. High confidence in conduct, limited in status/causes. Source-required anonymity retained. CM-CL-004; avoid turning B into a mere obstacle or assigning a diagnosis.
 
+## U02 relationship events
+
+Witness `CM-JP-AIO2020-LOCAL`, unit/disclosure CM-U02; each new event has revision 1 and an explicit prior event. A=Otomo/B=Imagase for the central dyad; directions remain distinct. References expand through the U02 reading's exact coverage table. Earlier histories are preserved. No new Chikako or U01-companion evidence changes CM-RS-005/006.
+
+### CM-RS-007 — CM-REL-OTOMO-IMAGASE, domestic routine and disputed permissions
+
+Prior CM-RS-004. Event time before/around reunion, disclosed sp0054–0058, O004–O008. Primary route: [CM-U02-O006](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o006); `CM-JP-AIO2020-LOCAL::sp0056::xhtml=item/xhtml/p-0054.xhtml::image=item/image/i-0054.jpg::panel=P00`.
+
+- **A→B:** accepts familiar domestic company, rejects expanded bodily contact and disputes B's claim that the earlier act was approved. Entertains happiness if B were a woman while resisting its male/couple meaning. Self-account is distinct from permission.
+- **B→A:** gives intimate/domestic attention, demands expansion using gendered shame, claims unique love and initiates a goodbye kiss. No report threat is renewed; pressure persists in another form.
+- **Terms/power:** no dating or exclusivity contract established. B's account of an accepted limit is explicitly contested; A uses a reversal argument about unilateral action. CM-INF-007, CM-DEC-010. Physical rejection/impact is depicted; precise off-panel blow mechanics unknown.
+- **After/limits:** routine attachment with unresolved boundaries. High for dispute and proximity, open for mutually agreed meaning. CM-CL-002/005 v2/007/008; no repair inferred from routine pleasure.
+
+### CM-RS-008 — CM-REL-OTOMO-IMAGASE, phone privacy and withdrawal
+
+Prior CM-RS-007. Event time after Nishimura encounter, sp0064,0066–0073 / O014,O016–O023. Primary route: [CM-U02-O018](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o018); `CM-JP-AIO2020-LOCAL::sp0068::xhtml=item/xhtml/p-0066.xhtml::image=item/image/i-0066.jpg::panel=P00`.
+
+- **A→B:** false drinking alibi, privacy protest and collar-grab; says they are not dating and that concealment aimed to avoid hurt. Minimizes B's attachment as beautified memories, while B's absence later disturbs him.
+- **B→A:** represented suspicion precedes unauthorized message access; admits jealousy, accepts A is free but challenges knowing harm, rejects the nostalgia analogy and leaves. His past account gives unreciprocated history rather than an agreed shared romance.
+- **Terms/consequences:** unagreed exclusivity does not make private-mail reading consensual or remove emotional stakes. CM-INF-008/009/010, CM-DEC-007/008. B's exit is enacted; A calls after him but no immediate reconciliation occurs.
+- **After/limits:** a week without visit/contact; anger and work constraints later receive separate explanation. High for speech/exit, qualified for unique motives. CM-CL-001 v2/004 v2/005 v2/006 v2.
+
+### CM-RS-009 — CM-REL-OTOMO-IMAGASE, hotel pursuit and corrected rival
+
+Prior CM-RS-008. Current hotel encounter/return, sp0074–0079 / O024–O029. Primary route: [CM-U02-O028](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o028); `CM-JP-AIO2020-LOCAL::sp0078::xhtml=item/xhtml/p-0076.xhtml::image=item/image/i-0076.jpg::panel=P00`.
+
+- **A→B:** assumes replacement lover, pursues, knocks B down and grabs him; demands consistency with professed love despite refusing dating status. This is physical aggression and desired specialness, not automatically a completed love declaration.
+- **B→A:** startled, explains companion as client and later work travel plus anger-based noncontact. Does not certify A's assumption as true. Client and Nishimura are independently affected witnesses.
+- **Terms/consequences:** no lover status is established for the client; no new exclusivity promise follows. CM-INF-011, CM-DEC-009. A subsequently invites B into the home, a voluntary social act distinct from sex permission.
+- **After/limits:** contact reopened by A's initiative and a corrected inference. High for actions/correction, limited for B's whole work account. CM-CL-001 v2/004 v2/005 v2.
+
+### CM-RS-010 — CM-REL-OTOMO-IMAGASE, door negotiation and role reversal
+
+Prior CM-RS-009. Current doorstep/intimacy, sp0079–0083,0087–0088 / O029–O033,O037–O038. Primary route: [CM-U02-O031](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o031); `CM-JP-AIO2020-LOCAL::sp0081::xhtml=item/xhtml/p-0079.xhtml::image=item/image/i-0079.jpg::panel=P00`.
+
+- **A→B:** asks B to enter, rejects bodily compensation as a different matter, says he is not gay, then prevents departure and initiates an intimate act after provocation. His initiative is real but not comprehensive permission or proof of one motive.
+- **B→A:** conditions entry on sex, invokes hurt/compensation, corners A and says he could force contact, then refuses the ambiguous passive YES and demands active participation. Protests A's initiating act, later asks specific permissions; one spoken answer is withheld by a cut.
+- **Terms/power:** both people's limits require equal treatment. Neither bodily response resolves protest, and hurt creates no bodily entitlement. CM-INF-007/012, CM-DEC-010/011. Cornering, intercepted departure and provocations are material constraints, not erased by a later initiative.
+- **After/limits:** consequential intimacy, changed stated standard and incomplete permission record. High for requests/protests/action, open for all off-panel agreements. CM-CL-008; U01 history stays intact.
+
+### CM-RS-011 — CM-REL-OTOMO-IMAGASE, provisional companionship offered
+
+Prior CM-RS-010. After encounter, sp0088–0090 / O038–O040. Primary route: [CM-U02-O039](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o039); `CM-JP-AIO2020-LOCAL::sp0089::xhtml=item/xhtml/p-0087.xhtml::image=item/image/i-0087.jpg::panel=P00`.
+
+- **A→B:** denies simple regret, describes a life-page change, listens/touches cans, later holds B close and tentatively questions whether he has loved before. No explicit lifetime or exclusive promise is voiced.
+- **B→A:** says he does not require a gay identity or lifetime bond, offers companionship until a future destined woman and promises then to disappear. Deep professed attachment and easy-withdrawal promise remain in tension.
+- **Terms/consequences:** an interim proposal, not proven painless disposability or mutual assent to every condition. Emotional/sexual exclusivity and future exit terms remain unagreed/untested. CM-INF-012, CM-DEC-012; practical future costs unknown.
+- **After/limits:** continued tender proximity with provisional terms and unresolved understanding. Confidence high for offer/scene, open for durable agreement and promise reliability. CM-CL-005 v2/007/008.
+
+### CM-RS-012 — CM-REL-OTOMO-NISHIMURA
+
+Prior NONE. A=Otomo, B=Nishimura (formerly Mizuno); others affected B's husband/son/mother-in-law and Imagase. Current reunion/hotel sequence, sp0052–0053,0059–0064,0074–0079 / O002–O003,O009–O014,O024–O029. Primary route: [CM-U02-O010](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o010); `CM-JP-AIO2020-LOCAL::sp0060::xhtml=item/xhtml/p-0058.xhtml::image=item/image/i-0058.jpg::panel=P00`.
+
+- **A→B:** admits former admiration, reassures her, accepts invitations and physical intimacy; his self-account joins normalcy, convenience, concern about consequences and intrusive Imagase thoughts.
+- **B→A:** confesses former liking, reports household discontent, seeks reassurance, initiates/repeats invitations and gives an alibi. Own desires and choices remain visible; no household testimony is independently certified.
+- **Terms/knowledge:** she is married with a child by her account; one-night request becomes repeated contact. No mutual lifelong or exclusive promise is shown. A conceals contact from Imagase; B's knowledge of that relation is incomplete until her shocked witness of the hotel outburst. CM-INF-008/011, CM-DEC-007/013.
+- **After/limits:** the men discuss the affair as ended; B's breakup account/aftermath is unshown. A's clean-settlement framing is not neutral proof of repair. High for invitations/action, limited for motives/family history. CM-CL-009; no simple female-normality moral endorsement.
+
+### CM-RS-013 — CM-REL-OTOMO-STUDENT-WOMAN-U02
+
+Prior NONE. A=Otomo, B=CM-CH-STUDENT-WOMAN-U02; Imagase and named-only Mika affected. Past student-era encounter, disclosed sp0064–0066,0086 / O014–O016,O036. Primary route: [CM-U02-O015](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o015); `CM-JP-AIO2020-LOCAL::sp0065::xhtml=item/xhtml/p-0063.xhtml::image=item/image/i-0063.jpg::panel=P00`.
+
+- **A→B:** is kissed and discusses contact with Mika; exact romantic classification/commitments are not established.
+- **B→A:** asks about Mika, warns A is easily led, cups his face/kisses him. Formal status, exclusivity, knowledge of Imagase and unique motive remain unknown.
+- **Consequences:** Imagase saw the past kiss and later describes jealousy/pain. CM-INF-009. This past sighting cannot become knowledge of a current Nishimura affair. No repair/rupture history for A–B is supplied.
+- **After/limits:** historical contact only, current B state unknown. High for depicted action, qualified for continuity and role. CM-CL-004 v2/006 v2; no alias merge or complete portrait.
+
 ## Current projection
 
 | Dyad | Latest event | Directional endpoint / unresolved terms |
 |---|---|---|
-| CM-REL-OTOMO-IMAGASE | CM-RS-004 | A rejects dating, welcomes trip idea; B pursues and kisses; classification, exclusivity and repair open |
+| CM-REL-OTOMO-IMAGASE | CM-RS-011 | Active intimacy and provisional companionship offer; classification, exclusivity and full repair still open |
 | CM-REL-OTOMO-CHIKAKO | CM-RS-005 | B requests exit; A narrates divorce; no six-month B state or repaired marriage |
 | CM-REL-IMAGASE-COMPANION-U01 | CM-RS-006 | A reports breakup; B's account absent; violence and unknown agreements retained |
+| CM-REL-OTOMO-NISHIMURA | CM-RS-012 | Affair treated as ended by men; her aftermath/account unshown |
+| CM-REL-OTOMO-STUDENT-WOMAN-U02 | CM-RS-013 | Past kiss/contact only; identity and formal terms unverified |
