@@ -5,10 +5,10 @@ artifact_type: character_state_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.0"
+version: "1.1"
 status: active_provisional
 scope: "Independent identity/state history and separate monograph/model readiness"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U07; narrative205/207–254, frontispiece206 and closing art255 separate"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U08; four narrative images256–259/end259, closing portrait260 separate"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Character development and readiness
 
-**Records: 25. Subjects enrolled: 12. Current source boundary: CM-U07.** These are source-bounded state events, not finished monographs or validated models. Use the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md), [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) and [reconstruction protocol](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md).
+**Records: 27. Subjects enrolled: 12. Current source boundary: CM-U08.** These are source-bounded state events, not finished monographs or validated models. Use the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md), [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) and [reconstruction protocol](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md).
 
 ## Record schema
 
@@ -329,12 +329,24 @@ Prior NONE; **柳田常務 / executive Yanagida**, identified by Kyoichi at220, 
 
 The three new subjects are distinct from all nine earlier enrollees. Kyoichi/Imagase's newly disclosed ages, six-month history and recognition/commitment developments require explicit temporal qualification of the U06 proposals. CM-PA-004/005 log observed matches with mixed eligibility; no rule bytes, original forecast or title-work review is rewritten. CM-PR-004 remains pending under its original window. A future current-state model requires its own version/evidence/tests. Literary monograph accumulation continues independently. All seven earlier secondary subjects retain their prior scopes: no new independent aftermath for Chikako/Nishimura/Natsuki/Takasugi or the anonymous roles. In particular, half-year no-woman speech does not supply Natsuki's unshown breakup/cancellation.
 
+## U08 character events
+
+Revision1, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-U08; actual outer frame and conditional imaginary roles remain distinct. No new age/calendar interval is supplied.
+
+### CM-CS-026 — CM-CH-OTOMO
+
+Prior CM-CS-021; identity unchanged. Primary route: [CM-U08-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md#cm-u08-o004); `CM-JP-AIO2020-LOCAL::sp0259::xhtml=item/xhtml/p-0257.xhtml::image=item/image/i-0257.jpg::panel=P00`. **Actual knowledge/action:** works at laptop, reports tired/worsening sight, hears Imagase's yogurt purchase claim, opens refrigerator and thanks him for cleaning. The speech credits care; actual cleaning is not separately shown outside the fantasy. No verified health treatment/diagnosis is asserted. **Knowledge boundary:** has no shown access to wife/child, imagined schedule, phone-check concern or Chikako taunt. CM-INF-034/CM-DEC-050/CM-RS-036. **Evidence:** O001/O004, sp0256/0259; CM-CL-019/006 v8. High for frame/utterance, open for exact motive and wider effect. His U07 identity/responsibility/relationship questions and secondary obligations remain unresolved. Monograph evidence accumulates; historical U06 model/currentness CM-RD-003 and pending CM-PR-004 unchanged. No global grade or new model release.
+
+### CM-CS-027 — CM-CH-IMAGASE
+
+Prior CM-CS-022; identity unchanged. Primary route: [CM-U08-O002](../01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md#cm-u08-o002); `CM-JP-AIO2020-LOCAL::sp0257::xhtml=item/xhtml/p-0255.xhtml::image=item/image/i-0255.jpg::panel=P00`. **Represented interior:** imagines an ordinary wife role, useful domestic care/recognition, cherished adult intimacy and shared baths that also control outside traces; worries about losing time to inspect phone. Imagined child/gendered worry leads to self-critique of both Kyoichi-like dependence and his own clinging fixation. Private Chikako taunt is interested thought, not her actual history. **Actual speech/reaction:** yawns/recognizes extravagant fantasy, says yogurt bought and visibly blushes at Kyoichi's repeated actual cleaning praise. No real child/new woman, actual negotiated schedule, new performed search or automatic stable identity follows. CM-INF-034/CM-DEC-049/CM-RS-036; O001–O004, sp0256–0259; CM-CL-019/007 v5/010 v2. High for thought/speech/form, qualified for wider motives. Monograph ordinary/inner evidence increases; U06 proposals stay historical with U07 qualifications, no clean validation/new grade. All ten other enrollees retain their prior scopes; conditional family figures are not new subjects.
+
 ## Current projection
 
 | Character | Current event | Source-bounded state | Separate readiness |
 |---|---|---|---|
-| CM-CH-OTOMO | CM-CS-021 | Planned care, public/private mismatch, hurt/repair and wish for equal feeling/responsibility | Monograph accumulating; historical U06 proposal, CM-RD-003; CM-PR-004 pending |
-| CM-CH-IMAGASE | CM-CS-022 | Domestic pleasure, perceived denial, conditional role/limit and received invitation/kiss | Monograph accumulating; historical U06 proposal, qualified CM-PA-004/005; no clean validation |
+| CM-CH-OTOMO | CM-CS-026 | Work/eye-fatigue report and actual credit for domestic care; U07 questions remain | Monograph accumulating; historical U06 proposal, CM-RD-003; CM-PR-004 pending |
+| CM-CH-IMAGASE | CM-CS-027 | Conditional domestic fantasy/control/self-critique; actual praise received without imagined contract | Monograph accumulating; historical U06 proposal, qualified CM-PA-004/005; no clean validation |
 | CM-CH-CHIKAKO | CM-CS-003 | Requested divorce; new partner reported; later state unknown | Independent work reviewed after corpus |
 | CM-CH-COMPANION-U01 | CM-CS-004 | Violent act observed; breakup later reported; interior unavailable | Insufficient independent evidence; model unassessed |
 | CM-CH-NISHIMURA-MIZUNO | CM-CS-007 | Affair/invitations and household account; witnessed outburst, aftermath unknown | Independent work reviewed after corpus; model unassessed |

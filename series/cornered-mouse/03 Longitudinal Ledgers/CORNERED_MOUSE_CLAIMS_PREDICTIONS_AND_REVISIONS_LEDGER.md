@@ -5,10 +5,10 @@ artifact_type: claim_revision_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.0"
+version: "1.1"
 status: active_provisional
 scope: "Interpretive claim lineage, genuine prospective forecasts and revision impact"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U07; narrative205/207–254, frontispiece206 and closing art255 separate"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U08; four narrative images256–259/end259, closing portrait260 separate"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Claims, predictions and revisions
 
-**Claims: 18. Predictions: 6 (five adjudicated, CM-PR-004 pending). Claim revision events: 33. Forecast adjudication events: 5. Source boundary: CM-U07.** U01 formulations and original forecast bytes remain unchanged; the current projection and appended U02 events identify later authority. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
+**Claims: 19. Predictions: 6 (five adjudicated, CM-PR-004 pending). Claim revision events: 36. Forecast adjudication events: 5. Source boundary: CM-U08.** U01 formulations and original forecast bytes remain unchanged; the current projection and appended U02 events identify later authority. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
 
 ## Schemas and revision vocabulary
 
@@ -438,6 +438,28 @@ Complete205–255 checked: no unexpected encounter with Imagase and an apparent 
 | CM-PR-005 | MIXED_ELIGIBILITY, TEMPORALLY_QUALIFIED | CM-PA-005; observed transfer range matches, no clean U06-state validation |
 | CM-PR-006 | MIXED_ELIGIBILITY, TEMPORALLY_QUALIFIED | CM-PA-004; observed register match/low discrimination, no broad validation |
 
+## U08 claim and revisions
+
+### CM-CL-019 v1 — actual acknowledgement echoes but does not fulfill an entire imagined life
+
+Kind SUPPORTED_INTERPRETATION, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-U08-EXIT. **Formulation:** Imagase imagines ordinary domestic recognition through a wife role; Kyoichi's actual refrigerator thank-you repeats imagined praise and gives a visible gratifying response without sharing/fulfilling wife, child, schedule or surveillance terms. **Evidence:** O001–O004, sp0256–0259. Primary route: [CM-U08-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md#cm-u08-o004); `CM-JP-AIO2020-LOCAL::sp0259::xhtml=item/xhtml/p-0257.xhtml::image=item/image/i-0257.jpg::panel=P00`. **Counterevidence/alternative:** gratitude can be ordinary consideration rather than a romantic declaration; fantasy includes controlling wishes and self-critique, not pure innocence. Actual cleaning is credited, not independently depicted outside the fantasy. **Confidence:** high for repetition/frame/reaction, moderate for recognition's wider meaning. **Falsifier/limit:** corrected focalization/wording defeats the echo; later shared terms may settle a particular gap at their own boundary, not retroactively. **Downstream:** CM-CS-026/027, CM-RS-036, CM-INF-034/CM-DEC-049/050; form/relationship/ordinary-care synthesis. No new model/grade.
+
+### CM-CR-034 — CM-CL-006, v7 → v8, STRENGTHEN
+
+**Old v7:** memory/motif/object and audience contrasts make private uncertainty publicly misreadable. **New v8:** U08's explicit conditional wife fantasy is anchored by actual laptop/yawn frame; the same refrigerator praise first imagined then actually spoken links wish to limited recognition while preserving different knowledge. **Evidence:** O001–O005, sp0256–0260; primary route [CM-U08-O001](../01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md#cm-u08-o001); `CM-JP-AIO2020-LOCAL::sp0256::xhtml=item/xhtml/p-0254.xhtml::image=item/image/i-0254.jpg::panel=P00`. **Alternative/limit:** an ordinary thank-you need not carry Kyoichi's conscious romantic symbolism; no mind-reading or whole-fantasy fulfillment. High for form/repetition, moderate interpretive scope. Falsifier is corrected frame/line attribution. **Downstream:** CM-CL-019/CM-INF-034/CM-RS-036; form synthesis. Earlier tie/moth/rain claims remain historical and distinct.
+
+### CM-CR-035 — CM-CL-007, v4 → v5, STRENGTHEN
+
+**Old v4:** Kyoichi's learning/particular attachment coexist with gendered relief/future-return thought, without a completed orientation story. **New v5:** Imagase imagines woman/wife normalcy, adult affection and family, then confronts gendered/attachment contradictions. The conditional role does not establish a stable identity, actual child or universal wish of women. Kyoichi's U07 self-state remains unchanged. **Evidence:** O001–O003, sp0256–0258; primary route [CM-U08-O003](../01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md#cm-u08-o003); `CM-JP-AIO2020-LOCAL::sp0258::xhtml=item/xhtml/p-0256.xhtml::image=item/image/i-0256.jpg::panel=P00`. **Alternative/limit:** comedy and social convention can coexist with serious longing; no unique literal identity conclusion or actual parent-role enrollment. High for imagined wording/frame, open for broader identity. Falsifier is corrected speaker/focalization or later explicit self-definition at its own time. **Downstream:** CM-CS-027/CM-CL-019; sexuality/self-understanding synthesis.
+
+### CM-CR-036 — CM-CL-010, v1 → v2, STRENGTHEN
+
+**Old v1:** U03 private care, covert monitoring and self-restraint coexist; trace does not prove Kyoichi motive. **New v2:** U08 extends private care/control tension into conditional household fantasy: appreciation/cherishing coexist with washing away outside traces and preserving phone-check opportunity. Actual praise is received; a new actual check, permission or enduring regulation is not shown. Imagase also critiques his own clinging/fixation rather than resolving it. **Evidence:** O001–O004, sp0256–0259; primary route [CM-U08-O002](../01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md#cm-u08-o002); `CM-JP-AIO2020-LOCAL::sp0257::xhtml=item/xhtml/p-0255.xhtml::image=item/image/i-0255.jpg::panel=P00`. **Alternative/limit:** the imagined rules are not actual negotiated practice; ordinary care remains real evidence where credited. U03 performed computer access keeps its distinct scope. High for represented coexistence, moderate for broader pattern; no diagnosis. Falsifier is corrected frame/attribution or later actual evidence of the specific practice, never fantasy alone. **Downstream:** CM-CS-027/CM-RS-036/CM-INF-034/CM-DEC-049/CM-CL-019; care/privacy synthesis.
+
+### CM-PR-004 eligibility checkpoint at U08 exit
+
+All five source images checked: no actual male rival/rupture/unexpected encounter. Imagined family/household cannot supply the frozen trigger. Remains PENDING through U09–U10; CM-PA-004/005 qualifications and every original model/test formulation remain unchanged. The imagined line fulfilled within this short is not a newly preregistered prediction. Other claims, actual relationship terms and independent secondary states retain their prior scopes; no new Chikako event or family subject is created from Imagase's fantasy.
+
 ## Current claim projection
 
 | Claim | Current formulation | Authority boundary / disposition |
@@ -447,11 +469,11 @@ Complete205–255 checked: no unexpected encounter with Imagase and an apparent 
 | CM-CL-003 | v1 above | Chikako account preserved by CM-CR-003; no U02 new evidence |
 | CM-CL-004 | v6 in CM-CR-026 | U07: Girlfriend/partner broadening and uncorroborated executive inference/report make information status itself consequential; STRENGTHEN |
 | CM-CL-005 | v5 in CM-CR-027 | U07: A six-month routine, spousal interpretation and particular next-year offer coexist with perceived denied status, romantic-feeling question, sole-man defense and provisional reassurance; REVISE |
-| CM-CL-006 | v7 in CM-CR-028 | U07: Family-memory framing, tie across work/art/restraint/routine, gift consumption, butterflies/web/moth, silent bus/door and final attraction connect private uncertainty to public appearance; STRENGTHEN |
-| CM-CL-007 | v4 in CM-CR-029 | U07: Kyoichi narrates experiential learning, ongoing male intimacy and desire for reciprocal feeling while still finding women reassuring, imagining return and wondering whether current intimacy temporary; REVISE |
+| CM-CL-006 | v8 in CM-CR-034 | Conditional fantasy/actual frame and repeated praise; STRENGTHEN |
+| CM-CL-007 | v5 in CM-CR-035 | Both men’s different gendered hopes/uncertainties without fixed identity conclusion; STRENGTHEN |
 | CM-CL-008 | v4 in CM-CR-030 | U07: adds a suicide-framed threat as speech, hurtful cruising dismissal/retraction, explicit personal invitation, visibly restrained adult intimacy and fuller volunteered kiss; STRENGTHEN |
 | CM-CL-009 | v1 above | Nishimura's independent agency/qualified family account |
-| CM-CL-010 | v1 above | U03 care/monitoring/self-restrained hope; motives bounded |
+| CM-CL-010 | v2 in CM-CR-036 | Private care/control/self-critique, imagined monitoring distinct from actual U03 search; STRENGTHEN |
 | CM-CL-011 | v3 in CM-CR-031 | U07: Tamaki help, work delivery, apparent-availability understanding and continuing attraction are independent choices/responses; Yanagida observed role and remembered father remain limited; STRENGTHEN |
 | CM-CL-012 | v1 above | Repeated gift after explanation changes shared meaning |
 | CM-CL-013 | v1 above | Care as exit experiment yields an immediately warm response |
@@ -460,3 +482,4 @@ Complete205–255 checked: no unexpected encounter with Imagase and an apparent 
 | CM-CL-016 | v1 above | Remembered family lesson with causal/history limits |
 | CM-CL-017 | v1 above | Girlfriend/partner broadening and inferred affair report |
 | CM-CL-018 | v1 above | Equal-feeling aspiration, initiative and responsibility remain distinct |
+| CM-CL-019 | v1 above | Actual gratitude echoes private wish without sharing whole imagined life |

@@ -4,7 +4,7 @@ artifact_id: CORNERED_MOUSE_RUN_ADMISSION_AND_CHECKPOINT
 artifact_type: run_admission_checkpoint
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.8"
+version: "1.9"
 status: active_provisional
 scope: "Authorized continuous All-in-One run, entering boundary, checkpoint and required-artifact closeout"
 source_boundary: "CM-JP-AIO2020-LOCAL; mainline CM-U01–CM-U10, then CM-S01; Reboot-only story outside this run"
@@ -82,8 +82,8 @@ The synthesis architecture's G1–G9 gates remain controlling; this table makes 
 ## Current checkpoint
 
 - Run: ACTIVE, continuous_sequential, start CM-U01, terminal CM-S01.
-- Verified committed narrative high-water mark: CM-U07; freeze CM-U07-EXIT, sp0205–sp0255 bundle, narrative205/207–254/end254, front206 and closing255 separate.
-- Current operation: CM-U08 admission/reading after complete U07 commit; no U08 image/probe inspected. CM-PR-004 remains pending, other two model tests have mixed eligibility/temporal qualification.
+- Verified committed narrative high-water mark: CM-U08; freeze CM-U08-EXIT, bundle256–260, four narrative images256–259/end259 and separate closing portrait260.
+- Current operation: CM-U09 admission/reading after complete U08 commit; no U09 image/probe inspected. CM-PR-004 remains pending, earlier model-test qualifications unchanged.
 - Continuous authorization remains active through CM-S01 and the required downstream artifacts; first-unit completion does not terminate the goal.
 - Hummingbird lane: CLOSED until committed/frozen CM-U10 closeout.
 - No source-completion, synthesis-readiness, model-validation or final-release claim exists.
@@ -153,3 +153,9 @@ Named-subject/reference review covered introduction, substantive choice/knowledg
 CM-CS-021–025 add new states/Tamaki/remembered father/limited executive; CM-RD-003 qualifies model currentness without changing frozen rules. CM-RS-026–035, CM-INF-026–033, CM-DEC-034–048, CM-CL-016–018 and CM-CR-025–033 synchronize memory, care, wording/report gaps, unconfirmed affair inference, hurt/repair and reciprocal-feeling aspiration. Totals25 character events/12 subjects,35 relationship events/12 dyads,33 information/48 decisions,18 claims/33 revisions. Prior secondary aftermath and Natsuki resolution remain unshown.
 
 CM-PA-004/PR006 and CM-PA-005/PR005 are **MIXED_ELIGIBILITY / TEMPORALLY_QUALIFIED**, with observed response ranges matching but no clean U06-state model validation. First morning209–210 register is low discrimination; first weak personal affirmation232/233 and unequivocal invitation246/response247 retain selection ambiguity. Six-month/new recognition state mismatch was logged at228 before later responses, invitation246 logged before247 access. No better later case is substituted, rules/tests unchanged. CM-PR-004 has no eligible U07 male-rival encounter and remains pending to U10. Named-subject/reference audit covers central and four new dyads, exact girlfriend/partner distinction, unconfirmed executive role and private knowledge. Next validate/commit this complete transaction, then U08; all remaining source and G4–G9 duties persist.
+
+2026-10-30 — **U07 publication checkpoint.** Atomic/published `e77947271f27b406e3a5c67f1b3318fb0a6727d8`, author preflight PASS INDEX/10531, complete tree `1f59b0873b2cd5ca8d0bc4b3b187b6cc8d6e7e62` preserved by fresh main/source reconciliation. Eight exact paths, approved outgoing identity, frozen files/history/source/reference checks passed; PR404 updated. Its [exact-head integration audit passed](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/41141153114); repository validation remains separate from literary acceptance.
+
+2026-10-30 — **CM-U08 atomic closeout.** Five images sp0256–sp0260 individually displayed/read original847×1200, usable Japanese/no OCR. Four narrative images256–259, title256/explicit end259, separate closing portrait260. Private enlargement of256 verified Imagase's imagined Chikako taunt. No U09 image/probe consumed. Total252/539 full source images,237 narrative-sequence/15 non-narrative. [U08 reading](../01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md) SHA-256 `385b940fe32fd3596a7057da1cdf7dc3c5aa6f1fc8e62e6349c97d96c26dad5b`, freeze recorded `2026-10-30T23:01:32.626108+00:00`, owns five observations/member digests and CM-U08-EXIT, entering/predecessor commit e7794727.
+
+CM-CS-026/027, CM-RS-036, CM-INF-034, CM-DEC-049/050, CM-CL-019 and CM-CR-034–036 distinguish conditional household roles/schedule/control/self-critique from actual working frame and repeated cleaning gratitude. Totals27 character events/12 subjects,36 relationship events/12 dyads,34 information/50 decisions,19 claims/36 revisions. No imagined wife/child/father enrollment, new actual phone check, verified health claim or Chikako-history rewrite. All other states/terms retain source scopes. CM-PR-004 has no eligible actual encounter, pending U09–U10; original models/tests and CM-PA-004/005 qualifications unchanged. Named-subject/reference review covered opening, fantasy/control argument, actual echo and exit. Next validate/commit the complete transaction, then U09. All remaining source and G4–G9 duties persist.

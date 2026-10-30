@@ -5,10 +5,10 @@ artifact_type: relationship_state_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.9"
+version: "1.0"
 status: active_provisional
 scope: "Directional expectations, commitments, consent/boundaries and relational consequences"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U07; narrative205/207–254, frontispiece206 and closing art255 separate"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U08; four narrative images256–259/end259, closing portrait260 separate"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_RELATIONSHIP_COMMITMENT_AND_BOUNDARY_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Relationship, commitment and boundary state
 
-**Records: 35. Dyads enrolled: 12. Source boundary: CM-U07.** Independent directions are recorded within each paired event; reciprocity is never assumed. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
+**Records: 36. Dyads enrolled: 12. Source boundary: CM-U08.** Independent directions are recorded within each paired event; reciprocity is never assumed. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
 
 ## Record schema
 
@@ -306,11 +306,17 @@ Prior CM-RS-033. Primary route: [CM-U07-O042](../01%20Sequential%20Readings/CORN
 
 Prior CM-RS-028. Primary route: [CM-U07-O050](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o050); `CM-JP-AIO2020-LOCAL::sp0254::xhtml=item/xhtml/p-0252.xhtml::image=item/image/i-0252.jpg::panel=P00`. A=Otomo, B=Okamura Tamaki. **A→B:** image-driven cooling and self-critique, later reserved greeting/passes. **B→A:** warm greeting, privately/coworker says far more attractive. **Boundary:** her attraction continues despite A's cooling; Imagase does not see it. Executive relation, actual romantic future and complete response to house visit stay unknown. O031–O034,O049–O050, sp0235–0238,0253–0254; CM-INF-031/033, CM-DEC-043/048, CM-CL-011 v3/017.
 
+## U08 relationship event
+
+### CM-RS-036 — CM-REL-OTOMO-IMAGASE, imagined household and actual recognition
+
+Revision1/prior CM-RS-034, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-U08; A=Otomo, B=Imagase. Primary route: [CM-U08-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md#cm-u08-o004); `CM-JP-AIO2020-LOCAL::sp0259::xhtml=item/xhtml/p-0257.xhtml::image=item/image/i-0257.jpg::panel=P00`. **A→B actual:** works, reports eye fatigue and thanks B for refrigerator cleaning; this credit does not show knowledge of B fantasy or a negotiated wife/child/sexual schedule. **B→A:** privately imagines ordinary household care/being cherished with continued monitoring, catches conflicting imagined-child prospects; actually mentions bought yogurt and blushes at praise. **Boundary:** thought, reported purchase/attributed cleaning and observed thanks differ. No marriage/new child/permission for surveillance, medical efficacy or lasting fulfilled equality. O001–O004, sp0256–0259; CM-INF-034/CM-DEC-049/050, CM-CL-019/006 v8/007 v5/010 v2. Other dyads/actual Chikako history unchanged; no new imagined-family dyad enrollment. Both directions preserve limited knowledge.
+
 ## Current projection
 
 | Dyad | Latest event | Directional endpoint / unresolved terms |
 |---|---|---|
-| CM-REL-OTOMO-IMAGASE | CM-RS-034 | Six-month conduct, recognition dispute, hurt/apology and wish for equal feeling; invitation/active kiss, responsibility and durable terms open |
+| CM-REL-OTOMO-IMAGASE | CM-RS-036 | Actual appreciation echoes private domestic wish; imagined roles/monitoring/schedule are not shared agreements, durable terms still open |
 | CM-REL-OTOMO-CHIKAKO | CM-RS-005 | B requests exit; A narrates divorce; no six-month B state or repaired marriage |
 | CM-REL-IMAGASE-COMPANION-U01 | CM-RS-006 | A reports breakup; B's account absent; violence and unknown agreements retained |
 | CM-REL-OTOMO-NISHIMURA | CM-RS-012 | Affair treated as ended by men; her aftermath/account unshown |

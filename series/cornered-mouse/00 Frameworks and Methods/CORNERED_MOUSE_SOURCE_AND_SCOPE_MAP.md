@@ -5,7 +5,7 @@ artifact_type: source_scope_map
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.2"
+version: "1.3"
 status: active_provisional
 scope: "Canonical work, edition, component and evidence-availability map"
 source_boundary: "Owner-selected revised Japanese All-in-One; unit coverage and run state are recorded in the current entrypoint and source map"
@@ -125,9 +125,10 @@ The authorized narrative sequence is CM-U01 through CM-U10 in this witness's col
 | CM-U05 | Physical bundle sp0138–sp0142, `item/xhtml/p-0136.xhtml` / `item/image/i-0136.jpg` through `item/xhtml/p-0140.xhtml` / `item/image/i-0140.jpg`; four narrative images138–141 with explicit title/end, closing portrait142 | Complete five-image inspection/atomic closeout; [reading/coverage](../01%20Sequential%20Readings/CORNERED_MOUSE_U05_DEEP_READING.md), freeze CM-U05-EXIT |
 | CM-U06 | Physical bundle sp0143–sp0204, `item/xhtml/p-0141.xhtml` / `item/image/i-0141.jpg` through `item/xhtml/p-0202.xhtml` / `item/image/i-0202.jpg`; frontispiece143, 59 narrative images144–202 with explicit end202, adjacent closing/intercomponent art203/204 | Complete 62-image inspection/atomic closeout; [reading/coverage](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md), freeze CM-U06-EXIT; title work complete at this historical boundary |
 | CM-U07 | Physical bundle sp0205–sp0255, `item/xhtml/p-0203.xhtml` / `item/image/i-0203.jpg` through `item/xhtml/p-0253.xhtml` / `item/image/i-0253.jpg`;49 narrative-sequence images205/207–254, frontispiece206, explicit narrative end254 and closing portrait255 | Complete51-image inspection/atomic closeout; [reading/coverage](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md), freeze CM-U07-EXIT; source/model temporal limits preserved |
-| CM-U08 | Announced 黒猫、あくびをする, printed start254; candidate source start sp0256, exact range/legibility checked at admission | Next unread component after complete U07 commit; no image/probe consumed |
+| CM-U08 | Physical bundle sp0256–sp0260, `item/xhtml/p-0254.xhtml` / `item/image/i-0254.jpg` through `item/xhtml/p-0258.xhtml` / `item/image/i-0258.jpg`; four narrative images256–259 with title256/explicit end259, separate closing portrait260 | Complete five-image inspection/atomic closeout; [reading/coverage](../01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md), freeze CM-U08-EXIT; fantasy/actual frame preserved |
+| CM-U09 | Announced 梟, printed start259; candidate source start sp0261, actual range/legibility checked at admission | Next unread component after complete U08 commit; no image/probe consumed |
 
-The ordered local index verifies539 distinct image resources, decoded at847×1200, with member digests and rtl positions. U01–U07 verify usable Japanese lettering and complete sp0011–sp0255 coverage:245 bundle images,233 narrative-sequence plus five frontispieces/seven closing illustrations. With contents/colophon,247 source images are fully inspected;14 separately non-narrative. No OCR was used. Earlier partial exposures remain historical and no U08/later narrative image is exposed. U07 begins narratively205 before frontispiece206 and ends explicitly254; exact members/digests live in its reading. Sequel completion, Hummingbird and remaining paratext remain open; resource decoding is not reading and bookmark content remains uninspected.
+The ordered local index verifies539 distinct image resources at847×1200 with member digests/rtl positions. U01–U08 completely cover sp0011–sp0260:250 bundle images,237 narrative-sequence plus five frontispieces/eight closing illustrations. With contents/colophon,252 source images are fully inspected;15 separately non-narrative. Japanese lettering is usable, no OCR used. Earlier partial exposures remain historical, no U09/later narrative image exposed. U08 title256/end259/closing260 and the U07 narrative-before-frontispiece ordering are verified; exact members/digests live in readings. Later mainline, separate Hummingbird and remaining paratext remain open; decoding is not reading and bookmark content remains uninspected.
 
 ## Edition choice, conflict rules and admission
 

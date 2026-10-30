@@ -5,10 +5,10 @@ artifact_type: information_decision_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.9"
+version: "1.0"
 status: active_provisional
 scope: "Causal information distribution, perceived choices and consequential decisions"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U07; narrative205/207–254, frontispiece206 and closing art255 separate"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U08; four narrative images256–259/end259, closing portrait260 separate"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_INFORMATION_LEVERAGE_AND_DECISION_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Information, leverage and decision state
 
-**Information records: 33. Decision records: 48. Source boundary: CM-U07.** Information mechanics and choice constraints remain separately retrievable from their relational consequences. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
+**Information records: 34. Decision records: 50. Source boundary: CM-U08.** Information mechanics and choice constraints remain separately retrievable from their relational consequences. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
 
 ## Record schemas
 
@@ -312,6 +312,20 @@ All bind the same witness/disclosure. Options/costs are kept where evidenced; te
 | **CM-DEC-047 / Imagase, offered personal access** | CM-INF-033; hears invitation/equality wish, exact private Kyoichi narration unavailable | Reengages, later accepts wavering and offers compatibility/provisional reassurance. Response family matches U06 proposal in changed state, no clean validation or permanent security | [CM-U07-O047](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o047); `CM-JP-AIO2020-LOCAL::sp0251::xhtml=item/xhtml/p-0249.xhtml::image=item/image/i-0249.jpg::panel=P00`; CM-RS-034/CM-CL-005 v5/018/CM-PA-005 |
 | **CM-DEC-048 / Otomo, ordinary departure/work greeting** | CM-INF-033; continuing uncertainty, private responsibility question; Tamaki relation still unverified | Actively gives fuller farewell kiss, leaves; reserved greeting to Tamaki attracts her more. No intended seduction/final rejection or shared public explanation proved | [CM-U07-O048](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o048); `CM-JP-AIO2020-LOCAL::sp0252::xhtml=item/xhtml/p-0250.xhtml::image=item/image/i-0250.jpg::panel=P00`; CM-RS-034/035/CM-CL-001 v6/006 v7/018 |
 
+## U08 information and decision events
+
+### CM-INF-034 — private conditional fantasy and actual repeated praise
+
+Revision1/prior NONE, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-U08. Primary route: [CM-U08-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md#cm-u08-o004); `CM-JP-AIO2020-LOCAL::sp0259::xhtml=item/xhtml/p-0257.xhtml::image=item/image/i-0257.jpg::panel=P00`. **Truth/audience:** reader/Imagase know imagined wife, routines, schedule, baby, Chikako taunt and monitoring concern. Kyoichi works without shown access to that interior. He actually credits Imagase with refrigerator cleaning in the same words Imagase imagined; yogurt purchase is Imagase report, actual cleaning not independently depicted outside fantasy. **Mechanism:** limited recognition is gratifying without validating the whole wished household. No mind-reading, real child, mutual schedule, completed new phone check, health efficacy or actual Chikako response. **Links:** CM-CS-026/027, CM-RS-036, CM-DEC-049/050, CM-CL-019/006 v8/007 v5/010 v2; O001–O004, sp0256–0259. High for wording/frame/attribution, wider motives/effects open.
+
+### CM-DEC-049 — Imagase reports care and receives acknowledgement
+
+Revision1/prior NONE; same witness/disclosure, prior CM-CS-022/CM-RS-034. Primary route: [CM-U08-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md#cm-u08-o004); `CM-JP-AIO2020-LOCAL::sp0259::xhtml=item/xhtml/p-0257.xhtml::image=item/image/i-0257.jpg::panel=P00`. **Information/options:** actual Kyoichi eye-fatigue report; Imagase's imagined care/recognition and control are private, not commitments Kyoichi has accepted. **Choice:** mentions having bought blueberry yogurt; household work is credited to him, and he receives praise with visible surprise/blush. The purchase is a report, not independently depicted; actual cleaning remains off-panel. **Limits:** no verified medical benefit, completed fantasy schedule/search or explicit new shared role. O001–O004; CM-INF-034/CM-RS-036/CM-CL-019/010 v2.
+
+### CM-DEC-050 — Otomo notices and thanks
+
+Revision1/prior NONE; same witness/disclosure, prior CM-CS-021/CM-RS-034. Primary route: [CM-U08-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md#cm-u08-o004); `CM-JP-AIO2020-LOCAL::sp0259::xhtml=item/xhtml/p-0257.xhtml::image=item/image/i-0257.jpg::panel=P00`. **Information/state:** works, reports eyes tired/recently worse, hears yogurt claim and encounters refrigerator condition. **Choice/consequence:** voices thanks crediting Imagase's cleaning, visibly startling/pleasing him through the imagined/actual verbal echo. No explicit motive beyond appreciation, knowledge of fantasy or formal agreement is supplied. O001/O004; CM-INF-034/CM-RS-036/CM-CL-006 v8/019. Work setting is not evidence of general professional competence.
+
 ## Current retrieval projection
 
 CM-INF-001/002 retain the original leverage; CM-INF-003/004 retain later changes in the marital explanation; CM-INF-005 protects unequal reader/character access; CM-INF-006 retains testimony/status limits. At exit no new report demand is shown, but prior pressure is historical evidence, not deleted. No information record proves omniscient investigation, an orientation, a unique motive or repaired trust.
@@ -325,3 +339,5 @@ At U04 exit CM-INF-014–017 own cover/private channels, interested critiques, c
 At U06 exit CM-INF-019–025 preserve proposal concealment, private rivalry, shared choice, corrected emergency, actual absence, reunion accounts and outstanding obligation. CM-DEC-023–033 bind the choices without collapsing permission, initiative and permanent commitment. CM-PA-003 tests the first café response, not later recontact.
 
 At U07 exit CM-INF-026–033 separate memory/time, public wording, gift knowledge, broadened report, romantic-feeling question, unconfirmed affair inference, repair and split aftermath. CM-DEC-034–048 retain choices without inferring a final contract, actual self-harm or a resolved executive relation. Earlier source states and information limits remain unchanged.
+
+At U08 exit CM-INF-034/CM-DEC-049/050 separate conditional thought from actual speech/report and echoed appreciation. Earlier facts/claims are not settled by imagined routines; no new evidence establishes the executive relationship or former partners' aftermath.
