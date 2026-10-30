@@ -5,12 +5,13 @@ artifact_type: synthesis_architecture
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: canonical
 scope: "Responsibility ownership, synthesis dependencies, amendment and completion gates"
-source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
+source_boundary: "Owner-selected revised Japanese All-in-One; unit coverage and run state are recorded in the current entrypoint and source map"
 canonical_home: series/cornered-mouse/00 Frameworks and Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md
 created: "2026-10-24"
+updated: "2026-10-29"
 review_status: OWNER_BOOTSTRAP_ARCHITECTURE_APPROVED
 supersedes: []
 superseded_by: []
@@ -143,4 +144,4 @@ The current map, source map and cumulative ledgers remain mutable by targeted ed
 
 This compact project uses the simplest adequate staged arrangement; it does not inherit long-series infrastructure merely for similarity. Reuse the live reasoning/capability policies rather than hard-code model names or infer unobserved settings. Future sessions verify transport, processing, actual Japanese image inspection and durable persistence independently. One mutable owner per file; compare base/returned/current versions before accepting transferred work. Handoffs include full artifacts, hashes, source/knowledge boundaries, permitted paths, unresolved required/optional evidence and next owner; the receiver separately checks integrity, drift and semantics.
 
-Apply handoff section 15's named-subject/reference check to introduction, a substantive middle section and exit/synthesis, extending across each major relationship when relevant. Preserve source-required anonymity and knowledge limits. Structural validation is necessary for publication and supplies no literary or owner approval. The owner approved the architecture and released the draft hold for merge preparation on 2026-10-24. The sequential lock remains CLOSED pending supplemental scope and separate source-admission authorization. Version 0.2 records architecture approval; version 0.3 records the owner-selected local working source and its locator key. The four-ledger responsibilities, dependencies and completion gates are unchanged.
+Apply handoff section 15's named-subject/reference check to introduction, a substantive middle section and exit/synthesis, extending across each major relationship when relevant. Preserve source-required anonymity and knowledge limits. Structural validation is necessary for publication and supplies no literary or owner approval. The owner approved the architecture and released the draft hold for merge preparation on 2026-10-24. The owner authorized continuous reading of the supplied All-in-One and completion of the required artifacts on 2026-10-29, with the missing Reboot story outside this run. The current entrypoint owns the live lock and queue, and the run admission record preserves the exact instruction and knowledge boundary. Version 0.2 records architecture approval, version 0.3 the local witness, and version 0.4 this authorized execution scope. The four-ledger responsibilities, dependencies and completion gates are unchanged; INITIAL remains until the first component review.
