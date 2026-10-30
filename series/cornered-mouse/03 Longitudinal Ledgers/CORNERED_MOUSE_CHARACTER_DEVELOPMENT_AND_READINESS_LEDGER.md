@@ -5,10 +5,10 @@ artifact_type: character_state_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.9"
+version: "1.0"
 status: active_provisional
 scope: "Independent identity/state history and separate monograph/model readiness"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U06 first-work exit; narrative144–202, frontispiece143 and closing art203/204 separate"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U07; narrative205/207–254, frontispiece206 and closing art255 separate"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Character development and readiness
 
-**Records: 20. Subjects enrolled: 9. Current source boundary: CM-U06.** These are source-bounded state events, not finished monographs or validated models. Use the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md), [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) and [reconstruction protocol](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md).
+**Records: 25. Subjects enrolled: 12. Current source boundary: CM-U07.** These are source-bounded state events, not finished monographs or validated models. Use the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md), [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) and [reconstruction protocol](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md).
 
 ## Record schema
 
@@ -285,12 +285,56 @@ Basis `e4749dea42179e01a417a96171e9cfb035ca919b`, CM-CS-018 and its retained pre
 
 Same immutable basis, CM-CS-019 and retained predecessors. Reengagement under voluntary personal reopening and audience-conditioned written language justify [CM-RULE-IMAGASE-001/002@v1](../04%20Character%20Studies/CORNERED_MOUSE_IMAGASE_U06_PROPOSED_MODEL.md), status **PROPOSED_DOMAIN_BOUNDED_UNVALIDATED**. Café acceptance/real departure and prior violations prevent universal objection, pursuit or respect-for-refusal policies. CM-PR-005/006 are pending; CM-PA-003 remains an adverse literary forecast, not model validation. Monograph versus model readiness stays separate. Other seven subjects retain their U06 projection dispositions; Natsuki's independent literary responsibility does not establish broad model evidence.
 
+## U07 character events
+
+All revision1, disclosure CM-U07, witness `CM-JP-AIO2020-LOCAL`. Event time is a later domestic/work period with six-month intimate history; no exact calendar interval is inferred. The first U07 disclosure establishes ages31/approaching29, not a correction of earlier frozen ages.
+
+### CM-CS-021 — CM-CH-OTOMO
+
+Prior CM-CS-018; verified identity unchanged, explicitly31/new section chief at sp0210. Primary route: [CM-U07-O042](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o042); `CM-JP-AIO2020-LOCAL::sp0246::xhtml=item/xhtml/p-0244.xhtml::image=item/image/i-0244.jpg::panel=P00`.
+
+**Knowledge/self-conception:** recalls father's advice after family conflict and links it to being kind to women/choosing women who like him; reports marriage at25. Reflects on changed bodily understanding while still imagining a return to women. Knows his own birthday planning, narrow no-girlfriend statement, incomplete bus pursuit and uncertain romantic feeling. Sees Tamaki/Yanagida arm-linked, infers affair and reports it without independent confirmation. He is not shown hearing Tamaki's exact no-partner report to Imagase or the latter's final doorway reaction. **Choices:** CM-DEC-034/036/038/040/041/043/044/046/048; planning, future gift offer, pursuit, sharp dismissal/apology, equality clarification, invitation and active farewell kiss. CM-INF-026–033; CM-RS-026–028/030/031/033–035.
+
+**Change/contradictions:** genuine care/initiative coexist with avoidance, gendered projection and incomplete recognition. Wants feelings of equal weight and asks about responsibility, without certifying achieved equality, full consent repair or final orientation. His sudden cooling toward Tamaki exposes his own image/standard whether or not the affair inference is true. **Evidence:** U07 O003–O018,O024–O050, sp0207–0222,0228–0254; CM-CL-001 v6/004 v6/005 v5/007 v4/008 v4/015 v2/016–018. High for represented acts/thoughts, qualified for unique motives/family history.
+
+**Readiness:** substantial independent monograph evidence, final scope after corpus reconciliation. The U06 proposal remains historically frozen, **not silently updated to this six-month state**. CM-PR-004 still pending; no new operational release/global grade. Broader professional/stranger contexts remain gaps despite meaningful workplace interaction.
+
+### CM-CS-022 — CM-CH-IMAGASE
+
+Prior CM-CS-019; verified identity unchanged. Kyoichi explicitly identifies upcoming29th birthday at sp0215. The midnight celebration at sp0220 establishes29 as his age at this exit. Primary route: [CM-U07-O040](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o040); `CM-JP-AIO2020-LOCAL::sp0244::xhtml=item/xhtml/p-0242.xhtml::image=item/image/i-0242.jpg::panel=P00`.
+
+**Knowledge/choices:** treats daily kisses/intimacy in spousal terms; polices access and voices Tokyo Bay threat. Receives a planned birthday gift and future recurrence offer; the wine is subsequently shown opened and used. Hears Tamaki's broad no-partner report, not Kyoichi's narrower original words, takes papers abruptly and later apologizes. Asks whether care is romantic feeling or compensation; after sexual dismissal starts to leave, then articulates his self-protective sole-man expectation, moth/web account and growing dependence/nervousness. Reengages after invitation, offers qualified reassurance and receives fuller farewell kiss. CM-DEC-035/039/042/045/047; CM-RS-026/029–031/033/034; CM-INF-027–033.
+
+**State/counterevidence:** birthday pleasure, threatening pressure, actual limit and vulnerability coexist. Self-account of giving without return is not proof of unlimited actual availability; U06 departure remains. Neither threats nor hidden face certify an attempt, diagnosis or visible tears. Food/values compatibility and Tamaki's projected future remain his claims. He has Kyoichi's affair report, not independent sighting/proof; Tamaki's final attraction is outside his knowledge. **Evidence:** O005–O020,O021–O047,O049, sp0209–0224,0225–0251,0253; CM-CL-004 v6/005 v5/008 v4/011 v3/014 v2/015 v2/017/018. High for words/choices, qualified for full motive and reported history.
+
+**Readiness:** substantial monograph evidence; U06 models remain historical proposals. CM-PA-004/005 preserve temporally qualified range matches and ambiguous eligibility, **not clean model validation**. Broader independent contexts remain gaps; no global grade or successor model is created by this unit.
+
+### CM-CS-023 — CM-CH-OKAMURA-TAMAKI
+
+Prior NONE; verified **岡村たまき / Okamura Tamaki**, surname addressed218/full self-introduction225. The same portrait connects the named-onlyたまき at205; no merge with earlier women. Primary route: [CM-U07-O021](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o021); `CM-JP-AIO2020-LOCAL::sp0225::xhtml=item/xhtml/p-0223.xhtml::image=item/image/i-0223.jpg::panel=P00`.
+
+**Knowledge/agency:** participates in workplace interest, helps wine research through a knowledgeable friend, infers a girlfriend before Kyoichi denies one, delivers forgotten work privately, denies being girlfriend and reports no partner to Imagase. Later walks arm-linked with Yanagida and remains attracted to Kyoichi's reserved greeting. CM-DEC-037; CM-RS-028/029/032/035, CM-INF-027/029/031/033. **Limits:** she hears Kyoichi's original statement and meets Imagase as a longtime junior; her exact understanding of their intimacy, full visit motive and executive relationship remain unestablished. Broadening girlfriend to partner is observable, deliberate falsification is not proved. Her wine friend is not independently identified as Yanagida.
+
+**Evidence/readiness:** O001,O013–O022,O025–O028,O031–O032,O049–O050, sp0205,0217–0226,0229–0232,0235–0236,0253–0254; CM-CL-011 v3/017. Independent choices/interest warrant sustained secondary/character review after corpus. One-unit evidence is insufficient for broad model or completed portrait; model NOT_ASSESSED. No final age/surname change/family role invented.
+
+### CM-CS-024 — CM-CH-OTOMO-FATHER
+
+Prior NONE; Kyoichi's **source-unnamed father**, identified208 in a represented childhood memory, not a current independent witness. Primary route: [CM-U07-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o004); `CM-JP-AIO2020-LOCAL::sp0208::xhtml=item/xhtml/p-0206.xhtml::image=item/image/i-0206.jpg::panel=P00`. **Remembered action/state:** advises listening to women/smiling/being kind to maintain peace; Kyoichi recalls him lonely after mother/sister ignored him for three days following an argument. Child Kyoichi pities him and wishes he had chosen someone more loving. **Limits:** retrospective access/self-explanation, no full marital history, parent motive, diagnosis or present status. CM-RS-027, CM-INF-026/CM-DEC-034/CM-CL-016. O003–O004, sp0207–0208. Evidence high for represented recollection, qualified for entire historical truth. Literary contextual role only; independent monograph/model insufficient. Mother/sister remain reported roles, not fabricated portraits.
+
+### CM-CS-025 — CM-CH-YANAGIDA
+
+Prior NONE; **柳田常務 / executive Yanagida**, identified by Kyoichi at220, recognized again236; given name unverified. Primary route: [CM-U07-O032](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o032); `CM-JP-AIO2020-LOCAL::sp0236::xhtml=item/xhtml/p-0234.xhtml::image=item/image/i-0234.jpg::panel=P00`. **Observed:** on Kyoichi's work floor, later walking arm-linked with Tamaki. **Not established:** reason on floor, prior listening, romance/adultery, kinship, marital status or identity of wine friend. Kyoichi's report is a new information event, not corroboration. CM-RS-032, CM-INF-031/CM-DEC-043; O015–O016,O031–O034, sp0219–0220,0235–0238. Minimal bounded enrollment for a consequential observed role; no independent psychological portrait, monograph or model. Full-name/role claims remain unassessed.
+
+### CM-RD-003 — post-U07 model currentness and subject review
+
+The three new subjects are distinct from all nine earlier enrollees. Kyoichi/Imagase's newly disclosed ages, six-month history and recognition/commitment developments require explicit temporal qualification of the U06 proposals. CM-PA-004/005 log observed matches with mixed eligibility; no rule bytes, original forecast or title-work review is rewritten. CM-PR-004 remains pending under its original window. A future current-state model requires its own version/evidence/tests. Literary monograph accumulation continues independently. All seven earlier secondary subjects retain their prior scopes: no new independent aftermath for Chikako/Nishimura/Natsuki/Takasugi or the anonymous roles. In particular, half-year no-woman speech does not supply Natsuki's unshown breakup/cancellation.
+
 ## Current projection
 
 | Character | Current event | Source-bounded state | Separate readiness |
 |---|---|---|---|
-| CM-CH-OTOMO | CM-CS-018 | Rejection, actual loss, retained trace and chosen pursuit; fear/intimacy with Natsuki obligation unresolved | Monograph accumulating; proposed U06 model, CM-RD-001; CM-PR-004 pending |
-| CM-CH-IMAGASE | CM-CS-019 | Accepts rejection, leaves, reports painful waiting, then reconnects under changed information | Monograph accumulating; proposed U06 model, CM-RD-002; CM-PR-005/006 pending |
+| CM-CH-OTOMO | CM-CS-021 | Planned care, public/private mismatch, hurt/repair and wish for equal feeling/responsibility | Monograph accumulating; historical U06 proposal, CM-RD-003; CM-PR-004 pending |
+| CM-CH-IMAGASE | CM-CS-022 | Domestic pleasure, perceived denial, conditional role/limit and received invitation/kiss | Monograph accumulating; historical U06 proposal, qualified CM-PA-004/005; no clean validation |
 | CM-CH-CHIKAKO | CM-CS-003 | Requested divorce; new partner reported; later state unknown | Independent work reviewed after corpus |
 | CM-CH-COMPANION-U01 | CM-CS-004 | Violent act observed; breakup later reported; interior unavailable | Insufficient independent evidence; model unassessed |
 | CM-CH-NISHIMURA-MIZUNO | CM-CS-007 | Affair/invitations and household account; witnessed outburst, aftermath unknown | Independent work reviewed after corpus; model unassessed |
@@ -298,3 +342,6 @@ Same immutable basis, CM-CS-019 and retained predecessors. Reengagement under vo
 | CM-CH-CLIENT-U02 | CM-CS-009 | Reported client, distinct from U01 companion; reacted to outburst | Insufficient independent evidence; model unassessed |
 | CM-CH-NATSUKI | CM-CS-020 | Own renewal/choice challenge, critique and holiday care; final call/aftermath unknown | Independent literary responsibility justified; model unassessed |
 | CM-CH-TAKASUGI | CM-CS-015 | Reported ex, reunion wish and honest-rejection request; outcome unknown | Evidence-limited review after corpus; model unassessed |
+| CM-CH-OKAMURA-TAMAKI | CM-CS-023 | Wine help/work delivery, available-man understanding and continuing attraction; executive relation unknown | Independent secondary review; model unassessed |
+| CM-CH-OTOMO-FATHER | CM-CS-024 | Advice/loneliness in Kyoichi remembered childhood only | Contextual role; independent portrait/model insufficient |
+| CM-CH-YANAGIDA | CM-CS-025 | Executive on work floor and arm-linked company; private role unknown | Minimal enrollment; portrait/model insufficient |

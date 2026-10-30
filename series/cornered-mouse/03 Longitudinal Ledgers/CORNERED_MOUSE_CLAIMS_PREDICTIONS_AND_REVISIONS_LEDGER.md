@@ -5,10 +5,10 @@ artifact_type: claim_revision_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.9"
+version: "1.0"
 status: active_provisional
 scope: "Interpretive claim lineage, genuine prospective forecasts and revision impact"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U06 first-work exit; narrative144–202, frontispiece143 and closing art203/204 separate"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U07; narrative205/207–254, frontispiece206 and closing art255 separate"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Claims, predictions and revisions
 
-**Claims: 15. Predictions: 6 (three adjudicated, three prospective model tests pending). Claim revision events: 24. Forecast adjudication events: 3. Source boundary: CM-U06.** U01 formulations and original forecast bytes remain unchanged; the current projection and appended U02 events identify later authority. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
+**Claims: 18. Predictions: 6 (five adjudicated, CM-PR-004 pending). Claim revision events: 33. Forecast adjudication events: 5. Source boundary: CM-U07.** U01 formulations and original forecast bytes remain unchanged; the current projection and appended U02 events identify later authority. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
 
 ## Schemas and revision vocabulary
 
@@ -357,22 +357,106 @@ Score SUPPORTED only for the entire original response range, FAILURE for its sta
 
 The three earlier literary forecasts and CM-PA-001–003 retain their original results and limits. New models do not retroactively claim those as validation. Current forecast totals: six registered, three adjudicated and three pending.
 
+## U07 claims and revisions
+
+All bind `CM-JP-AIO2020-LOCAL`, disclosure/authority CM-U07-EXIT. Earlier formulations, rules and forecasts remain unchanged; these current interpretations do not retroactively alter U06 knowledge.
+
+### CM-CL-016 v1 — retrospective family lesson explains a pattern without determining every choice
+
+**Kind:** SUPPORTED_INTERPRETATION. **Formulation:** Kyoichi represents childhood pity for his father and a lesson linking kindness/listening with peace and being loved. This supplies a retrospective explanatory frame, not an independently verified whole-family history or sole cause of later conduct. His particular birthday care and later reciprocity question expose what such a frame cannot settle. **Evidence:** O003–O005,O011–O018,O039–O042, sp0207–0209,0215–0222,0243–0246. Primary route: [CM-U07-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o004); `CM-JP-AIO2020-LOCAL::sp0208::xhtml=item/xhtml/p-0206.xhtml::image=item/image/i-0206.jpg::panel=P00`. **Counterevidence/alternative:** Retrospective self-account may be partial; consideration can include care, fear, convenience and other motives. No parental diagnosis or universal gender rule. **Confidence:** High for represented lesson, qualified for historical truth/causal scope. **Falsifier/limit:** Corrected memory/speaker attribution revises the local account; later self-explanation can add causes without rewriting the freeze. **Downstream:** CM-CS-021/024, CM-RS-027, CM-INF-026/CM-DEC-034; character/agency synthesis.
+
+### CM-CL-017 v1 — wording and inference change when passed between people
+
+**Kind:** SUPPORTED_INTERPRETATION. **Formulation:** Kyoichi no-girlfriend speech is reported to Imagase as no partner; the reader knows both formulations while the men lack each other’s exact access. Separately, observed Tamaki/Yanagida company becomes Kyoichi inferred affair and then a report to Imagase. These are evidenced changes of informational status with relational effects, not independent confirmation. **Evidence:** O001,O015,O019–O024,O031–O038, sp0205,0219,0223–0228,0235–0242. Primary route: [CM-U07-O022](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o022); `CM-JP-AIO2020-LOCAL::sp0226::xhtml=item/xhtml/p-0224.xhtml::image=item/image/i-0224.jpg::panel=P00`. **Counterevidence/alternative:** Narrow wording does not remove Kyoichi contribution to apparent availability; broadened report does not prove Tamaki deliberate lie. The affair inference may later be confirmed or corrected; it is unconfirmed here. **Confidence:** High for source words/order/audiences, open for private intent and executive relation. **Falsifier/limit:** Exact speaker/word correction or independently disclosed relationship changes the relevant proposition; no future fact makes earlier access omniscient. **Downstream:** CM-CS-021–023/025, CM-RS-028/029/032/035, CM-INF-027/029/031, CM-DEC-036/037/039/043; form/social-context synthesis.
+
+### CM-CL-018 v1 — equal feeling is an aspiration that raises responsibility beyond pleasant care
+
+**Kind:** SUPPORTED_INTERPRETATION. **Formulation:** Kyoichi distinguishes wanting feelings of equal weight from merely compensating Imagase, offers personal access and later initiates a fuller kiss. These acts answer part of the claim that only Imagase sustains contact, while romantic certainty, responsibility and comprehensive terms remain unfinished. Genuine effort/pleasure do not automatically establish adequate reciprocity. **Evidence:** O027–O030,O035–O049, sp0231–0234,0239–0253. Primary route: [CM-U07-O042](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o042); `CM-JP-AIO2020-LOCAL::sp0246::xhtml=item/xhtml/p-0244.xhtml::image=item/image/i-0244.jpg::panel=P00`. **Counterevidence/alternative:** Imagase still describes self-protective asymmetry and provisional future; Kyoichi doubts temporariness/responsibility. Invitation/intimacy is not every-act permission or a completed declaration of romantic love. **Confidence:** High for words/initiative, moderate for developmental significance; durable equality open. **Falsifier/limit:** Corrected invitation/action or later explicit agreements revise scoped investment/terms; aspiration is not scored as achieved equality. **Downstream:** CM-CS-021/022, CM-RS-031/033/034, CM-INF-030/032/033, CM-DEC-041/042/044–048; relationship/ethics synthesis.
+
+### CM-CR-025 — CM-CL-001, v5 → v6, STRENGTHEN
+
+**Old v5:** Choice/retention/pursuit coexist with drift and fear through U06. **New v6:** U07 adds a remembered care/peace script, planned gift/future recurrence, pursuit of Tamaki, active hurt/repair and an invitation/kiss. Initiative has differing aims and effects; self-account is neither literal helplessness nor proof of complete ethical autonomy. **Evidence:** O003–O018,O024–O030,O033–O048, sp0207–0222,0228–0234,0237–0252. Primary route: [CM-U07-O042](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o042); `CM-JP-AIO2020-LOCAL::sp0246::xhtml=item/xhtml/p-0244.xhtml::image=item/image/i-0244.jpg::panel=P00`. **Counterevidence/alternative:** Fear, pressure, gendered assumptions and uncertainty remain; memory does not uniquely determine motives. **Confidence:** High for choices, moderate for recurring explanatory pattern. **Falsifier/limit:** source attribution/sequence correction or later explicit evidence revises its scoped current interpretation; no later disclosure rewrites this exit. **Downstream:** CM-CS-021/CM-RS-028/030/031/033–035/CM-DEC-034/036/038/040/041/043/044/046/048.
+
+### CM-CR-026 — CM-CL-004, v5 → v6, STRENGTHEN
+
+**Old v5:** Concealment, private meetings, corrected emergency, absence and one-sided calls separate knowledge. **New v6:** Girlfriend/partner broadening and uncorroborated executive inference/report make information status itself consequential. Reader sees original/report and private reactions, neither man has the entire archive. **Evidence:** O001,O013–O015,O019–O038,O049–O050, sp0205,0217–0219,0223–0242,0253–0254. Primary route: [CM-U07-O022](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o022); `CM-JP-AIO2020-LOCAL::sp0226::xhtml=item/xhtml/p-0224.xhtml::image=item/image/i-0224.jpg::panel=P00`. **Counterevidence/alternative:** Narrow accuracy is not innocence of misleading implication; current uncertainty is not proof inference false. **Confidence:** High for wording/order/access; private intent/executive role open. **Falsifier/limit:** source attribution/sequence correction or later explicit evidence revises its scoped current interpretation; no later disclosure rewrites this exit. **Downstream:** CM-INF-027/029–033/CM-CS-021–023/025/CM-CL-017.
+
+### CM-CR-027 — CM-CL-005, v4 → v5, REVISE
+
+**Old v4:** U06 actual withdrawal and conditional reunion expand particular attachment while permanent/other terms remain open. **New v5:** A six-month routine, spousal interpretation and particular next-year offer coexist with perceived denied status, romantic-feeling question, sole-man defense and provisional reassurance. Invitation/kiss advance chosen access without completing a shared durable definition. **Evidence:** O005–O018,O022–O030,O038–O049, sp0209–0222,0226–0234,0242–0253. Primary route: [CM-U07-O047](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o047); `CM-JP-AIO2020-LOCAL::sp0251::xhtml=item/xhtml/p-0249.xhtml::image=item/image/i-0249.jpg::panel=P00`. **Counterevidence/alternative:** Genuine planning, pleasure and initiative resist a no-investment reading; insecurity/ambiguity resist complete resolution. **Confidence:** High for changes/utterances, durable contract open. **Falsifier/limit:** source attribution/sequence correction or later explicit evidence revises its scoped current interpretation; no later disclosure rewrites this exit. **Downstream:** CM-RS-026/030/031/033/034/CM-INF-026/028–030/032/033/CM-CL-018.
+
+### CM-CR-028 — CM-CL-006, v6 → v7, STRENGTHEN
+
+**Old v6:** Material traces, time gaps and open rain/drowning question shape first-work access. **New v7:** Family-memory framing, tie across work/art/restraint/routine, gift consumption, butterflies/web/moth, silent bus/door and final attraction connect private uncertainty to public appearance. Motifs change function instead of fixing one predation code. **Evidence:** O001–O004,O013–O018,O025–O026,O029–O050, sp0205–0208,0217–0222,0229–0230,0233–0254. Primary route: [CM-U07-O050](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o050); `CM-JP-AIO2020-LOCAL::sp0254::xhtml=item/xhtml/p-0252.xhtml::image=item/image/i-0252.jpg::panel=P00`. **Counterevidence/alternative:** Objects also practical/atmospheric; focalized koala/web accounts are not objective biology or fate. Closing art255 adds no terms. **Confidence:** High for form/order/echo; thematic integration moderate. **Falsifier/limit:** source attribution/sequence correction or later explicit evidence revises its scoped current interpretation; no later disclosure rewrites this exit. **Downstream:** U07 reading, CM-INF-027–033/CM-CL-015 v2/016–018; form/ending synthesis.
+
+### CM-CR-029 — CM-CL-007, v3 → v4, REVISE
+
+**Old v3:** Ordinary-man framing/fear and renewed sex do not settle identity. **New v4:** Kyoichi narrates experiential learning, ongoing male intimacy and desire for reciprocal feeling while still finding women reassuring, imagining return and wondering whether current intimacy temporary. These tensions resist a finished orientation story. **Evidence:** O005–O012,O029–O034,O042–O045, sp0209–0216,0233–0238,0246–0249. Primary route: [CM-U07-O012](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o012); `CM-JP-AIO2020-LOCAL::sp0216::xhtml=item/xhtml/p-0214.xhtml::image=item/image/i-0214.jpg::panel=P00`. **Counterevidence/alternative:** Self-explanations can be incomplete; actual care/initiative is not erased by a gendered hoped future, nor vice versa. **Confidence:** High for tension/represented thought, permanent identity open. **Falsifier/limit:** source attribution/sequence correction or later explicit evidence revises its scoped current interpretation; no later disclosure rewrites this exit. **Downstream:** CM-CS-021/CM-RS-026/031/034/CM-CL-016/018; sexuality/character synthesis.
+
+### CM-CR-030 — CM-CL-008, v3 → v4, STRENGTHEN
+
+**Old v3:** Specific refusal, ambiguous request-answer and later participation remain distinct. **New v4:** U07 adds a suicide-framed threat as speech, hurtful cruising dismissal/retraction, explicit personal invitation, visibly restrained adult intimacy and fuller volunteered kiss. Invitation does not provide unseen tying/all-act negotiation, shared desire does not repair every prior boundary, and pain is not a diagnosis. **Evidence:** O005–O010,O019–O023,O035–O048, sp0209–0214,0223–0227,0239–0252. Primary route: [CM-U07-O043](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o043); `CM-JP-AIO2020-LOCAL::sp0247::xhtml=item/xhtml/p-0245.xhtml::image=item/image/i-0245.jpg::panel=P00`. **Counterevidence/alternative:** Present choice/desire and apology are real; absent complete transcript does not prove every act unwanted. Threat not witnessed attempt. **Confidence:** High for act/word distinctions, omitted agreements open. **Falsifier/limit:** source attribution/sequence correction or later explicit evidence revises its scoped current interpretation; no later disclosure rewrites this exit. **Downstream:** CM-RS-026/029/033/034/CM-INF-032/033/CM-DEC-035/039/044/046–048.
+
+### CM-CR-031 — CM-CL-011, v2 → v3, STRENGTHEN
+
+**Old v2:** Natsuki/Takasugi independent choices and interested critique remain bounded. **New v3:** Tamaki help, work delivery, apparent-availability understanding and continuing attraction are independent choices/responses; Yanagida observed role and remembered father remain limited. Neither projected affair nor feminine purity is authoritative. Earlier Natsuki/Takasugi scopes unchanged. **Evidence:** O001,O003–O004,O013–O024,O031–O034,O049–O050, sp0205,0207–0208,0217–0228,0235–0238,0253–0254. Primary route: [CM-U07-O021](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o021); `CM-JP-AIO2020-LOCAL::sp0225::xhtml=item/xhtml/p-0223.xhtml::image=item/image/i-0223.jpg::panel=P00`. **Counterevidence/alternative:** Visitor boundaries/hope and biased inference may overlap; no complete motives, executive relation or new Natsuki settlement. **Confidence:** High for speech/actions; private roles/motives open. **Falsifier/limit:** source attribution/sequence correction or later explicit evidence revises its scoped current interpretation; no later disclosure rewrites this exit. **Downstream:** CM-CS-023–025/CM-RS-027–029/032/035/CM-CL-016/017; secondary/social responsibility.
+
+### CM-CR-032 — CM-CL-014, v1 → v2, STRENGTHEN
+
+**Old v1:** Actual U06 withdrawal has cost; renewed contact does not prove painless or permanent absence. **New v2:** After U07 dismissal Imagase starts a real exit with bag, interrupted by Kyoichi apology; claims of disappearance/self-sufficient giving coexist with disclosed dependence and reengagement. This extends context-dependent limits without undoing U06 café acceptance/actual absence. **Evidence:** O035–O044, sp0239–0248. Primary route: [CM-U07-O037](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o037); `CM-JP-AIO2020-LOCAL::sp0241::xhtml=item/xhtml/p-0239.xhtml::image=item/image/i-0239.jpg::panel=P00`. **Counterevidence/alternative:** Interrupted exit is not another completed two-month separation; neither plea nor return proves all departures a bluff. **Confidence:** High for movement/speech; future permanence open. **Falsifier/limit:** source attribution/sequence correction or later explicit evidence revises its scoped current interpretation; no later disclosure rewrites this exit. **Downstream:** CM-CS-022/CM-RS-033/034/CM-INF-032/CM-DEC-044/045; CM-PA-003 remains unchanged.
+
+### CM-CR-033 — CM-CL-015, v1 → v2, STRENGTHEN
+
+**Old v1:** Missing clothes/retained cigarette remains turn absence into shared particular knowledge. **New v2:** U07 gift wine is used after an offer of recurrence; tie imagery crosses public reading, art, restraint and work routine without certifying one identical physical tie throughout. Objects mediate recognition/use/expectation differently; distinct lighter/remnant motives and identities remain. **Evidence:** O001–O002,O014–O018,O025,O043–O048, sp0205–0206,0218–0222,0229,0247–0252. Primary route: [CM-U07-O018](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o018); `CM-JP-AIO2020-LOCAL::sp0222::xhtml=item/xhtml/p-0220.xhtml::image=item/image/i-0220.jpg::panel=P00`. **Counterevidence/alternative:** Particular next-year gift is not full contract; material echoes allow multiple functions, not a fixed allegory. **Confidence:** High for object/order/use, relational interpretation moderate. **Falsifier/limit:** source attribution/sequence correction or later explicit evidence revises its scoped current interpretation; no later disclosure rewrites this exit. **Downstream:** CM-RS-030/034/CM-INF-028/033/CM-DEC-038/CM-CL-006 v7; form/relationship synthesis.
+
+**Retained claims:** CM-CL-002/003/009/010/012/013 remain at their original narrower source formulations. Later motives do not rewrite the hotel, Chikako/Nishimura history, private PC access, knowing lighter or care-as-exit experiment. All U06 rule versions and three frozen model-test records remain unchanged; no successor operational model is created.
+
+## U07 model-test outcomes
+
+These outcome records are separate from original predictions and retain every temporal/eligibility limitation. **No clean U06-state model validation is claimed.** The source window was genuinely uninspected at model/test commit046aa5ff; within-page trigger/response are not falsely called independent blind observations. Material six-month state and recognition differences were recorded privately at210–211 and228 before later invitation outcomes. The common protocol allows MIXED for genuinely ambiguous eligibility; no falsifier or exclusion is added after a failed response.
+
+### CM-PA-004 — CM-PR-006, MIXED_ELIGIBILITY / TEMPORALLY_QUALIFIED
+
+**Original rule:** CM-RULE-IMAGASE-002@v1 / CM-TEST-U06-V1, frozen at `046aa5ff3a02a003519067af299b757979cfbf70`, U06 evidence basis. **First candidate:** morning direct disagreement/pressure209–210; polite-form/senior relationship is visible before the scene develops and the office cut215 closes it. Primary route: [CM-U07-O006](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o006); `CM-JP-AIO2020-LOCAL::sp0210::xhtml=item/xhtml/p-0208.xhtml::image=item/image/i-0208.jpg::panel=P00`. **Observed range:** matches the minimum written-form prediction; later bath/restaurant polite speech is consistency, not a substituted first case. **Eligibility bound:** same familiar hierarchy is retained, but six-month intimate history/age/promotion disclosed210–211 distinguish current state. A strict historical-state reading abstains for TEMPORAL_CONTEXT_MISMATCH; a narrower hierarchy-only transfer reading matches. Primary outcome is therefore MIXED_ELIGIBILITY, not unqualified support. **Limit:** low discrimination even under the transfer reading; hierarchy/habit can produce the same surface. No acoustic voice, motive/action/ethical fidelity, sampled accuracy or global readiness result. Rule revision NONE; historical proposal preserved. CM-RD-003 and current entrypoint carry this qualification.
+
+### CM-PA-005 — CM-PR-005, MIXED_ELIGIBILITY / TEMPORALLY_QUALIFIED
+
+**Original rule:** CM-RULE-IMAGASE-001@v1 / CM-TEST-U06-V1, same freeze. **First weak candidate:** Kyoichi chosen-company affirmation232 after Imagase not-lover disclaimer, followed by receiving/negotiating233. It may be a meaningful personal reopening, or continued argument at an already planned meal. **First unequivocal invitation:** hand/come246 after245's ending claim, then reengagement/intimacy247. Both actual response families fit the predicted range, but246 cannot replace232 to improve first-case selection. Primary routes: [CM-U07-O028](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o028); `CM-JP-AIO2020-LOCAL::sp0232::xhtml=item/xhtml/p-0230.xhtml::image=item/image/i-0230.jpg::panel=P00`; [CM-U07-O042](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o042); `CM-JP-AIO2020-LOCAL::sp0246::xhtml=item/xhtml/p-0244.xhtml::image=item/image/i-0244.jpg::panel=P00`.
+
+**Temporal/selection limit:** the six-month spousal routine, next-year offer and new perceived recognition denial226 materially distinguish Imagase's state; this mismatch was recorded at228 before the response cases. Invitation246 was separately logged before247 inspection. A strict U06-state test abstains; a looser transfer reading matches, with earlier eligibility uncertainty preserved. Primary outcome MIXED_ELIGIBILITY / TEMPORALLY_QUALIFIED takes no clean supporting credit or promotion. Reengagement is not comprehensive consent/forgiveness/permanence. Rule revision NONE. Later farewell252 is additional evidence, not a better substituted test.
+
+### CM-PR-004 eligibility checkpoint at U07 exit
+
+Complete205–255 checked: no unexpected encounter with Imagase and an apparent competing male attachment after rupture. Kyoichi pursuing Tamaki, Tamaki walking with Yanagida and a private jealous argument are wrong target/context, not support. Remains **PENDING** through original U08–U10 remainder; material new state must still be assessed at any later trigger. No new forecast is generated from already read U07 outcomes.
+
+| Forecast | Current outcome | Canonical outcome / limit |
+|---|---|---|
+| CM-PR-001 | SUPPORTED | CM-PA-001, bounded literary forecast |
+| CM-PR-002 | SUPPORTED, LOW_DISCRIMINATION | CM-PA-002, bounded literary forecast |
+| CM-PR-003 | FAILURE, contextual eligibility bounded | CM-PA-003; stricter no-trigger reading never supporting |
+| CM-PR-004 | PENDING | No eligible U07 trigger; window continues to U10 |
+| CM-PR-005 | MIXED_ELIGIBILITY, TEMPORALLY_QUALIFIED | CM-PA-005; observed transfer range matches, no clean U06-state validation |
+| CM-PR-006 | MIXED_ELIGIBILITY, TEMPORALLY_QUALIFIED | CM-PA-004; observed register match/low discrimination, no broad validation |
+
 ## Current claim projection
 
 | Claim | Current formulation | Authority boundary / disposition |
 |---|---|---|
-| CM-CL-001 | v5 in CM-CR-018 | Choice/retention/pursuit coexist with drift accounts; STRENGTHEN |
+| CM-CL-001 | v6 in CM-CR-025 | U07: adds a remembered care/peace script, planned gift/future recurrence, pursuit of Tamaki, active hurt/repair and an invitation/kiss; STRENGTHEN |
 | CM-CL-002 | v1 above | U01 hotel mechanism preserved by CM-CR-002 |
 | CM-CL-003 | v1 above | Chikako account preserved by CM-CR-003; no U02 new evidence |
-| CM-CL-004 | v5 in CM-CR-019 | Private meetings, corrected fear, absence and one-sided call; STRENGTHEN |
-| CM-CL-005 | v4 in CM-CR-020 | Enacted withdrawal and conditional reunion; unresolved mutual/other terms; REVISE |
-| CM-CL-006 | v6 in CM-CR-021 | Domestic traces, delayed recognition and open rain/drowning end; STRENGTHEN |
-| CM-CL-007 | v3 in CM-CR-022 | Voiced dependence/abandonment fear and particular desire; identity open; REVISE |
-| CM-CL-008 | v3 in CM-CR-023 | Early refusal, distinct request gap and later expanded participation; STRENGTHEN |
+| CM-CL-004 | v6 in CM-CR-026 | U07: Girlfriend/partner broadening and uncorroborated executive inference/report make information status itself consequential; STRENGTHEN |
+| CM-CL-005 | v5 in CM-CR-027 | U07: A six-month routine, spousal interpretation and particular next-year offer coexist with perceived denied status, romantic-feeling question, sole-man defense and provisional reassurance; REVISE |
+| CM-CL-006 | v7 in CM-CR-028 | U07: Family-memory framing, tie across work/art/restraint/routine, gift consumption, butterflies/web/moth, silent bus/door and final attraction connect private uncertainty to public appearance; STRENGTHEN |
+| CM-CL-007 | v4 in CM-CR-029 | U07: Kyoichi narrates experiential learning, ongoing male intimacy and desire for reciprocal feeling while still finding women reassuring, imagining return and wondering whether current intimacy temporary; REVISE |
+| CM-CL-008 | v4 in CM-CR-030 | U07: adds a suicide-framed threat as speech, hurtful cruising dismissal/retraction, explicit personal invitation, visibly restrained adult intimacy and fuller volunteered kiss; STRENGTHEN |
 | CM-CL-009 | v1 above | Nishimura's independent agency/qualified family account |
 | CM-CL-010 | v1 above | U03 care/monitoring/self-restrained hope; motives bounded |
-| CM-CL-011 | v2 in CM-CR-024 | Natsuki’s independent choices/care/critique and outstanding claim; STRENGTHEN |
+| CM-CL-011 | v3 in CM-CR-031 | U07: Tamaki help, work delivery, apparent-availability understanding and continuing attraction are independent choices/responses; Yanagida observed role and remembered father remain limited; STRENGTHEN |
 | CM-CL-012 | v1 above | Repeated gift after explanation changes shared meaning |
 | CM-CL-013 | v1 above | Care as exit experiment yields an immediately warm response |
-| CM-CL-014 | v1 above | Withdrawal is enacted and costly; permanence not certified |
-| CM-CL-015 | v1 above | Ordinary traces make absence and retained investment legible |
+| CM-CL-014 | v2 in CM-CR-032 | U07: After U07 dismissal Imagase starts a real exit with bag, interrupted by Kyoichi apology; claims of disappearance/self-sufficient giving coexist with disclosed dependence and reengagement; STRENGTHEN |
+| CM-CL-015 | v2 in CM-CR-033 | U07: gift wine is used after an offer of recurrence; tie imagery crosses public reading, art, restraint and work routine without certifying one identical physical tie throughout; STRENGTHEN |
+| CM-CL-016 | v1 above | Remembered family lesson with causal/history limits |
+| CM-CL-017 | v1 above | Girlfriend/partner broadening and inferred affair report |
+| CM-CL-018 | v1 above | Equal-feeling aspiration, initiative and responsibility remain distinct |
