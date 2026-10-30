@@ -5,14 +5,14 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.57"
+version: "1.58"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0023 through whole transactions; original I1 continuous, E0024 next after whole E0023 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
+source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0024 through whole transactions; original I1 continuous, E0025 next after whole E0024 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0023_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
+review_status: E0024_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,6 +20,14 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Source inventory and edition/witness architecture
+
+## Current E0024 source transaction — 2026-10-30
+
+The complete original E0024 has178native nodes,110meaningful/68exact LF-br,0ruby/body media;12recoverable observations. Root original/Q1 precedes current peer and finite novel meaning. Source/Q2 is accepted233scoped checks/14manuals; root's finite LN01native301–399original/ruby encounter and exact correspondence are separately accepted; cumulative A2 is accepted99effective checks/16manuals with100historical outcomes, including the preserved closed reviewer guard. Whole/publication checks retain separate outcomes.
+
+Only the whole E0024 commit yields WEB24/431,51/458original I1,56/463pre-LN10 and57/464combined. Ten novels/23supplements remain complete. Four logical ledgers have256claim IDs/826versions/1333strict rows;1420proposition IDs/1971versions;192rule IDs/479pairs/498physical rows,19legacy repeats. Both static masters/all4978old changing-file table lines are exact. Source-fit/readiness labels do not promote noncurrent UNTESTED M0.13/S0.14 or create a validated domain. Full original I1/dependent duties continue atE0025 after wholeE0024; no routine confirmation or unit-sized stop.
+
+[Current reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0024_DEEP_READING.md) and [transaction audit](../08%20Audits%20and%20Handoffs/SHUUKURA_V2_KAK_JP_E0024_TRANSACTION_AUDIT.md) preserve source and review scopes. The owner-integrated main adoption retains the genuine e18 entering clock and byte-identical entire Shuukura subtree/all18inputs; a new publication base is not a reconstructed earlier context.
 
 ## Current E0023 source transaction — 2026-10-29
 
@@ -2199,3 +2207,15 @@ The ledgers add21 character events,13 relationship events,2 principal projection
 Whole-commit coverage is50/458 I1,55/463 before LN10,56/464 combined and WEB23/431;10 novels/23 supplements complete, Narō0/290,51 gaps with4 resolved/47 unresolved and27 discovery duties unchanged. Full I1 remains active under `continuous_sequential`, next E0024 after whole E0023, confirmationfalse and all original terminal/dependent duties retained. All18 forecasts/13 historical attempts, M0.13/S0.14 noncurrent UNTESTED status and0 validated domains remain unchanged. Both OFF archives stay local; V1/future releases/E0432+ are unopened.
 
 Source/Q2 accepted40 new checks plus223 carried original checks,263 scoped and14 manual assessments, with two attributed maintained-prose qualifications and the original first notes/Q1 unchanged. Cumulative, finite, whole-transaction, publication and actual INDEX/provider checks have their separate receipts and limitations in the audit. The prior published c134 audit succeeded with486 tests and10488 paths,0 failures/errors/skips, exact owner-push run40984642984 and trusted required status57635587476. The current unit's stage/push/readback/own-head CI and protected-main integration are distinct outcomes; no old green is relabeled as a new check or new source credit.
+
+## KAK-JP-E0024 complete narrative transaction — 2026-10-30
+
+Transaction `SHUUKURA-TX-KAK-JP-E0024-20261030-A1` covers the complete original178native/110meaningful/68format-only episode and all required source, finite and cumulative responsibilities. Root four ordered source blocks and substantive between-block notes precede whole Q1; the original title is generic. P01 qualifies WEB94 as gone/checking unnecessary. All original notes/Q1 remain exact. A separate complete99-paragraph original LN01 tail encounter includes12ruby/15rt, no images and the actual member endpoint399; no following member/E25/V1 was opened.
+
+Source233scoped checks/14manuals, root finite502actual assertions/14manuals plus16full-file repair pairs (2identity), and cumulative99effective checks/16manuals retain separate scope. Historical root checker293outcomes and cumulative100historical outcomes include their preserved interface/guard failures; they are not added current passes or source defects. Author comparison self-review/root findings and bounded corrections retain exact A1/A2/A3 histories.
+
+All four logical ledgers are reconciled through four changing physical files plus two exact historical masters. Current totals256claims/826versions/1333strict rows;1420propositions/1971versions;192rules/479pairs/498physical rows,19legacy repeats. Twenty character events,12relationship events,2projections/2directions,49new propositions/8successors/49information transitions/12tensions,4newOPENclaims/16successors and4rule successors/0newrule IDs are added. Every4978oldchanging-file table line is preserved. OwnMiyagiE24/observedSendaiE24 keep ownSendaiE20/observedMiyagiE20 and later LN10 clocks. All18forecasts/13attempts, noncurrent UNTESTED M0.13/S0.14 and0validated domains remain.
+
+The genuine prospective entry remains e18fb83c. Recorded normal main-adoption checkpoints eea7025f, f9481806 and fae714a7 preserve the whole Shuukura subtree/all18entering before-images. The third adoption contains four approved curation commits across five unrelated character-registry/index paths, with all nine staged A2 blobs retained. Its fresh-main guard stopped before any introducing commit or push. Actual introducing parent, current refs and final INDEX/publication results are bound by the current external transaction receipts; earlier successful preflights remain dated evidence for their actual bases. PR386 is owner-merged. The prior e18source audit succeeded486tests/10490paths. No unrelated narrative/main-CI certification, new activation gate, fabricated future result or commit selfhash is supplied.
+
+Only the whole introducing commit yields51/458I1,56/463pre-LN10,57/464combined and WEB24/431. Full original I1 and every dependent architectural duty remain active; E0025 is next only afterward. Ten novels/23supplements stay complete; Narō0/290,51gaps4resolved47unresolved,27discovery duties and downstream architecture remain unfinished. Both OFF archives remain local, and all earlier pause/NONE/LN10-completion records retain their historical scope.
