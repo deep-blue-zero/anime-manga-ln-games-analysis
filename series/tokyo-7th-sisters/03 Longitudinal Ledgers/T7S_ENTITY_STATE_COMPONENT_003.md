@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.33"
+version: "1.34"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0208; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0209; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-30
 ---
@@ -2061,4 +2061,46 @@ Owner [B0208](../02%20Readings/T7S_B0208_DEEP_READING.md), reading SHA256 `fdac9
 | `REL-1159` | `player-protagonist → yamai-saori` | C:P3/E:P3-5: practical catching and represented stroking enter her account, including the limit she expresses. The source does not independently supply his thoughts, continued action after the limit or accepted pool/cohabitation plans. Reciprocal REL-1158. |
 
 Totals:1403KNOW/1159REL.102IDENTITY/84CHAR/29UNIT/29READY retained, no new route, individual Saori READY or R2 upgrade. Existing source-named Saori/Player routes stay established; unnamed nurses/kitten and native pool venue gain no invented individual or unit. All older bodies/IDs preserved.
+
+## B0209 Sumire's recognition and the pace of closeness
+
+Owner [B0209](../02%20Readings/T7S_B0209_DEEP_READING.md), reading SHA256 `48f22d41f7a6aa9c79449fa68ca5b046a65d2d1db79162fbef9ca3b65799bad4`; source-lock 12.115, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-I scripts/hashes/full primary locators. All26 physical and complete five-SourceLock/six-coverage/three-entity logical before-controls froze at published a616eb13/B0208/12.114 before primary. B0208's successful exact-head audit/publication cycle is separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1404` | Sumire says she baked/brought cookies and knows manager's preferred sweetness through experience. | A:P1-2; own preparation/knowledge claim and addressed taste exchange, no independently supplied tasting or endorsement. |
+| `KNOW-1405` | Sumire enjoys using eaters' feedback to adjust food and asks to bring miso soup to learn manager's salt preference. | A:P3-5; learning remains open; no soup delivery, omniscience or general nutrition credential. |
+| `KNOW-1406` | Sumire recalls initially treating idol work as enjoyable rather than fully serious beside peers. | B:P1; retrospective self-appraisal, no exhaustive peer-motive comparison. |
+| `KNOW-1407` | Sumire now finds work rewarding and earnest effort enjoyable, wondering whether her commitment stands beside theirs. | B:P2; own reappraisal, no measured effort or superior performance. |
+| `KNOW-1408` | Sumire asks manager to tell her if he thinks her brightest and conditionally promises important words then. | B:P3; judgment and disclosure both conditional; contents and manager's answer absent. |
+| `KNOW-1409` | Sumire recognizes manager's deep idol investment and calls it admirable with textual hesitation. | C:P1-2; her valuation, no independent manager motive/voice or settled romantic statement. |
+| `KNOW-1410` | Sumire recalls not grasping Seven Sisters' acclaim and now feels tentative understanding of their legendary status. | C:P3-4; own altered apprehension, no supplied technical/heard performance analysis or new group turn. |
+| `KNOW-1411` | Sumire understands manager's absorption, calls the group formidable and declares she will not lose. | C:P5; chosen rivalry, no objective comparison, replacement or revised dissolution history. |
+| `KNOW-1412` | Sumire reports a group sweets-shop visit credited to the friend she calls Jē and acknowledges that friend's fashionable-shop knowledge. | D:P1-2; literalジェー retained as a source-local friend reference; secure full identity not established, no independent recommendation scene, exact roster/shop or universal trend expertise. |
+| `KNOW-1413` | Sumire wants manager to taste a liked sweet but reports its limited availability has ended. | D:P3-4; attributed availability and intention, no independent sales audit or named product. |
+| `KNOW-1414` | Sumire reports trying to make that sweet and finally having one good result, presented as made for manager. | D:P4-5; iterative effort/offer, no exact recipe equivalence, tasting or supplied praise. |
+| `KNOW-1415` | Sumire notices widespread given-name use, jokingly protests permission and says it bothers her less than before. | E:P1-2; situated revision, no retroactive invalidation of earlier refusal or universal naming license. |
+| `KNOW-1416` | Sumire links that change to manager saying the name suits her, liking it and using it. | E:P3; her reported attribution; liking concerns the name, no independently voiced romantic confession. |
+| `KNOW-1417` | Sumire notices name/title asymmetry and considers using manager's personal name when ready. | E:P4-5; anticipated reciprocal address, no actual name supplied or readiness deadline. |
+| `KNOW-1418` | Sumire invites manager home if free, reports grandmother's wish to meet him and qualifies how often she talks about him. | F:P1-3; grandmother/frequency are Sumire's accounts; no named new person, direct grandmother turn or quantitative talk record. |
+| `KNOW-1419` | Sumire's surprised relief takes up manager's assent to the introduction invitation. | F:P4; represented local assent is not an unanswered invitation, but no independently supplied reply or completed meeting. |
+| `KNOW-1420` | Sumire admits wanting manager to meet her beloved grandmother, predicts approval and sets next-holiday expectation. | F:P4-5; desire/expectation/plan, no actual approval, visit or marriage arrangement. |
+| `KNOW-1421` | Sumire registers manager's mascot ignorance and cites school popularity and Shizuka/Sui knowledge. | G:P1-3; represented ignorance and reported local peer knowledge, no independent peer turns, universal trend or whole-job competence judgment. |
+| `KNOW-1422` | Sumire plans a7109Street limited-version purchase, invites manager along and frames company as his education. | G:P4-5; own existing intention/new invitation, no supplied assent, named mascot or completed shared purchase. |
+| `KNOW-1423` | Sumire finds summer mountain walking/heat/mosquitoes unappealing and strongly prefers sea. | H:P1-3,5; personal reasons/rhetorical exclusivity, no universal travel assessment or actual selection branch. |
+| `KNOW-1424` | Sumire reports buying a swimsuit and wants manager to see it. | H:P4-5; purchase claimed, viewing/trip wanted, no rendered swimsuit or manager assent. |
+| `KNOW-1425` | Sumire reports long acquaintance/varied work since scouting but little shared private time and some loneliness. | I:P1-2; situated self-account, no quantified schedule or proof of an established dating relationship. |
+| `KNOW-1426` | Sumire asks for a two-person nonwork outing and reacts to manager's represented travel suggestion as too early, proposing amusement park instead. | I:P3-4; actual expressed scale limit/alternative, no independently supplied words or accepted itinerary. |
+| `KNOW-1427` | Sumire conditionally considers a day-trip hot spring journey. | I:P5; deliberation not final assent, booking, completed journey, overnight stay or shared-bath permission. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1160` | `usuta-sumire → player-protagonist` | B:P1-3/C:P1-5/E:P1-5: wants recognition of effort/brilliance, respects his attachment while retaining rivalry, values his name-related reception and imagines reciprocal address at her own pace. No completed important speech or retrospective naming permission. Reciprocal REL-1161. |
+| `REL-1161` | `player-protagonist → usuta-sumire` | E:P3: fit/liking/use of her name are represented through Sumire's account. B requests rather than supplies his brightest judgment. No independent romantic confession, full inner-state model or universal permission. Reciprocal REL-1160. |
+| `REL-1162` | `usuta-sumire → player-protagonist` | A:P1-5/D:P3-5: learns a particular sweetness, seeks salt feedback and makes a scarce-sweet alternative for him. Recipient-oriented effort does not assign all domestic labor or certify exact preferences/recipe equivalence. Reciprocal REL-1163. |
+| `REL-1163` | `player-protagonist → usuta-sumire` | A/D: addressed as taster/recipient whose possible feedback matters; neither case supplies independently voiced praise, an inspected meal or completed miso-soup reception. Do not invent a reciprocal evaluation. Reciprocal REL-1162. |
+| `REL-1164` | `usuta-sumire → player-protagonist` | F/G/H/I: wants family introduction, shared shopping, swimsuit viewing and nonwork companionship; says initial travel scale is too early and only considers a day trip. Multiple initiatives preserve local conditions, not blanket romantic/physical assent. Reciprocal REL-1165. |
+| `REL-1165` | `player-protagonist → usuta-sumire` | F:P4/G:P2/I:P4: assent to the home invitation, mascot ignorance and travel suggestion are represented through uptake. Their different speech acts do not prove any completed visit/purchase/trip, agreed final itinerary or unrestricted access. Reciprocal REL-1164. |
+
+Totals:1427KNOW/1165REL.102IDENTITY/84CHAR/29UNIT/29READY retained. Sumire/Player/Sui/Shizuka use existing routes; reported peers, source-local Jē and grandmother gain no invented independent turn or identity. Seven Sisters remain an admired collective in Sumire's account, not a newly acting/reshaped unit. READY0006 stays B0007/201000609 R2_STATE_BOUNDED/MONOGRAPH_NOT_READY; no rewritten prior horizon or promotion. All older bodies/IDs preserved.
 <!-- T7S ENTITY STATE PAYLOAD END -->
