@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.10"
+version: "1.14"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0220; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0224; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -552,4 +552,241 @@ Existing ChaCha `IDENTITY-0044 / CHAR-0066 / otori-chacha`, Player `IDENTITY-000
 CHAR-0066 gains stated preferences, concern/appearance/interpretation boundaries, proposed teaching and wanted listening, presented memory with a reserved answer, specific friendship value and gratitude at living. B0088 rejected terminal projection; B0120 lady/tea roles; B0126 coercion and unverified prior knowledge; B0142 shop authority limits; B0164 work costs/ordinary-talk wish/uncertain reception; B0171 situated authorship-respecting help and later family gloss; B0181 modest expertise/partial message privacy remain. No uniform consent-respecting method, diagnosis/cure, omniscience or unlimited mastery follows.
 
 Totals:1731KNOW/1227REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Whole READY subject scan has no ChaCha decision; no invented R2 or rewritten readiness body, R3/model/monograph maturity, clinical certainty or performed-audio promotion.
+
+## B0221 Murasaki's own colour and the feeling she addresses
+
+Owner [B0221](../02%20Readings/T7S_B0221_DEEP_READING.md), reading SHA256 `886f7e41a8d98a60bd46e5e3491fc3fee7061c5c76a4337290164927e4e455bf`; source-lock 12.127, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-H scripts/hashes/full ranges. All28 physical before-controls, five SourceLock/seven coverage/four entity components froze at publishedfb16cddc/B0220/12.126 before primary. Original pending-cycle observation retained; successful B0220 audit41086219616/fullcycle9facf4a8 and auditedmain77c ancestor checked in fresh execution witness before semantic acceptance. All159 Murasaki prior rows actually read before primary; whole READY subject scan0. H is132pages/94text/38commands within the eight-occurrence family, not omitted or reduced to the seven short cases. No menu chronology, performed hearing or runtime.
+
+Existing Murasaki `IDENTITY-0092 / CHAR-0074 / echizen-murasaki`, Player1/1, Kazumi46/35 and Haru4/4 retain their routes. H composer `作曲家` is a local unnamed role; no new stable identity is inferred from178_01. Mother93/75 and familybarUNIT0026 retain earlier scope, no fresh current turn/ownership claim. Uniform case coverage integrates focal Murasaki/Player; H's additional speakers are qualified here, not inserted into every case.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1732` | Murasaki values ordinary treatment as an eighteen-year-old girl despite customers/others' different view. | A:P1; own age/social account, no global legal/biographical or everybody's independent view. |
+| `KNOW-1733` | Murasaki says she is happy and sometimes wants to behave childishly, requesting a local variation. | A:P2; authored wish, no permanent incapacity or kinship claim. |
+| `KNOW-1734` | Murasaki takes up sudden piggyback with surprise then acceptance and intended clinging. | A:P3; local response-mediated act, no blanket bodily permission/animatedview. |
+| `KNOW-1735` | Murasaki asks manager to be dyed in her colour. | B:P1; figurative invitation, actual next clarification retained. |
+| `KNOW-1736` | Murasaki redirects colour language to styling and appraises his lack of fashion. | B:P2; own clarification/judgment, no supplied sexual act or objective fashion ranking. |
+| `KNOW-1737` | Murasaki tells him not to escape while removing socks for pedicure. | B:P3; own command/assent gap, no full independent Player consent or feeling. |
+| `KNOW-1738` | Murasaki declares pedicure complete, says it suits him and wants him barefoot today. | B:P4; enacted text/appraisal, no feet image/standing appearance authority. |
+| `KNOW-1739` | Murasaki asks willing available time tonight after work. | C:P1; conditional invitation, no accepted schedule. |
+| `KNOW-1740` | Murasaki says they have not talked at length outside Nanasta and wants to sit over drinks. | C:P2; local self-account/wish, no total past chronology or completed outing. |
+| `KNOW-1741` | Murasaki specifies own soft drink and manager's preferred drink. | C:P3; choices in a proposal, no alcohol consumption by her/actual beverage receipt. |
+| `KNOW-1742` | Murasaki offers more careful pouring than usual for customers. | C:P4; particular service offer, no unlimited labor/standing duty or completed pouring. |
+| `KNOW-1743` | Murasaki describes money-operated retro jukebox. | D:P1; actor knowledge claim, no external technology audit. |
+| `KNOW-1744` | Murasaki contrasts holocon with old-fashioned shops retaining jukeboxes. | D:P2; attributed cultural judgment, no complete census. |
+| `KNOW-1745` | Murasaki values a difficult-to-reproduce machine atmosphere and compares theatre. | D:P3; aesthetic appraisal, no technical impossibility proof. |
+| `KNOW-1746` | Murasaki values theatre air with manager/companions and wants to preserve/transmit it. | D:P4; situated value/intention, no actual universal audience receipt. |
+| `KNOW-1747` | Murasaki calls her words youthful and asks cultivation as a jukebox with character. | D:P5; figurative development request, no literal identity/total surrendered authorship. |
+| `KNOW-1748` | Murasaki proposes more idol-suited streamed-stage variety. | E:P1; production proposal, no implemented policy. |
+| `KNOW-1749` | Murasaki proposes a mirror ball as unfashionable but interesting effect. | E:P2; own idea/appraisal, no installed equipment or tested effect. |
+| `KNOW-1750` | Murasaki imagines different atmosphere for childlike performers. | E:P3; hypothetical peer presentation, no assigned child identity/new performance. |
+| `KNOW-1751` | Murasaki notices interest in companions' beauty beyond former singing-only wish. | E:P4; self-reappraisal, no complete biography or permanent all-context priority. |
+| `KNOW-1752` | Murasaki attributes self/reflected-world change to manager company and asks more. | E:P5; relationship value, no unlimited authority/sole causal authorship. |
+| `KNOW-1753` | Murasaki takes up thirst and offers her partly drunk homemade coffee. | F:P1; offer/reported preparation, no measured consumption. |
+| `KNOW-1754` | Murasaki takes up extreme-sweet taste response and says coffee is her sweet exception. | F:P2; mediated response/own taste, no analyst tasting or global palate. |
+| `KNOW-1755` | Murasaki separates bitter-song preference from taste. | F:P3; explicit distinction, not contradiction repaired by erasing B0105. |
+| `KNOW-1756` | Murasaki asks occasional indulgence until melting. | F:P4; figurative wanted care, no completed act/literal symptom. |
+| `KNOW-1757` | Murasaki takes up manager interest and apparent displeasure. | G:P1; her uptake, no full independent manager interpretation. |
+| `KNOW-1758` | Murasaki reports skipped theatre cleaning yesterday and recent Haru rebuke. | G:P2; report/intracase relative time, no Haru own current turn. |
+| `KNOW-1759` | Murasaki locates anger at her own failure to value theatre. | G:P3; self-account, no permanent trait or perfect institutional care. |
+| `KNOW-1760` | Murasaki responds to laughter/delicate wording as hurtful. | G:P4; own response/mediated prompt, no diagnosis/full manager mind. |
+| `KNOW-1761` | Murasaki asks joint cleaning and favors action over being downcast. | G:P5; request/value, no completed cleanup/assigned permanent duty. |
+| `KNOW-1762` | Composer praises session stability, retains an earlier task and anticipates main performance; Murasaki responds formally. | H:P1-7; own local feedback/anticipation, not full earlier critique or analyst heard skill. |
+| `KNOW-1763` | Murasaki remains silent and asks what love is. | H:P9,14; source silence/question, no complete inner-state diagnosis. |
+| `KNOW-1764` | Murasaki reports CM-song request/coaching and technical/personal adequacy with missing lyrical resonance. | H:P16-23; her report of earlier critique/own difficulty, not exact independently supplied composer speech. |
+| `KNOW-1765` | Kazumi calls the worry familiar and says her own song concerned love. | H:P24-26; prior-experience claim, no current lover disclosed. |
+| `KNOW-1766` | Murasaki asks whether Kazumi solved the problem by actually falling in love. | H:P27-28; question, no affirmative answer assumed. |
+| `KNOW-1767` | Kazumi offers experience-based probable own-feeling interpretation of the task. | H:P31-32; qualified peer inference, no universal artistic/clinical rule. |
+| `KNOW-1768` | Kazumi proposes fitting event/own answer; Murasaki takes up the suggestion. | H:P33-38; local plan/uptake, no established Valentine year or required relationship. |
+| `KNOW-1769` | Kazumi reserves whether she fell in love. | H:P39; deliberate privacy, no lookup/lover identity/autobiography. |
+| `KNOW-1770` | Murasaki works chocolate and appraises texture/slight sweetness before inviting taste. | H:P42,44,46; local preparation/self-appraisal, no analyst texture/tasting. |
+| `KNOW-1771` | Kazumi agrees to taste and appraises mixture quite bitter. | H:P47; own taste differs from Murasaki, no analyst normalization. |
+| `KNOW-1772` | Murasaki explains bitter choice by recipient's likely seasonal sweet intake. | H:P48-49; her recipient-directed reason, no comprehensive dietary record. |
+| `KNOW-1773` | Murasaki wonders if tempering will work after a gap. | H:P50; remembered practice/current uncertainty, no mastery certificate. |
+| `KNOW-1774` | Murasaki considers prepared molds and chooses one with Kazumi present. | H:P56-58; explicit choice, no autonomous artwork made by Kazumi. |
+| `KNOW-1775` | Kazumi identifies a large heart and calls it cute. | H:P59-60; own observation/appraisal, no displayed mold asset or defined relationship. |
+| `KNOW-1776` | Kazumi calls for attention and remarks on repeated refrigerator checks. | H:P65,67,69; locally observed conduct, no diagnosis. |
+| `KNOW-1777` | Murasaki is initially unresponsive, then says she keeps worrying about result. | H:P66,68,70; local attention/admission, no permanent incapacity. |
+| `KNOW-1778` | Kazumi recognizes restlessness and predicts success. | H:P71-72; empathy/reassurance, not already-known outcome. |
+| `KNOW-1779` | Murasaki accepts reassurance with a brief reply. | H:P73; uptake only, no total confidence cure. |
+| `KNOW-1780` | Kazumi appraises completed chocolate as beautiful. | H:P78; local observer judgment, no analyst quality certificate. |
+| `KNOW-1781` | Murasaki calls work successful, wraps and declares ribboned completion. | H:P79-81; completed local craft, no actual recipient reaction yet. |
+| `KNOW-1782` | Kazumi calls gift heartfelt and predicts recipient pleasure. | H:P82; appraisal/prediction, not received knowledge. |
+| `KNOW-1783` | Kazumi asks intended recipient. | H:P84; question/knowledge gap before answer. |
+| `KNOW-1784` | Murasaki identifies manager as obvious recipient. | H:P85; explicit intended addressee, no receipt or accepted relationship. |
+| `KNOW-1785` | Kazumi laughs and predicts manager pleasure; Murasaki asks about laughter. | H:P87-89; own replies/prediction, no omniscient romance diagnosis. |
+| `KNOW-1786` | Kazumi asks what making the chocolate felt like. | H:P91-92; reflective question, no answer supplied for her. |
+| `KNOW-1787` | Murasaki cannot verbalize the feeling well. | H:P93; own expressive difficulty, no absence of feeling. |
+| `KNOW-1788` | Kazumi says song can express it and proposes putting today's feelings into music. | H:P94-97; channel/counsel, no demanded private disclosure or tested universal method. |
+| `KNOW-1789` | Murasaki internally recognizes a way forward. | H:P99-100; reader-only parenthesized thought, not automatically heard by companions. |
+| `KNOW-1790` | Composer praises result/accepts it, reports belief and wants more work together. | H:P105,107-108; own evaluation/retrospective belief/request, no acoustic certification/universal future success. |
+| `KNOW-1791` | Murasaki apologizes for earlier trouble. | H:P106; courtesy/own account, no proof every initial fault or exact burden. |
+| `KNOW-1792` | Player reports hearing of earlier discouragement after coaching. | H:P112; unspecified second-hand source, no full knowledge of Kazumi/chocolate process. |
+| `KNOW-1793` | Player voices praise, says first-try approval surprised him and reports own warmth/flutter/attraction. | H:P110,113,116-118; directly supplied response, not general audience census/reciprocal commitment. |
+| `KNOW-1794` | Murasaki asks for quieter speech and his own appraisal, then thanks him. | H:P111,115,119; local reply/request/gratitude, no full contract over evaluation. |
+| `KNOW-1795` | Murasaki tells Player singing while thinking of him led naturally to result. | H:P121; explicit addressee/self-explanation, no analyst acoustic causation test. |
+| `KNOW-1796` | Player voices surprise at being the one she thought of. | H:P122; direct response, no completed confession or mutual relationship. |
+| `KNOW-1797` | Murasaki pauses, introduces another proud work, hopes for comparable flutter and gives Valentine greeting. | H:P123-128; affectionate presentation with earlier completed chocolate context, no actual eating/recipient reply after ending/agreed romance. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1228` | `echizen-murasaki → player-protagonist` | A-H: seeks ordinary/childlikecare and indulgence, invites company, offers comparative attention, directs styling despite escape, values sharedtheatre/change, asks cleanup and explicitly addresses song/Valentine work to him. Care/affection and assent gaps remain act-specific; no agreed ongoing romance/total authority. Reciprocal REL-1229. |
+| `REL-1229` | `player-protagonist → echizen-murasaki` | A-G responses mediated by her uptake, including suddenpiggyback/taste/delicateprompt; B no full independent assent. H gives own warmth/flutter/attraction/surprise plus unspecified earlier discouragement report. No full knowledge of craft/insight, gift response afterending or reciprocal relationship agreement. Reciprocal REL-1228. |
+| `REL-1230` | `echizen-murasaki → katsuragi-kazumi` | H: shares lyricdifficulty, asks peerexperience, accepts event experiment/tasting/company/counsel, names recipient and cannot yet verbalize feelings. Reader-onlyinsight not automatically disclosed; no coerced answer to Kazumi private romance question. Reciprocal REL-1231. |
+| `REL-1231` | `katsuragi-kazumi → echizen-murasaki` | H: recognizes lyricproblem, offers qualified own-feeling/event/channel counsel, participates in tasting/mold/wait/completion, asks recipient and feeling, reassures while keeping ownromanceanswer private. No infallible expert/omniscient private mind/guaranteed receipt. Reciprocal REL-1230. |
+| `REL-1232` | Murasaki → H unnamed composer `作曲家` | H:P1-7/16-23/105-108: receives local guidance, reports missing interpretation, returns and responds/apologizes after acceptance. Exact earlier critique viaherreport; no permanent professional hierarchy or genericfigure identity merger. Reciprocal REL-1233. |
+| `REL-1233` | H unnamed composer `作曲家` → Murasaki | H: directly praises initialstability and laterresult, retains task and wants repeatwork. Own local professional feedback; no complete acoustic performance evidence/universal certification/contract or identity beyondHrole. Reciprocal REL-1232. |
+| `REL-1234` | `echizen-murasaki → kasukabe-haru` | G:P2-3: reports Haru's rebuke after skippedcleaning and places anger at herown failure of theatre care. No full current reply to Haru/globalsubordination or institutional disciplinepolicy. Reciprocal REL-1235. |
+| `REL-1235` | `kasukabe-haru → echizen-murasaki` | G:P2: appears as reported person who recently rebuked skipped theatre cleaning. Her own words/mind/authority rationale absent; no independent current turn or permanent role promotion. Reciprocal REL-1234. |
+
+CHAR-0074 gains wantedcare/particularattention, appearance direction withassentgap, sharedtheatrevalue/outwardstagingideas, situatedsweetness/selfaccountability and H's chosen creativeexperiment/expressiveinsight/directlyaddressedfeeling withdistinctactualreceipts. B0087coauthorcorrection; B0102familylabor/limitedknowledge; B0105practicalcare/taste; B0127narrowworkmeasure/apology; B0140collaborators/retainedsolitaryvoice; B0142taskprotection; B0156harshnessandchosenhelp; B0166contextualworkinquiry; B0169projectionboundaries; B0170continuedhelp/limitedprivacyreceipt; B0174noviceguardlimits; B0178reciprocaldirections/capacity and B0201makeupreports remain. No permanentcure/all-contextconsent/omnipotence/romanticconsensus.
+
+Totals:1797KNOW/1235REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Sixty-six knowledge additions group H's meaningful exchanges and their exact ranges without treating every greeting/silence as newknowledge. Whole Murasaki READY subject scan0, no inventedR2 or change to another subject's historicaldecision. No R3/model/monographmaturity/performed-audio promotion.
+
+## B0222 Miwako's chosen disclosures, study and reciprocal teaching
+
+Owner [B0222](../02%20Readings/T7S_B0222_DEEP_READING.md), reading SHA256 `6f7c30c8f47e9e0941334128a4fc27144a5e5293b11a4c9a79ec65772c58ccc3`; source-lock 12.128, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts, hashes and whole primary ranges. All28 committed before-controls / five SourceLock / seven coverage / four entity components froze at published0b0f00a7/B0221/12.127 before primary. Audited mainbf48d9b1 is an ancestor. The entry's then-pending cycle observation stays frozen; separate execution witness and completed predecessor cycle govern semantic acceptance. All114 published Miwako rows actually read before primary; whole READY subject scan0. No menu chronology, performed hearing or runtime.
+
+Existing Miwako `IDENTITY-0043 / CHAR-0070 / asami-miwako`, Player `IDENTITY-0001 / CHAR-0001 / player-protagonist`, Ferb `IDENTITY-0078 / CHAR-0060 / seto-ferb` and Tasha `IDENTITY-0069 / CHAR-0054 / tasha-romanovsky` keep their routes. C's peers, D's classmate, F's friend and B's singer remain local reported roles. No new IDENTITY/CHAR/UNIT/READY.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1798` | Miwako says the manager noticed her hobby and she was pleased. | A:P1; hobby unspecified here, no complete mind-reading or independently supplied prior discovery. |
+| `KNOW-1799` | Miwako suspects the manager thinks he sees through her and says his face shows it. | A:P2; her reading of an unsupplied response, not a supplied Player interior. |
+| `KNOW-1800` | Miwako says logic cannot express everything and asks if he can solve this mystery. | A:P3; open teasing challenge, no solved confession or universal abandonment of reasoning. |
+| `KNOW-1801` | Miwako reports conversation with Ferb and praises her musical curiosity. | B:P1; reported partner/appraisal, no independent Ferb current turn or exhaustive expertise. |
+| `KNOW-1802` | Miwako says Ferb kept up with discussion of a singer she considered obscure. | B:P2; unnamed singer/situated report, no reconstructed conversation or universal knowledge test. |
+| `KNOW-1803` | Miwako reports a live invitation and asks whether going together would be all right. | B:P3; contemplated company, no supplied permission, completed outing or fixed B0132 date. |
+| `KNOW-1804` | Miwako revises a small admission into quite bold concert behavior when excited. | B:P4; self-description without named act, no exact behavior, blanket risk consent or diagnosis. |
+| `KNOW-1805` | Miwako declines the apparent request for concrete details as a secret matter. | B:P5; current withholding, no invented disclosure or manager access. |
+| `KNOW-1806` | Miwako reports Nanasta members asking how to become sexy. | C:P1; attributed question, no identified all-child attendees or delivered program. |
+| `KNOW-1807` | Miwako asks what answer to give and says her younger self was not always like this. | C:P2; role/task distinction, no exact age, complete transformation history or ready formula. |
+| `KNOW-1808` | Miwako challenges the apparent inability to imagine her younger self. | C:P3; response-mediated manager prompt, no independent biography or age appraisal. |
+| `KNOW-1809` | Miwako recounts a university classmate recognizing her online idol activity. | D:P1; own reported visit/sighting account, no inspected post or independent classmate witness. |
+| `KNOW-1810` | Miwako reports the classmate calling idol work unusual now and asking why she does it. | D:P2; reported question, no supplied current classmate turn. |
+| `KNOW-1811` | Miwako reads an implication that idols are outdated, connected to earlier dismissal of her rock taste. | D:P3; attributed inference and memory, no verbatim independent implied judgment or era consensus. |
+| `KNOW-1812` | Miwako insists good things remain good whether rock or idols and asks why this is not understood. | D:P4; stated value/frustration, no objective genre ranking or uniform critic motive. |
+| `KNOW-1813` | Miwako says venting relieved her, apologizes for drawing the manager in and thanks him for listening. | D:P5; local self-reported relief and acknowledgment, no own manager endorsement or therapy finding. |
+| `KNOW-1814` | Miwako asks about Britain and reports never visiting while wanting language study abroad. | E:P1; own history/desire, no independent manager travel answer, admission or booking. |
+| `KNOW-1815` | Miwako imagines all-day English study and nighttime rock with ale. | E:P2; imagined routine, no actual drinking, performance or proficiency. |
+| `KNOW-1816` | Miwako enjoys imagining it and considers increasing work to save funds. | E:P3; prospective funding idea, no accepted workload, earnings, feasibility or standing duty. |
+| `KNOW-1817` | Miwako says she would return from study and does not intend to quit idol work. | E:P4; conditional return/current intention, no completed journey or binding guarantee. |
+| `KNOW-1818` | Miwako suggests successful idol work enabling overseas touring with the manager. | E:P5; alternative proposal/company wish, no booked tour, shared assent or fixed career choice. |
+| `KNOW-1819` | Miwako takes up a meal/meeting and jokes about being alone afterward. | F:P1; accepts bounded premise, no actual meal, later intimacy consent or manager intent. |
+| `KNOW-1820` | Miwako identifies the joke, calls the manager's red face cute and leaves restaurant choice to him. | F:P2; her appraisal/qualified delegation, no independently viewed blush or unrestricted choice. |
+| `KNOW-1821` | Miwako specifically excludes mentaiko and describes popping spicy qualities. | F:P3; stated food condition, no actual tasting, allergy or all-food refusal. |
+| `KNOW-1822` | Miwako describes limited spice tolerance/texture dislike and reports a friend's surprise while taking up childishness teasing. | F:P4; own preference and mediated remarks, no diagnosis, exact age or identified friend. |
+| `KNOW-1823` | Miwako takes up being called cute, notes being teased and asks everyone else not be told. | F:P5; privacy request, no manager promise, later disclosure or general embarrassment diagnosis. |
+| `KNOW-1824` | Miwako gives the written greeting and reports gradual teaching by Tasha in Tasha's country's language. | G:P1; represented words/reported lesson, no heard pronunciation, universal fluency or Tasha own turn. |
+| `KNOW-1825` | Miwako says some English help prompted reciprocal teaching by Tasha. | G:P2; her sequence/report, no complete lesson transcript or language credential. |
+| `KNOW-1826` | Miwako calls Tasha an exceptionally small and cute teacher among her teachers, then names a difficulty. | G:P3; affectionate learner recognition, no literal adult role appointment or complete knowledge transfer. |
+| `KNOW-1827` | Miwako cannot tell correct pronunciation from tongue-limited utterance. | G:P4; her unresolved evaluation, no independent phonetic judgment, diagnosis or demonstrated learner error. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1236` | `asami-miwako → player-protagonist` | A-G: welcomes particular recognition while reserving fuller account; requests/withholds information, vents with gratitude, imagines shared touring, accepts bounded meal planning and asks food-disclosure privacy. No solved confession, completed journey/meal, reciprocal romance, unlimited listening claim or promised secrecy. Reciprocal REL-1237. |
+| `REL-1237` | `player-protagonist → asami-miwako` | A/C/D/E/F: addressed observer/questioner/listener, apparent younger-self/food teasing, prospective restaurant chooser and proposed travel companion, through her uptake. No independent full interior, actual blush image, final agreement, after-meal entitlement or privacy compliance. Reciprocal REL-1236. |
+| `REL-1238` | `asami-miwako → seto-ferb` | B:P1-5: values reported musical curiosity and obscure-singer conversation; considers invited company while hesitating at her own concert boldness. No exact secret act, current Ferb response or equation with B0132 festival. Reciprocal REL-1239. |
+| `REL-1239` | `seto-ferb → asami-miwako` | B:P1-3: reported music interlocutor and live inviter. Miwako supplies the account; no independent knowledge, feeling, permission or completed outing. Earlier actual festival relation retains its own horizon. Reciprocal REL-1238. |
+| `REL-1240` | `asami-miwako → tasha-romanovsky` | G:P1-4: reports giving some English help, receiving gradual reciprocal instruction, valuing a small teacher and remaining uncertain about pronunciation. No global superiority/reversal, inspected lesson or phonetic verdict. Reciprocal REL-1241. |
+| `REL-1241` | `tasha-romanovsky → asami-miwako` | G:P1-3: reported reciprocal language teacher following English help. No own current turn, verified pronunciation, complete proficiency or adult institutional appointment. Reciprocal REL-1240. |
+
+CHAR-0070 gains chosen disclosure and privacy limits, particular music-company value, uncertainty when asked to teach an adult image, defense of idol/rock pleasures, imagined study within continued work, specific food choice and reciprocal child-led learning. B0094 plural futures, B0120 register help, B0132 fan/care/risk limits, B0139 agency-first restraint, B0160 consented method coaching/anxiety, B0170 role vulnerability/differentiated recall/pressure and care costs, B0177 task-local learning/partial whisper access and B0180 qualified analogy/coacting retain their horizons. No omniscience, universal care competence, permanent incapacity, total cure or uniform privacy doctrine.
+
+Totals:1827KNOW/1241REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Whole READY subject scan has no Miwako decision; no invented R2/R3, readiness-body rewrite, performed-audio or monograph/era maturity promotion.
+
+## B0223 Ayumu's service ideal, practice and fallible explanations
+
+Owner [B0223](../02%20Readings/T7S_B0223_DEEP_READING.md), reading SHA256 `cc2db67f5e37264205e8485d07c99df1a30aea673895f6a1863a1651397b630b`; source-lock 12.129, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts, hashes and whole primary ranges. All28 committed before-controls/five SourceLock/seven coverage/four entity components froze at publishedbeb7bf14/B0222/12.128 before primary. Audited mainbf48d9b1 is an ancestor. The entry's pending-cycle observation stays frozen; fresh exact execution witness and completed predecessor cycle govern semantic acceptance. All94 published Ayumu rows and whole READY subject scan0 actually reviewed before primary. No menu chronology, performed hearing or runtime.
+
+Existing Ayumu `IDENTITY-0036 / CHAR-0031 / origasa-ayumu`, Player `IDENTITY-0001 / CHAR-0001 / player-protagonist` and Shirayuki `IDENTITY-0067 / CHAR-0052 / arisu-shirayuki` retain their routes. E explicitly resolves Yukirin; no new alias adjudication. F's passenger stays a local reported role; pet types, maid-manager imagination and register create no identity. No new IDENTITY/CHAR/UNIT/READY.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1828` | Ayumu says entering Nanasta increased her kyunkyun experiences. | A:P1; self-reported effect, no agency-wide guarantee or completed contest. |
+| `KNOW-1829` | Ayumu finds herself becoming poetto when with the manager. | A:P2; experienced feeling, no supplied Player interior or resolved romantic category. |
+| `KNOW-1830` | Ayumu asks whether the manager uses poe and proposes a future contest for the maid seat. | A:P3; question/playful role reversal, no new profession, actual contest or supernatural proof. |
+| `KNOW-1831` | Ayumu performs formal service speech, slips into nya and admits the difficulty. | B:P1-2; actual written attempt/self-appraisal, no new identity or root-heard delivery. |
+| `KNOW-1832` | Ayumu explains the practice as preparation for an upcoming maid examination. | B:P3; actor-reported task, no verified institution, credential, actual sitting or outcome. |
+| `KNOW-1833` | Ayumu expresses unmatched-poepoe confidence yet says formal words are needed for a perfect maid. | B:P4; her standard/skill appraisal, no universal test result or settled hierarchy. |
+| `KNOW-1834` | Ayumu calls the service path demanding and recommits to another practice attempt. | B:P5; intention/effort, no next successful attempt or fixed order with B0120. |
+| `KNOW-1835` | Ayumu asks the manager's pet preference and names her own desired pink crocodile. | C:P1-2; question and imagined preference, no manager answer, obtained animal or identified lounge cat. |
+| `KNOW-1836` | Ayumu would rather be kept and expects the manager to treasure her. | C:P3; desired care/expectation, no literal ownership, his assent or unrestricted permission. |
+| `KNOW-1837` | Ayumu reads a red face as possible cold and offers constant nursing. | C:P4; her observation/question/offer, no independent portrait, clinical finding or completed care. |
+| `KNOW-1838` | Ayumu promises to blow away the cold with kyunkyun power. | C:P5; intended affective service, no demonstrated medical mechanism or cure. |
+| `KNOW-1839` | Ayumu asks about hunger and offers her special omurice if welcome. | D:P1; food offer/self-attribution, no received meal, viewed preparation or taste. |
+| `KNOW-1840` | Ayumu offers ketchup illustration on request and claims drawing competence. | D:P2; conditional customization/self-assessment, no actual order, drawing or measured skill. |
+| `KNOW-1841` | Ayumu proposes a large poepoe-filled heart if there is no order, intending kyunkyun response. | D:P3-4; default condition/desired effect, no chosen branch or inspected reception. |
+| `KNOW-1842` | Ayumu reports coaching Yukirin and explicitly identifies her as Shirayuki. | E:P1; source-local nickname resolution/reported prior action, no new identity or current pupil turn. |
+| `KNOW-1843` | Ayumu says Shirayuki was troubled by speaking in public. | E:P2; reported difficulty, no diagnosis, observed whole lesson or universal incapacity. |
+| `KNOW-1844` | Ayumu recounts advice to use Shirayuki's cute voice for Shirayuki-style service. | E:P3; actor voice appraisal/proposal, no root listening, guaranteed aptitude or full pupil assent. |
+| `KNOW-1845` | Ayumu reports remaining shyness yet predicts service comparable to hers. | E:P4-5; continued difficulty and confident potential, no cure, completed mastery or current Shirayuki agreement. |
+| `KNOW-1846` | Ayumu renews her own effort toward the highest service. | E:P6; goal following her pupil appraisal, no realized improvement or global ranking. |
+| `KNOW-1847` | Ayumu reports yielding a train seat to a colorfully dressed older woman and receiving candy. | F:P1; particular same-day account, no viewed scene or resolved passenger identity. |
+| `KNOW-1848` | Ayumu calls the encounter confirmation of hearsay about Osaka-3rd older women giving candy. | F:P2; attributed inference, no verified regional rule, demographic discovery or universal motive. |
+| `KNOW-1849` | Ayumu takes up virtue praise and explains yielding through her energetic kyunkyun/service heart. | F:P3-4; self-explanation, no proof of supernatural energy or erasure of reported help. |
+| `KNOW-1850` | Ayumu wishes everyone happy through service hearts and calls for all to be maids. | F:P5; expansive ideal, no enacted program, global consent or demonstrated happiness mechanism. |
+| `KNOW-1851` | Ayumu imagines that would include a maid-manager and says she might like to see it. | F:P6; playful consequence/desire, no appointment, costume change or actual shared system. |
+| `KNOW-1852` | Ayumu recalls an earlier search for best service and credits the manager's idol-answer guidance. | G:P1-2; attributed memory, no independently witnessed origin quote or new scouting admission. |
+| `KNOW-1853` | Ayumu takes up the manager not remembering such a statement and treats it as joking. | G:P3; mediated recollection discrepancy/her interpretation, no conclusive factual denial or resolved history. |
+| `KNOW-1854` | Ayumu says idol work made her think more about poepoe and kyunkyun. | G:P4; current self-reported work effect, no proof of the earlier wording or uniform institutional outcome. |
+| `KNOW-1855` | Ayumu sets thanking the manager through best service/making him poetto as her current goal. | G:P5-6; gratitude/desired reciprocity, no completed repayment, received emotional result or romantic agreement. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1242` | `origasa-ayumu → player-protagonist` | A-G: experiences his felt effect, proposes playful contest, practices/offers service, wants cherishing, guesses illness and offers care, provides conditional food customization, imagines him as maid and credits/thanks him despite unresolved memory. No literal ownership, diagnosis/cure, supplied full reply, reciprocal romance or completed effect. Reciprocal REL-1243. |
+| `REL-1243` | `player-protagonist → origasa-ayumu` | A/B/C/D/F/G: addressed companion/questioner, prospective carer/meal recipient and interpreted praiser; apparent absence of remembered formative statement is reached through her uptake. No independent interior/blush image, certification, accepted pet role/food/contest or adjudicated origin. Reciprocal REL-1242. |
+| `REL-1244` | `origasa-ayumu → arisu-shirayuki` | E:P1-6: reports coaching a public-speaking difficulty, appraises voice, proposes individual service and predicts strong potential while retaining shyness, then renews own effort. No performed audition, full pupil assent, cure or universal pedagogical authority. Reciprocal REL-1245. |
+| `REL-1245` | `arisu-shirayuki → origasa-ayumu` | E:P1-5: report-only pupil addressed by explained nickname, with difficulty and continued embarrassment in Ayumu's account. No independent current turn, verified improvement, complete pedagogical reception or future SOL state backprojection. Reciprocal REL-1244. |
+
+CHAR-0031 gains experienced incoming feeling, practiced register difficulty/renewed effort, desired cherishing and offered care, conditional food/sign customization, reported coaching with unresolved shyness, particular helpful exchange/expansive service ideal and gratitude despite uncertain origin memory. CHAR-0052 gains only the bounded report of coaching, voice appraisal and continued embarrassment, not an independent whole current reconstruction. B0035 conceptual uncertainty/Citrus care, B0082 service expertise/safeguarding gap, B0120 consented training/own-style choice, B0158 rest/care-costs/untested causes, B0163 requested instruction/offscreen scheduling limits, B0167 individualized styling/privacy, B0169 actual-versus-fantasy separation and B0179 generosity plus trap costs retain their horizons.
+
+Totals:1855KNOW/1245REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Whole Ayumu READY scan0; no invented R2/R3, rewritten historical readiness, performed-audio or monograph/era maturity promotion.
+
+## B0224 Shirayuki's growing skills and wanted company
+
+Owner [B0224](../02%20Readings/T7S_B0224_DEEP_READING.md), reading SHA256 `75f24605a75b9fa7dc0b92b8654adb7969e1c6e02ca64e0e52bf87df1c7623f2`; source-lock 12.130, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts/hashes/whole ranges. All28 committed before-controls/five SourceLock/seven coverage/four entity components froze at published9c271744/B0223/12.129 before primary. Captured source contains audited mainbf48d9b1. The entry's pending-cycle observation stays frozen; completed predecessor cycle and fresh exact main/source witness govern semantic acceptance. All117 prior Shirayuki rows and complete READY0024 were actually read before primary; its R2 remains at MainB0069 only. No menu chronology, performed hearing or runtime.
+
+Existing Shirayuki `IDENTITY-0067 / CHAR-0052 / arisu-shirayuki` and Player `IDENTITY-0001 / CHAR-0001 / player-protagonist` retain routes. C's Yumeno `IDENTITY-0087 / CHAR-0069 / sakaiya-yumeno` and F's Madoka `IDENTITY-0082 / CHAR-0062 / enami-madoka` are report-only peers. Addresses/imitation/rabbit figure/classmates create no identity. Historical reported motherID0102 and elder-sisterID0091 remain distinct; no new IDENTITY/CHAR/UNIT/READY.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1856` | Shirayuki says the manager's company feels like being with family back home. | A:P1; experienced resemblance, no discovered kinship or erased original family. |
+| `KNOW-1857` | Shirayuki asks whether becoming his bride could make them actual family. | A:P2; own embarrassed question/wish, no supplied answer or current marriage. |
+| `KNOW-1858` | Shirayuki conditionally wants to view a sky full of stars with him in her birth-village field. | A:P3; repeated desire, no identified actual village visit, night scene or agreed future. |
+| `KNOW-1859` | Shirayuki reports an upcoming school recital and invites the manager if he has time. | B:P1; availability condition/current request, no accepted attendance or performed recital. |
+| `KNOW-1860` | Shirayuki expects his presence could help her perform more cutely than classmates. | B:P2; actor hope, no observed class ranking or guaranteed effect. |
+| `KNOW-1861` | Shirayuki names piano as her strength but says this recital uses keyboard harmonica. | B:P3; self-appraised skill/task distinction, no heard technique or general incapacity. |
+| `KNOW-1862` | Shirayuki describes breath difficulty, says training is needed and makes a written breathing attempt ending in a cough. | B:P4; textual practice, no successful next attempt, acoustic/clinical judgment or diagnosis. |
+| `KNOW-1863` | Shirayuki reports Yumeno repeatedly calling her cute and treating her fondly. | C:P1; her attributed account, no Yumeno current turn or exoneration of other-horizon conduct. |
+| `KNOW-1864` | Shirayuki appreciates that attention yet wants beauty beyond being only cute. | C:P2; own self-description/ambition, no blanket consent, achieved change or fixed adult age. |
+| `KNOW-1865` | Shirayuki asks the manager to wait for her beauty and states she will continue idol work until then. | C:P3; unanswered request/current intention, no agreement, real retirement date or completed future. |
+| `KNOW-1866` | Shirayuki imagines being looked at as a woman after becoming beautiful, then calls it joking. | C:P4; qualified projection, no certified insincerity, unreserved confession or reciprocal romance. |
+| `KNOW-1867` | Shirayuki renews a request for patient attention to her growth. | C:P5; current wish, no manager answer, achieved transformation or standing duty. |
+| `KNOW-1868` | Shirayuki reports100 on a kanji test and asks the manager to look. | D:P1; reported particular result, no pictured score paper or global academic mastery. |
+| `KNOW-1869` | Shirayuki says she had planned to show him first and wants growth praise because it encourages more effort. | D:P2-3; prior intention/current motivation, no supplied praise or guaranteed next result. |
+| `KNOW-1870` | Shirayuki aims to get100 in idol work and receive his praise. | D:P4; aspirational analogy, no equivalent scoring institution or achieved perfection. |
+| `KNOW-1871` | Shirayuki thanks the manager for recently taking her to school and says his company helped. | E:P1-2; attributed past action/gratitude, no current escorted journey or full managerial account. |
+| `KNOW-1872` | Shirayuki describes unfamiliar Tokyo roads and difficulty remembering its many buses/complexity. | E:P2-3; situated self-report, no census, permanent incapacity or total urban ignorance. |
+| `KNOW-1873` | Shirayuki would still like his escort after learning the roads and wonders if selfish. | E:P4; company beyond practical need/uncertain reception, no accepted request or fixed obligation. |
+| `KNOW-1874` | Shirayuki reports recent reciprocal teaching/play with Madoka in rural words. | F:P1; attributed exchange, no Madoka independent turn, complete lesson or full reception. |
+| `KNOW-1875` | Shirayuki says she needs Tokyo speech yet enjoys learning other rural varieties. | F:P2; adjustment and curiosity, no achieved standardization or erasure of her own idiom. |
+| `KNOW-1876` | Shirayuki performs written ja-ke/ja forms then asks the manager whether similar. | F:P3; authored contrast/appraisal request, no answer, heard accuracy or geographical adjudication. |
+| `KNOW-1877` | Shirayuki considers other countries' languages and aims for accomplished beauty. | F:P4; future learning/art aspiration, no demonstrated multilingual proficiency or later SOL cause. |
+| `KNOW-1878` | Shirayuki appraises visible sea/relative mountain lack and names calm in hiking. | G:P1; actor comparison/experienced preference, no geographical census or therapeutic guarantee. |
+| `KNOW-1879` | Shirayuki invites a farther mountain outing on the next holiday. | G:P2; proposed shared experience, no acceptance, booking, selected mountain or actual trip. |
+| `KNOW-1880` | Shirayuki claims wind-based bamboo finding, offers to dig plenty and imagines a shared vegetable/shoot pot meal. | G:P3-4; skill/giving claim and future eating, no verified harvest, cooked dish, taste or supernatural proof. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1246` | `arisu-shirayuki → player-protagonist` | A-G: reports family-like company, wishes future family/stars, invites recital/attention/escort/hike, wants recognition of growth, reports learning and offers her own foraging/shared meal. Questions/joke/availability and actual task difficulty remain; no adult partnership, supplied full reply, completed plans or permanent care claim. Reciprocal REL-1247. |
+| `REL-1247` | `player-protagonist → arisu-shirayuki` | A-G: addressed company, hoped-for school listener/praiser and recipient of reports, imitation question and future offers; E attributes a useful earlier escort to him. No independent current turn, promised waiting/escort, agreed marriage/romance or assessed performance. Reciprocal REL-1246. |
+| `REL-1248` | `sakaiya-yumeno → arisu-shirayuki` | C:P1: reported repeatedly cute/fond attention in Shirayuki's account. No independent current response, blanket recipient permission or erasure of prior boundary problems. Reciprocal REL-1249. |
+| `REL-1249` | `arisu-shirayuki → sakaiya-yumeno` | C:P1-2: reports appreciation while wanting an image beyond only cute. Own differentiated wishes, no endorsement of every prior/future interaction or new peer scene. Reciprocal REL-1248. |
+| `REL-1250` | `enami-madoka → arisu-shirayuki` | F:P1: partner in reported reciprocal rural-word teaching/play. No own current turn, verified complete pedagogical reception, acoustic model or standardized course. Reciprocal REL-1251. |
+| `REL-1251` | `arisu-shirayuki → enami-madoka` | F:P1-3: reports teaching/learning together and demonstrates written imitation for Player's appraisal. No Madoka current answer, heard accuracy, new alias or settled regional taxonomy. Reciprocal REL-1250. |
+
+CHAR-0052 gains self-authored future images, task-local musical practice, reported score/recognition motive, company wanted beyond imagined route mastery, plural language curiosity and proposed foraging/meal giving. No fixed childish incapacity, one-way dependence, universal skill or future SOL state. B0101 homesickness/play/enjoyment testimony, B0139 one-live assent/errors/shared work/requested comfort, B0177 mother/sister distinction/home-taste standards/care costs/privacy, and B0223 Ayumu's reported coaching with continued shyness retain their separate horizons.
+
+Totals:1880KNOW/1251REL;102IDENTITY/84CHAR/29UNIT/29READY retained. READY0024 remains R2_STATE_BOUNDED at complete MainB0069 only; MONOGRAPH_NOT_READY and performed voice UNREVIEWED. No R3, broadened historical decision, new maturity or full2034release.
 <!-- T7S ENTITY STATE PAYLOAD END -->
