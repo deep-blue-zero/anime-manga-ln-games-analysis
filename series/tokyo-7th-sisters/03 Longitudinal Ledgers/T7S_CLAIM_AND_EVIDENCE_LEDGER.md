@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.121"
+version: "11.122"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 283 Intimacy primary documents across 38 family portfolios / T7S_B0182–T7S_B0219; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 290 Intimacy primary documents across 39 family portfolios / T7S_B0182–T7S_B0220; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -20,13 +20,13 @@ last_updated: 2026-10-30
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 283 complete Intimacy primary documents across 38 family portfolios. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 290 complete Intimacy primary documents across 39 family portfolios. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 1564`; `revisions = 42`; `predictions = 7`; `AV_reviews = 166`; `literary_findings = 1564`. Claims are bounded to their stated B0001 through B0219 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 283 complete Intimacy primary documents across 38 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 1582`; `revisions = 42`; `predictions = 7`; `AV_reviews = 167`; `literary_findings = 1582`. Claims are bounded to their stated B0001 through B0220 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 290 complete Intimacy primary documents across 39 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -4383,3 +4383,34 @@ Owner [B0219](../02%20Readings/T7S_B0219_DEEP_READING.md), reading SHA256 `11428
 | `AV-0166` | All40fullnative states/33Japanese/whole7-title-schema projection actuallyread. One132_01_01composite/contact andoriginalbg035/004/024/016/002 individuallyviewed;7commands/33voice/231slots/fixedactorverified. | Staticonly. BG035A4pages3text/004B6-5/024C-E12-10/016D6-5/002F-G12-10. BGM01013/00520 andallvoice/SFX unlistened; F039_006/G039_005 identifiersnotchronology. Wand/pose notactualmagic/carry/sleep, costume montage/grownage, actualparkdate ornewkinship. |
 
 Totals:1564CL/42REV/7PRED/166AV. Earlierclaims/revisions/predictions/AV and29historicalREADYdecisions retained; no older-body, chronology, release orreadinessrewrite.
+
+## B0220 ChaCha's boundaries, preferences and chosen company
+
+Owner [B0220](../02%20Readings/T7S_B0220_DEEP_READING.md), reading SHA256 `2c36368e95a3273d56aa4f3f5a6ba62317957a143232b8fc5c1dcd789d426230`; source-lock 12.126, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts, hashes and whole primary ranges. All28 physical before-controls, five SourceLock/seven coverage/four entity components froze at published9357d5cd/B0219/12.125 before primary. The original entry retains its pending-cycle observation; successful B0219 audit41078969685/full cyclee317e652 were checked in the fresh execution witness before semantic acceptance. Audited main77c83fcb is an actual ancestor. All88 published ChaCha rows were actually read before primary; the whole READY subject scan has no ChaCha decision. No menu chronology, performed hearing or runtime.
+
+| ID | Claim / warrant | Reading and retained limit |
+| --- | --- | --- |
+| `CL-B0220-001` | `SYMPTOM_REPORT_WITHOUT_CAUSAL_CERTIFICATION`; D1-D2; high with bounds | A:P1-2: heartburn/eating difficulty/possible overexertion/hypothetical disease/Nanasta relief retain her provenance, no diagnosis, cure or confirmed romantic cause. |
+| `CL-B0220-002` | `CONCERN_BOUNDARY_AND_QUALIFIED_ACKNOWLEDGMENT`; D1-D2; high with bounds | A:P3: decline of worry and thanks coexist, no universal wellness finding or manager full reply. |
+| `CL-B0220-003` | `APPEARANCE_CONTROL_AS_ATTRIBUTED_ACCUSATION`; D1-D2; high with bounds | B:P1-4: hairstyle proposal and doll-play/shamelessness critique preserve actor rhetoric, no independently proved total employment coercion or actual doll scene. |
+| `CL-B0220-004` | `PREFERENCE_AND_REPORTED_PROPOSAL_WITHDRAWAL`; D1-D2; high with bounds | B:P5: likes current hair/welcomes dropping the change, no completed haircut or enduring policy. |
+| `CL-B0220-005` | `MODERATED_ENTHUSIASM_AND_QUALITY_APPRAISAL`; D1-D2; high with bounds | C:P1-2: strong tea preference with qualification and criticism remain hers, no tasting/audit or unmatched expertise. |
+| `CL-B0220-006` | `TEACHING_PROPOSAL_AS_SHARED_PRACTICE`; D1-D2; high with bounds | C:P3-4: asks manager preparation/offers thorough help while attributing clumsiness, no actual lesson, certified competence or incompetence. |
+| `CL-B0220-007` | `APPEARANCE_STEREOTYPE_AND_PARTIAL_INCIDENT_ACCOUNT`; D1-D2; high with bounds | D:P1-4: kimono-demureness objection/own clerk account preserve missing intent/dialogue, no complete adjudication or validation of all her conduct. |
+| `CL-B0220-008` | `ACKNOWLEDGED_DISPLACEMENT_AND_REQUESTED_LISTENING`; D1-D2; high with bounds | D:P5: manager receives collateral anger and requested company, no proof he caused it, full assent or heard delivery. |
+| `CL-B0220-009` | `PRESENTED_MEMORY_WITH_ATTRIBUTED_ASSOCIATIONS`; D1-D2; high with bounds | E:P1-4: specialty and named dates/seasonal-astrological images remain actor knowledge claims, no master-biography admission, personality proof or current calendar setting. |
+| `CL-B0220-010` | `WITHHELD_ANSWER_AND_LISTENER_TASK`; D1-D2; high with bounds | E:P5: November1 question stays unanswered/not looked up, no hidden person assigned or actual investigation. |
+| `CL-B0220-011` | `SPECIFIC_FRIENDSHIP_AND_REPORTED_LEARNING`; D1-D2; high with bounds | F:P1-3: Shizuka conversation/dance interest/qualified footwork report/gentle-intellectual appraisal, no viewed technique or full reciprocal mind. |
+| `CL-B0220-012` | `POSITIVE_COMPANY_WITH_PROFESSIONAL_AMBIVALENCE`; D1-D2; high with bounds | F:P4 withD: chosen friend value coexists with criticism; specific gentleness differs from automatic dress stereotype, no institutional cure or total conversion. |
+| `CL-B0220-013` | `REPORTED_CELEBRATION_AND_LIFE_GRATITUDE`; D1-D2; high with bounds | G:P1-3: unnamed party/own smile/gratitude at living to an age, no E-link, exact age/date or terminal condition. |
+| `CL-B0220-014` | `GAZE_SIMILE_WITHOUT_LITERAL_TRAGEDY`; D1-D2; high with bounds | G:P4: arrow-struck-duck comparison is ChaCha uptake, no actual bird/violence, independent gaze shot or death forecast. |
+| `CL-B0220-015` | `ACT_SPECIFIC_AUTONOMY_AND_COERCION_LIMITS`; D1-D2; high with bounds | B/D withB0126: current objections to others control do not erase Player refusals/river push/reenactment pressure or certify her general method. |
+| `CL-B0220-016` | `SITUATED_EXPERTISE_AUTHORSHIP_AND_PRIVATE_KNOWLEDGE`; D1-D2; high with bounds | C/E/F withB0120/0142/0171/0181: own limits, shop authority, child authorship, local help and withheld answers remain differentiated; no omniscience or timeless disclosure rule. |
+| `CL-B0220-017` | `COMPANY_PREFERENCE_WITHOUT_UNIVERSAL_REPAIR`; D1-D2; high with bounds | A-G withB0164: ordinary-talk wish, costs and uncertain reception remain; gratitude/friendship/current happiness do not settle every prior relation or health question. |
+| `CL-B0220-018` | `BOUNDED_NATIVE_STATIC_INTEGRATION`; D1-D2; high with bounds | All37objects/30Japanese/210slots/wholeprojection, viewed128_01_01composite/contact/4originals,88priorrows/noChaChaREADY. No hearing/runtime/birthday lookup/newreadiness/full2034release/2053. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0167` | All37 full native states/30 Japanese/whole7-title-schema projection actually read. One128_01_01 composite/contact and originalbg037/023/031/002 individually viewed;7 commands/30 voice/210 slots/fixed actor verified. | Static only. BG037A4pages3text;023B6/5;031C5/4;002D/E/F/G22/18. BGM0103/00514/00413 and all voice/SFX unlistened. F040_002/G040_001 identifiers not chronology; F:P3 doubleLF preserved. Fixed smile/kimono/gesture not symptom disproof, anger delivery, haircut, tea quality, dance proof, birthday identity or actual injured duck. |
+
+Totals:1582CL/42REV/7PRED/167AV. Earlier claims/revisions/predictions/AV and29 historical READY decisions remain unchanged; no older-body, chronology, release or readiness rewrite.

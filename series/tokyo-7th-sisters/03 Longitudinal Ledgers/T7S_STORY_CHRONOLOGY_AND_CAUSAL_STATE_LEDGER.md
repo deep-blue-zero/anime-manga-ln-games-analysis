@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.120"
+version: "11.121"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 283 Intimacy primary documents across 38 family portfolios / T7S_B0182–T7S_B0219; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 290 Intimacy primary documents across 39 family portfolios / T7S_B0182–T7S_B0220; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1383`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1509`; `last_closed_block = T7S_B0219`. The admitted horizon contains 798 primary documents: 235 Main, 280 i-n-g and 283 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 283 Intimacy documents across 38 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1390`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1515`; `last_closed_block = T7S_B0220`. The admitted horizon contains 805 primary documents: 235 Main, 280 i-n-g and 290 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 290 Intimacy documents across 39 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4617,3 +4617,28 @@ Owner [B0219](../02%20Readings/T7S_B0219_DEEP_READING.md), reading SHA256 `11428
 | `EDGE-1516` | `EV-B0219-005 / EV-B0219-007` | FORMAL_COMPARISON: Explicitday-sizedbrotherrole and admitteduncertaintyaboutdate keep distinct knowledge/playframes; no escalatingadultromance or settledmutualstatus. |
 
 Totals:1383EV/25WORLD/47THREAD/1509activeEDGE, maximum1516 with seven intentional older gaps retained. No new WORLD/THREAD, dated cross-case causality or older-body rewrite.
+
+## B0220 ChaCha's boundaries, preferences and chosen company
+
+Owner [B0220](../02%20Readings/T7S_B0220_DEEP_READING.md), reading SHA256 `2c36368e95a3273d56aa4f3f5a6ba62317957a143232b8fc5c1dcd789d426230`; source-lock 12.126, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts, hashes and whole primary ranges. All28 physical before-controls, five SourceLock/seven coverage/four entity components froze at published9357d5cd/B0219/12.125 before primary. The original entry retains its pending-cycle observation; successful B0219 audit41078969685/full cyclee317e652 were checked in the fresh execution witness before semantic acceptance. Audited main77c83fcb is an actual ancestor. All88 published ChaCha rows were actually read before primary; the whole READY subject scan has no ChaCha decision. No menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0220-001` | A:401000295 P0-3 | Reports heartburn and difficulty eating, questions overexertion, describes Nanasta relief, declines the manager worry and adds qualified thanks. | SELF_REPORT_AND_CONCERN_BOUNDARY; no diagnosis, confirmed cause/treatment, romantic explanation or permanent cure. |
+| `EV-B0220-002` | B:401000299 P0-5 | Takes up a hairstyle proposal, accuses the manager of enclosing/adjusting her like a doll, then welcomes apparent withdrawal because she likes her present hair. | ATTRIBUTED_ACCUSATION_AND_STATED_PREFERENCE; no independent proof of every work condition, actual haircut or permanent appearance policy. |
+| `EV-B0220-003` | C:401000582 P0-4 | Moderately qualifies strong tea enthusiasm, criticizes available tea including Nanasta and proposes manager preparation with her thorough teaching. | PREFERENCE_AND_PROPOSED_SHARED_PRACTICE; no actual tasted quality, completed brewing/lesson or certified expertise/incompetence. |
+| `EV-B0220-004` | D:401000918 P0-5 | Rejects kimono-demureness stereotyping, reports a clerk encounter and widened-eye response, then acknowledges displaced irritation and asks the manager to keep listening. | REPORTED_INCIDENT_AND_ACKNOWLEDGED_VENTING; no independent clerk intent/dialogue, complete adjudication or supplied manager assent. |
+| `EV-B0220-005` | E:401001182 P0-5 | Claims listed memory skill, gives Haru/Shizuka/Sui birthday dates and seasonal/astrological images, then asks whose birthday is November1 and withholds the answer. | PRESENTED_KNOWLEDGE_AND_OPEN_QUESTION; no new master-biography admission, tested universal recall, verified astrology/calendar or identified November1 person. |
+| `EV-B0220-006` | F:401001318 P0-4 | Values Shizuka conversation and dance discussion, reports a footwork commonality, calls her a gentle/intellectual friend and counts the friendship among few good things of idol work. | SPECIFIC_FRIENDSHIP_VALUE_WITH_PROFESSIONAL_AMBIVALENCE; no independent reciprocal mind, viewed technique, specialist certificate or total work conversion. |
+| `EV-B0220-007` | G:401001422 P0-4 | Reports an unnamed friend birthday gathering, says she smiled, ties birthdays to gratitude at living to that age and challenges a gaze through an arrow-struck-duck comparison. | LIFE_GRATITUDE_AND_RESISTED_PITYING_FRAME; no exact age/date, current terminal disease, literal injured bird or death forecast. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1517` | `EV-B0220-001 / EV-B0220-007` | FORMAL_COMPARISON: Symptom report and birthday gratitude invite different responses to bodily life; neither verifies terminal illness, permanent health or a cross-case diagnosis. |
+| `EDGE-1518` | `EV-B0220-002 / EV-B0220-004` | FORMAL_COMPARISON: Preferred appearance and rejected appearance-based expectation preserve different objections to another interpretation; no dated causal sequence or complete exoneration. |
+| `EDGE-1519` | `EV-B0220-003 / EV-B0220-006` | FORMAL_COMPARISON: Proposed tea teaching and reported dance learning keep expertise situated; no universal mastery or completed lessons. |
+| `EDGE-1520` | `EV-B0220-004 / EV-B0220-006` | FORMAL_COMPARISON: Rejecting automatic demureness from dress differs from valuing a particular gentle/intellectual friend; no contradiction resolved by erasing either appraisal. |
+| `EDGE-1521` | `EV-B0220-005 / EV-B0220-006` | FORMAL_COMPARISON: Remembered Shizuka particulars and valued conversation are distinct forms of attention; no full reciprocal feeling or actual dance performance inferred. |
+| `EDGE-1522` | `EV-B0220-005 / EV-B0220-007` | FORMAL_COMPARISON: An unanswered birthday quiz and a reported friend celebration remain independent occurrences; no November1 identification, shared date or invented friend. |
+
+Totals:1390EV/25WORLD/47THREAD/1515 active EDGE, maximum1522 with seven intentional older gaps retained. No new WORLD/THREAD, cross-case dated causality or older-body rewrite.

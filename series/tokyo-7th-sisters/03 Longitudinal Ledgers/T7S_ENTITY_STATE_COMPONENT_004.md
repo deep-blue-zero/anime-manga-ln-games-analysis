@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.9"
+version: "1.10"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0219; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0220; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -502,4 +502,54 @@ Existing Manon `IDENTITY-0068 / CHAR-0053 / hoshigaki-manon` and Player `IDENTIT
 CHAR-0053 gains self-reportedcomfort/additivefamilyvalue, prospectiveprotectiveagency, audience-directedaspiration, carechoicewithconversationpreference, temporarysiblingplay, costume-motivatedeffort anduncertainborroweddateword. B0092smallsteps/authorship; B0101reciprocalplay; B0129Mikola/B0130Magiko separate delight/assent/knowledge/carelimits; B0135childcoaching; B0139one-livequartet; B0168diary/privacy/legitimatequestions/fallibleinterpretation; B0172distress/pluralsupport/undeliveredrelay remain. Later2043MainEpisode5.0 comparison/harm/flight/Ruicare/disclosure/return and READY0025 are neither erasednorprojectedbackward.
 
 Totals:1701KNOW/1223REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Historical READY0025 remains R2_STATE_BOUNDED onlycompleteMainEpisode5.0/endB0069, MONOGRAPH_NOT_READY, voiceunlistened. No rewrittenreadinessbody, newR2/R3, stablecure, adultstate, model/monographmaturity orperformed-audiopromotion.
+
+## B0220 ChaCha's boundaries, preferences and chosen company
+
+Owner [B0220](../02%20Readings/T7S_B0220_DEEP_READING.md), reading SHA256 `2c36368e95a3273d56aa4f3f5a6ba62317957a143232b8fc5c1dcd789d426230`; source-lock 12.126, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts, hashes and whole primary ranges. All28 physical before-controls, five SourceLock/seven coverage/four entity components froze at published9357d5cd/B0219/12.125 before primary. The original entry retains its pending-cycle observation; successful B0219 audit41078969685/full cyclee317e652 were checked in the fresh execution witness before semantic acceptance. Audited main77c83fcb is an actual ancestor. All88 published ChaCha rows were actually read before primary; the whole READY subject scan has no ChaCha decision. No menu chronology, performed hearing or runtime.
+
+Existing ChaCha `IDENTITY-0044 / CHAR-0066 / otori-chacha`, Player `IDENTITY-0001 / CHAR-0001 / player-protagonist` and Shizuka `IDENTITY-0018 / CHAR-0015 / kuonji-shizuka` retain their published routes. E references existing Haru `IDENTITY-0004 / CHAR-0004` and Sui `IDENTITY-0017 / CHAR-0014`. Clerk/birthday friend/November1 answer gain no identity. No new CHAR/IDENTITY/UNIT/READY.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1702` | ChaCha reports recent heartburn/difficulty eating and wonders about overexertion. | A:P1; symptom/cause account, no examination, diagnosis or independently confirmed cause. |
+| `KNOW-1703` | ChaCha imagines a frightening unusual disease and says symptoms ease at Nanasta. | A:P2; hypothetical frame/local report, no actual disease, treatment effect or romantic cause. |
+| `KNOW-1704` | ChaCha declines manager worry while giving qualified thanks. | A:P3; her concern boundary/acknowledgment, no supplied full reply or permanent wellness finding. |
+| `KNOW-1705` | ChaCha takes up an apparent hairstyle/image-change proposal. | B:P1; proposal through her response, no independent full manager turn or actual procedure. |
+| `KNOW-1706` | ChaCha accuses manager of enclosing her as an idol and making her obedient. | B:P2; attributed accusation, no independent audit of every work condition. |
+| `KNOW-1707` | ChaCha casts manager-directed hair preference as doll play. | B:P3; critique of adjustable appearance, no actual doll act or certified manager motive. |
+| `KNOW-1708` | ChaCha calls the imagined treatment of a young maiden shameless. | B:P4; actor rhetoric/self-positioning, no exact age or forensic finding. |
+| `KNOW-1709` | ChaCha takes up proposal withdrawal and says she likes current hair. | B:P5; explicit preference/uptake, no haircut or standing appearance policy. |
+| `KNOW-1710` | ChaCha asks manager tea preference and qualifies her own strong enthusiasm. | C:P1; own preference, no unmatched expertise or independent manager answer. |
+| `KNOW-1711` | ChaCha criticizes tea when eating out and at Nanasta. | C:P2; quality appraisal, no analyst tasting or complete establishment audit. |
+| `KNOW-1712` | ChaCha proposes manager brew tea at Nanasta. | C:P3; prospective shared practice, no completed preparation. |
+| `KNOW-1713` | ChaCha offers thorough instruction while calling manager clumsy. | C:P4; teacher offer/attributed judgment, no mastery certificate or actual incompetence/result. |
+| `KNOW-1714` | ChaCha says prejudice distorts how people may be themselves. | D:P1; her stated principle, no independent social-science proof or universal conduct finding. |
+| `KNOW-1715` | ChaCha challenges expecting demureness from Japanese dress. | D:P2; appearance-based stereotype objection, no rejection of all gentleness. |
+| `KNOW-1716` | ChaCha reports a clerk unpleasantness and describes her own response as mere admonition. | D:P3; partial self-account/minimization, no clerk full speech or incident adjudication. |
+| `KNOW-1717` | ChaCha reports widened eyes and her anger at that response. | D:P4; experienced response, no independently verified prejudice motive or heard delivery. |
+| `KNOW-1718` | ChaCha acknowledges manager receives collateral irritation and requests further company. | D:P5; displaced venting/request, no independent assent or proof he caused the incident. |
+| `KNOW-1719` | ChaCha claims memorization is listed as a specialty and assumes manager knows. | E:P1; own skill/knowledge expectation, no inspected personnel record or full memory test. |
+| `KNOW-1720` | ChaCha gives Haru birthday as April16 and adds a seasonal image. | E:P2; actor-presented date/association, no new master-data admission or actual occurrence date. |
+| `KNOW-1721` | ChaCha gives Shizuka birthday as July20 with seasonal-calendar/summer-maiden language. | E:P3; actor-presented date/image, no independent almanac verification or personality proof. |
+| `KNOW-1722` | ChaCha gives Sui birthday as February22 and links Pisces/swimming/romantic associations. | E:P4; actor knowledge/interpretation, no verified astrology, exhaustive Sui state or new biography. |
+| `KNOW-1723` | ChaCha asks whose birthday is November1 and tells manager to investigate. | E:P5; unanswered question, no lookup, identified person or completed investigation. |
+| `KNOW-1724` | ChaCha values Shizuka conversation enough to lose track of time, especially dance discussion. | F:P1; own relationship experience, no supplied Shizuka reciprocal feeling or exact duration. |
+| `KNOW-1725` | ChaCha reports common footwork between Shizuka Japanese dance and idol dance. | F:P2; qualified reported learning, no viewed demonstration, measured technique or specialist status. |
+| `KNOW-1726` | ChaCha calls Shizuka a gentle and intellectual friend. | F:P3; specific appraisal/nomination, no appearance-derived universal trait or independent current turn. |
+| `KNOW-1727` | ChaCha values the friendship among few good things of work she calls anachronistic. | F:P4; gratitude and professional ambivalence coexist, no total conversion or institutional cure. |
+| `KNOW-1728` | ChaCha reports a recent unnamed friend birthday gathering and appreciates smiles. | G:P1; reported event, no friend identity/date or link to E unanswered question. |
+| `KNOW-1729` | ChaCha says she herself was smiling at that occasion. | G:P2; self-report through a prompt, no inspected party or acoustic delivery. |
+| `KNOW-1730` | ChaCha ties birthdays to gratitude at having lived to that age. | G:P3; stated value, no exact age, terminal condition or death prediction. |
+| `KNOW-1731` | ChaCha compares manager gaze to looking at an arrow-struck duck. | G:P4; her uptake/simile, no independently viewed gaze, literal bird or medical finding. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1224` | `otori-chacha → player-protagonist` | A-G: describes discomfort while limiting worry, challenges appearance control, proposes tea teaching, asks company during venting, presents/withholds knowledge and resists a pitying gaze. Thanks, preference and requested attention coexist; no diagnosis, verified accusation, actual lesson, standing time claim or full reciprocal mind. Reciprocal REL-1225. |
+| `REL-1225` | `player-protagonist → otori-chacha` | A/B/C/D/E/G: addressed worrier, apparent hairstyle proposer/withdrawer, prospective tea maker, listener and quiz recipient, with gaze interpreted by ChaCha. Current responses are mediated through her speech; no full own feeling, accepted lesson, blanket work control or agreed continuing attention. Reciprocal REL-1224. |
+| `REL-1226` | `otori-chacha → kuonji-shizuka` | F:P1-4: values absorbing dance conversation, reports learning a footwork connection, appraises a gentle/intellectual friend and names friendship a particular gain despite professional ambivalence. No certified technique, complete reciprocity or blanket endorsement of idol work. Reciprocal REL-1227. |
+| `REL-1227` | `kuonji-shizuka → otori-chacha` | F:P1-3: appears as a reported conversation partner/Japanese-dance learner and the person ChaCha calls a friend. No independent current turn supplies Shizuka feelings, exact teaching, technical success or a new institutional role. Reciprocal REL-1226. |
+
+CHAR-0066 gains stated preferences, concern/appearance/interpretation boundaries, proposed teaching and wanted listening, presented memory with a reserved answer, specific friendship value and gratitude at living. B0088 rejected terminal projection; B0120 lady/tea roles; B0126 coercion and unverified prior knowledge; B0142 shop authority limits; B0164 work costs/ordinary-talk wish/uncertain reception; B0171 situated authorship-respecting help and later family gloss; B0181 modest expertise/partial message privacy remain. No uniform consent-respecting method, diagnosis/cure, omniscience or unlimited mastery follows.
+
+Totals:1731KNOW/1227REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Whole READY subject scan has no ChaCha decision; no invented R2 or rewritten readiness body, R3/model/monograph maturity, clinical certainty or performed-audio promotion.
 <!-- T7S ENTITY STATE PAYLOAD END -->
