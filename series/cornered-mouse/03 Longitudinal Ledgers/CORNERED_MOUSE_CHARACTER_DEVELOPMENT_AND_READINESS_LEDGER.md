@@ -5,7 +5,7 @@ artifact_type: character_state_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.8"
+version: "0.9"
 status: active_provisional
 scope: "Independent identity/state history and separate monograph/model readiness"
 source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U06 first-work exit; narrative144–202, frontispiece143 and closing art203/204 separate"
@@ -275,12 +275,22 @@ Prior CM-CS-014; identity unchanged. Primary route: [CM-U06-O020](../01%20Sequen
 
 **Readiness:** independent sustained literary responsibility justified for final subject/secondary analysis, scope reviewed after corpus completion. Model NOT_ASSESSED; no sufficient varied independent inner/work/ordinary evidence or tests. No global readiness grade.
 
+## Readiness review at CM-U06-EXIT
+
+### CM-RD-001 — CM-CH-OTOMO, proposed familiar-relationship model
+
+Basis `e4749dea42179e01a417a96171e9cfb035ca919b`, CM-CS-018 and its retained predecessors. The [title-work review](../07%20Audits%20and%20Handoffs/CORNERED_MOUSE_TITLE_WORK_ARCHITECTURE_AND_READINESS_REVIEW.md) distinguishes evidence-backed counterexamples from missing contexts across twelve dimensions/six scenario families. Repeated loss/rival encounters and contrasted choices justify [CM-RULE-OTOMO-001/002@v1](../04%20Character%20Studies/CORNERED_MOUSE_OTOMO_U06_PROPOSED_MODEL.md), status **PROPOSED_DOMAIN_BOUNDED_UNVALIDATED**, not broad portability. CM-PR-004 is prospective and pending. Monograph evidence remains substantial but final writing awaits whole-corpus reconciliation; no global tier. No new source-state event is created by this procedural readiness decision.
+
+### CM-RD-002 — CM-CH-IMAGASE, proposed familiar-relationship/register model
+
+Same immutable basis, CM-CS-019 and retained predecessors. Reengagement under voluntary personal reopening and audience-conditioned written language justify [CM-RULE-IMAGASE-001/002@v1](../04%20Character%20Studies/CORNERED_MOUSE_IMAGASE_U06_PROPOSED_MODEL.md), status **PROPOSED_DOMAIN_BOUNDED_UNVALIDATED**. Café acceptance/real departure and prior violations prevent universal objection, pursuit or respect-for-refusal policies. CM-PR-005/006 are pending; CM-PA-003 remains an adverse literary forecast, not model validation. Monograph versus model readiness stays separate. Other seven subjects retain their U06 projection dispositions; Natsuki's independent literary responsibility does not establish broad model evidence.
+
 ## Current projection
 
 | Character | Current event | Source-bounded state | Separate readiness |
 |---|---|---|---|
-| CM-CH-OTOMO | CM-CS-018 | Rejection, actual loss, retained trace and chosen pursuit; fear/intimacy with Natsuki obligation unresolved | Monograph accumulating; model review at title-work freeze |
-| CM-CH-IMAGASE | CM-CS-019 | Accepts rejection, leaves, reports painful waiting, then reconnects under changed information | Monograph accumulating; model review at title-work freeze |
+| CM-CH-OTOMO | CM-CS-018 | Rejection, actual loss, retained trace and chosen pursuit; fear/intimacy with Natsuki obligation unresolved | Monograph accumulating; proposed U06 model, CM-RD-001; CM-PR-004 pending |
+| CM-CH-IMAGASE | CM-CS-019 | Accepts rejection, leaves, reports painful waiting, then reconnects under changed information | Monograph accumulating; proposed U06 model, CM-RD-002; CM-PR-005/006 pending |
 | CM-CH-CHIKAKO | CM-CS-003 | Requested divorce; new partner reported; later state unknown | Independent work reviewed after corpus |
 | CM-CH-COMPANION-U01 | CM-CS-004 | Violent act observed; breakup later reported; interior unavailable | Insufficient independent evidence; model unassessed |
 | CM-CH-NISHIMURA-MIZUNO | CM-CS-007 | Affair/invitations and household account; witnessed outburst, aftermath unknown | Independent work reviewed after corpus; model unassessed |

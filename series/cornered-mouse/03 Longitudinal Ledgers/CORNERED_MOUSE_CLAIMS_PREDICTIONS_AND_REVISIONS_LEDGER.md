@@ -5,7 +5,7 @@ artifact_type: claim_revision_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.8"
+version: "0.9"
 status: active_provisional
 scope: "Interpretive claim lineage, genuine prospective forecasts and revision impact"
 source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U06 first-work exit; narrative144–202, frontispiece143 and closing art203/204 separate"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Claims, predictions and revisions
 
-**Claims: 15. Predictions: 3 (three adjudicated). Claim revision events: 24. Forecast adjudication events: 3. Source boundary: CM-U06.** U01 formulations and original forecast bytes remain unchanged; the current projection and appended U02 events identify later authority. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
+**Claims: 15. Predictions: 6 (three adjudicated, three prospective model tests pending). Claim revision events: 24. Forecast adjudication events: 3. Source boundary: CM-U06.** U01 formulations and original forecast bytes remain unchanged; the current projection and appended U02 events identify later authority. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
 
 ## Schemas and revision vocabulary
 
@@ -318,6 +318,44 @@ All events bind `CM-JP-AIO2020-LOCAL`, disclosure/authority boundary CM-U06-EXIT
 | CM-PR-003 | FAILURE, contextual eligibility bounded | CM-PA-003 at U06; first café response, no later-scene rescue |
 
 These three literary tests are not a sampled accuracy metric or operational-model validation. No new forecast is created from already read U06 outcomes.
+
+## Prospective model tests frozen before CM-U07
+
+**Freeze recorded 2026-10-30T22:09:38.037437+00:00; evidence basis `e4749dea42179e01a417a96171e9cfb035ca919b`, CM-U06-EXIT.** These records and the linked model versions commit before any U07 title probe/image. Prior exposure is the six completed readings, contents/bibliography and colophon; sequel narrative remains uninspected. One canonical prediction register lives here. Later outcome records append separately and never replace the UNOBSERVED-at-creation fields. The [title-work review](../07%20Audits%20and%20Handoffs/CORNERED_MOUSE_TITLE_WORK_ARCHITECTURE_AND_READINESS_REVIEW.md) binds the exact evidence/dimensions/gaps.
+
+### CM-TEST-U06-V1 — common selection and scoring protocol
+
+Window CM-U07–CM-U10, collection disclosure order; CM-S01 is excluded. For each test select the **first eligible complete encounter**, not the best confirming scene. Record candidate triggers and exclusions in each unit closeout, even when no trigger qualifies. Log eligibility from information available at the trigger before using later outcomes where page disclosure permits. A response on the same page is inseparable source exposure; declare that fact rather than pretend a blind within-page eligibility judgment. The forecast remains prospective because its wording was committed before the image.
+
+Trigger information itself is allowed: apparent rival, voluntary offer or disagreement as respectively defined below. Discomfort, anger or a surprising/failing response alone never becomes a state mismatch. Prior explicit abandonment of the attachment, a new exclusive commitment, substantial intervening history/new constraint or changed knowledge that defeats a stated precondition produces a documented TEMPORAL_CONTEXT_MISMATCH/abstention. Specify the new fact and its pre-response locator; do not invent mismatch after seeing failure. No silent model update. A materially changed state can be tested only as an explicitly labeled transfer challenge, not clean validation of U06 state.
+
+Score SUPPORTED only for the entire original response range, FAILURE for its stated counteroutcome, MIXED for partial/contradictory visible response or genuinely ambiguous eligibility, and UNOBSERVED if an eligible interaction's outcome is not supplied. No eligible trigger by U10 yields NON_DISCRIMINATING, or WINDOW_CONFOUNDED if all opportunities were precluded by documented state/context mismatch. Those are not successful predictions. A reported past response is retrospective evidence, not the next depicted encounter. Synthetic/adversarial prompts are noncanonical consistency checks. No sampled accuracy, independent rater agreement or global assessment is claimed.
+
+### CM-PR-004 — Kyoichi initiates at an eligible rival encounter
+
+- **Rule/state:** [CM-RULE-OTOMO-001@v1](../04%20Character%20Studies/CORNERED_MOUSE_OTOMO_U06_PROPOSED_MODEL.md), CM-CH-OTOMO at U06 exit; test protocol CM-TEST-U06-V1.
+- **Target:** first unexpected direct encounter after perceived loss/rupture with Imagase and an apparent competing male attachment, where Kyoichi can address him. Exclude an imposed public woman/man choice, incapacity, restraint, emergency or actual danger. Mere discussion without encounter is ineligible.
+- **Predicted range:** Kyoichi initiates a personal interaction with Imagase before that encounter terminates; not silent departure/nonaddress. Exact speech, violence, motive, sex and reunion are unpredicted.
+- **Falsifier:** the eligible encounter ends with an available opportunity and no such initiation. Alternatives/mismatch/no-trigger score under the common protocol. Only two training episodes fit closely; a supported result remains narrow.
+- **Outcome at creation:** UNOBSERVED; no outcome or rule revision yet.
+
+### CM-PR-005 — Imagase responds to a voluntary personal reopening
+
+- **Rule/state:** [CM-RULE-IMAGASE-001@v1](../04%20Character%20Studies/CORNERED_MOUSE_IMAGASE_U06_PROPOSED_MODEL.md), CM-CH-IMAGASE at U06 exit; CM-TEST-U06-V1.
+- **Target:** first sober, uncoerced personal invitation or clear meaningful affectionate gesture from Kyoichi after rupture/ending-like exchange. Kyoichi must direct personal access to Imagase, rather than offer instrumental work contact, emergency rescue or an ambiguous accident. Both have the physical opportunity to respond.
+- **Predicted range:** Imagase accepts or actively negotiates that offered personal access before the interaction ends, rather than unequivocally refusing and terminating. No automatic forgiveness, permission for further acts or durable reconciliation predicted.
+- **Falsifier:** unequivocal refusal followed by termination without negotiation. Changed commitments/knowledge, impairment, coercion or emergency invoke declared exclusions with locators, never post hoc rescue.
+- **Outcome at creation:** UNOBSERVED; no outcome or rule revision yet.
+
+### CM-PR-006 — written politeness during direct disagreement
+
+- **Rule/state:** [CM-RULE-IMAGASE-002@v1](../04%20Character%20Studies/CORNERED_MOUSE_IMAGASE_U06_PROPOSED_MODEL.md), same state/protocol. Written-register test only.
+- **Target:** first complete sober direct disagreement/pressure exchange addressed by Imagase to Kyoichi with their familiar relationship/hierarchy intact; exclude quotation/dream, emergency, impaired speech, untranslated wording or an unestablished recipient. Anger alone does not exclude it.
+- **Predicted range:** the exchange contains at least one senior-address or polite-form segment while expressing disagreement; exact line/voice, every-sentence politeness and ethical respect unpredicted.
+- **Falsifier:** the complete eligible exchange contains neither senior address nor polite-form language. A supported outcome is inherently low discrimination because hierarchy/habit can explain the same surface; it cannot validate motive/action fidelity.
+- **Outcome at creation:** UNOBSERVED; no outcome or rule revision yet.
+
+The three earlier literary forecasts and CM-PA-001–003 retain their original results and limits. New models do not retroactively claim those as validation. Current forecast totals: six registered, three adjudicated and three pending.
 
 ## Current claim projection
 

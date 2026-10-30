@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.0"
+version: "1.1"
 status: active_provisional
 scope: "Single current entrypoint, source boundaries and next permitted operation"
 source_boundary: "Owner-selected revised Japanese All-in-One; unit coverage and run state are recorded in the current entrypoint and source map"
@@ -43,7 +43,7 @@ project_initialization:
   owner_architecture_approval_date: "2026-10-24"
   sequential_analysis_lock: OPEN
   lock_reason: OWNER_AUTHORIZED_CONTINUOUS_ALL_IN_ONE_RUN
-  next_permitted_operation: TITLE_WORK_REVIEW_BEFORE_CM_U07
+  next_permitted_operation: CM-U07
 analytical_execution:
   authorization: OWNER_AUTHORIZED_CONTINUOUS_READING_AND_ARTIFACT_COMPLETION
   sequential_units_admitted: 6
@@ -55,14 +55,14 @@ analytical_execution:
   forward_exposure: NONE_BEYOND_CM_U06
   non_narrative_images_inspected: 12
   committed_narrative_high_water_mark: CM-U06
-  reconstruction_readiness: REVIEW_PENDING_AT_TITLE_WORK_FREEZE
+  reconstruction_readiness: PROPOSED_DOMAIN_BOUNDED_UNVALIDATED
 sequential_execution:
   mode: continuous_sequential
   unit_type: chapter_or_collected_component
   authorized_start: CM-U01
   terminal_boundary: CM-S01
   committed_high_water_mark: CM-U06
-  next_candidate_operation: TITLE_WORK_REVIEW_BEFORE_CM_U07
+  next_candidate_operation: CM-U07
   confirmation_between_units: false
   run_state: active
   authorized_on: "2026-10-29"
@@ -78,7 +78,7 @@ supplemental_execution:
 
 One connected manga project by **Setona Mizushiro / 水城せとな**: *The Cornered Mouse Dreams of Cheese* / 窮鼠はチーズの夢を見る, followed by *The Carp on the Chopping Block Jumps Twice* / 俎上の鯉は二度跳ねる. Aliases include Kyuuso/Kyuso wa Cheese no Yume o Miru and Sojou/Sojo no Koi wa Nido Haneru; the author also uses 俎上の鯉は２度跳ねる. Stable slug: `cornered-mouse`; canonical root: `series/cornered-mouse/`. The sequel has no separate analytical root.
 
-**Next permitted operation: title-work architecture and reconstruction-readiness review after the committed CM-U06 exit. U07 remains unread until that review and any warranted rule/test freeze are committed. SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The owner authorized continuous analysis of the supplied All-in-One through completion of the required artifacts. Read the ten mainline/embedded components in collection order, freeze the mainline, then separately admit Hummingbird (`CM-S01`). The unavailable Reboot-only Black Cat story is outside this run by explicit owner decision.
+**Next permitted operation: CM-U07 boundary admission and deep reading, after the committed title-work review/model/test freeze. U07 is still unread. SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The owner authorized continuous analysis of the supplied All-in-One through completion of the required artifacts. Read the ten mainline/embedded components in collection order, freeze the mainline, then separately admit Hummingbird (`CM-S01`). The unavailable Reboot-only Black Cat story is outside this run by explicit owner decision.
 
 ## Source and authority boundary
 
@@ -90,8 +90,8 @@ One connected manga project by **Setona Mizushiro / 水城せとな**: *The Corn
 | Visual inspection | CM-U01–U06 completely read/frozen: sp0011–sp0204 physical bundles, 194 images comprising 184 narrative-sequence and ten frontispiece/closing images. With contents/colophon, 196 of 539 source images fully inspected. U06 narrative end202/front143/adjacent art203–204 verified. First title work complete; U07/future images unexposed. Resource indexing is separate from reading |
 | Other witnesses | 2006, 2009 original-form pair, Reboot pair and official English pair bibliographically identified; none located in the bounded series-folder inventory |
 | Edition decision | Owner selected the local revised All-in-One on 2026-10-24; original-form 2009, Reboot and English comparison remain separate unacquired strategies |
-| Longitudinal state | Through U06: 20 character events/9 subjects, 25 relationship events/8 dyads, 25 information/33 decisions, 15 claims/24 revisions. Three literary forecasts adjudicated: two supported (one low discrimination), one bounded failure. No pending forecast; historical formulations/freezes preserved. Local model readiness review is next |
-| Reconstruction / synthesis | U01–U06 evidence and gaps; title-work architecture/model-readiness review pending before U07. No operational model, global grade, monograph, specialist or full-series synthesis yet |
+| Longitudinal state | Through U06: 20 character events/9 subjects, 25 relationship events/8 dyads, 25 information/33 decisions, 15 claims/24 revisions. Three literary forecasts adjudicated: two supported (one low discrimination), one bounded failure. Three new prospective model tests pending; historical formulations/freezes preserved |
+| Reconstruction / synthesis | Two proposed, unvalidated U06-state models with explicit domain gaps and three frozen tests; no broad operational release or global grade. Monographs, specialists and full-series synthesis remain outstanding |
 
 The [source/scope map](00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SOURCE_AND_SCOPE_MAP.md) owns exact witness IDs, checksums, contents labels, bibliography and admission gaps. Its ten mainline/embedded component candidates preserve collection order; later Hummingbird and the two Reboot-only Black Cat parts require distinct disclosure and admission. Printed contents starts are not verified analytical ranges. Mainline, supplemental, paratext and adaptation coverage are separate.
 
@@ -108,7 +108,7 @@ The 2020 film, drama CDs and other adaptations are outside scope. Creator/editor
 
 The [run admission and checkpoint](07%20Audits%20and%20Handoffs/CORNERED_MOUSE_RUN_ADMISSION_AND_CHECKPOINT.md) records the owner instruction, authorized terminal boundary, entering knowledge state, execution profile and required-artifact work plan. The [project changelog](CORNERED_MOUSE_PROJECT_CHANGELOG.md) retains earlier dated routing history.
 
-The owner-approved architecture governs this project. Its first-unit review moved the lifecycle to EVOLVING while retaining the four-ledger design. The source map, method, protocol, reading and populated ledgers remain current-eligible provisional instruments; owner approval of the architecture does not certify the new analysis. Git main owns integrated analytical authority. The [routing descriptor](.repository/series-registry.json) requests the governed root; housekeeping owns global routing, while character discovery and reconstruction evaluation retain their separate global ownership.
+The owner-approved architecture governs this project. Its first-unit review moved the lifecycle to EVOLVING; the title-work review retains that lifecycle and four-ledger design. The source map, method, protocol, reading and populated ledgers remain current-eligible provisional instruments; owner approval of the architecture does not certify the new analysis. Git main owns integrated analytical authority. The [routing descriptor](.repository/series-registry.json) requests the governed root; housekeeping owns global routing, while character discovery and reconstruction evaluation retain their separate global ownership.
 
 ## Authorized run and unit admission
 
@@ -119,3 +119,7 @@ Before accepting each unit, verify its exact component range, image legibility, 
 Continue after every fully committed unit until CM-S01 is closed, then complete longitudinal reconciliation, justified monographs/specialists, integrated synthesis, reconstruction-readiness/model dispositions and the final audit under the architecture. No new user message is required between ordinary authorized stages.
 
 Current verification establishes the exact local file, ordered resources and complete U01–U06 ranges/legibility. [CM-U01](01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md), [CM-U02](01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md), [CM-U03](01%20Sequential%20Readings/CORNERED_MOUSE_U03_DEEP_READING.md), [CM-U04](01%20Sequential%20Readings/CORNERED_MOUSE_U04_DEEP_READING.md), [CM-U05](01%20Sequential%20Readings/CORNERED_MOUSE_U05_DEEP_READING.md), [CM-U06](01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md) own stable observations, image digests and immutable exits. U06 completes the first title work at sp0202 with adjacent art203/204 separately classified. Remaining sequel/component ends, later lettering, Hummingbird and full-file paratext are checked through continuing admission. Optional edition/translation comparisons remain bounded unknowns; missing Reboot-only story stays outside this run. No all-edition/all-manga, completed-run or final-release claim is made.
+
+## Title-work model/test routing
+
+The [frozen title-work review](07%20Audits%20and%20Handoffs/CORNERED_MOUSE_TITLE_WORK_ARCHITECTURE_AND_READINESS_REVIEW.md) binds six reading hashes at U06 commit `e4749dea42179e01a417a96171e9cfb035ca919b` and reviews every anticipated responsibility plus subject/domain gaps. Proposed [Otomo](04%20Character%20Studies/CORNERED_MOUSE_OTOMO_U06_PROPOSED_MODEL.md) and [Imagase](04%20Character%20Studies/CORNERED_MOUSE_IMAGASE_U06_PROPOSED_MODEL.md) models are historically fixed at U06, not final-state monographs or broad simulations. Character-ledger CM-RD-001/002 own local readiness; claims-ledger CM-PR-004–006 own immutable tests and appended outcomes. Prospective windows are U07–U10 only, with earliest eligible trigger selection and explicit state/context mismatch. No global grade is assigned. Commit this complete review transaction before opening U07; later source-state change never silently rewrites the models. All remaining run obligations above persist.

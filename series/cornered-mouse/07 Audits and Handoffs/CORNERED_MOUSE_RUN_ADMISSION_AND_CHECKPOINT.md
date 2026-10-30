@@ -4,7 +4,7 @@ artifact_id: CORNERED_MOUSE_RUN_ADMISSION_AND_CHECKPOINT
 artifact_type: run_admission_checkpoint
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.6"
+version: "1.7"
 status: active_provisional
 scope: "Authorized continuous All-in-One run, entering boundary, checkpoint and required-artifact closeout"
 source_boundary: "CM-JP-AIO2020-LOCAL; mainline CM-U01–CM-U10, then CM-S01; Reboot-only story outside this run"
@@ -83,7 +83,7 @@ The synthesis architecture's G1–G9 gates remain controlling; this table makes 
 
 - Run: ACTIVE, continuous_sequential, start CM-U01, terminal CM-S01.
 - Verified committed narrative high-water mark: CM-U06; freeze CM-U06-EXIT, sp0143–sp0204 physical bundle, explicit narrative end sp0202; front143 and adjacent art203/204 separate.
-- Current operation: title-work architecture and reconstruction-readiness review after complete U06 commit; no U07 access before review and any warranted committed rule/test freeze.
+- Current operation: CM-U07 admission/reading after committed title-work review, proposed U06 models and CM-PR-004–006 test freeze; no U07 image has yet been inspected.
 - Continuous authorization remains active through CM-S01 and the required downstream artifacts; first-unit completion does not terminate the goal.
 - Hummingbird lane: CLOSED until committed/frozen CM-U10 closeout.
 - No source-completion, synthesis-readiness, model-validation or final-release claim exists.
@@ -143,3 +143,5 @@ CM-CS-018–020, CM-RS-020–025, CM-INF-019–025, CM-DEC-023–033, CM-CL-014/
 CM-PA-003 records FAILURE under its explicit contextual-selection bound: sp0160's direct rejection within a declared binary romantic choice, then sp0161's quiet acceptance and interaction end. A stricter positive-declaration eligibility reading would be non-discriminating, never supporting credit. The later home plea follows recontact and cannot rescue a first-response forecast. Actual disappearance, private pain and renewed desire remain separate. All three literary forecasts are adjudicated, without a sampled accuracy claim or operational model validation. Original CM-PR-003 wording/outcome-at-creation remains historical.
 
 Named-subject/reference review covered introduction, substantive choice/knowledge/ethics arguments, exit and three active dyads. The account separates fear from observed catastrophe, report from history, current penetrative act from earlier finger-only/contested contact, and renewed intimacy from Natsuki's unresolved call. The title work is complete, the sequel unread. Next is architecture and model-readiness review **before U07 access**; any warranted proposed rules/tests must be frozen/committed while sequel cases remain uninspected. This does not promise broad portability or assign global grades. Architecture remains EVOLVING pending that review. U07–U10, Hummingbird, full-file paratext, reconciliation, warranted independent artifacts, continuous synthesis, reconstruction disposition and final audit remain required.
+
+2026-10-30 — **Title-work architecture/readiness and model/test freeze.** Basis U06 atomic commit `e4749dea42179e01a417a96171e9cfb035ca919b`, preflight PASS INDEX/10527, complete validated tree `7265c93786fe18f025238f8bb0e1ad718c16a809`; fresh main/source reconciliation preserved that tree, approved identities verified and head published to PR404. The [title-work review](CORNERED_MOUSE_TITLE_WORK_ARCHITECTURE_AND_READINESS_REVIEW.md) retains four homes and EVOLVING lifecycle, identifies all specialist responsibilities and twelve-dimension/six-scenario gaps. Two narrow proposed models at U06 have no promoted policy/global grade/validated release. CM-RD-001/002 append procedural readiness; source-state event counts remain unchanged. CM-PR-004–006 and CM-TEST-U06-V1 were recorded `2026-10-30T22:09:38.037437+00:00` before any U07 probe/image. Their first eligible encounters, exclusions, state mismatch, failures and low-discrimination limits must remain auditable; later outcomes append separately. Commit the complete transaction before U07. Mainline, Hummingbird, all539-image accounting, reconciliation, warranted monographs/specialists, synthesis, separate reconstruction disposition and final audit remain required.

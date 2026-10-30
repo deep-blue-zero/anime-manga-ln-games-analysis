@@ -5,7 +5,7 @@ artifact_type: source_scope_map
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.0"
+version: "1.1"
 status: active_provisional
 scope: "Canonical work, edition, component and evidence-availability map"
 source_boundary: "Owner-selected revised Japanese All-in-One; unit coverage and run state are recorded in the current entrypoint and source map"
@@ -124,7 +124,7 @@ The authorized narrative sequence is CM-U01 through CM-U10 in this witness's col
 | CM-U04 | Physical bundle sp0097–sp0137, `item/xhtml/p-0095.xhtml` / `item/image/i-0095.jpg` through `item/xhtml/p-0135.xhtml` / `item/image/i-0135.jpg`; frontispiece97, thirty-nine narrative images98–136 with explicit end136, closing portrait137 | Complete forty-one-image inspection/atomic closeout; [reading/coverage](../01%20Sequential%20Readings/CORNERED_MOUSE_U04_DEEP_READING.md), freeze CM-U04-EXIT; earlier partial frontispiece exposure remains historical |
 | CM-U05 | Physical bundle sp0138–sp0142, `item/xhtml/p-0136.xhtml` / `item/image/i-0136.jpg` through `item/xhtml/p-0140.xhtml` / `item/image/i-0140.jpg`; four narrative images138–141 with explicit title/end, closing portrait142 | Complete five-image inspection/atomic closeout; [reading/coverage](../01%20Sequential%20Readings/CORNERED_MOUSE_U05_DEEP_READING.md), freeze CM-U05-EXIT |
 | CM-U06 | Physical bundle sp0143–sp0204, `item/xhtml/p-0141.xhtml` / `item/image/i-0141.jpg` through `item/xhtml/p-0202.xhtml` / `item/image/i-0202.jpg`; frontispiece143, 59 narrative images144–202 with explicit end202, adjacent closing/intercomponent art203/204 | Complete 62-image inspection/atomic closeout; [reading/coverage](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md), freeze CM-U06-EXIT; title work complete, sequel not yet admitted |
-| CM-U07 | Announced 憂鬱バタフライ, printed start203; candidate source start sp0205, actual range/legibility checked at later admission | Unread; title-work architecture/model-readiness review and any warranted committed rule/test freeze must precede access |
+| CM-U07 | Announced 憂鬱バタフライ, printed start203; candidate source start sp0205, actual range/legibility checked at later admission | Unread; title-work review and two proposed U06 models/tests are frozen in the next transaction; admit only after that transaction commits |
 
 The ordered local index verifies 539 distinct image resources, decoded at 847 × 1200, with source-member digests and rtl positions. Its exact local location remains in the external handoff. U01–U06 verify usable Japanese narrative lettering and complete sp0011–sp0204 coverage: 194 bundle images, comprising 184 narrative-sequence images, four frontispieces and six adjacent closing illustrations/portraits. With contents/colophon, 196 distinct source images are fully inspected; twelve are separately non-narrative. No OCR was used. Earlier art/caption exposures are followed by full inspection with historical freezes preserved. No U07/future image is partially exposed. Exact image digests/end labels are retained by readings. The first title work is complete; sequel, separately admitted Hummingbird and remaining paratext/coverage are open. Resource decoding is not reading and bookmark content remains uninspected.
 
