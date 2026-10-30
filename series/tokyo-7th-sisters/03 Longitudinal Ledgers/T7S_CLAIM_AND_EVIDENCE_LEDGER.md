@@ -4,29 +4,29 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.109"
+version: "11.110"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 191 Intimacy primary documents across 26 family portfolios / T7S_B0182–T7S_B0207; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 198 Intimacy primary documents across 27 family portfolios / T7S_B0182–T7S_B0208; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-29
+last_updated: 2026-10-30
 ---
 
 # Tokyo 7th Sisters claim and evidence ledger
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 191 complete Intimacy primary documents across 26 family portfolios. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 198 complete Intimacy primary documents across 27 family portfolios. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 1342`; `revisions = 42`; `predictions = 7`; `AV_reviews = 154`; `literary_findings = 1342`. Claims are bounded to their stated B0001 through B0207 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 191 complete Intimacy primary documents across 26 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 1358`; `revisions = 42`; `predictions = 7`; `AV_reviews = 155`; `literary_findings = 1358`. Claims are bounded to their stated B0001 through B0208 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 198 complete Intimacy primary documents across 27 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -4005,3 +4005,32 @@ Owner [B0207](../02%20Readings/T7S_B0207_DEEP_READING.md), reading SHA256 `67870
 | `AV-0154` | All33Japanese/name records/40fullnative objects actually read global0-13/14-39 plus complete seven-title/schema projection.7titlecommands/33voice/231slots/33arrays7/fixed137_01_01onlyslot3; zero fades/slides/falseFrontTremble/trueSpeaker. No Layer/Filter/choice/extraending/photo-shutter or gesture field. F026_002_001-005/G026_004_001-005; BGM010A3+C5+F5+G5=18/005B5+D5+E5=15. One composite at104,62/contact separately viewed: shortdarkcurls/yellowclips/browneyes/redearrings, whiteshirt/rolledsleeves/looseredtie/bluegreencheckedskirt/orangeredpatternedbag. Fixedopenmouth not line-specific affect; no camera/manager/bathing action/literaldiamond.2PNGhashbound without separate view.4originals actuallyviewed:023brightcommercialstreetA/E10;031shopintersection/pinkarchB6;003litstage/drawncrowd/glowsticksD6;015orangesunsetC/F/G18. Drawn crowd not named fans/heard response or actual singing appraisal. No shown hometownfog/photoresult/folder/bathhousevisit/tour. Allvoice/music/SFX NOT_LISTENED/runtime NOT_OBSERVED; no readiness/maturity/era promotion. |2underlying PNGs bound without separate inspection. Fixed actor/crowd/settings certify no line-specific affect, technique, heard response or photographed result. No hearing/runtime/readiness/maturity/era promotion. |
 
 Totals:1342CL-B/42REV/7frozenPRED/154AV. All older bodies/revisions/predictions/serialized integrity/admin/storage history preserved.191Intimacy/26families;158Intimacy/503eligible stories plus supplemental/release remain;full2034active/incomplete,2053blocked.
+
+## B0208 Saori's safety and the reception of care
+
+Owner [B0208](../02%20Readings/T7S_B0208_DEEP_READING.md), reading SHA256 `fdac9a51baad468cbed2d6f3734589098a740f3cb182bc539f9acd288e504364`; source-lock 12.114, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All26physical and complete logical before-controls froze at published0c252388/B0207/12.113 before primary; successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Type / depth / confidence | Finding, exact warrant and retained limit |
+| --- | --- | --- |
+| `CL-B0208-001` | `PLACE_AND_CARE`; D1-D2; high with bounds | A:P1-3: a hospital-date apology coexists with reassurance from available treatment and a wish to shield the companion. Her experience supplies no hospital image, diagnosis or demonstrated transfer of misfortune. |
+| `CL-B0208-002` | `VALUE_OF_BODILY_SAFETY`; D1-D2; high with bounds | B:P2-4: torn costume guilt meets represented preference for her safety; quick repair does not exhaust the value another places on her body. No independent clinical/fault conclusion. |
+| `CL-B0208-003` | `MATERIAL_PROVISION`; D1-D2; high with bounds | B:P4-5: request for sturdier costume makes practical provision part of reception, without completed purchase, safety guarantee or a final cure. |
+| `CL-B0208-004` | `CATCH_AND_ACCEPTANCE`; D1-D2; high with bounds | C:P1-5: a represented catch counters expected relational cost and receives a brief posture request; physical catching supports acceptance imagery without actual pose animation. |
+| `CL-B0208-005` | `ATTRIBUTED_EXCLUSIVITY`; D1-D2; high with bounds | C:P5 versus retained B0176: manager-as-only-receiver is Saori's situated appraisal; earlier Ei/Shao care remains real in its own factual homes. No global erasure. |
+| `CL-B0208-006` | `FEAR_AFTER_QUIET`; D1-D2; high with bounds | D:P1-3: an accident-free week produces anticipated trouble rather than simple relief; no diagnosis, actual manager injury or verified balancing law. |
+| `CL-B0208-007` | `PROTECTIVE_PROPOSAL`; D1-D2; high with bounds | A:P3/D:P4: nearness and proposed cohabitation express protective desire, not an accomplished arrangement or proven sacrificial mechanism. |
+| `CL-B0208-008` | `HELP_RECEIVED_IN_HELPING`; D1-D2; high with bounds | E:P1-3: Saori's reported kitten rescue includes receiving a catch herself; vulnerability and helpful action coexist, with outcome/severity attributed rather than clinically certified. |
+| `CL-B0208-009` | `CONTACT_AND_EXPRESSED_LIMIT`; D1-D2; high with bounds | E:P4-5: manager's stroking is represented through correction, then an explicit enough/embarrassed response. No exact body site or unlimited consent is supplied. |
+| `CL-B0208-010` | `RESCUE_VERSUS_COUNTERFACTUAL`; D1-D2; high with bounds | F:P1-5: relief establishes a represented rescue before imagined shared confinement. The fantasy neither cancels rescue nor creates an actual manager fall. |
+| `CL-B0208-011` | `COMPANY_AND_DANGER`; D1-D2; high with bounds | D:P4/F:P4-5: shared living can be proposed as protection or imagined as happiness in a dangerous pit. Formal comparison establishes no chronology or safe deprivation. |
+| `CL-B0208-012` | `HEALED_REPORT_AND_DESIRE`; D1-D2; high with bounds | G:P1-4: reported recovery supports wanted swimming and bodily self-presentation; no independent clearance, actual pool visit, swimsuit rendering or manager assent. |
+| `CL-B0208-013` | `RESISTANT_CUMULATIVE_CARE`; D1-D2; high with bounds | Retained B0041/B0138/B0176 with current B/C/E: contingent possession consent, childgrief limits and distributed care survive the new affectionate addresses; no retrospective cure or revised factual body. |
+| `CL-B0208-014` | `SITUATED_BODILY_LANGUAGE`; D1-D2; high with bounds | B:P3/C:P4/G:P2: quick-recovery claims and an explicit major-injury/healed account remain local, not a timeless safe-work constitution or clinical diagnosis. |
+| `CL-B0208-015` | `NATIVE_STATIC_RECONCILIATION`; D1-D2; high with bounds | All38objects/31seven-slot arrays/217slots and viewed144composite/contact/4originals retain fixed clothing/bandages/pose. Dialogue actions and wishes gain no rescue/pet/pit/swimsuit animation from the stock resource. |
+| `CL-B0208-016` | `ORDINARY_LIFE_BOUNDARY`; D1-D2; high with bounds | Sevenwholecases/31JP/38native selectedstatic plus123actualprior rows support bounded interpretation only. No newREADY, heard voice/music/SFX, runtime, R3/monograph, full2034 release or2053 admission. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0155` | All38full native states/31Japanese records and complete title/schema projection actually read; one144_01_01 composite and separate contact plus four original backgrounds actually viewed. Receipt1fc0c6f5df8e224b8e8e770eb618f3597bcc0d83bda2928ccb80a69671714220/provenanceb3f8205684e33a90c3920240efa02a464e6b7d048d1c79a4d01834d5a130ee61/backgroundbindingsc51c1be3f473ac71aa040fce4b81a896ad0ca37d1460a1374d5cd09d0aecab07. All31fixedslot3actors/217slots;7titleflashwhite/se007/Auto40 versus dialogueAuto0. Body20fc6bc7ed22a88c88e06eb84b21be11f06fa69cfd7f19e0de37a95c939d9f1e/face0053bcd17594dda6eaad535480776a89040ccd77a5dec68e97d01666651bf7c0/offset120,74; composite399bb9344c170367460db6429a432ce79587937a515b68b27ff185193fdc93bf. BGM01013/00413/0055metadata only; no listening/runtime. |2underlying PNGs bound without separate inspection. Fixed actor/office/promenade/playground/settings certify no line-specific affect, injury chronology, heard response, catch/pet/pit/swimsuit rendering or medical state. No hearing/runtime/readiness/maturity/era promotion. |
+
+Totals:1358CL-B/42REV/7frozenPRED/155AV. All older bodies/revisions/predictions/serialized integrity/admin/storage history preserved.198Intimacy/27families;151Intimacy/496eligible stories plus supplemental/release remain;full2034active/incomplete,2053blocked.
