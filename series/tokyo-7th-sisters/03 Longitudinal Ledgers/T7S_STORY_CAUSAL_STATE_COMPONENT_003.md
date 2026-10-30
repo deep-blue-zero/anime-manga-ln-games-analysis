@@ -4,7 +4,7 @@ artifact_id: T7S_STORY_CAUSAL_STATE_COMPONENT_003
 artifact_type: story_causal_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
 canonical_logical_owner: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 storage_manifest: "T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0224; every row retains its original local horizon; no chronology, source or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0225; every row retains its original local horizon; no chronology, source or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -1346,4 +1346,25 @@ Owner [B0224](../02%20Readings/T7S_B0224_DEEP_READING.md), reading SHA256 `75f24
 | `EDGE-1553` | `EV-B0224-005 / EV-B0224-007` | FORMAL_COMPARISON: Receiving useful escort and offering foraging/meal experience permit reciprocal positions without fixed giver/receiver roles or completed exchange. |
 
 Totals:1425EV/25WORLD/47THREAD/1546 active EDGE, maximum1553 with seven intentional older gaps retained. No new WORLD/THREAD, cross-case dated causality or older-body rewrite.
+
+## B0225 Hina's self-presentation and qualified resolve
+
+Owner [B0225](../02%20Readings/T7S_B0225_DEEP_READING.md), reading SHA256 `239693a082e5341fcd05023ba83e535ee722ae4e5db88aa6c530eb148ba54c3f`; source-lock 12.132, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-E scripts/hashes/wholeP0-5 ranges. All32 committed before-controls/five SourceLock/seven coverage/four entity/three story components froze at publishedc6901e55/B0224/12.131 before primary. The administrative story split preserves all prior body bytes. Included currentmainb2e22ebd and sourcec690 exact audits completed-success; fresh execution witness retained. All20 prior Hina rows and complete READY0015 actually read before primary; its original Main4U/B0016 R2 horizon is unchanged. No menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0225-001` | A:401000331 P0-5 | Introduces name/drum role/popcorn, asks Ume/Emoco what the activity is, discovers message filming, asks advance warning for preparation, then writes a cry, reported fall/headbump, camera alarm and apology. | PUBLIC_SELF_PRESENTATION_WITH_MISSING_INFORMATION_AND_INTERRUPTED_REQUEST; no independent bandmate answer, camera-break proof, depicted fall, clinical diagnosis or accepted permanent production arrangement. |
+| `EV-B0225-002` | B:401000930 P0-5 | Presents assigned current fad/puffed-rice explanation and taste, invites others to try it, reports giving some to apparently pleased Ume/fullness remark, then asks why Ume is angry. | EXPLANATION_REPORTED_SHARED_PLEASURE_AND_UNEXPLAINED_REACTION; no independent Ume turn, verified food-production/nutrition claim or certain anger motive. |
+| `EV-B0225-003` | C:401001158 P0-5 | Complains of not becoming thinner, compares admired bandmates with her own small/plump self-image, reports practice and unchanged/increased weight plus lower-calorie snack choices, while written chewing recurs. | BODY_SELF_ASSESSMENT_UNRESOLVED_EXPLANATION_AND_SIMULTANEOUS_APPETITE; no objective weight, diagnosis, treatment, certain causal dietary account or moral judgment. |
+| `EV-B0225-004` | D:401001634 P0-5 | Reports difficulty in sports/running, Emoco's tortoise tease and early exhaustion, contrasts sustained drumming, then proposes and dismisses separate energy for exercise/music. | TASK_SPECIFIC_SELF_REPORT_WITH_EXPLICIT_COUNTEREXAMPLE_AND_WITHDRAWAL; no measured race, heard instrumental mastery, global incapacity or physiological proof. |
+| `EV-B0225-005` | E:401003197 P0-5 | Reports live associates' flower/sweet gifts, delight/excess and bandmate reprimand, wants not to trouble Ume/Emoco, promises restraint until next live, then qualifies it to as far as manageable. | REPORTED_GIFTS_CONCERN_AND_IMMEDIATELY_REVISED_PROMISE; no independent peer turn, certified justice of every reprimand, total sweets ban, achieved restraint/weight change or next-live outcome. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1554` | `EV-B0225-001 / EV-B0225-004` | FORMAL_COMPARISON: Drum-role introduction and claimed sustained drumming limit a total incompetence reading of filming/athletic difficulty. No measured technique, dated progression or one ability's automatic transfer. |
+| `EDGE-1555` | `EV-B0225-002 / EV-B0225-003` | FORMAL_COMPARISON: Shareable food pleasure coexists with concern about body image and an unresolved eating explanation; no proved nutrition cause, pathology or erasure of enjoyment. |
+| `EDGE-1556` | `EV-B0225-003 / EV-B0225-005` | FORMAL_COMPARISON: A bodily puzzle and a locally revised restraint promise are distinct registers; menu order does not establish that the complaint caused the promise, later success or failure. |
+| `EDGE-1557` | `EV-B0225-001 / EV-B0225-005` | FORMAL_COMPARISON: Asking for preparation and qualifying a promise give Hina ways to state conditions/feasibility; no accepted standing rule, full burden repair or permanent self-mastery. |
+
+Totals:1430EV/25WORLD/47THREAD/1550 active EDGE, maximum1557 with seven intentional older gaps retained. No new WORLD/THREAD, dated cross-case causality or older-body rewrite.
 <!-- T7S STORY CAUSAL STATE PAYLOAD END -->
