@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.28"
+version: "1.34"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,9 +12,9 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0203; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0209; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
-last_updated: 2026-10-29
+last_updated: 2026-10-30
 ---
 
 <!-- T7S ENTITY STATE PAYLOAD BEGIN -->
@@ -1870,4 +1870,237 @@ Owner [B0203](../02%20Readings/T7S_B0203_DEEP_READING.md), reading SHA256 `773d7
 | `REL-1133` | `tendoji-musubi → school peers, qualified` | Says game interest/skill stays private because of school character; hopes gradual plural recognition without identifying every recipient. C:P2-3/E:P1-4; no whole-school ban, friendlessness, universal discovery or imposed disclosure. |
 
 Totals:1298 KNOW/1133 REL.102IDENTITY/84CHAR/29UNIT/29READY retained. READY-0002 remains exact B0003 R2/MONOGRAPH_NOT_READY with no horizon upgrade. Source-named Haru memory and Susu-mediated report remain bounded; no new route or historical body/ID change.
+
+## B0204 Rishuri's own pattern and the company that widens it
+
+Owner [B0204](../02%20Readings/T7S_B0204_DEEP_READING.md), reading SHA256 `eccff1abf392cf4f6801998076b71e850e3c3e88c594e0d7e7dd1b831ac5ffdb`; source-lock 12.110, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published60ff7f89/B0203/12.109 before primary; successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1299` | Rishuri names sewing competence and limited cooking while offering miso soup. | A:P1-2; own domain-specific account, not universal domestic mastery/incapacity or invalidated prior care. |
+| `KNOW-1300` | Rishuri says soup is freshly made, contains eringi and received her best effort. | A:P1-3; own preparation/ingredient report, no independent process, completed delivery or taste certificate. |
+| `KNOW-1301` | Rishuri values manager's picnic presence and asks him to receive her gratitude. | A:P2-3; selected hospitality/request, no own manager reaction or standing serving obligation. |
+| `KNOW-1302` | Rishuri presents a flyer for a future drama-club play in school hall. | B:P1; announced occasion, no complete flyer image, school identity, actual staging or attendance. |
+| `KNOW-1303` | Rishuri reports commissioned costume design, values her own world in clothes and says members drew back a little. | B:P2-3; authorial appraisal/mediated reception, no whole-show production office, unanimous approval or complete rejection. |
+| `KNOW-1304` | Rishuri invites manager if free and offers special price with future admission duty. | B:P4; conditional plan, no exact amount, assumed discount/free entry, accepted invite or completed shift. |
+| `KNOW-1305` | Rishuri asks about blank-looking appearance and suggests craft focus/topic gaps may explain pace mismatch. | C:P1-2; own tentative account, no clinical condition, global incapacity or lack of care for friends. |
+| `KNOW-1306` | Rishuri takes up manager's suggestion to use usual thoughts beyond sewing as a topic. | C:P3; mediated advice through uptake, no complete independent manager turn or proven successful group conversation. |
+| `KNOW-1307` | Rishuri names mushrooms/everyday manager thoughts and supposes peers do the same. | C:P4-5; own thought explicit, peers' minds conjectured, no universal romantic certainty or shared actual conversation. |
+| `KNOW-1308` | Rishuri values distinctive Nanasta private fashion as learning. | D:P1; her appraisal, not a technical survey or every member's new own response. |
+| `KNOW-1309` | Rishuri names Seven Sisters/Nicole as astonishing fashion comparison and calls herself still limited. | D:P2-3; public exemplar/self-comparison, no pictured Nicole outfit, objective taste verdict or Nicole/Coney recognition in her knowledge. |
+| `KNOW-1310` | Rishuri asks about trusting her sense while gaining recognition, then encourages future zonorish legend with manager. | D:P4-5; uncertainty and prospective aspiration, no achieved fame, universal acceptance, complete plan or permanent confidence cure. |
+| `KNOW-1311` | Rishuri invites future hometown return and praises unnamed town/food/theater differences. | E:P1-2; own report/opportunity, no exact municipality, actual trip or manager assent. |
+| `KNOW-1312` | Rishuri recalls neighbor woman teaching sewing, wonders about health and another boyfriend request. | E:P3; reported local teacher/anticipated remark, no biological aunt, named master identity, verified health or actual current/past boyfriend. |
+| `KNOW-1313` | Rishuri proposes manager-as-boyfriend pretense if asked, requests coordination without strange improvisation. | E:P4-5; conditional role with limit, no performed deception, real partnership or blanket consent. |
+| `KNOW-1314` | Rishuri enjoys TANIMACHI walk and repeatedly notices household textiles/items. | F:P1-3; local material attention/appraisal, no purchase or clinical diagnosis. |
+| `KNOW-1315` | Rishuri asks where manager is and describes her easily shifting attention. | F:P3-4; brief source interruption/own description, no intentional abandonment, measured absence or global incapacity. |
+| `KNOW-1316` | Rishuri requests firm hand connection and remarks on manager hand warmth. | F:P5; dialogue represents local contact/reception beyond mere future wish, no viewed motion, temperature measure, settled romance or general restraint right. |
+| `KNOW-1317` | Rishuri thanks today's reported aquarium outing and newly notices tropical fish colors. | G:P1-2; own visit/reception report, not first-ever fish or analyst-viewed tank/species expertise. |
+| `KNOW-1318` | Rishuri wants to try those colors in patchwork as ideas arise. | G:P3; prospective experiment/own creative response, no finished garment, technical process or final design. |
+| `KNOW-1319` | Rishuri credits shared company with varied self-discovery and requests more places/opportunities. | G:P4; own attribution/open future, no sole manager authorship, complete self, actual next trip or inability to create alone. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1134` | `maezono-rishuri → player-protagonist` | Hosts/thanks, invites audience and future travel, seeks conversation support/style reassurance, proposes conditional social pretense with limits and initiates represented local hand connection. A-G; no perpetual service, universal fulfilled request, settled partnership or surrendered self-style. |
+| `REL-1135` | `player-protagonist → maezono-rishuri` | Advice appears through her uptake; picnic company/aquarium outing through her account and local hand warmth through represented address. A/C/F/G; no independent full interior, every request accepted, sole creative causation or new biological/romantic status. |
+| `REL-1136` | `maezono-rishuri → rokusaki-connie-presented, public Nicole reference only` | Seven Sisters/Nicole fashion functions as her astonishing exemplar and comparison for personal sense/recognition. D:P2-5; established literary route, no present Coney speech, technical taste verdict, endorsement or newly equal disclosure knowledge. |
+| `REL-1137` | `maezono-rishuri → Nanasta peers, distinct reports/appraisals` | Learns from private fashion, wonders at conversation pace and conjectures manager as shared topic. C/D; no peer-own new interior, all-roster agreement or completed social repair. |
+| `REL-1138` | `maezono-rishuri → school drama-club members, reported B-only role` | Reports requested costume work, values own expression and perceives hesitation. B:P1-4; role-local recipients, no new stable unit/person, unanimous reception, formal whole-show producer or completed performance. |
+
+Totals:1319 KNOW/1138 REL.102IDENTITY/84CHAR/29UNIT/29READY retained without a new route, individual Rishuri READY or R2 upgrade. Source-named Nicole is a public reference, teacher/drama-group roles remain local and hometown/future roles bounded; all prior bodies/IDs preserved.
+
+## B0205 Yumeno's looking, making and borrowed permission
+
+Owner [B0205](../02%20Readings/T7S_B0205_DEEP_READING.md), reading SHA256 `ef0a71e12526a87c43b82dfff92736599b156a78cad070644d4bf4c95f13d91e`; source-lock 12.111, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published5485f4ab/B0204/12.110 before primary; successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1320` | Yumeno explains gratitude through peer company and reports a recent shared bathing occasion. | A:P1-2; own account/erotic framing, no independent participant list, pictured bath or equivalent peer experience. |
+| `KNOW-1321` | The reader receives the apparent manager compliment through Yumeno's surprised uptake. | A:P3; represented response, not a separately supplied full manager turn or proved romantic intention. |
+| `KNOW-1322` | Yumeno limits her playful permission to a fantasy involving herself. | A:P3; no actual physical agreement, permission about others or transferable future entitlement. |
+| `KNOW-1323` | Yumeno reports figure-advice questions and explicitly discloses her listening pretext. | B:P1-2; admits self-serving use of concern; peers have no own account of informed acceptance. |
+| `KNOW-1324` | Yumeno answers the apparent old-man-inside remark as an already-familiar joke. | B:P3; no literal new age, gender identity, diagnosis or complete manager motive. |
+| `KNOW-1325` | Yumeno claims pursuit ensures stress relief/exercise/weight loss and pitches it to the manager. | B:P4-5; attributed comic benefits, no verified health result, completed chase or accepted invitation. |
+| `KNOW-1326` | Yumeno reports booklet shopping and different prices for Nanasta members' photographs. | C:P1-2; report of shop/market, no inspected list, exact price, sale or license terms. |
+| `KNOW-1327` | Yumeno rejects superiority/inferiority because she calls all Nanasta girls cute. | C:P3; own equal-admiration judgment, not all members' voices or a certified merchant's intended value hierarchy. |
+| `KNOW-1328` | Yumeno dismisses her own photo price through freely available mirror viewing. | C:P4; stated access distinction, not proof of low self-worth, actual zero price or public reproduction consent. |
+| `KNOW-1329` | Yumeno reports an idea block and a quality obligation toward the manga-club bulletin. | D:P1-2; local authorship standard, not completed manuscript/deadline/club constitution or literal burning. |
+| `KNOW-1330` | The manager's change-of-mood advice is available through Yumeno's uptake. | D:P3; no own manager specification of a particular peer interaction or knowing endorsement. |
+| `KNOW-1331` | Yumeno turns general advice into an asserted endorsement of her chosen future interaction. | D:P4; her appropriation and plan, not shown manager/peer assent or an executed encounter. |
+| `KNOW-1332` | Yumeno reports shopping with Rishuri/Ayumu, buying cloth and considering maid cosplay. | E:P1-2; past-outing account and prospective event, no actual three-person romance or completed costume. |
+| `KNOW-1333` | Yumeno assigns Rishuri sewing and says she requested Ayumu's maid-advisor help. | E:P3-4; her attribution/request; neither supplies an own acceptance, delivered work, service or certified expertise. |
+| `KNOW-1334` | Yumeno answers apparent reuse advice by treating Nanasta's maid outfit as Haru-specific. | E:P5; local claim/refusal, no independently verified wardrobe policy or general boundary competence. |
+| `KNOW-1335` | Yumeno reports rain and chooses quiet home reading as an occasional preference. | F:P1-3; not actual home/rain inspection, universal daily routine or permanent conduct change. |
+| `KNOW-1336` | Yumeno reads doubt in the manager's look and reports borrowing a book from Kazumi. | F:P2-3; uptake/loan report, no own Kazumi statement, exact title or inferred private orientation. |
+| `KNOW-1337` | Yumeno values the poignant depiction of forbidden love in a girls' boarding school and calls it ordinary reading. | F:P4-5; stated aesthetic response, not real biography, new primary-work admission or proof that previous pressure was harmless. |
+| `KNOW-1338` | Yumeno heard of Rena's meet, intended attendance and reports oversleeping after reading until dawn. | G:P1-2; missed-opportunity account, no measured sleep, clinical condition, exact date/result or identification with an earlier Rena meet. |
+| `KNOW-1339` | Yumeno reports that Kyoko and Honoka went to support Rena. | G:P4; offscreen attendance report, no own witness status or exhaustive participants' experience. |
+| `KNOW-1340` | Yumeno corrects appreciating to spectating while regretting the lost multi-person spectacle. | G:P3-5; local wording repair, no attended meet, changed motive, reciprocal permission or completed apology. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1139` | `sakaiya-yumeno → player-protagonist` | A-G: reports pleasure, accepts/responds to represented compliment/questions/joke, asserts generic advice as specific endorsement and defends leisure. Source preserves limited self-directed fantasy wording; no general contact license, settled romance or complete manager interior. |
+| `REL-1140` | `player-protagonist → sakaiya-yumeno` | A:P3/B:P3/C:P4/D:P3/E:P2,5/F:P2-5: compliment/joke/questions/advice/looks available through her uptake only; no separately supplied full reply or knowing approval of her chosen activity. |
+| `REL-1141` | `Yumeno → unnamed Nanasta peers (UNIT-0002 context)` | A/B/C: bath/company and advice questions are her reports; disclosed pretext/pursuit pitch and equal-cuteness judgment do not establish participants' shared frame, safety, informed permission or a new corporate consent policy. |
+| `REL-1142` | `sakaiya-yumeno → maezono-rishuri` | E:P1-3: reports shopping and assigns admired costume-making role. Existing craft route preserved; Rishuri has no own acceptance or completed garment here, and collaboration is not a romance. |
+| `REL-1143` | `sakaiya-yumeno → origasa-ayumu` | E:P1,4: reports shopping and requested maid-advisor role with admiring appraisal. No own Ayumu reply, completed instruction, actual service or certified adviser status. |
+| `REL-1144` | `sakaiya-yumeno → kasukabe-haru` | E:P5: refuses to wear an outfit she calls exclusively Haru's. Local wardrobe distinction, not independently established institutional rule or repaired conduct toward every peer. |
+| `REL-1145` | `sakaiya-yumeno → katsuragi-kazumi` | F:P2: reports a book loan and offers Kazumi as a possible corroborating person. No own Kazumi taste/recommendation/romance or new disclosure of private notes. |
+| `REL-1146` | `sakaiya-yumeno → araki-rena` | G:P1-5: intended attendance and body-focused spectator expectation become reported regret after absence. No meet result, completed support, mutual desire or exact link to earlier competition. |
+| `REL-1147` | `Yumeno → Kyoko/Honoka, separately established routes` | G:P4-5: reports their support attendance and imagines a missed chance to watch them with Rena. No actual co-attendance, unified private motive, permission for her gaze or new group identity. |
+
+Totals:1340 KNOW/1147 REL.102IDENTITY/84CHAR/29UNIT/29READY retained without a new route, individual Yumeno READY or R2 upgrade. Nine source-named identity/character pairs stay established; peers remain report-only where absent and the manga-club bulletin adds no institutional record. All prior bodies/IDs preserved.
+
+## B0206 Tasha's names for closeness and an unfinished future
+
+Owner [B0206](../02%20Readings/T7S_B0206_DEEP_READING.md), reading SHA256 `5f079d9cd71ff04c90b117e9ced85cc3f413c028540d762752ea8aad586c8533`; source-lock 12.112, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published6607135b/B0205/12.111 before primary; successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1341` | Tasha describes manager teaching as welcome and offers to teach a word from her country in return. | A:P1; gratitude and reciprocal contribution, not a certified lesson or named national origin. |
+| `KNOW-1342` | Tasha glosses ダラゴーイ as an important person and applies it to manager. | A:P2; exact speaker gloss/use, not independently verified vocabulary, grammatical gender or citizenship. |
+| `KNOW-1343` | Tasha asks for a Japanese counterpart when she becomes his dear person. | A:P3; future question distinguishes her assertion from unprovided manager reciprocity/promise. |
+| `KNOW-1344` | Tasha reports a successful job and staff praise. | B:P1; attributed performance appraisal, no shown staff turn, technical result or adult qualification. |
+| `KNOW-1345` | Tasha receives apparent praise, enjoys being stroked/patted and then insists she is a working lady. | B:P2-3; represented interaction/own category, no named touch site, visual gesture, adulthood or general contact license. |
+| `KNOW-1346` | Tasha proposes cake and a date consisting of park play. | B:P4-5; self-tried ladylike criteria and invitation, no accepted or completed outing. |
+| `KNOW-1347` | Tasha reports a growing-up essay and a conflict between anticipated return and enjoyable idol work. | C:P1-2; own expectations/wish, no final return or residence decision. |
+| `KNOW-1348` | Tasha attributes Japan affection/homeland importance to both parents. | C:P3; no separate parental speech, named country, exact family history or completed negotiation. |
+| `KNOW-1349` | Tasha reports writing a future life with manager, predicts father would allow it and reports teacher surprise. | C:P4-5; no actual parental/manager assent, known teacher reasoning, marriage, guardianship or later research foreclosure. |
+| `KNOW-1350` | Tasha reports studying Japan through period/ninja media and initially groups lord/master addresses as dear-person terms. | D:P1-2; situated media inference/sound preference, no universal historical-language claim. |
+| `KNOW-1351` | Tasha takes up an apparent correction and rejects master because manager means dear family to her. | D:P3-4; represented correction and own relational distinction, not abolished work authority or legal family. |
+| `KNOW-1352` | Tasha considers brother but chooses manager because she feels embarrassed. | D:P5; local naming choice, no new sibling identity or permanent ban on another address. |
+| `KNOW-1353` | Tasha reports father-introduced rakugo difficulty and prefers the manager's Coney-failure anecdote. | E:P1-2; own comprehension/appraisal, no performance heard, audited failure or new Coney turn. |
+| `KNOW-1354` | Tasha imagines manager as a popular storyteller and herself as his tea-carrying assistant. | E:P3-4; hypothetical role/confidence, no actual career, audience, apprenticeship or demonstrated task competence. |
+| `KNOW-1355` | Tasha withdraws the proposal after imagining lost playtime. | E:P5; local revision prompted by an anticipated cost, no real fame, accepted promise or universal career veto. |
+| `KNOW-1356` | Tasha values snow/footprints and contrasts remembered home with Tokyo's snow in her experience. | F:P1-2; own emphatic comparison, not meteorological fact, current snow scene or named nationality. |
+| `KNOW-1357` | Tasha likes present films/anime/novelty and analogizes new-place walks to traces in hearts. | F:P3-4; stated belonging and explicit metaphor, not independent access to others' memories. |
+| `KNOW-1358` | Tasha requests more new places and first steps with manager. | F:P5; companion preference, not permanent residence, universal incapacity or guaranteed future travel. |
+| `KNOW-1359` | Tasha links evening departure/goodbyes to loneliness and orange warmth to sadness. | G:P1-2; situated affect/meaning, not objective temperature or a clinical diagnosis. |
+| `KNOW-1360` | Tasha says manager currently goes back with her and wonders about always being together. | G:P3; represented current companionship versus future question, no supplied promise or completed route/destination. |
+| `KNOW-1361` | Tasha asks not to be let go and makes orange warmth depend on his company in her expression. | G:P4; no explicit held hand, restraint, guaranteed permanence or proof no one else can comfort her. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1148` | `tasha-romanovsky → player-protagonist` | A-G: reciprocal teaching, competence recognition, familial address, imagined shared future and requested companionship have her own explicit meanings. C essay/G always-together remain wishes; no blanket touch consent, settled romance, legal kinship or permanent availability. |
+| `REL-1149` | `player-protagonist → tasha-romanovsky` | B:P2/D:P3/G:P3: pleasing stroking/patting, address correction and present return company are represented through her uptake/account. Touch site unspecified; no separate complete reply, reciprocal romantic intent, guardian authority or future promise. |
+| `REL-1150` | `Tasha → unnamed parents` | C:P3-4/E:P1: attributes affection for Japan and homeland value to both, predicts father's permission and reports his rakugo introduction. No parental own turn, actual permission, precise family/nationality history or replaced family. |
+| `REL-1151` | `tasha-romanovsky → rokusaki-connie-presented` | E:P2: remembers amusement at the manager's Coney-failure anecdote. Mediated appraisal, no new own encounter, independently established failure or backdated change to later Nicole-Coney horizon. |
+
+Totals:1361 KNOW/1151 REL.102IDENTITY/84CHAR/29UNIT/29READY retained without a new route or R2 upgrade. Tasha READY0026 remains R2_STATE_BOUNDED at complete native MainEP5.0/endB0069 and MONOGRAPH_NOT_READY. Three source-named identity/character pairs stay established; unnamed parents/staff/teacher remain reported roles. All prior bodies/IDs preserved.
+
+## B0207 Jeda's effort and her ways of seeing
+
+Owner [B0207](../02%20Readings/T7S_B0207_DEEP_READING.md), reading SHA256 `67870ab51cba9e2aca6c0eba137e4941ff875b7622feafabf8f3be20d0f21c1c`; source-lock 12.113, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All26physical and complete logical before-controls froze at published6ff46a00/B0206/12.112 before primary; successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1362` | Jeda describes studying abroad in Japan as welcome through culture, food and friends. | A:P1; own account, no named homecountry, school, immigration status or independently counted friends. |
+| `KNOW-1363` | Jeda calls meeting manager a happiest event and a kind of fated encounter. | A:P2; qualified appraisal, not external predestination or a supplied reciprocal feeling. |
+| `KNOW-1364` | Jeda wishes manager would someday see home scenery and asks an easygoing response. | A:P3; invitation/qualification, not an itinerary, accepted promise, home abandonment or completed journey. |
+| `KNOW-1365` | Jeda proposes another shop and takes up apparent desire for rest. | B:P1-2; only her uptake and city-novelty account, no separately supplied reply, exact fatigue or next-shop completion. |
+| `KNOW-1366` | Jeda says familiar experiences become fresh through manager's different perspective. | B:P3-4; relational appraisal, not direct access to his experience or a universal effect. |
+| `KNOW-1367` | Jeda conditionally requests continued interest and offers enjoyment in return. | B:P5; reciprocal invitation, no confirmed romance or permanent entertainment duty. |
+| `KNOW-1368` | Jeda reports others praising her voice as beautiful/expansive/brilliant. | C:P1; attributed audience language, not performed listening, measured technique or complete public reception. |
+| `KNOW-1369` | Jeda describes the praised voice as inborn rather than effort-gained and sometimes finds the focus painful. | C:P2; self-classification/unease, not biological proof, absence of all practice or clinical diagnosis. |
+| `KNOW-1370` | Jeda wants acquired effort and shared work recognized and asks manager to teach/polish her. | C:P3-5; own achievement includes collaboration; metaphor/request not achieved technique or unlimited managerial control. |
+| `KNOW-1371` | Jeda believes some idol-loving visitors value her and admits pleasure while calling their choice unusual. | D:P1-2; her appraisal, no fan own turn, objective ranking or proof of low worth. |
+| `KNOW-1372` | Jeda says she should sing fully and learn lip-service for those fans. | D:P3; intention/learning need, no supplied example, completed skill or performance appraisal. |
+| `KNOW-1373` | Jeda asks about jealousy and says manager was her first fan/first approaching person. | D:P4-5; question and personal history account, not confirmed jealousy, reciprocal romance or a new global scouting sequence. |
+| `KNOW-1374` | Jeda remembers occasional heavy home-city fog and values Tokyo's vivid colours/distant views. | E:P1-2; situated contrast, not weather law, named country or exact hometown. |
+| `KNOW-1375` | Jeda values being able to find manager within that visible world. | E:P3; own pleasure/emphatic claim, not unlimited location information or a monitoring system. |
+| `KNOW-1376` | Jeda asks to be found/watched and conditionally imagines wandering away. | E:P4-5; request/possibility, no actual disappearance, resignation, diagnosis or accepted surveillance arrangement. |
+| `KNOW-1377` | Jeda asks for stillness and then appraises a newly represented photograph as a valued memory. | F:P1-2; textual local completion, no inspected photo, camera gesture/shutter cue or supplied manager assent. |
+| `KNOW-1378` | Jeda treats photos as durable treasures/evidence of presence and reports hundreds of varied selected moments. | F:P3-4; personal meaning/count account, not actual eternity, external folder inventory or every-image provenance. |
+| `KNOW-1379` | Jeda checks a proposed increase in manager photographs to avoid their dominating her folder. | F:P5; self-chosen restraint, no manager prohibition, actual refusal or blanket future image consent. |
+| `KNOW-1380` | Jeda appreciates shared/open-air bathing and reports Kajika taking her once to a local traditional bathhouse. | G:P1-2; own taste/visit report, no Kajika reply, named venue/date, pictured bath or complete attendee list. |
+| `KNOW-1381` | Jeda proposes a live/hot-spring tour and conditionally predicts heavy manager scheduling/negotiation work. | G:P3-4; imagined project/labour, no accepted assignment, bookings, completed tour or verified safe capacity. |
+| `KNOW-1382` | Jeda conditions backwashing on tour success and immediately calls the remark a joke. | G:P5; explicit self-reframing, no literal service promise, actual bathing/contact or fulfilled reward. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1152` | `jeda-diamond → player-protagonist` | A-G: values meeting and another perspective, requests development/recognition, names first-fan significance, asks reciprocal finding, frames a photograph and imagined travel. Own meanings, reports and requests; no settled romance, permanent availability or blanket image/contact agreement. |
+| `REL-1153` | `player-protagonist → jeda-diamond` | B:P1/D:P5/F:P1-2: apparent rest desire, first approach/fan role and inclusion in a represented photograph are available through her uptake/account. No separate new reply, confirmed jealousy, complete feelings, actual tour/lesson acceptance or universal monitoring promise. |
+| `REL-1154` | `jeda-diamond → harumi-kajika` | G:P2: reports a one-time introduction to a nearby traditional bathhouse and values the experience. Kajika has no own turn or new tour assent; no named venue/date, exhaustive relationship or completed future collaboration. |
+| `REL-1155` | `Jeda → unnamed appreciative fans (Nanasta UNIT0002 context)` | D:P1-3: believes some value her, feels pleased and intends full singing/learning in response. No individual fan identity/testimony, measured popularity, actual performance or new institution/consent policy. |
+
+Totals:1382KNOW/1155REL.102IDENTITY/84CHAR/29UNIT/29READY retained, no new route, individual Jeda READY or R2 upgrade. Existing source-named Jeda/Player/Kajika routes stay established; report-only fans create no individual or unit. All older bodies/IDs preserved.
+
+## B0208 Saori's safety and the reception of care
+
+Owner [B0208](../02%20Readings/T7S_B0208_DEEP_READING.md), reading SHA256 `fdac9a51baad468cbed2d6f3734589098a740f3cb182bc539f9acd288e504364`; source-lock 12.114, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All26physical and complete logical before-controls froze at published0c252388/B0207/12.113 before primary; successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1383` | Saori apologizes that the manager's opened schedule has become a hospital date. | A:P1; own framing, no stated injury mechanism, admission/treatment or independent manager reply. |
+| `KNOW-1384` | Saori presents hospitals as reassuring through available treatment and kind nurses. | A:P2; attributed experience/value, no named staff or general clinical guarantee. |
+| `KNOW-1385` | Saori tells manager she will receive all his misfortune nearby. | A:P3; promise/intent reaches him in address, not proof of a transfer mechanism or accomplished future protection. |
+| `KNOW-1386` | Saori reports a fall tore the costume chosen by manager and calls herself at fault. | B:P1-2; her account of loss/blame, not inspected garment or settled safety responsibility. |
+| `KNOW-1387` | Saori's questions take up manager's repeated preference for her safety over her quick-recovery rationale. | B:P3-4; represented response through uptake, no independently supplied words/voice or verified healing. |
+| `KNOW-1388` | Saori wants to show an energetic self and asks manager to choose sturdier clothing. | B:P4-5; wish/request, not completed selection or future injury prevention. |
+| `KNOW-1389` | Saori appreciates post-lesson accompaniment and predicts care for her may bring manager trouble. | C:P1-2; self-appraisal/nervousness, no home arrival, diagnosis or universal cost calculation. |
+| `KNOW-1390` | Saori's trip/non-fall discovery identifies manager's catch. | C:P3-4; represented intervention and gratitude beside her healing claim, no inspected pose or clinical assessment. |
+| `KNOW-1391` | Saori describes him as sole receiver of her troubles and asks a little longer in the posture. | C:P5; situated exclusivity and bounded local request, no erasure of Ei/Shao care or supplied acceptance. |
+| `KNOW-1392` | Saori reports no falls/falling objects this week and feels unusually restless. | D:P1-2; source-local interval/account, not exhaustive incident data or accumulated-risk law. |
+| `KNOW-1393` | Saori fears manager injury and names his misfortune her greatest calamity. | D:P3; future possibility/emotional valuation, not knowledge of an actual injury. |
+| `KNOW-1394` | Saori proposes living together temporarily so she can take troubles upon herself. | D:P4; proposal/intent, no manager assent, move, lease or proven protective efficacy. |
+| `KNOW-1395` | Saori reassures kitten and reports rescue from a tree while apologizing for manager involvement. | E:P1-2; local addressed fear/account, no pet name/owner, animal testimony or medical inspection. |
+| `KNOW-1396` | Saori reports own tree fall and credits manager catch for scratches-only outcome. | E:P3; reported occurrence and causal credit, no independent injury severity/clearance. |
+| `KNOW-1397` | Saori's invitation to stroke kitten becomes represented stroking of her; she says enough/embarrassed and strokes kitten. | E:P4-5; recipient response/limit, touched body site unspecified, no blanket or indefinite permission. |
+| `KNOW-1398` | Saori calls from a hole then expresses relief at being saved. | F:P1-2; represented completed local rescue, no supplied mechanics, pit image or named rescuer's own turn. |
+| `KNOW-1399` | Saori asks who dug hole and imagines lifetime there without manager passing. | F:P2-3; culprit unknown and counterfactual duration, not actual lifetime confinement. |
+| `KNOW-1400` | Saori imagines shared hole-life if manager fell and values his company as happiness. | F:P4-5; conditional/playful framing, no actual second fall, permanent dwelling or safety judgment. |
+| `KNOW-1401` | Saori declares excellent condition and proposes カノーラ遊園プール outing. | G:P1; own account/invitation, no manager acceptance or completed visit. |
+| `KNOW-1402` | Saori reports recent major injury healed, new swimsuit and skin suitable for exposure. | G:P2; her report, no independent clearance or exact link to other injuries. |
+| `KNOW-1403` | Saori invites manager to see her skin and offers all-of-Saori display. | G:P3-4; own initiative/presumed desire, not supplied manager preference, actual outfit change or unlimited consent. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1156` | `yamai-saori → player-protagonist` | A:P1-3/D:P1-4: values shared time and his safety, offers proximity as misfortune-reception and proposes temporary shared living from fear for him. Her intent is not a verified protective power or accepted household. Reciprocal REL-1157. |
+| `REL-1157` | `player-protagonist → yamai-saori` | B:P3-4/C:P3-4/E:P3: preference for her safety is represented through her questions; catches are represented/reported with her gratitude and attributed benefit. No independently voiced promise, sole-carer history, clinical competence or universal guarantee. Reciprocal REL-1156. |
+| `REL-1158` | `yamai-saori → player-protagonist` | C:P4-5/E:P4-5: receives kindness with pleasure, briefly requests caught posture, then limits a different stroking encounter and redirects to kitten. Local willingness and limit coexist; no transfer of assent across cases or touched-site invention. Reciprocal REL-1159. |
+| `REL-1159` | `player-protagonist → yamai-saori` | C:P3/E:P3-5: practical catching and represented stroking enter her account, including the limit she expresses. The source does not independently supply his thoughts, continued action after the limit or accepted pool/cohabitation plans. Reciprocal REL-1158. |
+
+Totals:1403KNOW/1159REL.102IDENTITY/84CHAR/29UNIT/29READY retained, no new route, individual Saori READY or R2 upgrade. Existing source-named Saori/Player routes stay established; unnamed nurses/kitten and native pool venue gain no invented individual or unit. All older bodies/IDs preserved.
+
+## B0209 Sumire's recognition and the pace of closeness
+
+Owner [B0209](../02%20Readings/T7S_B0209_DEEP_READING.md), reading SHA256 `48f22d41f7a6aa9c79449fa68ca5b046a65d2d1db79162fbef9ca3b65799bad4`; source-lock 12.115, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-I scripts/hashes/full primary locators. All26 physical and complete five-SourceLock/six-coverage/three-entity logical before-controls froze at published a616eb13/B0208/12.114 before primary. B0208's successful exact-head audit/publication cycle is separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1404` | Sumire says she baked/brought cookies and knows manager's preferred sweetness through experience. | A:P1-2; own preparation/knowledge claim and addressed taste exchange, no independently supplied tasting or endorsement. |
+| `KNOW-1405` | Sumire enjoys using eaters' feedback to adjust food and asks to bring miso soup to learn manager's salt preference. | A:P3-5; learning remains open; no soup delivery, omniscience or general nutrition credential. |
+| `KNOW-1406` | Sumire recalls initially treating idol work as enjoyable rather than fully serious beside peers. | B:P1; retrospective self-appraisal, no exhaustive peer-motive comparison. |
+| `KNOW-1407` | Sumire now finds work rewarding and earnest effort enjoyable, wondering whether her commitment stands beside theirs. | B:P2; own reappraisal, no measured effort or superior performance. |
+| `KNOW-1408` | Sumire asks manager to tell her if he thinks her brightest and conditionally promises important words then. | B:P3; judgment and disclosure both conditional; contents and manager's answer absent. |
+| `KNOW-1409` | Sumire recognizes manager's deep idol investment and calls it admirable with textual hesitation. | C:P1-2; her valuation, no independent manager motive/voice or settled romantic statement. |
+| `KNOW-1410` | Sumire recalls not grasping Seven Sisters' acclaim and now feels tentative understanding of their legendary status. | C:P3-4; own altered apprehension, no supplied technical/heard performance analysis or new group turn. |
+| `KNOW-1411` | Sumire understands manager's absorption, calls the group formidable and declares she will not lose. | C:P5; chosen rivalry, no objective comparison, replacement or revised dissolution history. |
+| `KNOW-1412` | Sumire reports a group sweets-shop visit credited to the friend she calls Jē and acknowledges that friend's fashionable-shop knowledge. | D:P1-2; literalジェー retained as a source-local friend reference; secure full identity not established, no independent recommendation scene, exact roster/shop or universal trend expertise. |
+| `KNOW-1413` | Sumire wants manager to taste a liked sweet but reports its limited availability has ended. | D:P3-4; attributed availability and intention, no independent sales audit or named product. |
+| `KNOW-1414` | Sumire reports trying to make that sweet and finally having one good result, presented as made for manager. | D:P4-5; iterative effort/offer, no exact recipe equivalence, tasting or supplied praise. |
+| `KNOW-1415` | Sumire notices widespread given-name use, jokingly protests permission and says it bothers her less than before. | E:P1-2; situated revision, no retroactive invalidation of earlier refusal or universal naming license. |
+| `KNOW-1416` | Sumire links that change to manager saying the name suits her, liking it and using it. | E:P3; her reported attribution; liking concerns the name, no independently voiced romantic confession. |
+| `KNOW-1417` | Sumire notices name/title asymmetry and considers using manager's personal name when ready. | E:P4-5; anticipated reciprocal address, no actual name supplied or readiness deadline. |
+| `KNOW-1418` | Sumire invites manager home if free, reports grandmother's wish to meet him and qualifies how often she talks about him. | F:P1-3; grandmother/frequency are Sumire's accounts; no named new person, direct grandmother turn or quantitative talk record. |
+| `KNOW-1419` | Sumire's surprised relief takes up manager's assent to the introduction invitation. | F:P4; represented local assent is not an unanswered invitation, but no independently supplied reply or completed meeting. |
+| `KNOW-1420` | Sumire admits wanting manager to meet her beloved grandmother, predicts approval and sets next-holiday expectation. | F:P4-5; desire/expectation/plan, no actual approval, visit or marriage arrangement. |
+| `KNOW-1421` | Sumire registers manager's mascot ignorance and cites school popularity and Shizuka/Sui knowledge. | G:P1-3; represented ignorance and reported local peer knowledge, no independent peer turns, universal trend or whole-job competence judgment. |
+| `KNOW-1422` | Sumire plans a7109Street limited-version purchase, invites manager along and frames company as his education. | G:P4-5; own existing intention/new invitation, no supplied assent, named mascot or completed shared purchase. |
+| `KNOW-1423` | Sumire finds summer mountain walking/heat/mosquitoes unappealing and strongly prefers sea. | H:P1-3,5; personal reasons/rhetorical exclusivity, no universal travel assessment or actual selection branch. |
+| `KNOW-1424` | Sumire reports buying a swimsuit and wants manager to see it. | H:P4-5; purchase claimed, viewing/trip wanted, no rendered swimsuit or manager assent. |
+| `KNOW-1425` | Sumire reports long acquaintance/varied work since scouting but little shared private time and some loneliness. | I:P1-2; situated self-account, no quantified schedule or proof of an established dating relationship. |
+| `KNOW-1426` | Sumire asks for a two-person nonwork outing and reacts to manager's represented travel suggestion as too early, proposing amusement park instead. | I:P3-4; actual expressed scale limit/alternative, no independently supplied words or accepted itinerary. |
+| `KNOW-1427` | Sumire conditionally considers a day-trip hot spring journey. | I:P5; deliberation not final assent, booking, completed journey, overnight stay or shared-bath permission. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1160` | `usuta-sumire → player-protagonist` | B:P1-3/C:P1-5/E:P1-5: wants recognition of effort/brilliance, respects his attachment while retaining rivalry, values his name-related reception and imagines reciprocal address at her own pace. No completed important speech or retrospective naming permission. Reciprocal REL-1161. |
+| `REL-1161` | `player-protagonist → usuta-sumire` | E:P3: fit/liking/use of her name are represented through Sumire's account. B requests rather than supplies his brightest judgment. No independent romantic confession, full inner-state model or universal permission. Reciprocal REL-1160. |
+| `REL-1162` | `usuta-sumire → player-protagonist` | A:P1-5/D:P3-5: learns a particular sweetness, seeks salt feedback and makes a scarce-sweet alternative for him. Recipient-oriented effort does not assign all domestic labor or certify exact preferences/recipe equivalence. Reciprocal REL-1163. |
+| `REL-1163` | `player-protagonist → usuta-sumire` | A/D: addressed as taster/recipient whose possible feedback matters; neither case supplies independently voiced praise, an inspected meal or completed miso-soup reception. Do not invent a reciprocal evaluation. Reciprocal REL-1162. |
+| `REL-1164` | `usuta-sumire → player-protagonist` | F/G/H/I: wants family introduction, shared shopping, swimsuit viewing and nonwork companionship; says initial travel scale is too early and only considers a day trip. Multiple initiatives preserve local conditions, not blanket romantic/physical assent. Reciprocal REL-1165. |
+| `REL-1165` | `player-protagonist → usuta-sumire` | F:P4/G:P2/I:P4: assent to the home invitation, mascot ignorance and travel suggestion are represented through uptake. Their different speech acts do not prove any completed visit/purchase/trip, agreed final itinerary or unrestricted access. Reciprocal REL-1164. |
+
+Totals:1427KNOW/1165REL.102IDENTITY/84CHAR/29UNIT/29READY retained. Sumire/Player/Sui/Shizuka use existing routes; reported peers, source-local Jē and grandmother gain no invented independent turn or identity. Seven Sisters remain an admired collective in Sumire's account, not a newly acting/reshaped unit. READY0006 stays B0007/201000609 R2_STATE_BOUNDED/MONOGRAPH_NOT_READY; no rewritten prior horizon or promotion. All older bodies/IDs preserved.
 <!-- T7S ENTITY STATE PAYLOAD END -->

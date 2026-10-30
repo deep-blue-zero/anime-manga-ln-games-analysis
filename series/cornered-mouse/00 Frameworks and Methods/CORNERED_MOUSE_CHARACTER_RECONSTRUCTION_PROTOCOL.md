@@ -5,12 +5,13 @@ artifact_type: character_reconstruction_protocol
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: active_provisional
 scope: "Future source-bounded behavioral rules, portability and separate validation"
-source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
+source_boundary: "Protocol established at bootstrap; current source enrollment and readiness are owned by the character ledger"
 canonical_home: series/cornered-mouse/00 Frameworks and Methods/CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md
 created: "2026-10-24"
+updated: "2026-10-30"
 review_status: OWNER_BOOTSTRAP_ARCHITECTURE_APPROVED
 supersedes: []
 superseded_by: []
@@ -21,7 +22,7 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 # Character reconstruction protocol
 
-This is a protocol, **not a character model or readiness certification**. No subject has been source-enrolled or assessed. Kyoichi and Imagase are bibliographically identified candidate subjects only; secondary subjects require their own independent evidence. The [character ledger](../03%20Longitudinal%20Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md) owns local readiness and gaps. The [method](CORNERED_MOUSE_ANALYTICAL_METHOD.md) owns observations; the [architecture](CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) owns promotion and literary integration.
+This is a protocol, **not a character model or readiness certification**. At bootstrap no subject had been source-enrolled or assessed; Kyoichi and Imagase were bibliographic candidates only. U01 now supplies source-enrolled character state and local evidence gaps, without proposing or validating a model. Secondary subjects require their own independent evidence. The [character ledger](../03%20Longitudinal%20Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md) owns local readiness and gaps. The [method](CORNERED_MOUSE_ANALYTICAL_METHOD.md) owns observations; the [architecture](CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) owns promotion and literary integration.
 
 The live [capability specification](../../../characters/RECONSTRUCTION_CAPABILITY_SPEC.md), [schema](../../../governance/schemas/character-reconstruction-capability.schema.json), and [maintenance policy](../../../governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md) govern any later global evaluation. This project neither assigns global tiers nor writes their registry. A literary monograph is not an operational behavioral model, and a full-series synthesis cannot certify prediction readiness.
 

@@ -5,24 +5,25 @@ artifact_type: synthesis_architecture
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.3"
+version: "0.5"
 status: canonical
 scope: "Responsibility ownership, synthesis dependencies, amendment and completion gates"
-source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
+source_boundary: "Owner-selected revised Japanese All-in-One; unit coverage and run state are recorded in the current entrypoint and source map"
 canonical_home: series/cornered-mouse/00 Frameworks and Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md
 created: "2026-10-24"
+updated: "2026-10-30"
 review_status: OWNER_BOOTSTRAP_ARCHITECTURE_APPROVED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 recommended_reasoning_class: DEEP_SYNTHESIS
-architecture_lifecycle: INITIAL
+architecture_lifecycle: EVOLVING
 ---
 
 # Synthesis and corpus architecture
 
-Architecture lifecycle: **INITIAL**, generation `CORNERED_MOUSE_BOOTSTRAP_V1`, owner-approved on 2026-10-24 for bootstrap integration. There is no predecessor architecture or substantive analysis. This current-eligible architectural contract pairs with the [method](CORNERED_MOUSE_ANALYTICAL_METHOD.md); the [source map](CORNERED_MOUSE_SOURCE_AND_SCOPE_MAP.md) owns exact sources and boundaries, and the [reconstruction protocol](CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md) owns operational rule validation. The single first-read surface is [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md).
+Architecture lifecycle: **EVOLVING**, generation `CORNERED_MOUSE_BOOTSTRAP_V1`. The INITIAL design was owner-approved on 2026-10-24; the 2026-10-30 first-component review retains its responsibilities after actual source evidence. There is no predecessor architecture; the U01 reading is the first substantive analysis. This current-eligible architectural contract pairs with the [method](CORNERED_MOUSE_ANALYTICAL_METHOD.md); the [source map](CORNERED_MOUSE_SOURCE_AND_SCOPE_MAP.md) owns exact sources and boundaries, and the [reconstruction protocol](CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md) owns operational rule validation. The single first-read surface is [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md).
 
 The [initiation policy](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [archive policy](../../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), [continuation policy](../../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) and [handoff contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md) remain governing. Architecture describes how evidence becomes arguments; it does not authorize narrative access or integration.
 
@@ -36,7 +37,7 @@ A completed source-unit transaction requires coverage/locator receipt, entering 
 
 ## Responsibility matrix
 
-All four day-one ledgers are initialized with complete schemas and **zero source-derived records**. Their distinct ownership is justified by repeated intended questions, without claiming those patterns have already been observed.
+At bootstrap all four day-one ledgers had complete schemas and zero source-derived records. U01 now supplies justified records in each home; the table retains the historical bootstrap allocation. The first-unit review below tests the allocation against actual evidence.
 
 | Dimension captured in a future reading | Canonical cumulative home | Downstream responsibility | Bootstrap state |
 |---|---|---|---|
@@ -95,7 +96,7 @@ These are responsibilities to review, not promised immediate document counts:
 
 Promote an independent specialist when substantial distinguishable evidence spans several units, it owns an explanatory duty unowned elsewhere, it requires sustained reconciliation/argument, and it serves a downstream use beyond repeating readings. A compact integrated study may discharge several responsibilities if ownership and retrieval remain explicit. Review every anticipated domain after source completion; record justified consolidation, deferral or exclusion.
 
-Character monographs and operational models have separate readiness gates. Kyoichi and Imagase are bibliographic candidates only. Other people earn independent work through their source evidence, not their assumed utility to the central relationship. No model, subject dossier, graded readiness or global character record is warranted now.
+Character monographs and operational models have separate readiness gates. U01 enrolls Kyoichi, Imagase, Chikako and the source-anonymous companion through actual evidence. Other people earn independent work through their source evidence, not their assumed utility to the central relationship. Subject-specific local gaps are recorded; no operational model, global grade or global character record is released by this first-unit closeout.
 
 ## State, claims and contradictions
 
@@ -143,4 +144,10 @@ The current map, source map and cumulative ledgers remain mutable by targeted ed
 
 This compact project uses the simplest adequate staged arrangement; it does not inherit long-series infrastructure merely for similarity. Reuse the live reasoning/capability policies rather than hard-code model names or infer unobserved settings. Future sessions verify transport, processing, actual Japanese image inspection and durable persistence independently. One mutable owner per file; compare base/returned/current versions before accepting transferred work. Handoffs include full artifacts, hashes, source/knowledge boundaries, permitted paths, unresolved required/optional evidence and next owner; the receiver separately checks integrity, drift and semantics.
 
-Apply handoff section 15's named-subject/reference check to introduction, a substantive middle section and exit/synthesis, extending across each major relationship when relevant. Preserve source-required anonymity and knowledge limits. Structural validation is necessary for publication and supplies no literary or owner approval. The owner approved the architecture and released the draft hold for merge preparation on 2026-10-24. The sequential lock remains CLOSED pending supplemental scope and separate source-admission authorization. Version 0.2 records architecture approval; version 0.3 records the owner-selected local working source and its locator key. The four-ledger responsibilities, dependencies and completion gates are unchanged.
+Apply handoff section 15's named-subject/reference check to introduction, a substantive middle section and exit/synthesis, extending across each major relationship when relevant. Preserve source-required anonymity and knowledge limits. Structural validation is necessary for publication and supplies no literary or owner approval. The owner approved the architecture and released the draft hold for merge preparation on 2026-10-24. The owner authorized continuous reading of the supplied All-in-One and completion of the required artifacts on 2026-10-29, with the missing Reboot story outside this run. The current entrypoint owns the live lock and queue, and the run admission record preserves the exact instruction and knowledge boundary. Version 0.2 records architecture approval, version 0.3 the local witness, and version 0.4 this authorized execution scope. The four-ledger responsibilities, dependencies and completion gates are unchanged. Version 0.5 records the first-component review and move to EVOLVING; it does not assert STABILIZED status or owner approval of the new analysis.
+
+## First-component review — 2026-10-30, CM-U01
+
+The complete [U01 reading](../01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md) tests the design at sp0011–sp0050. Report disclosure, mistaken marital expectations and unequal phone access justify the information/decision home. Their distinct consequences for permission, trust and relationship classification justify linked directional relationship records. Character self-accounts, counterexamples and secondary agency justify individual state. Six consequential claims and two prospective tests need preserved formulation history. Existing observation anchors retrieve page form and Japanese wording adequately; no fifth ledger or new framework is warranted after one unit.
+
+**Disposition:** PRESERVE all four responsibilities/dependencies, move INITIAL → EVOLVING, review again at the title/sequel boundary or earlier material discovery. No backfill is required: U01 closes all four homes transactionally. G1 is IN_PROGRESS (one of ten components); G2 later supplement remains deferred with Reboot outside this run; G3 unknown comparisons remain bounded; G4 is current through U01 but not corpus-reconciled; G5–G9 remain outstanding. These current dispositions supplement the historical initial-state gate table above. The reading's named-subject/reference audit covers all three evidenced dyads, preserving source-required anonymity. No synthesis/model promotion follows from this review.
