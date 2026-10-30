@@ -113,13 +113,15 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Analysis subject ID: `re-zero:felt@light-novel`
 - Series: `re-zero`
 - Continuity: `re-zero-main-light-novels`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Felt across the original Japanese main light novels V01–V20, built from targeted revisits of already-consumed V01, V02, V04–V06, V11–V13 and V16–V20; it covers the V01 discarded and surviving event-states (typed separately), the terminal V01 custody, V04 refusal and constrained acceptance of candidacy, the reported V05/V06 education relocation, the V16 ordinary candidate visit and Heinkel dispute, the reported V18 hostage episode, the V19–V20 direct resistance against Lye/Louis, and the V20 E021 postbattle debrief default. Reported phases are typed as reports, not direct Felt scenes. The horizon label does not assert an appearance in every volume. No V21 or later, EX, IF, web-novel, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
   - `volume-1-bounded`: LIGHT_NOVEL VOLUME: Character-specific analysis in the frozen Japanese main light-novel Volume 1 reading. V01-E1 through V01-E4 are distinct event-states within one continuity; the surviving endpoint is V01-E4. Discarded experiences remain evidence only for the relevant event/knower, not mutual remembered history. No later volume, web novel, IF route, supplement or adaptation is enrolled, and no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
+  - [`character-model` — Felt: V01–V20 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_FELT_V01_V20_CHARACTER_MODEL.md)
   - [`volume-1-individual-analysis` — Volume 1 bounded individual model and event-state analysis](../../series/re-zero/02%20Sequential%20Readings/REZERO_LN_V01_DEEP_READING.md)
 
 <a id="ferris"></a>
