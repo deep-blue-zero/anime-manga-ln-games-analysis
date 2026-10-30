@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0211; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0212; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -119,4 +119,55 @@ Owner [B0211](../02%20Readings/T7S_B0211_DEEP_READING.md), reading SHA256 `de7e0
 Existing CHAR-0020 gains present wanted recognition, explicit continuation desire, study choice, offered reciprocity, fish knowledge and remembered comfort. This is not retrospective revision of earlier unknowns. UNIT-0006 retains imagined succession versus existing work separately; UNIT-0002 gains Kajika family-like valuation, not a legal family/guardian role or new institution. No new CHAR/IDENTITY/UNIT/READY.
 
 Totals:1480KNOW/1185REL;102IDENTITY/84CHAR/29UNIT/29READY retained. All older bodies/IDs preserved. READY0011 stays B0011/end201001009 R2_STATE_BOUNDED/MONOGRAPH_NOT_READY; no acoustic/runtime or maturity upgrade.
+
+## B0212 Shinju's dependable company and chosen limits
+
+Owner [B0212](../02%20Readings/T7S_B0212_DEEP_READING.md), reading SHA256 `1234cfa0e1e95a98c7f6cd7a2bb545fe86d06e589db1753a5b34fd4259f59be5`; source-lock 12.118, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-I scripts/hashes/whole primary locators. All27 physical and complete five-SourceLock/six-coverage/four-entity logical before-controls froze at published3ac06876/B0211/12.117 before primary. B0211 exact-source audit41038037670 and complete automatic publication cycle passed separately; PR398 open at receipt. No menu chronology, performed hearing or runtime; already admitted2043SOL state stays in its separate interval.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1481` | Shinju says child-idol work still feels ill-fitting but meeting manager gave doing it meaning. | A:P1; positive relational value and continuing unease coexist, no permanent vocation. |
+| `KNOW-1482` | Shinju compares reliable older manager with sisters and possible brother. | A:P2; her perspective/hypothesis, no kinship, guardian transfer or full sister-care audit. |
+| `KNOW-1483` | Shinju disallows expecting older-brother address but permits possible consideration if strongly wanted. | A:P3; consideration not promise, actual demand or universal refusal of closeness. |
+| `KNOW-1484` | Shinju thanks represented hairstyle praise, credits local barber and plans to convey compliment. | B:P1-2; attribution, no independently inspected grooming act or future message delivered. |
+| `KNOW-1485` | Shinju says beauty salon not yet for her age but thinks Kajika should go. | B:P3; situated judgment, no universal age rule, exact age or actual Kajika visit. |
+| `KNOW-1486` | Shinju reports Sawara haircut when little and explicitly lacks personal memory. | B:P4; reported past, not own recollection or witnessed present action. |
+| `KNOW-1487` | Shinju reports album photographs and vow against Sawara holding scissors again. | B:P5; reported image-based judgment/boundary, no actual album view or general incompetence. |
+| `KNOW-1488` | Shinju performs bright self-named older-brother greeting. | C:P1; deliberately attempted register, not spontaneous permanent personality change. |
+| `KNOW-1489` | Shinju identifies effort, perceived lack of charm and wish to please manager. | C:P2-4; self-appraisal/intent, no objective fault or actual measured manager burden. |
+| `KNOW-1490` | Shinju takes up represented over-calculated critique and finds cuteness unexpectedly complex. | C:P5; local response, no final performance cure or A-to-C chronology. |
+| `KNOW-1491` | Shinju cites unmeasured acquaintance and proposes frank reciprocal improvement exchange. | D:P1; no exact duration or fully executed equal critique. |
+| `KNOW-1492` | Shinju values manager kindness while requesting firmer attitude and line with idols. | D:P2-3; explicit role-boundary wish, no implemented institutional policy. |
+| `KNOW-1493` | Shinju reacts to represented no-fault answer, suggests lack of charm/youthfulness and finds frank acceptance troublesome. | D:P4-5; received/repeated response and self-concerns, not narrator-certified flawlessness. |
+| `KNOW-1494` | Shinju wakes, says he could have woken her and asks about watching sleeping face. | E:P1-2; textual situation/uptake, no independently pictured nap or complete motive. |
+| `KNOW-1495` | Shinju startles at represented angel praise and explicitly refuses contemplated photo. | E:P3-4; no actual capture/distribution, future compliance or blanket access. |
+| `KNOW-1496` | Shinju anticipates difficulty reacting to more praise and caution about sleeping beside manager. | E:P5; situated awkwardness, no diagnosis/permanent fear or assurance all attention welcome. |
+| `KNOW-1497` | Shinju asks whether manager has considered Sawara or Kajika as partners. | F:P1; question, no answer, absent sisters preferences or new relationship fact. |
+| `KNOW-1498` | Shinju welcomes imagined manager family inclusion via a sister because she likes him, conditional on his inclination. | F:P2-3; own wish, no arranged marriage or authority over either sister. |
+| `KNOW-1499` | Shinju identifies represented own-bridegroom remark as joke and warns someone might report it. | F:P4; character warning, no real complaint or independently established legal conclusion. |
+| `KNOW-1500` | Shinju defers such remarks five-six years and suggests future joking could become consequential. | F:P5; open future qualification, no date/age calculation, adult commitment or source transition. |
+| `KNOW-1501` | Shinju can swim but reports poor form and unwanted notice around summer classes. | G:P1-2; own situated report, no inability/diagnosis or exact school grade/year. |
+| `KNOW-1502` | Shinju reports others fish-shop/swimming equation and rejects its implied capture method. | G:P3; her response, no observed full discussion or lack of trade knowledge. |
+| `KNOW-1503` | Shinju wants improvement, says sisters unreliable for it and asks manager if skilled to teach later. | G:P4-5; specific conditional request, no universal sister failure, manager ability proof or completed lesson. |
+| `KNOW-1504` | Shinju introduces father/two-child and pink mother frog goods, permitting implausible color for cuteness. | H:P1-2; anthropomorphic goods account, no actual parents or biological claim. |
+| `KNOW-1505` | Shinju reports finding frog handkerchief after three shops. | H:P3; reported ordinary investment, no independent purchase/prop inspection. |
+| `KNOW-1506` | Shinju calls herself ordinary elementary pupil who collects liked goods. | H:P4; direct child self-location, no exact age/grade or contradiction with intellectual interests. |
+| `KNOW-1507` | Shinju finds frogs soothing while not knowing why. | H:P5; bounded self-report, no settled psychological or Kerosuke explanation. |
+| `KNOW-1508` | Shinju reluctantly prefers dogs but does not dislike cats, citing bad memory. | I:P1-2; qualified preference, no total aversion/lasting essence. |
+| `KNOW-1509` | Shinju recalls Kajika envying friend cat and says fish shop precluded keeping one. | I:P3; attributed practical-family limit, no universal legal rule or dated pet record. |
+| `KNOW-1510` | Shinju recalls Sawara stating consolation intent and wearing cat ears/meowing all day. | I:P4; reported enactment/purpose, not universal successful comfort. |
+| `KNOW-1511` | Shinju recalls own cat-ear set prepared and voices exasperation/headache at memory. | I:P5; no shown wearing/coercion event, diagnosis or erasure of affectionate family care. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1186` | `harumi-shinju → player-protagonist` | A/C/D/E/F/G: values dependable company, experiments with pleasing address, requests frankness/professional line, refuses photo, qualifies family future and asks conditional help. Affection and boundaries coexist; no adult relationship/promise. Reciprocal REL-1187. |
+| `REL-1187` | `player-protagonist → harumi-shinju` | A-G: attention, praise, cute-register critique, no-fault answer, photo thought and bridegroom joke appear through Shinju uptake; no independent full motives, captured image, boundary compliance or swimming skill verified. Reciprocal REL-1186. |
+| `REL-1188` | `harumi-shinju → harumi-sawara` | A/B/F/G/I: assesses reliability locally, reports haircut/photo-based scissors veto, imagines possible family inclusion and remembers cat-ear consolation with unwanted own set. No universal incapacity, marriage authority or proven forced wearing. Reciprocal REL-1189. |
+| `REL-1189` | `harumi-sawara → harumi-shinju` | B/I: childhood grooming and prepared cat ears are Shinju-attributed actions; own turns/motives beyond stated consolation absent. Existing care and earlier wardrobe/privacy limits remain, no retrospective permission repair. Reciprocal REL-1188. |
+| `REL-1190` | `harumi-shinju → harumi-kajika` | B/F/G/I: salon-age opinion, conditional imagined marriage route, specific swimming doubt and remembered pet envy stay distinct from Kajika own preferences. No chosen spouse/assigned future or necessary shared response to comfort. Reciprocal REL-1191. |
+| `REL-1191` | `harumi-kajika → harumi-shinju` | I: appears through Shinju account of pet envy and family response; no current independent reply, marriage assent, swim-skill test or endorsement of Shinju costume participation. B0211 values comfort from own perspective, not one mandatory feeling. Reciprocal REL-1190. |
+
+Existing CHAR-0021 gains these first-person preferences, register experiment, explicit limits and conditional help request within independent2034-side occurrences. UNIT-0006 retains situated family/shop narratives without actual marriage/role assignment or pet policy; UNIT-0002 gains a requested manager-idol line, not an already implemented procedure. Already admitted2043CHAR-0021/SOL state remains in its own interval. No new CHAR/IDENTITY/UNIT/READY.
+
+Totals:1511KNOW/1191REL;102IDENTITY/84CHAR/29UNIT/29READY retained. All older bodies/IDs preserved. READY0012 staysB0011/end201001009/R2_STATE_BOUNDED/MONOGRAPH_NOT_READY; no performed voice/runtime, stage or maturity upgrade.
 <!-- T7S ENTITY STATE PAYLOAD END -->
