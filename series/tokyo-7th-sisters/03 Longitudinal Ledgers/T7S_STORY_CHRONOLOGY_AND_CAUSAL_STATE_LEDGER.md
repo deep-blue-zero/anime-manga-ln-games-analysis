@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.110"
+version: "11.115"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 207 Intimacy primary documents across 28 family portfolios / T7S_B0182–T7S_B0209; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 248 Intimacy primary documents across 33 family portfolios / T7S_B0182–T7S_B0214; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1307`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1446`; `last_closed_block = T7S_B0209`. The admitted horizon contains 722 primary documents: 235 Main, 280 i-n-g and 207 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 207 Intimacy documents across 28 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1348`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1479`; `last_closed_block = T7S_B0214`. The admitted horizon contains 763 primary documents: 235 Main, 280 i-n-g and 248 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 248 Intimacy documents across 33 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4358,3 +4358,137 @@ Owner [B0209](../02%20Readings/T7S_B0209_DEEP_READING.md), reading SHA256 `48f22
 | `EDGE-1453` | `EV-B0209-002 / EV-B0209-009` | FORMAL_COMPARISON: professional investment does not exhaust desired recognition/private companionship; no completed confession, dating status or causal chronology. |
 
 Totals:1307EV/25WORLD/47THREAD/1446activeEDGE, maximum1453 with seven intentional earlier gaps retained. Nine whole factual homes; no new WORLD/THREAD or older body/ID/chronology change.
+
+## B0210 Sawara's older-sister role and wanted company
+
+Owner [B0210](../02%20Readings/T7S_B0210_DEEP_READING.md), reading SHA256 `86bff8fabac69a7b17b1d04eb661a70ae4e90ec2c003716c2617b0ef62242e65`; source-lock 12.116, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-I scripts/hashes/whole primary locators. All26 physical and complete five-SourceLock/six-coverage/three-entity logical before-controls froze at published3bc2504f/B0209/12.115 before primary. B0209 source audit41022548398 and completed automatic cycle/PR397 merge are separately verified. No menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0210-001` | A:401000214 P0-3 | Invites manager home for a feast, admits wanting to introduce father, attributes kindness/fish teaching to him and escalates to shop succession/three adopted-son-in-law positions. | REPORTED_FAMILY_ROLE_AND_ENLARGED_INVITATION; no actual visit, lesson, job, inheritance, family/sister assent or marriage. |
+| `EV-B0210-002` | B:401000217 P0-5 | Quizzes manager about herself, supplies cream-puff/camera-hobby/hedged direction-weakness answers and asks for reciprocal disclosure. | SELF_DISCLOSURE_AND_WANTED_RECIPROCITY; no actual quiz score, proved manager ignorance or supplied personal answers. |
+| `EV-B0210-003` | C:401000566 P0-5 | Reports good Nanasta relations yet insufficient consultation as elder, quotes Shii's retort, asks advice and offers comprehensive help. | SITUATED_ROLE_DISSATISFACTION_AND_ADVICE_REQUEST; no deletion of past reliance or proof of universal competence/absence of trust. |
+| `EV-B0210-004` | D:401000658 P0-4 | Praises manager's eye for idols/condition, offers fish-grading instruction and jokes about permanent fish-shop employment. | ATTRIBUTED_PRAISE_AND_PROPOSED_LESSON; no objective beauty/health audit, completed lesson or accepted job. |
+| `EV-B0210-005` | E:401000722 P0-5 | Awards manager high husband points, describes family acceptability, admits just deciding the highest-compliment claim and includes candidate willingness. | SELF_AUTHORED_RANKING_AND_STATED_WILLINGNESS_CRITERION; no independently authorized family metric, sister assent or manager romantic choice. |
+| `EV-B0210-006` | F:401000786 P0-5 | Reports Kajika declining a nightwear loan, describes impulse purchase without an audience, offers optional future viewing and reports own sleep habit/Suu conversation. | REPORTED_LOAN_RECEPTION_AND_WANTED_SELF_PRESENTATION; no rendered garment/nudity, actual viewing, shared sleep or Susu-own practice. |
+| `EV-B0210-007` | G:401000842 P0-5 | Invites hot-spring company, jokingly expands toward mixed-bath/two-person travel, specifies local day trip and wishes for an inn someday. | QUALIFIED_FLIRTATION_AND_BOUNDED_PRESENT_INVITATION; no acceptance, booking, bath permission, overnight agreement or completed trip. |
+| `EV-B0210-008` | H:401000994 P0-5 | Enjoys office company while sisters are at school, imagines Nanasta work after university graduation and acknowledges imaginary older-sister-chief post. | PRESENT_COMPANY_AND_CONDITIONAL_FUTURE_ROLE; no permanent idleness, verified age/degree/enrollment, actual hire or new department. |
+| `EV-B0210-009` | I:401001242 P0-5 | Plays with fish/sister names, corrects Shinju/jellyfish categories, admires drifting jellyfish but avoids sting and asks about Shii's comparison. | WORDPLAY_REPORTED_COMPARISON_AND_OPEN_JUDGMENT; no actual sting/swim, romantic selection or settled Shinju intention. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1454` | `EV-B0210-001 / EV-B0210-004` | FORMAL_COMPARISON: Family visit and fish lesson extend toward vocational/domestic belonging; no single recruitment campaign or before/after. |
+| `EDGE-1455` | `EV-B0210-001 / EV-B0210-005` | FORMAL_COMPARISON: Adopted-son-in-law joke and husband-point play borrow family authority; neither supplies absent relatives' assent. |
+| `EDGE-1456` | `EV-B0210-002 / EV-B0210-003` | FORMAL_COMPARISON: Self-disclosure and asking advice expose wanted reciprocity within the elder/adviser role; no objective quiz failure or total absence of reliance. |
+| `EDGE-1457` | `EV-B0210-003 / EV-B0210-008` | FORMAL_COMPARISON: Wanted consultation differs from enjoyed office company; no fixed employment role or causal sequence. |
+| `EDGE-1458` | `EV-B0210-006 / EV-B0210-007` | FORMAL_COMPARISON: Optional future display and explicitly day-trip company retain distinct local scopes; no transferred physical permission. |
+| `EDGE-1459` | `EV-B0210-003 / EV-B0210-009` | FORMAL_COMPARISON: Dependable-helper aspiration and admired free drift provide a contrast, not a timeless diagnosis or Shinju-intent verdict. |
+| `EDGE-1460` | `EV-B0210-005 / EV-B0210-007` | FORMAL_COMPARISON: Candidate willingness and present day-trip limit are actually stated constraints; neither retroactively repairs older unilateral acts. |
+
+Totals:1316EV/25WORLD/47THREAD/1453activeEDGE, maximum1460 with seven intentional earlier gaps retained. Nine whole factual homes; no new WORLD/THREAD or prior body/ID/chronology change.
+
+## B0211 Kajika's ordinary self and wanted recognition
+
+Owner [B0211](../02%20Readings/T7S_B0211_DEEP_READING.md), reading SHA256 `de7e0aaae7a2f12bb09bc7699f7a48b140f2c31276b96d0fda555466fcc29646`; source-lock 12.117, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-I scripts/hashes/whole primary locators. All27 physical and complete five-SourceLock/six-coverage/four-entity logical before-controls froze at publishedcae38d8b/B0210/12.116 before primary. B0210 source audit41032239388 and complete automatic publication cycle passed separately; PR398 open at cycle receipt. No menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0211-001` | A:401000224 P0-3 | Calls sisters beautiful/cute and herself ordinary, says manager may be first to look properly at her alone, acknowledges work and tentatively hopes for more. | SITUATED_COMPARISON_AND_WANTED_PERSONAL_RECOGNITION; no objective worth/rank, exhaustive earlier neglect, supplied manager answer or settled romance. |
+| `EV-B0211-002` | B:401000452 P0-5 | Recalls intended shared-shop future, imagines sister/spouse and accountant roles, worries no own role and questions represented shop-face suggestion despite actual idol work. | IMAGINED_FUTURE_AND_UNSETTLED_SELF_CONTRIBUTION; no actual marriage/succession, agreed job assignment or proven present uselessness. |
+| `EV-B0211-003` | C:401000622 P0-5 | Feels little idol-like change despite represented elapsed time/friend reports, values fans/staff happiness and explicitly wants to continue, especially prizing manager happiness. | SELF_APPRAISAL_AND_PRESENT_RELATIONAL_MOTIVE; no numerical duration, objective growth failure, independently supplied manager mind or lifelong commitment. |
+| `EV-B0211-004` | D:401000630 P0-5 | Values Nanasta encounters, likens named peers to younger/older sisters and same-age company to family, tentatively calls manager possible older brother. | PERSONAL_FAMILY_METAPHOR; no biology/guardianship, named peers own assent, new unit or forced romantic/sibling resolution across independent cases. |
+| `EV-B0211-005` | E:401000706 P0-5 | Thanks manager for study help, admires solutions, reports Sawara avoiding questions/life advice and chooses to study because she doubts coping similarly. | RECEIVED_ASSISTANCE_REPORTED_ADVICE_AND_CHOSEN_STUDY; no exact age/year/exam, verified degree, Sawara record or proved lifelong incapacity. |
+| `EV-B0211-006` | F:401000846 P0-4 | Offers tickets for shoulder tapping/massage/cleaning/cooking/general help to return care, with no expiration. | SELF_INITIATED_GIFT_AND_WANTED_RECIPROCITY; no supplied acceptance, actual redemption, quantified debt, contract or unrestricted future access. |
+| `EV-B0211-007` | G:401000998 P0-5 | Insists on overcoming raw-fish discomfort despite represented reassurance, compares Susu, tries heard mayonnaise advice and reports only mayonnaise taste/disappointment. | SELF_PRESSURE_REPORTED_ATTEMPT_AND_TASTE; no diagnosis/lasting cure, independent meal inspection, verified nationality or Susu own judgment. |
+| `EV-B0211-008` | H:401001170 P0-5 | Values seasonal food, reports recommending fatty seasonal fish at shop and asks why customers know less about fish seasons than familiar fruits. | REPORTED_PRACTICAL_KNOWLEDGE_AND_CUSTOMER_PERSPECTIVE; no exact season/date, measured population survey or general customer incompetence. |
+| `EV-B0211-009` | I:401001234 P0-5 | Points out cat, recalls pet wish constrained by fish shop and sisters comfort, values family and Shinju cuteness. | PRESENT_ATTENTION_REPORTED_COMFORT_AND_REFLECTION; no pet acquisition, rendered live cat, ownership of sister or permanent absence of loneliness. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1461` | `EV-B0211-001 / EV-B0211-002` | FORMAL_COMPARISON: Self-comparison makes wanted personal notice and imagined contribution difficult to name; no objective worth deficit or causal sequence. |
+| `EDGE-1462` | `EV-B0211-002 / EV-B0211-008` | FORMAL_COMPARISON: Future role uncertainty coexists with actual reported shop recommendations; no accepted appointment or solved succession. |
+| `EDGE-1463` | `EV-B0211-003 / EV-B0211-006` | FORMAL_COMPARISON: Joy at others happiness and returning care are reciprocal initiatives; no audited debt or compulsory service. |
+| `EDGE-1464` | `EV-B0211-004 / EV-B0211-009` | FORMAL_COMPARISON: Enlarged Nanasta family and remembered sister comfort remain different scopes of belonging; no new legal relation or unrestricted authority. |
+| `EDGE-1465` | `EV-B0211-005 / EV-B0211-007` | FORMAL_COMPARISON: Study choice and sashimi effort each respond to a self-comparison; no common result, universal incapacity or before/after. |
+| `EDGE-1466` | `EV-B0211-007 / EV-B0211-008` | FORMAL_COMPARISON: Personal raw-fish discomfort does not erase useful fish-shop knowledge; no technical certification or chronological cure. |
+| `EDGE-1467` | `EV-B0211-001 / EV-B0211-004` | FORMAL_COMPARISON: Hoped-for attention beyond work and tentative brother address retain distinct conditional frames; no compulsory romantic/sibling resolution. |
+
+Totals:1325EV/25WORLD/47THREAD/1460activeEDGE, maximum1467 with seven intentional earlier gaps retained. No new WORLD/THREAD or older body/ID/chronology change.
+
+## B0212 Shinju's dependable company and chosen limits
+
+Owner [B0212](../02%20Readings/T7S_B0212_DEEP_READING.md), reading SHA256 `1234cfa0e1e95a98c7f6cd7a2bb545fe86d06e589db1753a5b34fd4259f59be5`; source-lock 12.118, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-I scripts/hashes/whole primary locators. All27 physical and complete five-SourceLock/six-coverage/four-entity logical before-controls froze at published3ac06876/B0211/12.117 before primary. B0211 exact-source audit41038037670 and complete automatic publication cycle passed separately; PR398 open at receipt. No menu chronology, performed hearing or runtime; already admitted2043SOL state stays in its separate interval.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0212-001` | A:401000231 P0-3 | Values meeting reliable manager despite continuing child-idol unease, likens him to possible brother and qualifies whether to consider familiar address. | WANTED_RELIABILITY_WITH_QUALIFIED_ADDRESS; no kinship, categorical idol vocation, actual demand or promised address. |
+| `EV-B0212-002` | B:401000424 P0-5 | Thanks hairstyle praise, credits local barber, gives salon-age view and reports unremembered Sawara haircut/photos that motivated scissors veto. | ATTRIBUTED_GROOMING_HISTORY_AND_PRESENT_BOUNDARY; no actual album inspection, universal salon-age rule or sisterly incompetence verdict. |
+| `EV-B0212-003` | C:401000504 P0-5 | Performs deliberately cute older-brother greeting to please manager, explains effort/self-criticism and learns from represented over-calculated feedback. | CHOSEN_REGISTER_EXPERIMENT; no spontaneous personality replacement, objective charmlessness or fulfillment of A by menu order. |
+| `EV-B0212-004` | D:401000642 P0-5 | Proposes mutual criticism, values kindness but requests firmer idol boundary, asks own faults and reacts to represented no-fault reply. | RECIPROCAL_APPRAISAL_AND_ROLE_BOUNDARY; no objective flawlessness, implemented procedure or criticism reduced to flirtation. |
+| `EV-B0212-005` | E:401000710 P0-5 | Wakes, reacts to being watched/angel praise, refuses contemplated photograph and anticipates awkwardness about napping nearby. | ATTENTION_AND_EXPLICIT_PHOTO_LIMIT; no captured/circulated image, actual compliance or medical diagnosis. |
+| `EV-B0212-006` | F:401000850 P0-5 | Asks manager interest in sisters, welcomes conditional family inclusion, qualifies own bridegroom joke and defers remarks five-six years with future ambiguity. | AFFECTION_PRESENT_LIMIT_AND_OPEN_FUTURE; no marriage/absent sisters consent, legal finding, adult partnership or future-source admission. |
+| `EV-B0212-007` | G:401001014 P0-5 | Reports ability to swim but poor form/unwanted attention, rejects fish-trade skill equation and asks conditional manager instruction. | SKILL_LIMIT_AND_SPECIFIC_HELP_REQUEST; no verified skill judgment, manager credential or completed lesson. |
+| `EV-B0212-008` | H:401001246 P0-5 | Introduces frog-family goods, reports three-shop handkerchief search, affirms elementary-pupil collecting and unexplained frog comfort. | CHILD_PREFERENCE_AND_LIMITED_SELF_EXPLANATION; no biological/parental facts, depicted specific goods or Kerosuke corroboration. |
+| `EV-B0212-009` | I:401001506 P0-5 | Qualifies dog preference, recalls Kajika pet envy/shop constraint and Sawara cat-ear consolation with own set prepared, expresses exasperation. | DIFFERENT_COSTS_OF_FAMILY_CARE; no cat hatred, actual Shinju costume wearing, medical diagnosis or permanent family verdict. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1468` | `EV-B0212-001 / EV-B0212-004` | FORMAL_COMPARISON: Valued reliability and explicit role boundary coexist; no causal sequence or rejection of all kindness. |
+| `EDGE-1469` | `EV-B0212-001 / EV-B0212-003` | FORMAL_COMPARISON: Qualified familiar address and deliberately cute greeting are locally different experiments; no menu-derived promise fulfillment. |
+| `EDGE-1470` | `EV-B0212-002 / EV-B0212-007` | FORMAL_COMPARISON: Grooming veto and conditional swimming help distinguish specific capacities from universal family trust/failure. |
+| `EDGE-1471` | `EV-B0212-003 / EV-B0212-008` | FORMAL_COMPARISON: Performed cuteness and ordinary collecting retain child participation in different forms; no recovered authentic-self cure. |
+| `EDGE-1472` | `EV-B0212-004 / EV-B0212-005` | FORMAL_COMPARISON: Request for a line and photo refusal name concrete limits inside wanted attention; no already effective safeguarding procedure. |
+| `EDGE-1473` | `EV-B0212-001 / EV-B0212-006` | FORMAL_COMPARISON: Brother-like reliability and possible family inclusion remain conditional metaphors/speculation, not legal kinship or settled romance. |
+| `EDGE-1474` | `EV-B0212-008 / EV-B0212-009` | FORMAL_COMPARISON: Chosen frog comfort and recalled cat-ear exhaustion distinguish preferences and recipients of care; no pet ownership or actual forced costume. |
+
+Totals:1334EV/25WORLD/47THREAD/1467activeEDGE, maximum1474 with seven intentional earlier gaps retained. No new WORLD/THREAD or older body/ID/chronology change.
+
+## B0213 Monaka's wanted work and unevenly received care
+
+Owner [B0213](../02%20Readings/T7S_B0213_DEEP_READING.md), reading SHA256 `ca36f5c04fbe5f79e598c8024f0ca65103874c479f317ed9822e0bb0872d2a5f`; source-lock 12.119, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary locators. All27 physical and complete five-SourceLock/six-coverage/four-entity logical before-controls froze at published39be710a/B0212/12.118 before primary. B0212 exact-source audit41043385373 and complete automatic publication cycle passed; PR398 open at receipt. No menu chronology, performed hearing or runtime. All61 prior Monaka rows read; complete READY scan found no prior Monaka decision, absence preserved.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0213-001` | A:401000238 P0-3 | Asks manager about rest, applies sleeping-growth saying to early bedtime for idol growth yet admits lateness, proposes wake-up/domestic cooking tease. | REPORTED_PLAN_CONTINUING_DIFFICULTY_AND_PLAYFUL_COMPANY; no clinical sleep claim, improved punctuality, cohabitation or accepted duty. |
+| `EV-B0213-002` | B:401000586 P0-4 | Recalls unsatisfactory teacher answer/weak study, values enjoyable idol work, peers, fans and manager care as enough, dismisses study locally. | SITUATED_SUFFICIENCY_AND_SELF_JUSTIFICATION; no education verdict, full school record, permanent nonambition or new enrollment decision. |
+| `EV-B0213-003` | C:401000814 P0-5 | Reports helping Harumi 魚晴 during shop-side father's cold/crisis, admits change/fish-name errors, values Sawara praise and Nanasta work connections. | ATTRIBUTED_HELP_FALLIBILITY_AND_VALUED_ENERGY; no new father identity, clinic/pay/staffing audit, flawless competence or heard voice. |
+| `EV-B0213-004` | D:401000962 P0-4 | Performs freeter rally then frames it as joke-unit idea discussed with Matsuri, praises older peer's childlike approachability and questions own wording. | HYPOTHETICAL_GAG_AND_INTENDED_PRAISE; no operational UNIT, contract, actual Matsuri hurt or independent reply. |
+| `EV-B0213-005` | E:401001118 P0-5 | Describes Fukuoka-4th fashion/shopping dream, plans Honoka guide and sets airfare saving as initial work target. | SOURCE_INTERNAL_TRAVEL_WISH_AND_MATERIAL_CONSTRAINT; no real-world recommendation, guide assent, realized savings/booking/trip. |
+| `EV-B0213-006` | F:401001350 P0-5 | Reports Tomoe conversation difficulty, takes one-year-older helper role, selects assumed shared bodily topic and reports lowered-head departure while wanting more talk. | WELL_MEANT_INITIATIVE_AND_RECIPIENT_MISMATCH; no objective body measurement, shared consent, full inner-state access or permanent-harm diagnosis. |
+| `EV-B0213-007` | G:401001490 P0-4 | Reports cute dotted/frilled swimsuit purchase without occasion, requests shoot to wear it/cover cost and offers self-described sexier-shot effort. | AESTHETIC_PURCHASE_AND_PROPOSED_PAID_OCCASION; no displayed swimsuit/actual shoot, fee/booking/manager acceptance or unrestricted performance consent. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1475` | `EV-B0213-001 / EV-B0213-003` | FORMAL_COMPARISON: Idol-growth plan and shop-help effort each coexist with admitted difficulty; no causal sequence or effortless general capacity. |
+| `EDGE-1476` | `EV-B0213-002 / EV-B0213-005` | FORMAL_COMPARISON: Valued present belonging and wanted fashion travel name different goods; no total contradiction or menu-derived conversion. |
+| `EDGE-1477` | `EV-B0213-003 / EV-B0213-004` | FORMAL_COMPARISON: Actual reported work network and playful freeter unit idea have distinct factual statuses; no new operational collective. |
+| `EDGE-1478` | `EV-B0213-004 / EV-B0213-006` | FORMAL_COMPARISON: Intended praise/help and wording/conversation uncertainty retain recipient limits; no invented Matsuri hurt or shared Tomoe inner voice. |
+| `EDGE-1479` | `EV-B0213-005 / EV-B0213-007` | FORMAL_COMPARISON: Proposed work toward fashion and purchased fashion prompting work run in different directions; no fictional before/after. |
+| `EDGE-1480` | `EV-B0213-006 / EV-B0213-003` | FORMAL_COMPARISON: Reported Tomoe departure and Sawara praise differ without establishing uniform charm, incompetence or omniscient recipient knowledge. |
+
+Totals:1341EV/25WORLD/47THREAD/1473activeEDGE, maximum1480 with seven intentional earlier gaps retained. No new WORLD/THREAD or older body/ID/chronology change.
+
+## B0214 Ei's chosen company and the ownership of affection
+
+Owner [B0214](../02%20Readings/T7S_B0214_DEEP_READING.md), reading SHA256 `1d01c5033d55b1ef5cad0cc65979fe8253d4e41145ab180ff53989eda3f70274`; source-lock 12.120, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary locators. Complete27 physical/five-SourceLock/six-coverage/four-entity before-controls froze at published4db74fa4/B0213/12.119 before primary. B0213 exact-source audit41048502427 and full automatic cycle passed; PR398 open at receipt. All115 published Ei context rows read before primary; whole READY subject scan has no prior Ei decision. No source-menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0214-001` | A:401000245 P0-3 | Finds manager, describes his brighter surroundings and wanted inclusion, likens pursuit to possession then explicitly jokes. | WANTED_COMPANY_AND_RETRACTED_POSSESSION_SIMILE; no actual possession, objective aura/track mechanism, standing claim on him or mutual romance. |
+| `EV-B0214-002` | B:401000492 P0-5 | Reports yesterday's handmade kinran charm, difficult/practiced sewing with recipient in mind, offers it and qualifies priestly authority while naming affection/expected benefits. | REPORTED_PRACTICED_MAKING_AND_PERSONAL_GIFT_OFFER; no inspected fabric, receipt/use, trained priest status or verified protective efficacy. |
+| `EV-B0214-003` | C:401000818 P0-4 | Finds lively places enjoyable yet difficult, wants manager's voice unmasked and requests quiet talk at family shrine as time permits. | EXPLICIT_SETTING_PREFERENCE_AND_INVITATION; no completed move, actual heard voices, universal crowd aversion or diagnosis. |
+| `EV-B0214-004` | D:401000938 P0-5 | Three quoted affectionate registers under Ei label interrupt into stop/not-me/strange-spirits attribution and forget request/renewed denial. | DISPUTED_AGENCY_AND_LOCAL_REFUSAL_TO_OWN_SPEECH; no voluntary Ei confession, resolved mechanism, named spirit fusion or independently depicted embrace. |
+| `EV-B0214-005` | E:401001190 P0-5 | Reports refreshing shrine tour, values visitor care, expects future family succession, likes current cool shrine yet wants visitors and jokes about manager as producing son-in-law. | REPORTED_VISIT_AND_OPEN_FUTURE_TENSION; no succession date/contract, manager assent, marriage/adoption/legal or employment outcome. |
+| `EV-B0214-006` | F:401001502 P0-5 | Credits idols' positive pull/manager invitation for enjoyable surroundings and fewer dark-feeling spirits, thanks him, then reports merry spirits pranking behind him. | ATTRIBUTED_GRATITUDE_AND_CHANGED_COMPANY; no universal exorcism, absent spirits, guaranteed cure or manager-shared supernatural sight. |
+| `EV-B0214-007` | G:401001594 P0-5 | Offers massage recalling father practice, announces finish/requests turn, praises and thanks manager, imagines occasional exchange and jokes about school spirits' weight. | LOCALLY_REPRESENTED_RECIPROCAL_CARE; no independent animation, clinical efficacy, standing touch permission or objective spirit burden. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1481` | `EV-B0214-001 / EV-B0214-004` | FORMAL_COMPARISON: A's possession simile is explicitly a joke; D disputes agency after quoted speech. No identical mechanism or total before/after. |
+| `EDGE-1482` | `EV-B0214-002 / EV-B0214-007` | FORMAL_COMPARISON: Claimed practiced making and represented mutual massage give distinct material care forms, no universal skill/benefit or advance consent. |
+| `EDGE-1483` | `EV-B0214-003 / EV-B0214-005` | FORMAL_COMPARISON: Wanted quiet company and desired future visitors coexist around the shrine, no menu-derived conversion or realized institution plan. |
+| `EDGE-1484` | `EV-B0214-001 / EV-B0214-006` | FORMAL_COMPARISON: Brightness/wanted inclusion and grateful changed company recur as attributed idiom, not causal recovery order or measured aura. |
+| `EDGE-1485` | `EV-B0214-005 / EV-B0214-007` | FORMAL_COMPARISON: Joking future kinship and proposed occasional massage differ in scope; local reciprocity supplies no marriage or indefinite duty. |
+| `EDGE-1486` | `EV-B0214-004 / EV-B0214-006` | FORMAL_COMPARISON: Strange-spirit agency attribution and merry-company report do not identify the same spirits or erase earlier diegetic persons. |
+
+Totals:1348EV/25WORLD/47THREAD/1479activeEDGE, maximum1486 with seven intentional earlier gaps retained. No new WORLD/THREAD, older body revision or invented cross-case chronology.
