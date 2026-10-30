@@ -98,8 +98,10 @@ Reviewed analysis subjects in the `shuukura` namespace of the [Character Analysi
   - _None._
 - Analytical coverage:
   - `kss12`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-12, 小松澪と謎多き女: Mio’s university lecture-end conversation with Sendai Hazuki, from refused invitations through deferred inquiry and a proposed next mixer. The approaching-summer frame establishes no exact day, year or college year. LN05 referral and LN09 roommate-call comparisons provide separately timed context, not continuous novel coverage or Mio’s current knowledge.; continuity `original-light-novel`
+  - `ln10`: LIGHT_NOVEL VOLUME: Japanese light novel Volume 10, chapters 3–4: Mio’s early-March visit to the shared home, from early arrival with gifts, room access limited to Sendai’s room and given-name pressure, through the matchmaking meal revised to a trio, pizza at home, the photograph exchange and her voluntary departure; plus the chapter 11 late-April campus meal with Sendai and Mio’s request for a future trio outing. No exact calendar day or year is established. Volumes 1–9 and the other chapters are not covered for Mio.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`kss12-company-and-curiosity` — KSS-12: companionship, self-questioning curiosity and maintained refusals](../../series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_12_DEEP_READING.md) — **active provisional authority**
+  - [`ln10-visit-and-campus` — LN-JP-V10: early-March home visit, revised invitations and late-April campus request](../../series/shuukura/02%20Sequential%20Readings/SHUUKURA_V2_LN_V10_DEEP_READING.md) — **active provisional authority**
 
 <a id="platypus-tissue-cover"></a>
 
