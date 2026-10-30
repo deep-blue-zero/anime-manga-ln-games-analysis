@@ -668,7 +668,9 @@ Reviewed analysis subjects in the `tokyo-7th-sisters` namespace of the [Characte
   - _None._
 - Analytical coverage:
   - `reviewed-b0041`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0041, exactly Main episodes 611101701–611101704.  Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+  - `reviewed-intimacy-200780`: GAME STORY_CHAPTER: Dedicated reading of the complete Sub Intimacy family 200780 / NM-INTIMACY-200780 (T7S_B0208): episodes 401000203, 401000602, 401000854, 401000934, 401001102, 401001298 and 401001478, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). These are seven independent conditional occurrences with no inferred unlock level or total chronology across them. No performed voice, music, continuous motion, clinical assessment or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
 - Reviewed current evidence:
+  - [`b0208-deep-reading` — Dedicated deep reading of Saori's complete Sub Intimacy family 200780 portfolio](../../series/tokyo-7th-sisters/02%20Readings/T7S_B0208_DEEP_READING.md)
   - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](../../series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
   - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](../../series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](../../series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)

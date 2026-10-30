@@ -12,7 +12,7 @@ Reviewed analysis subjects in the `cornered-mouse` namespace of the [Character A
 
 - Entity ID: `cornered-mouse:imagase`
 - Entity aliases:
-  - _None._
+  - 今ヶ瀬渉 (ja, ORIGINAL_SCRIPT) — Full written name supplied by narration at sp0056 (CM-U02-O006).
 
 #### Subject: Japanese manga continuity
 
@@ -20,13 +20,15 @@ Reviewed analysis subjects in the `cornered-mouse` namespace of the [Character A
 - Series: `cornered-mouse`
 - Continuity: `cornered-mouse-manga`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `reviewed-cm-u01`: MANGA CHAPTER: CM-U01 キッシング・グーラミー only (CM-JP-AIO2020-LOCAL sp0011–sp0050, revised Japanese witness). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
+  - `reviewed-cm-u02`: MANGA CHAPTER: CM-U02 楽園の蛇 only (CM-JP-AIO2020-LOCAL sp0051–sp0091, revised Japanese witness; narrative ends sp0090). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
 - Reviewed current evidence:
   - [`u01-deep-reading` — CM-U01 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md) — **active provisional authority**
+  - [`u02-deep-reading` — CM-U02 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md) — **active provisional authority**
 
 <a id="kyoichi-otomo"></a>
 
@@ -42,10 +44,12 @@ Reviewed analysis subjects in the `cornered-mouse` namespace of the [Character A
 - Series: `cornered-mouse`
 - Continuity: `cornered-mouse-manga`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `reviewed-cm-u01`: MANGA CHAPTER: CM-U01 キッシング・グーラミー only (CM-JP-AIO2020-LOCAL sp0011–sp0050, revised Japanese witness). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
+  - `reviewed-cm-u02`: MANGA CHAPTER: CM-U02 楽園の蛇 only (CM-JP-AIO2020-LOCAL sp0051–sp0091, revised Japanese witness; narrative ends sp0090). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
 - Reviewed current evidence:
   - [`u01-deep-reading` — CM-U01 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md) — **active provisional authority**
+  - [`u02-deep-reading` — CM-U02 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md) — **active provisional authority**

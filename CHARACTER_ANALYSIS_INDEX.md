@@ -253,7 +253,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Ignis](characters/index/konosuba.md#ignis) | Original light-novel continuity, scoped current monograph | `konosuba:ignis@original-light-novel` | ダスティネス・フォード・イグニス |
 | [Iida Tenya](characters/index/my-hero-academia.md#iida-tenya) | My Hero Academia manga | `my-hero-academia:iida-tenya@manga` | — |
 | [Ikumi Mito](characters/index/shokugeki-no-soma.md#ikumi-mito) | Shokugeki no Soma manga | `shokugeki-no-soma:ikumi-mito@manga` | — |
-| [Imagase](characters/index/cornered-mouse.md#imagase) | Japanese manga continuity | `cornered-mouse:imagase@manga` | — |
+| [Imagase](characters/index/cornered-mouse.md#imagase) | Japanese manga continuity | `cornered-mouse:imagase@manga` | 今ヶ瀬渉 |
 | [Inuyama Aoi](characters/index/yuru-camp.md#inuyama-aoi) | Japanese manga | `yuru-camp:inuyama-aoi@manga` | 犬山あおい |
 | [Iris](characters/index/konosuba.md#iris) | Original light-novel continuity, accepted Iris cohort 01 | `konosuba:iris@original-light-novel` | アイリス; イリス |
 | [Ito Momiji](characters/index/shine-post.md#ito-momiji) | SHINE POST television anime | `shine-post:ito-momiji@television-anime` | — |
