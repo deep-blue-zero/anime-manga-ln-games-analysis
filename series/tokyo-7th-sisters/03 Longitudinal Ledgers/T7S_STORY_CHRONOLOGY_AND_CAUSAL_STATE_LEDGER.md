@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.111"
+version: "11.112"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 216 Intimacy primary documents across 29 family portfolios / T7S_B0182–T7S_B0210; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 225 Intimacy primary documents across 30 family portfolios / T7S_B0182–T7S_B0211; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1316`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1453`; `last_closed_block = T7S_B0210`. The admitted horizon contains 731 primary documents: 235 Main, 280 i-n-g and 216 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 216 Intimacy documents across 29 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1325`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1460`; `last_closed_block = T7S_B0211`. The admitted horizon contains 740 primary documents: 235 Main, 280 i-n-g and 225 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 225 Intimacy documents across 30 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4386,3 +4386,31 @@ Owner [B0210](../02%20Readings/T7S_B0210_DEEP_READING.md), reading SHA256 `86bff
 | `EDGE-1460` | `EV-B0210-005 / EV-B0210-007` | FORMAL_COMPARISON: Candidate willingness and present day-trip limit are actually stated constraints; neither retroactively repairs older unilateral acts. |
 
 Totals:1316EV/25WORLD/47THREAD/1453activeEDGE, maximum1460 with seven intentional earlier gaps retained. Nine whole factual homes; no new WORLD/THREAD or prior body/ID/chronology change.
+
+## B0211 Kajika's ordinary self and wanted recognition
+
+Owner [B0211](../02%20Readings/T7S_B0211_DEEP_READING.md), reading SHA256 `de7e0aaae7a2f12bb09bc7699f7a48b140f2c31276b96d0fda555466fcc29646`; source-lock 12.117, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-I scripts/hashes/whole primary locators. All27 physical and complete five-SourceLock/six-coverage/four-entity logical before-controls froze at publishedcae38d8b/B0210/12.116 before primary. B0210 source audit41032239388 and complete automatic publication cycle passed separately; PR398 open at cycle receipt. No menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0211-001` | A:401000224 P0-3 | Calls sisters beautiful/cute and herself ordinary, says manager may be first to look properly at her alone, acknowledges work and tentatively hopes for more. | SITUATED_COMPARISON_AND_WANTED_PERSONAL_RECOGNITION; no objective worth/rank, exhaustive earlier neglect, supplied manager answer or settled romance. |
+| `EV-B0211-002` | B:401000452 P0-5 | Recalls intended shared-shop future, imagines sister/spouse and accountant roles, worries no own role and questions represented shop-face suggestion despite actual idol work. | IMAGINED_FUTURE_AND_UNSETTLED_SELF_CONTRIBUTION; no actual marriage/succession, agreed job assignment or proven present uselessness. |
+| `EV-B0211-003` | C:401000622 P0-5 | Feels little idol-like change despite represented elapsed time/friend reports, values fans/staff happiness and explicitly wants to continue, especially prizing manager happiness. | SELF_APPRAISAL_AND_PRESENT_RELATIONAL_MOTIVE; no numerical duration, objective growth failure, independently supplied manager mind or lifelong commitment. |
+| `EV-B0211-004` | D:401000630 P0-5 | Values Nanasta encounters, likens named peers to younger/older sisters and same-age company to family, tentatively calls manager possible older brother. | PERSONAL_FAMILY_METAPHOR; no biology/guardianship, named peers own assent, new unit or forced romantic/sibling resolution across independent cases. |
+| `EV-B0211-005` | E:401000706 P0-5 | Thanks manager for study help, admires solutions, reports Sawara avoiding questions/life advice and chooses to study because she doubts coping similarly. | RECEIVED_ASSISTANCE_REPORTED_ADVICE_AND_CHOSEN_STUDY; no exact age/year/exam, verified degree, Sawara record or proved lifelong incapacity. |
+| `EV-B0211-006` | F:401000846 P0-4 | Offers tickets for shoulder tapping/massage/cleaning/cooking/general help to return care, with no expiration. | SELF_INITIATED_GIFT_AND_WANTED_RECIPROCITY; no supplied acceptance, actual redemption, quantified debt, contract or unrestricted future access. |
+| `EV-B0211-007` | G:401000998 P0-5 | Insists on overcoming raw-fish discomfort despite represented reassurance, compares Susu, tries heard mayonnaise advice and reports only mayonnaise taste/disappointment. | SELF_PRESSURE_REPORTED_ATTEMPT_AND_TASTE; no diagnosis/lasting cure, independent meal inspection, verified nationality or Susu own judgment. |
+| `EV-B0211-008` | H:401001170 P0-5 | Values seasonal food, reports recommending fatty seasonal fish at shop and asks why customers know less about fish seasons than familiar fruits. | REPORTED_PRACTICAL_KNOWLEDGE_AND_CUSTOMER_PERSPECTIVE; no exact season/date, measured population survey or general customer incompetence. |
+| `EV-B0211-009` | I:401001234 P0-5 | Points out cat, recalls pet wish constrained by fish shop and sisters comfort, values family and Shinju cuteness. | PRESENT_ATTENTION_REPORTED_COMFORT_AND_REFLECTION; no pet acquisition, rendered live cat, ownership of sister or permanent absence of loneliness. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1461` | `EV-B0211-001 / EV-B0211-002` | FORMAL_COMPARISON: Self-comparison makes wanted personal notice and imagined contribution difficult to name; no objective worth deficit or causal sequence. |
+| `EDGE-1462` | `EV-B0211-002 / EV-B0211-008` | FORMAL_COMPARISON: Future role uncertainty coexists with actual reported shop recommendations; no accepted appointment or solved succession. |
+| `EDGE-1463` | `EV-B0211-003 / EV-B0211-006` | FORMAL_COMPARISON: Joy at others happiness and returning care are reciprocal initiatives; no audited debt or compulsory service. |
+| `EDGE-1464` | `EV-B0211-004 / EV-B0211-009` | FORMAL_COMPARISON: Enlarged Nanasta family and remembered sister comfort remain different scopes of belonging; no new legal relation or unrestricted authority. |
+| `EDGE-1465` | `EV-B0211-005 / EV-B0211-007` | FORMAL_COMPARISON: Study choice and sashimi effort each respond to a self-comparison; no common result, universal incapacity or before/after. |
+| `EDGE-1466` | `EV-B0211-007 / EV-B0211-008` | FORMAL_COMPARISON: Personal raw-fish discomfort does not erase useful fish-shop knowledge; no technical certification or chronological cure. |
+| `EDGE-1467` | `EV-B0211-001 / EV-B0211-004` | FORMAL_COMPARISON: Hoped-for attention beyond work and tentative brother address retain distinct conditional frames; no compulsory romantic/sibling resolution. |
+
+Totals:1325EV/25WORLD/47THREAD/1460activeEDGE, maximum1467 with seven intentional earlier gaps retained. No new WORLD/THREAD or older body/ID/chronology change.
