@@ -4,7 +4,7 @@ artifact_id: T7S_2034_COMPLETION_EXECUTION_RECORD
 artifact_type: analytical_execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.50"
+version: "1.51"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -28,7 +28,7 @@ The owner authorizes continuous analysis of the remaining 2034 material through 
 - Reconciled base commit: `82214c26b3ccb8f23bad011e9dbbdde5e4c29508`; remote source observed at `e9644c298f744206cd015cf23ecc5347d10183f9`; incorporated main at `9cd7a70853c40806f1a16fd957e9791dd14a7789`. Reconciliation preserves the complete T7S tree.
 - Corpus alias: `c20260909-r484`; witness: `T7S_GAME_OFFLINE_JA_R484`. The immutable source bindings remain unchanged.
 - First candidate: `T7S_B0160`, native i-n-g chapter `301320`, Honoka / `TEACHING ME`, episodes `612201701`–`612201703`. The native chapter is a proposed causal boundary subject to complete source review.
-- Current run state: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0208`. Completed B0160–B0181 i-n-g checkpoint retains22units/66episodes and22/22chapters. Later Intimacy portfolios **27**, primary occurrences **198**;496eligible stories and supplemental/analytical requirements remain. Terminal boundary is the complete2034era release.
+- Current run state: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0209`. Completed B0160–B0181 i-n-g checkpoint retains22units/66episodes and22/22chapters. Later Intimacy portfolios **28**, primary occurrences **207**;487eligible stories and supplemental/analytical requirements remain. Terminal boundary is the complete2034era release.
 
 The [B0100–B0159 record](T7S_B0100_B0159_EXECUTION_RECORD.md), its [audit](T7S_B0100_B0159_COMPLETION_AUDIT.md), and frozen readings retain their historical authorization. Their statements that chapter `301320` was outside that run remain true at that boundary. This new authorization does not rewrite those freezes.
 
@@ -140,6 +140,7 @@ After interruption, recover the actual Git/source-lock/entrypoint high-water mar
 | `T7S_B0206_CLOSE` | Complete Intimacy family200730;7 independent primary occurrences | Qualified ordinary-life factual/native/static state integrated; full2034 `IN_PROGRESS` |
 | `T7S_B0207_CLOSE` | Complete Intimacy family200750;7 independent primary occurrences | Qualified ordinary-life factual/native/static state integrated; full2034 `IN_PROGRESS` |
 | `T7S_B0208_CLOSE` | Complete Intimacy family200780;7 independent primary occurrences | Qualified ordinary-life factual/native/static state integrated; full2034 `IN_PROGRESS` |
+| `T7S_B0209_CLOSE` | Complete Intimacy family200510;9 independent primary occurrences | Qualified ordinary-life factual/native/static state integrated; full2034 `IN_PROGRESS` |
 
 ## B0160 closeout receipt
 
@@ -340,3 +341,7 @@ After interruption, recover the actual Git/source-lock/entrypoint high-water mar
 ## B0208 closeout receipt
 
 [T7S_B0208](../02%20Readings/T7S_B0208_DEEP_READING.md): Saori's seven whole cases connect a hospital-date apology and protective promise, torn-costume regret met by a represented preference for her safety, an actual represented catch and briefly welcomed posture, feared trouble after an accident-free week and proposed cohabitation, reported kitten rescue/tree-fall catch and a limit on manager stroking, relief at a hole rescue beside imagined shared confinement, and reported healed injury/new-swimsuit pool invitation. Care offered and received, attributed quick recovery and hypothetical catastrophe remain distinct. All31Japanese/38native/1composite/contact/4originals actually reviewed; no hearing/runtime or newREADY. Closure198Intimacy/27families,713primary/800consumed incl87attachments;151Intimacy/496eligible stories plus supplemental/release remain;2053blocked. All38native/31Japanese/7command-only pages reviewed. Source-lock12.114 binds exact complete prospective controls, sources/fullranges/native and actual static review. Move exactly7 coverage records with1583others exact; preserve all older body/IDs/serialized integrity/admin/storage history. Native/model/application and author/publication gates remain separate. The next authorized unread portfolio is B0209, 臼田スミレ, route `NM-INTIMACY-200510` / native Sub family `200510`, 9 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred. Full2034 active/incomplete;2053blocked.
+
+## B0209 closeout receipt
+
+[T7S_B0209](../02%20Readings/T7S_B0209_DEEP_READING.md): Sumire's nine whole cases connect feedback-oriented cookies and proposed miso soup, pleasure in serious idol effort and conditional important speech, growing understanding of Seven Sisters with continued rivalry, a limited sweet remade for the manager, softened given-name discomfort with delayed reciprocal naming, represented assent to a planned grandmother introduction, trend knowledge used to invite shopping, sea preference and wanted swimsuit viewing, and desired private time negotiated from too-early travel toward consideration of a day trip. Learned recognition and self-authored pace coexist; reported preparations, represented replies and future plans remain distinct. All43Japanese/52native/1composite/contact/5originals actually reviewed; no hearing/runtime or newREADY. Closure207Intimacy/28families,722primary/809consumed incl87attachments;142Intimacy/487eligible stories plus supplemental/release remain;2053blocked. All52native/43Japanese/9command-only pages reviewed. Source-lock12.115 binds exact complete prospective controls, sources/fullranges/native and actual static review. Move exactly9 coverage records with1581others exact; preserve all older body/IDs/serialized integrity/admin/storage history. Native/model/application and author/publication gates remain separate. The next authorized unread portfolio is B0210, 晴海サワラ, route `NM-INTIMACY-200550` / native Sub family `200550`, 9 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred. Full2034 active/incomplete;2053blocked.
