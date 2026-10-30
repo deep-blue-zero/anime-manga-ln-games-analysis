@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.114"
+version: "11.115"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 241 Intimacy primary documents across 32 family portfolios / T7S_B0182–T7S_B0213; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 248 Intimacy primary documents across 33 family portfolios / T7S_B0182–T7S_B0214; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1341`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1473`; `last_closed_block = T7S_B0213`. The admitted horizon contains 756 primary documents: 235 Main, 280 i-n-g and 241 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 241 Intimacy documents across 32 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1348`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1479`; `last_closed_block = T7S_B0214`. The admitted horizon contains 763 primary documents: 235 Main, 280 i-n-g and 248 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 248 Intimacy documents across 33 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4467,3 +4467,28 @@ Owner [B0213](../02%20Readings/T7S_B0213_DEEP_READING.md), reading SHA256 `ca36f
 | `EDGE-1480` | `EV-B0213-006 / EV-B0213-003` | FORMAL_COMPARISON: Reported Tomoe departure and Sawara praise differ without establishing uniform charm, incompetence or omniscient recipient knowledge. |
 
 Totals:1341EV/25WORLD/47THREAD/1473activeEDGE, maximum1480 with seven intentional earlier gaps retained. No new WORLD/THREAD or older body/ID/chronology change.
+
+## B0214 Ei's chosen company and the ownership of affection
+
+Owner [B0214](../02%20Readings/T7S_B0214_DEEP_READING.md), reading SHA256 `1d01c5033d55b1ef5cad0cc65979fe8253d4e41145ab180ff53989eda3f70274`; source-lock 12.120, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary locators. Complete27 physical/five-SourceLock/six-coverage/four-entity before-controls froze at published4db74fa4/B0213/12.119 before primary. B0213 exact-source audit41048502427 and full automatic cycle passed; PR398 open at receipt. All115 published Ei context rows read before primary; whole READY subject scan has no prior Ei decision. No source-menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0214-001` | A:401000245 P0-3 | Finds manager, describes his brighter surroundings and wanted inclusion, likens pursuit to possession then explicitly jokes. | WANTED_COMPANY_AND_RETRACTED_POSSESSION_SIMILE; no actual possession, objective aura/track mechanism, standing claim on him or mutual romance. |
+| `EV-B0214-002` | B:401000492 P0-5 | Reports yesterday's handmade kinran charm, difficult/practiced sewing with recipient in mind, offers it and qualifies priestly authority while naming affection/expected benefits. | REPORTED_PRACTICED_MAKING_AND_PERSONAL_GIFT_OFFER; no inspected fabric, receipt/use, trained priest status or verified protective efficacy. |
+| `EV-B0214-003` | C:401000818 P0-4 | Finds lively places enjoyable yet difficult, wants manager's voice unmasked and requests quiet talk at family shrine as time permits. | EXPLICIT_SETTING_PREFERENCE_AND_INVITATION; no completed move, actual heard voices, universal crowd aversion or diagnosis. |
+| `EV-B0214-004` | D:401000938 P0-5 | Three quoted affectionate registers under Ei label interrupt into stop/not-me/strange-spirits attribution and forget request/renewed denial. | DISPUTED_AGENCY_AND_LOCAL_REFUSAL_TO_OWN_SPEECH; no voluntary Ei confession, resolved mechanism, named spirit fusion or independently depicted embrace. |
+| `EV-B0214-005` | E:401001190 P0-5 | Reports refreshing shrine tour, values visitor care, expects future family succession, likes current cool shrine yet wants visitors and jokes about manager as producing son-in-law. | REPORTED_VISIT_AND_OPEN_FUTURE_TENSION; no succession date/contract, manager assent, marriage/adoption/legal or employment outcome. |
+| `EV-B0214-006` | F:401001502 P0-5 | Credits idols' positive pull/manager invitation for enjoyable surroundings and fewer dark-feeling spirits, thanks him, then reports merry spirits pranking behind him. | ATTRIBUTED_GRATITUDE_AND_CHANGED_COMPANY; no universal exorcism, absent spirits, guaranteed cure or manager-shared supernatural sight. |
+| `EV-B0214-007` | G:401001594 P0-5 | Offers massage recalling father practice, announces finish/requests turn, praises and thanks manager, imagines occasional exchange and jokes about school spirits' weight. | LOCALLY_REPRESENTED_RECIPROCAL_CARE; no independent animation, clinical efficacy, standing touch permission or objective spirit burden. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1481` | `EV-B0214-001 / EV-B0214-004` | FORMAL_COMPARISON: A's possession simile is explicitly a joke; D disputes agency after quoted speech. No identical mechanism or total before/after. |
+| `EDGE-1482` | `EV-B0214-002 / EV-B0214-007` | FORMAL_COMPARISON: Claimed practiced making and represented mutual massage give distinct material care forms, no universal skill/benefit or advance consent. |
+| `EDGE-1483` | `EV-B0214-003 / EV-B0214-005` | FORMAL_COMPARISON: Wanted quiet company and desired future visitors coexist around the shrine, no menu-derived conversion or realized institution plan. |
+| `EDGE-1484` | `EV-B0214-001 / EV-B0214-006` | FORMAL_COMPARISON: Brightness/wanted inclusion and grateful changed company recur as attributed idiom, not causal recovery order or measured aura. |
+| `EDGE-1485` | `EV-B0214-005 / EV-B0214-007` | FORMAL_COMPARISON: Joking future kinship and proposed occasional massage differ in scope; local reciprocity supplies no marriage or indefinite duty. |
+| `EDGE-1486` | `EV-B0214-004 / EV-B0214-006` | FORMAL_COMPARISON: Strange-spirit agency attribution and merry-company report do not identify the same spirits or erase earlier diegetic persons. |
+
+Totals:1348EV/25WORLD/47THREAD/1479activeEDGE, maximum1486 with seven intentional earlier gaps retained. No new WORLD/THREAD, older body revision or invented cross-case chronology.

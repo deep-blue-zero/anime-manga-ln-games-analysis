@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.115"
+version: "11.116"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 241 Intimacy primary documents across 32 family portfolios / T7S_B0182–T7S_B0213; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 248 Intimacy primary documents across 33 family portfolios / T7S_B0182–T7S_B0214; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -20,13 +20,13 @@ last_updated: 2026-10-30
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 241 complete Intimacy primary documents across 32 family portfolios. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 248 complete Intimacy primary documents across 33 family portfolios. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 1456`; `revisions = 42`; `predictions = 7`; `AV_reviews = 160`; `literary_findings = 1456`. Claims are bounded to their stated B0001 through B0213 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 241 complete Intimacy primary documents across 32 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 1474`; `revisions = 42`; `predictions = 7`; `AV_reviews = 161`; `literary_findings = 1474`. Claims are bounded to their stated B0001 through B0214 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 248 complete Intimacy primary documents across 33 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -4197,3 +4197,34 @@ Owner [B0213](../02%20Readings/T7S_B0213_DEEP_READING.md), reading SHA256 `ca36f
 | `AV-0160` | All37fullnative states/30Japanese and whole7title/schema projection actuallyread. One130_01_01composite/contact and originalbg027/029/002 individuallyviewed;7commands/30voices/210slots/fixedactor verified. | Staticonly. BG027A/B9pages7text;029C6/5;002D/E/F/G22/18. BGM010A3/00418/0059 and voice/SFX unlistened; F032_002001-005/G032_005001-004 notmissingpages. Fixedyellowdress/bags notswimsuit; no actual sleep/shophelp/peerconversation/trip/photoshoot depicted. |
 
 Totals:1456CL/42REV/7PRED/160AV. All earlier claim/revision/prediction/AV bodies retained; no historicalREADY, chronology or release-boundary rewrite.
+
+## B0214 Ei's chosen company and the ownership of affection
+
+Owner [B0214](../02%20Readings/T7S_B0214_DEEP_READING.md), reading SHA256 `1d01c5033d55b1ef5cad0cc65979fe8253d4e41145ab180ff53989eda3f70274`; source-lock 12.120, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary locators. Complete27 physical/five-SourceLock/six-coverage/four-entity before-controls froze at published4db74fa4/B0213/12.119 before primary. B0213 exact-source audit41048502427 and full automatic cycle passed; PR398 open at receipt. All115 published Ei context rows read before primary; whole READY subject scan has no prior Ei decision. No source-menu chronology, performed hearing or runtime.
+
+| ID | Claim / warrant | Reading and retained limit |
+| --- | --- | --- |
+| `CL-B0214-001` | `WANTED_COMPANY_IN_PERCEPTUAL_IDIOM`; D1-D2; high with bounds | A:P1-2: finding/brightness and wanted inclusion support directed attachment, no validated aura, tracker or full following history. |
+| `CL-B0214-002` | `RETRACTED_POSSESSION_SIMILE`; D1-D2; high with bounds | A:P3: never-let-go image explicitly jokes; no actual possession or standing claim on recipient. |
+| `CL-B0214-003` | `PRACTICED_MATERIAL_CARE`; D1-D2; high with bounds | B:P1-4: reported kinran making, practice and recipient attention give care a labor account without inspected textile or universal skill. |
+| `CL-B0214-004` | `AFFECTION_AND_AUTHORITY_QUALIFIED`; D1-D2; high with bounds | B:P5: not trained priest/hesitant affection/benefit expectation remain Ei claims, no demonstrated protection or mutual confession. |
+| `CL-B0214-005` | `PLEASURE_AND_DIFFICULTY_COEXIST`; D1-D2; high with bounds | C:P1-3: enjoyable crowds and wish to hear manager coexist, no total public-space aversion or clinical diagnosis. |
+| `CL-B0214-006` | `REQUESTED_LISTENING_CONDITIONS`; D1-D2; high with bounds | C:P2-4: asks quiet/time-bounded shrine company, no accepted move or indefinite exclusive attention. |
+| `CL-B0214-007` | `DISPUTED_OWNERSHIP_OF_AFFECTION`; D1-D2; high with bounds | D:P1-5: quoted registers followed by stop/not-me/forget cannot be turned into voluntary confession from stable name label alone. |
+| `CL-B0214-008` | `SUPERNATURAL_CONTEXT_WITHOUT_IDENTITY_FUSION`; D1-D2; high with bounds | D with B0041/B0091: prior diegetic spirits matter, but no full present mechanism, named Rei/Yuuko attribution or actually seen embrace. |
+| `CL-B0214-009` | `SHRINE_HOBBY_AND_VISITOR_CARE`; D1-D2; high with bounds | E:P1-2: refreshed tour report and attention to reception, not analyst-inspected location or general institution audit. |
+| `CL-B0214-010` | `OPEN_SUCCESSION_TENSION`; D1-D2; high with bounds | E:P3/C: likes cool shrine yet thinks visitors needed, no causal conversion, official plan/date or present idol resignation. |
+| `CL-B0214-011` | `JOKING_FUTURE_COOPERATION`; D1-D2; high with bounds | E:P4-5: production skill/son-in-law idea retracts into premature joke; no marriage/adoption/legal/employment agreement. |
+| `CL-B0214-012` | `GRATEFUL_RETROSPECTIVE_APPRAISAL`; D1-D2; high with bounds | F:P1-4: positive idol pull and manager invitation matter to Ei, no measured audience law or automatic access to private memory. |
+| `CL-B0214-013` | `CHANGED_COMPANY_NOT_AUTOMATIC_RELEASE`; D1-D2; high with bounds | F:P2/5 with B0091: fewer dark-feeling spirits and present merry ones, no empty spirit world, universal exorcism or permanent cure. |
+| `CL-B0214-014` | `INITIATED_ORDINARY_CARE`; D1-D2; high with bounds | G:P1-2: tired appearance/father-practice account support offer, no diagnosis, named father or independently animated treatment. |
+| `CL-B0214-015` | `RECEIVING_CARE_IN_RETURN`; D1-D2; high with bounds | G:P3-5: requested turn/praise/thanks represent local reciprocity, no separate manager account, standing touch permission or indefinite duty. |
+| `CL-B0214-016` | `QUALIFIED_BURDEN_EXPLANATION`; D1-D2; high with bounds | G:P5: reported relief plus explicit spirit-weight joke do not verify objective burden or medical efficacy, nor erase prior diegetic persons. |
+| `CL-B0214-017` | `CUMULATIVE_AGENCY_AND_UNEQUAL_ACCESS`; D1-D2; high with bounds | A-G with B0041/0091/0129/0167/0172/0176: active wanted company retains body/work/recording/disclosure/privacy boundaries. Neither romance-only nor disposable-gag account explains the whole evidence. |
+| `CL-B0214-018` | `BOUNDED_NATIVE_STATIC_INTEGRATION`; D1-D2; high with bounds | All39objects/32Japanese/224slots/wholeprojection, viewed131composite/contact/4originals,115priorrows/no Ei READY. No performed hearing/runtime/maturity/full2034release/2053 promotion. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0161` | All39fullnative states/32Japanese and whole7title/schema projection actually read. One131_01_01 composite/contact and original bg037/002/030/015 individually viewed;7command/32voice/224slots/fixedactor verified. | Static only. BG037A4pages3text;002B/D/G18/15;030C5/4;015E/F12/10. BGM01017/00515, voices/SFX unlistened. Fixed cardigan/skirt/charm-covered bag does not depict B charm making, D embrace/spirits, shrine visit or G massage; no line-specific affect/timing inference. |
+
+Totals:1474CL/42REV/7PRED/161AV. Earlier claim/revision/prediction/AV bodies and29 historical READY decisions preserved. No cross-case chronology or release-boundary rewrite.

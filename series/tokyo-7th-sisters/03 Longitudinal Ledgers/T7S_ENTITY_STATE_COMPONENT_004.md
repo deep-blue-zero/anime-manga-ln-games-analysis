@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0213; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0214; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -219,4 +219,47 @@ Owner [B0213](../02%20Readings/T7S_B0213_DEEP_READING.md), reading SHA256 `ca36f
 ExistingCHAR-0068 gains these situated preferences, plans, work accounts and recipient limits. UNIT-0006 gains reported temporary help/unnamed shop-side father illness without new identity/clinical/pay proof; UNIT-0002 gains one work-network valuation, not a formal agency. Freeters remains a gag-unit proposal, not a new UNIT. Old fashion care, rehearsal costs, privacy requests, finite ability, uneven pursuit, mediated family knowledge and modest relief remain intact. No new CHAR/IDENTITY/UNIT/READY.
 
 Totals:1536KNOW/1201REL;102IDENTITY/84CHAR/29UNIT/29READY retained. All older bodies/IDs preserved. Complete currentREADY scan found no Monaka decision; no new presumed R2, performed voice/runtime, stage or monograph maturity upgrade.
+
+## B0214 Ei's chosen company and the ownership of affection
+
+Owner [B0214](../02%20Readings/T7S_B0214_DEEP_READING.md), reading SHA256 `1d01c5033d55b1ef5cad0cc65979fe8253d4e41145ab180ff53989eda3f70274`; source-lock 12.120, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary locators. Complete27 physical/five-SourceLock/six-coverage/four-entity before-controls froze at published4db74fa4/B0213/12.119 before primary. B0213 exact-source audit41048502427 and full automatic cycle passed; PR398 open at receipt. All115 published Ei context rows read before primary; whole READY subject scan has no prior Ei decision. No source-menu chronology, performed hearing or runtime.
+
+Existing Ei `IDENTITY-0049 / CHAR-0037 / yukuhashi-ei` and Player `IDENTITY-0001 / CHAR-0001 / player-protagonist` retain their routes. Father/family shrine and D/F/G's unnamed spirits remain scoped roles; no new named relative, shrine UNIT, ghost identity or fusion with Rei/Yuuko. Earlier spirit diegesis, body/recording/work boundaries, privacy and unequal knowledge remain.
+
+| ID | Epistemic addition | Whole-case locus and limit |
+| --- | --- | --- |
+| `KNOW-1537` | Ei finds manager and compares recent locating skill with spirit finding. | A:P1; self-appraisal, not validated tracker or actual following history. |
+| `KNOW-1538` | Ei describes brighter surroundings and wants inclusion. | A:P2; her perception/desire, no measured aura or manager assent. |
+| `KNOW-1539` | Ei likens persistence to possession/never letting go then explicitly jokes. | A:P3; no actual occupancy, threat fulfilled or relationship agreement. |
+| `KNOW-1540` | Ei reports yesterday's charm making and shrine-daughter skill. | B:P1; local relative date/claimed work, no dated menu order or complete apprenticeship. |
+| `KNOW-1541` | Ei claims genuine kinran material and offers charm to manager. | B:P2; no inspected textile or supplied receiving/use response. |
+| `KNOW-1542` | Ei describes difficult fraying fabric, practice and sewing with recipient in mind. | B:P3-4; attributed craft account and personal investment, not analyst craft verification. |
+| `KNOW-1543` | Ei disclaims trained priest status, hesitantly names affection and invites expectation of benefit. | B:P5; qualified gift claim, no demonstrated supernatural result or mutual confession. |
+| `KNOW-1544` | Ei calls lively places enjoyable yet somewhat difficult, with gathering things. | C:P1; attributed experience, no universal aversion, counted spirits or diagnosis. |
+| `KNOW-1545` | Ei wants quiet conversation and manager's voice not masked by unfamiliar voices. | C:P2-3; explicit preference/request, no actual listening review or indefinite exclusivity. |
+| `KNOW-1546` | Ei invites shrine talk within available time. | C:P4; no acceptance, completed move or shown shrine setting. |
+| `KNOW-1547` | Three quoted affectionate registers appear under native Ei label. | D:P1-3; bodily address is represented, label does not resolve voluntary agent ownership or actual animation. |
+| `KNOW-1548` | Ei interrupts, says not-me and attributes preceding conduct to strange spirits. | D:P4; explicit disputed agency, not complete possession mechanism or named identity. |
+| `KNOW-1549` | Ei asks forgetting and renews denial through broken-off liking phrase. | D:P5; no supplied manager compliance or analyst-authorized hidden confession. |
+| `KNOW-1550` | Ei reports enjoyable refreshing shrine tour with manager and apologizes for hobby accompaniment. | E:P1; recalled local shared outing, no analyst-inspected visit or date. |
+| `KNOW-1551` | Ei appraises popular shrines' maintenance, approachability and visitor care. | E:P2; situated appraisal, no general religious/institution audit. |
+| `KNOW-1552` | Ei expects eventual family succession, likes current cool shrine and thinks visitors needed. | E:P3; open practical tension, no fixed date/accepted formal role or current idol departure. |
+| `KNOW-1553` | Ei imagines manager as producing son-in-law then calls the idea joking/premature. | E:P4-5; confidence/request frame, no acceptance, marriage/adoption/legal or work contract. |
+| `KNOW-1554` | Ei admires idols' positive audience pull. | F:P1; her appraisal, no measured total audience effect. |
+| `KNOW-1555` | Ei includes herself as affected and reports fewer approaching dark-feeling spirits. | F:P2; perceived change, no total absence/permanent cure or universal law. |
+| `KNOW-1556` | Ei attributes enjoyable place to manager having called and thanks him. | F:P3-4; her retrospective gratitude, not access to every private scouting association. |
+| `KNOW-1557` | Ei says merry ones now gather and prank behind manager. | F:P5; spirits reported, not imaged or shown perceived by manager; no identified Rei/Yuuko. |
+| `KNOW-1558` | Ei notices tired appearance, offers massage and recalls doing father's shoulders/claims skill. | G:P1-2; local care represented, father unnamed, no clinical diagnosis or full historical scene. |
+| `KNOW-1559` | Ei announces end, asks relief and requests manager's turn. | G:P3; direct reciprocal request, no separate manager account of comfort. |
+| `KNOW-1560` | Ei praises manager's massage, compares father and suggests occasional exchange. | G:P4; represented local reception, no standing or blanket touch permission. |
+| `KNOW-1561` | Ei thanks/claims relief then qualifies school spirit-weight explanation as joke. | G:P5; no objective burden or clinical result, joke does not erase earlier diegetic spirits. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1202` | `yukuhashi-ei → player-protagonist` | A-G: seeks bright company, offers personally made care, requests listening space, disclaims D speech, imagines future shrine help, thanks invitation and gives/requests local massage. Explicit jokes, disputed ownership, no guaranteed gift efficacy or unlimited use/touch/work assent. Reciprocal REL-1203. |
+| `REL-1203` | `player-protagonist → yukuhashi-ei` | A-F: recipient addressed, companion recalled in E and invitation recalled in F, without supplied assent to shrine talk/kinship or reaction validating D. G:P3-5 locally represents him giving requested massage through Ei's praise/thanks, not an independent speech or unlimited future agreement. Reciprocal REL-1202. |
+
+Existing CHAR-0037 gains specific preferences, making/care claims, open succession concern, qualified attachments and recipient requests; CHAR-0001 gains the bounded represented receiving/giving roles, no shared access to inward B0167 memory. Nanasta UNIT-0002 retains its earlier role without a new institutional event. Rei/Yuuko remain prior distinct identities; D/F/G supply no identification. No new CHAR/IDENTITY/UNIT/READY.
+
+Totals:1561KNOW/1203REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Complete current READY scan has no Ei decision; absence preserved, no invented R2/maturity, performed listening or monograph promotion.
 <!-- T7S ENTITY STATE PAYLOAD END -->
