@@ -5,10 +5,10 @@ artifact_type: character_state_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.7"
+version: "0.8"
 status: active_provisional
 scope: "Independent identity/state history and separate monograph/model readiness"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U05; narrative138–141, closing portrait142 separate"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U06 first-work exit; narrative144–202, frontispiece143 and closing art203/204 separate"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Character development and readiness
 
-**Records: 17. Subjects enrolled: 9. Current source boundary: CM-U05.** These are source-bounded state events, not finished monographs or validated models. Use the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md), [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) and [reconstruction protocol](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md).
+**Records: 20. Subjects enrolled: 9. Current source boundary: CM-U06.** These are source-bounded state events, not finished monographs or validated models. Use the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md), [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) and [reconstruction protocol](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md).
 
 ## Record schema
 
@@ -241,16 +241,50 @@ Prior CM-CS-012; identity unchanged. Primary route: [CM-U05-O003](../01%20Sequen
 
 Prior CM-CS-013; identity unchanged. Primary route: [CM-U05-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U05_DEEP_READING.md#cm-u05-o004); `CM-JP-AIO2020-LOCAL::sp0141::xhtml=item/xhtml/p-0139.xhtml::image=item/image/i-0139.jpg::panel=P00`. **Knowledge/action:** notices Kyoichi's abstraction, asks about it, hears an unsolicited clothing compliment and responds with surprise/flushed pleasure. No access to Kyoichi's private exit plan is supplied. **Change/limits:** ordinary appreciation gives relational evidence beyond pursuit/pressure, without proving a stable response to every compliment or a new agreement. CM-INF-018, CM-RS-019; U05 O003–O004, sp0140–0141; CM-CL-013/006 v5. High for depicted response, open for unvoiced interpretation and persistence. Closing portrait142 adds no smoking/work decision. Monograph evidence accumulating; model NOT_ASSESSED, no tests/global grade. Later independent choices/broader domains remain gaps.
 
+## U06 state events
+
+Revision 1, witness `CM-JP-AIO2020-LOCAL`, unit/disclosure CM-U06 and temporal scope through its exit. Student reports, present choice and the explicit two-month interval remain distinct. No new subject is enrolled: the reported adolescent senior, unseen phone recipient, unnamed colleague and taxi driver remain evidence-limited references/roles, not fabricated portraits. No new evidence changes the other six enrolled subjects.
+
+### CM-CS-018 — CM-CH-OTOMO
+
+Prior CM-CS-016; identity unchanged. Primary route: [CM-U06-O043](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o043); `CM-JP-AIO2020-LOCAL::sp0185::xhtml=item/xhtml/p-0183.xhtml::image=item/image/i-0183.jpg::panel=P00`.
+
+**Knowledge/self-conception:** receives Natsuki's renewed proposal, conceals it from Imagase, rejects him in a public binary choice through ordinary-man language, then privately voices fear of exclusive dependence/abandonment. Mistakes bath sleep for possible catastrophe, learns actual departure only through missing belongings/disconnected number, retains the cigarette remains for two months and later hears Imagase's different account. **Choices/links:** bodily refusal/interruption and apology, café rejection, renewed caring contact, delayed disposal, taxi pursuit, an exclusivity-like condition, acknowledgment of fear and expanded intimacy. CM-DEC-025/027/029/031/033, CM-INF-019–025, CM-RS-020/022–025.
+
+**Change/counterevidence:** absence defeats his expected costless drift; admitted retention exposes particular attachment; active pursuit again defeats literal helplessness. Ordinary-couple relief and fear of needing only Imagase explain more than orientation alone without determining a final identity. His demand that Imagase end another arrangement coexists with his unresolved Natsuki obligation/call. The penetrative reunion is a later act, not revision of U04 finger-only evidence or earlier refusals. **Evidence:** U06 O002–O008,O014–O030,O033–O044,O046–O060; sp0144–0150,0156–0172,0175–0186,0188–0202. CM-CL-001 v5/004 v5/005 v4/007 v3/008 v3/014/015. High for actions/represented fear, qualified for unique motives and lasting change; defensive target speculation remains unproved.
+
+**Readiness:** substantial cross-unit monograph evidence, review after full source reconciliation. Model REVIEW_AT_TITLE_WORK_FREEZE, no rule/test/global grade yet. Independent ordinary/work scenes remain limited; broader contexts and later development are gaps. Validation refs NONE.
+
+### CM-CS-019 — CM-CH-IMAGASE
+
+Prior CM-CS-017; identity unchanged. Primary route: [CM-U06-O019](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o019); `CM-JP-AIO2020-LOCAL::sp0161::xhtml=item/xhtml/p-0159.xhtml::image=item/image/i-0159.jpg::panel=P00`.
+
+**Knowledge/choices:** privately asks Natsuki to withdraw and confirms old advice intended separation; joins the binary-choice terms and accepts Kyoichi's rejection without an initial objection. Later asks once more for sex after Kyoichi initiates contact, then leaves with belongings and cuts a personal phone route. At reunion reports continued waiting, inability to eat and a week off work; corrects the assumption of completed new sex, explains the current wish to forget, learns the butts were kept, ends a proposed visit by a one-sided call and renews intimacy. CM-DEC-024/026/028/032, CM-INF-020–025, CM-RS-020–022/024/025.
+
+**State/conditioning:** persistent desire coexists with enacted withdrawal and an actual limit, not inevitable unlimited pursuit. Quiet acceptance has emotional cost; later plea belongs to a separate recontacted scene. Bath sleep and explicit denial do not certify self-harm. The taxi call attests colloquial dismissal to an unseen man, contrasted with pointed polite senior address to Kyoichi; no acoustic voice or recipient reply is invented. **Counterevidence/alternatives:** demands/intimidation and earlier boundary violations remain; waiting hopes do not negate physical departure, while later reconnection limits any permanent-disappearance claim. His pain/work costs are testimony, not a diagnosis or independent employment record. **Evidence:** U06 O004–O019,O023–O030,O040–O060; sp0146–0161,0165–0172,0182–0202. CM-CL-004 v5/005 v4/008 v3/014/015. Confidence high for acts/words, qualified for whole two-month history/private motives.
+
+**Readiness:** substantial monograph evidence and relationship/register contrasts; model REVIEW_AT_TITLE_WORK_FREEZE, no frozen rules/tests/global grade. Broader independent domains and stable later state remain gaps. Validation refs CM-PA-003 is a literary forecast result, not model validation.
+
+### CM-CS-020 — CM-CH-NATSUKI
+
+Prior CM-CS-014; identity unchanged. Primary route: [CM-U06-O020](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o020); `CM-JP-AIO2020-LOCAL::sp0162::xhtml=item/xhtml/p-0160.xhtml::image=item/image/i-0160.jpg::panel=P00`.
+
+**Knowledge/values/choices:** asks to renew dating and probes Kyoichi about Imagase; privately refuses Imagase's plea to disappear, says she chose Kyoichi and wants to forgive, admits first-man attachment and learns the old advice's manipulative purpose. Summons Kyoichi to the meeting, demands a choice and says she would not interfere if he were prepared to live with Imagase in the same world. After leaving together, challenges his jealousy/false hope and refuses to be the audience for a confession meant for Imagase. Later plans/books the holiday, confirms departure and calls while the men reunite. CM-DEC-023/030, CM-RS-021/023, CM-INF-019–021/025.
+
+**Contradictions/limits:** she supports explicit responsibility while treating Imagase as a ditch and using gendered pressure. Conditional acceptance complicates a simple categorical-prejudice account; her own tenderness/planning and hurt are not mere plot services. Her denial of Kyoichi's new-target account is testimony, not omniscience. No answered call/cancellation or final breakup/aftermath is shown. **Evidence:** U06 O002–O003,O009–O022,O031–O035,O037,O058–O060; sp0144–0145,0151–0164,0173–0177,0179,0200–0202. CM-CL-011 v2/004 v5/007 v3. High for decisions/words, qualified for past history and private interpretations.
+
+**Readiness:** independent sustained literary responsibility justified for final subject/secondary analysis, scope reviewed after corpus completion. Model NOT_ASSESSED; no sufficient varied independent inner/work/ordinary evidence or tests. No global readiness grade.
+
 ## Current projection
 
 | Character | Current event | Source-bounded state | Separate readiness |
 |---|---|---|---|
-| CM-CH-OTOMO | CM-CS-016 | Care as private exit experiment produces unintended warmth; no explicit termination | Monograph accumulating; model unassessed |
-| CM-CH-IMAGASE | CM-CS-017 | Surprised/pleased by unsolicited compliment; private exit plan not known | Monograph accumulating; model unassessed |
+| CM-CH-OTOMO | CM-CS-018 | Rejection, actual loss, retained trace and chosen pursuit; fear/intimacy with Natsuki obligation unresolved | Monograph accumulating; model review at title-work freeze |
+| CM-CH-IMAGASE | CM-CS-019 | Accepts rejection, leaves, reports painful waiting, then reconnects under changed information | Monograph accumulating; model review at title-work freeze |
 | CM-CH-CHIKAKO | CM-CS-003 | Requested divorce; new partner reported; later state unknown | Independent work reviewed after corpus |
 | CM-CH-COMPANION-U01 | CM-CS-004 | Violent act observed; breakup later reported; interior unavailable | Insufficient independent evidence; model unassessed |
 | CM-CH-NISHIMURA-MIZUNO | CM-CS-007 | Affair/invitations and household account; witnessed outburst, aftermath unknown | Independent work reviewed after corpus; model unassessed |
 | CM-CH-STUDENT-WOMAN-U02 | CM-CS-008 | Past kiss/warning; identity and formal status unverified | Insufficient independent evidence; model unassessed |
 | CM-CH-CLIENT-U02 | CM-CS-009 | Reported client, distinct from U01 companion; reacted to outburst | Insufficient independent evidence; model unassessed |
-| CM-CH-NATSUKI | CM-CS-014 | Own past love/critique, present affection and witnessed domestic familiarity; future unknown | Independent scope reviewed after corpus; model unassessed |
+| CM-CH-NATSUKI | CM-CS-020 | Own renewal/choice challenge, critique and holiday care; final call/aftermath unknown | Independent literary responsibility justified; model unassessed |
 | CM-CH-TAKASUGI | CM-CS-015 | Reported ex, reunion wish and honest-rejection request; outcome unknown | Evidence-limited review after corpus; model unassessed |

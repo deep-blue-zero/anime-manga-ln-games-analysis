@@ -5,10 +5,10 @@ artifact_type: relationship_state_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.7"
+version: "0.8"
 status: active_provisional
 scope: "Directional expectations, commitments, consent/boundaries and relational consequences"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U05; narrative138–141, closing portrait142 separate"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U06 first-work exit; narrative144–202, frontispiece143 and closing art203/204 separate"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_RELATIONSHIP_COMMITMENT_AND_BOUNDARY_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Relationship, commitment and boundary state
 
-**Records: 19. Dyads enrolled: 7. Source boundary: CM-U05.** Independent directions are recorded within each paired event; reciprocity is never assumed. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
+**Records: 25. Dyads enrolled: 8. Source boundary: CM-U06.** Independent directions are recorded within each paired event; reciprocity is never assumed. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
 
 ## Record schema
 
@@ -234,14 +234,43 @@ Prior NONE; A=Imagase, B=Takasugi; Otomo affected. Primary route: [CM-U04-O011](
 
 Revision 1, prior CM-RS-016, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-U05; A=Otomo, B=Imagase. Primary route: [CM-U05-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U05_DEEP_READING.md#cm-u05-o004); `CM-JP-AIO2020-LOCAL::sp0141::xhtml=item/xhtml/p-0139.xhtml::image=item/image/i-0139.jpg::panel=P00`. **A→B:** privately plans that adequate care will make gay dating burdensome, then deliberately asks about/compliments B's jacket. Recognizes a warm mood that frustrates the plan. **B→A:** asks why A is distracted and receives the compliment with surprise/flushed pleasure; no knowledge of the private plan is shown. **Terms/constraints:** CM-INF-018/CM-DEC-022 preserve unequal knowledge and intended versus immediate result. No new exclusivity, mutual classification, bodily permission or general repair is established. Older consent/privacy histories remain. **After/limits:** ordinary warmth and A's renewed unease, not an enacted breakup or final love declaration. U05 O001–O004, sp0138–0141; CM-CL-001 v4/005 v3/006 v5/013. High for plan/action/response, open for persistence. Other dyads have no new evidence; imagined comparison is not a new relationship.
 
+## U06 relationship events
+
+Revision 1, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-U06. A/B identities and prior records are explicit. Neither a forced choice nor renewed sex is silently treated as a complete mutual contract.
+
+### CM-RS-020 — CM-REL-OTOMO-IMAGASE, withheld proposal and bodily interruption
+
+Prior CM-RS-019; A=Otomo, B=Imagase. Primary route: [CM-U06-O008](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o008); `CM-JP-AIO2020-LOCAL::sp0150::xhtml=item/xhtml/p-0148.xhtml::image=item/image/i-0148.jpg::panel=P00`. **A→B:** withholds Natsuki's actual proposal, resists contact, forcefully interrupts and apologizes after B's pain, then rejects B's self-devaluing phrasing. **B→A:** recognizes evasion, frames a rival as thief-cat and proposes taking A beyond return; after interruption calls himself at fault for failing to know his place as gay. **Terms/power:** no new bodily assent follows from habitual shared bath/bed. CM-INF-019, CM-DEC-025; O004–O008, sp0146–0150; CM-CL-004 v5/007 v3/008 v3. Refusal and recognized hurt remain separately valid; exact impact mechanics/complete repair unshown.
+
+### CM-RS-021 — CM-REL-IMAGASE-NATSUKI
+
+Prior NONE; A=Imagase, B=Natsuki; Otomo affected but initially absent. Primary route: [CM-U06-O012](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o012); `CM-JP-AIO2020-LOCAL::sp0154::xhtml=item/xhtml/p-0152.xhtml::image=item/image/i-0152.jpg::panel=P00`. **A→B:** admits old advice aimed at breaking the student couple, says he cannot win if B is serious, begs her to step aside and describes barely managing attachment. **B→A:** says she chose/loved Otomo, wants to forgive unless he ends it, refuses disappearance, calls A a ditch and challenges him to withdraw if defeated. Later claims conditional willingness not to interfere with a prepared male choice. **Knowledge/terms:** CM-INF-020/021, CM-DEC-023/024. Shared history and competing wishes are voiced, no shared moral verdict or agreed rights over Otomo. B calls him to join, correcting his assumption A controlled the meeting. O009–O017, sp0151–0159; CM-CL-011 v2/004 v5. Both show agency/pressure; no literal murder plan is inferred from A's hostile recollection.
+
+### CM-RS-022 — CM-REL-OTOMO-IMAGASE, explicit café rejection and first acceptance
+
+Prior CM-RS-020; A=Otomo, B=Imagase. Primary route: [CM-U06-O019](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o019); `CM-JP-AIO2020-LOCAL::sp0161::xhtml=item/xhtml/p-0159.xhtml::image=item/image/i-0159.jpg::panel=P00`. **A→B:** within Natsuki's binary romantic challenge/unchosen-withdraws proposal, says he cannot choose B and an ordinary man cannot do this, asking understanding. **B→A:** says yes/knows his place with no initial objection/counteroffer before A and Natsuki leave. **Terms/consequence:** rejection actually terminates this interaction; emotional pain is not disproved. CM-INF-021, CM-DEC-025/026; O014–O019, sp0156–0161; CM-CL-005 v4/014/CM-PA-003. CM-PA-003 FAILURE concerns this first response under its contextual-selection bound; later separate plea cannot replace it. No destined-love or permanent-separation conclusion.
+
+### CM-RS-023 — CM-REL-OTOMO-NATSUKI, selected ordinary life and unresolved obligation
+
+Prior CM-RS-017; A=Otomo, B=Natsuki. Primary route: [CM-U06-O022](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o022); `CM-JP-AIO2020-LOCAL::sp0164::xhtml=item/xhtml/p-0162.xhtml::image=item/image/i-0162.jpg::panel=P00`. **A→B:** surprised by renewal offer, leaves with B after rejecting Imagase, voices relief in ordinary couple appearance, then tells B his fear of dependence on Imagase. Later thanks B's trip planning while distracted, confirms a departure arrangement but is with Imagase during B's call. **B→A:** proposes, kisses, delays demanded reply, forces choice, recognizes jealousy and asks an end to false hope. Refuses to receive the absent man's confession, then offers tangible holiday planning/care. **Terms/knowledge:** CM-INF-019/021/025, CM-DEC-023/025/030/033. Renewed sexual/ongoing company is evidenced, no full explicit exclusivity clauses or final breakup/cancellation shown. Imagase does not have certified access to the private hotel admissions. O002–O003,O020–O022,O031–O035,O037,O058–O060, sp0144–0145,0162–0164,0173–0177,0179,0200–0202; CM-CL-011 v2/007 v3/005 v4. Her independent stake cannot be erased by the reunion.
+
+### CM-RS-024 — CM-REL-OTOMO-IMAGASE, renewed contact, last plea and actual absence
+
+Prior CM-RS-022; A=Otomo, B=Imagase. Primary route: [CM-U06-O029](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o029); `CM-JP-AIO2020-LOCAL::sp0171::xhtml=item/xhtml/p-0169.xhtml::image=item/image/i-0169.jpg::panel=P00`. **A→B:** rushes to an imagined bath emergency, accepts sleep correction, embraces/kisses and blocks Natsuki discussion; expects familiar routine to continue. **B→A:** denies suicidal response to rejection, asks once more for sex and says refusal means no further touch, then removes belongings/disconnects a number. No packing is shown, but convergent absence cues warrant departure. **Permission/consequence:** wet-shirt dismissal is not secure act-specific sexual assent; no completed bath-night sex is certified. Departure defeats A's expected painless continuation and makes the limit understood too late. CM-INF-022/023, CM-DEC-027/028/029; O023–O032,O036, sp0165–0174,0178; CM-CL-004 v5/005 v4/008 v3/014/015. No observed self-harm or permanent future cutoff is inferred; two-month pain/contact accounts arrive later.
+
+### CM-RS-025 — CM-REL-OTOMO-IMAGASE, pursuit, conditional return and fearful intimacy
+
+Prior CM-RS-024; A=Otomo, B=Imagase. Primary route: [CM-U06-O049](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o049); `CM-JP-AIO2020-LOCAL::sp0191::xhtml=item/xhtml/p-0189.xhtml::image=item/image/i-0189.jpg::panel=P00`. **A→B:** pursues/intercepts taxi, indirectly raises retained butts then admits inability to discard them, refuses a kiss while another arrangement exists, demands its termination and voices fear. Joins renewed intimacy/penetrative sex; his own Natsuki obligation is unresolved on the page. **B→A:** first maintains pointed formal distance, reports painful waiting/unused contact routes, corrects completed-sex assumption, then ends a proposed visit by a one-sided call and says he fears A too. **Terms/repair:** CM-INF-024/025, CM-DEC-031–033. Greater particular investment, a fidelity-like demand and changed participation do not establish all mutual terms, comprehensive permission or repair of old coercion/privacy. O037–O060, sp0179–0202; CM-CL-001 v5/005 v4/007 v3/008 v3/014/015. No recipient reply or agreed exclusivity for the unseen man invented. The open drowning/future question and unanswered call remain part of the endpoint.
+
 ## Current projection
 
 | Dyad | Latest event | Directional endpoint / unresolved terms |
 |---|---|---|
-| CM-REL-OTOMO-IMAGASE | CM-RS-019 | Deliberate compliment produces warmth despite A’s private exit aim; prior terms/limits retained |
+| CM-REL-OTOMO-IMAGASE | CM-RS-025 | Actual withdrawal then renewed chosen access, exclusivity demand/fear/intimacy; mutual terms and other obligations open |
 | CM-REL-OTOMO-CHIKAKO | CM-RS-005 | B requests exit; A narrates divorce; no six-month B state or repaired marriage |
 | CM-REL-IMAGASE-COMPANION-U01 | CM-RS-006 | A reports breakup; B's account absent; violence and unknown agreements retained |
 | CM-REL-OTOMO-NISHIMURA | CM-RS-012 | Affair treated as ended by men; her aftermath/account unshown |
 | CM-REL-OTOMO-STUDENT-WOMAN-U02 | CM-RS-013 | Past kiss/contact only; identity and formal terms unverified |
-| CM-REL-OTOMO-NATSUKI | CM-RS-017 | Past dating/critique and renewed contact, no newly agreed exclusive status |
+| CM-REL-OTOMO-NATSUKI | CM-RS-023 | Renewed company/holiday planning; final call and relationship resolution unshown |
 | CM-REL-IMAGASE-TAKASUGI | CM-RS-018 | Reported former relation/rejected reunion; joint departure is not proof of resumed romance |
+| CM-REL-IMAGASE-NATSUKI | CM-RS-021 | Independent competing wishes, refused plea and shared choice challenge; no rights over Otomo established |
