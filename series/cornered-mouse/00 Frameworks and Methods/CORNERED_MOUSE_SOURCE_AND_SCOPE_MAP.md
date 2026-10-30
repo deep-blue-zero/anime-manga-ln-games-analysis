@@ -5,7 +5,7 @@ artifact_type: source_scope_map
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.6"
+version: "0.7"
 status: active_provisional
 scope: "Canonical work, edition, component and evidence-availability map"
 source_boundary: "Owner-selected revised Japanese All-in-One; unit coverage and run state are recorded in the current entrypoint and source map"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Source and scope map
 
-This is the single project source/scope authority. Bibliographic/bootstrap verification: 2026-10-24; local file and processing reverified: 2026-10-29. The owner-authorized continuous run begins at CM-U01 and ends at CM-S01 after the mainline freeze. Individual component ranges are verified at admission; CM-U01–U02 are fully read/frozen through the physical bundle at sp0091, with U02's explicit narrative end at sp0090. Later complete ranges remain unverified. See the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) for operational permission.
+This is the single project source/scope authority. Bibliographic/bootstrap verification: 2026-10-24; local file and processing reverified: 2026-10-29. The owner-authorized continuous run begins at CM-U01 and ends at CM-S01 after the mainline freeze. Individual component ranges are verified at admission; CM-U01–U03 are fully read/frozen through the physical bundle at sp0096, with U03's explicit narrative end at sp0095. Later complete ranges remain unverified. See the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) for operational permission.
 
 ## Work identity and bibliographic witnesses
 
@@ -85,7 +85,7 @@ At the bootstrap, only two non-narrative images were visually read: `item/image/
 
 ## Component candidates and four orders
 
-For this witness, the proposed atomic unit is a **chapter or separately titled collected component**, including short interludes. A complete volume is not presumed to be one transaction. Keys are project identities; each future witness needs its own page mapping. At the opening checkpoint none had been completed; the live verified-ranges table now records U01–U02. The run record owns the authorized queue; the verified-ranges table below will record actual admission and closeout.
+For this witness, the proposed atomic unit is a **chapter or separately titled collected component**, including short interludes. A complete volume is not presumed to be one transaction. Keys are project identities; each future witness needs its own page mapping. At the opening checkpoint none had been completed; the live verified-ranges table now records U01–U03. The run record owns the authorized queue; the verified-ranges table below will record actual admission and closeout.
 
 | Candidate | Contents label | Printed start shown in contents | Collection group / proposed disclosure |
 |---|---|---:|---|
@@ -102,7 +102,7 @@ For this witness, the proposed atomic unit is a **chapter or separately titled c
 | `CM-PARA-AFTERWORD` | あとがき | 498 | Paratext; not narrative admission |
 | `CM-S01` | ハミングバード・ラプソディ | 501 | Later supplement, separate post-mainline admission |
 
-SPECIAL COLORS is listed at 002; it is uninspected illustration/paratext material. Beyond the verified U01–U02 ranges and U03 opening below, component end pages, opening-page identity, missing/duplicate pages, and the boundary of the original sequel's final closing material remain **unverified**. Do not infer an end as next start minus one or equate a filename number with printed pagination. Before each unit, reconcile a bounded structural range without consuming later narrative; splitting a long titled component needs an explicit prospective checkpoint plan before reading it.
+SPECIAL COLORS is listed at 002; it is uninspected illustration/paratext material. Beyond the verified U01–U03 ranges and U04 opening below, component end pages, opening-page identity, missing/duplicate pages, and the boundary of the original sequel's final closing material remain **unverified**. Do not infer an end as next start minus one or equate a filename number with printed pagination. Before each unit, reconcile a bounded structural range without consuming later narrative; splitting a long titled component needs an explicit prospective checkpoint plan before reading it.
 
 Publication order is separately recorded by edition and first-publication evidence, not inferred from this collection. [Mizushiro's January announcement][B06], corroborated by the [publisher's magazine record][B07], identifies Hummingbird in *flowers* March 2020, released January 28, before its All-in-One collection. Individual original chapter serialization dates remain unresolved.
 
@@ -120,9 +120,10 @@ The authorized narrative sequence is CM-U01 through CM-U10 in this witness's col
 |---|---|---|
 | CM-U01 | sp0011–sp0050; `item/xhtml/p-0009.xhtml` / `item/image/i-0009.jpg` through `item/xhtml/p-0048.xhtml` / `item/image/i-0048.jpg` | Complete forty-image inspection and atomic closeout; opening title and explicit end label verified; [reading/coverage](../01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md), freeze CM-U01-EXIT |
 | CM-U02 | Physical bundle sp0051–sp0091, `p-0049.xhtml` / `i-0049.jpg` through `p-0089.xhtml` / `i-0089.jpg`; full prefixes are `item/xhtml/` and `item/image/`. Narrative sequence sp0052–sp0090, explicit end label sp0090; sp0091 untitled closing illustration | Complete forty-one-image inspection/atomic closeout; two illustrations separately counted; [reading/coverage](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md), freeze CM-U02-EXIT |
-| CM-U03 | Opening sp0092, `item/xhtml/p-0090.xhtml` / `item/image/i-0090.jpg`, title 黒猫、月を見る verified by bounded crops; complete end/range pending | Next authorized operation after U02 commit; title probe exposed two opening PC-checking captions and partial scene, declared in U02. No full U03 image read |
+| CM-U03 | Physical bundle sp0092–sp0096, `item/xhtml/p-0090.xhtml` / `item/image/i-0090.jpg` through `item/xhtml/p-0094.xhtml` / `item/image/i-0094.jpg`; four narrative images, explicit end sp0095, closing illustration sp0096 | Complete five-image inspection/atomic closeout; [reading/coverage](../01%20Sequential%20Readings/CORNERED_MOUSE_U03_DEEP_READING.md), freeze CM-U03-EXIT; prior caption exposure preserved historically |
+| CM-U04 | Opening sp0097, `item/xhtml/p-0095.xhtml` / `item/image/i-0095.jpg`, title 黒猫の冷えた指先 verified by bands; complete end/range pending | Next authorized operation; bands collectively exposed most frontispiece art/title (y0–1100), no narrative scene/dialogue. Exposure declared in U03 and forecast003 |
 
-The ordered local index verifies 539 distinct image resources, decoded at 847 × 1200, with source-member digests and rtl spine positions. Its exact local location remains in the workspace handoff. Before the entering boundary only the known contents image was viewed in the run capability probe. U01–U02 subsequently verified usable Japanese narrative lettering and eighty-one-image bundle coverage (seventy-eight narrative-sequence images, two frontispieces and one closing illustration); no OCR was used. With bootstrap contents/colophon, eighty-three distinct source images are fully inspected. U01's bounded sp0051 art/title exposure is now superseded by full U02 inspection, without altering that historical freeze. U02's three sp0092 crops verified the next title and exposed two captions about returning before one's senior/checking the PC, architecture and partial figure/door; this is declared forward exposure, not a completed U03 reading. Resource decoding is not reading. Bookmark content remains uninspected. Each completed reading preserves exact image digests, observed pagination anchors and end-label evidence; later source completion is open.
+The ordered local index verifies 539 distinct image resources, decoded at 847 × 1200, with source-member digests and rtl spine positions. Its exact local location remains in the workspace handoff. Before the entering boundary only the known contents image was viewed in the run capability probe. U01–U03 subsequently verified usable Japanese narrative lettering and eighty-six-image bundle coverage (eighty-two narrative-sequence images, two frontispieces and two closing illustrations); no OCR was used. With bootstrap contents/colophon, eighty-eight distinct source images are fully inspected. Earlier sp0051 art/title and sp0092 caption exposures are now followed by full U02/U03 inspection without altering their historical freezes. U03's three sp0097 bands collectively exposed most next frontispiece art/title (y0–1100: faces/proximity, hands, clothing, roses and thorny branches). The bottom100 pixels and U04 narrative scenes/dialogue were not inspected; substantial art exposure is declared, not a completed U04 reading. Resource decoding is not reading. Bookmark content remains uninspected. Each completed reading preserves exact image digests, observed pagination anchors and end-label evidence; later source completion is open.
 
 ## Edition choice, conflict rules and admission
 

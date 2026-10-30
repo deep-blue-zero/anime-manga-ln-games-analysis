@@ -5,10 +5,10 @@ artifact_type: claim_revision_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: active_provisional
 scope: "Interpretive claim lineage, genuine prospective forecasts and revision impact"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U02; story ends sp0090, closing illustration sp0091 separately classified"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U03; story ends sp0095, closing illustration sp0096 separately classified"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Claims, predictions and revisions
 
-**Claims: 9. Predictions: 2 (both adjudicated). Claim revision events: 6. Forecast adjudication events: 2. Source boundary: CM-U02.** U01 formulations and original forecast bytes remain unchanged; the current projection and appended U02 events identify later authority. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
+**Claims: 10. Predictions: 3 (two adjudicated, one pending). Claim revision events: 9. Forecast adjudication events: 2. Source boundary: CM-U03.** U01 formulations and original forecast bytes remain unchanged; the current projection and appended U02 events identify later authority. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
 
 ## Schemas and revision vocabulary
 
@@ -164,6 +164,39 @@ Original CM-PR-001/002 text, timestamps, prior exposure and UNOBSERVED-at-creati
 
 **U03 abstention:** no new forecast is issued. The source-boundary title probe exposed two captions about returning before one's senior/checking the PC. Repackaging that premise as a prediction would be retrospective. U03 remains unread in full; its actual role and consequences will be inspected after the U02 commit.
 
+## U03 claim and revision events
+
+### CM-CL-010 v1 — care, monitoring and self-restraint coexist
+
+Created at CM-U03-EXIT; kind SUPPORTED_INTERPRETATION; witness `CM-JP-AIO2020-LOCAL`, temporal/disclosure scope this short. Primary route: [CM-U03-O003](../01%20Sequential%20Readings/CORNERED_MOUSE_U03_DEEP_READING.md#cm-u03-o003); `CM-JP-AIO2020-LOCAL::sp0094::xhtml=item/xhtml/p-0092.xhtml::image=item/image/i-0092.jpg::panel=P00`. **Formulation:** Imagase's represented interior joins domestic care, covert monitoring and an effort to regulate hope; the trace that prompts his hope does not establish Otomo's motive, and perceived moon-like distance is not mutual knowledge. **Evidence:** U03 O001–O004, sp0092–0095. **Counterevidence/alternative:** earlier actual withdrawals show capacity to leave; concern/self-protection can coexist with surveillance, which has no new shown permission. The query may express curiosity, concern, alarm or desire. **Confidence:** high for represented coexistence, moderate for its broader explanatory use, unknown for query motive/future promise. **Falsifier:** corrected focalization or direct Otomo explanation would revise the relevant inference; no single motive/diagnosis is claimed. **Unresolved:** enduring self-regulation and actual response to a terminating condition. **Downstream:** CM-CS-010/011, CM-RS-014, CM-INF-013, CM-DEC-014; future attachment/privacy work. No monograph/model promotion.
+
+### CM-CR-007 — CM-CL-004, v2 → v3, STRENGTHEN
+
+**Old v2:** actual access routes distinguish suspicion, phone knowledge and corrected rival inference. **New v3:** through U03, direct Imagase interior, visible digital trace and unverified Otomo motive remain distinct planes; a confident or emotionally plausible interpretation is not automatically shared knowledge. **Evidence:** U03 O001–O004, sp0092–0095. Primary route: [CM-U03-O002](../01%20Sequential%20Readings/CORNERED_MOUSE_U03_DEEP_READING.md#cm-u03-o002); `CM-JP-AIO2020-LOCAL::sp0093::xhtml=item/xhtml/p-0091.xhtml::image=item/image/i-0091.jpg::panel=P00`. **Counterevidence/alternative:** the query is strongly attributable to the PC owner, but no typing/motive scene independently establishes its purpose. **Confidence:** high for access distinctions, qualified for attribution, open for motive. **Falsifier:** direct explanation/corrected attribution can settle the specific gap without rewriting earlier knowledge. **Downstream:** CM-CS-010/011, CM-RS-014, CM-INF-013 updated; prior source records unchanged.
+
+### CM-CR-008 — CM-CL-005 v2, PRESERVE
+
+**Old/new:** U02 active intimacy and provisional offer leave permanence, exclusivity, identity conversion and full repair unestablished. **Reason:** U03's private hope makes the emotional cost of disappearance legible, but no qualifying future choice/request tests the promise. Primary route: [CM-U03-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U03_DEEP_READING.md#cm-u03-o004); `CM-JP-AIO2020-LOCAL::sp0095::xhtml=item/xhtml/p-0093.xhtml::image=item/image/i-0093.jpg::panel=P00`. O001–O004 supplies interior context, not an actual breach. **Counterevidence:** both earlier withdrawals were enacted; current self-restraint may support keeping a difficult promise. **Confidence/falsifier:** v2 limits and scoped agreement test retained. **Downstream:** CM-RS-014/CM-CS-011 add context; original offer in CM-INF-012/CM-RS-011 remains intact. CM-PR-003 is a new future test, not retroactive proof.
+
+### CM-CR-009 — CM-CL-006, v2 → v3, STRENGTHEN
+
+**Old v2:** temporal reveals, corrected inferences, absence imagery and mediated symbols shape understanding. **New v3:** U03's focal shift and imagined monitor scene grant access to one person's reasoning while marking the other's unknowability; repeated moon/apartment framing makes distance explicitly subjective. **Evidence:** U03 O001–O005, sp0092–0096. Primary route: [CM-U03-O001](../01%20Sequential%20Readings/CORNERED_MOUSE_U03_DEEP_READING.md#cm-u03-o001); `CM-JP-AIO2020-LOCAL::sp0092::xhtml=item/xhtml/p-0090.xhtml::image=item/image/i-0090.jpg::panel=P00`. **Counterevidence/alternative:** visual ornament/pacing coexist, and the closing illustration supplies no narrated agreement. **Confidence:** high for access/frame/explicit metaphor, moderate for thematic integration across units. **Falsifier:** corrected focal/order evidence could revise mechanism; no species/folklore or universal-symbol claim. **Downstream:** U03 reading, later form/integrated synthesis; no extra ledger.
+
+**Other claims:** CM-CL-001 v2 retains its U01–U02 contextual formulation; the recalled chore is recorded with its uncertainty in CM-CS-010, not silently promoted to a new general trait. CM-CL-002/003/007/008/009 receive PRESERVE/no-new-adjudicative-evidence dispositions at U03: no new hotel consent, Chikako/Nishimura account, identity declaration or embodied permission negotiation is shown. Closing art is excluded from such claims. CM-PA-001/002 remain the only completed forecast outcomes.
+
+## New prospective forecast at CM-U03-EXIT
+
+### CM-PR-003 — response to an explicit female-choice withdrawal request
+
+- **Rule/claim refs:** CM-CL-005 v2/010; literary forecast, no operational rule/model.
+- **Recorded at:** `2026-10-30T05:22:26+00:00`; preoutcome freeze CM-U03-EXIT, bound by the complete U03 transaction commit before U04 narrative access.
+- **Entering knowledge:** U01–U03 only, including two enacted withdrawals, the provisional disappearance offer and newly represented hope/self-restraint. Prior bibliography and the declared U04 frontispiece bands (most art/title, no scene/dialogue) are exposure; no blind benchmark claim.
+- **Target/eligibility:** the first scene within CM-U04–CM-U06 in which Otomo explicitly chooses a woman for a romantic relationship and asks Imagase to end/withdraw their arrangement. A mere affair, presumed rival or analyst-inferred preference is not eligible. This observable declaration/request is a proxy; it cannot establish the subjective truth of destined/real love.
+- **Predicted response:** Imagase will voice an objection to ending the arrangement or offer a modified way to remain, before any withdrawal. The test concerns an observable response and cost, not a guaranteed promise breach or ethical verdict.
+- **Falsifier/scoring:** acceptance and departure/termination of the interaction without such objection/counteroffer is FAILURE, even if sadness is voiced. A voiced objection followed by eventual compliance supports the specified response but does not prove inability to honor departure. If the scene ends before a response, UNOBSERVED. If no eligible trigger occurs by U06 end, NON_DISCRIMINATING; do not substitute a later/cherry-picked case.
+- **Confidence/counterevidence:** tentative, moderate-low. Persistent hope supports hesitation; actual prior withdrawals and present self-restraint favor compliance. No numerical probability or broad portability claim.
+- **Outcome/adjudication:** UNOBSERVED. Rule revision ref NONE. No predictive credit yet.
+
 ## Current claim projection
 
 | Claim | Current formulation | Authority boundary / disposition |
@@ -171,9 +204,10 @@ Original CM-PR-001/002 text, timestamps, prior exposure and UNOBSERVED-at-creati
 | CM-CL-001 | v2 in CM-CR-001 | U01–U02 contextual agency; REVISE |
 | CM-CL-002 | v1 above | U01 hotel mechanism preserved by CM-CR-002 |
 | CM-CL-003 | v1 above | Chikako account preserved by CM-CR-003; no U02 new evidence |
-| CM-CL-004 | v2 in CM-CR-004 | Actual access routes; STRENGTHEN |
+| CM-CL-004 | v3 in CM-CR-007 | Digital trace/interior/unknown motive; STRENGTHEN |
 | CM-CL-005 | v2 in CM-CR-005 | Active intimacy/provisional offer; REVISE |
-| CM-CL-006 | v2 in CM-CR-006 | Temporal/access/form evidence; STRENGTHEN |
+| CM-CL-006 | v3 in CM-CR-009 | Focal shift/moon distance and prior formal evidence; STRENGTHEN |
 | CM-CL-007 | v1 above | U02 normalcy/self-explanation, identity open |
 | CM-CL-008 | v1 above | U02 changing participation and bilateral permission limits |
 | CM-CL-009 | v1 above | Nishimura's independent agency/qualified family account |
+| CM-CL-010 | v1 above | U03 care/monitoring/self-restrained hope; motives bounded |

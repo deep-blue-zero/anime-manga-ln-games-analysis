@@ -5,10 +5,10 @@ artifact_type: information_decision_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: active_provisional
 scope: "Causal information distribution, perceived choices and consequential decisions"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U02; story ends sp0090, closing illustration sp0091 separately classified"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U03; story ends sp0095, closing illustration sp0096 separately classified"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_INFORMATION_LEVERAGE_AND_DECISION_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Information, leverage and decision state
 
-**Information records: 12. Decision records: 13. Source boundary: CM-U02.** Information mechanics and choice constraints remain separately retrievable from their relational consequences. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
+**Information records: 13. Decision records: 14. Source boundary: CM-U03.** Information mechanics and choice constraints remain separately retrievable from their relational consequences. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
 
 ## Record schemas
 
@@ -117,6 +117,14 @@ Primary route: [CM-U02-O028](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DE
 
 Primary route: [CM-U02-O039](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o039); `CM-JP-AIO2020-LOCAL::sp0089::xhtml=item/xhtml/p-0087.xhtml::image=item/image/i-0087.jpg::panel=P00`. **Proposition/truth:** return is made conditional on sex, hurt is invoked, passive YES is challenged, Otomo initiates and Imagase protests; later specific permissions are asked with one answer withheld. Imagase then denies requiring gay identity/lifelong commitment and offers companionship until a future woman, promising disappearance. **Knowledge:** both hear the terms, but no explicit assent to every condition or full exclusivity clause is voiced. Kyoichi privately considers a never-yet-real-love hypothesis. **Higher-order:** each reads the other's limits/initiative; neither has complete guaranteed knowledge of future capacity. **Timing/leverage:** door negotiation → encounter → after-scene offer, not retrospective authorization of U01. **Limits/alternatives:** affection, pressure, fear of loss, generosity, self-protection and strategic minimization remain distinguishable; future promise untested. **Links:** CM-DEC-010/011/012, CM-RS-010/011; O029–O040, sp0079–0090. High for requests/offer, unresolved for hidden permissions and durable understanding. CM-CL-005 v2/007/008.
 
+## U03 information event
+
+### CM-INF-013 — unexpected PC query and unverified motive
+
+Revision 1, prior record NONE, witness `CM-JP-AIO2020-LOCAL`, unit/disclosure CM-U03. Primary route: [CM-U03-O002](../01%20Sequential%20Readings/CORNERED_MOUSE_U03_DEEP_READING.md#cm-u03-o002); `CM-JP-AIO2020-LOCAL::sp0093::xhtml=item/xhtml/p-0091.xhtml::image=item/image/i-0091.jpg::panel=P00`. **Proposition/truth:** PC query ハッテン場 is displayed; Imagase dates it four days earlier, attributes it to Otomo and recalls unusual unsolicited help. **Knowledge:** reader and Imagase see the trace; no direct typing scene or Otomo explanation is supplied. Imagase's routine checking rationale, hope and imagined reaction are represented interior, not Otomo's actual motive. Otomo's knowledge of the inspection is unknown.
+
+**Higher-order/audience:** Imagase wonders whether his prior story concerned Otomo, fears pity/obligation, conditionally allows the possibility of love, and tells himself to know his place. He voices no confrontation to Otomo in this short. **Timing/leverage:** current covert inspection versus four-days-prior query and recalled help; routine monitoring seeks early knowledge of women/relative position, but the new trace concerns another question. His no-right-to-interfere assertion does not authorize access. **Limits/alternatives:** curiosity, concern, alarm, desire or mixed aims remain open; no visit, orientation or commitment follows from a search. Shutdown is not deletion or renunciation of monitoring. **Links:** CM-CS-010/011, CM-RS-014, CM-DEC-014; U03 O001–O004, sp0092–0095. High for trace and represented inference, qualified for typing attribution, unknown for motive. CM-CL-010/004 v3/006 v3.
+
 ## Decision records
 
 All decisions bind the same witness and U01 source boundary. These records distinguish an observed choice from the analyst's incomplete inventory of possible alternatives. They do not certify that every hypothetical alternative was practically available.
@@ -144,8 +152,18 @@ The following decisions retain the same witness and CM-U02 disclosure boundary. 
 | **CM-DEC-012 / Imagase**, after encounter, CM-RS-010 | CM-INF-012. Proposes present companionship while acknowledging future different love; whether promise minimizes demand or expresses sacrifice is unresolved | Says no gay conversion/lifetime requirement, promises to disappear for a future woman and asks companionship until then. Can-touching and continued proximity follow; no proved mutual assent to all terms or painless future exit | O038–O040; sp0088–0090. CM-CL-005 v2/007/008. [CM-U02-O039](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o039); `CM-JP-AIO2020-LOCAL::sp0089::xhtml=item/xhtml/p-0087.xhtml::image=item/image/i-0087.jpg::panel=P00` |
 | **CM-DEC-013 / Nishimura**, marital/reunion account, CM-CS-007 | CM-INF-008. Reports not being cherished and earlier liking for Otomo; marriage/child obligations known through her account, household alternatives incomplete | Initiates/repeats hotel invitations, seeks reassurance and supplies parents-home alibi. Witnesses the outburst; the men later speak of ending the affair, her own aftermath unshown. Independent agency retained without certifying all family blame | O002–O003,O009–O014,O024–O029; sp0052–0053,0059–0064,0074–0079. CM-CL-009. [CM-U02-O024](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o024); `CM-JP-AIO2020-LOCAL::sp0074::xhtml=item/xhtml/p-0072.xhtml::image=item/image/i-0072.jpg::panel=P00` |
 
+## U03 decision event
+
+### CM-DEC-014 — Imagase checks, self-rebukes and waits
+
+Witness `CM-JP-AIO2020-LOCAL`, unit/disclosure CM-U03, prior state CM-CS-006/CM-RS-011. Primary route: [CM-U03-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U03_DEEP_READING.md#cm-u03-o004); `CM-JP-AIO2020-LOCAL::sp0095::xhtml=item/xhtml/p-0093.xhtml::image=item/image/i-0093.jpg::panel=P00`. **Information:** CM-INF-013 and prior unreciprocated history. **Aims/constraints:** says he wants situational knowledge/avoiding trouble, discovers a reason to hope, rejects pity and asserts no right to intervene. Complete practical options/costs are unshown; Otomo is not present for a direct conversation here.
+
+**Choice/result:** covertly checks the PC, imagines explanations, rebukes himself, powers down and plans a bath/wait rather than confronting. This is a shown decision sequence, not a free-choice certification or proof surveillance stopped permanently. **Alternatives:** care/self-protection/monitoring interest can coexist; no unique motive or deletion is inferred. U03 O001–O004, sp0092–0095; CM-CL-010/004 v3/005 v2. No later outcome is yet inspected. No Otomo decision record is invented for the unseen query action.
+
 ## Current retrieval projection
 
 CM-INF-001/002 retain the original leverage; CM-INF-003/004 retain later changes in the marital explanation; CM-INF-005 protects unequal reader/character access; CM-INF-006 retains testimony/status limits. At exit no new report demand is shown, but prior pressure is historical evidence, not deleted. No information record proves omniscient investigation, an orientation, a unique motive or repaired trust.
 
 At U02 exit, CM-INF-007 preserves contested bodily limits,008 the affair/alibi,009 past/current chronology,010 private-message knowledge,011 the corrected client inference,012 provisional terms and permission gaps. The new work/client account never converts the U01 companion into the same person. The ending promise is a future utterance, not a demonstrated exit. Decision records preserve both central participants' initiative and Nishimura's independent choices.
+
+At U03 exit CM-INF-013 separates the visible digital trace, Imagase's present interior and Otomo's unknown motive. CM-DEC-014 owns checking/shutdown/waiting. No new mutual knowledge or promise outcome is created.

@@ -5,10 +5,10 @@ artifact_type: character_state_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: active_provisional
 scope: "Independent identity/state history and separate monograph/model readiness"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U02; story ends sp0090, closing illustration sp0091 separately classified"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U03; story ends sp0095, closing illustration sp0096 separately classified"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Character development and readiness
 
-**Records: 9. Subjects enrolled: 7. Current source boundary: CM-U02.** These are source-bounded state events, not finished monographs or validated models. Use the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md), [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) and [reconstruction protocol](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md).
+**Records: 11. Subjects enrolled: 7. Current source boundary: CM-U03.** These are source-bounded state events, not finished monographs or validated models. Use the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md), [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) and [reconstruction protocol](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md).
 
 ## Record schema
 
@@ -163,12 +163,34 @@ Prior NONE. Primary evidence: [CM-U02-O028](../01%20Sequential%20Readings/CORNER
 
 Mika (美佳 / みか) is a named reference, not a separately reconstructed subject: the student-era remark does not establish her identity, perspective or a merge with any earlier affair partner. Anonymous classmates, circle recruiter and reported family members remain locatable in observations without invented portraits.
 
+## U03 state events
+
+Both events have revision 1, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-U03 and temporal scope through its exit. Their prior records remain unchanged. No new subject is enrolled, and no other subject gains new independent evidence.
+
+### CM-CS-010 — CM-CH-OTOMO
+
+Prior CM-CS-005. Primary route: [CM-U03-O003](../01%20Sequential%20Readings/CORNERED_MOUSE_U03_DEEP_READING.md#cm-u03-o003); `CM-JP-AIO2020-LOCAL::sp0094::xhtml=item/xhtml/p-0092.xhtml::image=item/image/i-0092.jpg::panel=P00`. Identity/aliases unchanged. **Evidence/state:** a cruising-related query appears on his PC; Imagase dates it to four days earlier and attributes it to him and recalls unsolicited washing-up help. The trace is visible and attribution strongly invited, but the typing actor is not independently shown. His query motive, current whereabouts, awareness of surveillance, present self-conception and commitments are unvoiced. The remembered chore is another local instance of initiative, not proof of a new stable identity or repaired household history.
+
+**Links:** CM-INF-013, CM-RS-014; U03 O001–O003, sp0092–0094; CM-CL-010/004 v3. **Alternatives:** curiosity, concern, alarm, desire or mixed reasons could motivate a query; no venue visit or intended sexual conduct is shown. Kindness could be care, guilt or another motive. Confidence high for trace/represented recollection, qualified for agency attribution, unknown for motive. No new Kyoichi decision record is invented from unseen typing.
+
+**Readiness:** monograph evidence accumulating, model NOT_ASSESSED; no validation refs. Gaps persist for direct motive, independent contexts and later change. The original U01–U02 agency claim retains its declared scope rather than silently absorbing an uncertain new motive.
+
+### CM-CS-011 — CM-CH-IMAGASE
+
+Prior CM-CS-006. Primary route: [CM-U03-O001](../01%20Sequential%20Readings/CORNERED_MOUSE_U03_DEEP_READING.md#cm-u03-o001); `CM-JP-AIO2020-LOCAL::sp0092::xhtml=item/xhtml/p-0090.xhtml::image=item/image/i-0090.jpg::panel=P00`. Identity unchanged. **Present knowledge/interior:** directly represented thoughts disclose routine PC/mail/history monitoring for women, the unexpected query/date and his own speculation. He says he lacks a right to interfere, wishes to know his place and rejects pity/responsibility as a substitute for being loved. He recognizes hope growing and rebukes himself; the moon expresses perceived distance, not known Otomo feeling.
+
+**Choices/links:** checks the PC, imagines possible explanations, recalls help, powers down and plans a bath/wait for Otomo. CM-DEC-014, CM-INF-013, CM-RS-014. Care, covert surveillance and attempted self-restraint coexist. No explicit permission for PC access is shown, and earlier phone objections remain evidence.
+
+**Dispositions/state/alternatives:** jealousy/watchfulness recur; current hope, embarrassment and self-rebuke are directly represented states, not a complete account of every earlier motive. His self-responsibility language can reflect concern, protective distancing or mixed aims. It does not erase intrusion or prove future withdrawal ability. U03 O001–O004, sp0092–0095; CM-CL-010/004 v3/005 v2/006 v3. Confidence high for present inner reasoning/action, unknown for query motive and promise outcome.
+
+**Readiness:** monograph evidence accumulating with expanded, sustained interior evidence; model NOT_ASSESSED. No rule/test/global grade is promoted. Gaps: persistence across contexts, boundary conduct, actual response to chosen alternatives and broader independent decisions. Validation refs NONE.
+
 ## Current projection
 
 | Character | Current event | Source-bounded state | Separate readiness |
 |---|---|---|---|
-| CM-CH-OTOMO | CM-CS-005 | Active pursuit/intimate initiative and tentative self-revision; interim offer, terms incomplete | Monograph accumulating; model unassessed |
-| CM-CH-IMAGASE | CM-CS-006 | Full name verified; changed participation claim, pressure and provisional offer retained | Monograph accumulating; model unassessed |
+| CM-CH-OTOMO | CM-CS-010 | Attributed query and remembered help; no new direct motive/commitment | Monograph accumulating; model unassessed |
+| CM-CH-IMAGASE | CM-CS-011 | Care/monitoring/self-restrained hope directly represented; terms unchanged | Monograph accumulating; model unassessed |
 | CM-CH-CHIKAKO | CM-CS-003 | Requested divorce; new partner reported; later state unknown | Independent work reviewed after corpus |
 | CM-CH-COMPANION-U01 | CM-CS-004 | Violent act observed; breakup later reported; interior unavailable | Insufficient independent evidence; model unassessed |
 | CM-CH-NISHIMURA-MIZUNO | CM-CS-007 | Affair/invitations and household account; witnessed outburst, aftermath unknown | Independent work reviewed after corpus; model unassessed |

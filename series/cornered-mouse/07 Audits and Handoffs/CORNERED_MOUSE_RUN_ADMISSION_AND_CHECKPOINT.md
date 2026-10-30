@@ -4,7 +4,7 @@ artifact_id: CORNERED_MOUSE_RUN_ADMISSION_AND_CHECKPOINT
 artifact_type: run_admission_checkpoint
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.2"
+version: "1.3"
 status: active_provisional
 scope: "Authorized continuous All-in-One run, entering boundary, checkpoint and required-artifact closeout"
 source_boundary: "CM-JP-AIO2020-LOCAL; mainline CM-U01–CM-U10, then CM-S01; Reboot-only story outside this run"
@@ -82,8 +82,8 @@ The synthesis architecture's G1–G9 gates remain controlling; this table makes 
 ## Current checkpoint
 
 - Run: ACTIVE, continuous_sequential, start CM-U01, terminal CM-S01.
-- Verified committed narrative high-water mark: CM-U02; freeze CM-U02-EXIT, sp0051–sp0091 physical bundle, explicit narrative end sp0090.
-- Current operation: CM-U03 boundary reconciliation and reading, after the complete U02 transaction commit.
+- Verified committed narrative high-water mark: CM-U03; freeze CM-U03-EXIT, sp0092–sp0096 physical bundle, explicit narrative end sp0095.
+- Current operation: CM-U04 boundary reconciliation and reading, after the complete U03 transaction commit.
 - Continuous authorization remains active through CM-S01 and the required downstream artifacts; first-unit completion does not terminate the goal.
 - Hummingbird lane: CLOSED until committed/frozen CM-U10 closeout.
 - No source-completion, synthesis-readiness, model-validation or final-release claim exists.
@@ -107,3 +107,13 @@ New events: CM-CS-005–009 (nine total character events/seven subjects), CM-RS-
 The source-title probe at sp0092 used top, right and horizontal strips. The short begins on a story page: two captions about returning before one's senior and first checking the senior's PC were exposed, alongside title/partial figure/architecture. This happened after the forecast commit and before linear U02 inspection, and is explicitly declared in the reading/exit. No full U03 image was read; no new U03 forecast is issued from that exposure. Source names were checked: 西村美咲 differs from the named-only 美佳 reference, and the student-era woman/client are not assigned convenient aliases. The corridor kiss was resolved as an old memory at its actual disclosure, not a new current encounter. Named-subject/reference review covered introduction, substantive arguments, exit and affected dyads.
 
 Next authorized candidate is CM-U03 after this complete local transaction commit. Architecture remains EVOLVING with the same four homes; review at the title/sequel boundary remains scheduled. U03–U10, separate Hummingbird, full-file paratext accounting, longitudinal reconciliation, warranted monographs/specialists, integrated synthesis, reconstruction disposition and final audit remain required. Full-source or run completion is not claimed.
+
+2026-10-30 — **U02 publication checkpoint.** Atomic transaction `4fdfdb361e7784f7c3dd632b7a3ab5c80f66e31a` was published as head `5fc449262dcc4ee203a6677929cc650a5bcc78de`, [PR #391](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/391), after an unchanged-tree reconciliation with main `f9481806087fab12f2b1e4d806dbfb74a6c7b360` (U01 integration). Author preflight passed at INDEX/10499 paths. Previous remote head `7ef367be2b252e359964fd630d57d12c0b7ed32d` passed its [exact-head audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/41006178823) before this push. New-head audit was pending at publication; live GitHub owns its later status.
+
+2026-10-30 — **CM-U03 atomic closeout.** Full original-resolution inspection covers sp0092–sp0096: four narrative-sequence images including titled opening, explicit end label sp0095, and a separately classified untitled closing illustration sp0096. No gap/OCR/other witness. Total full source images eighty-eight, comprising eighty-two narrative-sequence images and six separately classified title/closing/contents/colophon images. [U03 reading](../01%20Sequential%20Readings/CORNERED_MOUSE_U03_DEEP_READING.md) SHA-256 `74627ff3660c209ef70fdf00a76b984e93912a736aff6ac0583792c517e323e4` preserves five stable observations, exact image digests, entering source state and exit CM-U03-EXIT.
+
+CM-CS-010/011, CM-RS-014, CM-INF-013, CM-DEC-014, CM-CL-010 and CM-CR-007–009 record new evidence. No new subject, other dyad state, embodied permission or mutual commitment is invented. Current totals: eleven character events/seven subjects, fourteen relationship events/five dyads, thirteen information/fourteen decisions, ten claims, nine formal claim revisions. Earlier U01/U02 reading and original forecast/outcome bytes remain unchanged. No model/global grade or source-completion claim is promoted.
+
+The prior U03 caption exposure was recovered at entry. New U04 title bands at sp0097 collectively exposed most frontispiece art/title y0–1100, including faces/proximity, hands, clothing, roses and thorny branches; no U04 scene/dialogue or final bottom100 pixels were read. This substantial art exposure is declared rather than described as blind. Conditional CM-PR-003 is recorded before U04 narrative access, targets only the first eligible explicit female-choice/withdrawal request in U04–U06, and requires NON_DISCRIMINATING if no trigger occurs. Prior enacted withdrawals/self-restraint are counterevidence; no future outcome credit yet. The two older forecast outcomes remain bounded literary results, not model validation.
+
+Named-subject/reference review covered introduction, substantive interior/knowledge argument, exit and the directional central relation. Digital trace, Imagase's hypothesis and Otomo's unknown motive remain separate. Next candidate CM-U04 follows this complete local commit. Architecture remains EVOLVING; U04–U10, Hummingbird, full-file paratext/coverage, reconciliation, warranted monographs/specialists, integrated synthesis, reconstruction disposition and final audit remain required.
