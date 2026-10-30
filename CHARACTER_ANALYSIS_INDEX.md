@@ -48,7 +48,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
 | [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
-| [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 44 |
+| [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 45 |
 | [`tomozaki`](characters/index/tomozaki.md) | 7 |
 | [`watayuri`](characters/index/watayuri.md) | 7 |
 | [`wuthering-waves`](characters/index/wuthering-waves.md) | 6 |
@@ -611,3 +611,4 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [羽生田ミト](characters/index/tokyo-7th-sisters.md#hanyuda-mito) | Tokyo 7th Sisters game | `tokyo-7th-sisters:hanyuda-mito@game` | — |
 | [荒木レナ](characters/index/tokyo-7th-sisters.md#araki-rena) | Tokyo 7th Sisters game | `tokyo-7th-sisters:araki-rena@game` | — |
 | [遊佐メモル](characters/index/tokyo-7th-sisters.md#yusa-memoru) | Tokyo 7th Sisters game | `tokyo-7th-sisters:yusa-memoru@game` | — |
+| [雲巻モナカ](characters/index/tokyo-7th-sisters.md#kumomaki-monaka) | Tokyo 7th Sisters game | `tokyo-7th-sisters:kumomaki-monaka@game` | — |
