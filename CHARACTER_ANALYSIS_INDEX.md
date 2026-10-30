@@ -48,7 +48,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
 | [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
-| [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 45 |
+| [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 49 |
 | [`tomozaki`](characters/index/tomozaki.md) | 7 |
 | [`watayuri`](characters/index/watayuri.md) | 7 |
 | [`wuthering-waves`](characters/index/wuthering-waves.md) | 6 |
@@ -595,7 +595,9 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Zereschilt](characters/index/konosuba.md#zereschilt) | Original light-novel continuity, scoped current monograph | `konosuba:zereschilt@original-light-novel` | 残虐公; ゼーレシルト |
 | [Zesta](characters/index/konosuba.md#zesta) | Original light-novel continuity, bounded character study | `konosuba:zesta@original-light-novel` | ゼスタ |
 | [Ōgaki Chiaki](characters/index/yuru-camp.md#ogaki-chiaki) | Japanese manga | `yuru-camp:ogaki-chiaki@manga` | 大垣千明 |
+| [シャオ・ヘイフォン](characters/index/tokyo-7th-sisters.md#xiao-heifeng) | Tokyo 7th Sisters game | `tokyo-7th-sisters:xiao-heifeng@game` | — |
 | [ターシャ・ロマノフスキー](characters/index/tokyo-7th-sisters.md#tasha-romanovsky) | Tokyo 7th Sisters game | `tokyo-7th-sisters:tasha-romanovsky@game` | — |
+| [三森マツリ](characters/index/tokyo-7th-sisters.md#mimori-matsuri) | Tokyo 7th Sisters game | `tokyo-7th-sisters:mimori-matsuri@game` | — |
 | [上杉・ウエバス・キョーコ](characters/index/tokyo-7th-sisters.md#uesugi-uebasu-kyoko) | Tokyo 7th Sisters game | `tokyo-7th-sisters:uesugi-uebasu-kyoko@game` | — |
 | [二川ミミ](characters/index/tokyo-7th-sisters.md#futagawa-mimi) | Tokyo 7th Sisters game | `tokyo-7th-sisters:futagawa-mimi@game` | — |
 | [六咲コニー](characters/index/tokyo-7th-sisters.md#rokusaki-coney) | Tokyo 7th Sisters game | `tokyo-7th-sisters:rokusaki-coney@game` | — |
@@ -610,5 +612,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [瀬戸ファーブ](characters/index/tokyo-7th-sisters.md#seto-ferb) | Tokyo 7th Sisters game | `tokyo-7th-sisters:seto-ferb@game` | — |
 | [羽生田ミト](characters/index/tokyo-7th-sisters.md#hanyuda-mito) | Tokyo 7th Sisters game | `tokyo-7th-sisters:hanyuda-mito@game` | — |
 | [荒木レナ](characters/index/tokyo-7th-sisters.md#araki-rena) | Tokyo 7th Sisters game | `tokyo-7th-sisters:araki-rena@game` | — |
+| [逢原ミウ](characters/index/tokyo-7th-sisters.md#aihara-miu) | Tokyo 7th Sisters game | `tokyo-7th-sisters:aihara-miu@game` | — |
 | [遊佐メモル](characters/index/tokyo-7th-sisters.md#yusa-memoru) | Tokyo 7th Sisters game | `tokyo-7th-sisters:yusa-memoru@game` | — |
 | [雲巻モナカ](characters/index/tokyo-7th-sisters.md#kumomaki-monaka) | Tokyo 7th Sisters game | `tokyo-7th-sisters:kumomaki-monaka@game` | — |
+| [鳳チャチャ](characters/index/tokyo-7th-sisters.md#otori-chacha) | Tokyo 7th Sisters game | `tokyo-7th-sisters:otori-chacha@game` | — |
