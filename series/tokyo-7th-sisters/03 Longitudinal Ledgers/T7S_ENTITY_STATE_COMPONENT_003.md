@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.31"
+version: "1.32"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0206; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0207; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1987,4 +1987,41 @@ Owner [B0206](../02%20Readings/T7S_B0206_DEEP_READING.md), reading SHA256 `5f079
 | `REL-1151` | `tasha-romanovsky → rokusaki-connie-presented` | E:P2: remembers amusement at the manager's Coney-failure anecdote. Mediated appraisal, no new own encounter, independently established failure or backdated change to later Nicole-Coney horizon. |
 
 Totals:1361 KNOW/1151 REL.102IDENTITY/84CHAR/29UNIT/29READY retained without a new route or R2 upgrade. Tasha READY0026 remains R2_STATE_BOUNDED at complete native MainEP5.0/endB0069 and MONOGRAPH_NOT_READY. Three source-named identity/character pairs stay established; unnamed parents/staff/teacher remain reported roles. All prior bodies/IDs preserved.
+
+## B0207 Jeda's effort and her ways of seeing
+
+Owner [B0207](../02%20Readings/T7S_B0207_DEEP_READING.md), reading SHA256 `67870ab51cba9e2aca6c0eba137e4941ff875b7622feafabf8f3be20d0f21c1c`; source-lock 12.113, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All26physical and complete logical before-controls froze at published6ff46a00/B0206/12.112 before primary; successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1362` | Jeda describes studying abroad in Japan as welcome through culture, food and friends. | A:P1; own account, no named homecountry, school, immigration status or independently counted friends. |
+| `KNOW-1363` | Jeda calls meeting manager a happiest event and a kind of fated encounter. | A:P2; qualified appraisal, not external predestination or a supplied reciprocal feeling. |
+| `KNOW-1364` | Jeda wishes manager would someday see home scenery and asks an easygoing response. | A:P3; invitation/qualification, not an itinerary, accepted promise, home abandonment or completed journey. |
+| `KNOW-1365` | Jeda proposes another shop and takes up apparent desire for rest. | B:P1-2; only her uptake and city-novelty account, no separately supplied reply, exact fatigue or next-shop completion. |
+| `KNOW-1366` | Jeda says familiar experiences become fresh through manager's different perspective. | B:P3-4; relational appraisal, not direct access to his experience or a universal effect. |
+| `KNOW-1367` | Jeda conditionally requests continued interest and offers enjoyment in return. | B:P5; reciprocal invitation, no confirmed romance or permanent entertainment duty. |
+| `KNOW-1368` | Jeda reports others praising her voice as beautiful/expansive/brilliant. | C:P1; attributed audience language, not performed listening, measured technique or complete public reception. |
+| `KNOW-1369` | Jeda describes the praised voice as inborn rather than effort-gained and sometimes finds the focus painful. | C:P2; self-classification/unease, not biological proof, absence of all practice or clinical diagnosis. |
+| `KNOW-1370` | Jeda wants acquired effort and shared work recognized and asks manager to teach/polish her. | C:P3-5; own achievement includes collaboration; metaphor/request not achieved technique or unlimited managerial control. |
+| `KNOW-1371` | Jeda believes some idol-loving visitors value her and admits pleasure while calling their choice unusual. | D:P1-2; her appraisal, no fan own turn, objective ranking or proof of low worth. |
+| `KNOW-1372` | Jeda says she should sing fully and learn lip-service for those fans. | D:P3; intention/learning need, no supplied example, completed skill or performance appraisal. |
+| `KNOW-1373` | Jeda asks about jealousy and says manager was her first fan/first approaching person. | D:P4-5; question and personal history account, not confirmed jealousy, reciprocal romance or a new global scouting sequence. |
+| `KNOW-1374` | Jeda remembers occasional heavy home-city fog and values Tokyo's vivid colours/distant views. | E:P1-2; situated contrast, not weather law, named country or exact hometown. |
+| `KNOW-1375` | Jeda values being able to find manager within that visible world. | E:P3; own pleasure/emphatic claim, not unlimited location information or a monitoring system. |
+| `KNOW-1376` | Jeda asks to be found/watched and conditionally imagines wandering away. | E:P4-5; request/possibility, no actual disappearance, resignation, diagnosis or accepted surveillance arrangement. |
+| `KNOW-1377` | Jeda asks for stillness and then appraises a newly represented photograph as a valued memory. | F:P1-2; textual local completion, no inspected photo, camera gesture/shutter cue or supplied manager assent. |
+| `KNOW-1378` | Jeda treats photos as durable treasures/evidence of presence and reports hundreds of varied selected moments. | F:P3-4; personal meaning/count account, not actual eternity, external folder inventory or every-image provenance. |
+| `KNOW-1379` | Jeda checks a proposed increase in manager photographs to avoid their dominating her folder. | F:P5; self-chosen restraint, no manager prohibition, actual refusal or blanket future image consent. |
+| `KNOW-1380` | Jeda appreciates shared/open-air bathing and reports Kajika taking her once to a local traditional bathhouse. | G:P1-2; own taste/visit report, no Kajika reply, named venue/date, pictured bath or complete attendee list. |
+| `KNOW-1381` | Jeda proposes a live/hot-spring tour and conditionally predicts heavy manager scheduling/negotiation work. | G:P3-4; imagined project/labour, no accepted assignment, bookings, completed tour or verified safe capacity. |
+| `KNOW-1382` | Jeda conditions backwashing on tour success and immediately calls the remark a joke. | G:P5; explicit self-reframing, no literal service promise, actual bathing/contact or fulfilled reward. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1152` | `jeda-diamond → player-protagonist` | A-G: values meeting and another perspective, requests development/recognition, names first-fan significance, asks reciprocal finding, frames a photograph and imagined travel. Own meanings, reports and requests; no settled romance, permanent availability or blanket image/contact agreement. |
+| `REL-1153` | `player-protagonist → jeda-diamond` | B:P1/D:P5/F:P1-2: apparent rest desire, first approach/fan role and inclusion in a represented photograph are available through her uptake/account. No separate new reply, confirmed jealousy, complete feelings, actual tour/lesson acceptance or universal monitoring promise. |
+| `REL-1154` | `jeda-diamond → harumi-kajika` | G:P2: reports a one-time introduction to a nearby traditional bathhouse and values the experience. Kajika has no own turn or new tour assent; no named venue/date, exhaustive relationship or completed future collaboration. |
+| `REL-1155` | `Jeda → unnamed appreciative fans (Nanasta UNIT0002 context)` | D:P1-3: believes some value her, feels pleased and intends full singing/learning in response. No individual fan identity/testimony, measured popularity, actual performance or new institution/consent policy. |
+
+Totals:1382KNOW/1155REL.102IDENTITY/84CHAR/29UNIT/29READY retained, no new route, individual Jeda READY or R2 upgrade. Existing source-named Jeda/Player/Kajika routes stay established; report-only fans create no individual or unit. All older bodies/IDs preserved.
 <!-- T7S ENTITY STATE PAYLOAD END -->
