@@ -4,7 +4,7 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.130"
+version: "12.131"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -92,6 +92,8 @@ The entity ledger has a manifest-bound physical representation: its original add
 
 Source-lock12.83 records the historical control-storage cutover at B0177. Before current capture, interpretation or closeout, read the complete SourceLock JSON through its owner/manifest and every ordered component declared by that manifest, and both complete coverage roles through all physical components declared by the current coverage manifest. The cutover preserved all115 older SourceLock integrity objects and1590 effective coverage records/defaults with their bytes/values unchanged. The [control-storage record](09%20Audits%20and%20Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md) records that historical mapping and its separate consumer/native/author/publication gates, which were prerequisites for B0178 extraction. That storage cutover added no source, character maturity, listening or2053 admission.
 
+The story ledger now uses the [story-storage manifest](03%20Longitudinal%20Ledgers/T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST.json) and [transition record](09%20Audits%20and%20Manifests/T7S_STORY_STORAGE_TRANSITION_V1.md). Its original address retains aggregate metadata and 131 heading routes; every one of the 1,041,101 original body bytes, stable IDs, horizons and relative links remains in the ordered components. SourceLock 12.131 is administrative only: B0224, all coverage/state counts, earlier receipts and unread B0225 remain unchanged. Read and freeze the complete checked logical story view together with every physical owner/manifest/component; wrapper-only consumers cannot open new semantics. Fresh reviewed capture, acquisition, projection, independent-verification and native contracts must pass after the cutover. This is required ledger capacity maintenance inside the analytical root; the deprecated workspace relocation task remains closed.
+
 Reading authority metadata: the original readings T7S_B0001–T7S_B0168 and T7S_B0184–T7S_B0187 carry incomplete authority quartets (no `supersedes` or `superseded_by`; T7S_B0080–T7S_B0168 and T7S_B0186 also lack `do_not_use_as_current_authority`), so the repository classifier treats them as `UNCLASSIFIED_LEGACY` for character-evidence purposes. They remain the exact source-bound readings that the coverage ledger, the [portfolio index](02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) and the SourceLock closeout receipts route to; their analytical content is unchanged and none is superseded or redirected. T7S_B0169–T7S_B0183 and T7S_B0188 carry the complete quartet, and every later reading uses the front-matter template in the [analytical method](00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md). Character evidence for this project is enrolled through the longitudinal ledgers and the two enrolled arc deep readings. If an individual reading is later enrolled, a complete-quartet representation of that reading is created at enrollment under the repository's hash-locked artifact rule, without editing the receipt-bound original. That administrative note was introduced at B0188 / SourceLock12.94; current analytical high-water and source state are recorded above.
 
 ## Governing and cumulative homes
@@ -109,7 +111,7 @@ Reading authority metadata: the original readings T7S_B0001–T7S_B0168 and T7S_
 | Non-Main portfolio router | [T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md](02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) |
 | Closed first twenty i-n-g cases | [T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md](02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) |
 | First i-n-g tranche completion proof | [T7S_B0080_B0099_COMPLETION_AUDIT.md](09%20Audits%20and%20Manifests/T7S_B0080_B0099_COMPLETION_AUDIT.md) |
-| Causal events, world consequences and threads | [T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md](03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md) |
+| Causal events, world consequences and threads | [story owner](03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md) and [complete logical manifest/components](03%20Longitudinal%20Ledgers/T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST.json), governed by the [story-storage record](09%20Audits%20and%20Manifests/T7S_STORY_STORAGE_TRANSITION_V1.md) |
 | Character/knowledge/directional relationship/unit state and readiness | [entity owner](03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md) and [complete logical manifest/components](03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER_MANIFEST.json), governed by the [storage record](09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md) |
 | Claims, rivals, revisions and modality review | [T7S_CLAIM_AND_EVIDENCE_LEDGER.md](03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md) |
 | Opening deep reading | [T7S_B0001_DEEP_READING.md](02%20Readings/T7S_B0001_DEEP_READING.md) |
@@ -613,3 +615,5 @@ No optional artifact is created merely for symmetry. The architecture documents 
 - 2026-10-30: close T7S_B0223 complete Intimacy family; preserve all completed i-n-g/history and full2034 endpoint; route next obligation.
 
 - 2026-10-30: close T7S_B0224 complete Intimacy family; preserve all completed i-n-g/history and full2034 endpoint; route next obligation.
+
+- 2026-10-30 — V1 / 12.131: record lossless story-ledger storage at unchanged B0224, preserving all 1,041,101 body bytes and 131 heading routes. No source unit, state, coverage, readiness/maturity, listening or 2053 admission changes; B0225 remains unread pending complete-view consumer acceptance.

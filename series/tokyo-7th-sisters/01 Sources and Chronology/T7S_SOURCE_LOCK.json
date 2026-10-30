@@ -4,7 +4,7 @@
   "artifact_type": "source_lock",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "12.130",
+  "version": "12.131",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -16,7 +16,7 @@
   "source_high_water": "T7S_B0224",
   "storage_representation": "manifest_bound_components_v1",
   "storage_manifest": "01 Sources and Chronology/T7S_SOURCE_LOCK_MANIFEST.json",
-  "storage_manifest_sha256": "a5a88fc584e56c5718d4afa235e5b585354718347a95f3989babea4b02c07708",
+  "storage_manifest_sha256": "fa5e4e4ded264ab11d4f74a16e4fbcefb6b6db9d934283afc798b0c07412369a",
   "authority_contract": "This physical owner binds the complete logical SourceLock through its manifest. Read all ordered payload components before interpretation, capture, admission or updates. The wrapper alone is not the source lock.",
   "source_admission": "NONE; administrative physical representation only."
 }

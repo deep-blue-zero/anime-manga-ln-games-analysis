@@ -5368,6 +5368,16 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
       ],
       "physical_shards": 7,
       "reviewed_reader_projection_sha256": "4a7f37fef3ee4072d3694c3d055e2d8df51e2039f3bb8e40b26f43e2d7764f57"
+    },
+    "story_causal_state_ledger": {
+      "schema": "t7s-analysis/story-causal-state-storage-manifest/v1",
+      "path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST.json",
+      "sha256": "55079635ad2912916f2b66c3c54c013370a058bc47646f20b6ce3c0875474eea",
+      "logical_artifact_id": "T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER",
+      "current_owner": "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md",
+      "physical_component_caps_unchanged": true,
+      "reviewed_reader_projection_sha256": "e12f05aa2d506a0671e23da861ebd15365967eada8af75ff858612e552fe549f",
+      "current_binding_mutability": "Update only with corresponding reviewed complete logical and physical state; preserve the frozen storage transition receipt."
     }
   },
   "administrative_storage_transitions": [
@@ -5404,6 +5414,32 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
       "native_quoted_utf16_limit": 28000,
       "reader_sha256": "4a7f37fef3ee4072d3694c3d055e2d8df51e2039f3bb8e40b26f43e2d7764f57",
       "storage_record": "09 Audits and Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md"
+    },
+    {
+      "operation": "T7S_STORY_LEDGER_STORAGE_V1",
+      "date": "2026-10-30",
+      "before_commit": "4ba085fd0370dca0cb9202988270d75319c8e03c",
+      "source_lock_before_version": "12.130",
+      "source_lock_after_version": "12.131",
+      "source_high_water_unchanged": "T7S_B0224",
+      "before_owner_bytes": 1046789,
+      "before_owner_sha256": "d4fef8203dd3a764d6e2ce53b48a22e099d67fdbdf02704440db78deb75db91f",
+      "original_prefix_bytes": 5688,
+      "original_prefix_sha256": "f2a4b374a16706831776dd167843da3017c037699c6ded84613d8bef8a541c0f",
+      "preserved_payload_bytes": 1041101,
+      "preserved_payload_sha256": "1be8ba6bcb68237f943416b21399754f826421efab77642b39b5bbee755a8cd8",
+      "original_heading_routes": 131,
+      "source_admission": "NONE",
+      "semantic_state_change": "NONE",
+      "next_unopened": "B0225 / NM-INTIMACY-200920 / 200920 / 401000331",
+      "source_b0224_full_publication_receipt_sha256": "9e12015f0a0e15a8544f34b22bccba3ec67e8e9973cd5f4c4f364ad9221514d3",
+      "record": "09 Audits and Manifests/T7S_STORY_STORAGE_TRANSITION_V1.md",
+      "initial_story_manifest_sha256": "55079635ad2912916f2b66c3c54c013370a058bc47646f20b6ce3c0875474eea",
+      "reviewed_reader_projection_sha256": "e12f05aa2d506a0671e23da861ebd15365967eada8af75ff858612e552fe549f",
+      "all_older_integrity_serialized_bytes": "BYTE_EXACT",
+      "coverage_effective_state_sha256": "bade16f2abab8b26d0de0e851a6b0e80aae039086e4d0e32b62858214ecac75b",
+      "physical_file_limit": 1048576,
+      "native_quoted_utf16_limit": 28000
     }
   ]
 }
