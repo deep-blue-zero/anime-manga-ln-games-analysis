@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.15"
+version: "1.16"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0225; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0226; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -829,4 +829,46 @@ Existing Hina `IDENTITY-0027 / CHAR-0024 / saeki-hina` is the sole focal coverag
 CHAR-0024 gains public self-description, a need for preparation, pleasure-sharing and uncertain reception, body self-comparison with ongoing appetite, task-specific endurance and an explicitly qualified promise. Earlier Main4U joining motive/mediation/recognized delay/direct dissent/costly dissolution/recommitment/shared memento remain distinct, not disproved by local comedy or replaced with permanent incompetence. Later B0033 access labor and B0054 autonomous alliance stay at their own horizons; no backprojected lesson or completed burden equality.
 
 Totals:1900KNOW/1255REL;102IDENTITY/84CHAR/29UNIT/29READY retained. READY0015 remains R2_STATE_BOUNDED at complete Main4U/B0016/203001802 only; MONOGRAPH_NOT_READY and performed voice UNREVIEWED. No R3, broadened historical decision, new maturity or full2034release.
+
+## B0226 Emoco's audience, refusals and particular care
+
+Owner [B0226](../02%20Readings/T7S_B0226_DEEP_READING.md), reading SHA256 `6b6c44a5c8bd5138634e8998c2f8bee04b0c1841bd92a42ce00cb7575d895a4c`; source-lock 12.133, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-E scripts/hashes/wholeprimary ranges A/C/D/E:P0-5 and B:P0-4. All32 committed before-controls/five SourceLock/seven coverage/four entity/three story components froze at published5324fede/B0225/12.132 beforeprimary. Predecessor audit41136760676/fullcycle and includedcurrentmainb2e22ebd actualcompleted-success witnessed. All30priorEmoco rows andwholeREADY0014 actuallyread beforeprimary; originalMain4U/B0016R2 horizon retained. All29literalnative/24Japanese read; no menu chronology, performed hearing or runtime.
+
+Existing Emoco `IDENTITY-0026 / CHAR-0023 / wanibuchi-emoco` is the sole focal coverage subject. D's Ume `IDENTITY-0025 / CHAR-0022 / kujo-ume` and Hina `IDENTITY-0027 / CHAR-0024 / saeki-hina` are reported bandmates without independent current turns. A's unnamed planner/yapping-girl referent remains unassigned; plural recipients are not automatically Player/manager. The nickname/chick-parent metaphor/reptiles create no new identity. 4U remains UNIT-0007; no IDENTITY/CHAR/UNIT/READY addition.
+
+**Current role precision for CHAR-0023 / IDENTITY-0026:** A:P1 explicitly self-designates4U bass player. Use this exact role for instrument-specific current description, qualifying earlier guitarist/bandmate shorthand. REV-0043 records the old B0012/identity/READY routes, trigger, scopes, confidence and repairs. Those prospective/sealed/historical bodies remain verbatim; the earlier Main instrument role has not been re-adjudicated. No instrument-change chronology, exclusive lifetime assignment, technical mastery or broadened READY horizon follows. UNIT-0007's wider creative allocation/governance remain unknown.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1901` | Emoco formally introduces herself as4U's bass player. | A:P1; direct local self-designation, no heard playing, exclusive lifetime role or invented switch from an earlier instrument. |
+| `KNOW-1902` | Emoco imagines grinning faces beyond the screen and says the thought makes her shudder. | A:P2; imagined audience/appraisal, no observed crowd, universal viewer description or diagnosis. |
+| `KNOW-1903` | Emoco describes having to speak to those recipients and expects them not to understand her feeling. | A:P3; claim about obligation/anticipated comprehension, no audience mind access or proved inability to understand. |
+| `KNOW-1904` | Emoco insults an in-group planner, then reports an unnamed yapping girl glaring and offers viewers her amusing face. | A:P4-5; attributed/deictic local reaction, no literal name, verified Ume alias, displayed pan or independent girl's turn. |
+| `KNOW-1905` | Emoco questions what benefit she gets from disclosing her current fad. | B:P1; rhetorical utility challenge, not complete refusal to answer or an audited exchange cost. |
+| `KNOW-1906` | Emoco names ignoring people unlikely to affect her life as a current enthusiasm and appraises it as good for her well-being. | B:P2-3; relevance criterion/actor benefit claim, no universal human irrelevance or clinical recommendation. |
+| `KNOW-1907` | Emoco recommends that practice despite expecting the audience not to appreciate it. | B:P4; disclosure and withheld expectation coexist, no confirmed reception or total withdrawal. |
+| `KNOW-1908` | Emoco reports people praising her under a sharp-tongued-queen name. | C:P1; report of reception/label, no named inventors, measured reach or endorsed identity category. |
+| `KNOW-1909` | Emoco allows attention while judging the naming unintelligent. | C:P2; differentiated reception, no blanket rejection of all notice or proof of others' intelligence. |
+| `KNOW-1910` | Emoco says she only voices what she thinks and resents its description as sharp-tongued. | C:P3; self-authored account, no guaranteed transparency, complete sincerity or absence of provocation. |
+| `KNOW-1911` | Emoco denies expecting comprehension and imagines relief if everyone matched her level or disappeared. | C:P4-5; anticipated failure/exaggerated conditional wish, no clinical state, action plan or realized global event. |
+| `KNOW-1912` | Emoco reports fighting with Ume despite usually letting her words pass like barking. | D:P1; attributed quarrel/usual practice claim, no independent Ume account or total nonresponsiveness. |
+| `KNOW-1913` | Emoco says Ume called her playing lukewarm, then disparages Ume as an amateur guitarist. | D:P2; both judgments situated in her account; no heard technique, objective ranking or Emoco-guitar role assignment. |
+| `KNOW-1914` | Emoco credits Hina's mediation with helping and speculates about harm if the quarrel had continued. | D:P3; attributed intervention/counterfactual, no witnessed assault or full burden assessment. |
+| `KNOW-1915` | Emoco describes Hina trying to settle such scenes through chick/parent language and a claimed parent-confusion. | D:P4; metaphor/name play/Emoco's interpretation, no kinship, literal animal or direct Hina mind access. |
+| `KNOW-1916` | Emoco reports regular treats in everyday thanks to Hina and proposes home cooking this time. | D:P5; past-practice report and prospective contribution remain distinct, no cooked/served/accepted meal or permanent debt. |
+| `KNOW-1917` | Emoco reports casually stopping at a pet shop after a recent meeting. | E:P1; attributed past visit, no depicted shop, supplied meeting detail or dated chronology. |
+| `KNOW-1918` | Emoco says she likes animals and judges them preferable to troublesome humans. | E:P2; actor preference/comparison, no objective hierarchy or universal absence of human attachment. |
+| `KNOW-1919` | Emoco particularly likes reptiles' seemingly self-directed atmosphere and says watching them brings relief. | E:P3; attributed impression/experience, no verified animal psychology or ownership. |
+| `KNOW-1920` | Emoco imagines less stress with more humans likeable as reptiles, then withdraws that expectation from her recipients. | E:P4-5; conditional wanted environment/qualified address, no diagnosed stress condition, achieved change or identified Player. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1256` | `wanibuchi-emoco → kujo-ume` | D: reports a quarrel, claims usually to disregard Ume's words, objects to criticism and returns an amateur-guitarist insult while imagining avoided harm. No neutral technical verdict, proved assault or erasure of earlier witnessing/care/complicity. A's anonymous girl is not silently assigned this route. Reciprocal REL-1257. |
+| `REL-1257` | `kujo-ume → wanibuchi-emoco` | D:P1-3: named bandmate reported to criticize her playing within a quarrel. No independent Ume turn, heard objective assessment, confirmed violence or fixed aggressor essence. Reciprocal REL-1256. |
+| `REL-1258` | `wanibuchi-emoco → saeki-hina` | D:P3-5: credits mediation, teases with chick/parent metaphor, reports treats in thanks and considers home cooking. Gratitude and mockery coexist; no served meal, literal parenthood, full mind access, justified appetite regulation or settled fair care burden. Reciprocal REL-1259. |
+| `REL-1259` | `saeki-hina → wanibuchi-emoco` | D:P3-4: mediator credited in Emoco's account with settling conflict; her alleged parent-confusion is Emoco's interpretation. No independent Hina assent/turn or permanent caretaker/child identity. B0225's differently bounded self-report stays distinct. Reciprocal REL-1258. |
+
+CHAR-0023 gains exact bass-role precision, mediated audience address that makes distance communicative, resistance to naming, selective attention claims, a bounded quarrel report and particular gratitude/proposed giving to Hina, plus an animal preference articulated through wanted human conduct. This neither resolves every harsh phrase into secret warmth nor turns general dismissal into inability to attach. Earlier Main4U witnessing/complicity/withdrawal/recommitment, B0033 public-access labor and B0054 autonomous alliance retain their own horizons; B0225 Hina's reports do not become Emoco's current independent speech retroactively.
+
+Totals:1920KNOW/1259REL;102IDENTITY/84CHAR/29UNIT/29READY retained. READY0014 remains R2_STATE_BOUNDED at complete Main4U/B0016/203001802 only; MONOGRAPH_NOT_READY/performed voice UNREVIEWED. No R3, rewritten historical decision, broadened maturity or full2034release.
 <!-- T7S ENTITY STATE PAYLOAD END -->

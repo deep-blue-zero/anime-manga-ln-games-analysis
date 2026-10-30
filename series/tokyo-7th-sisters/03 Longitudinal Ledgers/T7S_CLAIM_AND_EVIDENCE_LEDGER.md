@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.127"
+version: "11.128"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 324 Intimacy primary documents across 44 family portfolios / T7S_B0182–T7S_B0225; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 329 Intimacy primary documents across 45 family portfolios / T7S_B0182–T7S_B0226; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -20,13 +20,13 @@ last_updated: 2026-10-30
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 324 complete Intimacy primary documents across 44 family portfolios. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 329 complete Intimacy primary documents across 45 family portfolios. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 1679`; `revisions = 42`; `predictions = 7`; `AV_reviews = 172`; `literary_findings = 1679`. Claims are bounded to their stated B0001 through B0225 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 324 complete Intimacy primary documents across 44 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 1695`; `revisions = 43`; `predictions = 7`; `AV_reviews = 173`; `literary_findings = 1695`. Claims are bounded to their stated B0001 through B0226 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 329 complete Intimacy primary documents across 45 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -4576,3 +4576,42 @@ Owner [B0225](../02%20Readings/T7S_B0225_DEEP_READING.md), reading SHA256 `23969
 | `AV-0172` | All30native/25Japanese/full5title-schema projection read. All5selectedfullcomposites/contact and4boundoriginalBGs individually viewed; all136,39 offsets verified. First20fixed142_01_01Frontfalse; E02_01/02/03/04/03Fronttrue;25sevenarrays175slots/25voice. | Static only. Reddishbrown twintails/goldroundornaments/ambereyes/navycreamorangeoutfit;01bags+wrappedfood vs02unproppedhandnearface, visiblychangedmouth/brows. BG027A+C12mall/029B6arcade/031D6intersection/024E6playground, not picturedaccident/peers/athletics/drums/livegifts/outcome. BGM00515/0045/0105/voices/se007 unlistened. SevenrawactorPNGs hash-bound, not separatelyclaimedviewed. No runtime, body measurement, nutrition/physiology, futurebehavior or maturity inference. |
 
 Totals:1679CL/42REV/7PRED/172AV. Earlier claims/revisions/predictions/AV and all29 historical READY decisions remain exact; no older-body, chronology, release or readiness rewrite.
+
+## B0226 Emoco's audience, refusals and particular care
+
+Owner [B0226](../02%20Readings/T7S_B0226_DEEP_READING.md), reading SHA256 `6b6c44a5c8bd5138634e8998c2f8bee04b0c1841bd92a42ce00cb7575d895a4c`; source-lock 12.133, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-E scripts/hashes/wholeprimary ranges A/C/D/E:P0-5 and B:P0-4. All32 committed before-controls/five SourceLock/seven coverage/four entity/three story components froze at published5324fede/B0225/12.132 beforeprimary. Predecessor audit41136760676/fullcycle and includedcurrentmainb2e22ebd actualcompleted-success witnessed. All30priorEmoco rows andwholeREADY0014 actuallyread beforeprimary; originalMain4U/B0016R2 horizon retained. All29literalnative/24Japanese read; no menu chronology, performed hearing or runtime.
+
+| ID | Claim / warrant | Reading and retained limit |
+| --- | --- | --- |
+| `CL-B0226-001` | `EXACT_ROLE_SELF_DESIGNATION_WITH_FORMAL_ADDRESS`; D1-D2; high with bounds | A:P1 explicitly names bass role beside greeting; current precision, no heard playing or proved historical instrument change. |
+| `CL-B0226-002` | `IMAGINED_AUDIENCE_AND_DENIED_UNDERSTANDING`; D1-D2; high with bounds | A:P2-3: grinning faces/shudder/obligation and incomprehension are her representation, no observed crowd, clinical aversion or mind access. |
+| `CL-B0226-003` | `LOCAL_REACTION_WITHOUT_A_VERIFIED_ALIAS`; D1-D2; high with bounds | A:P4-5: planner insult/unnamed girl/glare/offered view, no displayed pan, independent response or certain Ume identity. |
+| `CL-B0226-004` | `REFUSAL_CAN_BE_A_FORM_OF_DISCLOSURE`; D1-D2; high with bounds | B:P1-4: questions sharing benefit then supplies preference/recommendation, no all-or-nothing sincerity judgment or total silence. |
+| `CL-B0226-005` | `ATTENTION_CRITERION_IS_SITUATED`; D1-D2; high with bounds | B:P2-4 narrows ignoring to people unlikely to affect her life; actor well-being claim, no universal clinical efficacy or complete human irrelevance. |
+| `CL-B0226-006` | `PUBLIC_LABEL_AND_SELF_EXPLANATION_REMAIN_DISTINCT`; D1-D2; high with bounds | C:P1-3: reported name/allowed attention/naming refusal/pure-thought claim, no endorsed nickname or guarantee of transparent speech. |
+| `CL-B0226-007` | `EXAGGERATED_WISH_IS_NOT_A_WORLD_EVENT`; D1-D2; high with bounds | C:P4-5: anticipated incomprehension/level-or-disappearance conditional, no actual plan, diagnosis or elimination event. |
+| `CL-B0226-008` | `PERFORMANCE_JUDGMENTS_STAY_ATTRIBUTED`; D1-D2; high with bounds | D:P1-2: Ume criticism and Emoco's guitarist insult are within Emoco's quarrel account; no objective skill ranking or audition. |
+| `CL-B0226-009` | `MEDIATION_AND_AVOIDED_HARM_DIFFER`; D1-D2; high with bounds | D:P3 credits Hina and imagines what might have happened, no witnessed assault, whole peer account or guaranteed just burden. |
+| `CL-B0226-010` | `METAPHOR_AND_THANKS_DO_NOT_CREATE_KINSHIP`; D1-D2; high with bounds | D:P4-5: Hina-chick/parent interpretation, reported thanks-treats and prospective home cooking; no literal family, completed meal or permanent debt. |
+| `CL-B0226-011` | `ANIMAL_PREFERENCE_IS_ATTRIBUTED_PERCEPTION`; D1-D2; high with bounds | E:P1-3: reported shop stop/animal-reptile preference/seeming self-direction/relief, no observed animals, ethology proof, pet purchase or ownership. |
+| `CL-B0226-012` | `HUMAN_WISH_AND_WITHDRAWN_EXPECTATION_COEXIST`; D1-D2; high with bounds | E:P4-5: imagined more likeable humans then dismissal of present plural recipients; closed-eye static smile supplies no hidden true motive or acoustic delivery. |
+| `CL-B0226-013` | `DIFFERENTIATED_RELATIONS_WITHOUT_A_SINGLE_HIDDEN_ESSENCE`; D1-D2; high with bounds | B/D/E: attention criteria, particular gratitude and proposed giving coexist with broad insults; no universal indifference, secret-kindness solution or resolved care equality. |
+| `CL-B0226-014` | `EARLIER_AGENCY_AND_BURDEN_KEEP_THEIR_HORIZONS`; D1-D2; high with bounds | Main4U care/complicity, laterB0033 access labor/B0054alliance andHinaB0225 perspective remain separately bounded; no menu chronology or retroactive peer turn. |
+| `CL-B0226-015` | `CURRENT_INSTRUMENT_ROLE_REQUIRES_SOURCE_PRECISION`; D1-D2; high with bounds | A:P1 withREV0043: use explicit bass self-designation for this occurrence; preserve older guitarist shorthand as history without invented switch/exclusivity or re-adjudicated Main source. |
+| `CL-B0226-016` | `BOUNDED_COMPLETE_NATIVE_STATIC_AND_PRIOR_REVIEW`; D1-D2; high with bounds | All24Japanese/29literalnative/168slots/wholeprojection/4fullcomposites+contact/4originalBGs/30priorrows/wholeREADY0014 actually reviewed. No performed audio/runtime/new readiness/maturity/full2034release/2053. |
+
+### `REV-0043` — REVISE current instrument-role precision
+
+- Prior/current formulation: earlier guitarist/bandmate and guitarist/band-role shorthand; current B0226A1 exact formulation is4U bass player by Emoco's self-designation.
+- Trigger and contrary evidence: A:401000335 P1 literal bass-role statement; D:P2's guitarist insult targets Ume. Older derivative wording is retained in B0012's state table, sealed entity001 IDENTITY-0026 row and READY-0014's partial stage-identity row.
+- Classification: analytical role-precision refinement from direct new native evidence. No extraction/native mismatch, demonstrated fictional instrument switch or complete historical Main role adjudication is asserted.
+- Old/new scope and confidence: historical Main4U shorthand remains discoverable at its original horizon; high confidence for the local B0226A1 bass self-designation, without exclusivity/lifetime/technical-performance claims. Exact earlier Main instrument wording has not been requeried.
+- Affected artifact IDs: T7S_B0012_DEEP_READING, IDENTITY-0026, CHAR-0023, UNIT-0007 and READY-0014 stage-role dependency.
+- Dependency repairs: the new CHAR-0023/identity-role qualifier in B0226's entity append, the current reading and current summary use bass for instrument-specific description; this revision points readers away from carrying the broader old shorthand into the new occurrence. UNIT-0007's wider creative allocation/governance and technical unknowns stay open. No current synthesis contains another guitarist dependency by the bounded textual check.
+- Effective horizon and preserved historical route: B0226A1/current-role precision only; B0012 prospective body, sealed entity001 and complete READY0014 decision remain byte exact. Their whole artifacts are not superseded, and no readiness horizon is broadened. Current precision is reconciled; historical Main instrument assignment is not claimed re-adjudicated.
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0173` | All29literalnative/24Japanese/whole5title-schema projection read;4full141composites/contact/4originalBGs individually viewed. Onebody/fourfaces at76,62;19A-Dfixed01falseFront andE04/03/01/01/02trueFront,24sevenarrays168slots/24voice. | Static only. Lightbrown bob/greeneyes/yellowtie/navycreamoutfit/singleyellowflower fixedbody; Eclosedeye-smile withverbalexpectationwithdrawal gives no hiddenmotive/acousticdelivery. BG024A+C12playground/035B5urbangreen/030D6waterfrontbridge/027E6mall show no crowd, peers, violence, instrument, servedmeal or reptile. BGM00519/0105/voices/se007 unlistened;5rawactorPNGs hash-bound, not separatelyclaimedviewed. |
+
+Totals:1695CL/43REV/7PRED/173AV. All42olderrevision records, seven predictions, olderclaims/AV and29historicalREADY decisions remain exact; newREV0043 is an explicit current-role qualification, no older-body/readiness/source-history rewrite.

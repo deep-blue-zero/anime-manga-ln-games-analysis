@@ -4,7 +4,7 @@ artifact_id: T7S_STORY_CAUSAL_STATE_COMPONENT_003
 artifact_type: story_causal_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
 canonical_logical_owner: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 storage_manifest: "T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0225; every row retains its original local horizon; no chronology, source or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0226; every row retains its original local horizon; no chronology, source or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -1367,4 +1367,25 @@ Owner [B0225](../02%20Readings/T7S_B0225_DEEP_READING.md), reading SHA256 `23969
 | `EDGE-1557` | `EV-B0225-001 / EV-B0225-005` | FORMAL_COMPARISON: Asking for preparation and qualifying a promise give Hina ways to state conditions/feasibility; no accepted standing rule, full burden repair or permanent self-mastery. |
 
 Totals:1430EV/25WORLD/47THREAD/1550 active EDGE, maximum1557 with seven intentional older gaps retained. No new WORLD/THREAD, dated cross-case causality or older-body rewrite.
+
+## B0226 Emoco's audience, refusals and particular care
+
+Owner [B0226](../02%20Readings/T7S_B0226_DEEP_READING.md), reading SHA256 `6b6c44a5c8bd5138634e8998c2f8bee04b0c1841bd92a42ce00cb7575d895a4c`; source-lock 12.133, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-E scripts/hashes/wholeprimary ranges A/C/D/E:P0-5 and B:P0-4. All32 committed before-controls/five SourceLock/seven coverage/four entity/three story components froze at published5324fede/B0225/12.132 beforeprimary. Predecessor audit41136760676/fullcycle and includedcurrentmainb2e22ebd actualcompleted-success witnessed. All30priorEmoco rows andwholeREADY0014 actuallyread beforeprimary; originalMain4U/B0016R2 horizon retained. All29literalnative/24Japanese read; no menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0226-001` | A:401000335 P0-5 | Gives formal greeting and4U bass-role introduction, imagines grinning viewers, says they cannot understand her obligation, insults an in-group planner and reports an unnamed yapping girl glaring while offering viewers that face. | MEDIATED_ADDRESS_AND_ATTRIBUTED_REACTION; no pictured audience/pan/peer turn, certain Ume alias, acoustic affect or complete public reception. Bass self-designation is current local evidence, not an instrument-change date. |
+| `EV-B0226-002` | B:401000978 P0-4 | Questions the benefit of sharing a current fad, then names ignoring people unlikely to affect her life, appraises its benefit and recommends it despite expecting incomprehension. | SELF_DISCLOSURE_THROUGH_SELECTIVE_REFUSAL; no complete withdrawal, universal human irrelevance, clinical efficacy or independently known audience understanding. |
+| `EV-B0226-003` | C:401001154 P0-5 | Reports a sharp-tongued-queen label, permits attention but rejects the naming, says she simply speaks her thoughts, denies audience understanding and imagines relief if others reached her level or disappeared. | REPORTED_LABEL_SELF_DESCRIPTION_AND_EXAGGERATED_CONDITIONAL_WISH; no endorsed diagnostic label, proof of transparent sincerity, harm plan or world event. |
+| `EV-B0226-004` | D:401001614 P0-5 | Reports quarrel with Ume after criticism of her playing, counters with an amateur-guitarist insult, credits Hina's mediation, imagines avoided harm, teases through chick/parent metaphor, reports thanks through treats and proposes home cooking. | ATTRIBUTED_CONFLICT_MEDIATION_AND_PROSPECTIVE_THANKS; no independent bandmate turn, heard technical judgment, actual assault, literal kinship, served meal or guaranteed fair care burden. |
+| `EV-B0226-005` | E:401003209 P0-5 | Reports a pet-shop stop after a meeting, animal/reptile preference and relief in their seemingly self-directed atmosphere, imagines more likeable humans and withdraws that expectation from her plural addressees. | REPORTED_VISIT_PROJECTED_ANIMAL_QUALITY_AND_QUALIFIED_HUMAN_WISH; no depicted shop/animal, ethology claim, pet ownership/adoption, fixed Player addressee or universal absence of attachment. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1558` | `EV-B0226-001 / EV-B0226-002` | FORMAL_COMPARISON: Offered introduction and challenged disclosure keep address active while disputing recipients' claims to her attention. No proved common filming session or causal sequence. |
+| `EDGE-1559` | `EV-B0226-002 / EV-B0226-003` | FORMAL_COMPARISON: Preference disclosure and refusal of public naming let self-description coexist with anticipated incomprehension. No complete insincerity, omniscient audience model or dated reform. |
+| `EDGE-1560` | `EV-B0226-002 / EV-B0226-005` | FORMAL_COMPARISON: Selective inattention and comfort in seemingly self-directed reptiles articulate her attention criteria; no universal health rule, ethological proof or total human withdrawal. |
+| `EDGE-1561` | `EV-B0226-004 / EV-B0226-002 / EV-B0226-005` | FORMAL_COMPARISON: Particular thanks/proposed cooking coexist with broad disparagement; no single secretly kind/entirely indifferent essence, actual meal or completed burden resolution. |
+
+Totals:1435EV/25WORLD/47THREAD/1554 active EDGE, maximum1561 with seven intentional older gaps preserved. No new WORLD/THREAD, dated cross-case causality, actual extinction event or older-body rewrite.
 <!-- T7S STORY CAUSAL STATE PAYLOAD END -->

@@ -4,7 +4,7 @@
   "artifact_type": "logical_story_causal_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.1",
+  "version": "1.2",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -14,14 +14,14 @@
   "current_owner_path": "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "source_boundary": "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 324 Intimacy primary documents across 44 family portfolios / T7S_B0182–T7S_B0225; no further non-Main/additional story or 2053 semantic source; manifest-bound physical story representation",
-  "last_source_high_water": "T7S_B0225",
+  "source_boundary": "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 329 Intimacy primary documents across 45 family portfolios / T7S_B0182–T7S_B0226; no further non-Main/additional story or 2053 semantic source; manifest-bound physical story representation",
+  "last_source_high_water": "T7S_B0226",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md",
-    "physical_bytes": 36476,
-    "physical_sha256": "637857de86a448703e10349909dc7687eae9f8f1ee9db7db9f7d3eb79b89bbc4",
+    "physical_bytes": 36689,
+    "physical_sha256": "72979e41920b49213a31f7d565ce5e4db45c837b6658bcfe7fffa98fabf028c1",
     "logical_prefix_bytes": 5900,
-    "logical_prefix_sha256": "f0ce6724a93529035d6cc25ea49801de111e706c7a26ee8f37bbeefc398184c4",
+    "logical_prefix_sha256": "e85e35e7bc3128085e1f8605b8b535fbc0610bb94682dce75587142997dbdf03",
     "route_marker": "<!-- T7S STORY CAUSAL STATE COMPONENT ROUTES -->"
   },
   "parts": [
@@ -58,11 +58,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
       "artifact_id": "T7S_STORY_CAUSAL_STATE_COMPONENT_003",
-      "physical_bytes": 266987,
-      "physical_sha256": "d9b0b9c7b60161e2a9addd420c233c7ec9e506124fb86bf697cf6602cec389c5",
+      "physical_bytes": 271375,
+      "physical_sha256": "c56ba71d13298757e6f9198ce16943b23182704d676c067293612ae28cb587e2",
       "payload_offset_bytes": 937,
-      "payload_bytes": 266006,
-      "payload_sha256": "fd8a7f6f4289397fcb20dfbfe142a5f2708a026f8663906d6a838c2ccafd9436",
+      "payload_bytes": 270394,
+      "payload_sha256": "c4d4818015172aaad89108ceddadeba4fceaa4dc5bebe2b4fa5cc269e8f7335e",
       "payload_terminator": "<!-- T7S STORY CAUSAL STATE PAYLOAD END -->",
       "logical_offset_bytes": 779332,
       "original_payload_interval": [
@@ -72,8 +72,8 @@
     }
   ],
   "parts_count": 3,
-  "logical_bytes": 1051238,
-  "logical_sha256": "fbe378980cd20f4697dc2eedb7912c482503e6240fe3a095b73e8975f1418bae",
+  "logical_bytes": 1055626,
+  "logical_sha256": "84891a1dac107acb5ca3b2e241ab3baed1856a38005f5dd9d6b7fc45115b1ef3",
   "heading_routes": [
     {
       "original_anchor": "current-event-records",
@@ -866,6 +866,12 @@
       "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
       "component_anchor": "b0225-hinas-self-presentation-and-qualified-resolve",
       "heading": "B0225 Hina's self-presentation and qualified resolve"
+    },
+    {
+      "original_anchor": "b0226-emocos-audience-refusals-and-particular-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0226-emocos-audience-refusals-and-particular-care",
+      "heading": "B0226 Emoco's audience, refusals and particular care"
     }
   ],
   "storage_transition": {
@@ -888,13 +894,13 @@
     "source_b0224_full_publication_receipt_sha256": "9e12015f0a0e15a8544f34b22bccba3ec67e8e9973cd5f4c4f364ad9221514d3"
   },
   "latest_logical_append": {
-    "source_high_water": "T7S_B0225",
+    "source_high_water": "T7S_B0226",
     "date": "2026-10-30",
-    "logical_before_sha256": "36f05a3a28fcf3b623d814ae979955e501e174c151266e6ca946b765d5e7573e",
-    "logical_after_sha256": "fbe378980cd20f4697dc2eedb7912c482503e6240fe3a095b73e8975f1418bae",
-    "addition_bytes": 4237,
-    "addition_sha256": "0052ab3f5ad9d10c83c917ac2c16364c50724f6926f9848f3b501364f1970662",
-    "unchanged_older_body_sha256": "1be8ba6bcb68237f943416b21399754f826421efab77642b39b5bbee755a8cd8",
+    "logical_before_sha256": "fbe378980cd20f4697dc2eedb7912c482503e6240fe3a095b73e8975f1418bae",
+    "logical_after_sha256": "84891a1dac107acb5ca3b2e241ab3baed1856a38005f5dd9d6b7fc45115b1ef3",
+    "addition_bytes": 4388,
+    "addition_sha256": "6d148155d4204e555cf557a881f0a944a481de4cb70808a55ffda00d6c2a3aaf",
+    "unchanged_older_body_sha256": "825cadf75018d96c605a0de66d42414f912496eabe14f8f8bd91e96c60f8a8c5",
     "active_component": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
     "sealed_older_components_byte_exact": true
   }
