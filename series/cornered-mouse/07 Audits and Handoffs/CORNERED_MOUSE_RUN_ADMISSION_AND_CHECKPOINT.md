@@ -4,7 +4,7 @@ artifact_id: CORNERED_MOUSE_RUN_ADMISSION_AND_CHECKPOINT
 artifact_type: run_admission_checkpoint
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.1"
+version: "1.2"
 status: active_provisional
 scope: "Authorized continuous All-in-One run, entering boundary, checkpoint and required-artifact closeout"
 source_boundary: "CM-JP-AIO2020-LOCAL; mainline CM-U01–CM-U10, then CM-S01; Reboot-only story outside this run"
@@ -82,8 +82,8 @@ The synthesis architecture's G1–G9 gates remain controlling; this table makes 
 ## Current checkpoint
 
 - Run: ACTIVE, continuous_sequential, start CM-U01, terminal CM-S01.
-- Verified committed narrative high-water mark: CM-U01; freeze CM-U01-EXIT, sp0011–sp0050.
-- Current operation: CM-U02 boundary reconciliation and reading, after the complete U01 transaction commit.
+- Verified committed narrative high-water mark: CM-U02; freeze CM-U02-EXIT, sp0051–sp0091 physical bundle, explicit narrative end sp0090.
+- Current operation: CM-U03 boundary reconciliation and reading, after the complete U02 transaction commit.
 - Continuous authorization remains active through CM-S01 and the required downstream artifacts; first-unit completion does not terminate the goal.
 - Hummingbird lane: CLOSED until committed/frozen CM-U10 closeout.
 - No source-completion, synthesis-readiness, model-validation or final-release claim exists.
@@ -97,3 +97,13 @@ The synthesis architecture's G1–G9 gates remain controlling; this table makes 
 Four character events/subjects, six relationship events over three dyads, six information and six decision records, six claims and two future U02 tests were justified and recorded. The architecture review retained the four-home design and moved to EVOLVING. Protocol version 0.3 qualifies its no-enrollment bootstrap statement as historical; no reconstruction rule or validation requirement changed. Local readiness gaps remain distinct from model validation. Introduction, substantive middle and exit plus all major dyads passed the bounded named-subject/reference check; source-required anonymity was retained. The sp0024 speaker question was resolved with an enlarged image and following turn; uncertain small sp0033 speech was excluded from exact quotation.
 
 Three bounded crops of U02's frontispiece at sp0051 verified 楽園の蛇 and exposed partial faces/hands/torso art. No U02 narrative scene/dialogue was read. That exposure is declared in the exit/forecasts; it is not a full image inspection. Total fully inspected distinct source images: forty-two including known contents/colophon, with three classified as non-narrative. The opening zero-narrative record above remains historical and unchanged. U02 narrative access follows local validation and commit of this complete transaction. Mainline source completion, Hummingbird, full-file paratext accounting, monographs, specialists, integrated synthesis, reconstruction disposition and final audit remain required.
+
+2026-10-30 — **U01 publication verification.** Transaction `6fb5dc45941372c6074e07e55cbb3bd000a6cd7c` was published after two tree-identical reconciliations as head `340552f20fd87f73d289479375167e4c57b47eca`, [PR #388](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/388). The [exact-head Repository integration audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/41003384029) passed. Run-admission PR #387 had meanwhile been integrated as `eea7025f7adfdf6b32343db493c31045a9660f81`. No author merge to main was performed.
+
+2026-10-30 — **CM-U02 atomic closeout.** All forty-one images sp0051–sp0091 were displayed/read at original resolution. The opening title is verified; the explicit end label at sp0090 establishes the narrative endpoint. Sp0091 is an adjacent untitled closing illustration, fully inspected and excluded from narrated-event claims. The bundle has one frontispiece, thirty-nine narrative-sequence images and one closing illustration. Total fully inspected distinct source images: eighty-three including contents/colophon; narrative-sequence image count seventy-eight, separately classified non-narrative count five. [U02 reading](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md) SHA-256: `02f3c8dacd12c3e27f42d7089eb36a80e196f9ed48fe990bbaaf45aadb78b4d7`; forty-one observation anchors and image-digest rows preserve coverage. No OCR or new source witness was used.
+
+New events: CM-CS-005–009 (nine total character events/seven subjects), CM-RS-007–013 (thirteen total/five dyads), CM-INF-007–012 (twelve total), CM-DEC-007–013 (thirteen total), CM-CL-007–009 (nine total claims), CM-CR-001–006 and CM-PA-001/002. Both original U02 forecasts have bounded supporting outcomes; the second has low discrimination and omits the earlier unrequested action. Original U01 reading/formulation/forecast bytes were verified unchanged. Chikako and the U01 companion have no-new-evidence dispositions. No monograph/model/global capability promotion follows.
+
+The source-title probe at sp0092 used top, right and horizontal strips. The short begins on a story page: two captions about returning before one's senior and first checking the senior's PC were exposed, alongside title/partial figure/architecture. This happened after the forecast commit and before linear U02 inspection, and is explicitly declared in the reading/exit. No full U03 image was read; no new U03 forecast is issued from that exposure. Source names were checked: 西村美咲 differs from the named-only 美佳 reference, and the student-era woman/client are not assigned convenient aliases. The corridor kiss was resolved as an old memory at its actual disclosure, not a new current encounter. Named-subject/reference review covered introduction, substantive arguments, exit and affected dyads.
+
+Next authorized candidate is CM-U03 after this complete local transaction commit. Architecture remains EVOLVING with the same four homes; review at the title/sequel boundary remains scheduled. U03–U10, separate Hummingbird, full-file paratext accounting, longitudinal reconciliation, warranted monographs/specialists, integrated synthesis, reconstruction disposition and final audit remain required. Full-source or run completion is not claimed.
