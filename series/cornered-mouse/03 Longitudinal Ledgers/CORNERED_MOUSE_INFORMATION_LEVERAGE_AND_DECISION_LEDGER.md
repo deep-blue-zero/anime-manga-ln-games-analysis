@@ -5,10 +5,10 @@ artifact_type: information_decision_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.6"
+version: "0.7"
 status: active_provisional
 scope: "Causal information distribution, perceived choices and consequential decisions"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U04; narrative end sp0136, frontispiece97 and closing portrait137 separate"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U05; narrative138–141, closing portrait142 separate"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_INFORMATION_LEVERAGE_AND_DECISION_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Information, leverage and decision state
 
-**Information records: 17. Decision records: 21. Source boundary: CM-U04.** Information mechanics and choice constraints remain separately retrievable from their relational consequences. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
+**Information records: 18. Decision records: 22. Source boundary: CM-U05.** Information mechanics and choice constraints remain separately retrievable from their relational consequences. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
 
 ## Record schemas
 
@@ -193,6 +193,16 @@ All rows bind `CM-JP-AIO2020-LOCAL`, unit/disclosure CM-U04; actual available ch
 | **CM-DEC-019 / Otomo**, CM-RS-015 and Natsuki conversation | CM-INF-015/017; later says deliberate drinking avoided escalation with Natsuki; Takasugi/Natsuki's counsel recalled; intoxication constrains interpretation | Suggests stopping to avoid more hurt and wishes he were gay, then initiates a kiss after Imagase objects. Neither act supplies final identity or universal bodily permission. No chosen-woman withdrawal request | U04 O028,O030–O038, sp0124,0126–0134; CM-CL-001 v3/005 v3/007 v2/008 v2. [CM-U04-O031](../01%20Sequential%20Readings/CORNERED_MOUSE_U04_DEEP_READING.md#cm-u04-o031); `CM-JP-AIO2020-LOCAL::sp0127::xhtml=item/xhtml/p-0125.xhtml::image=item/image/i-0125.jpg::panel=P00` |
 | **CM-DEC-020 / Imagase**, hurt and proposed ending, CM-RS-015 | CM-INF-015–017; wants Kyoichi's passion and particular attachment, rejects reasoned separation; intoxication and refusal signals remain material | Objects to stopping, explains desire, responds to Kyoichi's initiated kiss and continues manual intimacy. A wait signal and absent blanket agreement remain; morning finger-only correction bounds the act | U04 O029–O038, sp0125–0134; CM-CL-005 v3/008 v2. [CM-U04-O032](../01%20Sequential%20Readings/CORNERED_MOUSE_U04_DEEP_READING.md#cm-u04-o032); `CM-JP-AIO2020-LOCAL::sp0128::xhtml=item/xhtml/p-0126.xhtml::image=item/image/i-0126.jpg::panel=P00` |
 | **CM-DEC-021 / Otomo**, morning after CM-RS-016 | CM-INF-016/017; now knows Imagase's explanation of the old gift, sees discarded lighter; uncertain desired reception | Offers the lighter again, Imagase accepts and names its meaning as first gift. Immediate care/reconnection supported, durable terms unestablished | U04 O039–O040, sp0135–0136; CM-CL-001 v3/005 v3/012. [CM-U04-O039](../01%20Sequential%20Readings/CORNERED_MOUSE_U04_DEEP_READING.md#cm-u04-o039); `CM-JP-AIO2020-LOCAL::sp0135::xhtml=item/xhtml/p-0133.xhtml::image=item/image/i-0133.jpg::panel=P00` |
+
+## U05 information and decision events
+
+### CM-INF-018 — private exit aim and visible warm response
+
+Revision 1, prior NONE, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-U05. Primary route: [CM-U05-O003](../01%20Sequential%20Readings/CORNERED_MOUSE_U05_DEEP_READING.md#cm-u05-o003); `CM-JP-AIO2020-LOCAL::sp0140::xhtml=item/xhtml/p-0138.xhtml::image=item/image/i-0138.jpg::panel=P00`. **Proposition/truth:** Kyoichi intends attentiveness to make the relation troublesome; the reader sees this internal argument and the subsequent compliment. Imagase hears the compliment and visibly responds, with no demonstrated knowledge of the aim. Kyoichi recognizes the good mood as contrary to his plan. **Timing/mechanism:** private deliberation precedes the act and immediate reception; the difference makes an observed action insufficient to infer its whole motive. No investigation/report leverage is newly used. **Links:** CM-DEC-022, CM-RS-019; U05 O001–O004, sp0138–0141; CM-CL-013/001 v4/006 v5. High for represented intention and sequence, open for future effect. The imagined woman and internal doubles do not supply other people's testimony or objective gender facts.
+
+### CM-DEC-022 — Otomo tests care as an exit strategy
+
+Witness `CM-JP-AIO2020-LOCAL`, unit/disclosure CM-U05, prior CM-CS-012/CM-RS-016. Primary route: [CM-U05-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U05_DEEP_READING.md#cm-u05-o004); `CM-JP-AIO2020-LOCAL::sp0141::xhtml=item/xhtml/p-0139.xhtml::image=item/image/i-0139.jpg::panel=P00`. **Information/aims:** CM-INF-018; domestic ease and self-critique lead him to predict that greater consideration will make dating Imagase burdensome and end drifting. The full practical option set/costs are unshown. **Choice/result:** intentionally compliments the jacket; Imagase looks surprised/pleased and Kyoichi recognizes a good mood rather than the intended awakening. It is genuine initiative with an immediately frustrated distancing purpose. **Counterevidence/limits:** strategic motive does not erase actual appreciation's effect; temporary comic misfire is not permanent conversion. U05 O002–O004, sp0139–0141; CM-CL-001 v4/013. No new Imagase decision record is invented from an expression/reply without a further evidenced aim/choice. Earlier records remain preserved.
 
 ## Current retrieval projection
 

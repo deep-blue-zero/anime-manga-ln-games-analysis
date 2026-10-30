@@ -4,7 +4,7 @@ artifact_id: CORNERED_MOUSE_RUN_ADMISSION_AND_CHECKPOINT
 artifact_type: run_admission_checkpoint
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.4"
+version: "1.5"
 status: active_provisional
 scope: "Authorized continuous All-in-One run, entering boundary, checkpoint and required-artifact closeout"
 source_boundary: "CM-JP-AIO2020-LOCAL; mainline CM-U01–CM-U10, then CM-S01; Reboot-only story outside this run"
@@ -82,8 +82,8 @@ The synthesis architecture's G1–G9 gates remain controlling; this table makes 
 ## Current checkpoint
 
 - Run: ACTIVE, continuous_sequential, start CM-U01, terminal CM-S01.
-- Verified committed narrative high-water mark: CM-U04; freeze CM-U04-EXIT, sp0097–sp0137 physical bundle, explicit narrative end sp0136;97/137 separately classified art.
-- Current operation: CM-U05 boundary reconciliation and reading, after the complete U04 transaction commit.
+- Verified committed narrative high-water mark: CM-U05; freeze CM-U05-EXIT, sp0138–sp0142 physical bundle, explicit narrative end sp0141; closing portrait142 separate.
+- Current operation: CM-U06 boundary reconciliation and reading, after the complete U05 transaction commit; title-work architecture/model review before U07 access.
 - Continuous authorization remains active through CM-S01 and the required downstream artifacts; first-unit completion does not terminate the goal.
 - Hummingbird lane: CLOSED until committed/frozen CM-U10 closeout.
 - No source-completion, synthesis-readiness, model-validation or final-release claim exists.
@@ -125,3 +125,11 @@ Named-subject/reference review covered introduction, substantive interior/knowle
 New CM-CS-012–015, CM-RS-015–018, CM-INF-014–017, CM-DEC-015–021, CM-CL-011/012 and CM-CR-010–015 give totals 15 character events/9 subjects, 18 relationship events/7 dyads, 17 information/21 decisions, 12 claims/15 revisions. Natsuki and Takasugi have independent records, not convenient alias merges. Existing unaffected subjects/dyads receive no-new-evidence dispositions. Frozen U01–U03 readings and earlier formulations/forecasts remain unchanged; no global file, model or monograph is promoted.
 
 PR003 remains pending: general separation at sp0127 and objection at sp0128 lack the original explicit chosen-woman condition. This actual resistance is recorded without forecast credit; U05–U06 remain the window and no trigger requires NON_DISCRIMINATING. The source's morning finger-only correction governs the intimate act; intoxication, selective memory, protest/wait and specific initiative remain separately visible. Repeated-gift interpretation distinguishes original and newly shared knowledge. Named-subject/reference review covered introduction, substantive middle, exit and all three active dyads. Architecture remains EVOLVING with title/sequel review scheduled; existing four homes remain adequate. Next CM-U05 follows complete local validation/commit. U05–U10, separate Hummingbird, full-file paratext, reconciliation, warranted independent artifacts, synthesis, reconstruction disposition and final audit remain required.
+
+2026-10-30 — **U04 publication checkpoint.** Atomic transaction/current published head `dd7a6ed6ee303db5b7dd471803a392b36c2f0e1f` continued [PR #393](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/393) with both U03/U04 exits. Author preflight passed INDEX/10503 at whole tree `41cf6fe521af4b4b3592bfaa9e4a6b5fb888b0a6`; fresh source/main heads required no further changes. Previous head `ea935d17b635363300f56a1ccd2431d4466831ec` passed its [audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/41010226023) before publication. New-head audit was pending at publication; live GitHub owns later status.
+
+2026-10-30 — **CM-U05 atomic closeout.** All five images sp0138–sp0142 individually displayed/read at original resolution with usable Japanese, no OCR. Four narrative-sequence images have title138 and explicit end141;142 is closing portrait. No next-unit probe or scene consumed. Full source coverage 134/539 comprises 125 narrative-sequence and 9 non-narrative images. [U05 reading](../01%20Sequential%20Readings/CORNERED_MOUSE_U05_DEEP_READING.md) SHA-256 `06320fb0777c0bb5202c66456254c2fdb98ea6e35191fd033cd5bffc0a5be481` owns five stable observations, exact members/image digests and CM-U05-EXIT; predecessor `dd7a6ed6ee303db5b7dd471803a392b36c2f0e1f`.
+
+CM-CS-016/017, CM-RS-019, CM-INF-018, CM-DEC-022, CM-CL-013 and CM-CR-016/017 record the private care-as-exit plan and immediate warm result. Totals 17 character events/9 subjects, 19 relationship events/7 dyads, 18 information/22 decisions, 13 claims/17 revisions. No new person is invented from the internal doubles/imagined woman. Unaffected histories/formulations remain; prior reading hashes and forecast bytes are preserved. PR003 has no eligible U05 trigger and stays pending for U06; no new forecast/model is introduced. Introduction, substantive middle/response and exit plus both directions of the central dyad passed named-subject/reference review.
+
+Next CM-U06 follows complete local validation/commit. At its title-work boundary, review architecture and independent model readiness before consuming U07, so any warranted rule/test freeze can reserve honest uninspected sequel cases; absence of adequate evidence requires a gap disposition, never fabricated validation. This does not promise a model or broad portability. U06–U10, separate Hummingbird, full-file paratext, reconciliation, warranted monographs/specialists, integrated synthesis, reconstruction disposition and final audit remain required. Architecture stays EVOLVING.

@@ -5,10 +5,10 @@ artifact_type: relationship_state_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.6"
+version: "0.7"
 status: active_provisional
 scope: "Directional expectations, commitments, consent/boundaries and relational consequences"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U04; narrative end sp0136, frontispiece97 and closing portrait137 separate"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U05; narrative138–141, closing portrait142 separate"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_RELATIONSHIP_COMMITMENT_AND_BOUNDARY_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Relationship, commitment and boundary state
 
-**Records: 18. Dyads enrolled: 7. Source boundary: CM-U04.** Independent directions are recorded within each paired event; reciprocity is never assumed. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
+**Records: 19. Dyads enrolled: 7. Source boundary: CM-U05.** Independent directions are recorded within each paired event; reciprocity is never assumed. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
 
 ## Record schema
 
@@ -228,11 +228,17 @@ Prior NONE; A=Imagase, B=Takasugi; Otomo affected. Primary route: [CM-U04-O011](
 - **B→A:** says he confessed/dated A after A's postgraduation distress, offered reunion and believes they fit emotionally/bodily. Asks Otomo to free A if he cannot reciprocate. These are B's choices and claims, not neutral matchmaking evidence.
 - **Terms/limits:** no dates, duration, exclusivity terms or present sexual act shown. CM-INF-014/015, CM-DEC-017; U04 O007–O011,O017–O018,O025; sp0103–0107,0113–0114,0121; CM-CL-004 v4/011. High for current voices/action, qualified for history/refusal; future outcome unknown. Never merge B with U01 companion or U02 client.
 
+## U05 relationship event
+
+### CM-RS-019 — CM-REL-OTOMO-IMAGASE, consideration's unintended reception
+
+Revision 1, prior CM-RS-016, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-U05; A=Otomo, B=Imagase. Primary route: [CM-U05-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U05_DEEP_READING.md#cm-u05-o004); `CM-JP-AIO2020-LOCAL::sp0141::xhtml=item/xhtml/p-0139.xhtml::image=item/image/i-0139.jpg::panel=P00`. **A→B:** privately plans that adequate care will make gay dating burdensome, then deliberately asks about/compliments B's jacket. Recognizes a warm mood that frustrates the plan. **B→A:** asks why A is distracted and receives the compliment with surprise/flushed pleasure; no knowledge of the private plan is shown. **Terms/constraints:** CM-INF-018/CM-DEC-022 preserve unequal knowledge and intended versus immediate result. No new exclusivity, mutual classification, bodily permission or general repair is established. Older consent/privacy histories remain. **After/limits:** ordinary warmth and A's renewed unease, not an enacted breakup or final love declaration. U05 O001–O004, sp0138–0141; CM-CL-001 v4/005 v3/006 v5/013. High for plan/action/response, open for persistence. Other dyads have no new evidence; imagined comparison is not a new relationship.
+
 ## Current projection
 
 | Dyad | Latest event | Directional endpoint / unresolved terms |
 |---|---|---|
-| CM-REL-OTOMO-IMAGASE | CM-RS-016 | General ending resisted; active kiss/manual intimacy and knowingly renewed gift; consent/memory/future terms unresolved |
+| CM-REL-OTOMO-IMAGASE | CM-RS-019 | Deliberate compliment produces warmth despite A’s private exit aim; prior terms/limits retained |
 | CM-REL-OTOMO-CHIKAKO | CM-RS-005 | B requests exit; A narrates divorce; no six-month B state or repaired marriage |
 | CM-REL-IMAGASE-COMPANION-U01 | CM-RS-006 | A reports breakup; B's account absent; violence and unknown agreements retained |
 | CM-REL-OTOMO-NISHIMURA | CM-RS-012 | Affair treated as ended by men; her aftermath/account unshown |
