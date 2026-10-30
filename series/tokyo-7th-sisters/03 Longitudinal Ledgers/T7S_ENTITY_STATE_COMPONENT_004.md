@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.13"
+version: "1.14"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0223; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0224; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -742,4 +742,51 @@ Existing Ayumu `IDENTITY-0036 / CHAR-0031 / origasa-ayumu`, Player `IDENTITY-000
 CHAR-0031 gains experienced incoming feeling, practiced register difficulty/renewed effort, desired cherishing and offered care, conditional food/sign customization, reported coaching with unresolved shyness, particular helpful exchange/expansive service ideal and gratitude despite uncertain origin memory. CHAR-0052 gains only the bounded report of coaching, voice appraisal and continued embarrassment, not an independent whole current reconstruction. B0035 conceptual uncertainty/Citrus care, B0082 service expertise/safeguarding gap, B0120 consented training/own-style choice, B0158 rest/care-costs/untested causes, B0163 requested instruction/offscreen scheduling limits, B0167 individualized styling/privacy, B0169 actual-versus-fantasy separation and B0179 generosity plus trap costs retain their horizons.
 
 Totals:1855KNOW/1245REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Whole Ayumu READY scan0; no invented R2/R3, rewritten historical readiness, performed-audio or monograph/era maturity promotion.
+
+## B0224 Shirayuki's growing skills and wanted company
+
+Owner [B0224](../02%20Readings/T7S_B0224_DEEP_READING.md), reading SHA256 `75f24605a75b9fa7dc0b92b8654adb7969e1c6e02ca64e0e52bf87df1c7623f2`; source-lock 12.130, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts/hashes/whole ranges. All28 committed before-controls/five SourceLock/seven coverage/four entity components froze at published9c271744/B0223/12.129 before primary. Captured source contains audited mainbf48d9b1. The entry's pending-cycle observation stays frozen; completed predecessor cycle and fresh exact main/source witness govern semantic acceptance. All117 prior Shirayuki rows and complete READY0024 were actually read before primary; its R2 remains at MainB0069 only. No menu chronology, performed hearing or runtime.
+
+Existing Shirayuki `IDENTITY-0067 / CHAR-0052 / arisu-shirayuki` and Player `IDENTITY-0001 / CHAR-0001 / player-protagonist` retain routes. C's Yumeno `IDENTITY-0087 / CHAR-0069 / sakaiya-yumeno` and F's Madoka `IDENTITY-0082 / CHAR-0062 / enami-madoka` are report-only peers. Addresses/imitation/rabbit figure/classmates create no identity. Historical reported motherID0102 and elder-sisterID0091 remain distinct; no new IDENTITY/CHAR/UNIT/READY.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1856` | Shirayuki says the manager's company feels like being with family back home. | A:P1; experienced resemblance, no discovered kinship or erased original family. |
+| `KNOW-1857` | Shirayuki asks whether becoming his bride could make them actual family. | A:P2; own embarrassed question/wish, no supplied answer or current marriage. |
+| `KNOW-1858` | Shirayuki conditionally wants to view a sky full of stars with him in her birth-village field. | A:P3; repeated desire, no identified actual village visit, night scene or agreed future. |
+| `KNOW-1859` | Shirayuki reports an upcoming school recital and invites the manager if he has time. | B:P1; availability condition/current request, no accepted attendance or performed recital. |
+| `KNOW-1860` | Shirayuki expects his presence could help her perform more cutely than classmates. | B:P2; actor hope, no observed class ranking or guaranteed effect. |
+| `KNOW-1861` | Shirayuki names piano as her strength but says this recital uses keyboard harmonica. | B:P3; self-appraised skill/task distinction, no heard technique or general incapacity. |
+| `KNOW-1862` | Shirayuki describes breath difficulty, says training is needed and makes a written breathing attempt ending in a cough. | B:P4; textual practice, no successful next attempt, acoustic/clinical judgment or diagnosis. |
+| `KNOW-1863` | Shirayuki reports Yumeno repeatedly calling her cute and treating her fondly. | C:P1; her attributed account, no Yumeno current turn or exoneration of other-horizon conduct. |
+| `KNOW-1864` | Shirayuki appreciates that attention yet wants beauty beyond being only cute. | C:P2; own self-description/ambition, no blanket consent, achieved change or fixed adult age. |
+| `KNOW-1865` | Shirayuki asks the manager to wait for her beauty and states she will continue idol work until then. | C:P3; unanswered request/current intention, no agreement, real retirement date or completed future. |
+| `KNOW-1866` | Shirayuki imagines being looked at as a woman after becoming beautiful, then calls it joking. | C:P4; qualified projection, no certified insincerity, unreserved confession or reciprocal romance. |
+| `KNOW-1867` | Shirayuki renews a request for patient attention to her growth. | C:P5; current wish, no manager answer, achieved transformation or standing duty. |
+| `KNOW-1868` | Shirayuki reports100 on a kanji test and asks the manager to look. | D:P1; reported particular result, no pictured score paper or global academic mastery. |
+| `KNOW-1869` | Shirayuki says she had planned to show him first and wants growth praise because it encourages more effort. | D:P2-3; prior intention/current motivation, no supplied praise or guaranteed next result. |
+| `KNOW-1870` | Shirayuki aims to get100 in idol work and receive his praise. | D:P4; aspirational analogy, no equivalent scoring institution or achieved perfection. |
+| `KNOW-1871` | Shirayuki thanks the manager for recently taking her to school and says his company helped. | E:P1-2; attributed past action/gratitude, no current escorted journey or full managerial account. |
+| `KNOW-1872` | Shirayuki describes unfamiliar Tokyo roads and difficulty remembering its many buses/complexity. | E:P2-3; situated self-report, no census, permanent incapacity or total urban ignorance. |
+| `KNOW-1873` | Shirayuki would still like his escort after learning the roads and wonders if selfish. | E:P4; company beyond practical need/uncertain reception, no accepted request or fixed obligation. |
+| `KNOW-1874` | Shirayuki reports recent reciprocal teaching/play with Madoka in rural words. | F:P1; attributed exchange, no Madoka independent turn, complete lesson or full reception. |
+| `KNOW-1875` | Shirayuki says she needs Tokyo speech yet enjoys learning other rural varieties. | F:P2; adjustment and curiosity, no achieved standardization or erasure of her own idiom. |
+| `KNOW-1876` | Shirayuki performs written ja-ke/ja forms then asks the manager whether similar. | F:P3; authored contrast/appraisal request, no answer, heard accuracy or geographical adjudication. |
+| `KNOW-1877` | Shirayuki considers other countries' languages and aims for accomplished beauty. | F:P4; future learning/art aspiration, no demonstrated multilingual proficiency or later SOL cause. |
+| `KNOW-1878` | Shirayuki appraises visible sea/relative mountain lack and names calm in hiking. | G:P1; actor comparison/experienced preference, no geographical census or therapeutic guarantee. |
+| `KNOW-1879` | Shirayuki invites a farther mountain outing on the next holiday. | G:P2; proposed shared experience, no acceptance, booking, selected mountain or actual trip. |
+| `KNOW-1880` | Shirayuki claims wind-based bamboo finding, offers to dig plenty and imagines a shared vegetable/shoot pot meal. | G:P3-4; skill/giving claim and future eating, no verified harvest, cooked dish, taste or supernatural proof. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1246` | `arisu-shirayuki → player-protagonist` | A-G: reports family-like company, wishes future family/stars, invites recital/attention/escort/hike, wants recognition of growth, reports learning and offers her own foraging/shared meal. Questions/joke/availability and actual task difficulty remain; no adult partnership, supplied full reply, completed plans or permanent care claim. Reciprocal REL-1247. |
+| `REL-1247` | `player-protagonist → arisu-shirayuki` | A-G: addressed company, hoped-for school listener/praiser and recipient of reports, imitation question and future offers; E attributes a useful earlier escort to him. No independent current turn, promised waiting/escort, agreed marriage/romance or assessed performance. Reciprocal REL-1246. |
+| `REL-1248` | `sakaiya-yumeno → arisu-shirayuki` | C:P1: reported repeatedly cute/fond attention in Shirayuki's account. No independent current response, blanket recipient permission or erasure of prior boundary problems. Reciprocal REL-1249. |
+| `REL-1249` | `arisu-shirayuki → sakaiya-yumeno` | C:P1-2: reports appreciation while wanting an image beyond only cute. Own differentiated wishes, no endorsement of every prior/future interaction or new peer scene. Reciprocal REL-1248. |
+| `REL-1250` | `enami-madoka → arisu-shirayuki` | F:P1: partner in reported reciprocal rural-word teaching/play. No own current turn, verified complete pedagogical reception, acoustic model or standardized course. Reciprocal REL-1251. |
+| `REL-1251` | `arisu-shirayuki → enami-madoka` | F:P1-3: reports teaching/learning together and demonstrates written imitation for Player's appraisal. No Madoka current answer, heard accuracy, new alias or settled regional taxonomy. Reciprocal REL-1250. |
+
+CHAR-0052 gains self-authored future images, task-local musical practice, reported score/recognition motive, company wanted beyond imagined route mastery, plural language curiosity and proposed foraging/meal giving. No fixed childish incapacity, one-way dependence, universal skill or future SOL state. B0101 homesickness/play/enjoyment testimony, B0139 one-live assent/errors/shared work/requested comfort, B0177 mother/sister distinction/home-taste standards/care costs/privacy, and B0223 Ayumu's reported coaching with continued shyness retain their separate horizons.
+
+Totals:1880KNOW/1251REL;102IDENTITY/84CHAR/29UNIT/29READY retained. READY0024 remains R2_STATE_BOUNDED at complete MainB0069 only; MONOGRAPH_NOT_READY and performed voice UNREVIEWED. No R3, broadened historical decision, new maturity or full2034release.
 <!-- T7S ENTITY STATE PAYLOAD END -->

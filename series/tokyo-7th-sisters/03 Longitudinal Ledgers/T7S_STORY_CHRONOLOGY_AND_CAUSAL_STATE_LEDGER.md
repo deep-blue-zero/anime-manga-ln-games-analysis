@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.124"
+version: "11.125"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 312 Intimacy primary documents across 42 family portfolios / T7S_B0182–T7S_B0223; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 319 Intimacy primary documents across 43 family portfolios / T7S_B0182–T7S_B0224; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1418`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1540`; `last_closed_block = T7S_B0223`. The admitted horizon contains 827 primary documents: 235 Main, 280 i-n-g and 312 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 312 Intimacy documents across 42 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1425`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1546`; `last_closed_block = T7S_B0224`. The admitted horizon contains 834 primary documents: 235 Main, 280 i-n-g and 319 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 319 Intimacy documents across 43 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4731,3 +4731,28 @@ Owner [B0223](../02%20Readings/T7S_B0223_DEEP_READING.md), reading SHA256 `cc2db
 | `EDGE-1547` | `EV-B0223-001 / EV-B0223-007` | FORMAL_COMPARISON: Nanasta's felt effect and idol work's increased reflection are her accounts of receiving value, not a dated causal chain or verification of the disputed words. |
 
 Totals:1418EV/25WORLD/47THREAD/1540 active EDGE, maximum1547 with seven intentional older gaps retained. No new WORLD/THREAD, cross-case dated causality or older-body rewrite.
+
+## B0224 Shirayuki's growing skills and wanted company
+
+Owner [B0224](../02%20Readings/T7S_B0224_DEEP_READING.md), reading SHA256 `75f24605a75b9fa7dc0b92b8654adb7969e1c6e02ca64e0e52bf87df1c7623f2`; source-lock 12.130, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts/hashes/whole ranges. All28 committed before-controls/five SourceLock/seven coverage/four entity components froze at published9c271744/B0223/12.129 before primary. Captured source contains audited mainbf48d9b1. The entry's pending-cycle observation stays frozen; completed predecessor cycle and fresh exact main/source witness govern semantic acceptance. All117 prior Shirayuki rows and complete READY0024 were actually read before primary; its R2 remains at MainB0069 only. No menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0224-001` | A:401000327 P0-3 | Describes family-like feeling with the manager, asks whether becoming his bride could make actual family, and conditionally wishes to view stars together in her birth-village field. | FELT_RESEMBLANCE_QUESTION_AND_PROJECTED_SHARED_PLACE; no manager answer, new kinship, reciprocal agreement, current marriage or actual village/night visit. |
+| `EV-B0224-002` | B:401000528 P0-4 | Invites him to a forthcoming school recital if available, hopes his presence helps, distinguishes self-reported piano strength from keyboard-harmonica breath difficulty and begins written practice ending in a cough. | REPORTED_TASK_CONDITIONAL_INVITE_AND_SITUATED_PRACTICE; no attended recital, heard performance, class ranking, acquired mastery or diagnosis. |
+| `EV-B0224-003` | C:401000770 P0-5 | Appreciates Yumeno's reported cute/fond attention yet wants beauty beyond cuteness, asks the manager to wait, states idol-continuation intent, qualifies a future woman-recognition thought as joking and asks patient attention to growth. | ATTRIBUTED_ATTENTION_SELF_AUTHORED_FUTURE_AND_UNANSWERED_REQUEST; no Yumeno own turn, blanket permission, manager assent, fixed age/quit date or accomplished partnership. |
+| `EV-B0224-004` | D:401000954 P0-4 | Reports kanji100 and a plan to show him first, wants praise of growth because it encourages effort, and carries100 into a future idol-work goal. | REPORTED_SPECIFIC_RESULT_AND_ASPIRATIONAL_SCORE_ANALOGY; no pictured paper, manager praise turn, global mastery, equivalent grading system or achieved idol perfection. |
+| `EV-B0224-005` | E:401001138 P0-4 | Thanks him for a reported recent school escort, describes unfamiliar roads/bus complexity and helpful company, then wants that company even after learning the route while asking if selfish. | REPORTED_HELP_AND_DESIRE_BEYOND_REMEDIATION; no current journey, permanent incapacity, accepted request or standing escort obligation. |
+| `EV-B0224-006` | F:401001438 P0-4 | Reports reciprocal rural-word play with Madoka, combines need for Tokyo speech with interest in other varieties, performs written ja-forms and asks similarity, then imagines foreign languages and accomplished beauty. | REPORTED_PLAY_WRITTEN_IMITATION_AND_FUTURE_LEARNING; no Madoka own turn, heard/regional accuracy, supplied appraisal, fluency or proven later SOL learning cause. |
+| `EV-B0224-007` | G:401001586 P0-4 | Appraises Tokyo sea/mountains, names calm in hiking, invites a holiday outing, claims wind-based bamboo-shoot finding skill and imagines digging for him and sharing a wild-vegetable pot meal. | ATTRIBUTED_PREFERENCE_SKILL_CLAIM_AND_RECIPROCAL_PROSPECT; no actual trip, geographic census, verified foraging, supernatural proof, prepared or tasted meal. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1548` | `EV-B0224-001 / EV-B0224-003` | FORMAL_COMPARISON: Family-making wish and future woman-recognition/patient attention remain her projections; no paired assent or achieved developmental endpoint. |
+| `EDGE-1549` | `EV-B0224-002 / EV-B0224-004` | FORMAL_COMPARISON: Task-specific practice and reported kanji100 differ from future idol100; no universal skill, equivalent rubric or before/after order. |
+| `EDGE-1550` | `EV-B0224-002 / EV-B0224-005` | FORMAL_COMPARISON: Skill can be worked on while company remains wanted; imagined route mastery does not require relational wishes to end. No permanent incapacity or duty. |
+| `EDGE-1551` | `EV-B0224-003 / EV-B0224-006` | FORMAL_COMPARISON: Desired beauty expands alongside language/art ambition, not a proved transformation, sole adult image or fixed date. |
+| `EDGE-1552` | `EV-B0224-001 / EV-B0224-007` | FORMAL_COMPARISON: Birth-village stars and proposed mountain/food outing invite shared place-experience; both remain prospective, no actual common trip or geography adjudication. |
+| `EDGE-1553` | `EV-B0224-005 / EV-B0224-007` | FORMAL_COMPARISON: Receiving useful escort and offering foraging/meal experience permit reciprocal positions without fixed giver/receiver roles or completed exchange. |
+
+Totals:1425EV/25WORLD/47THREAD/1546 active EDGE, maximum1553 with seven intentional older gaps retained. No new WORLD/THREAD, cross-case dated causality or older-body rewrite.
