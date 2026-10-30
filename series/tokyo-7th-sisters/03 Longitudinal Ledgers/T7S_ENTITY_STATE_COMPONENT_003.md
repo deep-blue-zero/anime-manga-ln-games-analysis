@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.28"
+version: "1.29"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0203; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0204; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1870,4 +1870,42 @@ Owner [B0203](../02%20Readings/T7S_B0203_DEEP_READING.md), reading SHA256 `773d7
 | `REL-1133` | `tendoji-musubi → school peers, qualified` | Says game interest/skill stays private because of school character; hopes gradual plural recognition without identifying every recipient. C:P2-3/E:P1-4; no whole-school ban, friendlessness, universal discovery or imposed disclosure. |
 
 Totals:1298 KNOW/1133 REL.102IDENTITY/84CHAR/29UNIT/29READY retained. READY-0002 remains exact B0003 R2/MONOGRAPH_NOT_READY with no horizon upgrade. Source-named Haru memory and Susu-mediated report remain bounded; no new route or historical body/ID change.
+
+## B0204 Rishuri's own pattern and the company that widens it
+
+Owner [B0204](../02%20Readings/T7S_B0204_DEEP_READING.md), reading SHA256 `eccff1abf392cf4f6801998076b71e850e3c3e88c594e0d7e7dd1b831ac5ffdb`; source-lock 12.110, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published60ff7f89/B0203/12.109 before primary; successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1299` | Rishuri names sewing competence and limited cooking while offering miso soup. | A:P1-2; own domain-specific account, not universal domestic mastery/incapacity or invalidated prior care. |
+| `KNOW-1300` | Rishuri says soup is freshly made, contains eringi and received her best effort. | A:P1-3; own preparation/ingredient report, no independent process, completed delivery or taste certificate. |
+| `KNOW-1301` | Rishuri values manager's picnic presence and asks him to receive her gratitude. | A:P2-3; selected hospitality/request, no own manager reaction or standing serving obligation. |
+| `KNOW-1302` | Rishuri presents a flyer for a future drama-club play in school hall. | B:P1; announced occasion, no complete flyer image, school identity, actual staging or attendance. |
+| `KNOW-1303` | Rishuri reports commissioned costume design, values her own world in clothes and says members drew back a little. | B:P2-3; authorial appraisal/mediated reception, no whole-show production office, unanimous approval or complete rejection. |
+| `KNOW-1304` | Rishuri invites manager if free and offers special price with future admission duty. | B:P4; conditional plan, no exact amount, assumed discount/free entry, accepted invite or completed shift. |
+| `KNOW-1305` | Rishuri asks about blank-looking appearance and suggests craft focus/topic gaps may explain pace mismatch. | C:P1-2; own tentative account, no clinical condition, global incapacity or lack of care for friends. |
+| `KNOW-1306` | Rishuri takes up manager's suggestion to use usual thoughts beyond sewing as a topic. | C:P3; mediated advice through uptake, no complete independent manager turn or proven successful group conversation. |
+| `KNOW-1307` | Rishuri names mushrooms/everyday manager thoughts and supposes peers do the same. | C:P4-5; own thought explicit, peers' minds conjectured, no universal romantic certainty or shared actual conversation. |
+| `KNOW-1308` | Rishuri values distinctive Nanasta private fashion as learning. | D:P1; her appraisal, not a technical survey or every member's new own response. |
+| `KNOW-1309` | Rishuri names Seven Sisters/Nicole as astonishing fashion comparison and calls herself still limited. | D:P2-3; public exemplar/self-comparison, no pictured Nicole outfit, objective taste verdict or Nicole/Coney recognition in her knowledge. |
+| `KNOW-1310` | Rishuri asks about trusting her sense while gaining recognition, then encourages future zonorish legend with manager. | D:P4-5; uncertainty and prospective aspiration, no achieved fame, universal acceptance, complete plan or permanent confidence cure. |
+| `KNOW-1311` | Rishuri invites future hometown return and praises unnamed town/food/theater differences. | E:P1-2; own report/opportunity, no exact municipality, actual trip or manager assent. |
+| `KNOW-1312` | Rishuri recalls neighbor woman teaching sewing, wonders about health and another boyfriend request. | E:P3; reported local teacher/anticipated remark, no biological aunt, named master identity, verified health or actual current/past boyfriend. |
+| `KNOW-1313` | Rishuri proposes manager-as-boyfriend pretense if asked, requests coordination without strange improvisation. | E:P4-5; conditional role with limit, no performed deception, real partnership or blanket consent. |
+| `KNOW-1314` | Rishuri enjoys TANIMACHI walk and repeatedly notices household textiles/items. | F:P1-3; local material attention/appraisal, no purchase or clinical diagnosis. |
+| `KNOW-1315` | Rishuri asks where manager is and describes her easily shifting attention. | F:P3-4; brief source interruption/own description, no intentional abandonment, measured absence or global incapacity. |
+| `KNOW-1316` | Rishuri requests firm hand connection and remarks on manager hand warmth. | F:P5; dialogue represents local contact/reception beyond mere future wish, no viewed motion, temperature measure, settled romance or general restraint right. |
+| `KNOW-1317` | Rishuri thanks today's reported aquarium outing and newly notices tropical fish colors. | G:P1-2; own visit/reception report, not first-ever fish or analyst-viewed tank/species expertise. |
+| `KNOW-1318` | Rishuri wants to try those colors in patchwork as ideas arise. | G:P3; prospective experiment/own creative response, no finished garment, technical process or final design. |
+| `KNOW-1319` | Rishuri credits shared company with varied self-discovery and requests more places/opportunities. | G:P4; own attribution/open future, no sole manager authorship, complete self, actual next trip or inability to create alone. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1134` | `maezono-rishuri → player-protagonist` | Hosts/thanks, invites audience and future travel, seeks conversation support/style reassurance, proposes conditional social pretense with limits and initiates represented local hand connection. A-G; no perpetual service, universal fulfilled request, settled partnership or surrendered self-style. |
+| `REL-1135` | `player-protagonist → maezono-rishuri` | Advice appears through her uptake; picnic company/aquarium outing through her account and local hand warmth through represented address. A/C/F/G; no independent full interior, every request accepted, sole creative causation or new biological/romantic status. |
+| `REL-1136` | `maezono-rishuri → rokusaki-connie-presented, public Nicole reference only` | Seven Sisters/Nicole fashion functions as her astonishing exemplar and comparison for personal sense/recognition. D:P2-5; established literary route, no present Coney speech, technical taste verdict, endorsement or newly equal disclosure knowledge. |
+| `REL-1137` | `maezono-rishuri → Nanasta peers, distinct reports/appraisals` | Learns from private fashion, wonders at conversation pace and conjectures manager as shared topic. C/D; no peer-own new interior, all-roster agreement or completed social repair. |
+| `REL-1138` | `maezono-rishuri → school drama-club members, reported B-only role` | Reports requested costume work, values own expression and perceives hesitation. B:P1-4; role-local recipients, no new stable unit/person, unanimous reception, formal whole-show producer or completed performance. |
+
+Totals:1319 KNOW/1138 REL.102IDENTITY/84CHAR/29UNIT/29READY retained without a new route, individual Rishuri READY or R2 upgrade. Source-named Nicole is a public reference, teacher/drama-group roles remain local and hometown/future roles bounded; all prior bodies/IDs preserved.
 <!-- T7S ENTITY STATE PAYLOAD END -->

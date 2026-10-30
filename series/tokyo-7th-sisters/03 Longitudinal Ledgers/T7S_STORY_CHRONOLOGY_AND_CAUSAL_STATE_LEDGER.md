@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.104"
+version: "11.105"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 163 Intimacy primary documents across 22 family portfolios / T7S_B0182–T7S_B0203; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 170 Intimacy primary documents across 23 family portfolios / T7S_B0182–T7S_B0204; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-29
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1263`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1409`; `last_closed_block = T7S_B0203`. The admitted horizon contains 678 primary documents: 235 Main, 280 i-n-g and 163 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 163 Intimacy documents across 22 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1270`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1415`; `last_closed_block = T7S_B0204`. The admitted horizon contains 685 primary documents: 235 Main, 280 i-n-g and 170 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 170 Intimacy documents across 23 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4205,3 +4205,28 @@ Owner [B0203](../02%20Readings/T7S_B0203_DEEP_READING.md), reading SHA256 `773d7
 | `EDGE-1416` | `EV-B0203-001 / EV-B0203-008` | CONTROL_OF_DISCLOSURE; selected secret and request to unhear retain access limits, no confidentiality guarantee, erased utterance or automatic repair of B0003. |
 
 Totals:1263 EV,25 WORLD,47 THREAD,1409 active EDGE with maximum1416/seven earlier intentional gaps retained. Nine whole factual homes; no new WORLD or earlier body/ID/chronology change.
+
+## B0204 Rishuri's own pattern and the company that widens it
+
+Owner [B0204](../02%20Readings/T7S_B0204_DEEP_READING.md), reading SHA256 `eccff1abf392cf4f6801998076b71e850e3c3e88c594e0d7e7dd1b831ac5ffdb`; source-lock 12.110, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published60ff7f89/B0203/12.109 before primary; successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0204-001` | A:401000174 P0-3 | Offers freshly made miso soup at picnic, contrasts sewing confidence with limited cooking, describes eringi/full effort and asks recipient to accept gratitude. | OWN_PREPARATION_ACCOUNT_AND_HOSPITALITY; no witnessed procedure/delivery/eating/taste verdict, universal domestic mastery or perpetual serving duty. |
+| `EV-B0204-002` | B:401000508 P0-4 | Presents future school-play flyer, reports requested costume design/own-world expression and hesitant members, invites manager if free with future ticket role/special price. | CRAFT_AUTHORSHIP_REPORT_AND_CONDITIONAL_AUDIENCE_INVITATION; no whole-show formal producer, complete peer verdict, actual attendance/admission shift, fixed discount/free ticket or staged-play review. |
+| `EV-B0204-003` | C:401000798 P0-5 | Questions absent-minded appearance/pace mismatch, takes up topic advice, names mushrooms and everyday manager thoughts and conjectures peers share them. | OWN_ATTENTION_AND_PROPOSED_SHARED_TOPIC; no diagnosis, friendlessness, direct peer interiors, settled romance or completed conversation cure. |
+| `EV-B0204-004` | D:401000910 P0-5 | Values peer clothes, names Seven Sisters/Nicole fashion astonishment, worries whether own sense can gain recognition, then invokes manager and future zonorish legend. | ATTRIBUTED_EXEMPLAR_AND_SELF_ENCOURAGED_ASPIRATION; no objective taste verdict, achieved fame, Nicole endorsement, new present Coney turn or Rishuri-disclosure knowledge. |
+| `EV-B0204-005` | E:401001110 P0-5 | Invites future unnamed-hometown visit, recalls neighboring sewing teacher and anticipates boyfriend request; proposes conditional manager pretense with improvisation limit. | REPORTED_TEACHER_AND_CONDITIONAL_SOCIAL_ROLE; no exact municipality/biological aunt/current partner/actual trip or deception, manager assent or blanket consent. |
+| `EV-B0204-006` | F:401001290 P0-5 | Enjoys TANIMACHI walk/goods, asks where manager is after looking elsewhere, requests connection and dialogue represents firmly joined hands/warmth. | LOCAL_REPRESENTED_CONTACT_AND_SELF_DESCRIBED_ATTENTION; no deliberate abandonment, pictured gesture, measured temperature, global incapacity, ownership or settled romance. |
+| `EV-B0204-007` | G:401001394 P0-4 | Thanks reported Shibuhama Aquarium outing, values newly noticed fish colors, wants patchwork experiment and asks further shared travel/self-discovery. | REPORTED_RECEPTION_AND_PROSPECTIVE_DESIGN; no first-ever fish claim, analyst-viewed fish, finished patchwork, exhaustive self or sole manager creative cause. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1417` | `EV-B0204-001 / EV-B0204-002` | DIFFERENT_CRAFT_CONFIDENCE_AND_RECEPTION; cooking modesty/active hospitality differs from authored costume pride/hesitant wearers; no universal mastery, failure ladder or BEFORE. |
+| `EDGE-1418` | `EV-B0204-002 / EV-B0204-004` | PERSONAL_SENSE_AND_RECOGNITION_QUESTION; self-world clothing and predecessor comparison preserve uncertainty about reception, no achieved legend or unanimous verdict. |
+| `EDGE-1419` | `EV-B0204-003 / EV-B0204-006` | ATTENTION_WITH_COMPANY; inner craft associations/proposed topic and material looking/local contact show different social adjustments, no diagnosis or completed global cure. |
+| `EDGE-1420` | `EV-B0204-004 / EV-B0204-007` | OWN_STYLE_AND_NEW_OCCASIONS; recognition concern/future legend compared with newly directed color ideas, no causal BEFORE, completed garment or sole manager authorship. |
+| `EDGE-1421` | `EV-B0204-005 / EV-B0204-006` | CONDITIONAL_ROLE_VERSUS_REPRESENTED_CONTACT; hypothetical boyfriend pretense differs from local warm-hand statement, no actual hometown deception, reciprocal romance or blanket consent. |
+| `EDGE-1422` | `EV-B0204-001 / EV-B0204-007` | GRATITUDE_IN_HOSTING_AND_RECEIVING_EXPERIENCE; modest meal offered versus valued outing received, no perpetual servant assignment or universally fulfilled request. |
+
+Totals:1270 EV,25 WORLD,47 THREAD,1415 active EDGE with maximum1422/seven earlier intentional gaps retained. Seven whole factual homes; no new WORLD or earlier body/ID/chronology change.

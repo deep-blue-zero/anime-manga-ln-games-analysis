@@ -7588,7 +7588,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "entity_state_ledger": {
       "schema": "t7s-analysis/entity-state-storage-manifest/v1",
       "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER_MANIFEST.json",
-      "sha256": "8d1551006ca86d59b48b99b739dc01e19ce1fba1263d387197a148d527a3debb",
+      "sha256": "fe3b7ff12cf1de29e5886c95cfc617df7c999ee7244b471ea207a7becd6c44f7",
       "logical_artifact_id": "T7S_ENTITY_STATE_LEDGER",
       "current_owner": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
       "physical_component_caps_unchanged": true,
@@ -7606,7 +7606,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "coverage_ledger": {
       "schema": "t7s-analysis/coverage-routing-manifest/v1",
       "path": "01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json",
-      "sha256": "374346bc27ff8c4c5db6be10ef5785cd122d61d4ab29c631661a0892424dda31",
+      "sha256": "63f47b3a8553346e7783e093d68679f7ffb668ee65328f2627952ebaab79fb4d",
       "logical_roles": [
         "CURRENT_OR_CONSUMED",
         "ROUTED_OR_UNCONSUMED"
