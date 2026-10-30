@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.121"
+version: "11.122"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 290 Intimacy primary documents across 39 family portfolios / T7S_B0182–T7S_B0220; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 298 Intimacy primary documents across 40 family portfolios / T7S_B0182–T7S_B0221; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1390`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1515`; `last_closed_block = T7S_B0220`. The admitted horizon contains 805 primary documents: 235 Main, 280 i-n-g and 290 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 290 Intimacy documents across 39 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1404`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1528`; `last_closed_block = T7S_B0221`. The admitted horizon contains 813 primary documents: 235 Main, 280 i-n-g and 298 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 298 Intimacy documents across 40 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4642,3 +4642,42 @@ Owner [B0220](../02%20Readings/T7S_B0220_DEEP_READING.md), reading SHA256 `2c363
 | `EDGE-1522` | `EV-B0220-005 / EV-B0220-007` | FORMAL_COMPARISON: An unanswered birthday quiz and a reported friend celebration remain independent occurrences; no November1 identification, shared date or invented friend. |
 
 Totals:1390EV/25WORLD/47THREAD/1515 active EDGE, maximum1522 with seven intentional older gaps retained. No new WORLD/THREAD, cross-case dated causality or older-body rewrite.
+
+## B0221 Murasaki's own colour and the feeling she addresses
+
+Owner [B0221](../02%20Readings/T7S_B0221_DEEP_READING.md), reading SHA256 `886f7e41a8d98a60bd46e5e3491fc3fee7061c5c76a4337290164927e4e455bf`; source-lock 12.127, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-H scripts/hashes/full ranges. All28 physical before-controls, five SourceLock/seven coverage/four entity components froze at publishedfb16cddc/B0220/12.126 before primary. Original pending-cycle observation retained; successful B0220 audit41086219616/fullcycle9facf4a8 and auditedmain77c ancestor checked in fresh execution witness before semantic acceptance. All159 Murasaki prior rows actually read before primary; whole READY subject scan0. H is132pages/94text/38commands within the eight-occurrence family, not omitted or reduced to the seven short cases. No menu chronology, performed hearing or runtime.
+
+| ID | Whole case / phase | Factual addition | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0221-001` | A:401000306 P0-3 | Calls ordinary eighteen-year-old treatment refreshing, asks for childlike treatment and takes up sudden piggyback with surprise then local acceptance. | SELF_REPORT_AND_LOCAL_CARE_UPTAKE; no global age/kinship finding, blanket bodily permission or independent manager turn. |
+| `EV-B0221-002` | B:401000472 P0-4 | Redirects colour language to style, counters escape while removing socks for pedicure, declares completion and appraises result. | DIRECTED_APPEARANCE_ACT_WITH_ASSENT_GAP; no erasing completed act, independent full Player assent or unspoken sexual act. |
+| `EV-B0221-003` | C:401000610 P0-4 | Requests willing available-time after-work company, specifies own soft drink and his choice, offers unusually careful pouring. | INVITATION_AND_COMPARATIVE_ATTENTION; no completed outing/drinking/night performance or standing service duty. |
+| `EV-B0221-004` | D:401000870 P0-5 | Explains retro jukebox, values theatre atmosphere with manager/companions and asks cultivation as a jukebox with character. | ACTOR_APPRAISAL_AND_ARTISTIC_METAPHOR; no technology census, literal machine identity or surrendered authorship. |
+| `EV-B0221-005` | E:401001122 P0-5 | Proposes tailored stage effects/mirrorball, notices attention to companions' appearance and attributes change to manager company. | PROPOSAL_AND_SELF_INTERPRETATION; no installed effect, audience result or unlimited manager authority. |
+| `EV-B0221-006` | F:401001310 P0-4 | Offers partly drunk sweet coffee, takes up taste surprise, separates bitter-song preference from palate and requests indulgence. | SITUATED_TASTE_AND_WANTED_CARE; no global taste contradiction, analyst tasting or completed indulgence. |
+| `EV-B0221-007` | G:401001450 P0-5 | Reports Haru rebuke after skipped cleaning, targets own failure of theatre care, responds to delicate wording and asks joint cleaning. | REPORTED_REBUKE_SELF_ACCOUNT_AND_ACTION_REQUEST; no Haru own speech, clinical trait or completed cleanup. |
+| `EV-B0221-008` | H:401006536 P0-23 | Composer praises stability/task; Murasaki later reports CM-song coaching/lyric problem and asks what love is. | OWN_FEEDBACK_AND_REPORTED_EARLIER_CRITIQUE; no heard performance, exact earlier quoted instruction or permanent inability. |
+| `EV-B0221-009` | H:P24-40 | Kazumi connects own love-song experience to qualified own-feeling counsel/event proposal, while withholding whether she fell in love; title follows opening. | QUALIFIED_PEER_COUNSEL_AND_RESERVED_ANSWER; no universal artistic rule, lover identity or autobiographical disclosure. |
+| `EV-B0221-010` | H:P41-77 | Murasaki prepares chocolate, compares taste with Kazumi, explains recipient-directed bitterness, chooses heart mold and waits with repeated checks. | CRAFT_CHOICE_AND_LOCAL_UNCERTAINTY; no analyst tasting, heart-shaped asset, diagnosis or already-certain success. |
+| `EV-B0221-011` | H:P78-90 | Both appraise finished chocolate, Murasaki wraps/adds ribbon, identifies manager as recipient; Kazumi predicts his pleasure. | COMPLETED_LOCAL_WORK_AND_RECIPIENT_DISCLOSURE; forecast not actual gift reaction or established romance. |
+| `EV-B0221-012` | H:P91-104 | Murasaki cannot verbalize making-feelings; Kazumi proposes song as channel; reader receives Murasaki's recognition before studio transition. | COUNSEL_UPTAKE_AND_READER_ONLY_THOUGHT; no automatic disclosure of thoughts or required autobiographical song doctrine. |
+| `EV-B0221-013` | H:P105-120 | Composer directly praises/accepts result and wants repeat work; Player reports earlier discouragement second-hand but his own warmth/flutter/attraction now; Murasaki asks and thanks. | DISTINCT_PROFESSIONAL_AND_ADDRESSED_RECEPTION; no analyst acoustic certificate, universal audience vote or erased earlier gaps. |
+| `EV-B0221-014` | H:P121-131 | Murasaki tells Player she sang thinking of him; Player voices surprise; she presents a second proud work with hoped-for flutter and Valentine greeting. | DIRECT_AFFECTIONATE_ADDRESS_AND_HOPED_RESPONSE; no completed eating, second-work receipt, reciprocal confession or agreed relationship. |
+
+| ID | Compared events | Typed relation and limit |
+| --- | --- | --- |
+| `EDGE-1523` | `EV-B0221-008` / `EV-B0221-009` | INTRA_OCCURRENCE_SEQUENCE: Murasaki's problem leads to peer conversation; opening composer words and her later reported critique stay distinct. |
+| `EDGE-1524` | `EV-B0221-009` / `EV-B0221-010` | INTRA_OCCURRENCE_PROPOSAL_AND_UPTAKE: event/own-answer proposal is followed by chocolate work; no global required romance method. |
+| `EDGE-1525` | `EV-B0221-010` / `EV-B0221-011` | INTRA_OCCURRENCE_SEQUENCE: uncertain preparation/waiting precedes local completion/wrapping, without analyst tasting. |
+| `EDGE-1526` | `EV-B0221-011` / `EV-B0221-012` | INTRA_OCCURRENCE_SEQUENCE: completed gift/recipient disclosure precedes the question about making-feelings and song-channel insight. |
+| `EDGE-1527` | `EV-B0221-012` / `EV-B0221-013` | INTRA_OCCURRENCE_SEQUENCE_AND_ATTRIBUTED_EXPLANATION: insight precedes represented reception; Murasaki's later own explanation supplies the feeling link, no acoustic causation test. |
+| `EDGE-1528` | `EV-B0221-013` / `EV-B0221-014` | INTRA_OCCURRENCE_SEQUENCE: distinct song responses precede explicit addressee disclosure and Valentine presentation; final reply remains outside ending. |
+| `EDGE-1529` | `EV-B0221-001` / `EV-B0221-006` | FORMAL_COMPARISON: wanted childlike treatment and requested sweetness name different care wishes, not a fixed helplessness/kinship state. |
+| `EDGE-1530` | `EV-B0221-001` / `EV-B0221-002` | FORMAL_COMPARISON: her local piggyback acceptance differs from directing another's appearance against escape; consent does not transfer between acts. |
+| `EDGE-1531` | `EV-B0221-003` / `EV-B0221-014` | FORMAL_COMPARISON: requested company and addressed gift/song supply particular attention, no proof the proposed night outing occurred. |
+| `EDGE-1532` | `EV-B0221-004` / `EV-B0221-007` | FORMAL_COMPARISON: valued theatre atmosphere and admitted cleaning lapse keep attachment answerable to action, no total timeline/perfect consistency. |
+| `EDGE-1533` | `EV-B0221-004` / `EV-B0221-005` | FORMAL_COMPARISON: shared-place value and thoughts about companions' staging extend relational artistry, no installed technology/institutional cure. |
+| `EDGE-1534` | `EV-B0221-006` / `EV-B0221-010` | FORMAL_COMPARISON: sweet coffee, bitter-song taste and recipient-calibrated chocolate need no global palate or persona equivalence. |
+| `EDGE-1535` | `EV-B0221-005` / `EV-B0221-012` | FORMAL_COMPARISON: learning through company and finding one's own expressive channel retain actual-person authorship, no manager ownership of change. |
+
+Totals:1404EV/25WORLD/47THREAD/1528 active EDGE, maximum1535 with seven intentional older gaps retained. Fourteen events retain all eight whole occurrences, including seven H phases. No new WORLD/THREAD or menu-derived cross-case causality; older bodies unchanged.

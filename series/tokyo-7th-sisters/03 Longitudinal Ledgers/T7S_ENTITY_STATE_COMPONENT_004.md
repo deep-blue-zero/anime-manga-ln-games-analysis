@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0220; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0221; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -552,4 +552,94 @@ Existing ChaCha `IDENTITY-0044 / CHAR-0066 / otori-chacha`, Player `IDENTITY-000
 CHAR-0066 gains stated preferences, concern/appearance/interpretation boundaries, proposed teaching and wanted listening, presented memory with a reserved answer, specific friendship value and gratitude at living. B0088 rejected terminal projection; B0120 lady/tea roles; B0126 coercion and unverified prior knowledge; B0142 shop authority limits; B0164 work costs/ordinary-talk wish/uncertain reception; B0171 situated authorship-respecting help and later family gloss; B0181 modest expertise/partial message privacy remain. No uniform consent-respecting method, diagnosis/cure, omniscience or unlimited mastery follows.
 
 Totals:1731KNOW/1227REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Whole READY subject scan has no ChaCha decision; no invented R2 or rewritten readiness body, R3/model/monograph maturity, clinical certainty or performed-audio promotion.
+
+## B0221 Murasaki's own colour and the feeling she addresses
+
+Owner [B0221](../02%20Readings/T7S_B0221_DEEP_READING.md), reading SHA256 `886f7e41a8d98a60bd46e5e3491fc3fee7061c5c76a4337290164927e4e455bf`; source-lock 12.127, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-H scripts/hashes/full ranges. All28 physical before-controls, five SourceLock/seven coverage/four entity components froze at publishedfb16cddc/B0220/12.126 before primary. Original pending-cycle observation retained; successful B0220 audit41086219616/fullcycle9facf4a8 and auditedmain77c ancestor checked in fresh execution witness before semantic acceptance. All159 Murasaki prior rows actually read before primary; whole READY subject scan0. H is132pages/94text/38commands within the eight-occurrence family, not omitted or reduced to the seven short cases. No menu chronology, performed hearing or runtime.
+
+Existing Murasaki `IDENTITY-0092 / CHAR-0074 / echizen-murasaki`, Player1/1, Kazumi46/35 and Haru4/4 retain their routes. H composer `作曲家` is a local unnamed role; no new stable identity is inferred from178_01. Mother93/75 and familybarUNIT0026 retain earlier scope, no fresh current turn/ownership claim. Uniform case coverage integrates focal Murasaki/Player; H's additional speakers are qualified here, not inserted into every case.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1732` | Murasaki values ordinary treatment as an eighteen-year-old girl despite customers/others' different view. | A:P1; own age/social account, no global legal/biographical or everybody's independent view. |
+| `KNOW-1733` | Murasaki says she is happy and sometimes wants to behave childishly, requesting a local variation. | A:P2; authored wish, no permanent incapacity or kinship claim. |
+| `KNOW-1734` | Murasaki takes up sudden piggyback with surprise then acceptance and intended clinging. | A:P3; local response-mediated act, no blanket bodily permission/animatedview. |
+| `KNOW-1735` | Murasaki asks manager to be dyed in her colour. | B:P1; figurative invitation, actual next clarification retained. |
+| `KNOW-1736` | Murasaki redirects colour language to styling and appraises his lack of fashion. | B:P2; own clarification/judgment, no supplied sexual act or objective fashion ranking. |
+| `KNOW-1737` | Murasaki tells him not to escape while removing socks for pedicure. | B:P3; own command/assent gap, no full independent Player consent or feeling. |
+| `KNOW-1738` | Murasaki declares pedicure complete, says it suits him and wants him barefoot today. | B:P4; enacted text/appraisal, no feet image/standing appearance authority. |
+| `KNOW-1739` | Murasaki asks willing available time tonight after work. | C:P1; conditional invitation, no accepted schedule. |
+| `KNOW-1740` | Murasaki says they have not talked at length outside Nanasta and wants to sit over drinks. | C:P2; local self-account/wish, no total past chronology or completed outing. |
+| `KNOW-1741` | Murasaki specifies own soft drink and manager's preferred drink. | C:P3; choices in a proposal, no alcohol consumption by her/actual beverage receipt. |
+| `KNOW-1742` | Murasaki offers more careful pouring than usual for customers. | C:P4; particular service offer, no unlimited labor/standing duty or completed pouring. |
+| `KNOW-1743` | Murasaki describes money-operated retro jukebox. | D:P1; actor knowledge claim, no external technology audit. |
+| `KNOW-1744` | Murasaki contrasts holocon with old-fashioned shops retaining jukeboxes. | D:P2; attributed cultural judgment, no complete census. |
+| `KNOW-1745` | Murasaki values a difficult-to-reproduce machine atmosphere and compares theatre. | D:P3; aesthetic appraisal, no technical impossibility proof. |
+| `KNOW-1746` | Murasaki values theatre air with manager/companions and wants to preserve/transmit it. | D:P4; situated value/intention, no actual universal audience receipt. |
+| `KNOW-1747` | Murasaki calls her words youthful and asks cultivation as a jukebox with character. | D:P5; figurative development request, no literal identity/total surrendered authorship. |
+| `KNOW-1748` | Murasaki proposes more idol-suited streamed-stage variety. | E:P1; production proposal, no implemented policy. |
+| `KNOW-1749` | Murasaki proposes a mirror ball as unfashionable but interesting effect. | E:P2; own idea/appraisal, no installed equipment or tested effect. |
+| `KNOW-1750` | Murasaki imagines different atmosphere for childlike performers. | E:P3; hypothetical peer presentation, no assigned child identity/new performance. |
+| `KNOW-1751` | Murasaki notices interest in companions' beauty beyond former singing-only wish. | E:P4; self-reappraisal, no complete biography or permanent all-context priority. |
+| `KNOW-1752` | Murasaki attributes self/reflected-world change to manager company and asks more. | E:P5; relationship value, no unlimited authority/sole causal authorship. |
+| `KNOW-1753` | Murasaki takes up thirst and offers her partly drunk homemade coffee. | F:P1; offer/reported preparation, no measured consumption. |
+| `KNOW-1754` | Murasaki takes up extreme-sweet taste response and says coffee is her sweet exception. | F:P2; mediated response/own taste, no analyst tasting or global palate. |
+| `KNOW-1755` | Murasaki separates bitter-song preference from taste. | F:P3; explicit distinction, not contradiction repaired by erasing B0105. |
+| `KNOW-1756` | Murasaki asks occasional indulgence until melting. | F:P4; figurative wanted care, no completed act/literal symptom. |
+| `KNOW-1757` | Murasaki takes up manager interest and apparent displeasure. | G:P1; her uptake, no full independent manager interpretation. |
+| `KNOW-1758` | Murasaki reports skipped theatre cleaning yesterday and recent Haru rebuke. | G:P2; report/intracase relative time, no Haru own current turn. |
+| `KNOW-1759` | Murasaki locates anger at her own failure to value theatre. | G:P3; self-account, no permanent trait or perfect institutional care. |
+| `KNOW-1760` | Murasaki responds to laughter/delicate wording as hurtful. | G:P4; own response/mediated prompt, no diagnosis/full manager mind. |
+| `KNOW-1761` | Murasaki asks joint cleaning and favors action over being downcast. | G:P5; request/value, no completed cleanup/assigned permanent duty. |
+| `KNOW-1762` | Composer praises session stability, retains an earlier task and anticipates main performance; Murasaki responds formally. | H:P1-7; own local feedback/anticipation, not full earlier critique or analyst heard skill. |
+| `KNOW-1763` | Murasaki remains silent and asks what love is. | H:P9,14; source silence/question, no complete inner-state diagnosis. |
+| `KNOW-1764` | Murasaki reports CM-song request/coaching and technical/personal adequacy with missing lyrical resonance. | H:P16-23; her report of earlier critique/own difficulty, not exact independently supplied composer speech. |
+| `KNOW-1765` | Kazumi calls the worry familiar and says her own song concerned love. | H:P24-26; prior-experience claim, no current lover disclosed. |
+| `KNOW-1766` | Murasaki asks whether Kazumi solved the problem by actually falling in love. | H:P27-28; question, no affirmative answer assumed. |
+| `KNOW-1767` | Kazumi offers experience-based probable own-feeling interpretation of the task. | H:P31-32; qualified peer inference, no universal artistic/clinical rule. |
+| `KNOW-1768` | Kazumi proposes fitting event/own answer; Murasaki takes up the suggestion. | H:P33-38; local plan/uptake, no established Valentine year or required relationship. |
+| `KNOW-1769` | Kazumi reserves whether she fell in love. | H:P39; deliberate privacy, no lookup/lover identity/autobiography. |
+| `KNOW-1770` | Murasaki works chocolate and appraises texture/slight sweetness before inviting taste. | H:P42,44,46; local preparation/self-appraisal, no analyst texture/tasting. |
+| `KNOW-1771` | Kazumi agrees to taste and appraises mixture quite bitter. | H:P47; own taste differs from Murasaki, no analyst normalization. |
+| `KNOW-1772` | Murasaki explains bitter choice by recipient's likely seasonal sweet intake. | H:P48-49; her recipient-directed reason, no comprehensive dietary record. |
+| `KNOW-1773` | Murasaki wonders if tempering will work after a gap. | H:P50; remembered practice/current uncertainty, no mastery certificate. |
+| `KNOW-1774` | Murasaki considers prepared molds and chooses one with Kazumi present. | H:P56-58; explicit choice, no autonomous artwork made by Kazumi. |
+| `KNOW-1775` | Kazumi identifies a large heart and calls it cute. | H:P59-60; own observation/appraisal, no displayed mold asset or defined relationship. |
+| `KNOW-1776` | Kazumi calls for attention and remarks on repeated refrigerator checks. | H:P65,67,69; locally observed conduct, no diagnosis. |
+| `KNOW-1777` | Murasaki is initially unresponsive, then says she keeps worrying about result. | H:P66,68,70; local attention/admission, no permanent incapacity. |
+| `KNOW-1778` | Kazumi recognizes restlessness and predicts success. | H:P71-72; empathy/reassurance, not already-known outcome. |
+| `KNOW-1779` | Murasaki accepts reassurance with a brief reply. | H:P73; uptake only, no total confidence cure. |
+| `KNOW-1780` | Kazumi appraises completed chocolate as beautiful. | H:P78; local observer judgment, no analyst quality certificate. |
+| `KNOW-1781` | Murasaki calls work successful, wraps and declares ribboned completion. | H:P79-81; completed local craft, no actual recipient reaction yet. |
+| `KNOW-1782` | Kazumi calls gift heartfelt and predicts recipient pleasure. | H:P82; appraisal/prediction, not received knowledge. |
+| `KNOW-1783` | Kazumi asks intended recipient. | H:P84; question/knowledge gap before answer. |
+| `KNOW-1784` | Murasaki identifies manager as obvious recipient. | H:P85; explicit intended addressee, no receipt or accepted relationship. |
+| `KNOW-1785` | Kazumi laughs and predicts manager pleasure; Murasaki asks about laughter. | H:P87-89; own replies/prediction, no omniscient romance diagnosis. |
+| `KNOW-1786` | Kazumi asks what making the chocolate felt like. | H:P91-92; reflective question, no answer supplied for her. |
+| `KNOW-1787` | Murasaki cannot verbalize the feeling well. | H:P93; own expressive difficulty, no absence of feeling. |
+| `KNOW-1788` | Kazumi says song can express it and proposes putting today's feelings into music. | H:P94-97; channel/counsel, no demanded private disclosure or tested universal method. |
+| `KNOW-1789` | Murasaki internally recognizes a way forward. | H:P99-100; reader-only parenthesized thought, not automatically heard by companions. |
+| `KNOW-1790` | Composer praises result/accepts it, reports belief and wants more work together. | H:P105,107-108; own evaluation/retrospective belief/request, no acoustic certification/universal future success. |
+| `KNOW-1791` | Murasaki apologizes for earlier trouble. | H:P106; courtesy/own account, no proof every initial fault or exact burden. |
+| `KNOW-1792` | Player reports hearing of earlier discouragement after coaching. | H:P112; unspecified second-hand source, no full knowledge of Kazumi/chocolate process. |
+| `KNOW-1793` | Player voices praise, says first-try approval surprised him and reports own warmth/flutter/attraction. | H:P110,113,116-118; directly supplied response, not general audience census/reciprocal commitment. |
+| `KNOW-1794` | Murasaki asks for quieter speech and his own appraisal, then thanks him. | H:P111,115,119; local reply/request/gratitude, no full contract over evaluation. |
+| `KNOW-1795` | Murasaki tells Player singing while thinking of him led naturally to result. | H:P121; explicit addressee/self-explanation, no analyst acoustic causation test. |
+| `KNOW-1796` | Player voices surprise at being the one she thought of. | H:P122; direct response, no completed confession or mutual relationship. |
+| `KNOW-1797` | Murasaki pauses, introduces another proud work, hopes for comparable flutter and gives Valentine greeting. | H:P123-128; affectionate presentation with earlier completed chocolate context, no actual eating/recipient reply after ending/agreed romance. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1228` | `echizen-murasaki → player-protagonist` | A-H: seeks ordinary/childlikecare and indulgence, invites company, offers comparative attention, directs styling despite escape, values sharedtheatre/change, asks cleanup and explicitly addresses song/Valentine work to him. Care/affection and assent gaps remain act-specific; no agreed ongoing romance/total authority. Reciprocal REL-1229. |
+| `REL-1229` | `player-protagonist → echizen-murasaki` | A-G responses mediated by her uptake, including suddenpiggyback/taste/delicateprompt; B no full independent assent. H gives own warmth/flutter/attraction/surprise plus unspecified earlier discouragement report. No full knowledge of craft/insight, gift response afterending or reciprocal relationship agreement. Reciprocal REL-1228. |
+| `REL-1230` | `echizen-murasaki → katsuragi-kazumi` | H: shares lyricdifficulty, asks peerexperience, accepts event experiment/tasting/company/counsel, names recipient and cannot yet verbalize feelings. Reader-onlyinsight not automatically disclosed; no coerced answer to Kazumi private romance question. Reciprocal REL-1231. |
+| `REL-1231` | `katsuragi-kazumi → echizen-murasaki` | H: recognizes lyricproblem, offers qualified own-feeling/event/channel counsel, participates in tasting/mold/wait/completion, asks recipient and feeling, reassures while keeping ownromanceanswer private. No infallible expert/omniscient private mind/guaranteed receipt. Reciprocal REL-1230. |
+| `REL-1232` | Murasaki → H unnamed composer `作曲家` | H:P1-7/16-23/105-108: receives local guidance, reports missing interpretation, returns and responds/apologizes after acceptance. Exact earlier critique viaherreport; no permanent professional hierarchy or genericfigure identity merger. Reciprocal REL-1233. |
+| `REL-1233` | H unnamed composer `作曲家` → Murasaki | H: directly praises initialstability and laterresult, retains task and wants repeatwork. Own local professional feedback; no complete acoustic performance evidence/universal certification/contract or identity beyondHrole. Reciprocal REL-1232. |
+| `REL-1234` | `echizen-murasaki → kasukabe-haru` | G:P2-3: reports Haru's rebuke after skippedcleaning and places anger at herown failure of theatre care. No full current reply to Haru/globalsubordination or institutional disciplinepolicy. Reciprocal REL-1235. |
+| `REL-1235` | `kasukabe-haru → echizen-murasaki` | G:P2: appears as reported person who recently rebuked skipped theatre cleaning. Her own words/mind/authority rationale absent; no independent current turn or permanent role promotion. Reciprocal REL-1234. |
+
+CHAR-0074 gains wantedcare/particularattention, appearance direction withassentgap, sharedtheatrevalue/outwardstagingideas, situatedsweetness/selfaccountability and H's chosen creativeexperiment/expressiveinsight/directlyaddressedfeeling withdistinctactualreceipts. B0087coauthorcorrection; B0102familylabor/limitedknowledge; B0105practicalcare/taste; B0127narrowworkmeasure/apology; B0140collaborators/retainedsolitaryvoice; B0142taskprotection; B0156harshnessandchosenhelp; B0166contextualworkinquiry; B0169projectionboundaries; B0170continuedhelp/limitedprivacyreceipt; B0174noviceguardlimits; B0178reciprocaldirections/capacity and B0201makeupreports remain. No permanentcure/all-contextconsent/omnipotence/romanticconsensus.
+
+Totals:1797KNOW/1235REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Sixty-six knowledge additions group H's meaningful exchanges and their exact ranges without treating every greeting/silence as newknowledge. Whole Murasaki READY subject scan0, no inventedR2 or change to another subject's historicaldecision. No R3/model/monographmaturity/performed-audio promotion.
 <!-- T7S ENTITY STATE PAYLOAD END -->
