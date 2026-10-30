@@ -47,7 +47,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
 | [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
-| [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 42 |
+| [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 44 |
 | [`tomozaki`](characters/index/tomozaki.md) | 7 |
 | [`watayuri`](characters/index/watayuri.md) | 7 |
 | [`wuthering-waves`](characters/index/wuthering-waves.md) | 6 |
@@ -596,6 +596,8 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [上杉・ウエバス・キョーコ](characters/index/tokyo-7th-sisters.md#uesugi-uebasu-kyoko) | Tokyo 7th Sisters game | `tokyo-7th-sisters:uesugi-uebasu-kyoko@game` | — |
 | [二川ミミ](characters/index/tokyo-7th-sisters.md#futagawa-mimi) | Tokyo 7th Sisters game | `tokyo-7th-sisters:futagawa-mimi@game` | — |
 | [六咲コニー](characters/index/tokyo-7th-sisters.md#rokusaki-coney) | Tokyo 7th Sisters game | `tokyo-7th-sisters:rokusaki-coney@game` | — |
+| [前園リシュリ](characters/index/tokyo-7th-sisters.md#maezono-rishuri) | Tokyo 7th Sisters game | `tokyo-7th-sisters:maezono-rishuri@game` | — |
+| [堺屋ユメノ](characters/index/tokyo-7th-sisters.md#sakaiya-yumeno) | Tokyo 7th Sisters game | `tokyo-7th-sisters:sakaiya-yumeno@game` | — |
 | [寿クルト](characters/index/tokyo-7th-sisters.md#kotobuki-kurt) | Tokyo 7th Sisters game | `tokyo-7th-sisters:kotobuki-kurt@game` | — |
 | [御園尾マナ](characters/index/tokyo-7th-sisters.md#misonoo-mana) | Tokyo 7th Sisters game | `tokyo-7th-sisters:misonoo-mana@game` | — |
 | [星柿マノン](characters/index/tokyo-7th-sisters.md#hoshigaki-manon) | Tokyo 7th Sisters game | `tokyo-7th-sisters:hoshigaki-manon@game` | — |
