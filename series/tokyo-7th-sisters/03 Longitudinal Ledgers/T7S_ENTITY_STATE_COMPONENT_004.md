@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0216; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0217; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -361,4 +361,49 @@ Existing Tomoe `IDENTITY-0045 / CHAR-0029 / shiratori-tomoe` and Player `IDENTIT
 CHAR-0029 gains wanted company, practical care, qualified recognition, partial participation/self-judgment and explicit task limits without overwriting chosen return/leadership, own collaborative song, rigorous teaching/learning, capacity bounds or private knowledge. New brother relation remains E-local unnamed family report. UNIT-0002 receives only reported office care, not a new therapeutic institution; no pairing/karaoke/tea-idol UNIT. No new CHAR/IDENTITY/UNIT/READY.
 
 Totals:1614KNOW/1217REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Complete READY subject scan has no Tomoe decision; absence preserved, no invented R2, clinical/readiness/maturity or performed-audio promotion.
+
+## B0217 Miu's tangible specialness and imagined shared life
+
+Owner [B0217](../02%20Readings/T7S_B0217_DEEP_READING.md), reading SHA256 `36bb34d228b886ea4c242b493bfd4d093ddba28dfc8312449c49734a2115dbc0`; source-lock 12.123, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary locators. All27 physical/five-SourceLock/six-coverage/four-entity before-controls froze at publishedbaa75e2f/B0216/12.122 before primary. B0216 exact-source audit41061255895 and full automatic cycle passed; PR400 open at cycle receipt. Auditedmain77c83fcb is preserved in entering source ancestry. All84 published Miu rows actually read before primary; whole READY subject scan has no prior Miu decision. No menu chronology, performed hearing or runtime.
+
+Existing Miu `IDENTITY-0085 / CHAR-0067 / aihara-miu` and Player `IDENTITY-0001 / CHAR-0001 / player-protagonist` retain their actually read routes. Mother remains an unnamed reported A/F family role. F's deictic this-person language does not admit a new identity or spouse. No new CHAR/IDENTITY/UNIT/READY.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1615` | Miu invites manager to home meal and reports mother's wish to meet. | A:P1; authored invitation/reported interest, no acceptance, arrival or mother-own turn. |
+| `KNOW-1616` | Miu reports repeated boasting about manager, attributes mother's curiosity and wonders about surprise. | A:P2; her mediated explanation, no independent full mother knowledge or approval. |
+| `KNOW-1617` | Miu calls him more appealing than words convey and playfully warns against taking mother away. | A:P3; own admiration/tease, no actual rival, mother's romantic intent or transfer of agency. |
+| `KNOW-1618` | Miu admires strap and addresses placement onto manager's Holocon as matching hers. | B:P1-2; represented gesture, no inspected device/item or completed permanent attachment. |
+| `KNOW-1619` | Miu protests removal and dismisses embarrassment. | B:P2; recipient response available only through her address, no full own turn or settled assent. |
+| `KNOW-1620` | Miu values matching specialness, names manager special to her and asks remembrance on seeing strap. | B:P3-4; concrete request, no mutual promise, exclusivity or standing possession control. |
+| `KNOW-1621` | Miu expects her own strap-looking/thought to coincide with his. | B:P5; imagined reciprocity, no actual simultaneous cognition or manager knowledge. |
+| `KNOW-1622` | Miu asks closed eyes/directs surprise and presents unspecified gift. | C:P1-2; textual presentation, no identified object, source image or equation to B strap. |
+| `KNOW-1623` | Miu repeats manager's apparent concern about expense and asks him not to mind. | C:P3; reply-mediated concern, no actual price/finances or independent full response. |
+| `KNOW-1624` | Miu says her wish to give is the relevant value rather than high/low price. | C:P4; actor valuation, no proof price irrelevant to all recipients or transaction audit. |
+| `KNOW-1625` | Miu conditionally requests a return gift if concern persists. | C:P5; negotiated reciprocity, no debt contract, agreed value or actual return. |
+| `KNOW-1626` | Miu asks whether manager remembers the day and reacts to apparent lack of answer. | D:P1; uptake, no full independent memory assessment or identified date. |
+| `KNOW-1627` | Miu calls today an important anniversary for both. | D:P2; asserted shared significance, no named milestone or verified common understanding. |
+| `KNOW-1628` | Miu proposes special outing and adult-feeling dinner. | D:P3; prospective activities, no booked venue, accomplished meal or marriage/romance agreement. |
+| `KNOW-1629` | Miu withholds occasion identity, asks him remember by day's end and considers where first. | D:P4-5; deliberate information asymmetry/local deadline, no analyst-invented anniversary or completed itinerary. |
+| `KNOW-1630` | Miu asks hypothetical response to two-person departure far away. | E:P1; explicit counterfactual question, no actual destination/escape plan. |
+| `KNOW-1631` | Miu imagines discarding manager/idol roles while marking ordinary extraordinariness. | E:P2; represented scenario, no current resignation or accepted professional abandonment. |
+| `KNOW-1632` | Miu values someone discarding everything for her as ultimate affection. | E:P3; actor measure of devotion, no analyst endorsement or manager promise. |
+| `KNOW-1633` | Miu considers manager in that possibility then says she does not actually want to go. | E:P4; thought and explicit action qualification coexist, no enacted departure or erased earlier work choice. |
+| `KNOW-1634` | Miu reports learning marriage eligibility and its unexpectedly concrete meaning. | F:P1-2; self-report, no certified law/jurisdiction/date/exact age or readiness decision. |
+| `KNOW-1635` | Miu hypothetically indicates this person as possible partner and wonders about daily cooking. | F:P3; deictic partner/domestic question, no new named identity, engagement or endorsed domestic duty. |
+| `KNOW-1636` | Miu imagines departure kisses and household conversation. | F:P4; ordinary possible daily life, no completed contact, household or reciprocal declaration. |
+| `KNOW-1637` | Miu reports mother's laughter/too-early judgment and maintains she thought seriously. | F:P5; different reported appraisals, no full mother reasoning or formal maturity certificate. |
+| `KNOW-1638` | Miu asks whether manager finds cinema viewing more enjoyable. | G:P1; question, no supplied independent preference/assent. |
+| `KNOW-1639` | Miu favors home for immediate discussion without disturbing others and for relaxed snacks. | G:P2-3; situated reasons, no actual film/commentary or universal home-only rule. |
+| `KNOW-1640` | Miu considers couple seat as another arrangement and retains large-screen wish. | G:P4; conditional appraisal, no tested privacy/noise guarantee or confirmed couple. |
+| `KNOW-1641` | Miu proposes next couple-seat movie outing with manager and seeks assent. | G:P5; wanted activity, no booking, actual viewing or own manager answer. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1218` | `aihara-miu → player-protagonist` | A-G: invites family meal, offers matching remembrance-sign/gift, values him specifically, asks remembered occasion, imagines devotion/domestic life and proposes shared film with revised venue reasons. Initiative and recipient choice/knowledge remain distinct; E explicitly no real departure wish, F no accepted marriage, G no assent. Reciprocal REL-1219. |
+| `REL-1219` | `player-protagonist → aihara-miu` | B/C/D: recipient whose apparent removal/embarrassment, price concern and anniversary questions appear through Miu's uptake. No full own current speech, complete memory/feelings, agreed gift return, family visit, abandonment promise, proposal or movie booking. Reciprocal REL-1218. |
+
+CHAR-0067 gains concrete invitations, material remembrance, chosen generosity/possible return, withheld anniversary framing, bounded counterfactual devotion, imagined domestic future and responsive venue preference. Older specific-recognition desire, work/friendship ranking resistance, peer teaching/care and its consent gaps, reasoned professional trust, private gaze boundary and preparation costs remain. No omniscient peer/family knowledge, institutional policy or mature romantic state is promoted.
+
+Totals:1641KNOW/1219REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Complete READY subject scan has no Miu decision; absence preserved without inventing R2 or promoting clinical/readiness/maturity/performed-audio status.
 <!-- T7S ENTITY STATE PAYLOAD END -->
