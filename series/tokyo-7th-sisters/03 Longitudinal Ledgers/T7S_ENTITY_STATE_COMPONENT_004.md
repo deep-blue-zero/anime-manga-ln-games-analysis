@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0221; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0222; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -642,4 +642,56 @@ Existing Murasaki `IDENTITY-0092 / CHAR-0074 / echizen-murasaki`, Player1/1, Kaz
 CHAR-0074 gains wantedcare/particularattention, appearance direction withassentgap, sharedtheatrevalue/outwardstagingideas, situatedsweetness/selfaccountability and H's chosen creativeexperiment/expressiveinsight/directlyaddressedfeeling withdistinctactualreceipts. B0087coauthorcorrection; B0102familylabor/limitedknowledge; B0105practicalcare/taste; B0127narrowworkmeasure/apology; B0140collaborators/retainedsolitaryvoice; B0142taskprotection; B0156harshnessandchosenhelp; B0166contextualworkinquiry; B0169projectionboundaries; B0170continuedhelp/limitedprivacyreceipt; B0174noviceguardlimits; B0178reciprocaldirections/capacity and B0201makeupreports remain. No permanentcure/all-contextconsent/omnipotence/romanticconsensus.
 
 Totals:1797KNOW/1235REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Sixty-six knowledge additions group H's meaningful exchanges and their exact ranges without treating every greeting/silence as newknowledge. Whole Murasaki READY subject scan0, no inventedR2 or change to another subject's historicaldecision. No R3/model/monographmaturity/performed-audio promotion.
+
+## B0222 Miwako's chosen disclosures, study and reciprocal teaching
+
+Owner [B0222](../02%20Readings/T7S_B0222_DEEP_READING.md), reading SHA256 `6f7c30c8f47e9e0941334128a4fc27144a5e5293b11a4c9a79ec65772c58ccc3`; source-lock 12.128, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts, hashes and whole primary ranges. All28 committed before-controls / five SourceLock / seven coverage / four entity components froze at published0b0f00a7/B0221/12.127 before primary. Audited mainbf48d9b1 is an ancestor. The entry's then-pending cycle observation stays frozen; separate execution witness and completed predecessor cycle govern semantic acceptance. All114 published Miwako rows actually read before primary; whole READY subject scan0. No menu chronology, performed hearing or runtime.
+
+Existing Miwako `IDENTITY-0043 / CHAR-0070 / asami-miwako`, Player `IDENTITY-0001 / CHAR-0001 / player-protagonist`, Ferb `IDENTITY-0078 / CHAR-0060 / seto-ferb` and Tasha `IDENTITY-0069 / CHAR-0054 / tasha-romanovsky` keep their routes. C's peers, D's classmate, F's friend and B's singer remain local reported roles. No new IDENTITY/CHAR/UNIT/READY.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1798` | Miwako says the manager noticed her hobby and she was pleased. | A:P1; hobby unspecified here, no complete mind-reading or independently supplied prior discovery. |
+| `KNOW-1799` | Miwako suspects the manager thinks he sees through her and says his face shows it. | A:P2; her reading of an unsupplied response, not a supplied Player interior. |
+| `KNOW-1800` | Miwako says logic cannot express everything and asks if he can solve this mystery. | A:P3; open teasing challenge, no solved confession or universal abandonment of reasoning. |
+| `KNOW-1801` | Miwako reports conversation with Ferb and praises her musical curiosity. | B:P1; reported partner/appraisal, no independent Ferb current turn or exhaustive expertise. |
+| `KNOW-1802` | Miwako says Ferb kept up with discussion of a singer she considered obscure. | B:P2; unnamed singer/situated report, no reconstructed conversation or universal knowledge test. |
+| `KNOW-1803` | Miwako reports a live invitation and asks whether going together would be all right. | B:P3; contemplated company, no supplied permission, completed outing or fixed B0132 date. |
+| `KNOW-1804` | Miwako revises a small admission into quite bold concert behavior when excited. | B:P4; self-description without named act, no exact behavior, blanket risk consent or diagnosis. |
+| `KNOW-1805` | Miwako declines the apparent request for concrete details as a secret matter. | B:P5; current withholding, no invented disclosure or manager access. |
+| `KNOW-1806` | Miwako reports Nanasta members asking how to become sexy. | C:P1; attributed question, no identified all-child attendees or delivered program. |
+| `KNOW-1807` | Miwako asks what answer to give and says her younger self was not always like this. | C:P2; role/task distinction, no exact age, complete transformation history or ready formula. |
+| `KNOW-1808` | Miwako challenges the apparent inability to imagine her younger self. | C:P3; response-mediated manager prompt, no independent biography or age appraisal. |
+| `KNOW-1809` | Miwako recounts a university classmate recognizing her online idol activity. | D:P1; own reported visit/sighting account, no inspected post or independent classmate witness. |
+| `KNOW-1810` | Miwako reports the classmate calling idol work unusual now and asking why she does it. | D:P2; reported question, no supplied current classmate turn. |
+| `KNOW-1811` | Miwako reads an implication that idols are outdated, connected to earlier dismissal of her rock taste. | D:P3; attributed inference and memory, no verbatim independent implied judgment or era consensus. |
+| `KNOW-1812` | Miwako insists good things remain good whether rock or idols and asks why this is not understood. | D:P4; stated value/frustration, no objective genre ranking or uniform critic motive. |
+| `KNOW-1813` | Miwako says venting relieved her, apologizes for drawing the manager in and thanks him for listening. | D:P5; local self-reported relief and acknowledgment, no own manager endorsement or therapy finding. |
+| `KNOW-1814` | Miwako asks about Britain and reports never visiting while wanting language study abroad. | E:P1; own history/desire, no independent manager travel answer, admission or booking. |
+| `KNOW-1815` | Miwako imagines all-day English study and nighttime rock with ale. | E:P2; imagined routine, no actual drinking, performance or proficiency. |
+| `KNOW-1816` | Miwako enjoys imagining it and considers increasing work to save funds. | E:P3; prospective funding idea, no accepted workload, earnings, feasibility or standing duty. |
+| `KNOW-1817` | Miwako says she would return from study and does not intend to quit idol work. | E:P4; conditional return/current intention, no completed journey or binding guarantee. |
+| `KNOW-1818` | Miwako suggests successful idol work enabling overseas touring with the manager. | E:P5; alternative proposal/company wish, no booked tour, shared assent or fixed career choice. |
+| `KNOW-1819` | Miwako takes up a meal/meeting and jokes about being alone afterward. | F:P1; accepts bounded premise, no actual meal, later intimacy consent or manager intent. |
+| `KNOW-1820` | Miwako identifies the joke, calls the manager's red face cute and leaves restaurant choice to him. | F:P2; her appraisal/qualified delegation, no independently viewed blush or unrestricted choice. |
+| `KNOW-1821` | Miwako specifically excludes mentaiko and describes popping spicy qualities. | F:P3; stated food condition, no actual tasting, allergy or all-food refusal. |
+| `KNOW-1822` | Miwako describes limited spice tolerance/texture dislike and reports a friend's surprise while taking up childishness teasing. | F:P4; own preference and mediated remarks, no diagnosis, exact age or identified friend. |
+| `KNOW-1823` | Miwako takes up being called cute, notes being teased and asks everyone else not be told. | F:P5; privacy request, no manager promise, later disclosure or general embarrassment diagnosis. |
+| `KNOW-1824` | Miwako gives the written greeting and reports gradual teaching by Tasha in Tasha's country's language. | G:P1; represented words/reported lesson, no heard pronunciation, universal fluency or Tasha own turn. |
+| `KNOW-1825` | Miwako says some English help prompted reciprocal teaching by Tasha. | G:P2; her sequence/report, no complete lesson transcript or language credential. |
+| `KNOW-1826` | Miwako calls Tasha an exceptionally small and cute teacher among her teachers, then names a difficulty. | G:P3; affectionate learner recognition, no literal adult role appointment or complete knowledge transfer. |
+| `KNOW-1827` | Miwako cannot tell correct pronunciation from tongue-limited utterance. | G:P4; her unresolved evaluation, no independent phonetic judgment, diagnosis or demonstrated learner error. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1236` | `asami-miwako → player-protagonist` | A-G: welcomes particular recognition while reserving fuller account; requests/withholds information, vents with gratitude, imagines shared touring, accepts bounded meal planning and asks food-disclosure privacy. No solved confession, completed journey/meal, reciprocal romance, unlimited listening claim or promised secrecy. Reciprocal REL-1237. |
+| `REL-1237` | `player-protagonist → asami-miwako` | A/C/D/E/F: addressed observer/questioner/listener, apparent younger-self/food teasing, prospective restaurant chooser and proposed travel companion, through her uptake. No independent full interior, actual blush image, final agreement, after-meal entitlement or privacy compliance. Reciprocal REL-1236. |
+| `REL-1238` | `asami-miwako → seto-ferb` | B:P1-5: values reported musical curiosity and obscure-singer conversation; considers invited company while hesitating at her own concert boldness. No exact secret act, current Ferb response or equation with B0132 festival. Reciprocal REL-1239. |
+| `REL-1239` | `seto-ferb → asami-miwako` | B:P1-3: reported music interlocutor and live inviter. Miwako supplies the account; no independent knowledge, feeling, permission or completed outing. Earlier actual festival relation retains its own horizon. Reciprocal REL-1238. |
+| `REL-1240` | `asami-miwako → tasha-romanovsky` | G:P1-4: reports giving some English help, receiving gradual reciprocal instruction, valuing a small teacher and remaining uncertain about pronunciation. No global superiority/reversal, inspected lesson or phonetic verdict. Reciprocal REL-1241. |
+| `REL-1241` | `tasha-romanovsky → asami-miwako` | G:P1-3: reported reciprocal language teacher following English help. No own current turn, verified pronunciation, complete proficiency or adult institutional appointment. Reciprocal REL-1240. |
+
+CHAR-0070 gains chosen disclosure and privacy limits, particular music-company value, uncertainty when asked to teach an adult image, defense of idol/rock pleasures, imagined study within continued work, specific food choice and reciprocal child-led learning. B0094 plural futures, B0120 register help, B0132 fan/care/risk limits, B0139 agency-first restraint, B0160 consented method coaching/anxiety, B0170 role vulnerability/differentiated recall/pressure and care costs, B0177 task-local learning/partial whisper access and B0180 qualified analogy/coacting retain their horizons. No omniscience, universal care competence, permanent incapacity, total cure or uniform privacy doctrine.
+
+Totals:1827KNOW/1241REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Whole READY subject scan has no Miwako decision; no invented R2/R3, readiness-body rewrite, performed-audio or monograph/era maturity promotion.
 <!-- T7S ENTITY STATE PAYLOAD END -->
