@@ -5,14 +5,14 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.55"
+version: "1.56"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0021 through whole transactions; original I1 continuous, E0022 next after wholeE21, all dependent stages retained; separate immutable BW/LN10 additions; V1/future releases unopened"
+source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0022 through whole transactions; original I1 continuous, E0023 next after wholeE22, all dependent stages retained; separate immutable BW/LN10 additions; V1/future releases unopened"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0021_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
+review_status: E0022_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,6 +20,17 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Source inventory and edition/witness architecture
+
+## Current E0022 source transaction — 2026-10-29
+
+The whole E22reading/audit/ledger/run transaction alone yields55/464combined,49/458originalI1,54/463pre-LN10andWEB22/431. Four logical ledgers become1.46through four current physical files; both historical masters remain exact. Joint totals248claims/787versions/1294strict rows,1327propositions/1859versions,192rules/471pairs/490rows with19legacy repeats. All4570oldtablelines in the changing four and both static master files remain preserved; no physical-continuation reset or new logical responsibility.
+
+OwnMiyagiE22and observedSendaiE22retain ownSendaiE20/observedMiyagiE20/laterLN10clocks. New arrival/payment and old-trace disappearance are later outcomes, with actual spoken recipient subsets distinguished from private accounts. Participant refusal testimony and a voiced jealousy label coexist with Miyagi's private explicit denial, friend-like coping explanation and eroding original purpose. No blanket contact assent, new agreed exclusivity, exact fading interval or performed textbook reading/aloud voice.
+
+Current I1 stays active/continuous, high-waterE22/nextE23only through the whole commit, full original terminal/dependencies and confirmationfalse retained. Actual E21sourceb3ecaudit40974030089passed486tests/10484paths; it does not certifyE22or protectedmain. OwnermergedPR381asdc7at00:09:53UTC; ordinary identical-tree main adoption retains all18original entering files and genuine b3ecfreeze/Q1without rewriting them. No controls changed. E22whole review/finalINDEX/commit/push/readback/own-headCI/newPRremain separate. TenLN/23supplements,51gaps(4resolved/47unresolved),27discovery,Narō0/290,18forecasts/13attempts/noncurrentUNTESTED M0.13S0.14/0validateddomains remain. BothOFFarchives staylocal; V1/future releases unopened. Earlier dated states below remain history.
+
+
+Before staging, current main advanced to `3e15e74e7ae3c4857bc99b2cbc50e5dee50a38df` through owner PR382/383. Ordinary fast-forward reconciliation retains19legitimate external paths, including descriptive Mio LN10global-curation coverage. The entire `series/shuukura/` subtree and all18original entering inputs remain exact; no governing controls changed. Genuine b3ecentry/Q1and accepted source/ledger arguments remain unchanged. The first dc7adoption stays historical; this later main is the actual E22transaction parent. Its separate adoption receipt is 12373bytes/SHA256`78794fccc921077c78ee82286f9402b198a8702683381835b2f2b54303313ecc`. No new source, current model/domain or main-CIcredit follows; both owner transactions remain outside the nine-path E22delta.
 
 ## Current E0021 source transaction — 2026-10-29
 
@@ -2138,3 +2149,31 @@ Independent source/Q2accepted339effectivechecks/13manuals; the same reviewer's c
 Previous actual E20source5d8245b4c33df608c0007eafd1282f9b2160accdpassed ownerpush audit40967349923attempt1,486tests/10481paths/0failures-errors-skips, trustedstatus57626881976/github-actions[bot]41898282exactrun. Fresh23:09:58UTCrefs are source5d824/mainDD407with PR381OPEN/unmerged and no newcontrols/Shuukurachanges. Prior sourcegreen enables this next major push but does not certifyE21or protectedmain. This transaction still needs wholeassemblyreview, finalINDEX, approvedidentities, ordinarycommit/push/fullchanged-blobreadback and its own actual-headCI. Owner/CI retains protected-main/globalmaintenance; no controls, provider settings, indexes/registries or syntheticrefs are changed.
 
 Current run remains continuous_sequential/active, startLN-JP-V01, terminalSHUUKURA-V2-20261017-I1, high-waterE21/nextcandidate+permittedE22only through the whole commit, confirmationfalse. E22requires prospective entering/source controls after that whole commit, with E21actual published-headgreen before the nextmajorpush. Full original correspondence/discovery/reconciliation/monograph/specialist/reconstruction/V1comparison/synthesis/release duties remain; E21orE431alone is no substitute terminal. Separate completedLN10 and all dated pauses remain historical. BothOFFarchives staylocal; future releases/prematureV1excluded.
+
+## E0022 kept agreement and unsettled purpose — 2026-10-29
+
+The complete frozen E22source, finite acquired LN01original comparison and four-logical-ledger reconciliation are accepted components of this nine-path introducing transaction. Its whole commit alone advancesWEB22/431,49/458I1,54/463pre-LN10and55/464combined. TenLNvolumes/23supplements remain complete; Narō0/290,51historical gaps(4resolved47unresolved),27discovery duties and originalI1/BW/LN10inventory identities remain. All source notes/seals are immutable.
+
+Sendai's actual next-day arrival/apology is met by Miyagi's recognition that their prep-school accommodation was kept; a new5000yen is transferred. No old message text/read instant or numeric weekly breach is invented. Miyagi distinguishes her spoken holiday-boredom explanation from the withheld earlier bad-mood cause and privately has an unperformed Maika/Ami outing agreement. The expressly nonorder arm request, stronger sleeve request, hypothetical unissued marking order and actual final textbook order retain distinct forms/responses.
+
+The older Sendai/Miyagi arm traces and Miyagi knee bruise are now gone, with separate reports/inspection and no exact common interval or remedy experiment. Initial pressure leaves no trace; later nail pressure continues after pain, increases and ends in forced hand removal, with new thin nail traces. Nonwithdrawal is Miyagi's local inference, not blanket assent; sleeve concealment is not fading. Sendai's refusal/reasons are newly heard participant testimony beyond rumor, without independent past staging/date/full identity proof. Priority is prospective reassurance, not a new bilateral permanent rule. Jealousy is voiced by Sendai and explicitly denied by Miyagi in a private uneven-information account; neither is a complete mind verdict.
+
+Miyagi's new later self-account says she tried friend-like games/talk to dispel a lingering feeling after the post-spring-break incident she recalls, judged the effort strained and cannot talk like a friend now. Her original orders-only purpose is being lost, not replaced by a settled shared category. No first-occurrence ordinal, sole lifelong motive, diagnosis or prior Sendai receipt is added. The cider analogy is no performed remedy. The textbook is produced and an explicit order is voiced; Sendai sits beside Miyagi, who then rests. No actual reading/aloud voice, passage, departure or emotional resolution occurs within the cutoff.
+
+All188native nodes/current generic title were actually read in four ordered complete outputs1–47/48–94/95–141/142–188, with substantive notes sealed between and wholeQ1before current novel/peer meanings.113nodes are meaningful/75exactLF-br,0ruby/bodymedia/replacements, no outside meaningful prose. ThirteenOBS cover everymeaningful node once;11outside thematic boundaries areLF-only. Miyagi ownE22/observedSendaiE22retain ownSendaiE20/observedMiyagiE20/laterLN10clocks. Current utterances create only their actual recipient gates; supporting figures have no new own narration or performed outing.
+
+Root actually read LN01part0018native87–188afterWEBQ1before comparator meanings: story90–188has99meaningful/14ruby19rt/0media; preanchor87–89is2LFplusdivider,102totalencounter/100nonblankincludingdivider.188is a finite cutoff inside399;189plusunread. Fullmap accounts for188WEBnative/99LNstory, with100components(86single/12joins/1WEB145-only omission/1LN173-only addition),60equal/40changedbases,12annotationchangesincluding2annotationonly,42complete manualchangedcomponents,227reversible opcodes/10groups. Root verified all original fragments/XMLrawslices/rubycoordinates/fullinverseconstructs and read the complete report/all42assessments. Novel-only desk/joint-calendar/route/body-location/grievance wording, post-spring-break versus third-year anchors and terminal fatigue/action presentation stay attributed; no reversed performed chronology or new reading performance.
+
+Four logicalledgers become1.46throughCHR/REL/DISC_CONT/CLM_CONT, with both historical masters unchanged:22CHR/20REL,2principalprojections/2directions/3supporting-role rows;38newPROP/12successors/38EPI/8tensions;4newOPENclaims/12successors;0newRULEids/6successors. Joint totals248claimIDs/787versions/1294strictrows,1327propositionIDs/1859versions,192rules/471pairs/490physicalrowswith19legacyrepeats. All4570oldtablelines in the changingfour and bothstaticmasters remain exact. No forecast/model/history/IDreset.
+
+Independent original source/Q2accepted241checks/16manualassessments with attributed117actor/160no-first-ordinal qualifications. OriginalQ1/fournotes remain exact. The same reviewer's distinct cumulative phase inspects complete new appendices/current prose, joint latest predecessors/material histories and full transforms; its rawA1finding leads only toOBS003coverage added inCHR006/PROP008/EPI008andCHR006locus32–47. All3evidencecells have exactA1→A2forward/inverse proof, no meaning/count/source-note change. Final cumulative receipt binds actual repairedA2; finite comparator authorQA/process-length diagnostics remain separate from rootfiniteacceptance. No extra independent-person or model-score claim.
+
+All18forecasts/13historicalattempts,6first-actionfailures/1exposure-qualifiedgiftmatch/6ordinary-baselineties and Sendaiinput-locationdefect remain. M0.13/S0.14are draft_noncurrent/UNTESTED,0validateddomains. Monographs/specialists/reconstruction/G3–G7and all dependent originalI1 duties remain unfinished.
+
+Previous actual E21sourceb3ec0826313138a0a93d7ddab3a139b88205e692passed ownerpushrun40974030089attempt1,486tests/10484paths/0failures-errors-skips, trustedstatus57630297284/github-actions[bot]41898282exactrun. The owner mergedPR381at2026-10-30T00:09:53Zasdc7d803dcf13c48e633991a9cc89e497e732aec1, parentsDD407/b3ec. Fresh refs and fulltree/source18inputequality support ordinary fast-forward adoption before this whole transaction; no controls/tool/workflow changes. The genuine b3ecentering/Q1and component provenance remain unchanged, with separate actualdc7adoption metadata. Adoption earns zero newreading/source/model/CIcredit; current-mainCIwas not inspected or turned into a new activation gate.
+
+This transaction still requires whole-semantic/publication-boundary acceptance, exact finalINDEX, approvedidentities, ordinarycommit/push/fullchanged-blobreadback, a newPRbecause381ismerged and its own actual-headCI. Owner/CI retains protected-main/globalmaintenance; no control/provider/syntheticref/globalindex/registry change. Prior sourcegreen does not certify this head or protectedmain.
+
+Current run remains continuous_sequential/active, startLN-JP-V01, terminalSHUUKURA-V2-20261017-I1, high-waterE22/nextcandidate+permittedE23only through the whole commit, confirmationfalse. E23requires its own prospective entry; the next major push requires actualE22published-headgreen. Full original correspondence/discovery/reconciliation/monograph/specialist/reconstruction/V1comparison/synthesis/release duties remain. E22orE431alone is no substitute terminal. Separate completedLN10and dated pauses remain history. BothOFFarchives staylocal; future releases/prematureV1excluded.
+
+Before staging, current main advanced to `3e15e74e7ae3c4857bc99b2cbc50e5dee50a38df` through owner PR382/383. Ordinary fast-forward reconciliation retains19legitimate external paths, including descriptive Mio LN10global-curation coverage. The entire `series/shuukura/` subtree and all18original entering inputs remain exact; no governing controls changed. Genuine b3ecentry/Q1and accepted source/ledger arguments remain unchanged. The first dc7adoption stays historical; this later main is the actual E22transaction parent. Its separate adoption receipt is 12373bytes/SHA256`78794fccc921077c78ee82286f9402b198a8702683381835b2f2b54303313ecc`. No new source, current model/domain or main-CIcredit follows; both owner transactions remain outside the nine-path E22delta.
